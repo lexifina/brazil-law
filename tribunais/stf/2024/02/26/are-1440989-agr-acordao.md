@@ -1,0 +1,584 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 15
+
+26/02/2024
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.440.989
+GOIÁS
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MIN. NUNES MARQUES
+: ESTADO DE GOIÁS
+: PROCURADOR-GERAL DO ESTADO DE GOIÁS
+: KLECIO FERNANDES COSME
+: SARA NUBIA SIQUEIRA DE LIMA
+EMENTA
+
+AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM
+AGRAVO. ESTADO DE GOIÁS. AGENTE PRISIONAL. ADICIONAL
+NOTURNO. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE
+LEGISLAÇÃO LOCAL. INCIDÊNCIA DOS ENUNCIADOS N. 279 E 280
+DA SÚMULA DO SUPREMO. VERBA HONORÁRIA. ART. 85, § 11, DO
+CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO CABÍVEL.
+1. Dissentir da conclusão alcançada na origem – quanto ao
+implemento dos requisitos necessários à percepção do adicional noturno
+– demandaria revolvimento de elementos fático-probatórios e
+reinterpretação de legislação local. Incidência dos enunciados n. 279 e 280
+da Súmula do Supremo.
+2. Majora-se em 1% (um por cento) a verba honorária fixada na
+origem, observados os limites impostos. Disciplina do art. 85, §§ 2º, 3º e
+11, do Código de Processo Civil.
+3. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros
+da Segunda Turma do Supremo Tribunal Federal, em sessão virtual
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 7A35-8B70-5370-CD62 e senha E8A1-2551-02E0-DF40
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 15
+
+ARE 1440989 AGR / GO
+realizada de 16 a 23 de fevereiro de 2024, na conformidade da ata de
+julgamentos, por maioria, em negar provimento ao agravo interno e,
+conforme o disposto no § 11 do art. 85 do Código de Processo Civil,
+majorar em 1% (um por cento) a verba honorária fixada pelas instâncias
+de origem, observados os limites previstos nos §§ 2º e 3º, nos termos do
+voto do Relator, vencido o ministro Gilmar Mendes.
+Brasília, 26 de fevereiro de 2024.
+
+Ministro NUNES MARQUES
+Relator
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 7A35-8B70-5370-CD62 e senha E8A1-2551-02E0-DF40
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 15
+
+26/02/2024
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.440.989
+GOIÁS
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MIN. NUNES MARQUES
+: ESTADO DE GOIÁS
+: PROCURADOR-GERAL DO ESTADO DE GOIÁS
+: KLECIO FERNANDES COSME
+: SARA NUBIA SIQUEIRA DE LIMA
+RELATÓRIO
+
+O SENHOR MINISTRO NUNES MARQUES: O Estado de Goiás
+interpôs agravo interno de decisão em que neguei provimento ao recurso
+extraordinário com agravo por entender aplicáveis à espécie os óbices dos
+enunciados n. 279 e 280 da Súmula do Supremo.
+Segundo alega:
+[…] não deve prosperar o óbice da súmula 280/STF na
+espécie, porquanto, como consignado, o Estado de Goiás pugna
+o reconhecimento de violação direta ao art. 39, §4º e 8º, da CF,
+visto que a carreira a qual pertence a parte contrária é
+remunerada por subsídio, de modo que não lhe poderia ser
+reconhecido, especialmente por exclusiva decisão do Poder
+Judiciário, o direito à percepção de adicional noturno.
+Por iguais razões, não cabe a incidência da súmula
+279/STJ, pois o que se pretende é apenas que o STF se pronuncie
+acerca da compatibilidade entre o regime de subsídio e o
+adicional noturno, a partir da interpretação da CRFB/88.
+
+Em contraminuta, o agravado sustenta que deve ser negado
+seguimento ao recurso, por falta de impugnação específica dos
+fundamentos do ato de inadmissão do extraordinário. Diz que o
+recorrente pretende, com o agravo, “a intervenção da Suprema Corte
+sobre matéria que envolve direito local, no caso, a Lei Estadual, o que é
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D9FF-CBDA-784D-1294 e senha C7C7-656E-78FC-1906
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 15
+
+ARE 1440989 AGR / GO
+expressamente vedado pela Súmula 280 do STF”. Invoca, ainda, o óbice
+versado no verbete sumular n. 279, ante a necessidade da análise do
+contexto fático.
+É o relatório.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D9FF-CBDA-784D-1294 e senha C7C7-656E-78FC-1906
+
+Supremo Tribunal Federal
+Voto - MIN. NUNES MARQUES
+
+Inteiro Teor do Acórdão - Página 5 de 15
+
+26/02/2024
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.440.989
+GOIÁS
+
+VOTO
+O SENHOR MINISTRO NUNES MARQUES (RELATOR): O
+agravo interno, protocolado por Procurador do Estado, foi interposto no
+prazo legal. Conheço do recurso.
+Correta a decisão agravada.
+No caso, o Colegiado de origem manteve a sentença por meio da
+qual condenado o Estado de Goiás a pagar adicional noturno ao autor
+enquanto preenchidos os requisitos para percepção da verba.
+A propósito, colho do pronunciamento impugnado os seguintes
+trechos:
+1 – Ressoa dos autos em epígrafe que a parte autora,
+ocupante do cargo de Agente Prisional, pleiteou ação
+declaratória para que lhe seja assegurado o direito ao
+recebimento de adicional noturno, bem como a percepção das
+diferenças remuneratórias. A sentença julgou parcialmente
+procedentes os pedidos, motivo pelo qual a parte reclamada,
+ora recorrente, interpôs a presente súplica recursal, ao
+argumento de que a reclamante não possui direito ao adicional
+noturno visto que é remunerada sob o regime de subsídio.
+[…]
+5 – Dessa forma, em 28/01/2020, foi editado o Estatuto do
+Servidor Público do Estado de Goiás, Lei Estadual 20.756/2020,
+prevendo o pagamento do adicional noturno aos servidores
+públicos civis, nos seguintes termos: “Art. 125. O serviço
+noturno, prestado em horário compreendido entre 22 (vinte e
+duas) horas de um dia e 5 (cinco) horas do dia seguinte, terá o
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AB20-3EA2-F35D-4AF6 e senha 6EA1-CD9C-16B3-D874
+
+Supremo Tribunal Federal
+Voto - MIN. NUNES MARQUES
+
+Inteiro Teor do Acórdão - Página 6 de 15
+
+ARE 1440989 AGR / GO
+valor - hora acrescido de 20% (vinte por cento), computando-se
+cada hora como cinquenta e dois minutos e trinta segundos.”
+6 – A vista disso, resta demonstrado que a Administração
+Pública, através da edição do seu Novo Estatuto, prevê o direito
+do servidor à percepção do adicional noturno, bem como
+deixou de restringir a categoria daqueles que não podem ser
+contemplados com o benefício, motivo pelo qual, não há óbice
+ao recebimento da verba pleiteada.
+[…]
+8 – Noutro tanto, antes da edição da Lei Estadual
+20.756/2020, que prevê o pagamento do adicional noturno, o
+Estado de Goiás não havia editado lei regulamentadora desta
+garantia constitucional, admitindo-se, destarte, a integração
+judicial, por meio da analogia, com fim de viabilizar o exercício
+daquele direito.
+[…]
+10 – Desta feita, considerando que o reclamante, ora
+recorrido, está sujeito a jornada de trabalho desempenhada em
+regime de plantão (24 x 72 horas), este faz jus ao pagamento de
+adicional noturno, calculado na razão de 25% (vinte e cinco por
+cento) sobre o valor da hora normal de trabalho, antes da
+vigência da Lei 20.756/2020 e o labor eventualmente prestado a
+partir da vigência do novo estatuto será remunerado com
+acréscimo de 20% (vinte por cento), conforme reconhecido na
+sentença monocrática.
+
+Da leitura do pronunciamento se depreende que a controvérsia foi
+solucionada com base na legislação infraconstitucional local aplicável à
+espécie e no conjunto fático-probatório, a incidir, portanto, os óbices dos
+enunciados n. 279 e 280 da Súmula do Supremo.
+Ilustram esse entendimento o ARE 1.447.236, ministra Cármen Lúcia;
+os AREs 1.449.913 e 1.450.382, ministro Cristiano Zanin; os AREs
+1.449.742, 1.450.023 e 1.450.689, ministra Rosa Weber; além dos julgados
+cujas ementas transcrevo:
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AB20-3EA2-F35D-4AF6 e senha 6EA1-CD9C-16B3-D874
+
+Supremo Tribunal Federal
+Voto - MIN. NUNES MARQUES
+
+Inteiro Teor do Acórdão - Página 7 de 15
+
+ARE 1440989 AGR / GO
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO
+COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDOR
+PÚBLICO
+ESTADUAL.
+EXERCÍCIO
+DE
+FUNÇÃO
+GRATIFICADA. PERCEPÇÃO DE ADICIONAL NOTURNO.
+LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. OFENSA
+REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE.
+PRECEDENTES. […]
+(ARE 1.283.358 AgR, ministro Luiz Fux)
+RECURSO
+EXTRAORDINÁRIO
+COM
+AGRAVO.
+DIREITO
+ADMINISTRATIVO.
+SERVIDOR
+PÚBLICO
+ESTADUAL. ADICIONAL NOTURNO. ADICIONAL DE
+PERICULOSIDADE.
+CUMULAÇÃO
+COM
+SUBSÍDIO.
+REEXAME DE FATOS E PROVAS. DIREITO LOCAL (LEIS
+ESTADUAIS N. 6.772/2006 E 5.247/1991) ENUNCIADOS N. 279
+E 280 DA SÚMULA DO SUPREMO. INADMISSIBILIDADE.
+PRECEDENTES.
+1. A análise da matéria referente à existência de
+compatibilidade da concessão dos adicionais com a percepção
+do subsídio exige o reexame dos fatos e a análise da legislação
+local, o que encontra óbice nos enunciados n. 279 e 280 da
+Súmula do Supremo Tribunal Federal.
+2. Recurso extraordinário com agravo desprovido.
+(ARE 1.343.695, da minha relatoria)
+AGRAVO
+REGIMENTAL
+EM
+RECURSO
+EXTRAORDINÁRIO. INTERPOSIÇÃO EM 4.4.2017. DIREITO
+ADMINISTRATIVO.
+AGENTES
+PENITENCIÁRIOS
+ESTADUAIS.
+ADICIONAL
+DE
+PERICULOSIDADE.
+CUMULAÇÃO COM SUBSÍDIO. REEXAME DE LEGISLAÇÃO
+LOCAL (LEIS ESTADUAIS 6.772/2006 e 6.682/2006). REEXAME
+DE FATOS E PROVAS. SÚMULAS 280 E 279 DO STF.
+1. Para se chegar a conclusão diversa daquela a que
+chegou o Tribunal de origem, quanto à possibilidade de
+concessão do adicional de periculosidade aos recorridos, seria
+necessário o reexame dos fatos e provas dos autos, além da
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AB20-3EA2-F35D-4AF6 e senha 6EA1-CD9C-16B3-D874
+
+Supremo Tribunal Federal
+Voto - MIN. NUNES MARQUES
+
+Inteiro Teor do Acórdão - Página 8 de 15
+
+ARE 1440989 AGR / GO
+legislação aplicável à espécie. Incidência das Súmulas 279 e 280
+do STF.
+2. Agravo regimental a que se nega provimento, com
+previsão de aplicação da multa prevista no art. 1.021, § 4º, do
+CPC. Nos termos do artigo 85, § 11, CPC, majoro em ¼ (um
+quarto) a verba honorária fixada anteriormente, devendo ser
+observados os §§ 2º e 3º do mesmo dispositivo.
+(RE 799.628 AgR, ministro Edson Fachin)
+
+Do exposto, nego provimento ao agravo interno.
+Nos termos do § 11 do art. 85 do Código de Processo Civil, majoro
+em 1% (um por cento) a verba honorária fixada pelas instâncias de
+origem, observados os limites previstos nos §§ 2º e 3º.
+É como voto.
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AB20-3EA2-F35D-4AF6 e senha 6EA1-CD9C-16B3-D874
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 9 de 15
+
+26/02/2024
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.440.989
+GOIÁS
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MIN. NUNES MARQUES
+: ESTADO DE GOIÁS
+: PROCURADOR-GERAL DO ESTADO DE GOIÁS
+: KLECIO FERNANDES COSME
+: SARA NUBIA SIQUEIRA DE LIMA
+VO TO -V O GAL
+
+O SENHOR MINISTRO GILMAR MENDES: Trata-se de agravo
+regimental interposto contra decisão do Ministro Relator, que negou
+seguimento ao recurso ordinário com agravo (eDOC 23).
+O Agravante alega, em suma, que não incidem ao caso os óbices das
+Súmulas 279 e 280/STF (pois caracterizada violação direta ao art. 39, §§4º
+e 8º, da CF/1988).
+Aduz, ainda, que o Tribunal de origem teria desrespeitado o
+entendimento sintetizado na Súmula Vinculante 37, bem como o que
+decidido por esta Suprema Corte no julgamento da ADI 5.404.
+O relator encaminha voto no sentido de negar provimento ao agravo
+regimental.
+Peço vênia para divergir.
+Isso porque no julgamento da ADI 5.404 (Rel. Min. Roberto Barroso,
+DJe de 9.3.2023), que teve por objeto a constitucionalidade de dispositivos
+da Lei nº 11.358/2006, assentou-se que o regime de subsídio não impede o
+pagamento de adicionais, desde que não remunerem atividades
+inerentes ao cargo público. Confira-se, a propósito, a ementa do julgado:
+“Direito Constitucional e Administrativo. Ação direta de
+inconstitucionalidade. Lei federal. Subsídio. Percepção de
+Adicionais. Procedência parcial. 1. Ação direta contra os arts. 1º,
+VII, 5º, caput, X, XI e XII, e 7º, caput, todos da Lei federal nº
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0A08-E855-71A4-34CF e senha 669B-FD80-1D35-E926
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 10 de 15
+
+ARE 1440989 AGR / GO
+11.358, de 19.10.2006, que dispõe, entre outras questões, sobre o
+regime de subsídios da carreira de Policial Rodoviário Federal.
+Alegação de violação à isonomia e aos direitos assegurados
+constitucionalmente aos servidores públicos. 2. O regime de
+subsídios não impede o pagamento dos direitos trabalhistas
+aplicáveis aos servidores públicos por força do art. 39, § 3º, da
+Constituição. Devem ser afastados apenas os adicionais que
+remunerem as atividades inerentes ao cargo, ou seja, aquelas
+relativas ao trabalho mensal ordinário do servidor. 3. O
+legislador federal, ao fixar o subsídio devido aos policiais
+rodoviários federais, incluiu na parcela única as verbas que se
+destinavam a compensar o desgaste físico e mental causado
+pelas atividades próprias do cargo. 4. O deferimento de
+adicional noturno aos policiais rodoviários federais para o
+exercício de funções inerentes ao cargo configuraria verdadeiro
+aumento de vencimentos pelo Poder Judiciário, o que afronta a
+Constituição Federal e a jurisprudência pacífica desta Corte.
+Precedentes. Não cabe ao Poder Judiciário, que não tem função
+legislativa, aumentar vencimentos de servidores públicos sob
+fundamento de isonomia (Súmula Vinculante nº 37). 5. Por
+outro lado, o regime de subsídio não é hábil a afastar o direito
+dos servidores à retribuição pelas horas extras realizadas que
+eventualmente ultrapassem a quantidade remunerada pela
+parcela única (ADI 5.114). 6. Pedido parcialmente procedente.
+Tese: ‘O regime de subsídio não é compatível com a percepção
+de outras parcelas inerentes ao exercício do cargo, mas não
+afasta o direito à retribuição pelas horas extras realizadas que
+ultrapassem a quantidade remunerada pela parcela única’ (ADI
+5404, Rel. Min. Roberto Barroso, Tribunal Pleno, DJe 09.03.2023)
+
+O Ministro Roberto Barroso fez as seguintes considerações sobre a
+influência da natureza das atividades exercidas pelos servidores públicos
+no direito ao recebimento do adicional noturno em acréscimo ao subsídio:
+“(...) aos servidores que percebem subsídio, permite-se o
+pagamento de valores adicionais que retribuam o exercício de
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0A08-E855-71A4-34CF e senha 669B-FD80-1D35-E926
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 11 de 15
+
+ARE 1440989 AGR / GO
+atividades excepcionais e eventuais.
+8. Em relação às funções dos integrantes da carreira
+policial da Polícia Rodoviária Federal, assim prevê a
+Constituição Federal:
+Art. 144. A segurança pública, dever do Estado,
+direito e responsabilidade de todos, é exercida para a
+preservação da ordem pública e da incolumidade das
+pessoas e do patrimônio, através dos seguintes órgãos:
+(...)
+II - polícia rodoviária federal;
+(...)
+§ 2º A polícia rodoviária federal, órgão permanente,
+organizado e mantido pela União e estruturado em
+carreira, destina-se, na forma da lei, ao patrulhamento
+ostensivo das rodovias federais. (Redação dada pela
+Emenda Constitucional nº 19, de 1998)
+9. Em conformidade com a norma constitucional, a Lei nº
+9.654, de 2.8.1998, ao criar a carreira de Policial Rodoviário
+Federal prevê as seguintes atividades:
+¨Art. 2º-A. A partir de 1o de janeiro de 2013, a
+Carreira de que trata esta Lei, composta do cargo de
+Policial Rodoviário Federal, de nível superior, passa a ser
+estruturada nas seguintes classes: Terceira, Segunda,
+Primeira e Especial, na forma do Anexo I-A, observada a
+correlação disposta no Anexo II-A. (Incluído pela Lei nº
+12.775, de 2012)
+§ 1º As atribuições gerais das classes do cargo de
+Policial Rodoviário Federal são as seguintes: (Incluído pela
+Lei nº 12.775, de 2012)
+I - Classe Especial: atividades de natureza policial e
+administrativa, envolvendo direção, planejamento,
+coordenação,
+supervisão,
+controle
+e
+avaliação
+administrativa e operacional, coordenação e direção das
+atividades de corregedoria, inteligência e ensino, bem
+como a articulação e o intercâmbio com outras
+organizações e corporações policiais, em âmbito nacional e
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0A08-E855-71A4-34CF e senha 669B-FD80-1D35-E926
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 12 de 15
+
+ARE 1440989 AGR / GO
+internacional, além das atribuições da Primeira Classe;
+(Incluído pela Lei nº 12.775, de 2012)
+II - Primeira Classe: atividades de natureza policial,
+envolvendo planejamento, coordenação, capacitação,
+controle e execução administrativa e operacional, bem
+como articulação e intercâmbio com outras organizações
+policiais, em âmbito nacional, além das atribuições da
+Segunda Classe; (Incluído pela Lei nº 12.775, de 2012)
+III - Segunda Classe: atividades de natureza policial
+envolvendo a execução e controle administrativo e
+operacional das atividades inerentes ao cargo, além das
+atribuições da Terceira Classe; e (Incluído pela Lei nº
+12.775, de 2012)
+IV - Terceira Classe: atividades de natureza policial
+envolvendo a fiscalização, patrulhamento e policiamento
+ostensivo, atendimento e socorro às vítimas de acidentes
+rodoviários e demais atribuições relacionadas com a área
+operacional do Departamento de Polícia Rodoviária
+Federal. (Incluído pela Lei nº 12.775, de 2012)
+§ 2º As atribuições específicas de cada uma das
+classes referidas no § 1o serão estabelecidas em ato dos
+Ministros de Estado do Planejamento, Orçamento e Gestão
+e da Justiça. (Incluído pela Lei nº 12.775, de 2012)¨
+10. Cita-se, ainda, quadro previsto no Anexo IX do Edital
+nº 1 [1] , de 18.01.2021, do Concurso Público para o provimento
+de vagas de Policial Rodoviário Federal, que descreve o rol das
+atividades inerentes ao cargo. Nota-se que as atividades
+operacionais são executadas por meio de plantões de 6, 12 e 24
+horas para exercício de atividades ‘[s]ob sol ou chuva, dia ou
+noite’. Assim, ao ingressar na carreira, os policiais estão
+cientes de que podem vir a exercer tais atribuições na forma
+descrita no edital, inclusive em período noturno.
+(...)
+11. Portanto, as verbas que se destinavam a compensar o
+desgaste físico e mental causado pelas atividades que são
+inerentes ao exercício do cargo de Policial Rodoviário Federal
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0A08-E855-71A4-34CF e senha 669B-FD80-1D35-E926
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 13 de 15
+
+ARE 1440989 AGR / GO
+foram incorporadas à parcela única paga a título de subsídio.
+Como afirmado, o art. 39, § 4º, da Constituição veda
+enfaticamente o acréscimo de qualquer espécie remuneratória
+ou de vantagens pessoais decorrentes do exercício regular do
+cargo. Nesse contexto, o deferimento, na presente ação direta
+de inconstitucionalidade, de adicional noturno aos policiais
+rodoviários federais para o exercício de funções inerentes ao
+cargo configuraria verdadeiro aumento de vencimentos pelo
+Poder Judiciário. Tal entendimento afrontaria a Constituição
+Federal, bem como a jurisprudência pacífica e dominante deste
+Supremo Tribunal Federal, que veda o aumento de vencimentos
+pelo Poder Judiciário, com base no princípio da isonomia, na
+equiparação salarial e na extensão do alcance de vantagens
+pecuniárias previstas em norma infraconstitucional” (grifo
+nosso)
+
+A orientação desta Suprema Corte fixou-se, portanto, no sentido da
+impossibilidade do recebimento de adicional noturno quando o
+exercício das atribuições em tal turno consista em atividade previsível e
+inerente às atribuições do cargo público.
+Ocorre que, no caso, o Recorrido integra a carreira de agente de
+segurança prisional do Estado de Goiás, de forma que o exercício de suas
+atividades em regime de plantão pode estar relacionado às atribuições
+do cargo, o que afastaria o direito ao recebimento do adicional noturno.
+Dessa forma, compete ao Tribunal de origem, à luz do que decidido
+no julgamento da ADI 5.404, bem como da legislação local que
+regulamenta a carreira dos agentes de segurança prisional do Estado de
+Goiás, aferir se o exercício da atividade noturna é inerente ou não às
+atribuições do cargo (hipótese em que o direito ao recebimento deverá
+ser negado).
+Ante o exposto, com as devidas vênias, dou provimento agravo
+regimental, para, provendo o recurso extraordinário e cassando o
+acórdão recorrido, determinar o retorno dos autos ao Tribunal de origem
+para o rejulgamento do recurso inominado, levando-se em consideração,
+desta vez, o entendimento firmado no julgamento da ADI 5.404.
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0A08-E855-71A4-34CF e senha 669B-FD80-1D35-E926
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 14 de 15
+
+ARE 1440989 AGR / GO
+É como voto.
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0A08-E855-71A4-34CF e senha 669B-FD80-1D35-E926
+
+Supremo Tribunal Federal
+Extrato de Ata - 26/02/2024
+
+Inteiro Teor do Acórdão - Página 15 de 15
+
+SEGUNDA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.440.989
+PROCED. : GOIÁS
+RELATOR : MIN. NUNES MARQUES
+AGTE.(S) : ESTADO DE GOIÁS
+PROC.(A/S)(ES) : PROCURADOR-GERAL DO ESTADO DE GOIÁS
+AGDO.(A/S) : KLECIO FERNANDES COSME
+ADV.(A/S) : SARA NUBIA SIQUEIRA DE LIMA (51588/GO)
+Decisão: A Turma, por maioria, negou provimento ao agravo
+regimental e, nos termos do § 11 do art. 85 do Código de Processo
+Civil, majorou em 1% (um por cento) a verba honorária fixada pelas
+instâncias de origem, observados os limites previstos nos §§ 2º e
+3º, nos termos do voto do Relator, vencido o Ministro Gilmar
+Mendes. Segunda Turma, Sessão Virtual de 16.2.2024 a 23.2.2024.
+Composição: Ministros Dias Toffoli (Presidente), Gilmar
+Mendes, Edson Fachin, Nunes Marques e André Mendonça.
+Hannah Gevartosky
+Secretária
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2D4B-511C-89D1-8D2B e senha B56B-6FBB-1E05-C10A
