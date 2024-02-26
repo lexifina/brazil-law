@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de pedido liminar deduzido em sede de habeas corpus impetrado em favor de FELLIPE HENRIQUE DA SILVA SANTOS contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNA MBUCO.
+Depreende-se dos autos que, diante da suposta prática do delito de homicídio qualificado, o Juízo de primeiro grau concedeu a liberdade provisória ao Paciente. Irresignado, o Ministério Público Estadual, interpôs recurso em sentido estrito perante o Tribunal de origem. O recurso foi provido pela Corte local, para revogar a liberdade provisória e decretar a prisão preventiva do Paciente:
+"No caso em tela, o homicídio teria sido cometido em um contexto de vingança pela morte do tio do requerente (antigo policial da ROCAM), existindo elementos nos autos de que o acusado se dirigiu até a vítima e teria cometido o homicídio com arma de fogo tendo sido desferido vários disparos de arma de fogo na cabeça da vítima em plena via pública, demonstrando a gravidade concreta da conduta praticada.
+Deve-se pontuar que o recorrido enquanto estava em liberdade provisória pelo crime tratado neste recurso, praticou novo delito da mesma espécie desferindo disparos de arma de fogo contra o policial militar Ideyvison Barbosa da Silva, nos autos nº 0003239-10.2021.8.17.1370, além de ter sido preso em flagrante pelo delito de porte ilegal de arma de fogo nos autos nº 0000013-80.2021.8.17.1370, evidenciando o risco de reiteração delitiva, colocando em risco a ordem pública.
+Além disso, constata-se que uma das testemunhas que colaborou com o início das investigações, tendo informado perante à autoridade policial que o acusado teria praticado o delito, foi morta antes da audiência em juízo e uma segunda testemunha que teria dito que o pivô da morte da vítima era o réu, ora recorrido, não fora encontrada, ressaltando a necessidade de se resguardar todas as testemunhas para a conveniência da instrução criminal.
+Assim, ao analisar cuidadosamente todos os documentos contidos nos autos, verifico que, como bem pontuado pela i.
+Procuradora de Justiça, a medida cautelar fixada na Origem não se mostra suficiente para inibir a conduta delitiva do recorrido, tendo em vista a possibilidade concreta de reiteração delitiva, além da necessidade de se resguardar as testemunhas, o que denota claramente seu periculum libertatis e o risco a ordem pública, mostrando-se imperiosa a reforma da decisão guerreada" (fl. 50).
+Neste writ, a Defesa alega, em linhas gerais, a ocorrência de constrangimento ilegal consubstanciado no encarceramento provisório do Paciente, aduzindo ausência de requisitos para a prisão cautelar.
+Argumenta que:
+"Além de toda acusação ser baseada em nenhum indício válido, conforme já tratamos, NÃO PODEMOS VISLUMBRAR A NECESSIDADE DA PRISÃO PREVENTIVA, além de o mesmo possuir requisitos que autorizariam a Prisão Domiciliar ao invés da preventiva.
+O acusado é primário, pai de dois filhos menores pelos quais é responsável, além de estar sob tratamento psiquiátrico e psicológico" (fl. 13).
+Ressalta que:
+"No presente caso, verifica-se a existência do periculum in mora, pois o paciente encontra-se preso há mais de 06 (seis) meses por um crime que não cometeu, além do mais o Paciente é Policial Militar que possui grande respeito por parte da população e uma prisão injusta feriu de morte a sua reputação, e mesmo que em momento posterior se comprove a sua inocência e a desnecessidade da prisão, nada jamais apagará este fato." (fl. 17).
+Requer a revogação da prisão preventiva do Paciente.
+É o relatório. DECIDO.
+Em consulta à base de dados desta Corte Superior, denota-se a reiteração das razões manifestadas no HC n. 841.389 / PE, cuja irresignação dirigiu-se ao mesmo acórdão ora atacado (recurso em sentido estrito n. 0001922-74.2021.8.17.3370 ), evidenciando-se deste presente recurso o propósito de dupla apreciação, por este Superior Tribunal de Justiça, do pleito de revogação da prisão cautelar, dado que indica o não cabimento da insurgência em exame.
+Nesse sentido:
+"Inadimissível o recurso por litispendência quanto aos pressupostos e motivos autorizadores da custódia cautelar, por veicular mera reiteração de pedido já formulado no HC n.º 492.985/RS" (RHC n. 115.356/RS, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 03/10/2019, grifei).
+Ante o exposto, com fulcro no art. 34, inc. XX e art. 210, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intime-se .
+EMENTA
