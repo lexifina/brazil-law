@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. EMBARGOS DE TERCEIRO. HONORÁRIOS SUCUMBENCIAIS. CAUSALIDADE. RESISTÊNCIA. APLICAÇÃO DO PRINCÍPIO DA SUCUMBÊNCIA. DISSÍDIO PREJUDICADO.
+1. Embargos de terceiro.
+2. Ausentes os vícios do art. 1022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. Os honorários advocatícios nos embargos de terceiro devem ser suportados por quem deu causa à constrição. Contudo, a oposição de resistência ao mérito dos embargos de terceiro, pleiteando-se a manutenção da penhora, transfere ao embargado/exequente os honorários sucumbenciais, à luz do princípio da sucumbência.
+6. Diante da análise do mérito em que foi desacolhida a pretensão da agravante, fica prejudicada a análise da divergência jurisprudencial.
+7. Agravo interno não provido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por TICKET SOLUÇÕES HDFGT S/A em face da decisão monocrática que, a par de conhecer do agravo, conheceu parcialmente e, nessa parte, negou provimento ao recurso especial que interpusera.
+Ação: de embargos de terceiro, opostos por DENILSON ANTONIO PINHEIRO nos autos do cumprimento de sentença de ação monitória movida pela agravante em desfavor de M V PINHEIRO TRANSPORTES EIRELI e MORGANA VANDA PINHEIRO, em virtude de bloqueio de ativos financeiros mantidos em conta conjunta por ele e os executados.
+Sentença: julgou extinto o processo, sem resolução de mérito, nos termos do art. 485, VI, do CPC/15, ante a perda do objeto, em razão do provimento do agravo de instrumento interposto na ação executiva, por meio do qual foi determinado o desbloqueio das quantias constritas, incluídas as pleiteadas pelo embargante, ora agravado. Ao final, com fundamento no princípio da causalidade, condenou a embargada, ora agravante, a arcar com o pagamento das custas e despesas processuais, e honorários advocatícios do adverso, em quantia de 10% do valor atualizado da causa.
+Acórdão: negou provimento ao recurso de apelação interposto pela agravante, nos termos da seguinte ementa:
+Embargos de terceiro. Sentença de extinção sem resolução de mérito por perda do objeto e fixação de honorários a favor da embargada. Insurgência recursal da embargada. Verbas sucumbenciais. Princípio da causalidade. Interposição do embargante de embargos de terceiro visando a desconstituição do bloqueio dos ativos financeiros mantidos em conta poupança conjunta. Resistência da embargada ao levantamento da constrição. Agravo de instrumento ajuizado pela executada que determinou o desbloqueio de todas as quantias constritas. Perda do objeto reconhecida. Princípio da causalidade corretamente arbitrado. Sentença mantida. Recurso desprovido, com observação.
+Não se revela cabível a alteração da distribuição da sucumbência diante do princípio da causalidade, pois a apelante deu causa ao ajuizamento dos embargos de terceiro oferecendo resistência, eis que o terceiro constituiu advogado para defesa de seus interesses, em razão do bloqueio de ativos financeiros mantidos em conta conjunta por ele e os executados da ação executiva, sendo que, em decisão no agravo de instrumento interposto pela executada foi reconhecida a impenhorabilidade de valores existentes em conta da cotitularidade do apelado.
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: aponta violação aos arts. 85, 10º, 489, § 1º, IV, e 1.022 do CPC/15, bem como dissídio jurisprudencial.
+Além da negativa de prestação jurisdicional, sustenta, em síntese, que, ao manter a condenação do embargado no pagamento dos ônus sucumbenciais, "a decisão não levou em consideração que os embargos foram extintos sem julgamento de mérito e deixou de analisar/enfrentar, que quem deu causa aos embargos foi o próprio embargante, pois aquele que mantém conta conjunta com terceiro assume o risco de eventual constrição judicial" (e-STJ fl. 178).
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Agravo interno: nas razões do presente recurso, a agravante defende, em síntese, ter havido negativa de prestação jurisdicional, a não incidência dos óbices das Súmulas 211 e 568 do STJ, bem como reitera os argumentos de mérito do especial, no que se refere à distribuição dos ônus sucumbenciais.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. EMBARGOS DE TERCEIRO. HONORÁRIOS SUCUMBENCIAIS. CAUSALIDADE. RESISTÊNCIA. APLICAÇÃO DO PRINCÍPIO DA SUCUMBÊNCIA. DISSÍDIO PREJUDICADO.
+1. Embargos de terceiro.
+2. Ausentes os vícios do art. 1022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. Os honorários advocatícios nos embargos de terceiro devem ser suportados por quem deu causa à constrição. Contudo, a oposição de resistência ao mérito dos embargos de terceiro, pleiteando-se a manutenção da penhora, transfere ao embargado/exequente os honorários sucumbenciais, à luz do princípio da sucumbência.
+6. Diante da análise do mérito em que foi desacolhida a pretensão da agravante, fica prejudicada a análise da divergência jurisprudencial.
+7. Agravo interno não provido.
+VOTO
+Pela análise das razões recursais apresentadas, verifica-se que a agravante não trouxe qualquer argumento apto a modificar as conclusões da decisão agravada.
+1. Da violação dos arts. 489 e 1.022 do CPC
+Com efeito, constata-se que os arts. 489 e 1022 do CPC realmente não foram violados, porquanto o acórdão recorrido não contém omissão, contradição ou obscuridade. Nota-se, nesse passo, que o Tribunal de origem tratou de todos os temas oportunamente colocados pelas partes, proferindo, a partir da conjuntura então cristalizada, a decisão que lhe pareceu mais coerente.
+Em que pese ter o Tribunal de origem apreciado toda a matéria posta a desate sob viés diverso daquele pretendido pela agravante, especialmente acerca do suposto ponto omisso, quanto à distribuição dos ônus sucumbenciais, aplicando-se o princípio da causalidade, esse fato não configura ausência de prestação jurisdicional.
+Desse modo, analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, realmente não há que falar em violação dos arts. 489 e 1.022 do CPC.
+Frise-se, ainda, que, conforme entendimento desta Corte, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, DJe 21/6/2016). No mesmo sentido: AgInt nos EDcl no AREsp 1.547.208/SP, 3ª Turma, DJe 19/12/2019 e AgInt no AREsp 1.480.314/RJ, 4ª Turma, DJe 19/12/2019.
+2. Da ausência de prequestionamento
+Da renovada a análise dos autos, verifica-se que, a despeito da oposição de embargos de declaração, efetivamente não houve pronunciamento do Tribunal de origem acerca do 85, 10º, do CPC, indicado como violado nas razões do recurso especial, circunstância que impede a apreciação da insurgência, pois não satisfeito o requisito do prequestionamento, atraindo a incidência da Súmula 211 do STJ.
+Ressalta-se, por oportuno, que, diferentemente do quer fazer crer a parte agravante e conforme consignado na decisão agravada, o referido dispositivo legal foi mencionado pela primeira vez, tão somente, na petição do recurso especial, não tendo sido mencionado nas razões do recurso de apelação interposto, tampouco nos embargos de declaração opostos, caracterizando verdadeira inovação da tese de defesa, de modo que não foi dado ao Tribunal de origem analisar a controvérsia tendo em vista tal norma.
+3. Da Súmula 568/STJ
+Não bastasse, não há qualquer equívoco na decisão agravada, tendo em vista que, de fato, ainda que fosse superado o óbice quanto a ausência de prequestionamento, o acórdão proferido pelo TJ/SP - ao manter a condenação da parte embargada nos ônus da sucumbência - está em consonância com o entendimento adotado por esta Corte, no sentido de que os honorários advocatícios nos embargos de terceiro devem ser suportados por quem deu causa à constrição; contudo, a oposição de resistência ao mérito dos embargos de terceiro, pleiteando-se a manutenção da penhora, transfere ao embargado/exequente os honorários sucumbenciais, à luz do princípio da sucumbência.
+Nessa linha, confira-se: AgInt no AREsp 2.024.387/MT, 3ª Turma, DJe 28/9/2022; AgInt no REsp 1.931.283/SP, 4ª Turma, DJe 1º/7/2021; AgInt no REsp 1.278.007/SP, 4ª Turma, DJe 9/2/2018; e AgRg no AREsp 170.873/SP, 4ª Turma, DJe 28/8/2017.
+4. Da divergência jurisprudencial
+Frise-se, por fim, que, diante da análise do mérito em que foi desacolhida a pretensão do agravante, ficou prejudicada a análise da divergência jurisprudencial.
+Nesse sentido, a propósito: AgInt no AREsp 2.210.915/PR, 2ª Turma, DJe 4/4/2023; AgInt no REsp 2.025.840/AL, 2ª Turma, DJe 4/4/2023; AgInt no REsp 2.006.801/MG, 1ª Turma, DJe 11/4/2023; e REsp 1.840.515/CE, 3ª Turma, DJe 1º/12/2020.
+Por todo o exposto, não merece reforma a decisão agravada.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
