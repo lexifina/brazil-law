@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Daniela Teixeira.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME DE EXTORSÃO MEDIANTE SEQUESTRO. ABSOLVIÇÃO. AUTORIA DELITIVA. RECONHECIMENTO DA PESSOA. ART. 226 DO CPP. EXISTÊNCIA DE OUTROS ELEMENTOS DE PROVA. VÍCIOS. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1.Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do CPP.
+2. Esta Corte Superior, ao analisar o tema, posicionou-se de forma clara, adequada e suficiente ao concluir que a situação concreta apresentada gera distinguishing em relação ao acórdão paradigma da alteração jurisprudencial, na medida em que a autoria restou comprovada por meio de outras provas, produzidas sob o crivo do contraditório, como: (i) os depoimentos coesos da vítima e do corréus; (ii) o ofendido, durante o cativeiro, teve contato direto com Marcelo, além de seus comparsas terem relatado a participação.
+3. Por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por MARCELO CRISTIAN BATISTA DE SOUZA (e-STJ fls. 3111/3126) contra acórdão proferido por esta Corte Superior, cuja ementa é a seguinte (e-STJ fls. 3090):
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME DE EXTORSÃO MEDIANTE SEQUESTRO. ABSOLVIÇÃO. AUTORIA DELITIVA. RECONHECIMENTO DA PESSOA. ART. 226 DO CPP. EXISTÊNCIA DE OUTROS ELEMENTOS DE PROVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Como é de conhecimento, em revisão à anterior orientação jurisprudencial, ambas as Turmas Criminais que compõem esta Corte, a partir do julgamento do HC n. 598.886/SC (Rel. Ministro Rogerio Schietti Cruz), realizado em 27/10/2020, passaram a dar nova interpretação ao art. 226 do CPP, segundo a qual a inobservância do procedimento descrito no mencionado dispositivo legal torna inválido o reconhecimento da pessoa suspeita e não poderá servir de lastro a eventual condenação, mesmo se confirmado em juízo (AgRg no AREsp n. 2.109.968/MG, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 18/10/2022, DJe de 21/10/2022).
+2. No presente caso, dos elementos probatórios que instruem o feito, a situação concreta apresentada gera distinguishing em relação ao acórdão paradigma da alteração jurisprudencial, na medida em que a autoria restou comprovada por meio de outras provas.
+3. Verifica-se que a autoria delitiva não foi estabelecida apenas no referido reconhecimento, realizado com convicção pelo ofendido, mas em outras provas, como: (i) os depoimentos coesos da vítima e do corréus; (ii) o ofendido, durante o cativeiro, teve contato direto com Marcelo, além de seus comparsas terem relatado a participação detalhada dele na empreitada; (iii) os corréus Júlio César Lopes dos Santos e Leonardo Henrique dos Santos Carmo, ouvidos nos interrogatórios judiciais, confessaram a prática delitiva e delataram o recorrente. Com efeito, não merece prosperar a pretensão defensiva, no ponto, na medida em que, como visto nas transcrições, a condenação se baseia não apenas no reconhecimento, mas, também, em outros elementos de prova, produzidos sob o crivo do contraditório, que corroboraram o referido depoimento.
+4. Agravo regimental não provido.
+Sustenta a parte embargante a ocorrência de omissão quanto à análise dos seguintes pontos: (i) presença do contraditório no depoimento da vítima e nos interrogatórios dos corréus; (ii) esclarecimentos sobre o reconhecimento fotográfico; (iii) não ocorrência de distinguishing; (iv) a existência de contradições na descrição das características físicas em evidente falta de coesão das provas.
+Requer, assim, a reconsideração da decisão agravada.
+É o relatório.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME DE EXTORSÃO MEDIANTE SEQUESTRO. ABSOLVIÇÃO. AUTORIA DELITIVA. RECONHECIMENTO DA PESSOA. ART. 226 DO CPP. EXISTÊNCIA DE OUTROS ELEMENTOS DE PROVA. VÍCIOS. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1.Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do CPP.
+2. Esta Corte Superior, ao analisar o tema, posicionou-se de forma clara, adequada e suficiente ao concluir que a situação concreta apresentada gera distinguishing em relação ao acórdão paradigma da alteração jurisprudencial, na medida em que a autoria restou comprovada por meio de outras provas, produzidas sob o crivo do contraditório, como: (i) os depoimentos coesos da vítima e do corréus; (ii) o ofendido, durante o cativeiro, teve contato direto com Marcelo, além de seus comparsas terem relatado a participação.
+3. Por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+4. Embargos de declaração rejeitados.
+VOTO
+Não existem vícios a serem sanados no acórdão embargado.
+Sabe-se que os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do Código de Processo Penal.
+Verifica-se que esta Corte Superior, ao analisar o tema, posicionou-se de forma clara, adequada e suficiente ao concluir que a situação concreta apresentada gera distinguishing em relação ao acórdão paradigma da alteração jurisprudencial, na medida em que a autoria restou comprovada por meio de outras provas, produzidas sob o crivo do contraditório, como: (i) os depoimentos coesos da vítima e do corréus; (ii) o ofendido, durante o cativeiro, teve contato direto com Marcelo, além de seus comparsas terem relatado a participação.
+Dessa forma, por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+Com essas considerações, rejeito os embargos de declaração.
+É como voto.
