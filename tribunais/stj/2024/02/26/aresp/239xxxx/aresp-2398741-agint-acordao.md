@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. AÇÃO CIVIL PÚBLICA. CUMPRIMENTO DE SENTENÇA. RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. ÓBICE DA SÚMULA 284/STF.
+1. Cumpre registrar que a mera indicação dos dispositivos legais tidos por violados, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal, não enseja a abertura da via especial, devendo a parte recorrente demonstrar os motivos de sua insurgência, o que não ocorreu no caso em exame.
+2. Desse modo, a deficiência na fundamentação recursal inviabiliza a abertura da instância especial e atrai a incidência, por simetria, do disposto na Súmula 284/STF.
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno apresentado pela Companhia Habitacional Regional de Ribeirão Preto - COHAB/RP contra decisão da Presidência do STJ, que, com base no art. 21-E, V, do RISTJ, conheceu do agravo em recurso especial para não conhecer do próprio apelo nobre, em razão da incidência do óbice da Súmula 284/STF, ante a ausência de indicação expressa do permissivo constitucional.
+A parte agravante sustenta, em resumo, a inaplicabilidade da referida vedação sumular, aduzindo que "todas as matérias prequestionadas foram devidamente fundamentadas, possibilitando sim, a compreensão dos argumentos levantados", tendo demonstrado, "minuciosamente, a violação cometida contra os dispositivos infraconstitucionais" (fl. 679).
+Afirma que "foi comprovado o cotejo analítico, a divergência e a similaridade fática quanto ao fato de que a ação civil pública não gera dano moral coletivo" (fl. 680).
+Alega, ainda, que "existe pacífico entendimento dessa mesma Corte, sobre a desnecessidade de citação numérica dos dispositivos legais" (fl. 681).
+Requer, ao final, a reconsideração do decisum ou o provimento do recurso.
+Impugnação dos agravados às fls. 717/721.
+O Ministério Público Federal, na condição de fiscal da lei, opinou pelo desprovimento do agravo interno (fls. 734/738).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. AÇÃO CIVIL PÚBLICA. CUMPRIMENTO DE SENTENÇA. RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. ÓBICE DA SÚMULA 284/STF.
+1. Cumpre registrar que a mera indicação dos dispositivos legais tidos por violados, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal, não enseja a abertura da via especial, devendo a parte recorrente demonstrar os motivos de sua insurgência, o que não ocorreu no caso em exame.
+2. Desse modo, a deficiência na fundamentação recursal inviabiliza a abertura da instância especial e atrai a incidência, por simetria, do disposto na Súmula 284/STF.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos aduzidos no presente recurso, a conclusão da decisão agravada merece ser mantida.
+Com efeito, ainda que se considere a existência de demonstração inequívoca da hipótese de cabimento do recurso especial, nos termos decididos pela Corte Especial (EAREsp n. 1.672.966/MG, relatora Ministra Laurita Vaz, Corte Especial, julgado em 20/4/2022, DJe de 11/5/2022), a fundamentação recursal apresentada é deficiente.
+Cumpre registrar que a mera indicação dos dispositivos legais tidos por violados, sem que se evidencie de forma clara e objetiva como o acórdão recorrido teria malferido a legislação federal, não enseja a abertura da via especial, devendo a parte recorrente demonstrar os motivos de sua insurgência, o que não ocorreu no caso em exame.
+Desse modo, a deficiência na fundamentação recursal inviabiliza a abertura da instância especial e atrai a incidência, por simetria, do disposto na Súmula 284/STF, segundo a qual é "inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse vértice:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. EMPRÉSTIMO COMPULSÓRIO DE ENERGIA ELÉTRICA. CONVERSÃO DOS CRÉDITOS. ASSEMBLEIA GERAL ESPECÍFICA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento contra decisão que, acolhendo parcialmente a sua impugnação, determinou o prosseguimento da execução pelo valor apurado pela Contadoria judicial, com ajustes em atenção ao título executivo. O Tribunal regional negou provimento ao recurso da Eletrobras.
+II - Na hipótese dos autos, a decisão hostilizada encontra-se em consonância com o entendimento do Superior Tribunal de Justiça, no sentido de que é admitida a conversão em ações dos valores devidos pela Eletrobras em razão do empréstimo compulsório sobre energia elétrica, desde que comprovada a realização de assembleia geral autorizativa, posterior ao trânsito em julgado da ação.
+III - Com efeito, a matéria não trata do termo final dos juros remuneratórios "reflexos" do empréstimo compulsórios sobre energia elétrica - suscitado em agravo interno pela parte recorrente -, mas sobre o direito em se efetuar o pagamento de eventuais direitos sobre ECE por meio de ações de capital social sem a realização de nova AGE posterior ao trânsito em julgado e a prescrição quinquenal retroativa contada da data do ajuizamento da demanda relativa aos juros remuneratórios.
+IV - Portanto, as razões de agravo interno apresentadas pela agravante estão dissociadas do que foi decidido na decisão agravada.
+V - Evidencia-se a deficiência na fundamentação recursal quando o recorrente não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados, incidindo o óbice do disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+VI - Por fim, considerando o julgamento do Recurso Repetitivo n. 1.850.512/SP (Tema 1.076/STJ), afasto a fixação equitativa dos honorários advocatícios promovida na origem, fixando-os em 20% sobre o valor da condenação, devendo ser observados, contudo, os limites máximos estabelecidos no art. 85, §§2º e 3º, do CPC.
+VII - Agravo interno improvido.
+(AgInt no REsp n. 1.698.210/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 19/9/2022, DJe de 21/9/2022)
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. REDIRECIONAMENTO. PRESCRIÇÃO. INOCORRÊNCIA. PRINCÍPIO DA ACTIO NATA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. FUNDAMENTAÇÃO RECURSAL. DEFICIÊNCIA.
+1. A Primeira Seção do STJ, ao decidir o Tema Repetitivo n.º 444, no qual se discutiu a fixação do termo inicial para a prescrição do redirecionamento da execução fiscal, entendeu que "a citação positiva do sujeito passivo devedor original da obrigação tributária, por si só, não provoca o início do prazo prescricional quando o ato de dissolução irregular for a ela subsequente, uma vez que, em tal circunstância, inexistirá, na aludida data (da citação), pretensão contra os sócios-gerentes (conforme decidido no REsp 1.101.728/SP, no rito do art. 543-C do CPC/1973, o mero inadimplemento da exação não configura ilícito atribuível aos sujeitos de direito descritos no art. 135 do CTN). O termo inicial do prazo prescricional para a cobrança do crédito dos sócios-gerentes infratores, nesse contexto, é a data da prática de ato inequívoco indicador do intuito de inviabilizar a satisfação do crédito tributário já em curso de cobrança executiva promovida contra a empresa contribuinte, a ser demonstrado pelo Fisco, nos termos do art. 593 do CPC/1973 (art. 792 do novo CPC - fraude à execução), combinado com o art. 185 do CTN (presunção de fraude contra a Fazenda Pública)" (REsp 1201993/SP, rel. Ministro HERMAN BENJAMIN, julgado em 8/ 5/2019, DJe 12/12/2019).
+2. A conformidade do acórdão recorrido com a jurisprudência desta Corte Superior atrai o óbice estampado na Súmula 83 do STJ, o que inviabiliza o conhecimento do recurso especial pelas alíneas "a" e "c" do permissivo constitucional.
+3. Hipótese em que, após ressaltar a ausência de inércia por parte da exequente, a Corte de origem adotou como termo inicial do lapso prescricional para o redirecionamento da execução o momento do ajuizamento da cautelar fiscal em desfavor das agravantes, por considerar como marco temporal em que a exequente reuniu os elementos de convicção de que a executada buscava inviabilizar a satisfação do crédito tributário.
+4. Considerado o delineamento fático realizado pelo Tribunal a quo, deve-se reconhecer que o recurso especial encontra óbice na Súmula 7 do STJ, porquanto não há como revisar as conclusões adotadas sem o reexame de fatos e provas.
+5. A alegação genérica de ofensa a dispositivo legal desacompanhada de causa de pedir suficiente à compreensão da controvérsia e sem a indicação precisa de que forma o acórdão recorrido teria transgredido os dispositivos legais relacionados atrai a aplicação da Súmula 284 do STF.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 1.849.369/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/5/2022, DJe de 10/5/2022)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
