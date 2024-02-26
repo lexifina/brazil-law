@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL. AUSÊNCIA DE VÍCIOS.
+1. Os embargos de declaração, a teor do artigo 1.022 do CPC, constituem-se em recurso de natureza integrativa destinado a sanar vício de obscuridade, contradição, omissão ou erro material, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+MINISTRA NANCY ANDRIGHI: Trata-se de embargos de declaração opostos por CLÓVIS CORRÊA RIBEIRO contra acórdão proferido em sede de agravo interno que, por unanimidade, a ele negou provimento, com aplicação de multa, nos termos do artigo 1.021, § 4º, do CPC (e-STJ fls. 626/633), e cuja ementa transcrevo (e-STJ fls. 626/627):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AÇÃO DE RESTITUIÇÃO DE VALORES POR LOCUPLETAMENTO ILÍCITO. AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO FORA DO PRAZO. ARTIGOS 219, CAPUT, E 1.003, § 5º, DO CPC. INTEMPESTIVIDADE. FERIADO LOCAL, RECESSO FORENSE, PARALISAÇÃO OU INTERRUPÇÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL DE ORIGEM. AUSÊNCIA DE COMPROVAÇÃO NO ATO DA INTERPOSIÇÃO. DOCUMENTO IDÔNEO. INEXISTÊNCIA. OBSERVÂNCIA DO CALENDÁRIO LOCAL E NÃO DESTA CORTE SUPERIOR. IMPOSSIBILIDADE PARA RECURSOS INTERPOSTOS A PARTIR DA VIGÊNCIA DO CPC. MULTA. ARTIGO 1.021, § 4º, DO CPC. CABIMENTO.
+1. Ação de restituição de valores por locupletamento ilícito.
+2. É intempestivo o recurso interposto fora do prazo de 15 (quinze) dias úteis, nos termos dos artigos 219, caput, e 1.003, § 5º, do CPC.
+3. Eventual documento idôneo apto a comprovar a ocorrência de suspensão do expediente forense deve ser colacionado aos autos no momento de sua interposição, para fins de aferição da tempestividade do recurso, a teor do que dispõe o artigo 1.003, § 6º, do CPC. Precedentes.
+4. O Dia do Servidor Público (28 de outubro), a segunda-feira de Carnaval, a quarta-feira de Cinzas, os dias que precedem a sexta-feira da Paixão e também o dia de Corpus Christi não são feriados nacionais, sendo imprescindível a comprovação de suspensão do expediente forense na origem. Precedentes.
+5. Considerando que o recurso especial foi interposto sob a égide do CPC e que não houve a comprovação da suspensão do expediente forense quando de sua interposição, não há como ser afastada sua intempestividade.
+6. Agravo interno no agravo em recurso especial não provido, com aplicação de multa, nos termos do artigo 1.021, § 4º, do CPC.
+Sustenta, em síntese, que o acórdão padece de contradição, uma vez que " ..  segundo o entendimento pacificado pela jurisprudência do Superior Tribunal de Justiça, é possível a comprovação da tempestividade, em virtude de feriado local ou suspensão de prazo processual no Tribunal de Origem, quando da interposição do agravo interno, ou da oposição de eventuais embargos de declaração  .. " (e-STJ fl. 640).
+Impugnação às fls. 653/655 (e-STJ).
+Os embargos foram opostos tempestivamente.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL. AUSÊNCIA DE VÍCIOS.
+1. Os embargos de declaração, a teor do artigo 1.022 do CPC, constituem-se em recurso de natureza integrativa destinado a sanar vício de obscuridade, contradição, omissão ou erro material, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+2. Embargos de declaração rejeitados.
+VOTO
+MINISTRA NANCY ANDRIGHI (Relatora): A parte embargante, inicialmente, aduz que há contradição a ser sanada, nos termos do artigo 1.022, I, do CPC.
+Consoante o artigo 1.022 do CPC, cabe a oposição de embargos de declaração para: (i) esclarecer obscuridade ou eliminar contradição; (ii) suprir omissão de ponto ou questão sobre qual devia se pronunciar o juiz de ofício ou a requerimento; e (iii) corrigir erro material.
+Da análise dos autos, o acórdão embargado enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e suficiente, razão pela qual não merece reparo algum, conforme se depreende de seus fundamentos, a seguir transcritos (e-STJ fls. 630/633):
+ ..
+Com efeito, consoante o disposto nos artigos 219, caput, e 1.003, § 5º, do CPC, o prazo para a interposição de qualquer recurso, excetuados os embargos de declaração, é de 15 (quinze) dias úteis.
+Na hipótese, a intempestividade reconhecida na decisão ora agravada não foi devidamente combatida na presente sede processual, uma vez que a parte agravante não demonstrou, mediante documentação idônea, a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense na Justiça de origem.
+Neste contexto, observo que o agravo em recurso especial se revela intempestivo, haja vista que a decisão de inadmissão do recurso especial (e-STJ fls. 561/568) foi publicada em 18/5/2023, quinta-feira (e-STJ fls. 569/570). Por conseguinte, o prazo para interposição do agravo em recurso especial de quinze dias iniciou-se em 19/5/2023, sexta-feira, e encerrou-se em 8/6/2023, quinta-feira.
+Observo, entretanto, que o agravo em recurso especial protocolado tão somente em 13/6/2023, terça-feira (e-STJ fls. 571/580), e, portanto, a destempo.
+Nesse sentido, os seguintes precedentes desta Corte Superior: AgInt no AREsp n. 1.580.854/RJ, Terceira Turma, DJe de 1º/4/2020; e AgInt no AREsp n. 1.608.754/SP, Quarta Turma, DJe de 1º/7/2020.
+Conforme entendimento firmado pela Corte Especial do Superior Tribunal de Justiça a " ..  intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí por que não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis  .. " (AgInt no AREsp n. 957.821/MS, Corte Especial, DJe de 19/12/2017).
+Da análise dos autos, a parte recorrente sustenta a existência de suspensão de prazos processuais no Tribunal de origem para apontar a tempestividade de seu recurso.
+Esta Corte Superior possui o entendimento de que o " ..  dia do servidor público (28 de outubro), a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a sexta-feira da paixão e, também, o dia de Corpus Christi não são feriados nacionais, em razão de não haver previsão em lei federal, de modo que o dever da parte de comprovar a suspensão do expediente forense quando da interposição do recurso, por documento idôneo, não é elidido  .. " (AgInt nos EDcl no AREsp n. 2.003.156/RJ, Terceira Turma, DJe de 18/4/2022).
+Nesse sentido, ainda, os seguintes julgados do STJ: AgInt no AREsp n. 1.723.418/SP, Terceira Turma, DJe de 26/4/2021; AgInt no REsp 1.660.451/SP, Terceira Turma, DJe de 8/9/2017; RCD no AREsp n. 751.455/RJ, Terceira Turma, DJe de 3/2/2016; AgInt no AREsp n. 2.071.344/SP, Quarta Turma, DJe de 15/8/2022; e AgInt no AREsp n. 1.486.646/RJ, Quarta Turma, DJe de 1º/7/2022.
+Cabe destacar que a " ..  ocorrência de feriado local, recesso, paralisação ou interrupção de expediente forense deve ser demonstrada no ato de interposição do recurso, por meio de documento oficial ou certidão expedida pelo tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública  .. " (AgInt nos EDcl no AREsp n. 1.765.698/SP, Terceira Turma, DJe de 15/4/2021).
+A propósito, a " ..  mera alegação nas razões recursais ou o print de tela ou imagem de página extraída da internet ou ainda a juntada de relação de feriados, sem o inteiro teor do correspondente ato normativo, não servem para comprovar a tempestividade recursal  .. " (AgInt no AREsp n. 2.140.372/SP, Quarta Turma, DJe de 16/2/2023).
+Dessarte, os seguintes julgados do Superior Tribunal de Justiça: AgInt nos EDcl no REsp n. 1.991.002/AM, Segunda Turma, DJe de 23/9/2022; AgInt no AREsp n. 2.052.572/RO, Terceira Turma, DJe de 8/6/2022; AgInt nos EDcl no AREsp n. 2.197.155/RJ, Quarta Turma, DJe de 9/3/2023; AgInt no REsp n. 1.870.206/RO, Quarta Turma, DJe de 6/4/2021; e AgInt nos EDcl no AREsp n. 1.531.083/AC, Quarta Turma, DJe de 7/4/2021.
+Com efeito, a parte recorrente não se desincumbiu de tal ônus, pois deixou de apresentar cópia da lei, dos atos normativos, da indisponibilidade do sistema ou da certidão oficial emitida pelo Tribunal de origem, a fim de comprovar a suspensão da contagem do prazo recursal.
+Verifica-se, portanto, que o agravo em recurso especial foi protocolizado em 13/6/2023, terça-feira (e-STJ fls. 571/580), o que impede a comprovação posterior de eventuais causas suspensivas ou interruptivas do prazo recursal.
+Portanto, considerando que o recurso foi interposto sob a égide do novo regramento processual e não tendo havido comprovação da suspensão de prazos processuais no ato da interposição do recurso, não prospera a pretensão da parte recorrente.
+ ..
+Ademais, constatada apenas a discordância do embargante com o deslinde da controvérsia, não ficou demonstrada efetiva contradição a ensejar a integração do julgado, porquanto a fundamentação adotada no venerando acórdão é clara e suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição dos presentes embargos.
+Desse modo, totalmente destituída de pertinência mencionada formulação, uma vez que não se ajusta aos estritos limites de atuação dos embargos, os quais se destinam, exclusivamente, à correção de eventual omissão, contradição, obscuridade ou erro material do julgado.
+Conclui-se, portanto, que a pretensão da parte embargante é unicamente o rejulgamento da causa, finalidade à qual não se presta a via eleita.
+Nesse sentido, o seguinte precedente desta Corte Superior: EDcl no AgRg nos EREsp n. 1.213.226/SC, Corte Especial, DJe de 22/11/2016).
+DISPOSITIVO
+Forte nessas razões, REJEITO os embargos de declaração.
