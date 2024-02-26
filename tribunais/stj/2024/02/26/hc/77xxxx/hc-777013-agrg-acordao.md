@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE POR FALTA DE INTIMAÇÃO PARA APRESENTAÇÃO DE DEFESA PRÉVIA. AUSÊNCIA DE DEMONSTRAÇÃO DO PREJUÍZO. ART. 563 DO CÓDIGO DE PROCESSO PENAL. PAS DE NULLITE SANS GRIEF. AGRAVO DESPROVIDO.
+1. A jurisprudência do STJ é firme no sentido de que não se declara a nulidade do ato processual - seja ela relativa ou absoluta - se a arguição do vício não vier acompanhada da prova do efetivo prejuízo para a parte, em consonância com o princípio pas de nullité sans grief.
+2. A defesa alega nulidade decorrente da ausência de intimação do defensor constituído para apresentação de defesa prévia. Não obstante, foi assentado no acórdão a não ocorrência de prejuízo para o paciente, dada a constatação de que foi apresentada defesa prévia, a qual foi devidamente analisada na instância de base, e de que não houve "pendência instrutória ou eventual diligência essencial que não se encetou, tampouco qualquer protesto na primeira oportunidade defensiva, o que, por si, já induziria a preclusão acerca da temática", não havendo nulidade a ser declarada.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão que denegou o habeas corpus.
+O agravante sustenta que, ao contrário do que constou na decisão impugnada, houve efetivo prejuízo processual decorrente da nulidade arguida no mandamus -ausência de intimação do defensor constituído para apresentação de defesa prévia.
+Alega que houve equívoco nas instâncias de origem, que analisaram a questão sob a ótica da nulidade por ausência de intimação do defensor dativo (e não do defensor constituído, conforme pleiteado pela defesa).
+Argumenta que o paciente "foi citad o pessoalmente, todavia, o advogado constituído pelo mesmo, não foram devidamente intimado, e antes de cessar o prazo para apresentação da defesa prévia, o Magistrado do Juízo Sentenciante nomeou Defensor dativo que apresentou a Defesa Prévia, sem mesmo entrevistar o Paciente" (fl. 259).
+Requer o provimento do agravo regimental para reconsiderar a decisão combatida, decretando a nulidade absoluta do processo, "ante os ferimentos aos princípios do contraditório e ampla defesa", e "determinando de plano a soltura do paciente com a expedição de do competente alvará de soltura" (fl. 264).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE POR FALTA DE INTIMAÇÃO PARA APRESENTAÇÃO DE DEFESA PRÉVIA. AUSÊNCIA DE DEMONSTRAÇÃO DO PREJUÍZO. ART. 563 DO CÓDIGO DE PROCESSO PENAL. PAS DE NULLITE SANS GRIEF. AGRAVO DESPROVIDO.
+1. A jurisprudência do STJ é firme no sentido de que não se declara a nulidade do ato processual - seja ela relativa ou absoluta - se a arguição do vício não vier acompanhada da prova do efetivo prejuízo para a parte, em consonância com o princípio pas de nullité sans grief.
+2. A defesa alega nulidade decorrente da ausência de intimação do defensor constituído para apresentação de defesa prévia. Não obstante, foi assentado no acórdão a não ocorrência de prejuízo para o paciente, dada a constatação de que foi apresentada defesa prévia, a qual foi devidamente analisada na instância de base, e de que não houve "pendência instrutória ou eventual diligência essencial que não se encetou, tampouco qualquer protesto na primeira oportunidade defensiva, o que, por si, já induziria a preclusão acerca da temática", não havendo nulidade a ser declarada.
+3. Agravo regimental desprovido.
+VOTO
+A decisão agravada foi proferida nos seguintes termos (fls. 224-232):
+ ..
+O acórdão objurgado, no tocante à alegada nulidade devido a suposta falta de intimação do advogado para apresentação da defesa prévia, está calcado nas seguintes razões de decidir (fls. 161-162):
+Verifica-se que em 02 de julho de 2020 o Juiz determinou que fosse o réu foi intimado para apresentar defesa prévia no prazo de 10 dias por meio de advogado e, acaso o prazo transcorresse sem que fosse constituído advogado, ficava constituído, desde então, Maurício Luciano do Vale Romeiro (OAB/MG nº 186.227) - despacho em ordem 29.
+Em 21 de julho de 2021 HEBER foi devidamente intimado (ordem 28); contudo, o prazo escoou e ele não constituiu advogado.
+Embora o advogado dativo não tenha sido intimado acerca da ausência de advogado constituído após o escoamento do aludido prazo, extrai-se que em 13 de agosto de 2021 foi apresentada a defesa prévia, a qual foi devidamente analisada na instância de base, sem qualquer menção à eventual intempestividade na juntada da peça em questão, tratando-se a não intimação do defensor dativo, portanto, mera irregularidade.
+Assim, entendo que não ficou demonstrado prejuízo efetivo ao réu em razão do ocorrido, uma vez que, conforme já exposto, houve a posterior apresentação da defesa prévia por parte do advogado dativo e não houve consideração acerca de eventual intempestividade. Não houve, outrossim, pendência instrutória ou eventual diligência essencial que não se encetou, tampouco qualquer protesto na primeira oportunidade defensiva, o que, por si, já induziria a preclusão acerca da temática.
+Em sede de direito processual penal, como se sabe, para nulificação de determinado ato ou fase processual é mister, por regra, que se demonstre o prejuízo concreto eventualmente experimentado pela parte.
+Com essas considerações, rejeito a prefacial erigida.
+Como se denota, concluiu a Corte de origem que "não ficou demonstrado prejuízo efetivo ao réu em razão do ocorrido, uma vez que, conforme já exposto, houve a posterior apresentação da defesa prévia por parte do advogado dativo e não houve consideração acerca de eventual intempestividade", não havendo falar em nulidade, mas mera irregularidade.
+A jurisprudência consolidada nesta Corte exige a comprovação de prejuízo, em consonância com o princípio pas de nullite sans grief, consagrado nos termos do art. 563 do CPP, que dispõe que para o reconhecimento da nulidade é imprescindível a demonstração do prejuízo sofrido, pois "nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa".
+Ao interpretar essa regra, a jurisprudência desta Tribunal Superior reitera que a declaração de nulidade fica subordinada não apenas à alegação de existência de prejuízo, mas à efetiva demonstração de sua ocorrência, o que não ocorre na presente hipótese.
+ ..
+Ante o exposto, denego o habeas corpus.
+A defesa opôs embargos de declaração, tendo esta relatoria decidido (fls. 249-251):
+Em que pese a argumentação da defesa, a matéria foi decidida com a devida e clara fundamentação, no sentido de que, ausente a demonstração de prejuízo para a parte, inviável o reconhecimento da apontada nulidade, em observância ao princípio pas de nullite sans grief, consagrado nos termos do art. 563 do CPP.
+Conforme destacou a decisão embargada, o Tribunal de origem consignou que, "Embora o advogado dativo não tenha sido intimado acerca da ausência de advogado constituído após o escoamento do aludido prazo, extrai-se que em 13 de agosto de 2021 foi apresentada a defesa prévia, a qual foi devidamente analisada na instância de base, sem qualquer menção à eventual intempestividade na juntada da peça em questão, tratando-se a não intimação do defensor dativo, portanto, mera irregularidade". Além disso, não houve "pendência instrutória ou eventual diligência essencial que não se encetou, tampouco qualquer protesto na primeira oportunidade defensiva, o que, por si, já induziria a preclusão acerca da temática".
+Não há, portanto, qualquer vício integrativo na decisão embargada, não se prestando os embargos de declaração à livre rediscussão dos fundamentos adotados, tanto mais que revela, em essência, mero inconformismo com o resultado do julgado.
+Dessa forma, rejeito os embargos de declaração.
+A jurisprudência do STJ é firme no sentido de que não se declara a nulidade do ato processual - seja ela relativa ou absoluta - se a arguição do vício não vier acompanhada da prova do efetivo prejuízo para a parte, em consonância com o princípio pas de nullité sans grief.
+A defesa alega nulidade decorrente da ausência de intimação do defensor constituído para apresentação de defesa prévia.
+Não obstante, foi assentado no acórdão a não ocorrência de prejuízo para a defesa, dada a constatação de que foi apresentada defesa prévia, a qual foi devidamente analisada na instância de base, e de que não houve "pendência instrutória ou eventual diligência essencial que não se encetou, tampouco qualquer protesto na primeira oportunidade defensiva, o que, por si, já induziria a preclusão acerca da temática".
+Por isso, conclui-se que o recurso não traz argumentos novos capazes de alterar o entendimento anteriormente firmado, razão pela qual nego provimento ao agravo regimental.
+É o voto.
