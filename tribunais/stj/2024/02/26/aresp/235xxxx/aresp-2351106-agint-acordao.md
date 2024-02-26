@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. COMANDO LEGAL INVOCADO QUE NÃO INFIRMA RAZÕES DO ACÓRDÃO RECORRIDO. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. INCIDÊNCIA.
+1. Não se conhece do recurso especial quando o dispositivo de lei apontado como violado não contém comando capaz de sustentar a tese recursal e nem infirmar o juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF.
+2. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado pelo Conselho Regional de Farmácia do Estado de São Paulo contra decisão de fls. 459/460, que negou provimento ao agravo em recurso especial com base na seguinte fundamentação: os arts. 4º, X e XIV, e 15 da Lei n. 5.991/734 não possuem comando capaz de sustentar a tese recursal quanto "a ocorrência de coisa julgada material, utilizada como fundamentação do v. acórdão, não resta adequada ao caso em tela" (fl. 409) e infirmar o juízo formulado pelo acórdão recorrido de que "é notória a existência de coisa julgada no caso concreto, uma vez que restou decidido nos autos da ação declaratória nº 0017573-45.2012.4.03.6100 a impossibilidade de o apelante fiscalizar o exercício da profissão farmacêutica no estabelecimento da apelada, anteriormente à vigência da Lei nº 13.021/14, pela ausência de relação jurídica entre as partes" (fl. 307), de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF.
+O agravante, em suas razões, sustenta que "a tese de ocorrência de coisa julgada material, utilizada como fundamentação do v. Acórdão ora recorrido, não resta adequada ao caso em tela, na medida em que o objeto da primeira não guarda congruência com a situação fática que fundamentou a presente execução, sendo certo  q ue a coisa julgada tem por abrangência os dispensários de medicamentos e a presente ação tem por objeto multas punitivas aplicadas à FARMÁCIA PRIVATIVA HOSPITALAR, estabelecimento diverso do dispensário de medicamentos" (fl. 466).
+Requer a reconsideração do decisum agravado ou a submissão da insurgência ao órgão colegiado.
+Aberta vista à parte agravada, transcorreu in albis o prazo para impugnação (fl. 474).
+É O RELATÓRIO.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. COMANDO LEGAL INVOCADO QUE NÃO INFIRMA RAZÕES DO ACÓRDÃO RECORRIDO. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. INCIDÊNCIA.
+1. Não se conhece do recurso especial quando o dispositivo de lei apontado como violado não contém comando capaz de sustentar a tese recursal e nem infirmar o juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida, que ora submeto ao Colegiado para serem confirmados (fls. 459/460):
+Trata-se de agravo manejado pelo Conselho Regional de Farmácia do Estado de São Paulo, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região.
+Opostos embargos declaratórios, foram rejeitados (fls. 372/388).
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 4º, X e XIV, 15 da Lei 5.991/73. Sustenta, em resumo, que "a tese de ocorrência de coisa julgada material, utilizada como fundamentação do v. acórdão, não resta adequada ao caso em tela, na medida em que o objeto da primeira não guarda congruência com a situação fática que fundamentou a Execução, sendo certo que a coisa julgada tem por abrangência os dispensários de medicamentos e a presente ação tem por objeto multas punitivas aplicadas à FARMÁCIA PRIVATIVA HOSPITALAR, estabelecimento diverso do dispensário de medicamentos" (fl. 409).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Com relação aos arts. 4º, X e XIV, 15 da Lei 5.991/734º, X e XIV, 15 da Lei 5.991/73, nota-se que o referido dispositivo legal não contém comando capaz de sustentar a tese recursal de que "a tese de ocorrência de coisa julgada material, utilizada como fundamentação do v. acórdão, não resta adequada ao caso em tela" e infirmar o juízo formulado pelo acórdão recorrido de que "é notória a existência de coisa julgada no caso concreto, uma vez que restou decidido nos autos da ação declaratória nº 0017573-45.2012.4.03.6100 a impossibilidade de o apelante fiscalizar o exercício da profissão farmacêutica no estabelecimento da apelada, anteriormente à vigência da Lei nº 13.021/14, pela ausência de relação jurídica entre as partes" (fl. 307), de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Por oportuno, destacam-se os seguintes precedentes: AgRg no AREsp 161.567/RJ, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 26/10/2012; REsp 1.163.939/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 8/2/2011.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+Conforme antes assinalado, os comandos dos arts. 4º, X e XIV, 15 da Lei n. 5.991/73 não se prestam a sustentar a tese recursal apontada nas razões do apelo, a saber: "a tese de ocorrência de coisa julgada material, utilizada como fundamentação do v. acórdão, não resta adequada ao caso em tela, na medida em que o objeto da primeira não guarda congruência com a situação fática que fundamentou a Execução, sendo certo que a coisa julgada tem por abrangência os dispensários de medicamentos e a presente ação tem por objeto multas punitivas aplicadas à FARMÁCIA PRIVATIVA HOSPITALAR, estabelecimento diverso do dispensário de medicamentos" (fl. 409).
+Além disso, os dispositivos tidos como violados não infirmam o juízo formulado pelo aresto recorrido, o qual decidiu que "é notória a existência de coisa julgada no caso concreto, uma vez que restou decidido nos autos da ação declaratória nº 0017573-45.2012.4.03.6100 a impossibilidade de o apelante fiscalizar o exercício da profissão farmacêutica no estabelecimento da apelada, anteriormente à vigência da Lei nº 13.021/14, pela ausência de relação jurídica entre as partes" (fl. 307).
+Com efeito, veja-se o teor dos dispositivos indicados como violados:
+Art. 4º - Para efeitos desta Lei, são adotados os seguintes conceitos:
+ ..
+X - Farmácia - estabelecimento de manipulação de fórmulas magistrais e oficinais, de comércio de drogas, medicamentos, insumos farmacêuticos e correlatos, compreendendo o de dispensação e o de atendimento privativo de unidade hospitalar ou de qualquer outra equivalente de assistência médica;
+ ..
+XIV - Dispensário de medicamentos - setor de fornecimento de medicamentos industrializados, privativo de pequena unidade hospitalar ou equivalente;
+Art. 15 - A farmácia e a drogaria terão, obrigatoriamente, a assistência de técnico responsável, inscrito no Conselho Regional de Farmácia, na forma da lei.
+§ 1º - A presença do técnico responsável será obrigatória durante todo o horário de funcionamento do estabelecimento.
+§ 2º - Os estabelecimentos de que trata este artigo poderão manter técnico responsável substituto, para os casos de impedimento ou ausência do titular.
+§ 3º - Em razão do interesse público, caracterizada a necessidade da existência de farmácia ou drogaria, e na falta do farmacêutico, o órgão sanitário de fiscalização local licenciará os estabelecimentos sob a responsabilidade técnica de prático de farmácia, oficial de farmácia ou outro, igualmente inscrito no Conselho Regional de Farmácia, na forma da lei.
+Assim, escorreito o decisório agravado ao entender aplicável à espécie o óbice da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
