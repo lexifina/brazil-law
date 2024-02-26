@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. REVISÃO CRIMINAL. DOSIMETRIA DA PENA. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. NÃO CONHECIMENTO.
+1. "É inviável o agravo do art . 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada" (Súmula n. 182/STJ).
+2. No presente caso, a parte não se insurge contra os termos da decisão proferida por este relator, limitando-se a repetir as razões meritórias já expostas na inicial do writ, o que atrai a incidência da Súmula n. 182 do STJ.
+3. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão que não conheceu do habeas corpus, uma vez que não se conheceu de questão por indevida supressão de instância.
+A parte expõe considerações meritórias quanto à dosimetria da pena, principalmente no que diz respeito à possibilidade de compensação entre a agravante da reincidência com a atenuante da menoridade.
+Requer o conhecimento do recurso e seu provimento pela Turma julgadora.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. REVISÃO CRIMINAL. DOSIMETRIA DA PENA. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. NÃO CONHECIMENTO.
+1. "É inviável o agravo do art . 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada" (Súmula n. 182/STJ).
+2. No presente caso, a parte não se insurge contra os termos da decisão proferida por este relator, limitando-se a repetir as razões meritórias já expostas na inicial do writ, o que atrai a incidência da Súmula n. 182 do STJ.
+3. Agravo regimental não conhecido.
+VOTO
+Conforme relatado, busca a defesa a reforma da decisão que não conheceu do habeas corpus.
+A decisão agravada foi proferida nos seguintes termos (fls. 132-133):
+No entanto, verifica-se que o Tribunal de Justiça não conheceu da revisão criminal ao concluir que "o pedido revisional deve se fundar em evidente afronta à lei (621, I, CPP), que pode ser subsumida de flagrante ilegalidade ou erro técnico, ou derivada de novos elementos de prova (621, III, CPP), hipóteses nas quais não se baseia a presente revisional" (fl. 55).
+Desse modo, a questão relativa à dosimetria da pena não foi objeto de análise por parte do Tribunal de origem, razão pela qual não poderá ser conhecida por indevida supressão de instância. Nesse sentido: HC 360.484/BA, relator Ministro Jorge Mussi, Quinta Turma, julgado em 19/06/2018, DJe 28/06/2018; AgRg no Resp 1716705/PE, relator Ministro Sebastião Reis Júnior Sexta Turma, julgado em 03/04/2018, DJe 09/04/2018.
+Dessa forma, verificada a supressão de instância, não há com o perquirir acerca desta matéria. Nesse sentido: HC 360.484/BA, relator Ministro Jorge Mussi, Quinta Turma, julgado em 19/06/2018, DJe 28/06/2018; AgRg no Resp 1716705/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 03/04/2018, DJe 09/04/2018; HC 430.992/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 22/03/2018, DJe 02/04/2018; AgRg no HC 363.567/SP, relator Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 26/09/2017, DJe 02/10/2017.
+Ante o exposto, não conheço do habeas corpus.
+Como se vê, a decisão atacada apresentou como fundamentação que "a questão relativa à dosimetria da pena não foi objeto de análise por parte do Tribunal de origem, razão pela qual não poderá ser conhecida por indevida supressão de instância".
+Em suas razões regimentais, o agravante transcreve "ipsis literis" toda a argumentação apresentada na inicial do writ, relacionada unicamente à questão meritória da dosimetria da pena, especificamente quanto à possibilidade de compensação entre a agravante da reincidência com a atenuante da menoridade.
+A parte agravante nada mencionou a respeito dos termos da decisão agravada. Portanto, não houve impugnação dos fundamentos utilizados por este relator para indeferir o writ.
+Inexistindo, portanto, insurgência a respeito dos fundamentos da decisão agravada, incide o óbice, por analogia, da Súmula n. 182 do STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nestes termos:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO DOMICILIAR. GESTANTE. IMPOSSIBILIDADE. LEI N. 13.769/2018. RÉ FORAGIDA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO DA DECISÃO AGRAVADA NÃO IMPUGNADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NEGADO PROVIMENTO.
+1. No caso, o acórdão entendeu que os motivos que ensejaram a decretação da custódia persistem, inclusive com consideração da questão da gravidez, consignando que, mesmo a defesa não tendo levado a matéria ao juízo processante, a gravidez, por si só, não tem o condão de revogar automaticamente a segregação cautelar.
+2. A ora recorrente responde por delito de homicídio, sendo inadequada a substituição da custódia preventiva por prisão domiciliar, pois se trata de apuração de delito praticado, pois, cometido com violência e grave ameaça.
+3. Na hipótese, observa-se que a decisão agravada entendeu que, quanto à prisão preventiva, se tratava de reiteração de pedidos, na medida em que já esta relatoria já havia analisado a questão, inclusive após a decisão de pronúncia, nos autos do HC 778. 134/SP em 12/12/2022. A agravante, porém, deixou de impugnar, de forma específica tal fundamento em suas razões recursais, limitando-se a repisar a argumentação já trazida na inicial do writ.
+4. Assim, consoante reiterada jurisprudência deste Superior Tribunal de Justiça, a ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso, nos termos do que dispõe a Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+5. Agravo regimental parcialmente conhecido e, nessa extensão, negado provimento. (AgRg no HC n. 831.257/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/10/2023, DJe de 16/10/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. CAUSA DE DIMINUIÇÃO. CIRCUNSTÂNCIAS CONCRETAS QUE EVIDENCIAM A DEDICAÇÃO DO AGRAVANTE A ATIVIDADES CRIMINOSAS. IMPOSSIBILIDADE. REVOLVIMENTO PROBATÓRIO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DESSE FUNDAMENTO DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA N. 182/STJ. REGIME. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. QUANTIDADE EXPRESSIVA DE DROGAS. MANUTENÇÃO DA MODALIDADE MAIS GRAVOSA. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA PARTE, DESPROVIDO.
+1. Não tendo o agravante, nas razões deste recurso, infirmado especificamente fundamento da decisão agravada para manter o afastamento da causa de diminuição de pena prevista no art. 33, § 4º, da Lei de Drogas, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior, segundo a qual "é inviável o Agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. E, quanto ao regime, conforme consignado na decisão agravada, inalterada a pena, fixada em patamar superior a 5 anos, e ainda presentes circunstâncias judiciais desfavoráveis - 110kg (cento e dez quilogramas de maconha), a modalidade fechada foi corretamente fixada, nos termos do art. 33, § 2º, do Código Penal e do art. 42 da Lei de Drogas.
+3. Agravo regimental parcialmente conhecido e, nessa parte, desprovido. (AgRg no HC n. 818.613/MS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS NÃO CONHECIDO. CRIMES DE FURTOS QUALIFICADOS PELO CONCURSO DE PESSOAS E PELA FRAUDE, EM CONTINUIDADE DELITIVA. ACÓRDÃO TRANSITADO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. FALTA DE JUSTA CAUSA. NÃO OCORRÊNCIA. CRIME IMPOSSÍVEL. DESCABIMENTO. INVERSÃO DA POSSE DOS BENS. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. INSUFICIÊNCIA PROBATÓRIA E FURTO DE USO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIÁVEL NA VIA ESTREITA DO WRIT. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+Agravo regimental não conhecido. (AgRg no HC n. 817.833/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 19/6/2023, DJe de 21/6/2023.)
+Ante o exposto, não conheço do agravo regimental.
+É o voto.
