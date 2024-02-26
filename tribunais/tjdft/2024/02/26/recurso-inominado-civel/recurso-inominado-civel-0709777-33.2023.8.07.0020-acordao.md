@@ -1,0 +1,76 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Terceira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0709777-33.2023.8.07.0020RECORRENTE(S)HERTZ ROSA PALMEIRA e BANCO INTER SARECORRIDO(S)BANCO INTER SARelatoraJuiza MARGARETH CRISTINA BECKER
+ Acórdão Nº1822553
+
+EMENTA
+
+JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. CONSUMIDOR. CARTÃO BANCÁRIO. TECNOLOGIA CONTACTLESS. OPERAÇÕES NÃO RECONHECIDAS. RESPONSABILIDADE OBJETIVA. DANO MATERIAL. RESTITUIÇÃO NA FORMA SIMPLES. DANOS MORAIS NÃO CARACTERIZADOS. RECURSOS CONHECIDOS E IMPROVIDOS.
+
+1. Trata-se de recurso inominado interposto por ambas as partes, em face da sentença que julgou parcialmente procedentes os pedidos iniciais para: “a) DECLARAR a nulidade das compras fraudulentas mediante uso do cartão de crédito da parte autora, de acordo com a planilha constante no ID 159662930, por consequência, a inexigibilidade dos débitos decorrentes; b) CONDENAR o réu BANCO INTER S/A a restituir à parte autora a quantia de R$ 12.891,31 (doze mil e oitocentos e noventa e um reais e trinta e um centavos), corrigida monetariamente pelos índices oficiais do TJDFT a contar da data dos desembolsos, e acrescida de juros de mora de 1% (um por cento) ao mês desde a citação”.
+
+2. Em suas razões recursais, em síntese, a instituição financeira alega que as compras foram realizadas mediante aproximação do cartão de crédito e que o autor não solicitou o bloqueio do cartão bancário, assim como não contestou as compras. Sustenta que não pode ser responsabilizado por compras não contestadas e que não houve falha na prestação dos serviços. Pugna pela reforma da sentença para julgar improcedentes os pedidos formulados na inicial.
+
+3. Em suas razões recursais, o autor aduz que não reconhece o valor pago, correspondente a R$12.891,31 e, ante o pagamento indevido, deve incidir a dobra legal. Alega que sofreu danos à sua personalidade e pugna pela reforma da sentença para condenar a instituição financeira à devolução em dobro do valor pago e à indenização por danos morais.
+
+4. A relação é de consumo e as instituições bancárias respondem objetivamente pelos danos causados por vício na prestação de serviços, ressalvada a culpa exclusiva do consumidor ou de terceiro (art. 14, § 3º, II, do CDC). E a Súmula 479 do STJ assim estabelece: “As instituições financeiras respondem objetivamente pelos danos causados gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias.”
+
+5. Segundo o contexto probatório, foram realizadas várias transações financeiras não reconhecidas pelo autor. E a instituição financeira não apresentou qualquer indicativo de que as operações financeiras foram realizadas pelo usuário, e tampouco demonstrou que a tecnologia adotada nos cartões de crédito é segura para a utilização por meio de aproximação. Ao contrário, constata-se que as compras impugnadas foram feitas na internet (Taptapshop, Apple.Com, Petrox, shopee, Netflix.Com, Uber*Uber*Trip, 99app), em dias consecutivos e de forma reiterada, discrepantes do padrão de consumo do autor.
+
+6. Outrossim, realizadas as diversas compras no mesmo dia e em valores módicos, a instituição financeira não detectou a fraude e/ou providenciou o bloqueio do cartão de crédito, providência exigível e inerente à segurança que deve ser fornecida pelo sistema bancário. No mesmo sentido: REsp n. 1.995.458/SP, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 9/8/2022, DJe de 18/8/2022.
+
+7. Por conseguinte, a instituição financeira falhou e deve responder pelos danos materiais causados, visto que não comprovou que as operações financeiras impugnadas foram realizadas pelo usuário.
+
+8. Por outro lado, a devolução dos valores vinculados às operações financeiras, nulas de pleno direito, deve ocorrer na forma simples, uma vez que os pagamentos foram amparados em contratos e o engano não é considerado injustificável, para os efeitos do artigo 42, parágrafo único, do CDC.
+
+9. Ademais, a fraude bancária admitida afasta a responsabilidade da instituição financeira pelos danos morais reclamados pelo autor.
+
+10. RECURSOS CONHECIDOS. IMPROVIDOS.
+
+11. Sentença mantida pelos próprios fundamentos, com súmula de julgamento servindo de acórdão, na forma do artigo 46 da Lei nº 9.099/95.
+
+12. Diante da sucumbência, nos termos do artigo 55 da Lei dos Juizados Especiais (Lei nº 9.099/95), condeno o BANCO INTER SA ao pagamento das custas processuais e dos honorários advocatícios, estes fixados em 10% (dez por cento) do valor da condenação, assim como condeno HERTZ ROSA PALMEIRA ao pagamento de honorários advocatícios, estes fixados em 10% (dez por cento) sobre valor do proveito econômico almejado (R$22.891,31).
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Terceira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, MARGARETH CRISTINA BECKER - Relatora, EDI MARIA COUTINHO BIZZI - 1º Vogal e DANIEL FELIPE MACHADO - 2º Vogal, sob a Presidência do Senhor Juiz DANIEL FELIPE MACHADO, em proferir a seguinte decisão: RECURSO DO BANCO INTER S.A CONHECIDO. DESPROVIDO. RECURSO DA HERTZ ROSA PALMEIRA CONHECIDO. DESPROVIDO. MAIORIA, VENCIDA A 1ª VOGAL, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 04 de Março de 2024
+
+Juiza MARGARETH CRISTINA BECKERRelatora
+
+RELATÓRIO
+
+Dispensado o relatório. A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+VOTOS
+
+A Senhora Juíza MARGARETH CRISTINA BECKER - RelatoraDispensado o voto. A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+A Senhora Juíza EDI MARIA COUTINHO BIZZI - 1º Vogal p{text-align: justify;}Eminentes pares,
+Na petição inicial o autor afirmou que em 19 de setembro de 2022 tomou conhecimento de lançamentos indevidos no cartão de crédito que se estenderam até março de 2023. Pediu a restituição dobrada de R$ 12.891,31, valor correspondente aos lançamentos indevidos. Pediu também compensação por danos morais.
+A sentença julgou parcialmente procedente o pedido. Declarou a nulidade das “compras fraudulentas mediante uso do cartão de crédito da parte autora” e condenou o banco a restituir à parte autora de forma simples a quantia de R$ 12.891,31.Negou a ocorrência de danos morais.
+Ambas as partes recorrem. O autor busca a restituição dobrada e os danos morais e o banco, a improcedência do pedido. Alega o banco que o autor  não contestou as contas ou pediu o bloqueio do cartão. Alega ainda que o cartão é munido chip e usado mediante senha pessoal.
+A eminente relatora votou no sentido de negar provimento aos recursos.
+O meu voto é no sentido de dar provimento ao recurso do banco.
+Isso porque, o autor afirmou que tomou conhecimento de lançamentos indevidos em setembro de 2022, mas ainda assim não promoveu o bloqueio do cartão que, de acordo com a petição inicial, continuou sendo indevidamente utilizado até março de 2023. O autor nem sequer juntou os extratos do cartão, limitando-se a juntar uma planilha que incluem gastos com Uber, 99, Apple TV, jogos online, Disney Plus, Spotfy (ID 52533221). A ausência das faturas inviabiliza a análise do perfil de consumo e até mesmo a existência dos gastos.
+Diferente seria se o autor tivesse bloqueado o cartão assim que tomou conhecimento da utilização irregular. Aí sim seria possível, a partir do contexto protetivo extraído do Código de Defesa do Consumidor, atribuir à instituição financeira a falha na prestação de serviço.
+Na visão contemporânea do Direito Obrigacional, cabe aos contratantes, durante a trajetória negocial, atuação conscienciosa no sentido de cooperar para a satisfação dos interesses de ambos (art. 422 do Código Civil). Diante do expressivo número de fraudes no uso do cartão, cabe ao usuário envidar esforços para debelá-las. Uma das manifestações inovadoras sobre a boa-fé objetiva é justamente o duty to mitigate the loss, ou seja, a mitigação do prejuízo pela própria parte. Esse entendimento foi consagrado no Enunciado nº 169 na mesma III Jornada de Direito Civil: “princípio da boa-fé objetiva deve levar o credor a evitar o agravamento do próprio prejuízo”. O contratante deve tomar medidas possíveis para reduzir o prejuízo. Se não o faz, não pode pleitear indenização de prejuízos perfeitamente evitáveis.
+Se não houve reclamação ou bloqueio do cartão, que continuou sendo intensamente utilizado, mesmo depois da descoberta do suposto uso indevido, é injurídica a atribuição da responsabilidade à instituição financeira pela displicência do autor.
+Regras de experiência comum, cuja aplicação nos Juizados está autorizada pelo art. 6º da Lei 9.099/95, indicam que o homem médio pede o imediato bloqueio do cartão quando este é utilizado em fraudes. O autor, de 57 anos, é servidor público de nível superior, circunstância que realça sua plena condição de portar-se de acordo com os standards do homem médio.
+Assim, deve ser aplicado o entendimento do Superior Tribunal de Justiça e deste Tribunal de Justiça que atribui ao correntista e usuário a  responsabilidade pelo uso até o bloqueio do cartão que na hipótese não ocorreu.  Nesse sentido:
+RECLAMAÇÃO. FURTO DE CARTÃO DE CRÉDITO. COMPRAS REALIZADAS POR TERCEIROS NO LAPSO EXISTENTE ENTRE O DELITO E A COMUNICAÇÃO. FRAUDE. RESPONSABILIDADE DA INSTITUIÇÃO FINANCEIRA. 1. Conforme entendimento sufragado por esta Corte em recursos especiais representativos de controvérsia, submetidos ao rito do art. 543-C do CPC, as instituições financeiras respondem objetivamente pelos danos causados por fraudes ou delitos praticados por terceiros, pois tal responsabilidade decorre do risco do empreendimento, caracterizando-se como fortuito interno (REsp 1.199.782/PR e REsp 1.197.929/PR). 2. Aplicação da Súmula 479/STJ: "As instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias". 3. Reclamação procedente.
+(STJ - Rcl: 8946 DF 2012/0108931-4, Relator: Ministro LUIS FELIPE SALOMÃO, Data de Julgamento: 10/10/2012, S2 - SEGUNDA SEÇÃO, Data de Publicação: DJe 29/10/2012)
+“(...) No caso, diante da análise cronológica dos fatos tais como delineados pela própria autora, infere-se que as compras foram realizadas entre os dias 29 de março a 03 de abril de 2019, tendo a autora registrado boletim de ocorrência no dia 16/05/2019, oportunidade em que solicitou o bloqueio e emissão de nova via do cartão (ID 19618743 Págs. ¼). A autora colacionou aos autos a relação de todas as despesas questionadas, nas quais se observam transações, realizadas de maneira presencial, mediante o uso de cartão e senha pessoal, em supermercados atacadistas, restaurantes, bares, drogarias, estabelecimentos de vendas de materiais de construção, dentre outros (Id. 19618752, págs. 1/5). Diante desse contexto, resta evidente que todas as operações questionadas pela autora foram efetivadas enquanto o cartão estava ativado, e sob sua guarda, mediante o uso de sua senha pessoal, uma vez que a solicitação de bloqueio somente veio a ocorrer quase um mês e meio após a realização da última compra (...) STJ - AREsp: 1966276 DF 2021/0264832-1, Relator: Ministro HUMBERTO MARTINS, Data de Publicação: DJ 12/11/2021)
+ APELAÇÃO CÍVEL. PROCESSUAL CIVIL. DIREITO CIVIL E DO CONSUMIDOR. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E MORAIS. CARTÃO DE CRÉDITO E DÉBITO. COMPRAS NO DÉBITO. SAQUES. MODALIDADE PRESENCIAL MEDIANTE USO DE SENHA PESSOAL E INSTRANSFERÍVEL. OPERAÇÕES REALIZADAS ANTES DO PEDIDO DE BLOQUEIO. AUSÊNCIA DE RESPONSABILIDADE DA INSTITUIÇÃO FINANCEIRA. DANOS MORAIS NÃO CONFIGURADOS. 1. Apelação interposta da r. sentença, proferida na ação de reparação de danos materiais e morais, que julgou improcedentes os pedidos formulados na inicial para condenar os apelados ao pagamento de indenização por danos materiais de R$7.333,18 e danos morais de R$10.000,00. 2. A responsabilidade dos fornecedores de serviços é objetiva, ou seja, independe de culpa, com base no artigo 14 do Código do Consumidor, somente sendo eximida se comprovada a inexistência de defeito no serviço ou quando demonstrada a culpa exclusiva do consumidor ou fato de terceiro. 4. O titular tem o dever de guarda do cartão de crédito com chip e o dever de manter sob sigilo a senha pessoal e intransferível. 5. Tratando-se, no caso, de típicas transações (cartão modalidade débito e saque de numerário em conta) efetivadas presencialmente mediante senha pessoal e com o uso de cartão com chip, antes do pedido de bloqueio, não se verifica a prática de qualquer ato ilicito pelos demandados, mas sim culpa exclusiva da autora - art. 14, § 3º, do CDC. 6.Apelação conhecida e desprovida.
+(TJ-DF 07047614620198070018 DF 0704761-46.2019.8.07.0018, Relator: CESAR LOYOLA, Data de Julgamento: 11/03/2020, 2ª Turma Cível, Data de Publicação: Publicado no DJE : 04/05/2020 . Pág.: Sem Página Cadastrada.)
+CIVIL E CONSUMIDOR. INSTITUIÇÃO FINANCEIRA. FALHA DO SERVIÇO. RESPONSABILIDADE OBJETIVA. EXCLUDENTES. CULPA EXCLUSIVA DO CORRENTISTA. CONSTATADA. INVERSÃO DO ÔNUS DA PROVA. REQUISITOS DO ART. 6º, VIII, CDC. VEROSSIMILHANÇA E HIPOSSUFICIÊNCIA TÉCNICA. AUSENTES. 1. Trata-se de apelação contra sentença que julgou improcedentes os pedidos de responsabilização da instituição financeira pelos danos materiais e morais alegadamente sofridos pela parte autora. 2. Firmou-se a jurisprudência do Superior Tribunal de Justiça no sentido de que as instituições bancárias respondem objetivamente pelos danos causados por vício na prestação de serviços, consoante o disposto no art. 14 do CDC, ressalvada a culpa exclusiva do consumidor. 3. A comunicação tardia do extravio do cartão à instituição financeira pelo correntista inviabiliza a adoção de medidas para evitar a utilização por terceiros, razão pela qual não se pode imputar qualquer responsabilidade ao banco pelos débitos ocorridos neste interregno, feitos mediante uso de senha pessoal e identificação positiva, sendo configurada a culpa exclusiva do consumidor Precedentes. 4. Não há se falar em nulidade em razão da ausência de inversão do ônus probatório, pois embora recomendada para a facilitação da defesa do consumidor (artigo 6º, inciso VIII, do CDC), exige-se prova indiciária mínima das alegações da parte hipossuficiente, o que não restou demonstrado. 4.1. No caso dos autos, restou evidenciado o extravio do cartão e não a sua clonagem, o descuido com a senha pessoal e a comunicação tardia ao banco. 5. Recurso conhecido e desprovido. (Acórdão 1376520, 07081642820208070005, Relator: SANDOVAL OLIVEIRA,  2ª Turma Cível, data de julgamento: 29/9/2021, publicado no DJE: 18/10/2021. Pág.:  Sem Página Cadastrada.)
+Ante o exposto, dou provimento ao recurso da instituição financeira para julgar improcedente o pedido. Prejudicado o recurso do autor.
+Condeno o autor a pagar as custas processuais e os honorários advocatícios que fixo em 10% (dez por cento) do valor da causa.
+
+O Senhor Juiz DANIEL FELIPE MACHADO - 2º Vogal Com o relator
+
+DECISÃO
+
+RECURSO DO BANCO INTER S.A CONHECIDO. DESPROVIDO. RECURSO DA HERTZ ROSA PALMEIRA CONHECIDO. DESPROVIDO. MAIORIA, VENCIDA A 1ª VOGAL
