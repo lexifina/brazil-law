@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO. LEGITIMIDADE ATIVA. FUNDAMENTO QUE AMPARA O ACÓRDÃO RECORRIDO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283/STJ.
+1. No caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema: AgInt no REsp n. 1.711.262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no AREsp n. 1.679.006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+2. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por Maria Cristina Mel de Almeida Costa e Paulo de Tarso de Almeida desafiando decisão que negou provimento ao agravo em recurso especial, com base na incidência da Súmulas 283/STF (fls. 227/228).
+A parte postulante, em suas razões, defende a inaplicabilidade do referido óbice, sob o argumento de que "Todos os pontos do acórdão recorrido foram devidamente impugnados, conforme razões recursais, onde restou demonstrado não só a violação à legislação federal, como também à jurisprudência acerca da matéria, restando refutados todos os fundamentos da Decisão recorrida. Observa-se que o Acórdão que deu ensejo ao Recurso Especial violou os artigos 1784 do Código Civil (CC) e os artigos 110, 313, I e, 778, §1º, II todos do Código de Processo Civil (CPC). Conforme demonstrado nas razões recursais do Recurso Especial e também do Agravo ao Recurso Especial, o acórdão recorrido reflete verdadeiro equívoco de interpretação de norma federal da Sexta Turma do E. TRF2, no sentido de negar legitimidade ativa do Sindicato Na cional em substituir os sucessores de servidores que faleceram durante a tramitação da ação coletiva, contrariando, inclusive a jurisprudência C. Corte de Sobreposição" (fls. 236/237).
+Reforça que "O que se requer é o reconhecimento da legitimidade ativa do Sindicato Nacional em substituir os sucessores de servidores que faleceram durante a tramitação da ação coletiva" (fl. 238).
+As razões do recurso não foram impugnadas.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO. LEGITIMIDADE ATIVA. FUNDAMENTO QUE AMPARA O ACÓRDÃO RECORRIDO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283/STJ.
+1. No caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema: AgInt no REsp n. 1.711.262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no AREsp n. 1.679.006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Consoante anteriormente mencionado, o Tribunal de origem extinguiu a subjacente execução individual de sentença coletiva a partir de dois alicerces autônomos: (a) a necessidade de realização de inventário dos bens deixados pela servidora falecida, de modo que, "Após a partilha dos bens, a legitimidade ad causam passa a ser de cada herdeiro, relativamente à sua cota parte" (fl. 106); (b) o Sindicato não atua em favor de eventuais sucessores, uma vez que eles não integram a categoria representada (fl. 106).
+Assim, reitera-se que, no presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, a necessidade de abertura do inventário dos bens deixados pela servidora falecida, esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema: AgInt no REsp n. 1.711.262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no AREsp n. 1.679.006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+Deve, portanto, ser mantido o decisum agravado por seus próprios fundamentos.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
