@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Daniela Teixeira.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. ENUNCIADO N. 182 DA SÚMULA DESTA CORTE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Neste agravo regimental não foram trazidos argumentos novos, aptos a elidirem os fundamentos da decisão agravada, uma vez que o agravante apenas reiterou os termos da petição inicial. Tais fundamentos, uma vez que não foram devidamente impugnados, atraem ao caso o disposto no enunciado n. 182 da Súmula desta Corte.
+2. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental (e-STJ fls. 132/138) interposto por ÉRICA PEREIRA LIMA contra a decisão de minha lavra (e-STJ fls. 123/127), pela qual não conheci do habeas corpus.
+Neste agravo regimental, a defesa reitera os argumentos apresentados anteriormente, requerendo seja reconsiderado o decisum e dado provimento ao recurso para conceder a ordem a fim de aplicar a redutor do tráfico privilegiado no seu patamar máximo.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. ENUNCIADO N. 182 DA SÚMULA DESTA CORTE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Neste agravo regimental não foram trazidos argumentos novos, aptos a elidirem os fundamentos da decisão agravada, uma vez que o agravante apenas reiterou os termos da petição inicial. Tais fundamentos, uma vez que não foram devidamente impugnados, atraem ao caso o disposto no enunciado n. 182 da Súmula desta Corte.
+2. Agravo regimental não conhecido.
+VOTO
+O agravo regimental é tempestivo, entretanto, não merece conhecimento.
+Na decisão agravada, enfrentei, de forma fundamentada, os argumentos apresentados pela defesa, enfatizando que, no caso, a incidência da minorante do tráfico privilegiado foi denegada porque o Tribunal a quo reconheceu expressamente que a paciente se dedica à atividade criminosa, tendo em vista as circunstâncias do caso concreto, tendo afirmado que ao contrário do que argui a Defesa, não faz jus à aludida causa de diminuição, visto qu e, além de outras passagens policiais pretéritas à data do crime em comento, já contava com condenação definitiva pela prática do crime de tráfico de entorpecentes na data da sentença, o que comprova sua dedicação a atividades criminosas (e-STJ fl. 104) - sendo pouco crível, portanto, que ela se tratasse de traficante eventual.
+Ademais, observei, ainda, que desconstituir tal assertiva, como pretendido, demandaria, necessariamente, a imersão vertical na moldura fática e probatória delineada nos autos, inviável na via estreita do habeas corpus.
+Na ocasião, apresentei a seguinte fundamentação:
+Busca-se, em síntese, concessão da ordem para que seja aplicada a redutora do tráfico privilegiado na fração máxima.
+Inicialmente, cabe observar que, nos termos do art. 33, § 4º da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa.
+Na hipótese, ao negar a aplicação da causa de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006, a Corte estadual asseverou (e-STJ fls. 104/105):
+Adentrando ao mérito, tem-se que, a Defesa pretende a aplicação do privilégio contido no § 4º da Lei 11.343/06.
+Tal benesse legal impõe que o agente seja primário, tenha bons antecedentes e não se dedique às atividades criminosas ou integre organização criminosa.
+No caso dos autos, o Juízo sentenciante não se pronunciou sobre a aplicação da causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+A Recorrente, contudo, ao contrário do que argui a Defesa, não faz jus à aludida causa de diminuição, visto que, além de outras passagens policiais pretéritas à data do crime em comento, já contava com condenação definitiva pela prática do crime de tráfico de entorpecentes na data da sentença, o que comprova sua dedicação a atividades criminosas.
+"É consabido que a fim de se aplicar a redutora do art. 33, § 4º, da Lei n. 11.343/2006, é necessário o preenchimento de quatro requisitos cumulativos, quais sejam: (a) ser primário; (b) possuir bons antecedentes; (c) não dedicar-se a atividades criminosas; (d) não integrar organização criminosa." (HC 489.859/ES, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 21/02/2019,DJe 01/03/2019).
+Na hipótese em tela, na data da sentença (23-11-2016), a acusada já ostentava condenação definitiva pela prática dos delitos do art. 33, da Lei n.º11.343/06 e 12, da Lei n.º 10.826/03, em ação penal que tramitou na Comarca do Cedro, consoante se observa do Processo de Execução n.º 0008346-98.2017.8.06.0066 (Carta de Guia fls. 4-5 - ESAJ-PG), sendo-lhe imposta a pena de 9 anos e 2 meses de reclusão, em regime inicial fechado, com trânsito em julgado em 21-11-2016, ficando, dessa forma, afastada a redutora do tráfico privilegiado.
+Some-se a isso, a título de informação, que a Apelante foi presa, recentemente, em flagrante delito (dia 11-03-2020), acusada, novamente, da suposta prática do crime de tráfico ilícito de entorpecentes, sendo com ela encontrada, por ocasião do flagrante, "153 pedras de crack, já embaladas em quantidades de 15 gramas, bem como, diversos comprovantes de depósitos bancários para a conta de Luciene Camilo de Morais, que seriam de prestação de contas da venda de drogas." (Ação Penal n.º 0050190-23.2020.8.06.0066 - fls.50-53 ESAL-PG), o que reforça a convicção, já formada, de que Erica Pereira Lima não faz jus ao benefício legal previsto no artigo 33, § 4.º, da Lei 11.343/06.
+Pela leitura do recorte acima, verifica-se que a incidência da minorante do tráfico privilegiado foi denegada porque o Tribunal a quo reconheceu expressamente que a paciente se dedica à atividade criminosa, tendo em vista as circunstâncias do caso concreto, tendo afirmado que ao contrário do que argui a Defesa, não faz jus à aludida causa de diminuição, visto que, além de outras passagens policiais pretéritas à data do crime em comento, já contava com condenação definitiva pela prática do crime de tráfico de entorpecentes na data da sentença, o que comprova sua dedicação a atividades criminosas (e-STJ fl. 104) - sendo pouco crível, portanto, que ela se tratasse de traficante eventual.
+Ademais, desconstituir tal assertiva, como pretendido, demandaria, necessariamente, a imersão vertical na moldura fática e probatória delineada nos autos, inviável na via estreita do habeas corpus.
+Ao ensejo:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPOSSIBILIDADE. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO. IMPOSSIBILIDADE. REVISÃO FÁTICO-PROBATÓRIA. ELEMENTOS DE PROVA A DEMONSTRAR A NÃO EVENTUALIDADE DO CRIME. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. DESCONSTITUIÇÃO DAS CONCLUSÕES DAS INSTÂNCIAS ORDINÁRIAS. IMPOSSIBILIDADE. REEXAME PROVAS. WRIT NÃO CONHECIDO.
+ ..
+3. Os fundamentos utilizados pelas instâncias ordinárias para não aplicar a minorante do § 4º do art. 33 da Lei de Drogas ao caso concreto, em razão da dedicação dos pacientes à atividade criminosa, evidenciada sobretudo pela quantidade de drogas apreendida - 61kg de maconha -, aliada às circunstâncias do delito, está em consonância com o entendimento desta Corte Superior de Justiça. Ademais, acolher a tese de que os pacientes não se dedicam à atividade criminosa, é necessário o reexame aprofundado das provas, providência inviável em sede de habeas corpus.
+ ..
+5. Habeas corpus não conhecido (HC n. 508.559 2019.01.26898-8, JOEL ILAN PACIORNIK, Quinta Turma, DJE 19/8/2019, grifei).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXPRESSIVA QUANTIDADE DE DROGAS. DEDICAÇÃO À ATIVIDADE CRIMINOSA. TRÁFICO PRIVILEGIADO AFASTADO. REVISÃO. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. O modus operandi do delito, em especial o transporte interestadual de aproximadamente 12 kg de maconha, denota a dedicação à atividade criminosa.
+2. A desconstituição das premissas fáticas do acórdão demanda o reexame de fatos e provas dos autos, o que é vedado pela Súmula 7/STJ. 3. Agravo regimental improvido (Ag no AREsp n. 1.280.063 2018.00.91740-0, NEFI CORDEIRO, Sexta Turma, DJE 25/3/2019, grifei).
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. TRÁFICO DE DROGAS. DOSIMETRIA. PRIMEIRA FASE. EXASPERAÇÃO NA FRAÇÃO DE 3/5 SOBRE O MÍNIMO LEGAL. ELEVADA QUANTIDADE DA DROGA APREENDIDA E MODUS OPERANDI DO DELITO. FUNDAMENTAÇÃO IDÔNEA. QUANTUM PROPORCIONAL. TERCEIRA FASE. TRÁFICO PRIVILEGIADO. INAPLICABILIDADE. PROVA DA DEDICAÇÃO À ATIVIDADE CRIMINOSA. INVIÁVEL O REEXAME FÁTICO-PROBATÓRIO. AGRAVO DESPROVIDO.
+ ..
+- Nos termos do art. 33, § 4º, da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa.
+- Na hipótese, não foram atendidas as diretrizes previstas para o reconhecimento do privilégio, uma vez que as instâncias de origem destacaram, expressamente, que os agravantes se dedicavam, ao menos esporadicamente, a atividades criminosas. Ademais, o benefício foi recusado também em virtude do modus operandi adotado na prática do delito denotar que tiveram contanto, no mínimo eventual, com organização criminosa voltada ao tráfico interestadual de drogas. Desconstituir tal assertiva demandaria, necessariamente, a imersão vertical na moldura fática e probatória delineada nos autos, inviável na via estreita do habeas corpus.
+ ..
+- Agravo regimental desprovido (AgRg no RHC n. 457.335 2018.01.62559-4, REYNALDO SOARES DA FONSECA, Quinta Turma, DJE 1º/3/2019, grifei).
+Desse modo, a pretensão formulada pelos impetrantes no sentido de aplicação da redutora do tráfico privilegiado encontra óbice na jurisprudência desta Corte de Justiça sendo, portanto, manifestamente improcedente.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, não conheço do habeas corpus.
+Intimem-se.
+Neste recurso de agravo regimental, quanto à questão recorrida, porém, não foram apresentados quaisquer argumentos novos, capazes de infirmar os fundamentos da decisão agravada, uma vez que o agravante apenas reitera aqueles já apresentados na petição inicial.
+Uma vez que não houve a impugnação específica acerca dos fundamentos da decisão agravada, incide ao caso o disposto no enunciado n. 182 da Súmula desta Corte.
+Nesse sentido, seguem os precedentes desta Corte:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL EM HABEAS CORPUS. FUNDAMENTOS NÃO INFIRMADOS PELO AGRAVANTE. INCIDÊNCIA DO ENUNCIADO N. 182 DA SÚMULA DESSA CORTE SUPERIOR. ALEGADA OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+- Não foram trazidos elementos aptos a afastar os argumentos da decisão agravada, os quais estavam em harmonia com a jurisprudência pacificada nessa Corte Superior acerca dos temas.
+- Tais fundamentos não foram devidamente impugnados pelo presente agravo regimental, a atrair ao caso o disposto no enunciado n. 182 da Súmula dessa Corte Superior.
+- O julgamento monocrático do habeas corpus não representa ofensa ao princípio da colegialidade, nos termos previstos no art. 34, XX, do RISTJ, notadamente porque qualquer decisão monocrática está sujeita à apreciação do órgão colegiado, em virtude de possibilidade de interposição do agravo regimental, como na espécie.
+- Agravo regimental não conhecido (AgRg no AgRg no HC 436.568/SP, de minha relatoria, julgado em 07/02/2019, DJe 14/02/2019).
+AGRAVO REGIMENTAL. PROCESSO PENAL. DENUNCIAÇÃO CALUNIOSA. TESE DE INCOMPETÊNCIA. SUPRESSÃO DE INSTÂNCIA. ALEGAÇÃO DE INÉPCIA. AGRAVO NÃO CONHECIDO PELA APLICAÇÃO DA SÚMULA N. 182/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO AGRAVADA.
+1. As teses referentes à incompetência do juízo não foram objeto de apreciação pelo Tribunal de origem, o que impede o exame do tema diretamente pelo Superior Tribunal de Justiça, sobrepujando a competência da Corte estadual, sob pena de se incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e do devido processo legal.
+2. Quanto à inépcia, o agravante deixou de impugnar fundamentos da decisão agravada, atraindo, por analogia, a aplicação do óbice previsto na Súmula n. 182 desta Corte. Precedentes.
+3. "Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma. (Enunciado n. 182 da Súmula desta Corte)" (AgRg no HC n. 376.793/SP, rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/6/2017, DJe 1º/8/2017).
+4. Agravo regimental conhecido em parte e, nessa extensão, desprovido (AgInt no RHC 51.853/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 04/09/2018, DJe 13/09/2018).
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA MANTIDA EM PRONÚNCIA. INSTRUÇÃO DEFICIENTE. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma. (Súmula n.º 182 desta Corte).
+2. Cabe ao impetrante o escorreito aparelhamento do habeas corpus, bem como do recurso ordinário dele originado, indicando, por meio de prova pré-constituída, o constrangimento ilegal alegado.
+3. É inviável divisar, de forma meridiana, a alegação de constrangimento, diante da instrução deficiente dos autos, no qual se deixou de coligir cópia da decisão que decretou a prisão preventiva do acusado, documento imprescindível à plena compreensão dos fatos aduzidos no presente recurso.
+4. Agravo regimental desprovido (AgRg no RHC 48.939/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 23/4/2015).
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
