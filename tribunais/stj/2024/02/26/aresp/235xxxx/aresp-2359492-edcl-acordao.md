@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado embargado (CPC/2015, art. 1.022), de modo que é inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por JOSÉ DE RIBAMAR BOGEA MATOS contra o v. acórdão, proferido pela eg. Quarta Turma, assim ementado (e-STJ, fl. 465):
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. OBRIGAÇÕES. DESPESAS CONDOMINIAIS. PAGAMENTO. RESPONSABILIDADE DO ESPÓLIO. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. O Tribunal de origem consignou que a ação de cobrança está fundada em débitos condominiais que surgiram antes da ocupação de determinado herdeiro, sendo a obrigação de todos os herdeiros, que eram possuidores da coisa, o pagamento das taxas condominiais.
+2. A modificação do entendimento do acórdão recorrido, relativo à responsabilidade pelo pagamento da taxa condominial, demandaria o revolvimento do conjunto fático-probatório.
+3. Agravo interno desprovido."
+Nas razões dos aclaratórios, o embargante afirma que o acórdão proferido pela Quarta Turma foi omisso, uma vez que, até o momento, "o presente processo apenas entrou em fase de conhecimento, e a questão do que pertence a cada um apenas seria vista em fase de liquidação em cumprimento de sentença, posto que a sentença principalmente responsabilizou o acusado, impondo-o a responsabilidade", afirmando que "por mais que tenha adentrado a questão do estar ou não estar brevemente, isso apenas seria verificado em sede de liquidação caso confirmado o alegado, posto que o principal é entender, para fins de sua aplicação, o grau de responsabilidade dos herdeiros". Afirma que discute única e exclusivamente a responsabilidade do herdeiro que ocupou exclusivamente o imóvel, devendo a apuração do que pertenceria a quem apenas possível de ser realizada quando da liquidação de sentença (e-STJ, fls. 478-484).
+Foi apresentada impugnação (e-STJ, fls. 488-489).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado embargado (CPC/2015, art. 1.022), de modo que é inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022).
+É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já q ue não são cabíveis para provocar novo julgamento da lide.
+Na hipótese, a parte embargante aponta omissão no acórdão proferido por esta Quarta Turma, por entender que a questão do que pertence a cada um apenas seria vista em fase de liquidação em cumprimento de sentença e que discute única e exclusivamente a responsabilidade do herdeiro que ocupou exclusivamente o imóvel.
+Com efeito, no julgamento do agravo interno, ficou assentado que:
+"Nas razões do recurso especial, observa-se que a agravante defende que o pagamento das despesas condominiais deveria ser custeado apenas pelo herdeiro que está ocupando de forma exclusiva o imóvel, porquanto seriam dívidas pessoais do possuidor, e não do espólio, não sendo plausível o uso individual e exclusivo do imóvel pela inventariante, com divisão das respectivas despesas entre todos os herdeiros.
+Entretanto, o eg. Tribunal estadual, ao analisar a apelação, consignou o seguinte (e-STJ, fls. 349-352):
+"Conforme certificado nos autos, atualmente o imóvel é ocupado por um dos herdeiros do falecido e sua família, fato que seria suficiente para atrair a responsabilidade pessoal do ocupante pela dívida (ID 38053592). No entanto, o atual possuidor não ocupava o imóvel quando surgiu a obrigação e não há notícia nos autos de quando começou o exercício da posse. Consta que, na decisão proferida pelo juízo que homologou a partilha em 03/04/2018, já havia pretensão do referido herdeiro em ocupar o imóvel, porém nada ficou decidido, conforme pode ser extraído do seguinte trecho (ID 38053531):(..)A presente ação de cobrança, por sua vez, está fundada em débitos condominiais que surgiram em 2017, ou seja, antes da ocupação do bem pelo herdeiro. Portanto, quando surgiu a obrigação todos os herdeiros eram possuidores da coisa. Soma-se a isso o fato de que a natureza propter rem das taxas condominiais implica numa obrigação solidária e indivisível, podendo ser exigida de um ou de todos os possuidores. Desse modo, todos os herdeiros do falecido são responsáveis pelo pagamento das taxas condominiais, dentro das forças da herança e na proporção que lhe couber, sem prejuízo de eventual ação de regresso contra o herdeiro que esteja ocupando exclusivamente o imóvel por determinado período.(..)Diante da moldura fática apresentada, é forçoso reconhecer a responsabilidade dos herdeiros pelo pagamento das taxas e despesas condominiais. O apelante requereu que o pagamento dos honorários advocatícios seja feito pro rata, da mesma forma que as despesas que compõem o acervo hereditário." (sem grifo no original).
+Dessa forma, ratifica-se que a modificação de tal entendimento demandaria o reexame do substrato fático-probatório dos autos, providência inviável no recurso especial, aplicando-se a Súmula 7/STJ.
+Evidencia-se, pois, que os embargos de declaração em apreço representam mera tentativa de rediscutir tema devidamente apreciado, o que, contudo, não é cabível na via estreita dos embargos de declaração.
+Como dito, os aclaratórios constituem recurso de estritos limites processuais cujo cabimento requer estejam presentes os pressupostos legais insertos no art. 1.022 do CPC/2015. Tal recurso, portanto, é incompatível com a pretensão de se obter efeitos infringentes.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Diante do exposto, rejeito os embargos de declaração .
+É como voto.
