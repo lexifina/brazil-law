@@ -1,0 +1,43 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de fls. 39 (e-STJ).
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de DOUGLAS HENRIQUE BATISTA FRANCISCO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+O impetrante se insurge contra decisão da 7ª Câmara Criminal do TJSP que, ao dar provimento ao recurso da acusação, majorou a pena do paciente de um ano e oito meses, em regime inicial aberto, substituída por restritiva de direitos, para cinco anos de reclusão, em regime inicial fechado, pelo crime de tráfico de drogas, previsto no art. 33, caput, da Lei n. 11.343/2006.
+Em suas razões, alega que o condenado faz jus ao privilégio previsto no art. 33, § 4º, da Lei n. 11.343/2006, porquanto a quantidade de droga apreendida não é justificativa para se aferir que o paciente se dedica a atividades criminosas.
+Em suma, pretende, liminarmente, a concessão da ordem para a suspensão da execução da pena imposta ao paciente até o julgamento definitivo da ordem pelo colegiado. No mérito, pugna pela total procedência da pretensão, mediante a diminuição da pena no patamar máximo de 2/3, conforme consta do art. 33, § 4º, da Lei n. 11.343/2006, e a fixação do regime aberto convertida em restritiva de direitos.
+O pedido liminar foi negado pelo Ministro João Batista Moreira (e-STJ fls. 39-40). As informações foram prestadas (e-STJ fls. 46-49 e 52-75).
+O Ministério Público Federal, por meio de parecer, opinou pela denegação da ordem (e-STJ fls. 77-78).
+Intimada para se manifestar, a defesa notícia que remanesce o interesse no julgamento desta impetração (e-STJ fls. 83-84).
+É o relatório.
+Decido.
+A controvérsia posta em julgamento é se a quantidade de drogas e o fato do Paciente não residir no local em que foi preso em flagrante são elementos suficientes para inferir a dedicação à atividade criminosa e, por consequência, negar a aplicação da causa de diminuição de pena do §4º do art. 33 da Lei nº 11.343/06.
+A respeito da utilização da quantidade da droga apreendida como circunstância para inferir a dedicação à atividade criminosa e ao pertencimento à organização criminosa, a jurisprudência deste col. STJ é pacífica no sentido de que não é elemento suficiente.
+Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS (20 KG DE MACONHA). CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. NÃO RECONHECIMENTO PELAS INSTÂNCIAS ORDINÁRIAS. QUANTIDADE DO ENTORPECENTE APREENDIDO. IMPOSSIBILIDADE DE, ISOLADAMENTE CONSIDERADA, TER O CONDÃO DE AFASTAR A MINORANTE. RECONHECIMENTO QUE SE IMPÕE. RETORNO DOS AUTOS PARA ESCOLHA DO PATAMAR DE REDUÇÃO APLICÁVEL AO CASO.
+ .. .
+3. A jurisprudência desta Corte Superior é no sentido de que isoladamente consideradas, a natureza e a quantidade do entorpecente apreendido, por si sós, não são suficientes para embasar conclusão acerca da presença das referidas condições obstativas e, assim, afastar o reconhecimento da minorante do tráfico privilegiado (AgRg no REsp n. 1.687.969/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 26/3/2018) - (AgRg no AREsp n. 1.480.074/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/7/2019).
+4. Agravo regimental desprovido. (AgRg no REsp n. 2.071.188/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/12/2023, DJe de 20/12/2023 - grifos acrescidos).
+No caso, o acórdão reformou a sentença afastando a aplicação da medida, com a seguinte fundamentação:
+ .. . A incidência da diminuição da pena do artigo 33, parágrafo quarto da Lei de Drogas se destina ao agente primário, de bons antecedentes e que não se dedique às atividades criminosas ou integre organização criminosa.
+Com efeito, assiste razão à Justiça Pública, eis que, embora primários, ficou demonstrado através do conjunto probatório que as atividades exercidas pelos apelados não eram as de traficantes ocasionais e solitários; pelo contrário, a eles foi confiado o transporte de vultosa e valiosa carga de entorpecentes, entre eles o crack e skunk, substâncias de enorme poder vulnerante.
+Não se pode ignorar, portanto, que há indicativos de que se dedicavam à atividade criminosa e mantinham relação com o narcotráfico entre cidades do estado, haja vista que Douglas e Gustavo não residiam em Itaquaquecetuba, ou seja, não se trata de traficantes ocasionais, que praticaram ato isolado, desatendidos os parâmetros exigidos para o reconhecimento da modalidade privilegiada do delito  ..  (e-STJ fls. 15-16).
+Extrai-se, portanto, que ao Paciente não foi aplicada a causa de diminuição porque o Tribunal inferiu que se dedicava à atividade criminosa a partir da quantidade de drogas apreendidas (200 invólucros contendo cocaína, 200 pedras de crack, 187 porções de skunk e 48 invólucros e 01 tijolo de maconha) e pelo fato de que não residia no local em que foi preso em flagrante.
+O fato de o Paciente ter sido preso em flagrante em local diverso de sua residência não é capaz de indicar sua dedicação à atividade criminosa. Ademais, conforme indicado acima, a quantidade de droga apreendida, isoladamente considerada, não permite tal inferência.
+Sendo assim, na medida em que os argumentos aduzidos pelo acórdão são inidôneos para negar a aplicação da causa de diminuição de pena, aplico o redutor do §4º do art. 33 da Lei nº 11.343/06.
+De outro lado, a quantidade, a natureza e a variedade de drogas apreendidas, quando não foram valoradas negativamente na primeira fase da dosimetria da pena, podem ser utilizadas para modular o quantum de diminuição.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO. ABSOLVIÇÃO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. BENEFÍCIO DO ART. 33, §4º, DA LEI Nº 11.343/06 NO PATAMAR DE METADE. QUANTIDADE DA DROGA. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. Na falta de parâmetros legais para se fixar o quantum da redução do benefício do art. 33, § 4º, da Lei n. 11.343/2006, os Tribunais Superiores decidiram que a quantidade e a natureza da droga apreendida, além das demais circunstâncias do delito, podem servir para a modulação de tal índice ou até mesmo para impedir a sua aplicação, quando evidenciarem o envolvimento habitual do agente com o narcotráfico (HC n. 529.329/SP, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 19/9/2019, DJe 24/9/2019). Precedentes.
+3. A quantidade do entorpecente apreendido (86 porções de cocaína, com peso de 103g; 2 porções compactadas da droga maconha, pesando 3, 1g; 2 cigarros artesanais da droga maconha, apresentando massa bruta de 6,6g), sendo um de natureza altamente deletéria (cocaína), justifica a incidência da causa de diminuição da pena descrita no § 4º do art. 33 da Lei de Drogas no patamar de 1/2 (metade), o que se mostra razoável e proporcional.
+4. Agravo regimental não provido.
+(AgRg no REsp n. 2.109.765/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/12/2023, DJe de 15/12/2023 - grifos acrescidos).
+No caso, foram apreendidos 200 invólucros contendo cocaína, 200 pedras de crack, 187 porções de skunk e 48 invólucros e 01 tijolo de maconha, ou seja, quantidade significativa de drogas variadas e com nocividade considerável, razão pela qual justifica-se que a diminuição seja no patamar de 1/2.
+Passa-se assim a redimensionar a pena aplicada.
+O acórdão condenatório manteve a pena no mínimo de 5 (cinco) anos e 500 dias-multa na primeira e na segunda fase (e-STJ fl. 15-16). Assim, na terceira fase, aplico o redutor do §4º em 1/2 para atingir a pena de 2 (dois) anos e 6 (seis) meses, de reclusão e 250 (duzentos e cinquenta) dias-multa.
+Nos termos do art. 33, §2º, c, do Código Penal, não existindo circunstâncias dignas de nota além das já utilizadas na dosimetria, estabeleço o regime aberto como inicial de cumprimento de pena.
+Atendidos os requisitos do art. 44 do Código Penal, a pena privativa de liberdade deve ser substituída por duas restritivas de direitos, a serem definidas pelo juízo da execução penal.
+Ante o exposto, concedo a ordem de habeas corpus para aplicar a causa de diminuição de pena do §4º do art. 33 da Lei nº 11.343/06 e redimensionar a pena da paciente para 2 (dois) anos e 6 (seis) meses de reclusão, em regime aberto, substituída por duas penas restritivas de direito, e 250 (duzentos e cinquenta) dias-multa.
+Comunique-se o teor desta decisão ao Tribunal de origem e ao respectivo juízo de primeiro grau.
+Após, ciência ao Ministério Público Federal.
+Publique-se. Intime-se.
+EMENTA
