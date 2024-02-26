@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. (1) PREPARO RECURSAL. REGULAR INTIMAÇÃO PARA RECOLHIMENTO. TRANSCURSO DO PRAZO IN ALBIS. SÚMULA N.º 187 DO STJ. JUSTIÇA GRATUITA. ALEGADA CONCESSÃO. NEGATIVA DE COMPROVAÇÃO NO PRAZO ESTABELECIDO. DESERÇÃO. PRECEDENTES. (2) TEMPESTIVIDADE. CERTIDÃO CONSTANTE DOS AUTOS QUE ATESTA A INTERPOSIÇÃO DO RECURSO APÓS A FLUÊNCIA DO PRAZO LEGAL, AINDA QUE CONSIDERADA A SUSPENSÃO DECORRENTE DE FERIADOS NACIONAIS. INTERPOSIÇÃO A DESTEMPO. PRECEDENTE. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência do STJ tem precedentes no sentido de que constitui ônus da parte efetuar o preparo recursal, de modo que, uma vez decorrido o prazo in albis após a sua regular intimação para recolhimento e não tendo comprovado a alegada concessão da justiça gratuita dentro do lapso estabelecido, tem-se por deserto o recurso.
+3. A interposição de recurso após o decurso do prazo legal a partir de certidão constante dos autos, mesmo que considerada a suspensão decorrente de feriados nacionais, revela-se intempestiva.
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ESPÓLIO DE ÁLVARO CAMPOS DE OLIVEIRA (ESPÓLIO) contra decisão de relatoria da Ministra Presidente desta Corte, que não conheceu do agravo em recurso especial, em virtude da incidência da Súmula n.º 187 do STJ, sob o fundamento de que o recurso se encontra deserto, além da intempestividade do recurso especial.
+Nas razões do presente inconformismo, ESPÓLIO alegou que (1) teria sido concedida a gratuidade da justiça pelo Juízo de primeira instância, encontrando-se isento da obrigação de recolhimento do preparo recursal; e (2) a tempestividade do recurso especial estaria comprovada pela certidão de publicação do julgamento pelo TJBA constante dos autos.
+Houve impugnação ao recurso (e-STJ, fls. 235/236).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. (1) PREPARO RECURSAL. REGULAR INTIMAÇÃO PARA RECOLHIMENTO. TRANSCURSO DO PRAZO IN ALBIS. SÚMULA N.º 187 DO STJ. JUSTIÇA GRATUITA. ALEGADA CONCESSÃO. NEGATIVA DE COMPROVAÇÃO NO PRAZO ESTABELECIDO. DESERÇÃO. PRECEDENTES. (2) TEMPESTIVIDADE. CERTIDÃO CONSTANTE DOS AUTOS QUE ATESTA A INTERPOSIÇÃO DO RECURSO APÓS A FLUÊNCIA DO PRAZO LEGAL, AINDA QUE CONSIDERADA A SUSPENSÃO DECORRENTE DE FERIADOS NACIONAIS. INTERPOSIÇÃO A DESTEMPO. PRECEDENTE. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência do STJ tem precedentes no sentido de que constitui ônus da parte efetuar o preparo recursal, de modo que, uma vez decorrido o prazo in albis após a sua regular intimação para recolhimento e não tendo comprovado a alegada concessão da justiça gratuita dentro do lapso estabelecido, tem-se por deserto o recurso.
+3. A interposição de recurso após o decurso do prazo legal a partir de certidão constante dos autos, mesmo que considerada a suspensão decorrente de feriados nacionais, revela-se intempestiva.
+4. Agravo interno não provido.
+VOTO
+O recurso não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+(1) Do preparo
+Inicialmente, nos termos da decisão agravada, o recurso especial não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento.
+Dessa forma, em virtude dessa irregularidade, ESPÓLIO foi regularmente intimado para sanar o vício, nos termos do art. 1.007, § 4º, do NCPC, mas deixou o prazo transcorrer in albis (e-STJ, fl. 200).
+Nesse sentido, o recurso especial não foi devida e oportunamente preparado, incidindo, assim, a Súmula n.º 187 do STJ e acarretando a deserção da irresignação.
+Ilustrativamente, vejam-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. PEDIDO DE GRATUIDADE DA JUSTIÇA. INDEFERIMENTO. RENOVAÇÃO DO PEDIDO EM RECURSO ESPECIAL. NOVO INDEFERIMENTO. PRAZO PARA RECOLHIMENTO DO PREPARO. OMISSÃO. DESERÇÃO VERIFICADA. AGRAVO INTERNO IMPROVIDO.
+1. Na forma da jurisprudência desta Corte, "se a parte, mesmo após regular intimação, não comprova no prazo assinalado o recolhimento do preparo na forma devida ou o deferimento da gratuidade da justiça na origem, o recurso especial é considerado deserto (Súmula 187 do STJ)" (AgInt no AREsp 2.020.569/SP, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/6/2022, DJe de 28/6/2022).
+2. Agravo interno improvido.
+(AgInt no AREsp n. 2.275.233/RJ, relator Ministro Raul Araújo, Quarta Turma, j. 21/8/2023, DJe de 25/8/2023)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IRREGULARIDADE NA REPRESENTAÇÃO PROCESSUAL E NO PREPARO. INTIMAÇÃO PARA REGULARIZAÇÃO DO VÍCIO. NÃO SANEAMENTO NO PRAZO LEGAL. NECESSIDADE DE COMPROVAÇÃO DA CONCESSÃO DE GRATUIDADE NA ORIGEM. AGRAVO NÃO PROVIDO.
+1. Nos termos dos arts. 76, §2º, I e 932, parágrafo único, do CPC de 2015, não se conhece do recurso quando a parte, após intimada, não 2. Ademais, consoante jurisprudência desta Corte Superior, se a parte, mesmo após regular intimação, não comprova no prazo assinalado o recolhimento do preparo na forma devida ou o deferimento da gratuidade da justiça na origem, o recurso especial é considerado deserto (Súmula 187 do STJ).
+3. "A dispensa de instrução do agravo de instrumento com as peças obrigatórias, prevista no artigo 1.017, § 5º, do CPC/15, não alcança a instância superior, diante da impossibilidade de acesso aos autos eletrônicos originais. Precedentes." (AgInt no AREsp 1907625/BA, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 25/10/2021, DJe 28/10/2021)
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.020.569/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado aos 23/6/2022, DJe de 28/6/2022)
+Ademais, nas razões do agravo interno, ESPÓLIO sustentou que não existe necessidade de recolher custas por ser beneficiário da justiça gratuita.
+Nesse sentido, alegou que o pedido de justiça gratuita foi deferido por despacho exarado nos autos principais n.º 0380325-17.2013.8.05.0001, que tramitou na 15ª Vara dos Feitos de Relação de Consumo, Cíveis e Comerciais da Comarca de Salvador/BA.
+No entanto, há entendimento predominante nesta Corte Superior no sentido de ser insuficiente a assertiva de que a assistência judiciária gratuita foi deferida expressa ou tacitamente nos autos principais ou apensados, devendo a parte trazer certidão comprobatória do Tribunal estadual desse deferimento dentro do prazo estabelecido, o que não ocorreu.
+A propósito, vejam-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. ASSISTÊNCIA JUDICIÁRIA GRATUITA. AUSÊNCIA DE COMPROVAÇÃO. DEFERIMENTO TÁCITO. INEXISTÊNCIA. INTIMAÇÃO PARA PAGAMENTO EM DOBRO DO PREPARO. DESCUMPRIMENTO. RECONHECIMENTO DA DESERÇÃO. SÚMULA N. 187/STJ. INCIDÊNCIA. MULTA. ARTIGO 1.021, § 4º, DO CPC/2015 . CABIMENTO.
+1. Cumprimento de sentença.
+2. Consoante reiterada e uníssona jurisprudência desta Corte Superior, é inafastável a Súmula n. 187/STJ, visto que é " ..  ônus da parte, portanto, no ato da interposição do recurso, fazer prova da condição de dispensa do recolhimento do preparo, permitindo que ao recurso seja dado o devido seguimento. Não o fazendo, deve a parte arcar com o ônus daí advindo (AgRg nos EAREsp nº 116.672/RJ, Relator Ministro MARCO BUZZI, Quarta Turma, DJe 2/10/2012) e que a não apreciação do pedido de assistência judiciária gratuita não significa deferimento tácito  .. " (AgInt no AREsp n. 997.745/PB, Quarta Turma, DJe de 6/10/2017). Precedentes.
+3. Há entendimento predominante no Superior Tribunal de Justiça de que é insuficiente a alegação de que a assistência judiciária gratuita foi deferida expressa ou tacitamente nos autos principais ou apensados, devendo a parte trazer certidão comprobatória do Tribunal estadual desse deferimento, o que não ocorreu. Precedentes.
+4. Quando a parte, após regularmente intimada, não comprova, no prazo assinado, o recolhimento do preparo na forma devida ou o deferimento da assistência judiciária gratuita no Tribunal de origem, o recurso especial é considerado deserto. Precedentes.
+5. Agravo interno no agravo em recurso especial não provido, com aplicação de multa, nos termos do artigo 1.021, § 4º, do CPC/2015.
+(AgInt no AREsp n. 2.323.490/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 18/9/2023, DJe de 20/9/2023)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. RECURSO ESPECIAL. AUSÊNCIA DE RECOLHIMENTO DO PREPARO OU COMPROVAÇÃO DA GRATUIDADE DE JUSTIÇA. SÚMULA 187/STJ.
+1."O benefício da gratuidade judiciária não tem efeito retroativo, de modo que a sua concessão posterior à interposição do recurso não tem o condão de isentar a parte do recolhimento do respectivo preparo. Desse modo, nem mesmo eventual deferimento da benesse nesta fase processual, descaracterizaria a deserção do recurso especial" (AgInt no AREsp nº 1.769.760/MS, Rel. Min. NANCY ANDRIGHI, Terceira Turma, DJe de 10/03/2021.).
+2. "É insuficiente a mera alegação de que a justiça gratuita foi deferida expressa ou tacitamente nos autos principais ou apensados, cabendo à parte comprovar a concessão do benefício" (AgInt no AREsp n. 2.122.681/MA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/3/2023, DJe de 31/3/2023.).
+3. É "pacífico o entendimento desta Corte Superior, no sentido de que o benefício de justiça gratuita concedido unicamente à parte não tem extensão à terceiros, porquanto a assistência judiciária gratuita é um direito personalíssimo e incomunicável, razão pela qual o seu deferimento à parte não implica a sua extensão ao patrono quando esse pleitear, em seu interesse, os direitos contidos no artigo 23, da Lei nº 8.906/94" (AgInt no AREsp n. 1.482.403/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 20/8/2019, DJe de 23/8/2019.).
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.277.263/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, j. 14/8/2023, DJe de 17/8/2023)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA DO AGRAVADO.
+1. Nos termos da jurisprudência desta Corte, deve ser reconhecida a deserção do recurso (Súmula 187/STJ), quando a parte recorrente, mesmo devidamente intimada, deixa de regularizar o preparo. 1.1. Na hipótese, não constava dos autos decisão deferindo a gratuidade de justiça e, devidamente intimada, a parte deixou de comprovar a alegada benesse ou efetuar o recolhimento devido. 1.2. É insuficiente a mera alegação de que a justiça gratuita foi deferida expressa ou tacitamente nos autos principais ou apensados, cabendo à parte comprovar a concessão do benefício. Precedentes. 1.3. A dispensa de instrução do agravo de instrumento com as peças obrigatórias, prevista no artigo 1.017, § 5º, do CPC/15, não alcança a instância superior, diante da impossibilidade de acesso aos autos eletrônicos originais. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 1.907.625/BA, relator Ministro Marco Buzzi, Quarta Turma, j. 25/10/2021, DJe de 28/10/2021)
+(2) Da tempestividade
+Conforme relatado, ESPÓLIO alegou que a tempestividade do recurso especial estaria comprovada pela certidão de publicação do julgamento pelo TJBA constante dos autos.
+Entretanto, do exame do citado documento depreende-se que o aresto recorrido foi disponibilizado no Diário da Justiça eletrônico aos 24/10/2022 (segunda-feira) e publicado no dia 25/10/2022 (terça-feira), conforme certidão da Secretaria da 4ª Turma Cível do TJBA (e-STJ, fl. 136).
+Assim, o prazo para a interposição de recurso especial se iniciou aos 26/10/2022 (quarta-feira), com término aos 17/11/2022 (quinta-feira), considerando-se a suspensão do seu curso em 2/11/2022 (dia de finados) e 15/11/2022 (proclamação da República).
+Ocorre que a petição do recurso especial somente foi protocolada perante o TJBA aos 21/11/2022 (e-STJ, fls. 137/144), sendo, portanto, intempestiva, nos termos do art. 1.003, § 5º, do NCPC.
+A propósito, confira-se o julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTEMPESTIVIDADE. SUSPENSÃO DE PRAZO. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. ARTS. 1.003, § 6º, E 932, PARÁGRAFO ÚNICO, DO CÓDIGO DE PROCESSO CIVIL DE 2015. ABERTURA DE PRAZO. IMPOSSIBILIDADE. EXCEÇÃO. SEGUNDA-FEIRA DE CARNAVAL.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. É intempestivo o recurso especial interposto após o prazo de 15 (quinze) dias previsto nos arts. 219 e 1.003, § 5º, do Código de Processo Civil de 2015.
+3. Nos termos do § 6º do art. 1.003 do CPC/2015, para fins de aferição de tempestividade, a ocorrência de feriado local deverá ser comprovada, mediante documento idôneo, no ato da interposição do recurso.
+4. A interpretação literal da norma expressa no § 6º do art. 1.003 do CPC/2015, de caráter especial, sobrepõe-se a qualquer interpretação mais ampla que se possa conferir às disposições de âmbito geral insertas nos arts. 932, parágrafo único, e 1.029, § 3º, do citado diploma legal.
+5. A Corte Especial, ao decidir a Questão de Ordem no REsp 1.913.684/SP, firmou o entendimento de ser possível, em momento posterior, a comprovação da tempestividade do recurso interposto até a publicação do respectivo acórdão apenas na hipótese do feriado de segunda-feira de Carnaval, não se estendendo aos demais feriados.
+6. A juntada de cópia de informações extraídas da internet não é suficiente, por si só, para comprovar a interposição tempestiva do recurso.
+7. Agravo interno não provido.
+(AgInt no AREsp n. 1.683.324/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, j. 30/11/2020, DJe de 3/12/2020 )
+Assim, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ser ele mantido.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
