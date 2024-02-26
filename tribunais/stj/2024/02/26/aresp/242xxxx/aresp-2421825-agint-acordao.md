@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO REVISIONAL - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA DE PLANO NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+2. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por MARIA LUCILA LA PORTA BUFFET e outra, em face de decisão monocrática que conheceu do agravo para, de plano, negar provimento ao recurso especial.
+O apelo nobre, a seu turno, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, foi manejado em face de acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+DIREITO CIVIL. AÇÃO REVISIONAL DE ALUGUEL. APELAÇÃO CÍVEL. PERÍCIA JUDICIAL. MÉTODO COMPARATIVO. APLICAÇÃO. VALORREAL DO METRO QUADRADO. PREÇO JUSTO. RECONVENÇÃO. EXTINÇÃO. POSSIBILIDADE. NATUREZA DÚPLICE DA AÇÃOREVISIONAL. HONORÁRIOS ADVOCATÍCIOS. ARBITRAMENTO. DESCABIMENTO. PRINCÍPIO DA FUNGIBILIDADE. SENTENÇAMANTIDA.1. De acordo com as normas inscritas no artigo 51 da Lei 8.245/1991, emsendo a locação destinada a fins comerciais, o locatário faz jus, quandoatendidos os requisitos legais, à renovação do contrato e à revisão dosvalores previstos no acordo, os quais poderão ser aferidos por meio deperícia judicial se ausente concordância, entre os contratantes, acerca dopreço.2. Em razão da pandemia de Covid-19, houve renegociação temporária doaluguel contratado, sendo concedido à locadora desconto nos valores doaluguel, demonstrando a adaptação ao panorama derivado da restrição docomércio, enquanto medida de combate à propagação do novocoronavírus, razão pela qual não há que se considerar a situaçãoexcepcional de pandemia para a redução permanente do valor do aluguel,quando houve a adequação dos valores da locação durante o períodocrítico que augurou praticamente todo o Distrito Federal.3. Observando-se os fundamentos ora adotados e, ainda, que a coleta dedados para elaboração do laudo judicial foi realizada com respaldo em diversos documentos trazidos aos autos e outros buscados, tais comoplantas de arquitetura do imóvel, anúncios de locação de imóveissemelhantes, bem como que os princípios que regem as relaçõescontratuais militam em favor de ambos os contratantes, dentre os quais sedestaca a razoabilidade, conclui-se que, no momento, a manutenção dovalor do aluguel fixado em perícia é proporcional, o que desautoriza a suaminoração.4. Na ação principal, não há que se falar em sucumbência mínima quandoo cerne da questão se cingiu em aferir o valor justo do aluguel, o qual foifixado em montante divergente do requerido por ambas as partes,demonstrando a sucumbência recíproca.5. A ação revisional de aluguel possui natureza dúplice, uma vez quepermite ao réu, em contestação, apresentar contraproposta ao pedido doautor, sendo a vedada a via reconvencional por ausência de interesse daagir.6. Não obstante, embora não seja cabível ação reconvencional nosprocessos de natureza dúplice, em observância ao princípio dafungibilidade, configura-se legítimo o recebimento das razões dereconvenção apresentadas na peça da contestação, como parte integranteda defesa, uma vez que é permitido ao réu formular pedido contraposto,sendo descabido o arbitramento dos ônus sucumbenciais.7. Negou-se provimento ao recurso.
+Opostos embargos de declaração, restaram rejeitados.
+Em suas razões de recurso especial, a recorrente apontou violação ao art. 85, § 1º, do Código de Processo Civil. Aduz que "o fato de a Reconvenção ter sido apresentada na mesma peça da Contestação, e a resposta à Reconvenção ter sido oferecida na petição de Réplica, não significa que inexistiu a angularização processual específica para a peça reconvencional, tanto é que ela foi julgada, premissa fática que o próprio Acórdão guerreado reconhece".
+Inadmitido o apelo na origem, foi manejado o agravo de fls. 889/897, e-STJ.
+Em decisão monocrática, este relator conheceu do agravo para, de plano, negar provimento ao recurso especial ante a incidência das Súmulas 283 e 284 do STF.
+Irresignada, a parte manejou o presente agravo interno, no qual busca combater os referidos óbices sumulares.
+Impugnação às fls. 941/951, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO REVISIONAL - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA DE PLANO NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece prosperar.
+1. Com efeito, quanto ao cabimento da fixação de honorários advocatícios relativamente à reconvenção, restou consignado no acórdão recorrido: "A ação revisional de aluguel possui natureza dúplice, uma vez que permite ao réu, em contestação, apresentar contraproposta ao pedido do autor, sendo a vedada a via reconvencional por ausência de interesse de agir".
+Ademais, a Corte local aduziu que, em observância ao princípio da fungibilidade, as razões de reconvenção apresentadas na peça da contestação foram recebidas como parte integrante da defesa, uma vez que é permitido ao réu formular pedido contraposto, e "foi por tal razão que o d. juízo a quo extinguiu a reconvencional, sem resolução do mérito, por ausência de interesse de agir".
+Em tal contexto, em que a reconvenção sequer é cabível, tanto que suas razões somente foram recebidas como parte integrante da defesa, o Tribunal de origem entendeu pela impossibilidade de fixação de honorários advocatícios de forma autônoma na reconvenção.
+Contudo, a ora recorrente não se desimcubiu do ônus de impugnar os referidos fundamentos, suficientes para a manutenção do acórdão recorrido, notadamente quanto à natureza dúplice da ação revisional de aluguel e quanto à ausência de interesse de agir.
+Logo, incide, na espécie, por analogia, a Súmula 283 do STF, in verbis: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Conforme já decidiu o STJ, "à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge" (AgRg no Ag 1.056.913/SP).
+Nesse sentido, os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA DEMANDADA.
+ ..
+5. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+6. Agravo interno desprovido.
+(AgInt no REsp 1656284/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 11/11/2019, DJe 19/11/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM PEDIDO DE REINTEGRAÇÃO DE POSSE E INDENIZAÇÃO. PRECARIEDADE NA COMPROVAÇÃO DO INADIMPLEMENTO. AUSÊNCIA DE COMPROVAÇÃO DA CONSTITUIÇÃO DO DÉBITO. NEGÓCIO REALIZADO EM 1999, COM AS PRIMEIRAS PROVIDÊNCIAS PARA COBRANÇA REALIZADAS APENAS EM 2013. INCIDÊNCIA DA SUPRESSIO. FUNDAMENTOS NÃO ATACADOS. SÚMULAS 283 E 284 DO STF. CONCLUSÃO ACERCA DA APLICAÇÃO DA SUPRESSIO. SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+1. Ao examinar o feito, o Tribunal local concluiu que, diante da precariedade de provas da constituição do débito, do longo decurso de tempo entre o suposto inadimplemento e a tomada de providências para cobrança dos réus, ocasionaram a incidência da "supressio". Todavia, tais fundamentos autônomos e suficientes para a manutenção do acórdão recorrido não foram rebatidos pelo recorrente em seu apelo especial. Desse modo, verifica-se a falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido, o que denota a deficiência da fundamentação recursal, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+ ..
+(AgInt no AREsp 1500950/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2019, DJe 12/11/2019)
+2. Do exposto, nego provimento ao agravo interno.
+É como voto.
