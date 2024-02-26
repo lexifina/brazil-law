@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. INCIDÊNCIA DA SÚMULA 7/STJ. PREJUDICADO.
+1. Ação de execução de título extrajudicial.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido.
+4. Agravo interno não provido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por CINCO ESTRELAS AGROPECUÁRIA E PARTICIPAÇÃO LTDA. e ATIAIA PECUÁRIA S/A em face da decisão monocrática que, a par de reconsiderar decisão anterior, conheceu do agravo para não conhecer do recurso e special que interpuseram.
+Ação: de execução de título extrajudicial, ajuizada por FINANCIADORA DE ESTUDOS E PROJETOS - FINEP em desfavor das agravantes.
+Decisão interlocutória: rejeitou a exceção de pré-executividade apresentada pelas agravantes.
+Acórdão: integralizado pelo acórdão de e-STJ fls. 845/855, negou provimento ao agravo de instrumento interposto pelas agravantes, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CABIMENTO. TÍTULO EXECUTIVO EXTRAJUDICIAL. SÚMULA Nº 106 DO STJ. MANIFESTA OCULTAÇÃO DA PARTE EXECUTADA.
+1. A jurisprudência do Superior Tribunal de Justiça tem admitido a alegação de prescrição por meio da exceção de pré-executividade, desde que comprovada de plano.
+2. A falta da adequada demonstração da evolução da dívida ou a ausência do simples cálculo aritmético, não acarreta, por si só, a extinção automática do processo, devendo o magistrado oportunizar a emenda à inicial para correção do vício (art. 616, do CPC). No entanto, a ausência do referido demonstrativo indica irregularidade formal que deve ser sanada antes do prosseguimento da execução. Contudo, in casu, a exequente apresentou planilha com a discriminação do débito, de forma que deve ser afastada a alegação de afronta ao disposto no art. 614, II, do CPC.
+3. Na hipótese dos autos, não houve inércia da FINEP em providenciar a citação da empresa executada, que diligenciou diversas vezes no intuito de citar as executadas, sem obter êxito. Embora se possa questionar as estratégias adotadas pela agravada, que procedeu de forma um tanto quanto "afoita" ao tentar localizar o representante da empresa, em diversos endereços particulares, antes de renovar a diligência citatória no logradouro indicado no instrumento contratual, não se pode afirmar que a demora na citação ocorreu somente em virtude da atuação da FINEP.
+4. Todas as diligências citatórias foram realizadas por precatória, o que, sabidamente, é responsável por uma grande demora na tramitação processual, o que atrai a aplicação do enunciado nº 106 da Súmula do STJ. Com relação à citação requerida na Comarca de Juara/MT, por exemplo, verifica-se a demora de quase 3 (três) anos para a devolução da carta, sem que houvesse sucesso em promover a citação.
+5. Os autos evidenciam o intuito do representante legal da empresa de se esquivar de receber o Oficial de Justiça. Chama a atenção, ainda, o fato deste se encontrarem Juara/MT quando foi promovida a diligência citatória em Cuiabá, enquanto, na oportunidade em que houve a tentativa de citação no referido Município, foi informado por um funcionário da empresa que o representante legal residia em São Paulo; aliás, a mesma informação que foi dada na primeira certidão negativa, sendo certo que restaram infrutíferas as inúmeras tentativas de citação realizadas na Seção Judiciária de São Paulo. Diante da conduta reprovável do representante legal das executadas, descabe o reconhecimento da prescrição.
+6. Agravo de instrumento conhecido e desprovido.
+Embargos de declaração: opostos pelas agravantes, não foram conhecidos.
+Recurso especial: apontam violação aos arts. 219, 267, II e III, 614, II, e 617 do CPC/73 e 206, §5º, do CC, bem como dissídio jurisprudencial, sustentando, em síntese, a ocorrência da prescrição.
+Juízo prévio de admissibilidade: o TJ/RJ inadmitiu o recurso especial, dando ensejo à interposição do agravo em recurso especial.
+Decisão monocrática: a par de reconsiderar decisão anterior, conheceu do agravo para não conhecer do recurso especial interposto pelas agravantes, nos termos da seguinte ementa (e-STJ fl. 1158):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. INCIDÊNCIA DA SÚMULA 7/STJ. PREJUDICADO.
+1. Ação de execução de título extrajudicial.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido.
+4. Reconsiderada a decisão de e-STJ fl. 1065. Agravo conhecido. Recurso especial não conhecido.
+Agravo interno: as agravantes defendem, em síntese, a inaplicabilidade do óbice da Súmula 7 do STJ à hipótese. No mais, reitera os argumentos de mérito do recurso especial, no que se refere à ocorrência da prescrição.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. INCIDÊNCIA DA SÚMULA 7/STJ. PREJUDICADO.
+1. Ação de execução de título extrajudicial.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido.
+4. Agravo interno não provido.
+VOTO
+Pela análise das razões apresentadas, verifica-se que a parte agravante não trouxe qualquer argumento apto a modificar as conclusões da decisão ora combatida.
+Com efeito, há de ser mantida a incidência da Súmula 7/STJ, haja vista que a questão relativa à prescrição foi solvida pelo Tribunal de origem com base em elementos fático-probatórios, que não podem ser revistos na estreita via do recurso especial.
+Senão, confira-se o seguinte excerto do acórdão recorrido:
+"Em que pesem os argumentos expendidos na decisão que deferiu o pedido de atribuição de efeito suspensivo ao recurso, o fato é que não houve inércia da FINEP em providenciar a citação da empresa executada, que, como bem destacado pela magistrada a quo, "diligenciou diversas vezes no intuito de citar as executadas, sem obter êxito", com a realização, inclusive, de consultas a órgãos como SERASA, Banco Central e Receita Federal (fl. 733). Embora se possa questionar as estratégias adotadas pela agravada, que procedeu de forma um tanto quanto "afoita" ao tentar localizar o representante da empresa em diversos endereços particulares antes de renovar a diligência citatória no logradouro indicado no instrumento contratual, não se pode afirmar que a demora na citação ocorreu somente em virtude da atuação da FINEP.
+(..)
+Após este breve relato processual, entendo que a decisão agravada merece ser mantida por seus próprios fundamentos. Em primeiro lugar, cabe destacar a demora de tramitação das cartas precatórias. Todas as diligências citatórias foram realizadas por precatória, o que, sabidamente, é responsável por uma tramitação o processual muito mais lenta, atraindo a aplicação do enunciado nº 106 da Súmula do STJ. Com relação à citação requerida na Comarca de Juara/MT, por exemplo, verifica-se a demora de quase 3 (três) anos para a devolução da carta, sem que houvesse sucesso em promover a citação. Mutatis mutandis, vale conferir os seguintes julgados das Cortes Regionais Federais:
+(..)
+Por outro lado, salta aos olhos o intuito do representante legal da empresa de se esquivar de receber o ilustre Oficial de Justiça. Chama a atenção, ainda, o fato de o Sr. Getulio se encontrar em Juara/MT quando foi promovida a diligência citatória em Cuiabá. Aliás, ao que parece, ele não voltaria da Fazenda em Juara/MT tão cedo, enquanto, na oportunidade em que houve a tentativa de citação no referido Município, foi informado por um funcionário da empresa que o representante legal residia em São Paulo; aliás, a mesma informação que foi dada na primeira certidão negativa (fl. 92), sendo certo que restaram infrutíferas as inúmeras tentativas de citação realizadas na Seção Judiciária de São Paulo. Há fortes indícios de que os próprios funcionários da empresa eram orientados a"despistar" os auxiliares da Justiça, sendo indene de qualquer dúvida o propósito de ocultação, conforme se infere pela simples leitura da certidão de fls. 620/621. Diante da conduta reprovável do representante legal das executadas, descabe o reconhecimento da prescrição (..)." (e-STJ fls. 801/807)
+E do acórdão do recurso integrativo:
+"A argumentação de que a empresa sempre manteve o mesmo endereço, por si só, não é apta a demonstrar a desídia da exequente. Na hipótese dos autos, o conjunto probatório demonstrou que funcionário da própria empresa orientou o oficial de justiça a encontrar o representante legal da empresa em São Paulo (certidão- fl. 92), suposto endereço da matriz da empresa, que, contudo, não foi encontrado (certidão-fl.242). Após, houve a expedição de diversas cartas precatórias para os Estados de São Paulo e Mato Grosso. Na diligência citatória realizada em Juara/MT, local onde se encontrava o Sr. Getúlio quando o oficial de justiça retomou ao endereço referido no instrumento contratual, foi destacado que, na localidade, funcionava "somente um escritório de contabilidade com o funcionário Sr. Nilson Alves", sendo certo que o representante legal da empresa poderia ser encontrado em São Paulo. Os documentos colacionados aos autos demonstram que não houve mera desídia da FINEP em renovar a citação no endereço indicado no contrato; as circunstâncias comprovam que a exequente foi induzida por funcionários da própria empresa a buscar o seu representante legal em diversos endereços." (e-STJ fls. 848/849)
+Outrossim, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, realmente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido, confira-se: AgInt no AREsp 821.337/SP, 3ª Turma, DJe de 13/3/2017 e AgInt no AREsp 1.215.736/SP, 4ª Turma, DJe de 15/10/2018.
+Por todo o exposto, não merece reforma a decisão impugnada.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
