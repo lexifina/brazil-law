@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. AUSÊNCIA.
+1. Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que não há no acórdão nenhuma situação que dê amparo ao recurso integrativo, porquanto o vício alegado pelo embargante, na realidade, manifesta seu inconformismo com o desprovimento do agravo interno.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ARMANDO DOMINGOS DA SILVA contra acórdão que negou provimento ao seu agravo interno e foi assim ementado (e-STJ fls. 416/417):
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. PENSÃO POR MORTE. CONDIÇÃO DE SEGURADA ESPECIAL DA FALECIDA. AUSÊNCIA DE INÍCIO DE PROVA MATERIAL. PROVA TESTEMUNHAL. DESCABIMENTO.
+1. Segundo a jurisprudência do STJ, "a apresentação de prova material somente sobre parte do lapso temporal pretendido não implica violação da Súmula 149 do STJ, cuja aplicação é mitigada se a reduzida prova material for complementada por idônea e robusta prova testemunhal" (Tema 554) (REsp 1.321.493/PR, relator Ministro Herman Benjamin, Primeira Seção, julgado em 10/10/2012, DJe de 19/12/2012.).
+2. A Primeira Seção deste Tribunal Superior também pacificou o entendimento de que "se mostra possível o reconhecimento de tempo de serviço rural anterior ao documento mais antigo, desde que amparado por convincente prova testemunhal, colhida sob contraditório" (Tema 638) (REsp 1.348.633/SP, relator Ministro Arnaldo Esteves Lima, Primeira Seção, julgado em 28/8/2013, DJe de 5/12/2014.).
+3. No julgamento do REsp 1.354.908/SP, sob o rito do art. 543-C do CPC/1973, a Primeira Seção desta Corte assentou a compreensão já firmada no âmbito da Terceira Seção (na Pet 7.476/PR, DJe 25/04/2011), concluindo que a concessão de benefício a segurado especial pressupõe sua presença no campo por ocasião da implementação dos requisitos.
+4. Hipótese em que que a instância ordinária considerou que, na data do óbito, inexistia início de prova material da condição de segurada especial da falecida esposa do recorrente, motivo pelo qual descabe falar em complementação por meio de prova testemunhal.
+5. Agravo interno desprovido.
+O embargante pretende que sejam sanadas as omissões acerca da (i) aplicação da redação do § 3º do art. 55 da Lei n. 8.213/1991 em vigor na data do óbito de sua esposa e sobre (ii) o entendimento jurisprudencial desta Corte Superior no sentido de não ser exigível a existência de início de prova documental ao tempo do óbito do instituidor da pensão, desde que ele (o início de prova documental existente) seja corroborado por prova testemunhal que amplie a eficácia do documento mais recente, como se lê (e-STJ fls. 427/429):
+6. Assim, à época do óbito da instituidora do benefício, o § 3º do art. 55 da Lei nº 8.213/1991 não continha a determinação de que o início de prova material "só produzirá efeito quando for baseada em início de prova material contemporânea dos fatos".
+7. Desse modo, a primeira pecha omissiva existente no v. acórdão embargado consiste na ausência de aplicação da escorreita redação do§ 3º do art. 55 da Lei nº 8.213/1991 vigente na data do óbito da falecida esposa do recorrente, que não exigia a contemporaneidade do início de prova material em relação aos fatos.
+8. Por outro lado, o v. acórdão embargado restou totalmente omisso em relação ao entendimento jurisprudencial do próprio Colendo Superior Tribunal de Justiça mencionado nas razões do agravo interno, segundo o qual a prova documental não precisa nem de longe ser "contemporânea ao óbito", desde que seja corroborada por prova testemunhal que amplie a eficácia do documento mais recente para o período posterior a ele.
+ .. .
+11. Denota-se, portanto, que o entendimento jurisprudencial pacificado pelo Colendo Superior Tribunal de Justiça não exige a existência de início de prova documental contemporâneo à época do óbito para que o segurado especial rural possa comprovar a sua condição por meio da prova testemunhal.
+Requer, ao final, a procedência do pedido da ação rescisória (e-STJ fl. 429):
+14. Como consequência lógica do saneamento das omissões supraditas, requer sejam concedidos excepcionais efeitos modificativos aos presentes aclaratórios (art. 1023, §2º, e o art. 1024, § 4º, ambos da lei Adjetiva Civil) para conhecer do agravo e dar provimento ao recurso especial, visando à procedência da ação rescisória (em iudicium rescidens) e a determinação do feito determinando-se a reabertura da fase instrutória no processo originário, para possibilitar ao autor a produção da prova testemunhal que lhe é de direito, com o fim de corroborar o início de prova material carreado aos autos, no sentido de comprovar a qualidade de segurada especial da instituidora do benefício de pensão por morte (em iudicum rescissorium).
+Sem impugnação (e-STJ fl. 446).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. AUSÊNCIA.
+1. Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que não há no acórdão nenhuma situação que dê amparo ao recurso integrativo, porquanto o vício alegado pelo embargante, na realidade, manifesta seu inconformismo com o desprovimento do agravo interno.
+3. Embargos de declaração rejeitados.
+VOTO
+Nos termos do art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material na decisão. No caso, não ocorreu nenhum dos vícios supracitados.
+Observo que as omissões invocadas pela parte embargante manifestam o seu inconformismo com o julgado embargado e que ela repisa argumentos antes suscitados, objetivando a modificação do acórdão, desiderato inadmissível em sede de embargos declaratórios.
+Nesse sentido, transcrevo precedente desta Corte Superior:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL. CONFIGURADO. AUSÊNCIA DE OMISSÃO. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso, não se constata a omissão alegada pela parte embargante, que busca rediscutir matéria devidamente examinada na decisão embargada, o que é incabível nos embargos declaratórios.
+3. Embargos de declaração parcialmente acolhidos, para sanar erro material.
+(EDcl no AgInt nos EDcl no AREsp n. 1.960.434/PR, Relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022).
+De toda sorte, cumpre chamar atenção para o fato de estar expresso, no voto condutor do acórdão embargado, que a Primeira Seção desta Corte, no julgamento do Tema 642, assentou a compreensão antes firmada no âmbito da Terceira Seção na Pet 7.476/PR (DJe 25/04/2011), segundo a qual a concessão de benefício a segurado especial pressupõe sua presença no campo por ocasião da implementação dos requisitos:
+O segurado especial tem que estar laborando no campo, quando completar a idade mínima para se aposentar por idade rural, momento em que poderá requerer seu benefício. Ressalvada a hipótese do direito adquirido, em que o segurado especial, embora não tenha requerido sua aposentadoria por idade rural, preenchera de forma concomitante, no passado, ambos os requisitos carência e idade.
+O aludido julgado representativo de controvérsia foi assim ementado:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. APOSENTADORIA POR IDADE RURAL. COMPROVAÇÃO DA ATIVIDADE RURAL NO PERÍODO IMEDIATAMENTE ANTERIOR AO REQUERIMENTO. REGRA DE TRANSIÇÃO PREVISTA NO ARTIGO 143 DA LEI 8.213/1991. REQUISITOS QUE DEVEM SER PREENCHIDOS DE FORMA CONCOMITANTE. RECURSO ESPECIAL PROVIDO.
+1. Tese delimitada em sede de representativo da controvérsia, sob a exegese do artigo 55, § 3º combinado com o artigo 143 da Lei 8.213/1991, no sentido de que o segurado especial tem que estar laborando no campo, quando completar a idade mínima para se aposentar por idade rural, momento em que poderá requerer seu benefício. Se, ao alcançar a faixa etária exigida no artigo 48, § 1º, da Lei 8.213/1991, o segurado especial deixar de exercer atividade rural, sem ter atendido a regra transitória da carência, não fará jus à aposentadoria por idade rural pelo descumprimento de um dos dois únicos critérios legalmente previstos para a aquisição do direito. Ressalvada a hipótese do direito adquirido em que o segurado especial preencheu ambos os requisitos de forma concomitante, mas não requereu o benefício.
+2. Recurso especial do INSS conhecido e provido, invertendo-se o ônus da sucumbência. Observância do art. 543-C do Código de Processo Civil.(REsp n. 1.354.908/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 9/9/2015, DJe de 10/2/2016.)
+Cabe acentuar que ainda que a redação dada pela Lei n. 13.846/2019 não alcance o caso dos autos em razão de o falecimento da segurada ter ocorrido em 2013, o § 3º do art. 55 da Lei de Benefício, no texto original, já previa que a comprovação do tempo de serviço fosse baseada em início de prova material, conforme se verifica do texto legal:
+Art. 55. O tempo de serviço será comprovado na forma estabelecida no Regulamento, compreendendo, além do correspondente às atividades de qualquer das categorias de segurados de que trata o art. 11 desta Lei, mesmo que anterior à perda da qualidade de segurado:
+ ..
+§ 3º A comprovação do tempo de serviço para os efeitos desta Lei, inclusive mediante justificação administrativa ou judicial, conforme o disposto no art. 108, só produzirá efeito quando baseada em início de prova material, não sendo admitida prova exclusivamente testemunhal, salvo na ocorrência de motivo de força maior ou caso fortuito, conforme disposto no Regulamento. (Redação original de 1991).
+No julgado embargado, destacou-se que a improcedência do pedido rescisório, nas instâncias de origem, deu-se pela falta de demonstração de início de prova material contemporâneo à data do óbito, ocorrido em 2013, uma vez que o último documento em nome da falecida datava de 2006.
+Desse modo, concluiu-se que, visto que a instância ordinária considerou que inexistia início de prova material da condição de segurada especial da falecida esposa do recorrente na data de seu passamento, não há falar em complementação por meio de prova testemunhal.
+Por fim, advirto ao recorrente que a oposição de embargos de declaração manifestamente protelatórios pod e ensejar a aplicação da multa prevista no § 2º do art. 1.026 do CPC/2015.
+Ante o exposto, REJEITO os embargos de declaração.
+É como vot o.
