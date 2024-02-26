@@ -1,0 +1,85 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  INTERNO NO AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  CIVIL  PÚBLICA.  CONSUMIDOR.  INVERSÃO  DO  ÔNUS  DA  PROVA.  PRERROGATIVA.  MINISTÉRIO  PÚBLICO.  ARTS.  489  E  1.022  DO  CÓDIGO  DE  PROCESSO  CIVIL .  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  OCORRÊNCIA.  RETORNO  DOS  AUTOS.  NECESSIDADE.
+1.  No  caso,  a despeito da  oposição  dos  embargos  de  declaração,  o  tribunal  de  origem  não  enfrentou  as  razões  pelas  quais  não  ocorreu  a  inversão  do  ônus  da  prova  em  favor  do  Órgão  Ministerial.
+2.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  é  firme  no  sentido  de  que,  existindo  violação  do  art.  1.022  do  CPC,  por  ausência  de  manifestação  no  tribunal  estadual  a respeito dos  pontos  essenciais  ao  deslinde  da  controvérsia,  de rigor  o  retorno  dos  autos  à  origem  para  novo  julgamento  dos  aclaratórios  opostos.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  MAKRO  ATACADISTA  S.A.  contra  a  decisão  que  deu  provimento  ao  recurso  especial  do  Ministério  Público  do Estado do Rio de Janeiro  para  reconhecer  a  violação  dos  arts.  489  e  1.022  do  Código de Processo Civil e determinar  o  retorno  dos  autos  ao  tribunal  de  origem  para  apreciar  as  questões  suscitadas  nos  aclaratórios.
+Nas  presentes  razões,  a  agravante  argumenta  que
+"(..)  só  caberia  falar  em  omissões  quanto  a  argumentos  que  tivessem  sido  efetivamente  deduzidos  pelo  Agravado  no  agravo  de  instrumento  que  levou  o  caso  à  C.  12ª  Câmara  Cível  do  TJRJ.  Aquele  recurso,  no  entanto,  foi  extremamente  genérico,  tendo  deduzido  toda  a  sua  fundamentação  legal  com  base  única  e  exclusivamente  nos  artigos  6º,  VIII,  e  139,  IV,  do  CPC.  Isso  se  constata  facilmente  pela  leitura  das  sintéticas  razões  do  citado  agravo  de  instrumento,  que  contaram  com  apenas  6  (seis)  parágrafos:
+(..)
+11.  Nesses  6  parágrafos,  nenhuma  tese  foi  construída  com  suposto  fundamento  no  artigo  84  do  CDC  e  nos  artigos  373,  §1º,  497,  536  e  772,  III,  do  CPC,  os  quais  sequer  foram  mencionados.  Esses  dispositivos  foram  suscitados,  pela  primeira  vez,  nos  embargos  de  declaração  de  fls.  e-STJ  73/84,  então  é  óbvio  que  o  E.  Tribunal  não  se  manifestou  sobre  eles  quando  do  julgamento  do  agravo  -  e  nem  estava  obrigado  a  fazê-lo,  pois  não  foram  prequestionados  na  fase  processual  adequada"  (fls.  297-298  e-STJ).
+Requer  a  reconsideração  da  decisão  atacada  para  negar  provimento  ao  recurso  especial  interposto  pelo  Ministério  Público  estadual,  haja vista a  inexistência  de  omissão  no  acórdão  recorrido.
+Postula,  ainda,
+"(..)  que  seja  afastado  do  comando  da  r.  decisão  agravada  a  determinação  de  exame  dos  artigos  84  do  CDC  e  139,  IV,  497,  536,  §1º,  e  772,  III,  do  CPC,  suscitados  intempestivamente  apenas  em  embargos  de  declaração.  Caso  assim  não  se  entenda,  serão  violados  os  artigos  141,  489,  §1º,  IV,  1.013  e  1.022,  II,  do  CPC"  (fl.  301  e-STJ).
+Devidamente  intimada,  a  parte  contrária  impugnou  o  recurso  às  fls.  269-278  (e-STJ).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  INTERNO NO AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  CIVIL  PÚBLICA.  CONSUMIDOR.  INVERSÃO  DO  ÔNUS  DA  PROVA.  PRERROGATIVA.  MINISTÉRIO  PÚBLICO.  ARTS.  489  E  1.022  DO  CÓDIGO  DE  PROCESSO  CIVIL .  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  OCORRÊNCIA.  RETORNO  DOS  AUTOS.  NECESSIDADE.
+1.  No  caso,  a despeito da  oposição  dos  embargos  de  declaração,  o  tribunal  de  origem  não  enfrentou  as  razões  pelas  quais  não  ocorreu  a  inversão  do  ônus  da  prova  em  favor  do  Órgão  Ministerial.
+2.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  é  firme  no  sentido  de  que,  existindo  violação  do  art.  1.022  do  CPC,  por  ausência  de  manifestação  no  tribunal  estadual  a respeito dos  pontos  essenciais  ao  deslinde  da  controvérsia,  de rigor  o  retorno  dos  autos  à  origem  para  novo  julgamento  dos  aclaratórios  opostos.
+3.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Depreende-se  dos  autos  que  o  recorrente,  nas  razões  do  apelo  nobre,  apontou  violação  dos  arts.  6º,  VIII,  e  84  da  Lei  nº  8.078/1990,  139,  IV,  373,  §  1º,  89,  §  1º,  IV,  497,  536,  §  1º,  772,  III,  e  1.022,  II,  do  Código  de  Processo  Civil ao  argumento  de  ser  cabível  ,  em  ação  civil  pública  de  índole  consumerista,  a  inversão  do  ônus  da  prova  em  favor  do  Ministério  Público.
+Sustentou que ofendido o  art.  1.022  do  CPC  devido  à  existência  de  omissões  no  julgado  estadual, explicitando  as  razões  pelas  quais  não  adotou  as  disposições  dos  arts.  6º,  VIII,  e  84  do  Código  de  Defesa  do  Consumidor,  nem dos  arts.  139,  IV,  373,  §  1º,  497  e  536,  caput,  §  1º,  e  772,  III,  do  CPC.
+Cumpre  assinalar  que  a  jurisprudência  do  Superior  Tribunal  de  Justiça  é  firme  no  sentido  de  que,  no  âmbito  do  direito  do  consumidor  ,  é  possível  a  inversão  do  ônus  da  prova  em  prol  do  Órgão  Ministerial  nas  ações  coletivas,  sobretudo  quando  restar  comprovada  a  verossimilhança  das  alegações.
+Ressalta-se  que  a  inversão  do  ônus  da  prova  visa  facilitar a  defesa  do  consumidor  ,  de  forma  individual  e  coletiva,  conforme  disposição  dos  arts.  6º,  VIII,  e  81  do  CDC  e  5º,  XXXII,  da  Constituição  Federal.
+Confiram-se:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL  -  AUTOS  DE  AGRAVO  DE  INSTRUMENTO  -  DECISÃO  MONOCRÁTICA  QUE  NEGOU  PROVIMENTO  AO  RECLAMO.  INSURGÊNCIA  RECURSAL  DA  AGRAVANTE.
+1.  As  questões  postas  à  discussão  foram  dirimidas  pelo  órgão  julgador  de  forma  suficientemente  ampla,  fundamentada  e  sem  omissões,  portanto,  deve  ser  afastada  a  alegada  violação  aos  artigos  489  e  1.022  do  CPC/15.  Precedentes.
+2.  Segundo  a  jurisprudência  desta  Corte,  não  há  óbice  a  que  seja  invertido  o  ônus  da  prova  em  ação  coletiva  de  consumo,  ainda  que  se  cuide  de  ação  civil  pública  ajuizada  pelo  Ministério  Público.
+2.1.  No  caso  em  tela,  a  Corte  local  atestou  a  verossimilhança  das  alegações  apresentadas  pelo  Parquet,  a  autorizar  a  alteração  da  distribuição  dos  deveres  probatórios,  nos  termos  do  artigo  6º,  VIII,  do  Código  de  Defesa  do  Consumidor.
+3.  Agravo  interno  desprovido."
+  (AgInt  no  AREsp  1.788.959/AM,  Rel.  Ministro  MARCO  BUZZI,  QUARTA  TURMA,  julgado  em  27/9/2021,  DJe  1º/10/2021  -  grifou-se).
+"ADMINISTRATIVO  E  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  CIVIL  PÚBLICA.  SERVIÇO  DE  TELEFONIA  MÓVEL.  DEFICIÊNCIA  NA  PRESTAÇÃO  DO  SERVIÇO.  ALEGADA  OFENSA  AO  ART.  535  DO  CPC/73.  INEXISTÊNCIA.  INCONFORMISMO.  INFRINGÊNCIA  AOS  ARTS.  8º  E  19,  X  E  XI,  DA  LEI  9.472/97.  DISPOSITIVOS  NÃO  PREQUESTIONADOS.  SÚMULA  211  DO  STJ.  ANATEL.  LITISCONSÓRCIO  PASSIVO  NECESSÁRIO.  DESNECESSIDADE.  AÇÃO  QUE  VISA  A  PROTEÇÃO  DE  DIREITO  DO  CONSUMIDOR.  INVERSÃO  DO  ÔNUS  DA  PROVA.  POSSIBILIDADE,  NA  AÇÃO  CIVIL  PÚBLICA.  ANTECIPAÇÃO  DOS  EFEITOS  DA  TUTELA.  DEFERIMENTO.  REQUISITOS.  IMPOSSIBILIDADE  DE  REVISÃO,  NA  VIA  ESPECIAL.  SÚMULA  7/STJ.  ALEGAÇÃO  DE  DECISÃO  COM  COMANDO  ALEATÓRIO.  CONTROVÉRSIA  RESOLVIDA,  PELO  TRIBUNAL  DE  ORIGEM,  À  LUZ  DAS  PROVAS  DOS  AUTOS.  IMPOSSIBILIDADE  DE  REVISÃO,  NA  VIA  ESPECIAL.  SÚMULA  7/STJ.  AGRAVO  INTERNO  IMPROVIDO.
+(..)
+VII.  De  acordo  com  a  jurisprudência  consagrada  nesta  Corte,  no  que  se  refere  à  alegada  ofensa  ao  art.  6º,  VIII,  do  CDC,  "o  Ministério  Público,  no  âmbito  de  ação  consumerista,  faz  jus  à  inversão  do  ônus  da  prova,  a  considerar  que  o  mecanismo  previsto  no  art.  6º,  inc.  VIII,  do  CDC  busca  concretizar  a  melhor  tutela  processual  possível  dos  direitos  difusos,  coletivos  ou  individuais  homogêneos  e  de  seus  titulares  -  na  espécie,  os  consumidores  -,  independentemente  daqueles  que  figurem  como  autores  ou  réus  na  ação"  (STJ,  REsp,  1.253.672/RS,  Rel.  Ministro  MAURO  CAMPBELL  MARQUES,  SEGUNDA  TURMA,  DJe  de  09/08/2011).  Precedentes  do  STJ.
+(..)
+XI.  Agravo  interno  improvido."
+  (AgInt  no  AREsp  1.017.611/AM,  Rel.  Ministra  ASSUSETE  MAGALHÃES,  SEGUNDA  TURMA,  julgado  em  18/2/2020,  DJe  2/3/2020  -  grifou-se).
+"ADMINISTRATIVO  E  PROCESSUAL  CIVIL.  DIREITO  DO  CONSUMIDOR.  OFENSA  AOS  ARTS.  165,  458,  535,  II,  DO  CPC/73  NÃO  DEMONSTRADA.  AÇÃO  CIVIL  PÚBLICA.  INVERSÃO  DO  ÔNUS  DA  PROVA.  PRERROGATIVA  DO  MINISTÉRIO  PÚBLICO  NO  ÂMBITO  CONSUMERISTA.  INATACADO  FUNDAMENTO  BASILAR  DO  ACÓRDÃO  RECORRIDO.  SÚMULA  283/STF.  OBRIGAÇÃO  DE  IMPLANTAR  SETOR  DE  RELACIONAMENTO,  A  FIM  DE  DISPONIBILIZAR  AO  CONSUMIDOR  FÁCIL  ACESSO  A  CANAL  DESTINADO  AO  CANCELAMENTO  DA  LINHA  TELEFÔNICA.  REEXAME  DE  MATÉRIA  FÁTICA.  IMPOSSIBILIDADE.  SÚMULA  7/STJ.  DISSÍDIO  JURISPRUDENCIAL  NÃO  COMPROVADO.
+1.  Afasta-se  a  alegação  de  ofensa  aos  arts.  165,  458,  535,  II,  do  CPC/73,  na  medida  em  que  o  Tribunal  de  origem  dirimiu,  fundamentadamente,  as  questões  que  lhe  foram  submetidas,  apreciando  integralmente  a  controvérsia  posta  nos  autos,  não  se  podendo,  ademais,  confundir  julgamento  desfavorável  ao  interesse  da  parte  com  negativa  ou  ausência  de  prestação  jurisdicional.
+2.  De  acordo  com  a  jurisprudência  desta  Corte,  "o  Ministério  Público,  no  âmbito  de  ação  consumerista,  faz  jus  à  inversão  do  ônus  da  prova,  a  considerar  que  o  mecanismo  previsto  no  art.  6º,  inc.  VIII,  do  CDC  busca  concretizar  a  melhor  tutela  processual  possível  dos  direitos  difusos,  coletivos  ou  individuais  homogêneos  e  de  seus  titulares  -  na  espécie,  os  consumidores  -,  independentemente  daqueles  que  figurem  como  autores  ou  réus  na  ação"  (REsp  1.253.672/RS,  Rel.  Ministro  Mauro  Campbell  Marques,  Segunda  Turma,  DJe  9/8/2011).
+3.  O  recurso  especial  não  impugnou  fundamento  basilar  que  ampara  o  acórdão  recorrido,  de  forma  que  a  irresignação  esbarra  no  obstáculo  da  Súmula  283/STF,  que  assim  dispõe:  "É  inadmissível  o  recurso  extraordinário,  quando  a  decisão  recorrida  assenta  em  mais  de  um  fundamento  suficiente  e  o  recurso  não  abrange  todos  eles".
+4.  A  Corte  de  origem  ratificou  a  sentença  de  piso  que,  a  partir  do  exame  do  acervo  probatório  dos  autos,  concluiu  pela  inexistência  de  setores  de  relacionamento  para  o  cancelamento  de  linhas  telefônicas,  razão  pela  qual  condenou  a  parte  recorrente  a  implantar  referido  serviço,  bem  como  ao  pagamento  de  danos  materiais,  a  serem  apurados  em  liquidação  de  sentença,  caso  o  consumidor  comprove  o  fato  gerador  do  direito  reclamado.  Rever  tal  conclusão,  demandaria,  necessariamente,  novo  exame  do  acervo  fático-probatório  constante  dos  autos,  providência  vedada  em  recurso  especial,  conforme  o  óbice  previsto  na  Súmula  7/STJ.
+5.  A  inexistência  de  similitude  fático-jurídica  entre  os  acórdãos  recorrido  e  paradigma  impede  a  análise  da  alegada  divergência  jurisprudencial.
+6.  Agravo  interno  a  que  se  nega  provimento."
+  (AgInt  no  REsp  1.322.449/RJ  Rel.  Ministro  SÉRGIO  KUKINA,  PRIMEIRA  TURMA,  22/8/2017,  DJe  31/8/2017  -  grifou-se).
+"RECURSOS  ESPECIAIS.  CIVIL,  PROCESSUAL  CIVIL  E  CONSUMIDOR.  AÇÃO  COLETIVA  DE  CONSUMO.  VENDA  CASADA.  CARTÃO  DE  CRÉDITO  E  SEGURO.
+(..)
+2.9.  O  Ministério  Público,  no  âmbito  do  Direito  do  Consumidor,  também  faz  jus  à  inversão  do  ônus  da  prova.
+(..)
+3.3.  SEGUNDO  RECURSO  ESPECIAL  DESPROVIDO.
+IV  -  RECURSOS  ESPECIAIS  DESPROVIDOS."
+  (REsp  1.554.153/RS,  Rel.  Ministro  PAULO  DE  TARSO  SANSEVERINO,  TERCEIRA  TURMA,  julgado  em  20/6/2017,  DJe  1º/8/2017  -  grifou-se).
+"CONSUMIDOR  E  PROCESSUAL  CIVIL.  JULGAMENTO  MONOCRÁTICO.  LEGALIDADE.  ART.  557  DO  CPC.  POSSIBILIDADE  DE  AGRAVO  INTERNO.  AÇÃO  CIVIL  PÚBLICA.  MINISTÉRIO  PÚBLICO.  INVERSÃO  DO  ÔNUS  DA  PROVA.  POSSIBILIDADE.
+1.  Não  há  óbice  a  que  seja  invertido  o  ônus  da  prova  em  ação  coletiva  -  providência  que,  em  realidade,  beneficia  a  coletividade  consumidora  -,  ainda  que  se  cuide  de  ação  civil  pública  ajuizada  pelo  Ministério  Público.
+2.  Deveras,  "a  defesa  dos  interesses  e  direitos  dos  consumidores  e  das  vítimas"  -  a  qual  deverá  sempre  ser  facilitada,  por  exemplo,  com  a  inversão  do  ônus  da  prova  -  "poderá  ser  exercida  em  juízo  individualmente,  ou  a  título  coletivo"  (art.  81  do  CDC).
+3.  Recurso  especial  improvido."
+  (REsp  951.785/RS,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  julgado  em  15/2/2011,  DJe  18/2/2011  -  grifou-se).
+"PROCESSUAL  CIVIL.  AÇÃO  CIVIL  PÚBLICA.  OMISSÃO,  OBSCURIDADE  E  CONTRADIÇÃO.  NÃO-OCORRÊNCIA.  CERCEAMENTO  DE  DEFESA.  SÚMULA  N.  7/STJ.  INVERSÃO  ÔNUS  DA  PROVA.  DIREITO  DO  CONSUMIDOR.  POSSIBILIDADE.  FALTA  DE  FUNDAMENTAÇÃO.  DISSÍDIO  JURISPRUDENCIAL.  AUSÊNCIA  DE  COTEJO  ANALÍTICO.
+(..)
+5.  É  possível,  em  ação  civil  pública,  a  inversão  do  ônus  da  prova  em  favor  do  Ministério  Público  quando  o  feito  versar  sobre  direito  do  consumidor.
+(..)
+7.  Recurso  especial  não-conhecido."
+  (REsp  736.308/RS,  Rel.  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  QUARTA  TURMA,  julgado  em  15/12/2009,  DJe  2/2/2010  -  grifou-se).
+Todavia,  na  hipótese  dos  autos,  não  obstante  as  alegações  do  Órgão  Ministerial,  o  tribunal  de  origem  limitou-se  a  afirmar  que
+"(..)  o  ônus  da  prova  incumbe  ao  autor,  quanto  ao  fato  constitutivo  de  seu  direito  e  ao  réu,  quanto  à  existência  de  fato  impeditivo,  modificativo  ou  extintivo  do  direito  do  autor,  ônus  do  qual  não  se  desincumbiu  o  Agravante"  (fl.  111  e-STJ).
+Consignou, ainda, que  o  art.  1.022,  parágrafo  único,  II,  do  CPC,  remetendo-se  ao  art.  489,  §  1º,  IV,  determina  que  é  omissa  a  decisão  que  "(..)  não  enfrentar  todos  os  argumentos  deduzidos  no  processo  capazes  de,  em  tese,  infirmar  a  conclusão  adotada  pelo  julgador".
+Assim,  tem  razão  o  Ministério  Público  ao  afirmar  que  o  tribunal  de  origem  não  enfrentou  as  razões  pelas  quais  não  permitiu  a  inversão  do  ônus  da  prova  em  favor  do  Órgão  Ministerial.
+Além  disso,  o  tribunal  não  analisou  a  apontada  violação  dos  arts.  6º,  VIII,  e  84  do  Código  de  Defesa  do  Consumidor e  139,  IV,  373,  §  1º,  497  e  536,  caput,  §  1º,  e  772,  III,  do  CPC.
+Dessa  maneira,  deve  ser  mantida  a  decisão  que  reconheceu  a  violação  do  art.  1.022  do  CPC,  a  fim  de  anular  o  acórdão  recorrido  para  sanar  a  omissão  existente.
+A  propósito:
+"PROCESSUAL  CIVIL.  VIOLAÇÃO  DO  ART.  1022  DO  CPC/2015.  OMISSÃO.  NULIDADE  DO  JULGADO.  RETORNO  DOS  AUTOS.  NECESSIDADE.
+1.  Existindo  na  petição  recursal  alegação  de  ofensa  ao  art.  1.022  do  CPC/2015,  a  constatação  de  que  o  Tribunal  de  origem,  mesmo  após  a  oposição  de  Embargos  Declaratórios,  não  se  pronunciou  sobre  pontos  essenciais  ao  deslinde  da  controvérsia  autoriza  o  retorno  dos  autos  à  instância  ordinária  para  novo  julgamento  dos  aclaratórios  opostos.
+2.  Nesse  contexto,  deve  ser  dado  provimento  ao  Recurso  Especial  a  fim  de  que  os  autos  retornem  ao  Tribunal  de  origem  para  que  este  se  manifeste  sobre  a  matéria  articulada  nos  Embargos  de  Declaração,  em  face  da  relevância  da  omissão  apontada.
+3.  Recurso  Especial  provido,  determinando  o  retorno  dos  autos  à  Corte  de  origem,  para  novo  julgamento  dos  Embargos  de  Declaração."
+  (REsp  1.642.708/SC,  Rel.  Ministro  HERMAN  BENJAMIN,  SEGUNDA  TURMA,  julgado  em  16/2/2017,  DJe  17/4/2017).
+Desse  modo,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provi mento  ao  agravo  interno.
+É  o  voto.
