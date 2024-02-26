@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL OBJETIVA. ACIDENTE DE TRÂNSITO. EMPRESA CONCESSIONÁRIA. DANOS MORAL E MATERIAL CONFIGURADOS. REEXAME DE PROVAS. VEDAÇÃO. SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. A conclusão a que chegou o Tribunal de origem, no sentido de que está configurada a responsabilidade objetiva civil da empresa concessionária, decorreu de convicção formada em face dos elementos fáticos existentes nos autos. Rever os fundamentos do acórdão recorrido importa necessariamente no reexame de provas, o que é vedado nesta fase recursal. Incidência da Súmula n. 7/STJ.
+2. Não se pode conhecer do recurso pela alínea c, uma vez que, aplicada a Súmula n. 7/STJ quanto à alínea a, fica prejudicada a divergência jurisprudencial.
+Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por TRIANGULO DO SOL AUTO - ESTRADAS S.A. contra decisão monocrática por mim proferida que conheceu do agravo para conhecer do recurso especial e negar-lhe provimento, pelos seguintes fundamentos: a) incidência da Súmula n. 7/STJ e b) inexistência de similitude fática entre os arestos confrontados (fls. 330-332).
+O recurso especial inadmitido fora interposto com fundamento no art. 105, III, a e c, da Constituição Federal contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO nos termos da seguinte ementa (fl. 217):
+Responsabilidade Civil. Acidente de trânsito. Danos de correntes de colisão com barra de ferro caída no leito carroçável de rodovia. Causa eficiente do evento. Prova nesse sentido. Responsabilidade objetiva da empresa concessionária. Rodovia pedagiada. Incidência do Código de Defesa do Consumidor. Circunstância danosa também apreciada sob o viés de responsabilidade subjetiva. Inocorrência de excludentes. Danos moral e material ocorrentes. Critério para juros moratórios. Recurso desprovido.
+Nas razões do agravo interno, a parte agravante alega que não pretende o mero reexame de provas, mas sim a sua correta valoração (fls. 336-355).
+Requer, por fim, caso não seja reconsiderada a decisão agravada, submeta-se o presente agravo à apreciação da Turma.
+Sem impugnação ao agravo interno (fl. 359).
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL OBJETIVA. ACIDENTE DE TRÂNSITO. EMPRESA CONCESSIONÁRIA. DANOS MORAL E MATERIAL CONFIGURADOS. REEXAME DE PROVAS. VEDAÇÃO. SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. A conclusão a que chegou o Tribunal de origem, no sentido de que está configurada a responsabilidade objetiva civil da empresa concessionária, decorreu de convicção formada em face dos elementos fáticos existentes nos autos. Rever os fundamentos do acórdão recorrido importa necessariamente no reexame de provas, o que é vedado nesta fase recursal. Incidência da Súmula n. 7/STJ.
+2. Não se pode conhecer do recurso pela alínea c, uma vez que, aplicada a Súmula n. 7/STJ quanto à alínea a, fica prejudicada a divergência jurisprudencial.
+Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+A irresignação não prospera. A parte agravante não apresentou qualquer fundamento capaz de reverter as conclusões alcançadas no julgamento monocrático.
+No que se refere aos arts. 371 do Código de Processo Civil e 186 do Código Civil, a conclusão a que chegou o Tribunal de origem, no sentido de que está configurada a responsabilidade objetiva civil da empresa concessionária, decorreu de convicção formada em face dos elementos fáticos existentes nos autos, como observado no seguinte trecho do acórdão (fls. 220):
+Tornou-se incontroversa a ocorrência danosa, tal qual descrito pelo autor-apelado, não só pela prova, mas também porque a concessionária, em momento algum, negou esse fato, com pleito de não atribuição de responsabilidade a ela, por haver fiscalização da rodovia a cada 120 minutos.
+Observo, nesse ponto, não induzir que a narrativa do autor a que a peça teria caído do veículo à sua frente. Ao trafegar atrás de um caminhão não conseguiu frear seu veículo ao ver a barra de ferro na pista de rolamento.
+Houve notícia à concessionária, por outro usuário haver comunicado sobre o objeto na pista, tanto que o atendimento prestado por ela chegou rapidamente. Por outra, observo ter ocorrido revelia da ré, tornada sem efeito a defesa de págs. 98/121, como se colhe da r. decisão de págs. 171/174.
+Isso observado, impõe-se, então, referir desde logo ser a relação entre as partes daquelas de consumo, a desaguar em responsabilidade objetiva, por ser nesse rumo a composição sobre a relação existente entre o autor e a concessionária do serviço, pois há pagamento de pedágio por aquele.
+Ao contrário do sustentado, rever os fundamentos do acórdão recorrido, para analisar a alegação de que foram equivocadas a valoração e a análise das provas produzidas que ensejaram a condenação por dano moral, importa necessariamente no reexame de fatos e provas, o que é vedado nesta fase recursal e enseja a incidência da Súmula n. 7/STJ.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA.
+1. As razões da decisão monocrática que não foram objeto de irresignação, no agravo interno, ficam atingidas pela preclusão consumativa.
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, as pessoas jurídicas de direito privado prestadoras de serviço público são objetivamente responsáveis pelos danos causados a terceiros no desempenho das atividades referentes ao serviço que lhe é concedido . Incidência da Súmula 83 do STJ.
+3. Rever a conclusão do Tribunal a quo acerca da inocorrência de culpa concorrente no caso em análise, demandaria o reexame de provas, providência que encontra óbice na Súmula 7 desta Corte Superior. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.049.104/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. OMISSÃO OU CONTRADIÇÃO INEXISTENTES. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. CONCLUSÃO NO SENTIDO DA RESPONSABILIDADE DO CONSÓRCIO PELOS DANOS MORAIS CAUSADOS PELO ACIDENTE DE TRÂNSITO. SÚMULAS 5 E 7/STJ. CONCLUSÃO NO ARESTO NO SENTIDO DA LEGITIMIDADE PASSIVA DO CONSÓRCIO EM RELAÇÃO JURÍDICA CONSUMERISTA. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há nenhuma omissão ou mesmo contradição a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 489 e 1.022 do CPC/2015. O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente.
+2. A segunda instância concluiu pela existência de legitimidade passiva do consórcio e o cabimento de sua responsabilidade solidária com as empresas integrantes do sistema de transporte municipal. Em razão da ocorrência de lesão corporal ocasionada na parte autora em acidente de trânsito, reconheceu-se a existência de danos morais, fixando-se a reparação em R$ 5.000,00 (cinco mil reais). Aplicação das Súmulas 5 e 7/STJ.
+3. Consoante orientação do Superior Tribunal de Justiça, "na hipótese de responsabilidade derivada de relação de consumo, afasta-se a regra geral da ausência de solidariedade entre as consorciadas por força da disposição expressa contida no art. 28, § 3º, do CDC. Essa exceção em matéria consumerista justifica-se pela necessidade de se atribuir máxima proteção ao consumidor, mediante o alargamento da base patrimonial hábil a suportar a indenização. Não obstante, é certo que, por se tratar de exceção à regra geral, a previsão de solidariedade contida no art. 28, § 3º, do CDC deve ser interpretada restritivamente, de maneira a abarcar apenas as obrigações resultantes do objeto do consórcio, e não quaisquer obrigações assumidas pelas consorciadas em suas atividades empresariais" (REsp 1.635.637/RJ, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 18/9/2018, DJe 21/9/2018). Incidência da Súmula 83/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.041.309/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/6/2022, DJe de 15/6/2022.)
+Por fim, não se pode conhecer do recurso pela alínea c. A pretensão da parte é de ver reconhecida a existência de dissídio jurisprudencial que tem por objeto a mesma questão aventada sob os auspícios da alínea a, que, por sua vez, foi obstaculizada pela Súmula n. 7/STJ. Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea c.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. CONTRATO DE PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DE IMÓVEL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. LEGITIMIDADE PASSIVA. RESPONSABILIDADE SOLIDÁRIA. INTEGRANTES DA CADEIA DE CONSUMO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação de resolução contratual cumulada com indenização por danos materiais e compensação por danos morais em razão de atraso na entrega de imóvel objeto de contrato de promessa de compra e venda.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+6. A incidência das Súmulas 5 e 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. É solidária a responsabilidade de todos os fornecedores que se beneficiem da cadeia de consumo na compra e venda de imóvel.
+Precedentes.
+8. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.308.601/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. EX-EMPREGADOS APOSENTADOS. PERMANÊNCIA NO PLANO DE SAÚDE COLETIVO. ART. 31 DA LEI N. 9.656/1988. DEFINIÇÃO ACERCA DAS CONDIÇÕES ASSISTENCIAIS E DE CUSTEIO. INEXISTÊNCIA DE DIREITO ADQUIRIDO À MANUTENÇÃO DO MESMO PLANO. PRECEDENTE. MANUTENÇÃO DA EQUIVALÊNCIA DO CUSTEIO ENTRE AS CLASSES, PRESSUPOSTA NAS INSTÂNCIAS ORDINÁRIAS. PRETENSÃO DE REFUTAR O JUÍZO DE EQUIVALÊNCIA. REVISÃO DE FATOS E PROVAS. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Conforme pacificado na jurisprudência do STJ: "O ex-empregado aposentado, preenchidos os requisitos do art. 31 da Lei n. 9.656/1998, não tem direito adquirido de se manter no mesmo plano privado de assistência à saúde vigente na época da aposentadoria, podendo haver a substituição da operadora e a alteração do modelo de prestação de serviços, da forma de custeio e os respectivos valores, desde que mantida paridade com o modelo dos trabalhadores ativos e facultada a portabilidade de carências."
+(REsp n. 1.816.482/SP, relator Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 9/12/2020, DJe de 1º/2/2021.) 2. No caso, pressuposta a equivalência entre o valor atualmente pago pelo funcionário jubilado e os demais empregados da empresa, o acolhimento da pretensão do recorrente demandaria a revisão de fatos e provas, bem como dos termos da apólice, vedado em sede de recurso especial, em razão das Súmulas 5 e 7/STJ.
+3. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido, uma vez que a similitude fática entre os julgados confrontados deve ser aferível de plano, a fim de propiciar o confronto entre os precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.023.562/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 5/6/2023, DJe de 9/6/2023.)
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
