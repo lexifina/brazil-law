@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSO CIVIL. AGRAVO  INTERNO. AGRAVO EM RECURSO ESPECIAL. NÃO REBATIMENTO DE TODOS OS FUNDAMENTOS DO AGRAVO INTERNO. NÃO INCIDÊNCIA DA SÚMULA 182/STJ. PRECLUSÃO DAS MATÉRIAS NÃO IMPUGNADAS. ACÓRDÃO COMBATIDO. FUNDAMENTO AUTÔNOMO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA 283/STF. PROVIMENTO NEGADO.
+1.  Conforme entendimento do Superior Tribunal de Justiça, " ..  a ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator  proferida ao apreciar recurso especial ou agravo em recurso especial  apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ" (EREsp 1.424.404/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe de 17/11/2021).
+2. Hipótese em que o Tribunal de origem utilizou fundamento autônomo e suficiente à manutenção da decisão proferida, o qual não foi especificamente rebatido nas razões do recurso especial interposto, incidindo na espécie, por analogia, o óbice da Súmula 283 do Supremo Tribunal Federal (STF).
+3.  Agravo  interno  a que se nega provimento.
+RELATÓRIO
+Cuida-se  de  agravo  interno  interposto  por COSAN LUBRIFICANTES E ESPECIALIDADES S.A.  contra a decisão  monocrática  de relatoria do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) assim ementada (fl. 429):
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA. LAUDÊMIO. PAGAMENTOS. MULTAS. TRANSFERÊNCIA DO IMÓVEL. DESCUMPRIMENTO DO PRAZO PARA INFORMAR À UNIÃO. DECADÊNCIA E PRESCRIÇÃO. NÃO OCORRÊNCIA. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA 283/STF. VIOLAÇÃO DO ART. 1.015, II, DO CPC/2015. FALTA DO PREQUESTIONAMENTO. SÚMULA 282/STF. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL INTERPOSTO POR COSAN LUBRIFICANTES E ESPECIALIDADES S. A.
+  A  parte  agravante, nas  razões  do  agravo  interno  , refuta  os  fundamentos  da  decisão  agravada,  alegando a não incidência da Súmula 283 do Supremo Tribunal Federal (STF), porquanto não consta dos autos controvérsia acerca do prazo de 60 dias para comunicação da transferência, e que demonstrou nos autos que o praz o para a União constituir a multa seria de 5 anos, contados a partir de agosto de 1971.
+Afirma que indicou o art. 1.015 do Código de Processo Civil (CPC) como violado, mas que não teve a intenção de arguir sua violação e requer que seja desconsiderado o reconhecimento de contrariedade a tal artigo, bem como a existência de dissídio jurisprudencial.
+Pede, ao final, o provimento do agravo interno para que seja provido o recurso especial nos termos pleiteados.
+Não foi apresentada impugnação (fl. 451).
+ É  o  relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO  INTERNO. AGRAVO EM RECURSO ESPECIAL. NÃO REBATIMENTO DE TODOS OS FUNDAMENTOS DO AGRAVO INTERNO. NÃO INCIDÊNCIA DA SÚMULA 182/STJ. PRECLUSÃO DAS MATÉRIAS NÃO IMPUGNADAS. ACÓRDÃO COMBATIDO. FUNDAMENTO AUTÔNOMO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA 283/STF. PROVIMENTO NEGADO.
+1.  Conforme entendimento do Superior Tribunal de Justiça, " ..  a ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator  proferida ao apreciar recurso especial ou agravo em recurso especial  apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ" (EREsp 1.424.404/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe de 17/11/2021).
+2. Hipótese em que o Tribunal de origem utilizou fundamento autônomo e suficiente à manutenção da decisão proferida, o qual não foi especificamente rebatido nas razões do recurso especial interposto, incidindo na espécie, por analogia, o óbice da Súmula 283 do Supremo Tribunal Federal (STF).
+3.  Agravo  interno  a que se nega provimento.
+VOTO
+A  despeito  das  alegações  da  parte  agravante,  razão  não  lhe  assiste.
+Trata -se na origem ação anulatória na qual a ora agravante pretende anular débito fiscal referente à multa por não comunicar a Secretaria de Patrimônio da União (SPU) da transferência do domínio útil de imóvel ocorrida em 1971, diante da ocorrência da prescrição do crédito.
+Inicialmente, o Superior Tribunal de Justiça entende que " ..  a ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator  proferida ao apreciar recurso especial ou agravo em recurso especial  apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ" (EREsp 1.424.404/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe de 17/11/2021).
+Assim, conforme requerido pela agravante, analisarei apenas o fundamento de inadmissão por incidência da Súmula 283 do Supremo Tribunal Federal (STF).
+No caso em questão, o Tribunal de origem decidiu que (fls. 341/349):
+ ..  considerando a natureza não-tributária da multa de transferência prevista no art. 116 do Decreto-Lei 9.760/46, afasto, desde logo, a aplicação do CTN quanto aos prazos decadencial e prescricional nele previstos.
+A jurisprudência é firme no sentido de que a não observância do dever de comunicar a SPU acerca da cessão de direitos relativos à ocupação de imóveis da União, o alienante continua responsável pelo pagamento do laudêmio.
+ ..
+Como se percebe, a alienação do domínio útil não tem efeitos perante a União, senão depois dos trâmites administrativos que, ao final, permitirão a transferência dessa titularidade perante o Serviço de Patrimônio da União e ao Cartório de Registro Imobiliário.
+Deste modo, enquanto tais procedimentos não forem perpetrados, todos os valores devidos em razão do domínio útil continuam sendo exigíveis do alienante, sem prejuízo de que também possam ser exigidos do adquirente: os débitos vencidos, portanto, trata-se de obrigação propter rem, os vincendos igualmente por esse motivo, mas também porque houve transferência da posse, implicando que a alteração da situação de fato por ato de que não participou acredora não a pode prejudicar.
+No caso dos autos, houve duas transferências do imóvel em questão: a) a "primeira se deu entre TAMBORÉ - ADMINISTRAÇÃO, AGRICULTURA E PARTICIPAÇÕES S/A e ESSO BRASILEIRA DE PETRÓLEO S/A, realizada em 18.06.1971, b) a segunda entre ESSO BRASILEIRA DE PETRÓLEOS/A e LIME EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA, realizada em 15.10.2008.
+Assim, a apelada requereu à SPU as providências necessárias para transferência dos direitos de foreiro para seu nome somente em 18.09.2008 (fl.70), descumprindo, dessa forma, o prazo previsto no art. 116 do Decreto -Lei 9.760/46.
+Destarte, somente naquela ocasião a União tomou conhecimento da transação realizada em 1971, o que enseja a cobrança das multas de transferência em atraso. Destarte, foi necessário que a SPU procedesse à regularização da cadeia dominial na referida data, expedindo nova Certidão Autorizativa de Transferência (CAT), sob o nº 02/2009, em 30.01.2009 (fl. 69).
+Dessa maneira, é de se verificar a omissão do autor que permaneceu inerte, não podendo se valer da própria omissão para obter a declaração da prescrição do débito.
+Nesse caso, a partir da data de ciência da União quanto à transação imobiliária firmada pelos apelantes é que começa a ser contado o prazo quinquenal previsto no art. 47 da Lei nº 9.636/98.
+ ..
+O conhecimento do negócio jurídico pela SPU se deu em18.09.2008 (conforme fls. 69/70), sendo que a notificação do sujeito passivo quanto às multas de transferência em atraso foi realizada em 15.03.2011, configurando-se o lançamento, nos termos do que dispõe o art. 142 do CTN.
+Não há que se falar, portanto, em decadência ou prescrição em relação às receitas patrimoniais em questão, uma vez que estes prazos são aferidos conforme a regra do artigo 47 da Lei nº 9.636/98, o qual estabelece que os créditos originados em receitas patrimoniais se submeterão ao prazo decenal para sua constituição e quinquenal para sua exigência, na atual redação conferida pela lei 10.852/2004.
+A peça recursal, todavia, não se insurge contra aqueles fundamentos, limitando-se a afirmar que "a transferência do imóvel foi realizada em 18 de junho de 1971. Considerando-se o prazo de 60 (sessenta) dias para o comprador comunicar a transferência, o prazo findaria em 17 de agosto de 1971, momento em que a União teria o direito de aplicar a multa e exigi-la dentro do prazo de cinco anos" (fl. 443).
+Não é possível afastar, assim, a incidência, por analogia, da Súmula 283/STF, que estabelece: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. PRESCRIÇÃO. ABSOLUTAMENTE INCAPAZ. PREQUESTIONAMENTO. AUSÊNCIA. IMPUGNAÇÃO ESPECÍFICA. INEXISTÊNCIA. APOSENTADORIA POR INVALIDEZ. ACRÉSCIMO DE 25%. PEDIDO IMPLÍCITO. REQUERIMENTO ADMINISTRATIVO PRÓPRIO. DESNECESSIDADE. INTERESSE DE AGIR. CONFIGURAÇÃO.
+1. Não é possível conhecer da alegada violação do art. 198, I, do CC quando a controvérsia sobre a prescrição relacionada aos absolutamente incapazes não foi desenvolvida na origem (Súmula 211 do STJ).
+2. Não se conhece do recurso especial quando a decisão recorrida se assenta em mais de um fundamento suficiente e o recurso não abrange todos eles (aplicação analógica da Súmula 283 do STF).
+3. Caso no qual a Corte Regional concluiu que o art. 43, §1º, "b", não dispunha de prazo prescricional, tendo o recorrente se limitado a reafirmar a tese de que não poderia correr prazo prescricional contra absolutamente incapaz, o que, seguramente, não infirma aquela primeira premissa.
+4. A exigência do prévio requerimento administrativo, extraída do julgamento do RE 631.240/MG, é relativa ao próprio benefício de aposentadoria por invalidez, mas não ao adicional do art. 45, § 1º, da Lei n. 8.213/1991, que lhe é acessório.
+5. O pedido administrativo de concessão do benefício por incapacidade contém, implicitamente, o pedido de acréscimo de 25%, configurando o interesse de agir em relação a este último.
+6. Recurso especial conhecido em parte e, nessa extensão, provido parcialmente.
+(REsp n. 1.962.603/PE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 6/6/2023, DJe de 15/8/2023.)
+PROCESSUAL CIVIL E AMBIENTAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. NULIDADE DE ALGIBEIRA. RAZÕES RECURSAIS DISSOCIADAS. FUNDAMENTO NÃO IMPUGNADO. SÚMULAS 283 E 284/STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Hipótese em que as razões recursais estão dissociadas do que decidiu o Tribunal a quo e não impugnaram adequadamente o fundamento central do acórdão recorrido, concernente à aplicação do art. 272, § 8º, do CPC/2015. Incidência das Súmulas 283 e 284 do STF.
+2. Nos termos da iterativa jurisprudência do Superior Tribunal de Justiça, "as decisões monocráticas são imprestáveis à comprovação do dissídio jurisprudencial" (AgInt no AREsp n. 964.261/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/10/2016, DJe de 16/11/2016.)
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.174.200/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/4/2023, DJe de 26/4/2023.)
+Ante  o  exposto, nego  provimento  ao  agravo  interno .
+É  o  voto.
