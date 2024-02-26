@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte:
+Execução fiscal. Débito de ICMS e multa. Objeção de pré-executividade. Parcial acolhimento. Insurgência. Disputa sujeita a dilação probatória. Matérias de defesa. Inadequação da via eleita. Nulidade do título inocorrente. Fixação de verba honorária. Pertinência. Recurso parcialmente provido.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base na alínea "a" do permissivo constitucional, a ora agravante aponta ofensa ao art. 1.022 do CPC/2015, bem como aos arts. 97 e 128 do CTN e aos arts. 6º e 8º da LC 87/96, alegando, em síntese, que: (a) o acórdão recorrido manteve-se omisso, mesmo após a oposição de embargos de declaração; (b) "cabe ao legislador de cada unidade federativa, por meio de lei, definir qual será o momento do diferimento do ICMS para situações de substituição tributária para trás de operações anteriores, podendo optar pelo momento da saída das mercadorias do estabelecimento ou sua entrada"; (c) "em outros termos, ao sequer apreciar os apontamentos exaustivamente feitos que demonstram a incompatibilidade do comando do RICMS/SP com o próprio CTN e a Lei Complementar nº 87/96, os v. acórdãos recorridos atropelam o próprio texto da referida Lei Complementar, assim como da Lei Paulista nº 6.374/89, colidindo com a regra contida no CTN que, por ter natureza de lei nacional, deve ser observada na interpretação das leis estaduais".
+Em suas contrarrazões, o recorrido pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi inadmitido pela decisão de fls. 240/242, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+Depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou das questões suscitadas, resolvendo de modo integral a controvérsia posta.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Assim, não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+No mais, a orientação da Primeira Seção/STJ firmou-se no sentido de que "a exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória" (Súmula 393/STJ).
+Contudo, no caso concreto, constata-se que o Tribunal de origem entendeu necessária a dilação probatória.
+Nesse contexto, para se adotar qualquer conclusão em sentido contrário ao que ficou expressamente consignado no acórdão atacado é necessário o reexame de matéria de fato, o que é inviável em sede de recurso especial, tendo em vista o disposto na Súmula 7/STJ.
+Diante do exposto, com fundamento no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, a e b, do RISTJ e a Súmula 568/STJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DISCUSSÃO SOBRE A NECESSIDADE DE DILAÇÃO PROBATÓRIA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA PARTE, NEGAR-LHE PROVIMENTO.
