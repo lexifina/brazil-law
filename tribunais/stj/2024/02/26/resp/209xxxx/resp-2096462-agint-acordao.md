@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. APOSENTADORIA. DOENÇA GRAVE INCURÁVEL. REDISCUSSÃO DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7/STJ. INCIDÊNCIA.
+1. A alteração das premissas adotadas pelas instâncias de origem quanto ao fato de que "a enfermidade da qual a parte-autora é portadora "é passível de tratamento ortopédico especializado"  ..  não se enquadrando, assim, no rol de doenças incuráveis", demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por Ana Maria da Silva Pereira desafiando decisão que não conheceu do recurso especial, sob o fundamento de que o acolhimento da alegação deduzida demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+A parte postulante, em suas razões, sustenta não ser o caso de aplicação da Súmula 7/STJ, sob a alegação de que "a agravante não visa discutir o enquadramento de sua enfermidade no rol taxativo de doenças graves, contagiosas ou incuráveis para fins de obter aposentadoria por invalidez com proventos integrais. Na verdade, a então recorrente buscou demonstrar que pelo fato da doença que lhe acometeu ser uma moléstia profissional - premissa fática assentada na primeira instância e confirmada na segunda instância -, a ausência de menção da doença no rol da Lei nº 8.112/90 não constitui um óbice para o reconhecimento do seu direito à conversão da aposentadoria proporcional em integral" (fl. 550).
+Aduz que "fica bastante evidente que a discussão a ser travada no exame do Recurso Especial é apenas e tão somente a de se saber se o fato da LER/DORT da autora ser uma moléstia profissional deve ou não assegurar o direito da autora à aposentadoria com proventos integrais, apesar da doença não constar no rol do art.186, §1º da Lei nº 8.112/90 e de se tratar de uma doença supostamente passível de cura" (fl. 554).
+As razões do recurso não foram impugnadas.
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. APOSENTADORIA. DOENÇA GRAVE INCURÁVEL. REDISCUSSÃO DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7/STJ. INCIDÊNCIA.
+1. A alteração das premissas adotadas pelas instâncias de origem quanto ao fato de que "a enfermidade da qual a parte-autora é portadora "é passível de tratamento ortopédico especializado"  ..  não se enquadrando, assim, no rol de doenças incuráveis", demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Como asseverado no decisum, no que tange à aposentadoria integral, dispõe a Lei n. 8.112/1990 o seguinte:
+Art. 186. O servidor será aposentado:
+I - por invalidez permanente, sendo os proventos integrais quando decorrente de acidente em serviço, moléstia profissional ou doença grave, contagiosa ou incurável, especificada em lei, e proporcionais nos demais casos;
+ ..
+§ 1º. Consideram-se doenças graves, contagiosas ou incuráveis, a que se refere o inciso I deste artigo, tuberculose ativa, alienação mental, esclerose múltipla, neoplasia maligna, cegueira posterior ao ingresso no serviço público, hanseníase, cardiopatia grave, doença de Parkinson, paralisia irreversível e incapacitante, espondiloartrose anquilosante, nefropatia grave, estados avançados do mal de Paget (osteíte deformante), Síndrome de Imunodeficiência Adquirida - AIDS, e outras que a lei indicar, com base na medicina especializada.
+ ..
+§ 3º. Na hipótese do inciso I o servidor será submetido à junta médica oficial, que atestará a invalidez quando caracterizada a incapacidade para o desempenho das atribuições do cargo ou a impossibilidade de se aplicar o disposto no art. 24.
+ ..
+Art. 190. O servidor aposentado com provento proporcional ao tempo de serviço se acometido de qualquer das moléstias especificadas no § 1º do art.
+186 desta Lei e, por esse motivo, for considerado inválido por junta médica oficial passará a perceber provento integral, calculado com base no fundamento legal de concessão da aposentadoria.
+Nesse contexto, está correto o decisório ao observar que a alteração das premissas adotadas pelas instâncias de origem quanto ao fato de que "a enfermidade da qual a parte-autora é portadora "é passível de tratamento ortopédico especializado"  ..  não se enquadrando, assim, no rol de doenças incuráveis" (fls. 480/481), demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+No mesmo sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. APOSENTADORIA POR INVALIDEZ COM PROVENTOS INTEGRAIS. ROL TAXATIVO. ANÁLISE DE MATÉRIA FÁTICA. IMPOSSIBILIDADE.
+1. O STF, em julgamento realizado sob a sistemática da repercussão geral, pacificou o entendimento de que a aposentadoria por invalidez, com proventos integrais, será devida aos servidores públicos federais quando a invalidez for decorrente de moléstia profissional ou doença grave, contagiosa ou incurável, que deve estar prevista em lei, cujo rol tem natureza taxativa.
+2. Nos termos da Súmula 7 do STJ, é inviável, em sede de recurso especial, rever a matéria fática estabelecida pelas instâncias ordinárias a fim de enquadrar as moléstias da ora agravante no rol taxativo prevista na legislação de regência.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 620.470/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 24/6/2019, DJe 27/6/2019.)
+CONSTITUCIONAL, ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDORA PÚBLICA FEDERAL. APOSENTADORIA POR INVALIDEZ, COM PROVENTOS PROPORCIONAIS. REVERSÃO PARA APOSENTADORIA COM PROVENTOS INTEGRAIS. NÃO CABIMENTO DE RECURSO ESPECIAL PARA EXAME DE MATÉRIA CONSTITUCIONAL. RAZÕES DE RECURSO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. JULGAMENTO DO RE 656.860/MT, EM REGIME DE REPERCUSSÃO GERAL, PELO STF. ART. 186, I E § 1º, DA LEI 8.112/90. ROL TAXATIVO. DOENÇA GRAVE, PORÉM, NÃO ESPECIFICADA EM LEI E NÃO DECORRENTE DE DOENÇA OCUPACIONAL OU ACIDENTE EM SERVIÇO. PRECEDENTES DA CORTE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA PARTE, IMPROVIDO.
+ ..
+III. O Supremo Tribunal Federal, no julgamento do RE 656.860/MT, à luz do que dispõe o art. 40, § 1º, I, da Constituição Federal, firmou entendimento, em regime de repercussão geral, no sentido de que a aposentadoria por invalidez, com proventos integrais, será devida aos servidores públicos federais quando a invalidez for decorrente de moléstia profissional ou doença grave, contagiosa ou incurável, que deve estar prevista em lei, cujo rol tem natureza taxativa (STF, RE 656.860/MT, Rel. Ministro TEORI ZAVASCKI, TRIBUNAL PLENO, DJe de 17/9/2014).
+IV. A atual jurisprudência do Superior Tribunal de Justiça realinhou o seu posicionamento, diante da nova orientação do Supremo Tribunal Federal (STJ, EREsp 1.322.441/DF, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe de 10/2/2016; AgRg no REsp 1.314.446/PR, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 18/5/2016; REsp 1.588.339/CE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 26/4/2016; AgRg no AgRg no Ag 1.150.262/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe de 25/6/2015).
+V. No caso, diante das premissas fáticas delineadas pelas instâncias ordinárias e considerando que a doença incapacitante que acomete a autora não se coaduna com as moléstias especificadas no art. 186, I e § 1º, da Lei 8.112/90, não merece acolhimento a pretensão deduzida, de conversão da aposentadoria por invalidez da autora, com proventos proporcionais, em aposentadoria por invalidez com proventos integrais.
+VI. Aferir se a aludida incapacidade decorreu "das atividades laborais junto a União Federal - Ministério do Esporte", como quer a ora agravante - ou seja, para enquadrá-la como decorrente de acidente em serviço ou moléstia profissional (art. 186, I, da Lei 8.112/90) -, não se insere nos estreitos limites do Recurso Especial, por envolver reexame de matéria fático-probatória, atraindo a incidência da Súmula 7/STJ.
+VII. Agravo interno conhecido, em parte, e, nessa extensão, improvido.
+(AgInt no AREsp n. 1.006.144/DF, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 9/3/2017, DJe 16/3/2017.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
