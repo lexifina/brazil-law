@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JOEL GALDINO DE ALMEIDA DA SILVA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ.
+Consta dos autos que o paciente foi preso preventivamente pela prática, em tese, dos delitos capitulados no artigo 121, §2º, I, III e IV, c/c art. 29, art. 121, §2º, I, III e IV c/c os arts. 14, inciso II e 29 (duas vezes), todos do CPB, e no artigo 12, da Lei 10.826/2003; ademais, fora pronunciado como incurso no delito capitulado no artigo 121, §2º, I, III e IV, c/c art. 29, art. 121, §2º, I, III e IV c/c os arts. 14, inciso II e 29 (duas vezes), todos do CPB, e no artigo 12, da Lei 10.826/2003.
+Irresignada, a defesa, impetrou habeas corpus perante o Tribunal de origem, que, denegou a ordem, em acórdão assim ementado: (fl. 61)
+"HABEAS CORPUS. PENAL E PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO CONSUMADO, DOIS HOMICÍDIOS QUALIFICADOS TENTADOS E POSSE ILEGAL DE ARMA DE FOGO. ART. 121, §2º, I, III E IV, C/C ART. 29, ART. 121, §2º, I, III E IV C/C OSARTS. 14, II e 29 (DUAS VEZES), TODOS DO CPB, E NO ART. 12, DA LEI 10.826/2003.PRISÃO PREVENTIVA. 1. TESE DE FUNDAMENTAÇÃO INIDÔNEA DO DECRETO PRISIONAL. AUSÊNCIA DE REQUISITOS PARA MANUTENÇÃO DO CÁRCERE. INOCORRÊNCIA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. DECISÃO DEVIDAMENTE FUNDAMENTADA. MATERIALIDADE E INDÍCIOS DE AUTORIA CONSTANTES NOS AUTOS DE ORIGEM. GRAVIDADE CONCRETA DO DELITO. MODUS OPERANDI. PRECEDENTES DO TJCE E DO STJ. SUPLICANTE QUE SUPOSTAMENTE, MEDIANTE CONCURSO DE PESSOAS E USO DE ARMA DE FOGO, CEIFOU A VIDA DE UMA PESSOA E ATENTOU CONTRA OUTRAS DUAS À LUZ DO DIA EM PLENA VIA PÚBLICA, MOTIVADO PELA RIVALIDADE DE FACÇÕES CRIMINOSAS.2. INSUFICIÊNCIA E INAPLICABILIDADE DAS MEDIDAS CAUTELARES DIVERSAS. IRRELEVÂNCIA DAS CONDIÇÕES PESSOAIS DO PACIENTE. 3. ORDEM CONHECIDA E DENEGADA. "
+Em suas razões, o impetrante sustenta a ilegalidade da sua segregação, bem como a falta de fundamentação à manutenção da prisão.
+Requer, assim, liminarmente a concessão da ordem e, subsidiariamente, a aplicação de medidas cautelares alternativas da prisão.
+É o relatório. DECIDO.
+Os autos não retratam a excepcional hipótese de juízo provisório antecipado acerca do pedido, uma vez que não suficientemente instruídos. Dessa maneira, a quaestio trazida à baila na exordial do writ não vislumbra o pretenso quadro claro e adequado à concessão da liminar, não sendo constatado, de plano, o fumus boni iuris do pedido, pois não foram juntadas aos autos peças essenciais à compreensão da controvérsia.
+O impetrante não juntou aos autos a decisão do juízo de primeiro grau que decretou a preventiva, apenas a Sentença que manteve a segregação cautelar.
+Sobre o tema, deve-se asseverar que, segundo orientação firmada no âmbito desta Corte, constitui ônus do impetrante instruir os autos com os documentos necessários à exata compreensão da controvérsia, sob pena de não conhecimento do writ.
+Nesse sentido: "Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo aos impetrantes apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 774.358/PE, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 15/12/2022.)
+Ante o exposto, com fulcro no art. 34, inc. XX e art. 210, do RISTJ, não conheço do presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
