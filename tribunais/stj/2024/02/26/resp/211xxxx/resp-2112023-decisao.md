@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - EXPURGOS INFLACIONÁRIOS - EM FASE DE CUMPRIMENTO DE SENTENÇA - DECISÃO QUE DETERMINOU A INCIDÊNCIA DA PENALIDADE DE MULTA E HONORÁRIOS ADVOCATÍCIOS DO ART. 523, § 1º, DO CPC, BEM COMO A INCIDÊNICA DOS EXPURGOS INFLACIONÁRIOS SUBSEQUENTES COM A DEVIDA CORREÇÃO MONETÁRIA DOS PLANOS - ALEGAÇÃO DE IMPOSSIBILIDADE DE IMPOSIÇÃO DA MULTA DO ART. 523, § 1º, DO CPC E DE FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS NO CUMPRIMETO DE SENTENÇA - PENALIDADE DIRETAMENTE DECORRENTE DA RESISTÊNCIA MANIFESTADA NA FASE DE CUMPIMENTO DE SENTENÇA - DIFERENÇA DE SALDO DE POUPANÇA DOS PLANOS ECONÔMICO VERÃO, COLOR I E COLLOR II - REAJUSTE DEVIDO - ÍNDICES DE CORREÇÃO - PERCENTUAL ESTABELECIDO COM BASE NO IPC - TEMAS 303 E 304 DO STJ - DECISÃO MANTIDA - RECURSO DESPROVIDO. 1. "A multa a que se refere o art. 475-J do Código de Processo Civil de 1973 (correspondente ao art. 523, § 1º, do CPC/2015) será excluída apenas se o executado depositar voluntariamente a quantia devida em juízo, sem condicionar seu levantamento a qualquer discussão do débito" (STJ - 3ª Turma - AgRg no AREsp 506.688/SE - Rel. Ministro RICARDO VILLAS BÔAS CUEVA - j. 25/4/2017, DJe 12/5/2017). 2. Incidem os expurgos inflacionários posteriores a título de correção monetária plena do débito judicial, que terá como base de cálculo o saldo existente ao tempo do referido plano econômico, e não os valores de eventuais depósitos da época de cada plano subsequente". (STJ - Segunda Seção - REsp 1.392.245/DF - Rel. Ministro Luis Felipe Salomão - Julgado em 8/4/2015 - DJe de 7/5/2015). 6. A liquidação deve seguir o rito do arbitramento, nos termos dos arts. 509, inciso I, e 510, do CPC, quando não é possível ao exequente apresentar o valor devido por simples cálculo aritmético (§ 2º do art. 509 e art. 513 ss do CPC).
+Os embargos de declaração opostos a esse acórdão foram rejeitados.
+O devedor, ora recorrente, alega que o acórdão recorrido contrariou:
+a) os artigos 489 e 1.022 da Lei 13.105/2015 (Código de Processo Civil - CPC/2015) porque deixou de sanar os vícios apontados nos embargos de declaração;
+b) o artigo 523 do CPC/2015 porque deixou de afastar a multa;
+c) o artigo 509 do CPC/2015 e o artigo 97 da Lei 8.078/1990 (Código de Defesa do Consumidor - CDC) porque ignorou a necessidade de liquidação do título exequendo.
+Inicialmente, registro que a execução individual de título oriundo de demanda coletiva (ação civil pública) deve ser precedida de fase de liquidação com vistas à apuração, não apenas do valor devido, como também da titularidade do crédito pleiteado. Assim:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IDEC. CADERNETA DE POUPANÇA. EXPURGOS INFLACIONÁRIOS. SENTENÇA. PRÉVIA LIQUIDAÇÃO. NECESSIDADE. RECURSO NÃO PROVIDO.
+1. De acordo com o entendimento desta Corte, é necessária a liquidação da sentença genérica proferida em ação civil pública para a definição da titularidade do crédito e do valor devido. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1593751/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 9/8/2016, DJe 16/8/2016)
+No caso, o Tribunal de origem entendeu desnecessária a liquidação pelo procedimento comum, compreensão que, como visto acima, não coincide com a jurisprudência do Superior Tribunal de Justiça (STJ). Merece reforma, portanto, o acórdão recorrido, no ponto.
+Prosseguindo, destaco que não se aplica a multa prevista no artigo 523 do CPC/2015 no caso de obrigação ilíquida. Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/1973). CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. MULTA DO ART. 475-J DO CPC. INAPLICABILIDADE. ILIQUIDEZ DA SENTENÇA.
+1. Segundo a orientação jurisprudencial desta Corte, "o cumprimento da sentença genérica que condena ao pagamento de expurgos em caderneta de poupança deve ser precedido pela fase de liquidação por procedimento comum, que vai completar a atividade cognitiva parcial da ação coletiva mediante a comprovação de fatos novos determinantes do sujeito ativo da relação de direito material, assim também do valor da prestação devida, assegurando-se a oportunidade de ampla defesa e contraditório pleno ao executado (EREsp 1705018/DF, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 09/12/2020, REPDJe 05/04/2021, DJe 10/02/2021).
+2. Impossibilidade de aplicação da multa prevista no art. 475-J, do CPC/73 (Art. 523. §1º, do CPC/2015), enquanto não tornada líquida a obrigação exequenda. Precedentes.
+3. AGRAVO INTERNO DESPROVIDO.
+(AgInt nos EDcl no REsp n. 1.739.729/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 24/10/2022, DJe de 26/10/2022.)
+Incorreta, portanto, a imposição da multa, afigurando-se necessário reformar o acórdão recorrido, também nesse aspecto.
+Em face do exposto, dou provimento ao recurso para afastar a multa e determinar a liquidação do título exequendo, pelo procedimento comum.
+Quanto ao mais, fica prejudicado o recurso.
+Intimem-se.
+EMENTA
