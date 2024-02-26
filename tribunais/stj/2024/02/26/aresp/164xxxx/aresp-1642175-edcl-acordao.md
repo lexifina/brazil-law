@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. CONTRADIÇÃO. ERRO MATERIAL. INEXISTÊNCIA. RECURSO REJEITADO.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil. Não há na decisão embargada vício de omissão, contradição ou obscuridade, ou erro material, não se prestando os aclaratórios para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Não identificada a presença de vício que justifique esclarecimento, complemento ou eventual integração do que foi decidido, a rejeição dos aclaratórios é medida que se impõe.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos pelo ESTADO DO AMAPÁ contra o acórdão da PRIMEIRA TURMA, de minha relatoria, assim ementado (fl. 522):
+PROCESSUAL CIVIL E DIREITO ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. ALEGAÇÕES GENÉRICAS. CONTRATO ADMINISTRATIVO. REEXAME DE CLÁUSULAS CONTRATUAIS, DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULAS 5/STJ E 7/STJ. HONORÁRIOS ADVOCATÍCIOS CONTRA A FAZENDA PÚBLICA. FIXAÇÃO EQUITATIVA. IMPOSSIBILIDADE. PROVIMENTO NEGADO.
+1. É deficiente a fundamentação do recurso especial em que é alegada a ofensa ao art. 1.022 do Código de Processo Civil de forma genérica, sem a indicação específica dos pontos sobre os quais o julgador deveria ter-se manifestado, o que inviabiliza a compreensão da controvérsia. Incide no caso em questão, assim, o óbice previsto na Súmula 284 do Supremo Tribunal Federal, por analogia.
+2. O Tribunal de origem, ao analisar a matéria, interpretou o contrato e seu aditamento, chegando à conclusão de que é devido pela parte agravante o valor cobrado, em razão do estabelecido no termo aditivo do contrato. A inversão do julgado, tal como requerido, demandaria necessariamente o revolvimento do mesmo conjunto fático-probatório, o que é inviável na instância especial ante o óbice da Súmula 5 do STJ, que preceitua "a simples interpretação de cláusula contratual não enseja recurso especial", e da Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+3. Os honorários advocatícios foram arbitrados em conformidade com a jurisprudência firmada nesta Corte, em especial quanto ao contido no Tema 1.076/STJ e com base nos critérios do art. 85, §§ 2º e 3º, I, do CPC, sendo, assim, impossível a sua redução.
+4. Agravo interno a que se nega provimento.
+Nas razões dos aclaratórios, a parte embargante sustenta que demonstrou, em seu recurso especial, a violação das leis federais pelo acórdão recorrido e que os argumentos foram específicos.
+Afirma que não pretende a reinterpretação das cláusulas contratuais, nem o reexame de provas.
+Aduz que (fls. 540/541):
+Ao contrário do entendimento consignado na r. decisão ora embargada, restaram devidamente demonstrados que a decisão viola dispositivo de lei federal, restando evidente a inaplicabilidade dos enunciados das Súmulas nº 284/STF, 5/STJ e 7/STJ à hipótese delineada nos autos, bem como devem ser afastados os óbices do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Por derradeiro, a majoração dos honorários em desfavor do Recorrente no importe de 10% (dez por cento), é totalmente infundada.
+Requer que os embargos sejam acolhidos com efeitos infringentes.
+A parte adversa não apresentou impugnação (fl. 545).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. CONTRADIÇÃO. ERRO MATERIAL. INEXISTÊNCIA. RECURSO REJEITADO.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil. Não há na decisão embargada vício de omissão, contradição ou obscuridade, ou erro material, não se prestando os aclaratórios para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Não identificada a presença de vício que justifique esclarecimento, complemento ou eventual integração do que foi decidido, a rejeição dos aclaratórios é medida que se impõe.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos declaratórios não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do CPC). Nada há, enfim, que impeça o seu conhecimento.
+O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil.
+A Primeira Turma deste Tribunal, ao examinar a matéria, concluiu que (fls. 525/528):
+Inicialmente, é deficiente a fundamentação do recurso especial em que é alegada a ofensa ao art. 1.022 do Código de Processo Civil de forma genérica, sem a indicação específica dos pontos sobre os quais o julgador deveria ter-se manifestado, o que inviabiliza a compreensão da controvérsia. Incide no caso em questão, assim, o óbice previsto na Súmula 284 do Supremo Tribunal Federal, por analogia.
+A Corte estadual, ao analisar os fatos e interpretar o contrato, assim se manifestou sobre a questão (fls. 313/314):
+O certo é que o autor comprovou a existência do "primeiro termo de apostilamento" celebrado em 05/02/2013, tendo como justifica de reajuste a "Convenção Coletiva de Trabalho 2012/2013, registrada no MTE sob o nº AP000087/2012"  fs. 48-49-autos físicos; ordem 42-eletrônica .
+Tendo sido celebrado aquele instrumento ainda na vigência contratual, a alegada preclusão administrativa não se operou. Logo, não se trata de cobrança posterior, muito menos ofensa à boa-fé objetiva ou enriquecimento ilícito por valores já quitados, repiso, à míngua de comprovação pelo ESTADO DO AMAPÁ.
+Com efeito, em ação de cognição como é a de cobrança, na qual o credor postula condenação do devedor ao pagamento de dívida líquida, porém não necessariamente certa quanto à sua existência, a robusta prova documental produzida pelo credor, nestes autos, torna devida a cobrança.
+Em inverso sentido, sequer logrou o ESTADO DO AMAPÁ desincumbir-se do ônus da prova de fato impeditivo, modificativo ou extintivo ao direito da autora, daí porque nenhuma censura merece a sentença recorrida, que deu pela condenação do réu, ora apelante, ao pagamento da importância devida em razão do serviço que lhe foi efetivamente prestado pela autora-apelada, em razão do contrato entre ambos celebrado.
+Nem se alegue a tese de que majoração salarial da categoria profissional não caracteriza fato imprevisível capaz de justificar revisão contratual e, com isso, alcançar o equilíbrio econômico-financeiro da avença, segundo decisões dos Colendos STJ e TCU. Citados julgados não se adéquam ao caso concreto, porquanto ao contrário do que comumente ocorre, na presente ação de cobrança as partes celebraram "termo de apostilamento" em 05/02/2013, tendo como justifica de reajuste a "Convenção Coletiva de Trabalho 2012/2013, registrada no MTE sob o nº AP000087/2012"  fs. 48-49-autos físicos; ordem 42-eletrônica , houve, inclusive, emissão de Nota de Empenho e Nota de Liquidação (fs. 74-autos físicos; ordem 42 eletrônica).
+O Tribunal de origem, ao analisar a matéria, interpretou o contrato e seu aditamento, chegando à conclusão de que é devido pela parte agravante o valor cobrado, em razão do estabelecido no termo aditivo do contrato.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 5 do STJ, que preceitua "a simples interpretação de cláusula contratual não enseja recurso especial", e a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+ ..
+Quanto ao pedido de redução dos honorários para o percentual de 1%, diante do suposto valor exorbitante da condenação, também não merece prosperar.
+Observo que os honorários em primeira instância foram arbitrados em 10% sobre o valor da condenação e majorados para 15% na segunda instância, estando em conformidade com a jurisprudência firmada nesta Corte, em especial quanto ao contido no Tema 1.076/STJ e com base nos critérios do art. 85, §§ 2º e 3º, I, do CPC, uma vez que o valor da condenação foi de R$ 112.395,25 (cento e doze mil, trezentos e noventa e cinco reais e vinte e cinco centavos).
+Cito a tese firmada no Tema 1.076/STJ:
+i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+Constato que a parte embargante pretende renovar a discussão sobre questão que já foi decidida de maneira fundamentada, o que não é possível por meio de embargos de declaração.
+O Superior Tribunal de Justiça assim já se manifestou:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. DEVIDO JUÍZO DE ADMISSIBILIDADE RECURSAL.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. "Se o recurso é inapto ao conhecimento, o colegiado não tem como se pronunciar sobre o mérito, de modo que a falta de exame da matéria de fundo não se caracteriza omissão, senão mera decorrência do exercício do devido juízo de admissibilidade recursal". (EDcl no AgInt nos EREsp 1.559.725/PE, Rel. Ministro Og Fernandes, Primeira Seção, DJe 30/8/2017).
+4. Embargos de declaração rejeitados. (EDcl no AgInt no REsp n. 1.574.004/SE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/3/2021, DJe de 11/3/2021 - sem destaques no original.)
+Ressalto que os embargos de declaração não constituem instrumento adequ ado à revisão de entendimento já manifestado e devidamente embasado, à correção de eventual error in judicando ou ao prequestionamento de normas jurídicas ou temas que, segundo a ótica da parte recorrente, deveriam guiar ou conduzir a solução do litígio.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
