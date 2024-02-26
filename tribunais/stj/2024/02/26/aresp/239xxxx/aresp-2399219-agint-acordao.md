@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. ARTS. 489 E 1.022 DO CPC. VIOLAÇÃO. INEXISTÊNCIA. DEVOLUTIVIDADE DO AGRAVO DE INSTRUMENTO. REVISÃO. SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em violação dos arts. 489 e 1.022 do CPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia. O julgador não está obrigado a rebater, um a um, os argumentos trazidos pelas partes, quando encontrar motivação satisfatória para dirimir o litígio sobre os pontos essenciais da controvérsia em exame.
+2. A alteração das conclusões do acórdão recorrido acerca da observância do efeito devolutivo do recurso exige a reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por CACIQUE S.A. COMÉRCIO DE IMPORTAÇÃO E EXPORTAÇÃO (CACIQUE) contra decisão monocrática de minha relatoria assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. ARTS. 489 E 1.022 DO CPC. VIOLAÇÃO. INEXISTÊNCIA. DEVOLUTIVIDADE DO AGRAVO DE INSTRUMENTO. REVISÃO. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO. (e-STJ, fls. 942)
+Nas razões do presente inconformismo, repisou (1) a ofensa aos arts. 489, § 1º, e 1.022 do CPC; e (2) a violação dos arts. 141 e 492 do CPC.
+Foi apresentada contraminuta (e-STJ, fls. 964-976).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. ARTS. 489 E 1.022 DO CPC. VIOLAÇÃO. INEXISTÊNCIA. DEVOLUTIVIDADE DO AGRAVO DE INSTRUMENTO. REVISÃO. SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em violação dos arts. 489 e 1.022 do CPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia. O julgador não está obrigado a rebater, um a um, os argumentos trazidos pelas partes, quando encontrar motivação satisfatória para dirimir o litígio sobre os pontos essenciais da controvérsia em exame.
+2. A alteração das conclusões do acórdão recorrido acerca da observância do efeito devolutivo do recurso exige a reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3. Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+(1) Da negativa de prestação jurisdicional
+Nas razões do recurso especial, CACIQUE alegou a violação dos arts. 489 e 1.022, do CPC porque o acórdão recorrido deixou de se manifestar sobre os limites da devolutividade recursal (agravo de instrumento).
+Contudo, verifica-se que a Corte local se pronunciou sobre os temas consignando que não houve ofensa ao princípio da congruência, confira-se:
+Em relação a impossibilidade de quaisquer levantamentos, não há que se falar em erro material, vez que o julgado enfrentou o ponto observando os agravos de instrumentos nº 8008432-27.2018.8.05.0000, 8002959-26.2019.8.05.0000 e 0023776-24.2017.8.05.0000, que transitou em julgado em 19/10/2021, conforme se verifica à fl. 6608 dos autos originários.
+No tocante ao Bel. Almir Passo, considerando que a finalidade do agravo de instrumento é obstar o levantamento de valores nos autos originários, o julgamento analisou a lide dentro dos limites da pretensão inicial, tampouco concedeu providência jurisdicional diversa da requerida, tendo sido respeitado o princípio da congruência. Vale ressaltar que o pedido formulado deve ser examinado a partir de uma interpretação lógico-sistemática, não podendo o magistrado se eximir da análise ampla e detida da relação jurídica posta, mesmo porque a obrigatória adstrição do julgador ao pedido expressamente formulado pelo autor pode ser mitigada em observância aos brocardos da mihi factum dabo tibi ius (dá-me os fatos que te darei o direito) e iura novit curia ( o juiz é quem conhece o direito).
+No caso, não poderia ser analisado a possibilidade ou não do levantamento de valores na execução em curso, sem considerar a existência do pedido concurso de credores, e por isso, a questão fora decidida adotando fundamentos jurídicos diversos dos esposados pelas partes.
+Chamo atenção de que o Sr. Almir requereu a habilitação nos autos originários, fls. 4994/4997, e não houve oposição, seja da exequente Forexport, fls. 5067/5068, que, inclusive ressaltou se tratar de crédito de natureza alimentar, requerendo também a habilitação dos seus honorários sucumbenciais e sugerindo a liberação de 50% (cinquenta por cento) para cada patrono, seja da executada, fls. 5109/5110, que limitou-se a frisar sobre a impossibilidade de quaisquer valores na execução.
+Igualmente, no agravo de instrumento, o Sr. Almir Passo participou sem nenhuma oposição das partes litigantes, e por conseguinte, visando chamar o feito à ordem, o julgado, observando que o juízo de origem tramitou o pedido de concurso de credores em desacordo com a legislação processual vigente, determinou a suspensão dos levantamentos de valores. (e-STJ, fl. 781)
+Assim, inexistem os vícios elencados no art. 1.022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO RECURSO ESPECIAL. LEGITIMIDADE DO MINISTÉRIO PÚBLICO PARA PROMOVER A EXECUÇÃO COLETIVA DO JULGADO PROFERIDO EM AÇÃO CIVIL PÚBLICA. PRECEDENTES. SÚMULA 126/STJ. NÃO INCIDÊNCIA. EXTINÇÃO DA EXECUÇÃO. IMPUGNAÇÃO POR MEIO DE APELAÇÃO. SÚMULA N. 83/STJ. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. JULGAMENTO PRESENCIAL. INDEFERIMENTO. AGRAVO INTERNO DESPROVIDO.  ..
+4. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.  ..
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.689.617/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/9/2023, DJe de 22/9/2023)
+(2) Dos limites da devolutividade recursal
+CACIQUE apontou também a violação dos arts. 141 e 492 do CPC sustentando que o Tribunal local extrapolou os limites da matéria devolvida no agravo de instrumento.
+Sobre o tema, a Corte de origem consignou que houve estrita observância da insurgência trazida no recurso, consoante transcrição a seguir:
+Em relação a impossibilidade de quaisquer levamentos, não há que se falar em erro material, vez que o julgado enfrentou o ponto observando os agravos de instrumentos nº 8008432-27.2018.8.05.0000, 8002959-26.2019.8.05.0000 e 0023776-24.2017.8.05.0000, que transitou em julgado em 19/10/2021, conforme se verifica à fl. 6608 dos autos originários.
+No tocante ao Bel. Almir Passo, considerando que a finalidade do agravo de instrumento é obstar o levantamento de valores nos autos originários, o julgamento analisou a lide dentro dos limites da pretensão inicial, tampouco concedeu providência jurisdicional diversa da requerida, tendo sido respeitado o princípio da congruência.
+Vale ressaltar que o pedido formulado deve ser examinado a partir de uma interpretação lógico-sistemática, não podendo o magistrado se eximir da análise ampla e detida da relação jurídica posta, mesmo porque a obrigatória adstrição do julgador ao pedido expressamente formulado pelo autor pode ser mitigada em observância aos brocardos da mihi factum dabo tibi ius (dá-meos fatos que te darei o direito) e iura novit curia ( o juiz é quem conhece o direito).
+No caso, não poderia ser analisado a possibilidade ou não do levantamento de valores na execução em curso, sem considerar a existência do pedido concurso de credores, e por isso, a questão fora decidida adotando fundamentos jurídicos diversos dos esposados pelas partes.
+Chamo atenção de que o Sr. Almir requereu a habilitação nos autos originários, fls. 4994/4997, en ão houve oposição, seja da exequente Forexport, fls. 5067/5068, que, inclusive ressaltou se tratar de crédito de natureza alimentar, requerendo também a habilitação dos seus honorários sucumbenciais e sugerindo a liberação de 50% (cinquenta por cento) para cada patrono, seja da executada, fls. 5109/5110, que limitou-se a frisar sobre a impossibilidade de quaisquer valores na execução.
+Igualmente, no agravo de instrumento, o Sr. Almir Passo participou sem nenhuma oposição das partes litigantes, e por conseguinte, visando chamar o feito à ordem, o julgado, observando que o juízo de origem tramitou o pedido de concurso de credores em desacordo com a legislação processual vigente, determinou a suspensão dos levantamentos de valores. (e-STJ, fl. 781)
+Assim, rever as conclusões quanto à observância do efeito devolutivo do recurso (princípio da congruência) demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razã o do óbice da Súmula nº 7 do STJ.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
