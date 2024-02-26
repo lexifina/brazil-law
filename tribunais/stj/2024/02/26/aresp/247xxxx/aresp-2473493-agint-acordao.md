@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. O magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade de sua produção, sendo soberano para formar seu convencimento e decidir fundamentadamente, em atenção ao princípio da persuasão racional.
+2. Não caracteriza cerceamento de defesa o julgamento da lide sem a produção das provas requeridas pela parte consideradas desnecessárias pelo juízo, desde que devidamente fundamentado.
+3. Não se admite a revisão do entendimento do tribunal de origem quando a situação de mérito demandar o reexame do acervo fático-probatório dos autos, tendo em vista o óbice da Súmula n. 7 do STJ.
+4. Rever a convicção formada pelo tribunal de origem acerca da prescindibilidade de produção da prova pericial requerida exige reexame do conjunto fático-probatório, o que é vedado em recurso especial, devido ao óbice da Súmula n. 7 do STJ.
+5. Agravo interno desprovido.
+RELATÓRIO
+DEUSDETE NOVAIS AMORIM interpõe agravo interno contra a decisão de fls. 159-162, que negou provimento ao agravo em recurso especial em razão da incidência da Súmula n. 7 do STJ.
+A parte agravante sustenta que não é aplicável à espécie o referido óbice sumular, uma vez ser desnecessário o revolvimento fático-probatório. Reafirma os argumentos apresentados no recurso especial relativos à necessidade do despacho saneador a fim de que fosse oportunizado às partes que especificassem as provas que pretendiam produzir, sob pena de cerceamento de defesa.
+Requer, assim, o provimento do presente agravo a fim de que do recurso especial se conheça e, nessa extensão, seja provido.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. O magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade de sua produção, sendo soberano para formar seu convencimento e decidir fundamentadamente, em atenção ao princípio da persuasão racional.
+2. Não caracteriza cerceamento de defesa o julgamento da lide sem a produção das provas requeridas pela parte consideradas desnecessárias pelo juízo, desde que devidamente fundamentado.
+3. Não se admite a revisão do entendimento do tribunal de origem quando a situação de mérito demandar o reexame do acervo fático-probatório dos autos, tendo em vista o óbice da Súmula n. 7 do STJ.
+4. Rever a convicção formada pelo tribunal de origem acerca da prescindibilidade de produção da prova pericial requerida exige reexame do conjunto fático-probatório, o que é vedado em recurso especial, devido ao óbice da Súmula n. 7 do STJ.
+5. Agravo interno desprovido.
+VOTO
+A agravante contesta a incidência da Súmula n. 7 do STJ no tocante à necessidade de produção de prova oral e à ocorrência de cerceamento de defesa.
+Em relação à ofensa aos arts. 355, 442 a 444 do Código de Processo Civil, a Corte a quo, soberana na análise do arcabouço fático-probatório dos autos, concluiu, de forma fundamentada, que o feito estava devidamente instruído, declarando a prescindibilidade de nova produção probatória nestes termos (fls. 105-106, destaquei):
+Preliminar de cerceamento de defesa, por falta de oportunidade para produção de provas, destituída de motivos que vinculassem o convencimento judicial a outros dados que não aqueles trazidos pelas partes em forma de documentos.
+O percurso lógico, feito na sentença, aponta que a falta de comprovação é de raiz, na causa de pedir:  ..  pois a única prova que se deveria ter produzido é a documental.
+Não se cogita em depoimento pessoal ou oitiva de testemunhas, para analisar lucros cessantes e danos morais causados pela demora no conserto do veículo.
+ ..
+E quanto à segunda preliminar, a oportunidade da juntada dos documentos relacionados aos lucros cessantes e dano moral é a petição inicial, vez que são integradores dos fatos e, consequentemente, da causa de pedir artigo 434 do CPC.
+ ..
+São, por isso, rejeitadas as preliminares, diante do princípio do livre convencimento motivado (artigos 371, 426, 447, § 4º, 479, 480, § 3º,etc. - CPC), em razão do qual tem o Juiz(a) liberdade para apreciar e avaliar as provas produzidas nos autos e, a partir delas, formar sua convicção.
+Registre-se que a jurisprudência do STJ consolidou-se no sentido de que "o juiz é o destinatário da prova, cabendo-lhe, com base em seu livre convencimento, avaliar a necessidade de sua produção", bem como de que é inaplicável "a preclusão pro judicato em matéria probatória, cabendo às instâncias ordinárias, enquanto destinatárias da prova, a análise soberana acerca da necessidade de sua produção" (AgInt no AREsp n. 1.993.387/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 12/9/2022, DJe de 14/9/2022). Em igual sentido, vejam-se ainda os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AUTORA.
+1. As conclusões adotadas pelo órgão julgador no sentido de que compete ao juiz decidir sobre a produção de provas necessárias ou indeferir aquelas que tenha como inúteis ou protelatórias, não implicando e m cerceamento de defesa o indeferimento da dilação probatória, estão em consonância com a jurisprudência desta Corte Superior, atraindo a aplicação da Súmula 83 do STJ. 1.1. O Tribunal a quo, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, afastou o alegado cerceamento de defesa, consignando a desnecessidade da produção da prova testemunhal. O acolhimento da pretensão recursal, no ponto, demandaria revolvimento do acervo fático-probatório dos autos, providência vedada pela Súmula 7/STJ.
+2. Consoante a jurisprudência desta Corte Superior, "a cláusula que estipula reserva de poderes inserida em substabelecimento aponta para a circunstância de que os honorários advocatícios são devidos, em regra, ao substabelecente, nos termos do art. 26 da Lei nº 8.906/1994. Qualquer insurgência do substabelecido, em virtude de sua atuação profissional, deve ser solucionada na via própria, diante da natureza pessoal da relação jurídica entre ambos" (REsp n. 1.214.790/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/4/2015, DJe de 23/4/2015.).
+3. A revisão do aresto impugnado para afastar a aplicação de multa por litigância de má-fé exigiria derruir a convicção formada nas instâncias ordinárias sobre a conduta temerária da ora insurgente. Incidência da Súmula 7/STJ.
+4. Agravo interno desprovido. (AgInt no AREsp n. 2.089.543/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022, destaquei.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. DENUNCIAÇÃO DA LIDE. DESNECESSIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA DOS AUTOS E ANÁLISE DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ. ISENÇÃO DA RESPONSABILIDADE PELO EVENTO DANOSO. IMPOSSIBILIDADE. PRODUÇÃO DE PROVA ORAL. INDEFERIMENTO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. AGRAVO DESPROVIDO.
+1. O Tribunal de origem, com arrimo no acervo fático-probatório carreado aos autos, concluiu pelo indeferimento da denunciação da lide. A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria a revisão do conjunto fático-probatório dos autos, bem como de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme preconizam as Súmulas 5 e 7 do STJ.
+2. De qualquer sorte, a jurisprudência desta Corte é hialina ao asseverar que "não se admite a denunciação da lide com fundamento no art. 125, II, do CPC se o denunciante objetiva eximir-se da responsabilidade pelo evento danoso, atribuindo-o com exclusividade a terceiro" (AgInt no AREsp 1.483.427/SP, Rel. Ministro LUIS FELIPE S ALOMÃO, QUARTA TURMA, julgado em 24//2019, DJe de 30/9/2019).
+3. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova. Cabe ao juiz decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias.
+4. Agravo interno desprovido. (AgInt no AREsp n. 389.504/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/9/2022, DJe de 4/10/2022, destaquei.)
+Assim, não há como alterar o entendimento da Corte de origem senão promovendo profunda incursão no conjunto fático dos autos, o que é vedado pela Súmula n. 7 do STJ. A esse respeito : AgInt no AREsp n. 389.504/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/9/2022, DJe de 4/10/2022; e AgInt no AREsp n. 1.980.099/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 25/4/2022, DJe de 27/4/2022.
+Portanto, a parte agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
