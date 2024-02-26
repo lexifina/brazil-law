@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM PERDAS E DANOS E COMPENSAÇÃO POR DANOS MORAIS. IMÓVEL. ATRASO NA ENTREGA. DANO MORAL. INEXISTÊNCIA DE CIRCUNSTÂNCIA EXCEPCIONAL QUE JUSTIFIQUE A COMPENSAÇÃO. NÃO CABIMENTO. SÚMULA 568/STJ. NÃO INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Ação de obrigação de fazer cumulada com perdas e danos e compensação por danos morais.
+2. A jurisprudência desta Corte consolidou-se no sentido de que não é cabível a condenação compensatória por danos morais na hipótese em que há simples atraso na entrega do imóvel pela incorporadora, pois o dissabor inerente à expectativa frustrada decorrente de simples inadimplemento contratual se insere no cotidiano das relações comerciais e não implica lesão à honra ou violação da dignidade humana. Precedentes.
+3. O exam e do recurso especial não esbarra no óbice da Súmula 7 do STJ quando se exige apenas a revaloração jurídica do quadro fático delineado na origem. Precedentes.
+4. Agravo interno não provido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por VANESSA DE SOUZA SOARES em face da decisão monocrática que conheceu parcialmente e, nessa parte, deu parcial provimento ao recurso especial que interposto por CCDI JAW HOLDING PARTICIPACOES LTDA.
+Ação: de obrigação de fazer cumulada com perdas e danos e compensação por danos morais, ajuizada por VANESSA DE SOUZA SOARES em face da CCDI JAW HOLDING PARTICIPACOES LTDA, em virtude de atraso na entrega de unidade imobiliária, objeto de contrato de compra e venda firmado entre as partes.
+Sentença: julgou parcialmente procedentes os pedidos iniciais para condenar a ré, ora agravada: i) a restituir à autora os valores cobrados a maior, a título de juros, durante o período de atraso na entrega das chaves; ii) ao pagamento de indenização, a título de danos materiais, da quantia desembolsada com os aluguéis, no período de julho de 2012 até a data da entrega do imóvel; e iii) ao pagamento da importância equivalente a 15 (quinze) salários mínimos vigentes, a título de danos morais (e-STJ fls. 295/300).
+Embargos de declaração: julgou extinto o pedido referente à comissão de corretagem, em razão da prescrição.
+Acórdão: negou provimento aos recursos de apelação interpostos por ambas as partes, nos termos da seguinte ementa:
+PRAZO DE TOLERÂNCIA - Limitação do prazo de tolerância de 180 dias corridos - Possibilidade - Súmula 164, do TJSP Tema 01 do IRDR n. 0023203-35.2016.8.26.0000, da Turma Especial do DP-1 desta Corte - Alegação das rés de que o atraso na entrega do imóvel, para além do prazo de tolerância, deveu-se a motivos de força maior, consistentes no atraso por parte da Prefeitura Municipal em fornecer o "habite-se" - Fortuito interno decorrente de risco inerente à atividade - Mora configurada - Sentença mantida.
+LUCROS CESSANTES - Pretensão ao recebimento - Verba devida - Ressarcimento dos aluguéis comprovadamente pagos pela autora em outro imóvel, a partir de julho de 2012 até a data da entrega da unidade adquirida - Sentença mantida.
+CONGELAMENTO DO SALDO DEVEDOR - Impossibilidade - Pretensão da ré de fazer incidir INCC até o vencimento do prazo - Correção, tal qual decidido pela r. sentença, dado o caráter de recomposição da moeda, diferentemente dos juros remuneratórios, os quais somente podem incidir a partir da imissão na posse, por parte da compradora cessada, a partir daí, a incidência do INCC - Sentença mantida.
+DANO MORAL - Indenização - Finalidade: reparação do sofrimento da vítima e, ao mesmo tempo, desestimular a prática do fato, pelo ofensor, devendo o Juiz estabelecê-la com critérios de proporcionalidade e razoabilidade, sem deixar de atender a esses objetivos, todavia evitando o enriquecimento sem causa do ofendido, ou provocando injusto desfalque do património do ofensor - Indenização devida - Verba fixada em 15 salários mínimos, em atenção aos princípios da razoabilidade e da proporcionalidade, conferindo justa compensação dos danos causados aos postulantes, e ao que se fixado em casos semelhantes - Sentença mantida.
+COMISSÃO DE CORRETAGEM - PRESCRIÇÃO - Ocorrência - Pagamentos realizados em 14.11.2009 - Petição inicial protocolada em fins de dezembro de 2012 e distribuída em 10.1.2013 - Incidência do artigo 206, § 3º IV, do Código Civil (prescrição trienal) - Entendimento firmado pelo Superior Tribunal de Justiça em sede de recurso especial repetitivo (REsp 1.551.9561SP) - Prescrição consumada - Sentença mantida.
+Apelos não providos.
+Embargos de declaração: opostos pela parte agravada, foram rejeitados.
+Recurso especial: aponta violação aos arts. 186, 188 e 927 do CC, bem como dissídio jurisprudencial.
+Afirma que deve ser afastada a sua responsabilidade quanto à demora na entrega da unidade, diante da sua ingerência na expedição do Habite-se e do alegado inadimplemento da recorrida.
+Alega que não há que falar em danos materiais, porquanto cumpriu com todas as suas obrigações junto à recorrida, a qual só não recebeu a unidade em momento anterior por conta de seu inadimplemento, assim como em razão da ausência de comprovação dos danos sofridos.
+Por fim, defende a ausência de danos morais.
+Decisão monocrática: conheceu parcialmente e, nessa parte, deu parcial provimento ao recurso especial interposto pela parte agravada, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM PERDAS E DANOS E COMPENSAÇÃO POR DANOS MORAIS. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. LUCROS CESSANTES. CABIMENTO. PREJUÍZO PRESUMIDO. INADIMPLEMENTO CONTRATUAL. DANO MORAL. NÃO CONFIGURADO.
+1. Ação de obrigação de fazer cumulada com perdas e danos e compensação por danos morais.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Segundo a jurisprudência do STJ, uma vez descumprido o prazo para a entrega do imóvel, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento dos lucros cessantes.
+5. A jurisprudência desta Corte Superior é no sentido de que "o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, embora possa ensejar reparação por danos materiais, não acarreta, por si só, danos morais, salvo se as circunstâncias do caso concreto demonstrarem a efetiva lesão extrapatrimonial".
+6. Recurso especial parcialmente conhecido e, nessa parte, parcialmente provido.
+Agravo interno: nas razões do presente recurso, a agravante defende o cabimento da compensação por danos morais, afastada na decisão agravada, bem como a incidência do óbice da Súmula 7/STJ quanto ao ponto.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM PERDAS E DANOS E COMPENSAÇÃO POR DANOS MORAIS. IMÓVEL. ATRASO NA ENTREGA. DANO MORAL. INEXISTÊNCIA DE CIRCUNSTÂNCIA EXCEPCIONAL QUE JUSTIFIQUE A COMPENSAÇÃO. NÃO CABIMENTO. SÚMULA 568/STJ. NÃO INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Ação de obrigação de fazer cumulada com perdas e danos e compensação por danos morais.
+2. A jurisprudência desta Corte consolidou-se no sentido de que não é cabível a condenação compensatória por danos morais na hipótese em que há simples atraso na entrega do imóvel pela incorporadora, pois o dissabor inerente à expectativa frustrada decorrente de simples inadimplemento contratual se insere no cotidiano das relações comerciais e não implica lesão à honra ou violação da dignidade humana. Precedentes.
+3. O exam e do recurso especial não esbarra no óbice da Súmula 7 do STJ quando se exige apenas a revaloração jurídica do quadro fático delineado na origem. Precedentes.
+4. Agravo interno não provido.
+VOTO
+Pela análise das razões recursais apresentadas, verifica-se que a agravante não trouxe qualquer argumento apto a modificar as conclusões da decisão agravada.
+O Superior Tribunal de Justiça pacificou entendimento segundo o qual não é cabível a condenação em indenização por danos morais na hipótese em que há simples atraso na entrega do imóvel pela incorporadora, pois o dissabor inerente à expectativa frustrada decorrente de simples inadimplemento contratual se insere no cotidiano das relações comerciais e não implica lesão à honra ou violação da dignidade humana.
+Orientou-se, ainda, a jurisprudência desta Corte que deve haver uma consequência decorrente do descumprimento contratual para caracterização dos danos extrapatrimoniais indenizáveis.
+Da análise dos autos, verifica-se que o Colegiado local não apontou maiores desdobramentos em razão do atraso na entrega do imóvel em questão. Leia-se, no que é de interesse para a compreensão do tema, o seguinte excerto do acórdão recorrido (e- STJ fls. 416/419):
+"Estando certo o atraso imotivado na entrega do imóvel, descumprindo o que havia sido previamente acordado com os adquirentes, corolário lógico do sucedido é terem estes sofrido dano moral, passível de indenização, na esteira do que vem esta Câmara reconhecendo em situações assemelhadas, em que empreendedores retardam injustamente a entrega de imóveis que prometem construir em prazo certo, não o fazem ou impõem espera desmedida, como sucedido neste caso.
+Alia-se à frustração de expectativa a angústia muitas vezes causada pela necessidade de mudança para o imóvel adquirido para residir, dada a alienação de imóvel anterior, a locação de outro para morar e a somatória de recursos despendidos para uns e outros fins, com todos os inconvenientes daí decorrentes, como fácil aquilatar.
+(..)
+Esse pensamento, sustentado em precedentes, incide também aqui, á em que a situação de fato revela não se estar à frente de singelo desconforto, mas de padecimento que atingiu a esfera íntima do postulante, a merecer reparação."
+Nesse sentido, os seguintes julgados desta Corte Superior: AgInt no AgInt no AREsp 2.159.987/BA, Terceira Turma, DJe de 12/6/2023; AgInt no AREsp 1.980.207/RJ, Terceira Turma, DJe de 24/11/2022; AgInt no REsp 1.985.341/RJ, Terceira Turma, DJe de 13/10/2022; AgInt nos EDcl no AREsp 2.270.204/BA, Quarta Turma, DJe de 14/6/2023; AgInt no REsp 1.917.023/RJ, Quarta Turma, DJe de 7/6/2023; e AgInt no REsp 1.881.480/SP, Quarta Turma, DJe de 21/6/2022.
+Desse modo, deve ser mantida a decisão agravada, que afastou a compensação por danos morais.
+Acrescente-se que, diferentemente do alegado, o exame do recurso especial não demandou o revolvimento de fatos e provas, haja vista que a moldura fática restou suficientemente delineada pelas instâncias de origem, tendo-se procedido apenas à revaloração jurídica desse panorama, o que é admitido pela jurisprudência consolidada desta Corte (REsp 1.938.997/MS, Terceira Turma, DJe 30/9/2021; e AgInt no AREsp 1.684.459/SP, Quarta Turma, DJe 17/6/2021).
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
