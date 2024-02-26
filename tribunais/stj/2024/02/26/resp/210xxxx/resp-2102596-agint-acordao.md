@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO ORDINÁRIA - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECURSO ESPECIAL.
+INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. Nos termos do artigo 1.021, § 5º, do Código de Processo Civil, o prévio recolhimento da multa prevista no § 4º do referido artigo é pressuposto objetivo de admissibilidade de qualquer impugnação recursal, não se conhecendo do recurso manejado sem esse pagamento.
+Precedentes.
+2. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por FUNDAÇÃO VALE DO RIO DOCE DE SEGURIDADE SOCIAL - VALIA, em face de decisão monocrática deste signatário (fls. 620/622, e-STJ), que não conheceu do recurso especial da insurgente.
+O apelo extremo (art. 105, III, alínea "a", CF) desafiou acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 562, e-STJ):
+AGRAVO INTERNO - AUSÊNCIA DE FUNDAMENTOS QUE CONDUZAM À MODIFICAÇÃO DA DECISÃO RECORRIDA -REGIMENTAL MANIFESTAMENTE IMPROCEDENTE - APLICAÇÃO DE SANÇÃO PROCESSUAL - INTELIGÊNCIA DO DISPOSTO NO §4º, DOART. 1.021, DO CPC. -Nos termos do §4º, do art. 1.021, do CPC, é devida a aplicação de multa quando o Agravo Interno se revela manifestamente improcedente.
+Nas razões do recurso especial (fls. 573/596, e-STJ), a ora agravante alegou: (i) impossibilidade de depósito prévio da multa aplicada com base no artigo 1.021, §5º, do CPC, já que a questão será discutida no presente recurso; (ii) negativa de prestação jurisdicional, nos termos dos artigos 489, §1º, I, II, e IV, e 1.022, II, do CPC; (iii) que a aplicação de multa em sede de embargos de declaração foi indevida, ofendendo os artigos 6º, 10 e 1.026, §2º, do CPC; (iv) não cabimento da multa aplicada com base no artigo 1.021, §4º, do CPC, pois o agravo não se revela inadmissível ou improcedente; (v) que impugnou, em suas razões, os motivos de fato e de direito pelos quais requereu a reforma da decisão apelada, em observância ao princípio da dialeticidade e ao artigo 1.010, incisos I, II, III, e IV, do CPC.
+Sem contrarrazões.
+Decisão de admissibilidade recursal às fls. 611/613 (e-STJ).
+Em decisão monocrática (fls. 620/622, e-STJ), o recurso especial não foi conhecido, pela ausência de prévio recolhimento da multa aplicada pelo Tribunal de origem.
+Daí o presente agravo interno (fls. 626/631, e-STJ), no qual a agravante se insurge contra os fundamentos da decisão hostilizada.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO ORDINÁRIA - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECURSO ESPECIAL.
+INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. Nos termos do artigo 1.021, § 5º, do Código de Processo Civil, o prévio recolhimento da multa prevista no § 4º do referido artigo é pressuposto objetivo de admissibilidade de qualquer impugnação recursal, não se conhecendo do recurso manejado sem esse pagamento.
+Precedentes.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela agravante são incapazes de infirmar a decisão objurgada.
+1. Conforme constou da decisão agravada, a jurisprudência desta Corte Superior de Justiça firmou-se no sentido de que o prévio recolhimento da multa processual prevista no artigo 1021, § 4º, do CPC/15, imposta ao litigante, constitui pressuposto recursal objetivo de admissibilidade, de maneira que a ausência de comprovante de seu depósito obsta o conhecimento do recurso interposto posteriormente à condenação, ainda que a referida multa seja objeto da insurgência.
+Nesse sentido, destacam-se precedentes:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. MULTA DE 1% SOBRE O VALOR ATUALIZADO DA CAUSA FIXADA NO ACÓRDÃO EMBARGADO. AUSÊNCIA DE PRÉVIO RECOLHIMENTO. CONDIÇÃO PARA A INTERPOSIÇÃO DE QUALQUER OUTRO RECURSO. ART. 1.021, § 5º, DO CPC. "Nos termos do § 5º do art. 1021, a interposição de qualquer recurso está condicionada ao depósito prévio do valor da multa prevista no § 4º, à exceção da Fazenda Pública e ao beneficiário da justiça gratuita que farão o pagamento ao final" (EDcl no AgInt nos EDcl nos EAREsp n. 1.835.680/PR, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 27/09/2022, DJe de 03/10/2022.) Embargos de declaração não conhecidos. (EDcl no AgInt no AREsp n. 2.043.074/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. APLICAÇÃO DA MULTA DO ART. 1.021, § 4º, DO CPC. MANEJO DO APELO EXCEPCIONAL SEM O DEVIDO RECOLHIMENTO DE CUSTAS. IMPOSSIBILIDADE DE CONHECIMENTO DO RECURSO. APLICAÇÃO DO ART. 1.021, § 5º, DO CPC. ENTENDIMENTO DA SEGUNDA INSTÂNCIA EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO. 1. Consoante orientação do Superior Tribunal de Justiça, "a aplicação de multa no agravo interno, declarado manifestamente inadmissível em votação unânime (art. 1.021, § 4º, do CPC/15), condiciona a interposição de qualquer outro recurso ao depósito prévio do valor da referida sanção processual, conforme inteligência do art. 1.021, § 5º, do CPC/15  .. " (EDcl no AgInt no REsp n. 1.985.015/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022). Aplicação da Súmula 83/STJ. 2. Agravo interno desprovido. (AgInt no REsp n. 2.033.768/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 12/6/2023, DJe de 14/6/2023.)
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. MULTA. ART. 1.026. § 2º, DO NCPC. NECESSIDADE DE RECOLHIMENTO PRÉVIO À INTERPOSIÇÃO DE QUALQUER OUTRO RECURSO. AUSÊNCIA. EMBARGOS NÃO CONHECIDOS. MAJORAÇÃO DA MULTA. 1. Na dicção do art. 1.021, § 5º, do Código de Processo Civil de 2015, o prévio recolhimento da multa prevista no § 4º do referido artigo é pressuposto objetivo de admissibilidade de qualquer recurso, de modo que não se conhece desse meio de impugnação sem o pagamento da referida penalidade. Precedentes. 2. Em razão do caráter manifestamente protelatório dos embargos de declaração, verifica-se a necessidade de elevar a multa anteriormente aplicada para 5% (cinco por cento) sobre o valor atualizado da causa, nos termos do art. 1.026, § 3º, do CPC/2015. 3. Embargos de declaração não conhecidos, com elevação da multa para 5% do valor atualizado da causa. (EDcl nos EDcl nos EDcl no AgInt no REsp n. 1.758.467/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/11/2022, DJe de 7/12/2022.)
+Na hipótese, verificou-se que no julgamento do agravo interno a ora agravante foi condenada ao pagamento da multa prevista no artigo 1021, § 4º, do CPC/15, e que não foi efetuado o pagamento da referida penalidade.
+Desse modo, não tendo a parte comprovado o recolhimento do valor da multa aplicada pelo Tribunal de origem, de rigor o não conhecimento do recurso especial, devendo ser mantida a decisão agravada.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
