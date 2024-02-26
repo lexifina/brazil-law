@@ -1,0 +1,100 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. PREJUDICIALIDADE EXTERNA. NÃO OCORRÊNCIA. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem concluiu pela impossibilidade de suspensão do processo e pelo descumprimento da obrigação de carregamento gratuito de canal de programação de distribuição obrigatória. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+4. A existência de prejudicialidade externa de outra demanda não impõe, obrigatoriamente, a suspensão do processo. Precedentes.
+5. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 718/732) interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+Em suas razões, a agravante alega que "não há necessidade de reanálise dos fatos e provas contidos nos autos, uma vez que simples leitura das decisões proferidas demonstra que o egrégio Tribunal a quo deixou de aplicar a normativa contida nos artigos 32, caput, inciso I e § 8º da Lei 12.485/2011 e 877 do Código Civil" (e-STJ fl. 725).
+Reitera a tese de violação dos arts. 32, caput, I, e § 8º, da Lei n. 12.485/2011, 877 do CC/2002 e 265, IV, "a", e 535 do CPC/1973 (art. 1.022, II, do CPC/2015).
+Destaca o seguinte (e-STJ fls. 728/729):
+Sem prejuízo das questões apontadas nos itens acima, é de se observar que o Egrégio Tribunal de Justiça a quo deixou de considerar questão de Ordem Pública que se amolda perfeitamente à hipótese dos autos, qual seja, a prejudicialidade externa ao exame de mérito, o que impõe a suspensão desse processo, nos termos do artigo 265, inciso IV, "a", do Código de Processo Civil, atual artigo 313, inciso V, alínea "a" do Novo Código de Processo Civil.
+Ora, conforme mencionado, em 27/05/2013 a SKY fez distribuir perante a Seção Judiciária do Distrito Federal, sob o n. 0028521-18.2013.4.01.3400, ação de rito ordinário em face da ANATEL, contra ato administrativo daquela agência que negou à empresa o direito à dispensa do carregamento de canais de distribuição obrigatória, dentre os quais o da RIT TV.
+Pois bem, pelas razões lá expostas, a SKY, ao final de sua petição inicial, postula que se reconheça o direito de não carregar os ditos canais de distribuição obrigatória, notadamente pelo reconhecimento dos vícios nos atos expedidos pela ANATEL.
+Com efeito, o resultado de referida demanda, em curso perante a Justiça Federal, e na qual ainda não houve sentença, é determinante para o julgamento deste feito. À evidência, em não se seguindo o comando legal do artigo 313, inciso V, alínea "a" do Código de Processo Civil, e não se suspendendo o feito, há iminente risco de decisões conflitantes, sendo possível que se venha entender, aqui, que a SKY estaria obrigada a carregar o canal da RIT TV gratuitamente, ainda que, naquela outra demanda, se entenda que a SKY está, de fato, desobrigada de carregar qualquer dos ditos canais de distribuição obrigatória.
+Desse modo, haverá esse colendo Superior Tribunal De Justiça de reconhecer a prejudicialidade externa da ação de rito ordinário proposta pela SKY em trâmite perante a douta 3ª Vara da Justiça Federal em Brasília - DF, sob o n. 0028521-18.2013.4.01.3400, e determinar a suspensão deste processo até o julgamento daquele feito, nos termos do artigo 265, IV, "a", do Código de Processo Civil, atual artigo 313, inciso V, alínea "a" do Novo Código de Processo Civil.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A agravada apresentou contrarrazões requerendo a majoração dos honorários recursais (e-STJ fls. 735/739).
+É o relatório.
+Decido.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. PREJUDICIALIDADE EXTERNA. NÃO OCORRÊNCIA. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem concluiu pela impossibilidade de suspensão do processo e pelo descumprimento da obrigação de carregamento gratuito de canal de programação de distribuição obrigatória. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+4. A existência de prejudicialidade externa de outra demanda não impõe, obrigatoriamente, a suspensão do processo. Precedentes.
+5. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 711/713):
+Trata-se de agravo nos próprios autos (art. 1.042 do CPC/2015) interposto por SKY BRASIL SERVIÇOS LTDA. contra decisão que inadmitiu o recurso especial por inexistência de violação de lei federal e incidência da Súmula n. 7 do STJ (e-STJ fls. 637/639).
+O acórdão recorrido está assim ementado (e-STJ fl. 456):
+EMENTA REPARAÇÃO DE DANOS MORAIS NÚMERO DE CANAL DE EMISSORA DE TV BLOCO DE CANAIS ALTERAÇÃO OFENSA POR CONTA DA LOCALIZAÇÃO INOCORRÊNCIA
+1 Não se nega a possibilidade de ocorrência de dano moral em favor de pessoa jurídica, conforme já reconheceu o próprio C. STJ em enunciado sumular. Entretanto, deve restar configurada honra objetiva suficiente para caracterizar o dano.
+2 Não se reconheceu dano moral em favor de emissora de TV que pretende seja alterada sua localização nos blocos de canais de TV por assinatura, sob o argumento de que sua localização próxima a canais eróticos prejudica seu conteúdo, exclusivamente religioso. Canal que possui numeração entre a TV Cultura e a Rede Vida, encontrando-se inserida no bloco de canais "cortesia", que ainda que possua incorreta denominação (por se tratar de canal gratuito de âmbito nacional), não lhe traz prejuízo algum, pois não se aproxima dos canais de conteúdo erótico (só acessado por assinantes) e está em série de canais de conteúdo ora religioso, ora educativo. Dano moral não configurado.
+RECURSO IMPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 468/472 e 544/548).
+No especial (e-STJ fls. 550/572), fundamentado no art. 105, III, "a", da CF, a parte recorrente alegou ofensa ao art. 535 do CPC/1973 por negativa de prestação jurisdicional.
+Apontou afronta aos arts. 32, caput, I, e § 8º, da Lei 12.485/2011 e 877 do CC/2002, afirmando que, "por expressa determinação judicial, (..) não esteve obrigada ao carregamento gratuito de qualquer dos "canais de programação de distribuição obrigatória"" (e-STJ fl. 568).
+Indicou ainda contrariedade ao art. 265, IV, "a", do CPC/1973, aduzindo a necessidade de suspensão do processo.
+No agravo (e-STJ fls. 656/671), afirma a presença de todos os requisitos de admissibilidade do especial.
+As recorridas apresentaram contraminuta (e-STJ fls. 674/681).
+É o relatório.
+Decido.
+Não há falar em ofensa ao art. 535 do CPC/1973, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos.
+Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Quanto aos arts. 32, caput, I, e § 8º, da Lei 12.485/2011, 877 do CC/2002 e 265, IV, "a", do CPC/1973, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 361/362):
+A autora possui um canal de televisão, o RIT TV, o qual, diante de sua abrangência nacional, recebeu o título de "Rede Nacional de Televisão". De acordo com a Lei nº 12.485/11, as prestadoras de serviço de acesso condicionado, este é o caso da requerida, devem carregar obrigatoriamente em sua grade de programação, de forma gratuita, os canais assim classificados.
+À autora foi conferido referido título em 28 de setembro de 2012, mediante publicação no Diário Oficial da União (fls. 37), passando tal fato a ser de conhecimento público, inclusive da requerida.
+Logo, com a publicação retro mencionada nasceu o direito da autora de ter seu canal carregado obrigatoriamente, de forma gratuita, na grade de programação da requerida.
+Não prospera, portanto, a alegação da requerida de que só se tornou legalmente obrigada a distribuir gratuitamente os canais em 9 de setembro de 2013, não havendo, como sugeriu, a obrigação da autora de pagar pelos serviços prestados até mencionada data.
+Como se pode inferir pelo documento de fls. 95, a ré já tinha conhecimento de que a autora postulava junto à ANATEL sua classificação como "Rede Nacional de Televisão". Ademais, a ação que a requerida ajuizou contra a ANATEL, através da qual pretendia se desobrigar do carregamento de alguns dos canais obrigatórios, não pode produzir efeitos contra a autora, pois sequer se tem notícia de seu julgamento, estando demonstrado apenas, que o pedido formulado pela ré foi indeferido em sede de liminar em primeira e segunda instâncias.
+Nessa esteira, assiste razão à autora quando reclama a repetição do indébito, pois as faturas posteriores à publicação da sua condição de "Rede Nacional de Televisão" no DOU (Diário Oficial da União), indicadas na inicial, foram realmente cobradas indevidamente, uma vez que a autora já possuía o direito de ser carregada gratuitamente na grade de programação da ré.
+Assim, de rigor a condenação da ré à devolução do valor cobrado indevidamente.
+(..) Assiste razão à autora também quando reclama da requerida sua correta classificação. De fato, considerando que a autora recebeu o título de "Rede Nacional de Televisão", não pode a ré informar a seus clientes que a autora é carregada em sua grade como "canal cortesia".
+Para alterar tais fundamentos e afastar a obrigação de veiculação do canal, nos termos descritos, bem como reconhecer a existência de prejudicialidade externa, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmula n. 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+Cuida-se, na origem, de ação cominatória combinada com repetição de indébito e indenização por danos morais ajuizada por TELEVISÃO CIDADE MODELO LTDA. (RIT TV) em desfavor de SKY BRASIL SERVIÇOS LTDA. (SKY BRASIL), sob o fundamento de que a requerida teria descumprido a Lei n. 12.485/2011, ao deixar de manter seu canal agrupado com os canais obrigatórios.
+A demanda foi julgada parcialmente procedente para impor à ré a obrigação de carregar o canal da agravada (RIT TV) no bloco das "Redes Nacionais de Televisão" e para restituir à parte autora os valores cobrados indevidamente a partir de 29 de setembro de 2012, devidamente atualizados e acrescidos de juros legais a partir da citação (e-STJ fls. 454/459).
+Em sede de apelação, o TJSP manteve todos os fundamentos da sentença, indeferindo o dano moral pretendido.
+Em seguida, foram acolhidos, sem efeito modificativo, os primeiros embargos de declaração opostos por SKY BRASIL (e-STJ fls. 468/472) e rejeitados os segundos (e-STJ fls. 544/548).
+No recurso especial, SKY BRASIL alegou ofensa (i) ao art. 535 do CPC/1973 por negativa de prestação jurisdicional, (ii) aos arts. 32, caput, I, e § 8º, da Lei 12.485/2011 e 877 do CC/2002, afirmando que, "por expressa determinação judicial, (..) não esteve obrigada ao carregamento gratuito de qualquer dos "canais de programação de distribuição obrigatória"" (e-STJ fl. 568) e (iii) ao art. 265, IV, "a", do CPC/1973, aduzindo a necessidade de suspensão do processo.
+O recurso especial foi inadmitido por inexistência de violação de lei federal e incidência da Súmula n. 7 do STJ.
+A insurgência não procede.
+Inexiste afronta ao art. 535 do CPC/1973 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Em relação à tese, o Tribunal de origem, ao adotar todos os fundamentos da sentença, assim se manifestou (e-STJ fls. 547/548):
+À autora foi conferido referido título em 28 de setembro de 2012, mediante publicação no Diário Oficial da União (fls. 37), passando tal fato a ser de conhecimento público, inclusive da requerida.
+Logo, com a publicação retro mencionada nasceu o direito da autora de ter seu canal carregado obrigatoriamente, de forma gratuita, na grade de programação da requerida.
+Não prospera, portanto, a alegação da requerida de que só se tornou legalmente obrigada a distribuir gratuitamente os canais em 9 de setembro de 2013,não havendo, como sugeriu, a obrigação da autora de pagar pelos serviços prestados até mencionada data.
+Como se pode inferir pelo documento de fls. 95, a ré já tinha conhecimento de que a autora postulava junto à ANATEL sua classificação como Rede Nacional de Televisão. Ademais, a ação que a requerida ajuizou contra a ANATEL, através da qual pretendia se desobrigar do carregamento de alguns dos canais obrigatórios, não pode produzir efeitos contra a autora, pois sequer se tem notícia de seu julgamento, estando demonstrado apenas, que o pedido formulado pela ré foi indeferido em sede de liminar em primeira e seg unda instâncias.
+Além disso, como visto, os primeiros embargos de declaração opostos por SKY BRASIL (e-STJ fls. 468/472) foram acolhidos sem efeitos modificativos, rejeitando-se os segundos (e-STJ fls. 544/548), ficando assente que, "para fins de pré-questionamento, nego tenha havido violação ao art. 32, caput, inc. I e § 8º da Lei 12.485/2011, ao art. 877 do Código Civil, ao art. 265, inc. IV, alínea "a" do Código de Processo Civil ou outro dispositivo de lei federal" (e-STJ fl. 548).
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 535 do CPC/1973.
+Por outro lado, o TJSP reconheceu que, em 28 de setembro de 2012, com a publicação no Diário Oficial da União, nasceu o direito da autora de ter seu canal carregado obrigatoriamente, de forma gratuita, na grade de programação da requerida.
+Consignou-se ainda a inexistência de prejudicialidade externa, pois a ação que a requerida ajuizou contra a ANATEL, por meio da qual pretendia se desobrigar do carregamento de alguns canais obrigatórios, não poderia produzir efeitos contra a parte autora, pois sequer havia notícia de seu julgamento, estando demonstrado apenas que o pedido formulado pela ré foi indeferido em sede de liminar, em primeira e segunda instâncias.
+Tendo o Tribunal de origem assim decidido com base nos elementos de prova, concluir diversamente atrai as Súmulas n. 5 e 7 do STJ.
+Além disso, a existência de prejudicialidade externa de outra demanda não torna obrigatória a suspensão da demanda. A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 1.022 do CPC/15.
+2. A paralisação do processo em virtude de prejudicialidade externa não possui caráter obrigatório, cabendo ao juízo local aferir a plausibilidade da suspensão consoante as circunstâncias do caso concreto.
+2.1. Para rever as conclusões do Tribunal de origem quanto à existência de prejudicialidade externa seria imprescindível reapreciar o conjunto fático-probatório dos autos, o que atrai o óbice da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.287.784/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/10/2023, DJe de 25/10/2023.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. CONEXÃO. PREJUDICIALIDADE EXTERNA. SUSPENSÃO DO PROCESSO. CARÁTER NÃO OBRIGATÓRIO. JULGAMENTO CONJUNTO DOS PROCESSOS. INEXISTÊNCIA DE PREJUÍZO. AGRAVO INTERNO NÃO PROVIDO.
+1. A existência de prejudicialidade externa com outra demanda não impõe, obrigatoriamente, a suspensão do processo. Precedentes.
+2. No presente caso, tanto em primeira instância quanto no julgamento da apelação, houve processamento simultâneo e julgamento conjunto das demandas, de modo que a prolação de decisões separadas em cada processo não trouxe qualquer prejuízo às partes suscetível de nulidade dos atos processuais.
+3. O entendimento desta Corte Superior é no sentido de que, não existindo decisões contraditórias, conflitantes ou divergentes, não há prejuízo para a parte tampouco violação da legislação federal na hipótese. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.144.719/MT, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/10/2023, DJe de 20/10/2023.)
+Ainda que assim não fosse, em consulta processual realizada no site do Tribunal Regional F ederal da 1ª Região, verifica-se que a sentença proferida nos autos do processo n. 0028521-18.2013.4.01.3400 julgou improcedente o pedido da ora recorrente de dispensa do carregamento de alguns canais obrigatórios.
+Com efeito, " n em o art. 265, IV, a, do CPC/73, sequer o art. 313, V, a, do NCPC, se referem sobre suspensão do processo até o julgamento "definitivo" ou o "trânsito em julgado" da questão prejudicial externa, mas tão só ao "julgamento de outra causa (..)", sendo certo que " a  determinada suspensão do processo para o aguardo de julgamento de prejudicialidade externa tem natureza apenas provisória, tanto assim que o Código de Processo Civil anterior (art. 265, § 5º) e também o atual (art. 313, § 4º), foram claros em dizer que na hipótese a suspensão nunca poderá exceder 1 (um) ano, donde resulta certa a desnecessidade de se aguardar o trânsito em julgado da questão dita prejudicial" (REsp n. 1.817.729/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/6/2022, DJe de 23/6/2022).
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+Nos termos da jurisprudência desta Corte, não haverá a majoração de honorários advocatícios prevista no art. 85, § 11, do CPC/2015 no julgamento de agravo interno e de embargos de declaração.
+É como voto.
