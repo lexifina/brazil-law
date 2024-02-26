@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. De acordo com o disposto nos arts. 253, parágrafo único, I, do RISTJ e 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno manejado por VALE DAS ÁGUAS COUNTRY CLUBE DE TUPI para desafiar decisão proferida às e-STJ fls. 286/287, que não conheceu do agravo em recurso especial, pois o agravante não impugnou especificamente os fundamentos da decisão agravada, no caso, a incidência das Súmulas 283 e 284 do STF.
+Contra essa decisão foram opostos embargos de declaração em que o ora agravante alegou, em suma, que, no agravo em recurso especial, houve impugnação específica da aplicação dos óbices sumulares (e-STJ fls. 291/294).
+Tendo em vista o teor das alegações, foram os aclaratórios recebidos como agravo interno e determinada a intimação do agravante para complementar as razões recursais, ajustando-as ao disposto no art. 1.021, § 1º, do CPC/2015 (e-STJ fl. 304).
+Sustenta a parte agravante, às e-STJ fls. 308/310, que, ao contrário do consignado, as razões do agravo em recurso especial impugnaram os referidos fundamentos ao afirmarem, em suma, que os enunciados de súmula do STF não se aplicam ao recurso especial.
+Requer, assim, seja conhecido e provido o recurso.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. De acordo com o disposto nos arts. 253, parágrafo único, I, do RISTJ e 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+3. Agravo interno desprovido.
+VOTO
+Tenho que o inconformismo sob exame não merece prosperar.
+A parte agravante não trouxe nenhum argumento capaz de alterar o decisum atacado, proferido em sintonia com a jurisprudência deste Tribunal Superior, no sentido de que a parte deve infirmar especificamente os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge contra todos eles, de acordo com o disposto nos arts. 253, parágrafo único, I, do RISTJ e 932, III, do CPC/2015.
+No caso, o juízo de prelibação negativo proferido pelo Tribunal de origem inadmitiu o recurso especial com base nas Súmulas 283 e 284 do STF, pelos seguintes fundamentos (e-STJ fl. 259):
+Nota-se que a fundamentação adicional do acórdão recorrido no sentido de que, diante da presunção de certeza e liquidez da CDA, o ônus da prova é de executado passou ao largo da impugnação; o recorrente se limitou a questionar a entrega de declaração fiscal e a dispensa de processo administrativo de cobrança, deixando de impugnar o fundamento específico de que o título executivo vem provido de presunção de certeza e liquidez, a ponto de ser do executado o ônus de provar a constituição do crédito do FGTS por método diverso do da entrega de declaração fiscal.
+A omissão torna deficiente a fundamentação do recurso, viola o princípio da dialeticidade e faz subsistir a decisão por fundamento que não foi impugnado:
+"Súmula 284. (..)"
+"Súmula 283. (..)"
+Nas razões do agravo em recurso especial, o agravante não infirmou de forma clara e específica esses fundamentos, em evidente desrespeito ao princípio da dialeticidade.
+Com efeito, a parte limitou-se a afirmar o seguinte (e-STJ fls. 264/265):
+Não se tratou de aplicação das Súmulas 283 e 284, ambas do STJ, uma vez que tais Súmulas dispõem sobre os recursos extraordinários, e não pode ser aplicada de maneira extensiva para limitar recursos onde a lei não o fez.
+Assim, equivocado, também, o uso de Súmula do STF que trata de recurso não utilizado por esta agravante.
+ ..
+Inclusive, ao contrário do quanto decidido pela presidência do C. TRF3, este agravante, na ocasião, recorrente, impugnou sim especificamente a presunção de veracidade da CDA, uma vez que não houve qualquer declaração do FGTS por este agravante. Isso não existiu.
+No mais verifica-se que o r. despacho monocrático em nada fundamentou sua decisão, mas apenas optou por não julgar as razões deste agravante, na ocasião recorrente, utilizando-se de Súmulas não aplicáveis ao caso vertente.
+Nem se alegue ter sido acertada a aplicação das Súmulas 283 e 284, ambas do STF ao presente caso, uma vez que o indigitado recurso especial foi interposto com base na lei apropriada e em nada se relaciona com as hipóteses do recurso extraordinário que é interposto em outras instância e hipóteses.
+Cumpre destacar que, conforme a jurisprudência desta Corte, "inexiste obstáculo para que, no exame de admissibilidade do recurso especial, sejam utilizados os parâmetros estabelecidos pelo Supremo Tribunal Federal em suas súmulas" (AgInt no AREsp 1203211/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 15/03/2018, DJe 27/03/2018).
+Nesse contexto, a argumentação apresentada não se mostra suficiente para afastar a incidência dos óbices em questão.
+Ademais, a mera alegação de que houve impugnação à presunção de veracidade da CDA não afasta a fundamentação adotada pela decisão de inadmissibilidade, uma vez que o princípio da dialeticidade impõe que a impugnação se dê de forma específica, concreta e pormenorizada, trazendo argumentações capazes de demonstrar o seu desacerto, o que não ocorreu.
+Assim, mostra-se inafastável o desprovimento do presente agravo interno.
+Nesse sentido, confiram-se os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. MULTA ADMINISTRATIVA. AUSÊNCIA DE IMPUGNAÇÃO À TOTALIDADE DOS FUNDAMENTOS ADOTADOS PELA DECISÃO QUE NÃO ADMITE, NA ORIGEM, O RECURSO ESPECIAL. SÚMULA 182/STJ. INCIDÊNCIA.
+1. É inviável o agravo que deixa de atacar, de modo específico, os fundamentos adotados pelo Tribunal de origem para negar seguimento ao recurso especial. Incidência da Súmula 182 do STJ.
+2. A Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, a totalidade do conteúdo da decisão que não admitiu o processamento do recurso especial, sob pena de incidir o óbice contido na Súmula 182/STJ. Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC e EAREsp 831.326/SP, DJe de 30/11/2018).
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.930.439/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 29/11/2021, DJe de 2/12/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL, AUTÔNOMOS OU NÃO. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+I. Agravo interno aviado contra decisão que julgara Agravo em Recurso Especial interposto contra decisum publicado na vigência do CPC/2015.
+II. Nos termos da jurisprudência atual e consolidada desta Corte, incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, autônomos ou não, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo em Recurso Especial (art. 932, III, do CPC vigente). Nesse sentido: STJ, EAREsp 701.404/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 831.326/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; AgInt nos EAREsp 1.074.493/RS, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, DJe de 20/08/2019; AgInt no AREsp 1.505.281/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2019; AgInt no AREsp 1.579.338/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 01/07/2020; AgRg nos EAREsp 1.642.060/SC, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, DJe de 16/09/2020; AgInt nos EDcl no AREsp 1.693.577/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 17/11/2020.
+III. Conforme entendimento sedimentado pela Corte Especial do Superior Tribunal de Justiça, "a decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (STJ, EAREsp 701.404/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018).
+IV. No caso, por simples cotejo entre o decidido e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2º Grau, inadmitira o Especial, o que atrai a aplicação do disposto no art. 932, III, do CPC/2015 - vigente à época da publicação da decisão então agravada e da interposição do recurso -, que faculta ao Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida", bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia.
+V. Na forma da jurisprudência, "a impugnação tardia dos fundamentos da decisão que não admitiu o recurso especial (somente por ocasião do manejo de agravo interno), além de caracterizar indevida inovação recursal, não tem o condão de afastar a aplicação do referido verbete 182/STJ, tendo em vista a ocorrência de preclusão consumativa" (STJ, AgInt no AREsp 1.208.054/MS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 30/10/2018).
+VI. Agravo interno improvido.
+(AgInt no AREsp n. 1.890.239/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/11/2021, DJe de 29/11/2021)
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
