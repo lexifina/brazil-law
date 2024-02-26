@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. Razões do agravo interno que não impugnam especificamente o fundamento invocado na deliberação monocrática. Em razão do princípio da dialeticidade, deve o agravante demonstrar de modo fundamentado o desacerto da decisão agravada, nos termos do art. 1021, § 1º do NCPC. Incidência da Súmula 182/STJ.
+2. Revela-se defesa a oposição simultânea de dois recursos contra o mesmo ato judicial, ante o princípio da unirrecorribilidade e a ocorrência da preclusão consumativa, o que demanda o não conhecimento da segunda insurgência.
+3. Primeiro agravo interno não conhecido. Segundo agravo interno não conhecido por violação ao princípio da unirrecorribilidade recursal e ocorrência da preclusão consumativa.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravos internos (fls. 350/358 e 359/371, e-STJ), interpostos por LINKTEL TELECOMUNICACOES DO BRASIL LTDA e COLEPAV AMBIENTAL LTDA, em face de decisão monocrática que não conheceu do agravo em recurso especial ante a sua intempestividade.
+Quanto ao primeiro agravo interno, certificou-se que "o nome da parte peticionante (LINKTEL TELECOMUNICACOES DO BRASIL LTDA) e o número do processo (ARESP 2369999 - 2023/0169308-7), mencionados à fl. 351 - petição de Agravo Interno nº 828501/2023, não guardam referência com estes autos". Da mesma forma, na decisão de fl. 431, e-STJ, consta que "conforme certificado à fl. 429, o agravo interno de fls. 350/358 não se refere aos autos".
+Já no segundo agravo interno, a parte agravante COLEPAV AMBIENTAL LTDA sustenta a tempestividade do agravo em recurso especial.
+É o relatório do necessário.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. Razões do agravo interno que não impugnam especificamente o fundamento invocado na deliberação monocrática. Em razão do princípio da dialeticidade, deve o agravante demonstrar de modo fundamentado o desacerto da decisão agravada, nos termos do art. 1021, § 1º do NCPC. Incidência da Súmula 182/STJ.
+2. Revela-se defesa a oposição simultânea de dois recursos contra o mesmo ato judicial, ante o princípio da unirrecorribilidade e a ocorrência da preclusão consumativa, o que demanda o não conhecimento da segunda insurgência.
+3. Primeiro agravo interno não conhecido. Segundo agravo interno não conhecido por violação ao princípio da unirrecorribilidade recursal e ocorrência da preclusão consumativa.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Os agravos internos não comportam conhecimento.
+1. Do agravo interno constante da petição eletrônica 00828501/2023 (fls. 350/358, e-STJ).
+Conforme relatado, quanto ao primeiro agravo interno, certificou-se que "o nome da parte peticionante (LINKTEL TELECOMUNICACOES DO BRASIL LTDA) e o número do processo (ARESP 2369999 - 2023/0169308-7), mencionados à fl. 351 - petição de Agravo Interno nº 828501/2023, não guardam referência com estes autos". Da mesma forma, na decisão de fl. 431, e-STJ, consta que "conforme certificado à fl. 429, o agravo interno de fls. 350/358 não se refere aos autos".
+Na irresignação, a parte busca combater a incidência das Súmulas 284 do STF e 211 do STJ.
+Com base no princípio da dialeticidade, compete à parte recorrente impugnar especificamente todos os fundamentos da decisão de admissibilidade do recurso especial, autônomos ou não, sob pena de atrair o óbice contido no enunciado da Súmula 182 do STJ ("É inviável o agravo do art. 545 do CPC/73 que deixa de atacar especificamente os fundamentos da decisão agravada").
+Irrefutável, portanto, a incidência da Súmula 182 do STJ, já que inexistiu ataque aos fundamentos da decisão ora agravada, sendo que o agravo interno manejado sequer guarda relação com os autos, tendo sido interposto por parte alheia ao processo.
+2. Do agravo interno constante da petição eletrônica 00828513/2023 (fls. 359/371, e-STJ).
+Revela-se defesa a oposição simultânea de dois agravos internos contra o mesmo ato judicial, ante o princípio da unirrecorribilidade e a ocorrência da preclusão consumativa, o que demanda o não conhecimento da segunda insurgência.
+Nesse sentido, precedentes desta Corte:
+EMBARGOS DE DECLARAÇÃO OPOSTOS SOB A ÉGIDE DO CPC/2015. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REEXAME DE MATÉRIA JÁ DECIDIDA. NÃO CABIMENTO. CORREÇÃO DE VÍCIO FORMAL. ENUNCIADO ADMINISTRATIVO N. 5/STJ. 1. Interpostos dois recursos pela mesma parte contra a mesma decisão, não se conhece daquele apresentado em segundo lugar, por força do princípio da unirrecorribilidade e da preclusão consumativa. 2. Rejeitam-se os embargos declaratórios quando, no acórdão embargado, não há nenhum dos vícios previstos no art. 1.022 do CPC/2015. 3. Os embargos de declaração não se prestam para provocar o reexame de matéria já apreciada. 4. Primeiros embargos de declaração rejeitados. Segundos embargos de declaração não conhecidos. (EDcl no AgRg no AREsp 799.126/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 02/06/2016, DJe 09/06/2016)  grifou-se
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO OPOSTOS ANTES DA PUBLICAÇÃO DO ACÓRDÃO EMBARGADO. AUSÊNCIA DE POSTERIOR RATIFICAÇÃO. APLICAÇÃO ANALÓGICA DA SÚMULA 418/STJ. DUPLICIDADE DE RECURSOS. PRECLUSÃO CONSUMATIVA. PRINCÍPIO DA UNIRRECORRIBILIDADE DAS DECISÕES. EMBARGOS NÃO CONHECIDOS. 1. No que diz respeito aos primeiros embargos de declaração, tem-se que a orientação jurisprudencial desta Corte Superior estabelece que são extemporâneos os embargos opostos antes da publicação do acórdão embargado. Incidência, por analogia, da Súmula 418/STJ. Precedentes. 2. Quanto aos segundos embargos de declaração, tem-se que a oposição de dois aclaratórios pela mesma parte e contra a mesma decisão impede o conhecimento dos embargos opostos por último, haja vista a preclusão consumativa e o princípio da unirrecorribilidade das decisões. 3. Embargos de declaração não conhecidos. (EDcl no AgRg no REsp 1306803/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 11/11/2014, DJe 16/12/2014)  grifou-se
+3. Do exposto, não se conhece do agravo interno de fls. 350/358, e-STJ, e não se conhece do agravo interno de fls. 359/371, e-STJ, por ofensa ao princípio da unirrecorribilidade e preclusão consumativa.
+É como voto.
