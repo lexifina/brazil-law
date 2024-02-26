@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material no decisum embargado.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de embargos de declaração opostos por Marconi Medeiros Marques de Oliveira desafiando acórdão que negou provimento ao agravo interno no agravo em recurso especial, nos seguintes termos (fl. 338):
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. HONORÁRIOS ADVOCATÍCIOS. RPV. LIMITE. VIOLAÇÃO AO ART. 1.022 DO CPC. ARGUMENTAÇÃO GENÉRICA. SÚMULA 284/STF. FUNDAMENTAÇÃO CONSTITUCIONAL. APRECIAÇÃO EM RECURSO ESPECIAL. DESCABIMENTO. LEI LOCAL. EXAME. NECESSIDADE. SÚMULA 280/STF. INCIDÊNCIA.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na espécie, o óbice da Súmula 284 do STF. Precedente.
+2. O Tribunal a quo decidiu a controvérsia com base em fundamentação eminentemente constitucional, matéria insuscetível de ser examinada em sede de recurso especial.
+3. O exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, também exigiria a análise de dispositivos de legislação local, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+4. Agravo interno não provido.
+A parte embargante sustenta a existência de omissões no acórdão, sob a alegação de que "Vossas Excelências foram omissas quanto ao fato de que o juízo fazendário não se manifestou do fundamento de que as leis em vigor devem ser aplicadas de forma imediata nos processos em curso, respeitadas as decisões consolidadas, conforme a previsão contida nos arts. 14 do CPC e 6º da LINDB. Portanto, demonstrada especificadamente a ofensa ao art. 1.022, II, do CPC, e a necessidade de aplicação ao caso vertente da literalidade dos comandos supracitados, tornando-se perfeitamente possível a compreensão da controvérsia, dúvidas não restam acerca do desacerto da decisão atacada.  ..  o acórdão ora combatido também foi omisso quanto à demonstração de que a matéria constitucional invocada no acórdão recorrido foi devidamente arguida no Recurso Extraordinário interposto pelo embargante, no qual, foi apontado a afronta direta ao disposto nos arts. 5º, caput, e 100, §§3º e 4, todos da Constituição Federal, bem como a violação ao precedente firmado no julgamento do Tema 792 do Supremo Tribunal Federal - STF - em razão da sua má aplicação no acórdão recorrido" (fl. 350).
+Aduz que "há omissão quanto à má aplicação da Súmula 280 do STF na espécie, pois não observou-se que não foi invocada qualquer Lei do Distrito Federal nas razões do recurso especial. Diferentemente, a matéria devolvida à essa Col. Corte trata de questões federais, por ser evidente a afronta direta aos artigos 14 do CPC e 6º da LINDB, conforme bem demonstrados nos fundamentos acima delineados. Ora, Excelências, o fato do acórdão recorrido ter invocado a Lei 6.618/2020, não impede o conhecimento do recurso, porque a discussão trazida ao conhecimento da Corte não diz respeito ao seu conteúdo e/ou à sua interpretação, mas sim à sua aplicabilidade imediata ou não, tratando-se de discussão que afeta toda e qualquer norma jurídica, independentemente da sua natureza federal ou local" (fl. 350).
+Impugnação às fls. 358/360.
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material no decisum embargado.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois o aresto embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficou devidamente consignado que "foi deficiente a fundamentação do recurso especial no ponto em que indicada ofensa ao art. 1.022 do CPC, que se fez de forma genérica, sem a demonstração exata dos quesitos nos quais o acórdão se fez omisso, contraditório ou obscuro (fls. 90/97). Assim, é escorreita a decisão agravada ao fazer incidir, na hipótese, o óbice da Súmula 284 do STF.  ..  está correto o decisum ao observar que o Tribunal de origem decidiu a controvérsia com base em fundamentação eminentemente constitucional, circunstância que torna inviável o exame da matéria em sede de recurso especial, bem como o exame da controvérsia tal como enfrentada pelas instâncias ordinárias também exigiria a análise de dispositivos de legislação local, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.")" (fls. 342/343).
+Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente qualquer vício no acórdão embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição do pleito integrativo.
+A propósito:
+EM BARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. VÍCIOS NÃO CONFIGURADOS. PROPÓSITO DE MODIFICAÇÃO DO JULGAMENTO. MEIO IMPRÓPRIO.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC/2015, destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. Não se identifica, no recurso, qualquer ponto sobre o qual era necessária manifestação, mas apenas a discordância da parte com a solução apresentada no julgamento e seu propósito de modificação.
+3. Por contradição entende-se coexistência de afirmações em desacordo no mesmo julgado, gerando ilogicidade ao texto. Mas desse problema não se ressente o julgado.
+4. Embargos de declaração rejeitados, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+(EDcl no AgInt nos EAREsp n. 666.334/RS, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 22/8/2018, DJe 28/8/2018)
+ANTE O EXPOSTO, rejeitam-se os embargos de declaração.
+É o voto.
