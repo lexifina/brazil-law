@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  AÇÃO  INDENIZATÓRIA.  VÍCIO  REDIBITÓRIO.  INVERSÃO  DO  ÔNUS  DA  PROVA.  FATO  CONSTITUTIVO  DO  DIREITO.  COMPROVAÇÃO  MÍNIMA.  NECESSIDADE.  VÍCIO  OCULTO.  INEXISTÊNCIA.  REEXAME  FÁTICO-PROBATÓRIO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.
+1.  Tratam os  autos  do  ônus  da  prova  da  ocorrência  de  vício  redibitório  em  veículo.
+2.  É  pacífico  o  entendimento  do  Superior  Tribunal  de  Justiça  no  sentido  de  que  a  inversão  do  ônus  da  prova  não  implica  a  presunção  imediata  de  veracidade  dos  fatos  alegados  pela  parte,  sendo  necessário  que  tenha  comprovado  minimamente  os  fatos  constitutivos  do  direito  alegado.
+3.  Na  hipótese,  rever  a  conclusão  do  aresto  impugnado  quanto  à  ausência  de  comprovação  do  fato  constitutivo  do  direito  do  agravante,  consistente  na  existência  de  vício  oculto  no  veículo,  demandaria  o  reexame  fático-probatório  dos  autos,  providência  que  encontra  óbice  na  Súmula  nº  7/STJ.
+4.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  de  RUI  JEFERSON  FRISKE  contra  a  decisão  que  conheceu  do  agravo  para  conhecer  parcialmente  do  recurso  especial  e, nessa extensão,  negar-lhe  provimento  (fls.  1.058/1.061,  e-STJ).
+Os  embargos  de  declaração  foram  rejeitados  (fls.  1.075/1.076,  e-STJ).
+Em  suas  razões,  o  agravante  postula  a  reforma  da  decisão  atacada,  argumentando  ,  em  síntese,  que  não  é  o  caso  de  aplicação  das  Súmulas  nºs  7  e  568/STJ.
+Afirma  que  "  a  resolução  do  debate  travado  nos  autos  perpassa,  exclusivamente,  pela  definição  do  ônus  probatório  atribuído  a  cada  uma  das  partes  na  hipótese  de  responsabilidade  civil  do  fornecedor  por  defeito  do  produto"  (fl.  1.088,  e-STJ).
+Defende,  ainda,  que
+"(..) a  majoração  da  condenação  em  honorários  recursais  de  10%  para  15%,  extrapola  o  percentual  máximo  (20%)  previsto  no  art.  85,  §§  2º  e  11,  do  CPC,  visto  que  se  estaria  imputando  um  ônus  no  percentual  de  25%  (vinte  cinco  por  cento)"  (fl.  1.090,  e-STJ).
+Impugnação  apresentada  às  fls.  1.092/1.122  (  e-STJ).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  AÇÃO  INDENIZATÓRIA.  VÍCIO  REDIBITÓRIO.  INVERSÃO  DO  ÔNUS  DA  PROVA.  FATO  CONSTITUTIVO  DO  DIREITO.  COMPROVAÇÃO  MÍNIMA.  NECESSIDADE.  VÍCIO  OCULTO.  INEXISTÊNCIA.  REEXAME  FÁTICO-PROBATÓRIO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.
+1.  Tratam os  autos  do  ônus  da  prova  da  ocorrência  de  vício  redibitório  em  veículo.
+2.  É  pacífico  o  entendimento  do  Superior  Tribunal  de  Justiça  no  sentido  de  que  a  inversão  do  ônus  da  prova  não  implica  a  presunção  imediata  de  veracidade  dos  fatos  alegados  pela  parte,  sendo  necessário  que  tenha  comprovado  minimamente  os  fatos  constitutivos  do  direito  alegado.
+3.  Na  hipótese,  rever  a  conclusão  do  aresto  impugnado  quanto  à  ausência  de  comprovação  do  fato  constitutivo  do  direito  do  agravante,  consistente  na  existência  de  vício  oculto  no  veículo,  demandaria  o  reexame  fático-probatório  dos  autos,  providência  que  encontra  óbice  na  Súmula  nº  7/STJ.
+4.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Nas  razões  do  recurso  especial,  o  agravante  sustentou  que  houve  inversão  do  ônus  da  prova,  sendo  obrigação  das  recorridas  a  comprovação  da  inexistência  de  defeito  no  veículo  em  virtude  da  responsabilidade  objetiva  do  fabricante  pelo  fato  do  produto.
+Entretanto,  o  tribunal  de  origem  dirimiu  a  controvérsia  nos  seguintes  termos:
+"(..)
+No  caso,  em  análise  dos  autos,  conquanto  as  alegações  do  autor,  entende-se  que  não  restou  comprovada  a  existência  de  vício  oculto  no  veículo.
+De  acordo  com  o  recorrente,  as  "diversas  e  reiteradas  reclamações  feitas  junto  à  1º  Apelada  durante  o  período  de  garantia  do  veículo"  servem  como  prova  de  suas  alegações.
+Sucede  que,  as  ordens  de  serviço  apenas  demonstram  as  reclamações  unilaterais  do  autor,  e  em  nada  comprovam  os  defeitos  alegados.  Isto  é,  os  problemas  são  afirmações  do  autor,  que  não  restaram  comprovadas  por  meio  de  prova  técnica.
+Aliás,  em  análise  dos  documentos  (Evento  34,  PROCJUDIC16,  p.  105-135  e  138-157),  mais  especificamente  do  "diagnóstico  produtivo"  dos  serviços  solicitados  pelo  autor  que,  consigna-se,  em  grande  maioria  ocorreram  quando  das  revisões  do  veículo,  constata-se  que  as  reclamações  sequer  eram  encontradas,  certificando-se  a  inexistência  de  anomalias.  E,  nas  ocasiões  em  que  evidenciados  os  defeitos,  foram  efetuados  os  consertos  necessários.
+Outrossim,  a  testemunha  e  o  informante  ouvidos  nos  autos,  de  igual  forma,  afirmaram  que  os  danos  apurados  e,  por  vezes,  consertados,  deram-se  pelo  desgaste  natural  decorrente  do  uso  bem,  o  que  corrobora  a  inexistência  de  vício  oculto.
+Tocante  a  aplicação  do  Código  de  Defesa  do  Consumidor,  têm-se  que  a  inversão  do  ônus  da  prova  não  isenta  o  consumidor  de  provar,  minimamente,  o  fato  constitutivo  do  seu  direito,  de  modo  que  caberia  ao  autor  ter  solicitado,  ao  menos,  produção  de  prova  pericial  para  corroborar  suas  alegações.  A  inversão  do  ônus  probandi  não  implica  "presunção  de  veracidade"  dos  fatos  alegados  pelo  autor.
+(..)
+Não  tendo  feito,  e  inexistindo  elementos  hábeis  a  provar  a  existência  defeitos  no  veículo,  compreende-se  que  não  há  falar  em  reforma  da  sentença.
+Ademais,  os  alegados  defeitos  não  justificariam  a  procedência  dos  pedidos:  são  situações  corriqueira  sem  regime  de  utilização  do  veículo,  especialmente  na  ausência  de  informações  sobre  as  condições  de  sua  (elevada)  rodagem  e  utilização.
+A  ocorrência  de  recall  também  não  se  mostra  hábil  a  determinar  a  troca  do  carro  por  um  novo,  nem  a  devolução  do  dinheiro  pago  anos  antes.  Nem  se  caracteriza  como  dano  moral.
+O  fato  de  uma  das  rés  (vendedora)  ter  dito  que  os  defeitos  "apontados"  seriam  de  responsabilidade  da  outra  (fabricante)  não  significa  admitir  que  seriam  vícios  existentes.  Tampouco  suficientes  para  justificar  a  procedência  da  demanda"  (fls.  876/878,  e-STJ  -  grifou-se).
+De  início,  observa-se  que  a  conclusão  adotada  pelo tribunal  estadual está  em  harmonia  com  a  jurisprudência  desta  Corte  Superior,  firmada  no  sentido  de  que  a  inversão  do  ônus  da  prova  não  implica  a  presunção  imediata  de  veracidade  dos  fatos  alegados  pela  parte,  sendo  necessário  que  tenha  comprovado  minimamente  os  fatos  constitutivos  do  direito  alegado.
+Ademais,  é  inviável  o  afastamento  da  aplicação  da  Súmula  nº  7/STJ,  pois,  tendo  o  tribunal  de  origem  concluído  pela  ausência  de  comprovação  do  fato  constitutivo  do  direito  do  agravante  -  existência  de  vício  oculto  no  veículo  -,  a  modificação  dos  parâmetros  adotados  implicaria  em  reexame  fático-probatório  dos  autos,  procedimento  inadmissível  no  âmbito  do  recurso  especial.
+A  propósito:
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  EXIGIR  CONTAS.  CONTRATO  BANCÁRIO.  FUNDO  157.  VIOLAÇÃO  DO  ART.  1.022  DO  NCPC.  INOCORRÊNCIA.  INVERSÃO  DO  ÔNUS  DA  PROVA.  PROVA  MÍNIMA  DO  FATO  CONSTITUTIVO.  NECESSIDADE.  HARMONIA  ENTRE  O  ACÓRDÃO  RECORRIDO  E  A  JURISPRUDÊNCIA  DO  STJ.  SÚMULA  N.º  568  DO  STJ.  DECISÃO  MANTIDA.  AGRAVO  INTERNO  NÃO  PROVIDO.
+1.  Inexistem  omissão,  contradição  ou  obscuridade,  vícios  elencados  no  art.  1.022  do  NCPC,  sendo  forçoso  reconhecer  que  a  pretensão  recursal  ostentava  caráter  nitidamente  infringente,  visando  rediscutir  matéria  que  já  havia  sido  analisada  pelo  acórdão  vergastado.
+2.  A  inversão  do  ônus  probatório  não  afasta  do  consumidor  o  ônus  de  comprovar  minimamente  o  fato  constitutivo  do  direito.
+3.  O  colegiado  estadual  assentou  que  não  houve  comprovação  mínima  do  fato  constitutivo  do  direito.  A  alteração  do  entendimento  firmado  importaria  em  incursão  fático-probatória  vedada  em  recurso  especial  por  força  da  Súmula  n.º  7  do  STJ.
+4.  Em  se  tratando  de  ação  de  exigir  contas,  a  Segunda  Seção  firmou  a  tese  de  que  constitui  pedido  genérico  a  postulação  de  prestação  de  contas  que  não  indica  o  período  ou  os  lançamentos  sobre  os  quais  haja  dúvidas.
+5.  No  caso  dos  autos,  não  houve  sequer  indicação  dos  valores  investidos,  de  modo  que  não  se  verifica  qualquer  impropriedade  no  acórdão  vergastado,  ao  reconhecer  a  necessidade  de  prova  mínima  do  fato  constitutivo  do  direito.
+6.  Não  sendo  a  linha  argumentativa  apresentada  capaz  de  evidenciar  a  inadequação  dos  fundamentos  invocados  pela  decisão  agravada,  o  presente  agravo  não  se  revela  apto  a  alterar  o  conteúdo  do  julgado  impugnado,  devendo  ele  ser  integralmente  mantido  em  seus  próprios  termos.
+7.  Agravo  interno  não  provido".
+(AgInt  no  AREsp  2.364.259/RS,  Rel.  Ministro  MOURA  RIBEIRO,  Terceira  Turma,  julgado  em  30/10/2023,  DJe  de  3/11/2023).
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.  INVERSÃO  DO  ÔNUS  DA  PROVA.  INDÍCIOS  MÍNIMOS.  FATO  CONSTITUTIVO.  REEXAME  DO  CONJUNTO  FÁTICO-PROBATÓRIO  DOS  AUTOS.  INADMISSIBILIDADE.  SÚMULA  N.  7  DO  STJ.  FALTA  DE  PREQUESTIONAMENTO.  INDICAÇÃO  GENÉRICA  DE  DISPOSITIVO  LEGAL.  FUNDAMENTAÇÃO  DEFICIENTE.  SÚMULA  N.  284  DO  STF.  MATÉRIA  CONSTITUCIONAL.  IMPOSSIBILIDADE  DE  APRECIAÇÃO.  DECISÃO  MANTIDA.
+1.  Inexiste  afronta  ao  art.  1.022  do  CPC/2015  quando  a  Corte  local  pronunciou-se,  de  forma  clara  e  suficiente,  acerca  das  questões  suscitadas  nos  autos,  manifestando-se  sobre  todos  os  argumentos  que,  em  tese,  poderiam  infirmar  a  conclusão  adotada  pelo  Juízo.
+2.  A  pretendida  inversão  do  ônus  da  prova  não  dispensa  que  o  consumidor  prove  a  existência  de  indícios  mínimos  do  fato  constitutivo  de  seu  direito.  Precedentes.
+3.  O  recurso  especial  não  comporta  exame  de  questões  que  impliquem  revolvimento  do  contexto  fático-probatório  dos  autos  (Súmula  n.  7  do  STJ).
+4.  Ausente  o  enfrentamento  da  matéria  pelo  acórdão  recorrido,  inviável  o  conhecimento  do  recurso  especial,  por  falta  de  prequestionamento.  Incidência  das  Súmulas  n.  282  e  356  do  STF.
+5.  A  indicação  do  dispositivo  legal  de  forma  genérica  impede  a  exata  compreensão  da  controvérsia  e  obsta  o  conhecimento  do  recurso  especial  (Súmula  n.  284/STF).
+6.  A  análise  de  suposta  violação  de  dispositivos  constitucionais  é  vedada  em  sede  especial,  sob  pena  de  usurpação  da  competência  do  Supremo  Tribunal  Federal.
+7.  Agravo  interno  a  que  se  nega  provimento".
+(AgInt  nos  EDcl  no  AREsp  1.587.234/RS,  Rel.  Ministro  ANTONIO  CARLOS  FERREIRA,  Quarta  Turma,  julgado  em  9/10/2023,  DJe  de  16/10/2023).
+Por  fim,  no  tocante  aos  honorários  recursais,  o  Superior  Tribunal  de  Justiça  consolidou  o  entendimento  de  ser  devida  a  majoração  da  verba  honorária  sucumbencial,  na  forma  do  art.  85,  §  11,  do  Código  de  Processo  Civil,  quando  estiverem  presentes  os  seguintes  requisitos,  simultaneamente:  (a)  decisão  recorrida  publicada  a  partir  de  18/3/2016,  quando  entrou  em  vigor  o  Código  de  Processo  Civil;  (b)  recurso  não  conhecido  integralmente  ou  não provido,  monocraticamente  ou  pelo  órgão  colegiado  competente  , e  (c)  condenação  em  honorários  advocatícios  desde  a  origem no  feito  em  que  interposto  o  recurso.  Estabeleceu-se,  ainda,  a  necessidade  de  observância  dos  limites  previstos  nos  §§  2º  e  3º  do  art.  85  do  Código  de  Processo  Civil.
+Na  hipótese,  houve  a  majoração  dos  honorários  de  sucumbência  de  10%  (dez  por  cento)  para  15%  (quinze  por  cento)  sobre  o  valor  da  causa,  em  observância  ao  art.  85,  §  11,  do  Código  de  Processo  Civil.
+Assim ,  preenchidos  os  requisitos  para  a  majoração  e  observados  os  limites  percentuais  previstos  no  §  2º  do  art.  85  do  Código  de  Processo  Civil,  os  honorários  recursais  devem  ser  mantidos  nos  termos  da  decisão  monocrática.
+Assim,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
