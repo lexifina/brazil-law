@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 1.022, II, DO CPC. INEXISTÊNCIA. ALEGAÇÕES RECURSAIS DEFICIENTES. SÚMULAS N. 283 E 284 DO STF. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022, II, do Código de Processo Civil quando o tribunal de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido nem negativa de prestação jurisdicional.
+2. Incidem as Súmulas n. 283 e 284 do STF nos casos em que a parte recorrente deixa de impugnar a fundamentação do julgado, limitando-se a apresentar alegações recursais deficientes que não guardam correlação com o decidido nos autos.
+3. Aplicam-se as Súmulas n. 5 e 7 do STJ na hipótese em que o acolhimento das teses defendidas no recurso especial implicar, necessariamente, a intepretação de cláusulas contratuais e o reexame de elementos fático-probatórios dos autos.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que conheceu do agravo para conhecer em parte do recurso especial e negar-lhe provimento ante a incidência das Súmulas n. 5 e 7 do STJ e 283 e 284 do STF.
+Nas razões do presente recurso, a parte agravante sustenta o seguinte (fl. 128):
+Em nenhum momento se discutiu a existência ou inexistência de responsabilidade da empresa seguradora, mas sim a necessidade da sua participação no processo juntamente com o seu segurado, ora agravante.
+O direito do agravante de se valer dos institutos da denunciação da lide, caso afastada a incidência do Código de Defesa do Consumidor, ou chamamento ao processo, caso se considere a relação de consumo, é que foi violado e não a existência de responsabilidade da empresa seguradora.
+Independente da legislação aplicada, Código de Processo Civil ou Código de Defesa do Consumidor, é garantido ao agravante que a empresa seguradora faça parte do polo passivo da demanda.
+Daí decorre a alegada violação ao art. 1.022 do Código de Processo Civil, vez que o v. acórdão recorrido por meio do especial reconheceu a existência da contratação de seguro pelo agravante, mas negou o ingresso da empresa seguradora no polo passivo da ação indenizatória.
+Não se trata também de necessidade de manifestação sobre todas as alegações expendidas no recurso, mas sim da correta aplicação do disposto no art. 125, inciso II do Código de Processo Civil ou do art. 101, inciso II do Código de Defesa do Consumidor.
+Alega que (fl. 131):
+Tanto é verdade que o recurso especial e o agravo em recurso especial foram devidamente conhecidos pela r. decisão monocrática, sendo que em caso de aplicação das Súmulas 283 e 284 do E. Supremo Tribunal Federal, este teria o seu conhecimento prejudicado.
+Afirma que (fl. 132):
+Em verdade, o que busca o agravante é o reconhecimento do seu direito de incluir no polo passivo da ação indenizatória a empresa que prestava seguro ao estacionamento no qual houve um suposto furto.
+Trata-se, portanto, de matéria estritamente de direito, relacionada à correta aplicação da Lei Federal, em especial o disposto no art. 125, inciso II do Código de Processo Civil ou no art. 101, inciso II do Código de Defesa do Consumidor.
+Não é necessária análise de contratos ou documentos, bem como não é necessário o reexame de matéria fático-probatória, vez que não se discute a responsabilidade da empresa seguradora, mas sim o direito do agravante em denunciar a lide ou chamar ao processo a empresa seguradora.
+Foi reconhecido pelo v. acórdão recorrido por meio do especial que o estacionamento administrado pelo agravante era segurado pela empresa Tokio Marine. Logo, a sua inclusão no polo passivo da ação indenizatória é garantida, seja pela Lei Processual Civil, seja pelo Código de Defesa do Consumidor.
+Requer, assim, o provimento do agravo interno.
+Impugnação pela parte agravada às fls. 151-157.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 1.022, II, DO CPC. INEXISTÊNCIA. ALEGAÇÕES RECURSAIS DEFICIENTES. SÚMULAS N. 283 E 284 DO STF. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022, II, do Código de Processo Civil quando o tribunal de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido nem negativa de prestação jurisdicional.
+2. Incidem as Súmulas n. 283 e 284 do STF nos casos em que a parte recorrente deixa de impugnar a fundamentação do julgado, limitando-se a apresentar alegações recursais deficientes que não guardam correlação com o decidido nos autos.
+3. Aplicam-se as Súmulas n. 5 e 7 do STJ na hipótese em que o acolhimento das teses defendidas no recurso especial implicar, necessariamente, a intepretação de cláusulas contratuais e o reexame de elementos fático-probatórios dos autos.
+4. Agravo interno desprovido.
+VOTO
+A decisão agravada adotou a fundamentação a seguir (fls. 117-121):
+O recurso não deve prosperar.
+No caso, a Corte de origem analisou as questões apresentadas e concluiu o seguinte (fls. 31-32):
+Contudo, no presente caso, sobreleva o fato de que o agravante já acionou a seguradora na esfera administrativa visando ao ressarcimento dos prejuízos sofridos pelos agravados em razão dos fatos aqui noticiados, cujo pleito foi por ela negado, nos seguintes termos: "De acordo com as informações contidas no aviso de sinistro e conforme levantamento auxiliares, a presente reclamação de prejuízos, refere-se ao furto do veículo de colecionador Ford Jeep 1966 de PlacasCQJ3992 por pessoa desconhecida que se passou por proprietário sendo liberado pelo estacionamento a retirada do veículo. Ressaltamos que não foi apresentado o contrato de mensalista, ticket eletrônico e filmagens de permanência do veículo no local segurado. Concluímos após análise inicial que o evento não encontra-se amparado na apólice de seguro.." (fls. 161/162 dos autos principais).
+Nesse contexto, sendo questionável o direito à indenização securitária ante a negativa do próprio fornecedor quanto à ocorrência de furto do veículo no estabelecimento comercial (conforme se extrai do teor da contestação de fls. 129/155 do processo original), e considerando que a inclusão da seguradora no polo passivo da demanda certamente causaria um retardamento na solução do conflito envolvendo os consumidores, de rigor a manutenção da decisão de primeiro grau.
+No tocante à aventada contrariedade ao art. 1.022, I e II, do Código de Processo Civil (item a), não assiste razão ao recorrente, porquanto o Tribunal a quo examinou e concluiu que (fl. 32):
+ .. sendo questionável o direito à indenização securitária ante a negativa do próprio fornecedor quanto à ocorrência de furto do veículo no estabelecimento comercial  ..  a inclusão da seguradora no polo passivo da demanda certamente causaria um retardamento na solução do conflito envolvendo os consumidores  .. .
+Desse modo, as questões que delimitam a controvérsia foram analisadas pela Corte de origem, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido nem negativa de prestação jurisdicional.
+Ademais, o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Confiram-se ainda os seguintes julgados: REsp n. 1.829.231/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/10/2020, DJe de 1º/12/2020; AgInt no AREsp n. 1.736.385/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/11/2020, DJe de 2/12/2020; e AgInt no REsp n. 2.009.055/AM, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/10/2022, DJe de 18/10/2022.
+No que se refere à alegada violação dos arts. 125, II, do Código de Processo Civil e 101, II, do Código de Defesa do Consumidor (item b), o Tribunal de origem consignou que (fl. 32):
+ ..  sendo questionável o direito à indenização securitária ante a negativa do próprio fornecedor quanto à ocorrência de furto do veículo no estabelecimento comercial  ..  a inclusão da seguradora no polo passivo da demanda certamente causaria um retardamento na solução do conflito envolvendo os consumidores  .. .
+Todavia, o agravante em momento algum rebateu os fundamentos do acórdão recorrido, suficientes para a manutenção do julgado - sobre a negativa de responsabilidade na via administrativa por parte da seguradora -, o que atrai a incidência das Súmulas n. 283 e 284 do STF.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PESSOA JURÍDICA. BAIXA NA JUNTA COMERCIAL. PERSONALIDADE JURÍDICA. EXTINÇÃO. LEGITIMIDADE PASSIVA. INEXISTÊNCIA. SÚMULAS N. 7 E 83 DO STJ. LIQUIDAÇÃO COMPLETA DA EMPRESA. SÚMULAS N. 282 E 356 DO STF. FUNDAMENTO NÃO OBJETADO. SÚMULA N. 283/STF. DECISÃO MANTIDA.
+ ..
+4. A subsistência de fundamento jurídico não objetado obsta o conhecimento do recurso especial, a teor da Súmula n. 283 do STF.
+5. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.080.338/PE, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 3/4/2023, DJe de 10/4/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA. ERRO MATERIAL. INCLUSÃO DE PARCELAS DEVIDAS A EXEQUENTE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. COISA JULGADA. TRANSCURSO DO PRAZO DECADENCIAL PARA DESCONSTITUIR O JULGADO. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO. SÚMULA 283/STF.
+ ..
+4. A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+5. Agravo interno não provido. (AgInt no REsp n. 2.016.002/PE, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 17/4/2023, DJe de 19/4/2023.)
+Ademais, a pretensão de novo pronunciamento a respeito da conclusão realizada pela Corte de origem implicaria análise contratual e de documentos, bem como o reexame de matéria fático-probatória dos autos, medidas inviáveis em recurso especial, em face do óbice das Súmulas n. 5 e 7 do STJ.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA C/C INDENIZATÓRIA. NEGÓCIO JURÍDICO. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. LEGITIMIDADE PASSIVA. RESSARCIMENTO DE VALORES. REVISÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido e a decisão agravada pronunciam-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos e interpretação de cláusula contratual (Súmulas n. 5 e 7 do STJ).
+3. No caso concreto, o Tribunal de origem analisou a prova dos autos e o contrato celebrado para concluir pela ilegitimidade passiva dos réus quanto à obrigatoriedade de pagar os encargos cobrados pelos autores. Alterar tal conclusão é inviável em recurso especial.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.030.561/SC, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 20/6/2022, DJe de 27/6/2022.)
+Confiram-se ainda os seguintes julgados: AgRg no AREsp n. 751.139/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 1º/4/2019, DJe de 9/4/2019; e AgInt no AREsp n. 1.285.965/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 24/8/2020, DJe de 28/8/2020.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Considerando tais razões de decidir e a argumentação recursal ora exposta, a irresignação não reúne condições de êxito.
+No recurso especial, a parte ora agravante apontou violação dos arts. 125, II, e 1.022, I e II, do Código de Processo Civil; e 101, II, do Código de Defesa do Consumidor.
+Da análise dos fundamentos do acórdão de origem, bem se vê que a sugerida contrariedade ao art. 1.022, I e II, do CPC não haveria mesmo de prosperar, visto que as questões essenciais à solução da demanda foram devidamente apreciadas pela Corte de origem, com a correspondente emissão de juízo objetivo e motivado, sem incorrer em nenhum dos vícios previstos nas referidas normas processuais.
+Quanto à suposta violação dos arts. 125, II, do Código de Processo Civil e 101, II, do Código de Defesa do Consumidor (item b), o Tribunal a quo concluiu que a inclusão da seguradora no polo passivo da demanda causaria um retardamento na solução do conflito envolvendo os consumidores.
+No entanto, a parte agravante, em momento algum, rebateu o fundamento do acórdão recorrido, fundado na negativa de responsabilidade na via administrativa por parte da seguradora, o que atrai, efetivamente, a incidência das Súmulas n. 283 e 284 do STF.
+A propósito, o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE DEU NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DAS PARTES RÉS.
+1. As questões trazidas à discussão foram dirimidas pelo Tribunal de origem de forma suficientemente ampla, fundamentada e sem omissões. Deve ser afastada a alegada violação aos arts. 489, § 1º, IV e 1.022 do CPC/15.
+2. Para derruir as conclusões do Tribunal de piso e acolher o inconformismo recursal no sentido de verificar qual a natureza da pretensão da autora na demanda, bem assim a ocorrência da alegada prescrição, segundo as alegações vertidas nas razões do apelo extremo, seria imprescindível a análise de cláusulas contratuais e o revolvimento de matéria fática, providências vedadas na via estreita do recurso especial, ante o óbice das Súmulas 5 e 7/STJ.
+3. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõem o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes. 3.1. Seria imprescindível derruir a afirmação do Órgão de origem, no sentido da demonstração dos danos morais, o que, forçosamente, ensejaria em rediscussão de matéria fática, com o revolvimento das provas juntadas ao processo, incidindo, na espécie, o óbice da Súmula 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+4. Agravo interno desprovido. (AgInt no AREsp n. 2.083.957/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 29/8/2022, DJe de 1º/9/2022, destaquei.)
+Reitere-se, ademais, que, considerando as normas legais indicadas no apelo extremo e diante das conclusões delineadas pelo Tribunal a quo, que foram objeto de transcrição na decisão ora impugnada, a aplicação das Súmulas n. 5 e 7 do STJ é medida que se impôs, pois o acolhimento das teses defendidas no recurso especial implicaria, necessariamente, a interpretação de cláusulas contratuais e o reexame de elementos fático-probatórios constantes dos autos, medidas inadmissíveis nesta instância superior .
+Portanto, a parte recorrente não logrou êxito em apresentar argumentos suficientes que justificassem a alteração do decisum agravado, que deve ser mantido por seus próprios fundamentos .
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
