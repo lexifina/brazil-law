@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ÔNUS DA PROVA. ART. 373 DO CPC. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. QUANTIA INFERIOR A 40 SALÁRIOS MÍNIMOS. IMPENHORABILIDADE. PRESUNÇÃO. IRRELEVÂNCIA DO TIPO DE APLICAÇÃO.
+1. Observa-se que o Tribunal de origem, ao negar provimento ao agravo de instrumento, limitou-se a abordar a questão da impenhorabilidade de valores até 40 salários mínimos, com expresso apontamento quanto à irrelevância de tal valores estarem em conta poupança, conta corrente ou mesmo investimento, sem abordar a específica questão do ônus da prova, com debate de tal questão à luz do art. 373 do CPC. Incidência da Súmula n. 211/STJ.
+2. O art. 833, X, CPC prevê, textualmente, a impenhorabilidade de valores abaixo de 40 salários mínimos depositados em caderneta de poupança. Todavia, há entendimento dominante nesta Corte acerca da impenhorabilidade dos depósitos inferiores a 40 salários mínimos em qualquer tipo de aplicação.
+3. Ao contrário do que insiste a parte agravante, a impenhorabilidade é regra presumida, que autoriza inclusive seu desbloqueio de ofício pelo magistrado, posto tratar-se matéria de ordem pública, e independentemente de manifestação da parte executada, cabendo ao exequente a demonstração de eventual abuso, má-fé ou fraude para legitimar a excepcional constrição.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por RIO PARANÁ COMPANHIA SECURITIZADORA DE CRÉDITOS FINANCEIROS contra decisão monocrática do Ministro Paulo de Tarso Sanseverino que conheceu do agravo para negar provimento ao recurso especial (fls. 171-176).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal contra acórdão proferido pelo TRIBUNAL DE J USTIÇA DO ESTADO DO PARANÁ assim ementado (fl. 55):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE FINANCIAMENTO. DECISÃO INTERLOCUTÓRIA QUE RECONHECEU A IMPENHORABILIDADE DOS VALORES PENHORADOS EM CONTA POUPANÇA E DEFERIU O SEU DESBLOQUEIO.
+RECURSO DO EXEQUENTE. ALEGAÇÃO DE POSSIBILIDADE DE PENHORA DOS VALORES BLOQUEADOS. PARTE EXECUTADA QUE NÃO COMPROVOU NÃO HAVER MOVIMENTAÇÃO TÍPICA DE CONTA CORRENTE. IRRELEVÂNCIA. VERBAS BLOQUEADAS IMPENHORÁVEIS ATÉ O LIMITE DE 40 (QUARENTA) SALÁRIOS MÍNIMOS. AMPLIAÇÃO DO ALCANCE DA REGRA DA IMPENHORABILIDADE DAS CONTAS POUPANÇAS ÀS CONTAS CORRENTES, CONTAS SALÁRIOS E ATIVOS FINANCEIROS. PRECEDENTES DA SEGUNDA SEÇÃO DO STJ. LIMITE DE 40 SALÁRIOS MÍNIMOS. ART. 833, X, DO CPC. INEXISTÊNCIA DO REQUISITO DE AUSÊNCIA DE MOVIMENTAÇÃO. DECISÃO QUE DETERMINOU O DESBLOQUEIO MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+Rejeitados os embargos de declaração opostos na origem (fls. 72-76).
+Nas razões do recurso interno, a agravante aduz a inaplicabilidade da Súmula n. 282/STF à alegação de afronta ao art. 373, II, do CPC, visto que a questão do ônus da prova teria sido debatida no acórdão recorrido, preenchendo, consequentemente, o requisito do prequestionamento.
+No mais, reitera alegação de que os valores depositados em conta poupança são cabíveis de penhora, em especial porque caracterizada movimentação típica de conta corrente, o que afastaria a caracterização de impenhorabilidade prevista no art. 833, X, do CPC.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, submeta-se o presente agravo à apreciação da Turma.
+Os agravados não apresentaram contrarrazões (fls. 197-198).
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ÔNUS DA PROVA. ART. 373 DO CPC. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. QUANTIA INFERIOR A 40 SALÁRIOS MÍNIMOS. IMPENHORABILIDADE. PRESUNÇÃO. IRRELEVÂNCIA DO TIPO DE APLICAÇÃO.
+1. Observa-se que o Tribunal de origem, ao negar provimento ao agravo de instrumento, limitou-se a abordar a questão da impenhorabilidade de valores até 40 salários mínimos, com expresso apontamento quanto à irrelevância de tal valores estarem em conta poupança, conta corrente ou mesmo investimento, sem abordar a específica questão do ônus da prova, com debate de tal questão à luz do art. 373 do CPC. Incidência da Súmula n. 211/STJ.
+2. O art. 833, X, CPC prevê, textualmente, a impenhorabilidade de valores abaixo de 40 salários mínimos depositados em caderneta de poupança. Todavia, há entendimento dominante nesta Corte acerca da impenhorabilidade dos depósitos inferiores a 40 salários mínimos em qualquer tipo de aplicação.
+3. Ao contrário do que insiste a parte agravante, a impenhorabilidade é regra presumida, que autoriza inclusive seu desbloqueio de ofício pelo magistrado, posto tratar-se matéria de ordem pública, e independentemente de manifestação da parte executada, cabendo ao exequente a demonstração de eventual abuso, má-fé ou fraude para legitimar a excepcional constrição.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Nada a prover.
+Com efeito, da análise do acordão recorrido, observa-se que o Tribunal de origem, ao negar provimento ao agravo de instrumento, limitou-se a abordar a questão da impenhorabilidade de valores até 40 salários mínimos, com expresso apontamento quanto à irrelevância de tal valores estarem em conta poupança, conta corrente ou mesmo investimento, sem abordar a específica questão do ônus da prova, com debate de tal questão à luz do art. 373 do CPC.
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente, a despeito da oposição dos embargos de declaração.
+Assim, incide no caso o enunciado da Súmula n. 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+Nesse sentido, cito:
+5. A simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 do STF e 211 do STJ.
+(AgInt nos EDcl no REsp n. 1.993.188/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 17/10/2022.)
+2. A ausência de debate em torno dos dispositivos tidos como violados impede o conhecimento do recurso especial, a despeito da oposição de embargos de declaração. Súmula nº 211/STJ.
+(AgInt no AREsp n. 1.994.278/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 10/10/2022.)
+1. O conhecimento do recurso especial exige que a tese recursal e o conteúdo normativo apontado como violado tenham sido objeto de efetivo pronunciamento por parte do Tribunal de origem, ainda que em embargos de declaração, o que não ocorreu no caso em tela (Súmula n. 211/STJ).
+1.1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Sua ocorrência se dá quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, situação não verificada na hipótese dos autos.
+(AgInt no AREsp n. 2.131.426/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 18/10/2022.)
+Acrescente-se que se o recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação do art. 1.022 do CPC quando da interposição do recurso especial com fundamento na alínea "a" do inciso III do artigo 105 da Constituição Federal, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Nesse sentido:
+II - A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+III - No caso, malgrado a oposição de embargos declaratórios, o tribunal de origem não analisou, ainda que implicitamente, a tese suscitada.
+IV - Cabe ao Recorrente alegar nas razões de recurso especial afronta ao art. 1.022, do Código de Processo Civil, de forma fundamentada, caso entenda persistir omissão, contradição ou obscuridade no acórdão impugnado, possibilitando, assim, a análise de eventual negativa de prestação jurisdicional, sob pena de não conhecimento da matéria por ausência de prequestionamento, como ocorreu no presente caso.
+(AgInt no REsp n. 2.002.305/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 30/11/2022.)
+1. O Tribunal a quo não emitiu juízo de valor sobre a tese referente à inversão dos ônus sucumbenciais. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados na instância de origem, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ. Caberia à parte, em seu Apelo Nobre, alegar violação do art. 1.022 do CPC/2015, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado, o que não foi feito.
+(AgInt no AREsp n. 2.104.649/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 30/9/2022.)
+No mais, cabe reiterar as bem lançadas palavras do saudoso Ministro Paulo de Tarso Sanseverino, que detidamente analisou a questão consoante a jurisprudência do STJ, destacando que "na vigência do antigo estatuto processual, o art. 649 já previa a proteção da segurança alimentar e de provimentos do devedor e de sua família", de modo que (fl. 174):
+Após a reforma em 2006, a proteção ficou ainda mais explícita com a previsão no inciso X do art. 649 da impenhorabilidade das poupanças até 40 salários mínimos, também previsto no atual instituto processual (art. 833, X, do CPC/2015), sendo este o valor considerado pelo legislador como apto a ensejar um padrão de vida digno mínimo ao devedor e a sua família, assegurando-lhe bens indispensáveis à preservação do mínimo existencial.
+Registre-se, por oportuno que, apesar de a legislação processual fazer menção de valor em caderneta de poupança, o quantum pode estar depositado ou aplicado em outros tipos de contas ou investimentos, como conta corrente e fundos de investimentos.
+No mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. IMPENHORABILIDADE. POUPANÇA. LIMITE.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, são impenhoráveis os valores poupados pelo devedor, seja em caderneta de poupança, conta-corrente, fundo de investimentos ou em papel-moeda, até o limite de 40 salários mínimos.
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.958.459/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 17/11/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. IMPENHORABILIDADE. PENHORA DE VALORES DEPOSITADOS EM CONTA BANCÁRIA. IMPENHORABILIDADE QUE SE ESTENDE ATÉ O LIMITE DE 40 SALÁRIOS MÍNIMOS, INDEPENDENTEMENTE SE MANTIDOS EM CONTA CORRENTE, POUPANÇA OU FUNDOS DE INVESTIMENTOS. ART. 833, X, DO CPC/2015. AGRAVO INTERNO PROVIDO PARA, EM RECONSIDERAÇÃO, CONHECER DO AGRAVO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Nos termos da jurisprudência do STJ, "a proteção prevista no art. 833, X, do CPC não se dirige apenas ao saldo imobilizado em caderneta de poupança, de modo que a impenhorabilidade até o valor de 40 salários mínimos não faz distinção entre poupança, conta corrente, fundos de investimento, ou guardados em papel-moeda" (AgInt no REsp 1.229.639/PR, Relator Ministro MARCO BUZZI, Quarta Turma, julgado em 11/10/2016, DJe de 20/10/2016).
+2. Agravo interno provido, em juízo de reconsideração, a fim de conhecer do agravo para dar provimento ao recurso especial.
+(AgInt no AREsp n. 2.353.344/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/9/2023.)
+E, ao contrário do que insiste a parte agravante, a impenhorabilidade é regra presumida, que autoriza inclusive seu desbloqueio de ofício pelo magistrado, posto tratar-se matéria de ordem pública, e independentemente de manifestação da parte executada, cabendo ao exequente a demonstração de eventual abuso, má-fé ou fraude para legitimar a excepcional constrição .
+Neste sentido:
+2. No caso concreto, o acórdão embargado incidiu em omissão ao deixar de consignar que a proteção conferida pela regra da impenhorabilidade de valor até 40 (quarenta) salários mínimos abrange todos os valores depositados em conta corrente, poupança ou em outras aplicações financeiras, ressalvada a comprovação de má-fé, abuso de direito ou fraude, e que a simples movimentação atípica não é capaz de caracterizar má-fé ou fraude por parte do devedor.
+(EDcl no AgInt no REsp n. 2.048.250/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 7/12/2023.)
+1. De acordo com a jurisprudência firme desta Corte Superior, é impenhorável a quantia de até quarenta salários mínimos depositada em conta-corrente, aplicada em caderneta de poupança ou outras modalidades de investimento, exceto quando comprovado abuso, má-fé ou fraude. Precedentes.
+2. O disposto no art. 854, § 3º, I, do CPC/2015, não afasta o entendimento consolidado no Superior Tribunal de Justiça de que os valores inferiores a 40 salários-mínimos são presumidamente impenhoráveis, podendo tal impenhorabilidade ser declarada de oficio pelo juiz, por ser matéria de ordem pública.
+(AgInt no AREsp n. 2.151.896/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 5/12/2023.)
+II - É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual os valores inferiores a 40 salários-mínimos são impenhoráveis, ressalvado o direito de a exequente demonstrar eventual abuso, má-fé ou fraude.
+III - Sustentada nessa presunção de impenhorabilidade, que transfere à parte contrária o dever da impugnação, e no entendimento de que a impenhorabilidade é matéria de ordem pública, a orientação desta Corte evoluiu para afastar a nulidade de julgado do tribunal a quo que indefere o bloqueio de ativos financeiros ou determina a liberação dos valores constritos, independentemente da manifestação da parte executada.
+(AgInt no REsp n. 2.097.080/RS, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 17/11/2023.)
+Assim, da leitura da petição de agravo interno não se extrai argumentação relevante apta a infirmar os fundamentos da decisão ora agravada.
+Dessarte, nada havendo a retificar ou esclarecer na decisão agravada, deve ela ser mantida.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
