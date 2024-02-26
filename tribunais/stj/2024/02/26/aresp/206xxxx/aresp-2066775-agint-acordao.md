@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos o s argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 733/740) interposto contra decisão desta relatoria, que negou provimento ao agravo em recurso especial (e-STJ fls. 726/729).
+Em suas razões, a parte alega que, "diferentemente do que aponta a r. decisão, o que o Agravante pretende não é discutir os meios de devolução do veículo, e sim a ausência de manifestação do V. Acórdão com relação à violação ao art. 492 do Código de Processo Civil, na medida que foi condenado na obrigação de fazer de retirada do veículo não pleiteada pelo Recorrido. Em face disso, deve ser reformada a r. decisão agravada para que seja reconhecida a irrefutável violação ao artigo 1022 do Código de Processo Civil, remetendo-se os autos ao E. Tribunal a quo a fim de que sejam sanados os vícios apontados" (e-STJ fl. 737).
+Afirma que "não há necessidade de reexame de provas, até porque nem foram produzidas; trata-se de simples análise de transcrição realizada do próprio v. Acórdão recorrido. Nesse sentido, a análise por esta Colenda Corte sobre a legitimidade do Banco Agravante com relação aos danos morais, materiais e lucros cessantes decorrente de ato praticado exclusivamente por terceiro que não integra a lide dispensa qualquer incursão em acervo fático probatório" (e-STJ fl. 738).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (e-STJ fls. 745/750).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos o s argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 726/729):
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência da Súmula n. 7 do STJ (e-STJ fls. 478/482).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 320):
+APELAÇÃO CÍVEL. AÇÃO DE ANULAÇÃO DE NEGÓCIO JURÍDICO C/C DANOS MORAIS E MATERIAIS. VEÍCULO ARREMATADO EM LEILÃO. DOCUMENTO NÃO ENTREGUE PELO RESPONSÁVEL. PRELIMINARES DE NULIDADE DA SENTENÇA E DE ILEGITIMIDADE PASSIVA. REJEIÇÃO. TRANSFERÊNCIA DE PROPRIEDADE NÃO REALIZADA PARA O NOME DO ADQUIRENTE. PRAZO DE 40 DIAS PARA ENTREGA DO DOCUMENTO. DESCUMPRIMENTO CONTRATUAL. CONFIGURAÇÃO. CABIMENTO. DANOS MATERIAIS E MORAIS MANTIDOS.
+1. A responsabilidade do banco reside do fato de que, como proprietário do bem posto em leilão, não cumpriu com o que se comprometeu contratualmente, praticando ato ilícito passível de reparação ao deixar de entregar a documentação no prazo estabelecido;
+2. Fixado os honorários advocatícios em 15% sobre o valor da condenação, não há que se falar em desrespeito ao regramento legal, restando inviável qualquer reforma da sentença, no particular;
+3. No respeitante ao arbitramento do dano moral, a lei não fornece ao magistrado critérios de natureza objetiva e uniforme, incumbindo ao julgador arbitrar o valor do importe indenizatório, de forma moderada, que não seja irrisório a ponto de não desestimular o ofensor, e que não seja excessivo a ponto de configurar instrumento de enriquecimento sem causa. Na espécie, o valor de R$ 3.000,00, a título de danos morais não se revela excessivo ou desproporcional, pelo que resolvo mantê-lo, tal como entendeu o juiz quando da prolação da sentença;
+4. Recursos improvidos.
+Os embargos de declaração foram rejeitados (e-STJ fls. 387/396).
+Nas razões do recurso especial (e-STJ fls. 401/417), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte alegou, além de dissídio jurisprudencial, violação dos seguintes dispositivos legais:
+(i) art. 1.022 do CPC/2015, pois "houve omissão com relação à impugnação do Banco Recorrente a respeito da determinação das condições de devolução do veiculo, bem como no que toca às despesas de transporte para a devolução (fls. 185 e seguintes). Note-se que a sentença nesse ponto é extra petita, com clara violação ao art. 492 do Código de Processo Civil, na medida em que condenou o Banco Recorrente na verba de remoção não pleiteada pelo Recorrido" (e-STJ fl. 405),
+(ii) art. 485, VI, do CPC/2015, sob alegação de que "o Recorrente atuou apenas para intermediar a contração da empresa responsável pelo leilão, não havendo de se falar em responsabilização por demora na transferência do veículo.  .. . E mesmo que se entenda pela legitimidade do Recorrente por ser o proprietário do veículo, deve ser reconhecida a sua ilegitimidade com relação aos pedidos de indenização pro danos morais, materiais e lucros cessantes decorrentes da suposta demora na liberação do documento, na medida em que não teve absolutamente nenhuma participação no fato" (e-STJ fls. 406/407),
+(iii) arts. 114 e 115 do CPC/2015, sob o fundamento de que "a anulação do negócio jurídico exige a participação do leiloeiro no polo passivo da relação processual, tendo em vista que pela natureza da relação jurídica controvertida eventual condenação repercutirá na esfera de direitos de terceiros que ainda não integrou a lide, especialmente o leiloeiro que efetuou toda a operação questionada nesses autos" (e-STJ fl. 408), e
+(iv) art. 373, I, do CPC/2015, haja vista que teria ficado "constatado nos autos que os recibos apresentados pelo Recorrido não apresentam qualquer vínculo com o automóvel arrematado no leilão extrajudicial, não se desincumbindo do ônus que lhe cabia" (e-STJ fl. 412).
+No agravo (e-STJ fls. 493/516), afirma-se a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 521/529 (e-STJ).
+É o relatório.
+Decido.
+Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Em relação às condições de devolução do veículo e quanto à tese de decisão extra petita, pois supostamente o banco ter sido condenado na verba de remoção do veículo sem pedido do autor, o Tribunal de origem assim se manifestou (e-STJ fl. 393 - grifei):
+A falta de menção à forma da devolução do veículo pelo embargado não exige maiores esclarecimentos além daqueles já declarados na sentença apelada, confirmada à unanimidade por esta Segunda Câmara. Consta da decisão: "Pago o débito, o autor deverá devolver o veículo Fiat/Tipo 1.6, ano 1994/1994, cor cinza, de placa LAB-3819 ou informar o local onde ele se encontra, indicando nos autos o endereço de retirada". (fls. 81v)
+Note-se que a obrigação do autor é consequencial e está condicionada ao cumprimento, primeiro, daquela imposta ao embargante, de pagamento da condenação pecuniária. Logo, não há razão aqui de deduzirmos e fixarmos modo e meio para a concretização do direito do réu de reaver o veículo, postergado apenas para depois do atendimento da ordem judicial a si imposta, bastando, para tanto, a referência contida no final da sentença.
+Entendo que, quando for o momento, poderá o juiz da causa, no curso do cumprimento de sentença, se for o caso, fixar algumas poucas condições caso seja necessário.
+Quanto ao fato de o veículo encontrar-se em Curitiba/PR, não vejo maiores problemas para sua devolução, como deduziu o embargante, considerando haver naquela cidade agências e/ou similares administrativos do Santander que possa recepcionar o veículo, não se restringindo o local de devolução tão somente ao Recife. Anote-se, outrossim, que a alienação do bem na cidade de Curitiba ocorreu pela conveniência do Banco, que não estava jungido à aliená-lo naquele município.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+No mais, o TJPE afastou as alegações de legitimidade passiva e de litisconsórcio passivo necessário com leiloeiro, pelos seguintes fundamentos (e-STJ fls. 322/323):
+O leiloeiro agiu em mandato da instituição financeira para a realização do leilão, sendo o banco o verdadeiro proprietário e responsável pela entrega da documentação necessária.
+ ..
+Ao contrário dessa desarrazoada tese, a legitimidade do Banco para figurar no polo passivo da presente demanda decorre do fato deste ser proprietário do bem posto em leilão extrajudicial, restando o leiloeiro apenas como mandatário do comitente.
+Modificar o entendimento do acórdão impugnado quanto à legitimidade passiva do banco e a desnecessidade de litisconsórcio necessário com o leiloeiro, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Da mesma forma, eventual conclusão desta Corte Superior em sentido contrário ao das instâncias ordinárias - de que o autor se desincumbiu do seu ônus da prova - exigiria incursão no campo fático-probatório, providência vedada na via especial, conforme o enunciado n. 7 da Súmula do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+Conforme consta da decisão agravada, a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Em relação à tese de julgamento extra petita, por ter sido o banco recorrente condenado na verba de remoção não pleiteada pelo recorrido, o Tribunal de origem esclareceu que "poderá o juiz da causa, no curso do cumprimento de sentença, se for o caso, fixar algumas poucas condições caso seja necessário" (e-STJ fl. 393). E afirmou que a questão da retirada do bem não lhe causa prejuízo, "considerando haver naquela cidade agências e/ou similares administrativos do Santander que possa recepcionar o veículo, não se restringindo o local de devolução tão somente ao Recife. Anote-se, outrossim, que a alienação do bem na cidade de Curitiba ocorreu pela conveniência do Banco, que não estava jungido à aliená-lo naquele município" (e-STJ fl. 393).
+Desse modo, não há falar em violação do art. 1.022 do CPC/2015.
+E por fim, rever a conclusão do acórdão, quanto à legitimidade passiva e a ausência de litisconsórcio passivo necessário, demandaria incursão no campo fático-probatório, providência vedada na via especial, conforme a Súmula n. 7 do STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
