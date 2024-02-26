@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin e Mauro Campbell Marques votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Francisco Falcão.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRECISÊNCIA QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL NA ORIGEM. INEXISTÊNCIA DE CAPÍTULOS AUTÔNOMOS NA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. INTELIGÊNCIA DO ART. 932, III, DO CPC/2015. FUNDAMENTOS DA DECISÃO DA PRESIDÊNCIA NÃO INFIRMADOS.
+AGRAVO INTERNO DESPROVIDO.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em análise, Agravo interno interposto por CELG DISTRIBUICAO S.A. - CELG D, em face de decisão proferida pela Presidência deste Superior Tribunal de Justiça, que não conheceu do Agravo em Recurso Especial interposto pela agravante em razão da inexistência de impugnação específica do seguinte fundamento da decisão de admissibilidade do recurso especial: Súmula 282/STF (fls. 457/459e).
+Em suas razões, a parte alega, em síntese, que "a decisão da Vice-Presidência do TJ/GO (e-STJ fls. 282/284) inadmitiu o recurso especial da recorrente Celg Distribuição S/A -CELG D por aplicação da Súmula nº 7do STJ. Ocorre que, no agravo em recurso especial, foi devidamente impugnado esse fundamento  ..  Em outras palavras, a recorrente/agravante impugnou de especificadamente a suposta incidência da Súmula nº 7 do STJ, ocasião em que argumentou que os pressupostos fáticos do presente caso podem ser extraídos perfeitamente do acórdão recorrido" (fls. 464/466e).
+Não foi apresentada contraminuta ao Agravo interno (fls. 462/468e).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRECISÊNCIA QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL NA ORIGEM. INEXISTÊNCIA DE CAPÍTULOS AUTÔNOMOS NA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. INTELIGÊNCIA DO ART. 932, III, DO CPC/2015. FUNDAMENTOS DA DECISÃO DA PRESIDÊNCIA NÃO INFIRMADOS.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  O Agravo interno não merece provimento.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Como exposto alhures, a decisão da presidência não conheceu do Agravo em Recurso Especial interposto pela agravante em razão da inexistência de impugnação específica do seguinte fundamento da decisão de admissibilidade do recurso especial: Súmula 282/STF; isto, com fulcro no art. 932,III, do CPC/2015 e no art. 253, parágrafo único, I, do RISTJ, além no Enunciado Sumular 182/STJ.
+Não obstante, a parte agravante, ao invés de impugnar especificamente a decisão da presidência, trazendo aos autos, na oportunidade, elementos que comprovassem a impugnação do ponto da decisão de admissibilidade quanto à aplicação da Súmula 282/STF ao recurso especial interposto, optou por atacar a decisão sob a alegação de que houve a devida impugnação do fundamento que aplicou o óbice da Súmula 7/STJ, passando a impressão de que seria desnecessária a impugnação de todos os fundamentos da decisão de admissibilidade do recurso especial.
+Ocorre que, pondo fim à questão, a Corte Especial do STJ pacificou o entendimento de que a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial.
+A propósito, segue ementa do julgado:
+"PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos" (STJ, EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018).
+Nesse contexto, a decisão agravada deve ser mantida, uma vez que permanece a validade dos argumentos que a sustentam e não foram trazidos elementos aptos a desconstituí-la.
+Isso posto, NEGO PROVIMENTO ao Agravo interno.
+É o voto.
