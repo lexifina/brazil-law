@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Volkswagen do Brasil Industria de Veiculos Automotores Ltda. contra decisão de fls. 986/989, por meio da qual julgou prejudicado o seu recurso especial e determinou a devolução dos autos para o juízo de conformação ou a manutenção do acórdão local frente ao que vier a ser decidido pela Excelsa Corte no Tema 1.255/STF.
+Sustenta a parte embargante que "a r. decisão acabou por ser obscura e até mesmo contraditória ao decretar a prejudicialidade do recurso especial da Embargante com o sobrestamento do feito, de modo a aguardar eventual juízo de conformação decorrente da futura conclusão do julgamento do Tema 1255 pelo E. STF" (fl. 1.007).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material. Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão.
+Convém destacar que a decisão prolatada nestes autos foi clara no sentido de que tanto o STF quanto este STJ possuem entendimento tranqüilo de que incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repercussão geral ou repetitivo. Daí a compreensão pela necessidade do cumprimento da norma inserta no art. 1.040 do CPC, ou seja, do rejulgamento por órgão fracionário competente do recurso direcionado à Corte de origem (apelação, agravo de instrumento), se o acórdão estiver em confronto com o posicionamento consolidado em Corte Superior; ou a negativa de seguimento de recurso extraordinário/especial se o acórdão recorrido estiver em conformidade com o precedente firmado.
+Adiante, de rigor a prejudicialidade do apelo no momento, pois insta consignar que de acordo com o artigo 1.041, § 2º, do referido diploma legal, "quando ocorrer a hipótese do inciso II do caput do art. 1.040 e o recurso ve rsar sobre outras questões, caberá ao presidente ou ao vice-presidente do Tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao tribunal superior para julgamento das demais questões", cuja diretriz metodológica, por certo, deve alcançar também aqueles feitos que já tenham ascendido a este STJ.
+No mais, a jurisprudência do STJ, para fins de reconhecimento de ofensa ao art. 1.022 do CPC pelo vício da contradição, só admite aquela interna ao próprio julgado embargado.
+Vejam-se os julgados:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. AUSÊNCIA DE OMISSÕES E DE CONTRADIÇÕES. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. A atribuição de efeitos infringentes, em sede de embargos de declaração, somente é admitida em casos excepcionais, os quais exigem, necessariamente, a ocorrência de qualquer dos vícios previstos no art. 1.022 do CPC/2015.
+2. O vício que autoriza os embargos de declaração é a contradição interna do julgado, não a contradição entre este e o entendimento da parte, nem entre este e o que ficara decidido na instância a quo.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp 1.766.555/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 01/03/2019)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. EMBARGOS DE DIVERGÊNCIA. COMPETÊNCIA. PRETENSÃO DE REDISCUSSÃO DOS FUNDAMENTOS DO ACÓRDÃO EMBARGADO.
+1. Embargos de declaração opostos contra acórdão da Corte Especial que não conheceu de embargos de divergência por ausência de similitude fática entre o acórdão embargado, proferido pela Primeira Turma, e acórdãos proferidos pelas Segunda, Terceira e Sexta Turmas.
+2. Não há que se falar em necessidade de cisão de julgamento dos embargos de divergência na Corte Especial, com remessa à seção, quando o embargante sustenta uma única tese e a suposta divergência também ocorre em relação a julgados de outras seções.
+3. "O vício que autoriza os embargos de declaração é a contradição interna do julgado, não a contradição entre este e o entendimento da parte, nem menos entre este e o que ficara decidido na instância a quo, ou entre ele e outras decisões do STJ" (EDcl no AgRg nos EAREsp 252.613/MG, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 5/8/2015).
+4. Não há omissão em acórdão que, por não conhecer dos embargos de divergência, deixa de se manifestar acerca das divergências alegadas pelo recorrente.
+5. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos aclaratórios (EDcl no AgRg no RE nos EDcl no AgRg no AREsp 490.852/SP, Rel. Ministra Laurita Vaz, Corte Especial, julgado em 26/2/2015, DJe 11/3/2015).
+Embargos de declaração rejeitados.
+(EDcl nos EREsp 667.002/DF, Rel. Ministro Humberto Martins, Corte Especial, DJe 12/03/2019)
+Na espécie, observa-se que a fundamentação da decisão embargada guarda correspondência com a parte dispositiva, não havendo, assim, contradição a solver.
+Diante disso, é forçoso concluir que os embargos declaratórios não podem ser acolhidos, pois os aclaratórios traduzem, na verdade, o inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
