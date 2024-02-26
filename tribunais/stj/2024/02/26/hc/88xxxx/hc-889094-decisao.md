@@ -1,0 +1,78 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de WESLEI DOS SANTOS XAVIER contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, no julgamento da apelação criminal n. 0001741-91.2021.8.08.0050.
+Consta dos autos que o paciente foi incialmente condenado pelo Juízo da 1ª Vara Criminal da Comarca de Viana, que o condenou nas sanções do artigo 33 da Lei 11.343/06, às penas de 06 (seis) anos e 09 (nove) meses de reclusão, além do pagamento de 500 (quinhentos) dias-multa, a ser cumprida no regime inicialmente semiaberto, nos termos da sentença de fls. 18-26.
+O paciente interpôs apelação criminal ao Tribunal de Justiça, que deu parcial provimento ao recurso, para redimensionar as penas para 05 (cinco) anos de 10 (dez) meses de reclusão, e pagamento de multa equivalente a 500 (quinhentos) dias-multa, a ser cumprida no regime inicialmente semiaberto, consoante o acórdão de fls. 09-17.
+Sobreveio a impetração do presente habeas corpus, em que a impetrante alega que o acórdão impugnado padece de flagrante ilegalidade, consistente na desproporcional exasperação da pena-base em 10 meses a partir de fundamentação inidônea.
+Requer a concessão da ordem de modo que seja revisada a dosimetria da pena, com o estabelecimento da pena-base no seu mínimo legal.
+É o relatório. DECIDO.
+Cinge-se a controvérsia acerca de possível ilegalidade flagrante no acórdão combatido, consistente na desproporcional exasperação da pena-base em 10 meses a partir de fundamentação inidônea.
+Para melhor análise da controvérsia, transcrevo os fundamentos do acórdão (fls. 09-17):
+ ..
+Na primeira fase, o magistrado fixou a pena base em 07 (sete) anos de reclusão e multa. Frise-se que o mínimo legal previsto pelo tipo é 05 (cinco)anos de reclusão.
+Fundamentou o magistrado que:
+CULPABILIDADE (extensão da reprovação): a conduta do acusado apresenta reprovabilidade normal a espécie do delito praticado, o que torna a conduta inserida no próprio tipo, nada tendo a se valorar; seus ANTECEDENTES são imaculados, embora exista o registro de duas ações penal anteriores aos fatos (autos nº 0001636-51.2020.8.08.0050 e 0003489-95.2020.8.08.0050). É pacífica a jurisprudência do Superior Tribunal de Justiça no sentido de que inquéritos policiais ou ações penais em andamento, condenados ainda não transitadas em julgado ou ainda condenações por fatos cometidos posteriormente ao feito em análise não podem ser considerados corno maus antecedentes, má conduta social ou personalidade desajustada, sob pena de malferir o princípio constitucional da presunção de não culpabilidade, sendo inclusive, a orientação trazida pelo enunciado na Súmula 444 do STJ, que dita que: É vedada a utilização de inquéritos policiais e de ações penais em curso para agravar a pena-base." (HC nº 431 .283/SP); inexiste estudo social ou perícia efetivada por profissional competente (área de psiquiatria ou psicologia), para atestar as características da PERSONALIDADE do réu; não há dados suficientes a possibilitar uma avaliação acerca da CONDUTASOCIAL do acusado, razão pela qual deixo de ponderá-la para efeitos para fixação da pena; o MOTIVO do crime não destoa daquele normalmente verificado na prática usual do delito, não demonstrando, portanto, maior reprovabilidade da conduta; as CIRCUNSTÂNCIAS do crime não revelam questão que demonstra maior desvalor do ilícito; o ato ilícito não apresentou CONSEQUÊNCIAS além das inerentes à própria prática; sobre o COMPORTAMENTO DA VÍTIMA: neste delito não há necessidade de se auferir o comportamento da vítima.
+Diante de uma leitura do trecho acima, é possível perceber que o magistrado valorou de forma positiva ou neutra todas as circunstâncias judiciais, mas, ainda assim, fixou a pena base acima do mínimo legal.
+ ..
+Logo, é possível a realização de nova análise dos vetores da primeira fase de dosimetria, mesmo que constatada a incongruência acima verificada.
+ ..
+No caso dos autos, nota-se que o apelante foi flagrado com três tipos de drogas diferentes, o que torna a culpabilidade do delito mais elevada. Além disso, duas dessas drogas (cocaína e crack) possuem alto poder viciante, o que revela a natureza mais prejudicial do entorpecente.
+Diante das ponderações acima, entendo que a pena base deve ser mantida no período de 07 (sete) anos de reclusão.
+Considerando os dois vetores, inclusive o fato de que a natureza é circunstância preponderante, não há qualquer desproporcionalidade na manutenção da pena base.
+Na segunda fase, razão assiste à defesa quanto à necessidade de aplicação da atenuante referente à menoridade relativa no patamar de um sexto.
+ ..
+Assim, aplicando a atenuante em um sexto, redimensiono a sanção provisória ao período de 05 (cinco) anos de 10 (dez) meses de reclusão.
+Mantenho o período em definitivo em razão da ausência de agravantes, bem como causas de aumento ou diminuição de pena.
+ ..
+O presente writ foi impetrado contra acórdão do Tribunal de Justiça do Estado do Espírito Santo em substituição a recurso próprio, não podendo ser conhecido.
+Ressalto que a Terceira Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Junior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. WRIT NÃO CONHECIDO. CONCESSÃO DA ORDEM DE OFÍCIO. POSSIBILIDADE. DELITOS DE ROUBO EM CONCURSO MATERIAL. CUMULAÇÃO DE CAUSAS DE AUMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO DESPROVIDO.
+1. Conforme consignado na decisão agravada, o presente habeas corpus não merece ser conhecido, pois foi impetrado em substituição a recurso próprio. Contudo, a existência de flagrante ilegalidade justifica a concessão da ordem de ofício.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 738.224/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/12/2023, DJe de 12/12/2023.)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REDUTOR DO ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE E NATUREZA DAS DROGAS ISOLADAMENTE. ELEMENTOS INSUFICIENTES PARA DENOTAR A HABITUALIDADE DELITIVA DA AGENTE. INCIDÊNCIA NA FRAÇÃO MÁXIMA (2/3). REGIME ABERTO. ADEQUADO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AGRAVO NÃO PROVIDO.
+1. Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+ ..
+6. Agravo regimental não provido.
+(AgRg no HC n. 857.913/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/11/2023, DJe de 1/12/2023.)
+Tendo em vista a possibilidade de concessão da ordem de ofício, em observância § 2º do artigo 654 do Código de Processo Penal, observo que a exasperação da pena-base a partir da variedade de drogas apreendidas (cocaína, crack e maconha), subdivididas em 44 pinos com cocaína, 12 pedras de crack e 01 bucha de maconha, são elementos idôneos para exasperar a pena-base, em atenção ao que dispõe o artigo 42 da Lei 11.343/2006.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. MODULAÇÃO DO REDUTOR DE PENA PREVISTO NO ART. 33, § 4º, DA LEI N. 11.343/2006 EM RAZÃO DAS CIRCUNSTÂNCIAS CONCRETAS DO CASO. CONSIDERAÇÃO DA QUANTIDADE E DA NATUREZA DAS DROGAS NA TERCEIRA FASE DA DOSIMETRIA DA PENA. POSSIBILIDADE. PRECEDENTES DOMINANTES EM AMBAS AS TURMAS E NA 3ª SEÇÃO DESTA CORTE. PENA-BASE APLICADA NO MÍNIMO LEGAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. A jurisprudência desta Corte reafirmou antigo entendimento segundo o qual elementos do caso concreto tais como a quantidade, a variedade e a natureza das drogas apreendidas podem ser utilizados, a critério do magistrado, de forma fundamentada e alternativamente, como fundamento idôneo para exasperar a pena-base, na primeira fase da dosimetria, ou para modular o redutor de pena previsto no art. 33, § 4º, da Lei n. 11.343/2006, na terceira fase, incidindo em fração de diminuição de pena diversa da máxima. Precedentes, inclusive pela Terceira Seção desta Corte.
+2. Agravo regimental a que se nega provimento.
+(AgRg no HC 827631 MT, Relator Ministro REYNALDO SOARES DA FONSECA, Data de Julgamento: 08/08/2023, QUINTA TURMA, DJ-e de 14/08/2023)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS INTERNACIONAL. PENA-BASE. EXASPERAÇÃO. ADEQUAÇÃO. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. No tocante à fixação da pena-base acima do mínimo legal, orienta-se esta Corte Superior de Justiça no sentido de que, nos termos do art. 42 da Lei n. 11.343/2006, " a  quantidade, a natureza e a diversidade de entorpecentes constituem fatores preponderantes para a fixação das penas relacionadas ao tráfico ilícito de entorpecentes" ( HC 456.638/CE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 23/08/2018, DJe 30/08/2018).
+2. In casu, a quantidade e a natureza da droga, no caso, expressam a necessidade de exasperação da pena-base na forma adotada pelas instâncias de origem, sobretudo porque tais fundamentos não foram novamente utilizados na terceira fase da dosimetria da pena. 3. Agravo regimental desprovido.
+(AgRg no AREsp 2073676-SP, Relatora Ministra LAURITA VAZ, Data de Julgamento: 22/08/2023, SEXTA TURMA, DJ-e de 30/08/2023)
+Por outro lado, verifico ilegalidade flagrante na exasperação da pena-base em 02 (dois) anos, porquanto não apresentada motivação a partir da gravidade concreta e de elementos objetivamente considerados.
+A dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+O julgador não está vinculado a rígidos critérios matemáticos para a exasperação da pena-base, pois isso está no âmbito da sua discricionariedade, embora ao fazê-lo deva fundamentar com elementos concretos da conduta do acusado.
+O juiz, na fixação das penas, considerará, com preponderância sobre o previsto no artigo 59 do Código Penal, a quantidade, natureza e diversidade das substâncias ou dos produtos apreendidos, a personalidade e a conduta social do agente.
+Cabe a este Tribunal apenas o controle de legalidade do critério eleito pela Corte local, de modo a averiguar se a pena-base foi estabelecida mediante o uso de fundamentação concreta.
+Assim, o número de porções embaladas para venda e a natureza das drogas (cocaína, crack e maconha), levam à conclusão de maior reprovabilidade da conduta em razão da variedade e não seu do seu peso individualmente considerado, motivo pelo qual a exasperação da pena-base em fração prudencial de 1/6 guarda razão de proporcionalidade à conduta do paciente.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. QUANTIDADE E VARIEDADE DE DROGAS. EXASPERAÇÃO DA PENA-BASE EM 1/6 ACIMA DO MÍNIMO LEGAL. DOSIMETRIA DA PENA. ILEGALIDADE FLAGRANTE NÃO CONFIGURADA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+V - O número de porções embaladas para venda (21 pedras de crack e 6 porções de cocaína) e a natureza da droga (cocaína e crack), além da porção de 51,27g de maconha, levam à conclusão de maior reprovabilidade da conduta em razão da variedade e não seu do seu peso individualmente considerado.
+VI - A exasperação da pena-base em fração prudencial de 1/6, a partir de fundamentação concreta e individualizada, guarda razão de proporcionalidade à conduta do agravante.
+Agravo regimental desprovido.
+(AgRg no HC n. 872.165/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024.)
+ ..
+3. A "jurisprudência desta Corte Superior de Justiça é no sentido de que é proporcional a fração de 1/6 (um sexto) de aumento, calculado a partir da pena mínima abstratamente prevista, para cada vetorial negativa considerada na fixação da pena-base. O aumento superior a tal quantum necessita de fundamentação concreta". (AgRg no HC n. 582.739/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 9/3/2021, DJe 15/3/2021). Assim, havendo fundamento concreto para exasperação acima da fração de 1/6, como no caso, não se verifica ilegalidade passível de correção.
+ ..
+6. Agravo regimental improvido.
+(AgRg no HC n. 803.920/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+Com efeito, passo ao redimensionamento pena.
+1ª etapa: presente a circunstância judicial negativa do artigo 42 da Lei 11.343/2006 - variedade dos entorpecentes apreendidos (cocaína, crack e maconha), exaspero a pena-base no patamar prudencial de 1/6 sobre a pena mínima do delito de tráfico ilícito de entorpecentes, ficando a pena em 05 (cinco) anos e 10 (dez) meses de reclusão, e multa equivalente a 500 (quinhentos) dias-multa, observada a vedação à reformatio in pejus quanto à pena de multa.
+2ª etapa: mantenho o parâmetro da instância originária e aplico a atenuante da menoridade relativa em fração de 1/6, ficando a pena intermediária em 05 (cinco) de reclusão e multa equivalente a 500 (quinhentos) dias-multa, observado o entendimento consubstanciado pela Súmula 231/STJ.
+3ª etapa: mantenho o parâmetro da instância originária, que não reconheceu causas de aumento, nem de diminuição de pena, ficando a pena definitiva em 05 (cinco) de reclusão e multa equivalente a 500 (quinhentos) dias-multa.
+No tocante ao regime inicial prisional, fica mantido o regime inicial semiaberto, apesar da presença de circunstância judicial negativa, de modo a evitar a indevida reformatio in pejus.
+Uma vez constatado que a matéria trazida no presente writ é objeto de jurisprudência consolidada no Superior Tribunal de Justiça, não há nenhum óbice à concessão da ordem liminarmente.
+Na verdade, a ciência posterior do Parquet, longe de suplantar sua prerrogativa institucional, homenageia o princípio da celeridade processual e inviabiliza a tramitação de ações cujo desfecho, em princípio, já é conhecido (EDcl no AgRg no HC 324.401/SP, Relator Ministro GURGEL DE FARIA, 5ª Turma, DJ-e 23/2/2016).
+Em suma, para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica (AgRg no HC 514.048/RS, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 6/8/2019, DJe 13/8/2019).
+Ante o exposto, não conheço do writ, mas concedo em parte a ordem em favor de WESLEI DOS SANTOS XAVIER para redimensionar as penas para 05 (cinco) de reclusão, no regime inicial semiaberto, e multa equivalente a 500 (quinhentos) dias-multa, mantidos os demais termos da condenação.
+Comunique-se a autoridade coatora e o juízo de primeiro grau.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
