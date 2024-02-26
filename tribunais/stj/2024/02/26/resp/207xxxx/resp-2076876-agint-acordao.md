@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. IMPUGNAÇÃO OFERTADA PELA DEVEDORA. PAGAMENTO MEDIANTE EXPEDIÇÃO DE PRECATÓRIO. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. ART. 85, §7º, DO CPC/2015. ACÓRDÃO RECORRIDO CONTRÁRIO AO ENTENDIMENTO DO STJ SOBRE O TEMA.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A Corte de origem assentou o entendimento de que " ..  em se tratando de crédito a ser pago por precatório, não é devida a verba honorária executiva, quer tenha havido ou não impugnação ao cumprimento de sentença, entendimento já firmado na vigência do CPC/73, e que não foi alterado pelo NCPC/15, apesar da ambiguidade da regra prevista no art. 85, §7º".
+3. O entendimento adotado pelo Tribunal de origem diverge da jurisprudência desta Corte, firme no sentido de que "A dispensa da fixação de honorários advocatícios prevista no art. 85, § 7º, do CPC/2015 restringe-se às hipóteses em que a execução não tenha sido impugnada e cujo pagamento ocorra por precatório." (AgInt no REsp 1909929/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 24/2/2022).
+4. No mesmo sentido, as seguintes decisões: REsp 1.883.585/RS, Rel. Min. Francisco Falcão, Data de Publicação em 17/8/2020; REsp 1.880.935/RS, Rel. Min. Benedito Gonçalves, Data de Publicação em 10/8/2020; REsp 1.765.745/RS, Rel. Min. Francisco Falcão, Data de Publicação em 14/2/2020.
+5. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto pelo IPE PREV contra decisão, assim ementada (fl. 1.292):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. IMPUGNAÇÃO OFERTADA PELA DEVEDORA. PAGAMENTO MEDIANTE EXPEDIÇÃO DE PRECATÓRIO. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. ART. 85, §7º, DO CPC/2015. ACÓRDÃO RECORRIDO CONTRÁRIO AO ENTENDIMENTO DO STJ SOBRE O TEMA. RECURSO ESPECIAL PROVIDO.
+O agravante alega que é necessário aplicar a técnica da distinção no presente caso, ao argumento de que "a decisão agravada deu provimento ao recurso especial do recorrente para determinar o arbitramento de honorários advocatícios relativos à execução/cumprimento de sentença, sem considerar a inaplicabilidade do CPC/15 e as regras de direito intertemporal" (fl. 1.301).
+Aduz o Instituto que " ..  considerando-se que a execução, os embargos e a expedição do precatório ocorreram sob a vigência do CPC/1973, não é possível a fixação de honorários advocatícios estabelecidos no CPC/2015 para o cumprimento de sentença, em atenção à irretroatividade da norma processual e o princípio do tempus regit actum, previsto no art. 14 do CPC/2015  .. " (fl. 1.301).
+Ao final, o IPE PREV requer seja conhecido e provido o seu agravo interno, para reformar-se a decisão monocrática, no sentido de não conhecer ou desprover do recurso especial interposto pela parte adversa ou, de forma subsidiária, a condenação ao pagamento de honorários advocatícios reste limitada à parcela controversa do débito, que foi objeto de embargos à execução.
+Com impugnação (fls. 1308-1319).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. IMPUGNAÇÃO OFERTADA PELA DEVEDORA. PAGAMENTO MEDIANTE EXPEDIÇÃO DE PRECATÓRIO. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. ART. 85, §7º, DO CPC/2015. ACÓRDÃO RECORRIDO CONTRÁRIO AO ENTENDIMENTO DO STJ SOBRE O TEMA.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A Corte de origem assentou o entendimento de que " ..  em se tratando de crédito a ser pago por precatório, não é devida a verba honorária executiva, quer tenha havido ou não impugnação ao cumprimento de sentença, entendimento já firmado na vigência do CPC/73, e que não foi alterado pelo NCPC/15, apesar da ambiguidade da regra prevista no art. 85, §7º".
+3. O entendimento adotado pelo Tribunal de origem diverge da jurisprudência desta Corte, firme no sentido de que "A dispensa da fixação de honorários advocatícios prevista no art. 85, § 7º, do CPC/2015 restringe-se às hipóteses em que a execução não tenha sido impugnada e cujo pagamento ocorra por precatório." (AgInt no REsp 1909929/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 24/2/2022).
+4. No mesmo sentido, as seguintes decisões: REsp 1.883.585/RS, Rel. Min. Francisco Falcão, Data de Publicação em 17/8/2020; REsp 1.880.935/RS, Rel. Min. Benedito Gonçalves, Data de Publicação em 10/8/2020; REsp 1.765.745/RS, Rel. Min. Francisco Falcão, Data de Publicação em 14/2/2020.
+5. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Na origem, cuida-se de Agravo de Instrumento interposto pela Sucessão de Sueli de Souza Cardoso e Outros nos autos do cumprimento de sentença que promove em desfavor do IPE PREV, em virtude da decisão que indeferiu o pedido de arbitramento de honorários executivos.
+A controvérsia agitada neste recurso especial cinge-se, portanto, quanto à fixação de honorários executivos em vista da interposição de embargos do devedor/impugnação ao cumprimento de sentença, cujo débito importa expedição de precatório.
+Com efeito, conforme consignado por ocasião da decisão monocrática, o Tribunal de origem negou a fixação de honorários advocatícios relativos à propositura da execução, por entender que tal pretensão é incabível em execuções que exijam a expedição de precatório, haja ou não impugnação da Fazenda Pública.
+Confira-se o seguinte trecho do acórdão (fl. 703):
+ ..  em se tratando de crédito a ser pago por precatório, não é devida a verba honorária executiva, quer tenha havido ou não impugnação ao cumprimento de sentença, entendimento já firmado na vigência do CPC/73, e que não foi alterado pelo NCPC/15, apesar da ambiguidade da regra prevista no art. 85, §7º.
+ ..
+No caso, o entendimento adotado pelo Tribunal de origem diverge da jurisprudência desta Corte, firme no sentido de que "não serão devidos honorários no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que não tenha sido impugnada. Ora, a lei processual concede à Fazenda Pública a benesse de não pagar honorários advocatícios nos casos em que ela não se opõem ao cumprimento da obrigação prevista no título executivo. A não ser que se queira ignorar o comando implícito da norma, a interpretação possível é que, oferecida resistência à execução da sentença, por parte da Fazenda, passam a ser devidos os honorários advocatícios, em respeito ao princípio da causalidade. Nesse sentido: AgInt no REsp n. 1.814.321/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 10/12/2019, DJe 19/12/2019 e REsp n. 1.691.843/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 11/2/2020, DJe 17/2/2020" (AgInt no REsp 1889664/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 07/12/2020, DJe 10/12/2020).
+Em reforço:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. ACÓRDÃO COMBATIDO. FUNDAMENTO AUTÔNOMO. IMPUGNAÇÃO AUSÊNCIA. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO.
+1. Inexiste negativa de prestação jurisdicional quando o Tribunal de origem enfrenta os vícios alegados nos embargos de declaração e emite pronunciamento fundamentado, ainda que contrário à pretensão da parte recorrente.
+2. Incidem as Súmulas 283 e 284 do STF, em aplicação analógica, quando não impugnado fundamento autônomo e suficiente à manutenção do aresto recorrido, sendo considerada deficiente a fundamentação do recurso.
+3. A dispensa da fixação de honorários advocatícios prevista no art. 85, § 7º, do CPC/2015 restringe-se às hipóteses em que a execução não tenha sido impugnada e cujo pagamento ocorra por precatório.
+4. Hipótese em que houve impugnação à execução, o que determina a necessidade de fixação de honorários advocatícios.
+5. Agravo interno desprovido.(AgInt no REsp 1909929/SE, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 21/02/2022, DJe 24/02/2022)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO. IMPUGNAÇÃO. PRECATÓRIO. HONORÁRIOS. CABIMENTO.
+1. A dispensa da fixação de honorários advocatícios prevista no art. 85, § 7º, do CPC/2015 restringe-se às hipóteses em que a execução não tenha sido impugnada e cujo pagamento ocorra por precatório.
+2. A contrario sensu, oferecida resistência à execução da sentença, são devidos os honorários advocatícios em atenção ao princípio da causalidade.
+3. Agravo interno desprovido.(AgInt no REsp 1886309/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 08/02/2021, DJe 17/02/2021).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
