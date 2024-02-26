@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL . AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. QUITAÇÃO DO DÉBITO NA VIA ADMINISTRATIVA APÓS O AJUIZAMENTO DA AÇÃO, MAS ANTES DA CITAÇÃO DO EXECUTADO. CABIMENTO DE CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. PROVIMENTO NEGADO.
+1. A extinção da execução fiscal antes da citação do executado em virtude da quitação do débito na via administrativa não afasta a condenação por honorários advocatícios, em homenagem ao princípio da causalidade. Precedentes.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pela ENERGISA TOCANTINS DISTRIBUIDORA DE ENERGIA S.A contra a decisão de minha relatoria de fls. 615/618.
+A parte agravante se insurge contra a condenação ao pagamento de honorários antes da triangularização da relação processual no feito executivo.
+Argumenta, em suma, que, "sem a citação válida do executado, não torna a coisa litigiosa e nem há constituição em mora. Em outras palavras, ausente os requisitos impostos pelo art. 312 para que a demanda produza efeitos à Agravante, sua condenação em honorários é indevida" (fl. 632).
+Requer a reconsideração da decisão agravada ou a apresentação do feito ao órgão colegiado julgador.
+Impugnação apresentada às fls. 646/651.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL . AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. QUITAÇÃO DO DÉBITO NA VIA ADMINISTRATIVA APÓS O AJUIZAMENTO DA AÇÃO, MAS ANTES DA CITAÇÃO DO EXECUTADO. CABIMENTO DE CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. PROVIMENTO NEGADO.
+1. A extinção da execução fiscal antes da citação do executado em virtude da quitação do débito na via administrativa não afasta a condenação por honorários advocatícios, em homenagem ao princípio da causalidade. Precedentes.
+2. Agravo interno a que se nega provimento.
+VOTO
+Em que pese à argumentação expendida nas razões recursais, a parte agravante não trouxe fundamentos hábeis a desconstituir a decisão agravada.
+É  entendimento  desta  Corte  Superior  que  o  pagamento  extrajudicial  do  débito  fiscal  equivale  ao  reconhecimento  da  dívida  executada  e  do  pedido  da  execução,  e,  em  homenagem  ao  princípio  da  causalidade,  leva  o  executado  a  arcar  com  o  adimplemento  integral  das despesas processuais,  por  ter  dado  causa  ao  ajuizamento  da  ação. A propósito:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. CRÉDITO TRIBUTÁRIO. PAGAMENTO ADMINISTRATIVO ANTES DA CITAÇÃO. HONORÁRIOS DE SUCUMBÊNCIA. CABIMENTO. PRINCÍPIO DA CAUSALIDADE.
+1. A orientação jurisprudencial desta Corte superior é a de que "o pagamento extrajudicial do débito fiscal equivale ao reconhecimento da dívida executada e do pedido da execução, e, em homenagem ao princípio da causalidade, leva o executado a arcar com o adimplemento integral dos honorários advocatícios, por ter dado causa ao ajuizamento da ação, consoante previsto nos arts. 85, §§1º, 2º e 10, c/c o art. 90 do CPC/2015" e de que "o simples ajuizamento da execução implicou despesas para a Fazenda exequente, que provocou o Judiciário para cobrança de valores a ela devidos, após a lavratura do auto de infração por conta do inadimplemento do contribuinte", não podendo a exequente "ser prejudicada pelo exercício de um direito legítimo, qual seja, a propositura da execução fiscal para cobrança de débito fiscal líquido e certo, sendo impositiva a aplicação do ônus de sucumbência ao executado que confessou, reconheceu e pagou o débito" (REsp 1.931.060/PE, rel. Ministro Manoel Erhardt (desembargador convocado do TRF5), Primeira Turma, julgado em 14/09/2021, DJe de 23/09/2021).
+2. Agravo interno desprovido.
+(AgInt no REsp n. 2.068.074/GO, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. PRINCÍPIO DA CAUSALIDADE. QUITAÇÃO DO DÉBITO PELO EXECUTADO ANTES DA SUA CITAÇÃO. CONDENAÇÃO AO PAGAMENTO DAS CUSTAS E HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE.
+I - Na origem, o presente feito decorre de execução fiscal objetivando que seja pago valor referente a crédito tributário consignado em CDA. Após infrutífera tentativa de citação, o ente munícipe peticionou requerendo a extinção do feito e a condenação da executada em honorários advocatícios, em razão do pagamento extrajudicial do débito. Por sentença, julgou-se improcedente o pedido de honorários. No Tribunal a quo, a sentença foi mantida II - A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que são devidos honorários advocatícios pela parte executada à Fazenda Pública na hipótese de a execução fiscal ser extinta em decorrência do pagamento extrajudicial do crédito tributário, realizado posteriormente ao ajuizamento do feito, ainda que efetuado antes da citação da contribuinte. In verbis: REsp 1.854.592/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/3/2020, DJe 31/8/2020; AgInt no AgInt no REsp 1.425.138/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 13/8/2019, DJe 16/8/2019 e AgInt no AREsp 1.067.906/PE, relator Ministro Og Fernandes, Segunda Turma, julgado em 5/12/2017, DJe 13/12/2017.
+III - Recurso especial provido.
+(REsp n. 1.994.500/ES, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/3/2023, DJe de 10/3/2023.)
+ A  Primeira  Turma,  por  ocasião  do  julgamento  do  REsp  1.931.060/PE,  na  sessão  realizada  em  14/9/2021,  reafirmou  o  entendimento  de  que,  embora  "ausente a triangulação da relação jurídica, o simples ajuizamento da execução implicou despesas para a Fazenda exequente, que provocou o Judiciário para cobrança de valores a ela devidos, após a lavratura do auto de infração por conta do inadimplemento do contribuinte. Logo, a Fazenda exequente não pode ser prejudicada pelo exercício de um direito legítimo, qual seja, a propositura da execução fiscal para cobrança de débito fiscal líquido e certo, sendo impositiva a aplicação do ônus de sucumbência ao executado que confessou, reconheceu e pagou o débito".  No  mesmo  sentido,  cita-se  o seguinte julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PAGAMENTO EM MOMENTO POSTERIOR AO AJUIZAMENTO E ANTERIOR À CITAÇÃO. NÃO CABIMENTO DE CONDENAÇÃO DA PARTE EXECUTADA EM HONORÁRIOS.
+1. "Não cabimento de condenação em honorários da parte executada para pagamento do débito executado em momento posterior ao ajuizamento e anterior à citação, em decorrência da leitura complementar dos princípios da sucumbência e da causalidade, e porque antes da citação não houve a triangularização da demanda" (REsp n. 1.927.469/PE, de minha relatoria, Segunda Turma, DJe de 13/9/2021).
+2. Na satisfação do débito administrativo, após o ajuizamento da execução, se a Fazenda Pública não cobrou a verba honorária nem sequer fez ressalva alguma a esse título, a aceitação do pagamento (integral) constitui renúncia aos consectários, inclusive eventuais honorários.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.875.947/PE, relator Ministro Og Fernandes, Segunda Turma, julgado em 9/11/2021, DJe de 10/12/2021.)
+Diante dessas considerações , nego provimento ao agravo interno.
+É o voto.
