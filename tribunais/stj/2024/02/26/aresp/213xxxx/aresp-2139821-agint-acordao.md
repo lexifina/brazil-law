@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. LEGITIMIDADE ATIVA. QUESTÃO DECIDIDA COM BASE EM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. REVISÃO. IMPOSSIBILIDADE NO CASO DOS AUTOS. MATÉRIA DE ORDEM PÚBLICA. PRECLUSÃO. AUSÊNCIA. PROVIMENTO NEGADO.
+1. O Tribunal de origem analisou todas as questões necessárias ao deslinde da controvérsia, não padecendo o acórdão de nenhuma omissão, contradição, obscuridade ou erro material a ensejar o acolhimento da tese de violação do art. 1.022 do Código de Processo Civil (CPC).
+2. O reconhecimento da ilegitimidade ativa da autora no acórdão recorrido está alicerçado em dispositivos e fundamentos eminentemente constitucionais - art. 8º, II, da Constituição Federal e princípio da unicidade sindical -, o que afasta a competência do Superior Tribunal de Justiça, em recurso especial, para o exame da matéria.
+3. A jurisprudência desta Corte Superior se firmou no sentido de que as condições da ação, a exemplo da ilegitimidade das partes, por serem matérias de ordem pública, não estão sujeitas à preclusão.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por ANTONIA MARIA DIAS contra a decisão de minha relatoria de fls. 546/550.
+A agravante sustenta que: i) houve violação ao art. 1.022, II, do Código de Processo Civil; ii) a questão da legitimidade foi decidida anteriormente, ainda que de modo implícito, na fase de liquidação, e, por isso, ocorreu a preclusão; iii) não pretende que esta Corte se manifeste sobre fundamento constitucional.
+Não foi apresentada impugnação de acordo com a certidão de fl. 567.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. LEGITIMIDADE ATIVA. QUESTÃO DECIDIDA COM BASE EM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. REVISÃO. IMPOSSIBILIDADE NO CASO DOS AUTOS. MATÉRIA DE ORDEM PÚBLICA. PRECLUSÃO. AUSÊNCIA. PROVIMENTO NEGADO.
+1. O Tribunal de origem analisou todas as questões necessárias ao deslinde da controvérsia, não padecendo o acórdão de nenhuma omissão, contradição, obscuridade ou erro material a ensejar o acolhimento da tese de violação do art. 1.022 do Código de Processo Civil (CPC).
+2. O reconhecimento da ilegitimidade ativa da autora no acórdão recorrido está alicerçado em dispositivos e fundamentos eminentemente constitucionais - art. 8º, II, da Constituição Federal e princípio da unicidade sindical -, o que afasta a competência do Superior Tribunal de Justiça, em recurso especial, para o exame da matéria.
+3. A jurisprudência desta Corte Superior se firmou no sentido de que as condições da ação, a exemplo da ilegitimidade das partes, por serem matérias de ordem pública, não estão sujeitas à preclusão.
+4. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não merece prosperar.
+Inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro, omissão, contradição ou obscuridade. Ressalto que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+O reconhecimento da ilegitimidade ativa da autora no acórdão recorrido está alicerçado em dispositivos e fundamentos eminentemente constitucionais - art. 8º, II, da Constituição Federal e princípio da unicidade sindical -, o que afasta a competência do Superior Tribunal de Justiça, em recurso especial, para exame da matéria.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO COLETIVA. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 458 E 535, II DO CPC. ILEGITIMIDADE DO SINDICATO COM BASE NO PRINCÍPIO DA UNICIDADE SINDICAL (ART. 8o., II DA CF). ADOÇÃO DE FUNDAMENTAÇÃO EXCLUSIVAMENTE CONSTITUCIONAL. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. HONORÁRIOS ADVOCATÍCIOS FIXADOS EM R$ 1.500,00. RAZOABILIDADE EM FACE DAS CARACTERÍSTICAS DA DEMANDA. IMPOSSIBILIDADE DE REDUÇÃO. AGRAVO REGIMENTAL DO SINDICATO DOS SERVIDORES FEDERAIS DO RIO GRANDE DO SUL A QUE SE NEGA PROVIMENTO.
+ ..
+2. O Tribunal de origem decidiu a controvérsia com base em fundamentação de natureza eminentemente constitucional, ao entendimento de que o Sindicato careceria de legitimidade ativa para representar os substituídos em juízo, tendo em vista o Princípio da Unicidade Sindical (art. 8º., II da CF/88).
+3. O critério para a fixação da verba honorária deve levar em conta, sobretudo, a razoabilidade do seu valor, em face do trabalho profissional advocatício efetivamente prestado, não devendo altear-se a culminâncias desproporcionais e nem ser rebaixado a níveis claramente demeritórios, não sendo determinante para tanto apenas e somente o valor da causa.
+ ..
+5. Agravo Regimental do Sindicato a que se nega provimento. (AgRg no REsp 1.529.462/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 24/4/2018, DJe 10/5/2018.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO COLETIVA. ALEGAÇÃO DE VIOLAÇÃO AOS ARTS. 458 E 535, II, DO CPC/73. INEXISTÊNCIA. ILEGITIMIDADE DO SINDICATO RECONHECIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DO PRINCÍPIO DA UNICIDADE SINDICAL (ART. 8º, II, DA CF/88). FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES DO STJ. RECURSO ESPECIAL IMPROVIDO.
+ ..
+IV. Assentado, pelas instâncias ordinárias, à luz do art. 8º, II, da CF/88, que o Sindicato, ora recorrente, careceria de legitimidade ativa para representar os servidores em Juízo, tendo em vista o princípio da unicidade sindical, refoge à competência desta Corte a apreciação de matéria de cunho eminentemente constitucional, mediante Recurso Especial, cabendo ao STF a revisão da tese firmada. Precedentes do STJ, em casos análogos: AgRg no REsp 1.562.749/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 22/03/2016; AgRg no REsp 1.533.112/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 08/09/2015; AgRg no AREsp 713.773/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 28/08/2015.
+V. Recurso Especial improvido. (REsp 1.558.896/RS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 27/4/2017, DJe 4/5/2017.)
+Em relação à preclusão, a jurisprudência desta Corte Superior possui o entendimento de que as condições da ação, a exemplo da ilegitimidade das partes, por serem matérias de ordem pública, não estão sujeitas à preclusão.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO DE SENTENÇA COLETIVA. ILEGITIMIDADE ATIVA. FUNDAMENTO QUE AMPARA O ACÓRDÃO RECORRIDO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283/STF. PRECLUSÃO. NÃO OCORRÊNCIA. MATÉRIA DE ORDEM PÚBLICA. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+1. Afasta-se a ofensa ao art. 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. No caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema: AgInt no REsp 1711262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no AREsp 1679006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+3. No mais, o acórdão recorrido foi proferido em harmonia com a jurisprudência desta Corte, firme no sentido de que a legitimidade das partes, por constituir uma das condições da ação, perfaz questão de ordem pública, podendo ser alegada em qualquer tempo e grau de jurisdição ou mesmo declarada de ofício.
+4. Agravo interno não provido. (AgInt no AREsp 2.075.944/MA, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 9/6/2022.)
+É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica. Nessa linha, cito os seguintes julgados do Superior Tribunal de Justiça, naquilo que interessa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO ORDINÁRIA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL/2015 E DOS ARTS. 186 E 927 DO CÓDIGO CIVIL/2002. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. INDENIZAÇÃO POR DANOS MORAIS NÃO RECONHECIDA PELO TRIBUNAL A QUO. REVISÃO. INVIABILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+ ..
+4. Assinale-se, por fim, que fica prejudicada a apreciação da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+5. Agravo Interno não provido. (AgInt no REsp n. 1.878.337/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020 - sem destaques no original.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO. 3,17%. DISPOSITIVO DE LEI TIDO POR VIOLADO QUE NÃO SUSTENTA A TESE RECURSAL APRESENTADA. INCIDÊNCIA DO ÓBICE DA SÚMULA 284/STF. ASSISTÊNCIA JUDICIÁRIA GRATUITA. REVISÃO, DE OFÍCIO, PELO JUIZ. POSSIBILIDADE. HIPOSSUFICIÊNCIA COMPROVADA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. AFERIÇÃO DO GRAU DE SUCUMBÊNCIA. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO PREJUDICADO.
+ ..
+5. Os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a análise do dissídio jurisprudencial.
+6. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018 - sem destaques no original.)
+Nesse ponto, relativamente aos argumentos trazidos no agravo interno, ressalto que a própria parte reconhece, em seu recurso especial, não ter havido decisão anterior acerca da legitimidade ativa, afirmando a possibilidade de "decisão implícita", porém, se o Poder Judiciário não foi provocado sobre a matéria, não pode ter julgado implicitamente a questão.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto .
