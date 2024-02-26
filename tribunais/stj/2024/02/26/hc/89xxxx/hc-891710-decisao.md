@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de habeas corpus, impetrado em favor de JONATHAN MOREIRA BARBOSA em que se aponta como ato coator a decisão monocrática de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que denegou o pedido de liminar formulado no HC n. 1.0000.24.110562-6/000.
+Consta dos autos que a prisão temporária do paciente foi decretada a fim de que fosse realizada investigação quanto à suposta prática dos crimes de tentativa de homicídio, tráfico ilícito de entorpecentes e associação p ara o tráfico de drogas (fls. 11/18).
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, ao argumento de que a decisão que decretou a prisão temporária do paciente está despida de fundamentação idônea, notadamente quanto à imprescindibilidade da medida. Nesse sentido, destaca que a segregação não é mais imprescindível, uma vez que a autoridade policial já concluiu as diligências, o paciente foi devidamente identificado e qualificado e se compromete a comparecer a todos os atos processuais, caso necessário.
+Requer, assim, liminarmente e no mérito, o imediato recolhimento do mandado de prisão em desfavor paciente, que se compromete a comparecer perante a autoridade policial no prazo de 72 horas.
+É, no essencial, o relatório. Decido.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA n. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2.  ..
+3.  ..
+4. A demora ilegal não resulta de um critério aritmético, mas de aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo injustificado na prestação jurisdicional.
+5.  ..
+6. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+In casu, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, as decisões de origem não se revelam teratológicas, tendo em vista a seguinte fundamentação, adotada na origem (fls. 12/13):
+(..) De início, cabe destacar que restaram sobejamente demonstradas fundadas razões da existência do crime de homicídio, tráfico de drogas e associação para o tráfico de drogas, e da sua respectiva autoria, exigidos nesta fase, conforme boletim de ocorrência (ff. 03-05), termo de depoimento (ff; 07-08), laudo de levantamento do local do crime (ff. 11-13) e relatório circunstanciado de investigações (ff. 14-46). Assim, os motivos ensejadores do requerimento atendem aos requisitos previstos na enfocada legislação penal extravagante que regula a prisão temporária, sobretudo os seus incisos I (quando imprescindível para as investigações do inquérito policial), II (quando indicado não tiver residência fixa (..)) e III, alínea "a" (quando houver fundadas razões, de acordo com qualquer prova admitida na legislação penal, de autoria ou participação do indiciado no crime de homicídio doloso). A segregação temporária dos representantes é indispensável para o curso das investigações, em razão do apontamento de que eles possuem alta periculosidade, com múltiplas ocorrências por envolvimento em ilícitos e encontram-se em local incerto e não sabido. Relativamente aos indícios de participação dos investigados na prática delituosa, estes restam demonstrados especialmente pelo relatório de investigações, que aponta a associação da vítima e dos representados no tráfico de drogas. Dessa forma, a prisão demonstra-se imprescindível para a elucidação dos fatos, em tese, criminosos, tornando-se a medida inafastavel.(..)
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
