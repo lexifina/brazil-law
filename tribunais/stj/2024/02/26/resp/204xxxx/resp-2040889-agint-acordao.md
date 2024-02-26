@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INDENIZATÓRIA. DANOS MATERIAIS. DESAPROPRIAÇÃO. USINA HIDRELÉTRICA. VIOLAÇÃO DO ART. 1.022 DO CPC NÃO CONFIGURADA. CONDIÇÃO DE POSSUIDOR DO IMÓVEL. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não procede a arguição de ofensa ao art. 1.022 do CPC quando o Tribunal Estadual se pronuncia, de forma motivada e suficiente, sobre os pontos relevantes e necessários ao deslinde da controvérsia.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmulas n.º 7 do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por SANTO ANTONIO ENERGIA S.A. (SANTO ANTONIO ENERGIA) contra decisão monocrática de minha relatoria, assim ementada:
+CIVIL. PROCESSUAL CIVIL. AÇÃO. INDENIZATÓRIA. DANOS MATERIAIS. DESAPROPRIAÇÃO. USINA HIDRELÉTRICA. VIOLAÇÃO DO ART. 1.022 DO CPC NÃO CONFIGURADA. CONDIÇÃO DE POSSUIDOR DO IMÓVEL. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. RECURSO ESPECIAL CONHECIDO EM PARTE, E, NESSA EXTENSÃO, NÃO PROVIDO.
+(e-STJ, fl. 725)
+Nas razões do presente inconformismo, SANTO ANTONIO ENERGIA defendeu que houve negativa da prestação jurisdicional, fundamentada nos arts. 95, 373 e 489 do CPC, bem como no art. 6º, VIII, do CDC. Afirmou que apontou a violação dos dispositivos infraconstitucionais e expôs os devidos argumentos. Por fim, asseverou que não incide, ao caso, a Súmula n.º 7 do STJ (e-STJ, fls. 733/737).
+Não foi apresentada contraminuta (e-STJ, fl. 741).
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INDENIZATÓRIA. DANOS MATERIAIS. DESAPROPRIAÇÃO. USINA HIDRELÉTRICA. VIOLAÇÃO DO ART. 1.022 DO CPC NÃO CONFIGURADA. CONDIÇÃO DE POSSUIDOR DO IMÓVEL. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não procede a arguição de ofensa ao art. 1.022 do CPC quando o Tribunal Estadual se pronuncia, de forma motivada e suficiente, sobre os pontos relevantes e necessários ao deslinde da controvérsia.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmulas n.º 7 do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões adotadas pela decisão recorrida.
+(1) Da aventada nulidade do acórdão recorrido, diante da negativa da prestação jurisdicional
+Nas razões do seu recurso, SANTO ANTONIO ENERGIA alegou a violação do art. 1.022 do CPC, em virtude da omissão, em relação à premissa de que a parte adversa não detinha a posse do imóvel, conforme decidido em ação de reintegração de posse movida pela União e em uma ação possessória ajuizada pela Santo Antonio Energia contra Furnas e a União.
+Contudo, verifica-se que o Tribunal de Justiça do Estado de Rondônia se pronunciou sobre os temas consignando que foi reconhecida a condição de possuidor de WALM, além de SANTO ANTONIO ENERGIA ter lhe pago indenização, via administrativa, relativa a uma área desapropriada para a construção da Usina Hidrelétrica, conforme escritura pública, confira-se:
+Pois bem. Consta que, num primeiro momento, a ação foi extinta, sem apreciação de mérito, porque acolhida a preliminar de impossibilidade jurídica do pedido ante o entendimento de que o autor Walm Molino não tinha a posse do imóvel, apenas o ocupava precariamente (Id. 10234411 - págs. 19/31). No entanto, sobreveio recurso ao qual se deu provimento, para anular a sentença e determinar o prosseguimento do feito, reconhecendo-se a possibilidade de se indenizar o detentor da posse, conforme se vê do acórdão acostado ( Id. 10234413 - págs. 13/18), transitado em julgado (Id. 10234414 - pág. 9). Assim, tem-se que, ao anular a sentença e determinar o prosseguimento da ação para análise do mérito quanto aos pedidos indenizatórios, esta e Corte reconheceu a condição de possuidor do autor. Não bastasse, a própria Santo Antônio pagou-lhe indenização na via administrativa relativa a uma área desapropriada para a construção do empreendimento, cuja prova está consubstanciada na Escritura Pública de Acordo Indenizatório juntada (Id. 10234409 - págs. 46/48) e Termo de Acordo (mesmo Id., págs. 49/50). Ademais, a questão relativa a bem de domínio da União não exclui o direito de o possuidor ser indenizado pela perda da posse (e-STJ, fl. 615)
+Assim, inexistem os vícios elencados no art. 1.022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando a rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. 2. RESPONSABILIDADE PELOS SERVIÇOS PRESTADOS. INTERPRETAÇÃO DE CLÁUSULAS DA AVENÇA E REEXAME DE PROVAS. DESCABIMENTO. SÚMULAS 5 E 7 DO STJ. 3. PRINCÍPIOS DA CONGRUÊNCIA OU DA ADSTRIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. EMBARGOS DE DECLARAÇÃO NÃO OPOSTOS. SÚMULAS N. 282 e 356 DO STF. 4. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.487.975/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 17/2/2020, DJe 19/2/2020)
+Afasta-se, portanto, a alegada violação.
+(2) Do pleito de afastamento da indenização
+O Tribunal de Justiça do Estado de Rondônia, soberano na análise do conteúdo fático-probatório, concluiu que foi reconhecida a WALM a sua condição de possuidor, tanto que SANTO ANTONIO ENERGIA lhe pagou uma indenização, via administrativa, relativa à área desapropriada para a construção da Usina Hidrelétrica, conforme escritura pública. Asseverou, ainda, que a plena, geral e irrevogável quitação outorgada por WALM não está afeta ao valor da posse sobre a terra nua, mas sim às indenizações pagas no acordo extrajudicial que se referem à produção vegetal e à construção e instalação que havia no imóvel, como se pode observar dos trechos extraídos do acórdão impugnado, a seguir transcritos:
+Assim, tem-se que, ao anular a sentença e determinar o prosseguimento da ação para análise do mérito quanto aos pedidos indenizatórios, esta e. Corte reconheceu a condição de possuidor do autor. Não bastasse, a própria Santo Antônio pagou-lhe indenização na via administrativa relativa a uma área desapropriada para a construção do empreendimento, cuja prova está consubstanciada na Escritura Pública de Acordo Indenizatório juntada (Id. 10234409 - págs. 46/48) e Termo de Acordo (mesmo Id., págs. 49/50). ..  Anote- se que a plena, geral e irrevogável quitação outorgada pelo autor, a que se refere a Santo Antônio, não está afeta ao valor da posse sobre a terra nua, mas sim às indenizações pagas no acordo extrajudicial que se referem à produção vegetal e à construção e instalação que havia no imóvel, conforme se vê da especificação constante da escritura pública e do acordo juntado s (Id. 10234409 - págs. 46/52)  e- STJ, fls. 615/616 .
+Ora, para se al terar a conclusão do Tribunal rondoniense seria necessário novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula n.º 7 do STJ.
+Desse modo, mantém-se a decisão proferida, por não haver motivos para sua alteração.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
