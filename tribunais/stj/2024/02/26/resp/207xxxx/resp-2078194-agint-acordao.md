@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSO CIVIL E PREVIDENCIÁRIO. MORTE DO SEGURADO NO CURSO DA AÇÃO. HABILITAÇÃO PROCESSUAL DO BENEFICIÁRIO DE PENSÃO POR MORTE. DESNECESSIDADE DE INVENTÁRIO OU ARROLAMENTO DE BENS. ART. 112 DA LEI N. 8.213/91.
+1. Segundo entendimento desta Corte, o óbito do segurado, titular do direito perseguido, no curso da execução permite a habilitação do dependente previdenciário e, na falta dele, dos sucessores do falecido, para pleitear valores não recebidos em vida, independentemente de inventário o u arrolamento de bens. Inteligência do art. 112 da Lei n. 8.213/91.
+2. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por Sebastião Paulo Júnior e outro contra decisão de fls. 245/249, que negou provimento ao recurso especial.
+Sustenta o agravante que o Tribunal de origem, ao determinar o processamento ao nobre apelo, delimitou a controvérsia quanto à violação ao art. 112 da Lei n. 8.213/91, cabendo a esta Corte, ante ao princípio da adstrição, "declarar que a verba resultante de processo previdenciário, de valor substancial, não configura "valores devidos pelos empregadores aos empregados" nem "montantes de contas individuais do FGTS e PIS/PASEP", dando vigência devida à lei nº 6.858/80 e do artigo 112 da lei nº 8.213/91" (fl. 256).
+Requer, no ponto, o afastamento da Súmula 211/STJ, nos termos do art. 1.025 do CPC.
+O INSS deixou transcorrer in albis o prazo para resposta (fl. 280).
+É O RELATÓRIO.
+EMENTA
+PROCESSO CIVIL E PREVIDENCIÁRIO. MORTE DO SEGURADO NO CURSO DA AÇÃO. HABILITAÇÃO PROCESSUAL DO BENEFICIÁRIO DE PENSÃO POR MORTE. DESNECESSIDADE DE INVENTÁRIO OU ARROLAMENTO DE BENS. ART. 112 DA LEI N. 8.213/91.
+1. Segundo entendimento desta Corte, o óbito do segurado, titular do direito perseguido, no curso da execução permite a habilitação do dependente previdenciário e, na falta dele, dos sucessores do falecido, para pleitear valores não recebidos em vida, independentemente de inventário o u arrolamento de bens. Inteligência do art. 112 da Lei n. 8.213/91.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos apresentados, a decisão merece ser mantida por seus próprios fundamentos.
+De início, vale lembrar que "O juízo de admissibilidade do Recurso Especial está sujeito a duplo controle, de maneira que a aferição da regularidade formal do apelo, pela instância a quo, não vincula o Superior Tribunal de Justiça, já que se trata de juízo provisório, recaindo o juízo definitivo sobre este Sodalício, quanto aos requisitos de admissibilidade e em relação ao mérito" (AgInt no AREsp n. 2.297.149/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 21/8/2023, DJe de 29/8/2023).
+Nesse mesmo diapasão:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO LOCAL E SUSPENSÃO DE EXPEDIENTE. COMPROVAÇÃO PERANTE O TRIBUNAL AD QUEM. IMPOSSIBILIDADE. TEMPESTIVIDADE ATESTADA NA ORIGEM. JUÍZO BIFÁSICO.
+1. A Corte Especial do STJ, em sessão realizada no dia 3/2/2020, apreciou a QO no REsp 1.813.684/SP, suscitada pela Ministra Nancy Andrighi, para decidir que a modulação dos efeitos do acórdão quanto à possibilidade de comprovação posterior de feriado local restringe-se à segunda-feira de carnaval.
+2. Não sendo a hipótese alcançada pela referida modulação, prevalece a regra disposta no art. 1.003, § 5º, do CPC/2015, segundo a qual é intempestivo o recurso interposto fora do prazo de 15 (quinze) dias úteis.
+3. Descabe a aplicação da regra do parágrafo único do art. 932 do CPC/2015, que permitiria a correção do vício, com a comprovação da tempestividade do recurso, posteriormente.
+4. A decisão de admissibilidade do Tribunal a quo ou a certidão de tempestividade expendida na origem não vinculam o STJ, a quem compete o exame, em definitivo, dos pressupostos de admissibilidade do recurso especial.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.250.245/CE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 14/8/2023, DJe de 18/8/2023.)
+Desta forma, mesmo que o Tribunal de origem, quando do juízo de prelibação, tenha registrado o prequestionamento da matéria suscitada nas razões do especial, ou mesmo compreendido que o acórdão recorrido está em aparente dissonância com o entendimento desta Corte sobre a interpretação do art. 112 da Lei n. 8.213/91, esses motivos não vinculam esta instância extraordinária.
+Lado outro, conforme registrado no julgado atacado, o óbito do segurado no curso da execução permite a habilitação do dependente previdenciário e, na falta dele, dos sucessores do falecido, para pleitear valores não recebidos em vida, independentemente de inventário ou arrolamento de bens.
+Nesse sentido, anotem-se os seguintes julgados:
+AÇÃO PROPOSTA PELA FILHA OBJETIVANDO O RECEBIMENTO DE SALÁRIO-MATERNIDADE QUE SERIA DEVIDO À SUA FALECIDA GENITORA. IMPOSSIBILIDADE. INAPLICABILIDADE DO ART. 71-B DA LEI 8.213/1991. DIREITO PERSONALÍSSIMO. BENEFÍCIO NÃO REQUERIDO PELO TITULAR DO DIREITO. ILEGITIMIDADE ATIVA CONFIGURADA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. No caso dos autos, a autora, nascida em 01/03/2008, objetiva provimento jurisdicional que lhe assegure o recebimento do benefício previdenciário de salário-maternidade, alegando que sua genitora, que veio a óbito em 19/11/2012, sem haver requerido o benefício, era trabalhadora rural. O Tribunal de origem reconheceu a ilegitimidade ativa da autora e extinguiu o processo sem resolução do mérito.
+2. O art. 71-B da Lei 8.213/1991, incluído pela Lei 12.873/2013, prevê que, no caso de falecimento da segurada ou segurado que fizer jus ao recebimento do salário-maternidade, o benefício será pago, por todo o período ou pelo tempo restante a que teria direito, ao cônjuge ou companheiro sobrevivente que tenha a qualidade de segurado, exceto no caso do falecimento do filho ou de seu abandono, observadas as normas aplicáveis ao salário-maternidade. O pagamento do salário-maternidade derivado deverá ser requerido até o último dia do prazo previsto para o término do salário-maternidade originário (§1º).
+3. O dispositivo autoriza o pagamento do salário-maternidade ao cônjuge ou companheiro sobrevivente que tenha a qualidade de segurado, não havendo previsão legal para que o filho sobrevivente o pleiteie. Assim, a pretensão recursal não encontra amparo no art. 71-B na Lei 8.213/1991, incluído pela Lei 12.873/2013.
+4. Lado outro, o art. 112 da Lei 8.213/1991 possibilita que os valores não recebidos em vida pelo segurado sejam pagos aos seus dependentes habilitados à pensão por morte ou, na falta deles, aos seus sucessores na forma da lei civil, independentemente de inventário ou arrolamento.
+5. Impõe-se fazer a distinção entre a questão examinada pela Primeira Seção nos recursos especiais 1.856.967/ES, 1.856.968/ES e 1.856.969/RJ, relatados pela Ministra REGINA HELENA COSTA, julgados em 23/6/2021, DJe 28/6/2021, submetidos ao rito dos recursos repetitivos, tema 1.057/STJ, e a tratada no presente feito. Com efeito, no referido julgamento, discutia-se se os pensionistas e sucessores detêm legitimidade para figurarem no polo ativo de ação previdenciária revisional, ajuizada com o escopo de revisar a aposentadoria do de cujus (benefício originário) , o que não se confunde com o pleito de concessão de benefício previdenciário não requerido em vida pelo titular. (grifo nosso).
+6. Esta Corte já assentou que o benefício previdenciário é direito personalíssimo que se extingue com o falecimento do titular. O direito ao benefício previdenciário não se confunde com a possibilidade de os herdeiros pleitearem diferenças pecuniárias que o segurado deveria ter recebido em vida. Precedentes.
+7. No caso em exame, segundo se depreende do cenário fático exposto no acórdão prolatado na origem, a criança nasceu em março/2008 e a ação foi ajuizada em fevereiro/2013, tendo o falecimento da mãe ocorrido em novembro/2012. Desse modo, considerando que a segurada não requereu o benefício em vida, não pode a filha pleitear a concessão do salário-maternidade que seria devido àquela.
+8. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.685.152/SP, relator Ministro Manoel Erhardt - Desembargador Convocado do TRF5, Primeira Turma, julgado em 28/3/2022, DJe de 30/3/2022.)
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. FALECIMENTO DO TITULAR DO DIREITO NO CURSO DA AÇÃO. HABILITAÇÃO PROCESSUAL DO BENEFICIÁRIO DE PENSÃO POR MORTE. DESNECESSIDADE DE INVENTÁRIO OU ARROLAMENTO DE BENS. AGRAVO INTERNO DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. Na hipótese dos autos, deu-se provimento ao Recurso Especial do Particular ao entendimento de que, ocorrendo o falecimento do autor no curso do processo, seus dependentes previdenciários podem habilitar-se para receber os valores devidos, possuindo preferência os dependentes habilitados à pensão por morte em relação aos demais sucessores do de cujus.
+2. É firme a jurisprudência desta Corte Superior de que os dependentes previdenciários têm legitimidade processual para pleitear valores não recebidos em vida pelo de cujus, independentemente de inventário ou arrolamento de bens.
+Precedentes: REsp. 1.650.339/RJ, Rel. Min. REGINA HELENA COSTA, DJe 12.11.2018; AgRg no REsp. 726.484/RJ, Rel. Min. ROGERIO SCHIETTI CRUZ, DJe 27.2.2014; AgRg no REsp. 1.260.414/CE, Rel. Min. LAURITA VAZ, DJe 26.3.2013.
+3. Agravo Interno da UNIÃO a que se nega provimento.
+(AgInt no AREsp n. 820.207/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 14/10/2019, DJe de 21/10/2019.)
+ANTE O EXPOSTO, nego provimento ao agravo interno.
+É o voto.
