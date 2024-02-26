@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL. COMPROMISSO DE COMPRA E VENDA. RECOVENÇÃO PROCEDENTE. EXCEÇÃO DE CONTRATO NÃO CUMPRIDO. INDENIZAÇÃO POR BENFEITORIAS. OBRAS FINALIZADAS NA CONSTÂNCIA DO CONTRATO DE COMPRA E VENDA. FALTA DE IMPUGNAÇÃO. INCIDÊNCIA DA SÚMULA N.º 283 DO STF, POR ANALOGIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se conheceu do recurso especial, por ausência de impugnação a um dos fundamentos do acórdão recorrido, relativo ao cabimento do ressarcimento das benfeitorias realizadas no imóvel, cujas obras se encerraram na vigência do contrato de compra e venda.
+2. Argumentação completamente dissociada do primeiro fundamento do acórdão que se referiu ao reconhecimento de abusividade de cláusula prevista em contrato de locação anteriormente pactuado entre as partes, sobre o bem.
+3. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula n.º 283 do STF.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+RELATÓRIO
+Da leit ura dos autos, extrai-se que CHURRASCARIA PAVAN LTDA. (CHURRASCARIA) ajuizou ação de resolução contratual cumulada com pedido de imissão na posse e de indenização por perdas e danos contra MARIA JOANA DA ROCHA PESSOA (MARIA), que, por sua vez, apresentou reconvenção.
+Em primeira instância, os pedidos iniciais foram julgados procedentes e improcedente a reconvenção, conforme dispositivo a seguir transcrito (e-STJ, fls. 5.811/5.818):
+Pelo exposto, JULGO PROCEDENTE a ação proposta por CHURRASCARIA PAVAN LTDA, qualificada, em desfavor de MARIA JOANA DA ROCHA PESSOA, a fim de DECLARAR RESCINDIDO o Contrato de Compra e Venda celebrado entre as partes e CONDENO a REQUERIDA RECONVINTE ao pagamento da quantia de RS 1.281.107,00 (um milhão, duzentos e oitenta e um mil, centro e sete reais), em favor da REQUERENTE RECONVINDA, a título de perdas e danos, com juros de 1% (um por cento) ao mês e correção monetária pelo INPC, a contar da presente sentença, sem prejuízo do meses a vencer nos meses que se seguirem à presente decisão, compensando-se o que já foi pago pela REQUERIDA RECONVINTE à REQUERENTE RECONVINDA.
+CONDENO, ainda, a REQUERIDA RECONVINTE, ao pagamento, em favor da REQUERENTE RECONVINDA, de multa contratual na razão de 30% (trinta por cento) sobre o valor pago no contrato, conforme item 4.2.2 do Contrato, qual seja RS 549.045,S6 (quinhentos e quarenta e nove mil, quarenta e cinco reais e oitenta e seis centavos), com juros de 1% (um por cento) ao mês e correção monetária pelo INPC, a contar de 23/02/2012, data em que a REQUERIDA RECONVINTE foi notificada de seu inadimplemento contratual, também compensando-se o montante já pago.
+Por consequéncia, pelas razões supra, JULGO IMPROCEDENTE a RECONVENCAO proposta por MARIA JOANA DA ROCHA PESSOA, qualificada, em desfavor de CHURRASCARIA PAVAN LTDA., qualificada.
+Contra a sentença MARIA interpôs apelação que foi parcialmente provida pelo Tribunal de Justiça do Estado do Paraná, em acórdão de relatoria da Desembargadora HELENA PERCILA DE AZEVEDO DORNELLES, assim ementado:
+EMENTA: APELAÇÃO CÍVEL  CONTRATO DE COMPROMISSO DE COMPRA E VENDA  DESCUMPRIMENTO PELA PARTE QUE DEIXOU DE OUTORGAR A ESCRITURA, CONFORME PACTUADO NO CONTRATO, ENSEJANDO A APLICAÇÃO DA EXCEÇÃO DO CONTRATO NÃO CUMPRIDO - INTELIGÊNCIA DO ART. 476 DO CÓDIGO CIVIL - PAGAMENTO DE MULTA CONTRATUAL - EXISTÊNCIA DE BENFEITORIAS A SEREM INDENIZADAS.
+1 - Analisando as cláusulas contratuais, bem como a legislação cível que rege os contratos verifica-se que a apelada foi a responsável pelo descumprimento contratual, competindo-lhe, portanto, diante da rescisão contratual, devolver os valores pagos pela apelante, acrescidos de multa contratual de 30% (trinta por cento), nos termos da cláusula 4 2 3, com juros e correção monetária.
+2- Quanto às benfeitorias feitas pela apelante no referido imóvel, objeto do contrato de compromisso de compra e venda é devida sua indenização sob pena de enriquecimento sem causa, posto que o entendimento junsprudencial é no sentido de que a previsão indenizatória das benfeitorias, incrustada no Código Civil Brasileiro, é norma de ordem pública, não derruindo por convenção das partes.
+3- Assim, em que pese a Cláusula 4.3 do Contrato de Locação (fls. 269-281) dispor que todas as benfeitorias, ainda que úteis ou necessárias construídas no imóvel sejam revertidas em nome da locadora, livre de pagamento de indenização ou direito de retenção, a abusividade da cláusula, impede a sua aplicação.
+4- Quanto ao pagamento de indenização pelo fundo de comércio criado, alegada valorização não foi devidamente provada nos autos. Ademais, naquele local já existia atividade comercial de entretenimento, desempenhada pela apelada, razão pela qual esta Relatora entende que não há que se falar em indenização por fundo de comércio. (e-STJ, fls. 5.889/5.901)
+Os embargos de declaração opostos por CHURRASCARIA foram rejeitados (e-STJ, fls. 6.192/6.205).
+Irresignada, CHURRASCARIA interpôs este recurso especial, com fulcro no art. 105, III, a e c, da CF, apontando, a par de dissídio jurisprudencial, violação do art. 35 da Lei n.º 8.245/91, sob o fundamento de ser incabível o ressarcimento pelas benfeitorias realizadas, em razão da cláusula de renúncia a esse direito, prevista no contrato de locação firmado entre as partes, a qual deve ser considerada válida, conforme entendimento da Súmula n.º 335 do STJ (e-STJ, fls. 6.207/6.218).
+Foram apresentadas as contrarrazões (e-STJ, fls. 6.295/6.313).
+O apelo nobre foi admitido pelo TJPR (e-STJ, fls. 6.314/6.317).
+Por decisão monocrática, não conheci do recurso especial, pela incidência da Súmula n.º 283 do STF, aplicável por analogia (e-STJ, fls. 6.333/6.337).
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 6.369/6.372).
+Inconformada, CHURRASCARIA interpôs este agravo interno, insistindo que os fundamentos do acórdão foram devidamente refutados, pugnando pelo conhecimento do apelo nobre (e-STJ, fls. 6.376/6.384).
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL. COMPROMISSO DE COMPRA E VENDA. RECOVENÇÃO PROCEDENTE. EXCEÇÃO DE CONTRATO NÃO CUMPRIDO. INDENIZAÇÃO POR BENFEITORIAS. OBRAS FINALIZADAS NA CONSTÂNCIA DO CONTRATO DE COMPRA E VENDA. FALTA DE IMPUGNAÇÃO. INCIDÊNCIA DA SÚMULA N.º 283 DO STF, POR ANALOGIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se conheceu do recurso especial, por ausência de impugnação a um dos fundamentos do acórdão recorrido, relativo ao cabimento do ressarcimento das benfeitorias realizadas no imóvel, cujas obras se encerraram na vigência do contrato de compra e venda.
+2. Argumentação completamente dissociada do primeiro fundamento do acórdão que se referiu ao reconhecimento de abusividade de cláusula prevista em contrato de locação anteriormente pactuado entre as partes, sobre o bem.
+3. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula n.º 283 do STF.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+CHURRASCARIA defendeu a inaplicabilidade da Súmula n.º 283 do STF, por entender que (i) o fundamento central do acórdão recorrido sobre o ressarcimento das benfeitorias realizadas no imóvel seria a ilegalidade da cláusula prevista no contrato de locação e (ii) este fundamento estaria intrinsecamente ligado à segunda argumentação acessória, relativa ao fato de as benfeitorias terem se encerrado já na vigência do contrato de compra e venda.
+Todavia, como já anotado na decisão agravada, não obstante a Corte estadual ter reconhecido a abusividade na cláusula estabelecida no contrato de locação, o direito ao ressarcimento das benfeitorias realizadas decorreu também do fato de que tais obras findaram já na constância do contrato de compra e venda.
+E, ao contrário do que sustentou, o segundo argumento do aresto - direito ao ressarcimento das benfeitorias realizadas na constância da compra e venda - não é acessório ao contrato locatício.
+Mesmo que não tivesso sido reconhecida a abusividade da cláusula prevista no contrato de locação, vale dizer, ainda que inexistisse o primeiro argumento, o segundo fundamento, não impugnado, seria apto a manter o resultado do acórdão recorrido.
+Assim, não se conheceu do recurso especial, pois não refutou o fundamento relativo ao cabimento do ressarcimento das benfeitorias por terem se encerrado na constância do contrato de compra e venda, o que é completamente dissociado do fundamento relativo ao reconhecimento da abusividade da cláusula prevista no contrato de locação anteriormente pactuado entre as partes.
+Nesse sentido, confira-se o esclarecido na decisão proferida nos embargos declaratórios:
+Conforme destacado na decisão embargada, o Tribunal paraense adotou dois fundamentos distintos para reconhecer o direito à indenização pelas benfeitorias realizadas no imóvel.
+O primeiro fundamento foi o reconhecimento da abusividade da cláusula 4.3 do contrato de locação que autorizava a reversão das benfeitorias em favor de CHURRASCARIA, livre de pagamento de indenização ou direito de retenção.
+O segundo alicerce do aresto recorrido, a justificar o direito de MARIA a ser ressarcida pelas benfeitorias, pautou-se na circunstância de que as obras se encerraram já na constância do contrato de compra e venda.
+CHURRASCARIA impugnou o primeiro fundamento. Questionando a legalidade do reconhecimento da abusividade da cláusula prevista no contrato de locação.
+Mas o acolhimento dessa alegação, acaso fosse conhecido o recurso especial, não teria o condão de afastar a segunda assertiva do TJPA, no sentido de ser devido o ressarcimento pelas benfeitorias, pois as obras se encerraram na vigência do contrato de compromisso de compra e venda.
+Ao contrário do alegado por CHURRASCARIA, tais fundamentos não versam sobre a mesma matéria recursal, razão pela qual não podem ser consideradas como abrangidas pelas razões do apelo nobre que, frise-se, abordou unicamente a (in)validade da declaração de abusividade da cláusula estabelecida no contrato locatício.
+O reconhecimento do direito a reparação por benfeitorias, pela nulidade de cláusula contratual estabelecida no contrato de locação, considerada leonina pela Corte estadual foi o cerne do questionamento do recurso especial.
+Mas o outro fundamento do acórdão, consistente no reconhecimento do direito à indenização pelas benfeitorias realizadas à época do compromisso de compra e venda, não foi impugnado nas razões recursais.
+Assim, dois foram os fundamentos elementares do aresto, mas apenas um deles foi objeto de impugnação nas razões do recurso especial de CHURRASCARIA, a impedir o conhecimento do apelo nobre, em razão do óbice da Súmula 283, do STF, aplicável por analogia - sem destaque no original. (e-STJ, fls. 6.370/6.371)
+Por esse motivo, forçoso concluir que é inafastável a incidência da Súmula n.º 283 do STF, por analogia.
+A propósito, confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER E DE INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DO DEVER DE INFORMAÇÃO E TRANSPARÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO DO ARGUMENTO DO ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. DANOS MORAIS CONFIGURADOS. REVISÃO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Considerando que nem todos os fundamentos do acórdão recorrido foram objeto de impugnação específica nas razões do recurso especial, é imperiosa a incidência, à hipótese, do óbice da Súmula n. 283 do Supremo Tribunal Federal.
+2. Não apontado o dispositivo legal tido por violado, incide, na hipótese, o enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+3. Tendo o Tribunal de origem concluído pela responsabilidade da empresa ré pelos danos morais suportados pelo autor, a revisão de tal entendimento não está ao alcance desta Corte, por demandar o reexame do conjunto fático-probatório dos autos, providência vedada nesta instância especial, nos termos da Súmula 7/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.185.848/PR, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CERCEAMENTO DE DEFESA. PRAZO PARA MANIFESTAÇÃO. FUNDAMENTOS SUFICIENTES NÃO IMPUGNADOS. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. APLICAÇÃO DA SÚMULA N. 283 DO STF. INDENIZAÇÃO. DANOS MORAIS. QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. O recurso especial que não ataca especificamente o fundamento adotado pela instância ordinária suficiente para manter o acórdão recorrido atrai, por analogia, a incidência da Súmula n. 283 do STF.
+2. A revisão pelo STJ da indenização arbitrada a título de danos morais
+exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade. Salvo essas hipóteses, incide a Súmula n. 7 do STJ,
+impedindo o conhecimento do recurso especial.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.156.593/SP, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - sem destaque no original)
+Desse modo, mantém-se a decisão proferida, por não haver motivos para sua alteração.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
