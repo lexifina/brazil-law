@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  AÇÃO  INDENIZATÓRIA.  FATOS.  AVERIGUAÇÃO  CRIMINAL.  ART.  200  DO  CÓDIGO  CIVIL.  PRESCRIÇÃO.  NÃO  OCORRÊNCIA.  CONTAGEM.  TERMO  INICIAL.  ARQUIVAMENTO.  PREQUESTIONAMENTO.  AUSÊNCIA.  REEXAME  DE  PROVAS.  IMPOSSIBILIDADE.
+1.  O  art.  200  do  Código  Civil  dispõe  que,  em  se  tratando  de  pretensão  indenizatória  fundada  na  responsabilidade  civil  por  fato  que  deva  ser  apurado  no  juízo  criminal,  não  corre  a  prescrição  antes  do  advento  da  respectiva  sentença  penal  definitiva.  Precedentes.
+2.  Havendo  a  efetiva  instauração  do  inquérito  penal  ou  da  ação  penal,  o  lesado  pode  ajuizar  a  ação  reparatória  cível  antecipadamente,  ante  o  princípio  da  independência  das  instâncias  (art.  935  do  CC/2002),  ou  aguardar  a  resolução  da  questão  no  âmbito  criminal,  hipótese  em  que  o  início  do  prazo  prescricional  é  postergado,  nos  termos  do  art.  200  do  CC/2002.  Precedentes.
+3.  A  ausência  de  prequestionamento  inviabiliza  o  recurso  especial,  conforme  dispõem  as  Súmulas  nº  211/STJ  e  nº  282/STF.
+4.  Nos  termos  da  Súmula  nº  7/STJ,  não  cabe,  em  recurso  especial,  o reexame de  fatos  e  provas.
+5.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  IPIRANGA  PRODUTOS  DE  PETRÓLEO  S.A.  contra  a  decisão  ( fls.  1.793/1.797  , e-STJ)  que  conheceu  parcialmente  de  seu  recurso  especial  e,  nessa parte,  negou-lhe  provimento  em  virtude  da  incidência  das  Súmulas  nºs  7,  83  e  211/STJ  e  nº  282/STF.
+  Nas  presentes  r  azões,  a  agravante  sustenta  que  inaplicáveis as Súmulas  nºs  7,  83  e  211/STJ  e  nº  282/STF.
+No  mais,  repisa  o  argumento  de  que  o  prazo  prescricional  não  foi  interrompido  com  a  abertura  do  inquérito  policial,  visto  se  tratar  de  uma  ação  de  compensação  desvinculada  de  qualquer  fato  que  deva  ser  investigado  no  âmbito  criminal.
+Devidamente  intimada,  a  parte  contrária  não  apresentou  impugnação  (fls.  1.878/1.879,  e-STJ)  .
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  AÇÃO  INDENIZATÓRIA.  FATOS.  AVERIGUAÇÃO  CRIMINAL.  ART.  200  DO  CÓDIGO  CIVIL.  PRESCRIÇÃO.  NÃO  OCORRÊNCIA.  CONTAGEM.  TERMO  INICIAL.  ARQUIVAMENTO.  PREQUESTIONAMENTO.  AUSÊNCIA.  REEXAME  DE  PROVAS.  IMPOSSIBILIDADE.
+1.  O  art.  200  do  Código  Civil  dispõe  que,  em  se  tratando  de  pretensão  indenizatória  fundada  na  responsabilidade  civil  por  fato  que  deva  ser  apurado  no  juízo  criminal,  não  corre  a  prescrição  antes  do  advento  da  respectiva  sentença  penal  definitiva.  Precedentes.
+2.  Havendo  a  efetiva  instauração  do  inquérito  penal  ou  da  ação  penal,  o  lesado  pode  ajuizar  a  ação  reparatória  cível  antecipadamente,  ante  o  princípio  da  independência  das  instâncias  (art.  935  do  CC/2002),  ou  aguardar  a  resolução  da  questão  no  âmbito  criminal,  hipótese  em  que  o  início  do  prazo  prescricional  é  postergado,  nos  termos  do  art.  200  do  CC/2002.  Precedentes.
+3.  A  ausência  de  prequestionamento  inviabiliza  o  recurso  especial,  conforme  dispõem  as  Súmulas  nº  211/STJ  e  nº  282/STF.
+4.  Nos  termos  da  Súmula  nº  7/STJ,  não  cabe,  em  recurso  especial,  o reexame de  fatos  e  provas.
+5.  Agravo  interno  não  provido.
+VOTO
+A irresignação não merece prosperar.
+A  decisão  agravada  concluiu  que  o  tribunal  de  origem  solucionou  a  controvérsia  em harmonia  com  a  jurisprudência  do  Superior  Tribunal  de  Justiça,  aplicando,  por  isso,  o  óbice  da  Súmula  nº  83/STJ.
+Com  efeito,  ao  afastar  a  prescrição  na  espécie,  a  Corte  de  origem  assim  dispôs:
+  "(..)
+Dir-se-á  que,  no  caso  sob  julgamento,  não  houve  sentença  penal,  mas  tão  só  inquérito  policial  (fl.  69  e  seguintes),  encerrado  a  requerimento  do  M.P  (fls.  336/338),  deferido  pelo  MM.  Juiz  do  Departamento  de  Inquéritos  Policiais  e  Policia  Judiciária  -  DIPO  3  em  15/2/2008  (fl.  340).
+Não  procederia  a  objeção.
+Discorrendo  acerca  do  art.  200  do  Código  Civil,  NESTOR  DUARTE  explica  que  a  responsabilidade  civil  é  independente  da  criminal,  mas,  em  que  pese  isto,  na  forma  do  art.  935  do  mesmo  Código  não  se  poderá  mais  questionar  sobre  o  fato  ou  a  autoria,  "quando  estas  questões  se  acharem  decididas  no  juízo  criminal".
+(..)
+Em  suma,  o  prazo  prescricional  (trienal)  da  ação  de  indenização  promovida  pelos  apelantes,  na  linha  da  doutrina  e  da  jurisprudência,  começou  a  correr  quando  do  arquivamento  do  inquérito  policial,  em  18  de  fevereiro  de  2008.  Tendo  a  ação  sido  aforada  em  17  de  julho  de  2009,  de  prescrição  não  se  pode  falar"  (fls.  1.541/1.545,  e-STJ).
+Nesse sentido:
+"CIVIL  E  PROCESSUAL  CIVIL.  RECURSO  ESPECIAL.  AÇÃO  DE  COMPENSAÇÃO  DE  DANOS  MORAIS.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  INOCORRÊNCIA.  PRESCRIÇÃO.  AÇÃO  PENAL.  INCIDÊNCIA  DA  CAUSA  SUSPENSIVA  DO  ART.  200  DO  CC/02.  MULTAS.  AGRAVO  INTERNO  MANIFESTAMENTE  INADMISSÍVEL  E  EMBARGOS  DE  DECLARAÇÃO  PROTELATÓRIOS.  NULIDADE.  AUSÊNCIA.
+(..)
+4.  "A  aplicação  do  art.  200  do  CC/02  tem  valia  quando  houver  relação  de  prejudicialidade  entre  as  esferas  cível  e  penal  -  isto  é,  quando  a  conduta  originar-se  de  fato  também  a  ser  apurado  no  juízo  criminal  -,  sendo  fundamental  a  existência  de  ação  penal  em  curso  (ou  ao  menos  inquérito  policial  em  trâmite)"  (REsp  1.135.988/SP).  A  finalidade,  pois,  dessa  norma,  é  evitar  a  possibilidade  de  soluções  contraditórias  entre  as  duas  searas,  especialmente  quando  a  solução  do  processo  penal  seja  determinante  do  resultado  do  processo  cível.
+5.  O  art.  200  do  CC/02  incidirá  independentemente  do  resultado  alcançado  na  esfera  criminal.  Tal  entendimento  prestigia  a  boa-fé  objetiva,  impedindo  que  o  prazo  prescricional  para  deduzir  a  pretensão  reparatória  se  inicie  previamente  à  apuração  definitiva  do  fato  no  juízo  criminal,  criando  uma  espécie  legal  de  actio  nata.
+6.  Na  espécie,  houve  a  propositura  de  ação  penal,  na  qual  foi  declarada  a  ilegitimidade  ativa  do  Ministério  Público  em  relação  a  um  dos  delitos  e  o  réu  foi  absolvido  do  outro.  Tais  circunstâncias,  todavia,  não  afastam  a  incidência  do  art.  200  do  CC/02,  remanescendo  hígida  a  pretensão.
+7.  Não  há  que  se  falar  em  nulidade  quando  as  previstas  nos  arts.  1.021,  §  4º  e  1.026,  §  2º,  do  CPC/2015  são  aplicadas  em  decisão  devidamente  fundamentada.
+8.  Recurso  especial  conhecido  e  não  provido"  (REsp  nº  1.987.108/MG,  Relatora  Ministra  NANCY  ANDRIGHI,  TERCEIRA  TURMA,  julgado  em  29/3/2022,  DJe  de  1º/4/2022  -  grifou-se).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO  DE  INSTRUMENTO.  AÇÃO  CIVIL  EX  DELICTO.  FLUÊNCIA  DA  PRESCRIÇÃO  (CC,  ART.  200).  NECESSIDADE  DE  APURAÇÃO  DA  AUTORIA  E  MATERIALIDADE  NO  JUÍZO  CRIMINAL.  IMPEDIMENTO  DO  CURSO  DA  PRESCRIÇÃO.  OBSTÁCULO  PREEXISTENTE  AO  INÍCIO  DO  FLUXO  TEMPORAL.  AGRAVO  INTERNO  DESPROVIDO.
+1.  O  Código  Civil  preconiza,  no  art.  200,  que:  "Quando  a  ação  se  originar  de  fato  que  deva  ser  apurado  no  juízo  criminal,  não  correrá  a  prescrição  antes  da  respectiva  sentença  definitiva."
+2.  A  norma  transcrita  prevê  causa  impeditiva  do  início  do  curso  do  prazo  prescricional,  quando  necessária  à  apuração  penal  do  fato  ensejador  do  dano  e  de  sua  autoria,  por  serem  tais  questões  prejudiciais  ao  exercício  da  pretensão  indenizatória  civil.  A  fluência  do  prazo  prescricional  é  simplesmente  impedida,  não  inicia,  nem  ocorre,  por  força  do  obstáculo  preexistente  ao  vencimento  da  obrigação:  a  inexistência  de  sentença  penal  com  trânsito  em  julgado.
+3.  Portanto,  o  termo  inicial  para  a  propositura  da  ação  civil  ex  delicto  é,  via  de  regra,  o  trânsito  em  julgado  na  ação  penal,  não  tendo  maior  importância  o  lapso  de  tempo  transcorrido  entre  o  fato  a  ser  apurado  no  juízo  criminal  e  o  trânsito  em  julgado  da  decisão  na  ação  penal.
+4.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  no  AREsp  1.982.122/RJ,  Relator  Ministro  RAUL  ARAÚJO,  QUARTA  TURMA,  julgado  em  11/4/2022,  DJe  de  13/5/2022  -  grifou-se).
+"RECURSO  ESPECIAL.  DIREITO  DO  CONSUMIDOR.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.  INTERPRETAÇÃO  DOS  ARTS.  130,  333,  INCISO  II  E  420  DO  CPC/1973.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  AÇÃO  INDENIZATÓRIA.  DANOS  MORAIS.  PRESTAÇÃO  DE  SERVIÇOS  MÉDICOS.  TRATAMENTO  INEFICAZ.  PSORÍASE.  FALSA  PROMESSA  DE  CURA.  DOENÇA  CRÔNICA.  CONDENAÇÃO  DO  RÉU.  ESFERAS  ADMINISTRATIVA  E  PENAL.  PRESCRIÇÃO  QUINQUENAL.  NÃO  OCORRÊNCIA.  CAUSA  IMPEDITIVA  DO  CURSO  DO  PRAZO.  ART.  200  DO  CÓDIGO  CIVIL.  DEVER  DE  INDENIZAR.  REEXAME  DE  PROVAS.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.  VERBA  INDENIZATÓRIA.  RAZOABILIDADE.
+(..)
+4.  Recurso  especial  interposto  pelo  médico  réu  objetivando  que  seja  reconhecida  a  prescrição,  afastado  o  dever  de  indenizar  ou,  alternativamente,  reduzido  o  montante  indenizatório.
+5.  O  art.  200  do  Código  Civil  dispõe  que,  em  se  tratando  pretensão  indenizatória  fundada  na  responsabilidade  civil  por  fato  que  deva  ser  apurado  no  juízo  criminal,  não  corre  a  prescrição  antes  do  advento  da  respectiva  sentença  penal  definitiva.  Precedentes.
+6.  Desde  que  haja  a  efetiva  instauração  do  inquérito  penal  ou  da  ação  penal,  o  lesado  pode  optar  por  ajuizar  a  ação  reparatória  cível  antecipadamente,  ante  o  princípio  da  independência  das  instâncias  (art.  935  do  CC/2002),  ou  por  aguardar  a  resolução  da  questão  no  âmbito  criminal,  hipótese  em  que  o  início  do  prazo  prescricional  é  postergado,  nos  termos  do  art.  200  do  CC/2002.  Precedentes.
+(..)
+10.  Recurso  especial  parcialmente  conhecido  e  não  provido"  (REsp  1.798.127/PR,  Relator  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  TERCEIRA  TURMA,  julgado  em  2/4/2019,  DJe  de  5/4/2019  -  grifou-se).
+"AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  AÇÃO  INDENIZATÓRIA.  ACIDENTE  DE  TRANSITO.  PRESCRIÇÃO.  INQUÉRITO  POLICIAL.  SUSPENSÃO  DO  PRAZO  PRESCRICIONAL.
+1.  Em  caso  de  ato  ilícito  que  enseja,  além  da  reparação  civil,  procedimento  criminal,  o  lapso  prescricional  começa  a  fluir  a  partir  do  trânsito  em  julgado  da  sentença  definitiva  penal.
+2.  Inviabilidade  de  incursão  na  seara  fático-probatória  para  verificar  a  se  houve  prejudicialidade  da  ação  civil  pelo  inquérito  policial,  porque  a  materialidade  e  autoria  já  estavam  certas,  estabelecidas  e  reconhecidas  desde  a  ocorrência  do  acidente  veicular.  Incidência  da  súmula  7/STJ.
+3.  Agravo  interno  não  provido"  (AgInt  no  REsp  1.840.945/PR,  Relator  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  julgado  em  30/11/2020,  DJe  de  3/12/2020).
+A  recorrente  insiste  na  alegação  de  que  o  tribunal  de  origem  deixou  de  analisar  a  ação  , que  não  se  origina  de  fato e  dependia  de  apuração  na  esfera  criminal,  tendo  em  vista  que  o  suposto  enriquecimento  sem  causa  não  se  enquadra  como  ilícito  penal,  o  que  demonstra  o  não  cabimento  da  aplicação  do  art.  200  do  Código  Civil.
+Conforme  já  analisado  na  decisão  agravada,  essa  tese,  além  de  não  estar  prequestionada,  demanda  o  reexame  de  fatos  e  provas,  o  que  é  vedado  em  recurso  especial.
+No  pont o,  incidem  as  Súmulas  nºs  7  e  211/STJ e  nº  282/STF.
+Ante  o  exposto,  nego  provimento  a  o  agravo  interno.
+É  o  voto.
