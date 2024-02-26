@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. RECURSO INTERPOSTO CONTRA DECISÃO QUE APLICOU O CDC E INVERTEU O ÔNUS DA PROVA. ATENDIMENTO PELO SISTEMA ÚNICO DE SAÚDE - SUS. REMUNERAÇÃO INDIRETA QUE NÃO AFASTA A RELAÇÃO DE CONSUMO EXISTENTE ENTRE AS PARTES. INVERSÃO DO ÔNUS DA PROVA. POSSIBILIDADE. ART. 6º, VIII, DO CDC. HOSPITAL QUE POSSUI MAIOR FACILIDADE NA PRODUÇÃO DAS PROVAS. HIPOSSUFICIÊNCIA TÉCNICA DO CONSUMIDOR. PRECEDENTES. COMPETÊNCIA TERRITORIAL. POSSIBILIDADE DE PROPOSITURA DA AÇÃO NO DOMICÍLIO DO CONSUMIDOR DECISÃO. MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+No recurso especial, a ré alega que o acórdão recorrido contrariou:
+a) o artigo 6º da Lei 8.078/1990 (Código de Defesa do Consumidor - CDC) e os artigos 7º e 373 da Lei 13.105/2015 (Código de Processo Civil - CPC/2015) porque confirmou a decisão que determinou a inversão do ônus da prova em favor dos autores, ignorando que não estão presentes os requisitos (pressupostos) para tal medida;
+b) o artigo 53 do CPC/2015 e o artigo 101 do CDC porque deixou de pronunciar a incompetência do Juízo de primeiro grau;
+c) os artigos 2º, 3º, 6º, 14 e 17 do CDC porque olvidou que na hipótese dos autos - demanda buscando indenização por dano moral decorrente de procedimento médico-administrativo - não há relação de consumo, considerando-se que o serviço médico-hospitalar foi custeado pelo Sistema Único de Saúde (SUS).
+Também aponta divergência jurisprudencial.
+Inicialmente, anoto que o só fato de haver a participação do SUS no custeio do procedimento médico-hospitalar não afasta a existência de relação de consumo. A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESPONSABILIDADE CIVIL DE PRESTADORA DE SERVIÇO MÉDICO HOSPITALAR REMUNERADO PELO SUS. CÓDIGO DE DEFESA DO CONSUMIDOR. INCIDÊNCIA.
+1. Nos termos da jurisprudência desta Corte, "os serviços públicos impróprios ou UTI SINGULI prestados por órgãos da administração pública indireta ou, modernamente, por delegação a concessionários, como previsto na CF (art. 175), são remunerados por tarifa, sendo aplicáveis aos respectivos contratos o Código de Defesa do Consumidor" (REsp 609.332/SC, Rel. Ministra Eliana Calmon, Segunda Turma, julgado em 09.08.2005, DJ 05.09.2005).
+2. Outrossim, não há falar em violação do artigo 3º, § 2º, do Código de Defesa do Consumidor no presente caso, pois, "para a caracterização da relação de consumo, o serviço pode ser prestado pelo fornecedor mediante remuneração obtida de forma indireta" (REsp 566.468/RJ, Rel. Ministro Jorge Scartezzini, Quarta Turma, julgado em 23.11.2004, DJ 17.12.2004).
+3. Na hipótese, cuida-se de ação indenizatória, fundada na responsabilidade civil da clínica por falha na prestação de serviços médicos hospitalares - supostamente causadora da morte da filha da autora - remunerados pelo Sistema Único de Saúde (SUS).
+4. Como de sabença, a assistência médica e hospitalar é considerada serviço público essencial e, no caso, foi prestada por delegação e não diretamente pela Administração Pública. O custeio das despesas efetuado pelo SUS caracteriza remuneração indireta apta a qualificar a relação jurídica, no caso, como de consumo. Desse modo, a aplicação do código consumerista afigura-se de rigor, nos termos da jurisprudência supracitada.
+5. Consequentemente, a regra de competência inserta no inciso I do artigo 101 do CDC deve incidir na espécie, sendo facultada ao consumidor a propositura da ação no foro do seu domicílio, motivo pelo qual não merece reforma o acórdão estadual.
+6. Agravo interno não provido.
+(AgInt no REsp 1347473 / SP, Relator: Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, Julgamento, 4/12/2018, DJe 10/12/2018).
+No caso, a Corte local reconheceu a existência de relação de consumo na hipótese dos autos, a despeito de se tratar de entidade subvencionada pelo SUS. Veja-se:
+A 9ª Câmara Cível tem se posicionado no sentido de que a relação firmada entre hospital e paciente se caracteriza como de consumo e que a remuneração dos serviços prestados ocorre de maneira indireta pelo Estado, o que não afasta a incidência das normas consumeristas.
+Ou seja, ainda que o atendimento tenha ocorrido pelo SUS, a relação havida entre as partes é de consumo, haja vista que as partes se enquadram nos conceitos de consumidor e fornecedor, dispostos nos artigos 2º e 3º do CDC, sem necessidade de remuneração direta pelo paciente.
+Esse entendimento está em consonância com a jurisprudência do Superior Tribunal de Justiça (STJ), sendo de rigor a aplicação da Súmula 83 da Casa.
+Indo adiante, registro que a verificação da presença dos requisitos para deferir a inversão do ônus da prova exige reexame de matéria fática. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. COMPROVAÇÃO DA EXISTÊNCIA DE RELAÇÃO JURÍDICA ENTRE AS PARTES E AUSÊNCIA DOS REQUISITOS PARA A INVERSÃO DO ÔNUS DA PROVA. RECONHECIMENTO. IMPOSSIBILIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7 DESTA CORTE. RECURSO NÃO PROVIDO.
+1. O Tribunal de origem, com base nos fatos e provas dos autos, concluiu pela comprovação da existência de relação jurídica entre as partes e pela presença dos requisitos capazes de ensejar a inversão do ônus da prova. O acolhimento das razões de recurso, na forma pretendida, demandaria o reexame de matéria fática. Incidência do verbete 7 da Súmula desta Corte.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 147.342/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 06/08/2013, DJe 15/08/2013)
+Tem aplicação, no ponto, a Súmula 7 do STJ.
+Prosseguindo, esclareço que o consumidor pode propor a demanda (contra fornecedor/prestador de serviço) no foro de seu domicílio. Confira-se (mudando-se o que deve ser mudado):
+DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. RECURSO ESPECIAL. PRETENSÃO DE RECONHECIMENTO DA VIOLAÇÃO, NA VIGÊNCIA DA CONSTITUIÇÃO FEDERAL DE 1988, DE DISPOSITIVOS DA LEI DE IMPRENSA. DESCABIMENTO. OMISSÃO. INEXISTÊNCIA. AÇÃO CAUTELAR EM FACE DA RETRANSMISSORA, BUSCANDO EXIBIÇÃO DE FITAS. VEICULAÇÃO DE NOTÍCIAS DESABONADORAS EM TELEJORNAIS DE ÂMBITO LOCAL E NACIONAL. RELAÇÃO JURÍDICA ENTRE TELESPECTADOR E RETRANSMISSORA DE TELEVISÃO. CONSUMO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA RETRANSMISSORA PARA QUE ESSA APRESENTE AS FITAS DE PROGRAMAS PRODUZIDOS PELA EMISSORA. INVIABILIDADE.
+1. O STF declarou, no julgamento da ADPF 130, relatada pelo Ministro Carlos Britto, que a Constituição Federal de 1988 não recepcionou a Lei de Imprensa, por isso não há falar em violação de dispositivos desse Diploma.
+2. A retransmissora, tal qual a emissora, se enquadram ao conceito de fornecedor de serviços, nos moldes do disposto no artigo 3º, § 2º, do Código de Defesa do Consumidor.
+3. Como a relação jurídica é de consumo, o artigo 101, I, do Código de Defesa do Consumidor permite ao consumidor ajuizar, em seu domicílio, ação em face da emissora e da retransmissora, buscando a exibição de fitas com as gravações dos programas produzidos e veiculados por cada uma delas para instruir a futura ação de responsabilidade civil. Com efeito, a tese de ser possível, com base no artigo 28 do Código de Defesa do Consumidor, a desconsideração da personalidade jurídica da retransmissora para que essa exiba as fitas com as cópias dos telejornais de âmbito nacional, é manifestamente descabida, incidindo a Súmula 284/STF.
+4. Recurso especial a que se nega provimento.
+(REsp n. 946.851/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 17/4/2012, DJe de 15/5/2012.)
+Incide, quanto a esse assunto, a Súmula 83 do STJ.
+Em face do exposto, nego provimento ao recurso.
+Intimem-se.
+EMENTA
