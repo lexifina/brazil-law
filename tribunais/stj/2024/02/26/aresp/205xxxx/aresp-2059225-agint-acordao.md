@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin e Mauro Campbell Marques votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Francisco Falcão.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DO ENUNCIADO 126/STJ. PRETENSÃO QUE DEMANDA INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. INCIDÊNCIA DO ENUNCIADO 280/STF. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS INVOCADOS. DEFICIÊNCIA. INCIDÊNCIA DO ENUNCIADO 284/STF.
+1. Não violação aos arts. 489 e 1.022, do CPC/2015, quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte agravante.
+2. O acórdão recorrido tem fundamento constitucional autônomo e não houve interposição do devido recurso extraordinário dirigido ao Supremo Tribunal Federal, o que atrai a incidência do Enunciado 126/STJ.
+3. Solucionada a demanda com fundamento na interpretação de legislação local, incide o óbice previsto no Enunciado 280/STF.
+4. A ausência de indicação do dispositivo legal tido por violado, a amparar a respectiva tese defendida no apelo raro, implica deficiência de fundamentação recursal, conforme o Enunciado 284/STF.
+5. Deve ser negado provimento ao Agravo interno quando não apresentados pela parte agravante argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+6. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em análise, Agravo interno interposto pelo ESTADO DO RIO DE JANEIRO contra decisão de fls. 530/536e, que conheceu do Agravo para conhecer parcialmente do Recurso Especial e, nessa extensão, negar provimento ao apelo nobre interposto contra o seguinte acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO:
+"APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. DIREITO TRIBUTÁRIO. ICMS. REGIME ESPECIAL INSTITUÍDO PELA LEI 6.979/15. MAJORAÇÃO DA ALÍQUOTA DO FECP. IMPOSSIBILIDADE.
+1. Industria que foi enquadrada no regime Tributário Especial de ICMS estabelecido na Lei 6.979/15, benefício que foi concedido por prazo certo mediante o cumprimento de determinados requisitos, inclusive geográficos.
+2. A Lei 6.979/15 dispõe que o recolhimento do ICMS se dará no percentual correspondente a 2% sobre as operações de saída, já incluído neste percentual a parcela de 1% destinada ao Fundo Estadual de Combate à Pobreza e às Desigualdades Sociais.
+3. Lei Complementar 167/2015 que majorou a alíquota do FECP de forma genérica e deve ser aplicada às empresas submetidas ao regime geral, e não àquelas beneficiadas pelo regime especial.
+4. Ao estabelecer que o imposto a ser recolhido pelos optantes do regime de tributação especial corresponderia à aplicação de 3% sobre o valor das operações de saída, o Decreto 45.507/16 acabou por majorar a alíquota do FECP, reduzindo, por via de consequência, incentivo fiscal concedido por lei à impetrante.
+5. A isenção tributária, concedida por prazo certo e mediante o atendimento de determinadas condições, gera direito adquirido ao contribuinte beneficiado, conforme disposto no art. 178 do CTN e no Verbete 544 do STF. Precedente deste Tribunal.
+6. Conhecimento e desprovimento do recurso para manter a sentença proferida".
+Em suas razões de Agravo interno, a parte recorrente repisou os fundamentos e pugnou pelo conhecimento e deferimento do Recurso Especial. Requereu, por fim, o provimento do presente Agravo interno.
+Houve apresentação de contrarrazões.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DO ENUNCIADO 126/STJ. PRETENSÃO QUE DEMANDA INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. INCIDÊNCIA DO ENUNCIADO 280/STF. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS INVOCADOS. DEFICIÊNCIA. INCIDÊNCIA DO ENUNCIADO 284/STF.
+1. Não violação aos arts. 489 e 1.022, do CPC/2015, quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte agravante.
+2. O acórdão recorrido tem fundamento constitucional autônomo e não houve interposição do devido recurso extraordinário dirigido ao Supremo Tribunal Federal, o que atrai a incidência do Enunciado 126/STJ.
+3. Solucionada a demanda com fundamento na interpretação de legislação local, incide o óbice previsto no Enunciado 280/STF.
+4. A ausência de indicação do dispositivo legal tido por violado, a amparar a respectiva tese defendida no apelo raro, implica deficiência de fundamentação recursal, conforme o Enunciado 284/STF.
+5. Deve ser negado provimento ao Agravo interno quando não apresentados pela parte agravante argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+6. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  O Agravo interno não merece prosperar.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido pela parte agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Com efeito, a decisão recorrida afastou a alegação de negativa de prestação jurisdicional, asseverou pela ausência de prequestionamento, bem como destacou a incidência dos Enunciados 126, 280 e 284, da Súmula de Jurisprudência do Superior Tribunal de Justiça e do Supremo Tribunal Federal, respectivamente.
+Da leitura de suas razões de Agravo interno, verifica-se que a parte recorrente não trouxe qualquer novo subsídio capaz de alterar os fundamentos da decisão ora agravada.
+Inicialmente, não há se falar em violação aos arts. 489 e 1.022, ambos do CPC/2015, quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte agravante.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ALEGADA NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. PEDIDO DE TUTELA DE URGÊNCIA. REQUISITOS. REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DOS ÓBICES DAS SÚMULAS 735 DO STF E 7 DO STJ. PROVIMENTO NEGADO.
+1. Não há que se falar em violação dos arts. 489 e 1.022 do CPC/2015 quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte agravante.
+(..)
+5. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 2.175.538/RN, Rel. Ministro PAULO SÉRGIO DOMINGUES, PRIMEIRA TURMA, DJe de 22/06/2023).
+Por segundo, consoante destacado no julgado singular, tendo o acórdão recorrido decidido a controvérsia também a partir de fundamento constitucional e ausente a interposição de recurso extraordinário, é aplicável o óbice previsto no Enunciado 126/STJ.
+A propósito:
+"ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. ANULAÇÃO DE DOAÇÃO DE BEM PÚBLICO. IMPRESCRITIBILIDADE DA AÇÃO. FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. INCIDÊNCIA.
+1. Constata-se que o Tribunal de origem, ao decidir a questão relativa à imprescritibilidade da ação, amparou-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido. Portanto, a ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ.
+2. Agravo interno não provido" (STJ, AgInt no AREsp 1.651.027/ES, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 12/09/2023).
+Prosseguindo, verifica-se que o acórdão recorrido julgou a controvérsia sob a ótica da legislação local, razão pela qual a análise da questão nesta seara recursal esbarra no óbice do Enunciado 280/STF.
+A propósito:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TAXA DE VERIFICAÇÃO DE FUNCIONAMENTO REGULAR. NOTIFICAÇÃO PRESUMIDA. DESCONSTITUIÇÃO. ÔNUS PROBATÓRIO DO CONTRIBUINTE. AUSÊNCIA DE COMPROVAÇÃO. SÚMULAS 7 E 83 DO STJ. LEGITIMIDADE. PRETENSÃO QUE DEMANDA INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. SÚMULA 280/STF. AGRAVO INTERNO DO CONTRIBUINTE A QUE SE NEGA PROVIMENTO.
+1. A Primeira Seção desta Corte, ao julgar o REsp n. 1.111.124/PR (submetido à sistemática dos recursos repetitivos - Tema n. 116), pacificou entendimento no sentido de que a remessa ao endereço do contribuinte do carnê de pagamento do IPTU, configura notificação presumida do lançamento do tributo.
+2. Na espécie, o tribunal de origem, atento à orientação do precedente qualificado do STJ, considerou necessária a comprovação, por parte do contribuinte, de que a correspondência destinada à notificação não teria sido enviada para o endereço do imóvel.
+3. Assim, não tendo sido cumprida a providência por parte do contribuinte, aplica-se o entendimento das Súmulas 7 e 83 do STJ.
+4. A questão da legitimidade foi decidida mediante análise de legislação local, qual seja, a Lei Municipal 1.108/2001. Assim, inviável a análise do ponto, ante o óbice da Súmula 280/STF: "Por ofensa a direito local não cabe recurso extraordinário".
+5. Agravo interno da empresa a que se nega provimento" (STJ, AgInt nos EDcl no AREsp 1.874.602/PR, Rel. Ministro MANOEL ERHARDT (Desembargador convocado do TRF/5ª Região), PRIMEIRA TURMA, DJe de 18/05/2022).
+Por fim, a ausência de indicação do dispositivo legal tido por violado, a amparar a respectiva tese defendida no apelo raro, implica deficiência de fundamentação recursal. Incidência do Enunciado 284/STF.
+A propósito:
+"TRIBUTÁRIO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. ARREMATAÇÃO. PREÇO VIL. CARACTERIZAÇÃO. APLICAÇÃO DE ENTENDIMENTO DO STJ. QUADRO FÁTICO DELINEADO PELO TRIBUNAL DE ORIGEM. BEM ARREMATADO POR VALOR INFERIOR A 50%. DESCONSTITUIÇÃO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. REGULARIDADE DA INTIMAÇÃO. NÃO OCORRÊNCIA. PREMISSA FÁTICA ESTABELECIDA PELO ACÓRDÃO RECORRIDO. REVOLVIMENTO DO ACERVO DE FATOS E PROVAS. VERBETE 7/STJ. INCIDÊNCIA. ART. 13, §1º, DA LEF. PREQUESTIONAMENTO. INEXISTÊNCIA. ENUNCIADO SUMULAR 282/STJ. APLICAÇÃO. FUNDAMENTAÇÃO RECURSAL. AUSÊNCIA DE COMANDO LEGAL DOS DISPOSITIVOS INVOCADOS. DEFICIÊNCIA. SÚMULA 284/STF.
+1. A jurisprudência desta Corte tem adotado como parâmetro para aferir a configuração de preço vil o valor de 50% (cinquenta por cento) da avaliação do bem. Precedentes.
+2. Considerando-se as razões de decidir adotadas pelo Tribunal de origem no acórdão recorrido, que estabeleceu a premissa de que o bem foi arrematado por preço vil em lance inferior a 50% do valor de avaliação atualizado, vê-se que os argumentos utilizados pela parte recorrente, relativos ao montante da arrematação e, por conseguinte, à inexistência de preço vil, somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, incabível em recurso especial, nos termos da Súmula 7/STJ. Precedentes.
+3. A modificação das premissas adotadas pela Corte de origem no tocante à ausência de regularidade legal da intimação pessoal dos autores, na condição de executado e de coproprietária, tal como colocada a questão nas razões recursais, em sentido contrário, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial. Incidência da Súmula 7/STJ.
+4. Inviável o conhecimento do apelo nobre quando o Tribunal a quo não examinou a alegação da tese recursal fundada na violação ao §1º do art. 13 da LEF, tampouco foram opostos os competentes embargos de declaração a fim de suscitar omissão quanto a tal ponto. Aplicação do Enunciado Sumular 282/STF.
+5. A ausência de indicação do dispositivo legal tido por violado, a amparar a respectiva tese defendida no apelo raro, implica deficiência de fundamentação recursal, sendo insuficiente para a abertura da via especial a mera transcrição de preceitos legais, uma vez que o recurso especial deve conter, de forma clara e objetiva, as razões pelas quais a recorrente visa reformar o decisum, demonstrando a maneira como o acórdão recorrido teria malferido a legislação federal. Incidência da Súmula 284/STF. Precedentes: AgRg no AREsp n. 2.125.764/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/9/2022, DJe de 19/9/2022; AgRg no AREsp 367.082/GO, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 16/9/2014, DJe 24/09/2014; AgRg no REsp 1.354.928/PE, Rel. Ministro Mauro Campbell Marques, SegundaTurma, julgado em 21/2/2013, DJe 28/2/2013; AgRg no Ag 875.862/MG, Rel. Ministro Luiz Fux, Primeira Turma, julgado em 16/10/2008, DJe 3/11/2008; e AgRg no REsp 1064931/SP, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 16/12/2008, DJe 4/2/2009.
+6. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 2.093.982/MS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 28/09/2023).
+Isso posto, conheço do Agravo interno e nego provimento.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (Enunciado Administrativo 3/STJ), inclusive no que tange à aplicação de multa (art. 1.021, § 4º, e 1.026, § 2º, do CPC/2015).
