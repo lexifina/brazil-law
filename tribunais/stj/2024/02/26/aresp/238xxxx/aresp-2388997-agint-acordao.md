@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. ALGUÉIS E INDENIZAÇÃO. ALEGADA VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. NÃO INDICAÇÃO NO CAPÍTULO PRÓPRIO DO RECURSO DAS QUESTÕES FEDERAIS SUSCITADAS. APRESENTAÇÃO GENÉRICA DA OMISSÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N.º 284 DO STF. ANALOGIA. AUSÊNCIA DE SOLIDARIEDADE PASSIVA. ALEGAÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA N.º 211 DO STJ. INCIDÊNCIA, AINDA, DA SÚMULA Nº 283/STF, POR AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO CRITICADO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Na falta de indicação das teses omitidas, quando se alega violação d os artigos 489 e 1.022 do CPC, aplicável ao caso o teor da Súmula nº 284 do STF, em razão da deficiência na fundamentação oriunda da alegação genérica de contrariedade a dispositivo de lei federal.
+2. Inadmissível o recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal local (Súmula n.º 211 do STJ).
+3. O não enfrentamento dos fundamentos da teoria da asserção e do enriquecimento ilícito para justificar a legitimidade passiva e a responsabilização solidária na ação de cobrança pelo imóvel ocupado de fato pelo recorrente, atrai o óbice da Súmula nº 283/STF.
+4.Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo ESTADO DO RIO DE JANEIRO contra decisão monocrática desta relatoria, assim ementada:
+CIVIL E PROCESSUAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. ALUGUÉIS E ENCARGOS. OMISSÃO NO JULGADO RECORRIDO. PONTOS OMITIDOS. NÃO INDICAÇÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N.º284 DO STF. ANALOGIA. AUSÊNCIA DE SOLIDARIEDADE PASSIVA. ALEGAÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA N.º 211 DO STJ. INCIDÊNCIA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Nas razões do presente inconformismo, defendeu que explicitou de forma clara as razões de violação dos artigos 489 e 1.022 do CPC, devendo, pois, ser acolhido o recurso por ofensa a tais dispositivos.
+No mais, asseverou que, ainda que não mencionados os dispositivos apontados como violados, o Tribunal estadual se manifestou sobre a matéria suscitada.
+Alega, por fim, que não aplicável ao caso o teor das Súmulas nºs 284 do STF e 211 do STJ.
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. ALGUÉIS E INDENIZAÇÃO. ALEGADA VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. NÃO INDICAÇÃO NO CAPÍTULO PRÓPRIO DO RECURSO DAS QUESTÕES FEDERAIS SUSCITADAS. APRESENTAÇÃO GENÉRICA DA OMISSÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N.º 284 DO STF. ANALOGIA. AUSÊNCIA DE SOLIDARIEDADE PASSIVA. ALEGAÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA N.º 211 DO STJ. INCIDÊNCIA, AINDA, DA SÚMULA Nº 283/STF, POR AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO CRITICADO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Na falta de indicação das teses omitidas, quando se alega violação d os artigos 489 e 1.022 do CPC, aplicável ao caso o teor da Súmula nº 284 do STF, em razão da deficiência na fundamentação oriunda da alegação genérica de contrariedade a dispositivo de lei federal.
+2. Inadmissível o recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal local (Súmula n.º 211 do STJ).
+3. O não enfrentamento dos fundamentos da teoria da asserção e do enriquecimento ilícito para justificar a legitimidade passiva e a responsabilização solidária na ação de cobrança pelo imóvel ocupado de fato pelo recorrente, atrai o óbice da Súmula nº 283/STF.
+4.Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+Da deficiência do prequestionamento sobre a negativa de prestação jurisdicional.
+Nas razões do presente inconformismo, o ESTADO DO RIO DE JANEIRO defendeu que explicitou de forma clara nas razões de seu apelo nobre a violação dos artigos 489 e 1.022 do CPC, devendo, pois, ser acolhido o recurso por ofensa a tais dispositivos.
+Porém, conforme consignado na decisão ora recorrida, não houve a indicação da tese omitida, em evidente alegação genérica de contrariedade dos referidos dispositivos.
+Bem observado o capítulo destinado a invocar a negativa de prestação jurisdicional ("V.2"), em seus três parágrafos, verifica-se que o ente federativo limitou-se a indicar a existência de uma "omissão" e que almejava com a oposição dos embargos declaratórios que tal vício fosse sanado, bem como que "se realizasse o prequestionamento da matéria para viabilizar a interposição do presente recurso", argumentos que não se prestam a identificar a real questão federal invocada, conforme se verifica a, e-STJ, fl. 360.
+Nesses casos, ante a deficiente fundamentação do recurso, incide a Súmula n.º 284 do STF, por analogia: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Este é o entendimento desta Corte. Confira-se:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. COTAS CONDOMINIAIS E TAXAS EXTRA DE IMÓVEIS. VIOLAÇÃO DOS ARTS. 489 E 1.022, AMBOS DO NCPC. AUSÊNCIA DE INDICAÇÃO CLARA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. VIOLAÇÃO DOS ARTS. 373 E 1.013, AMBOS DO NCPC. INDEFERIMENTO DE PROVA ORAL. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este recurso ante os termos no Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. É deficiente a fundamentação do recurso especial em que a alegada ofensa ao art. 1.022 do NCPC se faz sem a demonstração objetiva dos pontos omitidos pelo acórdão recorrido, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos. Incidência da Súmula nº 284 do STF.
+(..)
+6. Agravo interno não provido, com imposição de multa.
+(AgInt no AREsp 1.229.647/MG, de minha relatoria, TERCEIRA TURMA, julgado em 5/6/2018, DJe 15/6/2018)
+E, não fosse por isso, o recurso especial peca pelo não enfrentamento de fundamentos autônomos do acórdão criticado, especialmente quando sustentou o Tribunal carioca a legitimidade passiva e a possibilidade de se cobrar solidariamente o ESTADO DO RIO DE JANEIRO pelas despesas de indenização e locação de prédio para instalação de delegacia de polícia sob os enfoques seguintes:
+Consoante teoria da asserção, a verificação da pertinência subjetiva ativa ou passiva deve ser feita à luz das alegações feitas pelo autor na inicial, as quais deverão ser tidas como verdadeiras, a fim de se buscar a eventual presença dos requisitos do provimento final (e-STJ, fls. 441 - sem destaque no original).
+(..)
+Portanto, os declaratórios do Estado do Rio de Janeiro, ora 2º embargante, revelam o mero inconformismo no que diz respeito ao mérito do acórdão, visto que deve responder pela locação, sob pena de enriquecimento sem causa (e-STJ, fl. 530 - sem destaque no original)
+Em nenhum momento o especial do ESTADO DO RIO DE JANEIRO aborda a teoria da asserção mencionada, quiçá para contestar o que estaria, de fato, contido na petição para derruir o argumento judicial ou para infirmar o alegado enriquecimento sem causa também aferido pelo Tribunal recorrido, donde ser inevitável, também, a atração para o recurso do impeditivo da Súmula nº 283/STF, segundo a qual é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Da ausência de manifestação do acórdão criticado sobre a questão federal suscitada.
+O ESTADO DO RIO DE JANEIRO alegou que, ainda que não mencionados os dispositivos apontados como violados, o Tribunal estadual se manifestou sobre a matéria suscitada.
+Contudo, como constou na decisão agravada, o Tribunal estadual não se pronunciou sobre tal matéria, apesar da oposição dos embargos de declaração.
+Ressalte-se que é exigência contida na própria previsão constitucional para a interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância pela Corte de origem, não sendo suficiente a parte discorrer sobre o dispositivo legal que entende infringido. É imprescindível que se tenha emitido juízo de valor sobre os preceitos indicados como violados, o que não ocorreu na hipótese examinada, mesmo tendo sido opostos embargos de declaração.
+Ademais, nos termos da jurisprudência do STJ, para a admissão do prequestionamento ficto, nos termos do art. 1.025 do CPC, em recurso especial, exige-se a anterior oposição dos embargos de declaração, além da indicação clara das teses omitidas, além da contrariedade ao art. 1.022 do CPC, para que se possibilite ao Órgão julgador verificar a existência do vício no acórdão recorrido, o que não foi feito no caso dos autos.
+Assim, em virtude da falta de prequestionamento, não há como ser analisada a tese trazida no recurso especial quanto à apontada ausência de solidariedade passiva no pagamento de aluguéis.
+A propósito, confiram-se os precedentes
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. MANUTENÇÃO EM PLANO DE SAÚDE APÓS DEMISSÃO SEM JUSTA CAUSA. FALTA DE PREQUESTIONAMENTO DO ARTIGO DE LEI TIDO POR VIOLADO. SÚMULA 211/STJ. INVIABILIDADE DE PREQUESTIONAMENTO FICTO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO SUSCITADA. RESOLUÇÕES CONSU 19/1999 E 279/2011. DISPOSIÇÕES NORMATIVAS QUE NÃO SE ENQUADRAM NO CONCEITO DE LEI FEDERAL A ENSEJAR A INTERPOSIÇÃO DE RECURSO ESPECIAL. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. COTEJO ANALÍTICO NÃO EFETUADO. AGRAVO INTERNO DESPROVIDO.
+1. Inadmissível o recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal local (Súmula n. 211/STJ).
+1.1. O prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, a parte recorrente suscitar violação ao art. 1.022 do mesmo diploma, porquanto somente dessa forma é que o órgão julgador poderá verificar a existência do vício e proceder à supressão de grau, providência não adotada no recurso especial apresentado.
+ ..
+4. Razões recursais insuficientes para a revisão do julgado.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1.851.497/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 16/8/2021, DJe 19/8/2021 - sem destaques no original)
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE DESPESAS COM REMOÇÃO E ESTADIA DE VEÍCULO EM PÁTIO PRIVADO. VEÍCULO OBJETO DE CONTRATO DE FINANCIAMENTO, COM CLÁUSULA DE ALIENAÇÃO FIDUCIÁRIA. INSTÂNCIAS ORDINÁRIAS ASSENTARAM QUE O RECOLHIMENTO FOI DECORRENTE DE AÇÃO MOVIDA PELO CREDOR. CREDOR RESPONSÁVEL PELAS DESPESAS DE ESTADIA. PRECEDENTES. VIOLAÇÕES DO CÓDIGO DE TRÂNSITO BRASILEIRO. INCIDÊNCIA EM CASO DE PENALIDADE POR INFRAÇÃO ADMINISTRATIVA. O QUE NÃO É O CASO DOS AUTOS. REVISÃO. SÚMULA 7/STJ.
+ ..
+2. Quanto aos arts. 389, 944, 1.196, 1.204, 1.361, 1.368-B do Código Civil, apontados no recurso especial, verifica-se que seus conteúdos normativos não foram objeto de apreciação pelo Tribunal de origem, nem mesmo implicitamente, apesar da interposição dos embargos de declaração objetivando suprir eventual omissão quanto a esse ponto.
+3. Persistindo a omissão, como no presente caso, e sendo relevante, no seu entender, para a solução da controvérsia, deveria a parte ora recorrente ter apontado, nas razões do recurso especial, afronta ao art. 1.022 do CPC/2015, sob pena de perseverar o óbice da ausência de prequestionamento, providência a que se furtou. Incide, portanto, na espécie o óbice da Súmula 211/STJ.
+4. Não há falar-se em prequestionamento ficto porquanto a incidência do art. 1.025 do CPC, segundo a jurisprudência desta Corte Superior, exige que no recurso especial seja indicada violação ao art. 1.022 do CPC, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+ ..
+8. Agravo interno não provido.
+(AgInt no REsp 1.817.294/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 19/4/2021, DJe 26/4/2021 - sem destaques no original)
+Por esse motivo, é inafastável a incidência da Súmula n.º 211 do STJ por ausência de prequestionamento da tese suscitada.
+Dessarte, mantém-se a decisão proferida, por não haver motivos para sua alteração.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
