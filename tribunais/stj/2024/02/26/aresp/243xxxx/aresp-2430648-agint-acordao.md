@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. ALEGADA VIOLAÇÃO AO PRINCÍPIO DA NÃO SURPRESA - ART. 10 DO CPC. NÃO OCORRÊNCIA. INTIMAÇÃO PRÉVIA. TRIBUNAL DE ORIGEM QUE ATESTA A OBSERVÂNCIA DO PRÉVIO CONTRADITÓRIO. INÉRCIA PROCESSUAL. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há ofensa ao princípio da não surpresa, art. 10 do NCPC, se o Tribunal dá classificação jurídica aos fatos controvertidos contrários à pretensão da parte com aplicação da lei aos fatos narrados nos autos.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL (PREVI) contra decisão de relatoria da Ministra Presidente desta Corte, que conheceu do agravo em recurso especial para não conhecer do recurso especial anteriormente manejado em virtude da incidência da Súmula n.º 7 do STJ.
+Nas razões do presente inconformismo, repisando os argumentos trazidos nas razões recursais, alegou a não incidência da Súmula n.º 7 do STJ, por não se buscar o revolvimento do arcabouço fático-probatório, quanto à alegada violação dos arts. 9º e 10 do NCPC, no que concerne à violação do princípio da vedação à decisão não surpresa, pois não foi possibilitado prazo para se manifestar sobre a existência do espólio e de bens da ex-segurada.
+Não houve impugnação ao recurso (e-STJ, fl. 607).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. ALEGADA VIOLAÇÃO AO PRINCÍPIO DA NÃO SURPRESA - ART. 10 DO CPC. NÃO OCORRÊNCIA. INTIMAÇÃO PRÉVIA. TRIBUNAL DE ORIGEM QUE ATESTA A OBSERVÂNCIA DO PRÉVIO CONTRADITÓRIO. INÉRCIA PROCESSUAL. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há ofensa ao princípio da não surpresa, art. 10 do NCPC, se o Tribunal dá classificação jurídica aos fatos controvertidos contrários à pretensão da parte com aplicação da lei aos fatos narrados nos autos.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+3. Agravo interno não provido.
+VOTO
+O recurso não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+Na hipótese, quanto à alegada violação dos arts. 9º e 10 do NCPC, no que concerne à necessidade de anular o v. acórdão recorrido diante da violação do princípio da vedação à decisão não surpresa, pois não foi possibilitado à recorrente prazo para se manifestar sobre a existência do espólio e de bens da ex-segurada, o Tribunal local consignou expressamente:
+No caso dos autos, porém, não existe qualquer fundamento apto a ensejar a nulidade da sentença, porquanto não foi proferida fundamentação baseada em fatos ou argumentos novos.
+Com efeito, a parte autora propôs a presente ação de cobrança, visando à restituição de benefício de pensão por morte pago após o óbito da beneficiária.
+Contudo, o autor indicou como réu a "SUCESSÃO DE MARIA SECUNDINA DE JESUS COHIN", o que, obviamente, levou o juízo a determinar a emenda da inicial, para correção do polo passivo.
+Nesse passo, o autor indicou como réu o espólio de MARIA SECUNDINA DE JESUS COHIN, representado por RONALDO FOSTER VIDAL. Procedida à citação do suposto representante legal, este informou que apenas foi curador da então beneficiária, não tendo sequer conhecimento acerca de inventário ou formação de espólio, porquanto a Sra. Maria Secundina sequer possuía herdeiros ou bens a inventaria.
+Diante de tais fatos, após inúmeras intimações direcionadas ao autor, o juízo a quo, em decisão preclusa, proferida no doc., 167, excluiu o Sr. Ronaldo do polo passivo, determinando novamente ao autor que regularizasse o polo passivo da ação.
+Assim, o autor peticionou requerendo a citação do suposto espólio em diversos endereços, o que foi deferido.
+Contudo, não se logrou encontrar qualquer representante legal do espólio, até mesmo porque o autor sequer comprovou a sua existência.
+Assim, é falacioso o argumento do apelante no sentido de que não teve oportunidade de se manifestar sobre a existência do espólio, porquanto, desde que a ação foi proposta em 2014, o autor é instado a regularizar o polo passivo, com a indicação correta não apenas do referido espólio, mas também de seu representante legal.
+Ademais, é ônus do demandante indicar o réu, com a devida individualização, de forma a permitir a regularização da relação processual e devida defesa e contraditório, devendo-se destacar que as pesquisas a que se refere o recorrente, no sentido de localizar a existência do espólio, deveriam ter sido feitas antes mesmo do ajuizamento da ação.
+ ..
+Ressalte-se, ainda, que a certidão de óbito da ex-segurada, acostada pelo próprio apelante, indica que não havia sequer bens a inventariar, devendo-se destacar que se houve a retirada de valores da conta da falecida, caberá ao recorrente as medidas, a fim de localizar o real infrator, tal como consignado na sentença. Sendo assim, não há qualquer nulidade ou violação aos preceitos dos arts. 9º e 10, do CPC (e-STJ, fls. 448/450 - sem destaques no original).
+Ressalta-se que não há ofensa ao princípio da não surpresa, art. 10 do NCPC, se o Tribunal dá classificação jurídica aos fatos controvertidos contrários à pretensão da parte com aplicação da lei aos fatos narrados nos autos.
+A propósito:
+RECURSO ESPECIAL. AÇÃO DE RESTITUIÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRINCÍPIO DA NÃO SURPRESA. AUSÊNCIA DE VIOLAÇÃO. CONCLUSÃO DO ACÓRDÃO RECORRIDO. DECORRÊNCIA DIRETA DA ANÁLISE DA CAUSA DE PEDIR E DO PEDIDO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+1. Ação ajuizada em 4/4/2016. Recurso especial interposto em 6/3/2019. Autos conclusos ao gabinete da Relatora em 28/4/2021.
+2. O propósito recursal consiste em definir se o acórdão impugnado, ao reconhecer, em julgamento de apelação, a impossibilidade jurídica do pedido deduzido pelo recorrente, violou o princípio da não surpresa.
+3. Não há ofensa aos arts. 489 e 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+4. O juiz não pode decidir, em grau algum de jurisdição, com base em fundamento a respeito do qual não se tenha dado às partes oportunidade de se manifestar, ainda que se trate de matéria sobre a qual deva decidir de ofício (art. 10 do CPC/15).
+5. O princípio da não surpresa, constante no art. 10 do CPC/2015, não é aplicável à hipótese em que há adoção de fundamentos jurídicos contrários à pretensão da parte com aplicação da lei aos fatos narrados. Precedente.
+6. Hipótese concreta em que a conclusão alcançada pelo acórdão recorrido - no que concerne à impossibilidade jurídica do pedido - decorreu exclusivamente da análise da causa de pedir e do pedido constantes da petição inicial, caracterizando-se como desdobramento natural da demanda instaurada, não havendo falar em afronta ao princípio da não surpresa.
+7. Descabe falar em decisão surpresa quando o julgador, analisando os fatos, o pedido e a causa de pedir, bem ainda os documentos que instruem a demanda, aplica o posicionamento jurídico que considera adequado para a solução da lide. Precedentes.
+8. No que concerne à alegada violação dos arts. 141 e 1.013, § 1º, do CPC/15, verifica-se que o conteúdo normativo de tais dispositivos não foi objeto de deliberação quando do julgamento da apelação interposta pelo recorrente, tampouco dos subsequentes embargos de declaração. Aplicação da Súmula 211/STJ.
+RECURSO ESPECIAL NÃO PROVIDO.
+(REsp 1.957.652/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 15/2/2022, DJe 18/2/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA PROPOSTA PELO MINISTÉRIO PÚBLICO. SERVIÇO DE TELEFONIA. ALEGADA VIOLAÇÃO AO PRINCÍPIO DA NÃO SURPRESA - ART. 10 DO CPC. NÃO OCORRÊNCIA. CONDENAÇÃO DA PARTE REQUERIDA EM HONORÁRIOS ADVOCATÍCIOS A FAVOR DO MINISTÉRIO PÚBLICO. DESCABIMENTO.
+1. "Não há falar em decisão surpresa quando o magistrado, diante dos limites da causa de pedir, do pedido e do substrato fático delineado nos autos, realiza a tipificação jurídica da pretensão no ordenamento jurídico posto, aplicando a lei adequada à solução do conflito, ainda que as partes não a tenham invocado (iura novit curia) e independentemente de oitiva delas, até porque a lei deve ser do conhecimento de todos, não podendo ninguém se dizer surpreendido com a sua aplicação". (AgInt no AREsp 1587128/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 30/03/2020, DJe 02/04/2020) 2. Na linha dos precedentes desta Corte, o Ministério Público não faz jus ao recebimento de honorários advocatícios sucumbenciais quando vencedor na ação civil pública por ele proposta. (..)."
+(REsp 1358057/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 22/05/2018, DJe 25/06/2018) 3. Agravo interno não provido.
+(AgInt no AREsp 1.889.349/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, j. 16/11/2021, DJe 19/11/2021)
+Ademais, conforme se nota, a Corte local assim decidiu com amparo no contexto fático-probatório da causa, de modo que a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula n.º 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. CPC/15. AÇÃO DE EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. PROCESSO PARALISADO POR PRAZO SUPERIOR AO DA PRESCRIÇÃO DO DIREITO MATERIAL.
+OBSERVÂNCIA DO ENTENDIMENTO FIRMADO EM INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. RESP 1604412/SC. DEMORA NA CITAÇÃO DO EXECUTADO E AUSÊNCIA DE INTIMAÇÃO PRÉVIA DA PARTE EXEQUENTE. TRIBUNAL DE ORIGEM QUE ATESTA A OBSERVÂNCIA DO PRÉVIO CONTRADITÓRIO E DA CULPA EXCLUSIVA DO CREDOR PELA INÉRCIA PROCESSUAL. MATÉRIA QUE DEMANDA REEXAME DE FATOS. SÚMULA 7/STJ. DECISÃO AGRAVADA MANTIDA.
+AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+(AgInt no REsp n. 1.798.501/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 1/7/2019, DJe de 2/8/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. NEGATIVA. PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ABANDONO DA CAUSA PELO AUTOR. CARACTERIZAÇÃO. HIPÓTESE EM QUE O BANCO DEIXOU DE PRATICAR ATO NECESSÁRIO À CITAÇÃO DO CONTRATANTE. ENUNCIADO N. 240 DO STJ. INAPLICABILIDADE À ESPÉCIE. DISPENSA DO REQUERIMENTO DA RÉ PARA A EXTINÇÃO DO PROCESSO. OCORRÊNCIA DA INTIMAÇÃO PESSOAL DA AUTORA ASSENTADA PELAS INSTÂNCIAS ORDINÁRIAS. INVERSÃO. ENTENDIMENTO. VEDAÇÃO. ENUNCIADO N. 7 DA SÚMULA DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. APLICAÇÃO. SÚMULA 284/STF. AGRAVO INTERNO IMPROVIDO.
+1. Não houve violação do art. 1.022 do CPC/2015, porquanto o Tribunal de origem manifestou-se, de forma expressa e coerente, acerca de todas as questões devolvidas, ainda que sua conclusão tenha sido diametralmente oposta à tese defendida pelo agravante.
+2. A jurisprudência desta Corte tem afastado a aplicação da Súmula 240 nas hipóteses em que o abandono da causa se caracterizou justamente quanto a atos exigidos do demandante para a citação do réu, porque, nesses casos, o demandado nem mesmo chegou a ser integrado à relação processual, o que torna impossível e desnecessário o requerimento de extinção do processo sem resolução de mérito.
+3. No caso dos autos, o autor foi intimado para que suprisse o ato faltante, sob pena de extinção do processo, porém quedou-se inerte, sendo essa premissa fática assentada pelas instâncias ordinárias, cuja revisão é vedada pelo verbete sumular n. 7 do STJ.
+4. No tocante à divergência jurisprudencial, o recorrente não apontou o dispositivo cuja interpretação tenha sido divergente a fim de viabilizar o conhecimento da insurgência a respeito da tese de mérito. Dessa forma, constata-se que a argumentação apresentada no recurso mostra-se deficiente, atraindo, assim, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+5. Agravo interno improvido.
+(AgInt no AREsp n. 1.145.473/ES, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/3/2019, DJe de 22/3/2019)
+Assim, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, que não conheceu do apelo nobre, devendo ser ele mantido.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
