@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado pelo Juízo Federal do Juizado Especial Cível e Criminal Adjunto à 2ª Vara Federal de Imperatriz - SJ/MA em face de decisão do Juízo de Direito da 1ª Escrivania de Augustinópolis/TO, proferida nos autos de ação ordinária ajuizada por Raimunda Cassiano Sales contra o Instituto Nacional do Seguro Social - INSS, na qual se pleiteia a concessão de benefício previdenciário de aposentadoria rural por idade com pedido de tutela antecipada.
+A ação foi proposta na justiça comum estadual e distribuída à Vara da Comarca de Augustinopolis/TO, que declarou a incompetência absoluta daquele juízo para processamento e julgamento do feito e determinou a remessa dos autos à Justiça Federal de Imperatriz - SJ/MA.
+Destaca-se da decisão os seguintes trechos (fl. 8):
+Não obstante a distribuição nesta localidade, a Comarca de Augustinópolis/TO não possui jurisdição para analisar o caso.
+O art. 15, inciso III, da Lei n. 5.010/66, com redação dada pela Lei n. 13.876/19, vigente desde 1º.1.2020, estabelece que:
+"Quando a Comarca não for sede de Vara Federal, poderão ser processadas e julgadas na Justiça Estadual:
+III as causas em que forem parte instituição de previdência social e segurado e que se referirem a benefícios de natureza pecuniária, quando a Comarca de domicílio do segurado estiver localizada a mais de 70 km (setenta quilômetros) de Município sede de Vara Federal."
+A Comarca de Augustinópolis/TO está distante 63 km da sede da Vara Federal mais próxima, localizada em Imperatriz/MA.
+O Instituto Nacional do Seguro Social - INSS, é autarquia federal e o pedido não versa sobre reclamações trabalhistas, pelo que a competência para analisar e julgar a demanda é da Justiça Federal, diante do interesse da União, na dicção do art. 109, inciso I, da CRFB/88.
+Ante o exposto, DECLINO DA COMPETÊNCIA à Justiça Federal com fulcro no art. 109, inciso I, da Constituição Federal c/c art. 15, inciso III, da Lei n.º 5.010/66 com redação dada pela Lei n.º 13.876/19.
+Por sua vez, o Juízo Federal do Juizado Especial Cível e Criminal Adjunto à 2ª Vara Federal de Imperatriz - SJ/MA declarou sua incompetência ao fundamento, em suma, de que "as varas federais de Imperatriz SJ/MA não possuem competência jurisdicional sobre o Estado de Tocantins/TO, mas somente sobre os municípios maranhenses descritos na RESOLUÇÃO CONSOLIDADA - PRESI 8/2016." (fl. 12-13.), e suscitou o presente conflito de competência.
+Parecer do Ministério Público (fls. 74-75) opinando pelo não conhecimento do presente conflito de competência.
+É o relatório. Passo a decidir.
+No caso, observa-se que o conflito foi instaurado entre o juiz federal e o juiz estadual investido de jurisdição federal, no exercício da competência federal delegada prevista no art. 109, § 3º, da Constituição Federal, na mesma região do Tribunal Regional Federal da 1ª Região.
+Assim sendo, consoante jurisprudência desta Corte, cumpre ao Tribunal Regional Federal dirimir o presente incidente, na respectiva região, entre juiz federal e juiz estadual no exercício da competência federal delegada, nos termos da Súmula 3/STJ, segundo o qual: "Compete ao Tribunal Regional Federal dirimir conflito de competência verificado, na respectiva região, entre juiz federal e juiz estadual investido de jurisdição federal".
+A propósito:
+PREVIDENCIÁRIO. CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZOS ESTADUAL E FEDERAL. JUIZ ESTADUAL INVESTIDO DE JURISDIÇÃO FEDERAL DELEGADA. SÚMULA 3/STJ. CONFLITO NÃO CONHECIDO.
+1. Compete ao Tribunal Regional Federal dirimir Conflito de Competência verificado, na respectiva região, entre Juiz Federal e Juiz Estadual investido de jurisdição federal (Súmula 3/STJ).
+2. Conflito de Competência não conhecido (CC n. 163.550/BA, rel. ministro Napoleão Nunes Maia Filho, Primeira Seção, DJe 20/3/2019.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA INSTAURADO ENTRE JUÍZO ESTADUAL INVESTIDO DE JURISDIÇÃO FEDERAL E JUÍZO FEDERAL. ART. 109, §§ 3º e 4º, DA CONSTITUIÇÃO FEDERAL. DECISÃO DO TRF EM GRAU RECURSAL. ART. 115 DO CPC. INEXISTÊNCIA DE CONFLITO. PRECEDENTES DO STJ. CONFLITO DE COMPETÊNCIA NÃO CONHECIDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No caso dos autos foi ajuizada ação de natureza previdenciária pelo segurado do INSS perante o Juízo de Direito da Vara Distrital de Cajamar/SP, que declinou da competência e determinou a remessa dos autos à Vara Federal na Comarca do Município de Jundiaí/SP.
+Contra essa decisão o segurado interpôs agravo de instrumento dirigido ao TRF-3ª Região, que proveu o recurso para declarar a competência do Juízo Estadual do Foro Distrital de Cajamar.
+Irresignado, o Juízo Estadual do Foro Distrital suscitou o conflito de competência, o qual não foi conhecido no STJ, por este Relator.
+2. Nos termos do art. 115, II, do CPC, há conflito de competência, quando dois ou mais juízes se consideram incompetentes, o que não ocorreu no caso concreto.
+3. Portanto, o Juízo de Direito do Foro Distrital de Cajamar/SP deveria cumprir a decisão do Tribunal Regional Federal da 3ª Região, e não suscitar o presente conflito de competência. No mesmo sentido, envolvendo a Vara do Foro Distrital de Cajamar/SP, colacionam-se as seguintes decisões: CC 130.203/SP, Relator Ministro Benedito Gonçalves, DJe 7/10/2013; CC 129.987/SP, Relatora Ministra Eliana Calmon, DJe 7/10/2013; CC 130.190/SP, Relator Ministro Herman Benjamin, DJe 4/10/2013; CC 130.197/SP, Relator Ministro Ari Pargendler, DJe 19/9/2013; CC 130.019/SP, Relator Ministro Sérgio Kukina, DJe 5/9/2013.
+4. Agravo regimental não provido. (AgRg no CC n. 129.850/SP, rel. Min.istro Mauro Campbell Marques, Primeira Seção, julgado em 26/2/2014, DJe de 11/3/2014.)
+No mesmo sentido, com idêntica temática dos autos, destaca-se o seguinte julgado monocrático: CC n. 201.877/SP, Ministro Francisco Falcão, DJe de 06/2/2024; CC n. 196.922, Ministro Benedito Gonçalves, DJe de 11/05/2023; CC n. 163.550/BA, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Seção, DJe 20/3/2019.
+Ante o exposto, com fundamento no art. 34, XXII, do RI/STJ, não conheço do Conflito de Competência e determino a remessa dos autos ao Tribunal Regional Federal da 1ª Região.
+Publique-se. Intimem-se.
+EMENTA
+PREVIDENCIÁRIO. CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZOS ESTADUAL E FEDERAL. JUIZ ESTADUAL INVESTIDO DE JURISDIÇÃO FEDERAL DELEGADA. SÚMULA 3/STJ. CONFLITO NÃO CONHECIDO
