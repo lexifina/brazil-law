@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por USINA RIO PARDO S/A à decisão de fls. 162/163, que não conheceu do recurso.
+Sustenta a parte embargante que:
+7. Veja-se que que a Recorrente, ora Embargante, demonstrou nos autos através da juntada dos documentos de movimento 63 e 65 a suspensão dos prazos processuais, conforme o provimento do TJSP.
+8. E, ainda que a decisão fosse em sentido de improvimento do Agravo, por intempestividade, admitir que a ora Embargante não cumpriu com o requisito de comprovação da suspensão é proferir decisão omissa (fl. 168).
+Alega ainda:
+11. Ora, a sentença proferida nos autos foi de julgamento sem resolução de mérito, e mesmo reformada em sede recursal, foi determiando tão somente o retorno dos autos para seguimento em seus ulteriores atos.
+12. A decisão que ora se embarga, contraditoriamente, determinou a majoração dos honorários para 15% do valor atualizado da causa, sendo necessária a oposição dos presentes Embargos de Declaração, para fins de eliminar a contradição existente.
+13. E, ante tal contradição, requer seja a decisão seja reformada, para reconhecer expressamente que não há que se falar em condenação (muito menos majoração) em verbas honorárias (fl. 169).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Não se desconhece do documento juntado às fls. 153/155 comprovando o feriado local do dia 8/9/2023. No entanto, o mesmo não é suficiente para afastar a intempestividade do agravo .
+Por outro lado, veja-se que o documento de fl. 152 não é válido para afastar a intempestividade do recurso, tendo em vista que comprova apenas a indisponibilidade referente à consulta processual de 1º grau, não restando comprovada a indisponibilidade de peticionamento eletrônico no 2º grau, instância onde o agravo em recurso especial deve ser interposto.
+Ainda que assim não fosse, cabe esclarecer que a indisponibilidade da comunicação eletrônica não torna esse dia "não-útil", ou seja, a disciplina desse fato processual não está regulada no art. 216 do CPC, mas sim no art. 224, § 1º, do mesmo diploma processual, o qual sustenta que se "houver indisponibilidade da comunicação eletrônica" os "dias do começo e do vencimento do prazo serão protraídos para o primeiro dia útil seguinte".
+A consequência jurídica da indisponibilidade da comunicação eletrônica está prevista no art. 224, § 1º, do CPC, que é a prorrogação do dia do começo ou do dia do final do prazo. Se a indisponibilidade da comunicação eletrônica ocorrer durante o transcurso do prazo recursal, trata-se de dia útil, que se soma à contagem do prazo processual, não havendo exclusão dos referidos dias. Nesse sentido, o AgInt nos EDcl no AREsp 1469004/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 17/3/2020.
+Quanto aos honorários, o novo Código de Processo Civil, ao prever o instituto da majoração dos honorários advocatícios em razão do julgamento de recurso, condicionou sua aplicação aos processos cíveis, desde que haja prévia fixação de honorários pela instância a quo.
+Ademais, conforme dicção do Enunciado Administrativo n. 7 deste Superior Tribunal de Justiça, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+Observe-se que, no presente caso, não há omissão uma vez que o dispositivo da decisão embargada é claro no sentido de que somente serão majorados se houver "prévia fixação de honorários de advogado pelas instâncias de origem". Assim, a contrario sensu, como não houve prévia fixação, não haverá, também, majoração.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
