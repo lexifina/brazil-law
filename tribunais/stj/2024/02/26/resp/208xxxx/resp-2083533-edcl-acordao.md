@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, acolher parcialmente os embargos de declaração, sem efeitos modificativos, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, ERRO MATERIAL OU OBSCURIDADE. AGRAVO INTERNO. PEDIDO DE RETIRADA DA PAUTA VIRTUAL. PREJUÍZO. AUSÊNCIA.
+1. Os embargos de declaração constituem-se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição, omissão ou erro material -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+2. A oposição ao julgamento virtual prevista no art. 184-D, parágrafo único, do RISTJ há de ser acompanhada de argumentação idônea a bem evidenciar efetivo prejuízo ao direito de defes a da parte, o que não se verificou na hipótese.
+3. Embargos de declaração parcialmente acolhidos, sem efeitos infringentes.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por CONDOMÍNIO FOREST HILLS contra acórdão que negou provimento ao agravo interno que interpusera, nos termos da seguinte ementa (e-STJ fl. 1829):
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM REPETIÇÃO DO INDÉBITO. VIOLAÇÃO DE SÚMULA, DE DISPOSITIVO CONSTITUCIONAL OU DE QUALQUER ATO NORMATIVO QUE NÃO SE ENQUADRE NO CONCEITO DE LEI FEDERAL. DESCABIMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. RAZÕES RECURSAIS NÃO IMPUGNAM OS FUNDAMENTOS NA DECISÃO AGRAVADA.
+1. Ação declaratória cumulada com repetição do indébito.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a", da CF/88.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Não se conhece da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente.
+7. As razões desenvolvidas no presente recurso não impugnam os fundamentos da decisão monocrática agravada, o que representa ofensa ao princípio da dialeticidade.
+8. Agravo interno não provido.
+Nas razões do presente recurso, o embargante afirma que o acórdão embargado teria sido omisso quanto: i) a oposição ao julgamento virtual do agravo interno que interpusera; ii) aos dispositivos legais indicados; iii) a demonstração de ter ocorrido a anuência dos embargados com a associação; iv) a demonstração do dissídio jurisprudencial; v) a integra do acórdão proferido pela Quarta Turma que negou provimento a processo idêntico ao presente; e vi) a continuidade da prestação dos serviços aos embargados.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, ERRO MATERIAL OU OBSCURIDADE. AGRAVO INTERNO. PEDIDO DE RETIRADA DA PAUTA VIRTUAL. PREJUÍZO. AUSÊNCIA.
+1. Os embargos de declaração constituem-se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição, omissão ou erro material -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+2. A oposição ao julgamento virtual prevista no art. 184-D, parágrafo único, do RISTJ há de ser acompanhada de argumentação idônea a bem evidenciar efetivo prejuízo ao direito de defes a da parte, o que não se verificou na hipótese.
+3. Embargos de declaração parcialmente acolhidos, sem efeitos infringentes.
+VOTO
+Os embargos de declaração são instrumento processual excepcional e destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+No particular, o aresto embargado, de forma clara e indene de dúvidas, manteve a decisão monocrática que não conheceu do recurso especial interposto pelo embargante, nos seguintes termos:
+"1. Da violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal
+Segundo a jurisprudência do STJ, a interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a", da CF/88. Nesse sentido: AgInt nos EDcl no AREsp 2.001.384/SP, 3ª Turma, DJe 23/6/2022; e AgInt nos EDcl no AgInt nos EDcl no AREsp 1.930.681/SP, 4ª Turma, DJe de 2/6/2022.
+Na hipótese, verifica-se que a agravante aponta violação ao art. 5º, II, da CF.
+Por isso, o julgamento do recurso especial, quanto ao ponto, é inadmissível.
+2. Da ausência de prequestionamento
+Da renovada a análise dos autos, verifica-se que o recurso especial, de fato, não poderia ser conhecido, pois o art. 29 da Lei 6.766, indicado como violado, apesar da oposição dos embargos de declaração, não foi objeto de expresso prequestionamento pelo Tribunal de origem, o que importa na incidência do óbice da Súmula 211/STJ.
+Acerca do prequestionamento ficto previsto no art. 1.025 do CPC, invocado pela agravante, tem-se que esse só é admissível quando, após a oposição de embargos de declaração na origem, a parte recorrente venha a suscitar devidamente a violação do art. 1.022 do CPC, porquanto, somente dessa forma poderá o órgão julgador verificar a existência do vício e proceder à supressão de grau, o que, contudo, não ocorreu na hipótese dos autos. Nesse sentido: AgInt no REsp 1.855.026/MA, 3ª Turma, DJe de 10/6/2020 e AgInt no AREsp 1.206.045/RN, 4ª Turma, DJe de 10/9/2018.
+3. Da ausência de indicação do dispositivo legal
+A parte agravante defende a inaplicabilidade do Tema 882/STJ e a aplicabilidade da Súmula 260/STJ à hipótese, bem como se insurge contra a restituição de valores aos recorridos, ora agravados, sob o argumento de que, acaso chancelada, configuraria enriquecimento ilícito.
+Todavia, conforme consignado na decisão agravada, a referida parte deixou de indicar, nas razões do recurso especial, os dispositivos de lei federal sobre o quais se teria dado interpretação divergente, razão pela qual a fundamentação do recurso é deficiente nesse aspecto, incidindo, na espécie, a Súmula 284/STF.
+4. Da divergência jurisprudencial
+Outrossim, no que se refere ao dissídio jurisprudencial, observa-se que, entre os acórdãos trazidos à colação, realmente não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência, o que inviabiliza a análise da existência do dissídio é inviável, porquanto foram descumpridos os arts. 1.029, § 1º do CPC e 255, § 1º, do RISTJ.
+Além disso, a agravante não indicou os dispositivos sobre os quais teria a Corte local dado interpretação divergente, o que importa na inviabilidade do recurso especial pela incidência da Súmula 284/STF.
+Consoante asseverado na decisão agravada, não é possível o conhecimento do recurso especial fundado no dissídio jurisprudencial na hipótese em que não há a devida indicação de qual dispositivo de lei teria sido ofendido. Isso porque o entendimento do Superior Tribunal de Justiça preconiza que o apelo excepcional sustentado na dissidência pretoriana depende do apontamento do artigo de lei violado, sob pena de incidência da mencionada súmula, como ocorreu na hipótese. Nesse sentido: AgInt nos EDcl no REsp 1.711.630/SC, 4ª Turma, DJe 18/8/2021, AgInt nos EDcl no REsp 1.881.812/SP, 3ª Turma, DJe 28/5/2021, AgInt no REsp 1.905.503/AM, 3ª Turma, DJe 25/3/2021.
+Logo, não merece reforma a decisão agravada.
+5. Da ofensa ao princípio da dialeticidade
+Isso não bastasse, observa-se que as razões desenvolvidas no presente recurso não impugnam os fundamentos da decisão monocrática agravada, o que representa ofensa ao princípio da dialeticidade. A propósito: AgInt nos EDcl no AREsp 2.042.481/MT, 3ª Turma, DJe de 10/8/2022; AgInt nos EREsp 1.927.148/PE, Corte Especial, DJe de 24/6/2022; e AgInt nos EDcl no REsp 1.983.925/MG, 2ª Turma, DJe de 5/9/2022." (e-STJ fls. 1832/1834)
+O que se verifica, portanto, é a nítida pretensão da parte embargante de se valer dos embargos de declaração para rediscutir a conclusão adotada no acórdão embargado e tentar fazer prevalecer o seu entendimento quanto a ela, pretensão essa que, todavia, não é compatível com os estreitos limites dessa espécie recursal.
+Ressalta-se, por oportuno, que a parte embargante pretende o exame de mérito recursal. Porém, esse exame restou prejudicado pela ausência de preenchimento dos pressupostos e o consequente não conhecimento do recurso, que obstou a abertura desta instância superior e, portanto, a produção do efeito translativo.
+Logo, não há que se cogitar da ocorrência de omissão, uma vez que o recurso sequer ultrapassou o juízo prévio de admissibilidade para que o mérito fosse apreciado.
+Por outro lado, verificada a falta de apreciação do pedido do embargante em relação à oposição ao julgamento virtual do agravo interno que interpusera, passo a sanar vício.
+Quanto ao ponto, é de se ressaltar que a oposição ao julgamento virtual prevista no art. 184-D, parágrafo único, II, do RISTJ, há de ser acompanhada de argumentação idônea a bem evidenciar efetivo prejuízo ao direito de defesa da parte. Nesse sentido, destacam-se os seguintes jugados: EDcl no AgInt nos EREsp 1.295.141/SP, 2ª Seção, DJe de 2/12/2019; EDcl no AgInt nos EREsp 1.470.906/SP, 2ª Seção, DJe de 28/6/2019.
+Na hipótese dos autos, no entanto, o ora embargante não apresentou nenhum argumento apto a embasar o pedido, não demonstrando o efetivo prejuízo pela falta de sua apreciação.
+Ademais, cumpre ressaltar que o julgamento virtual não prejudica o efetivo debate sobre o processo, eis que, consoante a sistemática prevista nos arts. 184-D a 184-H do RISTJ, a sessão virtual proporciona aos membros dos órgãos colegiados amplo intervalo de tempo para a análise da causa e a respectiva tomada de decisão.
+Por fim, fica advertida a parte embargante de que a futura interposição de recursos ou medidas protelatórias poderá ensejar a aplicação de penalidades.
+DISPOSITIVO
+Forte nessas razões, ACOLHO PARCIALMENTE os embargos de declaração, apenas para sanar a omissão acerca do pedido de retirada de pauta do agravo interno, contudo, sem efeitos infringentes.
