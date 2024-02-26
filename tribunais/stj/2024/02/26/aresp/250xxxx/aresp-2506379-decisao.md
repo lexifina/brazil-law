@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de agravo interposto por CMDR SPE 7 EMPREENDIMENTOS IMOBILIARIOS LTDA - EM RECUPERACAO JUDICIAL, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de CMDR SPE 7 EMPREENDIMENTOS IMOBILIARIOS LTDA - EM RECUPERACAO JUDICIAL, a petição de recurso especial foi protocolada, na origem, sem o comprovante de pagamento das custas, em razão do pedido de gratuidade de justiça.
+O tribunal de origem determinou, então, a intimação da parte para comprovar o preenchimento dos requisitos para concessão do benefício, porém, a parte resolveu recolher as custas, abrindo mão do pedido e afastando, assim, a presunção de sua hipossuficiência. O recolhimento foi efetuado de modo simples.
+Todavia, nesse contexto, em que as custas não foram recolhidas no ato da interposição do recurso especial, bem como a renúncia ao pedido de gratuidade, imperiosa a observância do art. 1.007, § 4º do CPC, com o recolhimento em dobro.
+Ademais, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não regularizou, limitando-se a requerer isenção ao pagamento do porte de remessa e retorno dos autos, sem apresentar o devido recolhimento das custas devidas.
+Quanto ao porte de remessa e retorno, realmente não é devido, uma vez que o art. 4º da Resolução STJ/GP N. 2 de 1º de fevereiro de 2017, dispensa o recolhimento quando se tratarem de autos eletrônicos.
+Outrossim, o preparo abrange o pagamento das custas locais (se houver), das custas do Superior Tribunal de Justiça (Lei 11.636/2007), bem como do porte de remessa e retorno dos autos (a depender do Tribunal de origem). Nesse sentido: (AgRg no AREsp 707.553/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 06/10/2015; e RCD no REsp 1520031/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 06/10/2015).
+Nesse ponto a certidão foi clara, intimando a parte para complementar as custas do STJ, uma vez que devidas em dobro. Exigiu-se apenas essa verba referente ao preparo.
+Assim, como não houve o recolhimento, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
+ EMENTA
