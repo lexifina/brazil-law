@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de JustiÃ§a, em sessÃ o virtual de 20/02/2024 a 26/02/2024, por unanimidade, dar parcial provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÃO GENÉRICA. PREQUESTIONAMENTO. AUSÊNCIA. FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. AUSÊNCIA. HONORÁRIOS RECURSAIS. CASO CONCRETO. JUÍZO DE LIQUIDAÇÃO.
+1. Aplica-se o óbice da Súmula 284 do STF quando a suposta ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso.
+2. Não enfrentada no julgado impugnado tese respeitante a artigo de lei federal apontado no recurso especial, há falta do prequestionamento, o que faz incidir na espécie o óbice da Súmula 282 do STF.
+3. É inadmissível recurso especial quando o acórdão recorrido se assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário. Aplicação da Súmula 126 desta Corte.
+4. Segundo entendimento do STJ, "não é devida a fixação do quantum relativo aos honorários recursais, previstos no art. 85, § 11, do CPC/2015, quando a sentença proferida não for considerada líquida pelo julgador, o que inviabiliza a majoração determinada no referido dispositivo legal." (REsp 1.749.892/RS, rel. Ministro Francisco Falcão, Segunda Turma, DJe 24/10/2018).
+5. Agravo interno parcialmente provido apenas para determinar que compete ao juízo da liquidação proceder ao acréscimo dos honorários recursais.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo MUNICÍPIO DE VITÓRIA DE SANTO ANTÃO contra decisão que conheceu do agravo para não conhecer do especial sob o fundamento da incidência das Súmulas 282 e 284 do STF e 126 do STJ.
+A parte agravante, repisando os argumentos do apelo nobre, defendem que não há que se aplicar os aludidos óbices sumulares.
+Por fim, aduz a impossibilidade de majorar honorários advocatícios em decisões ilíquidas envolvendo a Fazenda Pública.
+Requer , ao final, a reconsideração do decisum recorrido ou, caso assim não se entenda, seja submetido o presente agravo interno à apreciação da Turma.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÃO GENÉRICA. PREQUESTIONAMENTO. AUSÊNCIA. FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. AUSÊNCIA. HONORÁRIOS RECURSAIS. CASO CONCRETO. JUÍZO DE LIQUIDAÇÃO.
+1. Aplica-se o óbice da Súmula 284 do STF quando a suposta ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso.
+2. Não enfrentada no julgado impugnado tese respeitante a artigo de lei federal apontado no recurso especial, há falta do prequestionamento, o que faz incidir na espécie o óbice da Súmula 282 do STF.
+3. É inadmissível recurso especial quando o acórdão recorrido se assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário. Aplicação da Súmula 126 desta Corte.
+4. Segundo entendimento do STJ, "não é devida a fixação do quantum relativo aos honorários recursais, previstos no art. 85, § 11, do CPC/2015, quando a sentença proferida não for considerada líquida pelo julgador, o que inviabiliza a majoração determinada no referido dispositivo legal." (REsp 1.749.892/RS, rel. Ministro Francisco Falcão, Segunda Turma, DJe 24/10/2018).
+5. Agravo interno parcialmente provido apenas para determinar que compete ao juízo da liquidação proceder ao acréscimo dos honorários recursais.
+VOTO
+Verifica-se que a parte recorrente não trouxe nenhum argumento capaz de alterar o decisum atacado, proferido em sintonia com a jurisprudência deste Tribunal Superior.
+Conforme consignado na decisão combatida, é deficiente a fundamentação do recurso especial em que a alegação de negativa de prestação jurisdicional se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro.
+Aplica-se na hipótese o óbice da Súmula 284 do STF. (AgRg no AREsp 719.983/PE, rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 19/04/2016, DJe 26/04/2016; e AgRg no AREsp 811.706/PR, rel. Ministra DIVA MALERBI, desembargadora convocada TRF 3ª Região, Segunda Turma, julgado em 07/04/2016, DJe 15/04/2016).
+Por outro lado, os argumentos sustentados pela parte recorrente - a legislação municipal utilizou-se dos recursos do FUNDEF que se destinam exclusivamente ao Ensino Fundamental, bem como que a parte recorrida limitou-se a reproduzir as razões lançadas na exordial - carecem do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa do dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente.
+Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Noutro giro, o acórdão recorrido tem fundamento constitucional - ofensa ao princípio da legalidade - não impugnado mediante Recurso Extraordinário, o que atrai a incidência da Súmula 126 do STJ, consoante a qual "é inadmissível Recurso Especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta Recurso Extraordinário".
+Por fim, no tocante ao argumento da impossibilidade de majorar os honorários recursais por se tratar de sentença ilíquida, considerando o que ficou definido nas instâncias de origem e em respeito ao disposto no art. 85, § 11, do CPC, a verba honorária deverá ser majorada em face do total insucesso do recurso especial fazendário, competindo ao juízo da liquidação proceder a esse acréscimo depois de definir os percentuais a incidirem originariamente sobre o proveito econômico efetivamente obtido, nos termos do art. 85, §§ 3º e 4º, II, do CPC/2015.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SENTENÇA ILÍQUIDA. HONORÁRIOS. MAJORAÇÃO PELO STJ. IMPOSSIBILIDADE. VERBA HONORÁRIA FIXADA NA LIQUIDAÇÃO DA SENTENÇA. JUÍZO DE ORIGEM DEVE DEFINIR O VALOR DOS HONORÁRIOS RECURSAIS.
+1. Inviável a esta Corte Superior a majoração dos honorários advocatícios na decisão que não conheceu do agravo em recurso especial, pois a jurisprudência do STJ orienta não ser " ..  devida a fixação do quantum relativo aos honorários recursais, previstos no art. 85, § 11, do CPC/2015, quando a sentença proferida não for considerada líquida pelo julgador" (REsp 1.749.892/RS, Rel. Min. Francisco Falcão, Segunda Turma, DJe 24/10/2018).
+2. Por ocasião da liquidação da sentença, o juízo de origem deverá fixar a verba honorária levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto no art. 85, §§ 2º a 6º, do CPC/2015 e respeitando os limites estabelecidos nos §§ 2º e 3º desse mesmo dispositivo legal.
+3. Agravo interno a que se dá parcial provimento.
+(AgInt nos EDcl nos EDcl no AREsp n. 1.307.267/RS, rel. Ministro OG FERNANDES, Segunda Turma, DJe de 28/4/2021). (Grifos acrescidos).
+ADMINISTRATIVO E PROCESSUAL CIVIL. MILITAR. PENSÃO ESPECIAL. EX-COMBATENTE. LEI APLICÁVEL. VIGÊNCIA À ÉPOCA DO FALECIMENTO. LEI 8.059/1990 E ART. 53 DO ADCT. REVERSÃO À FILHA INVÁLIDA. POSSIBILIDADE. HONORÁRIOS RECURSAIS. SENTENÇA ILÍQUIDA. ESTIPULAÇÃO DO MONTANTE. IMPOSSIBILIDADE.
+1. A ora embargante alega que "o recurso interposto pela Embargada não foi provido por esta colenda Corte, é certo que os honorários advocatícios fixados desde a origem em favor do procurador da Embargante devem ser majorados, nos exatos termos da legislação processual supra" (fl. 304, e-STJ).
+2. "Não é devida a fixação do quantum relativo aos honorários recursais, previstos no art. 85, § 11, do CPC/2015, quando a sentença proferida não for considerada líquida pelo julgador, o que inviabiliza a majoração determinada no referido dispositivo legal." (REsp 1.749.892/RS, Rel. Min. Francisco Falcão, Segunda Turma, julgado em 16/10/2018, DJe 24/10/2018).
+3. Embargos acolhidos sem efeito infringente.
+(EDcl no REsp n. 1.801.821/SC, rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe de 24/11/2020). (Grifos acrescidos).
+Ante o exposto, DOU PARCIAL PROVIMENTO ao agravo interno do ESTADO DE MATO GROSSO DO SUL apenas para, em respeito ao disposto no art. 85, § 11, do CPC, determinar que compete ao juízo da liquidação proceder ao acréscimo previsto no referido dispositivo, após definir os percentuais a incidirem originariamente sobre o proveito econômico efetivamente obtido, nos termos do art. 85, §§ 3º e 4º, II, do CPC/2015.
+É o voto.
