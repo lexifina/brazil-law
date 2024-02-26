@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão assim ementado (fl. 691):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1022 DO CPC/2015. NÃO OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. ARGUMENTAÇÃO DISSOCIADA E AUSÊNCIA DE COMANDO NORMATIVO. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Afasta-se a alegação de violação do art. 1022 do CPC/2015 quando o acórdão recorrido se manifesta de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia, prestando a tutela jurisdicional de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração, o que se verifica no caso.
+3. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+4. A falta de argumentação ou sua deficiência implica não conhecimento do recurso especial quanto a questão deduzida, pois não permite a exata compreensão da controvérsia. Incidência da Súmula 284/STF.
+5. Incide a Súmula 284/STF quando os dispositivos indicados como violados não contêm comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido.
+6. A inadmissão do recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito à mesma tese de direito, o que ocorreu no caso dos autos.
+7. Agravo interno não provido.
+A embargante sustenta que o acórdão contém as seguintes omissões: a) no caso em debate, houve violação ao art. 1.022, do CPC/2015, uma vez que embora tenha trazido através dos embargos de declaração omissões, obscuridade e erro material, o acórdão em questão, proferido pelo TRF4, tratou de afastar os relevantes argumentos da ora Embargante, alegando que seria o caso de rediscussão da matéria; b) inobservância das Súmulas 283/STF e 284/STF, pois "(..) foi exaustivamente demonstrado ao longo das peças recursais que a decisão do TRF-4 violou diretamente o disposto no art. 22, § 3º, da Lei n. 8.212/91 e o entendimento contido no Resp n. 1.425.090/PR, (..)" (fl. 713), sendo que "(..), contrariamente ao afirmado pelo ilustre Ministro Relator, cumpre frisar o explícito apontamento das violações ao longo de toda a peça recursal, amplamente trabalhadas, além, é claro, do ataque pormenorizado aos fundamentos das decisões e do prequestionamento de todos os dispositivos." (fl. 714); c) "(..), contrariamente ao afirmado pelo ilustre Ministro, a divergência jurisprudencial fora devidamente demonstrada com o cotejo entre os acórdãos paradigmas e recorrido, apontando expressamente os pontos divergentes entre eles, cumprindo os requisitos necessários à sua apreciação, e, principalmente, demonstrando que, se o Acórdão deixou de analisar pontos importantes para o deslinde da controvérsia, como demonstrado ao longo de toda essa peça recursal, na qual se trouxe todos os pontos de omissão, não há falar em prejudicialidade do exame do recurso no ponto que em que se suscita a divergência, pois ela está presente, (..)." (fl. 720).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+O acórdão embargado decidiu a controvérsia ao assentar que não há falar, no caso, em violação do art. 1022 do CPC/2015 e que incidem à espécie as Súmulas 283/STF e 284/STF (por deficiência na argumentação recursal e ausência de comando normativo em dispositivos indicados), restando prejudicado o exame do dissídio jurisprudencial invocado.
+Nos presentes embargos, a parte alega a ocorrência de omissões no julgado, ao que passa a discorrer sobre o suposto malferimento do art. 1022 do CPC/2015, bem como sobre a inaplicabilidade dos enunciados sumulares colocados no aresto e sobre a ocorrência de dissídio interpretativo, que deve ser apreciado.
+Nesse contexto, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido, havendo tão somente inconformidade da embargante com o teor do decisum .
+Não obstante, o julgador, desde que fundamente suficientemente sua decisão, não está obrigado a responder todas as alegações das partes, a ater-se aos fundamentos por elas apresentados nem a rebater um a um todos os argumentos levantados, de tal sorte que a insatisfação quanto ao deslinde da causa não oportuniza a oposição de embargos de declaração.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
