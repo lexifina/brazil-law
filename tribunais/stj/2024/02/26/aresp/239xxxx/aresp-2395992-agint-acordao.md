@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. REJEIÇÃO DE IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. RECONHECIMENTO DE DIREITO À INCORPORAÇÃO DE ALE. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. AUSÊNCIA DE PREQUESTIONAMENTO.
+I - Na origem, trata-se de agravo de instrumento contra decisão que rejeitou impugnação ao cumprimento de sentença em ação de cobrança relativa a mandado de segurança impetrado pela Associação dos Oficiais da Reserva e Reformados da Polícia Militar do Estado de São Paulo, ação mandamental esta em que se reconhecera o direito à incorporação do ALE aos proventos e pensões. No Tribunal a quo, deu-se provimento ao recurso.
+II - Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+III - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, visando reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim resumido:
+AGRAVO DE INSTRUMENTO - DECISÃO QUE REJEITOU IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA EM AÇÃO DE COBRANÇA RELATIVA A MANDADO DE SEGURANÇA IMPETRADO PELA ASSOCIAÇÃO DOS OFICIAIS DA RESERVA E REFORMADOS DA POLÍCIA MILITAR DO ESTADO DE SÃO PAULO, AÇÃO MANDAMENTAL ESTA EM QUE SE RECONHECERA O DIREITO À INCORPORAÇÃO DO ALE AOS PROVENTOS E PENSÕES - CONSIDERADOS OS TERMOS DO JULGAMENTO DA APELAÇÃO Nº 0600592-55.2008.8.26.0053, HAVER-SE-IA DE ACOLHER A REFERIDA IMPUGNAÇÃO - RECURSO PROVIDO.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+26. Resta evidente o cabimento do recurso em relação ao artigo 502 do CPC, que passou a incidir no caso a partir da certificação do trânsito em julgado desta ação, estabelecendo a impossibilidade de rediscussão do mérito decidido no processo de conhecimento a partir deste evento de preclusão máxima, norma que apesar da evidente incidência foi afastada pelo v. acórdão a quo, sobretudo quanto aos aspectos de imutabilidade e indiscutibilidade da coisa julgada que se extrai do referido dispositivo.
+ ..
+17. Diante disso, foi interposto embargos declaratórios, apontando a impossibilidade de desconsideração da coisa julgada formada nesta ação ordinária de cobrança:
+ ..
+18. O v. acórdão dos embargos declaratórios considerou os fundamentos destacados nos embargos declaratórios, porém rejeitou a irresignação por compreender bem aplicada a disposição:
+ ..
+19. Reconhecidas estas premissas, bastaria aos agravantes questionar o cabimento da desconstituição de título judicial, sem o procedimento adequado, a título de atrair eventos que o próprio v. acórdão recorrido reconhece que não se aplicaria diretamente a esta demanda, como é o caso do acórdão produzido na Rcl 14.786/SP e a sucessão de eventos processuais que se deram no MSC n.º 0600592-55.2008.8.26.0053.
+20. Foi exatamente o que procederam os recorrentes no recurso especial interposto, ocasião em que apontaram exatamente a impossibilidade de se utilizar estes eventos alheios à relação processual para desconstituir uma sentença passado em julgado, estabelecendo um atalho processual ilícito para a pretensão rescisória da agravada, em detrimento da condição soberana e imutável da coisa julgada (fls. 15/19 do recurso): ..
+ ..
+21. Essas razões recursais têm como apoio até mesmo a jurisprudência deste E. STJ, em reconhecer que a ilicitude do raciocínio empregado na origem, sobretudo sobre a desconstituição de título judicial validamente formado por simples petitório na fase de cumprimento de sentença, como decidido no AgRg no AREsp n. 205.256/PB, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 20/11/2012:
+ ..
+21. Essas razões recursais têm como apoio até mesmo a jurisprudência deste E. STJ, em reconhecer que a ilicitude do raciocínio empregado na origem, sobretudo sobre a desconstituição de título judicial validamente formado por simples petitório na fase de cumprimento de sentença, como decidido no AgRg no AREsp n. 205.256/PB, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 20/11/2012:
+ ..
+23. O recurso especial também analisou o fato do v. acórdão ter aplicado um fato superveniente para desconstituir a coisa julgada formada nesta ação de cobrança, destacando que a legislação processual não permite um raciocínio como este porque as disposições dos artigos 49310e 771, parágrafo único11, não poderiam ser cumuladas para criar um atalho processual para a rescisão de um julgado sem qualquer vícios.
+ ..
+26. Resta evidente o cabimento do recurso em relação ao artigo 502 do CPC, que passou a incidir no caso a partir da certificação do trânsito em julgado desta ação, estabelecendo a impossibilidade de rediscussão do mérito decidido no processo de conhecimento a partir deste evento de preclusão máxima, norma que apesar da evidente incidência foi afastada pelo v. acórdão a quo, sobretudo quanto aos aspectos de imutabilidade e indiscutibilida de da coisa julgada que se extrai do referido dispositivo.
+27. Em outras palavras, se o regime da coisa julgada prevê como seus atributos a indiscutibilidade e imutabilidade, e não haveria de ser diferente, pois do contrário a relação processual não teria fim, o julgador não pode meramente deixar de aplicar, desconsiderar estes atributos na fase de execução de sentença para produzir nova decisão, na verdade, uma revisão do mérito já julgado e consolidado
+28. De outra forma, mas igualmente reveladora da contrariedade aqui exposta, há os artigos 535, inciso III, 493 e 771, parágrafo único, que não incidiam no caso, muito menos poderiam ser utilizados para emplacar um procedimento rescisório na fase de cumprimento de sentença, mas a despeito do âmbito de atuação bem delimitados destas normas, foram aplicados fora de sua hipótese de cabimento pelo v. acórdão recorrido para justificar o acolhimento da pretensão da agravada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. REJEIÇÃO DE IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. RECONHECIMENTO DE DIREITO À INCORPORAÇÃO DE ALE. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. AUSÊNCIA DE PREQUESTIONAMENTO.
+I - Na origem, trata-se de agravo de instrumento contra decisão que rejeitou impugnação ao cumprimento de sentença em ação de cobrança relativa a mandado de segurança impetrado pela Associação dos Oficiais da Reserva e Reformados da Polícia Militar do Estado de São Paulo, ação mandamental esta em que se reconhecera o direito à incorporação do ALE aos proventos e pensões. No Tribunal a quo, deu-se provimento ao recurso.
+II - Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+III - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
