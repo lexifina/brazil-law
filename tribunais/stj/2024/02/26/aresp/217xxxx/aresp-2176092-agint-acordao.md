@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO  DE  INSTRUMENTO.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.  RECUPERAÇÃO  JUDICIAL.  EXPROPRIAÇÃO.  BENS  IMÓVEIS  NÃO  ESSENCIAIS.  REVISÃO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.
+1.  Não  viola  o  art.  1.022  do  Código  de  Processo  Civil  nem  importa  em deficiência  na  prestação  jurisdicional  o  acórdão  que  adota,  para  a  resolução  da  causa,  fundamentação  suficiente,  porém  diversa  da  pretendida  pelo  recorrente,  para  decidir  de  modo  integral  a  controvérsia  posta.
+2.  A  revisão  d  a  conclusão  do  acórdão  recorrido,  que  afastou  a  essencialidade  dos  imóveis  objeto  da  alienação  fiduciária  e  manteve  sua  expropriação  ,  demandaria  o  reexame  do  conjunto  fático-probatório  dos  autos,  o  que  é  inviável  no  recurso  especial  pela  incidência  da  Súmula  nº  7/STJ.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  CAENGE  S.A.  -  CONSTRUÇÃO,  ADMINISTRAÇÃO  E  ENGENHARIA  -  EM  RECUPERAÇÃO  JUDICIAL  -  e  OUTRAS  contra  a  decisão  que  conheceu  do  agravo  para  conhecer  parcialmente  do  recurso  especial  e  negar-lhe  provimento  (fls.  589/592,  e-STJ).
+Nas  presentes  razões  (fls.  598/606,  e-STJ),  além  de  repisarem  os  argumentos  expostos  no  recurso  especial,  os  agravantes  aduzem  que  é  inegável  a  violação  do  art.  1.022,  II,  do  Código  de  Processo  Civil.
+Sustentam,  em  síntese,  a  inaplicabilidade  do  óbice  da  Súmula  nº  7/STJ,  pois
+"(..)
+O  que  é  objeto  da  indignação  é  o  não  reconhecimento  de  que  tais  bens  são  essenciais  à  Recuperação  Judicial,  mesmo  sendo  eles  componentes  de  uma  UPI  formada  nos  termos  do  PRJ,  e  fruto  de  ações  promovidas  por  credores  sujeitos  à  recuperação  judicial,  sendo  todos  os  bens  destinados  ao  pagamento  da  coletividade  de  credores  conforme  aprovado  pelos  próprios  credores"  (fl.  603,  e-STJ).
+Sem  impugnação  apresentada .
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO  DE  INSTRUMENTO.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.  RECUPERAÇÃO  JUDICIAL.  EXPROPRIAÇÃO.  BENS  IMÓVEIS  NÃO  ESSENCIAIS.  REVISÃO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.
+1.  Não  viola  o  art.  1.022  do  Código  de  Processo  Civil  nem  importa  em deficiência  na  prestação  jurisdicional  o  acórdão  que  adota,  para  a  resolução  da  causa,  fundamentação  suficiente,  porém  diversa  da  pretendida  pelo  recorrente,  para  decidir  de  modo  integral  a  controvérsia  posta.
+2.  A  revisão  d  a  conclusão  do  acórdão  recorrido,  que  afastou  a  essencialidade  dos  imóveis  objeto  da  alienação  fiduciária  e  manteve  sua  expropriação  ,  demandaria  o  reexame  do  conjunto  fático-probatório  dos  autos,  o  que  é  inviável  no  recurso  especial  pela  incidência  da  Súmula  nº  7/STJ.
+3.  Agravo  interno  não  provido.
+VOTO
+A  insurgência  não  merece  prosperar.
+De  início,  registra-se  que  o  tribunal  de  origem  se  pronunciou  acerca  dos  pontos  levantados  pelos  recorrentes,  mesmo  que  de  modo  breve,  afastando  os  argumentos  deduzidos  que,  em  tese,  seriam  capazes  de  infirmar  a  conclusão  adotada.
+Como  se  sabe,  cabe  ao  julgador  apreciar  os  fatos  e  as  provas  da  demanda  segundo  seu  livre  convencimento,  declarando,  ainda  que  de  forma  sucinta,  os  fundamentos  que  o  levaram  a  solucionar  a  lide.
+Desse  modo,  o  não  acolhimento  das  teses  ventiladas  pelos  agravantes  não  significa  omissão  ou  deficiência  de  fundamentação  da  decisão,  ainda  mais  quando  o  aresto  aborda  todos  os  pontos  relevantes  da  controvérsia,  como  na  espécie.
+A  propósito:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  INCIDENTE  PROCESSUAL.  DECISÃO  QUE  DEFERIU  O  PEDIDO  DE  DESCONSIDERAÇÃO  DA  PERSONALIDADE  JURÍDICA  DA  EMPRESA  EXECUTADA.  PRECLUSÃO.  OCORRÊNCIA.  REVISÃO.  SÚMULA  N.  7/STJ.  TEORIA  MENOR.  OBSTÁCULO  AO  RESSARCIMENTO  DOS  DANOS  CAUSADOS  AOS  CONSUMIDORES.  ACÓRDÃO  RECORRIDO  EM  CONSONÂNCIA  COM  O  ENTENDIMENTO  DESTA  CORTE.  SÚMULA  83/STJ.  DESCONSIDERAÇÃO  DA  PERSONALIDADE  JURÍDICA.  REQUISITOS  CONSTATADOS.  REVISÃO.  REVOLVIMENTO  DE  FATOS  E  PROVAS.  SÚMULA  7/STJ.  PENHORA  SOBRE  SALDO  DE  PLANOS  DE  PREVIDÊNCIA  PRIVADA.  POSSIBILIDADE.  NÃO  UTILIZAÇÃO  PARA  FINS  ALIMENTARES.  REVISÃO.  NECESSIDADE  DE  INCURSÃO  NO  ACERVO  FÁTICO-PROBATÓRIO.  SÚMULA  7/STJ.  MULTA  DO  ART.  1.021,  §  4º,  DO  CPC/2015.  ANÁLISE  CASUÍSTICA.  NÃO  OCORRÊNCIA,  NA  ESPÉCIE.  AGRAVO  INTERNO  IMPROVIDO.
+1.  Não  ocorre  negativa  de  prestação  jurisdicional  quando  o  Tribunal  de  origem  examina,  de  forma  fundamentada,  todas  as  questões  que  lhe  foram  submetidas,  ainda  que  tenha  decidido  contrariamente  à  pretensão  da  parte.  Nesse  contexto,  esta  Corte  já  se  manifestou  no  sentido  de  que  não  há  se  confundir  decisão  contrária  aos  interesses  da  parte  e  negativa  de  prestação  jurisdicional,  nem  fundamentação  sucinta  com  ausência  de  fundamentação.
+(..)"
+(AgInt  no  AREsp  2.205.438/SP,  Relator  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  13/2/2023,  DJe  de  16/2/2023  -  grifou-se).
+No  recurso  especial,  os  recorrentes  alegaram  a  violação  dos  arts.  47 ,  49,  § 3º,  e  126  da  Lei  nº  11.101/2005,  sustentando,  em  síntese,  que
+"(..)  o  Tribunal  Distrital  ao  negar  provimento  ao  Agravo  de  Instrumento  de  origem,  não  permitiu  que  bens  essenciais  à  Recuperação  Judicial  sejam  utilizados  pelas  Agravantes  nos  termos  do  PRJ  aprovado  em  AGC,  o  que  inviabiliza  a  superação  da  situação  de  crise  econômico-financeira  que  atravessam"  (fl.  604,  e-STJ).
+No  caso,  a  partir  dos  fatos  e  das  provas  dos  autos,  o  tribunal  de  origem  manteve  a  referida  expropriação,  nos  seguintes  termos:
+"(..)
+Com  efeito,  no  tocante  ao  leilão  de  imóveis,  além  de  já  haver  sido  objeto  de  apreciação  pretérita,  quando  o  i.  Magistrado  salientou  que  a  questão  da  inexistência  de  créditos  da  SICOOB  não  está  passível  de  discussão  no  juízo  especializado,  sem  a  produção  de  prova  da  natureza  essencial  dos  bens  para  prosseguimento  das  atividades  da  empresa  e  ajuda  na  recuperação  desta,  não  tem  como  lograr  êxito  a  pretensão  de  interromper  o  leilão  realizado  em  outro  juízo.
+Acerca  dos  valores  que  busca  levantar,  à  disposição  dos  Juízos  da  2ª  Vara  Cível  e  2ª  Vara  do  Trabalho  de  Brasília,  de  igual  modo  nada  há  a  reformar  na  Decisão  agravada,  haja  vista  que  igualmente  não  restou  demonstrado  pela  Recuperanda  que  os  valores  bloqueados  são  essenciais  à  preservação  da  empresa"  (fl.  351,  e-STJ  -  grifou-se).
+Nesse  contexto,  a  revisão  da  conclusão  do  acórdão  recorrido,  que  afastou  a  essencialidade  dos  imóveis  objeto  da  alienação  fiduciária  e  manteve  a  sua expropriação  ,  demandaria  o  reexame  do  conjunto  fático-probatório  dos  autos,  o  que  é  inviável  no  recurso  especial  pela  incidência  da  Súmula  nº  7/STJ.
+Confira-se:
+"CIVIL  E  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RECUPERAÇÃO  JUDICIAL.  ALIENAÇÃO  FIDUCÁRIA.  OMISSÃO.  AUSÊNCIA.  ESSENCIALIDADE  DO  BEM.  CONJUNTO  FÁTICO-PROBATÓRIO.  REEXAME.  IMPOSSIBILIDADE.  SÚMULA  N.  7  DO  STJ.  FUNDAMENTO  RECURSAL.  DEFICIÊNCIA.  SÚMULA  N.  284  DO  STF.  FUNDAMENTAÇÃO  INSUFICIENTE.  SÚMULA  N.  283  DO  STF.  ESSENCIALIDADE.  AUSÊNCIA.  SÚMULA  N.  83  DO  STJ.  DISSÍDIO  JURISPRUDENCIAL.  ART.  105,  III,  "A"  E  "C",  DA  CF.  FALTA  DE  COMPROVAÇÃO.  DECISÃO  MANTIDA.
+1.  Inexiste  afronta  aos  arts.  489  e  1.022  do  CPC/2015  quando  a  Corte  local  pronunciou-se,  de  forma  clara  e  suficiente,  acerca  das  questões  suscitadas  nos  autos,  manifestando-se  sobre  todos  os  argumentos  que,  em  tese,  poderiam  infirmar  a  conclusão  adotada  pelo  Juízo.
+2.  O  recurso  especial  não  comporta  o  exame  de  questões  que  impliquem  revolvimento  do  contexto  fático-probatório  dos  autos,  a  teor  do  que  dispõe  a  Súmula  n.  7  do  STJ.
+3.  No  caso,  a  Corte  de  origem  assentou  que,  decorrido  período  superior  a  dez  anos,  não  pode  a  parte  alegar  a  essencialidade  do  bem  visando  impedir  a  consolidação  da  propriedade  fiduciária,  prevalecendo,  na  hipótese,  as  normas  que  regulamentam  essa  modalidade  contratual  em  detrimento  da  tese  de  que  os  bens  seriam  indispensáveis  ao  desenvolvimento  da  atividade  empresarial.  Para  rever  tal  entendimento,  acolhendo  a  pretensão  de  reconhecer  a  essencialidade  dos  bens  e  impedir  a  consolidação  da  propriedade  fiduciária,  seria  imprescindível  nova  análise  da  matéria  fática,  inviável  em  recurso  especial.
+(..)
+9.  Agravo  interno  a  que  se  nega  provimento"
+(AgInt  no  AREsp  2.031.236/PR,  Relator  Ministro  ANTONIO  CARLOS  FERREIRA,  Quarta  Turma,  julgado  em  15/8/2022,  DJe  de  18/8/2022).
+ Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
