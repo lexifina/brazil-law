@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO DE REPARAÇÃO DE DANOS. FORNECIMENTO DE ENERGIA ELÉTRICA. RECURSO ESPECIAL. INTEMPESTIVIDADE. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. ALEGAÇÃO DE VÍCIOS NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA.
+I - Na origem, trata-se de ação ajuizada por Jopllam Indústria e Comércio de Alimentos Ltda. Contra Copel S.A. objetivando indenização por danos materiais em razão do fornecimento de tensão menor que a devida, o que comprometeu o funcionamento de maquinários da empresa.
+II - Na sentença, julgou-se o pedido procedente. No Tribunal a quo, a sentença foi reformada para julgar o pedido improcedente. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+III - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+IV - Os embargos aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso.
+V - Os vícios apontados pela parte embargante, relacionados à tempestividade do recurso especial, foram tratados no acórdão recorrido, o que afasta a alegação de omissão.
+VI - Embargos de declaração rejeitados.
+RELATÓRIO
+Conheceu-se do agravo para não conhecer do recurso especial interposto por Jopllam - Industria e Comercio de Alimentos Ltda., com fundamento no art. 105, III, a e c, da CF/1988.
+O recurso especial visa reformar acórdão do Tribunal de Justiça do Estado do Paraná, cuja ementa foi lançada nestes termos:
+APELAÇÃO CÍVEL. AÇÃO DE REPARAÇÃO DE DANOS. FORNECIMENTO DE ENERGIA ELÉTRICA. ADMISSIBILIDADE. APLICAÇÃO DO CDC. PRECLUSÃO. PRELIMINAR. NULIDADE PARCIAL DA SENTENÇA. DECISÃO ULTRA PETITA. LIQUIDAÇÃO POR ARBITRAMENTO (ART. 509, I C/C ART. 510, AMBOS DO CPC) DESDE QUE LIMITADA AO VALOR PEDIDO PELA PARTE AUTORA. MÉRITO. CONSUMO DE ENERGIA ELÉTRICA DE ALTA TENSÃO. RESPONSABILIDADE DA CONSUMIDORA PELOS DANOS QUE SOBREVENHAM ALÉM DO PONTO DE ENTREGA. RESOLUÇÃO N. 414/2010 DA ANEEL. LAUDO PERICIAL INCONCLUSIVO. AUSÊNCIA DE NEXO CAUSAL. RESPONSABILIDADE DA CONCESSIONÁRIA AFASTADA. INVERSÃO DO ÔNUS SUCUMBENCIAL. RECURSO PARCIALMENTE CONHECIDO E PROVIDO.
+Na origem, trata-se de ação ajuizada por Jopllam Indústria e Comércio de Alimentos Ltda. Contra Copel S.A. objetivando indenização por danos materiais em razão do fornecimento de tensão menor que a devida, o que comprometeu o funcionamento de maquinários da empresa.
+Na sentença, julgou-se o pedido procedente. No Tribunal a quo, a sentença foi reformada para julgar o pedido improcedente. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+No recurso especial, Jopllam - Indústria e Comércio de Alimentos Ltda. aponta violação dos arts. 373, II e §§ 1º e 3º, III, 1.022, II, III, ambos do CPC/2015, 205 da Resolução n. 414/2010 da ANEEL, 6º, VII, VIII, 14 e 22, todos do Código de Defesa do Consumidor.
+A decisão monocrática tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial."
+A Segunda Turma negou provimento ao agravo interno, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AÇÃO DE REPARAÇÃO DE DANOS. FORNECIMENTO DE ENERGIA ELÉTRICA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INTEMPESTIVIDADE.
+I - Na origem, trata-se de ação de reparação de danos, objetivando indenização pelos danos materiais experimentados. Na sentença, julgou-se o pedido procedente. No Tribunal a quo, a sentença foi reformada para julgar o pedido improcedente.
+II - Da análise dos autos, verifica-se que, em 21/10/2022, foi expedida a intimação do acórdão recorrido (mov.30 - ED 2) e, tendo em vista que a parte recorrente não procedeu à leitura dentro do prazo de 10 dias contados da data do envio da intimação (art. 5º, § 3º, da Lei n. 11.419/06), considera-se que a intimação se deu na data do término desse prazo, ou seja, em 31/10/2022.
+III - No entanto, em razão do feriado local em 31/10/2022 (transferência das comemorações alusivas ao dia 28 de outubro - Dia do Funcionário Público), bem como da suspensão do expediente nas repartições judiciárias do Estado do Paraná em 1º/11/2022, previstos no Decreto Judiciário n. 717/2021, alterado, a leitura pelo Decreto Judiciário n. 570, publicado no Diário da Justiça n. 3306 em 17/10/2022 automática foi efetivada apenas em 3/11/2022.
+IV - Sendo assim, a fim de comprovar o feriado local em 31/10/2022 (transferência das comemorações alusivas ao dia 28 de outubro - Dia do Funcionário Público) e as suspensões do expediente nas repartições judiciárias do Estado do Paraná em 1º/11/2022 e 14/11/2022, previstos no Decreto Judiciário n. 717/2021 (alterado pelos Decretos Judiciários n. 408/2022 e 570/2022), a parte recorrente deveria ter juntado no ato da interposição do recurso, conforme dispõe o art. 1.003, § 6º, do Código de Processo Civil, os decretos acima mencionados, o que não se pretendeu no presente caso. Portanto, a petição recursal juntada em 28/11/2022 está intempestiva.
+V - O Superior Tribunal de Justiça firmou entendimento no sentido de que "(..) a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende que dele conheça este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública." (AgInt no REsp n. 1.686.469/AM, relator Ministro Mauro Campbell Marques, DJe 27/3/2018). Nesse sentido: AgInt no AREsp n. 1.621.655/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/5/2020, DJe 26/5/2020.
+VI - Agravo interno improvido.
+Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado, resumidos nos seguintes termos:
+A decisão embargada merece reforma pois:
+I - O Recurso Especial foi protocolado tempestivamente, fato omitido na decisão;
+II - Houve omissão no decisum quanto à não vinculação do assunto à súmula ou uniformização de jurisprudência, na forma do artigo 926 do CPC;
+III - Ainda, não se pronunciou o acórdão quanto ao argumento de que, em que pese o disposto no artigo 1.003, § 6º do CPC, não há qualquer óbice na comprovação posterior da tempestividade, ainda mais ao se contemplar o princípio da primazia da decisão de mérito prevista no artigo 932 do CPC.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO DE REPARAÇÃO DE DANOS. FORNECIMENTO DE ENERGIA ELÉTRICA. RECURSO ESPECIAL. INTEMPESTIVIDADE. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. ALEGAÇÃO DE VÍCIOS NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA.
+I - Na origem, trata-se de ação ajuizada por Jopllam Indústria e Comércio de Alimentos Ltda. Contra Copel S.A. objetivando indenização por danos materiais em razão do fornecimento de tensão menor que a devida, o que comprometeu o funcionamento de maquinários da empresa.
+II - Na sentença, julgou-se o pedido procedente. No Tribunal a quo, a sentença foi reformada para julgar o pedido improcedente. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+III - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+IV - Os embargos aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso.
+V - Os vícios apontados pela parte embargante, relacionados à tempestividade do recurso especial, foram tratados no acórdão recorrido, o que afasta a alegação de omissão.
+VI - Embargos de declaração rejeitados.
+VOTO
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+(EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp n. 166.402/PE, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl n. 8.826/RJ, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 15/2/2017, DJe 15/3/2017.)
+Os vícios apontados pela parte embargante, relacionados à tempestividade do recurso especial, foram tratados no acórdão recorrido, o que afasta a alegação de omissão, nos termos assim expostos:
+Da análise dos autos, verifica-se que, em 21/10/2022, foi expedida a intimação do acórdão recorrido (mov.30 - ED 2) e, tendo em vista que a parte recorrente não procedeu à leitura dentro do prazo de 10 dias contados da data do envio da intimação (art. 5º, § 3º, da Lei n. 11.419/06), considera-se que a intimação se deu na data do término desse prazo, ou seja, em 31/10/2022.
+No entanto, em razão do feriado local em 31/10/2022 (transferência das comemorações alusivas ao dia 28 de outubro - Dia do Funcionário Público), bem como da suspensão do expediente nas repartições judiciárias do Estado do Paraná em 1º/11/2022, previstos no Decreto Judiciário n. 717/2021, alterado, a leitura pelo Decreto Judiciário n. 570, publicado no Diário da Justiça n. 3306 em 17/10/2022 automática foi efetivada apenas em 3/11/2022.
+Sendo assim, a fim de comprovar o feriado local em 31/10/2022 (transferência das comemorações alusivas em 28 de outubro - Dia do Funcionário Público) e as suspensões do expediente nas repartições judiciárias do Estado do Paraná em 1º/11/2022 e 14/11/2022, previstos no Decreto Judiciário n. 717/2021 (alterado pelos Decretos Judiciários n. 408/2022 e 570/2022), a parte recorrente deveria ter juntado no ato da interposição do recurso, conforme dispõe o art. 1.003, § 6º, do Código de Processo Civil, os decretos acima mencionados, o que não se pretendeu no presente caso.
+Portanto, a petição recursal, juntada em 28/11/2022, está intempestiva.
+O Superior Tribunal de Justiça firmou entendimento no sentido de que "(..) a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende que dele conheça este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública." (AgInt no REsp n. 1.686.469/AM, relator Ministro Mauro Campbell Marques, DJe 27/3/2018). Nesse sentido: AgInt no AREsp n. 1.621.655/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/5/2020, DJe 26/5/2020.
+Cumpre ressaltar que os embargos aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que o acórdão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
