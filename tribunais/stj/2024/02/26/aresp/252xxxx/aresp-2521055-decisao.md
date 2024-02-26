@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por ALESSANDRO FERNANDES DA SILVA, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim ementado (e-STJ, fls. 400-410):
+"RECURSO EM SENTIDO ESTRITO. HOMICÍDIO QUALIFICADO. DESCLASSIFICAÇÃO. EXCLUSÃO QUALIFICADORAS. 1) INEXISTINDO ELEMENTOS DE CONVICÇÃO SUFICIENTES PARA A CONSTATAÇÃO DA AUSÊNCIA DE ANIMUS NECANDI POR PARTE DO RECORRENTE, DEVE MANTER-SE A COMPETÊNCIA CONSTITUCIONAL DO JÚRI PARA DIRIMIR QUAISQUER INCERTEZAS SOBRE O TEMA. 2) HAVENDO ELEMENTOS DE CONVICÇÃO QUE INDICAM A PRÁTICA DO CRIME DE HOMICÍDIO POR MOTIVO FÚTIL E MEDIANTE RECURSO QUE IMPOSSIBILITOU OU DIFICULTOU A DEFESA DA VÍTIMA, IMPÕE-SE A MANUTENÇÃO DAS QUALIFICADORAS DESCRITAS NO ARTIGO 121, § 2º, INCISOS I E IV, DO CÓDIGO PENAL. 3) RECURSO CONHECIDO E DESPROVIDO".
+Em suas razões recursais, a parte recorrente aponta violação do art. 121, § 2º, II e IV, do CP. Aduz para tanto, em síntese, que seria manifestamente improcedentes as qualificadoras do motivo fútil e do recurso que dificultou a defesa da vítima, pela inexistência de provas suficientes para lastrear sua inclusão na pronúncia.
+Com contrarrazões (e-STJ, fls. 434-439), o recurso especial foi inadmitido na origem (e-STJ, fls. 446-448), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do recurso (e-STJ, fls. 478-482).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Este, todavia, não supera o juízo de admissibilidade.
+Sabe-se que a exclusão de qualificadoras somente é possível, na fase da pronúncia, se manifestamente improcedentes, sob pena de usurpação da competência dos jurados. No presente caso, ao tratar do tema, o Tribunal local entendeu que há indícios mínimos sobre a futilidade do motivo (qual seja, possível discussão sobre o uso de drogas) e a atuação repentina do réu em desfavor da vítima (e-STJ, fl. 407):
+"Em relação ao motivo fútil, extrai-se do depoimento da vítima que a discussão teria se iniciado após este se recusar a deixar o acusado entrar em sua casa para usar drogas. Já o acusado, alega que iniciou a agressão porque ambos estavam muito bêbados e que o ofendido começou a lhe xingar e empurrar.
+Diante desse contexto, observa-se que a motivação fútil está relacionada ao fato de o delito ter sido praticado, supostamente, porque a vítima não teria autorizado o acusado a entrar na casa dele para usar drogas, sendo que ambos estavam embriagados no momento dos fatos.
+Assim, é necessário maior esclarecimento probatório se, de fato, houve discussão, provocação e ameaça da vítima ou se ela apenas não deixou o acusado entrar em sua casa.
+Já a qualificadora de utilização de recurso que dificultou a defesa da vítima está indicada pelo suposto modus operandi do acusado, uma vez que a prova oral e as imagens de vídeo apontaram que o recorrente teria, em tese, sacado a arma de maneira repentina, no meio da discussão, causando surpresa que impossibilitou a defesa da vítima, o que merece ser melhor apurado".
+Assim, a admissão da tese recursal esbarra, aqui, na Súmula 7/STJ. Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA. NULIDADE. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO IDÔNEA. EXISTÊNCIA DE PROVAS DA MATERIALIDADE E INDÍCIOS DE AUTORIA. QUALIFICADORAS. PROVA TESTEMUNHAL. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. EXCESSO DE LINGUAGEM. NÃO OCORRÊNCIA. AGRAVO IMPROVIDO.
+ ..
+3. Esta Corte Superior tem admitido a exclusão das qualificadoras do crime de homicídio na sentença de pronúncia, quando evidenciada pelas premissas fáticas delineadas nas instâncias ordinárias sua manifesta improcedência, o que não foi demonstrado no caso.
+4. Tendo o Tribunal de origem, mediante análise das provas dos autos, concluído não ser possível excluir as qualificadoras, pois devidamente fundamentadas na prova testemunhal produzida, tem incidência a Súmula n. 7/STJ.
+5. Não se verifica a ocorrência de excesso de linguagem, pois a pronúncia abordou apenas os necessários requisitos de autoria e materialidade, com base nas provas apresentadas, especialmente a prova testemunhal, não se observando incursão demasiada no exame do conjunto probatório, tampouco manifestação definitiva de culpa do acusado, com qualificativos fortes a induzir o julgamento pelo Conselho de Sentença.
+6. Agravo regimental improvido".
+(AgRg no REsp 1890976/CE, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 25/05/2021, DJe 28/05/2021)
+Afinal, decidir se a discussão que motivou a conduta do réu foi causada imotivadamente pela vítima, ou se o ofendido já esperava o golpe de facão (o que afastaria o elemento da surpresa), como diz o agravante, é medida que somente seria possível com o aprofundado reexame das provas. Não estando demonstrada claramente no acórdão recorrido a manifesta improcedência das qualificadoras - já que o Tribunal local apontou indícios justificadores de sua incidência -, não pode este STJ substituir as instâncias ordinárias no ponto e se debruçar sobre as provas para delas extrair conclusão fática diversa.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
