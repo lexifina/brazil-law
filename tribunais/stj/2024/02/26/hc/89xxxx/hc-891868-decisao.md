@@ -1,0 +1,17 @@
+DECISÃO
+Em consulta ao sistema de banco interno deste Sodalício, verifica-se que a presente impetração é mera reiteração do HC 891.204/SP, impetrado em benefício do mesmo paciente, possuindo a mesma causa de pedir e pedido, qual seja, revogação da custódia preventiva, inclusive impugnando o mesmo acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2310259-44.2023.8.26.0000), o que obsta a análise deste writ, conforme sedimentada jurisprudência deste Sodalício.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ANÁLISE DE QUESTÕES JÁ EXAMINADAS NO HC N. 694.828/MG. REITERAÇÃO DE PEDIDO. DESCABIMENTO. INSURGÊNCIA QUANTO À DATA PARA JULGAMENTO DO MÉRITO DO WRIT NA ORIGEM. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. As alegações suscitadas neste writ , concernentes ao disposto no art. 580 do Código de Processo Penal e aos requisitos da prisão preventiva, já foram objeto de exame no HC n. 694.828/MG, impetrado em favor da ora Agravante. Assim, configurada a hipótese de reiteração de pedido, deve ser mantida a decisão agravada que indeferiu liminarmente o writ.
+2. No âmbito do agravo regimental, não se admite que a Parte, pretendendo a análise de teses anteriormente omitidas, amplie objetivamente as causas de pedir formuladas na petição inicial ou no recurso.
+3. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido.(AgRg no HC 696.965/MG, Sexta Turma, Rel. Ministra Laurita Vaz, DJe 04/11/2021)
+PROCESSO PENAL. AGRAVO REGIMENTAL DA DECISÃO QUE INDEFERIU LIMINARMENTE O HABEAS CORPUS. REITERAÇÃO DE PARTES, CAUSA DE PEDIR E PEDIDOS DO HC 674.420/PR. LITISPENDÊCIA. TRÍPLICE IDENTIDADE. NÃO CONHECIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+II - O presente habeas corpus guarda identidade de partes, causa de pedir e pedidos com o HC 674.420/PR, impetrado em momento anterior.
+III - Em ambas as impetrações, tem-se o mesmo paciente e o mesmo cenário fático-processual. Levantam-se idênticas teses de violação aos princípios da ampla defesa, do contraditório e do devido processo legal em virtude do indeferimento do pedido de produção probatória e de deficiência da assistência jurídica prestada pela Defensoria Pública da União até o momento em que o agravante constituiu advogado particular nos autos. E, finalmente, requer-se a mesma providência: o deferimento do pedido de produção probatória ou a declaração de nulidade da Ação Penal n. 5012581-37.2015.4.04.7000.
+IV - O habeas corpus é espécie de ação e, nessa medida, deve observar os pressupostos processuais e as suas condições. Entre os pressupostos processuais, destaca-se, no caso, a litispendência, doutrinariamente classificada como pressuposto processual objetivo extrínseco negativo, a qual, de acordo com a teoria da tríplice identidade, obsta o ajuizamento de nova ação que guarde identidade de partes, causa de pedir e pedido com outra ação anterior que esteja em curso.
+V - Por esse motivo, esta Corte Superior tem jurisprudência firme para não conhecer de habeas corpus com reiteração de pedidos.
+Agravo regimental desprovido."(AgRg no HC 691.648/PR, Quinta Turma, Rel. Min. Felix Fischer, DJe 04/11/2021, grifei)
+Ante o exposto, indefiro liminarmente este habeas corpus , com fundamento nos arts. 34, inc. XX, e 210, ambos do RISTJ.
+P. e I.
+EMENTA
