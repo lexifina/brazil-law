@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS EM SEGUNDA FASE. ADEQUAÇÃO DA AÇÃO. PRECLUSÃO. SÚMULA N. 283/STF. INTERESSE DE AGIR E INEXISTÊNCIA DE PRETENSÃO DE REEXAME DE CLÁUSULAS CONTRATUAIS POR MEIO DE AÇÃO DE PRESTAÇÃO DE CONTAS. SÚMULA N. 7/STJ.
+1. A recorrente limita-se a suscitar a inadequação da ação de prestação de contas e deixa de impugnar o fundamento do acordão recorrido de que a referida questão já havia sido decidida ao final da primeira fase da ação de prestação de contas e, por não ter sido objeto de recurso, está preclusa. Incidência da Súmula n. 283/STF .
+2. A revisão da matéria a respeito do interesse de agir e da ausência de pretensão da autora de revisar cláusulas contratuais implica o imprescindível reexame das provas constantes dos autos, o que é defeso na via especial, ante o que preceitua a Súmula n. 7/STJ.
+Agravo improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por ITAU UNIBANCO S.A contra decisão monocrática de minha relatoria que conheceu do agravo para não conhecer do recurso especial em razão da incidência da Súmula n. 283/STF e da Súmula n. 7/STJ (fls. 1.044-1.049).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fls. 795-796):
+CÔDIGO DE DEFESA DO CONSUMIDOR PESSOA JURÍDICA
+Pessoa jurídica Destinatário final do produto Produto usado como insumo da atividade empresarial Relação de consumo Não ocorrência - Inaplicabilidade do CDC Precedentes do STJ:
+A pessoa jurídica que celebra contrato a fim de obter capital de giro para sua atividade empresarial não estabelece relação de consumo, por não se amoldar ao conceito de destinatário final, o que torna inaplicável o CDC à relação, conforme precedentes do STJ.
+AÇÃO DE PRESTAÇÃO DE CONTAS - Segunda fase Conta corrente Ação julgada procedente em primeira fase, determinando que o réu apresentasse as contas Sentença que revê a matéria atinente às condições da ação e extingue o processo sem resolução de mérito, nos termos do artigo 485, VI do CPC Inadmissibilidade Preclusão:
+- Decisão proferida na primeira fase da ação de prestação de contas que entendeu estarem presentes as condições da ação e que não foi objeto de recurso Ainda que se trate de matéria de ordem pública, sujeita-se à preclusão, pois já decidida Obrigação do réu de prestar as contas que já foi reconhecida Impossibilidade de nova discussão Sentença anulada.
+PERÍCIA CONTÁBIL
+- Ação de prestação de contas procedente em primeira fase Contas apresentadas pelo réu em desacordo com a determinação Ausência de demonstração da origem e regularidade dos débitos lançados em conta Determinação da realização de perícia Ônus do réu:
+- Cabia ao réu apresentar as contas na forma como definida na decisão da primeira fase da ação de prestação de contas Descumprimento Ônus da realização da perícia contábil para apuração das contas que deve recair sobre o réu. RECURSO PROVIDO.
+Rejeitados os embargos de declaração opostos (fl. 820).
+Alega a agravante que "descabe discutir se a questão acerca da inadequação da ação de prestação de contas estaria preclusa por ter sido decidida ao final da primeira fase, não tendo sido interposto recurso" (fl. 1.057).
+Aduz, ainda, que "o Tribunal a quo, ao aventar a possibilidade de restituição de débitos oriundos da atividade bancária, claramente reconheceu a viabilidade de se formular pedido revisional no bojo da ação de prestação de contas" (fl. 1.058).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, submeta-se o presente agravo à apreciação da Turma.
+A agravada apresentou contrarrazões (fls. 1.075-1.084).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS EM SEGUNDA FASE. ADEQUAÇÃO DA AÇÃO. PRECLUSÃO. SÚMULA N. 283/STF. INTERESSE DE AGIR E INEXISTÊNCIA DE PRETENSÃO DE REEXAME DE CLÁUSULAS CONTRATUAIS POR MEIO DE AÇÃO DE PRESTAÇÃO DE CONTAS. SÚMULA N. 7/STJ.
+1. A recorrente limita-se a suscitar a inadequação da ação de prestação de contas e deixa de impugnar o fundamento do acordão recorrido de que a referida questão já havia sido decidida ao final da primeira fase da ação de prestação de contas e, por não ter sido objeto de recurso, está preclusa. Incidência da Súmula n. 283/STF .
+2. A revisão da matéria a respeito do interesse de agir e da ausência de pretensão da autora de revisar cláusulas contratuais implica o imprescindível reexame das provas constantes dos autos, o que é defeso na via especial, ante o que preceitua a Súmula n. 7/STJ.
+Agravo improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O agravo interno não deve ser provido, pois as razões da parte agravante não são capazes de refutar a decisão agravada.
+Na origem, cuida-se de ação de prestação de contas. O Tribunal reformou a sentença que, em segunda fase de ação de prestação de contas, extinguiu o feito sem resolução de mérito.
+Entendeu a Corte estadual que as condições da ação foram analisadas na primeira fase de prestação de contas e afastada a preliminar de carência de ação, de forma que a questão está preclusa, por não ter sido interposto recurso. Assim, determinou o prosseguimento do processo, já na segunda fase, com a realização de perícia contábil.
+Veja-se (fls. 798-800):
+Com efeito, quando da apreciação dos pedidos formulados pela autora, na primeira fase de prestação de contas, foram analisadas as condições da ação e foi expressamente afastada a preliminar de carência da ação. Conforme constou expressamente na sentença: (..)
+Tal decisão não foi objeto de recurso, de forma que restou preclusa a discussão a respeito de o banco ter a obrigação ou não de prestar contas.
+(..)
+Registre-se que a petição a fls. 623, onde o réu alegou que o pedido da autora é genérico e que a ação é inadequada, pois a autora estaria na realidade pretendendo a revisão das cláusulas contratuais, não era pertinente naquele momento processual. Como acima mencionado, a questão a respeito do interesse de agir, da necessidade e adequação da ação proposta já havia sido decidida.
+No recurso especial, a parte aponta como violados os arts. 327, § 1º, I, e 550 do CPC, sob o argumento de que a parte demandante busca revisão de cláusulas contratuais por meio de ação de prestação de contas, o que seria indevido.
+Com efeito, da análise das razões do recurso especial, observa-se que a recorrente limita-se a suscitar a inadequação da ação de prestação de contas e deixa de impugnar o fundamento do acordão recorrido de que a referida questão já havia sido decidida ao final da primeira fase da ação de prestação de contas e, por não ter sido objeto de recurso, estaria preclusa.
+Nesse sentido, incide a Súmula n. 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ainda que assim não fosse, cumpre destacar que, diversamente do alegado pelo recorrente, o Tribunal de origem registrou que a parte demandante não busca revisão de cláusulas contratuais. Veja-se o que registrado no acórdão recorrido:
+Saliente-se, ainda, que ao contrário do que o réu reiteradamente alega, não se verifica a pretensão da autora de revisar cláusulas contratuais. Seu pedido se restringe à demonstração da origem dos encargos cobrados e da evolução, com a apresentação dos contratos que ensejaram as cobranças. Em nenhum momento pede a alteração das cláusulas contratuais, ou revisão. (Fl. 800.)
+Ademais, nas contas apresentadas, afirma-se genericamente que as tarifas foram cobradas conforme a regulamentação da época, no entanto, não há nem ao menos uma especificação de quais são essas tarifas e da causa de sua cobrança. Pela análise dos extratos (fls. 165 e seguintes) verifica-se que há várias cobranças que não se enquadram naquelas que foram especificadas nº 3.919/2010 (fls. 339). Registre-se também que há cobrança de seguros sem que tenham sido apresentados contratos ou apólices, sendo que ainda que tenham sido eventualmente contratados por via eletrônica, deveria o banco ter trazido documento que fundamentasse a cobrança. (Fl. 802.)
+Ora, o banco apelante administra a conta corrente da autora, sendo responsável pelos valores lá depositados. Todos os lançamentos em conta deveriam ser decorrentes de contratos firmados e solicitações do correntista. Sabe-se que atualmente as partes muitas vezes não assinam documentos em papel, muitas solicitações são feitas por telefone ou eletronicamente. Ainda assim, cumpre ao banco ter o registro dessas operações, das condições acordadas, dos valores a serem cobrados, assim como deve ter documentadas as taxas de juros praticadas em cada período e o valor das tarifas cobradas para cada um dos serviços prestados.
+Não há que se cogitar em "revisão de contrato". As cobranças estão sendo questionadas não por serem abusivas ou seu valor ser excessivo, mas sim por não terem suporte documental para sua incidência. Assim, de rigor o acolhimento do recurso para se anular a sentença, determinando-se que os autos retornem ã Primeira Instância para que seja realizada a perícia contábil que atenda aos ditames da sentença da primeira fase do processo, devendo o banco arcar com tal ônus, bem como apresentar os documentos requeridos pelo perito. (Fl. 807-808.)
+A Corte de origem afastou a alegação de que a parte demandante esteja requerendo revisão de cláusulas contratuais por meio de ação de prestação de contas e consignou os motivos pelos quais foi determinado que o banco recorrente apresentasse contas, bem como porque suas contas foram consideradas irregulares e determinada a perícia contábil.
+A revisão da matéria, conforme pretendido pelo recorrente, implica o imprescindível reexame das provas constantes dos autos, o que é defeso na via especial, ante o que preceitua a Súmula n. 7/STJ.
+A propósito, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE PRESTAÇÃO DE CONTAS. SEGUNDA FASE. PERÍCIA. RECONHECIMENTO DOS EXATOS VALORES DEVIDOS. REVISÃO. IMPOSSIBILIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que a ação de prestação de contas ocorre em duas fases distintas e sucessivas, sendo que, na primeira, discute-se sobre o dever de prestar contas e, uma vez declarado o dever de prestá-las, na segunda fase elas serão julgadas e apreciadas, se apresentadas.
+Precedentes.
+2. Na espécie, o Tribunal de origem, após o exame dos autos, das provas, dos documentos e da natureza da lide, entendeu que, diante do trânsito em julgado da sentença de primeira fase condenando à prestação das contas e da apresentação insuficiente destas, realizou-se perícia que apurou o real valor devido ao autor, corrigido a partir de dezembro de 1999 e acrescido de juros de mora a partir da citação.
+3. A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.227.198/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 6/3/2023, DJe de 14/3/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AGRAVADA.
+1. Não se constata a alegada violação aos artigos 489 e 1.022, do CPC/15, porquanto todos os argumentos expostos pela parte, na petição dos embargos de declaração, foram apreciados, com fundamentação clara, coerente e suficiente.
+2. De acordo com a orientação firmada neste Superior Tribunal de Justiça, "na segunda fase da prestação de contas, elas são julgadas ao arbítrio do juiz que poderá determinar, se necessário, a realização do exame pericial contábil" (AgInt no AgInt no AREsp 1629196/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/12/2020, DJe 15/12/2020).
+3. Ademais, para alterar o entendimento do Tribunal de origem seria necessário o reexame de fatos e provas, o que é vedado em recurso especial. Incidência da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.063.542/SC, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/8/2022, DJe de 15/8/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. CONTROVÉRSIA SOBRE A REGULARIDADE DAS CONTAS APRESENTADAS. REEXAME DE PROVAS. SÚMULA 7 DO STJ. A REVISÃO DE CLÁUSULAS CONTRATUAIS É INCOMPATÍVEL COM O RITO DA AÇÃO DE PRESTAÇÃO DE CONTAS. PRECEDENTES DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A revisão do acórdão recorrido no tocante à regularidade da prestação de contas, demandaria o revolvimento do conteúdo fático-probatório dos autos, providência incabível no recurso especial, ante o óbice previsto na Súmula 7 desta Corte.
+2. Pacífico o entendimento desta Corte Superior, no sentido de que o rito especial da ação de prestação de contas não comporta a pretensão de alterar ou revisar cláusula contratual, diante dos princípios do contraditório e da ampla defesa.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.482.048/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 20/8/2019, DJe de 23/8/2019.)
+Por fim, quanto ao dissídio jurisprudencial alegado, a jurisprudência desta C orte firmou-se no sentido de que a incidência da Súmula n. 7/STJ também impede o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido.
+A ressaltar a ausência de similitude fática, o REsp n. 1.497.831/PR trata de caso em que o acórdão recorrido substituiu a taxa de juros remuneratórios aplicada ao longo da relação contratual e excluiu a capitalização dos juros.
+Por sua vez, nos presentes autos, o Tribunal de origem apenas determina a realização de perícia contábil e que o banco exiba a documentação pertinente aos débitos, tendo em vista a irregularidade das contas prestadas pelo recorrente, que não comprovou ou indicou o fundamento de diversas cobranças (incluindo-se taxa de juros, seguros e tarifas diversas, conforme mencionado no excerto do acórdão recorrido).
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
