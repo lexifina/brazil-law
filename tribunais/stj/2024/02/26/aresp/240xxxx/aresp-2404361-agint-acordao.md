@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/02/2024 a 26/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Francisco Falcão.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA N. 284/STF. ICMS. DIFAL. ANTERIORIDADE. MATÉRIA DECIDIDA À LUZ DE FUNDAMENTOS CONSTITUCIONAIS. COMPETÊNCIA DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. No que diz respeito à preliminar de negativa de prestação jurisdicional, a recorrente sequer especificou quais seriam as omissões das quais padeceria o aresto combatido, restando inerte, também, com relação à relevância delas ao deslinde da controvérsia. A argumentação genérica de negativa de prestação jurisdicional atrai a incidência da Súmula n. 284/STF.
+2. No mérito, embora tenha sido apontada a violação a dispositivo de lei federal, a controvérsia referente ao art. 3º da LC n. 190/22 foi examinada na origem à luz do que dispõe a Emenda Constitucional n. 87/2015 (e-STJ fls. 332/334).
+3. Assim, solucionada a questão sob a ótica de fundamento constitucional, é inviável o reexame da matéria em sede de recurso especial sob pena de usurpação da competência do STF.
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto por MERCK S/A, contra a decisão de minha relatoria, assim ementada:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EMR ECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA N. 284/STF. ICMS. DIFAL. ANTERIORIDADE. MATÉRIA DECIDIDA À LUZ DE FUNDAMENTOS CONSTITUCIONAIS. COMPETÊNCIA DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões recursais, o agravante sustenta que não incide o óbice da Súmula n. 284/STF à preliminar de negativa de prestação jurisdicional. Reitera que, a despeito da oposição de aclaratórios na origem, a Corte local manteve-se inerte com relação ao art. 3º da Lei Complementar n. 190/2022.
+Ademais, aduz que não se pode falar em fundamento constitucional na medida em que a parte demonstrou que o acórdão recorrido violou expressamente o art. 3º da Lei Complementar n. 190/2022, uma vez que a própria Lei Complementar dispôs que a produção de seus efeitos deveria observar o artigo 150, inciso III, alínea "c" da CF/88.
+Por fim, aponta a necessidade de análise da divergência jurisprudencial suscitada.
+Pugna, por fim, pela reconsideração da decisão, em juízo de retratação, ou pelo julgamento do presente recurso pelo Órgão Colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA N. 284/STF. ICMS. DIFAL. ANTERIORIDADE. MATÉRIA DECIDIDA À LUZ DE FUNDAMENTOS CONSTITUCIONAIS. COMPETÊNCIA DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. No que diz respeito à preliminar de negativa de prestação jurisdicional, a recorrente sequer especificou quais seriam as omissões das quais padeceria o aresto combatido, restando inerte, também, com relação à relevância delas ao deslinde da controvérsia. A argumentação genérica de negativa de prestação jurisdicional atrai a incidência da Súmula n. 284/STF.
+2. No mérito, embora tenha sido apontada a violação a dispositivo de lei federal, a controvérsia referente ao art. 3º da LC n. 190/22 foi examinada na origem à luz do que dispõe a Emenda Constitucional n. 87/2015 (e-STJ fls. 332/334).
+3. Assim, solucionada a questão sob a ótica de fundamento constitucional, é inviável o reexame da matéria em sede de recurso especial sob pena de usurpação da competência do STF.
+4. Agravo interno não provido.
+VOTO
+Cuida-se, na origem, de mandado de segurança impetrado pela ora agravante objetivando o reconhecimento do direito de não recolher o ICMS-DIFAL antes de 2023 e de 05/04/2022 nas operações interestaduais de circulação de mercadorias destinadas a consumidor final não contribuinte do imposto, e à recuperação de valores porventura recolhidos nesse período.
+Concedida apenas parcialmente a ordem, a parte interpôs o cabível apelo nobre apontando ofensa aos seguintes dispositivos: a) arts. 489, § 1º, IV e VI, e 1.022, II, do Código de Processo Civil, sustentando que o acórdão recorrido padece de omissões; b) art. 3o da Lei Complementar n. 190/2022, aduzindo a ilegalidade da exigência do DIFAL antes de abril de 2022.
+No presente, assevera a inaplicabilidade da Súmula n. 284/STF e a inexistência de fundamento constitucional.
+O pleito não comporta acolhida. Inicialmente, no que diz respeito à preliminar de negativa de prestação jurisdicional, colaciono a argumentação recursal (e-STJ fls. 421/422):
+Na hipótese deste Eg. STJ concluir pela ausência de prequestionamento dos dispositivos legais tidos por violados, necessário se faz, então, o reconhecimento da nulidade do v. acórdão recorrido, em função da violação ao disposto nos artigos 489, § 1o, IV, e 1.022 do CPC.
+Com efeito, à luz do disposto no art. 1.022 do CPC, o magistrado tem o dever de suprir as omissões do julgado demonstradas em Embargos de Declaração, relativamente às questões de fato e de direito trazidas à colação, que sustentem as pretensões autorais. E com o advento do CPC de 2015, a legislação processual passou a exigir dos julgadores uma postura mais crítica e detalhista em relação aos requisitos mínimos que devem conter uma decisão judicial, exigindo no artigo 489, § 1o, incisos IV e VI, que enfrentem todos os argumentos deduzidos no processo capazes de infirmar a conclusão adotada pelo julgador.
+No presente caso, muito embora tenham sido opostos Embargos de Declaração para fins de obter um pronunciamento explícito a respeito da matéria infraconstitucional posta a julgamento, e suprir os vícios do julgado, o referido recurso foi rejeitado pelo Tribunal de Justiça do Estado de São Paulo, que pontuou textualmente inexistir qualquer vício a ser sanado no julgado.
+Frise-se que a Recorrente possui ciência do posicionamento jurisprudencial de que o Juízo não necessita analisar todos os argumentos apresentados desde que a lide seja julgada de forma ampla e fundamentada, e que o artigo 1.025 do CPC prevê o prequestionamento implícito.
+Todavia, não se pode negar que as Turmas de Direito Público deste Eg. STJ divergem acerca desse tema, havendo diversos exemplos em que foi declarada a nulidade do v. acórdão e o retorno dos autos à origem. Veja-se:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. OCORRÊNCIA.
+1. Viola o art. 535, II, do CPC, o acórdão proferido em embargos de declaração que deixa de sanar omissão relevante apontada pelo embargante.
+2. Recurso especial a que se dá provimento." - grifou-se (REsp 1030623/SP - 1a Turma - Rel. Min. Luiz Fux - DJe 26/05/2010)
+"PRECATÓRIO COMPLEMENTAR. JUROS DE MORA. COISA JULGADA. OMISSÃO. VIOLAÇÃO AO ART. 535, INCISO II, DO CPC CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+I - A violação ao artigo art. 535, inciso II, do CPC, ocorre quando o órgão julgador, instado a emitir pronunciamento acerca dos pontos tidos como omissos, contraditórios ou obscuros e relevantes ao desate da causa, não enfrenta a questão oportunamente suscitada pela parte. II - In casu, a despeito da oposição de embargos de declaração, objetivando sanar a omissão acerca da ocorrência de coisa julgada, o Tribunal a quo quedou-se silente, em manifesta violação ao art. 535 do Código de Processo Civil, sendo impositivo o retorno dos autos ao Tribunal de Origem para sanear a eiva.
+III - Agravo regimental improvido." (AgRg no REsp 1101658/DF, 1a Turma do STJ, Rel. Min. Francisco Falcão, DJe 29.04.2009, grifou-se)
+Logo, na remota hipótese de se concluir pela ausência de prequestionamento da matéria recorrida, deve então ser acolhida a presente preliminar, para decretar-se a nulidade do v. acórdão ora recorrido, devolvendo-se os presentes autos ao Eg. Tribunal de origem para que seja proferida nova decisão, sob pena de convalidar-se uma prestação jurisdicional deficitária, violadora do permissivo legal constante dos artigos 489, § 1o, incisos IV e VI, e 1.022 do CPC.
+Do excerto depreende-se que a recorrente sequer especificou quais seriam as omissões das quais padeceria o aresto combatido, restando inerte, também, com relação à relevância delas ao deslinde da controvérsia.
+Trata-se, portanto, de argumentação genérica de negativa de prestação jurisdicional, o que atrai a incidência da Súmula n. 284/STF.
+Na mesma linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. MULTA. PROCON. CRITÉRIOS E QUANTUM. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. VIOLAÇÃO DO ART. 1.022 DO CPC. ALEGAÇÃO GENÉRICA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA N. 284/STF.
+1. Nos termos do acórdão recorrido, a multa administrativa fixada pelo Procon baseou-se em critérios como "a gravidade da infração, a vantagem auferida e a condição econômica do fornecedor" (art. 57 do CDC).
+2. O reexame do critério para sua fixação, bem como sua proporcionalidade para majorá-la ou reduzi-la é vedado em recurso especial por exigir revolvimento do conjunto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. Não se pode conhecer da apontada violação do art. 1.022, II, do CPC, pois as alegações que a fundamentaram são genéricas, sem discriminação dos pontos efetivamente omissos, contraditórios ou obscuros sobre os quais tenha incorrido o acórdão impugnado (Súmula n. 184 do STF).
+Agravo interno improvido.
+(AgInt no REsp n. 1.957.817/TO, relator Ministro Humberto Martins, Segunda Turma, julgado em 22/5/2023, DJe de 25/5/2023.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. OFENSA AOS ARTS. 11, 489, 490 E 1.022 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. REINTEGRA. ZONA FRANCA DE MANAUS E ÁREAS DE LIVRE COMÉRCIO. EQUIPARAÇÃO À EXPORTAÇÃO. JURISPRUDÊNCIA PACÍFICA DESTA CORTE.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 11, 489, II, 490 e 1.022, II, do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na espécie, o óbice da Súmula 284 do STF.
+2. É firme a jurisprudência desta Corte no sentido de que apenas as vendas de mercadorias destinadas às empresas situadas nas áreas de Boa Vista/RR e Bonfim/RR são equivalentes a uma exportação; desse modo, o benefício em questão não alcança as mercadorias destinadas às cidades de Guajará-Mirim/RO, Brasiléia/AC, Epitaciolândia/AC, Cruzeiro do Sul/AC, Macapá e Santana/AP. Precedentes: AgInt no REsp n. 1.893.714/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 26/6/2023, DJe de 29/6/2023; AgInt no AREsp n. 2.093.655/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 8/5/2023, DJe de 19/5/2023; AgInt no REsp n. 1.877.060/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/12/2022, DJe de 13/12/2022; AgInt no REsp n. 1.947.412/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 15/3/2022, DJe de 5/4/2022.
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 2.043.774/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 4/9/2023, DJe de 8/9/2023.)
+No mérito, embora tenha sido apontada a violação a dispositivo de lei federal, a controvérsia referente ao art. 3º da LC n. 190/22 foi examinada na origem à luz do que dispõe a Emenda Constitucional n. 87/2015 (e-STJ fls. 332/334).
+Assim, solucionada a questão sob a ótica de fundamento constitucional, é inviável o reexame da matéria em sede de recurso especial sob pena de usurpação da competência do STF.
+Nesse, cito:
+PROCESSUAL CIVIL, ADMINISTRATIVO E TRIBUTÁRIO. PRINCÍPIOS DA ANTERIORIDADE NONAGESIMAL E DO EXERCÍCIO. FUNDAMENTO CONSTITUCIONAL. VIA ESPECIAL. EXAME. IMPOSSIBILIDADE.
+1. O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+2. A controvérsia foi analisada, no âmbito do Tribunal de origem, com suporte na seguinte ementa: "(..) 4. A despeito da previsão contida em seu artigo 3º, a LC n. 190/22 não se submete ao princípio da anterioridade tributária nos termos postos no artigo 150, inciso III, alíneas b e c, da Constituição Federal, já que não instituiu nem majorou tributo, devendo ser rechaçada, por via de consequência, a tese das impetrantes no sentido da impossibilidade de cobrança do DIFAL durante todo o exercício de 2022." (fls. 291-292, e-STJ).
+3. Da leitura do acórdão recorrido depreende-se que foi debatida matéria com fundamento exclusivamente constitucional (exceção ao entendimento constitucional que veda o efeito cascata no cálculo de gratificações devidas aos servidores públicos), sendo sua apreciação de competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Constituição Federal, razão por que não é possível analisar a tese recursal.
+4. Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+3. Agravo Interno não provido.
+(AgInt no AREsp n. 2.404.098/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. DIFAL-ICMS. DISCUSSÃO SOBRE A APLICAÇÃO DO PRINCÍPIO DA ANTERIORIDADE NO ÂMBITO DA LEI COMPLEMENTAR N. 190/2022. QUESTÃO DECIDIDA NA ORIGEM COM ENFOQUE EMINENTEMENTE CONSTITUCIONAL E ANÁLISE DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA 280 DO STF.
+1. O Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, matéria insuscetível de ser examinada em sede de recurso especial. Outrossim, da própria fundamentação recursal, verifica-se que, a despeito de haver apontado no apelo raro afronta à legislação federal, o recorrente, em verdade, visa travar discussão com enfoque constitucional.
+2. A demanda exige a análise de dispositivos de legislação local, a saber, Lei Estadual n. 17.470/2021, o que atrai a incidência da Súmula 280/STF.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.363.364/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 30/10/2023, DJe de 6/11/2023.)
+Por fim, o fundamento constitucional que inviabilizou o exame da tese pela alínea "a" também inviabiliza o exame da mesma tese pela alínea "c", razão pela qual é inviável o conhecimento do apelo com relação ao dissídio jurisprudencial.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
