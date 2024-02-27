@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul sob o pálio da seguinte ementa:
+CONTRATO ADMINISTRATIVO EMERGENCIAL DEFORNECIMENTO DE AVENTAIS DE TNT. INEXECUÇÃOPARCIAL. SANÇÕES ADMINISTRATIVAS. LEGALIDADE. PROPORCIONALIDADE.1. Constatada a inexistência de fato imprevisível ou previsível de consequências incalculáveis a justificar o atraso no fornecimento de bens adquiridos pelo Estado, não é nula a decisão administrativa que, após assegurar à contratada o direito ao contraditório e à ampla defesa, aplica-lhe penalidades pela execução imperfeita docontrato.2. A mera alegação genérica de que o valor das multas não observou a proporcionalidade e a razoabilidade não induz a ilegalidade das sanções aplicadas. Hipótese em que as penalidades fixadas atendem aos critérios de proporcionalidade e razoabilidade, não comportando redução. Recurso desprovido. Honorários majorados.
+Embargos de Declaração não acolhidos à fl. 1.193.
+Recurso Especial às fls. 1.205-1.213.
+Contrarrazões apresentadas às fls. 1.120-1.127.
+Decisão pela inadmissibilidade do Recurso Especial às fls. 1.245-1.249.
+A parte agravante pleiteia, em suma:
+Seja o presente Agravo em Recurso Especial, provido a fim de reformar a decisão que não admitiu o Recurso Especial interposto pela ora Agravante; E)Por fim, o julgamento conjunto do presente Agravo em Recurso Especial e do Recurso Especial inadmitido, na forma do Art. 1.042, §5º do Código de Processo Civil.
+Contraminuta às fls. 1.268-1.272.
+É o relatório.
+Decide-se.
+Os autos foram recebidos neste Gabinete em 22.1.2024.
+Cuida-se de inconformismo contra decisum do Tribunal de origem que não admitiu o Recurso Especia l, sob o fundamento de incidência da Súmula 7/STJ .
+O Recurso Especial alega violação ao art. 393 do CPC, justificando que não houve inexecução total do objeto do contrato, visto que a não entrega dos produtos se deveu a fatores externos.
+A irresignação não merece prosperar.
+Na origem, os agravantes ajuizaram Ação Anulatória de ato administrativo contra o Estado do Rio Grande do Sul buscando anular a sanção de impedimento de licitar, contratar e seus consectários com a Administração Pública.
+O juízo de primeiro grau não acolheu o pedido, e a Corte a quo manteve o julgado.
+In casu, a parte deveria ter aprofundado o motivo e demonstrado a possibilidade de como rever as conclusões da Corte, não dependem da análise de fatos e provas. Ora, a impugnação da Súmula 7/STJ pressupõe estrutura argumentativa específica, na qual sejam indicadas as premissas fáticas admitidas como verdadeiras pelo Tribunal a quo, a qualificação jurídica que lhes foi conferida e a apreciação que lhes deveria ter sido efetivamente atribuída na forma da lei. Cita-se trecho do recurso:
+Portanto, não se busca o reexame de provas, mas sim o reconhecimento de que a Colenda Turma não valorou a prova de acordo com o que dispõe a norma citada: Art. 393. O devedor não responde pelos prejuízos resultantes de caso fortuito ou força maior, se expressamente não se houver por eles responsabilizado. Parágrafo único. O caso fortuito ou de força maior verifica-se no fato necessário, cujos efeitos não era possível evitar ou impedir. Logo, vê-se a afronta ao ordenamento jurídico sobre a questão veiculada no recurso de apelação acerca dos "fatores externos que impediram a efetiva execução na entrega dos produtos. "Desta forma, ante a recusa na aplicação do preceito legal, faz-se imperioso o afastamento da fundamentação de que o recurso exige a reapreciação de provas, pois se pode extrair do acórdão recorrido todas as razões para apreciação da irresignação recursal. O agravante não pode ser prejudicado pela interpretação de que o mesmo já era sabedora das condições do mercado em relação à matéria-prima necessária à confecção dos aventais. "Portanto, a discussão in caso se dá acerca da interpretação da questão de direito para a revisão da conclusão da Câmara Julgadora, razão pela qual a irresignação recursal não viola a Súmula nº 7 do STJ, pois se trata de error iuris, ou seja, de matéria passível de apreciação pela instância superior. Em suma, tem-se que é necessária a reforma da decisão, uma vez que medida esta de límpida justiça.
+Para afastar a aplicação da Súmula 7/STJ, cabe à parte agravante desenvolver argumentos que demonstrem como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem rever o acervo fático-probatório, esclarecendo especificamente quais fatos foram devidamente consignados no acórdão proferido. Não basta, portanto, sustentar que o julgamento do seu apelo demanda apenas apreciação de normas legais e prescinde do reexame de provas.
+A ausência de impugnação especificada faz incidir na espécie a Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Em obiter dictum, não seria possível discutir a eventual violação do art. 393 do CC, porquanto incidiria a Súmula 7/STJ na discussão da tese de não responsabilidade civil, caso fortuito e força maior.
+Diante do exposto, conhece-se do Agravo para não se conhecer do Recurso Especial.
+Consubstanciado o que previsto na Súmula Administrativa 7/STJ, condena-se a parte recorrente ao pagamento de honorários advocatícios de 10% (dez por cento) sobre o valor total da verba sucumbencial fixada nas instâncias ordinárias, com base no § 11 do art. 85 do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
