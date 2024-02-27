@@ -1,0 +1,57 @@
+DECISÃO
+Em análise, recurso especial interposto por AGROPECUÁRIA SÃO FRANCISCO ADMINISTRAÇÃO E PARTICIPAÇÃO LTDA em face de acórdão do Tribunal de Justiça de São Paulo, assim ementado:
+EMBARGOS DE TERCEIRO. Aquisição de bem cuja doação foi revogada diante da existência de fraude à execução, incluída a donatária no pólo passivo da demanda.
+Alegação de boa-fé por parte dos compradores; embargantes, que não adquiriram o bem diretamente da executada.
+INOCORRÊNCIA. Ciência inequívoca da insolvência da vendedora. Re curso desprovido. (fl. 812e)
+Os embargos de declaração foram rejeitados.
+No recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a parte recorrente aponta, além de divergência jurisprudencial, ofensa aos arts. 131, 165, 219, § 5º, 269, IV, 458, II, 535, II, e 593, II, do CPC/1973, 156, 174 e 185 do CTN.
+Sustenta, essencialmente, que:
+(i) "o v. acórdão embargado simplesmente ignorou - sem sequer a, eles se referir - os argumentos no sentido de queda Recorrente adquiriu, de forma legítima; os direitos hereditários objeto da penhora, sendo que, no momento da aludida conferência de bens, nenhum gravame ou ação pesava sobre o patrimônio transferido e, analisada a titularidade de seus outorgantes sobre aquele mesmo patrimônio" (fl. 851 - STJ);
+(ii) "o v. acórdão recorrido se negou a sanar as omissões,. mantendo-se, mais uma vez, na zona árida da ausência de fundamentação. Ao invés de sanar as omissões inequivocamente, incorridas pelo v. acórdão embargado, preferiu rejeitar os embargos de declaração" (fl. 854 - STJ);
+(iii) "O fato de a execução contra a sociedade Ind. Matarazzo de Papéis ter sido ajuizada em 1981, antes que a Sra. Maria Pia Matarazzo doasse seus direitos hereditários a seus filhos - o que ocorreu em 16/06/1983 - é irrelevante, pois o que vale, para caracterização de fraude à execução, é a data em que aquela senhora passou a integrar a relação processual executiva, data essa muito posterior àquele ato de alienação" (fl. 856 - STJ);
+(iv) "infere-se que o presente processo de execução fiscal somente se formou em relação à Sra. Maria Pia Matarazzo no momento em que esta compareceu espontaneamente nos autos - visto não ter sido citada anteriormente - comparecimento esse que se deu somente em 09/09/2002 (cfr. fls. 150)" (fl. 858 - STJ);
+(v) "no momento da doação de seus diretos hereditários, em 16/06/1983 (fls. 63), NÃO PENDIA CONTRA A SRA MARIA PIA MATARAZZO a presente execução fiscal - até mesmo porque a própria decisão que determinou sua inclusão no pólo passivo do feito foi proferida em 30/08/1999, mais de dezesseis (16) anos depois da prática daquele ato de alienação" (fls. 859/859 - STJ);
+(vi) "o que se tem é que a Recorrente é, de fato, terceira de boa-fé, que sequer adquiriu os direitos sobre os quais pende a constrição diretamente da devedora, contra a qual a execução fiscal foi redirecionada" (fl. 864 - STJ);
+(vii) "quando do redirecionamento da execução fiscal em face daquela senhora, para a penhora desses mesmos direitos hereditários, o prazo prescricional para sua inclusão, na qualidade de sócia da pessoa jurídica devedora, já havia há muito decorrido e se consumado" (fl. 867 - STJ);
+(viii) "O direito de exercício de ação para cobrança do crédito tributário encontra seu limite temporal no caput do artigo 174, do CTN, tendo como marco inicial a constituição definitiva e, como dies ad quem, o decurso dó prazo de cinco anos" (fl. 868 - STJ).
+Contrarrazões às fls. 877/880 - STJ.
+O Recurso Especial foi admitido pelo Tribunal de origem.
+É o relatório. Decido.
+Quanto à apontada violação aos arts. 458, II, 535, II, do CPC/1973, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que, apesar de a doadora do bem não haver sido pessoalmente citada para responder pela execução da pessoa jurídica, à época da doação do imóvel, o processo foi iniciado em 1981 e os donatários pertenciam ao quadro social da executada à época, o configura o consilium fraudis apto a ensejar fraude à execução no caso.
+Como se vê, a negativa de prestação jurisdicional não restou configurada. O mero inconformismo da parte com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 458 do CPC/1973, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador. Assim, inexiste violação aos arts. 458, II, e 535, II, do CPC/1973.
+No tocante aos arts. 156 e 174 do CTN, na forma da jurisprudência desta Corte, para que se configure o prequestionamento é necessário que a causa tenha sido decidida à luz dos dispositivos legais apontados como contrariados, interpretando-se a sua aplicação ou não, ao caso concreto. Nesse contexto, a ausência de discussão na instância de origem da matéria tratada no recurso especial, a respeito da qual não foram opostos embargos de declaração, enseja a aplicação das Súmulas n. 282 e 356 do STF.
+Nesse sentido seguem precedentes desta Corte:
+PROCESSUAL CIVIL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. SAT/RAT. MAJORAÇÃO. NÃO RECOLHIMENTO. DENEGAÇÃO DA SEGURANÇA. DEFICIÊNCIA RECURSAL. FUNDAMENTO DO ACÓRDÃO RECORRIDO. IMPUGNAÇÃO. AUSÊNCIA. APLICAÇÃO DAS SÚMULAS N. 283 E 284, AMBAS DO STF. FALTA DE PREQUESTIONAMENTO. DISSÍDIO JURISPRUDENCIAL. COMPROVAÇÃO. AUSÊNCIA.
+ ..
+IX - Não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+ ..
+XII - Agravo interno improvido.
+(AgInt no AREsp n. 2.160.282/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/3/2023, DJe de 31/3/2023 - g.n.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA.
+ ..
+2. Hipótese em que não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.624.263/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 31/8/2020, DJe de 8/9/2020 - g.n.)
+No que tange à configuração de consilium fraudis, consignada pela instância de origem, assiste razão à parte recorrente, uma vez que a jurisprudência consolidada nesta Corte é no sentido de que "a demonstração de má-fé, pressupõe ato de efetiva citação ou de constrição judicial ou de atos repersecutórios vinculados a imóvel, para que as modificações na ordem patrimonial configurem a fraude" (AgRg no Ag n. 1.248.022/BA, relator Ministro Luiz Fux, Primeira Turma, julgado em 6/4/2010, DJe de 22/4/2010).
+Nesse aspecto, cumpre destacar que, conforme bem delineado no acórdão recorrido (v. fls. 812/816 - STJ), à época da doação do bem imóvel em questão, não havia a donatária sequer sido citada para integrar o polo passivo da lide na qualidade de co-devedora/executada, motivo pelo qual não há se falar em fraude à execução no caso.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DIVERGÊNCIA. EXECUÇÃO FISCAL. BEM DO SÓCIO. ALIENAÇÃO ANTERIOR AO REDIRECIONAMENTO. FRAUDE À EXECUÇÃO. INOCORRÊNCIA.
+I - A jurisprudência desta Corte tem considerado válida a alienação de bem do sócio da empresa devedora, antes de ter sido redirecionada a execução, não havendo que se falar em fraude à execução. Precedentes: AGA nº 448.332/RS, Relator Ministro JOSÉ DELGADO, DJ de 21/10/2001; e REsp nº 625.171/SP, Rel. Min. FRANCISCO FALCÃO, DJ de 28/06/2004.
+II - O sócio somente será considerado como devedor do Fisco, para fins de aplicação do art. 185 do CTN, quando for deferida a sua inclusão no pólo passivo da execução.
+III - Embargos de Divergência improvidos. (EREsp n. 110.365/SP, relator Ministro Francisco Falcão, Primeira Seção, julgado em 13/12/2004, DJ de 14/3/2005 - g.n.).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. FRAUDE À EXECUÇÃO. EXECUÇÃO REDIRECIONADA AOS SÓCIOS. ALIENAÇÃO DO BEM ANTES DA DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. INEXISTÊNCIA DE FRAUDE. PRECEDENTES. DEMAIS QUESTÕES NÃO SUSCITADAS NAS CONTRARRAZÕES DO APELO ESPECIAL. INDEVIDA INOVAÇÃO RECURSAL. AGRAVO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. É importante afastar a alegação de reformatio in pejus, tendo em vista que, diferente do que afirma o insurgente, conheceu-se do recurso especial da parte contrária não em razão dos aclaratórios opostos pelo ora recorrente, mas por conta da interposição, pelo ora recorrido, do agravo em recurso especial, que possui como finalidade única destrancar o apelo especial obstado na origem.
+2. A jurisprudência desta Corte Superior se firmou no sentido de que é necessário, para a configuração de fraude à execução, que corra contra o próprio devedor a demanda capaz de reduzi-lo à insolvência, exigindo-se, para tanto, que o ato de disposição do bem seja posterior à citação válida do sócio devedor, quando redirecionada a execução originariamente ajuizada contra a pessoa jurídica.
+3. No mais, não há como conhecer das questões residuais trazidas no agravo interno, uma vez que não foram alegadas nas contrarrazões do apelo especial nem debatidas na decisão agravada, constituindo indevida inovação recursal.
+4. Agravo interno parcialmente conhecido e, nessa extensão, desprovido. (AgInt no AREsp n. 1.402.956/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 2/9/2019, DJe de 17/9/2019 - g.n.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. FRAUDE À EXECUÇÃO. ALIENAÇÃO DE VEÍCULO POR SÓCIO ATINGIDO POR REDIRECIONAMENTO DO FEITO EXECUTIVO. NEGÓCIO REALIZADO ANTES DO REDIRECIONAMENTO. INEXISTÊNCIA DE CONSTRIÇÃO DO BEM À ÉPOCA DO NEGÓCIO. BOA-FÉ OBJETIVA. SÚMULA N. 375/STJ.
+1. O acórdão recorrido julgou a lide em consonância com o entendimento desta Corte Superior no sentido de que não constitui fraude à execução a alienação de bem pertencente a sócio da empresa devedora antes de ter sido redirecionada a execução. Isso porque o sócio somente será considerado como devedor do Fisco, para fins de aplicação do art. 185 do CTN, quando for deferida a sua inclusão no pólo passivo da execução. Nesse sentido: REsp 833.306/RS, REsp 302.762/MG, EREsp 1.103.65/SP, REsp 302.762/MG.
+2. Com amparo do princípio da boa-fé objetiva, é válida a alienação do veículo feita a terceiro antes do redirecionamento da execução ao sócio alienante, sobretudo porque à época do negócio jurídico sequer havia constrição sobre o bem. Incidência da Súmula n. 375/STJ.
+3. Agravo regimental não provido. (AgRg no REsp n. 1.186.376/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 17/8/2010, DJe de 20/9/2010 - g.n.)
+De tal modo, merece ser reformado o acórdão, no ponto, por estar em desconformidade com o entendimento consolidado neste Tribunal Superior.
+Diante do exposto, com fundamento no art. 255, § 4º, I e III, do RISTJ, conheço em parte do recurso especial para, nessa extensão, dar-lhe provimento, a fim de determinar a não configuração de fraude à execução, nos termos expostos.
+Intimem -se.
+EMENTA
