@@ -1,0 +1,66 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo ESTADO DE MINAS GERAIS, contra acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 189e):
+AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - IPVA - TRIBUTO SUJEITO A LANÇAMENTO DE OFÍCIO - PRESCRIÇÃO - TEMA 903 -
+1 - Nos termos do artigo 174 do Código Tributário Nacional, o prazo prescricional de cobrança do crédito tributário é de 5 (cinco) anos, contados da sua constituição definitiva.
+2. De acordo com a 1ª Seção do Superior Tribunal de Justiça, quando do julgamento do REsp. nº 1.320.825-RJ (Tema 903), submetido à sistemática de recursos repetitivos, que firmou a tese no sentido de que "a notificação do contribuinte para o recolhimento do IPVA perfectibiliza a constituição definitiva do crédito tributário, iniciando-se o prazo prescricional para a execução fiscal no dia seguinte à data estipulada para o vencimento da exação".
+3. Despacho do juiz que ordena a citação em execução fiscal é causa de interrupção da prescrição.
+4. É, por bem acolher o recurso.
+Em juízo de retratação, o acórdão foi mantido (fl. 234e).
+Com amparo no art. 105, III, a e c, da Constituição da República aponta-se ofensa aos dispositivos legais, alegando, em síntese, que "a interrupção da prescrição de que cuida o art. 174, I, do CTN, não se conta do despacho que determina a citação, sendo certo que a melhor interpretação a respeito é no sentido de que o despacho que determina a citação retroage à data do ajuizamento da ação, no caso, 09.01.2019, de modo que a prescrição atinge os créditos tributários (de IPVA) anteriores a 09.01.2014, estando preservando, portanto, o crédito tributário com vencimento em 15.01.2014" (fl. 256e).
+Com contrarrazões, o recurso foi admitido.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+ii) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+iii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+- Da aplicação do art. 219, § 1º, do CPC/1973
+A questão controvertida já foi examinada por esta Corte, tendo sido firmada a compreensão segundo a qual art. 219, § 1º, do CPC/1973 também é aplicado às execuções fiscais, de modo que o marco interruptivo previsto no art. 174, parágrafo único, I, do CTN - "citação ou despacho que a ordena exarado já na vigência da LC 118/2005" - retroage à data da propositura da ação, quando a demora para a realização da citação não pode ser atribuída à exequente.
+Nessa linha:
+PROCESSUAL CIVIL E TRIBUTÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. EXECUÇÃO FISCAL. PRESCRIÇÃO. PARALISAÇÃO DO FEITO. RESPONSABILIDADE. REEXAME DE PROVAS. IMPOSSIBILIDADE.
+1. Inexiste ofensa aos arts. 489, § 1º, e 1.022, II, do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+2. A Primeira Seção, por ocasião do julgamento REsp 1.120.295/SP, submetido ao rito dos recurso repetitivos, firmou a tese de que o art. 219, § 1º, do CPC/1973 também é aplicado às execuções fiscais, de modo que o marco interruptivo previsto no art. 174, parágrafo único, I, do CTN - "citação ou despacho que a ordena exarado já na vigência da LC 118/2005" - retroage à data da propositura da ação, quando a demora para a realização da citação não pode ser atribuída à exequente.
+3. A verificação quanto à responsabilidade pela demora na realização da citação do devedor, para fins de aplicação ou de afastamento da Súmula 106 do STJ, por demandar reexame de matéria fático-probatória, esbarra no óbice da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.934.758/MG, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 22/11/2022, DJe de 20/12/2022.)
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. CITAÇÃO DO DEVEDOR. AUSÊNCIA. PRESCRIÇÃO OCORRIDA ANTES DO REFERIDO ATO.
+1. A orientação jurisprudencial firmada nesta Corte Superior, no julgamento do Resp 1.120.295/SP, repetitivo, é no sentido de que a interrupção do prazo prescricional só retroage à data da propositura da ação executiva quando a demora na citação é imputada exclusivamente ao Poder Judiciário, conforme hipótese prevista na Súmula 106 do STJ, sendo que, antes da vigência da LC n. 118/2005, somente a citação válida provocava o efeito interruptivo da prescrição, nos termos do art. 174, I, do CTN.
+2. Hipótese em que, transcorridos mais de 5 anos do ajuizamento da execução, sem a citação do devedor, deve ser mantido o acórdão a quo (Súmula 83 do STJ).
+3. Agravo interno não provido.
+(AgInt no AREsp n. 322.355/BA, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 1/12/2016, DJe de 7/2/2017.)
+O tribunal a quo consignou que com relação à cobrança alusiva ao ano de 2014 que se trata do período de 15.01.2014 a 28.03.2014, vale dizer uma vez que o despacho de citação do executado se deu em 29.01.2019, interrompendo assim a prescrição, conforme preceitua o art. 174, parágrafo único, inciso I, do CTN, conforme excertos dos acordão (fls. 238/241e):
+Inobstante, o Estado de Minas Gerais, apresentou recurso Especial alegando violação ao artigo 174, I do CTN para afastar a prescrição em relação ao crédito tributário do exercício de 2014 (vencimento em 15.01.2014), por considerar que o dies ad quem para contagem da prescrição é o dia do ajuizamento da ação.
+ ..
+O agravante afirma que diferentemente do arguido na tese supracitada o tributo em questão, IPVA, tem seu lançamento de ofício e não por homologação, considerando como marco para contagem da prescrição a data seguinte ao vencimento.
+Sendo assim, denota-se do acórdão recorrido decidiu neste sentido.
+ ..
+Deste modo, conforme já ressaltado por tratar-se o IPVA de tributo cujo lançamento ocorre de ofício, o prazo prescricional tem início a partir do dia do vencimento de cada prestação.
+Ao seu turno, estabelece o caput do artigo 174 do Código Tributário Nacional que "a ação para a cobrança do crédito tributário prescreve em cinco anos, contados da data da sua constituição definitiva".
+Neste diapasão, dessumo que não assiste razão ao recorrido vez que a cobrança do ano de 2014, inerente ao período de 15.01.2014 a 28.03.2014 teve sua cobrança materializada através da propositura da ação distribuída em 03.01.2019, tendo a determinação de citação se operado em 29.01.2019, (ID 59849579-Processo Origem).
+Ao prolatar o acórdão recorrido, a Corte a qua não analisou se houve demora na citação, bem como se ela pode ser imputada exclusivamente ao Poder Judiciário, conforme hipótese prevista na Súmula 106 do STJ, e não consta das razões do recurso especial alegação de omissão sobre essa matéria.
+Nesse cenário, a revisão do acórdão recorrido, com o objetivo de aplicar a orientação jurisprudencial firmada nesta Corte Superior, no julgamento do Resp 1.120.295/SP, repetitivo, demandaria examinar a aplicação da Súmula n. 106/STF, não prequestionada (Súmula n. 282/STF) e necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "a pretensão de simples reexame de prova não enseja recurso especial".
+- Da divergência jurisprudencial
+Nesse cenário impõe-se a prejudicialidade do exame da divergência jurisprudencial.
+De fato, os óbices os quais impedem a análise do recurso pela alínea a prejudicam o exame do especial manejado pela alínea c do permissivo constitucional para questionar a mesma matéria.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO NÃO IMPUGNADOS. RAZÕES RECURSAIS DISSOCIADAS. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. TITULARIDADE DOS CRÉDITOS EXECUTADOS. ACÓRDÃO EMBASADO EM PREMISSAS FÁTICAS E NA INTERPRETAÇÃO DE CLÁUSULAS CLÁUSULAS CONTRATUAIS. REVISÃO. SÚMULAS N. 05 E 07/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 282 do Supremo Tribunal Federal.
+III - Revela-se deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem, bem como quando a arguição de ofensa ao dispositivo de lei federal é genérica ou não aponta o dispositivo de lei federal violado. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+IV - In casu, rever o entendimento do Tribunal de origem acerca da titularidade dos créditos executados demandaria interpretação de cláusula contratual e revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz dos óbices contidos nas Súmulas n. 05 e 07/STJ.
+V - Os óbices que impedem o exame do especial pela alínea a prejudicam a análise do recurso interposto pela alínea c do permissivo constitucional para discutir a mesma matéria.
+Precedentes.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no REsp 1883971/PR, de minha relatoria, PRIMEIRA TURMA, julgado em 05/10/2020, DJe 08/10/2020)
+- Dos honorários recursais
+Por fim, no que tange aos honorários advocatícios, da conjugação dos enunciados administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos, quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais, em favor do patrono da parte recorrida, está adstrita às hipóteses de não conhecimento ou improvimento do recurso.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/15), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+- Dos dispositivo
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
