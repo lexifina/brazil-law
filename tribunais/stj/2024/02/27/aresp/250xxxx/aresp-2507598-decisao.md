@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo apresentado por STAN EMPREENDIMENTOS E PARTICIPAÇÕES LTDA e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO. DECISÃO DA ORIGEM QUE DEFERIU A INVERSÃO DO ÔNUS DA PROVA, COM BASE NO CÓDIGO DE DEFESA DO CONSUMIDOR, EM DEMANDA INDENIZATÓRIA MOVIDA PELO CONDOMÍNIO EM FACE DAS CONSTRUTORAS, TENDO COMO CAUSA DE PEDIR EXISTÊNCIA DE VÍCIOS CONSTRUTIVOS. RELAÇÃO DE CONSUMO QUE NO CASO ESTÁ CONFIGURADA, SENDO, DE RIGOR, NO CASO A INVERSÃO DO ÔNUS DA PROVA. CORRÉS QUE POSSUEM CONHECIMENTO TÉCNICO SOBRE INFORMAÇÕES REFERENTES À CONSTRUÇÃO E ACERCA DAS QUESTÕES CONTROVERTIDAS. HIPOSSUFICIÊNCIA CONFIGURADA PARA FINS DO ART. 6º VIII DO CÓDIGO DE DEFESA DO CONSUMIDOR. LAUDO QUE AINDA, INDICA VEROSSIMILHANÇA NAS ALEGAÇÕES DO ORA AGRAVADO. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+Quanto à controvérsia, os recorrentes alegam violação dos arts. 373, §1º, do CPC; e 6º, VIII, do CPC, no que concerne à necessidade de afastar a inversão do ônus da prova, diante da ausência de hipossuficiência técnica do recorrido e de verossimilhança de suas alegações, trazendo a seguinte argumentação:
+O E. TJSP violou o artigo 373, § 1º, do Código de Processo Civil, bem como o artigo 6º, VIII, do Código de Defesa do Consumidor, ao entender pela inversão do ônus da prova.
+ ..
+De fato, o Recorrido não só possui capacidade financeira, como também suficiência técnica para a produção da prova pericial, tanto é que, para o ajuizamento da ação, contratou o laudo técnico de fls. 97/374 (fls. 188/464 destes autos), e, para a perícia judicial, nomeou o assistente técnico indicado às fls. 1692/1693 (fls.465/466 destes autos).
+ ..
+A propósito, o v. acórdão recorrido se encontra eivado pela contradição, já que, muito embora tenha entendido pela hipossuficiência técnica do Recorrido, entendeu, a contrario senso, que o unilateral laudo técnico por ele apresentado às fls. 97/374 (fls. 188/464 destes autos) confere verossimilhança às alegações do Recorrido.
+ ..
+Portanto, considerando-se a possibilidade do Recorrido na contratação de profissional especializado para elaboração do referido laudo unilateral, assim como na indicação de assistente técnico para acompanhamento da perícia judicial, não há que se falar na sua hipossuficiência técnica, o que impõe a reforma do v. acórdão recorrido.
+ ..
+Isso porque, a teor do art. 6º, VIII, do Código de Defesa do Consumidor, o ônus da prova somente pode ser invertido se verificada a presença dos requisitos (i) da verossimilhança da alegação e (ii) da hipossuficiência financeira ou técnica do autor.
+ ..
+In casu, não se verifica a presença de nenhum desses requisitos, considerando-se que, como já demonstrado, o Recorrido não é tecnicamente hipossuficiente, tendo em vista que, para o ajuizamento da ação, contratou um laudo técnico, e, para a perícia judicial, nomeou assistente técnico capacitado para acompanhar e apresentar manifestação acerca do resultado do trabalho pericial.
+Outrossim, não há que se falar na verossimilhança das alegações do Recorrido, pois, além do laudo técnico carreado à petição inicial ter sido produzido unilateralmente, também há prova técnica apresentada pelas Recorrentes em contraposição à do Recorrido (fls. 1556/1581 dos autos de origem), o que foi desconsiderado pelas Instâncias Ordinárias.
+ ..
+Nesse contexto, resta demonstrada, também, a violação ao artigo 373, §1º, do Código de Processo Civil, considerando-se que não se verifica a impossibilidade ou a excessiva dificuldade de o Recorrido provar o fato constitutivo do seu pretenso direito, de modo que incumbe a ele, e somente a ele, o ônus de provar as suas alegações.
+Assim, diante da manifesta violação a referidos dispositivos legais, é de rigor a reforma dos vv. acórdãos recorridos, a fim de que seja afastada a inversão do ônus da prova (fls. 527- 530).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Cabe apenas analisar, portanto, se presentes ou não os requisitos para a referida inversão do ônus da prova no caso.
+A hipossuficiência da parte autora, segundo se extrai dos autos, em razão da natureza da demanda que visa à reparação de vícios no condomínio como trincas, rachaduras e acúmulo de água -, não deve ser analisada apenas pelo aspecto puramente econômico, mas também técnico, já que as rés são empresas atuantes no ramo da construção civil, detendo, por óbvio, melhor conhecimento sobre os fatos a serem apurados. E disso decorre que é das rés o ônus de provar que o seu trabalho no local fora realizado de acordo com as normas técnicas adequadas, a afastar o pedido indenizatório contido na petição inicial.
+Sob esse enfoque, é mesmo o caso de determinar a inversão do ônus da prova, a teor do artigo 6º, inciso VIII, do Código de Defesa do Consumidor.
+ ..
+E nem se olvida, ademais, da verossimilhança que o laudo de fls. 97/374 da origem traz às alegações da parte autora, não sendo a necessidade de prova pericial, por si só, suficiente a afastar tal situação, mas sim apenas reforço probatório imparcial a auxiliar o Juízo a quo no julgamento da causa.
+Mais não é preciso dizer. Assim, de rigor a manutenção da r. decisão (fls. 508- 510).
+Em sede de embargos de declaração, o Tribunal estabeleceu:
+Neste particular, o acórdão, ao contrário do indicado pela parte embargante, analisou detidamente as questões suscitadas pelas partes, não havendo se falar em omissão ou, ainda, em contradição, porquanto se concluiu pela possibilidade de inversão do ônus da prova no caso, sendo a hipossuficiência da parte autora analisada não pelo aspecto econômico, mas sim técnico, já que as rés são empresas atuantes no ramo da construção civil, detendo, por óbvio, melhor conhecimento sobre os fatos a serem apurados.
+Não bastasse, a verossimilhança trazida pelo laudo produzido unilateralmente fora analisada pelo aspecto perfunctório, não sendo útil, todavia, ao aprofundamento da questão, justificando-se, assim, a produção da prova pericial, reforço probatório imparcial a auxiliar o Juízo no julgamento da causa (fl. 518).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à distribuição do ônus probatório das partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu que "a alteração das conclusões adotadas pela instância ordinária, no que diz respeito ao ônus da prova, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ". (AgInt no AREsp 1.190.608/PI, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 24/4/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.606.233/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 13/8/2020; AgInt no AREsp 1.060.371/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 17/8/2020; e REsp 1.812.278/CE, relator Ministro Herman Benjamin, Segunda Turma, DJe de 29/10/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
