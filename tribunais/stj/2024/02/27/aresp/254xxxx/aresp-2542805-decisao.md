@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO RIBEIRÃO PRETO S/A contra decisão que inadmitiu o recurso especial em razão da ausência de demonstração da alegada vulneração do art. 355 do CPC, da incidência da Súmula n. 7 do STJ e da ausência de similitude fática com soluções jurídicas diversas entre os acórdão confrontados.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo (Apelação Cível n. 1004853-45.2021.8.26.0084) assim ementado (fl. 522):
+AÇÃO REVISIONAL DE CONTRATO DE FINANCIAMENTO IMOBILIÁRIO - Compromisso de Compra e Venda - Autor que ajuizou a ação visando a revisão das cláusulas contratuais por entender que existe abusividade e onerosidade excessiva na cobrança de juros capitalizados, bem como na aplicação do IGP-M - Sentença de improcedência por não se constatar qualquer ilegalidade a ser reconhecida - Irresignação do autor - Acolhimento - Cerceamento de defesa configurado - Autor que pleiteou a produção de prova pericial em especificação de provas - Sentença que julgou antecipadamente o feito, julgando improcedentes os pedidos, por entender ser dispensável a produção de prova pericial - Hipótese em que, existindo controvérsia acerca da eventual ilegalidade na cobrança dos juros remuneratórios, em razão da aplicação da Tabela Price, se faz necessária a produção de prova pericial, a fim de verificar a existência de abusividade na cobrança de juros capitalizados - Sentença anulada, para determinar a produção da prova pericial - Recurso provido.
+Os embargos de declaração opostos foram rejeitados (fls. 547-549 e 590-592).
+Nas razões do recurso especial, a parte recorrente aponta dissídio jurisprudencial e violação do art. 355 do Código de Processo Civil.
+Alega que, "ao contrário do que entendeu o v. acórdão, não há necessidade alguma de se realizar qualquer prova pericial contábil, uma vez que, repita-se, o objeto da lide é exatamente averiguar a licitude dos encargos estabelecidos, e não se houve cobrança à maior daquela prevista em contrato, o que é matéria puramente de direito" (fl. 555).
+Assevera que "não há que se falar em cerceamento de defesa na hipótese dos autos, tendo em vista que o julgamento antecipado ocorreu regularmente, já que não havia a necessidade de maior dilação probatória, especialmente para realização de perícia contábil" (fl. 556).
+Colaciona julgados dos Tribunais de Justiça dos Estados do Rio Grande do Sul e de Goiás visando demonstrar divergência jurisprudencial acerca de não ser necessária a produção de prova pericial contábil quando se tratar de questão preponderantemente de direito e demonstrada documentalmente a relação contratual firmada entre as partes.
+Requer o conhecimento e o provimento do recurso.
+As contrarrazões foram apresentadas (fls. 597-602).
+É o relatório. Decido.
+Trata-se na origem de ação revisional de contrato, visando o reconhecimento de abusividade dos valores cobrados no instrumento particular de compra e venda de imóvel com alienação fiduciária em garantia, julgada antecipadamente improcedente.
+Inconformada, a parte autora apelou.
+O Tribunal de origem, soberano na análise dos fatos e provas dos autos, concluiu que "a causa não estava madura para o imediato julgamento, já que havia matéria fática controvertida, pois o autor alega que houve abusividade na cobrança de juros remuneratórios, que teriam sido capitalizados, ante a aplicação da Tabela Price e cobrança de IGP-M" (fl. 524).
+Em consequência disso, anulou a sentença e determinou o "retorno dos autos à origem, para regular instrução, a fim de que seja produzida a prova pericial contábil pleiteada" (fl. 525).
+Desse modo, para rever as conclusões adotadas na origem e acatar a tese recursal de que "não há necessidade alguma de se realizar qualquer prova pericial contábil", seria imprescindível o reexame fático-probatório dos autos, medida vedada em recurso especial, em face do óbice das Súmulas n. 5 e 7 do STJ.
+A incidência de óbice sumulares quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Confiram-se: AgInt no REsp n. 2.054.387/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023; AgInt nos EDcl no REsp n. 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1/9/2022.
+Ante o exposto, nego provimento ao agravo.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
