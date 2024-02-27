@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar, impetrado em favor de PERYSON SAYLON DE ANDRADE LIMA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (Autos nº 5868358-26.2023.8.09.0143).
+O habeas corpus apresentado pela defesa foi denegado por meio de acórdão assim ementado (e-STJ fl. 130):
+EMENTA: HABEAS CORPUS. HOMICÍDIO. AUTORIA MEDIATA. DECRETO DE PRISÃO TEMPORÁRIA. ÉDITOFUNDAMENTADO. PRESENÇA DOS REQUISITOS PARA AORDEM DE CUSTÓDIA TEMPORÁRIA E SUAPRORROGAÇÃO. BONS PREDICADOS PESSOAIS. IRRELEVÂNCIA. PRISÃO DOMICILIAR. INCOMPATÍVEL. 1) Revela-se legítima a decretação e a prorrogação de prisão temporária fundada em decisões que, de forma escorreita, identificaram a presença dos requisitos elencados no artigo 1º,incisos I e III, alínea "a", da Lei nº 7.960/1989, além da imprescindibilidade às investigações do inquérito policial. 2) Presentes os requisitos da prisão temporária, não se mostra cabível a aplicação de medida cautelar diversa da prisão. 3) A prisão domiciliar é incompatível com o fim de acautelamento do inquérito policial ao que se destina a prisão temporária. Precedentes STJ. ORDEM CONHECIDA E DENEGADA.
+A defesa alega, em síntese, ausência requisitos para decretação da custódia preventiva.
+Consta dos autos que o paciente está preso.
+Requer, liminar e definitivamente, o deferimento da ordem para obter a revogação da prisão preventiva.
+É o relatório.
+Decido.
+A análise das razões recursais indica o mero revolvimento da argumentação lançada anteriormente, a indicar a incidência do óbice previsto na Súmula 182 do STJ (É dever do agravante infirmar as razões da decisão agravada. Inadmissível o recurso quando não ataca os argumentos em que se embasou a decisão impugnada.)
+Ademais, para conhecer da controvérsia apresentada neste writ, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com a estreita via do habeas corpus.
+Além disso, a concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que não se verifica de plano na hipótese dos autos, conforme se obtém da fundamentação lançada na origem (e-STJ fls. 123 e 126):
+Fixadas tais premissas, observo que, no caso em análise, as investigações envolvem suposto homicídio, em que a Autoridade Policial representou pela prisão temporária de 6 (seis) indivíduos, dentre os quais o paciente, sob a premissa de que seria um dos autores mediatos do delito, responsável por encomendar o assassinato junto a Raimundo Maia, com o qual já teria encomendado a morte de outra pessoa em São Miguel do Araguaia.
+Também foi destacado, na representação, que Peryson possui forte influência política regional e trânsito em diversos órgãos da Administração Pública no município de São Miguel do Araguaia, subordinados ou vinculados aos Poderes Executivo, Legislativo e Judiciário.
+Na espécie, o decreto de custódia temporária e o da sua prorrogação foram satisfatoriamente motivados pelo Juízo processante, que apontou fatos concretos, delineando a imprescindibilidade da segregação do paciente para o sucesso e prosseguimento das investigações, a teor do disposto no art. 1º, incisos I, e III, alíneas "a", da Lei n. 7.960/1989
+Inexiste contrariedade à jurisprudência deste Tribunal na manutenção da prisão preventiva com base em elementos concretos que indicam gravidade que desborda o tipo, aliados a procedimentos criminais em curso.
+No mesmo sentido, também é indene de controvérsia neste STJ o fato de que "(..) A presença de condições pessoais favoráveis, como primariedade, emprego lícito e residência fixa, não impede a decretação da prisão preventiva quando devidamente fundamentada. (..)" (AgRg no RHC 175391 / RS, RELATOR Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DATA DO JULGAMENTO 12/12/2023, DATA DA PUBLICAÇÃO/FONTE DJe 18/12/2023).
+Ante o exposto, nego provimento ao presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
