@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de Recurso Especial, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+CONSTITUCIONAL. HAITIANOS. INGRESSO EM TERRITÓRIO NACIONAL SEM EXIGÊNCIA DEVISTO. REUNIÃO FAMILIAR. NÃO INTERVENÇÃO DO PODER JUDICIÁRIO. 1. A 2ª Seção uniformizou a jurisprudência desta Corte no sentido de que o visto para entrada e permanência no Brasil constitui ato administrativo discricionário de competência do Poder Executivo, sendo que não cabe ao Judiciário interferir na política migratória.2. Apelação provida.
+A parte recorrente afirma que houve, além de divergência jurisprudencial, ofensa aos arts. 31, § 4º, da Lei 13.445/2017; 4º, § 2º, V, da Portaria Interministerial 658, de 5.10.2021; e à Resolução 97 do Conselho Nacional de Imigração. Alega:
+O entendimento esposado no acórdão recorrido viola frontalmente normas infraconstitucionais federais, quais sejam: o § 4º do art. 31 da Lei nº 13.445/2017 (Lei da Migração); art. 4º, § 2º, V, da Portaria Interministerial no. 658de 05/10/2021; e a Resolução 97 do Conselho Nacional de Imigração, bem como contraria jurisprudência pacificada pelo Egrégio STJ no julgamento da AgInt na SUSPENSÃO DE LIMINAR E DE SENTENÇA Nº 3.092 - SC, na qual restou determinado que há de se analisar cada caso individualmente, podendo ser deferido o ingresso do estrangeiro judicialmente caso preenchidos os requisitos legais.
+Contrarrazões às fls. 404-422, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 14.2.2024.
+O Tribunal de origem consignou (fls. 332-333, e-STJ):
+A controvérsia dos autos cinge-se à possibilidade do Poder Judiciário conceder tutela jurisdicional a fim de autorizar a admissão excepcional de estrangeiro no país, tendo em vista dificuldade de natureza operacional para a obtenção de visto, o que obstaculiza reunião familiar. Com efeito, registro que a 2ª Seção deste Regional uniformizou a jurisprudência desta Corte fixando o entendimento de que o visto para entrada e permanência no Brasil constitui ato administrativo discricionário de competência do Poder Executivo, sendo que não cabe ao Judiciário interferir na política migratória:
+(..)
+Seguem os fundamentos da decisão supracitada, que adoto como razão de decidir, uma vez que a situação fática dos autos é a mesma:
+( )Com efeito, o visto para entrada e permanência no Brasil constitui ato administrativo discricionário de competência do Poder Executivo, sendo que não cabe ao Judiciário interferir na política migratória, mormente pela via de antecipação de tutela.
+Nesse contexto, e havendo procedimentos prévios expressamente previstos tanto para o reconhecimento da condição de refugiado, quanto para a concessão de visto permanente a título de reunião familiar, entendo ilegítima a intervenção do Poder Judiciário na política de imigração do país(Poder Discricionário da Administração), sob pena de grave usurpação de atribuições e prerrogativas do Poder Executivo - salvo por comprovada ilegalidade, o que não foi demonstrado.
+Outrossim, a despeito da gravidade das consequências que episódios de distintas naturezas causaram ao povo haitiano - terremoto, problemas econômicos, ondas de violência, instabilidade política -, esses fatos não implicam a concessão do visto ou sua dispensa pela via judicial, porquanto todos os haitianos estão submetidos às mesmas condições, não se justificando tratamento diferenciado aos autores em detrimento dos demais conterrâneos. E, diga-se, a ocorrência de terremotos, de problemas econômicos e de violência no Haiti não é de hoje, mas de longa data.
+No que diz respeito a eventuais problemas relativos ao agendamento dos vistos, estes decorrem muito provavelmente do aumento do número de solicitação e em decorrência das limitações impostas pela pandemia provocada pelo COVID-19, ou seja, por motivo de força maior, alheio à vontade de atuação da Embaixada, não podendo haver exceção com relação aos recorrentes, sob o risco de violação ao princípio da isonomia.( )
+Não obstante as razões explicitadas pelo Colegiado originário, o recorrente não impugnou suficientemente os pontos acima destacados, os quais são aptos, por si sós, para manter o decisum combatido.
+Assim, não observou as diretrizes fixadas pelo princípio da dialeticidade, entre as quais a indispensável pertinência temática entre as razões de decidir e os argumentos fornecidos pelo Recurso para justificar o pedido de reforma ou de nulidade do julgado.
+Ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo, aplicam-se na espécie, por analogia, as Súmulas 284 e 283 do STF.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. REITERAÇÃO DE PEDIDO. CONDIÇÃO FINANCEIRA. ALTERAÇÃO. NÃO COMPROVAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FUNDAMENTOS DO ARESTO COMBATIDO. IMPUGNAÇÃO. AUSÊNCIA.
+(..)
+3. A ausência de impugnação específica dos fundamentos do acórdão recorrido atrai a incidência analógica das Súmulas 283 e 284 do STF.
+4. Agravo interno desprovido.
+(AgInt no REsp 1.930.142/SE, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 17/8/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. ENERGIA ELÉTRICA. EMBARGOS DECLARATÓRIOS. FUNDAMENTAÇÃO DEFICIENTE. JULGAMENTO EXTRA PETITA. PRESCRIÇÃO. FUNDAMENTO INATACADO. FUNDAMENTAÇÃO DEFICIENTE. DANOS MORAIS. CARACTERIZAÇÃO DA RESPONSABILIDADE. VALOR DA INDENIZAÇÃO. REEXAME DE MATÉRIA DE FATO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL. AGRAVO INTERNO NÃO PROVIDO.
+(..) 2. A parte não trouxe argumentação voltada a impugnar objetivamente os fundamentos do acórdão recorrido, concernentes à aplicação das regras de transição para contagem do prazo prescricional e à interpretação lógico-sistemática do pedido. Incidência das Súmulas 284 e 283 do STF.
+(..) 4. Agravo interno não provido.
+(AgInt no AREsp 2.045.316/PI, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 22/6/2022.)
+Ainda que fosse superado tal óbice, a irresignação não mereceria prosperar, porquanto observa-se que o órgão julgador decidiu a questão após percuciente análise dos fatos e das provas relacionados à causa, e é certo asseverar que, na moldura delineada, infirmar o entendimento assentado no aresto impugnado a respeito da concessão do visto ou sua dispensa, passa por revisitar o acervo probatório, o que é vedado em Recurso Especial, consoante a Súmula 7 do Superior Tribunal de Justiça.
+Em igual sentido, as seguintes decisões monocráticas proferidas no exame de idêntica controvérsia: REsp 2.102.151/RS, Rel. Ministro Mauro Campbell Marques, DJe 14.11.2023; REsp 2.097.594/PR, Rel. Ministra Regina Helena Costa, DJe 13.11.2023
+Para efeito de admissibilidade do Recurso Especial, à luz de consolidada jurisprudência do STJ, o conceito de lei federal (art. 105, III, "a", da CF) compreende tanto atos normativos (de caráter geral e abstrato) produzidos pelo Congresso Nacional (lei complementar, ordinária e delegada), como medidas provisórias e decretos expedidos pelo Presidente da República. Nesse sentido: EDcl no REsp 663.562/RJ, Rel. Ministro Castro Meira, Segunda Turma, DJ 7.11.2005 p. 212; REsp 627.977/AL, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJ 7.12.2006; EREsp 663.562/RJ, Rel. Ministro Ari Pargendler, Corte Especial, Dj 18.2.2008, p. 21.
+Logo, o apelo nobre não constitui, como regra, via adequada para julgamento de ofensa a atos normativos secundários produzidos por autoridades administrativas, quando analisados isoladamente  sem vinculação direta ou indireta a dispositivos legais federais  , tais como resoluções, circulares, portarias, instruções normativas, atos declaratórios da SRF, provimentos das autarquias, regimentos internos de Tribunais, enunciado de súmula (cf. Súmula 518/STJ) ou notas técnicas. Precedentes do STJ: REsp 88.396, Rel. Ministro Sálvio de Figueiredo Teixeira, Quarta Turma, DJ de 13.8.1996; AgRg no Ag 573.274, Rel. Ministro Franciulli Netto, Segunda Turma, DJ de 21.2.2005; REsp 352.963, Rel. Ministro Castro Meira, Segunda Turma, DJ 18.4.2005; REsp 784.378, Rel. Ministro José Delgado, Primeira Turma, DJ 5.12.2005; AgRg no Ag 21.337, Rel. Ministro Garcia Vieira, Primeira Turma, DJ de 3.8.1992; REsp. 169.542/SP, Rel. Ministro Sálvio de Figueiredo, Quarta Turma, DJ 21.9.1998; AgRg no REsp 958.207/RS, Rel. Ministro Luiz Fux, Primeira Turma, DJe 3.12.2010; AgRg no REsp 1.430.240/RN, Rel. Ministro Humberto Martins, Segunda Turma, DJe 26.8. 2014.
+Ressalte-se, por fim, que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada na apreciação do Recurso Especial pela alínea "a" do permissivo constitucional.
+Nessa senda:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. COFINS. BASE DE CÁLCULO. TEMA CONSTITUCIONAL. NÃO CONHECIMENTO DO APELO NOBRE. DISSÍDIO JURISPRUDENCIAL. ANÁLISE. PREJUÍZO.
+(..)
+3. Prejudicada a análise do suscitado dissídio jurisprudencial quando a tese veiculada nas razões do especial é afastada pela análise da irresignação fundada na alínea a do permissivo constitucional. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.251.683/RJ, relator Ministro Og Fernandes, Segunda Turma, DJe 19/4/2021)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. FUNDAMENTO INFRACONSTITUCIONAL. PROVIMENTO DO CSM. ATO NORMATIVO NÃO ENQUADRADO COMO LEI FEDERAL. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+(..)
+2. Resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.673.561/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe 25/3/2021)
+Por tudo isso, não conheço do Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
