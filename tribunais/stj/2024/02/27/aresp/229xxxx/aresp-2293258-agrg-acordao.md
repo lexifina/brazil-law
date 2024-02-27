@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 21/02/2024 a 27/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. RECURSO ESPECIAL PROVIDO PARA IMPRONUNCIAR O RÉU. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL EM REPERCUSSÃO GERAL. TEMA N. 154/STF.
+1. O Supremo Tribunal Federal, ao julgar o RE n. 593.443-RG/SP, sob o regime da repercussão geral, fixou o entendimento de que "qualquer decisão do Poder Judiciário que rejeite denúncia, que impronuncie ou absolva, sumariamente, os réus ou, ainda, que ordene a extinção, em sede de "habeas corpus", de procedimentos penais não transgride o monopólio constitucional da ação penal pública (CF, art. 129, I) nem ofende os postulados do juiz natural (CF, art. 5º, inciso LIII) e da soberania do veredicto do Júri (CF, art. 5º, inciso XXXVIII, c)" - Tema n. 154 do STF.
+2. No caso, o acórdão proferido pelo Superior Tribunal de Justiça está em consonância com a jurisprudência firmada pela Suprema Corte, motivo pelo qual a decisão que negou seguimento ao recurso extraordinário deve ser mantida.
+3. Agravo regimental a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão que negou seguimento ao recurso extraordinário assim ementada (fl. 1. 450):
+RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL PENAL. RECURSO ESPECIAL PROVIDO PARA IMPRONUNCIAR O RÉU. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL EM REPERCUSSÃO GERAL. TEMA N. 154/STF. NEGATIVA DE SEGUIMENTO.
+A parte agravante alega que o Tema n. 154 do Supremo Tribunal Federal seria inaplicável à hipótese dos autos, por entender que a matéria tratada no leading case seria diversa da controvérsia suscitada na espécie.
+Discorre, nesse sentido (fl. 1.462):
+ ..  não se discute o cabimento ou não do habeas corpus, mas sim a impossibilidade de acolhimento das alegações da defesa nessa Corte Superior superando, inclusive, as decisões das instâncias ordinárias mais próximas dos fatos, quando há suporte probatório mínimo para a submissão do julgamento ao Júri Popular, sob pena de usurpação da competência constitucional daquele Tribunal para julgar crimes dolosos contra a vida.
+Requer o provimento do agravo para que o recurso extraordinário seja admitido e remetido ao Supremo Tribunal Federal.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. RECURSO ESPECIAL PROVIDO PARA IMPRONUNCIAR O RÉU. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL EM REPERCUSSÃO GERAL. TEMA N. 154/STF.
+1. O Supremo Tribunal Federal, ao julgar o RE n. 593.443-RG/SP, sob o regime da repercussão geral, fixou o entendimento de que "qualquer decisão do Poder Judiciário que rejeite denúncia, que impronuncie ou absolva, sumariamente, os réus ou, ainda, que ordene a extinção, em sede de "habeas corpus", de procedimentos penais não transgride o monopólio constitucional da ação penal pública (CF, art. 129, I) nem ofende os postulados do juiz natural (CF, art. 5º, inciso LIII) e da soberania do veredicto do Júri (CF, art. 5º, inciso XXXVIII, c)" - Tema n. 154 do STF.
+2. No caso, o acórdão proferido pelo Superior Tribunal de Justiça está em consonância com a jurisprudência firmada pela Suprema Corte, motivo pelo qual a decisão que negou seguimento ao recurso extraordinário deve ser mantida.
+3. Agravo regimental a que se nega provimento.
+VOTO
+O STF, ao julgar o RE n. 593.443-RG/SP, sob o regime da repercussão geral, fixou a seguinte tese (Tema n. 154 do STF):
+Qualquer decisão do Poder Judiciário que rejeite denúncia, que impronuncie ou absolva, sumariamente, os réus ou, ainda, que ordene a extinção, em sede de "habeas corpus", de procedimentos penais não transgride o monopólio constitucional da ação penal pública (CF, art. 129, I) nem ofende os postulados do juiz natural (CF, art. 5º, inciso LIII) e da soberania do veredicto do Júri (CF, art. 5º, inciso XXXVIII, "c").
+O acórdão foi assim ementado:
+RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL RECONHECIDA. PRELIMINAR DE NÃO CONHECIMENTO DO RE. QUESTÃO SUPERADA. HABEAS CORPUS. CONCESSÃO DA ORDEM PELO SUPERIOR TRIBUNAL DE JUSTIÇA PARA TRANCAMENTO DA AÇÃO PENAL POR FALTA DE JUSTA CAUSA. ALEGAÇÃO DE TOLHIMENTO DE PRERROGATIVA EXCLUSIVA DO MINISTÉRIO PÚBLICO PARA PROVAR A ACUSAÇÃO, MEDIANTE AJUIZAMENTO DE AÇÃO PENAL. ABSOLVIÇÃO SUMÁRIA PROCEDIDA POR TRIBUNAL SUPERIOR, EM DETRIMENTO DA COMPETÊNCIA DO TRIBUNAL DO JÚRI. OFENSA AOS ARTS. 5º, XXXVIII, E 129, I, AMBOS DA CONSTITUIÇÃO FEDERAL. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 279 DO STF. RECURSO EXTRAORDINÁRIO A QUE SE NEGA PROVIMENTO.
+I - Havendo a Corte, por meio de seu Plenário Virtual, reconhecido a repercussão geral do tema constitucional debatido nos autos, deve prosseguir no julgamento de mérito da causa.
+II - Para se chegar à conclusão contrária à do acórdão recorrido seria necessário reexaminar o conjunto fático-probatório dos autos. Incidência da Súmula 279 do STF.
+III - Decisão judicial de rejeição de denúncia, impronúncia de réu, de absolvição sumária ou de trancamento de ação penal por falta de justa causa, não viola a cláusula constitucional de monopólio do poder de iniciativa do Ministério Público em matéria de persecução penal e tampouco transgride o postulado do juiz natural nos procedimentos penais inerentes ao Tribunal do Júri.
+III - Recurso extraordinário não provido.
+(RE n. 593.443, relator para o acórdão Ministro Ricardo Lewandowski, Tribunal Pleno, julgado em 6/6/2013, DJe de 22/5/2014.)
+Conforme registrado na decisão agravada, no acórdão impugnado pelo recurso extraordinário, concluiu-se pela impronúncia do réu, com o fundamento de que a decisão de pronúncia foi baseada somente em provas não submetidas ao crivo judicial, conforme se denota do seguinte excerto (fls. 1.352-1.354):
+Conforme destaquei anteriormente, a leitura do acórdão combatido revela que os únicos elementos de prova que incriminam o acusado Walter são relatos de testemunhas que não presenciaram o crime, mas que pelo "comentário na região" (e-STJ, fl. 1.157) acreditam ser ele o maior interessado na morte da vítima, em virtude de uma suposta discussão que teria ocorrido entre ambos (e-STJ, fls. 1.156-1.157).
+No caso, observo que não foi apresentada nenhuma outra prova a indicar ter Walter concorrido para o crime, além do relato de testemunhas que não presenciaram o delito e que se limitam a apresentar suas convicções acerca dos fatos em apuração, ou seja, que nada acrescentam acerca da dinâmica do crime. .. Com efeito, saliento que, "muito embora a análise aprofundada dos elementos probatórios seja feita somente pelo Tribunal Popular, não se pode admitir, em um Estado Democrático de Direito, a pronúncia baseada, exclusivamente, em testemunho indireto (por ouvir dizer) como prova idônea, de per si, para submeter alguém a julgamento pelo Tribunal Popular" (REsp n. 1.674.198/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 12/12/2017).
+ ..
+Logo, como o acórdão recorrido não apontou nenhum testemunho direto e prestado em juízo sobre a autoria delitiva, tendo-a por indicada apenas a partir de testemunhos indiretos, a impronúncia do réu é a solução adequada.
+Verifica-se, desse modo, que o julgado recorrido encontra-se em consonância com a orientação firmada pela Suprema Corte, razão pela qual não há falar em ofensa ao art. 5º, XXXVIII, da Constituição Federal.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
