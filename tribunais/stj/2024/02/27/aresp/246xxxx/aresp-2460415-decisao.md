@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por MARCOS VASCONCELOS DE ALENCAR, com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça de São Paulo assim ementado (e-STJ, fl. 45):
+Agravo de Instrumento. Habilitação de crédito. Pretensão de que seja retificado o valor apontado pelo Juízo "a quo". Inadmissibilidade. Importância reconhecida por sentença. Ausência de modificação em sede recursal. Trânsito em julgado, envolvendo os valores, verificado. Agravante que pretende, por vias transversas, rediscutir a questão. Impossibilidade. Processo não admite retrocesso. Agravo desprovido
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 56-59).
+No recurso especial, O recorrente apontou, além de divergência jurisprudencial, violação dos arts. 502, 503, 504 e 505 do CPC; 6º, § 2º, da Lei n. 11.101/2005; e 884 do CC.
+Esclareceu que se opôs ao acórdão por não acolher o pleito por modificação do montante apontado pelo Juízo e anotado na recuperação judicial com base na definitividade sobre a questão - trânsito em julgado.
+Afirmou que a matéria ventilada nestes autos não está acobertada pela coisa julgada e se refere a ato posterior à ação originária, logo não cabe falar em impossibilidade de sua rediscussão.
+Destaca que o julgado desrespeita a competência da Justiça do Trabalho para a liquidação de créditos trabalhistas a serem inscritos na recuperação judicial.
+Ponderou que ocorreu enriquecimento sem causa da parte recorrida com a inscrição do crédito em valor consideravelmente inferior ao que foi liquidado na Vara do Trabalho competente. Sublinhou que esse quadro ocasiona a relativização da coisa julgada. Requereu o provimento do recurso especial (e-STJ, fls. 68-77).
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 93-106).
+Contraminuta apresentada (e-STJ, fls.109-114).
+Brevemente relatado, decido.
+O aresto é claro em pontuar que os autos versam sobre impugnação de crédito ajuizada pela recuperanda, Sahliah Engenharia Ltda., sendo proferida sentença julgando procedente o pleito para incluir no quadro geral de credores o crédito de natureza trabalhista de R$ 280.953,08 (duzentos e oitenta mil, novecentos e cinquenta e três reais e oito centavos) em favor do agravante .
+Estabeleceu o acórdão que essa questão não poderia ser mais apreciada, tendo em vista o trânsito em julgado decorrente de erro grosseiro, consistente no manejo de recurso inadequado, qual seja, a apelação.
+Leia-se (e-STJ, fls. 46-47):
+Contra referida decisão foi interposto recurso de apelação com os mesmos fundamentos ora apresentados o qual deixou de ser conhecido em razão de erro grosseiro, conforme v. acórdão de págs. 1.470/1.477, cujo trânsito em julgado se deu em 14 de junho de 2022, pág. 1.494, todas dos autos de origem.
+Verifica-se, pois, que o valor do crédito foi declarado na sentença como sendo R$ 280.953,08, sem que houvesse nenhuma alteração nesta instância recursal.
+Assim, pretende o agravante, por vias transversas, rediscutir o valor do débito em questão, o que não se mostra viável, haja vista que o processo não admite retrocesso, devendo prevalecer a coisa julgada.
+3. Com base em tais fundamentos, nega-se provimento ao agravo de instrumento.
+Essas ponderações foram extraídas da análise fático-probatória da causa, atraindo a aplicação da Súmula 7/STJ, verbete que incide sobre ambas as alíneas do permissivo constitucional.
+O teor dos arts. 6º, § 2º, da Lei n. 11.101/2005; e 884 do CC não foi objeto de apreciação no julgamento da segunda instância, carecendo do devido prequestionamento - Súmula 211/STJ.
+Embora opostos embargos de declaração, não foi alegada ofensa ao art. 1.022 do CPC no recurso especial, logo nem sequer cabe falar em prequestionamento ficto - com a incidência do art. 1.025 do CPC.
+A título ilustrativo:
+PROCESSO CIVIL. DIREITO AMBIENTAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. AUSÊNCIA DE PREQUESTIONAMENTO. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. NÃO INDICAÇÃO DE VIOLAÇÃO DO ART. 1.022. INCIDÊNCIA DA SÚMULA 211/STJ. ACÓRDÃO FUNDAMENTADO NA INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280/STF. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. PROVIMENTO NEGADO.
+1. Cuida-se, na origem, de ação civil pública na qual a agravante objetiva que sejam proibidas as atividades que causem maus tratos aos animais utilizados durante a realização de rodeio.
+2. O Tribunal de origem não se pronunciou sobre os arts. 32 da Lei 9.605/1998 e 1º e 3º da Lei 7.347/85, a despeito da oposição dos embargos aclaratórios. Logo, é inviável a discussão dessa matéria por esta Corte ante a ausência de prequestionamento. Incidência da Súmula 211/STJ.
+3. Conforme entendimento desta Corte é "Inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da oposição de embargos de declaração, ante a incidência da Súmula nº 211/STJ. A admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação do art. 1.022 do CPC/2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei  .. ". (AgInt no REsp 1.990.435/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 14/11/2022, DJe de 17/11/2022.) 4. A Corte de origem resolveu a questão com fundamento na interpretação de legislação estadual. A alteração do julgado, conforme pretendido nas razões recursais, demandaria, necessariamente, a análise da legislação local, providência vedada em recurso especial. Desse modo, aplicável à espécie, por analogia, o enunciado da Súmula 280/STF: "Por ofensa ao direito local não cabe recurso extraordinário".
+5. A jurisprudência do Superior Tribunal de Justiça é no sentido de que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada por óbice sumular no exame do recurso especial pela alínea a do permissivo constitucional.
+6. Agravo interno a que se nega provimento .
+(AgInt no AREsp n. 1.631.788/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 12/6/2023, DJe de 22/6/2023.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CONCLUSÃO NO SENTIDO DO TRÃNSITO EM JULGADO SOBRE A QUESTÃO CONTROVERTIDA. SÚMULA 7/STJ. CARÊNCIA DE PREQUESTIONAMENTO. VERBETE SUMULAR N. 211/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
