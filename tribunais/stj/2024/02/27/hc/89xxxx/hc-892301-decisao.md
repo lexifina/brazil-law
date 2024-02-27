@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de FANNY PEREIRA ANTÔNIO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação n. 1528752-34.2022.8.26.0228).
+Extrai-se dos autos que a paciente foi condenada como incursa no art. 33, caput, da Lei n. 11.343/2006, à pena de 1 (um) ano 11 (onze) meses e 10 dias de reclusão, em regime aberto e pagamento de 194 (cento e noventa e quatro) dias-multa. A pena privativa de liberdade foi substituída por duas restritivas de direitos (e-STJ fls. 37/43).
+A apelação interposta pelo Ministério Público foi provida, para cassar a aplicação do redutor do tráfico privilegiado. Com isso, a reprimenda restou fixada em 5 (cinco) anos de reclusão, em regime inicial fechado, e pagamento de 500 (quinhentos) dias-multa (e-STJ fls. 74/80). Segue a ementa do acórdão:
+APELAÇÃO CRIMINAL - TRÁFICO DE ENTORPECENTE - APREENSÃO DE MAIS DE 04 CENTENAS DE DOSES UNITÁRIAS DE SORTIDA DROGA EMPODER DA RÉ DURANTE OPERAÇÃO POLICIAL EM FAVELA PARACOMBATE AO CRIME ORGANIZADO - INCREPADA, INTERCEPTADA EMROTA DE FUGA AO CERCO POLICIAL, QUE TAMBÉM TINHA EM SEUS DOMÍNIOS POLPUDO NUMERÁRIO EM DINHEIRO, ARRECADADO COMA VENDA A DROGA - CONFISSÃO DE QUE ERA ENVOLVIDA COMOILÍCITO COMÉRCIO NO SEIO DA COMUNIDADE - MAJORAÇÃO DAPENA-BASE COM ESTRIBO NO ART. 42 DA LEI ESPECIAL - INCIDÊNCIADA ATENUANTE DA CONFISSÃO - CASSAÇÃO DA CAUSA DE DIMINUIÇÃO DA PENA RECONHECIDA NA DECISÃO MONOCRÁTICATERMINATIVA DE MÉRITO - NECESSIDADE DO REGIME INICIAL FECHADO - RECURSO MINISTERIAL PROVIDO.
+No presente writ (e-STJ fls. 3/8), a impetrante aponta constrangimento ilegal, em razão do afastamento da incidência da minorante com base em análise totalmente subjetiva (drogas apreendidas indicariam um suposto envolvimento profissional na mercancia ilícita), eivou de ilicitude a condenação, agindo em contrariedade ao entendimento solidificado desta Corte Superior, bem como ao disposto no próprio texto legal (e-STJ fl. 6).
+Sustenta, assim, que a paciente preenche todos os requisitos para a aplicação do benefício e que o suposto envolvimento com o comércio ilícito de entorpecentes não foi comprovado.
+Dessa forma, pleiteia a aplicação do redutor do tráfico, em seu patamar máximo, o abrandamento do regime inicial, e a substituição da pena privativa de liberdade por restritivas de direitos.
+É o relatório. Decido.
+Verifico que a irresignação manifestada no presente mandamus tem por objeto os mesmos temas suscitados no AResp n. 2.520.939/SP anteriormente interposto pela defesa da ora paciente, que foi desprovido.
+Assim, trata-se de mera reiteração de insurgência que já fora apreciada, revelando-se incabível nova impetração para reexame do tema. Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. REITERAÇÃO DE PEDIDO ANTERIOR. AGRAVO NÃO CONHECIDO. 1. Não se conhece do recurso ordinário em habeas corpus quando a questão nele levantada já foi analisada em outro mandamus, por caracterizar reiteração de pedido.
+2. No caso, deixou-se de analisar o recurso ordinário em habeas corpus, por se tratar de mera reiteração de pedido formulado no RHC n. 58.051/MT. 3. Agravo regimental não conhecido. (AgRg no RHC n. 60.885/MT, Rel. Ministro ERICSON MARANHO, Sexta Turma, DJe 15/12/2015).
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O NARCOTRÁFICO. CONDENAÇÃO. INDEFERIMENTO DO RECURSO EM LIBERDADE. PRETENDIDA REVOGAÇÃO DA PRISÃO PREVENTIVA. QUESTÃO JÁ DEDUZIDA EM PRÉVIO WRIT. MERA REITERAÇÃO DE PEDIDO. ALEGADO EXCESSO DE PRAZO PARA O JULGAMENTO DA APELAÇÃO. PRINCÍPIO DA RAZOABILIDADE. ELEVADA QUANTIDADE DE PENA APLICADA. AUSÊNCIA DE OFENSA. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. ORDEM DENEGADA.
+1. Tendo a tese da ilegalidade da prisão preventiva sido levantada em prévio recurso ordinário em habeas corpus interposto perante esta Corte Superior e, constatando-se que já houve o seu exame, tendo sido improvido, não merece conhecimento o writ nesse ponto, por se tratar de mera reiteração de reclamo anteriormente ajuizado.
+ ..
+4. Habeas corpus parcialmente conhecido, nesta extensão, denegada a ordem. (HC n. 318.357/SP, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 28/5/2015).
+Ante o exposto, com base no art. 210 do Regimento Interno do STJ , liminarmente, não conheço do habeas corpus.
+Traslade-se, para estes autos, cópia da decisão monocrática proferida no AResp n. 2.520.939/SP.
+Intimem-se.
+Cientifique-se o Ministério Público Federal.
+EMENTA
