@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF/1988) interposto de acórdão proferido pelo Tribunal de Justiça de Tocantins cuja ementa é a seguinte (fl. 271, e-STJ):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. BLOQUEIO JUDICIAL VIA SISBAJUD. ATÉ 40 SALÁRIOS MÍNIMOS. ALEGAÇÃO DE VERBA SALARIAL. UTILIZAÇÃO ANÁLOGA A CONTA CORRENTE. AFASTAMENTO DA IMPENHORABILIDADE. POSSIBILIDADE. DECISÃO A QUO MANTIDA. AGRAVO INTERNO PREJUDICADO. AGRAVO DE INSTRUMENTO CONHECIDO E IMPROVIDO.1. Por força do artigo 833, X do CPC as quantias depositadas em caderneta de poupança, limitadas a 40 (quarenta) salários mínimos,estão legalmente impossibilitadas de sofrerem a constrição.2. Consigna-se que a citada regra da impenhorabilidade de quantia depositada em caderneta de poupança ou em conta bancária comum pode ser mitigada quando se tratar de conta movimentada como se conta corrente fosse, ou quando não há prova do caráter alimentar dos valores recebidos, o que pode perfeitamente haver ocorrido in casu, eis que o bloqueio de R$ 3.602,77 (três mil seiscentos e dois reais e setenta e sete centavos) se deu em diversas contas bancárias registradas no nome da executada/agravante, visando saldar dívida junto ao ente exequente, o que, a priori, não se encaixa na regra de impenhorabilidade descrita acima. Não há nos autos qualquer prova de que a conta bloqueada é conta poupança ou que tal serve para percebimento de salário pela ora recorrente, que nada trouxe para comprovar o alegado. 3. Agravo interno prejudicado. Agravo de instrumento conhecido e improvido.
+A parte recorrente afirma:
+O julgado apresentado exposa o entendimento que os valores depositados na conta poupança, até o limite de 40 (quarenta) salários mínimos, são impenhoráveis, nos termos do inciso X, do artigo 833, do CPC.
+(..)
+Portanto, nos termos do entendimento jurisprudencial firmado pelo STJ, a abrangência da regra do art. 833, X, do CPC/2015 se estende a todos os numerários poupados pela parte executada, até o limite de quarenta salários mínimos, não importando se depositados em poupança, conta-corrente, fundos de investimento ou guardados em papel-moeda, ou seja, a impenhorabilidade se faz ABSOLUTA.
+Dessa forma, estando a decisão recorrida em dissonância com o entendimento jurisprudencial firmado pela Superior Corte, acerca da extensão da regra prevista no art. 833, X, do CPC/2015, deve ser reformada a decisão ora recorrida.
+Contrarrazões às fls. 378-385, e-STJ.
+É o relatório.
+Decido.
+Os autos ingressaram neste Gabinete em 29.1.2024.
+A irresignação não merece prosperar.
+Assim consignou o Tribunal de origem (fl. 272, e-STJ, grifei):
+Ressalvo que o legislador, ao estabelecer esse critério e parâmetro, visou preservar em favor do dever um núcleo patrimonial que permita sobreviver, em respeito ao princípio da dignidade da pessoa humana. Essa regra decorre de opção exclusivamente legislativa. Dito isto, constato que obloqueio de R$ 3.602,77 (três mil seiscentos e dois reais e setenta e sete centavos) se deu em diversas contas bancárias registradas no nome da executada/agravante, visando saldar dívida junto ao ente exequente, o que, apriori, não se encaixa na regra de impenhorabilidade descrita acima.
+Outrossim, sabedora de entendimentos diversos, ainda me perfilho àqueles que entendem que dar interpretação diversa ao artigo 833, X, do CPC é colocar o juiz da função de legislador reescrevendo a regra, em afronta ao princípio da separação de poderes.
+Não obstante, neste instante, noto que a recorrente também não conseguiu, mediante provas pré-constituídas, comprovar (art. 854, § 3º, do CPC) que o quantum bloqueado era proveniente de saldo de salário ou outra verba alimentar, situação essa que poderia, em tese, dar-lhe proteção.
+A parte não combate os argumentos acima destacados. O não preenchimento dos requisitos constitucionais exigidos para a interposição do Recurso dirigido ao STJ caracteriza deficiência na fundamentação. Ante a motivação deficiente e a ausência de impugnação de fundamento autônomo, aplicam-se na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF. Nessa esteira:
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - AÇÃO DE INDENIZAÇÃO - DECISÃO MONOCRÁTICA - SÚMULA N. 284 DO STF - AGRAVO REGIMENTAL DESPROVIDO.
+1. No presente caso, a parte aponta negativa de vigência ao art. 458 do CPC, porém, limita-se a atacar, em suas razões recursais, a excessividade do quantum fixado a título de dano moral. Assim, a deficiência da fundamentação do apelo extremo não permite a exata compreensão da controvérsia, estando escorreita sua inadmissibilidade.
+2. A ausência de indicação expressa do ponto do decisum que confronta os dispositivos legais tidos por vulnerados não permite verificar se a legislação federal infraconstitucional restou, ou não, malferida.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 41.941/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 29/5/2013)
+Outrossim, o TJTO baseou seu entendimento nas provas carreadas aos autos. Assim, acolher a tese defendida pela parte recorrente somente seria possível mediante novo exame do contexto fático-probatório da causa, o que atrai a incidência do óbice da Súmula 7/STJ.
+Por fim, acrescento que a incidência da referida Súmula impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução à causa a Corte de origem. A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. REQUISITOS DA CDA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. ALÍNEA "C". PREJUDICADA.
+1. Não há como aferir eventual concordância da CDA com os requisitos legais exigidos sem que se analise o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional do STJ, encontra óbice na sua Súmula 7, cuja incidência é induvidosa no caso.
+2. O reexame do conjunto fático-probatório da causa obsta a admissão do Recurso Especial tanto pela alínea "a" quanto pela "c" do permissivo constitucional. Recurso Especial não conhecido (REsp 765.505/SC, Rel. Ministra Nancy Andrighi, Terceira Turma, DJ 20-3-2006).
+Diante do exposto, não conheço o Recurso Especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
