@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Município de Barra do Piraí com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 142):
+AGRAVO INTERNO em apelação cível. Execução fiscal. Município de Barra do
+Pirai. Decisão Monocrática que não conheceu do recurso. Crédito tributário
+em valor inferior a 50 ORTN"s. Art. 34, da Lei 6.830/80. Aplicável à espécie o
+entendimento consolidado no Recurso Repetitivo nº 1.168.625/MG. Para averiguação do valor deve ser considerado cada crédito tributário individualmente. Inadmissibilidade do recurso de apelação. Questões já abordadas quando da decisão monocrática, que ora se mantém.
+NEGADO PROVIMENTO AO AGRAVO INTERNO.
+A parte recorrente aponta violação aos arts. 34, caput, § 1º da Lei nº 6.830/80, e 1.009 da Lei nº 13.105/2015. Sustenta, em resumo, que " O entendimento pela verificação do valor de 50 ORTN "cada crédito tributário isolado" é absurdo e colide frontalmente com o que decidiu o Superior Tribunal de Justiça. Conforme já pacificado pelo Superior Tribunal de Justiça, O VALOR DE ALÇADA PARA RECONHECIMENTO DO RECURSO CABÍVEL NÃO DEVE SER FEITO DE MANEIRA ISOLADA PARA CADA DÉBITO E SIM PELO SOMATÓRIO DOS VALORES COBRADOS NA MESMA EXECUÇÃO FISCAL, visto que "não se trata de somatório de valores de execuções fiscais; mas sim de débitos de mesma natureza e mesmo tributo, referentes a vários exercícios, expressos no valor da causa de um único feito executivo"" (fl. 159).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Na hipótese dos autos, o acórdão recorrido determinou que a apelação não poderia ser conhecida, na medida em que a execução, ao se considerar, isoladamente, o valor de cada exercício cobrado no feito, não superava o valor de alçada (fls. 144/145):
+Monocraticamente esta Relatora não conheceu do recurso, nos seguintes termos: "Trata-se de Execução Fiscal movida pelo MUNICÍPIO DE BARRA DO PIRAÍ em face de JOSÉ BORGES PINHEIRO, a fim de cobrar débito de natureza tributária de IPTU em valores individuais inferiores a RS 931,02 referentes aos exercícios de 2016 a 2018, no valor total de RS 1.200,13. O artigo 34, da Lei n." 6.830/80, dispõe que: (..) O Superior Tribunal de Justiça definiu a atualização do valor de alçada previsto na Lei de Execução Fiscal, quando do julgamento Recurso Especial n." ,168.625/MG,
+submetido à sistemática dos recursos repetitivos: (..)
+No julgamento do referido recurso repetitivo, firmou-se o entendimento de que 50 ORTN"s correspondem ao valoratualizado de RS 328,27 (trezentos e vinte e oito reais e vinte e sete centavos), corrigido pelo IPCA-E a partir de
+janeiro de 2001, conforme tabela inserta no respectivo voto. Nesse contexto, a presente ação foi proposta em abril de 2021, o que eqüivaleria a RS 1.108,42, conforme atualização do valor de RS 328,27 a partir de janeiro de 2001, conforme calculadora do Banco Central do Brasil (..) Definido o valor de alçada, cumpre ressaltar que ca crédito tributário deve ser considerado isoladamente nc respeito ao limite imposto, ainda que a Fazenda Públicares olva cobrá-los conjuntamente em uma única execução fiscal.
+(..)
+Assim sendo, embora a soma de tais débitos alcance montante acima do valor de alçada, este não é superado quando cada crédito é individualmente considerado, mesmo computados a correção monetária e os juros incidentes
+desde o vencimento das obrigações. "
+Ocorre que, sobre o assunto, o STJ já sedimentou entendimento no sentido de que a cobrança de mais de um exercício de um mesmo tributo por uma única CDA não se confunde com a reunião de execuções, razão pela qual deve ser considerado valor total do crédito para fins de apuração do valor de alçada. É ver:
+EXECUÇÃO FISCAL. ART. 34 DA LEI N. 6.830/1980. VALOR DE ALÇADA RECURSAL. REUNIÃO EM EXECUÇÃO FISCAL DE DÉBITOS DE MESMA NATUREZA E MESMO TRIBUTO. RECURSO DE APELAÇÃO. CABIMENTO.
+I - O Tribunal de origem negou seguimento ao recurso de apelação, sob o fundamento de que não é possível, para fins de fixação da alçada - e, assim, de interposição de apelação -, somar o valor das execuções reunidas em um só feito, devendo ser considerado cada crédito tributário isoladamente, ainda que cobrados pela via da mesma execução fiscal. Por sua vez, a Municipalidade, em recurso especial, sustenta o cabimento da apelação, considerando que foi superado o valor de alçada de 50 Obrigações Reajustáveis do Tesouro Nacional - ORTN.
+II - No caso, não se trata de somatório de valores de execuções fiscais; mas sim de débitos de mesma natureza e mesmo tributo, referentes a vários exercícios, expressos no valor da causa de um único feito executivo.
+III - Incidência da jurisprudência deste Superior Tribunal de Justiça que fixou que o valor da alçada deve ser aferido no momento da propositura da execução fiscal. Assim, como o valor da causa do feito executivo, quando da propositura, ultrapassava o valor de alçada, cabível, na espécie, o recurso de apelação, que fora, pois, devidamente interposto, em consonância com o decidido, sob o regime de recursos repetitivos, no REsp 1.168.625/MG, Rel. Min. Luiz Fux, DJe 1º/7/2010.
+IV - Recurso especial provido.
+(REsp 1.887.124/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 22/09/2020, DJe 30/09/2020)
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. CDA QUE ABRANGE CRÉDITOS TRIBUTÁRIOS DE EXERCÍCIOS DISTINTOS RELATIVOS AO MESMO TRIBUTO. EXECUÇÃO ÚNICA. VALOR DE ALÇADA QUE DEVE SER APURADO COM BASE NO NÚMERO DE EXECUÇÕES, E NÃO NO DE EXERCÍCIOS DESCRITOS NA CDA. APELAÇÃO. ADEQUAÇÃO DA VIA RECURSAL.
+1. Em execuções fiscais cujo valor for igual ou inferior a 50 (cinquenta) Obrigações Reajustáveis do Tesouro Nacional ORTN, não cabe Apelação, mas sim Embargos Infringentes.
+2. O Superior Tribunal de Justiça entende que a apuração do valor de alçada deve considerar a quantia cobrada em cada processo de execução, inadmitindo-se a reunião de diversos processos para se alcançar tal valor.
+3. O caso dos autos não trata de reunião de execuções, como entendeu equivocadamente o aresto vergastado. O que existe é uma Certidão de Dívida Ativa CDA que abrange mais de um exercício do mesmo tributo, o que não a desnatura como execução única.
+4. Não é razoável exigir que a Fazenda inscreva cada exercício do mesmo tributo em uma CDA distinta, considerando-se a economicidade e a eficiência na busca da satisfação do crédito tributário.
+5. Recurso Especial provido.
+(REsp 1.861.331/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 26/5/2020, DJe 31/8/2020).
+Nesse contexto, por estar em dissonância com o entendimento desta Corte Superior, merece reparos o acórdão recorrido.
+De se destacar que essa solução vem sendo adotada, monocraticamente, também por ministros que integram a Primeira Turma deste Superior Tribunal, com destaque para o REsp 2.101.810/RJ, Rel. Min. Regina Helena Costa, DJe 16/10/2023, o REsp 1.925.197/RJ, Rel. Min. Gurgel de Faria, DJe 29/6/2021, o REsp 1.933.063/RJ, Rel. Min. Benedito Gonçalves, DJe 3/5/2021, e o REsp 1.908.256/RJ, Rel. Min. Sérgio Kukina, DJe 14/12/2020.
+ANTE O EXPOSTO, dou provimento ao recurso especial para determinar o regular processamento do recurso de apelação junto à segunda instância, ressalvada a possibilidade de não conhecimento por outro motivo.
+Publique-se.
+EMENTA
