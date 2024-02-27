@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por MARIA ELIZANGELA DE OLIVEIRA e ANTONIO GONÇALVES SOBRINHO (sucessores de Sebastião Gonçalves de Oliveira), contra decisão que negou seguimento a recurso especial fundamentado na(s) alínea(s) "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 11/04/2022.
+Concluso ao gabinete em: 22/02/2024.
+Ação: declaratória de nulidade/inexistência contratual cumulada com pedido de repetição do indébito e compensação por danos morais, ajuizada por SEBASTIÃO GONÇALVES DE OLIVEIRA, sucedido pelos agravantes, em face de BANCO BRADESCO FINANCIAMENTOS S.A, em razão de descontos supostamente indevidos em seu benefício previdenciário.
+Sentença: julgou improcedente o pedido, com aplicação de multa equivalente a 5% sobre o valor da causa a título de litigância de má-fé.
+Acórdão: deu parcial provimento à apelação interposta pelo autor, apenas para reduzir a multa imposta por litigância de má-fé para 2% do valor atualizado da causa, nos termos da seguinte ementa:
+DIREITO DO CONSUMIDOR. DECLARAÇÃO DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA C/C REPARAÇÃO DE DANOS MORAIS E MATERIAIS. EMPRÉSTIMO CONSIGNADO. DISTRIBUIÇÃO DINÂMICA DO ÔNUS DA PROVA. FARTA DOCUMENTAÇÃO QUE EVIDENCIA A EXISTÊNCIA DA CONTRATAÇÃO E BENEFÍCIO PELA PARTE AUTORA. LICITUDE DOS DESCONTOS RECONHECIDA. CONDENAÇÃO EM LITIGÂNCIA DE MÁ FÉ. MANUTENÇÃO. AS PENALIDADES DECORRENTES DO RECONHECIMENTO DA LITIGÂNCIA DE MÁ-FÉ NÃO SE CONFUNDEM COM O DIREITO AO ACESSO À JUSTIÇA, DECORRENDO, NO CASO, DA PRÁTICA DE ATOS QUE SÃO CONTRÁRIOS AO DEVER DE BOA-FÉ E LEALDADE DAS PARTES. PRECEDENTES. REDUÇÃO DA MULTA DE 5% PARA 2% DO VALOR ATUALIZADO DA CAUSA, EM CONSIDERAÇÃO À CONDIÇÃO ECONÔMICA DA PARTE AUTORA, MAS AINDA OBSERVANDO OS LIMITES DISPOSTOS NO ART. 81 DO CPC. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Recurso especial: alega violação dos arts. 6º, 7º, 8º, 80, 81, 369, 370, 371, 373, II, 378, 380, 428, I, 429, II, e 489, II e §1º, IV, do CPC, e 6º, VIII, do CDC, bem como dissídio jurisprudencial. Sustenta que: i) é impossível, de forma ocular, aferir se a "assinatura" constante no contrato é, de fato, do autor, havendo necessidade de realização de perícia técnica; ii) o julgador deve sempre se pautar pela busca da verdade real, não podendo se furtar à apreciação dos requerimentos feitos pela parte, sob pena de cerceamento de defesa; iii) tendo em vista que não reconhece a suposta contratação, caberia ao agravado a comprovação da autenticidade da "assinatura" posta no documento colacionado; iv) o agravado não se desincumbiu de seu ônus probatório, pois não provou efetivamente que os supostos valores ingressaram no patrimônio do autor; v) não litiga de má-fé quem se utiliza do processo para ver reconhecido em juízo uma pretensão que acredita ser seu direito.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 6º, 7º, 8º, 369, 370, 371, 373, II, 378, 380, 428, I, 429, II, e 489, II e §1º, IV, do CPC, indicados como violados, não tendo a parte agravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à ausência de cerceamento de defesa, à existência da contratação e consequente licitude dos descontos e à configuração de litigância de má-fé, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Além disso, a incidência da Súmula 7 desta Corte acerca dos temas que se supõem divergentes (ausência de cerceamento de defesa; existência da contratação e consequente licitude dos descontos; e configuração de litigância de má-fé) impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor atualizado da causa (e-STJ fl. 236) para 20%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE/INEXISTÊNCIA CONTRATUAL CUMULADA COM PEDIDO DE REPETIÇÃO DO INDÉBITO E COMPENSAÇÃO POR DANOS MORAIS. DESCONTOS SUPOSTAMENTE INDEVIDOS EM BENEFÍCIO PREVIDENCIÁRIO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação declaratória de nulidade/inexistência contratual cumulada com pedido de repetição do indébito e compensação por danos morais em razão de descontos supostamente indevidos em benefício previdenciário.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo conhecido. Recurso especial não conhecido.
