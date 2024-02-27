@@ -1,0 +1,49 @@
+DECISÃO: Trata-se de agravo interposto contra decisão negativa de admissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Osmar Felipe Júnior em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+
+    “ILEGITIMIDADE DE PARTE PASSIVA — Prefeito do Município de Cunha — Alegação de não submissão à Lei 8.429/1992 e sim ao Decreto-lei 201/1967 — Descabimento — Prefeito que, nos termos do art. 21 da LIA, é agente público para os efeitos da Lei 8.429/1992 — Decreto-lei 201/1967 que diz respeito às ações de natureza penal, o que não afasta a responsabilidade civil nos termos da Lei 8.429/1992 — Preliminar rejeitada AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA — Prefeito que, em apenas vinte dias na chefia do Executivo Municipal, sancionou lei que previa a nomeação de cargos em comissão, que, em verdade, não possuíam atribuições de direção, chefia ou assessoramento, em afronta ao artigo 37, inciso V, da Constituição Federal e aos princípios da moralidade e impessoalidade — Manutenção dos cargos após ajuizamento de ação direta de inconstitucionalidade perante o Órgão Especial e até mesmo após o trânsito em julgado da decisão — Ação consciente e dolosa de loteamento dos cargos públicos para a satisfação de interesses pessoais em detrimento do interesse público — Sentença que condenou o réu ao pagamento de multa civil no valor de cinco vezes sua remuneração — Necessidade de exasperação das penalidades, diante da gravidade do ato, para que tenham a eficácia de desestimular ações da mesma natureza — Recurso do autor provido, desprovido o do réu”.
+
+    Na minuta sustenta-se violação dos arts. 5º, II, XXXV, LIV e LV, e 37, § 4º, da Constituição Federal. Argumenta-se, em síntese, a inaplicabilidade da Lei Improbidade Administrativa a Prefeitos municipais e a inconstitucionalidade das sanções previstas no art. 12 da Lei 8.429/92.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    Nos termos da jurisprudência consolidada deste Supremo Tribunal Federal, a verificação da alegada ofensa aos princípios da legalidade, da inafastabilidade da prestação jurisdicional, do devido processo legal, do contraditório e da ampla defesa (art. 5º da Lei Maior), pressupõe o exame e a interpretação das normas infraconstitucionais aplicáveis ao caso, de tal modo que tal violação, se ocorresse, seria reflexa, o que não atende à exigência do art. 102, III, “a”, da Lei Fundamental.
+
+    Registre-se que esta Suprema Corte, no julgamento do ARE 748.371-RG, Rel. Min. Gilmar Mendes, Pleno, DJe 01.8.2013, decidiu que a matéria relacionada à alegação de violação dos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal não apresenta repercussão geral. O acórdão está assim ementado:
+
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+
+    No mérito, o entendimento acolhido no acórdão recorrido está alinhado à jurisprudência desta Suprema Corte, no sentido de que as sanções impostas pela Lei 8.429/1992 coadunam-se com os princípios constitucionais que regem a Administração Pública. Nesse sentido:
+
+    “Embargos de declaração no recurso extraordinário com agravo. Embargos de declaração recebidos como agravo regimental, nos termos do art. 1.024, § 3º, do CPC. 2. Direito Administrativo. 3. Prefeito. Condenação por ato de improbidade administrativa. Possibilidade. 4. Constitucionalidade das sanções previstas no art. 12, III, da Lei 8.429/1992. Precedentes. 5. Não incidência do tema 309 da sistemática da repercussão geral. Distinguish. 6. Negado provimento ao agravo regimental”. (ARE 1455309 ED, Relator(a): GILMAR MENDES, Segunda Turma, julgado em 12-12-2023, PROCESSO ELETRÔNICO DJe-s/n DIVULG 15-12-2023 PUBLIC 18-12-2023)
+
+    “DIREITO ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. DANOS AO ERÁRIO. IMPROBIDADE. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. ALEGAÇÃO DE OFENSA AOS ARTS. 5º, CAPUT, 22, 24, 37, § 4º, E 65 DA CONSTITUIÇÃO DA REPÚBLICA. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA NO SUPREMO TRIBUNAL FEDERAL. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. O entendimento assinalado na decisão agravada não diverge da jurisprudência firmada no Supremo Tribunal Federal. Compreensão diversa demandaria a reelaboração da moldura fática delineada no acórdão de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 2. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, principalmente no que se refere à ausência de ofensa a preceito da Constituição da República. 3. Agravo interno conhecido e não provido”. (ARE 1130207 AgR, Relator(a): ROSA WEBER, Primeira Turma, julgado em 13-09-2019, PROCESSO ELETRÔNICO DJe-209 DIVULG 24-09-2019 PUBLIC 25-09-2019)
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ATO DE IMPROBIDADE ADMINISTRATIVA. APROPRIAÇÃO DE REMUNERAÇÃO DE SERVIDORES E CONTRATAÇÃO DE “SERVIDORES FANTASMAS” POR DEPUTADA ESTADUAL: INEXISTÊNCIA DE PRERROGATIVA DE FORO PARA O PROCESSAMENTO DE AÇÃO CIVIL PÚBLICA. CONSTITUCIONALIDADE DO ART. 12 DA LEI N. 8.429/1992. APLICAÇÃO DA LEI AO CASO CONCRETO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. ALEGAÇÃO DE CERCEAMENTO DE DEFESA: INEXISTÊNCIA DE REPERCUSSÃO GERAL. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (RE 630875 AgR, Relator(a): CÁRMEN LÚCIA, Segunda Turma, julgado em 14-06-2019, PROCESSO ELETRÔNICO DJe-167 DIVULG 31-07-2019 PUBLIC 01-08-2019)
+
+    Também não há divergência quanto à possibilidade de Processamento e julgamento de prefeitos, por atos de improbidade administrativa, com base na Lei 8.429/92. Nesse sentido foi a Tese de repercussão geral fixada no julgamento do RE 976.566-RG, Rel. Min. Alexandre de Moraes, cuja redação segue: “O processo e julgamento de prefeito municipal por crime de responsabilidade (Decreto-lei 201/67) não impede sua responsabilização por atos de improbidade administrativa previstos na Lei 8.429/1992, em virtude da autonomia das instâncias” (Tema 576).
+
+    Rever as premissas adotadas pela Corte de origem que resultaram na condenação do recorrente exigiria o revolvimento do quadro fático delineado, procedimento inviável em sede extraordinária, nos termos da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+
+    “Ementa: Direito administrativo. Agravo interno em recurso extraordinário com agravo. Ato de improbidade administrativa. Comprovação. Análise da legislação infraconstitucional pertinente. Súmula nº 691/STF. 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo, que tem por objeto acórdão que manteve sentença de improcedência da ação. 2. Hipótese em que para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário analisar a legislação infraconstitucional aplicada ao caso, assim como reexaminar fatos e provas constantes dos autos, procedimentos vedados neste momento processual (Súmulas 279 e 280/STF). 3. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência. 4. Agravo interno a que se nega provimento, com a aplicação da multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.021, § 4º, do CPC/2015.” (ARE 1137873 AgR, Relator(a): LUÍS ROBERTO BARROSO (Presidente), Tribunal Pleno, DJe-s/n DIVULG 08-01-2024 PUBLIC 09-01-2024)
+
+    “Ementa: AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. IMPROBIDADE ADMINISTRATIVA. NECESSIDADE DE REEXAME DE NORMAS INFRACONSTITUCIONAIS. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - É inadmissível o recurso extraordinário quando sua análise implica a revisão da interpretação de normas infraconstitucionais que fundamentam o acórdão recorrido, dado que apenas ofensa direta à Constituição Federal enseja a interposição do apelo extremo. II - Conforme a Súmula 279/STF, é inviável, em recurso extraordinário, o reexame do conjunto fático-probatório constante dos autos. III - Agravo regimental a que se nega provimento”. (ARE 1235427 ED-AgR, Relator(a): CRISTIANO ZANIN, Primeira Turma, DJe-s/n DIVULG 11-10-2023 PUBLIC 16-10-2023)
+
+    “Embargos de declaração no agravo regimental no recurso extraordinário com agravo. 2. Direito Administrativo. Improbidade. Configuração. Necessidade de reexame de fatos e provas e legislação infraconstitucional pertinente. 3. Cerceamento de defesa. Incidência do tema 660 da repercussão geral. 4. Ausência de omissão, contradição, obscuridade ou erro material. 5. Não caracterização. Não cabimento. 6. Embargos de declaração rejeitados”. (ARE 1351829 AgR-ED, Relator(a): GILMAR MENDES, Segunda Turma, DJe-s/n DIVULG 26-07-2023 PUBLIC 27-07-2023)
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 27 de fevereiro de 2024.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
