@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado por HERBERT URIEL FREITAS DA SILVA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ, assim resumido:
+INDENIZAÇÃO. IMPUTAÇÃO INDEVIDA DE CRIME DE FURTO À CLIENTE DA LOJA. ACUSAÇÃO QUE SUPLANTA O MERO ABORRECIMENTO. DANO MORAL CARACTERIZADO. INDENIZAÇÃO DEVIDA. ADEQUADO O VALOR DA INDENIZAÇÃO FIXADO PELA SENTENÇA. RECURSO DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 186 do CC, no que concerne à necessidade de concessão da reparação indenizatória, haja vista que restou demonstrado a configuração do dano moral, diante do ato ilícito praticado pelos recorridos, trazendo a seguinte argumentação:
+Portanto, restou incontroverso nos autos que o recorrente foi abordado pelos recorridos, depois foi conduzido até o distrito policial. Disso toda a situação narrada e todas as provas processuais, não resta dúvidas acerca das HUMILHAÇÕES E CONSTRANGIMENTOS EM PÚBLICO, com diversas testemunhas e mentiras jogadas ao vento em discursos e falácias sem base, sendo acusado de ter cometido crime. De maneira que restou evidenciado os transtornos que desencadearam diversos problemas e dificuldade até os dias atuais sofrendo de problemas psicológicos, que afeta sua vida pessoal e no trabalho.
+Dessa forma, resta evidente que o acórdão estadual violou o disposto no art.
+186 do Código Civil, que diz:
+Art. 186. Aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito.
+Nesse sentido, o dano moral se configura quando as acusações foram feitas em público e o recorrente detido e levado para a delegacia e ao final ficou constatado que não havia cometido crime algum. Portanto, fica claro a ocorrência de danos morais ao recorrente, eis que ele vivenciou situação vexatória injusta, decorrente exclusivamente de condutas humilhantes praticada pelos recorridos. Dessa forma, a jurisprudência nacional, tem manifestado o entendimento no sentido de ser devido a aplicação da reparação pelo dano sofrido, conforme o julgado a seguir:
+ ..
+Portanto, analisar o caso em debate, não implica revolvimento dos fatos e provas, uma vez que, o caderno processual revela que o recorrente, foi abordado no estacionamento do Shopping, após foi acionada a viatura da polícia e sob a acusação de ter cometido crime de sequestro, foi levado preso até a delegacia. Dessa forma, os efeitos da falsa acusação de crime são infinitamente danosos, tendo em vista o grave constrangimento de ser abordado em local público e conduzido até a delegacia.
+Seguramente, o dano moral é evidente e com isso, os recorridos devem ser responsabilizados.
+ ..
+DADO O EXPOSTO, REQUER a Vossa Excelência que seja CONHECIDO e, por conseguinte, integralmente PROVIDO o presente Recurso Especial, para reformar o Acórdão recorrido, para que seja julgado procedente o pedido inicial, dado o extremo abalo moral, conforme comprovado nos autos (fls. 606-608).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Da s provas e depoimento das partes apenas ficou comprova a condução do autor à Delegacia de Flagrantes, restando demonstrado, inclusive pelo próprio autor, que os réus tenham praticado conduta diversa, irregular ou incompatível com o cargo que exerce, ID 3960662, p. 26/29.
+Segundo Boletim Interno BRO NE nº 161, ID 3960662, p. 29, resolveu-se arquivar os autos da Sindicância.
+Como muito bem colocado pela sentença ora atacada, não teria restado configurada a agressão ao autor que merecesse reparação por danos morais.
+Ademais, cumpre destacar que cabe ao autor o ônus da prova de fato constitutivo do seu direito, nos termos do art. 373, I, do CPC (fl. 590).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
