@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 10):
+HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES (ARTIGO 33, CAPUT, DA LEI Nº 11.343/06). PLEITO DE REVOGAÇÃO DA PRISÃO PREVENTIVA. DESCABIMENTO. APREENSÃO DE CONSIDERÁVEL QUANTIDADE E VARIEDADE DE DROGAS (7 PORÇÕES DE COCAÍNA, PESANDO 16,17 GRAMAS, 4 PORÇÕES DE METANFETAMINA, PESANDO 3,5 GRAMAS, 8 PORÇÕES DE ECSTASY, PESANDO 28,1 GRAMAS, 5 PORÇÕES DE MDMA, PESANDO 4,7 GRAMAS, E 7 PORÇÕES DE MACONHA, PESANDO 7,78 GRAMAS), ALÉM DE UMA MÁQUINA DE CARTÃO. ALEGAÇÃO DE QUE O PACIENTE É GENITOR DE DUAS CRIANÇAS MENORES DE 12 (DOZE) ANOS DE IDADE, QUE DELE DEPENDEM FINANCEIRAMENTE. INADMISSIBILIDADE. PACIENTE DECLAROU, EM SOLO POLICIAL, QUE ESTAVA DESEMPREGADO HÁ 05 (CINCO) MESES. PRESSUPOSTOS DA SEGREGAÇÃO CAUTELAR PRESENTES. INÓCUAS OUTRAS MEDIDAS DO ARTIGO 319 DO CÓDIGO DE PROCESSO PENAL. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. PLEITO DE ENCAMINHAMENTO DOS AUTOS AO DOUTO PROCURADOR- GERAL DE JUSTIÇA, PARA ANÁLISE DA VIABILIDADE EM OFERECER O ACORDO DE NÃO PERSECUÇÃO PENAL. PRETENSÃO JÁ ATENDIDA NA ORIGEM. IMPETRAÇÃO PREJUDICADA NESTE PONTO. ORDEM CONHECIDA PARCIALMENTE E, NESTA EXTENSÃO, DENEGADA.
+Consta dos autos que o paciente foi preso preventivamente e denunciado como incurso no art. 33, caput, da Lei n. 11.343/06.
+Sustenta a defesa que "a prisão foi efetuada por guardas municipais de Diadema, o que por si só enseja a nulidade dos autos, conforme recentes posicionamentos da jurisprudência de cortes superiores do nosso país" (fl. 4).
+Alega que o crime imputado ao paciente não foi cometido violência ou grave ameaça à pessoa e, em caso, de condenação, poderá ser fixado o regime aberto ou substituída a pena corporal por restritivas de direitos, sendo a a prisão desproporcional.
+Aduz que o paciente é réu primário, possui bons antecedentes e é pai de duas crianças menores de 12 anos de idade.
+Requer, liminarmente e no mérito, que seja concedida a ordem de habeas corpus, determinando o trancamento da ação penal e deferindo o direito do acusado em responder em liberdade.
+O pedido liminar foi deferido e substituída a prisão preventiva do paciente por medidas cautelares alternativas.
+As informações foram prestadas e o Ministério Público Federal entendeu patente a perda superveniente do objeto do habeas corpus pois proferida sentença condenatória na origem, razão pela qual entende deve ser o recurso julgado prejudicado.
+Em consulta ao site do Tribunal de origem (autos n. 1502014-18.2023.8.26.0537 da 2ª Vara Criminal da Comarca de Diadema - SP), constata-se que, em 21/11/2023 o Juízo de primeira instância condenou o paciente como incurso no art. 33, caput, da Lei n. 11.343/2006, à pena de 1 ano e 8 meses de reclusão, regime aberto, substituído nos termos do art. 44 do Código Penal, por 1 ano e 8 meses, de prestação de serviços gratuitos à comunidade ou entidade pública, cujas atividades serão fixadas pelo Juízo das Execuções criminais em conformidade com as vagas existentes e ao pagamento de 176 dias-multa, concedendo o direito ao sentenciado de apela em liberdade, nos termos da Sentença juntada aos autos (fls. 260-261).
+Assim, evidente a perda do objeto.
+Ante o exposto, prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
