@@ -1,0 +1,8 @@
+DECISÃO
+ALLIGUEITON PATRICIO DE ARAUJO requer a revogação da prisão preventiva decretada em seu desfavor.
+Em consulta ao sistema informatizado do Superior Tribunal de Justiça, o gabinete verificou que foi publicada decisão por mim proferida nos autos do HC n. 875.023/RN, em que revoguei a prisão preventiva do paciente ANTÔNIO SANDOVAL DO NASCIMENTO JÚNIOR e estendi a ordem ao ora paciente, corréu nos autos originários. Transcrevo:
+Consoante o art. 580 do CPP, na hipótese de concurso de agentes, a decisão que beneficiar um deles, se fundada em motivosobjetivos, aproveitará aos outros. No caso em exame, há similitude fática entre a situação do paciente deste recurso em habeas corpus e a do ora requerente, como reconhecido pelo Ministério Público Federal às fls. 392-393: " ..  tendo em vista a semelhante participação na empreitada criminosa por parte do requerente em relação ao paciente."Assim, porque caracterizada hipótese prevista no art. 580 do CPP, deveser a ele estendido os efeitos da decisão proferida às fls. 304-314.À vista do exposto,defiro o pedido de extensão, a fim substituir a prisão preventiva do pelas seguintes medidas cautelares:a) proibição de frequentar estabelecimentos prisionais (art. 319, II, CPP),b) proibição de contato com os corréus por qualquer meio (art. 319, III, CPP);c) suspensão do exercício da advocacia (art. 319, VI, CPP); ed)monitoração eletrônica (art. 319, IX, CPP).
+Assim, evidencia-se a prejudicialidade deste writ, uma vez que a ordem postulada já foi concedida em processo correlato.
+À vista do expos to, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado o habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
+EMENTA
