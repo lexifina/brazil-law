@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar, impetrado em favor de ANDERSON FRANCISCO DE SOUZA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO (Autos nº 0025150-95.2023.8.17.9000).
+O recurso apresentado pela defesa foi desprovido por meio de acórdão assim ementado (e-STJ fl. 16/17):
+EMENTA: AGRAVO EM EXECUÇÃO PENAL. DECRETAÇÃO DAPRESCRIÇÃO DA PENA REMANESCENTE. PRETENSÃO DE CONTAGEM EMDOBRO DO TEMPO QUE PERMANECEU CUSTODIADO NO COMPLEXO DO CURADO. IMPOSSIBILIDADE. RECORRENTE FORAGIDO. AUSÊNCIA DECUNMPRIMENTO DA PENA. AGRAVO NÃO PROVIDO.
+I - No caso, não houve o cumprimento da pena, pois o agravante estava foragido e foi decretada a prescrição da pena remanescente, prevalecendo-se, portanto, a data em que foi extinta a pena, o que foi devidamente reconhecido pelo magistrado na decisão vergastada.
+II - Na hipótese de superveniente condenação por crime posterior no curso da execução, antes de se proceder à soma determinada no art. 111, parágrafo único, da Lei nº 7.210/84, faz-se necessário efetuar a separação das penas, tão somente para fins do cálculo do cômputo em dobro estabelecido pela Resolução de 28/11/2018 da Corte Interamericana de Direitos Humanos, a fim de evitar a denominada "poupança de tempo de prisão.
+III - Agravo de Execução Penal não provido. Decisão unânime
+A defesa alega, em síntese a violação do teor da Resolução de 28/11/2018 daCorte Interamericana de Direitos Humanos (Corte IDH).
+Requer, liminar e definitivamente, o deferimento da ordem para que seja reconhecido o direito de contagem em dobro do período que esteve recolhido no "COMPLEXO DO CURADO".
+É o relatório.
+Decido.
+"Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado." (AgRg no HC 832409 / MG, RELATOR Ministro RIBEIRO DANTAS, QUINTA TURMA, DATA DO JULGAMENTO 18/12/2023, DATA DA PUBLICAÇÃO/FONTE DJe 20/12/2023)
+Além disso, a própria análise do "writ" encontra-se constitucionalmente atrelada à existência de perigo ou restrição à liberdade de locomoção do paciente, o que, contudo, inexiste no caso concreto, na medida em que o pleito formulado no "writ" é o de realização de contagem em dobro de tempo prisional para alteração da data do reconhecimento da extinção definitiva da reprimenda, objetivando o adiantamento da data final do quinquênio que trará a primariedade técnica, providência que a toda evidência não envolve imediata ou mediatamente o direito de liberdade do paciente.
+Há, portanto, de se dar vazão ao entendimento deste STJ no sentido de que "..) Não tendo sido demonstrado, na hipótese, nenhum constrangimento atual ou iminente ao direito ambulatorial do Paciente, o habeas corpus não comporta conhecimento. (..)" (AgRg no HC 253680 / PB, RELATORA Ministra LAURITA VAZ, QUINTA TURMA, DATA DO JULGAMENTO 04/10/2012, DATA DA PUBLICAÇÃO/FONTE DJe 09/10/2012).
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
