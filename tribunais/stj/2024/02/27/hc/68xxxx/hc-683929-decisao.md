@@ -1,0 +1,8 @@
+DECISÃO
+GERALDO MAGELA CARNEIRO MONTEZANO e GILMAR PINTO DE OLIVEIRA alegam sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 1.0000.20.483338-8/000, em que foi preservada a higidez da decisão que recebeu a denúncia ofertada em seu desfavor.
+Assere a defesa que "o r. acórdão também sequer menciona onde a denúncia narra do dolo específico. Ora, e não menciona porque a denúncia não narra o dolo específico, conforme exigência do plenário do E. Supremo Tribunal Federal. Diante do exposto, requer-se o trancamento da ação penal em relação ao delito previsto no artigo 90 da lei 8.666 devido à inépcia da denúncia" (fl. 11).
+Todavia, em consulta ao sítio eletrônico do Tribunal de Justiça do Estado do Paraná, verifiquei que, em 24/11/2023, data posterior a esta impetração, foi proferida sentença que acolheu parcialmente a pretensão punitiva estatal.
+A esse respeito, esta Corte possui jurisprudência sedimentada no sentido de que "a superveniência da sentença penal condenatória torna esvaída a análise do pretendido reconhecimento de inépcia da denúncia, isso porque o exercício do contraditório e da ampla defesa foi viabilizado em sua plenitude durante a instrução criminal" (AgRg no AREsp 537.770/SP, Rel. Ministro ROGÉRIO SCHIETTI CRUZ, Sexta Turma, julgado em 4/8/2015, DJe 18/8/2015)" (AgRg no AREsp n. 625.101/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 23/2/2016.)
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado o habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
+EMENTA
