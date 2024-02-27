@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos por INSTITUTO BRASILEIRO DE PROTECAO PROFISSIONAL contra decisão que conheceu do agravo para negar provimento ao recurso especial.
+Em suas razões, sustenta a parte embargante, em síntese, a existência de obscuridade e contradição no decisum, tendo em vista que houve impugnação a todos os fundamentos do acórdão estadual; e, além disso, "a embargante aceita as premissas fáticas e interpretação de cláusulas contratuais consignadas no v. acórdão, porém, questiona tão somente a conclusão jurídica por ele alcançada, que contraria legislações federais." (fl. 311).
+O embargado apresentou impugnação (fls.315-317).
+É o relatório.
+Os embargos de declaração tem como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Na hipótese, não se verifica qualquer obscuridade ou contradição no julgado.
+De fato, como dito, o eg. TJ-SP registrou que (a) o recorrente compreende-se no conceito de fornecedor, pois desenvolve atividade profissional de comercialização de produtos e serviços, e (b) o recorrido figura como consumidor na relação jurídica firmada com o recorrente, pois adquiriu um conjunto de produtos e serviços ao aderir a termo de associação visando a aquisição de título patrimonial associativo, na condição de destinatário final.
+Entretanto, estes fundamentos do v. acórdão recorrido não foram devidamente impugnados pela parte recorrente, convocando, na hipótese, a incidência da Súmula 283/STF.
+Noutro giro, a alteração do v. acórdão recorrido no que tange a inviabilidade de interrupção unilateral do contrato pelo instituto, fazendo cessar o vínculo associativo e impedindo a aquisição de título associativo pelo apelado, com retenção da quase totalidade dos valores pagos por este, seja porque não há previsão contratual neste aspecto, seja porque equivaleria a admitir que o recorrente adotasse comportamento contraditório àquele manifestado anteriormente, em inaceitável preterição ao princípio da boa-fé objetiva -, é inviável em sede de recurso especial, ut súmulas 5/STJ e 7/STJ.
+Portanto, as razões apresentadas nos embargos de declaração não evidenciam a existência de nenhum dos vícios previstos no art. 1.022 do CPC/2015; ao revés, todas as questões foram analisadas e decididas, ainda que contrariamente à pretensão da parte embargante, o que, por si só, inviabiliza o acolhimento dos declaratórios.
+Diante do exposto, rejeita-se os embargos de declaração.
+Publique-se.
+EMENTA
