@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, dar parcial provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE FURTO. DOSIMETRIA DA PENA. PERSONALIDADE DO AGENTE. REPETITIVO N. 1.077 DO STJ. REGIME SEMIABERTO. SÚMULA N. 269 DO STJ. DETRAÇÃO. IRRELEVÂNCIA. JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ.
+1. "Condenações criminais transitadas em julgado, não consideradas para caracterizar a reincidência, somente podem ser valoradas, na primeira fase da dosimetria, a título de antecedentes criminais, não se admitindo sua utilização para desabonar a personalidade ou a conduta social do agente" (Tema Repetitivo n. 1.077. REsp n. 1.794.854/DF, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 23/6/2021, DJe de 1/7/2021).
+2. "É admissível a adoção do regime prisional semi-aberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais" (Súmula n. 269 do STJ).
+3. "O Tribunal de Justiça impôs o regime mais gravoso - semiaberto - ao ora agravante em razão de sua reincidência. Assim, mostra-se irrelevante a discussão acerca do tempo de prisão provisória, conforme dispõe o art. 387, § 2º, do CPP, para fins de escolha do regime inicial de cumprimento da pena. Precedentes desta Corte. Súmula n. 83/STJ" (AgRg no AgRg no AREsp n. 2.279.744/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/8/2023, DJe de 30/8/2023).
+4. Agravo regimental parcialmente provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão da Presidência do STJ que não conheceu do agravo em recurso especial fazendo incidir a Súmula n. 182/STJ.
+Alega o agravante que impugnou os fundamentos da decisão agravada exatamente nas razões do agravo contido nas fls. 235-238, a teor das considerações ali expostas. Assim, aduz que não incide no caso a Súmula n. 182/STJ.
+Requer a reconsideração da decisão agravada ou a apreciação do recurso pela Turma Julgadora.
+O Ministério Público Federal opina pelo não provimento do regimental.
+As contrarrazões são apresentadas (fls. 308-310).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE FURTO. DOSIMETRIA DA PENA. PERSONALIDADE DO AGENTE. REPETITIVO N. 1.077 DO STJ. REGIME SEMIABERTO. SÚMULA N. 269 DO STJ. DETRAÇÃO. IRRELEVÂNCIA. JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ.
+1. "Condenações criminais transitadas em julgado, não consideradas para caracterizar a reincidência, somente podem ser valoradas, na primeira fase da dosimetria, a título de antecedentes criminais, não se admitindo sua utilização para desabonar a personalidade ou a conduta social do agente" (Tema Repetitivo n. 1.077. REsp n. 1.794.854/DF, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 23/6/2021, DJe de 1/7/2021).
+2. "É admissível a adoção do regime prisional semi-aberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais" (Súmula n. 269 do STJ).
+3. "O Tribunal de Justiça impôs o regime mais gravoso - semiaberto - ao ora agravante em razão de sua reincidência. Assim, mostra-se irrelevante a discussão acerca do tempo de prisão provisória, conforme dispõe o art. 387, § 2º, do CPP, para fins de escolha do regime inicial de cumprimento da pena. Precedentes desta Corte. Súmula n. 83/STJ" (AgRg no AgRg no AREsp n. 2.279.744/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/8/2023, DJe de 30/8/2023).
+4. Agravo regimental parcialmente provido.
+VOTO
+Afasta-se a aplicação da Súmula n. 182/STJ, pois o agravo em recurso especial é tempestivo e ataca os fundamentos da decisão agravada, motivo pelo qual deve ser conhecido.
+O agravante foi condenado pela prática do delito do art. 155, caput, do Código Penal, à pena de 1 ano e 2 meses de reclusão, no regime inicial fechado, além do pagamento de 11 dias-multa.
+No recurso especial, com arrimo no art. 105, III, a, da Constituição Federal, aponta violação dos seguintes dispositivos:
+a) art. 59 do Código Penal, ao argumento de que é inválida a valoração negativa quanto à personalidade do agente, pois que baseada tão somente nos antecedentes criminais ali mencionados;
+b) art. 33, §§ 2º e 3º, do CP, pois que não pode a reincidência, por si só, ser determinante para a fixação de regime prisional mais rigoroso, no caso o fechado; e
+c) art. 387, § 2º, do Código de Processo Penal, sustentando ser cabível a análise do tempo de prisão preventiva visando a fixação do regime inicial.
+Requer o provimento do recurso.
+A propósito da dosimetria da pena, consta da sentença (fls. 134-135):
+Passo à individualização da pena, mirando certidões e folhas de antecedentes.
+O réu ostenta perfil voltado à prática delitiva, a justificar o aumento da pena em 1/6, para 1 ano 2 meses de reclusão, e 11 dias-multa.
+É reincidente, de sorte a justificar nova elevação da pena em 1/6,para 1 ano, 4 meses e 10 dias de reclusão, e 12 dias-multa. Compenso a reincidência com a confissão, voltando a pena a 1 ano e 2 meses de reclusão e 11 dias-multa.
+Nada mais a ser considerado, a pena fica estabelecida em 1 ano,2 meses de reclusão, e 11 dias-multa.
+O regime prisional, observando a fundamentação da individualização da pena, as certidões e as folhas de antecedentes do réu, é o fechado. A prisão cautelar compreende pequeno lapso de tempo a impedir que se cogite detração, a questão sendo remetida para a fase de cumprimento da sentença.
+Por sua vez, consta do acórdão atacado (fls. 191-192):
+Assim, demonstrada a materialidade, a par de apurada a autoria do crime à exaustão, a condenação é a providência que se impõe, tendo o julgador singular fixado a pena-base um sexto(1/6) acima do mínimo legal, a perfazer um (1) ano e dois (2) meses de reclusão, mais onze (11) dias multa em face de circunstância judicial desfavorável representada pela personalidade proeminentemente desajustada do agente.
+No caso, o incremento se justifica porque o apelante ostenta TRÊS condenações pretéritas e imutáveis noticiadas a fls.81/82, duas delas por roubos majorados e já alcançadas pelo quinquênio depurador (autos nº. 0020814-24.2003.8.26.0068 e 0030601-60.2008.8.26.0405), enquanto a outra denota a reincidência sopesada na segunda etapa da dosimetria (autos nº 1521704-78.2019.8.26.0050), inferindo-se da situação inaceitável recalcitrância à emenda.
+Ademais, o acusado praticou o delito descrito na denúncia cinco dias depois de beneficiado com o alvará de soltura decorrente do cumprimento de pena por delito idêntico (certidão a fls.83 autos da execução nº. 0018125-04.2019.8.26.0502), saltando aos olhos a personalidade desvirtuada do agente, que continua deliberadamente a delinquir ou persistir na senda do crime, quadro revelador de total menoscabo para com o ordenamento jurídico pátrio, tudo a justificar o incremento da basilar.
+Em verdade, o acusado foi beneficiado com o módico incremento, vedada a revisão do julgado ante a inércia da Justiça Pública.
+Já na segunda fase da dosimetria, compensou-se a reincidência específica (condenação pretérita e definitiva por delito idêntico noticiada a fls. 81 e não alcançada pelo quinquênio depurador autos nº. 1521704-78.2019.8.26.0050) com a atenuante da confissão espontânea, concretizando-se a reprimenda no patamar antes especificado, unidade da pecuniária no piso, à míngua de outras causas modificadoras.
+Na realidade, equivocada a compensação operada em primeiro grau, em nítido desacordo com remansosa, pacífica e atual jurisprudência do SUPREMO TRIBUNAL FEDERAL (competente para "dizer o Direito" em última instância) a respeito, fruto de interpretação sistemática do artigo 67 do Código Penal (STF, HC 108.391/MG; RHC 110.727/DF; RHC 115994/DF; RHC 120677/SP; HC 105543/MS; HC 125.361/MG; RE 942066/GO; HC 133.577/DF e RE 970.231/SP), sem se olvidar da incompatibilidade entre a circunstância descrita no artigo 65, inciso III, "d", do Código Penal e a prisão em flagrante (STF, HC 101861/MS; HC 108148/MS; HC 102002/RS; Recurso Ordinário em HC 133.276/SP).
+De resto, o regime fechado para início de cumprimento da corporal é o único adequado diante das circunstâncias judiciais negativas e reincidência antes reportadas(artigo 33, §§ 2º e 3º, do Código Penal), peculiaridades incondizentes com retiro menos severo.
+Como se vê, as instâncias de origem entenderam pela valoração negativa das circunstâncias judiciais do art. 59 do CP, em relação à personalidade do agente. No entanto, mostra-se inválida a fundamentação desenvolvida pois que foram considerados os diversos processos a que responde o agravante para então concluir por sua personalidade desvirtuada e/ou de total menoscabo para com o ordenamento jurídico pátrio.
+Cumpre consignar o entendimento do STJ constante do Tema Repetitivo n. 1.077 no sentido de que "Condenações criminais transitadas em julgado, não consideradas para caracterizar a reincidência, somente podem ser valoradas, na primeira fase da dosimetria, a título de antecedentes criminais, não se admitindo sua utilização para desabonar a personalidade ou a conduta social do agente" (REsp n. 1.794.854/DF, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 23/6/2021, DJe de 1/7/2021).
+Dessa forma, cabível nova dosimetria da pena.
+Na primeira fase, não mais incidindo circunstâncias judiciais desfavoráveis a pena é fixada no mínimo legal de 1 ano de reclusão e 10 dias-multa.
+Na segunda fase, fica mantida a compensação da agravante da reincidência com a atenuante da confissão.
+Inexistindo causas de aumento e de diminuição da pena na terceira fase, resta fixada a pena em 1 ano de reclusão e 10 dias-multa.
+Relativamente ao regime inicial, a teor do art. 33, § 2º, "c" e 59 do CP, e considerando a reincidência, fixa-se o regime inicial semiaberto. A respeito, incide a Súmula n. 269 do STJ: "É admissível a adoção do regime prisional semi-aberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+Por fim, relativamente à detração, "O Tribunal de Justiça impôs o regime mais gravoso - semiaberto - ao ora agravante em razão de sua reincidência. Assim, mostra-se irrelevante a discussão acerca do tempo de prisão provisória, conforme dispõe o art. 387, § 2º, do CPP, para fins de escolha do regime inicial de cumprimento da pena. Precedentes desta Corte. Súmula n. 83/STJ" (AgRg no AgRg no AREsp n. 2.279.744/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/8/2023, DJe de 30/8/2023).
+Aplicável pois, neste ponto, a Súmula n. 83 do STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Ante o exposto, dou parcial provimento ao agravo regimental para reduzir a pena do agravante para 1 ano de reclusão e 10 dias-multa, em regime inicial semiaberto.
+É o voto.
