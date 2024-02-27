@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por DANIEL RODRIGO DE LIMA em face da decisão proferida às e-STJ fls. 48/50.
+Em suas razões (e-STJ fls. 78/79), o embargante sustenta que a decisão embargada foi omissa ao não examinar a tese que apontou a ocorrência de indevido bis in idem na utilização de determinada circunstâncias para exasperar a pena-base e, concomitantemente, para recrudescer o regime prisional. Aponta que, no Habeas Corpus nº 861.288 -SP (2023/0374288-7) houve julgamento do mérito em decisão publicada em 30/10/2023, que confirmou colegiadamente que a gravidade concreta da conduta perpetrada pelo paciente justifica o recrudescimento da pena. Acatamos e não estamos mais discutindo essa questão neste novo RHC, tão somente o bis in idem na aplicação da dosimetria (e-STJ fl. 78).
+Ao final, pede o acolhimento dos presentes embargos.
+É o relatório. Decido.
+É ressabido que os embargos de declaração são cabíveis quando o provimento jurisdicional padece de ambiguidade, obscuridade, contradição ou omissão, nos ditames do art. 619 do Código de Processo Penal, bem como para sanar eventual erro material.
+No caso, inexiste omissão, contradição, obscuridade ou ambiguidade a ser dirimida, tendo em vista que esta Corte já se manifestou, em anterior habeas corpus, acerca do adequado estabelecimento do regime inicial fechado fixado na origem, tal como consta da decisão retro (e-STJ fl. 49 - destaquei):
+O pedido de abrandamento do regime prisional ora apresentado já foi objeto de exame no HC n. 861.288/SP, anteriormente impetrado em favor do paciente, oportunidade em que esta Corte confirmou a idoneidade dos fundamentos utilizados na origem para o recrudescimento do regime inicial, inclusive que a existência de circunstâncias judiciais desfavoráveis, ou ainda, outra situação que demonstre a gravidade concreta do delito perpetrado, como in casu, são condições aptas a recrudescer o regime prisional (e-STJ fl. 42 do HC 861.288/SP).
+Assim, diversamente do que alega o impetrante, trata-se de mera reiteração de insurgência já submetida ao exame desta Corte, revelando-se incabível nova impetração, na esteira do disposto no art. 210 do Regimento Interno do STJ, in verbis (grifei): Quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente.
+Nesse sentido:  ..
+Com efeito, confirmada a legitimidade do regime inicial mais gravoso pela existência de circunstância judicial desfavorável, por consectário lógico, descabe falar em indevido bis in idem na utilização de determinada circunstância para exasperar a pena-base e, concomitantemente, para recrudescer o regime prisional.
+Portanto, os presentes embargos declaratórios não comportam acolhimento, na medida em que a decisão embargada não incorreu em nenhum vício que demande integração.
+Ante o exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
