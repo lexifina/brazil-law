@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo especial interposto por IVAN OLIMPIO DE ALMEIDA contra decisão que não admitiu o recurso especial fundado no art. 105, III, a, do art. 105 da Constituição Federal, que desafia acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba assim ementado (e-STJ, fl. 368):
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. PROCEDÊNCIA DOS PEDIDOS.
+IRRESIGNAÇÃO. NOTAS PROMISSÓRIAS ASSINADAS. CONSTITUIÇÃO DO TÍTULO EXECUTIVO. INTELIGÊNCIA DO ARTIGO 701, § 2º, DO CPC. DOCUMENTOS HÁBEIS PARA A PROPOSITURA DE AÇÃO MONITÓRIA. COBRANÇA DEVIDA. PROVADO PAGAMENTO AUSENTE. MANUTENÇÃO DA SENTENÇA. DESPROVIMENTO DO APELO.
+1 - Ainda que a relação seja regida pelo CDC, com oportuna inversão do ônus da prova, mas uma vez suficiente revelada a prestação do serviço médico, sem prova do pagamento referente à atividade desenvolvida, de forma escorreita foi reconhecido o dever de quitação da dívida. Processo monitório hígido e capaz de impor obrigação monetária.
+Nas razões do especial (e-STJ, fls. 381-399), o recorrente alegou, além de dissídio jurisprudencial, a violação aos arts. 3º, 397 e 405 do Código Civil; 75 e 76 da Lei Uniforme de Genebra; e 1º, § 2º, da Lei n. 6.899/1981.
+Sustentou, em síntese, que o negócio jurídico objeto da demanda é inválido, tendo em vista sua incapacidade e o diagnóstico da doença de Alzheimer.
+Discorreu sobre a hipervulnerabilidade da pessoa idosa, aduzindo que o recorrido utilizou de má-fé para obter a assinatura das notas promissórias.
+Asseverou que as notas promissórias cobradas na ação monitória não observaram os requisitos legais, perdendo a característica de prova escrita.
+Refutou a cobrança da correção monetária e a incidência de juros de mora, desde a data pretendida pelo ora recorrido (julho/2012), "uma vez que não houve menção expressa quanto à data de vencimentos da suposta dívida" (e-STJ, fl. 398).
+Pugnou pela improcedência da ação monitória em todos os termos.
+As contrarrazões foram apresentadas às fls. 403-412 (e-STJ).
+O processamento do apelo especial não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo (e-STJ, fls. 430-446).
+Brevemente relatado, decido.
+Ao analisar a situação jurídica dos autos, o Colegiado estadual confirmou a constituição do crédito pleiteado na demanda monitória, declinando a seguinte fundamentação (e-STJ, fls. 370-373):
+O cerne da questão gira em torno da sentença que rejeitou os embargos monitórios para julgar procedente a ação monitória interposta pelo autor, declarando constituído de pleno direito o título executivo judicial que fundamenta a ação no valor de R$ 204.745,17 (duzentos e quatro mil setecentos e quarenta e cinco reais e dezessete centavos).
+Das razões recursais, vê-se que o apelante alega que o suposto negócio jurídico celebrado entre as partes ocorreu no ano de 2002 e, ao tempo desse negócio, ainda não vigorava a Lei nº 13.146/2015, bem como, à época, o apelante já apresentava as limitações decorrentes do Mal de Alzheimer e que a nota promissória não indica o nome da pessoa a quem ou à ordem de quem deve ser paga, muito menos informa o lugar onde a nota promissória é passada, sequer consta a data de vencimento.
+Sobre o tema, é preciso destacar que a Ação Monitória é procedimento especial, em que o credor busca o pagamento de soma em dinheiro ou outra coisa fungível, tendo como base prova escrita sem força executiva:
+"Art. 700 - CPC. A ação monitória pode ser proposta por aquele que afirmar, com base em prova escrita sem eficácia de título executivo, ter direito de exigir do devedor capaz:
+I - o pagamento de quantia em dinheiro;
+II - a entrega de coisa fungível ou infungível ou de bem móvel ou imóvel;
+III - o adimplemento de obrigação de fazer ou de não fazer;".
+Para tanto, permite-se que o credor, diante de uma prova documental do crédito, que não goze de força executiva, reduza o tempo e simplifique o procedimento para a satisfação do seu crédito.
+ ..
+Trata-se de um procedimento destinado tão somente àqueles que têm prova documental da dívida, prova esta que não é hábil a instruir uma ação de execução, mas que prescinde da ação de cognição ordinária para declaração de sua existência. Sendo assim, no procedimento monitório, a inicial deve vir instruída com os documentos necessários ao convencimento do juiz, demonstrando ao menos indícios da existência de débito a ser adimplido e titularidade do direito, haja vista nesta fase o magistrado julgar de acordo com sua convicção quanto ao mérito da pretensão do autor, com base nos elementos presentes nos autos. Assim, cabe ao promovente o início de prova escrita, com certeza quanto ao valor devido e o devedor, e ao réu, nos embargos monitórios, demonstrar fatos aptos a desconstituir a força dos documentos nos quais a ação monitória é embasada.
+In casu, o autor/apelado cumpriu os requisitos previstos em lei, juntando documentos hábeis para instruir a ação monitória, quais sejam, notas promissórias assinadas pelo devedor/recorrente (ID nº13117385 - págs. 11/13) e planilhas de serviços prestados pelo autor/apelado (ID nº 13117385 - págs.51/87). Vê-se nos autos discriminados todos os serviços realizados pelo autor, com a prestação de serviços devidamente certificados.
+ ..
+Caberia, assim, à parte apelante, com o ônus da prova que lhe incumbia, demonstrar a existência de fato impeditivo, modificativo ou extintivo do direito da autora, nos termos do art. 373, II, CPC. Todavia, não há nos autos documento capaz de confrontar a pretensão do autor/apelado em receber o seu crédito, representado pelas demonstrações que embasaram a presente ação. Portanto, o sistema de distribuição do ônus probatório previsto no Diploma Processual é claro no sentido de que a prova dos fatos incumbe à parte que os alegar.
+ ..
+Por conta disso, ainda que a relação seja regida pelo CDC, com oportuna inversão do ônus da prova, resta suficiente comprovada a realização dos serviços apontados na inicial, sem que a empresa apelante tenha demonstrado a prova do pagamento da dívida imputada a ela correspondente. Com base em tais dados, verifico que cobrança realizada por meio do processo monitório e acolhido por sentença desmerece reparos. Afinal, a prestação de serviços foi realizada pelo promovido, ora recorrente. Isto posto, NEGO PROVIMENTO AO RECURSO APELATÓRIO. mantendo inalterada a sentença recorrida.
+Como se depreende das razões expendidas, em que pese toda a argumentação expendida, o conteúdo normativo referente aos arts. 3º, 397 e 405 do Código Civil; 75 e 76 da Lei Uniforme de Genebra; e 1º, § 2º, da Lei n. 6.899/1981, não foi debatido na origem, não tendo servido de base à conclusão adotada pela Corte local.
+Com efeito, o prequestionamento ocorre quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, o que não se deu na presente hipótese.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS. PREQUESTIONAMENTO. AUSÊNCIA. FALTA DE INDICAÇÃO DO ART. 1.022 DO CPC/2015. SÚMULAS 211/STJ, 282 E 356/STF. VIOLAÇÃO DE NORMA QUE NÃO SE ENQUADRA NO CONCEITO DE LEI FEDERAL. DESCABIMENTO. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. DECISÃO MANTIDA.
+1. Ação de obrigação de fazer cumulada com indenização por danos morais.
+2. A ausência de apreciação do tema proposto e a falta de indicação do dispositivo pertinente atrai a incidência das Súmulas 282 e 356/STF e 211/STJ.
+3. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional, de súmula ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+4. O dissídio jurisprudencial exige a indicação dos dispositivos legais que supostamente foram objeto de interpretação divergente.
+Ausente tal requisito, incide a Súmula 284/STF.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.988.451/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 3/10/2022, DJe de 5/10/2022.)
+Importante assinalar, por oportuno, que o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, a parte recorrente suscite a violação ao art. 1.022 do mesmo diploma e a afronta ao citado dispositivo for reconhecida por este Tribunal Superior, o que não ocorreu no caso dos autos.
+A propósito:
+PROCESSUAL CIVIL. CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELO NOBRE. AÇÃO DE OBRIGAÇÃO DE FAZER C.C. PEDIDO INDENIZATÓRIO. VIOLAÇÃO DO DISPOSTO NO ART. 1.022 DO NCPC. OMISSÃO. INEXISTÊNCIA. ACÓRDÃO QUE ABORDOU TODOS OS TEMAS NECESSÁRIOS AO DESLINDE DA CONTROVÉRSIA. OFENSA A COISA JULGADA. AUSÊNCIA DE PREQUESTIONAMENTO E DE OFENSA, NESTE PONTO, AO ART. 1.022 DO NCPC. INCIDÊNCIA DA SÚMULA N.º 211 DO STJ. INEXISTÊNCIA DE ATO ILÍCITO E AFASTAMENTO DOS DANOS MORAIS. FALTA DE IMPUGNAÇÃO DE FUNDAMENTO SUFICIENTE DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA N.º 283 DO STF, POR ANALOGIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexistentes omissão, contradição ou obscuridade, vícios elencados no art. 1.022 do NCPC, forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já havia sido analisada pelo acórdão vergastado.
+2. A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial e a falta de alegação de violação do art. 1.022 do NCPC, quanto ao ponto, evidenciam a falta de prequestionamento (Súmula n.º 211 do STJ), mesmo tendo sido opostos embargos de declaração na origem.
+3. A ausência de combate aos fundamentos do acórdão recorrido, suficientes por si só, para a manutenção do decidido acarreta a incidência, por analogia, da Súmula n.º 283 do STF.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.160.731/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 6/3/2023, DJe de 9/3/2023.)
+Constata-se, ademais, que a conclusão do Tribunal local acerca da suficiência probatória quanto à existência do débito foi alicerçada em fatos e provas inseridos nos autos, o que impede o STJ de modificar o entendimento adotado, ante a incidência da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta d ecisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, ambos do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. NOTAS PROMISSÓRIAS. MATÉRIA NÃO ENFRENTADA PELO TRIBUNAL DE ORIGEM SOB O ENFOQUE PRETENDIDO. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS LEGAIS INDICADOS COMO VIOLADOS. SÚMULA 211/STJ. COMPROVAÇÃO PROBATÓRIO. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
