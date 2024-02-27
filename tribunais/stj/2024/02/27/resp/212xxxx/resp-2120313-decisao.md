@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado:
+PREVIDENCIÁRIO. RMI. MAJORAÇÃO DO TETO DOS SALÁRIOS DE CONTRIBUIÇÃO. EMENDAS CONSTITUCIONAIS 20/98 E 41/2003. DECADÊNCIA. INOCORRÊNCIA. EFEITOSRETROATIVOS. POSSIBILIDADE. TERMO INICIAL. ACESSÓRIOS.
+1. Caso em que se pretende a revisão do benefício de aposentadoria concedida em 31.08.1989, a fim de se adequar o valor da renda mensal inicial aos tetos limites introduzidos nas EC 20/98 e EC41/2003, respectivamente;
+2. Não se há falar de prazo decadencial, previsto no art. 103, da Lei nº 8.213/91 e/ou prescrição do fundo de direito, pois não se pretende atacar ato "in concreto" praticado administrativamente, mas a majoração do valor do salário de benefício em conformidade com as alterações trazidas pela nova legislação;
+3. O STF já firmou posicionamento do sentido de que "não ofende o ato jurídico perfeito a aplicação imediata do art. 14, da EC 20/98 e 41/2003 aos benefícios previdenciários limitados ao teto do regime geral da previdência estabelecido antes da vigência dessas normas, de modo que passem a observar ao novo teto constitucional";
+4. Constatando-se nos autos que a RMI da aposentadoria em questão restou por ser limitada ao teto vigente à época da concessão do benefício, conforme documentação constante nos autos, é devida aplicação dos novos limites previstos nas emendas constitucionais elencadas;
+5. O termo inicial dos efeitos da condenação deve retroagir aos cinco últimos anos anteriores ao ajuizamento da presente demanda, tal como já reconhecido na sentença;
+6. A atualização monetária das parcelas em atraso deve ser realizada segundo os critérios estabelecidos no Manual de Cálculos da Justiça Federal e os juros de mora devem ser os aplicados à caderneta de poupança, os quais correspondem a 0,5%, a partir da citação;
+7. Apelações desprovidas.
+Os Embargos de Declaração não foram providos.
+Em suas razões, o INSS sustenta ofensa aos arts. 103 e 144 da Lei 8.213/1991; 37 da Lei 8.213/1997; 37 do Decreto 3.048/1999; 240 do CPC/2015; e 1º-F, da Lei 9.494/1997 (art. 5º da Lei 11.960/2009). Requer que seja reformado o "acórdão recorrido, reconhecer a ocorrência da decadência e/ou determinar-se a impossibilidade de majoração do benefício do autor, tendo em vista que não restou nenhum efeito patrimonial da incidência do teto quando da entrada em vigor das EC 20/98 e 41/03. Alternativamente, requer seja fixado que o início do pagamento das parcelas em atraso deve retroagir à data da citação, bem como determinado que, a partir de 29.06.2009, os juros e a correção mo0netária incidam nos termos do art.1º-F da Lei nº 9.494/94" (fl. 15, e-STJ).
+O Recurso Especial foi admitido na origem no tocante à matéria referente ao termo inicial dos efeitos financeiros da condenação. Contudo, quanto à discussão acerca da possibilidade de o benefício ser readequado aos novos tetos constitucionais e em relação aos consectários legais da condenação, teve seu seguimento negado (fls. 1-2, e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 2 de fevereiro de 2024.
+Primeiramente, é importante ressaltar que o Recurso está limitado às questões remanescentes, tendo em vista que já há solução quantos aos consectários de juros e correção monetária e quanto ao tema afeito à interrupção da prescrição.
+No que se refere à decadência, é relevante observar que as Turmas da Primeira Seção do STJ mantêm uma posição unificada de que, quando se trata de requerimento para ajustar o valor do benefício do segurado aos novos limites estabelecidos pelas Emendas Constitucionais 20/1998 e 41/2003, e não uma revisão do ato de concessão desse benefício, não é apropriado discutir a aplicação do prazo de decadência estipulado no art. 103, caput, da Lei 8.213/1991. Nesse sentido:
+PREVIDENCIÁRIO VIOLAÇÃO DO ART. 535 DO CPC/73. INEXISTÊNCIA. INTERESSE DE AGIR. DESNECESSIDADE DE PRÉVIO REQUERIMENTO ADMINISTRATIVO. REVISÃO DE BENEFÍCIO. APLICAÇÃO IMEDIATA DOS TETOS PREVISTOS NAS ECS N. 20/98 E N. 41/2004. NORMAS SUPERVENIENTES. PRAZO DECADENCIAL PREVISTO NO ART. 103 DA LEI N. 8.213/91. NÃO INCIDÊNCIA. RECURSO ESPECIAL IMPROVIDO.
+(..)
+IV - Quanto à decadência, importante esclarecer que o objeto do prazo decadencial previsto no art. 103 da Lei n. 8.213/91 é a revisão do ato de concessão do benefício previdenciário. Assim, considerando que o caso concreto refere-se ao direito de reajustar a renda mensal conforme os novos valores de teto de benefício definidos nas Emendas Constitucionais n. 20/1998 e n. 41/2003, direito esse superveniente ao ato concessório do benefício, não há falar em incidência do citado prazo decadencial. Precedentes: REsp 1.576.842/PR, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 17/5/2016, DJe 1/6/2016 e REsp 1.420.036/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 28/4/2015, DJe 14/5/2015.
+V - Agravo interno improvido.
+(AgInt no REsp n. 1.631.526/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJe de 6/3/2018.)
+No mais, verifica-se que não houve o prequestionamento da tese recursal quanto à suposta contrariedade aos arts. 37 da Lei 8.213/1997, 37 do Decreto 3.048/1999 e 240 do CPC/2015, porquanto a questão postulada não foi examinada na origem sob o viés pretendido pela parte. Ante a falta desse requisito, incide no ponto o óbice da Súmula 211/STJ.
+Nesse contexto, caberia à parte recorrente, nas razões do REsp, indicar ofensa ao art. 1.022 do CPC/2015, alegando a existência de possível omissão, providência da qual não se desincumbiu.
+Saliente-se, por oportuno, que a jurisprudência do STJ firmou-se no sentido de que o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, pressupõe que a parte recorrente, após a oposição dos Embargos de Declaração na origem, também suscite nas razões recursais violação do art. 1.022 do CPC/2015, por negativa de prestação jurisdicional, pois somente dessa forma é que o ó rgão julgador poderá verificar a existência do vício e proceder à supressão de grau.
+Diante do exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
