@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto por CARLOS PIETRO e OUTROS contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+USUCAPIÃO Decisão que indeferiu o ingresso dos contestantes no polo ativo Inconformismo dos réus Preliminar de nulidade da decisão afastada Mérito Não acolhimento Causa de pedir dos autores fundamentada na posse exclusiva destes sobre a integralidade do imóvel Manutenção dos réus no polo passivo para demonstração da existência de fato impeditivo do direito autoral Possibilidade de usucapião entre coerdeiros, fundada em posse própria e inequívoca sobre a totalidade do bem comum Recurso desprovido.
+Nas razões do recurso especial, a parte recorrente alega, além de dissídio jurisprudencial, ofensa aos arts. 489 do CPC/2015 e 1.791, parágrafo único, do Código Civil. Sustenta, em síntese, que: a) não houve manifestação acerca da necessidade de inclusão dos coproprietários no polo ativo; e b) é incabível a usucapião entre os herdeiros do imóvel.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Inicialmente, rejeita-se a alegada violação dos art. 489 do CPC/2015, uma vez que o eg. TJ-SP analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação.
+Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA C/C PEDIDO DE COMPENSAÇÃO POR DANOS MORAIS. CUMPRIMENTO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, ERRO MATERIAL OU OBSCURIDADE. AUSÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. COMPENSAÇÃO COM PREJUÍZO DE DIREITO DE TERCEIRO. IMPOSSIBILIDADE.
+(..)
+3. Devidamente analisada e discutida a questão controvertida, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+(..)
+7. Agravo interno não provido."
+(AgInt no AgInt no AREsp 1576971/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 01/06/2020, DJe 04/06/2020)
+Quanto à possibilidade da usucapião, o Tribunal de origem, analisando as circunstâncias do caso, assim dirimiu a controvérsia:
+No mérito, o recurso não comporta provimento.
+Ao contrário do que sustentam os agravantes, a causa de pedir dos autores está fundamentada na posse exclusiva destes sobre a totalidade do imóvel, razão pela qual não era mesmo o caso de colocar os demais herdeiros no polo ativo e, sim, no polo passivo para contestar a ação e demonstrar a existência de fato impeditivo do direito do autor (art. 373, II do Código de Processo Civil).
+Ademais, o entendimento desta Câmara é no sentido de que se afigura perfeitamente possível a usucapião entre condôminos, desde que verificados os requisitos inerentes à modalidade da prescrição aquisitiva. Nesse sentido:
+Sobre o tema, tem-se que a jurisprudência desta Corte se firmou no sentido de que "o condômino tem legitimidade para usucapir em nome próprio, desde que exerça a posse por si mesmo, ou seja, desde que comprovados os requisitos legais atinentes à usucapião, bem como tenha sido exercida posse exclusiva com efetivo animus domini pelo prazo determinado em lei, sem qualquer oposição dos demais proprietários" (REsp n. 668.131/PR, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 19/8/2010, DJe 14/9/2010).
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO EXTRAORDINÁRIA. CONDOMÍNIO. CONCLUSÃO DO ACÓRDÃO RECORRIDO PELA AUSÊNCIA DE ANIMUS DOMINI. MERA PERMISSÃO DOS COPROPRIETÁRIOS. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 7 E 83/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. Com efeito, segundo a jurisprudência desta Corte Superior, "o condômino tem legitimidade para usucapir em nome próprio, desde que exerça a posse por si mesmo, ou seja, desde que comprovados os requisitos legais atinentes à usucapião, bem como tenha sido exercida posse exclusiva com efetivo animus domini pelo prazo determinado em lei, sem qualquer oposição dos demais proprietários" (REsp n. 668.131/PR, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 19/8/2010, DJe 14/9/2010).
+2. Na hipótese, o Tribunal estadual, ao dirimir a controvérsia, concluiu não ser possível o reconhecimento da usucapião extraordinária, uma vez que não houve comprovação do animus domini, na medida em que a posse exercida pelos recorrentes resultou de atos de mera permissão dos demais herdeiros e coproprietários do bem, sendo assim, não haveria necessidade de reabrir a instrução para a colheita de novas provas como pleiteado. Reverter a essa conclusão para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado em virtude da natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3. A análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula n. 7/STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas, sim, de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.021.731/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 29/5/2023, DJe de 1/6/2023.)
+Estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ, pelas alíneas "a" e "c" do permissivo constitucional.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
