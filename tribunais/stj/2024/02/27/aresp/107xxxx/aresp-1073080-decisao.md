@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo interposto por ELENIR AITA DE CESARO e outros (e-STJ fl. 1.462-1.527), contra decisão que inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição Federal, no qual impugna acórdão assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. DISSOLUÇÃO E LIQUIDAÇÃO DE SOCIEDADE.
+- É ser mantida a sentença de procedência da ação que julgou extinta, sem resolução de mérito, em face de litispendência.
+- Quanto a ação de cobrança dos autores, pela prova dos fatos constitutivos de seus direitos, também deve ser mantida, mas reconhecido que não foi atendido ao quantum presumidamente inicialmente pretendido.
+- Considerando que a sucumbência é recíproca, com difícil verificação matemática, deve tal ônus ser suportados a razão de 30% para a parte autora e 70% para a parte ré.
+- Os juros devem ter seu termo legal da citação.
+APELOS PARCIALMENTE PROVIDOS." (e-STJ fl. 1.092)
+Opostos embargos de declaração, foram eles rejeitados.
+Nas razões do recurso especial, alegou violação dos arts. 535 do CPC/73 e 7º da Lei 8.906/94. Sustentou, a par da negativa de prestação jurisdicional adequada, que não foi dado vistas aos patronos da ora agravante, inviabilizando a confecção de memoriais, bem como a sustentação oral para o julgamento da apelação. Concluiu ter havido cerceamento do direito de defesa e restrição indevida ao exercício profissional do advogado.
+Intimada, o prazo para apresentação de contraminuta transcorreu in albis (e-STJ, fls.1.529).
+Brevemente relatado, decido.
+A respeito da alegação de cerceamento de defesa e indevida restrição ao exercício da profissão de advogado, extrai-se do acórdão recorrido os seguintes esclarecimentos:
+"Registro, de inicio, que indefiro o pedido de vista e retirada dos autos fora de Secretaria das fls. 958-959, posteriormente ratificado à fl. 962, formulado pelo Dr. Ademir Canali Ferreira, procurador da parte autora, no intuito de melhor apreciar a matéria e apresentar memoriais, porquanto tal prerrogativa é assegurada aos advogados independente de autorização do juiz ou relator, nos termos do inciso XV do art. 7º da Lei 8.906/941 (Estatuto da Advocacia e a Ordem dos Advogados do Brasil - OAB), não tendo o nobre advogado relatado na petição qualquer obstáculo ao pleno exercício do seu direito que merecesse a intervenção do relator do recurso." (e-STJ fl. 1.098-1.099)
+Da leitura desse excerto inicial do voto condutor do julgamento de apelação na origem, evidencia-se que, ao contrário do sustentado, a questão foi expressamente enfrentada pelo acórdão recorrido, tendo sido indicado fundamento claro, coerente e suficiente para amparar a conclusão do eg. Tribunal de Justiça. Assim, não se cogita de vícios do art 535 do CPC/73.
+Impende ressaltar que, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte"(AgRg no Ag 56.745/SP, Rel. Ministro CESAR ASFOR ROCHA, DJ de 12/12/1994). Nesse sentido, confiram-se os seguintes julgados: REsp 209.345/SC, Rel.Ministro JOÃO OTÁVIO DE NORONHA, DJ de 16/5/2005; REsp 685.168/RS, Rel. Ministro JOSÉ DELGADO, DJ de 2/5/2005.
+Outrossim, afastada a alegação de vícios de fundamentação, verifica-se que a razão de decidir adotada pelo v. acórdão recorrido centra-se na inexistência de demonstração ou mesmo de indicação concreta de qualquer embaraço. Noutros termos, está reconhecido, nos autos, pela Corte local que os autos estavam à disposição das partes e seus procuradores, os quais não teriam trazido ao conhecimento do órgão julgador ou do relator nenhuma situação concreta de negativa de acesso aos autos.
+Desse modo, modificar a conclusão do v. acórdão recorrido para reconhecer a existência de ofensa ao art. 7º da Lei 8.906/94 demandaria o reexame de fatos, atividade que escapa aos limites de conhecimento desta Corte Superior na via estreita do recurso especial. Incide, portanto, a Súmula 7/STJ à hipótese dos autos.
+Com esses fundamentos, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO CAUTELAR DE ARRESTO. ALEGAÇÃO DE PERDA SUPERVENIENTE DE INTERESSE DE AGIR. AFASTAMENTO COM FUNDAMENTO EXCLUSIVO NAS PECULIARIDADES FÁTICAS. ALTERAÇÃO DA CONCLUSÃO. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL .
