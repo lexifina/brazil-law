@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto por ANTÔNIA LOPES DA SILVA contra v. acórdão do Eg. Tribunal de Justiça do Estado do Maranhão, assim ementado:
+"PROCESSUAL CIVIL. APELAÇÕES CÍVEIS. AÇÃO DE INDENIZAÇÃO. ABERTURA DE CONTA CORRENTE COMUM PARA RECEBIMENTO DE PROVENTOS. DESCONTO DE TARIFAS. TESE JURÍDICA FIXADA NO JULGAMENTO DO IRDR Nº 03.043/2017. DANO MORAL CONFIGURADO. QUANTUM ESTABELECIDO DE ACORDO COM O ENTENDIMENTO DETERMINADO NO IRDR. 1º APELO DESPROVIDO. 2º APELO DESPROVIDO.
+I. "Incidente de Resolução de Demandas Repetitivas julgado com a fixação da tese segundo a qual "É ilícita a cobrança de tarifas bancárias para o recebimento de proventos e/ou benefícios previdenciários, por meio de cartão magnético do INSS e através da conta de depósito com pacote essencial, sendo possível a cobrança de tarifas bancárias na contratação de pacote remunerado de serviços ou quando excedidos os limites de gratuidade previstos na Res. 3.919/2010 do BACEN, desde que o aposentado seja prévia e efetivamente informado pela instituição financeira." (TJMA, IRDR nº 3.043/2017, Tribunal Pleno, Rel. Des. Paulo Velten, DJe 28.08.2018).
+II. Conforme entendimento dominante da jurisprudência para casos semelhantes é razoável e proporcional a condenação ao pagamento de indenização por danos morais no valor de R$ 2.000,00 ( dois mil reais), devendo, pois, ser mantido.
+III. 1º apelo desprovido. 2º apelo desprovido, sem interesse ministerial." (e-STJ, fls. 211/212)
+Nas razões do recurso especial, a parte agravante alega violação dos arts. 1.022, do CPC/15; e 398, do CC, sustentando, em síntese, que: a) negativa de prestação jurisdicional; e b) "Quanto aos juros de mora, prefacialmente se faz destacar que a natureza jurídica da responsabilidade civil, para o presente caso, é de ordem extracontratual, haja vista que se originou da prática de um ato ilícito, porquanto não houve um vínculo anterior entre as partes que os ligassem por uma relação obrigacional." (e-STJ, fl. 254) e por consequência, o termo inicial deve ser o evento danoso.
+É o relatório. Decido.
+Não assiste razão à parte recorrente.
+Inicialmente, rejeita-se a alegada violação do art. 1.022 do CPC/2015, uma vez que o eg. TJ-MA analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação.
+Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação.
+Avançando, na hipótese, a parte alega que o termo inicial dos juros de mora deve coincidir com a data do evento danoso, por se tratar de responsabilidade extracontratual, todavia, foi exatamente nesse sentido a conclusão adotada pela Corte local, carecendo a parte recorrente de interesse em recorrer no ponto, posto seu êxito quanto à matéria. A propósito, confira-se o correspondente trecho do acórdão (e-STJ, fl. 217, g.n):
+"Desta feita, considerando que o valor arbitrado em sentença é compatível com o montante determinado no supracitado julgamento, mister a sua manutenção.
+E, em se tratando de responsabilidade extracontratual, como é o caso, aplicam-se juros de mora no percentual de 1% a.m. a partir do evento danoso (Súmula nº 54, STJ), qual seja o primeiro desconto indevido. A correção monetária incide, na indenização por danos morais, desde a data do arbitramento, isto é, a sentença (Súm.
+362, STJ), e, na indenização por danos materiais, a partir do efetivo prejuízo (Súm. 43, STJ), pelo índice INPC/IBGE, (art. 4º da Lei no 8.177/91)."
+Em face do exposto, nego provimento ao recurso especial.
+Descabida a majoração de honorários advocatícios determinada no agravo em recurso especial, porque não fixada na origem.
+Publique-se.
+EMENTA
