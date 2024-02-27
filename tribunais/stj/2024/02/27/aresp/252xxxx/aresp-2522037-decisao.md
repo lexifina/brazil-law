@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interposto por Adriana dos Santos Machado contra decisão que não admitiu o processamento do apelo extremo.
+Verifica-se que a agravante ajuizou ação revisional, julgada improcedente.
+Interposta apelação pela ora insurgente, a Décima Terceira Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul negou provimento ao recurso, em acórdão assim ementado (e-STJ, fl. 226):
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL. CONTRATO DE FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. JUROS REMUNERATÓRIOS. CAPITALIZAÇÃO. SEGURO DE PROTEÇÃO FINANCEIRA. COMPENSAÇÃO DE VALORES/REPETIÇÃO DO INDÉBITO. CARACTERIZAÇÃO DA MORA. TUTELA ANTECIPADA.
+DOS JUROS REMUNERATÓRIOS. Estando a taxa pactuada pelas partes dentro dos limites previstos na média de mercado apurada pelo BACEN, a pactuação em contrato deve ser preservada.
+DA CAPITALIZAÇÃO. É permitida a capitalização em periodicidade inferior à anual após a edição da Medida Provisória nº 2.170/2001, desde que expressamente pactuada. Precedentes. Súmulas 539 e 541 do STJ.
+DO SEGURO PRESTAMISTA. Não contém abusividade a cláusula que, em contrato celebrado a partir de 30.04.2008, permite ao consumidor optar, com nítida autonomia da vontade, pela contratação de seguro com a instituição financeira. Tese fixada nos Recursos Especiais Repetitivos nos 1.639.320/SP e 1.639.259/SP - TEMA 972. Inexistindo comprovação de venda casada, prevalece o avençado. DA COMPENSAÇÃO DE VALORES E DA REPETIÇÃO DO INDÉBITO. Não constatada abusividade nas cláusulas pactuadas pelas partes e mantida a contratação, não há falar em compensação de valores e/ou repetição do indébito.
+DA CARACTERIZAÇÃO DA MORA E DA TUTELA ANTECIPADA. Mantida a avença no período da normalidade contratual, resta caracterizada a mora em caso de inadimplemento contratual, nos termos do REsp nº 1.061.530/RS, possibilitando, por parte da instituição financeira, a inserção do nome da devedora em cadastro restritivo ao crédito, bem como a apreensão do veículo dado em garantia de alienação fiduciária.
+DA SUCUMBÊNCIA. Confirmada. Majorados os honorários advocatícios, diante do trabalho adicional à parte ré em grau recursal, nos termos do art. 85, § 11, do Código de Processo Civil.
+APELAÇÃO DESPROVIDA.
+Contrarrazões às fls. 301-315 (e-STJ).
+Foi negado seguimento ao recurso especial no tocante aos Temas 246 e 2487 do STJ e não admitido pela Corte local, sob o fundamentos da incidência da Súmula n. 5, 7 e 83 do STJ; e pela aplicação, por analogia, da Súmula n. 283/STF.
+Contraminuta às fls. 353-365 (e-STJ).
+Brevemente relatado, decido.
+De início, ressalte-se que é dever da parte recorrente combater especificamente todos os fundamentos da decisão agravada, demonstrando o desacerto do decisum que não admitiu o recurso especial, nos termos do que preconiza o art. 932, III, do Código de Processo Civil de 2015.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. No caso dos autos, não houve adequada impugnação dos fundamentos da decisão que inadmitiu o recurso especial, visto que a alegação de que o Tribunal de origem teria usurpado da competência do STJ ao negar seguimento ao apelo nobre não cumpre tal desiderato, uma vez que a alegação não encontra amparo na jurisprudência.
+2. "Não há usurpação da competência do Superior Tribunal de Justiça pela Corte Estadual, ao argumento de que houve o ingresso indevido no mérito do recurso especial por ocasião do juízo de admissibilidade, uma vez que constitui atribuição do Tribunal a quo o exame dos pressupostos específicos do apelo nobre relacionados ao mérito da controvérsia, nos termos da Súmula n. 123 desta Corte Superior de Justiça" (AgRg no AREsp n. 2.032.402/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 6/5/2022).
+3. "A alegação de suposta usurpação de competência desta Corte, por si só, não é suficiente para cumprir com o dever de impugnação dos fundamentos de inadmissibilidade do recurso especial" (AgInt no AREsp n. 2.098.383/BA, relator Ministro Manoel Erhardt (desembargador convocado do TRF5), Primeira Turma, DJe de 17/8/2022).
+4. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.163.781/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 4/12/2023, DJe de 6/12/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE PRÉVIA. PRERROGATIVA REGIMENTAL DA PRESIDÊNCIA DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA N. 182 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A competência da Presidência do Superior Tribunal de Justiça para não conhecer de recurso que seja inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida está prevista no art. 2 1-E, V, do RISTJ, não havendo falar em nulidade da decisão monocrática proferida antes da distribuição do processo.
+2. Em observância ao princípio da dialeticidade, mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, específica e motivada de todos os fundamentos da decisão que inadmite recurso especial, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.197.850/AP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 5/6/2023, DJe de 7/6/2023.)
+O mesmo entendimento foi manifestado pela Corte Especial do Superior Tribunal de Justiça no julgamento dos Embargos de Divergência em Agravo em Recurso Especial n. 746.775-PR.
+Confira-se:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, Relator o Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe 30/11/2018)
+No caso, a agravante não refutou a aplicação, por analogia, da Súmula n. 283/STF.
+Ante o exposto, não conheço do agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor dos advogados da parte recorrida em 2% (dois por cento) sobre o valor atualizado da causa, suspensa a exigibilidade em razão da gratuidade de justiça deferida à recorrente.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. ART. 932, III, DO CPC/2015. AGRAVO NÃO CONHECIDO.
