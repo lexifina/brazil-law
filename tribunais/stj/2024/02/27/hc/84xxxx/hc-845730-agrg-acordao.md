@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 21/02/2024 a 27/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. ORDEM DE HABEAS CORPUS CONCEDIDA PARA IMPRONUNCIAR O RÉU. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL EM REPERCUSSÃO GERAL. TEMA N. 154/STF.
+1. O Supremo Tribunal Federal, ao julgar o RE n. 593.443-RG/SP, sob o regime da repercussão geral, fixou o entendimento de que "qualquer decisão do Poder Judiciário que rejeite denúncia, que impronuncie ou absolva, sumariamente, os réus ou, ainda, que ordene a extinção, em sede de "habeas corpus", de procedimentos penais não transgride o monopólio constitucional da ação penal pública (CF, art. 129, I) nem ofende os postulados do juiz natural (CF, art. 5º, inciso LIII) e da soberania do veredicto do Júri (CF, art. 5º, inciso XXXVIII, c)" - Tema n. 154 do STF.
+2. No caso, o acórdão proferido pelo Superior Tribunal de Justiça está em consonância com a jurisprudência firmada pela Suprema Corte, motivo pelo qual a decisão que negou seguimento ao recurso extraordinário deve ser mantida.
+3. Agravo regimental a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL contra a decisão que negou seguimento ao recurso extraordinário assim ementada (fl. 158):
+RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL PENAL. HABEAS CORPUS. CONCESSÃO DA ORDEM DE OFÍCIO PARA IMPRONUNCIAR O RÉU. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL EM REPERCUSSÃO GERAL. TEMA N. 154/STF. NEGATIVA DE SEGUIMENTO.
+A parte agravante alega que o Tema n. 154 do Supremo Tribunal Federal seria inaplicável ao caso dos autos, por entender que a matéria tratada no leading case seria diversa da controvérsia suscitada na espécie.
+Discorre, nesse sentido (fls. 169-170):
+ ..  não se discute o instrumento utilizado para afastar a competência constitucional do júri (habeas corpus), mas, ao revés, o próprio descabimento de tal subtração de competência, por questão jurídica vinculada à tarifação probatória que tem sido observada para fins de avaliação da pronúncia, somente admitida em caso de produção de prova oral judicializada, desprezando-se hipóteses que contam com confirmação em juízo dos elementos de convicção da fase pré-processual (por exemplo, pelos agentes policiais responsáveis pela investigação), indicativos de que testemunhas e vítimas foram submetidas a ameaças, depoimentos indiretos, bem como provas irrepetíveis, cautelares e antecipadas, etc.
+Defende, assim (fl. 170):
+ ..  a impossibilidade da despronúncia operada pelo Superior Tribunal de Justiça em hipótese na qual há vertente probatória apta a respaldar a versão acusatória, o que impõe a necessidade de submissão do acusado a julgamento perante a Corte Popular, sob pena de usurpação de sua competência constitucional para julgamento dos crimes dolosos contra a vida.
+Requer o provimento do agravo para que o recurso extraordinário seja admitido e remetido ao Supremo Tribunal Federal.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. ORDEM DE HABEAS CORPUS CONCEDIDA PARA IMPRONUNCIAR O RÉU. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL EM REPERCUSSÃO GERAL. TEMA N. 154/STF.
+1. O Supremo Tribunal Federal, ao julgar o RE n. 593.443-RG/SP, sob o regime da repercussão geral, fixou o entendimento de que "qualquer decisão do Poder Judiciário que rejeite denúncia, que impronuncie ou absolva, sumariamente, os réus ou, ainda, que ordene a extinção, em sede de "habeas corpus", de procedimentos penais não transgride o monopólio constitucional da ação penal pública (CF, art. 129, I) nem ofende os postulados do juiz natural (CF, art. 5º, inciso LIII) e da soberania do veredicto do Júri (CF, art. 5º, inciso XXXVIII, c)" - Tema n. 154 do STF.
+2. No caso, o acórdão proferido pelo Superior Tribunal de Justiça está em consonância com a jurisprudência firmada pela Suprema Corte, motivo pelo qual a decisão que negou seguimento ao recurso extraordinário deve ser mantida.
+3. Agravo regimental a que se nega provimento.
+VOTO
+O STF, ao julgar o RE n. 593.443-RG/SP, sob o regime da repercussão geral, fixou a seguinte tese (Tema n. 154):
+Qualquer decisão do Poder Judiciário que rejeite denúncia, que impronuncie ou absolva, sumariamente, os réus ou, ainda, que ordene a extinção, em sede de "habeas corpus", de procedimentos penais não transgride o monopólio constitucional da ação penal pública (CF, art. 129, I) nem ofende os postulados do juiz natural (CF, art. 5º, inciso LIII) e da soberania do veredicto do Júri (CF, art. 5º, inciso XXXVIII, "c").
+O acórdão foi assim ementado:
+RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL RECONHECIDA. PRELIMINAR DE NÃO CONHECIMENTO DO RE. QUESTÃO SUPERADA. HABEAS CORPUS. CONCESSÃO DA ORDEM PELO SUPERIOR TRIBUNAL DE JUSTIÇA PARA TRANCAMENTO DA AÇÃO PENAL POR FALTA DE JUSTA CAUSA. ALEGAÇÃO DE TOLHIMENTO DE PRERROGATIVA EXCLUSIVA DO MINISTÉRIO PÚBLICO PARA PROVAR A ACUSAÇÃO, MEDIANTE AJUIZAMENTO DE AÇÃO PENAL. ABSOLVIÇÃO SUMÁRIA PROCEDIDA POR TRIBUNAL SUPERIOR, EM DETRIMENTO DA COMPETÊNCIA DO TRIBUNAL DO JÚRI. OFENSA AOS ARTS. 5º, XXXVIII, E 129, I, AMBOS DA CONSTITUIÇÃO FEDERAL. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 279 DO STF. RECURSO EXTRAORDINÁRIO A QUE SE NEGA PROVIMENTO.
+I - Havendo a Corte, por meio de seu Plenário Virtual, reconhecido a repercussão geral do tema constitucional debatido nos autos, deve prosseguir no julgamento de mérito da causa.
+II - Para se chegar à conclusão contrária à do acórdão recorrido seria necessário reexaminar o conjunto fático-probatório dos autos. Incidência da Súmula 279 do STF.
+III - Decisão judicial de rejeição de denúncia, impronúncia de réu, de absolvição sumária ou de trancamento de ação penal por falta de justa causa, não viola a cláusula constitucional de monopólio do poder de iniciativa do Ministério Público em matéria de persecução penal e tampouco transgride o postulado do juiz natural nos procedimentos penais inerentes ao Tribunal do Júri.
+III - Recurso extraordinário não provido.
+(RE n. 593.443, relator para o acórdão Ministro Ricardo Lewandowski, Tribunal Pleno, julgado em 6/6/2013, DJe de 22/5/2014.)
+Conforme registrado na decisão agravada, no acórdão impugnado pelo recurso extraordinário, concluiu-se pela impronúncia do réu, com o fundamento de que a decisão de pronúncia foi baseada somente em provas colhidas durante o inquérito policial e não submetidas ao crivo judicial, conforme se denota do seguinte excerto (fls. 112-116):
+Conforme foi dito na decisão impugnada, sabe-se que, embora a análise aprofundada das provas seja feita somente pelo Tribunal Popular, não se pode admitir a pronúncia do réu, dada a sua carga decisória, sem qualquer lastro probatório judicializado, fundamentada exclusivamente em elementos informativos colhidos na fase inquisitorial, mormente quando isolados nos autos e até em oposição parcial ao que se produziu sob o contraditório judicial.
+ ..
+No caso, verifica-se que a Corte local, ao reformar a sentença de impronúncia do paciente, considerou, expressamente, que à decisão de pronúncia não se aplica a regra contida no artigo 155 do Código de Processo Penal, em sentido contrário à orientação jurisprudencial desta Corte Superior.
+ ..
+Como se vê, a própria Corte local reconheceu que não houve a produção de elementos submetidos ao crivo judicial para embasar a pronúncia do paciente, motivo pelo qual se apoiou, apenas, em elementos da fase policial, especialmente a declaração da vítima na Delegacia de Polícia, que não foi confirmada em juízo, tampouco ratificada por outros meios de prova.
+Assim, o acórdão que pronunciou o paciente, por se basear exclusivamente em elementos da fase policial que não foram confirmados em juízo, violou frontalmente o art. 155 do CPP, motivo pelo qual a ordem deve ser concedida para restabelecer a sentença de impronúncia.
+Verifica-se, desse modo, que o julgado recorrido se encontra em consonância com a orientação firmada pela Suprema Corte, razão pela qual não há falar em ofensa ao art. 5º, XXXVIII, da Constituição Federal.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
