@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 21/02/2024 a 27/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. SUFICIÊNCIA DA FUNDAMENTAÇÃO DO JULGADO RECORRIDO. CONFORMIDADE COM O TEMA N. 339/STF. NEGATIVA DE SEGUIMENTO.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339 do STF, QO no Ag n. 791.292/PE).
+2. Existente a fundamentação, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, mesmo que a parte não a repute adequada ou completa, conforme a conclusão firmada no Tema n. 339 do STF, tese de observância obrigatória (CPC, art. 927, III).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que negou seguimento ao recurso extraordinário assim ementada:
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339/STF. CONFORMIDADE. NEGATIVA DE SEGUIMENTO.
+A parte agravante alega que esta Corte Superior teria deixado de exercer a função que lhe cabe de promover a devida prestação jurisdicional, razão pela qual seria inaplicável o Tema n. 339/STF ao caso.
+Sustenta que incidiria o Tema n. 670/STF, segundo o qual "possui repercussão geral a controvérsia relativa à nulidade do acórdão formalizado pelo Tribunal de origem, quando, instado a emitir entendimento sobre o tema de defesa versado no recurso, quedar-se silente, incorrendo em negativa de prestação jurisdicional".
+Requer o provimento do agravo para que o recurso extraordinário seja admitido e remetido ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. SUFICIÊNCIA DA FUNDAMENTAÇÃO DO JULGADO RECORRIDO. CONFORMIDADE COM O TEMA N. 339/STF. NEGATIVA DE SEGUIMENTO.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339 do STF, QO no Ag n. 791.292/PE).
+2. Existente a fundamentação, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, mesmo que a parte não a repute adequada ou completa, conforme a conclusão firmada no Tema n. 339 do STF, tese de observância obrigatória (CPC, art. 927, III).
+3. Agravo interno a que se nega provimento.
+VOTO
+Quanto à questão da adequada fundamentação das decisões judiciais, o STF, ao apreciar o Tema n. 339 de repercussão geral, firmou a seguinte tese vinculante: "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas."
+O respectivo acórdão recebeu a ementa que segue transcrita:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º).
+2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência.
+3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+Nessa linha, a existência de motivação suficiente para o deslinde da causa afasta a ocorrência de nulidade do provimento questionado, a despeito de a parte recorrente reputar as razões de decidir incorretas, incompletas ou demasiadamente sucintas.
+No caso, foram declinados, de forma suficiente, os motivos da compreensão adotada no julgado recorrido.
+A matéria invocada pela parte recorrente foi expressamente examinada pelo acórdão recorrido, consoante se observa na seguinte transcrição (fls . 1.111-1.114):
+No tocante à alegada responsabilidade supletiva do recorrente, afirmando ser irregular a cobrança direta do tributo, verifico que o Superior Tribunal de Justiça tem entendimento no sentido de que o art. 121 do CTN dispõe que o contribuinte e o responsável têm a mesma sujeição passiva para o pagamento da obrigação tributária, implicando na responsabilidade do recorrente.
+ ..
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+Com efeito, demonstrada a realização da prestação jurisdicional constitucionalmente adequada, ainda quando não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339 do STF, de observância obrigatória (CPC, art. 927, III).
+Ademais, com relação à incidência do Tema n. 670/STF, destaca-se que a controvérsia do caso dos autos não se enquadra no contexto da discussão analisada pela Suprema Corte.
+Observe-se que, no julgamento do Tema n. 670/STF (Nulidade de acórdão, proferido em controle abstrato de constitucionalidade estadual, por falta de fundamentação quanto à compatibilidade dos cargos em comissão, criados por lei municipal, com as atribuições de direção, chefia e assessoramento), o Supremo Tribunal Federal fixou a seguinte tese:
+I - No julgamento de Ação Direta de Inconstitucionalidade proposta para questionar a validade de leis que criam cargos em comissão, ao fundamento de que não se destinam a funções de direção, chefia e assessoramento, o Tribunal deve analisar as atribuições previstas para os cargos;
+II - Na fundamentação do julgamento, o Tribunal não está obrigado se pronunciar sobre a constitucionalidade de cada cargo criado, individualmente.
+Ante o exposto, nego provimento ao agravo interno.
+Advirto que a formalização de embargos de declaração com intuito manifestamente protelatório poderá ser sancionada com a multa prevista no art. 1.026, § 2º, do Código de Processo Civil.
+É como voto.
