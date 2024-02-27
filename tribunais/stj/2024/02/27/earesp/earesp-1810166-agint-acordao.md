@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 21/02/2024 a 27/02/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. NÃO IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU LIMINARMENTE O RECURSO. SÚMULA 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A decisão agravada não admitiu os Embargos de Divergência em razão da impossibilidade do exame do dissídio referente à interpretação das normas contidas no artigo 1.022, I e II, do CPC, e diante da falta de demonstração do dissídio jurisprudencial referente à tese vinculada ao exame da ofensa ao art. 966, V e VIII, § 5º, do CPC; art. 178, caput, do CC/ 1916 e 2.028 do CC/2002. Ocorre que o agravante não impugnou, especificamente, os aludidos fundamentos, razão pela qual incide ao caso o enunciado da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por J A R Projetos e Construções Civis Ltda. contra decisão, assim ementada (fl. 1.032):
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DIVERGÊNCIA. DISSÍDIO A RESPEITO DO ART. 1.022, I E II, DO CPC. CASUÍSTICA. EXAME. INVIABILIDADE. ART. 966, V E VIII, § 5º, ART. 178, CAPUT, DO CC/1916 E ART. 2.028 DO CC/2002. NÃO CUMPRIMENTO DO QUE DISPÕE O ARTIGO 266, § 1º, DO RISTJ. RECURSO INDEFERIDO LIMINARMENTE.
+O agravante sustenta, em síntese, que (fls. 1.043-1.044):
+ ..  ao julgar o recurso, esta E. Turma além de não eliminar a contradição, e a omissão apontada, limitou-se que o E. Tribunal de origem apreciou de forma suficiente todas as questões que lhe foram impostas. Contudo, o acórdão paradigma, visaram, pois, o pronunciamento sobre a existência de contradição e omissão (e não a rediscussão do mérito), o que acabou por infringir a regra contida no art. 1.022, incisos I e II, do Código de Processo Civil.
+ ..
+Portanto, o entendimento da terceira turma, é de que se o Tribunal de origem não se manifesta sobre ponto que pode influir no resultado da de- manda, e o recurso especial é interposto com fundamento na violação do disposto no art. 1.022, II, do NCPC, devem os autos retornar para que o tema seja analisado e solvido.
+ ..
+E não obstante, o acórdão paradigma (Ação Rescisória Nº 5.923 - MS), tem o entendimento de que pela regra do inciso V, a decisão de mérito, transitada em julgado, pode ser rescindida quando violar norma jurídica, posto que se fundou no seguinte: "O cabimento da ação rescisória com amparo no inciso V do art. 966 do Código de Processo Civil/2015 demanda a comprovação de que o julgado combatido conferiu uma interpretação manifestamente descabida ao dispositivo legal indicado, contrariando-o em sua essência."
+Contudo, a conclusão do v. acórdão diverge do entendimento da segunda turma deste C. Superior Tribunal de Justiça, que entende perfeitamente possível o ajuizamento da rescisória quando o julgado confere interpretação completamente descabida do dispositivo legal.
+ ..
+Dessa maneira, fica claro que o objeto dos embargos de divergência é solucionar a divergência inaugurada pelo v. acórdão no que se refere a violação ao artigo 1.022, incisos I e II, do Estatuto Processual Civil, já que o e. Tribunal de origem foi contraditório e deixou de enfrentar pontos de extrema relevância para o deslinde do feito.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. NÃO IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU LIMINARMENTE O RECURSO. SÚMULA 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A decisão agravada não admitiu os Embargos de Divergência em razão da impossibilidade do exame do dissídio referente à interpretação das normas contidas no artigo 1.022, I e II, do CPC, e diante da falta de demonstração do dissídio jurisprudencial referente à tese vinculada ao exame da ofensa ao art. 966, V e VIII, § 5º, do CPC; art. 178, caput, do CC/ 1916 e 2.028 do CC/2002. Ocorre que o agravante não impugnou, especificamente, os aludidos fundamentos, razão pela qual incide ao caso o enunciado da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): O recurso foi interposto sob a vigência do Código de Processo Civil de 2015, razão por que deve ser observado o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do Novo CPC".
+Os embargos de divergência interpostos pelo agravante foram indeferidos, liminarmente, sob os seguintes fundamentos: (a) segundo jurisprudência pacífica desta Corte Superior, não é cabível embargos de divergência sob a alegação de que há dissídio jurisprudencial a respeito da aplicação do artigo 1.022, I e II, do CPC, pois a observância, ou não, de suposta contradição, obscuridade, omissão ou erro de fato, impõe o exame das peculiaridades de cada caso e casuísticas estão dissociadas de teses a respeito da uniformização da interpretação de normas; (b) no que diz respeito à demonstração de dissídio jurisprudencial quanto ao exame dos artigos 966, V e VIII, § 5º, artigo 178, caput, do CC/1916, e artigo 2.028 do CC/2002, evidencia-se que o recurso de divergência não apresentou qualquer argumento apto a demonstrar a divergência de entendimentos. É dizer, o apelo não trouxe o devido cotejo analítico entre as hipóteses, nos termos exigidos pelo artigo 266, § 1º, do RI/STJ, razão por que, por mais esse fundamento, deve ser inadmitido o recurso.
+Com efeito, não há, na minuta deste agravo interno, a impugnação específica aos fundamentos da decisão agravada, razão por que é caso de não conhecimento da irresignação ora apresentada.
+Desse modo, incide à hipótese a Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, não conheço do agravo interno.
+É como voto.
