@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) contra acórdão cuja ementa é a seguinte:
+AÇÃO AC NTÁRIA - AGRAVO DE INSTRUMENT DO I.N.S.S. - DESERÇÃO AFASTADA PE O EGRÉGIO SUPERIOR TRIBUNAL DE JUSTIÇA D4,TERMINANDO A APRECIAÇÃO DO  RECURSO RITO -- CUMPRIMENTO DE SENTENÇA - DECISÃO QUE REJEITOU PEDIDO DA AUTARQ DE INEXEQUIBILIDADE DO TÍTULO EM RAZÃO DE PAGAMENTOS ADMINISTRAT OS - IMPOSSIBILIDADE - Questão que d cria ter sido alegada na fase de conhecimento, ei que anterior à formação do título - Ademais, a pró " a autarquia apresentou a conta de liquidação homologada , trazendo a informação de pagamento administrativo apenas após expedido o precatório, quando operada a preclusão - Decisão mantida - Agravo desprovido.
+Os Embargos de Declaração foram rejeitados (fl. 593, e-STJ).
+A parte agravante, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 494, 502, 507 e 917 do CPC; 124, V, da Lei 8.213/1991; e 884 do Código Civil. Argumenta que "a inclusão de parcelas indevidas no cálculo configura-se ERRO MATERIAL, não sujeito a preclusão ou coisa julgada" (fl. 610, e-STJ).
+Contraminuta apresentada às fls. 655-660, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 9.2.2024.
+A irresignação não merece prosperar.
+O debate proposto no Recurso Especial não ocorreu no Tribunal de origem.
+Assim, perquirir nessa via estreita ofensa à norma mencionada nas razões recursais, sem explicitação da tese jurídica ora controvertida, é frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância. No ensejo, confira-se o teor da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada." No mesmo sentido, os enunciados das Súmulas 211 do STJ e 356 do STF. É assente no STJ o entendimento de que é condição sine qua non para que se conheça do Recurso Especial que tenham sido ventilados, no contexto do acórdão objurgado, os dispositivos legais indicados como afrontados.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. VIOLAÇÃO AO ART. 1.021, § 4º, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ALÍNEA "C" PREJUDICADA.
+1. O debate proposto no Recurso Especial não ocorreu no Tribunal de origem. Assim, perquirir, nesta via estreita, ofensa à norma mencionada nas razões recursais, sem explicitação da tese jurídica ora controvertida, é frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância. No ensejo, confira-se o teor da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada". No mesmo sentido, os enunciados das Súmulas 211 do STJ e 356 do STF. É assente no STJ o entendimento de que é condição sine qua non para que se conheça do Recurso Especial que tenham sido ventilados, no contexto do acórdão objurgado, os dispositivos legais indicados como afrontados.
+2. Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+3. Agravo Interno não provido.
+(AgInt no AREsp 1.896.144/DF, Relator Ministro Herman Benjamin, SEGUNDA TURMA, DJe 25/3/2022).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 156 DO CPP. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ, 282/STF E 356/STF. VIOLAÇÃO AO ART. 5º, LVII, DA CF. MATÉRIA CONSTITUCIONAL. NÃO CABIMENTO. OFENSA AO ART. 155 DO CPP. CONDENAÇÃO BASEADA EM PROVAS COLHIDAS SOMENTE NA FASE INQUISITORIAL. INOCORRÊNCIA. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AFRONTA AO ART. 386, VII, DO CPP E AO ART. 289, § 1º, DO CP. DOLO DA CONDUTA. REEXAME FÁTICO PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1 - É condição sine qua non ao conhecimento do especial que o acórdão recorrido tenha emitido juízo de valor expresso sobre a tese jurídica que se busca discutir na instância excepcional, sob pena de ausência de pressuposto processual específico do recurso especial, o prequestionamento. Inteligência dos enunciados 211/STJ, 282 e 356/STF.
+(..) 5 - Agravo Regimental a que se nega provimento.
+(AgRg no AREsp 357.469/SP, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe de 17/9/2013).
+Em conformidade com a orientação remansosa do STJ, caberia à parte, nas razões do seu Recurso Especial, alegar violação do art. 1.022 do CPC/2015, a fim de que o STJ pudesse averiguar a existência de possível omissão no julgado, mas ela não o fez.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. (..) AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211 DO STJ.
+1. Constata-se que o Tribunal de origem, apesar da oposição dos embargos declaratórios, não examinou a controvérsia sob enfoque do dispositivo apontado como violado, razão pela qual, à falta do necessário prequestionamento, a questão não merece ser conhecida.
+2. Caberia ao recorrente, de acordo com a iterativa jurisprudência desta Corte, alegar, nas razões do apelo especial, violação ao artigo 535 do Código de Processo Civil, providência, todavia, da qual não se desincumbiu. Correta, portanto, a aplicação do enunciado nº 211 da Súmula do Superior Tribunal de Justiça.
+(..) (AgRg no Ag 1.398.518/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 1º/8/2011).
+ADMINISTRATIVO. PROCESSUAL CIVIL. (..) ARTS. 189 E 193 DO CÓDIGO CIVIL, ARTS. 219, § 5º, E 269, IV, DO CÓDIGO DE PROCESSO CIVIL, E ARTS. 21 E SEGUINTES DA LEI COMPLEMENTAR N. 101/2000 NÃO PREQUESTIONADOS. SÚMULA 211/STJ. (..)
+1. Os arts. 189 e 193 do Código Civil; arts. 219, § 5º, e 269, IV, do Código de Processo Civil; e arts. 21 e seguintes da Lei Complementar n. 101/2000 apontados como violados, não foram analisados, sequer implicitamente, pelo Tribunal de origem.
+2. Os dispositivos legais tidos como afrontados não foram debatidos na Corte a quo, mesmo tendo sido oposto o recurso embargos de declaração, e, nas razões do recurso especial, o agravante não alegou ofensa ao art. 535 do Código de Processo Civil, o que permitiria a este Tribunal determinar, se fosse o caso, o retorno dos autos. O agravante, todavia, quedou-se inerte, impondo-se a incidência da Súmula 211/STJ.
+(..) (AgRg no REsp 1.270.224/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 13/3/2012).
+Ademais, ainda que superado tal óbice, o Tribunal de origem, ao julgar a lide, fundamentou:
+Com efeito, impossível r1conhecer-se, em cumprimento de sentença, serem indevidos os pagamentos feitos a título de auxílio -acidente no período em que a obreira recebeu outro benefício pago administrativamente.
+Isso porque, a autarquia , desde a fase de conhecimento , já sabia que, a partir de 23 . 03.2001 (fls. 329 dos principais) a obreira recebia auxílio-acidente deferido administrativamente.
+Consigne-se que o trânsito em julgado na fase de conhecimento ocorreu apenas em 04 .09.2007 (fls. 274).
+Assim, deveria ter alegado a impossibilidade de percepção conjunta naquela fase do processo, até mesmo para, então, se aferir eventual substituição do beneficio administrativo pelo judicial, acaso mais vantajoso para a segurada, ressaltando-se que sequer a D.I.B. coincide, já que, o auxílio-acidente judicialmente concedido, o foi a partir de 07.07.2003, dia ao da alta médica referente ao auxílio-doença (fls. 305 dos principais).
+Frise-se, ainda, que a sei proferida em 15.03.2002 (fis. 141 dos principais), enquanto que o auxílio-acidente administrativamente concedido iniciou-se em seja, antes da sentença de procedência e, muito antes, do acórdão que a manteve (lavrado em 24.10.2006 - fis. 234/243).
+Não passa despercebido o de que a autarquia, no tramitar do recurso, trouxe informes previdenciários de foram parcial (fls. 175/182), noticiando apenas a prorrogação do auxílio-doença para 06.07.2003 (fis. 178), mas nada disse a respeito do auxílio-acidente administrativamente concedido em 2001.
+Se o I.N.S.S. não fez a tempestiva alegação, não pode fazê-lo agora, pois preclusa a questão.
+A roborar essa assertiva, o artigo 535, VI, do C.P.C., preconizava que a Fazenda poderá, em cumprimento d sentença, arguir "qualquer causa modificativa ou extintiva da obrigação, como pagamento, novação, compensação, transação ou prescrição, desde que supervenientes ao trânsito em julgado da i sentença" (destaquei em negrito).
+A contrário senso, não se admite, na fase de cumprimento de sentença, que se alegue causa impeditiva do pagamento por fato anterior à formação do título.
+(..)
+Portanto, vedada a análise, fase processual, de eventual impossibilidade de percepção conjunta do com o outro deferido administrativamente. (fls. 570-576, e-STJ)
+Destarte, não obstante as razões explicitadas pela instância a quo, a parte recorrente, ao interpor o recurso, não impugnou os fundamentos acima mencionados.
+Assim, não observou a recorrente as diretrizes fixadas pelo princípio da dialeticidade, entre as quais a indispensável pertinência temática entre as razões de decidir e os fundamentos fornecidos pelo recurso para justificar o pedido de reforma ou de nulidade do julgado.
+Logo, não tendo sido os argumentos atacados pela parte recorrente, os quais são aptos, por si sós, para manter o decisum combatido, aplicam-se na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+Nessa esteira:
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - AÇÃO DE INDENIZAÇÃO - DECISÃO MONOCRÁTICA - SÚMULA N. 284 DO STF - AGRAVO REGIMENTAL DESPROVIDO.
+1. No presente caso, a parte aponta negativa de vigência ao art. 458 do CPC, porém, limita-se a atacar, em suas razões recursais, a excessividade do quantum fixado a título de dano moral. Assim, a deficiência da fundamentação do apelo extremo não permite a exata compreensão da controvérsia, estando escorreita sua inadmissibilidade.
+2. A ausência de indicação expressa do ponto do decisum que confronta os dispositivos legais tidos por vulnerados não permite verificar se a legislação federal infraconstitucional restou, ou não, malferida.
+3. Agravo regimental desprovido. (AgRg no AREsp 41.941/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 29/05/2013).
+CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ARRENDAMENTO MERCANTIL. AÇÃO DE COBRANÇA MANEJADA POR BANCO EM LIQUIDAÇÃO EXTRAJUDICIAL JÁ INCORPORADO POR OUTRO. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO. ILEGITIMIDADE ATIVA CONTROVERTIDA. CONVALIDAÇÃO POSSÍVEL. ACÓRDÃO QUE, COM BASE NAS PROVAS, AFASTA A EXTINÇÃO DETERMINANDO A EMENDA DA INICIAL, MESMO APÓS A CITAÇÃO. VIOLAÇÃO DOS ARTIGOS 264, 267 INCISO VI, 282, 283 E 284 DO CPC/1973. NECESSIDADE DE REEXAME DE PROVAS E NÃO OBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE. SÚMULAS N.os 5, 7 DO STJ E 284 DO STF. EMENDA DA PETIÇÃO INICIAL QUE, CONQUANTO APÓS CONTESTAÇÃO, NÃO IMPLICA ALTERAÇÃO DO PEDIDO, DA CAUSA DE PEDIR OU SUBSTITUIÇÃO DO POLO ATIVO. PRECEDENTES. AGRAVO EM RECURSO CONHECIDO PARA NÃO CONHEC ER DO RECURSO ESPECIAL. AGRAVO INTERNO NÃO PROVIDO.
+1. A ausência de impugnação específica sobre fundamento do acórdão recorrido para afastar a extinção do processo e determinar a emenda da inicial constitui afronta ao princípio da dialeticidade, impedindo o conhecimento do recurso por força das Súmulas n.º 283 e 284/STF, por analogia.
+2. A emenda à inicial após a contestação é admissível quando a determinação do polo ativo for de convalidação possível, já que não implica modificação do pedido ou da causa de pedir, mas, antes, observação da primazia do julgamento de mérito.
+3. Se o acórdão na análise do material de cognição dispõe sobre a possibilidade de ser sanável o vício da ilegitimidade, para derruir tal premissa é imprescindível revisitação dos contratos e demais fatos envolvidos, atraindo o óbice das Súmulas n.ºs 5 e 7 do STJ.
+4. Agravo interno não provido. (AgInt no AREsp 2.091.786/SC, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 23/08/2023)
+Ante o exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
