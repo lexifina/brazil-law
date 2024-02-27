@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de Ação Rescisória para a desconstituição de julgado da lavra do em. Ministro Benedito Gonçalves, proferida em Ação de Desapropriação, no REsp 1.526.594/SE, na qual, dando provimento ao Apelo da parte adversa, determinou a incidência de juros compensatórios e moratórios sobre a diferença entre 80% da oferta inicial e o valor da indenização definido na sentença e fixou o termo inicial dos juros moratórios a partir de 1º de janeiro do exercício seguinte àquele em que o pagamento deveria ser feito, nos termos do art. 100 da Constituição.
+O peticionante alega violação do art. 15-A, caput e § 1º, do Decreto-Lei 3.365/1941. Diz que os referidos dispositivos tiveram a eficácia suspensa durante o período de vigência de medida cautelar concedida na ADIN 2.332/DF (revogada) e que a decisão que se busca rescindir fora proferida sob tal vigor. Nesse contexto, afrontaria a norma tida como constitucional pela Corte Suprema, notadamente diante da suposta inexistência de prova relativa à produtividade do bem expropriado. Pretende que seja proferida novo decisum, adequado aos termos do que foi definido na mencionada ADIN.
+Pede liminar para a suspensão dos efeitos da decisão rescindenda.
+É o relatório.
+Decido.
+Os autos foram remetidos a este Gabinete em 15.2.2024.
+A decisão cuja rescisão se pretende transitou em julgado em 1º.6.2017. A presente Ação, por seu turno, foi ajuizada em 15.2.2024, de modo que foi superado o prazo bienal previsto no art. 975 do CPC/2015.
+Não se aplica aqui o disposto pelos §§ 12 e 15 do art. 525 do CPC/2015, uma vez que não se identifica lei ou ato normativo considerado inconstitucional ou tido como incompatível com a Constituição Federal. Com efeito, os dispositivos que o peticionante julga violados foram declarados constitucionais pelo STF.
+Conforme relatei no AREsp n. 2.166.610/SP, (Segunda Turma, DJe de 26/6/2023), a "jurisprudência do STJ é de que o termo inicial para propositura de Ação Rescisória que visa rescindir julgado relativo ao percentual de juros compensatórios fixados em Ação de desapropriação é a data do trânsito em julgado da decisão rescindenda, e não a do acórdão proferido na ADI 2.332". A propósito:
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. PRAZO. TERMO A QUO. ACÓRDÃO RESCINDENDO. TRÂNSITO EM JULGADO. VIGÊNCIA DO CPC/1973. REGRAS DO CPC/2015. INAPLICABILIDADE. DECADÊNCIA. CONFIGURAÇÃO.
+1. O Superior Tribunal de Justiça já se manifestou que, nas ações rescisórias, "o marco temporal - para a incidência das regras de direito processual -, deve ser a data do trânsito em julgado da decisão rescindenda, momento em que se inicia a repercussão dos efeitos processuais da pretensão à rescisão do julgado, como sói o prazo e os pressupostos para o seu ajuizamento" (AR 5.931/SP, Relator Ministro PAULO DE TARSO SANSEVERINO - Ratificação de voto;
+Segunda Seção, DJe 21/06/2018).
+2. No julgamento do REsp 1.112.864/MG, submetido ao rito do art. 543-C do CPC/1973, esta Corte de Justiça firmou a compreensão de que o termo a quo para o ajuizamento da ação rescisória coincide com a data do trânsito em julgado da decisão rescindenda, que, por sua vez, dá-se no dia imediatamente subsequente ao último dia do prazo para o recurso em tese cabível (Súmula 401 do STJ).
+3. Não se aplica à espécie o disposto no art. 535, III, §§ 5º e 8º, do CPC/2015, que excepciona o termo inicial da contagem do prazo da ação rescisória ao trânsito em julgado da decisão proferida pelo Supremo Tribunal Federal em controle de constitucionalidade concentrado ou difuso, em face do disposto no art. 1.057 do Novo Estatuto Processual.
+4. Hipótese em que o aresto rescindendo transitou em julgado em 04/01/2012, na vigência do CPC/1973, tendo sido a presente ação rescisória protocolada em 24/05/2019, quando já superado havia muito o prazo de 2 (dois) anos previsto no art. 495 do CPC/1973.
+5. O reconhecimento da constitucionalidade do art. 15-A do Decreto-Lei n. 3.365/1941, no julgamento do mérito da ADI 2.332/DF (17/05/2018), ocorreu em data posterior ao trânsito em julgado do aresto obejto da presente ação desconstitutiva, quando já exaurido o prazo decadencial para o aviamento desta, não sendo possível a pretendida prorrogação, sob pena de criar grave insegurança jurídica. Precedentes do STF.
+6. Agravo interno desprovido.
+(AgInt na AR n. 6.482/PE, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 12/8/2020, DJe de 23/9/2020.)
+Ante o exposto, nos termos do art. 332, § 1º, c/c 487, II, do CPC/2015, julgo improcedente a Ação Rescisória e extingo o feito, com resolução do mérito, tendo em vista a decadência do direito de rescindir.
+Publique-se.
+Intimem-se.
+EMENTA
