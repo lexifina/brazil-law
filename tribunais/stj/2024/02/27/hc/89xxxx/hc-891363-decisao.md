@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar, impetrado em favor de GILSON JOÃO PEREIRA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (HC nº 5008193-36.2024.8.24.0000/SC).
+O paciente foi denunciado pelo Ministério Público Federal pela prática, em tese, do crime tipificado no art. 1º, incisos I, II e IV, c/c art. 11, caput, e art. 12, inciso I, todos da Lei nº 8.137/1990.
+A liminar em habeas corpus pleiteada pela defesa foi parcialmente deferida na origem por meio de decisão monocrática (e-STJ fls. 51-58).
+A defesa alega, em síntese: a) o paciente esteve presente em todas as audiências em que foi intimado; e b) apesar do deferimento parcial da liminar pela origem, persistiria a ilegalidade, consistente na fixação de cautelares diversas da prisão.
+Requer, liminar e definitivamente, o deferimento da ordem para que sejam revogadas as medidas cautelares diversas da prisão.
+É o relatório.
+Decido.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, j. em 02/08/2022, DJe de 10/08/2022).
+Verifica-se que não está caracterizada manifesta ilegalidade suficiente para superar o óbice do referido enunciado sumular.
+A autoridade impetrada consignou (e-STJ fls. 51-58):
+(..) o excepcional decreto da prisão preventiva parece precoce quando confrontado com a realidade dos autos, mormente quando considerado que o Paciente responde o processo em liberdade há mais de 4 (quatro) anos e não há notícias deque tenha mudado de endereço sem a devida previa informação ao juízo de primeiro grau.
+Ademais, a defesa do Paciente peticionou nos autos no sentido de que "confirmou o endereço do réu no mesmo local, bem como se compromete a comprovar, no prazo de até quarenta e oito horas, a ciência do acusado na audiência a ser designada por este Juízo, conforme ficou alinhado na audiência de hoje." (Evento 387 dos autos originários)
+Por outro lado, não se pode desconsiderar o fato de que o Paciente, ao que tudo indica, vem se recusando a responder o Oficial de Justiça quando contactado pelo whatsapp.
+Pondero, ainda, assistir razão ao magistrado de primeiro quando manifesta preocupação como fato de que o Paciente participou de uma audiência por videoconferência, pois estava ausente do país.
+Todavia, a preservação da instrução criminal e o resguardo da aplicação penal é possível, neste contexto, mediante a fixação de medidas cautelares diversas de prisão.
+Com efeito, o "comparecimento periódico em juízo, no prazo e nas condições fixadas pelo juiz, para informar e justificar atividades", somada com a "proibição de ausentar-se da Comarca quando a permanência seja conveniente ou necessária para a investigação ou instrução" e, ainda, a "monitoração eletrônica" (artigo 319, incisos I, IV eIX) são suficientes, ao menos por enquanto, para a garantia da instrução criminal e para assegurar eventual aplicação da lei penal, sem prejuízo do reestabelecimento do decreto d aprisão preventiva em caso de descumprimento de alguma das medidas.
+Por fim, também parece precoce a imediata determinação para que seja cancelado o passaporte do Paciente, sendo suficiente, por enquanto, a observância do disposto no artigo 320 do Código de Processo Penal: "A proibição de ausentar-se do País será comunicada pelo juiz às autoridades encarregadas de fiscalizar as saídas do território nacional, intimando-se o indiciado ou acusado para entregar o passaporte, no prazo de 24(vinte e quatro) horas.".
+Saliento, ademais, que em persistindo indícios de que o Paciente está tentando se evadir da justiça (eventual resistência a ser intimado acerca da presente decisão, por exemplo), poderá o juízo de primeiro grau, diante da nova realidade, reavaliar a necessidade da prisão preventiva, tudo sem prejuízo, é claro, de eventual reanálise por parte do competente julgamento colegiado.
+Não se constata, então, vício no deferimento parcial do pleito liminar em sede monocrática, sendo certo que o revolvimento das questões sustentadas no habeas corpus acarretaria supressão de instância, pois serão alvo de exame na Corte de origem quando do julgamento final.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
