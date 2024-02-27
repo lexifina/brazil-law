@@ -1,0 +1,21 @@
+DECISÃO
+Em análise, Conflito de Competência suscitado pelo MM. Juiz de Direito do Juizado Especial Federal da 3ª Região, 39ª Subseção Judiciária da SJ/SP, nos autos da "Ação Declaratória de Salário Maternidade" ajuizada por Natali Bianca Lopes em face do Instituto Nacional do Seguro Social - INSS.
+Apura-se dos autos que o Juiz Suscitante expediu carta precatória para oitiva de testemunha residente na Comarca do MM. Juiz de Direito da Vara Única da Comarca de Apiaí do Tribunal de Justiça do Estado de São Paulo, ora suscitado, afim de instruir ação previdenciária em curso naquele juízo.
+O MM. Juiz de Direito suscitado recusou o cumprimento da carta precatória, sob fundamento de que tais audiências acabam por inviabilizar o direito dos jurisdicionados da Comarca à razoável duração do processo e "a pauta de audiência dos próximos 12 meses já está comprometida", determinando, ao final, sua devolução e que fosse oficiado "o juízo deprecante, para que designe data e horário para as oitivas, a serem realizadas sob sua presidência" (e-STJ 104/106).
+O suscitante, por sua vez, defendeu que: i) o Código de Processo Civil, acerca do tema, faculta a possibilidade de realização de oitiva das testemunhas por videoconferência, não se tratando, pois, de imposição legal, de modo que, ao pretender obrigar os juízes a adotarem como regra esse sistema, a Resolução em apreço transborda dos limites regulamentares que lhe são permitidos pela legislação a que se subordina; ii) as hipóteses de recusa de cumprimento ou devolução de carta precatória encontram-se no rol taxativo do art. 267do CPC, inexistentes no presente caso; suscitando o presente conflito.
+Manifestação do i. representante do Ministério Público Federal opinando pelo conhecimento do conflito para declarar a competência do MM. Juiz de Direito da Vara Única de Apiaí (e-STJ 125/129).
+Processo distribuído por sorteio ao Exmo. Sr. Ministro Humberto Martins quando, em 24/11/2023, foi atribuído a minha relatoria (e-STJ 131).
+É o relatório.
+Sobre o tema dos autos, a jurisprudência desta Corte Superior de Justiça está assentada no sentido de que o juízo deprecado não é o da causa, mas o simples executor dos atos deprecados, somente cabendo recusa e a devolução da precatória nas hipóteses previstas no art. 267 do Código de Processo Civil/2015.
+Nesse sentido, reiteradamente, vem decidindo este Tribunal:
+CONFLITO DE COMPETÊNCIA. DIREITO PREVIDENCIÁRIO. OITIVA DE TESTEMUNHA. CARTA PRECATÓRIA. VIDEOCONFERÊNCIA. NÃO OBRIGATORIEDADE. RECUSA INFUNDADA. COMPETÊNCIA DO JUÍZO DEPRECADO.
+I - O art. 267 do CPC/2015 possui rol taxativo de recusa para o cumprimento de carta precatória.
+II - A prática de atos processuais por videoconferência é uma faculdade do juízo deprecante, não competindo ao juízo deprecado a determinação de forma diversa da realização de audiência.
+III - Conflito de competência conhecido para declarar competente para a causa o Juízo Federal da 2ª Vara do Juizado Especial Cível e Criminal de Pouso Alegre/MG. (CC 165.381/MG, relator Ministro Francisco Falcão, Primeira Seção, julgado em 12/6/2019, DJe de 14/6/2019).
+AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. CARTA PRECATÓRIA. RECUSA. NÃO CABIMENTO. HIPÓTESE NÃO PREVISTA NO ART. 267 DO CPC. COMPETÊNCIA DO JUÍZO DEPRECADO. RECURSO A QUE SE NEGA PROVIMENTO.
+1. O Juízo deprecado só pode recusar o cumprimento da carta precatória quando evidenciada uma das hipóteses previstas no art. 267 do Novo Código de Processo Civil, o que não ocorreu na espécie.
+2. Agravo regimental a que se nega provimento. (AgRg no CC 158.878/ES, relatora Ministra Maria Thereza de Assis Moura, Terceira Seção, julgado em 22/8/2018, DJe de 27/8/2018).
+Assim, da análise dos autos, apura-se que o motivo da devolução da carta precatória não está abarcado pelas hipóteses legais de recusa, razão pela qual, o ato processual deprecado referente à oitiva das testemunhas que residem na Comarca de Apiaí/SP, deverá ser cumprido pelo Juiz suscitado.
+Isso posto, conheço e acolho o presente conflito de competência para declarar competente para o cumprimento da carta precatória, o MM. Juiz de Direito da Vara Única da Comarca de Apiaí do Tribunal de Justiça do Estado de São Paulo.
+I.
+EMENTA
