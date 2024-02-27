@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 739):
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. BUSCA PESSOAL. REQUISITOS DO ART. 244 DO CÓDIGO DE PROCESSO PENAL. AUSÊNCIA DE FUNDADA SUSPEITA. FUGA. ILICITUDE DAS PROVAS OBTIDAS. LIMINAR DEFERIDA. ORDEM CONCEDIDA.
+1. O art. 244 prevê que a busca pessoal, como medida autônoma, independerá de mandado prévio se houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito.
+2. No dia 19/04/2022, foi julgado pela Sexta Turma do Superior Tribunal de Justiça o RHC n. 158.580/BA, Rel. Ministro ROGERIO SCHIETTI CRUZ, ocasião em que foram estabelecidas diretrizes e parâmetros a fim de que seja reconhecida a existência de "fundada suspeita" e, portanto, tenha-se como devidamente justificada e aceitável juridicamente a busca pessoal, refutando a hipótese em que a revista esteja amparada em mera "atitude suspeita", não descrita objetivamente nos autos.
+3. Na hipótese em apreço, a busca pessoal realizada pelos policiais não está apoiada em elemento válido, segundo a orientação da Sexta Turma, ficando registrado que os policiais visualizaram os Pacientes em fuga e resolveram fazer a abordagem. Portanto, não vislumbro elementos indiciários suficientes do cometimento de delito, ainda que permanente, que justifique a abordagem em tela.
+4. Habeas corpus concedido, confirmando a liminar deferida.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 787-790).
+A parte recorrente sustenta a ocorrência de violação dos arts. 5º, X, e 144, § 5º, da CF e aduz que a matéria tratada possui repercussão geral.
+Defende a licitude da busca pessoal realizada pela polícia contra os recorridos, ao argumento de que a diligência teria se amparado em fundadas razões.
+Alega que (fl. 809):
+Ademais, in casu, de forma alguma se mostra razoável deixar de dar proteção aos interesses de todo o grupo social na apuração de delitos graves, como o é o tráfico de drogas e delitos afins  .. . Seria caso, portanto, de se prestigiar os princípios da segurança e da ordem pública e não aqueles que poderiam ser invocados ao reconhecimento da ilicitude da prova legal obtida.
+Requer, ao final, a admissão do recurso e a remessa dos autos ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 832-838.
+É o relatório.
+Verifica-se que a controvérsia cinge-se à questão da necessidade de fundadas razões para a realização da busca pessoal, estando o acórdão impugnado assim fundamentado (fls. 741-744):
+A busca pessoal, de acordo com o § 2.º do art. 240 do Código de Processo Penal, somente pode ser realizada quando houver fundada suspeita de que a pessoa oculte consigo arma proibida ou objetos mencionados nas alíneas b a f e h do § 1.º do citado dispositivo.
+O art. 244, por sua vez, prevê que a busca pessoal, como medida autônoma, independerá de mandado prévio se houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito.
+A propósito, ressalto que, no dia 19/04/2022, foi julgado pela Sexta Turma do Superior Tribunal de Justiça o RHC n. 158.580/BA, Rel. Ministro ROGERIO SCHIETTI CRUZ, ocasião em que foram estabelecidas diretrizes e parâmetros a fim de que seja reconhecida a existência de "fundada suspeita" e, portanto, tenha-se como devidamente justificada e aceitável juridicamente a busca pessoal, refutando a hipótese em que a revista esteja amparada em mera "atitude suspeita", não descrita objetivamente nos autos.
+A seguir, a ementa do referido julgado:
+ ..
+No caso, a Corte local, ao afastar a preliminar de nulidade do flagrante, por ocasião do julgamento dos embargos infringentes, considerou o seguinte (fl. 595; sem grifos no original):
+"A despeito do entendimento vencido, identifica-se justa causa para a busca pessoal na espécie. Os Policiais Militares responsáveis pela abordagem em flagrante apresentaram fundada suspeita de que os embargantes estivessem na posse de objetos ilícitos, nos moldes descritos no art. 244 do CPP.
+No caso concreto, os agentes públicos receberam diversas denúncias anônimas no sentido de que o indivíduo conhecido como "Químico" havia realizado a entrega de drogas em determinado local, conhecido como ponto de tráfico, para que traficantes efetuassem a venda. Os policiais militares foram até o endereço indicado e avistaram os réus, que empreenderam fuga do local, mas foram detidos, tendo sido localizadas e apreendidas 479 pedras de crack, com peso total aproximado de 184 gramas, e 18 porções de cocaína, com peso total aproximado de 35 gramas."
+Como se vê, a busca pessoal realizada pelos policiais não está apoiada em elemento válido, segundo a orientação da Sexta Turma, ficando registrado que os policiais visualizaram os Pacientes em fuga e resolveram fazer a abordagem. Portanto, não vislumbro elementos indiciários suficientes do cometimento de delito, ainda que permanente, que justifique a abordagem em tela.
+Desse modo, a análise da matéria ventilada depende do exame dos arts. 240, § 2º, e 244 do Código de Processo Penal, motivo pelo qual eventual ofensa à Constituição da República, se houvesse, seria reflexa ou indireta, não legitimando a interposição do recurso.
+Ademais, para afastar os pressupostos fáticos adotados no julgamento do recurso, seria indispensável o reexame dos elementos de convicção existentes nos autos, o que não é permitido em recurso extraordinário, diante do óbice contido no enunciado 279 da Súmula da Suprema Corte ("Para simples reexame de prova não cabe recurso extraordinário").
+Em caso semelhante, assim já decidiu o STF:
+DIREITO PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. ILICITUDE DA PROVA. BUSCA PESSOAL REPUTADA ILEGAL PELA INSTÂNCIA ORDINÁRIA. COMPREENSÃO DIVERSA. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. AGRAVO NÃO PROVIDO.
+1. A controvérsia, conforme já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Na espécie, a Corte a quo lastreou-se na prova produzida para firmar seu convencimento. Compreensão diversa demandaria a reelaboração da moldura fática delineada no acórdão de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário.
+2. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+3. Agravo interno conhecido e não provido.
+(ARE n. 1.449.057-AgR, relatora Ministra Rosa Weber - Presidente, Tribunal Pleno, julgado em 12/9/2023, DJe de 20/9/2023.)
+Ante o exposto, com fundamento no art. 1.030, V, do Código de Processo Civil, não admito o recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL PENAL. BUSCA PESSOAL. FUNDADAS RAZÕES. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. VERBETE 279 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. RECURSO IN ADMITIDO.
