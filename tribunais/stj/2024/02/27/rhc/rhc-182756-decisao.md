@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se  de  recurso  ordinário  interposto  por  Lauro  Luiz  Henkes  contra  o  acórdão  do  Tribunal  de  Justiça  Militar  do  Rio  Grande  do  Sul  que  denegou  o  HC  n.  00900018520239210000  (fls.  275/276):
+HABEAS  CORPUS  CRIME.  PEDIDO  DE  PRISÃO  DOMICILIAR  HUMANITÁRIA.  ALEGADO  RISCO  IMINENTE  À  SAÚDE  DO  PACIENTE.  NÃO  DEMONSTRADA  A  INADEQUAÇÃO  AO  ATENDIMENTO  MÉDICO  DISPENSADO  NO  LOCAL  DA  RECLUSÃO.  AUSÊNCIA  DE  FLAGRANTE  OU  MANIFESTA  ILEGALIDADE  NA  DECISÃO  QUE  DEMANDE  PROVIMENTO  JURISDICIONAL  URGENTE.  ORDEM  DENEGADA.
+1.  Seguindo  a  orientação  dos  Tribunais  Superiores,  a  regra  é  de  não  conhecer  do  habeas  corpus  em  matéria  afeta  ao  âmbito  da  execução  penal,  porquanto  cabível  recurso  específico  a  tal  finalidade  (art.  197  da  LEP),  reservando-se  tal  possibilidade,  de  modo  apenas  excepcional,  às  hipóteses  que  evidenciassem,  de  plano,  o  cometimento  de  ilegalidade  e  abusividades,  trazendo,  por  vezes,  irreparáveis  prejuízos  ao  paciente.
+ 2.  Entretanto,  diante  da  natureza  das  alegações  vertidas  nesta  impetração,  que  dizem  respeito  à  pretensão  de  concessão  de  prisão  domiciliar  humanitária,  em  virtude  de  alegado  risco  iminente  à  saúde  do  paciente,  deve  ser  conhecido  o  habeas  corpus,  admitindo  a  excepcional  urgência  no  exame  da  questão  trazida  à  baila  e  que  alguma  eventual  demora  na  tramitação  do  agravo  em  execução  poderia  vir  a  acarretar  irreparáveis  prejuízos  ao  paciente.
+ 3.  Conquanto  demonstrado  que  o  paciente,  de  fato,  apresenta  quadro  de  saúde  debilitado,  nesse  momento,  não  há  evidência  que  revele  que  ele  não  esteja  recebendo  a  medicação  prescrita  e  a  assistência  necessária  no  estabelecimento  prisional,  não  se  verificando  que  seu  estado  de  saúde  seja  totalmente  incompatível  com  o  cumprimento  da  pena  de  reclusão.
+4.  A  comprovação  de  que  o  paciente  apresenta  quadro  de  insuficiência  cardíaca  e  a  doença  diabetes  mellitus  não  conduz,  necessária,  direta  e  automaticamente,  à  concessão  da  prisão  domiciliar  humanitária.
+ 5.  Indeferimento  que  não  acarreta  constrangimento  ilegal.  6.  Ausente  flagrante  ou  manifesta  ilegalidade  na  decisão  que  demande  provimento  jurisdicional  urgente,  pela  via  do  habeas  corpus.
+ORDEM  DE  HABEAS  CORPUS  DENEGADA.  DECISÃO  UNÂNIME.
+ (TJMRS  HC  n.  0090001-  85.2023.9.21.0000,  Relator  Desembargador  Rodrigo  Mohr  Picon,  j.  15/2/2023).
+Consta  dos  autos  que  o  recorrente  foi  condenado  à  pena  de  9  anos  de  reclusão,  no  regime  inicial  fechado,  como  incurso  nos  arts.  303,  §  1º,  303,  caput,  308,  caput,  e  308,  §  1º,  todos  do  Código  Penal  Militar.
+Afirma-se  que  o  recorrente  possui  insuficiência  cardíaca  e  diabetes  mellitus,  do  tipo  2,  necessitando  cuidados  especiais  e  atenção  redobrada  no  uso  de  medicações,  não  tendo  condições  de  saúde  que  lhe  permitam  cumprir  a  penitência  reclusiva,  razões  motivadoras  do  pleito  de  prisão  domiciliar  humanitária.
+O  pedido  de  liminar  foi  indeferido  (fls.  302/303).
+Prestadas  as  informações  (fls.  315/317),  o  Ministério  Público  Federal  manifestou-se  pelo  desprovimento  do  recurso  (fls.  319/322).
+Informações  atualizadas  foram  prestadas  às  fls.  335/337, noticiando:
+3 - Foram indeferidos os pedidos de prisão domiciliar, em 23/8/2022, 26/8/2022 e 1º/12/2022, por não estarem preenchidos os requisitos legal para a concessão.
+4 - Em 8/9/2023, foi concedida ao apenado a remição pela leitura, no total de 20 dias da pena aplicada.
+5 - Em 27/9/2023, foi deferida a progressão para o regime semiaberto.
+6 - Em 31/10/2023, foi indeferido o pedido de prisão domiciliar, por ausência dos requisitos legais para tal medida.
+7- A data prevista para progressão ao regime aberto é 31/8/2024.
+8 - A data prevista para o livramento condicional é 25/1/2026.
+É  o  relatório.
+Como  visto,  pretende  o  recorrente  seja  reconhecido  o  seu  direito  à  prisão  domiciliar,  com  fundamento  no  art.  117,  II,  da  Lei  de  Execução  Penal.
+Ora,  para  a  concessão  da  prisão  domiciliar  humanitária  disposta  no  art.  117  da  Lei  de  Execuções  Penais,  concedida  aos  apenados  acometidos  de  moléstias  graves,  exige-se  a  comprovação  da  debilidade  do  condenado  e  a  constatação  de  que  o  tratamento  adequado  ao  restabelecimento  de  sua  saúde  encontra-se  comprometido,  diante  da  inexistência  de  assistência  necessária  no  interior  do  estabelecimento  prisional  (AgRg  no  HC  n.  636.408/SP,  Ministra  Laurita  Vaz,  Sexta  Turma,  julgado  em  8/6/2021,  DJe  21/6/2021),  o  que  não  é  o  caso  dos  autos.
+O  Tribunal  a  quo  manteve  o  indeferimento  do  pleito,  afirmando  que,  conquanto  demonstrado  que  o  paciente,  de  fato,  apresenta  quadro  de  saúde  debilitado,  nesse  momento,  não  há  evidência  que  revele  que  ele  não  esteja  recebendo  a  medicação  prescrita  e  a  assistência  necessária  no  interior  do  4º  RPmon,  não  se  verificando  que  seu  estado  de  saúde  seja  totalmente  incompatível  com  o  cumprimento  da  pena  de  reclusão  (fl.  279).
+Acrescentou,  ainda  ,  que  a  tão  só  comprovação  de  que  o  paciente  apresenta  quadro  de  insuficiência  cardíaca  e  a  doença  diabetes  mellitus,  não  conduz,  necessária,  direta  e  automaticamente,  à  concessão  da  prisão  domiciliar  humanitária,  se  não  demonstrada  além  da  gravidade  do  quadro  patológico  a  total  inadequação  do  atendimento  médico  a  ele  dispensado  no  local  em  que  se  encontra  recluso  (fl.  280).
+Nesse  toar,  não  tendo  o  recorrente  logrado  demonstrar  a  impossibilidade  de  receber  tratamento  compatível  com  seu  quadro  de  saúde  no  estabelecimento  prisional  em  que  se  encontra,  a  inversão  do  julgado  demandaria  dilação  probatória,  providência  incabível  na  via  recursal.
+Ante  o  exposto,  nego provimento ao recurso em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. REGIME SEMIABERTO. PEDIDO DE PRISÃO DOMICILIAR EM RAZÃO DE ESTADO DE SAÚDE DO APENADO. ART. 117 DA LEP. EXCEPCIONALIDADE NÃO CARACTERIZADA. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Recurso improvido.
