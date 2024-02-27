@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da Constituição Federal) interposto de acórdão assim ementado:
+DIREITO PREVIDENCIÁRIO. REVISÃO. EXERCÍCIO DE ATIVIDADE ESPECIAL. NÃOCOMPROVADO. SENTENÇA REFORMADA.
+1. Considerando que a parte autora já recebe aposentadoria por tempo de contribuição, resta incontroverso o cumprimento dos requisitos exigidos pela Lei nº 8.213/91. Note-se que osperíodos de 15/03/1977 a 16/11/1979, 12/03/1980 a 08/11/1982, 23/05/1984 a 31/05/1989,01/06/1989 a 27/07/1994, 04/10/1994 a 13/12/1998 foram enquadrados como atividade especial na esfera administrativa, restando incontroversos. Verifica-se, ainda, que o período de 03/06/2002 a 21/06/2007 foi enquadrado como atividade especial por decisão judicial (Processo 6073061-73.2019.4.03.9999 - ID147038504), transitada em julgado, conforme consulta a sistema informatizado desta Corte.
+2. A controvérsia nos presentes autos refere-se, portanto, ao reconhecimento do exercício de atividade especial no período de14/12/1998 a 17/12/2001 e a concessão de aposentadoria especial.
+3. No presente caso, da análise dos documentos acostados aos autos e de acordo com alegislação previdenciária vigente à época, a parte autora não comprovou o exercício de considerando a ausência de produção de atividade especial no período de 14/12/1998 a 17/12/2001, provas (PPP ou laudo pericial). Note-se que a indicação de agente nocivo (ruído ou agente químico) em formulário não é hábil a comprovar a exposição de forma habitual e permanente no período, não podendo a atividade especial ser presumida.
+4. Desse modo, reconhecido o exercício da atividade comum no período de, 14/12/1998 a 17/12/2001 cumpre determinar a reforma da r. sentença. Deixo de converter o atual benefício em aposentadoria especial pela ausência de tempo suficiente para a benesse pretendida, conforme planilha anexa.
+5. Condenada a parte autora ao pagamento de honorários fixados em R$ 1.000,00 (mil reais), cuja exigibilidade observará o disposto no artigo 12 da Lei nº 1.060/1950 (artigo 98, § 3º, do Código deProcesso Civil/2015), por ser beneficiária da justiça gratuita.
+6. Anote-se, na espécie, a obrigatoriedade da dedução, na fase de liquidação, dos valores eventualmente pagos à parte autora na esfera administrativa.
+7. Recurso adesivo da parte autora improvido. Apelação do INSS provida.
+Os Embargos de Declaração foram rejeitados às fls. 623-629, e-STJ.
+Decisão pela inadmissibilidade (fls. 653-656, e-STJ) do Recurso Especial (fls. 642-649, e-STJ), sob o fundamento de incidência da Súmula 7.
+A parte agravante, Wilson Teodoro, pleiteia, por meio de seu "agravo de instrumento", que seja reconhecida a violação dos arts. 1.022, II, e 489, § 1º, IV, do Código de Processo Civil e 93, IX, da Constituição Federal. Argumenta que o acórdão recorrido não tratou adequadamente da matéria, omitindo-se na análise de provas e fundamentação, especialmente quanto à comprovação do trabalho em condições especiais.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 08.02.2024.
+O REsp combatia aresto da Corte a quo que indeferiu benefício por incapacidade por insuficiência de provas.
+A irresignação não merece prosperar.
+Sobre a alegada ofensa ao art. 93, IX da Constituição Federal, cumpre observar que esta via não é cabível para análise de normas constitucionais, nos termos do art. 105, III, da CF, sob pena de usurpação da competência do Supremo Tribunal Federal (AgRg no AREsp 1.407.512/DF, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 17/12/2019).
+Ademais, constata-se que não se configurou a ofensa aos arts. 489 e 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, asseverando que o Colegiado a quo não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, verifica-se que o acórdão controvertido está bem fundamentado, inexistindo omissão ou contradição.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Aclaratórios, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida. Registre-se, portanto, que a Corte regional examinou e decidiu, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional. Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATIFICAÇÃO DE DESEMPENHO DA CARREIRA DA PREVIDÊNCIA, DA SAÚDE E DO TRABALHO - GDPST. (..) EMBARGOS DE DECLARAÇÃO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. INCONFORMISMO. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO.
+I. Embargos de Declaração opostos a acórdão prolatado pela Segunda Turma do Superior Tribunal de Justiça, publicado na vigência do CPC/2015.
+II. O voto condutor do acórdão embargado apreciou fundamentadamente, de modo coerente e completo, todas as questões necessárias à solução da controvérsia, negando provimento ao Agravo interno, nos termos da jurisprudência desta Corte.
+III. Inexistindo, no acórdão embargado, omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do CPC vigente, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da parte embargante com as conclusões do decisum.
+IV. Nos termos da jurisprudência desta Corte, ""a oposição de Embargos de Declaração após a formação do acórdão, com o escopo de que seja analisado tema não arguido anteriormente no processo, não configura prequestionamento, mas pós-questionamento, razão pela qual a ausência de manifestação do Tribunal sobre a questão não caracteriza negativa de prestação jurisdicional" (STJ, AgInt no AREsp 885.963/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 11/10/2016). No mesmo sentido: STJ, REsp 1.676.554/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/10/2017; AgInt no AREsp 1.043.549/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 1º/08/2017" (STJ, AgInt no AREsp 2.143.205/RN, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 14/12/2022).
+V. Embargos de Declaração rejeitados.
+(EDcl no AgInt no AREsp n. 2.124.543/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/5/2023.)
+Afasta-se a ideia de simples valoração da prova, já que a instância de origem decidiu a questão com base no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça ante a incidência de sua Súmula 7: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ. AGRAVO INTERNO. RECURSO QUE NÃO IMPUGNA, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ E ART. 1.021, § 1º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. No caso, o Recurso Especial não foi admitido, na origem, pela ausência de negativa de prestação jurisdicional, incidência da Súmula 7 do STJ e ausência de demonstração do dissídio jurisprudencial invocado. O Agravo em Recurso Especial interposto não impugnou todos os fundamentos do decisum, o que conduziu ao seu não conhecimento, cuja decisão ora é agravada regimentalmente.
+III. No presente Agravo interno a parte recorrente apresenta razões outras, deixando de impugnar, novamente, de modo específico, os fundamentos da decisão agravada.
+IV. Interposto Agravo interno com fundamentação deficiente, constituem óbices ao conhecimento do inconformismo a Súmula 182 desta Corte e o art. 1.021, § 1º, do CPC/2015.
+V. Renovando-se, no Agravo interno, o vício que comprometia o conhecimento do Agravo em Recurso Especial, inarredável a edição de novo juízo negativo de admissibilidade.
+VI. Agravo interno não conhecido.
+(AgInt no AREsp n. 2.054.503/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/5/2022.).
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Cumpre advertir à parte que a eventual interposição de recurso contra o presente decisum, qualificado como manifestamente inadmissível, desprovido de fundamento, ensejará a incidência das sanções previstas nos artigos 1.021, § 4º, e 1.026, § 2º, do Código de Processo Civil, podendo resultar, inclusive, em imposição de multa.
+Publique-se.
+Intimem-se.
+EMENTA
