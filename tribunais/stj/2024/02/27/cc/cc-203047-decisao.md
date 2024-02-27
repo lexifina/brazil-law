@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre a 8ª Vara Federal da Seção Judiciária de Mato Grosso/MT, como suscitante, e a 1ª Vara Federal da Subseção Judiciária de Itapeva/SP, a suscitada, nos autos de mandado de segurança impetrado por segurado da previdência contra omissão imputada ao Presidente da 23ª Junta de Recursos da Previdência Social, sediada em Cuiabá.
+A ação foi originariamente proposta perante o juízo suscitado, que declinou da competência em favor da Justiça Federal de Mato Grosso, em razão da sede funcional da autoridade impetrada. Por disso discordar, o Magistrado cuiabano suscitou o presente incidente processual.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Conheço do conflito, porquanto suscitado entre juízos vinculados a tribunais diversos, nos termos do art. 105, I, d, da Constituição Federal, e porque observada a previsão dos arts. 66 e 953 do CPC.
+Quanto ao mérito, a jurisprudência desta Corte alinhou-se ao entendimento do STF, em tema de competência em mandado de segurança, para admitir o ajuizamento do writ no domicílio do impetrante, ainda que diverso da sede funcional da autoridade impetrada. Confiram-se:
+PROCESSUAL CIVIL. TRIBUTÁRIO. CONFLITO NEGATIVO DE COMPETÊNCIA. MANDADO DE SEGURANÇA. DESPROVIMENTO DO AGRAVO INTERNO MANUTENÇÃO DA DECISÃO RECORRIDA. JURISPRUDÊNCIA PACÍFICA. RENÚNCIA DE FORO. ART. 109, § 2º, DA CONSTITUIÇÃO FEDERAL.
+I - Nesta Corte, Trata-se de conflito negativo de competência instaurado entre o Juízo Federal da 7ª Vara Cível de Brasília - SJ/DF, suscitante, e o Juízo Federal da 13ª Vara Cível de São Paulo - SJ/SP, suscitado, nos autos do mandado de segurança impetrado por VillaNova Engenharia e Desenvolvimento Ambiental Ltda em face do Presidente da Câmara Superior de Recursos Fiscais do Conselho
+Administrativo de Recursos Fiscais (CSRF), com sede funcional no Distrito Federal. Foi declarado o Juízo Federal da 13ª Vara Cível de São Paulo - SJ/SP como competente.
+II - Com efeito, esta Corte tinha jurisprudência pacificada no sentido de que, no âmbito de ação mandamental, a competência seria absoluta e fixada em razão da qualificação da autoridade apontada como coatora e de sua sede funcional.
+III - Não obstante, tendo em vista o entendimento do STF, o STJ reviu seu posicionamento anterior e, visando facilitar o acesso ao Poder Judiciário, estabeleceu que as causas contra a União poderão, de acordo com a opção do autor, ser ajuizadas nos juízos indicados no art. 109, § 2º, da Constituição Federal.
+IV - Assim, caberá ao autor da ação escolher o foro em que irá propor a demanda, podendo ajuizá-la no foro de seu domicílio. Ainda, houve o destaque de que o texto constitucional não faz distinção entre o tipo de ação para a aplicação dessa regra, não havendo justificativa para sua não incidência em sede de mandado de segurança. Nesse sentido: CC 169.239/DF, relator Ministro Herman Benjamin, Primeira Seção, julgado em 10/6/2020, DJe 5/8/2020; RE 627.709, Relator Ministro Ricardo Lewandowski, Tribunal Pleno, julgado em 20/8/2014, processo eletrônico repercussão geral - mérito DJe-213, divulgação em 29/10/2014 publicação 30/10/2014.
+V - A faculdade atribuída ao impetrante do mandado de segurança quanto ao foro competente para julgamento, se o do local da sede funcional da autoridade impetrada ou o do domicílio do impetrante, deve ser exercida no momento da impetração.
+VI - Assim, após a impetração do mandado de segurança, não é possível a parte impetrante renunciar ao foro por ela escolhido, sob pena de violação ao princípio do juiz natural.
+VII - Agravo interno improvido.
+(AgInt nos EDcl no CC n. 185.608/DF, relator Ministro Francisco Falcão, Primeira Seção, julgado em 14/3/2023, DJe de 17/3/2023).
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. MANDADO DE SEGURANÇA. ART. 109, § 2º, DA CONSTITUIÇÃO FEDERAL. POSSIBILIDADE DE AJUIZAMENTO NO DOMICÍLIO DO AUTOR. FACULDADE CONFERIDA AO IMPETRANTE.
+1. O STJ, seguindo a jurisprudência pacificada do Supremo Tribunal Federal, entende que as causas intentadas contra a União poderão ser aforadas na Seção Judiciária em que for domiciliado o autor, naquela onde houver ocorrido o ato ou fato que deu origem à demanda, ou onde esteja situada a coisa, ou, ainda, no Distrito Federal.
+2. Optando o autor por impetrar o mandamus no seu domicílio, e não naqueles outros previstos no § 2º do art. 109 da Constituição Federal, não compete ao magistrado limitar a aplicação do próprio texto constitucional, por ser legítima a escolha da parte autora, ainda que a sede funcional da autoridade coatora seja no Distrito Federal, impondo-se reconhecer a competência do juízo suscitado.
+3. Conflito de Competência conhecido para declarar competente o Juízo Federal da 2ª Vara de Barueri - SJ/SP, ora suscitado.
+(CC n. 169.239/DF, relator Ministro Herman Benjamin, Primeira Seção, julgado em 10/6/2020, DJe de 5/8/2020).
+No caso dos autos, a parte autora ajuizou o mandado de segurança no foro de seu domicílio, juízo no qual a ação deve receber tramitação e julgamento.
+ANTE O EXPOSTO, com fundamento no art. 34, XXII, do RISTJ, conheço do conflito a fim de declarar competente para processar e julgar a demanda a 1ª Vara Federal da Subseção Judiciária de Itapeva/SP, ora suscitada.
+Dê-se ciência aos Juízos envolvidos e ao MPF.
+Publique-se.
+EMENTA
