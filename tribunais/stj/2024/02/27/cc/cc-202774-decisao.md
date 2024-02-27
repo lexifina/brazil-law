@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o Juízo Federal da 6ª Vara Previdenciária de São Paulo - SJ/SP (suscitante) e o Juízo Federal da 2ª Vara Cível de Brasília - SJ/DF (suscitado), nos autos de ação de obrigação de fazer em face do INSS, em que se objetiva o pagamento de valores decorrentes de sentença proferida em ação coletiva.
+No caso, o Juízo Federal da 3ª Vara da Seção Judiciária do Distrito Federal declinou da competência em favor do Juízo Federal da 6ª Vara Previdenciária da 1ª Seção Judiciária de São Paulo ao fundamento de que as execuções individuais de ações coletivas devem ser propostas no mesmo Juízo no qual proferida a sentença condenatória (fls. 57-58).
+O Desembargador Relator do TRF da 1ª negou provimento ao agravo de instrumento e aos embargos de declaração, mantendo a decisão do referido Juízo (fls. 73-80).
+Por sua vez, o Juízo da 6ª Vara Previdenciária de São Paulo suscita o presente conflito sob entendimento de que inexiste prevenção do Juízo que examinou o mérito da ação coletiva para o processamento e julgamento das execuções individuais desse título judicial (fls. 89-91).
+O Ministério Público Federal oficia pela competência da Justiça Federal de Brasília (suscitado) (fls. 113-115).
+É o relatório. Passo a decidir.
+Consigne-se inicialmente o Juízo suscitado é o TRF da 1ª Região, porquanto manteve a decisão da 3ª Vara da Seção Judiciária do Distrito Federal, o qual declinou da competência em favor do Juízo Federal da 6ª Vara Previdenciária da 1ª Seção Judiciária de São Paulo. Assim, a autuação deve ser corrigida.
+Dito isso, cabe esta belecer que a Primeira Seção desta Corte, no Conflito de Competência 13 1.123/DF, decidiu que o ajuizamento de execução individual derivada de decisão proferida no julgamento de ação coletiva não segue a regra dos arts. 475-A e 575, II, do CPC, tendo como foro de competência o domicílio do exequente, nos moldes dos arts. 98, § 2º, I, e 101, I, do Código de Defesa do Consumidor, inexistindo a prevenção identificada na instância originária.
+Assim sendo, "pode o exequente optar por ajuizar no Distrito Federal o cumprimento de sentença coletiva contra a União, nos termos do § 2º do art. 109 da Constituição Federal, entendimento que milita a favor da máxima efetividade do dispositivo constitucional, além de ampliar/facilitar o acesso à justiça pelo credor da União" (CC n. 199.938/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 11/10/2023, DJe de 17/10/2023.)
+Ante o exposto, conheço do conflito para declarar competente o Juízo Federal de Brasília (suscitado).
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. SENTENÇA COLETIVA PROFERIDA PELA JUSTIÇA FEDERAL PAULISTANA. CUMPRIMENTO INDIVIDUAL POSTULADO NA JUSTIÇA FEDERAL DE BRASÍLIA. VALIDADE DA OPÇÃO, EM DECORRÊNCIA DO ENTENDI MENTO FIRMADO PELO STJ SOBRE NÃO HAVER PREVENÇÃO DO JUÍZO FEDERAL PROLATOR DA SENTENÇA COLETIVA, EM RAZÃO DO ART. 109, § 2º, DA CF.
