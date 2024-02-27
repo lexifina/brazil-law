@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo de SONIA MARLI CONCEIÇÃO BRASIL contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. REPASSE DE DADOS PESSOAIS. AUSÊNCIA DE PROVA MÍNIMA.
+1. Não tendo a parte autora produzido prova mínima acerca da alegada captação e divulgação de dados pessoais a terceiros, nem mesmo para conferir verossimilhança à alegação e autorizar a inversão do ônus da prova com base no art. 6º, VIII, do CDC ou no art. 373, §1º, do CPC, impõe-se a confirmação da sentença que julgou improcedente a ação.
+2. A demandante possui relação contratual com a instituição financeira que teria recebido informações da empresa ré, como comprovado em outra demanda nos termos de julgamento trazido aos autos, de modo que ela já possuía seus dados cadastrais.
+3. Sentença de improcedência mantida. Honorários recursais devidos.
+APELAÇÃO DESPROVIDA.
+Opostos embargos de declaração, restaram rejeitados.
+Nas razões do recurso especial, a recorrente alega, além de dissídio jurisprudencial, violação aos arts. 186, do Código Civil, 6º, 14, 22, § único, 42, § único, 43, 73, 83, 84, § 2º, do Código de Defesa do Consumidor, ao argumento, entre outros, que "EM MOMENTO ALGUM DO FEITO É TRAZIDO ALGUMA PROVA DE QUE A AUTORA, DE FATO, PROCUROU OS SERVIÇOS DA RÉ e/ou esteve presente em uma loja da ré para fins de repassar seus dados ou entabular a CONTRATAÇÃO FRAUDULENTA CUJA QUAL FOI PERFECTIBILIZADA COM AS INFORMAÇÕES PESSOAIS E SENSÍVEIS DA AUTORA. Logo, salta aos olhos o fato de que empresa terceira tenha agido como correspondente e repassado informações tão pessoais da autora a instituições financeiras e tudo isso À REVELIA DA CONSUMIDORA!! Veja-se que no caso dos autos informações bancárias, nome completo, CPF, telefone, endereço, entre outros dados pessoais da autora foram repassados a terceiros pela ré a seu bel prazer, com o fito exclusivo de LUCRAR às custas da CONSUMIDORA" (e-STJ, fl. 209).
+É o relatório. Passo a decidir.
+A parte recorrente, nas razões do recurso especial, limita-se a afirmar que "a decisão constante no Acórdão que ora se recorre contraria os ditames do CÓDIGO DE DEFESA DO CONSUMIDOR, eis que permite que uma grande empresa se utilize abusivamente de dados do consumidor e os repasse a terceiros" (e-STJ, fl. 210).
+O acórdão recorrido, no entanto, baseou seu entendimento argumentando isto:
+A petição inicial foi instruída apenas com proposta de contratação de saque mediante cartão de crédito, n. 53996824, e respectiva cédula de crédito bancário, em 11/12/2018, ambas assinadas (evento 1, CONTR2).
+O único elemento sobre a tese inaugural é a indicação, na cédula de crédito bancária, da empresa ré como correspondente, no quadro V do instrumento contratual.
+Desse modo, conforme fundamentação da sentença, a parte autora não logrou comprovar, sequer minimamente, o fato constitutivo do seu direito, nem mesmo para conferir verossimilhança à alegação e determinar a inversão do ônus da prova com base no art. 6º, VIII, do CDC ou com amparo no art. 373, §1º, do CPC.
+Além disso, como bem salientado pelo Juízo de origem, a demandante possui relação contratual com a instituição financeira Banco BMG S/A, como comprovado no feito autuado sob n. 5038903-93.2019.8.21.0001, em que buscava a autora a declaração de nulidade do contrato, de modo que ela já possuía seus dados cadastrais, com o seguinte julgamento:
+(..)
+Por conseguinte, ausente a prova mínima de que houve captação e divulgação de dados pessoais da autora a terceiros. Ademais, não veio ao feito qualquer evidência de ato ilícito ou abuso de direito pela parte ré, muito menos ofensa a direito de personalidade da autora. (e-STJ, fl. 165, grifou-se).
+Todavia, nas razões do recurso especial tais fundamentos não foram atacados. Nesse contexto, incide a Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Nesse sentido:
+"DIREITO ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. DESAPROPRIAÇÃO. UTILIDADE PÚBLICA. AÇÃO EXPROPRIATÓRIA. PRETENSÃO. CONEXÃO. AÇÃO REPARATÓRIA. DANOS MORAIS, MATERIAIS E LUCROS CESSANTES. REUNIÃO. POSTERIOR DESAPENSAMENTO. FALTA. IMPUGNAÇÃO. PRECLUSÃO TEMPORAL. FUNDAMENTO INATACADO. AUSÊNCIA. PREQUESTIONAMENTO. INCIDÊNCIA. SÚMULA 07/STJ. DISSÍDIO. FALTA. COTEJO. DECISÃO MONOCRÁTICA. DENEGATÓRIA. SEGUIMENTO. AGRAVO REGIMENTAL. REPRODUÇÃO. RAZÕES. RECURSO ESPECIAL. DISSOCIAÇÃO. FUNDAMENTAÇÃO. INOBSERVÂNCIA. DIALETICIDADE.
+1. Ao recurso especial nega-se seguimento quando não realizado o cotejo analítico necessário para a demonstração do dissídio jurisprudencial, quando não atacado determinado fundamento legal que embasa o acórdão da origem, quando não prequestionadas as teses recursais e quando houver a necessidade de revolvimento fático-probatório, tudo isso nos termos das Súmulas 282, 283, 284 e 356, do Supremo Tribunal Federal, e da Súmula 07/STJ.
+2. O subsequente agravo regimental que, em vez de atacar esses fundamentos, limita-se à reprodução do texto do recurso especial e a defender o seu cabimento, ressente-se de regularidade formal face a inobservância do princípio da dialeticidade.
+3. Agravo regimental não conhecido. Multa do art. 557, § 2.º, do CPC, em um por cento sobre o valor da causa."
+(AgRg no REsp 1434100/RJ, 2ª Turma, Rel. Min. MAURO CAMPBELL MARQUES, DJe de 31/3/2014)
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios devidos à parte recorrida de 12% para 13% sobre o valor atualizado da causa, ressalvados os efeitos da concessão do benefício da assistência judiciária gratuita.
+Publique-se.
+EMENTA
