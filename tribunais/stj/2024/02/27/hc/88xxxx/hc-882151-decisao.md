@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ROSIVAN FERREIRA ELEOTÉRIO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ (HC nº 0814666-06.2023.8.14.0000).
+Consta dos autos que o paciente foi preso no dia 21/11/2019 em razão da prática dos ilícitos previstos nos artigos 33, caput, e 35, ambos da Lei nº 11.343/06, 14 da Lei nº 10.826/03 e 288 do Código Penal.
+No dia 18/3/2020, o acusado foi solto com a aplicação de medidas alternativas e, em 24/7/2023, o Juízo de 1º Grau decretou novamente a sua prisão, em razão do descumprimendo das medidas cautelares fixadas. Impetrado prévio writ, a ordem foi denegada.
+No presente habeas corpus, o impetrante afirma que a prisão preventiva careceria dos pressupostos obrigatórios do artigo 312 do Código de Processo Penal, sendo plenamente possível a substituição da medida extrema por cautelares diversas da prisão, especialmente diante da ausência de contemporaneidade entre os delitos imputados e a decretação da medida extrema.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva do paciente com ou sem a fixação de medidas cautelares distintas do cárcere.
+A liminar foi indeferida, as informações foram prestadas e o Ministério Público Federal manifestou-se pelo não conhecimento do writ.
+É o relatório.
+Decido.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A decisão que decretou a prisão preventiva do paciente teve a seguinte fundamentação (fls. 40-41):
+ .. .No caso concreto, além do descumprimento das medidas cautelares (art. 312, parágrafo único,do CPP), verifico que a essa altura estão presentes os requisitos para se decretar a prisãopreventiva de ROSIVAN FERREIRA ELEOTÉRIO, vulgo "Macaco"
+Com efeito, a imputação que pesa sobre o autuado é de ter cometido crimes dolosos punidos com pena privativa de liberdade máxima superior a 4 anos, quando somadas, o que autoriza o decreto de prisão preventiva a teor do inciso I do art. 313 do CPP.
+Ademais, nesse momento, não está evidenciada a presença de nenhuma excludente de antijuridicidade, o que afasta a vedação do art. 314 do CPP quanto ao decreto de prisão preventiva.
+Na espécie, a decretação da prisão preventiva se justifica, pois além da materialidade delitiva e indícios de autoria (fumus comissi delicti), presentes situações previstas no artigo 312 do Códigode Processo Penal, especificamente a garantia da ordem pública, a conveniência da instrução criminal e para assegurar a aplicação da lei penal, autorizando a prisão cautelar (periculum libertatis).
+De início, acerca da GARANTIA DA ORDEM PÚBLICA, verifico que os documentos e depoimentos prestados no âmbito policial revelam que o autuado é possivelmente dotado de elevado grau de periculosidade.
+Todos esses fatores somados revelam uma ação audaciosa, destemida e alheia às consequências de seus atos, seja perante as suas vítimas, seja perante a Justiça, porquanto nãose intimida com a atuação das autoridades constituídas.
+Frise-se a gravidade em concreto do delito, haja vista as circunstâncias do fato, o seu modus operandi e o desdém ações noticiadas, por si só, demonstram que o autuado em liberdade oferece risco à coletividade, sendo, pois, imperiosa uma atuação mais enérgica neste momento a fim de evitar um mal maior.
+Destaco que os motivos que levam este juízo a decretar a prisão processual não dizem respeito a gravidade em tese do crime, mas sim a periculosidade evidenciada com a conduta perpetrada (que são situações totalmente distintas), bem como a gravidade em concreto do fato delituoso e, ainda, resguardar o meio social.
+Imperioso destacar ainda que a comunidade local é reiteradamente abalada com crimes dessa espécie, havendo necessidade de que o meio social seja preservado, evitando o descrédito da justiça, ainda mais quando não respondido o chamado do Poder Judiciário.
+No que tange à CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL, verifico ainda que o autuado em liberdade representa real dificuldade em elucidar as circunstâncias exatas dos crimes em comento, notadamente pelo paradeiro não sabido do acusado nestes autos, o que poderia comprometer a apuração dos fatos e influenciar no deslinde da querela.
+Quanto à necessidade de assegurar a APLICAÇÃO DA LEI PENAL, verifico que o autuado se ausentou do distrito da culpa, sendo imperioso, neste momento, assegurar a aplicação da lei penal.
+Por fim, as medidas cautelares diversas da prisão, elencadas no rol do art. 319 do CPP revelam-se inadequadas e insuficientes para resguardar a ordem pública, a conveniência da instrução criminal e assegurar a aplicação da lei penal.
+Deste modo, revela-se a necessidade de ser mantida a custódia cautelar do autuado. .. .
+Como se vê, o decreto prisional apresentou fundamentação concreta, evidenciada no descumprimento das medidas cautelares fixadas para a concessão da liberdade provisória, não havendo manifesta ilegalidade.
+O descumprimento de medida cautelar imposta para a concessão da liberdade provisória justifica a custódia cautelar. Nesse sentido: RHC n. 49.126/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 26/09/2014; HC n. 281.472/MG - 5ª T. - unânime - Rel. Min. Jorge Mussi - DJe 18/06/2014; HC n. 269.431/GO - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz, DJe 11/04/2014; HC n. 275.590/BA - 5ª T. - unânime - Rel. Min. Laurita Vaz, DJe 26/02/2014.
+Ademais, mostra-se incabível o exame da questão referente à não ocorrência do descumprimento das medidas cautelares, porquanto demanda revolvimento de prova.
+Outrossim, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: AgRg no HC n. 801.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023; AgRg no HC n. 785.639/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 6/3/2023, DJe de 10/3/2023; AgRg no RHC n. 172.667/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
