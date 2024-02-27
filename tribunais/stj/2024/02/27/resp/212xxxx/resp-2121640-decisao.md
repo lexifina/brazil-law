@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto por RUBENILDE MARIA CAMARA PEREIRA DO AMARAL com fundamento no art. 105, III, da Constituição Federal.
+Na origem, Rubenilde Maria Camara Pereira do Amaral interpôs agravo de instrumento contra decisão da 6ª Vara de Fazenda Pública do Distrito Federal que, nos autos de cumprimento individual de sentença coletiva derivada do título judicial formado nos autos da ação coletiva n. 32.159/97, em que se reconheceu o direito dos substituídos do Sindicato autor ao benefício-alimentação, determinou que a correção monetária seja calculada com base nos parâmetros fixados no título executivo e, ainda, a incidência simples da Selic, que foi provido, monocraticamente, pelo Relator, restando prejudicado o agravo interno interposto pelo Distrito Federal.
+O TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS acolheu a preliminar suscitada pelo ente público, em novo agravo interno, e julgou prejudicado o agravo de instrumento, posto que no julgamento do AI 0737919-44.2022.8.07.0000, a 8ª Turma reconheceu a ilegitimidade ativa da autora e extinguiu o cumprimento individual de sentença, sem resolução do mérito (CPC, art. 485, VI).
+O referido acórdão foi assim ementado, in verbis:
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DA SENTENÇA COLETIVA Nº 00032159/97. DISTRITO FEDERAL. PRELIMINAR. RECONHECIMENTO DE ILEGITIMIDADE ATIVA EM RECURSO ASSOCIADO. EXTINÇÃO DO CUMPRIMENTO DE SENTENÇA. ANÁLISE DO RECURSO PREJUDICADA.
+1. No Agravo de Instrumento nº 0737919-44.2022.8.07.0000, foi reconhecida a ilegitimidade ativa da exequente, extinguindo o cumprimento individual de sentença, sem resolução do mérito (CPC, art. 485, VI).
+2. Resta prejudicado o agravo instrumento diante da extinção do cumprimento individual de sentença determinada no julgamento de outro processo.
+3. Preliminar acolhida. Agravo de instrumento julgado prejudicado.
+Os embargos de declaração opostos foram rejeitados.
+Contra a decisão cuja ementa se encontra acima transcrita, foi interposto o presente recurso especial, apontando violação dos arts. 313, V, a, 1.022, II e 1.026, § 2º, do CPC/2015.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Em relação à alegada omissão suscitada no presente recurso especial, o recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em nulidade ao deixar de se pronunciar adequadamente acerca das questões apresentadas nos embargos de declaração, fazendo-o de forma genérica, sem desenvolver argumentos para demonstrar especificamente a suposta mácula.
+Nesse panorama, a arguição genérica de nulidade pelo recorrente atrai o comando do Enunciado Sumular n. 284/STF, inviabilizando o conhecimento dessa parcela recursal.
+Sobre o assunto, confiram-se:
+ADMINISTRATIVO. REDIRECIONAMENTO DE EXECUÇÃO FISCAL DE NATUREZA NÃO TRIBUTÁRIA. DISSOLUÇÃO IRREGULAR NÃO COMPROVADA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. IMPOSSIBILIDADE. VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÃO GENÉRICA. SÚMULA N. 284/STF.
+I - Não se conhece do recurso especial com alegação genérica de violação do art. 535 do Código de Processo Civil de 1973. Incidência do enunciado n. 284 da Súmula do STF. Necessidade de reexame de fatos e provas para modificar o entendimento do Tribunal de origem quanto à regularidade da dissolução da sociedade empresária. Incidência do enunciado n. 7 da Súmula do STJ.
+II - Agravo interno improvido.
+(AgInt no AREsp n. 962.465/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 6/4/2017, DJe 19/4/2017).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CSLL. MAJORAÇÃO DE ALÍQUOTA. VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. A genérica alegação de ofensa ao art. 535 do CPC, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, atrai o óbice da Súmula 284 do STF.
+2. É vedada a análise das questões que não foram objeto de efetivo debate pela Corte de origem, estando ausente o requisito do prequestionamento. Incidência da Súmula 211/STJ.
+3. Quanto à elevação da alíquota da CSLL, o aresto recorrido está em conformidade com a jurisprudência deste Tribunal Superior, que considera que a Instrução Normativa n. 81/99 não desbordou dos limites da MP 1.807/99.
+4. Agravo interno a que se nega provimento.
+(AgRg no AREsp n. 446.627/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 6/4/2017, DJe 17/4/2017).
+Na hipótese dos autos, assim decidiu a Corte de origem, in verbis (fls. 250-251):
+10. No julgamento do AI 0737919-44.2022.8.07.0000, esta 8ª Turma reconheceu a ilegitimidade ativa da autora e extinguiu o cumprimento individual de sentença, sem resolução do mérito (CPC, art. 485, VI).
+11. A referida decisão não transitou em julgado em virtude da interposição de Recurso Especial e de Recurso Extraordinário, recursos desprovidos de efeito suspensivo.
+12. O Agravo de Instrumento nº 0737919-44.2022.8.07.0000 foi interposto pelo Distrito Federal em 9/11/2022. O acórdão que confirmou o reconhecimento da ilegitimidade ativa da agravada foi proferido no dia 27/4/2023 (ID nº 46152275).
+13. Este agravo de instrumento foi interposto pela autora do cumprimento de sentença em 24/11/2022 em desfavor da decisão de ID nº 136882461 (autos originários), proferida em 15/9/2022, integrada pela decisão de ID nº 140752081, proferida em 25/10/2022.
+14. Diante da ordem cronológica dos recursos interpostos e da extinção do cumprimento de sentença nos autos do AI nº 0737919-44.2022.8.07.0000, julgo prejudicado o agravo de instrumento.
+Dessa forma, verifica-se que a Corte de origem analisou a controvérsia principal dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Importante destacar, ainda, que, apesar da Recorrente ter indicado, nas razões do apelo nobre, contrariedade ao art. 1.022 do CPC/2015, não demonstrou em que aspectos residiriam as omissões e sua relevância ao deslinde da controvérsia, tampouco infirmou as conclusões do acórdão dos declaratórios, atraindo, por analogia, a incidência da Súmula 284 do STF, circunstância que impede o reconhecimento do prequestionamento ficto.
+No mesmo sentido: AgInt no AREsp 1869146/PE, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 21/03/2022, DJe 30/03/2022; AgInt no REsp 1931444/TO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 14/02/2022, DJe 21/02/2022; AgInt no REsp 1790501/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 15/03/2021, DJe 19/03/2021; AgInt nos EDcl no REsp 1848930/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 08/02/2021, DJe 11/02/2021; AgInt no REsp 1744514/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 19/10/2020, DJe 23/10/2020.
+Por fim, quanto a violação do art. 1.026, § 2º, do CPC/2015, em razão da multa por interposição de embargos de declaração protelatórios, é forçoso esclarecer da inviabilidade de, nesta Corte Superior, rever o entendimento firmado pelas instâncias ordinárias no tocante ao cabimento da multa cominatória devido ao caráter protelatório do recurso, porquanto exigiria a análise de matéria fática constante dos autos, providência vedada pelo enunciado da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015 (ART. 535 DO CPC/1973). NÃO OCORRÊNCIA. ALEGAÇÃO DE CULPA EXCLUSIVA DO LITISCONSORTE E AUSÊNCIA DE PROVA DO DANO MORAL. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+(..)
+V - Por derradeiro, quanto à suposta violação dos arts. 1.025 e 1.026, § 2º, do CPC/2015 e o pleito de exclusão da multa imposta na oposição dos embargos de declaração, esta Corte Superior tem jurisprudência consolidada no sentido de que a análise do caráter protelatório dos declaratórios demanda reexame do acervo fático-probatório dos autos, o que é inviável em recurso especial, sob pena de violação da Súmula n. 7/STJ. A propósito: AgInt no AREsp n. 1.441.228/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 5/3/2020, DJe 17/3/2020.
+VI - Agravo interno improvido.
+(AgInt no AREsp n. 1.675.066/MG, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 23/8/2021, DJe de 27/8/2021).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489, § 1º, IV, E 1.022, I e II, DO CPC/2015. NÃO OCORRÊNCIA. ART. 371 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. EMBARGOS À EXECUÇÃO FISCAL. ISSQN. SUJEITO ATIVO. LC 116/2003. MUNICÍPIO ONDE SERVIÇO É EFETIVAMENTE PRESTADO. JUÍZO FIRMADO COM LASTRO NO CONTEXTO FÁTICO-PROBATÓRIO. REVISÃO. SÚMULA 7/STJ. EMBARGOS DE DECLARAÇÃO NA ORIGEM. CARÁTER PROTELATÓRIO. MULTA. MANUTENÇÃO. RECURSO ESPECIAL CONHECIDO EM PARTE E NÃO PROVIDO.
+(..)
+5. A revisão do entendimento do Tribunal de origem, que aplicou a penalidade prevista no art. 1.026, § 2º, do CPC/2015, por considerar os embargos opostos protelatórios, tal como colocada a questão nas razões recursais, demanda necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula 7/STJ. A propósito, vide: AgInt no AREsp 1.538.890/GO, Rel. Min. Francisco Falcão, Segunda Turma, DJe 8/10/2019; REsp 1.801.128/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 11/10/2019; AgInt no AREsp 713.512/MG, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 23/9/2016.
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.890.747/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 19/4/2021, DJe de 23/4/2021).
+Ante o exposto, com esteio no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
