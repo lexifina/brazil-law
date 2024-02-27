@@ -1,0 +1,34 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto em parte o relatório de fl. 409 (e-STJ).
+O pedido liminar foi indeferido (e-STJ fls. 409-411).
+A origem prestou informações (e-STJ fls. 418-420 e 424-457).
+O Ministério Público manifestou-se pela denegação da ordem (e-STJ fls. 460-464).
+Em consulta no sitio do Tribunal de origem, verifica-se que se encontra pendente de exame o recurso de apelação interposto pela defesa.
+É o relatório.
+Decido.
+A teor do art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado.
+No caso, o Magistrado processante decretou a constrição do paciente para garantia da ordem pública, nos seguintes termos (e-STJ fl. 20 ):
+Os flagrados foram presos na posse de drogas, e ainda a forma de acondicionamento evidenciam a periculosidade dos agentes e o seu envolvimento, em tese com o mundo do crime, razão pela qual as prisões processual se fazem necessárias para a garantia da ordem pública (periculum libertatis).  ..  Extrai-se dos autos que o flagranteado Giovane Marques Bento é useiro e vezeiro na prática delitiva, inclusive está cumprindo pena pelo crime previsto no art. 33 da Lei 11.343, o que demonstra não ser viável a concessão da liberdade no momento, pela garantia da ordem pública pois, se solto for, poderá voltar a delinquir e colocar novamente a sociedade em risco razão pela qual indefiro o pedido aviado.
+O Tribunal local assim fundamentou a controvérsia (e-STJ fls. 314-315):
+Verifico dos documentos constantes do "mandamus", que a Decisão da Autoridade Coatora, constante de ordem 06, também justificou a impossibilidade de conversão da prisão em medidas cautelares alternativas, tendo em vista a gravidade do crime e risco que a liberdade do réu representa ao meio social, sendo necessária a manutenção da sua prisão para a garantia da ordem pública.
+ ..
+Ademais, verifico da certidão de antecedentes criminais do Paciente, acostada em doc. de ordem 02 fls.75/76, que o mesmo é reincidente em crime de tráfico de drogas, restando demonstrado o seu costumeiro envolvimento em atividades criminosas.
+Assim, não há de se falar em revogação da prisão preventiva do Paciente, por presentes os requisitos e pressupostos dos arts.312 e 313, I e II do CPP.
+A sentença condenou o réu à pena de 7 anos de reclusão, em regime fechado, além do pagamento de 700 dias multa, pela prática do crime do art. 33, caput, da Lei 11.343/2006, c/c o art. 61, I, do Código Penal. Na oportunidade, o magistrado entendeu desarrazoado soltá-lo após análise concreta da periculosidade, destacando a manutenção do cárcere durante todo o processo e a permanência do risco à ordem pública.
+Verifica-se, assim, que a prisão cautelar está suficientemente motivada pelas instâncias ordinárias, para garantia da ordem pública, diante do perigo gerado pela liberdade do apenado, tendo em vista sua reincidência na atuação na mercancia de entorpecentes, com apreensão em seu poder, no momento do flagrante, de maconha e cocaína.
+Nos termos da jurisprudência desta Corte, "o receio de reiteração criminosa justifica a prisão cautelar para a garantia da ordem pública" (AgRg no HC n. 772.693/CE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 8/8/2023, DJe de 15/8/2023).
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. NULIDADE DO FLAGRANTE. VIOLAÇÃO DE DOMICÍLIO. NÃO OCORRÊNCIA. CONTEXTO PRÉVIO E CONCRETO APTO A INDICAR A PRÁTICA DE CRIME PERMANENTE. REVOGAÇÃO DA PRISÃO PREVENTIVA. IMPOSSIBILIDADE. FUNDAMENTOS IDÔNEOS. RISCO DE REITERAÇÃO DELITIVA. REINCIDÊNCIA ESPECÍFICA. GARANTIA DA ORDEM PÚBLICA. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA.
+Agravo regimental improvido.
+(AgRg no HC n. 843.948/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. REINCIDÊNCIA ESPECÍFICA. CONTUMÁCIA DELITIVA. INSUFICIÊNCIA DE MEDIDAS DIVERSAS DA PRISÃO. AGRAVO DESPROVIDO.
+1. Para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria. Exige-se, mesmo que a decisão esteja pautada em lastro probatório, que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Julgados do STF e STJ.
+2. Hipótese na qual o agravante foi flagrado em posse de 49 porções de cocaína, pesando 31g e 3 cigarros de maconha, quantidade que não pode se considerada expressiva. Todavia, as instâncias ordinárias destacaram, corretamente, a inviabilidade da aplicação de medidas menos gravosas do que a custódia cautelar, tendo em vista a obstinação do agravante nas práticas delitivas, de modo que sua liberdade representaria risco concreto de reiteração delitiva, ameaçando, pois, a ordem pública.
+3. Em consulta à sua folha de antecedentes criminais, verifica-se que foi condenado definitivamente em 15/8/2022 à pena de 3 anos e 9 meses de reclusão, em regime aberto, pelo crime de tráfico de drogas ocorrido em 26/11/2016. Em 29/1/2018 teria praticado novo delito previsto na lei de drogas, realizando transação penal. Em 26/8/2019 consta registro de crime de dano, cuja punibilidade foi extinta por renúncia do direito de representação pela vítima. Em 21/6/2019 teria praticado delito de receptação, com denúncia recebida em 26/10/2020. Em 20/12/2021 foi preso novamente em flagrante pelo crime de tráfico de drogas, sendo a prisão preventiva revogada em 6/5/2022. Aproximadamente 1 ano depois de beneficiado com a liberdade, voltou, em tese, a delinquir no mesmo crime.
+4. Tendo sido demonstrada a necessidade custódia cautelar, é inviável a substituição da prisão preventiva por medidas cautelares diversas, eis que a ordem pública não estaria acautelada com sua soltura.
+5. Agravo desprovido.
+(AgRg no RHC n. 184.046/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/8/2023, DJe de 22/8/2023.)
+Por fim, é assente que se tem "por inviável a aplicação de medidas cautelares diversas da prisão, quando a gravidade concreta da conduta delituosa e a periculosidade do agravante indicam que a ordem pública não estaria acautelada com sua soltura" (AgRg no HC n. 844.095/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
