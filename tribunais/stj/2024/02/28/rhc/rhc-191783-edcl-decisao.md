@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por EDVANDO BATISTA DE CAMPOS contra decisão de minha lavra, ementada nos seguintes termos (fl. 241):
+"RECURSO ORDINÁRIO CONSTITUCIONAL EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. INTIMAÇÃO PESSOAL. RÉU SOLTO. DESNECESSIDADE. DEFENSORIA PÚBLICA DEVIDAMENTE INTIMADA. RECURSO DESPROVIDO."
+Em suas razões, o Embargante sustenta que, na decisão impugnada, "não houve análise do fato de que o embargante recebeu intimação pessoal de todos os atos processuais, exceto da sentença condenatória. Essa particularidade torna a situação do embargante distinta daquela apresentada nos precedentes citados pelo respeitável relator na decisão monocrática" (fl. 253).
+Aduz que "nada foi mencionado acerca da violação aos princípios da confiança no estado/juiz, da boa-fé processual e da segurança jurídica" (fl. 253).
+Requer, ao final, o acolhimentos dos embargos, com a declaração da nulidade do trânsito em julgado da sentença condenatória.
+É o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir eventual omissão, afastar obscuridade, eliminar contradição ou ambiguidade existentes no julgado .
+A obtenção de efeitos infringentes somente é possível, excepcionalmente, nos casos em que, reconhecida a existência de um dos defeitos indicados no supramencionado dispositivo legal, a alteração do julgado seja consequência inarredável da correção do referido vício, bem como nas hipóteses de erro material ou equívoco manifesto, que, por si sós, sejam suficientes para a inversão do julgado.
+No caso, ressalto que a quaestio juris foi solucionada no acórdão embargado de maneira clara e coerente, em perfeita consonância com a legislação aplicável à espécie e com a jurisprudência desta Corte.
+Por oportuno, confiram-se os seguintes trechos da decisão embargada (fl. 242):
+"Conforme consignou o Desembargador Relator no voto condutor do julgado ora impugnado, "tendo permanecido em liberdade durante todo o trâmite da Ação Penal, não havia exigência legal de sua intimação pessoal, de modo que acertada a perfectibilização da ciência quanto à prolação da sentença condenatória, na pessoa do Defensor Público que lhe assistia processualmente à época, o qual se manifestou nos autos originários em 30/09/2022, exarando sua expressa ciência acerca do édito condenatório (ID 96594435 - autos n. 0031112- 48.2018.8.11.0042)" (fl. 202).
+Assim, não há nulidade a ser reconhecida, pois "o entendimento que prevaleceu na Corte local está harmonia com a jurisprudência do Superior Tribunal de Justiça, visto que, de fato, diante da efetiva intimação da Defensoria Pública (que defendia o acusado), era prescindível a intimação pessoal de réu solto, como prevê o art. 392, II, do CPP, sendo suficiente a intimação do representante processual" (AgRg no HC n. 726.326/CE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/03/2022, DJe de 28/03/2022; sem grifos no original)."
+Em verdade, verifico que os presentes embargos de declaração foram opostos com o inequívoco intento de viabilizar novos debates a respeito de assuntos já decididos, o que sabidamente não se coaduna com a sua finalidade processual. Com igual conclusão:
+"EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE OMISSÃO. MANIFESTA IMPROCEDÊNCIA. REDISCUSSÃO. DESCABIMENTO.
+1. Não se presta o recurso integrativo a rediscutir matéria já analisada e decidida. Na verdade, sob o pretexto de haver "omissão", a parte embargante indisfarçavelmente busca impugnar o acórdão que lhe foi desfavorável, insistindo nos mesmos argumentos, com o inequívoco intento de rediscutir a causa, o que não se coaduna com a via eleita.
+2. Embargos de declaração rejeitados." (EDcl no AgRg no AREsp 1.871.524/AM, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 26/10/2021, DJe 16/11/2021; sem grifos no original.)
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. ART. 619 DO CÓDIGO DE PROCESSO PENAL. VÍCIOS INEXISTENTES. EMBARGOS DE DECLARAÇÃO REJEITADOS.
