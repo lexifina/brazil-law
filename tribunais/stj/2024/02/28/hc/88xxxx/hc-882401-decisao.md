@@ -1,0 +1,27 @@
+DECISÃO
+A controvérsia foi bem relatada no parecer ministerial, in verbis (e-STJ fls. 62/63).
+Trata-se de habeas corpus impetrado em favor de LUCAS DA SILVA FARIA, em face de acórdão proferido pelo 7ª Grupo de Direito Criminal do Tribunal de Justiça do Estado de São Paulo, no julgamento da Revisão Criminal n. 2280228-41.2023.8.26.0000.
+Em síntese, o paciente foi condenado, por sentença transitada em julgado, como incurso no art. 33, caput, da Lei n. 11.343/06, à pena de 06 (seis) anos de reclusão, em regime inicial semiaberto, e 600 (seiscentos) dias-multa.
+A defesa peticionou revisão criminal, perante o Tribunal de Justiça do Estado de São Paulo, sustentando a existência de bis in idem, em razão da utilização da quantidade e variedade da droga apreendida tanto na fixação da pena-base, como para não concessão do privilégio do § 4º, do art. 33, da Lei n. 11.343/06.
+O pedido de revisão criminal foi deferido em parte, para afastar as circunstâncias de quantidade e variedade da droga como fundamento recrudescedor na terceira fase da dosimetria da pena, sem repercussão na pena final estabelecida na sentença penal condenatória.
+Neste writ, a defesa alega a existência de constrangimento ilegal no não reconhecimento da causa de diminuição correspondente ao tráfico privilegiado, com fundamento, tão somente, na confissão do paciente sobre eventual período de 30 (trinta) dias em que teria traficado, sem que houvesse qualquer outro fato que indicasse a sua dedicação a atividades criminosas.
+Requer, no mérito, a revisão da dosimetria, para aplicar o redutor do art. 33, § 4º, da Lei n. 11.343/06.
+O paciente foi apreendido com 87,2g (oitenta e sete gramas e dois decigramas) de maconha, 23,5g (vinte e três gramas e 5 decigramas) de cocaína e 44,5g (quarenta e quatro gramas e cinco decigramas) de crack.
+Parecer do Ministério Público Federal pela denegação da ordem.
+É o relatório.
+Decido.
+Aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006.
+O Tribunal de origem assim decidiu acerca da terceira fase de aplicação da pena, senão vejamos (e-STJ fls. 28/29):
+A pena-base foi fixada em 1/5 acima do mínimo legal pelas circunstâncias ("bem sopesados os elementos norteadores do artigo 42, da Lei nº 11.343/06, cumpre reconhecer que o réu trazia consigo grande quantidade e variedade de entorpecentes"), compensada a atenuante de confissão com a agravante de prática do crime em estado de calamidade pública, resultando na pena final de 6 anos de reclusão e pagamento de 600 dias-multa mínimos; não concedido o privilégio porque "o réu trazia consigo imensa quantidade e variedade de drogas, o que demonstra o seu profundo envolvimento com o narcotráfico, bem como informou que já estava há um mês vivendo do tráfico, motivos pelos quais não se mostra recomendável a aplicação do redutor do artigo 33, § 4º, da Lei nº 11.343/06".
+De fato, houve bis in idem na fixação da pena, uma vez que a quantidade e a variedade de drogas foi fundamento tanto para fixação da pena-base quanto para a não concessão da causa de diminuição do § 4º do artigo 33 da Lei nº 11.343/06.
+Contudo, ainda que afastada a quantidade e variedade de droga como fundamento na terceira etapa da dosimetria, o peticionário não faz jus ao privilégio. Isso porque subsiste o fundamento de que "já estava há um mês vivendo do tráfico", o que se adéqua à dedicação às atividades criminosas, ou seja, dedicação habitual ao crime, circunstância impeditiva do benefício.
+A Terceira Seção desta Corte, no julgamento do REsp n. 1.887.511/SP (relator Ministro João Otávio de Noronha, Terceira Seção, julgado em 9/6/2021, DJe de 1º/7/2021), definiu que a quantidade de substância entorpecente e a sua natureza hão de ser consideradas na fixação da pena-base, nos termos do art. 42 da Lei n. 11.343/2006, não sendo, portanto, pressuposto para a incidência da causa especial de diminuição de pena descrita no art. 33, § 4º, da Lei n. 11.343/2006.
+Definiu-se, na ocasião, que " a  utilização supletiva desses elementos para afastamento do tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa".
+Além disso, faz-se necessário asseverar que, posteriormente, o referido colegiado aperfeiçoou o entendimento anteriormente exarado no julgamento do Recurso Especial n. 1.887.511/SP, passando a adotar o posicionamento de que a quantidade e a natureza da droga apreendida podem servir de fundamento para a majoração da pena-base ou para a modulação da fração da causa de diminuição prevista no art. 33, § 4º, da Lei 11.343/2006, desde que, neste último caso, não tenha sido utilizada na primeira fase da dosimetria.
+No que se refere à confissão do paciente de que "já estava há um mês vivendo do tráfico", tal fato também não é suficiente para negar o reconhecimento do tráfico de entorpecentes privilegiado, pois não há qualquer condenação em razão de conduta anterior pela traficância, devendo ser ele considerado primário.
+Passo, assim, à readequação da pena, nos termos originários.
+Mantida a reprimenda até a segunda fase da dosimetria, na fase derradeira, e reduzida na fração de 2/3, em razão da aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, torno-a definitiva em 2 anos de reclusão e 200 dias-multa.
+Mantidos os demais termos do acórdão.
+Ante o exposto, concedo o habeas corpus, nos termos ora delineados.
+Publique-se. Intimem-se.
+EMENTA
