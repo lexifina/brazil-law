@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito da Vara de Execuções Penais de Brasília/DF, o suscitante, e o Juízo de Direito da Vara de Execuções Penais de Santo Antônio do Descoberto/GO, o suscitado.
+Versam os autos acerca da competência para executar múltiplas condenações impostas ao apenado Gilmar Thiago Dias de Sousa.
+Colhe-se dos autos que tramitava contra o apenado execução em curso na comarca de Santo Antônio do Descoberto/GO - em regime semiaberto harmonizado - quando sobrevieram vários incidentes na execução, inclusive a notícia de que o apenado tinha contra si outra execução em curso no Distrito Federal, circunstância essa que fundou a decisão do Juízo goiano no sentido de suspensão da execução e envio dos autos ao Juízo do Distrito Federal para soma e unificação das penas (fls. 277/280).
+Recebendo os autos, o Juízo da Vara de Execuções Penais de Brasília/DF suscitou o conflito considerando que o apenado não estava preso no Distrito Federal e que inexistia outra execução contra ele em curso no Distrito Federal (fl. 317).
+Autuado o incidente nesta Corte, os autos seguiram para o Ministério Público Federal para confecção de parecer, tendo o órgão ministerial opinado pela conversão do julgamento em diligência, a fim de que fossem obtidas informações acerca da existência de condenação anterior e do efetivo início de execução penal no Distrito Federal (fl. 326).
+Juntadas as informações requisitadas junto ao Juízo suscitado (fls. 346/350), o órgão ministerial pugnou pela requisição de novas informações acerca da existência de execução anterior contra o apenado em curso no Distrito Federal e, subsidiariamente, que a competência seja fixada por prevenção.
+É o relatório.
+Assiste razão ao Juízo suscitante.
+Ao rechaçar a competência para executar a pena imposta ao apenado Gilmar Thiago Dias de Sousa, o Juízo suscitado sopesou o fato de que o condenado estaria preso no Distrito Federal, em razão da Execução Penal n. 0017285-04.2014.8.07.0015 (fl. 349).
+Sucede que, em consulta aos autos do Processo n. 0017285-04.2014.8.07.0015, obtive a informação de que aquela execução nem sequer foi iniciada, pois o Juízo do Distrito Federal localizou execução anterior em curso contra o apenado na comarca de Santo Antônio do Descoberto/GO (decisão extraída em consulta ao SEEU):
+Trata-se de apenado que teve a PRD reconvertida em PPL pela decisão de mov. 117, prolatada pelo Juízo da VEPEMA/DF.
+Verifico que a reconversão, sem realização de audiência prévia com participação do apenado, teve como fundamento determinante sua não localização para início de cumprimento da pena alternativa ou participação em audiência de advertência por descumprimento das condições do benefício.
+A decisão de mov. 117 remeteu o feito para esta Vara em razão de mandado de prisão de Mov. 25. A consulta ao BNMP (Mov. 124) revela que o mandado foi cumprido e já foi expedido o respectivo alvará de soltura em 16/04/2020, e registra que o apenado está em liberdade.
+Há outro processo de execução no SEEU relacionado ao apenado: o de número 0135568-22.2013.8.09.0158, tramitando em Goiás, carta de guia de 22/04/2014 (Mov. 1.2) com o apenado em cumprimento de regime semi-aberto harmonizado.
+A primeira carta de guia deste processo na VEPERA é de 05/05/2014 (Mov. 1.1). A unificação das execuções com cancelamento da distribuição da execução penal mais recente dever ser realizada pelo juízo competente para a execução mais remota.
+Logo, considerando que não foi iniciada a execução no Distrito Federal e que o apenado não está segregado naquela localidade, compete ao Juízo suscitado, no qual tramitava a primeira execução, executar ambas as penas, inclusive decidindo sobre eventual unificação.
+Nesse sentido, confira-se:
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO DE PENA IMPOSTA PELA JUSTIÇA ESTADUAL INICIADA EM ESTABELECIMENTO PRISIONAL ESTADUAL. SUPERVENIÊNCIA DE CONDENAÇÃO DA JUSTIÇA FEDERAL. COMPETÊNCIA PARA A UNIFICAÇÃO DE PENAS DO JUÍZO NO QUAL TEVE INÍCIO A EXECUÇÃO PENAL.
+1. Iniciada a execução de pena imposta pela Justiça estadual em estabelecimento prisional estadual, é ao Juízo das Execuções do Estado que caberá proceder à soma/unificação de penas em virtude de superveniente condenação do mesmo réu pela Justiça Federal. Precedente: CC n. 38.920/AM, Ministra Maria Thereza de Assis Moura, Terceira Seção, julgado em 14/3/2007, DJ 26/3/2007, p. 195.
+2. Conflito conhecido, para declarar a competência do Juízo de Direito da Vara de Execução de Penas e Medidas Alternativas de Foz do Iguaçu/PR.
+(CC n. 142.848/PR, Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe 29/9/2015).
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da Vara de Execuções Penais de Santo Antônio do Descoberto/GO, o suscitado, para executar as penas impostas ao apenado Gilmar Thiago Dias de Sousa (Processos de Execução n. 0135568-22.2013.8.09.0158 e n. 0017285-04.2014.8.07.0015), inclusive decidindo sobre eventual unificação das penas.
+Dê-se ciência aos Juízes em conflito.
+Publique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO DE PENA INICIADA NA COMARCA DE SANTO ANTÔNIO DO DESCOBERTO/GO. SUPERVENIÊNCIA DE CONDENAÇÃO NO DISTRITO FEDERAL. COMPETÊNCIA PARA A UNIFICAÇÃO DE PENAS DO JUÍZO NO QUAL TEVE INÍCIO A EXECUÇÃO PENAL.
+Conflito conhecido para declarar a competência do Juízo de Direito da Vara de Execuções Penais de Santo Antônio do Descoberto/GO, o suscitado, para executar as penas impostas ao apenado Gilmar Thiago Dias de Sousa (Processos de Execução n. 0135568-22.2013.8.09.0158 e n. 0017285-04.2014.8.07.0015), inclusive decidindo sobre eventual unificação das penas.
