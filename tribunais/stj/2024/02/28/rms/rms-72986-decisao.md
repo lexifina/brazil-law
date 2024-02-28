@@ -1,0 +1,71 @@
+DECISÃO
+O MEDIADOR NET LTDA. impetrou mandado de segurança, apontando como autoridade coatora o Juízo da 3ª Vara Cível da Comarca de Criciúma/SC.
+Segundo se pode dessumir dos autos, a impetrante, segundo ela mesma afirma na inicial, é uma empresa de intermediação e negociação de dívidas.
+Perante o Juízo apontado como coator tramita cumprimento de sentença contra um cliente que não teria solvido o contrato, ou seja, deixado de pagar pelos serviços de intermediação realizados, com êxito, diz a impetrante, pois teria conseguido baixar a dívida negociada.
+A OAB, Seccional de Santa Catarina, ajuizou ação ordinária, julgada procedente, em grau de apelação, no TRF 4ª Região (processo 5002525-2.2010.4.04.7205), na qual ficou a impetrante condenada "às obrigações de não divulgar nem praticar todo e qualquer ato privativo de advogado e de advocacia, direta ou indiretamente, por si e/ou mediante terceiros; bem como para determinar que se abstenham de promover capacitação ilegal de clientela, retirando tais atividades de seus materiais publicitários e de seu contrato de prestação de serviços; e ainda, de se abster de fazer qualquer propaganda ou anúncio inerentes a atividade advocatícia."
+Eis a ementa do acórdão respectivo, extraída do sítio eletrônico (Link acórdão) do TRF 4ª Região:
+AÇÃO ORDINÁRIA. EXERCÍCIO DE ATIVIDADE PRIVATIVA DE ADVOGADO. CONSULTORIA E ASSESSORIA JURÍDICAS. CONFIGURAÇÃO. AÇÃO PROCEDENTE. INVERSÃO DOS ÔNUS DE SUCUMBÊNCIA.
+1. No caso concreto, as provas dão conta de que os réus promovem uma publicidade ostensiva com intuito de cooptar clientes que sejam devedores de financiamentos, pessoas endividadas, ou que estejam pagando prestações que entendam ser altas, com encargos que entendam abusivos, oferecendo o serviço de negociação extrajudicial, intermediando a negociação entre o cliente e instituição bancária e cobrando uma comissão fixa e uma comissão em percentual sobre o desconto obtido com a negociação.
+2. Conclui-se que a parte ré presta um serviço de consultoria e assessoria jurídica, ao passo que aconselha e auxilia como proceder para alcançar a renegociação da dívida e a quitação. Para tanto, transita por figuras jurídicas tais como endividamento, quitação, juros excessivos, busca e apreensão, ação revisional, reconvenção, entre outros. O próprio contrato de prestação de serviços prevê uma autorização que permite ao negociador contratar advogado em nome do seu cliente para adotar as medidas judiciais cabíveis, mas quem faz essa análise quanto à necessidade ou não de ajuizamento de ações e qual caminho será feito para obter a renegociação é o próprio negociador, do que se depreende que é prestada uma consultoria jurídica.
+3. A regulamentação das profissões serve justamente para evitar que pessoas não habilitadas ofereçam serviços para os quais não tem habilidade e que restariam não submetidos a fiscalização. As rés oferecem um serviço de consultoria e negociação e este serviço acaba não estando submetido à devida fiscalização porque não são advogados que o estão prestando.
+4. Apelação provida para julgar procedente a ação e condenar as rés às obrigações de não divulgar nem praticar todo e qualquer ato privativo de advogado e de advocacia, direta ou indiretamente, por si e/ou mediante terceiros; bem como para determinar que se abstenham de promover capacitação ilegal de clientela, retirando tais atividades de seus materiais publicitários e de seu contrato de prestação de serviços; e ainda, de se abster de fazer qualquer propaganda ou anúncio inerentes a atividade advocatícia. Sem fixação de multa diária. Recursos adesivos das rés prejudicados. Ônus de sucumbência invertidos.
+O Juízo apontado como coator, ao que se pode dessumir dos autos, teria proferido sentença nos autos do cumprimento de sentença (0001079-91.2012.8.24.0020), na qual determinou a intimação das partes para se manifestarem sobre o decidido na Justiça Federal, é dizer, a declaração, como visto, de nulidade dos negócios jurídicos celebrados pela pessoa jurídica O Mediador Net.
+Esse é o motivo de a ora recorrente ter impetrado mandado de segurança, visando obrigar o magistrado de primeiro grau a se declarar suspeito, porque, na sua visão, infringiu o julgador o Princípio da Congruência (art. 492 do CPC).
+Em decisão monocrática do Relator, no Tribunal de Justiça do Estado de Santa Catarina, foi indeferida a inicial do writ, por aplicação da Súmula 267/STF, ou seja, não cabe mandado de segurança contra ato passível de recurso ou correição (fls. 13.890-13.892).
+Manejado agravo interno, não foi provido (fls. 13.930):
+AGRAVO INTERNO EM MANDADO DE SEGURANÇA. DECISÃO AGRAVADA QUE INDEFERE A PETIÇÃO INICIAL. RECURSO QUE INSISTE NA ADEQUAÇÃO DO MANDADO DE SEGURANÇA. REJEIÇÃO. ATO JUDICIAL IMPUGNADO PASSÍVEL DE SER ATACADO POR RECURSO ESPECÍFICO. AÇÃO CONSTITUCIONAL UTILIZADA COMO SUBSTITUTO RECURSAL. APLICAÇÃO DO ART. 5º, II, DA LEI 12.016/2019 E DA SÚMULA 267 DO STF. INEXISTÊNCIA, ADEMAIS, DE ATO QUE POSSA SER CONSIDERADO MANIFESTAMENTE ILEGAL OU TERATOLÓGICO. CORRETA EXTINÇÃO DO FEITO. RECURSO CONHECIDO E NÃO PROVIDO.
+Daí o presente recurso ordinário, no qual reitera a sociedade empresária recorrente a tese de encontrar-se suspeito o juiz de primeiro grau, à frente da causa principal (0001079-91.2012.8.24.0020).
+Formula o seguinte pedido (fls. 14.004-14.005):
+Diante de todo o exposto, requer:
+1) o conhecimento do presente Recurso Ordinário para reformar a decisão denegatória e dar provimento para conceder a ordem de modo que a Recorrida se dê por suspeita e não mais atue nos processos do Impetrante até o trânsito em julgado deste mandado de segurança;
+2) Não sendo o caso de afastamento imediato da Recorrida por suspeição, requer seja deferida liminar para determinar o imediato prosseguimento do processo, mandando intimar pessoalmente a executada/devedora, para que nos termos do artigo 492 do CPC, esclareça se pretende aderir a tese de nulidade "que vem sendo fomentada/instigada" pela Impetrada, e ou se pretende pagar a dívida executada evitando assim eventual ônus de sucumbência tendo como paradigma o RECURSO ESPECIAL Nº 2.045.450 -RS (2022/0399405-6);
+3) Que o relator no STJ (monocraticamente) dê provimento ao recurso, pois a decisão recorrida é contrária a Súmula do STJ, conforme Art. 932, inciso V, alínea a, do CPC;
+4) A Concessão do Benefício da Assistência Judiciária Gratuita;
+Este processo veio por prevenção, em virtude de anterior distribuição, a esta Relatoria, do RMS 72.663/SC.
+É o relatório. Decido.
+A súplica não merece acolhida.
+Colhe-se do acórdão recorrido (fls. 13.919-13.921):
+Indeferi a petição inicial com os seguintes argumentos ( 10.1 ):
+É inconteste que contra o ato judicial objeto deste mandado de segurança, uma decisão proferida em processo de execução, caberia o recurso de agravo de instrumento, com a possibilidade de concessão de efeito suspensivo, nos exatos termos dos arts. 1.015, parágrafo único, e 995, parágrafo único, do CPC. E, conforme previsão da legislação específica que rege o mandado de segurança (Lei n. 12.016/2009), a ordem não será concedida "quando se tratar  ..  de decisão judicial da qual caiba recurso com efeito suspensivo" (art. 5º, II).
+Tem-se também a Súmula 267 do STF, in verbis:
+"Não cabe mandado de segurança contra ato judicial passível de recurso ou correição".
+O próprio impetrante admite esse fato, embora argumente, citando jurisprudência do STJ, que o MS pode ser impetrado mesmo contra esse tipo de ato judicial quando este for manifestamente ilegal.
+Com efeito, há decisões do STJ excepcionando o cabimento do mandado de segurança contra ato judicial recorrível quando constatada "manifesta ilegalidade ou teratologia" (RMS 50.588/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª Turma, j. 17/05/2016; AgRg no MS 21.883/DF, Rel. Ministro João Otávio de Noronha, Corte Especial, j. 03/05/2017).
+No entanto, há também julgados ressaltando que, mesmo que a decisão seja "manifestamente ilegal ou teratológica", o MS só será admitido se ausente recurso apto a combatê-la.
+Cito: Precedentes: RMS 46.144/MS, Rel. Ministra DIva Malerbi (Desembargadora Convocada TRF 3ª Região), Segunda Turma, j.07/06/2016; RMS 48.060/MG, Rel. Ministra Assusete Magalhães, DJe de 15/9/2015, RMS 38.833/MG, Rel. Ministro Castro Meira, Segunda Turma, DJe de 25/9/2012, RMS 43.797/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 22/10/2013, RMS 45.740/MG, Rel. Ministro Napoleão Nunes Maia Filho, DJe de 29/8/2014, RMS 45.519/MG, Rel. Ministro Humberto Martins, DJe de 28/8/2014, RMS43.183/MG, Rel. Ministro Mauro Campbell Marques, DJe de 27/8/2014.
+No mesmo sentido, vários são os arestos desta Corte Estadual.
+(..)
+A meu ver, essa parece a posição mais condizente com as condições previstas na Lei do Mandado de Segurança e com todo o sistema processual civil, que define como deve se dar a impugnação dos atos judiciais.
+A própria Constituição, ao tratar do MS, restringe-o aos casos de "direito líquido e certo, não amparado por habeas corpus ou habeas data" (art. 5º, LXIX), deixando clara a intenção do constituinte (observada pelo legislador) de estabelecê-lo como último remédio.
+Também para a alegação de suspeição ou impedimento do juízo, como a trazida pelo impetrante, há procedimentos específicos assentados no CPC.
+Ademais, a título de reforço argumentativo, anoto que, mesmo se se adotasse a posição (minoritária) que possibilita a admissão MS contra decisão recorrível, não se poderia fazê-lo no caso em apreço, porque não se verifica, no ato judicial em questão, conduta manifestamente ilegal ou abuso de poder. O togado apenas determinou a intimação das partes para que se manifestem sobre os fatos por ele ponderados, que de fato me parecem relevantes.
+Ante o exposto, sem mais delongas, indefiro a petição inicial deste mandado de segurança, com fulcro no art. 485, I, do CPC.
+Como se percebe, tratei de forma exaustiva do assunto, abordando a questão tanto sob a perspectiva do nosso Tribunal quanto sob a do STJ, ambos com entendimento direcionado a não admitir o mandado de segurança como substituto recursal, salvo raras exceções, como nos casos em que o ato judicial se pauta em "manifesta ilegalidade ou teratologia".
+No recurso, embora tenha desenvolvido o assunto em 22 laudas, o agravante não esclareceu a razão pela qual optou pelo mandado de segurança quando dispunha de expedientes jurídicos apropriados.
+Para discutir as questões suscitadas o agravante poderia ter se valido das vias ordinárias, mediante interposição do recurso de agravo de instrumento e oposição da exceção de suspeição ou impedimento, o que não ocorreu.
+Isso evidencia que não está presente na hipótese nenhuma situação excepcional que imponha a adoção do referido remédio constitucional.
+Também não é o caso de teratologia ou manifesta ilegalidade, já que a decisão impugnada se limitou a determinar que as partes se pronunciassem sobre fatos que o juízo reputou importantes no contexto da ação.
+Voto no sentido de conhecer do recurso e negar-lhe provimento.
+Consoante se depreende, o acórdão recorrido entendeu, nos termos da Súmula 267/STF, que não cabe mandado de segurança contra ato judicial passível de recurso ou de exceção de suspeição, como no caso concreto.
+Deixou ainda assente que não há flagrante ilegalidade ou teratologia, pois teria se limitado o magistrado de primeiro grau de jurisdição, autoridade apontada coatora, a determinar que se manifestassem as partes sobre o decidido pelo TRF 4ª Região, no processo 5002525-2.2010.4.04.7205.
+A espécie, portanto, é de manifesto descabimento do writ, não merecendo o julgamento do Tribunal de Justiça do Estado de Santa Catarina qualquer reparo.
+Confiram-se as seguintes ementas desta Corte, a título exemplificativo:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. IMPUGNAÇÃO DE DECISÃO JUDICIAL. EXCEPCIONALIDADE. SUCEDÂNEO RECURSAL. DESCABIMENTO. SÚMULA N. 267/STF. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, somente incide a Súmula 202/STJ quando o terceiro não teve ciência da decisão que lhe prejudicou, ficando impossibilitado de interpor o recurso cabível, o que não se verifica na hipótese.
+2. Corrobora o referido entendimento o enunciado da Súmula 267 do STF, segundo o qual: "Não cabe mandado de segurança contra ato judicial passível de recurso ou correição".
+3. Agravo interno desprovido.
+(AgInt nos EDcl no RMS n. 67.757/SP, relator MINISTRO MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/6/2023, DJe de 21/6/2023)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DECISÃO QUE AUTORIZOU O PROSSEGUIMENTO DO FEITO EXECUTIVO. INTERPOSIÇÃO DE RECURSO CABÍVEL. DESCABIMENTO DE IMPETRAÇÃO, CONCOMITANTE, DE MANDADO DE SEGURANÇA.
+1. Nos termos da Súmula n.º 267 do STF, não cabe mandado de segurança contra ato judicial passível de recurso ou correição.
+2. Na hipótese dos autos, a decisão judicial inquinada não apenas desfiava recurso próprio, com possibilidade de concessão de efeito suspensivo, como ainda o impetrante efetivamente se valeu dessa via recursal, embora sem sucesso.
+3. Mandado de segurança incabível. Manejo abusivo de subsequentes recurso ordinário, embargos de declaração e agravo interno.
+4. Agravo interno desprovido com aplicação de multa (art. 1.021, § 4º, do CPC).
+(AgInt no RMS n. 62.653/MT, relator MINISTRO MOURA RIBEIRO, TERCEIRA TURMA, julgado em 29/5/2023, DJe de 31/5/2023)
+AGRAVO INTERNO. RECURSO EM MANDADO DE SEGURANÇA. USO COMO SUCEDÂNEO DE RECURSO. DESCABIMENTO. SÚMULA 267/STF. FUNDAMENTO NÃO IMPUGNADO. ARTIGO 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015.
+1. Nos termos do verbete nº 267 da Súmula do Supremo Tribunal Federal, "não cabe mandado de segurança contra ato judicial passível de recurso ou correição".
+2. Ademais, nos termos do artigo 1.021, § 1º, do Código de Processo Civil/2015 é inviável o agravo interno que deixa de impugnar especificadamente os fundamentos da decisão agravada.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no RMS n. 61.191/SP, relatora MINISTRA MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 31/8/2020, DJe de 4/9/2020)
+Ante o exposto, nos termos da Súmula 568/STJ, nego provimento ao recurso.
+Publique-se.
+EMENTA
