@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ELOI TELMIR DOS SANTOS contra acórdão do Tribunal de Justiça do Estado de Santa Catarina proferido na Apelação Criminal n. 0000024-38-2017.8.24.0018.
+Consta nos autos que o Paciente foi condenado, em primeiro grau de jurisdição, à pena de 5 (cinco) anos de reclusão, em regime inicial semiaberto, pela prática do crime previsto no art. 121, caput, § 1.º, do Código Penal (fls. 35-37).
+O Sentenciado e o Ministério Público interpuseram recursos de apelação. O Tribunal estadual deu provimento ao apelo ministerial para "anular o julgamento proferido no Tribunal do Júri, conforme preconiza o art. 593, § 3º, do Código de Processo Penal, determinando que uma nova sessão seja realizada, nos termos da decisão confirmatória de pronúncia, prejudicada a análise do recurso interposto pela defesa" (fl. 120).
+A Defesa opôs embargos declaratórios, os quais foram rejeitados (fls. 128-131).
+Neste writ, o Impetrante sustenta, em suma, não ser cabível a anulação do julgamento com base no art. 593, inciso III, alínea d, do Código de Processo Penal, pois, se "os jurados optaram pela tese defensiva, nada há que fazer a não ser respeitar sua decisão, visto que não se pode questionar a interpretação dada aos fatos pelos jurados" (fl. 14).
+Subsidiariamente, alega que o Tribunal estadual, ao anular a condenação, apenas registrou que a decisão dos Jurados foi manifestamente contrária à prova dos autos quanto à qualificadora do feminicídio, de modo que o novo julgamento a ser realizado pelo Tribunal do Júri deve se limitar ao reconhecimento ou não da referida qualificadora.
+Requer, em liminar e no mérito, seja cassado o acórdão e mantida a sentença, impedindo-se a realização de novo julgamento. Subsidiariamente, "pugna em caso de mantença da decisão de anulação do júri em comento, que tal discussão deve ser voltada apenas à reconhecimento ou não da qualificadora do Feminicídio, mantendo o que já foi confirmado pelo conselho de sentença de outro julgamento" (fl. 17).
+O pedido liminar foi indeferido às fls. 143-145.
+Informações prestadas às fls. 147-153.
+O Ministério Público Federal manifestou-se às fls. 226-229, opinando pela prejudicialidade do writ.
+É o relatório.
+Decido.
+De acordo com as informações prestadas pela instância de origem, "em atenção à decisão Colegiada (doc. 8), procedeu-se nova sessão do Tribunal do Júri que julgou parcialmente procedente a exordial acusatória, a fim de condenar o paciente à pena de 18 (dezoito) anos e 8 (oito) meses de reclusão, em regime inicial fechado, por infração ao art. 121, § 2º, incs. II, IV e VI, do Código Penal, sendo-lhe indeferido o direito de recorrer em liberdade" (fl. 157). Consta, ainda, que a Defesa interpôs recurso de apelação e impetrou novo habeas corpus perante a Corte de origem.
+Nesse contexto, fica prejudicada a análise dos temas nesta oportunidade, tendo em vista que o objeto deste writ foi esvaziado pelo título superveniente, ato que desafia impugnação própria, na via adequada.
+Mutatis mutandis:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO E ASSOCIAÇÃO CRIMINOSA. SUPOSTA INSUFICIÊNCIA DE PROVAS PARA A PRONÚNCIA. SUPERVENIÊNCIA DE SENTENÇA PENAL CONDENATÓRIA PELO TRIBUNAL DO JÚRI. WRIT PREJUDICADO.
+1. "De acordo com a jurisprudência do Superior Tribunal de Justiça, a superveniência de sentença condenatória prejudica a pretensão de nulidade da sentença de pronúncia" (AgRg no HC n. 823.241/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 19/6/2023, DJe de 22/6/2023.) 2. Na espécie, a tese relacionada à nulidade da sentença de pronúncia, por suposta insuficiência probatória, encontra-se prejudicada pela superveniência da sentença condenatória, proferida pelo Conselho de Sentença, na qual o agravante foi condenado à pena de 20 anos e 8 meses de reclusão, no regime inicial fechado, pela prática dos crimes de homicídio consumado e associação criminosa armada.
+3. Agravo regimental improvido." (AgRg no HC n. 802.639/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 11/9/2023, DJe de 15/9/2023.)
+Ante o exposto, JULGO PREJUDICADO o pedido de habeas corpus, com fundamento no art. 34, inciso XX, c.c. o art. 209, primeira parte, todos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. INSURGÊNCIA CONTRA ACÓRDÃO QUE DETERMINOU A SUBMISSÃO DO PACIENTE A NOVO JULGAMENTO PELO TRIBUNAL DO JÚRI. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. RECURSO DE APELAÇÃO INTERPOSTO PELA DEFESA. ORDEM PREJUDICADA.
