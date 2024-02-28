@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por PENTEADO FARIA E FOGAÇA EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA com arrimo na alínea "a" do permissivo constitucional contra v. acórdão exarado pelo eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), assim ementado (fls. 1.223):
+"EMENTA: COMPROMISSO DE COMPRA E VENDA - Prazo para entrega do empreendimento não cumprido - Ação proposta cerca de quatro anos após a entrega das obras de infraestrutura que caracteriza a desistência do contrato pelos compradores - O fato de o contrato ser regido pela Lei n. 9.514/1997 não impede sua resolução antes da consolidação da propriedade - Restituição de 85% das importâncias pagas pelo preço e integralmente valores cobrados indevidamente antes da efetiva entrega do lote - Juros de mora devidos do trânsito em julgado - Recursos providos em parte."
+Nas razões do apelo nobre (fls. 1.235-1.249), PENTEADO FARIA E FOGAÇA EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA aponta violação aos arts. 422 e 844 do Código Civil e aos arts. 22, 23, caput e parágrafo único, 25, 26, §8º e 29 da Lei n. 9.514/93, ao argumento, entre outros, de que "(..) ao contrário da previsão expressa de impossibilidade da rescisão contratual perquirida, se ateve apenas ao Código de Defesa do Consumidor e deferiu o pleito de resilição unilateral pretendida pelos Recorridos" (fls. 1.242).
+Aduz, também, que é "(..) absolutamente descabido o pedido de rescisão do compromisso de compra e venda e restituição de quantias pagas, tendo havido sem dúvidas ofensas aos dispositivos legais supracitados, sendo de rigor reconhecer a validade do contrato de alienação fiduciária firmado e, consequentemente, a improcedência do pleito de rescisão do contrato, que é regido pela Lei nº 9.514/1997 e possui regramento específico para o desfazimento do negócio jurídico, devendo o v. Acórdão ser integralmente reformado, para a improcedência da ação, como medida de justiça" (fls. 1.244).
+Assevera, ainda, que "(..) avulta-se no presente caso o DEVER DE MITIGAR O PRÓPRIO PREJUÍZO, ou, no direito alienígena, "Duty To Mitigate The Loss". Esse preceito também decorre da Boa-fé Objetiva (art. 422 do Código Civil), exigindo-se que os contratantes pautem suas condutas, em todas as fases do contrato, com probidade, cooperação e lealdade. Quer dizer, a boa-fé objetiva é fonte de obrigação que permeia a conduta das partes a influir na maneira em que exercitam os seus direitos, bem como no modo em que se relacionam entre si. Neste rumo, a relação obrigacional deve ser desenvolvida com o escopo de se preservarem os direitos dos contratantes na consecução dos fins avençados, sem que a atuação das partes infrinja os preceitos éticos insertos no ordenamento jurídico" (fls. 1.247 - destaques no original).
+Aduz, ainda, que "(..) considerando que a demanda fora DISTRIBUÍDA APENAS em MAIO/2018, ou seja, há quase 04 (quatro) anos da expedição do Termo de Verificação Final Obras (TVO Final) pela Municipalidade de Jacareí, qual seja: 14/07/2014 (fls. 153 e 330), ou, na pior das hipóteses, o que se admite apenas por amor ao debate, há quase 03(três) anos da realização da Assembleia Geral de Instalação da Associação de Moradores do empreendimento em questão, ocorrida em AGOSTO/2015 (fls. 512), evidente a sua INÉRCIA DE MITIGAR o suposto prejuízo sofrido, com a única finalidade de obter alguma vantagem econômica com a situação" (fls. 1.247 - destaques no original).
+Intimados, SERGIO YUJI TAKAI E CLAUDIA TAEKO MIDORIKAWA TAKAI apresentaram contrarrazões (fls. 1.254-1.261), pelo desprovimento do recurso.
+Admitido o apelo nobre (decisão às fls. 1.262-1263), ascenderam os autos a esta eg. Corte.
+É o relatório. Passo a decidir.
+No caso, os conteúdos normativos dos referidos dispositivos legais não foram examinados pelo eg. TJ-SP configurando ausência de prequestionamento, tampouco foram opostos embargos para tal fim. Assim sendo, o apelo nobre encontra óbice nas Súmulas n. 282 e 356, ambas do col. Supremo Tribunal Federal. Nessa linha de intelecção, confiram-se:
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE, APÓS RECONSIDERAR DELIBERAÇÃO ANTERIOR, NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AUTOR.
+1. A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 282 e 356 do STF, aplicável por analogia.
+(..)
+4. Agravo interno desprovido."
+(AgInt no AgInt no AREsp n. 1.837.682/DF, relator MINISTRO MARCO BUZZI, Quarta Turma, julgado em 26/6/2023, DJe de 30/6/2023 - g. n.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. OBRIGAÇÃO DE FAZER E NÃO FAZER CUMULADA COM INDENIZATÓRIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. SÚMULA 13/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Fica inviabilizado o conhecimento de tema trazido no recurso especial, mas não debatido e decidido nas instâncias ordinárias. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no REsp n. 2.015.235/SP, relator MINISTRO RAUL ARAÚJO, Quarta Turma, julgado em 26/6/2023, DJe de 28/6/2023 - g. n.)
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. (..). NÃO DEMONSTRAÇÃO. DECISÃO MANTIDA.
+1. Ausente o enfrentamento da matéria pelo acórdão recorrido, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência das Súmulas n. 282 e 356 do STF.
+(..)
+9. Agravo interno a que se nega provimento."
+(AgInt nos EDcl no AREsp n. 2.283.810/PR, relator MINISTRO ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 26/6/2023, DJe de 28/6/2023 - g. n.)
+Ante o exposto, com arrimo no art. 255, §4º, I, do RI-STJ, não conheço do recurso especial.
+Publique-se.
+EMENTA
