@@ -1,0 +1,108 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+1ª Turma Cível
+Processo N.APELAÇÃO CÍVEL 0706887-81.2023.8.07.0001APELANTE(S)CARLOS ALBERTO EMIDIO BORGESAPELADO(S)ATIVOS S.A. SECURITIZADORA DE CREDITOS FINANCEIROSRelatoraDesembargadora DIVA LUCY DE FARIA PEREIRA
+ Acórdão Nº1826584
+
+EMENTA
+
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. VALOR DA CAUSA BAIXO. INCIDÊNCIA SUBSIDIÁRIA DO ART. 85, § 8º, DO CPC. APRECIAÇÃO EQUITATIVA AUTORIZADA. APLICAÇÃO TELEOLÓGICA DO § 8º-A DO ART. 85. RECURSO CONHECIDO E PROVIDO EM PARTE.
+
+1. Em regra, o arbitramento de honorários se dá pela fixação entre o mínimo de dez e máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa (art. 85, §2º, CPC).
+
+2. Todavia, não havendo condenação ao pagamento de quantia líquida ou ilíquida, não se tratando de hipótese em que aferível o proveito econômico ou quando o valor da causa for muito baixo, incide a regra subsidiária estabelecida nos §§ 8º e 8º-A do art. 85 do CPC para estimativa proporcional da verba honorária ao empenho de fato requerido pela demanda e revelado pelo advogado em sua condução.
+
+3. A fixação de honorários advocatícios por equidade não autoriza a aplicação literal do § 8º-A do art. 85 do CPC, uma vez que ao arbitrar honorários por equidade o magistrado deverá observar os critérios elencados nos incisos do §2º do citado artigo. Ou seja, deverá atender: I - o grau de zelo do profissional; II - o lugar de prestação do serviço; III - a natureza e a importância da causa; IV - o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+
+4. Recurso conhecido e provido em parte.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 1ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, DIVA LUCY DE FARIA PEREIRA - Relatora, CARLOS PIRES SOARES NETO - 1º Vogal e CARLOS ALBERTO MARTINS FILHO - 2º Vogal, sob a Presidência da Senhora Desembargadora DIVA LUCY DE FARIA PEREIRA, em proferir a seguinte decisão: CONHECER DO RECURSO E DAR-LHE PARCIAL PROVIMENTO. DECISÃO UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 11 de Março de 2024
+
+Desembargadora DIVA LUCY DE FARIA PEREIRAPresidente e Relatora
+
+RELATÓRIO
+
+Trata-se de apelação interposta por Carlos Alberto Emidio Borges contra sentença proferida pelo juízo da 1ª Vara Cível de Brasília (Id 48802021), que nos autos da ação declaratória de inexigibilidade de créditos proposta em face de Ativos S.A. Securitizadora de Créditos Financeiros, julgou procedente o pedido com fundamento no art. 487, I, do CPC e, por consectário da sucumbência, fixou honorários advocatícios em favor do patrono do autor em 20% sobre o valor atribuído à causa.
+
+Inconformado com o valor arbitrado a título de honorários advocatícios, o autor opôs embargos de declaração (Id 48802024), nos quais indicou omissão em relação ao ônus da sucumbência com base na equidade (art. 85, §§ 8º e 8º-A, do CPC) e valor mínimo recomendado pelo Conselho Seccional da Ordem dos Advogados do Brasil do Distrito Federal, no valor de 25 (vinte e cinco) unidades referenciais de honorários (URH).
+
+Os declaratórios foram conhecidos e rejeitados (Id 48802032).
+
+Em razões recursais (Id 48802034), o autor/apelante defende a aplicação do Tema 1.073 do STJ com apreciação equitativa dos honorários advocatícios, em vista do baixo valor dado a causa e observância aos valores recomendados pelo Conselho Seccional da Ordem dos Advogados do Brasil (arts. 85, §§ 1º, 2º, 8º, 8º-A e 20 do CPC).
+
+Ao fim, requer a reforma parcial da sentença “para que os honorários de sucumbência sejam analisados com base na equidade c/c art. 85, §8º, §8º-A e 20 do Código de Processo Civil e no Parecer n. 0020/2022 da OAB/DF, determinando que os honorários de sucumbência em favor do patrono da apelante seja no valor mínimo recomendado pelo Conselho Seccional da Ordem dos Advogados do Brasil do Distrito Federal para ações de jurisdição contenciosa em geral, no valor de 25 (vinte e cinco) unidades referenciais de honorários (URH).”
+
+Sem preparo, ante o deferimento da gratuidade de justiça (Id 48802010).
+
+Contrarrazões apresentadas pelo não provimento do recurso (Id 48802039).
+
+É o relato do necessário.
+
+VOTOS
+
+A Senhora Desembargadora DIVA LUCY DE FARIA PEREIRA - Relatora
+
+Conheço da apelação, porque atendidos os requisitos de admissibilidade. Recebo-a no duplo efeito com fundamento nos artigos 1.012 e 1.013 do CPC.
+
+Como visto, trata-se de recurso de apelação interposto pelo autor que sustenta a aplicação do § 8º do art. 85 CPC, segundo o qual nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, o juiz fixará o valor dos honorários por apreciação equitativa, observando o disposto nos incisos do § 2º, uma vez que irrisório o valor de R$ 1.127,40 (mil cento e vinte e sete reais e quarenta centavos) atribuído à causa.
+
+Defende também a aplicação do § 8º-A do art. 85 CPC que dispõe, para fins de fixação equitativa de honorários sucumbenciais, o juiz deverá observar os valores recomendados pelo Conselho Seccional da Ordem dos Advogados do Brasil a título de honorários advocatícios ou o limite mínimo de 10% (dez por cento) estabelecido no § 2º deste artigo, aplicando-se o que for maior. Para tanto, requer a fixação de honorários advocatícios em 25 URH.
+
+A insurgência do apelante assiste parcial razão.
+
+No caso, trata-se de ação declaratória de inexigibilidade de créditos em que foi julgada procedente em razão da prescrição do crédito no valor de R$ 1.127,40, vencido em 10 de setembro e 2008. Em razão da sucumbência, o réu foi condenado ao pagamento de honorários advocatícios arbitrados em 20% do valor atualizado da causa.
+
+Em regra, o arbitramento de honorários se dá pela fixação entre o mínimo de dez e máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa.
+
+Todavia, não havendo condenação ao pagamento de quantia líquida ou ilíquida, não se tratando de hipótese em que aferível o proveito econômico ou quando o valor da causa for muito baixo, como no caso concreto – R$ 1.127,40 (mil cento e vinte e sete reais e quarenta centavos) –, incide a regra subsidiária estabelecida no § 8º do art. 85 do CPC para estimativa proporcional da verba honorária ao empenho de fato requerido pela demanda e revelado pelo advogado em sua condução.
+
+A matéria, inclusive, está pacificada no Superior Tribunal de Justiça, que, em sede de recurso repetitivo no REsp 1.850.512/SP, julgado em 16/3/2022 (Tema 1.076) fixou a seguinte tese, in verbis:
+
+i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+
+ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo. (grifamos)
+
+Nesse contexto, a fixação da verba honorária no percentual de 20% (vinte por cento) sobre o valor atualizado da causa, tal como fixado na origem, implica fixação da verba honorária no montante de R$ 225,48 (duzentos e vinte e cinco reais e quarenta e oito centavos), não considerada a atualização, quantia irrefutavelmente desproporcional quando se considera o esforço despendido pelo procurador da autora, que ajuizou a demanda e instruiu o feito com documentação pertinente ao deslinde da causa (Id 48801694/48801708).
+
+Assim, a dinâmica apresentada autoriza a fixação por apreciação equitativa, impondo-se, excepcionalmente, o afastamento do valor da causa como parâmetro de definição, sob pena de remunerar-se desproporcionalmente a atuação exigida pelo patrono do autor no decorrer da demanda.
+
+Lado outro, a demanda transcorreu por reduzido período de tempo, aproximadamente dois meses, pois proposta em 15/2/2023 (Id 48801694), ao passo que a sentença foi prolatada em 25/4/2023 (Id 48802021), afigurando-me excessivo o valor de 25 URH pleiteado em recurso.
+
+Com efeito, o valor de cada unidade referencial de honorários para o mês de agosto de 2023 equivale a R$ 363,62 (trezentos e sessenta e três reais e sessenta e dois centavos)[1]. O valor da unidade referencial multiplicado pela quantidade pleiteada (25 URH), equivaleria a R$ 9.090,50 (nove mil e noventa reais e cinquenta centavos), correspondente a aproximadamente oito vezes o valor da causa, o que seria completamente desarrazoado.
+
+Ademais, o Superior Tribunal de Justiça julgou, em sede de recurso repetitivo, os REsp 1656322/SC e 1665033/SC e firmou a seguinte tese (Tema 984):
+
+1ª) As tabelas de honorários elaboradas unilateralmente pelos Conselhos Seccionais da OAB não vinculam o magistrado no momento de arbitrar o valor da remuneração a que faz jus o defensor dativo que atua no processo penal; servem como referência para o estabelecimento de valor que seja justo e que reflita o labor despendido pelo advogado;
+
+2ª) Nas hipóteses em que o juiz da causa considerar desproporcional a quantia indicada na tabela da OAB em relação aos esforços despendidos pelo defensor dativo para os atos processuais praticados, poderá, motivadamente, arbitrar outro valor;
+
+3ª) São, porém, vinculativas, quanto aos valores estabelecidos para os atos praticados por defensor dativo, as tabelas produzidas mediante acordo entre o Poder Público, a Defensoria Pública e a seccional da OAB.
+
+4ª) Dado o disposto no art. 105, parágrafo único, II, da Constituição da República, possui caráter vinculante a Tabela de Honorários da Justiça Federal, assim como tabelas similares instituídas, eventualmente, pelos órgãos competentes das Justiças dos Estados e do Distrito Federal, na forma dos arts. 96, I, e 125, § 1º, parte final, da Constituição da República. – g.n. (grifo nosso)
+
+No mesmo sentido, trago a colação precedentes desta 1ª Turma Cível:
+
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. OMISSÃO. NÃO VERIFICADA. TABELA OAB. MERA RECOMENDAÇÃO. REDISCUSSÃO DE MATÉRIA. IMPOSSIBILIDADE. RECURSO CONHECIDO E DESPROVIDO. 1. Somente são cabíveis os embargos de declaração quando a decisão incorrer em ambiguidade, obscuridade, contradição e/ou omissão sobre ponto relevante, ou, ainda, consoante construção jurisprudencial, diante de erro material. Por sua vez, em caso de acolhimento dos embargos para sanar os vícios mencionados, excepcionalmente é possível a produção de efeitos modificativos, desde que a nova decisão seja incompatível com o julgamento anterior. 2. Não se verifica omissão apontada, porque a questão levantada pela embargante foi bem tratada no acórdão. 2. 1. Apesar de ter sido acolhida a pretensão da autora para fixar os honorários pelo critério da equidade, afastou-se sua correlação aos valores estipulados na tabela da OAB, o que equivaleria a três vezes o valor da causa, em observância aos princípios da razoabilidade e da proporcionalidade. 2. 2. A controvérsia está pacificada no Superior Tribunal de Justiça, conforme Tema 984, no sentido de que a tabela de honorários organizada pelo Conselho Seccional da OAB tem natureza meramente orientadora e não vincula o julgador. 3. Embargos de declaração conhecidos e desprovidos. (Acórdão 1729064, 07339277220228070001, Relator: CARLOS PIRES SOARES NETO, 1ª Turma Cível, data de julgamento: 12/7/2023, publicado no DJE: 26/7/2023. Pág.: Sem Página Cadastrada.) (grifo nosso)
+
+EMBARGOS DE DECLARAÇÃO NA APELAÇÃO CÍVEL. PROCESSO CIVIL. HONORÁRIOS ADVOCATÍCIOS. PROVEITO ECONÔMICO INESTIMÁVEL OU IRRISÓRIO. BAIXO VALOR DA CAUSA. APRECIAÇÃO EQUITATIVA. VALORES RECOMENDADOS PELO CONSELHO SECCIONAL DA ORDEM DOS ADVOGADOS DO BRASIL - DISTRITO FEDERAL. UNIDADE REFERENCIAL DE HONORÁRIOS - URH. ART. 85, § 8º-A, DO CÓDIGO DE PROCESSO CIVIL. PROPORCIONALIDADE E RAZOABILIDADE. INTERPRETAÇÃO TELEOLÓGICA. MITIGAÇÃO. 1. Como regra, a fixação dos honorários advocatícios deve partir da fixação de importância que flutuará entre os percentuais fixados no artigo 85, § 2º, do Código de Processo Civil. Subsidiariamente, tem-se a possibilidade de arbitramento por equidade quando for inestimável ou irrisório o proveito econômico ou muito baixo o valor da causa. 2. No intento de fixar parâmetro orientativo para casos em que se evidencie a necessidade de arbitramento de honorários por equidade, sobreveio a Lei n. 14.365/2022, que acresceu o § 8º-A ao artigo 85, do Código de Processo Civil.  3. A Tabela de Honorários da Ordem dos Advogados do Brasil - Distrito Federal, item 1, indica que para ações de jurisdição contenciosa, o referido órgão de classe sugere a quantia de 25 URH - Unidades Referenciais de Honorários para fixação dos honorários. 4. No momento do julgamento do recurso de apelação, 02/02/2023, o valor de uma URH equivalia a R$ 367,42 (trezentos e sessenta e sete reais e quarenta e dois centavos). Multiplicando-se esse valor pelo número de unidades sugeridas pela OAB (25 x R$ 367,42), alcance-se o importe de R$ 9.185,50 (nove mil, cento e oitenta e cinco reais e cinquenta centavos), notoriamente, superior ao limite de 10% (dez por cento) do valor da causa. 5. Mesmo que a hipótese em análise permita a fixação dos honorários advocatícios por equidade, verifica-se dos autos que se trata de ação declaratória, cuja pretensão se circunscrevera à declaração de inexigibilidade dos débitos havidos junto à embargada, devendo a legislação processual ser interpretada de forma sistemática para dar evidência, no caso concreto, aos princípios da proporcionalidade e razoabilidade. 6. É importante lançar mão de interpretação sistemática/teleológica que permita assegurar congruência e conformidade na aplicação do direito, afastando-se a exegese de cunho unicamente literal. 7. A aplicação literal do artigo 85, § 8º-A, por certo, desborda em flagrante desproporcionalidade, revelando-se como conclusão claramente desprovida de razoabilidade. 8. Embargos de declaração conhecidos e parcialmente providos. Efeitos infringentes. (Acórdão 1689511, 07252159320228070001, Relator: CARMEN BITTENCOURT, 1ª Turma Cível, data de julgamento: 12/4/2023, publicado no DJE: 2/5/2023. Pág.: Sem Página Cadastrada.) (grifo nosso)
+
+ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA. INEXIGIBILIDADE DE CRÉDITOS. PRESCRIÇÃO. OBJETO. CONTRATO DE SERVIÇOS FUNERÁRIOS. SEPULTAMENTO E MANUTENÇÃO. CONTRATO. IMPUTAÇÃO DE VENDA CASADA. DISTRATO. DÉBITOS ANTERIORES. PRESCRIÇÃO. INEXIGIBILIDADE. PEDIDO DECLARATÓRIO. ACOLHIMENTO. HONORÁRIOS DE SUCUMBÊNCIA. FIXAÇÃO. PARÂMETRO. PROVEITO ECONÔMICO OBTIDO. CRITÉRIO DE EQUIDADE. INTERPRETAÇÃO SISTEMÁTICA DA NOVA REGULAÇÃO LEGAL. FIXAÇÃO DA VERBA SOB CRITÉRIO EQUITATIVO. REGRA DE EXCEÇÃO. FIXAÇÃO CONDICIONADA À IMPOSSIBILIDADE DE APLICAÇÃO DOS CRITÉRIOS PRIORITARIAMENTE ESTABELECIDOS (CPC, ARTS. 85, §§ 2º, 3º, 8º E 11). PARÂMETRO. VALOR DA CAUSA IRRISÓRIO OU MUITO BAIXO. CARACTERIZAÇÃO DA HIPÓTESE DE EXCEÇÃO (CPC, ART. 85, §§2º E 8º). LEI n° 14.635/2022. CRITÉRIO EQUITATIVO. PARÂMETRO. TABELA DO CONSELHO SECCIONAL DA ORDEM DOS ADVOGADOS DO BRASIL DO DISTRITO FEDERAL. RESOLUÇÃO OAB/DF n° 04/2015. CASO CONCRETO. APLICAÇÃO. RESULTADO. VERBA DESPROPORCIONAL E DESARRAZOADA. ELEMENTO TELEOLÓGICO. VIOLAÇÃO. NATUREZA DA DEMANDA. COMPLEXIDADE DA CAUSA. ELEMENTO TELEOLÓGICO. CRITÉRIO EQUITATIVO. ARBITRAMENTO. PROPORCIONALIDADE (CPC, ART. 8°). RECURSO PROVIDO. SENTENÇA REFORMADA. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO E MAJORAÇÃO DA VERBA (CPC, ART. 85, §§ 2º e 11). 1. De acordo com a nova regulação legal, os honorários advocatícios devem ser fixados com parâmetro no valor da condenação, do proveito econômico obtido ou do valor da causa, sendo ressalvada sua fixação mediante apreciação equitativa do juiz somente quando o valor da causa for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, donde a fixação sob o prisma da equidade encerra regra de exceção a ser manejada somente nas situações expressamente pontuadas. 2.   Segundo a nova regulação legal, os honorários advocatícios de sucumbência devem ser mensurados segundo os parâmetros estabelecidos pelo § 2º do artigo 85 do CPC, e, somente em situação em que é inviável sua utilização por inviabilidade material, é que se legitima a utilização do critério da equidade, apreensão que emerge tanto da literalidade do preceptivo como da sua posição topográfica, pois colocado em primazia, cuidando o legislador de ressalvar a possibilidade de utilização do critério equitativo como regra de exceção quando inviabilizada a mensuração da verba mediante a ponderação dos parâmetros inicialmente alinhavados (§ 8º). 3.   Em recente julgamento dos Recursos Especiais Repetitivos n° 1.850.512/SP, 1.877.883/SP, 1.906.623/SP e 1.906.618/SP (Tema 1.076), publicado aos 31 de maio de 2022, a Corte Superior firmou entendimento no sentido de que, mesmo defronte a hipóteses de causas cujo valor inicial, condenação ou proveito econômico sejam elevados, é imperiosa a fixação da verba pela regra geral estampada no art. 85, §2º, do estatuto processual, enunciando a respectiva tese jurídica nos seguintes termos: "A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou proveito econômico da demanda forem elevados. É obrigatória nestes casos a observância de percentuais previstos nos parágrafos 2º e 3º do artigo 85 do CPC, a depender da Fazenda Pública na lide, os quais serão subsequentemente calculados sobre o valor: a) da condenação, b) do proveito econômico obtido, c) do valor atualizado da causa." 4. Com a entrada em vigor da Lei n° 14.635, de 2 de junho de 2022, notadamente consoante a regra que positivara o §8º-A ao artigo 82 (sic) do estatuto processual, em situações concretas nas quais restar justificada a fixação dos honorários advocatícios pelo critério excepcional, "o juiz deverá observar os valores recomendados pelo Conselho Seccional da Ordem dos Advogados do Brasil a título de honorários advocatícios ou o limite mínimo de 10% (dez por cento) estabelecido no § 2º deste artigo, aplicando-se o que for maior."  5. Tratando-se de causa cujo valor revela-se muito baixo e o proveito econômico obtido é seu mero reflexo, desguarnecido, ademais, de conteúdo condenatório, a verba honorária imputada ao vencido deve ser mensurada mediante apreciação equitativa do órgão judicante na modulação dos critérios estabelecidos pelo legislador processual para sua fixação, observados o grau de zelo profissional, o lugar de prestação do serviço, a natureza e a importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço, devendo ser modulada se mensurada em importe que não se coaduna com sua destinação teleológica. (CPC, art. 85, §§ 2º, 3º, 4º e 8º). 6. A despeito da inovação legislativa trazida pela Lei n° 14.635/2022, não sobeja legítima a aplicação do tabelamento referencial emanado do colendo Conselho Seccional da OAB/DF em situações concretas nas quais, mediante aplicação literal da norma inserta no §8º-A, do artigo 85, do Código de Ritos, germina condenação absolutamente desproporcional, ensejando desvirtuamento do elemento teleológico que qualificara a germinação do critério excepcional e, outrossim, da necessária observância "aos fins sociais e às exigências do bem comum, resguardando e promovendo a dignidade da pessoa humana e observando a proporcionalidade, a razoabilidade, a legalidade, a publicidade e a eficiência." (NCPC, art. 8°). 7. O provimento do recurso, ainda que aviado pela parte vencedora tão-somente com o propósito de ver modulado o parâmetro a ser utilizado na fixação da verba sucumbencial, implica a majoração dos honorários advocatícios originalmente imputados à parte recorrida, porquanto o novo estatuto processual contemplara o instituto dos honorários recursais, devendo a majoração ser levada a efeito mediante ponderação dos serviços executados na fase recursal pelos patronos da parte exitosa e guardar observância à limitação da verba honorária estabelecida para a fase de conhecimento (NCPC, arts. 85, §§ 2º e 11). 8. Recurso conhecido e provido. Sentença parcialmente reformada. Honorários majorados. Unânime. (Acórdão 1631550, 07008186720228070001, Relator: TEÓFILO CAETANO, 1ª Turma Cível, data de julgamento: 19/10/2022, publicado no DJE: 8/11/2022. Pág.: Sem Página Cadastrada.) (grifo nosso)
+
+Por essas razões, merece reparo a r. sentença para, com base no art. 85, §§ 2º e 8º, do CPC, considerando o grau de zelo profissional, a natureza, a complexidade da causa, o trabalho realizado pelo procurador do autor, e o tempo exigido para o seu serviço, fixar em R$ 1.000,00 (mil reais) os honorários advocatícios devidos pela apelada.
+
+Com essas argumentações, conheço do recurso e ele DOU PARCIAL PROVIMENTO para fixar os honorários advocatícios devidos pela parte apelada em R$ 1.000,00 (mil reais), já computados os honorários recursais (art. 85, §§ 2º e 11 do CPC).
+
+É como voto.
+
+[1] https://oabdf.org.br/urh/
+
+O Senhor Desembargador CARLOS PIRES SOARES NETO - 1º Vogal Com o relatorO Senhor Desembargador CARLOS ALBERTO MARTINS FILHO - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER DO RECURSO E DAR-LHE PARCIAL PROVIMENTO. DECISÃO UNÂNIME.
