@@ -1,0 +1,15 @@
+DECISÃO
+O paciente alega sofrer coação ilegal em face de acórdão proferido pelo Tribunal de Justiça a quo, na Apelação n. 1500959-47.2019.8.26.0642.
+A defesa afirma que foi violada a Súmula n. 269 do STJ, pois foi condenado a uma pena inferior a 8 anos e o regime inicial fechado foi determinado em virtude de reincidência (compensada com a confissão espontânea). Assinala que está superado o prazo depurador dos registros criminais.
+Pede, por isso, a alteração do regime prisional inicial.
+Decido.
+O paciente foi condenado por incursão no art. 16, parágrafo único, IV, da Lei nº 10.826/03, a 3 anos e 6 meses de reclusão, em regime fechado, e 11 dias-multa.
+O acórdão condenatório foi prolatado em 2/2/2021 e a defesa não provocou a jurisdição ordinária para deliberar sobre sua revisão (supressão de instância). À vista do art. 105 da CF, não deve ser conhecido o writ "manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (AgRg no HC n. 842.953/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/2/2024, DJe de 8/2/2024), nos termos do art. 105 da CF.
+Incabível a concessão da ordem, de ofício. O acórdão do Tribunal de Justiça não é ilegal, manteve o regime inicial fechado "diante dos maus antecedentes e da reincidência (específica)" (fl. 294), em conformidade com a orientação desta Corte, que se firmou no mesmo sentido.
+Deveras, "desfavoravelmente valorada circunstância do art. 59 do Estatuto Repressor, e tendo sido igualmente reconhecida a reincidência  .. , impõe-se a fixação de regime prisional mais gravoso  .. , não sendo possível falar em estabelecimento de meio diverso do fechado" (AgRg no HC n. 764.572/SP, Rel. Ministro Ribeiro Dantas, 5ª T, DJe 18/10/2022).
+É adequada "a fixação do regime fechado, quando, apesar de a pena ter sido fixada abaixo de 4 (quatro) anos de reclusão, o Réu ostenta maus antecedentes e é reincidente (art. 33, § § 2.º e 3.º, do Código Penal)" (AgRg no HC n. 778.116/SP, relatora Ministra Laurita Vaz, 6ª T., DJe de 23/3/2023).
+Cito, ainda, julgado do Supremo Tribunal Federal, no mesmo sentido: "Consideradas a quantidade da pena privativa de liberdade aplicada, inferior a 4 anos, a reincidência do agravante e a existência de circunstâncias judiciais desfavoráveis - maus antecedentes, no caso - , é adequada a fixação do regime fechado, nos termos do art. 33, § 2º, "c", e § 3º, do Código Penal" (STF, HC 202544 AgR, Rel. NUNES MARQUES, Segunda Turma, DJe 29/9/2021).
+Quanto às demais alegações, nem sequer deduzidas ao Juiz ou ao Tribunal de origem, o "exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância" (AgRg no HC 563.878/MG, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 10/0/2021).
+À vista do exposto, indefiro liminarmente o processamento do habeas corpus. Ainda, não verifico flagrante ilegalidade no acórdão estadual que justifique a concessão da ordem, de ofício.
+Publique-se e intimem-se.
+EMENTA
