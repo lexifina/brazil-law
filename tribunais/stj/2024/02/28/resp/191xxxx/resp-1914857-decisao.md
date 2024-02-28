@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado (fl. 344):
+PLANO DE SAÚDE - Negativa de cobertura de atendimento na modalidade home care - Extinção da ação ante o falecimento do autor - Descabimento - Tutela antecipada que determinou à ré o fornecimento do tratamento indicado ao autor (home care), o que ocorreu até a data de seu falecimento, devendo a questão ser analisada para definição da obrigação de custear o tratamento (se do autor ou da ré) - Abusividade reconhecida - Alegação de que o tratamento não consta do rol de procedimentos da ANS, nem do contrato - Inadmissibilidade - Empresa prestadora de serviços de assistência médica que não pode interferir na indicação feita pelo médico - Aplicação de novas técnicas que decorrem da evolução da medicina, sendo exigível, para defesa do consumidor a especificação de não cobertura nos contratos - Pedido médico que justifica a necessidade do atendimento indicado - Recurso parcialmente provido apenas para julgar o mérito da ação.
+Nas razões do recurso especial, a parte recorrente alega violação dos arts. 47, 51, inciso VI, e § 1º, inciso II, e 54, § 4º, do Código de Defesa do Consumidor; 10, § 4º, e 35-F da Lei no 9.656/98. Sustenta, em síntese, não possuir obrigação legal e/ou contratual de fornecer o tratamento home care.
+Argumenta que, "Desta forma, deverá prevalecer a exclusão contratual e a citada lei que regulamente a saúde suplementar no Brasil. Em assim sendo, por qualquer ângulo que se analise a questão, seja pelas regras contidas no CDC, seja pelo princípio do equilíbrio contratual, o atendimento domiciliar não é devido, não encontrando guarida a pretensão Recorrida, estando, por consequência, fadadas ao insucesso" (fl. 358).
+Assim delimitada a controvérsia, passo a decidir.
+Com efeito, o Tribunal estadual reconheceu a obrigação de o plano de saúde custear o home care ao segurado, consignando o seguinte (fls. 345-349 e-STJ):
+Respeitado o entendimento do julgador monocrático, razão parcial assiste ao apelante somente quanto à questão da extinção da ação pelo falecimento do autor.
+Isto porque, em sede de tutela antecipada, foi determinado à ré o fornecimento do tratamento indicado ao autor (home care), o que ocorreu até a data de seu falecimento, devendo a questão ser analisada para definição da obrigação de custear referido tratamento (se do autor ou da ré).
+(..).
+Analisando o mérito, consta dos autos que o falecido autor contratou plano de saúde junto à ré e que esta, dentre outras coisas, se obrigou a oferecer cobertura para tratamentos médicos e hospitalares.
+Após permanecer internado em hospital credenciado à ré, entendeu por bem o médico que assistia o autor pela indicação de assistência domiciliar do tipo home care em razão do quadro clínico apresentado, cuja recusa foi efetivada pela ré sob o argumento de que este não consta do rol de procedimentos obrigatórios da ANS, nem no contrato.
+(..).
+Ademais, independentemente das cláusulas avençadas, a proteção ao adquirente de plano de saúde deve ser ampla a ponto de garantir o efetivo amparo de sua integridade física e psíquica, sob pena de se negar validade ao próprio objetivo do contrato, que é propiciar ao consumidor tranquilidade no que diz respeito à assistência médico-hospitalar.
+O afastamento de cobertura de certos procedimentos voltados à plena recuperação do paciente significa, a rigor, excluir a cobertura do próprio mal, o que não pode ser admitido.
+Assim, em que pesem às alegações da apelante, o tratamento domiciliar do tipo home care indicado ao paciente não se trata de opção do segurado, na busca apenas de sua comodidade pessoal, mas providência indispensável para manutenção da saúde do paciente, posto que dele necessita para o tratamento do mal que o aflige, bem como para evitar o agravamento de seu quadro clínico.
+Consoante se verifica do documento juntado às fls. 53/54, houve solicitação do médico que assistia o autor dos serviços de home care, demonstrando a necessidade do atendimento pleiteado.
+Além disso, o trato da moléstia que acometeu o paciente não está excluído pelo contrato e, se a internação hospitalar seria coberta pela apelante, porque os custos de home care , medida imposta pelos médicos e não por simples opção do paciente, não pode ser custeada.
+Nesse sentido, confira-se a Súmula 90 desta Corte: " Havendo expressa indicação médica para a utilização dos serviços de "home care", revela-se abusiva a cláusula de exclusão inserida na avença, que não pode prevalecer ".
+(..).
+Sendo assim, é obrigação da ré custear o tratamento na modalidade home care indicado ao autor, até a data de seu óbito.
+Constato que, ao contrário do afirmado pela parte recorrente, a taxatividade do Rol de Procedimento e Eventos em Saúde da ANS, pacificada pela Segunda Seção ao examinar os EREsp nº 1.886.929/SP, não prejudica o entendimento há muito consolidado nesta Corte de que é abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar.
+Conforme se depreende da definição do instituto, o home care não é procedimento, evento ou medicamento diverso daqueles previstos no Rol da ANS, mas tão somente a adoção de tratamento já dispensado ao paciente em sua residência, como alternativa à internação hospitalar.
+A propósito:
+DIREITO CIVIL. CONTRATOS. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. HOME CARE. ABUSO. DANO MORAL. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO RECORRIDO. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso, entendeu o Tribunal de origem que a beneficiária do plano teria direito ao tratamento home care, pois seria inconteste sua necessidade, ante o estado de saúde frágil da paciente, conforme a prova documental acostada aos autos, havendo dano moral em decorrência da negativa indevida de cobertura.
+4. Rever a conclusão da Corte de origem quanto à imprescindibilidade do tratamento home care e à existência de dano moral decorrente da gravidade do fato, com base em alegada insuficiência de provas nesse sentido, exigiria o reexame dos fatos e das provas dos autos, o que esbarra na Súmula n. 7/STJ.
+5. "Conforme jurisprudência do Superior Tribunal de Justiça, é abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar" (AgInt no AREsp 1.725.002/PE, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/4/2021, DJe 23/4/2021).
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.050.036/RN, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 27/6/2022.)
+RECURSO ESPECIAL. PLANO DE SAÚDE. PESSOA JURÍDICA DE DIREITO PÚBLICO. AUTARQUIA MUNICIPAL. AUTOGESTÃO. CÓDIGO DE DEFESA DO CONSUMIDOR. INAPLICABILIDADE. SÚMULA Nº 608/STJ. LEI DOS PLANOS. APLICABILIDADE. ART. 1º, § 2º, DA LEI Nº 9.656/1998. INTERNAÇÃO DOMICILIAR. HOME CARE. VEDAÇÃO. ABUSIVIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a discutir a aplicação do Código de Defesa do Consumidor e da Lei nº 9.656/1998 à pessoa jurídica de direito público de natureza autárquica que presta serviço de assistência à saúde de caráter suplementar aos servidores municipais.
+3. Inaplicável o Código de Defesa do Consumidor às operadoras de plano de saúde administrado por entidade de autogestão. Súmula nº 608/STJ.
+4. Considerando que as pessoas jurídicas de direito privado são mencionadas expressamente no caput do art. 1º da Lei nº 9.656/1998, a utilização do termo "entidade" no § 2º denota a intenção do legislador de ampliar o alcance da lei às pessoas jurídicas de direito público que prestam serviço de assistência à saúde suplementar.5. À luz da Lei nº 9.656/1998, é pacífica a jurisprudência do Superior Tribunal de Justiça no sentido de ser abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar.
+Precedentes.
+6. Distinção entre internação domiciliar e assistência domiciliar, sendo esta entendida como conjunto de atividades de caráter ambulatorial, programadas e continuadas desenvolvidas em domicílio.
+7. No caso, do contexto delineado no acórdão recorrido, conclui-se que o tratamento pretendido pela autora amolda-se à hipótese de assistência domiciliar, e não de internação domiciliar, o que afasta a obrigatoriedade de custeio do plano de saúde.
+8. Recurso especial não provido.
+(REsp 1766181/PR, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 3/12/2019, DJe 13/12/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. RECUSA DE COBERTURA DE TRATAMENTO DOMICILIAR. IMPRESCINDIBILIDADE COMPROVADA. AUSÊNCIA DE CERCEAMENTO DE DEFESA. DANOS MORAIS CONFIGURADOS. QUANTUM.
+VALOR RAZOÁVEL. REEXAME DE FATOS E PROVAS. ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção ou complementação de prova. Cabe ao juiz decidir sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias.
+Precedentes.
+2. No caso, a Corte a quo concluiu que as provas produzidas nos autos eram suficientes para comprovar a necessidade do atendimento em regime de home care. A modificação de tal entendimento demandaria a análise do acervo fático- probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+3. É pacífica a jurisprudência do Superior Tribunal de Justiça no sentido de ser abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar. Precedentes.
+4. A recusa indevida, pela operadora de plano de saúde, em autorizar a internação domiciliar (home care), no caso dos autos, conforme reconhecido pelas instâncias ordinárias, agravou a situação de aflição psicológica e de angústia no espírito do beneficiário, o que enseja a reparação do dano moral.
+5. O valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em sede de recurso especial quando irrisório ou exorbitante, o que não ocorreu no caso dos autos, em que fixado em R$ 14.310,00 em decorrência de recusa de cobertura de tratamento domiciliar (home care).
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1673498/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/10/2020, DJe 16/11/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA DE COBERTURA DE TRATAMENTO DOMICILIAR (HOME CARE). ABUSIVIDADE. IMPRESCINDIBILIDADE COMPROVADA. DANOS MORAIS CONFIGURADOS. IMPOSSIBILIDADE DE REVISÃO DO VALOR DA CONDENAÇÃO. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Conforme jurisprudência do Superior Tribunal de Justiça, é abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de compensação por danos morais, quando ínfimo ou exagerado.
+Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo-se às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e da razoabilidade.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1725002/PE, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/4/2021, DJe 23/4/2021.)
+Incide, no caso, o óbice da Súmula 83 do STJ.
+Em face do exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
