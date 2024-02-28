@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por RENNAN CESAR SCARPATI contra decisão que inadmitiu o recurso especial em razão da incidência das Súmulas n. 7 e 83 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina (Apelação Cível n. 5016516-98.2022.8.24.0000) assim ementado (fl. 72):
+PROCESSO CIVIL - CUMPRIMENTO DE SENTENÇA - COBRANÇA DE MENSALIDADES ESCOLARES - EXCEÇÃO DE PRÉ-EXECUTIVIDADE REJEITADA NO JUÍZO A QUO -INSURGÊNCIA DO EXECUTADO - ILEGITIMIDADE PASSIVA AD CAUSAM - MATÉRIA DE ORDEM PÚBLICA - POSSIBILIDADE DE ARGUIÇÃO ATÉ O TRÂNSITO EM JULGADO DA FASE DE CONHECIMENTO - EFICÁCIA PRECLUSIVA DA COISA JULGADA - PRELIMINAR REJEITADA- DECISÃO MANTIDA - RECURSO IMPROVIDO.
+A eficácia preclusiva da coisa julgada alcança as questões de fato e de direito que poderiam ter sido alegadas pelas partes ou interessados, mas não o foram.
+Os embargos de declaração opostos foram rejeitados (fls. 99-102).
+Nas razões do recurso especial, a parte recorrente aponta dissídio jurisprudencial e violação do art. 485, § 3º, do Código de Processo Civil.
+Pontua "os fatos sobejamente reconhecidos nas instâncias ordinárias destacando, para o que interesse ao mérito recursal, que (1) se trata de questão de ordem pública - ilegitimidade passiva do réu/recorrente, (2) houve revelia, sendo proferida a sentença transitada em julgado, sem que fosse verificada a matéria de ordem pública em nenhum momento no processo (4) tendo havido revelia, o fato autoriza que a ilegitimidade passiva seja apreciada após o trânsito em julgado" (fl. 120).
+Afirma que sua "ilegitimidade passiva  ..  jamais foi analisada no processo, eis que houve revelia nos autos" (fl. 121).
+Sustenta que o Tribunal a quo "negou prestação jurisdicional,  ..  visto que a matéria de ordem pública pode e deve ser analisada em qualquer grau de jurisdição. O requisito autorizador da análise, é que o ponto (ilegitimidade passiva) não tenha sido analisado em momento anterior" (fl. 121).
+Pondera que a falta de exame das questões relevantes para o deslinde do feito conduz à nulidade por ausência de prestação jurisdicional, bem como que o julgado é extra petita, na medida em que "a decisão do primeiro grau negou a exceção de pré-executividade em razão de não entender ser cabível a produção de provas. Já o acórdão, entendeu que não pode haver reconhecimento de matéria de ordem pública após o trânsito em julgado da demanda" (fl. 122).
+Defende que não se trata de reanálise de provas, mas do "reconhecimento de matéria de ordem pública, visto que  sua  ilegitimidade passiva  ..  não foi apreciada em momento anterior ao trânsito em julgado do demandado primeiro grau" (fl. 122).
+Argumenta que não houve a devida fundamentação e que "o acórdão recorrido enfrentou, de forma isolada, que houve preclusão. Tal decisão se deu contra o próprio precedente, o qual reconheceu que havendo revelia nos autos, a matéria de ordem pública poderá sim ser apreciada após o trânsito em julgado, visto que não foi analisada nos autos em momento anterior, devendo o STJ reformar o acórdão ora recorrido. Além de tudo, o acórdão é extra petita" (fl. 123).
+Aduz divergência jurisprudencial e colaciona julgado do Superior Tribunal de Justiça no sentido de que matéria de ordem pública não sofre os efeitos da coisa julgada.
+Requer o conhecimento e provimento do recurso.
+As contrarrazões não foram apresentadas (fl. 167).
+Pedido de tutela provisória antecipada para a suspensão do cumprimento de sentença (fls. 244-248).
+É o relatório. Decido.
+Na origem, a exceção de pré-executividade em cumprimento de sentença em que foram arguidas a ilegitimidade passiva do excipiente e a nulidade absoluta por ausência de assinatura nas duplicatas apresentadas na ação de cobrança foi rejeitada em razão da inviabilidade de dilação probatória.
+Inconformada, o excipiente interpôs agravo de instrumento.
+O Tribunal de origem negou provimento ao recurso ao fundamento de ocorrência de preclusão da coisa julgada, uma vez que o agravante, réu, não contestou a ação nem apelou da sentença, que transitara em julgado em 20/11/2013.
+Confira-se excerto do acórdão (fl. 74):
+Na hipótese, a exequente ora agravada ingressou com o presente cumprimento de sentença, objetivando a satisfação de seu crédito reconhecido na sentença proferida na ação de cobrança n. 0004082-62.2012.8.24.0082.
+Infere-se que, na referida ação de cobrança, o réu ora agravante não apresentou contestação, sendo decretada a sua revelia. Após a prolação de sentença, o réu também não interpôs apelação cível, sendo certificado o trânsito em julgado da sentença em 20/11/2013.
+Assim, verifica-se a ocorrência da eficácia preclusiva da coisa julgada no caso sub judice, o que impossibilita o reconhecimento da preliminar de ilegitimidade passiva ad causam.
+A conclusão adotada na origem se coaduna com a jurisprudência do STJ de que, "no cumprimento de sentença não se admite a rediscussão das matérias decididas no título judicial, sob penas de violação à coisa julgada, mesmo quando se tratar de matéria de ordem pública" (AgInt nos EDcl no AREsp n. 2.194.944/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 11/12/2023, DJe de 15/12/2023).
+Nesse sentido: AgInt no AREsp n. 1.404.072/MT, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 5/9/2019, DJe de 18/9/2019; AgInt no AREsp n. 2.004.035/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/6/2022, DJe de 29/6/2022; AgInt nos EDcl no AREsp n. 1.724.178/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/5/2021, DJe de 28/5/2021; AR n. 5.133/SC, relator Ministro Herman Benjamin, Primeira Seção, julgado em 27/9/2023, DJe de 17/10/2023.
+É caso, pois, de incidência da Súmula n. 83 do STJ.
+Quanto à arguição de vícios no julgado por negativa de prestação jurisdicional e julgamento extra petita, a parte recorrente não se desincumbiu de indicar artigo de lei supostamente violado para embasar essas teses recursais.
+A alegação de violação de normas legais sem a efetiva demonstração de contrariedade a lei federal impede o conhecimento do recurso especial por deficiência de fundamentação.
+Incide, pois, na espécie a Súmula n. 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+A propósito: AgInt no AREsp n. 2.331.105/GO, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 18/12/2023, DJe de 21/12/2023; AgInt nos EDcl no AREsp n. 1.808.839/SE, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/11/2023, DJe de 23/11/2023; AgInt no AREsp n. 2.349.244/MT, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/9/2023, DJe de 8/9/2023; AgInt no AREsp n. 2.283.401/BA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 29/5/2023, DJe de 1º/6/2023.
+Para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano conforme prescrições dos arts. 1.029, § 1º, do CPC e 225, § 1º, do RISTJ.
+Isso porque não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tido por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Além disso, a incidência de óbices sumulares quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Confiram-se precedentes: AgInt no REsp n. 2.054.387/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023; AgInt nos EDcl no REsp n. 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1º/9/2022.
+Portanto, inviável o conhecimento do recurso quanto à divergência jurisprudencial.
+Ante o exposto, nego provimento ao agravo.
+Fica prejudicado o pedido de efeito suspensivo .
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
