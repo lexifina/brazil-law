@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se  de  agravo  contra  decisão  que  não admitiu o  recurso  especial  interposto  em  face  de  acórdão  assim  ementado  (fl.  596):
+Apelação Cível. Ação de restituição de valores c. c. com pedido de indenização por danos materiais e morais. Ação julgada improcedente. Inconformismo da contratante apelante. Alegação de atraso na obra. Entrega das chaves no prazo avençado. Sentença de Improcedência Mantida. Recurso desprovido.
+Cuida-se, na origem, de ação de restituição de valores c/c indenização por danos materiais e morais, ajuizada pela parte ora agravante. A pretensão autoral foi julgada improcedente.
+A sentença foi mantida pelo Tribunal de origem. Os embargos declaratórios opostos ao acórdão foram rejeitados.
+Nas  razões  do  recurso  especial (fls. 602-615 e-STJ),  a parte agravante sustenta contrariedade aos arts. 39, I e XII, e 47 do Código de Defesa do Consumidor; aos arts. 48, §§ 1º e 2º, e 53, V, da Lei 4.591/1964; e aos arts. 927, III, 985, I, e 1.013, § 1º, do Código de Processo Civil; bem como divergência jurisprudencial quanto à interpretação de tese firmada no STJ sob a sistemática dos recursos repetitivos (Tema 996).
+Sustenta que a parte agravada descumpriu o prazo contratual de entrega do imóvel. Aduz que o referido prazo deve ser contado do início da construção, consoante a informação recebida no ato da compra, e não da assinatura do contrato de concessão do financiamento. Alega que houve interpretação das cláusulas contratuais em desfavor do consumidor.
+Argumenta que não foi expressamente pactuado que o prazo de entrega seria contado da assinatura do contrato de financiamento. Afirma que a parte recorrida não cumpriu com o dever de informar o termo inicial da contagem do prazo de entrega. Aduz que não se pode condicionar o prazo de entrega à assinatura do contrato de financiamento. Defende que o fornecedor deve descrever no contrato cláusulas claras, expressas e inteligíveis, principalmente em contrato de adesão.
+Contrarrazões apresentadas (fls. 653-664 e-STJ).
+Juízo negativo de admissibilidade, ensejando a interposição do presente agravo.
+Assim  delimitada  a  controvérsia,  passo  a  decidir.
+Acerca da questão controvertida, o Tribunal de origem concluiu que não houve descumprimento contratual, tendo em vista que o imóvel foi entregue após 10 meses da celebração do vínculo jurídico, prazo este inferior ao que fora pactuado pelas partes. Confira-se a fundamentação exarada no acórdão (fls. 596-599 e-STJ):
+Inconformada, a apelante (fls. 533/552) sustenta que as apeladas foram responsáveis pela entrega de 450 casas do Programa Habitacional Minha Casa Minha Vida, tendo realizado financiamento com a Caixa Econômica Federal-CE, conforme contrato de financiamento juntado às fls. 51/79, ficando pactuado o prazo de entrega do imóvel em 16 meses contados do início da construção, com possibilidade de prorrogação de até a metade deste prazo em caso fortuito ou força maior. Aduz que as cláusulas contratuais devem ser ser interpretadas de forma mais favorável ao consumidor, nos termos do art. 47 do CDC. Diz que suportou dor, frustração, sofrimento provocados pelo atraso da entrega da obra, o que acarretou danos extrapatrimonias, nos termos do art. 186 do Código Civil e entendimento pacífico do STJ.
+Em suma, pleiteia o reconhecimento do atraso na entrega do imóvel, com a condenação das apeladas na restituição de todos os valores pagos ilicitamente de 07/09/2014a 14/10/2015, bem como ao pagamento de indenização por lucros cessantes presumidos no importe de 0,5% ao mês do valor atualizado do contrato, no período do atraso (07/09/2014até a entrega das chaves que ocorreu em 28/08/2015 - fls. 83), acrescidos de juros legais e correção monetária, nos termos do Repetitivo 996 do STJ, IRDR 0023203-35.8.26.0407 e súmulas 161, 162 e 164 deste E. Tribunal.
+Requer a reforma da sentença para condenação das recorridas ao pagamento de indenização por danos morais no importe de R$ 20.000,00 (vinte mil reais) e ao pagamento das custas e despesas processuais, bem como dos honorários sucumbenciais no importe de 20% sobre o valor da causa.
+ ..  O cerne da questão está no eventual atraso na entrega do imóvel.
+O contrato avençado entres as partes, às fls. 51/79, foi assinado em14/11/2014.
+Verifica-se às fls. 57, que a cláusula de prazo para construção e legalização da unidade habitacional, assim dispõe: "o prazo para o término da construção e legalização do imóvel é aquele constante na Letra "B.8.2".
+Depreende-se, também, pelo item 12.2 que: A CONSTRUTORA dispõe de até 60 (sessenta) dias corridos após a data de conclusão das obras para efetiva entrega das chaves do imóvel ao DEVEDOR(ES).
+Há nos autos prova de que a data da entrega da chave ocorreu em 28/08/2015, segundo o Termo de Entrega Definitiva do Imóvel, às fls. 83, assinado pela apelante, ou seja, 10 meses após a assinatura do contrato.
+A autora juntou às fls. 82, um demonstrativo de acompanhamento, no qual verifica-se pagamentos anteriormente efetuados, com início em 14/12/2014, no valor de R$ 16,89, seguintes na data de 14/01/15 no valor de R$ 23,93, data de 14/02/2015 R$ 261,24.
+A fotografia de fls. 81, aponta a data início de obra em 06/05/2013; porém, as partes não firmaram vínculo jurídico, o que somente ocorreu após a assinatura do contrato em 14/11/2014.
+Nesta senda, não há falar em indenização ou devolução de valores, pois as apeladas não praticaram nenhum ato ilícito, vez que entregaram a obra antes do prazo avençado entre as partes.
+Desta forma, a r. sentença agiu com acerto julgando improcedentes os pedidos formulados.
+Há clareza no instrumento firmado entre as partes quanto ao prazo fixado para a entrega do imóvel, previsto para 16 meses. E, em que pese a argumentação da parte autora, o termo inicial de contagem do prazo deve ser a data da celebração do contrato, o que ocorreu em 14/11/2014.
+Com efeito, não consta do contrato a data de início do empreendimento, sendo que o prazo constante no cronograma apresentado à Prefeitura não tem o condão de alterar as obrigações assumidas, sobretudo para estabelecer termo inicial anterior à celebração contrato, sem que haja expressa disposição nesse sentido.
+Assim, no caso, considerando o prazo de 16 meses e que a entrega de chaves da unidade ocorreu em 28/08/2015, não houve atraso na entrega do imóvel, sendo incabível a pretensão da parte autora à condenação da parte ré ao pagamento de lucros cessantes e à restituição de "juros de obra". (destacou-se)
+Em tal contexto,  modificar  a  conclusão  do  acórdão  recorrido  - com o fim de reconhecer o descumprimento da avença pela parte agravada - demandaria,  necessariamente,  o  reexame  de  provas e de cláusulas contratuais, providência  inviável  em  recurso  especial,  a  teor  do  disposto  no enunciado das Súmula n. 5 e  7 do STJ.
+Exemplificativamente:
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESPONSABILIDADE PELO INADIMPLEMENTO CONTRATUAL. INTERPRETAÇÃO DE CLÁUSULAS E REVISÃO DO ACERVO FÁTICO DOS AUTOS.
+INCIDÊNCIA DAS SÚMULAS N.os 5 E 7 DO STJ. TAXA CONDOMINIAL. AUSÊNCIA DE IMISSÃO NA POSSE. IMPOSSIBILIDADE. SÚMULA N.º 83 DO STJ. LUCROS CESSANTES. PRESUNÇÃO DE EXISTÊNCIA DA LESÃO. SÚMULA N.º 568 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. No caso, para ultrapassar a conclusão do Tribunal estadual, a fim de reconhecer que a rescisão do contrato deu-se por responsabilidade dos compradores, seria necessária a interpretação de cláusulas do contrato, assim como a reincursão no acervo fático-probatório da causa, o que é vedado nesta sede excepcional, ante os óbices das Súmulas n.ºs 5 e 7 do STJ.
+ ..
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.043.649/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. Rever o entendimento do Tribunal local acerca do no sentido de aferir a ocorrência ou não do atraso na entrega do imóvel ou a exceção do contrato não cumprido, segundo as razões vertidas no apelo extremo, seria imprescindível o reexame de cláusulas contratuais e o revolvimento de matéria fático e probatória, providências que esbarram nos óbices das Súmulas 5 e 7 desta Corte.
+ ..
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.002.287/MT, relator Ministro Marco Buzzi, Quarta Turma, julgado em 29/8/2022, DJe de 1/9/2022.)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do artigo 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos no § 2º do mesmo artigo, ficando sob condição suspensiva a exigibilidade dessa obrigação em caso de a parte recorrente ser beneficiária da gratuidade de justiça.
+Intimem-se.
+EMENTA
