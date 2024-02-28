@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Banco Votorantim S.A. contra decisão que não admitiu o recurso especial, com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 235):
+Compra e venda de veículo. AÇÃO RESCISÓRIA DE CONTRATO DE COMPRA E VENDA DE VEÍCULO AUTOMOTOR C.C. INDNEIZAÇÃO POR ATO ILÍCITO E DANOS MORAIS. Veículo e documentação que não foram entregues ao autor em razão de vícios. Ação julgada procedente. Danos materiais fixados no valor de R$ 3.636,00, Danos morais fixados em R$5.000,00.
+Apelação da corré BV Financeira. Alegada ilegitimidade passiva afastada. Legitimidade da instituição financeira que atua em parceria com a revendedora do veículo. Contratos coligados. Responsabilidade solidária. Pretensão ao afastamento dos danos morais. Impossibilidade. Danos morais configurados. Recurso improvido.
+Apelação da corré Império Automóveis Eireli. Ilegitimidade passiva afastada. Lojas e financeiras que atuam juntas para facilitar e viabilizar a venda. Descumprimento contratual.
+Pedido para afastamento dos danos morais. Descabimento.
+Danos morais configurados. Valor de R$5.000,00 mantido.
+Indenização que deve obedecer aos Princípios da Razoabilidade e Proporcionalidade. Sentença mantida.
+Recurso improvido, com observação.
+Opostos embargos de declaração foram rejeitados (e-STJ, fls. 346-351).
+Nas razões do recurso especial, o recorrente alegou, além de divergência jurisprudencial, violação aos arts. 14, § 3º, II, e 18 do CDC.
+Sustentou a reforma do acórdão recorrido ao argumento de sua ilegitimidade passiva e consequentemente pelo afastamento da reponsabilidade solidária pelo vício indicado na inicial, tendo em vista a ausência de acessoriedade entre o contrato de compra e venda do bem de consumo e o financiamento bancário.
+Ressaltou ainda que o TJSP desconsiderou o fato de que o recorrente não faz parte da cadeia produtiva, notadamente porque atua como banco de varejo e não de montadora, além do fato de que cumpriu com sua obrigação não podendo responder por problemas originados na compra pelos quais não deu causa.
+Defendeu que somente será responsabilizado a reparar o consumidor, juntamente com outros fornecedores da cadeia de produção, apenas se ocorrer vício no produto/serviço por ele prestado, qual seja, concessão de crédito.
+Contrarrazões apresentadas às fls. 444-453 (e-STJ).
+O Tribunal local não admitiu o processamento do recurso especial (e-STJ, fls. 454-456).
+Brevemente relatado, decido.
+Ao analisar a controvérsia o Tribunal de origem entendeu que a instituição financeira, atuando como agente financiador da compra do veículo, poderia ser responsabilizada por vício do bem adquirido, já que comporia a cadeia de consumo, com base nos seguintes fundamentos (e-STJ, fls. 237-240):
+Trata-se de ação em que a o autor requereu a rescisão do contrato de compra e venda celebrado com as requeridas, pois embora tenha realizado um financiamento e pago as prestações, não recebeu o veículo objeto da compra.
+E, no que pese inconformismo das rés apelantes, seus recursos não comportam acolhida.
+Com relação à ilegitimidade passiva alegada pelas rés, pelo Código de Defesa do Consumidor a atuação direta das revendedoras junto às instituições financeiras vincula os contratos (de compra e venda e de financiamento), de modo que ambas assumem o risco da negociação, já que são contratos coligados, com vinculação e dependência.
+Assim, pouco importa se a atuação da financeira se resume à concessão do crédito. Possibilitou a concretização da venda, de modo que se enquadra na qualidade de fornecedor. Dessa forma, os danos decorrentes da atividade desenvolvida pelas rés devem ser por elas suportados, pois, em se tratando de fornecedora de serviços, sua responsabilidade é solidária e objetiva, nos precisos termos do artigo 14 caput do CDC.
+O fato de a instituição financeira não ter a obrigação de verificar as condições do veículo não implica a isenção total de responsabilidade por eventuais danos suportados pelo autor, pois, como mencionado acima, há correlação entre os contratos de financiamento e compra e venda.
+(..)
+Assim não há como afastar a legitimidade das recorrentes, bem como as suas responsabilidades solidária pelos danos sofridos pelo autor, nos termos decididos.
+Entretanto, o entendimento acima adotado diverge do posicionamento jurisprudencial do STJ, de acordo com o qual a responsabilidade solidária da instituição financeira somente se perfaz quando existe vinculação entre ela e a concessionária de automóveis, ou seja, quando atua como "banco da montadora", o que não é o caso dos autos, pois tão somente viabilizou o financiamento do veículo defeituoso, sem nenhuma vinculação com a revendedora de automóveis, tendo atuado somente como "banco de varejo".
+Nessa linha:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE AUTOMÓVEL. FINANCIAMENTO. INSTITUIÇÃO FINANCEIRA E MONTADORA. SOLIDARIEDADE. NÃO OCORRÊNCIA. AUSÊNCIA DE VINCULAÇÃO. NÃO PROVIMENTO.
+1. A jurisprudência deste Superior Tribunal de Justiça sedimentou-se no sentido de que há responsabilidade solidária entre a instituição financeira e a concessionária de automóveis, tão somente, nos casos em que estas são vinculadas, atuando a primeira como banco da segunda.
+2. Tendo a instituição financeira apenas realizado o financiamento do veículo, atuando como "banco de varejo", não está caracterizada a necessária vinculação com a revendedora de automóveis, devendo ser afastada sua responsabilidade.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.795.488/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/11/2021, DJe de 1/12/2021)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. AUSÊNCIA DE REPASSE DO VALOR DA VENDA DO VEÍCULO. RESPONSABILIDADE DA INSTITUIÇÃO FINANCEIRA. AUSENTE.
+1. Consoante a jurisprudência do Superior Tribunal de Justiça, tendo a instituição financeira apenas realizado o financiamento do veículo, atuando como banco de varejo, não está caracterizada a necessária vinculação com a revendedora de automóveis, devendo ser afastada sua responsabilidade.
+2. Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+3. AGRAVO INTERNO CONHECIDO E DESPROVIDO. (AgInt nos EDcl no REsp n. 2.021.366/PR, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 27/3/2023, DJe de 29/3/2023)
+Ademais, a jurisprudência desta Corte Superior se firmou no sentido de que eventual rescisão da compra e venda não afeta o contrato de financiamento, salvo na hipótese em que a instituição financeira seja vinculada diretamente à comercialização do bem, o que não se configura no presente caso.
+A título exemplificativo:
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS. CONTRATOS DE COMPRA E VENDA DE VEÍCULO E DE FINANCIAMENTO FIRMADOS COM SOCIEDADES DIVERSAS E INDEPENDENTES. AUTONOMIA DAS AVENÇAS. DESFAZIMENTO DO PRIMEIRO AJUSTE. EXIGIBILIDADE DAS OBRIGAÇÕES ASSUMIDAS PERANTE A INSTITUIÇÃO FINANCEIRA. VALIDADE DO SEGUNDO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. Os contratos de compra e venda de veículo e o respectivo financiamento com alienação fiduciária celebrado com instituição financeira não vinculada diretamente à revenda de automóveis não guardam relação de acessoriedade entre si, de modo que o desfazimento daquele não acarreta a extinção do segundo. Precedentes.
+3. Agravo interno não provido. (AgInt no REsp n. 1.835.460/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 8/6/2020, DJe de 12/6/2020)
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE E DA SÚMULA N. 7/STJ. INEXISTÊNCIA. REVALORAÇÃO JURÍDICA DOS FATOS. RESCISÃO CONTRATUAL POR INADIMPLEMENTO DO VENDEDOR. INEXISTÊNCIA DE CARÁTER ACESSÓRIO ENTRE OS CONTRATOS DE COMPRA E VENDA E DE FINANCIAMENTO. AFASTAMENTO DA RESPONSABILIDADE SOLIDÁRIA DA INSTITUIÇÃO FINANCEIRA. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. INOVAÇÃO RECURSAL. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+(..)
+3. Conforme entendimento deste Tribunal Superior, "não existe, em regra, caráter acessório entre os contratos de compra e venda de bem de consumo e o de financiamento bancário com arrendamento mercantil destinado a viabilizar a aquisição do mesmo bem, de maneira que a instituição financeira não pode ser responsabilizada solidariamente pelo inadimplemento do vendedor" (AgInt no REsp n. 1.351.672/RJ, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/5/2019, DJe 24/5/2019).
+4. Além disso, "a jurisprudência desta Corte reconhece a autonomia entre os contratos de compra e venda de veículo e de financiamento concedido por instituição financeira para sua aquisição, motivo pelo qual o cancelamento do primeiro não impede a exigibilidade das obrigações assumidas pelo consumidor perante a instituição financeira" (AgInt nos EDcl no REsp n. 1.292.147/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 18/5/2017, DJe 2/6/2017).
+5. No caso, é de rigor, portanto, indeferir a pretensão da agravante de responsabilizar solidariamente a instituição financeira pelos danos experimentados com o incêndio do veículo financiado, e de rescindir o contrato de financiamento do bem devido à resilição do compromisso de compra e venda do bem.
+(..)
+10. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.310.826/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 18/5/2020, DJe de 21/5/2020)
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de reconhecer a ilegitimidade passiva do recorrente, extinguindo a ação, com relação ao banco demandado, sem resolução do mérito, mantendo hígido o contrato de financiamento.
+Custas e honorários advocatícios fixados em 10% (dez por cento) sobre o valor da causa, em favor dos advogados do ora insurgente, a serem suportados pela parte autora, observada a concessão da gratuidade de justiça.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE VEÍCULO. RESCISÃO CONTRATUAL. ILEGITIMIDADE PASSIVA DA INSTITUIÇÃO FINANCEIRA. PRECEDENTES. INEXISTÊNCIA DE ACESSORIEDADE ENTRE O CONTRATO DE COMPRA E VENDA E O DE FINANCIAMENTO. PRECEDENT ES. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL .
