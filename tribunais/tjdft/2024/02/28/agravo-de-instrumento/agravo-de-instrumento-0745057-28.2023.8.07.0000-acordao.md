@@ -1,0 +1,81 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+6ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0745057-28.2023.8.07.0000AGRAVANTE(S)EXPRESSO SAO JOSE LTDAAGRAVADO(S)ANA LUCIA CAMPOS MAMEDERelatorDesembargador ALFEU MACHADO
+ Acórdão Nº1824152
+
+EMENTA
+
+ p{text-align: justify;}
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL E DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. QUEDA DE PASSAGEIRO EM VEÍCULO DE PERMISSIONÁRIA DE SERVIÇO DE TRANSPORTE PÚBLICO DO DISTRITO FEDERAL.  PROVA PERICIAL. HONORÁRIOS. VALOR FIXADO. EXCESSIVIDADE. CONSTATAÇÃO CASUÍSTICA. REDUÇÃO. NECESSIDADE. RECURSO PROVIDO. DECISÃO REFORMADA.
+1. Para apurar a extensão da lesão sofrida pelo usuário de transporte público local após queda em ônibus coletivo se faz necessária a realização da prova pericial, o que permitirá aferir a dimensão de eventual indenização nos autos de origem.
+2. É lícito ao juiz determinar, inclusive de ofício, a realização da prova pericial, bem como o adiantamento de metade da verba honorária destinada ao perito para o início dos trabalhos, na forma do art. 465, § 4º, do CPC.
+3. No particular, a parte autora trouxe aos autos laudo elaborado por assistente particular que atesta haver limitação permanente do campo de visão nos dois olhos, trauma decorrente de queda durante o transporte público ofertado pela ré. A perícia em juízo foi determinada de ofício, mas a parte autora se insurgiu contra a proposta de honorários apresentada pelo expert, o que fez por meio da devida impugnação, que, todavia, não foi considerada na decisão recorrida, embora a realidade dos autos demonstre de forma clara haver excesso no valor arbitrado, pois o exame a ser realizado não importa situação excepcional entre aqueles realizados cotidianamente por médicos especialistas na área, havendo, portanto, necessidade de redução da verba horária para patamar mais condizente com as particularidades do caso concreto posto à colação.
+4. RECURSO PROVIDO. DECISÃO REFORMADA.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 6ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, ALFEU MACHADO - Relator, LEONARDO ROSCOE BESSA - 1º Vogal e ARQUIBALDO CARNEIRO - 2º Vogal, sob a Presidência da Senhora Desembargadora VERA ANDRIGHI, em proferir a seguinte decisão: CONHECIDO. PROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 07 de Março de 2024
+
+Desembargador ALFEU MACHADORelator
+
+RELATÓRIO
+
+p{text-align: justify;}
+Trata-se de agravo de instrumento, com pedido de efeito suspensivo, interposto por EXPRESSO SÃO JOSÉ LTDA contra decisão proferida pelo Juízo da 2ª Vara Cível de Ceilândia, que, nos autos da ação indenizatória movida contra a recorrente por ANA LUCIA CAMPOS MAMEDE, visando a reparação de danos em razão das consequências derivadas da queda da agravada de dentro de um  veículo de transporte coletivo operado pela agravante, tendo a decisão recorrida homologado os honorários periciais em R$ 17.000,00 (dezessete mil reais), determinando que a agravante promova o recolhimento de metade do valor arbitrado, sob pena de perda de oportunidade de produção da prova, nos moldes do art. 465, § 4º, do Código de Processo Civil (CPC).
+Após relatar sobre o objeto da ação originária, relativo à indenização por perdas e danos derivados da queda da agravada de um ônibus de propriedade da agravante, a recorrente esclarece que foi determinada a realização de prova pericial, de ofício, a ser realizada por médico oftalmologista, a fim de apurar se está correto laudo particular que atesta potenciais sequelas derivadas do evento danoso.
+Destaca que chegou a ser cancelada a nomeação do perito indicado pelo Juízo a quo, em razão do excesso dos honorários vindicados, na expressão de R$ 20.000,00 (vinte mil reais), mas que o perito peticionou no processo pedindo reconsideração e ofertando a redução do valor dos honorários periciais para a quantia de R$ 17.000,00 (dezessete mil reais), o que foi aceito pela decisão ora impugnada.
+Defende que a decisão agravada sequer apreciou a impugnação apresentada pela recorrente, já que nada deliberou acerca da alegação de excesso dos honorários periciais propostos pelo expert.
+Alega que os honorários foram fixados em patamar excessivo, de forma dissociada da complexidade da prova, pois a perícia consiste apenas em exame oftalmológico físico, a fim de confirmar, ou não, laudo particular que aponta limitação permanente do campo de visão nos dois olhos da recorrente.
+Aponta desproporção com o preço ordinário dos serviços médicos e com os honorários fixados para realização de perícias equivalentes em outros processos, e conclui: “Sem qualquer desmerecimento ao trabalho do D. Perito, não é coerente que este seja remunerado na quantia proposta R$ 17.000,00 (dezessete mil reais); valor superior ao salário mensal da maioria dos médicos do Brasil.”
+Sustenta a presença dos pressupostos para concessão de efeito suspensivo ao recurso, considerando o risco de perda da prova ou de perda dos valores que vierem a ser pagos ao perito, na hipótese de serem considerados excessivos no julgamento de mérito, ou em caso de improcedência da ação, especialmente por ser a parte adversa beneficiária da justiça gratuita.
+Com esses argumentos, requer a concessão de efeito suspensivo ao recurso, e, no mérito, a reforma da decisão agravada, com a redução dos honorários periciais para a quantia de R$ 5.000,00 (cinco mil reais).
+Preparo regular no ID 52611219.
+Por meio da decisão de ID 52855649, atribuí efeito suspensivo ao recurso.
+Ausentes contrarrazões (ID 53888187).
+Com o despacho de ID 54434448, procedi ao chamamento do feito à ordem, com o objetivo de melhor organizar a análise de mérito.
+É o Relatório.
+
+VOTOS
+
+O Senhor Desembargador ALFEU MACHADO - Relatorp{text-align: justify;}
+
+Presentes os pressupostos de admissibilidade, conheço do agravo de instrumento.
+Conforme relatado, trata-se de agravo de instrumento, com pedido de efeito suspensivo, interposto por EXPRESSO SÃO JOSÉ LTDA contra decisão proferida pelo Juízo da 2ª Vara Cível de Ceilândia, que, nos autos da ação indenizatória movida contra a recorrente por ANA LUCIA CAMPOS MAMEDE, colimando a reparação de danos em razão das consequências derivadas da queda da agravada de dentro de um veículo de transporte coletivo operado pela agravante, tendo a decisão recorrida homologado os honorários periciais em R$ 17.000,00 (dezessete mil reais), determinando que a agravante promova o recolhimento de metade do valor arbitrado, sob pena de perda de oportunidade de produção da prova, nos moldes do art. 465, § 4º, do Código de Processo Civil (CPC.
+Na hipótese dos autos, verificados presentes os requisitos autorizadores decorrentes da combinação do disposto nos artigos 1.019, inciso I e 995, ambos do CPC, foi deferida a liminar buscada pelo agravante, pois se constatou, já no início da lide, aparente excesso no valor vindicado pelo perito nomeado para realização do laudo oftalmológico.
+Cumpre destacar que a remuneração do perito, do intérprete e do tradutor será fixada pelo juiz, em despacho fundamentado, ouvidas as partes, e à vista da proposta de honorários apresentada, considerados o local da prestação do serviço, a natureza, a complexidade e o tempo estimado do trabalho a realizar.
+Da leitura atenta das peças sub examine verifico ser relevante a irresignação manifestada no recurso, considerando a homologação dos honorários periciais pelo valor de R$ 17.000,00 (dezessete mil reais), por se mostrar excessivo e por ter sido fixado sem que fosse apreciada a impugnação apresentada pela recorrente.
+Com efeito, apesar de a agravante ter apresentado impugnações específicas e pertinentes frente às duas propostas de honorários apresentadas pelo perito no curso processo, verifica-se que a decisão agravada se limitou a acolher o valor indicado pelo expert, sem nada tratar a respeito da impugnação.
+ Confira-se, a propósito, a integra do ato resistido:
+“O perito já declinou suas razões, as quais merecem guarida. Ademais, concordou com a redução de seus honorários para R$ 17.000,00.
+Noutro giro, observo que a perícia foi determinada por este Juízo, conforme decisão de ID 153280791, oportunidade em que se determinou o rateio entre as partes. Considerando, no entanto, que a autora é beneficiária da gratuidade de justiça, sua cota parte deverá ser custeada pelo e. TJDFT, nos termos da Portaria Conjunta nº 53/2011 alterada pela Portaria GPR 35/2023, no máximo previsto (R$ 1.904,00), ante a clara complexidade do trabalho a ser realizado.
+Assim, caberá à parte ré o pagamento de metade dos honorários propostos (R$ 17.000,00), ou seja, R$ 8.500,00.
+Intime-se, pois, a parte ré, para que, no prazo de 5 (cinco) dias, proceda ao depósito de sua cota parte dos honorários (R$ 8.500,00), sob pena de perda da prova.”
+Para além da falta de fundamentação constatada na decisão agravada, a análise detida dos autos denota, nos limites da análise própria desta espécie recursal, que as propostas apresentadas pelo perito nomeado pelo Juízo a quo, Dr. Antônio Carvalho da Silva, são desarrazoadas e dissociadas da finalidade da prova.
+ A realização da prova pericial foi determinada em audiência de instrução e julgamento e se destina especificamente a confirmar, ou não, diagnostico contido em laudo oftalmológico particular apresentado pela agravada para sustentar a limitação permanente de sua capacidade visual, considerando que o exame oficial de corpo de delito não constatou a mesma deficiência. Confira-se:
+“(...) No ID116729672, encontra-se o laudo complementar de exame de corpo de delito, no qual, em relação ao quesito 2º, que trata da debilidade permanente de membro, sentido ou função, a Sra. Perita respondeu de forma negativa. Não obstante, no ID148217772, encontra-se laudo oftalmológico que relata “perda severa de sensibilidade do campo visual com ilha residual de visão nasal inferior” bem como “hemianopsia homônima esquerda associada a quadrantopsia homônima superior direita compatível com lesão (expansiva ou isquêmica) retro-quiasmática afetando área visual (área 17) na região occipital”. Referido laudo data de setembro de 2020, cerca de onze meses após o acidente. Assim, faz-se imprescindível a prova pericial para fins de avaliar a extensão do dano, na eventualidade de haver condenação...”
+O laudo particular que precisa de confirmação está acostado no ID 148217772, foi confeccionado em 10 (dez) laudas, está pautado em dois exames oftalmológicos (campimetria computadorizada e de retinografias das papilas), com os respectivos gráficos e imagens, além da conclusão do médico particular da apelante, no sentido de que haveria suposta perda de sensibilidade do campo visual nos dois olhos, decorrentes da lesão craniana que vitimou a parte recorrida.
+E, pelo que se constata da fatura que acompanha o laudo particular, os exames e o diagnóstico foram realizados em clínica denominada OFTALMED, pelo custo total de R$ 242,70 (duzentos e quarente e dois reais e setenta centavos).
+Nesse contexto, considerando o conteúdo e extensão da prova técnica determinada pelo Juízo de origem, revela-se aparente excesso e desproporcionalidade do valor dos honorários periciais vindicados pelo perito, na monta de R$ 17.000,00 (dezessete mil reais), ainda que se trate de profissional com elevada qualificação profissional.
+Também não se verifica justificativa plausível nas propostas de ID 159589150 e ID 169828629, que seja passível de amparar o valor elevado cobrado pelo expert.
+Considerando o objeto da prova, não coaduna com a realidade as afirmações lançadas na primeira proposta, no sentido de que apenas a elaboração da proposta teria exigido 16h (dezesseis horas) de análise processual, de que seriam necessárias visitas à residência da agravada e entrevista com familiares, estudo pormenorizado das “necessidades alegadas pela Parte Autora”, ou mesmo o dispêndio de 40 (quarenta) horas para exame clinico, analise da adequação no laudo particular oftalmológico exibido pela agravada e elaboração de laudo pericial.
+Essas mesmas justificativas constam da segunda proposta de honorários, oportunidade em que o perito nomeado apresenta novas argumentações incongruentes com o objeto da perícia, ressaltando a necessidade de avaliação neurológica, etiologia, fisiologia e fisiopatologia, além de relacionar, de forma genérica, inúmeros exames complementares e procedimentos de “alta complexidade”, sem apresentar qualquer correlação com o efetivo objeto da prova.
+Os referidos documentos não especificam, de fato, para além do exame clínico, quais outros exames ou providências são efetivamente necessárias para realização dos trabalhos periciais, considerando a situação concreta revelada pelo laudo particular que deverá ser objeto de análise.
+Some-se a isso que a agravante juntou aos autos prova da realização de outras perícias, também por médicos oftalmologistas e com extensão similar ao deste caso concreto, onde os valores dos honorários periciais foram arbitrados entre R$ 2.240,00 (dois mil duzentos e cinquenta reais) e R$ 6.000,00 (seis mil reais) (ID 160221210 a 160221216), o que também corrobora com o excesso da verba honorária admitida pela decisão agravada.
+Some-se aos argumentos acima ocorrência processual havida na Instância de origem, detectada por esta Relatoria, a comprometer, pelo menos em princípio, a realização da prova com a isenção que lhe deve ser própria.
+A propósito, reedito, em parte, o quanto disposto no despacho de ID 54434448 destes autos:
+Em segundo lugar, não se pode deixar passar despercebido, após consulta aos autos de origem (0705801-74.2020.8.07.0003), especialmente à vista da petição de ID 177532631, juntada pelo perito designado, Dr. Antonio Carvalho da Silva, que acentuou o seguinte:
+“Relator Respeitosamente, ANTONIO CELSO NASSAR DE OLIVEIRA Diretor de Secretaria do(a) 6ª Turma Cível” JUSTIFICATIVA Embora reconheça que o prosseguimento do seu trabalho esteja condicionado à Decisão Superior, que deve ser integralmente acatada, tem a esclarecer que na sua pretensão de honorários, levou em conta a alta complexidade da análise do estado neurológico de uma paciente que sofreu traumatismo craneano: Que foi inadvertidamente atirada para fora de um ônibus em movimento; Que, além dos sintomas de baixa acuidade visual daí decorrentes, sofreu afundamento de crâneo; Que certamente está a sofrer distúrbios neurológicos em função de possível compressão cerebral; e, ainda, A atitude protelatória dos Doutos Advogados de uma empresa que é prestadora de um Serviço Público, reconhecido no Distrito Federal como de má qualidade, apesar de ser um dos mais caros do País; O desrespeito, a procrastinação e a recusa em atender o pedido de indenização de uma vítima de sua imperícia e imprudência, que está caracterizado e se arrastando desde 2020; e, Finalmente, que o Perito sendo um grão de mostarda frente ao poder econômico de uma empresa acostumada a captar recursos generosos do GDF, apesar de prestar um serviço deplorável, vem demonstrar sua indignação pelo não reconhecimento do valor do trabalho médico. Esperando que essa manifestação possa contribuir com o reconhecimento das razões que nos levaram a propor o valor dos honorários, conforme a complexidade do caso, pedimos venia por eventual e/ou inadequada intervenção. Nestes termos, Pede deferimento. Brasília/DF, 08 de novembro de 2023. ANTONIO CARVALHO DA SILVA PERITO JUDICIAL MÉDICO”.
+Por fim, verifica presente o risco de dano ao agravante, pois em caso de manutenção da decisão recorrida estaria obrigado ao pagamento de honorários excessivos, sob perda de oportunidade de produzir a prova pericial.
+Com esses fundamentos, tenho por impositivo o acolhimento da pretensão recursal para reformar a r. decisão de origem.
+Diante do exposto, ao tempo em que confirmo a liminar deferida anteriormente, DOU PROVIMENTO ao recurso, para reduzir os honorários periciais arbitrados na decisão agravada para R$ 5.000,00 (cinco mil reais), diante das circunstâncias e razões acima explanadas.
+É como voto.
+
+O Senhor Desembargador LEONARDO ROSCOE BESSA - 1º Vogal Com o relatorO Senhor Desembargador ARQUIBALDO CARNEIRO - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. PROVIDO. UNÂNIME.
