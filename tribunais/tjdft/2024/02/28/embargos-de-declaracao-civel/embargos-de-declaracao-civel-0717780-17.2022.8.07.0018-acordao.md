@@ -1,0 +1,120 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+7ª Turma Cível
+Processo N.EMBARGOS DE DECLARAÇÃO CÍVEL 0717780-17.2022.8.07.0018EMBARGANTE(S)DISTRITO FEDERALEMBARGADO(S)KYLY INDUSTRIA TEXTIL LTDARelatoraDesembargadora SANDRA REVES
+ Acórdão Nº1823624
+
+EMENTA
+
+ EMBARGOS DE DECLAÇÃO NA APELAÇÃO CÍVEL. PROCESSUAL CIVIL E TRIBUTÁRIO. MANDADO DE SEGURANÇA. ICMS. OPERAÇÕES INTERESTADUAIS. CONSUMIDORES FINAIS NÃO CONTRIBUINTES DO IMPOSTO. DIFERENCIAL DE ALÍQUOTA (DIFAL). CONVÊNIO CONFAZ N. 93/15. NECESSIDADE DE LEI COMPLEMENTAR. TEMA N. 1.093 DO STF. REPERCUSSÃO GERAL. MODULAÇÃO DE EFEITOS. ADVENTO DA LC N. 190/22. JULGAMENTO DAS ADIS N. 7066, 7070 E 7078. PRECEDENTE VINCULANTE. REEXAME. RECURSO CONHECIDO E PROVIDO.
+
+1. Com o advento da Emenda Constitucional n. 87/15, alterou-se a redação do art. 155, § 2º, VII e VIII, da Constituição Federal, prevendo-se que, nas operações e prestações que destinem bens e serviços a consumidor final, contribuinte ou não do ICMS, localizado em outro Estado, adotar-se-á a alíquota interestadual, devida ao Estado de origem, e caberá ao Estado de localização do destinatário o imposto correspondente à diferença entre a sua alíquota interna e a alíquota interestadual, sendo este último recolhimento de responsabilidade do destinatário, quando for contribuinte do imposto, ou do remetente, quando o destinatário não for contribuinte.
+
+2. Após, o Convênio n. 93/15 do Conselho Nacional de Política Fazendária – Confaz dispôs sobre os procedimentos a serem observados nas operações e prestações que destinem bens e serviços a consumidor final não contribuinte do ICMS, localizado em outra unidade da Federação. Além disso, o Distrito Federal, mediante promulgação da Lei distrital n. 5.546/15, alterou a Lei distrital n. 1.254/96, tratando sobre o reportado assunto, e respaldava as cobranças do DIFAL neste arcabouço legislativo.
+
+3. O Supremo Tribunal Federal, ao apreciar o Tema n. 1.093, sob a sistemática da repercussão geral, entendeu que “a cobrança do diferencial de alíquota alusiva ao ICMS, conforme introduzida pela emenda EC 87/2015, pressupõe a edição de lei complementar veiculando normas gerais” (RE 1.287.019, Relator: Marco Aurélio, Relator p/ Acórdão: Dias Toffoli, Tribunal Pleno, julgado em 24/2/2021). À ocasião do julgamento, estabeleceu-se, em modulação, que a reportada decisão somente surtirá efeitos a partir do exercício financeiro de 2022, salvo quanto à cláusula nona do Convênio n. 93/15, sobre a qual teria efeito retroativo a 2016 e que versa sobre contribuintes optantes pelo Simples Nacional, e quanto às ações judiciais em curso. Em seguida, em deferência ao exposto, publicou-se, em 5/1/22, a LC n. 190/22.
+
+4. O art. 3º da LC n. 190/22 dispõe que a vigência do diploma legislativo ocorre a partir da publicação e a produção de efeitos se sujeita ao disposto no art. 150, III, c, da Constituição Federal, que preconiza acerca da anterioridade nonagesimal.
+
+5. O excelso Supremo Tribunal Federal, no julgamento das ADIs n. 7066, 7070 e 7078, em 29/11/2023, reconheceu “a constitucionalidade da cláusula de vigência prevista no art. 3º da Lei Complementar 190, no que estabeleceu que a lei complementar passasse a produzir efeitos noventa dias da data de sua publicação”.
+
+6. Na linha do entendimento vinculante exarado pela Corte Suprema, não se aplica ao caso, de forma automática, o princípio da anterioridade anual, na medida em que a LC n. 190/22 não criou ou majorou tributo, mas apenas estabeleceu regra de repartição de arrecadação tributária, fracionando o tributo entre o estado produtor e o estado de destino, sem repercussão econômica para o contribuinte. Contudo, como a própria LC n. 190/22, por opção legislativa, ainda que não fosse necessário, condicionou a sua eficácia ao período de 90 (noventa) dias após a sua publicação (anterioridade nonagesimal), a regra é válida, porquanto objetiva garantir maior previsibilidade para os contribuintes.
+
+7. Diante da imperatividade da decisão externada no precedente qualificado (ADIs n. 7066, 7070 e 7078), por força do que dispõe o art. 1.040, II, do CPC e nos termos do art. 927, I, do CPC, com vistas à uniformização da jurisprudência, medida salutar que confere efetividade ao princípio da igualdade e prestigia a segurança jurídica, valor do Estado de Direito e também direito fundamental do cidadão, deve ser parcialmente reformado o acórdão embargado (que exigia o observância das anterioridades nonagesimal e anual), para a conceder a segurança vindicada apenas à determinação de que as autoridades coatoras se abstenham de efetuar a exação do ICMS/Difal no transcurso da anterioridade nonagesimal.
+
+8. Recurso conhecido e provido
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 7ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, SANDRA REVES - Relatora, MAURICIO SILVA MIRANDA - 1º Vogal e FABRÍCIO FONTOURA BEZERRA - 2º Vogal, sob a Presidência da Senhora Desembargadora SANDRA REVES, em proferir a seguinte decisão: EMBARGOS DE DECLARACAO CONHECIDOS E PROVIDOS. UNANIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 07 de Março de 2024
+
+Desembargadora SANDRA REVESPresidente e Relatora
+
+RELATÓRIO
+
+O Distrito Federal opõe embargos de declaração contra o Acórdão n. 1794090, proferido por esta d. 7ª Turma Cível (ID 51940931), que negou provimento à remessa necessária, bem como à apelação do embargante mantendo a sentença que concedeu a segurança para suspender “a exigibilidade dos valores relativos ao ICMS/Difal decorrentes de operações de vendas de mercadorias realizadas pela impetrante a consumidores finais não contribuintes do ICMS/Difal, situados no Distrito Federal, no exercício de 2022”.
+
+O acórdão embargado foi assim ementado:
+
+APELAÇÃO. REMESSA NECESSÁRIA. PROCESSUAL CIVIL E TRIBUTÁRIO. MANDADO DE SEGURANÇA. ICMS. OPERAÇÕES INTERESTADUAIS. CONSUMIDORES FINAIS NÃO CONTRIBUINTES DO IMPOSTO. DIFERENCIAL DE ALÍQUOTA (DIFAL). CONVÊNIO CONFAZ N. 93/15. NECESSIDADE DE LEI COMPLEMENTAR. TEMA 1093 DO STF. REPERCUSSÃO GERAL. MODULAÇÃO DE EFEITOS. ADVENTO DA LC N. 190/22. ALEGAÇÃO DE INOBSERVÂNCIA AO PRINCÍPIO DA ANTERIORIDADE. DIREITO LÍQUIDO E CERTO EVIDENCIADO. REMESSA NECESSÁRIA RECEBIDA E DESPROVIDA. RECURSO CONHECIDO E DESPROVIDO. 1. Com o advento da Emenda Constitucional n. 87/15, alterou-se a redação do art. 155, § 2º, VII e VIII, da Constituição Federal, prevendo-se que, nas operações e prestações que destinem bens e serviços a consumidor final, contribuinte ou não do ICMS, localizado em outro Estado, adotar-se-á a alíquota interestadual, devida ao Estado de origem, e caberá ao Estado de localização do destinatário o imposto correspondente à diferença entre a sua alíquota interna e a alíquota interestadual, sendo este último recolhimento de responsabilidade do destinatário, quando for contribuinte do imposto, ou do remetente, quando o destinatário não for contribuinte. 2. Após, o Convênio n. 93/15 do Conselho Nacional de Política Fazendária - Confaz dispôs sobre os procedimentos a serem observados nas operações e prestações que destinem bens e serviços a consumidor final não contribuinte do ICMS, localizado em outra unidade da Federação. Além disso, o Distrito Federal, mediante promulgação da Lei distrital n. 5.546/15, alterou a Lei distrital n. 1.254/96, tratando sobre o reportado assunto, e respaldava as cobranças do DIFAL neste arcabouço legislativo. 3. O Supremo Tribunal Federal, ao apreciar o Tema n. 1.093, sob a sistemática da repercussão geral, entendeu que "a cobrança do diferencial de alíquota alusiva ao ICMS, conforme introduzida pela emenda EC 87/2015, pressupõe a edição de lei complementar veiculando normas gerais" (RE 1287019, Relator(a): MARCO AURÉLIO, Relator(a) p/ Acórdão: DIAS TOFFOLI, Tribunal Pleno, julgado em 24/2/2021, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-099 DIVULG 24-5-2021 PUBLIC 25-5-2021). À ocasião do julgamento, estabeleceu-se, em modulação, que a reportada decisão somente surtirá efeitos a partir do exercício financeiro de 2022, salvo quanto à cláusula nona do Convênio n. 93/15, sobre a qual teria efeito retroativo a 2016 e que versa sobre contribuintes optantes pelo Simples Nacional, e quanto às ações judiciais em curso. Em seguida, em deferência ao exposto, publicou-se, em 5/1/22, a LC n. 190/22. 4. O art. 3º da LC n. 190/22 dispõe que a vigência do diploma legislativo ocorre a partir da publicação e a produção de efeitos se sujeita ao disposto no art. 150, III, c, da Constituição Federal, que preconiza acerca da anterioridade nonagesimal, observada a anterioridade anual (alínea b). 5. No julgamento das ADIs n. 7066, 7070 e 7078 no âmbito do Supremo Tribunal Federal, ainda pendente de finalização, o Ministro Edson Fachin proferiu voto consignando, dentre outros fundamentos, que se mostra prescindível a previsão da cláusula de vigência consubstanciada no art. 3º da LC n. 190/22, por se tratar de limitação constitucional explícita ao poder de tributar, conjecturando que o diferencial de alíquota do ICMS acarreta aumento do ônus tributário, o que atrai a observância à anterioridade, em suas duas facetas, à luz dos princípios da segurança jurídica e da proteção à confiança. 6. Na linha do entendimento exarado pelo Ministro Edson Fachin, acompanhado de 4 (quatro) ministros da Excelsa Corte, e a despeito de posicionamento anterior adotado por esta Relatoria, conclui-se que, tanto por expressa previsão legal (art. 3º da LC n. 190/22) quanto em decorrência da garantia conferida ao contribuinte em hipótese de oneração da carga tributária, é necessária a observância aos princípios da anterioridade anual e nonagesimal no tocante à cobrança do diferencial de alíquota do ICMS, regulamentada pela LC n. 190/22. Por conseguinte, evidencia-se o direito líquido e certo alegado pela impetrante quanto à possibilidade da respectiva exação apenas no exercício de 2023, porquanto a reportada lei complementar foi publicada em 5/1/2022. 7. Remessa necessária recebida e desprovida. Recurso conhecido e desprovido. (Acórdão 1794090, 07177801720228070018, Relator: SANDRA REVES, 7ª Turma Cível, data de julgamento: 29/11/2023, publicado no PJe: 28/12/2023. Pág.: Sem Página Cadastrada)
+
+Em suas razões recursais (ID 54731726), o embargante aponta a existência de omissões no acórdão.
+
+Aduz que “o v. acórdão foi omisso ao não observar que, em relação à aplicação do principio da anterioridade, em recentíssimo julgado o STF, no âmbito da ADI n. 7070 (julgado em 29/11/2023), definiu a questão, entendendo ser inaplicável a exigência desse princípio no caso do ICMS/Difal, que estaria condicionada apenas à anterioridade nonagesimal”.
+
+Requer, portanto, o acolhimento dos embargos de declaração para que sejam supridos os vícios apontados, com atribuição de efeitos modificativos, a fim de afastar a aplicação da anterioridade anual para a exigência do ICMS/Difal, que estaria sujeito tão somente à anterioridade nonagesimal.
+
+Apesar de intimada, a parte embargada não apresentou contraminuta aos embargos de declaração, de acordo com a certidão de ID 55745781.
+
+É o relatório.
+
+VOTOS
+
+A Senhora Desembargadora SANDRA REVES - Relatora
+
+Presentes os pressupostos de admissibilidade, conheço dos embargos de declaração.
+
+Verifica-se dos autos que o acórdão embargado negou provimento à remessa necessária e à apelação interposta pelo embargante, mantendo, portanto, a sentença que concedeu a segurança para suspender “a exigibilidade dos valores relativos ao ICMS/Difal decorrentes de operações de vendas de mercadorias realizadas pela impetrante a consumidores finais não contribuintes do ICMS/Difal, situados no Distrito Federal, no exercício de 2022”, na linha do voto dissidente proferido pelo Ministro Edson Fachin nas ADIs n. 7066, 7070 e 7078, o qual foi acompanhado pelos Ministros Ricardo Lewandowski, Carmen Lúcia, André Mendonça e Rosa Weber.
+
+Ocorre que, em 29/11/2023, o excelso STF concluiu o julgamento das ADIs n. 7066, 7070 e 7078, para reconhecer “a constitucionalidade da cláusula de vigência prevista no art. 3º da Lei Complementar 190, no que estabeleceu que a lei complementar passasse a produzir efeitos noventa dias da data de sua publicação”.
+
+Conforme notícia publicada no sítio eletrônico da Corte Suprema[1], “prevaleceu no julgamento o voto do ministro Alexandre de Moraes (relator), para quem deve ser observado, no caso, o princípio da anterioridade nonagesimal, expressamente mencionado na parte final do artigo 3º da LC 190/2022”, o qual dispõe que “a lei [complementar n. 190/22] deve produzir efeito após 90 dias da data de sua publicação”. O voto do Ministro Relator foi acompanhado pelos Ministros Dias Toffoli, Gilmar Mendes, Nunes Marques, Luiz Fux e Luís Roberto Barroso.
+
+Ainda de acordo com o Exmo. Ministro Alexandre de Moraes, “não se aplica ao caso o princípio da anterioridade anual, na medida em que a LC 190/2022 não criou tributo, mas apenas estabeleceu regra de repartição de arrecadação tributária”. Dessa forma, houve somente o “fracionamento do tributo entre o estado produtor e o estado de destino, sem repercussão econômica para o contribuinte”.
+
+Registre-se que as decisões do Supremo Tribunal Federal em controle concentrado de constitucionalidade constituem precedente de observância obrigatória, por ter força vinculante, o que impõe sua aplicabilidade à demanda em análise, na forma dos arts. 926 e 927 do CPC[2].
+
+Assim, a despeito de essa Relatoria ter proferido decisões anteriores distintas para casos análogos acerca da aplicação da anterioridade anual e nonagesimal na cobrança do ICMS/Difal no exercício financeiro de 2022, diante da imperatividade da decisão externada pela excelsa Corte, com vistas à uniformização da jurisprudência, medida salutar que confere efetividade ao princípio da igualdade e prestigia a segurança jurídica, valor do Estado de Direito e também direito fundamental do cidadão, deve ser aplicado o entendimento firmado pelo Supremo Tribunal Federal no que se refere ao assunto.
+
+É válido anotar, ainda, que, apesar de não ter ocorrido o trânsito em julgado do acórdão que fixou as aludidas teses com efeitos vinculantes, sua aplicabilidade impõe-se imediatamente, conforme registrou o Ministro Celso de Melo, ao analisar a Rcl n. 30.996/SP, confira-se:
+
+Entendimento firmado pelo Supremo Tribunal Federal em sede de repercussão geral. Formação, no caso, de precedente. Publicação do respectivo acórdão. Possibilidade de imediato julgamento monocrático de causas que versem o mesmo tema. Desnecessidade, para esse efeito, do trânsito em julgado do paradigma de confronto (“leading case”). Aplicabilidade à espécie do art. 1.040, inciso I, do CPC/2015. Precedentes do STF e do STJ. Doutrina.
+
+Nessa perspectiva, a despeito de a parte autora alegar que a cobrança do diferencial de alíquota do ICMS deve observar automaticamente o princípio da anterioridade anual insculpido no art. 150, III, b, da Constituição Federal, possibilitando-se a exação apenas no exercício de 2023, não se divisa razão à parte (autora/embargada), porquanto a sistemática instituída pela EC n. 87/15 e, por conseguinte, regulamentada pela LC n. 190/22, não representou instituição ou aumento de tributo.
+
+Desse modo, sabendo-se que norma legal que versa sobre obrigações acessórias não se sujeita ao princípio constitucional da anterioridade, à luz da diretriz perfilhada na Súmula Vinculante n. 50[3], depreende-se que não se erige óbice à eficácia da LC n. 190/22 no exercício de 2022.
+
+Assim, constata-se que a regulamentação da cobrança do diferencial de alíquota do ICMS, com o advento da LC n. 190/22, além de não consubstanciar instituição ou majoração de tributo, não acarretou surpresa ao contribuinte, pois a previsão da sistemática foi inserida com a EC n. 87/15 e, no âmbito do Distrito Federal, com a Lei distrital n. 5.546/15.
+
+Logo, na linha desse entendimento, considerando que o princípio da anterioridade, insculpido à luz da segurança jurídica, objetiva precipuamente conferir garantia aos contribuintes ao resguardá-los de exação imediata após oneração da carga tributária, conclui-se que não se exige, de forma automática, observância à anterioridade tributária anual no caso em epígrafe.
+
+Contudo, a própria LC n. 190/22 condicionou a sua eficácia ao prazo de 90 (noventa) dias após a sua publicação. Dessa forma, ainda que não fosse necessário cumprir o prazo da anterioridade nonagesimal previsto na Constituição Federal (art. 150, III, c) em razão da simples promulgação da lei complementar em comento, haja vista, como mencionado, não haver criação ou majoração de tributos, o legislador optou por aplicá-la, sendo a regra, consoante entendimento do excelso STF, válida.
+
+Compartilhando da compreensão lançada no presente voto, confiram-se os seguintes julgados desta e. Corte de Justiça:
+
+ICMS-DIFAL. DIFERENCIAL DE ALÍQUOTA INTERESTADUAL. REPERCUSSÃO GERAL. CRIAÇÃO E/OU MAJORAÇÃO DE TRIBUTO. NÃO OCORRÊNCIA. NECESSIDADE DE LEI COMPLEMENTAR. MODULAÇÃO DOS EFEITOS. LC 190/2022. PRINCÍPIO DA ANTERIORIDADE NONAGESIMAL. BASE CONSTITUCIONAL. VACATIO LEGIS. NOVENTA DIAS. 1. A cobrança de DIFAL não se trata de criação de imposto novo ou aumento de imposto existente, porquanto a Lei Complementar 190, de 4 de janeiro de 2022, ao alterar a Lei Complementar 87, de 13 de dezembro (Lei Kandir), apenas disciplinou a distribuição dos recursos apurados no ICMS quando há movimentação de mercadorias entre dois Estados o que afasta a invocação dos primados da anterioridade ordinária e da noventena. 2. O Supremo Tribunal Federal, ao declarar a inconstitucionalidade da cobrança do ICMS/DIFAL por meio do Convênio CONFAZ 93/2015, modulou os efeitos de modo prospectivo, de forma a tolerar a cobrança em período anterior, assim como durante todo o ano de 2021 (Tema 1093/STF). 3. Na modulação dos efeitos da declaração de inconstitucionalidade, o Pretório Excelso ressalvou da proposta as ações judiciais em curso, nos termos da decisão prolatada pelo Tribunal Pleno em 24.2.2021, no RE 1.287.019. 4. A Lei Complementar 190/2022, a despeito de publicada em 05.1.2022, e entrado em vigor nesta data, trouxe expressa cláusula quanto à produção de efeitos. Em que pese ter citado o primado da noventena previsto na alínea "b" do inciso III do artigo 150 da Constituição Federal, não estava a criar uma hipótese de noventena além da CF/1988, mas apenas suspendendo a produção de seus efeitos em igual prazo. 5. A cobrança do diferencial de alíquota do ICMS pode se dar, em regra, a partir do exercício financeiro de 2022, a contar do período em que a LC 190/2022 começou a produzir seus efeitos, ou seja, noventa dias após sua publicação. 6. Quando as ações já se encontravam em curso à época em que o STF concluiu o julgamento da ADI 5.469/DF e do RE 1.287.019/DF, em cuja modulação se definiu que o decidido não se aplicaria aos casos ainda em discussão, a limitação temporal aplicada pelo STF dá lugar à integralidade da decisão calcada na inconstitucionalidade completa da cobrança. 7. Recurso parcialmente provido. (Acórdão 1784193, 07022192120208070018, Relator: MARIO-ZAM BELMIRO, 4ª Turma Cível, data de julgamento: 9/11/2023, publicado no DJE: 27/11/2023. Pág.: Sem Página Cadastrada)
+
+DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA. DIFAL/ICMS. LC 190/2022. ANTERIORIDADES ANUAL E NONAGESIMAL. I. A regulamentação do ICMS-DIFAL pela Lei Complementar 190/2022, na esteira do que restou decidido no Recurso Extraordinário 1.287.019, não importa em criação ou majoração de tributo, de maneira a afastar a incidência do princípio da anterioridade de exercício consagrado no artigo 150, inciso III, alínea "b", da Constituição de 1988. II. Segundo o artigo 3º da Lei Complementar 190/2022, a cobrança do DIFAL/ICMS deve observar a anterioridade nonagesimal prevista no artigo 150, inciso III, alínea "c", da Constituição Federal. III. Apelação parcialmente provida. (Acórdão 1762519, 07038840420228070018, Relator: ARNOLDO CAMANHO, Relator Designado: JAMES EDUARDO OLIVEIRA  4ª Turma Cível, data de julgamento: 21/9/2023, publicado no DJE: 9/11/2023. Pág.: Sem Página Cadastrada)
+
+Acrescente-se, ainda, que, nos mesmos moldes da tese erigida em situação semelhante pela Excelsa Corte, no tocante ao reconhecimento de necessidade de lei complementar federal para regulamentar previsão constitucional de incidência de ICMS (Tema n. 1.094[4]), o STF assentou que as leis estaduais ou distritais editadas após a Emenda Constitucional são válidas, porquanto elaboradas conforme o disposto no art. 24, § 3º, da Constituição Federal, mas produzem efeitos somente a partir da vigência da lei complementar, no que se mostrem compatíveis.
+
+Partindo desta premissa, conclui-se que a Lei distrital n. 5.546/15, que dispõe acerca do ICMS no âmbito do Distrito Federal, é válida e produz efeitos no tocante ao Difal a partir da eficácia da LC n. 190/22, com observância do art. 3º, in verbis:
+
+Art. 3º Esta Lei Complementar entra em vigor na data de sua publicação, observado, quanto à produção de efeitos, o disposto na alínea "c" do inciso III do caput do art. 150 da Constituição Federal.
+
+Portanto, o Acórdão n. 1794090 deve ser parcialmente reformado, para sua subsunção ao julgamento do STF nas ADIs n.7066, 7070 e 7078.
+
+Ante o exposto, conheço dos embargos de declaração e dou-lhe provimento, para, emprestando-lhes efeitos infringentes, reformar parcialmente o Acórdão n. 1794090, adequando-o ao julgamento do STF nas ADIs n. 7066, 7070 e 7078, e, via de consequência, afastar a exigência da anterioridade anual. Por conseguinte, a concessão da segurança vindicada fica limitada à determinação de que as autoridades coatoras se abstenham de efetuar a exação do ICMS/Difal apenas no transcurso da anterioridade nonagesimal.
+
+É como voto.
+
+[1] Disponível em https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=521003&ori=1. Acesso em 17 dez. 2023.
+
+[2] Art. 926. Os tribunais devem uniformizar sua jurisprudência e mantê-la estável, íntegra e coerente.
+
+Art. 927. Os juízes e os tribunais observarão:
+
+I - as decisões do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+
+[3] Súmula Vinculante 50 do STF: Norma legal que altera o prazo de recolhimento de obrigação tributária não se sujeita ao princípio da anterioridade.
+
+[4] RE 1221330, Relator(a): LUIZ FUX, Relator(a) p/ Acórdão: ALEXANDRE DE MORAES, Tribunal Pleno, julgado em 16/6/2020, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-204 DIVULG 14-8-2020 PUBLIC 17-8-2020.
+
+O Senhor Desembargador MAURICIO SILVA MIRANDA - 1º Vogal Com o relatorO Senhor Desembargador FABRÍCIO FONTOURA BEZERRA - 2º Vogal Com o relator
+
+DECISÃO
+
+EMBARGOS DE DECLARACAO CONHECIDOS E PROVIDOS. UNANIME.
