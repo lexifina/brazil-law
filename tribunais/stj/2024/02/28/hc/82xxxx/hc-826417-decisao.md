@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido de liminar, impetrado em favor de ROQUE DAVID ROSA DE CASTRIA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Agravo de Execução Penal nº 5070589-53.2022.8.21.7000).
+O Juízo da Vara Adjunta de Execuções Criminais da Comarca de Ijuí/RS homologou o PAD nº 017/2021 no qual foi reconhecida a prática de falta grave pelo ora paciente, consistente na apreensão de 1 aparelho celular em seu poder, e, por isso, fixou o dia de 24/03/2021 (data dos fatos) como data-base para fins de progressão de regime e decretou a perda de 1/4 dos dias remidos (e-STJ fls. 50/52).
+O Tribunal de origem negou provimento ao agravo em execução interposto pela defesa por meio do acórdão assim ementado (e-STJ fl. 62):
+AGRAVO EM EXECUÇÃO (ARTIGO 197 DA LEP). FALTA GRAVE E CONSECTÁRIOS LEGAIS. IRRESIGNAÇÃO DEFENSIVA.
+DEVIDAMENTE COMPROVADA A PRÁTICA DE FALTA GRAVE, CONSISTENTE EM POSSE DE APARELHO CELULAR NO INTERIOR DO ESTABELECIMENTO PRISIONAL, CARACTERIZANDO A INFRAÇÃO PREVISTA NO ART. 50, INCISO VII, DA LEP.
+OUTROSSIM, CABÍVEL A APLICAÇÃO DOS CONSECTÁRIOS LEGAIS DE ALTERAÇÃO DA DATA-BASE PARA FUTURA PROGRESSÃO DE REGIME E PERDA DE 1/4 DE DIAS REMIDOS.
+AGRAVO DESPROVIDO.
+O impetrante alega, em síntese, que: a) "não há a possibilidade de identificar o proprietário do aparelho encontrado, sendo injusta a punição aplicada a este" (e-STJ fl. 12); e b) "diante da insuficiência probatória acostado aos autos, permeia a dúvida, é perfeitamente possível, que a fim de justificar o objeto encontrado, o paciente tenha sido eleito a ser o proprietário do objeto apreendido, visto que é vedado a punição coletiva dos reeducandos quando não for possível a identificação do infrator" (e-STJ fl. 13).
+Requer a concessão da ordem "a fim de que seja decretada a não homologação do procedimento administrativo disciplinar, com o consequente não reconhecimento de falta grave imputada ao paciente, restabelecendo em seu processo de execução penal os dias remidos perdidos, bem como, seja retificada a data base para progressão de regime" (e-STJ fl. 14).
+Informações prestadas (e-STJ fls. 75/77 e 78/97).
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus e, caso conhecido, pela denegação da ordem (e-STJ fls. 101/105).
+É o relatório.
+Decido.
+A ordem deve ser denegada pois, segundo a jurisprudência desta Corte Superior de Justiça, desconstituir a conclusão a que chegou o Tribunal de origem quanto ao reconhecimento da prática de falta disciplinar de natureza grave, ou até mesmo sua desclassificação para falta de natureza média ou leve, demandaria amplo revolvimento de questões fático-probatórias, inadmissível na via estreita do habeas corpus, como se extrai dos seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. FALTA GRAVE. NULIDADE. OITIVA JUDICIAL DO APENADO. PRESCINDIBILIDADE. INEXISTÊNCIA DE REGRESSÃO DEFINITIVA DE REGIME. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO DA FALTA PARA NATUREZA MÉDIA. NECESSIDADE DE EXAME APROFUNDADO DE PROVAS. VIA INADEQUADA. RECURSO A QUE SE NEGA PROVIMENTO.
+1 - "Segundo o entendimento deste Superior Tribunal de Justiça, na homologação da falta grave, inexiste a exigência de prévia oitiva do apenado perante o magistrado, desde que exista a instauração de PAD, no qual tenha sido oportunizada à parte o pleno exercício do contraditório e da ampla defesa" (AgRg no RHC n. 167.429/RJ, relator Ministro Jorge Mussi, Quinta Turma, julgado em 13/9/2022, DJe de 16/9/2022).
+2 - O art. 118 da LEP exige a oitiva prévia do apenado apenas nos casos de regressão definitiva de regime prisional, o que não é a hipótese dos autos, porquanto não houve regressão do sentenciado a regime mais gravoso.
+3 - As instâncias ordinárias, soberanas na análise das circunstâncias fáticas da causa, entenderam que o reeducando violou os arts. 50, incs. I e VI, c/c o 39, incs. II e V, ambos da Lei de Execução Penal. Revisar os elementos de prova para concluir pela absolvição ou pela desclassificação da falta grave exigiria o revolvimento do contexto fático-probatório, procedimento incompatível com a estreita via do habeas corpus, na qual não se admite dilação probatória.
+4 - Agravo regimental a que se nega provimento.
+(AgRg no HC 743.180/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/03/2023, DJe de 23/03/2023).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. ART. 50, VI, C.C ART. 39, I E II, AMBOS DA LEI DE EXECUÇÃO PENAL - LEP. AFASTAMENTO. NECESSÁRIO REVOLVIMENTO DA MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. ALTERAÇÃO DA DATA-BASE PARA CONCESSÃO DE NOVOS BENEFÍCIOS. RECONHECIMENTO IDÔNEO DOS CONSECTÁRIOS DA PRÁTICA DE INFRAÇÃO DISCIPLINAR. PERDA DOS DIAS REMIDOS DEVIDAMENTE FUNDAMENTADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O afastamento da falta grave praticada pelo ora paciente (art. 50, VI, c/c art. 39, I e II, ambos da Lei de Execução Penal - LEP) demanda o reexame de matéria fático-probatória, inadmissível na via estreita do habeas corpus. Precedentes.
+2. Ademais, "consolidou-se nesta Corte Superior de Justiça entendimento no sentido de que a desobediência aos agentes penitenciários constitui-se em falta grave, a teor do art. 50, VI, c/c o art. 39, II e V, ambos da Lei de Execuções Penais" (HC n. 377.551/SP, QUINTA TURMA, Rel. Min. REYNALDO SOARES DA FONSECA, DJe de 28/3/2017).
+3. O entendimento desta Corte Superior de Justiça é no sentido de que o cometimento de falta grave pelo apenado (a) importa na alteração da data-base para a concessão de novos benefícios, salvo livramento condicional, indulto e comutação da pena; (b) autoriza a regressão de regime e (c) a revogação de até 1/3 dos dias remidos (art. 127 da LEP).
+4. Por último, no caso, a perda do tempo remido no grau máximo encontra-se devidamente fundamentada na natureza e nas circunstâncias da infração cometida pelo apenado, em consonância com o art. 127 c/c o art. 57 da LEP.
+5. Agravo regimental desprovido.
+(AgRg no HC 732.365/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/05/2022, DJe de 19/05/2022).
+De mais a mais, constato que o Tribunal de origem, ao negar provimento ao agravo de execução interposto pela defesa considerou que a conduta do sentenciado se enquadrou na hipótese prevista no art. 50, VII, da Lei de Execução Penal.
+O acórdão encontra-se assim fundamentado (e-STJ fls. 65/):
+No curso da execução penal, sobreveio notícia de que, no dia 24MAR2021, foi localizado junto aos pertences do apenado, e apreendido, um aparelho de telefone celular da marca LG, com bateria e chip da operadora Claro, com código IMEI ilegível, conforme PAD 17/2021.
+Realizada audiência de justificativa, o apenado negou a propriedade do aparelho. Contudo, com base nos relatos prestados pelos agentes públicos, inconteste que ele fez uso do aparelho celular, caracterizando a prática da falta grave prevista no art. 50, inciso VII, da LEP, razão pela qual não prospera a alegação defensiva de insuficiência probatória.
+Ante o exposto, DENEGO A ORDEM.
+Publique-se. Intimem-se.
+EMENTA
