@@ -1,6 +1,6 @@
 Art. 8º Fica instituído o Sistema Nacional de Turismo, composto pelos seguintes órgãos e entidades:
 I - Ministério do Turismo;
-II - EMBRATUR - Instituto Brasileiro de Turismo;
+II - Agência Brasileira de Promoção Internacional do Turismo - Embratur;
 III - Conselho Nacional de Turismo; e
 IV - Fórum Nacional de Secretários e Dirigentes Estaduais de Turismo.
 § 1º Poderão ainda integrar o Sistema:
