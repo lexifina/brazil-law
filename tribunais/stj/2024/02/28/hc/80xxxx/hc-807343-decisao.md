@@ -1,0 +1,24 @@
+DECISÃO
+ANTONIO CARLOS CAVALCANTI GUIMARÃES alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, que denegou o HC n. 5000127-04.2023.8.24.0000.
+Consta dos autos que o paciente foi denunciado pela suposta prática dos crimes de tráfico de drogas e de associação para o narcotráfico.
+A defesa aduz, em síntese, que o processo existente em desfavor do réu foi deflagrado a partir de elementos de informação ilícitos, obtidos por meio de invasão de domicílio.
+Para tanto, registra que, durante o cumprimento de mandado de prisão na residência do corréu Mikael Kons, também foram apreendidos entorpecentes e um telefone celular sem prévia autorização judicial e, posteriormente, "com a quebra do sigilo do aparelho apreendido, houve a "descoberta fortuita" de suposta prática dos delitos de tráfico de drogas e associação para este fim, supostamente cometidos pelo ora Paciente e outros 16 réus" (fl. 4).
+Pontua que as investigações policiais desenvolvidas no inquérito foram amparadas exclusivamente nos dados obtidos por meio da quebra do sigilo do referido celular e que, no dia da prisão, o corréu não autorizou o ingresso dos agentes estatais no domicílio.
+Observa, ainda, que, "quando  os policiais civis  procederam sua abordagem em via pública, a fim de cumprir o referido mandado de prisão, percebeu-se que o Mikael não trazia consigo qualquer material ilícito que pudesse ensejar também uma nova prisão em flagrante ou busca e apreensão" (fl. 6).
+Sustenta que os agentes estatais "responsáveis pelo cumprimento do mandado ter apenas cumprido a ordem de prisão que lhes cabia, sendo que, se a autoridade policial, por quaisquer razões, tivesse interesse em investigar determinada residência, deveria ela ter solicitado um mandado de busca e apreensão ao juízo, expondo as razões que levavam às suspeitas" (fl. 9), o que, no entanto, não ocorreu.
+Requer, assim, a concessão da ordem, nos seguintes termos (fl. 19):
+Diante do fim da instrução processual da ação penal originária, com a manutenção da prisão preventiva do Paciente, fundada em provas obtidas com a ilegal entrada dos agentes policias da residência do Corréu Mikael Kons, requer-se o reconhecimento da ilicitude da forma na qual a prova foi obtida, procedendo-se ao desentranhamento de todas as provas advindas do aparelho telefônico apreendido de Mikael Kons, com fulcro no art. 157 do CPP e art. 5º, inc. LVI, da Constituição Federal, com o trancamento da presente ação penal, revogando-se a prisão preventiva de ANTONIO CARLOS CAVALCANTI GUIMARÃES.
+Subsidiariamente, caso Vossa Excelência não entenda pelo trancamento da ação penal, que sejam desentranhadas as provas nulas originárias e nulas por derivação, continuando-se a ação penal, também revogando-se a prisão preventiva de ANTONIO CARLOS CAVALCANTI GUIMARÃES.
+Ainda, subsidiariamente, a análise do bons predicados pessoais do Paciente, porquanto Réu primário, de bons antecedentes, ocupação lícita e residência fixa e conhecida, todos já comprovados nos autos, não se mostrando proporcional a medida de extrema ratio da prisão preventiva, podendo e merecendo que seja concedida a ele a liberdade provisória a fim de permanecer em liberdade, podendo trabalhar e cuidar de suas filhas pequenas no transcorrer da persecução penal, com ou sem medidas cautelares diversas da prisão, as quais podem efetivamente suprir as preocupações com a ordem pública.
+Não houve pedido de liminar.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus e, caso conhecido, pela denegação da ordem.
+Ciente da decisão proferida pelo STF nos autos do HC n. 234.581, aqui juntada às fls. 87-103.
+Decido.
+De plano, verifico que não foi trazida à colação cópia das seguintes peças processuais: inquérito policial, denúncia, decreto de prisão preventiva e decisão que determinou a quebra do sigilo de dados do aparelho celular apreendido com o corréu Mikael Kons.
+Tal circunstância prejudica sobremaneira a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal de que estariam sendo vítima o paciente.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória.
+É cogente ao impetrante, sobretudo quando se tratar de advogado (como no caso), apresentar elementos documentais suficientes para se permitir aferir a alegada existência de constrangimento ilegal no ato atacado na impetração, o que, no entanto, não ocorreu.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Nada impede, porém, à vista dos princípios da economia e da celeridade processuais, que, caso a parte traga as peças faltantes, o pedido seja considerado e analisado.
+Publique-se e intimem-se.
+EMENTA
