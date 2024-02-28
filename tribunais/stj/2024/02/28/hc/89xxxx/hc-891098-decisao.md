@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ARIANE MARTINS DE ANDRADE contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1500921-26.2018.8.26.0624.
+Consta nos autos que a Paciente foi condenada às penas de 5 (cinco) anos de reclusão, em regime inicial fechado, e 500 (quinhentos) dias-multa, como incursa no art. 33, caput, c.c. o art. 40, inciso III, ambos da Lei n. 11.343/2006.
+A Defesa interpôs recurso de apelação, que foi parcialmente provido pelo Tribunal de origem, para reduzir as penas para 4 (quatro) anos, 10 (dez) meses e 10 (dez) dias de reclusão e 485 (quatrocentos e oitenta e cinco) dias-multa.
+Neste writ, o Impetrante narra que o mandado de prisão expedido contra a Paciente em razão do trânsito em julgado da condenação foi cumprido em 08/02/2024.
+Sustenta que não houve fundamentação idônea para a fixação do regime fechado para início de cumprimento da pena.
+Requer, liminarmente e no mérito, a fixação do regime prisional aberto.
+É o relatório. Decido.
+Observo que, no HC n. 889.309/SP foi formulada idêntica pretensão à veiculada no presente feito, em favor da mesma Paciente, não tendo sido conhecido o writ por ser substitutivo de revisão criminal.
+Em referida decisão, foi afastada a existência de flagrante ilegalidade apta a ensejar a concessão de habeas corpus, de ofício, nos seguintes termos:
+"A propósito do regime inicial de cumprimento de pena, não obstante a fixação da reprimenda em patamar inferior a 8 (oito) anos de reclusão (e pena-base fixada no mínimo legal), verifico que o Tribunal de origem justificou a fixação do regime mais gravoso em razão da quantidade da droga apreendida, bem como no "fato de ter praticado o delito nas dependências de estabelecimento prisional" (fl. 24), o que justifica o estabelecimento do regime inicial fechado.
+Com igual conclusão, cito os seguintes precedentes:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. DOSIMETRIA. MINORANTE DO ART. 33, §4º, DA LEI N. 11.343/2006. FIXADA FRAÇÃO DE 1/6. INEXISTÊNCIA DE ILEGALIDADE. REGIME FECHADO. QUANTIDADE E VARIEDADE DE ENTORPECENTES APREENDIDOS. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. O Tribunal a quo, não obstante a primariedade do agravante e o quantum de pena estabelecido, fixou o regime mais gravoso considerando a gravidade em concreto da conduta praticada, consubstanciada na quantidade e variedade de entorpecentes apreendidos, de maneira que há fundamentação concreta para o estabelecimento de regime inicial mais gravoso do que aquele indicado pela pena aplicada, o que vai ao encontro da jurisprudência desta Corte sobre o tema. Precedentes.
+5. Agravo regimental desprovido." (AgRg no HC 664.638/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 01/06/2021, DJe 07/06/2021; sem grifos no original.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. ART. 33, § 4º, DA LEI N. 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. EXISTÊNCIA DE DIVERSOS ATOS INFRACIONAIS. RÉU RESPONSÁVEL PELO ABASTECIMENTO DO PONTO DE VENDA DE DROGAS. ELEMENTOS FÁTICOS. REVISÃO. IMPOSSIBILIDADE. MINORANTE. NÃO APLICAÇÃO. REGIME FECHADO. FUNDAMENTAÇÃO IDÔNEA. CONVERSÃO DAS PENAS. IMPOSSIBILIDADE.
+ ..
+5. "Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para a fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, a primariedade, a eventual existência de circunstâncias judiciais desfavoráveis e, em se tratando dos crimes previstos na Lei n. 11.343/2006, como no caso, a quantidade e a natureza da substância entorpecente apreendida (art. 42 da Lei n. 11.343/2006). 2. Na hipótese, conquanto fixada a pena-base no mínimo legal, a existência de fundamentação concreta, lastreada na quantidade do entorpecente apreendido, justifica a imposição de regime prisional mais gravoso do que aquele indicado pelo quantum de pena estabelecido (AgRg no HC n. 631.479/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 09/02/2021)."
+6. Agravo regimental improvido." (AgRg no HC 632.654/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 08/06/2021, DJe 15/06/2021; sem grifos no original.)"
+Trata-se esta impetração, portanto, de mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem o mesmo acórdão e a mesma matéria, inexistindo alteração fático-processual que justifique a reapreciação do julgado.
+Conclui-se, assim, pela inadmissibilidade do mandamus, porquanto "não pode ser conhecida a impetração que veicula mera reiteração de pedido já formulado em writ anteriormente impetrado nesta Corte". No mesmo sentido, v.g.: HC 519.170/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/10/2019, DJe 21/10/2019; EDcl no AgRg no HC 532.973/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 10/10/2019, DJe 15/10/2019.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210, do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. REGIME PRISIONAL. REITERAÇÃO DO PEDIDO FORMULADO NO HC N. 889.309/SP. INADMISSIBILIDADE. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
