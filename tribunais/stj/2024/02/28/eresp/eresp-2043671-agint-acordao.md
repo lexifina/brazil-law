@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 22/02/2024 a 28/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria, Paulo Sérgio Domingues e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. EMBARGOS DE DIVERGÊNCIA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. NÃO EXISTÊNCIA DE DISSENSO ENTRE ACÓRDÃOS. AUSÊNCIA DE COTEJO ENTRE OS ACÓRDÃOS. INCIDÊNCIA ENUNCIADO N. 284 DA SÚMULA DO STJ.
+I - Trata-se de embargos de divergência contra acórdão que negou provimento a agravo interno.
+II - Verifica-se que não existe dissenso entre os acórdãos em confronto, pois, enquanto, no acórdão recorrido, assentou-se que não são devidos honorários ainda que oferecida exceção de pré-executividade, no acórdão paradigma, encontra-se consignado que, havendo oposição do credor, a verba honorária será devida.
+III - Nesse panorama, não havendo dissenso entre os arestos, têm-se inviabilizados os embargos de divergência. Sobre o assunto, confira-se:(AgInt nos EAREsp 573.866/MG, relator Ministro Francisco Falcão, Corte Especial, julgado em 23/6/2020, DJe 29/6/2020.)
+IV - Por outro lado, ainda que afastado o empeço, verifica-se que o recorrente não fez o cotejo entre os acórdãos, sendo insuficiente a comparação dos trechos sem a fundamentação explícita do dissenso. Incidência do enunciado n. 284 da súmula do STF.
+V - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu dos embargos de divergência fundamentados no art. 1.043 do CPC/2015 e art. 266 do RISTJ, visando reformar acórdão proferido pelo Tribunal , assim resumido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS EM FAVOR DO ADVOGADO DA PARTE EXECUTADA. DESCABIMENTO. PRINCÍPIO DA CAUSALIDADE. MULTA. ART.
+1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na s essão realizada em 09.03.2016, o regi me recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o agravo interno.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - O reconhecimento da ocorrência de prescrição intercorrente pela não localização de bens do devedor não autoriza a condenação da Fazenda Pública ao pagamento de honorários sucumbenciais do advogado, ainda que oferecida exceção de pré- executividade, porquanto, nessa hipótese, a exequente não pode ser responsabilizada pelo ajuizamento da ação executiva nem pela não localização do devedor ou de seus bens. Precedentes.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 34, XVIII, "a", do RI/STJ, não conheço do recurso."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+6. Primeiro porque há dissenso entre os acórdãos. Ora, como já exposto, no caso destes autos, houve a resistência incontroversa da Fazenda acerca do acolhimento da Exceção de Pré-Executividade.
+7. Contudo, em insistente omissão o acórdão agravado não tratou especificamente sobre a resistência, embora fosse esta que devesse permear a razão de decidir, tal qual no acórdão paradigma acostado.
+8. Ou seja, a fim de configurar-se a aplicação do artigo 489, §1º, IV do CPC, tem-se que é justamente a RESISTÊNCIA À EXTINÇÃO DA EXECUÇÃO FISCAL que delimita a Razão de Decidir conforme os precedentes do STJ que foram indicados no Recurso Especial e nos Embargos de Divergência, haja vista que a resistência ao reconhecimento da prescrição e à extinção da execução fiscalpossui a função de gatilho para se inverter a causalidade, conforme se destaca nos precedentes, até então não enfrentados de forma devida:
+ EDcl no AgInt no AREsp: 1812894 PR, publicado em 13/12/2021, da Segunda Turma do STJ -Relatoria do Ministro OG FERNANDES; e
+ AgInt no REsp: 1867881 RS, publicado em 20/08/2021, da Primeira Turma do STJ -Relatoria do Ministro GURGEL DE FARIA.
+9. Segundo porque, no tocante ao cotejo analítico, o Superior Tribunal de Justiça, em precedente publicado por sua Segunda Turma, nos EDcl no AgInt no AREsp: 1812894 PR, de Relatoria do Ministro OG FERNANDES, no dia 13/12/2021, com idêntica Razão de Decidir, após reconhecer a omissão em relação à resistência da Fazenda Pública à extinção da execução fiscal, foi reforçado o entendimento no sentido de que "o Fisco é responsável pelos honorários, em virtude do princípio da sucumbência".
+ ..
+13. A verdade é que o entendimento mais recente que prevalece no STJ é CONTRÁRIO ao acórdão proferido, razão pela qual a mesma merece ser reformada, a fim de que o Recurso Especial seja PROVIDO, tanto em razão da omissão sobre relevante fundamento (diversas vezes apontada), que caracterizou afronta aos art. 1.022, II e art. 489, §1º IV do CPC; quanto em razão do dissídio entre a decisão recorrida e a interpretação do STJ firmada nos precedentes:
+ ..
+14. Deste modo, é inquestionável que a Primeira Turma divergiu, frontalmente, do entendimento fixado pela Segunda Turma.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. EMBARGOS DE DIVERGÊNCIA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. NÃO EXISTÊNCIA DE DISSENSO ENTRE ACÓRDÃOS. AUSÊNCIA DE COTEJO ENTRE OS ACÓRDÃOS. INCIDÊNCIA ENUNCIADO N. 284 DA SÚMULA DO STJ.
+I - Trata-se de embargos de divergência contra acórdão que negou provimento a agravo interno.
+II - Verifica-se que não existe dissenso entre os acórdãos em confronto, pois, enquanto, no acórdão recorrido, assentou-se que não são devidos honorários ainda que oferecida exceção de pré-executividade, no acórdão paradigma, encontra-se consignado que, havendo oposição do credor, a verba honorária será devida.
+III - Nesse panorama, não havendo dissenso entre os arestos, têm-se inviabilizados os embargos de divergência. Sobre o assunto, confira-se:(AgInt nos EAREsp 573.866/MG, relator Ministro Francisco Falcão, Corte Especial, julgado em 23/6/2020, DJe 29/6/2020.)
+IV - Por outro lado, ainda que afastado o empeço, verifica-se que o recorrente não fez o cotejo entre os acórdãos, sendo insuficiente a comparação dos trechos sem a fundamentação explícita do dissenso. Incidência do enunciado n. 284 da súmula do STF.
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Verifica-se que não existe dissenso entre os acórdãos em confronto, pois, enquanto, no acórdão recorrido, assentou-se que não são devidos honorários ainda que oferecida exceção de pré-executividade, no acórdão paradigma, encontra-se consignado que, haven do oposição do credor, a verba honorária será devida.
+Nesse panorama, não havendo dissenso entre os arestos, tem-se inviabilizados os embargos de divergência.
+Sobre o assunto, confira-se:
+PROCESSUAL CIVIL. TRIBUTÁRIO. ICMS. PIS/COFINS. ALEGAÇÃO DE DIVERGÊNCIA. EMBARGOS LIMINARMENTE INDEFERIDOS. NÃO COMPROVAÇÃO DA DIVERGÊNCIA.
+I - Na origem, trata-se de Mandado de Segurança impetrado contra o titular da Agência da Receita Federal de Pedro Leopoldo/MG, com o fim de afastar o ICMS da base de cálculo do PIS e da COFINS. Na sentença, julgou-se extinto o processo. No Tribunal a quo, a sentença foi mantida. Nesta Corte, negou-se provimento ao agravo em recurso especial. O agravo interno foi desprovido pela Primeira Turma. Indeferiu-se, liminarmente, os embargos de divergência.
+II - Em relação ao julgado paradigma REsp n. 806.467/PR, dispõe o art. 266 do Regimento Interno do Superior Tribunal de Justiça que "cabem embargos de divergência contra acórdão de Órgão Fracionário que, em recurso especial, divergir do julgamento atual de qualquer outro Órgão Jurisdicional deste Tribunal".
+III - Também os incisos I e III do art. 1.043 do Código de Processo Civil estabelecem que é embargável a decisão do órgão fracionário que, "em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal".
+IV - Conforme transcrito nos dispositivos acima, os embargos de divergência têm como escopo a uniformização interna da jurisprudência deste Superior Tribunal de Justiça, razão pela qual, para que sejam admitidos, é necessária a demonstração, entre outros requisitos da atualidade da divergência jurisprudencial entre os seus órgãos fracionários.
+V - No mesmo sentido é a jurisprudência consolidada neste Superior Tribunal de Justiça: (AgInt nos EREsp 1.345.680/SC, relator Ministro Napoleão Nunes Maia Filho, Corte Especial, julgado em 5/4/2017, DJe de 19/4/2017 e AgInt nos EARESP n. 1.569.739/AL, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 25/10/2018).
+VI - Mediante análise dos autos, verifica-se que o embargante não logrou comprovar a existência do dissídio atual entre os órgãos fracionários do Superior Tribunal de Justiça, uma vez que o acórdão do REsp n. 806.467/PR, indicado como paradigma, foi proferido somente em 20/9/2007. Sendo assim, não restou cumprido o requisito de admissibilidade dos embargos de divergência, nos termos dos dispositivos legais acima mencionados. A propósito: (EDcl no AgInt nos ERESP n. 120.375/SC, relator Ministro Herman Benjamin, Primeira Seção, DJe de 16/4/2019 e AgInt nos EREsp n. 155.769/RS, relator Ministro Herman Benjamin, Corte Especial, DJe de 21/11/2018).
+VII - Em relação ao julgado paradigma REsp n. 1.266.153/DF, o art. 1.043, § 3º, do Código de Processo Civil dispõe serem cabíveis embargos de divergência quando o acórdão paradigma for da mesma turma que proferiu decisão embargada.
+VIII - Condiciona a incidência dessa hipótese à alteração da composição da Turma julgadora em mais da metade de seus membros, entre a data do julgamento do acórdão embargado e a data de julgamento do acórdão paradigma. A propósito: (AgInt nos EREsp 1.622.531/CE, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 27/11/2017 e AgRg nos EAREsp 321.023/CE, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe de 1/6/2018).
+IX - No caso, não ocorreu a alteração da composição do órgão fracionário nos termos do art. 1.043, § 3º do CPC, haja vista que, desde a data da sessão de julgamento do processo relativo ao acórdão embargado, ingressaram na Primeira Turma, apenas o Sr. Ministro Gurgel de Faria.
+X - Não há, pois, como admitir a utilização do REsp n. 1.266.153/DF como paradigma nos autos dos presentes embargos de divergência.
+XI - Sobre o paradigma RMS 29.773/DF, o Superior Tribunal de Justiça firmou entendimento no sentido de que, em sede de embargos de divergência, não se admite como paradigma acórdão proferido em ações que possuem natureza de garantia constitucional como habeas corpus, recurso ordinário em habeas corpus, mandado de segurança, recurso ordinário em mandado de segurança, habeas data e mandado de injunção.
+XII - Mesmo sob a vigência do novo Código de Processo Civil, os arts. 1.043, § 1º do CPC e 266, § 1º do Regimento Interno do Superior Tribunal de Justiça delimitaram o confronto de teses jurídicas objeto dos embargos de divergência àquelas decorrentes do julgamento de recursos e ações de competência originária. Não podem, pois, servir como paradigma, os julgados relativos a ações constitucionais. A propósito: (AgInt nos EAREsp 474.423/RS, Corte Especial, relatora Ministra Nancy Andrighi, DJe de 10/5/2018).
+XIII - Agravo interno improvido.
+(AgInt nos EAREsp 573.866/MG, relator Ministro Francisco Falcão, Corte Especial, julgado em 23/6/2020, DJe 29/6/2020.)
+Por outro lado, ainda que afastado o empeço, verifica-se que o recorrente não fez o cotejo entre os acórdãos, sendo insuficiente a comparação dos trechos sem a fundamentação explícita do dissenso. Incidência do enunciado n. 284 da súmula do STF.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
