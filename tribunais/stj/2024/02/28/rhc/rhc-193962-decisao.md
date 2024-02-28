@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por WELLINGTON SALVIANO CONCEIÇÃO DA SILVA contra acórdão do Tribunal de Justiça do Estado de Alagoas que, no HC n. 0811708-80.2023.8.02.0000, denegou a ordem que pretendia a revogação da prisão preventiva do recorrente, imposta em virtude da prática, em tese, do delito de lesão corporal (art. 129, § 9º, do Código Penal), em contexto doméstico. O acórdão ficou assim ementado (e-STJ fl. 51):
+PENAL. PROCESSO PENAL. HABEAS CORPUS. LESÃO CORPORAL POR RAZÕES DA CONDIÇÃO DO SEXO FEMININO. PLEITO DE RELAXAMENTO DA PRISÃO PREVENTIVA. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL POR EXCESSO DE PRAZO POR VIOLAÇÃO AO POSTULADO DA DURAÇÃO RAZOÁVEL DO PROCESSO. NÃO CONSTATAÇÃO. FEITO COM REGULAR ANDAMENTO. PRECEDENTES. STJ. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. REMÉDIO CONSTITUCIONAL CONHECIDO E DENEGADO.
+Nas razões do presente recurso ordinário, a defesa alega a ocorrência de excesso de prazo da segregação cautelar, a qual perdura por "por mais de 220 dias sem que a instrução processual tenha sido finalizada" (e-STJ fl. 64), e requer a concessão liminar da "ordem de habeas corpus, com a finalidade de relaxar a prisão cautelar decretada na origem, expedindo-se o pertinente alvará de soltura em favor do paciente para cumprimento imediato na unidade prisional onde se encontra. Ao final, escoado o prazo com ou sem as informações da autoridade coatora e depois de colhido o parecer da douta Procuradoria da República, requer o provimento do recurso, reformando-se o acórdão recorrido, confirmando-se a medida liminar com a concessão definitiva da ordem de habeas corpus em favor do paciente" (e-STJ fl. 69).
+É, em síntese, o relatório.
+A liminar em habeas corpus, bem como em recurso ordinário em habeas corpus, não possui previsão legal, tratando-se de criação jurisprudencial que visa a minorar os efeitos de eventual ilegalidade que se revele de pronto.
+Em um juízo de cognição sumária, não visualizo manifesta ilegalidade no ato ora impugnado a justificar o deferimento da medida de urgência.
+Diante disso, mostra-se imprescindível minuciosa análise dos elementos de convicção juntados aos autos, para aferir a existência de constrangimento ilegal, o que ocorrerá por ocasião do julgamento definitivo.
+Ante o exposto, indefiro a liminar .
+Solicitem-se informações ao Tribunal a quo e ao Juízo de primeiro grau, ressaltando-se que esta Corte Superior deverá ser noticiada de qualquer alteração no quadro fático atinente ao tema objeto deste recurso.
+Requeira-se, ainda, senha para acesso aos andamentos processuais constantes do respectivo portal eletrônico, tendo em vista a restrição determinada pela Resolução n. 121 do Conselho Nacional de Justiça.
+Após, encaminhem-se os autos ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
