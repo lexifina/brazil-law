@@ -1,0 +1,16 @@
+DECISÃO
+RICARDO SANTOS DA SILVA alega sofrer coação ilegal em face de acórdão do Tribunal de Justiça do Estado de Alagoas (Revisão Criminal n. 0805126-64.2023.8.02.0000).
+O condenado a 30 anos de reclusão, por homicídios qualificados (duas vezes), se insurge contra a dosimetria da pena (exasperação da pena-base). Busca a diminuição da reprimenda.
+O Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+A correção da dosimetria em habeas corpus somente é admitida quando identificadas violações aos seus critérios legais ou manifesta desproporcionalidade no quantum fixado.
+Após a revisão criminal, a condenação do paciente (art. 121, § 2º, II e IV, do CP) ficou estabelecida em 30 anos de reclusão. Verifica-se a violação do art. 59 do CP e o erro na exasperação da pena-base.
+Constou da sentença, mantida pelo Tribunal, que o réu "possui conduta social irregular" e "não tem bons antecedentes sociais, visto que foi preso mais de uma vez" (fl. 45). A teor da Súmula n. 444 do STJ, é vedada a utilização de registros criminais não definitivos para agravar a pena-base.
+Quanto à análise negativa das demais vetoriais do art. 59 do CP, também se verifica o vício de fundamentação.
+Sobre a personalidade, o Magistrado pontuou que o denunciado não está "adaptado para o convívio coletivo, uma vez que, sem motivações, assassinou duas pessoas" (fl. 45). A afirmação não denota características pessoais anormais e comportamentos duradouros que compõem a singularidade do réu. O Juiz deixou de especificar dados acidentais da conduta para concluir que as "circunstâncias dos fatos não beneficiam o acusado" e assinalou que "o comportamento das vítimas, pegas de surpresa, favoreceu a ação do agente" (fl. 45), o que é esperado para o delito qualificado e se confunde com a conduta prevista no art. 121, § 2º, IV, do CP.
+Os motivos dos homicídios foram considerados negativos, "uma vez que inexistentes diante dos fatos apresentados". Entretanto, os jurados reconheceram o motivo fútil (desproporcionado com a gravidade da reação homicida), o que permitiu a aplicação da pena mais severa do homicídio qualificado, pois "o crime teve por motivação os comentários de ameaças por parte das vítimas, que, segundo ele  o réu , eram usuárias de drogas e andavam armadas" (fl. 41).
+Na sentença, nem sequer houve referência ao motivo fútil, e o Magistrado não mencionou o deslocamento de uma das qualificadoras para a primeira fase da dosimetria. O vício não pode ser corrigido em habeas corpus, sob pena de reformatio in pejus indireta.
+Assim, no caso sob exame, porque inexistente motivação idônea para o aumento da pena-base, é indispensável a sua redução ao mínimo legal, de 12 anos de reclusão, reprimenda que fixo em definitivo, visto que incide a Súmula n. 231 do STJ e não há registro de outros moduladores. Tendo em conta o concurso material dos dois homicídios qualificados, as penas, somadas, alcançam 24 anos de reclusão.
+À vista do exposto, concedo o habeas corpus para reconhecer a violação do art. 59 do CP e reduzir as penas-bases e a pena definitiva do paciente, a qual fica estabelecida em 24 anos de reclusão, mantidos os demais termos da condenação.
+Publique-se e intimem-se.
+EMENTA
