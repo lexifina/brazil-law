@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 22/02/2024 a 28/02/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. SISTEMA NACIONAL DE TRÂNSITO. AUTO DE INFRAÇÃO. TESTE DO ETILÔMETRO. RECUSA DO CONDUTOR. ART. 277 DO CTB. INFRAÇÃO DE MERA CONDUTA. PRECEDENTES. PROVIMENTO NEGADO.
+1. O Superior Tribunal de Justiça possui o entendimento segundo o qual, a despeito da aferição, ou não, de sinais de embriaguez, a infração de trânsito consistente na recusa ao teste do etilômetro é de mera conduta, independendo de outros elementos para ser reconhecida (art. 277 do CTB).
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por NELSON DE SAMPAIO BASTOS contra a decisão de minha relatoria de fls. 230/232.
+O agravante sustenta que (fl. 243):
+ ..  está expressamente previsto a necessidade da notoriedade da alteração da capacidade psicomotora, de modo que os agentes devem anotar no campo de observações do auto de infração, as alterações que notarem.
+Conforme se observa pelo auto de infração lavrado em desfavor do Agravante, não foi constatado pelo agente de trânsito da Recorrida, no momento da abordagem, nenhum dos sinais capazes de presumir a influência de álcool ou outra substância capaz de fundamentar a autuação pela recusa do condutor.
+Ao contrário do entendimento proferido pela decisão agravada, a autuação pela mera recusa na realização do teste, como estabelecido pelo Contran, será possível sempre que o agente de trânsito possua condições de motivar e fundamentar o ato administrativo a ser praticado. Assim também é o entendimento de turmas recursais de outros estados, como citado no PUIL, a jurisprudência do Colégio Recursal do Rio Grande do Sul.
+Destarte, a autuação foi exclusivamente devido à recusa em se submeter ao exame de bafômetro. Ocorre que o artigo 165-A funciona de forma complementar ao artigo 277, devendo ser interpretado conjuntamente.
+Não foi apresentada impugnação de acordo com a certidão de fl. 251.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. SISTEMA NACIONAL DE TRÂNSITO. AUTO DE INFRAÇÃO. TESTE DO ETILÔMETRO. RECUSA DO CONDUTOR. ART. 277 DO CTB. INFRAÇÃO DE MERA CONDUTA. PRECEDENTES. PROVIMENTO NEGADO.
+1. O Superior Tribunal de Justiça possui o entendimento segundo o qual, a despeito da aferição, ou não, de sinais de embriaguez, a infração de trânsito consistente na recusa ao teste do etilômetro é de mera conduta, independendo de outros elementos para ser reconhecida (art. 277 do CTB).
+2. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não merece prosperar.
+Nos termos do art. 18 da Lei 12.153/2009, "caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material". No § 3º do mesmo dispositivo, é estabelecida a competência do Superior Tribunal de Justiça (STJ) para examinar pedidos de uniformização sobre controvérsias em que haja divergência na interpretação da lei federal por turmas de diferentes Estados, ou quando a decisão proferida esteja em contrariedade com súmula desta Corte.
+Apesar do esforço argumentativo da parte ora agravante e do confronto do caso concreto com precedentes de turma recursal de outro estado membro, verifico que, no mérito, a pretensão esbarra em orientação jurisprudencial desta Corte. Isso porque, a despeito da aferição, ou não, de sinais de embriaguez, compreende o STJ que a infração de trânsito consistente na recusa ao teste do etilômetro é de mera conduta, independendo de outros elementos para ser reconhecida. A propósito:
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SISTEMA NACIONAL DE TRÂNSITO. AUTO DE INFRAÇÃO. TESTE DO ETILÔMETRO. RECUSA DO CONDUTOR. NECESSIDADE DE PUNIÇÃO DO DESCUMPRIMENTO DO DEVER POSITIVO PREVISTO NO ART. 277 DO CTB. INFRAÇÃO DE MERA CONDUTA. APLICAÇÃO DA MESMA PENALIDADE PREVISTA PARA A SANÇÃO ADMINISTRATIVA DO ART. 165 DO CTB. VALIDADE DO ATO ADMINISTRATIVO. AGRAVO INTERNO DO PARTICULAR DESPROVIDO.
+1. No caso dos autos, o Tribunal de origem negou provimento à Apelação do ora agravante, firmando entendimento de que, por se tratar de penalidade administrativa, a simples recusa ao teste do etilômetro justifica a aplicação do artigo 165 do Código de Trânsito Brasileiro, nos termos da disposição contida no art. 277, § 3o. do CTB (fls. 220), concluindo pela validade do auto de infração.
+2. No Recurso Especial sustentou-se a violação do art. 277, § 3o. da Lei 9.503/1997, ao argumento de ser necessário que o agente de trânsito se utilize de outros meios de prova para aferição do estado de embriaguez e caracterização da infração administrativa. Afirmou-se que, na ausência de sinais claros de embriaguez, auferidos pela autoridade de trânsito, não há ilegalidade cometida pelo recorrente.
+3. Entretanto, verifica-se que esta Corte Superior consolidou o entendimento exposto na decisão agravada de que, tendo em vista a necessidade de punição do descumprimento do dever positivo previsto no art. 277 do CTB, enquanto infração de mera conduta, a recusa em se submeter ao teste de alcoolemia resulta na aplicação da mesma penalidade prevista para a sanção administrativa do art. 165 do CTB. Precedentes: REsp. 1.720.060/RJ, Rel. Min. REGINA HELENA COSTA, DJe 6.12.2018; REsp. 1.758.579/RS, Rel. Min. FRANCISCO FALCÃO, DJe 4.12.2018; AgInt no REsp. 1.719.584/RJ, Rel. Min. HERMAN BENJAMIN, DJe 29.11.2018.
+4. Agravo Interno do Particular desprovido. (AgInt no REsp n. 1.540.731/RN, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 11/6/2019, DJe de 14/6/2019.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DIREITO ADMINISTRATIVO. ETILÔMETRO OU BAFÔMETRO. RECUSA EM SE SUBMETER AO EXAME. INFRAÇÃO DE TRÂNSITO. CONFIGURAÇÃO. ARTS. 165 E 277, §3º, DO CTB. AUTONOMIA DAS INFRAÇÕES. IDENTIDADE DE PENAS. RECURSO ESPECIAL PROVIDO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A recusa em se submeter ao teste do etilômetro (bafômetro) não presume a embriaguez prevista no art. 165 do Código de Trânsito Brasileiro, tampouco se confunde com a infração lá estabelecida, configurando violação autônoma, apenas cominada de idêntica penalidade.
+III - Recurso Especial Provido. (REsp n. 1.720.060/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 27/11/2018, DJe de 6/12/2018.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
