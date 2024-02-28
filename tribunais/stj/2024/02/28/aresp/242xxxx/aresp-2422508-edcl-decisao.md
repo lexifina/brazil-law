@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por PAULA SCOTTON FIALHO, em face de decisão monocrática da lavra deste signatário, acostada às fls. 615-621 (e-STJ), que deu parcial provimento ao reclamo a fim de afastar a cobrança da taxa de fruição.
+Em suas razões, a ora embargante sustenta, em síntese, omissão quanto à redistribuição dos ônus sucumbenciais, ao argumento de que com o provimento do recurso especial, sucumbiu minimamente em seus pedidos, razão pela qual a parte ora embargada deve arcar integralmente com os ônus da sucumbência.
+Sem impugnação.
+É o relatório.
+Decido.
+1. Nos estreitos lindes do art. 1.022, incisos I, II e III, do Código de Processo Civil, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontráveis em decisão, ou acórdão.
+No caso, com razão a embargante, tendo em vista a omissão relativa à distribuição dos ônus de sucumbência na decisão de fls. 615-621 (e-STJ).
+Com efeito, o juízo de primeiro grau consignou a sucumbência mínima da autora, nos seguintes termos (e-STJ, fl. 160):
+Isso posto, JULGO PROCEDENTE, em parte, esta ação movida porPAULASCOTTONFIALHOcontraLFPQUINTADOSALTOEMPREENDIMENTOSIMOBILIÁRIOS SPE LTDA., acolhendo o pedido inicial, declarando rescindido o contrato firmado entre as partes. Condeno a acionada a restituir, em favor da compradora, 80% dos valores pagos, com abatimento do IPTU, condomínio ou contribuição associativa e da taxa de ocupação, nos termos da fundamentação, com correção monetária, pela Tabela Oficial do TJSP, e juros legais de 1% ao mês, a partir da citação. Com o trânsito em julgado, a restituição dos valores, ora estabelecida em favor da autora, far-se-á em parcela única, na forma prevista nos artigos 523 ou 526, do Código de Processo Civil, e a retomada da posse do imóvel ao alvedrio das partes. Dou por extinto este processo, com resolução do mérito, o que faço com fundamento no artigo 487, I, do Código de Processo Civil. Reputando mínima a sucumbência da autora, responderá a acionada pelas custas processuais e honorários advocatícios fixados em 10% do valor da condenação.
+O Tribunal de origem, por sua vez, no acórdão de fls. 297-307, e-STJ, entendeu ser cabível a cobrança da taxa de fruição e consignou que teria havido sucumbência recíproca, nos seguintes termos (e-STJ, fl. 307):
+Por fim, houve sucumbência recíproca. Assim, as custas deverão ser igualmente partilhadas entre a autora e a ré, arcando esta com honorários advocatícios de 10% do valor da condenação, e a autora, com honorários advocatícios de 10% calculado sobre a diferença entre o val or postulado na inicial, e o efetivamente obtido.
+Assim, diante do provimento do apelo extremo, com o consequente afastamento da condenação ao pagamento da taxa de fruição, de rigor o restabelecimento da sentença no tocante à sucumbência mínima da autora, de forma que o recorrido, ora embargado, arque integralmente com o pagamento das custas judiciais e honorários advocatícios fixados pelo Tribunal de origem.
+2. Do exposto, acolhem-se os embargos de declaração para sanar a omissão relativa à distribuição dos ônus sucumbenciais e, diante da sucumbência mínima da autora, condenar a parte ré, ora embargada, a arcar integralmente com o pagamento das custas judiciais e honorários advocatícios fixados pelo Tribunal de origem.
+Publique-se.
+Intimem-se.
+EMENTA
