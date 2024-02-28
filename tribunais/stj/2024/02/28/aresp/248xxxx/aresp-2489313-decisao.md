@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto contra acórdão retratado na seguinte ementa (fl. 111):
+APELAÇÃO CÍVEL - Interposição contra sentença que julgou extinta, sem resolução do mérito, ação de busca e apreensão. Notificação não levada a efeito. Mora não constituída. Aplicação da Súmula 72 do Superior Tribunal de Justiça. Sentença mantida.
+Apelação não provida.
+Os embargos declaratórios opostos foram rejeitados.
+Nas razões do recurso especial a parte agravante alega violação dos arts. 1.022 do Código de Processo Civil; 2º, § 2º, e 3º, do Decreto-Lei n. 911/1969. Aponta que houve negativa de prestação jurisdicional no caso.
+Sustenta, em síntese, a validade da notificação enviada ao endereço constante do contrato. Afirma que, "Ora, tendo o recorrente enviado a notificação extrajudicial ao endereço informado pelo devedor no contrato, a falha na comunicação entre as partes, a impedir o aperfeiçoamento do ato, deve ser imputada exclusivamente ao recorrido, na medida em que o banco recorrente, credor, adotou o comportamento que lhe era esperado ao enviar a notificação para o endereço indicado pelo devedor no contrato" (fl. 132).
+Assim posta a questão, passo a decidir.
+No tocante às alegações de ofensa ao art. 1.022 do Código de Processo Civil de 2015, verifico que essas não merecem prosperar. Isso se diz porque não configura ausência de fundamentação ou negativa de prestação jurisdicional o fato de o acórdão ter sido proferido em sentido contrário ao desejado pela parte recorrente.
+Dessa forma, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados. Nesse sentido: AgRg no Ag 829.006/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/9/2015, DJe 28/9/2015; AgRg no AREsp 670.511/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/2/2016, DJe 1/3/2016.
+Com efeito, observo que o Tribunal de origem manteve o julgamento de extinção da ação de busca e apreensão, diante da ausência de notificação regular do devedor em mora, conforme os seguintes fundamentos (fls. 112-113):
+O autor apresentou com a petição inicial a notificação extrajudicial, no entanto, nesta constou a informação de que o réu estava ausente, conforme se verifica no aviso de recebimento de fls. 27 (em três tentativas).
+A notificação, portanto, não foi entregue ao devedor, forçando concluir-se, com base na presente fundamentação, que não restaram preenchidos os requisitos estampados pelo artigo 2º, § 2º, do Decreto-Lei n.º 911/69, para comprovação da mora, sendo de rigor a extinção do feito.
+(..).
+Importante frisar que não se trata daquelas situações em que não se exige a assinatura do próprio destinatário, ou em que o réu tenha se mudado, sem manter atualizado seu endereço junto à instituição. No caso em tela, tem-se que a notificação não foi levada a efeito em razão de o devedor estar ausente. Logo, não há espaço para, sequer, cogitar-se na inobservância da boa-fé contratual.
+No mais, não há que olvidar que a Súmula n.º 72 do Colendo Superior Tribunal de Justiça dispõe que a comprovação da mora é imprescindível à busca e apreensão do bem alienado fiduciariamente.
+Por sua vez, o artigo 2º, § 2º, do Decreto-Lei n.º 911/69, estabelece que a mora decorrerá do simples vencimento do prazo para pagamento e poderá ser comprovada por carta registrada com aviso de recebimento, não se exigindo que a assinatura constante do referido aviso seja a do próprio destinatário.
+A ausência de preenchimento dos requisitos legais equivale à falta de comprovação da mora do réu, justificando a extinção.
+Com efeito, verifico que o acórdão recorrido está em dissonância com a jurisprudência do STJ, que firmou o entendimento de que, para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no contrato, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros. Nesse sentido, confira-se:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. AFETAÇÃO AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA N. 1.132. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA COM GARANTIA. COMPROVAÇÃO DA MORA. NOTIFICAÇÃO EXTRAJUDICIAL COM AVISO DE RECEBIMENTO. PROVA DE REMESSA AO ENDEREÇO CONSTANTE DO CONTRATO. COMPROVANTE DE ENTREGA. EFETIVO RECEBIMENTO. DESNECESSIDADE.
+1. Para fins do art. 1.036 e seguintes do CPC, fixa-se a seguinte tese: Em ação de busca e apreensão fundada em contratos garantidos com alienação fiduciária (art.
+2º, § 2º, do Decreto-Lei n. 911/1969), para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros.
+2. Caso concreto: Evidenciado, no caso concreto, que a notificação extrajudicial foi enviada ao devedor no endereço constante do contrato, é caso de provimento do apelo para determinar a devolução dos autos à origem a fim de que se processe a ação de busca e apreensão.
+3. Recurso especial provido.
+(REsp n. 1.951.662/RS, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 9.8.2023, DJe de 20.10.2023.)
+Ressalto, além disso, que o entendimento desta Corte abarca como consectário lógico a hipótese constante dos autos, qual seja, quando a notificação é enviada ao endereço do devedor, reconhecendo-se que cumpre ao credor demonstrar tão somente o comprovante do envio da notificação com Aviso de Recebimento ao endereço do devedor indicado no contrato, situação verificada no caso concreto.
+Em face do exposto, conheço do agravo e dou parcial provimento ao recurso especial a fim de determinar a devolução dos autos ao Tribunal de origem para que analise os demais assuntos trazidos na apelação, como entender de direito.
+Intimem-se.
+EMENTA
