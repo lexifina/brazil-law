@@ -1,0 +1,48 @@
+DECISÃO
+O paciente alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 8056273-42.2023.8.05.0000, em que foi mantida sua prisão preventiva.
+Depreende-se dos autos que "o Paciente foi preso, em 09/10/2023, por força do cumprimento de mandado de prisão preventiva pela suposta prática dos delitos de organização criminosa, homicídio e tráfico de drogas" (fl. 13).
+A defesa sustenta que o réu se apresentou espontaneamente à autoridade policial e sua companheira, também acusada do fatos, foi beneficiada com a prisão domiciliar em razão da maternidade (filhos menores de 12 anos). O mesmo pedido foi indeferido ao paciente, apesar da comprovação de que é o responsável pela companheira (que faz tratamento de esquizofrenia desde 2021 e é acompanhada no CAPS) e pelo filho do casal, que não está recebendo os devidos cuidados e está afastado da escola.
+Decido.
+O postulante, ao que se tem, foi denunciado por ser "pessoa de grande importância dentro da ORCRIM e provável mandante do crime de homicídio que vitimou ÍTALO BATISTA, vulgo "SECÃO", além de traficar junto à sua mãe VEINHA e ao demais membros de sua família (DOSSIÊ03). Possui uma condenação penal" (fl. 20, grifei).
+O Juízo de primeiro grau assim decretou a sua prisão preventiva:
+Quando ao periculum libertatis, deve ser ressaltado que, de acordo com o parecer do Ministério Público, as investigações apontam que os representados não somente cometem delitos de tráfico e associação para o tráfico, como também cometem diversos delitos contra a vida, sendo verdadeiro Tribunal do Crime, demonstrando assim propensão para a prática criminosa e reiteração delitiva. Ademais, há informações de que os representados integram organização criminosa atuante de forma intensa na região, de modo que resta patente a necessidade da segregação cautelar diante da gravidade concreta da conduta dos agentes, e também como forma de resguardar a ordem pública, impedindo a reiteração delitiva/continuidade delitiva.
+Feita estas considerações, observo que no caso em debate os riscos decorrentes das supostas condutas dos investigados afetam a ordem pública, uma vez que ligadas ao de tráfico de drogas e organização criminosa, que por sua natureza afetam o meio social dos locais onde são praticados, demonstrando assim a absoluta necessidade da medida cautelar.
+Deve ser ressaltado que para se chegar aos nomes dos representados e conduta de cada um, foi necessário intenso e complexo trabalho investigativo, iniciado através das interceptações telefônicas, que demandou longo período, sendo, agora, a custódia cautelar, o meio mais eficaz e necessário para paralisar ou, pelo menos, prejudicar o funcionamento da atividade criminosa desenvolvida pelos representados.
+ ..
+6) PEDRO SILVA CRUZ, VULGO PEDRO, apontado como "CABEÇA CARA" ou seja: pessoa de grande importância dentro da ORCRIM e provável mandantedo crime de homicídio que vitimou ÍTALO BATISTA, vulgo "SECÃO", além de traficar junto à sua mãe VEINHA e ao demais membros de sua família (DOSSIÊ03). Possui uma condenação penal.
+ ..
+No caso sob apreço, em face das provas até então produzidas, que instruem os autos do presente feito, como os relatórios técnicos acostados aos autos, encontram-se presentes os requisitos ensejadores dos pleitos.
+Isto ocorre porque os fatos descritos nos autos correspondem à situação jurídica que autoriza o deferimento dos pedidos, haja vista a existência de indícios da prática dos crimes de integrar organização criminosa para prática de tráfico de drogas e prática de outros delitos, a exemplo, homicídios, posse e porte ilegal de arma de fogo, corrupção de menores, sendo portanto a prisão cautelar o instrumento que dispõe o Estado para desarticular organização criminosa ou mesmo interromper/diminuir a atuação de seus integrantes, garantindo assim a ordem pública e evitando a reiteração/continuação da atividade delitiva (fls. 86-89, destaquei).
+Ao indeferir o pedido de prisão domiciliar, o qual é reiterado a esta Corte, o Juiz consignou:
+ ..
+em sede de audiência de custódia, foi concedida a sua companheira, denominada Tamilis, também presa na mesma operação, o benefício da prisão domiciliar, em razão da mesma ser mãe de menores impúberes.
+Contundo, nesta ocasião requer a concessão da prisão domiciliar ao requerente, visto que a sua companheira Tamilis possui diagnóstico de transtornos psiquiátricos, necessitado assim dos cuidados do requerente custodiado, bem como sendo necessário para os cuidados do filho menor, inclusive para levá-lo à escola.
+ ..
+Da análise detida dos autos, verifica-se que o requerente não logrou êxito em comprovar a sua imprescindibilidade nos cuidados do filho menor.
+Outrossim, em que pese o diagnóstico de sua companheira, genitora do menor, não há nos autos provas idônea de que seja absolutamente incapaz de dispensar os cuidados necessários aos filhos, ao revés, verifica-se que a genitora do infante encontra-se sob tratamento medicamentoso para estabilização do quadro. Além do mais, ainda que seja incapaz de dispensar os cuidados aos filhos, se for o caso, poderá a companheira do requerente contar com o auxílio de familiares, visto que muitos destes foram beneficiados com a domiciliar em sede de audiência de custódia.
+ ..
+Além do mais, é possível constatar que a Defesa entendeu por bem solicitar de início a prisão domiciliar da investigada Tamilis, companheira do inculpado, ora requerente, sob o fundamento de possuir filhos menores de 12 anos, e só então, e após a colocação desta em domiciliar, a Defesa entendeu por informar e requerer ao Juízo a prisão domiciliar do Pedro com fundamento na imprescindibilidade deste para os cuidados de companheira e filhos menores, não logrando contudo, êxito na comprovação de tais alegações.
+ ..
+O Tribuna local denegou a ordem, nos seguintes termos (fl. 12):
+NÃO COMPROVAÇÃO DE QUE O PACIENTE É O ÚNICO RESPONSÁVEL PELOS CUIDADOS DO FILHO, SOMADA À FALTA DE PROVA DE QUE SUA COMPANHEIRA, COM QUEM A CRIANÇA SE ENCONTRA E PARA QUEM FOIANTERIORMENTE CONCEDIDA PRISÃO DOMICILIAR,J USTAMENTE EM RAZÃO DA EXISTÊNCIA DE PROLE MENOR, NÃO TENHA CONDIÇÕES DE PRESTAR A DEVIDA ASSISTÊNCIA AO INFANTE.
+Esta Corte Superior firmou o posicionamento de que, para a concessão de prisão domiciliar ao acusado, com fundamento no art. 318, III, do CPP, é necessária a imprescindibilidade do agente aos cuidados de criança menor de 6 anos ou de pessoa com deficiência, o que não foi comprovado ao Juiz natural da causa.
+Confira-se:
+ ..
+3. Consoante previsto no art. 318, III, do Código de Processo Penal, " p oderá o juiz substituir a prisão preventiva pela domiciliar quando o agente for  ..  imprescindível aos cuidados especiais de pessoa menor de 6 (seis) anos de idade ou com deficiência". Todavia, ao indeferir o pedido defensivo, o Juízo de primeira instância apontou que "é possível extrair da própria argumentação defensiva que o réu possui outros 9 (nove) irmãos e o curador de Ademir sequer seria Ailton, mas sim sua outra irmã, Maria Aparecida de Freitas Arruda. Deste modo, entendo não haver provas de que a presença de Ailton é imprescindível para os cuidados do irmão". Assim, para se infirmar a interpretação apresentada pelas instâncias ordinárias e possibilitar conclusão diversa da exarada no acórdão, é necessário imiscuir-se no exame do acervo fático-probatório, o que evidencia a impossibilidade de este Superior Tribunal apreciar o pedido formulado no writ.
+4. Recurso não provido.
+(RHC n. 130.552/MG, Rel. Ministro Rogerio Schietti, 6ª T., DJe 1º/3/2021.)
+ ..
+4. O art. 318 do CPP dispõe que "poderá o juiz substituir a prisão preventiva pela domiciliar quando o agente for  ..  imprescindível aos cuidados especiais de pessoa menor de 6 (seis) anos de idade ou com deficiência".
+5. In casu, o Tribunal de origem, fundamentadamente, concluiu pela prescindibilidade do paciente aos cuidados de seu filho de 2 (dois) anos, já que a criança reside com a mãe, esposa do paciente. Rever tal entendimento demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, providência incabível nesta via mandamental.
+6. Habeas corpus não conhecido.
+(HC n. 513.915/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 13/8/2019.)
+ ..
+6. Com advento da Lei n. 13.257/2016, permitiu-se ao Juiz a substituição da prisão cautelar pela domiciliar quando o agente for imprescindível aos cuidados especiais de pessoa menor de 6 (seis) anos de idade ou com deficiência e o homem que for o único responsável por seu filho de até 12 (doze) anos de idade incompletos, consoante dispõe o art. 318 da citada Lei federal. A previsão insculpida na lei reformadora do art. 318 do Código de Processo Penal, entretanto, não é de caráter puramente objetivo e automático, cabendo ao Magistrado avaliar a adequação da medida ao clausulado, além de se comprovar efetivamente a condição de único responsável ou de ser imprescindível aos cuidados da criança.
+ ..
+9. Recurso ordinário em habeas corpus desprovido.
+(RHC n. 94.263/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 2/4/2018.)
+Ainda, em juízo de proporcionalidade e ponderação dos interesses em conflito, verifica-se óbice legal ao benefício pretendido, pois, independentemente de prole, a prisão preventiva não pode ser substituída por prisão domiciliar em situação de crime cometido com violência ou grave ameaça a pessoa. Essa é a exegese do art. 318-A, I, do CPP.
+Assim, o acórdão ora impugnado está em consonância com a jurisprudência desta Corte de Justiça e, para infirmar as premissas fáticas estabelecidas pelo Juiz seria necessária dilação probatória, providência incompatível com a via do habeas corpus.
+À vista do exposto, denego a ordem, in limine.
+Publique-se e intimem-se.
+EMENTA
