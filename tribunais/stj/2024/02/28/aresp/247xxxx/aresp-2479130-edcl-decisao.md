@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por BRADESCO SAUDE S/A., BRADESCO SAUDE S/A contra decisão de fls. 675/676, que não conheceu do recurso.
+Em suas razões, sustenta a parte embargante que:
+Ora, Excelência, data vênia, restará demonstrado no bojo do presente recurso a existência de contradição no decisum, uma vez que base da alegação do Ministro consiste em afirmar que a Cia. Agravante, ora embargante, não teria impugnados todas os pontos da decisão.
+Realizando uma leitura aos fundamentos do Recurso interposto, verifica-se que esta agravante, ora embargante, impugnou especificamente os termos da decisão, principalmente no que tange a observância dos erros apontados.
+Logo, ao contrário do que indica a resgatada decisão, O AResp traz todos os dispositivos necessário para análise e reconhecimento do recurso, inclusive os motivos que prejudicam a súmula 284/STJ, bem como a sua não aplicabilidade ao caso concreto, não cabendo assim, negar o Agravo em recurso especial sob alegação de descumprimento do art. 932, inciso III do CPC/2015, bem como o que diz respeito a súmula 182/STJ. Restando claro a contradição no decisum.
+Ademais, alegou ainda o Relatora que há incidência da Súmula nº 284 do Egrégio Supremo Tribunal Federal, que versa TAXATIVAMENTE a respeito dos recursos extraordinários. Ora, os RE"s são dirigidos, via de regra, a análise de eventual desrespeito à Constituição Federal, enquanto os REsp"s dirigem-se a dirimir questões de acintes às Leis Federais, portanto, porque razão se aplica por analogia as Súmulas do STF aos recursos de julgamento exclusivo do STJ, ainda que sejam taxativas
+ ..
+Douto Ministro, a questão posta em análise não envolve interpretação de cláusula contratual e tampouco o reexame de prova, o Recurso Especial interposto versa sobre o descumprimento de preceitos de leis federais - já especificamente impugnados da decisão que determinou a aplicação de reajustes ANS para planos coletivos.
+Portanto, é totalmente incabível a aplicação da Súmula 284 do STF no caso em tela, devendo ser afastada a incidência de tal verbete sumular de imediato (fls. 680/681).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Ao contrário do alegado, restou consignado expressamente na decisão embargada que incide o óbice da Súmula n. 284/STF, uma vez que a parte embargante, em sua petição recursal, indicou genericamente violação de lei federal sem particularizar quais dispositivos teriam sido contrariados ou objeto de divergência jurisprudencial, motivo pelo qual o recurso não foi conhecido.
+Ademais, c umpre esclarecer que a Súmula n. 284 do STF, é aplicável também aos recursos especiais, por analogia. Dessa forma, a deficiência na fundamentação nas razões do recurso especial impede o seu conhecimento.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. INOVAÇÃO RECURSAL. DESCABIMENTO. OMISSÃO. NÃO OCORRÊNCIA. DEFICIÊNCIA DA FUNDAMENTAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO A ARGUMENTO ESPECÍFICO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS NºS 283 E 284, AMBAS DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+4. Não houve a demonstração, clara e precisa, da necessidade de reforma do acórdão recorrido, o que impede compreender a exata medida da controvérsia, ensejando a aplicação da Súmula nº 284 do STF, por analogia.
+5. Esta Corte possui o pacífico entendimento de que descabe falar em decisão surpresa quando o julgador, analisando os fatos, o pedido e a causa de pedir, bem ainda os documentos que instruem a demanda, aplica o posicionamento jurídico que considera adequado para a solução da lide (AgInt nos EDcl no AREsp 1.186.144/RS, Rel. Ministro MARCO BUZZI, Quarta Turma, julgado em 7/6/2021, DJe 11/6/2021).
+6. Existindo argumento capaz de manter o acórdão impugnado por suas próprias pernas, não havendo o ataque específico a tal ponto, colhe-se a incidência, por analogia, da Súmula nº 283 do STF.
+7. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+8. Agravo interno não provido. (AgInt no AREsp n. 1.858.738/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 14/3/2022, DJe de 18/3/2022.)
+Conforme consignado expressamente na decisão embargada incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados.
+Em outras palavras, para que haja a admissão do recurso especial pela alínea "a" do permissivo constitucional - necessariamente - deve haver a indicação precisa dos dispositivos de lei federal violados e, pela alínea "c" do permissivo constitucional, deve haver a indicação precisa de quais dispositivos legais seriam objeto de dissídio interpretativo, não bastando, para ambos casos, a mera transcrição dos artigos legais.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
+ EMENTA
