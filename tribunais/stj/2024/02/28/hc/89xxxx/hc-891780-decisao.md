@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 98):
+Habeas Corpus - Execução Penal - Insurgência contra decisão que indeferiu o pedido de progressão ao regime semiaberto, com fundamento na ausência do requisito subjetivo - Inadmissibilidade - Hipótese em que a análise do requisito subjetivo "demanda o reexame do conjunto fático-probatório dos autos, o que é vedado na via do habeas corpus", consoante pronunciamento do Pretório Excelso - Descabimento do remédio constitucional, ademais, como substitutivo do recurso ordinário - Os incidentes de execução penal desafiam recurso específico à sua impugnação, o de Agravo em Execução (art. 197, LEP), não se prestando o remédio heroico, por evidente inadequação processual, como sucedâneo dessa via recursal, pelo que exsurge imperioso o seu não conhecimento. Precedentes.
+Habeas corpus não conhecido.
+Consta dos autos que o juízo da execução indeferiu o pedido do paciente de progressão ao regime semiaberto, por ausência de requisito subjetivo, determinando a realização de novo exame criminológico. Contra tal decisão, a defesa impetrou habeas corpus perante a Corte de origem, que não foi conhecido.
+No presente writ, requer a defesa, liminarmente e no mérito, a concessão da ordem, a fim de declarar a ilegalidade da decisão que determinou a realização de exame criminológico e que indeferiu a progressão de regime ao paciente, sem fundamentos idôneos ou, subsidiariamente, inste a autoridade coatora a julgar o mérito do habeas corpus originário por ela não conhecido.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Em análise aos autos, verifica-se que o Tribunal de origem, ao analisar o pleito da defesa, não conheceu da ordem sob os seguintes fundamentos (fls. 99-10):
+2. O presente mandamus não é de ser conhecido.
+Verifica-se que o paciente insurge-se, essencialmente, contra r. decisão que indeferiu seu pedido de progressão ao regime semiaberto, alegando ausência de fundamentação e que o exame criminológico realizado lhe é favorável.
+Cumpre registrar, de início, que o Pretório Excelso já se pronunciou no sentido de que "a análise quanto ao preenchimento, ou não, do requisito subjetivo previsto no artigo 112 da Lei de Execução Penal demanda o reexame do conjunto fático-probatório dos autos, o que é vedado na via do habeas corpus".
+Ademais, é de sabença geral que a ação constitucional de habeas corpus, cujo procedimento caracteriza-se pela celeridade e pela sumariedade, não constitui o instrumento jurídico-processual adequado à análise de pedido de progressão de regime ou de qualquer outro incidente no âmbito da execução penal nem tampouco se presta para substituir o recurso cabível em face de tal situação, consoante tem proclamado iterativamente a jurisprudência.
+Sim, porque é sabido e consabido que o agravo em execução é o instrumento processual adequado e eficiente para impugnar julgado desfavorável ao condenado, proferido em incidente de execução de pena (art. 197, LEP), de sorte que, podendo se utilizar voluntariamente desse meio, não está habilitado a valer-se da via estreita do habeas corpus para a reparação de suposta coação contrária ao ordenamento jurídico.
+Dessa forma, observa-se que as teses deduzidas não foram apreciadas pelo Tribunal por inadequação da via eleita, razão pela qual não pode esta Corte Superior examiná-las diretamente, sob pena de indevida supressão de instância.
+Por outro lado, há constrangimento ilegal na não apreciação da matéria pelo Tribunal de origem, nos termos da orientação jurisprudencial desta Corte.
+Com efeito, "A existência de recurso específico não inviabiliza a impetração de ordem de habeas corpus para a aferição de eventual ilegalidade na fase de execução da pena, quando a análise recai sobre questão pacificada e meramente de direito (..). A recusa em analisar o tema, pelo Tribunal de origem, constitui ilegalidade flagrante" (AgRg no HC 465.318/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 26/3/2019, DJe 10/4/2019).
+Ante o exposto, concedo liminarmente o habeas corpus para determinar ao Tribunal de origem que aprecie o mérito do writ originário, como entender de direito.
+Comunique-se.
+Publique-se.
+Intimem-se.
+EMENTA
