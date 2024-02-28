@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fls. 12-13):
+HABEAS CORPUS - FURTO PRATICADO DURANTE O REPOUSO NOTURNO - ART. 155, § 1º, DO CP - PRISÃO EM FLAGRANTE EM 06/08/2023 - DECISÃO QUE CONVERTEU A SEGREGAÇÃO EM PREVENTIVA DEVIDAMENTE FUNDAMENTADA, ABARCANDO TODOS OS MOTIVOS DE FATO E DE DIREITO PARA APLICAÇÃO DA MEDIDA EXTREMA - EXAMINANDO OS AUTOS, VERIFICAM- SE PRESENTES TANTO O FUMUS COMMISSI DELICTI QUANTO O PERICULUM LIBERTATIS - MAGISTRADO EXAMINOU A PERTINÊNCIA E A NECESSIDADE DA PRISÃO PREVENTIVA, TENDO EM VISTA A SITUAÇÃO CONCRETA E AS CIRCUNSTÂNCIAS QUE ENVOLVEM OS FATOS - PACIENTE COM OUTRAS ANOTAÇÕES CRIMINAIS POR CRIMES CONTRA O PATRIMÔNINO - RISCO DE REITERAÇÃO DELITIVA - INSUFICIÊNCIA DAS MEDIDAS CAUTELARES PREVISTAS NO ARTIGO 319 DO CPP - ALEGAÇÃO DE QUE O PACIENTE É PRIMÁRIO, POR SI SÓ, NÃO OBSTA A MANUTENÇÃO DA PRISÃO - INCABÍVEL INCIDÊNCIA DO PRINCÍPIO DA HOMOGENEIDADE -- EVENTUAL RESULTADO FAVORÁVEL AO PACIENTE NÃO TEM O CONDÃO DE AFASTAR A CUSTÓDIA CAUTELAR, PRINCIPALMENTE SE PRESENTES OS REQUISITOS PARA A DECRETAÇÃO DA PRISÃO PREVE NTIVA - PREJUDICADA ALEGAÇÃO DE EXCESSO DE PRAZO NO OFERECIMENTO DA DENÚNCIA, TENDO EM VISTA QUE ELA JÁ FOI APRESENTADA E RECEBIDA -CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO - ORDEM DENEGADA.
+Consta dos autos que o paciente foi preso preventivamente pela prática do delito previsto no art. 155, § 1º, do Código Penal.
+Pugna a impetrante, em síntese, pelo trancamento da ação penal, dada a insignificância da conduta delitiva, que causou mínima lesão ao patrimônio da vítima.
+De outro norte, alega ser inidônea a fundamentação do decreto prisional, porquanto baseada na gravidade abstrata do delito, e que a segregação corporal é desproporcional ao apenamento projetado, sustentando, por fim, pela possibilidade de substituição da prisão preventiva por medidas cautelares diversas do cárcere previstas no art. 319 do CPP.
+Requer, liminarmente e no mérito, o trancamento da ação pela atipicidade material da conduta ou, subsidiariamente, a revogação da prisão preventiva ou sua substituição por medidas cautelares diversas do cárcere.
+Indeferida a liminar, prestadas as informações, manifestou-se o MPF pela prejudicialidade do writ.
+De início, quanto ao pleito de trancamento da ação penal por atipicidade da conduta, verifica-se que a questão não foi examinada pelo Tribunal de origem, razão pela qual não deve ser conhecida diretamente por esta Corte, sob pena de indevida supressão de instância.
+No mais, como bem observado pelo MPF, uma vez que sobreveio sentença condenatória, revogando a prisão preventiva do paciente, fica evidenciada a prejudicialidade do writ, ante a perda superveniente do interesse processual no tópico.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
