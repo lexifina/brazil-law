@@ -1,0 +1,35 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. ICMS. BASE DE CÁLCULO. EXCLUSÃO DOS VALORES RELATIVOS A PIS E COFINS. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. AGRAVO DESPROVIDO.
+
+    DECISÃO: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou:
+
+    “APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA. INCLUSÃO DO PIS E DA COFINS NA BASE DE CÁLCULO DO ICMS. AUSÊNCIA DE ILEGALIDADE NA CONDUTA DO FISCO ESTADUAL. O MANDADO DE SEGURANÇA É UMA AÇÃO DE RITO SUMÁRIO ESPECIAL, DESTINADO À PROTEÇÃO DE DIREITO LÍQUIDO E CERTO, O QUAL DEVE SER COMPROVADO ATRAVÉS DE PROVA PRÉ-CONSTITUÍDA. AS CONTRIBUIÇÕES RELATIVAS AO PIS E À COFINS CONFIGURAM MERO REPASSE ECONÔMICO, INTEGRANDO, PORTANTO, O VALOR DA OPERAÇÃO MERCANTIL. INEXISTÊNCIA DE ILEGALIDADE DE INCLUSÃO DESSES VALORES NA BASE DE CÁLCULO DO ICMS. PRECEDENTES DO STJ. APELAÇÃO DESPROVIDA.”
+
+    Os embargos de declaração opostos foram desprovidos.
+
+    Nas razões do apelo extremo, a parte recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação dos artigos 145, § 1º; 154, I; e 155, II e § 2º, da Constituição Federal.
+
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a ofensa à Constituição, caso existente, seria indireta.
+
+    É o relatório. DECIDO.
+
+    O agravo não merece prosperar.
+
+    Com efeito, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, quanto à validade da inclusão de valores relativos à Contribuição ao PIS e à COFINS na base de cálculo do ICMS, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente, providência incabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa. No mesmo sentido, confiram-se:
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. EXCLUSÃO DOS VALORES DESTACADOS NA NOTA FISCAL A TÍTULO DE PIS E COFINS DA BASE DE CÁLCULO DO ICMS. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO DESPROVIDO. 1. O recurso extraordinário é instrumento de impugnação de decisão judicial inadequado para a análise de matéria infraconstitucional, bem como para a valoração e exame minucioso do acervo fático-probatório engendrado nos autos (Súmula 279 do STF). 2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.” (ARE 1.354.207-AgR, Plenário, Rel. Min. Luiz Fux - Presidente, DJe de 10/2/2022)
+
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. 3. ICMS. Base de cálculo. 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Negado provimento ao agravo regimental, sem majoração da verba honorária, por se tratar de mandado de segurança.” (ARE 1.270.117-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 25/9/2020)
+
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 932, VIII, do Código de Processo Civil de 2015 c/c o artigo 21, § 1º, do Regimento Interno do STF.
+
+    Por se tratar de mandado de segurança, não há majoração de honorários advocatícios (Súmula 512 do STF).
+
+    Publique-se.
+
+    Brasília, 28 de fevereiro de 2024.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
