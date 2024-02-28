@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança, com pedido de efeito suspensivo, interposto em face de acórdão com a seguinte ementa (fl. 127):
+Mandado de segurança. Não conhecimento por decisão monocrática. Inconformismo da impetrante. Agravo interno. Mandado de segurança que não serve como sucedâneo recursal. Agravante que pretende a reanálise de questão já exaustivamente discutida, inclusive, por este e. Tribunal de Justiça. Interpostas anteriormente ações de manutenção de posse, embargos de terceiro e agravo de instrumento visando discutir as mesmas questões expostas. Parte que pretende impedir a reintegração de posse por meio do mandado de segurança. Impossibilidade. Condição de mera detentora do imóvel reconhecida nos autos da ação de manutenção de posse. Possível a reintegração de posse, inclusive em relação aos ocupantes do imóvel, questão apreciada por esta Corte quando do julgamento de anteriores agravos de instrumento. Inexistência de ilegalidade na decisão monocrática de Segundo grau. Impossibilidade de se acolher a pretensão da parte inconformada. Decisão monocrática mantida. Recurso desprovido.
+Em suas razões, sustenta a recorrente que foi indevidamente incluída em mandada de reintegração de posse, em que pese não tenha sido citada na ação possessória em questão. Desse modo, defende que foi tolhida em seu direito de defesa, destacando que exerce posse mansa e pacífica do imóvel há mais de 22 (vinte e dois) anos, o que está sendo discutido na já ajuizada ação de usucapião extraordinária.
+Narra que ajuizou os meios cabíveis para discutir os direitos possessórios existentes sobre o imóvel litigioso, sendo o presente recurso a única medida viável para garantir seu ingresso na ação de reintegração de posse e, consequentemente, exercer sua defesa.
+Afirma que a ação de reintegração de posse está eivada de nulidades.
+Contrarrazões apresentadas.
+Às fls. 228-230, o Ministério Público Federal opinou pelo não provimento do recurso ordinário.
+Assim delimitada a controvérsia, passo a decidir.
+De início, consta dos autos que o ato coator diz respeito à decisão que deferiu o pedido de complementação de mandado de reintegração de posse, o que acarretou a inclusão da ora recorrente na medida.
+Em face desse ato, a aqui recorrente impetrou mandado de segurança, ocasião em que também defendeu a ilegalidade de sua inclusão no mandado, sem que integrasse formalmente o processo de reintegração, enquanto parte.
+O Desembargador relator não conheceu do mandado de segurança, decisão mantida pelo Tribunal de origem, pelos seguintes fundamentos:
+Como já mencionado na decisão ora impugnada:
+ ..
+Pois bem, a impetrante sustenta que é legítima possuidora do imóvel que vem sendo alvo de pedido de reintegração de posse pelo Grupo OK Construções e Incorporações S.A. contra Claudio Barros de Araújo. Aduz que não é parte do processo de reintegração e, embora pendente ação de usucapião extraordinária por ela movida foi incluída indevidamente, junto com outros ocupantes do imóvel, na ordem de reintegração a ser cumprida após o dia 31 de março de 2022. Alega que por não ter sido citada na ação de reintegração de posse teve seu direito ao contraditório e ampla defesa cerceado.
+Ocorre que buscando discutir as mesmas questões, a impetrante vem intentando diversas ações e recursos, o que não se pode admitir.
+Visando a proteção do direito que entende deter e sustentando ser legítima possuidora do bem sobre o qual recai a determinação de reintegração de posse, a impetrante ajuizou ação de manutenção de posse  Processo nº 1002445-98.2020.8.26.0704 ; embargos de terceiro  Processo nº1008220-94.2020.8.26.0704  e, contra a decisão que indeferiu a liminar para manutenção da posse nos autos dos embargos de terceiro, interpôs agravo de instrumento distribuído a esta mesma Relatoria sob o nº2029966-42.2021.8.26.0000.
+A ação de manutenção de posse  feito nº 1002445- 98.2020.8.26.0704  foi processada e julgada improcedente, restando também desprovido o recurso de apelação interposto pela autora, ficando reconhecida a condição da parte, como mera detentora do imóvel.
+ ..
+Já os embargos de terceiro  feito nº nº1008220- 94.2020.8.26.0704  foram ajuizados sob os mesmos argumentos ora expostos, diante do deferimento liminar da tutela de urgência pleiteada nos autos da ação de reintegração de posse nº 1008976-75.2020.8.26.0002.
+ ..
+Assim, observa-se que a impetrante utiliza-se de via canhestra para obter o resultado pretendido, eis que objetiva impugnar questão já exaustivamente examinada em momento anterior.
+Bem por isso, afigura-se inadmissível o presente "writ", não podendo, pois, ser conhecido, devendo a impetrante aguardar o resultado da via processual correta já utilizada para o estu do de seu inconformismo."
+Em suma, constatou o Tribunal de origem que o mandado de segurança está sendo empregado como sucedâneo de recurso, pois a recorrente já havia se valido da oposição de embargos de terceiro e do ajuizamento da ação de manutenção de posse, ambos julgados improcedentes.
+Assim, se a recorrente já teve oportunidade de se defender da ação de reintegração, pelos meios processuais cabíveis, a impetração posterior de mandado de segurança desrespeita o entendimento consolidado na Súmula 267 do STF ("Não cabe mandado de segurança contra ato judicial passível de recurso ou correição").
+Outrossim, o STJ vem aceitando o manejo do mandado de segurança nos casos de manifesta ilegalidade ou teratologia, o que não visualizo na hipótese dos autos, eis que a recorrente já teve seus direitos enquanto suposta posseira afastados nas ações autônomas por ela ajuizadas, nas quais se constatou a existência de mera detenção, conforme exposto nos trechos supratranscritos.
+Em face do exposto, nego provimento ao recurso ordinário.
+Intimem-se.
+EMENTA
