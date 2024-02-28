@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo apresentado por JOSE ERNESTO ARUTIM contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Incidente de liquidação de sentença - Ação de dissolução parcial de sociedade empresária - Homologação de laudo pericial que não reconheceu crédito a nenhuma das partes com consequente extinção da fase de liquidação - Laudo pericial que, realizado sob o crivo do contraditório, não apurou haveres ao requerente - Criticas do requerente ao laudo que encerram mero inconformismo e não autorizam a nulidade do julgado para realização de nova perícia (CPC, art. 480) - Sentença homologatória e de extinção confirmada - Recurso desprovido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 1.022 do CPC, no que concerne à negativa de prestação jurisdicional, trazendo a seguinte argumentação:
+15.  Sendo assim, Doutos Julgadores, não há que se falar que houve a valoração correta das provas apresentadas nos autos, assim como não houve prestação jurisdicional, e tudo isso foi questionado nos Embargos de Declarações, que não foram aceitos pelo Tribunal de Justiça de São Paulo, devendo agora este Superior Tribunal de Justiça, determinar o quanto lhe caiba, para a solução das omissões, contradições e obscuridades apresentadas.
+ ..
+19.  Douto Desembargador, o Acórdão sobre os Embargos de Declaração, não aplicaram corretamente o Art. 1022 do Código de Processo Civil, deixando de responder aos questionamentos feitos, para sanar as obscuridades, e contradições apontadas.
+ ..
+21.  No caso em tela, verifica-se que dentre o direito do Recorrente e o que foi fundamentado no Acórdão do Tribunal de Justiça de São Paulo, há lacunas, e estas não podem persistir, sob pena de se ferir os princípios basilares do Estado Democrático de Direito, mormente com relação a ampla defesa e ao contraditório, devendo os erros cometidos serem sanados, como garantia da correta aplicação da lei por qualquer tribunal nacional, ainda mais quando a Lei Federal violada é cristalina com relação ao que deve ser feito (fls. 2942/2944).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente aponta violação do art. 1.022 do Código de Processo Civil de 2015 , sem especificar, todavia, quais incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material.
+Nesse sentido: "É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem especificar quais foram os incisos violados. Aplica-se, na hipótese, o óbice da Súmula 284 do STF". (AgInt no AREsp n. 1.530.183/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 19/12/2019.)
+Confira-se também o seguinte julgado: AgInt no AREsp n. 1.559.920/SE, relator Ministro Francisco Falcão, Segunda Turma, DJe de 22/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
