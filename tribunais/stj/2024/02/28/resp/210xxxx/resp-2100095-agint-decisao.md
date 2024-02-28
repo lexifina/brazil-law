@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo interno interposto pela FAZENDA NACIONAL contra decisão que, com apoio em entendimento jurisprudencial da Primeira Turma, deu provimento ao recurso especial para reconhecer que o recolhimento do ICMS, pelo substituto tributário, autoriza a apuração de créditos da contribuição ao PIS e da COFINS, no regime não-cumulativo.
+Impugnação apresentada pela parte agravada.
+É o relatório. Decido.
+A Primeira Seção deste Tribunal Superior decidiu afetar o EREsp 1.879.952/RS, o EREsp 1.959.571/RS, o REsp 2.072.621/SC e o REsp 2.075.758/ES à sistemática dos recursos repetitivos com o fim de definir tese a respeito da "possibilidade de creditamento, no âmbito do regime não-cumulativo das contribuições ao PIS e COFINS, dos valores que o contribuinte, na condição de substituído tributário, paga ao contribuinte substituto a título de reembolso pelo recolhimento do ICMS-substituição (ICMS-ST)" (tema 1231).
+Nesse contexto, a decisão agravada deve ser reconsiderada e os autos devem retornar ao Tribunal Regional Federal para que o recurso fique sobrestado até o exercício do juízo de conformação pelo órgão julgador a quo com a tese a ser definida pela Primeira Seção nos precedentes qualificados.
+Ante o exposto, reconsidero a decisão agravada; e determino a devolução dos autos ao Tribunal Regional Federal da 4ª Região, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia, o recurso especial: a) tenha seguimento negado, na hipótese de o acórdão recorrido coincidir com a tese definida pela Primeira Seção; ou b) seja, novamente, examinado, caso dela divirja (arts. 1039, 1040, incs. I e II, e 1041 do CPC/2015). Ficam prejudicados o agravo interno e o recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRIBUIÇÃO AO PIS E COFINS. REGIME NÃO CUMULATIVO. APURAÇÃO DE CRÉDITOS QUANTO AO ICMS-ST. TEMA A SER DEFINIDO PELA PRIMEIRA SEÇÃO NA SISTEMÁTICA DOS RECURSOS REPETITIVOS. SOBRESTAMENTO. DEVOLUÇÃO. RECURSO ESPECIAL E AGRAVO INTERNO PREJUDICADOS.
