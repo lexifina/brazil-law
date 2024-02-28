@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se  de  recurso  ordinário  em  habeas  corpus,  com  pedido  liminar,  interposto  por  RODRIGO CARDOSO DE SOUZA contra  acórdão  do  TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS  proferido  no  julgamento  do  HC  n.  5796545-77.2023.8.09.0000.
+Consta que o Recorrente foi preso em flagrante, em 20/11/2023, com posterior conversão da custódia em preventiva (fls. 127-134), em razão da suposta prática dos ilícitos tipificados nos arts. 16, caput, e 16, § 1.º, inciso IV, ambos da Lei n. 10.826/2003, pelos qual foi denunciado (fls. 255-259), pois, em tese, foi abordado por policiais militares que realizavam patrulhamento na região, quando conduzia seu automóvel "em alta velocidade pela GO-060, nesta Capital, ultrapassando veículos pela faixa da direita e trafegando em faixa exclusiva para ônibus". RODRIGO transportava "05 (cinco) caixas contendo 50 (cinquenta) unidades cada de munições 7.62 CBC" e em sua residência foram encontrados "01 (uma) arma de fogo, tipo pistola, marca Taurus, modelo G2C, calibre 9 mm, com numeração de série suprimida e 01 (um) carregador com 12 (doze) munições de mesmo calibre; 05 (cinco) caixas de munição 9mm com 50 (cinquenta) unidades cada; 08 (oito) caixas de munição calibre .40 com 50 (cinquenta) unidades cada; e 01 (uma) arma de fogo, estilo fuzil, marca Taurus, modelo T4, calibre 5.56, número de série ADH580187, com 05 (cinco) carregadores vazios, o que ensejou a prisão em flagrante do denunciado" (fls. 256-257).
+A Defesa, pugnando pela revogação da custódia preventiva, impetrou habeas corpus na Corte de origem, que foi denegado às fls. 135-147.
+Contra esse acórdão,  o Recorrente, em suas razões, sustenta,  em  síntese,  que: (i) o decreto prisional é fundamentado de forma genérica; (ii) não estão presentes na hipótese os requisitos legais autorizadores da decretação da prisão preventiva; (iii) possui as condições pessoais favoráveis; e (iv) a imposição de medidas cautelares alternativas é suficiente à preservação da ordem pública.
+Requer,  em  medida  liminar  e  no  mérito,  a revogação da prisão preventiva e, subsidiariamente, a sua substituição por cautelares alternativas.
+É  o  relatório.
+Decido.
+De início, participo que, em consulta ao site do Tribunal de Justiça do Estado de Goiás, pude constatar que, em 09/02/2024, nos autos da Ação Penal em comento (Ação Penal n. 5773346-67.2023.8.09.0051), o Juízo de primeira instancia revogou a prisão preventiva do Recorrente.
+Dessarte, tenho que o recurso perdeu o objeto.
+Ante o exposto, JULGO PREJUDICADO o recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO  ORDINÁRIO  EM  HABEAS  CORPUS.  DIREITO PROCESSUAL  PENAL. PORTE ILEGAL DE MUNIÇÃO DE ARMA DE FOGO DE USO RESTRITO. POSSE DE ARMA DE FOGO COM NUMERAÇÃO RASPADA. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE DECISÃO REVOGADORA DA CUSTÓDIA. PERDA DE OBJETO. RECURSO PREJUDICADO.
