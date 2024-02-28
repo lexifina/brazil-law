@@ -1,0 +1,10 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de William Fernando Dias Gonçalves - condenado por tráfico de drogas (1,8 kg de maconha - fl. 9) a 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, e a 680 dias-multa, atacando-se o acórdão de apelação criminal proferido pelo Tribunal de Justiça de São Paulo (fls. 22/31) -, não comporta processamento.
+Com efeito, busca a impetração o redimensionamento da pena imposta ao paciente, com o afastamento da exasperação da pena-base, por negativação do vetor antecedentes (fls. 9/21 - Ação Penal n. 1512471-03.2022.8.26.0228, da 2ª Vara Criminal da comarca de Limeira/SP), ao argumento de ser verdadeiramente inadmissível que fatos tão remotos de 2009 revisitem o Paciente em pleno ano de 2020 para valorar negativamente os maus antecedentes, quando nem mesmo para fins de reincidência se prestariam (fl. 5).
+Do atento exame dos autos observo que a via eleita foi indevidamente utilizada para revisar condenação transitada em julgado em 9/11/2023 (conforme consulta ao endereço eletrônico do Tribunal estadual), o que afastaria a competência desta Corte Superior para análise do pleito (AgRg no HC n. 775.050/SC, Ministra Laurita Vaz, Sexta Turma, DJe 2/12/2022).
+Ademais, não demonstrado constrangimento ilegal apto a superar o citado óbice, pois a pena-base foi exasperada em 1/6, em razão da negativação do vetor antecedentes - por possuir maus antecedentes (cf. F.A de fls. 167/180), devendo a pena-base partir 1/6 acima do mínimo legal (fl. 16) -, uma vez que esta Corte Superior admite a utilização de condenações cujo cumprimento ou extinção da pena se der em lapso superior a 5 anos, para configurar maus antecedentes .
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. TRÁFICO DE DROGAS (1,8 KG DE MACONHA). DOSIMETRIA. PRIMEIRA FASE. ANTECEDENTES. CONDENAÇÕES ATINGIDAS PELO PERÍODO DEPURADOR. TÉRMINO DA EXECUÇÃO CONSIDERADA EM PERÍODO SUPERIOR A 5 ANOS. AFASTAMENTO. POSSIBILIDADE DE CARACTERIZAÇÃO DE MAUS ANTECEDENTES. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
