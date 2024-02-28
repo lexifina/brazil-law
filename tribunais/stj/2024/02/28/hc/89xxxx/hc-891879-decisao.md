@@ -1,0 +1,9 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Bruno Lopes de Carvalho, condenado por tráfico de drogas (9,3 g de cocaína - fl. 13) a 5 anos e 10 meses de reclusão, em regime inicial fechado, e 583 dias-multa -, atacando-se o acórdão proferido pelo Tribunal de Justiça de Minas Gerais (fls. 12/30 - Revisão Criminal n. 1.0000.23.127082-8/000) que manteve a sentença condenatória prolatada na Ação Penal n. 0116.18.001982-4 (fls. 47/53), da Vara Única da comarca de Campos Gerais/MG, retificada a dosimetria no acórdão da Apelação n. 1.0116.18.001982-4/001 -, não comporta conhecimento.
+Com efeito, busca a impetração a desclassificação da conduta delitiva para o delito de posse de entorpecentes para u so pessoal (art. 28 da Lei n. 11.343/2006), ao argumento de que a quantidade apreendida está bem aquém (Apenas 9 microcubos de cocaína peso de 2,3 gramas) do patamar mais rigoroso sugerido pelo citado think tank, pelo que é legítimo entender que, à luz da proporcionalidade, inclusive, não há suporte para a condenação do réu pelo delito de tráfico de drogas (fl. 8).
+Do atento exame dos autos, tem-se que não foi demonstrado constrangimento ilegal alegado, especialmente porque a pretensão recursal já foi objeto de mandamus anteriormente impetrado (HC n. 826.090/MG), o que obsta o processamento do writ, por reiteração de pedidos já apreciados por esta Corte. Nesse sentido: AgRg no HC n. 850.862/SP, Ministra Laurita Vaz, Sexta Turma, julgado em 16/10/2023, DJe 19/10/2023.
+Em razão disso, não conheço do presente writ.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS (9,3 G DE COCAÍNA). PRETENSÃO DE DESCLASSIFICAÇÃO PARA O DELITO DE POSSE DE ENTORPECENTES PARA USO PESSOAL (ART. 28 DA LEI N. 11.343/2006). ANTERIOR IMPETRAÇÃO DO HC N. 826.090/MG. REITERAÇÃO DE PEDIDOS.
+Writ não conhecido.
