@@ -1,0 +1,17 @@
+DECISÃO
+BRUNO DA CONCEIÇÃO DE JESUS alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná no Agravo em Execução Penal n. 4000528-97.2023.8.16.0014.
+A defesa pretende a concessão de indulto ao paciente, pois reputa preenchidos os requisitos exigidos pelo Decreto Presidencial n. 11.302/2022. Assinala que somente incide a previsão impeditiva do decreto quando reconhecido, na mesma sentença, o concurso de crimes. Quando as penas unificadas decorrerem de condenações em processos distintos, é cabível o perdão.
+Decido.
+Busca-se o reconhecimento do indulto previsto no Decreto Presidencial n. 11.302/2022, em relação à pena do crime de furto simples, a despeito da existência de condenações por roubo simples e roubo majorado.
+O Magistrado da execução indeferiu a benesse pleiteada, porquanto "o sentenciado fora condenado 0003367- nos autos sob n. 0006944-61.2020.8.16.0045 a pena de 06 anos e 06 meses, e nos autos sob n. 12.2019.8.16.0045 a pena de 08 anos, ambas em razão do delito previsto no art. 157 do CP" (fl. 37).
+A Corte de origem manteve o entendimento, nos seguintes termos:
+In casu, o Agravante foi condenado por crimes impeditivos, quais sejam roubo majorado e roubo simples, não tendo cumprido integralmente a pena relativa a estes delitos, consoante se verifica dos autos de origem, vez que, somadas, as penas totalizam 14 (quatorze) anos e 6 (seis) meses de reclusão, havendo, até o momento, o cumprimento de pouco mais de 3 (três) anos.
+Assim, conquanto o delito de furto simples não se enquadre nos impedimentos, é incabível, nos termos do art. 11 supracitado, a concessão do indulto a este crime neste momento, o que somente será viável após o integral cumprimento da pena decorrente dos crimes impeditivos (fl. 39, grifei).
+De fato, nos termos do parágrafo único do artigo 11 do Decreto n. 11.302.2022, " n ão será concedido indulto natalino correspondente a crime não impeditivo enquanto a pessoa condenada não cumprir a pena pelo crime impeditivo do benefício, na hipótese de haver concurso com os crimes a que se refere o art. 7º, ressalvada a concessão fundamentada no inciso III do caput do art. 1º" (destaquei).
+Consoante entendimento anteriormente encampado pelo Superior Tribunal de Justiça, a leitura de tal excerto conjugada com a do art. 7º, II, do referido decreto, exigiria o integral cumprimento das penas dos crimes de roubo para que se permita o indulto das reprimendas relativas aos crimes não impeditivos.
+Todavia, em recente precedente, referente a julgamento ocorrido em 8 de novembro de 2023, a Terceira Seção desta Corte Superior assentou a seguinte compreensão:
+Para fins do referido decreto, apenas no caso de crime impeditivo cometido em concurso com crime não impeditivo que se exige o cumprimento integral da reprimenda dos delitos da primeira espécie. Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não há de se exigir o cumprimento integral da pena pelos crimes impeditivos.
+(AgRg no HC n. 856.053/SC, Rel. Ministro Sebastião Reis Júnior, 3ª S., DJe de 14/11/2023, grifei)
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem, a fim de cassar o acordão vergastado e determinar que o Tribunal de Justiça de origem, em novo julgamento, aprecie individualmente as condenações.
+Publique-se e intimem-se.
+EMENTA
