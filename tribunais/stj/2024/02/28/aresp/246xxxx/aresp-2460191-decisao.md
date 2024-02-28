@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por R. S. R. SERVIÇOS AUTOMOTIVOS LTDA contra decisão exarada pela il. Vice-Presidência do eg. Tribunal de Justiça do Estado do Amazonas (TJ-AM), que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado com arrimo na alínea "a" do permissivo constitucional contra v. acórdão assim ementado (fls. 310):
+"EMENTA: APELAÇÃO CÍVEL. DIREITO CIVIL. AÇÃO ORDINÁRIA DE REGRESSO. INOVAÇÃO RECURSAL. AUSENTE. CONTRATO DE CONCESSÃO DE USO DE MARCA. TERMO DE RESCISÃO AMIGÁVEL EM DATA ANTERIOR À AÇÃO PRINCIPAL. CLÁUSULAS VÁLIDAS. SENTENÇA MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+1. Inexiste inovação recursal quando a matéria foi tratada no juízo de origem;
+2. O termo de rescisão amigável referente ao contrato de concessão de uso de marca é plenamente válido porquanto livremente pactuado. Além disso, foi realizado em data anterior à propositura da ação principal. Inexiste, portanto, o direito de regresso reclamado;
+3. Sentença mantida;
+4. Recurso conhecido e desprovido."
+Os embargos de declaração opostos foram rejeitados (vide acórdão às fls. 327-331).
+Nas razões do apelo nobre (fls. 333-341), R. S. R. SERVIÇOS AUTOMOTIVOS LTDA indica, preliminarmente, violação ao art. 1.022 do CPC/15, ao argumento, entre outros, de que o eg. TJ-AM não sanou os vícios suscitados nos embargos de declaração.
+Ultrapassada a preliminar, aponta ofensa aos arts. 114, 112, 113, 389, 421, 422, 423 e 424 do Código Civil, afirmando, em síntese, que no "(..) contexto da demanda promovida pelo consumidor contra a Recorrente, que originou a ação de regresso, tratava-se de veículo importado com problemas no compressor do ar condicionado, peça que a fabricante, por meio da empresa autorizada à importação e aquisição para distribuição às concessionárias, conforme contrato (KMB DISTRIBUIDORA LTDA), não possuía em estoque, motivo pelo qual a Recorrente não o possuía em estoque" (fls. 338).
+Alega, ainda, que "(..) embora o termo de rescisão traga no cabeçalho a informação de que se tratava de "termo de rescisão amigável", notadamente se trata de distrato de um contrato de adesão elaborado unilateralmente pela Recorrida, afastando a oportunidade do aderente, ora Recorrente, discutir ou negociar as cláusulas do contrato, podendo apenas aceitá-lo ou rejeitá-lo no todo, configurando aquilo que se convencionou chamar de contrato de adesão, à luz dos arts. 423 e 424, do Código Civil, igualmente violados" (fls. 338).
+Afirma que "(..) fica evidente a frontal violação ao art. 114 do Código Civil, quando acordão mantém a decisão que laborou em validar cláusula de renúncia interpretada de maneira genérica, sem considerar que tal cláusula só poderia ser pensada a partir de responsabilidade do Recorrente sobre fato próprio e não de vício de produto e na prestação de fornecimento de peças pela Recorrida para a manutenção de estoque mínimo de peças para o pós-venda" (fls. 339).
+Assevera, ainda, que "(..) diante da evidente responsabilidade civil contratual e extracontratual da Recorrida, o distrato deve ser interpretado de maneira mais favorável ao aderente e de maneira restritiva, diante da renúncia, sob pena de violação ao princípio da função social do contrato, da boa-fé objetiva, e do equilíbrio que devem nortear a formação do negócio jurídico" (fls. 340).
+Intimada, KIA MOTORS DO BRASIL LTDA apresentou contrarrazões (fls. 350-360), pelo desprovimento do recurso.
+Como dito, o apelo nobre foi inadmitido (decisão às fls. 373-374), motivando o agravo em recurso especial (fls. 377-385) em testilha.
+Também foi oferecida contraminuta (fls. 388-390), pelo desprovimento do agravo.
+É o relatório. Passo a decidir.
+Inicialmente, rejeita-se a alegada violação ao art. 1.022 do CPC/15, uma vez que o eg. Tribunal de Justiça do Estado do Amazonas (TJ-AM) analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Impende salientar que a remansosa jurisprudência desta eg. Corte é no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante. Nesse sentido, destacam-se os recentes julgados:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. OMISSÃO. OFENSA AOS ARTS. 489 E 1.022 DO CPC. NÃO VERIFICAÇÃO. (..). AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 489 e 1.022 do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+(..)
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 2.261.529/RJ, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 24/4/2023, DJe de 26/4/2023 - g. n.)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. SÓCIO EXECUTADO. PENHORA DOS LUCROS. MEDIDA EXCEPCIONAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. (..). RECURSO NÃO PROVIDO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação aos arts. 489 e 1.022 do Código de Processo Civil/2015.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.114.880/DF, relatora MINISTRA MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 17/4/2023, DJe de 24/4/2023 - g. n.)
+Melhor sorte não socorre ao recurso quanto à suscitada infringência aos arts. 114, 112, 113, 389, 421, 422, 423 e 424 do Código Civil.
+No caso, o eg. TJ-AM, com arrimo no acervo fático-probatório carreado aos autos, confirmando sentença, concluiu que "(..) embora a apelante  ora agravante  sustente se tratar de contrato de adesão com cláusulas inválidas por determinar a renúncia antecipada e destacar a onerosidade excessiva em relação ao apelado  ora agravado , deixou de prová-las, ônus que lhe competia, na exegese do art. 373, I do CPC". É o que se infere da leitura do seguinte excerto do v. acórdão estadual (fls. 447-450):
+"Segundo a narrativa dos autos, a autora ingressou, em 11 de abril de 2016, com ação de obrigação de fazer c/c indenização por danos morais e materiais em face da apelante (fls. 28/40), tendo as partes entabulado um acordo (fls. 130/131) em que a apelante pagaria ao consumidor a quantia de R$20.000,00 (vinte mil reais), o qual foi homologado por sentença (fl. 135).
+Considerando esses fatos, posteriormente, a apelante ingressou com direito de regresso em face da apelada, no sentido de que promovesse o ressarcimento da quantia de R$20.000,00 (vinte mil reais).
+Em sua defesa, a apelada, na contestação (fls. 144/156), destacou que foi celebrado, em 15 de abril de 2016, termo de rescisão amigável entre as partes (fls. 186/190), motivo pelo qual não caberia o direito de regresso.
+A apelante, em réplica (fls. 199/208), destacou que a cláusula de renúncia constante no termo de resilição do contrato não deve atingir o direito de regresso, além de ser nulo, pois se trataria de uma renúncia antecipada do aderente a direitos resultantes da natureza do negócio.
+Após a manifestação das partes, foi proferida sentença, às fls. 246/250, julgando improcedente o pedido deduzido na exordial.
+Irresignada, a apelante ingressou com o presente recurso sustentando a nulidade da cláusula de renúncia antecipada e o cabimento do direito de regresso.
+Observa-se que o termo de rescisão amigável foi celebrado entre as partes litigantes em 15 de abril de 2016 (fls. 186/190), enquanto a ação judicial que apontada como base ao direito de regresso foi ajuizada em 11 de abril de 2016 partes (fls. 28/40), ou seja, antes da rescisão amigável.
+A sentença da ação proposta pelo consumidor, reclamada pela apelante, consiste em homologação de acordo celebrado entre as partes (fls. 130/131), tendo ele sido entabulado nos seguintes termos:
+A devedora/requerida pagará ao credor/requerente a quantia de R$20.000,00 (vinte mil reais) conforme estabelecido em sentença, por meio de depósito bancário conta de titularidade de MOISÉS SEIXAS NUNES, (..), da seguinte forma: - entrada de R$10.000,00 (dez mil reais) no dia 06/03/2017 - 05 (cinco) parcelas iguais e sucessivas de R$2.000,00 (dois mil reais) vencível a cada 30 (trinta) dias a partir de 06/04/2017. (fl. 130)
+Em relação ao termo de rescisão amigável, na cláusula 1, consta que o interesse em não dar continuidade ao contrato de concessão de uso de marca foi da apelante:
+Considerando que a empresa RSR COMÉRCIO DE VEÍCULOS LTDA (CNPJ/MF sob o n.º 10.559.871/0001-01), manifestou não possuir mais interesse em dar continuidade aos contratos celebrados com as empresas KIA MOTORS DO BRASIL LTDA, KMB DISTRIBUIDORA LTDA e BRAZIL TRADING LTDA (matriz e filial), as partes acima qualificadas rescindem amigavelmente, nesta data, os instrumentos contratuais abaixo relacionados: a) "CONTRATO DE CONCESSÃO DE USO DE MARCA E OUTRAS AVENÇAS", firmado em 19/05/2009; "1.º ADITAMENTO AO CONTRATO DE CONCESSÃO DE USO DA MARCA E OUTRAS AVENÇAS", FIRMADO EM 18/05/2011; "2.º ADITAMENTO AO CONTRATO DE CONCESSÃO DE USO DE MARCA E OUTRAS AVENÇAS", firmado no dia 17/05/2013; e "3.º ADITAMENTO AO CONTRATO DE CONCESSÃO DE USO DE MARCA E OUTRAS AVENÇAS", firmado no dia 19/05/2015; b) "CONTRATO DE FORNECIMENTO DE PEÇAS E ACESSÓRIOS E OUTRAS AVENÇAS", firmado em 19/05/2009; c) "CONTRATO DE FORNECIMENTO DE VEÍCULOS", firmado em 19/05/2009". (fls. 186/187)
+Observa-se, portanto, que, contrariamente às informações da apelante, o apelado demonstrou a presença de fato impeditivo ao direito dela consistente em termo de rescisão amigável celebrado em data anterior ao ajuizamento da ação principal e derivado do interesse da apelante.
+Art. 373. O ônus da prova incumbe:
+I - ao autor, quanto ao fato constitutivo de seu direito;
+II - ao réu, quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor.
+Portanto, embora a apelante sustente se tratar de contrato de adesão com cláusulas inválidas por determinar a renúncia antecipada e destacar a onerosidade excessiva em relação ao apelado, deixou de prová-las, ônus que lhe competia, na exegese do art. 373, I do CPC.
+Logo, a sentença deve ser mantida em sua integralidade, não sendo devido o direito de regresso."
+(g. n.)
+Nesse contexto, a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria reinterpretação de cláusulas contratuais e revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos das Súmulas n. 5 e n. 7, ambas do eg. STJ.
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "a" e "b", do RI-STJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
