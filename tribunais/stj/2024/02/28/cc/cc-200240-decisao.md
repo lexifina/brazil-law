@@ -1,0 +1,13 @@
+DECISÃO
+O JUÍZO FEDERAL DA 2ª VARA DE GUARULHOS - SJ/SP suscita conflito de competência, em inquérito policial, diante do JUÍZO DE DIREITO DA 5ª VARA CRIMINAL DE GUARULHOS - SP.
+Cinge-se a controvérsia estabelecida neste incidente processual a saber a competência (federal ou estadual) para a adoção de eventuais medidas judiciais que se façam necessárias em investigação deflagrada pela suposta pratica do crime previsto no art. 20, § 2º, da Lei n. 7.716/1989, com a utilização da internet, por meio de publicação de mensagem na rede social "facebook".
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo Federal da 2ª Vara de Guarulhos - SJ/SP, ora suscitante (fls. 194-198).
+Decido.
+A prática de palavras ofensivas dirigidas aos nordestinos, que deve ser compreendida como uma das formas de racismo, por si só, não é suficiente para determinar a competência da Justiça Federal, a qual pressupõe também que o delito seja transnacional, ex vi do art. 109, V, da Constituição Federal.
+Na espécie, a publicação de mensagem na rede social aberta "facebook", caracterizada pelo amplo acesso aos usuários, permite inferir, ao menos até o momento das investigações, o potencial concreto de transnacionalidade, notadamente porque se trataria de perfil aberto.
+De fato, a transnacionalidade da conduta de crime cometido por meio da rede mundial de computadores não exige que o conteúdo seja efetivamente acessado no estrangeiro, sendo suficiente para configurar a transnacionalidade a mera potencialidade de o material disponibilizado na internet poder ser acessado no exterior, como na hipótese dos autos, já que o perfil era aberto.
+Em casos similares, mutatis mutandis, decidiu esta Corte: "Demonstrado que as falas de suposto cunho homofóbico foram divulgadas pela internet, em perfis abertos da rede social Facebook e da plataforma de compartilhamento de vídeos Youtube, ambos de abrangência internacional, está configurada a competência da Justiça Federal para o processamento e julgamento do feito" (CC 191970 / RS, Rel. Ministra Laurita Vaz, DJe 19/12/2022).
+Correto, portanto, o Parquet Federal, quando assinalou que ficou "demonstrado que as falas de suposto cunho xenófoba foram divulgadas pela internet, em perfil aberto da rede social Facebook, ambos de abrangência internacional, está configurada a competência a Justiça Federal para o processamento e julgamento do feito" (fl. 197).
+Ante o exposto, conheço do conflito para declarar competente o Juízo Federal da 2ª Vara de Guarulhos - SJ/SP, ora suscitante.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
