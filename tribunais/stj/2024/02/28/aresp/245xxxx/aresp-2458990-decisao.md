@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por COPASA VEÍCULOS LTDA-EPP contra acórdão proferido pelo do Tribunal de Justiça do Estado do Paraná assim ementado:
+APELAÇÃO CÍVEL. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. IPVA. RECURSO PLEITEANDO RECONHECIMENTO DA LEGITIMIDADE PASSIVA DO EMBARGANTE PARA PAGAMENTO DE IPVA INCIDENTE SOBRE VEÍCULOS REGISTRADOS EM SEU NOME PERANTE O DETRAN. FALTA DE COMUNICAÇÃO AO DETRAN, POR SI SÓ, NÃO RESPONSABILIZA O ALIENANTE PELO PAGAMENTO DO IPVA SE COMPROVADA A TRADIÇÃO DO BEM. DOCUMENTOS TRAZIDOS AOS AUTOS PELO EMBARGANTE QUE NÃO COMPROVAM A TRADIÇÃO DE ALGUNS DOS VEÍCULOS. LEGITIMIDADE PASSIVA DO VENDEDOR RECONHECIDA. SENTENÇA PARCIALMENTE REFORMADA. RECURSO PARCIALMENTE PROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+A parte recorrente alega, em síntese (fls. 736/762):
+O acórdão recorrido não observou notórea violação ao artigo 373, "INCISO II" e artigo 489, parágrafo 1º, INCISO "IV" DO Código De Processo Civil, uma vez que foi omisso ao fato de que a Empresa Embargante, ora Recorrente, ter juntado as Declarações de Responsabilidade e Recibos de Vendas assinadas pelos atuais proprietários, comprovantes de entregados documentos em mãos e por correio e preenchimento das CRV/CRLV dos veículos que os obrigam civil e criminalmente em promover a tradição de todos os veículos sinistrados  ..  Sendo assim, diante do ora exposto, Ilustres Ministros, restou devidamente demonstrado a contradição e omissão que geraram grave violação ao artigo 373, inciso "II" e artigo 489, parágrafo 1º, inciso "IV" do CPC/2015, matéria tratada em sede de Embargos de Declaração, requer-se a Vossa Excelência seja retificado o v. acórdão de mov. 16, à fim de que seja aplicado o artigo 373, inciso "II" e artigo 489, parágrafo 1º, inciso "IV" ambos do Código de Processo Civil, uma vez que restou cumprido o ônus de provar fato extintivo do direito do Embargado/Exequente, bem como seja reconhecida a tradição dos veículos sinistrados
+Com contrarrazões da parte recorrida, o recurso não foi admitido na origem porque seu conhecimento encontraria óbice na Súmula 7 do STJ e porque inexistente violação do art. 489 do CPC/2015, o que deu ensejo à interposição do Agravo em Recurso Especial, no qual a parte defende a necessidade de conhecimento de seu recurso.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Preenchidos os requisitos de admissibilidade, deve ser conhecido o Agravo em Recurso Especial.
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido:
+Nota-se que a legislação nacional de trânsito prevê que ambas as partes são responsáveis, solidariamente, pelo dever de comunicação da alienação ao órgão estadual e pelas penalidades administrativas do veículo.
+Do mesmo modo, no que se refere à responsabilidade tributária, o art. 6º, I, "g", da Lei Estadual nº 14.260/2003, com redação dada pela Lei nº 18.277/2014, dispõe que o proprietário alienante de veículo, ao não comunicar a venda em 30 dias, responde, solidariamente, com o comprador pelo pagamento do tributo de IPVA, desde o momento da alienação até a sua comunicação à autoridade responsável. Em outras palavras, o vendedor é responsável solidário e, o comprador, contribuinte, por ser proprietário da coisa.
+ ..
+Ocorre que, em que pese a exigência prevista na legislação paranaense de comunicação de venda do veículo ao DETRAN e da responsabilidade solidária do antigo proprietário, essa responsabilização tributária pelo pagamento do IPVA pode ser afastada.
+ ..
+No caso dos autos, no que se refere aos impostos descritos nas seguintes CDAs, nota-se que incidiram após a tradição dos veículos:
+ ..
+Por outro lado, não restou comprovada a tradição dos seguintes veículos, sendo legítima a cobrança:
+ ..
+A respeito das referidas CD
+As, ao contrário do que restou decidido na sentença, a tradição dos veículos acima mencionados não pode ser comprovada, tão somente, com a emissão da DANFE (Documento Auxiliar da Nota Fiscal Eletrônica) que, por ser uma representação gráfica e servir de subsídio para comprovar a existência da NF-e, deve acompanhar o trânsito das mercadorias e colher a assinatura do destinatário no ato da entrega.
+Destarte, as notas fiscais que foram juntadas aos autos não possuem a assinatura do comprador, tratando-se de documentos unilaterais, ou seja, sem controle ou anuência do suposto comprador, razão pela qual, são insuficientes para presumir a tradição dos veículos. Do mesmo modo, os recibos de sinal de venda de alguns veículos que foram juntados aos autos não contêm data ou assinatura do comprador, sendo insuficientes para comprovar a efetiva entrega do bem
+Por ocasião do julgamento dos embargos de declaração, foi acrescido à fundamentação (fls. 669/676):
+Ainda, no que se refere ao art. 373, II, do CPC não houve qualquer omissão, eis que o julgador, ao subsumir ao caso concreto às normas jurídicas mais adequadas (princípio jurídico iura novit cúria) incumbe-se no dever de conhecer e aplicar a norma. Assim, ele aplica ao fato concreto a norma jurídica que entender pertinente, levando-se em conta que, a subsunção decorre de vários dispositivos legais
+Pois bem.
+Do que se observa, o conhecimento do recurso encontra mesmo óbice na Súmula 7 do STJ, ao tempo em que não o teor do voto condutor do acórdão recorrido não revela violação dos arts. 373 e 489 do CPC/2015, uma vez que está claro, coerente e, devidamente, fundamentado na prova dos autos e na legislação local.
+De fato, o órgão julgador apontou a lei estadual de regência e, mesmo tendo apontando a possibilidade, em tese, de não cobrança do IPVA, verificou que a parte não comprovou a transferência dos veículos para terceiros. E, no contexto, não há como se revisar o acórdão sem o exame da legislação local e do reexame do acervo probatório, providências inadequadas na via do especial, consoante enunciam as Súmulas 7 do STJ e 280 do STF.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 489 DO CPC/2015. NÃO OCORRÊNCIA. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E NÃO PROVIDO.
