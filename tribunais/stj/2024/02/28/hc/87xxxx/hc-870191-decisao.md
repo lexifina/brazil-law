@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra o Tribunal de Justiça do Paraná.
+O paciente foi condenado "como incurso nas sanções do artigo 14, da Lei nº 10.826/03, à pena privativa de liberdade de 02 (dois) de reclusão e 10 (dez) dias-multa, para ser cumprida em regime inicial aberto. A pena privativa de liberdade foi substituída por duas penas restritivas de direito, consubstanciadas em prestação de serviços à comunidade e prestação pecuniária" (fl. 60).
+Sustenta a impetrante, em síntese, que "no caso em tela é impositivo o reconhecimento da atipicidade material da conduta, com a consequente absolvição do paciente com base no princípio da insignificância" (fl. 6), requerendo, liminarmente e no mérito, a concessão da ordem nesses termos.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pela "concessão da ordem de ofício, para reconhecer a atipicidade da conduta e absolver o paciente, com base no princípio da insignificância" (fl. 118).
+Sobre a pretensão aqui trazida, assim se manifestou o Tribunal local (fls. 64-67):
+ ..  Insta salientar que o elemento subjetivo do tipo é o dolo, o qual restou devidamente configurado no presente caso, não havendo elemento subjetivo específico do tipo, nem se punindo a forma culposa.
+Inicialmente, verifica-se que o acusado, em fase inquisitorial (mov. 1.7 - 1º Grau de Jurisd.), confessou a prática delitiva, na medida em que afirmou que fazia cinco meses que havia pegado o revólver de espoleta e montou um tambor no armamento e colocou cartuchos calibre 22.
+ ..
+Destaca-se que o sucesso das diligências realizadas pelos Policias Militares, com a apreensão de 01 (um) simulacro arma de fogo, do tipo revólver, com adaptação, em seu tambor para oito cartuchos, e mais 08 (oito) munições de calibre .22, objetos localizados no interior do veículo VW/Gol, placas AFN-9142, de propriedade do apelante, demonstra suficientemente a autoria do crime.
+ ..
+Ainda, em análise ao Laudo Pericial de mov. 27.1, verifica-se que este concluiu que após submeter ao exame pericial o simulacro de arma de fogo, bem como as munições, se constatou que o simulacro não apresentava capacidade de deflagração de projéteis, entretanto, as munições se demonstraram eficientes para o fim a que foram projetadas.
+Além disso, para se caracterizar o delito do artigo 14, caput, da Lei nº. 10.826/03, se exige apenas a posse do artefato ou munição, sem a devida autorização legal. Ou seja, essa conduta é suficiente para afetar a incolumidade pública, que é o bem jurídico tutelado por este dispositivo.
+Observa-se que o delito em comento é crime de mera conduta e de perigo abstrato, e se caracteriza com a simples prática de um dos núcleos do tipo penal, não sendo exigida pela lei a efetiva exposição a risco ou prejuízo ou dano a outrem, conforme alegado pela defesa.
+ ..
+Portanto, para a configuração do crime de porte ilegal de arma de fogo de uso permitido, havendo a demonstração de que o agente praticou a conduta com o dolo genérico, não interessa a sua intenção ou finalidade especial.
+ ..
+Portanto, não há que se falar em absolvição por atipicidade da conduta conforme, pleiteado pela defesa. ..
+Como visto, in casu, o réu, ora paciente, foi apreendido na posse de "01 (um) simulacro arma de fogo, do tipo revólver, com adaptação, em seu tambor para oito cartuchos, e mais 08 (oito) munições de calibre .22". No entanto, "o simulacro não apresentava capacidade de deflagração de projéteis, entretanto, as munições se demonstraram eficientes para o fim a que foram projetadas", fazendo jus à aplicação do princípio em apreço, consoante a jurisprudência desta Corte.
+"Segundo o entendimento desta Corte Superior, embora o crime de posse de armamentos e munições se trate de delito de mera conduta e de perigo abstrato, nos casos de apreensão de pequena quantidade de munição desacompanhada de arma de fogo capaz de deflagrá-la, é devido o reconhecimento da atipicidade material da conduta, tendo em vista a ausência de lesão ou probabilidade de dano ao bem jurídico tutelado pela norma penal. Na situação dos autos, foram apreendidas cerca de 5 (cinco) cartuchos calibre .38, desacompanhadas de qualquer arma de fogo, quantidade que autoriza o reconhecimento da atipicidade." (AgRg no REsp n. 2.026.674/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/10/2023, DJe de 5/10/2023).
+"Na hipótese, consta do acórdão recorrido que "o denunciando portou e transportou 16 (dezesseis) cartuchos de munição intactos, calibre .20, marca CBC,  ..  de uso permitido". Embora a inicial acusatória mencione a apreensão dos cartuchos em local conhecido pelo intenso tráfico de drogas, nenhum outro crime foi imputado ao agravante, não havendo notícia de que as munições apreendidas fossem dirigidas ao tráfico de drogas." (AgRg no AREsp n. 2.271.395/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/5/2023, DJe de 29/5/2023).
+Logo, em consonância com o parecer ministerial, "verifica-se haver, de fato, manifesta ilegalidade na espécie, justificando a excepcional concessão da ordem de ofício, para afastar a condenação do paciente, bem como para alinhar o entendimento do Tribunal de origem à atual jurisprudência dos Tribunais Superiores" (fl. 118).
+Ante o exposto, concedo o habeas corpus para absolver ANDERSON MACHADO da acusação que lhe foi imputada - art. 14 da Lei n. 10.826/2003 (Autos n. 0005572-62.2017.8.16.0083 - Vara Criminal de Francisco Beltrão/PR).
+Comunique-se.
+Publique-se.
+Intimem-se.
+EMENTA
