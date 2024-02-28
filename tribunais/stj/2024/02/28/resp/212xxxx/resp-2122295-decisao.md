@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento na alínea "a" do permissivo constitucional, que desafia acórdão do Tribunal Regional Federal da 5ª Região assim ementado (e-STJ fl. 190):
+REEXAME NECESSÁRIO E RECURSO DE APELAÇÃO. DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA. SIMPLES NACIONAL. RECEITA BRUTA. INCIDÊNCIA DE PIS - COFINS - IRPJ E CSLL SOBRE GORJETAS. IMPOSSIBILIDADE. VERBA DE NATUREZA SALARIAL. POSSIBILIDADE DE COMPENSAÇÃO TRIBUTÁRIA.
+1 - Cinge-se a controvérsia acerca da possibilidade ou não de inserir as verbas recebidas a título de gorjeta na base de cálculo do PIS, COFINS, IRPJ e CSLL, abarcados pela sistemática do SIMPLES NACIONAL.
+2 - Independentemente da natureza jurídica da gorjeta, compulsória ou inserida na nota de serviço, o art. 457, §3º, da CLT prevê que constitui remuneração dos empregados na atividade pertinente, de modo que, mesmo sendo recebida pelo empregador, impõe-se o repasse aos obreiros.
+3 - Desta feita, sobre tais verbas se admite apenas a incidência dos tributos e contribuições próprios das parcelas salariais, haja vista não comporem as gorjetas a receita bruta das empresas.
+4 - No tocante à compensação, o enunciado 213 da súmula de jurisprudência do STJ preconiza que "o mandado de segurança constitui ação adequada para a declaração do direito à compensação tributária", não implicando o mero reconhecimento do direito compensatório em concessão de efeitos patrimoniais pretéritos.
+5 - Os valores passíveis de compensação devem ser corrigidos exclusivamente pela taxa SELIC, que já engloba juros e correção monetária, na forma prevista no artigo 39, § 4º, da Lei 9.250/95.
+6 - Ademais, considerando-se que a presente ação foi ajuizada após o advento da LC nº 118/05, é de se aplicar a prescrição quinquenal, consoante entendimento do STF, assentado sob a sistemática do art. 543-B do CPC (RE 566621, Relator(a): Min. ELLEN GRACIE, Tribunal Pleno, julgado em 04/08/2011, Publicado em 11/10/2011, DJe-195).
+7 - Nessa perspectiva, o impetrante possui direito à pretendida compensação tributária, devendo a medida ser efetivada no âmbito administrativo, após o trânsito em julgado da presente decisão judicial, pois cabe à autoridade administrativa aferir a regularidade do procedimento, inclusive no que diz respeito ao montante efetivamente recolhido e respectivas bases de cálculo.
+8 - Reexame necessário e apelo não providos.
+Os embargos declaratórios opostos foram rejeitados.
+A recorrente aponta violação dos arts. 489, II, § 1º, IV, e 1.022, II, do CPC/2015;97 e do art. 111 do CTN, dos arts. 12, 13, 18, § 3º, e 24, parágrafo único, da Lei Complementar n. 123/2003, do art. 457, § 3º, da CLT, do art. 1º da Lei n. 7.689/1988, dp art. 3º, § 2º, da Lei n. 9.718/1998, do art. 1º, § 3º, da Lei n. 10.637/2002 e do art. 1º da Lei n. 10.833/2003,
+Alega, em resumo, a nulidade do acórdão recorrido por negativa de prestação jurisdicional, ante a falta de enfrentamento, pela Corte regional, da tese fazendária de que a gorjeta deve ser considerada receita bruta para fins de cálculo da tributação sob o regime do Simples Nacional, IRPJ, CSLL, PIS e COFINS.
+Sem contrarrazões (certidão de e-STJ fl. 284).
+Passo a decidir.
+Cuidam os autos, na origem, de mandado segurança, em que se busca o reconhecimento do direito líquido e certa da contribuinte impetrante a que as gorjetas não sejam consideradas receita bruta para fins de tributação sob o regime do Simples Nacional.
+O juízo de primeiro grau concedeu parcialmente a segurança para que as gorjetas sejam excluídas da base de cálculo do Simples Nacional.
+O TRF da 5ª Região, ao examinar a apelação fazendária e a remessa necessária, negou-lhes provimento, com amparo nos seguintes fundamentos (e-STJ fls. 186/189):
+O mandado de segurança é uma ação constitucional, prevista para proteger direito líquido e certo, concretamente atingido por ato ilegal ou abusivo de autoridade pública ou de agente de pessoa jurídica no exercício de atribuições do Poder Público.
+Como cediço, o Simples Nacional, instituído pela LC nº 123/2006, consiste em sistemática simplificada de tributação e arrecadação de tributos federais, estaduais e municipais, proporcionando também a simplificação escritural e administrativa para favorecer as micro e pequenas empresas. Insurge-se a parte impetrante contra a inclusão dos valores recebidos a título de gorjetas da base de cálculo do IRPJ, CSLL, PIS e COFINS, abarcados por tal sistema de exação simplificada.
+Pois bem, independentemente da natureza jurídica da gorjeta, compulsória ou inserida na nota de serviço, o art. 457, §3º, da CLT prevê que constitui remuneração dos empregados na atividade pertinente, de modo que, mesmo sendo recebida pelo empregador, impõe-se o repasse aos obreiros, senão vejamos:
+(..)
+Com efeito, a matéria já fora apreciada pelos tribunais, tendo sido construído o entendimento sub judice de que a gorjeta ostenta a natureza jurídica de salário, sobre a qual devem incidir apenas os tributos e contribuições aplicados sobre as parcelas salariais, haja vista não compor a receita bruta das empresas.
+(..)
+Desta feita, como restou consignado no precedente acima citado, uma vez se tratando de verba de natureza salarial, é defeso conferir interpretação extensiva, em face do disposto no art. 111, inciso II, do CTN, de modo a admitir a incidência de tributos e contribuições diversos daqueles que devem incidir sobre a verba salarial.
+Pois bem.
+E sta Corte Superior tem, reiteradamente, decidido que a alegação de violação do art. 1.022 do CPC/2015 deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado, sob pena de não conhecimento, à luz da Súmula 284 do STF.
+Nesse sentido: AgInt no AREsp 1.129.996/RJ, Rel. Ministro Luís Felipe Salomão, Quarta Turma, DJe 01/12/2017; AgInt no REsp 1.681.138/MS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 28/11/2017; REsp 1.371.750/PE, Rel. Ministro Og Fernandes, Primeira Seção, DJe 10/04/2015; AgRg no REsp 1.182.912/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 29/04/2016.
+Na hipótese, o agravante deixou de indicar, com precisão, os pontos supostamente não enfrentados pelo Tribunal de origem, limitando-se a transcrever, ipsis litteris, as razões dos embargos de declaração, argumentação que impede o devido exame da preliminar arguida.
+Ora, por certo, que a tese alusiva à ofensa ao art. 1.022 do CPC/2015 deve ser construída com base no confronto entre a alegada omissão e a respectiva repercussão jurídica que traduza a necessidade de seu enfrentamento pela Corte de origem, o que, sem dúvida, não ocorreu na hipótese em análise.
+Quanto à indicação de ofensa aos arts. 97 e 111 do CTN, ressalto que esses dispositivos não são hábeis a amparar a alegação de nulidade do acórdão recorrido por negativa de prestação jurisdicional, além de não ter sido devidamente apontadas as razões de ofensa a eles. Incide, na espécie, o óbice contido na Súmula 284/STF.
+Ante o exposto, com base no art. 255, §4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
