@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por UNIMED BELEM COOPERATIVA DE TRABALHO MEDICO contra a decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que
+"..a respeitável decisão prolatada demonstra-se omissa e obscura, pois, embargante apresentou, de forma clara e específica, todos os argumentos pertinentes ao caso em seu recurso especial, para tanto, a ausência de análise dos pontos levantados configura uma lacuna na fundamentação da decisão, que não enfrentou devidamente as questões suscitadas pela recorrente.
+A respeitável decisão prolatada demonstra omissão no que tange à validade das orientações da ANS, especialmente, no que diz respeito ao entendimento do art. 4º, e o inciso II do art. 10, ambos da Lei nº 9.961/00,o art. 12, inciso I, alínea b, da lei 9.656/98.
+ ..
+..considerando que nos recursos interpostos restou claro que não se tratava de nenhuma das súmulas mencionadas, vez que os recursos não versavam sobre questões de fato e, muito menos, se embasa em divergência jurisprudencial, mas, sim, sobre entendimento direto dos artigos da lei federal supramencionada, especialmente, o art. 4º, e o inciso II do art. 10, ambos da Lei nº 9.961/00, o art. 12, inciso I, alínea b, da lei 9.656/98, a Operadora interpôs Agravo em Recurso Especial. Para tanto, o Douto Superior Tribunal prolatou a seguinte decisão:
+ ..
+Desse movo, data vênia, a r. decisão se mostra omissa e obscuridade, haja vista que, nas razões dos recursos interpostos pela Embargante, houve a clara indicação da matéria objeto da controvérsia, sendo possível a reversão das decisões recorridas e seu consequente efeito suspensivo.
+ ..
+A decisão do Desembargador, ao receber o efeito suspensivo ao recurso da UNIMED, para tanto, sem expor quais terapias esta fica desobrigada a fornecer, causa obscuridade no prosseguimento do feito no processo.
+Assim, a Embargante pugna pela emenda da decisão, com o saneamento da omissão apontada, para reformar integralmente as decisões recorridas e aplicar o direito de forma uníssona e dotado de segurança jurídica."(fl. 611/613 ).
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A propósito, da análise do recurso de agravo em recurso especial observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada, conforme exigido pelo art. 253, parágrafo único, do RISTJ, a saber: súmula 5/STJ, súmula 7/STJ e súmula 83/STJ.
+Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020, e AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que não admite o recurso especial é a interposição do agravo em recurso especial, sob pena de preclusão caso feita posteriormente.
+Outrossim, percebe-se que a parte embargante pretende o exame de mérito do recurso especial. Porém, esse exame ficou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do agravo em recurso especial, que obstou a abertura desta instância superior e a produção do efeito translativo, não havendo, portanto, que se cogitar da ocorrência de omissão sobre nenhuma matéria de fundo porventura tratada no recurso especial.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
+ EMENTA
