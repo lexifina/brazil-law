@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL - EMBARGOS DE TERCEIRO - ARRESTO DE ALGODÃO EM EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - CÉDULA DE PRODUTOR RURAL COM PENHOR AGRÍCOLA - GARANTIA REAL QUE, EM PRINCÍPIO, PREFERE AOS DE NATUREZA PESSOAL DE QUALQUER ESPÉCIE - SENTENÇA REFORMADA - RECURSO PROVIDO.
+A Cédula de Produto Rural é crédito com garantia real, tendo preferência sobre créditos de natureza privilegiada especial, independentemente da data da constituição do título, sendo ato jurídico perfeito, insuscetível de desconstituição, quando atendidos os requisitos do art. 3º da Lei nº 8.929/94, e não vincula a promessa de entrega de produtos a uma causa, por não haver tal exigência na lei que a instituiu, a qual lhe confere a característica de título abstrato, ou seja, não admite discussão acerca da origem ou causa para ser considerada válida.
+Alega-se violação dos artigos 1.022 e 489 do Código de Processo Civil, 360, I, e 364 do Código Civil e 364 e 1.046 do revogado Código de Processo Civil, sob o argumento de que o acórdão local é omisso e que, diante da novação havida entre a recorrida e o interessado, não subsistia mais o penhora agrícola, sendo que os embargos de terceiro ajuizados por aquela deveriam ser mantidos improcedentes.
+Assim delimitada a controvérsia, passo a decidir.
+Não é omissa nem carece de fundamentação a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas, adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia.
+Assim:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REGULAR PRESTAÇÃO JURISDICIONAL. INÉPCIA DA INICIAL. HONORÁRIOS. COMPENSAÇÃO.
+1. Ausência de violação dos artigos 489 e 1.022 do Código de Processo Civil, pois, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada.
+2. Inviabilidade de acolher a alegação de inépcia da inicial, pois a convicção formada pela Corte local decorreu dos elementos existentes nos autos, os quais não são possíveis de ser reexaminados nesta via especial. Incidência da Súmula 7/STJ.
+3. Fixada a compensação de honorários na vigência do CPC/1973, deve ser mantida já que acolhida até então pelo ordenamento jurídico, conforme elucidado no enunciado da Súmula n. 306/STJ, tendo em vista que a sucumbência é regida pela lei vigente à data da deliberação que a impõe ou modifica.
+4. Agravo interno não provido.
+(AgInt no AREsp 1131853/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 8/2/2018, DJe 16/2/2018)
+Colhe-se dos autos que Fertilizantes Heringer S.A. ajuizou embargos de terceiro em face do recorrente que, por sua vez, executava sentença contra Maurício Agostinho Borsato.
+O executado Maurício havia dado em penhor agrícola 50.000 (cinquenta mil) arrobas de algodão que, por transação posterior, foi reduzido para 14.870 (quatorze mil, oitocentos e setenta) arrobas de algodão em favor de Fertilizantes Heringer S.A.
+O Tribunal local reformou a sentença de improcedência dos embargos de terceiro para livrar da constrição as referidas 14.870 (quatorze mil, oitocentos e setenta) arrobas de algodão dadas em penhora agrícola em favor da embargante Heringer.
+Leia-se a fundamentação:
+"Embora a embargante/apelante não era possuidora/proprietária do bem, visto que a propriedade dos bens móveis se transfere pela simples tradição, presumindo-se proprietário do bem aquele que detém a sua posse direta, a mesma comprovou ser credora de Maurício Agostinho Borsatto, crédito representado pela Cédula de Produto Rural n. 1202/2003, com garantia de penhor rural de 1º grau, sem concorrência de terceiros, devidamente registrada no cartório competente, e posteriormente, por meio do instrumento particular de transação, houve a redução do valor do penhor para 14.870 arrobas de algodão em pluma, cuja entrega se daria por meio de depósito junto ao armazém de propriedade de Eucélio Garcia Leite, denominada Fazenda Progresso, no Município de Nova Mutum/MT em nome da embargante" (e-STJ, fl. 1.101).
+O exequente Rodolfo afirma que a transação teria efeito de novação e, nesta, não se reafirmou a penhora agrícola, razão pela qual a improcedência dos embargos de terceiro seria de ordem.
+Se o Tribunal local, todavia, concluiu que, embora reduzido, mantinha-se o penhor agrícola pela invocada transação, é inequívoco que o reexame da questão esbarra nas disposições dos verbetes n. 5 e 7 da Súmula desta Casa.
+Em face do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
