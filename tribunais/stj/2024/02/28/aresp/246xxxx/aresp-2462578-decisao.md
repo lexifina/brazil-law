@@ -1,0 +1,24 @@
+DECISÃO
+A controvérsia se encontra bem delineada no parecer ministerial, in verbis (e-STJ fls. 190/191):
+Trata-se de agravo em recurso especial interposto contra decisão monocrática que não admitiu recurso especial por óbice da Súmula 83/STJ.
+Douglas da Silva Ferreira foi condenado pelo crime do artigo 155, §§ 1º e 4º, I e VII, c/c o artigo 14, II, ambos do Código Penal, na sua forma tentada, à pena de 2 anos e 13 dias de reclusão, em regime inicial fechado. Contra a sentença condenatória, foi interposto recurso de apelação. A Primeira Turma Criminal do Tribunal de origem negou provimento ao recurso de apelação, mantendo integralmente a sentença. O acórdão transitou em julgado em 05/05/2021.
+Foi proposta a presente revisão criminal em que se postula o afastamento da causa de aumento do artigo 155, § 1º, do Código Penal com fundamento no fato de que, em novo entendimento, o STJ decidiu, em sede de recurso repetitivo, que "a causa de aumento prevista no § 1º do art. 155 do Código Penal (prática do crime de furto no período noturno) não incide no crime de furto na sua forma qualificada (§ 4º)" (Tema 1087).
+O TJDFT julgou a revisão criminal improcedente.
+Foi interposto recurso especial. O réu alegou violação ao artigo 621, I, primeira parte, do CPP. Disse que o STJ permite o ajuizamento da revisão criminal para situações nas quais se pleiteia a adoção de novo entendimento jurisprudencial mais benigno, desde que a mudança jurisprudencial corresponda a um novo entendimento pacífico e relevante. No caso, pede que seja aplicado o novo entendimento do STJ decidido, em sede de recurso repetitivo, no sentido de que "a causa de aumento prevista no § 1º do art. 155 do Código Penal (prática do crime de furto no período noturno) não incide no crime de furto na sua forma qualificada (§ 4º)" (Tema 1087).
+O Ministério Público Federal manifestou-se pelo conhecimento do agravo para não conhecer do recurso especial.
+É, em síntese, o relatório.
+Decido.
+O agravante foi condenado pela prática do delito de furto qualificado, aplicada a causa de aumento, prevista no § 1º do art. 155 do Código Penal, por ter sido praticado no período noturno.
+O Tribunal de origem, ao apreciar o recurso de apelação da defesa, manteve tal entendimento, ou seja, concluiu pela compatibilidade entre a forma qualificada do delito e a incidência da majorante.
+Agora, já consumado o trânsito em julgado, busca a defesa seja aplicado o entendimento de que seria inconciliável aplicar-se a referida causa de aumento ao furto qualificado.
+Embora atualmente essa seja a orientação do Superior Tribunal de Justiça, firmada no julgamento do REsp n. 1.888.756/SP, relator Ministro João Otávio de Noronha, Terceira Seção, sob a sistemática dos recursos repetitivos, o pleito não se revela admissível, por se pretender a aplicação retroativa de novo entendimento jurisprudencial, o que não se admite.
+Neste sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PLEITO DE AFASTAMENTO DA MAJORANTE DO REPOUSO NOTURNO. SUPRESSÃO DE INSTÂNCIA. MODIFICAÇÃO DE ENTENDIMENTO JURISPRUDENCIAL QUE NÃO AUTORIZA, POR SI SÓ, A DESCONSTITUIÇÃO DOS EFEITOS DA COISA JULGADA PELA VIA REVISIONAL. RECURSO DESPROVIDO.
+1. A questão referente à incompatibilidade da majorante do repouso noturno com a forma qualificada do delito de furto não foi objeto de prévio debate no âmbito da Corte de origem e, aparentemente, nem mesmo foi requerida nas razões de apelação. Assim, sem prévia manifestação do Tribunal de origem no ponto, afigura-se incabível o exame da matéria de forma originária, por esta Corte, sob pena de indevida supressão de instância.
+2. A Terceira Seção do Superior Tribunal de Justiça, ao apreciar o Tema Repetitivo n. 1087, fixou a tese de que " a  causa de aumento prevista no § 1º do art. 155 do Código Penal (prática do crime de furto no período noturno) não incide no crime de furto na sua forma qualificada (§ 4º)" (REsp n. 1.888.756/SP, relator Ministro João Otávio de Noronha, Terceira Seção, julgado em 25/5/2022, DJe 27/6/2022). No entanto, quando do julgamento da apelação (14/11/2021 - ou seja, antes do overruling), havia consenso em ambas as Turmas da Terceira Seção desta Corte quanto à plena possibilidade de aplicação da causa de aumento do repouso noturno ao furto qualificado.
+3. O que se pretende neste feito é a desconstituição dos efeitos da coisa julgada com fundamento na posterior alteração de entendimento jurisprudencial que é mais favorável ao Sentenciado. Ocorre que a pacífica jurisprudência desta Corte rechaça a pretensão que visa à revisão de decisão já transitada em julgado com base na simples modificação da compreensão jurisprudencial de determinada controvérsia.
+4. Recurso desprovido.
+(AgRg no HC n. 779.647/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 6/12/2022, DJe de 15/12/2022.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
