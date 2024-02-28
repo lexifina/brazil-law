@@ -1,0 +1,17 @@
+DECISÃO
+O presente habeas corpus, impetrado em benefício próprio por Lucas Fernandes Bernardes - condenado por tráfico de drogas (142,1 g de maconha, 48,9 g de cocaína e 46,1 g de crack - fl. 20) a 7 anos de reclusão, em regime inicial fechado, e a 700 dias-multa, atacando-se o acórdão de apelação criminal proferido pelo Tribunal de Justiça de Minas Gerais (fls. 12/23 - Apelação Criminal n. 1.0000.23.049021-1/001) que manteve a sentença condenatória prolatada na Ação Penal n. 00014076720228130637, da Vara Criminal da comarca de São Lourenço/MG -, não comporta prosseguimento.
+Com efeito, busca a impetração a absolvição do paciente, aos argumentos de que a condenação foi fundamentada exclusivamente em depoimentos policiais - a Corte se dedicou bastante a defender a possibilidade de utilizar depoimentos policiais como provas testemunhais. Obviamente, tal possibilidade existe, mas não pode servir como único meio de prova (fl. 7) - e ilegalidade na busca pessoal: foi a mera opinião subjetiva dos policiais que ensejou a abordagem, que, portanto, não encontra motivação idônea (fl. 9).
+Por se tratar de impetração de próprio punho, desacompanhada de defesa técnica (fls. 24/27), a Defensoria Pública da União apresentou manifestação técnica (fls. 3/11).
+Do atento exame dos autos, observo que a via eleita foi indevidamente utilizada para revisar condenação transitada em julgado em 2/6/2023 (conforme informações do Tribunal estadual), o que afasta a competência desta Corte Superior para análise do pleito. Nesse sentido: AgRg no HC n. 775.050/SC, Ministra Laurita Vaz, Sexta Turma, DJe 2/12/2022.
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois:
+a) nos termos do acórdão hostilizado, a condenação do paciente não se deu exclusivamente em razão de depoimentos policiais, mas foram precedidas de diligências investigatório, não sendo possível concluir de forma diversa sem reexame probatório, inviável na via eleita. Confira-se (fl. 19 - grifo nosso):
+ ..
+Pela leitura dos depoimentos, verifica-se que, no dia dos fatos, Policiais Militares realizaram o monitoramento e abordagem de Lucas, após receberem informações anônimas que o Apelante estaria realizando o transporte de drogas para Alan Patrick Fernandes, v. "Anzol", pessoa conhecida no meio policial por administrar o Tráfico de Drogas na Cidade de São Lourenço/MG.
+Diante das informações de que Lucas utilizava motocicleta para o transporte das drogas e para realizar a entrega de entorpecentes no Bairro Alto Santo Cruzeiro, os Militares se posicionaram em local estratégico e passaram a monitorar o Apelante.
+ ..
+b) a alegação de ilegalidade na busca pessoal não foi analisada pela Corte estadual no acórdão ora hostilizado, o que configuraria prestação jurisdicional em indevida supressão de instância.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. TRÁFICO DE DROGAS (142,1 G DE MACONHA, 48,9 G DE COCAÍNA E 46,1 G DE CRACK). ALEGAÇÃO DE CONDENAÇÃO FUNDAMENTADA EXCLUSIVAMENTE EM DEPOIMENTOS POLICIAIS. CONCLUSÃO DE FORMA DIVERSA DAS INSTÂNCIAS ORDINÁRIAS. NECESSIDADE DE REEXAME PROBATÓRIO. INVIABILIDADE. ALEGAÇÃO DE ILEGALIDADE NA BUSCA PESSOAL. MATÉRIA NÃO ANALISADA PELO TRIBUNAL LOCAL. SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
