@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 22/02/2024 a 28/02/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Sérgio Kukina, Paulo Sérgio Domingues e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. Nos termos do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, os fundamentos da decisão combatida, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo ESTADO DE ALAGOAS contra decisão, de minha lavra, em que julguei procedente o pedido veiculado na presente reclamação para cassar a decisão proferida nos autos do Agravo de Instrumento n. 800628-22.2023.8.02.0000, determinando ao Tribunal de origem o imediato cumprimento da decisão exarada por esta Corte de Justiça no julgamento do IAC 14/STJ.
+Alega, em síntese, que, quando se tratar de tecnologia não padronizada pelo Sistema Único de Saúde - SUS a União Federal deve ocupar obrigatoriamente o polo passivo da demanda, em face do previsto no art. 19-Q da Lei n. 12.401/2011 e da tese firmada pelo STF no Tema 793 de repercussão geral.
+Afirma que a decisão agravada contrariou os arts. 23, II, 109, I, 196, 197 e 198, I, da Constituição Federal, cujo prequestionamento desde já se requer, além de ter desrespeitado o entendimento vinculante da Suprema Corte.
+Defende, ainda, a necessidade de sobrestamento do presente conflito até o julgamento do Tema 1.234 pelo Supremo Tribunal Federal, que decidirá definitivamente a controvérsia sobre a legitimidade passiva e a competência dos entes em ações desta natureza.
+Requer, ao final, a reconsideração do decisum recorrido ou, caso assim não se entenda, seja submetido o presente agravo interno à apreciação da Turma.
+Decorrido o prazo legal, o agravado não apresentou impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. Nos termos do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, os fundamentos da decisão combatida, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. Agravo interno não conhecido.
+VOTO
+De início, considerando os parâmetros estabelecidos pela Corte Especial do Superior Tribunal de Justiça, no julgamento do EREsp 1 .424.404/SP (Rel. Ministra Luis Felipe Salomão, julgado em 20/10/2021, DJe 17/1 1/2021), para a aplicação da Súmula 182 do STJ no tocante aos agravos internos manejados contra decisões proferidas em recurso especial ou em agravo em recurso especial, tem-se o seguinte:
+a) incide o verbete quando: i) o único ou todos os capítulos da decisão agravada não foi ou não foram impugnados; ii) não houver a impugnação de todos os fundamentos adotados na análise de determinado capítulo autônomo (quer dizer, ausência de ataque a fundamento capaz, por si só, de manter a conclusão alcançada na decisão agravada);
+b) não se aplica o óbice sumular no caso em que houver vários capítulos autônomos e a parte agravante não se insurgir contra algum deles, pois isso acarreta apenas a preclusão da matéria não impugnada, devendo ser analisado o que remanesceu.
+Dito isso, vê-se que, na hipótese dos autos, o agravo interno não merece ser conhecido.
+Com efeito, no caso, a reclamação foi julgada procedente para cassar o decisum reclamado e determinar ao Tribunal de origem o imediato cumprimento da decisão exarada por esta Corte de Justiça no IAC 14 do STJ, havendo os seguintes capítulos autônomos:
+a) na Questão de Ordem proferida nos autos dos Conflitos de Competência n. 187.276/RS, 187.533/SC e 188.002/SC, submetidos à sistemática do incidente de assunção de competência (IAC 14/STJ), determinou-se expressamente que, até o julgamento definitivo do incidente de assunção de competência (IAC 14/STJ), o Juiz estadual deverá abster-se de praticar qualquer ato judicial de declinação de competência nas ações que versem sobre à dispensação de tratamento/medicamento não incluído nas políticas públicas, em atenção ao princípio da segurança jurídica.
+No caso, o Tribunal de Justiça Estadual, após o julgamento da aludida questão de ordem, determinou que a parte autora emendasse a petição inicial, incluindo a União no polo passivo da lide, sob pena de extinção do processo, contrariando, assim, a decisão desta Corte de Justiça;
+b) em 12/04/2023, a Primeira Seção julgou o mérito do referido IAC, sendo fixada a seguinte tese jurídica para efeito do artigo 947 do CPC/2015:
+i) Nas hipóteses de ações relativas à saúde intentadas com o objetivo de compelir o Poder Público ao cumprimento de obrigação de fazer consistente na dispensação de medicamentos não inseridos na lista do SUS, mas registrado na ANVISA, deverá prevalecer a competência do juízo de acordo com os entes contra os quais a parte autora elegeu demandar;
+ii) as regras de repartição de competência administrativas do SUS não devem ser invocadas pelos magistrados para fins de alteração ou ampliação do polo passivo delineado pela parte no momento da propositura da ação, mas tão somente para fins de redirecionar o cumprimento da sentença ou determinar o ressarcimento da entidade federada que suportou o ônus financeiro no lugar do ente público competente, não sendo o conflito de competência a via adequada para discutir a legitimidade ad causam, à luz da Lei n. 8.080/1990, ou a nulidade das decisões proferidas pelo Juízo estadual ou federal, questões que devem ser analisada no bojo da ação principal;
+iii) a competência da Justiça Federal, nos termos do art. 109, I, da CF/88, é determinada por critério objetivo, em regra, em razão das pessoas que figuram no polo passivo da demanda (competência ratione personae), competindo ao Juízo federal decidir sobre o interesse da União no processo (Súmula 150 do STJ), não cabendo ao Juízo estadual, ao receber os autos que lhe foram restituídos em vista da exclusão do ente federal do feito, suscitar conflito de competência (Súmula 254 do STJ).
+c) em 17/04/2023, o em. Ministro Gilmar Mendes, Relator do RE 1.366.243/SC (Tema 1.234), proferiu decisão naqueles autos deferindo parcialmente o pedido incidental de tutela provisória formulado pelo CONPEG, com fundamento no art. 300 do CPC/2015, para estabelecer que, até o julgamento definitivo do Tema 1.234 da Repercussão Geral, a atuação do Poder Judiciário seja regida pelos seguintes parâmetros:
+(..)
+(ii) nas demandas judiciais relativas a medicamentos não incorporados: devem ser processadas e julgadas pelo Juízo, estadual ou federal, ao qual foram direcionadas pelo cidadão, sendo vedada, até o julgamento definitivo do Tema 1234 da Repercussão Geral, a declinação da competência ou determinação de inclusão da União no polo passivo;
+(iii) diante da necessidade de evitar cenário de insegurança jurídica, esses parâmetros devem ser observados pelos processos sem sentença prolatada;
+diferentemente, os processos com sentença prolatada até a data desta decisão (17 de abril de 2023) devem permanecer no ramo da Justiça do magistrado sentenciante até o trânsito em julgado e respectiva execução (adotei essa regra de julgamento em: RE 960429 ED-segundos Tema 992, de minha relatoria, DJe de 5.2.2021);
+Em sessão virtual extraordinária, o Plenário do Supremo Tribunal Federal, por unanimidade, referendou aludida tutela provisória incidental.
+No caso, tratando-se de demanda judicial relativa a medicamento não incorporado ao SUS, deve prevalecer o comando previsto no item "a" da decisão do STJ supratranscrita, confirmada pelo item "ii" do decisum do STF acima citado.
+Da leitura das razões do agravo interno, observa-se que a parte agravante deixou de atacar devidamente todos os fundamentos da decisão agravada, limitando-se a apresentar argumentos recursais dissociados dos fundamentos que justificaram o provimento da reclamação, no sentido de que deve ser respeitado o Tema 793 do STF, além de requerer o prequestionamento dos arts. 23, II, 109, I, 196, 197 e 198, I, da Constituição Federal.
+Oportuno destacar que o princípio da dialeticidade impõe à parte recorrente o ônus de explicitar os motivos pelos quais a decisão atacada deve ser reformada, trazendo argumentações capazes de demonstrar o seu desacerto, sendo insuficiente a mera exposição da tese recursal, como ocorreu no caso.
+Desse modo, forçosa se apresenta a observância do contido no art. 1.021, §1º, do Código de Processo Civil de 2015 e na Súmula 182 do STJ.
+Por fim, cumpre registrar que a determinação de suspensão nacional dos processos relativos a medicamentos não incorporados ao SUS cingiu-se aos feitos que se encontram na fase de recursos especial e extraordinário, não alcançando a presente classe.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+  como voto.
