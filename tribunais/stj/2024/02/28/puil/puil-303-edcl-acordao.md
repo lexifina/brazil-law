@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 22/02/2024 a 28/02/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Mauro Campbell Marques.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. OMISSÃO E ERRO MATERIAL. INEXISTÊNCIA. REDISCUSSÃO DA CONTROVÉRSIA. IMPOSSIBILIDADE. RECURSO REJEITADO.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil. Não há na decisão embargada vício de omissão, contradição ou obscuridade, ou erro material, não se prestando o recurso integrativo para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Não identificada a presença de vício que justifique esclarecimento, complemento ou eventual integração do que foi decidido, a rejeição do recurso é medida que se impõe.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por GERALDO JOSE FERREIRA contra o acórdão da Primeira Seção, de minha relatoria, assim ementado (fls. 232/233):
+PROCESSUAL CIVIL. AGRAVO INTERNO. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. PRETENSÃO DE REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. ADEQUAÇÃO AO JULGAMENTO DO TEMA 942 PELO SUPREMO TRIBUNAL FEDERAL. INCOMPETÊNCIA DO STJ. PROVIMENTO NEGADO.
+1. O pedido de uniformização de interpretação de lei dirigido ao Superior Tribunal de Justiça não se presta ao reexame dos aspectos fáticos, mas apenas para dirimir divergência entre teses jurídicas atinentes ao direito material, quando contrariar súmula ou jurisprudência dominante no Superior Tribunal de Justiça. Daí não ser possível rever o entendimento da Turma Nacional de Uniformização quanto ao vínculo trabalhista e ao regime jurídico ao qual submetido o requerente.
+2. Segundo a jurisprudência desta Corte de Justiça, para o processamento do pedido de uniformização de interpretação de lei, exige-se a realização do cotejo analítico dos precedentes confrontados com o caso em apreciação, por meio da transcrição dos trechos dos acórdãos paradigma e recorrido que identifiquem a similitude fática e a adoção de posicionamento distinto pelo órgão julgador, o que não ocorreu no caso dos autos.
+3. Em conformidade com o art. 14, § 4º, da Lei 10.259/2001, não é possível conhecer de pedido baseado em suposta contrariedade a julgamento proferido pelo Supremo Tribunal Federal.
+4. Agravo interno a que se nega provimento.
+Nas razões do recurso, a parte embargante sustenta que houve (fl. 246):
+(a) erro quanto à conclusão jurídica do acordão emanado pelo juízo ordinário, e os pedidos formulados pelo EMBARGANTE, moldura fática alterada equivocadamente pela TNU;
+(b) erro quanto ao artigo que fundamentou o pedido de uniformização perante esta Corte Superior, amparado não em divergência de acórdãos, mas na aplicação equivocada de lei federal;
+(c) omissão quanto à inexistência de inovação recursal, sobretudo considerado que a necessidade de se invocar o tema munido de repercussão geral apenas se deu após a prolação do acórdão que conheceu os embargos para negar conhecimento ao pedido de uniformização.
+Afirma que "a intenção formulada no pedido de uniformização não cuida de alterar a conclusão fática do acórdão recorrido, mas aplicar-lhe conclusão jurídica diversa, isso porque, independentemente de seu regime, seja privado, seja estatutário - ou até mesmo da natureza do seu ato de migração, voluntário ou não - é merecedor da contagem de tempo diferenciada por ter inequivocamente, trabalhado em condições insalubres" (fl. 248).
+Aduz que o acórdão incorreu em erro, "isso porque, o recurso que postulou a uniformização de entendimento (fls. 120-129 e-STJ), não o fez com amparo no art. 14, §2º, da Lei 10.259/2001 (o que seria equivalente à alínea "c", do inc. III, do art. 105 da CF), mas em relação à aplicação equivocada de texto federal, relativo ao parágrafo 4º, do art. 14 da Lei 10.259/2001, (equivalente à alínea "a" do inc. III do art. 105 da CF)" (fl. 248).
+Defende que "não é hipótese de inovação recursal, isso porque, a necessidade de se invocar tal supedâneo ocorreu apenas na ocasião do desprovimento do pedido de uniformização, para simples amparo probatório" (fl. 248).
+Requer que os embargos sejam acolhidos com efeitos infringentes para se "dar provimento ao pedido de uniformização, considerada a violação à lei federal" (fl. 249).
+Não foi apresentada impugnação segundo a certidão de fl. 259.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. OMISSÃO E ERRO MATERIAL. INEXISTÊNCIA. REDISCUSSÃO DA CONTROVÉRSIA. IMPOSSIBILIDADE. RECURSO REJEITADO.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil. Não há na decisão embargada vício de omissão, contradição ou obscuridade, ou erro material, não se prestando o recurso integrativo para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Não identificada a presença de vício que justifique esclarecimento, complemento ou eventual integração do que foi decidido, a rejeição do recurso é medida que se impõe.
+3. Embargos de declaração rejeitados.
+VOTO
+Conforme dispõe o art. 1.022 do Código de Processo Civil (CPC), os embargos de declaração destinam-se a sanar eventual vício de omissão, obscuridade, contradição ou erro material, não se caracterizando como via própria a um novo julgamento da causa.
+No presente caso, não há omissão ou erro material a ser sanado.
+Ao contrário do que afirma a parte embargante, o acórdão embargado analisou detidamente as razões apresentadas quando da interposição do agravo interno, oportunidade em que concluiu pela impossibilidade de reexaminar os aspectos fáticos considerados nas decisões proferidas pelo Justiça Especial Federal para afastar, de acordo com a situação específica do requerente, o direito pleiteado, em atenção à legislação aplicada à época ao caso concreto dos autos.
+Nesse ponto, cumpre esclarecer que os embargos de declaração servem para corrigir eventuais vícios internos do acórdão , revelando-se descabida qualquer pretensão de sanar omissões ou erros materiais cometidos por outros órgãos jurisdicionais em julgamentos anteriores.
+De igual modo, não há erro material quanto à conclusão pela prescindibilidade da realização do cotejo analítico para comprovação da divergência, pois, conforme dispõe o art. 14, § 4º, da Lei 10.259/2001, "quando a orientação acolhida pela Turma de Uniformização, em questões de direito material, contrariar súmula ou jurisprudência dominante no Superior Tribunal de Justiça -STJ, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência" (destaque nosso).
+No presente caso, o pedido de uniformização dirigido ao STJ está baseado em divergência entre a decisão da Turma Nacional de Uniformização de Jurisprudência, ora recorrida, e jurisprudência deste Tribunal, circunstância que precisa estar devidamente comprovada por meio do cotejo analítico, com a comprovação da similitude fática e os posicionamentos distintos, o que não ocorreu como exposto no acórdão embargado.
+Por fim, no que se refere à invocação, nas razões do agravo interno, do Tema 942 do Supremo Tribunal Federal (STF), destaco a literal pretensão recursal da parte pela "reforma da decisão agravada para realinhar o entendimento dos autos e fazer a devida adequação ao decidido pelo STF no Tema 942" (fl. 218). Tal entendimento, conforme já exarado no voto condutor do aresto, extrapola os limites de atuação do Superior Tribunal de Justiça em pedido de uniformização de jurisprudência, conforme definido no art. 14, § 4º, da Lei 10.259/2001.
+Nesse ponto, cumpre destacar este pertinente trecho do voto condutor do acórdão embargado acerca dos supostos vícios apontados pela parte embargante (fls. 236/576):
+O pedido de uniformização de interpretação de lei dirigido ao Superior Tribunal de Justiça não se presta ao reexame dos aspectos fáticos, mas apenas para dirimir divergência entre teses jurídicas atinentes ao direito material, quando contrariar súmula ou jurisprudência dominante no Superior Tribunal de Justiça. Daí não ser possível rever o entendimento da Turma Nacional de Uniformização quanto ao vínculo trabalhista e ao regime jurídico ao qual submetido o requerente.
+No presente caso, das próprias razões apresentadas no pedido de uniformização é possível constatar a intenção do requerente de questionar o enquadramento fático adotado pela TNU, o que é vedado no âmbito do incidente de uniformização, nos termos da Súmula 7/STJ, aplicada por analogia. A propósito, confiram-se estes julgados:
+ ..
+Ademais, o conhecimento do pedido de uniformização depende da demonstração, pela parte requerente, das circunstâncias que identificam ou assemelham os casos confrontados, com a indicação da similitude fática e jurídica entre eles.
+Exige-se, portanto, a realização do cotejo analítico dos precedentes confrontados com o caso em apreciação por meio da transcrição dos trechos dos acórdãos paradigma e recorrido que identifiquem a similitude fática e a adoção de posicionamento distinto pelo órgão julgador.
+A despeito da transcrição das ementas de precedentes nas razões do pedido de uniformização, a parte requerente não se ocupou de estabelecer o elo de identidade das hipóteses confrontadas que permitisse afirmar a incoerência do julgado atacado com a jurisprudência de outros tribunais. A propósito, confiram-se estes julgados:
+ ..
+Por fim, cumpre destacar que o agravante, nas razões deste agravo interno, inova sua pretensão ao requer a adequação do caso ao julgamento proferido pelo STF no Tema 942 com repercussão geral. Tal providência extrapola os limites de atuação do Superior Tribunal de Justiça em pedido de uniformização de jurisprudência, conforme definido no art. 14, § 4º, da Lei 10.259/2001.
+Ante o exposto, nego provimento ao agravo interno.
+Logo, o inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil (CPC).
+Constato que a parte embargante pretende renovar a discussão sobre questão que já foi decidida de maneira fundamentada, o que não é possível por meio de embargos de declaração.
+O Superior Tribunal de Justiça assim já se manifestou:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. DEVIDO JUÍZO DE ADMISSIBILIDADE RECURSAL.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. "Se o recurso é inapto ao conhecimento, o colegiado não tem como se pronunciar sobre o mérito, de modo que a falta de exame da matéria de fundo não se caracteriza omissão, senão mera decorrência do exercício do devido juízo de admissibilidade recursal". (EDcl no AgInt nos EREsp 1.559.725/PE, Rel. Ministro Og Fernandes, Primeira Seção, DJe 30/8/2017).
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp n. 1.574.004/SE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/3/2021, DJe de 11/3/2021 - sem destaque no original.)
+Ressalto que os embargos de declaração não constituem instrumento adequado à revisão de entendimento já manifestado e devidamente embasado, à correção de eventual error in judicando ou ao prequestionamento de normas jurídicas ou temas que, segundo a ótica da parte recorrente, deveriam guiar ou conduzir a solução do litígio.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
