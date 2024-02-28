@@ -1,0 +1,66 @@
+DECISÃO
+EDIELSON LEOBINO BATISTA SANTOS alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe (Revisão Criminal n. 202300348188).
+Consta dos autos que o paciente foi condenado à pena de 6 anos de reclusão, em regime inicial semiaberto, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Nas razões da impetração, a defesa sustenta o constrangimento ilegal, sob a tese de atipicidade da conduta, por considerar que o ato de solicitar drogas à companheira trata-se de mero ato preparatório, insuficiente para condenação pelo delito de tráfico ilícito de entorpecentes.
+Requer, portanto, a absolvição do paciente.
+O Ministério Público Federal opinou pela concessão da ordem.
+Decido.
+I. Atipicidade da conduta
+Em revisão criminal, o Tribunal de origem manteve a condenação pela prática do crime descrito no art. 33, caput, da Lei n. 11.343/2006, sob os seguintes fundamentos (fls. 25-30):
+No caso concreto, ao contrário do que argumenta o revisionando, o Juízo sentenciante baseou-se nas provas colhidas nos autos, tanto na fase inquisitorial como instrutória, para proferir um juízo condenatório, evidenciando a conduta ilícita do mesmo, capitulada no art. 33 da Lei de Drogas.
+Nessa esteira, convém trazer à baila as razões de seu convencimento, conforme os fundamentos da sentença.
+Vejamos:
+"( ) A materialidade do delito está provada nos autos de forma suficiente, através do auto de apreensão de fl. 18, laudo de constatação da substância entorpecente de fls. 284/287, atestando o caráter entorpecente das substâncias apreendidas.
+A prática de tal conduta restou devidamente comprovada nos autos, não havendo dúvidas, portanto, acerca da materialidade do delito.
+Quanto à autoria do crime, a prova testemunhal carreada aos autos é igualmente suficiente para demonstrá-la em desfavor dos denunciados, bem como a confissão dos acusados. Vejamos alguns depoimentos relevantes:
+KATIA DA SILVA MARIANO, agente penitenciária, aduz que a acusada, ao passar pelo aparelho boriscan, percebeu que a imagem estava suspeita. Com isso, conduziu a acusada até a sala do diretor do PREMABAS, quando a mesma confessou que estava com substâncias entorpecentes (maconha) em sua genitália. Que a visita da acusada era para seu companheiro. Que a acusada já visitava seu companheiro frequentemente.
+JOSÉ RAIMUNDO DE SANTANA, diretor do PREMABAS, que a acusada passou pela revista do boriscan, quando foi detectado algo de anormal na imagem do aparelho.
+Que por conta disso, ela foi levada até sua sala, e a mesma confessou que estava com droga em seu corpo. Foi chamada a agente feminina, e a acusada retirou a droga de seu corpo. Ao ser questionada para quem se destinaria a droga, a acusada informou que seu companheiro havia pedido. Ao chamar o interno em sua cela, este confirmou a versão da acusada. Que eram 110g de maconha, e que por sua experiência, acredita que esta quantidade não era apenas para consumo próprio.
+Durante a instrução criminal as testemunhas de acusação confirmam a veracidade dos fatos narrados na denúncia, estando em conformidade com os apresentados na fase inquisitorial.
+Ademais, as declarações prestadas em sede de procedimento administrativo devem ser levadas em consideração sem nenhum preconceito como prova hábil a embasar um decreto condenatório, máxime se em harmonia com os demais elementos de convicção, principalmente aliadas ao conjunto das provas produzidas na instrução criminal, conforme autoriza em interpretação do art. 155 do Código de Processo Penal. O que é o caso dos autos.
+Ante o demonstrado nos depoimentos, nas circunstancias da apreensão, a quantidade de droga encontrada em poder da acusada TAINÁ ALMEIDA RAMOS, bem como a circunstância sem que a ré foi flagrada, a confissão da mesma, evidencia a ocorrência do delito pelo qual os réus estão sendo denunciados.
+( )
+Como bem comprova a apreensão de todos itens listados no auto de exibição e apreensão de fl. 18, laudo pericial de fls. 284/287, a quantidade é suficiente e enseja a conclusão de que tal quantidade seria destinada não somente para consumo, mas, principalmente, à venda.
+Portanto, no limite da prudência, podemos inferir que, o fato não gira em torno de simples usuário de droga, aliado aos depoimentos colhidos em sede de instrução processual. Além do que, para a configuração do crime de tráfico ilícito de drogas, não é, necessariamente, exigível a prática de atos de comércio, bastando que o agente prepare, fabrique, transporte, possua, guarde, traga consigo ou mantenha a droga em depósito.
+Ainda, quando a alegação da acusada TAINÁ ALMEIDA RAMOS, embasada na afirmação que esta sofreu coação do acusado, entendo que não merece consideração, visto que trata apenas de alegações feitas pela acusada, não se embasando em nenhum material probatório que pudesse confirmar que a ré sofria ameaças do seu companheiro.
+Por todo exposto, entendo que a conduta dos acusados TAINÁ ALMEIDA RAMOS e EDIELSON LEOBINO BATISTA SANTOS se subsume, claramente, portanto, nas situações elencadas no tipo penal previsto no artigo 33, da Lei 11.343/2006. Resta agora analisar o que a doutrina chama de "tráfico privilegiado", definido no §4º do art. 33 da lei 11.343/2006. (..)"
+É cediço que a Revisão Criminal destina-se a corrigir erros judiciários, sendo cabível apenas nas hipóteses elencadas no art. 621 do CPP, in verbis:
+ ..
+Com efeito, transpondo a lição para o caso dos autos, registre-se que, nos termos dos inciso I, do art. 621, do CP, invocado pelo postulante, a Revisão Criminal só pode ser admitida quando realmente a sentença condenatória for contrária ao texto expresso da lei penal ou à evidência dos autos, não servindo, assim, para expressar mera irresignação quanto ao conteúdo decisório proferido, notadamente porque não pode ser utilizada como sucedâneo recursal, ou até mesmo como mais uma oportunidade recursal.
+O cerne da questão, portanto, diz respeito à irresignação do postulante contra a permanência da condenação imposta no comando sentencial fustigado, argumentando ser imprescindível a absolvição.
+Não foi por outro motivo que a douta Procuradoria de Justiça, por meio do Parecer exarado em 06/10/2023, entendeu que deve ser julgado improcedente o pedido revisional, valendo-se dos seguintes fundamentos:
+"( ) Na presente demanda, o requerente invoca a hipótese prevista no inciso I do citado dispositivo legal, de sorte que deve ser verificada a contrariedade do decreto condenatório ao texto da lei ou à evidência dos autos.
+Para que se configure essa hipótese, faz-se necessário que a decisão condenatória ofenda frontalmente alguma norma ou o conjunto das provas constantes dos autos, não sendo suficiente mera divergência interpretativa.
+Nesse passo, quando a decisão adotou um dos entendimentos possíveis diante daquele caso concreto, a demanda revisional não servirá para rediscutir teses e provas já anteriormente analisadas.
+No presente feito, argui-se que não se evidenciou a existência de tráfico por parte do requerente, que apenas solicitou drogas, o que não configuraria o artigo 33 da Lei nº 11.343/06. No entanto, não subsiste fundamentação à defesa, uma vez que o crime de tráfico de entorpecentes se consumou no instante em que a corré ocultou a mencionada substância e ingressou nas instalações do estabelecimento prisional, respondendo à solicitação dirigida pelo recorrente.
+( )
+A sentença condenatória fundamentou-se em outras evidências do ato ilícito que prescindiam da presença física do peticionário junto à substância em questão, sobretudo pelo fato de que ele encontrava- se detido, enquanto a corré foi surpreendida na posse da maconha durante a revista.
+Conforme se depreende, o veredicto se respaldou na confissão do próprio requerente, o qual afirmou ter solicitado à sua companheira, Tainá Almeida Ramos, que transportasse a droga até o interior do estabelecimento prisional.
+Desta forma, a convicção do Magistrado foi embasada em múltiplos elementos de prova contidos nos autos, incluindo a confissão do presente requerente e os depoimentos das testemunhas. Nesse contexto, tratando-se de revisão criminal, não se atribui a incumbência de reexame de provas, mas sim de avaliar se a condenação contradiz o conjunto probatório, o que não se verificou na presente situação. (..)"
+A sentença prolatada pelo Juízo singular, portanto, não merece reparo, uma vez que não estão configurados os motivos preconizados no art. 621 do Código de Processo Penal para a promoção de sua revisão.
+Como se observa, repise-se, pretende o requerente, em verdade, obter nova apreciação da prova dos autos de acordo com seu interesse, como se interpusesse uma apelação criminal para obter nova valoração da matéria apreciada na sentença.
+Reforço, a ação revisional não se presta a tal finalidade.
+Em verdade, o que se vê da sentença proferida é que decorreu da análise do manancial probatório colacionado aos autos, existindo a prova do delito em comento nos exatos termos nela descritos, que certificam que o autor da revisional, de fato, praticou o delito previsto no art. 33 da Lei nº 11.343/2006.
+Não há como considerar, por exemplo, que a oitiva da corré se deu na qualidade de testemunha. Ambos foram interrogados, e as testemunhas ouvidas e compromissadas nos termos da lei, somadas aos demais elementos de prova, serviram de supedâneo ao juízo condenatório.
+Logo, sob qualquer enfoque que se examine a controvérsia dos autos, a improcedência da ação revisional é medida que se impõe.
+Conforme se vê, as instâncias ordinárias consideraram a conduta típica e, por conseguinte, condenaram o réu pelo delito de tráfico de drogas, por ter solicitado à companheira que entrasse no estabelecimento prisional com entorpecentes.
+Entretanto, considero que o ato de solicitar a entrega de substâncias ilícitas configura mero ato preparatório, sem efetivo início do iter criminis e, portanto, impunível.
+Conforme evidenciado na espécie, o entorpecente foi localizado em poder da companheira do réu, no momento da fiscalização pelos agentes penitenciários.
+Nesse sentido, " e sta Corte tem decidido que a mera solicitação, sem a efetiva entrega do entorpecente ao destinatário no estabelecimento prisional, configura, no máximo, ato preparatório e, sendo assim, impunível. Logo, é de rigor a absolvição do ora agravado, em razão da atipicidade de sua conduta, notadamente porque não comprovada a propriedade da droga" (AgRg no REsp n. 1.999.604/MG, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 24/3/2023).
+No mesmo sentido, esta Sexta Turma Criminal já se manifestou:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. ART. 33 DA LEI N. 11.343/2006. NÃO CONFIGURAÇÃO. INEXISTÊNCIA DE ATO DE EXECUÇÃO. ITER CRIMINIS NÃO INICIADO. ATIPICIDADE DA CONDUTA. AGRAVO DESPROVIDO.
+1. Segundo o decidido pelas instâncias ordinárias, a única ação praticada pelo Acusado foi ter solicitado à sua namorada que lhe levasse entorpecentes no presídio em que se encontrava recolhido. Não há notícia, ainda, de que o Réu a tivesse ameaçado, tampouco comprovação de que esse tenha adquirido os entorpecentes. Por outro lado, a entrega da droga não se concretizou.
+2. Tão somente a ação do Acusado de solicitar que fossem levadas drogas, cuja propriedade não se conseguiu comprovar, poderia configurar, no máximo, ato preparatório e, portanto, impunível, mas não ato executório do delito, seja na conduta de "adquirir", a qual se entendeu subsumir a ação, seja nas demais modalidades previstas no tipo. Evidencia-se, portanto, a atipicidade da conduta.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.189.239/MG, Rel. Ministra Laurita Vaz, 6ª T., DJe 23/2/2023, destaquei)
+A propósito, veja-se a manifestação do Ministério Público Federal (fl. 566):
+É consolidada, no âmbito desse Superior Tribunal de Justiça, que a mera solicitação, sem a efetiva entrega da droga ao destinatário no estabelecimento prisional em que se encontra recolhido, configura, no máximo, ato preparatório, devendo ser reconhecida a atipicidade da conduta praticada pelo indivíduo.
+À vista de tais considerações, entendo que assiste razão à defesa, motivo pelo qual deve ser o paciente absolvido, diante da atipicidade formal da conduta, com fulcro no art. 386, III, do CPP.
+Apenas por cautela, explicito que, especificamente no caso dos autos, a conclusão pela absolvição não demanda o revolvimento de matéria fático-probatória, procedimento vedado na via estreita do habeas corpus, de cognição sumária.
+O caso em análise, diversamente, requer apenas a revaloração de fatos incontroversos e das provas que já foram devidamente colhidas ao longo de toda a instrução probatória.
+Depende, ademais, da definição, meramente jurídica, acerca da interpretação a ser dada sobre os fundamentos apontados pelas instâncias de origem para condenar o réu pela prática do crime de tráfico de drogas, vis-à-vis os elementos (subjetivos e objetivos) do tipo penal respectivo.
+II. Dispositivo
+À vista do exposto, concedo a ordem para absolver o paciente, com fundamento no art. 386, III, do CPP.
+Comunique-se, com urgência, o inteiro teor deste decisum às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
