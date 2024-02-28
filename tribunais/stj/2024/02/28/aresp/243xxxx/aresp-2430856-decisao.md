@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo apresentado por SERGIO FIOREZE em ataque à decisão que não admitiu o recurso especial por ele interposto contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 2.973):
+Agravo de instrumento. Inventário. Decisão que deferiu o processamento conjunto dos inventários dos genitores do agravante. Possibilidade de cumulação, ante a dependência de uma das partilhas em relação à outra. Sobrestamento do feito até julgamento final da ação de apuração de haveres, que é prejudicial à partilha de bens. Suspensão que se faz necessária. Alegação de existência de testamento deixado pela falecida mãe do recorrente, deserdando o atual inventariante. Pretensão de afastamento do agravado da inventariança. Descabimento. Efeitos das disposições testamentárias que encontram-se suspensos por decisão judicial. Eventuais irregularidades na administração dos espólios pelo atual inventariante ou existência de dissenso entre os herdeiros podem ensejar sua substituição por inventariante dativo, de modo a viabilizar o processamento e solução regular dos inventários. Decisão mantida. Recurso desprovido.
+Nas razões do recurso especial, o recorrente alegou a ofensa aos arts. 215 e 1864, ambos do Código Civil, ao art. 3º da Lei n. 8.935/1994, e aos arts. 618, 622 e 672, todos do Código de Processo Civil de 2015, sustentando, em síntese, a remoção do inventariante Irineu Arroyo Fioreze da administração do espólio dos genitores, haja vista o não cumprimento do seu ônus de prestação de contas, em que pese a existência de determinação judicial, bem como o inequívoco dissenso com os demais herdeiros.
+Afirmou, ainda, a revogação da determinação de cumulação dos inventários de Irineu Fioreze e Jeni Arroyo Fioreze, bem como a existência de divergência jurisprudencial.
+O Tribunal de origem não admitiu o processamento do recurso especial, o que levou o insurgente à interposição deste agravo.
+Contraminuta apresentada (e-STJ, fls. 3.089-3.100).
+Brevemente relatado, decido.
+Bem examinado o processo, verifica-se que foi informada nos autos a renúncia dos advogados que patrocinavam os interesses do agravante (e-STJ, fls. 3.106-3.107), fato esse do qual teve ele inequívoca ciência (e-STJ, fls. 3.108-3.111).
+Em razão disso, foi determinada a intimação do agravante para que, no prazo de 5 (cinco) dias, regularizasse sua representação processual, sob pena de aplicação da sanção prevista no art. 76 do CPC/2015 (e-STJ, fl. 3.125).
+A intimação pessoal foi adequadamente realizada, conforme se verifica da assinatura do próprio agravante lançada no aviso de recebimento de fl. 3.132 (e-STJ).
+Contudo, decorrido o prazo que lhe foi concedido, não houve nenhuma manifestação, conforme certificado à fl. 3.134 (e-STJ).
+Sobre o tema, assinala-se que o art. 76 do CPC/2015 determina que, verificada a incapacidade processual ou a irregularidade da representação da parte, o juiz suspenderá o processo e designará prazo razoável para que seja sanado o vício. Já o inciso I do § 2º do aludido dispositivo prevê a sanção de não conhecimento do recurso caso a providência caiba ao recorrente e este não a cumpra.
+Assim, considerando a inércia do agravante em relação à irregularidade que foi chamado a sanar, o não conhecimento do recurso é medida que se impõe, nos termos do inciso I do § 2º do art. 76 do CPC/2015.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RENÚNCIA DOS ADVOGADOS DA PARTE AGRAVANTE. INTIMAÇÃO PESSOAL PARA REGULARIZAÇÃO DA REPRESENTAÇÃO PROCESSUAL EFETIVADA. TRANSCURSO DO PRAZO. INÉRCIA DA PARTE RECORRENTE. APLICAÇÃO DA SANÇÃO PREVISTA NO ART. 76, § 2º, I, DO CPC/2015. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
