@@ -1,0 +1,24 @@
+DECISÃO
+LEONARDO SOUZA VIANA alega sofrer constrangimento ilegal em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro (Apelação Criminal n. 0038466-36.2015.8.19.0001).
+Depreende-se dos autos que o acusado foi condenado a 12 anos de reclusão, em regime inicial fechado, mais multa, pelo cometimento dos crimes de tráfico e associação para o tráfico de drogas.
+Neste writ, a defesa pretende a extensão dos efeitos do acórdão proferido pelo Tribunal de origem em relação ao acusado Rubens Gomes Ferreira. Caso assim não se entenda, pede a absolvição do paciente pelo crime de associação para o tráfico.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ.
+Decido.
+Inicialmente, quanto ao pedido de extensão dos efeitos do acórdão impugnado, que absolveu o réu Rubens Gomes Ferreira, é firme salientar, que, "nos termos do disposto no art. 580 do Código de Processo Penal, o pedido de extensão deve ser formulado perante o Juízo ou o Tribunal prolator do julgado cujos efeitos se pretendem estender" (HC 506.818/BA, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 30/8/2019).
+Portanto, "inviável a análise nesta Corte Superior, de pedido de extensão da ordem concedida em habeas corpus impetrado na origem, tendo em vista que a competência para análise de pedido de extensão pertence ao órgão jurisdicional que emitiu a decisão que se deseja ver estendida" (RHC n. 70.232/RJ, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 12/5/2017).
+Nesse sentido:
+ ..  2. Nos termos do art. 580 do Código de Processo Penal, o pedido de extensão deve ser formulado no Juízo ou no Tribunal prolator da decisão cujos efeitos se pretendam estender; logo, por raciocínio lógico, exclusivamente a esse órgão jurisdicional recai a competência legal para decidir sobre o seu deferimento ou não. 3. Agravo regimental improvido. (AgRg no HC n. 511.679/MG, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 2/8/2019)
+Quanto ao pleito de absolvição, o Tribunal de origem manteve a condenação do réu pelo delito de associação para o tráfico, conforme trechos abaixo (fl. 80, grifei):
+Forma-se a tipicidade para o tipo penal através do vínculo estável entre pelo menos dois agentes para a prática dos crimes previstos no caput do referido artigo.
+Indispensável, portanto, para a comprovação da materialidade, o animus associativo de forma estável e duradoura com a finalidade de cometer os crimes referenciados no tipo. E este é o caso dos autos.
+Da simples leitura do caderno probatório, verifica-se que as circunstâncias da prisão dos acusados, presos no interior de uma residência, na posse 1.175gr de cocaína e 3.223g de maconha, acondicionados com inscrições referentes à facção criminosa Comando Vermelho, além de farto armamento pesado, consistente em onze fuzis, uma metralhadora, 12 granadas de mão, vários carregadores para fuzis, e imensa quantidade de munições, demonstram que os réus estavam associados de forma estável entre si.
+Não há a menor possibilidade de haver a eventual comunhão de desígnios característicos da mera coautoria, em comunidade dominada por facção criminosa, no caso, o Comando Vermelho, sem que estejam os agentes associados diretamente com a dita organização.
+Desta feita, não há como negar o animus associativo de forma estável e duradoura entre os ora apelantes para a prática do tráfico de drogas, devendo a condenação pelo delito de associação para o tráfico ser mantida em relação aos réus.
+Considerando a expressão utilizada pelo legislador, de que a associação entre duas ou mais pessoas para o fim de praticar, reiteradamente ou não, qualquer dos crimes previstos nos arts. 33, caput e § 1º, e 34, da Lei de Drogas, a jurisprudência deste Superior Tribunal firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa.
+A propósito, confira-se o seguinte julgado: HC n. 220.231/RJ, Rel. Ministro Rogerio Schietti, 6ª T., DJe 18/4/2016.
+Assim, para a caracterização do delito previsto no art. 35 da Lei de Drogas, é necessário que o animus associativo seja efetivamente provado. Isso porque, se assim não fosse, estaria evidenciado mero concurso de agentes para a prática do crime de tráfico de drogas.
+No caso, as instâncias de origem, após uma análise minuciosa dos elementos fático-probatórios colacionados aos autos, apontaram elementos concretos que efetivamente evidenciam a estabilidade e a permanência exigidas para a configuração de crime autônomo, de maneira que não identifico nenhum constrangimento ilegal pelo qual estaria sendo vítima o paciente nesse ponto.
+Saliento, ademais, que qualquer outra solução que não a adotada pela instância ordinária implicaria o revolvimento do material fático-probatório amealhado ao processo, providência incabível em habeas corpus.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
