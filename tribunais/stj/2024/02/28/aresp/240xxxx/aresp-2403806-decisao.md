@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ALEXSANDER MAICON ASSIS CRUZ contra decisões do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS que inadmitiu o recurso especial.
+Consta dos autos que o agravante foi condenado à pena de 10 anos e 06 meses de reclusão, em regime inicial fechado, além de 933 dias-multa, como incurso no artigo 33, caput, c.c. o art. 40, caput, ambos da Lei n. 11.343/2006 (fls. 387-395).
+Inconformada, a Defesa interpôs apelação criminal perante o Tribunal de origem, que deu parcial provimento ao recurso, para "redimensionar a pena do réu ao patamar de 10 (dez) anos, 02 (dois) meses e 15 (quinze) dias de reclusão, em regime fechado, e 933 dias-multa, calculados à razão de 1/30 do salário-mínimo vigente à época do fato" (fls. 517-559). Eis a ementa do acórdão:
+"APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. ART. 33, CAPUT, C/C ART. 40, III, AMBOS DA LEI Nº 11.343/2006. SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA. MÉRITO. PLEITO DE ABSOLVIÇÃO. IMPOSSIBILIDADE. DEPOIMENTO DOS POLICIAIS E FILMAGENS. PRESUNÇÃO DE VERACIDADE. PEDIDO DE DESCLASSIFICAÇÃO. ART. 28 DA LEI DE DROGAS. INVIABILIDADE. CIRCUNSTÂNCIA OBJETIVA. CONDUTA SOCIAL. PRÁTICA DE CRIME DURANTE O CUMPRIMENTO DE PENA ANTERIOR. VALORAÇÃO NEGATIVA. BIS IN IDEM. INOCORRÊNCIA. CAUSA DE AUMENTO DE PENA. CRIME PRATICADO NAS IMEDIAÇÕES DE ESTABELECIMENTO DE ENSINO. CIRCUNSTÂNCIA OBJETIVA. DOSIMETRIA. PENA-BASE. AUMENTO PROPORCIONAL. 1/8 A INCIDIR NO INTERVALO DA PENA EM ABSTRATO. ALTERAÇÃO DE REGIME INICIAL. REINCIDÊNCIA. MOTIVAÇÃO CONCRETA. MANUTENÇÃO DO REGIME FECHADO. SENTENÇA PARCIALMENTE REFORMADA.
+1. O caráter clandestino de certas infrações, como o tráfico, e o temor de represálias, faz com que os policiais, em grande parte das vezes, sejam as únicas testemunhas dos fatos delituosos.
+Desprezar seus depoimentos seria comprometer a repressão ao crime.
+2. O agente policial, na condição de testemunha, firma compromisso, sob as penas da lei, como qualquer pessoa em igual condição. Ademais, no uso das atribuições inerentes ao cargo exercido, goza de presunção de veracidade e legitimidade. Nesse contexto, os depoimentos harmônicos e convergentes não só entre si, mas com todos os elementos de convicção acostados aos autos, são prova idônea para sustentar o decreto condenatório.
+3. Tratando-se de acusado que comete novo crime durante o cumprimento de pena, em evidente afronta à confiança depositada pelo Estado e às diretrizes da execução penal, é cabível o reconhecimento da conduta social desfavorável, não havendo que se falar em bis in idem.
+4. Demonstrada a traficância nas proximidades de escola, impõe-se o aumento de pena previsto no art. 40, III, da Lei nº 11.343/06, de forma objetiva.
+5. Não há direito subjetivo do réu à adoção de alguma fração específica para cada circunstância judicial, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo supracitado ou mesmo outro valor.
+Referidas frações consistem em parâmetros aceitos pela jurisprudência do STJ, sem caráter obrigatório, mas deve ser adotado critério proporcional pelas instâncias ordinárias. Precedente do STJ.
+6. A reincidência é motivo idôneo para justificar a fixação de regime inicial mais gravoso.
+7. Apelação conhecida e parcialmente provida.
+Sobreveio recurso especial, interposto com fulcro no artigo 105, III, "a" , da Constituição Federal, no qual se alega, em síntese, que houve violação ao art. 386, incisos II, IV, V e VII, do Código de Processo Penal, ao art. 28, caput, da Lei n. 11.343/2006, bem como às Súmulas 718 e 719, ambas do STF (informativo 639/STJ) (fls. 566-580).
+Para tanto , menciona que "A prova produzida nos autos não é suficiente para demonstrar a certeza do comprometimento do recorrente, assim, deve ser o acórdão reformado e o acusado absolvido" (fl. 569).
+Aduz, outrossim, que "os dois policiais afirmaram que participaram da abordagem, mas são contraditórios acerca das abordagens. Além disso, o policial PEDRO entra em contradição quando diz inicialmente que se posicionou para tentar realizar as filmagens e depois afirma que não participou das filmagens" (fl. 572, grifos no original).
+Acrescenta, ademais, que "As evidências comprovam o depoimento do recorrente, que possui passagens antigas como usuário. Além disso, as notas e a quantidade de droga apreendidas com o recorrente não são típicas do delito de tráfico." (fl. 576).
+Diz, também, que "em se tratando de crime cuja pena que deve ser imposta não supera oito anos, deverá ser fixado o regime semiaberto (ou o mais benéfico) para o cumprimento da reprimenda. Aliás, as súmulas 718 e 719 da Súmula do Supremo Tribunal Federal são expressos" (fl. 579).
+Requer, ao final, o provimento do recurso para (fl. 580):
+"a) Seja reformada do r. acórdão para absolver o recorrente dos crimes previstos nos artigos 33, "caput" e artigo 40, inciso III, ambos da Lei 11.343/06, de acordo com o princípio in dubio pro reo ;
+b) Em atenção ao princípio da eventualidade, a desclassificação e absolvição do denunciado no crime tipificado no artigo 33, "caput" e artigo 40, inciso III, ambos da Lei 11.343/06 e a classificação para o de uso próprio;
+c) Em atenção ao princípio da eventualidade, na remota hipótese de manutenção da condenação, seja afastada a causa de aumento prevista no artigo 40, III da lei 11.343/06;
+d) Seja afastamento da negativação da conduta social, uma vez que viola o entendimento consolidado do STJ;
+e) Seja reduzida a pena-base, aplicando a fração de 1/6 para aumento da pena-base em razão da análise desfavorável de cada uma das circunstancia judiciais;
+f) Seja modificado o regime inicial de cumprimento da pena da recorrente para o regime semiaberto"
+Apresentadas as contrarrazões (fls. 589-594), o especial foi inadmitido na origem pela pela aplicação dos óbices das Súmulas 7 e 83, ambas do STJ (fls. 596-598).
+Daí a interposição do presente agravo (fls. 603-612), no qual se requer o provimento do recurso especial.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo desprovimento do agravo (fls. 632-636).
+No caso, a despeito das razões apresentadas, o agravante deixou de rebater, especificamente, o óbice contido na Súmulas 83/STJ.
+Com efeito, o agravante não infirmou, de maneira adequada e suficiente, todas as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a impossibilidade de incidência do referido óbice apontado.
+Quanto ao óbice do Enunciado Sumular n. 83/STJ, caberia ao agravante comprovar, por meio da indicação de precedentes contemporâneos ou supervenientes desta Corte Superior de Justiça, a desarmonia do julgado com a jurisprudência sedimentada, evidenciando, assim, a inaplicabilidade do embaraço indicado pelo Tribunal a quo (AgRg no HC n. 731.937/SP, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 2/5/2022, grifei), o que não ocorreu no caso dos autos.
+Como cediço, nos termos da jurisprudência deste Superior Tribunal, "Para se afastar o óbice contido na Súmula 83/STJ, não basta que se mencione um único julgado, devendo "ser trazidos à colação julgados do Superior Tribunal de Justiça, atuais em relação à decisão agravada, que demonstrem ter o acórdão recorrido adotado entendimento contrário à posição dominante da jurisprudência desta Corte Superior" (AgRg no AREsp n. 1.712.720/TO, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 20/10/2020, DJe de 26/10/2020.).
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Ao recorrente, incumbe demonstrar o equívoco da decisão agravada, sendo imprescindível que impugne todos os óbices por ela apontados de maneira específica e suficientemente demonstrada, nos termos do art. 932, III, do CPC, c/c art. 3º do CPP.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. SÚMULA 182/STJ. AGRAVO REGIMENTAL DESPROVIDO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. A falta de impugnação específica aos fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia.
+2. Presente flagrante ilegalidade a autorizar a concessão de habeas corpus de ofício.
+3. A agravante genérica da calamidade pública, na segunda fase da dosimetria da pena, pressupõe situação concreta de que o agente se prevaleceu da pandemia para a prática delitiva.
+4. Agravo regimental desprovido, mas habeas corpus concedido, de ofício, para excluir a agravante do art. 61, II, j, do Código Penal, com o redimensionamento da pena. (AgRg no AREsp n. 2.225.453/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC. INSURGÊNCIA DESPROVIDA .
+1. A decisão que não admitiu o recurso especial assentou que estaria prejudicado o apelo nobre diante do julgamento do HC 690.320/SP. No entanto, no agravo em recurso especial, a defesa não refutou o referido fundamento.
+2. Deixando a parte agravante de impugnar específica e concretamente os fundamentos da decisão agravada, é de se aplicar o art. 932, III, do Código de Processo Civil e o art. 253, I, do RISTJ.
+3. Agravo desprovido. (AgRg no AREsp n. 2.156.001/SP, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 14/2/2023, DJe de 17/2/2023.)
+Incide, no caso e por analogia, a Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
