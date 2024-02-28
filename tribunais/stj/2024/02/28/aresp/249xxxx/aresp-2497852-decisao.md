@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por MATHEUS DA MATA ROCHA MELLO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE SAÚDE. APLICABILIDADE DO CDC . SÚMULA 608 DO STJ. TRATAMENTO OFF LABEL. POSSIBILIDADE. DANO MORAL. NÃO CONFIGURADO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 186, 927 e 944 do CC e 6º, VI, do CDC, no que concerne à violação da boa-fé contratual pela parte recorrida ao se recusar a fornecer medicamento necessário ao tratamento do ora recorrente, o que configura dano moral na modalidade in re ipsa, trazendo a seguinte argumentação:
+Cinge-se o presente recurso especial a atacar o v. acórdão proferido pelo Egrégio Tribunal de Justiça de Goiás que, desconsiderando o disposto nos artigos 186, 927 e 944 do Código Civil, e 6º, VI, CDC, conheceu da apelação cível, interposta pela ora recorrida, para excluir a sua condenação em danos morais
+ ..
+Nesse passo, convém pontificar que, a recusa no fornecimento do medicamento necessário ao tratamento do recorrente configura responsabilidade objetiva passível de indenização, por violar a boa fé que deve reger os negócios jurídicos, tornando mais penosa a situação do recorrente/segurado.
+Ademais, o que está sob análise é o direito do ser humano que criou para si a expectativa de que o plano cobriria o tratamento no caso de uma situação emergencial. Nesse contexto, é cabível o pleito indenizatório face o indeferimento do pedido administrativo, para autorizar o tratamento médico e fornecimento do medicamento necessário, situação que agrava a condição aflitiva psicológica e de angústia no recorrente.
+ ..
+Desta feita, o descaso da recorrida proporcionou angústia e desgosto ao recorrente e, consequentemente ampliou a sua aflição psicológica, já que, diagnosticado com quadro grave de desregulação imunológica iniciada desde a infância e com risco de óbito, ainda permaneceu na angústia e temor, ao ter que aguardar a autorização para fornecimento da medicação, tendo que ingressar com ação judicial para ter seu direito à saúde resguardado.
+Além disso, é certo que a UNIMED deve atuar calcada na boa-fé, de forma leal, transparente, haja vista que o direito à saúde não pode ser negligenciado devido a cláusulas abusivas, sendo imperiosa a condenação em danos morais.
+ ..
+Nesse diapasão, o acórdão vergastado merece reforma, a fim de restaurar o dano moral estabelecido na sentença, pois, o reconhecimento da recusa injustificada do plano de saúde, por si só, já acarreta a configuração do dano moral na modalidade in re ipsa (fls. 514/517).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, uma vez que a alegação de que o dano moral no caso dos autos é presumido (in re ipsa) não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
