@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de reclamação ajuizada por RUBENS VIEIRA DA SILVA, fundamentada nos arts. 988, I e II, e 999 do CPC, contra decisão proferida pelo Juízo de primeiro grau, no Processo n. 0022790-15.2017.8.09.0144, que não conheceu dos embargos de declaração por aquele opostos .
+Reclamação ajuizada em: 23/2/2024.
+Conclusa ao gabinete em: 26/2/2024.
+O reclamante alega, em síntese, que o Juízo de primeiro grau descumpriu a decisão prolatada pelo STJ no AREsp. 1.806.032/GO. Como consequência, requer seja provida a reclamação para cassar e sustar, d e imediato, "os efeitos do acórdão, que contraria frontalmente súmula do STJ, para que se alinhe aos preceitos estabelecidos". Pugna pela suspensão do processo, "de modo a evitar dano irreparável ocasionado pelo trânsito em julgado do acórdão" (e-STJ fls. 7-8).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Reclamação Constitucional
+Nos termos dos art. 105, inciso I, alínea "f", da Constituição Federal, e 988 do CPC, compete ao STJ processar e julgar originariamente a reclamação para a preservação de sua competência ou para a garantia da autoridade de seus julgados apenas quando objetivamente violados.
+Quanto ao cabimento para garantir a autoridade de suas decisões, segundo a jurisprudência do STJ, pressupõe-se a existência de um comando positivo desta Corte cuja eficácia deva ser assegurada e que tenha sido proferida em processo que envolva as mesmas partes ou que possa produzir efeitos em relação jurídica por elas mantida (AgInt na Rcl 38.236/SP, Primeira Seção, DJe 28/10/2019; AgRg na Rcl 33.823/SP, Terceira Seção, DJe 1º/8/2017 e AgInt na Rcl 28.688/RJ, Segunda Seção, DJe 29/8/2016).
+Nessa situação, o instrumento da reclamação tem por objetivo assegurar que ordens diretas emanadas do STJ não sejam descumpridas pelas instâncias ordinárias, não servindo para a preservação da jurisprudência desta Corte ou como sucedâneo recursal (AgRg na Rcl 29.329/MS, Corte Especial, DJe 3/8/2016; AgInt na Rcl 36.756/MG, Segunda Seção, DJe 23/8/2019 e AgInt na Rcl 37.890/MT, Segunda Seção, DJe 8/10/2019).
+No particular, por meio do julgamento do AREsp 1.806.032/GO, esta Corte decidiu o seguinte:
+"CONHEÇO o agravo para CONHECER parcialmente, e nessa extensão, DAR PROVIMENTO ao recurso especial de RUBENS VIEIRA DA SILVA, com fundamento no 253, parágrafo único, "c" do RISTJ; a fim de anular o acórdão recorrido e determinar a remessa dos autos ao Tribunal de origem para que este se pronuncie, na esteira do devido processo legal, sobre os argumentos deduzidos nos embargos de declaração de e-STJ fls. 731/738" (e-STJ fl. 917 do AREsp 1.806.032/GO).
+Com efeito, em abril de 2021, determinou-se a remessa dos autos ao Tribunal de Justiça do Estado de Goiás, sendo este o órgão competente para reexaminar os embargos de declaração opostos pelo reclamante à época, contra o acórdão que havia julgado a apelação em face da sentença originária.
+Por sua vez, o reclamante apresenta como decisão reclamada a decisão do Juízo de primeiro grau que não conheceu de outros embargos de declaração, com fundamento na intempestividade recursal. Não há descumprimento, portanto, da decisão emanada nos autos do AREsp. 1.806.032/GO.
+No mais, o teor da própria decisão reclamada deixa em evidência que o comando do STJ foi atendido pelo Tribunal de origem em momento anterior, confira-se:
+"Detidamente compulsando os autos, verifico que os embargos declaratórios do ev. 188 são intempestivos. Isso porque, o art. 1.023 do CPC prevê o prazo de 05 dias para oposição do referido recurso.
+No caso dos autos, contudo, os embargos declaratórios referem-se à decisão prolatada no ev. 178, datada de 01/11/2023.
+Assim, como pode ser visto nos evs. 179, 180 e 181, a publicação da decisão objurgada no Diário Eletrônico se daria nos 2 (dois) dias úteis subsequentes aos aludidos eventos, praticados em 01/11/2023.
+Desse modo, a publicação da decisão, bem como o termo inicial do prazo de 05 (cinco) dias para oposição de embargos de declaração (art. 231, inciso VII c/c art. 1.023, caput, ambos do CPC) se deu em 07/11/2023, em decorrência do feriado Nacional de Finados e do ponto facultativo, objeto do Decreto Judiciário nº 4.548/2023 da Presidência do E.TJ/GO.
+Ou seja, o termo final do prazo de apresentação de embargos de declaração em face da decisão do ev. 178 se deu em 13/11/2023, contudo, o recurso em comento somente foi oposto em 20/11/2023 (ev. 188).  ..
+Em decorrência, a REJEITO os presentes embargos declaratórios por serem manifestamente intempestivos.
+Em sequência, e apenas a se evitar maiores delongas acerca de questão já preclusa, esclareço ao executado que não lhe assiste razão quanto ao suposto descumprimento, da decisão proferida pelo STJ, pelo E.TJ/GO.
+Pois, da mera análise à decisão proferida em sede de agravo interno no agravo em recurso especial, constante no ev. 84, restou anulado o acórdão recorrido e determinada a remessa dos autos ao Tribunal de origem para novo pronunciamento, na esteira do devido processo legal, sobre os argumentos deduzidos nos embargos de declaração de e-STJ fls. 731/738.
+E, com a remessa dos autos ao E.TJ/GO, fora atendido o comando do STJ, sendo proferido novo acórdão no ev. 103, o qual transitou em julgado, após o julgamento de novos embargos declaratórios, no ev. 158, resultando no retorno do feito à Comarca de origem (ev. 159).
+Nesse passo, inclusive sem intenção de adentrar ao mérito de decisão já preclusa (ev. 178), mas apenas buscando o correto andamento deste feito, verifico que as alegações repetidamente trazidas pelo executado não prosperam". (e-STJ fl. 11) (grifou-se)
+Consoante o exposto, registra-se o não cabimento da reclamação, a qual, reitera-se, não pode ser utilizada como sucedâneo recursal (AgInt na Rcl 41.077/SP, Segunda Seção, DJe 2/12/2021 e AgInt na Rcl 41.796/RJ, Segunda Seção, DJe 7/12/2021).
+Forte nessas razões, INDEFIRO liminarmente a petição inicial e, em consequência, JULGO EXTINTA a reclamação, sem exame de mérito, com fundamento no art. 34, XVIII, "a", do RISTJ.
+Deixo de fixar honorários advocatícios de sucumbência, tendo em vista que não angularizada a relação processual.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECLAMAÇÃO. USURPAÇÃO DA COMPETÊNCIA DO STJ. NÃO VERIFICADA. PETIÇÃO INICIAL INDEFERIDA. RECLAMAÇÃO EXTINTA SEM RESOLUÇÃO DE MÉRITO.
+1. Para que a reclamação constitucional seja admitida, é imprescindível que se caracterize, de modo objetivo, usurpação de competência deste Tribunal ou ofensa direta à decisão aqui proferida, circunstâncias não evidenciadas nos autos.
+2. Petição inicial indeferida. Reclamação extinta sem resolução de mérito.
