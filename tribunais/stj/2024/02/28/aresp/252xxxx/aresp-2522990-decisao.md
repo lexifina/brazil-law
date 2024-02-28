@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA, fundamentado no art. 105, inciso III, alíneas a e c, da Constituição da República, contra o acórdão prolatado pelo Tribunal de Justiça daquela Unidade Federativa na Apelação n. 5009663-08.2022.8.24.0054/SC.
+Conforme se extrai da leitura da sentença, o Réu foi condenado pelo cometimento do delito previsto inciso I do § 4.º do art. 155 do Estatuto Repressor, às reprimendas de 2 (dois) anos e 8 (oito) meses de reclusão, em regime inicial fechado, e ao pagamento de 11 (onze) dias-multa, no mínimo legal (fls. 358-361).
+Não satisfeita, a Defesa apelou. A Corte a quo deu parcial provimento para afastar a valoração negativa da culpabilidade e reduzir as sanções aos patamares de 2 (dois) anos e 2 (dois) meses de reclusão e 11 (onze) dias-multa, bem como estabelecer o regime inicial semiaberto (fls. 506-511).
+No recurso especial, a parte recorrente alega, além da existência de dissídio jurisprudencial, negativa de vigência ao art. 33, §§ 2.º, alíneas b e c, e 3.º, e 59, ambos do Código Penal, aduzindo que, a despeito de a pena privativa de liberdade imposta ao Réu ser inferior a 4 (quatro) anos de reclusão, laborou em equívoco a Corte de origem ao abrandar o regime inicial, pois o Réu, além de ser reincidente, ostenta maus antecedentes.
+Contrarrazões apresentadas às fls. 537-542. O recurso especial foi inadmitido às fls. 548-550. Houve a interposição de agravo (fls. 558-566).
+No parecer juntado às fls. 616-623, o Ministério Público Federal opinou pelo conhecimento e provimento do agravo.
+É o relatório. Decido.
+O voto condutor do aresto atacado, na parte que interessa, está calcado nas seguintes razões de decidir: "Quanto ao pedido de fixação de regime inicial menos gravoso, denoto que embora o recorrente seja reincidente específico em crimes patrimoniais, bem como tenha sido valorada negativamente uma circunstância judicial em seu desfavor, percebo que a pena fixada é inferior a quatro anos, e embora não permita a fixação do regime mais benéfico, entendo ser prudente a reforma da sentença para que seja aplicado, ao menos, o regime semiaberto, nos termos do art. 33, §2º, "c", e § 3º, do CP" (fl. 510).
+Com efeito, o entendimento adotado no acórdão recorrido está em descompasso com a jurisprudência desta Corte Superior de Justiça, segundo a qual, mesmo nas hipóteses em que a sanção corporal seja definitivamente fixada em patamar igual ou inferior a 4 (quatro) anos de reclusão, é justificada a fixação do regime inicial fechado quando, tal como ocorre na espécie, estão presentes circunstâncias judiciais desfavoráveis (no caso, maus antecedentes) e a reincidência. Ilustrativamente:
+" ..
+1. Malgrado o paciente tenha sido condenado à pena inferior a 4 anos de reclusão, é reincidente e tem como desfavoráveis as circunstâncias judiciais previstas no art. 59 do Código Penal e, por isso, a pena-base foi fixada acima do mínimo legal. Assim, considerando, correta a fixação de regime fechado para cumprimento de pena, nos termos do art. 33, § 2º, "c", e § 3º, do Código Penal e da Súmula 269/STJ.
+ ..
+3. Agravo regimental desprovido." (AgRg no HC n. 846.435/SP, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 9/10/2023, DJe de 16/10/2023.)
+" ..
+2. Fixou-se o regime fechado, de acordo com orientação jurisprudencial desta Corte que "admite a fixação do regime inicial fechado ao réu reincidente cuja pena de reclusão é inferior a 4 anos e em que a pena-base foi fixada acima do mínimo legal" (AgRg no HC n. 659.212/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 25/5/2021, DJe 1º/6/2021).
+3. Agravo regimental desprovido." (AgRg no HC n. 777.708/SP, relator Ministro JESUÍNO RISSATO (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+Ante o exposto, CONHEÇO do agravo para CONHECER e DAR PROVIMENTO ao recurso especial, a fim de restabelecer o regime inicial fechado.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. FURTO SIMPLES. CIRCUNSTÂN CIAS JUDICIAIS DESFAVORÁVEIS E REINCIDÊNCIA. REGIME INICIAL FECHADO. CABIMENTO. AGRAVO CONHECIDO PARA CONHECER E DAR PROVIMENTO AO RECURSO ESPECIAL.
