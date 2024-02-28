@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de conflito negativo por iniciativa do Juízo de Direito da Vara Regional Empresarial de Novo Hamburgo, Estado do Rio Grande do Sul, que processa a falência de INDEAL - Consultoria em Mercados Digitais Ltda. e outros, em face do Juízo de Direito da 2ª Vara Cível de Araranguá, Estado de Santa Catarina, a quem distribuída ação de rescisão contratual c/c restituição de valores proposta por Tarcila Freitas Coelho, que visa ao recebimento de danos materiais e morais em virtude de aporte financeiro mediante contrato de prestação de serviços de gerenciamento de compra e venda de ativos criptográficos, no valor histórico de R$ 20.000,00 (vinte mil reais), os quais pretende reaver via rescisão do ajuste e a desconsideração da personalidade jurídica.
+O Juízo catarinense acolheu pedido das partes para remessa do feito para o Juízo falimentar (fls. 551/552).
+O Juízo gaúcho suscitou o presente conflito ao argumento de que a condenação pleiteada é ilíquida, que não sujeita à vis attractiva do juízo universal da falência, nos termos do art. 6º, § 1º, da Lei 11.101/2005 (fls. 720/722).
+O Ministério Público Federal ofereceu parecer às fls. 729/737, opinando pela competência do Juízo suscitado.
+Assim delimitada a questão, verifico que a matéria discutida nos autos já foi, reiteradamente, decidida por esta Corte que entendeu que, "com a edição da Lei. 11.101/05, respeitadas as especificidades da falência e da recuperação judicial, é competente o juízo universal para prosseguimento dos atos de execução, tais como alienação de ativos e pagamento de credores, que envolvam créditos apurados em outros órgãos judiciais (..)" (Segunda Seção, CC 110.941/SP, Rel. Ministra Nancy Andrighi, DJe de 1º.10.2010).
+Tal entendimento tem como finalidade dar efetividade aos princípios norteadores do instituto da recuperação judicial, notadamente ao disposto no art. 47 da Lei 11.101/2005, segundo o qual "a recuperação judicial tem por objetivo viabilizar a superação da situação de crise econômico-financeira do devedor, a fim de permitir a manutenção da fonte produtora, do emprego dos trabalhadores e dos interesses dos credores, promovendo, assim, a preservação da empresa, sua função social e o estímulo à atividade econômica".
+Desse modo, são, pois, incompatíveis os atos de execução proferidos por outros órgãos judiciais de forma simultânea com o curso da recuperação ou da falência da empresa devedora.
+Nesse sentido são, dentre outros, os seguintes acórdãos: Segunda Seção, CC 111.074/DF, Rel. Ministro Paulo de Tarso Sanseverino, DJe de 4.10.2010; e AgRg no CC 110.287/SP, Rel. Ministro João Otávio de Noronha, DJe de 29.3.2010.
+Ocorre que, no presente caso, não se cuida de execução ou de atos constritivos preparatórios para execução, mas de ação de conhecimento na qual a autora, Tarcila Freitas Coelho, pretende a restituição do aporte corrigido em virtude da rescisão do contrato de gerenciamento de compra e venda de criptomoedas, de modo que deve a causa, segundo a jurisprudência desta Corte, ter trâmite regular perante a Justiça comum até a apuração do crédito. Como exemplo, os precedentes a seguir:
+RECUPERAÇÃO JUDICIAL. AÇÃO CONTRA A RECUPERANDA. QUANTIA ILÍQUIDA. PROSSEGUIMENTO. JUÍZO COMPETENTE.
+1 - O juízo da recuperação judicial não é competente para a ação ordinária em que se postula quantia ilíquida contra a empresa recuperanda.
+2 - Só há falar em juízo universal na recuperação para os créditos, líquidos e certos (leia-se classe de credores), devidamente habilitados no plano recuperatório e por ela abrangidos.
+3 - Na recuperação não há quebra e extinção da empresa, pois continua ela existindo e executando todas as suas atividades, não fazendo sentido canalizar toda e qualquer ação da recuperanda ou contra ela para o juízo da recuperação.
+4 - Conflito conhecido para declarar competente o Juízo Federal da 4ª de Campina Grande SJ/PB, suscitante.
+(Segunda Seção, CC 107.395/PB, Rel. Ministro FERNANDO GONÇALVES, unânime, DJe de 23.11.2009)
+PROCESSO CIVIL. CONFLITO DE COMPETÊNCIA, ENTRE O JUÍZO DA AÇÃO ORDINÁRIA DE CUMPRIMENTO DE OBRIGAÇÃO DE FAZER (JUÍZO DE DIREITO DA VARA DO 1º OFÍCIO DE PORTO CALVO, ALAGOAS) E O JUÍZO DA RECUPERAÇÃO JUDICIAL (JUÍZO DE DIREITO DA 3ª VARA CÍVEL DE RECIFE, PERNAMBUCO).
+1. Nos termos do art. 100, IV, "d", do Código de Processo Civil, a competência para processar e julgar a ação que exigir o cumprimento de obrigação contratual é do Juízo do lugar onde esta deve ser satisfeita. Precedentes jurisprudenciais.
+2. A Lei nº 11.101/2005, no seu art. 6º, § 1º, afasta a competência do Juízo da Recuperação Judicial para as ações de conhecimento que demandem quantia ilíquida.
+3. Antecipação de tutela pelo Juízo onde se processa a ação ordinária de cumprimento de obrigação de fazer, determinando o corte, carregamento, transporte e moagem de cana-de-açúcar, após o que deverá ser encaminhado ao Juízo da recuperação o resultado financeiro.
+4. Procedência parcial do conflito.
+5. Prejudicados os embargos de declaração.
+(Segunda Seção, CC 108.975/PE, Rel. Ministro VASCO DELLA GIUSTINA  Desembargador convocado do TJRS , unânime, DJe de 15.2.2011)
+Em face do exposto, conheço do conflito para declarar competente o Juízo de Direito da 2ª Vara Cível de Araranguá, SC.
+Comunique-se. Intimem-se.
+EMENTA
