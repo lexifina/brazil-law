@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CALIXTO ANTONIO CECYN JUNIOR LIMITADA, em face da decisão que indeferiu liminarmente os embargos de divergência em razão de sua intempestividade.
+Em suas razões, sustenta a parte embargante que:
+Conforme se depreende da decisão objeto dos presentes embargos, publicada em 25 de outubro de 2023, a contagem do prazo para interposição dos Embargos de Divergência teve início no primeiro dia útil subsequente à data da publicação da decisão, conforme previsão legal, qual seja, 26 de outubro de 2023.
+Entretanto, necessário se faz observar que no período de contagem do prazo para interposição dos Embargos de Divergência, ocorreram feriados e ponto facultativo neste Colendo Superior Tribunal de Justiça, que impactaram diretamente na contagem do prazo legal.
+Em especial, destaca-se os feriados dos dias 20/10/2023 (Dia da Consciência Negra, Lei 12.519/2011, Decreto nº 44.145 de 19 de janeiro de 2023), 02/11/2023 (finados) e 15/11/2023 (independência), considerados feriados.
+Ademais, o Superior Tribunal de Justiça estabeleceu, no dia 01/11/2023, ponto facultativo.
+Assim, considerando que o prazo para interposição dos Embargos de Divergência é de 15 dias úteis e que houve a ocorrência de feriados e ponto facultativo neste Colendo Superior Tribunal de Justiça durante a contagem do referido prazo, resta claro que a apresentação da presente petição em ocorreu dentro do prazo legalmente estabelecido, não havendo qualquer violação quanto à tempestividade dos embargos. (fl. 1.769).
+Alega nulidade absoluta das decisões proferidas nos presentes autos em razão da conexão com o AREsp n. 2.289.877/SC, uma vez que "visando sanar o vício, presente desde a distribuição do feito ao STJ, o Embargante requereu ao juízo a retirada de pauta para julgamento conjunto dos autos, pedido este que restou prejudicado pelo julgamento colegiado do AREsp 2.289.877/SC" (e-STJ fl. 1.768).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios, manifestando-se às fls. 1.774/1.779 (e-STJ).
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Consoante explicitado na decisão embargada, os embargos de divergência foram interpostos após o prazo legal de 15 (quinze) dias úteis, restando evidenciada sua intempestividade.
+No caso dos autos, a parte foi intimada em 25/10/2023 e o prazo começou a fluir em 26/10/2023. Devidamente excluídos da contagem os feriados dos dias 1, 2 e 15 de novembro de 2023 , o prazo finda em 20/11/2023. O recurso de embargos de divergência foi interposto em 21/11/2023, portanto manifestamente intempestivo.
+Quanto à alegação de nulidade das decisões proferidas nos presentes autos em razão da conexão com o AREsp n. 2.289.877/SC, não deve prosperar. Veja-se que o pedido acerca da necessidade de julgamento conjunto dos recursos em razão da conexão restou prejudicado, conforme decisão de fls. 1.677/1.678 (e-STJ).
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe 28/8/2014.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
+ EMENTA
