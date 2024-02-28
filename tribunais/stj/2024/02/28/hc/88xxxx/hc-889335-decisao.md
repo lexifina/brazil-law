@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de JADERSON RIBEIRO DE ALMEIDA OLIVEIRA contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado em 1ª instância à pena de 6 anos e 3 meses de reclusão, em regime fechado, mais o pagamento de 625 dias-multa, pela prática do delito descrito no art . 33, caput, da Lei n. 11.343/06 (e-STJ, fls. 12-35). Em seguida, o Juízo a quo rejeitou os embargos de declaração, mas declarou de ofício erro material, negando ao acusado o direito de recorrer em liberdade.
+Irresignada, a Defesa impetrou habeas corpus perante a Corte Estadual, sendo a ordem denegada. Eis a ementa:
+"Habeas Corpus. Tráfico de drogas. Alegação de excesso de prazo para remessa do apelo defensivo a esta Corte. Recurso já recebido no Tribunal, e que se encontra em processamento regular. Impetração prejudicada, nessa parte.
+Pedido para recorrer em liberdade. Manutenção da prisão preventiva suficientemente justificada.
+Presença dos requisitos legais autorizadores da prisão que se reforça coma prolação de sentença condenatória. Custódia que se justifica para garantia da ordem pública, face a gravidade concreta do delito (tráfico de expressiva quantidade de maconha) e a periculosidade do agente (recentemente condenado noutro feito por associação ao tráfico).
+Constrangimento ilegal não caracterizado. Impetração parcialmente prejudicada, denegada a ordem no restante." (e-STJ, fl. 42)
+Neste writ, alega o impetrante, em síntese, ausência dos requisitos para manutenção da medida extrema. Pugna, ao final, pela revogação da prisão preventiva, com expedição de alvará de soltura, a fim de que o paciente possa recorrer em liberdade.
+O pleito liminar foi indeferido à fl. 1.795 (e-STJ).
+Após as informações terem sido prestadas (e-STJ, fls. 1.801-1.892 e 1.893-1.932), o Ministério Público Federal manifestou-se pelo não conhecimento do writ e, se conhecido, pela denegação da ordem (e-STJ, fls. 1.934-1.937).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+No caso dos autos, primeiramente, a sentença condenatória afirmou que "os réus não se encontram presos por este feito, podend o recorrer nesta condição, caso desejem" (e-STJ, fl. 35). Por ocasião dos embargos de declaração, o Juízo a quo declarou de ofício que
+"Ainda, quanto aos corréu JADERSON RIBEIRO DE ALMEIDA OLIVEIRA,WALMIR JÚNIOR TORAL BARBOSA, MICHELE LIMA DA SILVA, ELTON RODRIGUESDA CRUZ, condenados nestes autos, verifico que também se encontram presos preventivamente pelo fato julgado nestes autos, pois também tiveram a prisão preventiva decretada na decisão proferida nos autos 1502297-37.2021.8.26.0270, com cópias juntadas às fls. 389/401.
+Ante o exposto DECLARO de ofício o erro material constante da sentença na parte em que consta que referidos réus não se encontram presos por este processo para o fim de constar que os réus ERIC RAFAEL TELES DE OLIVEIRA, JADERSON RIBEIRO DE ALMEIDA OLIVEIRA, WALMIR JÚNIOR TORAL BARBOSA, MICHELE LIMA DA SILVA, ELTON RODRIGUES DA CRUZ, encontram-se sim, presos por este processo, e nego-lhes o direito de recurso em liberdade." (e-STJ, fl. 38)
+O Tribunal local, por sua vez, consignou que "a vedação ao direito de recorrer em liberdade encontra-se suficientemente fundamentada e deve ser mantida, até porque ausente comprovação de fatos novos capazes de alterar esse panorama" (e-STJ, fl. 46). O acórdão impugnado ressalta, ainda, que "JADERSON restou recentemente condenado nos autos nº 1501506-68.2021.8.26.0270 pela prática de associação ao tráfico (cf. consulta ao e-SAJ)" 9e-STJ, fl. 45).
+Esta Corte Superior de Justiça possui entendimento no sentido de que a manutenção da segregação cautelar, quando da sentença condenatória, não requer fundamentação exaustiva, desde que o acusado tenha permanecido preso no curso do processo e a anterior decisão esteja fundamentada, como na presente hipótese.
+Cito precedentes nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. SENTENÇA CONDENATÓRIA. NEGADO O DIREITO DE RECORRER EM LIBERDADE. AGRAVANTE MULTIREINCIDENTE. RÉU QUE PERMANECEU PRESO DURANTE TODA INSTRUÇÃO CRIMINAL. FUNDAMENTAÇÃO IDÔNEA. INCABÍVEL A SUBSTITUIÇÃO POR OUTRAS MEDIDAS CAUTELARES MAIS BRANDAS. AGRAVO DESPROVIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. Para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria. Exige-se, mesmo que a decisão esteja pautada em lastro probatório, que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Julgados do STF e STJ.
+3. A prisão preventiva está devidamente justificada, visando a garantia da ordem pública, pois trata-se de agravante multireincidente, tendo sido condenado em definitivo em diversos processos. Precedentes.
+4. Além disso, o entendimento adotado pelas instâncias ordinárias alinha-se à jurisprudência desta Corte, firme de que, tendo o réu permanecido preso durante todo o andamento da ação penal, não faria sentido, ausentes alterações nas circunstâncias fáticas, que, com a superveniência da condenação, fosse deferida a liberdade.
+Precedentes.
+5. Incabível a substituição por outras medidas cautelares mais brandas.
+6. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 873.849/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO. SENTENÇA CONDENATÓRIA. MANUTENÇÃO DA PRISÃO PREVENTIVA. MERA AFIRMAÇÃO DE QUE O PACIENTE PERMANECEU PRESO DURANTE A INSTRUÇÃO. FUNDAMENTAÇÃO INSUFICIENTE.
+1. Hipótese em que o juízo sentenciante fundamentou a manutenção da custódia preventiva na sentença com esteio apenas no fato de o réu ter permanecido preso durante a instrução.
+2. Esta Corte Superior de Justiça tem entendimento no sentido de que a manutenção da segregação cautelar, quando da sentença condenatória, não requer fundamentação exaustiva, sendo suficiente a afirmação de que "continuam presentes os motivos que levaram à decretação da prisão preventiva", desde que aquela anterior decisão esteja, de fato, fundamentada, como ocorreu na espécie sub judice (AgRg no HC n. 790.101/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/3/2023, DJe de 24/3/2023).
+3. Agravo regimental desprovido.
+(AgRg no RHC n. 165.373/PA, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 14/8/2023, DJe de 17/8/2023.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
