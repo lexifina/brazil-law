@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar, impetrado em favor de ROBSON LUCAS LOPES DE LIMA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Autos nº 0011600-82.2023.8.26.0496).
+O recurso apresentado pela defesa foi desprovido por meio de acórdão assim ementado (e-STJ fl. 19):
+Decisão fundamentada Inocorrência de prejuízo- Benefício indeferido pelo não preenchimento do requisito subjetivo Ausência de méritos do sentenciado Sentenciado que não possui valores éticos e morais necessários ao bom convívio social Prematura e temerária a concessão do benefício Em matéria de execução criminal vigora o princípio "in dubio pro societate".
+Decisão mantida -
+Recurso desprovido.
+A defesa alega, em síntese, a existência de direito à obtenção do benefício de livramento condicional.
+É o relatório.
+Decido.
+"Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado." (AgRg no HC 832409 / MG, RELATOR Ministro RIBEIRO DANTAS, QUINTA TURMA, DATA DO JULGAMENTO 18/12/2023, DATA DA PUBLICAÇÃO/FONTE DJe 20/12/2023)
+A Corte local assim fundamentou a controvérsia (e-STJ fls. 85-87):
+Verifica-se que o sentenciado foi condenado ao cumprimento de expressiva pena privativa de liberdade por prática de crime grave, praticado com violência e grave ameaça contra a pessoa, demonstrando que possui comportamento social deformado e
+periculosidade considerável.
+Ademais, as justificativas legais para que obtivesse o livramento condicional, nos termos da argumentação da defesa, seriam o de ter cumprido o tempo mínimo de pena exigível e bom comportamento carcerário, o que, nada mais é do que uma obrigação de todo condenado e nem deveria ser apresentado como credencial, como costumeiramente acontece.
+Além disso, possui considerável pena a cumprir, com término de cumprimento de pena previsto apenas para 04/05/2030.
+Outrossim, pelo Boletim Informativo (fls. 21), verifica-se que o agravante praticou diversas faltas graves durante o cumprimento da pena, indicando que não vem assimilando a terapêutica penal.
+Por fim, como bem destacou o órgão ministerial, corroborado pelo ilustre Procurador de Justiça, o exame criminológico foi favorável apenas à concessão da progressão de regime, mas desfavorável para o benefício ora pleiteado: "Logo, por todos estes aspectos, em especial, a gravidade do crime praticado e a prática de falta grave anterior, necessária é a realização de EXAME CRIMINOLÓGICO para a aferição do requisito subjetivo para o livramento condicional. E a exigência de exame criminológico no caso em tela decorre do disposto no artigo 83, parágrafo único, do Código Penal, na medida em que o sentenciado cumpre pena por ter praticado crime de roubo majorado." (C. Razões, fls. 300).
+A fundamentação esposada pela corte de origem se coaduna com a pacífica jurisprudência deste STJ no sentido de que "A valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal". " (Tema Repetitivo 1161)
+De fato, constatada a existência de faltas graves no período de cumprimento de pena, assim como a existência de exame criminológico indicativo da inadequação momentânea do benefício, não há de se falar em desconformidade com a jurisprudência desta corte.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. AUSÊNCIA DO REQUISITO SUBJETIVO. EXAME CRIMINOLÓGICO. LAUDO INCONCLUSIVO COM APONTAMENTOS NEGATIVOS. AGRAVO IMPROVIDO.
+1. As instâncias ordinárias indeferiram o pedido de livramento condicional por entender ausente o requisito subjetivo, tendo em vista avaliação desfavorável do diretor da penitenciária, em que foram destacadas diversas faltas disciplinares. Foi pontuado que, embora as faltas tenham sido reabilitadas, consta no Boletim Informativo "apontamento de que o agravante possui envolvimento com facção criminosa". Ademais, do laudo do exame criminológico, constou elementos negativos, indicando ausência de assimilação da terapia penal e comportamento incompatível com o benefício pretendido.
+2. Consoante o disposto no art. 83 do Código Penal, c/c o art. 131 da Lei de Execução Penal, para que seja concedido o benefício do livramento condicional, devem ser preenchidos os requisitos de natureza objetiva (lapso temporal) e subjetivo ("bom comportamento durante a execução da pena; não cometimento de falta grave nos últimos 12 meses; bom desempenho no trabalho que lhe foi atribuído;
+aptidão para prover a própria subsistência mediante trabalho honesto").
+3. Nesse contexto, ainda que o exame criminológico tenha sido inconclusivo, o indeferimento do pedido encontra-se fundamentado e em harmonia com a jurisprudência desta Corte, pois "O exame criminológico não vincula o magistrado, que deverá formar sua convicção após a análise de todos os elementos constantes dos respectivos autos". (HC n. 372.954/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 2/2/2017, DJe de 10/2/2017.) 4. Agravo regimental improvido.
+(AgRg no HC 847290 / SP, RELATOR Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), SEXTA TURMA, DATA DO JULGAMENTO 11/12/2023, DATA DA PUBLICAÇÃO/FONTE DJe 15/12/2023)
+Ante ao exposto, não conheço do habeas corpus.
+Dê-se vista ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
