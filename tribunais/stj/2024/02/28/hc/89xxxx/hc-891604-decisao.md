@@ -1,0 +1,10 @@
+DECISÃO
+VINICIUS GOMES CARDOSO busca a extensão dos efeitos da decisão proferida no HC n. 882.167/MG, com fulcro no art. 580 do CPP.
+A inicial deve ser recebida como petição e, após decisão que passo a proferir, a Secretaria deve providenciar sua juntada ao habeas corpus correspondente.
+O paciente do HC n. 882.167/MG se insurgiu contra a manutenção da prisão preventiva após a sentença. Constou da decisão concessiva da ordem que, embora existisse justificativa para a garantia da ordem pública, consideradas as condições subjetivas favoráveis do réu, primário e sem antecedentes, o modo de execução do roubo (concurso de agentes e emprego de simulacro de arma de fogo), por si só, é insuficiente para a escolha da cautela extrema. Por tal motivo, a ordem foi deferida para substituir a prisão preventiva de Caio Vinicius por cautelares menos severas.
+O ora requerente também é primário, não possui registros criminais e foi condenado pelos mesmos fatos, sem participação diferenciada no roubo. Constatada a identidade fático-processual entre os réus e os motivos objetivos da decisão concessiva do habeas corpus, é de rigor a aplicação do art. 580 do CPP.
+À vista do exposto: recebo o habeas corpus como petição a ser cadastrada e juntada no HC n. 882.167/MG e, com lastro no art. 580 do CPP, defiro a extensão da decisão concessiva do habeas corpus a Vinícius Gomes Cardoso.
+A prisão preventiva do requerente também deve ser substituída pelas seguintes providências cautelares: a) proibição de manter contato com o corréu, por qualquer meio; b) proibição de se ausentar da comarca sem prévia autorização judicial e c) comparecimento periódico em juízo, no prazo e nas condições fixadas pelo juiz, para informar e justificar atividades, sem prejuízo de outras medidas que o prudente arbítrio do Juízo natural da causa indicar cabíveis e adequadas.
+Alerte-se o sentenciado de que a violação das medidas impostas poderá acarretar o restabelecimento da prisão provisória, a qual também poderá ser novamente aplicada se sobrevier situação que configure a exigência da cautelar mais gravosa.
+Publique-se e intimem-se.
+ EMENTA
