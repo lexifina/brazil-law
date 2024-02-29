@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por GIRLEI DE NADJA DA SILVA contra decisão por mim proferida, às e-STJ fls. 430/436, em que conheci parcialmente do recurso especial e, nessa extensão, neguei-lhe provimento, afastando a alegação de nulidade do acórdão recorrido por negativa de prestação jurisdicional, além de, no mérito, aplicar o óbice da Súmula 83 do STJ.
+Aponta contradição no julgado ora combatido, "já que aplicado na origem o disposto no art. 85, 3º do CPC e o TEMA 1.076, não podendo o E. STJ, sem manejo de recurso próprio pela PFN, alterar o acórdão para, em prejuízo à parte recorrente (reformatio in pejus), aplicar a verba honorária por equidade do § 8º do art. 85 do CPC, devendo ser sanada contradição, sob pena de reformatio in pejus." (e-STJ fl. 441)
+Diz omissa a decisão monocrática "sobre a aplicação do parágrafo único do art. 338 do CPC, hipótese de exclusão da parte ilegítima no feito, quando a então a verba honorária será fixada, independentemente de ser autor particular ou pessoa de direito público, no mínimo de três por cento" (e-STJ fl. 441).
+Aduz, ainda, que "deverá ser sanada omissão também quanto aplicação do art. 87 do CPC, pois apenas das sete partes envolvidas no processo apenas duas partes foram excluídas do polo da execução de R$ 68.728.133,78, não podendo a verba ser calculado em 1/7 já que apenas 2 partes foram vencedoras" (e-STJ fl. 442).
+Sem apresentação de resposta.
+Passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material na decisão.
+No caso, não ocorreu nenhum dos vícios supracitados.
+Os vícios invocados pela parte embargante manifestam o seu inconformismo com o julgado decisum embargado e repisam argumentos dantes suscitados, objetivando a modificação do aludido julgado, desiderato inadmissível em sede de embargos declaratórios.
+Nesse sentido, transcrevo precedente desta Corte Superior:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL. CONFIGURADO. AUSÊNCIA DE OMISSÃO. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso, não se constata a omissão alegada pela parte embargante, que busca rediscutir matéria devidamente examinada na decisão embargada, o que é incabível nos embargos declaratórios.
+3. Embargos de declaração parcialmente acolhidos, para sanar erro material.
+(EDcl no AgInt nos EDcl no AREsp n. 1.960.434/PR, Relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022).
+No caso concreto, observa-se que a instância ordinária entendeu que "sob outra perspectiva, restritas as teses vinculantes à aplicação da equidade, e respeitados os parâmetros do art. 85, § 3º, do CPC na quantificação dos honorários advocatícios devidos pela União/Fazenda Nacio nal, caberá ao patrono do agravante apenas a fração desse total, considerando a quantidade de litisconsortes." Destacou-se, ainda, que "a exclusão do coexecutado do polo passivo não tornou insubsistente a dívida, que continua a ser cobrada judicialmente dos demais devedores, não se justificando a condenação em honorários advocatícios em percentual sobre o valor total atualizado da causa (e-STJ fl. 182).
+Assim, não se verifica o vício apontado, pois a decisão embargada está clara no sentido de que o Tribunal regional não divergiu da jurisprudência desta Corte Superior, fixada pela Primeira Turma (REsp 1.822.840/SC), segundo a qual, nos casos em que o acolhimento da pretensão não tenha correlação com o valor da causa, ou não permita estimar eventual proveito econômico, os honorários de sucumbência devem ser arbitrados por apreciação equitativa, com observância dos critérios do § 2º do art. 85 do CPC/2015, conforme disposto no § 8º desse mesmo dispositivo.
+Ponderados esses elementos, constato que a insurgência da embargante não diz respeito a eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, possuindo (aquela) caráter meramente infringente e, por isso, sendo de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Entretanto, sopesando a boa-fé objetiva, não considero esses primeiros aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Com essas considerações, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
