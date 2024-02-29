@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o JUÍZO FEDERAL DA 3ª VARA DE GUARULHOS - SJ/SP, o suscitante, e o JUÍZO DA VARA FEDERAL DE POÇOS DE CALDAS - SJ/MG, o suscitado.
+O Juízo Federal da Vara de Poços de Caldas - SJ/MG, no qual foi ajuizada a execução fiscal, declinou da competência para o processamento do feito, sustentando, em essência, que o executado possui domicílio em Guarulhos-SP;
+Por seu turno, o Juízo Federal da 3ª Vara de Guarulhos - SJ/SP, ora suscitante, defendeu que "da análise de doc. 5 verifico que o endereço atual constante dos órgãos oficiais como sendo do executado é a Rua dos Previatos, 155, Jd. Panorama, Andradas  MG, CEP: 37795-000, o mesmo da inicial, não havendo qualquer indício de que o endereço eleitoral em Guarulhos seja o endereço efetivo do executado no momento da propositura da ação, que torna prevento o juízo" (e-STJ fl. 10).
+O Ministério Público Federal opina pelo conhecimento do conflito para declarar competente o juízo suscitado (e-STJ fls. 57/60).
+Passo a decidir.
+O art. 34, XXII, do RISTJ permite ao relator "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Dito isso, entendo que assiste razão ao suscitante.
+Os autos, na origem, tratam de execução fiscal proposta pela Fazenda Nacional para a satisfação dos créditos constantes da CDA acostada à exordial.
+Cumpre observar que, em razão da competência territorial ser relativa, o juízo da execução não pode dela declinar, de ofício, como já sedimentado na Súmula 33 do STJ, que estabelece: "A incompetência relativa não pode ser declarada de ofício." De outra parte, suposta posterior mudança de domicílio do executado não desloca a competência já estabelecida, nos termos da Súmula 58 do STJ.
+Nesse sentido:
+CONFLITO DE COMPETÊNCIA. EXECUÇÃO FISCAL. DOMICÍLIO DO DEVEDOR. COMPETÊNCIA TERRITORIAL. INCOMPETÊNCIA RELATIVA NÃO PODE SER DECLARADA DE OFICIO. SÚMULA 33/STJ. AUSÊNCIA DE EXCEÇÃO DE INCOMPETÊNCIA. SÚMULA 58/STJ.
+1. O foro competente para o ajuizamento da execução fiscal será o domicílio do réu, consoante a disposição contida no artigo 578, caput, do Código de Processo Civil. Por se tratar de competência relativa, a competência territorial não pode ser declarada ex officio pelo Juízo. Esse entendimento se consolidou com a Súmula 33 do Superior tribunal de Justiça, in verbis: "A incompetência relativa não pode ser declarada de ofício."
+2. Na hipótese de execução fiscal proposta fora do domicílio do devedor, compete exclusivamente ao executado se valer da exceção de incompetência, para afastar a competência de Juízo relativamente incompetente.
+3. Ademais, a posterior mudança de domicílio do executado não influi para fins de alteração de competência, conforme teor da Súmula 58 do Superior Tribunal de Justiça, in verbis: "Proposta a execução fiscal, a posterior mudança de domicílio do executado não desloca a competência já fixada." 4. Conflito de competência conhecido para declarar a competência do Juízo Federal de Sinop - SJ/MT, o suscitado. (CC 101.222/PR, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe de23/03/2009). (Grifos acrescidos).
+CONFLITO DE COMPETÊNCIA. EXECUÇÃO FISCAL. ALTERAÇÃO DO ENDEREÇO DA EXECUTADA. INCOMPETÊNCIA RELATIVA. DECLARAÇÃO DE OFÍCIO. IMPOSSIBILIDADE. SÚMULAS 33 E 58/STJ.
+COMPETÊNCIA DO JUÍZO FEDERAL ONDE FOI PROPOSTA A DEMANDA.
+1. O art. 578 do Código de Processo Civil estabelece que a execução fiscal será ajuizada no foro do domicílio do réu. Não obstante isso, cumpre ressaltar que a competência territorial é relativa, e, portanto, só poderia a incompetência ser argüida por meio de exceção (CPC, art. 112).
+2. Feita a escolha e ajuizada a ação, ficou definida a competência do Juízo Federal da 2ª Vara da Seção Judiciária do Estado de Tocantins (CPC, art. 87), não podendo ser reconhecida ex officio eventual incompetência do Juízo, nos termos do enunciado da Súmula 33/STJ.
+3. Além disso, segundo o entendimento consolidado com a edição da Súmula 58/STJ, "proposta a execução fiscal, a posterior mudança de domicílio do executado não desloca a competência já fixada".
+4. Ressalta-se que, em relação à análise de conflitos de competência, o Superior Tribunal de Justiça exerce jurisdição sobre as Justiças Estadual, Federal e Trabalhista, nos termos do art. 105, I, d, da Carta Magna. Desse modo, invocando os princípios da celeridade processual e economia processual, esta Corte Superior pode definir a competência e determinar a remessa dos autos ao juízo competente para a causa, mesmo que ele não faça parte do conflito (CC 47.761/PR, 1ª Seção, Rel. Min. Luiz Fux, DJ de 19.12.2005).
+5. Conflito conhecido para declarar a competência do Juízo Federal da 2ª Vara da Seção Judiciária. (CC 53.750/TO, Rel. Min. DENISE ARRUDA, PRIMEIRA SEÇÃO, DJ de 15/05/2006).
+Ante o exposto, com base no art. 34, XXII, do RISTJ, conheço do conflito para declarar a competência do JUÍZO DA VARA FEDERAL DE POÇOS DE CALDAS - SJ/MG.
+Comunique-se.
+Publique-se. Intimem-se.
+EMENTA
