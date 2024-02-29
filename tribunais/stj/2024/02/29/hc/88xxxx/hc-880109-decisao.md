@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado pela defesa de CELIS APARECIDO MANOEL contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi foi absolvido, com fundamento no artigo 386, inciso III, do Código de Processo Penal, da imputação da prática do delito previsto no artigo 306, § 1º, inciso I, da Lei nº 9.503/97.
+Irresignada, a acusação interpôs recurso de apelação ao Tribunal de origem, que deu provimento ao apelo para condenar o paciente por infração ao artigo 306, § 1º, inciso I, do Código de Trânsito Brasileiro, às penas de 07 (sete) meses de detenção, em regime semiaberto, e 11 (onze) dias-multa, com a suspensão da habilitação para dirigir pelo prazo de 02 (dois) meses e 10 (dez) dias, nos termos do acórdão juntado às fls. 26-36, com a seguinte ementa:
+RECURSO MINISTERIAL. PROVIMENTO. Conduzir veículo automotor com capacidade psicomotora alterada em razão da influência de álcool Prova boa, firme e robusta para lastrear a condenação.
+No presente writ, o impetrante sustenta a afronta aos enunciados das Súmulas n. 718 e n. 719 do Supremo Tribunal Federal e Súmula n. 440 desta Corte Superior, ao argumento de que o regime inicial de cumprimento de pena foi fixado com base na gravidade abstrata do crime praticado.
+Requer, ao final, a concessão da ordem, para fixar o regime inicial aberto para cumprimento da reprimenda.
+O pedido liminar foi indeferido (fls. 49-50).
+As informações foram prestadas às fls. 53-55 e 63-88.
+O Ministério Público Federal, às fls. 90-93, manifestou-se nos termos da seguinte ementa:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSOESPECIAL. NÃO CABIMENTO. CRIMES DE TRÂNSITO. PENA INFERIOR A QUATRO ANOS. REGIME PRISIONAL SEMIABERTO. POSSIBILIDADE. MAUS ANTECEDENTES. RÉU REINCIDENTE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.1. O não cabimento de habeas corpus substitutivo de recurso especial se apoia na ausência de competência originária do Superior Tribunal de Justiça para processar e julgar o writ, e, em decorrência da ausência de competência, revela a impossibilidade jurídica de conceder, de ofício, a ordemvindicada.2. Na hipótese, o Tribunal de origem fixou o regime semiaberto para início de cumprimento da pena, em razão dos maus antecedentes e da reincidência ostentada pelo reú. A compreensão firmada pela instância ordinária está em perfeita harmonia com a orientação dessa Corte Superior, segundo a qual, " a inda que a pena final seja inferior a 4 anos, considerando os antecedentes e a reincidência do agente, não merece prosperar o pedido de alteração do regime prisional para o aberto" (AgRg no HC n. 848.574/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/11/2023, DJe de5/12/2023). No mesmo sentido: HC n. 615.801/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em23/8/2022, DJe de 30/8/2022.3. Parecer pelo não conhecimento do habeas corpus, ressaltando a inexistência de ilegalidade no acórdão estadual.
+É o relatório.
+Decido.
+O impetrante sustenta a afronta aos enunciados das Súmulas n. 718 e n. 719 do Supremo Tribunal Federal e Súmula n. 440 desta Corte Superior, ao argumento de que o regime inicial de cumprimento de pena foi fixado com base na gravidade abstrata do crime praticado.
+Sobre as teses, assim se pronunciou a Corte de origem:
+O regime intermediário é o mais adequado para o desconto da pena privativa de liberdade no caso concreto, e isto porque o réu, já tendo experimentado os dessabores de condenações anteriores (duas condenações por dirigir veículo automotor embriagado) continuou na seara da criminalidade, o que está a exigir do Estado medida que, durante seu período de correção, reeducação, reintegração, e ressocialização, o impeça de tornar a delinquir, e o neutralize, fazendo com que deixe de prejudicar outras pessoas inocentes e de colocar em risco a sociedade.
+Em relação ao regime inicial de cumprimento de pena, conforme o disposto no artigo 33, parágrafo 3º, do Código Penal, a sua fixação pressupõe a análise do quantum da pena, bem como das circunstâncias judiciais previstas no artigo 59 do mesmo diploma legal.
+Sobre o tema, esta Corte Superior editou a Súmula n. 440, que dispõe: "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito."
+Nesse mesmo sentido, as Súmulas 718 e 719 do Supremo Tribunal Federal, respectivamente, in verbis: "A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada." "A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea."
+Dessa forma, para o estabelecimento de regime de cumprimento de pena mais gravoso, é necessária fundamentação específica, com base em elementos concretos extraídos dos autos.
+No caso, inexiste constrangimento ilegal a ser sanado, eis que o paciente é reincidente e detém circunstâncias judiciais desfavoráveis, sendo aplicável, destarte, o regime mais gravoso sequente, nos termos do art. 33, parágrafo 2º, alínea b, do Código Penal.
+Nesse sentido:
+HABEAS CORPUS. VIOLAÇÃO DE DIREITO AUTORAL. PRINCÍPIOS DA ADEQUAÇÃO SOCIAL E DA INSIGNIFICÂNCIA. NÃO APLICAÇÃO. REGIME INICIAL SEMIABERTO. REINCIDENTE ESPECÍFICO. SUBSTITUIÇÃO POR PENAS RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. ORDEM DENEGADA.
+1. A Terceira Seção desta Corte de Justiça, ao julgar o REsp n. 1.193.196/MS, representativo de controvérsia, firmou-se no sentido de "considerar típica, formal e materialmente, a conduta prevista no artigo 184, § 2º, do Código Penal, afastando, assim, a aplicação do princípio da adequação social, de quem expõe à venda CD"S e DVD"S "piratas"" (REsp n. 1.193.196/MG, Rel. Ministra Maria Thereza de Assis Moura, 3ª S., DJe 4/12/2012).
+2. Na hipótese, o paciente, reincidente específico, foi condenado à pena de 2 anos, 4 meses e 17 dias de reclusão, em regime inicial semiaberto, mais multa, pela prática do delito descrito no art. 184, § 2º, do Código Penal.
+3. A decisão do Tribunal de origem está em consonância com a Súmula n. 269 deste Superior Tribunal, que autoriza o estabelecimento de regime inicialmente semiaberto aos reincidentes condenados à pena inferior a 4 anos.
+4. Além disso, inviável a substituição por penas restritivas de direitos, por se tratar de acusado reincidente específico, como preconiza o art. 44 do Código Penal.
+5. Ordem denegada.
+(HC n. 825.988/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/9/2023, DJe de 2/10/2023.)
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
