@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ALINE APARECIDA DE SOUZA SANTOS contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da apelação criminal n. 1501249-37.2019.8.26.0618.
+Consta dos autos que a paciente foi condenada pelo Juízo da Vara Criminal da Comarca de Caçapava às penas de 08 (oito) anos de reclusão, em regime inicial fechado , e 1.200 (mil e duzentos) dias-multa, por infração ao artigo 33, caput, c/c artigo 35, ambos da Lei 11.343/2006, na forma do artigo 69 do Código Penal, nos termos da sentença de fls. 28-54.
+Não satisfeita, a paciente interpôs apelação criminal ao Tribunal de Justiça, que negou provimento ao recurso, conforme o acórdão de fls. 55-80.
+No presente writ, a impetrante alega que o acórdão impugnado padece de flagrante ilegalidade, consistente na fixação do regime prisional inicial mais gravoso, qual seja, o fechado, de forma abstrata, despido de fundamentação idônea.
+Requer, liminarmente e no mérito, a concessão da ordem de modo que seja fixado o regime prisional inicial semiaberto.
+O pedido liminar foi indeferido pela Presidência às fls. 84-85.
+Informações prestadas às fls. 91-94 e 97-153.
+O Ministério Público Federal, às fls. 155-156, opinou pela concessão da ordem.
+É o relatório. DECIDO.
+A controvérsia consiste na possível existência de ilegalidade no acórdão impugnado em razão da fixação do regime prisional inicial mais gravoso, qual seja, o fechado, de forma abstrata, despido de fundamentação idônea.
+Registro que a via do writ somente se mostra adequada para a análise da dosimetria da pena quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+No que tange ao regime inicial de cumprimento de pena, conforme o disposto no artigo 33, parágrafo 3º, do Código Penal, a sua fixação pressupõe a análise do quantitativo da pena, bem como das circunstâncias judiciais previstas no artigo 59 do mesmo diploma legal.
+Sobre o tema, esta Corte Superior editou a Súmula n. 440, que dispõe:
+"Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito."
+Nesse mesmo sentido, as Súmulas 718 e 719 do Supremo Tribunal Federal, respectivamente:
+"A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada."
+"A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea."
+Ademais, ao se debruçar sobre o tema, esta Corte consolidou "o entendimento de que a fixação de regime mais gravoso do que o indicado para a pena imposta ao réu deve ocorrer com fundamentação específica, que considere a existência de circunstâncias judiciais desfavoráveis do art. 59 do Código Penal ou outro dado concreto que demonstre a extrapolação da normalidade do tipo" (AgRg no AgRg no HC n. 713.364/SP, Relator Ministro MESSOD AZULAY NETO, QUINTA TURMA, DJe de 16/12/2022).
+Para melhor delimitar a controvérsia, transcrevo a fundamentação adotada na sentença condenatória (fl. 50):
+" ..  Considerando-se o montante de pena aplicada aos réus, a gravidade da conduta, especialmente em decorrência da natureza nociva dos entorpecentes apreendidos, bem como ante a hediondez do delito, de rigor a aplicação do regime de cumprimento de pena inicialmente fechado, máxime porque o tempo de prisão preventiva dos réus não é suficiente a que façam jus à fixação de regime mais brando (CPP, art. 387, §2º)."
+Colaciono, ainda, excerto do acórdão impugnado que dispõe quanto ao ponto (fls. 78-79):
+" ..  O regime prisional inicial fechado revela-se correto, em face do montante da pena, dos maus antecedentes de Andreia, da reincidência específica de Alysson, da dupla reincidência de André, da quantidade de entorpecente apreendida e da natureza mais nociva do crack, circunstâncias que revelam a periculosidade concreta dos agentes, os quais, com suas condutas geram instabilidade em inúmeros lares, exigindo, em consequência, resposta penal mais enérgica com a qual não é compatível solução mais branda. Nesse tópico, é sempre pertinente lembrar que os mercadores de entorpecentes criam um poder paralelo que desafia e se opõe às autoridades constituídas, destrói pessoas e famílias, subjuga comunidades inteiras, e aniquila o futuro de crianças e jovens, decorrendo de suas condutas gravíssimas consequências para a sociedade.
+Ainda, não se desconhece o teor das Súmulas 718 e 719 do Supremo Tribunal Federal e 440 do Superior Tribunal de Justiça, mas o caso concreto, por si só, revela a total inadequação de regime mais brando."
+No presente caso, verifico dos excertos colacionados que não houve fundamentação concreta a justificar a fixação do regime prisional inicial mais gravoso no tocante à paciente Aline, uma vez que a quantidade de entorpecentes apreendidos não foi excepcional (7,33g de crack e 0,35g de cocaína), bem como em razão de ter sido fixada para a paciente a pena-base no patamar mínimo legal, pois consideradas favoráveis as circunstâncias judiciais.
+Além disso, a paciente é primária, bem como a pena não excede o patamar de oito anos.
+Assinalo, ainda, que a menção às gravosas consequências dos delitos para a sociedade constitui fundamentação abstrata, inerente ao tipo penal, inidônea para a fixação do regime prisional inicial mais gravoso.
+Assim, a paciente faz jus ao regime inicial semiaberto para início de cumprimento de pena, consoante do art. 33, § 2º, alínea c, e § 3º, do Estatuto Penal, bem como de acordo com o entendimento constante das Súmulas n. 718 e n. 719, STF, e da Súmula n. 440, STJ.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL EM QUE INCIDE O MESMO ÓBICE. INVIABILIDADE DE EXAME DO RECURSO. MÉRITO DO APELO NOBRE. ANÁLISE. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DO QUAL NÃO SE CONHECE. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. REGIME. MODALIDADE MAIS GRAVOSA ESTABELECIDA COM FUNDAMENTO NA GRAVIDADE EM ABSTRATO DO DELITO. IMPOSSIBILIDADE.
+1. A decisão ora agravada não conheceu do agravo por constatar que os fundamentos do provimento jurisdicional que negou seguimento ao recurso especial não foram impugnados, o que atrai o óbice da Súmula n. 182/STJ.
+2. Neste agravo regimental, as razões recursais incidem no mesmo vício, porquanto não impugnam especificamente o fundamento da decisão monocrática proferida nesta Corte Superior, atraindo, outra vez, o óbice da Súmula n. 182/STJ.
+3. Outrossim, tal óbice impede o exame das matérias meritórias do apelo nobre, pois não suplantado requisito de admissibilidade do agravo em recurso especial nem mesmo deste regimental.
+4. Todavia, verifica-se, na espécie, flagrante ilegalidade na fixação do regime inicial, a atrair a concessão de habeas corpus de ofício.
+5. Com efeito, segundo a jurisprudência desta Corte, está autorizada a determinação do regime prisional mais gravoso, desde que haja fundamentação idônea, sendo vedado considerar-se apenas a gravidade abstrata do delito. No caso dos autos, as instâncias ordinárias não apontaram elementos concretos que justificassem a imposição de regime inicial fechado, mas apenas a gravidade em abstrato do crime de tráfico.
+6. Agravo regimental do qual não se conhece. Concessão da ordem de ofício, para estabelecer o regime inicial semiaberto para desconto da pena imposta ao ora agravante.
+(AgRg no AREsp n. 2.400.563/SP, Relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 21/9/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO CPC/15. INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. TRÁFICO DE DROGAS. REGIME INICIAL MAIS GRAVOSO. FUNDAMENTAÇÃO ABSTRATA. ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL NÃO CONHECIDO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. A falta de impugnação específica do fundamento da decisão agravada enseja o não conhecimento do agravo regimental, nos termos do art. 1.021, § 1º, do CPC/15 e do óbice contido na Súmula 182/STJ, aplicável por analogia.
+2. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo, tampouco o ataque tardio ao seu conteúdo, ou a insistência no mérito da controvérsia. Precedentes do STJ.
+3. Estabelecida a pena definitiva em 5 anos de reclusão, por infração ao art. 33 da Lei 11.343/06, sendo favoráveis as circunstâncias do art. 59 do CP, primários e sem antecedentes, e considerada a quantidade do entorpecente apreendido (29,5 gramas de cocaína), o regime semiaberto é o adequado à prevenção e reparação do delito.
+4. Agravo regimental não conhecido. Habeas corpus concedido de ofício para fixar o regime inicial semiaberto.
+(AgRg no AREsp n. 2.270.918/SP, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 16/6/2023.)
+Ante o exposto, concedo a ordem de habeas corpus para fixar em favor de ALINE APARECIDA DE SOUZA SANTOS o regime prisional inicial semiaberto.
+Publique-se. Intimem-se.
+EMENTA
