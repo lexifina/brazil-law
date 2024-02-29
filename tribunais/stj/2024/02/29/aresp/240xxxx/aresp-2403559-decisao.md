@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por ESTADO DO RIO DE JANEIRO contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 314):
+AGRAVO INTERNO EM APELAÇÃO CÍVEL CONTRA DECISÃO MONOCRÁTICA DO RELATOR QUE NEGOU PROVIMENTO AO RECURSO. AÇÃO DE COBRANÇA MOVIDA EM FACE DO ESTADO DO RIO DE JANEIRO. PRESTAÇÃO DE SERVIÇOS SEM CONTRATO VIGENTE. AUSÊNCIA DE PAGAMENTO COMO PRESTAÇÃO DEVIDA PELO ESTADO. ARTIGO 59, §1º DA LEI 8.666/93. DEVER DE INDENIZAR SOB PENA DE ENRIQUECIMENTO SEM CAUSA DO ENTE ESTATAL. NEGA-SE PROVIMENTO AO RECURSO.
+Embargos de declaração rejeitados (e-STJ fls. 331/333).
+No recurso especial obstaculizado, a parte recorrente apontou violação do art. 535 do CPC/1973, aduzindo nulidade por negativa de prestação jurisdicional, por haver o Tribunal local deixado se manifestar acerca do previsto no art.1º-F da Lei n. 9.494/1997, com as alterações da Lei n. 11.960/2009.
+No mérito, aduziu ofensa aos arts. 3º e 59, parágrafo único, da Lei n. 8.666/1993, argumentando que lhe cabe apenas ressarcir os custos correlatos às prestações realizadas, a ser apurado em sede de liquidação, para que o particular não se enriqueça sem causa (e-STJ fls. 341/347).
+Sem contrarrazões (e-STJ fls. 351).
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Dito isso, em relação à alegada ofensa do art. 535 do CPC/1973, cumpre destacar que o Tribunal a quo decidiu integralmente a controvérsia, pronunciando-se sobre a aplicação ao caso do disposto no art. 1º-F da Lei nº 9.494/97, tema suscitado nos embargos de declaração de e-STJ fls. 320/328, no acórdão de e-STJ fls. 419/428, pelo que descabe falar em nulidade.
+No mérito, não é possível conhecer do recurso especial no que tange à suposta violação do art. 3º da Lei n. 8.666/1993, uma vez que as razões recursais não explicam de que forma aludido dispositivo legal veio a ser violado pelo entendimento adotado pelo acórdão recorrido. Incide na espécie o óbice contido na Súmula 284 do STF.
+No que toca à alegação de contrariedade ao art. 59, parágrafo único, da Lei n. 8.666/1993, o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Da leitura do aresto recorrido, o Tribunal local apenas citou o referido dispositivo para considerar "devido o pagamento pelo Estado, visto que o princípio da vedação do enriquecimento sem causa não admite que a Administração Pública se beneficie dos serviços prestados pela empresa ré sem a mesma receber o devido pagamento" (e-STJ fl. 317).
+Não analisou, ainda que implicitamente, a tese relativa ao valor devido a ser pago (ressarcimento dos custos correlatos à prestação de serviços realizada, de maneira a se impedir o enriquecimento sem causa em detrimento da Administração), tampouco o tema foi suscitado nos embargos de declaração ali opostos.
+Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Nos termos da jurisprudência desta Corte, para que se configure o prequestionamento, mister se faz que a tese jurídica vinculada no recurso especial tenha sido decidida à luz da legislação federal indicada, o que não ocorreu no presente caso.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Por fim, não haverá majoração de honorários recursais, nos termos do Enunciado administrativo n. 7 ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC).
+Publique-se. Intimem-se.
+ EMENTA
