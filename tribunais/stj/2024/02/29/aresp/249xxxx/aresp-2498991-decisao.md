@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ARMANDO LUONGO - ESPÓLIO, JACOMINA PATERNO LUONGO - ESPÓLIO e WALTER LUONGO (ARMANDO - ESPÓLIO e outros) contra decisão que negou seguimento ao seu apelo nobre.
+Não foi apresentada contraminuta (e-STJ, fl. 345).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, ARMANDO - ESPÓLIO e outros alegaram, a par de divergência jurisprudencial, a violação dos arts. 202, V, 205 e 2.028 do CC, ao sustentarem a ausência de consumaçã o do prazo prescricional vintenário incidente à hipótese, tendo em vista que a sua contagem, que se iniciou com o vencimento da última prestação, foi interrompida pela notificação judicial dos recorridos, o que representou a sua constituição em mora.
+Trata-se de ação de rescisão contratual cumulada com reintegração de posse cumulada com perdas e danos ajuizada por ARMANDO - ESPÓLIO e outros contra PEDRO JOSÉ DA SILVA e EDNALVA MARIA DA SILVA, tendo por objeto o negócio de compra e venda de imóvel urbano firmado entre as partes.
+Em primeira instância, o processo foi extinto, com julgamento do mérito, nos termos do art. 487, I, do CPC, ante o reconhecimento do decurso do prazo prescricional geral, previsto no art. 177 do CC/16, observada a regra de transição disposta no art. 2.028 do CC/02.
+Irresignados, ARMANDO - ESPÓLIO e outros apelaram, e o TJSP negou provimento ao recurso, nos termos da fundamentação a seguir:
+Narra a parte autora que em 09 de maio de 1982 firmou com a parte ré Contrato Particular de Compra e Venda para aquisição do lote 26 da quadra B do loteamento Jardim São Armando para pagamento em 90 (noventa) parcelas, das quais apenas 23 teriam sido quitadas, tendo constituído os devedores em mora por meio de notificação judicial n. 0014830- 93.2012.8.26.0278. A última parcela deveria ser quitada em 05 de maio de 1989.
+Em que pese o inconformismo, a r. sentença não comporta reparo.
+Com efeito, operou-se a prescrição da pretensão autoral no caso concreto. Isso porque aplicam-se ao presente caso o disposto no artigo 177 do Código Civil de 1916 e do artigo 2.028 do Código Civil vigente.
+A pretensão de resolução contratual é regida pelas regras de prescrição das ações pessoais, uma vez que é fundada no inadimplemento de obrigações, cujo prazo prescricional, na vigência do Código Civil de 1916, era de vinte anos, a teor do artigo 177 do diploma revogado.
+No presente caso, o prazo prescricional de 20 anos deve ser contado a partir do término da data da última parcela avençada, qual seja, 05 de maio de 1989, o que ocorreu durante a vigência do antigo Código Civil (1916).
+Ocorre que, a partir da entrada em vigor do novo Código Civil, que se deu em janeiro de 2003, conforme disposto no artigo 2.028 do mesmo "Codex", houve o decurso de metade do tempo estabelecido no diploma anterior, sendo da lei revogada, portanto, o prazo que incide concretamente ao caso em apreço.
+Portanto, a pretensão da resolução contratual pelo inadimplemento dos réus está sujeita ao prazo prescricional de 20 anos, tendo se esgotado em maio de 2009, de modo que a notificação judicial ajuizada somente no ano de 2012, ou seja, três anos após o término do prazo prescricional vintenário, não possui eficácia para interromper o lapso temporal para o ajuizamento da ação, porquanto a prescrição já estava consumada.
+ ..
+A parte autora deixou de ajuizar a ação dentro do prazo oportuno (20 anos a partir de maio de 1989), de modo que se operou a prescrição de sua pretensão ajuizada somente em 16 de agosto de 2018, portanto, 29 anos após a data de pagamento prevista para a última parcela.
+Cumpre mencionar, por fim, que não restou demonstrada a existência de qualquer causa suspensiva ou impeditiva do prazo prescricional, nos termos dos artigos 197 a 201 do Código Civil em vigor (Artigos 168 a 171 do Código Civil de 1916)  e-STJ, fls. 270/273 .
+Deveras, verifica-se que este egrégio Colegiado consolidou o entendimento de que a prescrição da ação de rescisão contratual cumulada com reintegração de posse obedece os prazos previstos no art. 177 do CC/16 e no art. 205 do CC/02, respeitada a norma de transição do artigo 2.028 deste último diploma legal.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C REINTEGRAÇÃO DE POSSE E INDENIZAÇÃO POR PERDAS E DANOS. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. PRESCRIÇÃO. PRETENSÃO DECORRENTE DE INADIMPLEMENTO CONTRATUAL. PRAZO. DECENAL. OCORRÊNCIA. AUSÊNCIA DO ELEMENTO OBJETIVO QUE SUSTENTA O PEDIDO DE RESOLUÇÃO DO CONTRATO. AGRAVO INTERNO NÃO PROVIDO.
+1. Observa-se que não se viabiliza o recurso especial pela indicada violação do art. 1.022 do Código de Processo Civil. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão do recorrente.
+2. Aplica-se o prazo prescricional decenal previsto no art. 205 do CC nas pretensões decorrentes de inadimplemento contratual.
+3. Com efeito, já decidiu esta Corte que "Se o pedido de resolução se funda no inadimplemento de determinada parcela, a prescrição da pretensão de exigir o respectivo pagamento prejudica, em consequência, o direito de exigir a extinção do contrato com base na mesma causa, ante a ausência do elemento objetivo que dá suporte fático ao pleito. (REsp 1728372/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 19/03/2019, DJe 22/03/2019).
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.589.393/RJ, relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado aos 29/6/2021, DJe de 5/8/2021.)
+Portanto, assim como consignou o Tribunal estadual, aplicando-se ao caso o prazo prescricional vintenário, cuja contagem teve início na data de pagamento da última parcela contratada, qual seja, 5 de maio de 1989, quando a notificação judicial foi realizada, no ano de 2012, já havia ocorrido o decurso do referido lapso prescricional, que se esgotou no ano de 2009, não se lhe podendo atribuir, portanto, o efeito interruptivo previsto no art. 202 do atual diploma civil.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO PARTICULAR DE COMPRA E VENDA DE IMÓVEL CUMULADA COM REINTEGRAÇÃO DE POSSE. INADIMPLEMENTO DAS PRESTAÇÕES. PRAZO PRESCRICIONAL VINTENÁRIO DO CÓDIGO CIVIL DE 1916 QUE SE CONSUMOU. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
