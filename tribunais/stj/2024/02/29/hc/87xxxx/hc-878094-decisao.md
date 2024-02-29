@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra o Tribunal de Justiça de São Paulo.
+Consta dos autos que o juízo da execução concedeu ao paciente a progressão ao regime semiaberto pela prática de dois crimes relacionados ao tráficos de drogas, associação para o tráfico e furto qualificado.
+Interposto agravo perante o Tribunal de origem, foi provido para cassar a progressão e determinar o retorno imediato do sentenciado ao regime fechado.
+Sustenta a impetrante, em suma, a ilegalidade do julgado sob a premissa de que o paciente teve seu direito cerceado por fundamentações genéricas e abstratas, requerendo, liminarmente e no mérito, o seu retorno ao regime semiaberto.
+Deferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pela concessão da ordem.
+Como adiantado liminarmente, in casu, o Tribunal de origem limitou-se a apontar a gravidade genérica dos delitos praticados pelo apenado, ora paciente, e a longa pena a cumprir, a fim de justificar o seu retorno ao regime fechado, não apontando elementos concretos. Confira-se (fls. 27-28):
+ ..  O recorrido desconta pena de 18 anos, 08 meses e 16 dias de reclusão, pela prática de dois tráficos de drogas, associação para o tráfico e furto qualificado, com TCP previsto para 14.01.2037 (fls. 21/3), o que a demonstrar, num primeiro exame, clara personalidade distorcida e ameaça à sociedade.
+A natureza dos delitos pelos quais foi condenado o agravado, demanda cuidadosa análise antes de sua efetiva reintegração ao corpo social, máxime porque, no regime semiaberto, virá ele a ganhar as ruas, dada a possibilidade de trabalho externo, frequência a cursos profissionalizantes e saída temporária sem vigilância (arts. 35, § 2º, do CP; 37 e 122 da LEP).
+Assim, de mister maior vivência do sentenciado no regime mais grave, resguardando-se o interesse social, que, por sua natureza, está acima daquele de ordem privada nesta esfera, ante o princípio "in dubio pro societate",que vigora na fase da execução criminal. ..
+Com efeito, a gravidade abstrata do crime não justifica diferenciado tratamento à progressão prisional, uma vez que fatores relacionados ao delito são determinantes da pena aplicada, mas não justificam diferenciado tratamento à negativa da progressão de regime ou do livramento condicional, de modo que respectivo indeferimento somente poderá fundar-se em fatos ocorridos no curso da própria execução.
+"A jurisprudência desta Corte está consolidada no sentido de que a gravidade abstrata do crime e a longa pena a cumprir não são aspectos relacionados ao comportamento do sentenciado durante a execução penal e não justificam o indeferimento dos benefícios do sistema progressivo das penas." (AgRg no HC n. 846.199/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/10/2023, DJe de 27/10/2023).
+""É assente o entendimento nesta Corte, segundo o qual, a gravidade abstrata do crime não justifica diferenciado tratamento à progressão prisional, uma vez que fatores relacionados ao delito são determinantes da pena aplicada, mas não justificam diferenciado tratamento à negativa da progressão de regime ou do livramento condicional, de modo que respectivo indeferimento somente poderá fundar-se em fatos ocorridos no curso da própria execução." (HC n. 519.301/SP, relator Ministro Nefi Cordeiro, Terceira Seção, julgado em 27/11/2019, DJe 13/12/2019.)" (AgRg no HC n. 824.493/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023).
+Ante o exposto, concedo o habeas corpus para restabelecer a decisão de fls. 36-38.
+Comunique-se.
+Publique-se.
+Intimem-se.
+EMENTA
