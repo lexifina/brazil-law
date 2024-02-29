@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de FRANCISCO DANILO PAIXAO RODRIGUES, condenado, em primeira instância, pela prática do delito descrito no art. 33, c/c o art. 40, VI, da Lei n. 11.343/2006, no art. 14 da Lei n. 10.826/2003 e no art. 180 do Código Penal (duas vezes), c/c o art. 69 do Código Penal. E absolvido da prática do delito do art. 35 da Lei n. 11.343/2006 com fulcro no art. 386, VII, do Código de Processo Penal (Processo n. 0202388-33.2022.8.06.0112, da 3ª Vara Criminal da comarca de Juazeiro do Norte/CE).
+Aponta-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO CEARÁ, que, em 27/9/2023, deu parcial provimento ao apelo defensivo apenas para retificar as censuras penais fixadas ao réu, em relação aos crimes de tráfico de drogas e porte ilegal de armas, respectivamente, para 5 anos e 10 meses de reclusão, e 583 dias-multa, e 2 anos de reclusão e 10 dias-multa, inalterado o restante do julgado monocrático (fls. 40/56).
+Alega-se negativa de vigência do § 4º do art. 33 da Lei de Drogas, porque afastada sua aplicação tão somente em razão da quantidade de maconha apreendida, mai s de 10 kg.
+Requer-se, em liminar, a suspensão dos efeitos do acórdão e a expedição de alvará de soltura, no mérito, a concessão da ordem para incidir o redutor na fração de 2/3, e, consequentemente, alterar o regime e aplicar o art. 44 do Código Penal.
+Depois de indeferido o pedido liminar (fls. 63/64) e de prestadas as informações (fls. 69/73 e 75/79), o parecer do Ministério Público Federal é pela concessão da ordem (fls. 82/86).
+O recurso especial interposto na origem foi inadmitido e, em recente data, foi interposto agravo contra tal decisão, mas que ainda não chegou ao STJ.
+É o relatório.
+A ilegalidade passível de justificar a impetração do habeas corpus substitutivo deve ser manifesta, de constatação evidente, o que, na espécie, não ocorre.
+Além disso, houve a interposição de recurso especial na origem, e a jurisprudência do Superior Tribunal de Justiça não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade (AgRg no HC n. 678.593/SP, Ministra Laurita Vaz, Sexta Turma, DJe 27/9/2022).
+No caso, para se concluir pela existência de constrangimento ilegal pela não aplicação da causa especial de redução de pena ao paciente, seria necessário esmiuçar os fatos e as provas dos autos principais. Tal providência não se coaduna com a via eleita.
+Não está evidente que a conclusão de que o paciente se dedica a atividades criminosas foi tirada apenas da quantidade de droga apreendida em seu poder. Confiram-se, por exemplo, estes trechos da sentença e do acórdão ora impugnado (fls. 34/35 e 51):
+ ..
+Em que pesem a primariedade e os bons antecedentes do acusado, bem como em que, de fato, não tenha sido demonstrado que o acusado integre organização criminosa, como alegado pela defesa, verifica-se que o caso em análise envolve tráfico de significativa quantidade de drogas, em concurso de agentes, portando ilegalmente duas armas de fogo, com o uso de veículo objeto de ilícito, e apreensão de significativa quantidade de dinheiro.
+O conjunto das circunstâncias acima elencadas é mais que suficiente para demonstrar que o acusado é pessoa dedicada às atividades criminosas, razão pela qual o benefício deve ser afastado.
+ ..
+Ainda com relação a essa condenação a defesa buscou o reconhecimento da figura do tráfico privilegiado.
+Sobre a pretensão, forçoso reconhecer que não merece provimento. Conforme afirmado alhures, contra o réu existia um mandado de prisão preventiva, em aberto, oriundo do Estado de Alagoas. Além disso, a polícia civil seguia investigando a prática, por ele, da traficância reiterada de drogas. Ou seja, a prisão em flagrante não ocorreu em um contexto de uma abordagem policial aleatória, de um caso fortuito, mas sim decorrente de um procedimento investigativo, com monitoramento amiúde. Desse modo, o contexto da prisão em flagrante, aliado à quantidade de droga apreendida, mais de dez quilos de maconha, a existência de mandado de prisão em aberto em desfavor do réu em outro Estado da Federação, fazem concluir que ele, apesar de tecnicamente primário, tinha na traficância de drogas meio de vida, se utilizando na atividade do auxílio de um menor de idade.
+Assim, pelo exposto, tenho por improcedente a aplicação da minorante prevista na lei de drogas.
+ ..
+Não se deve olvidar também que a condenação concomitante pelo crime de receptação evidencia, de igual forma, a dedicação à atividade criminosa, haja vista que, num mesmo contexto criminoso, vários bens jurídicos foram atingidos, o que evidencia destemor do paciente pela lei penal, revelando-se inviável a incidência do benefício em seu favor (AgRg no HC n. 834.588/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 30/8/2023).
+Pelo exposto, não conheço do presente writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO. RECURSO ESPECIAL INTERPOSTO NA ORIGEM CONTRA O MESMO ATO. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. TRÁFICO DE DROGAS. DEDICAÇÃO À ATIVIDADE CRIMINOSA. REEXAME FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. CONCOMITANTE CONDENAÇÃO POR OUTROS DELITOS, INCLUSIVE RECEPTAÇÃO (DUAS VEZES). INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ não conhecido.
