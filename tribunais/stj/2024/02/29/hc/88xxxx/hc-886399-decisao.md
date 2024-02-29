@@ -1,0 +1,41 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto em parte o relatório de fl. 57 (e-STJ).
+O pedido liminar foi indeferido (e-STJ fls. 57-58).
+A origem prestou informações (e-STJ fls. 66-74).
+O Ministério Público manifestou-se pela denegação da ordem de habeas corpus (e-STJ fls. 76-78).
+É o relatório.
+Decido.
+As informações prestadas nos autos revelam a ausência de modificação fático-jurídica desde a análise anterior deste feito. Passo, então, à apreciação definitiva da insurgência.
+O Tribunal de origem julgou a controvérsia por meio de acórdão assim ementado (e-STJ fl. 19):
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. DECRETO DE PRISÃO PREVENTIVA COM FUNDAMENTAÇÃO IDÔNEA. VULTOSA QUANTIDADE E VARIEDADE DE DROGAS APREENDIDAS EM PODER DOS FLAGRANTEADOS. GARANTIA DA ORDEM PÚBLICA. ELEMENTOS CONCRETOS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. VIOLAÇÃO AO PRINCÍPIO DA HOMOGENEIDADE. ANÁLISE QUE DEMANDA DILAÇÃO PROBATÓRIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. NECESSIDADE DE MANUTENÇÃO DA CUSTÓDIA. PARECER MINISTERIAL PELA DENEGAÇÃO DO WRIT. ORDEM CONHECIDA E DENEGADA.
+Do voto condutor do referido acórdão extraem-se os seguintes trechos de relevo, cujos pontos ora destacados passam a integrar a presente fundamentação:
+Quanto aos requisitos da prisão preventiva, não há equívoco na decisão do magistrado de 1º grau, uma vez que a decretação da custódia cautelar foi fundada para a garantia da ordem pública, em razão da periculosidade do paciente, tendo em vista a quantidade e variedade de drogas apreendidas em poder dos flagranteados.
+A narrativa apresentada no auto de prisão em flagrante evidencia a comprovação da materialidade delitiva, com fulcro no Laudo de Constatação colacionado aos autos principais, bem como os indícios de autoria, com os depoimentos do condutor e das testemunhas que confirmam a posse das substâncias entorpecentes pelo paciente.
+As circunstâncias em que os fatos ocorreram, por conseguinte, demonstram a gravidade concreta do delito, em razão da quantidade e variedade de substâncias apreendidas, posto que foi encontrado em poder dos flagranteados expressiva quantidade de entorpecentes, a saber, 02 pedras de uma substância análoga a cocaína, pesando aproximadamente 180 gramas, 13 pinos também de uma substância análoga a cocaína; 136 porções de uma substância análoga a maconha, acondicionadas em papel alumínio, 85 pedras de uma substância análoga a Crack, embaladas em saquinhos de geladinho, meio tablete de uma substância análoga a maconha, pesando aproximadamente 545 gramas; 01 tablete de uma substância análoga a maconha, pesando aproximadamente 01 quilo; e meio tablete de uma substância análoga a maconha pesando aproximadamente 560 gramas, a ensejar a decretação da custódia cautelar, como bem ressaltado pela autoridade coatora na decisão que converteu a prisão em flagrante em preventiva.
+Os Tribunais pátrios não discrepam deste entendimento, como se depreende do julgado abaixo:
+ ..
+Não se pode olvidar que a presença de condições pessoais favoráveis ao paciente, como alega o impetrante, não possui o condão de ensejar a pretendida soltura, como reiteradamente vem decidindo os Tribunais Pátrios.
+ ..
+Nesta toada, apesar de o impetrante argumentar que a pena a ser supostamente aplicada seria fixada no mínimo legal previsto pela legislação pertinente, em razão de serem favoráveis as circunstâncias judiciais do paciente, nos crimes de tráfico de drogas leva-se em consideração tanto no momento de fixação da pena, quanto na aplicação da causa de diminuição, a quantidade e diversidade da droga apreendida, conforme dispõe o art. 42 da Lei 11.343/06.
+Não é possível, dessa maneira, a aplicação do princípio da homogeneidade em relação às medidas cautelares aplicadas em processos que apuram o crime de tráfico ilícito de drogas, notadamente quando presentes os requisitos ensejadores da prisão preventiva, e observando a periculosidade da conduta.
+Nesta esteira de pensamento, é o entendimento do Superior Tribunal de Justiça, senão vejamos:
+ ..
+Por derradeiro, embora o art. 319, do Código de Processo Penal, preveja a aplicação de medidas cautelares em substituição à prisão preventiva, a análise do caso concreto não recomenda que as mesmas sejam utilizadas, em se considerando a periculosidade do paciente, que, conforme demonstrado, estava na posse de considerável quantidade e variedade de entorpecentes, implicando em violação à ordem pública.
+Como se pode observar, o Tribunal de origem  instância adequada ao exame do acervo fático-probatório dos autos  concluiu que a quantidade e variedade dos entorpecentes apreendidos justificam a necessidade da segregação cautelar para a garantia da ordem pública.
+Sobre o tema, confiram-se os seguintes precedentes:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. QUANTIDADE E DIVERSIDADE DA DROGA APREENDIDA. GARANTIA DA ORDEM PÚBLICA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Esta Corte possui entendimento reiterado de que a quantidade e a variedade dos entorpecentes encontrados com o agente, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva.
+2. Agravo regimental não provido.
+(AgRg no HC n. 842.801/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, j. em 27/11/2023, DJe de 01/12/2023).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GRAVIDADE CONCRET A. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de 5 dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+2. Na espécie, as circunstâncias do caso justificam a decretação da medida extrema de prisão, uma vez que a quantidade de entorpecentes apreendidos (fls. 99-100), a qual ultrapassa 500g, e a variedade - maconha, cocaína e crack - evidenciam que a gravidade concreta do delito extrapola os limites normais do tipo penal, a justificar a custódia para garantia da ordem pública.
+3. A periculosidade e riscos sociais podem justificar a custódia cautelar ao acusado pelo crime de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade da droga. Nesse sentido: HC n. 291125/BA - 5ª T. - unânime - rel. Min. Laurita Vaz - DJe 3/6/2014; AgRg no RHC n. 45009/MS - 6ª T. - unânime - rel. Min. Rogério Schietti Cruz - DJe 27/5/2014; HC n. 287055/SP - 5ª T. - unânime - rel. Min. Moura Ribeiro - DJe 23/5/2014; RHC n. 42935/MG - 6ª T. - unânime - rel. Min. Sebastião Reis Júnior - DJe 28/5/2014.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 845.314/SP, Rel. Min. Jesuíno Rissato (DESEMBARGADOR CONVOCADO DO TJDFT), Sexta Turma, j. em 27/11/2023, DJe de 30/11/2023).
+Não é possível afirmar que a prisão processual seja desproporcional em relação a futura condenação, pois não há como, no habeas corpus, antecipadamente, con cluir que ao réu será imposto regime menos gravoso que o fechado, especialmente diante das particularidades do c rime imputado.
+Destaca-se, ainda, que "o fato de o acusado possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento do Superior Tribunal de Justiça" (AgRg no HC n. 865.097/SE, Rel. Min. Ribeiro Dantas, Quinta Turma, j. em 18/12/2023, DJe de 20/12/2023).
+Por fim, esta Corte considera irrepreensível a decisão atacada quando "a prisão preventiva encontra-se devidamente fundamentada na necessidade de garantia da ordem pública, em razão da gravidade concreta da conduta, da periculosidade do agente e do risco de reiteração delitiva" (AgRg no HC n. 860.840/SC, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. em 11/12/2023, DJe de 19/12/2023).
+Pelo exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
