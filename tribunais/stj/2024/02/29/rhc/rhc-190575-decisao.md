@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto contra acórdão do Tribunal de Justiça da Bahia assim ementado (fls. 494/495):
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. EXCESSO DEPRAZO. NÃO CONFIGURADO. AUSÊNCIA DE DESÍDIA ESTATAL E DE OFENSA AO PRINCÍPIO DA RAZOABILIDADE NA FORMAÇÃO DA CULPA. SESSÃO DO TRIBUNAL DO JÚRI DESIGNADA PARA DATA PRÓXIMA. COMPLEXIDADE DO FEITO. REFLEXOS DA PANDEMIA DE COVID-19. PRECEDENTES DO STJ. ORDEM CONHECIDA E DENEGADA.
+1. Paciente preso em 18/08/2017, pela suposta prática do crime de homicídio qualificado, ocorrido em 11/02/2017, uma vez que teria planejado e ordenado a execução de um desafeto, pois, na condição de chefe do tráfico de drogas em determinada localidade, estaria incomodado com o comportamento da vítima em "tomar" sua clientela.
+2. Como se sabe, para a caracterização do excesso de prazo, a dilação deve decorrer exclusivamente de diligências solicitadas pela acusação; da inércia do próprio aparato judicial; ou quando implica ofensa ao princípio da razoabilidade, não se admitindo, para este fim, uma mera soma aritmética dos prazos para os atos processuais.
+3. Assim, como se observa das informações prestadas pela autoridade indigitada coatora, não há de se falar em demora injustificável e desproporcional por parte do Estado-juiz no caso em apreço que, inclusive, tem adotado providências para a regular tramitação do feito, com a determinação de inclusão do feito em pauta para realização da sessão do júri. É de se destacar que, em consulta aos autos da ação penal originária no sistema PJe 1º Grau (autos nº 0000286-96.2020.8.05.0216), verifica-se que tal determinação já fora cumprida e a sessão do tribunal do júri designada para data próxima, qual seja, 22/11/2023.
+4. Ademais, é importante frisar que estamos diante de um processo complexo, que envolve pluralidade de réus (três), mesmo que um deles tenha falecido no decorrer da sua tramitação. Esta, ainda, deu-se no contexto da pandemia da Covid-19, "evento consubstanciado em verdadeira força maior com reflexos imprevisíveis para toda sociedade, não tendo havido contribuição por parte do Estado-Juiz no retardo processual", como bem alertou a douta Procuradoria de Justiça em seu opinativo. Precedentes do STJ.
+5. Ordem conhecida e denegada, nos termos do Parecer Ministerial.
+Alega a defesa, em suma, a ocorrência de excesso de prazo ao argumento de que o recorrente está preso cautelarmente desde 18/8/2017 em razão da suposta prática do delito previsto no art. 121, § 2º, II e IV, do Código Penal e ainda não foi submetido a julgamento perante o Tribunal do Júri.
+Requer, liminarmente e no mérito, o relaxamento da prisão.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pela prejudicialidade do recurso.
+Na origem, consoante extrai-se das informações prestadas às fls. 546/550, foi proferida sentença absolutória em favor do réu, nos autos da ação penal 0000286-96.2020.8.05.0216, em 22/11/2023, sendo cumprido o alvará de soltura no mesmo dia , de modo que não há como negar a prejudicialidade deste recurso, ante a perda superveniente do objeto.
+Ante o exposto, julgo prejudicado o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
