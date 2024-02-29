@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto por JACQUES SOUCCAR contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, que desafia acórdão assim ementado (e-STJ fl. 74):
+EXECUÇÃO FISCAL. TAXAS. INTERLOCUTÓRIA QUE REJEITA EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ALEGAÇÃO DE PRESCRIÇÃO INTERCORRENTE. MUNICÍPIO QUE NÃO DEU CAUSA À PROLONGADA PARALISAÇÃO DO FEITO. INCIDÊNCIA DA SÚMULA 106 DO SUPERIOR TRIBUNAL DE JUSTIÇA. CRÉDITOS NÃO FULMINADOS. AGRAVO DE INSTRUMENTO IMPROVIDO.
+Não se opera prescrição intercorrente se a execução permanece sem impulso em razão de demora da máquina judiciária, não por inércia do credor.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 102/104).
+No especial obstaculizado (e-STJ fls. 80/97), a recorrente aponta violação dos arts. 240 e 1.022 do CPC/2015.
+Alega, em síntese, a consumação do prazo prescricional, pois "após a decisão que determinou a citação, não houve nenhuma petição protocolada pela municipalidade, ou seja, em quase dez anos, após a decisão, não houve qualquer ato da municipalidade" (e-STJ fls. 81/82).
+Alega que "as provas não foram adequadamente valoradas",
+No que diz respeito ao art. 1.022 do CPC/2015, alega que (e-STJ fls. 84/85):
+ao não dar provimento ao recurso de embargos de declaração tempestivamente interposto houve a negativa de vigência ao art. 1.022 do CPC.
+No recurso de embargos de declaração o ora recorrente questionou a inexistência de providência do agravado com relação ao andamento do feito ou a viabilização da execução.
+O v. Acórdão não se pronunciou sobre o alegado no recurso havendo, portanto, negativa de vigência ao art. 1022 do CPC.
+Sobre o art. 240 do CPC/2015, afirma que "o V. Acórdão não se pronunciou sobre o alegado no recurso havendo, portanto, negativa de vigência do art. 1022 do CPC. Era obrigação do exequente ter providenciado a citação. Evidente que existe demora do Judiciário, mas a teor do parágrafo segundo do art. 240, era obrigação do exequente ao menos protocolar uma petição tentando agilizar o processo. Isso não ocorreu."
+No que diz respeito à interposição recursal pela divergência, afirma que "v. acórdão ora recorrido contraria a jurisprudência nacional posto que a atribuiu responsabilidade exclusiva do Poder Judiciário pelo atraso na conclusão do ato citatório quando, no caso específico, após a decisão ordenadora da citação, o processo ficou mais de DEZ ANOS parado, sem a existência de nenhuma petição da exequente" (e-STJ fl. 86).
+As contrarrazões não foram oferecidas.
+O recurso não foi admitido e a parte apresentou agravo.
+A contraminuta não foi apresentada.
+Passo a decidir.
+Os fundamentos do Tribunal de origem para negar provimento ao recurso de agravo de instrumento (e-STJ fls. 74/76):
+Não vinga o agravo.
+O Município de São Paulo ajuizou execução fiscal para satisfazer créditos oriundos de Taxas de Resíduos Sólidos Domiciliares 2003 a 2005 (fls. 19/21 - cópia das CDA"s).
+Exame das peças que compõem o instrumento revela que: a) execução teve início em abril de 2008 (fls. 16); b) naquele mesmo mês, foi proferido despacho ordenador da citação (ordem de serviço -- fls. 17 -- canto superior direito); c) exceção de pré-executividade foi juntada em julho de 2021 (fls. 23/31); d) aberta vista ao exequente também em julho de 2021 (fls. 42), ele se manifestou sobre a exceptio (fls. 44/46); e) o incidente processual foi rejeitado no mês de fevereiro de 2023 (fls. 50/54).
+Inaugurado o processo na vigência da Lei Complementar n. 118/05, a prescrição foi interrompida pelo despacho ordenador da citação, proferido em abril de 2008.
+O processo esteve paralisado por mais de treze anos, até que juntada a exceção de pré-executividade (5/07/2021 - fls. 23/31). Contudo, inércia não pode ser atribuída ao credor.
+A certidão copiada a fls. 22, sobre ser apócrifa, não indica a data em que expedido mandado/carta de citação.
+O resultado da in ius vocatio sequer foi certificado nos autos, constando apenas a seguinte informação no extrato processual:
+"Aguardando citação" (4/01/2010 - disponível no SAJ).
+A letargia processual foi fruto de retardo da máquina judiciária, algo que não pode prejudicar o Município (rectius: o povo) de São Paulo.
+Incide aqui a Súmula 106/STJ, assim redigida: "proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da justiça, não justifica o acolhimento da arguição de prescrição ou decadência".
+Em casos parelhos, relacionados à mesma entidade impositora, a 18ª Câmara assentou (os destaques não são dos originais):
+"APELAÇÃO - EMBARGOS À EXECUÇÃO FISCAL - AUTO DE INFRAÇÃO (multa administrativa) Insurgência da exequente contra o desacolhimento da alegação de prescrição, ausência de notificação da infração e nulidade da CDA Descabimento - Prescrição, de fato, inocorrente, haja vista que a paralisação advinda nos autos decorreu de evidente falha do Poder Judiciário Aplicação da Súmula 106 do STJ e do art. 240, § 3º, do CPC que se impõe Notificação da multa aplicada devidamente comprovada no feito Nulidade da CDA que já foi objeto de apreciação por ocasião de anterior interposição de agravo de instrumento, encontrando-se, portanto, referida questão preclusa nos autos - Manutenção da r. sentença de primeiro grau que se impõe Recurso desprovido" (Apelação Cível n. 1000092-60.2015.8.26.0090, j. 12/08/2021, rel. Desembargador WANDERLEY JOSÉ FEDERIGHI);
+"Apelação. Execução Fiscal. ISS do exercício de 2007. A sentença extinguiu a execução fiscal em virtude da prescrição intercorrente. Reforma de rigor. É caso típico de aplicação do disposto na Súmula 106 do STJ, pois a paralisação dos autos por longo período deu-se em razão da inércia da máquina judiciária, fato que não pode ser atribuído à municipalidade. Dá-se provimento ao recurso fazendário para afastar-se a prescrição intercorrente" (Apelação Cível n. 9000237-53.2010.8.26. 0090, j. 24/02/2022, rel. Desembargadora BEATRIZ BRAGA).
+Em síntese, os créditos não foram fulminados e não merece censura a r. decisão de 1º grau.
+Por todo o exposto, meu voto nega provimento ao agravo.
+Pois bem.
+O recurso não comporta conhecimento.
+No que concerne à alegação de que o tribunal de origem teria sido omisso em analisar as questões propostas pela recorrente quando da oposição dos embargos de declaração, vale reiterar que é firme a orientação jurisprudencial desta Corte acerca da incidência da Súmula 284 do STF quando o recurso limita-se a sustentar violação do art. 1.022, II, do CPC/2015 de forma genérica, sem especificar "em que consistiria a real ausência de pronunciamento e qual seria a relevância da tese suscitada apta a promover a alteração do julgado" (AgRg no REsp 1.318.004/AM, Rel. Ministro HUMBERTO MARTINS, Segunda Turma, DJe 02/04/2013). A esse respeito, confira-se ainda: AgInt no AREsp 1.129.996/RJ, Rel. Ministro Luís Felipe Salomão, Quarta Turma, DJe 1º/12/2017; AgInt no REsp 1.681.138/MS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 28/11/2017; REsp 1.371.750/PE, Rel. Ministro Og Fernandes, Primeira Seção, DJe 10/04/2015; AgRg no REsp 1.182.912/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 29/04/2016.
+No caso dos autos, a recorrente, no recurso extremo, descurou de explicitar os pontos em que o julgado recorrido incorreu em omissão, contradição ou obscuridade, limitando-se a apontar ofensa genérica ao preceito legal, o que atrai a incidência da referida Súmula do STF.
+No mais, verifico que a desconstituição das conclusões a que chegou o julgado recorrido - a respeito do motivo na demora do andamento processual - demandaria o revolvimento do material fático e probatório dos autos, o que também inviabilizaria, no ponto, o conhecimento do recurso especial em face do que dispõe a Súmula 7 do STJ ("a pretensão de simples reexame de prova não enseja recurso especial" ).
+É que, "segundo a jurisprudência do Superior Tribunal de Justiça, "a verificação quanto à responsabilidade por eventual paralisação do processo, para fins de aplicação ou de afastamento da Súmula 106 do STJ, por demandar reexame de matéria fático-probatória, esbarra no óbice da Súmula 7 do STJ"" (AgInt no REsp 1.961.966/SC, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 22/3/2022.)" (AgInt no REsp 2.005.891/MG, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 9/11/2022, DJe de 14/11/2022.)
+Por fim, cabe destacar que "o não conhecimento do especial pelo conduto da alínea "a" do permissivo constitucional inviabiliza, por conseguinte, a análise do alegado dissídio pretoriano" (AgInt no REsp 1.601.154/PR, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 27/02/2018, DJe 06/04/2018).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
