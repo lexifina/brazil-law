@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu recurso especial apresentado por N. D. I. S. S. fundado no art. 105, III, alínea "a" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 136):
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO DESENTENÇA.
+Astreintes. Pedidode exclusão. Impossibilidade. Descumprimento da obrigação, consistente na disponibilização de terapias ao agravado, pelo método ABA, que é incontroverso. Redução, entretanto, necessária, para atender aos parâmetros estabelecidos no artigo 537, do CPC.
+Precedente da Câmara.
+DECISÃO REFORMADA. AGRAVO PARCIALMENTE PROVIDO."
+Nas razões do recurso especial (e-STJ, fls. 143-159), a agravante alegou violação dos arts. 537 do Código de Processo Civil de 2015; e 884 do Código Civil de 2002, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, não ter havido atraso ou descumprimento das obrigações impostas a recorrente, uma vez que foram tomadas todas as medidas cabíveis para dar cumprimento ao que foi determinado e que "o atendimento pelo método ABA imediatamente após o deferimento da liminar, este não foi devido a qualquer atraso da Operadora, mas sim de estratégia adotada PELA MÉDICA QUE ATENDE O PACIENTE E COM PLENA CIÊNCIA DOS FAMILIARES", não sendo cabível a aplicação de multa, por suposto descumprimento da medida determinada, sob pena de enriquecimento ilícito.
+Foram apresentadas contrarrazões (e-STJ, fls. 191-198).
+Em juízo de admissibilidade o Tribunal de origem deixou de admitir o recurso especial em razão da incidência da Súmulas n. 7/STJ; e da falta de demonstração do dissídio jurisprudencial alegado (e-STJ, fls. 226-228).
+É o relatório. Passo a decidir.
+A irresignação não merece prosperar.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos (e-STJ, fls. 137-138):
+Consigne-se, de saída, ser inadmissível a exclusão da multa cominatória fixada por dia de descumprimento da ordem judicial que determinou o fornecimento de terapias pelo método ABA, porquanto incontroversa a não implementação do tratamento prescrito em sua integralidade (cf. fls. 06, deste recurso).
+Por outro lado, prospera o pedido subsidiário de redução das astreintes. Isto porque, a penalidade processual está limitada a R$90.000,00, quantia incompatível com o valor da causa no processo principal (R$25.000,00 processo nº 1017687-32.2021.8.26.0003), aqui utilizado como parâmetro, ante a falta de valor econômico da obrigação.
+Portanto, o valor das astreintes deve ser revisto, para atender aos patamares estabelecidos no artigo 537, do Código de Processo Civil, reduzindo-se a multa processual para R$1.000,00/dia, atéo limite de R$25.000,00.
+Verifica-se que a modificação dos entendimentos lançados no v. acórdão recorrido a fim de constatar a ocorrência de atraso no cumprimento da determinação judicial demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável na sede estreita do recurso especial, a teor do que dispõe a Súmula n. 7 do STJ.
+No que tange à revisão do valor da multa imposta, cumpre ressaltar que o Superior Tribunal de Justiça firmou orientação no sentido de que, em regra, é inadmissível o exame do valor atribuído às astreintes, só podendo ser reavaliado em hipóteses excepcionais, quando for verificada a exorbitância ou a irrisoriedade da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade.
+Na espécie, não se verifica hipótese excepcional suficiente para abrir a via do especial, pois o valor de R$ 25.000,00 (vinte e cinco mil reais) parece ser adequado às finalidades da multa cominatória, sobretudo a de sanção à parte que se recusa a cumprir obrigação de fazer/não fazer, sem, contudo, gerar enriquecimento ilícito da parte prejudicada. Incidente o óbice da Súmula n. 7/STJ.
+Corroboram  esse  entendimento  os  seguinte s  julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZATÓRIA. 1. FALHA NA PRESTAÇÃO DO SERVIÇO E REDUÇÃO DO VALOR ARBITRADO A TÍTULO DE DANOS MORAIS. IMPOSSIBILIDADE. SÚMULA 7/STJ. 2. TERMO INICIAL DOS JUROS MORATÓRIOS. PRECEDENTES. 3. REDUÇÃO DAS ASTREINTES. REVISÃO. INCIDÊNCIA DA SÚMULA N. 7/STJ. 4. MULTA DO ART. 1.021, § 4º, DO NCPC. ANÁLISE CASUÍSTICA. NÃO OCORRÊNCIA, NA ESPÉCIE. 5. AGRAVO IMPROVIDO.
+1. O Tribunal estadual, após o exame do conteúdo fático-probatório dos autos, deixou assente a ocorrência de falha na prestação do serviço, passível de indenização por danos morais. Reverter a conclusão do Tribunal local, para acolher a pretensão recursal, demandaria o reexame de fatos e provas constantes dos autos, o que se mostra impossível ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+1.1. Aplica-se a Súmula n. 7/STJ também à pretensão de reexame do quantum indenizatório fixado pela origem, sendo tal providência admitida apenas quando o valor for estabelecido em patamar excessivo ou irrisório, situação que não se verifica no caso concreto, em que se fixou o montante de R$ 20.000,00 (vinte mil reais).
+2. No que se refere aos juros de mora na condenação por danos morais, consoante a orientação jurisprudencial assente nesta Corte, o termo a quo é a citação ou o evento danoso, nos casos de responsabilidade contratual ou extracontratual, respectivamente.
+Precedentes. No caso, o acórdão recorrido se alinhou ao posicionamento sedimentado na jurisprudência do STJ ao fixar o termo inicial a partir da citação, o que atrai o óbice da Súmula 83/STJ.
+3. A alteração do entendimento adotado pela Corte de origem no tocante ao cabimento e à proporcionalidade da multa diária imposta pelo descumprimento da determinação judicial demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada na via estreita do recurso especial, conforme o óbice previsto no enunciado n. 7 da Súmula deste Tribunal Superior.
+4. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.353.907/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 26/4/2021, DJe de 29/4/2021 - sem grifo no original).
+Por fim, pela divergência pretoriana, o recurso também não merece acolhida, na medida em que a incidência da Súmula n. 7/STJ também obsta o apelo nobre pela alínea "c" do permissivo constitucional.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
