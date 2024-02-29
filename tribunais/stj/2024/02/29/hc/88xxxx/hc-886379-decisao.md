@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado (fl. 34):
+APELAÇÃO CRIMINAL. CRIME CONTRA O PATRIMÔNIO. FURTO SIMPLES (CÓDIGO PENAL, ART. 155, CAPUT). SENTENÇA CONDENATÓRIA. INSURGIMENTO DA DEFESA.
+REQUESTADA A ALTERAÇÃO DAS SANÇÕES SUBSTITUTIVAS ESTIPULADAS POR MULTA OUAPENAS UMA RESTRITIVA DE DIREITOS. PERTINÊNCIA QUANTO A ESTA ÚLTIMA. IMPOSIÇÃO DE PENA PRIVATIVA DE LIBERDADE DE UM ANO DE DETENÇÃO. NECESSÁRIAEXTIRPAÇÃO DE UMA DAS REPRIMENDAS ALTERNATIVAS, EM OBSERVÂNCIA AODISPOSTO NO ART. 44, § 2º, PRIMEIRA PARTE, DO DECRETO-LEI 2.848/1940. TODAVIA, DISCRICIONARIEDADE DO MAGISTRADO NA ESCOLHA DA MEDIDA ADEQUADA ÀREALIDADE DA COMARCA E DO SENTENCIADO. APLICAÇÃO DE PRESTAÇÃO DE SERVIÇOSÀ COMUNIDADE QUE SE APRESENTA ADEQUADA.
+PARCELA DO PRONUNCIAMENTO ALTERADA. RECURSO CONHECIDO E PARCIALMENTEPROVIDO.
+Consta dos autos que o paciente foi condenado à pena de 1 ano de reclusão, em regime aberto, e ao pagamento de 10 dias-multa, por violação ao art. 155, caput, do Código Penal, substituída a pena privativa de liberdade por duas restritivas de direitos, consistentes em prestações de serviços à comunidade e em prestação pecuniária, no valor de um salário-mínimo.
+Interposta apelação defensiva, foi o recurso parcialmente provido para adequar a sanção substitutiva imposta para apenas uma restritiva de direitos consistente em prestação de serviços à comunidade.
+Daí o presente writ, em que alega a defesa que sendo a pena de multa mais favorável ao paciente, o julgador, nos termos do art. 44, § 2º, do Código Penal, somente poderia optar por substituir a sanção corporal por prestação de serviços à comunidade, em vez de multa, median te fundamentação válida.
+Requer "seja reconhecida a ilegalidade do acórdão impugnado para readequar a pena substitutiva para multa (em vez de prestação de serviços à comunidade), nos termos do § 2.º do art. 44 do Código Penal" (fl. 10).
+Prestadas as informações, manifestou-se o Ministério Público Federal pela extinção do processo sem resolução de mérito ou pela denegação da ordem.
+O Tribunal a quo entendeu que (fls. 33-34):
+ ..
+Dessa maneira, constata-se que o sentenciado de fato faz jus à imposição de multa ou apenas uma sanção restritiva de direitos, entretanto, a escolha de qual delas é mais recomendável ao caso concreto representa a discricionariedade do magistrado, porquanto não há um rol de preferência a ser observado.
+Isso porque, ao tempo em que esta substituição pode evitar " ..  os males que o sistema carcerário acarreta, principalmente com relação àqueles presos que cometeram pequenos delitos e que se encontram misturados com delinquentes perigosos" (GRECO, Rogério. Curso de direito penal: parte geral. 17. ed. Rio de Janeiro: Impetus, 2015, p. 601), deve o Estado concomitantemente dar resposta proporcional ao injusto, de modo que a pena surta seus efeitos retributivo e ressocializador.
+Nesse diapasão, colhe-se da jurisprudência do Superior Tribunal de Justiça:
+ ..
+Por esse motivo, não sendo hipótese de manifesta inadequação, inviabilidade ou desproporcionalidade na imposição de penas diversas da multa, como na conjuntura vertente - haja vista que restaram estipuladas duas restritivas de direitos, conquanto a pecuniária fosse uma das opções disponíveis - muito embora equivocado o quantitativo de sanções estabelecidas, incabível a alteração nos termos em que postulada, devendo ser mantido o juízo de conveniência e oportunidade do sentenciante em relação à reprimenda que deve remanescer, o qual conhece bem a realidade da sua comarca e possui aptidão para discernir sobre a opção substitutiva legalmente prevista que se mostre mais apropriada aos apenados daquela subdivisão jurisdicional.
+Posto isso, tendo em vista que o montante do castigo corporal aplicado não ultrapassa um ano, faz jus o recorrente a somente uma das penas substitutivas aplicadas na origem, nos termos do art. 44, § 2º, do Código Penal, permanecendo a primeira das estipuladas no pronunciamento de primeiro grau, qual seja, prestação de serviços à comunidade.
+Ante o exposto, voto no sentido de conhecer o recurso e dar-lhe parcial provimento para adequar a sanção substitutiva imposta para apenas uma restritiva de direitos consistente em prestação de serviços à comunidade.
+No presente caso, o paciente foi condenado pelo delito de furto, o qual já prevê, no preceito secundário, a aplicação da pena privativa de liberdade cumulada com multa.
+Assim, o pedido não comporta provimento, uma vez que o Superior Tribunal de Justiça segue a orientação de que, "" s e ao tipo penal é cominada pena de multa cumulativa com a pena privativa de liberdade substituída, não se mostra socialmente recomendável a aplicação da multa substitutiva prevista no art. 44, §2º, 2ª parte do Código Penal" (AgRg no HC n. 415.618/SC, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 4/6/2018), como no caso" (AgRg no HC n. 796.858/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 14/8/2023, DJe de 23/8/2023.)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
