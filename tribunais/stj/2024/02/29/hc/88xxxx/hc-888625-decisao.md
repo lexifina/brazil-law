@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Alex Sandro dos Santos Nascimento , apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação Criminal n. 1500604-67.2019.8.26.0535).
+Narram os autos que o paciente foi condenado a 2 anos, 8 meses e 20 dias de reclusão, em regime inicial fechado, e ao pagamento de 12 dias-multa, como incurso no art. 155, § 4º, inciso IV, c/c o art. 14, II, ambos do Código Penal.
+Neste mandamus, a Defensoria Pública alega, de início, a atipicidade material da conduta, destacando que, ainda que haja enquadramento típico formal, a lesão a um bem jurídico causada por uma determinada conduta for inexpressiva, por força do princípio da insignificância não haverá tipicidade material, razão pela qual não terá lugar o direito penal (fl. 6).
+Aduz que, mesmo a reincidência ou os maus antecedentes, isoladamente considerados, impedem o reconhecimento do princípio da insignificância (fl. 8).
+Sustenta a ausência de fundamentos concretos para a fixação do regime inicial aberto.
+Requer, em liminar, a suspensão do processo até julgamento definitivo, expedindo-se contramandado de prisão ou alvará de soltura (fl. 13). No mérito, pugna pela concessão da ordem para que seja reconhecida e restabelecida a conclusão de atipicidade material da conduta, absolvendo-se o paciente com alicerce no art. 386, inciso III, do Código de Processo Penal, ou, em caráter subsidiário, para que haja a imposição de regime inicial aberto (fl. 14). Requer, também, a extensão dos efeitos da concessão da ordem à corré.
+Indeferida a liminar, prestadas as informações de praxe, o Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República Luciano Mariz Maia, pela concessão da ordem (fls. 54/57).
+É o relatório.
+Da atenta leitura dos autos, tem-se que a ordem deve ser concedida.
+No caso dos autos, trata-se de um furto à rede de Supermercados Semar, de bens avaliados em R$ 299,00 (duzentos e noventa e nove reais) - (quatro peças de carne).
+O Tribunal de Justiça, ao afastar a incidência de princípio da insignificância, explicitou o seguinte (fls. 19/20 - grifo nosso):
+ ..
+No caso sub examine, o valor dos bens subtraídos não deve ser considerado irrelevante, isto porque eles foram avaliados em R$ 290,00, conforme auto de fls. 14/15, não podendo ser considerado insignificante.
+Além disso, o apelado Alex Sandro ostenta condenações criminais pretéritas (fls. 240/241), o que afasta o reduzido grau de reprovabilidade do comportamento e a ofensividade mínima da conduta, exigidos para o reconhecimento da conduta insignificante.
+Do mesmo modo, não restou configurada a exclusão da ilicitude, pois ausentes os requisitos atinentes ao estado de necessidade. A subtração de gêneros alimentícios, por si só, não implica no reconhecimento automático do furto famélico. Assim, não restou comprovado nos autos os motivos a invocar o estado de necessidade.
+Outrossim, não se vislumbra no caso sub examine a hipótese de atipicidade do fato por absoluta ineficácia do meio empregado, porquanto a lei penal adotou em prol do crime impossível a teoria objetiva temperada ou intermediária, para a qual somente a inidoneidade absoluta do meio ou do objeto é que permite o seu reconhecimento, de maneira que diante da possibilidade, ainda que mínima, de o agente obter a consumação do delito, não se pode falar em crime impossível.
+ ..
+Contudo, observa-se que as circunstâncias evidenciadas demonstram a excepcionalidade que autoriza o reconhecimento da atipicidade material.
+Neste feito, o princípio da insignificância deve ser analisado em conexão com os postulados da fragmentariedade e da intervenção mínima do Estado em matéria penal, no sentido de excluir ou afastar a própria tipicidade penal, observando-se a presença de "certos vetores, como (a) a mínima ofensividade da conduta do agente, (b) a nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada (HC n. 98.152/MG, Ministro CELSO DE MELLO, Segunda Turma, DJe 5/6/2009) - (AgRg no HC n. 752.239/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 8/8/2022).
+Ademais, em recente decisão monocrática (9/10/2023), no HC n. 233.098/MG, o Ministro Gilmar Mendes, do Supremo Tribunal Federal, destacou o seguinte (grifo nosso): Inicialmente, acerca do princípio da insignificância, é sabido que se trata de excludente da própria tipicidade. Ou fato é típico e se prossegue à análise dos demais elementos ou o fato é atípico e está encerrada a discussão. Não me parece razoável, à luz de qualquer teoria do delito, indagar, em tese, para o reconhecimento de atipicidade, se o agente é primário ou reincidente, porquanto é controvérsia relacionada à dosimetria da pena e não à tipicidade. Em que pese a ficha criminal do paciente, se o princípio da insignificância é causa de exclusão da própria tipicidade, resta, prima facie, irrelevante a análise da ficha de antecedentes criminais.
+Outra não foi a opinião do nobre Subprocurador-Geral da República, que destacou, em seu parecer, que o juízo informou a existência de anteriores crimes contra o patrimônio, mas isso não impede o reconhecimento da atipicidade material da conduta (fl. 56).
+Ante o exposto, à vista do parecer e dos precedentes, concedo a ordem para, cassando o acórdão impugnado, reconhecer a ausência de tipicidade material da conduta imputada ao paciente na Ação Penal n.1500604-67.2019.8.26.0535, da 1ª Vara da comarca de Arujá/SP, absolvendo-o do crime de furto tentado.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. FURTO QUALIFICADO TENTADO. INCIDÊNCIA DO PRINCÍPIO DA INSIGNIFICÂNCIA. REINCIDÊNCIA. CIRCUNSTÂNCIA QUE NÃO IMPEDE O RECONHECIMENTO DA ATIPICIDADE. CONSTRANGIMENTO ILEGAL EVIDENTE. PARECER ACOLHIDO.
+Ordem concedida nos termos do dispositivo.
