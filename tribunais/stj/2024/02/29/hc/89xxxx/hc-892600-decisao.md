@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de LEANDRO ROGERIO LIMA OLIVEIRA no qual se aponta como autoridade coatora o Tribunal de Justiça do Distrito Federal e dos Territórios (Apelação n. 0704525-81.2020.8.07.0011).
+Depreende-se dos autos que o paciente foi condenado, como incurso no art. 171, caput, do Código Penal (furto e falsa identidade), à pena de 1 ano e 9 meses, no regime inicial semiaberto.
+Foi dado parcial provimento ao recurso de apelação da defesa para reduzir a pena aplicada.
+Alega a defesa, na presente impetração, que deve ser aplicado o princípio da insignificância, não obstante a reincidência do paciente.
+É o relatório.
+Decido.
+A primeira tese apresentada ao Superior Tribunal de Justiça associa-se estreitamente ao princípio da intervenção mínima, segundo o qual o Direito Penal somente deve ser aplicado quando estritamente necessário ao combate de comportamentos indesejados, mantendo-se subsidiário e fragmentário.
+Nesse contexto, trouxe-nos a doutrina o princípio da insignificância, propondo que se excluam do âmbito de incidência do Direito Penal situações em que a ofensa concretamente perpetrada seja de pouca importância, noutras palavras, incapaz de atingir materialmente e de modo intolerável o bem jurídico protegido.
+A propósito do tema, Carlos Vico Ma as anuncia que "o princípio da insignificância surge como instrumento de interpretação restritiva do tipo penal que, de acordo com a dogmática moderna, não pode ser considerado apenas em seu aspecto formal, de subsunção do fato à norma, mas, primordialmente, em seu conteúdo material, de cunho valorativo, no sentido da sua efetiva lesividade ao bem jurídico tutelado pela norma penal, o que consagra o postulado da fragmentariedade do direito penal". Esclarece, outrossim, que o princípio em análise baseia-se "na concepção material do tipo penal, por meio da qual é possível alcançar, pela via judicial e sem macular a segurança jurídica do pensamento sistemático, a proposição político-criminal da necessidade de descriminalização de condutas que, embora formalmente típicas, não atingem de forma socialmente relevante os bens jurídicos protegidos pelo Direito Penal" (O Princípio da Insignificância como Excludente da Tipicidade no Direito Penal. 1. ed. São Paulo: Saraiva, pp. 56/81).
+Entretanto, a aplicação do mencionado postulado não é irrestrita, sendo imperiosa, na análise do relevo material da conduta, a presença de certos vetores, tais como: (a) a mínima ofensividade da conduta do agente, (b) a ausência de periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada.
+A Corte de origem entendeu indevida a aplicação do princípio da insignificância, destacando que (e-STJ fls. 490/491):
+No caso em exame, em que pese o pequeno valor obtido pela conduta descrita na denúncia, chama a atenção o alto grau de reprovabilidade da conduta do apelante visto que já condenado por outros crimes de estelionato, se utilizando do mesmo modo de proceder em todos eles.
+Além do estelionato, o acusado possui outras condenações definitivas, como se observa de sua folha de antecedentes (ID 53088715), o que demonstra não se tratar de conduta isolada, mas de reiterada prática delitiva que impossibilita a aplicação do princípio da insignificância para sua absolvição.
+Igualmente, não há que se falar que a conduta do apelante é minimamente ofensiva tendo em vista que os autos apontam para o seu envolvimento em vários crimes de estelionato, em série, inclusive utilizando-se do mesmo veículo descrito nesse processo, com o mesmo modo de agir em todos eles. Mesmo antes de parar abastecer, o réu já tinha prévio conhecimento de que abandeira do cartão recusaria o crédito, e aí ele utilizaria a "desculpa" de retornar com o dinheiro.
+No presente caso, não há como reconhecer o reduzido grau de reprovabilidade ou a mínima ofensividade da conduta, de forma a viabilizar a aplicação do princípio da insignificância.
+Com efeito, nos termos da jurisprudência desta Casa, o princípio da insignificância busca obstar que desvios de conduta irrisórios e manifestamente irrelevantes sejam alcançados pelo Direito Penal. Não objetiva resguardar condutas habituais juridicamente desvirtuadas, pois comportamentos contrários à lei, ainda que isoladamente irrisórios, quando transformados pelo infrator em verdadeiro meio de vida, perdem a característica de bagatela e devem sujeitar-se ao Direito Penal.
+Ilustrativamente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. REITERAÇÃO DELITIVA. REGIME SEMIABERTO. REINCIDÊNCIA. FUNDAMENTO CONCRETO.
+1. Incabível o reconhecimento da atipicidade material, porquanto a reiteração delitiva obsta a incidência do princípio da insignificância, ainda que restituído o bem.
+2. A reincidência constitui fundamento concreto para o agravamento do regime prisional, ainda que fixada a pena inferior a 4 anos de reclusão, nos termos do art. 33, §§ 2º e 3º, do CP.
+3. Agravo regimental improvido.
+(AgRg no AREsp n. 2.299.947/DF, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT , Sexta Turma, julgado em 10/10/2023, DJe de 16/10/2023.)
+Ante todo o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
