@@ -1,0 +1,18 @@
+DECISÃO
+O presente writ, impetrado em benefício de Alexandre Pereira de Barros - cumprindo pena privativa de liberdade, em razão de condenações pelos crimes de tráfico de drogas, homicídio simples tentado, extorsão mediante sequestro e roubo majorado -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Agravo de Execução Penal n. 9000495-17.2023.8.26.0637), comporta pronto acolhimento.
+Com efeito, insurge-se a impetração contra o acórdão do Tribunal de Justiça de São Paulo que modificou a decisão do Juízo de Direito da Vara de Execuções Criminais da comarca de Tupã/SP (PEC n. 7004465-65.2009.8.26.0050) para cassar a progressão de regime concedida ao paciente, ao argumento de que a fundamentação apresentada carece de respaldo legal e contraria entendimento consolidado por essa Casa de Justiça (fl. 6).
+Da análise dos autos observa-se que o Tribunal se apegou à gravidade abstrata dos crimes pelos quais o paciente cumpre pena e na longevidade da reprimenda, para cassar a progressão de regime prisional concedida pelo Juízo da Execução Penal, ao afirmar que (fl. 74):
+ ..
+Verifica-se, no caso em comento, que o agravado cumpre pena total de 38 anos e 8 meses de reclusão, pela prática dos crimes de tráfico de drogas, cometido antes da vigência da Lei n. 11.464/2007, de extorsão mediante sequestro, de homicídio simples tentado e de dois crimes de roubo duplamente majorado, com o término de cumprimento de pena previsto para 27/9/2040 (fls. 4/12).
+Nesse compasso, sobretudo em face a gravidade dos atos praticados e enorme periculosidade e nocividade demonstradas pelo agravado, além do montante de pena ainda a ser descontado, entendo que o tempo que esteve preso não foi suficiente para se aferir, com a certeza necessária, que ele está apto à obtenção de benesse de tamanha amplitude.
+Note-se, ainda, que, em que pesem os apontamentos favoráveis trazidos pelo exame criminológico ao qual foi submetido o sentenciado, o relatório do serviço social esclareceu que " ..  Reincidente assume os delitos que lhe são imputados, porém com fraca elaboração reflexiva frente a sua conduta  ..  Planos futuros carecem de melhor elaboração."(fl. 43v).
+Ademais, é certo que não está o Magistrado vinculado ao exame criminológico, de modo que deve ser avaliado o histórico prisional do apenado como um todo, uma vez que as conclusões exaradas na aludida perícias e prestam, tão somente, a orientá-lo, diante de todos os demais elementos de convicção reunidos, podendo ele, pois, nos termos do que preceitua o art. 182, do CPP, no tocante ao resultado dos laudos produzidos, "aceitá-lo ou rejeitá-lo, no todo ou em parte."
+ ..
+Ocorre que há muito este Superior Tribunal tem considerado inidônea, para justificar a negativa da progressão de regime ou a submissão do apenado à perícia técnica, a fundamentação baseada na gravidade dos crimes pelos quais o condenado cumpre pena, bem como a longevidade da reprimenda aplicada (HC n. 628.101/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 14/12/2020).
+Em face do exposto, concedo liminarmente a ordem impetrada para restabelecer a decisão do Juízo de Direito da Vara de Execuções Criminais da comarca de Tupã/SP (PEC n. 7004465-65.2009.8.26.0050) que concedeu a progressão de regime ao paciente.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. PROGRESSÃO DE REGIME. INDEFERIMENTO. GRAVIDADE ABSTRATA DO CRIME E LONGEVIDADE DA PENA APLICADA. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida nos termos do dispositivo.
