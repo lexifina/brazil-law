@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de LUIZ DA SILVA GASPARINI em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 0027090-74.2010.8.26.0602).
+Consta dos autos que o paciente foi condenado à pena de 28 anos de reclusão, por infração aos arts. 288, parágrafo único, e 159, § 1º, c/c os arts. 62, inciso I, e 69, caput, todos do Código Penal.
+Inconformado, apelou. O Tribunal a quo negou provimento ao recurso, em acórdão assim ementado (e-STJ fls. 130/131):
+EXTORSÃO MEDIANTE SEQÜESTRO - QUADRILHA ARMADA - PORTE ILEGAL DE ARMA DE FOGO - PRETENDIDA A ABSOLVIÇÃO POR FALTA DE PROVAS - INADMISSIBILIDADE - DELITO FORMAL QUE SE CONSUMA COM O ARREBATAMENTO DA VITIMA, INDEPENDENTEMENTE DA OBTENÇÃO DA VANTAGEM ECONÔMICA - PRISÃO EM FLAGRANTE DOS RÉUS PRÓXIMO DO CATIVEIRO - ARMAS, CELULARES, OBJETOS E VEÍCULOS UTILIZADOS NO SEQÜESTRO APREENDIDOS - DEPOIMENTOS DOS AGENTES DA LEI SEGUROS E COERENTES CORROBORADOS PELOS DEMAIS ELEMENTOS CARREADOS AOS AUTOS - PROVA ROBUSTA - CONDENAÇÃO MANTIDA - RECURSO NÃO PROVIDO.
+EXTORSÃO MEDIANTE SEQÜESTRO - QUADRILHA ARMADA - PORTE ILEGAL DE ARMA DE FOGO - PEDIDO SUBSIDIÁRIO - PRETENDIDA DIMINUIÇÃO DA PENA - RECONHECIMENTO DAS ATENUANTES DA CONFISSÃO ESPONTÂNEA E DA MENORIDADE RELATIVA INADMISSIBILIDADE - ATENUANTES QUE NÃO TÊM O CONDÃO DE REDUZIR A PENA AQUÉM DO MÍNIMO LEGAL - SÚMULA 231 DO STJ - CONDENAÇÃO MANTIDA - RECURSO IMPROVIDO.
+No presente habeas corpus, sustenta a defesa a ocorrência de nulidade absoluta, tendo em vista a ausência de intimação pessoal do réu acerca da sentença condenatória.
+Prossegue dizendo que o conjunto probatório é frágil e não conclusivo sobre a real participação do paciente no evento criminoso, impondo-se a sua absolvição.
+Pretendendo o afastamento da causa de aumento prevista no § 1º do art. 159 do CP, afirma que o referido dispositivo deve ser conjugado com o art. 288 do mesmo diploma legal, sendo necessário à caracterização da majorante o número mínimo de mais de 3 (três) pessoas, ou seja, ao menos 4 (quatro).
+Sustenta, ademais, que não houve vínculo permanente para caracterizar o delito previsto no art. 288 do CP, sendo a hipótese de mero concurso de agentes.
+Insurge-se, por fim, contra a pena-base, fixada acima do mínimo legal, e contra a incidência da agravante prevista no art. 62, I, do CP.
+Requer, liminarmente e no mérito, a absolvição do paciente. Alternativamente, pugna pela redução da pena que lhe foi imposta.
+É o relatório.
+Decido.
+Preliminarmente, cumpre salientar que é competência do relator, em decisão in limine, aplicar jurisprudência pacífica do colegiado, conforme expressamente dispõem os incisos XVIII e XX do art. 34 do Regimento Interno do Superior Tribunal de Justiça, bem como julgados nesse sentido das turmas criminais desta Corte (vide AgRg no HC n. 622.778/RS, relator Ministro Nefi Cordeiro, Sexta Turma, DJe 10/12/2020; e AgRg no HC n. 622.822/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 23/11/2020).
+O writ não merece conhecimento.
+O Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais, mas da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nessa linha, esta Corte, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+Nesse mesmo sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO TENTADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ILEGALIDADE FLAGRANTE NÃO DEMONSTRADA. REPRIMENDA INFERIOR A QUATRO ANOS. PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME MAIS GRAVOSO. POSSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA EVIDENCIADA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. EFEITO DEVOLUTIVO AMPLO DO RECURSO DE APELAÇÃO. BIS IN IDEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS. ACÓRDÃO TRANSITADO EM JULGADO. DOSIMETRIA. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. AUMENTO DA PENA-BASE. ELEVADA QUANTIDADE DE DROGAS. PROPORCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+(AgRg no HC n. 751.137/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/8/2022, DJe de 4/8/2022, grifei.)
+No caso, a condenação do paciente transitou em julgado em 7/2/2014 (e-STJ fl. 160), de maneira que não se deve conhecer do writ que pretende a desconstituição do acórdão proferido pela Corte local, olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência desta Corte acerca da controvérsia.
+De toda forma, não se vislumbra ilegalidade flagrante apta a ser sanada na presente via, ainda que mediante a eventual concessão de habeas corpus de ofício, como será esclarecido.
+Explico.
+Da leitura do acórdão recorrido, observo que o paciente, nas razões da apelação, limitou-se a pleitear a absolvição por insuficiência probatória (e-STJ fl. 133).
+Assim, as questões relacionadas com a suposta ausência de intimação pessoal da sentença condenatória e com a dosimetria não foram objeto de análise pela Corte de origem, não podendo ser apreciada, nesta oportunidade, sob pena de indevida supressão de instância.
+Prosseguindo na análise das teses defensivas, não vejo como acolher o pleito absolutório.
+Veja, a propósito, o que disse o Tribunal a quo ao confirmar a sentença condenatória (e-STJ fls. 145/147):
+O quadro probatório é sólido e demonstra em seu conjunto as condutas ilícitas dos apelantes; suas negativas estão isoladas, não merecendo crédito. Os depoimentos colhidos durante a instrução são firmes e substanciais, apontando-os como os agentes criminosos.
+As provas trazidas aos autos demonstram que os réus praticaram os crimes de extorsão mediante sequestro, quadrilha armada e porte ilegal de arma de fogo, inexistindo elementos que possam contrariar o panorama processual formado. Além disso, todos estavam previamente ajustados para a prática de crime contra o patrimônio, demonstrando que um emprestava apoio ao outro na empreitada criminosa.
+Portanto, não há dúvida do cometimento dos crimes a que foram condenados, em especial pela extorsão mediante sequestro, cometido pelos réus, que sequestraram Victor Cadete, mantendo-o em cativeiro por cinco dias, exigindo o pagamento de valor de resgate para liberá-lo. Assim, indiscutível a ocorrência do crime previsto no artigo 159, § 1º, do Código Penal, tanto sob o aspecto fálico, como sob o ângulo jurídico.
+Observo que os delitos imputados aos apelantes são graves, não só na razão direta da extensão dos danos físicos, morais e psicológicos, como pela audácia e maquinação intelectual criminosa empregada na sua materialização, que demonstram periculosidade dos agentes.
+De fato, as provas inseridas no processo demonstram a frieza e o calculismo, elementos bem próprios de personalidades criminosas. Essas características não refletem uma manifestação isolada e eventual de conduta, a sugerir ausência, ou pelo menos presunção, de que o crime foi movido tão-só por uma compulsão temporária. Mas, ao inverso, certificam exteriorização objetiva e concreta de que os acusados tornarão a delinquir se em liberdade.
+Ora, concluindo as instâncias ordinárias, soberanas na análise das circunstâncias fáticas da causa, que o paciente praticou os delitos previstos nos arts. 288, parágrafo único, e 159, § 1º, c/c os arts. 62, inc. I, e 69, caput, todos do CP, entender pela absolvição, nesta oportunidade, implica em reexame aprofundado do material fático-probatório, o que é inviável na via eleita.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. PRETENSÃO DE ABSOLVIÇÃO. PRESENÇA DE MEIOS DE PROVA IDÔNEOS. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE. AFASTAMENTO DA MAJORANTE PELO EMPREGO DE ARMA DE FOGO. CAUSA DE AUMENTO NÃO RECONHECIDA NA ORIGEM.
+1. A pretensa revisão do julgado, com vistas à absolvição do agravante, não se coaduna com a estreita via do habeas corpus, dada a necessidade de profundo reexame de fatos e provas.
+2. Hipótese em que as instâncias ordinárias formaram convicção em elementos de prova válidos, sem evidente flagrante ilegalidade, com referência a prova oral e filmagens de vídeos, dados que permitiram chegar até o paciente, dono do veículo utilizado no roubo e para fuga.
+3. Inexistente constrangimento ilegal, nem sequer interesse no pleito de afastamento da majorante pelo emprego de arma de fogo, porque na origem apenas se reconheceu o concurso de agentes.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 774.351/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 21/8/2023, DJe de 24/8/2023.)
+À guisa do exposto, in limine, não conheço do habeas corpus, nos termos acima delineados.
+Publique-se. Intimem-se.
+EMENTA
