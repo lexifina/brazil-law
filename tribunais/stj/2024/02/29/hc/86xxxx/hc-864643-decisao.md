@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de EZEQUIAS DOS SANTOS SOUTO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO no julgamento da apelação criminal n. 0001533-59.2020.8.08.0045.
+Consta dos autos que o paciente foi condenado pelo Juízo da 3ª Vara do Júri da Comarca de Nova Venécia às penas de 11 (onze) anos e 10 (dez) meses e 15 (quinze) dias de reclusão e 70 (setenta) dias-multa, por incursão no artigo 157, § 3º inciso II, na forma do artigo 14, inciso II, com aplicação das causas de aumento de pena previstas no § 2º, inciso II e § 2º-A, inciso I , todos do Código Penal, consoante a sentença de fls. 31-49.
+Não satisfeito, o paciente interpôs apelação criminal ao Tribunal de Justiça, que negou provimento ao recurso, conforme o acórdão de fls. 10-18.
+No presente writ, o impetrante alega que o acórdão impugnado padece de flagrante ilegalidade, consistente na fundamentação insuficiente a justificar a negativação dos vetores da culpabilidade e das circunstâncias do crime, na primeira etapa da dosimetria da pena.
+Requer, liminarmente e no mérito, a concessão da ordem de modo que a pena-base seja redimensionada para um montante próximo ao mínimo legal.
+O pedido liminar foi indeferido às fls. 52-53.
+Informações prestadas às fls. 61-74 e 77-79.
+O Ministério Público Federal, às fls. 81-90, opinou pelo não conhecimento do habeas corpus e, caso conhecido, pela denegação da ordem.
+É o relatório. DECIDO.
+A controvérsia consiste na possível existência de ilegalidade flagrante no acórdão impugnado em razão da fundamentação insuficiente a justificar a negativação dos vetores da culpabilidade e das circunstâncias do crime, na primeira etapa da dosimetria da pena.
+Registro que a via do writ somente se mostra adequada para a análise da dosimetria da pena quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+No tocante à primeira etapa da dosimetria da pena, mais especificamente quanto à vetorial da culpabilidade, as instâncias ordinárias concluíram, fundamentadamente, pela sua negativação, ao argumento de que o paciente e o corréu premeditaram a subtração do veículo, o qual seria entregue a um receptador em Pedro Canário/ES.
+Trata-se de circunstância apta a ensejar a exasperação da basilar em razão da maior reprovabilidade da conduta do paciente, consoante jurisprudência desta Corte Superior.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO QUALIFICADO. FUNDAMENTOS CONCRETOS PARA A EXASPERAÇÃO DA PENA-BASE.  ..
+1. Na primeira fase da dosimetria foram apontados fundamentos concretos para a exasperação da pena-base, em razão da culpabilidade diferenciada pela premeditação, tendo sido indicado, pelas instâncias de origem, o planejamento prévio e detalhado, com divisão de tarefas entre os agentes, além do elevado valor da carga subtraída.
+ ..  5. Agravo regimental improvido.
+(AgRg no HC n. 833.660/SP, Relator Ministro JESUÍNO RISSATO (Desembargador convocado do TJDFT), SEXTA TURMA, DJe de 15/12/2023.)
+RECURSOS ESPECIAIS. PENAL E PROCESSUAL PENAL. EXTORSÃO MEDIANTE SEQUESTRO.  ..
+ ..  13. Os fundamentos apresentados para justificar a negativação dos vetores judiciais da culpabilidade (premeditação) e circunstâncias do crime (modus operandi) foram robustos o suficiente para a exasperação da pena-base.
+14. A culpabilidade foi desabonada para os três delitos, tendo em vista a conduta premeditada do Réu. No ponto, a conclusão da jurisdição ordinária assemelha-se ao entendimento desta Corte, no sentido de que "a premeditação do delito é fundamento que pode legitimar a exasperação da pena-base" (AgRg no HC n. 788.492/SP, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 13/03/2023, DJe 23/03/2023) (AgRg no HC n. 811.674/RS, Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2023).
+ ..  16. Negado provimento ao recurso especial de G A W DOS S, conhecido parcialmente o recurso especial de R A P e, nessa extensão, negado provimento; e negado provimento ao recurso especial de D O de P.
+(REsp n. 2.046.123/MT, Relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe de 27/10/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ROUBO MAJORADO.  ..
+ ..  4. A culpabilidade como medida de pena, nada mais é do que o maior ou menor grau de reprovabilidade da conduta. No caso concreto, a intensidade do dolo ficou cabalmente demonstrada através de elementos concretos que, de fato, demonstram merecer uma maior reprovação pela valoração negativa dessa circunstância judicial, haja vista a premeditação e modus operandi da prática delitiva, pois o paciente e outros dois corréus, com o uso de armas de fogo, praticaram o roubo em plena tarde, contra o veículo ocupado pelas vítimas, que transitava em rodovia federal (e-STJ, fl. 32).
+Evidenciada, portanto, a intensidade do dolo e a maior reprovabilidade da conduta, a justificar a exasperação da basilar a esse título. Precedentes.
+ ..  8. Agravo regimental não provido.
+(AgRg no HC n. 855.270/PR, Relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe de 27/10/2023.)
+Nada a reparar, portanto, quanto ao ponto.
+No tocante à vetorial das circunstâncias do delito, transcrevo a fundamentação adotada pelo magistrado de primeira instância, ratificada pela Corte de origem, para melhor delimitação da controvérsia (fls. 38-46):
+" ..  De outra sorte, restou evidenciado a incidência do § 2º-A, inciso , do artigo 157 do Código Penal, pois a ameaça foi exercida com emprego de arma de fogo na empreitada criminosa, conforme se depreende dos depoimentos das vítimas em juízo.
+Outrossim, esclareço que pelas circunstâncias dos acusados terem agido em concurso de pessoas, majorante contida no parágrafo 2º, incisos II, do artigo 157 do Código Penal e ameaça exercida com emprego de arma de fogo, ambas previstas no artigo 157 do Código Penal, serão valoradas na primeira fase do processo de dosimetria da pena, por compreender que não são cumulativas com a qualificadora prevista no § 3º do citado artigo.
+ ..  f) as circunstâncias são negativas, eis que o acusado agiu em concurso de pessoas e com emprego de arma de fogo, visando facilitar a execução do crime, ensejando uma maior reprovabilidade da conduta, também não recaindo em bis in idem, conforme declina o anteriormente."
+Não vislumbro qualquer ilegalidade flagrante a ser reparada quanto ao ponto.
+No tocante à alegação de bis in idem em razão da valoração das referidas circunstâncias na primeira e na terceira etapa da dosimetria, ressalto que, consoante fundamentação transcrita, não restou configurado no presente caso.
+Isso porque ambas as causas de aumento foram valoradas apenas como circunstâncias judiciais desfavoráveis, na primeira etapa da dosimetria, não tendo a reprimenda do paciente sofrido qualquer aumento a tal título, na terceira etapa da dosimetria, sob a roupagem das causas de aumento de pena previstas no artigo 157, § 2º, II e § 2º-A-I.
+Assinalo que, "diante do reconhecimento de mais de uma causa de aumento previstas no mesmo tipo penal, é possível o deslocamento de uma delas para a primeira fase, a fim de majorar da pena-base, desde que a reprimenda não seja exasperada, pelo mesmo motivo, na terceira etapa da dosimetria da pena e que seja observado o percentual legal máximo previsto pela incidência das majorantes" (AgRg no AREsp n. 2.408.118/ES, Relator Ministro MESSOD AZULAY NETO, QUINTA TURMA, DJe de 24/10/2023).
+Corroborando o entendimento:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO. VIOLAÇÃO AO ART. 68, PARÁGRAFO ÚNICO, DO CP. AFASTADA A APLICAÇÃO CUMULATIVA DAS MAJORANTES. PEDIDO DE DESLOCAMENTO DAS MAJORANTES REMANESCENTES PARA A PRIMEIRA FASE. DISCRICIONARIEDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Como se sabe, é entendimento assente nesta Corte Superior, segundo o qual admite-se a utilização das majorantes sobejantes do crime de roubo, não empregadas para aumentar a pena na terceira fase da dosimetria, como circunstância judicial do art. 59 do Código Penal (AgRg no AREsp n. 1.211.369/MS, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 8/5/2018, DJe de 21/5/2018).
+2. Entretanto, o deslocamento de causas de aumento do crime de roubo para a primeira fase da dosimetria se encontra inserida no juízo de discricionariedade do julgador. Destarte, considerando que não há obrigatoriedade de aplicação de majorante sobejante para exasperar pena-base, não cabe a esta Corte alterar a conclusão exarada pelo Tribunal de origem.
+3. A individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+4. Agravo regimental desprovido." (AgRg nos EDcl no REsp n. 2.051.458/MG, Relator Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe de 29/6/2023.)
+" ..  2. O aresto está em harmonia com a jurisprudência desta Corte, firme no sentido de que, "havendo duas ou mais qualificadoras, uma delas deverá ser utilizada para qualificar a conduta, alterando o quantum da pena em abstrato, e as demais poderão ser valoradas na primeira ou segunda fase da dosimetria, a depender da hipótese" (HC 374.740/RJ, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+3. Apesar de fixada pena inferior a 4 anos de reclusão, o recorrente o detém circunstância judicial desfavorável e é reincidente, sendo admitido o regime fechado, nos termos do art. 33, §§ 2º e 3º, do Código Penal - CP. Inaplicabilidade da Súmula n. 269/STJ.
+4. Agravo regimental desprovido." (AgRg no AREsp n. 2.238.273/SP, Relator Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe de 23/6/2023.)
+Saliento, ainda, que o deslocamento de ambas as causas de aumento para a primeira fase da dosimetria, tal qual ocorreu no presente caso, foi benéfico ao paciente, até porque foram valoradas conjuntamente a título da vetorial das consequências do delito, ensejando um aumento de apenas 1/8 (um oitavo), incidente sobre o intervalo de pena abstratamente estabelecido no preceito secundário do tipo penal incriminador.
+Assim, não há que se falar em il egalidade quanto ao ponto.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
