@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por REGINA MARÍLIA PRADO MANSSUR e OUTRO contra decisão monocrática desta Relatoria que conheceu do agravo para negar provimento ao recurso especial.
+Em suas razões, alegam os embargantes que nas razões do Recurso Especial exerceram impugnação específica, colacionando trechos do v. Acórdão recorrido, confrontando-os e discorrendo sobre a alegada vulneração instruída com transcrição do artigo tido como violado (art. 803, I, do CPC), restando demonstrada a contradição na r. decisão embargada.
+Alega, ainda, que , a r. decisão embargada mostra-se omissa e obscura, posto que não se manifestou quanto a questão de ordem pública abordada nas razões do Recurso Especial, consubstanciada na nulidade da execução que se apoia em título nulo.
+Intimado, o embargado apresentou impugnação pleiteando a rejeição dos embargos, com aplicação da penalidade do artigo 1.026, §2º do CPC (e-STJ fl. 543/566)
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Além disso, a contradição que vicia o julgado de nulidade é a interna, em que se constata uma inadequação lógica entre a fundamentação posta e a conclusão adotada, o que, a toda evidência, não retrata a hipótese dos autos.
+No caso dos autos, os embargantes mostram-se inconformados com a conclusão constante na decisão embargada de que a determinação para que se aguarde a definição da perícia para uma decisão conjunta em que possam ser considerados todos os acontecimentos importantes de ambos os incidentes já foi exaustivamente debatida nos autos, operando-se a preclusão sobre o tema, tema que não foi impugnado nas razões do recurso especial, convocando, na hipótese, a incidência da Súmula 283/STF.
+E quanto a alegação de que decisão embargada foi omissa quanto à nulidade da execução que se apoia em título nulo, assim constou no julgado embargado:
+"Como visto, a Corte de origem manteve a decisão de primeiro grau de que o presente incidente de cumprimento de sentença deve aguardar o desfecho do cumprimento de sentença nº 0011054-47.2011.8.26.0011, em que os agravados executam a obrigação de fazer (demolição), sem que tenha havido, no acórdão recorrido, pronunciamento da Corte de origem acerca alegada iliquidez do título executivo.
+Daí que quanto à alegada violação do artigo 803, inciso I do CPC, resta ausente o indispensável prequestionamento, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF." (e-STJ fl. 522)
+De ver-se, portanto, que os presentes embargos declaratórios revelam o nítido propósito da parte embargante em rediscutir temas que foram devidamente apreciados, o que é defeso por meio da via processual escolhida, desautorizando, deste modo, o acolhimento da pretensão embutida nos aclaratórios.
+Por fim, não merece acolhida o pedido de condenação do embargante ao pagamento de multa, pois os embargos de declaração, na espécie, foram opostos com o intuito de questionar matéria considerada não apreciada, sem que tenha havido demonstração de dolo, ou seja, da intenção de obstrução do trâmite regular do processo.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
