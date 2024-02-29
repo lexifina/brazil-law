@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de LUCAS FAVORETTO LIMA DE SOUZA contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no Agravo de Execução Penal n. 0000192-42.2024.8.26.0502.
+Consta dos autos que o Juízo da Execução Penal determinou a prévia realização de exame criminológico para fins de livramento condicional.
+O Tribunal a quo manteve a decisão de primeiro grau em acórdão assim ementado:
+"Agravo em execução - Determinação de realização de exame criminológico antes da apreciação do pedido de Livramento Condicional - Decisão fundamentada - Art. 112, LEP, alterado pela Lei nº 10.792/03, apesar de não exigir a realização de exame criminológico, fica a critério do Juiz sua realização. Decisão mantida.
+RECURSO DESPROVIDO" (fl. 335).
+No presente mandamus, a impetrante sustenta, em síntese, que não foram apresentados fundamentos idôneos para a determinação de realização da referida perícia. Aduz que o paciente preenche todos os requisitos para a concessão da benesse.
+Requer a concessão da ordem nesse sentido.
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+No caso dos autos, a controvérsia refere-se ao exame criminológico.
+Determinando a prévia realização de exame criminológico, asseveraram as instâncias ordinárias:
+Decisão:
+" ..
+Cuida-se de pedido de livramento condicional em que o Ministério Público requer a realização de exame criminológico.
+Tratando-se de apenado reincidente, com longa pena a cumprir (superior a 22 anos de reclusão), que cometeu, entre outros, crimes com violência ou grave ameaça à pessoa (roubos majorados), e que pretende a antecipação de sua liberdade, entendo por necessária a realização do exame criminológico, a fim de se aferir a presença do requisito subjetivo indispensável ao pleito, que não se resume, a toda evidência, ao mero comportamento carcerário.
+Como acentua Guilherme de Souza Nucci: "a jurisprudência, após a modificação introduzida pela Lei 10.792/2003, ao art. 112 da Lei de Execução Penal, tem, majoritariamente, adotado posição contrária à abolição padronizada do exame criminológico, exigível para a progressão de regimes, mormente de condenados por crimes violentos contra a pessoa. Em função da individualização executória da pena, não se pode permitir que um mero atestado de conduta carcerária cerceie o convencimento do magistrado, levando-o a estabelecer uma progressão-padrão" (Individualização da Pena, 3a edição, Ed. RT, p. 11/12).
+Embora a realização do exame criminológico, a teor do art. 96 da LEP, não seja indispensável para instruir incidente da execução criminal, ainda constitui importante instrumento da execução penal, principalmente em caso como o presente" (fl. 306).
+Acórdão:
+" ..
+No caso dos autos, verifica-se que o sentenciado possui diversas condenações por crimes graves (tráfico, associação para o tráfico e roubos majorados), possui pena total expressiva (22 anos, 1 mês e 4 dias) bem como, longa pena a cumprir, com término de cumprimento previsto para 24/08/2032.
+Assim, não há que se falar em ausência de fundamentação na r. decisão proferida, uma vez que o Douto magistrado de primeiro grau justificou adequadamente. Ressalta-se que decisão sucinta não siginifica ausência de fundamentação.
+Realmente, evidenciada em "tese" a periculosidade do paciente, diante da natureza dos crimes praticados e, para aferição da presença do requisito subjetivo, era mesmo necessária a realização de exame crirninológico, para se medir se ele não oferece risco à integridade pública, antes da apreciação do pedido de Livramento Condicional.
+É cediço que a Lei nº 10.972/03 somente simplificou o procedimento de incidente de execução, cabendo ao juiz em cada caso, aferir se o condenado reúne os requisitos preenchimento do requisito objetivo.
+subjetivos após verificar o É evidente que a mudança da lei buscou dar maior celeridade na tramitação das execuções sem, contudo, limitar as funções do magistrado, caso em que ficaria limitado ao Parecer do Diretor do Presídio, cabendo-lhe, tão somente homologar os benefícios pleiteados.
+Destarte, a Lei 10.792/2003 não retirou do magistrado a análise do requisito subjetivo, pois o juiz poderá em qualquer momento requerer diligências se forem necessárias para averiguar o requisito subjetivo do reeducando" (fls. 336/337).
+Esta Corte consolidou entendimento no sentido de que o Magistrado pode, de forma fundamentada, exigir a sua realização. Nessa esteira, editou-se a Súmula n. 439 do STJ, in verbis:
+"Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+A fundamentação, contudo, deve estar relacionada a algum elemento concreto da execução da pena, não se admitindo a simples referência à gravidade abstrata do delito ou à longevidade da pena, como no caso concreto. Nesse sentido, confiram-se os seguintes julgados desta Corte:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ROUBO DUPLAMENTE MAJORADO. PROGRESSÃO DE REGIME. INDEFERIMENTO EXAME CRIMINOLÓGICO. BASEADO EM FUNDAMENTOS EXTRALEGAIS. CONSTRANGIMENTO ILEGAL CARACTERIZADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO
+ .. III - Para a concessão do benefício da progressão de regime, deve o acusado preencher os requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento carcerário), nos termos do art. 112 da LEP, com redação dada pela Lei 10.792/2003.
+IV - Com as inovações trazidas pela Lei 10.792/03, alterando a redação do art. 112 da Lei 7.210/84 (Lei de Execução Penal), afastou-se a exigência do exame criminológico para fins de progressão de regime. Por outro lado, este Superior Tribunal de Justiça firmou entendimento de que o magistrado de primeiro grau, ou mesmo o eg. Tribunal a quo, diante das circunstâncias do caso concreto, podem determinar a realização da referida prova técnica para a formação de seu convencimento, desde que essa decisão seja adequadamente motivada. (Enunciado sumular de n. 439/STJ).
+V - In casu, a eg. Corte Estadual, ao cassar a decisão agravada entendendo que é necessária a realização do exame criminológico para aferir o mérito do apenado, ora paciente, à progressão de regime prisional, embasou-se, genericamente, na gravidade abstrata do crime pelo qual o paciente foi condenado - roubo duplamente majorado - não apontando elementos concretos nos autos que pudessem justificar a necessidade do exame técnico para a formação de seu convencimento.
+Habeas Corpus não conhecido. Ordem concedida de ofício para cassar o v. acórdão do eg. Tribunal a quo e restabelecer a r. decisão do Juízo da Execução que deferiu o pedido de progressão de regime prisional ao paciente para o regime aberto.
+(HC 332.108/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 6/11/2015).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO. REGIME SEMIABERTO. TRIBUNAL QUE INDEFERE O BENEFÍCIO E DETERMINA A REALIZAÇÃO DE EXAME CRIMINOLÓGICO COM BASE NA GRAVIDADE ABSTRATA DOS DELITOS PRATICADOS E LONGEVIDADE DA PENA. FUNDAMENTO INIDÔNEO PARA A AFASTAR A IMPLEMENTAÇÃO DO REQUISITO SUBJETIVO. ORDEM CONCEDIDA DE OFÍCIO. RECURSO DESPROVIDO.
+1. Conforme reiterada orientação jurisprudencial deste Superior Tribunal de Justiça - STJ, a gravidade abstrata dos delitos praticados e a longevidade da pena a cumprir não podem servir, por si sós, como fundamento para a determinação de prévia submissão do apenado a exame criminológico para fins de concessão do benefício do livramento condicional. Precedentes.
+No caso dos autos, o Tribunal de origem reformou a decisão de primeiro grau para determinar a submissão do paciente à realização de exame criminológico com fundamento na gravidade em abstrato do crime cometido pelo agravado e na longa pena a cumprir. Referido fundamento se mostra inidôneo, ao passo que não se apontou nenhum elemento concreto dos autos que, efetivamente, pudesse rechaçar o decisum de primeiro grau.
+2. Diante do flagrante constrangimento ilegal, faz-se imperiosa a concessão da ordem de habeas corpus de ofício para restabelecer a decisão singular concessiva da progressão para o regime semiaberto.
+3. Agravo regimental desprovido.
+(AgRg no HC 467.980/SP, de minha Relatoria, QUINTA TURMA, DJe 14/11/2018).
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. INADEQUAÇÃO DA VIA ELEITA. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. FACULDADE DO MAGISTRADO, MEDIANTE DECISÃO MOTIVADA. JUSTIFICAÇÃO UNICAMENTE NA GRAVIDADE ABSTRATA DO DELITO. CONSTRANGIMENTO ILEGAL CONFIGURADO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..  2. No caso concreto, foi cassado pelo Tribunal a quo o benefício da progressão de regime, determinando-se a realização de exame criminológico tão somente em virtude da gravidade abstrata do delito pelo qual foi condenado o paciente.
+3. Sobre a matéria, esta Corte Superior de Justiça pacificou entendimento no sentido de que fatores relacionados ao crime praticado são determinantes da pena aplicada, mas não justificam diferenciado tratamento para progressão de regime ou livramento condicional, de modo que o exame criminológico somente poderá fundar-se em fatos ocorridos no curso da própria execução penal.
+4. Habeas corpus não conhecido. Contudo, ordem concedida de ofício, haja vista flagrante ilegalidade, para restabelecer a decisão do Juízo das Execuções Criminais da Comarca de Chapecó/SC, concessiva da progressão de regime prisional.
+(HC 325.093/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 13/10/2015).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. DETERMINAÇÃO DO EXAME CRIMINOLÓGICO PARA AFERIÇÃO DO MÉRITO DO SENTENCIADO. GRAVIDADE ABSTRATA DO DELITO E LONGEVIDADE DA PENA. FUNDAMENTAÇÃO INIDÔNEA. FUGA COMETIDA NO CUMPRIMENTO DE EXECUÇÃO ANTERIOR. IRRELEVÂNCIA. NÃO APRESENTAÇÃO DE ARGUMENTOS NOVOS PELO AGRAVANTE PARA INVALIDAR A DECISÃO AGRAVADA. MANUTENÇÃO POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Esta Corte Superior é firme no entendimento de que a longevidade da pena e a gravidade do delito não são aptos, por si só, a fundamentar a exigência de realização do exame criminológico ou a negativa de concessão de benefícios, porquanto o que se exige do reeducando é que demonstre seu mérito no curso da execução de sua pena.
+2. Consolidou-se neste Tribunal diretriz jurisprudencial no sentido de que faltas graves antigas, já reabilitadas pelo decurso do tempo, não justificam o indeferimento da progressão de regime prisional (HC n. 544.368/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 17/12/2019).
+3. In casu, o agravante não apresentou argumentos novos capazes de infirmar aqueles que alicerçaram a decisão agravada, razão pela qual deve ser mantida por seus próprios fundamentos.
+4. Agravo regimental improvido.
+(AgInt no HC 554.750/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 30/06/2020).
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus, mas concedo a ordem, de ofício, para determinar ao Juízo da Execução que aprecie o pedido da defesa sem a necessidade de realização de exame criminológico.
+Publique-se.
+Intimem-se.
+EMENTA
