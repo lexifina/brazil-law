@@ -1,0 +1,9 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça peruana (Superior Tribunal Nacional de Justiça Criminal Especializada) busca obter informações sobre o domicílio real, o lugar de trabalho, a residência e outros dados de identificação relacionados ao acusado Harmesh Sing (naturalizado peruano), que registrou entrada na República Federativa do Brasil, passaporte n. G5830541, em 16 de abril de 2008.
+No mesmo ato, a Justiça rogante informa que, conforme o pedido de diligência, imputa-se ao acusado a prática do crime de lavagem de ativos, agravado por fazer parte de uma organização criminosa dedicada ao crime contra a ordem migratória, na modalidade de tráfico ilícito de migrantes e outros, atividade pela qual ganhou dinheiro e efetivo, atos de conversão, com a finalidade de dificultar a identificação de sua origem, evitar sua apreensão e posterior confisco (fl. 6).
+Em 12 de outubro de 2023, solicitei à Coordenação-Geral de Polícia de Imigração da Polícia Federal apurações sobre registro de entrada no território nacional e eventual saída, bem como sobre o domicílio residencial de Harmesh Sing (nome do pai: Pirthi e nome da mãe: Surjit), Passaporte n. G5830541 (fl. 36 ).
+A Divisão de Controle de Imigração e Segurança Aeroportuária - DCIM/CGPI/DIREX/PF, por meio do Ofício n. 582/2023/DCIM/CGMIG/DPA/PF, encaminhou a Certidão de Movimentos Migratórios da parte interessada - sem registro de movimentação por postos de controle migratório (fls. 40-42).
+O Ministério Público Federal manifestou pela devolução da carta rogatória, diante da inexistência de registro de ingresso do requerido em território brasileiro (fls. 55-56);
+Ante o exposto, devolvam-se os autos à Justiça rogante, sem cumprimento, por intermédio da autoridade central competente (art. 216-X do Regimento Interno do STJ), independentemente do trânsito em julgado.
+Publi que-se.
+EMENTA
