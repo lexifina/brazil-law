@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo de CARLOTA EQUIPAMENTOS DE SEGURANÇA EIRELI da decisão que inadmitiu recurso especial interposto, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 1.082):
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RETORNO PRECLUSÃO. DO STJ. REJULGAMENTO. OMISSÃO VERIFICADA.
+1. Os embargos de declaração são destinados a complementar o julgamento da ação, quando da existência de obscuridade, omissão ou contradição.
+2. Havendo omissão, devem ser acolhidos os embargos de declaração.
+3. Ocorrência da preclusão consumativa para a realização da prova pericial.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.138/1.149).
+A recorrente aponta ofensa aos arts. 489, § 1º, IV e VI, do CPC/2015, 148 do CTN; e 6º, IV, da Lei n. 9.998/2000, ao fundamento de que: a) não obstante a oposição dos embargos, "suplicando pronunciamento sobre o tema, as provas e argumentos carreados nos autos não foram apreciados pelo juízo a quo" (e-STJ fls. 1.165/1.666); b) é ilegal o arbitramento realizado pela autoridade tributária na constituição do crédito tributário; e c) a contribuição ao FUST deve incidir apenas sobre a receita operacional oriunda da prestação de serviços de telecomunicações, aduzindo divergência jurisprudencial.
+Contrarrazões e-STJ fls. 1.234/1.239.
+O recurso especial foi admitido na origem (e-STJ fl. 1.242/1.2430.
+Passo a decidir.
+O Tribunal de origem, em autos de embargos à execução fiscal ajuizados pela ANATEL, ao rejulgar os embargos de declaração, em cumprimento à decisão desta Corte Superior, proferida às e-STJ fls. 988/990, atribuiu-lhes efeitos infringentes para negar provimento à apelação da ora recorrente.
+Vejamos, no que interessa, o que foi consignado no voto condutor do julgado (e-STJ fls. 1.088/1.090):
+Ademais, a contribuição para o FUST tem por fato gerador a prestação de serviços de telecomunições, sendo que o fundo tem por finalidade não apenas os serviços de telecomunicações propriamente dito, mas toda a rede de sistema, inclusive os considerados preparatórios para a consumação do ato de comunicação, conforme bem esclarece o art. 5, da Lei 9.998/2000:
+ ..
+Evidentemente que para a universalização de todos os serviços prestados os seus recursos não podem estar limitados apenas à receita bruta operacional do serviço de telecomunicação propriamente dito, pois a universalização dos serviços também depende da implantação dos serviços de apoio, preparatórios e acessórios para a consumação do ato de comunicação.
+Assim, ao conjugar o art. 5º com o art. 6º, da Lei 9.998/2000, deve-se entender que a contribuição social em questão incide sobre a totalidade da receita bruta operacional decorrente dos serviços de telecomunicações, inclusive os serviços indispensáveis e preparatórios para o ato de comunicação propriamente dito.
+De referir, ainda, que tanto na apuração, como na constituição do crédito, não houve insurgência do executado, embora tenha sido intimado para tanto (ev8-PROCADM2- p. 14).
+Por derradeiro, quanto à revisão referida, a discrepância é decorrente da quantidade de estações licenciadas, uma vez que a equipe de fiscalização constatou que estava em operação uma estação não licenciada no endereço vistoriado, operando sem o recolhimento de taxas e preços públicos devidos.
+No tocante à suscitada ofensa ao art. 148 do CTN, em razão, em essência, da alegada ilegalidade no arbitramento realizado pela autoridade tributária na constituição do crédito tributário, verifica-se no acórdão recorrido que o Tribunal de origem decidiu a questão ora ventilada com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Consoante atesta o excerto transcrito, o acórdão recorrido assenta-se na interpretação conjunta dos arts. 5º e 6º da Lei n. 9.998/2000, que autorizaria a compreensão de incidência da contribuição em debate sobre a totalidade da receita bruta da empresa que opera serviços de telecomunicações.
+A recorrente não impugnou fundamento basilar (preceito contido no art. 5º da Lei n. 9.998/2000) que ampara o acórdão recorrido.
+Assim, o recurso especial esbarra no obstáculo da Súmula 283 do STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles." A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+Por fim, o STJ entende que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada não é conhecida relativamente ao exame do recurso especial pela alínea "a" do permissivo constitucional. Nesse sentido: AgInt no REsp 1.648.828/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 07/11/2017, DJe 16/11/2017; e AgInt no AREsp 1.146.384/SE, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 05/12/2017, DJe 12/12/2017.
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa parte, NEGO-LHE PROVIMENTO.
+Majoro, em desfavor da parte recorrente, os honorários sucumbenciais em 10% (dez por cento) sobre o valor já arbitrado na origem, nos termos do art. 85, § 11, do CPC/2015, observados, s e aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
