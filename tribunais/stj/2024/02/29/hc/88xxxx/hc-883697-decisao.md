@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Valeria Cardoso dos Santos, em que se aponta como autoridade coatora o Tribunal de Justiça de Mato Grosso do Sul.
+Consta dos autos que a paciente foi condenada às penas de 7 anos de reclusão, no regime fechado, e pagamento de 700 dias-multa, como incursa no art. 33, caput, da Lei n. 11.343/2006. Interposta apelação, a Corte estadual negou provimento ao recurso defensivo.
+A impetrante sustenta a ilicitude das provas que embasaram a condenação, uma vez que derivadas de busca domiciliar motivada por denúncia anônima realizada sem fundadas razões e sem autorização judicial.
+Alega que não houve diligências para justificar a alegada situação de flagrância e esclarece que a paciente não estava em sua residência na ocasião do suposto flagrante.
+Requer, liminarmente, o sobrestamento da decisão proferida pelo TJMS até julgamento final deste writ. No mérito, pugna pela concessão definitiva da ordem reconhecendo as nulidades aventadas, decorrentes da violação de domicílio e da nulidade dos depoimentos policiais (fl. 22).
+A liminar foi indeferida (fls. 386/387).
+Prestadas informações de praxe (fls. 771/773), o Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 785/790).
+É o relatório.
+A ordem não merece concessão.
+Quanto à alegada ilegalidade pela entrada dos policiais na residência do paciente, confira-se a sentença (fls. 234/235 - grifo nosso):
+ ..
+2.1 Preliminar de nulidade do flagrante delito
+Aduz a Ré que a prisão em flagrante foi ilegal, vez que não foi franqueada a entrada dos policias ao domicílio, de forma que as provas carreadas aos autos são ilícitas.
+Sem razão à Ré, pois embora o domicílio seja inviolável, conforme direito individual assegurado pela Constituição Federal, o ingresso forçado em domicílio é legítimo quando justificado pelas circunstâncias do caso concreto, que indiquem ocorrer, no interior da residência, situação de flagrante delito.
+No caso em apreço o policial que ingressou no imóvel e responsável pela apreensão e prisão, policial civil Helton Cavalheiro Mata, declinou em Juízo que a casa da Ré era objeto de monitoramento pela polícia e no dia dos fatos, ao passar pelo imóvel pode sentir forte odor de maconha e já no quintal visualizou resquícios da droga, de forma que presente as fundadas razões para o ingresso no imóvel, conforme entendimento do c. Superior Tribunal de Justiça  .. .
+Pelo exposto, não havendo qualquer irregularidade no ingresso dos policiais no imóvel da Ré, rejeito a preliminar de nulidade do flagrante e das provas.
+Por sua vez, a Corte de origem, soberana na análise das circunstâncias fáticas e das provas, firmou a existência, inclusive, de investigação prévia, apta a subsidiar a convicção dos policiais no sentido da prática de crime permanente no local (fls. 361/364 - grifo nosso):
+ ..
+Narra a denúncia:
+Conforme se depreende do caderno de investigações, a equipe do SIG (setor de investigações gerais) de Chapadão do Sul reuniu indicios de que a denunciada estaria praticando o delito de tráfico de drogas nesta cidade, tendo acompanhado a movimentação na residência da denunciada e notado a presença de pessoas conhecidas no meio policial pelo envolvimento com o mesmo delito.
+Na data dos fatos, os investigadores se dirigiram até a residência da increpada e, ao se aproximarem do imóvel, sentiram forte odor da substância química conhecida como maconha, bem como visualizaram várias bitucas de cigarros artesanais jogados em frente ao imóvel, deliberando em adentrá-lo.
+Em busca na residência, lograram êxito em encontrar 8 (oito) tabletes da substância "maconha" no interior de uma mochila preta localizada sobre o sofá.
+Minutos após, a denunciada chegou ao local e os policiais civis efetuaram sua prisão em flagrante.
+No instante em que a flagrada reunia roupas e pertences para ser conduzida à Delegacia de Policia, os investigadores perceberam que esta pegou um pequeno objeto que estava escondido entre suas roupas e o guardou dentro da calça que vestia.
+Já na sede policial, uma investigadora de policia feminina fez a revista pessoal na presa, momento em que foi localizada mais uma porção de maconha dentro de sua roupa intima.
+Interrogada extrajudicialmente, a denunciada confessou que a droga encontrada em sua residência foi "encomendada por um pessoal" de Cassilândia/MS, afirmando que buscou a droga em Campo Grande/MS, em local próximo à rodoviária no mesmo dia, bem como que receberia o valor de R$ 1.000,00 (mil reais) pelo serviço de trazê-la até Chapadão do Sul (f. 08).
+ ..
+Na hipótese dos autos, conforme descreveu o Policial Civil Helton Cavalheiro Mata, em seu depoimento em juízo (fl. 109), a entrada forçada no domicílio da ré se deu em razão de investigações anteriores, que já indicavam a ré como comerciante ilegal de drogas, além do que, foram encontrados na calçada de sua casa restos de bitucas de cigarro de maconha, ao que se aliou o forte odor de maconha, o que justificou a entrada em domicílio sem mandado.
+No mesmo sentido, foi o depoimento do Delegado de Polícia Felipe Machado Potter, inquirido na fase inquisitorial (fl. 15):
+ ..  É delegado da policia civil lotado nesta comarca de Chapadâo do Sul MS; Que ratifica o Inteiro teor do depoimento do concutor/testemunha Helton Cavalheiro Mata no sentido de que a equipe do SIG apurou que a pessoa de VALÉRIA, estaria traficanco drogas neste município. Que VALERIA já havia sido presa em outras duas oportunidades pelo crime de tráfico de drogas, sendo uma pelo SIG Chapado do Sul, o que dava robustez a denúncia. Que os investigadores lograram êxito em descobrir o endereço da residência de Valéria em uma casa na Rua F. Que a equipe passou a acompanhar o local onde notou a presença de pessoas conhecidas no meio policial por envolvimento no tráfico de drogas. Que os policiais apuraram que na data de hoje, Valéria teria voltado de viagem, o que Indicava que possivelmente estaria trazendo drogas para este município. Que uma equipe composta pelo Delegado Felipe e o investigador Helton se deslocaram até a casa de Valéria na rua F para averiguar a informação. Que se aproximado do casa o Delegado Felipe encontrou várias bitucas de maconha jogadas em frente a porta da residência e sentiu forte odor de MACONHA, deliberando per adentrar o imóvel. Que ao realizarem a busca na residência os policiais encontraram uma mochila preta sobre o sofá e, no interior desta 8 tabletes de substância análoga à MACONHA. Que no imóvel estavam armazenados pertences pessoais e documentos de VALÉRIA. Que no momento da entrada não havia quaisquer moradores na residência  ..
+Como bem observou a sentença, "o policial que ingressou no imóvel e responsável pela apreensão e prisão, policial civil Helton Cavalheiro Mata, declinou em Juízo que a casa da Ré era objeto de monitoramento pela polícia e no dia dos fatos, ao passar pelo imóvel pode sentir forte odor de maconha e já no quintal visualizou resquícios da droga, de forma que presente as fundadas razões para o ingresso no imóvel.
+ ..
+Assim, tomando por base a moldura fática estabelecida - cujo reexame é inviável em sede de cognição sumária -, não há falar em nulidade na busca domiciliar efetivada e, por conseguinte, em ilicitude das provas obtidas naquela diligência.
+Nesse sentido, destaco os seguintes precedentes:
+ ..
+III - Da análise da sentença e acórdãos condenatórios, verifica-se que a Corte de origem invocou fundamentos para manter a condenação e refutar a alegação de nulidade que estão em sintonia com o entendimento deste Sodalício cuja jurisprudência se consolidou no sentido de que a denúncia anônima é apta à deflagração de investigações por parte da autoridade policial com escopo na verificação da veracidade da delação, como ocorreu no presente caso, diante da narrativa da sentença condenatória que evidencia a adoção de diligências investigatórias prévias pelos policiais civis.
+IV - Outrossim, no momento da abordagem o paciente estava saindo de seu apartamento com determinada quantidade de drogas quando deparou com investigador policial, oportunidade em que foi preso em flagrante sucedida da incursão em seu domicílio onde foi encontrada grande quantidade de drogas evidenciando, por conseguinte, a existência de fundadas razões para o ingresso forçado, ainda mais porque previamente surpreendido na posse de drogas que, segundo a sentença condenatória, se destinavam a venda. Nesse compasso, compreende-se que não há nulidade nas provas obtidas, tendo sido demonstradas as fundadas razões para se concluir que havia flagrante delito em andamento, bem como a autorizar o ingresso em domicílio sem autorização judicial.
+ ..
+(HC n. 742.003/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 27/6/2022 - grifo nosso).
+ ..
+2. Constando dos autos que as polícias civil e militar já investigavam há cerca de um mês o tráfico de entorpecentes na localidade, conseguindo apurar que o paciente era o responsável pelo comércio ilícito, e que, na data dos fatos, os agentes policiais receberam informações sobre a sua localização, abordando-o em via pública portando cápsula de cocaína, bem como que este teria admitido possuir mais droga em sua residência, o que motivou a entrada no imóvel, não há manifesta ilegalidade por invasão domiciliar.
+3. Habeas corpus denegado.
+(HC n. 702.198/RJ, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 18/3/2022 - grifo nosso).
+Ante o exposto, denego a ordem (art. 34, XX, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. SUPOSTA NULIDADE DA PROVA OBTIDA EM BUSCA DOMICILIAR. NÃO OCORRÊNCIA. INGRESSO E BUSCA DOMICILIAR FUNDADA EM INVESTIGAÇÃO PRÉVIA, APTA A FUNDAR A CONVICÇÃO DOS POLICIAIS NO SENTIDO DA PRÁTICA DE CRIME PERMANENTE NO LOCAL. AUSÊNCIA DE ILEGALIDADE.
+Ordem denegada.
