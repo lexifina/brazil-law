@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo interposto por TELPO HENRIQUE PENTEADO MONTAGNANI em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, "a" e "c", da Constituição, interposto em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Paraná, assim ementado:
+"APELAÇÃO CÍVEL - CUMPRIMENTO DE SENTENÇA - EXPURGOS INFLACIONÁRIOS - PLANO VERÃO - SENTENÇA RECONHECENDO A LITISPENDÊNCIA.
+1. Não conhecimento do recurso por deserção - Pedido em contrarrazões de apelação - Inocorrência - Assistência judiciária gratuita concedida pelo juízo a quo.
+2. Da justiça gratuita - Não conhecimento - Ausência de interesse recursal.
+3. Nulidade da sentença - Ilegitimidade do apelante - Parte exequente que não possui interesse em requerer a nulidade da sentença pela ausência de análise dos embargos de declaração opostos pelo banco executado - Observância aos arts. 17 e 18 do CPC - Não conhecimento.
+4. Preclusão em relação a litispendência - Não acolhimento - Embargos de declaração opostos pelo Banco em face da decisão que afastou a litispendência que não foi julgado pelo Juízo . a quo 5. Possibilidade de arguição da litispendência como prejudicial em ação individual de cumprimento de sentença.
+6. Litispendência - Mantido o reconhecimento - Existência de identidade entre as ações - Demandas que possuem o mesmo pedido, causa de pedir e partes - Contrato de cessão de crédito que possibilita a identidade de partes - Jurisprudência deste e. TJPR.
+7. Litigância de má-fé - Caracterizada - Caracteriza conduta temerária, a inciativa da parte que possui duas ações, com pedidos idênticos e lastreada na mesma discussão que já era objeto de demanda anterior, com o propósito de obter vantagem financeira derivada da múltipla condenação da parte adversa.
+8. Ônus sucumbencial mantido - Arbitrado honorários recursais, nos termos do art. 85, § 11, do CPC.
+RECURSO DE APELAÇÃO PARCIALMENTE CONHECIDO E, NESTA PARTE, NÃO PROVIDO." (fl. 1.767)
+O recorrente aponta ofensa aos arts. 17, 18, 503, caput, 505, caput, e 1.204 do CPC/2015; 508 do CPC/2015; 525 do CPC/2015; 505 e 507 do CPC/2015; 337, §§ 1º, 2º e 3º; 104 do CDC, Artigos 109, §§ 1º e 3º e 778, § 1º, III do CPC/2015; 80 e 81 do CPC/2015; 85 do CPC/2015; e dissídio jurisprudencial.
+Alega, em síntese, (a) possui interesse em alegar negativa de prestação jurisdicional, em razão do não julgamento de recurso (embargos de declaração) apresentado pela parte adversa - o banco executado, (b) uma vez examinada a alegação de litispendência em decisão que rejeitou a exceção de pré-executividade, não poderia o magistrado de 1º grau reanalisar a matéria, (c) a litispendência só pode ser alegada na fase de conhecimento, não se admitindo sua arguição em sede de cumprimento de sentença, (d) a alegação de litispendência já foi rejeitada em decisão anterior, não podendo, pois, ser revisitada, (e) inexiste litispendência entre a ação de conhecimento e o cumprimento de sentença, se as partes não são idênticas em ambas as demandas, (f) "Como o Exequente ingressa na ou com demanda como se fosse o próprio Cedente originário, atrai para si toda a relação processual originária, incluindo aí a relação consumerista, pelo que não prospera os fundamentos utilizados na sentença de piso, acatada pelo v. acórdão objurgado" (fl. 1.861), (g) inexistência de má-fé do exequente e (h) necessidade de fixação dos honorários por equidade.
+Contrarrazões às fls. 2.094/2.100.
+É o relatório.
+Nulidade da Sentença.
+Para o Tribunal de origem, "tendo em vista que o interesse para análise dos embargos é da instituição financeira, uma vez que o acolhimento das alegações ali apresentadas levaria ao acolhimento, parcial ou total, da exceção de pré-executividade, percebe-se que a parte apelante não possui legitimidade nem interesse para pleitear este direito" (fl. 1.772).
+Com razão.
+Deve-se anotar que, de fato, só quem possui legitimidade para arguir negativa de prestação jurisdicional, em razão do não julgamento dos embargos de declaração na exceção de pré-executividade, é a parte que opôs o recurso - no caso, a instituição financeira.
+Inclusive, em recurso especial, não se conhece da alegação de ofensa aos arts. 489 e 1.022 do CPC/15, na hipótese em que a parte, na origem, não opôs embargos, pois é manifesta a ausência de interesse recursal. Veja-se: "o óbice da Súmula n. 284/STF impede o seguimento do recurso especial fundamentado em suposta violação do art. 535 do CPC/1973  correspondente ao art. 1.022 do CPC/2015 , na hipótese em que o recorrente não opôs embargos de declaração na origem, para ver sanado eventual vício do acórdão recorrido" (AgRg no AREsp 809.394/RJ, de minha relatoria, QUARTA TURMA, julgado em 7/6/2016, DJe 13/6/2016).
+Correta, portanto, a conclusão do eg. TJPR que não conheceu da tese de nulidade da sentença.
+Além disso, ainda que houvesse nulidade, na espécie, seria inútil invalidar a sentença para determinar o retorno dos autos ao mesmo juízo - juízo de 1º grau (sentenciante) - para apreciar a mesma matéria (presença ou não de litispendência), pois muito dificilmente (para não se dizer que seria impossível) o magistrado alteraria sua convicção, dada a ausência de fato novo a respeito do tema.
+Mantém-se, portanto, o acórdão recorrido, nesse ponto.
+Preclusão da Alegação de Litispendência.
+Consoante decidido pelo Tribunal de origem,
+"(..) nos presentes autos não há que se falar em preclusão ou coisa julgada, afinal, mesmo que a exceção de pré-executividade apresentada tenha sido rejeitada pela Magistrada singular (mov. 32.1), o Banco opôs embargos de declaração (mov. 47.1), os quais jamais foram analisados pelo Juízo." (fl. 1.774)
+O acórdão deve ser mantido, por duas razões.
+A) O recorrente não indicou nenhum dispositivo legal que dê suporte à sua tese, a de que a litispendência só é arguível em fase de conhecimento, o que atrai o óbice da Súmula n. 284/STF. Nesse sentido: "A aplicação, por analogia, da Súmula nº 284, STF decorre da constatação de que o conteúdo normativo do dispositivo apontado como violado nas razões do recurso especial está dissociado da tese recursal." (AgRg no AREsp n. 2.271.684/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/6/2023, DJe de 29/6/2023.).
+Ademais, a impossibilidade de se discutir a litispendência, na espécie, só ocorreria se o tema já tivesse sido enfrentado na fase de conhecimento - o que não restou demonstrado pela parte, até porque não se trata de cumprimento de sentença comum, mas de execução individual de sentença coletiva.
+B) Apesar de a tese de litispendência já ter sido rejeitada pelo juízo de 1º grau, em exceção de pré-executividade apresentada pelo banco, só ocorreria preclusão pro judicato, na espécie, se essa decisão tivesse transitado em julgado. Desse modo, pendente o julgamento de embargos de declaração em face do decisum, inexiste preclusão da matéria.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE PROMESSA DE DAÇÃO EM PAGAMENTO E EXISTÊNCIA DE PROMESSA DE COMPRA E VENDA CUMULADA COM PEDIDOS DE RESCISÃO CONTRATUAL E REINTEGRAÇÃO DE POSSE. PRESCRIÇÃO. TEORIA DA ACTIO NATA. NÃO OCORRÊNCIA DE PRECLUSÃO PRO JUDICATO.
+1. Ação declaratória de inexistência de promessa de dação em pagamento e existência de promessa de compra e venda cumulada com pedidos de rescisão contratual e reintegração de posse.
+2. A jurisprudência do STJ é no sentido de que, por ser matéria de ordem pública, a análise de ocorrência ou não de prescrição, não ocorre preclusão pro judicato, se estabelecido o devido contraditório e não ocorrido o trânsito em julgado. Precedentes.
+3. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 1.497.449/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/6/2020, DJe de 25/6/2020.)
+Litispendência.
+O Tribunal de origem manteve o reconhecimento da litispendência, com base nas seguintes razões:
+"Logo, o que se vê é que em ambas as demandas se pretende o recebimento dos expurgos inflacionários relacionados ao plano Verão (janeiro/1989), referente a mencionada conta poupança de titularidade de Edvino Friske, de modo que é cristalino que ambos os pedidos e causa de pedir são idênticos.
+Acerca do requisito identidade de partes também é possível vislumbrar o preenchimento. Isto porque, como apontado no termo de cessão colacionado nos autos o crédito oriundo da demanda foi devidamente cedido para o autor, Telpo Henrique Penteado Montagnani, de modo que a cessão possibilita a caracterização da litispendência no feito." (fl. 1.776)
+O acórdão merece reparos.
+É assente o entendimento do STJ de que "há litispendência ou, no caso, continência (também denominada de litispendência parcial) quando presente a tríplice identidade - mesmas partes, mesma causa de pedir e mesmos pedidos" (AgInt nos EDcl no AREsp n. 2.118.924/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/4/2023, DJe de 24/4/2023.).
+Isto é, só se cogita a existência desse pressuposto processual negativo se houver tríplice identidade dos elementos da ação.
+Na espécie, tanto o juízo sentenciante, quanto o eg. TJPR reconheceram que as demandas possuem partes distintas. Enquanto a ação de rito comum é movida pelo cedente do crédito - efetivo titular da conta-poupança -, a execução individual é movida pelo cessionário.
+Não há, portanto, litispendência, mas há - considerado o contexto fático descrito no acórdão de 2º grau - nítida hipótese de conexão de demandas, seja com base na aplicação analógica do art. 55, § 2º, I, do CPC/15, seja com base no art. 55, § 3º, do mesmo Código.
+Aliás, embora não seja competência desta Corte se imiscuir em matérias não apreciadas pelas instâncias ordinárias, a reunião dos feitos, em razão da conexão, parece ser a melhor solução para a controvérsia acerca da real titularidade dos créditos - se do cedente ou do cessionário -, além de evitar que o banco seja condenado ao pagamento da dívida a quem não é efetivo credor.
+Condição do cessionário.
+O Tribunal de origem não apreciou a tese de que o cessionário se sub-roga nos direitos do consumidor, em face do título formado em ação coletiva.
+Assim, ausente o prequestionamento, incidem as Súmulas n. 282 e 356/STF.
+Ante o exposto, conheço do agravo para dar parcial provimento ao recurso especial a fim de afastar a litispendência entre a ação de rito comum e o cumprimento individual de sentença coletiva.
+Determino o retorno dos autos ao r. juízo de 1º grau para dar seguimento ao feito ou para, segundo sua livre convicção, examinar a conveniência de se determinar a reunião dos feitos conexos no juízo prevento.
+Publique-se.
+EMENTA
