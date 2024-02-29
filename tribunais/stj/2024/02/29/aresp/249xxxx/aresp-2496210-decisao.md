@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial, ante a aplicação da Súmula n. 211/STJ (e-STJ fls. 1.099/1.100).
+O acórdão do TJPR traz a seguinte ementa (e-STJ fl. 897):
+APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER COM REPARAÇÃO POR DANOS MORAIS - PLANO DE SAÚDE - NEGATIVA DE TRATAMENTO - AUTOR COM DIAGNÓSTICO DE PSORÍASE VULGAR - ESTADO GRAVE - PRESCRIÇÃO DO MEDICAMENTO TREMFYA (GUSELCUMABE). RESOLUÇÃO RN ANS 536/2022 QUE INCORPOROU DETERMINOU A OBRIGATORIEDADE DE COBERTURA DO MEDICAMENTO - NOVA NORMA EM VIGÊNCIA - OBRIGATORIEDADE DE COBERTURA SENTENÇA PARCIALMENTE REFORMADA - HONORÁRIOS RECÍPROCOS (ART. 85, §2º E ART. 86, CAPUT, CPC). JUSTIÇA GRATUITA - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 919/922 e 946/950).
+No recurso especial (e-STJ fls. 957/972), fundamentado no art. 105, III, "c", da CF, o recorrente aduziu dissídio jurisprudencial, pois "a medicação intravenosa ou injetável que necessita de supervisão direta de profissional habilitado em saúde não é considerada como tratamento domiciliar (é de uso ambulatorial ou espécie de medicação assistida)" (e-STJ fl. 959), o que tornaria obrigatório o remédio descrito na inicial.
+Acrescentou ser ilegítima a limitação do custeio do remédio descrito na exordial, mesmo sendo ele de uso domiciliar.
+Foram apresentadas contrarrazões (e-STJ fls. 1.067/1.098).
+No agravo (e-STJ fls. 1.103/1.107), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 1.111/1.144).
+É o relatório.
+Decido.
+A Corte local não debateu a tese de que "a medicação intravenosa ou injetável que necessita de supervisão direta de profissional habilitado em saúde não é considerada como tratamento domiciliar (é de uso ambulatorial ou espécie de medicação assistida)" (e-STJ fl. 959), o que tornaria obrigatório o remédio descrito na inicial.
+Dessa forma, sem ter sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, a matéria carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+Ademais, "a iterativa jurisprudência desta Corte é no sentido de que o conhecimento do recurso especial - pela alínea "c" do permissivo constitucional - também exige o prequestionamento dos temas vinculados aos artigos objeto da suposta divergência jurisprudencial" (AgInt no AREsp n. 1.425.676/MS, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/5/2019, DJe 24/5/2019).
+Conforme o entendimento desta Corte Superior, "é lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da Agência Nacional de Saúde Suplementar (ANS) para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN-ANS nº 338/2013 (atual art. 17, parágrafo único, VI, da RN-ANS nº 465/2021)" (AgInt nos EREsp 1.895.659/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 29/11/2022, DJe de 9/12/2022).
+Do mesmo modo:
+DIREITO CIVIL E CONSUMIDOR. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. DIABETES MELLITUS TIPO 1. BOMBA INFUSORA DE INSULINA. USO DOMICILIAR. AUTOADMINISTRAÇÃO. EXCLUSÃO DE COBERTURA. POSSIBILIDADE. NEGATIVA LEGÍTIMA. AGRAVO INTERNO PROVIDO.
+1. "É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da Agência Nacional de Saúde Suplementar (ANS) para esse fim.
+Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN-ANS nº 338/2013 (atual art. 17, parágrafo único, VI, da RN-ANS nº 465/2021)" (AgInt nos EREsp 1.895.659/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 29/11/2022, DJe de 9/12/2022).
+2. Conforme entendimento de ambas as Turmas que compõem a Segunda Seção do STJ, não há obrigatoriedade de cobertura de bomba infusora de insulina (e insumos), por se tratar de equipamento de uso domiciliar.
+3. Agravo interno provido.
+(AgInt no REsp n. 1.933.209/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/6/2023, DJe de 19/6/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. MEDICAMENTO PARA USO DOMICILIAR. EXCLUSÃO DE COBERTURA LÍCITA. INTERPRETAÇÃO DE CLÁUSULAS DO CONTRATO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Conforme entendimento do Superior Tribunal de Justiça, "é lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no Rol da ANS para esse fim" (REsp 1692938/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/4/2021, DJe 4/5/2021).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.124.296/GO, relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 12/6/2023, DJe de 15/6/2023.)
+Além disso, a Segunda Seção do STJ firmou entendimento de que o rol de procedimentos e eventos em saúde complementar é, em regra, taxativo, não sendo a operadora de plano ou seguro de saúde obrigada a custear procedimento ou terapia não listados, se existe, para a cura do paciente, alternativa eficaz, efetiva e segura já incorporada (EREsps n. 1.889.704/SP e 1.886.929/SP, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgados em 8/6/2022, DJe de 3/8/2022). Sem embargo, o órgão colegiado admitiu a excepcional possibilidade de cobertura do procedimento - indicado pelo médico ou odontólogo assistente mas não previsto no rol da agência reguladora -, inexistindo substituto terapêutico listado, desde que:
+(i) não tenha sido indeferida expressamente pela ANS a incorporação do procedimento ao Rol da Saúde Suplementar,
+(ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências,
+(iii) haja recomendações de órgãos técnicos de renome nacionais (como CONITEC e NATJUS) e estrangeiros, e
+(iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS.
+O TJPR, no julgamento do agravo de instrumento, afastou o dever de a recorrida custear o medicamento descrito na exordial, ante seu uso domiciliar. No entanto, a Resolução n. 536/2022 incorporou a cobertura da medicação no rol da ANS, motivo pelo qual a Corte de apelação concluiu pela obrigatoriedade superveniente de a empresa recorrida disponibilizar o tratamento. Confira-se (e-STJ fl. 902):
+O medicamento Guselcumabe (Tremfya) foi incluído no rol da ANS pela Resolução Normativa nº 536, de 06 de maio de 2022 (que incluiu o item 65.5 do anexo II, onde consta a indicação do medicamento para psoríase), que alterou a Resolução Normativa nº 465/2021 da ANS (Normativa ANS em anexo - página 74).
+Considerando o item 65.5 do anexo II da citada Resolução, a cobertura do medicamento Guselcumabe é obrigatória para pacientes com psoríase moderada a grave, com falha, intolerância ou contraindicação ao uso da terapia convencional, como ocorre no caso concreto, de acordo com a prescrição médica (seq. 1.7).
+O item 65.5 do anexo II da citada Resolução exige que o paciente, após falha terapêutica do tratamento convencional, caso dos autos, atenda a pelo menos um dos seguintes critérios:
+(..)
+O autor possui resulta de DLQI igual a 18, portanto, atende ao item "c", DLQI superior a 10, conforme documento apresentado (mov. 27.4).
+O medicamento possui registro na Anvisa.
+Ao rejeitar os aclaratórios, o Colegiado esclareceu ainda que (e-STJ fl. 929):
+Nota-se que foi afastada a obrigação de o plano fornecer o medicamento de uso domiciliar, em tutela de urgência, conforme reconhecido no agravo de instrumento nº 0055043-03.2020.8.16.0000.
+A cobertura somente foi admitida após a inclusão da medicação em novel portaria, conforme constou expressamente do acórdão: "O fato de tratar-se de uso domiciliar, por si só, não tem o condão de tornar legítima a recusa da operadora, porquanto é obrigatória a sua cobertura nos termos da novel portaria".
+Como se vê, durante a tramitação processual na origem, foram respeitados os entendimentos desta Corte Superior de que, em regra, o rol da ANS é taxativo, além de que não há obriga ção de os planos de saúde custearem medicação de uso domiciliar.
+Estando o acórdão impugnado conforme a jurisprudência assente neste Tribunal Superior, incide a Súmula n. 83/STJ, que se aplica tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+Ademais, "encontrando-se o aresto de origem em sintonia à jurisprudência consolidada nesta Corte, a Súmula 83 do STJ serve de óbice ao processamento do recurso especial, tanto pela alínea "a" como pela alínea "c", a qual viabilizaria o reclamo pelo dissídio jurisprudencial" (AgInt nos EDcl no AREsp n. 741.863/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/03/2020, DJe 1º/4/2020).
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade da justiça na instância de origem (e-STJ fl. 909), deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
