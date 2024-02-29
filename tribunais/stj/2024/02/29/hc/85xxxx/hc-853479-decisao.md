@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ROBERTO DA GUIA SCARPARO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO (Apelação Criminal 1007530-68.2022.8.11.0007).
+O paciente foi condenado à pena de 10 anos de reclusão, no regime fechado, além do pagamento de 1.000 dias-multa, pela prática do crime previsto no artigo 33, caput, da Lei 11.343/2006.
+A apelação interposta pela defesa foi parcialmente provida para redimensionar a pena para 7 anos, 3 meses e 23 dias de reclusão, no regime fechado, além do pagamento de 750 dias-multa, por meio de acórdão assim ementado (e-STJ fls. 22-23):
+APELAÇÕES CRIMINAIS - TRÁFICO DE DROGAS - SENTENÇA CONDENATÓRIA - AUSÊNCIA DE FUNDAMENTOS PARA EXASPERAÇÃO DA PENA-BASE E MINORANTE DO PRIVILEGIADO - EXPRESSIVA QUANTIDADE DE PASTA-BASE DE COCAÍNA E CLORIDRATO DE COCAÍNA  315KG  - CIRCUNSTÂNCIAS DO CRIME - PREPARO PRÉVIO - EXASPERAÇÃO - VALORAÇÃO NEGATIVA - AUTORIZAÇÃO - ARESTOS DO STJ - CONSEQUÊNCIAS DO CRIME - GRAVIDADE ABSTRATA DO TRÁFICO - REDIMENSIONAMENTO DA PENA-BASE - TRÁFICO PRIVILEGIADO - PAGAMENTO DE VALOR, FORMA DE ACONDICIONAMENTO, PESSOAS RESPONSÁVEIS POR RETIRAR AS DROGAS A ESTRADA - PLANEJAMENTO PARA A EXECUÇÃO DO TRÁFICO - ORIENTAÇÃO DO STJ - CONDIÇÃO DE MULA NÃO DENOTADA - ENVOLVIMENTO EM ATIVIDADE/ORGANIZAÇÃO CRIMINOSA - ACÓRDÃO DO TJMT - MINORANTE INAPLICÁVEL - RECURSO PROVIDO PARCIALMENTE PARA REDIMENSIONAR AS PENAS.
+A defesa alega, em síntese, que: a) "certamente houve indevida agravação, uma vez que, o Requerente, é réu primário e possuidor de bons antecedentes e pelas investigações realizadas pela Polícia Judiciaria Civil de Alta Floresta/MT, não existe nenhuma circunstância judicial negativa" (e-STJ fl. 6); e b) "o Tribunal de Justiça do Estado de Mato Grosso considerou para manter o Requerente em regime fechado as circunstâncias judiciais negativas e a pena aplicada, sem o mínimo de fundamentação, mormente, quando não traz quais seriam as circunstâncias judiciais negativas, e a pena é inferior à 8 (oito) anos de reclusão" (e-STJ fl. 6).
+Requer a concessão da ordem para que seja alterado o regime para o semiaberto.
+Liminar indeferida pelo Ministro João Batista Moreira (Desembargador convocado do TRF-1) (e-STJ fls. 381-382).
+Informações prestadas (e-STJ fls. 388-396).
+Considerando o tempo decorrido deste a autuação do presente feito e as alterações de relatoria, determinei a intimação do impetrante para que se manifestasse a respeito da manutenção do interesse no julgamento do feito (e-STJ 403).
+Com a resposta positiva do impetrante (e-STJ fls. 407-408 e 409-410) vieram-me os autos conclusos.
+É o relatório.
+Decido.
+Cinge-se a controvérsia em verificar se o paciente sofre constrangimento ilegal com a fixação, pelo Tribunal de origem, do regime fechado como inicial ao cumprimento da pena.
+A Corte local assim fundamentou a controvérsia (e-STJ fls. 28-29):
+Nessa vertente, o aumento procedido pelo juiz da causa revela-se proporcional à quantidade e natureza da droga apreendida.
+Quanto as circunstâncias do crime, o preparo prévio para ocultar as drogas, em um fundo falso no caminhão, também autoriza a valoração negativa das circunstâncias judiciais (AgRg no HC 610.260/MS, Rel. Ministro João Otávio De Noronha -24.2.2022).
+De toda sorte, a gravidade abstrata do tráfico de drogas não serve como fundamentos para exasperar a pena-base, "eis que inerentes ao crime", conforme entendimento do c. STJ (HC n. 483.672/ES, Relator: Min. Felix Fischer - 26.2.2019).
+Logo, a pena-base do tráfico de drogas, deve ser redimensionada a 8 (oito) anos, 9 (nove) meses e 10 (dez) dias de reclusão e 900 (novecentos) dias-multa.
+ ..
+Por efeito, totaliza-se a pena definitiva do apelante em 7 (sete) anos, 3 (três) meses e 23 (vinte e três) dias de reclusão e 750 (setecentos e cinquenta) dias-multa, no regime fechado, em razão das circunstâncias judicias negativas e a pena aplicada.
+Quanto à fixação do regime prisional, deve ser observado o disposto nos arts. 33 e 59 do Código Penal, bem como as Súmulas 440 do Superior Tribunal de Justiça e 718 e 719 do Supremo Tribunal Federal.
+Nota-se que o Tribunal de origem fixou o regime fechado, em razão da presença de circunstâncias judiciais desfavoráveis, fundamento que demonstra a maior reprovabilidade da conduta.
+Assim, embora a pena aplicada se situe, na hipótese, em patamar superior a 4 anos e inferior a 8 anos de reclusão, é cabível a imposição de regime mais gravoso em decorrência das circunstâncias judiciais desfavoráveis, mostrando-se viável a fixação do modo fechado, nos termos do art. 33, §§ 2º e 3º, do CP.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO PARA O DELITO DO ART. 28 DA LEI Nº 11.343/06. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. INCIDÊNCIA DO BENEFÍCIO DO ART. 33, §4º, DA LEI Nº 11.343/06. ACUSADO COM MAUS ANTECEDENTES. REGIME MAIS GRAVOSO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO P ROVIDO.
+1. O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergiram elementos suficientemente idôneos de prova, colhidos nas fases inquisitorial e judicial, aptos a manter a condenação do acusado pelo delito de tráfico. Assim, rever os fundamentos utilizados pelas instâncias de origem, para decidir pela absolvição, por ausência de prova concreta para a condenação, ou, subsidiariamente, pela desclassificação da conduta para a do art. 28 da Lei n. 11.343/2006, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+2. A configuração da reincidência e dos maus antecedentes impede o reconhecimento da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, por ausência do cumprimento dos requisitos legais. No presente caso, o agravante ostenta maus antecedentes, o que inviabiliza a incidência do benefício do tráfico privilegiado.
+3. Em atenção ao art. 33, § 2º, alínea "b", do CP, embora estabelecida a pena definitiva do acusado em 7 anos de reclusão e 1 ano de detenção, houve a consideração de circunstância judicial negativa na exasperação da pena-base (antecedentes), além de ter sido apreendido grande quantidade de droga (5,065kg de maconha), fundamentos a justificar a manutenção do regime prisional mais gravoso, no caso, o fechado, para a pena de reclusão, e semiaberto, para a detenção.
+4. Agravo regimental não provido.
+(AgRg no AREsp 2.429.652/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/11/2023, DJe de 5/12/2023.) (Grifamos)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PLEITO DE DESCLASSIFICAÇÃO DO CRIME PARA A CONDUTA PREVISTA NO ART. 28 DA LEI DE DROGAS. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. DOSIMETRIA. FIXAÇÃO DA PENA-BASE ACIMA DO MÍNIMO LEGAL. POSSIBILIDADE. FUNDAMENTAÇÃO CONCRETA. INCIDÊNCIA DA CAUSA DE DIMINUIÇÃO DO § 4º DO ART. 33 DA LEI N. 11.343/06. DESCABIMENTO. DEDICAÇÃO À ATIVIDADE CRIMINOSA DEVIDAMENTE COMPROVADA. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIÁVEL NA ESTREITA VIA DO MANDAMUS. REGIME PRISIONAL ADEQUADO. PRESENÇA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. SUBSTITUIÇÃO DA PENA CORPORAL. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+IX - No tocante ao regime inicial de cumprimento de pena, conforme o disposto no art. 33, § 3º, do Código Penal, a sua fixação pressupõe a análise do quantum da pena, bem como das circunstâncias judiciais previstas no artigo 59 do mesmo diploma legal.
+X - In casu, verifico que inexiste flagrante ilegalidade a ensejar a concessão da ordem de ofício, uma vez que a valoração negativa das circunstâncias judicias indicadas no acórdão, justificam a fixação do regime fechado para o início do cumprimento da pena.
+XI - Mantida pena superior a 4 anos de reclusão, não há se falar em substituição da corporal por restritiva de direito, nos termos do art. 44, inciso I, do Código Penal.
+Agravo regimental desprovido.
+(AgRg no HC 832.132/PE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+Ante o exposto, por não vislumbrar a ocorrência de constrangimento ilegal, DENEGO A ORDEM do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
