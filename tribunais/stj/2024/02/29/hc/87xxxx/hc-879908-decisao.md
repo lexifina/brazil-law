@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de BRUNO ANDRADE DO NASCIMENTO apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1519551-81.20238.26.0228).
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 144/150, in verbis:
+Trata-se de habeas corpus, substitutivo de recurso próprio, sem pedido liminar, impetrado contra acórdão proferido pelo Tribunal de Justiça a quo que negou provimento ao apelo defensivo, mantendo inalterada a sentença que condenou o paciente à pena de 05 anos de reclusão, em regime inicial semiaberto, além do pagamento de 500 dias-multa, no piso legal, em razão da prática do delito previsto no art. 33, caput, da Lei nº 11.343/06 (e-STJ, fls. 51/62).
+A defesa sustenta, nesta sede, constrangimento ilegal ao paciente aduzindo para tanto a inexistência de fundamentação idônea para o afastamento da aplicação da modalidade privilegiada do tráfico, tendo em vista que condenação sem trânsito em julgado não pode ser utilizada para obstar o deferimento do referido benefício, bem como inexiste outro fundamento idôneo para o afastamento da benesse. Postula, destarte, a concessão da ordem para que ocorra a aplicação da modalidade privilegiada do tráfico (e-STJ, fls. 03/11).
+Prestadas as informações de estilo, os autos vieram ao Ministério Público Federal para o oferecimento de parecer.
+Ao final, o Parquet opinou pela concessão da ordem.
+É o relatório.
+Decido.
+Tenho que assiste razão à defesa.
+Isso, porque esta Sexta Turma adotou o atual posicionamento do Supremo Tribunal Federal segundo o qual inquéritos policiais e ações penais em curso não constituem circunstância suficiente para afastar a aplicação da minorante de tráfico de drogas.
+Confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL. TRÁFICO DE DROGAS. DOSIMETRIA. REDUTOR ESPECIAL DE PENA RELATIVO AO PRIVILÉGIO. INCABÍVEL. PACIENTE CONHECIDO NO MEIO POLICIAL PELA PRÁTICA DO TRÁFICO DE DROGAS. ALTERAÇÃO DE ENTENDIMENTO DAS INSTÂNCIAS ORDINÁRIAS EXIGE REVOLVIMENTO FÁTICO-PROBATÓRIO, PROVIDÊNCIA IMPOSSÍVEL NO ESTREITO RITO DO HABEAS CORPUS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O mais recente posicionamento de ambas as Turmas do Supremo Tribunal Federal é no sentido de que, em regra, inquéritos policiais e ações penais em andamento não constituem fundamentação idônea apta a respaldar a não aplicação do redutor especial de redução de pena relativa ao reconhecimento da figura privilegiada do crime de tráfico de drogas.  ..  (AgRg no HC n. 560.561/RS, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 2/2/2021, DJe 17/2/2021.)
+Colaciono, a seguir, julgado da Suprema Corte nessa mesma direção:
+PENA - FIXAÇÃO - ANTECEDENTES - INQUÉRITOS E PROCESSOS EM CURSO - DESINFLUÊNCIA. O Pleno do Supremo, no julgamento do recurso extraordinário nº 591.054, de minha relatoria, assentou a neutralidade, na definição dos antecedentes, de inquéritos ou processos em tramitação, considerado o princípio constitucional da não culpabilidade. PENA - CAUSA DE DIMINUIÇÃO - ARTIGO 33, § 4º, DA LEI Nº 11.343/2006 - ATIVIDADES CRIMINOSAS - DEDICAÇÃO - PROCESSOS EM CURSO. Revela-se inviável concluir pela dedicação do acusado a atividades criminosas, afastando-se a incidência da causa de diminuição prevista no artigo 33, § 4º, da Lei nº 11.343/2006, considerado processo-crime em tramitação. (HC n. 173.806, relator MARCO AURÉLIO, Primeira Turma, julgado em 18/2/2020, processo eletrônico DJe-049 divulg. 6/3/2020, public. 9/3/2020.)
+Assim, é de rigor a aplicação do referido redutor em seu grau máximo de 2/3.
+Logo, a pena do recorrente deve ser reduzida para 1 ano e 8 meses de reclusão.
+À vista de tais pressupostos e acolhendo o parecer do Ministério Público Federal, conheço do agravo para dar provimento ao recurso especial, a fim de, aplicando em 2/3 a fração da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, reduzir a reprimenda do paciente para 1 ano e 8 meses de reclusão, no regime inicial aberto, e determinar a substituição da pena privativa de liberdade por duas restritivas de direitos, a serem estipuladas pelo Juízo da execução p enal.
+Publique-se. Intimem-se.
+EMENTA
