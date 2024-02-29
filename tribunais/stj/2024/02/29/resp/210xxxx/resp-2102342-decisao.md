@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por VIVIANA ALIMENTOS LTDA., com fundamento na alínea "a" do permissivo constitucional, para desafiar acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+CRÉDITOS DE PIS E COFINS. ICMS-ST.
+Não tem o contribuinte direito de apurar créditos de PIS e COFINS sobre o valor pago a título de ICMS recolhido sob o regime de substituição tributária (ICMS-ST).
+Os embargos declaratórios opostos pelo recorrente foram rejeitados.
+Em suas razões, a recorrente aponta violação dos arts. 1º e 3º, inciso I, das Leis n. 10.637/2002 e 10.833/2003, sustentando, em resumo, o direito à dedução de créditos de PIS e COFINS decorrentes da aquisição de mercadorias sujeitas ao ICMS-ST.
+Passo a decidir.
+Em sessão eletrônica de julgamento, finalizada em 12/12/2023, a Primeira Seção do STJ decidiu afetar à sistemática dos recursos repetitivos o ERESP 1.959.571/RS e os RESPs 2.072.621/SC e 2.075.758/ES, sob a relatoria do Ministro Mauro Campbell Marques, em que se discute a possibilidade de creditamento, no âmbito do regime não-cumulativo das contribuições ao PIS e COFINS, dos valores que o contribuinte, na condição de substituído tributário, paga ao contribuinte substituto a título de reembolso pelo recolhimento do ICMS-substituição (ICMS-ST).
+Na ocasião, determinou-se a suspensão do julgamento de todos os processos em primeira e segunda instâncias que envolvem a matéria, inclusive no Superior Tribunal de Justiça, segundo o disposto no art. 1.037, II, do CPC/2015.
+Assim, por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e o Superior Tribunal de Justiça, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução no recurso extraordinário afetado, o que viabiliza, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o re curso especial, se for o caso, deverá ser encaminhado a este Órgão Superior para que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO EM RECURSO ESPECIAL. IPVA. ALIENAÇÃO FIDUCIÁRIA. LEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. QUESTÃO JURÍDICA COM REPERCUSSÃO GERAL RECONHECIDA PELO STF. EXEGESE DOS ARTS. 1.040 E 1.041 DO CPC. DEVOLUÇÃO DO ESPECIAL PARA SOBRESTAMENTO NA CORTE DE ORIGEM. ACLARATÓRIOS ACOLHIDOS COM EXCEPCIONAL EFEITO INFRINGENTE.
+1. No caso, a questão referente à matéria de fundo, a saber, legitimidade passiva do credor fiduciário para figurar em execução fiscal de cobrança do imposto sobre a propriedade de veículos automotores (IPVA) incidente sobre veículo objeto de alienação fiduciária, teve reconhecida a sua repercussão geral pelo plenário virtual do Supremo Tribunal Federal nos autos do RE 1.355.870/MG (Relator(a): MINISTRO PRESIDENTE, Tribunal
+Pleno, julgado em 30/6/2022, PROCESSO ELETRÔNICO DJe155 DIVULG 04-08-2022 PUBLIC 05-08-2022) - Tema n. 1.153.
+2. Podendo a ulterior decisão do STF, em repercussão geral já reconhecida, afetar o julgamento da matéria veiculada no recurso especial, faz-se conveniente que o STJ, em homenagem aos princípios processuais da economia e da efetividade, determine o sobrestamento do especial e devolva os autos ao Tribunal de origem para que ali, em se fazendo necessário, seja oportunamente realizado o ajuste do acórdão local ao que vier a ser decidido na Excelsa Corte.
+3. Embargos de declaração acolhidos, com efeitos infringentes, para determinar o cancelamento das decisões anteriores e a restituição dos autos ao Tribunal de origem, para que lá se observe o iter delineado nos arts. 1.040 e 1.041 do CPC.
+(EDcl no AgInt no REsp 1.942.458/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 9/11/2022, DJe de 14/11/2022).
+Registre-se que essa medida visa evitar, também, o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou unicidade recursal.
+Ante o exposto, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido
+no recurso representativo da controvérsia e em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo Tribunal Superior; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
+EMENTA
