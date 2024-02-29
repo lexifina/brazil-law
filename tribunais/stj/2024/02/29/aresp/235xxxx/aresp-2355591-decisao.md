@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo de MARCELO AUGUSTO DA SILVA contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido no julgamento de apelação criminal n. 1500292-48.2021.8.26.0559.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 33, § 4º, da Lei n. 11.343/06 (tráfico privilegiado), à pena de 2 anos e 6 meses de reclusão, em regime inicial semiaberto, e 250 dias-multa.
+Recurso de apelação interposto pela defesa foi desprovido (fl. 405). O acórdão ficou assim ementado:
+"TRÁFICO DE ENTORPECENTES PRELIMINARES Ilicitude da prova. Invasão de domicílio não configurada. Crime permanente e estado de flagrante. Fundada suspeita evidenciada Quebra da cadeia de custódia nãodemonstrada. Mera irregularidade que deve ser sopesada no momento de valoração da prova. Ilicitude não evidenciada. Ausência de demonstração de prejuízo Rejeição. MÉRITO - Configuração. Materialidadee autoria demonstradas. Confissão do réu corroborada pelos depoimentos dos policiais civis, tudo em harmonia com o conjunto probatório. Apreensão de razoável quantidade de entorpecente (01 "tijolo" de maconha, com peso líquido de 843,18 gramas) Desclassificação para uso próprio. Impossibilidade Condenação mantida. PENAS e REGIME DE CUMPRIMENTO Bases nos patamares Confissão espontânea inócua (Súmula nº 231 do STJ) Manutenção do redutor do § 4º do artigo 33 da Lei nº 11.343/06 na fração de 1/2, à míngua de irresignaçãodo Ministério Público (vedada a reformatio in pejus) Regime inicial semiaberto. Manutenção. Ausência de impugnação ministerial Incabível a substituição da pena privativa de liberdade por restritivas de direitos (CP, artigo 44, III) Apelo desprovido." (fl. 392).
+Em sede de recurso especial (fls. 410/447), a defesa apontou violação aos arts. 158-A, 245, 386, VII, todos do Código de Processo Penal - CPP, arts. 28 e 42, ambos da Lei Federal n. 11.343/06, arts. 33, § 2º, "c" e 65, III, "d", ambos do Código Penal - CP e Súmulas n. 440/STJ, 718/STF e 719/STF, sustentando, preliminarmente, a ilicitude das provas obtidas por meio de violação domiciliar, a nulidade por quebra da cadeia de custódia e, no mérito, busca a absolvição criminal por in dubio pro reo ou a desclassificação para o delito do art. 28 da Lei n. 11.343/06 e, subsidiariamente, a revisão da dosimetria e abrandamento do regime prisional.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO (fls. 675/712).
+O Tribunal de origem negou seguimento ao recurso especial quanto ao pleito da "ilicitude das provas obtidas por meio de violação domiciliar", com fundamento no art. 1030, I, "b", do CPC e inadmitiu os demais pedidos em razão de: a) fundamentação deficiente; b) ausência da comprovação da divergência; c) óbice da Súmula n. 7 do Superior Tribunal de Justiça - STJ; e d) óbice da Súmula n. 518 do Superior Tribunal de Justiça - STJ (fls. 715/717).
+Em agravo em recurso especial, a defesa impugnou os argumentos da fundamentação deficiente, ausência da comprovação da divergência e óbice da Súmula n. 7/STJ.
+Contraminuta do Ministério Público (fls. 755/765).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo não conhecimento do agravo em recurso especial (fls. 797/800).
+É o relatório.
+Decido.
+No que tange ao pleito da "ilicitude das provas obtidas por meio de violação domiciliar", não é cabível agravo em recurso especial contra decisão que, com fulcro no art. 1030, I, "b", do Código de Processo Civil - CPC/2015, nega seguimento ao recurso especial, uma vez que é de competência do próprio Tribunal recorrido, se provocado por agravo interno, decidir sobre a alegação de suposto equívoco na aplicação de precedente representativo da controvérsia.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INADMISSÃO DO RECURSO ESPECIAL COM FUNDAMENTO NO ART. 1030, I, b, DO CPC. CABIMENTO DE AGRAVO INTERNO NA ORIGEM. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL. INAPLICABILIDADE DA FUNGIBILIDADE RECURSAL. AUSÊNCIA DE DÚVIDA RAZOÁVEL. EXPRESSA PREVISÃO LEGAL. ART. 1030, § 2º, DO CPC/2015. AGRAVO REGIMENTAL IMPROVIDO.
+1. Desde a entrada em vigor das disposições do Novo Código de Processo Civil, se a negativa de seguimento ao recurso especial estiver amparada no fundamento de que o acórdão recorrido está alinhado a entendimento exarado pelo STF ou pelo STJ sob a sistemática dos repetitivos, o recurso cabível em face de tal decisão será o agravo interno para o próprio Tribunal originário. Inteligência do art. 1.030, I, b, e § 2º, do Código de Processo Civil.
+ ..
+3. Agravo regimental improvido.
+(AgRg no AREsp 1076600/BA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 23/04/2018).
+Quanto aos demais pleitos, o recurso especial foi inadmitido pela Corte de origem, em razão da deficiência da fundamentação, ausência da comprovação da divergência, além dos óbices contidos nas Súmulas n. 7/STJ e 518/STJ. Contudo, o agravante, nas razões do agravo em recurso especial, não rebateu o fundamento da Súmula n. 518/STJ.
+Assim, torna-se inviável o agravo em recurso especial que deixa de impugnar os fundamentos da decisão que inadmitiu o apelo extremo, incidindo, na espécie, o teor da Súmula n. 182 do Superior Tribunal de Justiça - STJ.
+A respeito:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. SÚMULA 182/STJ. CONTRARIEDADE AOS ARTS. 13, 18 E 19 DO CP. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF e 211/STJ. DETRAÇÃO PENAL. SENTENÇA ANTERIOR À VIGÊNCIA DA LEI Nº 12.736/2012. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO. AGRAVOS IMPROVIDOS.
+1. A ausência de impugnação de todos os fundamentos da decisão de inadmissão do recurso especial obsta o conhecimento do agravo, da Súmula 182 do STJ, aplicável por analogia.
+ ..
+4. Agravos regimentais improvidos.
+(AgRg no AREsp 626.543/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 08/03/2018).
+Diante do exposto, com fundamento no art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
