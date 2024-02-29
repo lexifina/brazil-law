@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de THAYRON BATISTA DE MELO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO (agravo em execução n. 0014807-40.2023.8.17.9000).
+Consta dos autos que o Juiz das Execuções Criminais da comarca da capital, nos autos de execução n. 0000421-73.2019.8.17.4011, em decisão proferida no dia 14/06/2023, indeferiu o pedido de aplicação da fração de 40% da pena para progressão de regime (e-STJ, fls. 198/199).
+Contra a decisão, a defesa interpôs agravo em execução, perante a Corte de origem, o qual negou provimento ao recurso, recebendo o acórdão a seguinte ementa (e-STJ, fl. 65):
+AGRAVO EM EXECUÇÃO PENAL. RECURSO DEFENSIVO. RECONHECIMENTO PELO JUIZ DE PRIMEIRO GRAU DA REINCIDÊNCIA ESPECÍFICA SOBRE A TOTALIDADE DAS PENAS. APLICAÇÃO DE60% (SESSENTA POR CENTO) DO CUMPRIMENTO DA PENA PARA CONCESSÃO DOS BENEFÍCIOS DA EXECUÇÃO. POSSIBILIDADE. AGRAVO DE EXECUÇÃO PENAL DESPROVIDO.1. A reincidência é circunstância de caráter pessoal que deve ser considerada na fase de execução, quando da unificação das penas, estendendo-se sobre a totalidade das penas somadas, com repercussão no cálculo dos benefícios executórios. Dessa forma, sendo o condenado reincidente específico em crime equiparado a hediondo (tráfico de drogas), tal condição se estende sobre a totalidade das penas somadas, não se justificando a consideração isolada de cada condenação, tampouco a aplicação de percentuais diferentes para cada uma das reprimendas, devendo incidir no caso concreto o percentual de 60% (sessenta por cento) em relação ao total da pena unificada para fins de progressão.2. Recurso desprovido.
+Na presente impetração, a impetrante sustenta a retroatividade da lei penal mais benéfica, bem como ser indevida a consideração da reiteração delitiva entre crimes comuns e hediondos para fins da incidência da fração de 60% da pena.
+Requer, liminarmente e no mérito, a anotação da fração de 40% no atestado de pena, para obtenção da progressão de regime.
+A liminar foi indeferida informações foram prestadas e o Ministério público federal emitiu parecer pela denegação da ordem (e- STJ, fls. 231/232 239/259, 264/265, 266/271 e 273/275).
+É o relatório. Decido.
+Conforme últimas informações prestadas pelo Juízo de primeiro grau, consta que o juiz da execução reanalisou os cálculos e considerou que a fração correta para progressão de regime referente à condenação no processo nº 0022735-83.2017.8.17.000 deve ser 2/5, fundamentando que se trata de primeira condenação de delito equiparado a hediondo.
+Diante disso, com fundamento no art. 34, XI e XX do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Intimem-se.
+EMENTA
