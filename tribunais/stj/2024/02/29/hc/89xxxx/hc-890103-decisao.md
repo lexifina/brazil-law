@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ANA CRISTINA DA SILVA LOUSADA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Apelação n. 0090056-08.2022.8.19.0001, relatora a Desembargadora Adriana Lopes Moutinho Daudt d"Oliveira).
+Depreende-se dos autos que a paciente foi condenada à pena de 5 anos e 10 meses de reclusão, em regime inicial semiaberto, pela prática do delito previsto no art. 33, caput, c/c o art. 40, III, ambos da Lei n. 11.343/2006 (e-STJ fls. 76/81). Segundo consta, foram apreendidos com ela cerca de 33g (trinta e três gramas) de maconha (e-STJ fl. 76).
+Irresignada, a defesa interpôs apelação, tendo o Tribunal de origem dado parcial provimento ao recurso "para reconhecer a atenuante da confissão e o tráfico privilegiado", redimensionando-se a pena para 1 ano, 11 meses e 10 dias de reclusão, em regime inicial aberto, conforme acórdão ementado às e-STJ fls. 17/19.
+Daí o presente writ, no qual a defesa argumenta que não foi apresentada fundamentação idônea para a não substituição da pena privativa de liberdade por duas restritivas de direito, sustentando que "o argumento indicado no v. acórdão para rechaçar o reconhecimento da substituição da pena, isto é, a prática do delito em unidade prisional, não é elemento suficiente para afastar a substituição, ainda mais quando a Paciente já foi condenada como incursa no artigo 40, inciso III, da Lei n.º 11.343/2006, circunstância de aumento de pena da lei especial referente à prática do delito nas proximidades de unidade prisional" (e-STJ fl. 15).
+No ponto, acrescenta que, "ao afastar a substituição do art. 44 do CP, tendo como supedâneo circunstância já valorada na dosimetria da pena (art. 40, III, da Lei 11.343/2006), está-se diante de bis in idem, ou seja, valorando idêntica circunstância, primeiramente, para majorar a pena e em seguida para afastar a substituição da PRD por duas PRD"s" (e-STJ fl. 15).
+Assim, requer, inclusive liminarmente, a concessão de ordem para que seja substituída a pena privativa de liberdade por duas restritivas de direitos (e-STJ fl. 16).
+Liminar indeferida.
+Informações prestadas.
+Instado a se manifestar, o Ministério Público Federal opinou pela concessão da ordem.
+É, em síntese, o relatório.
+Decido.
+Tenho que assiste razão à defesa.
+Isso, porque a negativa de substituição da pena privativa de liberdade por restritivas de direitos não está devidamente lastreada em fundamentação idônea, mormente ao se levar em consideração que, no caso, o delito não envolveu violência ou grave ameaça e as circunstâncias judiciais foram todas favoráveis à paciente, tendo sido a pena-base fixada no mínimo legal.
+Ademais, conforme oportunamente salientado pelo Ministério Público Federal, o Superior Tribunal de Justiça já decidiu que "a extrema vulnerabilidade social de mulheres que tentam ingressar com entorpecentes em presídio, na maior parte das vezes com o marido ou companheiro encarcerado e sendo a única pessoa responsável pelo sustento dos filhos, aliada ao fato de a paciente possuir circunstâncias pessoais favoráveis e de não ser exorbitante o volume da droga apreendida, permite a substituição da pena privativa de liberdade por restritivas de direitos, por ser medida socialmente recomendável" (AgRg no HC n. 761.909/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/9/2022, DJe de 19/9/2022).
+Ante o exposto e acolhendo o parecer do Parquet Federal, concedo a ordem para determinar a substituição da pena privativa de liberdade por restritivas de direitos, a serem definidas pelo Juízo da execução penal.
+Publique-se. Intimem-se.
+EMENTA
