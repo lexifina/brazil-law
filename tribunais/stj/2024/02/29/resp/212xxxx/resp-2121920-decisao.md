@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARIANA LOPES GARCIA DA CUNHA, com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurge contra acórdão do Tribunal de Justiça de São Paulo assim ementado (e-STJ, fl. 254):
+APELAÇÃO. Ação declaratória cumulada com pedido indenizatório. Restrição supostamente indevida. Pedido acolhido para condenar os réus, solidariamente, ao pagamento de indenização, por dano moral, no importe de R$ 15.000,00. Pleito de reforma. Possibilidade. Dano moral. Ausência de restrição creditícia, desvio de função produtiva ou cobrança vexatória. "Feirão Serasa Limpa Nome". Plataforma restrita aos consumidores. Proposta que não é acessível a terceiros. Dano afastado. Recurso provido.
+Dispositivo: deram provimento ao recurso
+No recurso especial, a recorrente aponta, além de divergência jurisprudencial, violação dos arts. 6º e 14 do CDC; e 186, 927 e 944 do CC.
+Esclarece que se opõe ao acórdão por afastar a condenação dos recorridos ao pagamento de indenização por danos morais, mesmo tendo ocorrido a inscrição de seu nome em cadastro de inadimplentes.
+Afirma ser evidente a necessidade de imposição de reparação, pois a autora ficou impedida de trabalhar por não poder contratar serviços de internet em plena pandemia, momento frágil da humanidade, que precisava garantir o mínimo de trabalho para subsistência.
+Destaca que os danos morais são presumidos, logo, provada a anotação indevida, é de rigor a fixação de indenização. Frisa a viabilidade de aplicação da Súmula 479/STJ. Requer o provimento do recurso especial (e-STJ, fls. 262-277).
+Contraminuta não apresentada (e-STJ, fl. 283).
+Juízo positivo de admissibilidade do recurso especial (e-STJ, fls. 297-299).
+Brevemente relatado, decido.
+A segunda instância concluiu que não houve nenhum ato ilícito, dessa forma não caberia falar ocorrência de danos morais. Justificou que a cobrança indevida foi dirigida à insurgente por meio de plataforma acessível somente por ela - Serasa Limpa Nome -, configurando, portanto, mero dissabor.
+Ponderou o aresto, ainda, que em nenhum momento os dados da demandante foram disponibilizados a terceiros nem teria a recorrente feito prova de efetiva ofensa a direito da personalidade.
+Leia-se (e-STJ, fls. 256-259):
+A insurgência está restrita ao dano moral.
+Quanto ao dano moral, não se ignora a incidência do Código de Defesa do Consumidor, circunstância que não isenta a autora quanto à demonstração do efetivo prejuízo moral sofrido.
+Na hipótese, a cobrança dirigida à requerente, por meio de plataforma a ela exclusivamente acessível (fls.31/32), não ultrapassa o mero dissabor, próprio do cotidiano da vida moderna, a que pode estar sujeito qualquer cidadão.
+Oportuno ponderar que, efetivamente, a aludida plataforma "Feirão Serasa Limpa Nome" é restrita aos consumidores e eventuais propostas nela existentes nem sempre correspondem a débitos negativados.
+Não se olvida da possibilidade de configuração de dano moral por cobrança indevida, ainda que ausente inscrição nos órgãos de proteção ao crédito, entretanto, necessária em tais casos prova efetiva de que a insistência, reiteração e a importunação excederam a normalidade Vale dizer, em nenhum momento os dados da autor aforam inseridos nos órgãos de proteção e disponibilizados a terceiros (fls.50/51).
+Desse modo, não se verifica ofensa aos direitos da personalidade ou submissão a situação vexatória, capaz de ensejar dano moral indenizável.  ..
+Destarte, ausente a comprovação de abalo hábil à caracterização do moral ou cobranças vexatórias, não há dever de indenizar.
+Esse entendimento foi extraído da análise fático-probatória da demanda, ocasionando o óbice da Súmula 7/STJ, verbete que incide sobre ambas as alíneas do permissivo constitucional.
+Vejam-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. INEXISTÊNCIA DE DÉBITO. DANOS MORAIS. CADASTRO RESTRITIVO DE CRÉDITO. ATO ILÍCITO. INEXISTENTE. PLATAFORMA "SERASA LIMPA NOME". REEXAME. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, rever o entendimento firmado pelas instâncias ordinárias, no sentido de que não há ato ilícito capaz de gerar o dever de indenizar, demandaria o exame do acervo fático-probatório dos autos, o que é inviável em recurso especial devido ao óbice da Súmula nº 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.030.791/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/10/2022, DJe de 10/10/2022.)
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. PLATAFORMA "SERASA LIMPA NOME". ALEGAÇÃO DE INSCRIÇÃO INDEVIDA. INEXISTÊNCIA. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICA. SÚMULA Nº 7/STJ. VIOLAÇÃO DO ART. 1.022 DO CPC/15. NÃO OCORRÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexiste a alegada violação do art. 1.022 do CPC/15, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O tribunal estadual apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade.
+2. Ademais, a conclusão exarada pela instância ordinária, em relação à comprovação do débito e, ainda, ao fato de que a plataforma Serasa Limpa Nome "não se trata, propriamente, de um órgão de restrição de crédito, mas, sim, de uma plataforma com o fim de viabilizar a renegociação entre consumidor e credor", demandaria, necessariamente, a incursão na seara fático-probatória constante nos autos, situação que atrai o óbice da Súmula nº 7 do STJ.
+3. Ausentes alegações que infirmem os fundamentos da decisão atacada, permanecem incólumes os motivos expendidos pela decisão recorrida.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.952.666/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022.)
+As teses da insurgente, no sentido da restrição à aquisição bens e serviços, bem como sofrimento no momento de pandemia decorrente da anotação ora questionada, não foram analisadas no julgamento, carecendo de prequestionamento (Súmulas 282 e 356/STF).
+Não foram opostos embargos de declaração objetivando suprir eventual omissão nem, consequentemente, alegada ofensa ao art. 1.022 do CPC no recurso especial, o que afasta, inclusive, a alegação de prequestionamento ficto - art. 1.025 do CPC.
+A título ilustrativo:
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ART. 19-A DA LEI 8.036/90. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO E ARGUMENTAÇÃO GENÉRICA. SÚMULAS 283 E 284. ACORDÃO COM FUNDAMENTO NO DIREITO LOCAL. SÚMULA 280/STF. CONTRATO LÍCITO QUANTO AO REGIME ADMINISTRATIVO. DESCABIDO O PEDIDO DE PAGAMENTO DE VERBAS TRABALHISTA. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO PREJUDICADO.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Afasta-se a alegada violação dos artigos 489 e 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira fundamentada a respeito das questões relevantes para a solução da controvérsia.
+3. Consoante entendimento desta Corte, a admissão de prequestionamento ficto, em recurso especial, exige que no mesmo recurso seja indicada violação aos arts. 1.022 e 1.025 do CPC/2015, para que se possibilite ao órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei, o que não ocorreu no presente feito, sendo, portanto, inafastável a incidência da Súmula 211 do STJ e, por analogia, a Súmula 282 do STF. Nesse sentido: REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, Dje 10/4/2017 e AgInt no REsp 1805623/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em DJe 26/06/2019; AgInt no AREsp 1.382.885/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 29/04/2021.
+4. Nas razões do Apelo Especial, a fundamentação do acórdão não foi devidamente impugnada, repercutindo na inadmissibilidade do recurso, visto que o STJ tem firme posicionamento segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, das Súmulas 283 e 284 do STF. A propósito: AREsp 1.269.281/RS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 01/03/2019; AgInt no REsp 1.678.341/ES, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 8/5/2019.
+5. A instância de origem decidiu a controvérsia à luz de legislação local, não se prestando o recurso especial ao exame de suposta ofensa a dispositivo de lei municipal, nos termos da Súmula 280/STF.
+Nesse sentido: REsp 1.699.402/GO, relator Ministro Herman Benjamin, Segunda Turma, DJe de 6/2/2019); AgInt no AREsp 1334776/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 11/12/2018.
+6.O Tribunal a quo decidiu a controvérsia baseado em prova documental constante dos autos. Dessa forma, alterar o fundamento utilizado no acórdão recorrido, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+7. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.929.780/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 14/3/2022, DJe de 18/3/2022.)
+Ante o exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários em favor do advogado da parte ora recorrida em mais 2% (dois por cento) sobre o valor do dano moral afastado, montante que não ultrapassa o previsto no art. 85 do CPC, pois esse percentual incidirá somente sobre a indenização fixada na primeira instância (R$ 15.00,00 - quinze mil reais).
+Fiquem as partes cientificadas de que a insi stência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. DANOS MORAIS. CONCLUSÃO NO SENTIDO DA AUSÊNCIA DE ATO ILÍCITO COM A ANOTAÇÃO DO NOME DA PARTE NA PLATAFORMA SERASA LIMPA NOME. SÚMULA 7/STJ. CARÊNCIA DE PREQUESTIONAMENTO. VERBETES SUMULARES N. 284 E 356/STF. RECURSO ESPECIAL NÃO CONHECIDO.
