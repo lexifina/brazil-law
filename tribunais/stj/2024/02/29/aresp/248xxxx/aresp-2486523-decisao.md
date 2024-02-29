@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de agravo interposto por WMB SUPERMERCADOS DO BRASIL LTDA. contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional que desafia acórdão assim ementado (e-STJ fl. 167):
+EXECUÇÃO FISCAL PRETENSÃO DE PROFERIMENTO DE SENTENÇA DE EXTINÇÃO DA EXECUÇÃO FISCAL, FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS E LIBERAÇÃO DE GARANTIA PRELIMINAR ARGUIDA PELA AGRAVADA
+Interesse recursal presente - Empresa que entende que a execução deveria ter sido extinta nos próprios autos - Preliminar rejeitada.
+PRELIMINARES CONHECIDAS DE OFÍCIO
+Honorários advocatícios que podem ser fixados tanto na execução como nos seus respectivos embargos - Insurgência que deveria ter sido apresentada pela empresa contra o V. Acórdão que julgou a execução e os embargos - V. Acórdão que já transitou em julgado - Falta de interesse recursal - Liberação da garantia ofertada que é automática, diante da extinção da execução e dos embargos - Interesse recursal não verificado.
+MÉRITO
+Execução fiscal que foi julgada conjuntamente com os embargos à execução, nos autos desse último, em sede de recurso de apelação - Execução fiscal extinta - Diante da extinção da execução fiscal pelo V. Acórdão que julgou o apelo, não há se falar em dever de prolação de sentença de extinção nos autos da execução - Decisão mantida.
+RECURSO CONHECIDO EM PARTE E, NA PARTE CONHECIDA, IMPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 184/187 e 201/205).
+No especial obstaculizado (e-STJ fls. 209/228), a parte recorrente aponta violação do art. 1.022 e do art. 489, § 1º, I e IV, do CPC/2015. Alega que, embora opostos embargos de declaração, o acórdão recorrido não se manifestou a respeito da alegação de que, "ainda que o mérito já tenha sido julgado em sede de Embargos à Execução, o Juízo da Execução Fiscal deve prolatar sentença extinguindo o processo com resolução de mérito" (e-STJ fl. 218), bem como sobre a configuração de "erro material por considerar que o Seguro Garantia estaria liberado automaticamente sem a prolação da sentença - o que não é a realidade" (e-STJ fl. 219). Afirma, também, que "não houve qualquer menção ao ônus sucumbencial ou ao Tema 587 do STJ" (e-STJ fl. 219).
+Indica contrariedade ao art. 83, § 2º, do CPC/2015, ao argumento de que, "após a prolação da sentença pretendida, também deveria o D. Juízo condenar o Estado exequente em honorários advocatícios, em consonância com o entendimento do STJ, pacificado em sede de recursos repetitivos (Tema 587), que concluiu ser possível a cumulação da verba honorária na ação de execução e na ação de conhecimento (embargos à execução fiscal), desde que respeitados os limites da norma processual" (e-STJ fls. 220/221).
+Acerca do alegado dissídio jurisprudencial, diz que o julgado diverge do que foi decidido por esta Corte no REsp 1.520.710/SC, no que tange à fixação de honorários advocatícios.
+As contrarrazões foram oferecidas.
+O Tribunal de origem não admitiu o apelo extremo, por entender ausente qualquer vício de integração, pela incidência da Súmula 7 do STJ e inadequada demonstração da divergência jurisprudencial (e-STJ fls. 243/245).
+No agravo em recurso especial (e-STJ fls. 248/268), a parte agravante impugna os fundamentos da decisão agravada e reitera as razões do recurso.
+A contraminuta foi apresentada.
+Passo a decidir.
+No caso dos autos, em sede de agravo de instrumento, o Tribunal de origem manteve a decisão que "desacolheu o pleito da executada para que fosse proferida sentença de extinção da execução com resolução de mérito (arts. 487, I, e 924, III, do CPC), liberada a garantia oferecida nos autos e condenada a exequente ao pagamento de honorários advocatícios sucumbenciais" (e-STJ fls. 167/168). Transcrevo os fundamentos do aresto objeto de recurso especial (e-STJ fls. 169/171):
+O V. Acórdão que julgou o apelo, portanto, extinguiu a execução fiscal, ainda que o tenha feito nos autos dos embargos à execução.
+Neste passo, cumpre rejeitar a preliminar arguida pela Fazenda em sua contraminuta, uma vez que a empresa tem interesse recursal nesse ponto, pois entende que a extinção deveria ter sido feita por sentença nos autos da execução fiscal.
+É certo que os embargos à execução constituem ação autônoma, logo, não se confundem com a execução fiscal, de modo que ambos devem ser julgados, e não somente um ou outro.
+No caso concreto, tanto os embargos como a execução foram julgados conjuntamente, pelo V. Acórdão que julgou o recurso de apelação interposto pela empresa. Isto significa que a execução fiscal foi julgada, ao contrário da tese da agravante.
+Ou seja, não há se falar em necessidade de proferimento de sentença para extinguir a execução porque ela já foi extinta.
+Cumpre destacar que o C. Superior Tribunal de Justiça no julgamento do REsp. nº 1.520.710/SC reafirmou entendimento, sob o rito dos recursos repetitivos, de que é possível a cumulação da verba honorária fixada nos Embargos à Execução e daquela arbitrada na própria execução embargada, uma vez que os embargos à execução configuram demanda incidental autônoma:
+ ..
+Entretanto, o V. Acórdão proferido no bojo dos embargos e que os julgou conjuntamente com a execução fixou honorários advocatícios sucumbenciais sem ressalvar de forma específica que cabia o arbitramento da verba também para a execução.
+Portanto, tem razão a agravante quando alega que os honorários advocatícios são devidos em sede de execução fiscal, cumulados com honorários fixados em embargos à execução.
+Mas, tendo em vista que o V. Acórdão que julgou os embargos à execução julgou também a execução fiscal, cabia à empresa, em recurso interposto contra aquele julgado, insurgir-se contra a alegada falta de fixação de honorários sucumbenciais relativos à execução.
+A empresa, contudo, assim não o fez, e apenas nestes autos, já transitado em julgado o decidido nos autos dos embargos, entendeu por bem manifestar seu inconformismo. Esse inconformismo, todavia, não pode ser manifestado após o trânsito em julgado daquele V. Acórdão.
+Dessa forma, não se pode conhecer do recurso no tocante ao pleito de fixação de honorários advocatícios.
+Por fim, quanto à garantia, como bem consignou o d. juízo na decisão recorrida, com a extinção da execução fiscal pelo Acórdão que julgou os embargos, ela está automaticamente liberada. Questões burocráticas do banco referentes à apólice do seguro-garantia não podem criar regras processuais inexistentes, como pretende a agravante convencer.
+Sem interesse recursal, destarte, também em relação a esse ponto.
+Assim, a decisão agravada merece ser mantida, devendo o recurso ser conhecido apenas parcialmente somente no tocante ao pedido de proferimento de sentença nos autos da execução fiscal e, na parte conhecida, improvido.
+Pois bem.
+O recorrente aponta violação dos arts. 1.022 e 489 do CPC/2015 por omissão sobre a necessidade de prolação de sentença na execução fiscal e, consequentemente, a fixação de honorários advocatícios, em que pese proferida sentença nos respectivos embargos, bem como a respeito de erro material relacionado à garantia do crédito.
+Contudo, o acórdão recorrido enfrentou os temas, esclarecendo que "não há se falar em necessidade de proferimento de sentença para extinguir a execução porque ela já foi extinta" e que "não se pode conhecer do recurso no tocante ao pleito de fixação de honorários advocatícios". Destacou, ainda, a falta de interesse recursal sobre a questão da garantia do crédito tributário. Confira-se (e-STJ fls. 169/171):
+No caso concreto, tanto os embargos como a execução foram julgados conjuntamente, pelo V. Acórdão que julgou o recurso de apelação interposto pela empresa. Isto significa que a execução fiscal foi julgada, ao contrário da tese da agravante.
+Ou seja, não há se falar em necessidade de proferimento de sentença para extinguir a execução porque ela já foi extinta.
+ ..
+Portanto, tem razão a agravante quando alega que os honorários advocatícios são devidos em sede de execução fiscal, cumulados com honorários fixados em embargos à execução.
+Mas, tendo em vista que o V. Acórdão que julgou os embargos à execução julgou também a execução fiscal, cabia à empresa, em recurso interposto contra aquele julgado, insurgir-se contra a alegada falta de fixação de honorários sucumbenciais relativos à execução.
+A empresa, contudo, assim não o fez, e apenas nestes autos, já transitado em julgado o decidido nos autos dos embargos, entendeu por bem manifestar seu inconformismo. Esse inconformismo, todavia, não pode ser manifestado após o trânsito em julgado daquele V. Acórdão.
+Dessa forma, não se pode conhecer do recurso no tocante ao pleito de fixação de honorários advocatícios.
+Por fim, quanto à garantia, como bem consignou o d. juízo na decisão recorrida, com a extinção da execução fiscal pelo Acórdão que julgou os embargos, ela está automaticamente liberada. Questões burocráticas do banco referentes à apólice do seguro-garantia não podem criar regras processuais inexistentes, como pretende a agravante convencer.
+Sem interesse recursal, destarte, também em relação a esse ponto.
+Sobre o tema, importa ressaltar que não há omissão quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórd ão recorrido.
+Além disso, nos termos da jurisprudência dessa Corte Superior, " ..  o julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes, quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio. As proposições poderão ou não ser explicitamente dissecadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto" (AgInt no REsp 1.383.955/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 10/04/2018, DJe 13/04/2018).
+Ora, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como se confundir o resultado desfavorável ao litigante com a falta de fundamentação.
+Desse modo, não se vislumbra nenhuma deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou contradição na prestação jurisdicional.
+Quanto à alegação de ofensa ao art. 85, § 2º, do CPC/2015, verifica-se que o Tribunal de origem não conheceu do agravo de instrumento.
+Contudo, o recorrente não atacou especificamente esse fundamento, o que demonstra a dissociação das razões do recurso especial com o acórdão recorrido e faz atrair, quanto ao ponto, o óbice de conhecimento estampado nas Súmulas 283 e 284 do STF por deficiência de fundamentação do recurso.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE ÁGUA E ESGOTO. COBRANÇA. ALEGAÇÕES GENÉRICAS. SUFICIÊNCIA DAS PROVAS DOS AUTOS PARA FORMAÇÃO DA CONVICÇÃO DO JULGADOR. CERCEAMENTO DE DEFESA. AUSÊNCIA. INDEFERIMENTO DE PROVA DESNECESSÁRIA. REVISÃO DO JUÍZO. SÚMULA 7/STJ. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. SÚMULA 280/STF. DEFICIÊNCIA DA FUNDAMENTAÇÃO RECURSAL. SÚMULAS 284/STF E 283/STF.
+ ..
+6. Configura deficiência da fundamentação recursal a apresentação de razões dissociadas, que não impugnam fundamentação do acórdão por si só suficiente para manter o entendimento expendido. Aplicação das Súmulas 284 e 283 do STF.
+7. Agravo interno não provido.
+(AgInt no AREsp n. 1.797.792/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 6/3/2023, DJe de 9/3/2023.)
+Cabe acrescentar que "o não conhecimento do especial pelo conduto da alínea a do permissivo constitucional inviabiliza, por conseguinte, a análise do alegado dissídio pretoriano" (AgInt no REsp 1.601.154/PR, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 27/02/2018, DJe 06/04/2018).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Publique-se. Intimem-se.
+EMENTA
