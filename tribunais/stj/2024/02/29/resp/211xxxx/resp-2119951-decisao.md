@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial manejado pela COMPANHIA PETROPOLITANA DE TRÂNSITO E TRANSPORTES - CPTRANS com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 412):
+APELAÇÕES CÍVEIS. AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPETIÇÃO DO INDÉBITO. EMPRESA PERMISSIONÁRIA DE TRANSPORTE COLETIVO X CPTRANS. COBRANÇA DE TAXA DE GERENCIAMENTO SOBRE A GRATUIDADE DOS ESTUDANTES DE ENSINO MÉDIO DA REDE PÚBLICA. SENTENÇA DE PROCEDÊNCIA PARCIAL. IRRESIGNAÇÃO DAS PARTES.
+1. Taxa de gerenciamento prevista no artigo 3º, inciso X da Lei municipal 4.790/90, cuja redação foi posteriormente alterada pela Lei 6.808/2010.
+2. Acordo judicial, realizado nos autos do processo nº 2003.042.008302-3, em que as permissionárias de transporte público, incluindo a Empresa autora, assumiram a obrigação de efetuar o pagamento da mencionada taxa de gerenciamento. Discussão acerca da ilegalidade da base de cálculo da taxa, a qual incide sobre os estudantes do ensino médio da rede pública transportados gratuitamente. Irrelevância.
+3. Declaração de inconstitucionalidade do artigo 3º, inciso X da Lei 4.790/1990, com redação dada pela Lei 6.808/2010, pelo Órgão Especial deste Tribunal de Justiça (Incidente de Inconstitucionalidade nº 0033182-89.2013.8.19.0042). Produção de efeitos ex tunc e de aplicação obrigatória para todos os órgãos fracionários do TJRJ.
+4. Ilegalidade da cobrança evidenciada. Pretensão autoral, no sentido de obter o ressarcimento dos valores pagos à Ré, a título de taxa de gerenciamento, que deve ser acolhida. Condenação da parte ré na repetição do indébito que se impõe, observada a prescrição quinquenal, acrescida de juros e correção monetária. Apuração em sede de liquidação.
+5. Desprovimento do recurso interposto pela Ré. Provimento do recurso interposto pela parte autora.
+Opostos embargos declaratórios, foram desprovidos.
+A parte recorrente aponta, além de dissídio jurisprudencial, violação aos arts. 1.022, II, do CPC ao argumento que o acórdão foi omisso a respeito de argumento relevante ao deslinde do feito.
+Por outro lado, defende que "A análise, pelo STJ, da boa-fé contratual expressa no art. 422 do Código Civil Brasileiro, como fez a sentença, por certo, julgará improcedente o pedido indenizatório deferido, na mesma linha da sentença, o que ora se requer." (fl. 484).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O recurso merece acolhida pelo art. 1.022, do CPC/2015, pois a parte
+recorrente alega em seu recurso especial o seguinte (fls. 483/484):
+Com efeito, ainda que tenha ocorrido a declaração de inconstitucionalidade, a discussão segue em relação à repetição do indébito, provida no recurso de apelação.
+No entendimento da Recorrente, o acórdão, data venia, deixou de considerar questão central discutida no processo e trazida, de forma expressa, na senteça.
+A sentença, no index 279, quanto ao pedido de repetição de indébito, assim se pronunciou:
+"No que se refere à repetição de indébito, entendo que o pedido deve ser afastado. A cobrança ora discutida perdurou por dez anos, e, consoante a motivação acima exposta, derivou de interpretação equivocada quanto à base de cálculo da taxa de gerenciamento. Logo, não se vislumbra má-fé ou ilegalidade na cobrança - tanto que não houve propositura de demanda pertinente por dez anos."
+A Recorrente não encontrou, em relação ao pedido de repetição do indébito, o pronunciamento desta E. Câ mara acerca das razões exaradas pela Exma. Sra. Juíza prolatora da sentença de index 279, qual seja, a ausência de má-fé da Ré e a interpretação equivocada quanto à base de cálculo do gerenciamento. O tema foi abordado nos embargos de declaração.
+A análise, no entendimento da Recorrente, é fundamental, até pelo fato de se observar que a aplicação dos valores arrecadados do gerenciamento já foram aplicados, por se tratarem de gerenciamento/ fiscalização do transporte público, atribuição legal da Recorrente, constituindo-se a boa fé contratual da CPTRANS/Recorrente um fato que afastaria dela o dever de indenizar, na linha do que prescreve o art. 422 do Cód. Civil.
+A ausência de apreciação da questão omitida, assim, afrontou, data maxima venia, vez que se trata do fundamento pelo qual o Juízo de 1º grau indeferiu o pedido da Autora.
+Entretanto, o Tribunal de origem quedou silente sobre tais argumentos, em franca violação ao art. 1.022, do CPC/2015, porquanto não prestada a jurisdição de forma integral. Nesse vértice, vejam-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OCORRÊNCIA. RETORNO DOS AUTOS À CORTE DE ORIGEM.
+1. É firme o entendimento do STJ de que, "tratando-se de questão relevante para o deslinde da causa, a ausência de manifestação sobre ela caracteriza ofensa ao art. 535 do CPC/1973. Verificada tal ofensa, em sede de recurso especial, impõe-se a anulação do acórdão proferido em sede de embargos de declaração, para que seja proferido novo julgamento suprindo tal omissão" (AgInt no AREsp 868.604/RN, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 14/09/2016).
+2. Caso concreto em que o Tribunal de origem, mesmo provocado em sede de embargos declaratórios, quedou silente sobre argumentação que se mostra relevante para a solução da controvérsia, em franca violação ao art. 1.022 do CPC/2015.
+3. Agravo interno não provido.
+(AgInt no REsp 1.650.218/AL, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 25/9/2018, DJe 9/10/2018)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. TRIBUTO SUJEITO A LANÇAMENTO POR HOMOLOGAÇÃO. DECADÊNCIA TRIBUTÁRIA. ALEGATIVA DE EXISTÊNCIA DE DOCUMENTOS QUE COMPROVAM PAGAMENTO PARCIAL A ATRAIR A INCIDÊNCIA DO ART. 150, § 4º, DO CTN. QUESTÃO JURÍDICA RELEVANTE. ACÓRDÃO RECORRIDO. OMISSÃO. NULIDADE.
+ ..
+2. Na espécie, assiste razão à parte recorrente no ponto em que sustenta violação do art. 535, II, do CPC, pois uma análise detida das decisões proferidas pelo Tribunal de origem, em cotejo com os recursos do contribuinte, revela que houve omissão no acórdão recorrido quanto à alegativa de que há informações constantes dos autos que seriam relevantes ao deslinde da controvérsia, notadamente aquelas que comprovariam a existência de pagamento parcial do tributo a atrair a orientação jurisprudencial pacificada no STJ no sentido de que a decadência tributária, nessas hipóteses, tem início com a ocorrência do fato gerador, e não a partir do primeiro dia do exercício seguinte.
+3. Não havendo o Tribunal a quo se pronunciado a respeito dessas alegativas, caracteriza-se afronta ao art. 535 do CPC, impondo-se a anulação da decisão proferida nos embargos, a fim de que outra seja proferida com apreciação da questão.
+4. Recurso especial provido para anular o acórdão dos embargos de declaração, determinando o retorno dos autos à Corte de origem, a fim de que se manifeste, expressamente, a respeito do quanto alegado em sede declaratória.
+(REsp 1.633.154/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 28/11/2017, DJe 5/12/2017).
+Dessarte, diante do acolhimento da questão preliminar, fica prejudicada a análise dos demais pedidos recursais.
+ANTE O EXPOSTO, conheço do agravo e dou parcial provimento ao recurso especial por afronta ao art. 1.022, do CPC/2015, para determinar o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento dos embargos declaratórios, desta feita com o expresso enfrentamento das questões omitidas.
+Publique-se.
+EMENTA
