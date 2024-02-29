@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJSP assim ementado (e-STJ fl. 219):
+PLANO DE SAÚDE - Cominatória - Prescrição médica de bomba infusora de insulina, bem como todos os medicamentos (insumos) e materiais atinentes a sua utilização - Diabetes melitus tipo I insulinodependente - Tratamento não incluído nas Diretrizes de Utilização (DUT) da ANS - Irrelevância - Rol editado pela agência reguladora que é, em regra, taxativo (EREsps nºs 1.886.929/SP e 1.889.704/SP), mas que não legitima toda e qualquer recusa de cobertura - Possibilidade de cobertura excepcional fora do rol - Hipótese que se enquadra nessa ressalva - Demonstração da eficácia e superioridade do tratamento para a autora - Laudo médico nesse sentido - Circunstâncias dos autos que recomendam a prevalência da indicação da médica que acompanha a paciente - Decisum mantido - Apelo não provido.
+Nas razões do especial (e-STJ fls. 227/244), fundamentado no art. 105, III, "a", da CF/1988, a parte recorrente aponta violação do art. 10, VI, da Lei n. 9.656/1998, afirmando ser legítima a limitação do custeio da bomba infusora de insulina descrita na inicial, pois ela seria de uso domiciliar.
+Contrarrazões às fls. 255/262 (e-STJ).
+Decisão pela admissibilidade do recurso às fls. 263/264 (e-STJ).
+É o relatório.
+Decido.
+Conforme o entendimento do STJ, "não há obrigatoriedade de cobertura de bomba infusora de insulina (e insumos), por se tratar de equipamento de uso domiciliar" (AgInt no REsp n. 1.933.209/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/6/2023, DJe de 19/6/2023).
+Do mesmo modo:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. TEMPESTIVIDADE. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. NOVO EXAME DO RECURSO. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. DIABETES MELLITUS TIPO 1. BOMBA INFUSORA DE INSULINA. USO DOMICILIAR. AUTOADMINISTRAÇÃO. EXCLUSÃO DE COBERTURA. POSSIBILIDADE. NEGATIVA LEGÍTIMA. AGRAVO INTERNO PROVIDO. DECISÃO RECONSIDERADA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. "É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da Agência Nacional de Saúde Suplementar (ANS) para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN-ANS nº 338/2013 (atual art. 17, parágrafo único, VI, da RN-ANS nº 465/2021)" (AgInt nos EREsp 1.895.659/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 29/11/2022, DJe de 9/12/2022).
+2. Conforme entendimento de ambas as Turmas que compõem a Segunda Seção do STJ, não há obrigatoriedade de cobertura de bomba infusora de insulina (e insumos), por se tratar de equipamento de uso domiciliar.
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo julgamento, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.771.350/PR, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/9/2023, DJe de 22/9/2023.)
+AGRAVO INTERNO RECURSO ESPECIAL. DIREITO CIVIL E DO CONSUMIDOR. PLANO DE SAÚDE. INSUMOS PARA BOMBA INFUSORA DE INSULINA. TRATAMENO DOMICILIAR. EXCLUSÃO DO PLANO DE REFERÊNCIA. ART. 10, INCISO VI, DA LEI N. 9.656/1998. INOBRIGATORIEDADE DE COBERTURA. JULGADOS DE AMBAS AS TURMAS DE DIREITO PRIVADO DESTA CORTE SUPERIOR. SUPERVENIÊNCIA DA LEI N. 14.454/2022. ALEGAÇÃO DE ROL EXEMPLIFICATIVO. AUSÊNCIA DE ALTERAÇÃO DO ART. 10, INCISO VI, DA LEI N. 9.656/1998. MANUTENÇÃO DA EXCLUSÃO DE COBERTURA.
+1. Controvérsia pertinente à obrigatoriedade de cobertura de bomba infusora de insulina (e insumos) para o controle de glicemia de paciente diagnosticado com diabetes mellitus tipo 1 em ambiente domiciliar.
+2. Ausência de obrigatoriedade de cobertura de tratamento domiciliar, salvo nas hipóteses de "home care" ou de terapia antineoplásica. Exegese do art. 10, inciso VI, da Lei n. 9.656/1998, consoante julgados recentes desta Corte Superior.
+3. Julgado específico desta TURMA acerca da ausência de obrigatoriedade de cobertura de bomba de insulina, por se tratar de equipamento de uso domiciliar.
+4. Ausência de alteração da força normativa do já citado art. 10, inciso VI, da Lei n. 9.656/1998 ante a superveniência da Lei n. 14.454/2022, de modo que a tese do rol exemplificativo não infirma a conclusão pela ausência de obrigatoriedade de cobertura da bomba de insulina. Agravo interno improvido.
+(AgInt no REsp n. 1.890.572/SP, relator Ministro HUMBERTO MARTINS, TERCEIRA TURMA, julgado em 26/6/2023, DJe de 28/6/2023.)
+O TJSP dissentiu de tal entendimento, porque condenou a recorrente ao custeio da bomba infusora de insulina, mesmo ela sendo de uso domiciliar. Confira-se (e-STJ fl. 223):
+Não há se falar, ainda, em negativa do custeio do equipamento e de insumos pelo argument o de serem de uso domiciliar, porquanto, em existindo cobertura para a afecção, não pode a operadora se furtar a custear os meios para a curar ou mitigar.
+Em tais condições, impõe-se a reforma do aresto impugnado, a fim de excluir o dever de a recorrente custear o insumo mencionado.
+Ante o exposto, DOU PROVIMENTO ao recurso especial para excluir o dever de a recorrente custear a bomba infusora de insulina descrita na exordial e, por consequência, julgar improcedente a demanda autoral.
+Condeno a parte recorrida no pagamento das custas e dos honorários advocatícios, os quais fixo em 10% (dez por cento) do valor atualizado da causa, com fundamento no art. 85, § 2º, do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
