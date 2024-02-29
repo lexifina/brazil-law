@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o JUÍZO FEDERAL DA 1ª VARA DE GUARATINGUETÁ - SJ/SP, o suscitante, e o JUÍZO DE DIREITO DA 1ª VARA DE CACHOEIRA PAULISTA/SP, o suscitado, nos autos de execução fiscal ajuizada pela Fazenda Nacional contra Cerâmica Artística Lusorrasil Ltda. - ME.
+O Juízo Federal da 1ª Vara de Guaratinguetá - SJ/SP expediu carta precatória para ser cumprida pelo Juízo de Direito da 1ª Vara de Cachoeira Paulista/SP, a fim de que promovesse o cumprimento de ato citação da executada. No entanto, seu cumprimento foi recusado, ao fundamento de que "os atos do juízo federal da Subseção Judiciária deprecante devem ser cumpridos, também nos limites territoriais desta Comarca, por sua própria autoridade e competência" (e-STJ fl. 32).
+Foi então suscitado o presente conflito de competência pelo Juízo Federal da 1ª Vara de Guaratinguetá - SJ/SP, ao fundamento de que o art. 255 do CPC/2015 "prevê a faculdade de o oficial de justiça praticar determinados atos processuais em comarcas contíguas e nas que se situem na mesma região metropolitana, sem, no entanto, vedar que o Juízo Federal depreque ao Estadual a realização de atos processuais" (e-STJ fl. 7).
+O Ministério Público Federal opina pelo conhecimento do presente conflito para declarar a competência do suscitado (e-STJ fls. 41/48).
+Passo a decidir.
+O art. 34, XXII, do RISTJ permite ao relator "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Dito isso, penso que assiste razão ao suscitante.
+O Superior Tribunal de Justiça já decidiu que o cumprimento de carta precatória expedida pela Justiça Federal poderá ser realizada na Justiça Estadual quando a Comarca não for sede de Vara Federal, caso dos autos. Entende, também, que somente pode ser recusado esse ato de cooperação quando a carta não estiver revestida dos requisitos legais, quando o Juízo deprecado entenda carecer de competência em razão da matéria ou quando tiver dúvida acerca da autenticidade do documento, nos termos do art. 267 do CPC/2015, o que não ocorreu na presente hipótese.
+Sobre o tema, refiro-me aos seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZO FEDERAL E JUÍZO ESTADUAL. CUMPRIMENTO DE CARTA PRECATÓRIA E M COMARCA ONDE INEXISTE VARA DA JUSTIÇA FEDERAL. COMPETÊNCIA DO JUÍZO ESTADUAL.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. O cumprimento de cartas precatórias expedidas pela Justiça Federal poderão ser realizadas perante a Justiça Estadual quando a Comarca não for sede de Vara Federal.
+3. De acordo com o art. 267 do Código de Processo Civil, a providência somente poderá ser recusada nas hipóteses em que a carta precatória não estiver revestida dos requisitos legais; quando o Juízo deprecado entenda carecer de competência em razão da matéria ou da hierarquia e quando tiver dúvida acerca da autenticidade do documento. Precedentes.
+4. Na espécie, das razões invocadas pelo Juízo suscitante, não se verifica que a recusa tenha se dado por alguma das justificativas acima elencadas, o que firma a competência da Justiça Estadual para o prosseguimento do feito.
+5. Agravo interno não provido.
+(AgInt no CC n. 197.103/SP, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 17/10/2023, DJe de 19/10/2023.).
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. JUSTIÇA FEDERAL E ESTADUAL. CARTA PRECATÓRIA. JUÍZO DEPRECADO.
+1. Consoante orientação do Superior Tribunal de Justiça, a expedição de carta precatória para o cumprimento de atos processuais não se confunde com a delegação de competência conferida aos juízes estaduais para atuarem investidos de jurisdição federal.
+2. Em se tratando do cumprimento de carta precatória, não há delegação da competência jurisdicional para o julgamento da causa, como ocorre nos casos previstos no art. 109, § 3º, da CF. Existe simples pedido de cooperação realizado por determinado juízo a outro, o qual atua nos estreitos limites do ato processual deprecado, no exercício de competência própria relacionada ao cumprimento da respectiva carta. Em tais hipóteses, não há ascendência jurisdicional do respectivo Tribunal Regional Federal sobre o juízo estadual deprecado.
+3. Agravo Interno não provido.
+(AgInt no CC n. 197.658/SP, relator Ministro Herman Benjamin, Primeira Seção, julgado em 17/10/2023, DJe de 30/10/2023.).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. CARTA PRECATÓRIA EXPEDIDA PELO JUÍZO FEDERAL. OITIVA DE TESTEMUNHAS. RECUSA INFUNDADA. COMPETÊNCIA DO JUÍZO DEPRECADO. SÚMULA 3/STJ. INAPLICABILIDADE.
+1. A competência conferida aos juízos estaduais pelo art. 237, parágrafo único, do CPC/2015 para o cumprimento ou efetivação de cartas precatórias expedidas por juízos federais, constitui, em verdade, ato de cooperação limitado a uma finalidade específica, não se confundindo com a delegação para o julgamento da causa na forma do art. 109, §3º, da Carta Magna. Inaplicabilidade da Súmula 3/STJ.
+2. Nos termos do art. 267 do CPC/2015 a carta precatória pode ser recusada pelo Juízo deprecado, por decisão motivada, caso: (i) não esteja revestida dos requisitos legais; (ii) falte ao juiz competência em razão da matéria ou da hierarquia; ou, ainda, (iii) o juiz tenha dúvida acerca de sua autenticidade. Na hipótese dos autos, nenhum desses óbices foi apontado pelo Juízo Suscitado.
+3. Agravo interno não provido.
+(AgInt no CC n. 196.646/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 17/10/2023, DJe de 20/10/2023.).
+Ante o exposto, com base no art. 34, XXII, do RISTJ, conheço do conflito para declarar a competência do JUÍZO DE DIREITO DA 1ª VARA DE CACHOEIRA PAULISTA/SP, o suscitado.
+Comunique-se.
+Publique-se. Intimem-se.
+EMENTA
