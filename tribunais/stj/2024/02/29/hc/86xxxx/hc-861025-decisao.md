@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de CARLITO LUIZ DOS SANTOS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o paciente foi preso em flagrante e, posteriormente, teve a prisão convertida em preventiva pela prática, em tese, do delito previsto no art. 121, §2º, inc. I, c.c. art. 14, inc. II, do Código Penal . A prisão preventiva foi decretada visando garantir a ordem pública em razão da gravidade da conduta imputada ao paciente que teria tentado matar, a golpes de facão, o companheiro de sua ex-mulher.
+Irresignada a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva do paciente pelos mesmos fundamentos, denegando a ordem em acórdão de fls. 15-30.
+No presente writ, alega que o paciente estaria sofrendo constrangimento ilegal diante da ausência de fundamentação concreta e idônea para a segregação cautelar, bem como ausência dos requisitos ensejadores da prisão preventiva, defendendo as condições pessoais favoráveis do paciente e ponderando a possibilidade da aplicação de medidas cautelares diversas da prisão.
+Requer a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+A liminar foi indeferida às fls. 174-175.
+As informações foram prestadas às fls. 181-185 e 186-213.
+O Ministério Público Federal, às fls. 215-218, manifestou-se em parecer que restou assim ementado:
+"HABEAS CORPUS. DIREITO PENAL. DIREITO PROCESSUAL PENAL. TENTATIVA DE HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DO DELITO. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. 1. Não é cabível habeas corpus substitutivo de recurso, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. 2. Não é ilegal prisão preventiva decretada para garantia da ordem pública quando evidenciada a gravidade concreta da conduta do agente, aferida a partir do modus operandi.3. Parecer pelo não conhecimento do writ. Se conhecido, pela denegação da ordem" - fl. 215.
+É o relatório. DECIDO.
+No caso em tela a decisão que decretou a prisão preventiva do ora paciente está suficientemente fundamentada, com a indicação da existência nos autos de circunstâncias ensejadoras da custódia cautelar, notadamente pela periculosidade e pelo modus operandi do crime- o paciente teria tentado matar, a golpes de facão, o companheiro de sua ex-mulher de maneira premeditada, vez que dirigiu-se à casa de seu desafeto armado com um facão e arrombado a porta do imóvel para atacar a vítima- fl. 33.
+A propósito:
+"A jurisprudência desta Corte Superior é no sentido de que a constrição cautelar impõe-se pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, revelada no modus operandi do delito, e diante da acentuada periculosidade do acusado, evidenciada na propensão à prática delitiva e conduta violenta"(AgRg no RHC n. 175.703/ES, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 22/6/2023, grifei.)
+"No caso, a custódia preventiva está adequadamente m otivada em elementos concretos extraídos dos autos, que indicam a necessidade de se resguardar a ordem pública, pois a periculosidade social do agravante está evidenciada no modus operandi do ato criminoso" (AgRg no HC n. 812.413/GO, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 16/6/2023.)
+Por fim, condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem ao paciente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+Ante o exposto, denego a ordem.
+Publique-se. Intime-se.
+EMENTA
