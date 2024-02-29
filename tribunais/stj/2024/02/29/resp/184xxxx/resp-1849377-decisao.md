@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ADM ADMINISTRADORA DE BENEFÍCIOS EIRELI, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que julgou demanda relativa a revisão contratual c/c repetição de indébito.
+O julgado deu provimento em parte aos recursos de apelação dos recorrentes nos termos da seguinte ementa (fl. 557):
+Seguro Saúde. Ação de revisão contratual c.c. repetição de indébito. Preliminar de inépcia recursal. Recursos que não ofendem a Súmula nº 100 desta Corte. Reprodução dos termos da contestação que por si só não obsta o conhecimento das apelações. Preliminar afastada. Autora que aderiu à apólice na condição de subestipulante e deve se sujeitar à data expressamente prevista no contrato para incidência de reajuste do prêmio. Ofensa à Resolução Normativa nº 195/09 da ANS não configurada. Cláusula contratual prevendo reajuste de prêmio por variação da sinistralidade. Validade. Reajustes dessa natureza que, no entanto, dependem de justificativa idônea, inexistente no caso concreto. Expurgo do reajuste impugnado. Ilegalidade da rescisão unilateral e imotivada, conforme art. 51, IV CDC e art. 13, parágrafo único, II da Lei nº 9.656/98, este último aplicável extensivamente aos contratos coletivos. Precedentes. Ação parcialmente procedente. Recursos parcialmente providos.
+Rejeitados os embargos de declaração opostos pela outra recorrente, BRADESCO SEGUROS S.A. (fls. 667-672).
+No presente recurso especial, ADM ADMINISTRADORA DE BENEFICIOS EIRELI alega que o acórdão recorrido violou as disposições contidas nos artigos 13, parágrafo único, e 16, inciso VII, da Lei n. 9.656/98, ao passo que aponta divergência jurisprudencial com arestos desta Corte.
+Sustenta a possibilidade e legalidade da resilição unilateral nos casos de plano de saúde coletivo.
+Apresentadas as contrarrazões (fls. 677-690), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 691-692).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Cuida-se de definir a validade da cláusula contratual que admite a rescisão unilateral do plano de saúde coletivo, independentemente de justificativa.
+Esta Corte tem o entendimento firmado no sentido de que os contratos de planos privados de assistência à saúde coletivos podem ser rescindidos imotivadamente após a vigência do período de 12 (doze) meses e mediante prévia notificação da outra parte com antecedência mínima de 60 (sessenta) dias (art. 17, parágrafo único, da RN n. 195/2009 da ANS).
+Nesse sentido, cito:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO CIVIL PÚBLICA. CONTRATO DE PLANO DE SAÚDE COLETIVO. RESILIÇÃO UNILATERAL E IMOTIVADA PELA ESTIPULANTE. POSSIBILIDADE. INCIDÊNCIA DA SÚMULA N.º 568 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O plano de saúde coletivo pode ser rescindido ou suspenso imotivadamente, após a vigência do período de 12 (doze) meses e mediante prévia notificação do usuário com antecedência mínima de 60 (sessenta) dias.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.076.128/AP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 30/10/2023, DJe de 3/11/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER E NÃO FAZER C/C INDENIZATÓRIA POR DANOS MORAIS. RESCISÃO UNILATERAL DO CONTRATO DE PLANO DE SAÚDE. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VÍCIOS NÃO CONFIGURADOS. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Os contratos de planos privados de assistência à saúde coletivos podem ser rescindidos imotivadamente após a vigência do período de 12 (doze) meses e mediante prévia notificação da outra parte com antecedência mínima de 60 (sessenta) dias (art. 17, parágrafo único, da RN n. 195/2009 da ANS). Precedentes.
+3. Para infirmar as conclusões a que chegou o acórdão recorrido, seria imprescindível o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta instância especial, consoante dispõe a Súmula 7/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.218.207/RN, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 27/3/2023, DJe de 30/3/2023.)
+Por fim, superado o entendimento do Tribunal de origem quanto à impossibilidade de rescisão unilateral, em abstrato, deve-se averiguar o preenchimento dos demais requisitos enunciados nos precedentes citados, providência inviável em recurso especial, em razão do enunciado das Súmulas n. 5 e 7 do STJ. Por isso, os autos devem retornar ao Juízo de origem, a fim de ajustar seu julgamento aos parâmetros descritos na presente decisão.
+Ante o exposto, dou provimento em parte ao recurso especial para determinar o retorno dos autos à origem para se verificar o cumprimento dos requisitos para rescisão unilateral do contrato.
+Publique-se. Intimem-se.
+ EMENTA
