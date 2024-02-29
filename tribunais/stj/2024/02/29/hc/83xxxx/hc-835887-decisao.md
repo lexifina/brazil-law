@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de MARCOS ROBERTO RAMOS FILHO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal 1500426-26.2019.8.26.0210).
+O paciente foi condenado à pena de 8 anos de reclusão, no regime fechado, além do pagamento de 40 dias-multa, pela prática do crime previsto no art. 344, caput, do Código Penal, por duas vezes, em concurso material.
+A apelação interposta pela defesa foi parcialmente provida para redimensionar a pena para 3 anos, 1 mês e 10 dias de reclusão, no regime fechado, além do pagamento de 30 dias-multa, por meio de acórdão assim ementado (e-STJ fl. 16):
+APELAÇÃO CRIMINAL - CRIMES DE COAÇÃO NO CURSO DO PROCESSO - PRETENDIDA A ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS - IMPOSSIBILIDADE - Inviável a absolvição quando o conjunto probatório se revelou uníssono em demonstrar a prática dos delitos pelo réu. Dolo evidenciado. Recurso parcialmente provido, somente para reduzir as penas.
+A defesa alega, em síntese, que: a) "o réu reincidente, condenado a pena inferior a quatro anos e com circunstâncias judiciais favoráveis, poderá iniciar o cumprimento em regime semi-aberto" (e-STJ fl. 9); b) "não existe, no contexto normativo, qualquer vedação no sentido de se fixar o regime inicial semiaberto aos condenados reincidentes punidos com pena não superior a quatro anos" (e-STJ fl. 10); e c) "como a pena é inferior a 4 anos, CONSIDERANDO QUE O RÉU É REINCIDENTE, DEVE SE APLICAR A SÚMULA 269 DO STJ:" (e-STJ fl. 11).
+Requer a concessão da ordem para que seja alterado o regime para o semiaberto.
+Liminar indeferida pelo Ministro Og Fernandes (e-STJ fls. 63-64).
+Informações prestadas (e-STJ fls. 78-81 e 88-114), nas quais consta que o recurso especial interposto foi inadmitido e o AREsp 2.199.760/SP restou não conhecido, bem como desprovido o regimental, com trânsito em julgado certificado.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (e-STJ fls. 133-135).
+Considerando o tempo decorrido deste a autuação do presente feito e as alterações de relatoria, determinei a intimação do impetrante para que se manifestasse a respeito da manutenção do interesse no julgamento do feito (e-STJ 138).
+Com a resposta positiva do impetrante (e-STJ 139/146) vieram-me os autos conclusos.
+É o relatório.
+Decido.
+Cinge-se a controvérsia em verificar se o paciente sofre constrangimento ilegal com a fixação, pelo Tribunal de origem, do regime fechado como inicial ao cumprimento da pena.
+A Corte local assim fundamentou a controvérsia (e-STJ fls. 28-29):
+O regime fechado, estabelecido para o início do cumprimento da pena, está correto, tendo em vista o fato de o réu ter maus antecedentes e ser reincidente, já tendo sido condenado por crimes de ameaça e de furto, este em regime fechado, tudo evidenciando que a fixação de regime diverso do fechado não seria suficiente à prevenção e repressão.
+Nesse contexto, embora se possa saber que o réu permaneceu custodiado, o tempo de prisão provisória não terá influência na determinação do regime inicial de cumprimento da pena privativa de liberdade, uma vez que o regime fechado está sendo estabelecido não em razão da quantidade de pena, tampouco da gravidade abstrata do delito, mas dos maus antecedentes e da reincidência, reveladores da necessidade da imposição do regime mais gravoso, para fins de repressão e prevenção.
+Assim, não há que se cogitar, in casu, da aplicação do disposto no artigo 387, § 2º, do CPP.
+Quanto à fixação do regime prisional, deve ser observado o disposto nos arts. 33 e 59 do Código Penal, bem como as Súmulas 440 do Superior Tribunal de Justiça e 718 e 719 do Supremo Tribunal Federal.
+Nota-se que o Tribunal de origem fixou o regime fechado, em razão da presença de circunstâncias judiciais desfavoráveis (maus antecedentes) e da reincidência, fundamento que demonstra a gravidade concreta do crime e exige maior reprovabilidade da conduta.
+Assim, embora a pena aplicada se situe, na hipótese, em patamar inferior a 4 anos, é cabível a imposição de regime mais gravoso ante os maus antecedentes e a reincidência do paciente, mostrando-se viável a fixação do modo fechado, nos termos do art. 33, §§ 2º e 3º, do CP.
+Por essas razões, inclusive, inviável a aplicação da Súmula 269/STJ, que estabelece: "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a 4 (quatro) anos se favoráveis as circunstâncias judiciais", pois, consoante se verifica, na espécie, embora a pena aplicada seja inferior a 4 anos, existe circunstância judicial desfavorável (maus antecedentes) e o paciente é reincidente, o que afasta a aplicação do referido entendimento sumular.
+Nesse sentido:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. FURTO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. SÚMULA N. 568 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. DOSIMETRIA. MAUS ANTECEDENTES. FUNDAMENTAÇÃO IDÔNEA PARA O RECRUDESCIMENTO DA PENA. FRAÇÃO DE AUMENTO DE 1/6 PERMITIDA NESTA CORTE. DESPROPORCIONALIDADE INEXISTENTE. PERÍODO DEPURADOR PARA FINS DE REINCIDÊNCIA. MARCO INICIAL PARA CONTAGEM DO PERÍODO. EXTINÇÃO DA PENA OU SEU CUMPRIMENTO. AFASTAMENTO DA AGRAVANTE. NECESSIDADE DO REEXAME DE PROVAS. APLICAÇÃO DA FRAÇÃO DE AUMENTO DE 1/6 PARA COMPENSAÇÃO DA CONFISSÃO ESPONTÃNEA E A MULTIRREINCIDÊNCIA. POSSIBILIDADE. REGIME FECHADO. FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+7. Embora a pena aplicada seja inferior a 4 anos, a reincidência e o registro de maus antecedentes justificam a aplicação do regime inicial fechado, não incidindo, na espécie, o teor da Súmula n. 269 do STJ.
+8. Agravo regimental desprovido.
+(AgRg no AgRg nos EDcl nos EDcl no AREsp 2.240.802/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/9/2023, DJe de 11/9/2023.)
+PROCESSO PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. FURTO. PENA INFERIOR A 4 ANOS. REGIME FECHADO. POSSIBILIDADE. RÉU REINCIDENTE E PORTADOR DE MAUS ANTECEDENTES. REPARAÇÃO DE DANO MATERIAL. PEDIDO EXPRESSO NA DENÚNCIA COM INDICAÇÃO DO VALOR DO DANO SUPORTADO PELA VÍTIMA. VIABILIZADO O EXERCÍCIO DA AMPLA DEFESA E CONTRADITÓRIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. É pacífico o entendimento desta Corte Superior no sentido de admitir a adoção do regime prisional semiaberto aos reincidentes condenados à pena igual ou inferior a 4 (quatro) anos, se favoráveis as circunstâncias judiciais, o que culminou na edição do enunciado n. 269 da Súmula do STJ. Na espécie, contudo, o agravante, além de reincidente, possui maus antecedentes, tendo as instâncias ordinárias adotado a referida vetorial desfavorável para afastar a pena-base do seu mínimo legal, o que afasta a incidência da Súmula n. 269/STJ, e constitui fundamentação idônea para a imposição do regime inicial fechado.
+ ..
+4. Agravo regimental a que se nega proviment o.(AgRg no REsp 2.055.377/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/4/2023, DJe de 24/4/2023.)
+Ante o exposto, por não vislumbrar a ocorrência de constrangimento ilegal, DENEGO A ORDEM do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
