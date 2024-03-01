@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Tiago Pereira de Oliveira, apontando-se como autoridade coatora o Tribunal Regional Federal da 1ª Região (HC n. 1000163-86.2023.4.01.9410).
+Narram os autos que, no bojo da Operação Criptonita (Autos n. 1002630-27.2020.4.01.4100), o paciente foi condenado a 12 anos e 10 meses de reclusão, em regime inicial fechado, pela prática dos crimes previstos nos arts. 33, caput, e 35, ambos c/c o art. 40, I, da Lei n. 11.343/2006, art. 2º da Lei n. 12.850/2013 e art. 1º da Lei n. 9.613/1998. Consta, ainda, que a sentença condenatória transitou em julgado para o réu em 27/6/2023 (fl. 33).
+Neste mandamus, o impetrante alega que a defesa do paciente, à época, deixou transcorrer in albis o prazo para a interposição de apelação criminal e, em nenhum momento, o réu foi intimado para constituir novo advogado ou manifestar seu interesse em recorrer da sentença, tolhendo-se o seu direito de recorrer.
+Destaca que o art. 392, II, do CPP, determina de maneira clara a intimação pessoal do réu ainda que se encontre solto. Entretanto, verifica-se eventual ocorrência de entendimento - manifestamente equivocado - de que o referido apenas determinaria a intimação pessoal do réu na hipótese de o réu estar preso (fl. 9).
+Aduz que a jurisprudência pátria, inclusive do Supremo Tribunal Federal, reafirma veementemente a imprescindibilidade de que se intime pessoalmente o réu em relação à sentença condenatória para que se inicie o cômputo do prazo recursal, de modo que não há que se falar em trânsito em julgado na ausência do ato (fl. 11).
+Menciona que não há falar em preclusão, de sorte que as nulidades expostas podem ser arguidas a qualquer momento, inclusive no bojo do presente (fl. 18).
+Sustenta que à luz do princípio do in dubio pro reo, havendo uma pluralidade de interpretações da legislação, deve prevalecer aquela que for mais favorável ao réu (fl. 19).
+Requer, em liminar, a imediata desconstituição da declaração do ato que certificou o trânsito em julgado da defesa condenatória, a fim de que, consequentemente, determine-se a intimação pessoal do réu no endereço fornecido por sua defesa, para que somente então se inicie o prazo para interposição de recurso de apelação (fl. 22). Ao final, pugna pela concessão da ordem, confirmando-se a liminar.
+Indeferida a liminar, solicitadas as informações, não foram elas prestadas até a presente data.
+Às fls. 90/95, a defesa pleiteou a reconsideração da decisão que indeferiu a liminar.
+O Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República Nivio de Freitas Silva Filho, pelo não conhecimento do writ (fls. 105/110).
+É o relatório.
+Conforme relatado, busca-se, no presente writ, o reconhecimento de nulidade da sentença condenatória transitada em julgado, em 27/6/2023, ao argumento de nulidade em razão da ausência de intimação pessoal do réu da sentença condenatória.
+Vejamos, no ponto, o que consta do acórdão impugnado (fls. 32/36 - grifo nosso):
+ ..
+Inicialmente, anoto que, da acurada leitura do caderno processual, não se pode afirmar o alegado constrangimento ilegal supostamente sofrido pelo ora paciente.
+A parte impetrante não logrou demonstrar a existência de circunstância a caracterizar o fumus boni juris, o que impossibilita a concessão da ordem requerida.
+Adentrando na análise do pedido contido na inicial do presente writ, também constato, pelas informações prestadas pelo Juízo de origem, a inexistência de direito líquido e certo do paciente ao postulado na inicial, notadamente, no sentido de que:
+TIAGO PEREIRA DE OLIVEIRA foi alvo de busca e apreensão decretada por este juízo, pela suspeita de envolvimento nos crimes tipificados nos arts. 33 e 35, ambos c/c art. 40,I, da Lei nº 13.343/06, art. 2º da Lei n. 12.850/13 e art. 1º da Lei nº 9.613/98. O mandado de busca e apreensão do paciente foi expedido nos autos nº 1008494-84.2020.4.01.4100e cumprido no dia 28 de abril de 2021, na cidade de Serra/ES.
+ ..
+Na sentença de ID 1659231472, proferida em 09/06/2023, TIAGO PEREIRA DE OLIVEIRA foi condenado à pena de 12 (doze) anos e 10 meses de reclusão, além do pagamento de 1.670 dias-multa, à razão de 1/10 do salário mínimo para cada dia-multa.
+A sentença penal condenatória (IDs 1659231472 e 1661114962 - retificação) transitou em julgado para o MPF em 19/06/2023; para o sentenciado (..), e; para os sentenciados (..) e TIAGO PEREIRA DE OLIVEIRA, na data de 27/06/2023.
+A defesa do paciente interpôs recurso de apelação no dia 02/07/2023, considerado intempestivo por este juízo. Confiram-se os fundamentos da decisão ID 1691070956,que não recebeu o mencionado recurso:
+ ..  07 - Observa-se, ainda, que o sentenciado TIAGO PEREIRA DE OLIVEIRA interpôs o recurso de apelação na data de 02/07/2023 (ID 1692390449). A defesa do sentenciado foi intimada da sentença condenatória, via sistema, nos dias 09/06/2023 (ID1659316452)e 12/06/2023 (ID 1661577474 - retificação da sentença), tendo o sistema registrado ciência nos dias 22/06/2023, iniciando-se a contagem do prazo fatal para interposição do recurso no dia 27/06 e encerrando-se no dia 27/06/2023. Conforme dispõe o artigo 593, caput, do Código de Processo Penal, o recurso de apelação contra sentença condenatória deve ser interposto no prazo de 05 (cinco) dias. O prazo legalmente previsto é peremptório, não comportando dilação pelo magistrado, exceto em situações excepcionalíssimas.
+Importante frisar que, tratando-se de sentenciado solto com defensor constituído, não haverá necessidade de intimação pessoal desta sentença condenatória, bastando a intimação do seu defensor, conforme a jurisprudência do Superior Tribunal de Justiça, conforme constou na sentença condenatória (..)".
+Irresignado, a defesa do paciente interpôs recurso em sentido estrito no dia 07/07/2023, recebido em ambos os efeitos pelo juízo, conforme decisão de ID 1721265474.
+Neste momento, na ação penal nº 1002930-27.2020.4.01.4100, determinou-se o início de cumprimento de pena em relação aos sentenciados que não recorreram ou não tiveram o recurso de apelação admitido.
+ ..
+Esse quadro fático-processual, considerando a inexistência de ilegalidade ou teratologia na decisão atacada, concordo com a tese do magistrado a quo, pelo que também entendo ser desnecessária a intimação pessoal de paciente/réu acerca da condenação a que foi submetido, quando responde em liberdade a ação penal, sendo bastante a intimação do advogado constituído, por meio de publicação na imprensa oficial, como, efetivamente, ocorreu no caso presente.
+Nos termos da majoritária jurisprudência pátria, descabe falar em constrangimento ilegal por ausência de intimação pessoal do paciente, que se encontrava, à época, em liberdade.
+Na hipótese, o defensor constituído foi devidamente intimado pela imprensa oficial do inteiro teor da sentença condenatória.
+ ..
+Portanto, estando a decisão atacada em consonância com o entendimento deste Relator, amparada também nos julgados recentes do STJ e da Quarta Turma deste TRF da 1ª Região, acima colacionados, s.m.j., não merece guarita o pedido de nulidade do ato que certificou o trânsito em julgado da sentença penal condenatória proferida contra o ora paciente.
+ ..
+Com efeito, a jurisprudência desta Corte Superior se firmou no sentido de que, consoante o disposto no art. 392, inciso II, do CPP, tratando-se de réu solto, mostra-se suficiente a intimação do defensor constituído acerca da sentença condenatória (AgRg no HC n. 691.007/BA, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 26/11/2021).
+Ainda, nesse sentido: RHC n. 192.358/CE, de minha relatoria, Sexta Turma, DJe 23/2/2024; AgRg no HC n. 844.848/RO, Ministra Laurita Vaz, Sexta Turma, DJe 28/9/2023; e AgRg no HC n. 804.099/SC, Ministro Ribeiro Dantas, Quinta Turma, 14/9/2023.
+Outra não foi a opinião do Ministério Público Federal, que destacou, em seu parecer, que, nos termos do art. 392 do Código de Processo Penal, no caso de réu solto, como ocorre na hipótese, a intimação da decisão condenatória pode ser feita ao advogado constituído, via imprensa oficial, afastando-se a alegação de nulidade por ausência de intimação pessoal do réu (fl. 108).
+Ante o exposto, à vista dos precedentes e do parecer, denego a ordem. Julgo prejudicado o pedido de fls. 90/95.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS, ORGANIZAÇÃO CRIMINOSA E LAVAGEM DE DINHEIRO. NULIDADE. NÃO OCORRÊNCIA. AUSÊNCIA DE INTIMAÇÃO PESSOAL DO RÉU SOLTO. ADVOGADO CONSTITUÍDO DEVIDAMENTE INTIMADO. CONDENAÇÃO TRANSITADA EM JULGADO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+Ordem denegada. Prejudicado o pedido de fls. 90/95.
