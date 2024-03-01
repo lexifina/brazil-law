@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de JARBAS SOUZA SARAIVA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Extrai-se dos autos que o paciente foi condenado à pena de 16 anos de reclusão, em regime inicial fechado, pela prática do delito tipificado no art. 121, § 2º, II, do Código Penal - CP (homicídio qualificado), tendo sido negado o recurso em liberdade.
+Irresignada, a defesa interpôs apelação, que se encontra pendente de julgamento.
+No presente writ, o impetrante alega excesso de prazo no julgamento da apelação, que se encontra conclusa para julgamento há mais de 1 ano, destacando que o paciente se encontra acautelado desde o dia 30/10/2019.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura, ainda que mediante a fixação de medidas diversas da segregação.
+Indeferido o pedido liminar (fls. 26/27), as informações foram prestadas (fls. 32/46), e o Ministério Público Federal - MPF opinou pelo não conhecimento do writ (fls. 50/53).
+É o relatório.
+Decido.
+Conforme relatado, busca-se, na presente impetração, o relaxamento da custódia cautelar imposta ao paciente em razão do excesso de prazo para o julgamento da apelação criminal.
+Quanto à alegada demora no julgamento da apelação, esta Corte Superior tem o entendimento de que, somente configura constrangimento ilegal por excesso de prazo, apto a ensejar o relaxamento da prisão cautelar, a mora que decorra de ofensa ao princípio da razoabilidade, consubstanciada em desídia do Poder Judiciário ou da acusação, jamais sendo aferível apenas a partir da mera soma aritmética dos prazos processuais.
+Verifica-se, das informações prestadas (fls. 32/46) que a apelação defensiva foi recebida pelo Tribunal a quo em 15/3/2022 e remetida à Procuradoria de Justiça, cujo parecer foi juntado em 18/3/2022. Na ocasião, o representante do Parquet opinou pela conversão do julgamento em diligência, a fim de que o assistente de acusação fosse intimado para apresentar contrarrazões ao apelo defensivo, providência determinada em 22/3/2022.
+A diligência foi cumprida e os autos retornaram conclusos em 26/5/2022. Na mesma data, a necessidade da prisão preventiva foi reavaliada e mantida.
+O feito foi remetido à Procuradoria de Justiça e retornou com parecer em 17/6/2022.
+Por fim, há a informação de que o recurso está pronto para julgamento e seria incluído em pauta no ano corrente.
+Na hipótese, a meu ver, não restou caracterizada a existência de mora na tramitação da apelação que justifique o relaxamento da prisão preventiva, não havendo, pois, falar em desídia do Judiciário, não restando desarrazoado o prazo para julgamento do recurso defensivo, que se encontra na iminência de ser analisado.
+Ademais, o paciente foi condenado à pena de 16 anos de reclusão, em regime inicial fechado. Logo, não se mostra desproporcional a espera suportada pelo réu, considerando-se, ainda, que o ele não está impedido de usufruir de benefícios da execução penal. Assim, não se verifica constrangimento ilegal a ser sanado.
+A propósito, colaciono os seguintes precedentes:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. CONCURSO FORMAL. PRISÃO PREVENTIVA. EXCESSO DE PRAZO PARA O JULGAMENTO DA APELAÇÃO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Ao interpretar a garantia constitucional prevista no art. 5º, LXXVIII, que assegura a razoável duração do processo, além dos meios que garantam a celeridade da sua tramitação, esta Corte Superior pacificou entendimento no sentido de que a simples extrapolação de prazos processuais previstos na legislação processual penal não implica, por si só, ilegalidade da prisão cautelar, pois a análise acerca de eventual excesso de prazo deverá levar em conta, à luz dos princípios da razoabilidade e da proporcionalidade, todas as particularidades do caso concreto, tais como o tempo de duração da prisão cautelar, bem como a complexidade e o modo com que o processo tem sido conduzido pelo Estado.
+2. Além de a lei processual não estabelecer prazo para o julgamento da apelação criminal, de acordo com a jurisprudência deste Superior Tribunal, a análise do excesso de prazo para apreciação do recurso deve levar em consideração o quantum da pena cominada na sentença condenatória.
+3. No caso, embora o agravante esteja preso cautelarmente desde 25/9/2020 e o apelo defensivo tenha sido interposto em 8/6/2021 - há mais de 1 ano e 7 meses -, trata-se de réu condenado à pena privativa de liberdade de 8 anos de reclusão, em regime fechado, sendo que a principal causa do atraso para o julgamento daquele recurso - dificuldade para intimação da vítima acerca da sentença - foi solucionada. Inclusive, houve, em 29/9/2022, a juntada de parecer do Ministério Público, indicativo de que o julgamento poderá ocorrer em breve. Assim, não se identifica, por ora, constrangimento ilegal decorrente de excesso de prazo para julgamento da apelação, não havendo falar em desídia por parte do Poder Judiciário, que, ao que tudo indica, vem empreendendo esforços para finalizá-lo.
+4. As alegações relativas à inidoneidade das fundamentações adotadas pelo Juízo sentenciante para manter a prisão preventiva e para fixar o regime prisional fechado não foram debatidas pelo Tribunal de origem no julgamento do writ originário, o que impede o conhecimento delas por este Tribunal Superior, sob pena de incorrer em indevida supressão de instância.
+5. Somente no momento da interposição deste agravo regimental, a defesa apontou novo ato coator, juntan do aos autos cópia da respectiva decisão colegiada proferida pelo Tribunal a quo.
+Tratando-se de inovação recursal, é vedada a análise da questão em sede de agravo regimental.
+6. Agravo regimental não provido. com recomendação, de ofício, ao Tribunal de origem, para que imprima celeridade no julgamento da Apelação n. 0510199-11.2020.8.05.0001 .
+(AgRg no HC n. 782.354/BA, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/3/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DECISÃO MONOCRÁTICA QUE DENEGOU A ORDEM. TRÁFICO DE DROGAS E ORGANIZAÇÃO CRIMINOSA. OPERAÇÃO BRITADOR. SENTENÇA CONDENATÓRIA. EXCESSO DE PRAZO PARA O JULGAMENTO DA APELAÇÃO CRIMINAL. OBSERVÂNCIA DO PRINCÍPIO DA RAZOABILIDADE QUE SE IMPÕE. MANUTENÇÃO DA PRISÃO CAUTELAR. FUNDAMENTAÇÃO IDÔNEA. MAUS ANTECEDENTES. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Agravo regimental improvido.
+(AgRg no HC n. 800.471/PB, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 20/4/2023.)
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, denego a ordem de habeas corpus, com recomendação ao Tribunal de origem para que imprima celeridade no julgamento da Apelação n. 5000658-81.2019.8.21.0043.
+Publique-se.
+Intimem-se.
+ EMENTA
