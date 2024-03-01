@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 777):
+AÇÃO DE PRESTAÇÃO DE CONTAS. SENTENÇA DE PARCIAL PROCEDÊNCIA. APELAÇÃO PROVIDA.
+PRESTAÇÃO DE CONTAS. CARÊNCIA DA AÇÃO. NÃO OCORRÊNCIA. MÉRITO. IMPOSSIBILIDADE DA REVISÃO DE CLÁUSULAS CONTRATUAIS. RECURSO PROVIDO. Primeiro, rejeita-se a alegação de carência da ação e de ausência de interesse processual do autor. Isso porque é certo que o correntista, conforme entendimento jurisprudencial consolidado (Súmula nº 259 do C. STJ), tem direito à prestação de contas. Autor que indicou o período e os lançamentos impugnados. Segundo, no mérito, alteram-se as conclusões da sentença. O autor ajuizou ação de prestação de contas em face do banco réu. A sentença reconheceu saldo credor em favor do autor no valor de R$ 207.684,16. A ação de prestação de contas não se presta à revisão de cláusulas contratuais. Esse tema foi decidido em sede de incidente de recursos repetitivos pela Segunda Seção do Superior Tribunal de Justiça, RESP. 1.497.831/PR, relatora a Ministra MARIA ISABEL GALLOTTI, julgado em 14/09/2016, DJe 07/11/2016. E, na forma daquela posição fixada pelo STJ, cabia à prova técnica verificar: o destino do dinheiro que depositou, a natureza e o valor dos créditos e débitos efetivamente ocorridos em sua conta, apurando- se, ao final, o saldo credor ou devedor. Se a parte autora pretendia discutir validade das tarifas e encargos nas diversas operações vinculadas àquela conta, competia-lhe promover ação revisional pertinente. A r. sentença terminou por violar a jurisprudência do STJ, ao acolher apêndice da perícia em que relaciona e atualiza as tarifas e taxas impugnadas pelo autor, e acabou por promover verdadeira e indevida revisão de cláusulas dos contratos. Contas apresentadas pelo banco réu que devem ser julgadas como boas em segundo grau.
+SENTENÇA REFORMADA. RECURSO PROVIDO.
+Opostos os embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta a existência de divergência jurisprudencial.
+Sustenta que o acórdão recorrido, ao analisar de forma incorreta a prova existente nos autos, divergiu do entendimento firmado perante o Superior Tribunal de Justiça.
+Defende a rejeição das contas prestadas pelo banco quando desacompanhadas da comprovação da autorização dos lançamentos impugnados.
+Afirma que inexiste pedido revisional na ação de prestação de contas.
+Requer, ao final, o "provimento ao recurso especial, para anular o v. acórdão recorrido e, negar provimento à Apelação da Casa Bancária e restaurar a r. sentença de Primeiro Grau com a determinação do expurgo dos lançamentos não justificados documentalmente pelo banco, com a apresentação das solicitações, autorizações ou contratos, constituindo os valores apurados, crédito em favor da Recorrente" (e-STJ, fl. 811).
+Contrarrazões não foram apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+No caso, verifico que a parte recorrente não logrou êxito em apontar especificamente quais dispositivos de lei federal entendeu por violados, de modo a permitir o conhecimento do recurso especial com fundamento nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal. Dessa forma, incide a Súmula 284 do STF, visto que a deficiência na fundamentação do recurso não permite a exata compreensão da controvérsia. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. DANO MORAL. VALOR. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+1. O conhecimento do recurso especial fundamentado na alínea "c" do permissivo constitucional exige a indicação dos dispositivos legais que supostamente foram objeto de interpretação divergente. Ausente tal requisito, incide a Súmula n. 284/STF.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1626774/SE, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 13/12/2021, DJe 16/12/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONCORRÊNCIA DESLEAL. ALEGAÇÃO GENÉRICA DE OFENSA AO ART. 535 DO CPC/73. SÚMULA 284/STF. VULNERAÇÃO AO ART. 1.092 DO CC/1916. NÃO CONHECIDA EM RAZÃO DOS ÓBICES DAS SÚMULAS 5 E 7 DO STJ. ALEGAÇÃO DE OFENSA AOS ARTS. 2º, 128, 458, II, E 460 DO CPC/73. TEMAS NÃO PREQUESTIONADOS. INCIDÊNCIA DA SÚMULA 211/STJ. PEDIDO DE REDUÇÃO DO VALOR INDENIZATÓRIO. NÃO INDICAÇÃO DO DISPOSITIVO VIOLADO. SÚMULA 284/STF.
+(..)
+4. A falta de indicação do dispositivo legal supostamente violado e/ou de interpretação pretoriana divergente configura deficiência recursal, por não permitir a exata compreensão da controvérsia, e não enseja a abertura da via especial, com fundamento nas alíneas "a" e "c" do permissivo constitucional. Aplicação, por analogia, da Súmula 284 do Supremo Tribunal Federal.
+5. Agravo interno não provido.
+(AgInt no REsp 1.408.090/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 14.8.2018, DJe 22.8.2018)
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
