@@ -1,0 +1,19 @@
+DECISÃO
+GIOVANNA VICTORIA DA SILVA SANTOS alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná no HC n. 0091598-14.2023.8.16.0000.
+Consta dos autos que a paciente foi condenada à pena de 4 anos, 10 meses e 10 dias de reclusão, em regime inicial semiaberto, mais multa, pela prática do crime previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+A defesa aduz, em síntese, que a ré faz jus à aplicação da minorante em sua fração máxima, com fixação do regime aberto e a substituição da pena por restritivas de direitos.
+Decido.
+I. Fração da minorante do art. 33, § 4º, da Lei n. 11.343/2006
+O Tribunal de origem, ao chancelar a aplicação da fração de 1/6 feita na sentença, assim argumentou (fl. 14, destaquei):
+Com efeito, a natureza e a quantidade de droga, por si só, não podem ser consideradas para afastar a aplicação da referida minorante, entretanto, na hipótese dos autos, a quantidade de droga transportada em ônibus de viagem (24 tabletes de maconha, com peso total de mais de 18 kg), entre as cidades de Paranavaí/PR e São Paulo/SP, é elevada e justifica a aplicação da fração em patamar reduzido.
+Segundo o disposto no § 4º do art. 33 da Lei de Drogas, "Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa".
+Assim, observa-se que o dispositivo legal estabelece apenas os requisitos necessários para a aplicação da minorante nela prevista, deixando, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+Nesse sentido, tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas.
+Dessa forma, uma vez que, no caso, a instância de origem - dentro do seu livre convencimento motivado - fundamentou, com base em argumentos idôneos e específicos dos autos (expressiva quantidade de drogas - mais de 18 kg de maconha), o porquê da redução da pena no patamar de 1/6, não identifico o apontado constrangimento ilegal de que estaria sendo vítima a paciente.
+Conforme entendimento do Supremo Tribunal Federal, "A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas e às Cortes Superiores, em grau recursal, o controle da legalidade e da constitucionalidade dos critérios empregados, bem como a correção de eventuais discrepâncias, se gritantes ou arbitrárias" (HC n. 122.184/PE, Rel. Ministra Rosa Weber, 1ª T., DJe 5/3/2015). No entanto, não verifico caracterizada nos autos tal situação.
+Relembro, por oportuno, que o juiz, ao reconhecer a presença dos quatro requisitos necessários ao reconhecimento da benesse em questão, não está obrigado a aplicar o patamar máximo de redução de pena, já que possui plena discricionariedade para, à luz das peculiaridades do caso concreto, efetivar a diminuição no quantum que entenda suficiente e necessário para a prevenção e a repressão do delito perpetrado, tal como ocorreu no caso.
+Fica, então, mantida inalterada a reprimenda aplicada à ré.
+II. Dispositivo
+À vista do exposto, denego a ordem, in limine.
+Publique-se e intimem-se.
+EMENTA
