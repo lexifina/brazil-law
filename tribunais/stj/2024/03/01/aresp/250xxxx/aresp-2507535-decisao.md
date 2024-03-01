@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo apresentado por ANDRE LUIZ PERROUD SILVA DE OLIVEIRA e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. REGISTRO JUSTIÇA GRATUITA INDEFERIDA. PÚBLICO. DÚVIDA INVERSA. DECISÃO MONOCRÁTICA MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+1. O § 2º do artigo 99 do CPC/15 diz que o Juiz somente poderá indeferir o pedido se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão da gratuidade.
+Nesse contexto, ao analisar os documentos apresentados, destaca-se que não foram suficientes para comprovar a alegada hipossuficiência de recursos.
+2. Por isso, havendo nos autos elementos que evidenciam a falta dos pressupostos legais para a concessão da gratuidade, impõe- se a manutenção de seu indeferimento, de forma que nego provimento ao agravo interno.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 98 e 99, § 2º, do CPC, no que concerne à comprovação da hipossuficiência econômica do recorrente, razão pela qual faz jus ao benefício da gratuidade de justiça, trazendo a seguinte argumentação:
+24. A s consequências de uma decisão que indefere o pedido de justiça gratuita são totalmente manifestas, pois, não podendo a parte prover as custas processuais sem prejuízo de seu sustento, infelizmente verá seu direito de ação praticamente fulminado, em razão de impedimentos judiciais que a própria Lei não faz.
+25. Desta feita, totalmente claro que o indeferimento da concessão do benefício da justiça gratuita é uma restrição que nem a Constituição Federal e nem o CPC apresentam, ou seja, conclui-se que é o judiciário quem promove a dificuldade ao cidadão em buscar a tutela jurisdicional, bloqueando o acesso à justiça através do indeferimento do benefício à justiça gratuita de modo infundado.
+26. Houve ainda clara afronta ao artigo 99, § 2º do CPC, pois foi determinado que a Recorrente comprovasse o preenchimento dos pressupostos para a concessão da gratuidade, instado os recorrentes apresentaram documentação farta que não estão exercendo atividade laboral, inclusive destacado no acordão
+ ..
+31. De tal forma, não há que se falar que a Recorrente não comprovou o estado de hipossuficiência, pois foi cumprido o requisito, sem que houvesse no caso em tela qualquer demonstração de suficiência que fundamentasse a decisão do Douto Desembargador a quo para indeferimento.
+32. Assim, não havendo prova em contrário da alegada hipossuficiência o comando do art. 99 do CPC, é de que de ofício será deferida a assistência judiciária.
+33. Vale mais uma vez lembrar que o pedido de tal benefício, pode ser intentado a qualquer tempo, nos termos do § 1º do artigo 99 do CPC.
+34. Dessa forma, restou amplamente demonstrada a necessidade de concessão do benefício da assistência judiciária ao Recorrente, uma vez que a lei prevê devidamente sua concessão, além desta ter devidamente comprovado que está passando por serias dificuldades. (fls. 183/184).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Os agravantes alegam que são únicos provedores do próprio sustento, de núcleos familiares distintos e que auferem renda em patamares menores que 3 salários mínimos.
+Para tanto, os agravantes apresentaram documentos nos mov.
+15.2/15.19 dos autos de agravo de instrumento.
+no caso dos autos, efetivamente existem elementos que Contudo, evidenciam a falta de pressupostos para a concessão da gratuidade.
+os agravantes aleguem que auferem renda Isso porque, embora em patamares menores que 3 salários mínimos, compete destacar que agiram de modo completamente contraditório durante o processo conhecimento, eis que ajuizaram a ação no mês de maio de 2022, sem mencionar a necessidade de concessão do benefício da justiça gratuita, bem como realizaram o pagamento das custas de distribuição.
+Além disso, da análise dos documentos apresentados nos autos, destaca-se que a baixa movimentação financeira na conta bancária dos agravantes, por si só, não é suficiente para comprovar a alegada hipossuficiência de recursos, até porque os extratos colacionados demonstram que o agravante André tem outra contra digital, junto ao banco PICPAY (Agência: 1 Conta: 7798194- 4).
+Destaca-se, ainda, que o fato dos agravantes não apresentarem anotação na CTPS, desde meados de 2015/2016, não comprova efetivamente que os autores não dispõem de recursos para realizar o pagamento das custas do processo.
+Por fim, no que tange a existência de empréstimos, ressalta-se que sua contratação, além de constituir uma prerrogativa do próprio indivíduo, representa apenas uma antecipação de receitas em troca de juros futuros, de forma que a decisão pela sua celebração não necessariamente importa em uma situação de hipossuficiência material.
+Logo, o benefício da gratuidade judiciária integral, tal qual postulado deverá ser concedido somente àqueles que comprovadamente não dispuserem de recursos para promover o custeio do processo, o que não é o caso dos recorrentes (fls. 169/170).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
