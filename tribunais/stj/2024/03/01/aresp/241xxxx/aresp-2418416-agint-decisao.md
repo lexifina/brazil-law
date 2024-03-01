@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interno interposto por ANTONIO CARLOS DE CASTRO PAIVA FILHO contra decisão mediante a qual a Presidência desta Corte negou provimento a seu agravo em recurso especial, ao fundamento de que a aplicação da Súmulas 7/STJ e 280/STF não teria sido impugnada na minuta do agravo.
+Em face das razões de fls. 392/411, reconsidero a decisão agravada.
+Com efeito, a aplicação do referido enunciado da Súmula foi impugnada pelo agravo em recurso especial, mormente a partir da fl. 397, em que o agravante expõe as razões pelas quais, em seu entender, o óbice não incide sobre o caso. Não se aplica, portanto, a regra dos artigos 932, III, do Código de Processo Civil de 2015 e 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, nem a Súmula 182/STJ.
+Procedo, portanto, a nova análise do agravo em recurso especial.
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - OBRIGAÇÃO DE FAZER - ATRASO NA ENTREGA DE IMÓVEL - CUMPRIMENTO DE SENTENÇA - ARBITRAMENTO EM FASE DE EXECUÇÃO - IMPUGNAÇÃO JULGADA PROCEDENTE - IRRESIGNAÇÃO QUANTO À CONDENAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS E AOS ÍNDICES DE ATUALIZAÇÃO DA CONDENAÇÃO - APLICAÇÃO, AO CASO, DO ÍNDICE ESTIPULADO CONTRATUALMENTE ENTRE AS PARTES  PRECEDENTE DESTA CORTE - HONORÁRIOS ADVOCATÍCIOS - FIXAÇÃO EM PATAMAR RAZOÁVEL - RECURSO CONHECIDO E DESPROVIDO - DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+Nas razões de recurso especial, a parte agravante alega violação dos arts. 489, 502, 505 e 1022 do Código de Processo Civil.
+Assim posta a questão, observo que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido. Afasto, pois, a alegada violação dos arts. 489 e 1.022 do CPC.
+No que se refere aos arts. 502 e 505 do CPC, o recurso especial não dispensa o reexame de prova. O agravante procura discutir violação à coisa julgada, todavia, a respeito do tema, o Tribunal de origem considerou o seguinte (e-STJ fl. 303):
+O Agravante entende que faz jus ao crédito de R$ 733.580,10, levando-se em conta os lucros cessantes entre o período de 29/01/2011 a 20/01/2016, com base em um aluguel mensal de R$ 4.000,00, que corresponderia ao valor médio para imóvel semelhante -, acrescido de juros e correção monetária desde a citação, como índice de IGPM, acrescido de honorários advocatícios sucumbenciais fixados e m 20% sobre o valor da condenação (R$ 122.263,35).
+Por outro lado, o Executado, ora Agravado, demonstrou ao Juízo o excesso da execução, motivo porque foram homologados os cálculos por ele apresentados.
+(..)
+Sem razão, posto que o cálculo apresentado pelo Agravado, e homologado pelo Juízo de Piso, atendeu rigorosamente aos critérios definidos na parte dispositiva da sentença de 1º Grau relativamente aos lucros cessantes e os índices de atualização (fls. 129-140), bem como no acórdão de fls. 141-150.
+A impugnação, portanto, refere-se aos cálculos do valor da dívida em execução, os quais, segundo o acórdão recorrido, estão em conformidade com o título executivo. Não há como afastar essas conclusões sem reexame de prova, aplicando-se ao caso a Súmula 7 do STJ.
+Ademais, "Não viola a coisa julgada a simples interpretação do título executivo, conferindo-lhe o alcance devido acerca de questão não delimitada expressamente" (AgInt nos EDcl no REsp n. 1.940.806/SC, desta Relatoria, Quarta Turma, julgado em 14/11/2022, DJe de 18/11/2022).
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
