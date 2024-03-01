@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MARIA DA NATIVIDADE LOPES LAMEIRA contra decisão, de minha lavra, que deu provimento ao recurso especial para extinguir o processo com resolução do mérito, em razão da decadência (e-STJ fls. 351/355):
+Sustenta o embargante que a decisão embargada, ao reconhecer a decadência do direito da autora a readequação de seu benefício previdenciário, incorreu em erro material, porquanto "a matéria tratada no REsp n. 1.309.529/PR, é referente a MELHOR DATA PENSÃO que nada tem a ver com o pedido formulado no presente processo eletrônico" (e-STJ fl. 361).
+Ressalta que,:
+Na hipótese dos autos, o benefício originário foi concedido com data de início anterior a 05/04/1991, no período conhecido como "buraco negro" (05/10/88 a 05/04/91). Diante das análises ora procedidas, apesar do benefício ter sido concedido em 01/07/1990 não impede a aplicação do novo teto previsto pela EC nº 20/98 ou pela EC nº 41/2003, também não havendo o que se falar em Decadência. (e-STJ fl. 364).
+Intimada, a parte embargada não formulou impugnação (e-STJ fl. 376).
+Passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão e erro material na decisão.
+No presente caso, não ocorreu nenhum dos vícios supracitados.
+Hipótese em que as alegações da parte embargante manifestam seu inconformismo com a decisão por mim exarada, que concluiu pelo provimento do apelo especial da autarquia, ante a ocorrência do decurso do prazo decadencial a saber (e-STJ fls 351/355):
+Nesta Corte, o referido tema foi objeto de amplo debate, tendo a jurisprudência da Primeira Turma oscilado entre o reconhecimento do termo inicial da decadência (i) a partir do advento da MP n. 1.523-9/1997, no REsp n. 1.526.968/RS, da relatoria do em. Min. Sérgio Kukina e (ii) a contar da concessão da pensão por morte, na esteira do entendimento então firmado pela Segunda Turma, conforme AgInt no REsp n. 1.576.274/SC, da relatoria da Ministra Regina Costa.
+Contudo, na assentada de 27/02/2019, a Primeira Seção desta Corte, por maioria, nos autos dos Embargos de Divergência no REsp n. 1.605.554/PR, em nova alteração jurisprudencial, consignou, na esteira da jurisprudência pacificada no REsp n. 1.309.529/PR, sob o rito dos repetitivos, que a pensionista deve observar o prazo decadencial introduzido no caput do art. 103 da Lei n. 8.213/1991, com a redação dada pela MP n. 1.523-9/1997, convertida na Lei n. 9.528/1997, que trouxe a inovação legal ao art. 103 da Lei de Benefícios.
+ ..
+Nesse contexto, como a ação foi ajuizada em 05/04/2021, a pretensão de rever a RMI da aposentadoria do instituidor da pensão, concedida em 01/07/1990 (e-STJ fls. 6/19), foi atingida pelo prazo decadencial desde 2007, em virtude do advento da aludida MP n. 1.523-9/1997.
+No entanto, o desiderato de rediscutir a causa sem a presença dos requisitos exigidos pela norma de regência é inadmissível em sede de embargos declaratórios.
+Nesse sentido, transcrevo precedente desta Corte Superior:
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PEDIDO DE INDENIZAÇÃO POR DANO MORAL, EM RAZÃO DE ATRASO NA CONCESSÃO DE BENEFÍCIO PREVIDENCIÁRIO. DANO NÃO DEMONSTRADO. AUSÊNCIA DE INDICAÇÃO, NAS RAZÕES DO RECURSO ESPECIAL, INTERPOSTO COM FUNDAMENTO NO ART. 105, III, A, DA CF/88, DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA SIDO VIOLADO PELO TRIBUNAL DE ORIGEM. DEFICIÊNCIA DE FUNDAMENTAÇÃO. FUNDAMENTOS DA CORTE DE ORIGEM INATACADOS, NAS RAZÕES DO RECURSO ESPECIAL. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. AGRAVO INTERNO IMPROVIDO. EMBARGOS DE DECLARAÇÃO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. INCONFORMISMO. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO.
+I. Embargos de Declaração opostos a acórdão prolatado pela Segunda Turma do Superior Tribunal de Justiça, publicado na vigência do CPC/2015.
+II. O voto condutor do acórdão embargado apreciou fundamentadamente, de modo coerente e completo, todas as questões necessárias à solução da controvérsia, negando provimento ao Agravo interno, em razão da incidência das Súmula 283 e 284 do STF e 7 do STJ.
+III. Inexistindo, no acórdão embargado, omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do CPC vigente, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da parte embargante com as conclusões do decisum.
+IV. Embargos de Declaração rejeitados. (EDcl no AgInt nos EDcl no AREsp 1558418/SE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 22/03/2021, DJe 26/03/2021).
+Com essas considerações, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
