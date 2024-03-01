@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL com fundamento na alínea "a" do permissivo constitucional para desafiar acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 299):
+TRIBUTÁRIO. EMPREGADAS GESTANTES AFASTADAS RESPONSABILIDADE PELO SALÁRIO. ENQUADRAMENTO COMO SALÁRIO-MATERNIDADE. CONTRIBUIÇÃO PREVIDENCIÁRIA, AO SAT/RAT E A TERCEIROS. POSSIBILIDADE DE COMPENSAÇÃO. É COMPATÍVEL COM O ORDENAMENTO JURÍDICO O ENQUADRAMENTO COMO SALÁRIO-MATERNIDADE DOS VALORES PAGOS ÀS EMPREGADAS AFASTADAS DURANTE O PERÍODO DE EMERGÊNCIA, MOTIVO PELO QUAL NÃO DEVE INCIDIR CONTRIBUIÇÃO PREVIDENCIÁRIA, INCLUSIVE AO SAT/RAT E A TERCEIROS, SOBRE TAL VERBA, NOS TERMOS DA TESE DE REPERCUSSÃO GERAL DO STF Nº 72, SENDO POSSÍVEL QUE AS RESPECTIVAS REMUNERAÇÕES SEJAM COMPENSADAS/DEDUZIDAS, FORTE NO ART. 72, § 1º, DA LEI 8.213/1991.
+Embargos de declaração rejeitados (e-STJ fls. 359/364).
+Em suas razões, a recorrente alega violação dos arts. 17, 485, VI, 489, II, e 1.022, II, do CPC/2015; 97, 111, II e 156, II, do CTN; 394-A, §3º, da CLT; 72, §1º, da Lei n. 8.213/1991; 20, caput, da LINDB e 1º da Lei 14.151/2021.
+Sustenta, em resumo, a existência de negativa de prestação jurisdicional pelo Tribunal de origem, visto que foi omisso "quanto ao substrato normativo que disciplina o instituto do salário maternidade, sua concessão e suas repercussões tributárias; bem assim, omitiu-se na apreciação ilegitimidade da Fazenda Nacional para responder às pretensões que dizem com a competência do INSS" (e-STJ fl. 393).
+Alega não deter legitimidade passiva ad causam com relação à parcela dos pedidos relativos ao benefício de salário-maternidade e afirma que a presente demanda é precipuamente voltada contra a autarquia previdenciária (INSS).
+Defende que a Lei n. 14.151/2021 não tratou de afastamento do trabalho, visto que a gestante, durante a emergência de saúde pública relacionada à pandemia de COVID-19, continua à disposição do empregador, bem como salário é devido pelo empregador, não havendo omissão do legislador, motivo por que não há amparo legislativo ao reconhecimento do direito ao contribuinte empregador de compensação dos valores pagos à empregada gestante das contribuições incidentes sobre a folha de salários e demais rendimentos pagos ou creditados, a qualquer título, à pessoa física que lhe preste serviço, na forma da Lei n. 8.213/1991.
+Contrarrazões às e-STJ fls. 433/451.
+Recurso especial admitido às e-STJ fls. 458/459.
+Passo a decidir.
+O recurso especial origina-se de mandado de segurança em que se pretende a concessão de ordem para garantir a aplicação do regime jurídico destinado ao salário-maternidade também ao afastamento da empregada gestante do trabalho presencial, determinado pela Lei n. 14.151/2021, em relação às atividades que não possam ser exercidas remotamente, durante todo o período de emergência de saúde pública decorrente da Covid-19.
+Em primeiro grau de jurisdição, a segurança foi denegada.
+Apelação do particular provida.
+A irresignação fazendária merece prosperar.
+Como se observa, a Corte de origem entendeu pela possibilidade de compensação do valor pago a título de remuneração da empregada gestante afastada do local de trabalho por conta da crise de saúde pública gerada pela COVID com parcelas vincendas de contribuição previdenciária e de contribuição parafiscal.
+Sem embargo, não é esse o melhor entendimento a ser dado à matéria.
+Recentemente, a Primeira Turma deste STJ, em processo de minha relatoria, entendeu em sentido diametralmente oposto ao do acórdão recorrido.
+Veja-se :
+TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA E DE TERCEIROS. EPIDEMIA DE COVID. EMPREGADA GESTANTE. TRABALHO PRESENCIAL. AFASTAMENTO. REMUNERAÇÃO DEVIDA. BASE DE CÁLCULO. EXCLUSÃO. IMPOSSIBILIDADE.
+1. Dispõe o art. 1º da Lei n. 14.151/2021 que "durante a emergência de saúde pública de importância nacional decorrente do novo coronavírus, a empregada gestante deverá permanecer afastada das atividades de trabalho presencial, sem prejuízo de sua remuneração".
+Tal regra é complementada pelo disposto no § 1º (introduzido pela Lei n. 14.311/2022), do indigitado art. 1º, de acordo com o qual "a empregada gestante afastada nos termos do caput deste artigo ficará à disposição do empregador para exercer as atividades em seu domicílio, por meio de teletrabalho, trabalho remoto ou outra forma de trabalho a distância, sem prejuízo de sua remuneração".
+2. Conforme se observa, a norma legal determina o afastamento da gestante do trabalho presencial, não seu afastamento do trabalho tout court. Não se verifica, portanto, suspensão ou interrupção do contrato de trabalho, mas apenas alteração na sua forma de execução.
+3. Havendo o pagamento, pelo próprio empregador, de remuneração à empregada em razão direta da relação empregatícia, cujo contrato de trabalho se encontra em execução, não há como pretender compensar aquele valor com parcelas futuras de contribuição previdenciária e de contribuição parafiscal, como se salário-maternidade fosse.
+4. Recurso especial desprovido.
+(REsp 2.038.269/PR, de minha relatoria, PRIMEIRA TURMA, julgado em 12/12/2023, DJe 31/01/2024).
+No mesmo sentido, confira-se o REsp 2.081.467/SC, também de minha relatoria, Primeira Turma, julgado em 12/12/2023, DJe 31/01/2024.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especi al para denegar a segurança.Custas ex lege. Sem condenação ao pagamento de honorários advocatícios, nos termos da Súmula 105 do STJ.
+Publique-se. Intimem-se.
+EMENTA
