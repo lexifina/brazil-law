@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de HENRIQUE HERCULANO contra o v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi condenado por infração ao artigo 157, §§ 2º, inciso II, e 2º-A, inciso I, do Código Penal, às reprimendas de 08 (oito) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, no regime inicial fechado, e 21 (vinte e um) dias-multa.
+Irresignada, a defesa interpôs recurso de apelação ao Tribunal de origem, que negou provimento ao apelo, nos termos do acórdão com a seguinte ementa:
+APELAÇÃO CRIMINAL. Roubo Majorado (artigo157, § 2º, inciso II e § 2º-A, inciso I, do Código Penal). Sentença Condenatória. Preliminar. Cerceamento de Defesa não configurada. Prejuízo não demonstrado. Preliminar afastada. Mérito. Materialidade e autoria delitiva sobejamente comprovadas. Credibilidade dos relatos das vítimas e dos policiais. Depoimentos em harmonia com o conjunto probatório. Condenação mantida. Dosimetria escorreita. Incensurável o reconhecimento das causas de aumento de pena pelo emprego de arma de fogo e concurso de agentes. Regime fechado mantido. Recursos não providos
+No presente writ, o impetrante aduz que houve violação aos princípios da razoabilidade e da proporcionalidade na terceira etapa da dosimetria da pena, ao argumento de que não houve fundamentação idônea a justificar a aplicação de forma cumulativa das majorantes.
+Requer, ao final, a concessão da ordem, para reduzir a sanção.
+O pedido liminar foi indeferido (fls. 82-83 ).
+As informações foram prestadas às fls. 89-92 e 95-189.
+O Ministério Público Federal, às fls. 191-194, manifestou-se nos termos da seguinte ementa:
+HABEAS CORPUSSUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO CABIMENTO. ROUBO MAJORADO. TERCEIRA FASE DA DOSIMETRIA. APLICAÇÃOCUMULATIVA DAS CAUSAS DE AUMENTO. POSSIBILIDADE. MAJORANTES AUTÔNOMAS. INEXISTÊNCIA DE CONFLITO APARENTE DE NORMAS. ART. 68, PARÁGRAFO ÚNICO, DO CP. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.1. O não cabimento de habeas corpus substitutivo de revisão criminal se apoia na ausência de competência originária do Superior Tribunal de Justiça para processar e julgar o writ, e, em decorrência da ausência de competência, revela a impossibilidade jurídica de conceder, de ofício, a ordemvindicada.2. As causas de aumento previstas no art. 157, §§ 2º e 2º-A, do Código Penal, constituem majorantes autônomas, com finalidades jurídicas distintas, não havendo falar em conflito aparente de normas e aplicação do princípio da subsidiariedade.3. Na hipótese, as instâncias ordinárias justificaram a aplicação cumulativa das duas causas de aumento na necessidade de maior rigor na reprimenda, considerando a gravidade concretada conduta delitiva, perpetrada mediante emprego ostensivo de arma de fogo e em concurso com três agentes criminosos, que invadiram o Auto posto Vitória, anunciaram o assalto e renderam as vítimas, subtraindo-lhes os bens e dinheiros.4. Parecer pelo não conhecimento do habeas corpus, e, para não perder a oportunidade de manifestação, pela inexistência de ilegalidade no ato impugnado.
+É o relatório.
+Decido.
+O impetrante aduz que houve violação aos princípios da razoabilidade e da proporcionalidade na terceira etapa da dosimetria da pena, ao argumento de que não houve fundamentação idônea a justificar a aplicação de forma cumulativa das majorantes, em violação ao enunciado da súmula 443/STJ.
+Acerca do punctum saliens, considerando que o eg. Tribunal de origem não se pronunciou sobre os temas aventados na presente impetração, eis que sequer foram arguidos na origem, esta Corte fica impedida de se manifestar diretamente sobre a matéria, sob pena de incorrer em indevida supressão de instância.
+Ante o exposto, não conheço do writ.
+Publique-se.
+Intimem-se.
+EMENTA
