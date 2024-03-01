@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por ANILDO RODRIGUES em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado (e-STJ fl. 504):
+APELAÇÃO CRIMINAL - HOMICÍDIO QUALIFICADO -ALEGAÇÃO DE JULGAMENTO CONTRÁRIO À PROVA DOS AUTOS - CONSELHO DE SENTENÇA QUE ACOLHE UMA DAS TESES DEBATIDAS - SOBERANIA DOS VEREDITOS (ART. 5.º, XXXVIII, "C", DA CARTA MAGNA) - DECISÃO MANTIDA. DESPROVIMENTO.
+I - Em homenagem ao princípio constitucional da soberania dos vereditos (CF, art. 5.º, XXXVIII, "c"), a anulação do julgamento realizado pelo Tribunal do Júri sob alegação contrariedade à prova dos autos exige demonstração clara e precisa de que o veredito do Conselho de Sentença foi manifestamente contrário às provas dos autos, completamente dissociado das provas, escandaloso e arbitrário, o que não ocorre com aquele em que os jurados optaram por acatar uma das teses debatidas na sessão de julgamento.
+II - Recurso desprovido. Com o parecer.
+Nas razões do recurso especial, fundado na alínea "a" do permissivo constitucional, alega a defesa violação dos arts. 593, III, "d", do Código de Processo Penal, ao argumento de que não foi comprovado o recurso que impossibilitou a defesa da vítima. Busca, portanto, a submissão do réu a novo Júri, uma vez que a condenação se mostrou contrária à prova dos autos.
+Apresentadas contrarrazões e contraminuta, o Ministério Público Federal, instado a se manifestar, opinou pelo conhecimento do agravo para não conhecer do recurso especial.
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+É firme o entendimento desta Corte Superior no sentido de que, ao julgar apelação que pretende desconstituir o julgamento proferido pelo Tribunal do Júri, sob o argumento de que a decisão fora manifestamente contrária à prova dos autos, à Corte de origem se permite, apenas, a realização de um juízo de constatação acerca da existência de suporte probatório para a decisão tomada pelos jurados integrantes da Corte Popular. Se o veredito estiver flagrantemente desprovido de elementos mínimos de prova capazes de sustentá-lo, admite-se a sua cassação. Caso contrário, deve ser preservado o juízo feito pelos jurados no exercício da sua soberana função constitucional (AgRg no AgRg no AREsp 1866503/CE, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma julgado em 15/03/2022, DJe 22/03/2022).
+A quebra da soberania dos veredictos é apenas admitida em hipóteses excepcionais, em que a decisão do Júri for manifestamente dissociada do contexto probatório, hipótese em que o Tribunal de Justiça está autorizado a determinar novo julgamento.
+E, como é cediço, diz-se manifestamente contrária à prova dos autos a decisão que não encontra amparo nas provas produzidas, destoando, desse modo, inquestionavelmente, de todo o acervo probatório.
+No caso, o Tribunal a quo, ao manter a condenação proferida pelo Tribunal do Júri, mantendo a qualificadora relativa ao recurso que impossibilitou a defesa da vítima, asseverou (e-STJ fls. 508/509):
+ ..
+No caso dos autos, de um lado há a negativa do apelante com relação ao emprego de recurso que dificultou a defesa da vítima. Em Plenário, nesse sentido, sustentou que Josa Mota avançou em sua direção e, acreditando que ele estivesse armado, desferiu uma facada para se defender - mídia de f. 459-464.
+De outro lado, consta do Exame de Corpo de Delito de f. 57-66 cinco lesões perfuro-cortantes; três delas na região da cabeça, uma no peito e outra no tronco.
+Além do que, afora a alegação do apelante, não há nos autos qualquer menção de que Josa Mota estivesse armado. Os policiais ouvidos em Plenário, João Aparecido do Nascimento e Edivan Bobadilha, afirmaram ter localizado somente a faca utilizada por Anildo - mídia de f. 459-464.
+Ressalte-se, ainda, que na Delegacia Anildo revelou ter ido até a casa de Josa Mota de posse de uma faca, durante a madrugada, invadiu-a, e no momento em que a vítima tentava vestir uma camisa, depois de terem iniciado uma discussão, subitamente, atacou-a - f. 24.
+De tal maneira, presente nos autos duas versões, uma delas sustentando a tese acusatória, a qual, diga-se, vem amparada pelas circunstâncias e pela prova técnica, contrariando a tese defensiva.
+É flagrante a tentativa de surpreender a vítima de quem invade a casada mesma pela madrugada, portando uma faca. Ademais, a prova técnica, que demonstra diversos golpes de faca pelo corpo, contraria frontalmente a tese defensiva no sentido de que teria desferido apenas um golpe.
+Como se sabe, o Conselho de Sentença possui ampla liberdade na apreciação da prova, e ao contrário do juiz togado, não precisa fundamentar a decisão ;basta que siga sua consciência embasado em elementos de convicção presentes nos autos, por mínimos que sejam.
+E pelos elementos de prova acima transcritos, sempre tendo em mente o princípio da soberania dos vereditos, não se há falar em contrariedade à prova dos autos, posto que os jurados acolheram uma das versões colocadas à sua apreciação, a qual encontra substáculo em parte dos elementos de prova produzidos nos autos.
+ ..
+Como se observa, concluiu a Corte de origem, soberana na análise do arcabouço fático-probatório dos autos, que a decisão dos jurados não se encontra manifestamente contrária à prova dos autos.
+Salientou que, consoante o acervo de fatos e provas contidos no feito, o Conselho de Sentença adotou a tese da acusação, concluindo, em face da dinâmica da conduta, pela presença da qualificadora relativa ao recurso que dificultou a defesa da vítima .
+Assim, para alterar a conclusão a que chegaram as instâncias ordinárias, como requer a defesa, demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, providência incabível em sede de recurso especial, ante o óbice contido na Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 932, III, do CPC, c/c art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
