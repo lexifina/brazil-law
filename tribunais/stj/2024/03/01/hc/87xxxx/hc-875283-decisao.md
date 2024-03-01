@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra o Tribunal de Justiça de São Paulo.
+A paciente foi condenada "à pena de 5 anos e 10 meses de reclusão, no regime fechado, e ao pagamento de 583 dias-multa, no valor unitário mínimo, por infração ao artigo 33, § 4º, c.c. artigo 40, inciso V, ambos da Lei nº 11.343/2006" (fl. 31).
+Pugna o impetrante, liminarmente e no mérito, pelo reconhecimento da atenuante da confissão e alteração do regime prisional.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do writ.
+A respeito da atenuante da confissão espontânea, assim se manifestou o Tribunal local (fl. 33):
+ ..  Na segunda fase da dosimetria da pena, respeitado o entendimento da nobre defesa, não era caso, realmente, de incidência da atenuante da confissão espontânea, porquanto a ré, muito embora tenha admitido estar transportando uma encomenda para indivíduo desconhecido, foi taxativa ao dizer que não sabia que estava transportando drogas, negando, pois, elemento indispensável caracterizador da acusação que lhe foi feita e, com isso, a sua responsabilidade criminal.
+Vale dizer que a confissão da ré sequer pode ser considerada como parcial, pois, repita-se, ela negou o núcleo do tipo penal, qual seja, o transporte de drogas para entrega a terceiros, afirmando, tão somente, que trazia consigo uma simples encomenda que, se assim o fosse, não implicaria em nenhuma atividade criminosa. ..
+Como visto, ressaltou o Tribunal estadual que "a confissão da ré sequer pode ser considerada como parcial, pois, repita-se, ela negou o núcleo do tipo penal, qual seja, o transporte de drogas para entrega a terceiros, afirmando, tão somente, que trazia consigo uma simples encomenda que, se assim o fosse, não implicaria em nenhuma atividade criminosa", posicionamento esse que se coaduna com a jurisprudência desta Corte.
+"Se o réu não assumiu a prática dos núcleos verbais do tipo penal (integrar associação criminosa voltada ao tráfico de drogas), deixando de assumir o fato delitivo a ele atribuído, é inviável a aplicação da atenuante do art. 65, III, "d", do CP." (AgRg no HC n. 771.809/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/3/2023, DJe de 10/3/2023).
+Mutatis mutandis , " n ão constitui confissão qualificada da prática do delito de coação no curso do processo o fato de o réu haver assentido que exagerou nas palavras dirigidas aos seus familiares e ter proferido ofensas verbais contra a vítima, visto que o núcleo do tipo em questão consiste em emprego de violência ou grave ameaça com o intuito de coação" (AgRg no AREsp n. 1.916.058/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/2/2022, DJe de 3/3/2022).
+Acerca do regime prisional, extrai-se do acórdão impugnado (fl. 34):
+ ..  Em que pese a pena aplicada, o regime fechado se mostrava necessário, isso porque a dinâmica dos fatos, qual seja, tráfico de grande quantidade de entorpecente entre estados da federação, recomenda enérgica interferência estatal. ..
+O entendimento acima vai ao encontro da jurisprudência desta Corte - a ré, ora paciente, foi apreendida com 4.378,24g de maconha (fl. 16) -, não havendo falar-se em inidoneidade.
+"A despeito da pena ser superior a 4 anos e inferior a 8 anos, a autorizar, em princípio, a fixação do regime semiaberto, deve ser mantido o regime fechado, ante a existência da circunstância judicial negativa referente à natureza e quantidade das drogas apreendidas." (AgRg no AREsp n. 2.317.535/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/2/2024, DJe de 23/2/2024).
+"Não obstante a fixação da reprimenda em patamar inferior a 8 (oito) anos de reclusão (e pena-base fixada no mínimo legal), a quantidade da droga apreendida justificou o estabelecimento do regime inicial fechado, consoante destacado pelas instâncias ordinárias." (AgRg no HC n. 782.270/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 28/2/2023, DJe de 9/3/2023).
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
