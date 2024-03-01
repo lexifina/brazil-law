@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por ANAÍ MARIA RAYMUNDO BELLEZA , com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça do Rio Grande do Sul assim ementado (e-STJ, fl. 70):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO. ARGUIÇÃO DE IMPENHORABILIDADE DE BEM DE FAMÍLIA. NOS TERMOS DO QUE DISPÕE A LEI 8.009/90, O RECONHECIMENTO DA IMPENHORABILIDADE DO BEM DE FAMÍLIA PRESSUPÕE A INEQUÍVOCA COMPROVAÇÃO DE QUE O IMÓVEL PENHORADO É O ÚNICO PERTENCENTE AO DEVEDOR E UTILIZADO PELA ENTIDADE FAMILIAR COM FINS DE MORADIA PERMANENTE. ÔNUS DA PROVA, NOS TERMOS DO QUE DISPÕE O ARTIGO 373, INCISO I, DO CÓDIGO DE PROCESSO CIVIL, QUE INCUMBE A QUEM ALEGA. REQUISITOS NÃO DEMONSTRADOS. NEGARAM PROVIMENTO AO RECURSO. UNÂNIME.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 103-106).
+No recurso especial, a recorrente apontou, além de divergência jurisprudencial, violação dos arts. 1º e 5º da Lei n. 8.009/1990; e 1.022 do CPC.
+Esclareceu que se opôs ao acórdão por não acolher a impenhorabilidade de imóvel, mesmo após a oposição e julgamento de embargos de declaração nos quais foram suscitados vícios processuais, especialmente contradição.
+Destacou que a unidade imobiliária objeto do imbróglio é a residência da recorrente e sua família, sendo o único imóvel e de moradia permanente, nos termos do art. 6º da Lei n. 8.009/1990. Informou que se trata de residência familiar da insurgente desde sua infância, que lhe foi doada por seus genitores, gravada com cláusula de usufruto, nela residindo com seus familiares, fato amplamente comprovado nos autos.
+Sustentou a necessidade de resguardo da dignidade da pessoa humana. Requereu o provimento do recurso especial (e-STJ, fls. 118-135).
+Nas razões do agravo, a parte demandante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 197-205).
+Contraminuta apresentada (e-STJ, fls. 213-218).
+Brevemente relatado, decido.
+Não há nenhuma omissão, contradição ou carência de fundamentação a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa ao art. 1.022 do CPC.
+O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas tão só a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+A título ilustrativo:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURADA. MATÉRIA DE NATUREZA CONSTITUCIONAL. QUESTÃO DECIDIDA PELO SUPREMO TRIBUNAL FEDERAL. REPERCUSSÃO GERAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se configura a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+2. Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte recorrente.
+3. Ressalte-se que a mera insatisfação com o conteúdo da decisão não enseja Embargos de Declaração. Esse não é o objetivo dos Aclaratórios, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas trazidos à tutela jurisdicional, no momento processual oportuno, conforme o art. 1.022 do CPC/2015.
+4. A Corte a quo analisou a controvérsia sob o aspecto exclusivamente constitucional, consistente no posicionamento pacificado pelo STF no julgamento do RE 729.107/DF (Tema 792).
+5. Vê-se, assim, que a análise de questão cujo deslinde reclama a apreciação de matéria de natureza constitucional é inviável no âmbito de cabimento do Recurso Especial, pois de competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Constituição Federal.
+6. Agravo Interno não provido.
+(AgInt no REsp n. 2.031.487/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/5/2023, DJe de 19/5/2023.)
+O acórdão concluiu que a insurgente não demonstrou que o imóvel constrito se qualificaria como bem de família. Firmou que ela não fez prova, que era de sua responsabilidade, de que ele era seu único imóvel ou que nele residia o grupo familiar. Além disso, estabeleceu o aresto que também não ficou evidenciado que valores auferidos com aluguel da unidade imobiliária seriam utilizados pela executada e sua família para sustento
+Leia-se (e-STJ, fls. 67-69):
+Porém, na situação em apreço e em sentido diverso ao exigido pela legislação, verificam-se ausentes os requisitos autorizadores do reconhecimento da impenhorabilidade do bem de família.
+Isso porque, conforme bem entendeu o julgador de primeiro grau, não restaram produzidas provas suficientes a corroborar a tese de impenhorabilidade sendo os documentos apresentados, por si só, insuficientes à comprovação, extreme de dúvidas, de que o imóvel constrito possui a destinação residencial familiar que lhe tenta impor a parte.
+Como bem narrado e comprovado pelo credor, a declaração de imposto de renda da recorrente constante do processo nº 50002772120158210041, o qual envolve as mesmas partes, aponta endereço diverso, assim como restou informado ao oficial de justiça em 2017 que o imóvel estava alugado e, quando da penhora do imóvel 47.448, em 2013, os réus Anai e João declararam residir em Porto Alegre.
+Desse modo, não tendo a recorrente logrado êxito em comprovar que o imóvel penhorado é seu único bem utilizado com finalidade residencial ou rendimentos dele auferidos são a isso destinados, por si e sua família, inexistem fundamentos aptos a justificar qualquer modificação na decisão recorrida.
+Esse é o posicionamento que tem sido verificado nas decisões proferidas por esta Câmara Cível, quando da análise de casos símiles ao presente, consoante atestam os julgados cujas ementas colaciono na sequência:
+ ..
+Feitas todas estas considerações, mostrando-se ausentes os requisitos legais necessários ao reconhecimento da impenhorabilidade do bem de família, a negativa de provimento ao presente recurso é medida que se impõe.
+Essas ponderações foram extraídas da análise fático-probatória da causa, atraindo a aplicação da Súmula 7/STJ, verbete que incide sobre ambas as alíneas do permissivo constitucional, inclusive por divergência jurisprudencial.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial, e, na extensão conhecida, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO. PENHORABILIDADE DE BEM DE FAMÍLIA. OMISSÃO, CONTRADIÇÃO OU CARÊNCIA DE FUNDAMENTAÇÃO INEXISTENTES. ACÓRDÃO DEVIDAMENTE JUSTIFICADO. ENTENDIMENTO NO SENTIDO DA AUSÊNCIA DE QUALIFICAÇÃO DA UNIDADE IMOBILIÁRIA COMO BEM DE FAMÍLIA. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL, E NA EXTENSÃO CONHECIDA, NEGAR-LHE PROVIMENTO.
