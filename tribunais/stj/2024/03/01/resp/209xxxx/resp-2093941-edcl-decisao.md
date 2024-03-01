@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por COBREMISA PARTICIPAÇÕES E ADMINISTRAÇÃO LTDA. contra decisão monocrática de minha relatoria que não conheceu do recurso especial em razão da ausência de prequestionamento da tese recursal (fls. 237-240).
+Nas razões dos aclaratórios, a embargante aduz que "a r. decisão monocrática foi omissa em não ter abordado a vigência e a incidência no caso em tela do Tema 885 e da Súmula 581, que não impedem o prosseguimento da execução em face do devedor solidário. Aqui, os fiadores, correcorridos pessoas físicas que não a R. Castro em RJ" (fl. 245).
+Pugna, por fim, pelo provimento dos aclaratórios.
+A parte embargada apresentou contraminuta (fls. 250-254).
+É, no essencial, o relatório.
+Os embargos declaratórios são admissíveis para a modificação do julgado que se apresentar omisso, contraditório ou obscuro, bem como para sanar possível erro material existente na decisão, podendo ser acolhidos, eventualmente, com efeitos infringentes, se o suprimento da omissão, o aclaramento da obscuridade ou a supressão da contradição gerarem essa consequência.
+Nesse contexto, da melhor detida análise dos autos, merece guarida a alegação de afronta ao art. 489, § 1º, do CPC.
+Consoante se infere dos autos, os ora embargados manejaram agravo de instrumento contra decisão do juízo que rejeitou a pretensão de que o crédito judicial buscado pelo exequente, ora embargante, se submetesse ao plano de recuperação.
+Ao julgar o agravo de instrumento, o Tribunal de origem deu-lhe provimento por entender que o crédito, por ter origem em fato ocorrido antes da decretação da recuperação, deveria se submeter ao plano de recuperação (fl. 157):
+A executada R. Castro & Cia. Ltda, teve sua recuperação judicial decretada em 29 de setembro de 2014. Contudo, o crédito que originou a ação de cobrança é decorrente do descumprimento do contrato de locação firmado em julho de 2011. Logo, ele está vinculado ao plano de recuperação judicial, uma vez que o fato gerado contrato de locação é anterior ao pedido de recuperação judicial, citando recurso repetitivo (Tema 1051).
+Ressalto que o fato gerador da execução é o descumprimento das obrigações assumidas no contrato de locação firmado em julho de 2011. A recuperação judicial foi deferida em setembro de 2014, sendo, portanto, o crédito exequendo anterior. Em consequência, ele fica submetido ao Plano de Recuperação Judicial, sendo que, caso haja descumprimento do referido plano, independentemente do trânsito em julgado da r. sentença que extinguir a recuperação judicial, poderá a credora ajuizar execução, porém com observância das obrigações estipuladas no Plano de Recuperação Judicial.  .. :
+Embora tal entendimento se alinhe com a jurisprudência do STJ, em especial com o Tema n. 1.051, conforme destacado, relevante consignar que a embargante, tanto na contraminuta ao agravo de instrumento quanto nos embargos de declaração, suscitou a alegação de que, independentemente do entendimento firmado no referido tema, não haveria espaço para sua aplicação aos devedores solidários, a teor do disposto na Súmula n. 581/STJ e no Tema n. 885/STJ.
+Ocorre que o Tribunal nada se manifestou sobre a peculiaridade posta no julgamento do agravo de instrumento, menos ainda nos embargos de declaração, a evidenciar a deficiência na prestação jurisdicional.
+O dever de fundamentação tem assento constitucional, devendo ser fundamentadas todas as decisões judiciais, sob pena de nulidade, a teor do disposto no art. 93, IX, da Constituição Federal.
+Na elaboração do Código de Processo Civil de 2015, o legislador demonstrou enorme preocupação com o tema, a ponto de elencar situações específicas nas quais a lei considera não fundamentada a decisão judicial (art. 489, § 1º):
+ ..
+§ 1º Não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que:
+I - se limitar à indicação, à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida;
+II - empregar conceitos jurídicos indeterminados, sem explicar o motivo concreto de sua incidência no caso;
+III - invocar motivos que se prestariam a justificar qualquer outra decisão;
+IV - não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador;
+V - se limitar a invocar precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos;
+VI - deixar de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Assim, "configurada a agressão ao disposto no art. 489, § 1º, do CPC/2015, por ausência da necessária fundamentação, impõe-se a decretação de nulidade do acórdão da origem que apreciou os embargos declaratórios, com o retorno dos autos ao Tribunal de Justiça, a fim de que o argumento relevante invocado, carente de apreciação, seja devidamente enfrentado" (EDcl no AgInt no AREsp nº 1.348.888/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 24/9/2019).
+A título de reforço, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA - DECISÃO MONOCRÁTICA QUE RECONHECEU A NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INSURGÊNCIA RECURSAL DO AUTOR.
+1. Configurada a ocorrência de negativa de prestação jurisdicional, impõe-se o reconhecimento da ofensa ao artigo 489, §1º, IV, do CPC/2015, com anulação do acórdão proferido no julgamento dos embargos de declaração, determinando-se o retorno dos autos ao Tribunal de origem, para que sejam sanados os vícios apontados. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 1.877.486/TO, relator Ministro Marco Buzzi, Quarta Turma, DJe de 24/11/2021.)
+RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE COMPENSAÇÃO POR DANOS MATERIAIS E MORAIS. SERVIÇOS ADVOCATÍCIOS. ADVOGADO CREDENCIADO A SINDICATO. ATUAÇÃO NEGLIGENTE. DISCUSSÃO SOBRE A POSSIBILIDADE DE RESPONSABILIZAÇÃO SOLIDÁRIA DO CAUSÍDICO E DA ENTIDADE SINDICAL. OMISSÃO. EXISTÊNCIA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA NOVO JULGAMENTO.
+1. No recurso em julgamento, a controvérsia reside sobre a possibilidade de responsabilizar o sindicato, solidariamente com o advogado a ele credenciado, por ato negligente praticado pelo causídico.
+2. É verdade que, nos termos da jurisprudência do STJ, "é admitido ao Tribunal de origem, no julgamento da apelação, utilizar, como razões de decidir, os fundamentos delineados na sentença (fundamentação per relationem), medida que  por si só  não implica negativa de prestação jurisdicional" (AgInt no AREsp 1779343/DF, Terceira Turma, DJe 15/04/2021; AgInt no AREsp 855.179/SP, Quarta Turma, DJe 05/06/2019). Entretanto, restará configurada a negativa de prestação jurisdicional, se o órgão julgador "não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador" (art. 489, IV, do CPC/2015).
+3. No caso dos autos, o Tribunal de origem deixou de se manifestar sobre alegações fundamentais ao deslinde da controvérsia, sendo imperativa a cassação do acórdão recorrido.
+4. Recurso especial conhecido e provido, com o retorno dos autos à Corte de origem.
+(REsp n. 1.908.213/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 20/5/2021.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. SEGURO DE VIDA EM GRUPO. RESCISÃO DO CONTRATO. INVALIDEZ ALEGADAMENTE ORIGINADA AO TEMPO DA VIGÊNCIA DO CONTRATO. QUESTÃO RELEVANTE. AUSÊNCIA DE FUNDAMENTAÇÃO. ART. 489, § 1º, DO CPC/2015. NULIDADE DO ACÓRDÃO DOS EMBARGOS DE DECLARAÇÃO. DEVOLUÇÃO DOS AUTOS À ORIGEM. AGRAVO NÃO PROVIDO.
+ ..
+2. "Configurada a agressão ao disposto no art. 489, § 1º, do CPC/2015, por ausência da necessária fundamentação, impõe-se a decretação de nulidade do acórdão da origem que apreciou os embargos declaratórios, com o retorno dos autos ao Tribunal de Justiça, a fim de que o argumento relevante invocado, carente de apreciação, seja devidamente enfrentado" (EDcl no AgInt no AREsp 1.348.888/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 19/09/2019, DJe de 24/09/2019).
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 1.684.098/SC, relator Ministro Raul Araújo, Quarta Turma, DJe de 14/12/2020.)
+Portanto, observa-se que o Tribunal de origem, ao abordar a questão da submissão do crédito ao plano de recuperação, deixou de analisar a alegação oportunamente suscitada pelo embargante quando da interposição da contra minuta do agravo de instrumento, qual seja, a aplicação do entendimento da Súmula n. 581/STJ e do Tema Repetitivo n. 885/STJ.
+Com efeito, ausente manifestação do Tribunal a quo nesse sentido, intransponível o óbice para o conhecimento da matéria na via estrita do especial, em razão da ausência de prequestionamento e, sobretudo, sob pena de supressão de instância.
+Nessa toada, tendo a recorrente interposto o presente recurso por ofensa ao art. 489, § 1º, IV, V e VI, do CPC e em face das questões suscitadas, tenho como necessário o debate acerca de tais pontos.
+Ante o exposto, acolho os embargos de declaração, com excepcional efeitos infringentes, para dar provimento ao recurso especial de Cobremisa Participações e Administração Ltda., a fim de que os autos retornem ao Tribunal a quo para julgamento completo dos embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
