@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por MONICA LUPI FABBRO, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"PLANO DE SAÚDE - Plano Coletivo por Adesão - Cuidando-se de plano coletivo por adesão, os reajustes anuais não são definidos pela ANS, mas negociados entre as partes contratantes e apenas comunicados à Agência - Contratação por intermédio do SEESP, que não presta serviços à Operadora ou como administradora de benefícios, na forma prevista na Resolução Normativa n. 196/2009, sendo responsável pela defesa dos interesses dos usuários e deve participar das negociações acerca dos reajustes - Legalidade dos reajustes por sinistralidade e VCMH - Destoa da natureza do contrato coletivo a pretensão do beneficiário em rever os índices de reajustes negociados por sua entidade em seu favor, buscando condições mais benéficas que os demais beneficiários da mesma apólice e em detrimento destes, hipótese diversa daquelas em que poderia discutir a errônea aplicação das cláusulas contratuais ou dos índices de reajustes estabelecidos, e não foi demonstrada violação à Lei n. 9.656/98 ou ao CDC - Reajuste por Faixa Etária aos 59 anos de idade - Os reajustes por faixa etária têm por fundamento a proporcionalidade entre a incidência de sinistros e a idade do segurado - Validade - Inaplicabilidade do Estatuto do Idoso - Alteração pretendida que importaria na modificação da porcentagem dos reajustes anteriores e a autora pagaria mais antes - Inexistência de discriminação ou violação ao CDC - Improcedência da ação - Sentença reformada - Recurso da autora desprovido e provida a apelação da Operadora" (fl. 892 e-STJ).
+Os embargos de declaração foram rejeitados (fl. 1.093 e-STJ).
+Em suas razões, a recorrente aponta, além de divergência jurisprudencial, violação dos arts. 489, 927 e 1.022 do Código de Processo Civil ; 4º, 6º, III, 39, V, 51, IV e X, 54, § 4º, do Código de Defesa do Consumidor; e 166, IV, 169, 182, 369, 370, caput, 374, 375, 421, 422 e 757 do Código Civil. Defende, em síntese, a abusividade do reajuste por sinistralidade.
+Contrarrazões às fls. 1.102/1.124 (e-STJ).
+É o relatório.
+DECIDO.
+A insurgência não merece prosperar.
+No que tange ao art. 1.022 do Código de Processo Civil, não há falar em negativa de prestação jurisdicional se o Tribunal local, ainda que por fundamentos distintos daqueles apresentados pelas partes, adota fundamentação suficiente para decidir integralmente a controvérsia.
+Ademais, a motivação contrária ao interesse da parte ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador não autoriza o acolhimento dos declaratórios, daí porque também se afasta a alegada ofensa ao art. 489, § 1º, IV, do Código de Processo Civil.
+Nesse sentido:
+"ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REVISÃO DO ATO DE APOSENTADORIA. PRESCRIÇÃO DO FUNDO DE DIREITO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/15. NÃO CARACTERIZADA. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. MATÉRIA INSUSCETÍVEL DE EXAME NA VIA ESPECIAL. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVADO.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022 do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+(..)
+5. Agravo interno a que se nega provimento" (AgInt no REsp 1.654.518/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 13/6/2017, DJe 22/6/2017 - grifou-se).
+No caso, o Tribunal de origem, acerca da abusividade do reajuste, dirimiu a controvérsia nos seguintes termos:
+"(..)
+O contrato previu os reajustes financeiro e por sinistralidade (itens 1 e 2 fls. 61), que são perfeitamente cabíveis, sendo assente que: "é possível reajustar os contratos de saúde coletivos, sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade" (AgRg nos EDcl no AREsp 235.553/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA,julgado em 02/06/2015, DJe 10/06/2015; AgRg no AREsp 565.770/SP,Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 28/04/2015, DJe 18/05/2015).
+(..)
+Por sua vez, no tocante ao reajuste por faixa etária, este tem por fundamento a proporcionalidade entre a incidência de sinistros e a idade do segurado, sendo assente que: "a previsão de reajuste de plano de saúde em decorrência da mudança de faixa etária de segurado idoso por si só não representa cláusula abusiva, devendo-se aferir, em cada caso, a compatibilidade com a boa-fé objetiva e a equidade" (AgRg no AREsp567.512/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA,TERCEIRA TURMA, julgado em 02/06/2015, DJe 10/06/2015).
+(..)
+Não se pode afirmar que o último reajuste de 89,07%,ao completar 59 anos é discriminatório, não havendo qualquer reclamação em relação ao índice anterior de apenas 1,89%, na faixa de 54 a 58 anos, e não foi demonstrado que o valor cobrado na última faixa supera seis vezes o valor da primeira, bem como a abusividade na correção por sinistralidade e por VCMH, que teve a anuência da estipulante APCD, não se verificando de plano qualquer ilegalidade nos reajustes" (fls. 897/900, e-STJ).
+Diante das premissas fáticas estabelecidas no acórdão, a alteração das conclusões demandaria a interpretação de cláusulas contratuais e a incursão no conjunto fático-probatório dos autos, providências vedadas em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+A propósito:
+"AGRAVO INTERNO EM RECURSO ESPECIAL. PLANO DE SAÚDE. CLÁUSULA DE REAJUSTE POR MUDANÇA DE FAIXA ETÁRIA. ABUSIVIDADE VERIFICADA. REVISÃO. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, a interpretação de cláusulas contratuais e o reexame de matéria de fato (Súmulas 5 e 7 do STJ).
+2. Agravo interno a que se nega provimento" (AgInt no REsp 1.863.899/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 14/09/2020, DJe 18/09/2020).
+Por fim, resta consignar que a análise da divergência jurisprudencial resta prejudicada pela incidência das Súmulas nºs 5 e 7/STJ.
+Ante o exposto, nego provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 17% (dezessete por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
