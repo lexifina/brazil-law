@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de recurso especial, interposto por RUDIMAR JOSÉ VIER, com base no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4ª Região que restou assim ementado (e-STJ fl. 40):
+ADMINISTRATIVO E DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. CONTADORIA. CÁLCULO SUPERIOR AO VALOR EXECUTADO. ADSTRIÇÃO AO PEDIDO. DECISÃO ULTRA PETITA. PRECATÓRIO. VALORES INCONTROVERSOS. REQUISIÇÃO DEFERIDA.
+1. O princípio da adstrição ao pedido atua como delimitador da atividade jurisdicional, vedando que seja deferido o que não foi postulado pela parte exequente quando deu início ao cumprimento de sentença.
+2. A adoção dos cálculos da Contadoria Judicial, que apuraram valor superior ao executado, configuraria decisão ultra petita, o que é vedado pelo ordenamento.
+3. A ausência de valor incontroverso ou definitivamente reconhecido como devido inviabiliza a requisição de valores e, portanto, a expedição de precatório, ainda que diante da proximidade da data-limite para inscrição no orçamento e com bloqueio, o que não impede, reitere-se, a futura requisição de valores apontados como incontroversos ou reconhecidos como efetivamente devidos em decisão preclusa. Contudo, é admitida a requisição de valores reconhecidos como incontroversos.
+Os embargos de declaração opostos foram parcialmente acolhidos apenas para fins de prequestionamento, nos termos do acórdão juntado às e-STJ fls. 63/69.
+Nas razões do recurso especial, o recorrente alega:
+a) violação ao art. 1022, II, do CPC/2015, ao argumento de que o Tribunal de origem, mesmo após a oposição dos embargos de declaração, não teria se manifestado sobre a seguinte tese suscitada na contraminuta ao agravo de instrumento: a natureza da diferença existente entre os cálculos apresentados pelo exequente e dos da Contadoria Judicial e sua compatibilização com o título judicial executado;
+b) dissídio jurisprudencial, ao argumento de que o Tribunal de origem teria divergido do entendimento desta Corte Superior, segundo o qual "o acolhimento dos cálculos elaborados por Contador Judicial em valor superior ao apresentado pelo exequente não configura julgamento ultra petita, uma vez que, ao adequar os cálculos aos parâmetros da sentença exequenda, garante a perfeita execução do julgado" (e-STJ fl. 82).
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi admitido pelo Tribunal de origem.
+É o relatório. Decido.
+Razão assiste ao recorrente quanto à violação ao art. 1022, II, do CPC/2015.
+A jurisprudência deste Tribunal Superior firmou-se no sentido de que o provimento do recurso especial por contrariedade ao art. 1022 do CPC/2015 pressupõe que sejam demonstrados, fundamentadamente, os seguintes motivos: (a) que a questão supostamente omitida tenha sido invocada na apelação, no agravo ou nas contrarrazões a estes recursos, ou, ainda, que se cuide de matéria de ordem pública a ser examinada de ofício, a qualquer tempo, pelas instâncias ordinárias; (b) a oposição de aclaratórios para indicar à Corte local a necessidade de sanar a omissão em relação ao ponto; (c) que a tese omitida seja fundamental à conclusão do julgado e, se examinada, poderá conduzir a anulação ou reforma do julgado; (d) a inexistência de outro fundamento autônomo, suficiente para manter o acórdão.
+Verifica-se dos autos que o recorrente alegou, em sede de contraminuta ao agravo de instrumento, que a diferença do valor apresentado pelo exequente e o apurado pela Contadoria Judicial era decorrente da utilização do IPCAE como índice de correção monetária durante todo o período, em estreita observância do título judicial executado, razão pela não haveria decisão ultra petita.
+Destacam-se os seguintes trechos da contraminuta ao agravo de instrumento (e-STJ fls. 31/32):
+Alega a União em suas razões recursais que a decisão agravada é ultra petita, violando o princípio da adstrição ao pedido, senão vejamos:
+ ..
+Entretanto, conforme se passa a expor não há na decisão combatida desvinculação do objeto pedido no cumprimento de sentença, sendo que a diferença entre o valor final apontado nos cálculos do agravado (ev.58) e da Contadoria (ev.181) decorre da aplicação de índices diversos de correção sobre os quais houve manifestação definitiva no âmbito do Supremo Tribunal Federal.
+Consoante cálculos da digna Contadoria do juízo, juntados no evento 181, em consonância com a decisão proferida nos autos do AI nº 5014589-88.2022.4.04.0000, o valor da execução, atualizado até 08/2020, importa em R$ 113.714,38 (cento e treze mil, setecentos e quatorze reais e trinta e oito centavos).
+Cumpre observar que o valor principal de R$ 54.929,88 (cinquenta e quatro mil, novecentos e vinte e nove reais e oitenta e oito centavos) é absolutamente idêntico ao indicado pelo exequente, havendo apenas diferença quanto ao valor total em decorrência da aplicação pela Contadoria do juízo do IPCA-E em todo período, nos exatos termos do que restou decidido pelo Supremo Tribunal Federal no julgamento do RE 870.947, sob a sistemática de repercussão geral, que declarou a inconstitucionalidade da TR.
+Importante observar que no próprio título judicial constou que a definição quanto aos índices de correção poderia ser "revista em momento futuro, a depender de posteriores pronunciamentos do Supremo" (ev.34, SENT1).
+ ..
+Portanto, não há reparo a ser feito na decisão agravada, na medida em que não desbordou do objeto inicialmente executado, devendo o recurso ser improvido.
+O Tribunal de origem deu provimento ao agravo de instrumento da União aduzindo que seria indevida a homologação dos cálculos elaborados pela Contadoria Judicial em valor superior ao apresentado pelo exequente, sob pena de ofensa ao princípio da adstrição, importando julgamento ultra petita.
+Destacam-se os seguintes trechos do voto condutor do acórdão recorrido (e-STJ fl. 43/45):
+1. Princípio da Adstrição ao Pedido / Decisão ultra petita
+O Cumprimento de Sentença tem por origem título executivo formado em ação individual na qual condenada a União a retificar o ato de inativação do autor, militar da reserva, com o acréscimo de 08 meses no Total de Serviço Computado (relativo a 1/3 para o período de 02 anos de efetivo serviço passado na Guarnição Especial de Categoria A, nos termos do art. 137,VI, da Lei nº 6.880/1980), bem como a indenizar o período de 01 (um) ano de licença especial não usufruído.
+No pedido de Cumprimento de Sentença (ev. 58), postulou o exequente o pagamento de R$ 102.748,79, atualizados até agosto/2020.
+Na decisão que rejeitou a impugnação ao Cumprimento de Sentença, restaram acolhidos os cálculos elaborados pela Contadoria Judicial (ev. 181), que resultaram em R$ 113.714,38.
+O princípio da adstrição ao pedido atua como delimitador da atividade jurisdicional, vedando que seja deferido o que não foi postulado pela parte exequente quando deu início ao cumprimento de sentença.
+Cito, nesse sentido:
+ ..
+De outro lado, a adoção dos cálculos da Contadoria Judicial, que apuraram valor superior ao executado, configuraria decisão ultra petita, o que é vedado pelo ordenamento.
+No mesmo sentido:
+ ..
+Destarte, o Cumprimento de Sentença há de ser limitado ao valor postulado pela parte exequente no ev. 58 (R$ 102.748,79, em 08/2020), o que implica a reforma da decisão no que tange ao acolhimento dos cálculos da Contadoria Judicial.
+O recorrente opôs então embargados de declaração aduzindo que o acórdão embargado padeceria de omissão quanto à tese apresentada na contraminuta ao agravo de instrumento, nos seguintes termos (e-STJ fls. 53/54):
+A decisão embargada deu parcial provimento ao agravo de instrumento interposto pela União para o fim de, forte no princípio da adstrição ao pedido, limitar o cumprimento de sentença ao valor postulado pela parte exequente no ev.58 (R$ 102.748,79, em 08/2020), com o consequente afastamento dos cálculos elaborados pela Contadoria Judicial no ev.181 (R$ 113.714,38, em 08/2020) e acolhidos pelo juízo a quo na decisão agravada.
+Entretanto, o acórdão embargado deixou de se pronunciar sobre a natureza da referida diferença e sua compatibilização com o título judicial executado, desconsiderando em absoluto a fundamentação contida nas contrarrazões apresentadas pelo embargante no ev.9.
+A diferença quanto ao valor total decorre da aplicação pela Contadoria do juízo do IPCA-E em todo período, nos exatos termos do que restou decidido pelo Supremo Tribunal Federal no julgamento do RE 870.947, sob a sistemática de repercussão geral, que declarou a inconstitucionalidade da TR.
+Cumpre observar que o valor principal do cálculo da Contadoria Judicial é absolutamente idêntico ao indicado pelo exequente (R$ 54.929,88), o que afasta a suposta violação ao princípio da adstrição ao pedido.
+Nesse sentido, no próprio título judicial consta que a definição quanto aos índices de correção poderia ser "revista em momento futuro, a depender de posteriores pronunciamentos do Supremo" (ev.34, SENT1).
+Ou seja, impedir a adequação do cálculo aos parâmetros definidos pelo Supremo Tribunal Federal viola o próprio título judicial.
+Os embargos foram rejeitados pela Corte Regional ao argumento de que não haveria qualquer vício no acórdão embargado, pretendendo o recorrente o rejulgamento da causa. Destacam-se os seguintes trechos do voto condutor dos embargos de declaração (e-STJ fl. 68):
+Os embargos de declaração são cabíveis para suprimento de omissão, saneamento de contradição, esclarecimento de obscuridade ou correção de erro material no julgamento embargado. Também são admitidos para fins de prequestionamento.
+Examinando os autos e as alegações das partes, verifico que o julgamento embargado não incorreu em omissão, tendo apreciado as questões litigiosas adequadamente e resolvido a controvérsia, como se pode ver no voto condutor do julgado, na parte que ora transcrevo:
+ ..
+Conforme se depreende dos termos do voto acima transcrito, não está configurada omissão, contradição, obscuridade ou erro material sanável pela via dos embargos de declaração.
+Em que pese sua relevância para a solução da controvérsia, o Tribunal de origem não apreciou a tese suscitada na contraminuta ao agravo de instrumento e reiterada nos embargos de declaração.
+Desta forma, resta configurada a ofensa ao art. 1022, II, do CPC/2015, por negativa de prestação jurisdicional, devendo os autos serem devolvidos para a complementação do julgado, a fim de que seja apreciada a omissão ora reconhecida.
+Provido o recurso especial por negativa de prestação jurisdicional, resta prejudicada a outra matéria suscitada no recurso.
+Diante do exposto, com base no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ e na Súmula nº 568/STJ, dou provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA EM FACE DA FAZENDA PÚBLICA. VIOLAÇÃO AO ART. 1022, II, DO CPC/2015. AUSÊNCIA DE ANÁLISE DE TESE APRESENTADA EM SEDE DE CONTRAMINUTA AO AGRAVO DE INSTRUMENTO E REITERADA NOS EMBARGOS DE DECLARAÇÃO. NATUREZA DA DIFERENÇA DO VALOR EXECUTADO E OBSERVÂNCIA DA COISA JULGADA. MATÉRIA NÃO APRECIADA PELA CORTE REGIONAL. OMISSÃO CONFIGURADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OCORRÊNCIA. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA COMPLEMENTAÇÃO DO JULGADO. RECURSO ESPECIAL PROVIDO.
