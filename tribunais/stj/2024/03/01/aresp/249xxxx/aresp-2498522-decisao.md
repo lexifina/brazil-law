@@ -1,0 +1,18 @@
+DECISÃO
+Na origem, trata-se de ação ordinária, objetivando o pagamento de verba indevidamente minorada, como também indenização a título de danos morais. Na sentença, julgou-se parcialmente procedente o pedido. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 63.413,84.
+O recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA contra acórdão com o seguinte resumo de ementa:
+AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA C/C TUTELA DE URGÊNCIA ANTECIPATÓRIA. SERVIDORA PÚBLICA ESTÁVEL DO MUNICÍPIO DE JEQUIÉ. PROCESSO ORIGINÁRIO QUE VISA O RESTABELECIMENTO DO VALOR DO ADICIONAL POR TEMPO DE SERVIÇO. ADMINISTRAÇÃO PÚBLICA QUE REDUZ A BASE DE CÁLCULO SEM ABERTURA DE PROCEDIMENTO ADMINISTRATIVO. ILEGALIDADE. INOBSERVÂNCIA DO DEVIDO PROCESSO LEGAL, AMPLA DEFESA E DO CONTRADITÓRIO. PRECEDENTES DO STJ E TJBA. SÚMULA 473 DO STF. LIMITAÇÃO AO PODER DE AUTOTUTELA DA ADMINISTRAÇÃO PÚBLICA. LIMINAR CONTRA A FAZENDA PÚBLICA. ART. IO DA LEI  8.437/1992. RELATIVIZAÇÃO. O PEDIDO ANTECIPATÓRIO NÃO É PARA AUMENTO OU EXTENSÃO DE VANTAGEM OU VENCIMENTO, MAS PARA MANUTENÇÃO DE VANTAGEM EXISTENTE. PREENCHIMENTOS DOS REQUISITOS CONTIDOS NO ART. 300 DO CPC. DECISÃO CASSADA. DEFERIMENTO DA TUTELA ANTECIPATÓRIA. DETERMINAÇÃO DO RESTABELECIMENTO DO PAGAMENTO DA VANTAGEM ATÉ O JULGAMENTO DO MÉRITO DO PROCESSO ORIGINÁRIO NOS MOLDES PRATICADOS ANTES DA REDUÇÃO. RECURSO CONHECIDO E PROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Em relação aos honorários advocatícios, observa-se que art. 85, § 11 do novel CPC trouxe a majoração de honorários advocatícios em sede recursal, in verbis:
+ ..
+Observa-se que os honorários recursais serão fixados a partir do quanto anteriormente arbitrado, ou seja, a verba sucumbencial em grau de recurso somente será aplicada caso, na primeira instância, o juízo competente tenha fixado algum percentual.
+Com efeito, no caso dos autos, o juízo primevo fixou os honorários advocatícios no importe de10% (dez por cento) sobre o valor da causa.
+Sendo assim, majoro os honorários advocatícios sucumbenciais com fulcro no art. 85 do CPC, considerando-se a complexidade da causa, o grau de zelo dos profissionais, o trabalho realizado pelo advogado e o tempo exigido para seu serviço, bem como o percentual indicado no inciso I do § 3º do art. 85, majoro os honorários advocatícios de 10% para 15% sobre o valor da condenação.
+V erifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
