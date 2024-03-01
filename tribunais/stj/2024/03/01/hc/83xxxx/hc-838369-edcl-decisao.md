@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por LUANA BARBOSA DANTAS contra decisão desta relatoria, na qual não conheci do habeas corpus com fundamento no art. 34, inciso XX, do REGIMENTO INTERNO DO SUPERIOR TRIBUNAL DE JUSTIÇA - RISTJ.
+Nos presentes embargos, a defesa aponta omissão, afirmando que a decisão desconsiderou o entendimento desta Corte no sentido de que é inadmissível a utilização de ações penais em curso para afastar a causa de diminuição do art. 33, § 4º, da Lei n. 11.343/06.
+Reitera a alegação de que a paciente preenche os requisitos para a aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006, no grau máximo.
+Requer sejam acolhidos os embargos de declaração para aplicar a minorante no grau máximo de 2/3, com a fixação do regime aberto e a substituição da pena privativa de liberdade por restritiva de direitos.
+É o relatório.
+Decido.
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado. Ainda, admite-se para correção de erro material, conforme art. 1.022, III, do Código de Processo Civil - CPC.
+Todavia, ao revés do alegado pela embargante, não há que se falar em omissão no julgado.
+Na hipótese em debate, a causa de diminuição de pena deixou de ser aplicada não em razão da existência de ação penal em andamento, mas pelas demais circunstâncias concretas do fato criminoso, conforme se verifica do seguinte trecho da decisão embargada, verbis:
+"No caso dos autos, entretanto, a causa de diminuição de pena em questão deixou de ser aplicada não apenas em razão da elevada quantidade de droga apreendida (4,05 kg de cocaína), mas também pelas demais circunstâncias em que praticado o crime, sobretudo pelo modus operandi empregado para transportar a droga que tinha como destino outro Estado da Federação, em concurso com outra agente, razão pela qual o Juízo de primeiro grau constatou a inserção da paciente na cadeia criminosa, ressaltando que "a acusada Luana, em seu interrogatório judicial, afirma que foi procurada por uma terceira pessoa, a qual prefere não identifica-la com a finalidade de protege-lo, a procurou no whatsapp e ofereceu o serviço de transporte do entorpecente até outro Estado da Federação. Percebe-se facilmente que, trata-se de alguém conhecido, pois possui o contato pessoal de Luana, inclusive, a ponto de confiar o transporte de grande quantidade de entorpecente" (fl. 63)." (fl. 173)
+Desse modo, o que se observa é que a embargante pretende a modificação do julgado, com a rediscussão da questão, o que não se coaduna com a medida integrativa, ainda que para fins de prequestionamento.
+São precedentes de ambas as Turmas que julgam a matéria nesta Corte Superior (grifos nossos):
+EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. INEXISTÊNCIA DE VÍCIO A SER SANADO. FUNDAMENTAÇÃO SUFICIENTE. INCONFORMISMO COM O RESULTADO DO JULGAMENTO. REDISCUSSÃO DA MATÉRIA DECIDIDA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão no julgado, conforme art. 619 do Código de Processo Penal - CPP. Também são admitidos para correção de eventuais erros materiais.
+2. Na espécie, o agravante alega suposta omissão no acórdão embargado ao argumento de não ter sido apreciada a tese de falta de dolo específico para a caracterização do crime de tortura, sustentando ter sido utilizado como prova o próprio depoimento da vítima. Contudo, no caso em análise, não há qualquer omissão a ser sanada, uma vez que o acórdão embargado, de forma clara, asseverou que a condenação pelo delito de tortura foi mantida por esta Corte Superior de Justiça no julgamento do AgRg no AREsp n. 1.807.042/SP, de minha relatoria Quinta Turma, DJe de 8/10/2021, sendo defeso ao Superior Tribunal de Justiça julgar habeas corpus contra ato próprio.
+3. Constata-se que o embargante, inconformado com o resultado do julgamento, objetiva rediscutir a matéria apreciada e já decidida pela Quinta Turma do STJ, contudo os embargos declaratórios não se prestam a essa finalidade.
+4. Embargos de declaração rejeitados.
+(EDcl no HC n. 764.059/SP, de minha relatoria, Quinta Turma, julgado em 24/4/2023, DJe de 26/4/2023.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ART. 619 DO CÓDIGO DE PROCESSO PENAL. VÍCIOS INEXISTENTES. MATÉRIA SUFICIENTEMENTE DECIDIDA. EMBARGOS REJEITADOS.
+1. " A  intimação do Parquet só se concretiza com acesso à integralidade dos autos processuais, inclusive apensos (se houver), estejam eles em meio físico ou eletrônico, como prevê a legislação pertinente e a jurisprudência do Superior Tribunal de Justiça" (REsp n. 1.226.283/PR, relatora Ministra LAURITA VAZ, Quinta Turma, julgado em 7/11/2013, DJe de 25/11/2013). No caso, são tempestivos os agravos regimentais interpostos pelo Ministério Público Federal e pelo Ministério Público do Estado de São Paulo.
+2. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, afastar ambiguidade, esclarecer obscuridade ou eliminar contradição existentes no julgado.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos declaratórios.
+4. A contradição passível de ser sanada na via dos embargos declaratórios é a contradição interna, entendida como ilogicidade ou incoerência existente entre os fundamentos e o dispositivo do julgado em si mesmo considerado, e não a contradição externa, relativa à incompatibilidade do julgado com tese, lei ou precedente tido pelo Embargante como correto.
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no HC n. 827.911/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 19/9/2023, DJe de 25/9/2023.)
+Ante o exposto, com fulcro no art. 264, § 1º, do Regimento Interno do Superior Tribunal de Justiça, rejeitos os embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
