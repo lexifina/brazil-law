@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de impugnação oposta pela UNIÃO à execução em que a ASSOCIACAO DOS APOSENTADOS DA CEPLAC objetiva o pagamento, em favor de seus substituídos, da Gratificação de Apoio à Execução de Atividades da Comissão Executiva do Plano da Lavoura Cacaueira - GECEPLAC na mesma proporção e nos mesmos moldes em que concedida aos servidores ativos.
+A decisã o de fls. 102-104 deliberou sobre a preliminar arguida pela impugnante e determinou a expedição das requisições de valor incontroverso.
+Como causas de excesso de execução, a UNIÃO apontou, in verbis:
+Em análise aos cálculos apresentados pelos exequentes, temos que os mesmos não devem prosperar, tendo em vista as inconsistências abaixo: Não foi efetuado o desconto de PSS (11% do valor principal corrigido, sem incidir sobre os juros de mora); no mês de 07/2016 nada é devido. Pelas inconsistências acima o cálculo apresentado contém um excesso de execução de R$ 4.941,92 (quatro mil, novecentos e quarenta e um reais e noventa e dois centavos), na data do cálculo ora impugnado, conforme demonstrado no consolidado e planilhas de cálculos em anexo a este.
+Com relação aos honorários sucumbenciais, defendeu que sua fixação considere o conceito de proveito econômico, entendido como a diferença entre o quantum liquidado e o reconhecido pela executada. Por fim, disse não concordar com a incidência de juros de mora até o pagamento do precatório, pois a jurisprudência do STF caminhou no sentido de que não correm juros de mora após a data da expedição da requisição ou do precatório.
+Em resposta à impugnação (fls. 87-99), a exequente refutou as alegações de excesso no cálculo exequendo. Argumentou:
+i.) não há falar em limitação subjetiva do rol de substituídos listados na inicial, porquanto o presente mandamus tem natureza coletiva e beneficia a todos os integrantes da categoria;
+ii.) "não basta a mera alegação quanto ao não recolhimento do PSS em face dos substituídos integrantes da demanda, sendo necessário imputar à União Federal a devida comprovação de que os autores se enquadram na hipótese de incidência da contribuição previdenciária, colacionando aos autos arcabouço probatório acerca da data em que os exequentes se tornaram inativos";
+iii.) a fixação da verba honorária deve incidir sobre o valor da condenação ou proveito econômico obtido, escalonada nos termos § 2º do art. 85 do CPC;
+Expedidas as requisições de valor incontroverso (fl. 557), voltaram os autos conclusos para julgar a impugnação.
+É o relatório. Decido.
+Observo, inicialmente, que a preliminar de "limitação subjetiva ao rol de substituídos listados na inicial" foi solucionada, de forma definitiva, na decisão que determinou a expedição das requisições de valor incontroverso.
+Assim, passo a deliberar sobre os pontos impugnados pela UNIÃO atinentes ao excesso de execução.
+DO PSS
+A incidência ou não de imposto de renda e contribuição previdenciária é obrigação legal. É rotineiramente observada pela Coordenadoria de Processamento de Feitos em Execução Judicial, que faz incidir PSS sobre o valor principal e imposto de renda, na forma da lei.
+DO TERMO FINAL DOS JUROS DE MORA
+Quanto ao termo final dos juros moratórios, deve ser considerado o decidido pelo Supremo Tribunal Federal no julgamento do Recurso Extraordinário n. 579.431, apreciado pela sistemática da repercussão geral, que, analisando o Tema n. 96, fixou a seguinte tese: "Incidem os juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório".
+A propósito, nos termos da Resolução CNJ n. 303, art. 15, "para efeito do disposto no § 5º do art. 100 da Constituição Federal, considera-se momento de requisição do precatório, para aqueles apresentados ao tribunal entre 3 de abril do ano anterior e 2 de abril do ano de elaboração da proposta orçamentária, a data de 2 de abril".
+Ante o exposto, determino a remessa dos autos à Coordenadoria de Processamento de Feitos em Execução Judicial para parecer técnico e liquidação do julgado. Após, intimem-se as partes independentemente de nova conclusão. Havendo concordância, expeçam-se as requisições de pagamento, com destaque de honorários contratuais, se for o caso, e voltem-me os autos conclusos para fixação dos honorários sucumbenciais (art. 85, § 4º, II, do CPC).
+Sendo necessária documentação adicional, fica autorizada a abertura de vista pela secretaria, devendo as partes cumprir a diligência no prazo de 30 dias, sob pena de prosseguimento do feito ou extinção sem resolução de mérito (art. 485, III, c/c o § 1º do art. 485, ambos do CPC).
+Publique-se. Intimem-se.
+EMENTA
