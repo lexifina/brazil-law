@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o JUÍZO DE DIREITO DA 1ª VARA CRIMINAL DE CALDAS NOVAS - GO, suscitante, e o JUÍZO DE DIREITO DA VARA DE EXECUÇÃO PENAL DE ARAXÁ - MG, suscitado.
+O Juízo de Direito da Vara de Execução Penal de Araxá - MG, nos autos 078032-91.2018.8.09.0024, declinou a competência para Juízo de Direito da 1ª Vara Criminal de Caldas Novas - GO, ao argumento de que o apenado reside neste município (fl. 1.263).
+O Juízo de Direito da 1ª Vara Criminal de Caldas Novas - GO, por sua vez, suscitou conflito de competência. Sustentou, em síntese, que: a) segundo jurisprudência pacífica do Superior Tribunal de Justiça, a mudança de domicílio não altera a regra de competência legalmente estabelecida; b) o sistema prisional de Goiás não dispõe de vagas para abrigar apenados condenados por outros estados (fls. 1.248-1.258).
+O Ministério Público Federal se manifestou pelo conhecimento do conflito a fim de que seja declarada a competência do Juízo de Direito da Vara de Execução em Meio Fechado e Semiaberto de Castro - PR, ora suscitado (fls. 1.300-1.301).
+É o relatório. DECIDO.
+Conheço do conflito de competência, porquanto instaurado entre juízes vinculados a tribunais diversos, nos termos do art. 105, inciso I, alínea "d", da Constituição Federal.
+Inicialmente, registro que, embora o Juízo de Direito da Vara de Execução em Meio Fechado e Semiaberto de Castro - PR conste neste incidente como suscitado, o conflito foi instaurado entre o Juízo de Direito da 1ª Vara Criminal de Caldas Novas - GO, suscitante, e o Juízo de Direito da Vara de Execução Penal de Araxá - MG, ora suscitado.
+Feita tal consideração, passo à análise da controvérsia.
+Conforme entendimento consolidado do Superior Tribunal de Justiça, compete ao juízo da condenação a execução das penas impostas, de modo que eventual mudança de domicílio do apenado não implica deslocamento da competência. Nesses casos, a fiscalização das condições e das medidas aplicadas no curso da execução penal devem ser efetivadas por meio da expedição de precatórias. Confira-se:
+"AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. EXECUÇÃO PENAL. MUDANÇA DE ENDEREÇO. EXPEDIÇÃO DE CARTA PRECATÓRIA PARA FISCALIZAÇÃOE ACOMPANHAMENTO DA PENA IMPOSTA. COMPETÊNCIA DO JUÍZO SUSCITANTE.
+A Terceira Seção já pacificou o entendimento no sentido de que a competência para atos decisórios na execução penal continua sendo do juízo que proferiu a condenação, ainda que o condenado venha a mudar de domicílio, cabendo apenas a expedição de precatória para a fiscalização das condições e medidas impostas.
+Agravo regimental desprovido." (AgRg no CC n. 198.819/DF, Terceira Seção, Rel. Min. Mess od Azulay Neto, DJe de 25/10/2023)
+" ..  A execução da pena, em regra, compete ao Juízo da condenação, não implicando deslocamento de competência o implemento da prisão em comarca diversa, em razão da possibilidade de ser deprecada a fiscalização do cumprimento da pena." (CC n. 196.571/SC, Terceira Seção, Rel.ª Min.ª Laurita Vaz, DJe de 30/5/2023)
+No mesmo sentido: AgRg no CC n. 198.927/RS, Terceira Seção, Rel. Min. Ribeiro Dantas, DJe de 31/10/2023; CC n. 199.799/PR, Terceira Seção, Rel. Min. Joel Ilan Paciornik, DJe de 20/10/2023; AgRg no CC n. 189.921/SC, Terceira Seção, Rel. Min. Rogerio Schietti Cruz, DJe de 21/9/2022.
+Ressalto, ainda, que a transferência legal da execução da pena demanda consulta prévia ao juízo para o qual se pretende encaminhar o sentenciado, sobretudo para verificação de disponibilidade de vagas. Veja-se:
+A propósito:
+" ..  A transferência da execução da pena não pode ser determinada de maneira unilateral: é necessária a prévia consulta ao juízo para o qual o sentenciado pretende ser transferido, notadamente a fim de se verificar a disponibilidade de vagas ou de condições adequadas para o cumprimento da reprimenda no sistema prisional local." (AgRg no CC n. 189.921/SC, Terceira Seção, Rel. Min. Rogerio Schietti Cruz, DJe de 21/9/2022)
+Na espécie, o pedido de transferência foi indeferido pelo juízo para o qual se pretendia encaminhar o apenado, ante a inexistência de vaga. Ademais, embora o reeducando tenha mudado o domicílio para comarca diversa daquela onde foi condenado, tal fato não desloca a competência para a execução penal, que continua sendo do juízo onde o sentenciado cumpre pena, no caso, o Juízo de Direito da Vara de Execução Penal de Araxá - MG.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da Vara de Execução Penal de Araxá - MG, ora suscitado.
+Sem prejuízo, determino a reautuação dos autos a fim de que o Juízo de Direito da Vara de Execução Penal de Araxá - MG, conste como suscitado.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. EXECUÇÃO PENAL. MUDANÇA DE DOMICÍLIO. TRANSFERÊNCIA DA EXECUÇÃO DA PENA. CONSULTA PRÉVIA AO JUÍZO DE DESTINO. COMPETÊNCIA DO JUÍZO ONDE O SENTENCIADO CUMPRE PENA. PRECEDENTES.
