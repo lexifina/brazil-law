@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar, impetrado em favor de MARLON DOS SANTOS SILVA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Autos nº 5010916-55.2023.8.19.0500).
+O recurso apresentado pela defesa foi desprovido por meio de acórdão assim ementado:
+AGRAVO EM EXECUÇÃO PENAL. PENITENTE CONDENADO À PENA DE 03 (TRÊS) ANOS DE RECLUSÃO, EM REGIME ABERTO. PRÁTICA DO CRIME PREVISTO NO ARTIGO 16 DA LEI 10.826/2003. PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR DUAS PENAS RESTRITIVAS DE DIREITOS. IRRESIGNAÇÃO RECURSAL DEFENSIVA COM A DECISÃO PROFERIDA PELO JUIZ DA V.E.P., PELA QUAL FOI INDEFERIDO O PEDIDO DE RECONVERSÃO DE PENA RESTRITIVA DE DIREITOS EM PENA PRIVATIVA DE LIBERDADE, A QUAL ALEGA SER MAIS BENÉFICA, DIANTE DAS PECULIARIDADES DO CASO CONCRETO. NÃO CONSTITUI FACULDADE DO APENADO OPTAR PELA FORMA DE CUMPRIMENTO DAS PENAS IMPOSTAS. RECURSO CONHECIDO E DESPROVIDO. (e-STJ Fl.26)
+A defesa alega, em síntese, direito a obter a reconversão de sua pena.
+Requer, liminar e definitivamente, o deferimento da ordem para obter o benefício.
+É o relatório.
+Decido.
+Para conhecer da controvérsia apresentada neste writ, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com a estreita via do habeas corpus.
+Além disso, a concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que não se verifica de plano na hipótese dos autos, conforme se obtém da fundamentação lançada na origem (e-STJ fl. 31):
+Conforme se depreende do texto alhures, somente há previsão legal quanto à reconversão da pena restritiva de direitos para a pena privativa de liberdade em caso de descumprimento injustificado da restrição imposta ou por superveniência de condenação à pena privativa de liberdade, por outro crime, caso em que o juiz da execução penal decidirá sobre a conversão, podendo deixar de aplicá-la se for possível ao condenado cumprir a pena substitutiva anterior, nos exatos termos dos parágrafos 4º e 5º do artigo 44 do Código Penal.
+Portanto, o Magistrado a quo, ao analisar o inusitado pedido defensivo, fundamentou sua decisão nos exatos termos do texto legal, o qual é autoexplicativo.
+Neste contexto, observa-se que, ao pleitear a reconversão, sob a justificativa de que as condições impostas em eventual concessão de Livramento Condicional seriam necessariamente menos gravosas do que a prestação de serviços comunitários por 7 (sete) horas semanais, o agravante deseja escolher forma diversa de execução da pena, estabelecida em recurso manejado por ele próprio.
+Importante ressaltar que, não constitui faculdade do apenado optar pela forma de cumprimento das penas impostas, sob pena de desvirtuamento do caráter punitivo pedagógico das penas restritivas de direito, as quais constituem medidas educativas e, ao mesmo tempo, socialmente úteis.
+Efetivamente, a jurisprudência desta corte é pacífica no sentido de que "(..) A reconversão da pena restritiva de direitos imposta na sentença condenatória em pena privativa de liberdade depende do advento dos requisitos legais (descumprimento das condições impostas pelo juiz da condenação), não cabendo ao condenado, que sequer iniciou o cumprimento da pena, escolher ou decidir a forma como pretende cumprir a sanção, pleiteando aquela que lhe parece mais cômoda ou conveniente. (..)" (REsp 1524484 / PE, RELATOR Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DATA DO JULGAMENTO 17/05/2016, DATA DA PUBLICAÇÃO/FONTE DJe 25/05/2016)
+O provimento do pleito do impetrante importaria, portanto, em violação aos comandos dos art. 181 da LEP e art. 44, § 4º, do CP em notória desconformidade com a jurisprudência desta casa.
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
