@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso de agravo interposto por FELIPE SANTANA PIRES COELHO DE ANDRADE contra decisão do Tribunal de Justiça do Estado de São Paulo que não admitiu o processamento do recurso especial interposto com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal (e-STJ fls. 348/350).
+Segundo consta dos autos, o agravante foi condenado em primeiro grau à pena de 2 anos, 8 meses e 20 dias de reclusão, no regime inicial fechado, pela prática do crime de furto qualificado. A defesa recorreu da sentença e o Tribunal revisor negou provimento ao recurso.
+No recurso especial, a defesa alega, em resumo, que não ficou provada a autoria, e que a condenação foi mantida com base em provas precárias sem uma certeza acerca dos fatos. Aponta violação ao disposto no art. 226 do CPP, asseverando que a vítima teria declaração que não viu e não conhece o recorrente, apenas reconheceu que o delito ocorreu. Afirma ter ficado "claro que o recorrente não tinha ciência de que os produtos eram possíveis objetos de crime, já que assinalou formalmente documento declarando que não se tratava de objeto ilícito e entregou seus documentos pessoais" (e-STJ fl. 318). Nesse contexto, entende que, hipoteticamente, se crime fosse, seria hipótese de receptação, pois os bens foram encontrados com o recorrente, mas não há prova do dolo da origem ilícita dos bens (e-STJ fl. 319).
+No mais, entende que o regime prisional foi imposto sem amparo legal e em contrariedade às Súmulas 718 e 719 do Supremo Tribunal Federal.
+Ao final, pede seja reconhecida a nulidade acerca da autoria, ou a desclassificação do crime previsto no art. 155, § 4º, II, do Código Penal com a redução da pena e fixação do regime aberto, ou, mantida a condenação, a fixação do regime aberto para o cumprimento da sanção original.
+O recurso, porém, não foi admitido (e-STJ fls. 348/350).
+Nas razões do agravo, a defesa alega, em síntese, que a legislação federal foi descumprida, houve prequestionamento da matéria e que o regime prisional foi fixado com base na gravidade abstrata do crime. No mais, reafirma a alegação de vigência aos artigos 33 e 59 do Código Penal, às Súmulas 718 e 719 do Supremo Tribunal Federal e ao artigo 155 do Código de Processo Penal.
+Diante disso, pede seja o agravo conhecido e provido para dar seguimento ao recurso especial.
+Previamente ouvido, o Ministério Público Federal manifestou-se pelo não conhecimento do agravo.
+É o relatório, decido.
+Conheço do recurso de agravo e passo ao exame das alegações do especial.
+Acerca da suposta nulidade da autoria delitiva, decorrente da não observância ao disposto no art. 226 do CPP, verifica-se que a matéria não foi debatida no recurso de apelação. Incide, portanto, o enunciado n. 282 da Súmula do Supremo Tribunal Federal que assim dispõe:
+É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Acerca do decote da qualificadora do § 4º do art. 180 do CPP,
+No que importa, colhe-se do acórdão (e-STJ fl. 300):
+No dia seguinte, Luiz recebeu um telefonema de Francisco Canos Clemente Filho, proprietário da loja denominada "FS Assistência em Eletrônica", que lhe contou que, no dia anterior, FELIPE fora ao seu estabelecimento comercial e lhe disse que estava querendo vender o seu notebook. Como FELIPE não apresentou a nota fiscal, Francisco preencheu uma declaração de venda do aparelho, obtendo, assim, a qualificação do vendedor. Francisco acessou os dados do computador e desconfiou que ele poderia ser produto de crime, razão pela qual entrou em contato com Luiz.
+Ao retornar para sua casa o ofendido constatou que, realmente, havia sido furtado. Acionados, os milicianos Luis Alberto Silva e Junior César Ferreira, por meio das informações colhidas por Francisco, dirigiram-se à casa de FELIPE, onde o interpelaram. Em revista pessoal, nada de ilícito foi com ele encontrado. Todavia, em inspeção que realizaram na moradia, os guardas acharam um dos telemóveis pertencente à vítima. O segundo aparelho celular não foi encontrado.
+Então, FELIPE foi preso e levado para a Delegacia, onde Luiz reconheceu o notebook e o celular recuperados como sendo de sua propriedade (fl. 40).
+Veja que na narrativa fática está descrito um contexto típico do crime de furto. E foi essa a conclusão o Tribunal (e-STJ fl. 301):
+Assim, diante de tais elementos de prova, de absolvição não era mesmo de se cogitar, estando plenamente justificada a condenação imposta a FELIPE, por furto qualificado(escalada), não havendo se falar, portanto, na desclassificação deste crime para o de receptação, visto que a conduta de réu amolda-se ao artigo 155, parágrafo 4º, inciso II, do Código Penal, e não ao artigo180,caput, do mesmo Codex.
+Diante de dúvida razoável acerca do enquadramento da conduta, mostra-se inviável ir além no exame da alegação, por exigir necessariamente o revolvimento de fatos e prova, procedimento vedado na via do recurso especial, em razão do enunciado n. 7 da Súmula desta Corte que assim dispõe:
+A pretensão de simples reexame de prova não enseja recurso especial.
+(Súmula 7, Corte Especial, julgado em 28/6/1990, DJ de 3/7/1990, p. 6478.)
+Por último, examinando o procedimento de individualização da pena, observa-se que pena-base foi fixada em 2 anos e 4 meses porque o réu ostenta maus antecedentes. A sanção foi agravada na segunda fase em razão da reincidência, patamar mantido na terceira fase, a saber: 2 anos, 8 meses e 20 dias de reclusão, a ser cumprida no regime inicial fechado (e-STJ fl. 237).
+Assim, embora a sanção final seja inferior a 4 anos de reclusão, não há ilegalidade na fixação do regime mais severo, porquanto o paciente é reincidente e teve a pena-base estabelecida acima do piso mínimo legal, não havendo qualquer ilegalidade a ser reparada .
+Nesse sentido:
+"Apesar de a pena aplicada ser inferior a 4 anos, a reincidência e o registro de circunstâncias judiciais desfavoráveis justificariam, em consonância com o art. 33, § 2º, "c" e § 3º do CP, a aplicação do regime inicial fechado." (AgRg no REsp n. 2.074.116/SP, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 2/10/2023, DJe 5/10/2023)
+(..) 4. Em atenção ao art. 33, § 2º, do CP, embora estabelecida a pena definitiva em 4 anos de reclusão, o acusado, além de reincidente, teve a pena-base fixada acima do mínimo legal pelas circunstâncias do crime e pelos maus antecedentes, fundamentos que justificam a imposição de regime prisional mais gravoso, no caso, o fechado.
+5. Agravo regimental improvido.
+(AgRg no AREsp n. 2.383.930/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/10/2023, DJe de 30/10/2023)
+(..) 2. Na hipótese, em pese tenha sido imposta reprimenda inferior a 4 anos de reclusão, tratando-se de réu reincidente e com circunstâncias judiciais desfavoravelmente valoradas, não há que se falar em fixação do regime prisional semiaberto, por não restarem preenchidos os requisitos do art. 33, § 2º, "b", do Código Penal. Inteligência da Súmula 269/STJ.
+3. O art. 44, III, do Código Penal estabelece que será admitida a conversão da pena corporal por restritiva de direitos se "a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que essa substituição seja suficiente".
+4. No caso em análise, tratando-se de réu reincidente e tendo havido valoração negativa de circunstâncias judiciais, o que implicou fixação da pena-base acima do mínimo legal, deve ser reconhecida a inviabilidade da concessão da benesse prevista no art. 44 do Código Penal.
+5. Agravo regimental não provido.
+(AgRg no HC n. 850.756/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/10/2023, DJe de 27/10/2023)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Intimem-se.
+EMENTA
