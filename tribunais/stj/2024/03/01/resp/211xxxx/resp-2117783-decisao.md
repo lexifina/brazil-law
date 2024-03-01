@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público do Estado de Minas Gerais, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do respectivo Tribunal de Justiça, assim ementado (e-STJ fl. 248):
+APELAÇÃO CRIMINAL - ROUBOS SIMPLES - ABSOLVIÇÃO POR INSUFICIÊNCIA PROBATÓRIA OU ATIPICIDADE DA CONDUTA -IMPOSSIBILIDADE - AUTORIA E MATERIALIDADE COMPROVADAS -EMPREGO DE GRAVE AMEAÇA CONFIGURADO - REDUÇÃO DA PENA-BASE -NECESSIDADE - PATAMAR EXACERBADO -FIXADOS HONORÁRIOS AO DEFENSOR DATIVO.
+Comprovadas a autoria e a materialidade do crime de roubo, bem como o emprego de grave ameaça contra a vítima, incabível a absolvição por insuficiência probatória ou atipicidade da conduta. Cabível a redução da pena-base quando fixada em patamar exacerbado. Fixados honorários advocatícios ao defensor dativo na conformidade da tabela específica da OAB-MG.
+Opostos embargos de declaração, foram rejeitados.
+Alega a parte recorrente violação do art. 59 do Código Penal, por ausência de fundamentação idônea para a valoração negativa das circunstâncias judiciais na pena-base. Apresentadas contrarrazões e admitido na origem, manifestou-se o Ministério Público Federal, nesta instância, pelo provimento do recurso.
+É o relatório. Decido.
+O recurso merece prosperar.
+O recorrido foi condenado à pena de 6 anos, 1 mês e 15 dias de reclusão, no regime inicial fechado, e 36 dias-multa, como incurso no art. 157, caput, na forma do art. 70, ambos do Código Penal.
+Em grau de recurso, o Tribunal de origem negou provimento ao apelo defensivo e, de ofício, redimensionou a pena-base aplicada, retirando o vetor negativo das "circunstâncias do crime", pelos seguintes fundamentos (e-STJ fl. 255):
+Não devem, contudo, ser reputadas negativas as circunstâncias porque o delito foi praticado contra duas adolescentes, inexistindo extrapolação do tipo penal; tampouco porque o imputado cumpria pena em prisão domiciliar, cabendo ao juízo da execução penal a análise de eventual falta grave, sob risco de se incorrer em dupla punição pelos mesmos fatos.
+O acórdão recorrido, no entanto, diverge da orientação jurisprudencial no sentido de que "O fato de o agente praticar o crime durante gozo de benefício penal ou de cumprimento de pena imposta em outro processo é circunstância que justifica a elevação da pena-base (AgRg no HC n. 756.534/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/9/2022, DJe de 15/9/2022.).
+No mesmo sentido: AgRg no HC n. 697.186/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/9/2022, DJe de 4/10/2022; HC n. 462.424/SP, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 18/10/2018, DJe 6/11/2018, (AgRg no HC n. 676.248/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/9/2021, DJe de 4/10/2021, AgRg no AREsp n. 1.396.333/SP, R elatora Ministra Laurita Vaz, Sexta Turma, julgado em 19/11/2019, DJe de 5/12/2019.
+Deve ser, portanto, restabelecida a valoração negativa das circunstâncias do crime.
+Passa-se ao redimensionamento da pena, obedecendo aos critérios definidos pelas instâncias de origem.
+Diante da valoração negativa das circunstâncias do crime, ora restabelecida, e dos antecedentes criminais, fixa-se a reprimenda básica em 4 anos e 10 meses de reclusão e 14 dias-multa, mantida, nesse patamar, ante a compensação da confissão com a reincidência. Devido ao concurso formal de crimes, mantém-se o aumento em 1/6, tornando a pena definitiva em 5 anos, 7 meses e 20 dias de reclusão e 16 dias-multa.
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para fixar a pena definitiva de EDUARDO GOMES MENDES em 5 anos, 7 meses e 20 dias de reclusão e 16 dias-multa, mantidos os demais termos do acórdão.
+Intimem-se.
+EMENTA
