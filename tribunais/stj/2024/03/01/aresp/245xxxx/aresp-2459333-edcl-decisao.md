@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Embargos de Declaração contra decisão que conheceu do Agravo e deu provimento ao Recurso Especial para reconhecer a impossibilidade de acumulação de auxílio-doença com aposentadoria no caso.
+A parte embargante sustenta:
+Entretanto, cumpre salientar nesta oportunidade que a referida decisão carece de uma importante omissão.
+A r. decisão tendo dado provimento ao Recurso Especial interposto pela Autarquia ré, deixou de observar que às fls. 296/308 a parte autora apresentou suas devidas contrarrazões ao recurso especial ao qual foi dado provimento, inclusive com uma preliminar importante de intempestividade do recurso, além de matérias atinentes ao mérito recursal.
+Assim como, deveria ter observado que a autora naquela oportunidade, trouxe à lume a intempestividade dos embargos de declaração opostos pela Autarquia e por consequência acerca da intempestividade do Recurso Especial.
+Contudo, como se nota, a . r. decisão monocrática em nenhum momento observou tais argumentos exarados às fls. 299/301, padecendo de importante omissão que deverá ser sanada, poisa matéria preliminar de intempestividade trazidas em sede de preliminar de mérito das Contrarrazões do Recurso Especial é capaz de infirmar a decisão, vez que sendo sanada tal omissão, o presente recurso sequer poderá ser conhecido por este Egrégio Tribunal, tamanha a importância ali provocada.
+Desta forma, requer-se que seja sanada a omissão acerca da preliminar de intempestividade dos embargos opostos pela autarquia, bem como por consequência acerca da intempestividade do Recurso Especial.
+Por outro turno, também não se verifica nenhuma argumentação acerca do das contra razões de mérito recursal exaradas às fls. 302/307 acerca da violação do instituto da preclusão, da coisa julgada e de ser defeso inovar na lide, pelo fato do INSS não ter sequer trazido a matéria em sede de ação de conhecimento e tão somente em sede de execução.
+Requer, ao final, o acolhimento dos Aclaratórios com efeito modificativo.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 22.2.2024.
+De fato, a decisão embargada não analisou a questão da intempestividade dos EDcl do INSS contra o acórdão que julgou o Agravo de Instrumento, razão pela qual passo a suprir a omissão.
+Nesse ponto, vale transcrever as razões apontadas pela ora embargante nas contrarrazões ao REsp (fl. 299, e-STJ):
+Compulsando os autos se observa as fis. 220 a remessa dos autos ao INSS para ciência do inteiro teor do Acórdão o que foi dado às fls. 220 no dia 31 de janeiro de 2022.
+(..)
+Logo por qualquer prisma que se observa o prazo do INSS teve início no dia 31 de janeiro de 2022 e computando-se dez dias (prazo em dobro) tem-se que o prazo fatal para oposição de embargos de declaração seria o dia 11/02/2022, porém o INSS protocolou os EMBARGOS DE DECLARAÇÃO no dia 14/02/2022, quando o prazo já havia se passado.
+Observa-se que a autarquia embargada teve ciência do acórdão que julgou o Agravo de Instrumento em 31/1/2022 (fl. 260, e-STJ). Logo, é preciso excluir o dia 31 para fins de contagem do prazo, à luz do art. 224, caput, do CPC, para se chegar à conclusão que o prazo de 10 dias úteis para oposição dos Declaratórios se encerrou no dia 14.2.2022, justamente a data do protocolo do Recurso (fl. 262, e-STJ). Não há que se falar, portanto, em sua intempestividade ou do Recurso Especial subsequente.
+Sobre este último, extrai-se dos autos que o INSS teve ciência do acórdão que julgou os Embargos em 2.5.2022. Assim, o prazo de 30 dias úteis para interposição do REsp se encerrou em 13.2.2022, dia em que foi protocolado (fl. 281, e-STJ).
+Em relação à alegação de omissão quanto a tese de desrespeito à coisa julgada, à preclusão ou à inovação da lide, a pretensão recursal de rever premissa fática assentada pela Corte a quo, esbarra na inviabilidade de se reexaminar aspectos concretos da causa na via especial. A apreciação do conteúdo das causas relacionadas, a fim de aferir a identidade dos pedidos, da causa de pedir ou das partes, é verificada por juízo de matéria de fato, atribuído soberanamente às instâncias ordinárias. Nesse sentido:
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. (..) TRIBUNAL QUE AFIRMA A IMPOSSIBILIDADE DE REVISÃO DOS CRITÉRIOS DE INCIDÊNCIA DOS JUROS REMUNERATÓRIOS, EM SEDE DE CUMPRIMENTO DE SENTENÇA, SOB PENA DE OFENSA À COISA JULGADA. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. (..)
+1. Tendo sido discutida na fase de conhecimento a forma de devolução do empréstimo compulsório de energia elétrica, incluindo-se a correção monetária, os juros remuneratórios e os juros moratórios, descabe reabrir tal discussão em sede de execução ou cumprimento de sentença, sob pena de ofensa à coisa julgada. Precedentes: AgRg no AREsp 788.065/PR, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 8/3/2016, DJe 17/3/2016; AgRg no AREsp 806.860/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/2/2016, DJe 26/2/2016; AgInt nos EDcl no AgInt no AREsp 917.812/PE, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 16/5/2017, DJe 23/5/2017.
+2. Esta Corte Superior de Justiça firmou orientação no sentido de não ser possível, em recurso especial, rever o posicionamento adotado pelo Tribunal de origem quanto ao teor do título em execução, a fim de verificar-se possível ofensa à coisa julgada, aplicando o enunciado da Súmula 7/STJ. Precedentes: AgRg no AREsp 791.248/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 18/2/2016, Dje 24/2/2016; AgRg no AgRg no Ag 1.354.963/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 5/4/2016, DJe 12/4/2016; AgRg no REsp 1.314.842/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 21/8/2012, DJe 27/8/2012.
+(..)
+4. Agravo interno não provido. (AgInt no AREsp 770.444/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 15/3/2019.)
+CIVIL E PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM REPETIÇÃO DE INDÉBITO. COISA JULGADA. NÃO OCORRÊNCIA. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INVIABILIDADE. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. (..) AGRAVO INTERNO NÃO PROVIDO.
+1. A alteração das premissas fáticas adotadas pelo TJPB, no tocante a coisa julgada demandaria, necessariamente, o reexame de matéria fático-probatória dos autos, providência vedada no recurso especial pela Súmula n.º 7 do STJ
+(..) (AgInt no REsp 1.979.608/PB, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 24/5/2023.)
+Diante do exposto, acolho os Embargos de Declaração para sanar omissões, sem efeito modificativo.
+Publique-se.
+Intimem-se.
+EMENTA
