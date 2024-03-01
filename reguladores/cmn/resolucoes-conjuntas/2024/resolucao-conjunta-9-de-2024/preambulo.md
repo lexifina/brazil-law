@@ -1,0 +1,4 @@
+Resolução Nº 9 RESOLUÇÃO CONJUNTA Nº 9, DE 22 DE FEVEREIRO DE 2024
+Disciplina a atuação, os requisitos, as atribuições e as responsabilidades do agente fiduciário na emissão de Letra de Risco de Seguro por meio de Sociedade Seguradora de Propósito Específico.
+A Superintendência de Seguros Privados e o Banco Central do Brasil tornam público que o Conselho Nacional de Seguros Privados, em sessão realizada em 19 de fevereiro de 2024, com base no art. 32, incisos I e II, do Decreto-Lei nº 73, de 21 de novembro de 1966, e o Conselho Monetário Nacional, em sessão realizada em 25 de janeiro de 2024, com base no art. 4º, inciso VIII, da Lei nº 4.595, de 31 de dezembro de 1964, tendo em vista o disposto no art. 9º da Lei nº 14.430, de 3 de agosto de 2022, e considerando o que consta do Processo Susep nº 15414.638034/2022-09,
+R E S O L V E R A M :
