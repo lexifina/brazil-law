@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado:
+APELAÇÃO-CRIME. TRÁFICO ILÍCITO DE DROGAS MAJORADO. SENTENÇA CONDENATÓRIA. RECURSO DEFENSIVO REFERENTE AS MAJORANTES DO ARTIGO 40, INCISOS III E V, DA LEI DE DROGAS. Apelo defensivo que cinge-se a impugnar as majorantes do artigo 40, incisos III e V, da Lei 11.343/06. Transporte Público. Correto o reconhecimento da majorante prevista no inciso III do art. 40 da Lei de Drogas, uma vez que a prova converge à certeza de que o apelante cometeu o delito de tráfico de drogas no interior do transporte público, mais precisamente quando tinha como objetivo transportar as drogas apreendidas com ele em ônibus interurbano com itinerário de Cascavel/PR a Porto Alegre/RS. Pena. Crime cometido entre Estados da Federação. Descabido o pedido de redução da fração de aumento estabalecida para a majorante do artigo 40, inciso V, da Lei 11.343/06, pois foi devidamente fundamentamenta nas circunstâncias do caso. O apelante passou por três Estados e percorreu, aproximadamente, 845 km até a abordagem policial. Tais situações devem ser consideradas no momento da fixação da pena e justificam um aumento em patamar mais elevado (1/3), que será mantido. RECURSO DEFENSIVO DESPROVIDO.
+Consta dos autos que o paciente foi condenado à pena de 7 anos, 9 meses e 10 dias de reclusão, em regime semiaberto, como incurso nas sanções dos artigos 33, caput, c.c. 40, incisos III e V, ambos da Lei nº 11.343/2006, c.c. 65, inciso III, d, do Código Penal.
+Inconformada, a defesa interpôs recurso de apelação perante o Tribunal de origem, ao qual foi negado provimento.
+Os embargos de declaração, opostos pela defesa, foram rejeitados.
+Sustenta a defesa, em suma, que o paciente preenche todos os requisitos para o reconhecimento do tráfico privilegiado, pois não foi comprovado que ele se dedicava de forma habitual ao tráfico de drogas. Além disso, salienta que foi apreendida pequena quantidade de droga com o agravante.
+Afirma que "atuou apenas como mula, como se extrai do auto de prisão em flagrante, o qual indica que o réu foi preso na rodovia BR-386, ou seja, atuando no transporte da droga para outra localidade" (fl. 5).
+Salienta que "as circunstâncias da prisão do réu, bem como a quantidade de drogas apreendidas no caso concreto (22,4 kg de maconha), estão em consonância com a jurisprudência colacionada, permitindo, portanto, a aplicação da benesse do art. 33, §4º da Lei de Drogas"(fl. 7).
+Requer, liminarmente e no mérito, que seja aplicada a causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/06, com suas consequências legais.
+Indeferida a liminar e, prestadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 375-378).
+Preliminarmente, cabe observar que, nos termos do art. 33, § 4º, da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa.
+Sob essas diretrizes, assim se manifestou a Corte de origem ao afastar a aplicação da redutora do tráfico privilegiado (fls. 312-315, grifei):
+Trata-se de Embargos de Declaração opostos por ISRAEL EUCLIDES DE LIMA, com efeitos infringentes, em face de acórdão prolatado por esta Primeira Câmara Criminal, no julgamento da apelação nº 5013178-49.2022.8.21.0017/RS.
+O embargante aponta a existência de omissões no julgado, na medida em que não houve manifestação quanto ao cumprimento dos requisitos necessários para o reconhecimento do tráfico privilegiado. Aduz ainda que, embora a defesa não tenha se insurgido no ponto, o amplo efeito devolutivo da apelação determina a análise de toda a matéria. Requer, assim, a concessão da redutora prevista pelo §4º, do art. 33, da Lei de Drogas, tendo em vista a falta de idoneidade dos fundamentos utilizados para afastar a sua aplicação.
+Vieram os autos conclusos.
+ ..
+No mérito, voto por rejeitá-los.
+Compulsando os autos, verifico que não há qualquer omissão a ser sanada, uma vez que inexistem, nos termos do artigo 619 do Código de Processo Penal, omissões, contradições, obscuridades ou ambiguidades no acórdão embargado.
+A argumentação declinada nas razões, em relação ao reconhecimento do tráfico privilegiado, sequer foi objeto de insurgência defensiva em razões de apelação. Sendo assim, a ausência de manifestação explícita sobre o ponto não pode ser considerada como uma omissão a ser sanada.
+A defesa, portanto, em verdadeira inovação recursal, por meio da via inadequada, levanta debate sobre tema não suscitado no momento processual adequado - inclusive inviabilizando à acusação o devido contraditório.
+ ..
+A questão agora trazida não comporta apreciação no âmbito do efeito devolutivo amplo do apelo, que só exigiria a análise pelo Colegiado nas hipóteses em que há alegação específica sobre o ponto (o que não ocorreu, no caso), ou em que constatada a necessidade de modificação nos termos da condenação para beneficiar o réu.
+Inexiste, portanto, qualquer omissão no acórdão embargado, de modo que em caso de discordância, deve ser manejado o recuso próprio às instâncias superiores.
+Diante do exposto, voto por rejeitar os embargos de declaração.
+A competência deste Superior Tribunal de Justiça está expressamente prevista no art. 105 e incisos da Constituição Federal, exigindo, para conhecimento da matéria trazida em caso de habeas corpus, a existência de ato coator de Tribunal sujeito à sua jurisdição ou de quaisquer das outras autoridades elencadas no inciso I, alíneas "b" e "c", da CF/88, o que não se vislumbra ocorrer no caso.
+Dos autos, extrai-se que o pleito de reconhecimento da figura do tráfico privilegiado sequer foi alvo de deliberação pelo Tribunal de origem, tendo em vista que a matéria só foi alegada em sede de embargos de declaração, não cabe, portanto, a este Tribunal Superior inaugurar a apreciação do tema, sob pena de incursão em vedada supressão de instância.
+Assim, não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância,e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC 126.604/MT, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTATURMA, julgado em 07/12/2020, DJe 16/12/2020).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
