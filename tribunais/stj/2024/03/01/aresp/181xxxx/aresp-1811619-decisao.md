@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE PERNAMBUCO contra a decisão do Tribunal de Justiça que não admitiu o recurso especial devido à Súmula n. 83, STJ (fls. 283-287).
+No presente agravo, Ministério Público estadual alega que a referida Súmula não se aplica ao caso e colaciona precedentes que, a seu juízo, amparam a pretensão de anulação da audiência de instrução e julgamento que foi realizada sem a presença do Promotor de Justiça, o que também impossibilitou a apresentação de alegações finais (fls. 292-308).
+Em parecer, o Ministério Público Federal opinou pelo conhecimento do agravo e pelo provimento do recurso especial (fls. 332-336).
+É o relatório. DECIDO.
+Inicialmente, observo que os precedentes mencionados na decisão agravada se distinguem do caso sob exame, pois a ausência do membro ministerial foi devidamente justificada, a nulidade foi arguida pelo próprio Ministério Público e o prejuízo à acusação foi devidamente demonstrado.
+Segundo consta dos autos, o membro ministerial estava impossibilitado de comparecer à audiência de instrução e julgamento porque acumulava funções em outra Comarca, o que foi devidamente informado ao juízo. Apesar disso, o magistrado realizou a audiência sem o Ministério Público e decidiu pelas alegações finais orais, de modo que o Promotor de Justiça não participou da instrução, nem teve a oportunidade de se manifestar sobre a prova produzida. Ademais, o termo de audiência de fls. 108-109 informa que as alegações ministeriais foram consideradas preclusas em virtude da ausência à audiência, o que corrobora a existência do prejuízo alegado.
+Assim, a nulidade suscitada há de ser reconhecida, consoante se depreende dos seguintes precedentes desta Corte:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. INCÊNDIO (ART. 250, § 1º, II, C/C O ART. 14, II, AMBOS DO CP). AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO REALIZADA SEM A PRESENÇA DO REPRESENTANTE DO MINISTÉRIO PÚBLICO. NULIDADE. AUSÊNCIA DE DIFERENCIAÇÃO ENTRE O JULGADOR E O ÓRGÃO DE ACUSAÇÃO. PARECER MINISTERIAL FAVORÁVEL.
+1. A ausência do Ministério Público no ato judicial, com a consequente produção de provas pelo Magistrado, gera um desequilíbrio na estrutura paritária do processo e viola, em última análise, a sua formatação acusatória.
+2. Agravo regimental improvido." (AgRg no HC n. 839.191/RS, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 14/12/2023)
+"RECURSO ESPECIAL  HOMICÍDIO CULPOSO NO TRÂNSITO  AUDIÊNCIA REALIZADA SEM A PRESENÇA DO REPRESENTANTE DO MINISTÉRIO PÚBLICO  AUSÊNCIA JUSTIFICADA  NULIDADE  RECURSO PROVIDO.
+1- É nula a audiência realizada com ausência justificada de representante ministerial, quando comprovado o prejuízo causado, pela absolvição do agente, por insuficiência de provas.
+2- Recurso provido." (REsp n. 647.223/MG, Sexta Turma, Rel. Min. Jane Silva (Desembargadora Convocada do TJ/MG), DJe de 22/4/2008)
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso II, alínea "c", do RISTJ, conheço do agravo e dou provimento ao recurso especial para declarar a nulidade da audiência de instrução e julgamento, bem como dos atos subsequentes, e para determinar a renovação do aludido ato.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA JUSTIFICADA DO MINISTÉRIO PÚBLICO EM AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO. AUSÊNCIA DE ALEGAÇÕES FINAIS DA ACUSAÇÃO. ALEGAÇÕES MINISTERIAIS CONSIDERADAS PRECLUSAS. PREJUÍZO DEMONSTRADO. DISTINÇÃO EM RELAÇÃO AOS PRECEDENTES MENCIONADOS NA DECISÃO AGRAVADA. SÚMULA 83, STJ, AFASTADA. NULIDADE DECLARADA. AGRAVO CONHECIDO PARA PROVER O RECURSO ESPECIAL .
