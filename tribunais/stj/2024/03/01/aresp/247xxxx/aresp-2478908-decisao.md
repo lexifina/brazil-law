@@ -1,0 +1,16 @@
+DECISÃO
+Na origem, trata-se de ação anulatória de débito fiscal. Na sentença, julgou-se o pedido procedente. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 155.014,53 (cento e cinquenta e cinco mil e catorze reais, e cinquenta e três centavos).
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO contra acórdão com o seguinte resumo de ementa:
+AÇÃO ANULATÓRIA. ICMS. Ação anulatória de auto de infração. Prestação de serviços auxiliares à comunicação (Calling cards). Alegação de não incidência do ICMS. Art. 12, VII, da Lei Complementar nº 87/1996. Serviços que não se confundem com a prestação da atividade fim (serviços de comunicação). Operações que não se enquadram no dispositivo legal. Não incidência do ICMS. Entendimento do Superior Tribunal de Justiça. RESP n. 816.512/PI. Precedentes deste Tribunal. Sentença de procedência. Recurso não provido.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Ressalte-se que o Auto de Infração em discussão é o mesmo sobre o qual versou o mencionado agravo de instrumento interposto pela Hit Participações LTDA, AIIM 4.007.122-4.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação (artigos 128 do CTN; 2º, III, da LC n. 87/96; 60 da Lei n. 9.742/97), esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
