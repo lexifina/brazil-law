@@ -1,0 +1,17 @@
+DECISÃO
+Na origem, trata-se de mandado de segurança contra ato de prefeito referente a decreto de suspensão de pagamentos de aposentadoria. Na sentença, denegou-se a segurança. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 2.566,49 (Dois mil, quinhentos e sessenta e seis reais e quarenta e nove centavos).
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. SERVIDORA PÚBLICA INATIVA DO MUNICÍPIO DE ANITA GARIBALDI. FILIAÇÃO DOS SERVIDORES AO REGIME GERAL DE PREVIDÊNCIA SOCIAL (RGPS). SUSPENSÃO DOS PAGAMENTOS A TÍTULO DE COMPLEMENTAÇÃO DOS PROVENTOS DE APOSENTADORIA. SENTENÇA DE IMPROCEDÊNCIA. INSURGÉNCIA DA SERVIDORA PÚBLICA. ALEGADA OFENSA AO DEVIDO PROCESSO LEGAL. AO CONTRADITÓRIO E À AMPLA DEFESA. TESE AFASTADA. DECISÃO FUNDAMENTADA EM IRDR (TEMA 14). POSSIBILIDADE DE COMPLEMENTAÇÃO SALARIAL APENAS MEDIANTE A EXISTÊNCIA DE LEGISLAÇÃO LOCAL E ESPECÍFICA. DIREITO LÍQUIDO E CERTO NÃO EVIDENCIADOS. ILEGALIDADE INEXISTENTE. RECURSO CONHECIDO E DESPROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Deveras, o Togado singular equacionou com precisão e brilhantismo a celeuma, em absoluta harmonia à orientação pretoriana, que iterativamente reconhece a desnecessidade do processo administrativo para o desfazimento de ato administrativo, quando verificado que o desfecho do contraditório não destoaria da providência imposta pela autoridade administrativa.
+À guisa de reforço, colaciona-se julgados análogos:
+(..)
+Convém gizar que "a adoção da fundamentação "per relationem" no acórdão, com a transcrição de sentença ou parecer, em complemento às próprias razões de decidir, é técnica cuja legitimidade jurídico-constitucional é reconhecida há muito pelas Cortes Superiores, entendimento que não sofreu alteração com a entrada em vigor do Novo Código de Processo Civil" (Embargos de Declaração n. 0004427-78.2013.8.24.0054/50000, rel. Des. Júlio César M. Ferreira de Melo, j. em 29-9-2016). (TJSC, Embargos de Declaração n. 0006528-23.2013.8.24.0011, de Brusque, rel. Altamiro de Oliveira).
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação do art. 2º da Lei n. 9.784/1999, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
