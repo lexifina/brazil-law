@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por TRANSPORTADORA ILZAMAR LTDA - ME em face de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado do Paraná, assim ementado:
+"AÇÃO DE INDENIZAÇÃO - PAGAMENTO DE "VALE-PEDÁGIO" - LEI Nº. 10.209/2001 - SENTENÇA DE PARCIAL PROCEDÊNCIA.
+APELO 01- RIESA AGROPASTORIL E PARTICIPAÇÕES SOCIAIS LTDA - PRELIMINAR DE ILEGITIMIDADE ATIVA E PASSIVA - MATÉRIA DECIDIDA EM MOMENTO ANTERIOR - PRECLUSÃO PRO JUDICATO - IMPOSSIBILIDADE DE ALTERAÇÃO - EXISTÊNCIA DE DEMONSTRAÇÃO DOS FATOS CONSTITUTIVOS - REQUERIDA NÃO TROUXE AO PROCESSO FATOS MODIFICATIVOS, EXTINTIVOS OU IMPEDITIVOS DO DIREITO DO AUTOR - CONDENAÇÃO DEVIDA - NÃO OCORRÊNCIA DE ENRIQUECIMENTO ILÍCITO OU VALOR EXORBITANTE - ALEGAÇÃO DE MA-FÉ CARENTE DE PROVAS - FIXAÇÃO DE HONORÁRIOS RECURSAIS - RECURSO CONHECIDO EM PARTE E NELA NÃO PROVIDO.
+APELO 02 - TRANSPORTADORA ILZAMAR LTDA. - PLEITO PELA APLICABILIDADE INTEGRAL DA MULTA INDENIZATÓRIA DO ART. 8º DA LEI 10.209/2001 - CLÁUSULA PENAL QUE EXCEDE DE FORMA EXORBITANTE O CONTEÚDO ECONÔMICO DA OBRIGAÇÃO PRINCIPAL - PRINCÍPIO DA RAZOABILIDADE E EQUIDADE - ADEQUAÇÃO DO QUANTUM APLICAÇÃO DO ART. 412 E 413 DO CC - SENTENÇA MANTIDA COM FIXAÇÃO DEBEATUR - DE HONORÁRIOS RECURSAIS - RECURSO NÃO PROVIDO." (e-STJ fls. 2058)
+Nas razões do recurso especial, a recorrente alega violação aos art. 8 º da Lei n º 10.209/2001, afirmando que a previsão contida no dispositivo em comento trata-se de cláusula penal legal e diante do princípio da especialidade, não se aplica ao caso o disposto nos arts. 412 e 413 do Código Civil, que se aplicam apenas a penalidades de natureza civil.
+É o relatório. Decido.
+No que se refere à tese de que não se aplica ao caso o disposto nos arts. 412 e 413 do Código Civil, a Corte de origem assim decidiu:
+"Assim, prevê o artigo 8º, Lei 10.209/2001:
+"Art. 8º. Sem prejuízo do que estabelece o art. 5º, nas hipóteses de infração ao disposto nesta Lei, o embarcador será obrigado a indenizar o transportador em quantia equivalente a duas vezes o valor do frete".
+Assim, a sanção disciplinada no artigo supracitado estabelece que nas hipóteses de o embarcador infringir o disposto na lei, será obrigado a indenizar o transportador em quantia equivalente a duas vezes o valor do frete.
+Não obstante o disposto no artigo 8º, Lei 10.209/2001, é sabido que o ordenamento jurídico nacional não permite que o valor da cominação imposta na cláusula penal exceda o da obrigação principal, como dispõe o artigo 412 do Código Civil, in verbis:
+"Art. 412. O valor da cominação imposta na cláusula penal não pode exceder o da obrigação principal".
+Através do artigo 412 do CC, buscou-se dificultar um possível enriquecimento sem causa do demandante.
+(..)
+No caso em comento, a apelante busca a aplicação da multa inserida no artigo 8º da Lei 10.209/2001, ou seja, o pagamento em valor equivalente a duas vezes o valor do frete, aduzindo que o magistrado singular descumpriu a letra da lei ao alterar a base de cálculo da multa, que a norma dispõe ser o valor do frete e não o valor do pedágio.
+Ocorre que, a aplicação da literalidade e integralidade do artigo 8º, da Lei 10.209/2001, resulta em uma penalidade em montante manifestamente excessivo se comparado ao valor da obrigação principal.
+Entendo, portanto, diante das peculiaridades do caso concreto, ser o caso de aplicar a disposição do artigo 413 do Código Civil, o qual rege:
+"Art. 413. A penalidade deve ser reduzida equitativamente pelo juiz se a obrigação principal tiver sido cumprida em parte, ou se o montante da penalidade for manifestamente excessivo, tendo-se em vista a natureza e a finalidade do negócio".
+Pela inteligência do artigo acima transcrito extrai-se que é dever do juiz analisar a casuística processual e, em caso de quitação parcial ou se o montante da penalidade for manifestamente excessivo, reduzir equitativamente a multa aplicada.
+No presente caso, após estudar as provas colacionadas nos autos e as particularidades atinentes, o magistrado singular corretamente adequou o comando judicial à disposição dos artigos 412 e 413 do Código Civil, aplicando a redução equitativa do montante da condenação, por considerar ser o valor da condenação manifestamente excessivo." (e-STJ fls. 2063/2064)
+O entendimento acima encontra-se em desacordo com a jurisprudência desta Corte Superior:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE COBRANÇA C/C PEDIDO DECLARATÓRIO - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO RECURSAL DA PARTE RÉ.
+1. "A penalidade prevista no art. 8º da Lei nº 10.209/2001 é uma sanção legal, de caráter especial, prevista na lei que instituiu o Vale-Pedágio obrigatório para o transporte rodoviário de carga, razão pela qual não é possível a convenção das partes para lhe alterar o conteúdo, bem assim a de se fazer incidir o ponderado art. 412 do CC/02" (REsp 1.694.324/SP, Rel. p/ acórdão Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/11/2018, DJe de 05/12/2018) 2. Agravo interno desprovido.
+(AgInt no REsp n. 1.988.568/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. TRANSPORTE DE CARGA. VALE PEDÁGIO. LEI 10.209/2001. "DOBRA DO FRETE". NORMA COGENTE. INAPLICABILIDADE DO INSTITUTO DA SUPRESSIO. PENALIDADE QUE NÃO ADMITE A CONVENÇÃO DAS PARTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se aplica o instituto da supressio na relação entre o transportador e o contratante do serviço de transporte a fim de tornar inexigível o pagamento do vale-pedágio de forma adiantada e em separado, tendo em vista a natureza cogente da norma que institui a multa denominada de "dobra do frete".
+2. "A penalidade prevista no art. 8º da Lei nº 10.209/2001 é uma sanção legal, de caráter especial, prevista na lei que instituiu o Vale-Pedágio obrigatório para o transporte rodoviário de carga, razão pela qual não é possível a convenção das partes para lhe alterar o conteúdo, bem assim a de se fazer incidir o ponderado art. 412 do CC/02" (REsp 1.694.324/SP, Rel. p/ acórdão Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/11/2018, DJe de 05/12/2018).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.532.681/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/2/2020, DJe de 13/2/2020.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial, a fim de condenar a parte recorrida ao pagamento da indenização prevista nos exatos termos do art. 8º da Lei n. 10.209/2001 .
+Condeno o recorrido ao pagamento das custas processuais e dos honorários advocatícios sucumbenciais, que fixo em 10% sobre o valor da con denação.
+Publique-se.
+EMENTA
