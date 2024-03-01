@@ -1,0 +1,23 @@
+DECISÃO
+Trata -se de recurso ordinário em habeas corpus, com pedido liminar, interposto em favor de IGOR FERNANDO DA SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+Depreende-se dos autos que o Recorrente teve a prisão preventiva decretada pela suposta prática do delito de tráfico de drogas. Irresignada, a Defesa impetrou habeas corpus perante o Tribunal local. A ordem foi denegada pela Corte de origem, que entendeu que a prisão se encontrava devidamente justificada:
+"Com efeito, a autoridade tida por coatora ressaltou a gravidade concreta do delito, em tese, perpetrado pelo paciente e demais investigados (tráfico ilícito de drogas), os quais transportavam grande volume de droga, consistente em 435 kg, aproximadamente, de substância análoga à maconha1, se valendo, inclusive, de escolta, que era realizada, supostamente, pelo paciente IGOR e outro denunciado (batedores), anotando a possibilidade real de restar prejudicada a aplicação da lei penal, uma vez que o paciente e demais acusados são de outro estado, deslocando a Goiás para cometimento de crime, fatores estes que, somados, demonstram a real e notória periculosidade do paciente, justificando, pelo menos no momento, a necessidade de perpetuação da medida extrema de recolhimento junto ao cárcere.
+Nessa esteira de considerações, depreende-se da decisão fustigada que a autoridade acoimada de coatora expôs, correta e adequadamente, as razões de seu convencimento para decretar a constrição de liberdade do paciente IGOR FERNANDO DA SILVA, com arrimo na existência dos pressupostos e fundamentos ensejadores da prisão preventiva" (fl. 143).
+Na hipótese, a Defesa alega a ocorrência de constrangimento ilegal consubstanciado no encarceramento provisório determinado em desfavor do Recorrente, apontando ausência de fundamentação para a prisão preventiva.
+Aduz que:
+"No presente caso, somente se alega a necessidade da prisão preventiva para assegurar a aplicação da lei penal e para garantir a ordem pública, entretanto, nada é relacionado para caracterizar tais necessidades, a não ser a existência de um crime que até então, não se restou devidamente provada a sua autoria" (fl. 161).
+Requer a revogação da segregação cautelar do Recorrente.
+Liminar indeferida, às fls. 179-180.
+Informações prestadas, às fls. 185-187 e 189-192. O Ministério Público Federal em parecer, às fls. 193-199, opinou pelo desprovimento do recurso ordinário em habeas corpus:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA DA CONDUTA. APREENSÃO DE EXPRESSIVA QUANTIDADE DE DROGAS. GARANTIA DA ORDEM PÚBLICA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. - Parecer pelo desprovimento do recurso ordinário" (fl. 193).
+É o relatório. DECIDO.
+In casu, a prisão preventiva do Recorrente se encontra devidamente fundamentada, em dados concretos extraídos dos autos, para a garantia da ordem pública, notadamente se considerada a gravidade concreta da conduta, haja vista a quantidade de droga apreendida, no contexto da traficância, (435 kg de maconha); a justificar a segregação cautelar imposta.
+Sobre o tema:
+"São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente" (AgRg no HC n. 751.585/SP, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 30/9/2022).
+"custódia cautelar está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, tendo em vista que o agravante fazia o transporte de grande quantidade de entorpecente: 5 kg de maconha. Precedentes" (AgRg no HC n. 852.885/SC, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 28/2/2024).
+"No caso, observa-se que a custódia cautelar está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, pois foram apreendidos com o recorrente 212 porções de maconha (813,06g)" (AgRg no RHC n. 189.506/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 20/12/2023).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
