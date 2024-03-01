@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por MINERAÇÃO BURITIRAMA S.A. contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO DE INSTRUMENTO. Embargos à execução. Insurgência contra a decisão que indeferiu o diferimento do recolhimento das custas iniciais. O recolhimento da taxa judiciária será diferido para depois da satisfação da execução quando comprovada, por meio idôneo, a momentânea impossibilidade financeira do seu recolhimento. Efetiva necessidade do benefício não comprovada, à luz dos fatos e elementos trazidos ao bojo do caderno processual. Agravo improvido" (fl. 134 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 278-180 e 205-210 e-STJ).
+No recurso especial, a recorrente alega a violação do artigo 1.022 do Código de Processo Civil.
+Sustenta a tese de negativa de prestação jurisdicional ao argumento de que o Tribunal de origem não se manifestou acerca do fato de que diversos de sua propriedade foram penhorados/arrestados nos últimos meses e da existência de jurisprudência no sentido de permitir o "diferimento o pagamento de custas em casos de bloqueio de ativos financeiros na conta da empresa" (fl.189 e-STJ).
+Com as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de Justiça manifestou-se expressamente quanto à XXX, conforme se verifica do seguinte trecho do acórdão:
+"Ao indeferir o diferimento do recolhimento das custas processuais, o Juízoa quo concedeu à ora agravante o parcelamento das custas, e o fez nosseguintes termos: Vistos.1) Apensem-se aos autos n. 1090436-47.2021.8.26.0100. 2) Promova a parte embargante, no prazo de 15 (quinze) dias, a juntada de cópia do respectivo Estatuto Social. 3) Indefere-se o pleito de diferimento do pagamento das custas para o final do processo, na medida em que não comprovada, por meio idôneo, a momentânea impossibilidade financeira do recolhimento, nos termos do art. 5º, da Lei Paulista n. 11.608/2003. Lado outro, viável o parcelamento (§6º, do art. 98 do CPC), devendo a parte embargante promover o recolhimento da taxa de distribuição em cinco parcelas. A primeira parcela deverá ser recolhida em até 15 dias e as demais, sucessivamente, no mesmo dia ou no dia útil subsequente nos meses seguintes. 4) Recebo os embargos à execução sem o efeito suspensivo, na medida que não é possível vislumbrar qualquer tipo de urgência na pretensão do embargante, ou ainda, qualquer verossimilhança nas alegações feitas na exordial (art. 919, caput, do CPC). 5) Tão logo recolhida a primeira parcela da taxa de distribuição (item 3 acima), cite-se, nos moldes do art. 920, I, do CPC. Não sendo recolhidas as custas, os embargos serão extintos por falta de pressuposto processual. Intime-se.(fls. 38, grifos originais).
+Pois bem. Dispõe o artigo 5º da Lei nº 11.608/2003,in verbis:
+Artigo 5º - O recolhimento da taxa judiciária serádiferido para depois da satisfação da execução quando comprovada, por meio idôneo, a momentânea impossibilidade financeira do seu recolhimento, ainda que parcial: I - nas ações de alimentos e nas revisionais de alimentos; II - nas ações de reparação de dano por ato ilícito extracontratual, quando promovidas pela própria vítima ou seus herdeiros; III - na declaratória incidental; IV - nos embargos à execução.
+Parágrafo único - O disposto no "caput" deste artigo aplica-se a pessoas físicas e a pessoas jurídicas.
+No caso vertente, todavia, a recorrente não juntou umúnico documento para comprovar sua momentânea impossibilidade de arcar com as custas processuais, limitando-se a acostar a acostar aos autos lista de processos emque consta como parte (fls. 34/37 e 66/68). Outrossim, ressalte-se o benefício de parcelamento das custas já concedido pelo MM. Juízo de piso.
+Assim, os elementos trazidos ao caderno processual mostram-se absolutamente incompatíveis com a pretensão formulada.
+Não se pode perder de vista, ademais, que a pandemia, por si só, não faz presumir as dificuldades financeiras da instituição de ensino" (fls. 135-136 e-STJ).
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 2.135.800/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
