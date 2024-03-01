@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento ao recurso especial interposto em face de acórdão assim ementado:
+"RECURSO DE APELAÇÃO INTERPOSTO CONTRA R. SENTENÇA PELA QUAL FORAM ACOLHIDOS EMBARGOS À EXECUÇÃO, OCASIÃO EM QUE FOI EXTINTA A DEMANDA EXECUTIVA COMO MOVIMENTADA CONTRA O EMBARGANTE, O QUE SE DEU DIANTE DO RECONHECIMENTO DE SUA ILEGITIMIDADE PARA OCUPAR O POLO PASSIVO DA EXECUTIVA EMBARGADA - ALEGAÇÃO DE INCORREÇÃO, COM PEDIDO DE REFORMA - EMBARGANTE QUE SE TRATA DE HERDEIRO DO CODEVEDOR CLÁUDIO LUIZ COSTA BRETAS - DE RIGOR RECONHECER QUE O EMBARGANTE CONTA COM PLENA LEGITIMIDADE PARA FIGURAR NO POLO PASSIVO DA DEMANDA SATISFATIVA, DEVENDO RESPONDER PELO DÉBITO EXEQUENDO ATÉ OS LIMITES DA FORÇA DA HERANÇA TRANSMITIDA PRECEDENTES NESSE SENTIDO NECESSÁRIA REFORMA - RECURSO PROVIDO"
+O agravante aponta, além de divergência jurisprudencial, violação aos arts. 70, 110, 313, inciso I e § 1º, 329, 485, inciso IV e § 3º, 1.022, inciso II, do Código de Processo Civil e art. 6º do Código Civil, sustentando, em síntese, além de negativa de prestação jurisdicional, que é parte ilegítima para figurar no polo passivo da presente demanda e que deve haver a extinção sem resolução do mérito da questão, uma vez que o ajuizamento da ação se deu em face de pessoa falecida.
+Sem contrarrazões.
+Juízo negativo de admissibilidade proferido às fls. 394/397 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+De início, não se verifica a alegada negativa de prestação jurisdicional, tendo em vista que o Tribunal de origem debruçou-se exaustivamente sobre a controvérsia, não havendo omissão no acórdão recorrido, senão julgamento contrário aos interesses
+da agravante, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência.
+No mérito, em casos como o presente, em que há o ajuizamento de execução após o falecimento da parte indicada como executada, ante a sua incapacidade processual evidente, a nulidade é insanável, pois não é possível proceder à angularização processual e a regularização no curso da demanda, com a alteração/modificação do polo ativo, para fazer constar o espólio, representado pelo inventariante, ou o próprio herdeiro/sucessor.
+Em face do exposto, conheço do agravo e dou provimento ao recurso para extinguir a execução. Condeno a parte exequente a pagar os honorários do advogado da parte executada, os quais fixo em dez por cen to sobre o proveito econômico auferido, bem como as despesas do processo, suspensa a exigibilidade dos ônus sucumbenciais em caso de beneficiário da J ustiça gratuita.
+Intimem-se.
+EMENTA
