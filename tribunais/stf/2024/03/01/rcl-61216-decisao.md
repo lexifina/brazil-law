@@ -1,0 +1,36 @@
+DECISÃO
+
+R E L A T Ó R I O
+
+ 1.	Trata-se de Reclamação, com pedido de tutela provisória de natureza cautelar, ajuizada por RAÍZEN S.A. (nova denominação RAÍZEN COMBUSTÍVEIS S.A.) contra decisão proferida pela Primeira Turma do Tribunal Regional do Trabalho da 5ª Região, nos autos de Ação Anulatória (Processo nº 0000680-57.2016.5.05.0196) movida pela UNIÃO FEDERAL.
+
+ 2.	Sustenta a reclamante que, nos autos da Ação Anulatória (Processo nº 0000680-57.2016.5.05.0196), foi indevidamente condenada “(i) ao pagamento de multas pela ausência de registro e (ii) a registrar 14 (quatorze) empregados de empresa terceirizada, como se fossem seus empregados” (f. 03, e-doc. 1), sob o fundamento de que procedeu à terceirização de atividade-fim, vedada pela Súmula 331 do TST.
+
+ 3.	Consoante alega, a decisão reclamada afronta o entendimento firmado por este Supremo Tribunal na Arguição de Descumprimento de Preceito Fundamental n. 324 e no Recurso Extraordinário n. 958.252, em que foi fixado o Tema 725 de Repercussão Geral, nos quais restou definida a legalidade da terceirização da atividade-fim.
+
+ 4.	Requer, na forma do art. 300 do Código de Processo Civil, a determinação da antecipação dos efeitos da tutela “a fim de que seja suspenso o andamento do processo 0000680-57.2016.5.05.0196, enquanto durar a discussão neste processo”, e, no mérito, que “seja julgada esta ação PROCEDENTE, para cassar as decisões inferiores e declarar a procedência do processo 0000680-57.2016.5.05.0196 e a consequente nulidade dos Autos de Infração que são objeto, de modo a aplicar ao caso o entendimento já consolidado deste Supremo Tribunal” (fl. 12, e-doc. 1).
+
+É o breve relatório. DECIDO.
+
+ 5.	Conforme informação obtida no sítio eletrônico do Tribunal Regional do Trabalho da 5ª Região, a decisão reclamada foi proferida por sua Primeira Turma em 05/04/2018, momento anterior, portanto, aos julgamentos da ADPF n. 324/DF e do RE n. 958.252/MG, no qual fixado o Tema 725 de Repercussão Geral, ambos ocorridos em 30/08/2018.
+
+ 6.	A jurisprudência desta Corte é firme no sentido de que não cabe Reclamação quando a decisão reclamada tiver sido proferida antes da decisão paradigma, cuja autoridade é supostamente afrontada. Isso porque, por uma razão lógica, não se pode cogitar ofensa à autoridade de um paradigma que sequer existia à época. Nesse sentido:
+
+“AGRAVO REGIMENTAL EM RECLAMAÇÃO. MATÉRIA PENAL. ALEGAÇÃO DE DESRESPEITO À AUTORIDADE DE DECISÃO PROFERIDA POR ESTA SUPREMA CORTE NA ADI 5508. ATOS QUESTIONADOS QUE SÃO ANTERIORES AO JULGAMENTO PARADIGMA. INVIABILIDADE. RECURSO DESPROVIDO. 1. No caso de reclamação calcada no descumprimento de decisão emanada desta Suprema Corte, exige-se que o ato alvo de controle seja posterior ao paradigma, na medida em que não é viável cogitar-se de afronta à precedente sequer existente à época em que proferidos os atos impugnados. 2. Hipótese concreta em que as instâncias ordinárias, em momento anterior ao julgamento da ADI 5508, ato apontado como paradigma, não homologaram acordo de colaboração premiada celebrado entre a ora agravante e a autoridade policial. 3. Eventual desacerto da não homologação operada em momento anterior ao paradigma, inclusive sob a perspectiva da alegação de retroatividade da lei penal benéfica, não se insere na destinação constitucional da reclamação, que não se presta à tutela do direito objetivo ou à uniformização da jurisprudência. 4. Agravo regimental desprovido.” (Rcl 32655 AgR, Relator Ministro Edson Fachin, Segunda Turma, Dje 10.03.2020, grifo nosso)
+
+“Direito Processual do Trabalho. Agravo regimental em reclamação. Aplicação do IPCA como índice de correção monetária aos débitos trabalhistas. Alegação de ofensa às decisões proferidas na questão de ordem nas ADIs 4.357 e 4.425 e nas Rcls 22.012 e 25.534. 1. A jurisprudência desta Corte firmou-se no sentido de que é necessário que a decisão dita violada tenha sido proferida em momento anterior à decisão reclamada, já que não se pode dizer que houve ofensa ao paradigma se ele sequer existia à época. 2. A alegação de afastamento do art. 39 da Lei nº 8.177/1991, foi deduzida somente no agravo regimental e não se encontra adequadamente fundamentada, o que impede seu conhecimento. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015, em caso de decisão unânime. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.” (Reclamação n. 24.845-AgR/RS, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 17.9.2018).
+
+“Agravo regimental na reclamação. ADC nº 48/DFMC. Decisão reclamada anterior ao paradigma. Inadmissibilidade. Agravo regimental não provido, com aplicação de multa. 1. Não subsiste o agravo regimental quando inexiste ataque específico aos fundamentos do pronunciamento monocrático tido por merecedor de reforma, como consagrado no art. 317, § 1º, RISTF. 2. Inviável o manejo de reclamação constitucional com fundamento em paradigma publicado após o ato reclamado. 3. Agravo regimental não provido, com aplicação de multa.” (Reclamação n. 29.632-AgR/RJ, Relator o Ministro Dias Toffoli, Segunda Turma, DJe 14.6.2018, grifo nosso).
+
+ 7.	No mesmo sentido, por ocasião do recente julgamento da Reclamação n. 60.310/MG, na qual também se discutia suposta afronta à autoridade das decisões proferidas por esta Suprema Corte na ADPF n. 324/DF e no RE n. 958.252/MG, o Relator Ministro Luís Roberto Barroso assim decidiu monocraticamente:
+
+“1. Trata-se de reclamação ajuizada por Telemont Engenharia de Telecomunicações S/A em face de decisão da 3ª Turma do Tribunal Regional do Trabalho da 3ª Região proferida nos Autos nº 0000788-12.2013.5.03.0111. A parte reclamante alega afronta à tese firmada na ADPF 324, da minha relatoria, e ao RE 958.252, paradigma do Tema 725 da repercussão geral, julgados pelos quais o Supremo Tribunal Federal afirmou a constitucionalidade da terceirização de qualquer atividade empresarial, meio ou fim; e violação à Súmula Vinculante 10. 2. O presente feito é manifestamente inviável. A decisão reclamada foi proferida em 24.02.2016, antes, portanto, do julgamento da ADPF 324. A jurisprudência desta Corte se firmou no sentido de que a reclamação é inviável, quando o ato impugnado tiver sido proferido antes do acórdão ou da súmula cuja autoridade se afirma afrontada. Não se pode dizer que houve ofensa ao paradigma se ele sequer existia à época.Nesse sentido, confiram-se os seguintes julgados, entre outros: Rcl 1.723-AgR-QO, Rel. Min. Celso de Mello; Rcl 4.131, Rel. Min. Marco Aurélio; Rcl 43.954-AgR, Rel. Min. Alexandre de Moraes; Rcl 48.909-AgR, Rel. Min. Dias Toffoli. 3. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento à reclamação, ficando prejudicada a análise do pedido cautelar. Sem honorários, porquanto não citada a parte interessada.” (Reclamação n. 60.310/MG, Relator o Ministro Roberto Barroso, DJe 12/07/2023, grifo nosso).
+
+8. Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO à Reclamação, ficando prejudicado o pedido de liminar.
+
+Publique-se.
+Brasília, 1º de março de 2024.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
