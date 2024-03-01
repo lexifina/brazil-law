@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Messod Azulay Neto, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Daniela Teixeira.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. MERO INCONFORMISMO DA PARTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado.
+2. O embargante não comprovou a existência de qualquer vício no julgado. Seus argumentos demonstram, tão somente, o inconformismo com o resultado do julgamento.
+3. Na hipótese, o acórdão embargado manteve a decisão da Presidência desta Corte, que não conheceu do recurso especial em razão de sua intempestividade. Com efeito, o acórdão recorrido foi publicado em 15/10/2021, iniciando-se o prazo recursal de 15 dias corridos em 18/10/2021, o qual se encerrou em 1º/11/2021. Todavia, o recurso especial somente foi protocolizado em 3/11/2021. Conforme consignado, a alegada ocorrência da suspensão do expediente forense no dia 1º/11/2021, que precede ao feriado nacional de Finados, tinha de ser demonstrada, por documento hábil, no ato da interposição do recurso, ônus que a parte não se desincumbiu.
+4. "Nos termos do art. 619 do CPP, o recurso de embargos de declaração é de fundamentação vinculada, somente cabível nas hipóteses em que haja, no julgado impugnado, ambiguidade, obscuridade, contradição ou omissão, não se prestando, pois, para que as partes veiculem seu inconformismo com as conclusões adotadas" (EDcl no AgRg nos EDcl na APn 971/DF, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, DJe 26/10/2021).
+5. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por JOÃO BATISTA SANTANA DA SILVA contra acórdão de fls. 897/898, que negou provimento ao seu agravo regimental, mantendo a decisão monocrática da Presidência desta Corte de não conhecimento do recurso especial em virtude de sua intempestividade. O acórdão embargado ficou assim ementado:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL NÃO CONHECIDO POR INTEMPESTIVIDADE. DECISÃO DA PRESIDÊNCIA DESTA CORTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Recurso especial não conhecido por ser intempestivo.
+2. Na hipótese dos autos, o acórdão recorrido foi publicado em 15/10/2021 (sexta-feira), iniciando-se o prazo recursal de 15 dias corridos em 18/10/2021 (segunda-feira), o qual se encerrou em 1º/11/2021 (segunda-feira). Todavia, o recurso especial somente foi protocolizado em 3/11/2021.
+3. Escorreita a decisão da Presidência desta Corte que não conheceu do recurso especial por intempestividade.
+4. Impende reforçar que a ocorrência de feriado local, de paralisação ou de interrupção de expediente no Tribunal de origem deve ser comprovada, por documento hábil, no ato da interposição do recurso, não se admitindo tal comprovação em momento posterior.
+5. No caso em apreço, a defesa não demonstrou por documento oficial ou certidão expedida pelo Tribunal de origem, no ato da interposição do recurso, a ocorrência de suspensão de expediente a prorrogar o seu prazo recursal.
+6. Agravo regimental desprovido" (fl. 897).
+Nos presentes aclaratórios (fls. 918/921), a defesa alega existência de contradição e omissão no acórdão embargado, ao fun damento de que, ao final do prazo de 15 dias corridos para interposição do recurso especial, houve suspensão do expediente forense no Tribunal de Justiça do Estado de Minas Gerais, dias 1º/11/2021 e 2/11/2021, conforme calendário oficial do referido Tribunal. Afirma também que a data fatal do prazo foi em 2/11/2021, feriado nacional.
+Requer o acolhimento dos embargos para dar regular prosseguimento ao agravo regimental em recurso especial.
+É o relatório.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. MERO INCONFORMISMO DA PARTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado.
+2. O embargante não comprovou a existência de qualquer vício no julgado. Seus argumentos demonstram, tão somente, o inconformismo com o resultado do julgamento.
+3. Na hipótese, o acórdão embargado manteve a decisão da Presidência desta Corte, que não conheceu do recurso especial em razão de sua intempestividade. Com efeito, o acórdão recorrido foi publicado em 15/10/2021, iniciando-se o prazo recursal de 15 dias corridos em 18/10/2021, o qual se encerrou em 1º/11/2021. Todavia, o recurso especial somente foi protocolizado em 3/11/2021. Conforme consignado, a alegada ocorrência da suspensão do expediente forense no dia 1º/11/2021, que precede ao feriado nacional de Finados, tinha de ser demonstrada, por documento hábil, no ato da interposição do recurso, ônus que a parte não se desincumbiu.
+4. "Nos termos do art. 619 do CPP, o recurso de embargos de declaração é de fundamentação vinculada, somente cabível nas hipóteses em que haja, no julgado impugnado, ambiguidade, obscuridade, contradição ou omissão, não se prestando, pois, para que as partes veiculem seu inconformismo com as conclusões adotadas" (EDcl no AgRg nos EDcl na APn 971/DF, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, DJe 26/10/2021).
+5. Embargos de declaração rejeitados.
+VOTO
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado. Ainda, admite-se para correção de erro material, conforme art. 1.022, III, do Código de Processo Civil - CPC.
+No caso em análise, o embargante não indica efetivamente a existência de qualquer omissão, contradição, obscuridade ou erro material. Utiliza-se, em realidade, dos termos "contradição" e "omissão" apenas como forma de veicular seu inconformismo com o julgado.
+Na espécie, a parte alega vícios de contradição e omissão, aduzindo suspensão do expediente forense no Tribunal de Justiça do Estado de Minas Gerais nos dias 1º/ 11/2021 e 2/11/2021 e data fatal para interposição do recurso especial em 2/11/2021.
+Entretanto, c omo restou consignado no acórdão embargado, o acórdão recorrido foi publicado em 15/10/2021 (sexta-feira), iniciando-se o prazo recursal de 15 dias corridos em 18/10/2021 (segunda-feira), o qual se encerrou em 1º/11/2021 (segunda-feira). Todavia, o recurso especial somente foi protocolizado em 3/11/2021.
+Nesse contexto, o acórdão embargado também pontuou que a ocorrência de feriado local, de paralisação ou de interrupção de expediente no Tribunal de origem deve ser comprovada, por documento hábil, no ato da interposição do recurso, não se admitindo tal comprovação em momento posterior. Precedente: AgRg no AREsp n. 2.248.134/PE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/5/2023, DJe de 26/5/2023.
+Desse modo, no caso dos autos, a alegada ocorrência da suspensão do expediente forense no dia 1º/11/2021, que precede ao feriado nacional de Finados, tinha de ser demonstrada, por documento hábil, no ato da interposição do recurso, ônus que a parte não se desincumbiu.
+Destarte, verifica-se que não há qualquer vício a ser sanado no acórdão embargado, apenas inconformismo da parte, o que não se coaduna com a medida integrativa.
+Com efeito, "nos termos do art. 619 do CPP, o recurso de embargos de declaração é de fundamentação vinculada, somente cabível nas hipóteses em que haja, no julgado impugnado, ambiguidade, obscuridade, contradição ou omissão, não se prestando, pois, para que as partes veiculem seu inconformismo com as conclusões adotadas" (EDcl no AgRg nos EDcl na APn 971/DF, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, DJe 26/10/2021).
+No mesmo sentido (grifos nossos):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO PREENCHIMENTO DOS REQUISITOS DO ART. 619 DO CPP. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nã o está caracterizado nenhum vício previsto no art. 619 do CPP se o órgão julgador dirimiu, de modo fundamentado, as questões que lhe foram submetidas.
+2. Na espécie, o acórdão embargado consignou expressamente que o agravante deixou de impugnar adequadamente um dos fundamentos de inadmissibilidade do recurso especial, qual seja: a incidência da Súmula 83 do STJ, situação que denota a incidência do enunciado sumular n. 182 do STJ.
+3. Assentou, ainda, que a parte não demonstrou, especificamente, que o entendimento desta Corte Superior destoa da conclusão a que chegou o Tribunal de origem ou o distinguishing usado para justificar que os precedentes citados no decisum recorrido seriam inaplicáveis à hipótese dos autos.
+4. A irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição dos embargos de declaração, os quais se prestam apenas a sanar eventual omissão, contradição ou obscuridade do julgado, e não a reapreciar a causa.
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EDcl nos EDcl no AREsp n. 2.172.603/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/3/2023, DJe de 29/3/2023. )
+Ante o exposto, voto no sentido de rejeitar os presentes embargos de declaração.
