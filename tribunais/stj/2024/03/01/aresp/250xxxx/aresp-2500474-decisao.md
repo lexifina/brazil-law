@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 7 do STJ (e-STJ fls. 513/515).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 449):
+AÇÃO ORDINÁRIA C/C INDENIZAÇÃO POR DANOS MATERIAIS EMORAIS. CONTRATAÇÃO DE SEGURO. COMPROVAÇÃO. TARIFASBANCÁRIAS. REGULARIDADE DE DESCONTOS. INDENIZAÇÃO PORDANOS MORAIS. IMPROCEDÊNCIA. Reconhecidas as legítimas contratações e, portanto, a regularidade dos descontos, uma vez que a parte recorrente não faz prova de que houve fraude/simulação que os invalidariam, descabe a pretensão à indenização de ordem moral, pois não se constata qualquer conduta ilícita da instituição financeira, tampouco o dano, bem como a contacorrente encontrava-se devidamente ativa. Recurso a que se nega provimento.
+Os embargos de declaração foram rejeitados (e-STJ fls. 474/479).
+Nas razões do recurso especial (e-STJ fls. 486/494), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte alegou dissídio jurisprudencial e violação dos arts. 489, § 1º, IV, e 1.022, parágrafo único, II, do CPC/2015, porque (e-STJ fls. 491/492):
+Em que pese não se tratar o presente recurso de reanálise de fatos e provas, é imprescindível esclarecer que a recorrente, através de seu recurso de apelação e embargos de declaração trouxe elementos visíveis de fraude/simulação do banco recorrido, os quais não foram sequer apreciados pelos vv. acórdãos ora combatidos, senão vejamos:
+"1 º . na folha 01/02 da proposta não existe qualquer rubrica ou assinatura do representante legal da Apelante;
+2 º . a data de emissão da proposta constante do rodapé direito das folhas da proposta é 09 de maio de 2014. Podemos observar que na folha 02/02 da proposta de seguro foi lançado a data de assinatura do representante legal da Apelante em 19 de dezembro de 2014, ou seja, 07 (sete) meses depois;
+3 ª. para sacramentar e tornar incontroverso a fraude perpetrada pelo Banco Apelado, basta observar que na proposta de seguro consta as seguintes coberturas: incêndio, queda de raio e explosão de qualquer natureza, vendaval, granizo, queda de aeronave, danos elétricos, etc.. Endereço do local segurado: R CONDE PEREIRA CARNEIRO, 147, IMBIRIBEIRA, RECIFE - PE. Ocorre que, a empresa Apelante funcionou no referido imóvel até o dia 02 de fevereiro de 2014, conforme se depreende da Décima Quinta Alteração Contratual - Consolidada, id. 16935459, que fora colacionada aos autos quando da distribuição do presente feito. Assim, considerando a data da emissão da proposta de seguro ou a data que fora lançada na assinatura do representante da empresa Apelante, impossível, admitir que o seguro fosse efetivado para um endereço/imóvel onde a empresa Apelante não mais funcionava."
+ ..  também se quedaram silentes sobre o argumento da recorrente, apresentado em sede de apelação e embargos de declaração, o qual expõe as tarifas abusivas, visto que até mesmo a tabela juntada pelo banco recorrido demonstra uma gritante diferença entre o valor tabelado e os valores que foram efetivamente debitados na conta corrente da recorrente.
+No agravo (e-STJ fls. 516/525), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta não apresentada (e-STJ fls. 531/535).
+É o relatório.
+Decido.
+No presente caso, apesar da oposição de embargos declaratórios, o Tribunal de origem manteve omissão a respeito de questões pertinentes ao deslinde da causa, oportunamente suscitada pela parte, quais sejam, os argumentos da parte recorrente que corroborariam a fraude, como ausência de assinatura, as datas, bem como o endereço, e também sobre as tarifas serem abusivas considerada a tabela juntada pelo banco e os descontos.
+É pacífico neste Tribunal o entendimento segundo o qual, não havendo apreciação dos declaratórios em relação a ponto relevante, impõe-se a anulação do acórdão recorrido para que o recurso seja novamente apreciado.
+Assim, constatada a omissão, considerando que a análise fático-probatória não pode ser realizada por este juízo especial, os autos devem retornar ao Tribunal de origem.
+Ficam prejudicadas as demais questões apresentadas no recurso especial.
+Ante o exposto, CONHEÇO do agravo e DOU PROVIMENTO ao recurso, a fim de determinar o retorno dos autos ao Tribunal de origem para exame dos vícios apontados, nos termos da fundamentação.
+Publique-se e intimem-se.
+EMENTA
