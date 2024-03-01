@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 85, § 11, e 700 do Código de Processo Civil. O acórdão recorrido está retratado na seguinte ementa (fl. 140):
+APELAÇÃO. AÇÃO MONITÓRIA. COMPRA E VENDA DE REVISTAS. RELAÇÃO JURÍDICA COMPROVADA. PRODUTOS ENTREGUES. NÃO COMPROVAÇÃO DE FATO IMPEDITIVO, MODIFICATIVO OU EXTINTIVO DO DIREITO DO CREDOR. O orçamento emitido pelo vendedor, o e-mail subscrito pelo comprador autorizando a produção de revistas, as notas fiscais discriminando os produtos adquiridos, os preços e os vencimentos das parcelas, bem como o comprovante de recebimento da mercadoria são suficientes para fundamentar a ação monitória. Tendo o devedor pleno conhecimento dos termos do contrato, inexiste suporte contratual e muito menos legal para afastar o dever de pagamento, principalmente quando não comprovado fato impeditivo, modificativo ou extintivo.
+Foram opostos embargos de declaração, que ficaram retratados na seguinte ementa (fl. 158):
+EMBARGOS DECLARATÓRIOS. ART. 1.022 DO CPC. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E/OU ERRO MATERIAL. REJEIÇÃO DOS EMBARGOS. Ausente omissão, contradição, obscuridade ou erro material na decisão proferida, os embargos de declaração devem ser rejeitados.
+Sustenta a parte agravante que a prova escrita apta a ensejar a ação monitória deve revelar, de plano, a certeza e a liquidez do débito, o que não ocorre no presente caso.
+Afirma que, "à luz do art. 85, §11º do CPC, é manifestamente ilegal a imposição do acórdão que majora os honorários sucumbenciais fixados em primeira instância ao mesmo tempo que atesta formalmente não ter o nobre patrono da parte adversa ter sequer atuado em grau de recurso" (fl. 177).
+Assim posta a questão, passo a decidir.
+Verifico que o Tribunal de origem entendeu que os documentos apresentados constituem prova pré-constituída do débito, assim como formam prova escrita hábil, que é condição essencial para a propositura da ação monitória, conforme se extrai dos seguintes trechos (fls. 142/143):
+(..)
+O Código de Processo Civil, em seu art. 700, prevê que a ação deve ser proposta por aquele que tiver direito de exigir do devedor capaz, com base em prova escrita sem eficácia de título executivo.
+Analisando as provas produzidas, observo que a parte apelada enviou para a parte apelante o orçamento n. 456988 em 22 de setembro de 2015. Consta na proposta que a parte apelada produziria 52.000 revistas por R$ 52.322,40, valor que deveria ser pago em três parcelas (documento de ordem n. 7).
+O referido orçamento foi enviado por e-mail no dia 22 de setembro de 2014 pela representante da parte apelada e, no mesmo dia, a produção foi autorizada expressamente pelo coordenador de compras da parte apelante (documento de ordem n. 6).
+A parte apelada emitiu duas notas fiscais para a operação em tela. A primeira referente a faturamento dos produtos (nota fiscal n. 629692) e a segunda alusiva à saída das mercadorias do estabelecimento da vendedora (nota fiscal n. 629582). Apesar de constar números diferentes, as notas estão relacionadas aos mesmos produtos, isto é, 52.000 revistas sabores de minas set. 2015 pelo valor total de R$ 52.322,40 (documentos de ordens ns. 3 e 4).
+A documentação apresentada pela parte apelada também comprova que as revistas foram devidamente produzidas e entregues à apelante no dia 28 de setembro de 2015 (documento de ordem n. 5).
+Apesar do esforço argumentativo, a parte apelante não se desincumbiu do ônus de comprovar a inexistência da relação jurídica, tampouco a ausência de entrega dos produtos, ônus que lhe era próprio (art. 373, II, do CPC).
+É importante frisar que a diferença entre o valor estampado na nota fiscal e o valor cobrado nesta demanda foi devidamente justificada pela parte apelada, que esclareceu que a parte apelada promoveu o pagamento parcial da dívida.
+Assim, entendo que os documentos apresentados constituem prova pré-constituída do débito, formam prova escrita hábil, condição essencial para a propositura da ação, da qual conste a existência de dívida certa, líquida e exigível, despida de força executiva.
+(..)
+Com efeito, observo que rever tais conclusões da Corte local demandaria o reexame do acervo fático dos autos, situação vedada pelo óbice da Súmula n. 7 do STJ.
+Registro, por outro lado, que a jurisprudência do STJ já decidiu que "É possível a majoração dos honorários em sede de recurso, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, mesmo quando não apresentadas contrarrazões, pois se trata de medida que visa a desestimular a interposição de recursos infundados pela parte vencida" (AgInt no AREsp n. 1.460.199/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 23.11.2020, DJe de 27.11.2020).
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
