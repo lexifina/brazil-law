@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJDFT assim ementado (e-STJ fl. 127):
+AGRAVO DE INSTRUMENTO. COMPLEMENTAÇÃO DE APOSENTADORIA. PREVI. PRETENSÃO DE DENUNCIAÇÃO DA LIDE DE BANCO DO BRASIL. INTEMPESTIVIDADE E PRECLUSÃO. DECISÃO MANTIDA.
+01. Existe um momento oportuno para denunciação da lide. Se o denunciante for o autor, tem de denunciar a lide na petição inicial, sendo o réu, no prazo para defesa, em contestação, conforme preconiza o art. 126 do Código de Processo Civil - CPC. Ultrapassado esse momento processual, dá-se a preclusão da possibilidade de denunciar à lide.
+02. Recurso conhecido e desprovido. Unânime.
+Os embargos de declaração foram rejeitados (e-STJ fls. 152/157).
+Nas razões recursais (e-STJ fls. 969/975), fundamentadas no art. 105, III, "a" e "c", da CF, a parte recorrente aponta dissídio jurisprudencial e violação dos arts. 108, 114, 125, II, 126, 329, II, 493, 927 e 1.022 do CPC, sustentando, preliminarmente, negativa de prestação jurisdicional.
+No mérito, afirma a "necessidade de integração do patrocinador no feito para responder diretamente pelo resultado negativo de seu ilícito trabalhista, atinente à supressão indevida de verbas trabalhistas que influem na totalidade do déficit atuarial, com evidente formação de litisconsórcio passivo necessário diante da inutilidade do provimento judicial sem a sua integração" (e-STJ fl. 166) .
+Foram apresentadas contrarrazões (e-STJ fls. 192/201).
+É o relatório.
+Decido.
+O Tribunal a quo decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da recorrente, não se identificando omissão, contradição ou obscuridade no acórdão impugnado.
+A Suprema Corte, ao examinar a competência da Justiça do Trabalho ou da Justiça comum para proces sar e julgar ação trabalhista ajuizada contra o empregador, na qual se pretenda o reconhecimento de verbas de natureza trabalhista e seus reflexos em contribuições previdenciárias para a entidade de previdência privada a ele vinculada, fixou, em repercussão geral, a seguinte tese (Tema n. 1.166/STF): "Compete à Justiça do Trabalho processar e julgar causas ajuizadas contra o empregador nas quais se pretenda o reconhecimento de verbas de natureza trabalhista e os reflexos nas respectivas contribuições para entidade de previdência privada a ele vinculada."
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO - DECISÃO MONOCRÁTICA RECONHECENDO A INCOMPETÊNCIA ABSOLUTA DA JUSTIÇA COMUM. INSURGÊNCIA DA DEMANDADA.
+1. Demanda originária ajuizada em face da CEF e FUNCEF, buscando o reconhecimento da natureza salarial da verba CTVA, com a recomposição da reserva matemática e revisão do benefício de previdência complementar.
+2. Nos termos da jurisprudência deste STJ, a causa apresenta cumulação de pretensões de naturezas distintas, havendo a necessidade de prévio julgamento da controvérsia trabalhista.
+3. Julgado da Segunda Seção desta Corte Superior no sentido da competência do Juízo do Trabalho para conhecer do pedido inicialmente, decidindo-o nos limites da sua jurisdição.
+4. Aplicação da tese firmada pelo STF no sentido de que "compete à Justiça do Trabalho processar e julgar causas ajuizadas contra o empregador nas quais se pretenda o reconhecimento de verbas de natureza trabalhista e os reflexos nas respectivas contribuições para a entidade de previdência privada a ele vinculada" (Tema 1.166 - RE 1.265.564-SC).
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.136.653/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. HORAS EXTRAS. 1. OFENSA AO ART. 489 DO CPC/2015 NÃO CONFIGURADA. 2. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 3. PRETENSÃO DE INCLUSÃO DE VERBAS RECONHECIDAS PELA JUSTIÇA TRABALHISTA APÓS A CONCESSÃO DO BENEFÍCIO. INEXISTÊNCIA DE LEGITIMIDADE PASSIVA DO PATROCINADOR. PEDIDO PREJUDICADO NESSE PONTO. INCIDÊNCIA DA SÚMULA 83/STJ. 4. PRESCRIÇÃO QUINQUENAL. PRECEDENTES. 5. AGRAVO INTERNO DESPROVIDO.
+1. Da análise do acórdão recorrido, verifica-se que todas as questões suficientes ao deslinde da controvérsia foram efetivamente analisadas pelo Tribunal de origem, não havendo falar em violação ao art. 489 do Código de Processo Civil de 2015.
+2. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do recurso especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+3. Em relação à legitimidade do Banco do Brasil S.A., esta Corte Superior possui entendimento no sentido de que, em ação na qual se busca a revisão do valor da complementação de aposentadoria (previdência privada), em decorrência do reconhecimento do direito a verbas na Justiça trabalhista, o patrocinador (ex-empregador) é parte ilegítima para figurar no polo passivo da demanda, porquanto seu interesse é meramente econômico, e não jurídico.
+3.1. Além disso, na hipótese, impende pontuar que a Justiça comum não é competente para apreciar o pedido de recompensação da reserva matemática apresentado contra o ex-empregador. Esse é o entendimento firmado pelo Supremo Tribunal Federal no julgamento do RE n. 1.265.564/SC, sob o rito dos recursos repetitivos - Tema n. 1.166/STF.
+3.2. Ademais, a Segunda Seção do Superior Tribunal de Justiça, no julgamento do REsp n. 1.778.938/SP - Tema n. 1.021/STJ, ampliando o entendimento firmado no REsp n. 1.312.736/RS, apontou de forma expressa, na modulação de efeitos, que a recomposição prévia deve ser realizada integralmente pelo participante.
+4 . Com efeito, "a prescrição da demanda de revisão do benefício de previdência privada, quando discutido o cálculo de seu valor inicial, não atinge o próprio fundo de direito, mas apenas as diferenças não reclamadas de datas prévias aos 5 (cinco) anos imediatamente anteriores à propositura da ação" (AgRg no AREsp 351.805/RS, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 22/3/2018, DJe 2/4/2018).
+5. Agravo interno desprovido.
+(AgInt no REsp n. 1.924.345/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022.)
+Os argumentos apresentados pela parte recorrente não são, portanto, suficientes para modificar a decisão que indeferiu a denunciação da lide.
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
+EMENTA
