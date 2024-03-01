@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto pela ITAVEMA ITÁLIA VEÍCULOS E MÁQUINAS LIMITADA, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado (e-STJ fl. 1.156):
+APELAÇÃO EM MANDADO DE SEGURANÇA. TRIBUTÁRIO. PERT. ÓBICE. DETERMINAÇÃO JUDICIAL PROFERIDA EM AGRAVO DE INSTRUMENTO. DEVOLUÇÃO DE VALORES DE DEPÓSITO JUDICIAL. LEVANTAMENTO INDEVIDO. IMPOSSIBILIDADE DE APROVEITAMENTO DE BENEFÍCIO FISCAL QUANTO ÀQUELES VALORES. RECURSO DESPROVIDO.
+1. O objeto mandamental cinge-se, na questão de fundo, ao conteúdo do provimento jurisdicional proferido por esta Sexta Turma em sede do AI 0029527-89.2011.4.03.0000, já transitado em julgado. Dado o cálculo equivocado quando da quitação do débito então discutido sob as benesses da Lei 11.941/09, ficou constatada a irregularidade do levantamento de parte dos depósitos efetuados naquela ação, determinado, a partir do julgamento de agravo de instrumento, a imediata devolução dos valores.
+2. Registre-se que, conquanto seja opção voluntária da parte efetuar o depósito judicial dos valores discutidos no processo, ficam aqueles valores vinculados ao seu resultado, resgatando-se a disponibilidade somente após ter a parte decisão que lhe seja favorável, acobertada pela coisa julgada. Promovido o levantamento dos valores depositados, tem-se a indevido necessidade da imediata devolução, em respeito ao ditame legal.
+3. Nesta senda, decorre a impossibilidade de a impetrante obter o benefício fiscal pleiteado. Independentemente de considerar os valores cobrados como os créditos tributários remanescentes do equivocado cálculo, ou como os valores levantados e até então depositados, tem-se a determinação judicial da , imediata devolução integral dos mesmos justamente em respeito às regras atinentes ao depósito judicial e a sua disponibilidade integralmente condicionada ao resultado do processo.
+4. Não há litispendência, mas a análise dos efeitos da decisão proferida no agravo de instrumento para fins de eventual gozo do benefício fiscal do PERT - no caso, o seu óbice.
+Os embargos de declaração foram rejeitados com imposição de multa (e-STJ fls. 1.210/1.211).
+A recorrente alega, em essência, que (e-STJ fl. 1.242):
+i) violação d o art. 1.022 do Código de Processo Civil, tendo em vista a existência de omissões no julgado, devidamente suscitadas em sede de embargos de declaração;
+ii) ofensa ao art. 1º, § 2º, da Lei nº 13.491/17 e ao art. 805 do CPC, porquanto se o débito da Recorrente é passível de inclusão no programa de parcelamento, por atender a todos os requisitos da lei, o impedimento de sua adesão configura evidente vício de consentimento e, consequentemente, a prática de um ato ilegal e abusivo a ensejar a concessão da ordem de segurança pleiteada, sobretudo porque o objetivo da decisão proferida nos autos do agravo de instrumento nº 0029527.10.2004.4.03.6100 (devolução dos valores levantados) será igualmente alcançado;
+iii) violação ao art. 1.026, §2º, do CPC, pela ausência de qualquer intuito protelatório aos embargos declaratórios opostos pela Recorrente, bem como seu expresso propósito de prequestionamento, devendo ser aplicado o entendimento consolidado na Súmula 98 deste E. STJ.
+Contrarrazões às e-STJ fls. 1.269/1.270.
+O recurso especial foi admitido na origem (e-STJ fls. 1.280/1.283).
+Às e-STJ fls. 1.329/1.352, ITAVEMA ITÁLIA VEÍCULOS E MÁQUINAS LIMITADA e OUTROS anunciam a realização de "Negócio Jurídico Processual" e requerem a suspensão do feito.
+Intimada, a FAZENDA NACIONAL manifesta concordância com o pedido de suspensão (e-STJ fl. 1.359).
+Passo a decidir.
+Às fls. 1.330/1.337, verifica-se, de fato, a celebração do Termo de Negócio Jurídico Processual com a FAZENDA NACIONAL, realizando no âmbito da Procuradoria-Regional da Fazenda Nacional na 3ª Região.
+Cuida-se, em última análise, de um acordo realizado entre as partes com vistas ao parcelamento da dívida tributária, o que representa, nos termos do art. 151, VI, do CTN, a suspensão da exigibilidade do crédito tributário. Em caso análogo: REsp 2.031.473/PE, Ministro Herman Benjamin, DJe 19/12/2022 ).
+Ante o exposto, com fulcro nos arts. 313, II, e 921 do CPC/2015, determino a DEVOLUÇÃO dos autos ao Juízo de origem, com a devida baixa nesta Corte, para que o processo permaneça suspenso até o termo final do acordo celebrado entre as partes.
+Publique-se. Intimem-se.
+EMENTA
