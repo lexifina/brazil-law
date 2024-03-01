@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 363/364):
+DIREITO PREVIDENCIÁRIO. AÇÃO DECLARATÓRIA. INEXISTÊNCIA DE DÉBITO PREVIDENCIÁRIO. VALORES RECEBIDOS INDEVIDAMENTE A TÍTULO DE APOSENTADORIA. RESSARCIMENTO AO ERÁRIO. BOA FÉ OBJETIVA.
+- O e. Superior Tribunal de Justiça, ao analisar o Tema 979 (REsp1.381.734/RN), cuja questão levada a julgamento foi a "Devolução ou não de valores recebidos de boa-fé, a título de benefício previdenciário, por força de interpretação errônea, má aplicação da lei ou erro da Administração da Previdência Social", fixou a seguinte tese: "Com relação aos pagamentos indevidos aos segurados, decorrentes de erro administrativo (material ou operacional) não embasado em interpretação errônea ou equivocada da lei pela administração, são repetíveis, sendo legítimo o desconto no percentual de até 30% do valor do benefício pago ao segurado/beneficiário, ressalvada a hipótese em que o segurado, diante do caso concreto, comprove sua boa-fé objetiva, sobretudo com demonstração de que não lhe era possível constatar o pagamento indevido."
+- Extrai-se da tese fixada que, para a eventual determinação de devolução de valores recebidos indevidamente, decorrente de erro administrativo diverso de interpretação errônea ou equivocada da lei, faz-se necessária a análise da presença, ou não, de boa-fé objetiva em sua percepção. Notório que a boa-fé se presume e a má-fé há de ser provada.
+- No caso dos autos, das provas colacionadas, não se extrai que o segurado ADAUTO TOMAZ MARTINS tenha cometido fraude no processo administrativo de concessão do benefício de amparo social ao idoso, não restando, portanto, configurada a sua má-fé.
+- Mantida a r. sentença, com a consequente procedência do pedido formulado pelo autor.
+- Em razão da sucumbência recursal, majorados em 100% os honorários fixados em sentença, observando-se o limite máximo de 20% sobre o valor da causa, a teor dos §§ 2º e 11 do art. 85 do CPC/2015.- Apelação do INSS improvida.
+No recurso especial obstaculizado, a parte recorrente apontou contrariedade do art. 115 da Lei n. 8.213/1991; do art. 154, § 3º, do Decreto n. 3.048/1999 e dos arts. 186, 876, 884, 885 e 927 do CC/2002, argumentando que deve haver a restituição dos valores pagos indevidamente pelo INSS no caso, tendo em vista que o recorrido agiu de má-fé, aproveitando-se da fraude, devendo ser afastado a aplicação o Tema 979 do STJ.
+Afirmou também que, tratando-se de ato ilícito, fica obrigado o recorrente a reparar o dano proveniente de sua conduta, sob pena de enriquecimento sem causa, trazendo os seguintes argumentos (e-STJ fls. 382/388):
+No caso, o v. acórdão recorrido reconhece a atitude CRIMINOSA do servidor para extrair VANTAGEM na concessão do benefício e, de outro lado, descarta a possibilidade de restituição pela parte autora por suposta boa-fé:
+Ora, a quem aproveitou a fraude praticada pelo servidor senão ao próprio autor  Como se admitir a boa-fé de uma segurada que veio recebendo por anos um benefício apenas concedido em virtude de emprego de meios ardis por aquele servidor.
+Com efeito, como bem posto no voto vencido da DES. FED. DALDICE SANTANA, o caso envolve fraude perpetrada contra a Administração, matéria que não se confunde com o erro administrativo tratado no Tema n. 979 do STJ. Vale dizer: não houve erro operacional da Administração, mas a prática de ato viciado, em virtude do emprego de meios artificioso.
+ ..
+Ademais, a boa-fé objetiva significa agir de acordo com determinados padrões estabelecidos socialmente, de correção, lealdade, lisura e honestidade, sempre considerando a condição pessoal e cultural da pessoa. A contrario sensu, a prática de conduta em desacordo com o padrão esperado para determinada pessoa em determinadas condições configura má-fé sob o prisma objetivo.
+É importante esclarecer que a revisão e cancelamento do beneficio de aposentadoria por idade da parte autora não se tratou de revisão de um simples ato administrativo isolado, mas decorreu de um complexo processo de revisão que envolveu uma série de benefícios concedidos irregularmente pela agência de Aparecida do Taboado, principalmente entre os anos de 2004 e 2006.
+Tal incidente resultou, inclusive, em abertura de Processo Administrativo Disciplinar em relação ao servidor responsável, que culminou aplicação de PENA DE DEMISSÃO A BEM DO SERVIÇO PÚBLICO, bem como foi noticiado em vários meios jornalísticos:
+ ..
+Desta forma, NÃO SE TRATA DE UM CASO DE SIMPLES ERRO ADMINISTRATIVO, MAS SIM DE FRAUDE, na qual fica claramente configurada a FALTA DE BOA-FÉ OBJETIVA DO RECORRIDO, sendo, portanto, indevida a aplicação do tema 979 do STJ ao presente caso.
+Assim, no procedimento administrativo juntado aos autos está bem patenteada a fraude, de modo que a cobrança restou totalmente embasada na legislação em vigor, não havendo dúvidas quanto o poder da Administração de rever seus próprios atos quando eivados de vícios.
+Segundo o artigo 69 da Lei 8.212/91:
+ ..
+Deve-se mencionar ainda que o disposto no artigo 115, inciso II, parágrafo 1.º (antigo parágrafo único), da lei, ao dizer que o desconto será parcelado, ressalva expressamente a hipótese de má-fé. Ou seja, o desconto será parcelado, salvo má-fé, fraude, dolo, que é o caso dos autos. É o que expressamente diz a lei:
+ ..
+Trata-se do ato ilícito. Lado outro, todo aquele que cometer ato ilícito, fica obrigado a reparar o dano proveniente de sua conduta ou omissão.
+A responsabilidade pela reparação do dano, no caso sob exame, tem natureza subjetiva e é fundamentada na teoria da responsabilidade extracontratual ou aquiliana, que se satisfaz com a equação: ação/omissão  dano = responsabilidade. Havendo um nexo entre a conduta (comissiva ou omissiva) animada pelo elemento dolo ou culpa, provocadora de um dano (material e/ou moral), o agente que agiu ou se omitiu deve responder pelos prejuízos causados.
+ ..
+Ora mesmo de boa-fé, admite-se a restituição de valores indevidamente pagos pelo INSS, sob pena de enriquecimento ilícito da credora em observância ao previsto nos artigos 876 e 884 a 885 do Código Civil.
+ ..
+Sem contrarrazões (e-STJ fls. 391).
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+Em relação à alegada ofensa dos arts. 115 da Lei n. 8.213/1991; 154, § 3º, do Decreto n. 3.048/1999; e 186, 876, 884, 885 e 927 do CC/2002, no caso, o Tribunal a quo concluiu em sentido oposto ao postulado, por consignar que as provas colacionados não comprovam que o segurado tenha cometido fraude no processo administrativo de concessão do benefício, portanto, não estando configurada a má-fé, a saber (e-STJ fl. 358):
+No caso dos autos, das provas colacionadas, não se extrai que o segurado ADAUTO TOMAZ MARTINS tenha cometido fraude no processo administrativo de concessão do benefício de amparo social ao idoso, não restando, portanto, configurada a sua má-fé.
+Nesse passo, a modificação do julgado, nos moldes pretendidos, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CÁLCULOS. OFENSA À COISA JULGADA E PRECLUSÃO. CONSTATAÇÃO. IMPOSSIBILIDADE. ÍNDICE DE CORREÇÃO MONETÁRIA. SÚMULA 283 DO STF. MULTA POR LITIGÂNCIA DE MÁ-FÉ. AFASTAMENTO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE. DIVERGÊNCIA JURISPRUDENCIAL. EXAME. PREJUÍZO.
+ ..
+7. Divergir do aresto impugnado acerca do enquadramento da parte nas condutas dos incisos II e V do art. 80 do CPC/2015, pois estava "distorcendo completamente o que foi decidido" e praticando "atos incompatíveis com a boa-fé processual", esbarra no óbice da Súmula 7 do STJ, visto que demanda imperioso reexame dos fatos e provas constantes nos autos.
+8. A análise da divergência jurisprudencial fica prejudicada se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional.
+9. Agravo interno desprovido.
+(AgInt no AREsp 1.311.173/MS, de minha relatoria, Primeira Turma, julgado em 5/10/2020, DJe de 16/10/2020)
+Ademais, a pretensão recursal não pode ser conhecida, pois a parte autora não impugnou todos os fundamentos do acórdão recorrido, os quais destaco (e-STJ fl. 358):
+Ademais, verifico que houve ajuizamento pelo segurado de demanda com fim de restabelecimento do benefício assistencial cessado pela Autarquia (NB 133.594.021-6), a qual, ante a constatação da presença dos requisitos legais para a concessão do benefício, foi julgada procedente, inclusive com trânsito em julgado do feito (Processo nº 0003549-60.2014.8.26.0185,que tramitou junto à 1ª Vara de Estrela D"Oeste - ID 251986846 - págs. 260/274).
+Nesse sentido, ressalto que, ainda que considerada a pensão por morte recebida pela esposa do autor, o requisito da miserabilidade restou preenchido, conforme conclusão do supracitado processo ajuizado.
+No recurso especial, por sua vez, o recorrente limitou-se a defender que há necessidade de restituição dos valores pagos indevidamente, tendo em vista que o segurado agiu de má-fé, aproveitando-se do ato ilícito, a evidenciar, pelo cotejo entre as razões do recurso e do acórdão, o desencontro entre o que foi decidido e a pretensão recursal deduzida.
+A falta de pertinência entre as razões do recurso especial e a decisão questionada revela-se apta a atrair o óbice contido na Súmula 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"), pois não é possível conhecer de recurso especial que invoca como violado dispositivo de lei federal que não possui comando normativo apto a infirmar a tese adotada pelo acórdão recorrido.
+Ilustrativamente, cito:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. AGRAVO REGIMENTAL. DECISÃO MONOCRÁTICA. INDEFERIMENTO LIMINAR DA AÇÃO. INCOMPETÊNCIA DO STJ PARA CONHECER ORIGINARIAMENTE DO WRIT. VEICULAÇÃO DE RAZÕES DISSOCIADAS. APLICAÇÃO DA SÚMULA 284/STF. PRECEDENTES DO STJ. AGRAVO REGIMENTAL DO IMPETRANTE NÃO CONHECIDO.
+1. Aplica-se o óbice da Súmula 284/STF quando o recurso veicular razões dissociadas dos fundamentos da decisão recorrida.
+2. No caso, a decisão agravada apenas reconheceu a incompetência do STJ, por não se configurar a hipótese do art. 105, I, b da CF/88, matéria não recorrida.
+3. Agravo Regimental do Impetrante não conhecido.
+(AgRg no MS 19.557/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 14/12/2016, DJe 2/2/2017).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284 DO STF.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. O acolhimento de recurso especial por violação ao art. 535 do CPC/1973 pressupõe a demonstração de que a Corte de origem, mesmo depois de provocada mediante embargos de declaração, deixou de sanar vício de integração contido em seu julgado, o que não ocorreu na espécie.
+3. Não é possível conhecer de recurso especial que invoca como violado dispositivo de lei federal que não possui comando normativo apto a infirmar a tese adotada pelo acórdão recorrido. Inteligência da Súmula 284 do STF.
+4. Agravo interno desprovido.
+(AgInt no AREsp 290.622/MG, de minha relatoria, PRIMEIRA TURMA, julgado em 02/05/2017, DJe 20/06/2017).
+Além disso, "(..) como a fundamentação supra é apta, por si só, para manter o decisum combatido, e não houve contraposição recursal ao ponto, aplica-se na espécie, por analogia, o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."" (REsp 1.666.566/RJ, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 06/06/2017, DJe 19/06/2017).
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agrav o para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
