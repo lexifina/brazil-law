@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 833, IX, e 854, § 3º, I, do Código de Processo Civil, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 31):
+AGRAVO DE INSTRUMENTO - Cumprimento de sentença - Impenhorabilidade do faturamento do executada reconhecida - Associação beneficente de assistência social e hospitalar declarada de utilidade pública - Impenhorabilidade de seus bens em decorrência da Lei nº 14.334/2022 - Impenhorabilidade do faturamento bem reconhecida - Recurso não provido.
+Foram opostos embargos de declaração, que ficaram retratados na seguinte ementa (fl. 47):
+Embargos de declaração - Omissão - Não ocorrência - Caráter infringente dos embargos opostos - Pretendida rediscussão de matéria que já foi objeto de apreciação por esta C. Câmara - Prequestionamento - Desnecessidade de mencionar individualmente cada um dos artigos indicados para fins de futura interposição recursal - Basta que as questões impugnadas sejam apreciadas de forma fundamentada - Embargos rejeitados
+Sustenta a parte agravante que "a impenhorabilidade legal não é presumida e não abrangerá verbas eventualmente recebidas de planos de saúde e pacientes particulares, cabendo à parte comprovar, quando efetivada a penhora, a origem dos valores atingidos" (fl. 59).
+Assim posta a questão, passo a decidir.
+Observo que a Corte local manteve a decisão que, em cumprimento de sentença, tornou sem efeito a determinação de penhora sobre o faturamento da executada, ora agravada, diante da proteção legal conferida pela Lei n. 14.334/2022, conforme os seguintes fundamentos (fls. 33/34):
+(..) A executada é associação beneficente de assistência social e hospitalar declarada de utilidade pública conforme publicação do Diário Oficial da União (fls. 138/146), possuindo certificado de entidade beneficente de assistência social.
+Dessa forma, a impenhorabilidade de seus bens, exceto obras de arte e adornos suntuosos, decorre de disposição legal, artigo 2º da Lei nº 14.334 de 10/05/2022.
+Com efeito, o faturamento compõe o acervo patrimonial da executada, ativo que possui grande potencial de proporcionar a continuidade de suas atividades. Portanto, permitir a sua penhora violaria a finalidade da lei que é preservar os bens necessários para o desenvolvimento das atividades de assistência social e hospitalar, que possuem importante contribuição para a concretização do direito social e do interesse público.
+Aliás, a legislação garante a impenhorabilidade dos bens das entidades beneficentes, sem excepcionar o faturamento, sendo possível a penhora apenas das obras de arte e dos adornos suntuosos, vez que a supressão de tais bens não prejudicaria a continuidade da atividade social.
+Portanto, visando à proteção legal conferida às entidades beneficentes, não é possível a penhora sobre o faturamento, devendo ser mantida a decisão agravada.
+(..)
+Como se vê, a questão da impenhorablidade de bens foi analisada sob o enfoque da Lei n. 14.334/2022, de modo que incide o enunciado n. 282 da Súmula do STF quanto aos arts. 833, IX, e 854, § 3º, I, do Código de Processo Civil, pois a Corte de origem não debateu acerca da tese constante dos referidos dispositivos, faltando o indispensável prequestionamento, do qual não estão isentas sequer as questões de ordem pública.
+Registro, ademais, que o dissídio jurisprudencial não foi demonstrado nos termos dos arts. 1.029, § 1º, do Código de Processo Civil, e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça; para tanto, é necessária a demonstração da similitude fática e da divergência na interpretação do direito entre os acórdãos confrontados, o que não ocorreu na espécie.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
