@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial contra acórdão assim ementado (fl. 539):
+COMPROMISSO DE COMPRA E VENDA. Atraso na entrega. Ação de rescisão c.c. reparação e danos julgada procedente para declarar a rescisão, condenando os réus, solidariamente, à devolução dos valores pagos, bem como ao pagamento de indenização por lucros cessantes. Insurgência do corréu Banco Pan S/A quanto à condenação solidária à devolução dos valores pagos e ao pagamento de indenização.
+O Banco Pan S/A, na qualidade de credor fiduciário, não pode responder pelo descumprimento das obrigações da vendedora Parque Gabriel Residencial. Inteligência do artigo 31-A, § 12, da Lei 4.591/64. Precedentes desta Câmara. Apelante que não integra a cadeia de fornecimento.
+Ausência de demonstração, ademais, de que o autor efetuou pagamentos diretamente ao agente financiador do empreendimento a afastar a sua obrigação de restituição dos valores pagos. Reforma da sentença para julgar a ação improcedente quanto ao apelante. RECURSO PROVIDO.
+A instituição financeira sustenta que os honorários não poderiam ser fixados com base na equidade, mas em percentual sobre o valor atribuído à causa (R$ 1.859.792,48 - um milhão oitocentos e cinquenta e nove mil setecentos e noventa e dois reais e quarenta e oito centavos).
+Relatados, passo a decidir.
+Registrou-se no acórdão recorrido (fls. 542/544):
+.. na qualidade de credor fiduciário, não pode o corréu Banco Pan responder pelo descumprimento das obrigações da construtora Parque Gabriel Residencialle perante o adquirente.
+(..)
+Tampouco caberia ao recorrente responder pela devolução dos valores pagos pelo autor visto que, malgrado a notícia de que alguns compradores efetuaram pagamentos diretamente a ele, verifica-se que o demandante pagou o preço dos 6 (seis) imóveis à vista, diretamente à vendedora (fls. 49/126).
+Ademais, apesar de a relação jurídica trazida a julgamento enquadrar-se no contexto consumerista, não se pode afirmar que o Banco Pan tenha participado da venda do imóvel ao apelado, não integrando a cadeia de fornecimento ligada à alienação dos imóveis.
+Portanto, quanto ao apelante, a sentença comporta reforma para julgar os pedidos improcedentes, condenando-se o autor ao pagamento das custas e despesas processuais deste, bem como os honorários advocatícios, aqui fixados por equidade em R$10.000,00 (dez mil reais), já observado o trabalho exercido em grau de recurso.
+Depreende-se, pois, dos autos, que se trata de ação de rescisão de contrato com reparação de danos por atraso na entrega de imóvel.
+A instituição financeira, na qualidade de mero agente financiador do negócio jurídico inicialmente firmado, teve o pedido contra si julgado improcedente.
+O Tribunal de origem, como visto, fixou a verba honorária em R$ 10.000,00 (dez mil reais).
+Verifica-se da inicial que a parte formulou pedido genérico de rescisão contratual contra todos os litigantes, sem individualizar condutas e responsabilidades específicas, invocando a responsabilidade solidária dos requeridos nos seguintes termos (fls. 16/17):
+III. - 2 - DA RESPONSABILIDADE SOLIDÁRIA DOS REQUERIDOS
+Ainda, em relação ao 2º Requerido, instituição financeira com a qual a 1ª Requerida celebrou Instrumento Particular de Financiamento para Construção de Empreendimento Imobiliário com Garantia Hipotecária, Cessão Fiduciária de Recebíveis Imobiliários e Outras Avenças, para a qual os pagamentos passaram a ser realizados pelo Requerente, assim como para quem foi gravado ônus hipotecário da unidade adquirida (vide documentos anexos - carta do 2º Requerido noticiando a cessão de crédito pela Requerida e se apresentando aos adquirentes do empreendimento).
+Demais disso, anote-se que a construção da obra somente teve início após a concretização do referido contrato entre a 1ª Requerida e o 2º Requerido, o que assegurou a solidez do empreendimento frente ao Requerente.
+O pedido veiculado na inicial, a seu turno, também foi genérico, reiterando a alegação de solidariedade e postulando-se, no que importa para este recurso, o seguinte (fls. 38/39):
+6) declarar a responsabilidade solidária dos Requeridos;
+7) DECLARAR RESCINDIDO O CONTRATO E IMPOR AOS REQUERIDOS OS SEGUINTES PAGAMENTOS:
+a) devolução dos valores pagos, com a incidência de correção monetária e juros de 1º ao mês desde o desembolso, conforme demonstrativos anexos (doc. 11), que atualizados até a data da propositura do feito somam R$ 1.859.792,48 (hum milhão oitocentos e cinquenta e nove mil setecentos e noventa e dois reais e quarenta e oito centavos), retornando as partes ao status quo ante, sem qualquer retenção pelos Requeridos;
+b) lucros cessantes correspondentes ao aluguel mensal da unidade compromissada, equivalente a 0,8% (oito décimos por cento) do valor dos imóveis atualizado, computados da data prevista para entrega até a rescisão do contrato, com os acréscimos legais;
+c) condenar os Requeridos ao pagamento dos honorários extrajudiciais (contratuais), no importe de R$ 16.000,00 (dezesseis mil reais) mais 20% (vinte por cento) do proveito econômico da ação;
+Trata-se, portanto, de situação que não se enquadra nas hipóteses de incidência do art. 85, § 8º, do CPC, eis que houve pedido específico com conteúdo econômico valorado pela parte autora, motivo por que o acórdão estadual merece ser parcialmente reformado.
+Deve, pois, incidir a Tese repetitiva nº 1.076 do Superior Tribunal de Justiça, de seguinte teor:
+"i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo".
+No caso, como dito, o pedido da condenação total foi formulado solidariamente contra todos os réus, de forma genérica e indistinta.
+Não se pode presumir, assim, que o benefício econômico auferido por um dos réus teria como base de cálculo o total perseguido em juízo, sob pena de incidência dos percentuais de honorários em forma de bis in idem sobre uma mesma base de cálculo.
+Se o pedido formulado em face do agente financeiro tivesse sido exclusivamente a rescisão do contrato de financiamento, com retorno ao status quo ante (e restituição dos valores mutuados), a base de cálculo do benefício econômico perseguido seria a diferença entre os valores inicialmente mutuados e os valores devidos ao final do contrato.
+Não foi o caso dos autos, em que se postulou uma quantia exata contra todos os litigantes, de forma solidária.
+O benefício econômico, portanto, para efeitos de fixação de sucumbência na hipótese em exame, deve ser calculado à base de 1/3 (um terço) do benefício econômico perseguido, eis que há três réus.
+No caso, atribui-se ao autor a responsabilidade quanto ao pagamento à instituição financeira porque, diferentemente dos demais ré us, a ora recorrente logrou êxito em afastar a pretensão contra ela veiculada.
+Em face do exposto, dou parcial provimento ao recurso especial para arbitrar os honorários devidos à parte recorrente em 10% (dez por cento) sobre o benefício econômico alcançado pela recorrente (1/3 do benefício econômico pretendido pelo autor), a ser devidamente apurado em liquidação de sentença.
+Intimem-se.
+EMENTA
