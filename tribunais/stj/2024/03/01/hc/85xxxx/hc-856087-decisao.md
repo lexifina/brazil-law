@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de LUIZ EDUARDO AURICCHIO BOTTURA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2206717-10.2023.8.26.0000).
+Consta dos autos que a defesa impetrou habeas corpus perante o Tribunal de origem pretendendo o trancamento do Inquérito Policial n. 09900-95.2016.8.26.0050, instaurado para apurar eventual prática de crime previsto no art. 337 do Código Penal, praticado pelo paciente. A conduta delituosa a ele atribuída é de que teria comparecido até o 22º Tabelião de Notas da Comarca da Capital, de posse de uma procuração, subtraída do Processo n. 0235227-70.2007.8.26.0100, em trâmite perante a 8ª Vara Cível do Foro Central da Capital, para autenticação de sua assinatura.
+A Corte estadual denegou a ordem, nos termos da seguinte ementa (e-STJ fl. 14):
+HABEAS CORPUS. Subtração de documento (art. 337,CP). Pleito de trancamento de inquérito policial, por excesso de prazo e ante admissão da vítima de que não houve crime. Inquérito policial instaurado em razão de suposta subtração de procuração de processo judicial em trâmite perante Vara Cível pelo paciente, que a teria levado a Tabelião de Notas para autenticação de assinatura. Ausência de pedido ao juízo de primeira instância, competente para primeira análise, sob pena de supressão de instância. Ofícios expedidos ao juízo da Vara Cível necessários à elucidação dos fatos, ante as versões conflituosas da vítima no transcurso do IP. Excesso de prazo não configurado. Processo de origem físico, não havendo elementos aqui coligidos a revelar desídia ou inércia no curso dos atos processuais. Feito que já conta com determinação de vista ao MPSP, após resposta aos ofícios, para manifestação sobre o prosseguimento do feito. Inexistência de prova pré-constituída. Ausência de constrangimento ilegal. Ordem denegada.
+Daí o presente habeas corpus, em que a defesa alega, em suma, que (i) não há razões para postergar o arquivamento do inquérito policial, dado que a referida procuração está nos autos e a própria vítima admitiu que tal documento não foi extraviado; (ii) já transcorreram quase oito anos da instauração do inquérito policial, revelando ineficiência estatal; e (iii) não há diligência pendente a impedir o trancamento do procedimento investigativo.
+Requer, em liminar, seja determinada a conclusão do inquérito policial em 30 dias. No mérito, pugna pela concessão da ordem para determinar o trancamento do inquérito policial.
+O pedido liminar foi indeferido (e-STJ fls. 60/61).
+O Ministério Público Federal manifestou-se pela denegação da ordem de habeas corpus (e-STJ fls. 83/92).
+É o relatório.
+Decido.
+Em consulta aos autos eletrônicos do inquérito policial n. 0009900-95.2016.8.26.0050 (por meio do site https://www.mpsp.mp. br/inqueritos-policiais-e-seus-andamentos-no-mp, acessado em 07/02/2024), verifica-se que, em 29/11/2023, o Ministério Público do Estado de São Paulo promoveu o arquivamento do feito por ausência de justa causa para a propositura de ação penal em desfavor do ora paciente.
+Assim, patente que o presente writ está prejudicado, haja vista a perda superveniente de objeto.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno desta Corte, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
