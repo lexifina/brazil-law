@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 7/STJ (e-STJ fls. 847/849).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 748):
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO ANULATÓRIA. REVELIA. INCAPACIDADE PARA OS ATOS DA VIDA CIVIL. INTERDIÇÃO DECRETADA. AUSÊNCIA DE PROVA QUANTO AO MOMENTO DA CONTRATAÇÃO COM O BANCO IBI. ÔNUS DA PROVA DA AUTORA. NULIDADE DOS DEMAIS CONTRATOS E RETORNO DAS PARTES AO STATUS QUO ANTE. SENTENÇA MANTIDA. A nulidade do contrato firmado com o Banco IBI dependia de provas sobre o momento de sua celebração, já que não há demonstração de que ele tenha sido firmado após à sentença que reconheceu a interdição da parte autora, tampouco que o curador não tenha dele participado. O ônus da prova compete a quem alega e não havendo comprovação do fato noticiado pela parte autora, a improcedência do pedido é medida imperativa, inobstante a decretação da revelia da parte recorrida, que não eximia a interditada de demonstrar o momento da contratação. O retorno das partes ao status quo ante não impede a responsabilização da interditada se algum prejuízo foi sofrido pelo concedente do crédito, inclusive autoriza a imposição de indenização, caso inviável a restituição, a fim de se evitar o enriquecimento de qualquer uma das partes. Art. 182 do CC. Sentença mantida. APELO DESPROVIDO. UNÂNIME.
+Os embargos de declaração foram rejeitados (e-STJ fls. 795/798).
+Nas razões do recurso especial (e-STJ fls. 816/824), interposto com fundamento no art. 105, III, "a", da CF, a parte alegou violação do art. 502 do CPC/2015, pois "há coisa julgada material, diante de ação de cobrança ajuizada pela Companhia em face da genitora e curadora da ora recorrida tratou da mesma dívida na qual a presente ação visa declarar nula" (e-STJ fl. 822).
+Nesses termos, requereu o provimento do recurso, para "julgar inteiramente improcedente a ação" (e-STJ fl. 824).
+No agravo (e-STJ fls. 857/860), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 864/871 (e-STJ).
+O Ministério Público Federal manifestou-se pelo não provimento do agravo (e-STJ fls. 888/890).
+É o relatório.
+Decido.
+No que diz respeito à tese acerca da coisa julgada, Tribunal de origem, na decisão que rejeitou os aclaratórios, concluiu que "o processo invocado pela embargante  .. , como fonte da suposta coisa julgada, tem como parte a Sra. R. M. de C., mãe da autora R., não se podendo falar em coisa julgada, no caso em tela" (e-STJ fl. 796).
+O acórdão recorrido encontra-se em consonância com a jurisprudência do STJ, pois, "segundo o entendimento desta Corte, para o reconhecimento da coisa julgada, é necessária a tríplice identidade - mesmas partes, mesma causa de pedir e mesmo pedido" (AgInt no REsp n. 2.038.636/MT, de minha relatoria, Quarta Turma, julgado em 21/8/2023, DJe de 28/8/2023). Portanto, aplica-se a Súmula n. 83/STJ.
+De todo modo, para modificar a conclusão do acórdão impugnado, no sentido de aferir a inexistência de afronta à coisa julgada, seria necessário reexaminar o conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ. A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE CONTRAFAÇÃO - DIREITO MARCÁRIO - PROPRIEDADE INDUSTRIAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA DEMANDANTE. 1.  ..  5. A análise dos fundamentos que afastaram a alegação de coisa julgada exige o reexame do conjunto fático-probatório dos autos, o que se mostra inviável nesta via especial, ante o óbice da Súmula 7/STJ. Precedentes. 6. Agravo interno desprovido. (AgInt no REsp n. 1.834.330/RS, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 30/10/2023, DJe de 3/11/2023.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+ EMENTA
