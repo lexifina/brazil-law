@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Daniela Teixeira.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO. BUSCA PESSOAL. FUNDADAS SUSPEITAS. PACIENTE INDICADO COMO TRAFICANTE NO LOCAL DOS FATOS. TENTATIVA DE FUGA AO AVISTAR OS POLICIAIS. REALIZAÇÃO DE CAMPANAS. AGRAVO REGIMENTAL IMPROVIDO.
+1. A busca pessoal é regida pelo art. 244, do Código de Processo Penal. Exige-se a presença de fundada suspeita de que a pessoa abordada esteja na posse de arma proibida ou de objetos ou papeis que constituam corpo de delito, ou, ainda, a medida é válida quando for determinada no curso de busca domiciliar.
+2. Na hipótese, verifica-se que os policiais agiram mediante fundada suspeita, pois a busca pessoal no paciente decorreu de informações de que ele estava praticando tráfico no local dos fatos, constando que ao avistar os policiais, tentou empreender fuga. Ademais, extrai-se dos autos a realização de campanas pelos policiais e verificação da prática do tráfico pelo réu.
+3. Devidamente justificada a ação policial, não há que se falar em ilicitude das provas dela decorrentes que ensejaram a condenação do paciente, que deve ser mantida.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por GABRIEL FRANCISCO DE SOUZA contra decisão monocrática que não conheceu do habeas corpus (e-STJ fls. 106/113).
+Repisa a defesa as teses veiculadas na inicial, sustentando, em síntese, a ilicitude da prova, obtida mediante busca pessoal ilegal.
+Requer seja reconsiderada a decisão ou que seja o feito submetido a julgamento pela Quinta Turma do STJ.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO. BUSCA PESSOAL. FUNDADAS SUSPEITAS. PACIENTE INDICADO COMO TRAFICANTE NO LOCAL DOS FATOS. TENTATIVA DE FUGA AO AVISTAR OS POLICIAIS. REALIZAÇÃO DE CAMPANAS. AGRAVO REGIMENTAL IMPROVIDO.
+1. A busca pessoal é regida pelo art. 244, do Código de Processo Penal. Exige-se a presença de fundada suspeita de que a pessoa abordada esteja na posse de arma proibida ou de objetos ou papeis que constituam corpo de delito, ou, ainda, a medida é válida quando for determinada no curso de busca domiciliar.
+2. Na hipótese, verifica-se que os policiais agiram mediante fundada suspeita, pois a busca pessoal no paciente decorreu de informações de que ele estava praticando tráfico no local dos fatos, constando que ao avistar os policiais, tentou empreender fuga. Ademais, extrai-se dos autos a realização de campanas pelos policiais e verificação da prática do tráfico pelo réu.
+3. Devidamente justificada a ação policial, não há que se falar em ilicitude das provas dela decorrentes que ensejaram a condenação do paciente, que deve ser mantida.
+4. Agravo regimental improvido.
+VOTO
+Presentes os pressupostos de admissibilidade, conheço do recurso.
+Em que pese o esforço argumentativo da combativa defesa, não foram apresentados argumentos aptos a reverter as conclusões trazidas na decisão agravada, que se mantém por seus próprios e jurídicos fundamentos.
+A propósito, confira-se, no que ora interessa, o teor da decisão recorrida (e-STJ fls. 110/113):
+Acerca da busca pessoal realizada no paciente, a Corte de origem assim decidiu (e-STJ fls. 93/94):
+ .. .
+Firme a prova testemunhal no incriminar o apelante.
+Segundo se depreende dos relatos dos policiais o militares Robson Fabrício Quintana de Faria e Eduardo Fidelis de Oliveira, no curso da persecução penal (fls. 4/5, relatório final de fls. 63/64 e termo de audiência de fls. 122/123), tinham informações de que o apelante Gabriel, vulgo "Ben 10", estava praticando o tráfico de drogas no local dos fatos; além disso, na semana anterior, policiais civis cumpriram mandado de busca na casa do acusado, com o escopo de apurar o seu envolvimento no cometimento de um crime de furto, ocorrido no "Banco Bradesco", tendo sido encontrada, na ocasião, a quantia de R$ 5.000,00. Diante desse cenário, foram até o lugar referido na inicial. Ao chegarem, visualizaram o réu portão da sua casa. Ato contínuo, o apelante, ao perceber a presença policial, tentou empreender fuga (para dentro do imóvel), pelo que acabou abordado. Em revista pessoal, no bolso da bermuda que trajava, apreenderam 92 pedras de "crack", embaladas e prontas para o comércio, além de um aparelho de telefonia celular. Instado, o acusado admitiu que praticava o tráfico de drogas (vendia cada porção pela quantia de R$ 10,00). Na sequência, a esposa do réu franqueou o ingresso no imóvel, no interior do qual havia uma quantia em dinheiro.
+ .. .
+No caso vertente, nada há nos autos a sugerir que os policiais teriam mentido. Não se entrevê motivo para que fossem acusar falsamente o réu.
+Registre-se que os relatos prestados pelos agentes públicos, em seus aspectos principais, são coincidentes entre si, e guardam, o que lhes confere maior densidade probatória. De resto, pequenas divergências, não se prestam a abalar a credibilidade das testemunhas, devendo ser debitadas ao fator tempo, associado à grande quantidade de ocorrências atendidas pelos policiais.
+Narrativas que, de resto, estão em consonância com a apreensão das drogas e dos demais objetos.
+Por sua vez, sem razão a defesa ao acenar com a ilegalidade da ação policial.
+Com efeito, conforme acima explicitado (e não há dado, insista-se, que desacredite as narrativas dos agentes públicos): (i) os policiais tinham informação se que o acusado praticava o crime de tráfico de drogas, além de ser suspeito do cometimento de outro delito; (ii) ao notar a presença policial, tentou se evadir.
+Trata-se, portanto, de um quadro apto a gerar a fundada suspeita de que o réu estava na posse de drogas, a emprestar juridicidade à abordagem e à busca pessoal.
+Aplicáveis, na espécie, as regras previstas no artigo 240, par. 2º; e artigo 244, ambos do Código de Processo Penal.
+Há que se considerar, para fins de determinação do conteúdo da dicção fundada suspeita, como requisito da busca pessoal, para a temática do que se denomina, no campo doutrinário, de critérios de decisão ou standards probatórios, enquanto grau de convencimento necessário para a prática dos atos no curso da persecução penal. Na realidade, dependendo da natureza do ato, exige-se um maior ou menor grau de convencimento (RENATO BRASILEIRO DE LIMA, Código de Processo Penal Comentado, Editora JusPODIVM, 6ª edição, pág. 562; GUSTAVO HENRIQUE BADARÓ, Processo Penal, RT, 5ª edição, págs 432/434).
+Neste passo, considerando que o ato se deu no limiar da persecução penal (na verdade, foi a ação policial que a desencadeou), não se poderia exigir um grau mais elevado de probabilidade da prática de uma infração penal, para fins de configuração de um quadro de fundada suspeita, a emprestar juridicidade à ação policial, sob pena de se inviabilizar a própria atividade do Estado no combate ao crime.
+Questões como a do caso em apreço devem ser solucionadas à luz de uma ponderação dos interesses em jogo (liberdade e intimidade, de um lado; segurança pública e interesse do Estado na punição dos crimes, de outro), tomando-se por parâmetro o princípio da proporcionalidade.
+E, no caso em tela, à luz do que se explanou, sobrelevam, a emprestar legitimidade ao ato, a segurança pública e o interesse do Estado na punição dos crimes.
+Como se vê, a Corte de origem consignou que os policiais, diante de informações de que o réu praticava tráfico, dirigiram-se para o endereço indicado e lá avistaram o réu em frente à sua residência, constando que ao visualizar a viatura policial, tentou ele fugir para seu interior.
+No que concerne às informações antes referidas, conforme se extrai da sentença condenatória, foram elas passadas por policiais do próprio município de Espírito Santo do Turvo, conforme se extrai do depoimento do policial Eduardo Fidélis, que participou da ação policial (e-STJ fl. 62).
+De tal modo, verifica-se, na hipótese, fundada suspeita para a ação policial, sobretudo porque, consoante consta da sentença condenatória, integralmente mantida pelo Tribunal estadual, a ação policial só ocorreu após informações de que o acusado estaria praticando o tráfico de drogas e, em campana policial, a movimentação típica da mercancia ilícita foi constatada (e-STJ fl. 59).
+Desse modo, tendo em vista a existência de fundadas suspeitas sobre a prática do crime de tráfico de drogas pelo paciente, não há que se falar em nulidade das provas daí oriundas.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL E VEICULAR. FUNDADA SUSPEITA E APREENSÃO DE ENTORPECENTES. FUGA. GRANDE QUANTIDADE DE DROGAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. É firme a jurisprudência desta Corte no sentido de que a busca pessoal é legítima quando amparada em fundadas suspeitas, com base nas circunstâncias do caso concreto.
+2. No presente caso, as instâncias ordinárias concluíram que a fundada suspeita restou evidenciada em razão de denúncia anônima que levou os policiais ao local dos fatos, onde avistaram um carro com as características contidas na denúncia. O paciente ao perceber que estava sendo observado pela polícia empreendeu em fuga por estrada de terra à margem da rodovia, momento em que policias decidiram realizar a abordagem e apreenderam significativa quantidade de entorpecentes.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 860.543/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 30/11/2023, DJe de 6/12/2023.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. BUSCA PESSOAL. DISPENSA DE DROGAS. TENTATIVA DE FUGA. FUNDADAS RAZÕES PRESENTES. 2. BUSCA DOMICILIAR. SITUAÇÃO DE FLAGRANTE. AUTORIZAÇÃO PARA INGRESSO. AUSÊNCIA DE ILICITUDE. 3. DESCLASSIFICAÇÃO PARA PORTE PARA CONSUMO. CIRCUNSTÂNCIAS QUE REVELAM A PRÁTICA DE TRÁFICO. IMPOSSIBILIDADE DE REVOLVIMENTO DE FATOS E PROVAS. 4. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A abordagem do paciente encontra-se embasada em fundadas razões, uma vez que, além da existência de denúncias anônimas especificadas e do fato de o paciente ser conhecido nos meios policiais, foi abordado em virtude de atitude suspeita consistente na tentativa de se evadir dispensando algo no chão, no momento em que visualizou os policiais. Nesse contexto, verifica-se que as circunstâncias indicadas, em conjunto, ultrapassam o mero subjetivismo e indicam a existência de fundada suspeita de que o paciente estaria na posse de objeto ilícitos, em especial de substâncias entorpecentes.
+2. O contexto que autorizou a abordagem do paciente também revela fundadas razões aptas a justificar a busca domiciliar, traduzindo referida diligência em exercício regular da atividade investigativa promovida pela autoridade policial, com fundamento em dados concretos, objetivos e idôneos. Ainda que assim não fosse, consta que esposa do paciente consentiu no ingresso, circunstância que esvazia a alegação de nulidade.
+3. Quanto ao pedido de desclassificação do crime de tráfico de drogas para o de porte para consumo, verifico que a Corte local consignou que "a quantidade dos entorpecentes apreendidos e sua forma de acondicionamento, aliando-se às demais circunstâncias em que ocorreu o flagrante" não se coaduna à mera posse para consumo.
+Dessa forma, para desconstituir as conclusões das instâncias ordinárias, seria necessário o revolvimento dos fatos e das provas, o que não é possível na via eleita.
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 868.888/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/11/2023, DJe de 5/12/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. BUSCA PESSOAL. REQUISITOS DO ART. 244 DO CÓDIGO DE PROCESSO PENAL. FUNDADAS SUSPEITAS. LICITUDE DAS PROVAS OBTIDAS. AGRAVO DESPROVIDO.
+1. A busca pessoal, de acordo com o § 2.º do art. 240 do Código de Processo Penal, somente pode ser realizada quando houver fundada suspeita de que a pessoa oculte consigo arma proibida ou objetos mencionados nas alíneas "b", "f " e "h" do § 1.º do citado dispositivo.
+2. O art. 244, por sua vez, prevê que a busca pessoal, como medida autônoma, independerá de mandado prévio se houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito.
+3. Ademais, não desconheço que, no dia 19/04/2022, foi julgado pela Sexta Turma do Superior Tribunal de Justiça o RHC n. 158.580/BA, Rel. Ministro ROGERIO SCHIETTI CRUZ, ocasião em que foram estabelecidos parâmetros e diretrizes a fim de que seja reconhecida a existência de "fundada suspeita" e, portanto, tenha-se como devidamente justificada e aceitável juridicamente a busca pessoal, refutando a hipótese em que a revista esteja amparada em mera "atitude suspeita", não descrita objetivamente nos autos.
+4. No caso em exame, os policiais militares somente se deslocaram ao local do flagrante, onde apreenderam na posse do Paciente aproximadamente 2Kg de maconha e uma balança de precisão, em plena via pública, porque, durante o serviço, receberam notícia específica de que o denunciado estaria com entorpecentes na região. Assim, não há ilegalidade a ser sanada.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 789.170/AL, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 17/10/2023, DJe de 20/10/2023.)
+Outrossim, por ocasião da busca pessoal no réu, o policial Robson Fabrício Quintana de Faria asseverou que No bolso de sua bermuda, foram encontradas 92 pedras de crack, embaladas prontas para a venda. O réu acabou confessando, e frisou que a sua esposa não tinha envolvimento (e-STJ fl. 61).
+Ante o exposto, não conheço do habeas corpus.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
