@@ -1,0 +1,52 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de fls. 29 (e-STJ):
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ANA PAULA DETONE DOS SANTOS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO (Apelação Criminal 0002438-84.2022.8.08.0048).
+A paciente foi condenada à pena de 5 anos de reclusão em regime fechado, além do pagamento de 500 dias-multa, pela prática do crime previsto no art. 33, caput, da Lei 11.343/2006.
+A apelação interposta pela defesa foi desprovida. A defesa alega: a) necessidade se reconhecer o tráfico privilegiado, pois estão preenchidos os requisitos para tanto; b) o registro de ações penais em andamento não é fundamento para afastar a minorante; e c) "conforme laudo toxicológico acostado, a apreensão efetuada foi de aproximadamente 40 gramas de entorpecentes, além da quantia de R$ 11,00 em espécie, o que não representa ajuntamento que permita concluir, por si apenas, pela dedicação às atividades criminosas" (e-STJ fl. 7).
+Requer, liminar e definitivamente, deferimento da ordem para que seja aplicada a causa de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006, na fração máxima.
+A liminar foi indeferida (e-STJ fls. 29). As informações foram prestadas às e-STJ fls. 33-41 e 46-50.
+O Ministério Público Federal manifestou-se pela concessão da ordem para aplicar a causa de diminuição de pena do §4º do art. 33 da Lei nº 11.343/06 no patamar máximo, imposição de regime aberto como inicial de cumprimento e substituição por restritivas de direitos (e-STJ fls. 55-58).
+Intimada para se manifestar, a defesa noticia que remanesce o interesse no julgamento desta impetração (e-STJ fls. 71).
+É o relatório.
+Decido.
+A controvérsia posta em julgamento é se a existência de ação em curso e a quantidade de drogas são elementos suficientes para inferir que o indivíduo se dedica a atividade criminosa para negar-lhe a aplicação da causa de diminuição de pena do §4º do art. 33 da Lei nº 11.343/06.
+A respeito das ações em curso, o STJ firmou a tese no Tema Repetitivo 1139 de que é inadmissível a utilização de ações penais em curso para afastar a causa de diminuição do art. 33, § 4º, da Lei de Drogas.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO RECORRIDA. PRESENÇA DE ILEGALIDADE FLAGRANTE A JUSTIFICAR A CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. MINORANTE DO TRÁFICO PRIVILEGIADO NEGADA MEDIANTE FUNDAMENTOS INVÁLIDOS. AÇÃO PENAL EM ANDAMENTO E QUANTIDADE NÃO RELEVANTE DE DROGAS. PENA REDIMENSIONADA.
+1. A ausência de impugnação específica aos fundamentos da decisão recorrida, ônus da parte recorrente, atrai a incidência do art. 1.021, § 1º, do CPC e da Súmula n. 182 desta Corte.
+2. A presença de ilegalidade flagrante no que diz respeito à negativa da minorante do tráfico privilegiado justifica a concessão de habeas corpus de ofício.
+3. A Terceira Seção, no julgamento do REsp n. 1.977.027/PR (Tema repetitivo n. 1.139), firmou a tese no sentido de que "é vedada a utilização de inquéritos e/ou ações penais em curso para impedir a aplicação do art. 33, § 4.º, da Lei n. 11.343/06" (rel.ª Min. Laurita Vaz, julgado em 10/8/2022, DJe 18/8/2022).
+4. Outrossim, a quantidade não relevante, sem menção a circunstâncias adicionais, não constitui fundamentação válida a fim de exasperar a pena-base, negar a minorante do tráfico ou modular em patamar diverso de 2/3, bem como estabelecer o agravamento do regime prisional ou impedir a substituição da sanção privativa de liberdade por penas restritivas de direitos. Precedentes.
+5. Agravo regimental não conhecido. Concedido habeas corpus de ofício para reduzir as penas do agravante a 1 ano e 8 meses de reclusão, em regime aberto, e 166 dias-multa, substituindo a pena privativa de liberdade por penas restritivas de direitos, a serem estabelecidas pelo Juízo de Execução.
+(AgRg no AREsp n. 2.240.799/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 20/2/2024, DJe de 23/2/2024 - grifos acrescidos).
+A respeito da utilização da quantidade da droga apreendida como circunstância para inferir a dedicação à atividade criminosa e ao pertencimento à organização criminosa, a jurisprudência deste col. STJ é pacífica no sentido de que não é elemento suficiente.
+Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS (20 KG DE MACONHA). CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. NÃO RECONHECIMENTO PELAS INSTÂNCIAS ORDINÁRIAS. QUANTIDADE DO ENTORPECENTE APREENDIDO. IMPOSSIBILIDADE DE, ISOLADAMENTE CONSIDERADA, TER O CONDÃO DE AFASTAR A MINORANTE. RECONHECIMENTO QUE SE IMPÕE. RETORNO DOS AUTOS PARA ESCOLHA DO PATAMAR DE REDUÇÃO APLICÁVEL AO CASO.
+ .. .
+3. A jurisprudência desta Corte Superior é no sentido de que isoladamente consideradas, a natureza e a quantidade do entorpecente apreendido, por si sós, não são suficientes para embasar conclusão acerca da presença das referidas condições obstativas e, assim, afastar o reconhecimento da minorante do tráfico privilegiado (AgRg no REsp n. 1.687.969/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 26/3/2018) - (AgRg no AREsp n. 1.480.074/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/7/2019)
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 2.071.188/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/12/2023, DJe de 20/12/2023 - grifos acrescidos).
+PENAL, PROCESSO PENAL E CONSTITUCIONAL. DOSIMETRIA DE PENA. PECULIARIDADES DO TRÁFICO ILÍCITO DE ENTORPECENTES. ART. 42 DA LEI N. 11.343/2006. NATUREZA E QUANTIDADE DA DROGA APREENDIDA. CIRCUNSTÂNCIA PREPONDERANTE A SER OBSERVADA NA PRIMEIRA FASE DA DOSIMETRIA. UTILIZAÇÃO PARA AFASTAMENTO DO TRÁFICO PRIVILEGIADO OU MODULAÇÃO DA FRAÇÃO DE DIMINUIÇÃO DE PENA DO § 4º DO ART. 33 DA LEI N. 11.343/2006. IMPOSSIBILIDADE. CARACTERIZAÇÃO DE BIS IN IDEM. NÃO TOLERÂNCIA NA ORDEM CONSTITUCIONAL. RECURSO PROVIDO PARA RESTAURAÇÃO DA SENTENÇA DE PRIMEIRA INSTÂNCIA.
+ ..
+7. A utilização concomitante da natureza e da quantidade da droga apreendida na primeira e na terceira fases da dosimetria, nesta última para descaracterizar o tráfico privilegiado ou modular a fração de diminuição de pena, configura bis in idem, expressamente rechaçado no julgamento do Recurso Extraordinário n. 666.334/AM, submetido ao regime de repercussão geral pelo Supremo Tribunal Federal (Tese de Repercussão Geral n. 712)
+8. A utilização supletiva desses elementos para afastamento do tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa.
+9. Na modulação da causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, podem ser utilizadas circunstâncias judiciais não preponderantes, previstas no art. 59 do Código Penal, desde que não utilizadas de maneira expressa na fixação da pena-base.
+10. Recurso provido para restabelecimento da sentença.
+(REsp n. 1.887.511/SP, relator Ministro João Otávio de Noronha, Terceira Seção, julgado em 9/6/2021, DJe de 1/7/2021 - grifos acrescidos).
+No caso, o acórdão negou a aplicação da causa de diminuição de pena com a seguinte fundamentação (e-STJ fl.11):
+ .. . Consta que a apelante fora apreendida com uma relevante quantidade e variedade de drogas - maconha, crack e cocaína, além de uma quantia em dinheiro, na companhia de outro indivíduo, em local conhecido pelo intenso comércio ilegal.
+Os policiais informaram a apelante era conhecida pela prática ilegal e, como dito na sentença, responde a outras três ações penais , sendo duas delas por tráfico de drogas.
+Tais circunstâncias, analisadas em conjunto, demonstram que a apelante não se trata de traficante eventual e sim pessoa dedicada a atividades criminosas, o que afasta a aplicação da causa de diminuição de pena  ..  (grifos acrescidos).
+Extrai-se, portanto, que a causa de diminuição de pena não foi aplicada porque entendeu-se que a paciente se dedicava à atividade criminosa com base na quantidade de drogas apreendidas e no fato de ter ações penais em andamento, ambos inidôneos para tal.
+Ressalte-se que a fala dos policiais de que a paciente seria "conhecida pela prática ilegal" não é prova de que se dedicava a atividade criminosa, mas mera afirmação sem base fática, sem responder quem a conhecia; qual a prática ilegal; como se davam essas práticas. Não há concretude alguma nessa informação que transcenda o fato pelo qual já foi condenada.
+Sendo assim, na medida em que os argumentos aduzidos pelo acórdão não são idôneos para negar a aplicação da causa de diminuição de pena, aplico o redutor do §4º do art. 33 da Lei nº 11.343/06 e, não existindo razões de destaque, faço em seu patamar máximo de 2/3.
+Passo a redimensionar a pena.
+Tem-se que, na primeira e segunda fases, a pena manteve-se no mínimo legal de 5 anos e 500 dias-multa, fixada em 1/30 do valor do menor salário mínimo vigente à época dos fatos (e-STJ fls. 21).
+Na terceira etapa, pelo acima exposto, verificadas as condições para aplicação do § 4º do art. 33 da Lei nº 11.343/06, no patamar de 2/3, torno definitivo o quantum de 1 (um) anos e 8 (oito) meses de reclusão e 167 dias-multa, fixada em 1/30 do valor do menor salário mínimo vigente à época dos fatos.
+Não observando circunstâncias dignas de nota além daquelas já consideradas na dosimetria da pena, estabeleço o regime aberto como inicial de cumprimento de pena, nos termos do art. 33, §2º, c, do CP.
+Atendidos os requisitos do art. 44 do Código Penal, a pena privativa de liberdade deve ser substituída por duas restritivas de direitos, a serem definidas pelo juízo da execução penal.
+Ante o exposto, concedo a ordem de habeas corpus para aplicar a causa de diminuição de pena do §4º do art. 33 da Lei 11.343/06 e redimensionar a pena do Paciente para 1 (um) anos e 8 (oito) meses de reclusão, em regime aberto, substituída por duas restritivas de direito, e 167 dias-multa, fixada em 1/30 do valor do menor salário mínimo vigente à época dos fatos.
+Comunique-se, com urgência, o teor desta decisão ao Tribunal de origem e ao respectivo juízo de primeiro grau.
+Após, ciência ao Ministério Público Federal.
+Publique-se. Intime-se.
+EMENTA
