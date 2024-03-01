@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo interposto por INSTITUTO NACIONAL DO SEGURO SOCIAL contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fls. 650/651):
+PREVIDENCIÁRIO. ATIVIDADE ESPECIAL. TRABALHADOR NA AGROPECUÁRIA. AGENTES NOCIVOS RUÍDO E HIDROCARBONETOS. AGENTE NOCIVO RUÍDO. MÉTODO DE AFERIÇÃO. NÍVEIS DE CONCENTRAÇÃO DOS AGENTES QUÍMICOS. HABITUALIDADE E PERMANÊNCIA. EPIS. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO/APOSENTADORIA ESPECIAL. CONCESSÃO.
+1. A exposição a hidrocarbonetos aromáticos e a ruído em níveis superiores aos limites de tolerância vigentes à época da prestação do labor enseja o reconhecimento do tempo de serviço como especial.
+2. As atividades de trabalhador na agropecuária exercidas até 28/04/1995 devem ser reconhecidas como especiais em decorrência do enquadramento por categoria profissional previsto à época da realização do labor.
+3. Tratando-se de agente nocivo ruído, quando não houver indicação da metodologia, ou for utilizada metodologia diversa daquela da FUNDACENTRO, o enquadramento deve ser analisado de acordo com a aferição do ruído que for apresentada no processo. Precedentes desta Corte Regional.
+4. Os riscos ocupacionais gerados pela exposição a agentes químicos não dependem, segundo os normativos aplicáveis, de análise quanto ao grau ou intensidade de exposição no ambiente de trabalho para a configuração da nocividade e reconhecimento da especialidade do labor para fins previdenciários.
+5. A habitualidade e permanência do tempo de trabalho em condições especiais prejudiciais à saúde ou à integridade física referidas no artigo 57, § 3º, da Lei 8.213/91 não pressupõem a submissão contínua ao agente nocivo durante toda a jornada de trabalho. Não se interpreta como ocasional, eventual ou intermitente a exposição ínsita ao desenvolvimento das atividades cometidas ao trabalhador, integrada à sua rotina de trabalho. Precedentes desta Corte.
+6. Não havendo provas consistentes de que o uso de EPIs neutralizava os efeitos dos agentes nocivos a que foi exposto o segurado durante o período laboral, deve-se enquadrar a respectiva atividade como especial. A eficácia dos equipamentos de proteção individual não pode ser avaliada a partir de uma única via de acesso do agente nocivo ao organismo, como luvas, máscaras e protetores auriculares, mas a partir de todo e qualquer meio pelo qual o agente agressor externo possa causar danos à saúde física e mental do segurado trabalhador ou risco à sua vida.
+7. Preenchidos os requisitos legais, tem o segurado direito à obtenção de aposentadoria por tempo de contribuição/aposentadoria especial.
+Embargos de declaração rejeitados (e-STJ fl. 731).
+No recurso especial obstaculizado, a parte recorrente apontou violação dos arts. 31 da Lei n. 3.807/1960, do art. 9º da Lei n. 5.890/1973, item 2.2.1 do Quadro Anexo ao Decreto 53.831/1964, argumentando, em suma, que não é possível o enquadramento da atividade desenvolvida pela parte autora exclusivamente na agricultura como especial, porquanto não está enquadrada na norma legal.
+Contrarrazões às e-STJ fls. 843/847.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+No presente caso, a sentença, confirmada pelo Tribunal regional, entendeu pela especialidade da atividade exercida em empresa agropecuária, sob os seguintes fundamentos (e-STJ fls. 653/655):
+Da atividade especial
+O ponto controvertido foi assim analisado na decisão recorrida:
+"(..)
+Do caso concreto
+Do tempo especial
+Tendo em vista as atividades especiais invocadas pela Parte Autora, o tempo de labor que lhe é exigido, para fins de aposentadoria especial, com exposição a circunstâncias prejudiciais à saúde, é de 25 anos.
+Analisando-se as especificidades do tempo alegadamente especial invocado pela Parte Autora, tem-se o que segue:
+Períodos reconhecidos como especiais
+Empresa: Granja do Salso Ltda.
+Períodos: 11/03/1982 a 19/04/1982, 21/07/1982 a 20/07/1985
+Função e setor: Safrista - Serviços Gerais/Lavoura (formulário)
+Provas: CTPS: Evento 1, PROCADM3, Página 8
+Formulário: Evento 1, PROCADM3, Página 20-21
+Comprovante de situação cadastral - inativa: Evento 1, PROCADM3, Página 55
+Conclusão: O enquadramento dos trabalhadores na agropecuária era possível, até 28/04/1995,conforme código 2.2.1 do Quadro anexo ao Decreto n. 53.831/64 (trabalhadores na agropecuária).
+Portanto, está comprovada a especialidade do período.
+Sobre o tema, a Primeira Seção desta Corte pacificou o entendimento de que o trabalhador rural (seja empregado rural ou segurado especial) somente terá direito à conversão ou contagem como tempo especial, para fins de aposentadoria, se demonstrar o exercício de seu labor na agropecuária, nos termos do enquadramento por categoria profissional vigente anteriormente à edição da Lei n. 9.032/1995, como ocorreu na espécie.
+A proposito, a contrario sensu:
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. ATIVIDADE ESPECIAL. EMPREGADO RURAL. LAVOURA DA CANA-DE-AÇÚCAR. EQUIPARAÇÃO. CATEGORIA PROFISSIONAL. ATIVIDADE AGROPECUÁRIA. DECRETO 53.831/1964. IMPOSSIBILIDADE. PRECEDENTES.
+1. Trata-se, na origem, de Ação de Concessão de Aposentadoria por Tempo de Contribuição em que a parte requerida pleiteia a conversão de tempo especial em comum de período em que trabalhou na Usina Bom Jesus (18.8.1975 a 27.4.1995) na lavoura da cana-de-açúcar como empregado rural.
+2. O ponto controvertido da presente análise é se o trabalhador rural da lavoura da cana-de-açúcar empregado rural poderia ou não ser enquadrado na categoria profissional de trabalhador da agropecuária constante no item 2.2.1 do Decreto 53.831/1964 vigente à época da prestação dos serviços.
+3. Está pacificado no STJ o entendimento de que a lei que rege o tempo de serviço é aquela vigente no momento da prestação do labor.
+Nessa mesma linha: REsp 1.151.363/MG, Rel. Ministro Jorge Mussi, Terceira Seção, DJe 5.4.2011; REsp 1.310.034/PR, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 19.12.2012, ambos julgados sob o regime do art. 543-C do CPC (Tema 694 - REsp 1398260/PR, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 5/12/2014).
+4. O STJ possui precedentes no sentido de que o trabalhador rural (seja empregado rural ou segurado especial) que não demonstre o exercício de seu labor na agropecuária, nos termos do enquadramento por categoria profissional vigente até a edição da Lei 9.032/1995, não possui o direito subjetivo à conversão ou contagem como tempo especial para fins de aposentadoria por tempo de serviço/contribuição ou aposentadoria especial, respectivamente. A propósito: AgInt no AREsp 928.224/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 8/11/2016; AgInt no AREsp 860.631/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 16/6/2016; REsp 1.309.245/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 22/10/2015; AgRg no REsp 1.084.268/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe 13/3/2013; AgRg no REsp 1.217.756/RS, Rel. Ministra Laurita Vaz, Quinta Turma, DJe 26/9/2012; AgRg nos EDcl no AREsp 8.138/RS, Rel. Ministro Og Fernandes, Sexta Turma, DJe 9/11/2011; AgRg no REsp 1.208.587/RS, Rel. Ministro Jorge Mussi, Quinta Turma, DJe 13/10/2011; AgRg no REsp 909.036/SP, Rel. Ministro Paulo Gallotti, Sexta Turma, DJ 12/11/2007, p. 329; REsp 291.
+404/SP, Rel. Ministro Hamilton Carvalhido, Sexta Turma, DJ 2/8/2004, p. 576.
+5. Pedido de Uniformização de Jurisprudência de Lei procedente para não equiparar a categoria profissional de agropecuária à atividade exercida pelo empregado rural na lavoura da cana-de-açúcar. (PUIL 452/PE, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 08/05/2019, DJe 14/06/2019).
+PREVIDENCIÁRIO. TRABALHO RURAL EM REGIME DE ECONOMIA FAMILIAR. ENQUADRAMENTO COMO ATIVIDADE ESPECIAL DE QUE TRATA O ITEM 2.2.1 DO ANEXO DO DECRETO N. 53.831/64. EXERCÍCIO DE ATIVIDADE ANTERIOR À VIGÊNCIA DA LEI N. 9.032/95, QUE ALTEROU O ART. 57, § 4º, DA LEI N. 8.213/91. IMPOSSIBILIDADE DE RECONHECIMENTO DO DIREITO À CONTAGEM DE TEMPO DE TRABALHO ESPECIAL, NA HIPÓTESE EM ANÁLISE.
+1. O reconhecimento de trabalho em condições especiais antes da vigência da Lei n. 9.032/95, que alterou o art. 57, § 4º, da Lei n. 8.213/91, ocorria por enquadramento. Assim, o anexo do Decreto 53.831/64 listava as categorias profissionais que estavam sujeitas a agentes físicos, químicos e biológicos considerados prejudiciais à saúde ou à integridade física do segurado.
+2. Os segurados especiais (rurícolas) já são contemplados com regras específicas que buscam protegê-los das vicissitudes próprias das estafantes atividades que desempenham, assegurando-lhes, de forma compensatória, a aposentadoria por idade com redução de cinco anos em relação aos trabalhadores urbanos; a dispensa do recolhimento de contribuições até o advento da Lei n. 8.213/91; e um menor rigor quanto ao conteúdo dos documentos aceitos como início de prova material.
+3. Assim, a teor do entendimento do STJ, o Decreto n. 53.831/64, no item 2.2.1 de seu anexo, considera como insalubres as atividades desenvolvidas na agropecuária por outras categorias de segurados, que não a dos segurados especiais (rurícolas) que exerçam seus afazeres na lavoura em regime de economia familiar. Precedentes: AgRg no REsp 1.084.268/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 13/03/2013 e AgRg nos EDcl no AREsp 8.138/RS, Rel. Ministro OG FERNANDES, SEXTA TURMA, DJe 09/11/2011.
+4. Recurso especial a que se nega provimento. (REsp 1309245/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 06/10/2015, DJe 22/10/2015).
+Dessa forma, incide o óbice da Súmula 83 do STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", cabível mesmo quando o recurso especial é interposto com base na alínea "a" do permissivo constitucional.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
