@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 343):
+APELAÇÃO CRIMINAL. REJEIÇÃO DAS PRELIMINARES DE INÉPCIA DA DENÚNCIA E DE AUSÊNCIA DE JUSTA CAUSA PARA O EXERCÍCIO DA AÇÃO PENAL. EXORDIAL ACUSATÓRIA EM CONSONÂNCIA COM A DISCIPLINA DO ART. 41 DO CÓDIGO DE PROCESSO PENAL. EXISTÊNCIA DE SUBSTRATO PROBATÓRIO SUFICIENTE À DEFLAGRAÇÃO DA AÇÃO PENAL. AFASTAMENTO DA PREJUDICIAL DE MÉRITO DA PRESCRIÇÃO. LAPSO TEMPORAL ENTRE AS CAUSAS INTERRUPTIVAS NÃO ULTRAPASSADO. MÉRITO. CRIME DE ROUBO MAJORADO. MATERIALIDADE E AUTORIA COMPROVADAS. CREDIBILIDADE DAS PALAVRAS DAS VÍTIMAS. CONDENAÇÃO MANTIDA. DOSIMETRIA DAS REPRIMENDAS. PRESERVAÇÃO DA OPERAÇÃO DOSIMÉTRICA PERCORRIDA EM 1º GRAU. CONFIGURAÇÃO DA CAUSA DE AUMENTO DE PENA INSCULPIDA NO INCISO IDO § 2º DO ART. 157 DO CÓDIGO PENAL, VIGENTE À ÉPOCA DOS FATOS. DESNECESSIDADE DE APREENSÃO OU DE REALIZAÇÃO DE PERÍCIA NO ARTEFATO. PROVA TESTEMUNHAL SUFICIENTE. CONSERVAÇÃO DO REGIME INICIAL FECHADO PARA O CUMPRIMENTO DE PENA. ACUSADO MULTIRREINCIDENTE E PORTADOR DE PÉSSIMOS ANTECEDENTES.
+- Se na denúncia constam todos os elementos essenciais à descrição dos fatos criminosos, preenchendo os requisitos previstos no art. 41 do Código de Processo Penal e propiciando a ampla defesa, insustentável é o argumento de inépcia.
+- Na exordial e nas peças que formam o inquérito policial, se presentes, em um juízo de cognição sumária, indícios mínimos de materialidade e autoria do delito de roubo majorado, não há falar em ausência de justa causa para o exercício da ação penal.
+- Não se acolhe a prejudicial de mérito da prescrição, uma vez que, entre os marcos interruptivos, não houve o escoamento do lapso temporal de 12 (doze) anos, aplicável à espécie.
+- Comprovados os fatos atribuídos ao acusado, mister é a manutenção da sua condenação, valendo frisar que, nos crimes contra o patrimônio, a palavra das vitimas possui relevância probatória.
+- Para comprovara incidência da majorante prevista no inc. I do §2º do art. 157 do Código Penal, com redação vigente à época dos fatos, são prescindíveis a apreensão e a realização de perícia em arma de fogo utilizada na prática do crime de roubo, se por outros meios de prova restar evidenciado o seu emprego. Precedentes dos Tribunais Superiores.
+- Em observância ao disposto no art. 33, § 3º, do Código Penal, levando-se em consideração a pena aplicada ao réu e o fato de ele ser multirreincidente, além de ostentar péssimos antecedentes criminais, fica mantido o regime inicial fechado.
+Depreende-se dos autos que o paciente foi condenado às penas de 7 anos, 3 meses e 3 dias de reclusão, em regime inicial fechado, e 16 dias-multa, como incurso no art. 157, § 2º, I, do Código Penal.
+No presente writ, sustenta a defesa, em síntese, que o reconhecimento pessoal foi realizado em desacordo com o art. 226 do Código de Processo Penal.
+Requer, liminarmente, suspensão dos efeitos da condenação, impedindo a prisão. E, no mérito, requer a concessão da ordem, com o reconhecimento da ilicitude do reconhecimento fotográfico e a consequente absolvição do Paciente.
+Liminar indeferida.
+Prestadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento do writ ou pela denegação da ordem (fls. 570-578).
+De início, ressalta-se que, não tendo a tese defensiva atinente à irregularidade do reconhecimento pessoal de acordo com o art. 226 do CPP sido analisada sob o mesmo enfoque pela Corte local, não cabe a este Tribunal Superior inaugurar a apreciação do tema, sob pena de incursão em vedada supressão de instância.
+Assim, não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC 126.604/MT, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 07/12/2020, DJe 16/12/2020).
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PLEITOS DE TRABALHO EXTERNO E REMIÇÃO DAS PENAS. QUESTÕES NÃO APRECIADAS EM 2º GRAU. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO PARA O JULGAMENTO DO AGRAVO EM EXECUÇÃO INTERPOSTO NA ORIGEM. SUPERVENIÊNCIA DO JULGAMENTO DO RECURSO. PREJUDICIALIDADE. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. A decisão agravada deve ser mantida por seus próprios fundamentos, porquanto, nos termos da jurisprudência pacífica do STJ, uma vez que os pleitos formulados no habeas corpus, até então, não haviam sido apreciados pela Corte de origem, porquanto pendente de julgamento o agravo em execução interposto pelo paciente, razão pela qual não poderia esta Corte Superior apreciá-los, sob pena de indevida supressão de instância.
+ ..
+3. Agravo regimental improvido. (AgRg no HC n. 339.164/PR, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 10/11/2016, DJe de 24/11/2016.)
+De todo modo, verifica-se que a condenação amparou-se em provas colhidas no transcurso da investigação e detalhes narrados sobre a dinâmica dos fatos. Entender de forma diversa e afastar a conclusão adotada pela Corte local, demandaria o amplo revolvimento do conjunto fático-probatório dos autos, providência vedada no âmbito do habeas corpus e respectivo recurso ordinário.
+Ante o exposto, não conheço do habeas corpus.
+Intimem-se.
+Publique-se
+EMENTA
