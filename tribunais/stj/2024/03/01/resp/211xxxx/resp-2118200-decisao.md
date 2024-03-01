@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (e-STJ fl. 1.060):
+APELAÇÃO CÍVEL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO COMERCIAL. PRESCRIÇÃO INTERCORRENTE. RECONHECIMENTO NA SENTENÇA. BUSCA DE BENS DOS EXECUTADOS. DILIGÊNCIAS INFRUTÍFERAS. FEITO PARALISADO POR PRAZO SUPERIOR AO DE PRESCRIÇÃO DO DIREITO MATERIAL. EXTINÇÃO DA EXECUÇÃO. SENTENÇA MANTIDA.
+1. Resulta caracterizada a prescrição intercorrente, na hipótese de paralisação da execução por prazo superior ao de prescrição do direito material vindicado, independentemente da intimação do exequente para dar andamento ao feito.
+2. Segundo a jurisprudência da Corte Superior, "A efetiva constrição patrimonial e a efetiva citação (ainda que por edital) são aptas a interromper o curso da prescrição intercorrente, não bastando para tal o mero peticionamento em juízo, requerendo, v.g., a feitura da penhora sobre ativos financeiros ou sobre outros bens" (REsp 1340553/RS, Rel. Ministro Mauro Campbell Marques, Primeira Seção, julgado em 12/09/2018, DJe 16/10/2018).
+3. Apelação cível conhecida e não provida.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.087/1.091).
+No recurso especial (e-STJ fls. 1.095/1.121), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente aponta, além de divergência jurisprudencial, ofensa ao art. 14 do CPC/2015.
+Sustenta, em síntese, o não implemento da prescrição intercorrente, ante a impossibilidade de aplicação retroativa d o disposto no art. 921, §4º, do CPC/2015.
+Foram apresentadas contrarrazões (e-STJ fls. 1.166/1.181).
+Após o juízo positivo de admissibilidade, ascenderam os autos a esta Corte (e-STJ fls. 1.192/1.196).
+É o relatório.
+Decido.
+A insurgência não merece acolhida.
+Em razão da divergência interpretativa entre as TURMAS que compõem a SEGUNDA SEÇÃO do STJ, foi instaurado incidente de assunção de competência (IAC n. 1) no REsp n. 1.604.412/SC (Relator Ministro MARCO AURÉLIO BELLIZZE), nos termos dos artigos 947, § 4º, do CPC/2015 e 271-B do RISTJ, com o objetivo de uniformizar o entendimento acerca dos seguintes temas: (i) cabimento de prescrição intercorrente, nos processos anteriores ao atual CPC, e eventual imprescindibilidade de intimação prévia do credor, e (ii) necessidade de oportunidade para o autor dar andamento ao processo paralisado por prazo superior àquele previsto para a prescrição da pretensão veiculada na demanda.
+No julgamento do IAC, foram fixadas as seguintes teses:
+RECURSO ESPECIAL. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE DA PRETENSÃO EXECUTÓRIA. CABIMENTO. TERMO INICIAL. NECESSIDADE DE PRÉVIA INTIMAÇÃO DO CREDOR-EXEQUENTE. OITIVA DO CREDOR. INEXISTÊNCIA. CONTRADITÓRIO DESRESPEITADO. RECURSO ESPECIAL PROVIDO.
+1. As teses a serem firmadas, para efeito do art. 947 do CPC/2015 são as seguintes:
+1.1 Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002.
+1.2 O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980).
+1.3 O termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroativa da norma processual).
+1.4. O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.
+2. No caso concreto, a despeito de transcorrido mais de uma década após o arquivamento administrativo do processo, não houve a intimação da recorrente a assegurar o exercício oportuno do contraditório.
+3. Recurso especial provido.
+(REsp n. 1.604.412/SC, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 27/6/2018, DJe 22/8/2018.)
+O Tribunal de origem manteve a decretação da prescrição intercorrente nos seguintes termos (e-STJ fl. 1.067):
+ ..  Na espécie, como apontado na sentença, a apelante foi intimada da primeira diligência infrutífera em 20/11/2014 e, transcorrido 01 (um) ano dessa data, não sobreveio nenhuma diligência frutífera.
+Como detalhou o MM. Juiz:
+"Isso porque, conforme o art. 921, § 4º, do CPC, o termo inicial da prescrição no curso do processo será da ciência da primeira tentativa infrutífera de localização do devedor ou de bens penhoráveis, sendo suspensa pelo prazo máximo de 1 (um) ano, por uma única vez.
+No caso em exame, a ciência da primeira diligência infrutífera de localização de bens penhoráveis ocorreu em 20/11/2014, conforme certidão informando que a parte foi intimada (1.26, p. 289). Vai daí que o prazo prescricional de 3 (três) anos começou a correr somente a partir de 21/11 /2015, ou seja, após 1 (um) de suspensão.
+No caso em tela, observa-se que o executado não logrou êxito em encontrar bens passíveis de penhora a fim de interromper o prazo prescricional" (mov. 293.1 - 1º grau, f. 05).
+Em conclusão, deve ser mantida a sentença exarada pelo Dr. Marcel Ferreira dos Santos.
+Em face do exposto, voto no sentido de conhecer do recurso de apelação interposto pela exequente, Travessia Securitizadora de Créditos Financeiros VIII S/A, e negar-lhe provimento.
+Estando o acórdão impugnado de acordo com a jurisprudência assente neste Tribunal Superior, incide a Súmula n. 83/STJ, que se aplica tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+Ademais, consoante entendimento do Superior Tribunal de Justiça, "a decretação da prescrição intercorrente não depende da intimação do exequente para dar andamento ao feito, bastando sua intimação, em respeito ao princípio do contraditório, para apresentar defesa quanto à eventual ocorrência de fato impeditivo, interruptivo ou suspensivo da prescrição" (AgInt no AgInt no AREsp 1720723/PR, Re Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/08/2021, DJe 02/09/2021). Confira-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. 1. INTEMPESTIVIDADE. INFORMAÇÕES PROCESSUAIS NO SITE DO TRIBUNAL. CONTAGEM DE PRAZO. BOAFÉ. JUSTA CAUSA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. 2. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. NÃO OCORRÊNCIA. 3. PRESCRIÇÃO INTERCORRENTE. INTIMAÇÃO DA PARTE PARA DAR ANDAMENTO AO FEITO. DESNECESSIDADE. FORMALIDADE QUE APENAS SE IMPÕE NOS CASOS DE EXTINÇÃO DO FEITO POR ABANDONO DA CAUSA. NECESSIDADE DE INTIMAÇÃO TÃO SOMENTE PARA, EM RESPEITO AO CONTRADITÓRIO, DEMONSTRAR EVENTUAL EXISTÊNCIA DE CAUSA IMPEDITIVA. ENTENDIMENTO ASSENTADO NO JULGAMENTO DO IAC NO RESP N. 1.604.412/SC. 4. DIREITO SUBJETIVO AO ENTENDIMENTO JURISPRUDENCIAL VIGENTE À ÉPOCA DOS FATOS. NÃO CABIMENTO. 5.AGRAVO INTERNO DESPROVIDO.
+ ..
+3. A Segunda Seção do Superior Tribunal de Justiça pacificou a matéria relativa à prescrição intercorrente, no IAC no REsp n. 1.604.412/SC, sedimentando que tal prazo extintivo começa a correr automaticamente a partir do termo final do período de suspensão fixado pelo Magistrado, ou, inexistindo tal prazo, após o transcurso de 1 (um) ano, sendo prescindível a intimação da parte exequente para dar andamento ao feito, mas apenas a fim de possibilitar-lhe o exercício do contraditório, opondo algum fato impeditivo à incidência da prescrição.
+ ..
+5. Agravo interno desprovido. (AgInt nos EDcl no AgInt no REsp 1839668/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/10/2021, DJe 28/10/2021.)
+Finalmente, o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente, bem como a demonstração do dissídio, mediante o cotejo analítico entre o acórdão recorrido e os paradigmas, que não se satisfaz com a mera transcrição de ementas, a fim de demonstrar que as soluções encontradas, tanto na decisão recorrida quanto nos paradigmas, tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias, ônus dos quais a parte recorrente não se desincumbiu. Inafastável a Súmula n. 284 do STF quanto ao ponto.
+Ante o exposto, CONHEÇO EM PARTE do recurso e, nessa extensão, NEGO-LHE PROVIMENTO.
+Publique-se e intimem-se.
+EMENTA
