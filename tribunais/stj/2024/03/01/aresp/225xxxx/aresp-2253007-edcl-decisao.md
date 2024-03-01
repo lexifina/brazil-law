@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JOSÉ ANTÔNIO CORREIA contra decisão de minha relatoria, que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento (e-STJ fls. 367/372).
+Sustenta a parte embargante que o julgado padece de omissão e obscuridade, porquanto, "quanto às consequências jurídicas da reabilitação profissional ocorrida no caso concreto por força da antecipação de tutela concedida em sede de sentença, embora esteja claro, nas v. decisões a quo, que o embargante laborava como entregador "Sedex"- mercadorias - e foi reabilitado para atividade interna de agência dos Correios".
+Afirma que a concessão de auxílio-acidente é automática no caso de reabilitação profissional.
+Sem impugnação (e-STJ fl. 388).
+Passo a decidir.
+Nos termos do art. 1.022 do CPC, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material na decisão. In casu, não ocorreu nenhum dos vícios supracitados.
+As omissões invocadas pela parte embargante manifestam o seu inconformismo com o decisum embargado e repisam argumentos dantes suscitados, objetivando a modificação do aludido julgado, desiderato inadmissível em sede de embargos declaratórios.
+Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA. HIPÓTESES DO ART. 535 DO CPC. AUSÊNCIA. REDISCUSSÃO DA MATÉRIA DECIDIDA. IMPOSSIBILIDADE.
+1. Os embargos de declaração apenas são cabíveis para sanar omissão, contradição ou obscuridade do julgado recorrido, admitindo-se também esse recurso para se corrigir eventuais erros materiais constantes do pronunciamento jurisdicional.
+2. No caso, está evidenciado o intuito do embargante em rediscutir a matéria já integralmente decidida pelo órgão judicial recorrido, o que não se admite nos estreitos limites do art. 535 do CPC.
+3. Embargos de declaração rejeitados. (EDcl no AgRg nos EAREsp 540.453/RS, Rel. Ministra Diva Malerbi (Desembargadora Convocada TRF 3ª REGIÃO), Primeira Seção, julgado em 24/02/2016, DJe 04/03/2016).
+De toda sorte, cumpre chamar atenção para o fato de estar expresso e claro, no voto condutor do acórdão embargado, que o Tribunal de origem decidiu integralmente a controvérsia, após nova perícia, julgando improcedente o pedido de concessão de auxílio-acidente, pela não comprovação da incapacidade laboral parcial e definitiva e pela ausência de cerceamento de defesa, a saber (e-STJ fls. 248/252):
+Com efeito, a nova perícia (fls. 211/218), levada a efeito pelo Dr. José Otávio De Felice Junior, ao exame psíquico, constatou: "Auto cuidado preservado, calmo, colaborativo, vigil, atento. Ausência de prejuízo de memória. Pensamento com curso preservado, agregado, ausência de delírios. Capacidade de compreensão e abstração preservada. Crítica preservada. Discurso coerente. Eutímico, afeto preservado.
+Psicomotricidade normal. Sem alterações de senso percepção, ilusões ou alucinações. Ausência de ideação suicida estruturada." (fls. 213 destaquei em negrito).
+Respaldado nesse exame, bem como na história pregressa da moléstia atual e nos antecedentes pessoais do obreiro (fls. 212/213), asseverou o perito que o "periciando apresenta exame psiquiátrico compatível com a idade atual de quarenta e dois anos.
+O periciando não apresenta ao exame psiquiátrico repercussões funcionais incapacitantes que a impeçam de realizar suas atividades laborais habituais como carteiro e como auxiliar de serviços gerais atividades laborais habituais referidas pelo próprio periciando." (fls. 214).
+Em consequência lógica, concluiu o vistor pela ausência de redução atual da capacidade laboral do obreiro: "Não foi constatada incapacidade laborativa para as atividades laborais habituais.
+Não foi constatada incapacidade laboral.
+Não há elementos na documentação médica apresentada que permitam apontar períodos anteriores nos quais houvesse incapacidade laboral.
+Há nexo causal entre o quadro médico psiquiátrico apresentado pelo periciando e os múltiplos assaltos sofridos; cabe ressaltar que apesar da existência do nexo causal, não há incapacidade laboral diante a ausência de qualquer repercussão funcional ao exame psiquiátrico." (fls. 214 destaque do original).
+Perícia produzida de acordo com os princípios do contraditório e da ampla defesa, devidamente fundamentada, com elementos suficientes para o adequado julgamento da lide, sem contrariedade técnica aos seus termos e conclusões, merecendo crédito e respaldo, pois realizada por especialista da inteira confiança desta Corte Bandeirante.
+Assim, se a moléstia não deixou repercussão para o trabalho habitual do obreiro, fato evidenciado pelo exame psíquico, não há se falar na concessão de qualquer benefício acidentário, vez que a legislação infortunística não indeniza a simples moléstia, mas sim as efetivas sequelas incapacitantes para o labor habitual (art. 86, Lei nº 8.213/91), ou seja, o objeto do contrato de seguro de direito público laboral é a capacidade laboral do segurado e não sua integridade física ou psíquica.
+Verifica-se, por oportuno, que o laudo médico pericial produzido por perito de confiança desta C. Câmara encontra-se dotado de elementos esclarecedores quanto ao atual estado de saúde do segurado, não merecendo qualquer complementação, mesmo porque bem fundamentado e não combatido cientificamente por assistente técnico, prestando-se, portanto, como prova técnica hábil à formação do livre convencimento deste Relator.
+Saliente-se, ainda, que a perícia judicial da lavra do Dr. Sergio da Silva Moutinho, realizada em primeira instância (fls. 62/69), embora tivesse concluído pela existência de redução da capacidade, constatou a absoluta normalidade ao exame psíquico.
+Note-se:
+"EXAME PSIQUICO - Examinando comparece para avaliação acompanhado com sobrinho.
+Não apresenta alterações morfológicas (físicas) de interesse psiquiátrico,
+inclusive por não ser agredido fisicamente durante assaltos na atividade laborativa.
+Aparência e atitudes adequadas no transcorrer dos exames que a que foi submetido. Consciente. Orientado no tempo/espaço. Atenção, compreensão e senso crítico conservados. Sequência ideativa lógica e coerente. Memória de fixação e evocação presentes e conservadas. Ausência de distúrbios senso perceptivos. Humor eutímico. Pragmatismo conservado. Examinando segue tratamento medicamentoso com uso de Amitriptilina 25 mg/dia. Nega antecedentes mórbidos psiquiátricos pessoais e familiares." (fls. 63 destaques do original).
+Nesse passo, afasta-se de plano a impugnação ao laudo ofertada pelo segurado neste segundo grau (fls. 223/238), pois críticas de caráter leigo de modo algum abalam a conclusão pericial, vez que esta se fundamenta em conhecimento e procedimentos técnico-científicos, observando-se, ainda, que atestados e exames apresentados unilateralmente pela parte não se prestam a contrariar resultado da perícia, realizada por médico especialista e imparcial.
+Aliás, os quesitos pertinentes apontados pelo requerente já se encontram respondidos, inclusive, no corpo do laudo judicial; assim, a deficiência do laudo pericial alegada pelo segurado não passa de mero inconformismo diante do resultado desfavorável da prova, razão pela qual desnecessária o encaminhamento dos autos ao vistor para esclarecimentos, como pretende o autor.
+Portanto, não sendo o obreiro portador de moléstia atualmente incapacitante decorrente do trabalho, não faz jus ao benefício acidentário.
+Consigne-se, por fim, que ausente prova da incapacidade atual, requisito indispensável para a concessão de qualquer benefício acidentário, irrelevante a investigação do nexo causal.
+Com essas considerações, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
