@@ -1,0 +1,12 @@
+DECISÃO
+Na origem, trata-se de ação de execução fiscal. Na sentença, informou-se o pagamento da dívida, ocorrendo assim a extinção da execução, e condenou-se o réu ao pagamento de honorários advocatícios. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 14.77 1,59.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO CIVIL - EXECUÇÃO FISCAL F- HONORÁRIOS ADVOCATICIOS - PRINCÍPIO DA CAUSALIDADE - QUITAÇÃO APÓS AJUIZAMENTO E CITAÇÃO - HONORÁRIOS DEVIDOS - RECURSO CONHECIDO E DESPROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+Relativamente à alegação de violação ao art. 534, §2º, do CPC, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
