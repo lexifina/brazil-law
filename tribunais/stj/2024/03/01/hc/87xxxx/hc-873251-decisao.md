@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 49):
+Apelação Criminal. Tráfico de drogas. Recursos defensivos. Materialidade e autoria comprovadas. Pleito de absolvição por insuficiência de provas formulado em favor dos corréus Klayver e Sidnei. Impossibilidade de acolhimento. Responsabilização bem decretada, à vista do conjunto probatório amplamente desfavorável a todos os acusados. Dosimetria irretocável. Negativa do privilégio previsto no art. 33, § 4º, da Lei 11.343/06, adequada, considerando a quantidade, variedade e nocividade das drogas apreendidas, assim como a reincidência específica de Klayver e os maus antecedentes de Sidnei. Fixação do regime inicial semiaberto para Dalmo e Sidnei, e do fechado para Klayver, sem necessidade de alteração. Descabimento, ademais, de qualquer benefício liberatório imediato. Desprovimento.
+O paciente foi condenado à reprimenda de 5 anos e 10 meses de reclusão, em regime fechado, e ao pagamento de 583 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006.
+Neste writ, sustenta a defesa, em síntese, ausência de fundamento idôneo para afastar a causa especial de diminuição de pena constante do art. 33, § 4º, da Lei n. 11.343/2006, mormente porque o paciente é primário, de bons antecedentes, e não constam dos autos provas de dedicação a atividades criminosas.
+Requer, liminarmente e no mérito, o redimensionamento da pena, a consequente fixação do regime aberto e a substituição da pena privativa de liberdade por restritivas de direitos.
+A liminar foi indeferida, as informações foram prestadas e o Ministério Público Federal ofertou parecer, manifestando-se pela extinção do feito sem resolução de mérito ou pela denegação da ordem.
+No que se refere à pretensão posta, assim decidiu o Tribunal de Justiça (fl. 57):
+Na terceira fase, para todos os recorrentes, não se vislumbraram causas de aumento ou de diminuição de pena passíveis de valoração.
+Quanto ao ponto, inadmissível a incidência do redutor penal previsto no art. 33, § 4º, da Lei 11.343/006, tendo em vista a grande quantidade de drogas apreendida, sem se ignorar a variedade e a extrema nocividade de parte delas.
+Na sentença, assim se dispôs (fls. 44-45):
+Dosimetria réu Dalmo Guilherme Costa:
+Na primeira fase da dosimetria, considero faço constar que a quantidade de drogas e sua natureza será utilizada como argumento para afastar a aplicação do redutor na terceira fase da dosimetria, evitando-se bis in idem, sendo as demais circunstâncias judiciais são favoráveis ao acusado, fixo a pena base em 05 anos de reclusão e 500 dias-multa.
+Na segunda fase, ausentes circunstâncias agravantes. Presente a atenuante da confissão, contudo, a pena já restou fixada no mínimo legal previsto (súmula 231/STJ). Mantenhoa pena no patamar anterior.
+Na terceira fase, ausentes causas de aumento e diminuição de pena, mantenho a pena supra fixada.
+Não reconheço a figura do tráfico privilegiado, na forma do art. 33, § 4º da Lei11.343/2006, porque apreendida grande quantidade de drogas e numerário proveniente do comércio espúrio, circunstâncias estas não utilizadas na primeira fase da dosimetria, tudo a demonstrar a dedicação do réu ao crime de tráfico de droga, o que é corroborado pela conduta de transporte intermunicipal do entorpecente.
+Ante a primariedade técnica e a quantidade de pena fixada, fixo o regime inicial semiaberto, nos termos do art. 33 do CP.
+Como visto, o Tribunal de origem manteve o afastamento da incidência da causa de diminuição de pena prevista no art. 33, §4º, da Lei 11.343/06 ao fundamento de que a relevante quantidade de droga apreendida é totalmente compatível com o tráfico de entorpecentes e sinalizam o intenso envolvimento deles no meio delitivo.
+Contudo, nos termos da orientação jurisprudencial da Terceira Seção, reafirmada no julgamento do REsp 1.887.511, de relatoria do Ministro João Otávio de Noronha, julgado na sessão de 9/6/2021, "O tráfico privilegiado é instituto criado para beneficiar aquele que ainda não se encontra mergulhado nessa atividade ilícita, independentemente do tipo ou do volume de drogas apreendidas, para implementação de política criminal que favoreça o traficante eventual". Assim, para afastar a causa de diminuição de pena do art. 33, §4º, da Lei 11.343/2006, com suporte na dedicação a atividades criminosas, é preciso, além da quantidade de drogas, aliar elementos concretos suficientes o bastante que permitam a conclusão de que o agente se dedica a atividades criminosas e/ou integra organização criminosa, não bastando ilações e/ou suposições sem espeque fático válido.
+Dessa forma, o fato de o paciente ter sido preso com 321,14g de cocaína e quatro tabletes prensados de maconha, com cerca de 517,55g (fl. 40), por si só, não justifica o afastamento da minorante, sendo necessária a indicação de outras circunstâncias fáticas idôneas a evidenciar que se dedica a atividades criminosas.
+Assim, deve ser reconhecida a incidência da minorante do art. 33, §4º, da Lei n. 11.343/06, no patamar máximo (2/3).
+Passo à dosimetria da pena.
+Tendo em vista que a pena definitiva havia sido fixada em 5 anos de reclusão e 500 dias-multa, aplica-se a redução de 2/3, na terceira fase, pela incidência da causa de diminuição de pena do art. 33, § 4º, da Lei 11.343/2006, totalizando 1 ano e 8 meses de reclusão, e 166 dias-multa.
+Considerando-se a quantidade final de pena e as circunstâncias judiciais favoráveis, é cabível a fixação do regime inicial aberto e a substituição da pena privativa de liberdade por pena restritiva de direitos, a ser determinada pelo Juízo das Execuções.
+Ante o exposto, concedo o habeas corpus para fixar a condenação do paciente em 1 ano e 8 meses de reclusão, no regime inicial aberto, mais o pagamento de 166 dias-multa, substituindo-se a pena privativa de liberdade por pena restritiva de direitos.
+Comunique-se.
+Publique-se.
+Intimem-se.
+EMENTA
