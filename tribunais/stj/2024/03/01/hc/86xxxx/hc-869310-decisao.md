@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 45):
+TRÁFICO ILÍCITO DE DROGAS INTERESTADUAL. 1) ABSOLVIÇÃO. AUSÊNCIA DE DOLO E ERRO DE TIPO. IMPOSSIBILIDADE. Impõe-se referendar o édito condenatório quando o substrato probatório harmônico amealhado aos autos demonstra, de forma clara, a materialidade e a autoria do crime de tráfico ilícito de drogas imputado à apelante, restando comprovado pelos elementos de convicção, especialmente pela prova oral colhida em juízo que ela praticou verbo contido no art. 33, caput, da Lei nº 11.343/06, consubstanciado na conduta de "trasportar" substâncias entorpecentes, sem autorização e em desacordo com determinação legal ou regulamentar, ente Estado da federação e o Distrito federal, para fins de difusão ilegal no meio consumidor, não havendo que se falar em erro de tipo, pois comprovado que a apelante estava ciente do conteúdo da mercadoria que transportava, bem assim da ilicitude de sua conduta. 2) RESTITUIÇÃO DE BEM APREENDIDO. INVIABILIDADE. Não há que se falar em restituição do veículo apreendido, quando demonstrado que ele fora utilizado como instrumento para a atividade criminosa. Ademais, a apelante não se desincumbiu de comprovar que o bem fora adquirido de forma lícita, nos moldes do art. 61, § 1º, da Lei nº 11.343, impondo-se a manutenção da decretação do perdimento do automóvel em favor da União, nos termos do art. 63 da Lei nº 11.343/06. APELO CONHECIDO E DESPROVIDO.
+Consta dos autos que a paciente foi condenada como incursa no art. 33, caput, c/c o art. 40, V, ambos da Lei n.º 11.343/06, a 6 anos, 9 meses e 20 dias de reclusão, no regime prisional semiaberto, além do pagamento de 770 dias-multa, o que foi mantido pelo Tribunal de origem.
+No presente writ, a impetrante alega, em síntese, que a paciente faz jus à causa de diminuição de pena prevista no § 4º do art. 33 da Lei 11.343/06, no patamar máximo de 2/3 e a fixação do regime aberto.
+Salienta que "Embora tenha sido aplicado o parágrafo 4º do art 33 da Lei 11.343 de 2006 a diminuição não incidiu redução significante, de maneira que a pena ainda persistiu deveras alta" (fl. 5).
+Afirma que "o simples fato de o paciente ter sido condenado pelo cometimento de tráfico não enseja o estabelecimento do regime fechado OU SEMI-ABERTO pela gravidade em abstrato do delito. Com efeito, não pode esta ser suscitada pelo juízo para fixar o regime mais radical, conforme entendimento do STF" (fl. 7).
+Requer, assim, liminarmente e no mérito, a aplicação do redutor do tráfico privilegiado, no patamar máximo de 2/3, bem como a fixação do regime prisional aberto e à substituição da pena privativa de liberdade por restritivas de direitos.
+Indeferida a liminar e prestadas informações, o Ministério Público Federal manifestou-se pelo não conhecimento do writ.
+De pronto, verifica-se que a defesa não pleiteou a aplicação da causa de diminuição do tráfico privilegiado ao interpor o recurso de apelação, tendo apenas requerido a absolvição da ré, aos argumentos de ausência de dolo e por ter incorrido em erro de terceiro, e subsidiariamente, a restituição do veículo apreendido, conforme se vê à fl. 39 do acórdão.
+Nesse compasso, considerando que a Corte de origem não se pronunciou sobre o tema objeto da presente impetração, este Tribunal Superior não pode apreciar diretamente a matéria, sob pena de incursão em vedada supressão de instância. A propósito:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. LEGALIDADE DA PROVA. VIOLAÇÃO DE DOMICÍLIO. MATÉRIA NÃO DEBATIDA NA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. DEDICAÇÃO À ATIVIDADE CRIMINOSA EVIDENCIADA. AGRAVO NÃO PROVIDO.
+1. O tema relativo à ilegalidade da busca domiciliar não foi objeto de debate na Corte de origem. Portanto, é inviável o exame do tema diretamente por este Tribunal Superior, sob pena de indevida supressão de instância.
+ ..
+4. Agravo regimental não provido.
+(AgRg no HC n. 837.543/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO. BUSCA PESSOAL REALIZADA PELA GUARDA MUNICIPAL. ILICITUDE DAS PROVAS. PRISÃO. ALEGADA AUSÊNCIA DE CONTEMPORANEIDADE. TEMAS NÃO ABORDADOS NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. PLEITO DE PRISÃO DOMICILIAR. RÉ FORAGIDA. INVIABILIDADE. INCIDÊNCIA DA MINORANTE DO TRÁFICO. REQUISITOS NÃO PREENCHIDOS . AGRAVO REGIMENTAL IMPROVIDO.
+1. Não demonstrado pela defesa, por meio documental ou mesmo nas razões da impetração, que os temas relativos à ilegalidade da ação da guarda municipal bem como à ausência de contemporaneidade da prisão foram tratados na Corte de origem, afigura-se inviável e vedada a análise pretendida, sob pena de indevida supressão de instância.
+ ..
+4. Agravo regimental improvido.
+(AgRg no HC n. 873.229/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024.)
+Ante o exposto, não conheço o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
