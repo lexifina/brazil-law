@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOSÉ HUMBERTO DE ANDRADE e outra em face de acórdão assim ementado (fl. 476):
+AGRAVO DE INSTRUMENTO - PRELIMINAR - AUSÊNCIA DE DIALETICIDADE RECURSAL - REJEIÇÃO - EXECUÇÃO POR TÍTULO EXTRAJUDICIAL -NULIDADE DA DECISÃO -AUSÊNCIA DE FUNDAMENTAÇÃO - NÃO ACOLHIMENTO - CÉDULA DE CRÉDITO RURAL - PRAZO PRESCRICIONAL -PENHORA EFETIVADA -MOROSIDADE NAS DILIGÊNCIAS DO FEITO - AUSÊNCIA DE DESÍDIDA DA PARTE EXEQUENTE - ATUALIZAÇÃO DO CRÉDITO ANTES DO LEILÃO - POSSIBILIDADE - PEDIDO DE NOVA AVALIAÇÃO DO BEM PENHORADO - "SUPERVALORIZAÇÃO" DO IMÓVEL -AUSÊNCIA DE COMPROVAÇÃO - REPETIÇÃO DO ATO - DESNECESSIDADE.
+I - A dialeticidade exige que o agravante apresente ao Órgão revisor seus argumentos e fundamentos capazes de enfrentar especificamente aquilo que restou decidido na decisão combatida pela via recursal.
+II - A decisão judicial deve guardar rigorosa relação com a matéria em discussão e o procedimento eleito pela parte autora, ao perigo de não ser decifrável as razões e conclusão do juiz singular.
+III - A cédula rural pignoratícia possui prazo prescricional de 03 (três) anos, nos moldes do artigo 70 da Lei Uniforme de Genebra (Decreto nº 57.663/66).
+IV - Os prazos sem manifestação da parte exequente não podem ser somados para fins de contagem da prescrição intercorrente.
+V -A atualização do crédito em momento anterior ao leilão judicial é suficiente e mais indicada.
+VI - Nos termos do artigo 873 do Código de Processo Civil/2015, será admitida nova avaliação quando: qualquer das partes arguir, fundamentadamente, a ocorrência de erro na avaliação ou dolo do avaliador; se verificar, posteriormente à avaliação, que houve majoração ou diminuição no valor do bem; ou o juiz tiver fundada dúvida sobre o valor atribuído ao bem na primeira avaliação.
+VII - Na ausência de documentos que sustentem atese acerca da valorização do imóvel penhorado, deve ser mantida a avaliação do bem, em prestígio aos princípios da celeridade e economia processual.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, os recorrentes apontam a violação dos arts. 11 e 489, § 1º, I, II, III, IV, ambos do Código de Processo Civil/2015, sustentando a omissão do Tribunal de origem sobre (i) o pedido de avaliação direta do imóvel rural; (ii) a prescrição intercorrente; e (iii) a necessidade de atualização do débito.
+Aduzem a negativa de vigência do art. 60 do Decreto Lei 167/1967 e do art. 70 da Lei Uniforme de Genebra, sustentando a prescrição intercorrente em razão da inércia da parte pelo prazo superior a 4 anos.
+Afirmam a necessidade de atualização do débito executado e a nulidade do leilão, nos termos dos arts. 872, §§ 1º e 2º, 874, I, ambos do CPC/2015, uma vez que é possível o pedido de redução da penhora, caso o bem penhorado possua valor superior ao da dívida executada.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso não merece provimento.
+No que se refere à preliminar de violação dos arts. 489 e 1.022 do CPC/2015, não há falar em omissão no acórdão, mas apenas julgamento contrário aos interesses dos recorrentes, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência.
+Isso porque, ao solucionar a controvérsia, o Tribunal de origem consignou no acórdão do julgamento dos embargos de declaração que (i) o feito não ficou paralisado, continuamente, por um lapso temporal superior a três anos - prazo prescricional da cédula rural hipotecária; (ii) embora a parte exequente tenha deixado, por diversas vezes, de providenciar o andamento do feito, não se contemplou de forma contínua a inércia do processo por três anos e, como registrado na origem, os prazos sem manifestação do exequente não podem ser somados para a contagem do prazo prescricional; e (iii) embora não se ignore o considerável lapso temporal decorrido da data da avaliação (17/2/2020), percebo que os recorrentes não demonstraram indício algum de que ocorreu a supervalorização do preço de mercado do bem avaliado. Confira-se:
+Por outro lado, verifico que improcedem os embargos de declaração no que tange a alegada omissão sobre " ..  à demonstração do decurso contínuo de prazo superior a 04 anos  .. ".
+Ao analisar a possibilidade de configuração da prescrição intercorrente após a realização da penhora de bens, a Turma Julgadora entendeu que o feito não ficou paralisado, continuamente, por um lapso temporal superior a três anos -prazo prescricional da cédula rural hipotecária-.
+A matéria posta à apreciação foi devidamente analisada e fundamentada, inexistindo vícios a serem sanados por esta via recursal.
+Confira:
+"A parte exequente/agravada narra que o inadimplemento da dívida ocorreu em 05 de junho de 2002, ao passo que a ação de execução foi ajuizada em 12/12/2003, sendo respeitado, portanto, o prazo de três anos.
+Embora a penhora de bens dos executados tenha ocorrido em 14/11/2006, os agravantes defendem a ocorrência da prescrição intercorrente porque o exequente deixou de praticar diligências no feito por um largo lapso temporal.
+Observo que embora a parte exequente tenha deixado, por diversas vezes, de providenciar o andamento do feito, não se contemplou de forma contínua a inércia do processo por três anos e, como registrado na origem, os prazos sem manifestação do exequente não podem ser somados para a contagem do prazo prescricional.
+Desse modo, afasto a tese de ocorrência da prescrição intercorrente".
+Os embargantes divergem do entendimento adotado no acordão embargado no que diz respeito a atualização do débito pelos credores/exequentes antes da realização do leilão.
+"Em relação ao pedido de atualização do débito, da mesma forma, adiro ao entendimento externando pelo juízo de origem que determina ao credor/exequente a apresentação de cálculos atualizados antes da realização do leilão".
+Todavia, a insurgência não se amolda a qualquer dos vícios permissivos a oposição de embargos de declaração, mas apenas pretende modificar o entendimento externado pela Turma Julgadora.
+Os recorrentes alegam, ainda, ser necessária a realização de nova avaliação do bem ao argumento de que a última avaliação judicial realizada se deu em 17/02/2020 e de forma indireta.
+Entretanto, a Turma Julgadora fez as considerações pertinentes para indeferir o requerimento de nova avaliação, sem prevalecer qualquer obscuridade/contradição/omissão ou erro material.
+"Embora não se ignore o considerável lapso temporal decorrido da data da avaliação (17/02/2020), percebo que os agravantes não demonstraram qualquer indício de que ocorreu a supervalorização do preço de mercado do bem avaliado.
+Não foi apresentado laudo, parecer técnico ou qualquer outra prova indicativa do atual valor do imóvel.
+Desse modo, na ausência de documentos que sustentam a tese dos agravantes, deve ser mantida a avaliação do imóvel, em prestígio aos princípios da celeridade e economia processual".  ..  (e-STJ, fls. 558/561).
+Assim, apesar da rejeição dos embargos de declaração, não há como ser reconhecida a violação do art. 1.022 do CPC/15, porque não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento. Para tanto, basta o pronunciamento fundamentado acerca dos fatos controvertidos, o que se observa no presente caso, em que os motivos da decisão encontram-se objetivamente fixados nas razões do acórdão recorrido. Nesse sentido: EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro Og Fernandes, Corte Especial, DJe 3/8/2016.
+A jurisprudência desta Corte se firmou no sentido de que "a prescrição intercorrente pressupõe desídia do credor que, intimado a diligenciar, se mantém inerte" (Quarta Turma, AgRg no REsp 1.253.510/MG, Rel. Ministra MARIA ISABEL GALLOTTI, DJe de 14.6.2012). A saber:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA. REVISÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N.º 7/STJ.
+1. Conforme a jurisprudência do Superior Tribunal de Justiça, incide a prescrição intercorrente, nos processos regidos pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado.
+2. Na hipótese dos autos, o tribunal de Justiça afastou qualquer desídia da parte exequente.
+3. Rever o entendimento adotado pelo Tribunal de Justiça acerca da prescrição, especialmente, quanto à inércia do recorrido, demandaria reexame das provas colhidas nos autos, o que é inviável nesta via recursal, conforme o óbice previsto no Enunciado n.º 7 do Superior Tribunal de Justiça.
+ ..
+7. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+(AgInt no REsp n. 1.854.503/PR, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 25/10/2021, DJe de 3/11/2021.)
+O Tribunal de origem afastou a alegação de prescrição intercorrente sustentando que, embora a parte recorrida tenha deixado, por diversas vezes, de providenciar o andamento do feito, não se contemplou de forma contínua a inércia do processo por três anos e, como registrado na origem, os prazos sem manifestação não podem ser somados para a contagem do prazo prescricional.
+No que se refere à necessidade de nova avaliação do bem penhorado o Tribunal de origem consignou que os recorrentes não demonstraram indício algum de que ocorreu a supervalorização do preço de mercado do bem avaliado e, na ausência de documentos que sustentam a tese, deve ser mantida a avaliação do imóvel, em prestígio aos princípios da celeridade e economia processual.
+Como se vê, o Tribunal de origem solucionou toda a controvérsia à luz das provas presentes nos autos, concluindo ausência de prescrição intercorrente e da não comprovação de alteração no preço do imóvel penhorado, de sorte que a modificação das conclusões adotadas no acórdão recorrido demandaria a análise do conjunto fático-probatório dos autos, providência que esbarra no óbice da Súmula 7 do STJ.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
