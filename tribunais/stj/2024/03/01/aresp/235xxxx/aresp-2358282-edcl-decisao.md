@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra a decisão constante às e-STJ fls. 933/935, em que não conheci do agravo em recurso especial, ao fundamento de que: (i) no capítulo referente ao redirecionamento da execução fiscal, é inadequada a via eleita para rever decisão que nega seguimento ao apelo raro com fulcro em paradigma repetitivo; (ii) na parte relativa à prescrição, não houve impugnação específica da aplicação da Súmula 7 do STJ.
+Nas suas razões (e-STJ fls. 940/941), a parte embargante alega que a decisão ora impugnada incorreu em contradição. Afirma que é cabível o AREsp, pois: (a) a referida negativa de seguimento do apelo nobre se deu "aduzindo a falta de requisitos formais"; (b) "em relação à prescrição, (..) os embargantes atacaram de forma específica o tema, com abordagem bastante profunda, bastando singela leitura das peças recursais".
+A parte embargada apresentou impugnação (e-STJ fls. 947/948).
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+Especificamente em relação ao vício apontado, vale lembrar que "a contradição que efetivamente autoriza o manejo dos declaratórios é vício intrínseco ou interno do julgado, que se caracteriza pela existência de fundamentos antagônicos entre as razões de decidir, ou entre estes e o dispositivo, relatório ou ementa, capaz de gerar dúvida a respeito do que foi realmente apreciado pelo julgador" (AgInt no REsp 1.405.887/SP, Relator Ministro Gurgel de Faria, Primeira Turma, DJe 05/04/2018).
+No presente caso, não há, a toda evidência, premissas inconciliáveis na decisão embargante que caracterize a indicada contradição.
+Isso porque a fundamentação contida na decisão impugnada foi clara ao assentar o não cabimento do agravo em recurso especial para rever a parte da decisão a quo que negou seguimento ao recurso especial com fundamento no precedente que julgou o Tema 981 do STJ.
+No tocante à prescrição, expliquei que o agravo em recurso especial não impugnou especificamente o fundamento de inadmissão do apelo raro adotado pela Corte de origem, referente à incidência da Súmula 7 do STJ, porquanto limitou-se a tecer argumentação genérica de que o tema seria exclusivamente de direito, deixando de apresentar o cotejo entre as premissas fáticas e as conclusões delinenadas no acórdão recorrido a sua tese recursal, a fim de de monstrar a prescindibilidade do reexame fático e probatório.
+Constato, assim, que a insurgência do embargante não diz respeito à eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, possuindo (a insugência) caráter meramente infringente e, por isso, sendo de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Entretanto, sopesando a boa-fé objetiva, não considero est es primeiros aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
