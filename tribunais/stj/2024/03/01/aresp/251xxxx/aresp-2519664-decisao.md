@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão, que inadmitiu o recurso especial em razão da aplicação do art. 1.030, I, "b", do CPC/2015 e ausência de omissão (e-STJ fls. 1.294/1.306).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 1.165):
+AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - EXTINÇÃO SEM JULGAMENTODE MÉRITO - PEDIDO DE DESISTÊNCIA - HONORÁRIOS SUCUMBENCIAIS - FIXAÇÃOPOR EQUIDADE - DESCABIMENTO - TEMA 1.076, STJ - REGRA GERAL - §§2º e 3º DOART. 85 DO CPC - VALOR ATUALIZADO DA CAUSA - RECURSO PROVIDO.
+A fixação dos honorários de sucumbência por apreciação equitativa só é cabível nas hipóteses excepcionais previstas no § 8º, do art. 85 do CPC, quais sejam: se o proveito econômico for inestimável; se o proveito econômico for irrisório ou se o valor da causa for muito baixo. A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação ou da causa, ou o proveito econômico da demanda, forem elevados.
+É obrigatória, nesses casos, a observância dos percentuais previstos nos §§ 2º e 3º do CPC, que traz uma regra geral e impositiva, segundo a qual os honorários sucumbenciais devem ser fixados no patamar de10% a 20%, que deverá incidir: 1ª opção: sobre o valor da condenação; 2ª opção: sobre o proveito econômico objetivo; ou 3ª opção: sobre o valor atualizado da causa (caso não seja possível mensurar o proveito econômico).
+A extinção do processo executivo, sem resolução de mérito, impõe a fixação da verba honorária sucumbencial de acordo com a regra geral prevista nos §§2º e 3º do art. 85 do CPC, por não se subsumira hipótese excepcional de que trata o § 8º do citado dispositivo.
+Recurso provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.195/1.201).
+Nas razões do recurso especial (e-STJ fls. 1.215/1.230), interposto com fundamento no art. 105, III, "a", da CF, a parte alegou violação dos arts. 85, § 2º, 489, II, e § 1º, e 1.022, parágrafo único, II, do CPC/2015, porque (e-STJ fls. 1.224/1.226):
+ ..  em que pese demonstrar ter compreendido o entendimento firmado no Tema 1076/STJ, deixou de aplicá-lo adequadamente, violando a hierarquia estipulada pelo art. 85, §2º do CPC ao fixar de pronto o valor da causa como base de cálculo dos honorários sucumbenciais.
+Vinculado a isso, tem-se que o acórdão também infringiu o disposto no art.489, inciso II e §1º, inciso IV; art. 1.022, inciso II e parágrafo único, inciso I Ido Código de Processo Civil, tendo em vista que ignorou a existência de proveito econômico mensurável na causa, em que pese tal ponto tenha sido impugnado pelo Recorrente.
+É que a conclusão do Tribunal foi de que não existe proveito econômico nos autos. Contudo, nota-se que a existência deste está clara, sobretudo por se tratar do objeto principal da ação, e que o Tribunal optou ignorá-lo, em manifesta negativa de prestação jurisdicional.
+Ora, trata-se de ação de execução de título extrajudicial, na qual necessariamente consta a previsão de quantia líquida e certa, sobre a qual inclui-se encargos moratórios(previstos no titulo executivo). Logo, tem-se que o proveito econômico é o valor principal executado acrescido dos demais encargos.  ..
+ao consignar que inexiste proveito econômico nos autos e optar pelo arbitramento dos honorários sobre o valor atualizado da causa, em flagrante violação ao disposto no art. art. 85, 2º do CPC, o qual, corroborado pelo entendimento sedimentado nesta Corte Superior (Tema 1076), dispõe que só caberia o arbitramento sobre o valor atualizado da causa se o proveito econômico fosse imensurável, o que não é o caso destes autos.
+No agravo (e-STJ fls. 1.307/1.327), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 1.350/1.355 e 1.356/1.361).
+É o relatório.
+Decido.
+Conforme o § 2º do art. 1.030 do CPC ("Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021"), compete somente ao Tribunal de origem a análise de eventual distinção entre o precedente formado pelo recurso especial repetitivo e o caso concreto. A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+ ..
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 701.404/SC, Relator Ministro JOÃO OTÁVIO DE NORONHA, Relator para Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/9/2018, DJe 30/11/2018.)
+A Corte de origem, na sistemática estabelecida pelo legislador para a análise das demandas repetitivas, negou seguimento à insurgência recursal, asseverando que o acórdão anterior está em consonância com a jurisprudência do STJ firmada em recurso repetitivo. Portanto, em conformidade com a jurisprudência citada, a matéria não foi devolvida a novo exame deste Tribunal Superior, motivo pelo qual não conheço dessa parte da irresignação.
+No entanto, devidamente impugnada a decisão que inadmitiu o especial, o agravo nos próprios autos merece parcial conhecimento para apreciação do especial em relação à insurgência restante.
+Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à tese, o Tribunal de origem assim se manifestou nos aclaratórios (e-STJ fl. 1.200):
+No caso em pauta, inexiste o apontado vício, pois, o acórdão embargado não deixou de enfrentar o ponto impugnado, pontuando as razões de decidir pelas quais reformou a sentença afim de retificar a verba honoraria fixada por equidade, para fazer incidir sobre o valor atualizado da causa.
+Em relação à questão tida por omissa, constou da do acórdão ratio decidendi embargado que:
+"  .. a norma processual civil não permite que se aplique o § 8º do art. 85 nos casos em que o valor da condenação, o valor da causa ou o valor do proveito econômico forem elevados, porquanto, não existe essa previsão no § 8º acima transcrito.
+No caso em pauta, houve a desistência do feito executivo no qual se objetivava o recebimento da importância de R$ 41.678,20 (quarenta e um mil seiscentos e oitenta e sete reais e vinte centavos), referente a inadimplemento de título executivo extrajudicial, logo, sobre este valor, que foi atribuído à causa, é que deve recair o percentual previsto no §2º do art. 85 do CPC, vez que ausente condenação e não existindo proveito econômico, a verba honoraria sucumbencial incide sobre o valor atualizado da causa  .. " Id n. 135073160.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em nenhum dos vícios previstos nos arts. 489 e 1.022 do CPC/2015.
+Diante do exposto, CONHEÇO PARCIALMENTE do agravo para, nesta parte, NEGAR PROVIMENTO ao recurso especial .
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
