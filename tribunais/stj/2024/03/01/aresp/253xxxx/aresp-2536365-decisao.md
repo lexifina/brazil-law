@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto UNIMED CAMPINAS COOPERATIVA DE TRABALHO MÉDICO contra a decisão de fls. 341-343 (e-STJ), proferida em juízo provisório de admissibilidade, a qual negou seguimento ao recurso especial.
+O apelo extremo foi deduzido com base no art. 105, a, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de de São Paulo assim ementado (fl. 296, e-STJ):
+PLANO DE SAÚDE. PRELIMINAR AFASTADA.
+NEGATIVA DE COBERTURA IMPOSSIBILIDADE. INCIDÊNCIA DA LEI Nº 9.656/98. INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. QUESTÕES SUMULADAS PELO TRIBUNAL. PRECEDENTES DO C. SUPERIOR TRIBUNAL DE JUSTIÇA.
+Plano de saúde. Preliminar afastada. Cerceamento de defesa inocorrente. Negativa de cobertura.
+Autora diagnosticada com transtorno depressivo recorrente. Prescrição médica dos tratamentos denominados "Estimulação Magnética Transcraniana (EMT) e Eletroconvulsoterapia (ECT)". Negativa de cobertura assistencial pela ré.
+Impossibilidade. Incidência da Lei nº 9.656/98 e da Lei nº 8.078/90, conforme sumulado pelo E. STJ.
+Ademais, a alegação de não constar o tratamento nos róis da ANS é irrelevante, porquanto tais relações não podem suplantar a lei, mas apenas torná-la exequível. Entendimento recente do C. Superior Tribunal de Justiça acerca da taxatividade do rol da ANS que não é vinculante, conforme se decide mesmo na Corte Superior. Precedentes jurisprudenciais. Inteligência, ainda, da Súmula nº 102 deste E. Tribunal c. c. a Lei nº 14.454/22, que alterou a LPS. Sentença mantida.
+Recurso não provido.
+Nas razões do recurso especial (fls. 317-327, e-STJ), a recorrente alegou que o acórdão impugnado incorreu em violação dos arts. 10, 35-F da Lei 9.656/1998; 4º da Lei 9.961/2000; 51 e 54 do Código de Defesa do Consumidor.
+Sustentou, em suma:
+(i) ser indevida a cobertura para os tratamentos pleiteados pela recorrida, tendo em vista não constarem eles expressamente do Rol de Procedimentos obrigatórios emitidos pela ANS, o qual possui caráter taxativo;
+(ii) que a prestação de serviços de saúde pela operadora de plano de saúde está restrita aos termos do contrato e ao referido Rol da ANS; e
+(iii) não haver abusividade nas cláusulas contratuais que limitam os direitos dos consumidores desde que elas sejam claras, de fácil entendimento e redigidas em destaque, como no caso em análise.
+Em juízo de admissibilidade (fls. 341-343, e-STJ), a corte de origem negou o processamento do recurso especial ante a aplicação da Súmula 83/STJ, tendo em vista o acórdão recorrido encontrar-se em harmonia com a jurisprudência desta Corte sobre a matéria.
+Irresignada (fls. 346-360 e-STJ), aduz a agravante que o reclamo merece trânsito, limitando suas razões a refutar a incidência das Súmulas 5 e 7/STJ - as quais não foram aplicadas - e a repisar as mesmas razões já trazidas no recurso especial.
+Contraminuta às fls. 363-370 (e-STJ).
+Brevemente relatado, decido.
+De início, verifica-se que o recurso foi interposto na vigência do novo Código de Processo Civil. Sendo assim, sua análise obedecerá ao regramento nele previsto. Portanto, aplica-se, na hipótese, o Enunciado Administrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com efeito, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que cabe à parte agravante, nas razões do agravo em recurso especial, trazer argumentos para contestar a decisão do Tribunal de origem que negou seguimento ao recurso especial, justificando, tese a tese, o cabimento do apelo especial, conforme determina expressamente o art. 932, III, do CPC/2015.
+Assim, a parte recorrente deve rebater todos os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge, especificamente, contra todos eles.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DOS ARTS. 932, III, E 1.021, § 1º, DO CPC/2015 E DA SÚMULA 182 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. AÇÃO CAUTELAR. PRESTAÇÃO DE SERVIÇOS DE TRANSPORTE AÉREO. SUPERVENIÊNCIA DE CAUSA ENSEJADORA DE CARÊNCIA DE AÇÃO. HONORÁRIOS DEVIDOS. CAUSALIDADE.
+1. "Nos termos dos artigos 932, III, e 1.021, § 1º, do Código de Processo Civil de 2015 e da Súmula 182 do Superior Tribunal de Justiça (STJ), é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada" (AgInt no AREsp 903.181/MG, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. em 18/04/2017, DJe de 27/04/2017).
+2. A falta de prequestionamento da matéria alegada nas razões do recurso especial impede seu conhecimento, não obstante a oposição de embargos declaratórios. Incidência da Súmula 211 do STJ.
+3. A ausência de impugnação de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+4. É firme o entendimento do STJ no sentido de que, "havendo interesse de agir, quando ajuizada a Ação Cautelar, e sendo extinto o processo, por superveniente perda do interesse processual, responderá pelos ônus da sucumbência aquele que deu causa à demanda" (REsp 1.683.442/RJ, Relator Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 3/10/2017, DJe de 11/10/2017).
+5. Agravo interno não conhecido (AgInt no AREsp n. 507.521/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/11/2023, DJe de 1/12/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALTERAÇÃO DO JULGADO. IMPOSSIBILIDADE. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, INCISO III, DO CPC. RAZÕES GENÉRICAS. PRINCÍPIO DA DIALETICIDADE.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, inciso III, do CPC).
+2. Inadmitido o recurso especial na origem com base na Súmula nº 83/STJ, cabe ao agravante indicar, na petição de agravo em recurso especial, os precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior. Precedentes do STJ.
+3. No que diz respeito à Súmula nº 7/STJ, não basta a parte sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas. Precedente.
+4. Agravo interno não provido (AgInt no AREsp n. 2.247.737/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 11/12/2023, DJe de 15/12/2023.)
+No caso, verifica-se que a agravante não atendeu a esse reclamo, pois não refutou o óbice de admissibilidade do recurso especial interposto.
+Com efeito, no tocante à aplicação da Súmula 83/STJ, tendo em vista o acórdão recorrido encontrar-se em consonância com a jurisprudência desta Corte, verifica-se, de plano, que tais fundamentos não foram sequer mencionados nas razões do agravo.
+Dessa forma, a falta de ataque específico a todos os fundamentos da decisão agravada encontra óbice no teor do art. 932, III, do CPC/2015, desatendendo os recorrentes o princípio da dialeticidade exigido na esfera recursal.
+Diante do exposto, não conheço do agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor do patrono da parte recorrida em 2% (dois por cento) sobre o valor da condenação.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA INDEVIDA. AUSÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. ART. 932, III, DO CPC/2015. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
