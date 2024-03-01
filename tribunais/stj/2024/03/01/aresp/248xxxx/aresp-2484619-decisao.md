@@ -1,0 +1,18 @@
+DECISÃO
+Na origem, trata-se de ação ordinária referente a irregularidades na prestação de serviços à municipalidade. Na sentença, julgou-se o pedido im procedente. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 37.533,53 (Trinta e sete mil, quinhentos e trinta e três reais e cinquenta e três centavos).
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO - CONTRATO ADMINISTRATIVO - PRESTAÇÃO DE SERVIÇOS DE LIMPEZA, ZELADORIA E PORTARIA JUNTO A UMA DAS SECRETARIAS MUNICIPAIS - AÇÃO OBJETIVANDO A DECLARAÇÃO DE INEXISTÊNCIA DA OBRIGAÇÃO DE PAGAMENTO DE NOTAS FISCAIS EMITIDAS APÓS A PRESTAÇÃO DE SERVIÇOS E CANCELAMENTO DO PROTESTO - ANÁLISE DO PODER JUDICIÁRIO SE RESTRINGE À LEGALIDADE DO ATO "INEXISTÊNCIA DE PROCEDIMENTO ADMINISTRATIVO  IMPOSSIBILIDADE DE APLICAÇÃO DE PENALIDADE SEM A OBSERVAÇÃO DOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, CONTRADITÓRIO E AMPLA DEFESA - AÇÃO JULGADA IMPROCEDENTE RATIFICAÇÃO DOS FUNDAMENTOS DA R. SENTENÇA, NOS TERMOS DO ARTIGO 252 DO RITJSP - RECURSO NÃO PROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Destaca-se que as testemunhas ouvidas, inclusive a arrolada pelo Apelante, foram categóricas em afirmar que o contrato foi cumprido, os apontamentos foram corrigidos e, inexiste qualquer dano ao Município pela execução do contrato de prestação de serviços.
+Contudo, como já tido, todas as irregularidades deveriam ter sido objeto de procedimento administrativo apto a apurar a existência de irregularidades contratuais, e, somente, após a aplicação dos princípios do devido processo legal, ampla defesa e contraditório, aplicar-se penalidade.
+(..)
+Ressalto, em remate, que a r. sentença analisou com profundidade todas as questões postas nos autos e repetidas nos recursos e a sua leitura permite ver cristalinamente o porquê do decisum.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria e ao contrato administrativo. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório e das cláusulas contratuais, o que é vedado pelos enunciados ns. 5 e 7 das Súmulas do STJ.
+Relativamente à alegação de violação do art. 78 da Lei n. 8.666/1993, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
