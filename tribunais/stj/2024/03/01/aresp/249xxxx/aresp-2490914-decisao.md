@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento ao recurso especial interposto em face de acórdão assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. MULTA POR LITIGÂNCIA DE MÁ-FÉ. PRELIMINAR NAS CONTRARRAZÕES AFASTADA. RESPONSABILIDADE DA EMPRESA PELO VÍCIO OCULTO EXISTENTE NO VEÍCULO. FALHA NO SERVIÇO DE REVISÃO. COMPROVAÇÃO. LAUDO TÉCNICO PERICIAL PRODUZIDO EM JUÍZO. HONORÁRIOS RECURSAIS. SENTENÇA MANTIDA.
+1. Para fins de condenação ao pagamento de multa por litigância de má-fé, é necessário o prognóstico de dois elementos, um de cunho subjetivo, a fomentar a conduta da suposta litigante de má-fé - dolo ou culpa grave -, e outro objetivo, qual seja, o efetivo prejuízo causado à parte contrária. No caso em exame, não restaram comprovados quaisquer um dos elementos acima referidos, razão pela qual não vislumbro a má-fé suscitada pela parte apelada, como preliminar ao recurso.
+2. Na dicção do artigo 373, I e II, do CPC/15, compete ao requerente/apelado o ônus de provar os fatos constitutivos do seu direito, enquanto que, à empresa requerida/apelante, incumbe a comprovação da existência de fato impeditivo, modificativo ou extintivo Da pretensão autoral.
+3. Ao contrário da alegação da empresa ré/apelante, analisando o contexto factual, bem como os elementos probatórios constantes dos autos, notadamente o Laudo Técnico Pericial produzido em juízo, há ligação entre os serviços anteriores, por ela prestados no veículo de propriedade do apelado e o motivo pelo qual gerou a quebra do motor (vício oculto existente - artigo 26 do CDC). A conclusão do expert foi de que houve a constatação de falha no motor de combustão diesel do veículo do requerente, cujo agente causador foi a falta de óleo na lubrificação interna dos componentes do motor.
+4. Com efeito, na espécie, está configurado o dever da ré/apelante em reparar os danos materiais e morais existentes, sendo objetiva sua responsabilidade, como dispõe o artigo 14, caput, do CDC.
+5. Honorários advocatícios sucumbenciais majorados em desproveito da requerida/apelante, na forma do artigo 85, § 11, do CPC/15.6.
+RECURSO DE APELAÇÃO CONHECIDO, MAS DESPROVIDO. SENTENÇA MANTIDA"
+A recorrente aponta, além de divergência jurisprudencial, no que tange à aplicação dos arts. 505, 507 e 1.022 do Código de Processo Civil, sustentando, em síntese, negativa de prestação jurisdicional e que ante o deferimento tácito da assistência judiciária gratuita em momento anterior não poderia ter ocorrido sua posterior revogação, ante o instituto da preclusão.
+Contrarrazões às fls. 788/795 e-STJ.
+Juízo de admissibilidade proferido às fls. 799/804 e-STJ.
+De início, da leitura do acórdão recorrido verifica-se que o Tribunal de origem se pronunciou exaustivamente sobre a questão, não havendo omissão, mas apenas decisão contrária ao interesse da parte agravada, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência.
+No mérito, o entendimento deste Superior Tribunal de Justiça é no sentido de que a ausência da apreciação do pedido de concessão da justiça gratuita não implica sua concessão tácita.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AUTOR.
+1. A ausência de apreciação do pedido de justiça gratuita pelo Tribunal de origem não significa deferimento tácito. O benefício da gratuidade judiciária não tem efeito retroativo, de modo que a sua concessão posterior à interposição do recurso não tem o condão de isentar a parte do recolhimento do respectivo preparo. Precedentes.
+2. Esta Corte Superior de Justiça possui jurisprudência no sentido de que o prévio recolhimento da multa processual prevista no artigo 1021, § 4º, do CPC/15, imposta ao litigante, constitui pressuposto recursal objetivo de admissibilidade, de maneira que a ausência de comprovante de seu depósito obsta o conhecimento do recurso interposto posteriormente à condenação.
+2.1. Na hipótese, ausente a comprovação do recolhimento do valor da multa aplicada pelo Tribunal de origem, e não sendo a parte beneficiária da justiça gratuita, impõe-se o não conhecimento do recurso especial.
+3. Agravo interno desprovido" (AgInt no AREsp n. 1.767.196/MT, relator Ministro Marco Buzzi, QUARTA TURMA, DJe de 21/2/2022.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS DE TERCEIRO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE EMBARGADA.
+1. O diferimento do pagamento das custas judiciais ao final do processo, regulamentada por Lei Estadual, não tem o condão de eximir a parte do pagamento das custas devidas ao STJ, porque têm natureza de taxa federal. Precedentes.
+2. O benefício da gratuidade judiciária não tem efeito retroativo, de modo que a sua concessão posterior à interposição do recurso não tem o condão de isentar a parte do recolhimento do respectivo preparo.
+3. A ausência de apreciação do pedido de justiça gratuita pelo Tribunal de origem não significa deferimento tácito.
+4. A jurisprudência do STJ possui entendimento segundo o qual deve ser reconhecida a deserção do recurso especial se, após a intimação, nos termos do art. 1.007, § 4º, do CPC/15, a parte não comprovar o pagamento ou não o efetuar em dobro.
+4.1. No presente caso, mesmo após a intimação da parte recorrente para que sanasse o vício apontado no prazo de 5 (cinco) dias, não houve a comprovação da regularidade no recolhimento do preparo no prazo fixado, o que impõe a incidência da Súmula 187 do STJ.
+Deserção do recurso especial reconhecida. Precedentes.
+5. Agravo interno desprovido" (AgInt no AREsp n. 1.856.782/SP, relator Ministro Marco Buzzi, QUARTA TURMA, DJe de 16/12/2021.)
+Em face do exposto, nego provimento ao agravo. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte agravada, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
+EMENTA
