@@ -1,0 +1,12 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de fls. 87/88 (e-STJ).
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de RAFAEL DANTAS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (Correição Parcial Criminal n. 0054217-06.2022.8.16.0000).
+Consta dos autos que o paciente foi denunciado pela suposta prática dos delitos previstos no art. 121, § 2º, II e III c/c art. 14, II, do Código Penal; art. 14, caput, da Lei n. 10.826/2003, e art. 307,caput, do Código de Trânsito Brasileiro, todos na forma do art. 69, do Código Penal.
+Nos autos da ação penal, o magistrado processante determinou a readequação para oito testemunhas a serem apresentadas pela defesa e designou data para audiência de instrução na ação penal principal. Inconformada com a decisão, a defesa interpôs correição parcial, que restou indeferida pelo Tribunal de origem. Os impetrantes sustentam que o paciente está sofrendo constrangimento ilegal em razão de decisão que afrontou o princípio da segurança jurídica, bem como a legislação e jurisprudência referente ao número de testemunhas na primeira fase do Tribunal do Júri. Alegam que a decisão do juiz substituto causou tumulto processual, uma vez que, após nove meses, sem qualquer provocação ou irresignação das partes, revogou, de ofício, decisão anterior proferida pelo juiz titular do Tribunal do Júri, que havia homologado o rol de testemunhas da defesa a serem ouvidas em audiência de instrução.
+Argumentam que, a despeito da literalidade do art. 406, §3º, do CPP, a jurisprudência pátria já convencionou acerca da possibilidade de ser arrolado o total de oito testemunhas por fato, razão pela qual é plenamente plausível o rol de 24 testemunhas apresentadas pela defesa, já que o ora paciente responde pela prática de três fatos delituosos.
+Requerem, liminarmente e no mérito, a concessão da ordem a fim de que seja admitido na íntegra o rol de testemunhas/informantes apresentado pela defesa, cassando-se a decisão que revogou de ofício o deferimento do rol pelo juízo titular da 2ª Vara Sumariante do Tribunal do Júri de Curitiba/PR.
+Decido.
+Intimada para se manifestar, a defesa noticia a perda de objeto desta impetração (e-STJ fls. 128/129 ).
+Ante  o  exposto,  julgo  prejudicado  o presente habeas corpus.
+Publique-se . Intimem-se.
+EMENTA
