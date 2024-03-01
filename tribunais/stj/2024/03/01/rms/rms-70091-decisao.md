@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança, com fundamento no art. 105, inciso II, alínea "b", da Constituição Federal, interposto por ECOPOLO GESTÃO DE ÁGUAS, RESÍDUOS E ENERGIA LTDA. contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO INTERNO PROCESSUAL CIVIL. Recurso interposto contra decisão que, em mandado de segurança impetrado contra ato judicial, indeferiu a inicial e denegou a segurança, por ausência de interesse processual. Por força do disposto no art. 6º, § 5º da Lei nº12.016/2009, na ocorrência de qualquer das hipóteses de extinção do processo sem julgamento de mérito elencadas no Código de Processo Civil, a segurança deve ser denegada. Ademais, conforme jurisprudência pacífica, o cabimento do mandado de segurança em face de ato judicial é reservado aos casos excepcionais, não bastando que contra a decisão não seja cabível recurso com efeito suspensivo, mas sendo também exigida a demonstração de perigo de dano irreparável e a relevância do pedido, bem como que o ato impugnado seja teratológico ou manifestamente abusivo. No caso, a decisão monocrática agravada fundamentou devidamente as razões pelas quais entendeu não estarem presentes os requisitos para o recebimento da petição inicial. Violação ao princípio da colegialidade. Inocorrência. É dever do relator negar seguimento a pleitos manifestamente improcedentes, inclusive nos feitos de competência originária do Tribunal, conforme disposto no art. 168, § 3º do RITJSP. Decisão mantida. Recurso não provido" (fl. 1.483).
+Os embargos de declaração opostos foram rejeitados nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. Inexistência de omissão, contradição ou obscuridade a ser sanada. Pretensão de manifestação expressa sobre todas as teses arguidas. Descabimento. Decisão embargada que enfrentou de maneira suficiente a controvérsia apresentada. Embargos de declaração rejeitados" (fl. 1.493).
+Nas razões do recurso ordinário, a recorrente asseverou que a negativa de inquirição do perito em audiência constitui ofensa aos princípios constitucionais do contraditório, da ampla defesa e do devido processo legal.
+Por fim, requereu o deferimento da segurança pleiteada ao fundamento de que demonstrada a ilegalidade, a abusividade e a teratologia do ato coator.
+Foram apresentadas contrarrazões às fls. 1.514/1.525.
+O Ministério Público Federal ofertou parecer pelo não provimento do recurso (fls. 1.532/1.537).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+Trata-se, na origem, de mandado de segurança impetrado contra o ato do Juiz de Direito da 4ª Vara Cível do Foro Regional XI - Pinheiros/SP, que, em ação de produção antecipada de provas, homologou, por sentença, a perícia realizada e determinou a extinção do processo.
+No entanto, o Tribunal de origem denegou a segurança devido à inexistência de ilegalidade ou teratologia da decisão prolatada.
+Eis o excerto do voto condutor, ora transcrito na parte que interessa:
+"(..)
+Portanto, in casu, em tendo o Magistrado que atuou na causa originária entendido que a ação de produção antecipada de provas já tinha atingido a sua finalidade, nada lhe impedia que proferisse desde logo a sentença homologatória da perícia, o que deixa claro que, em seu entender, eram desnecessários ou impertinentes os quesitos suplementares formulados, ainda que a decisão não os tenha indeferidos de forma expressa.
+Além disso, na decisão agravada também se considerou que, não estando a parte impedida de requerer os mesmos esclarecimentos em eventual ação principal, ou mesmo a realização de nova perícia, conforme lhe assegura o art. 480 do CPC, tampouco há que se falar em urgência que justifique a necessidade da utilização do mandado de segurança" (fl. 1.487).
+Verifica-se, assim, que o TJSP denegou a ordem no mandado de segurança por entender que o suposto ato coator não se ressente de ilegalidade nem é teratológico.
+Com efeito, a Corte local destacou que o juízo de origem, nos autos da ação de produção antecipada de provas, entendeu que desnecessária a formulação de quesitos suplementares, tendo em vista o atingimento da finalidade da ação de produção antecipadas de provas.
+A jurisprudência deste Tribunal Superior é firme no sentido de que o julgador é o destinatário final das provas, cabendo-lhe verificar a necessidade de sua produção, cujo indeferimento não configura cerceamento de defesa.
+Dessa forma, não se mostra ilegal ou teratológica a decisão proferida pelo juízo de primeiro grau que indeferiu o pedido de apresentação de quesitos suplementares.
+A propósito:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. PROVA. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. TESTAMENTO. CAPACIDADE CIVIL E PLENO DISCERNIMENTO. AUSÊNCIA DE VÍCIOS FORMAIS. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SUMULA N. 83 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Considera-se deficiente a fundamentação de recurso especial que alega violação do art. 1.022 do CPC/2015 e não demonstra, clara e objetivamente, qual ponto omisso, contraditório ou obscuro do acórdão recorrido não foi sanado no julgamento dos embargos de declaração. Incidência da Súmula n. 284 do STF.
+3. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83 do STJ).
+4. A jurisprudência deste Tribunal Superior é firme no sentido de que "o magistrado é o destinatário final das provas, cabendo-lhe analisar a necessidade de sua produção, cujo indeferimento não configura cerceamento de defesa" (AgInt no AREsp n. 1.600.225/DF, de minha relatoria, QUARTA TURMA, julgado em 22/11/2021, DJe de 26/11/2021).
+5. Esta Corte compreende que, "em se tratando de sucessão testamentária, o objetivo a ser alcançado é a preservação da manifestação de última vontade do falecido, devendo as formalidades previstas em lei serem examinadas à luz dessa diretriz máxima, sopesando-se, sempre casuisticamente, se a ausência de uma delas é suficiente para comprometer a validade do testamento em confronto com os demais elementos de prova produzidos, sob pena de ser frustrado o real desejo do testador" (REsp n. 1.633.254/MG, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 11/03/2020, DJe 18/03/2020).
+6. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+7. Agravo interno a que se nega provimento."
+(AgInt nos EDcl no AREsp 2.302.993/SP, Relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 27/11/2023, DJe de 1/12/2023).
+Consoante a jurisprudência do Superior Tribunal de Justiça, ausente manifesta ilegalidade ou teratologia da decisão prolatada, a segurança deve ser denegada.
+Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA ATO JUDICIAL. SUCEDÂNEO RECURSAL. NÃO CABIMENTO. TERATOLOGIA. INEXISTÊNCIA. SÚMULA 267/STF. ACÓRDÃO RECORRIDO NO MESMO SENTIDO DA JURISPRUDÊNCIA DO STJ.
+1. O acórdão recorrido não destoa da jurisprudência do STJ, no sentido de que a via estreita do writ não se presta para avaliar o acerto ou desacerto de decisões judiciais, somente podendo ser proposto contra ato judicial, excepcionalmente, em situações nas quais pode se verificar, de plano, ato judicial eivado de ilegalidade, teratologia ou abuso de poder, que importem ao paciente irreparável lesão ao seu direito líquido e certo.
+2. Não cabe mandado de segurança contra ato judicial passível de recurso ou correição nos termos da Súmula 267 do STF. No mesmo sentido: STJ, AgInt no MS n. 28.373/DF, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 19/4/2022; AgInt no RMS n. 68.478/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 29/8/2023). Agravo interno improvido."
+(AgInt no RMS 71.965/SP, Relator Ministro HUMBERTO MARTINS, Terceira Turma, julgado em 30/10/2023, DJe de 3/11/2023).
+Ante o exposto, nego provimento ao recurso ordinário em mandado de segurança.
+Publique-se.
+Intimem-se.
+EMENTA
