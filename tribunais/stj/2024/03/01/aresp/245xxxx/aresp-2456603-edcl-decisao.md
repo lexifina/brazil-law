@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MARCELLA PADILHA SPINELLI e OUTRAS à decisão desta relatoria (e-STJ, fls. 921-927) assim ementada:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.1. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. INAPLICABILIDADE DO ART. 932, III, DO CPC/2015.2. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. REVISÃO DO VALOR FIXADO A TÍTULO DE INDENIZAÇÃO POR DANOS MORAIS. SÚMULA N. 7/STJ. 3. AGRAVO CONHECIDO, EM JUÍZO DE RECONSIDERAÇÃO, PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Em suas razões, as embargantes alegam que há omissão no julgado, sob o argumento de que a decisão embargada não se pronunciou a respeito da tese de negativa de prestação jurisdicional por parte do Tribunal de Justiça do Estado de Pernambuco, além de ser omissa quanto aos fundamentos da aplicação do óbice da Súmula 7/STJ.
+Foi apresentada impugnação (e-STJ, fls. 944-947).
+Brevemente relatado, decido.
+As razões do recurso revelam tão somente o intuito de reapreciação da causa, o que não se admite em embargos de declaração, os quais possuem índole particular e fundamentação vinculada, cujo objetivo é a declaração do verdadeiro sentido de uma decisão eivada de obscuridade, contradição ou omissão (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Na mesma linha de cognição:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO. PRECEDENTES. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC. EMBARGOS REJEITADOS, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou à rediscussão do julgado que não conheceu dos primeiros embargos de declaração.
+4. Em razão de a oposição dos segundos embargos de declaração constituir prática processual abusiva e protelatória, por ausência dos vícios previstos no art. 1.022 do NCPC e pela ausência de recolhimento prévio da multa aplicada com amparo no art. 1.021, § 4º, do NCPC, deve ser aplicada a multa prevista em seu art. 1.026, § 3º, no percentual de 3% sobre o valor atualizado da causa.
+5. Embargos de declaração rejeitados, com imposição de multa.
+(EDcl nos EDcl no AgInt no AREsp 1.168.511/ES, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 04/05/2020, DJe 07/05/2020)
+Com efeito, não há na decisão impugnada nenhuma omissão a merecer a necessária integração, porquanto os fundamentos foram apresentados de forma clara e sólida.
+Destarte, no pronunciamento monocrático, foi ressaltado que a matéria em exame foi devidamente enfrentada pelo colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão das recorrentes.
+Ademais, salientou-se que no tocante ao pedido de majoração da verba indenizatória, não assiste razão as embargantes, pois o valor indenizatório foi estabelecido com base na situação concreta exposta nos autos, a qual indica a observância dos postulados da proporcionalidade e da razoabilidade.
+Nesse contexto, afirmou-se que para rever o entendimento do acórdão recorrido, acerca do quantum debeatur, ensejaria o reexame do conjunto fático-probatório da demanda e de termos contratuais, providência vedada no âmbito do recurso especial, dada a Súmula 7 do Superior Tribunal de Justiça.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes declaratórios, porquanto devidamente motivada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. NÍTIDA PRETENSÃO DE REJULGAMENTO DO RECURSO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
