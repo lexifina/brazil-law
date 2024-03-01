@@ -1,0 +1,4 @@
+RESOLUÇÃO BCB Nº 368, DE 25 DE JANEIRO DE 2024
+Altera as Resoluções BCB ns. 28, de 23 de outubro de 2020; 65, de 26 de janeiro de 2021; 85, de 8 de abril de 2021; 93, de 6 de maio de 2021; 155, de 14 de outubro de 2021; e 260, de 22 de novembro de 2022, para incluir em seus escopos de aplicação as sociedades corretoras de títulos e valores mobiliários, as sociedades distribuidoras de títulos e valores mobiliários e as sociedades corretoras de câmbio autorizadas a funcionar pelo Banco Central do Brasil.
+A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 23 de janeiro de 2024, com base no art. 9º-A, incisos I e II, da Lei nº 4.728, de 14 de julho de 1965, 6º e 7º, inciso III, da Lei nº 11.795, de 8 de outubro de 2008, 9º, incisos II e IX, alínea "b", e 15 da Lei nº 12.865, de 9 de outubro de 2013,
+R E S O L V E :
