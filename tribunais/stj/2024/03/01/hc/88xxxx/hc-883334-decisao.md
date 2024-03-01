@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de WAGNER JOSÉ DOS SANTOS, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1500663-10.2018.8.26.0238).
+Consta dos autos que o paciente foi condenado como incurso nas sanções do art. 33, caput, da Lei n. 11.343/2006 e arts. 12, caput, e 16, caput, ambos da Lei n. 10.826/2003, todos na forma do art. 69, do Código Penal. A pena foi fixada nos seguintes termos (e-STJ fls. 64-65):
+a) a pena de 6 (seis) anos, 6 (seis) meses e 22 (vinte e dois) dias de reclusão, em regime fechado, e 655 (seiscentos e cinquenta e cinco) dias-multa, no piso legal, com correção monetária no momento da execução, como incurso, no art. 33, "caput", da Lei n.º 11.343/2006;
+b) a pena de 1 (um) anos e 2 (dois) meses de reclusão, em regime semiaberto, e 11 (onze) dias-multa, com correção monetária no momento da execução, como incurso, no artigo 12, "caput", ambos da Lei 10.826/03;
+c) a pena de 3 (três) anos e 6 (seis) meses de reclusão, em regime semiaberto, e 11 (onze) dias-multa, com correção monetária no momento da execução, como incurso, no artigo 16, "caput", da Lei 10.826/03.
+A defesa interpôs recurso de apelação pretendendo a absolvição do agente. Alternativamente, pugnava pelo redimensionamento da pena e fixação do regime inicial menos gravoso. A Corte de justiça negou provimento ao recurso (ee-STJ fls. 32/50).
+Nesta irresignação, objetiva o reconhecimento da nulidade do feito em razão da violação de domicílio. Afirma que "mesmo havendo mandado de prisão de pena definitiva, não poderiam os agentes procederem a busca domiciliar e apreender o que fora encontrando no imóvel, que gerou nova infração penal" (e-STJ fl. 11).
+Requer, liminarmente, a absolvição do paciente quanto ao delito de tráfico e associação para o tráfico, em razão da apontada nulidade. Alternativamente, pede a fixação de regime menos gravoso para o cumprimento da pena. No mérito, pede a ratificação da medida.
+Indeferido o pleito liminar pela Vice-Presidência deste Superior Tribunal de Justiça (e-STJ fls. 618/619) e prestadas as informações solicitadas (e-STJ fls 625/679 e 682/710), opinou o Ministério Público Federal "pela denegação da ordem" (e-STJ fls. 712/715).
+É o relatório. Decido.
+De início, observa-se que o presente habeas corpus é mera reiteração do HC-823.478/SP, anteriormente julgado por ESTE RELATOR (DJe de 18/5/2023).
+Assim, impetrado anterior habeas corpus perante esta Corte Superior, também em benefício do ora paciente, o qual apontava como ato coator o mesmo acórdão ora impugnado, formulando-se o mesmo pedido, com fundamento na mesma causa de pedir, revelando-se, portanto, o presente mandamus mera reiteração.
+É "assente nesta eg. Corte que "Não se conhece de habeas corpus que objetiva mera reiteração de pedido analisado em recurso anteriormente interposto" (AgRg no HC n. 403.778/CE, Sexta Turma, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe de 10/8/2017)". (AgRg no HC n. 678.732/SP, Relator Ministro JESUÍNO RISSATO (Desembargador convocado do TJDFT), Quinta Turma, julgado em 5/10/2021, DJe de 8/10/2021).
+No mesmo sentido:
+AGRAVO REGIMENTAL CONTRA DECISÃO QUE INDEFERIU LIMINARMENTE O WRIT. REITERAÇÃO DE PEDIDO DE RECONHECIMENTO DE COMPETÊNCIA DA JUSTIÇA CASTRENSE. COMPETÊNCIA DA JUSTIÇA COMUM RECONHECIDA POR ESTE COLEGIADO. IMPOSSIBILIDADE DE CONCESSÃO DE ORDEM DE HABEAS CORPUS CONTRA ATO PRÓPRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. "É de se considerar que é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 796.091/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/6/2023).
+2. Além de o HC n 765363/SP reiterar pedido já analisado pela Quinta Turma do Superior Tribunal de Justiça no julgamento do HC n. 764.059/SP, frise-se que este Colegiado se pronunciou pela competência da Justiça Comum quanto aos fatos delituosos apurados na Ação Penal 0010201-20.2016.8.26.0510 que tramitou perante a Segunda Vara Criminal da Comarca de Rio Claro/SP.
+Diante disso, é defeso a esta Corte Superior de Justiça julgar habeas corpus contra ato próprio, porquanto, à luz do art. 650, § 1º, do Código de Processo Penal - CPP, a competência para conhecer originalmente do pedido de habeas corpus cessará sempre que a violência ou coação provier de autoridade judiciária de igual ou superior jurisdição. Nesse sentido: AgRg no HC n. 272.077/PE, de minha relatoria, Quinta Turma, DJe de 19/10/2018 e RHC n. 39.858/TO, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 4/11/2014.
+3. Agravo regimental ao qual se nega provimento.
+(AgRg no HC n. 765.363/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/8/2023, DJe de 30/8/2023 )
+Ante exposto, não conheço do habeas corpus.
+Intime-se.
+EMENTA
