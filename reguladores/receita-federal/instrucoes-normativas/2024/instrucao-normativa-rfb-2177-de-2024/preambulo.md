@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2177, de 29 de fevereiro de 2024
+Altera a Instrução Normativa RFB nº 1.531, de 19 de dezembro de 2014, que dispõe a respeito de orientação aos contribuintes quanto à utilização do programa multiplataforma Recolhimento Mensal Obrigatório (Carnê-Leão) relativo ao Imposto sobre a Renda da Pessoa Física a partir do ano-calendário de 2015.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, e no Capítulo IX da Instrução Normativa RFB nº 1.500, de 29 de outubro de 2014, resolve:
