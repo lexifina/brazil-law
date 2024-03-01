@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por CONSTRUTORA E IMOBILIÁRIA BIG LTDA. contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alínea a, da Constituição Federal, manejado em desfavor do acórdão do Tribunal de Justiça do Estado do Mato Grosso assim ementado (e-STJ, fl. 1.396):
+APELAÇÕES CÍVEIS - AÇÃO DECLARATÓRIA DE NULIDADE DE ATO JURÍDICO C/C INDENIZAÇÃO POR DANO MORAL - DUPLICIDADE DE VENDA DE IMÓVEIS URBANOS - EXCLUSÃO DE RESPONSABILIDADE CIVIL DA TITULAR DO CARTÓRIO EM QUE ESTÃO REGISTRADOS OS BENS - AUSÊNCIA DE CONTRIBUIÇÃO DIRETA OU INDIRETA PARA O ILÍCITO - ORIENTAÇÃO JURISPRUDENCIAL DO STF - REPARAÇÃO DEVIDA - MONTANTE RAZOÁVEL E PROPORCIONAL - MANUTENÇÃO- VERBA HONORÁRIA - APLICAÇÃO DO ARTIGO 85, E §11, DO CAPUT CPC - RECURSO DA RÉ TABELIÃ PROVIDO - RECURSO DO AUTOR E DAS DEMAIS RÉS NÃO PROVIDO.
+Demonstrada a duplicidade de venda dos mesmos imóveis, impõe-se a declaração judicial de nulidade dos últimos atos que levaram ao registro irregular em nome de terceiro. "De acordo com o Tema 777 da repercussão geral, para a caracterização da responsabilidade civil objetiva do Estado pressupõe-se a existência de três elementos: conduta (comissiva ou omissiva), dano (patrimonial ou moral) e nexo de causalidade entre a conduta e o dano. De acordo com a teoria da causalidade direta, apenas o ato lesivo que diretamente causou o dano poderá ser considerado no campo da responsabilidade civil. Logo, deveria o particular demonstrar que a conduta estatal (ou do delegatário, no caso) foi diretamente responsável pelos (STF, AgR no RE 1373522).
+danos sofridos - o que, de fato, não ocorreu "A privação repentina e injusta dos direitos do autor gera dano moral, e se o valor arbitrado na origem para a indenização é razoável e proporcional deve ser mantido.
+Aplica-se em grau recursal o art. 85, §11, do CPC.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 1.467-1.473).
+Nas razões recursais a parte recorrente alegou violação ao art. 3º da Lei 8.935/1994, sustentando a validade do documento assinado pelo autor, ao argumento de que possui fé pública, pois assinado por todos os envolvidos na presença de um tabelião.
+Asseverou que (e-STJ, fl. 1.612) "o v. acórdão recorrido afirma que o termo de transferência de direitos de compra e venda de imóvel foi firmado entre a recorrente e terceiro de boa-fé, quando na verdade ele foi realizado entre o autor da demanda e a terceira de boa-fé, com assinaturas reconhecidas em cartório".
+Defendeu que o termo firmado possui fé pública notarial e registral, uma vez que as assinaturas do transmitente e do adquirente foram reconhecidas por tabelião responsável pelo cartório.
+Contrarrazões às fls. 1.658-1667 (e-STJ).
+Brevemente relatado, decido.
+A pretensão recursal não merece prosperar.
+Verifica-se que a tese invocada nas razões do apelo especial acerca da alegada violação ao art. 3º da Lei n. 8.935/1994 não foi apreciada pelo Tribunal de origem, tampouco foram opostos embargos declaratórios para sanar eventual omissão.
+Dessa forma, dada a ausência do indispensável prequestionamento, incidem, por analogia, os óbices das Súmulas 282 e 356 do Supremo Tribunal Federal.
+Como se sabe, para que se configure o prequestionamento das matérias, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos por vulnerados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Não é demais reiterar que o prequestionamento ocorre quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, o que não se deu na presente hipótese.
+Assim sendo, como não houve manifestação pela Corte local acerca da referida questão, foi desatendido o requisito do prequestionamento.
+Oportuno assinalar, ainda, que a jurisprudência deste Tribunal Superior é tranquila no sentido da necessidade de prequestionamento dos dispositivos que se entendem violados, mesmo em se tratando de matéria de ordem pública.
+Veja-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO HIPOTECÁRIA. EMBARGOS. PRAZO. MANDADO DE CITAÇÃO. JUNTADA. NULIDADE DA PENHORA E PRESCRIÇÃO. FUNDAMENTOS DO ACÓRDÃO RECORRIDO. IMPUGNAÇÃO. NECESSIDADE. SÚMULA Nº 283/STF. CLÁUSULAS CONTRATUAIS. ABUSIVIDADE. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Após a vigência da Lei nº 11.382/2006, o prazo para oposição de embargos à execução passou a ser de 15 (quinze) dias, contados, no entanto, a partir da juntada aos autos do mandado de citação.
+3. A falta de impugnação dos fundamentos do acórdão recorrido enseja o não conhecimento do recurso, incidindo o disposto na Súmula nº 283/STF.
+4. A ausência de prequestionamento da matéria suscitada no recurso especial impede o conhecimento do apelo nobre (Súmula nº 282/STF). As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+5. Agravo interno não provido. (AgInt no REsp 1633820/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/08/2020, DJe 31/08/2020).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSO CIVIL. AÇÃO DECLARATÓRIA DE NULIDADE DE ATO JURÍDICO C/C INDENIZAÇÃO POR DANO MORAL. VIOLAÇÃO AO ART. 3º DA LEI N. 8.935/1994. TESE NÃO PREQUE STIONADA. AUSÊNCIA DE EMBARGOS DE DECLARAÇÃO PARA SANAR EVENTUAL OMISSÃO. APLICAÇÃO DAS SÚMULAS N. 282 E 356/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
