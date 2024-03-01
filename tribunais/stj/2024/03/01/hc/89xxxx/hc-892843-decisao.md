@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de MARCO ANTONIO SILVA DE SANTANA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2021024-16.2024.8.26.0000), que não conheceu do writ originário - em que pleiteou a defesa a cassação da decisão de primeira instância que determinara a realização de exame criminológico -, por ser substitutivo de agravo em execução penal.
+Neste habeas corpus, sustenta a defesa a inidoneidade da decisão de primeiro grau e requer a concessão da ordem "para que o juízo da execuções penais analise o pedido de progressão de regime sem a necessidade de realização de exame criminológico, ante a ausência de fundamentação idônea para tal fim, com fulcro no artigo 93, IX da CF, súmula 439 do STJ e Súmula Vinculante 26 do STF" (e-STJ fl. 7).
+É o relatório.
+Decido.
+Na hipótese, não obstante as razões constantes da petição inicial, verifica-se que a controvérsia nem sequer foi apreciada pelo Tribunal de origem, que não conheceu do writ originário por não constituir a via do habeas corpus o meio adequado para discutir o objeto da irresignação.
+Dessa forma, não tendo a Corte estadual apreciado o mérito da questão objeto deste writ, fica obstada a análise da impetração por esta Corte Superior, sob pena de indevida supressão de instância.
+No entanto, a existência de recurso específico, em regra e em situações como a presente, não obsta a impetração de habeas corpus, consoante revela o seguinte julgado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO PRISIONAL. SUPRESSÃO DE INSTÂNCIA. WRIT NÃO CONHECIDO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FLAGRANTE ILEGALIDADE. EXISTÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. A questão relativa à apontada ilegalidade da decisão que indeferiu pedido de progressão prisional não foi analisada pelo Tribunal de origem, o que impede a sua apreciação diretamente por esta Corte Superior de Justiça, sob pena de, se assim o fizer, incidir na indevida supressão de instância.
+2. O fundamento de que remédio constitucional não pode ser utilizado como substitutivo do agravo em execução não tem o condão de subtrair do órgão julgador a verificação quanto à existência de manifesto erro na decisão do Juiz da VEC. A tese de que a decisão proferida pelo Juízo de origem não possuiria fundamentação idônea para indeferir a progressão prisional não demanda análise de provas e está relacionada a direito de locomoção.
+3. Se for verificada a não interposição do agravo em execução, o remédio constitucional é o único instrumento de que dispõe o apenado para sanar eventual ilegalidade do decisum originário que indeferiu o referido benefício. Negativa de prestação jurisdicional reconhecida.
+4. Agravo regimental não provido. Habeas corpus concedido de ofício para determinar ao Tribunal de Justiça do Estado de São Paulo que aprecie, como entender de direito, uma vez verificada a não interposição de agravo em execução, se existe patente ilegalidade na decisão do Juiz da VEC.
+(AgRg no HC n. 718.847/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 8/2/2022, DJe de 21/2/2022.)
+Dessarte, a ausência de manifestação do Tribunal local acerca do pedido formulado na impetração originária configura, no meu entender, indevida negativa de prestação jurisdicional, principalmente considerando que a análise do aventado constrangimento ilegal não necessitaria, em princípio, de amplo revolvimento de matéria probatória, envolvendo notadamente questão de direito.
+Nesse contexto, deve a Corte estadual analisar a matéria suscitada no writ originário.
+Ante o exposto, não conheço do writ, mas concedo a ordem de ofício para determinar que o Tribunal de Justiça local aprecie o mérito do habeas corpus originário, como entender de direito.
+Publique-se. Intimem-se.
+EMENTA
