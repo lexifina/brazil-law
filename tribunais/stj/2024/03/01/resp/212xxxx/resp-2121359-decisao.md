@@ -1,0 +1,51 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo MUNICÍPIO DE PARANAIBA contra acórdão prolatado, por maioria, pela 3ª Seção Cível do Tribunal de Justiça do Estado de Mato Grosso do Sul no julgamento de ação rescisória, assim ementado (fl. 434e):
+RESCISÓRIA CONTRA ACÓRDÃO PROFERIDO EM DEMANDA DE DEVER DE FAZER - MANIFESTA VIOLAÇÃO À NORMA JURÍDICA - SERVIDOR PÚBLICO - ADICIONAL DE PRODUTIVIDADE.
+01. Rescisão do acórdão, com fundamento no art. 966, V, do Código de Processo Civil, diante da manifesta inobservância de normas constitucional e municipal.
+02. Direito ao recebimento do adicional de produtividade, nos termos do artigo 41 da Lei Complementar Municipal n. 46/2011. Impossibilidade de supressão da vantagem sem a devida motivação.
+Procedência do pedido formulado na ação rescisória.
+Opostos embargos de declaração, foram rejeitados (fls. 474/477e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa ao art. 966, V, do Código de Processo Civil, alegando-se, em síntese, que não houve afronta à norma jurídica no acórdão , mas sim uma revaloração do conteúdo probatório, o que inviabilizado o pleito rescisório. " ..  cabe destacar que a Súmula 343 do STF veda a interposição de Ação Rescisória por ofensa a literal disposição de lei (ou seja, com base no art. 966, inciso V, do CPC), quando se tratar de texto legal com interpretação controvertida, com o texto legal no presente caso sendo a Lei Complementar Municipal n. 46/2011" (fl. 486e).
+Com contrarrazões (fls. 495/500e), o recurso foi inadmitido (fls. 502/507e), tendo sido interposto Agravo, posteriormente convertido Recurso Especial (fl. 695e).
+O Ministério Público Federal manifestou-se às fls. 686/692e, opinando pelo não conhecimento do Recurso Especial.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do estatuto processual, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, mediante decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+No caso, sustenta o Recorrente que a Súmula 343 do STF veda a interposição de Ação Rescisória por ofensa a literal disposição de lei, quando se tratar de texto legal com interpretação controvertida, como no presente caso.
+Quanto ao ponto, o tribunal de origem manifestou-se nos seguintes termos (fls. 444/447e):
+A autora ajuizou a ação rescisória por ter ocorrido manifesta violação à norma jurídica.
+Nos termos do art. 41, caput, da Lei Complementar Municipal n. 46/2011, o servidor público que estiver percebendo o adicional de produtividade até a data de aprovação desta Lei Complementar, terá o valor do referido adicional incorporado ao seu salário base.
+O parágrafo único do mesmo dispositivo legal, por sua vez, dispõe:
+Art. 41. Parágrafo único. A partir da aprovação desta Lei Complementar ficará extinto o adicional de produtividade profissional.
+Na inicial, a parte autora narrou ser servidora pública municipal.
+Acentuou que já recebia o adicional de produtividade referente ao exercício do respectivo cargo, ainda que sob outra nomenclatura, antes da entrada em vigor da Lei Complementar Municipal n. 46/2011. Em razão disso, pleiteou a incorporação de tal adicional em seu salário base.
+Conforme consta no documento de p. 118, a autora recebeu adicional denominado gratificação por trabalho técnico, nos meses de janeiro a março de 2011, equivalente a 100% dos seus rendimentos.
+Importante destacar, ainda que a verba estivesse sendo classificada com outra nomenclatura (gratificação por trabalho técnico) no holerite, há parecer jurídico emitido pela própria municipalidade no sentido de que, antes da edição da Lei Complementar Municipal nº 48/2011, nenhum servidor recebia Adicional de Produtividade Profissional para fins de incorporação, mas sim, Gratificação por Trabalho Técnico. Ou seja, tratava-se da mesma verba, apesar da diversidade de nome.
+Neste contexto, em observância ao princípio da legalidade (art. 37, caput, da Constituição Federal) e ao direito adquirido (art. 5º, XXXVI, da Constituição Federal), a servidora tem direito ao recebimento do adicional, conforme disposição do art. 41 da Lei Complementar Municipal n. 46/2011.
+Da mesma forma, é devido o pagamento dos valores retroativos à recorrida, pois a Administração Pública não pode se furtar da obrigação de pagar a verba devida, de acordo com o determinado na Lei em comento, sob pena de locupletamento ilícito, prática não admitida em nosso sistema.
+Neste sentido:
+(..)
+Portanto, uma vez que o caso se enquadra no art. 966, V, do Código de Processo Civil, deve haver a rescisão do julgado.
+É importante destacar que o resultado desta demanda está em consonância com os princípios da igualdade e da uniformização das decisões judiciais, mediante concretização de um ordenamento jurídico coerente. Uma vez garantido, por meio de outras demandas, o direito de inúmeros servidores que estão exatamente na mesma situação da ora autora, seria contraditório não lhes estender tais vantagens, sobretudo por estar amparada pela lei.
+Depreende-se do acórdão transcrito ter sido a lide julgada à luz de interpretação de legislação local, qual seja, a Lei Complementar Municipal n. 46/2011.
+Com efeito, da forma como definido pelo tribunal de origem, imprescindível seria a análise da lei local para o deslinde da controvérsia, providência vedada em sede de recurso especial.
+Desse modo, aplicável à espécie, por analogia, o enunciado da Súmula 280 do Supremo Tribunal Federal, segundo o qual "por ofensa ao direito local não cabe recurso extraordinário, ensejando o não conhecimento do recurso especial".
+Nesse sentido:
+PROCESSO CIVIL. RECURSO ESPECIAL. LEI LOCAL.
+Se a reforma do julgado demanda a interpretação de lei local, o recurso especial é inviável (STF, Súmula nº 280). Agravo regimental não provido.
+(AgRg no AREsp 325.430/PE, Rel. Ministro ARI PARGENDLER, PRIMEIRA TURMA, julgado em 27/05/2014, DJe 03/06/2014)
+IMPOSTO SOBRE A RENDA DE PESSOA JURÍDICA (IRPJ). SUBVENÇÃO PARA INVESTIMENTO. PRODEC. LEI LOCAL. SÚMULA 280/STF.
+1. Verifica-se que a demanda foi dirimida com base em Direito local, in casu, na legislação estadual catarinense (Lei 3.342/05 e no Decreto 704/07). Logo, é inviável sua apreciação em Recurso Especial, em face da incidência, por analogia, da Súmula 280 do STF: "por ofensa a direito local não cabe recurso extraordinário." 2. Agravo Regimental não provido.
+(AgRg no REsp 1.433.745/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/04/2014, DJe 22/04/2014).
+No que tange aos honorários advocatícios, da conjugação dos Enunciados Administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais em favor do patrono da parte recorrida está adstrita às hipóteses de não conhecimento ou de improvimento do recurso.
+Impende destacar que a Corte Especial deste Tribunal Superior, na sessão de 9.11.2023, concluiu o julgamento do Tema n. 1.059/STJ (Recursos Especiais ns. 1.864.633/RS, 1.865.223/SC e 1.865.553/PR, acórdãos pendentes de publicação), fixando a tese segundo a qual a majoração dos honorários de sucumbência prevista no art. 85, § 11, do CPC pressupõe que o recurso tenha sido integralmente desprovido ou não conhecido pelo tribunal, monocraticamente ou pelo órgão colegiado competente. Não se aplica o art. 85, § 11, do CPC em caso de provimento total ou parcial do recurso, ainda que mínima a alteração do resultado do julgamento e limitada a consectários da condenação.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/2015), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Na aferição do montante a ser arbitrado a título de honorários recursais, deverão ser considerados o trabalho desenvolvido pelo patrono da parte recorrida e os requisitos previstos nos §§ 2º a 10 do art. 85 do estatuto processual civil de 2015, sendo desnecessária a apresentação de contrarrazões (v.g. STF, Pleno, AO 2.063 AgR/CE, Rel. Min. Marco Aurélio, Redator para o acórdão Min. Luiz Fux, j. 18.05.2017), embora tal elemento possa influir na sua quantificação.
+Nessa linha a compreensão da Corte Especial deste Tribunal Superior (v.g.: AgInt nos EAREsp 762.075/MT, Rel. Min. Felix Fischer, Rel. p/ acórdão Min. Herman Benjamin, DJe 07.03.2019).
+Assim, tratando-se de recurso sujeito ao Código de Processo Civil de 2015 e configurada a hipótese de improvimento do recurso, de rigor a fixação de honorários recursais em desfavor da Recorrente, majorando em 10% (dez por cento) o valor arbitrado pelas instâncias ordinárias (fl. 447e), a teor do art. 85, § 3º, I a V, § 4º, II, e § 11, do codex, observados os percentuais mínimos e máximos de acordo com o montante a ser apurado em liquidação.
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
