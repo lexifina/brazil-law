@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por ISSAN SANTOS DE MELO contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alínea c, da Constituição Federal, manejado em desfavor de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ, fls. 198-199):
+APELAÇÃO CÍVEL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE REVISÃO CONTRATUAL.
+1. Não se conhece dos pedidos formulados tão somente em razões de apelação, pois caracterizam inovação indevida em sede recursal.
+2. Os negócios jurídicos bancários estão sujeitos às normas inscritas no CDC (Súmula n. 297 do STJ), com consequente relativização do ato jurídico perfeito e do princípio pacta sunt servanda.
+3. Os juros remuneratórios são abusivos quando pactuados em índice consideravelmente superior à média de mercado divulgada pelo Banco Central do Brasil para operações similares na data da contratação (STJ, REsp nº. 1.061.530/RS, Temas 24 a 27).
+4. Mostra-se lícita a capitalização de juros em periodicidade inferior à anual quando expressamente pactuada em contrato celebrado após a vigência da Medida Provisória nº. 2.170-36/2001, mostrando-se suficiente a indicação de juros anuais superiores ao duodécuplo do seu índice mensal (STJ, REsp nº. 973.827/RS, Temas 246 e 247;Súmula nº. 541).
+5. Mostra-se lícita a cobrança da tarifa de cadastro nos contratos bancários celebrados após abril de 2008, desde que expressamente pactuada e seu montante não ultrapasse significativamente a média de mercado divulgada pelo Banco Central do Brasil para a data da contratação (STJ, REsp nº. 1.251.331/RS. Temas 618 a 620).
+6. A compensação de valores e a repetição de indébito dependem da revisão - total ou parcial - das cláusulas pactuadas entre os litigantes.
+7. A descaracterização da mora debendi decorre da abusividade dos encargos remuneratórios pactuados para o período de normalidade contratual (juros remuneratórios e sua capitalização (STJ, REsp nº. 1.061.530/RS, Temas 28 e 29). Sobre tais valores incidem correção monetária segundo a variação do IGPM a contar do efetivo pagamento e juros moratórios de 1% ao mês a contar da citação.
+8. A vedação à inscrição do nome do consumidor nos cadastros de restrição ao crédito e sua manutenção na posse do bem financiado estão diretamente ligadas à descaracterização da mora debendi.
+9. Em face do decaimento mínimo da instituição financeira, vai mantida a distribuição dos ônus sucumbenciais fixada na sentença, observado o benefício da gratuidade de justiça.
+APELAÇÃO CONHECIDA EM PARTE E PARCIALMENTE PROVIDA.
+Nas razões recursais a parte recorrente alegou interpretação divergente em relação ao STJ quanto aos arts. 6º, 47, 46 e 52, I a III, do CDC e 28, § 1º, I, da Lei n. 10.931/04.
+Defendeu que a cobrança de capitalização diária nos contratos bancários não poderá ser presumida, nem mesmo através do cálculo do duodécuplo, sendo absolutamente ilegal se cobrada à revelia da previsão da respectiva taxa diária.
+Asseverou (e-STJ, fl. 215) "consequentemente, verificada abusividade de encargo da normalidade -capitalização diária de juros -no contrato debatido, merece modificação o venerando acórdão no que diz com a mora, mantida pelos Nobres Julgadores ad quem".
+Argumentou que alterado os encargos inicialmente contratados descaracterizada será a mora.
+Contrarrazões às fls. 248-260 (e-STJ).
+O Tribunal de origem negou seguimento ao recurso, quanto à capitalização de juros, com base no art. 1.030, I, "b", CPC, em razão do Recurso Especial repetitivo REsp 973.827/RS (Tema 246 e 247 do STJ), e não o admitiu quanto aos demais dispositivos em razão da incidência das Súmulas n. 5 e 7/STJ.
+Brevemente relatado, decido.
+A pretensão recursal não merece prosperar.
+Conforme acima salientado, foi negado seguimento ao recurso especial, ao fundamento de que, no que tange à capitalização de juros, o acórdão recorrido decidiu conforme o entendimento firmado por esta Corte Superior no julgamento do Recurso Especial nº 973.827/RS, julgados sob o rito dos recursos repetitivos - Tema 246 e 247.
+Nesse contexto, conforme dispõe o art. 1.030, § 2º, do CPC/2015, uma vez negado seguimento ao recurso especial na instância de origem, considerando a conformidade do entendimento exarado pelo acórdão recorrido com o posicionamento firmado em julgamento repetitivo por este Tribunal Superior, a irresignação da parte com a decisão de admissibilidade proferida pela Corte de origem deve se dar por meio de agravo interno, nos termos do art. 1.021 do CPC/2015. Observe-se que, nessa hipótese, a interposição do agravo do art. 1.042, caput, do CPC/2015 configura erro grosseiro, conforme entendimento da Terceira Turma do STJ.
+Nesse ponto, portanto, inviável o conhecimento do recurso, por ser inadmissível a interposição de agravo em recurso especial obstado pela aplicação de tese firmada em Recurso Repetitivo.
+No tocante à mora, o Tribunal de origem, considerando as particularidades do caso concreto, concluiu que (e-STJ, fl. 197) "tendo sido mantidos os juros remuneratórios e a sua capitalização na forma pactuada, não há falar em descaracterização da mora debendi".
+Desse modo, para afastar a regularidade dos encargos, com o fim de descaracterizar a mora, demandaria o reexame das circunstâncias fáticas da causa e interpretação de cláusulas contratuais, o que é vedado em recurso especial, consoante o teor das Súmulas n. 5 e 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSO CIVIL (CPC/2015). ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE REVISÃO CONTRATUAL. DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL COM BASE EM TESE FIRMADA EM RECURSO REPETITIVO. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO (ART. 1042, CAPUT, CPC/2015). ERRO GROSSEIRO. PRECEDENTES. MORA. CARACTERIZAÇÃO. REGULARIDADE DOS ENCARGOS. REVISÃO. SÚMULAS N. 5 E 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
