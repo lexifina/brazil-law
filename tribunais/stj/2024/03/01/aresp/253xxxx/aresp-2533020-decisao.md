@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra decisão do Tribunal Regional Federal da 1ª Região, que não admitiu o recurso especial, fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 140):
+PREVIDENCIÁRIO. TRABALHADOR RURAL. APOSENTADORIA POR IDADE. LEI 8.213/91. ATIVIDADE RURAL COMPROVADA. CONSECTÁRIOS LEGAIS.
+1. "A concessão do benefício de aposentadoria por idade exige a demonstração do trabalho rural, cumprindo-se a carência prevista no art. 142 da Lei de Benefícios, mediante início razoável de prova material, corroborada com prova testemunhal, ou prova documental plena. Exige-se, simultaneamente, idade superior a 60 anos para homem e 55 anos para mulher (art. 48, § 1º, da mesma lei)." (AC 0053709-37.2017.4.01.9199/GO, Rel. Des. Fed. JAMIL ROSA).
+2. Na hipótese, a documentação juntada aos autos enquadra-se nos moldes admitidos pela jurisprudência, em que consta a qualificação de rurícola, contemporânea ao prazo de carência que se busca demonstrar cumprido, sendo o princípio de prova corroborado por testemunhas que atestam de forma coerente e robusta a qualidade de trabalhador rural da parte autora, suprindo a exigência de tempo de trabalho exigida pela lei.
+3. Apelação do INSS parcialmente provida, para ajustar os consectários (Manual/CJF: atualização monetária e juros de mora).
+Os embargos de declaração opostos foram rejeitados.
+No especial obstaculizado, a parte recorrente sustenta violação dos arts. 489 e 1.022 do CPC por negativa de prestação jurisdicional. Afirma que o acórdão recorrido não se manifestou sobre questões essenciais ao deslinde da causa (e-STJ fls. 164/168).
+Passo a decidir
+A insurgência não merece prosperar.
+Constata-se que o recurso especial não merece ser conhecido quanto à suposta violação dos arts. 489 e 1.022 do CPC, porquanto esta Corte de Justiça tem decidido, reiteradamente, que a referida alegação deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado.
+No caso, a recorrente limita-se a afirmar que a Corte a quo não teria apreciado as questões ventiladas nos embargos de declaração, sem indicar em que aspectos residiriam as omissões. Tal circunstância impede o conhecimento do recurso especial, à luz da Súmula 284 do Supremo Tribunal Federal.
+A propósito, cito os seguintes precedentes: AgInt no AREsp 2107963/MG, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 14/09/2022; AgInt no AREsp 2053264/SP, Relator Ministro Marco Buzzi, Quarta Turma, DJe 01/09/2022; AgInt no REsp 1987496/SP, Relator Ministro Benedito Gonçalves, Primeira Turma, DJe 01/09/2022; EDcl nos EDcl no AgInt no AREsp 1574705/PR, Relator Ministro Herman Benjamin, Segunda Turma, DJe 15/03/2022; AgInt no AREsp 1718316/RS, Relator Ministro Og Fernandes; Segunda Turma, DJe 24/11/2020.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Publique-se. Intimem-se.
+EMENTA
