@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por ROSY ANDREIA SANTES, com fundamento no artigo 105, inciso III, alínea "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso assim ementado:
+"RECURSO DE APELAÇÃO CÍVEL - AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO C/C REVISÃO CONTRATUAL E ANULATÓRIA DE LEILÃO EXTRAJUDICIAL - IMPROCEDÊNCIA - PRELIMINARES - CERCEAMENTO DE DEFESA E VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE - REJEIÇÃO - DECISÃO CITRA PETITA - CONFUSÃO COM O MÉRITO - CONTRATO DE ALIENAÇÃO FIDUCIÁRIA - CONSOLIDAÇÃO DA PROPRIEDADE DO BEM EM FAVOR DO BANCO CREDOR - ALEGAÇÃO DE NULIDADE POR AUSÊNCIA DE INTIMAÇÃO PARA O LEILÃO - DESCABIMENTO - INADIMPLÊNCIA CONFESSA - INTIMAÇÃO PARA PURGAÇÃO DA MORA - INÉRCIA DA MUTUÁRIA - ABUSIVIDADE CONTRATUAL - INOCORRÊNCIA - SISTEMA DE AMORTIZAÇÃO CONSTANTE (SAC) - HONORÁRIOS ADVOCATÍCIOS - PEDIDO DE REDUÇÃO - IMPOSSIBILIDADE - FIXAÇÃO NO PATAMAR MÍNIMO PREVISTO NO ARTIGO 85, § 2º, DO CPC/15 - RECURSO DESPROVIDO" (fl. 743).
+Os embargos de declaração opostos foram rejeitados (fl. 793).
+Em suas razões, a recorrente alega divergência jurisprudencial quanto ao artigo 27, § 2º-A, da Lei nº 9.514/1997. Defende a necessidade e obrigatoriedade de notificação pessoal dos fiduciantes quanto ao leilão e para purgação da mora.
+Contrarrazões às fls. 873/894.
+É o relatório.
+DECIDO.
+A insurgência não merece prosperar.
+Na hipótese dos autos, o acórdão consignou não haver nulidade do leilão extrajudicial, conforme consignado no seguinte trecho:
+"(..) Portanto, ficou demonstrado nos autos que, diante da inadimplência da apelante, foi efetuada a sua intimação, por meio do competente Registro de Imóveis, para purgação da mora, conforme exige o artigo 26 da Lei n. 9.514/97 e, devido a sua inércia, foi procedida a averbação na matrícula do bem acerca da consolidação da propriedade em favor do credor fiduciário.
+Logo, uma vez consolidada a propriedade do imóvel em favor do banco credor em razão do inadimplemento da mutuária, que, devidamente intimada para purgar a mora, quedou-se inerte, o proprietário é livre para dispor do bem a fim de satisfazer a dívida.
+Ora, não se pode admitir que um devedor fiduciante, já constituído em mora, permaneça inerte até o último segundo de sua oportunidade para, depois de consumado o ato fatal, venha manejar uma ação anulatória, não exatamente para que lhe seja devolvida uma oportunidade suprimida, mas, contrário, obter, de forma espúria, uma sobrevida em detrimento do terceiro de boa-fé que desembolsou integralmente o valor da arrematação e, ainda assim, poderia ficar privado de suas prerrogativas de dono por anos e anos " (fls. 751/752).
+Em se tratando de contrato com garantia de alienação fiduciária de imóvel, até 12/07/2017, quando entrou em vigor a Lei nº 13.465/2017, não era necessária a intimação do devedor fiduciante da data da realização do leilão, haja vista que, no momento da realização do ato, o bem já não mais pertencia ao devedor fiduciante.
+Apenas a partir da Lei nº 13.465/2017, tornou-se necessária a intimação do devedor fiduciante da data do leilão, devido à expressa determinação legal.
+No caso, como o procedimento de execução extrajudicial é anterior à data de entrada em vigor da Lei 13.645/2017, não há que se falar em nulidade devido à falta de intimação dos devedores da data de realização do leilão.
+A propósito:
+"RECURSO ESPECIAL. CONTRATO DE FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL. LEI Nº 9.514/97. INTIMAÇÃO PESSOAL DO DEVEDOR FIDUCIANTE PARA PURGAR A MORA FRUSTRADA. RECUSA INJUSTIFICADA DE RECEBER INTIMAÇÃO. INTIMAÇÃO POR EDITAL QUE SE JUSTIFICA. INTIMAÇÃO DO DEVEDOR DA DATA DO LEILÃO. DESNECESSIDADE. DEMAIS VIOLAÇÕES A DISPOSITIVOS LEGAIS NÃO CONFIGURADAS.
+1. Se o devedor fiduciante se escusa, por diversas vezes, de receber as intimações para purgar a mora em seu endereço comercial, conforme expressamente indicado no contrato de alienação fiduciária de imóvel, induzindo os Correios a erro ao indicar possível mudança de domicílio que nunca existiu, não há óbice à sua intimação por edital.
+2. Em se tratando de contrato com garantia de alienação fiduciária de imóvel, até 12/07/2017, quando entrou em vigor a Lei 13.465/2017, não era necessária a intimação do devedor fiduciante da data da realização do leilão, haja vista que, no momento da realização do ato, o bem já não mais pertencia ao devedor fiduciante.
+3. Apenas a partir da Lei 13.465/2017, tornou-se necessária a intimação do devedor fiduciante da data do leilão, devido à expressa determinação legal.
+4. No caso, como o procedimento de execução extrajudicial é anterior à data de entrada em vigor da Lei 13.645/2017, não há que se falar em nulidade devido à falta de intimação dos devedores da data de realização do leilão.
+5. Recurso especial a que se nega provimento" (REsp 1.733.777/SP, Rel. Min. Maria Isabel Gallotti, Quarta Turma, julgado em 17/10/2023, DJe 23/10/2023).
+Ademais, caracterizada a utilização abusiva do direito, diante da utilização da inadimplência contratual de forma consciente, frustrando intencionalmente as expectativas do agente financeiro contratante e do terceiro de boa-fé, que arrematou o imóvel, afasta-se a incidência do dispositivo pleiteado pela recorrente.
+Nesse sentido:
+"RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA DE COISA IMÓVEL. LEI N. 9.514/1997. QUITAÇÃO DO DÉBITO APÓS A CONSOLIDAÇÃO DA PROPRIEDADE EM NOME DO CREDOR FIDUCIÁRIO. POSSIBILIDADE. APLICAÇÃO SUBSIDIÁRIA DO DECRETO-LEI N. 70/1966. PROTEÇÃO DO DEVEDOR. ABUSO DE DIREITO. EXERCÍCIO EM MANIFESTO DESCOMPASSO COM A FINALIDADE.
+1. É possível a quitação de débito decorrente de contrato de alienação fiduciária de bem imóvel (Lei nº 9.514/1997), após a consolidação da propriedade em nome do credor fiduciário. Precedentes.
+2. No âmbito da alienação fiduciária de imóveis em garantia, o contrato não se extingue por força da consolidação da propriedade em nome do credor fiduciário, mas, sim, pela alienação em leilão público do bem objeto da alienação fiduciária, após a lavratura do auto de arrematação.
+3. A garantia do direito de quitação do débito antes da assinatura do auto de arrematação protege o devedor da onerosidade do meio executivo e garante ao credor a realização de sua legítima expectativa - recebimento do débito contratado.
+4. Todavia, caracterizada a utilização abusiva do direito, diante da utilização da inadimplência contratual de forma consciente para ao final cumprir o contrato por forma diversa daquela contratada, frustrando intencionalmente as expectativas do agente financeiro contratante e do terceiro de boa-fé, que arrematou o imóvel, afasta-se a incidência dos dispositivos legais mencionados.
+5. A propositura de ação de consignação, sem prévia recusa do recebimento, inviabilizou o oportuno conhecimento da pretensão de pagamento pelo credor, ensejando o prosseguimento da alienação do imóvel ao arrematante de boa-fé.
+6. Recurso especial não provido" (REsp 1.518.085/RS, Rel. Min. Marco Aurélio Bellizze, Terceira Turma, julgado em 12/05/2015, DJe 20/05/2015).
+Ante o exposto, conheço do recurso especial para negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor atualizado da causa, os quais devem ser majorados para o patamar de 17% (dezessete por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
