@@ -1,0 +1,23 @@
+DECISÃO
+Na origem, trata-se de agravo de instrumento contra decisão que indeferiu ingresso de terceiros interessados na demanda. No Tribunal a quo, a decisão foi mantida.
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO contra acórdão com o seguinte resumo de ementa:
+AGRAVO DE INSTRUMENTO - CONTRIBUIÇÃO DE TERCEIROS - AÇÃO OBJETIVANDO RESTITUIÇÃO/COMPENSAÇÃO. LEGITIMIDADE EXCLUSIVA DA UNIÃO FEDERAL - NÃO ADMISSÃO DAS ENTIDADES TERCEIRAS COMO ASSISTENTES SIMPLES. RECURSO DESPROVIDO.
+A PARTIR DA ENTRADA EM VIGOR DA LEI 11.457/2007, A LEGITIMIDADE PASSIVA NAS AÇÕES DE RESTITUIÇÃO/COMPENSAÇÃO DE CONTRIBUIÇÕES DESTINADAS A OUTRAS INSTITUIÇÕES E FUNDOS É EXCLUSIVA DA UNIÃO FEDERAL.
+AS ENTIDADES TERCEIRAS, ÀS QUAIS SE DESTINAM OS RECURSOS ARRECADADOS POSSUEM MERO INTERESSE ECONÔMICO, NÃO JURÍDICO, SENDO NECESSÁRIO O INTERESSE JURÍDICO POR PARTE DO ASSISTENTE PARA QUE POSSA INGRESSAR NO FEITO.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+A partir da entrada em vigor da Lei 11.457/2007, a legitimidade passiva nas ações de restituição/compensação de contribuições destinadas a outras instituições e fundos é exclusivada União Federal.
+As entidades terceiras, às quais se destinam os recursos arrecadados possuem mero interesse econômico, não jurídico, sendo necessário o interesse jurídico por parte do assistente para que possa ingressar no feito.
+Nesse sentido, confira-se os seguintes precedentes desta Sexta Turma e do Superior Tribunal de Justiça:
+(..)
+(RESP - RECURSO ESPECIAL - 1839490 2019.02.83487-4, HERMAN BENJAMIN, STJ -SEGUNDA TURMA, DJE DATA:19/12/2019)
+Em relação às alegações de violação dos arts. 119, 124 e 996 do CPC/2015, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Por outro lado, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+O dissídio jurisprudencial viabilizador do recurso especial pela alínea c do permissivo constitucional não foi demonstrado nos moldes legais, pois, além da ausência do cotejo analítico e de não ter apontado qual dispositivo legal recebeu tratamento diverso na jurisprudência pátria, não ficou evidenciada a similitude fática e jurídica entre os casos colacionados que teriam recebido interpretação divergente pela jurisprudência pátria. Ressalte-se ainda que a incidência do enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido: AgInt no AREsp 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+Para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a indicação de dispositivo legal supostamente violado, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso. Nesse sentido: AgInt no AREsp 1.235.867/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/5/2018, DJe 24/5/2018; AgInt no AREsp 1.109.608/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/3/2018, DJe 19/3/2018; REsp 1.717.512/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/4/2018, DJe 23/5/2018.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
