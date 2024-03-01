@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOAO ANTONIO DA ROSA ALBRES, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Consta dos autos que o paciente foi condenado ao pagamento da pena de 10 (dez) dias-multa, no valor unitário mínimo legal, por infração ao artigo 155, caput e § 2º, do Código Penal.
+Irresignadas, a defesa e a acusação interpuseram recurso de apelação à Corte de origem, que deu provimento somente ao apelo ministerial, para reclassificar o crime para o art. 155, §§1º e 4º, inc. II, do Código Penal, fixara pena privativa de liberdade em 01 (um) e 04 (quatro) meses de reclusão e substituí-la pelas restritivas de direitos, nos termos do acórdão com a seguinte ementa:
+APELAÇÃO CRIMINAL. FURTO QUALIFICADO PELO ABUSO DE CONFIANÇA. CONDENAÇÃO. SENTENÇA QUE DESCLASSIFICOU A IMPUTAÇÃO PARA FURTO SIMPLES PRIVILEGIADO. IRRESIGNAÇÕES DEFENSIVA E MINISTERIAL.
+Materialidade e autoria do delito demonstradas. A vítima não possuía qualquer relação com o acusado anteriormente, não tendo qualquer razão para querer prejudicá-lo ou acusá-lo falsamente, motivo pelo qual de se dar plena credibilidade às suas declarações. Cometido o crime pelo acusado, aproveitando-se do acesso à propriedade, como funcionário há bastante tempo do local, gozando da confiança da vítima, deve ser reconhecida a qualificadora do abuso de confiança. Penas. Embora reconhecido o furto privilegiado, cometido o crime com abuso de confiança, insuficiente a aplicação somente da pena de multa para a repressão da conduta. Não havendo prova de que tenha o réu se aproveitado do estado de calamidade pública para praticar o crime, não incidente a agravante respectiva. Presentes os requisitos legais, deve ser substituída a pena privativa de liberdade por restritivas de direitos. Incabível isenção da pena de multa, eis que se trata de pena cominada no tipo penal, inexistindo base legal para seu afastamento ou inconstitucionalidade na sua incidência. APELO DEFENSIVO DESPROVIDO. APELO MINISTERIALPARCIALMENTE PROVIDO.
+Sustenta o impetrante a ocorrência de constrangimento ilegal, uma vez que o decisum prolatado pela autoridade apontada como coatora aplicou a causa de diminuição da pena em razão do furto privilegiado em apenas 1/3, sem que tenha havido qualquer fundamentação idônea para o afastamento do redutor máximo.
+Pondera que o paciente faz jus à aplicação da causa de diminuição de pena do furto privilegiado em seu grau máximo, nos termos do art. 155, § 2º do Código Penal, levando-se em consideração as circunstâncias judiciais positiva se o pequeno valor da res furtiva, a qual foi restituída à vítima, devendo, por conseguinte, ser realizada nova análise dosimétrica da reprimenda.
+Requer, no mérito, a cassação do acórdão proferido pelo Tribunal de origem, determinando-se a realização de novo cálculo dosimétrico, desta vez aplicando-se a causa de diminuição de pena do furto privilegiado em seu grau máximo.
+O pedido liminar foi indeferido (fls. 79-80).
+As informações foram prestadas às fls. 87-129.
+O Ministério Público Federal, às fls. 134-136, manifestou-se nos termos da seguinte ementa:
+Habeas Corpus. Substitutivo de recurso próprio. Inadmissibilidade. Furto privilegiado. Dosimetria. Fundamentação concreta. Ausência de constrangimento ilegal. Parecer pelo não conhecimento do "habeas corpus".
+É o relatório.
+Decido.
+Sustenta o impetrante a ocorrência de constrangimento ilegal, uma vez que o decisum prolatado pela autoridade apontada como coatora aplicou a causa de diminuição da pena em razão do furto privilegiado em apenas 1/3, sem que tenha havido qualquer fundamentação idônea para o afastamento do redutor máximo.
+Pondera que o paciente faz jus à aplicação da causa de diminuição de pena do furto privilegiado em seu grau máximo, nos termos do art. 155, § 2º do Código Penal, levando-se em consideração as circunstâncias judiciais positiva se o pequeno valor da res furtiva, a qual foi restituída à vítima, devendo, por conseguinte, ser realizada nova análise dosimétrica da reprimenda.
+Quanto aos punctum saliens, considerando que o eg. Tribunal de origem não se pronunciou sobre os temas aventados na presente impetração, eis que sequer foram arguidos na origem, esta Corte fica impedida de se manifestar diretamente sobre a matéria, sob pena de incorrer em indevida supressão de instância.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
