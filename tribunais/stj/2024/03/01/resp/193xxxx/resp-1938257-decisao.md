@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por HORÁCIO MARQUES NETO, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Ceará assim ementado:
+"CIVIL. AÇÃO DE REPARAÇÃO POR DANO MORAL AJUIZADA POR PARTICULAR EM FACE DE TABELIONATO DE NOTAS E DA CAIXA ECONÔMICA FEDERAL. RESPONSABILIDADE CIVIL OBJETIVA DOS SERVIÇOS NOTARIAIS E REGISTRAIS. COMPROVAÇÃO DA FALSIDADE DE ASSINATURA ACOSTADA EM NOTIFICAÇÃO EXTRAJUDICIAL EM PROCEDIMENTO DE CONSOLIDAÇÃO DA PROPRIEDADE IMOBILIÁRIA. ATO ILÍCITO. DANO MORAL CONFIGURADO. INOCORRÊNCIA DE PRESCRIÇÃO. APELO IMPROVIDO" (fls. 411/413 e-STJ).
+Os embargos de declaração foram rejeitados (fls. 478/479 e-STJ).
+Em suas razões, o recorrente aponta, além de divergência jurisprudencial, violação dos arts. 369, 372, 489, § 1º, I, II, III, IV e V e § 3º, 506, 1.022, I e II, do CPC e 927, 944 e 945 do CC. Defende, em síntese, que a notificação extrajudicial é válida, que houve cerceamento de defesa e que não há falar em indenização por danos morais.
+Sem contrarrazões (fl. 576 e-STJ).
+É o relatório.
+DECIDO.
+A insurgência não merece prosperar.
+No que tange ao art. 1.022 do Código de Processo Civil, não há falar em negativa de prestação jurisdicional se o Tribunal local, ainda que por fundamentos distintos daqueles apresentados pelas partes, adota fundamentação suficiente para decidir integralmente a controvérsia.
+Ademais, a motivação contrária ao interesse da parte ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador não autoriza o acolhimento dos declaratórios, daí porque também se afasta a alegada ofensa ao art. 489, § 1º, IV, do Código de Processo Civil.
+Nesse sentido:
+"ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REVISÃO DO ATO DE APOSENTADORIA. PRESCRIÇÃO DO FUNDO DE DIREITO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/15. NÃO CARACTERIZADA. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. MATÉRIA INSUSCETÍVEL DE EXAME NA VIA ESPECIAL. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVADO.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022 do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+(..)
+5. Agravo interno a que se nega provimento" (AgInt no REsp 1.654.518/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 13/6/2017, DJe 22/6/2017 - grifou-se).
+No caso, o Tribunal de origem, acerca da abusividade do reajuste, dirimiu a controvérsia nos seguintes termos:
+"(..)
+As provas constantes nos autos são suficientes para o julgamento da demanda - consistente na análise do direito à reparação civil do autor por suposto ato culposo/doloso de serventuário da Justiça e de instituição financeira - de forma que eventual dilação probatória deteria apenas caráter protelatório, à contramão do princípio constitucional da razoável duração do processo, não podendo ser autorizado por este juízo.
+(..)
+Compulsando os autos, constata-se que a existência de ato ilícito (CC, art. 186) é inconteste. O oficial de registro, por meio do seu preposto, deu por intimado da notificação extrajudicial, prevista no art. 26 da Lei n.º 9.514/97, pessoa estranha a quem se dirigia a notificação (o autor), conforme faz prova o laudo pericial documentoscópico grafotécnico(identificador 4058109.783057) e reconhecida em sentença transitada em julgado(processo n.º 0801143-71.2015.4.05.8100, de consulta pública). O contraditório quanto a estas provas foi estabelecido no presente processo.
+Cuida-se de ato grave, caracterizador, em tese, de infração penal, que abala a credibilidade do próprio Estado, a quem os oficiais de cartório presentam em caráter delegatório, e a fé pública imanente aos documentos públicos (CF, art. 19, inciso II).
+O dano ao autor em decorrência do indigitado ato ilícito também é manifesto, pois levou a sua indevida constituição em mora, dando azo ao procedimento de consolidação da propriedade do imóvel em que residia à CEF, sem que lhe fosse oportunizado a purgação da mora. A consequência foi a perda do imóvel em leilão e todos os dissabores e despesas oriundas da busca da tutela jurisdicional para resguardar o seu direito.
+Ao revés do argumentado pelo requerido, o fato de a necessidade da notificação extrajudicial ter sido oriunda da impontualidade dos pagamentos das parcelas do contrato de financiamento pelo autor não afasta a existência do ato ilícito e do dano: o oficial de registro deve atuar, em qualquer situação, de acordo com a lei e com probidade e presteza, como consequência do seu mister público. A condição de devedor do autor não afasta a sua dignidade, imanente à pessoa humana, sendo-lhe ainda garantido pelo ordenamento a proteção contra atos ilícitos e o direito ao ressarcimento pelos danos sofridos.
+A propósito, ainda que a assinatura falsa fosse de responsabilidade da esposa do autor ,novamente, não há descaracterização do ilícito, pois haveria, no caso, uma culpa gravíssima do preposto do oficial do cartório na falsidade. Deveria este, então, relatar que o autor, a quem se dirigia a notificação, não se encontrava ou apor a assinatura da sua esposa na notificação, em nome próprio desta.
+(..)
+Em suma, pelos fatos provados nos autos, conclui-se pela responsabilidade civil apenas de HORÁRIO MARQUES NETO, oficial do 2º Tabelionato De Notas, Protesto e Registro DeImóveis de Maranguape/CE que, por ato do seu proposto que deu por intimado da notificação extrajudicial, prevista no art. 26 da Lei n.º 9.514/97, pessoa estranha a quem se dirigia a notificação (o autor), apondo, inclusive, uma assinatura comprovadamente falsa, constituindo o requerente indevidamente em mora, dando a azo ao procedimento de consolidação da propriedade do imóvel em que residia à CEF.
+(..)
+No caso, o dano alcançou grandes proporções, tendo em vista que o autor se viu n iminência de ter de desocupar o imóvel sem observâncias do regramento legal. Ademais, há um inegável grau de culpa da vítima, dado que a notificação foi corretamente endereçada para o seu domicílio. Logo, presume-se que assinatura falsa foi aposta por algum familiar ou pessoa próxima ao autor, o que nos levar a crer que o requerente sabia que a sua mora levaria ao procedimento de consolidação de propriedade e a consequente perda do imóvel.
+Diante destas circunstâncias, entendo que o montante de R$ 15.000,00 (quinze mil reais)se mostra suficiente para reparar os danos morais sofridos, fixando-o como valor da indenização" (fls. 405/408 e-STJ).
+A alteração das conclusões demandaria a incursão no conjunto fático-probatório dos autos, providência vedada em recurso especial, a teor da Súmula nº 7/STJ.
+Por fim, resta consignar que a análise da divergência jurisprudencial resta prejudicada pela incidência da Súmula nº 7/STJ.
+Ante o exposto, nego provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 11% (onze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 13% (treze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
