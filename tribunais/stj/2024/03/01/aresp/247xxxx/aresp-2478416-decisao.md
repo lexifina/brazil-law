@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 805, 831, 835, 850, 851, 866, 874 e 1.022, I e II, do Código de Processo Civil. O acórdão recorrido está retratado na seguinte ementa (fl. 313):
+AGRAVO DE INSTRUMENTO - Incidente de desconsideração de personalidade jurídica - Arresto Cautelar concedido (fls. 489/490 - Renovação das medidas de constrição judicial - Indeferimento do pedido de desbloqueio de valores junto ao sistema SISBAJUD - Possibilidade de busca de ativos financeiros em nome da agravante efetivada com o auxílio do Juízo - Medida que atende o princípio da efetividade da execução - Deferimento de pedido de bloqueio de recebíveis das empresas requeridas junto às operadoras de cartão de crédito/débito e outros pagamento - Ausência de localização de outros bens passíveis de constrição - Bloqueio de valores em patamar irrisório - Os arrestos realizados deverão subsistir até decisão do incidente - Determinação para que o incidente tenha marcha e decisão final, antes de qualquer outra medida futura constritiva - Decisão mantida - Agravo improvido com determinação.
+Foram opostos embargos de declaração, que foram rejeitados (fls. 324/327).
+Sustenta a parte agravante que a "execução já está garantida, não sendo permitido que o recorrido realize a constrição desmedida e aleatória de bens dos recorrentes" (fl. 337).
+Afirma que o art. 851 do CPC/2015 veda nova penhora quando os bens já constritos nos autos bastarem ao pagamento do exequente.
+Alega que a penhora de recebíveis, por ser medida excepcional, não pode ser mantida, considerando a existência de outros bens já penhorados, que são suficientes à satisfação da execução.
+Assim posta a questão, passo a decidir.
+Inicialmente, com relação à suposta ofensa ao art. 1.022 do CPC/2015, verifico que não existe omissão ou ausência de fundamentação na apreciação das questões suscitadas.
+Ademais, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+Observo, por outro lado, que a Corte local manteve a decisão que indeferiu o pedido da parte agravante que visava ao desbloqueio de valores constritados via Sisbajud, e deferiu o pedido do exequente de bloqueio de recebíveis das empresas requeridas, conforme se extrai dos seguintes trechos (fls. 314/317):
+(..)
+Oportuno asseverar que, há de se prestigiar o princípio da máxima efetividade da prestação jurisdicional, haja vista que a execução visa a atender aos interesses do credor e a pesquisa pleiteada lhe reserva utilidade, porquanto permite a localização de ativos financeiros que possam satisfazer o débito.
+Ora, se existe ferramenta à disposição do Poder Judiciário (sistema Sisbajud) que permite a reiteração permanente de pesquisa de ativos financeiros até a satisfação integral do débito ("teimosinha"), motivo não há para o indeferimento do pleito ou o deferimento apenas em casos excepcionais ou se atendidas exigências impostas pelo Juízo, mas não previstas pela legislação processual civil de regência, como se verifica da r. decisão objurgada.
+Cumpre consignar que o bloqueio permanente de ativos financeiros consiste em funcionalidade própria do SISBAJUD e não implica qualquer violação aos direitos dos executados, ressalvando-se que o princípio da menor onerosidade ao devedor previsto no art. 805 do CPC não é absoluto, devendo compatibilizar-se com o disposto no art. 797 do CPC, que estabelece que a execução se realiza no interesse do credor.
+(..)
+4. O pleito de bloqueio de recebíveis das empresas requeridas às operadoras de cartão de crédito e outros pagamentos (Pagseguro Uol, Redecard S.A.; Cielo S.A., Elavon do Brasil Soluções de Pagamento S.A., Getnet S.A., FP do Brasil Soluções de Pagamento Ltda., Izettle, Paypal do Brasil Serviços de Consultoria e Pagamentose Stone Pagamentos S.A.) deveria mesmo ser acolhido.
+Novamente, repisa-se que a execução deve se desenvolver de modo menos gravoso ao executado (art. 805), todavia, o princípio da efetividade da execução, que objetiva a plena satisfação do crédito do exequente permite a diligência deferida, uma vez que, conforme relatado pela decisão agravada, o valor bloqueado é irrisório.
+Assim, levando-se em consideração as infrutíferas tentativas de localização de bens em nome dos executados aptos a satisfazerem a totalidade da dívida exequenda, de grande monta (R$ 8.924.102,43, atualizado até abril de 2022), mostra-se plenamente possível o deferimento do pedido de bloqueio de recebíveis das empresas requeridas em favor do agravado até o limite da execução, desde que respeitado percentual condizente com o salutar funcionamento da empresa agravada.
+(..)
+Com efeito, destaco que rever as conclusões da Corte local acerca da possibilidade de efetuar pesquisas de ativos financeiros que possam satisfazer o débito, desde que atendidas as exigências impostas pelo Juízo de origem, bem como acerca da possibilidade de bloqueio de recebíveis, no presente caso, demandaria o reexame do acervo fático dos autos, situação vedada pelo óbice da Súmula n. 7 do STJ. Nesse sentido, confiram-se:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. PENHORA. CONJUNTO FÁTICO-PROBATÓRIO. REEXAME. SÚMULA Nº 7/STJ.
+1. Na hipótese, rever os fundamentos do acórdão estadual acerca da possibilidade de penhora dos ativos financeiros exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas, procedimentos vedados em recurso especial, a teor da Súmula nº 7/STJ.
+2. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 2.195.327/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18.12.2023, DJe de 20.12.2023)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. A jurisprudência desta Corte é assente quanto à possibilidade de a penhora recair, em caráter excepcional, sobre o faturamento da empresa - desde que observadas, cumulativamente, as condições previstas na legislação processual e o percentual fixado não torne inviável o exercício da atividade empresarial - sem que isto configure violação do princípio exposto no artigo 805 do CPC/15. Incidência da Súmula 83/STJ.
+2. Na hipótese, para derruir a conclusão do Tribunal e aferir se a constrição inviabilizará, ou não, as atividades da empresa, ou lhe causará danos irreparáveis, seria necessário o revolvimento do acervo fático-probatório dos autos, o que é vedado em sede de recurso especial, ante a incidência da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 2.288.595/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 21.8.2023, DJe de 24.8.2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de execução de título extrajudicial.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. Não localizados bens do devedor suficientes para saldar o débito, mostra-se possível direcionar a penhora para o faturamento da empresa. Súmula 568/STJ.
+4. Alterar o decidido no acórdão impugnado, no que se refere à conclusão de falta de bens suscetíveis de eficaz garantia da execução, a possibilitar a constrição de faturamento da empresa, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.261.443/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22.5.2023, DJe de 24.5.2023.)
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
