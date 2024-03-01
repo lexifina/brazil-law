@@ -1,0 +1,8 @@
+DECISÃO
+ELIANDRO HENRIQUE DOS REIS opõe embargos de declaração, com o objetivo de revisão da decisão impugnada, ao argumento de que seria equivocada a compreensão contida na decisão de que a "vítima e o ora paciente, por ocasião do delito, estariam, ambos, de folga, em uma confraternização, situação que afastaria, de plano, o previsto no art. 9º, inciso II, a, do Código Penal Militar" (fl. 393).
+Assinala que "houve um equívoco nesta afirmação, uma vez que foi condenado, nos termos da Apelação Criminal nº 0002355-78.2020.9.26.0040, pelo Tribunal de Justiça Militar, devido o fato de que efetivamente estava de serviço no fatídico dia e abandonou o serviço" (fl. 393).
+No ponto, é importante salientar que o que ficou registrado na decisão impugnada foi o seguinte: "no momento dos fatos, ambos não estariam no exercício de suas funções típicas, mas em uma festa" (fl. 387, destaquei). Até mesmo em um dos precedentes citados foi indicada a competência do Júri porque ambos os envolvidos estariam fora do serviço e o delito havia sido cometido em um bar.
+Logo, não houve a afirmação de que o paciente não estaria de serviço, mas fora do exercício de suas funções típicas, tanto é que no momento do crime se encontravam em uma confraternização entre amigos. Aliás, a própria decisão do Tribunal de Justiça Militar, citada pelo embargante, reforça que houve, por parte do paciente, o abandono do serviço. Assim, embora possa até haver integrado a escala de serviço, fato é que na ocasião da prática do delito não se encontrava no exercício de suas funções típicas.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
