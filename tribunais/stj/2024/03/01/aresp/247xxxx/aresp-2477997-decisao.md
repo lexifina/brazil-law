@@ -1,0 +1,22 @@
+DECISÃO
+Na origem, trata-se de ação de obrigação de fazer, objetivando a disponibilização do passe livre do transporte público municipal. Na sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi parcialmente reformada, apenas para reduzir o valor dos danos morais. O valor da causa foi fixado em R$ 60.000,00 (sessenta mil reais).
+O recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. BENEFÍCIO DO PASSE LIVRE. LEI MUNICIPAL N.º 4.328/2004. DEFICIÊNCIA SENSORIAL COMPROVADA. HONORÁRIOS EM FAVOR DA DEFENSORIA - POSSIBILIDADE. ENTE DIVERSO QUE A REMUNERA. REDUÇÃO DOS DANOS MORAIS EM ATENDIMENTO AO PRINCÍPIO DA RAZOABILIDADE E PROPORCIONALIDA DE SENTENÇA REFORMADA EM PARTE. APELO PARCIALMENTE PROVIDO.
+I - Nos termos da Lei Municipal nº 4.328/2004, para fazer jus ao benefício do passe livre nos transportes públicos municipais de São Luís deve a parte comprovar nos autos que se enquadra nas hipóteses previstas no art. 4ª, I, da referida norma.
+II - Na espécie dos autos, restou demonstrado através dos documentos carreados a inicial, que o apelado possui deficiente auditiva - CID 10 H 90, com perfuração timpânica direita, e perda auditiva neurossensorial severa e profunda no ouvido direito e moderadamente severa do ouvido esquerdo, enfermidade essa que lhe impôs restrições de locomoção, sobretudo porque a situação se estende desde o ano de 1992.
+III - A Lei Municipal nº 4.328/2004 deve ser aplicada a situação narrada na hipótese, revelando-se acertada a sentença a quo ao determinar ao Município apelante que cadastre o apelado como beneficiário do direito ao passe livre.
+IV - Quanto ao pagamento de honorários a defensoria, a matéria já é pacífica no Superior Tribunal de Justiça, no sentido de que os honorários são devidos, desde que a Defensoria não esteja atuando contra a pessoa judicia de direito público a que pertença, o que não é ocaso, conforme se vislumbra no teor da Súmula 421.
+V - À luz caso concreto, verifica-se que a atuação da Defensoria se deu contra ente federativo diverso. Assim, revela-se cabível ao Apelante o dever de pagar honorários, seguindo entendimento do STJ.
+VI - Quanto aos danos morais, comungo do entendimento esposado pela Procuradoria Geral de Justiça, no sentido de que estes devem ser reduzidos para atender ao princípio da razoabilidade e proporcionalidade, assim, os danos morais devem ser reduzidos para R$ 10.000,00.
+Apelo parcialmente provido.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Na espécie dos autos, restou demonstrado através dos documentos carreados a inicial, que o apelado possui deficiente auditiva - CID 10 H 90, com perfuração timpânica direita, e perda auditiva neurossensorial severa e profunda no ouvido direito e moderadamente severa do ouvido esquerdo, enfermidade essa que lhe impôs restrições de locomoção, sobretudo porque a situação se estende desde o ano de 1992.
+Nesse contexto, a Lei Municipal nº 4328/2004 deve ser aplicada a situação narrada na hipótese, revelando-se acertada a sentença a quo ao determinar ao Município apelante que cadastre o apelado como beneficiário do direito ao passe livre.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
