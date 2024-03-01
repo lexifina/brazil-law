@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo apresentado por KELLI CRISTINA REZENDE DA SILVA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO. AÇÃO DE REINTEGRAÇÃO DE POSSE. DECISÃO DE INDEFERIMENTO DO BENEFÍCIO DA GRATUIDADE PROCESSUAL. INCONFORMISMO DA REQUERENTE, ORA AGRAVANTE. NÃO ACOLHIMENTO. DOCUMENTO A REVELAR QUE A AGRAVANTE É BENEFICIÁRIA DE QUINHÃO CORRESPONDENTE A 25% DE UM IMÓVEL AVALIADO EM UM MILHÃO DE REAIS. ACORDO HOMOLOGADO EM OUTROS AUTOS. DEMONSTRAÇÃO DE CONDIÇÃO DE SUPORTAR AS CUSTAS PROCESSUAIS. AUSÊNCIA DE PEDIDO DE DIFERIMENTO DE CUSTAS NESTE INCONFORMISMO. DECISÃO BEM LANÇADA E MANTIDA. RECURSO NÃO PROVIDO.
+Quanto à controvérsia, alega violação do art. 98 do CPC, no que concerne à necessidade de concessão dos benefícios da justiça gratuita à recorrente, eis que não possui condições financeiras para arcar com recolhimento das custas processuais, trazendo a seguinte argumentação:
+Diante do Julgamento IMPROVIDO Recurso de Agravo de Instrumento de fls. 1/10, por meio do v. Acordão de fls. 38/41, houve total violação ao Artigo 98 do Código de Processo Civil, pelos motivos a seguir:
+a) A RECORRENTE aufere mensalmente o valor de 01 SALÁRIO MÍNIMO MENSALMENTE, conforme extratos bancários de fls. 15;
+b) Assinou a Declaração que Hipossuficiência onde a RECORRENTE declara que é hipossuficiente econômica diante dos rendimentos mensais que recebe;
+conforme declaração de fls. 17 e documentos da Receita Federal de fls. 18/20;
+c) A RECORRENTE não declara imposto de renda, conforme declaração de fls. 17 e documentos da Receita Federal de fls. 18/20;
+d) A RECORRENTE possui o seu CPF regular, conforme comprovante de fls. 21;
+Desta forma, a questão que a RECORRENTE possui o direito de 25% do imóvel avaliado em R$ 1.000,000,00 (Um Milhão de Reais) não merece prosperar, diante que não há nenhuma previsão de quando a RECORRENTE irá receber esse valor, e, a RECORRENTE não possui o valor das custas de R$ 10.000,00 dez mil reais) para fazer o recolhimento das custas, destacando-se que caso o valor não seja recolhido, o Processo de Reintegração de Posse pode ser extinto sem resolução do mérito.
+ ..
+Destarte, estando o v. Acórdão de fls. 38/41 contrariando ao artigo 98 do CPC, merece reforma a decisão (fls. 49-50).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Trata-se de agravo de instrumento tirado da decisão que, em sede de ação de reintegração de posse autuada sob o nº 0041796-16.2010.8.26.0100, indeferiu a benesse da gratuidade de justiça à agravante.
+Ocorre que, como bem apontado na r. decisão antagonizada, a agravante Kelli Cristina receberá quinhão calculado em 25% do valor do imóvel objeto dos autos de reintegração de posse, avaliado em cerca de um milhão de reais, segundo consta da sentença de homologação do acordo celebrado nos autos de ação de exigir contas (nº 1083395-34.2018.8.26.0100) e reproduzido nas fls. 351/352 da já referida ação de reintegração de posse. Note-se, ainda, que foi autorizada a alienação do aludido imóvel por decisão datada de 07/04/2022 (fls. 407/408 da origem).
+Nesse passo, de se ver que há expectativa de recebimento, pela agravante, e em breve, de quantia suficiente para custeio das despesas processuais, de forma que, q uando muito, caberia o pedido de diferimento de custas, o que, malgrado, não foi deduzido nas razões recursais respectivas.
+De outro lado, noto que a alegação de que a agravante suporta diversas despesas que lhe comprometem o orçamento não restou estampada.
+Por isso, à míngua de pedido de diferimento de custas e havendo apenas pleito de concessão da gratuidade, sem elementos que demonstrem impossibilidade de recolhimento das somas devidas, sendo que, ao contrário, há indícios de envergadura econômica in casu, não há o que ser alterado (fls. 40-41, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
