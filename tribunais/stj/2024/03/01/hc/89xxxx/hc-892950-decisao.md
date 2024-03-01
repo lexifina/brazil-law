@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de PATRÍCIA CRISTINA CALIXTO, apontando como autoridade coatora o Tribunal de Justiça de São Paulo.
+Consta dos autos que a paciente foi condenada à pena de 1 ano e 8 meses de reclusão, em regime inicial semiaberto, pela prática do delito de furto qualificado tentado.
+A defesa requereu a extinção da punibilidade da paciente com base no indulto previsto no Decreto n. 11.302/2022. O benefício foi indeferido pelo Juízo das Execuções e a decisão foi mantida pela Corte estadual.
+Nesta instância, o impetrante renova a pretensão. Assevera que, diante da imposição de medidas cautelares diversas no curso do processo, a paciente preencheu o requisito previsto no decreto, qual seja, o cumprimento de 1/3 da pena.
+Requer, inclusive liminarmente, a concessão da ordem para declarar extinta a punibilidade da paciente.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Sobre a controvérsia, asseverou o Tribunal de Justiça:
+A Paciente, reincidente, foi condenada a cumprir pena de um (1) ano e oito (8) meses de reclusão, em regime inicial semiaberto, por crime de furto qualificado tentado. Requereu o indulto com base no decreto presidencial nº 11.846/2023, mas o pleito foi indeferido.
+O juízo de origem, data venia equivocadamente, indeferiu o indulto com fundamento no art. 5º, do decreto presidencial nº 11.302/2022. Seja como for, a Paciente não tem direito ao benefício, porque não resgatou fração mínima da pena aplicada (1/3 no caso do inciso I,  do inciso XV ou 5 meses, na hipótese do inciso XVI).
+O Impetrante alega que o tempo de recolhimento domiciliar deve ser considerado para fins de detração, mas a decisão que concedeu a liberdade provisória à Paciente em audiência de custódia não cogitou da cautelar, limitando-se a impor as condições de comparecimento a todos os atos do processo e proibição de mudar de domicílio sem autorização judicial, e o fato de a Paciente ter sido beneficiada com a liberdade provisória em plena pandemia não implica em automática imposição de recolhimento domiciliar para fins de detração, pois a necessidade de isolamento em razão da COVID-19 decorreu de força maior e não por determinação do juízo, lembrando que no ano de 2021 parte das atividades estava normalizadas. E para arrematar, a situação da Paciente não guarda paralelismo com a prevista no Tema 1155, fixado pelo Superior Tribunal de Justiça no julgamento do REsp nº 1.977.135/SC pela sistemática dos Repetitivos Representativos de Controvérsia. (e-STJ, fls. 7-8)
+Sem razão o impetrante.
+Conforme destacado pelo Tribunal de Justiça, a paciente não faz jus ao indulto por suas razões. A uma porque o Decreto n. n. 11.302/2022 limitou o benefício aos condenados por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos. No caso, a paciente foi condenada pelo delito de furto qualificado tentado, que possui pena máxima abstrata superior a cinco anos, ainda que considerada a causa de diminuição em sua fração mínima. A duas porque não houve o cumprimento mínimo de pena estabelecido na normativa. Nesse ponto, o impetrante traz considerações a respeito do cumprimento de medidas cautelares no curso do processo e da necessidade de realização da detração.
+Porém, informou a Corte estadual que a paciente não foi submetida a recolhimento noturno. Houve deferimento de liberdade provisória cumulada apenas com a imposição de comparecimento a todos os atos do processo e de proibição de mudança de domicílio sem prévia autorização judicial. Logo, não houve medida cautelar ensejadora de detração. Vale salientar que o impetrante não cuidou de contraditar os referidos fundamentos do acórdão em seu habeas corpus.
+Assim, não preenchidos os requisitos do decreto, inviável a extinção da punibilidade da paciente por indulto.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PEDIDO DE SUPERAÇÃO DO ÓBICE DA SÚMULA N. 691 DO STF. INDULTO. DECRETO N. 11.302/2022. NÃO PREENCHIMENTO DO REQUISITO RELATIVO À PENA MÁXIMA EM ABSTRATO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. De acordo com o explicitado na Constituição Federal (art. 105, I, "c"), não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau.
+2. Em verdade, o habeas corpus não deve servir de instrumento para que se afastem as regras de competência e se submetam à apreciação das mais altas Cortes do país decisões de primeiro grau às quais se atribui suposta ilegalidade, salvo se evidenciada, sem necessidade de exame mais vertical, a apontada violação ao direito de liberdade da paciente. Somente em tal hipótese a jurisprudência, tanto do Superior Tribunal de Justiça quanto do Supremo Tribunal Federal, admite o excepcional afastamento do rigor da Súmula n. 691 do STF.
+3. O art. 5º do Decreto n. 11.302/2022 prevê que "será concedido indulto natalino às pessoas condenadas por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos".
+4. Portanto, se a paciente foi condenada pelo crime de furto qualificado, cuja pena máxima em abstrato é de 8 anos, evidencia-se o não preenchimento do requisito previsto no caput do art. 5º do Decreto n. 11.302/2022.
+5. Agravo regimental não provido.
+(AgRg no HC n. 822.644/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/6/2023, DJe de 22/6/2023; grifou-se.)
+Dessa forma, não vislumbro flagrante ilegalidade capaz de permitir a concessão da ordem nessa instância.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se. Intime-se.
+Cientifique-se o Ministério Público Federal.
+Sem recurso, arquivem-se os autos.
+EMENTA
