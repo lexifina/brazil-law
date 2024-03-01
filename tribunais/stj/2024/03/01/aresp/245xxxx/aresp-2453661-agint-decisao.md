@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo interno ajuizado em face da decisão de fls. 983/984 e-STJ, proferida pelo Ministro Presidente do STJ, que não conheceu do agravo em recurso especial.
+O agravante sustenta, em síntese, que os fundamentos do juízo de admissibilidade foram impugnados.
+À vista dos fundamentos expostos, reconsidero a decisão ora agravada e passo à análise do agravo em recurso especial.
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO INTERNO EM APELAÇÃO. Ação revisional de contrato de financiamento imobiliário à produção.
+Insurgência contra decisão monocrática proferida nesta Corte de Justiça que indeferiu o pedido de concessão da gratuidade processual ao recorrente. Ausência de demonstração de que houve alteração da situação econômico-financeira do recorrente em relação à fase cognitiva do processo. Documentos comprobatórios não exibidos ao juízo de primeiro grau quando solicitados.
+Agravante que optou por recolher as custas e despesas do processo desde o início da tramitação da ação, com base no mesmo valor da causa que deve servir de base para o cálculo do preparo recursal. Renúncia tácita ao benefício com pedido renovado em sede recursal. Ausência de provas da redução da capacidade financeira do recorrente no curso do processo. Decisão mantida. AGRAVO NÃO PROVIDO.
+A parte agravante sustenta ter se implementado a prescrição trienal da cédula de crédito bancário garantida pela alienação fiduciária. Argumenta que o feito deve ser suspenso até o julgamento do Tema 982 do STF. Argumenta fazer jus aos benefícios da gratuidade de Justiça, ou ao menos ao parcelamento das custas processuais. Pede o deferimento de tutela antecipada para paralisar a execução da cédula de crédito.
+Preliminarmente, necessário salientar que a via especial não é a sede própria para a discussão de matéria de índole constitucional, sob pena de usurpação da competência exclusiva do STF.
+Incidem os enunciados 282 e 356 da Súmula do STF quanto ao tema da prescrição, pois é estranho ao julgado recorrido, a ele faltando o indispensável prequestionamento, do qual não estão isentas sequer as questões de ordem pública.
+Acerca da suspensão do processo, o recurso não tem como ser conhecido, pois não foi impugnado o fundamento do julgado estadual que se amparou na ausência de determinação de suspensão dos feitos, em nível nacional, para a solução deste tema em particular, suficiente por si só para manter o acórdão, que, por consequência, não pode ser alterado por força do veto contido no enunciado 283 da Súmula do STF.
+Relativamente à gratuidade de Justiça e ao parcelamento das custas, assim se pronunciou a Corte de origem:
+Mesmo depois da interposição deste agravo interno, o recorrente deixou de instruir estes autos com documentos hábeis a comprovar que houve alteração de sua situação econômico-financeira verificada na fase cognitiva do processo, eis que se negou a exibir os documentos solicitados pelo juízo de primeiro grau no início do processo para possibililitar a adequada análise de alegação de hipossuficiência financeira e optou por recolher as custas iniciais com base no mesmo valor da causa que deve servir de base para o pagamento do preparo recursal.
+Em outras palavras, renunciou tacitamente ao benefício postulado na inicial e, como fundamentado na decisão monocrática ora impugnada, "a alegação de insuficiência financeira veio novamente à lume somente depois do demandante sair vencido na sentença recorrida".
+ ..
+Assim, não preenchidos os pressupostos legais, visto que que as custas e despesas processuais foram recolhidas desde o início da tramitação da ação, o que se vê é a absoluta falta de provas a respeito da atual incapacidade econômico-financeira do recorrente para arcar com as custas e despesas processuais, sendo de rigor, portanto, manter o indeferimento dos benefícios da gratuidade processual pleiteados nas razões da apelação.
+Portanto, deverá o recorrente, no prazo improrrogável de 5 (cinco) dias, a contar da publicação deste acórdão, comprovar o recolhimento do preparo recursal, sob pena de deserção.
+A conclusão do Tribunal revisor - de que a parte agravante não comprovou a hipossuficiência necessária ao deferimento da benesse - foi obtida pela análise do conteúdo fático dos autos, que se situa fora da esfera de atuação desta Corte, nos termos do enunciado 7 da Súmula do STJ.
+Finalmente, diante da evidente ausência de fumus boni juris, indefiro o pedido de tutela antecipada.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
+EMENTA
