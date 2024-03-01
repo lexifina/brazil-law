@@ -1,0 +1,26 @@
+DECISÃO
+Na origem trata-se de agravo de instrumento contra decisão que indeferiu pleito formulado em caráter de urgência referente a nomeação em concurso público. No Tribunal a quo a decisão foi reformada.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, contra acórdão com o seguinte resumo de ementa:
+AGRAVO DE INSTRUMENTO. AÇAO ORDINÁRIA. CONCURSO PÚBLICO. BAHIAGAS. EDITAL 001/2015. ANALISTA DE PROCESSOS ORGANIZACIONAIS - SERVIÇO SOCIAL. 8ª COLOCAÇÃO. CADASTRO RESERVA. DECISÃO QUE INDEFERIU A TUTELA DE URGÊNCIA. CONTRATAÇÃO DE TERCEIRIZADOS PARA A PRESTAÇÃO DO MESMO SERVIÇO DURANTE O PERÍODO DE VALIDADE DO CERTAME. PRETERIÇÃO ARBITRÁRIA CONFIGURADA. DECISÃO R EFORMADA. RECURSO CONHECIDO E PROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Nesse sentido, o STF, no RE n. 837311/PI, julgado em 09/12/2015, com repercussão geral (tema784), listou as hipóteses em que há direito subjetivo à nomeação do candidato aprovado em concurso público.
+(..)
+Ainda, importa ainda salientar que a contratação temporária não importa necessariamente em preterição ilegal de candidato aprovado em concurso público (art. 37, inciso IX, da CRFB/88),sendo este o caso se sua celebração deixar de observar os parâmetros estabelecidos no RE658.026/MG, também julgado sob a sistemática da repercussão geral, bem como há de haver a demonstração de que a contratação temporária não se destina ao suprimento de vacância existente em razão do afastamento temporário do titular do cargo efetivo e de que existem cargos vagos em número que alcance a classificação do candidato interessado.
+(STJ, 2ª Turma, Rel. Min. Mauro Campbell Marques, RMS 60.682/MT, julgado em 15/08/2019).
+(..)
+No caso dos autos foram colacionadas provas suficientes para atestar as alegadas contratações temporárias.
+(..)
+Analisando os os contratos firmados com a Agravada (ids. 188772416, 188772417 e188772426/188768737, PJE 1º grau) (..).
+(..)
+Em suma, a Recorrida realizou contratação de terceirizados durante a validade do concurso, optando, portanto, por privilegiar contratações temporárias em detrimento de convocar a candidata aprovada no certame seletivo, ficando demonstrada a plausibilidade do direito e o perigo da demora.
+Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". (EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria, bem como os contratos de trabalho terceirizados. Assim, para se chegar à conclusão diversa seria necessário o reexame tanto de cláusulas contratuais quanto do conjunto fático-probatório, o que é vedado pelos enunciados ns. 5 e 7 das Súmulas do STJ, segundo os quais, respectivamente, "A simples interpretação de cláusula contratual não enseja recurso especial" e "A pretensão de simples reexame de provas não enseja recurso especial".
+Conforme entendimento desta Corte, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado. Nesse sentido: AgInt no AREsp 1.234.093/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe 3/5/2018; AgInt no AREsp 1.173.531/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2018, DJe 26/3/2018.
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
