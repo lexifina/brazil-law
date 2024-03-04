@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, sem pedido liminar, impetrado em favor de FABIANO SOUZA DE LIMA, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina.
+Extrai-se dos autos que o paciente foi condenado à pena de 1 ano de reclusão, em regime inicial semiaberto, e pagamento de 10 dias-multa, como incurso nas sanções do art. 180, caput, do Código Penal.
+A defesa interpôs recurso de apelação perante o Tribunal de origem, que deu parcial provimento ao apelo para afastar a agravante da reincidência e fixar o regime aberto e conceder a substituição da pena privativa de liberdade por uma restritiva de direitos, nos termos do acórdão que recebeu a seguinte ementa:
+"APELAÇÃO CRIMINAL - RECEPTAÇÃO (ART. 180, CAPUT, DO CÓDIGO PENAL) - SENTENÇA CONDENATÓRIA - RECURSO DA DEFESA. PRELIMINAR - BUSCA DOMICILIAR - ILICITUDE DA PROVA PRODUZIDA, PORQUANTO ORIGINADA SEM MANDADO JUDICIAL E SEM JUSTA CAUSA A POSTERIORI - SUPOSTA INOBSERVÂNCIA DA GARANTIA CONSTITUCIONAL DA INVIOLABILIDADE DOMICILIAR (ART. 5º, INC. XI, DA CONSTITUIÇÃO FEDERAL) - INOCORRÊNCIA - SITUAÇÃO DE FLAGRÂNCIA QUE DISPENSA AUTORIZAÇÃO - RECEPTAÇÃO - CRIME PERMANENTE - ADEMAIS,MORADORA DO IMÓVEL QUE CONFIRMA A AUTORIZAÇÃO DE INGRESSO DOS AGENTES PÚBLICOS EM SUA RESIDÊNCIA - MÁCULA INEXISTENTE.
+A receptação é delito considerado de efeito permanente, de maneira que, quando observado o estado de flagrância, é autorizada a incursão policial em domicílio, sem a necessidade de mandado de busca e apreensão, ainda mais quando autorizado o ingresso pelo morador.
+MÉRITO - ALMEJADA ABSOLVIÇÃO POR ANEMIA PROBATÓRIA - IMPOSSIBILIDADE - AUTORIA E MATERIALIDADE EVIDENTES - PALAVRAS DA VÍTIMA E AGENTES PÚBLICOS QUE SE SOMAM AOS DEMAIS ELEMENTOS REUNIDOS - CONJUNTO PROBATÓRIO FIRME E COERENTE- CONDENAÇÃO ESCORREITA.
+A dúvida que propende à absolvição é aquela inexpugnável; conquistada a certeza da responsabilidade penal diante do farto conjunto probatório - consubstanciado pelos depoimentos harmônicos da vítima e dos policiais, bem como pela prova documental e fática -, inviável falar na aplicação do princípio in dubio pro reo.
+PLEITO SUBSIDIÁRIO DE AFASTAMENTO DA AGRAVANTE DE REINCIDÊNCIA - PERTINÊNCIA- CONDENAÇÃO POR FATO CRIMINOSO POSTERIOR AO NARRADO NA DENÚNCIA QUE NÃO PODE SER UTILIZADO PARA FINS DE REINCIDÊNCIA OU DE MAUS ANTECEDENTES - DOSIMETRIA ALTERADA, COM A CONSEQUENTE MODIFICAÇÃO DO REGIME INICIAL DECUMPRIMENTO DE PENA PARA O ABERTO - VIABILIDADE, OUTROSSIM, DA SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVA DE DIREITOS.
+Não caracteriza reincidência ou maus antecedentes a condenação transitada em julgado por fato criminoso praticado após o enredo narrado na inicial acusatória.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO." (e-STJ, fl. 43)
+Neste habeas corpus, a impetrante sustenta não haver fundamentação concreta e válida para justificar a aplicação de uma pena restritiva de direitos ao invés de multa, o que se mostraria mais benéfico ao paciente.
+Requer, assim, a readequação da pena substitutiva para a multa
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+A Corte de origem, ao conceder a substituição da pena privativa de liberdade por uma restritiva de direitos assim considerou:
+"Possibilitada a substituição da pena privativa de liberdade por 1 (uma) restritiva de direitos, consistentes na prestação de serviços à comunidade, cuja entidade beneficiária deverá ser indicada pelo juízo da execução penal, pelo mesmo período da pena corporal, com fulcro no art. 44, § 2º, do Código Penal." (e-STJ, fl. 42)
+Com efeito, o art. 44, § 2º, primeira parte, do Código Penal prevê a possibilidade de substituição da pena privativa de liberdade, nas condenações não superior a 1 ano, por uma restritiva de direitos ou por multa, cabendo ao Magistrado processante, de forma motivada, eleger qual medida é mais adequada ao caso concreto.
+No caso, nota-se que o Tribunal a quo não fundamentou a escolha da pena substitutiva de prestação de serviços à comunidade.
+Desse modo, de rigor a concessão da ordem de habeas corpus, de ofício, para determinar que o Tribunal de origem promova, de forma fundamentada, a substituição da pena privativa de liberdade por uma restritiva de direito ou multa, conforme seja mais adequada ao caso concreto.
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem, de ofício, para determinar que o Tribunal a quo promova, de forma fundamentada, a substituição da pena privativa de liberdade por uma restritiva de direitos ou multa.
+Publique-se.
+Intime-se
+EMENTA
