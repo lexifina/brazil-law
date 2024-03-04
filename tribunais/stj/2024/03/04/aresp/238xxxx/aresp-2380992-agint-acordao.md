@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DEPÓSITO E LEVANTAMENTO DO VALOR INCONTROVERSO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. INCIDÊNCIA DA MULTA PREVISTA NO ART. 523 DO CPC/2015 SOMENTE SOBRE O SALDO REMANESCENTE. SÚMULA N. 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência do Superior Tribunal de Justiça, no sentido de que, havendo pagamento parcial da dívida no prazo disciplinado no art. 523 do CPC/2015 (art. 475-J do CPC/1973), mediante depósito da parte incontroversa, a multa e os honorários advocatícios incidirão somente sobre o saldo remanescente.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Cuida-se de agravo interno interposto por CARLOS ALBERTO LEAL ROLIM e OUTROS contra decisão desta relatoria assim ementada (e-STJ, fl. 870):
+AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DEPÓSITO E LEVANTAMENTO DO VALOR INCONTROVERSO. AFASTAMENTO DA MULTA DO ART. 523, § 1º, DO CPC/2015 SOBRE ESSE MONTANTE. SÚMULA N. 83 DO STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Nas razões recursais (e-STJ, fls. 876-885), alegam os insurgentes ofensa ao art. 1.022 do CPC/2015, tendo em vista que o Tribunal de origem deixou de se manifestar sobre a apontada tese de que o depósito não tinha por objetivo o pagamento, mas se tratava de mera garantia do juízo.
+Defendem que o depósito parcial não afasta a incidência da multa.
+Pugnam pelo afastamento do óbice das Súmulas 7 e 83 desta Corte.
+Pleiteiam a reconsideração da decisão agravada ou o encaminhamento do feito para julgamento pelo órgão colegiado.
+Sem impugnação (e-STJ, fl. 887).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DEPÓSITO E LEVANTAMENTO DO VALOR INCONTROVERSO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. INCIDÊNCIA DA MULTA PREVISTA NO ART. 523 DO CPC/2015 SOMENTE SOBRE O SALDO REMANESCENTE. SÚMULA N. 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência do Superior Tribunal de Justiça, no sentido de que, havendo pagamento parcial da dívida no prazo disciplinado no art. 523 do CPC/2015 (art. 475-J do CPC/1973), mediante depósito da parte incontroversa, a multa e os honorários advocatícios incidirão somente sobre o saldo remanescente.
+3. Agravo interno a que se nega provimento.
+VOTO
+Os argumentos trazidos pelos insurgentes não são capazes de modificar as
+conclusões da deliberação unipessoal.
+Os agravantes sustentam que ficou configurada a negativa de prestação jurisdicional, porquanto o colegiado local não se manifestou sobre o fato de que o depósito efetuado pela agravada se destinava à garantia do juízo.
+No entanto, conforme registrado na decisão agravada, constata-se que o acórdão recorrido resolveu satisfatoriamente todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, tendo consignado que "o valor depositado pela ré se destinou ao adimplemento da obrigação, com levantamento durante a tramitação do feito" (e-STJ, fl. 529).
+Portanto, não incorreu nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+A jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos suscitados pela parte em embargos declaratórios, cuja rejeição, nessas condições, não implica contrariedade ao art. 1.022, I e II, do CPC/2015.
+Assim, tendo o Tribunal de origem decidido de modo claro e fundamentado, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, inexistem vícios suscetíveis de correção por meio dos embargos de declaração apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+Na mesma linha de cognição:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. PREVIDÊNCIA COMPLEMENTAR. AÇÃO DE RESTITUIÇÃO DE CONTRIBUIÇÕES. PRAZO DE PRESCRIÇÃO TRIENAL. INAPLICABILIDADE. INCIDÊNCIA DO PRAZO GERAL DECENAL. IMPUGNAÇÃO DA SÚMULA 568 DO STJ. PRECEDENTES ANTERIORES AOS MENCIONADOS NA DECISÃO AGRAVADA. IMPOSSIBILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. SOLUÇÃO INTEGRAL DA LIDE. AUSÊNCIA
+DE VIOLAÇÃO DO ART. 489 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. SÚMULA7 DO STJ. PREJUDICIALIDADE.
+(..)
+5. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. Precedentes.
+6. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+7. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+8. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+9. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes do STJ.
+10. Agravo interno não provido.
+(AgInt no REsp n. 1.748.394/SP, relatora Ministra Nancy Andrighi, Terceira
+Turma, julgado em 21/2/2022, DJe de 24/2/2022.)
+No tocante à incidência da multa prevista no art. 523 do CPC/2015, o colegiado estadual assim se manifestou (e-STJ, fls. 382-383; sem grifo no original):
+Em observância à decisão proferida pelo egrégio Superior Tribunal de Justiça (AREsp 2141186), cumpre destacar a não incidência da multa de 10% prevista no art. 523 do CPC.
+Isso porque, embora o depósito de R$ 408.988,86, efetuado na época da propositura da impugnação (2015), tenha ocorrido a título de "garantia do juízo", conforme fl. 315, o montante corresponde ao total incontroverso. Além disso, foi realizado no prazo consignado na decisão e inclusive foi posteriormente levantado pelos credores, fato esse incontroverso, eis que por eles admitido.
+Idêntico raciocínio vale para os demais depósitos feitos pela ora agravada, os quais também foram tempestivos e liberados aos credores (embargantes) no curso do feito.( )
+Portanto, nos moldes definidos no julgamento originário, a multa fica mantida "apenas sobre a parte inadimplida até cada depósito".
+Destarte, o acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência do Superior Tribunal de Justiça, no sentido de que, havendo pagamento parcial da dívida no prazo disciplinado no art. 523 do CPC/2015 (art. 475-J do CPC/1973), mediante depósito da parte incontroversa, a multa e os honorários advocatícios incidirão somente sobre o saldo remanescente.
+A esse respeito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. MULTA. ART. 523, §§ 1º E 2º, DO CPC. VIOLAÇÃO. AUSÊNCIA. SÚMULA NºS 7 E 283/STJ. INCIDÊNCIA. ART. 1.022 DO CPC.
+1. Não há falar em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+2. O pagamento tempestivo e parcial da dívida executada atrai o § 2º do artigo 523 do CPC, motivo pelo qual incide a multa de 10 % (dez por cento) tão somente sobre o valor remanescente a ser pago pelo devedor.
+3. A decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+4. Na hipótese, acolher a pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, conforme dispõe a Súmula nº 7/STJ.
+5. Agravo interno não provido.(AgInt no REsp n. 1.929.844/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+Diante do exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
