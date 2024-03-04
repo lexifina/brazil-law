@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15), interposto por BANCO DO BRASIL SA, contra decisão que não admitiu o recurso especial do insurgente.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a" da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Piauí, assim ementado (fl. 393, e-STJ):
+APELAÇÃO CÍVEL. EXECUÇAÕ DE TÍTULO EXTRAJUDICIAL. AUSÊNCIA DE DEMONSTRATIVO ATUALIZADO DO DÉBITO. DETERMINAÇÃO JUDICIAL REITERADA. NÃO CUMPRIMENTO. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO. AUSÊNCIA DE PRESSUPOSTO DE DESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO. RECURSO CONHECIDO E IMPROVIDO.
+1. O não cumprimento, por parte do exequente, da determinação apresentação do demonstrativo atualizado de débito importa configura ausência de pressuposto de constituição e desenvolvimento válido e regular da execução, eis que se trata de documento indispensável à continuidade da demanda.
+2. Desta forma, impõe-se a extinção do feito. Contudo, não com base no art. 485, III, do NCPC (abandono de causa) como consignado em sentença, mas no inciso IV do referido dispositivo (ausência de pressupostos de constituição e de desenvolvimento válido e regular do processo).
+3. Desnecessária a intimação pessoal da parte exequente, conforme o §1º, do art. 485, do CPC, porquanto a medida somente é aplicável nas hipóteses previstas nos seus incisos II e III.
+4. Não sendo o caso de abandono de causa, é prescindível o requerimento do réu previsto no art. §7º, do art. 485, do NCPC).
+5. Recurso improvido.
+Nas razões do recurso especial (fls. 416-433, e-STJ), o insurgente alega que o acórdão recorrido violou o artigo 485, IV, do CPC, aduzindo: i) o feito não poderia ter sido extinto com base na ausência de pressuposto de constituição e desenvolvimento válido e regular do processo - pois a recorrente se manifestou nos autos em todas as oportunidades que intimada para tanto, e ii) nulidade da sentença, que declarou extinto o feito em relação a esta instituição financeira, pois não houve prévia intimação pessoal para impulsionamento dos autos.
+Em juízo de admissibilidade, o Tribunal a quo inadmitiu o recurso especial (fls. 512-514, e-STJ), dando ensejo a interposição do presente agravo (fls. 520-528, e- STJ).
+Não foi apresentada contraminuta.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. O recorrente aponta ofensa ao artigo 485, IV, do CPC, o feito não poderia ter sido extinto com base na ausência de pressuposto de constituição e desenvolvimento válido e regular do processo - pois a recorrente se manifestou nos autos em todas as oportunidades que intimada para tanto.
+A esse respeito, assim concluiu o Tribunal de origem (fl. 402-403, e-STJ):
+Interpostos recursos por ambos os litigantes, fora proferido acórdão em que restou reformada a sentença, no sentido de julgar totalmente procedente a presente ação de execução de título extrajudicial (Num. 5965969 - Pág. 138).
+A partir deste momento, o d. juízo a quo, vem reiteradamente, ao longo dos anos, intimando o exequente/apelante para impulsionar o feito, apresentando planilha atualizada do débito (Num. 5965969 - Pág. 172, Num. 5965969 - Pág. 257, Num. 5965976 - Pág. 1), tendo este permanecido inerte durante todo o período.
+Nesse contexto, o d. juízo de 1º grau extinguiu o feito sem resolução de mérito, com fundamento no artigo 485, inciso III, do CPC (Num. 5965979 - Pág. 1).
+Em suas razões recursais (Num. 5965988 - Pág. 1), a instituição apelante alega que não fora pessoalmente intimada do despacho saneador. Sustenta que inexistindo requerimento do réu neste sentido, não é cabível a extinção do feito por abandono de causa.
+Logo, o fato de o exequente não ter apresentado demonstrativo atualizado de débito importa, na verdade, em ausência de pressuposto de constituição e desenvolvimento válido e regular da execução, eis que se trata de documento indispensável à continuidade da demanda.
+Como se vê, o Tribunal de origem, de acordo com o contexto fático-probatórios dos autos, ao contrário do sustenta o recorrente, concluiu que a parte foi intimada para apresentar a planilha atualizada do débito, porém manteve-se inerte.
+Assim, para derruir a afirmação da Corte local, segundo as razões vertidas no apelo extremo, a fim de desconstituir as conclusões a que chegou o órgão julgador, ensejaria o necessário revolvimento das provas constantes dos autos, providência essa que é inadmissível na estreita via do recurso especial, consoante o enunciado da Súmula 7 do STJ.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO EXTRAJUDICIAL. LEI Nº 9.514/1997. ALIENAÇÃO FIDUCIÁRIA DE COISA IMÓVEL. LEILÃO EXTRAJUDICIAL. DEVEDOR FIDUCIANTE. NOTIFICAÇÃO PESSOAL. CIÊNCIA INEQUÍVOCA. AUSÊNCIA. REVISÃO. SÚMULA Nº 7/STJ. HONORÁRIOS SUCUMBENCIAIS. EQUIDADE. FIXAÇÃO. NÃO CABIMENTO. VALOR ATRIBUÍDO À CAUSA. ART. 85, § 2º, DO CPC. REGRA GERAL.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no tocante à necessidade de intimação pessoal do devedor acerca da data da realização do leilão extrajudicial, entendimento que se aplica aos contratos regidos pela Lei nº 9.514/1997.
+2. No caso concreto, rever a conclusão do tribunal de origem, que atestou a falta de intimação da parte devedora na data do leilão do imóvel demandaria o reexame de matéria fática, atraindo o óbice da Súmula nº 7/STJ.
+3. Nos termos da jurisprudência desta Corte, apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório ou (b) o valor da causa for muito baixo.
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.029.859/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 2/10/2023, DJe de 6/10/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA, DE PLANO, NÃO CONHECER DO APELO NOBRE. INSURGÊNCIA DA PARTE AGRAVANTE.
+1. Segundo a jurisprudência deste Superior Tribunal de Justiça, a intimação realizada no portal eletrônico prevalece sobre àquela efetuada por meio de Diário de Justiça, por ser forma especial, privilegiando a boa-fé processual e a confiança dos operadores nos sistemas informatizados de processo eletrônico. Incidência da Súmula 83 do STJ.
+2. Rever a conclusão do Tribunal a quo acerca da validade da intimação, no caso concreto, demandaria o reexame de provas, providência que encontra óbice na Súmula 7 desta Corte Superior.
+Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.326.999/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/9/2023, DJe de 8/9/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. PREVIDÊNCIA PRIVADA. PENSÃO POR MORTE. SUPLEMENTAÇÃO. OBRIGAÇÃO DE FAZER. DESCUMPRIMENTO. MULTA. AFASTAMENTO. DESCABIMENTO. INTIMAÇÃO PESSOAL DO DEVEDOR. OCORRÊNCIA. REEXAME DE PROVA. SÚMULA Nº 7/STJ. HONORÁRIOS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ.
+1. A ausência de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede o conhecimento do apelo nobre (Súmula nº 211/STJ).
+2. É necessária a intimação pessoal do devedor de obrigação de fazer para fins de incidência das astreintes.
+3. Na hipótese, rever a conclusão do julgado, que entendeu pela aplicação da multa tendo em vista a intimação pessoal do devedor para cumprir a obrigação, demandaria o reexame de matéria de prova, providência inviável em recurso especial em virtude do óbice da Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.187.501/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/8/2023, DJe de 21/8/2023.)
+Incide, no ponto, o óbice da Súmula 7/STJ.
+2. O recorrente aponta ofensa ao art. 485, IV, do CPC, sustentando a nulidade da sentença, que declarou extinto o feito em relação a esta instituição financeira, pois não houve prévia intimação pessoal para impulsionamento dos autos. A esse respeito, assim concluiu o acórdão de origem (fls. 403-404, e-STJ):
+Em suas razões recursais (Num. 5965988 - Pág. 1), a instituição apelante alega que não fora pessoalmente intimada do despacho saneador. Sustenta que inexistindo requerimento do réu neste sentido, não é cabível a extinção do feito por abandono de causa.
+Logo, o fato de o exequente não ter apresentado demonstrativo atualizado de débito importa, na verdade, em ausência de pressuposto de constituição e desenvolvimento válido e regular da execução, eis que se trata de documento indispensável à continuidade da demanda.
+(..)
+Desta forma, impõe-se a extinção do feito. Contudo, não com base no art. 485, III, do NCPC (abandono de causa) como consignado em sentença, mas no inciso IV do referido dispositivo (ausência de pressupostos de constituição e de desenvolvimento válido e regular do processo).
+Isto posto, é desnecessária a intimação pessoal da parte autora, conforme o §1º, do art. 485, do CPC, porquanto a medida somente é aplicável nas hipóteses previstas nos seus incisos II e III.
+Ademais, não sendo o caso de abandono de causa, é prescindível o requerimento do réu previsto no art. §7º, do art. 485, do NCPC).
+Assim, verifica-se que os argumentos deduzidos no apelo extremo encontram-se dissociados do que fora decidido pela Corte Estadual, caracterizando a deficiência na fundamentação do recurso, a impedir a exata compreensão da controvérsia, fazendo incidir o teor da Súmula 284/STF, por analogia.
+Nesse mesmo sentido, confira-se:
+CONSUMIDOR E CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CLÁUSULA EXCLUDENTE DA COBERTURA. APOSENTADORIA POR INVALIDEZ. SFH. ACÓRDÃO FUNDADO NO CDC. NULIDADE DA CLÁUSULA. ART. 51, IV, DO CDC. ESPECIAL DISTANCIANDO-SE DA FUNDAMENTAÇÃO DO ACÓRDÃO. TESE SUFICIENTE NÃO IMPUGNADA. SÚMULAS 283 E 284 DO STF. PREQUESTIONAMENTO. INEXISTÊNCIA. AGRAVO NÃO PROVIDO.
+ ..  3. A falta de combate a fundamento suficiente para manter o acórdão recorrido bem como as razões recursais dissociadas daquilo que ficou decidido pelo Tribunal de origem demonstram deficiência de fundamentação do recurso, o que atrai, por analogia, os óbices das Súmulas n. 283 e 284 do Supremo Tribunal Federal. 4. Agravo regimental não provido. (AgRg no REsp 1507662/PB, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2015, DJe 28/08/2015)  grifou-se
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. USUCAPIÃO EXTRAORDINÁRIA. AUSÊNCIA DE COMPROVAÇÃO DA POSSE COM ANIMUS DOMINI (POSSE AD USUCAPIONEM). FUNDAMENTOS DO ESPECIAL DISSOCIADOS DO ACÓRDÃO RECORRIDO. SUMULAS 283 E 284 DO STF. DESCONSTITUIÇÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO DESPROVIDO.
+1. Estando as razões do recurso especial dissociadas dos fundamentos do acórdão recorrido, não havendo, portanto, impugnação do decisum, tem incidência as Súmulas 283 e 284 do STF.  ..
+3. Agravo regimental desprovido. (AgRg no AREsp 699.369/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/10/2015, DJe 13/11/2015)  grifou-se
+Além disso, denota-se que o órgão julgador utilizou como razão de decidir, na hipótese, o fundamento, segundo o qual, por não ter apresentado demonstrativo atualizado de débito, a extinção do feito se deu pela ausência de pressuposto de constituição e de desenvolvimento válido e regular do processo, sendo desnecessária a prévia intimação pessoal da parte. Porém, referidos argumentos não foram rebatidos nas razões do apelo extremo e suficiente para manutenção do decisum, atraindo a aplicação da Súmula 283/STF, por analogia.
+Com efeito, a subsistência de fundamentos inatacados aptos a manter a conclusão do acórdão impugnado, impõe o desprovimento do apelo, a teor do disposto na Súmula 283 do STF, in verbis: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". Precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ATRASO NA ENTREGA DO IMÓVEL. LUCROS CESSANTES. FUNDAMENTO INATACADO. MORA DO COMPRADOR. SÚMULA 283 E 284 DO STF. MATÉRIA QUE DEMANDA REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. 1. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".  ..  3. Agravo interno não provido. (AgInt nos EDcl no AREsp 874.193/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/09/2016, Dje 08/09/2016)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.  ..  EXISTÊNCIA DE FUNDAMENTO NÃO ATACADO NO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA Nº 283 DO STF.  ..  5. A existência de fundamento inatacado no julgado, suficiente p ara manter a decisão, atrai o óbice contido na Súmula nº 283 do STJ, aplicável por analogia. 6. Agravo regimental não provido. (AgRg no AREsp 719.286/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 14/06/2016, Dje 21/06/2016)
+Incide, portanto, o teor das Súmulas 283 e 284/STF, aplicáveis por analogia aos recursos especiais.
+3. Ante o exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conheço do agravo para não conhecer do recurso especial.
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do NCPC.
+Publique-se.
+Intimem-se.
+EMENTA
