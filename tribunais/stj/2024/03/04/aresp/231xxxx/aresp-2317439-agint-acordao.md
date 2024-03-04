@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO CPC, E INCIDÊNCIA DA SÚMULA N.º 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. O agravo interno não infirmou as razões da decisão agravada, pois não refutou, de forma devida, a incidência da Súmula n.º 284 do STF quanto à violação dos arts. 11 e 489, ambos do CPC, e a consonância do acórdão estadual com o entendimento do STJ sobre a abusividade da cláusula contratual que dispõe sobre o pagamento integral da semestralidade, quando o aluno não cursa todas as disciplinas ofertadas no período. Inobservância do art. 1.021, § 1º, do CPC e aplicação da Súmula n.º 182 do STJ.
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por APEC -SOCIEDADE POTIGUAR DE EDUCAÇAO E CULTURA LTDA. (APEC) contra decisão monocrática de minha relatoria, assim ementada:
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPETIÇÃO DE INDÉBITO. CONTRATO DE PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS. VIOLAÇÃO DOS ARTS. 11 E 489 DO NCPC. ALEGAÇÕES GENÉRICAS. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. COBRANÇA DO VALOR INTEGRAL DE MENSALIDADE DE ENSINO, MESMO QUANDO O CONSUMIDOR CURSA POUCAS DISCIPLINAS. ABUSIVIDADE. CONSONÂNCIA COM O ENTENDIMENTO DO STJ. INVIABILIDADE DE REEXAME DO CONTRATO. INCIDÊNCIA DAS SÚMULAS NºS 5 E 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO. (e-STJ, fl. 565)
+Nas razões do presente inconformismo, APEC defendeu (1) a inaplicabilidade da Súmula nº 284 do STF, pois teria sido clara ao indicar o art. 1º da Lei nº 8.970/99 como violado pelo acórdão estadual; e (2) a não incidência da Súmula nº 7 do STJ por entender que a discussão arguida no apelo nobre é apenas a admissibilidade da cobrança da semestralidade do acadêmico sem redução de valor em razão de eventual alteração da grade curricular do curso durante a graduação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO CPC, E INCIDÊNCIA DA SÚMULA N.º 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. O agravo interno não infirmou as razões da decisão agravada, pois não refutou, de forma devida, a incidência da Súmula n.º 284 do STF quanto à violação dos arts. 11 e 489, ambos do CPC, e a consonância do acórdão estadual com o entendimento do STJ sobre a abusividade da cláusula contratual que dispõe sobre o pagamento integral da semestralidade, quando o aluno não cursa todas as disciplinas ofertadas no período. Inobservância do art. 1.021, § 1º, do CPC e aplicação da Súmula n.º 182 do STJ.
+2. Agravo interno não conhecido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+(1) Da incidência da Súmula nº 284 do STF, por analogia
+Nas razões do presente agravo, APEC sustentou a inaplicabilidade da Súmula n.º 284 do STF ao defender que teria sido clara ao indicar o art. 1º da Lei n.º 8.970/99 como violado pelo acórdão estadual.
+Ocorre que o mencionado enunciado sumular foi aplicado na decisão agravada em relação à violação dos arts. 11 e 489, ambos do CPC, que também foram indicados como violados no bojo do apelo nobre sem, contudo, nenhuma indicação de quais seriam os pontos sobre os quais o Tribunal de origem teria incorrido em nulidade.
+Desta feita, as razões ora apresentadas pela APEC não guardam correlação com os fundamentos do decisum agravado sobre este ponto, devendo ser mantida incólume a decisão recorrida.
+(2) Da incidência da Súmula nº 7 do STJ
+A APEC sustentou a inaplicabilidade da Súmula n.º 7 do STJ por entender que a discussão arguida no apelo nobre é apenas de direito, consubstanciada na alegação de ser admissível a cobrança da semestralidade do acadêmico sem redução de valor em razão de eventual alteração da grade curricular do curso durante a graduação.
+Sobre o tema, a decisão agravada foi clara ao consignar que o acórdão estadual guarda consonância com o entendimento firmado no STJ, no sentido de que é abusiva cláusula contratual que dispõe sobre o pagamento integral da semestralidade quando o aluno não cursa todas as disciplinas ofertadas no período. Assim, manteve o aresto de origem para determinar que a instituição de ensino cobre as suas mensalidades no valor proporcional às disciplinas cursadas pelo autor, ou seja, conforme os serviços que prestar ao aluno, restando-lhe devida a restituição dos valores que adimpliu em excesso, sob pena de enriquecimento sem causa da ré.
+Conforme se nota, a incidência das Súmulas n.ºs 5 e 7, ambas do STJ, foram, portanto, um dos fundamentos da decisão agravada, sendo o principal deles a consonância do acórdão estadual com o entendimento desta Corte Superior, o que não foi impugnado nas razões do presente agravo interno.
+De todos os ângulos sobressai que o agravo interno apresentou razões dissonantes dos fundamentos do decisum agravado em relação à tese (1) e, quanto à tese (2), não infirmou a consonância do acórdão estadual com o entendimento desta Corte Superior.
+Vale pontuar que o art. 1.021, § 1º, do CPC determina que, na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada, o que, como visto, não foi observado no presente caso.
+Ademais, em obediência ao princípio da dialeticidade, exige-se da parte agravante o desenvolvimento de argumentação capaz de demonstrar a incorreção dos motivos nos quais se fundou a decisão agravada, técnica ausente nas razões dessa irresignação, a atrair a incidência da Súmula n.º 182 desta Corte, do seguinte teor: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Conforme já decidiu o STJ:
+À luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge.
+(AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008)
+Assim, porque os argumentos que APEC trouxe não atacaram os fundamentos da decisão agravada, fica prejudicada sua análise em virtude da não admissão do recurso em razão da incidência da Súmula n.º 182 desta Corte.
+Nessas condições, pelo meu voto, NÃO CONHEÇO do agravo interno.
