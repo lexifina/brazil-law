@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do CPC/2015, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+2. Obscuridade decorre da falta de clareza e precisão da decisão, suficiente a não permitir a certeza jurídica a respeito das questões resolvidas, objetivando o entendimento de todos.
+3. Há contradição quando existirem proposições inconciliáveis entre si, de forma que a afirmação de uma logicamente significará a negação da outra.
+4. O reexame de fatos e provas é vedado em recurso especial.
+5. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por BANCO ALVORADA S.A. E OUTROS em face de acórdão que restou assim ementado:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESGATE DE CONTRIBUIÇÕES PREVIDENCIÁRIAS. CUMPRIMENTO DE SENTENÇA. AÇÃO RESCISÓRIA. TÍTULO JUDICIAL. ADEQUAÇÃO. PRESCRIÇÃO QUINQUENAL. SÚMULAS 291 E 427 DO STJ. REEXAME DE FATOS E PROVAS. AUSENCIA DE PREQUESTIONAMENTO. 1. Ação de resgate de contribuições e dividendos da partilha e liquidação do patrimônio líquido, em fase de cumprimento de sentença, ajuizada em 29/07/2007, da qual foi extraído o presente recurso especial, interposto em 20/10/2021 e concluso ao gabinete em 28/03/2022.2. O propósito recursal consiste em definir se o cumprimento de sentença interpretou de forma adequada os termos do título judicial reformado por ação rescisória. 3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.4. O reexame de fatos e provas em recurso especial é inadmissível.5. Em demanda de previdência complementar, deve ser observada a prescrição quinquenal, nos termos do artigo 75 da LC nº 109/2001 e Súmula 427 do STJ.6. Como a procedência da rescisória reconstitui o título executivo judicial, o cumprimento de sentença deve considerar os termos do título conforme decidido na ação rescisória.7. Recurso especial conhecido parcialmente e, nessa extensão, parcialmente provido para determinar a continuidade da perícia contábil conforme o título judicial reformado pela ação rescisória, nos termos da fundamentação.
+Em suas razões, alega que o acórdão restou obscuro no que tange à metodologia de cálculo utilizada pelo perito judicial.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do CPC/2015, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+2. Obscuridade decorre da falta de clareza e precisão da decisão, suficiente a não permitir a certeza jurídica a respeito das questões resolvidas, objetivando o entendimento de todos.
+3. Há contradição quando existirem proposições inconciliáveis entre si, de forma que a afirmação de uma logicamente significará a negação da outra.
+4. O reexame de fatos e provas é vedado em recurso especial.
+5. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do CPC/2015, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+Rememora-se que a obscuridade decorre da falta de clareza e precisão da decisão, suficientes a não permitir a certeza jurídica a respeito das questões resolvidas, objetivando o entendimento de todos.
+Por outro lado, verifica-se contradição quando existirem proposições inconciliáveis entre si, de forma que a afirmação de uma logicamente significará a negação da outra. (NEVEL, Daniel Amorim, Novo Código de Processo Civil Comentado. Ed. JusPodivm, 2016.)
+Diante dessas conceituações, verifica-se que, na espécie, inexiste a obscuridade ou a contradição apontada pelo embargante. Isso porque a insurgência do embargante versa sobre o modelo de cálculo utilizado pelo perito.
+No acórdão embargado, concluiu-se que "tendo em vista que o Tribunal de origem recusou o modelo de cálculo proposto pelos recorrentes em virtude de rechaço do próprio perito judicial, alterar o decidido no acórdão impugnado exigiria o reexame de fatos e provas, o que é vedado em recurso especial pela Súmulas 7 do STJ."(e-STJ Fl.2138)
+Em suas razões, o embargante aduz que requereu "inúmeras vezes que a perícia em primeiro grau prosseguisse com a aplicação analógica da Resolução MPAS/CPC nº 06/88 para o cálculo do superávit" e que, nos autos originais, o próprio perito havia reconhecido que o método de cálculo MPAS/CPC nº 06/88 era adequado para a lide.
+Nesse sentido, assevera que a conclusão a que chegou o Tribunal de origem, no sentido de que "o entrave na conclusão pericial favorável a si foi causado pelos próprios Agravantes, que reputam impossível realizar nova prova documental nesse sentido. Portanto, conclui-se que a continuidade da perícia judicial restou frustrada por conduta dos Agravantes" não se coaduna com a realidade.
+Em que pese os bem lançados fundamentos da embargante, conforme já expresso no acórdão embargado, alterar a conclusão do Tribunal de origem de que "o expert do juízo recusou a metodologia de cálculo proposta pelos Agravantes, que requeriam a aplicação analógica da Resolução MPAS/CPC nº 06/88"(e-STJ Fl.1735) seria uma afronta à Súmula 07/STJ, razão pela qual não merece prosperar a insurgência.
+DISPOSITIVO
+Forte nessas razões, REJEITO os embargos de declaração.
