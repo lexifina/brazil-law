@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo apresentado por BRB BANCO DE BRASILIA SA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim resumido:
+DIREITO DO CONSUMIDOR. APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS EMORAIS. TRANSAÇÃO BANCÁRIA MEDIANTE FRAUDE. PIX. ALTO VALOR, FORA DO PERFIL DO CORRENTISTA. RESPONSABILIDADE DA INSTITUIÇÃO FINANCEIRA. FALHA NA PRESTAÇÃO DO SERVIÇO. DANOS MATERIAIS. DANOS MORAIS. SENTENÇA REFORMADA.
+Quanto à primeira controvérsia, alega violação do art. 14, §3º, I e II, do CDC, no que concerne à necessidade de afastar a responsabilidade imputada ao banco recorrente, ante a caracterização da fraude e de culpa exclusiva de terceiros, trazendo a seguinte argumentação:
+Colenda Turma, a r. sentença e v. Acórdão recorrido reconhece a ocorrência de suposta fraude perpetrada contra o cliente, em que foram realizados empréstimos em conta pessoal e utilização de transferências bancárias mediante utilização de aparelho Mobile, ID 22B1E74995DC839A, utilizado pela cliente desde 13/01/2022 e tudo mediante utilização de senha pessoal e intransferível.
+ ..
+Consoante se infere, a parte Recorrida foi vítima de fraude, fato completamente alheio à responsabilidade do banco por constituir fortuito externo.
+ ..
+Ora, verifica-se claramente inexistir, no caso, qualquer defeito na prestação do serviço. Destaca-se, ainda, que as transações contestadas se deram única e exclusivamente por culpa exclusiva de terceiros. Tal circunstância afasta qualquer nexo entre a dano sofrido pela parte Recorrida e eventual conduta imputada ao banco.
+Não se trata de hipótese de fortuito interno, por ser desarrazoado exigir do banco que tivesse conhecimento de que o Recorrido das operações bancárias não fosse o próprio Recorrido.
+ ..
+Ora, verifica-se claramente inexistir, no caso, qualquer defeito na prestação do serviço. Destaca-se, ainda, que as transações contestadas se deram única e exclusivamente por culpa exclusiva de terceiros. Tal circunstância afasta qualquer nexo entre a dano sofrido pela parte Recorrida e eventual conduta imputada ao banco.
+ ..
+Assim, apenas o terceiro que efetivamente causou o alegado dano pode responder pelas sanções decorrentes, excluindo qualquer responsabilidade do banco que, repita-se, não teve participação nos eventos narrados, inclusive atendendo com satisfação seu dever de informação quanto à segurança dos serviços prestados.
+ ..
+Ante o exposto, necessário reconhecer que não existe responsabilidade alguma do Banco sobre os fatos que acarretaram na alegada lesão experimentada pela parte Recorrida. O Banco, no limite da sua responsabilidade, fez o quanto podia para evitar o resultado, disponibilizando ao Recorrido todos os DISPOSITIVOS (fls. 501- 506).
+Quanto à segunda controvérsia, a parte recorrente também interpõe o recurso especial pela alínea "c" do permissivo constitucional.
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Nesse contexto, o art. 14 do Código de Defesa do Consumidor, em seu § 3º, estabelece que o fornecedor de serviços só não será responsabilizado se comprovar que o defeito não existe ou houve culpa exclusiva do consumidor ou de terceiros.
+Portanto, deveria o Réu demonstrar que o Autor não teria sido diligente ao utilizar o serviço de PIX ou mesmo que teria, por conta própria, alterado os limites diários de transferência pela via apropriada, o que não ocorreu, porquanto a própria instituição financeira reconheceu que foi fraudada por terceiro, conforme resposta à reclamação do Autor (Id. 43931217).
+Pela análise dos autos, constato que a falha na prestação do serviço está caracterizada, pois ainda que o cliente tenha realizado as transações questionadas, o Réu deixou de tomar os cuidados necessários ao permitir a transferência de alto valor - R$ 49.999,00 (quarenta e nove mil, novecentos e noventa e nove reais) -, por meio de PIX, sem certificar-se da segurança da transação.
+ ..
+De fato, o Réu não criou mecanismos capazes de impedir a operação, que apresentava forte aparência de fraude pelo seu alto valor (Id. 43931215) (fls. 472- 477).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Quanto à segunda controvérsia, não foi comprovada a divergência jurisprudencial, uma vez que não foi cumprido nenhum dos requisitos previstos nos arts. 1.029, § 1º, do CPC, e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça.
+Nesse sentido: "Não se conhece de recurso especial interposto pela divergência jurisprudencial quando esta não esteja comprovada nos moldes dos arts. 541, parágrafo único, do CPC/73 (reeditado pelo art. 1.029, § 1º, do NCPC), e 255 do RISTJ. Precedentes". (AgInt no AREsp 1.615.607/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020.)
+Confiram-se ainda os seguintes julgados: REsp 1.575.943/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 2/6/2020; AgInt no REsp 1.817.727/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020; AgInt no AREsp 1.504.740/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 8/10/2019; AgInt no AREsp 1.339.575/DF, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 2/4/2019; AgInt no REsp 1.763.014/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/12/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Proc esso Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
