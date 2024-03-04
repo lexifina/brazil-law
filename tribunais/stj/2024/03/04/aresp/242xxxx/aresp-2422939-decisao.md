@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da ausência de negativa de prestação jurisdicional e da incidência das Súmulas n. 7 e 83 do STJ (e-STJ fls. 287/290).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 216):
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. SENTENÇA QUE ACOLHEU A TESE DE INÉPCIA DAINICIAL DOS EMBARGOS MONITÓRIOS. INDEFERIMENTO DA INICIAL ANTE A NÃO APRESENTAÇÃO DE MEMÓRIA DE CÁLCULO NA FORMA EXIGIDA NO ART. 700, § 2º, I, DOCPC. RECURSO DA AUTORA/EMBARGADA. OFENSA AO PRINCÍPIO DA DIALETICIDADE RECURSAL APONTADA EM CONTRARRAZÕES. REJEIÇÃO. ARGUMENTOS E PEDIDOS DO APELO QUE SÃO CLAROS E IMPUGNAM ESPECIFICAMENTE AS RAZÕES DA SENTENÇA. MÉRITO. CASO EM QUE NÃO HOUVE INTIMAÇÃO DA AUTORA PARA EMENDAR A INICIAL E APRESENTAR OS CÁLCULOS PRÓPRIOS DA MONITÓRIA. ART. 321 DO CPC. EMENDA POSSÍVEL, INCLUSIVE APÓS A CITAÇÃO E OFERTA DE DEFESA. PRECEDENTES DO STJ. SENTENÇA CASSADA. RETORNO DOS AUTOS À ORIGEM PARA QUE A DEMANDANTE APRESENTE A MEMÓRIA DE CÁLCULO. RECURSO CONHECIDO E PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 237/239).
+Nas razões do recurso especial (e-STJ fls. 245/261), fundamentado no art. 105, III, "a", da CF, a parte alega ofensa aos arts. 700, § 2º, I, e § 4º, 1.010, I e II, 1.022, I e II, do CPC/2015.
+Aponta negativa de prestação jurisdicional, aduzindo que (e-STJ fl. 257):
+(..) a Recorrente opôs Embargos Declaratórios em face do V. Acórdão recorrido, tendo em vista que não ficaram claras as razões pelas quais a 3ª Câmara de Direito Comercial do TJSC entendeu que não teria sido oportunizada à Recorrida a chance de corrigir a irregularidade, mesmo tendo havido a expressa recusa desta em juntar aos autos a memória de cálculo atualizada obrigatória, o que se traduz em flagrante obscuridade ocorrida no V. Acórdão recorrido, nos moldes do inciso I do art. 1.022 do CPC.
+Afirma que "demonstrou a necessidade da expressa manifestação do TJSC, a fim de, nos termos do inciso II do art. 1.022 do CPC, corrigir a omissão quanto a recusa da Recorrida em sanar a irregularidade consistente na ausência de juntada de memória de cálculo, mesmo após instada" (e-STJ fl. 257).
+Assevera que "a Recorrida deixou de apresentar a memória de cálculo na exordial e mesmo tendo sido suscitada a ausência por ocasião dos Embargos Monitórios, quando da impugnação apresentada, mais uma vez deixou de trazê-lo aos autos o documento, que, diga-se de passagem, é essencial à propositura de Ação Monitória" (e-STJ fl. 250).
+Afirma que houve violação do princípio da dialeticidade, pois "a Apelação interposta pela Recorrida não enfrenta os fundamentos da r. Sentença, esbarrando em afronta ao princípio da dialeticidade, consagrado pelo dispositivo legal acima mencionado, segundo o qual, nas razões de Apelação, o Apelante deve, além de expor todos os fatos e as razões de direito, impugnar os fundamentos da decisão recorrida, expondo os motivos do pedido de reforma ou anulação da decisão" (e-STJ fl. 254).
+Ao final, requer o provimento do recurso para "manter a R. Sentença que indeferiu a petição inicial ante o não atendimento do disposto expressamente no art. 700, § 2º, I do CPC, julgando extinto o processo sem julgamento do mérito, conforme disposição do art. 485, I do CPC, em atendimento ao que determina o art. 700, § 4º do CPC" (e-STJ fl. 260).
+No agravo (e-STJ fls. 297/316), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta não apresentada (e-STJ fl. 319).
+É o relatório.
+Decido.
+De início, cumpre ressaltar que inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à tese, o Tribunal de origem assim se manifestou (e-STJ fls. 238/239):
+A ausência de cálculo, apontada preliminarmente nos embargos monitórios, poderiam, naturalmente, ter fundamentado despacho do juízo a quo para que fosse sanada irregularidade, na forma do art. 321 do CPC. O ponto, no entanto, é que essa providência  que cabe ao magistrado, não à parte  não ocorreu, e por isso, com base nos fundamentos extraídos da doutrina e da jurisprudência, a nulidade foi reconhecida.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+O Colegiado estadual consignou que "a tese de ofensa ao princípio da dialeticidade, desenvolvida em contrarrazões, não prospera. Como se denota do relatório supra, as razões recursais impugnam claramente a conclusão adotada na sentença, e há pedido (mais que um, inclusive) da sua reforma. Assim rejeita-se, brevemente, o argumento" (e-STJ fl. 217).
+O entendimento está em conformidade com a jurisprudência desta Corte, que tem se posicionado no sentido de que "o formalismo na apreciação das razões de apelação não é tão acentuado, bastando, para seu conhecimento, que seja minimamente demonstrada a pretensão de reforma da sentença, com o ataque, mesmo genérico, dos fundamentos da sentença" (AgRg no REsp n. 1.107.956/PB, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/8/2012, DJe 17/8/2012).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. APELAÇÃO. REPETIÇÃO DE ARGUMENTOS. PRINCÍPIO DA DIALETICIDADE. PREENCHIMENTO DOS REQUISITOS DE ADMISSIBILIDADE. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
+1. Consoante entendimento jurisprudencial do Superior Tribunal de Justiça, a repetição dos fundamentos da petição inicial ou da contestação não é motivo suficiente para inviabilizar o conhecimento da apelação quando há demonstração inequívoca das razões e intenção de reforma da sentença, conforme ocorre na presente hipótese. Precedentes.
+2. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo e dar provimento ao recurso especial.
+(AgInt no AREsp n. 2.255.154/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/4/2023, DJe de 27/4/2023.)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. APELAÇÃO. PRINCÍPIO DA DIALETITICIDADE. PRINCÍPIO DISPOSITIVO. INSTRUMENTALIDADE DAS FORMAS. HARMONIZAÇÃO. ARTS. 1.010 E 1.013 DO CPC/15. REPRODUÇÃO DAS ALEGAÇÕES DA INICIAL NA FUNDAMENTAÇÃO DO APELO. CONHECIMENTO. POSSIBILIDADE. CONDIÇÃO. EFETIVA DEMONSTRAÇÃO DA IRRESIGNAÇÃO E DO PROPÓSITO DE OBTER NOVO JULGAMENTO. HIPÓTESE CONCRETA. OCORRÊNCIA PARCIAL.
+(..)
+6. A jurisprudência do STJ privilegia a instrumentalidade das formas, adotando a orientação de que a mera circunstância de terem sido reiteradas, na petição da apelação, as razões anteriormente apresentadas na inicial da ação ou na contestação, não é suficiente para o não conhecimento do recurso, eis que a repetição dos argumentos não implica, por si só, ofensa ao princípio da dialeticidade.
+7. É essencial, todavia, que as razões recursais da apelação guardem alguma pertinência com a matéria decidida na sentença.
+8. Na hipótese concreta, do cotejo entre as razões da apelação e a fundamentação da sentença, infere-se, no que diz respeito ao capítulo referente ao pedido de restituição dos valores pagos a título de despesas condominiais extraordinárias, que o recorrente logrou aduzir argumentos suficientes, ainda que em tese, para impugnar os correspondentes fundamentos da decisão judicial de mérito.
+9. Quanto ao capítulo referente à imissão na posse, contudo, a apelação sequer minimamente indica a irresignação do apelante quando à fundamentação da sentença, tampouco seu propósito de obter novo julgamento a respeito da matéria.
+10. Recurso especial parcialmente provido.
+(REsp 1.665.741/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 3/12/2019, DJe 5/12/2019.)
+Incide a Súmula n. 83 do STJ.
+A respeito da emenda à inicial, a Corte de origem decidiu que (e-STJ fls. 217/218):
+Em que pese o argumento principal do apelo não se sustentar  a memória de cálculo é sim necessária uma vez que há na inicial pedido de "acréscimo de juros e correção monetária" (ev. 1, doc. 1, p. 5, item"3" - PG)  ,o indeferimento da inicial deve ocorrer somente após a demandante ser intimada para regularizar a inicial, na forma do art. 321 do CPC, o que não se verifica no caso em análise.
+(..)
+O caso, portanto, é de acolher o pedido alternativo do autor para cassar a sentença e determinar o retorno dos autos à origem, para que seja franqueado à autora apresentar memória de cálculo atualizada, na formado art. 700, § 2º, I, do CPC.
+Segundo a jurisprudência consolidada do STJ, o indeferimento da exordial, por ausência de preenchimento dos requisitos previstos nos arts. 319 e 320 do CPC/2015), não é automática, devendo ser oportunizada à parte a emenda da exordial no prazo legal, com a indicação clara dos termos em que deveria dar-se a referida emenda, conforme exige a parte final do art. 321 do CPC/2015. A propósito, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE DOCUMENTO INDISPENSÁVEL PARA A PROPOSITURA DA DEMANDA. AUSÊNCIA, NO ENTANTO, DE PRÉVIA INTIMAÇÃO PARA A EMENDA DA INICIAL E CORREÇÃO DO VÍCIO ANTERIORMENTE À EXTINÇÃO DO FEITO. SÚMULA N. 83 DO STJ . MAJORAÇÃO DOS HONORÁRIOS PELO DESPROVIMENTO DO AGRAVO INTERNO. MESMO GRAU DE JURISIDIÇÃO. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando a corte de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. Não é possível a extinção da ação, por inépcia da inicial, sem que o autor seja intimado para suprir a falha.
+3. A interposição de agravo interno não inaugura instância, razão pela qual é indevida a majoração de honorários advocatícios prevista no art. 85, § 11, do CPC.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.121.287/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. 1. EMENDA À PETIÇÃO INICIAL APÓS A CONTESTAÇÃO. POSSIBILIDADE. AUSÊNCIA DE MODIFICAÇÃO DO PEDIDO OU DA CAUSA DE PEDIR. CONTRADITÓRIO E AMPLA DEFESA OBSERVADOS. SÚMULA 83/STJ. 2. LEGITIMIDADE ATIVA. REEXAME DE PROVAS E ANÁLISE DE CLÁUSULAS CONTRATUAIS. SÚMULAS N. 5 E 7 DO STJ. 3. JUROS DE MORA E CORREÇÃO MONETÁRIA. MORA EX RE. TERMO INICIAL. DATA DO VENCIMENTO. 4. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte entende ser possível a emenda à inicial após a contestação quando não ensejar a modificação do pedido ou da causa de pedir, desde que observados os princípios do contraditório e da ampla defesa. Acórdão recorrido em harmonia com a jurisprudência desta Corte Superior. Incidência da Súmula 83/STJ.
+(.. )
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.261.493/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 5/6/2018, DJe de 15/6/2018.)
+Da mesma forma, aplica-se a Súmula n. 83 desta Corte.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
