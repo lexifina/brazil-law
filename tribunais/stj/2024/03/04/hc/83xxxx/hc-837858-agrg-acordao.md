@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Teodoro Silva Santos e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ART. 121, § 2º, INCISOS II, III E IV, DO CÓDIGO PENAL. REQUISITOS DO DESAFORAMENTO. AUSÊNCIA DE DEMONSTRAÇÃO DE RISCO AO JULGAMENTO.
+1. O desaforamento é medida excepcional, cabível apenas quando comprovada por fatos objetivos e concretos a parcialidade do Conselho de Sentença, o que não ocorreu no caso, conforme salientado pelo Colegiado estadual, que não vislumbrou o comprometimento do resultado do veredicto, mesmo tendo a magistrada de primeiro grau manifestado em favor da modificação.
+2. Assim, inviável a alteração do foro, diante da carência de demonstração concreta dos requisitos elencados no art. 427 do Código de Processo Penal, quais sejam: interesse da ordem pública, dúvida sobre a imparcialidade do júri ou dúvida acerca da segurança pessoal do acusado.
+3. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por WALACE MARTINS CRUZ contra decisão que denegou a ordem de habeas corpus (e-STJ fls. 264/267).
+Colhe-se dos autos que o agravante foi pronunciado para ser submetido a julgamento perante o Tribunal do Júri pela suposta prática dos delitos previstos nos arts. 306 do Código de Trânsito Brasileiro e 121, § 2º, II, III e IV, do Código Penal, por oito vezes, sendo uma na forma consumada e sete na modalidade tentada.
+Sustentando a grande repercussão dos fatos e o risco de parcialidade dos jurados da comarca de Passos/MG, a defesa requereu o desaforamento do julgamento pelo Tribunal do Júri, com fundamento no art. 427 do Código de Processo Penal.
+O Tribunal de origem, por maioria, indeferiu o pedido de desaforamento, em acórdão assim ementado (e-STJ fls. 113):
+PEDIDO DE DESAFORAMENTO PELA DEFESA DO RÉU - DÚVIDA SOBRE A IMPARCIALIDADE DO JÚRI - PRESSUPOSTOS LEGAIS NÃO DEMONSTRADOS - PEDIDO INDEFERIDO.
+- Não havendo elementos concretos no sentido de que a realização do julgamento do réu na Comarca onde os supostos crimes ocorreram comprometa a ordem pública, causando intranquilidade social, nem dúvida sobre a imparcialidade dos jurados, não há justificativa para se deferir o pedido de desaforamento.
+v.v EMENTA: DESAFORAMENTO-MEDIDA EXCEPCIONAL - INTERESSE DA ORDEM PÚBLICA - CRIME COM GRANDE REPERCUSSÃO E CLAMOR PÚBLICO - COMPROVAÇÃO DE RISCO - PROVA CONCRETA -DEFERIMENTO DO PEDIDO - 1. Nos termos do artigo 427 do Código de Processo Penal "Se o interesse da ordem pública o reclamar ou houver dúvida sobre a imparcialidade do júri ou a segurança pessoal do acusado, o Tribunal, a requerimento do Ministério Público, do assistente, do querelante ou do acusado ou mediante representação do juiz competente, poderá determinar o desaforamento do julgamento para outra comarca da mesma região, onde não existam aqueles motivos, preferindo-se as mais próximas". O desaforamento é medida de exceção ao princípio geral da competência em razão do lugar, motivo pelo qual o seu deferimento está condicionado à pré-existência de uma ou mais das hipóteses previstas no atual art. 427 do Código de Processo Penal após as modificações efetuadas pela novel Lei 11.689, de 9 de junho de 2008. É mister reconhecer-se procedente o pedido de desaforamento criminal quando recai sobre o júri dúvida fundada acerca da sua imparcialidade. 2. Evidenciado através de elementos concretos a necessidade de Desaforamento, de forma a garantir o interesse da ordem pública e a isenção e imparcialidade necessárias, deve ser acolhido o pedido. 3. Deferido o pedido de Desaforamento.
+Perante o Superior Tribunal de Justiça, a defesa buscou a reforma do acórdão impugnado para que fosse deferido o pedido de desaforamento do julgamento perante o Tribunal do Júri, pois haveria risco de parcialidade dos jurados da Comarca de Passos, ante a repercussão social dos fatos.
+Em decisão monocrática, deneguei a ordem (e-STJ fls. 264/267).
+Neste agravo regimental, a defesa repisa os argumentos já lançados na petição inicial do habeas corpus, reforçando que "a casa de WALACE teria sido incendiada. Desaforamento Julgamento Nº 1.0000.23.067305-5/000 Fl. 10/12 Dessa forma, a meu ver, afigura-se pertinente o pleito de desaforamento do julgamento, destinando-o à Comarca de Pouso Alegre/MG, para garantir um julgamento isento perante o Tribunal do Júri, possuidora de maior infraestrutura para garantir a integridade física do réu e um julgamento isento, sem dúvidas sobre a imparcialidade do júri. Importante ainda anotar que, ao ser deslocado o julgamento da comarca originária para uma outra comarca, não estaremos por falar em violação ao princípio do juiz natural "a uma, por configurar hipótese excepcional de deslocamento da competência, determinada pelo interesse público e da Justiça, sem prejuízo para o julgamento justo. A duas, por apenas fazer variar o local do julgamento em plenário, não ensejando a criação de um tribunal de exceção" (e-STJ fls. 284/285).
+Assim, pugna pela reconsideração da decisão objurgada ou pela apreciação da matéria pelo colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ART. 121, § 2º, INCISOS II, III E IV, DO CÓDIGO PENAL. REQUISITOS DO DESAFORAMENTO. AUSÊNCIA DE DEMONSTRAÇÃO DE RISCO AO JULGAMENTO.
+1. O desaforamento é medida excepcional, cabível apenas quando comprovada por fatos objetivos e concretos a parcialidade do Conselho de Sentença, o que não ocorreu no caso, conforme salientado pelo Colegiado estadual, que não vislumbrou o comprometimento do resultado do veredicto, mesmo tendo a magistrada de primeiro grau manifestado em favor da modificação.
+2. Assim, inviável a alteração do foro, diante da carência de demonstração concreta dos requisitos elencados no art. 427 do Código de Processo Penal, quais sejam: interesse da ordem pública, dúvida sobre a imparcialidade do júri ou dúvida acerca da segurança pessoal do acusado.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O presente recurso não pode prosperar, ante a ausência de razões aptas a abalar os fundamentos da decisão recorrida.
+Consoante consta da decisão monocrática, buscou a defesa o desaforamento do julgamento perante o Tribunal do Júri, alegando o risco para a segurança do recorrente e a possibilidade de violação da parcialidade dos jurados.
+Sobre a competência para julgamento dos feitos criminais, as regras processuais determinam que o réu seja julgado no distrito da culpa, e, nos casos de crimes dolosos contra a vida, o julgamento se dará pelos representantes do povo, conforme mandamento constitucional constante do art. 5º, inciso XXXVIII, da Constituição Federal.
+Nesse sentido, é o vaticínio doutrinário:
+Com a Constituição do Brasil de 1988, o tribunal do júri foi confirmado como direito e garantia fundamental. Garantia de sujeição ao tribunal popular nos crimes de sua competência, para atendimento ao devido processo legal. É direito, conferido de forma ampla, de participar da atividade do Judiciário, na condição de jurado. (ALENCAR, Rosmar Rodriguez. TÁVORA, Nestor. Curso de Direito Processual Penal. Salvador: Jus Podivm, 2015, p. 826.)
+No entanto, quando o interesse da ordem pública reclamar ou houver dúvida quanto à segurança pessoal do acusado ou a respeito da imparcialidade do júri, é possível a modificação da regra de competência territorial para que o réu seja julgado em comarca diversa, preferindo-se as mais próximas, conforme previsto no art. 427 do CPP.
+Com efeito, deve-se ter em mente que o desaforamento é medida excepcional de deslocamento de competência, e só deve ser deferido com a efetiva comprovação de ocorrência de uma das hipóteses legais de cabimento dispostas nos arts. 427 e 428 do CPP.
+Conforme destacado na decisão monocrática, o Tribunal de origem consignou (e-STJ fls. 115/116):
+Os argumentos trazidos pelo nobre advogado, em sustentação oral, não se mostraram devidamente comprovados nos autos, restando tão somente a alegação feita pelo causídico.
+Quanto às manifestações de populares em redes sociais, colacionada aos autos, verifica-se que estas são de solidariedade aos familiares da vítima falecida, e não no sentido de uma possível repulsa em desfavor de WALACE.
+Além disso, os "prints" de postagens em redes sociais, juntados pela defesa, por si sós, não fazem prova bastante das afirmações ali contidas. Ameaças se exteriorizam por gestos, palavras, proferidas pessoalmente, ou por meio de algum meio de comunicação, sendo curial que a defesa traga outros elementos verossímeis da alegada ameaça.
+ ..
+Portanto, em não dúvida quanto ao risco de parcialidade dos jurados, o indeferimento do pedido de desaforamento é medida que se impõe.
+Vê-se, portanto, que o pleito de desaforamento foi aviado com base em meras conjecturas, e não em razões concretas e objetivas de que eventual julgamento do recorrente pelo Tribunal do Júri no distrito da culpa estaria comprometido.
+Conforme fundamentado pelo Tribunal de origem, não há dúvida nenhuma acerca da parcialidade dos componentes do C onselho de sentença que possa pôr em xeque a isenção ou a lisura do julgamento popular.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NOVOS ARGUMENTOS PARA DESCONSTITUIR O DECISUM UNIPESSOAL. AUSÊNCIA. HOMICÍDIO QUALIFICADO. DESAFORAMENTO. DÚVIDA QUANTO À PARCIALIDADE DOS JURADOS. FALTA DE COMPROVAÇÃO. JURISPRUDÊNCIA CONSOLIDADA. REVOLVIMENTO FÁTICO-PROBATÓRIO. VIA INIDÔNEA. AGRAVO NÃO PROVIDO.
+1. É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos ou documentos inéditos capazes de infirmar a decisão agravada, sob pena de manutenção do decisum pelos próprios fundamentos.
+2. Nos termos do art. 427 do Código de Processo Penal, se o interesse da ordem pública o reclamar ou se houver dúvida sobre a imparcialidade do Tribunal do Júri ou sobre a segurança pessoal do réu, o órgão colegiado de segundo grau poderá determinar a modificação da comarca para o julgamento, onde não subsistam tais motivos.
+3. A eventual repercussão do crime na localidade, a costumeira movimentação dos parentes das vítimas e a divulgação dos fatos pela mídia são atitudes corriqueiras em hipóteses de delitos de maior gravidade, de modo que não justificam, per se, o desaforamento da sessão em Plenário.
+4. A natureza urgente do habeas corpus exige prova pré-constituída das alegações e não comporta dilação probatória. A ausência de instrução dos autos com elementos documentais capazes, concreta e especificamente, de demonstrar o efetivo perigo de imparcialidade do Conselho de Sentença ou o risco à integridade da acusada impede a concessão da ordem pugnada pelos impetrantes.
+5. Para rever a conclusão taxativa das instâncias ordinárias de inexistência dos requisitos para o desaforamento pretendido, seria necessário o exame aprofundado do contexto fático-probatório, providência que não se coaduna com a via eleita. Precedentes.
+6. Agravo não provido.
+(AgRg no HC n. 627.631/PB, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 3/8/2021, DJe de 12/8/2021.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
