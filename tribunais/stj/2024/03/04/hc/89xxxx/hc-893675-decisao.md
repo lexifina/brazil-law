@@ -1,0 +1,14 @@
+DECISÃO
+O presente writ, impetrado em benefício de João Vitor do Carmo Ferreira - preso preventivamente pela prática, em tese, do crime de roubo majorado, previsto no art. 157, § 2º, II, por duas vezes, na forma dos arts. 29, caput, e 70, todos do Código Penal, nos autos da Ação Penal n. 1504309-92.2023.8.26.0548, em trâmite na 3ª Vara Criminal da comarca de Campinas/SP -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Habeas Corpus n. 2001027-47.2024.8.26.0000), não comporta processamento.
+Aqui, alega-se, em suma, constrangimento ilegal com o argumento de ausência dos requisitos autorizadores da custódia cautelar previstos no art. 312 do Código de Processo Penal; inidoneidade da fundamentação do decreto prisional para justificar a medida constritiva extrema; e desnecessidade da referida segregação, ante as condições pessoais de favorabilidade.
+Requer-se, em liminar e no mérito, a revogação da prisão preventiva ou a aplicação de medidas cautelares diversas da prisão.
+É o relatório.
+No caso, observa-se que a segregação cautelar se encontra justificada, haja vista a necessidade de garantir a ordem pública, vulnerada pela gravidade concreta do crime - roubo qualificado pelo concurso de agentes e emprego de arma de fogo com numeração suprimida contra uma família, com invasão de domicílio no qual se encontravam cinco c rianças que a tudo presenciaram (fl. 22 - grifo nosso) -, a denotar a periculosidade do imputado.
+Nos termos da jurisprudência do Superior Tribunal de Justiça, o decreto de prisão preventiva deve demonstrar a materialidade do crime e dos indícios de autoria de conduta criminosa, além de indicar, fundamentadamente, nos termos dos arts. 93, IX, da Constituição Federal, e 315, § 2º, do Código de Processo Penal, fatos concretos e contemporâneos que demonstrem o perigo que a liberdade do investigado ou réu representa para a ordem pública, para a ordem econômica, para a conveniência da instrução criminal ou para a garantia da aplicação da lei penal, conforme o art. 312 do Código de Processo Penal (HC n. 592.107/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/9/2020).
+Da mesma forma, concretamente demonstrada pelas instâncias ordinárias a necessidade da custódia, não se afigura suficiente a fixação de medidas cautelares alternativas.
+Por fim, ressalto que, nos termos da jurisprudência desta Corte, eventuais condições pessoais favoráveis não possuem o condão de, isoladamente, conduzir à revogação da prisão preventiva.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
