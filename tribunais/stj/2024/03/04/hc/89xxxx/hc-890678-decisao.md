@@ -1,0 +1,12 @@
+DECISÃO
+PAULO ROBERTO DOS SANTOS alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça a quo.
+A defesa pretende o restabelecimento do indulto relativamente às condenações dos Processos n. 001/2.16.0016348-1 (falsa identidade) e 5000500-13.2018.8.21.3001 (porte irregular de arma de fogo), porquanto somente incide a previsão impeditiva do Decreto Presidencial n. 11.302/2022 quando reconhecido, na mesma sentença, o concurso de crimes.
+Decido.
+O apenado cumpre 26 anos e 5 meses de reclusão, por tráfico de drogas, falsa identidade, porte irregular de arma de fogo e roubo majorado (quatro oportunidades). O Tribunal de Justiça cassou o indulto deferido pelo Juiz da VEC, com fundamento no art. 11, parágrafo único, do Decreto Presidencial n. 11.302/2022, porque as penas referentes aos crimes impeditivos "seguem ativas" (fl. 85).
+Nos termos do dispositivo de regência, " n ão será concedido indulto natalino correspondente a crime não impeditivo enquanto a pessoa condenada não cumprir a pena pelo crime impeditivo do benefício, na hipótese de haver concurso com os crimes a que se refere o art. 7º, ressalvada a concessão fundamentada no inciso III do caput do art. 1º".
+Anteriormente, neste âmbito superior, prevalecia a compreensão, majoritária, de que a leitura de tal dispositivo, conjugada com a do art. 7º, II, do mesmo decreto, exigiria o integral cumprimento das penas dos crimes impeditivos para que se permitisse o indulto das reprimendas relativas aos demais.
+Todavia, a Terceira Seção desta Corte Superior fixou outra interpretação. Prevaleceu o entendimento de que: "Para fins do referido decreto, apenas no caso de crime impeditivo cometido em concurso com crime não impeditivo que se exige o cumprimento integral da reprimenda dos delitos da primeira espécie. Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não há de se exigir o cumprimento integral da pena pelos crimes impeditivos" (AgRg no HC n. 856.053/SC, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 8/11/2023, DJe de 14/11/2023).
+O precedente, e suas razões de decidir, devem ser observados para garantia da isonomia dos jurisdicionados.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem, in limine, a fim de restabelecer a decisão do Juiz da VEC.
+Publique-se e intimem-se.
+EMENTA
