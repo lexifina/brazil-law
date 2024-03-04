@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da inexistência de violação dos arts. 489 e 1.022 do CPC/2015, da ausência de demonstração de ofensa ao art. 373, II, do CPC/2015 e da incidência da Súmula n. 7 do STJ (e-STJ fls. 617/619).
+O acórdão recorrido en contra-se assim ementado (e-STJ fl. 577):
+EMENTA - RESPONSABILIDADE CIVIL INDENIZAÇÃO - DANOS MATERIAIS E MORAIS - Autor que busca na tutela jurisdicional invocada, a condenação do réu ao pagamento de indenização, fundada em suposta agressão ocorridas no dia 30 de abril de 2019, nas dependências do prédio comercial situado à Rua Frei Gaspar nº 637, bairro do Centro, município de São Vicente - Improcedência da ação corretamente decretada - Prova produzida que não dão respaldo à tese inicial, motivo pelo qual não se pode concluir por ato culposo, atribuído ao réu - Nada foi acostado aos autos que pudesse fornecer ao juízo alguma confirmação da versão alegada na inicial - Desatendimento da regra expressa no artigo 373, I, do CPC - Ausente a culpa, não se há cogitar em indenização por danos morais - Sentença mantida - Honorários sucumbenciais devidos que devem ser majorados conforme previsão contida no Artigo 85 do Código de Processo Civil, levando-se em conta os parâmetros estabelecidos pela legislação processual e, considerada a natureza e complexidade da demanda, e o trabalho adicional realizado em grau recursal - Recurso improvido
+Os embargos de declaração foram rejeitados (e-STJ fls. 604/608).
+Nas razões do recurso especial (e-STJ fls. 591/600), fundamentado no art. 105, III, "a", da CF, a parte alegou violação dos seguintes dispositivos legais:
+(i) arts. 489, § 1º, VI, e 1.022, II, do CPC/2015, apontando omissão no acórdão recorrido quanto às seguintes questões: "(i) se há controvérsia quanto às lesões, sofridas pelo apelante, narradas na exordial; (ii) se há controvérsia acerca da autoria, pelo apelado, destas lesões; (iii) se a controvérsia processual recai unicamente sobre a legítima defesa arguida pelo apelado; e (iv) nos termos do artigo 373, II, do CPC, a quem cabe a prova da alegada legítima defesa" (e-STJ fl. 596), e
+(ii) art. 373, II, do CPC/2015, defendendo que "o ônus da prova da existência de fato impeditivo ao direito do autor-apelante  qual seja, a hipótese de legítima defesa  , incumbia ao ora Recorrido" (e-STJ fl. 598).
+No agravo (e-STJ fls. 622/627), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta não apresentada (e-STJ fl. 629).
+É o relatório.
+Decido.
+Inexiste afronta aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões relevantes para o deslinde da controvérsia, ainda que adotando solução jurídica diversa da pretendida pelo litigante.
+No caso, o Tribunal de origem, com respaldo no acervo fático-probatório, concluiu expressamente no sentido de que "a prova produzida não foi apta a comprovar o alegado pelo recorrente na comprovação do fato constitutivo do seu direito" (e-STJ fl. 580).
+Acrescentou ser "forçoso constatar a ausência de prova do nexo de causalidade entre a conduta dos réus com os fatos narrados na inicial, requisito indispensável para configuração da responsabilidade civil, ainda que objetiva" (e-STJ fl. 580).
+O julgador não está obrigado a se manifestar sobre todos os argumentos e dispositivos legais invocados pelas partes, bastando que os fundamentos utilizados sejam suficientes para embasar a decisão.
+Desse modo, não assiste razão à parte agravante, visto que o Tribunal a quo decidiu fundamentadamente a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em nenhum dos vícios previstos nos arts. 489, § 1º, e 1.022 do CPC/2015.
+Impende assinalar que o afastamento da conclusão do acórdão recorrido, quanto à ausência de comprovação do fato constitutivo do direito da parte ora agravante, demandaria incursão no campo fático-probatório, providência vedada na via especial, conforme a Súmula n. 7 do STJ.
+Ademais, no recurso especial, apontando contrariedade ao art. 373, II, do CPC/2015, a parte sustenta, em síntese, somente que "o ônus da prova da existência de fato impeditivo ao direito do autor-apelante  qual seja, a hipótese de legítima defesa  , incumbia ao ora Recorrido" (e-STJ fl. 598).
+Ausente, nas razões do recurso especial, impugnação específica de fundamento apto a manter a conclusão do acórdão recorrido  qual seja, o da ausência de comprovação do fato constitutivo do direito autoral  e dissociado dos fundamentos do referido julgado o teor do apelo nobre, está caracterizada a deficiência na fundamentação recursal, conforme Súmulas n. 283 e 284 do STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade da justiça na instância de origem, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
