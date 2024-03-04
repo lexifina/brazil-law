@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Jhony Donizete da Silva e outros contra decisão de inadmissibilidade do recurso especial proferida pela Corte de origem.
+É o relatório. Decido.
+Nos termos do que dispõem os artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016), compete ao agravante impugnar especificamente os fundamentos da decisão que obstou o recurso especial na origem.
+Assim, além da manifestação do inconformismo, inerente ao ato de irresignação, impõe-se ao recorrente o ônus de contrapor-se, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade.
+Com efeito, encontra-se consolidado nesta Corte o entendimento de que incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que não admitiu o processamento do recurso especial. A propósito, confira o seguinte julgado: EAREsp 701.404/SC, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018.
+No caso dos autos, a decisão de inadmissibilidade do recurso especial contém o seguinte fundamento: incidência da Súmula n. 83/STJ, uma vez que o acórdão está em consonância com a jurisprudência do Superior Tribunal de Justiça, conforme os seguintes julgados: AgInt no REsp 1.391.986/MS, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 17/08/2017; AgRg no REsp 1.434.797/PR, Rel. Ministro Humberto Martins, Segunda Turma, DJe 07/06/2016; AgInt no AgInt no AREsp 850.994/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 19/12/2016; e AgInt no AREsp 1211974/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 23/04/2018.
+No entanto, nas razões do agravo, o fundamento utilizado na decisão de inadmissibilidade do recurso especial não foi devidamente impugnado, o que impede o conhecimento do agravo por inobservância ao princípio da dialeticidade.
+Nesse sentido: AgInt no AREsp 1.276.237/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 19/12/2018; AgInt no AREsp 718.118/MT, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 18/12/2018; AgInt no AREsp 1.345.064/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 13/12/2018.
+Ante o exposto, não conheço do agravo em recurso especial, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. NÃO IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. EXIGÊNCIA DOS ARTIGOS 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RI/STJ (REDAÇÃO DADA PELA EMENDA REGIMENTAL N. 22, 2016). AGRAVO NÃO CONHECIDO.
