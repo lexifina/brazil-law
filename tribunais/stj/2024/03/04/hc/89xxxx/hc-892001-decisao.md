@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Jefferson Diego Martins Venceslau, em que se aponta como autoridade coatora a Décima Quinta Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, que denegou o Habeas Corpus n. 2305681-38.2023.8.26.0000 lá impetrado, mantendo a prisão preventiva do paciente pela suposta prática dos crimes de tráfico de drogas e associação para o tráfico.
+Neste writ, sustenta-se ausência de fundamentação concreta a justificar a medida constritiva.
+Pede-se a concessão liminar da ordem, determinando-se a revogação da prisão preventiva ou sua substituição por medidas cautelares diversas da prisão para que o paciente possa responder em liberdade, determinando-se a expedição do competente alvará de soltura (fl. 14).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração, de plano, da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+Infere-se do decreto prisional que o Magistrado de piso, fazendo referência às investigações policiais, justificou a necessidade da prisão preventiva do paciente para a garantia da ordem pública, evidenciada no seu envolvimento no tráfico de drogas e associação para o tráfico na região (fls. 31/32).
+O Tribunal de Justiça, ratificando os fundamentos do Magistrado de piso, asseverou (fls. 34/35 - grifo nosso):
+ ..
+No mérito, existem indícios bastantes de autoria e materialidade e, assim, satisfeitos os requisitos da custódia, nos termos do art. 312, caput, do Cód. Proc. Penal.
+O periculum libertatis se faz presente, consubstanciado na garantia da ordem pública, visto que tal condição tem como escopo resguardar a sociedade da reiteração de ações delituosas, caso seu autor permaneça em liberdade.
+Com efeito, embora o delito tenha sido cometido sem violência e grave ameaça à pessoa e a porção de entorpecentes apreendidos não tenha sido significativa, pesa que o Paciente possui condenação anterior pelo crime de tráfico de drogas (fl. 78), bem como, na ocasião do flagrante, ao perceber presença policial "saiu correndo e passou a gritar" (fl. 21).
+Ademais, no aparelho telefônico do Paciente foram localizadas mensagens "inerentes ao tráfico de drogas e também sobre o comércio de armas de fogo, ficando nítido que ele vendia drogas em sua casa como também fazia em domicílio, conforme as investigações anteriores havia revelado" (fl. 21) e que o crime foi cometido, em tese, em concurso de agentes.
+Nos termos da jurisprudência do Superior Tribunal de Justiça, o decreto de prisão preventiva deve demonstrar a materialidade do crime e dos indícios de autoria de conduta criminosa, além de indicar, fundamentadamente, nos termos dos arts. 93, IX, da Constituição Federal, e 315, § 2º, do Código de Processo Penal, fatos concretos e contemporâneos que demonstrem o perigo que a liberdade do investigado ou réu representa para a ordem pública, para a ordem econômica, para a conveniência da instrução criminal ou para a garantia da aplicação da lei penal, conforme o art. 312 do Código de Processo Penal (HC n. 592.107/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/9/2020).
+E, de fato, para esta Corte Superior, a quantidade, a variedade e a natureza da droga apreendida, bem como o risco de reiteração delitiva podem servir para o Magistrado reconhecer a gravidade concreta da ação e a dedicação do agente a atividades criminosas, elementos capazes de justificar a necessidade da custódia preventiva para a garantia da ordem pública (HC n. 466.654/PR, Ministra Laurita Vaz, Sexta Turma, DJe 13/11/2018).
+Contudo, in casu, verifico ser desproporcional a imposição de prisão preventiva, considerando que a quantidade de droga apreendida não se mostra relevante - 8,9 g de maconha e 4,7 g de cocaína (fl. 17).
+O art. 312 do Código de Processo Penal deve ser lido à luz do princípio da proporcionalidade, de indubitável sede constitucional, que determina a necessidade, a adequação e a proporcionalidade nas restrições aos direitos fundamentais.
+Ante o exposto, concedo liminarmente a ordem para substituir a prisão preventiva por medidas cautelares a serem implementadas e especificadas pelo Juízo de origem, sem prejuízo da decretação da prisão preventiva em caso de descumprimento de quaisquer das obrigações impostas por força das cautelares ou de superveniência de motivos concretos para tanto.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. REITERAÇÃO DELITIVA. APREENSÃO DE 8,9 G DE MACONHA E 4,7 G DE COCAÍNA. SUBSTITUIÇÃO POR CAUTELARES. PROPORCIONALIDADE E LEGALIDADE.
+Ordem concedida liminarmente nos termos do dispositivo.
