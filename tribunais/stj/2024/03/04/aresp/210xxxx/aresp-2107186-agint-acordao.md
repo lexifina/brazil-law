@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Mauro Campbell Marques votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO CÍVEL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS QUE EMBASAM O ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 284/STF.
+1. A apresentação de razões recursais dissociadas da fundamentação adotada pelo acórdão recorrido configura argumentação recursal deficiente, a não permitir a exata compreensão da controvérsia e inviabilizando o conhecimento do Recurso Especial. Incidência da Súmula 284/STF.
+2. Não apresentação pela parte agravante de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+3. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em análise, Agravo interno interposto pelo ESTADO DE RORAIMA, contra decisão de fls. 605/607e, que conheceu do agravo para não conhecer do Recurso Especial interposto contra o seguinte acórdão do Tribunal de Justiça do Estado de Roraima:
+APELAÇÃO CÍVEL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. PRELIMINAR DE NULIDADE EX OFFICIO. AUSÊNCIA DE FUNDAMENTAÇÃO. INOBSERVÂNCIA DO PRECEITO CONSTITUCIONAL INSCULPIDO NO ART. 93, IX. IMPOSSIBILIDADE DE JULGAMENTO IMEDIATO DO PROCESSO. SENTENÇA QUE NÃO PERMITE ENTENDER OS FUNDAMENTOS QUE LEVARAM O JUÍZO A JULGAR IMPROCEDENTE O PEDIDO. SENTENÇA ANULADA. RECURSOS PREJUDICADOS.
+Em suas razões de Agravo interno, a parte recorrente repisou os fundamentos e pugnou pelo conhecimento, bem como pelo deferimento do Recurso Especial.
+Não houve apresentação de contrarrazões.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO CÍVEL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS QUE EMBASAM O ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 284/STF.
+1. A apresentação de razões recursais dissociadas da fundamentação adotada pelo acórdão recorrido configura argumentação recursal deficiente, a não permitir a exata compreensão da controvérsia e inviabilizando o conhecimento do Recurso Especial. Incidência da Súmula 284/STF.
+2. Não apresentação pela parte agravante de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+3. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): O Agravo interno não merece prosperar.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido pela parte agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Com efeito, a parte recorrente reitera, nas razões do seu Agravo interno, a alegação de violação ao artigo 1.013, § 3º, inciso IV do CPC, ao aduzir que: "pela simples leitura das decisões é possível verificar que a sentença foi devidamente fundamentada, assim sendo, o acórdão não aplicou de forma correta o dispositivo do CPC, resultando assim na anulação da sentença" (e-STJ, fl. 614).
+Entretanto, a decisão recorrida conheceu do agravo para não conhecer do Recurso Especial, em razão da aplicação da Súmula 284/STF à pretensão recursal. Eis que, as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos; o que atrai a aplicação, por conseguinte, do referido Enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nos termos da jurisprudência desta Corte, não se conhece de recurso quando as razões recursais não se coadunam com a matéria decidida na decisão recorrida.
+Nesse sentido, as ementas dos seguintes julgados:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. CONFIGURAÇÃO.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Verifica-se omissão na análise do art. 524, II, III e IV, do CPC/2015. Todavia, a apresentação de razões recursais dissociadas da fundamentação adotada pelo acórdão recorrido configura argumentação recursal deficiente, a não permitir a exata compreensão da controvérsia e inviabilizando o conhecimento do recurso especial. Incidência da Súmula 284 do STF.
+4. Quanto às demais questões, não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+5. Embargos de declaração parcialmente acolhidos, sem efeitos modificativos
+(EDcl no AgInt nos EDcl no AREsp 2.238.268/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 16/10/2023, DJe de 18/10/2023).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ANULATÓRIA. OMISSÃO. INEXISTÊNCIA. INFRAÇÃO À LEGISLAÇÃO CONSUMERISTA. COMPETÊNCIA DO ÓRGÃO DE DEFESA DO CONSUMIDOR. ATUAÇÃO DA AGÊNCIA REGULADORA. COMPATIBILIDADE. ACÓRDÃO DO TRIBUNAL EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. MULTA. MÉRITO ADMINISTRATIVO. NÃO APRECIAÇÃO DAS PROVAS PELO PODER JUDICIÁRIO. RAZÕES DISSOCIADAS. INCIDÊNCIA DAS SÚMULAS 284 E 283/STF. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. CRITÉRIOS DO ART. 57 DO CDC. REDUÇÃO DO VALOR DA PENALIDADE. RAZOABILIDADE E PROPORCIONALIDADE. NECESSIDADE DE REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O acórdão recorrido abordou de forma fundamentada todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há falar na suscitada ocorrência de violação do art. 1022 do CPC/2015.
+2. A parte não trouxe argumentação voltada a impugnar objetivamente o fundamento central concernente referente ao critério para definir juros de mora. Incidência das Súmulas 284 e 283 do STF.
+3. Inadmissível o recurso especial cujo debate envolva dilação probatória fundamentada no contexto fático dos autos. Neste quadro, é inviável analisar a tese defendida no Recurso Especial, a qual busca afastar as premissas fáticas estabelecidas pelo acórdão recorrido a respeito da fixação e dimensionamento da multa, inclusive quanto à alegação referente a circunstância atenuante, em razão da incidência do enunciado da Súmula 7 do STJ.
+4. O entendimento adotado pela Corte local coincide com a jurisprudência do STJ quanto à possibilidade de autuação da companhia aérea pelo Procon, sem que importe em usurpação de competência da ANAC.
+5. Agravo interno não provido
+(AgInt nos EDcl no REsp 2.008.000/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 18/09/2023, DJe de 21/09/2023).
+No caso em análise, o Tribunal de origem, ao negar provimento à apelação do Município, afirmou que:
+In casu, após as devidas considerações, entendo que o feito não comporta julgamento imediato, devendo retornar ao Juízo de origem, pois a deficiência na fundamentação da sentença objurgada impossibilitou a compreensão de como o Juízo de primeiro grau concluiu pela improcedência da ação, sob o fundamento de que a parte autora não se desincumbiu do ônus de provar seu direito de receber o pagamento nos moldes suscitados na inicial, na medida em que há uma patente controvérsia fática e documental, e que, por se tratar de interesse público, reclama maior atenção e melhor instrução probatória, quanto à matéria discutida, qual seja, a execução do contrato administrativo e a efetiva contraprestação pelo Estado.
+(..)
+diz a nova lei que a falta de fundamentação deverá ser suprida pelo Tribunal. A norma só se aplica se o Tribunal for decidir no mesmo sentido. O Tribunal não pode, é claro, alterar o sentido da decisão sem fundamentação, porque não terá condições nem mesmo de entender o que foi decidido, muito menos de qualificar de errada a decisão e corrigi-la. Esse dispositivo se aplica tão e somente aos casos em que, na apelação, a parte só impugna a sentença por falta de fundamentação - fls. 552-553. (Grifo meu.)
+Contudo, a parte recorrente, em suas razões recursais, insiste apenas, na negativa de vigência ao teor expresso do inciso 1.013, § 2º do CPC, sem atacar os fundamentos utilizados pelo acórdão recorrido para o desprovimento da sua apelação.
+Logo, as razões do Recurso Especial estão dissociadas da fundamentação do acórdão hostilizado, incidindo, portanto, as Súmulas 283 e 284/STF.
+No mais, e lidir a conclusão do aresto recorrido, no sentido de que: "a deficiência na fundamentação da sentença objurgada impossibilitou a compreensão de como o Juízo de primeiro grau concluiu pela improcedência da ação, sob o fundamento de que a parte autora não se desincumbiu do ônus de provar seu direito de receber o pagamento nos moldes suscitados na inicial, na medida em que há uma patente controvérsia fática e documental, e que, por se tratar de interesse público, reclama maior atenção e melhor instrução probatória, quanto à matéria discutida" (e-STJ, fl. 552); demandaria o reexame do acervo fático-probatório juntado aos autos - providência vedada pelo STJ, diante do Enunciado da Súmula 7/STJ.
+Isso posto , nego provimento ao Agravo interno.
+É o voto.
