@@ -1,0 +1,65 @@
+DECISÃO
+Cuida-se de agravo apresentado por COMPANHIA ENERGETICA JAGUARA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO. Ação de reintegração de posse. Afirmação da recorrente que houve esbulho e pedido de reintegração de posse, bem como o desfazimento das construções existentes no local. Inadmissibilidade. Laudo pericial conclusivo que as benfeitorias em questão, executadas e instaladas pelo réu em área desapropriada pela CEMIG não apresentam indícios que interferem nas atividades da autora, de forma a causar-lhe prejuízos ou restrições. Perito judicial que ostenta os atributos de imparcialidade, de isenção, de equidistância com relação à autora e aos réus, não os favorecendo nem os prejudicando, e de
+objetividade, ao contrário do que ocorre com os assistentes técnicos das partes, que são por elas indicados, justamente para a defesa de seus respectivos interesses. Manutenção dos capítulos da r. sentença. Aplicabilidade do art. 252 do R1TJSP. RECURSO DESPROVIDO.
+Quanto à controvérsia recursal, a parte recorrente alega violação dos arts. 560 e 561 do Código de Processo Civil, no que concerne ao cabimento da presente ação de reintegração de posse uma vez que configurada a mera detenção do recorrido, já que em se tratando de área pública não há que se falar em exercício de posse, direito à indenizarão e/ou retenção por benfeitorias, trazendo a seguinte argumentação:
+Ao negar provimento ao recurso de apelação interposto pela recorrente, sob o fundamento de que não há ofensa ao direito público ou interesse relevante capaz de justificar a demissão do recorrido do imóvel depois de anos de alegada legítima ocupação, os ilustres julgadores reconhecerem a posse, onde existe apenas mera tolerância.
+Entretanto, o julgamento do feito, da maneira que se deu, não encontra fundamento legal para prosperar. Isto porque ao longo da marcha processual restou exaustivamente demonstrado a posse exercida pela recorrente e a invasão realizada pelo recorrido.
+ ..
+Por sua vez, o art. 560 do Código de Processo Civil estabelece: "O possuidor tem direito a ser mantido na posse em caso de turbação e reintegrado em caso de esbulho".
+Ainda, para se valer do procedimento especial de reintegração de posse, é necessário que a apelante comprove os requisitos legais do art. 561 do Código de Processo Civil, sendo estes: a sua posse; o esbulho praticado; a data do esbulho e a perda da posse na ação de reintegração.
+Nesse sentir, há de se destacar que a própria sentença reconhece que houve ocupação irregular por parte do apelado ao declarar que "há construção existente na cota de inundação".
+E mais, o laudo pericial realizado pelo perito do juízo, em sua conclusão, foi cristalino e preciso ao reconhecer que as edificações se encontram dentro da área destinada a inundação da Usina Hidrelétrica de Jaguara.
+Sendo assim, não restam dúvidas acerca da ilegalidade praticada pelo recorrido, bem como o preenchimento de todos os requisitos necessários à ordem de reintegração de posse e, portanto, a procedência total dos pedidos, com ordem de demolição das construções irregulares é medida que se impõe.
+No caso em tela, a área desapropriada possui natureza pública, pois está vinculada à prestação de serviço público federal, sendo este a transmissão de energia elétrica.
+É notório que inexiste posse em terras públicas. 0 que se verifica é apenas mera tolerância do Poder Público na permanência de ocupantes na respectiva área.
+Permanecem na área pública sabendo que um dia terão de devolvê-lo ao Poder Público.
+Consequentemente, se constroem em terra que não é de sua propriedade, estão cientes do risco de perderem o que erigiram nessas terras.
+Dessa forma, o recorrido é mero detentor. Inexiste posse no caso dos autos.
+Sendo a posse inexistente, falta um dos requisitos essenciais para se fazer jus ao direito de retenção.
+ ..
+Consoante o exposto acima, verifica-se a ocorrência da hipótese prevista no artigo 105, III, alínea "a", da CF/88 eis que o Acórdão objeto do presente Recurso Especial, diante da contrariedade com a lei federal, violando expressamente os artigos 560 e 561 do Código de Processo Civil, que demonstrar ser o requerido mero detentor de área pública, não fazendo jus a qualquer tipo de indenização.
+Cumpre destacar que a área em questão se trata de uma área pública, pois está vinculado à concessão de Serviço Público Federal de Energia Elétrica, bens reversíveis à União, pelo que fica vinculado às determinações do Poder Concedente, através da Agência nacional de Energia Elétrica  ANEEL.
+Desse modo, ao final da concessão, os bens necessários ao cumprimento do contrato retornam à União, para que essa, após novo procedimento licitatório, destine os bens a nova Concessionária. Assim, não se pode aceitar a permanência do recorrido na área objeto do litígio, pois é certo que tal ato é impor ao poder público determinado ônus que não cabe a este suportar, cabendo a apelante zelar pelos bens vinculados a concessão do serviço público prestado pela recorrente.
+Por se tratar de bem público, temos que o entorno da UHE é imprescritível e, portanto, é impossível o exercício de posse por particular que, no máximo, exerce mera detenção precária e irregular, cuja permanência não deve ser tolerada ou corroborada pelo judiciário, conforme entende o presente Tribunal, abaixo:
+ ..
+Nesse sentir, é cediço que a recorrente é pessoa jurídica de direito privado.
+Entretanto, é prestadora de serviço público e a referida área objeto da lide se encontra vinculada à prestação dessa atividade pública  transmissão de energia elétrica.
+Com a incidência do regime jurídico de direito público sobre o bem discutido, ele se agrega a insuscetibi1idade de posse por terceiros, e, juntamente com ela, tornar indevida qualquer tipo de indenização sobre benfeitorias e acessões realizada sobre o bem.
+ ..
+Nesse sentir, os artigos 1.196, 1.219, 1.220 e 1.255 são inaplicáveis aos imóveis públicos. Tais dispositivos não se aplicam ao caso porque os imóveis públicos não admitem a posse privada, mas apenas a mera detenção.
+0 art.1.196 do CC define o possuidor como aquele que tem, de fato, o exercício de algum dos poderes inerentes à propriedade. Como se sabe, o particular jamais exerce poderes de propriedade sobre o imóvel público porque o imóvel público não pode ser usucapido.
+0 particular, portanto, não poderá ser considerado possuidor de área pública. 0 nome jurídico da sua relação com o bem público é "detenção". Assim, o particular que invade um bem público é considerado mero detentor. A mera detenção é um instituto jurídico de natureza precária e que é mais restrito que a posse. Assim, não se confere ao mero detentor os mesmos direitos do possuidor (fls. 696/701).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+O julgado deve ser mantido por seus próprios e jurídicos fundamentos, consoante permite o art. 252 do Regimento Interno deste Tribunal de Justiça, que assim dispõe: " Nos recursos em geral, o relator poderá limitar-se a ratificar os fundamentos da decisão recorrida, quando, suficientemente motivada, houver de mantê-la".
+ ..
+Consoante ressaltou o d. Magistrado:
+Os fatos são incontroversos.
+Há construção existente na cota de inundação.
+Mas a cota de inundação existe para proteger eventuais terceiros e para garantir o pleno exercício da atividade da empresa autora.
+O Perito Judicial concluiu, ao responder ao quesito n. 3 do juízo, que "as benfeitorias em questão ou a inexistência destas em nada influencia nas atividades da autora "
+ ..
+Ademais, as construções avaliadas pelo Perito Judicial são antigas, o que sugere uma estabilização da situação.
+Assim, nota-se que são construções antigas cuja existência em nada interfere na atividade da empresa autora. São irrelevantes, portanto, à finalidade. Um ato administrativo deve trazer em si mesmo uma utilidade, uma finalidade. O ato de reivindicar a posse da área deve ser útil, portanto, não podendo significar apenas e tão somente uma atitude estéril e sem qualquer proveito ao reivindicante.
+Acolher o pedido significa agir sem razoabilidade e proporcionalidade. Privar alguém de algo construído licitamente sem que isto represente um ganho a quem supostamente é favorecido não tem a menor lógica, mormente se levarmos em conta que a construção foi integralmente concluída antes de qualquer interpelação. A autora não irá usar a área. Ela será, em tese, objeto de inundação e nada mais, sendo o risco integral à parte suplicada, que não poderá mais alegar que ignora este fato.
+Sendo assim, não se oferece um provimento jurisdicional que prejudica uma das partes sem qualquer ganho a outra.
+Manter as construções ali estabelecidas em nada vai influenciar na atividade da empresa autora.
+ ..
+Verifica-se assim que a conclusão do laudo pericial não foi encontrada de maneira aleatória, mas sim após criteriosa análise das normas que regem as perícias técnicas, de maneira em que o d. magistrado pôde formar seu convencimento sobre o tema, o qual, por sua vez, munido de tais informações, teve subsídios para proferir justa sentença.
+ ..
+Assim, diante das conclusões do expert as alegações da apelante tornam-se insubsistentes, principalmente porque as observações críticas da ré não possuem o condão de elidir o bem elaborado laudo judicial.
+ ..
+Portanto, ao contrário do alegado na apelação, a autora não cumpriu com o ônus de comprovar os fatos alegados na petição inicial hábeis a comprovar o esbulho, a necessidade de reintegração de posse e de demolição das construções que reputa irregulares (Código de Processo Civil, art. 373, I).
+ ..  - fls. 684/688, grifos meus.
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ademais, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020; AgRg no AREsp n. 2.022.133/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
