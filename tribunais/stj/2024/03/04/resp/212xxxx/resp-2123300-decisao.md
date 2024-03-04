@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público do Rio de Janeiro, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça local na Apelação Criminal n. 0054258-54.2020.8.19.0001, assim ementado (fl. 536):
+APELAÇÃO DEFENSIVA. ARTIGO 157, § 2º, INCISOS II E V, § 2º-A, I, 2X, NA FORMA DO ART. 70 E ARTIGO 158, §§ 1º E 3º, TUDO NA FORMA DO ARTIGO 70, TODOS DO CÓDIGO PENAL. MATERIALIDADE E AUTORIA COMPROVADAS. MAJORANTES DO CONCURSO DE AGENTES E RESTRIÇÃO DA LIBERDADE DEVIDAMENTE CARACTERIZADAS. AFASTAMENTO DA MAJORANTE DE EMPREGO DE ARMA DE FOGO. PENA REDIMENSIONADA. CONCURSO FORMAL. REGIME INICIAL FECHADO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+No recurso especial, a acusação aponta violação do art. 157, § 2º-A, I, do Código Penal, bem como dos arts. 155, 158, 167 e 564, III, b, do Código de Processo Penal, sob a tese de que a incidência da majorante do emprego de arma de fogo no delito de roubo independe da apreensão do artefato, se sua utilização for provada por outros meios.
+Assevera que, em matéria de prova vigora em nosso sistema processual penal o sistema do livre convencimento motivado. Nesse sentido é o disposto no supramencionado art. 155 do Código de Processo Penal. Desta forma, pode o juiz se valer de qualquer elemento contido nos autos para formar sua convicção, sendo irrelevante a constatação de que no roubo com emprego de arma esta não foi apreendida e/ou periciada (fl. 585).
+Ressalta que a prova testemunhal é idônea para demonstrar a majorante do emprego de arma, tratando-se de mera circunstância do crime, aqui não se aplicando a exigência de prova pericial, já que não se trata de elemento essencial do crime (fls. 585/586).
+Ao final da peça recursal, requer o provimento da insurgência, para que seja reformado o v. acórdão, reconhecendo-se a incidência da majorante do emprego de arma de fogo na prática do crime de roubo, com o consequente redimensionamento da pena (fl. 597).
+Oferecidas contrarrazões (fls. 602/904), o recurso especial foi admitido na origem (fls. 906/909).
+O Ministério Público Federal opina pelo provimento da insurgência, nos termos da seguinte ementa (fl. 923):
+RECURSO ESPECIAL. DIREITO PENAL. PROCESSUAL PENAL. ROUBO MAJORADO. EMPREGO DE ARMA DE FOGO. AUMENTO DE PENA. UTILIZAÇÃO DE OUTROS MEIOS DE PROVA. POSSIBILIDADE. PARECER PELO PROVIMENTO DO RECURSO.
+É o relatório.
+Para elucidação do quanto requerido, do combatido aresto extraem-se os seguintes fundamentos a respeito da majorante do emprego de arma de fogo (fls. 551/552 - grifo nosso):
+ ..  Por outro lado, entendo que assiste razão à Defesa quando pleiteia o afastamento da causa de aumento de pena prevista no § 2º-A,inciso I do artigo 157 do Código Penal.
+É cediço que o atual posicionamento dos Tribunais Superiores é no sentido da desnecessidade da apreensão da arma de fogo para reconhecimento da majorante, desde que outras provas possam, com idoneidade, confirmar seu emprego na prática delitiva.
+Desta forma, entendo ser necessário que sejam examinadas as circunstâncias em que o crime foi praticado, para que se verifique a idoneidade necessária na prova produzida, a fim de concluir que, de fato, os criminosos empregaram arma de fogo na prática dos delitos, bem como para definir o perigo real a que estiveram sujeitas as vítimas.
+Na presente hipótese, a arma de fogo não foi apreendida ou periciada, sendo certo que nenhuma arma foi encontrada com o apelante, tendo as vítimas afirmado que somente viram o comparsa armado.
+Assim, diante da inexistência de outros elementos de convicção que pudessem amparar uma efetiva comprovação de que os crimes tivessem sido praticados mediante emprego de arma de fogo e de que se tratava, efetivamente, de arma de fogo apta a produzir disparos, e não um simulacro, bem como diante da orientação dos Tribunais Superiores que exigem idoneidade da prova quando a suposta arma empregada no crime não é apreendida, entendo que deve ser afastada a referida majorante.
+ ..
+Observa-se, do trecho acima, que a Corte de origem afastou a majorante prevista no art. 157, § 2º-A, I, do Código Penal, porque a arma de fogo utilizada no assalto não foi apreendida, o que tornaria frágil a comprovação de seu emprego.
+Com efeito, verifica-se que tal entendimento não se coaduna com a jurisprudência desta Corte, a qual preconiza que é prescindível a apreensão e a perícia da arma para a incidência da majorante do emprego de arma de fogo quando existirem nos autos outros elementos de prova capaze s de comprovar a sua utilização no delito.
+Nesse sentido, colaciono julgados de ambas as Turmas que compõem a Terceira Seção desta Corte Superior:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. INCIDÊNCIA DA CAUSA DE AUMENTO DE PENA PREVISTA NO ART. 157, § 2º-A, I, DO CP. AUSÊNCIA DE LAUDO PERICIAL. PRESCINDIBILIDADE. PRECEDENTES. REVERSÃO DO JULGADO PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. REVISÃO DO CONTEÚDO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA 7/STJ.
+1. Segundo entendimento desta Corte, no crime de roubo, a apreensão e perícia da arma é desnecessária para o reconhecimento da majorante, se há outros elementos de prova que demonstrem o emprego do artefato, notadamente as declarações da vítima e da autoridade policial, aliadas à confissão do réu.
+2. Nos termos da jurisprudência desta Corte, a incidência da majorante do art. 157, § 2º-A, I, do CP prescinde da apreensão e perícia da arma, notadamente quando comprovada pela palavra da vítima, cabendo ao imputado demonstrar que o artefato é desprovido de potencialidade lesiva, nos termos do art. 156 do Código de Processo Penal (AgRg no AREsp n. 2.076.555/RS, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 26/8/2022).
+3. Outrossim, a mudança da conclusão alcançada no acórdão impugnado, de modo a afastar a referida causa de aumento, exigiria o reexame das provas, o que é vedado nesta instância extraordinária, a teor da Súmula 7/STJ. Precedentes.
+4. Agravo regimental improvido.
+(AgRg no AREsp n. 2.055.425/DF, de minha relatoria, Sexta Turma, DJe 21/8/2023 - grifo nosso ).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO MAJORADO. DOSIMETRIA. EMPREGO DE ARMA. DESNECESSIDADE DE APREENSÃO E REALIZAÇÃO DE PERÍCIA. EXISTÊNCIA DE OUTROS MEIOS DE PROVA. CÚMULO DE CAUSAS DE AUMENTO DE PENA. PLEITO DE APLICAÇÃO APENAS DA MAJORANTE DE MAIOR VALOR. AUSÊNCIA DE INTERESSE DE AGIR. REGIME FECHADO. ADEQUAÇÃO. QUANTUM DE PENA E CIRCUNSTÂNCIAS DO CASO CONCRETO. CONCURSO DE AGENTES E EMPREGO DE ARMA DE FOGO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+III - Restando comprovado o uso da arma de fogo por outros meios de prova, mostra-se adequada a incidência da causa de aumento prevista no art. 157, § 2º, I, do Código Penal, sendo prescindível sua apreensão e perícia para atestar o seu potencial lesivo.
+ ..
+Agravo regimental desprovido.
+(AgRg no HC n. 793.849/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe 22/6/2023 - grifo nosso).
+No caso, há prova testemunhal, como reconhecido na sentença de primeiro grau às fls. 401/402 e no próprio acórdão , no sentido do emprego de arma de fogo no roubo descrito na denúncia.
+Dessa forma, impõe-se a incidência da majorante prevista no art. 157, § 2º-A, I, do Código Penal, co m o retorno dos autos ao Tribunal de origem para o refazimento da dosimetria.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, a fim de restabelecer a incidência da majorante prevista no art. 157, § 2º-A, I, do Código Penal, determinando o retorno dos autos ao Tribunal de origem para o refazime nto da dosimetria.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. ROUBO MAJORADO. VIOLAÇÃO DOS ARTS. 157, § 2º-A, I, DO CP; 155, 158, 167 E 564, III, B, DO CPP. PEDIDO DE RESTABELECIMENTO DA QUALIFICADORA DO EMPREGO DE ARMA DE FOGO. APREENSÃO. DESNECESSIDADE. UTILIZAÇÃO DO ARTEFATO DEMONSTRADA POR OUTROS ELEMENTOS DE CONVICÇÃO. PRECEDENTES.
+Recurso especial provido nos termos do dispositivo.
