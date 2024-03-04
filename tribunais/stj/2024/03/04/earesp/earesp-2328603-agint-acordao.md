@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL  CIVIL  E  TRIBUTÁRIO.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  EXECUÇÃO FISCAL. VALORES  BLOQUEADOS  EM  CONTA  POUPANÇA.  IMPENHORABILIDADE.  LIMITE  DE  ATÉ  40  SALÁRIOS  MÍNIMOS. AGRAVO  INTERNO  A QUE SE NEGA PROVIMENTO.
+1.  Nos termos do art. 833, X, do CPC/2015, bem como da jurisprudência do Superior Tribunal de Justiça, são impenhoráveis os valores inferiores a 40 (quarenta) salários-mínimos depositados em aplicações financeiras, de modo que, constatado que a parte executada não possui saldo suficiente, cabe ao juiz, independentemente da manifestação da parte interessada, indeferir o bloqueio de ativo financeiro ou determinar a liberação dos valores constritos. Isso porque, além de as matérias de ordem pública serem cognoscíveis de ofício, a impenhorabilidade em questão é presumida, cabendo ao credor a demonstração de eventual abuso, má-fé ou fraude do devedor. Precedente: AgInt no AREsp 2.151.910/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 19/9/2022, DJe de 22/9/2022.
+2.  Agravo  interno  da  ANP a que se nega provimento.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  pela AGENCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT contra a  decisão  monocrática  de fls.  144/145 que conheceu do seu agravo para negar provimento ao recurso especial.
+Em  suas  razões,  a  parte  agravante  sustenta  que "a questão relativa à impenhorabilidade com fundamento no inciso X do artigo 833 do CPC não pode ser presumida, tampouco reconhecida de ofício pelo juiz, porquanto matéria eminentemente de defesa, nos termos do art. 854, §3º, I e § 5º, do CPC" (fl.  153).
+Pugna,  desse  modo,  pela  reconsideração  da  decisão  ora  atacada  ou  pela  apresentação  do  feito  à  turma  julgadora.
+À  fl.  157 ,  certificou-se que não foi disponibilizado vista à parte agravada por não ter representação nos autos
+É  o  relatório.
+EMENTA
+PROCESSUAL  CIVIL  E  TRIBUTÁRIO.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  EXECUÇÃO FISCAL. VALORES  BLOQUEADOS  EM  CONTA  POUPANÇA.  IMPENHORABILIDADE.  LIMITE  DE  ATÉ  40  SALÁRIOS  MÍNIMOS. AGRAVO  INTERNO  A QUE SE NEGA PROVIMENTO.
+1.  Nos termos do art. 833, X, do CPC/2015, bem como da jurisprudência do Superior Tribunal de Justiça, são impenhoráveis os valores inferiores a 40 (quarenta) salários-mínimos depositados em aplicações financeiras, de modo que, constatado que a parte executada não possui saldo suficiente, cabe ao juiz, independentemente da manifestação da parte interessada, indeferir o bloqueio de ativo financeiro ou determinar a liberação dos valores constritos. Isso porque, além de as matérias de ordem pública serem cognoscíveis de ofício, a impenhorabilidade em questão é presumida, cabendo ao credor a demonstração de eventual abuso, má-fé ou fraude do devedor. Precedente: AgInt no AREsp 2.151.910/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 19/9/2022, DJe de 22/9/2022.
+2.  Agravo  interno  da  ANP a que se nega provimento.
+VOTO
+Não  obstante  a  irresignação  da  parte  agravante,  não  foram  trazidos  argumentos  capazes  de  desconstituir  a  decisão  agravada.
+Nos termos do art. 833, X, do CPC/2015, bem como da jurisprudência do Superior Tribunal de Justiça, são impenhoráveis os valores inferiores a 40 (quarenta) salários-mínimos depositados em aplicações financeiras, de modo que, constatado que a parte executada não possui saldo suficiente, cabe ao juiz, independentemente da manifestação da parte interessada, indeferir o bloqueio de ativo financeiro ou determinar a liberação dos valores constritos. Isso porque, além de as matérias de ordem pública serem cognoscíveis de ofício, a impenhorabilidade em questão é presumida, cabendo ao credor a demonstração de eventual abuso, má-fé ou fraude do devedor.  A  propósito:
+ADMINISTRATIVO. AGRAVO INTERNO. PENHORA. SISTEMA BACENJUD. DEPÓSITO EM CONTA BANCÁRIA ATÉ O LIMITE DE 40 SALÁRIOS MÍNIMOS. IMPENHORABILIDADE PRESUMIDA. POSSIBILIDADE DE DESBLOQUEIO EX OFFICIO.
+1. A penhora eletrônica não pode descurar-se do disposto no art. 833, X, do CPC, uma vez que "a previsão de impenhorabilidade das aplicações financeiras do devedor até o limite de 40 salários-mínimos é presumida, cabendo ao credor demonstrar eventual abuso, má-fé ou fraude do devedor, a ser verificado caso a caso, de acordo com as circunstâncias de cada hipótese trazida à apreciação do Poder Judiciário" (AREsp n. 2.109.094, Rel. Ministro Gurgel de Faria, DJe de 16/8/2022).
+2. Nos termos da jurisprudência firmada no âmbito desta Corte de Justiça, a impenhorabilidade constitui matéria de ordem pública, cognoscível de ofício pelo juiz, não havendo falar em nulidade da decisão que, de plano, determina o desbloqueio da quantia ilegalmente penhorada.
+3. Agravo interno não provido. (AgInt no AREsp n. 2.151.910/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 19/9/2022, DJe de 22/9/2022.)
+Ante  o  exposto,  nego  provimento  ao  agravo  interno  da  ANP.
+É  como  voto.
