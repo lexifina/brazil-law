@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Os embargos de declaração somente admitem os efeitos infringentes quando a correção de algum dos vícios do art. 1.022 do Código de Processo Civil implique a modificação da conclusão do julgado, o que não é o caso dos autos.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por MAGAZINE LUIZA S.A. contra acórdão proferido por esta Quarta Turma, assim ementado (e-STJ, fl. 444):
+"DIREITO DO CONSUMIDOR. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE BENS MÓVEIS. ATRASO NA ENTREGA DE MERCADORIA E DEMORA NA RESTITUIÇÃO DO VALOR PAGO PELO CONSUMIDOR ARREPENDIDO. INVERSÃO DE MULTA CONTRATUAL CONTRA O FORNECEDOR. AGRAVO INTERNO DESPROVIDO.
+1. Debate-se nos autos a inversão de cláusula penal, prevista para a mora do consumidor, para as hipóteses de atraso na entrega da mercadoria e demora na restituição do valor pago quando do exercício do direito do arrependimento.
+2. Não se cogita de afronta ao art. 535 do CPC/73 quando o acórdão recorrido pronuncia-se, de forma clara e coerente, acerca de todas as questões devolvidas a julgamento, ainda que não enfrente individualmente as teses suscitadas pelas partes.
+3. "A "inversão" da cláusula penal deve partir do atendimento a dois pressupostos lógicos: a) que a cláusula penal tenha sido, efetivamente, celebrada no pacto; b) haja quebra do equilíbrio contratual, em afronta ao princípio consagrado no art. 4º, III, do CDC" (REsp 1.412.993/SP, Relatora para acórdão Min. MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 8/5/2018, DJe de 7/6/2018).
+4. O acórdão de origem encontra-se em harmonia com o entendimento do Superior Tribunal de Justiça acerca da matéria, o que implica a incidência da Súmula 83 do STJ.
+5. No caso dos autos, foi reconhecida a existência de cláusula penal para as hipóteses de mora do consumidor, cuja extensão contra o fornecedor foi expressamente adotada pelas instâncias ordinárias, de modo que a desconstituição dessas premissas fáticas, em especial a existência de cláusula penal, implicaria vedada interpretação de cláusula contratual e reexame de fatos e provas (Súmulas 5 e 7 do STJ).
+6. Agravo interno a que se nega provimento." (e-STJ, fl. 444)
+Nas razões dos embargos de declaração, a ora embargante assevera que o v. acórdão não se pronunciou quanto à impossibilidade de fixação de prazo de entrega genérico, bem como no que se refere à ausência de contrato escrito nas compras realizadas em loja física, que se perfazem com a tradição, além da inaplicabilidade de multa na ocorrência de caso fortuito ou força maior. Acrescenta ainda que haveria obscuridade quanto à uniformização da jurisprudência que teria sido requerida em razão do REsp 1.295.619/SP.
+Intimado, o embargado apresentou impugnação às fls. 477-480 (e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Os embargos de declaração somente admitem os efeitos infringentes quando a correção de algum dos vícios do art. 1.022 do Código de Processo Civil implique a modificação da conclusão do julgado, o que não é o caso dos autos.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre a qual se devia pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+A propósito:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. INEXISTÊNCIA. CARÁTER PROTELATÓRIO. RECONHECIMENTO. EMBARGOS REJEITADOS COM IMPOSIÇÃO DE MULTA. 1. Inexistentes as hipóteses do art. 535 do CPC, não merecem acolhida os embargos de declaração. 2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado. 3. Embargos de declaração rejeitados, com imposição de multa fixada em 1% (um por cento) do valor da causa." (EDcl nos EDcl nos EDcl no AgRg no AgRg no AREsp 453.117/SP, Relator Min. MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/12/2014, DJe de 02/02/2015, g.n.)
+No caso concreto, verifica-se que a ora embargante insurge-se contra o resultado do julgamento. Com efeito, no v. acórdão recorrido não se debateram as matérias de mérito veiculadas no recurso especial. Entretanto, a ausência de pronunciamento não tem o condão de inquinar o v. acórdão embargado de omisso, obscuro, tampouco contraditório, uma vez que o recurso especial não foi sequer conhecido.
+Ademais, no que se refere à pretensão de uma eventual uniformização de jurisprudência, importa frisar que o recurso especial, além de o recurso especial não ter sido interposto sob o enfoque de divergência jurisprudencial, tampouco o agravo interno ou agora os aclaratórios comportam essa finalidade. A uniformização de entendimento no âmbito desta Corte Superior tem meios processuais típicos para essa finalidade, de modo que eventual dissenso interno deve ser demonstrado por meio da via processual adequada.
+Por fim, não se pode deixar de consignar que o entendimento da eg. Corte local está em manifesta harmonia com o entendimento já adotado por esta col. Quarta Turma, conforme se demonstrou na fundamentação do v. acórdão embargado.
+Outrossim, o pedido de efeito infringente em ac laratórios, embora seja autorizado em situações específicas, denota, no presente caso, a pretensão exclusiva da embargante de ver modificada a decisão colegiada, pugnando pelo reexame do conteúdo meritório, sem que haja vícios do art. 1.022 do CPC que justifiquem tal pretensão.
+Com esses fundamentos, rejeitam-se os embargos de declaração.
+É como voto.
