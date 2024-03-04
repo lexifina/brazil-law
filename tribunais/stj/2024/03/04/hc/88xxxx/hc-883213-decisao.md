@@ -1,0 +1,15 @@
+DECISÃO
+PAULO HENRIQUE ALVES RODRIGUES DA SILVA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Embargos de Declaração da Apelação Criminal n. 0050967-21.2008.8.26.0050-50000).
+A defesa pleiteia, por meio deste writ, a aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 e a fixação de regime inicial mais brando.
+Decido.
+Em consulta processual realizada nos assentamentos eletrônicos desta Corte Superior de Justiça, verifico que, contra a mesma condenação objeto deste writ, também houve a impetração do HC n. 708.661 em favor do ora paciente, por meio do qual a defesa requereu a fixação da pena-base no mínimo legal, a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas e a imposição de regime inicial mais brando.
+Registro, por oportuno, que o referido habeas corpus já foi julgado por esta Corte Superior de Justiça e foi indeferido liminarmente, nos seguintes termos:
+No que tange à pretendida fixação da pena-base no mínimo legal, verifico que o writ esbarra na falta de interesse de agir, tendo em vista que as instâncias ordinárias já estabeleceram a reprimenda-base do acusado no mínimo legal.
+Quanto à pretendida aplicação da causa especial de diminuição de pena descrita no art. 33, § 4º, da Lei n. 11.343/2006, constato que não há como ser reconhecido o benefício em favor do réu, haja vista a vedação legal expressa da concessão desse redutor quanto aos réus reincidentes.
+Pelas mesmas razões anteriormente expostas - reincidência -, mostra-se devida a imposição do regime inicial fechado de cumprimento de pena, ex vi do disposto no art. 33, § 2º, "a", e § 3º, do CP, e tal como bem decidiram as instâncias de origem. Esclareço, por oportuno, que o paciente, além de haver sido definitivamente condenado a reprimenda superior a 4 anos de reclusão, era reincidente ao tempo do crime.
+O decisum transitou em julgado em 14/12/2021.
+Ainda, constato que, contra essa mesma condenação, a defesa também interpôs o AREsp n. 1.477.708, o qual foi conhecido, para negar provimento ao recurso especial. Na ocasião, foi mantida a fixação do regime inicial fechado, sob o fundamento de que " a Corte de origem justificou a fixação do regime inicial mais gravoso com base, justamente, nas peculiaridades do caso concreto, notadamente na natureza lesiva das drogas apreendidas, bem como na reincidência do acusado, circunstâncias que justificam a imposição de regime prisional mais gravoso do que o cabível em razão da reprimenda aplicada".
+Assim, tendo em vista que este habeas corpus se trata de mera reiteração de pedidos, não há como dele se conhecer.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus, não sem lamentar a falta de cooperação da parte quanto à economia processual que há de nortear a atuação de todos os sujeitos processuais, máxime em um quadro de hiperjudicialização dos conflitos, a abarrotar os escaninhos (físicos ou eletrônicos) dos tribunais.
+Publique-se e intimem-se.
+EMENTA
