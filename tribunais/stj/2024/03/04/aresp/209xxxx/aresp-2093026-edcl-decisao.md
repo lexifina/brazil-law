@@ -1,0 +1,25 @@
+DECISÃO
+Em análise, embargos de declaração (fls. 587/588e) opostos pelo MUNICÍPIO DE UBERLÂNDIA, contra decisão de fls. 581/584e, proferida pelo Ministro OG FERNANDES, que conheceu do agravo para conhecer em parte o recurso especial e, nessa extensão, dar-lhe parcial provimento, reconhecendo a prescrição.
+O embarga nte narra que "A r. decisão embargada, ao aplicar o art. 85, § 11, do CPC, trabalhou com 03 hipóteses: no caso de ter sido aplicado na origem o art. 85, § 3º; no caso de ter sido utilizado na origem o art. 85, § 2º; ou em se tratando de honorários arbitrados em montante fixo" Prossegue afirmando que "Contudo, o acórdão recorrido não se enquadrou em nenhuma dessas situações, porque arbitrou a verba sucumbencial com base no artigo 27, § 1º e § 3º, II, do Decreto-Lei nº 3.365/41, no percentual de 5% (cinco por cento) do valor da indenização, acrescida de correção monetária, juros moratórios e compensatórios" (fl. 587e).
+Requer, ao fim, "sejam providos os presentes embargos de declaração, sanando-se a omissão apontada, para que seja aclarado o valor dos honorários de sucumbência devidos pela Embargada/Recorrida" (fl. 588e).
+Contrarrazões apresentadas (fls. 606/608e).
+É o relatório.
+Passo a decidir.
+Com razão o embargante.
+Segundo dispõe o art. 27, §§ 1º e 3º, II, do Decreto-lei 3.365/41:
+"Art. O juiz indicará na sentença os fatos que motivaram o seu convencimento e deverá atender, especialmente, à estimação dos bens para efeitos fiscais; ao preço de aquisição e interesse que deles aufere o proprietário; à sua situação, estado de conservação e segurança; ao valor venal dos da mesma espécie, nos últimos cinco anos, e à valorização ou depreciação de área remanescente, pertencente ao réu.
+§ 1º A sentença que fixar o valor da indenização quando este for superior ao preço oferecido condenará o desapropriante a pagar honorários do advogado, que serão fixados entre meio e cinco por cento do valor da diferença, observado o disposto no §4º do art. 20 do Código de Processo Civil.
+§ 3º O disposto no § 1o deste artigo se aplica:
+II - às ações de indenização por apossamento administrativo ou desapropriação indireta".
+Nesse sentido decidiu a Corte de origem:
+"No que concerne aos honorários advocatícios, a teor do disposto no art. 27, § 1º e § 3º, II, do Decreto-Lei nº 3.365/41, estes deveriam ser fixados entre 0,5 e 5% sobre o valor da diferença entre a quantia ofertada pelo ente político e aquela adotada na sentença.
+Ocorre que, em ação de desapropriação indireta, não há diferença entre o valor ofertado e o efetivamente adotado a título de indenização, pelo que o magistrado deve pautar-se apenas pelo valor da indenização estipulada.
+Acrescente-se que as disposições do Decreto-Lei nº 3.365/41, pelo critério da especialidade, prevalecem sobre as previsões do Código de Processo Civil.
+(..)
+Dessa feita, considerando o trabalho desenvolvido pelo advogado da parte autora, o tempo despendido para o seu serviço e o êxito obtido, reputo que o percentual de 5% (cinco por cento)do valor da indenização bem remunera o causídico" (fls. 463/465e).
+Contudo, a decisão ora recorrida aplicou, de forma equivocada, os parâmetros estabelecidos no CPC/2015, in verbis:
+"Aplico o art. 85, § 11, do CPC, nos seguintes moldes: 1) no caso de ter sido aplicado na origem o art. 85, § 3º, elevo os honorários ao percentual máximo da faixa respectiva; 2) no caso de ter sido utilizado na origem o art. 85, § 2º, adiciono 10 (dez) pontos percentuais à alíquota aplicada a título de honorários advocatícios, não podendo superar o teto previsto na referida norma; e 3) em se tratando de honorários arbitrados em montante fixo, majoro-os em 10% (dez por cento). Restam observados os critérios previstos no § 2º do referido dispositivo legal, ressalvando-se que, no caso de eventual concessão da gratuidade da justiça, a cobrança será regulada pelo art. 98 e seguintes do CPC" (fls. 583/584e).
+Assim, havendo erro material na decisão ora embargada, passo a repará-lo, de forma que onde se lê "Aplico o art. 85, § 11, do CPC, nos seguintes moldes: 1) no caso de ter sido aplicado na origem o art. 85, § 3º, elevo os honorários ao percentual máximo da faixa respectiva; 2) no caso de ter sido utilizado na origem o art. 85, § 2º, adiciono 10 (dez) pontos percentuais à alíquota aplicada a título de honorários advocatícios, não podendo superar o teto previsto na referida norma; e 3) em se tratando de honorários arbitrados em montante fixo, majoro-os em 10% (dez por cento). Restam observados os critérios previstos no § 2º do referido dispositivo legal, ressalvando-se que, no caso de eventual concessão da gratuidade da justiça, a cobrança será regulada pelo art. 98 e seguintes do CPC", leia-se "em atenção ao princípio da especialidade, deixo de majorar os honorários advocatícios fixados pelas instâncias ordinárias, tendo em vista a observância ao limite legal previsto para a hipótese, conforme dispõem o §11 do art. 85 do CPC/2015 e o § 1º do art. 27 do Decreto-Lei 3.365/41".
+Isso posto, acolho os presentes Embargos de Declaração, para sanar o erro material na decisão recorrida, nos termos da fundamentação.
+I.
+EMENTA
