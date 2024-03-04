@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  CPC.  VIGÊNCIA.  OMISSÃO,  CONTRADIÇÃO,  OBSCURIDADE  E  ERRO  MATERIAL  NÃO  VERIFICADOS.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  declaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  omissão,  afastar  obscuridade,  eliminar  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Embargos  de  declaração  rejeitados.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  COLMEIA  LARANJEIRAS  EMPREENDIMENTOS  IMOBILIÁRIOS  LTDA.-SPE  ao  acórdão  assim  ementado:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  REVISÃO  CONTRATUAL.  COMPRA  E  VENDA  DE  IMÓVEL.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  CONFIGURAÇÃO.  AUSÊNCIA.  RAZÕES  DISSOCIADAS.  SÚMULA  Nº  284/STF.  FUNDAMENTOS.  NÃO  IMPUGNAÇÃO.  SÚMULA  Nº  283/STF.  PERCENTUAL  DE  RETENÇÃO.  LIMITES.  FIXAÇÃO.  RAZOABILIDADE.  REVISÃO.  SÚMULA  Nº  5/STJ.  SÚMULA  Nº  7/STJ.  JUROS  MORATÓRIOS.  TAXA  SELIC.  NÃO  APLICAÇÃO.  PREVISÃO  CONTRATUAL.  REVISÃO.  SÚMULA  Nº  5/STJ.  SÚMULA  Nº  7/STJ.  HONORÁRIOS  ADVOCATÍCIOS.  SUCUMBÊNCIA.  ALTERAÇÃO.  IMPOSSIBILIDADE.  REEXAME  DE  PROVAS.  SÚMULA  Nº  7/STJ.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2.  Estando  as  razões  do  recurso  dissociadas  do  que  decidido  no  acórdão  recorrido,  é  inadmissível  o  inconformismo  por  deficiência  na  sua  fundamentação.  Aplicação  da  Súmula  nº  284  do  Supremo  Tribunal  Federal.
+3.  A  ausência  de  impugnação  de  um  fundamento  suficiente  do  acórdão  recorrido  enseja  o  não  conhecimento  do  recurso,  incidindo  a  Súmula  nº
+283/STF.
+4.  A  jurisprudência  desta  Corte  está  consolidada  no  sentido  da  razoabilidade  de  retenção  dos  pagamentos  realizados  até  a  rescisão  operada  entre  10%  (dez  por  cento)  e  25%  (vinte  e  cinco  por  cento),  de  acordo  com  as  circunstâncias  do  caso  concreto.
+5.  A  revisão  do  percentual  de  retenção  estipulado  pelas  instâncias  ordinárias  demandaria  a  análise  de  circunstâncias  fático-probatórias  dos  autos,  providência  que  esbarra  nos  óbices  das  Súmulas  nºs  5  e  7/STJ.
+6.  Os  juros  moratórios  devem  ser  pagos  com  base  na  taxa  Selic,  a  não  ser  que  outra  taxa  tenha  sido  contratada.
+7.  Alterar  as  conclusões  firmadas  no  acórdão  recorrido  acerca  da  inaplicabilidade  da  taxa  SELIC,  a  partir  da  tese  de  que  não  existe  previsão  contratual  quanto  a  juros  e  correção  monetária,  reclamaria  o  reexame  de  fatos,  provas  e  de  cláusulas  contratuais  por  este  Corte,  o  que  atrai  a  incidência  das  Súmulas  nºs  5  e  7/STJ.
+8.  A  jurisprudência  pacífica  desta  Corte  é  no  sentido  de  que  a  revisão  do  quantitativo  em  que  autor  e  réu  decaíram  do  pedido  para  fins  de  aferição  de  sucumbência  recíproca  ou  mínima  implica  reexame  de  matéria  fático-probatório,  incidindo  a  Súmula  nº  7/STJ.
+9.  Agravo  interno  não  provido"  (fl.  434,  e-STJ).
+Nas  presentes  razões,  a  embargante  aponta  omissão  no  referido  julgado  quanto  aos  seguintes  pontos:  (1)  não  há  pretensão  de  revisão  de  matéria  fática,  mas  somente  pedido  de  aplicação  da  Taxa  Selic,  devendo  ser  afastada  a  aplicação  das  Súmulas  nºs  5  e  7/STJ  e  (2)  há  equívoco  na  aplicação  das  Súmulas  nºs  283  e  284/STF,  pois  não existe deficiência  de  fundamentação  nem ausência  de  impugnação  dos  fundamentos  adotados  na  origem.
+É  o  relatório.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  CPC.  VIGÊNCIA.  OMISSÃO,  CONTRADIÇÃO,  OBSCURIDADE  E  ERRO  MATERIAL  NÃO  VERIFICADOS.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  declaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  omissão,  afastar  obscuridade,  eliminar  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Embargos  de  declaração  rejeitados.
+VOTO
+Não  prospera  a  inconformidade  veiculada  nos  presentes  aclaratórios.
+O  acórdão  embargado  não  padece  de  nenhum  dos  vícios  ensejadores  dos  declaratórios  enumerados  no  artigo  1.022  do  Código  de  Processo  Civil:  obscuridade,  contradição,  omissão  ou  erro  material.
+Com  efeito,  a  despeito  de  todo  o  esforço  argumentativo  da  embargante,  os  pontos  trazidos  nas  razões  recursais  foram  devidamente  enfrentados  no  julgado  recorrido.
+De  fato,  pela  transcrição  dos  trechos  do  acórdão  combatido,  restou  evidenciado  que  as  razões  recursais  estão  dissociadas  dos  fundamentos  nele apresentados  e  que  estes  não  foram  impugnados  de  forma  específica  pela  recorrente.  Assim,  as  Súmulas  nºs  283  e  284/STF  foram  aplicadas  de  forma  clara  e  fundamentada  pelo  julgado  embargado.
+Ademais,  a  tese  envolvendo  a  revisão  do  percentual  de  retenção  acerca da rescisão  do  contrato  de  compra  e  venda  restou  prejudicada  pela  incidência  da  Súmula  nº  7/STJ,  tendo  sido  destacado  que  a  questão  foi  decidida  pelas  instâncias  ordinárias  a  partir  do  exame  das  circunstâncias  fático-probatórias  dos  autos.
+Nesse  contexto,  ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+A  propósito:
+"EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  INDENIZAÇÃO.  ART.  535  DO  CPC/1973.  VIOLAÇÃO.  ALEGAÇÃO  GENÉRICA.  CERCEAMENTO  DE  DEFESA,  ILEGITIMIDADE,  PERDÃO  DAS  VÍTIMAS  E  INCONSTITUCIONALIDADE  DA  LEI  DE  IMPRENSA.  PREQUESTIONAMENTO.  AUSÊNCIA.  SÚMULA  Nº  211/STJ.  PROGRAMA  DE  TELEVISÃO.  IMAGEM.  EXPOSIÇÃO.  DANOS  MORAIS.  RESPONSABILIDADE  CONFIGURADA.  SÚMULA  Nº  7/STJ  OMISSÃO,  CONTRADIÇÃO  OU  OBSCURIDADE.  NÃO  CONFIGURAÇÃO.
+1.  Inexistindo,  no  acórdão  embargado,  omissão,  contradição,  obscuridade  ou  erro  material,  não  merecem  ser  acolhidos  os  embargos  de  declaração  que  revelam  o  mero  inconformismo  da  parte  com  as  conclusões  do  julgado.
+2.  Embargos  de  declaração  rejeitados"  (EDcl  no  AgInt  nos  EDcl  nos  EDcl  no  AREsp  1.198.671/SP,  Rel.  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  Terceira  Turma,  julgado  em  11/11/2020,  DJe  17/11/2020).
+"EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  REQUISITOS  DO  ART.  1.022  E  INCISOS  DO  CPC  DE  2015.  OMISSÃO  NÃO  CONSTATADA.  EMBARGOS  DE  DECLARAÇÃO  REJEITADOS.
+1.  Depreende-se  do  artigo  1.022,  e  seus  incisos,  do  novo  Código  de  Processo  Civil  que  os  embargos  de  declaração  são  cabíveis  quando  constar,  na  decisão  recorrida,  obscuridade,  contradição,  omissão  em  ponto  sobre  o  qual  deveria  ter  se  pronunciado  o  julgador,  ou  até  mesmo  as  condutas  descritas  no  artigo  489,  parágrafo  1º,  que  configurariam  a  carência  de  fundamentação  válida.  Não  se  prestam  os  aclaratórios  ao  simples  reexame  de  questões  já  analisadas,  com  o  intuito  de  meramente  dar  efeito  modificativo  ao  recurso.
+2.  A  parte  embargante,  na  verdade,  deseja  a  rediscussão  da  matéria,  já  julgada  de  maneira  inequívoca.  Essa  pretensão  não  está  em  harmonia  com  a  natureza  e  a  função  dos  embargos  declaratórios  prevista  no  art.  1022  do  CPC.
+3.  Embargos  de  declaração  rejeitados"  (EDcl  no  AgInt  no  AREsp  874.797/SP,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  Quarta  Turma,  julgado  em  4/8/2016,  DJe  9/8/2016).
+"PROCESSUAL  CIVIL.  EMBARGOS  DE  DECLARAÇÃO.  RECURSO  INTERPOSTO  SOB  A  ÉGIDE  DO  CPC/2015.OBSCURIDADE,  CONTRADIÇÃO,  OMISSÃO  OU  ERRO  MATERIAL.  INEXISTÊNCIA.  VIOLAÇÃO  DO  ART.  1.022  DO  CPC/2015.  NÃO  OCORRÊNCIA.
+1.  Rejeitam-se  os  embargos  declaratórios  quando,  no  acórdão  embargado,  não  há  nenhum  dos  vícios  previstos  no  art.  1.022  do  CPC/2015.
+2.  Embargos  de  declaração  rejeitados  com  aplicação  de  multa"  (EDcl  no  RCD  nos  EDcl  nos  EDcl  no  AgRg  no  AREsp  471.799/RJ,  Rel.  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  Terceira  Turma,  julgado  em  18/8/2016,  DJe  24/8/2016).
+  Ante  o  exposto,  rejeito  os  embargos  de  declaração.
+É  o  voto.
