@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, acolher parcialmente os embargos de declaração, sem efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL CONFIGURADO. OMISSÃO/CONTRADIÇÃO INEXISTENTES. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS.
+1. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+2. Verificada a ocorrência de erros materiais no acórdão embargado (ementa e voto), os embargos de declaração devem ser acolhidos, nessa parte, para a devida correção.
+3. Não se reconhece a violação do art. 1.022 do CPC quanto aos demais temas suscitados, pois houve exame claro, coerente e fundamentado de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+4. Embargos de declaração parcialmente acolhidos, sem efeitos infringentes.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por HERMES GIBIM e VILMA HERNANDES GIBIM (HERMES e VILMA) contra acórdão de minha relatoria, assim ementado:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE NEGÓCIO JURÍDICO. DAÇÃO EM PAGAMENTO DE IMÓVEL ALIENADO PREVIAMENTE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. DISCUSSÃO QUANTO REGULARIDADE DAS INTIMAÇÕES. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. REVELIA. JULGAMENTO REALIZADO COM BASE NA PROVA DOS AUTOS, E NÃO COM ESTEIO EM PRESUÇÃO DECORRENTE DA REVELIA. INCIDÊNCIA DA SÚMULA N.º 284 DO STF. DISCUSSÃO QUANTO AO DOLO DA PARTE INSUFICIENTE PARA ALTERAR O RESULTADO DO JULGAMENTO. SÚMULA N.º 284 DO STF. POSSIBILIDADE DE REGISTRO DO CONTRATO DE COMPRA E VENDA. QUESTÃO IRRELEVANTE PARA O JULGAMENTO DA LIDE. SÚMULA N.º 284 DO STF. ILICITUDE DA COMPRA E VENDA OCORRIDA ANTES DO REGISTRO DA INCORPORAÇÃO IMOBILIÁRIA. TEMA NÃO PREQUESTIONADO. NULIDADE POR SIMULAÇÃO. SÚMULA N.º 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em negativa de prestação jurisdicional quando o órgão julgador tenha efetivamente apreciado os temas em relação aos quais apontada a ocorrência de omissão.
+2. Tendo o acórdão recorrido afirmado, expressamente, que a parte foi devidamente intimada de todos os atos necessário ao adequado acompanhamento do processo não é possível acolher a alegação deduzida em sentido contrário sem reexaminar fatos e provas. Incidência da Súmula n.º 7 do STJ.
+3. A alegação de que a causa não poderia ter sido julgada com base na presunção decorrente da revelia não pode ser conhecida, porque o acórdão recorrido não julgou com base em presunção, e sim com base na prova dos autos. Súmula n.º 284 do STF.
+4. Não prospera a alegação de que o acórdão recorrido anulou o negócio jurídico com base na ocorrência de dolo sem que estivessem presentes os requisitos específicos do art. 145 do CC/02, porque o dolo mencionado no julgamento a reprovabilidade subjetiva da conduta, a ausência de boa-fé objetiva, e não o vício social previsto naquele dispositivo legal.
+5. A possibilidade ou impossibilidade de a compra e venda ocorrida ser levada a registro não é determinante para o resultado do julgamento, que se concentrou na regularidade da dação e pagamento verificada em momento posterior. Incidência da Súmula n.º 284 do STF.
+6. O Tribunal local não se pronunciou sobre a alegação de que a compra e venda seria ilícita por ter ocorrido antes do arquivamento da incorporação imobiliária. Incidência das Súmulas n.ºs 282 e 356 do STF. Por outro lado, afirmou que havia elementos para amparar a alegação de simulação dessa compra e venda, mostrando-se impossível modificar essa conclusão sem revolver fatos e provas. Incidência da Súmula n.º 7 do STJ.
+7. Agravo interno não provido (e-STJ, fls. 866/867).
+Nas razões do presente inconformismo, defenderam a existência de (1) erro material (1.a) no item 6 da ementa, na parte relativa à conclusão do acórdão estadual sobre a prova da simulação e (1.b) na transcrição presente no item 1.c do voto; (2) contradição entre as assertivas de que o TJSP não se pronunciou sobre a alegação de ofensa ao art. 166 do CC e o reconhecimento de que não haveria omissão com relação ao tema; (3) erro de julgamento com relação à apreciação da norma contida nos arts. 32 e 35 da Lei n.º 4.591/64; (4) efetiva negativa de prestação jurisdicional pelo TJSP; (5) efetiva ocorrência de simulação na compra e venda; e (6) validade da dação em pagamento, porque presente sua boa-fé objetiva.
+Foi apresentada contraminuta (e-STJ, fls. 937/940).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL CONFIGURADO. OMISSÃO/CONTRADIÇÃO INEXISTENTES. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS.
+1. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+2. Verificada a ocorrência de erros materiais no acórdão embargado (ementa e voto), os embargos de declaração devem ser acolhidos, nessa parte, para a devida correção.
+3. Não se reconhece a violação do art. 1.022 do CPC quanto aos demais temas suscitados, pois houve exame claro, coerente e fundamentado de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+4. Embargos de declaração parcialmente acolhidos, sem efeitos infringentes.
+VOTO
+Da inexistência de violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, em razão da desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Nas razões destes aclaratórios, a HERMES e VILMA afirmaram violação do art. 1.022 do NCPC em virtude da existência de (1) erro material (1.a) no item 6 da ementa, na parte relativa à conclusão do acórdão estadual sobre a prova da simulação e (1.b) na transcrição presente no item 1.c do voto; (2) contradição entre as assertivas de que o TJSP não se pronunciou sobre a alegação de ofensa ao art. 166 do CC e o reconhecimento de que não haveria omissão com relação ao tema; (3) erro de julgamento com relação à apreciação da norma contida nos arts. 32 e 35 da Lei n.º 4.591/64; (4) efetiva negativa de prestação jurisdicional pelo TJSP; (5) efetiva ocorrência de simulação na compra e venda; e (6) validade da dação em pagamento, porque presente sua boa-fé objetiva.
+(1) Erro material
+Têm razão os embargantes quanto à alegação de erro material no item 6 da ementa. De fato, o acórdão bandeirante afirmou que não havia elementos probatórios para amparar a alegação de simulação da compra e venda.
+Assim, os embargos merecem acolhida nessa parte para retificar a ementa, de modo a constar, no seu item 6, a seguinte redação:
+6. O Tribunal local não se pronunciou sobre a alegação de que a compra e venda seria ilícita por ter ocorrido antes do arquivamento da incorporação imobiliária. Incidência das Súmulas n.ºs 282 e 356 do STF. Por outro lado, afirmou que não havia elementos para amparar a alegação de simulação dessa compra e venda, mostrando-se impossível modificar essa conclusão sem revolver fatos e provas. Incidência da Súmula n.º 7 do STJ.
+O segundo erro material apontado diz respeito ao item 1.c do voto, que apresenta a seguinte redação:
+No tocante ao item 1.c, tampouco há falar em omissão, porque houve, igualmente, expressa manifestação do acórdão recorrido:
+Observo ainda, que nenhuma das alegações de simulação se sustentam, uma vez que não demonstraram os apelantes qualquer relação negocial do autor Empreendimentos Imobiliários Ltda ou com seus sócios, o que na verdade restou demonstrado existir entre eles, de acordo com as declarações constantes da dação realizada(e-STJ, fl. 584)  e-STJ, fl. 873 .
+Segundo alegado, a transcrição do acórdão bandeirante indicada acima estaria truncada. Mais uma vez têm razão os embargantes, pois o trecho transcrito, no original, tem a seguinte redação:
+Observo ainda, que nenhuma das alegações de simulação se sustentam, uma vez que não demonstraram os apelantes qualquer relação negocial do autor com o réu Pozelli Empreendimentos Imobiliários Ltda ou com seus sócios, o que na verdade restou demonstrado existir entre eles, de acordo com as declarações constantes da dação realizada (e-STJ, fl. 584).
+Nenhum desses erros materiais, todavia, tem o condão de alterar o resultado do julgamento.
+(2) Contradição
+HERMES e VILMA alegaram, também, contradição entre as assertivas de que o TJSP não se pronunciou sobre a alegação de ofensa ao art. 166 do CC e o reconhecimento de que não haveria omissão com relação ao tema.
+Nas razões do recurso especial, afirmou-se contrariedade aos arts. 166 e 167 do CC/02 e 32 da Lei n.º 4.591/64, pois não seria possível reconhecer a prevalência da compra e venda em detrimento da dação em pagamento, uma vez que aquele primeiro negócio jurídico ocorreu ilicitamente antes do arquivamento da incorporação imobiliária e com graves indícios de simulação.
+O acórdão embargado afirmou que a alegação de ofensa aos arts. 166 e 167 do CC, da forma como indicada, não estaria prequestionada, merecendo aplicação, por isso, as Súmulas n.os 282 e 356 do STF.
+Ressalte-se que a indicação de ofensa aos arts. 489 e 1.022 do CPC, também apresentada no recurso especial, não está voltada a esse tema, consoante se pode observar da leitura do relatório.
+Impossível admitir, assim, que houve a contradição alegada entre a aplicação dos mencionados óbices sumulares e a rejeição de ofensa aos arts. 489 e 1.022 do CPC.
+(3) a (6) Demais temas
+Com relação aos demais temas, não foi demonstrado nenhum vício de omissão, contradição ou obscuridade no acórdão embargado a ensejar a integração do julgado.
+Com efeito, as alegações trazidas nesses itens buscam, na realidade, rediscutir o próprio mérito do acórdão embargado, o que não se pode admitir.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VÍCIO NO JULGADO. NÍTIDA PRETENSÃO DE REJULGAMENTO DO RECURSO. E MBARGOS REJEITADOS.
+1. Os embargos de declaração poderão ser opostos com a finalidade de eliminar da decisão qualquer erro material, obscuridade, contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento, o que não é o caso dos autos.
+2. É descabida a pretensão da parte embargada de aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015, na hipótese, porquanto inexistente o caráter protelatório apontado.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EAREsp n. 2.157.279/RS, relator Ministro MARCO AURÉLIO BELLIZZE, Segunda Seção, julgado em 14/11/2023, DJe de 17/11/2023)
+Nessas condições, ACOLHO PARCIALMENTE os embargos de declaração, sem efeitos infringentes, apenas para corrigir os erros materiais apontados acima.
+É o voto.
