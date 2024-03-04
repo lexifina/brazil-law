@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. CONTRATO ADMINISTRATIVO. EXCESSO DE EXECUÇÃO. JUROS DE MORA. REGIME APLICÁVEL. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO ORA EMBARGADO.
+1. Os embargos de declaração representam recurso de fundamentação vinculada ao saneamento de omissão, contradição, obscuridade ou erro material, não se prestando, contudo, ao mero reexame da causa, como pretende a parte embargante.
+2. Inocorrência de vício quanto aos temas da possibilidade de reconhecimento ex officio de excesso de execução e do regime de juros de mora do art. 1º-F da Lei 9.494/1997 (com a redação dada pela Lei 11.960/2009), matérias examinadas de modo integral e suficiente pela Segunda Turma.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pela Mendes Júnior Engenharia S/A contra acórdãos da Segunda Turma assim ementados:
+PROCESSUAL CIVIL. CONTRATO ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. JUROS DE MORA. ART. 1º-F DA LEI 9.494/1997, COM A REDAÇÃO DADA PELA LEI 11.960/2009. OBSERVÂNCIA À COISA JULGADA. NECESSIDADE. AGRAVO INTERNO PROVIDO EM PARTE.
+1. Na decisão agravada, em consideração do que firmado pela Primeira Seção no julgamento do Tema Repetitivo 905 (REsp 1.495.144/RS), foi conhecido do agravo para conhecer em parte do recurso especial do Estado do Maranhão para, nessa extensão, dar-lhe parcial provimento, para que o seu débito seja pago nos seguintes termos: (a) até dezembro/2002: juros de mora de 0,5% ao mês; correção monetária de acordo com os índices previstos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro/2001; (b) no período posterior à vigência do CC/2002 e anterior à vigência da Lei 11.960/2009: juros de mora correspondentes à taxa Selic, vedada a cumulação com qualquer outro índice; (c) período posterior à vigência da Lei 11.960/2009: juros de mora segundo o índice de remuneração da caderneta de poupança; correção monetária com base no IPCA-E.
+2. Ocorre que o regime de juros moratórios não poderia ser modificado em relação ao período anterior à entrada em vigor do Código Civil de 2002, uma vez que transitada em julgado sentença que estipulara incidência de juros de mora de 12% ao ano (mas não até o efetivo pagamento). Quanto à correção monetária, inaplicável a atual redação do art. 1º-F da Lei 9.494/2007, por isso permanece o regime da tabela utilizada pelo TJ/MA.
+3. Agravo interno parcialmente provido.
+PROCESSUAL CIVIL. CONTRATO ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. RELATIVIZAÇÃO DA COISA JULGADA. FUNDAMENTAÇÃO DEFICIENTE. EXCESSO DE EXECUÇÃO. CONHECIMENTO DE OFÍCIO. POSSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS. EXORBITÂNCIA CONFIGURADA. AFASTAMENTO DA SÚMULA 7/STJ PARA FINS DE READEQUAÇÃO. POSSIBILIDADE. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. A sustentar a possibilidade de relativização da coisa julgada na hipótese dos autos, o recorrente apresentou razões recursais dissociadas da fundamentação do acórdão recorrido, deixando de impugná-la de modo objetivo. Incidência das Súmulas 284 e 283 do STF, por analogia.
+2. Nos termos da jurisprudência desta Corte, o excesso de execução é matéria de ordem pública e pode ser reconhecido de ofício. Nesses termos, deve ser restabelecida a sentença que considerara indevida a aplicação integral do índice de correção monetária de março de 1990, que alcançou 84,32% (IPC), tendo em vista que o título executivo determinou a incidência da correção somente a partir de 30/3/1990.
+3. É manifesta a exorbitância da verba honorária de 10% sobre o valor da condenação, pois, mesmo se considerada a redução de sua base de cálculo em razão do excesso de execução já referido, é inequívoco que a manutenção da fixação determinada no acórdão recorrido resultará no pagamento de honorários advocatícios de dezenas de milhões de reais, em franca desproporção em relação ao labor desempenhado pelos causídicos. Nessas circunstâncias, impõe- se o afastamento da Súmula 7/STJ para que seja restabelecida a fixação da verba honorária na sentença, de 1% sobre o valor da condenação.
+4. Agravo parcialmente provido.
+Sustenta a embargante que o acórdão que examinou o seu agravo interno não se encontra fundamentado nos termos do art. 489, § 1º, V, do CPC/2015, "no ponto em que (..) reconhece de ofício excesso de execução", pois "os acórdãos invocados para fundamentar a decisão não se prestam para este fim, porque tratam de casos distintos do que é tratado no presente processo" (fl. 1112-e) - ou seja, "nenhum deles trata da competência do STJ para reconhecer de ofício o excesso de execução" (fl. 1114-e).
+Ainda sobre o ponto, defende que os óbices das Súmulas 7/STJ e 283/STF impediriam o conhecimento do recurso do Estado do Maranhão no ponto.
+Quanto ao mais, aduz que houve erro de premissa fática ao "não considerar o 30 (31) de março de 1990 como marco do fim de um período de atualização e início de outro", pois, "Se ele é fim de um período, não haveria de incidir correção, nem mesmo pro rata, mas como início de outro, a correção é integral" (fl. 1123-e).
+Relativamente ao acórdão em que julgado o agravo interno do Estado do Maranhão, afirma que há erro de premissa fática quanto à origem dos juros moratórios, pois a fixação de juros de 12% ao ano segue cláusula contratual - ou seja, são devidos até a quitação.
+Houve impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. CONTRATO ADMINISTRATIVO. EXCESSO DE EXECUÇÃO. JUROS DE MORA. REGIME APLICÁVEL. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO ORA EMBARGADO.
+1. Os embargos de declaração representam recurso de fundamentação vinculada ao saneamento de omissão, contradição, obscuridade ou erro material, não se prestando, contudo, ao mero reexame da causa, como pretende a parte embargante.
+2. Inocorrência de vício quanto aos temas da possibilidade de reconhecimento ex officio de excesso de execução e do regime de juros de mora do art. 1º-F da Lei 9.494/1997 (com a redação dada pela Lei 11.960/2009), matérias examinadas de modo integral e suficiente pela Segunda Turma.
+3. Embargos de declaração rejeitados.
+VOTO
+A insurgência não prospera.
+É que os embargos de declaração - como recurso de fundamentação vinculada que é - tem por fim a integração do pronunciamento judicial, de forma a sanar possível obscuridade, contradição ou omissão de algum ponto do julgado, quando tais vícios estejam aptos a comprometer a verdade e os fatos postos nos autos.
+No caso, ao examinar o agravo interno do Estado do Maranhão, a Segunda Turma decidiu de modo integral e suficiente que o tema da possibilidade de reconhecimento ex officio do excesso de execução é unicamente de direito, por isso não incidente o óbice da Súmula 7/STJ.
+Quanto à incidência da Súmula 283/STF, o embargante não demonstrou na presente insurgência de que forma tal orientação impediria o exame da matéria.
+Ademais, tal preliminar não foi suscitada nas contrarrazões/contraminuta apresentadas pela ora embargante nas partes em que impugnadas as alegações de excesso de execução (e, de qualquer forma, inexistente fundamento do acórdão estadual inatacado, no que diz respeito ao tema ora examinado).
+Sobre a matéria, o Tribunal de Justiça do Estado do Maranhão reformou a sentença tão somente pelo fundamento de que o reconhecimento do excesso de execução não poderia ter sido feito de ofício por se tratar de "matéria típica de defesa", entendimento que não se coaduna com a jurisprudência do Superior Tribunal de Justiça, conforme bem demonstrado no acórdão embargado.
+Assim, foi restabelecido o entendimento adotado na sentença dos embargos à execução, que reconhecera equívoco manifesto na aplicação do índice integral de correção monetária do mês de março de 1990, in verbis:
+(..) declaro a existência de excesso de execução, determinando que os autos retornem a contadoria, para a apuração do valor real da dívida, levando em conta o dispositivo da sentença que manda calcular os juros e a correção monetária pro rata die, a contar de 30 de março de 1990 (fl. 238-e).
+Em suma, trata-se de matéria de ordem pública devidamente prequestionada, com o quadro fático suficientemente delineado para o seu exame, por isso perfeitamente possível a reforma do acórdão que indevidamente vedara o reconhecimento de ofício do excesso de execução, com o consequente restabelecimento da sentença que reconhecera o excesso e determinara o encaminhamento dos autos à contadoria para novo cálculo do crédito exequendo.
+Igualmente inexistente vício no acórdão em que julgado o agravo interno da ora agravante.
+É que não houve estipulação na sentença de que o regime de juros moratórios deveria permanecer imutável até o efetivo pagamento.
+Nessas circunstâncias, perfeitamente possível a alteração do regime por força de legislação superveniente ao trânsito em julgado da sentença.
+Em suma, a matéria foi examinada pela Segunda Turma de forma integral e suficiente, nos termos seguintes:
+(..)
+Por outro lado, a sentença acima referida determinou a incidência de juros de mora e de correção monetária a partir de 30/3/1990, de modo genérico.
+Assim, não havendo expressa determinação de que tal regime deve perdurar até o efetivo pagamento, cumpre aplicar o regime de juros moratórios da atual redação do art. 1º-F da Lei 9.494/1997, mas somente no período imediatamente seguinte à entrada em vigor da Lei 11.960/2009.
+Em suma, ante a necessidade de respeito à coisa julgada, os juros de mora no caso concreto incidem nos seguintes termos: (i) 1% ao mês até a entrada do Código Civil de 2002; (ii) relativamente ao período posterior à vigência do CC/2002 e anterior à vigência da Lei 11.960/2009, juros de mora correspondentes à taxa Selic, vedada a cumulação com qualquer outro índice; e, (iii) quanto ao período posterior à vigência da Lei 11.960/2009, incidem juros de mora segundo o índice de remuneração da caderneta de poupança (com a ressalva destacada no parágrafo anterior).
+Ademais, não foi apresentada no agravo interno a tese de que o regime fixado na sentença teria natureza contratual, por isso imune às alterações legislativas posteriores ao trânsito em julgado da sentença - ou seja, trata-se de indevida inovação veiculada por meio de embargos de declaração.
+No recurso julgado no acórdão embargado, a ora embargante limitou-se a invocar a necessidade de respeito à coisa julgada (e nada mais), nos termos seguintes (fl. 861-e) :
+Este acórdão foi alvo de recurso especial, mas a decisão quanto aos juros e à tabela a ser utilizada para o cálculo se manteve incólume, vindo a transitar em julgado.
+Quando Vossa Excelência, com a máxima vênia, determina que os juros de mora serão de 0,5% ao mês, vai de encontro ao que já estava transitado em julgado em relação a esta matéria. Os juros que transitaram em julgado foram de 1% ao mês.
+Com base nessa premissa, a matéria foi reexaminada, com resultado favorável em parte à ora embargante.
+Na realidade, o que pretende a parte embargante por meio de toda essa argumentação é o rejulgamento dos agravos internos, finalidade para a qual não se prestam os embargos de declaração.
+Não havendo omissão, obscuridade ou contradição, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+Ante o exposto, REJEITO os embargos de declaração.
+É o voto.
