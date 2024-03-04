@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS DECORRENTES DE PERSEGUIÇÃO POLÍTICA NA ÉPOCA DA DITADURA MILITAR. ANISTIA. VIOLAÇÃO DO ART 1.022 DO CPC/2015. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF e 211/STJ. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. COMPETÊNCIA DO STF. ALEGAÇÃO DE OFENSA À COISA JULGADA. ANÁLISE DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Relativamente à alegada violação ao art. 1.022 do CPC/2015, sem razão o recorrente, pois a Corte de origem decidiu de modo integral e suficiente as questões apresentadas nos embargos declaratórios opostos ao acórdão de apelação.
+2. O Tribunal de origem não discutiu os dispositivos legais apontados como violados no recurso especial. Ausente o requisito do prequestionamento, inadmissível o recurso especial. Incidência das Súmulas 211/STJ, 282 e 356/STF.
+3. Inviável a análise de matéria constitucional em recurso especial, sob pena de usurpação da competência do STF .
+4. A revisão dos fundamentos do acórdão recorrido no sentido de modificar os limites da sentença em fase de cumprimento, demanda o revolvimento do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial a teor da Súmula 7/STJ.
+5. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator): Trata-se de agravo interno interposto por ADALCY DUARTE BYRRO RIBEIRO, em face de decisão de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS DECORRENTES DE PERSEGUIÇÃO POLÍTICANA ÉPOCA DA DITADURA MILITAR. ANISTIA. VIOLAÇÃO DO ART 1.022 DO CPC/2015. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF e 211/STJ. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. COMPETÊNCIA DO STF. ALEGAÇÃO DE OFENSA À COISA JULGADA. ANÁLISE DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+A agravante reafirma a ofensa ao art. 1.022 do CPC/2015, sustentando a ocorrência de contradição e omissão do acórdão recorrido. Destaca (e-STJ, fls. 2.928/2.929):
+20. Como exaustivamente demonstrado tanto nos embargos de declaração quanto no recurso especial interpostos, o v. acórdão recorrido partiu da premissa equivocada de que a ilegalidade da reforma do Sr. Walter, esposo da Agravante, não teria sido discutida nos autos "sequer implicitamente" e que, portanto, ela seria válida e suficiente para afastar o direito às promoções por antiguidade reconhecido na sentença já transitada em julgado.
+21. Entretanto, como já ressaltado, na fase de conhecimento, o juízo de primeiro grau reconheceu de forma categórica que "o servidor destituído de suas funções públicas por ato de exceção por responsabilidade do Estado, bem como os seus herdeiros, tem direito às verbas a que faria jus se tivesse permanecido em atividade" e, com base nessa premissa, condenou a União Federal ao pagamento da pensão vitalícia que deveria ser calculada com base no soldo de 2º tenente acrescido das promoções por antiguidade que o Sr. Walter receberia caso estivesse permanecido em atividade.
+22. Ou seja, a sentença, transitada em julgado, foi clara ao estabelecer que tanto o pagamento dos danos materiais, consubstanciado nas parcelas do soldo vencidas e não pagas, como o direito à pensão vitalícia deverão ser equivalentes ao soldo de 2º tenente com todas as "verbas a que faria jus se estivesse permanecido em atividade" e não ao pagamento do soldo de 2º tenente sem qualquer promoção ou, ainda, ao pagamento do soldo de 2º tenente com as promoções aplicáveis aos militares reformados, como foi entendido pelos v. acórdãos recorridos.
+23. Assim, por óbvio que esse direito à pensão com todas as promoções por antiguidade que o Sr. Walter teria direito "caso estivesse permanecido em atividade" se deu como consequência lógica da ilegalidade da reforma. Caso contrário, a sentença apenas teria reconhecido o direito ao recebimento de pensão no valor do soldo de 2º tenente.
+(..)
+28. Do mesmo modo, restou configurada a negativa de prestação jurisdicional em razão da ausência de apreciação da violação à coisa julgada, sendo descabido o argumento de que o Tribunal de origem se restringiu ao pedido e a causa de pedir, expressos na inicial e presentes na fundamentação do decisum.
+Afirma ter havido o prequestionamento do art. 2º da Lei n. 10.559/2002, em virtude da provocação efetuada nas razões do agravo de instrumento e de embargos declaração. Nesse cenário, argumenta (e-STJ, fl. 2.931):
+39. Ao restarem suscitados, em sede de embargos de declaração, os artigos tidos por violados, consideram-se estes incluídos no acórdão recorrido. Nessa esteira, o artigo 1.025 do CPC/15 consagrou a tese do prequestionamento ficto.
+Reitera a insurgência fundada no art. 8º dos ADCT, requerendo a remessa dos autos STF para análise da questão constitucional debatida.
+Por fim, insurge-se contra o óbice da Súmula n. 7/STJ, aduzindo que (e-STJ, fl. 2.934):
+56. As questões jurídicas em debate no Recurso Especial não exigem a análise fato ou reexame de prova, tratando-se de matérias unicamente de direito, dependendo, assim, unicamente da análise estritamente de direito dos fatos incontroversos descritos no v. acórdão recorrido e das questões jurídicas trazidas pela Agravante com o objetivo de sanar as claríssimas violações à legislação federal.
+57. Assim, o que se discute nesse recurso é a conclusão jurídica adotada pelo acórdão recorrido a partir das premissas de fato que restaram incontroversas,
+(..)
+58. A partir das premissas de fato acima destacadas, que são incontroversas e foram enfrentadas pelo Juízo de primeiro grau e pelo TRF2 no julgamento do Agravo de Instrumento interposto, a Agravante busca a revaloração jurídica e manifestação desta e. Corte Superior sobre a possibilidade de reforma ou até mesmo de uma nova interpretação restritiva, durante a fase de cumprimento de sentença, de uma sentença judicial transitada em julgado. 5
+9. Assim, a pretensão da Agravante não é a rediscussão de matéria fática, mas sim a reversão da flagrante violação da coisa julgada que o Juízo de primeiro grau incorreu, em decisão mantida pelo e. TRF2.
+Requer a reconsideração da decisão agravada ou a apreciação do agravo interno pelo órgão colegiado.
+Contraminuta às fls. 2.942/2.944 e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS DECORRENTES DE PERSEGUIÇÃO POLÍTICA NA ÉPOCA DA DITADURA MILITAR. ANISTIA. VIOLAÇÃO DO ART 1.022 DO CPC/2015. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF e 211/STJ. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. COMPETÊNCIA DO STF. ALEGAÇÃO DE OFENSA À COISA JULGADA. ANÁLISE DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Relativamente à alegada violação ao art. 1.022 do CPC/2015, sem razão o recorrente, pois a Corte de origem decidiu de modo integral e suficiente as questões apresentadas nos embargos declaratórios opostos ao acórdão de apelação.
+2. O Tribunal de origem não discutiu os dispositivos legais apontados como violados no recurso especial. Ausente o requisito do prequestionamento, inadmissível o recurso especial. Incidência das Súmulas 211/STJ, 282 e 356/STF.
+3. Inviável a análise de matéria constitucional em recurso especial, sob pena de usurpação da competência do STF .
+4. A revisão dos fundamentos do acórdão recorrido no sentido de modificar os limites da sentença em fase de cumprimento, demanda o revolvimento do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial a teor da Súmula 7/STJ.
+5. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator): A pretensão não merece acolhida.
+Sobre a apontada violação ao art. 1.022 do CPC/2015, a Corte de origem consignou que a pretensão de desconstituição da reforma do militar efetivada em 19/12/1950, em razão de ilegalidade do ato, não foi alvo de pronunciamento da sentença portanto, não pode ser efetuado em sede de cumprimento de sentença. Além disso, o r. juízo apreciou a alegada violação à coisa julgada, reconhecendo a extensão do pedido e a causa de pedir, expressos na inicial e presentes na fundamentação do decisão final.
+Nessas circunstâncias, não há falar em negativa de prestação jurisdicional, e sim de pretensão de rejulgamento da causa, finalidade para a qual não se prestam os embargos de declaração.
+O Tribunal de origem não se pronunciou sobre o art. 2º, da Lei n. 1.0559/2002, sendo inafastável, portanto, a incidência da Súmula n. 282/STF.
+Acrescente-se a inviabilidade de análise do art. 8º dos ADCT, matéria de ordem constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Por fim, a Corte de origem realizou juízo de natureza fática definir os limites da coisa julgada, de maneira que a adoção de conclusão em sentido contrário ao que ficou expressamente consignado no acórdão atacado  para se reconhecer eventual inobservância da decisão exequenda e violação da extensão da coisa julgada  , impõe o necessário reexame de matéria de fato. Dessa forma, inafastável também o óbice da Súmula n. 7/STJ.
+Assim, a decisão agravada se mantém por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
