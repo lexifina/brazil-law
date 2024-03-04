@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PROTOTYPUS ARQUITETURA E ENGENHARIA LTDA. contra a decisão que inadmitiu o recurso especial em razão de não ter sido demonstrada a alegada vulneração dos dispositivos de lei arrolados e de incidir na espécie a Súmula n. 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo de Instrumento n. 2003000-71.2023.8.26.0000) assim ementado (fl. 156):
+Agravo de instrumento. Decisão que dá por válida e regular a citação realizada no enderenço contratual da agravante. Inteligência do parágrafo único do art. 274 do diploma processual civil. Necessidade de a devedora comunicar mudança de endereço. Ônus que lhe competia.
+Decisão mantida. Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts. 238, 248, §§ 1º, 2º e 4º, e 274 do Código de Processo Civil.
+Alega que houve equívoco no reconhecimento de validade da citação e intempestividade de contestação, "mesmo que tenha sido apontado, através de juntada de documentos suficientes, que a citação foi recebida por pessoa que não correspondia a pessoa com poderes de gerência geral ou de administração nem mesmo há prova de que seria o funcionário responsável pelo recebimento de correspondências. Pecou, assim, a decisão recorrida quanto à valoração jurídica adequada das provas constantes dos autos" (fl. 173).
+Afirma que "não há elementos nos autos que garantam que a carta de citação tenha chegado ao seu destinatário. Isso porque não há nos autos identificação de que a pessoa que recebeu a carta possua poderes de gerência geral ou de administração ou, ainda, que seria funcionário responsável pelo recebimento de correspondências" (fl. 174).
+Assevera que, "embora a carta de citação tenha sido endereçada a um condomínio edilício, não há elementos suficientes a identificar que a carta de citação tenha sido recebida pelo funcionário da portaria responsável pelo recebimento de correspondências" (fl. 174).
+Sustenta que "há prova nos autos de que a empresa já não se encontrava mais instalada, embora não tivesse alterado seu endereço perante a JUCESP, até mesmo por falta de tempo hábil, uma vez que não é crível que a recorrente teria conseguido efetuar a alteração do endereço no lapso temporal reduzido entre o dia em que se deu mudança, em 28 de fevereiro de 2022 e a data da entrega da carta, em 07 de março de 2022, a terceiro alheio à pessoa jurídica, identificado no AR" (fl. 174).
+Argumenta que "a situação jurídica que é tutelada pelo artigo 274 do código processual, por outro lado, corresponde aos casos em que, após devidamente citada e regularmente ingressar à relação jurídico-processual, a parte muda o endereço em que poderá receber intimações e deixa de comunicar tal mudança ao juízo, sendo presumidas válidas todas as intimações realizadas no endereço originalmente informado pela própria parte, quem deixou de cumprir com o ônus de manter seus endereços atualizados" (fl. 178).
+Defende que "tal situação, como já indicado, é completamente distinta da que se observa nos autos, não podendo o dispositivo de tal artigo ser utilizado como fundamento para o desprovimento do recurso como o utilizou o Tribunal de origem, uma vez que não se está diante de situação em que houve a citação válida da parte e ela alterou o seu endereço e não comunicou tal mudança ao juízo pra receber intimações subsequentes" (fl. 178).
+Requer o conhecimento e provimento do recurso.
+As contrarrazões não foram apresentadas (fl. 200).
+É o relatório. Decido.
+Trata-se na origem de agravo de instrumento interposto contra decisão interlocutória que julgou válida a citação realizada.
+Arguiu-se que a citação é nula, pois foi feita em endereço onde não mais estava domiciliada a parte.
+O Tribunal a quo, soberano na análise dos fatos e provas dos autos, concluiu que a citação fora válida, pois cumprida no endereço constante do contrato social e do cadastro nacional da pessoa jurídica.
+Confira-se trecho do acórdão (fl. 157):
+De conformidade com o parágrafo único do art. 274:
+"Parágrafo único. Presumem-se válidas as intimações dirigidas ao endereço constante dos autos, ainda que não recebidas pessoalmente pelo interessado, se a modificação temporária ou definitiva não tiver sido devidamente comunicada ao juízo, fluindo os prazos a partir da juntada aos autos do comprovante de entrega da correspondência no primitivo endereço"..  grifei
+Era ônus da agravante comunicar à credora a mudança efetivada;
+Sendo assim, correta a compreensão do juiz de origem que estabeleceu que "o endereço onde ocorreu a citação do réu é o mesmo que consta do seu contrato social (fls. 100/103) e do cadastro nacional da pessoa jurídica (fl.135)".
+Bem por isso, destacou ser do recorrente o ônus de "manter seu endereço atualizado".
+Corretamente deu por válida e regular "a citação", reputando-se "intempestiva a contestação".
+Mantém-se, por isso, a decisão hostilizada.
+Desse modo, para rever a conclusão adotada na origem e acatar a tese recursal de que a citação é nula, seria imprescindível o reexame fático-probatório dos autos, medida vedada em recurso especial, em face do óbice da Súmula n. 7 do STJ.
+Ademais, essa conclusão se coaduna com a jurisprudência do STJ de que é válida a citação da pessoa jurídica realizada no endereço constante do cadastro pertinente.
+Nessa linha de entendimento:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DO AGRAVANTE.
+1. Conforme entendimento desta Corte, é válida a citação da pessoa jurídica, realizada no endereço de sua sede, mesmo que recebida por pessoa que não tinha poderes expressos para tal, mas não recusou a qualidade de funcionário, tampouco fez qualquer ressalva, devendo prevalecer, no caso, a teoria da aparência. Súmula 83/STJ.
+2. Para alterar a conclusão da Corte local no sentido de que a citação foi realizada no endereço da parte agravante, cadastrado perante a Junta Comercial, antes do término da locação, quando imóvel ainda estava sob sua responsabilidade, seria necessário promover o reexame do acervo fático-probatório dos autos, providência vedada na via eleita, a teor do óbice da Súmula 7/STJ.
+3. Agravo interno desprovido. (AgInt no AREsp n. 2.378.649/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 30/10/2023, DJe de 3/11/2023.)
+Incide na espécie, portanto, a Súmula n. 83 do STJ.
+Registre-se que o Tribunal de origem concluiu que a citação era válida, sem adentrar as teses recursais de que a pessoa que recebera a citação não tinha poderes de gerência ou de administração e não era responsável pelo recebimento de correspondências; de que não há identificação da pessoa que recebeu a carta citatória; e de que não houve tempo hábil para comunicar a mudança de endereço.
+Caso, pois, de aplicação das Súmulas n. 282 do STF e 211 do STJ.
+Segundo reiterada jurisprudência desta Corte, para que se tenha por prequestionada determinada matéria, é necessário que a questão tenha sido objeto de debate à luz da legislação federal indicada, com a imprescindível manifestação pelo tribunal de origem, que deverá emitir juízo de valor acerca dos dispositivos legais ao decidir por sua aplicação ou afastamento no caso concreto, o que não ocorreu na espécie.
+Assim, como a diretriz jurisprudencial do STJ é no sentido da imprescindibilidade do exame na origem das questões suscitadas pela parte na instância especial, é oportuno ressaltar que, para reconhecer o prequestionamento ficto de que trata o art. 1.025 do CPC de 2015 e, consequentemente, superar o óbice da Súmula n. 211 do STJ, caberia à parte alegar contrariedade ao art. 1.022 do diploma processual, o que, todavia, não fez.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/15. AÇÃO DE REPETIÇÃO DE INDÉBITO CUMULADA COM INDENIZATÓRIA. RESPONSABILIDADE SOLIDÁRIA ADVOGADOS. VIOLAÇÃO. PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. MANIFESTAÇÃO SOBRE OFENSA A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA PELO TRIBUNAL. INCIDÊNCIA DA SÚMULA Nº 211 DESTA CORTE. INOCORRÊNCIA DO PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO NCPC. NECESSIDADE DE SE APONTAR VIOLAÇÃO DO ART. 1.022 DO NCPC. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este agravo interno ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. As matérias contidas nos arts. 513 e 523 do CPC/73, apontados como violados no recurso especial, não foram enfrentadas pelo Tribunal estadual, nem mesmo após a oposição dos embargos de declaração.
+2.1. Caberia à parte, nas razões do seu especial, alegar a violação do art. 1.022 do NCPC a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado sobre o tema, o que não ocorreu. Precedentes. Aplicação da Súmula nº 211 do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido. (AgInt no REsp n. 1.814.157/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 30/5/2022, DJe de 1º/6/2022.)
+Confiram-se ainda estes precedentes: AgInt no AREsp n. 2.062.460/GO, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 12/9/2022, DJe de 15/9/2022; AgInt no AREsp n. 2.067.624/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022; AgInt no REsp n. 1.904.155/AP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/8/2022, DJe de 1º/9/2022.
+Ante o exposto, nego provimento ao agravo.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
