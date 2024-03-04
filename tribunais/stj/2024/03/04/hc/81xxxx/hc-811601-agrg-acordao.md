@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIOS QUALIFICADOS CONSUMADOS E TENTADOS. ALEGADO EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. INSTRUÇÃO CRIMINAL ENCERRADA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. POSTERIOR CONDENAÇÃO DO AGRAVANTE PELO TRIBUNAL DO JÚRI. AGRAVO REGIMENTAL DESPROVIDO.
+1. O conjunto dos atos praticados evidencia normal tramitação do processo, tendo em vista que houve prolação de decisão de pronúncia e análise posterior quanto à manutenção da prisão preventiva.
+2. Ademais, das informações obtidas no endereço eletrônico do Tribunal de origem, verificou-se que o ora agravante foi submetido à julgamento pelo Tribunal do Júri em 25/09/2023, em que foi condenado à pena de 86 anos e 8 meses de reclusão em regime inicial fechado, pela prática dos crimes previstos no art. 121, §2º, I e IV, do Código Penal, por três vezes, e art. 121, § 2º, I e IV, c/c art. 14, II, do Código Penal, por duas vezes, com a manutenção da sua prisão preventiva, ficando superada a alegação de constrangimento ilegal por excesso de prazo.
+3. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por WILLAMIS DA SILVA contra decisão monocrática proferido pelo Ministro João Batista Moreira (Desembargador convocado do TRF1) que indeferiu a ordem de habeas corpus (e-STJ fls. 212-216).
+A defesa alega: a) excesso de prazo da prisão preventiva, em razão de se encontrar segregado há mais de 02 anos e 04 meses; b) "Não há particularidades no processo a justificar tamanha demora no julgamento. O recorrente, bem como a Defensoria Pública em nada contribuíram para tal quadro de espera" (e-STJ fl. 228); c) necessidade de mitigação da Súmula nº 21/STJ.
+Requer reconsideração da decisão agravada ou, caso assim não se entenda, apresentação do processo para julgamento colegiado para que seja dado provimento ao recurso.
+Contrarrazões apresentadas (e-STJ fls. 240-244).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIOS QUALIFICADOS CONSUMADOS E TENTADOS. ALEGADO EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. INSTRUÇÃO CRIMINAL ENCERRADA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. POSTERIOR CONDENAÇÃO DO AGRAVANTE PELO TRIBUNAL DO JÚRI. AGRAVO REGIMENTAL DESPROVIDO.
+1. O conjunto dos atos praticados evidencia normal tramitação do processo, tendo em vista que houve prolação de decisão de pronúncia e análise posterior quanto à manutenção da prisão preventiva.
+2. Ademais, das informações obtidas no endereço eletrônico do Tribunal de origem, verificou-se que o ora agravante foi submetido à julgamento pelo Tribunal do Júri em 25/09/2023, em que foi condenado à pena de 86 anos e 8 meses de reclusão em regime inicial fechado, pela prática dos crimes previstos no art. 121, §2º, I e IV, do Código Penal, por três vezes, e art. 121, § 2º, I e IV, c/c art. 14, II, do Código Penal, por duas vezes, com a manutenção da sua prisão preventiva, ficando superada a alegação de constrangimento ilegal por excesso de prazo.
+3. Agravo regimental improvido.
+VOTO
+Inicialmente, tendo em vista que a decisão impugnada foi publicada em 03/08/2023 (e-STJ fl. 217) e a Defensoria Pública foi intimada eletronicamente em 14/08/2023 (e-STJ fl. 223), cumpre atestar a tempestividade da insurgência, pois interposta no dia 23/08/2023 (e-STJ fl. 233), ou seja, dentro do prazo em dobro previsto em lei para o órgão.
+O agravante foi preso preventivamente e pronunciado pela suposta prática dos crimes previstos nos artigos 121, § 2º, I e IV (três vezes); e 121, § 2º, I e IV, c/c o art. 14, II (duas vezes); todos do Código Penal.
+No caso, a denúncia foi recebida em 31/03/2021. A ordem prisional contra o paciente foi cumprida no dia 08/04/2021, tendo sido reavaliada e mantida em 24/08/2021 e em 24/02/2023. A coleta judicial de provas foi iniciada em 26/05/2022 e finalizada em 06/09/2022. Em 10/11/2022 foram proferidas decisões de pronúncia de parte dos réus e de impronúncia quanto aos demais e, em 26/07/2023, foi mantida a decisão anterior quanto à prisão processual do paciente.
+Ademais, das informações obtidas no endereço eletrônico do Tribunal de origem, verificou-se que o ora agravante foi submetido à julgamento pelo Tribunal do Júri em 25/09/2023, em que foi condenado à pena de 86 anos e 8 meses de reclusão em regime inicial fechado, pela prática dos crimes previstos no art. 121, §2º, I e IV, do Código Penal, por três vezes, e art. 121, § 2º, I e IV, c/c art. 14, II, do Código Penal, por duas vezes, com a manutenção da sua prisão preventiva.
+Assim, o conjunto dos atos praticados evidencia normal tramitação do processo, tendo em vista que já há sentença condenatória, não havendo como se constatar o alegado excesso de prazo.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA. PORTE ILEGAL DE ARMA DE FOGO. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. INOCORRÊNCIA. SÚMULA 52/STJ. PROLAÇÃO DE SENTENÇA CONDENATÓRIA. RECURSO PREJUDICADO.
+ ..
+3. Em consulta ao andamento processual junto ao site do Tribunal de origem, verifica-se que a sessão do Tribunal do Júri foi realizada no dia 29/04/2022 às 09h00, ocasião em que o paciente foi absolvido do crime de porte ilegal de arma de fogo de uso restrito e condenado a "55 anos e dois meses de reclusão pelos crimes de homicídio doloso qualificado por recurso que dificultou a defesa da vítima, contra maior de 60 anos; duas tentativas de homicídio doloso qualificadas por recurso que dificultou a defesa da vítima; uma tentativa de homicídio doloso qualificada por recurso que dificultou a defesa da vítima, contra maior de 60 anos; e associação criminosa armada."
+4. A dificuldade na designação de uma data para a sessão do júri decorreu da complexidade do caso, do número de réus envolvidos e da logística necessária para se realizar uma sessão que envolve integrantes de facção criminosa durante a pandemia, o que exigiu das autoridades muito cuidado para garantir a segurança dos participantes e o necessário distanciamento social.
+5. Não evidenciada mora estatal em ação penal em que a sucessão de atos processuais infirma a ideia de paralisação indevida da ação penal, ou de desidia do Estado persecutor, não se vê demonstrada ilegalidade no prazo da persecução criminal desenvolvida.
+6. Diante do teor da Súmula 52 do STJ e da prolação da sentença condenatória, fica superada a alegação de constrangimento ilegal por excesso de prazo.
+7. Agravo regimental prejudicado.
+(AgRg no HC n. 700.977/RS, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 14/6/2022, DJe de 20/6/2022.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. HOMICÍDIO QUALIFICADO. NEGATIVA DE MATERIALIDADE E AUTORIA. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA QUE NÃO AGREGA FUNDAMENTOS AO DECRETO PRISIONAL. AUSÊNCIA DE PREJUDICIALIDADE. IMPOSSIBILIDADE NA VIA ELEITA. PRISÃO PREVENTIVA. REVOGAÇÃO DA CUSTÓDIA. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE EVIDENCIADA. MODUS OPERANDI. RÉU QUE PERMANECEU PRESO DURANTE TODA A INSTRUÇÃO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. INSUFICIÊNCIA DAS MEDIDAS CAUTELARES ALTERNATIVAS. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. HABEAS CORPUS NÃO CONHECIDO.
+1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+2. É inadmissível o enfrentamento das alegações acerca da negativa da materialidade e autoria delitivas, ante a necessária incursão probatória, incompatível com a via estreita do habeas corpus.
+3. Esta Quinta Turma possui firme entendimento no sentido de que a manutenção da custódia cautelar por ocasião de sentença condenatória superveniente não possui o condão de tornar prejudicado o habeas corpus em que se busca sua revogação, quando não agregados novos e diversos fundamentos ao decreto prisional primitivo.
+ ..
+6. Tendo o paciente permanecido preso durante toda a instrução processual, não deve ser permitido recorrer em liberdade, especialmente porque, inalteradas as circunstâncias que justificaram a custódia, não se mostra adequada sua soltura após a condenação pelo Tribunal do Júri.
+7. A presença de condições pessoais favoráveis do agente, como primariedade, domicílio certo e emprego lícito, não representa óbice, por si só, à decretação da prisão preventiva, quando identificados os requisitos legais da cautela.
+8. Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+9. Com o encerramento da instrução criminal, restam superadas as alegações de constrangimento por excesso de prazo, nos termos do enunciado n. 52 da Súmula do STJ.
+10. Habeas corpus não conhecido.
+(HC n. 485.201/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/12/2019, DJe de 19/12/2019.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto
