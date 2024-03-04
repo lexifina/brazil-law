@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. SÚMULA N. 182/STJ.
+1. A ausência de efetiva impugnação aos fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, atrai a incidência do art. 1.021, § 1º, do CPC e da Súmula n. 182 desta Corte.
+2. É entendimento desta Corte Superior que, "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, rel. Min. Og Fernandes, DJe 18/11/2016).
+3. Quanto à Súmula 83/STJ, esta Corte firmou o entendimento de que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/10/2016, DJe 28/10/2016), o que não ocorreu no caso destes autos" (AgRg no AREsp n. 637.462/SP, Quinta Turma, rel. Min. Ribeiro Dantas, DJe de 1º/8/2017).
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial, por ausência de impugnação específica (Súmula n. 182/STJ).
+O agravante, em suas razões, tece considerações de cunho doutrinário, mormente a respeito da Súmula n. 7/STJ.
+Requer "seja conhecido e provido o presente recurso para o fim de reformar a decisão monocrática que não conheceu do agravo em recurso especial para reconsiderar-se a decisão agravada para que seja o agravo e o recurso especial conhecido e seja também seja provido nos termos da fundamentação delineada em ambos" (fl. 564).
+Intimada a se manifestar, a parte contrária não apresentou impugnação.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. SÚMULA N. 182/STJ.
+1. A ausência de efetiva impugnação aos fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, atrai a incidência do art. 1.021, § 1º, do CPC e da Súmula n. 182 desta Corte.
+2. É entendimento desta Corte Superior que, "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, rel. Min. Og Fernandes, DJe 18/11/2016).
+3. Quanto à Súmula 83/STJ, esta Corte firmou o entendimento de que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/10/2016, DJe 28/10/2016), o que não ocorreu no caso destes autos" (AgRg no AREsp n. 637.462/SP, Quinta Turma, rel. Min. Ribeiro Dantas, DJe de 1º/8/2017).
+4. Agravo regimental improvido.
+VOTO
+O recurso não comporta provimento.
+Trata-se de agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial, assim fundamentada (fl. 559-560):
+Cuida-se de agravo em recurso especial apresentado por OTONIEL MARTINS LEAL contra decisão que inadmitiu recurso especial interposto com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 83/STJ e Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial. A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp 746.775/PR, relator Ministro João Otávio de Noronha, relator p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Compulsadas as razões do agravo em recurso especial, verifica-se que o agravante não impugnou a incidência das Súmulas n. 7 e 83 do STJ, pois se limitou a apenas tecer observações doutrinárias, mormente em relação ao primeiro óbice.
+Quanto à incidência da Súmula n. 7/STJ, é entendimento desta Corte Superior que, "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, rel. Min. Og Fernandes, DJe 18/11/2016).
+No que tange à incidência da Súmula n. 83/STJ, sabe-se que, "Para impugnar a incidência da Súmula 83 do STJ, o agravante deve demonstrar que os precedentes indicados na decisão agravada são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ." (AgRg no AREsp n. 2.024.908/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 7/2/2023, DJe de 14/2/2023.)
+Assim, não havendo impugnação a todos os fundamentos da decisão agravada, incide, no caso, a Súmula n. 182/STJ.
+Nos termos dos arts. 1.021, § 1º, do CPC; 253, parágrafo único, I, do RISTJ; e da Súmula n. 182 do STJ, aplicável por analogia, ao recorrente incumbe demonstrar o equívoco da decisão contra a qual se insurge, sendo imprescindível que impugne especificamente todos os óbices por ela apontados. A esse respeito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. DECI SÃO AGRAVADA. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182 DO STJ. DECISÃO DE INADMISSÃO DO APELO NOBRE. CAPÍTULOS AUTÔNOMOS. INEXISTÊNCIA. HABEAS CORPUS DE OFÍCIO. UTILIZAÇÃO COMO MEIO PARA ANÁLISE DO MÉRITO DO RECURSO INADMITIDO. DESCABIMENTO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Ausente a impugnação concreta ao fundamento da decisão agravada, que não conheceu do agravo em recurso especial, tem aplicação a Súmula n. 182 do Superior Tribunal de Justiça.
+ ..
+(AgRg no AREsp n. 2.166.373/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe de 19/12/2022).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PORTE ILEGAL DE MUNIÇÕES DE USO PERMITIDO ABSOLVIÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. RECURSO NÃO CONHECIDO.
+1. O agravante limitou-se a reiterar as teses já expendidas, não logrando êxito em rebater os fundamentos da decisão agravada.
+Incidência da Súmula n. 182 do Superior Tribunal de Justiça - STJ.
+2. Agravo regimental não conhecido (AgRg no HC n. 762.877/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/12/2022, DJe de 14/12/2022).
+Ante o e xposto, nego provimento ao agravo regimental.
+É o voto.
