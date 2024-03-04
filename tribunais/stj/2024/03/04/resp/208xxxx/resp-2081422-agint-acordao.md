@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. NULIDADE DA INTIMAÇÃO EDITALÍCIA. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRADO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O acórdão recorrido se apoiou em dois substanciais fundamentos, qualquer deles suficiente para manter o julgado: i) a questão sub examine não ter sido objeto de postulação e ii) a validade da notificação por edital, na hipótese de inaptidão do CNPJ.
+III - O primeiro fundamento não foi impugnado, repercutindo na inadmissibilidade do recurso, visto que esta Corte tem firme posicionamento segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Colendo Supremo Tribunal Federal.
+IV - Consoante orientação con solidada neste Superior Tribunal, havendo mais de um fundamento no acórdão impugnado, suficiente para manter o julgado, a divergência deve abordar todos eles, sob pena de restar fundamento não rebatido.
+V - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto contra a decisão que acolheu os embargos de declaração, para, atribuindo-lhes excepcionais efeitos infringentes, afastar a incidência da Súmula n. 7/STJ, mantendo, contudo, a inadmissibilidade do recurso especial, por fundamento diverso.
+Sustentam as Agravantes, em síntese, a inaplicabilidade da Súmula n. 283/STF e o cotejo analítico.
+Argumentam a nulidade do processo administrativo fiscal e apontam que "pleiteou a indenização, mediante conversão em perdas e danos, inclusive apontando afronta, contradição e negativa de vigência dos arts. 497 e 499 do CPC, durante todos os graus de jurisdição" (fl. 1.574e).
+Defendem que "SE A INTIMAÇÃO EDITALÍCIA FOR CONSIDERADA NULA, O MESMO EFEITO SE ESTENDE AO PROCESSO ADMINISTRATIVO FISCAL. ESTES DOIS TÓPICOS SÃO INTERDEPENDENTES, SENDO QUE A NULIDADE DO PROCESSO ADMINISTRATIVO FISCAL É TÃO SOMENTE UMA CONSEQUÊNCIA DA (I)LEGALIDADE DA INTIMAÇÃO EDITALÍCIA, NÃO SENDO POSSÍVEL O ACÓRDÃO SE SUSTENTAR TÃO SOMENTE POR TAL FUNDAMENTO" (fl. 1.576e).
+Afirmam que todos os pontos do acórdão recorrido capazes de sustentar a decisão foram impugnados, não havendo se falar em óbice à Súmula n. 283/STF.
+Aduzem que "a decisão quanto a conversão - ou não - em perdas e danos está devidamente confrontada em todas as peças da Recorrente e, consequentemente, em todos os graus de jurisdição. Ademais, trata-se de matéria consequente do ponto nodal da lide, qual seja, a validade da citação editalícia. Nesse sentido, ainda que os fundamentos do tópico anterior sejam suficientes para a admissibilidade do Recurso Especial e, por consequência lógica, não carecem de cotejo analítico, visto serem oriundos de previsão legal dos art. 497 e 499 do CPC (conversão em perdas e danos), importante frisar que a Recorrente realizou o devido Cotejo do acórdão paradigma, demonstrando a verossimilhança entre as decisões dos distintos tribunais" (fl. 1.577e).
+Ademais, alegam a desnecessidade de apontamento da divergência jurisprudencial, quando o fundamento do REsp é a ofensa à lei infraconstitucional.
+Por fim, requerem o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Transcorreu in albis o prazo para impugnação (certidão de fl. 1.593e).
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. NULIDADE DA INTIMAÇÃO EDITALÍCIA. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRADO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O acórdão recorrido se apoiou em dois substanciais fundamentos, qualquer deles suficiente para manter o julgado: i) a questão sub examine não ter sido objeto de postulação e ii) a validade da notificação por edital, na hipótese de inaptidão do CNPJ.
+III - O primeiro fundamento não foi impugnado, repercutindo na inadmissibilidade do recurso, visto que esta Corte tem firme posicionamento segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Colendo Supremo Tribunal Federal.
+IV - Consoante orientação con solidada neste Superior Tribunal, havendo mais de um fundamento no acórdão impugnado, suficiente para manter o julgado, a divergência deve abordar todos eles, sob pena de restar fundamento não rebatido.
+V - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+VOTO
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Não assiste razão às Agravantes.
+I. Do fundamento não impugnado
+No caso, verifico que o tribunal de origem se apoiou em dois substanciais fundamentos, qualquer deles suficiente para manter o julgado: i) a questão sub examine não ter sido objeto de postulação e ii) a validade da notificação por edital, na hipótese de inaptidão do CNPJ (fls. 1.348/1349e).
+Contudo, o primeiro fundamento não foi refutado nas razões recursais, repercutindo na inadmissibilidade do recurso, visto que esta Corte tem firme posicionamento segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Colendo Supremo Tribunal Federal: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OCUPAÇÃO DE TERRA PÚBLICA. ÁREA DE PRESERVAÇÃO PERMANENTE. DEMOLIÇÃO DE CONSTRUÇÃO. OMISSÃO NÃO CARACTERIZADA. INTERPRETAÇÃO DE LEI LOCAL. SÚMULA N. 280 DO STF. ACÓRDÃO A QUO QUE CONCLUI, COM BASE NOS FATOS E PROVAS DOS AUTOS, PELA IRREGULARIDADE DA EDIFICAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. FUNDAMENTO AUTÔNOMO INATACADO. SÚMULA N. 283 DO STF. ALEGADA VIOLAÇÃO À LEI FEDERAL. DISPOSITIVOS NÃO INDICADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF.
+(..)
+4. A argumentação do recurso especial não atacou o fundamento autônomo e suficiente empregado pelo acórdão recorrido para decidir que o Código de Edificações do Distrito Federal autoriza à Administração Pública, no exercício regular do poder de polícia, determinar a demolição de obra irregular, inserida em área pública e de preservação permanente. Incide, no ponto, a Súmula 283/STF.
+5. Revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a tecer alegações genéricas, sem, contudo, apontar especificamente qual dispositivo de lei federal foi contrariado pelo Tribunal a quo, fazendo incidir a Súmula 284 do STF.
+6. Agravo regimental não provido.
+(AgRg no AREsp 438.526/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 08/08/2014.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. FASE DE EXECUÇÃO DE SENTENÇA CONDENATÓRIA POR ATO DE IMPROBIDADE. BENS IMÓVEIS PENHORADOS, LEVADOS A HASTA PÚBLICA E ARREMATADOS. SUPERVENIÊNCIA DE DECISÃO EM AÇÃO RESCISÓRIA, RESCINDINDO O ACÓRDÃO CONDENATÓRIO. PRETENSÃO DE ANULAÇÃO DAS ARREMATAÇÕES. NECESSIDADE DE AÇÃO PRÓPRIA. IMÓVEIS QUE TERIAM SIDO ARREMATADOS POR PREÇO VIL. INDENIZAÇÃO QUE DEVE SER BUSCADA EM AÇÃO PRÓPRIA. ACÓRDÃO RECORRIDO CUJOS FUNDAMENTOS NÃO SÃO IMPUGNADOS PELAS TESES DO RECORRENTE. SÚMULA N. 283 DO STF. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC.
+(..)
+4. Com relação aos demais pontos arguidos pelo recorrente, forçoso reconhecer que o recurso especial não merece conhecimento, porquanto, além da ausência de prequestionamento das teses que suscita (violação dos artigos 687, 698 do CPC e 166, inciso IV, e 1.228 do Código Civil) (Súmula n. 211 do STJ), tem-se que as razões recursais não impugnam, especificamente, os fundamentos do acórdão recorrido, o que atrai o entendimento da Súmula n. 283 do STF.
+5. Não sendo possível o retorno ao status quo ante, deve o prejudicado pedir indenização por meio de ação própria, caso entenda que aquela arbitrada pelo juízo da execução é insuficiente para recompor sua indevida perda patrimonial.
+Recurso especial não conhecido.
+(REsp 1.407.870/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 12/08/2014, DJe 19/08/2014.)
+II. Da divergência jurisprudencial
+Anoto que a divergência jurisprudencial não está demonstrada, porquanto, consoante orientação consolidada neste Superior Tribunal, havendo mais de um fundamento no acórdão impugnado, suficiente para manter o julgado, a divergência deve abordar todos eles, sob pena de restar fundamento não rebatido.
+Nessa linha:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO. MAIS DE UM FUNDAMENTO. IMPUGNAÇÃO DE TODOS. NÃO OCORRÊNCIA. COTEJO ANALÍTICO. AUSÊNCIA. DIREITO SUBJETIVO À APLICAÇÃO DA JURISPRUDÊNCIA VIGENTE. AUSÊNCIA.
+1. Esta Corte Superior perfilha o entendimento de que se o acórdão embargado apresenta mais de um fundamento suficiente, os embargos de divergência deverão confrontar todos eles, sob pena de remanescer motivo autônomo para a manutenção do acórdão impugnado.
+2. A admissão dos embargos de divergência está condicionada à comprovação da divergência jurisprudencial, por meio da realização do cotejo analítico e da demonstração da similitude fático-processual entre o acórdão embargado e o julgado paradigma, o que não se verificou na hipótese dos autos.
+3. Inexiste direito subjetivo à aplicação da jurisprudência vigente à época da interposição do recurso, estando o julgador vinculado apenas aos precedentes existentes no momento da efetiva prestação jurisdicional.
+4. Agravo interno não provido.
+(AgInt nos EAREsp n. 1.839.128/SP, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 13/6/2023, DJe de 16/6/2023.)
+Assim, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do CPC/2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso. Nessa linha: Corte Especial, AgInt nos EAREsp n. 1.043.437/SP, Rel. Ministro JORGE MUSSI, j. 13.10.2021; e 1ª S., AgInt nos EREsp n. 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, j. 14.09.2016.
+Apesar do improvimento do recurso, não restou configurada a manifesta inadmissibilidade, razão pela qual afasto a apontada multa.
+Posto isso, NEGO PROVIMENTO ao recurso.
