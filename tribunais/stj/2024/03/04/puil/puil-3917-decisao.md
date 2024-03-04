@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei com liminar apresentado pelo MUNICIPIO DE CHAPECO, fundamentado no art. 14, caput e § 2º, da Lei 10.259/2001 e 18, § 3º, da Lei 12.153/2009, contra decisão da Primeira Turma Recursal do Estado de Santa Catarina.
+Nas razões de seu expediente, a parte requerente sustenta que a Turma Recursal de Santa Catarina divergiu das decisões proferidas pela 3ª Turma Recursal dos Juizados Especiais Estaduais de São Paulo, da 3ª Turma Recursal do Distrito Federal e "do entendimento consolidado do Egrégio Superior Tribunal de Justiça (PUIL 413/RS e PUIL 1954/SC)" (fl. 508).
+Sustenta que:
+A inconformidade do Recorrente no presente Pedido de Uniformização, com base no art. 14, §2º da Lei nº 10.259, de 2001, merece seja conhecida e provida pela MMª. Turma Nacional de Uniformização dos Juizados Especiais, uma vez que a decisão proferida pela 3ª Turma Recursal do Tribunal do Estado de Santa Catarina, ora atacada, é contrária a decisão proferida pela 3ª Turma Recursal dos Juizados Especiais da Fazenda Pública do Estado de São Paulo no que concerne ao deferimento do adicional por exercício de atividade especial antes do laudo pericial, sendo assentado na decisão apontada como paradigma que "Não é possível promover -se presunção de insalubridade quando exigida prova técnica"
+A decisão prolatada no evento 65 do processo originário causa flagrante insegurança jurídica, pois, ao conceder efeitos retroativos ao pedido do autor, violou o entendimento de que não se pode presumir que servidor estava em condições periculosas antes do laudo pericial. É a partir do dele que os efeitos do adicional da periculosidade devem surtir, não se podendo presumir tal condição. Deveria a respeitável Turma ter adotado como marco temporal o ato administrativo de concessão do adicional - DM nº 42.972 de 16 de maio de 2022, o qual foi baseado em laudo unilateral da administração; quando senão a data da perícia judicial ocorrida sob o crivo do contraditório, em 16/10/2020, conforme Ev. 58 dos autos de origem.
+A divergência instaurada deflagra uma situação que, independente de outro argumento, poderia mudar o resultado do processo, mostrando-se imprescindível para o deslinde do feito. Esta posição é assentada pela Terceira Turma Recursal Dos Juizados Especiais Do Distrito Federal, que perfilhou entendimento da 3ª Turma Recursal Cível do Tribunal de Justiça de São Paulo, consoante se observa das seguintes ementas, as quais pede-se a vênia para colacionar a título ilustrativo (fl. 516).
+Contrarrazões à fl. 541.
+Às fls. 563/565, o Ministério Público Federal (MPF) apresentou parecer, assim ementado, pela devolução dos autos à Turma Nacional de Uniformização:
+Direito Administrativo. Pedido de uniformização de interpretação de lei federal. Determinação do juiz Relator descumprida. Devolução.
+O juiz de Direito Relator determinou a remessa dos autos à Turma Nacional de Uniformização, observado o endereçamento da petição pelo requerente. Sem que houvesse determinação em diverso sentido, os autos foram encaminhados a esse Superior Tribunal de Justiça. De rigor, portanto, a devolução dos autos ao Tribunal a quo.
+Parecer pela devolução dos autos (fl. 563).
+É o relatório.
+Analisando os autos, verifico que o MUNICIPIO DE CHAPECO endereçou o seu pedido de uniformização de interpretação de lei à Turma Nacional de Uniformização - TNU:
+EGRÉGIA TURMA NACIONAL DE UNIFORMIZAÇÃO
+ ..
+A inconformidade do Recorrente no presente Pedido de Uniformização, com base no art. 14, §2º da Lei nº 10.259, de 2001, merece seja conhecida e provida pela MMª. Turma Nacional de Uniformização dos Juizados Especiais, uma vez que a decisão proferida pela 3ª Turma Recursal do Tribunal do Estado de Santa Catarina, ora atacada, é contrária a decisão proferida pela 3ª Turma Recursal dos Juizados Especiais da Fazenda Pública do Estado de São Paulo no que concerne ao deferimento do adicional por exercício de atividade especial antes do laudo pericial, sendo assentado na decisão apontada como paradigma que "Não é possível promover-se presunção de insalubridade quando exigida prova técnica" (fl. 510/516 - sem grifos no original).
+Assim, é necessária a remessa dos autos para a TNU para processar e julgar o incidente.
+Ante o exposto, determino a remessa dos autos à TNU.
+Publique-se. Intimações necessárias.
+EMENTA
