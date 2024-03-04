@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. JUSTIÇA GRATUITA. INAPLICABILIDADE. PEDIDO INCOMPATÍVEL COM O RECOLHIMENTO DAS CUSTAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE PROFERIDA PELA CORTE DE ORIGEM. NÃO CONHECIMENTO DO RECLAMO. AGRAVO INTERNO. HONORÁRIOS RECURSAIS. MAJORAÇÃO. NÃO CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. O entendimento desta Corte Superior consolidou-se no sentido de que o pagamento das custas - como no caso concreto, em que a parte recolheu o preparo do recurso especial - é incompatível com o pedido de gratuidade de justiça.
+2. Em atenção ao princípio da dialeticidade recursal, as razões do agravo em recurso especial devem infirmar todos os fundamentos da decisão de admissibilidade do apelo especial, proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do art. 932, III, do CPC/2015.
+3. De acordo com a orientação jurisprudencial do Superior Tribunal de Justiça, não cabe a majoração dos honorários recursais em julgamento de agravo interno.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por FERNANDA MARIANO CORREA DE MAGALHÃES contra decisão proferida pela Presidência desta Corte que não conheceu do agravo em recurso especial, devido à ausência de impugnação dos fundamentos em que se baseou o Tribunal de origem para inadmissão do recurso especial (e-STJ, fls. 1.103-1.104).
+Nas razões do agravo, a insurgente alega inaplicabilidade da Sumula n. 7/STJ, acrescentando que impugnou o fundamento da decisão agravada.
+Reitera o pedido de deferimento da gratuidade de justiça, realizando o pagamento das custas, a fim de assegurar seu direito.
+Requer o provimento do presente agravo interno.
+Impugnação às fls. 1.114-1.116 (e-STJ), requerendo-se a majoração dos honorários advocatícios arbitrados pelo Juízo de origem ao patamar de 20%.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. JUSTIÇA GRATUITA. INAPLICABILIDADE. PEDIDO INCOMPATÍVEL COM O RECOLHIMENTO DAS CUSTAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE PROFERIDA PELA CORTE DE ORIGEM. NÃO CONHECIMENTO DO RECLAMO. AGRAVO INTERNO. HONORÁRIOS RECURSAIS. MAJORAÇÃO. NÃO CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. O entendimento desta Corte Superior consolidou-se no sentido de que o pagamento das custas - como no caso concreto, em que a parte recolheu o preparo do recurso especial - é incompatível com o pedido de gratuidade de justiça.
+2. Em atenção ao princípio da dialeticidade recursal, as razões do agravo em recurso especial devem infirmar todos os fundamentos da decisão de admissibilidade do apelo especial, proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do art. 932, III, do CPC/2015.
+3. De acordo com a orientação jurisprudencial do Superior Tribunal de Justiça, não cabe a majoração dos honorários recursais em julgamento de agravo interno.
+4. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para alterar os fundamentos da decisão ora agravada.
+De início, quanto ao pedido da gratuidade de justiça, entende esta Corte Superior que o referido pedido é incompatível com o pagamento das custas recursais.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO E PROCESSO CIVIL. CONTRATOS BANCÁRIOS. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. TAXA MÉDIA DE MERCADO. REFERENCIAL. SÚMULA 83/STJ. CONSUMIDOR EM DESVANTAGEM EXAGERADA. SUSPENSÃO. LIQUIDAÇÃO EXTRAJUDICIAL. ART. 18 DA LEI 6.024/74. SUSPENSÃO DA AÇÃO. INAPLICABILIDADE A PROCESSO DE CONHECIMENTO. JUSTIÇA GRATUITA. RECOLHIMENTO DE CUSTAS. ATO INCOMPATÍVEL. RECURSO DESPROVIDO.
+1. "Conforme jurisprudência do STJ, o art. 18 da Lei n. 6.024/1974 não alcança as ações de conhecimento voltadas à obtenção de provimento relativo à certeza e liquidez do crédito" (AgInt no AREsp 2.290.556/RS, Relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 15/5/2023, DJe de 18/5/2023).
+2. "O entendimento desta Corte Superior consolidou-se no sentido de que o pagamento das custas - como no caso concreto, em que a parte recolheu o preparo do recurso especial - é incompatível com o pedido de gratuidade de justiça" (AgInt no AREsp 1.563.316/DF, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 17/2/2020, DJe de 19/2/2020).
+3. "A Segunda Seção do Superior Tribunal de Justiça, no julgamento do REsp nº 1.061.530/RS, Relatora Ministra Nancy Andrighi, submetido ao regime dos recursos repetitivos, firmou posicionamento do sentido de que: (1) as instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto nº 22.626/1933) - Súmula 596/STF; (2) a estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade; (3) são inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591, c/c o art. 406 do CC/2002; e, (4) é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, §1º, do CDC) fique cabalmente demonstrada, haja vista as peculiaridades do julgamento em concreto" (AgInt no AREsp 1.148.927/MS, Relator Ministro Moura Ribeiro, Terceira Turma, julgado em 22/3/2018, DJe de 4/4/2018).
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.313.216/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/9/2023, DJe de 8/9/2023.)
+Como, no caso dos autos, houve o recolhimento das custas recursais (e-STJ, fls. 995-997), a análise do pedido de gratuidade de justiça ficou prejudicada.
+Quanto à decisão proferida pela Presidência do Superior Tribunal de Justiça, é assente o entendimento desta Corte Superior no sentido de que o agravo que visa conferir "trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para sua negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 932, III, do CPC de 2015 e art. 253, I, do RISTJ" (AgInt no AREsp 1.490.629/SP, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 5/8/8/2021, DJe 25/8/2021).
+Conforme bem salientado na decisão proferida pela Presidência desta Corte em agravo em recurso especial, o recurso não merece conhecimento em virtude da não impugnação aos fundamentos da decisão agravada.
+Compulsando os autos, verifica-se que o recurso especial foi inadmitido devido à incidência da Súmula n. 7/STJ.
+Com efeito, constata-se que, no agravo em recurso especial, a insurgente não refutou o referido fundamento, limitando-se a repisar as razões da peça inicial de violação aos arts. 18, 73, 75, II e VII, 114, 330, I, 337, IV, IX e XI, 373, II, 485, I e IV, 618, I, 1.219. 1.238 e 1.243 do CPC.
+Por conseguinte, à luz do princípio da dialeticidade, a recorrente deveria ter impugnado todos os fundamentos da decisão de inadmissibilidade do recurso especial, sob pena de seu não conhecimento. Assim sendo, como não se desincumbiu de tal ônus em sua insurgência, tem-se que é inadmissível o agravo em recurso especial interposto, não podendo ser apreciado por este Superior Tribunal.
+Na mesma linha de cognição:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. PREQUESTIONAMENTO. MANEJO DE ACLARATÓRIOS. REQUISITO CONSTITUCIONAL. CAUSA DECIDIDA. DIALETICIDADE. DESATENDIMENTO.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à parte agravante, na petição do seu a gravo interno, impugnar especificamente os fundamentos da decisão agravada, o que, na hipótese dos autos, não foi atendido.
+2. A mera invocação de matérias pelas partes, sem efetivo pronunciamento da origem acerca dos temas, não atende o requisito constitucional do prequestionamento apto a ensejar o recurso especial. O óbice ocorre mesmo que a origem afirme, abstrata e equivocadamente, o prequestionamento da matéria ou a inexistência de vícios passíveis de embargos de declaração.
+3. Carece de dialeticidade a impugnação que apela a argumento incapaz de alterar o julgado recorrido.
+4. Tendo sido afirmada pela origem a ausência de prequestionamento dos temas, o argumento recursal de que as matérias foram suscitadas em aclaratórios atrai a incidência da Súmula n. 182/STJ (É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada).
+5. A reiteração em agravo interno de argumento já refutado na decisão singular contrastada conduz à aplicação do mesmo óbice também nesta via.
+6. Agravo interno não conhecido.
+(AgInt no AREsp n. 1.984.894/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 2/8/2022, DJe de 8/8/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL DECISÃO DA PRESIDÊNCIA DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO UTILIZADO NO JUÍZO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. SÚMULA 7/STJ. PRINCIPIO DA DIALETICIDADE. ART. 932, III, DO CPC DE 2.015. IRRESIGNAÇÃO GENÉRICA. NÃO CABIMENTO. SÚMULA 182/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante infirmar pontualmente todos os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo, sob pena do não conhecimento do agravo em recurso especial pela aplicação da Súmula 182/STJ.
+2. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem exige, como requisito objetivo de admissibilidade, a impugnação específica a todos os fundamentos utilizados para a negativa de seguimento do apelo extremo (EAREsp 701.404/SC, EAREsp 831.326/SP e EAREsp 746.775/PR, Corte Especial, Rel. p/ acórdão Min. Luis Felipe Salomão, DJe de 30/11/2018), consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade dos óbices invocados.
+3. Nas razões do agravo em recurso especial, a parte agravante deixou de impugnar de maneira efetiva, individualizada, específica e fundamentada a incidência da Súmula 7/STJ.
+4. Para mostrar o descabimento do referido verbete não basta apenas deduzir alegação genérica de presença dos requisitos de admissibilidade do apelo nobre ou a simples afirmação quanto à inaplicabilidade do referido óbice, devendo a parte recorrente apresentar argumentação que demonstre como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem nova análise do conjunto fático-probatório, deixando claro quais fatos foram devidamente consignados no acórdão objurgado, ônus do qual, contudo, a parte ora agravante não se desobrigou.
+5. A mera alegação não haver discussão acerca de matéria de fato é insuficiente para a subida do recurso especial, cumprindo à agravante justificar e demonstrar que a análise do recurso especial independe do exame das circunstâncias fáticas da lide, o que não ocorreu nestes autos.
+6. Por isso, afigura-se correto o não conhecimento do agravo em recurso especial pela incidência da Súmula 182/STJ: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+7. Agravo interno não provido.
+(AgInt no AREsp n. 2.072.889/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 27/6/2022, DJe de 1º/7/2022.)
+Desse modo, tendo em vista que as alegações feitas no agravo interno não são capazes de modificar o convencimento manifestado na decisão agravada, permanece inalterada a decisão de não conhecimento do agravo em recurso especial.
+Quanto ao pedido da parte agravada de majoração de honorários, importa ponderar que, de acordo com a orientação jurisprudencial do Superior Tribunal de Justiça, não cabe a majoração dos honorários recursais em julgamento de agravo interno.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALIENAÇÃO FIDUCIÁRIA. LEILÃO EXTRAJUDICIAL. INTIMAÇÃO PESSOAL DO DEVEDOR. HONORÁRIOS RECURSAIS. MAJORAÇÃO. AGRAVO INTERNO. NÃO CABIMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça preleciona a necessidade de intimação pessoal do devedor acerca da data de realização do leilão extrajudicial do bem imóvel dado em garantia por alienação fiduciária.
+3. Esta Corte Superior entende ser incabível a majoração dos honorários recursais no julgamento do agravo interno e dos embargos de declaração oferecidos pela parte que teve seu recurso integralmente não conhecido ou não provido.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.897.042/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/3/2023, DJe de 10/3/2023).
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o voto.
