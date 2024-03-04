@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão, que inadmitiu o recurso especial em razão da inexistência de violação de lei federal, incidência da Súmula n. 7 do STJ e ausência de comprovação do dissenso jurisprudencial (e-STJ fls. 128/131).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 59):
+AGRAVO DE INSTRUMENTO. Desconsideração inversa da personalidade jurídica. Medida excepcional que somente pode ser autorizada quando presentes os pressupostos do artigo 50 do Código Civil. Associação que pode ser objeto de desconsideração inversa da personalidade jurídica. Desvio de finalidade demonstrado. Associação que não nega que receba valores decorrentes de locações, mas apenas narra de forma extremamente genérica, sem qualquer indício probatório, "ajudar as pessoas abaixo da linha da pobreza", atividade que sequer integra seus objetivos estatutários. Decisão mantida. Recurso não provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 84/88).
+Nas razões do recurso especial (e-STJ fls. 90/112), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(a) arts. 489, §1º, IV, e 1.022, parágrafo único, II, do CPC/2015, por negativa de prestação jurisdicional, por entender que "o acórdão recorrido foi proferido de forma omissa a tais questões apontadas, não havendo que se falar em decisão devidamente fundamentada, vez que não enfrentou os argumentos deduzidos acima tratados, os quais demonstram que não se encontram presentes os requisitos necessários ao deferimento da desconsideração da forma que o fez o juízo de origem, vez que não houve desvio de finalidade da associação, inexistindo nos autos elementos de prova que demonstrem que, de forma contrária, a associação agiu de forma a lesar seus credores" (e-STJ fl. 105) e
+(b) arts. 50 do CC/2002 e 373, I, do CPC/2015, "vez que não comprovado desvio de finalidade nem a confusão patrimonial, necessários ao redirecionamento da execução como pretendido" (e-STJ fl. 108).
+No agravo (e-STJ fls. 134/154), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 159/162).
+É o relatório.
+Decido.
+Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à tese, o Tribunal de origem assim se manifestou (e-STJ fls. 67/69):
+No caso em exame, nota-se do estatuto social da agravante (fls.12/20) ser abrangente suas áreas de atuação, focado, sobretudo em programas e projetos voltados à política de trabalho, emprego, geração de renda e qualificação profissional; além de outros programas de caráter social, como educação, cultura, turismo, meio-ambiente, esporte, entre outros.
+Além disso, igualmente restou comprovado nos autos de origem, bem como sequer houve negativa por parte da recorrente, que gera renda, sobretudo, em razão de locação de sua sede para eventos sociais.
+Neste contexto, o MM. Juízo a quo pediu esclarecimentos à associação sobre o efetivo funcionamento da associação, com explicitação de sua finalidade (fl. 226 dos autos de origem); obtendo como resposta (fl. 229):
+(..) sobrevive de locação de espaço para eventos e neste momento encontra-se em situação de caos financeiro em razão da pandemia da COVID-19, onde a administração municipal proibiu a realização de eventos na Capital Mineira, por mais de 02(dois) anos.
+O que demonstra a atividade exercida pela Associação é a Ata de constituição e o estatuto já anexados aos autos. Estes documentos comprovam a finalidade da Associação.
+Mais que isso, tendo oportunidade, novamente, nesta sede recursal de esclarecer o destino de sua arrecadação com locações, nada fala, sendo que, no único momento em que a recorrente fala sobre suas atividades, apenas na contestação, diz (fl. 33):
+A associação depende da realização dos eventos que intermedia para obter seu fim precípuo, que é ajudar as pessoas carentes que vivem abaixo da linha da pobreza. Apesar da situação financeira delicada da Sra. Helen Aguiar e sua doença avançada (câncer), do qual ainda se recupera, tenta junto à Associação manter a atividade beneficente, estando a presidência na Administração da Sra. Camila de Aguiar Lima Fernandes.
+Todavia, não bastasse inexistir qualquer indício sobre tal fato, o que se tem é que tal objetivo sequer é mencionado como um dos previstos na associação.
+De outra banda, em sua defesa, a agravante defende que, mesmo que seja associação, ainda que impedida de distribuir lucros, nada obsta que remunere seus dirigentes.
+E, no caso, como narrado pela agravada, os dirigentes da associação são a executada, sua filha e marido.
+Assim, o que se nota de todo contexto probatório apresentado e omitido, é que inexiste qualquer patrimônio executável da ré, a qual é dirigente de associação beneficente que não realiza qualquer atividade social, mesmo as previstas em seu estatuto, mas recebe valores consideráveis em razão de locatícios de sua sede, defendendo, ainda, a possibilidade de distribuição de remuneração a seus dirigentes, no caso, a executada e seus familiares.
+Logo, fica patente a utilização da associação de forma desviada, já que, ainda que possível, não realiza nenhuma das atividades fins previstas em seu estatuto, bem como a intenção de lesar credores, antes a total inexistência de patrimônio da executada.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em nenhum dos vícios previstos nos arts. 489 e 1.022 do CPC/2015.
+Por outro lado, modificar o entendimento do acórdão impugnado quanto ao preenchimento dos requisitos para a desconsideração inversa da personalidade jurídica, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7 do STJ.
+Por fim, esta Corte tem entendimento no sentido de que a incidência da Súmula n. 7 do STJ impede o exame do dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
