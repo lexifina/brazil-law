@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Mauro Campbell Marques votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. INEXISTÊNCIA DE RAZÕES QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA.
+AGRAVO INTERNO NÃO PROVIDO.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA: Em análise, Agravo interno interposto pelo ESTADO DO TOCANTINS em face de decisão da Presidência desta Corte, que não conheceu do Agravo em Recurso Especial interposto pelo ora agravante, em virtude da ausência de impugnação específica dos fundamentos da decisão de admissibilidade recursal (e-STJ, fls. 234-235).
+Nas razões do Agravo interno, a parte recorrente pugna pela reforma da decisão, afirmando, em síntese, que (e-STJ, fls. 240-242):
+Ao contrário do que restou sustentado na decisão ora agravada, o agravo em recurso especial do ente público impugnou todos os fundamentos da decisão que inadmitiu na origem o recurso especial, impugnação essa que se deu de forma direta, especifica e pormenorizada, não havendo que se falar na incidência do enunciado da Súmula 182 do col. STJ, consoante será demonstrado a seguir. Nas razões do agravo de fls. 194-200, e-STJ, todavia, o agravante deixou clara a impugnação de TODOS os fundamentos para negar seguimento ao reclamo, abrindo tópico específico para combatê-los, sendo incabível falar em inobservância ao princípio da dialeticidade, na espécie.  ..  Com efeito, verifica-se que o agravo em recurso especial combateu de forma específica os fundamentos utilizados na decisão de inadmissibilidade recursal. Os fundamentos da decisão de inadmissibilidade foram devidamente refutados no agravo em recurso especial não havendo que se falar em ausência de impugnação específica tão pouco de falta de dialeticidade recursal (Enunciado da Súmula 182/STJ). Nesse contexto, nítida é a inadequação da decisão singular proferida, porquanto aplicou teor de súmula que não incide no caso. Assim, torna-se inequívoco o desacerto da decisão ora agravada, que deverá ser reformada permitindo o conhecimento do agravo e provimento do apelo extremo.
+Não foi apresentada contraminuta ao Agravo (e-STJ, fls. 253-254).
+É o breve relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. INEXISTÊNCIA DE RAZÕES QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA.
+AGRAVO INTERNO NÃO PROVIDO.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Inicialmente, deve ser assinalado que o Agravo interno interposto às fls. 244-247 (e-STJ) não merece ser conhecido, porquanto, atento ao princípio da unicidade recursal e à ocorrência da preclusão consumativa, "a interposição de dois recursos pela mesma parte e contra a mesma decisão impede o conhecimento do segundo recurso" (AgInt no AREsp 1.293.601/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 12/11/2018, DJe 14/11/2018).
+Nessa esteira, passo à análise do Agravo interno interposto às fls. 239-242 e-STJ.
+Eminentes colegas, o Agravo interno não merece prosperar.
+Em que pese ao arrazoado, entendo que a ausência de qualquer novo subsídio trazido pelo agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Com efeito, a decisão recorrida não conheceu do Agravo em Recurso Especial em virtude de a parte recorrente não ter impugnado especificamente os fundamentos da decisão de admissibilidade referente ao não cabimento do REsp quando a tese recursal é eminentemente constitucional.
+Conforme se verifica da leitura do Agravo em Recurso Especial, a parte recorrente efetivamente não evidenciou a inaplicabilidade do referido fundamento, apenas apontou genericamente erro da decisão, a par de reprisar suas razões recursais, entretanto sem demonstrar de forma específica, objetiva e consistente o efetivo desacerto do não cabimento do REsp quando a tese é eminentemente constitucional, o que atraiu a aplicação da Súmula 182/STJ à espécie.
+A propósito, é de se observar que não possível a análise de suposta violação ao art. 6º da LINDB, pois "o Superior Tribunal de Justiça pacificou o entendimento de que a matéria contida no art. 6º da Lei de Introdução às Normas do Direito Brasileiro (antiga LICC) tem caráter nitidamente constitucional, razão pela qual é inviável sua apreciação em recurso especial" (AgInt no REsp n. 1.970.807/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022).
+Saliente-se que alegações genéricas são insuficientes à impugnação da decisão de inadmissão. Nessa esteira, para viabilizar o prosseguimento do recurso interposto, a irresignação há de ser total, objetiva e pormenorizada. Não basta a impugnação genérica ou a remissão a fundamentos anteriores.
+Consigne-se que é ônus da parte recorrente demonstrar a inaplicabilidade da decisão de inadmissão, ainda que a considere carente da devida fundamentação, de sorte a evidenciar o seu desacerto.
+Conforme a jurisprudência do Superior Tribunal de Justiça, as razões recursais devem impugnar, com transparência e objetividade, os fundamentos que embasaram a decisão agravada, conforme previsão contida no art. 1.021, § 1º, do CPC/2015.
+Veja-se o entendimento desta Corte quanto ao tema:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL, INTERPOSTO CONTRA DECISÃO SINGULAR PROFERIDA POR MINISTRO DO STJ. POSSIBILIDADE DE IMPUGNAÇÃO PARCIAL DE CAPÍTULOS AUTÔNOMOS. ART. 1.002 DO CPC/2015. PRECEDENTES DA CORTE ESPECIAL DO STJ. EREsp 1.424.404/SP E EREsp 1.738.541/RJ. SERVIDOR PÚBLICO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA AJUIZADA POR SINDICATO. SUBSTITUIÇÃO PROCESSUAL. LEGITIMIDADE ATIVA DO EXEQUENTE. AUSÊNCIA DE EXPRESSA LIMITAÇÃO SUBJETIVA NO TÍTULO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. PRECEDENTES. AGRAVO INTERNO IMPROVIDO.
+ ..
+II. Conforme entendimento sedimentado pela Corte Especial do Superior Tribunal de Justiça, "a decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (STJ, EAREsp 701.404/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018).
+ ..
+(AgInt no AREsp n. 2.266.222/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 12/6/2023, DJe de 19/6/2023).
+Destarte, a falta de ataque específico à decisão agravada acarreta o não conhecimento do recurso, a teor do que dispõe o art. 932, III, do CPC/2015 (art. 544 do CPC/73), in verbis:
+Art. 932. Incumbe ao relator:
+(..)
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Nesse sentido:
+PROCESSUAL CIVIL. TEMA JULGADO. SISTEMÁTICA DOS REPETITIVOS. AGRAVO EM RECURSO ESPECIAL. DESCABIMENTO. INADMISSÃO DO RESP. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. Segundo a jurisprudência do STJ, é incabível o agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo, sendo apenas possível a interposição do agravo interno constante do art. 1.030, § 2º, do CPC/2015.
+2. Situação em que a decisão do Tribunal a quo assentou que o acórdão recorrido está em sintonia com precedente obrigatório desta Corte Superior (Tema 387).
+3. De acordo com o disposto no art. 253, parágrafo único, I, do RISTJ e no art. 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+4. O recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+5. Agravo interno desprovido (AgInt no AREsp n. 1.761.942/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/6/2023, DJe de 16/6/2023).
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA 182 DO STJ.
+1. A Corte de origem inadmitiu o Recurso Especial sob o fundamento de que descabe novo Recurso Especial contra acórdão de retratação, proferido na forma do art. 1.030, II, do CPC, concluindo que "o único recurso cabível na hipótese seria o agravo interno perante o Tribunal de origem (art. 1030, § 2º)".
+2. Tais argumentos não foram atacados no Agravo interposto, atraindo, na forma da Súmula 182/STJ, sua inadmissibilidade.
+3. Cumpre ressaltar que, na sessão de 19.9.2018, no julgamento dos EAREsps 701.404/SC, 746.775/PR e 831.326/SP, a Corte Especial decidiu, interpretando a Súmula 182/STJ, que esta se aplica para não se conhecer de todo o Recurso nas hipóteses em que o recorrente refuta apenas parte da decisão recorrida, ainda que a extensão impugnada seja capítulo autônomo em relação à parte não impugnada.
+4. A isso acrescentam-se as disposições do art. 253, I, do RISTJ e do art. 932, III, do CPC/2015, não se conhecendo de AREsp que deixa de atacar especificamente todos os fundamentos da decisão de inadmissibilidade.
+5. Tal conclusão não é em nada alterada pela decisão da Corte de origem que encaminha o Agravo para o tribunal superior. É que, na forma do art. 1.042, § 4º, do CPC/2015, compete exclusivamente ao STJ o juízo de admissibilidade do Agravo em Recurso Especial, sendo certo que manifestações do Tribunal Local sobre o tema não vinculam esta Corte.
+6. Agravo Interno não provido (AgInt no AREsp n. 2.152.303/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/5/2023, DJe de 5/6/2023).
+Em que pesem as razões desenvolvidas pela parte no presente Agravo interno, não foram trazidos argumentos capazes de alterar a decisão agravada.
+Nesse contexto, a decisão recorrida deve ser mantida pelos seus próprios fundamentos, porquanto válidos os argumentos que a sustentam, uma vez que não foram trazidos elementos aptos a desconstituí-la.
+Isso posto, nego provimento ao Agravo interno.
+Advirta-se que a oposição de incidentes processuais infundados dará ensejo à aplicação de MULTA por conduta processual indevida (art. 1.026, § 2º, do CPC/2015).
+É o voto.
