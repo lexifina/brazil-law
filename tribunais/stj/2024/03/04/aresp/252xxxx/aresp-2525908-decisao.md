@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por JANDYRA GALVAO VILLARES DA SILVA, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 18/09/2023.
+Concluso ao gabinete em: 28/02/2024.
+Ação: de cobrança e arbitramento de honorários proposta por VALDENEI FIGUEIREDO ORFÃO contra a ora agravante, na qual alega ter fornecido à agravante serviços advocatícios em processo de execução fiscal, no qual houve a interposição de diversos recursos e procedência parcial do pedido então formulado em instância recursal.
+Sentença: julgou procedente o pedido para fixar honorários advocatícios devidos pela agravante ao agravado no patamar de 15% sobre o montante excluído do débito fiscal na ação anulatória de débito.
+Acórdão: deu parcial provimento ao recurso de apelação interposto pela agravante, nos termos da seguinte ementa:
+AÇÃO DE ARBITRAMENTO E COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS. Prestação de serviços profissionais. Contratação verbal. Advogado autor que foi contratado pelo Espólio réu para o ajuizamento de Ação Anulatória de Débito Fiscal. SENTENÇA de procedência. APELAÇÃO do requerido, que visa à anulação da sentença por cerceamento de defesa pela privação de prova pericial, pugnando no mérito pela reforma para a redução da verba honorária arbitrada mediante a exclusão dos juros de mora da base de cálculo do débito tributário excluído. EXAME: cerceamento de defesa não configurado. Prova pericial que era desnecessária. Discussão havida entre as partes que não depende de conhecimento especial técnico para a resolução, "ex vi" do artigo464, §1º, inciso I, do Código de Processo Civil. Arguição de não conhecimento de parte do Recurso, a pretexto de inovação recursal, que não comporta acolhida. Incidência de juros sobre o débito tributário excluído que constitui divergência interpretativa a respeito da Tabela de Honorários Advocatícios da OAB, já que o índice lá sugerido como remuneração mínima foi adotado na sentença. "Montante excluído" do débito tributário que deve ser acrescido apenas de correção monetária para o cálculo da verba honorária arbitrada. Observância dos parâmetros da razoabilidade e da proporcionalidade, além dos critérios previstos no artigo 85,§2º, do Código de Processo Civil. Juros cobrados pela Municipalidade, portanto, que não integram a base de cálculo dos honorários advocatícios, que, por outro lado, serão acrescidos de juros moratórios pela taxa de um por cento (1%) ao mês, a contar da citação, "ex vi" do artigo 405 do Código Civil. Sentença parcialmente reformada. RECURSO PARCIALMENTE PROVIDO
+Recurso especial: alega violação dos arts. 7º; 355, I; 369 e 370, § único e 464, §1º e §2º, todos do Código de Processo Civil; além do art. 36, do Código de Ética e Disciplina da OAB. Argumenta cerceamento de defesa, uma vez que foi indeferido o pedido de produção de prova pericial. Defende a necessidade da prova pericial, uma vez que seria preciso que um profissional habilitado analisasse o processo objeto do arbitramento de honorários.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da existência de fundamento não impugnado
+A agravante não impugnou o seguinte fundamento utilizado pelo TJ/SP (e-STJ fl. 956):
+Outrossim, verifica-se que a pretendida prova pericial era mesmo desnecessária ao fim colimado, já que o arbitramento de honorários advocatícios, no caso, não demanda conhecimento especial de técnico (v. artigo 464, §1º, do Código de Processo Civil), sendo suscetível de aferição pelo próprio Magistrado sentenciante.
+Desse modo, deve ser mantido o acórdão recorrido ante a aplicação, na hipótese, da Súmula 283/STF.
+- Da alegação de cerceamento de defesa
+Conforme a jurisprudência do STJ, "não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção ou complementação de prova" (AgInt no AREsp 1.993.573/SP, Quarta Turma, DJe de 29/6/2022; e AgInt no REsp 1.875.724/AM, Terceira Turma, DJe de 25/11/2021).
+Na espécie, as instâncias ordinárias entenderam que a prova documental produzida nos autos era suficiente ao julgamento da demanda. Não se constata, destarte, a ocorrência de cerceamento de defesa.
+- Da violação de ato normativo que não se enquadra no conceito de lei federal
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+Desse modo, não deve ser conhecido o recurso com relação à alegada violação do 36, do Código de Ética e Disciplina da OAB.
+- Da divergência jurisprudencial
+O recorrente não apresentou adequadamente o dissídio jurisprudencial, devido a ausência de cotejo analítico entre os julgados, sendo certo, que para a demonstração da divergência não basta apenas a transcrição de ementas.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, majoro em 5% os honorários fixados anteriormente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA E ARBITRAMENTO DE HONORÁRIOS. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. CERCEAMENTO DE DEFESA. AUSÊNCIA. VIOLAÇÃO ATO NORMATIVO QUE NÃO SE ENQUADRA NO CONCEITO DE LEI FEDERAL. DESCABIMENTO. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de cobrança e arbitramento de honorários.
+n. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. Conforme a jurisprudência do STJ, "não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção ou complementação de prova" (AgInt no AREsp 1.993.573/SP, Quarta Turma, DJe de 29/6/2022; e AgInt no REsp 1.875.724/AM, Terceira Turma, DJe de 25/11/2021).
+n. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional, de súmula ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+4 O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
