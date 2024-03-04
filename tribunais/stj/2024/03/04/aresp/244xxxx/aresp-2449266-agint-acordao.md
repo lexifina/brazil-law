@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO A DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE EXAME PELO SUPERIOR TRIBUNAL DE JUSTIÇA. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. DESNECESSIDADE DE PRODUÇÃO DE NOVA PROVA PERICIAL. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. É inadmissível que, no recurso especial, esta Corte Superior aprecie eventual ofensa à matéria constitucional, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal.
+2. A jurisprudência do Superior Tribunal de Justiça dispõe que não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando devidamente fundamentado e demonstrado pelas instâncias de origem que o feito se encontrava suficientemente instruído, afirmando-se, assim, a presença de dados bastantes à formação do seu convencimento.
+3. Infirmar o entendimento alcançado pelo acórdão recorrido com base nos elementos de convicção juntados aos autos, a fim de se concluir pela imprescindibilidade da complementação ou da produção de nova prova pericial, tal como busca a insurgente, esbarraria no enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por TANIA MARA FERREIRA BICA contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial por ela manejado, tendo em vista o óbice da Súmula 7/STJ e por não caber a esta Corte Superior examinar, na via especial, suposta violação de dispositivo ou princípio constitucional (e-STJ, fls. 888-890).
+Em suas razões (e-STJ, fls. 894-907), a agravante refuta a aplicação da Súmula 7/STJ, renovando a argumentação quanto à alegação de ocorrência de cerceamento de defesa pelo indeferimento da produção de nova prova pericial ou a sua complementação.
+Defende, ainda, "que não há pretensão de que a matéria seja examinada sob o prisma de suposta violação de dispositivo ou princípio constitucional" (e-STJ, fl. 898).
+Requer, ao final, o provimento do recurso.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO A DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE EXAME PELO SUPERIOR TRIBUNAL DE JUSTIÇA. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. DESNECESSIDADE DE PRODUÇÃO DE NOVA PROVA PERICIAL. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. É inadmissível que, no recurso especial, esta Corte Superior aprecie eventual ofensa à matéria constitucional, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal.
+2. A jurisprudência do Superior Tribunal de Justiça dispõe que não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando devidamente fundamentado e demonstrado pelas instâncias de origem que o feito se encontrava suficientemente instruído, afirmando-se, assim, a presença de dados bastantes à formação do seu convencimento.
+3. Infirmar o entendimento alcançado pelo acórdão recorrido com base nos elementos de convicção juntados aos autos, a fim de se concluir pela imprescindibilidade da complementação ou da produção de nova prova pericial, tal como busca a insurgente, esbarraria no enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+4. Agravo interno desprovido.
+VOTO
+Reexaminando os autos, não se vislumbram razões para o provimento deste agravo interno.
+Consoante assinalado anteriormente pela Presidência desta Corte, no que concerne à suposta violação de norma constitucional, salienta-se que o recurso especial não é a via própria para a resolução de tal controvérsia, pois a análise de matéria constitucional não é de competência desta Corte, mas sim do Supremo Tribunal Federal, por expressa determinação da Carta Magna.
+Noutro ponto, em relação ao alegado cerceamento de defesa, o Tribunal de Justiça do Estado do Mato Grosso do Sul não reconheceu a sua ocorrência, por entender que o Juízo de origem, destinatário do conjunto probatório dos autos, atestou a suficiência das provas para a solução do litígio, consignando os seguintes fundamentos (e-STJ, fls. 793-795):
+A parte apelante argumenta que deve ser anulada a sentença, em razão da necessidade de complementação da prova pericial, eis que a ausência de produção dessa prova gerou cerceamento de defesa.
+Em análise aos autos, verifica-se que a instrução transcorreu de forma regular, sendo que, ao sanear o feito, foram fixados os pontos controvertidos e deferida a produção de prova pericial. Nomeou-se o perito e determinou-se às partes a apresentação dos quesitos do Juízo, bem como, a indicação de assistente técnico.
+A requerida indicou seus assistentes técnicos. Ato contínuo, apresentou estudos elaborados no 2º semestre de 2021 por empresa especializada de renome internacional. Sobrevieram manifestações de ambas as partes acerca do laudo pericial realizado nos autos 0816046-57.2019.8.12.0001, às suas fls. 917-989, e dos esclarecimentos de fls. 1.052-1.055.
+Ato contínuo, pela parte autora foram requeridos novos exames no local para elaboração de laudo complementar de Engenharia reversa, a fim de determinar a trajetória da pluma de mau odor e a sua origem. O pedido foi indeferido, por se tratar de inovação no processo, o que é vedado após o início dos trabalhos periciais, cuidando-se de prazo peremptório para apresentação de quesitos e indicação de assistente técnico.
+Referida questão foi objeto de diversos agravos de instrumentos interpostos e devidamente rechaçada na oportunidade.
+Entendeu-se, na ocasião, quanto ao pedido de extensão do objeto da perícia às outras atividades desempenhadas na região, que a providência seria descabida pelo fato de que eventual poluição emitida por outras entidades não é o objeto da presente demanda, mas tão-somente a constatação se a específica atividade desempenhada pela agravante é capaz de produzir os danos aventados na inicial, e assim estabelecer o nexo causal necessário para a eventual condenação da agravante.
+Eis a ementa de um dos julgados:
+(..)
+Insta observar que o juiz é o destinatário das provas e, como tal, cabe-lhe decidir acerca da necessidade e pertinência da realização de novas provas, indeferindo aquelas que julgar desnecessárias, mormente quando já firmou seu convencimento por aquelas contidas nos autos.
+Neste sentido, já decidiu o Superior Tribunal de Justiça:
+(..)
+Analisando detidamente as provas constantes dos autos, vê-se que se mostraram suficientes a formar o livre convencimento motivado do julgador, tornando-se desnecessária a produção de outras provas, estando os autos com toca a documentação necessária para a análise dos pontos controvertidos.
+Com efeito, de acordo com a jurisprudência do Superior Tribunal de Justiça, não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando devidamente fundamentado e demonstrado pelas instâncias de origem que o feito se encontrava suficientemente instruído, afirmando-se, assim, a presença de dados bastantes à formação do seu convencimento.
+Os princípios da livre admissibilidade da prova e da persuasão racional autorizam o julgador a determinar as provas que entende necessárias à solução da controvérsia, assim como o indeferimento daquelas que considerar prescindíveis ou meramente protelatórias.
+A produção probatória se destina ao convencimento do julgador e, sendo assim, pode o juiz rejeitar a produção de determinadas provas, em virtude da irrelevância para a formação de sua convicção.
+A propósito:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. PROTESTO. DUPLICATA SEM ACEITE. SERVIÇO NÃO PRESTADO. COMPROVAÇÃO. INDENIZAÇÃO. RAZOABILIDADE. REEXAME DO CONJUNTO FÁTICO PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos e interpretação de cláusulas contratuais (Súmulas n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem, a partir da análise dos elementos de prova, concluiu que o serviço não foi prestado. Entender de modo contrário implicaria reexame da matéria fática e do ajuste celebrado, o que é vedado em recurso especial.
+3. "Não configura cerceamento de defesa o julgamento antecipado da lide quando o julgador entende adequadamente instruído o feito, declarando a prescindibilidade da prova testemunhal com base na suficiência da prova documental apresentada" (AgInt no AREsp 1782370/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/05/2021, DJe 18/06/2021).
+4. A Súmula n. 7 do STJ somente pode ser afastada, para a revisão do valor da indenização por dano moral, quando houver desproporcionalidade, o que não se verificou nos autos.
+5. Agravo interno a que se nega provimento. (AgInt no AREsp 1.843.305/GO, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 20/9/2021, DJe 23/9/2021 - sem destaque no original)
+Ademais, infirmar o entendimento alcançado pelo acórdão recorrido com base nos elementos de convicção juntados aos autos, a fim de se concluir pela imprescindibilidade da complementação ou da produção de nova prova pericial, tal como busca a insurgente, esbarraria no enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+Ilustrativamente:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. INSTRUMENTO CONTRATUAL. PERÍCIA GRAFOTÉCNICA. DISPENSADA. ASPECTOS QUE NÃO INFLUIRAM NA VALIDADE DO NEGÓCIO JURÍDICO. SÚMULA N. 84 DO STJ. ART. 677 DO CPC. IMPUTAÇÃO AO EMBARGANTE. PROVA SUMÁRIA DA POSSE E DOMÍNIO. PROVAS ADEQUADAS E SUFICIENTES À AFERIÇÃO DA CONDIÇÃO DE POSSUIDOR. PRETENSÃO RECURSAL. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. VIOLAÇÃO DE LEI FEDERAL. REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que falar em violação aos arts. 489 e 1022 do Código de Processo Civil/15 quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada e suficiente, ainda que em sentido contrário à pretensão da parte recorrente.
+2. Quanto aos aspectos particulares do caso concreto, o exame da pretensão recursal exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+3. Agravo Interno não provido.
+(AgInt no AREsp n. 1.896.854/AL, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/3/2022, DJe de 18/3/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. DESPEJO POR FALTA DE PAGAMENTO. CONTRATO DE LOCAÇÃO. ASSINATURAS FALSAS CONSTATADAS. PERÍCIA GRAFOTÉCNICA. CERCEAMENTO DE DEFESA. NÃO CONFIGURAÇÃO SÚMULA Nº 7 DO STJ. HONORÁRIOS ADVOCATÍCIOS. FUNDAMENTO DA DECISÃO NÃO IMPUGNADO. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO INTERNO PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+1. Aplicabilidade do NCPC a este recurso ante os termos no Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Rever as conclusões do Tribunal estadual acerca da suficiência das provas constantes nos autos para formação de seu convencimento e ausência da necessidade da produção de novas perícias, esbarra no óbice da Súmula nº 7 do STJ.
+3. O agravo interno não impugnou a aplicação da Súmula nº 284 do STF pela decisão agravada no sentido de que ficou caracterizada a deficiência recursal, pois a desproporcionalidade dos honorários advocatícios arbitrados, trazida no agravo em recurso especial, não foi demonstrada pela parte agravante. Inobservância do art. 1.021, § 1º, do NCPC, e incidência da Súmula nº 182 do STJ.
+4. Agravo interno parcialmente conhecido e, nessa parte, não provido.
+(AgInt no AREsp n. 914.025/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 23/5/2017, DJe de 5/6/2017.)
+Desse modo, não há razões que justifiquem o acolhimento da pretensão recursal, motivo pelo qual permanece incólume o entendimento firmado na decisão agravada
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
