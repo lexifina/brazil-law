@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA, DE PLANO, NÃO CONHECER DO APELO EXTREMO.
+INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. "A jurisprudência desta Corte é firme no sentido de que não é abusiva a cláusula que prevê a possibilidade de reajuste do plano de saúde, seja por variação de custos ou por aumento de sinistralidade, cabendo ao magistrado a respectiva análise, no caso concreto, do caráter abusivo do reajuste efetivamente aplicado. Precedentes" (AgInt no AREsp n. 2.043.624/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 8/8/2022, DJe de 26/8/2022).
+2. No caso concreto, derruir a conclusão do Tribunal local, que asseverou a inexistência de prova idônea justificadora da efetiva necessidade dos percentuais de reajuste aplicados, demandaria incursão nas cláusulas contratuais e nos fatos e provas coligidos aos autos, providência vedada em sede de recurso especial, ante os óbices das Súmulas 5 e 7 do STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por BRADESCO SAÚDE S/A em face de decisão monocrática da lavra deste signatário que negou provimento ao agravo em recurso especial.
+O aludido apelo extremo, fundado na alínea "a" do permissivo constitucional, desafiou acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (e-STJ, fl. 529):
+APELAÇÃO. Ação revisional de contrato cumulada com pedido de repetição de indébito. Sentença que reconhece abusividade dos ajustes das mensalidades do plano de saúde operado pela ré Unimed, cuja estipulante é a corré Qualicorp, e estabelece a incidência dos índices definidos pela ANS aos planos individuais em razão da ausência de prova da sinistralidade. Inconformismo da parte ré. Preliminares. Ilegitimidade passiva da Unimed e Qualicorp não reconhecida. Apelantes que têm pertinência subjetiva para figurarem como parte. Mérito. Licitude da previsão contratual que estabelece reajustes por sinistralidade a fim de assegurar o equilíbrio contratual. Ausência de prova técnica que justifique os aumentos realizados no curso do contrato. Artigo 373, inciso II, do Código de Processo Civil. Readequação do valor das contribuições, adotando como parâmetros os índices divulgados pela ANS vigentes para os planos individuais na falta de outro critério adequado, de forma excepcional aplicável apenas ao período objeto da demanda. Valores pagos em excesso. Restituição limitada ao período de três anos anteriores ao ajuizamento da ação. Sentença reformada. Recuso mantida. Recurso da parte autora parcialmente provido. Recurso da ré desprovido.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 572-577).
+Nas razões do especial (e-STJ, fls. 605-618), a parte recorrente sustentou violação aos arts. 16, XI, da Lei 9.656/98, aos arts. 478 e 479 do Código Civil, e ao art. 6º, III do Código de Defesa do Consumidor, apontando a legalidade do reajuste por sinistralidade, uma vez que a o autor não se desincumbiu do ônus de comprovar eventual abusividade do referido reajuste.
+Oferecidas as contrarrazões às fls. 623-628 (e-STJ).
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial (fls. 650-651, e-STJ), o que ensejou o manejo do presente agravo (fls. 654-667, e-STJ), buscando destrancar o processamento daquela insurgência.
+Em decisão monocrática (e-STJ, fls. 712-716), este signatário negou provimento ao recurso especial em razão da incidência das Súmulas 5/STJ e 7/STJ.
+No presente agravo interno (e-STJ, fls. 720-731), a ora agravante combate os óbice supracitados e reitera os mesmos argumentos lançados nas razões do apelo extremo.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Impugnação às fls. 735-740 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA, DE PLANO, NÃO CONHECER DO APELO EXTREMO.
+INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. "A jurisprudência desta Corte é firme no sentido de que não é abusiva a cláusula que prevê a possibilidade de reajuste do plano de saúde, seja por variação de custos ou por aumento de sinistralidade, cabendo ao magistrado a respectiva análise, no caso concreto, do caráter abusivo do reajuste efetivamente aplicado. Precedentes" (AgInt no AREsp n. 2.043.624/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 8/8/2022, DJe de 26/8/2022).
+2. No caso concreto, derruir a conclusão do Tribunal local, que asseverou a inexistência de prova idônea justificadora da efetiva necessidade dos percentuais de reajuste aplicados, demandaria incursão nas cláusulas contratuais e nos fatos e provas coligidos aos autos, providência vedada em sede de recurso especial, ante os óbices das Súmulas 5 e 7 do STJ.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte agravante são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida na íntegra, por seus próprios fundamentos.
+1. Não merece reparos a decisão agravada que aplicou o óbice das Súmulas 5/STJ e 7/STJ à pretensão recursal relativa à legalidade do reajuste por sinistralidade.
+Ao apreciar a controvérsia, o Tribunal de origem consignou o seguinte no acórdão ora combatido (e-STJ, fl. 533):
+De fato, são lícitas as cláusulas que preveem reajustes baseados no incremento da sinistralidade, e variação dos custos médicos hospitalares, uma vez que, em tese, estas se prestam a preservar o equilíbrio econômico-financeiro do próprio contrato, evitando o desfazimento do vínculo por quebra do sinalagma.
+Todavia, sua aplicação depende do preenchimento e da demonstração da necessidade concreta de reequilíbrio contratual, não podendo tais cláusulas serem utilizadas como verdadeiro "cheque em branco" à disposição da seguradora, para fins de reajustar anual, imoderada e imotivadamente seus preços.
+Destarte, embora a parte ré, ora apelante, defenda que a ANS autoriza a incidência dos reajustes por variação dos custos médicos-hospitalares e por incremento da sinistralidade, o que é real, nota-se que esta manteve incógnita de que forma apurou o índice efetivamente utilizado no período impugnado, certo que ao beneficiário não foi conferida a oportunidade de verificar, de forma prévia, a legalidade e justeza destes, que dependem de dados, elementos e informações absolutamente desconhecidos pelo consumidor, detidos tão somente pela operadora.
+(..)
+Como não existem elementos suficientes, contudo, os índices indicados pela apelante são inaplicáveis, mormente porque não há nenhuma comprovação do aumento da sinistralidade, tampouco foi apresentada a devida justificativa para o reajuste proposto em sua contestação, ônus que incumbia à parte apelante (artigo 373, inciso II, do Código de Processo Civil).
+Assim, à mingua de índices claros para aplicação ao caso concreto, mas a fim de evitar enriquecimento sem causa e desequilíbrio econômico do contrato entre as partes, de rigor a adoção dos índices estipulados pela ANS, para planos individuais, de maneira análoga, como parâmetro máximo de aumento permitido, tendo em vista que não comprovado o "quantum" de aumento da sinistralidade pela parte a quem aproveitaria.
+É de se observar que, na hipótese, os aumentos são expressivos, e não foi trazida à colação prova inequívoca ou clara suficiente, autorizando conclusão de que guardam relação com a elevação da sinistralidade articulada.
+Consoante asseverado na decisão singular, é válida a cláusula de reajuste por sinistralidade dos contratos de plano de saúde. Entretanto, eventual abusividade no percentual aplicado deve ser apurada no caso concreto.
+Na hipótese ora em análise, conforme se extrai do trecho acima colacionado, a Corte estadual entendeu que a majoração realizada não foi acompanhada de prova idônea justificadora da efetiv a necessidade dos percentuais de reajuste aplicados.
+Assim, a reforma das conclusões a que chegou o Tribunal de origem e o acolhimento da pretensão recursal ensejaria o necessário revolvimento das provas constantes dos autos, bem como do contrato entabulado entre as partes, providências vedadas em sede de recurso especial, ante o óbice estabelecido pelas Súmulas 5 e 7/STJ.
+No mesmo sentido, confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. Derruir a conclusão do Tribunal local, que concluiu pela inexistência de prova idônea justificadora da efetiva necessidade dos percentuais de reajuste aplicados, demandaria incursão nas cláusulas contratuais e nos fatos e provas coligidos aos autos, providência vedada em sede de recurso especial, ante os óbices das Súmulas 5 e 7 do STJ.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 1.947.493/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 28/3/2022, DJe de 31/3/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. PLANO DE SAÚDE COLETIVO. OMISSÃO. AUSÊNCIA. REAJUSTE POR SINISTRALIDADE. ABUSIVIDADE. ELEMENTOS QUE EMBASAM O AUMENTO. AUSÊNCIA DE DEMONSTRAÇÃO. REEXAME. SÚMULA N. 7/STJ. FUNDAME NTO INATACADO. SÚMULA N. 283/STF.
+1. Não há negativa de prestação jurisdicional quando as questões fundamentais ao deslinde da controvérsia foram apreciadas de forma coerente e fundamentada pelo Tribunal estadual, não consubstanciando violação do art. 1.022 do CPC a tomada de posição contrária ao interesse da parte.
+2. "A jurisprudência desta Corte se firmou no sentido de ser lícita a cláusula que prevê a possibilidade de reajuste do plano de saúde, seja por variação de custos ou por aumento de sinistralidade, cabendo ao magistrado a análise, no caso concreto, do caráter abusivo do reajuste efetivamente aplicado" (AgInt no AREsp n. 2.224.210/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/5/2023, DJe de 22/5/2023.)
+3. Alterar o decidido no acórdão impugnado, no que se refere à ausência de justificativa para o reajuste por sinistralidade, exige o reexame de fatos e provas, bem como a análise do contrato firmado entre as partes, o que é vedado em recurso especial pela Súmula n. 7 do STJ.
+4. No caso, o recorrente deixa de impugnar o fundamento do acordão recorrido no sentido de "ainda que os planos coletivos não estejam sujeitos ao índice de reajuste anual divulgado pela ANS, há necessidade de comprovação do aumento da sinistralidade, para que o correspondente reajuste se repute válido, o que não ocorreu no caso concreto", o que atrai a incidência da Súmula n. 283/STF.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.034.260/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. INOVAÇÃO RECURSAL. DESCABIMENTO. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. SÚMULA N. 283/STF. PLANO DE SAÚDE COLETIVO. REAJUSTE. ABUSO. REAVALIAÇÃO DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+(..)
+5. "A jurisprudência desta Corte é firme no sentido de que não é abusiva a cláusula que prevê a possibilidade de reajuste do plano de saúde, seja por variação de custos ou por aumento de sinistralidade, cabendo ao magistrado a respectiva análise, no caso concreto, do caráter abusivo do reajuste efetivamente aplicado. Precedentes" (AgInt no AREsp n. 2.043.624/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 8/8/2022, DJe de 26/8/2022).
+6. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual, ou incursão no contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+7. No caso concreto, o Tribunal de origem concluiu pelo abuso do índice aplicado. Alterar esse entendimento demandaria o reexame de matéria fática, o que é vedado em recurso especial.
+8. O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige a similitude fática entre os acórdãos confrontados.
+9. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.866.876/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/5/2023, DJe de 12/5/2023.)
+De rigor, portanto, a manutenção da decisão agravada.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
