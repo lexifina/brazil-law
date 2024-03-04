@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Mauro Campbell Marques votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E ADMINISTRATIVO. ARTIGO 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos Embargos de Declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os Embargos de Declaração, por consistirem em mero inconformismo da parte.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em análise, Embargos de Declaração opostos pela UNIÃO contra acórdão da Segunda Turma do STJ, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E ADMINISTRATIVO. PREQUESTIONAMENTO IMPLÍCITO. DEVOLUÇÃO DOS AUTOS À ORIGEM. APLICAÇÃO DO DIREITO À ESPÉCIE. PRECEDENTES. AGRAVO INTERNO PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+1. Há prequestionamento implícito quando a Corte de origem, mesmo sem a menção expressa ao dispositivo de lei federal tido por violado, manifesta-se, no acórdão impugnado, acerca da matéria debatida. Precedentes.
+2. É vedada a inovação recursal, seja em agravo regimental, seja em embargos de declaração, ante a ocorrência da preclusão consumativa. Precedente: AgRg no AREsp 247.288/PE, Rel. Min. Humberto Martins, Segunda Turma, DJe de 24/5/2013, AgRg no AREsp 304.572/AL, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 22/5/2013.
+3. Cabe examinar, no presente agravo interno, tão somente a parte contestada da decisão impugnada, permanecendo incólumes os fundamentos não refutados pela parte agravante. Precedentes.
+4. "Com efeito, quando a aplicação do direito à espécie pressupõe o exame de matéria de fato, faz-se necessário o retorno dos autos ao Tribunal de origem, para ultimação do procedimento de subsunção das circunstâncias fáticas da causa às normas jurídicas incidentes, na espécie" (EDcl no REsp 1.308.581/PR, Rel. Min. Assusete Magalhães, Segunda Turma, julgado em 17/3/2016, DJe 29/3/2016).
+5. Impõe-se a devolução dos autos ao Tribunal de origem, para que este examine a validade do título de propriedade e suas consequências, à luz do regime jurídico vigente na época de sua emissão, observados os parâmetros estabelecidos por esta Corte.
+6. Agravo interno parcialmente conhecido e, nessa extensão, não provido (e-STJ, fl. 2.509).
+A parte embargante sustenta, em síntese, "que ao contrário do asseverado no acórdão embargado, houve nítido revolvimento do conjunto fático-probatório" (e-STJ, fl. 2.627); alega que "a Turma incorreu em equívoco de premissa ao considerar que a declaração de caducidade teria decorrido do entendimento de que a cláusula resolutiva expressa possui efeito automático, quando, na verdade, a caducidade foi declarada em decorrência da prova pericial" (e-STJ, fl. 2.629).
+Ao final, a parte embargante requer o "acolhimento dos presentes embargos de declaração, com efeitos modificativos, para que o agravo interno seja conhecido e provido" (e-STJ, fl. 2.629).
+NATAN LUDOVICO PINHEIRO LACERDA e ANTONIA LUZINETE PIMENTA LACERDA apresentaram impugnação aos Embargos de Declaração às fls. 2.632/2.640e.
+O MINISTÉRIO PÚBLICO FEDERAL apresentou parecer opinando "pelo provimento dos embargos de declaração da União com o não conhecimento ou o desprovimento do recurso especial dos particulares" (e-STJ, fl. 2.661).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E ADMINISTRATIVO. ARTIGO 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos Embargos de Declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os Embargos de Declaração, por consistirem em mero inconformismo da parte.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço dos embargos, porquanto presentes os pressupostos de admissibilidade.
+O artigo 1.022 do Código de Processo Civil dispõe o seguinte:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Parágrafo único. Considera-se omissa a decisão que:
+I - deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento;
+II - incorra em qualquer das condutas descritas no art. 489, § 1º.
+Conforme o aludido dispositivo legal, os Embargos de Declaração não servem à reforma do julgado, e não permitem a rediscussão da matéria; pois o seu objetivo é introduzir o estritamente necessário para eliminar obscuridade, contradição, erro material, e/ou suprimir omissão.
+A omissão que autoriza a oposição dos Embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+De se ver, então, serem limitados os efeitos dos Embargos Declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso dos autos, não constam no acórdão ora embargado os vícios apontados pela embargante. Revelando-se, em verdade, mero inconformismo da parte embargante, de forma que é imperiosa a rejeição dos Embargos de Declaração.
+Com efeito, no acórdão embargado, foram expostos de forma clara os motivos pelos quais o Recurso Especial interposto pelos ora embargados comportaria conhecimento, constando, de forma expressa, que:
+(..)
+o acórdão recorrido decidiu a controvérsia sob o enfoque do implemento da cláusula resolutiva tácita e, conforme consignado na decisão agravada, foram prequestionados, ainda que implicitamente, os dispositivos apontados como violados.
+Além disso, com fundamento no quadro fático delineado no julgado combatido, observada a importância social da área controvertida e por não poder esta instância especial rever o conjunto fático-probatório dos autos, foi determinada a devolução dos autos à origem para se verificar a higidez do título de propriedade em razão de eventual implemento automático de cláusula resolutiva e da caducidade administrativa, observadas a legislação vigente à época e as premissas fixadas por este Tribunal Superior.
+Ademais, conforme entendimento pacificado no âmbito desta Corte, quando o relator inicia a análise do mérito do recurso especial, implicitamente deve-se considerar ultrapassadas as preliminares de ordem formal (AgRg no Ag n. 1.276.352/RS, Ministra Laurita Vaz, Quinta Turma, DJe de 18/10/2010.)
+(..)
+De qualquer modo, não há prejuízo para as partes, em face da providência determinada na decisão monocrática de retorno dos autos à origem para que a Corte local, atenta às balizas ora firmadas por este Tribunal Superior e à legislação vigente na época do ato jurídico negocial, profira outro acórdão como entender de direito.
+Assim, não há falar em nenhuma ofensa ao óbice da Súmula n. 7/STJ (e-STJ, fls. 2.585-2.586).
+Importante destacar que a matéria também foi apreciada em voto-vista, proferido pelo Ministro HERMAN BENJAMIN, com base na seguinte fundamentação:
+O exame de controvérsias relacionadas a revogação, reversão e prescrição de doação com encargo, via Recurso Especial, acaba, em regra, por esbarrar em análise de lei local ou de provas dos autos, porque, na maioria dos casos, a demanda é decidida com base no que previsto nos diplomas estaduais, municipais e/ou nas provas dos autos. Nessa linha: REsp 1.690.532/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 23/10/2017; AgInt no AREsp 1.244.796/GO, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 8/6/2018; e AgRg no REsp 1.295.543/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe 3/2/2014.
+Todavia, no caso dos autos, a Corte a quo aplicou o art. 121 do CC/2002 e solucionou o feito a partir do entendimento de que, implementada cláusula resolutiva tácita, há caducidade do título de concessão de domínio, independentemente de examinar a existência de registro de tal título ou a ocorrência de prescrição para revogação da doação, nos termos das leis vigentes à época dos fatos.
+Efetivamente, ao negar o provimento à Apelação dos autores, o aresto vergastado registrou (fls. 1.946-1.949):
+(..)
+No mais, a controvérsia é eminentemente jurídica e decidida com fulcro na legislação federal. Discute-se a possibilidade de se reconhecer, de ofício, em ação de desapropriação indireta, nulidade de título de domínio outorgado pelo Estado, em virtude do implemento de cláusula resolutiva decorrente de descumprimento de doação com encargo por quem detinha o título inicialmente e, depois, pelos sucessores dele, independentemente de: a) notificação para cumprimento do aludido encargo; b) propositura de ação para tal fim pelo citado ente federativo; c) cancelamento do registro do aludido título; e d) exame de eventual consumação do prazo prescricional para revogação da doação, nos termos das leis vigentes à época dos fatos (e-STJ, fls. 2.607-2.612).
+Assim, não há vício formal no aresto, mas tão somente a pretensão da parte embargante de rediscutir matéria já decidida - o que não se admite, ante a especialidade da via eleita.
+Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgInt no AREsp 2.372.143/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020.
+Isso posto, rejeito os Embargos de Declaração.
