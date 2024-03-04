@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CI VIL. AÇÃO DE INDENIZAÇÃO. PETIÇÃO. INTEMPESTIVIDADE. NÃO-ANÁLISE. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. FUNDAMENTO DO ACÓRDÃO ESTADUAL NÃO IMPUGNADO. SÚMULA 283/STF. BANCO. AQUISIÇÃO POR OUTRA INSTITUIÇÃO BANCÁRIA. SUCESSÃO CARACTERIZADA. INCLUSÃO DO SUCESSOR NO POLO PASSIVO DA DEMANDA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283/STF.
+2. "Demandaria reexame de provas rever o entendimento de ser o Banco Bradesco parte legítima para responder pelas ações em que o Banco Econômico figura, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ. Precedente" (AgRg no AREsp 513.950/SE, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/8/2014, DJe de 2/9/2014).
+3. No caso, o eg. Tribunal a quo, com arrimo no acervo fático-probatório carreado aos autos, concluiu que o ora agrav ante é sucessor do Banco Econômico S/A e que "(..) as responsabilidades de Autores e Réu pelo ocorrido se equivalem, de modo que o prejuízo decorrente deve ser suportado por ambas as partes, em partes iguais". A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, conforme dispõe a Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno (fls. 1.215-1.230) interposto por BANCO BRADESCO S/A contra decisão (fls. 1.206-1.211), desta relatoria, que conheceu do agravo para não conhecer do recurso especial, sob os seguintes fundamentos: a) incidência da Súmula 283/STF, no tocante à alegada violação aos arts. 7º, 201, 212 e 283 do CPC/2015; e b) aplicação da Súmula 7/STJ, quanto à suposta ofensa aos arts. 17, 109, 373, 485, VI, § 3º, e 489 do CPC/2015; ao art. 6º, I, da Lei 9.447/98 e ao art. 18 da Lei 6.024/74.
+Nas razões do agravo interno, BANCO BRADESCO S/A alega, entre outros argumentos, que "(..) destacou que não haveria que se falar em intempestividade, pois, falha da secretaria, ao não juntar aos autos a petição protocolizada, não poderia prejudicar ao Agravante. Ao contrário do que sustenta o Ministro Relator, não tem aplicação ao caso o enunciado sumular nº 283/STF, pois o Agravante destacou capítulo próprio do agravo em recurso especial para impugnar todos os fundamentos adotados pelo acórdão do Tribunal a quo" (fl. 1.220).
+Aduz, também, que o recurso não encontra óbice na Súmula 7/STJ, pois "(..) defendeu que, de acordo com ofício do Banco Central anexado aos autos em outra oportunidade, restou claro que o Banco Bradesco não é o responsável pela carteira de contas correntes do Banco Econômico, pois, não adquiriu a carteira de passivos do Banco Econômico, estando este atualmente em liquidação extrajudicial, passível de responder por demandas judiciais, sediado na Rua Argentina, Centro, Salvador - BA, tendo como liquidante o Sr. Natalício Pegorini" (fl. 1.224).
+Assevera, ainda, que "(..) esta Corte ao julgar o REsp n. 1.879.166/RJ, entendeu que não se admite o redirecionamento da ação contra pessoa jurídica distinta daquela que, de fato, assumiu os ativos e passivos específicos do Banco Econômico S.A., senão pela via da desconsideração da personalidade jurídica, observados os requisitos do art. 50 do Código Civil" (fl. 1.227).
+Ao final, pleiteia a reconsideração da decisão agravada ou, se mantida, seja o recurso levado a julgamento perante a eg. Quarta Turma.
+Sem impugnação (vide certidões às fls. 1.234-1.235).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CI VIL. AÇÃO DE INDENIZAÇÃO. PETIÇÃO. INTEMPESTIVIDADE. NÃO-ANÁLISE. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. FUNDAMENTO DO ACÓRDÃO ESTADUAL NÃO IMPUGNADO. SÚMULA 283/STF. BANCO. AQUISIÇÃO POR OUTRA INSTITUIÇÃO BANCÁRIA. SUCESSÃO CARACTERIZADA. INCLUSÃO DO SUCESSOR NO POLO PASSIVO DA DEMANDA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283/STF.
+2. "Demandaria reexame de provas rever o entendimento de ser o Banco Bradesco parte legítima para responder pelas ações em que o Banco Econômico figura, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ. Precedente" (AgRg no AREsp 513.950/SE, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/8/2014, DJe de 2/9/2014).
+3. No caso, o eg. Tribunal a quo, com arrimo no acervo fático-probatório carreado aos autos, concluiu que o ora agrav ante é sucessor do Banco Econômico S/A e que "(..) as responsabilidades de Autores e Réu pelo ocorrido se equivalem, de modo que o prejuízo decorrente deve ser suportado por ambas as partes, em partes iguais". A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, conforme dispõe a Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+VOTO
+O recurso em apreço não merece prosperar, na medida em que não foram apresentados argumentos jurídicos aptos a ensejar a modificação da decisão agravada.
+De início, deve ser confirmada a aplicação da referida Súmula 283/STF, no que se refere à suposta ofensa aos arts. 7º, 201, 212 e 283 do CPC/2015.
+Como assentando na decisão singular, ora vergastada, o eg. Tribunal Estadual rejeitou o suscitado cerceamento de defesa, concluindo que a manifestação da ora agravante - que se insurgia contra sua inclusão no polo passivo da demanda - era intempestiva. A título elucidativo, transcreve-se o seguinte trecho do v. acórdão estadual (fls. 928-929):
+"Não merece guarida a preliminar de nulidade processual, por cerceamento de defesa, suscitada pelo Apelante.
+Em que pese a Secretaria da 4ª Vara das Relações de Consumo, Cível e Comercial e de Acidentes de Trabalho da Comarca de Ilhéus somente ter juntado aos autos a petição de fl. 609/610 após a prolação da sentença, tal fato não acarretou cerceamento de defesa do Apelante.
+Sim, porque após os pedidos formulados pelos Autores/Apelados às fls. 505/510 e 550/555, o Magistrado a quo proferiu a decisão de fls. 559/566, admitindo a sucessão processual do Banco Econômico S/A pelo Banco Bradesco S/A, incluindo este último, ora Apelante, no polo passivo da relação processual.
+Dessa decisão de fls. 559/566, o Apelante, cientificado através de carta citatória, cujo AR (fls. 571) foi juntado aos autos em 28.05.2014 (fls. 570-v), não se manifestou no prazo concedido pelo Magistrado a quo nem recorreu oportunamente.
+Significa dizer que, ainda que a petição de fls. 609/610 tivesse sido juntada aos autos na data em que protocolizada junto aos Correios, ou seja, 06.08.2014 (fls. 609-v), essa manifestação seria intempestiva, de modo que não teria o condão de influenciar a decisão do Magistrado a quo.
+Não há, pois, como cogitar de cerceamento de defesa, razão pela qual rejeito a preliminar." (g. n.)
+Por seu turno, o apelo nobre deixou de impugnar a fundamentação ora destacada, a qual é suficiente para a manutenção, nessa parte, do v. acórdão estadual. Nesse contexto, nessa parte, o apelo encontra óbice na Súmula 283/STF. Além dos precedentes já homenageados, destacam-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO. IMPUGNAÇÃO. AUSÊNCIA. SÚM. N. 283/STF. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚM. N. 7/STJ. DESPESAS DE CAMPANHA. RESPONSABILIDADE SOLIDÁRIA ENTRE CANDIDATO E PARTIDO. PRECEDENTES DO STJ. SÚM. N. 83/STJ. DECISÃO MANTIDA.
+(..)
+2. O especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283 do STF, aplicada por analogia.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.146.151/SP, relator MINISTRO ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 14/8/2023, DJe de 18/8/2023 - g. n.)
+"PROCESSO FALIMENTAR. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. CONTRADIÇÃO E OMISSÃO NO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. RAZÕES DO RECURSO ESPECIAL DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO PROFERIDO NA ORIGEM. INCIDÊNCIA DA SÚMULA N. 284 DO STF. NOTIFICAÇÃO EXTRAJUDICIAL DO ADMINISTRADOR EMPRESARIAL PARA PURGAÇÃO DA MORA. NULIDADE. INEXISTÊNCIA. INCIDÊNCIA DAS SÚMULAS N. 283 DO STF E 7 DO STJ. NULIDADE DA CONSOLIDAÇÃO DA PROPRIEDADE IMOBILIÁRIA DE BEM IMÓVEL DA MASSA FALIDA. NECESSIDADE DE NOTIFICAÇÃO DA PURGAÇÃO DA MORA AO SÍNDICO. NÃO OCORRÊNCIA. CARACTERIZAÇÃO DO COMPORTAMENTO CONTRADITÓRIO. AGRAVO INTERNO NÃO CONHECIDO.
+(..)
+3. A existência de fundamentos suficientes para a manutenção do aresto recorrido e não impugnados nas razões do recurso especial atrai, por analogia, a aplicação da Súmula n. 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente, e o recurso não abrange todos eles").
+(..)
+8. Agravo interno não conhecido."
+(AgInt no REsp n. 1.920.325/PR, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 5/6/2023, DJe de 7/6/2023 - g. n.)
+Avançando, melhor sorte não socorre o recurso no tocante à suscitada ofensa aos arts. 17, 109, 373, 485, VI, § 3º, e 489 do CPC/2015; ao art. 6º, I, da Lei 9.447/98 e ao art. 18 da Lei 6.024/74. Nessa parte, também deve ser confirma da a aplicação da Súmula 7/STJ.
+Na espécie, o eg. Tribunal de Justiça do Estado da Bahia (TJ-BA), com fulcro no acervo fático-probatório carreado aos autos, assentou que o ora agravante é sucessor do Banco Econômico S/A e que "(..) as responsabilidades de Autores e Réu pelo ocorrido se equivalem, de modo que o prejuízo decorrente deve ser suportado por ambas as partes, em partes iguais". A título elucidativo, transcreve-se o seguinte trecho do devidamente fundamentado acórdão estadual (fls. 929-938):
+"É que o Banco Bradesco S/A, ora Apelante, ao adquirir o Banco Econômico S/A, adquiriu o ativo e o passivo deste, assumindo as obrigações contratuais da instituição financeira ora em liquidação, e, consequentemente, os direitos e obrigações delas decorrentes, restando caracterizada a sucessão. Por tal motivo, o adquirente deve ser incluído no polo das relações processuais que envolvam a instituição financeira por ele adquirida, como é o caso dos autos.
+(..)
+De mais a mais, se há de registrar que, contra a decisão de fls. 559/566, conforme explicitado acima, o Banco Apelante, dela cientificado por carta citatória (AR de fls. 571 juntado às fls. 570-v), não recorreu oportunamente, restando preclusa a discussão a respeito.
+Por esta razão, correta a decisão do Magistrado a quo em reconhecer a sucessão processual, fazendo incluir o Banco Apelante no polo passivo da presente demanda, razão pela qual rejeito a segunda preliminar.
+No mérito, procede, em parte, a irresignação do Apelante.
+Consta que os Autores, entre os anos de 1992 e 1995, tiveram diversos cheques seus emitidos, assinados e pagos por e em favor do ex-gerente Carlos Augusto dos Santos. Em 22.05.1995, quando se deram conta do que vinha acontecendo, comunicaram o fato ao Banco Econômico S/A, solicitando que a sustação dos
+.. pagamentos de cheques emitidos pela nossa Empresa e assinado pelo nosso Presidente Sr. GILDÁSIO MARTINS LINS, com esta rubrica (..) e não contabilizados até a presente data.
+Lembramos que o pedido acima está sendo feito por força de Auditoria em nossa Empresa, para levantar suspeitas de fraudes estelionatos do ex-funcionário Sr. CARLOS AUGUSTODOS SANTOS" (22.05.1995f1s. 11)
+Segundo afirmam os Autores, com o pagamento pelo Banco Econômico S/Ados cheques falsificados foram lesados em R$291.266,98, daí porque ingressaram em juízo requerendo a reparação do dano.
+A questão da responsabilidade do banco pelo pagamento de cheque falso foi pacificada pelo STF desde os idos do ano de 1963, quando da edição da Súmula n. 28, segundo a qual
+"O estabelecimento bancário é responsável pelo pagamento de cheque falso, ressalvadas as hipóteses de culpa exclusiva ou concorrente do correntista"
+(..)
+No caso dos autos, verifica-se que tanto os Autores quanto o Banco Réu, sucedido pelo ora Apelante, contribuíram para o ocorrido: o Banco Econômico S/A, em razão de ter pago os cheques sem a devida e necessária conferência da assinatura; os Autores, por confiarem o controle de sua vida financeira a pessoa indigna confiança.
+Aliás, no que respeita às assinaturas constantes dos cheques, o Perito do Juízo concluiu serem elas inautênticas, esclarecendo que, embora não forjadas de forma grosseira, a falsidade era detectável a olho nu:
+(..)
+Os Autores, por sua vez, concorreram culposamente para o ocorrido, na medida em que elevaram ao posto de gerente pessoa indigna de confiança, a esta confiando todo o controle de sua vida financeira, o que facilitou a atuação ilícita:
+(..)
+No caso dos autos, as responsabilidades de Autores e Réu pelo ocorrido se equivalem, de modo que o prejuízo decorrente deve ser suportado por ambas as partes, em partes iguais.
+Isto posto, rejeitadas as preliminares, dou provimento parcial ao recurso, para, reformando parcialmente a sentença de primeiro grau, julgar procedente, em parte, o pedido, condenando o ora Apelante ao pagamento de metade do valor de cada um dos cheques falsificados, apresentados e pagos, constantes das comunicações feitas pelos Autores ao Banco Réu - fls. 12, 13/15, 16/18 e 19/20, com correção monetária pelo INPC, desde a indevida compensação de cada um, com de juros de 0,5% ao mês, desde a citação até a entrada em vigor do CC/2002, quando, então, o percentual de juros passa a ser de 1% ao mês."
+(g. n.)
+Nesse cenário, como assentado na decisão singular, a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, conforme dispõe a Súmula 7/STJ. Nesse sentido, confira-se:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUCESSOR DO BANCO ECONÔMICO. LEGITIMIDADE PASSIVA AD CAUSAM DO BRADESCO. FUNDAMENTOS DA DECISÃO AGRAVADA MANTIDOS.
+1. Demandaria reexame de provas rever o entendimento de ser o Banco Bradesco parte legítima para responder pelas ações em que o Banco Econômico figura, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ. Precedente.
+2. Agravo regimental não provido."
+(AgRg no AREsp n. 513.950/SE, relator MINISTRO LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 26/8/2014, DJe de 2/9/2014 - g. n.)
+Com ess as considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
