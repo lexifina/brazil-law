@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial no qual IVANA GARCIA DA SILVA insurgira-se contra decisão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS .
+A questão debatida nos autos, qual seja, "alcance da exceção prevista no § 2º do art. 833 do CPC, em relação à regra da impenhorabilidade da verba de natureza salarial tratada no inciso IV do mesmo dispositivo, para efeito de pagamento de dívidas não alimentares, inclusive quando a renda do devedor for inferior a cinquenta (50) salários mínimos", encontra-se afetada à Corte Especial desta Corte Superior aguardando o julgamento dos Recursos Especiais 1.994.973/PR, 2.071.335/GO, 2.071.382/SE e 2.071.259, de relatoria do Ministro Raul Araújo, sob o rito dos recursos repetitivos (Tema 1.230/STJ).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Pelo exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC) , após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC.
+Publique-se. Intimações necessárias.
+ EMENTA
