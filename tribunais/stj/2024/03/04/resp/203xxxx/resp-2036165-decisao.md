@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se  de  recurso  especial  , convertido a partir de recurso extraordinário com base no art. 1.033 do CPC,  manejado  pela Fazenda Nacional  contra  acórdão  proferido  pelo  Tribunal  Regional  da  4ª  Região,  assim  ementado  (fl.  223):
+TRIBUTÁRIO. IRPJ. CSLL. INCIDÊNCIA SOBRE OS JUROS DA TAXASELIC RECEBIDA PELO CONTRIBUINTE NA REPETIÇÃO DEINDÉBITO.
+1. A Corte Especial do Tribunal Regional Federal da 4ª Região, no julgamento do IAI nº 5025380-97.2014.404.0000, declarou a inconstitucionalidade parcial, sem redução de texto, do § 1º do art. 3º da Lei nº7.713/88, do art. 17 do Decreto-Lei nº 1.598/77, e do art. 43, inc. II e § 1º, do CTN (Lei nº 5.172/66), de forma a afastar a incidência do imposto de renda (IR)e da contribuição social sobre o lucro líquido (CSLL) sobre os juros da taxa SELIC recebida pelo contribuinte na repetição de indébito.
+2. Nos termos do art. 927, V, do CPC, os juízes e os tribunais observarão a orientação do plenário ou do órgão especial aos quais estiverem vinculados.
+3. Aplica-se, por força do art. 927, III, do CPC, o precedente em Recurso Repetitivo do STJ no RESP 1.138.695:
+4. Os pagamentos maiores que os devidos poderão ser compensados, após o trânsito em julgado, na forma prevista no art. 74 da Lei9.430/96, atualizados pela taxa SELIC a contar do mês seguinte ao do pagamento indevido, conforme dispõe o art. 73 da Lei 9.532/97, observada a prescrição quinquenal do art 3º da LC 118/05.
+Às fls. 236/254, a Fazenda Nacional interpôs recurso extraordinário, pugnando pelo reconhecimento da incidência de IRPJ e CSLL sobre os valores atinentes à Taxa Selic recebidos em razão de repetição de indébito tributário e na devolução de depósitos judiciais.
+Após decisum de admissibilidade (fls. 305/307) que negou seguimento ao recurso extraordinário, na parcela referente ao Tema 962/STF, e inadmitiu o recurso extraordinário, na parte atinente aos valores auferidos a título de Taxa Selic sobre o levantamento de depósitos judiciais, foi interposto agravo em recurso extraordinário (fls. 318/340).
+O Supremo Tribunal Federal, às fls. 368/371, proferiu decisão que, com base no art. 1.033 do CPC, determinou a remessa dos autos ao Superior Tribunal de Justiça, por entender que a matéria ora em debate cingia-se à interpretação de questões infraconstitucionais.
+Parecer do Ministério Público Federal às fls. 381/383.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Da análise detida dos autos, constata-se que o pedido formulado na exordial restringe-se à "inclusão dos valores percebidos a título de encargos moratórios e correção monetária na restituição de tributos administrativamente e judicialmente (SELIC no caso de repetição de indébito tributário no âmbito federal) na base de cálculo do IRPJ e da CSLL" (fl. 26 - g.n.).
+Nesse panorama, ressai evidente a falta de interesse recursal da Fazenda recorrente em debater acerca da incidência tributária sobre depósitos judiciais, matéria, como visto, estranha ao pedido autoral.
+A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. QUESTÃO AFASTADA PELO TRIBUNAL DE ORIGEM. INTERESSE RECURSAL INEXISTENTE. ALEGADA OFENSA AO ART. 174 DO CTN. AUSÊNCIA DE COMANDO NORMATIVO APTO A SUSTENTAR A TESE RECURSAL. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. FALTA DE IMPUGNAÇÃO A FUNDAMENTO BASILAR DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. MATÉRIA CONHECÍVEL DE OFÍCIO. INEXISTÊNCIA DE INTERESSE RECURSAL.
+1. Carece o recorrente de interesse recursal no que tange à tese de inobservância à publicidade dos atos processuais e à garantia de paridade entre as partes, haja vista o saneamento da nulidade processual pelo Tribunal a quo. Inteligência do brocardo jurídico pas de nullité sans grief.
+2. Quanto à violação ao art. 174 do CTN, tem-se, a uma, que o referido dispositivo legal não contém comando capaz de sustentar a tese recursal centrada na falta de perfectibilização do parcelamento, nem de infirmar o juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF. A duas, a alteração das conclusões adotadas pela Corte de origem a respeito de não se ter operado a prescrição na espécie, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. O recurso especial não impugnou fundamentos basilares que amparam o acórdão recorrido, ao reconhecer a possibilidade de juntada posterior de documentos relativos à aferição da prescrição do crédito tributário discutido, esbarrando, pois, no obstáculo da Súmula 283/STF. Ademais, como cediço, "as questões cognoscíveis de ofício na instância ordinária, especialmente as que tratam de matéria de ordem pública, devem ser analisadas nos Embargos de Declaração apresentados na origem, independentemente da ocorrência de omissão" (REsp 1.571.901/SC, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 13/12/2016, DJe 19/12/2016), pelo que carece a parte recorrente de interesse recursal, consubstanciado no binômio necessidade-utilidade, de se insurgir contra o aresto recorrido no particular.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.863.729/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. SUCUMBÊNCIA INEXISTENTE. FALTA DE INTERESSE RECURSAL. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Se a parte restou vitoriosa com relação ao mérito da ação, não se observa o binômio utilidade/necessidade que permita a interposição de agravo regimental.
+2. Com efeito, inexistente sucumbência, configurada a ausência de interesse recursal.
+3. Agravo regimental não conhecido.
+(AgRg no HC n. 546.457/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/2/2020, DJe de 14/2/2020.)
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+EMENTA
