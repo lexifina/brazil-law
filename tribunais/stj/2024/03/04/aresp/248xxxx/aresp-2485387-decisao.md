@@ -1,0 +1,83 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por BRUNO M. BARBOSA LTDA, em face de decisão que não admitiu recurso especial da parte ora insurgente.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 304, e-STJ):
+APELAÇÃO. AÇÃO COMINATÓRIA E INDENIZATÓRIA. SENTENÇA DE PROCEDÊNCIA. REFORMA. SUSPENSÃO DE ANÚNCIOS JUNTO À PLATAFORMA MERCADO LIVRE. COMERCIALIZAÇÃO DE PRODUTOS IDÊNTICOS AOS DA RÉ, O QUE JUSTIFICA A DENÚNCIA. NOMES SEMELHANTES, O QUE PODE CAUSAR CONFUSÃO NO CONSUMIDOR. TENTATIVA DE ALAVANCAR AS VENDAS. VIOLAÇÃO AO PRINCÍPIO DA BOA-FÉ. APELAÇÃO DA RÉ PROVIDA.
+Os embargos declaratórios opostos foram rejeitados (fls. 344-351, e-STJ).
+Nas razões do recurso especial (fls. 353-360, e-STJ), o insurgente apontou violação dos seguintes artigos: a) 489, §1º, IV, do CPC, sustentando que o acórdão não enfrentou o argumento de que a parte recorrida não seria titular do trade dress do modelo da bolsa que alega estar sendo copiado; b) 109 da LPI, ao argumento de que a parte recorrida não possuiria o registro do desenho industrial da bolsa junto ao INPI.
+Contrarrazões às fls. 385-392, e-STJ.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 407-408, e-STJ), dando ensejo na interposição do presente agravo (fls. 416-420, e-STJ), visando destrancar aquela insurgência.
+Contraminuta às fls. 423-429, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. De início, o insurgente alega vulneração do artigo 489, §1º, IV, do CPC, sustentando que o acórdão não enfrentou o argumento de que a parte recorrida não seria titular do trade dress do modelo da bolsa que alega estar sendo copiado em denúncia realizada no site Mercado Livre.
+Acerca das denúncias realizadas na mencionada plataforma, o Tribunal local assim decidiu (fls. 310-312, e-STJ):
+O trade dress constitui o "conjunto-imagem" identificador e distintivo dos produtos colocados no mercado, composto de elementos visuais e gráficos, como cores, forma da embalagem, tampa, disposição de letras e imagens, etc., justamente para distinguir esses produtos dos concorrentes.
+A título de exemplo, destaca-se que, enquanto uma simples garrafa plástica transparente possa ser algo comum, sem qualquer proteção de exclusividade, quando utilizada com um rótulo vermelho, com letras brancas, em letras discursivas, combinada com a tampa vermelha, automaticamente remete à famosa embalagem do refrigerante Coca-Cola, distinguindo-se, assim, dos demais refrigerantes acondicionados em garrafas plásticas transparentes e com formato semelhante.
+E, embora o ordenamento jurídico não contenha previsão expressa acerca do trade dress, é certo que esse conjunto-imagem também encontra amparo na legislação, uma vez que a Constituição Federal, em seu art. 5º, XXIX, garante "proteção às criações industriais, à propriedade das marcas, aos nomes de empresas e a outros signos distintivos, tendo em vista o interesse social e o desenvolvimento tecnológico e econômico do País" (sublinhei).
+Acrescenta-se, ainda, a proteção contra concorrência desleal estabelecida na Convenção da União de Paris, promulgada no Brasil pelo Decreto nº 75.572/75, e em dispositivos da Lei de Propriedade Industrial (Lei nº 9.279/96), como os arts. 2º, V, 195, III e 209, referidos pela Ministra Nancy Andrighi, do Superior Tribunal de Justiça, no julgamento do REsp nº 1.677.787/SC (j. em 02/10/2017):
+ ..
+À luz de todas essas considerações, justifica-se, no caso concreto, a reforma da r. sentença, haja vista que se verifica considerável similitude entre as bolsas comercializadas pela autora e os produtos da ré, suficientes para causar associação indevida.
+Basta uma simples análise das fotos para verificar que, de fato, trata-se de evidente imitação aos produtos da marca "Schutz", com utilização de formatos e símbolos muito semelhantes aos da ré.
+A semelhança entre os produtos das partes é inegável, restando evidente a tentativa da autora de valer-se do sucesso da ré para alavancar suas vendas.
+Segundo o art. 187, do CC, comete ato ilícito o titular de um direito que, "ao exercê-lo, excede manifestamente os limites imposto pelo seu fim econômico ou social, pela boa-fé ou pelos bons costumes"(g. n.).
+Ou seja, ainda que detentora da marca "Lorena Selten", cujo pedido foi depositado após o ajuizamento da presente ação, portanto, depois das denúncias realizadas junto à plataforma Mercado Livre, as peculiaridades do caso não indicam abuso na conduta da ré, conforme será demonstrado.
+Restou demonstrado nos autos que o sócio da autora, Sr. Bruno, no ano de 2018, comercializava produtos contrafeitos das marcas Arezzo e Schutz, pertencentes à autora (fls. 199/ 214), visando desvio de clientes, o que causou prejuízos à ré.
+Diante da impossibilidade de continuar exercendo sua atividade da maneira até então realizada, o Sr. Bruno passou a utilizar-se da marca Selten, devidamente registrada junto ao INPI.
+Ocorre que, apesar de não estampar as marcas Arezzo e Schutz, a prática irregular persistiu, ao tentar alavancar as vendas por meio da utilização de modelos idênticos e com o mesmo nome, qual seja, LORENA.
+Assim, apesar da aparente licitude da conduta da autora, o que ocorre, de fato, é a prática reprovável de concorrência sem observância do princípio da boa-fé.
+Portanto, os fatos e documentos trazidos aos autos não corroboram a pretensão da autora, mostrando-se justificável as denuncias realizadas junto à plataforma Mercado Livre.
+Em sede de embargos declaratórios, o decisum foi assim complementado (fl. 350, e-STJ):
+Como mencionado no aresto combatido, as denúncias não se justificam, tão somente, pelo uso da marca LORENA, mas de todo o contexto envolvendo as partes desde 2018, quando os produtos comercializados pelo sócio da embargante, além de copiarem todas as características dos modelos da embargada, ainda traziam suas marcas expressas, quais sejam, AREZZO e SHUTZ.
+O que se observa, foi uma tentativa de legalizar os atos ilícitos praticados, alterando parte da marca, mas mantendo a proximidade com marcas e modelos renomados, o que certamente alavancou suas vendas.
+Por fim, o fato de diversas empresas fabricarem produtos semelhantes, em nada alteram o posicionamento desta C. Câmara, que se limita a analisar os fatos trazidos nos autos, bem como a conduta das partes.
+Vale lembrar que a ação foi proposta pela embargante, não pela ré, que limitou-se a denunciar os anúncios junto à plataforma, sem ajuizar ação de concorrência desleal. Ademais, a eventual prática de ato ilícito por outras pessoas ou empresas não isenta a parte de sua responsabilidade, tampouco afasta a ilicitude da conduta.
+Na hipótese, portanto, constata-se que não restou configurada a negativa de prestação jurisdicional. Conforme a iterativa jurisprudência deste Tribunal superior, não ocorre violação ao artigo 489, § 1º, IV, do CPC/15, quando "o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional" (AgInt no AREsp 794.406/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/08/2017, DJe 28/08/2017).
+No mesmo sentido, vejam-se, a título de exemplo: AgInt no RE nos EDcl nos EDcl nos EAR 513/DF, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 29/03/2017, DJe 25/04/2017; AgInt no AREsp 1053808/PE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 22/08/2017, DJe 25/08/2017; AgInt no REsp 1550044/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/08/2017, DJe 31/08/2017; AgRg no Resp 1249360/AM, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/08/2017, DJe 01/09/2017.
+Cumpre destacar, ainda, que o órgão julgador não é obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Cabe asseverar também que a solução contrária ao interesse da parte não autoriza o reconhecimento da negativa de prestação jurisdicional, tampouco do vício da ausência de fundamentação e, consequentemente, da contrariedade aos dispositivos acima mencionados.
+Nesse sentido é o entendimento deste Sodalício, confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. CONCLUSÃO ESTADUAL FUNDADA EM FATOS, PROVAS E TERMOS CONTRATUAIS FIRMANDO A EXISTÊNCIA DE NEGOCIAÇÕES ENTRE AS PARTES. AUSÊNCIA DO DEVER DE INDENIZAR. SÚMULAS 5 E 7/STJ. VALOR PROBANTE DAS PROVAS. LIVRE APRECIAÇÃO DO JULGADOR. AGRAVO INTERNO DESPROVIDO.
+1. Não há nenhuma omissão ou mesmo contradição a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 489, § 1º, 1.022, I e II, e 1.025 do CPC/2015. A segunda instância dirimiu a causa com base em fundamentação sólida, sem tais vícios, o que não se confunde com omissão ou contradição, tendo em vista que apenas resolveu a celeuma em sentido contrário ao postulado pela parte insurgente.
+ ..
+5. Agravo interno desprovido.
+(AgInt no REsp 1736715/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/02/2019, DJe 13/03/2019)
+PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. VIOLAÇÃO DO ART. 489, § 1º, IV, DO CPC/2015. NÃO OCORRÊNCIA. INCAPACIDADE PREEXISTENTE AO RETORNO DO SEGURADO DO RGPS. REVISÃO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. DIVERGÊNCIA PREJUDICADA.
+ ..
+II - Não viola o art. 489, § 1º, IV, do CPC/2015 o acórdão que contém relatório e fundamentação e que enfrenta todos os argumentos deduzidos capazes de, em tese, infirmar a conclusão adotada anteriormente, dando-lhes, no entanto, deslinde que não atende aos interesses da parte.
+ ..
+V - Agravo em recurso especial conhecido para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+(AREsp 1354584/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 12/02/2019, DJe 15/02/2019)
+AMBIENTAL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. MEDIDA LIMINAR. DEMOLIÇÃO DE EDIFICAÇÕES. RECOMPOSIÇÃO DA COBERTURA FLORESTAL. ELABORAÇÃO DE PLANO DE RECUPERAÇÃO. SÚMULA 7.
+ ..
+3. Constato que não se configura a ofensa ao art. 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentada. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Relatora Ministra Eliana Calmon, DJ de 13.8.2007; e REsp 855.073/SC, Primeira Turma, Relator Ministro Teori Albino Zavascki, DJ de 28.6.2007.
+ ..
+6. Recurso Especial conhecido em parte e, nessa parte, não provido.
+(REsp 1755105/MS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 23/10/2018, DJe 16/11/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO CÍVEL. OBRIGAÇÃO DE FAZER. LAUDO PERICIAL. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do artigo 1022 do Código de Processo Civil. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente. Não se verifica, também, no caso, a alegada vulneração do artigo 489 do Código de Processo Civil, porquanto a Corte local apreciou a lide, discutindo e dirimindo as questões fáticas e jurídicas que lhe foram submetidas. O teor do acórdão recorrido resulta de exercício lógico, ficando mantida a pertinência entre os fundamentos e a conclusão.
+ ..
+3. Agravo interno não provido.
+(AgInt no AREsp 1197469/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/03/2018, DJe 23/03/2018)
+Afasta-se, portanto, a alegada violação aos artigos 489, § 1º, IV, do CPC/15.
+2. Em seguida, alega vulneração do artigo 109 da LPI, ao argumento da ilegalidade das denúncias realizadas, uma vez que a parte recorrida não possuiria o registro do desenho industrial da bolsa junto ao INPI.
+Na hipótese dos autos, o Tribunal local, amparado nas peculiaridades do caso concreto e nas provas dos autos, concluiu que houve evidente imitação aos produtos da marca da recorrida, bem como que não houve abuso desta nas denúncias realizadas no site do Mercado Livre.
+Para alterar tais conclusões, na forma como posta nas razões do apelo extremo, seria necessário o revolvimento de aspectos fáticos e provas dos autos, providência vedada em sede de recurso especial, a teor da Súmula 7/STJ.
+Nesse sentido:
+RECURSO ESPECIAL. DIREITO EMPRESARIAL. DIREITO DA PROPRIEDADE INDUSTRIAL. MARCAS. AÇÃO DE NULIDADE DA MARCA NOMINATIVA VITACIN, COM PEDIDO DE ABSTENÇÃO DE USO. ART. 124, XIX, DA LPI. PRÉVIO REGISTRO, NA MESMA CLASSE, DA MARCA VITAWIN. ALEGADA VIOLAÇÃO DOS ARTS. 124, XIX, 129 e 130 DA LPI. NÃO OCORRÊNCIA. MARCA VITAWIN QUE CONFIGURA MARCA ALTAMENTE SUGESTIVA DO PRODUTO A QUE SE REFERE (SUPLEMENTO MULTIVITAMÍNICO). MARCA FRACA. EXCLUSIVIDADE RESTRITA AO USO LITERAL DO SIGNO COMO REGISTRADO. IMPOSSIBILIDADE DE APROPRIAÇÃO DO NOME GENÉRICO. ART. 124, VI, DA LPI. CONSEQUENTE INVIABILIDADE DA PROTEÇÃO ALMEJADA, QUE ACABARIA POR CONFERIR AMPLA PROTEÇÃO A NOME PRATICAMENTE IGUAL AO GENÉRICO.
+1. Ação proposta com o objetivo de anulação, com fundamento no art. 124, XIX, da LPI, do registro da marca VITACIN, diante do prévio registro da marca VITAWIN na mesma classe de produtos, bem como de condenar a ré a se abster de utilizar referido nome ou qualquer outro signo que se assemelhe à marca anteriormente registrada.
+2. A verificação da impossibilidade de registro de uma marca em razão de possível conflito com marca anteriormente registrada, como regra, demanda o exame (i) do grau de semelhança entre os sinais; (ii) do grau de semelhança entre os produtos; (iii) da possibilidade de confusão ou de associação no público consumidor.
+3. Caso concreto, porém, que apresenta a peculiaridade de a marca anterior, VITAWIN, ser altamente sugestiva dos produtos a que se refere (suplementos multivitamínicos), sendo quase idêntica ao nome genérico em inglês "vitamin".
+3. Se, de acordo com o art. 124, VI, da LPI, não é possível o registro de sinal genérico, necessário, comum, vulgar ou simplesmente descritivo que tenha relação com o produto ou serviço a que se refere, também não é possível que o registro de marca praticamente idêntica ao nome genérico possa se valer de ampla proteção, sob pena de se permitir, por via transversa, aquilo que a própria lei busca evitar: a apropriação, por particulares, de nome comumente utilizado em determinado segmento mercadológico.
+4. Eventual semelhança fonética e gráfica entre as marcas em questão que não se mostra relevante para fins de proteção da marca anterior, uma vez que ambas são evocativas dos produtos a que se referem.
+5. Tratando-se de marca muito fraca, a exclusividade conferida pelo registro deve ser restrita ao uso literal da marca como registrada, o que não é o caso.
+6. Possibilidade de confusão ou de associação indevida que não ficou demonstrada, sobretudo considerando a diferença ideológica existente entre as marcas em questão. Impossibilidade de reexame dos fatos. Súmula 7/STJ.
+7. RECURSO ESPECIAL DESPROVIDO.
+(REsp n. 1.845.508/RJ, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 7/6/2022, DJe de 13/6/2022.)
+Ainda, sobre o tema, confira-se os seguintes julgados: REsp n. 2.104.098, Ministra Nancy Andrighi, DJe de 21/12/2023; REsp n. 1.855.139, Ministro Marco Buzzi, DJe de 20/12/2023; AREsp n. 2.436.225, Ministro Marco Aurélio Bellizze, DJe de 22/11/2023.
+Desta forma, para alterar o entendimento do Tribunal local, na forma como posta, seria necessário novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme previsto na Súmula 7/STJ.
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não se conhecer do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
