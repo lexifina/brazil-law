@@ -1,0 +1,13 @@
+DECISÃO
+Em análise, pedido de tutela provisória antecedente formulado por JEFFERSON AMAURI DE SIQUEIRA , por meio do qual pretende a suspensão da eficácia do acórdão proferido nos autos do Agravo de Instrumento nº 0065899-55.2022.8.16.0000, datado de 09/02/2024, que manteve decisão que indeferiu a antecipação dos efeitos da tutela, assim ementado:
+"DIREITO PROCESSUAL CIVIL E EDUCACIONAL. ENSINO SUPERIOR. ESTUDANTE PORTADOR DE DEFICIÊNCIA VISUAL. PRETENSÃO DE IMPLANTAÇÃO DA ASSISTÊNCIA PEDAGÓGICA DOMICILIAR (APD). DECISÃO QUE INDEFERE A TUTELA DE URGÊNCIA. AUSÊNCIA DOS REQUISITOS DO ART. 300 DO CPC. BENEFÍCIO QUE PRESSUPÕE A PROVISORIEDADE DA CONDIÇÃO DO ESTUDANTE. ART. 1º, "C", DO DL 1044/69. IMPOSSIBILIDADE DE SE ATRIBUIR À UNIVERSIDADE A OBRIGAÇÃO DE SE ADAPTAR À CONDIÇÃO PERENE DO ESTUDANTE, QUE PRECEDE A SUA MATRÍCULA E É INCOMPATÍVEL COM A NATUREZA PRESENCIAL DO CURSO DE MEDICINA. ADAPTAÇÕES PRETENDIDAS PELO ESTUDANTE QUE REFOGEM À RAZOABILIDADE. ART. 3º, VI, DO ESTATUTO DA PESSOA COM DEFICIÊNCIA. DECISÃO CORRETA. AGRAVO DE INSTRUMENTO DESPROVIDO".
+Ao que consta dos autos, pendem de julgamento os Embargos de Declaração opostos ao aresto (fls. 321/360e), tampouco há noticias de que há Recurso Especial interposto. Nesse contexto, o STJ não é competente para processar o pedido de tutela provisória.
+Dispõe o art. 299 do CPC que a tutela provisória será requerida ao juízo da causa e, quando antecedente, ao juízo competente para o exame do pleito principal:
+Art. 299. A tutela provisória será requerida ao juízo da causa e, quando antecedente, ao juízo competente para conhecer do pedido principal.
+Parágrafo único. Ressalvada disposição especial, na ação de competência originária de tribunal e nos recursos a tutela provisória será requerida ao órgão jurisdicional competente para apreciar o mérito.
+Por sua vez, o art. 1.029, § 5º, III, do CPC estabelece que a competência para apreciar o pedido de tutela provisória para atribuir efeito suspensivo ao recurso especial somente se transfere ao Superior Tribunal de Justiça após o juízo de admissibilidade realizado na instância de origem.
+No caso, ao que se tem dos autos, nem ocorreu, ainda, o exaurimento da instância ordinária, diante da pendência de julgamento dos Embargos de Declaração opostos na origem. Nesse contexto, forçoso reconhecer a incompetência desta Corte para processar o pedido de tutela provisória.
+Aplica-se, por analogia, a Súmula 634/STF: "Não compete ao Supremo Tribunal Federal conceder medida cautelar para dar efeito suspensivo a Recurso Extraordinário que ainda não foi objeto de juízo de admissibilidade na origem".
+Ante o exposto, não conheço do pedido de tutela antecipada antecedente.
+Publique-se. Intimem-se.
+EMENTA
