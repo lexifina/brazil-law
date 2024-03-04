@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CARLA VERGINIA ZUCCHETTI PIRES e outros, contra decisão unipessoal que conheceu do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Em suas razões recursais, a parte embargante alega omissão na decisão do STJ no que diz respeito ao dissídio jurisprudencial suscitado.
+Sustenta, nesse sentido, que
+"Busca-se com os presentes aclaratórios, fazer com que este MM. Juízo realize a análise da diversidade de tratamento entre as decisões postas em confronto que, bas icamente, residem em verificar a manutenção devida regular do segurado por vários anos após a contratação, demonstrando que possuía razoável estado de saúde no momento da contratação/renovação da apólice securitária, complementada pelo entendimento do MM. Juízo a quo de que a moléstia referida apenas "contribuiu para a sua causa mortis", não sendo a causa principal." (e-STJ, fls. 1180).
+RELATADO O PROCESSO.
+- Da ausência de omissões
+Nos termos do art. 1.022 do CPC, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja obscuridade, contradição, omissão ou erro material no julgado impugnado.
+Os vícios a que se refere o artigo 1.022 do CPC são aqueles que recaem sobre ponto que deveria ter sido decidido e não o foi, e não sobre os argumentos utilizados pelas partes, sendo certo que não há falar em omissão simplesmente pelo fato de as alegações deduzidas não terem sido acolhidas pelo órgão julgador. A propósito: AgRg no AREsp 37.045/GO, QUARTA TURMA, julgado em 5/3/2013, DJe 12/3/2013; AgInt no AREsp 1043856/SP, TERCEIRA TURMA, julgado em 12/09/2017, DJe 15/09/2017; REsp 1649296/PE, SEGUNDA TURMA, julgado em 05/09/2017, DJe 14/09/2017.
+- Do reexame de provas
+Na hipótese, impõe-se destacar acerca do dissídio jurisprudencial, que o TJ/RS ao enfrentar a controvérsia fundamentou:
+"Não obstante, é de se referir que a jurisprudência citada pela parte recorrente no sentido de ser necessária a indenização securitária mesmo em caso de má-fé comprovada do segurado ao omitir doença preexistente à celebração do seguro não é atribuível ao caso em comento.
+No caso em comento, além de a doença omitida pelo segurado na contratação ter sido causa de sua morte (segundo Certidão de Óbito), o mesmo veio a falecer com 55 anos de idade, muito aquém da expectativa de vida média do brasileiro residente do Rio Grande do Sul no ano do seu falecimento (73,4 anos em média ao brasileiro no Estado do Rio Grande do Sul em 2013,segundo IBGE2). Dessa forma, as particularidades do caso concreto criam óbice ao reconhecimento de que a má-fé do segurado não impactou o risco no contrato ou a própria celebração do mesmo." (e-STJ, fls. 1004).
+Nesse contexto, alterar o decidido no acórdão impugnado, no que se refere ao argumento de que o segurado possuía estado de saúde razoável no momento da contratação da apólice para caracterizar o dissídio jurisprudencial invocado, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso, ante o óbice da Súmula 7/STJ.
+- Da divergência jurisprudencial
+Demais disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente (não cabimento de indenização securitária nos casos de má-fé do segurado ao deixar de informar acerca de doença pré-existente), impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AR Esp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+Portanto, está nítido o propósito da parte embargante de rediscutir temas que foram devidamente apreciados, o que, contudo, não é cabível na via estreita dos embargos de declaração. Nesse sentido: EDcl nos EDcl nos EDcl no AgRg no AgRg no AREsp 453.117/SP, TERCEIRA TURMA, julgado em 16/12/2014, DJe 02/02/2015; EDcl no AgRg no Ag 1.035.101/MS, Quarta Turma, DJe de 28.10.2008; EDcl no AgRg nos EREsp 545.285/RS, Primeira Seção, DJU de 1/8/2006.
+Assim, dissociado, o pleito, de qualquer um dos pressupostos de oposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+Forte nessas razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO SECURITÁRIA. SEGURO. CONTRATAÇÃO. DOENÇA PREEXISTENTE. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA.
+1. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, mormente porque não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração no agravo em recurso especial rejeitados.
