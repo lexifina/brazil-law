@@ -1,0 +1,83 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULAS N. 282/STF E 83/STJ. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Cuida-se de agravo interno interposto contra decisão de minha relatoria que não conheceu do agravo em recurso especial por ausência de impugnação específica dos fundamentos de inadmissibilidade, quais sejam, as Súmulas n. 282/STF e 83/STJ.
+2. No que diz respeito à Súmula n. 282/STF, caberia à parte, para rebater a contento o óbice, demonstrar que os arts. 223 e 303, § 1º, I, e § 2º, do Código de Processo Civil e o art. 1º, item 7.02, da Lista de Serviços Tributáveis anexa à Lei Complementar n. 116/2003 foram devidamente prequestionados. Entretanto, o agravante limitou-se a sustentar o prequestionamento do art. 1º, item 7.02, da Lista de Serviços Tributáveis anexa à Lei Complementar n. 116/2003.
+3. Na linha da jurisprudência deste e.STJ, a decisão de inadmissibilidade é una, de maneira que o agravo em recurso especial interposto, a fim de ser conhecido, deve atacar integralmente todos os seus fundamentos, de forma específica e fundamentada.
+4. A impugnação à Súmula n. 83 do STJ se dá com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, o que não ocorreu no caso concreto.
+5. Dito isso, a jurisprudência desta Corte aplica a Súmula n. 182/STJ ao Agravo em Recurso Especial que não impugna, de forma específica, todos os fundamentos da decisão de admissibilidade proferida na origem.
+6. Agravo interno não provido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto pelo Município de Anápolis, contra a decisão de minha relatoria, assim ementada:
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. SÚMULAS N. 282/STF E 83/STJ. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+Em suas razões recursais, o agravante sustenta que a decisão agravada restou equivocada na medida em que houve impugnação específica de todos os fundamentos da decisão de inadmissibilidade, de forma que não é o caso de incidência das Súmulas n. 282/STF e 83/STJ.
+Pugna, por fim, pela reconsideração da decisão, em juízo de retratação, ou pelo julgamento do presente recurso pelo Órgão Colegiado.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULAS N. 282/STF E 83/STJ. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Cuida-se de agravo interno interposto contra decisão de minha relatoria que não conheceu do agravo em recurso especial por ausência de impugnação específica dos fundamentos de inadmissibilidade, quais sejam, as Súmulas n. 282/STF e 83/STJ.
+2. No que diz respeito à Súmula n. 282/STF, caberia à parte, para rebater a contento o óbice, demonstrar que os arts. 223 e 303, § 1º, I, e § 2º, do Código de Processo Civil e o art. 1º, item 7.02, da Lista de Serviços Tributáveis anexa à Lei Complementar n. 116/2003 foram devidamente prequestionados. Entretanto, o agravante limitou-se a sustentar o prequestionamento do art. 1º, item 7.02, da Lista de Serviços Tributáveis anexa à Lei Complementar n. 116/2003.
+3. Na linha da jurisprudência deste e.STJ, a decisão de inadmissibilidade é una, de maneira que o agravo em recurso especial interposto, a fim de ser conhecido, deve atacar integralmente todos os seus fundamentos, de forma específica e fundamentada.
+4. A impugnação à Súmula n. 83 do STJ se dá com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, o que não ocorreu no caso concreto.
+5. Dito isso, a jurisprudência desta Corte aplica a Súmula n. 182/STJ ao Agravo em Recurso Especial que não impugna, de forma específica, todos os fundamentos da decisão de admissibilidade proferida na origem.
+6. Agravo interno não provido.
+VOTO
+Cuida-se de agravo interno interposto contra decisão de minha relatoria que não conheceu do agravo em recurso especial por ausência de impugnação específica dos fundamentos de inadmissibilidade, quais sejam, as Súmulas n. 282/STF e 83/STJ.
+Nas razões do presente agravo, a parte assevera que houve impugnação específica de todos os fundamentos da decisão de inadmissibilidade.
+O pleito não comporta acolhida.
+Da leitura do agravo em recurso especial, verifica-se que houve menção às Súmulas n. 282/STF e 83/STJ, entretanto, tal menção não é apta a rebater os fundamentos de inadmissibilidade.
+Explico.
+No que diz respeito à Súmula n. 282/STF, caberia à parte, para rebater a contento o óbice, demonstrar que os arts. 223 e 303, § 1º, I, e § 2º, do Código de Processo Civil e o art. 1º, item 7.02, da Lista de Serviços Tributáveis anexa à Lei Complementar n. 116/2003 foram devidamente prequestionados.
+Entretanto, o agravante limitou-se a sustentar o prequestionamento do art. 1º, item 7.02, da Lista de Serviços Tributáveis anexa à Lei Complementar n. 116/2003.
+No ponto, colaciono excerto da argumentação da parte (e-STJ fl. 502):
+Data maxima venia, em que pese a sabedoria do i. Desembargador, a decisão que negou seguimento ao Recurso Especial, pelo menos em relação à violação ao art. 1o, item 7.02, da Lista de Serviços Tributáveis anexa à Lei Complementar no 116/2003, se revela equivocada e merece ser reformada para determinar o normal processamento do recurso.  grifo não original
+Vale consignar que, na linha da jurisprudência deste e.STJ, a decisão de inadmissibilidade é una, de maneira que o agravo em recurso especial interposto, a fim de ser conhecido, deve atacar integralmente todos os seus fundamentos, de forma específica e fundamentada.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSUAL CIVIL. JULGAMENTO FUNDAMENTADO PELA CORTE DE ORIGEM. MULTA PROCON. CRITÉRIO DE GRADAÇÃO. PRAZO DO ART. 18, § 1º, DO CÓDIGO DE DEFESA DO CONSUMIDOR. REVISÃO DO VALOR DOS HONORÁRIOS. NECESSIDADE DE REVOLVIMENTO DE FATOS E PROVAS. INVIABILIDADE EM SEDE DE APELO ESPECIAL. AGRAVO INTERNO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência do STJ tem entendido que a decisão de inadmissão do Recurso Especial é una e, portanto, não é passível de cisão em capítulos autônomos (AgInt no AREsp. 1.461.155/SP, Rel. Min. OG FERNANDES, DJe 09.09.2019; AgInt no AREsp. 1.345.149/MT, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 25.02.2019).
+2. O acórdão recorrido mostra-se devidamente fundamentado, não havendo que se falar em omissão, contradição, obscuridade ou erro material. Inexiste, portanto, a apontada ofensa dos arts. 489 e 1.022 do CPC/2015.
+3. A verificação quanto ao cumprimento do prazo de 30 dias previsto no art. 18, § 1º, do CDC, bem como a alegação de que não foram observados os critérios de gradação da multa aplicada, mostram-se inviáveis em sede de Recurso Especial por demandar o revolvimento dos elementos fático-probatórios dos autos, vedado nesta seara recursal.
+4. Mostra-se inviável em sede de Apelo Nobre, da mesma maneira, por demandar revolvimento fático, a revisão dos critérios do art. 85, § 2º, do CPC/2015 para fixar a verba dos honorários advocatícios.
+5. Agravo Interno da Empresa a que se nega provimento.
+(AgInt no AREsp n. 1.441.295/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 25/10/2021, DJe de 27/10/2021.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ENUNCIADO ADMINISTRATIVO N. 3/STJ. INEXISTÊNCIA DE VÍCIOS NO JULGADO. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. A jurisprudência deste e. STJ está no sentido de que a decisão de inadmissão do recurso especial é una, formada por um único dispositivo, e, portanto, não comporta capítulos autônomos, pelo que prevalece o entendimento da necessidade de impugnação específica de todos os seus fundamentos.
+2. Quanto ao pedido de suspensão do presente até o julgamento do Tema n. 1074, vale destacar que se trataria de medida inócua na medida em que o agravo em recurso especial sequer ultrapassou a barreira do conhecimento. Dessa feita, o julgamento do Tema n. 1074 (necessidade de se comprovar, no arrolamento sumário, o pagamento do Imposto de Transmissão Causa Mortis e Doação - ITCMD como condição para a homologação da partilha ou expedição da carta de adjudicação, à luz dos arts. 192 do CTN e 659, § 2º, do CPC/2015) não poderá influenciar o caso em tela uma vez que ausente a impugnação específica de todos os fundamentos da decisão de inadmissibilidade.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.869.336/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/12/2021, DJe de 15/12/2021.)
+No mais, tampouco foi impugnada a Súmula n. 83/STF.
+Importa ressaltar que a impugnação à Súmula n. 83 do STJ se dá com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, o que não ocorreu no caso concreto.
+A propósito, os seguintes precedentes:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA N. 83/STJ NÃO REBATIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. A impugnação à Súmula n. 83/STJ pressupõe a demonstração, por meio de precedentes atuais, de que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido, ou de que o caso dos autos seria distinto daqueles veiculados nos precedentes através de distinguishing, o que não ocorreu na hipótese.
+2. Importa ressaltar que a impugnação à Súmula n. 83 do STJ se dá com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superio r. 3. No caso concreto, os precedentes trazidos ao agravo em recurso especial são anteriores ao precedente utilizado pela Corte local quando da decisão de inadmissibilidade, de forma que não foram rebatidos a contento todos os fundamentos de inadmissibilidade.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.383.098/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 25/9/2023, DJe de 4/10/2023.)
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. De acordo com o disposto no art. 253, parágrafo único, I, do RISTJ e no art. 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Entre outros fundamentos, o Tribunal de origem inadmitiu o recurso especial por compreender que o acórdão recorrido está em conformidade com a orientação jurisprudencial desta Corte Superior de que as mercadorias dadas em bonificação integram a base de cálculo do ICMS/ST.
+2. Inadmitido o recurso especial com base na Súmula 83 do STJ, caberia ao agravante apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao devido cotejo analítico, a fim de demonstrar que a orientação desta Corte não se firmou no sentido do acórdão recorrido, ou, ainda, demonstrar a não subsunção do caso concreto à jurisprudência citada pela decisão de inadmissibilidade, o que não ocorreu na espécie.
+4. Hipótese em que, para combater a aplicação do aludido óbice, a parte agravante limitou-se a afirmar que o seu caso não cuida de mercadorias dadas em bonificação, mas de descontos incondicionais, o que ensejaria uma situação jurídica diferente 5. Caso em que essa suposta distinção, todavia, não é reconhecida pela firme posição pretoriana deste Sodalício, que, para fins de interpretação dos arts. 8º e 13 da LC n. 87/1996, tratam essas figuras da mesma maneira, visto que "a bonificação é uma modalidade de desconto que consiste na entrega de uma maior quantidade de produto vendido em vez de conceder uma redução do valor da venda" (REsp 923.012/MG, relator Ministro Luiz Fux, Primeira Seção, julgado em 09/06/2010, DJe de 24/06/2010). No mesmo sentido: EREsp 715.255/MG, rel. Ministra ELIANA CALMON, Primeira Seção, DJe 23/02/2011; AgRg nos EREsp 953.219/RJ, rel. Ministro Arnaldo Esteves Lima, Primeira Seção, julgado em 11/06/2014, DJe de 20/06/2014.
+6. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.225.294/GO, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 21/8/2023, DJe de 24/8/2023.)
+Dito isso, a jurisprudência desta Corte aplica a Súmula n. 182/STJ ao Agravo em Recurso Especial que não impugna, de forma específica, todos os fundamentos da decisão de admissibilidade proferida na origem.
+Exemplificativamente:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS. ART. 932, III, DO CPC/2015 E ART 253, PARÁGRAFO ÚNICO, I, DO RISTJ. PRECEDENTES. MATÉRIA DECIDIDA PELA CORTE ESPECIAL. EARESP Nº 746.775/PR. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem inadmitiu o recurso especial aduzindo os seguintes fundamentos: (i) a análise da controvérsia demandaria o reexame do conjunto fático-probatório, procedimento inviável em sede de recurso especial ante o óbice previsto na Súmula nº 7/STJ; (ii) necessidade de análise de legislação local, especificamente das Leis Estaduais nº 18.419/2014, 18.420/2014 e 18.421/2014, o que é vedado nos termos da Súmula nº 280/STF.
+2. Nas razões do agravo em recurso especial, contudo, o agravante não impugnou o seguinte fundamento: (ii) necessidade de análise de legislação local, especificamente das Leis Estaduais nº 18.419/2014, 18.420/2014 e 18.421/2014, o que é vedado nos termos da Súmula nº 280/STF.
+Logo, não houve impugnação específica de todos os fundamentos da decisão de inadmissibilidade do recurso, razão pela qual o agravo em recurso especial não pode ser conhecido, a teor do art. 932, III, do CPC/2015, bem como do art. 253, parágrafo único, I, do RISTJ.
+3. Segundo entendimento firmado pela Corte Especial deste Tribunal Superior no EAREsp nº 746.775/PR, cujo julgamento foi concluído na sessão realizada em 19/09/2018, o agravante deve impugnar especificamente todos os fundamentos da decisão de inadmissibilidade do recurso especial, sob pena de não conhecimento do agravo.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.285.088/GO, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 4/12/2023, DJe de 6/12/2023.)
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. HONORÁRIOS SUCUMBENCIAIS. DESCABIMENTO. PRINCÍPIO DA SIMETRIA. OBSERVÂNCIA.
+1. De acordo com o disposto no art. 253, parágrafo único, I, do RISTJ e no art. 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+3. É firme nesta Corte a orientação de que, em razão da simetria, descabe a condenação em honorários advocatícios da parte requerida em ação civil pública quando inexistente má-fé, de igual sorte como ocorre com a parte autora, por força da aplicação do art. 18 da L ei n. 7.347/1985 (EAREsp 962.250/SP, rel. Ministro OG FERNANDES, Corte Especial, julgado em 15/08/2018, DJe 21/08/2018).
+4. No caso, não houve condenação em honorários sucumbenciais na origem, nem na decisão agravada.
+5. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+(AgInt no AREsp n. 2.162.558/MT, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/10/2023, DJe de 5/10/2023.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
