@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. DIREITO AMBIENTAL. ÁREA ENQUADRADA COMO DE PRESERVAÇÃO PERMANENTE. LAUDO PERICIAL. DIVERGÊNCIA COM OS DEMAIS ELEMENTOS DA INSTRUÇÃO. NESTA CORTE NÃO SE CONHECEU DO RECURSO. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA QUE NÃO CONHECEU DO RECURSO AINDA QUE POR OUTROS FUNDAMENTOS.
+I - Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial diante da incidência de óbices ao seu conhecimento. Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida.
+II - Ressalte-se que não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - A Corte de origem analisou a controvérsia principal dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso diante da incidência de óbices ao conhecimento.
+O recurso especial foi interposto contra acórdão com a seguinte ementa, que bem resume a discussão trazida a esta Corte:
+APELAÇÃO. AMBIENTAL. AÇÃO CIVIL PÚBLICA. DANOS AMBIENTAIS. DEMOLIÇÃO DE IMÓVEL E RECUPERAÇÃO DE ÁREA DEGRADADA (RESTINGA). TERRENO DE MARINHA. CONSTRUÇÃO DE CASA NA PRAIA DA GALHETA, EM LAGUNA/SC. AUSÊNCIA DE DIREITO ADQUIRIDO À PRÁTICA DE DANO AMBIENTAL. POSSIBILIDADE DE CUMULAÇÃO DE OBRIGAÇÕES DE PAGAR E DE FAZER.
+1. Aquele que causa ou perpetua o dano ambiental, realizando intervenções na área de preservação permanente (restinga e Morro do Cabo de Santa Marta Pequena), é responsável pela recuperação da área degradada.
+2. A recuperação integral da área degradada não exime a responsabilidade do degradador pela indenização do dano ambiental. Possibilidade de cumulação de pedidos de condenação do réu ao cumprimento de obrigações de fazer e de pagar decorrentes do mesmo ato lesivo ao meio ambiente, independentemente da inexistência de danos irrecuperáveis.
+Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida, confiram-se:
+ ..
+Considerando incontroverso e consignado pelo Acórdão que o local dos fatos é tômbolo (formação geológica não prevista no rol taxativo do Código Florestal), cuida-se de matéria incontroversa que pode ser apreciada pelo Superior Tribunal de Justiça em Recurso Especial ou deve ser enfrentada pelo Tribunal Regional Federal da 4ª Região, por meio do retorno dos autos para novo julgamento à luz do Código Florestal (norma que identifica as Áreas de Preservação Permanente-APP no território brasileiro).
+3 - Igualmente está incontroverso e consignado no acórdão os elementos de prova utilizados e a data de sua produção: (I) pré-processuais foram confeccionados entre os anos de 2011 e 2012 (e-STJ fl. 2734); e (II) processual na entrega do laudo pericial no dia 24-08-2016 (e-STJ fl. 1310 e seguintes).
+ ..
+9 - Em relação à ofensa ao artigo 1.022 do Código de Processo Civil, ausência de prequestionamento e a Súmula 211/STJ, à luz do Novo Código de Processo Civil, o prequestionamento ficto foi realizado de maneira correta, já que a ofensa ao artigo 1.022 do CPC foi apresentada nos Embargos de Declaração (e-STJ fl. 2786) e, considerando que o Tribunal Regional manteve seu entendimento, a ofensa ao artigo 1.022 do CPC foi reapresentada no Recurso Especial (e-STJ fl. 2889), como determina a Jurisprudência do Superior Tribunal de Justiça:
+ ..
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. DIREITO AMBIENTAL. ÁREA ENQUADRADA COMO DE PRESERVAÇÃO PERMANENTE. LAUDO PERICIAL. DIVERGÊNCIA COM OS DEMAIS ELEMENTOS DA INSTRUÇÃO. NESTA CORTE NÃO SE CONHECEU DO RECURSO. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA QUE NÃO CONHECEU DO RECURSO AINDA QUE POR OUTROS FUNDAMENTOS.
+I - Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial diante da incidência de óbices ao seu conhecimento. Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida.
+II - Ressalte-se que não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - A Corte de origem analisou a controvérsia principal dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Agravo interno improvido.
+VOTO
+A Corte de origem se manifestou quanto à matéria de fundo utilizando-se dos seguintes fundamentos:
+II.13. Caso concreto.
+(..) Logo, a manutenção das edificações naquele local proporciona severos prejuízos decorrentes da passagem de veículos pelas dunas e do depósito frequente de aterro saibroso nos acessos, a fim de que se obtenha um leito mais rígido, ainda que por pouco tempo.
+(..) Portanto, restou amplamente demonstrado através de documentos produzidos por órgãos ambientais a partir de procedimentos administrativos, que gozam de presunção de legitimidade e veracidade e foram corroborados pelo laudo pericial judicial, que o imóvel da parte ré se encontra em campo de dunas internas móveis e semifixas com presença de vegetação de restinga, APP segundo a legislação federal e municipal, nona edificandi conforme ambas.
+(..) Impõe-se, portanto, reconhecer o total descaso com o meio ambiente e sua preservação.
+(..) Em relação ao ponto alegado, observa-se que a parte ré tem domicílio no Município de Criciúma/SC, onde foi citada e conforme consta na procuração acostada aos autos (evento 10, CERT1, evento 13, PROC1), o que reforça o fato de que a construção realizada na Praia da Galheta não é o local de residência com ânimo definitivo, tratando-se de lazer.
+Ressalte-se que não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida".  EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+A Corte de origem analisou a controvérsia principal dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
