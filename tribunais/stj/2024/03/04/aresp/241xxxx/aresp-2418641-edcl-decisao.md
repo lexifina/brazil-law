@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração manejados por AGCO DO BRASIL SOLUÇÕES AGRÍCOLAS LTDA. contra decisão, de minha lavra, em que conheci do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, ante a incidência da Súmula 282 do STF e da Súmula 7 do STJ. (e-STJ fls. 138.781/138.786)
+A embargante afirma que o julgado padece de omissão quanto à aplicação da Súmula 282 do STF e sustenta que houve prequestionamento expresso no momento da oposição dos embargos de declaração opostos na Corte de origem. Esclarece que "o próprio E. TRF da 4ª Região, ao analisar tais Embargos de Declaração, reconheceu, expressamente, que todos os dispositivos apontados pela Agravante em seus Embargos deveriam ser considerados como devidamente incluídos no Acórdão" (e-STJ fl. 138.794).
+Aduz que "superados tais vícios, a r. decisão pode avançar sobre o mérito da parcela recursal que trata da possibilidade de execução individualizada de sentença proferida em Mandado de Segurança Coletivo sem, com isso, avançar sobre o exame das provas nesse momento, por se tratar, nitidamente, de questão de direito, afastando-se de plano o obstáculo da Súmula 7 do STJ" (e-STJ fl. 138.795).
+Sem apresentação de resposta.
+Passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material na decisão.
+No caso, não ocorreu nenhum dos vícios supracitados.
+Ao contrário do que sustenta a embargante, mostra-se expresso e claro, no voto condutor do acórdão embargado, que foi aplicado o óbice imposto pela Súmula 282 do STF, uma vez que o Tribunal de origem não emitiu juízo de valor sobre o disposto nos arts. 509, § 2º, do CPC/2015 e 165, inciso I, do CTN. Repisa-se que as matérias mencionadas nos referidos dispositivos não foram tratadas no acórdão recorrido e, por isso, não se apresentam prequestionadas.
+Além disso, ficou evidenciado no julgado embargado que o caso atrai a aplicação da Súmula 7 do STJ, tendo em conta a conclusão da Corte Regional no sentido de que "pelos documentos juntados aos autos pela impetrante, nota-se que não há qualquer comprovação de recolhimento da contribuição sub judice no que toca ao período anterior ao ajuizamento da presente demanda, sendo que, após o deferimento da liminar, foi imposta à autoridade coatora, pelo menos até o provimento do Agravo interposto, a abstenção de sua cobrança".
+Ponderados esses elementos, constato que a insurgência da embargante não diz respeito à eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, sendo de caráter meramente infringente e, por isso, de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Entretanto, sopesando a boa-fé objetiva, não considero esses primeiros aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
