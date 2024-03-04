@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por REALIZA CONSTRUTORA LTDA., em face de decisão que não admitiu recurso especial da parte ora insurgente.
+O apelo extremo, fundado nas alíneas "a" e "c", do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 1520, e-STJ):
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS -CONTRATO DE COMPRA E VENDA DE IMÓVEL NA PLANTA - ATRASO NA ENTREGA - INDENIZAÇÃO POR DANOS MORAIS - VALOR - REDUÇÃO IMPERTINENTE - INDENIZAÇÃO POR DANOS MATERIAIS - COBRANÇA DE VALOR RELATIVO ÀS DESPESAS ADMINISTRATIVAS E TAXA DE ADESÃO - AUSÊNCIA DE ABUSIVIDADE - DEVOLUÇÃO INDEVIDA - JUROS MORATÓRIOS DA CITAÇÃO - RELAÇÃO CONTRATUAL - CORREÇÃO MONETÁRIA DO ARBITRAMENTO - SUMULA 362-STJ - LITIGÂNCIA DE MÁ-FÉ - AUSÊNCIA DE CONDUTA PREVISTA NO ART. 80, DO CPC .
+-O atraso injustificado na conclusão das obras e na entrega da unidade imobiliária adquirida na planta, frustrando o cumprimento do contrato de compra e venda firmado entre as partes, supera o mero dissabor do consumidor e deixa patente a responsabilidade da construtora em suportar os danos morais decorrentes da sua inadimplência.
+-A indenização por danos morais deve ser fixada segundo critérios de razoabilidade e proporcionalidade, com observância das peculiaridades do caso e buscando sempre atingir os objetivos do instituto do dano moral, quais sejam compensar a parte lesada pelos prejuízos vivenciados e punir o agente pelo ilícito já praticado, inibindo-o de adotar novas condutas lesivas.
+-Não se revela abusiva a cobrança de valor, pela construtora, a título de despesas administrativas e taxa de adesão, não havendo que se falar em devolução do valor pago a esse título, mormente quando não houve rescisão do contrato.
+-Os juros moratórios decorrentes da responsabilidade contratual fluem a partir da citação inicial (CC/2002, art. 405). E a correção monetária advinda de sentença condenatória à indenização por dano moral incide desde a data do arbitramento (STJ, Súmula362).
+-Não restando minimamente comprovado nos autos que a parte requerida agiu de má-fé, haja vista que, além de não incidir na prática de nenhuma das hipóteses previstas no art. 80, do CPC, ainda obteve sucesso na pretensão de reforma da sentença, resta indevida condenação por litigância de má-fé.
+Os embargos declaratórios opostos foram rejeitados (fls. 1547-1554, e-STJ).
+Nas razões do recurso especial (fls. 1562-1572, e-STJ), o insurgente apontou violação dos artigos 186 e 927, do CC, sustentando o não cabimento de dano moral in re ipsa, em decorrência do atraso na entrega da obra.
+Contrarrazões às fls. 1581-1589, e-STJ.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 1593-1596, e-STJ), dando ensejo na interposição do presente agravo (fls. 1599-1604, e-STJ), visando destrancar aquela insurgência.
+Contraminuta às fls. 1608-1612, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Cinge-se a controvérsia acerca da alegada vulneração dos artigos 186 e 927, do CC, ao argumento do não cabimento de dano moral in re ipsa, em decorrência do atraso na entrega da obra.
+Acerca da controvérsia, o Tribunal local assim decidiu (fls. 1525-1526, e-STJ):
+Relevante esclarecer que, para que se tenha a obrigação de indenizar, é necessário que exista a ofensa a uma norma preexistente ou um erro de conduta, um dano, bem como o nexo de causalidade entre os dois elementos anteriores, consoante ao que dispõe o artigo 186 do Código Civil; "in verbis": "aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito".
+Assim, para a caracterização da responsabilidade civil, nos termos previstos em lei, o dever da presença concomitante do dano, da culpa do agente e do nexo de causalidade entre os elementos anteriores.
+É certo que o descumprimento contratual, por si só, não tem o condão de ensejar o dever de indenizar. Contudo, no caso dos autos, restou comprovado e incontroverso o atraso na entrega do bem, pelo período de quase 13 (treze) meses, não sendo um mero atraso tolerável na entrega do imóvel, mas, sim, de um ilícito contratual, ensejador de dano moral.
+Logo, não há dúvida de que os desgastes emocionais sofridos pela parte autora ultrapassam aqueles dissabores decorrentes de um mero inadimplemento contratual, devendo a ré ser responsabilizada pelos danos causados.
+Não se pode perder de vista que o bem adquirido é um imóvel vinculado ao PROGRAMA MINHA CASA MINHA VIDA, cuja finalidade é viabilizar a compra de imóvel residencial para famílias de baixa renda.
+Não podem as construtoras sair impunes com atrasos que são cada dia mais comuns, haja vista que assumem compromissos visando lucros e se esquecem de que do outro lado do contrato lidam com famílias e pessoas que às vezes empregam toda a sua renda para aquisição da sua casa e ficam à mercê de atrasos, justificativas vazias e sem fundamentos.
+Também é inegável a relação de consumo estabelecida entre as partes, de forma que se aplicam ao caso sub judice as disposições do Código de Defesa do Consumidor.
+O referido diploma legal adotou a teoria da responsabilidade objetiva pelos danos causados aos consumidores, e, nesse aspecto, para se ver ressarcido dos danos sofridos, basta ao consumidor provar a ocorrência do ilícito contratual, que se materializa por meio do inadimplemento ou da mora, o dano e a relação de causalidade entre este e o inadimplemento, sendo dispensável a configuração da culpa.
+Neste contexto, por certo que a construtora deve responder pelo atraso na entrega do imóvel, razão pela qual, deve ser deferido o pedido de indenização por danos morais, principalmente com caráter de inibição a tal atitude comumente verificada em demandas distribuídas no Judiciário.
+Sobre os temas acima, o órgão julgador, amparado nas peculiaridades do caso concreto e nas provas acostadas aos autos, concluiu que restou comprovado e incontroverso o atraso na entrega do bem, pelo período de quase 13 meses, não sendo um mero atraso tolerável na entrega do imóvel, mas, sim, de um ilícito contratual, ensejador de dano moral.
+Para alterar tais conclusões, na forma como posta nas razões do apelo extremo, seria necessário o revolvimento de aspectos fáticos e provas dos autos, providência vedada em sede de recurso especial, a teor da Súmula 7/STJ.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO PRINCÍPIO DO COLEGIADO. INEXISTÊNCIA. AÇÃO DE RESCISÃO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DA OBRA. RESTITUIÇÃO IMEDIATA E INTEGRAL DOS VALORES PAGOS. SÚMULA N.º 543 DO STJ. OCORRÊNCIA DE SITUAÇÃO EXCEPCIONAL QUE DEMONSTROU A EXISTÊNCIA DO DANO MORAL VINDICADO. SÚMULA N.º 7 DO STJ. JUROS DE MORA. TERMO INICIAL. DATA DA CITAÇÃO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não viola o princípio da colegialidade a decisão monocrática do relator, tendo em vista a possibilidade de submissão do julgado ao exame do órgão colegiado, mediante a interposição de agravo interno.
+2. Em se tratando de rescisão de promessa de compra e venda por culpa do vendedor, deve ser restituída a integralidade dos valores pagos pelo comprador. Súmula n.º 543 do STJ.
+3. A fixação da indenização por danos morais decorreu de situação excepcional que configurou ofensa ao direito da personalidade dos promitentes-compradores, extrapolando a esfera do mero inadimplemento contratual, não podendo a questão ser revista nesta via excepcional, ante a incidência da Súmula n.º 7 do STJ.
+4. A jurisprudência desta Corte firmou-se no sentido de ser a citação o termo inicial para a incidência dos juros de mora em caso de responsabilidade contratual.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.392.437/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 4/12/2023, DJe de 6/12/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. JULGAMENTO ULTRA PETITA. NÃO OCORRÊNCIA. ATRASO EXPRESSIVO NA ENTREGA DO IMÓVEL. DANOS MORAIS CONFIGURADOS. REEXAME DE PROVAS. SÚMULA N. 7/STJ. AGRAVO NÃO PROVIDO.
+1. Da leitura dos fundamentos do acórdão recorrido, não se verifica o alegado julgamento ultra petita, uma vez que o julgado não extrapolou os limites do pedido e da causa de pedir.
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, o atraso expressivo na entrega de imóvel pode configurar danos morais indenizáveis. 3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.408.309/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 25/6/2019, DJe de 1/7/2019.)
+Desta forma, para alterar o entendimento do Tribunal local, na forma como posta, seria necessário novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme previsto na Súmula 7/STJ.
+Registra-se, por fim, que, consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do inciso III do art. 105 da Constituição Federal. Precedentes: AgInt no REsp 1765794/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/10/2020, DJe 12/11/2020; AgInt no REsp 1886167/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 19/10/2020, DJe 22/10/2020; AgInt no AREsp 1609466/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 08/09/2020, DJe 23/09/2020.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não se conhecer do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, em desfavor da parte insurgente, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
