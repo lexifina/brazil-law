@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Antônio Amâncio Nunes, em que se aponta como autoridade coatora a Primeira Câmara Criminal do Tribunal de Justiça de Pernambuco, que deu provimento ao Recurso em Sentido Estrito n. 0002296-30.2015.8.17.1130 apresentado pelo Ministério Público estadual para requalificar a imputação feita ao paciente, submetendo-o a julgamento perante o Tribunal do Júri nos exatos termos da denúncia, ou seja, incluindo a qualificadora de motivo fútil, restando o recorrido, portanto, incurso no delito tipificado no art. 121, § 2º, inciso II, c/c o art.14, inciso II, Código Penal (fl. 20).
+Neste writ, pede-se pela manutenção da pronúncia pelo crime de homicídio simples tentado, sob o argumento de que não ficou demonstrado, nos autos, se o crime apurado ocorreu em razão de uma desavença ocorrida 1 ano antes do fato (fl. 6).
+Requer-se, assim, a concessão liminar da ordem para sobrestar o andamento do feito até o julgamento da ação penal, e no mérito, reestabelecer a decisão do Juízo de primeiro grau, pronunciando o paciente pelo homicídio simples tentado (fl. 8).
+É o relatório.
+Busca a impetração o reestabelecimento da decisão proferida pelo Magistrado de piso, que pronunciou o paciente pelo crime de homicídio simples.
+Infere-se dos autos que o Magistrado de primeiro grau pronunciou o paciente como incurso nas penas do art. 121, caput, c/c o art. 14, inciso II, do Código Penal, afastando a qualificadora do motivo fútil, visto que não se mostrou clara a motivação do delito.
+Irresignado, o Ministério Público recorreu, tendo o Tribunal de Justiça provido o recurso, requalificando a conduta, aos seguintes fundamentos (fls. 18/20):
+ ..
+In casu, a futilidade da tentativa de homicídio se deu em razão de desavença entre a vítima e o recorrido, ocorrida anteriormente no bar do ofendido, em razão do réu ter exigido a troca de um refrigerante pelo qual não havia pago, pois se encontrava em uma caixa onde estavam produtos defeituosos, e a vítima negou-se a fazer a troca, o que motivou Antônio Amâncio Nunes, ora recorrido, proferir impropérios e ameaças de morte contra a vítima Cícero Sulielson Freitas Santos.
+ ..
+Assim, conforme consta dos depoimentos extrajudiciais e judiciais das testemunhas Maria Auxiliadora Simplício Marinho, Marcio Teles Gomes e Elialdo da Silva Santos, bem como, da vítima Cícero Suelieulson, verifica-se que o recorrido teria tido desavença verbal com a vítima em oportunidade anterior aos fatos.
+Nestes termos, deve ser reformada a sentença de pronúncia para requalificar a imputação feita a Antônio Amâncio Nunes, submetendo-o ao julgamento perante o Tribunal do Júri nos exatos termos da denúncia, como incurso no delito tipificado no art. 121, § 2º, inciso II, c/c o artigo 14, inciso II, ambos do Código Penal.
+No caso em análise, a Corte estadual entendeu que a qualificadora encontra indícios amealhados nos autos, depoimentos judiciais e extrajudiciais, no sentido de que o homicídio teria se dado em razão de desavença entre a vítima e o paciente, ocorrida em um bar.
+Nesse sentido, afastar a qualificadora, tal qual pleiteado, configuraria usurpação da competênci a do Tribunal do Júri e demandaria o inviável reexame de fatos e de provas, inviável n a estreita via do writ, de cognição sumária e rito célere.
+A propósito, em recente decisão, a Sexta Turma decidiu que se, após acurada análise do conjunto fático probatório, a Corte local entendeu que havia lastro probatório suficiente para a condenação do paciente pelos delitos de homicídio qualificado tentado e de associação criminosa, assim como para o reconhecimento das qualificadoras impugnadas pela Defesa.  ..  inverter a conclusão adotada na origem, seria imprescindível incursionar, verticalmente, no acervo probatório, providência de todo incompatível com a estreita via do writ (HC n. 799.756/MG, Ministra Laurita Vaz, DJe 9/3/2023).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. RECURSO EM SENTIDO ESTRITO. PRONÚNCIA. HOMICÍDIO TENTADO. QUALIFICADORA. MOTIVO FÚTIL. EXCLUSÃO. INVIABILIDADE. USURPAÇÃO DE COMPETÊNCIA DO TRIBUNAL DO JÚRI. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO.
+Writ indeferido liminarmente.
