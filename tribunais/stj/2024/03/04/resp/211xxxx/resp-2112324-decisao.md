@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (e-STJ fl. 367):
+RECURSO - APELAÇÃO CÍVEL - PRESTAÇÃO DE SERVIÇOS - TELEFONIA - AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. Dívida em nome da autora. Dívida alcançada pela prescrição. Inclusão do nome da requerente no Serasa Limpa Nome. Insurgência apenas quanto ao dano moral. 1. Dano moral. Inadmissibilidade. Redução de Score ou dificuldades creditícias que não foram demonstradas. Indenização por danos morais. Impossibilidade. Honorários advocatícios. Alteração. Impossibilidade. Fixados dentro das normas aplicáveis à espécie. Procedência parcial na origem. Sentença mantida. Recurso de apelação da autora não provido, majorada a verba honorária com base no artigo 85, parágrafo 11, do Código de Processo Civil.
+No recurso especial (e-STJ fls. 373/404), fundamentado no art. 105, III, "a", da CF, a recorrente aponta:
+(i) negativa de vigência dos arts. 186, 187 e 927 do CC e 71 do CDC, defendendo a possibilidade de indenização por danos morais, tendo em vista que foi realizada a cobrança extrajudicial de dívida prescrita e mantida sua inscrição em plataforma de restrição ao crédito,
+(ii) violação do art. 85, § 2º, do CPC, pleiteando a majoração do valor arbitrado a título de honorários advocatícios.
+Foram oferecidas contrarrazões (e-STJ fls. 419/426).
+É o relatório.
+Decido.
+I) A Corte de origem asseverou a inexistência de danos morais. Confira-se (e-STJ fls. 368/371):
+A respeitável sentença recorrida não comporta reforma.
+Trata-se de ação declaratória de inexistência de débito cumulada com indenização por danos morais, sustentando a autora que foi cobrado por dívida prescrita. Postulou a declaração de inexigibilidade do débito, bem como danos morais.
+A ação foi julgada parcialmente procedente.
+A requerente se insurge quanto a não concessão da indenização por danos morais pleiteada e ainda quanto a verba honorária fixada.
+Sem razão, contudo.
+E isto porque, quanto aos danos morais pleiteados, tem-se que, o simples fato de constar a informação no cadastro do "Serasa limpa nome" não enseja a reparação por dano moral aqui postulada pela ora requerente.
+Nestes casos, ao contrário do quanto alegado em suas razões recursais, não é dada ampla publicidade à existência de obrigação não paga, inexistindo informação, quando da regular consulta ao cadastro de inadimplentes.
+De se observar que o cadastro de negociação "Serasa Limpa Nome" abrange os débitos vencidos e não pagos de um modo geral, tenham ou não sido incluídos no cadastro de inadimplentes; conforme se verifica em consulta ao site do Serasa, no campo "Segurança & Dúvidas", onde consta a pergunta: "Quais dívidas podem ser negociadas no site do Serasa Limpa Nome ", com a seguinte resposta: "Apenas as dívidas com as empresas parceiras do Serasa Limpa Nome. As dívidas podem ser referentes a negativações ou contas atrasadas que ainda não foram negativadas no cadastro de inadimplentes da Serasa".
+ ..
+Demais disso, tampouco restou demonstrada redução de score ou dificuldade creditícia decorrente do apontamento da dívida.
+Como se sabe, o dever de indenizar surge, cumulativamente, do ato ilícito, do dano e do nexo causal, e não há, no caso concreto, notícia de que houve a negativação do nome da autora nos órgãos de proteção ao crédito, e tampouco foi demonstrada qualquer exposição indevida de seu nome, aptos a ensejar, em tese, a indenização pretendida.
+Com efeito, de se entender que a inclusão do nome da autora no cadastro de negociação de dívidas "Serasa Limpa Nome", ainda que de forma indevida, não gerou os transtornos justificadores do dano moral que reclama, e isso porque, ao contrário do que se sustenta, a ré não incluiu o nome do autor nos órgãos de proteção crédito; observado que os documentos juntados com a inicial dizem respeito ao serviço "Serasa Limpa Nome", que se trata de um canal disponibilizado aos consumidores com a finalidade tão somente de negociação e quitação de dívidas, mas que não caracteriza restrição desabonadora.
+E mais: não há ofensa a direito de personalidade merecedor de reparação, até porque não houve qualquer outro transtorno a ensejar a reparação aqui perseguida.
+Resta claro que, aqui não ocorre caso em que se evidencie sofrimento a nível moral. Não se afigura presente vexame, sofrimento profundo ou humilhação à pessoa, que provocassem transtornos incontornáveis, com reflexos indeléveis à sua vida e honra.
+A Corte local amparou seu entendimento em dois fundamentos: (i) a redução do "score" ou dificuldades creditícias não foram demonstradas, e (ii) a plataforma "Serasa Limpa Nome" não dá ampla publicidade à existência de obrigação não paga, inexistindo divulgação de dados a terceiros.
+Para rever o entendimento do Tribunal de origem, de que não ficou comprovada a divulgação da dívida a terceiros nem a alteração no sistema de pontuação de crédito (score), seria necessário o reexame do conjunto fático-probatório dos autos, providência vedada nesta sede recursal, a teor da Súmula n. 7 do STJ.
+II) A petição recursal deve observar o princípio da dialeticidade, ou seja, apresentar os motivos pelos quais a parte recorrente não se conforma com o acórdão proferido pelo Tribunal de origem (art. 1.010, II, do CPC/2015), a fim de permitir ao órgão colegiado cotejar as afirmações lançadas na decisão judicial com as motivações expendidas no recurso.
+No caso, a sentença julgou a ação parcialmente procedente para declarar inexigíveis os débitos apontados. Em relação à sucumbência, concluiu que, pela derrota substancial frente aos vultosos danos morais almejados, deveria a parte autora arcar com os honorários advocatícios.
+O Tribunal local, quando do julgamento da apelação, consignou que, "nada a alterar na verba honorária fixada, eis que de acordo com as normas incidentes à espécie, tendo em que a autora decaiu na maior parte de seu pedido, devendo, portanto, a verba sucumbencial ser mantida tal qual como lançada" (e-STJ fl. 371).
+No entanto, nas alegações do recurso especial, a recorrente afirma que "em manifesta ilegalidade, a lei não foi cumprida na referida decisão, devendo ser majorado o valor arbitrado em honorários advocatícios" (e-STJ fl. 400).
+A discrepância entre as razões recursais e os fundamentos do aresto recorrido impede o conhecimento do especial, ante a incidência, por analogia, da Súmula n. 284 do STF.
+Ante o exposto, NÃO CONHEÇO d o recurso especial. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo. Deferid a a gratuidade da justiça na instância de origem (e-STJ fl. 74), deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
