@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PROCESSO PENAL. A GRAVO REGIMENTAL NO RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO PELA DEFESA CONHECIDO E PROVIDO. ALEGAÇÃO DO MINISTÉRIO PÚBLICO FEDERAL DE INTEMPESTIVIDADE DO RECURSO INTERPOSTO. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Após análise dos autos, foi verificado que o pressuposto da tempestividade do recurso especial interposto pela defesa estava preenchido, bem como os demais pressupostos de admissibilidade, de maneira que o apelo nobre ultrapassou o juízo de admissibilidade.
+2. Impende consignar que o acórdão proferido em sede de apelação criminal foi disponibilizado no Diário de Justiça Eletrônico - DJe em 3/6/2022 (sexta-feira) e considerado publicado em 6/6/2022. Contra a referida decisão colegiada, foram opostos embargos de declaração em 8/6/2022. O acórdão que julgou os embargos foi disponibilizado no DJe em 14/7/2022, sendo considerado publicado em 15/7/2022 (sexta-feira), de modo que o prazo de 15 dias corridos para interposição do recurso especial iniciou-se em 18/7/2022 e terminou em 1º/8/2022. O recurso especial da defesa foi protocolado em 1º/8/2022, portanto, tempestivamente.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL - MPF contra decisão de minha lavra, às fls. 416/423, que conheceu do recurso especial interposto pela defesa e, com fundamento na Súmula n. 568 do Superior Tribunal de Justiça - STJ, deu-lhe provimento para reconhecer a incidência da fração de aumento de 1/5 pela prática de três furtos em continuidade delitiva, bem como a ocorrência de concurso formal entre os crimes de furto qualificado e de corrupção de menores, redimensionando as penas do agravado para 2 anos, 9 meses e 18 dias de reclusão, em regime inicial aberto, e 12 dias-multa, à razão mínima, substituída a pena privativa de liberdade por restritivas de direitos, nos termos da sentença.
+No presente agravo regimental (fls. 428/436), a acusação aduz que a decisão agravada não se pronunciou a respeito do pressuposto da tempestividade do recurso especial interposto pela defesa, que, nos termos do parecer ministerial às fls. 403/408, não teria sido atendido.
+Requer a submissão do presente agravo regimental ao órgão colegiado para que seja inadmitido o recurso especial ante a sua patente intempestividade.
+É o relatório .
+EMENTA
+PROCESSO PENAL. A GRAVO REGIMENTAL NO RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO PELA DEFESA CONHECIDO E PROVIDO. ALEGAÇÃO DO MINISTÉRIO PÚBLICO FEDERAL DE INTEMPESTIVIDADE DO RECURSO INTERPOSTO. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Após análise dos autos, foi verificado que o pressuposto da tempestividade do recurso especial interposto pela defesa estava preenchido, bem como os demais pressupostos de admissibilidade, de maneira que o apelo nobre ultrapassou o juízo de admissibilidade.
+2. Impende consignar que o acórdão proferido em sede de apelação criminal foi disponibilizado no Diário de Justiça Eletrônico - DJe em 3/6/2022 (sexta-feira) e considerado publicado em 6/6/2022. Contra a referida decisão colegiada, foram opostos embargos de declaração em 8/6/2022. O acórdão que julgou os embargos foi disponibilizado no DJe em 14/7/2022, sendo considerado publicado em 15/7/2022 (sexta-feira), de modo que o prazo de 15 dias corridos para interposição do recurso especial iniciou-se em 18/7/2022 e terminou em 1º/8/2022. O recurso especial da defesa foi protocolado em 1º/8/2022, portanto, tempestivamente.
+3. Agravo regimental desprovido.
+VOTO
+O recurso não merece provimento.
+O agravante não trouxe nenhum argumento apto a ensejar a reforma do decisum agravado.
+Cumpre esclarecer que a manifestação ministerial às fls. 403/408 pelo não conhecimento do recurso especial interposto pela defesa, ao fundamento da sua intempestividade, foi devidamente considerada.
+Contudo, após análise dos autos, foi verificado que o pressuposto da tempestividade do recurso especial estava preenchido, bem como os demais pressupostos de admissibilidade, de maneira que o apelo nobre ultrapassou o juízo de admissibilidade.
+No que se refere à tempestividade do recurso, impende consignar que o acórdão recorrido foi disponibilizado no Diário de Justiça Eletrônico - DJe em 3/6/2022 (sexta-feira) e considerado publicado em 6/6/2022 (fl. 289). Contra a referida decisão colegiada, foram opostos embargos de declaração em 8/6/2022 (fls. 323/328). O acórdão que julgou os embargos foi disponibilizado no DJe em 14/7/2022 (fl. 335), sendo considerado publicado em 15/7/2022 (sexta-feira), de modo que o prazo de 15 dias corridos para interposição do recurso especial iniciou-se em 18/7/2022 e terminou em 1º /8/2022. O recurso especial foi protocolado em 1º/8/2022 (fls. 293/303), portanto, tempestivamente.
+Conforme é cediço, nos termos do art. 1.026 do Código de Processo Civil -CPC, os embargos de declaração interrompem o prazo para a interposição de outros recursos, exceto quando manifestamente incabíveis ou intempestivos, hipóteses que não se verificam nos autos.
+Desse modo, não cabe acolher a irresignação ministerial.
+Ante o exposto, voto pelo desprovimento do agravo regimental.
