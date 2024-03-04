@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Mauro Campbell Marques votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL E ADMINISTRATIVO. ARTIGO 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos Embargos de Declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os Embargos de Declaração, por consistirem em mero inconformismo da parte.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em análise, Embargos de Declaração opostos por FRANCISCO DE ASSIS TORRES e JOÃO BATISTA DE PAULA JÚNIOR, contra acórdão da Segunda Turma do STJ, assim ementado:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. INDISPONIBILIDADE DOS BENS. PRECEDENTES.
+1. Trata-se de ação civil pública em que se discutem indícios da prática de atos de improbidade que podem ter gerado prejuízo ao erário na ordem de R$ 3.170.501.420,91 (três bilhões, cento e setenta milhões, quinhentos e um mil, quatrocentos e vinte reais e noventa e um centavos).
+2. Esta Corte Superior firmou entendimento de que a indisponibilidade dos bens, em ação de improbidade, deve observar o valor da totalidade da lesão ao erário, acrescido do montante de possível multa civil.
+3. Destaco, ainda, que o Superior Tribunal de Justiça fixou jurisprudência no sentido de haver solidariedade entre os corréus da ação até a instrução final do processo, sendo assim, o valor a ser indisponibilizado para assegurar o ressarcimento ao erário deve ser garantido por qualquer um deles, limitando-se a medida constritiva ao quantum determinado pelo juiz, sendo defeso que o bloqueio corresponda ao débito total em relação a cada um.
+4. Agravo interno a que se nega provimento (e-STJ, fl. 274).
+Os embargantes sustentam, em síntese, que o acórdão embargado "restou obscuro uma vez que não se discute neste recurso a limitação da ordem de indisponibilidade ao referido valor. Ao contrário, o acórdão proferido pela 9ª Câmara Cível do Eg. TJRJ, reformado em sede de recurso especial, limitou a indisponibilidade dos bens dos embargantes a bens com valor igual ou superior a R$ 300.00,00 (trezentos mil reais)".
+Alegam que, "ao confirmar a decisão que reformou acórdão objeto do recurso especial para determinar o bloqueio de todos os bens de todos os réus indistintamente, a decisão agravada acabou por violar os princípios da proporcionalidade e da razoabilidade, na medida em que não ponderou acerca da real utilidade do bloqueio e o prejuízo que seria causado aos embargantes".
+Afirmam que "transcreveram precedentes de diversos Tribunais que admitiram o desbloqueio de bens com valores insignificantes diante do total perseguido".
+Ao final, requerem "sejam acolhidos os presentes aclaratórios, e, sanados os vícios apontados, seja reformado o acórdão embargado, e, por conseguinte, a decisão monocrática, para, ao final, negar provimento ao recurso especial interposto pelo ora embargado, mantendo-se o acórdão proferido pelo Tribunal de origem, que limitou a medida de indisponibilidade aos bens dos embargantes com valor igual ou superior a R$ 300.000,00 (trezentos mil reais)".
+O MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO apresentou impugnação aos Embargos de Declaração (e-STJ, fls. 294-299).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL E ADMINISTRATIVO. ARTIGO 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos Embargos de Declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os Embargos de Declaração, por consistirem em mero inconformismo da parte.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço dos Embargos, porquanto presentes os pressupostos de admissibilidade.
+O artigo 1.022 do Código de Processo Civil dispõe o seguinte:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Parágrafo único. Considera-se omissa a decisão que:
+I - deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento;
+II - incorra em qualquer das condutas descritas no art. 489, § 1º.
+Conforme o aludido dispositivo legal, os Embargos de Declaração não servem à reforma do julgado, e não permitem a rediscussão da matéria; pois o seu objetivo é introduzir o estritamente necessário para eliminar obscuridade, contradição, erro material, e/ou suprimir omissão.
+A omissão que autoriza a oposição dos Embargos de Declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+De se ver, então, serem limitados os efeitos dos Embargos Declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso dos autos, não se constata no acórdão ora embargado os vícios apontados pelos embargantes. Revelando-se, em verdade, mero inconformismo, de forma que é imperiosa a rejeição dos embargos de declaração.
+Com efeito, no acórdão embargado foram expostos de forma clara os motivos pelos quais o Agravo Interno interposto pelos embargantes foi improvido, constando, de forma expressa, nos termos da jurisprudência do Superior Tribunal de Justiça, que: (a) "a indisponibilidade dos bens, em ação de improbidade, deve observar o valor da totalidade da lesão ao erário, acrescido do montante de possível multa civil" (e-STJ, fl. 277); e (b) "em se tratando de ação em que se discute possível prejuízo ao erário na ordem de R$ 3.170.501.420,91 (três bilhões, cento e setenta milhões, quinhentos e um mil, quatrocentos e vinte reais e noventa e um centavos), não se mostra razoável a limitação da indisponibilidade dos bens no valor de R$ 300.000,00 (trezentos mil reais), pois este valor não se revela suficiente para resguardar o valor integral do dano".
+Assim, não há vício formal no aresto, mas tão somente pretensão da parte embargante de rediscutir matéria já decidida - o que não se admite, ante a especialidade da via eleita.
+Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgInt no AREsp 2.372.143/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020.
+Isso posto, rejeito os Embargos de Declaração.
