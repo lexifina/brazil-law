@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. VERBA HONORÁRIA. SUCUMBÊNCIA RECÍPROCA. LIQUIDEZ. QUESTÃO ATRELADA AO REEXAME DA MATÉRIA DE FATO. ÓBICE DA SÚMULA 07/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+2. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno (fls. 431/435) interposto contra decisão monocrática sintetizada na seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. VIOLAÇÃO AO ART. 489 DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. ÓBICE DA SÚMULA 284/STF. CORREÇÃO MONETÁRIA. TEMA 905/STJ E 810/STF. RESPEITO À COISA JULGADA. POSSIBILIDADE. PRECEDENTES. VERBA HONORÁRIA. LIQUIDEZ. QUESTÃO ATRELADA AO REEXAME DA MATÉRIA DE FATO. ÓBICE DA SÚMULA 07/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO PARA, NESSA EXTENSÃO, DAR-LHE PROVIMENTO.
+O agravante sustenta que sucumbiu em parte mínima, situação que impõe o reconhecimento de que o o ônus da sucumbência deve ser suportado integralmente pelo agravado, não sendo caso de aplicação da Súmula 7/STJ.
+Impugnação apresentada às fls. 441/447.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. VERBA HONORÁRIA. SUCUMBÊNCIA RECÍPROCA. LIQUIDEZ. QUESTÃO ATRELADA AO REEXAME DA MATÉRIA DE FATO. ÓBICE DA SÚMULA 07/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+2. Agravo interno não provido.
+VOTO
+O recurso não merece prosperar.
+Cinge-se a controvérsia, na origem, de agravo de instrumento interposto contra decisão proferida em sede de cumprimento de sentença que decretou a ocorrência de sucumbência recíproca.
+O Tribunal a quo concluiu pela redistribuição do ônus da sucumbência na proporção de 70% ao exequente de 30% ao executado, senão vejamos:
+Nos termos delineados pelo Juízo de origem, o Estado alegou três pontos: prescrição, juros moratórios e correção monetária. A prescrição restou afastada, os juros moratórios foram fixados nos termos pleiteados pela Fazenda Pública na decisão de mov. 53.1 e a correção monetária ora se altera nos termos da fundamentação acima. Ou seja, de três pedidos efetuados pelo Executado, sagrou-se vencedor em dois deles. Assim, conclui-se que a parte Exequente restou majoritariamente vencida na impugnação ao cumprimento de sentença julgada. Em vista disso, na relação processual aqui estabelecida, impõe-se a redistribuição do ônus sucumbencial, para que as custas processuais e os honorários advocatícios sejam suportados à proporção de 70% pela Exequente e 30% pelo Executado, nos moldes do caput do art. 86 do CPC.
+Efetivamente, em que pese os argumentos do agravante, observa-se esta Corte Superior possui entendimento jurisprudencial segundo o qual é inviável a revisão do quantitativo em que autor e ré decaíram do pedido para fins de verificar a sucumbência mínima ou recíproca, haja vista que tal conduta, necessariamente, implica no reexame fático-probatório dos autos, o que atrai a incidência do óbice da Súmula 7/STJ.
+Nesse sentido, destaca-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. VÍCIO NO JULGADO. OCORRÊNCIA. ERRO DE PREMISSA. SUCUMBÊNCIA RECÍPROCA. REVISÃO. SÚMULA 7/STJ. EMBARGOS ACOLHIDOS COM EFEITOS INFRINGENTES. 1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado. 2. Na espécie, a decisão que julgou o recurso especial baseou-se em premissa equivocada em relação aos honorários advocatícios, pois considerou a fixação da verba honorária pelo Tribunal de origem no julgamento da apelação (R$ 1.000,00), sem considerar a modificação realizada no julgamento dos embargos de declaração, em que se reconheceu a existência de sucumbência recíproca. 3. A jurisprudência desta Corte possui entendimento de que a aferição do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca das partes, é questão que não comporta exame em recurso especial por envolver aspectos fáticos e probatórios dos autos, o que é vedado pela Súmula 7 desta Corte. 4. Embargos de declaração acolhidos, com efeitos infringentes, para não conhecer do recurso especial. (EDcl no AgInt no REsp n. 1.780.421/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 7/11/2023, DJe de 13/11/2023). (grifo nosso)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. REEXAME DE PROVAS. SÚMULA N. 7/STJ. 1. Nos termos da jurisprudência deste Superior Tribunal, o valor estabelecido pelas instâncias ordinárias, a título de danos morais, pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões da razoabilidade e proporcionalidade, situação não evidenciada no presente caso, de modo que a sua revisão encontra óbice na Súmula 7/STJ. 2. A apreciação, em recurso especial, do quantitativo em que o autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, esbarra no óbice da incidência da Súmula 7 do STJ. 3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.259.976/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 23/10/2023, DJe de 26/10/2023). (grifo nosso)
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
