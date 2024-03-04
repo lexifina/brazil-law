@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. ART. 932, III DO CPC/15. AGRAVO INTERNO NÃO PROVIDO.
+1. Trata-se de agravo interno contra decisão da presidência que não conheceu do agravo em recurso especial em virtude da ausência de impugnação de todos os fundamentos da decisão de admissibilidade, mais especificamente, do não cabimento de Recurso Especial contra acórdão com fundamento constitucional.
+2. É dever do agravante impugnar especificamente todos os fundamentos da decisão agravada, sendo certo que o agravo em recurso especial que não impugna o fundamento que levou à não admissão do recurso especial não deve ser conhecido, nos termos dos artigos 932, III, do CPC/2015, e 253, parágrafo único, inciso I, do RISTJ.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por NEUSA KLIENCHEM DINIZ, contra decisão proferida pela e. Presidência desta Corte, fundamentada, in verbis (fls. 862-863):
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 7/STJ (cerceamento de defesa), Súmula 204/STJ, não cabimento de REsp contra acórdão com fundamento eminentemente constitucional, Súmula 83/STJ, Súmula 7/STJ (fixação dos honorários advocatícios), ausência de indicação do dispositivo objeto da divergência - Súmula 284/STF e Súmula 182/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente: não cabimento de REsp contra acórdão com fundamento eminentemente constitucional.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Nas razões do agravo interno, a parte agravante assevera que expressamente consignou no seu Agravo em Recurso Especial que não tinha mais interesse em sustentar a impugnação realizada em sede de Recurso Especial de inconstitucionalidade da Lei 11.960/09, sendo esse o motivo da ausência de impugnação específica desse ponto da decisão de admissibilidade realizada no Tribunal a quo.
+Argumenta ser aplicável ao caso a jurisprudência desta e. Corte a qual entende que a ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator -proferida ao apreciar recurso especial ou agravo em recurso especial -apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ EREsp 1424404/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/10/2021, DJe 17/11/2021."
+Sem contraminuta.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. ART. 932, III DO CPC/15. AGRAVO INTERNO NÃO PROVIDO.
+1. Trata-se de agravo interno contra decisão da presidência que não conheceu do agravo em recurso especial em virtude da ausência de impugnação de todos os fundamentos da decisão de admissibilidade, mais especificamente, do não cabimento de Recurso Especial contra acórdão com fundamento constitucional.
+2. É dever do agravante impugnar especificamente todos os fundamentos da decisão agravada, sendo certo que o agravo em recurso especial que não impugna o fundamento que levou à não admissão do recurso especial não deve ser conhecido, nos termos dos artigos 932, III, do CPC/2015, e 253, parágrafo único, inciso I, do RISTJ.
+3. Agravo interno não provido.
+VOTO
+Razão não assiste ao agravante.
+Com efeito, a Corte Especial deste STJ já definiu que a decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+Assim é que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Gize-se, por oportuno, que a jurisprudência colacionada pelo obreiro trata de situação diversa da dos autos, qual seja, o precedente citado trata d a ausência de impugnação específica dos fundamentos da decisão monocrática do Relator, em processo que já ultrapassou o juízo de admissibilidade. Nessa hipótese, de fato, a ausência de impugnação acarreta apenas a preclusão do capítulo não impugnado. Entretanto, esse não é o caso dos autos, em que a ausência de impugnação se deu em relação à decisão de admissibilidade do Recurso Especial.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
