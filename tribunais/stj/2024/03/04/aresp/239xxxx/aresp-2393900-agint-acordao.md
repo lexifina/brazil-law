@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. COMPENSAÇÃO CRUZADA. IMPOSSIBILIDADE DE REEDISCUSSÃO DO MÉRITO. SEGUIMENTO NEGADO PELA PRESIDÊNCIA DO TRIBUNAL DE ORIGEM. INTERPOSIÇÃO DE AGRAVO INTERNO. AUSÊNCIA DE OMISSÃO. ART. 1.022, II, DO CPC.
+1. O Tribunal de origem, soberano na análise do contexto fático-probatório produzido nos autos, assentou que a compensação cruzada somente é permitida aos sujeitos passivos que utilizem o Sistema de Escrituração Digital das Obrigações Fiscais, Previdenciárias e Trabalhistas (eSocial) e somente em relação ao débito e ao crédito referentes ao período de apuração posterior à utilização do e-Social.
+2. Constata-se que não se configurou a ofensa aos arts. 489 e 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, como lhe foi apresentada. Ademais, não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+3. Agravo Interno não provido.
+RELATÓRIO
+Cuida-se de Agravo Interno interposto de decisão deste Relator, que conheceu parcialmente do Recurso, para negar-lhe provimento.
+A parte agravante, repisando os argumentos lançados nas razões do Agravo em Recurso Especial, afirma que o acórdão é omisso, porquanto deixou de apreciar a infringência ao art. 26-A da Lei 11.457/2007; aos arts. 170 e 170-A do CTN; ao art. 74, §12, II, "d" da Lei 9.430/1996 e ao art. 2º da Lei 9.784/1999 (fl. 490, e-STJ).
+A parte agravada, apesar de intimada, não apresentou impugnação.
+É o relatório.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. COMPENSAÇÃO CRUZADA. IMPOSSIBILIDADE DE REEDISCUSSÃO DO MÉRITO. SEGUIMENTO NEGADO PELA PRESIDÊNCIA DO TRIBUNAL DE ORIGEM. INTERPOSIÇÃO DE AGRAVO INTERNO. AUSÊNCIA DE OMISSÃO. ART. 1.022, II, DO CPC.
+1. O Tribunal de origem, soberano na análise do contexto fático-probatório produzido nos autos, assentou que a compensação cruzada somente é permitida aos sujeitos passivos que utilizem o Sistema de Escrituração Digital das Obrigações Fiscais, Previdenciárias e Trabalhistas (eSocial) e somente em relação ao débito e ao crédito referentes ao período de apuração posterior à utilização do e-Social.
+2. Constata-se que não se configurou a ofensa aos arts. 489 e 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, como lhe foi apresentada. Ademais, não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+3. Agravo Interno não provido.
+VOTO
+Os autos foram recebidos neste Gabinete em 7.12.2023.
+A irresignação não merece prosperar.
+A questão principal teve o seu seguimento negado pela Presidência do Tribunal de origem, o que ocasionou a interposição de Agravo Interno. Dessa forma, somente se examinará, nesta oportunidade, a infringência aos arts. 489 e 1.022, II, do CPC.
+O Tribunal de origem, soberano na análise do contexto fático-probatório produzido nos autos, assentou que a compensação cruzada somente é permitida aos sujeitos passivos que utilizem o Sistema de Escrituração Digital das Obrigações Fiscais, Previdenciárias e Trabalhistas (eSocial) e somente em relação ao débito e ao crédito referentes ao período de apuração posterior à utilização do e-Social. In verbis:
+No caso concreto, pretende a parte impetrante o reconhecimento do direito líquido e certo à compensação de créditos de tributos federais administrados pela Receita Federal, reconhecidos administrativa ou judicialmente após a implantação do sistema e-Social, com débitos de contribuições previdenciárias, bem como créditos de contribuições previdenciárias reconhecidos administrativa ou judicialmente após a implantação do eSocial com débitos dos demais tributos federais.
+Sobre a compensação administrativa, com o advento da Lei 13.670/18, restou revogado o parágrafo único do artigo 26 da Lei 11.457/2007 e, em contrapartida, incluído o artigo 26-A, que prevê expressamente, a aplicação do artigo 74 da Lei 9.430/96, para a compensação de débitos próprios relativos a quaisquer tnbutos e contribuições, observados os requisitos e limites elencados, sujeitos à apuração da administração fazendária.
+Depreende-se, pois, da norma legal, que a compensação cruzada somente é permitida aos sujeitos passivos que utilizem o Sistema de Escrituração Digital das Obrigações Fiscais, Previdenciárias e Trabalhistas (eSocial) e somente em relação ao débito e ao crédito referentes ao período de apuração posterior à utilização do e-Social.
+Ademais, a questão já foi regulamentada pela Instrução Normativa RFB n. 1.717/17, com as alterações da Instrução Normativa RFB 1.810/18.
+Neste contexto, o pleito da parte impetrante não encontra amparo legal, devendo ser mantida, assim, a r. sentença recorrida.
+Constata-se que não se configurou a ofensa aos arts. 489 e 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, como lhe foi apresentada. Ademais, não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Confira-se:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS À EXECUÇÃO. ART. 535, I e II, DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE VÍCIO. PERCENTUAL DOS JUROS DE MORA. COISA JULGADA. REDISCUSSÃO DA MATÉRIA. NÃO CABIMENTO. SEGUNDOS EMBARGOS DE DECLARAÇÃO. ABUSIVIDADE MANIFESTA. APLICAÇÃO DE MULTA. POSSIBILIDADE. ART. 538, PARÁGRAFO ÚNICO, DO CÓDIGO DE PROCESSO CIVIL.
+I - A oposição de embargos de declaração, consoante o disposto no art. 535, I e II, do Código de Processo Civil, é restrita às hipóteses de correção de obscuridade, contradição ou omissão no acórdão embargado, revelando-se tal via inadequada para a pretensão de rejulgamento da causa.
+II - Para interpretação de toda decisão judicial, não basta o exame de seu dispositivo, integrado que está à fundamentação que lhe dá sentido e alcance; havendo dúvidas, deve ser adotada a que seja mais conforme à fundamentação e aos limites da lide, em harmonia com o pedido formulado na inicial, conforme expressamente consignado no MS 6.864/DF, ou seja, juros de mora de 1% ao mês.
+III - A impropriedade da alegação nos segundos aclaratórios opostos com o escopo de rediscutir a suposta existência de vícios no julgado, já enfrentada nos primeiros embargos de declaração, constitui prática processual abusiva sujeita à aplicação de multa, nos termos do art. 538, parágrafo único, do Código de Processo Civil.
+IV - Embargos de declaração rejeitados, com aplicação de multa de 1% sobre o valor atualizado da causa.
+(EDcl nos EmbExeMS 6.864/DF, Rel. Ministra REGINA HELENA COSTA, TERCEIRA SEÇÃO, DJe 21/8/2014).
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. DEFEITO NA PRESTAÇÃO DE SERVIÇO DE SAÚDE. PERDA DA VISÃO. ART. 333 DO CPC/73. ACÓRDÃO RECORRIDO QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA CONFIGURAÇÃO DE DANOS MORAIS. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, EM FACE DAS PROVAS DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO. EMBARGOS DE DECLARAÇÃO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. INCONFORMISMO. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO.
+I. Embargos de Declaração opostos a acórdão prolatado pela Segunda Turma do Superior Tribunal de Justiça, publicado em 12/12/2019.
+II. O voto condutor do acórdão embargado apreciou fundamentadamente, de modo coerente e completo, todas as questões necessárias à solução da controvérsia, negando provimento ao Agravo interno, em razão da incidência da Súmula 7/STJ.
+III. Inexistindo, no acórdão embargado, omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do CPC vigente, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da parte embargante com as conclusões do decisum.
+IV. Embargos de Declaração rejeitados.
+(EDcl no AgInt no AREsp 1.533.637/AP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 17/3/2020).
+Dessa maneira, não tendo sido infirmadas as razões que nortearam o decisum impugnado, não se pode acolher a irresignação.
+Com essas considerações, nego provimento ao Agravo Interno.
+É como voto.
