@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. SALDO COMPLEMENTAR. INTIMAÇÃO DA PARTE EXECUTADA. HONORÁRIOS ADVOCATÍCIOS. PRECLUSÃO.
+Em se tratando de execução promovida sob a égide do CPC/1973 em que a parte Executada foi devidamente citada nos termos do art. 730 do referido diploma legal para apresentação de defesa, resta precluso o exercício de tal direito.
+Já tendo sido efetuada a citação para pagamento na forma do art.
+730 do CPC/73, não é admissível retroagir a tramitação judicial para realização de ato equivalente àquela citação (intimação do art. 535 do CPC/15) e abrindo oportunidade análoga à dos embargos (impugnação ao cumprimento de sentença). Entender de modo diverso implicaria na violação à "Teoria dos Atos Processuais Isolados" ou do princípio tempus regit actum justamente porque inauguraria uma nova oportunidade para rediscussão de questões preclusas relativas ao cálculo inicial, por se tratar de mero complemento.
+Hipótese em que honorários advocatícios da execução já foram objeto de fixação por decisão atingida pela preclusão, não comportando nova disposição sobre a matéria e não sendo cabível novo arbitramento por ocasião de cobrança de saldo complementar.
+A parte recorrente pontua ofensa dos arts. 503, 505, 507 e 1.022 do CPC/2015, defendendo, além de negativa de prestação jurisdicional, preclusão dos honorários advocatícios no cumprimento de sentença coletiva, tendo em vista que a "parte adversária não interpôs recurso contra a decisão interlocutória, apenas reiterou o pleito de fixação de honorários ao juízo do cumprimento de sentença. Essa "reiteração", por óbvio, não é equiparável a um recurso".
+Contrarrazões apresentadas.
+Passo a decidir.
+Ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESAPROPRIAÇÃO. JULGAMENTO ULTRA PETITA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+ ..
+IV. Não há falar, na hipótese, em violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+V. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+VI. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+(AgInt no AREsp n. 2.084.089/RO, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 15/9/2022).
+Em outro ponto, extrai-se do aresto impugnado:
+Destarte, não há falar em preclusão, uma vez que houve manifestação da parte acerca da matéria no momento em que intimada a respeito da decisão que inicialmente indeferiu a fixação da verba. Ademais, há de se ter presente que não há previsão legal sobre o momento processual para a fixação de honorários, razão pela qual não há falar em acolhimento da preliminar.
+Observa-se das razões do especial que o aludido fundamento não foi combatido, sendo certo a incidência da Súmula 283 do STF.
+Em outro giro, verifica-se que a Corte origem não examinou a tese de que reiteração não é equiparável a um recurso.
+Conquanto não seja exigida a menção expressa do dispositivo de lei
+federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente, incidindo, na hipótese a Súmula 211 do STJ, do seguinte teor: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
