@@ -1,0 +1,90 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA N. 284/STF. ICMS. COMBUSTÍVEL. ADITIVO. MATÉRIA SOLUCIONADA À LUZ DA LEGISLAÇÃO LOCAL. SÚMULA N. 280/STF. ALÍNEA "B". NÃO CABIMENTO. AGRAVO INTERNO NÃO PROVIDO .
+1. Preliminarmente, observa-se ter sido deficiente a fundamentação do recurso especial com relação à preliminar, porquanto apresentada de forma genérica, sem a demonstração da relevância de cada um dos pontos ao deslinde da controvérsia. Súmula n. 284/STF.
+2. Com relação à incidência de ICMS sobre aditivos, depreende-se que a questão foi examinada na origem sob a ótica dos arts. 40-A, 42 e 280 do RICMS (Decreto Estadual n. 45.490/2000). Dito isso, ainda que apontado como malferido dispositivo de norma federal, a solução da matéria no aresto combatido à luz da legislação local inviabiliza, por si só, o reexame da questão em sede de apelo nobre, a teor da Súmula n. 280/STF.
+3. Por fim, não há, no caso concreto, ato de governo local julgado válido em face de lei federal, mas tão somente confronto entre lei local (RICMS) e lei federal (LC n. 87/96 e CTN), o que não se enquadra na competência deste e.STJ, mas na competência da Suprema Corte (art. 102, III, "d", da CF/88).
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto por IPIRANGA PRODUTOS DE PETROLEO S.A., contra a decisão de minha relatoria, assim ementada:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA N. 284/STF. ICMS. COMBUSTÍVEL. ADITIVO. MATÉRIA SOLUCIONADA À LUZ DA LEGISLAÇÃO LOCAL. SÚMULA N. 280/STF. ALÍNEA "B". NÃO CABIMENTO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões recursais, a agravante reitera a existência de negativa de prestação jurisdicional na medida em que o acórdão recorrido teria deixado de se manifestar acerca das normas suscitadas pela parte, não incidindo, no ponto, o óbice da Súmula n. 284/STF.
+No mérito, sustenta que não incide o óbice da Súmula n. 280/STF uma vez que, ao provimento da tese recursal, não há necessidade de se analisar norma local de forma isolada, mas sim em contraponto à legislação federal apontada como violada.
+Ademais, assevera que a Corte local julgou válido ato de governo local em face de lei federal, viabilizando a interposição do especial também pela alínea "b".
+Pugna, por fim, pelo provimento do presente agravo interno para que seja provimento ao recurso especial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA N. 284/STF. ICMS. COMBUSTÍVEL. ADITIVO. MATÉRIA SOLUCIONADA À LUZ DA LEGISLAÇÃO LOCAL. SÚMULA N. 280/STF. ALÍNEA "B". NÃO CABIMENTO. AGRAVO INTERNO NÃO PROVIDO .
+1. Preliminarmente, observa-se ter sido deficiente a fundamentação do recurso especial com relação à preliminar, porquanto apresentada de forma genérica, sem a demonstração da relevância de cada um dos pontos ao deslinde da controvérsia. Súmula n. 284/STF.
+2. Com relação à incidência de ICMS sobre aditivos, depreende-se que a questão foi examinada na origem sob a ótica dos arts. 40-A, 42 e 280 do RICMS (Decreto Estadual n. 45.490/2000). Dito isso, ainda que apontado como malferido dispositivo de norma federal, a solução da matéria no aresto combatido à luz da legislação local inviabiliza, por si só, o reexame da questão em sede de apelo nobre, a teor da Súmula n. 280/STF.
+3. Por fim, não há, no caso concreto, ato de governo local julgado válido em face de lei federal, mas tão somente confronto entre lei local (RICMS) e lei federal (LC n. 87/96 e CTN), o que não se enquadra na competência deste e.STJ, mas na competência da Suprema Corte (art. 102, III, "d", da CF/88).
+4. Agravo interno não provido.
+VOTO
+Cuida-se, na origem, de ação anulatória ajuizada pela ora agravante objetivando a nulidade de débitos de ICMS e multa remanescentes.
+Nas razões do apelo nobre, apontou-se ofensa aos seguintes dispositivos: a) art. 1.022 do Código de Processo Civil, sustentando que o acórdão recorrido padece de omissão; b) arts. 6º e 8º da Lei Complementar n. 87/96 e art. 97, I, do Código Tributário Nacional, aduzindo a impossibilidade de cobrança do ICMS sobre os aditivos quando da saída dos combustíveis aditivados para os varejistas ou consumidores.
+No presente, pretende afastar a incidência das Súmulas n. 284 e 280 do STF.
+O pleito não comporta acolhida.
+Preliminarmente, a parte apontou omissão com relação aos seguintes dispositivos (e-STJ fls. 361/362):
+i. artigo 97, inciso I, do CTN, e artigo 150, inciso I, da Constituição Federal, os quais versam sobre o princípio da legalidade tributária;
+ii. artigo 145, §1º, da CF/88, que versa sobre o princípio da capacidade contributiva;
+iii. artigos 6º, 7º, 8º, 9º e 10, da LC 87/96, os quais tratam da sistemática da substituição tributária e que, assim, caberia à Refinaria ou ao posto revendedor o recolhimento do ICMS sobre os aditivos, e não poderia o RICMS/SP prever que a Recorrente (substituta tributária) seria a responsável pelo recolhimento do ICMS.
+iv. artigo 150, §7º, da CF/88, no sentido de que cobrar ICMS da Recorrente (substituída tributária), que ocupa o meio da cadeia produtiva, seria um total contrassenso;
+v. artigo 155, §2º, inciso I, da CF/88, e artigos 19 e 20, da LC nº 87/96, no sentido de que, se cabe à Recorrente recolher o ICMS sobre os aditivos, deveria, então, se valer da não-cumulatividade e aproveitar créditos na mesma proporção;
+vi. artigo 155, inciso II, da CF/88, no sentido de que que os aditivos são meros insumos na cadeia de produção e que não podem ser considerados e não constituem novo fato gerador do ICMS;
+vii. artigo 142, do CTN, vez que o Auto de Infração não observa todas estas questões;
+viii. artigo 5º, inciso XXII e artigo 170, inciso II, ambos da CF/88, vez que a multa imposta não observa estas diretrizes constitucionais.
+Do excerto, observa-se ter sido deficiente a fundamentação do recurso especial com relação à preliminar, porquanto apresentada de forma genérica, sem a demonstração da relevância de cada um dos pontos ao deslinde da controvérsia.
+Dito isso, é escorreita a decisão agravada ao fazer incidir o óbice da Súmula n. 284/STF.
+Na mesma linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. MULTA. PROCON. CRITÉRIOS E QUANTUM. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. VIOLAÇÃO DO ART. 1.022 DO CPC. ALEGAÇÃO GENÉRICA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA N. 284/STF.
+1. Nos termos do acórdão recorrido, a multa administrativa fixada pelo Procon baseou-se em critérios como "a gravidade da infração, a vantagem auferida e a condição econômica do fornecedor" (art. 57 do CDC).
+2. O reexame do critério para sua fixação, bem como sua proporcionalidade para majorá-la ou reduzi-la é vedado em recurso especial por exigir revolvimento do conjunto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. Não se pode conhecer da apontada violação do art. 1.022, II, do CPC, pois as alegações que a fundamentaram são genéricas, sem discriminação dos pontos efetivamente omissos, contraditórios ou obscuros sobre os quais tenha incorrido o acórdão impugnado (Súmula n. 184 do STF).
+Agravo interno improvido.
+(AgInt no REsp n. 1.957.817/TO, relator Ministro Humberto Martins, Segunda Turma, julgado em 22/5/2023, DJe de 25/5/2023.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. OFENSA AOS ARTS. 11, 489, 490 E 1.022 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. REINTEGRA. ZONA FRANCA DE MANAUS E ÁREAS DE LIVRE COMÉRCIO. EQUIPARAÇÃO À EXPORTAÇÃO. JURISPRUDÊNCIA PACÍFICA DESTA CORTE.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 11, 489, II, 490 e 1.022, II, do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na espécie, o óbice da Súmula 284 do STF.
+2. É firme a jurisprudência desta Corte no sentido de que apenas as vendas de mercadorias destinadas às empresas situadas nas áreas de Boa Vista/RR e Bonfim/RR são equivalentes a uma exportação; desse modo, o benefício em questão não alcança as mercadorias destinadas às cidades de Guajará-Mirim/RO, Brasiléia/AC, Epitaciolândia/AC, Cruzeiro do Sul/AC, Macapá e Santana/AP. Precedentes: AgInt no REsp n. 1.893.714/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 26/6/2023, DJe de 29/6/2023; AgInt no AREsp n. 2.093.655/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 8/5/2023, DJe de 19/5/2023; AgInt no REsp n. 1.877.060/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/12/2022, DJe de 13/12/2022; AgInt no REsp n. 1.947.412/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 15/3/2022, DJe de 5/4/2022.
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 2.043.774/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 4/9/2023, DJe de 8/9/2023.)
+Com relação à incidência de ICMS sobre aditivos, depreende-se que a questão foi examinada na origem sob a ótica dos arts. 40-A, 42 e 280 do RICMS (Decreto Estadual n. 45.490/2000).
+Dito isso, ainda que apontado como malferido dispositivo de norma federal, a solução da matéria no aresto combatido à luz da legislação local inviabiliza, por si só, o reexame da questão em sede de apelo nobre, a teor da Súmula n. 280/STF.
+Nesse, colaciono:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. ALEGADA VIOLAÇÃO AO ART. 97 DO CTN. PRINCÍPIO DA LEGALIDADE. IMPOSSIBILIDADE DE EXAME EM SEDE DE RECURSO ESPECIAL. PRECEDENTES. ALEGADA NECESSIDADE DE PRODUÇÃO DE PROVA PERICIAL. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. ICMS. SUBSTITUIÇÃO TRIBUTÁRIA. CREDITAMENTO. ACÓRDÃO COM FUNDAMENTO EM LEI LOCAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 280/STF. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Não há falar, na hipótese, em violação ao art. 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+III. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido:
+STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+IV. O disposto no art. 97 do CTN reproduz o Princípio da Legalidade Tributária, norma prevista no art. 150, I, da Constituição Federal, tratando-se de limitação ao poder de tributar. Nesse aspecto, é assente a jurisprudência desta Corte no sentido de que não pode ser examinada eventual ofensa do referido dispositivo legal em sede de Recurso Especial, sob pena de violação à competência exclusiva do Supremo Tribunal Federal, nos termos do art. 102, III, do permissivo constitucional. Precedentes do STJ.
+V. Este Superior Tribunal de Justiça possui jurisprudência no sentido de que, "de acordo com o princípio do livre convencimento motivado, cumpre ao magistrado valorar a necessidade da produção probatória, não havendo cerceamento de defesa quando, em decisão adequadamente fundamentada, o julgador indefere a produção de provas, seja ela testemunhal, pericial ou documental" (STJ, AgRg no AREsp 827.092/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 08/03/2016). Precedentes desta Corte.
+VI. A questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento na interpretação da legislação local (Lei estadual 6.374/89). Logo, a revisão do aresto, na via eleita, encontra óbice na Súmula 280 do STF. No mesmo sentido: STJ, AgRg no AREsp 853.343/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 13/04/2016; AgInt no AREsp 935.121/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 17/10/2016; REsp 1.635.382/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2016).
+VII. Agravo interno improvido.
+(AgInt no AREsp n. 1.660.530/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 26/6/2023, DJe de 30/6/2023.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. ICMS. NATUREZA. DESCONTOS. CONDICIONAIS. SÚMULAS 5 E 7/STJ. RICMS. LEI LOCAL. SÚMULA 280/STF.
+1. Não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem dirime, fundamentadamente, as questões que lhe foram submetidas e aprecia integralmente a controvérsia posta nos autos.
+2. Não se presta a estreita via recursal a reformar a conclusão do Sodalício a quo a respeito da caracterização dos descontos concedidos p ela recorrente como condicionais, aptos a atrair a incidência do ICMS, na situação em que, para tal, faz-se necessário o revolvimento de matéria fático-probatória. Impedimento da Súmula 7/STJ.
+3. O recurso especial é incabível na hipótese em que o exame da controvérsia, conforme enfrentada pela Corte de origem, exige a apreciação de dispositivos de legislação local (RICMS do Estado de São Paulo). Aplicação da Súmula 280/STF.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.341.712/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 4/9/2023, DJe de 8/9/2023.)
+Por fim, não há, no caso concreto, ato de governo local julgado válido em face de lei federal, mas tão somente confronto entre lei local (RICMS) e lei federal (LC n. 87/96 e CTN), o que não se enquadra na competência deste e.STJ, mas na competência da Suprema Corte (art. 102, III, "d", da CF/88).
+Em idêntico sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. VALIDADE DA LEGISLAÇÃO MUNICIPAL EM FACE DE LEI FEDERAL (LC N. 116/03). COMPETÊNCIA DO STF. ALÍNEA "B". ATO DE GOVERNO LOCAL. AUSÊNCIA. LEI LOCAL. COMPETÊNCIA DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A tese veiculada no apelo nobre foi que o Código Tributário Municipal (Lei n. 5.040/75), "ao impedir a dedução do valor total dos materiais utilizados na prestação de serviços de concretagem, da base de cálculo do ISS, vai contra o preceito contido na legislação federal aplicável ao ISS" (e-STJ fls. 932/933).
+2. A argumentação recursal está, portanto, vinculada à tese de que "A cobrança do ISS, no caso, tal como previsto na legislação municipal, representa inconstitucional bitributação" (e-STJ fl. 937), tese cujo acolhimento exigiria o exame da validade da legislação municipal (Lei n. 5.040/75), em face do que prevê a legislação federal (LC n. 116/03). Tal exame é inviável em sede de apelo nobre na medida em que se trata de competência constitucionalmente atribuída ao Supremo Tribunal Federal (art. 102, III, "d", da CF/88).
+3. N ão há, no caso concreto, ato de governo local julgado válido em face de lei federal, mas tão somente confronto entre lei local e lei federal, o que não se enquadra na competência deste e.STJ, mas na competência da Suprema Corte (art. 102, III, "d", da CF/88).
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 2.048.270/GO, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/8/2023, DJe de 1/9/2023.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. ANULATÓRIA DE DÍVIDA ATIVA. CERCEAMENTO DE DEFESA. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. PREQUESTIONAMENTO. AUSÊNCIA. ATO DE GOVERNO LOCAL. VALIDADE EM DETRIMENTO DE LEI FEDERAL. INOCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. ANÁLISE. PREJUÍZO .
+1. Em ação anulatória de débito fiscal oriundo da queima irregular da cana-de-açúcar, o Tribunal de origem rejeitou a alegação de cerceamento de defesa porque "as provas da acusação eram suficientemente fortes para o decreto condenatório, não havendo indícios mínimos a respaldar a versão do embargante a ponto de se determinar a realização de prova pericial."
+2. Dissentir da conclusão adotada pelo acórdão recorrido, de modo a aferir a necessidade de produção da prova pericial, implica inevitável revolver de aspectos fático-probatórios, providência inviável em sede de recurso especial, nos termos da Súmula 7 do STJ:
+"A pretensão de simples reexame de prova não enseja recurso especial."
+3. Dirimida a lide sem qualquer menção aos dispositivos legais mencionados no apelo nobre, carece o recurso do indispensável prequestionamento, o que faz incidir, por analogia, o óbice da Súmula 282 do STF.
+4. A interposição do recurso especial pela alínea "b" do art. 105, III, da CF/1988 pressupõe que as instâncias ordinárias tenham julgado "válido ato de governo local contestado em face de lei federal", situação inexistente na espécie.
+5. O emprego de verbete sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional prejudica a análise da divergência jurisprudencial suscitada (AgRg no AREsp 278.133/RJ, rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe 24/09/2014).
+6.Agravo interno desprovido.
+(AgInt no AREsp n. 1.455.874/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 21/6/2021, DJe de 29/6/2021.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
