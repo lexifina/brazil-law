@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial de ADEODETE TRESSMANN VITORIO, no qual se insurgiu contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA SEGUNDA REGIÃO.
+A questão debatida nos autos, qual seja, "definir se a demanda previdenciária cujo valor da condenação seja aferível por simples cálculos aritméticos deve ser dispensada da remessa necessária, quando for possível estimar que será inferior ao montante previsto no artigo 496, § 3º, inc. I do Código de Processo Civil.",  encontra-se  afetada  à  Primeira  Seção  desta  Corte  Superior  aguardando  o  julgamento  final  dos REsps 1.882.236/RS, 1.893.709/RS e 1.894.666/SP,  Rel. Min. Humberto Martins ,  sob  o  rito  dos  recursos  repetitivos  (Tema  1.081 /STJ).
+Nos termos do art. 34, XXIV, c/c o art. 256 -L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC, após a publicação do acórdão dos citados recursos excepcionais representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC.
+Publique-se. Intimações necessárias.
+ EMENTA
