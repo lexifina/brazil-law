@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. CIVIL. AÇÃO DE COBRANÇA. PRODUTOR INDEPENDENTE DE ENERGIA. ALEGAÇÕES DE VÍCIOS NO ACÓRDÃO EMBARGADO. VÍCIOS INEXISTENTES. PRETENSÃO DE REEXAME.
+I - Os embargos não merecem acolhimento.
+II - Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+III - Conforme entendimento pacífico desta Corte: "O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida." EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+IV - Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+V - Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos contra acórdão que julgou agravo interno. O recurso foi julgado pela Segunda Turma, conforme a seguinte ementa do acórdão:
+PROCESSUAL CIVIL. CONSUMIDOR. AÇÃO DE COBRANÇA. ATRASO DE PAGAMENTO DE FATURA. ENCARGOS MORATÓRIOS. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA ENUNCIADOS N. 283 E 284 DA SÚMULA DO STF. INCIDÊNCIA ENUNCIADO N. 7 DA SÚMULA DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO.
+I - Na origem, trata-se de ação de cobrança objetivando a condenação das rés ao pagamento de encargos moratórios (juros de mora de 1% ao mês e correção monetária), em razão de atrasos no pagamento das faturas referentes à execução do Contrato OC-1820/2005, relacionadas ao período de abril de 2016 em diante. Na sentença o pedido foi julgado procedente. No Tribunal a quo, a sentença foi mantida.
+II - A competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal. Nesse contexto, impõe-se não apenas a correta indicação dos dispositivos legais federais supostamente contrariados pelo Tribunal a quo, mas também a delimitação clara da violação da matéria insculpida nos regramentos indicados, para que, assim, seja viabilizando o necessário confronto interpretativo e, consequentemente, o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame.
+III - Dessa forma, verificado que o recorrente não logrou êxito em fundamentar adequadamente a ocorrência de suposta incorreção da interpretação jurídica realizada pelo Tribunal de origem acerca do comando normativo dos dispositivos legais indicados como violados, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF. Acerca do assunto, destaco os seguintes precedentes: AgInt no AREsp n. 983.543/RJ, relator Ministro Herman Benjamin, DJe 5/5/2017; AgInt no REsp n. 1.597.355/CE, relator Ministro Francisco Falcão, DJe 10/3/2017.)
+IV - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+V - Ademais, o reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que os fundamentos apresentados naquele julgado, e que fundamentaram a construção da sólida ratio decidendi alcançada pelo Tribunal de origem, foram utilizados de forma suficiente para manter a decisão proferida no Tribunal a quo e não foram suficientemente rebatidos no apelo nobre, fator capaz de atrair a aplicação dos óbices das Súmulas n. 283 e 284, ambas do STF.
+VI - Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+VII - Agravo interno improvido.
+Opostos embargos de declaração, aponta a parte embargante os seguintes vícios no acórdão embargado:
+ ..
+A Embargante, com a devida vênia, ao contrário do que o v. acórdão afirma, apontou especificamente o objeto da controvérsia e os dispositivos violados, quais sejam: artigos 54, 55, § 1º, e 66, da Lei nº 8.666/93, artigos 206, § 3º 322, 323 do Código Civil.
+Outrossim, a Embargante salienta que o pedido da Embargada encontra- se prejudicado por força da prescrição, ainda que parcialmente, não tendo sido essa reconhecida pela sentença, sendo imprescindível o provimento do recurso especial, para que reformando-se o entendimento, declare-se que o pleito da requerente abrange no máximo o período compreendido até 03 (três) anos antes da propositura de sua demanda, nos termos do artigos 189 c/c 206 do Código Civil e 487, II, c/c 354, do CPC.
+ ..
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. CIVIL. AÇÃO DE COBRANÇA. PRODUTOR INDEPENDENTE DE ENERGIA. ALEGAÇÕES DE VÍCIOS NO ACÓRDÃO EMBARGADO. VÍCIOS INEXISTENTES. PRETENSÃO DE REEXAME.
+I - Os embargos não merecem acolhimento.
+II - Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+III - Conforme entendimento pacífico desta Corte: "O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida." EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+IV - Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+V - Embargos de declaração rejeitados.
+VOTO
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+O acórdão é claro e sem obscuridades quanto aos vícios indicados pela parte embargante, conforme se confere dos seguintes trechos:
+ ..
+Dessa forma, verificado que o recorrente não logrou êxito em fundamentar adequadamente a ocorrência de suposta incorreção da interpretação jurídica realizada pelo Tribunal de origem acerca do comando normativo dos dispositivos legais indicados como violados, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF.
+ ..
+Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+ ..
+Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+ ..
+No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
