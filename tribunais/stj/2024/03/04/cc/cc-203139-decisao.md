@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de conflito de competência entre o JUÍZO FEDERAL DA 1ª VARA DE CAMPO GRANDE - SJ/MS e o JUÍZO FEDERAL DA 22ª VARA CÍVEL DE BRASÍLIA - SJ/DF, no qual JOSE CASADO DE LIRA postula o cumprimento de sentença em ação civil pública em face da UNIÃO.
+Na origem, trata-se de requerimento de cumprimento de sentença proferida nos autos da Ação Civil Pública n. 0005019-15.1997.4.03.6000, proposta pelo Ministério Público Federal, que tramitou na 1ª Vara Federal de Campo Grande/MS, na qual houve a condenação da União, Funasa, Funai, IBGE, Ibama, FUFMS, Incra, INSS e DNIT "a incorporar o percentual de 28,86% às remunerações de seus servidores, ativos, inativos e pensionistas, não litigantes em outras ações ou cujas ações estejam suspensas e não firmatários de acordo, a partir de janeiro de 1993, com reflexos, respeitadas as datas de admissões, descontadas as reposições já feitas por força das leis nº 8622/93 e 8627/93".
+A ação foi proposta perante o Juízo Federal da 22ª Vara Cível de Brasília - SJ/DF, que declinou da competência ao entendimento de que "eventual liquidação e cumprimento de sentença devem ser distribuídos por dependência ao feito principal" (fl. 102).
+Recebidos os autos, o Juízo Federal da 1ª Vara de Campo Grande - SJ/MS, por sua vez, suscitou o presente conflito, ao entender que:
+Primeiramente, é pacífico o entendimento que não existe interesse apto a justificar a prevenção do Juízo que examinou o mérito da ação coletiva para o processamento e julgamento das execuções individuais desse título judicial.
+Importa ainda destacar que o presente cumprimento de sentença individual foi deflagrado contra a União Federal, e o §2º do art. 109 da Constituição Federal dispõe que as causas intentadas contra a União poderão ser aforadas no Distrito Federal, no foro do domicílio do autor, onde houver ocorrido o ato ou fato que deu origem à demanda ou onde esteja situada a coisa.
+Em face dessa norma, é perfeitamente legítima a opção da parte exequente por deflagrar o cumprimento de sentença individual no foro do Distrito Federal (fls. 105-106).
+Desnecessária a oitiva do Ministério Público Federal (art. 951, parágrafo único, do CPC/2015).
+É o relatório. Decido.
+No caso, a controvérsia visa a determinar o juízo competente para julgar ação de cumprimento de sentença individual decorrente de título executivo judicial proveniente de ação coletiva.
+Com efeito, segundo a jurisprudência desta Corte Superior, "as causas intentadas contra a União poderão ser aforadas na Seção Judiciária em que for domiciliado o autor, naquela onde houver ocorrido o ato ou fato que deu origem à demanda, ou onde esteja situada a coisa, ou, ainda, no Distrito Federal" (AgInt no CC 166.313/DF, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 27/11/2019, DJe de 7/5/2020).
+A esse respeito, os seguintes julgados:
+PROCESSUAL CIVIL. EXECUÇÃO INDIVIDUAL DE TÍTULO COLETIVO. LOCAL EM QUE JULGADA A AÇÃO COLETIVA OU NO FORO DO DOMICÍLIO DO BENEFICIÁRIO. DEMANDA CONTRA A UNIÃO. ALTERNATIVAS.
+1. No julgamento do REsp n. 1.243.887/PR, representativo da controvérsia, rel. Ministro Luis Felipe Salomão, julgado em 19/10/2011, DJe 12/12/2011, a Corte Especial reconheceu que a execução individual de sentença genérica proferida em ação civil coletiva pode ser ajuizada no foro no qual tenha sido proferida a sentença coletiva ou no do domicílio do beneficiário, porquanto os efeitos e a eficácia do aludido julgado não estão circunscritos a lindes geográficos, mas aos limites objetivos e subjetivos do que foi decidido.
+2. A conclusão firmada no repetitivo não restringe a aplicação do disposto no art. 109, § 2º, da Constituição Federal, mas apenas confere ao autor a prerrogativa processual do ajuizamento da execução individual derivada de decisão proferida no julgamento de ação coletiva no foro de seu domicílio ou, ainda, em outro de seu interesse.
+3. Agravo interno não provido.
+(AgInt no REsp n. 2.029.362/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 11/9/2023, DJe de 18/9/2023).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. CONFLITO NEGATIVO DE COMPETÊNCIA. AUTARQUIA FEDERAL. JUSTIÇA FEDERAL. MANDADO DE SEGURANÇA. FORO DE DOMICÍLIO DO IMPETRANTE. INCIDÊNCIA DA REGRA DO ART. 109, § 2º, DA CONSTITUIÇÃO FEDERAL. PRECEDENTES DO STF E DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno interposto em contra decisão que julgou Conflito de Competência negativo, suscitado nos autos de Mandado de Segurança, impetrado pela parte interessada contra ato do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP), ora agravante.
+II. O art. 109, § 2º, da Constituição Federal estabelece que "as causas intentadas contra a União poderão ser aforadas na seção judiciária em que for domiciliado o autor, naquela onde houver ocorrido o ato ou fato que deu origem à demanda ou onde esteja situada a coisa, ou, ainda, no Distrito Federal".
+(..)
+VI. Agravo interno improvido.
+(AgInt no CC n. 150.693/DF, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 16/11/2022, DJe de 22/11/2022).
+No mesmo sentido, as seguintes decisões: CC 203.155/MS, Rel. Ministro SÉRGIO KUKINA, DJe de 29/2/2024; CC 202.172/RR, Rel. Ministro BENEDITO GONÇALVES, DJe de 28/2/2024; CC 202.774/SP, Rel. Ministro BENEDITO GONÇALVES, DJe de 27/2/2024; CC 202.450/SP, Rel. Ministro HERMAN BENJAMIN, DJe de 27/2/2024; CC 199.849/SP, Rel. Ministro MAURO CAMPBELL MARQUES, DJe de 16/2/2024.
+Desse modo, tendo o exequente optado por apresentar a cumprimento de sentença perante a Justiça Federal do Distrito Federal, deve o processo tramitar perante o referido juízo.
+Ante o exposto, com fundamento no art. 34, XXII, do RISTJ, conheço do presente conflito e declaro competente o JUÍZO FEDERAL DA 22ª VARA CÍVEL DE BRASÍLIA - SJ/DF.
+Publique-se. Intimem-se..
+EMENTA
