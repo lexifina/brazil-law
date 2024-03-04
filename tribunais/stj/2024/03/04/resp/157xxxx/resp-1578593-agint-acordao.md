@@ -1,0 +1,97 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C REINTEGRAÇÃO DE POSSE E PERDAS E DANOS. COMPROMISSO DE COMPRA E VENDA. ALEGADA ILEGITIMIDADE PASSIVA. ALTE RAÇÃO DO JULGADO. SÚMULA 7/STJ. CERCEAMENTO DE DEFESA. NÃO PREQUESTIONAMENTO. SÚMULA 282/STF. AGRAVO INTERNO DESPROVIDO.
+1. O direito afirmado deve pertencer a quem propõe a demanda (legitimidade ativa) e a satisfação desse direito deve ser incumbência daquele em face de quem a demanda é proposta (legitimidade passiva).
+2. No caso dos autos, tendo o Tribunal a quo afirmado que a legitimidade passiva ad causam advém da cessão de direitos, registrada em formal de partilha de bens do casal, após a separação judicial, é forçoso reconhecer que a alteração do contexto fático e probatório é medida inadequada no âmbito do recurso especial, em razão da Súmula 7/STJ.
+3. No que concerne ao tema do cerceamento do direito de defesa, mantém-se o entendimento de que o conteúdo normativo dos dispositivos invocados no apelo nobre, quais sejam os arts. 130, 333, 400 e 458 do CPC/1973. não foi apreciado pelo Tribunal a quo, tampouco foi alvo de embargos declaratórios, nem sequer opostos para sanar eventual omissão. Manutenção das Súmulas 282 e 356 do STF.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por VALQUÍRIA DE FÁTIMA CASTELHANO contra decisão que não conheceu do recurso especial.
+Nas razões do agravo interno, sustenta a agravante a reconsideração da decisão, alegando para tanto que não é parte legítima passiva, pois não integra a relação jurídico-obrigacional, sendo o tema recursal de direito, não exigindo incursão no acervo fático-probatório.
+Acrescenta que o tema referente ao cerceamento de defesa foi devidamente prequestionado, além do que argumentou no âmbito do recurso especial negativa de prestação jurisdicional.
+A impugnação do presente recurso foi apresentada às fls. 706/710.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C REINTEGRAÇÃO DE POSSE E PERDAS E DANOS. COMPROMISSO DE COMPRA E VENDA. ALEGADA ILEGITIMIDADE PASSIVA. ALTE RAÇÃO DO JULGADO. SÚMULA 7/STJ. CERCEAMENTO DE DEFESA. NÃO PREQUESTIONAMENTO. SÚMULA 282/STF. AGRAVO INTERNO DESPROVIDO.
+1. O direito afirmado deve pertencer a quem propõe a demanda (legitimidade ativa) e a satisfação desse direito deve ser incumbência daquele em face de quem a demanda é proposta (legitimidade passiva).
+2. No caso dos autos, tendo o Tribunal a quo afirmado que a legitimidade passiva ad causam advém da cessão de direitos, registrada em formal de partilha de bens do casal, após a separação judicial, é forçoso reconhecer que a alteração do contexto fático e probatório é medida inadequada no âmbito do recurso especial, em razão da Súmula 7/STJ.
+3. No que concerne ao tema do cerceamento do direito de defesa, mantém-se o entendimento de que o conteúdo normativo dos dispositivos invocados no apelo nobre, quais sejam os arts. 130, 333, 400 e 458 do CPC/1973. não foi apreciado pelo Tribunal a quo, tampouco foi alvo de embargos declaratórios, nem sequer opostos para sanar eventual omissão. Manutenção das Súmulas 282 e 356 do STF.
+4. Agravo interno desprovido.
+VOTO
+O recurso especial, ora revisitado, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso, assim ementado (e-STJ, fls.557/558):
+"RECURSOS DE APELAÇÃO - AÇÃO DE RESCISÃO CONTRATUAL C/C REINTEGRAÇÃO DE POSSE E PERDAS E DANOS - COMPROMISSO DE COMPRA E VENDA - ILEGITIMIDADE PASSIVA - INOCORRÊNCIA - PARTILHA HOMOLOGADA - NULIDADE DA SENTENÇA POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL E EXTRA PETITA - NÃO OCORRÊNCIA - INADIMPLEMENTO DA COMPRADORA - RESCISÃO DEVIDA - RESTITUIÇÃO DAS PARTES AO STATUS QUO ANTE - DEVOLUÇÃO DAS PARCELAS PAGAS - CORREÇÃO MONETÁRIA DESDE A DATA DO DESEMBOLSO - JUROS DE MORA A PARTIR DA CITAÇÃO - PERDAS E DANOS - 10% DO VALOR PAGO - TAXA DE FRUIÇÃO - 0,5% DO VALOR ATUALIZADO DO IMÓVEL - EXPRESSA PREVISÃO CONTRATUAL - RECURSOS PARCIALMENTE PROVIDOS.
+Não há que se falar em ilegitimidade passiva se o promitente comprador, por força de partilha devidamente homologada, transfere os direitos e obrigações do imóvel para sua ex-mulher, que se torna inadimplente.
+O juiz não está obrigado a responder todas as alegações das partes, quando já tenha encontrado motivo suficiente para fundamentar a decisão. Ademais, constando na inicial o pedido, não é extra perita a sentença que o acolhe.
+Não cumprido a compradora com sua parte na avença, no que se refere ao pagamento das parcelas e demais obrigações assumidas, pode a construtora exigir a resolução do contrato, com o retorno das partes ao status quo ante.
+A rescisão do contrato de compra e venda de imóvel não impede a devolução das parcelas adimplidas pelo comprador, as quais deverão ser corrigidas monetariamente desde o desembolso e acrescidas de juros moratórios a partir da citação.
+A porcentagem de 10% do valor das parcelas pagas basta para a satisfação das perdas e danos suportados, bem como para ressarcir a promitente - vendedora pela rescisão havida em face da inadimplência do promitente - comprador.
+Previsto o percentual de 0,5% no contrato, a título de taxa de fruição pela permanência do imóvel sem a devida contraprestação, deve ele ser aplicado."
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, sustentou a recorrente, ora agravante, além de dissídio jurisprudencial, que o Tribunal a quo negou vigência ao art. 299 do Código Civil e arts. 3º, 10, 42, 267 e 476 do CPC/1973, na medida em que o formal de partilha não lhe impôs obrigações sobre o imóvel, tampouco faz alusão quanto à assunção da dívida advinda do contrato de promessa de compra e venda do imóvel em questão, muito menos lhe imputa obrigação de transferir o negócio jurídico para seu próprio nome. Assim, não detém legitimidade passiva ad causam.
+Obtemperou ainda que o Tribunal a quo, ao julgar antecipadamente a lide, não produzindo a prova testemunhal e se embasando em prova pericial imprecisa, lhe cerceou o direito de defesa, na melhor interpretação dos arts. 130, 333, 400 e 458 do CPC/1973.
+As contrarrazões ao recurso especial foram apresentadas às fls. 631/633.
+Conforme delimitado na decisão agravada, o recurso especial tem origem em ação de rescisão contratual combinada com reintegração de posse e perdas e danos ajuizada por M. CANOVA CONSTRUÇÕES CIVIS LTDA, recorrida, ora agravada, em face de VALQUÍRIA DE FÁTIMA CASTELHANO, recorrente, ora agravante.
+Houve reconvenção.
+A sentença julgou o pedido procedente em parte, para rescindir o contrato de compromisso de compra e venda, retornando as partes ao status quo ante da relação jurídica firmada, determinando a desocupação do imóvel; julgou a reconvenção procedente em parte tão somente para adequar o índice de correção monetária e os juros aplicados.
+Ressai dos autos que M. Canova Construções Civis Ltda, tendo celebrado com o Sr. Manoel José Abel Júnior, então marido de Valquíria de Fátima Castelhano, recorrente, contrato particular de compromisso de compra e venda cujo objeto era um apartamento no Condomínio Residencial Atlanta, Senhor dos Passos, Cuiabá/MT, ajuizou ação de rescisão contratual c/c reintegração de posse e perdas e danos em face de Valquíria de Fátima Castelhano em virtude da inadimplência desta última no pagamento das parcelas do financiamento do imóvel, que passou a ser de sua propriedade e obrigação, após divisão de bens do casal estabelecida pelo formal de partilha.
+Em contestação, a ré, recorrente, esclareceu que suspendeu o pagamento das parcelas tendo em vista o não cumprimento das obrigações pela autora, recorrida, apoiada na exceção do contrato não cumprido, visto que o imóvel foi entregue sem a infraestrutura prometida, além de questionar o índice de correção monetária, juros e multa moratória utilizados. Apresentou ainda reconvenção requerendo a indenização em razão da má execução do empreendimento e das benfeitorias realizadas pelos moradores ou, alternativamente, que a reconvinda pague o preço de mercado do imóvel em caso de rescisão contratual, com a redução do valor do aluguel.
+A Magistrada de 1º grau, ao proferir a sentença, julgou parcialmente procedente o pedido para declarar rescindido o contrato de compromisso de compra e venda, retornando a situação das partes ao status quo ante da relação jurídica firmada, bem como julgou parcialmente procedente a reconvenção ajuizada para adequar o índice de correção monetária e os juros aplicados.
+Com efeito, a questão do recurso especial se volta à legitimidade da parte ré, recorrente, ora agravante.
+Acerca da questão recursal, o Tribunal a quo se manifestou nos seguintes termos (e- STJ, fls. 561/562):
+"Suscita a Apelante Valquíria de Fátima Castelhano que é parte ilegítima para figurar no polo passivo da lide uma vez que o contrato foi firmado exclusivamente pelo Sr. Manoel José Abel Junior, de quem se separou judicialmente.
+Pois bem. A preliminar não merece acolhimento.
+Analisando os autos, observa-se que por ocasião de sua separação judicial, o Sr. Manoel cedeu seus direitos e obrigações de promitente comprador do imóvel em questão para sua ex-esposa, ora Apelante, consoante formal de partilha de fls.28 a 46.
+Nesse contexto, é certo, no que tange ao cumprimento das obrigações contratadas entre as partes, que incumbe ao sucessor ocupar o lugar do sucedido, recebendo todos os ônus, bem como os bônus derivados da posição ocupada na relação contratual.
+Não obstante, afirma a suscitante expressamente em sua reconvenção que: "Inobstante a validade do comprometimento contratual estabelecido entre as partes, a contratante, ora Reconvinte, decidiu suspender o pagamento depois de 04 (quatro) anos de adimplemento, uma vez que a Contratada, ora Reconvinda, não concluiu sua parte no pactuado (art. 476, CC)". (fl. 169) Logo, constatada a relação entre as partes e a titularidade do interesse que se opõe à pretensão autoral, rejeito a preliminar de ilegitimidade passiva." (grifo nosso)
+Acerca da legitimidade de parte, é sabido que aquele em face de quem a demanda é proposta é parte legítima se integra a relação jurídica afirmada pelo autor e, em tese, é o responsável pela satisfação do direito alegado. Ou seja, o direito afirmado deve pertencer a quem propõe a demanda (legitimidade ativa) e a satisfação desse direito deve ser incumbência daquele em face de quem a demanda é proposta (legitimidade passiva).
+Confira-se:
+"DIREITO EMPRESARIAL. RECURSO ESPECIAL. FORNECIMENTO DE COMBUSTÍVEIS. VEDAÇÃO À CESSÃO DO CONTRATO A SOCIEDADE NÃO PERTENCENTE AO MESMO GRUPO ECONÔMICO DA FORNECEDORA. CISÃO PARCIAL E POSTERIOR INCORPORAÇÃO SOCIETÁRIA POR EMPRESA ESTRANHA AO GRUPO ECONÔMICO. SUCESSÃO. LEGALIDADE EM TESE DAS OPERAÇÕES QUE NÃO AFASTA TODAVIA O ILÍCITO CONTRATUAL. RESCISÃO DECRETADA. INAPLICABILIDADE DOS ARTS. 232 E 233 DA LEI N. 6.404/76.
+1. É sabido que aquele em face de quem a demanda é proposta é parte legítima se integra a relação jurídica afirmada pelo autor e, em tese, é o responsável pela satisfação do direito alegado. Ou seja, o direito afirmado deve pertencer a quem propõe a demanda (legitimidade ativa) e a satisfação desse direito deve ser incumbência daquele em face de quem a demanda é proposta (legitimidade passiva). Assim, estando a ação apoiada em contrato celebrado pela fornecedora (Shell) e em alegada violação ao avençado, também praticado por esta parte, rejeita-se a tese de ilegitimidade passiva da primeira recorrente.  ..
+7. Recursos especiais não providos."
+(REsp 1.187.195/TO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/05/2012, DJe de 19/06/2012)
+No caso dos autos, tendo o Tribunal a quo afirmado que a legitimidade passiva ad causam advém da cessão de direitos, registrada em formal de partilha de bens do casal, após a separação judicial, é forçoso reconhecer que a alteração do contexto fático e probatório é medida inadequada no âmbito do recurso especial, em razão da Súmula 7/STJ.
+No mesmo sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CIVIL PÚBLICA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA REQUERIDA.
+1. As questões postas à discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla, fundamentada e sem omissões, portanto, deve ser afastada a alegada violação aos artigos 489 e 1.022 do CPC/15. Precedentes.
+2. Segundo a jurisprudência desta Corte, as associações instituídas na forma do art. 82, IV, do CDC estão legitimadas para propositura de ação civil pública em defesa de interesses individuais homogêneos. Incidência da Súmula 83/STJ.
+3. A conclusão a que chegou o Tribunal de origem, atinente à cessão de direitos creditórios a empresa do mesmo grupo econômico, a determinar a legitimidade passiva da parte, fundamenta-se nas particularidades do contexto que permeia a controvérsia. Incidência das Súmulas 5 e 7 do STJ.
+4. O STF, no julgamento do tema de repercussão geral 1075, reconheceu a inconstitucionalidade do art. 16 da Lei 7.347/1985, alterada pela Lei 9.494/1997, a qual previa a limitação territorial da coisa julgada no processo coletivo. Acórdão editado pelo Tribunal local alinha-se a tal diretriz.
+5. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 282/STF
+6. Agravo interno desprovido."
+(AgInt no AREsp 611.847/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/03/2023, DJe de 31/03/2023)
+"PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. ATRASO NA ENTREGA DO IMÓVEL. RESCISÃO CONTRATUAL. LEGITIMIDADE ATIVA. AUSÊNCIA DE ALCANCE NORMATIVO DO ARTIGO INDICADO. SÚMULA N. 284 DO STF. FALTA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. MULTA POR LITIGÂNCIA DE MÁ-FÉ. DESCABIMENTO. DECISÃO MANTIDA.
+1. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.
+2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+4. No caso, sem incorrer na vedação do mencionado óbice, não há como averiguar, nesta instância, a eficácia, em relação à devedora, da cessão, por parte da segunda recorrida, de seus direitos de aquisição do imóvel a seu cônjuge, declarando, por conseguinte, sua ilegitimidade ativa para propor a presente demanda.
+5. Conforme a jurisprudência desta Corte, "a simples interposição de recursos cabíveis não implica litigância de má-fé" (EDcl no AgInt no AREsp n. 1.324.402/DF, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/6/2019, DJe 25/6/2019), sendo incabível a aplicação de multa.
+6. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1.507.122/CE, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 14/09/2020, DJe de 22/09/2022)
+No que concerne ao tema do cerceamento do direito de defesa, mantém-se o entendimento de que o conteúdo normativo dos dispositivos invocados no apelo nobre, quais sejam arts. 130, 333, 400 e 458 do CPC/1973. não foi apreciado pelo Tribunal a quo, tampouco foi alvo de embargos declaratórios, nem sequer opostos para sanar eventual omissão. Recai ao ponto o óbice das Súmulas 282 e 356 do STF.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356/STF. CONCLUSÃO ESTADUAL ACERCA DA AUSÊNCIA DE PREJUÍZOS PRATICADOS PELA RECORRIDA E DANOS MORAIS. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Os arts. 32, caput, da Lei n. 8.906/1994 e 2º e 4º do Estatuto do Idoso não foram objeto de prequestionamento no julgado da segunda instância e os insurgentes não opuseram embargos de declaração objetivando suprir eventual ocorrência de vícios do art. 1.022 do CPC/2015. Aplicação das Súmulas 282 e 356/STF.
+ ..
+3. Agravo interno desprovido."
+(AgInt no AREsp 1.549.709/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/06/2020, DJe 25/06/2020)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORABILIDADE DE VERBA SALARIAL. IMPOSSIBILIDADE. EXCEPCIONALIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO PROVIMENTO.
+ ..
+2. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+3. Agravo interno a que se nega provimento."
+(AgInt no REsp 1.836.544/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/06/2020, DJe 17/06/2020)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 329 DO CPC/2015. FALTA DE PREQUESTIONAMENTO. AÇÃO MONITÓRIA. EMBARGOS. PROVA ESCRITA. APTIDÃO PARA APARELHAR O PEDIDO MONITÓRIO. EXAME APÓS A CONVERSÃO DO RITO. DESCABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, tampouco suscitados embargos de declaração para sanar eventual omissão, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+ ..
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1.635.758/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 01/06/2020, DJe 15/06/2020)
+"DIREITO CIVIL E PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ILEGALIDADE DA MODIFICAÇÃO DA COMPETÊNCIA. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. ILEGALIDADE DA MULTA IMPOSTA. REEXAME DO CONJUNTO FÁTICO- PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. IMPOSSIBILIDADE DA REDUÇÃO DA INDENIZAÇÃO POR DANOS MORAIS. INDEVIDA INOVAÇÃO RECURSAL. DECISÃO MANTIDA.
+1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+ ..
+7. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1.508.110/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 25/05/2020, DJe 28/05/2020)
+Conclui-se que as razões do agravo interno não tiveram o condão de infirmar os fundamentos adotados na decisão agravada.
+Diante do exposto, nega-se provimento ao agravo interno.
+É como voto.
