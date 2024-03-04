@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de JOÃO PEDRO CAMACHO MASSITELLI, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado como incurso no art. 33, caput, da Lei n. 11.343/2006, à pena de 5 anos e 10 meses de reclusão e 583 dias-multa, no regime inicial fechado.
+Em sede recursal, o Tribunal de origem deu parcial provimento ao apelo defensivo, para reduzir a pena do réu para 5 anos de reclusão, mantido o regime inicial fechado.
+Neste habeas corpus, alega a defesa, em suma, que "o Tribunal de Justiça do Estado de São Paulo, ao manter o regime inicial fechado para o paciente, violou o princípio da individualização da pena, previsto no art. 5º, XLVI, da Constituição Federal, bem como o art. 33, § 2º, do Código Penal, que estabelece critérios objetivos para a fixação do regime prisional." (e-STJ, fl. 8)
+Requer a fixação do regime inicial semiaberto.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo, assim, à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+A Corte de origem manteve o regime inicial fechado com base nos seguintes fundamentos:
+"2. Saliente-se que a autoria e a existência do fato não foram objeto de controvérsia, razão pela qual a análise do apelo cingir-se-á às matérias impugnadas.
+3. Nos termos do artigo 42 da Lei nº 11.343/06, considerando a expressiva quantidade de drogas arrecadadas  7.590g de maconha e 29,49g de cocaína - cf. Auto de Exibição e Apreensão (fls. 26/7) e laudos de constatação e de exame químico-toxicológico (fls. 31/4 e 86/8) , as penas-base foram corretamente exasperadas na sexta parte.
+Na segunda etapa dosimétrica o nobre sentenciante compensou a agravante da reincidência  específica - condenação por tráfico, processo nº 1501438-95.2019.8.26.0559 (fls. 50)  com a atenuante da confissão espontânea. Deve, contudo, incidir também a mais poderosa das circunstâncias atenuantes - a menoridade relativa (fls. 08, 10 e 21).
+As reprimendas, por conseguinte, retrocedem ao piso legal: reclusiva de 5 (cinco) anos mais multa de 500 (quinhentas) unidades de cálculo, definitivamente estabelecidas porquanto ausentes causas de aumento ou de diminuição.
+4. Por derradeiro, à vista mencionada contumácia específica do acusado, assim como da hediondez que tisna a traficância - de fundo legal (artigo 2º da Lei nº 8.072/90) e, especialmente, constitucional (artigo 5º, inciso XLIII), pelo que não se há afastá-la -, exsurgia mesmo imperiosa a imposição do regime fechado: inteligência do artigo 33, § 2º, alínea a, do Código Penal e do artigo 2º, § 1º, da Lei nº 8.072/90.
+5. Em decorrência do exposto, meu voto dá parcial provimento ao apelo de João Pedro Camacho Massitelli a fim de, reconhecendo sua menoridade relativa, reduzir-lhe a punição para 5 (cinco) anos de reclusão e 500 (quinhentos) dias ínfimos de multa. Mantém-se, no mais, pelos méritos que oferece, a r. decisão guerreada." (e-STJ, fls. 36-3 7; sem grifos no original)
+Com efeito, estabelecida a pena final em 5 anos de reclusão e verificada a reincidência do réu, é inviável a aplicação do regime aberto ou semiaberto, nos termos dos arts. 33, § 2º, do Código Penal.
+Nesse sentido:
+"HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. ART. 33 DA LEI 11.343/2006. PACIE NTE CONDENADO À SANÇÃO CORPORAL DEFINITIVA DE 5 ANOS E 10 MESES DE RECLUSÃO. PLEITO DE DESCLASSIFICAÇÃO PARA O TIPO DO ART. 28 DA LEI N. 11.343/2006. INVIABILIDADE. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. TRÁFICO PRIVILEGIADO. NÃO RECONHECIMENTO. PACIENTE REINCIDENTE. NÃO ATENDIMENTO DOS REQUISITOS PREVISTOS NO ART. 33, § 4º, DA LEI N. 11.434/2006. INEXISTÊNCIA DE BIS IN IDEM. REGIME PRISIONAL FECHADO FIXADO COM BASE NA REINCIDÊNCIA. FUNDAMENTAÇÃO IDÔNEA. MANUTENÇÃO DO REGIME MAIS GRAVOSO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+- O Plenário do Supremo Tribunal Federal, em 27/7/2012, ao julgar o HC 111.840/ES, por maioria, declarou incidentalmente a inconstitucionalidade do art. 2º, § 1º, da Lei n. 8.072/1990, com a redação que lhe foi dada pela Lei n. 11.464/2007, afastando, dessa forma, a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados. Diante disso, há de ser afastado o fundamento da hediondez do delito na fixação do regime fechado.
+- Nos termos da Súmula n. 440/STJ, fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito. Na mesma esteira, as Súmulas n. 718 e n. 719 do STF.
+- No caso, apesar de a pena-base ter sido fixada no mínimo legal e o montante da sanção (5 anos e 10 meses de reclusão) comportar o regime semiaberto, o sentenciante consignou a necessidade do regime mais gravoso com lastro na reincidência do paciente, o que está em consonância ao disposto no art. 33, §§ 2º e 3º, do Código Penal, motivo pelo qual é de ser mantido o regime fechado.
+- Habeas corpus não conhecido."
+(HC 286.954/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/08/2016, DJe 26/08/2016)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
