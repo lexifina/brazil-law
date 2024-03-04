@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO INTEMPESTIVO. NÃO CONHECIMENTO. ART. 1.021, C/C OS ARTS. 219, 1.003, § 5º, e 1.070 DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+I - Conforme certidão de fls. 597, o prazo para interposição de agravo interno em relação à decisão de folha 581 teve início em 20/11/2023e término em e a petição n. 1202734/2023 (AgInt) foi protocolizada em 11/12/2023,12/12/2023.O recurso não merece ser conhecido. A interposição de agravo interno, após o prazo legal de quinze dias úteis, implica o não conhecimento do recurso, por intempestividade, nos termos do art. 1.021, c/c os arts. 219, 1.003, § 5º, e 1.070 do Código de Processo Civil de 2015. Nesse s entido: AgInt no AREsp 500.715/SP, relator Ministro Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Quarta Turma, julgado em 7/11/2017, DJe 14/11/2017; AgInt no AREsp 1.079.967/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 5/9/2017, DJe 15/9/2017; AgInt no AREsp 927.101/MG, relator Ministro Og Fernandes, Segunda Turma, julgado em 16/5/2017, DJe 19/5/2017.
+II - A ocorrência de feriado local não afeta o funcionamento do Superior Tribuanl de Justiça. Nesse sentido: AgInt no PDist no AREsp n. 1.383.407/DF, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 7/11/2023, DJe de 13/11/2023; AgInt no AREsp n. 2.228.884/DF, relator Ministro Humberto Martins, Terceira Turma, julgado em 2/10/2023, DJe de 4/10/2023.
+III - Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão monocrática.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO INTEMPESTIVO. NÃO CONHECIMENTO. ART. 1.021, C/C OS ARTS. 219, 1.003, § 5º, e 1.070 DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+I - Conforme certidão de fls. 597, o prazo para interposição de agravo interno em relação à decisão de folha 581 teve início em 20/11/2023e término em e a petição n. 1202734/2023 (AgInt) foi protocolizada em 11/12/2023,12/12/2023.O recurso não merece ser conhecido. A interposição de agravo interno, após o prazo legal de quinze dias úteis, implica o não conhecimento do recurso, por intempestividade, nos termos do art. 1.021, c/c os arts. 219, 1.003, § 5º, e 1.070 do Código de Processo Civil de 2015. Nesse s entido: AgInt no AREsp 500.715/SP, relator Ministro Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Quarta Turma, julgado em 7/11/2017, DJe 14/11/2017; AgInt no AREsp 1.079.967/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 5/9/2017, DJe 15/9/2017; AgInt no AREsp 927.101/MG, relator Ministro Og Fernandes, Segunda Turma, julgado em 16/5/2017, DJe 19/5/2017.
+II - A ocorrência de feriado local não afeta o funcionamento do Superior Tribuanl de Justiça. Nesse sentido: AgInt no PDist no AREsp n. 1.383.407/DF, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 7/11/2023, DJe de 13/11/2023; AgInt no AREsp n. 2.228.884/DF, relator Ministro Humberto Martins, Terceira Turma, julgado em 2/10/2023, DJe de 4/10/2023.
+III - Agravo interno não conhecido.
+VOTO
+O recurso não merece ser conhecido.
+Conforme certidão de fls. 597, o prazo para interposição de agravo interno em relação à decisão de folha 581 teve início em 20/11/2023e término em e a petição n. 1202734/2023 (AgInt) foi protocolizada em 11/12/2023,12/12/2023.
+A interposição de agravo interno, após o prazo legal de quinze dias úteis, implica o não conhecimento do recurso, por intempestividade, nos termos do art. 1.021, c/c os arts. 219, 1.003, § 5º, e 1.070 do Código de Processo Civil de 2015. Nesse sentido: AgInt no AREsp 500.715/SP, relator Ministro Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Quarta Turma, julgado em 7/11/2017, DJe 14/11/2017; AgInt no AREsp 1.079.967/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 5/9/2017, DJe 15/9/2017; AgInt no AREsp 927.101/MG, relator Ministro Og Fernandes, Segunda Turma, julgado em 16/5/2017, DJe 19/5/2017.
+A ocorrência de feriado local não afeta o funcionamento do Superior Tribuanl de Justiça. Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. RECURSO ESPECIAL. FERIADO LOCAL. CORPUS CHRISTI. INEXISTÊNCIA DE EXPEDIENTE FORENSE. AUSÊNCIA DE COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DA INSURGÊNCIA. INTEMPESTIVIDADE.
+1. De acordo com o art. 1.003, § 6º, do CPC, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", de forma que não é possível essa demonstração em momento posterior à apresentação do recurso, em virtude da preclusão consumativa e da ocorrência da coisa julgada.
+2. Dessarte, não tendo a parte comprovado, no momento da interposição do apelo especial, o feriado de Corpus Christi e a inexistência de expediente forense no Tribunal de origem (TJDFT), não há como afastar a pecha de intempestividade de tal insurgência.
+3. O fato de o Superior Tribunal de Justiça, tal como o TJDFT, ter sede na Capital Federal não desonera a parte recorrente do seu ônus probatório, pois há feriado distrital que não afeta o funcionamento dos Tribunais Superiores, como é o caso, por exemplo, do Dia do Evangélico.
+4. Agravo interno não provido.
+(AgInt no PDist no AREsp n. 1.383.407/DF, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 7/11/2023, DJe de 13/11/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO LOCAL. DIA DO EVANGÉLICO. EXPEDIENTE FORENSE NORMAL NESTA CORTE.
+1. É intempestivo o agravo interno interposto fora do prazo legal de 15 dias úteis, nos termos do art. 1.070 do CPC.
+2. A comprovação de feriado local não se presta a comprovar a tempestividade do agravo interno apresentado perante o Superior Tribunal de Justiça. Precedentes.
+3. Não obstante o dia 30/11/2020 ser feriado local do Dia do E vangélico no Distr ito Federal, verifica-se que tal data não se configura feriado forense, ou seja, não suspende o expediente judiciário nesta corte.
+Agravo interno não conhecido.
+(AgInt no AREsp n. 2.228.884/DF, relator Ministro Humberto Martins, Terceira Turma, julgado em 2/10/2023, DJe de 4/10/2023.)
+Ademais, o recurso não merece provimento. A parte recorrente foi intimada da decisão agravada em 31/07/2023, sendo o agravo somente interposto em 22/08/2023.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+A Corte Especial, no julgamento do AREsp 957.821, em 20/11/2017, chegou à conclusão de que, na vigência do Código de Processo Civil de 2015, não é possível a pretensão de comprovação da tempestividade após a interposição do recurso, conforme se confere da ementa do acórdão:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo".
+4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido.
+Recentemente, a mesma Corte Especial decidiu que a regra da impossibilidade de comprovação da tempestividade, posteriormente à interposição do recurso, não deveria ser aplicada no caso em que se trate de feriado de carnaval. O entendimento foi fixado no REsp 1.813.684/SP e, posteriormente, ratificado no julgamento da questão de ordem no mesmo recurso, quando se entendeu que a mesma interpretação não poderia ser estendida para outros feriados, que não fossem o feriado de carnaval.
+Ainda, com relação ao feriado de segunda-feira de carnaval, modulou-se os efeitos do julgado para que somente se aplicasse aos recursos destinados à Corte, interpostos até a data da publicação do acórdão (18/11/2019). Nesse sentido: AgInt nos EDcl no AREsp n. 2.277.983/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 25/9/2023, DJe de 27/9/2023; AgInt nos EDcl no AREsp n. 2.279.188/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/10/2023, DJe de 11/10/2023; AgInt nos EDcl no AREsp n. 2.306.267/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/10/2023, DJe de 19/10/2023. Considerando-se que o agravo em recurso especial foi interposto após a referida data, o recuro é intempestivo.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+Ante o exposto, não conheço do agravo interno.
+É o voto.
