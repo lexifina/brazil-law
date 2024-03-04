@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. AUSENTE. SÚMULA 284/STF.
+1. Ação indenizatória, ajuizada em razão de atraso na entrega de imóvel.
+2. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente.
+3. Agravo interno no agravo em recuso especial não provido.
+RELATÓRIO
+RELATORA: MINISTRA NANCY ANDRIGHI
+Cuida-se de agravo interposto por GRAUTE EMPREENDIMENTOS LTDA., contra decisão da Presidência do STJ que conheceu do agravo para não conhecer do recurso especial que interpusera.
+Ação: indenizatória, ajuizada por GUSTAVO LORDELO SANTANGELO SANOTS e OUTRA, em face da agravante, em razão de atraso na entrega de imóvel.
+Acórdão: deu parcial provimento às apelações interpostas, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL E RECURSO ADESIVO. DIREITO CIVIL E CONSUMIDOR. AÇÃO INDENIZATÓRIA. DANOS MORAIS E PATRIMONIAIS. ATRASO NA ENTREGA DE IMÓVEL. CASO FORTUITO/FORÇA MAIOR. NÃO COMPROVAÇÃO. MORA CONTRATUAL EVIDENCIADA. LUCROS CESSANTES DEVIDOS. TAXA DE FRUIÇÃO. PERCENTUAL DE 1% AO MÊS ESTIPULADO NO PRÓPRIO INSTRUMENTO | CONTRATUAL. DANOS MORAIS. CARACTERIZAÇÃO. RECURSOS CONHECIDOS E PARCIALMENTE PROVIDOS.
+1. Inicialmente, a controvérsia de que cuida a validade da cláusula contratual que transfere ao consumidor a obrigação de pagar a taxa de corretagem, logrou apreciada pelo Superior Tribunal de Justiça, em sede de julgamento sob a técnica dos Recursos Especiais Repetitivos, (art. 1.036 do CPC/2015), oportunidade em que assentou-se o entendimento de que é válida a cláusula de transferência da obrigação ao consumidor.
+2. Assim é que, no caso dos autos, observa-se que a Cláusula Quarta, que trata da comissão de corretagem, tornou-se revogada, dessa forma, a restituição em dobro do valor da diferença cobrada indevidamente referente ao apartamento 204, cujo valor é superior ao 203, é medida que se impõe, conforme determinado pelo a quo.
+3. De fato, objetivamente dispondo, encontra sobejamente demonstrado o atraso nas obras do empreendimento ofertado aos Autores, não restando comprovação da ocorrência efetiva de qualquer fato imputável à terceiro ou evento fortuito ou de força maior que não àqueles próprios da própria atividade-fim desempenhada pela empresa.
+4, Com efeito, a data que deve se ter como paradigma para efeito de demarcar o limite temporal que dispunha a empresa é aquela originalmente constante no instrumento contratual sem qualquer acréscimo do período de 180 dias, prorrogação esta, inclusive, cuja abusividade restou declarada pelo julgador monocrático, entendimento que ora se ratifica.
+5. Como consectário lógico da ilicitude da conduta da empresa, tem-se o dever de ressarcir ao prejudicado, no caso o consumidor, a título de danos materiais, o valor de 1,0% do preço da unidade à vista, calculado mês a mês, contados a partir da data que o bem deveria ter sido entregue, contabilizado o prazo de tolerância.
+6. Destarte, o longo período de atraso nas obras do empreendimento dano azo à frustração de legítimas expectativas daquele que, confiando na conduta de empresa que promete a entrega tempestiva de unidade imóvel objeto de posterior moradia, investe relevante parcela financeira nesse desiderato, é causa que lastreia a condenação sob tal rubrica. Neste esteio, bem ainda em consonância com os arestos do Superior Tribunal de Justiça, conclui-se como adequado o valor de R$ 10.000,00 (dez mil reais), para cada autor, pelos prejuízos morais em questão.
+Decisão monocrática: conheceu do agravo para não conhecer do recurso especial, ante a incidência da Súmula 284/STF, em razão da ausência de indicação dos dispositivos legais que teriam sido violados ou seriam objeto de dissídio interpretativo.
+Razões do agravo: Nas razões do presente recurso a agravante argumenta que a violação a dispositivo federal, contemplada pela alínea "a" do art. 105, III, da CF/88, não teria sido utilizada como fundamento do recurso especial.
+Aduz que o recurso estaria fundamentado na alínea "c" do permissivo constitucional, considerada a divergência com o entendimento desta Corte Superior no que se refere à legalidade da comissão de corretagem.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. AUSENTE. SÚMULA 284/STF.
+1. Ação indenizatória, ajuizada em razão de atraso na entrega de imóvel.
+2. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente.
+3. Agravo interno no agravo em recuso especial não provido.
+VOTO
+RELATORA: MINISTRA NANCY ANDRIGHI
+A decisão agravada conheceu do agravo para não conhecer do recurso especial, ante a incidência da Súmula 284/STF, em razão da ausência de indicação dos dispositivos legais que teriam sido violados ou seriam objeto de dissídio interpretativo.
+Veja-se o que constou na decisão (e-STJ, fls. 547/548):
+Mediante análise do recurso de GRAUTE EMPREENDIMENTOS LTDA, verifica-se que incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF". (AgInt no AREsp n. 1.684.101/MA, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020.)
+Também, o Superior Tribunal de Justiça já se manifestou no sentido de que, "uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF". (AgRg no REsp 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17/3/2014.)
+Confiram-se ainda os seguintes precdentes: AgInt no ARESP n. 1.611.260/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; AgInt nos EDcl no REsp n. 1.675.932/PR, relator Ministro Francisco Falcão, Segunda Turma, DJe de 4/5/2020; AgInt no REsp n. 1.860.286/RO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 14/8/2020; AgRg nos EDcl no AREsp n. 1.541.707/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 29/6/2020; AgRg no AREsp n. 1.433.038/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 14/8/2020; REsp n. 1.114.407/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, DJe de 18/12/2009; e AgRg no EREsp n. 382.756/SC, relatora Ministra Laurita Vaz, Corte Especial, DJe de 17/12/2009.
+1. Da Súmula 284/STF
+De início, cumpre destacar que, da análise das razões do recurso especial, a despeito de estar fundamentado na existência de divergência jurisprudencial quanto a questão relativa à comissão de corretagem (alínea "c" do art. 105, III, da CF/88), também houve indicação da alínea "a" do permissivo constitucional (e-STJ, fl. 404).
+Isto posto, a via estreita do recurso especial, exige a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos.
+Na hipótese, de fato, a agravante não indica qualquer dispositivo infraconstitucional, o que revela a deficiência de fundamentação suficiente a atrair a incidência da Súmula 284/STF.
+Considerada a alegação de que o recurso especial estaria fundamentado, exclusivamente, na alínea "c" do permissivo constitucional, verifica-se, quanto ao ponto, que a agravante, de fato, não indicou, de forma clara e precisa, o dispositivo legal a que se teria dado interpretação divergente.
+Ressalte-se que não é possível o conhecimento do recurso especial fundado no dissídio jurisprudencial na hipótese em que não há a devida indicação de qual dispositivo de lei teria sido ofendido. Assim, a falta de indicação do dispositivo legal a que se refere à divergência apontada inviabiliza a análise do dissídio. Nesse sentido: AgRg no AREsp 637.381/SP, 4ª Turma, DJe de 2/3/2016; EDcl no AREsp 806.419/SP, 3ª Turma, DJe de 22/2/2016; e AgRg no REsp 1.346.588/DF, Corte Especial, DJe de 17/3/2014.
+Inclusive, o art. 105, III, "c", da CF é expresso ao elencar que a decisão recorrida deve dar "a lei federal interpretação divergente da que lhe haja atribuído outro tribunal". Imperioso mostra-se, portanto, que essa lei federal - a que se refere a divergência - seja indicada pelo recorrente.
+Ainda nesse sentido: AgInt no AREsp n. 1.957.744/RJ, 3ª Turma, DJe de 18/4/2022; e AgInt no AREsp n. 1.988.182/RJ, 4ª Turma, DJe de 24/6/2022.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
