@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DO RECURSO. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração poderão ser opostos com a finalidade de eliminar da decisão qualquer erro material, obscuridade, contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento, o que não é o caso dos autos.
+2. De acordo com a orientação desta Corte de Justiça, "a omissão a ser sanada por meio dos embargos de declaração é aquela relativa a ponto ou questão sobre a qual se devia pronunciar o juiz de ofício ou a requerimento, e não o fez, enquanto a contradição que autoriza o manejo dos aclaratórios é aquela que ocorre entre os fundamentos adotados ou entre esses e o dispositivo final, ou seja, a contradição interna manifestada pelo descompasso entre as premissas adotadas pelo acórdão recorrido e sua conclusão" (EDcl no REsp n. 2.026.943/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 6/6/2023, DJe de 15/6/2023).
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por JJ São Bento Empreendimentos Imobiliários Ltda. ao acórdão proferido pela Terceira Turma do Superior Tribunal de Justiça, nos termos da seguinte ementa (e-STJ, fl. 373):
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AÇÃO DE RESCISÃO DE COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. ALEGAÇÃO DE OMISSÃO NA DECISÃO MONOCRÁTICA AGRAVADA. NÃO CABIMENTO. MATÉRIA QUE DEVERIA TER SIDO OBJETO DE EMBARGOS DE DECLARAÇÃO. GRATUIDADE DE JUSTIÇA. PLEITO A SER FORMULADO EM VIAS PRÓPRIAS. FUNDAMENTO SUFICIENTE SUSCITADO PELO TRIBUNAL A QUO. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA N. 283/STF. AGRAVO INTERNO IMPROVIDO. 1. Consoante a jurisprudência desta Corte Superior, o agravo interno não é o recurso cabível para apontar a existência de vícios integrativos (omissão, contradição, obscuridade ou erro material) em decisão monocrática, pois são os embargos de declaração a via adequada, nos termos do art. 1.022 do CPC/2015, configurando erro grosseiro a afastar a aplicação do princípio da fungibilidade. 2. A subsistência de fundamento não atacado, apto a manter a conclusão do aresto impugnado, impõe o não conhecimento da pretensão recursal, conforme o entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". 3. Agravo interno improvido.
+Em suas razões (e-STJ, fls. 384-399), sustenta a embargante que não houve apreciação dos argumentos suscitados pela parte, de modo que não há falar na incidência das Súmulas n. 5 e 7/STJ.
+Aponta, ainda, a existência de contradição no que diz respeito à aplicação da Súmula n. 83/STJ, uma vez que é devida a taxa de fruição em virtude da ocupação do bem objeto do contrato rescindido.
+Destaca, no mais, que a tese relacionada à comprovação do estado de pobreza e necessidade de revogação do benefício foi devidamente debatida pela parte, devendo ser afastado o óbice da Súmula n. 283/STF.
+Busca, assim, que sejam acolhidos os aclaratórios com efeitos infringentes.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DO RECURSO. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração poderão ser opostos com a finalidade de eliminar da decisão qualquer erro material, obscuridade, contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento, o que não é o caso dos autos.
+2. De acordo com a orientação desta Corte de Justiça, "a omissão a ser sanada por meio dos embargos de declaração é aquela relativa a ponto ou questão sobre a qual se devia pronunciar o juiz de ofício ou a requerimento, e não o fez, enquanto a contradição que autoriza o manejo dos aclaratórios é aquela que ocorre entre os fundamentos adotados ou entre esses e o dispositivo final, ou seja, a contradição interna manifestada pelo descompasso entre as premissas adotadas pelo acórdão recorrido e sua conclusão" (EDcl no REsp n. 2.026.943/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 6/6/2023, DJe de 15/6/2023).
+3. Embargos de declaração rejeitados.
+VOTO
+Com efeito, as razões do recurso revelam tão somente o intuito de reapreciação das matérias já decididas, o que não se admite em embargos de declaração, os quais se revestem de índole particular e fundamentação vinculada, cujo objetivo é a declaração do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Na mesma linha de cognição:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA DO DEMANDADO.
+1. Nos termos do artigo 1.022 do CPC/15, os embargos de declaração são cabíveis apenas para esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; ou corrigir erro material.
+1.1. Ausentes quaisquer dos vícios elencados no acórdão recorrido, que decidiu de modo claro e fundamentado, é impositiva a rejeição aos aclaratórios.
+2. Ante a reiterada oposição de recursos manifestamente inadmissíveis e o caráter protelatório dos presentes embargos, bem como a prévia advertência da parte, é imperiosa a aplicação da multa prevista no art. 1.026, § 2º, do CPC/15.
+3. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl no AgInt nos EDcl no AREsp 1.814.590/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/9/2021, DJe 1º/10/2021)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. ACIDENTE DE TRÂNSITO. ÔNIBUS COLETIVO E CARRO PARTICULAR. ACORDO EXTRAJUDICIAL. VANTAGEM EXCESSIVA. REVISÃO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. OMISSÃO, CONTRADIÇÃO, ERRO MATERIAL E OBSCURIDADE NÃO VERIFICADOS.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir omissão, esclarecer obscuridade, eliminar contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Inadmissível, na estreita via do recurso especial, a alteração das conclusões das instâncias de cognição plena que demandem o reexame do acervo fático-probatório dos autos, a teor do disposto na Súmula nº 7/STJ.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1.656.091/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/9/2021, DJe 30/9/2021)
+Importante consignar que "a omissão a ser sanada por meio dos embargos de declaração é aquela relativa a ponto ou questão sobre a qual se devia pronunciar o juiz de ofício ou a requerimento, e não o fez, enquanto a contradição que autoriza o manejo dos aclaratórios é aquela que ocorre entre os fundamentos adotados ou entre esses e o dispositivo final, ou seja, a contradição interna manifestada pelo descompasso entre as premissas adotadas pelo acórdão recorrido e sua conclusão" (EDcl no REsp n. 2.026.943/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 6/6/2023, DJe de 15/6/2023).
+A título exemplificativo:
+EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. CONTRADIÇÃO. INOCORRÊNCIA. INEXISTÊNCIA DE CONTRADIÇÃO INTERNA. CONTRADIÇÃO COM PRECEDENTES QUE NÃO JUSTIFICA A OPOSIÇÃO DE EMBARGOS. OMISSÃO. INOCORRÊNCIA. QUESTÃO EXPRESSAMENTE DECIDIDA. OMISSÃO SOBRE PARTILHA DE BENS. INOVAÇÃO RECURSAL INADMISSÍVEL. QUESTÃO ESTRANHA AO OBJETO RECURSAL. IMPRESTABILIDADE DE PROVAS. AUSÊNCIA DE INDICAÇÃO DE VÍCIO QUE JUSTIFICARIA O EXAME. EMBARGOS DE DECLARAÇÃO. RECURSO DE FUNDAMENTAÇÃO VINCULADA.
+1) A contradição que justifica a oposição de embargos de declaração é a interna, decorrente de proposições inconciliáveis entre si, mas não entre o acórdão embargado e a lei, doutrina, jurisprudência, o fato ou a prova.
+(..)
+5) Embargos de declaração rejeitados.
+(EDcl no REsp n. 1.974.218/AL, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/3/2023, DJe de 15/3/2023.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. TRANSPORTE PÚBLICO. INEXISTÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CÓDIGO FUX. A CONTRADIÇÃO QUE AUTORIZA O MANEJO DOS EMBARGOS DE DECLARAÇÃO É APENAS AQUELA INTERNA, ENTRE AS PREMISSAS E CONCLUSÕES DO PRÓPRIO ACÓRDÃO, E NÃO A CONTRADIÇÃO COM ELEMENTOS DE PROVA DOS AUTOS. A CORTE DE ORIGEM EXPRESSAMENTE CONSTATOU O CUMPRIMENTO DOS TERMOS DO CONTRATO DE CONCESSÃO. OMISSÃO INEXISTENTE. AGRAVO INTERNO DO MP/RJ A QUE SE NEGA PROVIMENTO.
+(..)
+3. Como tem reiteradamente advertido a jurisprudência desta Corte Superior, a contradição que autoriza o manejo dos Embargos de Declaração é apenas aquela interna, referente às premissas e conclusões do próprio acórdão, e não a contradição com a prova dos autos. Julgados: EDcl no REsp. 1.358.338/SP, Rel. Min. ASSUSETE MAGALHÃES, DJe 3.9.2018; EDcl no REsp. 1.537.597/MA, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 14.3.2016.
+4. Agravo Interno do MP/RJ a que se nega provimento.
+(AgInt no AREsp n. 1.564.727/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 16/11/2020, DJe de 19/11/2020.)
+Dito isso, no caso vertente, no que diz respeito ao excesso de execução, o Tribunal de Justiça do Estado de São Paulo assim se manifestou (e-STJ, fls. 72-73):
+Assiste parcial razão aos agravantes. Com efeito, dispõem os §§ 4º e 5º do art. 525 do atual CPC que:
+( )
+No caso em tela, o excesso de execução alegado pelos agravantes decorre das cláusulas reputadas como abusivas, estabelecidas no acordo celebrado entre as partes em 3.9.2019 (fls. 153/156 dos autos principais).
+Logo, para que seja declarado o valor devido, é necessária a análise das referidas cláusulas consideradas abusivas, o que passa a ser feito.
+2.3. No que concerne à cláusula penal, não há óbice à sua estipulação no ajuste.( )
+No entanto, nos casos em que a multa contratual for manifestamente excessiva, não há impedimento à sua redução pelo magistrado. Consoante disposto no art. 413 do Código Civil:
+( )
+É a hipótese aqui retratada, já que a multa estipulada, no percentual de 20% do valor do imóvel (fl. 154 dos autos principais), revela-se manifestamente excessiva.
+A prevalência da cláusula penal importaria em evidente desequilíbrio entre as partes, causando enriquecimento ilícito da agravada, em detrimento dos agravantes.
+Assim, a cláusula penal estabelecida no ajuste (fl. 154 dos autos principais), embora válida, deve ser reduzida para 10% do valor atualizado do imóvel (R$ 162.888,00 em 3.12.2017), percentual que melhor se coaduna com a situação em concreto.
+Saliente-se que a ventilada norma (art. 413 do CC) é de ordem pública, devendo ser observada pelo magistrado, motivo pelo qual não há de se falarem preclusão (fl. 59 contrarrazões).
+Diante desse contexto, observa-se que o excesso de execução alegado pelas partes contrárias foi em decorrência das cláusulas reputadas como abusivas, tendo o TJSP constatado que, de fato, a cláusula penal foi estipulada de modo excessivo, levando a um desequilíbrio entre as partes e enriquecimento ilícito da ora agravante, concluindo, assim, pela sua redução.
+Destarte, verifica-se que rever o entendimento do acórdão recorrido, acerca da configuração de abusividade da cláusula penal estipulada, ensejaria o reexame do conjunto fático-probatório da demanda e de termos contratuais, providência vedada no âmbito do recurso especial, em face das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+No que concerne ao pagamento da taxa de fruição, a Corte local consignou o seguinte (e-STJ, fls. 73-74):
+Há de ser afastada, ademais, a indenização pela fruição do bem, de 1% ao mês sobre o valor do imóvel (fl. 154 dos autos principais).
+Isso porque o imóvel cuida-se de um lote de terreno sem edificação, não tendo os agravantes, ao que tudo indica, iniciado qualquer tipo de construção no local.
+( )
+Destarte, não se legitima a cobrança da taxa de fruição do bem, ainda que resultante da disponibilidade do lote.
+Sobre o tema, segundo o entendimento jurisprudencial das duas Turmas que compõem a Segunda Seção do Superior Tribunal de Justiça, "em caso de rescisão do compromisso de compra e venda, por iniciativa do comprador, não é cabível o pagamento de taxa de ocupação ou de fruição pelo fato de ter tido a posse do imóvel, pelo tempo em que o contrato teve vigência, quando, como no caso concreto, tratar-se de um lote (terreno) que não foi edificado. Em tal hipótese, não há falar em enriquecimento ilícito" (AgInt no AREsp n. 2.270.435/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 26/6/2023, DJe de 29/6/2023).
+No caso concreto, conforme se colhe dos autos, notadamente do que fixado no acórdão do Tribunal de origem, trata-se de um lote - que não foi edificado, o que afasta a possibilidade de aplicação da taxa de fruição/ocupação pretendida pela recorrente, pois não teria havido a efetiva utilização do bem.
+Dessa forma, encontrando-se o acórdão recorrido em consonância com a jurisprudência do Superior Tribunal de Justiça, inarredável a aplicação da Súmula 83/STJ a obstar a análise do reclamo quanto ao ponto.
+Relativamente ao pedido para que fosse revogado o benefício da gratuidade de justiça deferido aos agravados, o acórdão recorrido pontuou que (e-STJ, fl. 75):
+O pedido articulado pela agravada nas contrarrazões (fl. 57), para que seja revogada a justiça gratuita deferida aos agravantes pelo ilustre juiz da causa posteriormente à interposição deste recurso (fl. 390 dos autos de cumprimento de sentença), há de ser formulado pelas vias próprias.
+Conforme é possível verificar, o fundamento adotado pela Corte a quo não foi objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+Assim, é possível verificar que o aresto recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer em nenhum dos vícios de obscuridade, contradição ou omissão com relação ao ponto controvertido, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivado e fundamentado o aresto, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
