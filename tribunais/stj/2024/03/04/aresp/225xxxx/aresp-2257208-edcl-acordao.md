@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE INDICAÇÃO DOS VÍCIOS ENSEJADORES DA OPOSIÇÃO DOS ACLARATÓRIOS.
+1. De acordo com o estatuído no art. 1022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou para sanar erro material do acórdão atacado.
+2. No caso, a parte embargante limitou-se a externar sua irresignação com o que restou decidido, sem fazer referência a quaisquer dos vícios ensejadores dos embargos de declaração, em flagrante desobediência ao que preceituado no art. 1023 do CPC ("Os embargos serão opostos, no prazo de 5 (cinco) dias, em petição dirigida ao juiz, com indicação do erro, obscuridade, contradição ou omissão, e não se sujeitam a preparo."), situação que acarreta o não conhecimento do recurso.
+3. Embargos de declaração não conhecidos.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de embargos de declaração opostos por INTERBELLE COMÉRCIO DE PRODUTOS DE BELEZA LTDA. E OUTROS contra acórdão proferido pela Primeira Turma desta Corte, assim ementado (fl. 1.152):
+TRIBUTÁRIO. PROCESSUAL CIVIL. RECURSO ESPECIAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULAS 283 E 284 DO STF. ANÁLISE DE LEI LOCAL. INVIABILIDADE. SÚMULA 280 DO STF.
+1. O art. 23 da Lei n. 12.016/2009, só por si, não contém comando capaz de sustentar a tese recursal nem de infirmar o juízo formulado pelo acórdão recorrido pela decadência da impetração, considerando que a lei local alvejada pelo writ constitui ato único de efeitos concretos operados a partir da sua vigência. Inteligência da Súmula 284/STF. Outrossim, a alteração do julgado a quo nesse particular demandaria, necessariamente, o exame da referida norma, o que é vedado em sede especial conforme a Súmula 280/STF.
+2. As razões recursais relativas à questão de fundo da ação mandamental, a saber, a cobrança do ICMS-DIFAL, mostram-se dissociadas dos pilares do aresto local, que, como visto, cingiu-se a reconhecer decaído o direito de impetrar a ação mandamental. Deficiência de fundamentação recursal capaz de atrair as Súmulas 283 e 284/STF.
+3. Agravo interno não provido.
+Sustenta a parte embargante, em resumo, os mesmos argumentos colacionados no agravo interno, a saber: (I) "não há que se falar em decadência e unicidade de fundamento quanto ao afastamento da decadência, uma vez que, conforme já exposto nas razões de agravo interno, a cobrança do DIFAL/ICMS trata-se de ato administrativo vinculado incidente em relação jurídico-tributária de trato sucessivo, o que torna presumível a iminência reiterada de sua prática, reforçando o justo receio que embasa a impetração preventiva da ação. Diante disso, não há gatilho jurídico para a contagem do prazo decadencial de 120 dias previsto no art. 23 da Lei nº 12.016/2009" (fl. 1.167); (II) "considerando que o RE julgado no Tema 1093 e ADI 5.469 era um mandado de segurança em sua origem, sem ser abordada a questão de decadência em seu julgamento para afastar a exigibilidade do DIFAL-ICMS até 2022 para as ações em curso, como no caso concreto, é argumento suficiente para embasar afastamento do instituto da decadência e, como consequência, aplicabilidade das Súmulas 283/STF e 284/STF" (fl. 1.168); e (III) "não há que se falar em reexame da lei local, uma vez que o ato coator impetrado na origem é de trato sucessivo" (fl. 1.168).
+Aberta vista à parte embargada, apresentou impugnação às fls. 1.177/1.179, postulando o desacolhimento do recurso.
+É O RELATÓRIO.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE INDICAÇÃO DOS VÍCIOS ENSEJADORES DA OPOSIÇÃO DOS ACLARATÓRIOS.
+1. De acordo com o estatuído no art. 1022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou para sanar erro material do acórdão atacado.
+2. No caso, a parte embargante limitou-se a externar sua irresignação com o que restou decidido, sem fazer referência a quaisquer dos vícios ensejadores dos embargos de declaração, em flagrante desobediência ao que preceituado no art. 1023 do CPC ("Os embargos serão opostos, no prazo de 5 (cinco) dias, em petição dirigida ao juiz, com indicação do erro, obscuridade, contradição ou omissão, e não se sujeitam a preparo."), situação que acarreta o não conhecimento do recurso.
+3. Embargos de declaração não conhecidos.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): O recurso integrativo nem sequer ultrapassa a barreira de admissibilidade recursal.
+De acordo com o estatuído no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do acórdão atacado.
+Todavia, no caso, a parte embargante limitou-se a externar sua irresignação com o que restou decidido, sem fazer referência a quaisquer dos vícios ensejadores dos embargos de declaração, em flagrante desobediência ao que preceituado no art. 1.023 do CPC ("Os embargos serão opostos, no prazo de 5 (cinco) dias, em petição dirigida ao juiz, com indicação do erro, obscuridade, contradição ou omissão, e não se sujeitam a preparo."), o que acarreta o não conhecimento do recurso. Nessa linha:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA LEI EM TESE. EMBARGOS DE DECLARAÇÃO SEM INDICAÇÃO DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO. NÃO CONHECIMENTO DOS EMBARGOS.
+I - Na origem, trata-se de agravo de instrumento para determinar a suspensão da exigibilidade da contribuição do FETHAB, prevista no art. 7º-H da Lei Estadual n. 7.260/2000, desde a data da impetração do mandamus até o julgamento do seu mérito. No Tribunal de Justiça do Estado do Mato Grosso, a decisão objeto do agravo de instrumento foi reformada. No STJ, não se conheceu dos embargos de divergência.
+II - A jurisprudência deste Tribunal Superior é firme no sentido de que não preenche os requisitos de admissibilidade a petição dos embargos de declaração que não indica nenhum dos vícios elencados no art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), caso dos autos, o que, por si só, é suficiente para o não conhecimento do recurso, na medida em que a deficiência da argumentação inviabiliza a compreensão exata da controvérsia a ser solvida, atraindo a incidência, por analogia, do enunciado n. 284 da Súmula do STF.
+III - Embargos de declaração não conhecidos.
+(EDcl no AgInt nos EREsp n. 1.530.846/MT, relator Ministro Francisco Falcão, Primeira Seção, julgado em 30/3/2021, DJe de 9/4/2021.)
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. FALTA DE INDICAÇÃO DOS VÍCIOS RELACIONADOS NO ART. 535 DO CPC. JUÍZO NEGATIVO DE ADMISSIBILIDADE DOS DECLARATÓRIOS.
+1. A ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 535 do CPC implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 536 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso.
+2. Embargos de declaração não conhecidos.
+(EDcl no AgRg no AREsp n. 54.614/SP, Rel. Ministro João Otávio de Noronha, Terceira Turma, julgado em 4/8/2015, DJe 12/8/2015.)
+ANTE O EXPOSTO, não se conhece dos embargos declaratórios.
+É o voto.
