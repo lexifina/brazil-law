@@ -1,0 +1,49 @@
+DECISÃO
+A controvérsia foi devidamente relatada no parecer ministerial, in verbis (e-STJ fls. 470/471):
+1. Trata-se de Agravo em Recurso Especial interposto por MATHEUS DE SOUZA MACHADO contra decisão proferida pela Segunda Vice-Presidente do Tribunal de Justiça do Estado do Rio de Janeiro que inadmitiu o processamento do Recurso Especial interposto em face de acórdão proferido por sua 4ª Câmara Criminal que, à unanimidade, negou provimento ao apelo defensivo, mantendo a sentença que julgou parcialmente procedente a pretensão punitiva para absolver o acusado da prática das condutas tipificadas no art. 35 da Lei nº 11.343/06 e no art. 14 da Lei nº 10.826/03, e condená-lo como incurso nas sanções previstas no art. 33 da Lei nº 11.343/06, à pena de 02 (dois) anos, 03 (três) meses e 07 (sete) dias de reclusão, e 226 (duzentos e vinte e seis) dias-multa, em regime aberto, tendo sido a pena privativa de liberdade substituída por duas restritivas de direitos consistentes em prestação de serviços à comunidade e prestação pecuniária de 01 salário-mínimo..
+2. Em sede de recurso especial manejado com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, o recorrente alega violação ou negativa de vigência ao art. 42, da Lei nº 11.343/2006 e ao art. 59, do Código Penal, pugnando pela fixação da pena-base no mínimo legal ou em patamar mais próximo a esse.
+3. Contudo, a decisão que negou trânsito ao Especial fundamentou-se em deficiências que fazem incidir os óbices estampados nas Súmulas nº 7 e 83 do STJ.
+4. Adveio o presente Agravo em recurso especial, às fls.434/447, em cujas razões o agravante alega, em síntese, a não incidência da Súmula 83/STJ, acrescentando "que, no caso ora em análise, não é necessária qualquer apreciação dos fatos, apenas a simples leitura do acórdão da apelação, para que se verifiquem os objetos das controvérsias expostas no Recurso Especial defensivo".
+5. Em juízo de retratação, foi mantida a decisão agravada pelo decisum de fl. 455.
+6. Remetido o feito ao C. Superior Tribunal de Justiça,, vieram ao Ministério Público Federal, para parecer.
+7. É o relatório.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do recurso.
+É, em síntese, o relatório.
+Decido.
+Presentes os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial interposto.
+De início, cumpre ressaltar que, na esteira da orientação jurisprudencial do Superior Tribunal de Justiça, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão nesta instância extraordinária apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de reexame do acervo fático-probatório dos autos.
+No caso, assim se manifestou o Juízo sentenciante (e-STJ fls. 266/267, grifei):
+Passo à dosimetria.
+No que se refere à pena base, passo à análise das circunstâncias judiciais previstas no art. 59 do Código Penal. A culpabilidade, compreendida como o juízo de reprovabilidade e censura no caso concreto, não extrapola a previsão abstrata do tipo pena. Não há informações acerca da conduta social e da personalidade do agente, pelo que não serão valoradas em seu desfavor. Os motivos do crime são comuns ao tipo penal, e as consequências e circunstâncias também não excedem o previsto na figura típica. E não há que se falar em "comportamento da vítima" em relação ao delito em tela. Ainda, da FAC do acusado não se verifica condenação com trânsito em julgado apta à caracterização de mau antecedente.
+Por outro lado, a natureza, a quantidade e a variedade de droga apreendida - 94g (noventa e quatro gramas) de maconha e 93g (noventa e três gramas) de cocaína - evidenciam o maior desvalor da conduta do acusado. Destaque-se, como é cediço, que a cocaína possui elevado poder vulnerante e viciante, o que reforça a necessidade de agravamento da pena-base nos termos do art. 42 da Lei nº 11.343/06.
+Assim, verificada a existência de uma circunstância judicial negativa, fixo a pena-base em 05 (cinco) anos e 10 (dez) meses de reclusão, e 583 (quinhentos e oitenta e três) dias-multa Na segunda fase da dosimetria não verifico incidirem atenuantes ou agravantes, razão pela qual permanece a pena intermediária em 05 (cinco) anos e 10 (dez) meses de reclusão, e 583 (quinhentos e oitenta e três) dias-multa.
+Por fim, reconheço incidente a causa de aumento prevista no art. 40, IV, da Lei nº 11.343/06, como destacado na fundamentação supra, no patamar mínimo (1/6). Ainda, conforme ressaltado pelo Ministério Público em alegações finais, e em vista do efetivo preenchimento dos requisitos legais, aplico a causa de diminuição prevista no §4º, do art. 33, da Lei nº 11.343/06 no patamar máximo (2/3).
+Portanto, fixo a PENA DEFINITIVA do acusado em 02 (dois) anos, 03 (três) meses e 07 (sete) dias de reclusão, e 226 (duzentos e vinte e seis) dias-multa.
+À míngua de elementos que evidenciem a capacidade econômica do acusado, fixo o dia-multa no mínimo legal (1/30 do salário-mínimo).
+O regime inicial de cumprimento da pena é o ABERTO, na forma do art. 33, §§2º e 3º do Código Penal, diante da quantidade da pena fixada e da primariedade do condenado.
+Já o Tribunal local, no ponto, consignou (e-STJ fls. 370/371):
+18. O magistrado sentenciante exacerbou a pena-base do crime de tráfico em razão da natureza e quantidade do material entorpecente apreendido, ressaltando o poder nocivo da Cocaína à saúde humana, vejamos:
+ ..
+19. Em que pese o argumento trazido pela defesa, entendo ser razoável e legal a fundamentação trazida pelo magistrado, notadamente em razão do alto grau lesivo à saúde humana em relação a um dos entorpecentes apreendidos (Cocaína).
+20. Isso porque, nos termos do artigo 42 da Lei 11.343/06, a quantidade e a natureza das drogas são fundamentos idôneos a justificar o aumento da pena-base na primeira fase da dosimetria.
+Pois bem.
+Delineada a questão fática, passo à análise da tese aviada pela defesa.
+Da pena-base
+Como é cediço, a primeira etapa de fixação da reprimenda tem como objetivo estabelecer a pena-base, partindo do preceito secundário simples ou qualificado do tipo incriminador, sobre o qual incidirão as circunstâncias judiciais descritas no art. 59 do Código Penal.
+Na hipótese, verifico flagrante ilegalidade na utilização da natureza e da quantidade de droga de formas distintas na mesma fase, já que o binômio é que deve ser considerado no sentido teleológico da norma insculpida no art. 42 da Lei n. 11.343/2006.
+Afinal, conquanto a pena-base tenha sido estabelecida acima do mínimo em observância ao disposto no art. 42 da Lei n. 11.343/2006, verifico que tal exasperação mostrou-se desproporcional, sobretudo em razão da quantidade de droga apreendida - 94g (noventa e quatro gramas) de maconha e 93g (noventa e três gramas) de cocaína -, quantidade essa que não se revela expressiva o suficiente para justificar a negativação da referida vetorial.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. VALORAÇÃO NEGATIVA. NATUREZA E QUANTIDADE DAS DROGAS. AUSÊNCIA DE EXPRESSIVIDADE. FUNDAMENTAÇÃO INIDÔNEA. PENA REDIMENSIONADA. RECURSO DESPROVIDO.
+1. A despeito da variedade das drogas apreendidas, a quantidade, na hipótese, segundo a orientação desta Corte, não é apta, por si só, a indicar maior desvalor da conduta. Em situações assemelhadas, o Superior Tribunal de Justiça considerou desproporcional a majoração da reprimenda na primeira fase da dosimetria. Precedentes.
+2. Agravo regimental desprovido. (AgRg no HC 687.171/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 14/9/2021, DJe 24/9/2021. G rifei.)
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ABSOLVIÇÃO. INVIABILIDADE. CONDENAÇÃO FUNDAMENTADA IDONEAMENTE. DOSIMETRIA. PENA-BASE. ANTECEDENTES. CONDENAÇÕES ANTERIORES. ART. 28 DA LEI N. 11.343/2006. NÃO CONFIGURAÇÃO. SÚMULA N. 444 DO STJ. QUANTIDADE E NATUREZA DA DROGA. MINORANTE. TRÁFICO PRIVILEGIADO. NÃO RECONHECIMENTO. HABITUALIDADE CRIMINOSA. REGIME INICIAL. SEMIABERTO. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. PERDIMENTO DE BENS. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.  ..
+3. Não obstante a natureza do entorpecente apreendido seja adotada de alto poder viciante, se a quantidade apreendida foi inexpressiva, no caso ora analisado - 2,56 g de crack -, mostra-se manifestamente desproporcional sopesar tais circunstâncias para justificar a exasperação da pena-base. Do contrário, qualquer agente que fosse apreendido com cocaína, ainda que com uma porção com peso de 1 g, deveria ter a sua pena-base estabelecida acima do mínimo legal - a pretexto de correta aplicação do disposto no art. 42 da Lei n. 11.343/2006 -, o que, evidentemente, não se coaduna com os princípios da razoabilidade e da proporcionalidade.  ..
+7. Agravo regimental parcialmente provido, apenas para redimensionar a pena do agravante para 5 anos de reclusão, em regime inicial semiaberto, e 500 dias-multa. (AgRg no AgRg no AREsp 1605930/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 05/05/2020, DJe 13/05/2020, grifei).
+Assim, passo ao cálculo da nova pena, mantidas as demais disposições preceituadas pelas instâncias ordinárias.
+Na primeira fase, fixo a basilar em 5 anos de reclusão.
+Na segunda etapa, não há o que ser avaliado.
+Na terceira fase, mantenho o aumento de 1/6 referente à majorante prevista no art. 40, IV, da Lei n. 11.343/2006, bem como a incidência da minorante do tráfico privilegiado na fração de 2/3. Assim, a pena definitiva alcança 1 ano, 11 meses e 10 dias de reclusão.
+Mantido, no mais, o acórdão recorrido.
+Ante o exposto, conheço do agravo e dou provimento ao recurso especial, nos termos ora delineados.
+Publique-se. Intimem-se.
+EMENTA
