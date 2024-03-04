@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REVISÃO CRIMINAL. APLICAÇÃO DE NOVO ENTENDIMENTO JURISPRUDENCIAL. ILEGALIDADE DA BUSCA PESSOAL E DOMICILIAR.. MATÉRIA NÃO DEBATIDA NA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO NÃO PROVIDO.
+1. A jurisprudência atual desta Corte "é firme no sentido de que a alteração de entendimento jurisprudencial verificada posteriormente ao trânsito em julgado da condenação não autoriza o ajuizamento de revisão criminal, visando a sua aplicação retroativa, assim como pretendido pela defesa no presente writ, sob pena de serem violados os princípios da coisa julgada e da segurança jurídica" (AgRg no HC n. 750.423/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/8/2022, DJe de 8/8/2022).
+2. Ademais, a questão específica da existência ou não da nulidade apontada não foi objeto de discussão e deliberação pela Corte de origem.
+3. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ALEXANDRE JOSÉ DOS SANTOS e MÁRCIO JOSÉ DA SILVA, de decisão na qual não conheci do habeas corpus impetrado em seu favor (e-STJ, fls. 112-113).
+O agravante insiste na tese de serem ilegais as provas colhidas mediante violação de domicílio sem justa causa e sem autorização judicial.
+Assevera que a Terceira Seção desta Corte "já aceitou o manejo de Revisão Criminal para sanar ilegalidade", devendo ser aceito o novo entendimento jurisprudencial, anulando-se as provas e declarando a absolvição dos recorrentes.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REVISÃO CRIMINAL. APLICAÇÃO DE NOVO ENTENDIMENTO JURISPRUDENCIAL. ILEGALIDADE DA BUSCA PESSOAL E DOMICILIAR.. MATÉRIA NÃO DEBATIDA NA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO NÃO PROVIDO.
+1. A jurisprudência atual desta Corte "é firme no sentido de que a alteração de entendimento jurisprudencial verificada posteriormente ao trânsito em julgado da condenação não autoriza o ajuizamento de revisão criminal, visando a sua aplicação retroativa, assim como pretendido pela defesa no presente writ, sob pena de serem violados os princípios da coisa julgada e da segurança jurídica" (AgRg no HC n. 750.423/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/8/2022, DJe de 8/8/2022).
+2. Ademais, a questão específica da existência ou não da nulidade apontada não foi objeto de discussão e deliberação pela Corte de origem.
+3. Agravo regimental não provido.
+VOTO
+Não obstante a argumentação, a decisão recorrida deve ser mantida pelos seus próprios fundamentos.
+Consoante apontado na decisão agravada, o Tribunal de origem assim considerou no julgamento da revisão criminal:
+"No caso em debate, observa-se que o objeto da ação cinge-se à discussão acerca da a incidência retroativa de novo entendimento jurisprudencial.
+Como anotado no relatório, na inicial, foi requerido o reconhecimento da ilegalidade da prisão dos requerentes por parte dos policiais militares, haja vista a ausência de investigação prévia ou fundada suspeita (justa causa) para justificar a busca pessoal na via pública e a violação de domicílio.
+Pois bem.
+Sobre o caso em análise, a Procuradoria de Justiça, no parecer de fls.281/285, opinou pela improcedência da presente ação revisional, sublinhando que a modificação jurisprudencial suscitada não gera a invalidade processual vindicada, especialmente porque as sanções aplicadas cumpriram, fielmente, todos os requisitos legais cabíveis, apresentando fundamentação idônea e suficiente.
+Conforme se extrai da sentença colacionada às fls. 259/272, vê-se que os requerentes restaram condenados pelo crime de tráfico de drogas, conduta tipificada no art. 33 da Lei nº 11.343/06, à pena de 07 (sete) anos de reclusão, a ser cumprida em regime inicial fechado, além de 700 (setecentos) dias-multa, à razão de 1/30 (um trigésimo) do maior salário mínimo mensal vigente ao tempo do fato.
+Em relação à modificação jurisprudencial ventilada após o trânsito em julgado da decisão, a despeito de os requerentes defenderem que deve ser reconhecida a nulidade da busca pessoal em via pública, ante a ausência de diligência investigatória prévia apta a evidenciar elementos mais robustos da ocorrência do tráfico, esclareça-se que não se trata de ponto pacífico na jurisprudência, não sendo possível a incidência retroativa de novo entendimento, ainda que mais benéfico aos requerentes." (e-STJ, fls. 349-350)
+A jurisprudência atual desta Corte "é firme no sentido de que a alteração de entendimento jurisprudencial verificada posteriormente ao trânsito em julgado da condenação não autoriza o ajuizamento de revisão criminal, visando a sua aplicação retroativa, assim como pretendido pela defesa no presente writ, sob pena de serem violados os princípios da coisa julgada e da segurança jurídica" (AgRg no HC n. 750.423/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/8/2022, DJe de 8/8/2022). Ressalto que a sentença condenatória transitou em julgado em 2020.
+Corroboram:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO QUE NÃO CONHECEU DO WRIT. REVISÃO CRIMINAL AJUIZADA NA ORIGEM COM BASE EM SUPERVENIENTE MUDANÇA DE ENTENDIMENTO JURISPRUDENCIAL. CONDENAÇÃO TRANSITADA EM JULGADO HÁ VÁRIOS ANOS. INVIABILIDADE DE REVISÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Esta Corte já firmou a compreensão de que a mudança de entendimento jurisprudencial, superveniente ao trânsito em julgado da sentença condenatória, não autoriza a revisão da aplicação da pena (AgRg nos EDcl no RHC n. 179.116/PB, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 16/10/2023, DJe de 19/10/2023).
+2. Agravo regimental não provido."(AgRg no HC n. 864.870/AL, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/11/2023, DJe de 27/11/2023.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. CONDENAÇÃO ANTERIOR. PERÍODO DEPURADOR. MAUS ANTECEDENTES CARACTERIZADOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. As condenações atingidas pelo período depurador previsto no art. 64, I, do Código Penal, embora não caracterizem mais reincidência, podem ser sopesadas a título de maus antecedentes, ressalvada casuística constatação do decurso de considerável lapso temporal, que não se aplica ao presente caso. Precedentes.
+2. Conforme assentado recentemente pela Terceira Seção desta Corte (RvCr n. 5620/SP, julgado em 14/6/2023), a modificação da jurisprudência em relação aos critérios de fixação da pena, para entendimento mais favorável ao réu, após o trânsito em julgado de sua condenação, não autoriza o uso da revisão criminal.
+3. Agravo regimental não provido." (AgRg nos EDcl no HC n. 860.876/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 7/11/2023, DJe de 16/11/2023.)
+De toda forma, consoante se extrai dos trechos acima colacionados, a questão específica da existência ou não da nulidade apontada não foi objeto de discussão e deliberação pela Corte de origem.
+Portanto, como não há decisão de Tribunal, inviável a apreciação do tema por esta Corte, sob pena de indevida supressão de instância e alargamento inconstitucional da hipótese de competência do Superior Tribunal de Justiça para julgamento de habeas corpus, constante no art. 105, I, "c", da Constituição da República, que exige decisão de Tribunal. Confira-se:
+"A questão relativa à alegada demora injustificada na instrução processual não foi objeto de exame pela Corte de origem, no acórdão recorrido, o que obsta a sua análise no presente recurso, sob pena de se incidir em indevida supressão de instância." (RHC 107.631/CE, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 15/10/2019, DJe 18/10/2019)
+"Em relação à prisão preventiva e ao excesso de prazo, verifica-se que as irresignações da defesa não foram objetos de cognição pela Corte de origem, o que torna inviável a sua análise nesta sede, sob pena de incidir em indevida supressão de instância, conforme reiterada jurisprudência desta Corte." (RHC 111.394/SP, de minha relatoria, QUINTA TURMA, julgado em 10/10/2019, DJe 15/10/2019)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
