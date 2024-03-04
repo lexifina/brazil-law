@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo apresentado por ALICE APARECIDA MORAIS SANTOS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim resumido:
+CONSUMIDOR. CONTRATO DE FINANCIAMENTO ESTUDANTIL - FIES. COBRANÇA DE VALOR RESIDUAL A CARGO DO ALUNO FINANCIADOR. POSSIBILIDADE. EXPRESSA PREVISÃO NO CONTRATO. DANO MORAL. INOCORRÊNCIA. SENTENÇA MANTIDA.
+Quanto à controvérsia, a parte recorrente alega violação do art. 4º da Lei n. 10.260/2001, no que concerne à inadequada permissão da cobrança de diferença de valor da semestralidade escolar da recorrente , trazendo a seguinte argumentação:
+Assim, resta evidente a ilegalidade da IES para cobrança de valores relativos à mensalidade escolar do autor.
+Acerca das "travas" existentes no SisFIES, alegadas pela IES, denota-se que a autora Recorrente não concorreu para o óbice ao aditamento de seu contrato de financiamento pelo FIES, sendo desarrazoado que sofra as consequências dos erros sistêmicos apontados na lide, devendo ser reconhecido seu direito à manutenção de sua matrícula e à regularização do aditamento, sem exigência de pagamento de valores relativos à mensalidades escolares.
+Caberia à IES buscar junto ao FNDE, administrativamente ou judicialmente, a solução dos eventuais erros no sistema, e não repassar ao aluno o saldo excedente da mensalidade.
+Portanto, cabe à IES suportar o ônus financeiro da inadimplência até a regularização no SisFIES.
+ ..
+Assim, como o contrato da autora foi celebrado em 02/08/2016, o valor máximo do aditamento FIES era de R$ 39.199,49
+ ..
+Em resumo, para os contratos FIES firmados até o 2º Semestre do ano de 2016, vale a regra dos repasses, ou seja, o Aluno não deve ARCAR COM CUSTOS EDUCACIONAIS fora do limite do contrato.
+Tal regra foi mudada a partir do 1º Semestre do ano de 2017 e não alcança o contrato da Recorrente. Por essas razões é que o recurso deve ser provido para manter as regras do contrato do FIES 349806841 com o financiamento de 80,34% e parcela de diferença de R$ 1.338,01 dentro dos limites de repasse do FNDE (fls. 934-936).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+No caso, a autora ingressou no curso de medicina no primeiro semestre de 2016, obtendo financiamento estudantil equivalente a 80,34% dos encargos educacionais, conforme se extrai dos contratos de aditamento do FIES juntados pela autora nos IDs 79731099 e 79734453.
+Verifica-se do contrato de prestação de serviço educacional, devidamente assinado pela apelada, que a semestralidade do curso de medicina para o primeiro semestre de 2016 era de R$ 45.948,00 (quarenta e cinco mil novecentos e quarenta e oito reais), dividido em seis parcelas de R$ 7.658,00 (sete mil seiscentos e cinquenta e oito reais) (ID 79734450).
+O contrato de prestação de serviços educacionais, devidamente assinado pela parte apelada, ainda prevê na CLAÚSULA 3ª - MENSALIDADES a possibilidade de reajuste das mensalidades de forma anual, conforme ESCOLARES estabelece a Lei nº 9.870/99.
+Há ainda, previsão expressa na CLÁUSULA 6ª - CONTRATAÇÃO que caso o montante financiado pelo FIES seja DE FINANCIAMENTO ESTUDANTIL inferior ao da mensalidade escolar, a instituição de ensino procederá à cobrança da diferença diretamente do aluno.
+Da análise dos aditamentos semestrais do FIES, juntados aos autos pela própria apelada, constata-se que lhe foi concedido, pelo período de 12 semestres, o crédito global total de R$ 434.533,35 (quatrocentos e trinta e quatro mil quinhentos e trinta e três reais e trinta e cinco centavos) (IDs 79734451 e 79731099).
+Extrai-se ainda dos aditamentos do FIES que foi disponibilizado à apelada o crédito correspondente ao valor global, cabendo à própria aluna o pagamento das diferenças entre o valor financiamento e aquele alcançado pelo valor total das mensalidades.
+Assim, fica evidente que o problema se deu em razão da interpretação das cláusulas contratuais do FIES e do contrato de prestação de serviços educacionais, pois embora haja indicação de que a mensalidade a ser paga pela acadêmica seja de R$ 1.338,01 resta evidente que esse valor corresponde ao percentual equivalente ao montante coberto pelo FIES, levando-se em consideração apenas o valor inicial, sem os reajustes e demais encargos.
+Com efeito, inexistindo ilicitude na conduta da instituição de ensino, há que se reconhecer a existência e legalidade das cobranças (fls. 827-828).
+Assim, incidem os óbices das Súmulas n. 5 e 7 do STJ, uma vez que a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 9/10/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/10/2019; AgInt no AREsp 1.165.518/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/10/2019; AgInt no AREsp 481.971/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019; AgInt no REsp 1.815.585/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; e AgInt no AREsp 1.480.197/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
