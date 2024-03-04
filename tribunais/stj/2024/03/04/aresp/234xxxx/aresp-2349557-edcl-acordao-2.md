@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  ART.  1.022  DO  CPC.  ERRO  MATERIAL.  INEXISTÊNCIA.  INTUITO  INFRINGENTE.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Embargos  de  declaração  rejeitados.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  ANDRÉ  BOJARSKI  e  OUTROS  ao  acórdão  assim  ementado:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  ADMISSIBILIDADE.  IMPUGNAÇÃO  ESPECÍFICA.  DECISÃO  AGRAVADA.  FUNDAMENTOS  DEPENDENTES  OU  FUNDAMENTO  ÚNICO.  ART.  1.021,  §  1º,  DO  CPC.  SÚMULA  Nº  182/STJ.
+1.  A  ausência  de  impugnação  de  fundamentos  autônomos  não  acarreta  o  não  conhecimento  do  recurso,  mas,  tão  somente,  a  preclusão  do  tema,  o  que  não  se  aplica  em  caso  de  decisão  com  fundamento  único  ou  com  capítulos  que  dependam  um  do  outro.  Precedente  da  Corte  Especial.
+2.  Na  hipótese,  constatada  a  ausência  de  impugnação  específica,  incide  o  disposto  no  art.  1.021,  §  1º,  do  Código  de  Processo  Civil  e  no  entendimento  jurisprudencial  do  Superior  Tribunal  de  Justiça,  reproduzido  na  redação  da  Súmula  nº  182/STJ.
+3.  Agravo  interno  não  provido"  (fl.  447,  e-STJ).
+Em  suas  razões,  os embargantes  sustentam  que  houve  erro  material  no  julgado  embargado,  pois,
+"(..)
+2.1  No  caso  dos  autos,  a  decisão  a  quo,  em  que  pese  seu  acerto  no  mérito,  não  determinou  a  majoração  da  verba  honorária  arbitrada  em  primeira  instância,  em  fase  de  cumprimento  de  sentença,  na  forma  do  art.85,  §3º,  I,  e  §11,  do  CPC.  O  Douto  Juízo  entendeu  que  não  caberia  NOVA  majoração  da  verba  honorária,  justificando  que  a  majoração  estaria  adstrita  à  atividade  desenvolvida  na  instância  recursal  e  não  em  cada  recurso  interposto.
+2.2  Ocorre  que  a  decisão  está  amparada  em  premissa  equivocada , afinal,  apesar  dos  inúmeros  recursos  em  fase  de  cumprimento  de  sentença,  NÃO  HOUVE  PRÉVIA  MAJORAÇÃO  NAS  ANTERIORES  INSTÂNCIAS  RECURSAIS,  persistindo  o  arbitramento  original  de  honorários  em  10%  sobre  o  valor  da  impugnação,  estabelecido  pelo  juízo  de  primeira  instância"  (fls.  457-458,  e-STJ).
+Impugnação  apresentada  às  fls.  480-487  (e-STJ).
+É  o  relatório.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  ART.  1.022  DO  CPC.  ERRO  MATERIAL.  INEXISTÊNCIA.  INTUITO  INFRINGENTE.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Embargos  de  declaração  rejeitados.
+VOTO
+Não  procede  a  inconformidade  veiculada  nos  presentes  aclaratórios.
+O  acórdão  embargado  não  padece  de  nenhum  dos  vícios  ensejadores  dos  declaratórios  enumerados  no  artigo  1.022  do  Código  de  Processo  Civil:  erro  material,  obscuridade,  contradição  ou  omissão.
+Na  hipótese,  não  cabe  a  majoração  dos  honorários  sucumbenciais  prevista  no  art.  85,  §  11,  do  Código  de  Processo  Civil,  pois  o  recurso  tem  origem  em  decisão  interlocutória,  sem  a  prévia  fixação  de  honorários.
+Nesse  sentido:
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO  DE  INSTRUMENTO  INTERPOSTO  PELA  PARTE  EXECUTADA/AGRAVADA.  RECURSO  DESPROVIDO.  EXEQUENTE/AGRAVANTE  QUE  PRETENDE  MAJORAÇÃO  DE  HONORÁRIOS  COM  BASE  NO  ART.  85,  §  11,  DO  CPC/2015.  INVIABILIDADE.  DECISÃO  INTERLOCUTÓRIA.  ACÓRDÃO  EM  CONSONÂNCIA  COM  A  JURISPRUDÊNCIA  DESTA  CORTE  SUPERIOR.  INCIDÊNCIA  DA  SÚMULA  83/STJ.  AGRAVO  NÃO  PROVIDO.
+1.  Trata-se,  na  origem,  de  Agravo  de  Instrumento  interposto  pela  Companhia  Estadual  de  Águas  e  Esgotos  -  CEDAE  -,  nos  autos  do  cumprimento  de  sentença  que  deferiu  a  penhora  online  no  valor  de  R$  166.002.336,55  (cento  e  sessenta  e  seis  milhões,  dois  mil  trezentos  e  trinta  e  seis  reais  e  cinquenta  e  cinco  centavos).
+2.  O  Tribunal  de  origem,  ao  dirimir  a  controvérsia,  negou  provimento  ao  Agravo  de  Instrumento,  nos  termos  da  ementa  que  segue:  "AGRAVO  DE  INSTRUMENTO.  DIREITO  PROCESSUAL  CIVIL.  CUMPRIMENTO  DE  SENTENÇA  DECISÃO  QUE  DETERMINOU  A  PENHORA  ON-LINE  DO  VALOR  INTEGRAL  DA  DÍVIDA.  (..)  RECURSO  DESPROVIDO"  (fl.  109,  e-STJ).
+3.  A  parte  recorrente  pontuou,  em  Embargos  de  Declaração  no  Agravo  de  Instrumento,  omissão  no  julgado  frente  à  ausência  de  majoração  dos  honorários  sucumbenciais  (art.  85,  §  11,  do  CPC/2015).
+4.  A  Corte  de  origem,  ao  enfrentar  a  questio  reclamada,  consignou: "Já  nos  Embargos  de  Declaração  interpostos  pela  Construtora  Queiróz  Galvão  (fls.  154-157)  a  empresa  afirma  que  o  acórdão  foi  omisso  na  medida  em  que  deixou  de  majorar  os  honorários  fixados  na  origem. Afirma  que  foram  preenchidos  os  requisitos  elencados  pela  doutrina  especializada  para  que  haja  fixação  de  honorários  nesta  hipótese.  (.  ..)  Em  regra,  não  há  fixação  de  honorários  de  sucumbência  em  sede  de  agravo  de  instrumento.  Isto  porque  o  acórdão  prolatado  neste  tipo  de  recurso  costuma  substituir  decisões  interlocutórias.  Este  tipo  de  decisão  por  não  por  fim  ao  processo  ou  a  uma  de  suas  fases,  não  geram  direito  à  percepção  de  honorários.  Logo,  uma  vez  que  a  decisão  recorrida  não  tratou  de  honorários,  descabe  a  majoração  ou  a  fixação  de  honorários  recursais  neste  agravo".  (fls.  199-202,  e-STJ).
+5.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  assentou  o  entendimento  de  ser  devida  a  majoração  dos  honorários  com  base  no  art.  85,  §  11,  do  CPC/2015  somente  quando  estiverem  presentes  três  requisitos  cumulativos:  a)  decisão  recorrida  publicada  a  partir  de  18.3.2016,  quando  entrou  em  vigor  o  novo  Código  de  Processo  Civil; b)  Recurso  não  conhecido  integralmente  ou  desprovido,  de  modo  monocrático  ou  pelo  órgão  colegiado  competente;  e  c)  condenação  em  honorários  advocatícios  desde  a  origem  no  feito  em  que  interposto  o  Recurso.
+6.  Entretanto,  o  novo  Código  de  Processo  Civil,  ao  prever  o  instituto  da  majoração  dos  honorários  advocatícios  em  razão  do  julgamento  de  Recurso,  condicionou  sua  aplicação,  aos  processos  cíveis,  desde  que  haja  prévia  fixação  de  honorários  pela  instância  "a  quo".
+7.  Conforme  se  extrai  do  acórdão  hostilizado,  a  Corte  de  origem  não  fixou  honorários  de  sucumbência  no  Agravo  de  Instrumento  interposto  pela  empresa  executada,  nos  termos  do  art.  85,  §  11,  do  CPC/2015,  isso  porque  o  resultado  não  foi  extinção  do  feito,  mas,  pelo  contrário,  seu  prosseguimento.
+8.  A  jurisprudência  do  STJ  consolidou  o  entendimento  de  que  descabe  fixar  honorários  recursais  em  decisão  interlocutória  em  julgamento  de  Agravo  de  Instrumento.
+9.  Dessume-se  que  o  acórdão  recorrido  está  em  sintonia  com  o  atual  entendimento  do  STJ,  razão  pela  qual  não  merece  prosperar  a  irresignação.  Incide,  in  casu,  o  princípio  estabelecido  na  Súmula  83/STJ:  "Não  se  conhece  do  Recurso  Especial  pela  divergência,  quando  a  orientação  do  Tribunal  se  firmou  no  mesmo  sentido  da  decisão  recorrida".
+10.  Cumpre  ressaltar  que  a  referida  orientação  é  aplicável  também  aos  Recursos  interpostos  pela  alínea  "a"  do  art.  105,  III,  da  Constituição  Federal  de  1988.  Nesse  sentido:  REsp  1.186.889/DF,  Segunda  Turma,  Rel.  Min.  Castro  Meira,  DJe  de  2.6.2010.
+11.  Agravo  Interno  não  provido."
+(AgInt  no  AREsp  nº  2.277.234/RJ,  Relator  Ministro  HERMAN  BENJAMIN,  Segunda  Turma,  julgado  em  21/8/2023,  DJe  de  21/9/2023  -grifou-se).
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DECLARATÓRIA  DE  EXIGIBILIDADE  DE  TÍTULO  COM  PEDIDO  DE  SUSTAÇÃO  DE  PROTESTO.  DECISÃO  INTERLOCUTÓRIA.  RECURSO  ESPECIAL  ORIUNDO  DE  AGRAVO  DE  INSTRUMENTO.  HONORÁRIOS  ADVOCATÍCIOS  RECURSAIS  NÃO  FIXADOS  NA  ORIGEM.  REQUISITOS  NÃO  PREENCHIDOS.  MAJORAÇÃO  DO  ARTIGO  85,  §  11,  DO  CPC/2015.  DESCABIMENTO.  SÚMULA  N.  568/STJ.
+1.  Ação  declaratória  de  exigibilidade  de  título  com  pedido  de  sustação  de  protesto.
+2.  A  jurisprudência  desta  Corte  Superior  é  firme  no  sentido  de  que,  para  fins  de  arbitramento  de  honorários  advocatícios  recursais,  previstos  no  artigo  85,  §  11,  do  CPC/2015,  é  necessário,  entre  outros  requisitos  cumulativos,  que  a  verba  honorária  sucumbencial  seja  devida  desde  a  origem  no  feito  em  que  interposto  o  recurso,  o  que  não  é  a  hipótese  dos  autos,  por  se  tratar  de  acórdão  proferido  em  agravo  de  instrumento  interposto  de  decisão  interlocutória.
+Precedentes.
+3.  Agravo  interno  no  agravo  em  recurso  especial  não  provido."
+(AgInt  no  AREsp  nº  2.294.356/SP,  Relatora  Ministra  NANCY  ANDRIGHI,  Terceira  Turma,  julgado  em  14/8/2023,  DJe  de  16/8/2023  -  grifou-se).
+Não  há,  portanto,  vício  no  julgado  embargado.
+Ante  o  exposto,  rejeito  os  embargos  de  declaração.
+É  o  voto.
