@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SÚMULA N.º 284/STF. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. PRINCÍPIO DA DIALETICIDADE RECURSAL NÃO ATENDIDO.
+1. A ausência de indicação do dispositivo legal que teria sido supostamente violado ou objeto de dissídio interpretativo inviabiliza o conhecimento do recurso especial, pois incide à espécie a Súmula n.º 284 do Supremo Tribunal Federal.
+2. In casu, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial com relação à incidência das Súmulas n.º 7/STJ e n.º 283/STF.
+3. Nos termos da jurisprudência desta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do recurso especial ou à insistência no mérito da controvérsia, como no caso.
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão que rejeitou os embargos de declaração.
+Em suas razões recursais, aduz o agravante, em suma, que "fora negado Conhecimento ao referido Recurso com base na súmula 284 do STF,  .. , contudo, ressalte-se, foi confeccionado estritamente dentro dos ditames legais, estando, portando, dentro do prazo e nos termos da Lei aventada, vigente à época da Interposição do aludido Recurso", sendo "devidamente analisada pormenorizadamente a fundamentação, permitindo a exata compreensão da controvérsia exarada  .. , não ensejando como alegado uma deficiência de cotejo analítico" (fl. 707).
+Requer o conhecimento e provimento do agravo regimental.
+Manifestou-se o Ministério Público Federal pelo desprovimento do recurso. Impugnação apresentada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SÚMULA N.º 284/STF. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. PRINCÍPIO DA DIALETICIDADE RECURSAL NÃO ATENDIDO.
+1. A ausência de indicação do dispositivo legal que teria sido supostamente violado ou objeto de dissídio interpretativo inviabiliza o conhecimento do recurso especial, pois incide à espécie a Súmula n.º 284 do Supremo Tribunal Federal.
+2. In casu, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial com relação à incidência das Súmulas n.º 7/STJ e n.º 283/STF.
+3. Nos termos da jurisprudência desta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do recurso especial ou à insistência no mérito da controvérsia, como no caso.
+4. Agravo regimental desprovido.
+VOTO
+A decisão agravada foi assim proferida (fls. 699-700):
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado expressamente na decisão embargada incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou objeto de divergência jurisprudencial.
+Em outras palavras, para que haja a admissão do recurso especial pela alínea "a" do permissivo constitucional - necessariamente - deve haver a indicação precisa dos dispositivos de lei federal violados e, pela alínea "c" do permissivo constitucional, deve haver a indicação precisa de quais dispositivos legais seriam objeto de dissídio interpretativo, não bastando, para ambos casos, a mera transcrição dos artigos legais.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição ou omissão.
+Ante o exposto, rejeito os embargos de declaração.
+Em que pese os argumentos do agravante, a decisão impugnada deve ser mantida.
+Nesta Corte Superior, o agravo em recurso especial deixou de ser conhecido porque a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, incidindo a Súmula n.º 284/STF.
+Não logra êxito a irresignação, porque, efetivamente, não foram impugnados, de forma adequada e suficiente, os fundamentos da decisão proferida pelo Tribunal de origem, pois não basta deduzir a inaplicabilidade dos óbices sumulares.
+Em relação à inadmissão quanto à aplicação da Súmula n.º 7/STJ, deveria a parte agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+É entendimento desta Corte Superior que "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe de 18/11/2016).
+No mais, na decisão de inadmissão do recurso especial, foi consignado que o recorrente deixou de infirmar todos os fundamentos do acórdão recorrido, razões não atacadas especificamente, suficientes, por si sós, para manter a razão de decidir do Tribunal de origem, o que atrai a incidência das Súmulas n.º 283 e 284/STF.
+Vale destacar que ao recorrente incumbe demonstrar o equívoco da decisão contra a qual se insurge, não bastando a impugnação genérica de seus fundamentos, sendo imprescindível que contraponha todos os óbices por ela apontados de maneira específica e suficientemente evidenciada, a fim de demonstrar que não se revela acertada, no caso, a inadmissão recursal.
+Este é o teor do art. 932, III, do Código de Processo Civil/2015, que autoriza o relator a não conhecer de recurso que tenha deixado de impugnar os fundamentos da decisão recorrida. Igualmente, o art. 253, I, do Regimento Interno do Superior Tribunal de Justiça, com redação dada pela Emenda Regimental n.º 22/2016, autoriza o relator a não conhecer do agravo que descumpra a tarefa de infirmar as razões de decidir que levaram ao trancamento do recurso especial.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 83/STJ. RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO RECORRIDA. NECESSIDADE. ALEGAÇÕES GENÉRICAS E REITERAÇÃO DOS ARGUMENTOS REFERENTES AO MÉRITO DA CONTROVÉRSIA. INSUFICIÊNCIA. PRECEDENTES. RECURSO DESPROVIDO.
+1. O insurgente não refutou a Súmula n. 83 do STJ, limitando-se a reiterar, genericamente, os termos constantes do AREsp.
+2. Os "recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia" (AgRg no HC n. 624.133/SP, Rel. Min. João Otávio de Noronha, DJe 14/12/2021) 3. Não é cabível o enfrentamento de teses de mérito se não suplantado o juízo de inadmissibilidade recursal e "diante da ocorrência de preclusão consumativa, mostra-se inviável buscar, no agravo regimental, suprir as deficiências existentes na fundamentação das razões do agravo em recurso especial" (AgRg no AREsp n. 2.032.402/SP, Rel. Min. Laurita Vaz, 6ª Turma, DJe 06/05/2022).
+4. Na hipótese dos autos, verifica-se que a decisão que previamente inadmitiu o recurso especial considerou a ausência de prequestionamento e Súmula 83/STJ.
+5. Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos. Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial. Precedente.
+6. Em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+7. Agravo regimental desprovido." (AgRg no AREsp n. 2.094.944/MG, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe de 26/8/2022).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
