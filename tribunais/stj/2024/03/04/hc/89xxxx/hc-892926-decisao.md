@@ -1,0 +1,14 @@
+DECISÃO
+CLAUDIO MARCIO DOS SANTOS alega ser vítima de coação ilegal em decorrência de decisão proferida por Desembargador do Tribunal de Justiça do Estado de São Paulo, que indeferiu a liminar do HC n. 2034905-60.2024.8.26.0000.
+A defesa insurge-se contra a demora do Juízo de primeiro grau para retificar a guia de execução do paciente, em cumprimento a ordem concedida por esta Corte Superior, em anterior habeas corpus.
+Decido.
+De acordo com o explicitado na Constituição Federal (art. 105, I, "c"), não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau.
+Em verdade, o remédio heroico, em que pesem sua altivez e sua grandeza como garantia constitucional de proteção da liberdade humana, não deve servir de instrumento para que se afastem as regras de competência e se submetam à apreciação das mais altas Cortes do país decisões de primeiro grau às quais se atribui suposta ilegalidade, salvo se .
+Somente quando evidenciada, sem necessidade de exame mais vertical, a apontada violação ao direito de liberdade do paciente, a jurisprudência, tanto do STJ quanto do STF, admite o excepcional afastamento do rigor da Súmula n. 691 do STF (aplicável ao STJ).
+In casu, verifico que o Tribunal estadual indeferiu o pleito liminar do prévio writ, pois "os documentos trazidos aos autos não permitem reconhecer com clareza  ..  se houve ou não a retificação de pena com base na determinação exarada no acórdão, mostrando-se para tanto, necessária a vinda de informações a serem prestadas pela d. autoridade impetrada" (fl. 24).
+Sobre o tema, esta Corte Superior já decidiu que ""o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos que evidenciem a pretensão aduzida, a existência do aventado constrangimento ilegal suportado pelo paciente, ônus do qual não se desincumbiu a defesa" (HC 239.465/RJ, Rel. Ministro Jorge Mussi, Quinta Turma, julgado em 19/08/2014)" (AgRg no HC n. 852.420/SC, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 7/11/2023, DJe de 13/11/2023).
+Por não identificar teratologia no decisum monocrático - que entendeu necessário um exame mais detido da causa, à luz, inclusive, de elementos a serem trazidos aos autos com as informações -, não se justifica a intervenção imediata e prematura desta Corte Superior de Justiça.
+Ressalto, todavia, que a análise feita nesta oportunidade não preclui o exame mais acurado da matéria, em eventual impetração que venha a ser aforada, já a partir da decisão colegiada do Tribunal estadual.
+À vista do exposto, indefiro liminarmente este habeas corpus, com fulcro na Súmula n. 691 do STF e no art. 210 do RISTJ.
+Publique-se e intimem-se.
+EMENTA
