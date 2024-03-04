@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto com fundamento no art. 105, II, b, da Constituição Federal.
+Na origem, trata-se de mandado de segurança impetrado contra ato atribuído ao Governador do Estado da Bahia e ao Comandante Geral da Polícia Militar do Estado da Bahia, consistente na sua eliminação do Concurso Público para provimento do cargo de Soldado da Polícia Militar do Estado da Bahia regido pelo Edital SAEB/01/2008, em razão de sua inaptidão no Teste e reteste de Aptidão Física - TAF.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA denegou a segurança pleiteada, ficando consignado que não é possível a realização de nova chamada em etapa de concurso público devido a condições pessoais do candidato, tais como um problema temporário de saúde.
+O referido acórdão foi assim ementado, in verbis:
+MANDADO DE SEGURANÇA. CONCURSO PÚBLICO POLÍCIA MILITAR. EDITAL SAEB 01/2008. PRELIMINAR DE ILEGITIMIDADE DO GOVERNADOR DO ESTADO DA BAHIA E DO SECRETÁRIO ESTADUAL DE ADMINISTRAÇÃO. REJEITADAS. MÉRITO. TESTE DE APTIDÃO FÍSICA. LESÃO OCORRIDA DURANTE A REALIZAÇÃO DO TESTE. CANDIDATO SUBMETIDO A TESTE E RETESTE. LAPSO TEMPORAL DE TRÊS DIAS ENTRE OS TESTES. PLEITO DE MARCAÇÃO DE NOVA DATA PARA UMA TERCEIRA AVALIAÇÃO. AUSÊNCIA DE PREVISÃO EDITALÍCIA. QUEBRA DE ISONOMIA. PRECEDENTE DO STF EM REPERCUSSÃO GERAL. TEMA 335. PRECEDENTES DESTA CORTE. SEGURANÇA DENEGADA.
+I -Rejeita-se a preliminar de ilegitimidade passiva do Governador do Estado da Bahia, uma vez que o impetrante pretende não apenas a nova avaliação física, mas também a sua nomeação no cargo almejado e matrícula no Curso de Formação - que se insere dentre as atribuições do Chefe do Poder Executivo Estadual.
+II - Da mesma sorte, não merece prosperar a preliminar de ilegitimidade passiva do Secretário da Administração do Estado da Bahia, tendo em vista que, consoante se extrai do próprio Edital de Abertura do concurso, este é um dos responsáveis pela condução do certame.
+III - O Pretório Excelso, no julgamento do tema de Repercussão Geral 335, consagrou o entendimento de que não é possível a realização de nova chamada em etapa de concurso público devido a condições pessoais do candidato, tais como um problema temporário de saúde.
+IV - O impetrante foi submetido a teste e reteste, para efetivação do exame de aptidão física, não existindo qualquer previsão editalícia para que seja submetido, em uma terceira oportunidade, à referida avaliação, sob pena de malferimento ao princípio da isonomia, nos termos do entendimento consagrado pelo pretório Excelso.
+V- SEGURANÇA DENEGADA.
+Os embargos de declaração opostos foram rejeitados.
+O Recorrente alega, em síntese, que "é inconstitucional a limitação de prosseguimento no certame pelo fato de ter tido uma lesão durante o próprio TAF, ou seja, no presente caso o impetrante não teria tratamento isônomico em caso de fazer o TAF lesionado, pois demais candidatos estavam sem lesão, logo o presente caso merece flexibilização e tratamento isonômico em virtude de sua lesão" (fl. 599).
+Apresentadas contrarrazões.
+É o relatório. Decido.
+O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+O Supremo Tribunal Federal e o STJ têm o entendimento de que não há direito à remarcação de provas de concurso público em razão de circunstâncias pessoais dos candidatos, exceto se previsto em edital.
+Confira-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. CONCURSO PÚBLICO. REMARCAÇÃO DE PROVAS. IMPOSSIBILIDADE. TEORIA DO FATO CONSUMADO. CANDIDATO QUE SEQUER TOMOU POSSE. AFASTAMENTO.
+1. Não há violação do art. 1022 do CPC/2015 quando o Tribunal de origem se manifesta de forma clara, coerente e fundamentada sobre as teses relevantes à solução do litígio.
+2. O Supremo Tribunal Federal e o STJ têm o entendimento de que não há direito à remarcação de provas de concurso público em razão de circunstâncias pessoais dos candidatos, exceto se previsto em edital.
+3. Conforme estabelecido pelo STF, não é compatível com o regime constitucional de acesso aos cargos públicos a manutenção no cargo, sob fundamento de fato consumado, de candidato não aprovado que nele tomou posse em decorrência de execução provisória de medida liminar ou outro provimento judicial de natureza precária, supervenientemente revogado ou modificado.
+4. Hipótese em que, conforme registrado no acórdão a quo, o edital do certame não previu a possibilidade de segunda chamada para a realização dos exames, havendo expressa previsão de eliminação dos candidatos que não comparecessem às avaliações de saúde e psicológica, sendo certo que, não obstante o candidato tenha realizado prova de segunda chamada em face do deferimento da antecipação da tutela na origem, nem sequer tomou posse no cargo para o qual concorreu, o que afasta o debate sobre a aplicação da teoria do fato consumado.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.635.336/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 22/11/2022, DJe de 20/12/2022.)
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. IMPOSSIBILIDADE DE REALIZAÇÃO DE SEGUNDA CHAMADA DE TESTE DE APTIDÃO FÍSICA. AGRAVO INTERNO DO PARTICULAR DESPROVIDO.
+1. Trata-se de Mandado de Segurança, apontando como autoridades coatoras o Secretário da Administração e o Comandante Geral da Polícia Militar do Estado da Bahia. A parte sustenta que foi convocada para o teste de aptidão física - TAF, porém, na data marcada, estava com distensão no ombro em virtude dos fortes treinos. Acrescenta que, apesar de informar o seu problema de saúde à organização do concurso, foi obrigado a submeter-se ao TAF e reprovou na prova de barra.
+2. Sobre o tema, as duas Turmas de Direito Público desta Corte Superior têm acompanhado a orientação firmada no Supremo Tribunal Federal, com repercussão geral reconhecida (RE 630.733/DF - DJe 20.11.2013), de que inexiste direito à remarcação de provas em razão de circunstâncias pessoais dos candidatos, exceto se previsto em edital (AgRg no RMS 48.218/MG, Rel. Min. GURGEL DE FARIA, PRIMEIRA TURMA, DJe 7.2.2017).
+3. Agravo Interno do particular desprovido.
+(AgInt no RMS n. 66.511/BA, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 19/10/2021, DJe de 22/10/2021.)
+Na hipótese dos autos, observa-se que o Recorrente foi submetido a teste e reteste para efetivação do exame de aptidão física, não existindo qualquer previsão editalícia para que seja submetido, em uma terceira oportunidade, à referida avaliação, sob pena de ofensa ao princípio da isonomia.
+Assim, não há que se falar em direito líquido e certo a ser amparado no presente mandamus, de modo que é forçosa a manutenção do acórdão recorrido em sua integralidade.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
