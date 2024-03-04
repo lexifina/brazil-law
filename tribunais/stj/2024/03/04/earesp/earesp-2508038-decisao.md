@@ -1,0 +1,62 @@
+DECISÃO
+PAULO HENRIQUE BIASUZ DINIZ agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais na Apelação Criminal n. 1.0024.10.287316-3/002.
+O agravante foi condenado, pelo crime do art. 171, caput, do Código Penal, à sanção de 4 anos e 2 meses de reclusão mais 504 dias-multa, no regime inicial semiaberto.
+Nas razões do recurso especial, a defesa alegou violação dos arts. 387, § 2º, 315, § 2º, IV, 593, I, todos do Código de Processo Penal; 1.003, § 3º, do Código de Processo Civil, e 59 e 171, ambos do Código Penal. Apontou, em síntese, a nulidade da apelação do Ministério Público e a ausência de análise dos pedidos de diligências requeridas pelo agravante. No mérito, pleiteou a absolvição, por insuficiência da prova, ou a desclassificação da conduta imputada. Subsidiariamente, requereu a redução da pena-base, a detração do tempo de prisão preventiva, a fixação do regime inicial aberto e a substituição da privativa de liberdade por restritivas de direitos.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se, às fls. 3.318-3.323, pelo não provimento do AREsp.
+Decido.
+I. Admissibilidade parcial do recurso especial
+A Corte de origem assim se manifestou, quanto às preliminares apontadas (fls. 3.112-3.113):
+ ..
+PRELIMINAR DE INTEMPESTIVIDADE
+Em contrarrazões recursais, a defesa suscita preliminar de não conhecimento do recurso ministerial, com o argumento de que foi interposto fora do prazo legal.
+Sabe-se que, nos termos do art. 41, inciso IV, da Lei n. 8.625/1.993, a intimação do Ministério Público deve ser pessoal. Pela análise do processo, constata-se que, no momento em que o representante do Parquet teve ciência da sentença recorrida, apresentou as respectivas razões recursais (fls. 2.430v.).
+Portanto, foi observado o quinquídio legal, sendo certo que tal prazo deve ser contado a partir da intimação da parte (CPP, art. 798, § 5º, "a").
+Desse modo, é tempestivo o recurso ministerial, razão pela qual conheço do apelo, posto que presentes os pressupostos de admissibilidade.
+Ante tais considerações, REJEITO A PRELIMINAR DEFENSIVA.
+PRELIMINAR DE CERCEAMENTO DE DEFESA
+Alega o defendente a nulidade do feito por cerceamento de defesa, com o argumento de que não houve manifestação sobre as diligências requeridas em sede de resposta à acusação.
+Contudo, verifica-se que, ao contrário, a instrução processual não foi encerrada logo depois da audiência de instrução e julgamento. Isso, porque foi deferido o pedido defensivo de produção de provas (fl. 2.281), sendo-lhe concedido o prazo de 20 (vinte) dias para apresentação dos documentos bancários.
+Entretanto, o prazo concedido transcorreu sem que a defesa juntasse ao processo os documentos, conforme se verifica à fl. 2.303v., quedando-se inerte em relação ao álibi invocado.
+Atém-se que, no processo penal, vige o princípio do in dubio pro reo, ou seja, se a acusação não se incumbe de seu ônus de provar a imputação, a absolvição é medida que se impõe.
+No presente caso, o Ministério Público apresentou elementos que foram capazes de ponderadas evidências da materialidade e da autoria delitiva, além da tipicidade, ilicitude e culpabilidade da conduta.
+Por outro lado, inexiste dúvida de que o réu teve todas as oportunidades e garantias processuais para contestar as condutas, conforme narrativa apresentada na inicial, ausente, portanto, o cerceamento de defesa.
+Conforme se observa, a instância antecedente asseverou que a tempestividade da apelação criminal interposta pelo Ministério Público pôde ser atestada por outros meios. A defesa não impugnou esse fundamento nas razões do recurso especial, apenas invocou a nulidade em seu aspecto meramente formal, o que não é suficiente. Incide, nesses casos, o disposto na Súmula n. 283 do STF.
+A Corte de origem consignou que a defesa teve pedido de produção de provas deferido, porém quedou-se inerte. Oportuno observar que não se declara a nulidade de nenhum ato judicial sem a devida demonstração do prejuízo concreto.
+Na hipótese, a parte apenas alega nulidade em seu aspecto formal, sem a devida demonstração da relevância da prova pleiteada, bem como de seu agir proativo no processo. Assim, tenho que a pretensão recursal, nesse ponto, é deficiente, o que enseja o óbice previsto na Súmula n. 284 do STF.
+A análise da tese absolutória - insuficiência da prova da condenação - e da pretendida desclassificação da conduta implica a necessidade de reexame fático-probatório dos autos, procedimento vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+Ilustrativamente:
+ ..
+1. É incabível a absolvição do réu, por esta Corte Superior, com fundamento na insuficiência probatória, se os juízos antecedentes apontaram, fundamentadamente, elementos concretos acerca da existência de autoria e materialidade do crime, colhidos sob o crivo do contraditório, a fim de subsidiar a condenação. Para entender de forma diversa, seria necessário reexaminar o conjunto fático-probatório dos autos, providência vedada pela Súmula n. 7 do STJ  ..  (AgRg no AgRg no AREsp n. 1.605.930/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 13/5/2020)
+No tocante à dosimetria da pena, prevaleceu a seguinte compreensão (fls. 3.196-3.199):
+ ..
+Da detida análise dos autos verifica-se que o voto minoritário negou provimento ao recurso ministerial, deixando de incrementar a pena-base com o exame desfavorável das circunstâncias judiciais da culpabilidade, do motivo, das consequências e da personalidade.
+Todavia, compartilho do entendimento esposado no voto vencedor, o qual reitero na íntegra por seus próprios fundamentos:
+Com efeito, a análise das circunstâncias judiciais da culpabilidade, do motivo e das consequências que envolveram o crime são de fato acentuadamente desfavoráveis.
+A culpabilidade do acusado merece reprovação maior do que o normal, conforme desvendado na sentença. Isso porque deve ser considerada a extensão da fraude perpetrada, haja vista que foram várias as pessoas que depositaram confiança, por diversas vezes, no acusado, o qual ainda instigava suas vítimas a confiar-lhe ainda novas e vultosas quantias, para supostos investimentos. tal conduta denota intensa indiferença ante o aprofundamento do prejuízo causado aos ofendidos, novamente ludibriados e frustrados.
+Não se trata aqui de considerar-se o risco normal do mercado de capitais, onde o montante investido pode não gerar lucro e até sofrer eventual perda. O réu recebia os valores com a finalidade predeterminada (e ardilosamente dissimulada) de se apossar dos montantes "investidos". O réu pode até ter inicialmente pago dividendos, mas com a clara intenção de criar uma falsa impressão de confiabilidade, induzindo as vítimas a fazer aportes ainda maiores, o que denota particular propensão para o engodo e desprezo pela ruína financeira causada às vítimas e suas famílias.
+Quanto aos motivos do crime, conforme bem pontuado na sentença, a reprovação desta circunstância judicial está ancorada no fato de o crime ter sido cometido por ambição excessiva do recorrente. Resta claro que a motivação é mais grave, devendo ser mantida como circunstância desfavorável.
+As consequências do delito também devem ser mantidas como adversas, em face do grande prejuízo causado às vítimas pelo réu, bem como pelo fato de tê-las iludido reiteradas vezes. Ou seja, não se limitava a espoliar as vítimas uma única vez, mas continuava instigando-as a entregar novas quantias, para tosquiar ainda mais os incautos, agudizando o prejuízo destes.
+Além disso, considera-se em desfavor do acusado as circunstâncias que envolveram o crime, levando em consideração o modus operandi empregado. É séria utilização de credenciais falsas ou parcialmente verdadeiras. também se afigura como particularmente condenável a cooptação sequencial de novas vítimas, para angariar somas, utilizadas em parte para o pagamento de supostos dividendos para as vítimas primevas, como engodo para ludibriá-las a fazer o que acreditavam seria novas "aplicações".
+ ..
+Em relação à personalidade do agente, existem fundamentos concretos no presente feito que demonstram que a circunstância merece ser negativada, levando em consideração que a conduta foi praticada por 28 (vinte e oito) vezes, podendo-se concluir pela personalidade voltada à prática do estelionato. Além disso, quando questionado pelos ingênuos investidores, que começavam a perceber algo de estranho nos "investimentos", a fleuma demonstrada pelo recorrente (inclusive induzindo muitas das vítimas a novos aportes) indica caráter habituado à burla.
+ ..
+Após feitas as devidas análises qualitativas, deve ser fixada, para um dos vinte e oito crimes de estelionato, a pena-base de 02 (dois) anos e 06 (seis) meses.
+Diante disso, pedindo vênia ao em. prolator do voto minoritário, filio-me ao posicionamento majoritário, para que seja mantida a decisão que, por maioria, deu parcial provimento ao recurso ministerial, nos termos do voto do relator.
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar para as singularidades do caso concreto. Cumpre-lhe, na primeira etapa do procedimento trifásico, guiar-se pelos oito fatores indicativos relacionados no caput do art. 59 do Código Penal, os quais não se deve furtar de analisar individualmente. São eles: culpabilidade, antecedentes, conduta social, personalidade do agente, motivos, circunstâncias e consequências do crime, assim como comportamento da vítima.
+Na hipótese, a negativação das vetoriais culpabilidade, motivos, consequência e circunstâncias do crime está idoneamente fundamentada. Com efeito, a extensão da fraude, a instigação das vítimas para o aporte de novas quantias, o modus operandi, a indiferença, a ambição excessiva, o elevado prejuízo causado são, entre outros, elementos concretos e não integrantes do tipo penal, a justificar a exasperação da pena-base acima do mínimo legal.
+No entanto, deve ser afastada a avaliação desfavorável da vetorial personalidade. A indução por novos aportes e a reiteração delitiva já haviam sido avaliadas anteriormente, a caracteriza bis in idem, o que não pode ser admitido.
+II. Nova dosimetria
+Na primeira fase, para cada um dos crimes de estelionato praticados, afastada a avaliação desfavorável da vetorial personalidade e mantidas as demais, fixo a pena-base em 2 anos e 2 meses de reclusão mais 16 dias-multa.
+Não há atenuantes ou agravantes a serem consideradas na segunda etapa.
+Na terceira fase, também não há causas de diminuição ou de aumento a serem avaliadas. Assim, a pena de 2 anos e 2 meses de reclusão mais 16 dias-multa torna-se definitiva.
+Em razão da continuidade delitiva, considerado o número de infrações cometidas, a reprimenda de um dos crimes será acrescida em 2/3, o que perfaz 3 anos, 7 meses e 10 dias de reclusão mais 448 dias-multa (art. 72 do CP).
+O regime inicial permanece o semiaberto assim como se conserva a não substituição da privativa de liberdade por restritiva de direitos, ambos em razão da gravidade das condutas praticadas e da existência de quatro circunstâncias judiciais desfavoráveis.
+Ficam mantidos os demais termos do acórdão recorrido.
+A detração do período relativo à prisão preventiva do agravante é irrelevante, no caso dos autos, para fins de fixação do regime inicial, haja vista que o regime inicial intermediário foi mantido apesar da privativa de liberdade haver sido inferior a quatro anos. Assim, a matéria deve ser suscitada perante o juízo da execução.
+III . Dispositivo
+À vista do exposto, conheço do agravo para dar provimento, em parte, ao recurso especial e estabelecer a pena definitiva do agravante em 3 anos, 7 meses e 10 dias de reclusão mais 448 dias-multa, no regime inicial semiaberto .
+Publique-se e intimem-se.
+EMENTA
