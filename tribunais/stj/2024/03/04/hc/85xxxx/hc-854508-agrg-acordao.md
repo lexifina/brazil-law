@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. MAJORAÇÃO. FUNDAMENTAÇÃO IDÔNEA. NATUREZA LESIVA DA SUBSTÂNCIA ENTORPECENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Justifica-se o aumento da pena-base a fundamentação lastreada na quantidade ou natureza da droga apreendida, em observância ao disposto no art. 42 da Lei n.11.343/2006, que prevê a preponderância de tais circunstâncias em relação às demais previstas no art. 59 do Código Penal - CP.
+2. Agravo regimental desprovido.
+RELATÓRIO
+Cuida-se de agravo regimental interposto por UBIRATAN JOSE DA SILVA JUNIOR contra a decisão que indeferiu liminarmente o presente habeas corpus.
+A Defensoria Pública reitera o pleito de revisão da dosimetria da pena, asseverando que na primeira fase relativa aos crimes de tráfico de entorpecentes deve ser levado "em consideração a análise em conjunto da natureza e da quantidade de drogas não permitindo que o aumento se opere em razão de uma ou outra circunstância sozinha" (fls. 57/58).
+Requer a reconsideração do decisum ou o provimento do agravo regimental, para conceder a ordem pleiteada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. MAJORAÇÃO. FUNDAMENTAÇÃO IDÔNEA. NATUREZA LESIVA DA SUBSTÂNCIA ENTORPECENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Justifica-se o aumento da pena-base a fundamentação lastreada na quantidade ou natureza da droga apreendida, em observância ao disposto no art. 42 da Lei n.11.343/2006, que prevê a preponderância de tais circunstâncias em relação às demais previstas no art. 59 do Código Penal - CP.
+2. Agravo regimental desprovido.
+VOTO
+Não obstante os esforços da defesa, a decisão deve ser mantida por seus próprios fundamentos.
+Consta dos autos que o agravante foi preso em flagrante por que mantinha consigo, para fins de comercialização e difusão ilícita a terceiros, 40 pedras de crack, razão pela qual o Juízo de primeiro grau condenou-o como incurso no art. 33 da Lei n. 11.343/06 (tráfico de drogas),  conforme  sentença  de  fls.  21/31.
+Irresignada,  a  defesa  apelou  perante  o  Tribunal  de  origem,  que  deu parcial  provimento  ao  recurso,  reduzindo a reprimenda para 6 anos e 3 meses de reclusão, inicialmente no regime fechado, com estes fundamentos (fls. 17/18):
+"Quando da primeira fase dosimétrica, observo que o d. Juízo sentenciante considerou como desfavoráveis 2 (duas) circunstâncias Judicias, a saber, culpabilidade e consequências do delito. Em face disso, a pena-base do réu restou fixada em 08 (oito) anos, 10 (dez) meses e 20 (vinte) dias de reclusão.
+Em relação à culpabilidade do agente, o Juízo de primeiro grau fundamentou a negativação ao argumento "em consulta ao sistema JudWin e ao Portal SI AP, observo que o acusado mencionado já havia sido preso em flagrante anteriormente e já havia se beneficiado com a liberdade provisória, quando do cometimento do delito de que versam os presentes autos. Ademais, mesmo possuindo condições familiares e profissionais favoráveis, sendo pessoa inseridas na sociedade e cercada de possibilidades de desempenho de atividades lícitas, o acusado optou por se enveredar pela criminalidade. Em resumo, o acusado, segundo suas declarações, tinha plenas condições de sustentar-se licitamente, a julgar pela gama de atividades profissionais que o acusado afirmou exercer, mas, mesmo assim, escolheu o caminho do crime. Praticou o crime sem qualquer juízo de censura sobre sua conduta, mesmo tendo plenas condições para tanto."
+Sem razão. Primeiro, porque da consulta aos referidos sistemas não se verifica que o réu estava em liberdade provisória quando do cometimento do crime narrado na inicial. Segundo, porque o fato de o réu ter "enveredado pela criminalidade" quando tinha plenas condições de não o fazer não constitui fundamento idônea para a exasperação da pena.
+Já no que diz respeito às consequências do crime, observo que a inexiste ilegalidade na valoração negativa das circunstâncias do crime, cujo rigor justifica-se pela nocividade de uma das drogas apreendidas, qual seja, o crack.
+Sendo assim, redimensiono a pena-base para 6 (seis) anos e 3 (três) meses de reclusão.
+Em relação à segunda fase, houve o reconhecimento da agravante da reincidência.
+ ..
+Por assim ser e por não haver qualquer outra consideração a ser feita nesta fase da dosimetria, mantenho et pena anteriormente redimensionada.
+No que diz respeito à terceira fase, não houve impugnação da Defesa. Além disso, nenhuma causa de aumento ou de diminuição de pena foi reconhecida.
+No ponto, não vislumbro ajuste a ser feito de oficio, vez que não era mesmo o caso do reconhecimento do benefício previsto no art. 33, § 4o, da Lei n. 11.343/2006, já que o réu é reincidente, o que evidencia a dedicação do agente a atividade criminosa.
+Em sendo assim, torno definitiva a pena privativa do apelante em 6 (seis) anos e 3 (três) meses de reclusão."
+Vê-se, não se mostra excessivo, desarrazoado ou desproporcional o aumento da reprimenda na primeira fase da dosimetria, pois conforme ressaltou a instância ordinária, o "rigor justifica-se pela nocividade de uma das drogas apreendidas, qual seja, o crack" (fl. 18), conforme dispõe o art. 42 da Lei n. 11.343/06.
+Ressalto que a "exasperação da pena-base não se dá por critério objetivo ou matemático, uma vez que é admissível certa discricionariedade do órgão julgador, desde que vinculada a elementos concretos" (AgInt no HC 352.885/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 9/6/2016), como na hipótese dos autos. No mesmo sentido:
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO ILÍCIO DE ENTORPECENTES. DOSIMETRIA. AUMENTO DA PENA-BASE. ELEMENTO IDÔNEO. 45,99 G DE COCAÍNA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Exasperação da pena-base. Observa-se que as instâncias ordinárias, atentas as diretrizes do art. 42 da Lei de Drogas e do art. 59, do Código Penal, levaram em consideração a alta lesividade do entorpecente apreendido - 45,99 g de cocaína -, elemento idôneo a justificar a elevação da pena-base. Nesse compasso, ao contrário do que sustenta a defesa, mostra-se idônea a fundamentação, uma vez que, há muito tempo, a jurisprudência do STJ considera lídimo o recrudescimento da pena-base, tendo em vista a natureza da substância entorpecente. A propósito: HC n. 539.623/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 28/11/2019; AgRg no REsp n. 1.708.591/TO, Quinta Turma Rel. Min. Joel Ilan Paciornik, DJe de 10/08/2018; HC n. 368.262/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 06/11/2017; HC n. 381.590/SC, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 13/06/2017; e AgRg no AREsp n. 726.177/DF, Quinta Turma, Rel. Min. Felix Fischer, DJe de 20/11/2015.
+Agravo regimental desprovido.
+(AgRg no HC n. 676.959/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe de 30/8/2021.)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. FUNDAMENTOS CONCRETOS. QUANTUM PROPORCIONAL. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - A via do writ somente se mostra adequada para a análise da dosimetria da pena, quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+III - O juiz deve considerar, com preponderância sobre o previsto no artigo 59 do Estatuto Repressivo, a natureza e a quantidade da substância entorpecente, consoante o disposto no artigo 42 da Lei 11.343/2006.
+IV - No presente caso, o Tribunal de origem, de forma motivada e de acordo com o caso concreto, atento as diretrizes do art. 42 da Lei de Drogas e do art. 59, do Código Penal, considerou mormente a natureza dos entorpecentes apreendidos com o paciente, vale dizer, cocaína, substância de alto poder lesivo e que, portanto, mostra-se bastante para consubstanciar a exasperação da pena-base pela sua natureza.
+V - Quanto ao critério numérico de aumento para cada circunstância judicial negativa, insta consignar que "A análise das circunstâncias judiciais do art. 59 do Código Penal não atribui pesos absolutos para cada uma delas a ponto de ensejar uma operação aritmética dentro das penas máximas e mínimas cominadas ao delito. " (AgRg no REsp n. 143071/AM, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe n. 6/5/2015).
+VI - In casu, não há desproporção no aumento de um ano da pena-base, uma vez que há motivação particularizada, em obediência aos princípios da proporcionalidade e da individualização da pena, ex vi do art. 42 da Lei n. 11.343/06, ausente, portanto, notória ilegalidade a justificar a concessão da ordem de ofício.
+Agravo regimental desprovido.
+(AgRg no HC n. 631.774/SE, relator Ministro Felix Fischer, Quinta Turma, DJe de 29/3/2021.)
+Desse modo, inexiste flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Ante o exposto, voto pelo desprovimento do agravo regimental.
