@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Teodoro Silva Santos e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM RECURSO EM HABEAS CORPUS. AÇÃO PENAL EM CURSO. ALEGAÇÃO DE OCORRÊNCIA DE PRECLUSÃO. AUSÊNCIA DE ILEGALIDADE. DECISÃO QUE FAZ MENÇÃO À COMPLEMENTAÇÃO DE LAUDO. ANÁLISE DO MAGISTRADO SOBRE A DESNECESSIDADE DE COMPLEMENTAÇÃO. REEXAME FÁTICO E PROBATÓRIO.
+1. Mostra-se inviável que, na via eleita, seja analisada a necessidade ou não de produção de prova ou de alguma complementação, uma vez que houve a devida justificativa para a sua negativa por parte da instância ordinária. Seria necessária a análise do conjunto fático-probatório, o que não é admitido nesta Corte Superior.
+2. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental em embargos de declaração interposto por Caio César dos Santos contra decisão de minha Relatoria, a qual rejeitou os embargos de declaração. Esta foi a ementa da decisão (fl. 404):
+PENAL. PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO EM RECURSO EM HABEAS CORPUS. AÇÃO PENAL EM CURSO. ALEGAÇÃO DE NÃO SE TRATAR DE PERTINÊNCIA DE PROVA E, SIM, PRECLUSÃO. AUSÊNCIA DE OMISSÃO. DECISÃO QUE FAZ MENÇÃO À COMPLEMENTAÇÃO DE LAUDO. ANÁLISE DO MAGISTRADO SOBRE A DESNECESSIDADE DE COMPLEMENTAÇÃO. PERTINÊNCIA DA PROVA. IMPOSSIBILIDADE DE ANÁLISE POR PARTE DESTA CORTE. DECISÃO FUNDAMENTADA PELA INSTÂNCIA ORDINÁRIA.
+Embargos de declaração rejeitados.
+Alega a defesa que o presente caso diz respeito à preclusão, ou seja, não se trata de uma nova produção de prova ou avaliação sobre a pertinência da prova, mas sim que seja deferido o que já havia sido autorizado pelo Magistrado. Sustenta que não poderia o Magistrado deferir a produção de prova e posteriormente voltar atrás em sua decisão (fls. 411/416).
+Requer, diante disso, a reconsideração da decisão.
+É o relatório.
+EMENTA
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM RECURSO EM HABEAS CORPUS. AÇÃO PENAL EM CURSO. ALEGAÇÃO DE OCORRÊNCIA DE PRECLUSÃO. AUSÊNCIA DE ILEGALIDADE. DECISÃO QUE FAZ MENÇÃO À COMPLEMENTAÇÃO DE LAUDO. ANÁLISE DO MAGISTRADO SOBRE A DESNECESSIDADE DE COMPLEMENTAÇÃO. REEXAME FÁTICO E PROBATÓRIO.
+1. Mostra-se inviável que, na via eleita, seja analisada a necessidade ou não de produção de prova ou de alguma complementação, uma vez que houve a devida justificativa para a sua negativa por parte da instância ordinária. Seria necessária a análise do conjunto fático-probatório, o que não é admitido nesta Corte Superior.
+2. Agravo regimental improvido.
+VOTO
+Conforme afirmado na decisão ora agravada, foi mencionado que a negativa foi de complementação do laudo, ou seja, a instância ordinária entendeu que o indeferimento do pedido de complementação do laudo está devidamente fundamentado. Confira-se parte do acórdão (fls. 341/342 - grifo nosso):
+ ..
+Observa-se, de proêmio, que se trata, no caso, de reiteração dos mesmos fundamentos e pedidos veiculados nos Habeas Corpus, a saber, a complementação dos laudos periciais, através da manifestação do perito oficial ou de outros especialistas nas áreas de ortopedia e balística, a fim de apresentar resposta aos quesitos questionados, o que possivelmente ensejaria a absolvição sumária do agravante.
+ ..
+Vale destacar, ainda, que a autoridade coatora indeferiu o pedido de complemento às respostas apresentadas aos quesitos da defesa, considerando a elaboração de dois laudos complementares requeridos pela defesa e já juntados e a proximidade da audiência de instrução designada para o dia 21 de junho, momento oportuno para analisar as demais provas e viabilizar a necessidade da complementação do laudo.
+ ..
+Não há, portanto, omissão ou qualquer contradição no acórdão, mas sim decisão contrária ao interesse da parte. Mostra-se inviável que, na via eleita, seja analisada a necessidade ou não de produção de prova ou de alguma complementação, uma vez que houve a devida justificativa para a sua negativa por parte da instância ordinária. Seria necessária a análise do conjunto fático-probatório, o que não é admitido nesta Corte Superior.
+Ainda que deferida a formulação de quesitos, não significa que a parte poderá fazer outros requerimentos futuros por entender que o laudo se encontra falho ou omisso. Se a resposta foi insuficiente para a defesa, é uma matéria que envolve o mérito da causa, e se o Magistrado entender que não há necessidade de dar continuidade, trata-se, sim, da pertinência de elaboração da prova. O Magistrado trouxe a motivação de que já foram juntados aos autos dois laudos e que inexistem fatos novos a ensejar alguma reconsideração. Nesse sentido:
+ ..  Embora ao acusado no processo penal assista o direito à produção de prova, o Magistrado tem discricionariedade para indeferir, motivadamente, aquelas que reputar protelatórias, irrelevantes ou impertinentes, devendo a sua imprescindibilidade ser devidamente justificada pela parte. In casu, ao analisar o pleito defensivo de oitiva dos peritos como testemunhas, o d. Juízo monocrático, soberano na análise dos fatos e provas, concluiu que não restava evidente a necessidade de complementação do laudo produzido pelos peritos, concedendo, ainda, à il. Defesa, a oportunidade de indicação concreta da conveniência de tal providência na busca da verdade real, ônus do qual não se desincumbiu. Do exposto, verifica-se a consonância das referidas manifestações com a sedimentada jurisprudência dessa Corte Superior de Justiça, no sentido de que é lícito ao Juiz o indeferimento da produção de provas que entenda despiciendas, desde que o faça de forma fundamentada, o que ocorreu na hipótese. ..
+(AgRg no HC n. 691.007/BA, Ministro Jesuino Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 26/11/2021).
+Ante o e xposto, nego provimento ao agravo regimental.
