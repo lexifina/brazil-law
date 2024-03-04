@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE IMISSÃO DE POSSE - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECURSO. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. Ausência de omissão, contradição, obscuridade ou erro material do acórdão embargado. A insurgência não revela quaisquer dos vícios autorizadores da oposição dos embargos de declaração, os quais, ressalte-se, não podem ser utilizados como instrumento para a rediscussão do julgado.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de embargos de declaração, opostos por CLAIR DE OLIVEIRA e OUTRO, contra o acórdão proferido pela Quarta Turma desta E. Corte, sob a relatoria deste signatário, que negou provimento ao seu agravo interno.
+Referido aresto está assim ementado (fls. 283-284, e-STJ):
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE IMISSÃO DE POSSE - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA, DE PLANO, NÃO CONHECER DO RECURSO ESPECIAL. INSURGÊNCIA DA PARTE DEMANDADA.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação ao art. 1.022 do CPC. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta. Precedentes.
+2. Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal, o que não ocorreu no caso sob julgamento. Incidência do óbice da Súmula 211/STJ. 2.1. Não há contradição em se afastar a alegada ofensa ao art. 1.022 do CPC e, ao mesmo tempo, não conhecer do mérito da demanda por ausência de prequestionamento, desde que o acórdão recorrido esteja adequadamente fundamentado. Precedentes.
+3. A subsistência de fundamento inatacado, apto à manutenção do acórdão recorrido, atrai a incidência da Súmula 283 do STF, aplicável por analogia. Precedentes.
+4. Agravo interno desprovido.
+Aduz o embargante (fls. 298-302, e-STJ), em apertada síntese, a existência de omissão e obscuridade no acórdão embargado quanto à tese de que o Tribunal de origem incorreu em omissão ao deixar de analisar as alegações feitas pela parte recorrente.
+Resposta pelo embargado (fls. 457-460, e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE IMISSÃO DE POSSE - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECURSO. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. Ausência de omissão, contradição, obscuridade ou erro material do acórdão embargado. A insurgência não revela quaisquer dos vícios autorizadores da oposição dos embargos de declaração, os quais, ressalte-se, não podem ser utilizados como instrumento para a rediscussão do julgado.
+2. Embargos de declaração rejeitados.
+VOTO
+EXMO. SR. MINISTRO MARCO BUZZI (Relator): A irresignação não merece prosperar.
+1. Com efeito, nos estreitos lindes do art. 1.022 do CPC, os embargos de declaração apenas são cabíveis quando constar, na decisão recorrida, obscuridade, contradição ou omissão em ponto sobre o qual deveria ter se pronunciado, bem como na hipótese de erro material.
+A presente insurgência, entretanto, não revela quaisquer dos vícios autorizadores da oposição dos embargos de declaração, os quais, ressalte-se, não podem ser utilizados como instrumento para a rediscussão do julgado.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA PETIÇÃO NO CONFLITO DE COMPETÊNCIA. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. CARATER PROTELATÓRIO. MAJORAÇÃO DA MULTA. EMBARGOS DECLARATÓRIOS REJEITADOS. 1. Inexistentes as hipóteses do art. 535 do CPC/73, e 1.022 do NCPC, não merecem acolhida os embargos de declaração que têm nítido caráter infringente. 2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado. 3. Inexistindo a alegada omissão no acórdão embargado, mostra-se incabível o acolhimento dos aclaratórios. Precedentes. 4. Embargos de declaração rejeitados. (EDcl no AgRg na PET no CC 133.509/DF, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 11/05/2016, DJe 18/05/2016)  grifou-se
+No que tange às alegações do ora embargante, cumpre asseverar que o acórdão que julgou o agravo interno foi claro nas suas razões ao afastar a alegada violação ao art. 1.022, II, do CPC, asseverando que as questões postas em discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla e fundamentada, embora não se tenha acolhido as pretensões da parte recorrente.
+Na oportunidade, destacou-se (fl. 287, e-STJ):
+1. Inicialmente, como bem apontado na decisão ora agravada, não se verifica omissão no acórdão estadual acerca da alegação de incidência dos arts. 685-A, 686, I, e 692 do CPC/1973 e da tese de nulidade do edital de leilão extrajudicial e dos atos subsequentes, em vista da descrição equivocada do imóvel, da inexistência de prévia avaliação do bem e da sua adjudicação por preço vil.
+No particular, decidiu a Corte local (fl. 37, e-STJ):
+Como referido pela Desa. Nara Leonor Castro quando do julgamento do agravo de instrumento nº 70053999272, interposto de decisão proferida nos autos da ação de imissão de posse, e referido na sentença recorrida:
+As alegações do agravante quanto à ilegalidade da adjudicação realizada, quais sejam, descrição equivocada o imóvel, ausência de avaliação prévia e preço vil, não subsistem, porquanto não foram alegadas em momento oportuno.
+Como se vê, todas as questões postas em discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla e fundamentada, embora não se tenha acolhido as pretensões da parte recorrente, não havendo que se falar em ofensa ao art. 1.022, II, do CPC.
+Segundo entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota para a resolução da causa fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta, como ocorre na hipótese sub judice.
+Ressalta-se, ademais, que o ora embargante, em seu apelo nobre, especificamente quanto à apontada violação do art. 1.022 do CPC, se limitou a afirmar que "o r. acórdão da 18ª Câmara Cível contém, concessa vaenia, omissões e obscuridades, no que diz respeito à manifestação, da eg. Turma, notadamente quanto à incidência, ao caso dos autos, do art. 686, inciso I, do CPC/1973 (equivalente ao art. 886, inciso I, do CPC/2015), do art. 685-A do CPC/1973 (equivalente ao art. 876 do CPC/2015) e do art. 692 do CPC/1973 (equivalente ao art. 891 do CPC/2015)" (fl. 89, e-STJ, grifou-se), ou seja, para fins de tese a ser analisada em recurso especial, apenas estas omissões / obscuridades cabiam ser perscrutadas.
+Com efeito, o r. decisum embargado não possui vício a ser sanado por meio de embargos de declaração, uma vez que esta eg. Quarta Turma, ao examinar a controvérsia, foi clara ao afastar a alegação de violação do art. 1.022 CPC, não havendo nada a mais a ser esclarecido.
+Observa-se, portanto, que a parte embargante pretende, em verdade, obter uma decisão favorável às suas teses, o que deixa nítido o caráter infringente dos presentes embargos declaratórios, mormente porque a decisão atacada explicitou os motivos que levaram ao não provimento do recurso.
+Dessa forma, não cabe alegação de violação ao art. 1.022 do CPC, quando a decisão embargada está devidamente fundamentada, apenas não se adotando a tese da parte embargante.
+Não obstante a rejeição dos aclaratórios, deixa-se de se aplicar a multa prevista no art. 1.026, § 2º, do CPC, pois, em se tratando de primeiros embargos de declaração que não ostentam caráter manifestamente protelatórios, pressuposto para aplicação da medida, descabida a sua incidência neste momento processual.
+No entanto, desde já se adverte que a reiteração de embargos de declaração, com intuito de rediscussão do julgado, poderá caracterizar o aludido caráter manifestamente protelatório, ensejando a aplicação da multa citada.
+2. Do exposto, rejeitam-se os embargos de declaração.
+É como voto.
