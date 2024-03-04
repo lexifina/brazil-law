@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Mauro Campbell Marques votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERRUPÇÃO DO FORNECIMENTO DE ENERGIA ELÉTRICA. NEGATIVA DE PRESRTAÇÃO JURISDCIONAL. NÃO OCORRÊNCIA. DANOS MATERIAIS. REVISÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO 7/STJ. AGRAVO INTERNO DESPROVIDO.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em análise, Agravo Interno interposto pela COMPANHIA PAULISTA DE FORCA E LUZ contra decisão de fls. 1.264/1.274e, que conheceu do agravo para negar provimento ao Recurso Especial interposto contra o seguinte acórdão do Tribunal de Justiça do Estado de São Paulo:
+APELAÇÕES. AÇÃO INDENIZATÓRIA. DESISTÊNCIA DO RECURSO PELA REQUERENTE. CONDENAÇÃO DA REQUERIDA À REPARAÇÃO DE DANOS MATERIAIS (DANOS EMERGENTES E LUCROS CESSANTES). INCONTROVERSA INTERRUPÇÃO DO FORNECIMENTO DE ENERGIA ELÉTRICA NO PERÍODO COMPREENDIDO ENTRE AS 16H40MIN DO DIA 31/12/2014 E AS 14H29MIN DO DIA 02/01/2015. ALEGAÇÃO DA REQUERIDA/APELANTE DE OCORRÊNCIA DE FORTE CHUVA E QUEDA DE ÁRVORES SOBRE REDE DE TRANSMISSÃO. MORTE DE AVES E PREJUÍZO NA PRODUÇÃO DE OVOS DA REQUERENTE/APELADA. PROVA PERICIAL REALIZADA. NEXO CAUSAL DEMONSTRANDO EM LAUDO PERICIAL. APLICABILIDADE DA TEORIA DA RESPONSABILIDADE CIVIL OBJETIVA. ASSUNÇÃO DE RISCO ADMINISTRATIVO DADA À QUALIDADE DE PRESTADORA DE SERVIÇO PÚBLICO DA RÉ. INCIDÊNCIA DO ARTIGO 37, §6º, DA CONSTITUIÇÃO FEDERAL C. C. ARTIGO 14, DO CDC. EVENTO PREVISÍVEL QUE NÃO CONFIGURA FORÇA MAIOR OU CASO FORTUITO, POR SE INSERIR NO RISCO DA ATIVIDADE LUCRATIVA EXPLORADA PELA CONCESSIONÁRIA. DEVER DE PRESTAÇÃO DE SERVIÇO ESSENCIAL DE FORMA CONTÍNUA E SEGURA. RECURSO DA REQUERENTE NÃO CONHECIDO. RECURSO DA REQUERIDA NÃO PROVIDO.
+Em suas razões de Agravo Interno, a parte recorrente repisou os fundamentos e pugnou pelo conhecimento e provimento do Recurso Especial, bem como asseverou pela não incidência dos óbices sumulares; requereu, por fim, o conhecimento e provimento do presente Agravo Interno.
+Houve apresentação de contrarrazões.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERRUPÇÃO DO FORNECIMENTO DE ENERGIA ELÉTRICA. NEGATIVA DE PRESRTAÇÃO JURISDCIONAL. NÃO OCORRÊNCIA. DANOS MATERIAIS. REVISÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO 7/STJ. AGRAVO INTERNO DESPROVIDO.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator) : O Agravo Interno não merece prosperar.
+A decisão monocrática, ao julgar o Recurso Especial, asseverou que: a) não cabe em ofensa aos arts. 489 e 1.022, ambos do CPC, uma vez que o Tribunal de origem, ao negar provimento à apelação e analisar os Embargos de Declaração, enfrentou todas as circunstâncias que entendia necessárias ao deslinde da demanda; b) o Tribunal de origem enfrentou tais alegações de maneira apropriada e com base nos fatos e nas provas acostadas aos autos, discorrendo detalhadamente da forma que melhor lhe serviu ao deslinde da controvérsia, e da melhor prestação jurisdicional.
+No entanto, da leitura de suas razões de Agravo Interno, verifica-se que a parte recorrente não trouxe qualquer novo subsídio capaz de alterar os fundamentos da decisão ora agravada.
+Com efeito, não cabe violação dos arts. 489 e 1.022 do CPC/2015, quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte agravante.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ALEGADA NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. PEDIDO DE TUTELA DE URGÊNCIA. REQUISITOS. REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DOS ÓBICES DAS SÚMULAS 735 DO STF E 7 DO STJ. PROVIMENTO NEGADO.
+1. Não há que se falar em violação dos arts. 489 e 1.022 do CPC/2015 quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte agravante.
+(..)
+5. Agravo interno a que se nega provimento (AgInt no AREsp 2.175.538/RN, Rel. Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 5/6/2023, DJe de 22/6/2023).
+Do mesmo modo, consoante a orientação jurisprudencial do STJ, o óbice do Enunciado 7/STJ impede o conhecimento do Recurso Especial, por ambas as alíneas do permissivo constitucional.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PRECLUSÃO. ERRO MATERIAL NO CÁLCULO DO VALOR EXEQUENDO. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Conforme consignado no decisum agravado, o Tribunal de origem, quanto à violação apontada ao art. 494, I, do CPC/2015, consignou (fls. 1.424-1.437, e-STJ): "Ora, em termos práticos, não é porque o contrato supostamente prevê anatocismo e porque o cálculo ilegal não foi contestado a tempo pelo ente público que deverá prevalecer tal ilegalidade, quanto mais em se tratando de dinheiro público (condenação do ente estatal). Ademais, a interpretação que se dá ao próprio contrato é bastante oportuna à parte exequente (oportunista em verdade), pois sequer do instrumento da avença se retira a possibilidade de capitalização de juros de forma expressa. (..) Em suma, são muitos os precedentes, em casos idênticos ao presente, em que se deve aplicar a mesma tese, isto é, não há preclusão quanto a erro de cálculo na incidência de anatocismo contrário à sentença exequenda, o que, por se refletir como quebra da coisa julgada e ilegalidade flagrante, configura-se como matéria de ordem pública, nulidade, passível de conhecimento de ofício em qualquer tempo ou grau de jurisdição".
+2. Com efeito, inarredável a incidência da Súmula 7/STJ no caso. A alteração das conclusões adotadas pela Corte de origem, a fim de verificar a ocorrência ou não de erro material, tal como colocada a questão nas razões recursais, demanda novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial.
+3. Conforme a pacífica orientação jurisprudencial do STJ, o óbice da Súmula 7 do STJ impede o conhecimento do Recurso Especial por ambas as alíneas do permissivo constitucional.
+4. Agravo Interno não provido (AgInt no AgInt no AREsp 1.803.202/PR, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 14/9/2021, DJe de 13/10/2021).
+Nesse contexto, a decisão recorrida deve ser mantida pelos seus próprios fundamentos, porquanto mantida a validade dos argumentos que a sustentam, uma vez que não foram trazidos elementos aptos a desconstituí-la.
+Isso posto, nego provimento ao Agravo Interno.
+É o voto.
