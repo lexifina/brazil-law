@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15), interposto por REINALDO AUGUSTO CAMILO, contra decisão que não admitiu o recurso especial do insurgente.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a" da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 408-409, e-STJ):
+Ação de rescisão contratual cumulada com reintegração de posse. Sentença de parcial procedência. Apelações interpostas por ambas as partes. Justiça Gratuita. Requerido que demonstrou fazer jus à benesse reclamada. Prescrição. Não acolhimento. Pretensão de rescisão contratual que obedece ao prazo decenal, contado a partir do vencimento da última prestação contratual. Prazo prescricional interrompido por notificação judicial promovida pela autora em desfavor do réu. Pretensão não fulminada pela prescrição. Mérito. Compromisso de compra e venda. Inadimplemento das parcelas que restou incontroverso. Rescisão contratual declarada judicialmente, por fato imputado ao adquirente. Retenção dos valores pagos majorada para 20%, que se mostra mais adequada a compensar a vendedora das despesas operacionais, publicitárias e administrativas decorrentes do desfazimento da avença. Indenização pela fruição do imóvel que deve ser calculada sobre o valor atualizado do contrato, e não sobre o valor venal do imóvel, com termo inicial correspondente à data da imissão do adquirente na posse do bem. Indenização pelas benfeitorias e acessões devidas, à luz dos artigos 884 e 1.219 do Código Civil. Posse de boa-fé. Direito de retenção reconhecido. Termo inicial de incidência dos juros moratórios sobre o valor a ser restituído ao requerido fixado na data do trânsito em julgado. Sentença reformada. Recursos parcialmente providos.
+Nas razões do recurso especial (fls. 425-435, e-STJ), o insurgente alega ofensa aos artigos 202, I, II, e III, 205 e 206, §5º, I do CC; 172, I do CC/16 e 219, §1º do CPC/73, aduzindo que, ao se considerar como marco inicial interruptivo da prescrição, o vencimento da última parcela, em 25/05/2006, deixou de observar que o primeiro marco interruptivo da prescrição ocorrera no ano de 2000, por meio da ação de execução de título.
+Em juízo de admissibilidade, o Tribunal a quo inadmitiu o recurso especial (fls. 447-449, e-STJ), dando ensejo a interposição do presente agravo (fls. 452-461, e- STJ).
+Foi apresentada contraminuta (fls. 471-478, e-STJ).
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. O recorrente alega ofensa aos artigos 202, I, II, e III, 205 e 206, §5º, I do CC; 172, I do CC/16 e 219, §1º do CPC/73, aduzindo que, ao se considerar como marco inicial interruptivo da prescrição, o vencimento da última parcela, em 25/05/2006, deixou de observar que o primeiro marco interruptivo da prescrição ocorrera no ano de 2000, por meio da ação de execução de título.
+A esse respeito, assim concluiu a Corte de origem (fls. 413-414, e-STJ):
+Embora a última prestação do contrato tenha vencido em 25/05/2006, houve notificação judicial promovida pela compromissária-vendedora no ano de 2010 (fls. 72/174), interrompendo-se o prazo prescricional nos moldes do artigo 202, V, do Código Civil.
+E não se alegue que o ajuizamento da execução extrajudicial anterior teria interrompido o prazo prescricional e, portanto, não poderia haver nova causa interruptiva. De fato, o caput do artigo 202 determina que a interrupção da prescrição somente pode ser operada uma única vez.
+Fato é, no entanto, que a execução de título extrajudicial, ajuizada pela requerente, não consubstanciava a pretensão à rescisão do contrato, mas sim à cobrança das parcelas até então inadimplidas.
+Como se não bastasse, a execução de título extrajudicial foi proposta em outubro do ano 2000, portanto antes mesmo do início da fluência do prazo prescricional para a rescisão do contrato, que apenas ocorreu com o vencimento da última parcela, em 25/05/2006 (conforme planilha às fls. 99/101).
+Dessarte, sob qualquer ótica seria possível reconhecer a fulminação da pretensão rescisória por parte da compromissária-compradora, que postulou o desfazimento judicial do negócio jurídico dentro do prazo prescricional decenal, considerando a interrupção marcada pela notificação judicial.
+Assim, denota-se que o órgão julgador utilizou como razão de decidir, na hipótese, o fundamento segundo o qual, a interrupção da prescrição somente pode ser operada uma única vez. Porém, referido argumento não foi rebatido nas razões do apelo extremo e suficiente para manutenção do decisum, atraindo a aplicação da Súmula 283/STF, por analogia.
+Com efeito, a subsistência de fundamentos inatacados aptos a manter a conclusão do acórdão impugnado, impõe o desprovimento do apelo, a teor do disposto na Súmula 283 do STF, in verbis: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". Precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL E CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. COBERTURA DE PROCEDIMENTO MÉDICO. PARALISIA CEREBRAL. FUNDAMENTO DO ACÓRDÃO ESTADUAL NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283/STF. DANOS MORAIS. ACÓRDÃO ESTADUAL EM SINTONIA COM JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.087.379/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE DEFICIÊNCIA NA PRESTAÇÃO JURISDICIONAL. REEXAME DE PROVAS. SÚMULA 7 DO STJ. VIOLAÇÃO DE COISA JULGADA. AUSÊNCIA. INTERPRETAÇÃO. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO RECORRIDA. SÚMULA N. 283/STF.
+1. Não há que se falar em ofensa aos arts. 489 e 1.022 do Código de Processo Civil/2015 se o Tribunal de origem se pronuncia suficientemente sobre as questões postas a debate, apresentando fundamentação adequada à solução adotada, sem incorrer em nenhum dos vícios elencados no referido dispositivo de lei.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3."Não viola a coisa julgada a simples interpretação do título executivo, conferindo-lhe o alcance devido acerca de questão não delimitada expressamente" (AgInt nos EDcl no REsp n. 1.940.806/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 14/11/2022, DJe de 18/11/2022).
+4. A não impugnação específica dos fundamentos da decisão recorrida suficientes para mantê-la enseja o não conhecimento do recurso.
+Incidência da Súmula n. 283 do STF.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.321.499/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 18/12/2023, DJe de 21/12/2023.)
+2. Ante o exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conheço do agravo para não conhecer do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
