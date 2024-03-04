@@ -1,0 +1,84 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. PARCELAS DA CONDENAÇÃO. JUROS MORATÓRIOS. CORREÇÃO MONETÁRIA. APLICAÇÃO DA TAXA SELIC. AGRAVO INTERNO DESPROVIDO.
+1. "A jurisprudência desta Casa admite o prequestionamento implícito, entendido como o debate das teses jurídicas insertas nas normas apontadas como violadas, ainda que não haja referência expressa aos dispositivos da legislação federal, sendo essa a situação dos autos" (AgInt no REsp 2.080.316/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023).
+2. Segundo o entendimento do STJ, "após a entrada em vigor do Código Civil de 2002, atualmente, a taxa dos juros moratórios a que se refere o art. 406 do CC/2002 é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, sendo inviável a sua cumulação com outros índices de correção monetária" (AgInt no AREsp 1.199.672/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/10/2021, DJe de 08/10/2021).
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por LUIS CESAR ANGELI contra decisão que conheceu do agravo para dar parcial provimento ao recurso especial da DISTRIBUIDORA CAITE DE BEBIDAS LTDA., a fim de determinar a incidência da Taxa Selic, em substituição aos juros de mora e correção monetária.
+O agravante sustenta a falta de prequestionamento da matéria atinente a juros e correção monetária, especialmente quanto ao que dispõe o art. 406 do Código Civil.
+Alega o conflito da fixação da Taxa Selic, como índice de correção e juros, com as Súmulas 54 e 362 do STJ.
+A agravada apresentou impugnação (e-STJ, fls. 1.624/1.629).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. PARCELAS DA CONDENAÇÃO. JUROS MORATÓRIOS. CORREÇÃO MONETÁRIA. APLICAÇÃO DA TAXA SELIC. AGRAVO INTERNO DESPROVIDO.
+1. "A jurisprudência desta Casa admite o prequestionamento implícito, entendido como o debate das teses jurídicas insertas nas normas apontadas como violadas, ainda que não haja referência expressa aos dispositivos da legislação federal, sendo essa a situação dos autos" (AgInt no REsp 2.080.316/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023).
+2. Segundo o entendimento do STJ, "após a entrada em vigor do Código Civil de 2002, atualmente, a taxa dos juros moratórios a que se refere o art. 406 do CC/2002 é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, sendo inviável a sua cumulação com outros índices de correção monetária" (AgInt no AREsp 1.199.672/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/10/2021, DJe de 08/10/2021).
+3. Agravo interno desprovido.
+VOTO
+Em que pesem as bem lançadas razões recursais, não merece êxito o inconformismo, devendo ser confirmada a decisão agravada pelos próprios fundamentos.
+De início, cabe registrar que a questão relativa à incidência de correção monetária e juros na condenação foi decidida expressamente pelo acórdão recorrido, sendo desnecessária a referência expressa ao art. 406 do Código Civil. Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. PREQUESTIONAMENTO IMPLÍCITO. OCORRÊNCIA. SÚMULAS 5 E 7/STJ. NÃO INCIDÊNCIA. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL NÃO CONFIGURADA. SÚMULA 284/STF INA PLICÁVEL À ESPÉCIE. DIVERGÊNCIA JURISPRUDENCIAL. REQUISITOS. POSSIBILIDADE DE MITIGAÇÃO. RECURSO INTERPOSTO TAMBÉM COM FULCRO NA ALÍNEA A DO PERMISSIVO CONSTITUCIONAL. CONHECIMENTO DA CONTROVÉRSIA QUE SE IMPÕE. CONTRATO DE COMPRA E VENDA DE IMÓVEL. TAXA DE DECORAÇÃO. ABUSIVIDADE. REPETIÇÃO DE INDÉBITO. RESPONSABILIDADE CONTRATUAL. PRAZO PRESCRICIONAL DECENAL. MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC/2015. NÃO CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Casa admite o prequestionamento implícito, entendido como o debate das teses jurídicas insertas nas normas apontadas como violadas, ainda que não haja referência expressa aos dispositivos da legislação federal, sendo essa a situação dos autos.
+2. A conclusão no sentido da aplicação do lapso prescricional decenal decorreu apenas da revaloração dos fatos e das cláusulas narradas no próprio aresto impugnado, não incidindo os enunciados n. 5 e 7 da Súmula do STJ.
+3. Houve expressa alegação, no recurso especial, de ofensa ao art. 205 do Código Civil, não sendo possível falar, portanto, em deficiência de fundamentação decorrente de uma suposta ausência de indicação clara dos dispositivos legais violados. Inaplicabilidade do verbete sumular n. 284/STF.
+4. Ainda que não tivessem sido preenchidos os requisitos de admissibilidade para conhecimento do recurso interposto com fulcro na alínea c do permissivo constitucional, é certo que eles poderiam ser mitigados, diante do notório dissídio com a jurisprudência formada no âmbito deste Superior Tribunal.
+5. O recurso especial foi interposto não apenas com amparo na divergência jurisprudencial, mas também com base na alínea a do permissivo constitucional, razão pela qual, mesmo que não fosse possível o conhecimento da insurgência fulcrada na alínea c, ainda seria autorizada a análise da controvérsia fundada na violação à norma federal.
+6. Nos termos da jurisprudência desta Corte Superior, é aplicável o prazo prescricional decenal às pretensões de repetição de indébito baseadas em relação contratual.
+7. O mero não conhecimento ou a improcedência do agravo interno não enseja a necessária imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, tornando-se imperioso para tal que seja nítido o descabimento do recurso, o que não se verifica na espécie.
+8. Agravo interno desprovido."
+(AgInt no REsp n. 2.080.316/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023, g.n.)
+"DIREITO CIVIL E PROCESSUAL CIIVL. EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. CONSIGNAÇÃO EXTRAJUDICIAL. EFEITO LIBERATÓRIO. NÃO OCORRÊNCIA. NECESSIDADE DO DEPÓSITO INTEGRAL. ALEGAÇÃO DE CONTRADIÇÃO. SÚMULAS N. 7 E 211 DO STJ. ANÁLISE DA QUESTÃO JURÍDICA CONTROVERTIDA A PARTIR DAS DECISÕES PROFERIDAS. DESNECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. MATÉRIA DISCUTIDA NO ACÓRDÃO RECORRIDO. PREQUESTIONAMENTO IMPLÍCITO. AUSÊNCIA DE CONTRADIÇÃO. EMBARGOS REJEITADOS.
+1. Decisão embargada que decretou a rescisão do contrato firmado entre as partes, não reconhecendo o caráter liberatório da consignação em pagamento extrajudicial pelo fato de não ter sido depositada a prestação em sua integralidade.
+2. Um cenário é reanalisar o conjunto fático-probatório produzido nos autos, com apreciação de documentos e provas para o conhecimento do recurso especial, o que é vedado pela Súmula n. 7 do STJ, outra conjuntura significativamente diversa é colher das decisões proferidas nos autos e, notadamente, da decisão recorrida, o conteúdo do que fora objeto de cognição pelas instâncias inferiores para o julgamento da causa.
+3. A decisão prolatada pelo Tribunal a quo enfrentou de maneira expressa o tema relativo à consignação extrajudicial, conferindo-lhe efeito liberatório mesmo reconhecendo que não houve o depósito integral da prestação, embora não exista referência expressa aos dispositivos da legislação federal reputados como violados.
+4. A exigência do prequestionamento decorre da disciplina constitucional do recurso especial - causas decididas -, significando a necessidade de cognição e deliberação do Tribunal de origem sobre a matéria relativa ao dispositivo de lei federal tido por violado ou ao qual se nega vigência. Traduz a exigência de que a matéria controvertida já tenha sido apreciada pelas instâncias ordinárias para que se franqueie o acesso ao STJ e possibilite o conhecimento do recurso especial.
+5. A jurisprudência do STJ admite, contudo, o prequestionamento implícito, entendido como a necessidade de que as teses jurídicas relacionadas aos dispositivos apontados por violados tenham sido objeto de manifestação pelo Tribunal de origem, ainda que não haja referência expressa aos dispositivos da legislação federal.
+6. Os embargos de declaração prestam-se a suprir omissão, esclarecer obscuridade ou eliminar contradição na decisão embargada e não se destinam à reapreciação da causa ou recurso pelo próprio órgão julgador que proferiu a decisão.
+7. Ausência do vício apontado pelo embargante.
+8. Embargos de declaração rejeitados."
+(EDcl no REsp n. 1.831.057/MT, Relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 11/9/2023, DJe de 19/9/2023, g.n.)
+Na hipótese, o eg. Tribunal de origem entendeu que as parcelas da condenação deveriam ser acrescidas de juros e correção monetária, esta última calculada pelo INPC-IBGE.
+Nas razões do recurso especial, a ora agravada alegou que, em relação ao art. 406 do Código Civil, o acórdão recorrido divergiu da orientação firmada pelo STJ, segundo a qual a correção monetária e juros devem ser corrigidos pela Taxa Selic, como índice único.
+De fato, a conclusão do acórdão recorrido destoou do entendimento desta Corte Superior, já firme no sentido de que " a  taxa de juros moratórios a que se refere o art. 406 do Código Civil de 2002 é a SELIC" (AgInt no REsp 1.717.052/AL, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 08/03/2019), sendo inviável a cumulação da Taxa Selic com correção monetária.
+Nesse sentido:
+"AGRAVO INTERNO EM RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. VÍTIMA FATAL. COMPENSAÇÃO POR DANOS MORAIS. JUROS DE MORA. TAXA SELIC. PRECEDENTES.
+1. Nos termos do art. 406 do Código Civil, os juros moratórios legais correspondem àqueles que estiverem em vigor para a mora de impostos devidos à Fazenda Nacional que, atualmente, refere-se à taxa Selic, composta de juros moratórios e de correção monetária.
+2. É inviável a cumulação da taxa Selic com outros índices de atualização monetária.
+Agravo interno improvido."
+(AgInt no REsp n. 1.955.415/SP, Relator Ministro HUMBERTO MARTINS, Terceira Turma, julgado em 2/10/2023, DJe de 4/10/2023)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. JUROS DE MORA.
+VIGÊNCIA DO CÓDIGO CIVIL DE 2002. TAXA SELIC.
+1 - Na vigência do Código Civil de 2002, a taxa de juros de mora a que se refere o art. 406 é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, vedada a cumulação com correção monetária. Temas 99 e 112/STJ.
+2 - Agravo interno desprovido."
+(AgInt no REsp n. 2.028.543/DF, Relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 18/9/2023, DJe de 22/9/2023)
+"PROCESSUAL CIVIL E ADMINISTRATIVO. COMPOSIÇÃO FERROVIÁRIA. ACIDENTE. INDENIZAÇÃO. JUROS DE MORA. TAXA SELIC. APLICAÇÃO.
+1. Esta Corte tem o entendimento de que, na hipótese de responsabilidade extracontratual, a taxa dos juros moratórios prevista no art. 406 do Código Civil corresponde à SELIC, que é composta de juros moratórios e de correção monetária.
+2. Caso em que o Tribunal estadual, em demanda indenizatória por danos morais e materiais advindos de acidente ocorrido em embarque de composição ferroviária (trem urbano), aplicou juros de 1% ao mês do art. 406 do CC em lugar da taxa SELIC.
+3. Agravo interno desprovido."
+(AgInt no AREsp n. 2.074.535/RJ, Relator Ministro GURGEL DE FARIA, Primeira Turma, julgado em 5/12/2022, DJe de 27/1/2023)
+A aplicação da Taxa Selic não é incompatível com as Súmulas 54 e 362 do STJ, mesmo porque, no caso, não se discutiram os marcos temporais de incidência dos juros e correção monetária, mas apenas o índice aplicável, nos termos do art. 406 do Código Civil.
+Com efeito, segundo a jurisprudência pacífica desta Corte, nas condenações posteriores à entrada em vigor do Código Civil de 2002, aplica-se a Taxa Selic, que é composta de juros moratórios e de correção monetária, que não pode ser cumulada com nenhum outro índice. Nesse sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONEXÃO. NATUREZA RELATIVA. DANOS MORAIS. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. INDEFERIMENTO DE PROVA PERICIAL. INSTÂNCIAS ORDINÁRIAS QUE ENTENDERAM SER SUFICIENTE PROVA DOCUMENTAL JÁ ACOSTADA. REVISÃO. SUMÚLA 7/STJ. RESPONSABILIDADE OBJETIVA E SOLIDÁRIA DO PROPRIETÁRIO DO VEÍCULO. JUROS MORATÓRIOS. CORREÇÃO MONETÁRIA.
+1. A eventual inobservância da distribuição por prevenção de recursos relacionados a ações conexas possui natureza de nulidade relativa, que deve ser alegada no momento oportuno, sob pena de preclusão, e cujo reconhecimento demanda a demonstração do efetivo e concreto prejuízo (princípio do pas de nullité sans grief).
+Precedentes.
+2. O magistrado, com base no livre convencimento motivado, pode indeferir a produção de provas que julgar impertinentes, irrelevantes ou protelatórias para o regular andamento do processo, hipótese em que não se verifica a ocorrência de cerceamento de defesa.
+3. "Em matéria de acidente automobilístico, o proprietário do veículo responde objetiva e solidariamente pelos atos culposos de terceiro que o conduz e que provoca o acidente, pouco importando que o motorista não seja seu empregado ou preposto, ou que o transporte seja gratuito ou oneroso, uma vez que sendo o automóvel um veículo perigoso, o seu mau uso cria a responsabilidade pelos danos causados a terceiros. Provada a responsabilidade do condutor, o proprietário do veículo fica solidariamente responsável pela reparação do dano, como criador do risco para os seus semelhantes" (REsp 577902/DF, Rel. Ministro ANTÔNIO DE PÁDUA RIBEIRO, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/06/2006, DJ 28/08/2006, p. 279). Aplicação da Súmula n. 83/STJ.
+4. O termo inicial da correção monetária incidente sobre a indenização por danos morais é a data do arbitramento (Súmula n. 362/STJ).
+5. Os juros moratórios, tratando-se de responsabilidade extracontratual, incidem desde a data do evento danoso (Súmula n. 54/STJ).
+6. Nas condenações posteriores à entrada em vigor do Código Civil de 2002, aplica-se a taxa Selic, que é composta de juros moratórios e de correção monetária, devendo incidir a partir do arbitramento da indenização.
+7. Agravo interno não provido."
+(AgInt nos EDcl no REsp n. 1.872.866/PR, Relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 20/6/2022, DJe de 24/6/2022, g.n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO, APENAS NO TOCANTE AOS JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA. IRRESIGNAÇÃO DA AUTORA.
+1. A matéria atinente aos juros moratórios e correção monetária foi objeto do recurso de apelação da parte ora agravada, de forma ampla, tanto que expressamente pretendeu subsidiariamente, fossem arbitrados os juros e correção nos termos da lei, a contar da data do ajuizamento da ação.
+1.1 O Tribunal de origem, ao confirmar no acórdão recorrido a incidência de correção monetária na espécie e dos juros de 1% ao mês conforme fixados na sentença prequestionou o tema referente aos juros moratórios e correção monetária de forma ampla já que a sua incidência deve ser averiguada sob todos os aspectos e parâmetros estabelecidos na lei.
+1.2 A jurisprudência desta Corte é no sentido de que a questão pertinente aos juros moratórios e à correção monetária, por se tratar de matéria de ordem pública, pode ser conhecida de ofício pelo juiz, independentemente de pedido ou recurso da parte, e a alteração dos seus termos não configura julgamento extra petita nem reformatio in pejus. Precedentes.
+1.3 Além da parte então recorrente ter interposto recurso especial do capítulo atinente aos juros moratórios e correção monetária, autorizando, portanto, a análise da questão por esta Corte Superior, é cediço no STJ que após a entrada em vigor do Código Civil de 2002, atualmente, a taxa dos juros moratórios a que se refere o art. 406 do CC/2002 é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, sendo inviável a sua cumulação com outros índices de atualização monetária. Precedentes.
+2. Agravo interno desprovido."
+(AgInt no AREsp n. 1.199.672/PR, Relator Ministro MARCO BUZZI, Quarta Turma, julgado em 4/10/2021, DJe de 8/10/2021, g.n.)
+Daí o provimento do recurso especial para que as parcelas condenatórias sejam corrigidas unicamente pela Taxa Selic.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
