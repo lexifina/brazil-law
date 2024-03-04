@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSS contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7/STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fls. 317-318, e-STJ):
+PROCESSO CIVIL. APELAÇÃO CÍVEL. AÇÃO DE EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE DA PRETENSÃO EXECUTIVA. INOCORRÊNCIA. INÉRCIA PROPORCIONADA PELA MÁQUINA JUDICIÁRIA. APLICAÇÃO DA SÚMULA 106 DO STJ. JUROS DE MORA. DEMORA DA HABILITAÇÃO DOS HERDEIROS. NÃO CONFIGURADO. RECURSO NÃO PROVIDO.
+O cerne da questão é saber se a sentença do juízo a quo (fls. 176/178) não observou a prescrição intercorrente da pretensão executória. Argumenta o Instituto/apelante que decorreu mais de 05 (cinco) anos da inércia do exequente, o que enquadra o caso nos arts. 1º, 2º e 9º, do Decreto lei nº 20.910/32 e arts. 3º e 4º, do Decreto-Lei nº 4.597/1942.
+In casu, temos a Ação de Execução nº 0014204-82.1992.8.17.0001, no qual houve a homologação do cálculo no valor de R$ 30.212,10 (trinta mil, duzentos e doze reais e dez centavos) aos respectivos herdeiros do de cujos Severino Fortunato da Silva e aos causídicos dos beneficiados.
+Porém, analisando os fundamentos da sentença do juízo a quo: "É certo que o processo ficou parado no período entre os dias 02.10.2007 (fl. 140) e 03.03.2009 (despacho recebendo a procuração, fL 141) e posteriormente entre os dias 15.09.2009 (despacho determinando o envio dos autos ao contador, (fl. 142) e 17.07.2014 (data da juntada da petição de fls. 143), contudo, nos referidos lapsos temporais, os autos ficaram conclusos para despacho e aguardando a remessa para o contador, ou seja, não foi por culpa do autor que a execução deixou de avançar. Importante destacar que no período entre o falecimento do autor (16.08.1998, fl. 42) e a decisão que deferiu a habilitação (26.07.2002, fL 70), ocorreu a suspensão do processo até a regularização do polo ativo da relação, consoante o art. 313, I, do NCPC. Assim sendo, inexistindo previsão legal de prazo para a habilitação dos sucessores, não há que se falar em prescrição da pretensão de se habilitar ou da pretensão executória".
+Assim, não se vislumbra violação aos dispositivos levantados pelo instituto/ apelante no que concerne a prescrição intercorrente.
+A morosidade foi proporcionada pela inércia da própria justiça, ficando os autos conclusos ao magistrado no período de 2007 a 2009 e depois aguardando despacho para o envio à contadoria judicial no período de 2009 e 2014, não havendo, assim, a ocorrência da prescrição intercorrente, posto que até 2014 não se encontrava o feito dependendo da diligência, que competisse a parte autora/apelada promover.
+Como o atraso dos autos se deu por culpa das dificuldades do aparelho judiciário, que se manteve inerte, deve ser aplicada a Súmula nº 106 do STJ ao caso. Nesse sentido vê o seguinte julgado: (Agravo de instrumento PJE nº 0006592-17.2019.8.17.9000, Rel. André Oliveira da Silva Guimarães, 4º Câmara de Direito Público, julgado em 02/10/2019); (Apelação 485941-80032363-10.1991.8.17.0001, Rel. Fernando Cerqueira, 1º Câmara de Direito Público, julgado em 30/01/2018, DJe 07/02/2018).
+Quanto a não incidência dos juros de mora no período em que não houve a habilitação dos herdeiros após a morte do exequente (16/08/1998), resta claro nos autos que a habilitação ocorreu em 09 de fevereiro de 2000, conforme documentos acostados aos autos de fls. 39/56.
+Assim, as habilitações dos herdeiros ocorreram em tempo hábil, sem a interrupção da marcha processual, devendo ser mantida o valor homologado em sentença.
+Além do mais, a sentença homologatória dos cálculos levou em consideração a planilha elaborada pelo próprio Instituto/apelante.
+À unanimidade de votos, foi negado provimento à apelação.
+No recurso especial o recorrente alega violação dos artigos 1º do Decreto 20.910/1932; 2º e 3º do Decreto n. 4.597/1942 e 103, parágrafo único, da Lei n. 8.213/1991, sob o argumento de que, "considerando que o feito ficou paralisado por mais de cinco anos, verifica-se que restou consumada a prescrição executória"
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+No caso dos autos, verifica-se que a parte recorrente não apresentou argumentos a respeito da suposta ofensa aos artigos 2º e 3º do Decreto n. 4.597/1942 e 103, parágrafo único, da Lei n. 8.213/1991, nem explicou como o acórdão recorrido teria violado tais dispositivos, situação que não permite a exata compreensão da controvérsia e impede o conhecimento do recurso especial. Aplica-se à hipótese a Súmula 284/STF.
+A propósito:
+ADMINISTRATIVO E PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. BEM PÚBLICO INALIENÁVEL. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. FALTA DE ATAQUE A FUNDAMENTO AUTÔNOMO DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. MERA INDICAÇÃO DOS DISPOSITIVOS LEGAIS TIDOS POR VIOLADOS. DEFICIÊNCIA RECURSAL. SÚMULA 284/STF. OCUPAÇÃO INDEVIDA DE BEM PÚBLICO. MERA DETENÇÃO. SÚMULA 619/STJ.
+ ..
+3. A mera indicação do dispositivo legal tido por violado, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal, não enseja a abertura da via especial. Incidência da Súmula 284/STF.
+ ..
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.286.112/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 21/8/2023, DJe de 24/8/2023.)
+No que diz respeito à alegação de ofensa ao artigo 1º do Decreto 20.910/1932, o acórdão recorrido consignou o seguinte (fls. 319-320, e-STJ; grifos acrescidos):
+ ..
+In casu, temos a Ação de Execução nº 0014204-82.1992.8.17.0001, no qual houve a homologação do cálculo no valor de R$ 30.212,10 (trinta mil, duzentos e doze reais e dez centavos) aos respectivos herdeiros do de cujos Severino Fortunato da Silva e aos causídicos dos beneficiados.
+Porém, analisando os fundamentos da sentença do juízo a quo: "É certo que o processo ficou parado no período entre os dias 02.10.2007 (fl. 140) e 03.03.2009 (despacho recebendo a procuração, fl. 141) e posteriormente entre os dias 15.09.2009 (despacho determinando o envio dos autos ao contador, (fl. 142) e 17.07.2014 (data da juntada da petição de fls. 143), contudo, nos referidos lapsos temporais, os autos ficaram conclusos para despacho e aguardando a remessa para o contador, ou seja, não foi por culpa do autor que a execução deixou de avançar. Importante destacar que no período entre o falecimento do autor (16.08.1998, fl. 42) e a decisão que deferiu a habilitação (26.07.2002, fL 70), ocorreu a suspensão do processo até a regularização do polo ativo da relação, consoante o art. 313, 1, do NCPC. Assim sendo, inexistindo previsão legal de prazo para a habilitação dos sucessores, não há que se falar em prescrição da pretensão de se habilitar ou da pretensão executória".
+Assim, não se vislumbra violação aos dispositivos levantados pelo instituto/ apelante no que concerne a prescrição intercorrente.
+A morosidade foi proporcionada pela inércia da própria justiça, ficando os autos conclusos ao magistrado no período de 2007 a 2009 e depois aguardando despacho para o envio à contadoria judicial no período de 2009 e 2014, não havendo, assim, a ocorrência da prescrição intercorrente, posto que até 2014 não se encontrava o feito dependendo da diligência, que competisse a parte autora/apelada promover.
+Como o atraso dos autos se deu por culpa das dificuldades do aparelho judiciário, que se manteve inerte, deve ser aplicada a Súmula nº 106 do STJ ao caso. Nesse sentido vê o seguinte julgado:
+ ..
+Ocorre que o recorrente não impugnou a referida fundamentação nas razões do recurso especial que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Aplica-se ao caso a Súmula 283/STF.
+Nesse sentido:
+CUMPRIMENTO DE SENTENÇA. PRETENSÃO AO RECEBIMENTO DE VALORES RECONHECIDOS EM AÇÃO DE COBRANÇA RELATIVA A MANDADO DE SEGURANÇA. ÓBICE DA SÚMULA N. 283/STF. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO, ÓBICE DA SÚMULA N. 7/STJ. AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA QUE NÃO CONHECEU DO RECURSO.
+ ..
+II - O reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que o fundamento apresentado naquele julgado, acerca da coisa julgada, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai o óbice da Súmulas n. 283 do STF. Nesse sentido: AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de19/12/2018, AgInt no AREsp 1.572.038/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1.157.074/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 5/8/2020; AgInt no REsp 1.389.204/MG, relator Ministro Og Fernandes, Segunda Turma, DJe de 3/8/2020; AgInt no REsp 1.842.047/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; e AgRg nos EAREsp 447.251/SP, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 20/5/2016.
+ ..
+V - Agravo interno improvido.
+(AgInt no AREsp n. 2.407.991/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 11/12/2023, DJe de 18/12/2023.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. SISTEMA DE CONTROLE DE PRODUÇÃO DE BEBIDAS - SICOBE. RESSARCIMENTO DO CUSTO DO SISTEMA À CASA DA MOEDA. NATUREZA TRIBUTÁRIA. TAXA. ENRIQUECIMENTO SEM CAUSA. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. FALTA DE PREQUESTIONAMENTO DO ART. 205 DO CÓDIGO CIVIL. INCIDÊNCIA DA SÚMULA N. 211/STJ. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+IV - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 2.101.031/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIÇO DE FORNECIMENTO DE ÁGUA E ESGOTO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ESTAÇÃO DE TRATAMENTO DE ESGOTO. FALHA NA PRESTAÇÃO DE SERVIÇO DECORRENTE DA EMISSÃO DE ODORES PROVENIENTES DA UNIDADE DE TRATAMENTO DE ESGOTO. JUROS DE MORA. TERMO INICIAL. DATA DA CITAÇÃO. REVISÃO DOS HONORÁRIOS. FUNDAMENTO INATACADO. SÚMULA 283/STF. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles (Súmula 283 do STF, por analogia).
+4 . Agravo interno não provido.
+(AgInt no REsp n. 2.094.531/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 27/11/2023, DJe de 30/11/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO INTERCORRENTE DA PRETENSÃO EXECUTÓRIA. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
