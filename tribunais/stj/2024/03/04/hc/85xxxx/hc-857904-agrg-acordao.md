@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Teodoro Silva Santos e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. ESTELIONATO (POR 16 VEZES) E FALSIFICAÇÃO DE DOCUMENTO PÚBLICO. PRISÃO PREVENTIVA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. PLEITO DE ALTERAÇÃO DE ENDEREÇO PARA OUTRO ESTADO DA FEDERAÇÃO. AÇÃO PENAL QUE SE ENCONTRA COM A INSTRUÇÃO ENCERRADA E RÉU QUE RESPONDE A OUTROS PROCESSOS NA COMARCA. AGRAVO QUE SE LIMITA A REITERAR OS ARGUMENTOS DA IMPETRAÇÃO, SEM ATACAR O FUNDAMENTO CENTRAL QUE ENSEJOU O INDEFERIMENTO LIMINAR DA INICIAL. CONHECIMENTO. IMPOSSIBILIDADE. SÚMULA182/STJ. INCIDÊNCIA.
+Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Rodrigo Tosta Giroldo contra a decisão, da minha lavra, em que indeferi liminarmente o writ impetrado em seu favor, assim ementada (fl. 248):
+EXECUÇÃO PENAL. HABEAS CORPUS. ESTELIONATO (POR 16 VEZES) E FALSIFICAÇÃO DE DOCUMENTO PÚBLICO. PRISÃO PREVENTIVA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. PLEITO DE ALTERAÇÃO DE ENDEREÇO PARA OUTRO ESTADO DA FEDERAÇÃO. AÇÃO PENAL QUE SE ENCONTRA COM A INSTRUÇÃO ENCERRADA E PACIENTE QUE RESPONDE A OUTROS PROCESSOS NA COMARCA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
+O agravante reitera os argumentos da impetração e alega, em síntese, que o cerne da motivação, de que, desde sua prisão, seu último elo familiar e emocional que restava em Porto Velho, sua companheira, retornou ao Estado do Paraná para manter residência (frise-se aqui a entrega do imóvel que residia em comunhão com o paciente e sua própria segurança diante dos fatos que originaram as investigações policiais), transferindo para lá, todo o seu núcleo familiar. Além de sua companheira, seus pais idosos (80 anos a sua mãe e 75 anos o seu pai), sua irmã e suas filhas do primeiro casamento, todos agora mantêm residência no estado do Paraná, entre as cidades de Maringá e Paranavaí (fls. 264/265).
+Postula, ao final, a reconsideração da decisão hostilizada, a fim de que seja autorizada a sua mudança de domicílio para a cidade de Maringá/PR, sito à Rua Quintino Bocaiúva, 1.362, apto 204, Zona 7, a fim de que ele cumpra as medidas cautelares impostas, expedindo-se Carta Precatória àquela comarca para que forneça, instale e fiscalize o monitoramento eletrônico do p aciente, já que as negativas anteriores se deram em total constrangimento ilegal, conforme tudo o que foi trazido no writ (fl. 292).
+Contrarrazões do Ministério Público estadual (fls. 312/323). Instado a se manifestar, o Ministério Público Federal quedou-se silente (fl. 324).
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. ESTELIONATO (POR 16 VEZES) E FALSIFICAÇÃO DE DOCUMENTO PÚBLICO. PRISÃO PREVENTIVA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. PLEITO DE ALTERAÇÃO DE ENDEREÇO PARA OUTRO ESTADO DA FEDERAÇÃO. AÇÃO PENAL QUE SE ENCONTRA COM A INSTRUÇÃO ENCERRADA E RÉU QUE RESPONDE A OUTROS PROCESSOS NA COMARCA. AGRAVO QUE SE LIMITA A REITERAR OS ARGUMENTOS DA IMPETRAÇÃO, SEM ATACAR O FUNDAMENTO CENTRAL QUE ENSEJOU O INDEFERIMENTO LIMINAR DA INICIAL. CONHECIMENTO. IMPOSSIBILIDADE. SÚMULA182/STJ. INCIDÊNCIA.
+Agravo regimental não conhecido.
+VOTO
+O presente recurso não comporta conhecimento.
+Isso porque o agravante se limitou a reiterar os argumentos da impetração, sem refutar o fundamento central que justificou o indeferimento liminar da inicial, consistente no fato de que as instâncias ordinárias assentaram que a mudança de endereço prejudicaria a fiscalização do cumprimento das medidas cautelares diversas da prisão impostas, especialmente a de monitoração eletrônica, que teria que ser realizada por outro estado da Federação, em especial tendo em vista as outras ações penais a que respondia à época, razão pela qual, desconstituir o julgado ensejaria indesejável revolvimento fático probatório.
+Assim, tem incidência o Enunciado da Súmula 182/STJ.
+Em que pese a manifestação da defesa (fls. 366/372), juntando recente parecer favorável do Ministério Público estadual ao pleito de mudança de endereço do ora agravado, tenho que tal atualização do quadro fático deve ser analisada perante o juízo originário, ao qual foi direcionado o respeitável parecer ministerial , mais próximo dos fatos e provas da ação penal, em especial pois tem-se que os autos aguardam julgamento do recurso de apelação pela Corte estadual.
+Em face do exposto, não conheço do agravo regimental.
