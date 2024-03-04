@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro João Otávio de Noronha.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+1. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 235/251) interposto contra decisão desta relatoria que não conheceu do recurso especial.
+Em suas razões, a parte agravante alega que "o agravado é instituição financeira de grande porte e, conquanto possua agência bancária no município no qual reside o a gravante, encontra-se sediado no Distrito Federal. O trânsito da ação aviada em seu desfavor no foro desta capital ou naquele correspondente ao domicílio da parte agravante lhe é, portanto, indiferente, não lhe ensejando nenhum gravame ou dificuldade para a formulação da sua defesa, bem como não causa qualquer prejuízo financeiro a este E. TJDFT, vista a economia gerada pela implementação dos processos eletrônicos" (e-STJ fl. 241).
+Ao final, pleiteia a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+1. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+2. Agravo interno não conhecido.
+VOTO
+A insurgência não merece conhecimento.
+O recurso especial foi decidido nos seguintes termos (e-STJ fls. 222/225):
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a" e "c", da CF, contra acórdão do TJDFT assim ementado (e-STJ fl. 67):
+AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. CÉDULA DE CRÉDITO RURAL.COMPETÊNCIA TERRITORIAL. PROPOSITURA ALEATÓRIA. DECLÍNIO. POSSIBILIDADE.
+1. A competência para julgamento e processamento da ação de liquidação individual de sentença coletiva oriunda da Ação Civil Pública n. 94.0008514-1 é o foro do local onde se encontra a agência ou sucursal em que foi celebrado o negócio jurídico nos termos do art. 53, inc. III, alínea b, do Código de Processo Civil.
+2. O abuso do direito da parte e a interpretação lógico-sistemática do ordenamento jurídico permitem o afastamento da inteligência da Súmula n. 33 do Superior Tribunal de Justiça, em razão do interesse público.
+3. Agravo de instrumento desprovido.
+Nas razões apresentadas (e-STJ fls. 133/177), o recorrente aponta dissídio jurisprudencial e ofensa aos arts. 53, III, "a", e 65 do CPC/2015 e à Súmula n. 33/STJ, defendendo a competência de uma das Varas Cíveis de Brasília/DF, e não da Comarca de Poxoréu/MT, para o processamento da produção antecipada de provas relacionada à sentença coletiva proferida em desfavor do recorrido.
+Acrescenta que seria vedado ao julgador suscitar a incompetência relativa de ofício.
+Sustenta divergência interpretativa, pois estariam presentes os requisitos da relação consumerista entre as partes. Nesse contexto, defende que "o STJ também já acolheu, há muito, a teoria finalista aprofundada ou mitigada, que amplia o conceito de consumidor para alcançar a pessoa física ou jurídica que, embora não seja a destinatária final do produto ou serviço, esteja em situação de vulnerabilidade técnica (ausência de conhecimento específico acerca do produto ou serviço), jurídica (falta de conhecimento jurídico, contábil ou econômico e de seus reflexos na relação de consumo) ou fática (situações que colocam o adquirente do produto ou serviço em desigualdade frente ao fornecedor) em relação ao fornecedor" (e-STJ fls. 158/159).
+O recurso foi admitido na origem (e-STJ fls. 193/194).
+É o relatório.
+Decido.
+A tese de violação da Súmula n. 33/STJ não comporta análise no recurso. Nesse sentido: "para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula" (Súmula n. 518/STJ).
+Conforme a jurisprudência desta Corte Superior, "a competência para liquidação e cumprimento de sentença coletiva poderá ser do foro em que prolatada a decisão da ação civil pública ou do domicílio dos beneficiários ou seus sucessores. 2. Esse entendimento não legitima a promoção da liquidação do título executivo judicial coletivo em foro aleatório, sem nenhuma relação com as comarcas de domicílio dos beneficiários, ainda que se trate do foro de domicílio do substituto processual extraordinário, sob pena de afronta ao princípio do Juiz natural" (AgInt no REsp n. 1.866.563/AL, relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 5/6/2023, DJe de 9/6/2023).
+Do mesmo modo:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXPURGOS INFLACIONÁRIOS. CUMPRIMENTO DE SENTENÇA COLETIVA. COMPETÊNCIA. FORO DE DOMICÍLIO DO CONSUMIDOR OU DO LOCAL EM QUE PROFERIDA A DECISÃO NA AÇÃO COLETIVA. AGRAVO INTERNO DESPROVIDO.
+1. O entendimento prevalente nesta Corte Superior é de que a competência para a liquidação e o cumprimento de sentença coletiva poderá ser do foro em que prolatada a decisão da ação civil pública ou do domicílio dos beneficiários ou seus sucessores.
+2. Esse entendimento não legitima a promoção da liquidação do título executivo judicial coletivo em foro aleatório, sem nenhuma relação com as comarcas de domicílio dos beneficiários, ainda que se trate do foro de domicílio do substituto processual extraordinário, sob pena de afronta ao princípio do juiz natural (AgInt no REsp 1.866.563/AL, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 5/6/2023, DJe de 9/6/2023).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.298.479/SE, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/8/2023, DJe de 1º/9/2023.)
+O TJDFT seguiu tal entendimento, conforme se infere do seguinte excerto (e-STJ fls. 86/88):
+O controle de abusividade de cláusula de eleição de foro pode ser efetuado pelo juiz de ofício no início do processo (art. 63, § 3º, do Código de Processo Civil); a incompetência territorial é causa de extinção do processo no âmbito dos Juizados Especiais e, portanto, matéria de ordem pública (art. 51, inc. III, da Lei n. 9.099/1995); a competência do foro do domicílio do idoso para as ações que versem sobre direitos previstos no Estatuto do Idoso no âmbito da tutela coletiva é considerada absoluta (art. 53, inc. III, alínea e, do Código de Processo Civil).
+As hipóteses acima descritas são exemplos de interesse público na fixação da competência territorial e que não estão sujeitos à disponibilidade das partes. Há uma estreita relação entre jurisdição e competência. A jurisdição é uma função do Estado, com o objetivo de organizar os cidadãos para fins de interesse geral.
+A interpretação do art. 65 do Código de Processo Civil não deve ser conduzida sob o prisma liberal clássico, no qual se considera somente o interesse egoístico das partes, dissociado da finalidade social das normas. O processo civil deve ser interpretado conforme os valores e as normas fundamentais estabelecidos na Constituição Federal (art. 1º da Constituição Federal). O juiz deve atender aos fins sociais e às exigências do bem comum ao aplicar o ordenamento jurídico (art. 8º do Código de Processo Civil).
+O princípio do juiz natural impõe que as causas sejam processadas e julgadas pelo órgão jurisdicional previamente determinado a partir de critérios objetivos de atribuição de competência. É necessário que haja ao menos um elemento fático que justifique a opção do autor por determinado foro, dentre aqueles estipulados pelo ordenamento jurídico. A escolha aleatória ultrapassa a esfera de disponibilidade das partes e viola o princípio do juiz natural.
+Quem excede os limites impostos pelo fim econômico ou social, pela boa-fé ou pelos bons costumes comete abuso de direito (art. 187 do Código Civil). O excesso é aferível de modo objetivo, independentemente de dolo ou culpa. O repúdio ao exercício abusivo de um direito não está limitado ao Código Civil, encontra-se em outros diplomas legislativos, como no art. 5º da Lei de Introdução às normas do Direito Brasileiro ou nos arts. 79 e 80 do Código de Processo Civil.
+A proibição ao abuso de direito expandiu-se para a regulação de outras esferas de direitos, abandonou a posição subjetiva, baseada na intencionalidade, e passou a adotar um critério objetivo, guiado pelas ideias de normalidade-anormalidade, função-disfunção, proveito-prejuízo, mais apropriadas para lidar com os fenômenos de litigiosidade em massa.
+A Segunda Câmara Cível do Tribunal de Justiça do Distrito Federal e dos Territórios decidiu que a escolha do foro não deve ser realizada ao acaso. O autor deve respeitar os limites legais a fim de não violar a racionalidade do sistema de organização judiciária, formulado no intuito de equilibrar as distribuições e oferecer a tutela jurisdicional adequada. A escolha aleatória e injustificada viola o interesse público e o princípio do juiz natural.
+(..)
+O agravado Banco do Brasil S.A. possui agências bancárias em quase todos os municípios do país, o que permite que cada estabelecimento seja considerado domicílio para os atos nele praticados nos termos do art. 75, § 1º, do Código Civil.
+O art. 53, inc. III, alínea b, do Código de Processo Civil prevê que é competente o foro do local onde se acha agência ou sucursal quanto às obrigações que a pessoa jurídica contraiu.
+A existência de filial do Banco do Brasil S.A. no local de assunção da obrigação afasta a incidência do art. 53, inc. III, alínea a, do Código de Processo Civil, que possui aplicação subsidiária em caso de comprovação da ausência da pessoa jurídica executada no local de pagamento do título. O art. 381, § 2º, do Código de Processo Civil reforça esse entendimento, na medida em que o foro do local da celebração do negócio jurídico prevalece sobre a sede da pessoa jurídica agravada.
+O foro da Justiça do Distrito Federal e dos Territórios escolhido no caso concreto é alheio ao domicílio do agravante e ao domicílio da agência do Banco do Brasil S.A. em que se firmou o negócio jurídico, além de não guardar qualquer relação com os fatos nos quais a demanda está embasada.
+Estando o acórdão impugnado em sintonia com a jurisprudência assente neste Tribunal Superior, incide a Súmula n. 83/STJ, que se aplica como óbice tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+E ainda, não tendo a parte impugnado o conteúdo normativo dos arts. 8º, 63, § 3º, 75, § 1 º, 79, 80 e 381, § 2º, do CPC/2015, 5º da LINDB e 187 do CC/2002 aplicável a Súmula n. 283/STF.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais o recorrente não se desincumbiu.
+Registre-se, por fim, que "a divergência entre julgados do mesmo Tribunal não enseja recurso especial" (Súmula n. 13/STJ).
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
+É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ). Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO. DECISÃO EM AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. TUTELA ANTECIPADA. APELAÇÃO. EFEITOS. RECEBIMENTO. HARMONIA DE ENTENDIMENTO. SÚMULA 83 DO STJ. APLICAÇÃO. FALTA DE IMPUGNAÇÃO AO ÚNICO FUNDAMENTO DA DECISÃO AGRAVADA. ARTIGOS 932, III, e 1.021, § 1º, DO CPC DE 2015. SÚMULA 182 DO STJ.
+(..)
+2. Nos termos do art. 932, inciso III, e 1.021, § 1º, do Código de Processo Civil/2015, não se conhece de agravo cujas razões não impugnam especificamente o único fundamento da decisão agravada. Aplicação, por analogia, do enunciado 182 da Súmula do STJ.
+3. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo do recurso, o desacerto da decisão recorrida.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.152.930/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 2/10/2018, DJe 16/10/2018.)
+O entendimento da Corte local, sobre a competência da Comarca de Poxoréu/MT para o processamento da produção antecipada de provas, foi mantido com base, cumulativamente, nas Súmulas n. 283 do STF e 83 e 518 do STJ e ante a inaptidão da divergência interpretativa, por ausência de cotejo analítico e de indicação das normas objeto de interpretação divergente.
+A respeito da Súmula n. 283/STF, a parte não se manifestou, o que atrai a Súmula n. 182/STJ.
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+É como voto.
