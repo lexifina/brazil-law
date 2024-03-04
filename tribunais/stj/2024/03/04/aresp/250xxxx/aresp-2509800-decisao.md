@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CEDAE em face de decisão proferida pelo Tribunal de Justiça do Estado do Rio de Janeiro, que negou admissibilidade a recurso especial manejado contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. Cumprimento de sentença. Decisão agravada que rejeitou a impugnação à execução. Cálculos elaborados pela Contadoria Judicial, órgão auxiliar do juiz, dotado de formação técnica e isenção processual, de sorte que o valor apurado apenas reflete a média dos valores correspondentes aos 03 (três) meses anteriores ao período do indébito (abr/2000 a jul/2002), diante da inércia da CEDAE em apresentar elementos necessários à elaboração da planilha. Impugnação genérica e desprovida de elementos mínimos a indicar o seu eventual desacerto. Decisão agravada mantida. RECURSO DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, interposto com base na alínea a do permissivo constitucional, o recorrente aponta violação aos arts. 489, II e III, e 1022, II, do CPC.
+Em síntese, aduz que: a) o Tribunal de origem não se manifestou sobre questão relevante suscitada nos embargos de declaração; b) houve "inobservância do juízo quanto a aplicação da Súmula 519 do STJ para o caso em tela, haja vista que quando do julgamento da impugnação ao cumprimento de sentença manejada pela ora Recorrente, o i. Juízo a quo fixou o pagamento honorários advocatícios em favor do impugnado, aliado a inobservância da contadoria judicial quando da elaboração de seus cálculos, não expurgando separadamente os juros no momento da atualização e, assim, fazendo incidir juros sobre juros". (fl. 88 e-STJ)
+A inadmissão do recurso especial se fez à consideração de que os embargos de declaração foram regularmente apreciados, bem como incide o óbice da Súmula 7 do STJ.
+Nas razões de agravo, postula o processamento do recurso especial, haja vista ter cumprido todos os requisitos necessários à sua admissão.
+É o relatório. Passo a decidir.
+Presentes os pressupostos de admissibilidade do agravo, passo a análise do especial.
+A pretensão não merece acolhida.
+Isso porque, sem razão o recorrente quanto à alegada violação aos arts. 489 e 1.022 do CPC, sob a alegação de que o Tribunal de origem não se manifestou sobre questões suscitadas nos embargos declaratórios.
+Cumpre asseverar que as proposições poderão ou não ser explicitamente dissecadas pelo magistrado, cabendo-lhe decidir a questão com seu livre convencimento, baseando-se nos aspectos pertinentes à hipótese e na legislação que entender aplicável ao caso concreto, não estando obrigado a rebater um a um os argumentos apresentados pela parte quando já encontrou fundamento suficiente para decidir a controvérsia.
+A propósito, os seguintes trechos do acórdão embargado a corroborar referida fundamentação (fl. 80 e-STJ):
+(..)
+In casu, o recurso não tem caráter integrativo, mas, apenas, almeja a rediscussão de matéria já analisada e decidida, uma vez que denota-se que esta Câmara enfrentou a alegação de que haveria excesso de execução nos cálculos elaborados pela Contadoria Judicial, fundamentando que o valor apurado (R$ 2.474.482,10) espelhava o valor do débito já fixado pela E. 6ª Câmara Cível, ao julgar o recurso de apelação n. 0031828-26.2011.8.19.0001, cuja decisão consta do v. acórdão de fls.1.187/1.192 da ação originária.
+Nesse passo, não haveria como o Contador Judicial efetuar a apuração do valor devido fazendo incidir "juros sobre juros", na medida em que o auxiliar do Juízo elaborou os cálculos seguindo a diretriz já fixada por esse E. Colegiado, por força do v. acórdão de fls. 1.1187/1.192, motivo pelo qual ratifica-se a fundamentação do acórdão embargado.
+Assim, não assiste razão a Ré/embargante, e por dois motivos, quais sejam: primeiramente, porque não se constata quaisquer vícios no julgado, que analisou, à exaustão e à inteireza, as teses arguidas nas razões do recurso de apelação e, em segundo, em razão de os embargos declaratórios não se prestarem à revisão das teses já analisadas em apelação, nem do conjunto probatório reunido nos autos.
+Registra-se que o Poder Judiciário não está obrigado a emitir expresso juízo de valor a respeito de todas as teses e artigos de lei invocados pelas partes, bastando para fundamentar o decidido fazer uso de argumentação adequada, ainda que não espelhe quaisquer das linhas de argumentação invocadas.
+Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489, § 1º E 1.022, II, DO CPC/15. ACÓRDÃO BASEADO EM FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL MATÉRIA INSUSCETÍVEL DE SER EXAMINADA EM RECURSO ESPECIAL.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+2. A Corte de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, circunstância que torna imprópria a análise da insurgência pelo STJ em recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1630265/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 22/11/2016, DJe 06/12/2016)
+Ademais, como é cediço, a omissão apta a ensejar os aclaratórios é aquela advinda do próprio julgamento e prejudicial à compreensão da causa, e não aquela que entenda o embargante.
+Assim, não havendo no acórdão recorrido a existência de vício que caracterize ausência de prestação jurisdicional, e estando fundamentada a decisão, não fica caracterizada ofensa aos citados dispositivos.
+No que se refere à alegação de que houve "inobservância do juízo quanto a aplicação da Súmula 519 do STJ para o caso em tela, haja vista que quando do julgamento da impugnação ao cumprimento de sentença manejada pela ora Recorrente, o i. Juízo a quo fixou o pagamento honorários advocatícios em favor do impugnado, aliado a inobservância da contadoria judicial quando da elaboração de seus cálculos, não expurgando separadamente os juros no momento da atualização e, assim, fazendo incidir juros sobre juros" (fl. 88 e-STJ), infere-se das razões do especial que a parte recorrente limitou-se a alegar genericamente sua irresignação, sem, contudo, indicar especificamente, quais foram os dispositivos supostamente violados pelo v. acórdão recorrido.
+Incide, portanto, o disposto na Súmula 284/STF, ante a deficiência na fundamentação do recurso.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL. SÚMULA N. 284 DO STF. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. INCIDENTE DE RESERVA DE BENS. INVENTÁRIO. RECURSO CABÍVEL. PRINCÍPIO DA FUNGIBILIDADE. DECISÃO MANTIDA.
+1. O conhecimento do recurso especial exige a indicação dos dispositivos legais supostamente violados. Ausente tal requisito, incide a Súmula n. 284/STF.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AgRg nos EDcl no REsp 1512522/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 14/06/2016, DJe 20/06/2016)
+Por fim, cumpre ressaltar que "Não cabe ao STJ apreciar violação de súmula em recurso especial, visto que o enunciado não se insere no conceito de lei federal, previsto no art. 105, III, "a", da CF, consoante dispõe a Súmula n. 518 do STJ". (AgInt no AREsp n. 1.798.600/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE EXCESSO NA EXECUÇÃO. CÁLCULO ELABORADO PELA CONTADORIA JUDICIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO ESPECÍFICA DOS DISPOSITIVOS SUPOSTAMENTE VIOLADOS PELO ACÓRDÃO RECORRIDO. SÚMULA 284/STF. ALEGADA VIOLAÇÃO DE SÚMULA. NÃO CABIMENTO. SÚMULA N. 518 DO STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
