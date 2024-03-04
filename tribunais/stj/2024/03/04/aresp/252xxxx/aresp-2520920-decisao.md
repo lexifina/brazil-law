@@ -1,0 +1,24 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça local na Apelação Criminal n. 0038315-94.2020.8.19.0001.
+Nas razões do recurso especial, o Parquet aponta violação do art. 157 do Código Penal e 155 do Código de Processo Penal e argumenta, em suma, a presença de provas suficientes para amparar a condenação do recorrente.
+O recurso especial foi inadmitido no juízo prévio de admissibilidade realizado pela Corte de origem, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo ou, caso conhecido, pelo seu não provimento (fls. 556-560).
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial que, por sua vez, não suplanta o juízo de prelibação, haja vista a incidência da Súmula n. 7 do STJ.
+Consta dos autos que o agravante foi absolvido da imputação da conduta tipificada no art. 157, §2º, VII, do Código Penal (violência exercida com emprego de arma branca).
+Em relação à insuficiência das provas, assim ficou consignado no acórdão (fls. 487-488, destaquei):
+"Finda a instrução criminal, nos sucessivos atos processuais, e no iniciado, ou seja, na abertura da ação penal, tem-se uma peça pórtico em que não há qualquer descrição das vítimas, somente a referência de que seriam os passageiros do coletivo, e em uma indicação genérica, impossibilitando qualquer análise sobre a conduta imputada, e mesma a modalidade em que praticada, causando evidente prejuízo à defesa, e não permitindo uma análise do fato criminoso, suas circunstâncias, pois sem sujeitos passivos daquele, que pudessem em oitiva, apresentar suas versões, a permitir a análise frente à peça acusatória e assim, a pretensão punitiva estatal.
+Sendo insuficiente a confissão do ora apelante sem outro dado em concreto a apontá-lo, na hipótese, as vítimas, Artigo 197 do CPP que deve ser atendido".
+Desta feita, voto no sentido de prover o apelo com a absolvição na forma do art. 386, VII, do CPP, e a expedição de alvará de soltura, se por "al" não estiver preso.
+Dessa forma, constato que a Corte estadual, após minuciosa análise do acervo fático-probatório carreado aos autos, concluiu pela inexistência de elementos concretos e coesos a ensejar a absolvição do agravante pelo crime, em especial pela carência de provas.
+Portanto, para alterar tal conclusão, como pugna o recurso especial, seria necessária a incursão no conjunto fático-probatório delineado nos autos, procedimento vedado no âmbito do apelo raro, a teor da Súmula n. 7 do Superior Tribunal de Justiça.
+Ilustrativamente, mutatis mutandis:
+"1. Afastar a condenação imposta pela instância antecedente, a fim de absolver os recorrentes por insuficiência de provas de autoria, demanda o reexame do caderno fático-probatório dos autos, o que é vedado conforme Súmula n. 7 do Superior Tribunal de Justiça  ..  6. Recurso especial parcialmente conhecido e, nesta extensão, parcialmente provido, para reduzir as penas dos recorrentes pelo crime de roubo" (REsp n. 1.202.111/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 31/3/2016).
+Quanto ao sistema de valoração das provas, certo é que, no processo penal brasileiro, como dito, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir o mérito da pretensão punitiva, para condenar ou absolver, desde que o faça fundamentadamente.
+Nesse contexto, o legislador ordinário, buscando dar maior efetividade às garantias constitucionais previstas para os acusados em processo penal, estabeleceu, expressamente, a vedação à condenação baseada exclusivamente em provas produzidas no inquérito policial, consoante o disposto no art. 155, caput, do Código de Processo Penal.
+Isso significa que não se admite, no ordenamento jurídico pátrio, a prolação de um decreto condenatório fundamentado exclusivamente em elementos informativos colhidos durante o inquérito policial, no qual inexiste o devido processo legal (com seus consectários do contraditório e da ampla defesa).
+O juiz pode deles se utilizar para reforçar seu convencimento, desde que corroborados por provas produzidas durante a instrução processual ou que esses elementos informativos sejam repetidos em juízo, assumindo, tecnicamente, a natureza de prova.
+No caso, diferentemente do alegado, verifico que o Tribunal estadual sopesou a prova e os elementos informativos colhidos extrajudicialmente e concluiu não haver standard probatório para corroborar a confissão do réu.
+À vista do exposto, conheço do agravo para, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
