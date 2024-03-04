@@ -1,0 +1,51 @@
+DECISÃO
+DIEGO DE MELO agrava da decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1500963-11.2020.8.26.0073.
+Depreende-se dos autos que a agravante foi condenada à pena de 5 anos e de reclusão, no regime inicial semiaberto, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Nas razões do recurso especial, a defesa aponta violação aos "Artigos 158 e 167, do Código de Processo Penal, e 50, da Lei n. 11.343/2006, uma vez que inexistem provas de materialidade do delito de tráfico de drogas, por não ter havido apreensão das substâncias supostamente comercializadas, a fim de se certificar que se tratava de drogas" (fl. 363.
+O recurso foi inadmitido na origem durante o juízo prévio de admissibilidade, o que ensejou a interposição deste agravo.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do agravo .
+Decido.
+Dado que o recurso especial preenche os pressupostos mínimos de admissibilidade, passo a analisá-lo.
+I. Absolvição por ausência de materialidade
+De acordo com o Juiz sentenciante, a materialidade do delito de tráfico ficou devidamente comprovada "através do boletim de ocorrência (..), relatório de investigação (..), auto de exibição e apreensão (..), relatório policial final (..) e prova testemunhal" (fl. 286).
+O Magistrado salientou o seguinte (fls. 289-292, destaquei):
+Resta evidente a atuação do acusado no delito descrito nos exatos termos da peça inicial, sendo o ato ilícito relatado pelos policiais civis em seus depoimentos, que foram apresentados de forma harmônica e consistente.
+Cabe ressalta-se que os depoimentos dos policiais são suficientes para, junto com as demais provas, comprovarem a existência do tráfico, e motivar um decreto condenatório ao réu, vez que dotados de fé pública e idoneidade em suas alegações.
+Todos estes elementos devem ser aliados à presunção de veracidade que possuem, por serem agentes públicos, e fazem com que exista a possibilidade de concluir com tranquilidade e segurança de que o réu praticava tráfico de entorpecentes.
+Veja que através das interceptações telefônicas realizadas nos autos do processo nº. 0002267-22.2020.8.26.0073, pôde-se obter provas de materialidade e autoria do delito em questão, de modo que demonstram com clareza que o acusado estava exercendo o comércio ilícito de drogas.
+Segundo relatório de investigação de fls. 61/63, foi coletado material durante a quebra de sigilo telefônico, autorizado por autoridade judiciaria, sendo que foram separados os seguintes diálogos:
+ ..
+Foi finalizado o relatório mencionando que: "No decorrer da interceptação telefônica, cujos trechos mais importantes foram acima descritos e toda interceptação será degrade em mídia não há dúvida de que o investigado Diego Melo trafica entorpecentes.
+No mais são raras as vezes que o investigado Diego se comunica com seus clientes ou parceiros, usando linhas telefônicas celulares tradicionais, ele se comunica mais usando o aplicativo de celular "WhatsApp" ou outros que porventura que estejam instalados em seu aparelho celular. Sobremais, usa poucas palavras ao telefone, tudo para não ser alcançado pelos rigores da lei.
+ ..
+Através do relatório de investigação, bem como graças a interceptação telefônica, é possível afirmar com segurança que o acusado vendeu, ofereceu, teve em depósito, e forneceu, quantidades não apuradas de maconha.
+ ..
+E ainda que não tenha sido flagrada a situação de venda, a incidência de qualquer um dos verbos considera-se consumado o crime de tráfico de drogas.
+Diante desse provas, não há dúvida de que as conversas se referem a atividade ilícita do tráfico de drogas.
+A seu turno, o Tribunal de origem ratificou a condenação e salientou o seguinte (fl. 351, destaquei):
+Ora, apesar de não explícitas, as falas de Diego não deixam dúvida de que ao menos ofereceu e forneceu entorpecentes, condutas expressamente imputadas.
+Nesse cenário, tendo em vista ainda as suspeitas que já incidiam sobre o recorrente, sérias o bastante para fundamentar autorização de interceptação telefônica e mandados tanto de prisão quanto de busca, irrelevante que não encontrados tóxicos nem ouvidos consumidores.
+Conforme bem salientado no precedente citado na sentença, "a ausência de apreensão da droga não torna a conduta atípica se existirem outros elementos de prova aptos a comprovarem o crime de tráfico. No caso, a denúncia fundamentou-se em provas obtidas pelas investigações policiais, dentre elas a quebra de sigilo telefônico, que são meios hábeis para comprovar a materialidade do delito perante a falta da droga, não caracterizando, assim, a ausência de justa causa para ação penal" (STJ, HC131.455/MT, j. em 02.08.2012, rel. Min. Maria Thereza de Assis Moura).
+Logo, a condenação de Diego por tráfico era mesmo medida que se impunha.
+Contudo, a jurisprudência desta Corte Superior tem encontrado solução diversa para casos semelhantes. Menciono aqui o HC n. 681.724/MG (DJe 5/11/2021), da relatoria do Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), em que a Sexta Turma decidiu ser "imprescindível para a demonstração da materialidade do crime de tráfico a apreensão de drogas" (REsp n. 1.865.038/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 25/8/2020, DJe4/9/2020) (grifei)".
+Nesse sentido:
+ ..
+3. Hipótese em que o édito condenatório pelo delito do art. 33, caput, da Lei n. 11.343/2006 está amparado apenas em testemunhos orais e informações extraídas de interceptações telefônicas. Não houve a apreensão da droga e, obviamente, inexiste o laudo de exame toxicológico, único elemento hábil a comprovar a materialidade do delito de tráfico de drogas, razão pela qual impõe-se a absolvição do paciente e demais corréus.
+ ..
+5. Writ não conhecido. Ordem concedida, de ofício, para absolver o paciente pelo delito do art. 33, caput, da Lei n. 11.343/2006, diante da ausência de comprovação da materialidade delitiva, bem como para compensar a atenuante da confissão com a agravante da reincidência, resultando sua pena definitiva em 4 anos de reclusão, mais 400 dias-multa, a ser cumprida em regime semiaberto. Nos termos do art. 580 do CPP, ficam estendidos os efeitos da decisão absolutória aos demais corréus, Jhonata Colodetti e Patrick da Silva Fraga, redimensionando suas penas, respectivamente, para 4 anos de reclusão, mais 400 dias-multa e 3 anos e 9 meses de reclusão, mais 360 dias-multa
+(HC n. 605.603/ES, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 29/3/2021).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1. MATERIALIDADE DO CRIME DE TRÁFICO. APREENSÃO DA DROGA. 2. ENTORPECENTE NÃO APREENDIDO. AUSÊNCIA DE VÍNCULO ASSOCIATIVO. ABSOLVIÇÃO POSSÍVEL. ENUNCIADO N. 7 DA SÚMULA DO STJ. 3. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Pelo exposto, verifico que o Tribunal a quo, ao absolver o agravado, não divergiu da jurisprudência desta Corte Superior de Justiça no sentido de que é imprescindível para a demonstração da materialidade do crime de tráfico a apreensão de drogas.
+2. Por isso, observo que, no presente caso, como não houve a apreensão de substância entorpecente na posse do recorrente, nem foi comprovado o vínculo associativo com os demais acusados, a absolvição do agravado pelo crime de tráfico de drogas deve ser mantida. Ora, rever os fundamentos que a Corte de origem utilizou para absolver o recorrido quanto à inexistência de provas coesas para a condenação, como requer a parte recorrente, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice do enunciado n. 7 da Súmula do STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 1.617.946/GO, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 15/4/2020, destaquei)
+Enfatizo inclusive o REsp n. 1.800.660/MG (DJe 25/5/2020), em que fiquei vencido por considerar que, a despeito de não caso não ter havido apreensão de drogas em poder de nenhum dos acusados, havia "fortes indícios/provas da prática do crime de tráfico de drogas  inclusive por conversas interceptadas que demonstram as tratativas para importação, pagamento e aquisição de entorpecentes , a ensejar, por conseguinte, a continuidade da ação penal".
+Naquela ocasião a Sexta Turma entendeu pela manutenção da rejeição da denúncia "quando não houver a apreensão de substância entorpecente com nenhum dos acusados"
+Nessa trilha também o recente julgado da Sexta Turma:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. MATERIALIDADE DELITIVA. AUSÊNCIA DE APREENSÃO IMPRESCINDIBILIDADE. DE DROGAS. 1. "É imprescindível para a demonstração da materialidade do crime de tráfico a apreensão de drogas" (REsp 1865038/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 25/8/2020, DJe 4/9/2020). Documento eletrônico juntado ao processo em 25/04/2022 às 05:20:45 pelo usuário: SISTEMA JUSTIÇA - SERVIÇOS AUTOMÁTICOS 2. Encontrando-se a sentença condenatória lastreada apenas em mensagens telefônicas sobre a negociação da droga e anotações referentes à sua distribuição, ainda que corroboradas por depoimento de policiais afirmando ser a residência do acusado conhecida como boca de fumo, deve ser o agravante absolvido por ausência de materialidade do crime de tráfico de entorpecentes. 3. Provimento do agravo regimental. Absolvição do réu em relação à imputação prevista no art. 33 da Lei 11.343/2006 (art. 386, VII , do CPP). (Resp n. 1.948.410/TO, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), 6ª T, julgado em 22/3/2022, pendente de publicação)
+Logo, como, no particular, não houve apreensão de nenhuma substância ilícita em poder do acusado, deve o ora agravante ser absolvido pela prática da conduta prevista no art. 33 da Lei n. 11.343/2006, por ausência da materialidade delitiva.
+II. Dispositivo
+À vista do exposto, conheço do agravo para dar provimento ao recurso especial, a fim de absolver o réu da conduta prevista no art. 33 da Lei de Drogas, por ausência da materialidade.
+Comunique-se, com urgência, o in teiro teor desta de cisão às instâncias ordinárias para as providências cabíveis.
+Publique-se e inti mem-se.
+EMENTA
