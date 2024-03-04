@@ -1,0 +1,89 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. PEDIDO DE JUSTIÇA GRATUITA INDEFERIDO. INTIMAÇÃO PARA RECOLHIMENTO. DESERÇÃO DO RECURSO DE APELAÇÃO. REEXAME DE PROVAS. SÚMULA 7. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto contra decisão de fls.1.502/1.505, na qual neguei provimento ao agravo em recurso especial.
+Em suas razões, a parte agravante afirma que deve ser afastado o reconhecimento de deserção do recurso de apelação, na medida em que peticionou ao Tribunal local informando o recolhimento do preparo, protocolado de forma tempestiva, todavia, a referida petição não chegou aos autos por erro do sistema do TJ/RJ.
+Requer a reconsideração da decisão agravada ou o julgamento do agravo interno pela Turma.
+Intimada, a parte agravada apresentou impugnação às fls. 1.557/1.563 requerendo a aplicação da multa prevista no § 4º, do art. 1.021, do CPC.
+É o relatório.
+AgInt nos EDcl no RECURSO ESPECIAL Nº 2.053.071 - RJ (2023/0047502-0)
+RELATORA
+:
+MINISTRA MARIA ISABEL GALLOTTI
+AGRAVANTE
+:
+MAXWELL DE CASTRO DUQUE
+ADVOGADOS
+:
+PEDRO PAULO PINHEIRO BENJAMIM - RJ202870
+MAXWELL DE CASTRO DUQUE - RJ145565
+AGRAVADO
+:
+VERA LUCIA RODRIGUES XAVIER
+ADVOGADO
+:
+LUIZ ADRIANO RITTER PINTO COELHO - RJ113584
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. PEDIDO DE JUSTIÇA GRATUITA INDEFERIDO. INTIMAÇÃO PARA RECOLHIMENTO. DESERÇÃO DO RECURSO DE APELAÇÃO. REEXAME DE PROVAS. SÚMULA 7. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O recurso não prospera.
+Transcrevo os fundamentos da decisão agravada (fls. 1.502/1.505):
+Trata-se de recurso especial, fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, interposto em face de acórdão assim ementado (e- STJ, fl. 1.403 ):
+APELAÇÃO. Ação de obrigação de fazer cumulada com indenizatória. Sentença de procedência. Pedido de gratuidade de justiça formulado pelo réu em sede de apelação. Indeferimento. Intimação para recolhimento das custas. Inércia. Deserção. Pressuposto de admissibilidade do recurso (CPC, art. 1.007, caput). Recurso adesivo, que, por estar subordinado ao primeiro, também não será conhecido, nos termos do art. 997, § 2º do CPC. NÃO CONHECIMENTO DE AMBOS OS RECURSOS.
+Opostos embargos de declaração, foram rejeitados, conforme se verifica da ementa abaixo transcrita (e-STJ, fl. 1.424):
+EMBARGOS DE DECLARAÇÃO. Ação indenizatória. Contrato de administração de condomínio. Rescisão. Imputação de falhas da contratada na prestação do serviço e prejuízos diversos por culpa desta. Ausência de comprovação mínima dos fatos constitutivos do direito alegado. Inteligência do artigo 373, I, do CPC. Hipótese que atrai aplicação da Súmula nº 330 do TJRJ. Alegação de omissão no julgado. Inocorrência. Inexistência das hipóteses previstas no art. 1.022 do CPC. Acórdão que enfrentou de forma clara as questões de fato e de direito suscitadas. Não são os embargos de declaração a via adequada para a manifestação de inconformismo do embargante. RECURSO AO QUAL SE NEGA PROVIMENTO.
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts. 3º, 489, § 1º, inciso IV, 1007, § 7º, do Código de Processo Civil.
+Afirma que não obstante o reconhecimento de deserção do recurso de apelação, foi diligente no recolhimento do preparo, de maneira que não pode ser prejudicado em razão de erro do sistema do Tribunal estadual.
+Alega que "caso subsistisse alguma dúvida acerca do preparo, poderia o C. Relator solicitar a este recorrente qualquer providência, mas não proferir despacho conduzindo o feito a julgamento para declarar deserto o recurso de forma surpresa" (e- STJ, fl.1.442).
+Aduz que "há grande lastro probatório que demonstra que o recorrente buscou minimizar o erro do sistema prestando informações perante a secretaria da 18ª Câmara Cível e peticionando de forma antecipada por diversas vezes nos autos de apelação, antes mesmo do julgamento do recurso" (e-STJ, fl.1.444).
+Argumenta que peticionou nos autos informando sobre os problemas técnicos do sistema do Tribunal, todavia, as referidas alegações não foram enfrentadas, violando o disposto no artigo 489, §1º, inciso IV, do CPC.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Na hipótese dos autos, de fato, o Tribunal de origem decretou a deserção do recurso de apelação, uma vez que, ao indeferir o pedido de justiça gratuita do recorrente, determinou a sua intimação para providenciar o recolhimento do preparo, mas não houve resposta a respeito, conforme se vê da fundamentação abaixo (e-STJ, fls.1.403/1.404):
+O art. 1.007, caput, do CPC estabelece que "No ato de interposição do recurso, o recorrente comprovará, quando exigido pela legislação pertinente, o respectivo preparo, inclusive porte de remessa e de retorno, sob pena de deserção".
+Portanto, estabeleceu a lei processual civil a exigência de preparo do recurso no ato de sua interposição.
+No caso, o primeiro apelante, postulou o deferimento do benefício da gratuidade de justiça em suas razões de apelação, tendo este sido negado, conforme decisão de fls. 1375, ao argumento de que o recorrente não trouxe aos autos suas 03 (três) últimas declarações integrais do Imposto de Renda, necessárias para avaliar se seus rendimentos mensais se enquadravam dentro da hipótese de isenção prevista no art. 17, X da Lei estadual nº 3.350/99.
+Assim, foi determinada a intimação daquela parte para providenciar o recolhimento das custas, no prazo de 05 (cinco) dias, sob pena de deserção.
+No entanto, o primeiro apelante, apesar de devidamente intimado não providenciou o preparo, conforme certidão de fls. 1377, inviabilizando o conhecimento do seu recurso.
+Registre-se, por fim, que o recurso adesivo veiculado pela autora, por estar subordinado ao primeiro, também não será conhecido, nos termos do art. 997, § 2º do CPC.
+Por todo o exposto, VOTO PELO NÃO CONHECIMENTO DOS RECURSOS.
+No julgamento dos embargos de declaração, a Corte local, ao analisar a alegação de que houve erro do sistema do Tribunal quanto ao recolhimento do preparo, esclareceu que, embora tenha ocorrido o pagamento das custas tempestivamente, o recorrente deixou de comunicar o fato nos autos, para fins de averiguação de sua
+regularidade, razão pela qual foi reconhecida a inércia da parte, ocasionando a deserção do seu apelo. Cumpre transcrever a fundamentação do acórdão que julgou os embargos (e-STJ, fls.1.424/1.426):
+Conforme estabelece o artigo 1.022 do CPC, os embargos de declaração têm por finalidade esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material do decisum.
+No caso vertente, o Acórdão que julgou deserto o apelo veiculado pelo embargante se baseou na Certidão de fls. 1377, que dava conta da ausência de resposta deste ao despacho de fls. 1375, determinante da sua intimação para que promovesse o recolhimento das custas, nos termos do art. 99, § 2º do CPC, no prazo de 05 (cinco) dias, sob pena de deserção.
+O embargante alega que o julgado é omisso, porque não analisou a questão atinente ao erro do sistema do próprio Tribunal sobre o recolhimento do preparo do recurso tempestivamente. Afirma que não deixou de atender o comando de recolhimento das custas, conforme informado na petição de fls. 1382/1383, tendo ocorrido apenas um problema referente à vinculação da GRERJ.
+De fato, como certificado às fls. 1418/1419, o recolhimento do preparo foi feito dentro do prazo de 05 (cinco) dias estipulado na decisão de fls. 1375, contudo, o recorrente deixou de comunicar tal ato tempestivamente nos autos, impondo-se reconhecer o descumprimento do comando judicial, e, por consequência a deserção do seu apelo.
+Portanto, tendo havido cumprimento parcial da decisão de fls. 1375, com o recolhimento do preparo, mas sem a comunicação de tal fato nos autos, para fins de averiguação de sua regularidade, há de ser reconhecida a inercia da parte, ocasionando a deserção do seu apelo.
+Na verdade, o que se percebe é que as digressões do embargante sobre omissão do julgado têm por objeto, única e exclusivamente, provocar um novo pronunciamento judicial sobre questões já decididas e sobre as quais não pairam qualquer dúvida ou equívoco que justifique a sua integração ou seu esclarecimento.
+Não restou evidenciado, portanto, nenhum vício que capaz de autorizar a modificação do entendimento adotado no decisum recorrido.
+Eventuais inconformismos com as conclusões do Acórdão devem ser veiculados pela via própria.
+Por estas razões, VOTO por negar provimento aos aclaratórios, mantido o julgado por seus próprios fundamentos.
+No caso, não há que se falar em violação ao art. 489 do CPC, porquanto o Tribunal de origem fundamentou a sua decisão e manifestou-se expressamente acerca do tema, consignando que "o recolhimento do preparo foi feito dentro do prazo de 05 (cinco) dias estipulado na decisão de fls. 1375, contudo, o recorrente deixou de comunicar tal ato tempestivamente nos autos, impondo-se reconhecer o descumprimento do comando judicial, e, por consequência a deserção do seu apelo".
+Outrossim, modificar a conclusão do Tribunal local de que o recurso foi deserto, em razão da inércia da parte para informar o recolhimento do preparo, demandaria, necessariamente, reexame do conjunto fático- probatório dos autos, providência vedada em recurso especial, nos termos da Súmula 7 /STJ. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APELAÇÃO DESERTA. INTIMAÇÃO PARA REGULARIZAÇÃO DO PREPARO. INÉRCIA DO RECORRENTE. SÚMULA N. 283/STF. FALTA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. A Corte de origem atestou a deserção do apelo porque o apelante permaneceu inerte mesmo após a intimação para comprovar sua hipossuficiência ou o recolhimento do preparo no prazo de 5 (cinco) dias.
+2. A parte ora agravante, no recurso especial, não controverteu a motivação do acórdão do TJDFT, limitando-se a afirmar que teria sido intimado apenas para demonstrar sua hipossuficiência. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF, aplicada por analogia.
+3. Ademais, para alterar o entendimento do Tribunal de origem e concluir que o apelante não desatendeu intimação para regularizar o preparo recursal, seria necessário o reexame de fatos e provas dos autos, o que é vedado em recurso especial (Súmula n. 7 do STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.002.136/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 29/8/2022, DJe de 31/8/2022.) Em face do exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Como consignado na decisão agravada, o Tribunal de origem, com base no conjunto fático-probatório dos autos, concluiu pela deserção da Apelação, uma vez que "o recolhimento do preparo foi feito dentro do prazo de 05 (cinco) dias estipulado na decisão de fls. 1375, contudo, o recorrente deixou de comunicar tal ato tempestivamente nos autos" (e-STJ, fl.1.425), de sorte que a modificação das conclusões adotadas no acórdão recorrido demandaria a análise do contrato e do conjunto fático-probatório dos autos, providência que esbarra no óbice da Súmula 7 do STJ.Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PREPARO DO RECURSO DE APELAÇÃO. IRREGULARIDADE. INTIMAÇÃO PARA RECOLHIMENTO EM DOBRO. ART. 1.007, § 4º, DO CPC/2015. NÃO ATENDIMENTO. APLICAÇÃO DA PENA DE DESERÇÃO. CABIMENTO. RECURSO NÃO PROVIDO.
+1. Não havendo a comprovação do recolhimento do preparo no ato da interposição do recurso, o recorrente será intimado para realizar o
+recolhimento em dobro, sob pena de deserção, à luz do art. 1.007, caput e § 4º, do CPC de 2015.
+2. No caso em análise, correta a deserção aplicada na origem, pois a
+recorrente descumpriu a norma no sentido de comprovar o respectivo preparo no ato de interposição da apelação e, quando intimada para efetuar o recolhimento em dobro, não o fez no prazo estabelecido.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp 1307657/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 7/12/2018).
+Ademais, analisando as razões do agravo interno, é possível concluir que os agravantes deixaram de impugnar o óbice da Súmula 7 do STJ.
+Assim, não trazendo a parte agravante nenhum fundamento capaz de desconstituir a decisão ora agravada, deve ela ser mantida por seus próprios fundamentos.
+Por fim, esclareço que não configura intuito protelatório ou litigância de má-fé a mera interposição de recurso legalmente previsto. Com efeito, a jurisprudência desta Corte Superior orienta que a condenação ao pagamento da multa prevista no art. 1.021, § 4º, do CPC, "pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada" (AgInt nos EREsp 1.120.356/RS, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 24/8/2016, DJe 29/8/2016).
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
