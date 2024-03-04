@@ -1,0 +1,28 @@
+DECISÃO
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 520/524, in verbi s:
+Trata-se de agravo em recurso especial interposto por ALVARO APARECIDO DO CARMO SILVA, contra decisão do Exmo. Presidente da Seção de Direito Criminal do Tribunal de Justiça do Estado de São Paulo que não admitiu o recurso especial interposto.
+Eis o seu teor (fls. 480/481):
+(..) A Terceira Seção do Colendo Superior Tribunal de Justiça, no julgamento do Recurso Especial nº 1.977.135/SC (Tema 1155), em sessão realizada aos 23 de novembro de 2022, por unanimidade e nos termos do voto do E. Min. Relator, fixou as seguintes teses: "1) O período de recolhimento obrigatório noturno e nos dias de folga, por comprometer o status libertatis do acusado, deve ser reconhecido como período a ser detraído da pena privativa de liberdade e da medida de segurança, em homenagem aos princípios da proporcionalidade e do non bis in idem; 2) O monitoramento eletrônico associado, atribuição do Estado, não é condição indeclinável para a detração dos períodos de submissão a essas medidas cautelares, não se justificando distinção de tratamento ao investigado ao qual não é determinado e disponibilizado o aparelhamento; 3) As horas de recolhimento domiciliar noturno e nos dias de folga devem ser convertidas em dias para contagem da detração da pena. Se no cômputo total remanescer período menor que vinte e quatro horas, essa fração de dia deverá ser desprezada", cabendo ressaltar o entendimento firmado pelos Tribunais Superiores de que a existência de precedente autoriza o julgamento imediato de causas que versem sobre o mesmo tema, independentemente do trânsito em julgado do paradigma1.
+Assim, estando o aresto recorrido em conformidade com tal entendimento, nego seguimento ao presente recurso especial, nesse ponto, nos termos do artigo 1.030, I, "b", do Código de Processo Civil e artigo 638 do Código de Processo Penal. No mais, verifico que o reclamo é inadmissível diante da existência de óbice processual.
+Com efeito, o recurso especial foi interposto sem a fundamentação necessária apta a autorizar o seu processamento, consoante determina o artigo 1.029 do Código de Processo Civil2, pois não foram devidamente atacados todos os argumentos do aresto.
+Nessa linha, o entendimento do Superior Tribunal de Justiça3: "(..) Na hipótese vertente, não foram infirmados todos os fundamentos do acórdão recorrido, razão pela qual o recurso, nesse ponto, não pode ser conhecido, nos termos em que aduz a Súmula 283 do Supremo Tribunal Federal:
+"É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"".
+Ante o exposto, NEGO SEGUIMENTO ao recurso especial no que atine ao Tema 1155 do STJ, nos termos do artigo 1030, I, "b", do Código de Processo Civil e artigo 638 do Código de Processo Penal, e, no mais, NÃO O ADMITO, com fundamento no artigo 1030, inciso V, do Diploma Processual Civil.
+Intimem-se.
+No presente agravo (fls. 488/496), a defesa se limitou a repetir as mesmas irresignações já apresentadas no recurso especial inadmitido e a apresentar alegações genéricas de que não pretende a reanálise de provas.
+Contraminuta pelo Ministério Público do Estado de São Paulo às fls. 502/506.
+Ao final, o Parquet opinou pelo não conhecimento do recurso.
+É o relatório.
+Decido.
+Alega a defesa que "deveria ser considerada a detração para abrandamento do regime ou determinada a expedição de guia de recolhimento antes da prisão do recorrente, tendo-se em vista que, até a soltura, já cumprira parte substancial da pena, estando desde então em recolhimento domiciliar, já tendo direito a progressão por duas vezes, dando-se vigência aos artigos 42 do CP e 387, par. 2º, do CPP" (e-STJ fl. 448).
+Nos pontos, consta do acórdão recorrido o seguinte (e-STJ fls. 413/414):
+Procede a omissão alegada, porém sem a atribuição dos efeitos infringentes pretendidos.
+Com efeito, constou à fl. 393 do Acórdão embargado que o embargante "ficou preso provisoriamente somente por 2 meses e 27 dias, restando pena privativa de liberdade ainda superior a 4 anos de reclusão".
+Contudo, assiste razão ao embargante quanto ao fato de que, à fl. 215, o juízo de primeira instância fixou medida cautelar diversa da prisão, consistente em recolhimento domiciliar no período noturno e nos dias de folga, o que deve ser contabilizado para o fim de detração.
+ ..
+Portanto, sem a pretensão de estabelecer marco objetivo, pois isto competirá ao juízo das execuções criminais, tem-se que o embargante possui cerca de 130 dias de detração pelo período em que teve de se recolher durante o período noturno contabilizadas cerca de oito horas diárias, em analogia ao art. 22, § 1.º, III, da Lei n.º 13.869/2019.
+Destarte, resta ao embargante ainda cerca de 4 anos e 8 meses de pena privativa de liberdade a cumprir inclusive com a detração de 2 meses e 27 dias pela prisão provisória, razão pela qual, ainda com o aclaramento da omissão apontada, deverá iniciar o cumprimento em regime semiaberto, nos termos do art. 33, § 2.º, "b", do Código Penal.
+Conforme se infere dos trechos transcritos, do cotejo entre as alegações constantes do recurso especial e os fundamentos deduzidos pelas instâncias ordinárias, tem-se que, no caso, o acolhimento das teses sustentadas pela defesa exigiria, indiscutivelmente, o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmulas n. 7/STJ e 279/STF).
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
