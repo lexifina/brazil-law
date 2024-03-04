@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/02/2024 a 04/03/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Mauro Campbell Marques votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E ADMINISTRATIVO. ARTIGO 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos Embargos de Declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os Embargos de Declaração, por consistirem em mero inconformismo da parte.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em análise, Embargos de Declaração opostos por FANY CRISTINA WARICK contra acórdão da Segunda Turma do STJ, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. RECEBIMENTO DA INICIAL DA AÇÃO DE IMPROBIDADE ADMINISTRATIVA. EXISTÊNCIA DE INDÍCIOS. REVISÃO. ÓBICE DA SÚMULA 7/STJ.
+1. Relativamente ao recebimento da inicial, o Superior Tribunal de Justiça possui firme entendimento de que é suficiente a demonstração de indícios razoáveis de prática de atos de improbidade e autoria para que se determine o processamento da ação, nos termos do art. 17, §§ 6º e 8º, da Lei n. 8.429/1992, a fim de possibilitar maior resguardo do interesse público.
+2. Existindo indícios de atos de improbidade nos termos dos dispositivos da Lei n. 8.429/1992, sendo adequada a via eleita, cabe ao juiz receber a inicial e dar prosseguimento ao feito.
+3. É pacífico nesta Corte que, no momento do recebimento da ação de improbidade administrativa, o magistrado apenas verifica se há a presença de indícios suficientes da prática de atos ímprobos, deixando para analisar o mérito, se ocorreu ou não improbidade, dano ao erário, enriquecimento ilícito ou violação de princípios, condenando ou absolvendo os denunciados, após regular instrução probatória.
+4. Na espécie, o Tribunal de origem, após analisar as provas dos autos, concluiu que existem indícios de atos de improbidade nos autos e, por isso, recebeu a petição inicial.
+5. A modificação do entendimento firmado pelas instâncias ordinárias demandaria induvidosamente o reexame de todo o material cognitivo produzido nos autos, desiderato incompatível com a via especial, consoante teor da Súmula 7/STJ.
+6. Agravo interno a que se nega provimento (e-STJ, fls. 174/175).
+A parte embargante sustenta, em síntese, que o acórdão embargado é omisso e obscuro, pois "não observou o voto divergente (e-STJ fls. 45/48), que consignou que a inicial não descreve qualquer conduta desta Embargante, enquanto pessoa física". Afirma que "o referido voto expressamente consignou que o autor não descreveu na inicial qualquer conduta da sócia, enquanto pessoa física, entendendo pelo não recebimento da inicial". Conclui que "não há que se falar em óbice na Súmula STJ nº 7, quando no voto divergente - que compõe o acórdão do Tribunal de Justiça de São Paulo - delineou os elementos dos autos".
+Ao final, requer "sejam estes embargos acolhidos, para sanar os vícios do v. acórdão e, atribuindo efeitos excepcionalmente modificativos e infringentes, dar provimento ao Recurso Especial, para rejeitar a petição inicial na ação civil pública de improbidade administrativa nº 1018510-38.2018.8.26.0576, nos termos do art. 17, § 8º da Lei nº 8.429/92".
+O MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO apresentou impugnação aos Embargos de Declaração.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E ADMINISTRATIVO. ARTIGO 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos Embargos de Declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os Embargos de Declaração, por consistirem em mero inconformismo da parte.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço dos E mbargos, porquanto presentes os pressupostos de admissibilidade.
+O artigo 1.022 do Código de Processo Civil dispõe o seguinte:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Parágrafo único. Considera-se omissa a decisão que:
+I - deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento;
+II - incorra em qualquer das condutas descritas no art. 489, § 1º.
+Conforme o aludido dispositivo legal, os Embargos de Declaração não servem à reforma do julgado, e não permitem a rediscussão da matéria; pois seu objetivo é introduzir o estritamente necessário para eliminar obscuridade, contradição, erro material, e/ou suprimir omissão.
+A omissão que autoriza a oposição dos Embargos de Declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+De se ver, então, serem limitados os efeitos dos Embargos Declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso dos autos, não constam no acórdão ora embargado os vícios apontados pela parte embargante. Revelando-se, em verdade, mero inconformismo, de forma que é imperiosa a rejeição dos Embargos de Declaração.
+Com efeito, no acórdão embargado foram expostos de forma clara os motivos pelos quais o Agravo Interno interposto pela parte embargante foi improvido, constando, de expressamente, que:
+É pacífico nesta Corte que, no momento do recebimento da ação de improbidade administrativa, o magistrado apenas verifica se há a presença de indícios suficientes da prática de atos ímprobos, deixando para analisar o mérito, se ocorreu ou não improbidade, dano ao erário, enriquecimento ilícito ou violação de princípios, condenando ou absolvendo os denunciados, após regular instrução probatória. A propósito:
+(..)
+Na espécie, o Tribunal de origem, ao analisar os elementos probatórios dos autos, concluiu que estão presentes indícios de atos de improbidade e, por isso, recebeu a petição inicial (e-STJ fls. 41-42):
+O momento não é adequado para uma análise exaustiva da lide, sendo suficiente, ao recebimento da inicial da ação de responsabilização por ato de improbidade administrativa mero juízo de probabilidade.
+Conquanto sinteticamente fundamentada, a decisão bem indicou os motivos pelos quais a lide foi inaugurada, considerando que a ação civil pública ajuizada pelo Ministério Público na defesa do erário não se mostra em inépcia na medida em que descreve a conduta tida como ímproba, indicando fatos e circunstâncias.
+E a bem elaborada petição inicial aponta, com precisão, para a possibilidade da existência de um esquema fraudulento, com a cooperação da agravante, que frustrou a licitude de processo licitatório - encetado pela Empresa Municipal de Urbanismo EMURB, para a implementação da área azul digital no Município de São José do Rio Preto, mediante conluio e participação apenas aparente de concorrentes no intuito de dar aspecto de legalidade ao certame.
+Inclusive abreviando fase procedimental por meio da renúncia de recursos e com abertura imediata de envelopes na mesma sessão, visando a favorecer a empresa vencedora, cujo corpo societário é composto por corréu que já prestava serviço de assessoramento informático a autarquia municipal e que participou ativamente da própria confecção do respectivo edital, num jogo de cartas marcadas.
+Da leitura do excerto colacionado, dessume-se que a modificação do entendimento firmado pelas instâncias ordinárias demandaria induvidosamente o reexame de todo o material cognitivo produzido nos autos, desiderato incompatível com a via especial, consoante teor da Súmula 7/STJ.
+Por fim, a discussão sobre a presença ou não do elemento subjetivo na atual fase processual se mostra prematura, sendo necessária a devida instrução processual para se verificar a presença de dolo na atuação dos agentes.
+Assim, não há vício formal no aresto, mas tão somente a pretensão da parte embargante de rediscutir matéria já decidida - o que não é admitido, ante a especialidade da via eleita.
+Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgInt no AREsp 2.372.143/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020.
+Isso posto, rejeito os Embargos de Declaração.
