@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por ALMEIDINHA DA SILVA LOPES contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado (fls. 483 e-STJ):
+APELAÇÃO DAS PARTES - AÇÃO DE COBRANÇA - SEGURO DE VIDA COLETIVO - PEDIDO DE PAGAMENTO DE INDENIZAÇÃO POR INVALEDEZ FUNCIONAL PERMANENTE POR DOENÇA - DOENÇA NÃO OCASIONOU A PERDA DA EXISTÊNCIA INDEPENDENTEMENTE DO SEGURADO - LEGALIDADE DA CLÁUSULA RESTRITIVA - TEMA 1068 DO STJ - RECURSO DA RÉ CONHECIDO E PROVIDO. RECURSO DO AUTOR PREJUDICADO.
+O STJ esclareceu o conceito de invalidez laboral permanente por doença - ILPD, que exige a impossibilidade do segurado exercer sua atividade laborativa habitual e invalidez funcional permanente por doença - IFPD, que incluem os segurados permanentemente inválidos para toda e qualquer função e vida independente, devidamente atestada. No mais, firmou entendimento no julgamento de recurso especial repetitivo REsp n.º 1845943/SP, fixando a seguinte tese no Tema 1068: Não é ilegal ou abusiva a cláusula que prevê a cobertura adicional de invalidez funcional permanente total por doença (IFPD) em contrato de seguro de vida em grupo, condicionando o pagamento da indenização securitária à perda da existência independente do segurado, comprovada por declaração médica.
+Assim, para o apelante ter direito à cobertura do seguro por invalidez funcional permanente por doença, é necessário que o segurado reste inválido para toda e qualquer atividade profissional e não apenas para o exercício da função que desempenhava.
+Recurso da ré conhecido e provido. Apelo do autor prejudicado.
+Opostos embargos de declaração, esses foram rejeitados (fls. 518-523 e-STJ).
+Em suas razões de recurso especial (fls. 525-550 e-STJ), a parte recorrente aponta que o acórdão recorrido violou os seguintes dispositivos legais:
+(i) artigo 1.022, inc. II, parágrafo único, do CPC/15, sustentando a existência de omissão e negativa de prestação jurisdicional acerca das matérias suscitadas nos embargos de declaração; e
+(ii) artigos 212, 224, e 1.003, § 5º, do Código de Processo Civil de 2015, defendendo a intempestividade do recurso de apelação interposto na origem, pela parte ora recorrida, em razão da não interrupção do prazo recursal pela oposição de recurso de embargos de declaração manifestamente inadmissível.
+Alegou, ainda, a existência de dissídio jurisprudencial.
+Em sede de juízo provisório de admissibilidade (fls. 591-607 e-STJ), o Tribunal de origem inadmitiu o recurso especial, sob os seguintes fundamentos: a) inexistência de violação ao art. 1.022 do CPC/15; e b) aplicação do óbice da Súmula 83/STJ.
+Daí o agravo (fls. 609-646 e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte insurgente refuta os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 650-652 e-STJ.
+O presente recurso não merece prosperar.
+1. Afasta-se, de início, a alegação de negativa de prestação jurisdicional. Não se verifica ofensa aos artigos 489 e 1.022, inc. II, do CPC/15 quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional
+Nesse sentido, citam-se os seguintes precedentes deste Superior Tribunal de Justiça: AgInt no AREsp 1254843/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/05/2018, DJe 01/06/2018; AgInt no AREsp 1015125/AC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 17/04/2018, DJe 24/04/2018; AgInt nos EDcl no REsp 1647017/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/03/2018, DJe 02/04/2018.
+Alegou a parte recorrente que o acórdão impugnado restou omisso acerca da alegação preliminar nas contrarrazões de não conhecimento do recurso de apelação por intempestividade.
+Todavia, conforme trecho a seguir citado, o Tribunal local tratou expressamente da alegada questão jurídica, pronunciando-se nos seguintes termos (fls. 520-521 e-STJ):
+Em contrarrazões recursais, a pane apelada suscita preliminar de não conhecimento do recurso de apelação interposto pela embargada, diante da alegada intempestividade do recurso, pela inocorrência de interrupção do prazo recursal, pela oposição de Embargos de Declaração (fls. 332-40) manifestamente incabíveis.
+A preliminar não merece acolhimento.
+Com efeito, os embargos de declaração interrompem o prazo para a interposição de recurso, conforme dispõe o art. 1.026 do Código de Processo Civil: (..).
+Mesmo que o magistrado tenha rejeitado os aclaratórios, há interrupção do prazo recursal, em razão do seu caráter integrativo.
+Somente quando os embargos não são conhecidos, com reconhecimento de serem manifestamente protelatórios é que não se aplica o efeito suspensivo, conforme jurisprudência do Superior Tribunal de Justiça, vejamos: (..).
+No presente caso, entretanto, os embargos de declaração foram conhecidos pelo magistrado, mas rejeitados, sem o reconhecimento de seu caráter meramente protelatório (fls. 376/7), razão porque ocorreu a interrupção do prazo para interposição do recurso de apelação.
+Como as partes foram intimadas da decisão na publicação do Diário da Justiça nº 4910, do dia 14/03/2022 e a ré protocolizou recurso de apelação em 04/04/2022, tem-se por tempestiva a sua interposição.
+Como visto, as teses da insurgente foram apreciadas pelo Tribunal a quo, que as afastou apontando os fundamentos jurídicos para tal.
+Não há que se falar, portanto, em omissão, sendo certo que os embargos de declaração não se constituem via própria para rejulgamento da causa, não havendo espaço para análise de inconformismo quanto ao entendimento adotado.
+Nesse sentido: REsp 1432879/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/10/2018, DJe 19/10/2018; EDcl nos EDcl no REsp 1641575/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 25/09/2018, DJe 01/10/2018; EDcl no AgInt no REsp 1666792/ES, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/04/2018, DJe 22/05/2018; AgInt no AREsp 1179480/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/02/2018, DJe 06/03/2018; AgInt no REsp 1598364/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/08/2017, DJe 22/08/2017; EDcl no AgInt no AREsp 471.597/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 06/06/2017, DJe 20/06/2017.
+Afasta-se, portanto, a alegada violação ao artigo 1.022, inc. II, do CPC/15.
+2. No mérito, cinge-se a pretensão recursal à verificação acerca se houve a interrupção do prazo recursal para interposição do recurso de apelação.
+Conforme visto acima, o Tribunal de origem entendeu que, "no presente caso, entretanto, os embargos de declaração foram conhecidos pelo magistrado, mas rejeitados, sem o reconhecimento de seu caráter meramente protelatório (fls. 376/7), razão porque ocorreu a interrupção do prazo para interposição do recurso de apelação".
+Com efeito, observa-se que a matéria debatida pela parte recorrente se encontra pacificada nesta Corte Superior, nos termos do que decidido pelo Tribunal de origem, no sentido de que somente a oposição de embargos de declaração manifestamente incabíveis não interrompem o prazo para oposição de outros recursos, situação diversa dos presentes autos, em que os embargos declaratórios foram conhecidos, porém rejeitados, em razão da ausência dos vícios do art. 1.022 CPC.
+Nesse sentido:
+AGRAVO INTERNO. PROCESSUAL CIVIL. SÚMULA 7/STJ. NÃO INCIDÊNCIA. EMBARGOS DE DECLARAÇÃO TEMPESTIVOS OPOSTOS PERANTE O JUÍZO DE 1º GRAU. PRAZO RECURSAL INTERROMPIDO. PRECEDENTES. AGRAVO NÃO PROVIDO.
+1 . Nos termos da jurisprudência já consolidada desta Corte, a análise do recurso especial não esbarra no óbice da Súmula 7 do STJ quando aspectos fáticos e probatórios da lide estão expressamente delineados no acórdão recorrido.
+2. "A única hipótese de os embargos de declaração, mesmo contendo pedido de efeitos modificativos, não interromperem o prazo para posteriores recursos é a de intempestividade, que conduz ao não conhecimento do recurso" (REsp n. 1.522.347/ES, relator Ministro Raul Araújo, Corte Especial, DJe de 16/12/2015). Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 2.045.974/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11/9/2023, DJe de 14/9/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RECONHECIMENTO DA INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO CONTRA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. RECURSO INCABÍVEL. NÃO INTERRUPÇÃO DO PRAZO PARA A INTERPOSIÇÃO DO AGRAVO. INOCORRÊNCIA DE SITUAÇÃO EXCEPCIONAL. MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp n. 2.190.241/GO, relator Ministro Humberto Martins, Terceira Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+Destarte, aplica-se a orientação prevista no enunciado 83 deste Superior Tribunal de Justiça, no sentido de que "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+3. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, conhece-se do agravo para negar provimento ao recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC/15, majora-se os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC/15.
+Publique-se.
+Intimem-se.
+EMENTA
