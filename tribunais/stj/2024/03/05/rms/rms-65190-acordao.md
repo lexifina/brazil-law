@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, dar provimento aos recursos ordinários, nos termos do voto do Sr. Ministro-Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Mauro Campbell Marques votaram com o Sr. Ministro Relator.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. RECURSO EM MANDADO DE SEGURANÇA. REDUÇÃO DE VENCIMENTOS. PODER DE AUTOTUTELA DA ADMINISTRAÇÃO LIMITADO À GARANTIA DE CONTRADITÓRIO E AMPLA DEFESA. RECURSOS ORDINÁRIOS PROVIDOS.
+1. Decorre do poder de autotutela da Administração a revisão de atos ilegais por ela perpetrados. Quando os atos a serem retificados produzem efeitos na esfera de interesses individuais do servidor público, é necessária a prévia instauração de processo administrativo, com garantia do contraditório, da ampla defesa e da publicidade do ato revisor.
+2. Pode o Ministério Público, em atuação custos juris e na defesa do interesse público, interpor recurso em causa que atue como custos legis.
+3. Recursos providos para que seja concedida a segurança.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em análise, recursos em mandado de segurança (e-STJ, fls. 211-226 e 271-290) interpostos por RONALDO FELIZ CARVALHO e pelo MINISTÉRIO PÚBLICO DO ESTADO DA BAHIA contra acórdão proferido pelo Tribunal de Justiça do Estado da Bahia (e-STJ, fls. 181-207), que denegou a segurança e foi assim ementado:
+MANDADO DE SEGURANÇA. DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL PREJUDICADO. SERVIDOR PÚBLICO. REDUÇÃO NO VALOR DA VANIAGEM PESSOAL DE EFICIÊNCIA (VPL). REJEITADA A IMPUGNAÇÃO AO BENEFÍCIO DA GRATUIDADE DA JUSIIÇA. PRESENIES OS PRESSUPOSTOS LEGAIS PARA O DEFERIMENTO DO BENEPLÁCITO. AFASTADA A PRELIMINAR DE INADEQUAÇÃO DA VIA ELEITA. MÉRITO. VANTAGEM ANTERIORMENTE PAGA EM DESCOMPASSO COM A LEGISLAÇÃO. PODER DE AUTOTUTELA. SÚMULA N. 473 DO STF. ADEQUAÇÃO DO PAGAMENTO DA GRATIFICAÇÃO À LEGISLAÇÃO ESTADUAL. ATO AMPARADO EM NORMA EXPRESSA. INEXISTÊNCIA DE ILEGALIDADE OU ABUSIVIDADE NA CONDUTA. SEGURANÇA DENEGADA.
+Aduz o primeiro insurgente ter direito líquido e certo à manutenção da verba de "vantagem pessoal de eficiência" nos valores em que estipulada inicialmente, tratando-se de ato ilegal aquele que determinou vantagem especial de eficiência em patamar inferior ao anteriormente previsto, resultando na redução de sua remuneração. Afirma que "houve violação ao devido processo legal, uma vez que o expediente no qual o Tribunal se embasou para reduzir a mencionada vantagem (TJ-ADM-2014/42528) tramitou internamente e sem acesso para os servidores envolvidos".
+O MINISTÉRIO PÚBLICO DA BAHIA defende sua legitimidade, como custos juris, para interposição do recurso (Súmula 99/STJ) e, no mérito, defende a concessão da segurança, sob o fundamento, em suma, de que "o desfazimento, contudo, de qualquer ato administrativo que repercuta diretamente na esfera jurídica do administrado, por maior que seja o suposto vício por ele ostentado, não dispensa a adoção dos princípios constitucionais do contraditório e da ampla defesa, previstos no art. 5º, inciso LV, da Carta Magna".
+Apresentadas contrarrazões (e-STJ, fls. 298-307).
+O MINISTÉRIO PÚBLICO FEDERAL manifestou-se pelo provimento dos recursos (e-STJ, fl. 315).
+Os autos vieram a mim distribuídos, em razão da sucessão, em 24/11/2023.
+O MINISTÉRIO PÚBLICO DO ESTADO DA BAHIA peticionou no feito, requerendo seu prosseguimento com o julgamento dos recursos pendentes (e-STJ, fls. 320-326).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. RECURSO EM MANDADO DE SEGURANÇA. REDUÇÃO DE VENCIMENTOS. PODER DE AUTOTUTELA DA ADMINISTRAÇÃO LIMITADO À GARANTIA DE CONTRADITÓRIO E AMPLA DEFESA. RECURSOS ORDINÁRIOS PROVIDOS.
+1. Decorre do poder de autotutela da Administração a revisão de atos ilegais por ela perpetrados. Quando os atos a serem retificados produzem efeitos na esfera de interesses individuais do servidor público, é necessária a prévia instauração de processo administrativo, com garantia do contraditório, da ampla defesa e da publicidade do ato revisor.
+2. Pode o Ministério Público, em atuação custos juris e na defesa do interesse público, interpor recurso em causa que atue como custos legis.
+3. Recursos providos para que seja concedida a segurança.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Os recursos ordinários foram interpostos com fundamento no art. 105, II, b, da Constituição Federal e superam os requisitos de admissibilidade.
+O impetrante, servidor do Poder Judiciário estadual, aponta ilegal o ato administrativo que, ao revisar os valores da "Vantagem Pessoal de Eficiência", já incorporada em seus vencimentos, culminou na redução de sua remuneração, sem qualquer processo administrativo prévio que lhe garantisse publicidade.
+A mencionada Vantagem Pessoal de Eficiência foi instaurada pela Lei estadual 7.816/2001, alcançando a todos os Servidores do Poder Judiciário do Estado da Bahia, inclusive a parte impetrante/recorrente, nos seguintes termos:
+Art.1º - A gratificação de estimulo à eficiência, prevista no art. 2º, da Lei nº 6.955, de 04 de junho de 1196, fica convertida em vantagem pessoal pelo valor de R$ 230,00 (duzentos e trintas reais), de todos os servidores do Poder Judiciário que a perceberam na data de entrada em vigor desta Lei.
+Art. 2º - A vantagem pecuniária de que trata o artigo anterior será paga conjuntamente com os vencimentos do cargo, e integrará a remuneração para efeito de:
+I - gratificação natalina;
+II - cálculo da remuneração de férias;
+III - abono pecuniário, resultante da conversão de parte de férias a que o servidor tenha direito;
+IV - aposentadoria que ocorrer a partir da data em que esta Lei entrar em vigor.
+Parágrafo único - A vantagem pessoal referida no caput deste artigo não é incompatível com a gratificação do adicional de função criada pelo art. 5º, da Lei nº 6.355, de 30 de dezembro de 1991, nem com outra vantagem pessoal existente, e será reajustada sempre que o vencimento básico sofrer reajuste, na mesma proporção deste, sem prejuízo do disposto no caput do art. 4º, da Lei nº 6.955, de 04 de junho de 1996.
+Os valores foram alterados depois do trânsito em julgado do mandado de segurança 0011460-23.2010.8.05.0000-0, em que determinada a atualização do valor para que aplicados os percentuais previstos no Plano de Cargo, instituído pela Lei 11.170/2008. Assim, passou-se à cifra de R$ 1.999,31 (um mil, novecentos e noventa e nove reais e trinta e um centavos), que, como visto, integrava a remuneração dos servidores.
+Em exercício de autotutela, o Poder Administrativo local reduziu o valor, em adequação ao dispositivo legal, para R$ 1.117,77 (um mil, cento e dezessete reais e setenta e sete centavos)
+Nesse sentido e ao que aqui interessa, o Supremo Tribunal Federal, no julgamento do Tema 138, sob a sistemática de repercussão geral, fixou a tese:
+Ao Estado é facultada a revogação de atos que repute ilegalmente praticados; porém, se de tais atos já tiverem decorrido efeitos concretos, seu desfazimento deve ser precedido de regular processo administrativo.
+Sobre o tema, há, ainda, o Enunciado de Súmula 473/STF:
+A administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, porque deles não se originam direitos; ou revogá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos, e ressalvada, em todos os casos, a apreciação judicial.
+O entendimento deste Superior Tribunal de Justiça, como ressaltado no parecer da Procuradoria-Geral da República, é consentâneo à tese fixada nos termos em que "não se discute que, nos termos da Súmula 473/STF, a Administração, com fundamento no seu poder de autotutela, pode anular seus próprios atos, desde que ilegais. Ocorre que, quando tais atos produzem efeitos na esfera de interesses individuais, mostra-se necessária a prévia instauração de processo administrativo, garantindo-se a ampla defesa e o contraditório".
+O ESTADO DA BAHIA, por sua vez, assim argumentou sobre o caso em tela:
+A Administração Pública apenas procedeu à revisão do entendimento sobre a matéria com fulcro em seu poder de autotutela, por vislumbrar um flagrante equívoco na forma como o cálculo era realizado, inexistindo qualquer afronta ao princípio da irredutibilidade de vencimentos ou a um pretenso direito adquirido.
+Não prosperam, todavia, suas razões, uma vez que verificada, no "caso concreto", a consequência da revisão na esfera particular do impetrante, consubstanciada na redução de seus vencimentos, percebidos de boa-fé desde quando instituídos. Não pode, dessa forma, o servidor público de boa-fé "pagar", literalmente, por equívoco de seu empregador que não corrigido a tempo e modo.
+Ainda que pertinente a argumentação da Administração no sentido de que "o pagamento das vantagens pessoais em baila, não podem ser efetuadas em desconformidade com previsto pelas leis n"s 11.170/08 e 7.816/01, as quais regem as gratificações de eficiência e vantagens pessoais de estimulo à eficiência", a retificação do verificado equívoco não pode ensejar a redução salarial do servidor público sem o devido processo legal - mesmo que em âmbito administrativo - para sua efetivação, isto é, de forma que lhe seja garantido o contraditório e a ampla defesa
+Isso posto, dou provimento aos recursos e concedo a segurança, para determinar o reestabelecimento do valor pago a título de Vantagem Pessoal de Eficiência ao impetrante até decisão judicial ou administrativa em sentido contrário, em procedimento no qual lhe seja assegurado o efetivo contraditório e a ampla defesa.
+Custas pelas partes. Sem honorários advocatícios (art. 25 da Lei 12.016/2009).
+Publique-se.
