@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO NÃO CONHECIDO POR INCIDÊNCIA DA SÚMULA N. 182 DO STJ. ÓBICE DA SÚMULA N. 7 DO STJ NÃO INFIRMADO PELO AGRAVANTE. DECISÃO MANTIDA.
+1. A ausência de impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta o conhecimento do agravo, nos termos do art. 932, III, do CPC/2015; art. 253, parágrafo único, I, do RISTJ; e da Súmula n. 182 do STJ, aplicável por analogia.
+2. "O momento processual adequado para a impugnação completa dos termos da decisão de inadmissibilidade é o agravo em recurso especial, e não o agravo regimental oposto contra a decisão que aplicou o mencionado óbice sumular" (AgRg no REsp n. 1.991.029/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/9/2023, DJe de 20/9/2023).
+3 . Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão da Ministra Presidente do STJ que não conheceu de agravo em recurso especial, por ausência de impugnação específica (Súmula n. 182/STJ).
+O agravante defende o prequestionamento da matéria bem como que impugnou todos os fundamentos eleitos pelo Tribunal de origem para negar seguimento ao recurso especial.
+Afirma que (fl. 1.275): "o que se busca-se saber se é lícita a condenação sem que tenha sido carreado aos autos o laudo definitivo, o que não demanda o revolvimento do acervo probatório e que, portanto, afasta a incidência da súmula n. 7 do STJ".
+Expõe considerações sobre a ausência do laudo definitivo, inclusive colacionando jurisprudência.
+Requer a reconsideração da decisão ou o conhecimento e o provimento do recurso pela Turma julgadora.
+O Ministério Público Federal opina pelo não provimento do agravo.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO NÃO CONHECIDO POR INCIDÊNCIA DA SÚMULA N. 182 DO STJ. ÓBICE DA SÚMULA N. 7 DO STJ NÃO INFIRMADO PELO AGRAVANTE. DECISÃO MANTIDA.
+1. A ausência de impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta o conhecimento do agravo, nos termos do art. 932, III, do CPC/2015; art. 253, parágrafo único, I, do RISTJ; e da Súmula n. 182 do STJ, aplicável por analogia.
+2. "O momento processual adequado para a impugnação completa dos termos da decisão de inadmissibilidade é o agravo em recurso especial, e não o agravo regimental oposto contra a decisão que aplicou o mencionado óbice sumular" (AgRg no REsp n. 1.991.029/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/9/2023, DJe de 20/9/2023).
+3 . Agravo regimental improvido.
+VOTO
+O agravante busca afastar a incidência da Súmula n. 182/STJ, sendo que a decisão agravada proferida encontra-se nos seguintes termos (fls. 1.266-1.267):
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 83/STJ (materialidade delitiva - não comprovação - ausência de laudo toxicológico definitivo), Súmula 7/STJ (materialidade delitiva - não comprovação - ausência de laudo toxicológico definitivo), Súmula 7/STJ (art. 59 do CP; art. 42 da Lei 11.343.2006 - dosimetria da pena) e Súmula 83/STJ (art. 59 do CP; art. 42 da Lei 11.343.2006 - dosimetria da pena).
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 7/STJ (art. 59 do CP; art. 42 da Lei 11.343.2006 - dosimetria da pena).
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial. A propósito:
+ ..
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Não obstante a impugnação apresentada em face do fundamento adotado e acima mencionado, verifica-se que a decisão de fls. 1.224-1.233, que inadmitiu o processamento do recurso, não foi efetivamente impugnada.
+Com efeito, consta que ali foram eleitos os seguintes fundamentos: "Súmula 83/STJ (materialidade delitiva - não comprovação - ausência de laudo toxicológico definitivo), Súmula 7/STJ (materialidade delitiva - não comprovação - ausência de laudo toxicológico definitivo), Súmula 7/STJ (art. 59 do CP; art. 42 da Lei 11.343.2006 - dosimetria da pena) e Súmula 83/STJ (art. 59 do CP; art. 42 da Lei 11.343.2006 - dosimetria da pena)" (fl. 1.266).
+Por sua vez, das razões constantes do agravo em recurso especial de fls. 1.273-1.276, verifica-se que não foi impugnado o teor da Súmula n. 7 do STJ, em relação à questão da dosimetria, posto que nada se dispôs a respeito.
+Das razões do agravo, verifica-se que de fato a defesa deixou de impugnar, de forma específica, tais fundamentos da decisão de inadmissão do recurso especial.
+Desse modo, nos termos dos arts. 1.021, § 1º, CPC; 253, parágrafo único, I, do RISTJ; e da Súmula n. 182 do STJ - aplicável por analogia -, ao recorrente incumbe demonstrar o equívoco da decisão contra a qual se insurge, sendo imprescindível que impugne especificamente todos os óbices por ela apontados. A esse respeito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO IMPUGNADA NÃO COMBATIDO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O agravante deixou de infirmar causa específica de não conhecimento do agravo em recurso especial - ausência de dialeticidade recursal -, motivo pelo qual este agravo regimental também não pode ser conhecido, consoante o entendimento enunciado na Súmula n. 182 do STJ.
+2. Na hipótese, o AREsp não foi conhecido em virtude da ausência de dialeticidade. Neste regimental, a defesa deveria haver demonstrado que rebateu, na petição de agravo em recurso especial, tanto a ausência de cotejo analítico quanto a conformidade do acórdão recorrido com a jurisprudência do STJ - razões indicadas pelo Tribunal de origem para não admitir o REsp. Todavia, a parte limitou-se a afirmar que não haveria como fazer a comparação analítica entre as decisões conflitantes, uma vez que a insurgência era centrada na não realização de distinguishing pela Corte local.
+No tocante à Súmula n. 83 do STJ, o agravante nada asseverou. Ao proceder dessa forma, a parte, novamente, não se desincumbiu do ônus de expor integralmente as razões de fato e de direito por que entendeu incorreta a decisão agravada.
+3. Agravo regimental não conhecido. (AgRg no AREsp n. 2.187.752/MT, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/2/2023, DJe de 17/2/2023.)
+PENAL E PROCESSO PENAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARBITRAMENTO DE HONORÁRIOS AO DEFENSOR DATIVO. CUSTAS PELO ESTADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. DECISÃO DE ADMISSIBILIDADE FUNDADA NA SÚMULA N. 83/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. A decisão da Presidência não conheceu do agravo em recurso especial interposto por ter a parte agravante deixado de impugnar especificamente, nas razões do agravo, a incidência de óbice ventilado pela Corte a quo para inadmitir o recurso especial.
+2. A falta de impugnação específica de todos os fundamentos utilizados na decisão agravada (despacho de inadmissibilidade do recurso especial) atrai a incidência da Súmula n. 182 desta Corte Superior.
+3. Na espécie, o agravante, de fato, deixou de impugnar especificamente, de forma efetiva e pormenorizada, nas razões do agravo em recurso especial, o entrave atinente à incidência da Súmula n. 83/STJ, apontado pelo Tribunal a quo como fundamento para inadmitir o recurso especial.
+4. É firme o entendimento deste Superior Tribunal no sentido de que, inadmitido o recurso especial com fundamento na incidência da Súmula n. 83/STJ, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão recorrida, com vistas a demonstrar que outro é o entendimento jurisprudencial desta Corte, o que não ocorreu na hipótese dos autos. Precedentes.
+5. Nas razões do regimental, o ora agravante também não infirmou o fundamento da decisão ora agravada (Súmula 182/STJ). A incidência da Súmula 182/STJ se faz novamente presente.
+6. Por derradeiro, esta Corte Superior possui entendimento consolidado no sentido de que o defensor dativo tem direito aos honorários advocatícios fixados pelo magistrado e pagos pelo Estado de acordo com os valores mínimos estabelecidos na tabela da Ordem dos Advogados do Brasil da respectiva Seção (AgRg no REsp n. 1.572.333/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 21/6/2016, DJe de 1/7/2016, grifei).
+7. Agravo regimental não conhecido. (AgInt no AREsp n. 2.196.586/BA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/2/2023, DJe de 27/2/2023.)
+Ademais, cumpre consignar que "O momento processual adequado para a impugnação completa dos termos da decisão de inadmissibilidade é o agravo em recurso especial, e não o agravo regimental oposto contra a decisão que aplicou o mencionado óbice sumular" (AgRg no REsp n. 1.991.029/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/9/2023, DJe de 20/9/2023).
+Ante o exposto, nego provimento ao agravo regimental , mantendo a decisão recorrida.
+É o voto.
