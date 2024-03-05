@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de GUILHERME SALLES LEITE, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (agravo em execução n, 0008471-24.2023.8.26.0026).
+Consta dos autos que, na execução penal, foi reconhecida a prática de falta grave pelo paciente, determinando-se, por consequência, a perda de 1/3 dos dias remidos, bem como a interrupção do cálculo de penas para fins de progressão de regime prisional (e-STJ, fls. 60/62).
+Inconformada, a defesa interpôs agravo em execução, que não foi conhecido em razão de sua intempestividade (e-STJ, fls. 12/15).
+Na presente impetração, a impetrante sustenta que o paciente não teria sido intimado da decisão que reconheceu a falta grave, somente a Defensoria Pública, que não apresentou recurso.
+Argumenta que não haveria comprovação de que o paciente foi autor dos fatos que incorreram na imputação da falta grave.
+Aduz que (e-STJ fl. 6): Não foi colhida oitiva de mais nenhum sentenciado acerca dos fatos imputados. Apenas depreende-se dos autos a declaração de dois agentes penitenciários que se limitaram a ratificar o comunicado de evento.
+Defende que "num local onde vários detentos cumprem pena, não pode a impossibilidade de imputação dos fatos gerar a presunção de autoria" (fl. 9).
+Requer, liminarmente, que seja afastada a penalidade de falta grave e, subsidiariamente, que seja determinado o conhecimento e julgamento do agravo em execução. No mérito, pugna pela concessão da ordem para que seja confirmada a liminar, reconhecendo-se a tempestividade do agravo em execução e determinando-se o seu processamento.
+A liminar foi indeferida, informações foram prestadas e o Ministério público federal manifestou-se pela denegação da ordem (e-STJ, fls. 84/86, 94/101, 102/ 105 e 107/ 110).
+É o relatório. Decido.
+O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+Nesse sentido, confiram-se os seguintes julgados, exemplificativos dessa nova orientação das Cortes Superiores do País: HC n. 320.818/SP, Relator Ministro FELIX FISCHER, Quinta Turma, julgado em 21/5/2015, DJe 27/5/2015; e STF, HC n. 113.890/SC, Relatora Ministra ROSA WEBER, Primeira Turma, julg. em 3/12/2013, DJ 28/2/2014.
+Assim, de início, incabível o presente habeas corpus substitutivo de recurso próprio. Todavia, em homenagem ao princípio da ampla defesa, passa-se ao exame da insurgência para verificar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Intimação do executado acerca da decisão de reconhecimento da falta disciplinar
+O tribunal não conheceu do recurso de agravo em execução, por ser ele intempestivo. Fundamentou que a decisão que reconheceu a falta grave foi proferida em 25/08/2022 e a Defensoria pública que representava os interesses do agravante, à época, tomou ciência no dia 5/09/2022, mas manifestou-se no sentido de não querer recorrer. Em 6/12/2022, o recorrente constituiu advogado particular, o qual interpôs o agravo em execução no dia 20/10/2023, portanto muito além do prazo legal. Registrou, no mais, que a intimação pessoal do acusado somente é prevista no artigo 392 inciso um, do CPP, que diz respeito à intimação pessoal do réu preso, não sendo aplicável, portanto, ao caso em análise.
+Sobre a questão da tempestividade do recurso de agravo em execução, a defesa argumenta que o paciente não foi intimado da decisão de primeiro grau, que homologou a falta grave.
+Ora, na execução penal, a intimação ao executado somente deve ser feita em casos específicos, quando expressamente determinados. Em regra, as intimações devem ser feitas ao seu defensor.
+No caso, como a própria defesa consignou, a Defensoria Pública foi intimada, mas não apresentou recurso.
+Em consulta ao site do tribunal, primeira instância, verifiquei que a defensoria pública apresentou petição no dia 5/09/2022, referente à decisão do juiz de primeiro grau proferida no dia 25/08/2022, mas não apresentou recurso de agravo em execução. O referido recurso somente foi interposto no dia 20/10/2023, portanto, fora do prazo legal, por advogado particular.
+Conforme os julgados abaixo, o prazo para interpor o recurso de agravo em execução é de 5 dias:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SUPRESSÃO DE INSTÂNCIA. AGRAVO EM EXECUÇÃO PENAL NÃO CONHECIDO NA ORIGEM. INTEMPESTIVIDADE. ADEMAIS, IMPOSSIBILIDADE DE REVISÃO FÁTICO PROBATÓRIA. RECURSO DESPROVIDO.
+1. Consoante o entendimento da Súmula n. 700 do Supremo Tribunal Federal - STF, o prazo para interposição do Agravo em Execução Penal é de 5 dias, não tendo sido alterado pela Lei n. 13.105/2015, haja vista a previsão própria do Código de Processo Penal - CPP. Logo, não tendo o recurso sido conhecido na origem, inviável a análise da impetração, sob pena de incorrer em indevida supressão de instância.
+2. Como bem destacado pelo Ministério Público Federal, afastar as conclusões das instâncias ordinárias sobre o efetivo exercício de trabalho lícito por parte do paciente demandaria aprofundado revolvimento fático-probatório, procedimento vedado na via estreita do habeas corpus.
+3. Agravo Regimental desprovido.
+(AgRg no HC n. 519.214/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/11/2019, DJe de 11/11/2019.)
+HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL CONCEDIDO PELO JUÍZO DE ORIGEM. DECISÃO CASSADA PELA CORTE ESTADUAL. AGRAVO EM EXECUÇÃO INTEMPESTIVO. INADMISSIBILIDADE.
+1. Segundo a jurisprudência, a contagem do prazo recursal ao Ministério Público começa a fluir da data do recebimento dos autos com vista no respectivo órgão.
+2. No caso, a decisão que concedeu ao paciente o livramento condicional foi proferida em 27/11/2015, sendo os autos remetidos com vista do Ministério Público no dia 4/12/2015. O recurso somente foi encaminhado à Vara de origem 29/1/2016, depois de ultrapassado, portanto, o prazo de 5 dias para a interposição do agravo.
+3. É nulo o acórdão que dá provimento a agravo em execução intempestivo, estabelecendo situação mais grave para o paciente.
+Precedentes.
+4. Ordem concedida para, anulando o acórdão que deu provimento ao agravo em execução intempestivo, restabelecer a decisão de primeiro grau que concedeu livramento condicional ao ora paciente.
+(HC n. 412.242/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 27/2/2018, DJe de 8/3/2018.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. PROCESSUAL PENAL. AGRAVO EM EXECUÇÃO. TEMPESTIVIDADE. FLAGRANTE ILEGALIDADE. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. É imperiosa a necessidade de racionalização do emprego do habeas corpus, em prestígio ao âmbito de cognição da garantia constitucional, e, em louvor à lógica do sistema recursal. In casu, foi impetrada indevidamente a ordem como substitutiva de recurso especial.
+2. O prazo para a interposição de Agravo em Execução Penal é de 5 dias (Súmula nº 700 do Supremo Tribunal Federal e art. 586, caput, do Código de Processo Penal). Precedentes.
+3. In casu, não tendo havido intimação pessoal do decisum agravado, conforme prerrogativa assegurada à Defensoria Pública pela Lei Complementar nº 80/94, só se pode considerar como termo inicial do prazo recursal de 10 dias - cômputo em dobro - a própria data da interposição do Agravo em Execução Penal, já que apenas neste momento se pode afirmar que a parte manifestou nos autos ciência inequívoca da decisão.
+4. Habeas corpus não conhecido. Ordem concedida, de ofício, para reconhecer a tempestividade do Agravo em Execução Penal interposto e, consequentemente, determinar ao Tribunal a quo que proceda a análise do seu mérito.
+(HC n. 227.271/MS, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 5/9/2013, DJe de 19/9/2013.)
+O executado, ao ter constituído novo advogado nos autos, não tem direito à reabertura do prazo, uma vez que o novo causídico assume o processo no estado em quem se encontra:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANIFESTAMENTE INTEMPESTIVO. DEVOLUÇÃO DO PRAZO POR INGRESSO DE NOVO ADVOGADO. IMPOSSIBILIDADE. . AGRAVO NÃO PROVIDO.
+1. O agravante foi intimado do acórdão em 21/1/2022 e o recurso especial somente foi interposto em 11/2/2022, ou seja, fora do prazo legal de 15 (quinze) dias corridos, conforme disposto no art. 994, VI, c.c. os arts. 1.003, § 5º e 1.029, todos do Código de Processo Civil, bem como o art. 798 do Código de Processo Penal.
+2. A constituição de novos advogados não é capaz de sanar a inércia da defesa, até porque, segundo a jurisprudência deste STJ, o novo causídico assume o processo no estado em que se encontra, não tendo direito à reabertura de oportunidade para a prática de atos processuais ou devolução de prazos.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 2.149.751/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/9/2022, DJe de 21/9/2022.)
+PENAL. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RECURSO MANIFESTAMENTE INTEMPESTIVO. DEVOLUÇÃO DO PRAZO POR INGRESSO DE NOVO ADVOGADO. IMPOSSIBILIDADE. FALTA DE BASE LEGAL, PROVIDÊNCIA QUE, CASO DEFERIDA, VIOLARIA O SISTEMA PROCESSUAL. RECURSO INTEMPESTIVO QUE NÃO INTERROMPE PRAZO PARA EVENTUAL RECLAMO SUBSEQUENTE. TRÂNSITO EM JULGADO. INÍCIO IMEDIATO DA EXECUÇÃO PENAL.
+1. Os aclaratórios são manifestamente intempestivos, pois opostos quando já escoado o prazo de 2 dias, previsto no art. 619 do Código de Processo Penal.
+2. Não há possibilidade de devolução do prazo recursal, pois não há base legal para o pedido, além do que tal providência violaria o sistema processual.
+3. A inércia do advogado constituído pelo réu, que deixa de interpor recurso, não é causa de suspensão ou interrupção de prazos. Eventual constituição de novo causídico, como na hipótese, só gera efeitos a partir da protocolização da comunicação, sendo válidos todos os atos praticados até então, inclusive eventual intimação e seus efeitos (preclusão).
+4. Entender de forma diversa, de maneira a admitir a reabertura de prazo recursal para advogado constituído após a perda do lapso recursal pelo causídico anterior, violaria os princípios da segurança jurídica, da razoabilidade, da lealdade processual e da boa-fé objetiva, pois permitiria manobras ardilosas objetivando a reabertura de prazo recursal diante da inércia da defesa dentro do prazo previsto em lei (precedente do STJ).
+5. Diante da manifesta intempestividade dos aclaratórios, não ocorreu a interrupção do prazo recursal para eventual interposição de recurso subsequente, sendo assim, é possível concluir que ocorreu o trânsito em julgado da condenação, razão pela qual deve ter início a execução.
+6. Embargos de declaração não conhecidos, com determinação de início imediato da execução penal.
+(EDcl no AgRg no AREsp n. 842.406/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/8/2016, DJe de 23/8/2016.)
+Diante dessas premissas, de rigor mesmo o não conhecimento do recurso de agravo em execução.
+Portanto, fica prejudicado o pedido de absolvição da falta grave por falta de provas.
+Assim, não ficou configurada flagrante ilegalidade, hábil a ocasionar o deferimento, de ofício, da ordem postulada.
+Ante o exposto, com amparo no art. 34, XX, do Regimento Interno do STJ, não conheço do habeas corpus.
+Intimem-se.
+EMENTA
