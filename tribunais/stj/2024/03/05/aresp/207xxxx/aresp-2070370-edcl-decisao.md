@@ -1,0 +1,23 @@
+DECISÃO
+L"ESSENCE INDÚSTRIA E COMÉRCIO LTDA. opõe embargos declaratórios contra decisão (fls. 680-682) que negou provimento a agravo em recurso especial.
+Alega a parte embargante que o acórdão foi omisso em relação à correta aplicação do art. 90, § 2º, do CPC, que estabelece a necessidade de repartição dos ônus sucumbenciais quando formalizado acordo entre as partes.
+Requer o acolhimento dos embargos declaratórios com efeitos infringentes para que seja suprida a omissão e alterada a distribuição da sucumbência.
+Não foram apresentadas contrarrazões.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a aclarar obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado.
+Omissão consiste no silêncio do órgão julgador sobre pedido formulado pelas partes, questão relevante ou fundamento autônomo e suficiente deduzido no processo.
+No caso em análise, não há omissão a ser reconhecida.
+A decisão embargada foi clara ao declinar as razões que ensejaram o desprovimento do agravo em recurso especial interposto pela parte ora embargante, consignando expressamente que, além de não caracterizada negativa de prestação jurisdicional a respeito da matéria, a análise sobre a distribuição dos ônus sucumbenciais, a aplicação do princípio da causalidade e o valor dos honorários advocatícios demandava o reexame do conjunto fático-probatório, procedimento vedado nesta instância especial. Confira-se (fls. 681-682):
+Inicialmente, observa-se que não se viabiliza o recurso especial pela indicada violação do artigo 1.022 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+O Tribunal ao apreciar a alegação de realização de acordo entre as partes entendeu que as hipóteses do inciso III do art. 924 do CPC, por expressa referência à obtenção, por qualquer meio, da extinção total da dívida, nada mais traduz, senão que meios atípicos de satisfação da obrigação, daí não haver cogitar-se da liberação da condenação sucumbencial, notadamente porque não se poderia presumir a renúncia à verba honorária devida, e a proposta formulada a fls. 174/175 a tanto não se referiu.
+Logo, não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+3. Quanto a repartição igualitária da sucumbência, considerou que como a ação somente foi ajuizada porque a agravante deixou de pagar as prestações do arrendamento mercantil, dando causa, efetivamente, à invocação da prestação jurisdicional, não há espaço para o acolhimento do pleito.
+Consignou ainda que na hipótese, a proposta de devolução do bem arrendado equivale, em tudo e por tudo, ao reconhecimento jurídico do pedido, com renúncia tácita ao teor dos embargos opostos à execução, daí porque inexorável a condenação da executada na verba honorária sucumbencial devida ao patrono do exequente.
+O STJ possui entendimento uniforme no sentido de que a análise sobre a distribuição do ônus da sucumbência, a aplicação do princípio da causalidade e o valor dos honorários advocatícios demanda o reexame do conjunto fático-probatório, o que é inviável nesta via especial. Incidência da Súmula 7/STJ.  ..
+Para além disso, a aplicação da causalidade e a justa distribuição das despesas e dos honorários resulta na imputação da responsabilidade a quem tornou necessário o processo ou quem seja responsável pela causa superveniente que ensejou sua extinção, como decidido pela Corte de origem.
+Dessa forma, tendo sido a matéria expressamente analisada, inexiste irregularidade sanável por meio dos presentes embargos, não padecendo o acórdão embargado dos vícios que autorizariam sua oposição.
+Se, todavia, a conclusão ou os fundamentos adotados não foram corretos na opinião da embargante, não quer dizer que não existam ou que configurem qualquer outro vício. Afinal, não se pode confundir falta de motivação com fundamentação contrária aos interesses da parte (AgRg no Ag 56.745/SP, r elator Ministro Cesar Asfor Rocha, DJ de 12/12/1994).
+Registre-se ainda que a mera irresignação da parte embargante com o entendimento apresentado não viabiliza a oposição dos aclaratórios (EDcl no AgInt nos EAREsp n. 1.623.529/DF, relator Ministro Og Fernandes, Corte Especial, julgado em 1º/12/2021, DJe de 15/12/2021).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
