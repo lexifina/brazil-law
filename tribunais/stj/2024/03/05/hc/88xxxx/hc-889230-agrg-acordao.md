@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Teodoro Silva Santos e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL. HABEAS CORPUS. DESTRUIÇÃO DE VEGETAÇÃO EM ESTÁGIO DE REGENERAÇÃO. CORTE DE 18 ÁRVORES. CONDIÇÕES PESSOAIS FAVORÁVEIS. CULTIVO PELA PRÓPRIA FAMÍLIA. AUSÊNCIA DE DESTINAÇÃO ECONÔMICA. ATIPICIDADE MATERIAL DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. MÍNIMA OFENSIVIDADE DA LESÃO JURÍDICA PROVOCADA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. O art. 654, § 2º, do Código de Processo Penal atribui aos juízes e tribunais competência para expedir de ofício ordem de habeas corpus, quando no curso de processo verificarem que alguém sofre ou está na iminência de sofrer coação ilegal.
+2. O Direito Penal, como ultima ratio, deve ser acionado apenas quando o bem jurídico tutelado for, de fato, objeto de inequívoca ofensa pelo agente, sob pena de administrativização desta seara.
+3. Hipótese em que a conduta atribuída aos ora agravados se subsume ao tipo penal de destruir ou danificar vegetação primária ou secundária, em estágio avançado ou médio de regeneração, do Bioma Mata Atlântica (art. 38-A da Lei n. 9.605/1998). No entanto, ao cotejar os fatos imputados, com as condições pessoais dos acusados (primários e sem antecedentes criminais), a circunstância de as árvores serem de cultivo pela própria família e o corte ter tido a finalidade de utilização na reforma da residência e não destinação econômica , verifica-se, além da inexpressividade da lesão jurídica provocada (corte de 18 pinheiros), a mínima ofensividade da conduta. Precedente.
+4. A absolvição na seara criminal não afasta a responsabilidade administrativa pela reparação do dano, circunstância a reforçar a desnecessidade de punição penal pelo prejuízo causado.
+5. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo Ministério Público Federal contra a decisão, da minha lavra, em que concedi liminarmente a ordem para absolver os ora agravados de crime ambiental, sob o fundamento da atipicidade da conduta, em razão do princípio da insignificância. Eis a ementa (fl. 425):
+PENAL. HABEAS CORPUS. DESTRUIÇÃO DE VEGETAÇÃO EM ESTÁGIO DE REGENERAÇÃO. CORTE DE 18 ÁRVORES. CONDIÇÕES PESSOAIS FAVORÁVEIS. CULTIVO PELA PRÓPRIA FAMÍLIA. AUSÊNCIA DE DESTINAÇÃO ECONÔMICA. ATIPICIDADE MATERIAL DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. MÍNIMA OFENSIVIDADE DA LESÃO JURÍDICA PROVOCADA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida nos termos do dispositivo.
+Alega o agravante, em síntese, que a ordem foi concedida sem que o Tribunal de origem tenha debatido satisfatoriamente a questão, configurando indevida supressão de instância, além de que a vegetação desmatada é daquelas espécies nativas ameaçadas de extinção (fl. 439).
+Postula, então, seja este agravo regimental recebido e processado para que ocorra a reforma da decisão ora questionada, em juízo de retratação, e, em caso negativo, seja submetido a julgamento pela Colenda Sexta Turma do Superior Tribunal de Justiça, nos termos do art. 259 do RISTJ, para que possa ser conhecido e provido (fl. 441).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL. HABEAS CORPUS. DESTRUIÇÃO DE VEGETAÇÃO EM ESTÁGIO DE REGENERAÇÃO. CORTE DE 18 ÁRVORES. CONDIÇÕES PESSOAIS FAVORÁVEIS. CULTIVO PELA PRÓPRIA FAMÍLIA. AUSÊNCIA DE DESTINAÇÃO ECONÔMICA. ATIPICIDADE MATERIAL DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. MÍNIMA OFENSIVIDADE DA LESÃO JURÍDICA PROVOCADA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. O art. 654, § 2º, do Código de Processo Penal atribui aos juízes e tribunais competência para expedir de ofício ordem de habeas corpus, quando no curso de processo verificarem que alguém sofre ou está na iminência de sofrer coação ilegal.
+2. O Direito Penal, como ultima ratio, deve ser acionado apenas quando o bem jurídico tutelado for, de fato, objeto de inequívoca ofensa pelo agente, sob pena de administrativização desta seara.
+3. Hipótese em que a conduta atribuída aos ora agravados se subsume ao tipo penal de destruir ou danificar vegetação primária ou secundária, em estágio avançado ou médio de regeneração, do Bioma Mata Atlântica (art. 38-A da Lei n. 9.605/1998). No entanto, ao cotejar os fatos imputados, com as condições pessoais dos acusados (primários e sem antecedentes criminais), a circunstância de as árvores serem de cultivo pela própria família e o corte ter tido a finalidade de utilização na reforma da residência e não destinação econômica , verifica-se, além da inexpressividade da lesão jurídica provocada (corte de 18 pinheiros), a mínima ofensividade da conduta. Precedente.
+4. A absolvição na seara criminal não afasta a responsabilidade administrativa pela reparação do dano, circunstância a reforçar a desnecessidade de punição penal pelo prejuízo causado.
+5. Agravo regimental improvido.
+VOTO
+Apesar das alegações do agravante, a decisão repreendida não comporta alteração.
+Primeiro, porque o art. 654, § 2º, do Código de Processo Penal atribui aos juízes e tribunais competência para expedir de ofício ordem de habeas corpus, quando no curso de processo verificarem que alguém sofre ou está na iminência de sofrer coação ilegal.
+Depois, porque o Direito Penal, como ultima ratio, deve ser acionado quando a ofensa ao bem jurídico tutelado for, de fato, objeto de inequívoca ofensa pelo agente, sob pena de administrativização desta seara.
+No caso, a conduta atribuída aos agravados se subsume ao tipo penal imputado. No entanto, ao cotejar os fatos imputados, com as condições pessoais dos acusados (primários e sem antecedentes criminais), a circunstância de as árvores serem de cultivo pela própria família e terem por fim a utilização na reforma da residência, bem como a ausência de destinação econômica do produto do desmatamento, verifica-se, além da inexpressividade da lesão jurídica provocada (corte de 18 pinheiros), a mínima ofensividade da conduta.
+A propósito:
+RECURSO ESPECIAL. CRIME AMBIENTAL. ART. 39 DA LEI 9.605/98. CORTE DE ÁRVORES. ÁREA DE PRESERVAÇÃO PERMANENTE. PRINCÍPIO DA INSIGNIFICÂNCIA. ÍNFIMA LESIVIDADE AO BEM JURÍDICO TUTELADO. ATIPICIDADE MATERIAL DA CONDUTA. ABSOLVIÇÃO MANTIDA. PRECEDENTES DO STJ. RECURSO IMPROVIDO.
+1. Denunciado o recorrido por ter efetuado o corte de nove árvores de pequeno a médio porte, em área de preservação permanente, as quais utilizou na construção de benfeitoria em sua pequena propriedade rural, foi absolvido em ambas as instâncias por atipicidade material da conduta.
+2. Sedimentou-se a orientação de que a aplicação do princípio da insignificância pressupõe a concomitância de quatro vetores, a saber: a mínima ofensividade da conduta, nenhuma periculosidade social da ação, o reduzidíssimo grau de reprovabilidade do comportamento e a inexpressividade da lesão jurídica provocada.
+3. É entendimento do Superior Tribunal de Justiça de que somente haverá lesão ambiental irrelevante quando, na ponderação entres os desvalores da ação e do resultado, houver ínfimo grau de lesividade da conduta praticada.
+4. A inexpressividade da lesão jurídica provocada recomenda a manutenção do acórdão confirmatório da absolvição.
+5. A existência de ação penal pela prática do delito do art. 48 da Lei n. 9.605/1998 não obsta, por si só, a incidência do princípio da insignificância, quando inexpressiva a lesividade ao bem jurídico protegido pela norma incriminadora do art. 39 da Lei n. 9.605/1998.
+6. Recurso especial improvido.
+(REsp n. 1.770.667/RS, Ministro Nefi Cordeiro, Sexta Turma, DJe 4/4/2019 - grifo nosso).
+É de se ressaltar que a absolvição na seara criminal não afasta a responsabilidade administrativa pela reparação do dano, circunstância a reforçar a desnecessidade de punição penal pelo prejuízo causado.
+Em face do exposto, nego provimento ao agravo regimental.
