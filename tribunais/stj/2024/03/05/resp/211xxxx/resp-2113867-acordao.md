@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro-Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. PREQUESTIONAMENTO.
+1. O recurso especial não é conhecido quando as suas razões forem deficientemente fundamentadas (Súmula 284/STF) e quando inexistente o prequestionamento da tese (Súmula 211/STJ).
+2. Recurso especial não conhecido.
+RELATÓRIO
+A Universidade Federal de Pernambuco interpõe recurso especial com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição da República, contra o acórdão prolatado pelo Eg. Tribunal Regional Federal da 5.ª Região, ementado assim:
+PROCESSO CIVIL E ADMINISTRATIVO. APELAÇÃO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO PARA A UNIVERSIDADE FEDERAL DE PERNAMBUCO. PRELIMINAR DE DECADÊNCIA. REJEIÇÃO. VAGA DESTINADA PARA CANDIDATO DA COTA RACIAL. PRETERIÇÃO CONFIGURADA. COMPROVAÇÃO. APELAÇÃO E REMESSA OFICIAL IMPROVIDAS.
+1. Apelação interposta pela UFPE em face da sentença que, confirmando a tutela de urgência deferida, concedeu parcialmente a segurança para determinar à autoridade coatora que proceda à imediata nomeação do impetrante para o cargo de Técnico em Radiologia na vaga reservada para candidatos negros, no concurso regulado pelo Edital UFPE n.º 53/2018 em obediência ao disposto nos os itens 9.6 e 9.7 do referido edital 53/2018 ao Decreto nº 9.739/2019 (Anexo VII do edital). Sem condenação em honorários advocatícios.
+2. Rejeitada a preliminar de decadência suscitada pela ora recorrente. Isso porque, no caso de que ora se cuida, o prazo decadencial previsto no art. 23 da Lei 12.016/09 não deve ser contado da data em que ocorreu a publicação da homologação dos resultados, mas sim da data da publicação da Portaria nº 2.529, de 1º de julho de 2021, que nomeou os candidatos nos respectivos cargos, deixando de fora o impetrante. Nesse contexto, não ocorreu a decadência no caso em discussão, pois se verifica que a presente ação mandamental foi impetrada em 20/07/2021, dentro, portanto, do prazo legal.
+3. Na espécie, o candidato L.O.S. finalizou o concurso na 2ª colocação (para ampla concorrência) e na 1ª colocação (como candidato cotista), conforme Edital de Homologação anexado, o que não poderia ser computado para efeito do preenchimento das vagas reservadas aos cotistas, por força do que preceitua a norma inserta no art. 3º, §1º, da Lei nº 12.990/2014:
+4. É de se registrar, inclusive, que quando da publicação da Portaria de Nomeação nº 2.529, existiam 03 (três) vagas disponíveis, de forma que o candidato L.O.S. - que, ressalta-se, logrou a 2ª colocação nas vagas destinadas à ampla concorrência - deveria ter sido nomeado para essas vagas e o ora apelado - que havia ficado em 2º lugar na classificação destinada aos cotistas, deveria ter sido nomeado para a vaga reservada aos cotistas, mormente em se verificando que, de acordo com o Anexo VII do Edital 53/2018, a 1ª e a 2ª vaga seriam preenchidas por candidatos da ampla concorrência e a 3ª vaga ocupada por candidato da cota racial.
+5. Na hipótese, como L.O.S. foi aprovado dentro do número de vagas oferecido para a ampla concorrência, não poderia ser computado para efeito do preenchimento das vagas reservadas a candidatos cotistas, haja vista o que preceitua a norma inserta no art. 3º, §1º da Lei nº 12.990/2014 (acima reproduzido), passando, então, o apelado a ocupar a 1ª colocação na lista de classificação de candidatos da cota racial.
+6. Configurado o equívoco a Administração no caso em discussão, visto que, ao invés de nomear os 02 (dois) candidatos da lista de ampla concorrência e 01 (um) candidato da cota racial, publicou, no dia 05/07/2021 a Portaria de Nomeação nº 2.529, fazendo constar como candidatos nomeados, em número de três, todos aprovados para a ampla concorrência, o que implicou a preterição do ora apelado, que concorreu para a vaga de cotista racial. Portanto, não merece reparo a sentença vergastada, impondo sua manutenção na integralidade.
+7. Sem condenação em honorários advocatícios.
+8. Apelação e remessa oficial improvidas.
+(PROCESSO: 08085109320214058200, APELAÇÃO/REMESSA NECESSÁRIA, DESEMBARGADOR FEDERAL ANDRE LUIS MAIA TOBIAS GRANJA, 4ª TURMA, JULGAMENTO: 02/05/2023)
+Trata-se de demanda instaurada no contexto de concurso público para o quadro funcional da ora recorrente.
+O candidato alegava ter participado do certame e ter disputado uma vaga do cargo de Técnico em Radiologia, tendo optado pela concorrência especial de negros e pardos para o qual a oferta de vagas era de apenas uma.
+Nada obstante tivesse se classificado na segunda colocação, o que ensejava na verdade a sua desclassificação, havia no edital um regramento (item 4.11) que amparava a sua pretensão ao provimento, qual fosse, o candidato que concorresse ao mesmo tempo na ampla concorrência e na concorrência especial seria considerado classificado apenas "na ampla" se obtivesse êxito em ambas, ou seja, ele seria "remanejado" da especial para a ampla e considerado aprovado unicamente nesta.
+Em razão dessa regra o candidato Levy Oliveira da Silva, que se classificou em primeiro lugar na concorrência especial e na segunda colocação na concorrência ampla, não poderia ter impedido a reclassificação do ora recorrido na primeira posição nem, portanto, o provimento dele no cargo.
+Pois bem, essa pretensão foi acolhida em ambos os graus de jurisdição da instância ordinária e disso vem o recurso especial cujas razões assentam tese de violação ao art. 5.º da Lei 14.133/2021, porque não observado o princípio da vinculação ao edital na medida em que a situação do ora recorrido era de eliminação no certame por haver se classificado fora das vagas ofertadas.
+Além disso, ele não podia passar de imediato para ampla concorrência pois, segundo Edital em seu item 4.11, essa migração só aconteceria entre as vagas oferecidas, ou seja, as vagas ofertadas, de forma que só havia uma única vaga e, portanto, o ora recorrido continuaria sendo o primeiro homologado entre os negros e pardos, esta a razão pela qual o nome do outro candidato apareceu nas duas listas.
+Como houve a criação de duas vagas adicionais, chamaram-se apenas os candidatos da concorrência ampla porque em tal momento o único da concorrência especial era considerado eliminado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. PREQUESTIONAMENTO.
+1. O recurso especial não é conhecido quando as suas razões forem deficientemente fundamentadas (Súmula 284/STF) e quando inexistente o prequestionamento da tese (Súmula 211/STJ).
+2. Recurso especial não conhecido.
+VOTO
+O recurso especial não pode ser conhecido.
+Há mencionar primeiramente que a parte recorrente elegeu duas hipóteses de cabimento, mas as razões referentes ao dissídio jurisprudencial são inexistentes e nesse sentido aplica-se o óbice da Súmula 284/STF.
+Quanto ao argumento referente à violação ao art. 5.º da Lei 14.133/2021 a conclusão há de ser pela absoluta carência de prequestionamento senão vejamos como a questão foi decidida:
+Passando, assim, ao exame da questão de mérito trazida a contexto pela ora recorrente, constata-se também não haver motivos suficientes para reforma da sentença vergastada.
+É que se candidato LEVY OLIVEIRA DA SILVA finalizou o concurso na 2ª colocação (para ampla concorrência) e na 1ª colocação (como candidato cotista), conforme Edital de Homologação anexado no id. 4058200.8279162 e no id. 4058200.8279161, não poderia ser computado para efeito do preenchimento das vagas reservadas, por força do que preceitua a norma inserta no art. 3º, §1º, da Lei nº 12.990/2014:
+ ..
+É de registrar, inclusive, que quando da publicação da Portaria de Nomeação nº 2.529 (id. 4058200.8279157), existiam 03 (três) vagas disponíveis, de forma que o candidato LEVY OLIVEIRA DA SILVA - que, repito, logrou a 2ª colocação nas vagas destinadas à ampla concorrência - deveria ter sido nomeado para essas vagas e o impetrante (JOÃO FERREIRA DA SILVA) - que havia ficado em 2º lugar na classificação destinada aos cotistas) - deveria ter sido nomeado para a vaga reservada aos cotistas, mormente em se verificando que, de acordo com o Anexo VII do Edital 53/2018 (id. 4058200.8279159 - pág.35), a 1ª e a 2ª vaga seriam preenchidas por candidatos da ampla concorrência e a 3ª vaga ocupada por candidato da cota racial.
+Cumpre-me frisar, mais uma vez, que como LEVY OLIVEIRA DA SILVA foi aprovado dentro do número de vagas oferecido para a ampla concorrência, não poderia ser computado para efeito do preenchimento das vagas reservadas a candidatos cotistas, haja vista o que preceitua a norma inserta no art. 3º, §1º da Lei nº 12.990/2014 (acima reproduzido), passando, então, JOÃO FERREIRA DA SILVA a ocupar a 1ª colocação na lista de classificação de candidatos da cota racial.
+Parece, assim, ter incorrido em equívoco a Administração no caso em discussão, visto que, ao invés de nomear os 02 (dois) candidatos da lista de ampla concorrência (a saber: BRUNO VASCONCELLOS VINHAS e LEVY OLIVEIRA DA SILVA) e 01 (um) candidato da cota racial (JOÃO FERREIRA DA SILVA), publicou, no dia 05/07/2021 a Portaria de Nomeação nº 2.529 (id. 4058200.8279157), fazendo constar como candidatos nomeados BRUNO VASCONCELLOS VINHAS, LEVY OLIVEIRA DA SILVA e IVAN EUFRÁSIO DE SANTANA (este também aprovado para a ampla concorrência).
+Portanto, não merece reparo a sentença, impondo sua manutenção na integralidade.
+Isso posto, nego provimento à apelação e à remessa oficial.
+Sem condenação em honorários advocatícios.
+É como voto.
+Assim, incide o óbice da Súmula 211/STJ.
+Forte nessas razões não conheço do recurso especial.
+Sem honorários recursais tendo em vista o disposto no art. 25 da Lei 12.016/2009.
+É o voto.
