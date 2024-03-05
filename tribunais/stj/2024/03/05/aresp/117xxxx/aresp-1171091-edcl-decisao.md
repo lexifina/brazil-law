@@ -1,0 +1,18 @@
+DECISÃO
+Em análise, embargos de declaração opostos por ANTÔNIO CARLOS PANNUNZIO contra decisão proferida pelo Ministro OG FERNANDES, que conheceu do agravo para não conhecer do recurso especial, por perda do objeto.
+O embargante sustenta, em síntese, a existência de erro material na decisão embargada. Para tanto, alega que o caso dos autos "origina-se do Cumprimento de Sentença, no qual foi proferida decisão interlocutória que fixou multa de 20% sobre o valor da execução, em razão de suposto ato atentatório à dignidade da justiça".
+Ao final, requer "sejam acolhidos os presentes embargos de declaração, com efeitos infringentes, a fim de que seja reconhecido e corrigido o erro material apontado, determinando-se, assim, o regular processamento e a análise do Recurso Especial, eis que ausente qualquer perda de seu objeto".
+Na petição de fl. 234e é noticiado o falecimento do Sr. NELSON CARREA, autor da ação popular que originou o presente recurso.
+Após manifestação das partes, deferi o pedido de ingresso do MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO, nos termos do art. 9º da Lei 4.717/65.
+É o relatório.
+Passo a decidir.
+Os embargos de declaração merecem ser acolhidos, pois, de fato, a decisão embargada contém erro material.
+Isso porque a sentença mencionada na decisão embargada, proferida em 11/03/2002, é aquela em cuja fase de cumprimento foi proferida a decisão que impôs ao embargante a multa do art. 601, IV, do CPC/73, impugnada no presente recurso. Ou seja, é anterior ao agravo de instrumento apreciado no acórdão recorrido. Assim, não há falar em perda do objeto do agravo em recurso especial.
+Desta forma, corrigido o erro material apontado, passo ao reexame do recurso.
+Na origem, a parte embargante interpôs agravo de instrumento contra decisão que, em cumprimento de sentença proferida em ação popular, lhe impôs a multa prevista no art. 600, IV, do CPC/73.
+No acórdão recorrido, publicado em 30/05/2011, o Tribunal de origem negou provimento ao agravo de instrumento, ao fundamento de que "os artigos 600 e 601 do CPC aplicam-se às diversas espécies de execução, tanto é que constam do capítulo concernente às "disposições gerais"".
+Em seu recurso especial, o recorrente sustenta, em síntese, que "o processo de origem encontra-se em fase de cumprimento de sentença e deve seguir o rito estabelecido nos artigos 475-J e seguintes da lei processual. A incidência da multa de 20%, conforme disposto no CPC 601, verifica-se somente nos casos de execução de título extrajudicial".
+Ocorre que, conforme jurisprudência do Superior Tribunal de Justiça, "são cumuláveis as sanções dos arts. 475-J e 601 do CPC. A multa do art. 475-J do CPC é uma sanção específica para o descumprimento, no prazo de 15 dias, da ordem que emana da sentença. A multa do art. 601 do CPC, por sua vez, se caracteriza como uma sanção à prática de ato atentatório à dignidade da justiça. Trata-se, pois, de sanção específica, tanto que o próprio caput do art. 601 ressalva que sua incidência se dá "sem prejuízo de outras sanções de natureza processual ou material", como é a do art. 475-J" (REsp n. 1.101.500/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/5/2011, DJe de 27/5/2011). Nesse sentido: REsp n. 647.175/RS, relatora Ministra Laurita Vaz, Quinta Turma, julgado em 26/10/2004, DJ de 29/11/2004, p. 393.
+Isso posto, acolho os embargos de declaração, com efeitos modificativos, para, sanando o erro material apontado, reconsiderar da decisão de fls. 219/221. Com fundamento no art. 253, parágrafo único, II, b, do RISTJ e na Súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial.
+I.
+EMENTA
