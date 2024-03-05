@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, interposto por VEGA CONSTRUTORA E INCORPORAÇÕES LTDA., fundamentado na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado (e-STJ, fl. 498):
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE ENTREGA DE COISA CERTA C/C OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MORAIS. CONTRATO PARA ENTREGA DE MÓVEIS PLANEJADOS. MERO INADIMPLEMENTO CONTRATUAL. ATRASO QUE NÃO TRANSBORDA O MERO ABORRECIMENTO. ÔNUS SUCUMBENCIAIS.
+1. Para a configuração de danos morais, é entendimento pacífico na jurisprudência de que o atraso anormal na em uma contraprestação contratual gera a frustração de expectativa legítima da parte, situação que revela violação do dever de proteção e lealdade existente entre os contratantes, promovendo irreparável quebra da confiança, ato ilícito grave e passível de reparação. Nesse contexto, ao que se apura dos autos, o atraso no cumprimento do contrato não teve o condão de transbordar o mero aborrecimento pelo inadimplemento contratual, o que não enseja a medida reparatória, mormente por não ter demonstrado a autora abalo à honra objetiva da pessoa jurídica.
+2- Pela sucumbência dos danos morais aqui indeferidos, imputo à autora o pagamento pela totalidade dos ônus sucumbenciais, cujo percentual majoro para 12% (doze porcento) sobre o valor da causa, dada a improcedência recursal,nos termos do artigo 85, § 11º, do CPC. RECURSO CONHECIDO, MAS IMPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 516-524).
+Nas razões do recurso especial (e-STJ, fls. 527-534), a parte recorrente alega a violação do art. 85 do Código de Processo Civil de 2015, sustentando a sucumbência da recorrida nos pleitos de indenização por danos materiais e lucros cessantes, havendo ofensa ao principio da causalidade.
+Foram apresentadas contrarrazões (e-STJ, fls. 545-551).
+O Tribunal de origem não admitiu o recurso especial em razão de sua intempestividade (e-STJ, fls. 554-558).
+É o relatório. Decido.
+O recurso especial é intempestivo.
+A Corte Especial do STJ, no julgamento do AgInt no AREsp 957.821/MS, ao interpretar os arts. 932, parágrafo único, e 1.003, § 6º, do CPC/2015, firmou orientação de que o recorrente deve comprovar "a ocorrência de feriado local no ato de interposição do recurso", de maneira que fica inviabilizada a apresentação de documento hábil em momento posterior para demonstrar sua tempestividade. Eis a ementa do referido acórdão:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo".
+4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido."
+(AgInt no AREsp 957.821/MS, Rel. Ministro RAUL ARAÚJO, Rel. p/ acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 20/11/2017, DJe de 19/12/2017)
+Por ocasião do julgamento do REsp 1.813.684/SP, Relator Ministro RAUL ARAÚJO, Relator p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 2/10/2019, DJe 18/11/2019, esse entendimento foi reafirmado, mas houve a modulação de efeitos quanto ao feriado de segunda-feira de Carnaval, cuja comprovação, por documento idôneo, foi admitida posteriormente no caso de recursos interpostos até 18/11/2019, data da publicação deste último julgado (QO no REsp 1.813.684/SP, Rel. Ministra Nancy Andrighi, julgado em 3/2/2020).
+No caso dos autos, não foi obedecido o prazo para a interposição do recurso especial, que é de 15 (quinze) dias úteis, nos termos do art. 1.003, § 5º, c/c 219, caput, do CPC/2015.
+Com efeito, é incontroverso que a parte recorrente foi intimada do acórdão recorrido em 7/7/2023 (e-STJ, fl. 525), e o prazo recursal expirou em 28/7/2023, anteriormente à protocolização da petição do recurso em 31/7/2023. Isso porque não houve comprovação, por documento idôneo e no ato da interposição do recurso, da suspensão do expediente forense no dia 26/7/2023 (Consagrado à fundação da Cidade de Goiás e Padroeira de Goiás).
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
