@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto BRUNO EVAIR BARBOSA em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa é a seguinte (e-STJ fl. 59):
+Agravo em Execução. Indeferimento de pedido de autorização de visita pelos irmãos menores de idade. Direito de visita não é absoluto. Decisão mantida. Recurso desprovido.
+Nas razões do recurso especial (e-STJ, fls. 68/83), fundado nas alínea "a" do permissivo constitucional, alega a parte recorrente violação do artigo 41 da LEP, ao argumento de que constituem direitos do preso a visita do cônjuge, da companheira, de parentes e amigos em dias determinados (e-STJ, fl. 71).
+Apresentadas contrarrazões, o Tribunal a quo não admitiu o recurso especial, ensejando a interposição do presente agravo. O Ministério Público Federal manifestou-se pelo não provimento do recurso (e-STJ, fls. 129/134).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+Insurge-se o agravante contra acórdão que negou provimento a agravo em execução, em que se pretendia o reconhecimento do direito de visitação de seus irmão menores de idade, em síntese, pelos seguintes fundamentos (e-STJ fls. 60/61):
+O recurso não comporta provimento.
+Nos termos do Art. 41, X, da Lei de Execução Penal, o direito de visita não é absoluto, podendo sofrer restrições, nos termos do que dispõe o Art. 41, parágrafo único, da Lei de Execução Penal, determinando serem sopesadas as peculiaridades do caso concreto.
+Diante disso, os irmãos do recorrente, menores de idade, foram impedidos de visitá-lo no interior do estabelecimento prisional, sendo devidamente justificada a decisão da Autoridade Penitenciária de restringir o direito de visita ao agravante.
+Desse modo, a decisão administrativa indeferiu o pedido de visita, nos termos da Resolução SAP 144, que institui o Regimento Interno Padrão das Unidades Prisionais do Estado de São Paulo e em seu artigo 112 estabelece que "a entrada de crianças e adolescente, para visitas comuns, é permitida somente quando o menor for filho ou neto do preso a ser visitado".
+Logo, considerando que as crianças em questão não se enquadram no grau de parentesco previsto no regramento administrativo, afasta-se a possibilidade da autorização de visita. Em caso similar, julgado da lavra desse Egrégio Tribunal de Justiça, no sentido de que os direitos da criança e do adolescente devem ser protegidos e prevalecem sobre o direito de visita do sentenciado:
+"Agravo em execução. Direito de Visita. Restrições. Artigo 41, parágrafo único, da Lei de Execução Penal. Direitos da criança e do adolescente que prevalecem sobre o direito de visita do condenado.
+Vínculo afetivo não demonstrado. Não provimento ao recurso". (TJSP; Agravo de Execução Penal 0004798-39.2017.8.26.0509; Relator (a): ZorziRocha;ÓrgãoJulgador:6ª Câmara de Direito Criminal; Araçatuba/DEECRIM UR2 Unidade Regional de Departamento Estadual de Execução Criminal DEECRIM 2ª RAJ; Data do Julgamento: 08/03/2018;Data de Registro: 09/03/2018).
+Assim, a decisão administrativa, referendada pelo MM. Juízo a quo, deve ser mantida.
+O direito do preso de receber visitas é assegurado pelo art. 41, X, da Lei de Execuções Penais (Lei 7.210/1984), nos seguintes termos:
+Art. 41 - Constituem direitos do preso: (..)
+X - visita do cônjuge, da companheira, de parentes e amigos em dias determinados;
+Tal direito não é absoluto e deve ser sopesado, de acordo com a situação específica vivenciada no caso concreto, em conjunto com outros princípios, dentre os quais o que visa a garantir a disciplina e a segurança dentro dos estabelecimentos prisionais, velando, por consequência, também pela integridade física tanto dos reclusos quanto dos que os visitam.
+Esta Corte vem admitindo a restrição de visitas a presos por menores de idade, ao fundamento de que "Embora seja assegurado expressamente pela Lei de Execução Penal, o direito de visitação, com o objetivo de ressocialização, não deve se sobrepor aos direitos dos menores. Isto porque os estabelecimentos prisionais são, por sua própria natureza, ambientes impróprios à formação psíquica e moral de crianças e adolescentes, cuja proteção integral tem base constitucional, nos termos do art. 227 da Constituição Federal" (HC 304.325/DF, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 2/06/2015, DJe 23/06/2015). No mesmo sentido, AgInt no AREsp 893.384/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 30/6/2016, DJe 1º/8/2016.
+Confira-se:
+EXECUÇÃO PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. DIREITO DE VISITA. ENTRADA DE ADOLESCENTE EM ESTABELECIMENTO PRISIONAL. NEGADO. PREPONDERÂNCIA DA PRESERVAÇÃO DA INTEGRIDADE FÍSICA, MORAL E PSICOLÓGICA DAS ADOLESCENTES. DOUTRINA DA PROTEÇÃO INTEGRAL. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Segundo reiterada jurisprudência desta Corte, o direito de visita, disposto no art. 41, X, da Lei de Execução Penal, embora seja relevante para o processo de reinserção do preso à sociedade e imprescindível para a manutenção dos seus laços familiares, não ostenta natureza absoluta e deve ser deferido após a análise das circunstâncias do caso concreto.
+3. Não há ilegalidade nas decisões impugnadas que negaram ao paciente o direito à visitação, diante da necessidade de se assegurar a integridade física e psíquica das suas irmãs adolescentes, com fulcro na doutrina da proteção integral e no art. 227 da Constituição Federal (Precedentes).
+4. Writ não conhecido. (HC n. 298.828/DF, R elator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/5/2016, DJe de 3/6/2016)
+Diante de tais premissas, o acórdão recorrido corrobora a orientação jurisprudencial desta Corte, razão por que o recurso não comporta provimento.
+Incide, portanto, a Súmula 568 do STJ, segundo a qual "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante" .
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
