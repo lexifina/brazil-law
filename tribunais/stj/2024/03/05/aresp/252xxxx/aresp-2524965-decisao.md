@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CARVALHO ENGENHARIA & GESTÃO LTDA. contra decisão que inadmitiu recurso especial com fundamento na Súmula n. 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra do Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 219):
+APELAÇÃO. COMPRA E VENDA DE BEM MÓVEL. GERADOR. Pretensão de obrigação de dar coisa certa. Partes que celebraram contrato de compra e venda de gerador. No prazo da garantia, o equipamento apresentou defeito. Preço restituído. Alegação de que houve a aquisição de novo gerador, o qual não teria sido entregue. Sentença de improcedência. Inconformismo. AUSÊNCIA DE DEVOLUÇÃO DO EQUIPAMENTO AVARIA DO RE FATURAMENTO. Após tratativas entre as partes, a apelada realizou o estorno dos valores pagos pela apelante, restituindo-lhe o preço e solicitou a devolução da máquina. Ausência de devolução da máquina. Inexistência de aquisição de novo produto pela apelante. Descabida a obrigação de entregar novo equipamento. Sentença mantida. Honorários majorados. RECURSO NÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (fl. 237).
+Nas razões do recurso especial, a ora agravante aponta violação do art. 1.022, II, do CPC. Sustenta que houve omissão no acórdão recorrido sobre "a postura desleal da parte adversa que, apesar de negar, desde a contestação, ter recebido o produto defeituoso de volta, foi desmentida por sua própria testemunha Flávio" (fl. 248).
+Afirma que devolveu o produto defeituoso e que pagou o valor do refaturamento.
+Requer, assim, o provimento do recurso para que seja determinado novo julgamento do recurso de apelação.
+As contrarrazões foram apresentadas às fls. 256-267.
+É o relatório. Decido.
+A irresignação não reúne condições de prosperar.
+Reitere-se que, conforme exposto no acórdão de fls. 236-240, foi afastada a alegada ofensa ao art. 1.022, II, do CPC, porquanto a Corte de origem examinara e decidira, de modo claro e objetivo, a questão relacionada à devolução do gerador com defeito.
+No caso, o Tribunal de origem concluiu que a parte recorrente não adquiriu novo equipamento da recorrida, e sim refaturou o gerador que apresentara vício, cujo preço foi devolvido, mas o bem permaneceu na posse da adquirente (fl. 222).
+Confiram-se trechos do voto condutor dos embargos de declaração (fl. 238):
+Ora, restou consignado que "Durante a instrução, foi ouvido o informante Flávio, arrolado pela apelada. Ele informou que a Compac realizou um socorro "in loco" na máquina adquirida pela apelante, sendo diagnosticado um problema no motor de partida e, em seguida, constatado que se tratava de problema operacional. Informou, também, que foi realizada a substituição de uma peça pelo fabricante Branco Motores, mas que a máquina teria apresentado o mesmo problema. Com a reclamação do cliente, a Compac e Branco Motores resolveram por bem devolver o dinheiro e receber o gerador de volta, pois o problema era operacional e não de fabricação. O fabricante Branco Motores restituiu o valor para Compac que, por sua vez, o restituiu para Auto Socorro. Passa dos mais de 30 dias sem a devolução do gerador pela apelada, apelante foi alertada que a fabricante Branco Motores não aguardaria mais a entrega do equipamento, em razão disso, a apelada emitiu uma nota fiscal de refaturamento do gerador e a apelante pagou o refaturamento, pois não poderia ficar sem a máquina que estaria em uso no Estado do Mato Grosso. Afirmou que a máquina é a mesma indicada na nota fiscal emitida em maio de 2020 (fls.148).
+Restou claro que a apelante não adquiriu novo equipamento da apelada, pois da compra do gerador em maio de 2020 até a emissão da nota fiscal de refaturamento nº 093474, em outubro de 2020, a máquina estava com a apelante, inclusive depois de ter recebido o estorno dos valores pagos pela compra (R$ 12.833,35fls.82)".
+Portanto, a parte agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em favor d o patrono da parte ora recorrida, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
