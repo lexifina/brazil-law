@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de CARLOS EDUARDO SILVA DOS SANTOS, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO no julgamento da Apelação n. 0012469-71.2020.8.11.0042.
+Extrai-se dos autos que o paciente foi condenado à pena de 6 anos e 3 meses de reclusão, em regime inicial fechado, e pagamento de 625 dias-multa por ter supostamente praticado o delito tipificado no art. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas), tendo sido negado o direito de recorrer em liberdade, mantendo-se a custódia cautelar anteriormente decretada.
+Irresignada, a defesa interpôs apelação perante o Tribunal de origem, o qual negou provimento ao recurso nos termos do acórdão que restou assim ementado:
+"APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - CONDENAÇÃO - IRRESIGNAÇÃO DEFENSIVA - PRELIMINAR - ILEGALIDADE DO FLAGRANTE - ENTRADA NO DOMICÍLIO SEM AUTORIZAÇÃO OU MANDADO JUDICIAL - IMPERTINÊNCIA - CIRCUNSTÂNCIAS DO FLAGRANTE QUE JUSTIFICAM A ENTRADA DOS POLICIAIS NO LOCAL - CRIME PERMANENTE - MÉRITO - DESCLASSIFICAÇÃO PARA A FIGURA PREVISTA NO ARTIGO 28 DA LEI ANTIDROGAS - DESCABIMENTO - AUTORIA DA CONDUTA MAIS GRAVOSA EVIDENCIADA - NEGATIVA DA TRAFICÂNCIA ISOLADA E INVEROSSÍMIL - QUANTIDADE DE DROGAS INCONDIZENTE COM A CONDIÇÃO DE MERO USUÁRIO - REDUÇÃO DA PENA-BASE - DESPROPÓSITO - RECRUDESCIMENTO EM APENAS TRÊS MESES COM BASE NO DISPOSTO NO ARTIGO 42 DA LEI N. 11.343/2006 - APELO DESPROVIDO.
+O crime de tráfico de drogas é considerado delito permanente, e sua consumação, bem como o estado de flagrância se prolongam no tempo, o que justifica a entrada dos agentes estatais no domicílio alheio, mormente quando a fundada suspeita é visível em razão da desobediência e fuga de indivíduo suspeito para dentro da residência, e, consequentemente, o princípio da inviolabilidade do domicílio - que não é absoluto - fica mitigado, como autoriza o próprio artigo 5º, inciso XI, da Constituição Federal, além do disposto nos artigos 240 e 303 do Código de Processo Penal.
+A alegação de mero usuário de drogas mostra-se totalmente dissociada da realidade fático-probatória, sobretudo diante da apreensão de aproximadamente 250g de maconha, na forma de tablete (forma incomum de acondicionamento de drogas por usuários), que era mantida por indivíduo que disse estar desempregado, de modo que tais circunstâncias revelam que a droga apreendida também era destinada à mercancia, pois a condição de usuário, por si só, não tem o condão de descaracterizar a imputação de ser o agente também traficante, até porque o tráfico alimenta o próprio vício.
+A presença de uma única circunstância judicial desfavorável, revelada pela quantidade de drogas apreendidas (art. 42 da Lei Antidrogas) possibilita o aumento da pena-base, de modo que o acréscimo da reprimenda, nessa primeira fase, em apenas três meses, não representa qualquer ofensa ao princípio da razoabilidade e proporcionalidade da pena" (fls. 97/98).
+Inconformada, a defesa interpôs Recurso Especial, que, admitido, se encontra pendente de julgamento. No presente writ, o impetrante sustenta constrangimento ilegal em razão de a ação policial que resultou na prisão do paciente não ter sido precedida de fundada suspeita.
+Aponta ofensa ao disposto no art. 5º, incisos X e XI, da Constituição, uma vez que a prova da materialidade do crime decorreu após inviolabilidade domiciliar, sem justa causa, autorização do morador ou mandado judicial para realização do ato.
+Pugna, em liminar e no mérito, pela revogação da prisão preventiva do paciente, ainda que mediante a aplicação de medidas menos gravosas. No mérito, requer seja reconhecida a ilicitude das provas, com a consequente absolvição do paciente.
+A liminar foi indeferida às fls. 148/150. O Ministério Público Federal opinou pela prejudicialidade do writ às fls. 157/159.
+É o relatório.
+Decido.
+O pedido está prejudicado.
+Isso porque, verifica-se que, em 5/2/2024, o paciente foi absolvido no julgamento do REsp n. 2.066.619/MT, de minha relatoria.
+Dessa forma, inegável a perda superveniente do objeto do writ.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
