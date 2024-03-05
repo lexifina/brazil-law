@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LUCAS RAFAEL DE OLIVEIRA SILVA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação n. 1501369-80.2020.8.26.0542).
+Depreende-se dos autos que o réu foi condenado a 1 ano e 8 meses de reclusão, no regime inicialmente aberto, substituída a pena privativa de liberdade por duas restritivas de direito, pela prática de delito tráfico de drogas em sua modalidade privilegiada. Segundo consta, foram apreendidos de cerca de 123g (cento e vinte e três gramas) de maconha, 155g (cento e cinquenta e cinco gramas) de cocaína e 27g (vinte e sete gramas) de crack (e-STJ fl. 24).
+Interposta apelação pelo Ministério Público, o Tribunal de origem deu provimento ao recurso ministerial para afastar o redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006, e fixou a pena em 5 anos de reclusão, estabelecendo o regime fechado para o início do cumprimento da pena, conforme acórdão ementado à e-STJ fl. 23.
+Daí o presente writ, no qual sustenta a defesa fazer jus o réu à aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006 em sua fração máxima.
+Aduz preencher o agente os requisitos para a fixação de regime inicial menos gravoso.
+Requer, assim, a aplicação da minorante do art. 33, § 4º, da Lei de Drogas e a fixação de regime inicial menos gravoso.
+Liminar indeferida.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (e-STJ fls. 128/129).
+É o relatório.
+Decido.
+Preliminarmente, cumpre ressaltar que, na esteira da orientação jurisprudencial do Superior Tribunal de Justiça, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+A cerca do tema, assim se manifestou o Juízo sentenciante (e-STJ fls. 20, grifei):
+Passo à dosimetria.
+Na primeira fase, considerando a diversidade e a elevada quantidade de drogas (53 porções de "maconha"; 310 de cocaína; 78 de "crack"), nos termos do art. 42 da Lei de Drogas, fixo a pena-base em 1/5 (um quinto) acima do mínimo legal, em 6 (seis) anos de reclusão, e multa de 600 (seiscentos) dias-multa.
+Na segunda fase, não há agravantes a considerar. A atenuante da confissão retorna as penas para os mínimos legais, menos, impossível, só dado a causa de diminuição (Súmula n.º 231 do Colendo Superior Tribunal de Justiça) Na terceira fase, não há majorantes, e incide o disposto no art. 33, § 4.º, da Lei de Drogas.
+Mesmo que a quantidade de drogas com o Réu não fosse pequena, pelo contrário, não há elementos a indicarem que Lucas, primário e sem antecedentes criminais, participasse de organização criminosa ou estivesse corriqueiramente incurso em tráfico de drogas.
+Em resumo, há primariedade e sinais de que o Réu pode se corrigir, cabendo beneficiá-lo com a minorante.
+Reduzo as penas de 2/3 (dois terços), para 1 (um) ano e 8 (oito) meses de reclusão e 166 (cento e sessenta e seis) dias-multa.
+Conforme hodiernos entendimentos das Cortes Superiores, o regime inicial reclusivo é o aberto, e substituo a reclusão por prestação de serviços à comunidade pelo mesmo prazo e multa, de 10 (dez) dias-multa.
+Já a Corte de origem, no ponto, assim consignou (e-STJ fls. 26/28, grifei):
+De fato, tenho que não era mesmo o caso da aplicação da causa especial de diminuição de pena do artigo 33, § 4º, da Lei nº 11.343/06, porquanto, na hipótese dos autos, embora o réu seja tecnicamente primário, as circunstâncias de cometimento do delito indicam que não se trata a hipótese de tráfico eventual, sendo que a pena aplicada não se mostra suficiente para a repressão e prevenção ao crime de tráfico ilícito de drogas.
+ ..
+Não é o caso dos autos. O réu foi condenado por portar expressiva quantidade de drogas 53 porções de maconha, 310 de cocaína e 78 de crack) -, além de R$138,00 em dinheiro, sem comprovação da origem lícita, demonstrando que o tráfico era seu meio de vida, de acordo com a prova colhida nos autos.
+ ..
+Ressalto ainda que, a qualidade das drogas (cocaína), com potencialidade lesiva incomum, além da quantidade, que seria o suficiente para atingir um número considerável de usuários, impedem a concessão da benesse.
+Dessa forma, afasto a aplicação da causa especial de diminuição de pena, prevista no § 4º do artigo 33, da Lei 11.343/06, devendo a pena retornar ao patamar de 05 anos de reclusão e 500 dias- multa, fixado na segunda fase da dosimetria.
+No que diz respeito à imposição do regime prisional, afastada a figura do tráfico privilegiado, o fechado se mostra o adequado, em atenção às circunstâncias especialmente gravosas. Cuida- se de tráfico, repita-se, de considerável quantidade e variedade de drogas, uma delas de alto poder vulnerante.
+Pois bem.
+Delineada a questão fática, passo à análise da tese aviada pela defesa.
+Aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006
+Como vimos do relatório, sustenta a defesa estarem presentes os requisitos necessários à incidência da causa especial da diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, no patamar máximo, tal como reconhecida pelo Juízo sentenciante.
+Nesse sentido, o atual entendimento jurisprudencial desta Corte, adotando posicionamento da Suprema Corte sobre o tema, é o da impossibilidade de utilização de ações penais em curso para afastar a aplicação da minorante de tráfico de drogas, conforme se extrai dos seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA. ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO INCIDÊNCIA. NÃO PREENCHIMENTO DOS REQUISITOS PREVISTOS EM LEI. PACIENTE QUE SE DEDICAVA A ATIVIDADES CRIMINOSAS. INVERSÃO DO JULGADO. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO E PROBATÓRIO. INVIABILIDADE NA VIA ELEITA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos do art. 33, § 4º, da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa.
+2. Sabe-se que, embora esta Corte tenha firmado entendimento no sentido de que é possível a utilização de inquéritos policiais e/ou ações penais em curso para formação da convicção de que o Réu se dedica às atividades criminosas, de modo a afastar o benefício legal previsto no artigo 33, § 4º, da Lei 11.343/06 (EREsp 1.431.091/SP, Rel. Ministro FELIX FISCHER, DJe 1º/2/2017), o Supremo Tribunal Federal tem se manifestado pela impossibilidade de serem utilizadas ações penais em curso, isoladamente, para afastar o benefício.
+3. Dessa forma, a Quinta Turma desta Corte, alinhando-se ao entendimento sufragado no Supremo Tribunal Federal, além de buscar nova pacificação no âmbito do Superior Tribunal de Justiça, consignou que a causa de diminuição pelo tráfico privilegiado, nos termos do art. 33, § 4º, da Lei 11.343/2006, não pode ter sua aplicação afastada com fundamento em investigações preliminares ou processos criminais em andamento, mesmo que estejam em fase recursal, sob pena de violação do art. 5º, LIV, da Constituição Federal (RE 1.283.996 AgR, Rel. Ministro RICARDO LEWANDOWSKI, Segunda Turma, julgado em 11/11/2020) (HC 6644.284/ES, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 27/9/2021).
+ ..
+5. Agravo regimental não provido.
+(AgRg no HC n. 745.903/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/6/2022, DJe de 27/6/2022, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL. TRÁFICO DE DROGAS. DOSIMETRIA. REDUTOR ESPECIAL DE PENA RELATIVO AO PRIVILÉGIO. INCABÍVEL. PACIENTE CONHECIDO NO MEIO POLICIAL PELA PRÁTICA DO TRÁFICO DE DROGAS. ALTERAÇÃO DE ENTENDIMENTO DAS INSTÂNCIAS ORDINÁRIAS EXIGE REVOLVIMENTO FÁTICO-PROBATÓRIO, PROVIDÊNCIA IMPOSSÍVEL NO ESTREITO RITO DO HABEAS CORPUS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O mais recente posicionamento de ambas as Turmas do Supremo Tribunal Federal é no sentido de que, em regra, inquéritos policiais e ações penais em andamento não constituem fundamentação idônea apta a respaldar a não aplicação do redutor especial de redução de pena relativa ao reconhecimento da figura privilegiada do crime de tráfico de drogas.  ..
+(AgRg no HC n. 560.561/RS, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 2/2/2021, DJe 17/2/2021, grifei.)
+Tal entendimento, frise-se, foi confirmado pela Terceira Seção desta Corte em recente julgamento realizado em 10/8/2022, no qual ficou assentada a seguinte tese: "É vedada a utilização de inquéritos e/ou ações penais em curso para impedir a aplicação do art. 33, § 4.º, da Lei n. 11.343/06." (REsp n. 1.977.027/PR, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 10/8/2022, DJe 18/8/2022.)
+Ora, se inquéritos e/ou ações penais em curso não são fundamentos para impedir a aplicação da referida minorante, muito menos a presunção de que o paciente se dedica às atividades criminosas sem a menção a elementos que não a própria traficância em si.
+Ademais, no caso concreto, tendo sido a pena-base exasperada pelas instâncias ordinárias com fundamento na natureza e quantidade de droga apreendida, de rigor se faz a aplicação da minorante em seu grau máximo, sob pena de bis in idem. Afinal, segundo a jurisprudência desta Corte, a quantidade e a natureza da droga apreendida podem servir de fundamento para a majoração da pena-base ou para a modulação da fração da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, desde que, neste último caso, não tenham sido utilizadas na primeira fase da dosimetria.
+Portanto, entendo ser mesmo o caso de restabelecer a reprimenda prevista na sentença condenatória.
+Ante o exposto, concedo a ordem para restabelecer a reprimenda definitiva prevista na sentença condenatória, bem como o regime inicial aberto e a substituição da pena privativa de liberdade por pena restritiva de direito, nos termos acima deduzidos.
+Publique-se. Intimem-se.
+EMENTA
