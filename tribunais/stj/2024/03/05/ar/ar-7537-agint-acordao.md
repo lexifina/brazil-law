@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 28/02/2024 a 05/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AÇÃO RESCISÓRIA. TUTELA DE URGÊNCIA. ART. 300. REQUISITOS. AUSÊNCIA. CONCESSÃO. IMPOSSIBILIDADE. DECISÃO MONOCRÁTICA MANTIDA.
+1. Consoante observado na decisão recorrida, de acordo com o art. 300 do Código de Processo Civil, a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+2. A probabilidade do direito não é aferível neste momento, em sede de análise cognitiva superficial, pois, a partir das próprias alegações do agravante, percebe-se a necessidade de estudo mais aprofundado do acervo probatório e, quiçá, dilação probatória, de modo que inviável a concessão pretendida.
+3. Não está devidamente caracterizado o periculum in mora, na medida em que as razões do pedido trazem apenas argumentação genérica sobre a possível realização de penhora em outros processos, não sendo comprovada, por exemplo, a efetiva prática de ato constritivo irreversível.
+Agravo interno im provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por AUGUSTINHO DA SILVA contra decisão monocrática da Presidência desta Corte que indeferiu pedido de tutela provisória de urgência na presente ação rescisória.
+Sustenta que (fls. 1075-1076):
+No que pertine à probabilidade do direito ou fumaça do bom direito, infere-se da narrativa inicial que a razão central invocada como causa rescindenda dos acórdãos da 4ª T. dessa E. Corte Especial, prolatados no REsp nº 1947775 - PR (2021/0209041-3) e no AResp nº 1895893 - PR (2021/0142450-4), originários do E. Tribunal de Justiça do Paraná, ambos referente ao CUMPRIMENTO DE SENTENÇA de autos nº 0003086- 27.2002.8.16.0021 da 2ª Vara Cível da Comarca de Cascavel, PR, diz respeito ao quantum da verba honorária que foi fixada em 15% (quinze por cento) em um dos acórdãos originários de uma mesma ação, perfazendo 30% (trinta por cento) sobre o valor da causa, acima, portanto, do limite legal.
+A despeito da fundamentação adotada monocraticamente no sentido de que a análise do pedido de tutela de urgência, pelo prisma da fumaça do bom direito, demandaria dilação probatória própria da ação rescisória, em sentido contrário, é possível constatar dos autos que a aferição do requisito fumus boni iuris, no caso, requer apenas exame dos acórdãos rescindendos (fls. 25/30 e fls. 34/40) e dos acórdãos de origem emanados do TJ/PR (fls.42/50 e fls. 52/59), com a verificação se mencionados julgados se referem, realmente, a uma mesma ação, ao CUMPRIMENTO DE SENTENÇA de autos nº 0003086-27.2002.8.16.0021 da 2ª Vara Cível da Comarca de Cascavel, PR, e se a somatória da verba honorária fixada em mencionados acórdãos perfaz a somatória de 30% (trinta por cento) sobre atualizado da causa, ou seja, se extrapola o limite legal do art. 85, §2º do CPC.
+E neste sentido, é possível constatar da cópia da ação de origem que acompanha a inicial - autos nº 0003086-27.2002.8.16.0021, que os acórdãos rescindendos têm nascedouro na decisão do Juiz de 1º Grau (fls.70/73 repetida às 558/561) que rejeitou os pedidos declaratórios de prescrição intercorrente do crédito exequendo arguido nas exceções de pré-executividade (fls.74/88 e fls. 89/98). Sendo que da respectiva decisão, os então executados, interpuseram agravo de instrumento em separado (fls.99/117 e fls. 142/159), os quais deram origem aos acórdãos do E.TJP/PR (fls.42/50 e fls. 52/59), que, por sua vez, deram origem aos acórdãos rescindendos (fls. 25/30 e fls. 34/40).
+Deste modo, restou satisfatoriamente demonstrado com a inicial rescisória que os acórdãos rescindendos referem à mesma ação, ao CUMPRIMENTO DE SENTENÇA de autos nº 0003086-27.2002.8.16.0021 que tramita a perante a 2ª VC de Cascavel, PR, não havendo necessidade de dilação probatória para tal finalidade.
+ .. .
+Por questão de JUSTIÇA, não pode ser deixado de ser considerado pelos Eminentes Ministros integrantes dessa C. Turma, o fato do executado, ora agravante, tão logo citado da execução dos acórdãos rescindendos, prontamente depositou à disposição dos agravados, para pronto levantamento, o valor de R$ 15.303,26 (quinze mil e trezentos e três reais e vinte e seis centavos), correspondente aos honorários de 15% sobre o valor atualizado da causa, tendo depositado 50% de referido valor para cada advogado credor (comprovantes de depósitos de fls 865/868). E assim o fez, porque entendeu que a intenção dos Eminentes Ministros da 4ª Turma foi fixar a verba honorária no feito em 15% (quinze por cento) e para rateio entre os causídicos.
+E, para garantir o excesso de execução impugnado, no Juízo de origem, o executado agravante prestou suficiente CAUÇÃO REAL consistente em imóvel livre e desembaraço com valor médio estimado R$ 180.000,00 (cento e oitenta mil reais), conforme reproduzido abaixo:  .. .
+Requer o deferimento da tutela de urgência para suspender o cumprimento de sentença dos acórdãos rescindendos até final julgamento da presente ação.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, submeta-se o presente agravo à apreciação da Turma.
+Sem contrarrazões ao agravo interno (fls. 1084-1086).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AÇÃO RESCISÓRIA. TUTELA DE URGÊNCIA. ART. 300. REQUISITOS. AUSÊNCIA. CONCESSÃO. IMPOSSIBILIDADE. DECISÃO MONOCRÁTICA MANTIDA.
+1. Consoante observado na decisão recorrida, de acordo com o art. 300 do Código de Processo Civil, a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+2. A probabilidade do direito não é aferível neste momento, em sede de análise cognitiva superficial, pois, a partir das próprias alegações do agravante, percebe-se a necessidade de estudo mais aprofundado do acervo probatório e, quiçá, dilação probatória, de modo que inviável a concessão pretendida.
+3. Não está devidamente caracterizado o periculum in mora, na medida em que as razões do pedido trazem apenas argumentação genérica sobre a possível realização de penhora em outros processos, não sendo comprovada, por exemplo, a efetiva prática de ato constritivo irreversível.
+Agravo interno im provido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Irrepreensível a decisão agravada, nada havendo a reconsiderar.
+Consoante observado na decisão recorrida, de acordo com o art. 300 do Código de Processo Civil, a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+Nesse sentido, a probabilidade do direito não é aferível neste momento, em sede de análise cognitiva superficial, pois, a partir das próprias alegações do agravante acima transcritas, percebe-se a necessidade de estudo mais aprofundado do acervo probatório e, quiçá, dilação probatória, de modo que inviável a concessão pretendida.
+Outrossim, não está devidamente caracterizado o periculum in mora, na medida em que as razões do pedido trazem apenas argumentação genérica sobre a possível realização de penhora em outros processos, não sendo comprovada, por exemplo, a efetiva prática de ato constritivo irreversível.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
