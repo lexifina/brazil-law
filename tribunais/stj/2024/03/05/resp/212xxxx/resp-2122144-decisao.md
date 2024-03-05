@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARIA CLAUDIA DO NASCIMENTO PIERRE com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim ementado:
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. PRAZO. TERMO A QUO. TRÂNSITO EM JULGADO DADECISÃO RESCINDENDA. AJUIZAMENTO ANTERIOR. EXTINÇÃO DO PROCESSO SEMRESOLUÇÃO DO MÉRITO.
+1. O trânsito em julgado da sentença que se pretende rescindir ocorreu em 27/08/2020. Já a presente ação rescisória foi distribuída em data anterior, qual seja: 07/08/2020.
+2. Consoante entendimento firmado na Súmula nº 401 do Superior Tribunal de Justiça, o prazo decadencial da ação rescisória só se inicia quando não for cabível qualquer recurso do último pronunciamento judicial.
+3. Como na data do ajuizamento desta ação ainda não havia ocorrido o trânsito em julgado, e considerando o disposto na Súmula 401 do STJ, a fluência do prazo decadencial para o ajuizamento da ação rescisória não se iniciou, impondo-se sua extinção, sem resolução do mérito, nos termos do art. 485, IV, do CPC. Precedentes do STJ.
+4. Condenação da autora ao pagamento das custas processuais e de honorários advocatícios, fixados em 10% (dez por cento) sobre o valor atualizado da causa, na forma do art. 85, § 3º, I, c/c §4º,III, do CPC.
+5. Ação rescisória julgada extinta, sem resolução de mérito, na forma do art. 485, IV, c/c art. 975, caput,do CPC.
+No presente recurso especial, a recorrente alega que a ação rescisória foi ajuizada após o trânsito em julgado da decisão rescindenda. Alega, ainda, a necessidade de análise de mérito da ação rescisória.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+Depreende-se do art. 105, III, a, da Constituição Federal, que a competência do Superior Tribunal de Justiça, na via estreita do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal.
+Nesse contexto, impõe-se não apenas a indicação específica e precisa do dispositivo legal federal supostamente contrariado pelo Tribunal de origem no acórdão recorrido, mas também a delimitação da violação da matéria insculpida no regramento indicado, para que, assim, seja viabilizado o necessário confronto interpretativo e, consequentemente, o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame.
+A análise das razões recursais revela que a parte recorrente não amparou o seu inconformismo na violação de nenhum dispositivo legal federal específico, limitando-se a apresentar seus argumentos e a fazer alusões à legislação infraconstitucional federal.
+Conclui-se, portanto, que a requerente não logrou indicar, com as adequadas especificidade e precisão, o dispositivo legal infraconstitucional federal que teria sido violado no acórdão recorrido.
+Diante da deficiência do pleito recursal acima pronunciada, aplica-se à hipótese em tela, por analogia, o óbice constante do enunciado da Súmula n. 284 do STF, segundo o qual in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, destaco os seguintes precedentes:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DISPOSITIVO VIOLADO. INDICAÇÃO. AUSÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. REQUISITOS. NÃO OCORRÊNCIA.
+1. Não se conhece de recurso especial que deixa de apontar o dispositivo legal violado no acórdão recorrido, incidindo na hipótese, por analogia, a Súmula 284 do Supremo Tribunal Federal.
+2. Ressalvado o entendimento do relator, idêntica compreensão é aplicada ao apelo nobre interposto com fundamento em divergência pretoriana, na esteira do posicionamento da Corte Especial (AgRg no REsp 1.346.588/DF, rel. Ministro ARNALDO ESTEVES LIMA, Corte Especial, julgado em 18/12/2013, DJe 17/03/2014).
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.071.388/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 17/10/2022, DJe de 21/11/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. LICITAÇÃO. MANDADO DE SEGURANÇA. EXIGÊNCIA EDITALÍCIA. DEMONSTRAÇÃO DE EXEQUIBILIDADE POR MEIO DE OUTROS CONTRATOS JÁ FIRMADOS COM A ADMINISTRAÇÃO. EXIGÊNCIA RESTRITIVA DA COMPETITIVIDADE. POSSIBILIDADE DE COMPROVAÇÃO POR OUTROS MEIOS IDÔNEOS. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVOS LEGAIS SUPOSTAMENTE VIOLADOS. SÚMULA 284/STF. ACÓRDÃO BASEADO NA INTERPRETAÇÃO DE CLÁUSULAS DO EDITAL E NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. SOBRESTAMENTO DO RECURSO ESPECIAL POR TEMA EM REPETITIVO. DESNECESSIDADE DIANTE DE RECURSO INADMISSÍVEL. AGRAVO INTERNO NÃO PROVIDO.
+1. Não havendo a indicação precisa e específica dos dispositivos legais supostamente violados, é inadmissível o inconformismo por deficiência na sua fundamentação. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+2. O recurso especial não é, em razão das Súmulas 5 e 7/STJ, via processual adequada para questionar julgado que se afirmou explicitamente em análise de cláusulas contratuais e no contexto fático-probatório próprio da causa.
+3. "Se o recurso não ultrapassa o juízo de admissibilidade, não é necessário sobrestar o processo. Isso porque o tema de mérito, independentemente da repercussão geral ou de sua afetação como representativo da controvérsia, não será enfrentado". (AgInt no AREsp1746550/PE, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/04/2021, DJe 23/04/2021) 4. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.999.138/CE, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/10/2022, DJe de 3/11/2022.)
+Ademais, a pretensão recursal de rever o posicionamento adotado no acórdão recorrido quanto ao trânsito em julgado da decisão rescindenda teria necessariamente que passar pela revisão de todo o conjunto fático/probatório apresentado, a qual poderia até mesmo não ser suficiente, demandando outras provas. Ocorre que tal atividade probatória é típica das instâncias ordinárias, sendo vedada nas instâncias extraordinárias.
+Logo, o recurso é inviável, assim porque chegar a entendimento diverso, in casu, demandaria revolvimento fático probatório inviável em sede de Recurso Especial ante o óbice da Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
