@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FÁTIMA MONTEIRO DE ALMEIDA GUEDES (FÁTIMA) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 289/296).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, FÁTIMA alegou a violação dos arts. 110 e 313, I, do NCPC, aduzindo que é absolutamente nula a sentença em decorrência da não substituição da parte falecida pelo espólio ou sucessores (e-STJ, fls. 218/225).
+Da nulidade da sentença
+FÁTIMA afirmou a violação dos arts. 110 e 313, I, do NCPC, aduzindo que é absolutamente nula a sentença em decorrência da não substituição da parte falecida pelo espólio ou sucessores.
+Sobre o tema o Tribunal estadual consignou que a sentença não é nula, tendo em vista a ausência de prejuízo, na medida em que a sentença não havia sido desfavorável ao falecido e convertido o feito em diligência para regularização processual, sendo posteriormente apresentadas contrarrazões a apelação, confira-se:
+Ademais, não há se falar em violação aos arts. 43 e 265, I, do CPC/1973 (correspondentes aos arts. 110 e 313, I, do CPC/2015), tendo em vista que o entendimento contido no acórdão embargado está de acordo com a jurisprudência do STJ firmada no sentido de que a regra que determina a suspensão do processo a partir do falecimento de uma das partes enseja nulidade relativa, sendo válidos os atos processuais desde que não haja prejuízo dos interessados.
+ ..
+No caso dos autos, inexiste qualquer prejuízo, tendo em vista que sentença proferida nos autos não foi desfavorável a José, bem como pelo fato de esta Relatoria, na decisão interlocutória de fls. 418/419, ter "convertido o feito em diligência para sanar a irregularidade existente no processo, a fim de se habilitarem os herdeiros de José Fileno de Miranda, determinando a intimação dos advogados do falecido, com o fim de regularizar a relação processual e consequente apresentação de contrarrazões aos recursos de Apelações Cíveis 220.763-2, 223.724-7, 220.821-9 e 220.960-1, antes dos seus julgamentos" (fl. 419). (e-STJ, fls. 173/174).
+No mesmo sentido, esta Corte Superior possui jurisprudência consolidada de que a regularização tardia da representação da parte após sua morte no curso do processo não é causa, por si só, de nulidade dos atos praticados até a habilitação, salvo prova do prejuízo.
+Confiram-se os seguintes precedentes:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. ILUSTRAÇÃO DE MATÉRIAS ESPORTIVAS. FAMOSA FOTOGRAFIA "SOCO NO AR" DO REI PELÉ. AUSÊNCIA DE AUTORIZAÇÃO E INDICAÇÃO DO CRÉDITO EM FAVOR DE SEU FOTÓGRAFO. FALECIMENTO DO AUTOR NO CURSO DA AÇÃO DE INDENIZAÇÃO. CONVALIDAÇÃO TARDIA. AUSÊNCIA DE PREJUÍZO. VIOLAÇÃO DOS ARTS. ARTS. 682, II, 692, DO CC, E 5º DA LEI N.º 8.906/94. AFASTAMENTO. PRESCRIÇÃO TRIENAL. INOCORRÊNCIA. UTILIZAÇÃO REITERADA DA FOTOGRAFIA. VIOLAÇÃO CONTINUADA. TERMO INICIAL. CONTAGEM A PARTIR DA ÚLTIMA PUBLICAÇÃO INDEVIDA. PROVA DE PAGAMENTO EXCLUSIVAMENTE TESTEMUNHAL. INDEFERIMENTO. CERCEAMENTO DE DEFESA. RECURSO NÃO CONHECIDO, NO PONTO, POR DEFICIÊNCIA NA INDICAÇÃO DO ART. 445, DO NCPC, COMO VIOLADO. INCIDÊNCIA DAS SÚMULAS N.os 283 E 284 DO STF, AMBAS POR ANALOGIA. DANOS MORAIS. EXORBITÂNCIA. ACÓRDÃO QUE TRADUZ RELEVÂNCIA DA FOTOGRAFIA ICÔNICA QUE MARCOU ÉPOCA PARA OS BRASILEIROS E INTERNACIONALMENTE. REITERADAS PUBLICAÇÕES. AUSÊNCIA DE DEMONSTRAÇÃO DA DESPROPORCIONALIDADE A PERMITIR A ABERTURA DA FUNÇÃO BALIZADORA DESTA CORTE EM ÂMBITO DE QUANTUM INDENIZATÓRIO. HONORÁRIOS DE ADVOGADO RECURSAIS. SATISFAÇÃO DOS REQUISITOS. OBRIGAÇÃO DO JULGADOR EX VI LEGE. DISSÍDIO JURISPRUDENCIAL. INADMISSÃO POR ENUNCIADO SUMULAR QUE PREJUDICA O EXAME QUANTO AO PONTO OBJETO DO DISSENSO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos casos em que há sucessivas utilizações indevidas da imagem, corroborando no conceito de "violação continuada", a contagem do prazo prescricional se dá a partir da última delas, independentemente do direito tutelado ser a reparação do dano material ou moral.
+2. A regularização tardia da representação da parte após sua morte no transcurso processual não é causa, por si só, de nulidade dos atos praticados até a habilitação dos sucessores, a menos que haja prova de efetivo prejuízo processual, não verificado na espécie.
+3. A revogação do caput do art. 277 do Código Civil não altera o entendimento de que só se admite prova exclusivamente testemunhal para certificar a ocorrência de pagamento se houver começo de prova escrita.
+4. Se no arbitramento da indenização pelo uso do material fotográfico exibido sem atribuição de crédito ao autor, o Tribunal a quo leva em consideração sua incomum relevância e tal valor não se acha irrisório ou exorbitante, não há se falar em modificação, por óbice das Súmulas n.ºs 7 e 83 do STJ. Precedentes.
+5. A majoração dos honorários de advogado prevista no art. 85, § 11, do NCPC não deixa margem ao julgador quanto à aplicação dos honorários recursais, constituindo obrigação ex vi lege sua incidência, uma vez inaugurada nova instância recursal e atendidos aos requisitos já delineados na Segunda Seção desta Corte (AgInt nos EREsp n.º 1.539.725/DF).
+6. Prejudicada a configuração do dissídio jurisprudencial quando a incidência dos óbices sumulares inviabiliza o recurso especial também pelo permissivo constitucional da alínea a.
+7. Agravo interno não provido.
+(AgInt no REsp n. 2.054.387/RJ, de minha relatoria, Terceira Turma, j. em 21/8/2023, DJe de 23/8/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. MORTE DO EXEQUENTE. REGULARIZAÇÃO TARDIA. NULIDADE. AUSÊNCIA DE PREJUÍZO. CONVALIDAÇÃO DOS ATOS PRATICADOS. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, devem ser afastadas as alegadas ofensas ao artigo 1022 do Código de Processo Civil de 2015.
+2. A jurisprudência desta Corte já decidiu que é relativa a nulidade dos atos praticados após a morte de parte, sem observância do artigo 265, I, do CPC, para habilitação dos sucessores, devendo estar caracterizado o prejuízo ao interessado.
+3. A irregularidade na representação processual deve ser sanada com a intimação dos sucessores do exequente, nos termos do art. 13 do Código de Processo Civil de 1973.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.697.570/SP, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. em 8/3/2021, DJe de 11/3/2021.)
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em consonância com o entendimento firmado nesta Corte, deve ser ele mantido.
+Dessa forma, incide a Súmula nº 568 do STJ.
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS. FALECIMENTO DA PARTE. NULIDADE RELATIVA. PREJUÍZO. INOCORRÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA Nº 568 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
