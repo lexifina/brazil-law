@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por CCG EMPREENDIMENTOS IMOBILIÁRIOS LTDA. com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação Cível n. 1002465-46.2020.8.26.0201) assim ementado (fl.189):
+COMPROMISSO DE VENDA E COMPRA DE IMÓVEL - AÇÃO DE RESCISÃO CONTRATUAL C/C RESSARCIMENTO DE VALORES - Compra de unidades em empreendimento imobiliário - Devolução das parcelas - Retenção de 25% do total pago - Pertinência - Ação parcialmente procedente - Recurso parcialmente provido.
+Nas razões do recurso especial, a parte recorrente aponta dissídio jurisprudencial e violação dos arts. 389, 402, 403, 404, 405, 475 e 884 do Código Civil.
+Alega que "O acórdão recorrido afastou a condenação da recorrida ao pagamento de taxa de ocupação durante o período de posse do imóvel, o que não pode ser admitido" (fl. 201).
+Aduz que "Restou demonstrado que a recorrida não cumpriu a obrigação avençada entre as partes, que assumidamente não tem condições de arcar com as parcelas avençadas deve responder por perdas e danos, com fundamento no artigo 389 do Código Civil" (fl. 201).
+Defende que "cabe ao caso indenização por perdas e danos, sem prejuízo da retenção de parte dos valores pagos. Embasada por tais dispositivos, não poderia a recorrente abrir mão da faculdade que lhe é assegurada, no sentido de obter indenização como o mínimo que lhe deve pagar a recorrida, a título de perdas e danos" (fl. 202).
+Afirma que a manutenção da decisão proferida pelo Tribunal a quo caracterizará enriquecimento sem causa dos recorridos.
+Colaciona julgado do STJ visando demonstrar divergência jurisprudencial acerca da questão ora suscitada.
+As contrarrazões foram apresentadas (fls. 245-253).
+Admitido o apelo extremo às fls. 283-284, os autos ascenderam a esta Corte.
+É o relatório. Decido.
+Trata-se na origem de ação de rescisão contratual c/c restituição de quantias movida em face da ora recorrente julgada parcialmente procedente para declarar rescindido o contrato e condenar a ré a restituir à autora 80% da quantia paga.
+Inconformadas, a parte ré, ora recorrente, apelou.
+O Tribunal de origem deu parcial provimento ao recurso para reduzir o percentual de restituição dos valores pagos para 75%, consignando que a retenção de 25% abrange a taxa de fruição, arras e é suficiente para reparar as despesas e eventuais prejuízos.
+Veja-se trecho do acórdão (fls. 191-192):
+Incontroverso que a apelada deu causa ao desfazimento do negócio jurídico celebrado pelas partes (fls. 24/34), tendo em vista a impossibilidade de honrar com o pagamento dos valores estabelecidos.
+Nada obstante, a restituição dos valores pagos é devida mediante a retenção de uma percentagem pelo compromissário vendedor para compensar as despesas administrativas, consoante a Súmula 543 do c. STJ, que estabelece: "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento". Ainda, confira-se a Súmula nº 1 desta e. Corte: "O Compromissário comprador de imóvel, mesmo inadimplente, pode pedira rescisão do contrato e reaver as quantias pagas, admitida a compensação com gastos próprios de administração e propaganda feitos pelo compromissário vendedor, assim como com o valor que se arbitrar pelo tempo de ocupação do bem".
+Destarte, em consonância com a jurisprudência assente na c. Corte Superior, de rigor a fixação de retenção de 25% dos valores pagos, os quais abrangem a taxa de fruição e arras, de modo a reparar todas as despesas e eventuais prejuízos da apelante, não havendo que se cogitar em legalidade da cláusula 22ª que possibilita a retenção de 30% da quantia adimplida. A propósito, confira-se:
+ ..
+Desse modo, para rever as conclusões adotadas na origem e acatar a tese recursal de que o afastamento da condenação da recorrida ao pagamento de taxa de ocupação durante o período de posse do imóvel ensejará indevido enriquecimento, seria imprescindível o reexame fático-probatório dos autos, medida vedada em recurso especial, em face do óbice da Súmula n. 7 do STJ.
+De toda a sorte, mesmo que fosse possível superar esse óbice, observo que, em se tratando de lote de terreno (fl. 130), melhor sorte não assistiria à recorrente, pois é uníssona a jurisprudência do STJ no sentido de que é "incabível a cobrança de taxa de fruição nas hipóteses em que o objeto do contrato de promessa de compra e venda é um lote não edificado" (AgInt no REsp n. 1.934.702/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022).
+Nesse sentido: AgInt no AREsp n. 2.044.026/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/8/2022, DJe de 26/8/2022; AgInt nos EDcl no REsp n. 1.924.480/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023; AgInt no REsp n. 2.076.067/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 20/11/2023, DJe de 28/11/2023.
+Ante o exposto, não conheço do recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em favor da parte ora recorrida, os honorários advocatícios fixados em 10%, percentual arbitrado na origem, para 11% sobre o valor da condenação, com ressalva de eventual concessão de gratuidade de justiça
+Publique-se. Intimem-se.
+EMENTA
