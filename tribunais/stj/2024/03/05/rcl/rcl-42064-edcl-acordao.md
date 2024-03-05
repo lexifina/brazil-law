@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 28/02/2024 a 05/03/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do CPC, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+2. A omissão justificadora de suprimento no julgado embargado é aquela concernente a ponto suscitado pela parte e sobre o qual o órgão julgador deveria se manifestar, por ser fundamental ao pleno desfecho da controvérsia, situação não presente na hipótese dos autos.
+3. Embargos de declaração opostos por JOSÉ AUGUSTO SIMÃO rejeitados.
+RELATÓRIO
+Relatora: Ministra NANCY ANDRIGHI
+Cuida-se de embargos de declaração opostos por JOSÉ AUGUSTO SIMÃO contra acórdão que julgou improcedente a reclamação ajuizada por LUIZ CLEMENTE MARIANI BITTENCOURT - ESPÓLIO, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. RECLAMAÇÃO. AÇÃO DE COBRANÇA. FASE DE CUMPRIMENTO DE SENTENÇA. CABIMENTO PARA GARANTIR A AUTORIDADE DE DECISÃO DO STJ. PROCESSO ENVOLVENDO AS MESMAS PARTES. CONFIGURAÇÃO. ACÓRDÃO DO STJ QUE JULGOU O RECURSO ESPECIAL NA FASE DE CONHECIMENTO. DETERMINAÇÃO DE NOVA PERÍCIA PELO TRIBUNAL RECLAMADO. AFRONTA AOS CRITÉRIOS ESTABELECIDOS NO ACÓRDÃO DO STJ. AUSÊNCIA. IMPROCEDÊNCIA DA RECLAMAÇÃO.
+1. Ação de cobrança em fase de cumprimento de sentença, da qual foi extraída a presente reclamação, ajuizada em 15/7/2021 e conclusa ao gabinete em 15/7/2021.
+2. O propósito da presente reclamação é decidir se o Tribunal reclamado, ao determinar a realização de nova perícia considerando, como montante pago, o valor equivalente a 116.757 arrobas de boi gordo, afrontou a autoridade do acórdão proferido pelo STJ no julgamento do AgRg no REsp 1.079.690/ES, que havia fixado critérios para o cálculo do saldo devedor na liquidação.
+3. De acordo com a jurisprudência desta Corte, a reclamação fundada nos arts. 105, I, "f", da CRFB e 988, II, do CPC, pressupõe a existência de um comando positivo desta Corte, cuja eficácia deva ser assegurada e que tenha sido proferida em processo envolvendo as mesmas partes ou que possa produzir efeitos em relação jurídica por elas mantida.
+4. No julgamento do AgRg no REsp 1.079.690/ES, o STJ fixou, como premissa, que o réu (executado) pagou o equivalente a 116.752 arrobas, mas apenas após o vencimento da segunda parcela e em datas fracionadas. Assim, esta Corte decidiu que os pagamentos efetuados devem ser imputados primeiro na quitação dos juros moratórios contratualmente previstos e, havendo saldo, este servirá para redução do principal e da multa.
+5. Na espécie, o Tribunal reclamado, ao reformar a decisão que homologou o laudo pericial, evidenciou incompatibilidade entre o valor apurado pelo perito e a quantia, em arrobas, reconhecida como paga no acórdão do STJ. Portanto, determinou a realização de nova perícia, devendo: I) considerar como montante pago o valor equivalente a 116.752 arrobas de boi; e, II) utilizar os pagamentos realizados pelo executado, primeiro para a quitação dos juros, depois para a amortização do principal e da multa, sem fazer incidir juros sobre juros.
+6. Hipótese em que o Tribunal reclamado se limitou a determinar a realização de nova perícia, mediante a estrita observância ao que foi decidido por esta Corte no julgamento do AgRg no REsp 1.079.690/ES, não havendo, assim, ofensa à autoridade do acórdão proferido pelo STJ.
+7. Reclamação julgada improcedente.
+(e-STJ fls. 418-419)
+Nos presentes embargos, o embargante JOSÉ AUGUSTO SIMÃO alega omissão quanto à correção do valor da causa, devendo corresponder ao benefício econômico buscado pelo reclamante, com reflexos nos honorários de sucumbência.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do CPC, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+2. A omissão justificadora de suprimento no julgado embargado é aquela concernente a ponto suscitado pela parte e sobre o qual o órgão julgador deveria se manifestar, por ser fundamental ao pleno desfecho da controvérsia, situação não presente na hipótese dos autos.
+3. Embargos de declaração opostos por JOSÉ AUGUSTO SIMÃO rejeitados.
+VOTO
+Relatora: Ministra NANCY ANDRIGHI
+Os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do CPC, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+Na espécie, contudo, verifica-se que as questões apontadas pelo embargante não constituem algum desses vícios, mas mero inconformismo com os fundamentos adotados no acórdão embargado.
+Segundo a jurisprudência desta Corte, "a omissão justificadora de suprimento no julgado embargado é aquela concernente a ponto suscitado pela parte e sobre o qual o órgão julgador deveria se manifestar, por ser fundamental ao pleno desfecho da controvérsia" (EDcl no REsp 1.993.772/PR, Terceira Turma, DJe 12/8/2022; EDcl no AgInt nos EAREsp 1.772.275/SC, Corte Especial, DJe 29/6/2023).
+Registra-se, inicialmente, que a questão referente à correção do valor da causa foi alegada tão somente nos presentes embargos de declaração opostos pelo interessado JOSÉ AUGUSTO SIMÃO, não havendo, portanto, omissão quanto a esse ponto, já que não tinha sido suscitado anteriormente.
+Além disso, ressalta-se que o embargante JOSÉ AUGUSTO SIMÃO foi citado em 23/3/2023 e deixou de apresentar contestação. Ainda, poucos dias antes da sessão de julgamento da presente reclamação, o embargante protocolou petição alegando "questão de ordem pública", sem, contudo, mencionar eventual equívoco no valor da causa.
+Não obstante ter deixado de se manifestar sobre o tema em todas as oportunidades que teve para tanto, o embargante alega apenas nos presentes embargos de declaração a suposta necessidade de correção do valor da causa, ou seja, apenas após o resultado do julgamento da reclamação em que foram fixados honorários sobre o valor da causa em favor de seu patrono.
+Nesse contexto, a pretensão do embargante se mostra incompatível com os princípios da cooperação e da boa-fé processual (arts. 5º e 6º do CPC), na medida em que deixou para se manifestar sobre a questão apenas após obter resultado favorável na reclamação, evitando, assim, o risco de pagar valor maior na sucumbência caso fosse vencido na demanda, manobra processual que se assemelha com a nulidade de algibeira, prática repudiada pela jurisprudência desta Corte, com base nos referidos princípios.
+Por fim, destaca-se não haver necessidade de correção do valor da causa, tendo em vista que o proveito econômico pretendido pelo reclamante é incerto, pois depende, para a sua liquidação, do resultado da segunda perícia, que ainda não havia ocorrido no momento do ajuizamento da presente reclamação.
+Por esse motivo, inclusive, que o acórdão embargado fixou o valor da causa como base de cálculo dos honorários sucumbenciais, questão essa que não foi impugnada pelo embargante.
+Logo, por qualquer ângulo que se analise, os presentes embargos de declaração merecem ser rejeitados.
+DISPOSITIVO
+Forte nessas razões, REJEITO os embargos de declaração opostos por JOSÉ AUGUSTO SIMÃO.
