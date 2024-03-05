@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 28/02/2024 a 05/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PEDIDO DE RECONSIDERAÇÃO. CONFLITO DE COMPETÊNCIA. RECEBIMENTO COMO AGRAVO INTERNO. JUSTIÇA TRABALHISTA E FALÊNCIA. AUSÊNCIA DE DECISÕES CONFLITANTES ENTRE JUÍZOS DISTINTOS. CONFLITO NÃO CONHECIDO.
+1. Conforme entendimento da Segunda Seção do STJ, em hipóteses envolvendo execuções contra empresas em recuperação judicial ou em processo de falência, a caracterização do conflito de competência ocorre quando houver decisões conflitantes proferidas pelos juízos apontados como suscitados, situação não verificada na hipótese.
+2. Agravo interno não provido.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de pedido de reconsideração formulado por VIA CAPITALIZAÇÃO S.A. e HEALTHPAR ADMINISTRAÇÃO E PARTICIPAÇÕES S.A. com o objetivo de reformar a decisão que não conheceu do conflito de competência por elas suscitado.
+Ação em trâmite no juízo cível: falência da ASSOCIAÇÃO DOS PROFISSIONAIS LIBERAIS UNIVERSITÁRIOS DO BRASIL - APLUB PREV.
+Ação em trâmite no juízo trabalhista: cumprimento de sentença movido por GIRLIANE DA SILVA E SILVA.
+Conflito de competência: alegaram, em síntese, que a subsidiária da falida Aplub Prev, a Aplub Capitalização S. A. (atual Via Capitalização S. A.), foi levada a leilão judicial, no curso do processo falimentar, e arrematada por Healthpar Administração e Participações S. A., livre de qualquer ônus, de modo que todo o passivo anterior à alienação judicial da suscitante é de responsabilidade da massa falida. Defenderam, assim, que o crédito objeto de cumprimento de sentença deve ser habilitado junto ao juízo falimentar e que o redirecionamento da execução em face das suscitantes acaba por burlar o concurso de credores.
+Decisão monocrática: não conheceu do incidente.
+Reconsideração: sustentam que "não poderão responder por qualquer dívida deixada pelas empresas que compunham o Grupo APLUB, inclusive ações judiciais, motivo pelo qual os processos em tramitação deverão ser redirecionados para a massa falida da Associação dos Profissionais Liberais Universitários do Brasil - APLUB" (e-STJ, fl. 125), mas, recentemente, houve o bloqueio de valores na conta bancária de titularidade da requerente devido à ordem oriunda do processo trabalhista nº 0000268-02.2020.5.14.0402, da 2ª Vara do Trabalho de Rio Branco - AC. Pugnam, assim, pela reconsideração da decisão que não conheceu do conflito de competência.
+É O RELATÓRIO.
+EMENTA
+PEDIDO DE RECONSIDERAÇÃO. CONFLITO DE COMPETÊNCIA. RECEBIMENTO COMO AGRAVO INTERNO. JUSTIÇA TRABALHISTA E FALÊNCIA. AUSÊNCIA DE DECISÕES CONFLITANTES ENTRE JUÍZOS DISTINTOS. CONFLITO NÃO CONHECIDO.
+1. Conforme entendimento da Segunda Seção do STJ, em hipóteses envolvendo execuções contra empresas em recuperação judicial ou em processo de falência, a caracterização do conflito de competência ocorre quando houver decisões conflitantes proferidas pelos juízos apontados como suscitados, situação não verificada na hipótese.
+2. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Inicialmente, observo que, embora não haja previsão legal acerca do pedido de reconsideração, recebo-o como agravo interno, tendo em vista que a pretensão nele apresentada tem como objetivo a reforma da decisão monocrática. A propósito: RCD no REsp 1.605.113/RO, Quarta Turma, DJe 13/6/2017; e RCD na AR 5.857/MA, Corte Especial, DJe 29/6/2017.
+Todavia, o recurso não merece acolhida. Isso porque, conforme entendimento da Segunda Seção do STJ, em hipóteses envolvendo execuções contra empresas em recuperação judicial ou em processo de falência, a caracterização do conflito de competência ocorre quando houver decisões conflitantes proferidas pelos juízos apontados como suscitados, situação não verificada na hipótese.
+Deveras, consoante salientado na decisão agravada e sequer impugnado no presente recurso, a Via Capitalização S.A. não mais figura no polo passivo da demanda trabalhista e a Healthpar Administração e Participações S.A. nunca dela fez parte, sendo que o incidente discutia justamente as participações das suscitantes, ora recorrentes, na ação.
+Assim, está justificado o não conhecimento do incidente, tendo em vista a falta de caracterização do conflito de competência, impondo-se, portanto, a manutenção da decisão agravada por seus próprios fundamentos.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
