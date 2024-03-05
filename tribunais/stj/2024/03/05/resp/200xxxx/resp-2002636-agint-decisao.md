@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interno interposto por CERÂMICA LORENZETTI LTDA. (CERÂMICA), contra decisão monocrática de minha relatoria, assim ementada:
+RECURSO ESPECIAL. PROPRIEDADE INDUSTRIAL. MARCAS IGUAIS OU PARECIDAS. ALTO RENOME. RECONHECIMENTO PARA UMA DAS EMPRESAS. CONTINUIDADE DE USO PELA OUTRA EMPRESA. POSSIBILIDADE. EXIGÊNCIA. REGISTRO ANTERIOR DE BOA-FÉ. EFEITO EX NUNC . ACÓRDÃO EM DESARMONIA COM A JURISPRUDÊNCIA DO STJ. PROVIMENTO. (e-STJ, fl. 757)
+Nas razões do presente inconformismo, CERÂMICA combate a decisão agravada, afirmando que (1) não pode  ..  ser impedida de se utilizar de sua marca ("Cerâmica Lorenzetti") (e-STJ, fl. 765) porque, nos termos da jurisprudência deste Superior Tribunal de Justiça, o reconhecimento do alto renome de uma marca detém efeitos apenas prospectivos, de forma a se resguardar marcas alheias, adotadas e utilizadas, de boa-fé, antes da concessão de tal titulação (e-STJ, fl. 767).
+Foi apresentada impugnação. (e-STJ, fls. 865/880)
+Reconsideração da decisão agravada
+Considerando as razões apresentadas no presente agravo interno, bem como as peculiaridades do caso em análise, RECONSIDERO a decisão de (e-STJ, fls. 757/760) e passo a novo exame do recurso especial que que alegada violação dos arts. 124, VI e XIX, 125, 129 e 195, III, da Lei nº 9.279/96 (Lei da Propriedade Industrial - "LPI"), bem como dissídio jurisprudencial afirmando, em síntese, que (1) o uso exclusivo do sinal nasce do registro e não do uso; e que possui direito de uso exclusivo de patronímico como marca quem primeiro requereu e obteve o registro junto ao INPI (e- STJ, fl. 539).
+É o relatório.
+Decido.
+(1) uso de marca
+O Tribunal de origem, ao julgar a apelação, entendeu ser cabível a continuidade de utilização da marca pela empresa de cerâmica, assim se pronunciando:
+É certo que a autora Lorenzetti S/A Indústrias Brasileiras Eletrometalúrgias obteve o registro da marca "Lorenzetti" em 1976, antes, portanto, da constituição da sociedade demandada.
+Porém, considerando que se exploravam distintos ramos de atividade, não havia qualquer empecilho na utilização de idêntica expressão.
+Há, portanto, utilização de boa-fé da expressão Cerâmica Lorenzetti pela ora requerente, o que, a princípio, autoriza a continuidade da exploração da marca.
+ ..  a negativa de registro da marca mista Lorenzetti pelo INPI não significa que o patronímico não possa ser usado pela autora. Verifica- se no registro do INPI que a recusa se refere exclusivamente à marca mista, conforme excerto ora destacado  ..  Não há, portanto, qualquer possibilidade de confundir o público- consumidor e, por isso, improcede o pedido inibitório. (e-STJ, fls. 468/475)
+Da sentença constou:
+No presente caso, restou incontroverso nos autos a utilização da marca "CERÂMICA LORENZETTI" pela parte requerida, mesmo após o indeferimento do registro pelo INPI e a manutenção dos efeitos do ato administrativo pela Justiça Federal, que negou a liminar na ação anulatória ajuizada  fls. 256/257 .
+E a parte autora demonstrou ser titular do registro da marca nominativa de produtos "LORENZETTI"  processo nº 006219101 , que foi reconhecida como de alto renome em 2018, diante do suficiente grau de exclusividade e distintividade.
+É certo que a legislação pátria garante proteção especial, em todos os ramos de atividade, à marca registrada no Brasil considerada de alto renome  art. 125 da Lei nº 9.279/96 .
+Trata-se de exceção ao princípio da especialidade, pois a proteção ultrapassa os limites do seu segmento de mercado.
+Os efeitos da referida proteção são válidos a partir da publicação do reconhecimento da condição de alto renome da marca  art. 12, § 4º, da Resolução 107/2013 do INPI, que estabelece a forma de aplicação do disposto no art. 125 da LPI .
+Dessa forma, garantida a proteção à marca em todos os ramos de atividade a partir da publicação do reconhecimento da sua condição de alto renome, são irrelevantes os argumentos trazidos pela parte requerida de inexistência de confusão ou associação, de distinção entre as atividades empresariais desenvolvidas e do uso da expressão há quarenta anos, pois sem registro válido concedido pelo INPI.
+Também não prospera a alegação de impossibilidade de uso exclusivo de "LORENZETTI", pois, embora o detentor do patronímico ou nome de família preserve seus direitos da personalidade na esfera cível, no universo marcário o pleito será favorável ao primeiro que depositar  no caso, a parte autora .
+Por fim, quanto à suposta prioridade do nome empresarial "CERÂMICA LORENZETTI", note-se que o arquivamento dos atos constitutivos da sociedade na JUCESC ocorreu em 1980  fls. 258/262 , anos após a concessão do registro da marca "LORENZETTI" à autora, em 1976  fls. 52/53 . (e-STJ, fls. 320/321)
+Dessa forma, considerando as razões apresentadas no presente agravo interno, bem como as informações diversas na sentença e nos votos vencido e vencedor, entendo necessários maiores esclarecimentos acerca da existência, ou não, do efetivo registro da marca da empresa de cerâmica e, caso exista, a data em que este ocorreu.
+Nessas condições, DOU PROVIMENTO ao agravo interno para reconsiderar a decisão agravada, afastando o comando de restabelecimento da sentença e, por fundamento diverso, DAR PROVIMENTO ao recurso especial determinando o retorno dos autos à origem, para que sejam esclarecidos os pontos acima referidos, necessários à correta conclusão do julgado.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO INTERNO. PROVIMENTO. RECURSO ESPECIAL. RECONSIDERAÇÃO. PROPRIEDADE INDUSTRIAL. MARCAS IGUAIS OU PARECIDAS. ALTO RENOME. RECONHECIMENTO PARA UMA DAS EMPRESAS. CONTINUIDADE DE USO PELA OUTRA EMPRESA. POSSIBILIDADE. EXIGÊNCIA. REGISTRO ANTERIOR DE BOA-FÉ. EFEITO EX NUNC. ESCLARECIMENTO ACERCA DA EXISTÊNCIA DE REGISTRO E DATA DESTE. RETORNO DOS AUTOS À ORIGEM. NECESSIDADE. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PROVIDO.
