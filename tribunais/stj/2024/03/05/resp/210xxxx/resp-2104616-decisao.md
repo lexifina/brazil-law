@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de recurso especial interposto por L A S, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que julgou demanda relativa ao cabimento de danos morais em razão da limitação de sessões de terapias multidisciplinares.
+O julgado negou provimento à apelação de L A S nos termos da seguinte ementa (fl. 571):
+PLANO DE SAÚDE TRANSTORNO DO ESPECTRO AUTISTA (TEA)- TRATAMENTO MULTIDISCIPLINAR Prescrição médica para tratamento multidisciplinar, método ABA, para 03 (três) sessões de Terapia Ocupacional; 01 (uma) sessão de Terapia Ocupacional Musicoterapia; 01 (uma) sessão de Terapia Ocupacional Psicopedagoga;02 (duas) sessões de Psicomotricista; 02 (duas) sessões de Fonoaudiólogo; e 03 (três) sessões com Psicólogo Limitação de cobertura Descabimento - Aplicação da Lei dos Planos de Saúde9.656/98 e do Código de Defesa do Consumidor Danos morais não configurados, uma vez que a ampliação do tratamento foi deferida em sede de medida de urgência, não restando caracterizado prejuízo ao infante Sentença mantida - Recurso desprovido.
+Sem embargos de declaração.
+No presente recurso especial, L A S alega que o acórdão estadual contrariou as disposições contidas no art. 14 do CDC e nos arts. 186 e 927 do Código Civil.
+Sustenta, outrossim, que "O Recorrente foi vítima de conduta abusiva das Recorridas, e por isso, merece ser indenizado" (fl. 584).
+Apresentadas as contrarrazões (fls. 593-603), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 623-624).
+Parecer do Ministério Público pelo não conhecimento do recurso especial (fls. 633-638).
+É, no essencial, o relatório.
+Cuida-se de decidir se são devidos danos morais pela limitação de terapias multidisciplinares por parte do plano de saúde.
+Ao dirimir a controvérsia, o Tribunal a quo consignou (fls. 572-573):
+De fato, descabe a ingerência da operadora de saúde quanto aos tratamentos indicados pelo profissional médico, não se admitindo a exclusão de determinada espécie de procedimento útil para o fim proposto, tampouco sua limitação, quando demonstrada sua necessidade bem assim a cobertura da doença. Ocorre que, no caso vertente, não houve a caracterização de dano moral, seja porque a requerida não apresentou negativa absoluta, apenas limitação no número de sessões de terapia, seja porque a pretensão de ampliação do tratamento foi deferida por medida antecipatória, concedida no Agravo de Instrumento n. 2126827-90.2021, da qual não se tem notícia de descumprimento, vislumbrando-se, assim, a ausência de prejuízo à saúde do menor, que, pela tenra idade (5 anos), não padeceu com o ocorrido.
+Na hipótese, rever a conclusão do acórdão recorrido acerca da inexistência de danos morais demandaria a apreciação do conjunto fático-probatório dos autos, procedimento inviável em recurso especial em virtude da incidência da Súmula n. 7/STJ.
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. 1. OFENSA AO ART. 1.022 DO CPC/2015. NÃO CONFIGURADA. 2. TRANSTORNO DO ESPECTRO AUTISTA - TEA. TRATAMENTO MULTIDISCIPLINAR. NEGATIVA DE COBERTURA INDEVIDA. PRECEDENTE DA SEGUNDA SEÇÃO. 3. ATO ILÍCITO CONFIGURADO. INDENIZAÇÃO POR DANOS MORAIS. POSSIBILIDADE. ALTERAÇÃO. REVISÃO. SÚMULA N. 7 DO STJ. 4. AGRAVO INTERNO IMPROVIDO.
+1. A apontada violação ao art. 1.022 do CPC/2015 não se sustenta, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões que foram submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão da parte recorrente.
+2. Com efeito, a Segunda Seção desta Corte Superior, apesar de ter formado precedente pelo caráter taxativo do Rol da ANS, manteve o entendimento pela abusividade da recusa de cobertura e da limitação do número de sessões de terapia multidisciplinar para os beneficiários com diagnóstico de "Transtorno do Espectro Autista" (EREsp n. 1.889.704/SP, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 8/6/2022, DJe de 3/8/2022).
+2.1. Superveniência de normas regulamentares de regência e de determinações da ANS que tornaram expressamente obrigatória a cobertura de qualquer método ou técnica indicado pelo médico assistente, em número ilimitado de sessões com fonoaudiólogos, psicólogos, terapeutas ocupacionais e fisioterapeutas, para o tratamento/manejo do transtorno do espectro autista (TEA).
+2.2. A Corte Especial do STJ orienta que o julgador se vincula apenas aos precedentes existentes no momento em que presta sua jurisdição.
+3. A revisão da conclusão a que chegou o Tribunal de origem, quanto à ocorrência de ato ilícito e ao valor arbitrado para a indenização, esbarra no óbice da Súmula 7/STJ.
+4. Agravo interno improvido.
+(AgInt no AREsp n. 2.212.118/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/5/2023, DJe de 17/5/2023.)
+Ante o exposto, não conheço do recurso especial.
+Visto que a sentença foi publicada já na vigência do novo CPC, determino a majoração dos honorários advocatícios, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
