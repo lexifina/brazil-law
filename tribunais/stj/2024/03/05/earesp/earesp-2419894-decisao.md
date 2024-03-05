@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por TARCIO PEDRO PEREIRA DOS SANTOS contra acórdão proferido pela Sexta Turma assim ementado (fl. 620):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. RECURSO CONTRA DECISÃO MONOCRÁTICA DE RELATOR. PRAZO: 5 (CINCO) DIAS CORRIDOS. ART. 39 DA LEI N. 8.038/1990. INTEMPESTIVIDADE. NÚCLEO DE PRÁTICA JURÍDICA DE UNIVERSIDADE PARTICULAR. CONTAGEM DE PRAZO EM DOBRO. NÃO CABÍVEL. PRECEDENTES. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A entrada em vigor do novo Código de Processo Civil não alterou o prazo para a interposição de agravo contra decisão monocrática de relator em matéria penal, estando vigente o art. 39 da Lei n. 8.038/1990, ou seja, o prazo para a apresentação do citado apelo é de 5 (cinco) dias corridos.
+2. Nos termos da jurisprudência desta Corte Superior de Justiça, a prerrogativa de contagem de prazos em dobro não se estende a advogados que integram núcleo de prática jurídica mantido por universidade particular.
+3. No caso, o Núcleo de Prática Jurídica do CEUB foi intimado da decisão agravada no dia 02/10/2023 (segunda-feira). O prazo de 5 (cinco) dias se iniciou em 03/10/2023 (terça-feira) e terminou em 09/10/2023 (segunda-feira). O presente agravo regimental, no entanto, só veio a ser interposto nesta Corte em 10/10/2023, quando já havia escoado o prazo para a sua interposição.
+4. Agravo regimental não conhecido.
+A parte embargante sustenta que o entendimento constante do acórdão recorrido destoa da orientação firmada pela Corte Especial no julgamento do REsp n. 1.986.064/RS, relatora Ministra Nancy Andrighi, julgado em 1º/6/2022.
+De acordo com a parte recorrente, os Núcleos de Prática Jurídica (NPJ), inclusive aqueles vinculados às instituições privadas de ensino, têm direito à contagem em dobro dos prazos processuais, não sendo possível conferir-se tratamento desigual entre os NPJs de natureza pública e aqueles privados.
+Nos termos explicitados pelo recorrente, a tese acolhida pela Corte Especial (fl. 642):
+(i) não faz distinção, no mérito, se a concessão do prazo dobrado se refere a processos de matéria criminal ou cível; e
+(ii) afirma que a prerrogativa de prazo em dobro para as manifestações processuais também se aplica aos escritórios de prática jurídica de instituições privadas de ensino superior.
+Requer, portanto, o processamento do presente recurso para que seja reformado o acórdão recorrido e prevaleça a orientação firmada no acórdão indicado como paradigma.
+É o relatório.
+A admissibilidade dos embargos de divergência está condicionada à demonstração de que os acórdãos trazidos a confronto partiram de similar contexto fático para atribuir conclusões jurídicas dissonantes.
+No caso, o embargante não logrou demonstrar a existência de similitude fática entre os acórdãos cotejados.
+No acórdão indicado como paradigma, dirimiu-se a controvérsia de natureza cível, tendo como fundamento determinante a entrada em vigor do art. 186, § 3º, do CPC/2015, que reconheceu expressamente a prerrogativa do prazo em dobro para as manifestações processuais dos escritórios de prática jurídica das faculdades de Direito reconhecidas na forma da lei e para as entidades que prestam assistência jurídica gratuita em razão de convênios firmados com a Defe nsoria Pública.
+Já no acórdão recorrido, limitou-se o órgão julgador a decidir a matéria no âmbito criminal, não tendo realizado juízo de valor a respeito do disposto no art. 186, § 3º, do CPC/2015, o que inviabiliza o presente recurso uniformizador, haja vista que o dissídio jurisprudencial não ficou devidamente comprovado.
+Confira-se, no ponto, a seguinte transcrição do acórdão recorrido (fls. 623-624):
+Segundo a jurisprudência desta Corte Superior de Justiça, a entrada em vigor do novo Código de Processo Civil não alterou o prazo para a interposição de agravo contra decisão monocrática de relator em matéria penal. Portanto, nessa hipótese, está vigente o comando normativo contido no art. 39 da Lei n. 8.038/1990, ou seja, o prazo para a apresentação do aludido recurso é de 5 (cinco) dias corridos.
+Outrossim, segundo entendimento firmado nesta Corte Superior, " a  contagem dos prazos recursais nos feitos criminais encontra-se regulamentada no artigo 798 do Código de Processo Penal, segundo o qual "todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado", o que impede a aplicação das regras processuais civis, sendo, dessa maneira, inaplicável o cálculo em dias úteis previsto no artigo 219 do Novo Código de Processo Civil, bem como o recesso do CPC/2015" (AgRg no AREsp n. 2.089.827/RJ, Rel. Ministro JESUÍNO RISSATO (Desembargador Convocado do TJDFT), QUINTA TURMA, julgado em 02/08/2022, DJe 22/08/2022).
+ ..
+Além disso, cumpre ressaltar que, " s egundo a jurisprudência desta Corte Superior, "a prerrogativa da contagem dos prazos em dobro, em matéria criminal, não se estende aos Núcleos de Prática Jurídica vinculados à instituição de ensino superior privada" (AgRg no AREsp n. 1.809.965/DF, Rel. Ministra Laurita Vaz, 6ª T., DJe 5/4/2021)" (AgRg no AREsp n. 1.793.458/DF, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 28/02/2023, DJe 03/03/2023; sem grifos no original).
+Não havendo identidade fático-processual entre os casos confrontados, não é possível admitir os embargos de divergência.
+A esse respeito:
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. REQUISITOS DE ADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. NÃO OCORRÊNCIA. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS JULGADOS. AGRAVO INTERNO NÃO PROVIDO.
+1. Na aplicação do art. 1.022 do CPC, a constatação de ter, ou não, havido omissão ou deficiência na fundamentação do acórdão proferido na origem, em regra, demanda o exame das peculiaridades de cada caso concreto, não existindo, portanto, dissídio de teses a ensejar os embargos de divergência.
+2. A ausência de similitude fático-jurídica entre os acórdãos confrontados impede o conhecimento dos embargos de divergência, que têm como escopo único uniformizar a jurisprudência do Tribunal, não se prestando para ser utilizado como via de rejulgamento do Recurso Especial (STJ, AgInt nos EREsp n. 1.565.059/ES, relatora Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, julgado em 20/9/2022, DJe de 23/9/2022).
+3. A mera transcrição de ementas não supre as exigências técnicas para a oposição dos embargos de divergência.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EAREsp n. 1.974.590/GO, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 29/11/2023, DJe de 5/12/2023.)
+Ante o exposto, com fundamento no art. 932, III, do Código de Processo Civil, nos termos do disposto no art. 266-C do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente os embargos de divergência.
+Publique-se. Intimem-se.
+EMENTA
