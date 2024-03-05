@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 28/02/2024 a 05/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. GUIA. PREENCHIMENTO. NÚMERO INCOMPLETO DO PROCESSO. DESERÇÃO. SÚMULA 187/STJ. PROVIMENTO NEGADO.
+1. As partes agravantes se insurgem contra a decisão da Presidência do Superior Tribunal de Justiça (STJ) que aplicou a Súmula 187/STJ ao presente caso sob o seguinte fundamento: "verificou-se a parte indicou erroneamente o número do "Processo no STJ" na guia de recolhimento das custas judiciais juntada aos autos, uma vez que o número utilizado não corresponde ao dos presentes autos".
+2. Em suas razões, os agravantes sustentam que, "diante da correta indicação de todos os dados do processo, não se vislumbra razoável entender como deserto os embargos de divergência tão somente pela ausência de indicação do dígito no número do processo na guia de recolhimento das custas. O número do processo se encontra corretamente indicado, não havendo que se falar na impossibilidade de sua identifica ção".
+3. Da leitura da guia de custas judiciais não é possível identificar o processo vinculado a ela, uma vez que o número indicado está incompleto. Apesar de intimadas para regularizar o recolhimento das custas, a parte recorrente não realizou o preenchimento da guia a contento, o que leva à deserção do recurso.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por FABIO AUGUSTO DENARDIN KLEIN, ISIS NAZARE DENARDIN KLEIN, LENUZA MARIA DENARDIN KLEIN SAEZ, MARIANA DENARDIN KLEIN e ROMEU KLEIN contra a decisão da Presidência desta Corte Superior de fls. 1.151/1.152.
+Em suas razões recursais, sustentam que, "diante da correta indicação de todos os dados do processo, não se vislumbra razoável entender como deserto os embargos de divergência tão somente pela ausência de indicação do dígito no número do processo na guia de recolhimento das custas. O número do processo se encontra corretamente indicado, não havendo que se falar na impossibilidade de sua identificação" (fl. 1.159).
+Não foi apresentada impugnação segundo a certidão de fl. 1.164.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. GUIA. PREENCHIMENTO. NÚMERO INCOMPLETO DO PROCESSO. DESERÇÃO. SÚMULA 187/STJ. PROVIMENTO NEGADO.
+1. As partes agravantes se insurgem contra a decisão da Presidência do Superior Tribunal de Justiça (STJ) que aplicou a Súmula 187/STJ ao presente caso sob o seguinte fundamento: "verificou-se a parte indicou erroneamente o número do "Processo no STJ" na guia de recolhimento das custas judiciais juntada aos autos, uma vez que o número utilizado não corresponde ao dos presentes autos".
+2. Em suas razões, os agravantes sustentam que, "diante da correta indicação de todos os dados do processo, não se vislumbra razoável entender como deserto os embargos de divergência tão somente pela ausência de indicação do dígito no número do processo na guia de recolhimento das custas. O número do processo se encontra corretamente indicado, não havendo que se falar na impossibilidade de sua identifica ção".
+3. Da leitura da guia de custas judiciais não é possível identificar o processo vinculado a ela, uma vez que o número indicado está incompleto. Apesar de intimadas para regularizar o recolhimento das custas, a parte recorrente não realizou o preenchimento da guia a contento, o que leva à deserção do recurso.
+4. Agravo interno a que se nega provimento.
+VOTO
+As partes agravantes se insurgem contra a decisão da Presidência do Superior Tribunal de Justiça (STJ) que aplicou o enunciado sumular 187/STJ ao presente caso sobre o seguinte fundamento:
+Mediante análise dos autos, verificou-se a parte indicou erroneamente o número do "Processo no STJ" na guia de recolhimento das custas judiciais juntada aos autos, uma vez que o número utilizado não corresponde ao dos presentes autos (fls. 1132).
+Constatada a referida irregularidade no recolhimento do preparo, a parte foi intimada para regularizar o óbice. Porém, embora regularmente intimada, não regularizou o vício.
+Isso porque, no momento do preenchimento da guia de recolhimento das custas juntada às fls. 1145, a parte deixou de indicar número de registro equivalente ao do presente processo, informando de forma incompleta o número dos presentes autos (fls. 1145).
+Assim, observa-se que o recolhimento das custas devidas ao STJ foi realizado em desacordo com o disposto na Resolução do STJ vigente, mesmo após a intimação da parte para regularizar o preparo.
+O Superior Tribunal de Justiça consolidou o entendimento no sentido de que a irregularidade no preenchimento das guias do preparo - consistente na indicação errônea do processo -, no ato da interposição do recurso, caracteriza a sua deserção (fls. 1.151/1.152).
+Em suas razões, os agravantes sustentam que, "diante da correta indicação de todos os dados do processo, não se vislumbra razoável entender como deserto os embargos de divergência tão somente pela ausência de indicação do dígito no número do processo na guia de recolhimento das custas. O número do processo se encontra corretamente indicado, não havendo que se falar na impossibilidade de sua identificação" (fl. 1.159).
+Contudo, a irresignação não merece prosperar.
+Da leitura da guia de custas judiciais não é possível identificar o processo vinculado a ela uma vez que o número indicado está incompleto. Apesar de intimadas para regularizar o recolhimento das custas, a parte recorrente não realizou o preenchimento da guia a contento, o que leva à deserção do recurso.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. GUIA DE RECOLHIMENTO PREENCHIDA COM IRREGULARIDADE. PARTE INTIMADA PARA SANAR O VÍCIO. DESCUMPRIMENTO. DESERÇÃO. PARADIGMA QUE NÃO TRATOU DA MESMA SITUAÇÃO FÁTICO-JURÍDICA. MANIFESTA DESSEMELHANÇA ENTRE OS CASOS COMPARADOS. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS. AGRAVO INTERNO DESPROVIDO.
+1. O fato de terem sido recolhidas as custas, por si só, mas sem o correto preenchimento da identificação do processo e, ademais, sem a correção da falha quando oportunamente intimada a parte para tanto, são circunstâncias distintivas do caso tratado no paradigma.
+2. Há manifesta ausência de similitude fático-jurídica entre os casos comparados, o que enseja a inadmissibilidade dos embargos de divergência.
+3. Ademais, "O número constante da guia de recolhimento da GRU deve guardar exata correspondência com o número de referência do processo, sob pena de deserção (AgInt no AREsp 1507458/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 18/05/2020 DJe 25/05/2020)"(AgInt nos EDcl nos EREsp 1.691.639/RS, Relator Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, DJe de 26/08/2021).
+4. Agravo interno desprovido. (AgInt nos EAREsp n. 2.141.307/DF, relatora Ministra Laurita Vaz, Corte Especial, julgado em 26/9/2023, DJe de 2/10/2023.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. RECURSO EM MANDADO DE SEGURANÇA. GUIA DO PREPARO. IRREGULARIDADE NO PREENCHIMENTO. DESERÇÃO CARACTERIZADA. PROVIMENTO NEGADO.
+1. Verifica-se que o recurso e m mandado de segurança foi protocolado sem a guia de custas devidas ao Superior Tribunal de Justiça e o respectivo comprovante de pagamento. Antes da intimação para o recolhimento em dobro, previsto no art. 1.007, § 4º, do Código de Processo Civil, a parte recorrente juntou a guia e o comprovante de pagamento, no entanto, de forma simples. A parte, embora regularmente intimada para sanar referido vício, não regularizou o preparo.
+2. A jurisprudência do STJ considera deserto o recurso em mandado de segurança quando a parte recorrente, intimada para realizar o recolhimento do preparo, indica erroneamente o tipo de ação ou recurso escolhido no formulário eletrônico.
+3. Este Tribunal consolidou o entendimento de que "a irregularidade no preenchimento das guias do preparo, no ato da interposição do recurso especial, caracteriza a sua deserção, sendo inviável nova intimação para regularizar o vício" (Aglnt no RMS 58.719/CE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/12/2018).
+4. Agravo a que se nega provimento. (AgInt no RMS n. 69.989/MT, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 25/9/2023, DJe de 28/9/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO SUBMETIDO AO ENUNCIADO ADMINISTRATIVO 3/STJ. CUSTAS JUDICIAIS. REGULARIZAÇÃO. PROVIDÊNCIA NÃO TOMADA, APESAR DA INTIMAÇÃO DA RECORRENTE. DESERÇÃO.
+1. Apesar de intimada nos termos do § 7º do art. 1.007 do CPC/2015 para regularizar o recolhimento das custas judiciais - com a indicação do número do processo na origem -, a parte recorrente deixou de tomar as providências cabíveis.
+2. Esta Corte possui o entendimento de que a irregularidade no preenchimento das guias do preparo no ato da interposição do recurso caracteriza a sua deserção, sendo inviável nova intimação para sanar o vício.
+3. Agravo interno não provido. (AgInt no RMS n. 59.643/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 20/8/2019, DJe de 27/8/2019.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
