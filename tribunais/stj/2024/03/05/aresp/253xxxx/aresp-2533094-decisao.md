@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo apresentado por MUNICÍPIO DE CURITIBA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. CANCELAMENTO ADMINISTRATIVO DA DÍVIDA. AUSÊNCIA DE FATO GERADOR. CUSTAS PROCESSUAIS. PRINCÍPIO DA CAUSALIDADE. IN APLICABILIDADE. ENUNCIADO  03 DAS CÂMARAS TRIBUTÁRIAS. SENTENÇA MANTIDA. RECURSO NÃO PROVIDO.
+Quanto à primeira controvérsia, a parte recorrente alega violação do art. 90 do CPC, no que concerne à necessidade de se atribuir ao executado a responsabilidade pelo pagamento dos honorários advocatícios sucumbenciais, em razão do princípio da causalidade, visto que o Fisco Municipal agiu no estrito cumprimento do seu dever legal e a recorrida, ao não realizar o pagamento de seus débitos, deu causa à instauração da presente execução, trazendo a seguinte argumentação:
+O v. acórdão manteve a sentença que condenou o recorrente ao pagamento de honorários advocatícios.
+Entretanto, tal entendimento não merecer prevalecer.
+O princípio da causalidade consagra que, mesmo vencedora, seja condenada ao pagamento de honorários ao advogado da parte vencida por ter sido o responsável pela existência do processo. (Manual de direito processual civil- volume único/ Daniel Amorim Assumpção Neces. 8. Ed- Salvador: Ed. JusPodivm, 2016, pag 499).
+ ..
+No caso em tela, tem-se que a recorrida, ao não realizar o pagamento de seus débitos, deu causa à instauração da execução.
+Conforme já esclarecido, à época do ajuizamento da presente execução, o valor constante na CDA estava de acordo com procedimento administrativo de lançamento tributário, não podendo alegar má-fé ou erro do Fisco, tendo-se em conta a existência de decisão judicial posterior ao fato gerador e à autuação fiscal.
+Agiu o Poder Municipal nos estritos cumprimentos do seu dever legal, tendo em vista trata-se de atividade administrativa vinculada e obrigatória, sob pena de responsabilidade funcional (art. 142, parágrafo único, do CTN).
+Logo, pela aplicação do princípio da causalidade, cabe ao recorrido arcar com os ônus sucumbenciais (fls. 527-528).
+Quanto à segunda controvérsia, a parte recorrente, alternativamente, alega violação do art. 90, § 4º, do CPC, no que concerne à necessidade de redução dos honorários advocatícios de sucumbência pela metade, tendo em vista que a recorrente procedeu ao cancelamento dos débitos e solicitou a extinção do feito, trazendo a seguinte argumentação:
+Caso não seja este o entendimento, deve ser aplicado o disposto no art. 90 do CPC, de forma que requer a redução dos honorários pela metade. Vejamos.
+O Juízo a quo fixou os honorários advocatícios de sucumbência em 10% (dez por cento) do valor da causa.
+Entretanto o Município de Curitiba entende ser aplicável no presente caso o disposto no artigo 90, § 4º do CPC,in verbis:
+ ..
+Isso porque, no caso em questão, o Município procedeu o cancelamento dos débitos e solicitou a extinção do feito (fls. 528-529).
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Não incide no caso o princípio da causalidade, eis que a apelada não concorreu em nada para o ajuizamento da ação e a extinção da execução se deu por ato próprio do Município no âmbito administrativo.
+Em outras palavras, quem deu causa à demanda foi o próprio Município que ajuizou a execução antes de aguardar o desfecho do processo administrativo e, depois, reconheceu lá que não havia ocorrido fato gerador (fl. 519).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Quanto à segunda controvérsia, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso Quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020; AgRg no AREsp n. 2.022.133/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
