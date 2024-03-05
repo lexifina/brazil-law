@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo manejado por ADVERSIG - VIGILÂNCIA LTDA. - MICROEMPRESA, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 169):
+JULGAMENTO PELO RITO DO ART. 942 DO CPC. TRIBUTÁRIO. PIS/COFINS. JUROS E CORREÇÃO MONETÁRIA (TAXA SELIC). BASE DE CÁLCULO.
+1. Os juros pela taxa SELIC auferidos no levantamento de depósitos judiciais devem integrar a base de cálculo das contribuições ao PIS/COFINS apuradas pelo sistema não-cumulativo.
+2. Os juros da taxa SELIC obtidos na repetição do indébito tributário (na via judicial ou administrativa), não integram a base de cálculo das contribuições ao PIS/COFINS (sistema cumulativo ou não-cumulativo de apuração), considerada a sua natureza acessória.
+Opostos embargos de declaração, foram rejeitados (fls. 229/232).
+Sustenta a agravante, em resumo, a exclusão da base de cálculo do PIS e da COFINS dos valores correspondentes à Taxa Selic recebida em razão de levantamento de depósitos judiciais.
+Contrarrazões apresentadas às fls. 310/319.
+Parecer do Ministério Público Federal às fls. 380/385.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que a matéria trazida a julgamento nos presentes autos foi afetada como tema repetitivo, a saber, "Possibilidade de incidência das contribuições ao PIS/PASEP e COFINS sobre os valores de juros, calculados pela taxa SELIC, recebidos em face de repetição de indébito tributário, na devolução de depósitos judiciais ou nos pagamentos efetuados por clientes em atraso" (REsp 2065817, REsp 2075276, REsp 2068697 e REsp 2116065)
+Em  recursos  versando  sobre  temas  submetidos  ao  rito  da  repercussão  geral,  o  STF  tem  determinado  o  retorno  dos  processos  para  os  Tribunais  de  origem,  para  aguardar  o  julgamento  do  recurso  extraordinário  representativo  da  controvérsia.  A  propósito:  ARE  1.244.038  AgR-segundo-EDv-AgR-ED,  Rel.  Min.  Alexandre  de  Moraes,  Tribunal  Pleno,  DJe  10/12/2020;  ARE  1.144.360  AgR-ED,  Rel.  Min.  Dias  Toffoli  (Presidente),  Tribunal  Pleno,  DJe  19/02/2019;  e  ARE  1.181.843  AgR-ED,  Rel.  Min.  Roberto  Barroso,  Primeira  Turma,  DJe  23/06/2020.
+Assim,  em  razão  de  economia  processual  e  para  se  evitar  a  prolação  pelo  STJ  de  provimentos  jurisdicionais  em  desconformidade  com  o  que  for  definitivamente  decidido  pela  Corte  Suprema,  é  conveniente  que  a  apreciação  do  recurso  especial  fique  sobrestada  até  o  exaurimento  da  competência  do  Tribunal  de  origem,  que  ocorrerá  com  o  juízo  de  retratação  ou  de  conformação  a  ser  realizado  pela  instância  ordinária,  após  o  julgamento  do  recurso  extraordinário  sobre  o  mesmo  tema  afetado  ao  regime  da  repercussão  geral,  nos  moldes  dos  arts.  1.040  e  1.041  do  CPC.
+ANTE  O  EXPOSTO,  julgo  prejudicado  o  recurso  e  determino  a  devolução  dos  autos,  com  a  respectiva  baixa,  ao  Tribunal  de  origem,  onde,  nos  termos  dos  arts.  1.040  e  1.041  do  CPC,  deverá  ser  realizado  o  juízo  de  conformação  ou  a  manutenção  do  acórdão  local  frente  ao  que  vier  a  ser  decidido  por esta  Corte  no  referido  repetitivo.
+Publique-se.
+EMENTA
