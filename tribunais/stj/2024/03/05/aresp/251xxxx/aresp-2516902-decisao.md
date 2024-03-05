@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de agravo apresentado por ESTADO DO MARANHÃO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE VIGILÂNCIA ARMADA. REALIZAÇÃO DE SERVIÇOS COMPROVADA. NOTA DE EMPENHO E NOTA FISCAL, ACOMPANHADA DE DECLARAÇÃO DEATESTO. ÔNUS DA PROVA. APELO DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts 85, § 14, e 86, do CPC, no que concerne à necessidade de arbitramento de honorário de sucumbenciais em razão da sucumbência recíproca, trazendo a seguinte argumentação:
+Isso porque, o magistrado de piso, mesmo reconhecendo o pagamento parcial da dívida, asseverando que ".. apesar da irresignação da autora, entendo como adimplida a dívida constante da NF nº 0009312, tendo em vista depósito judicial realizado no bojo do Processo nº 0017609- 54.2015.5.16.0016, 6ª Vara do Trabalho de São Luís", atribuiu ao réu a totalidade dos consectários legais, especialmente os honorários advocatícios, desconsiderando a sucumbência parcial do autor. Frise-se que tal ilegalidade foi inteiramente confirmada pelo Tribunal.
+ ..
+Assim sendo, a parte autora restou vencida em parte de seu pedido, pois deixou de ganhar, com o manejo da presente ação, a quantia de R$ 42.928,02 (fl. 2550).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; AgInt no AREsp n. 953.171/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/8/2022; AgInt no AREsp n. 1.506.939/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26/8/2022; AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020; AgRg no REsp n. 1.850.296/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020; AgRg no REsp n. 2.004.417/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
