@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 28/02/2024 a 05/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CONSUMIDOR. CONTRATO BANCÁRIO. REVISÃO. JUROS REMUNERATÓRIOS. NÃO CABIMENTO DOS EMBARGOS. AUSÊNCIA DE SEMELHANÇA ENTRE OS CASOS CONFRONTADOS. DECISÃO MANTIDA.
+1. A jurisprudência desta Corte está sedimentada no sentido de que deve existir similitude entre o acórdão embargado e o paradigma, nos termos do art. 1.043, § 4º, do CPC/2015 e do art. 266, § 4º, do RISTJ.
+2. O acórdão embargado não considerou abusiva a taxa de juros remuneratórios flutuante contratada, enquanto o paradigma versou sobre a a limitação dos juros pela taxa média de mercado, quando não havia contrato escrito entre as partes. Não há, evidentemente, semelhança fático-jurídica entre os arestos confrontados.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão desta relatoria, que indeferiu liminarmente embargos de divergência.
+Em suas razões, a parte agravante sustenta "no que tange à limitação dos juros pela taxa media de mercado o recorrente afirmou que deve ser limitado ao percentual estipulado pela taxa média de mercado, eis que restou comprovado por pericia técnica judicial que NÃO HÁ CONTRATO JUNTADO AO FEITO, bem como reconhecido pelo juízo que primeiramente conheceu do processo, e também pela decisão no tribunal de origem que admitiu o recurso especial. Portanto, ressalta-se novamente, o Recorrente não busca o reexame fático, vedado pela Súmula 07/STJ, mas analisar um suposto error in judicando (o proveniente de equívoco na valoração das provas) e/ou error in procedendo (erro no proceder, cometido pelo juiz) e que podem ser objeto de recurso especial" (e-STJ fls. 1.674/1.675).
+Por fim, ratifica as razões de mérito para a reforma do acórdão embargado e requer o provimento do recurso (e-STJ fls. 1.681/1.682).
+Foi apresentada impugnação às fls. 1.706/1.716 (e-STJ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CONSUMIDOR. CONTRATO BANCÁRIO. REVISÃO. JUROS REMUNERATÓRIOS. NÃO CABIMENTO DOS EMBARGOS. AUSÊNCIA DE SEMELHANÇA ENTRE OS CASOS CONFRONTADOS. DECISÃO MANTIDA.
+1. A jurisprudência desta Corte está sedimentada no sentido de que deve existir similitude entre o acórdão embargado e o paradigma, nos termos do art. 1.043, § 4º, do CPC/2015 e do art. 266, § 4º, do RISTJ.
+2. O acórdão embargado não considerou abusiva a taxa de juros remuneratórios flutuante contratada, enquanto o paradigma versou sobre a a limitação dos juros pela taxa média de mercado, quando não havia contrato escrito entre as partes. Não há, evidentemente, semelhança fático-jurídica entre os arestos confrontados.
+3. Agravo interno a que se nega provimento.
+VOTO
+A parte agravante não desenvolveu nenhum argumento apto à modificação da decisão agravada.
+Os embargos de divergência foram indeferidos liminarmente sob os seguintes fundamentos, os quais devem ser mantidos (e-STJ fls. 1.664/1.666):
+Trata-se de embargos de divergência em recurso especial interpostos contra acórdão da TERCEIRA TURMA, Rel. Ministro HUMBERTO MARTINS, assim ementado (e-STJ fl. 1.608):
+AGRAVO INTERNO. RECURSO ESPECIAL. DIREITO CIVIL E CONSUMIDOR. CONTRATO BANCÁRIO. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. INEXISTÊNCIA DE ABUSIVIDADE PELA MERA SUPERAÇÃO DA MÉDIA DE MERCADO. SÚMULA 7/STJ.
+1. A mera superação da taxa média de mercado em operações da espécie não evidencia abusividade a permitir a revisão do contrato celebrado, notadamente quando se revela diminuta a diferença entre o montante cobrado e a taxa média adotada pelo setor.
+2. Operação em que a taxa de juros, por ser flutuante, não é informada previamente, o que pode ser obtido nos canais fornecidos pela instituição financeira. Caso dos autos em que a prova pericial produzida, em que se amparou o acórdão, apontou a módica diferença entre as taxas de juros praticadas no contrato e aquela divulgada pelo Banco Central para contratos da mesma espécie, afastando-se a abusividade.
+3. Inviabilidade de revolvimento de matéria fática, a teor da Súmula 7/STJ.
+4. Razões recursais que não alteram o entendimento da decisão agravada. Agravo interno improvido.
+A parte embargante defende que o acórdão recorrido contrariou o seguinte julgado: REsp n. 1.112.879/PR, SEGUNDA SEÇÃO, Relatora Ministra NANCY ANDRIGHI, DJe de 19/05/2010. Alega que "a decisão proferida equivocou-se ao considerar que há contrato "expressamente consentindo a taxa flutuante dos juros" embora o acórdão recorrido tenha apenas afirmado que "não se mostra razoável exigir-se a apresentação de um contrato prevendo a taxa de juros que será cobrado" para que as taxas de juros praticadas não sejam limitadas à média informada pelo BACEN.  ..  esse entendimento não está de acordo com a jurisprudência majoritária do STJ, porque considerando que a ausência de apresentação do pacto entabulado impede a verificação da existência da expressa previsão contratual das taxas pactuadas, deve a instituição financeira suportar o ônus da prova pela não apresentação do contrato" (e-STJ fls. 1.626/1.628).
+Pede a reforma do acórdão embargado, para determinar "a limitação dos juros remuneratórios à taxa média de mercado, divulgada pelo Bacen, praticada nas operações da mesma espécie, salvo nos períodos em que não houve divulgação da taxa ou se a taxa cobrada for mais vantajosa para o autor, inclusive nos períodos em que não houve divulgação pelo BACEN, nos termos da súmula 530 do Superior Tribunal de Justiça; mantendo as taxas pactuadas nos demais períodos de relação entre as partes" (e-STJ fl. 1.634).
+É o relatório.
+Decido.
+Passo à análise dos embargos de divergência com relação ao pretenso conflito entre o aresto recorrido, da TERCEIRA TURMA, e o REsp n. 1.112.879/PR, SEGUNDA SEÇÃO, Relatora Ministra NANCY ANDRIGHI, DJe de 19/05/2010.
+O acórdão recorrido apreciou controvérsia atinente à revisão de contrato de abertura de crédito em conta-corrente, em que foi contratada taxa de juros remuneratórios flutuante, não tendo sido demonstrada a abusividade nas instâncias ordinárias, segundo perícia (e-STJ fl. 1.611/1.612). Tal fato, levou o acórdão embargado a não conhecer do recurso especial em razão do óbice da Súmula n. 7/STJ. Por outro lado, o paradigma da SEGUNDA SEÇÃO, à luz do inteiro teor das respectivas peças processuais (acórdão recorrido e recurso especial), tratou do limite dos juros remuneratórios em contratos bancários, mas no caso as instâncias ordinárias declararam que não existia contrato escrito entre as partes (e-STJ fl. 1.653).
+Portanto, não há similitude fático-jurídica entre os arestos confrontados, sendo incabíveis os embargos de divergência, consoante o art. 1.043, § 4º, do CPC/2015 e o art. 266, § 4º, do RISTJ.
+Ante o exposto, com fundamento no art. 266-C do RISTJ, INDEFIRO LIMINARMENTE os embargos de divergência.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+Como visto, o acórdão embargado, ao reportar-se ao "laudo pericial produzido nos autos" (e-STJ fl. 1.612), não considerou abusiva a taxa de juros remuneratórios flutuante contratada, enquanto o paradigma versou sobre a limitação dos juros pela taxa média de mercado, quando não havia contrato escrito entre as partes. Não há, evidentemente, semelhança fático-jurídica entre os arestos confrontados. Ademais, o acórdão embargado aplicou a Súmula n. 7/STJ diante da impossibilidade de reforma do acórdão estadual por demandar reexame de prova. Dessa forma, incabíveis os embargos quando o acórdão não conhece do mérito do recurso especial, realizando somente a análise concreta dos requisitos de admissibilidade, como ocorreu no ponto sobre os juros remuneratórios. Aplicável, por analogia, a Súmula n. 315/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
