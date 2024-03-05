@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 28/02/2024 a 05/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NA RECLAMAÇÃO. AFRONTA À AUTORIDADE DE DECISÃO DO STJ. AUSÊNCIA. ADEQUAÇÃO DO JULGADO IMPUGNADO À JURISPRUDÊNCIA DO STJ.
+1. É vedada a utilização da reclamação como sucedâneo recursal. Precedentes.
+2. Para que a reclamação seja admitida, é imprescindível que se caracterize, de modo objetivo, usurpação de competência deste Tribunal ou ofensa direta à decisão aqui proferida, circunstâncias não evidenciadas nos autos.
+3. Agravo interno não provido.
+RELATÓRIO
+Cuida-se de agravo interno na reclamação interposto por REDE BRISAS PREMIUM COMÉRCIO DE COMBUSTÍVEIS LTDA - EM RECUPERAÇÃO JUDICIAL, contra decisão que extinguiu a reclamação sem resolução do mérito.
+Ação: reclamação, com pedido liminar, ajuizada por REDE BRISAS PREMIUM COMERCIO DE COMBUSTÍVEIS LTDA - EM RECUPERAÇÃO JUDICIAL, com fundamento no art. 988 e seguintes do CPC/2015, contra decisão proferida pela Câmara Especial de Presidentes do Eg. Tribunal de Justiça do Estado de São Paulo, nos autos do Embargos de Declaração nº1030149-21.2021.8.26.0100/50002.
+O reclamante discorda da conclusão a que chegou o Tribunal de origem sobre negar seguimento ao recurso especial por ele interposto ao fundamento de que o Tema 576/STJ não tem aplicabilidade no caso concreto. Sustenta que diante da deficiência instrutória do processo executivo originário, que impedia o reconhecimento dos atributos da liquidez, certeza e exigibilidade na CCB executada originariamente, de modo que o Egrégio Tribunal de Justiça de São Paulo, ao obstar o processamento do Recurso Especial interposto pelos Reclamantes, teria obstado a competência deste Superior Tribunal de Justiça.
+Decisão monocrática: extinguiu a reclamação sem resolução do mérito, nos termos assim ementados:
+"PROCESSUAL CIVIL. RECLAMAÇÃO. AFRONTA À AUTORIDADE DE DECISÃO DO STJ. AUSÊNCIA. ADEQUAÇÃO DO JULGADO IMPUGNADO À JURISPRUDÊNCIA DO STJ. RECURSO ESPECIAL REPETITIVO. DESCABIMENTO. SUCEDÂNEO RECURSAL. NÃO ADMISSÃO. INDEFERIMENTO DA PETIÇÃO INICIAL. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO.1. Para que a reclamação seja admitida, é imprescindível que se caracterize, de modo objetivo, usurpação de competência deste Tribunal ou ofensa direta à decisão aqui proferida, circunstâncias não evidenciadas nos autos.2. Consoante a jurisprudência dominante do STJ, é incabível o ajuizamento de reclamação com o objetivo de adequar o julgado impugnado à jurisprudência do STJ, mesmo que consolidada em Súmula ou em recurso especial repetitivo.3. É vedada a utilização da reclamação como sucedâneo recursal. Precedentes.4. Petição inicial indeferida. Reclamação extinta sem resolução de mérito."
+Agravo interno: argumenta a decisão de lavra do TJ/SP que negou seguimento a recurso especial, fundamentada na lógica de que o acórdão que originou o recurso especial foi em consonância com o Tema 576/STJ se configura como usurpação de competência do STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NA RECLAMAÇÃO. AFRONTA À AUTORIDADE DE DECISÃO DO STJ. AUSÊNCIA. ADEQUAÇÃO DO JULGADO IMPUGNADO À JURISPRUDÊNCIA DO STJ.
+1. É vedada a utilização da reclamação como sucedâneo recursal. Precedentes.
+2. Para que a reclamação seja admitida, é imprescindível que se caracterize, de modo objetivo, usurpação de competência deste Tribunal ou ofensa direta à decisão aqui proferida, circunstâncias não evidenciadas nos autos.
+3. Agravo interno não provido.
+VOTO
+Em suas razões, a agravante disserta exaustivamente sobre as razões pela quais entende que o Tema 576/STJ não se aplica à hipótese que foi julgada pelo TJ/SP. Ocorre que, na presente reclamação, a decisão objeto deste agravo ao menos trata desse ponto.
+A decisão monocrática agravada indeferiu a presente reclamação, baseada na assente jurisprudência desta Corte Superior de que é cabível a reclamação quando ordens diretas emanadas do STJ sejam descumpridas nas instâncias ordinárias, não servindo para a preservação da jurisprudência desta Corte ou como sucedâneo recursal (AgRg na Rcl 29.329/MS, Corte Especial, DJe 3/8/2016; AgInt na Rcl 36.756/MG, Segunda Seção, DJe 23/8/2019 e AgInt na Rcl 37.890/MT, Segunda Seção, DJe 8/10/2019).
+Ademais, o art. 1.030 do CPC determina que cabe o Agravo em Recurso Especial (AREsp), estatuído no art. 1.042, contra decisão do presidente ou do vice-presidente do Tribunal recorrido que inadmitir recurso extraordinário ou recurso especial, salvo quando fundada na aplicação de entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos. Nessa última hipótese, o recurso cabível será o de Agravo Interno (AgInt) prescrito no art. 1.021, do CPC. Tendo sido este recurso indeferido pelo Tribunal de origem, a reclamação torna-se um sucedâneo recursal, o que não pode ser admitido.
+Inclusive a Corte Especial do STJ, por ocasião do julgamento da Reclamação n. 36.476/SP, já decidiu que não se admite o cabimento de reclamação destinada a vindicar o exame, por esta Corte de Justiça, sobre a aplicação supostamente indevida de precedente oriundo de recurso especial repetitivo pelo Tribunal de origem. Por oportuno, cita-se: Rcl 36.476/SP, Corte Especial, julgado em 5/2/2020, DJe 6/3/2020; AgInt na Rcl 42.586/SP, Segunda Seção, DJe 17/3/2022; AgInt na Rcl 42.013/PR, Primeira Seção, DJe 3/12/2021 e Rcl 36.476/SP, Corte Especial, DJe 6/3/2020).
+Pelo exposto, reitera-se o descabimento da reclamação na hipótese sob julgamento .
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
