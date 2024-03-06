@@ -1,0 +1,67 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por JOSE ERNANDO CARVALHO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ no julgamento do HC n. 0631561-48.2023.8.06.0000.
+Extrai-se dos autos que o recorrente foi preso em flagrante, convertido em preventiva, e denunciado por ter supostamente praticado o delito tipificado no art. 155, § 4º, incisos I e II, do Código Penal - CP (furto qualificado).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão de fls. 75/88.
+No presente recurso, a defesa alega ausência dos requisitos previstos no art. 312 do Código de Processo Penal - CPP, de modo que a custódia cautelar não estaria suficientemente fundamentada, enfatizando que o fato de o recorrente responder a processo anterior pela prática de furto tentado não seria motivação hábil a justificar a segregação.
+Destaca as condições pessoais favoráveis do recorrente, como primariedade, residência fixa e trabalho lícito.
+Ressalta a suficiência da aplicação de medidas alternativas ao cárcere.
+Pondera que, em caso de condenação, será fixado regime diverso do fechado, o que demonstra a desproporcionalidade da segregação antecipada.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura, ainda que mediante a fixação de medidas diversas da prisão.
+A liminar foi indeferida às fls. 111/112. Informações prestadas às fls. 118/124 e 136/139. O Ministério Público Federal - MPF opinou pelo parcial do recurso às fls. 150/157.
+É o relatório.
+Decido.
+Conforme relatado, busca-se no presente recurso a revogação da custódia cautelar imposta ao recorrente.
+Verifica-se que o Juízo de primeiro grau converteu a prisão em flagrante em preventiva sob os seguintes fundamentos:
+"Com efeito, o artigo 312 do CPP estabelece como pressupostos para a decretação da prisão preventiva dos acusados a existência de materialidade do crime e indícios suficientes de sua autoria, além de uma das condições descritas no dispositivo, quais sejam: garantia da ordem pública ou econômica, assegurar a aplicação da lei penal e conveniência da instrução criminal.
+A prova da materialidade e os indícios suficientes de autoria estão sobremaneira comprovados, consoante se pode ver nos depoimentos já colhidos nos autos e pelo auto de apreensão da res furtiva.
+Igualmente, verifica-se pelos antecedentes criminais do autuado, que o mesmo é contumaz na prática de crimes contra o patrimônio, demonstrando, por si só, a periculosidade do mesmo, que em liberdade poderia novamente atentar contra a ordem pública.
+Com efeito, o autuado foi posto em liberdade no dia em fevereiro de 2023 e, com pouco tempo, já foi preso em flagrante por novo delito contra o patrimônio.
+Desse modo, presente o segundo requisito da prisão preventiva: periculum in mora ou periculum libertatis, uma vez que os elementos concretos acima mencionados demonstram que a liberdade do agente põe em risco a ordem pública, a custódia cautelar se faz necessária" (fl. 21).
+A Corte de origem, por sua vez, manteve a segregação cautelar, consignando que:
+"Com efeito, percebe-se que a autoridade dita como coatora decretou a prisão do paciente mediante fundamentação idônea, destacando o risco concreto de reiteração delitiva. Tais argumentos são, pois, idôneos e podem sim levar a decretação da prisão preventiva, a bem da garantia da ordem pública.
+Acerca do fumus commissi delicti, enquanto provável ocorrência de um delito e pressuposto de qualquer medida cautelar coercitiva no processo penal, verifica-se que o Juízo a quo apontou a presença de indícios de autoria e a prova de materialidade delitiva com alicerce nas provas colhidas durante o Inquérito Policial, assim como no relato das vítimas e condutores.
+ ..
+Quanto do periculum libertatis, constata-se que a autoridade impetrada ressaltou a necessidade da constrição em virtude de o paciente possuir antecedentes criminais, demonstrando a prática contumaz de crimes contra o patrimônio, tendo sido, inclusive, posto em liberdade a pouco tempo antes de cometer o referido delito.
+ ..
+Registre-se, ainda, que conforme consulta ao sistema CANCUN, o paciente possui ação penal em andamento, em virtude do delito de furto qualificado, no bojo do processo nº 0200644-90.2023.8.06.0298, o que justifica a aplicação da Súmula 52 do TJCE, in verbis: "inquéritos e ações penais em andamento possuem o condão de justificar a custódia cautelar para garantia da ordem pública".
+Sendo assim, demonstrada a imprescindibilidade da segregação preventiva, está clara a insuficiência das medidas cautelares diversas da prisão (art. 319 do CPP)" (fls. 81/83).
+O Superior Tribunal de Justiça - STJ firmou posicionamento segundo o qual, considerando a natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição e manutenção quando evidenciado, de forma fundamentada em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do CPP.
+Convém, ainda, ressaltar que, considerando os princípios da presunção da inocência e a excepcionalidade da prisão antecipada, a custódia cautelar somente deve persistir em casos em que não for possível a aplicação de medida cautelar diversa, de que cuida o art. 319 do CPP.
+No caso dos autos, verifico que a prisão preventiva foi adequadamente motivada, tendo sido demonstrada, com base em elementos concretos, a periculosidade do recorrente, evidenciada, especialmente, pelo risco real de reiteração na prática de condutas delitivas, uma vez que responde outra ação penal pela prática de delito furto qualificado e voltou a delinquir pouco tempo após ter sido beneficiado com a liberdade, o que demonstra risco ao meio social, recomendando a custódia cautelar para garantia da ordem pública.
+A propósito, vejam-se os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO QUALIFICADO. ART. 155, § 4º, II, DO CP. PRISÃO PREVENTIVA. ART. 312 DO CPP. GARANTIA DA ORDEM PÚBLICA. PRECEDENTES. INQUÉRITOS, AÇÕES PENAIS EM CURSO, ANTECEDENTES E REINCIDÊNCIA. RISCO DE REITERAÇÃO. PRECEDENTE. PRINCÍPIO DA PROPORCIONALIDADE. IMPOSIÇÃO DE CAUTELARES. NECESSIDADE E ADEQUAÇÃO ATENDIDAS. PRECEDENTE. QUANTIDADE NORMAL À ESPÉCIE.
+Agravo regimental improvido.
+(AgRg no HC n. 861.042/TO, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 14/12/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. FURTO QUALIFICADO. PRISÃO PREVENTIVA. RISCO CONCRETO DE REITERAÇÃO DELITIVA. ALEGADA DESPROPORÇÃO DA CUSTÓDIA CAUTELAR. IMPOSSIBILIDADE DE AFERIÇÃO. RECURSO DESPROVIDO.
+1. Como se percebe, a prisão preventiva está devidamente fundamentada nos exatos termos do art. 312 do Código de Processo Penal, pois o Juízo de primeira instância, referendado pela Corte de origem, afirmou que o "paciente, embora primário, responde a ações penais pela suposta prática de crimes contra o patrimônio (furto e roubo)" (fl. 222).
+2. Anote-se que esta Corte, em inúmeros julgados, já se manifestou no sentido de que ações penais em curso, assim como maus antecedentes e condenações definitivas, denotam o risco de reiteração delitiva e constituem fundamentação idônea a justificar a segregação cautelar.
+3. Aplica-se o entendimento de que por "pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC 161.967/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 03/05/2022, DJe 06/05/2022; sem grifos no original).
+4. Ressalto, ainda, que nest a fase processual, não há como prever a quantidade de pena que eventualmente poderá ser imposta, caso seja condenado o Paciente, menos ainda se iniciará o cumprimento da reprimenda em regime diverso do fechado, de modo que não se torna possível avaliar a arguida desproporção da prisão cautelar imposta.
+5. Portanto, não há falar em ofensa ao princípio da homogeneidade, "pois não cabe a esta Corte Superior, em um exercício de futurologia, prever de antemão qual seria o possível quantum de aplicação da pena, uma vez que tal exame só poderá ser realizado pelo Juízo de primeiro grau, após cognição exauriente de fatos e provas do processo, a fim de definir, se for o caso, a pena e o regime a serem aplicados" (AgRg no HC 556.576/SP, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 10/03/2020, DJe 16/03/2020).
+6. Agravo regimental desprovido.
+(AgRg no HC n. 852.787/SC, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 20/10/2023.)
+Ressalto que a presença de condições pessoais favoráveis não impede a decretação da prisão preventiva.
+Além disso , o entendimento deste Superior Tribunal de Justiça é no sentido de ser inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para manutenção da ordem pública.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. FURTO MEDIANTE FRAUDE, ASSOCIAÇÃO CRIMINOSA E LAVAGEM DE CAPITAIS. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. MODUS OPERANDI. GARANTIA DA ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA.
+1. A gravidade concreta da conduta, cuja periculosidade é evidenciada na alta reprovabilidade do modus operandi empregado, é fundamento idôneo à decretação e manutenção da custódia preventiva, como garantia da ordem pública.
+2. " N ão há ilegalidade na decisão que decreta a prisão preventiva com base em elementos concretos aptos a revelar a real necessidade de se fazer cessar ou diminuir a atuação de suposto integrante de organização criminosa para assegurar a ordem pública" (STF, AgRg no HC n. 144.284, relator Ministro Edson Fachin, Segunda Turma, DJe de 27/8/2018.)
+3. Se presentes os requisitos ensejadores da custódia preventiva, condições pessoais favoráveis - como primariedade, bons antecedentes, ocupação lícita e residência fixa - não são aptas a desconstitui-la.
+4. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+5. Agravo regimental desprovido.
+(AgRg no RHC n. 185.427/DF, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 30/11/2023.)
+Por fim, não é possível afirmar que a medida excepcional se mostra desproporcional em relação à eventual condenação que o recorrente venha sofrer no fim do processo, porquanto, em habeas corpus, é inviável concluir a quantidade de pena que poderá ser imposta, tampouco se lhe será fixado regime diverso do fechado.
+Confira-se:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. PRISÃO PREVENTIVA. GARANTIA DA FUTURA ASPLICAÇÃO DA LEI PENAL. RÉU QUE FORA BENEFICIADO COM A LIBERDADE PROVISÓRIA E DESCUMPRIU AS REGRAS ESTABELECIDAS. RÉU EVADIDO . REVELIA DECRETADA. RISCO CONCRETO DE REITERAÇÃO DELITIVA. HABITUABILIDADE CRIMINOSA. GARANTIA DA ORDEM PÚBLICA. AGRAVO DESPROVIDO.
+1.A prisão preventiva, nos termos do art. 312 do CPP, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria e de perigo gerado pelo estado de liberdade do imputado.
+2. No caso, o decreto preventivo encontra fundamento na necessidade de se garantir a aplicação da lei penal, na medida em que o agravante, beneficiado com a liberdade provisória, descumpriu as condições estabelecidas, o que ensejou a decretação da revelia e a imposição da medida constritiva de liberdade ora questionada, tendo permanecido foragido até o cumprimento da ordem de prisão. Nesse contexto, resta clara a presença de fundamentação cautelar idônea para a medida excepcional, considerando a necessidade de garantir a eventual aplicação da lei penal.
+3. Nos moldes do reconhecido pelas instâncias ordinárias, o réu ostenta diversas anotações em sua folha de antecedentes criminais, ainda que seja tecnicamente primário, não se tratando, pois, de fato isolado em sua vida, o que evidencia o risco concreto de reiteração delitiva e a necessidade de acautelar a ordem pública.
+4. O argumento de desproporcionalidade da custódia cautelar à provável futura pena do recorrente não comporta acolhimento, pois apenas a conclusão do processo será capaz de revelar se o acusado será beneficiado com a fixação de regime prisional diverso do fechado, sendo inviável tal discussão neste momento preliminar.
+Sobre o tema: RHC 87.629/MG, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 03/10/2017, DJe 11/10/2017; HC 409.594/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 3/10/2017, DJe 9/10/2017).
+5. Agravo regimental desprovido.
+(AgRg no RHC n. 187.575/MG, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 1/12/2023.)
+Nesse contexto, não verifico a presença de constrangimento ilegal capaz de justificar a revogação da custódia cautelar do recorrente.
+Ante o exposto, com fundamento no art. 34, XX, c/c o art. 202 c/c o art. 246, do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
