@@ -1,0 +1,47 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por MERCABENCO MERCANTIL E ADMINISTRADORA DE BENS E CONSÓRCIOS LTDA., contra decisão interlocutória que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 21/06/2023.
+Concluso ao gabinete em: 15/02/2024.
+Ação: monitória, ajuizada pela agravante, em face de R&A TRANSPORTES E TURISMO LTDA., WANDA MAZZAFIORI CARVALHO e ANDRÉ MAZZAFIORI CARVALHO.
+Sentença: julgou improcedentes os embargos monitórios dos agravados e os condenou ao pagamento do débito no valor de R$ 276.444,12 (duzentos e setenta e seis mil, quatrocentos e quarenta e quatro reais e doze centavos).
+Acórdão: deu parcial provimento à apelação interposta pelos agravados, apenas para julgar extinto o pedido monitório do Contrato do Grupo 011106 - Cota 0135, em relação ao corréu ANDRÉ, em razão da sua ilegitimidade passiva, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. Ação monitória lastreada em contratos de consórcio. Sentença que rejeitou os embargos do devedor. Inconformismo.
+Cerceamento de defesa. Inocorrência. Matéria discutida eminentemente de direito ou de prova documental. Prescindibilidade de prova pericial ou testemunhal. Princípio do convencimento motivado ou da persuasão racional (Art. 370 e 371, do CPC). Possibilidade de indeferimento de provas quando presente condição suficiente a embasar o deslinde da causa.
+Ilegitimidade passiva. Corréu André que não participou do contrato do Grupo 011106 Cota 0 135, seja como devedor, como avalista ou fiador. Matéria de ordem pública cognoscível a qualquer momento e grau de jurisdição. Extinção da demanda em relação a tal pedido, em face deste corréu, que se impõe (Art. 485, IV e VI, do CPC).
+Contratos de consórcio. Inadimplemento. Requeridos que confessaram a contratação, bem como o inadimplemento (Art. 389 e 390 do CPC). Exceção do contrato não cumprido. Não configuração. Obrigação da fornecedora devidamente cumprida. Adesão ao grupo de consórcio, pelos réus, que criou vínculos obrigacionais de pagamento com a administradora do consórcio. Inteligência do Art. 10, da Lei 11.795/2008.
+RECURSO PARCIALMENTE PROVIDO.
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 336, 338, 339, 342, 485, IV e VI, 489, §1º, IV, 492, 1.013, 1.014 e 1.022, I e II, do CPC.
+Afirma que o Tribunal de origem não teria se manifestado acerca das questões relativas: à inovação recursal e ausência de impugnação quanto à legitimidade, a qual não poderia ser apreciada; à impossibilidade de se reconhecer a ilegitimidade passiva de André, que continuaria no polo passivo, pois teria assinado dois dos três contratos; à necessária concessão de oportunidade de emendar o pedido; à sucumbência do agravado, por não ter aduzido a ilegitimidade em preliminar; à preclusão do excesso de execução; e à redução dos honorários sucumbenciais.
+Sustenta que não poderia ter sido reconhecida a ilegitimidade passiva do agravado André, pois esse fato não teria sido alegado na primeira instância, em embargos monitórios, o que possibilitaria a alteração da composição do saldo devedor, a questão relativa ao excesso de cobrança decorrente da falta de assinatura de um dos contratos estaria preclusa e André continuaria no polo passivo da demanda com relação a dois dos três contratos discutidos. Assim, defende que o agravado deveria arcar com os ônus sucumbenciais, ou estes deveriam ser reduzidos.
+É O RELATÓRIO. DECIDO.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca dos argumentos relativos à impossibilidade de se reconhecer a ilegitimidade passiva do corréu André e da alegação de inovação recursal quanto ao ponto, consignando a matéria seria de ordem pública e que apenas o pedido relativo ao Contrato do Grupo 011106 - Cota 0135 seria extinto em relação ao mencionado corréu, com a consequente condenação da agravante ao pagamento dos honorários sucumbenciais, fixados em 10% sobre o valor do saldo devedor da Cota 0135 (e-STJ fls. 419/422), de maneira que os embargos de declaração opostos pelo agravante de fato não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. 492 e 1.013, do CPC, apesar da interposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+Ressalto, por oportuno, que referidos artigos foram mencionados pela primeira vez no recurso especial, caracterizando verdadeira inovação das teses de defesa, de modo que não era dado ao TJ/SP analisar a controvérsia tendo em vista tais normas.
+Nesse sentido: AgInt nos EDcl no AREsp n. 1.645.494/DF, 4ª Turma, DJe de 26/8/2022; REsp n. 1.996.197/SP, 3ª Turma, DJe de 12/8/2022; AgInt no AREsp n. 2.040.404/SC, 3ª Turma, DJe de 10/8/2022; EDcl no REsp n. 1.800.265/MS, 3ª Turma, DJe de 24/6/2022.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à conclusão acerca da ilegitimidade do corréu em relação ao "Contrato do Grupo 011106 - Cota 0135" e a consequente condenação da agravante ao pagamento dos respectivos honorários, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da Súmula 568/STJ
+As duas Turmas de Direito Privado do STJ entendem que "as questões de ordem pública, a exemplo da legitimidade de parte para figurar em um dos polos da relação processual, não estão sujeitas à preclusão e podem ser apreciadas a qualquer tempo, inclusive de ofício, desde que não tenham sido decididas anteriormente" (REsp n. 1.973.783/SP, 3ª Turma, DJe de 8/4/2022).
+Ainda nesse sentido: AgInt no REsp n. 1.744.053/AL, 4ª Turma; AgInt nos EDcl no AREsp n. 1.665.187/RJ, 4ª Turma, DJe de 30/11/2021.
+Na hipótese, o Tribunal de origem, ao entender pela ilegitimidade passiva do corréu André, com a consequente extinção do pedido monitório relativo ao "Contrato do Grupo 011106 - Cota 0135", consignou que, por tratar-se de matéria de ordem pública, a ilegitimidade poderia ser cognoscível a qualquer tempo e grau de jurisdição (e-STJ, fls. 419/422), em consonância com o entendimento dominante sobre o tema nesta Corte.
+Aplica-se, portanto, a Súmula 568/STJ no particular.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor do saldo devedor da Cota 0135 (e-STJ, fls. 422) para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação monitória.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. As questões de ordem pública, a exemplo da legitimidade de parte para figurar em um dos polos da relação processual, não estão sujeitas à preclusão e podem ser apreciadas a qualquer tempo, inclusive de ofício, desde que não tenham sido decididas anteriormente. Precedentes. Ante o entendimento dominante do tema nesta Corte Superior, aplica-se, no particular, a Súmula 568/STJ.
+7. Agravo em recurso especial conhecido. Recurso especial parcialmente conhecido e, nesta parte, não provido, com majoração de honorários.
