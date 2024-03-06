@@ -1,0 +1,17 @@
+DECISÃO
+Em análise, conflito negativo de competência suscitado pelo JUIZ DA VARA DO TRABALHO DE SENHOR DO BONFIM - BA em face do JUIZ DE DIREITO DA 2A VARA DOS FEITOS RELATIVOS ÀS RELAÇÕES DE CONSUMO CÍVEIS, COMERCIAIS, CONSUMIDOR E FAZENDA PÚBLICA DE SENHOR DO BONFIM - BA, nos autos da ação de cobrança de valores oriundos da prestação de serviço de transporte, bem como a reparação por danos morais e materiais, ajuizada por BERTULINO BORGES DOS SANTOS contra o MUNICÍPIO DE ANDORINHA - BA.
+Inicialmente, a ação foi proposta perante na Justiça Comum estadual, tendo o referido juízo declinado de sua competência por entender que a causa de pedir e o pedido se sustentam em uma relação trabalhista regida pela CLT, determinando, assim, a remessa dos autos à Vara do Trabalho de Senhor do Bonfim - BA .
+O Juiz da Vara do Trabalho de Senhor do Bonfim - BA, ao suscitar o conflito, alegou que "relação existente entre as partes de natureza eminentemente cível, motivo pelo qual este Magistrado entende, data vênia, que a competência para instruir e julgar o presente processo é da Justiça Comum Estadual".
+O Ministério Público Federal, em seu parecer, opinou pela declaração de competência da Justiça do Trabalho, o suscitante.
+É o breve relatório. Decido.
+Com fundamento na orientação contida na Súmula 568/STJ, estou em proceder ao julgamento monocrático do presente conflito, tendo em vista a existência de precedentes acerca da questão ora discutida e a necessidade de desbastarem-se as pautas já bastante numerosas da Colenda 1ª Seção.
+A questão central diz respeito à definição do juízo competente para processar e julgar ação ordinária objetivando o pagamento valores oriundos da prestação de serviço de transporte, bem como a reparação por danos morais e materiais, ajuizada perante a Justiça comum.
+No caso em exame, depreende-se dos documentos acostados aos autos que o pleito do requerente diz respeito à cobrança de valores inadimplidos pela prestação de serviços de transporte escolar ou de saúde, além de danos morais, não havendo discussão a respeito de verbas trabalhistas, o que atrai, a toda evidência, a competência da Justiça estadual. Destarte, a competência para julgamento da demanda é do Juízo Suscitado.
+Este Superior Tribunal de Justiça vem se pronunciando conforme as seguintes decisões monocráticas: CC 197.811, Ministro Herman Benjamin, DJe de 27/06/2023; CC 197.739, Ministro Mauro Campbell Marques, DJe de 21/06/2023; e CC 196.720, Ministro Paulo Sérgio Domingues, DJe de 26/05/2023.
+Isso posto, com fulcro no art. 34, XXII, do RISTJ, ACOLHO O CONFLITO DE COMPETÊNCIA e declaro competente para apreciar e julgar a demanda em questão o JUÍZ DE DIREITO DA 2ª VARA DOS FEITOS RELATIVOS AS RELAÇÕES DE CONSUMO, CÍVEIS, COMERCIAIS, CONSUMIDOR E FAZENDA PÚBLICA DE SENHOR DO BONFIM - BA, o suscitado.
+Nos termos do art. 64, §4º, do Código de Processo Civil, as decisões proferidas pelo Juízo incompetente devem ser preservadas até que outra seja proferida, se for o caso, pelo juízo competente.
+Comunique-se o juízo suscitante acerca da presente decisão.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZO COMUM ESTADUAL E JUÍZO TRABALHISTA. PAGAMENTO DE FGTS. AÇÃO DE COBRANÇA. VÍCNULO CELETISTA. CONTRATAÇÃO ANTERIOR À CF/88. TEMA 853/STF. SISTEMÁTICA DA REPERCUSSÃO GERAL. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. PRECEDENTE. CORTE ESPECIAL DO STJ.
+CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO DA VARA DO TRABALHO DE SENHOR DO BONFIM - BA, O SUSCITANTE.
