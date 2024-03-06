@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de decisão que indeferiu a liminar no writ de origem.
+Consta dos autos que o paciente cumpre pena e pleiteou a concessão de livramento condicional, o qual ainda não foi apreciado pelo Juízo de Execução, razão pela qual a defesa impetrou o mandamus na origem, que teve o seu pedido liminar indeferido.
+Sustenta o impetrante, em síntese, o excesso de prazo para a apreciação do pedido formulado na origem, pois, "desde após a juntada do pedido de livramento Condicional os autos não tiveram nenhum andamento referente ao julgamento, e como forma de fazer com que o pedido tivesse andamento a Defesa protocolizou no dia 18/07/2023, 14/09/2023, 30/10/2023, 17/11/2023, 07/12/2023,14/12/2023, 19/12/2023, 29/01/2024 e 19/02/2024 manifestações requerendo os andamentos dos autos, porém até a presente data os autos não tiveram nenhum andamento." (fl. 5).
+Requer, liminarmente e no mérito, que seja determinada a "apreciação do pedido de Livramento Condicional que já perdura 08 (oito) meses sem a respectiva decisão judicial, assim culminando por excesso de execução perante período de cumprimento superior ao necessário em regime fechado, além da alteração da inobservância do pedido de Livramento Condicional." (fl. 7).
+Nos termos da Súmula 691 do Supremo Tribunal Federal, em regra, não se admite a impetração de habeas corpus contra decisão que indefere a liminar na origem, sob pena de indevida supressão de instância, ressalvadas as hipóteses em que evidenciada decisão teratológica ou desprovida de fundamentação.
+A decisão liminar foi assim fundamentada (fls. 20-21):
+ .. . Indefere-se a medida liminar.
+A antecipação do pleito de urgência demanda a constatação inequívoca e de plano do constrangimento ilegal aventado, o que não se vislumbra na hipótese, ao menos em uma análise perfunctória da impetração e da documentação apresentada.
+Como cediço, a ocorrência de excesso de prazo demanda a notícia de patente desídia ou negligência pelo Poder Judiciário, o que não pode ser averiguado, ao menos em um juízo de cognição sumária, mesmo porque os prazos processuais não são somados de forma absoluta e aritmética, de sorte que a questão há que ser analisada à luz dos critérios da razoabilidade e proporcionalidade. Além disso, a análise detida do quanto alegado clama a vinda de informações do eminente Magistrado acoimado coator, para se saber se razoável ou não o curso do feito.
+Nada obstante, as questões deduzidas serão sopesadas com maior alcance no momento oportuno, até porque a natureza satisfativa do pedido impõe a resolução da controvérsia pelo colegiado, juízo natural da causa, no julgamento de mérito do remédio constitucional. .. .
+Com efeito, aos prazos consignados na lei processual deve-se atentar o julgador às peculiaridades de cada ação criminal. É uníssona a jurisprudência no sentido de que a ilegalidade da prisão por excesso de prazo só pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência indevida coação.
+Na hipótese, ao menos em cognição sumária, não se detecta manifesta ilegalidade apta a ensejar o deferimento da medida de urgência, pois se faz necessário o exame circunstancial do prazo de duração do processo.
+Assim, tendo em vista o exposto na decisão que indeferiu o pedido de liminar, não se verifica manifesta ilegalidade apta a autorizar a mitigação da Súmula 691/STF, cabendo ao Tribunal de origem a análise da matéria meritória.
+Além disso, mister destacar que o revolvimento dessa questão certamente acarretaria a indevida supressão de instância, pois será alvo de exame oportuno na Corte de Justiça indicada como coatora, quando do julgamento do seu mérito.
+Ante o exposto, não conheço do habeas corpus, com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
+Intimem-se.
+EMENTA
