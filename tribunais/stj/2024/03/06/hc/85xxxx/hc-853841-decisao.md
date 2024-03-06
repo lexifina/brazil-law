@@ -1,0 +1,28 @@
+DECISÃO
+CLEYSON DIOGO DE LARA MACHADO alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná no HC n. 0053297-95.2023.8.16.0000.
+A defesa busca a revogação da prisão preventiva do paciente, com a imposição de medidas cautelares alternativas, porquanto não estariam presentes os requisitos necessários para a decretação da medida extrema.
+Deferida a liminar e prestadas as informações, o Ministério Público Federal opinou pela concessão da ordem.
+Decido.
+Infere-se dos autos que o paciente foi preso em flagrante, em 9/8/2023, pela suposta prática do delito de tráfico ilícito de entorpecentes, pois trazia consigo 83 g de maconha e "R$ 35,00 (trinta e cinco reais) em notas diversas, característico do tráfico" (fl. 27).
+O Magistrado de origem homologou o flagrante e converteu a prisão em preventiva, por meio de decisão assim fundamentada (fls. 13-15, destaquei):
+O periculum libertatis exigido pelo art. 312 do Código de Processo Penal, por seu turno, também se afigura presente, mormente para a garantia da ordem pública, haja vista os reflexos devastadores que o tráfico de substância entorpecente tem provocado na sociedade guarapuavana.
+Ademais, necessário apurar qual o grau de envolvimento do autuado com a comercialização de drogas, isto é, se o caso é de pequeno e ocasional traficante ou de pessoa que movimenta significativa quantidade de substância entorpecente, ante o relato policial de que o autuado estaria realizando a entrega de substância entorpecentes, e tendo em vista as substâncias apreendidas com o autuado, totalizando 0,83 gramas de maconha.
+Outrossim, imperiosa a prisão cautelar para pública, eis que o autuado registra garantia da ordem inquérito policial em andamento pela suposta prática do delito de tráfico de drogas, ocasião em que apreendido em sua residência 1.840 Kg de maconha e dois cogumelos, conforme autos n.º 0007723- 87.2022.8.16.0031.
+De sorte que todos esses dados concretos demandam a decretação da prisão cautelar do autuado, especialmente para a garantia da ordem pública.
+Saliente-se, para a manutenção da custódia preventiva deve-se levar em consideração o princípio in dubio pro societate (nesse sentido: STF, RTJ 64/77), garantindo que, pelo menos até a prolação da sentença, não seja o autuado autor de novos delitos.
+Cumpre anotar que não se vislumbra, por ora, que a aplicação das medidas cautelares do art. 319 do CPP seriam suficientes para resguardar a sociedade da conduta desregrada do autuado.
+Dessa forma, DECRETO A PRISÃO PREVENTIVA do autuado CLEYSON DIOGO DE LARA, devidamente qualificado nos autos, o que faço com fundamento no art. 312 c.c art. 313 do MACHADO Código de Processo Penal.
+O Tribunal a quo ratificou o decisum supra.
+A jurisprudência desta Corte Superior é firme em assinalar que "a custódia imposta antes do trânsito em julgado de sentença penal condenatória exige concreta fundamentação, nos termos do disposto no artigo 312 do Código de Processo Penal" (RHC n. 47.588/PB, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/8/2014).
+Na espécie, verifico que o Magistrado singular embasou sua decisão em elementos concretos e idôneos - agente que responde a outra ação penal pelo mesmo delito. Todavia, entendo que esse fundamento não se mostra bastante, em juízo de proporcionalidade, para manter o paciente sob o rigor da cautela pessoal mais extremada, sobretudo porque ínfima a quantidade de entorpecente apreendido - 83 g de maconha.
+Assim, as circunstâncias apresentadas, por si só, não poderiam ensejar a imposição da prisão preventiva, se outras medidas menos invasivas se mostram suficientes e idôneas para os fins cautelares, especialmente para o objetivo de evitar a prática de novas infrações penais (art. 282, I, CPP).
+Considerando, assim, que o delito não envolveu violência ou grave ameaça contra pessoa e avaliando as circunstâncias em que perpetrado o suposto crime em questão, entendo configurados os requisitos que justificam a concessão da ordem.
+Apesar da reprovabilidade social do comportamento atribuído ao paciente - a ensejar-lhe, se demonstrada a imputação, correspondente e proporcional sanção penal -, considero ser suficiente e adequada, na hipótese, a substituição da prisão preventiva por outras medidas cautelares a ela alternativas.
+É plenamente possível que, embora presentes os motivos ou os requisitos que tornariam cabível a prisão preventiva, o juiz - à luz do princípio da proporcionalidade e das novas alternativas fornecidas pela Lei n. 12.403/2011 - considere a opção por uma ou mais das medidas indicadas no art. 319 do Código de Processo Penal o meio suficiente e adequado para obter o mesmo resultado - a proteção do bem jurídico sob ameaça - de forma menos gravosa.
+À vista do exposto, concedo a ordem de habeas corpus, confirmada a liminar anteriormente deferida, para, à luz das peculiaridades do caso concreto, substituir a prisão preventiva do acusado pelas seguintes medidas cautelares:
+a) comparecimento periódico em juízo, sempre que for intimado para os atos do processo e no prazo e nas condições a serem fixados pelo Juiz, a fim de informar seu endereço (que deverá ser informado também ao ser solto) e justificar suas atividades;
+b) proibição de ausentar-se da Comarca, quando a permanência seja conveniente ou necessária para a investigação ou instrução;
+c) monitoração eletrônica.
+Alerte-se ao paciente que a violação das medidas cautelares importará o restabelecimento da prisão preventiva, que poderá ser novamente aplicada se sobrevier situação que configure a exigência da cautelar mais gravosa.
+Publique-se e intimem-se.
+EMENTA
