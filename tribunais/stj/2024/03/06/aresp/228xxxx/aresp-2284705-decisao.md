@@ -1,0 +1,29 @@
+DECISÃO
+Em análise, Agravo em Recurso Especial interposto por GIRAFA COMÉRCIO ELETRÔNICO LTDA contra decisão que inadmitiu recurso especial com fundamento na ausência de omissão na decisão recorrida, bem como resolução da controvérsia com base em fundamento constitucional.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Recurso especial fundado no art. 105, III, a, da Constituição Federal.
+É o relatório. Decido.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Inicialmente, afasto a alegada ofensa aos arts 489 e 1.022 do CPC, uma vez que não verificada omissão, obscuridade, contradição ou erro material no acórdão recorrido, que analisou devidamente as peculiaridades do caso com a exposição dos motivos que levaram ao seu resultado, de forma unânime.
+Quanto ao mais, o recurso não reúne condições de admissibilidade.
+O Tribunal de origem, no que tange à matéria versada nos autos, assim se manifestou:
+In casu, a matéria em apreciação foi julgada perante o Supremo Tribunal Federal, que reconheceu a repercussão geral no RE nº 970.821, onde foi firmada a tese da inconstitucionalidade da cobrança do ICMS, DIFAL e por antecipação, das optantes pelo simples nacional. Ocorre que o exc. STF modulou os efeitos da decisão para que operassem apenas a partir do exercício de 2022 para as cláusulas 1ª a 3ª e 6ª, tendo o STF estabelecido que "ficam ressalvadas da proposta de modulação as ações judiciais em curso". ..  Logo, conforme bem asseverado na sentença recorrida: Deste modo, embora a Execução Fiscal tenha sido ajuizada em 30/04/2019, somente em 24/06/2021 a então Excipiente apresentou defesa, assim, aplica-se a tese acima, autorização à cobrança dos créditos tributários oriundos do DIFAL até o final do exercício financeiro de 2021, em razão da decisão do STF em 24/02/2021, com ata de julgamento publicada em 03/03/2021.
+Por sua vez, a parte recorrente sustenta, em suas razões recursais, que o acórdão combatido violou o art. 927, I e III, do Código de Processo Civil, sob o fundamento de que o Tribunal de origem interpretou "os critérios de modulação de efeitos do julgamento do Tema 1093 e da ADI 5469 de forma contrária àquela definida pelo STF na ocasião".
+Verifica-se, no entanto, a partir da leitura do acórdão impugnado, que a Corte de origem decidiu a controvérsia dos autos com base em fundamentos eminentemente constitucionais. Desse modo, considerando a estrutura organizacional estabelecida pela Constituição Federal, especificamente quanto à repartição de competências entre os órgãos do Poder Judiciário, não compete ao Superior Tribunal de Justiça analisar, no particular, o acerto ou desacerto da aplicação da modulação de efeitos de tese firmada sob o regime de repercussão geral , cuja competência é do Supremo Tribunal Federal. Inviável, assim, o conhecimento do recurso especial, sob pena de usurpação de competência do STF.
+Nessa senda, precedentes da Casa:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. MANDADO DE SEGURANÇA. TESE DE INCONSTITUCIONALIDADE. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. COBRANÇA DE DIFAL-ICMS. ANÁLISE DE MATÉRIA CONSTITUCIONAL (INCONSTITUCIONALIDADE DO CONVENIO CONFAZ ICMS 93/2015). IRRESIGNAÇÃO CONTRA LEI EM TESE. SÚMULA 430/STF. REEXAME PROBATÓRIO VEDADO. SÚMULA 7/STJ.
+1. Trata-se de Agravo Interno contra decisão que não conheceu do Agravo em Recurso Especial.
+2. O Recurso Especial não foi admitido. Houve a compreensão de que, com a decadência decretada do prazo de 120 dias (por entender que se tratava de Mandado de Segurança contra lei em tese - inconstitucionalidade de lei estadual -, e não de Mandado de Segurança preventivo como requerido), estava-se em consonância com a jurisprudência do Superior Tribunal de Justiça. Assim, não foi apreciada pelo acórdão a questão referente ao Tema 1.093/STF pelo acolhimento da preliminar de decadência.
+3. Não se desconhece o entendimento do STF firmado em repercussão geral, Tema 1.093, no sentido de que "A cobrança do diferencial de alíquota alusivo ao ICMS, conforme introduzido pela Emenda Constitucional nº 87/2015, pressupõe edição de lei complementar veiculando normas gerais", porém "não cabe a esta Corte emitir juízo a respeito dos limites do que foi julgado no precedente em repercussão geral do Supremo Tribunal Federal, colocando novas balizas em tema de ordem Constitucional" (AgInt no AREsp 1.519.714/SC, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 24.9.2019).
+4. Agravo Interno não provido.
+(AgInt no AREsp n. 2.286.214/AP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/9/2023, DJe de 21/9/2023.)
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ICMS. DIFAL. ANTERIORIDADE. MATÉRIA DECIDIDA À LUZ DE FUNDAMENTOS CONSTITUCIONAIS. COMPETÊNCIA DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Ainda que apontado como violado dispositivo de lei federal, é inviável o exame da controvérsia por este Tribunal Superior quando solucionada, na Corte local, sob a ótica de fundamento constitucional.
+2. Verifica-se da leitura do aresto combatido que a Corte local decidiu a questão da anterioridade à luz da interpretação da Emenda Constitucional n. 87/2015 e do entendimento do STF no julgamento do Tema n. 1.093 e da ADI n. 5.469/DF (e-STJ fls. 201/211).
+3. Assim, considerando que a tese recursal diz respeito à matéria analisada na origem à luz de fundamento constitucional, o conhecimento da matéria envolve, obrigatoriamente, o enfrentamento de matéria constitucional, inviável em recurso especial, sob pena de usurpação da competência do STF prevista no art. 102 da CRFB/88.
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.075.943/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/8/2023, DJe de 1/9/2023.)
+Isso posto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+Intimem-se.
+EMENTA
