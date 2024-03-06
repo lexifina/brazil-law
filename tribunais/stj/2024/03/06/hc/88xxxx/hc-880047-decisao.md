@@ -1,0 +1,18 @@
+DECISÃO
+EVERTON VINICIUS PULI alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina (Apelação Criminal n. 5036197-48.2023.8.24.0023).
+Consta dos autos que o paciente foi condenado à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, mais multa, pela prática do crime de tráfico de drogas.
+A defesa pleiteia, em síntese, a concessão da ordem, para reduzir "a pena-base imposta ao Paciente ao mínimo legal, afastando a exasperação pela quantidade e natureza de drogas" (fl. 8).
+Não houve pedido de liminar.
+O Ministério Público Federal manifestou-se pela concessão da ordem.
+Decido.
+No que tange à pretendida redução da pena-base, cumpre salientar que a fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal. Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto e, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal, as quais não se deve furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+No caso, as instâncias de origem consideraram devida a fixação da pena-base acima do mínimo legal (em 5 anos e 10 meses de reclusão), sob o argumento de que "foram apreendidos 9,6 g (nove gramas e seis decigramas) de cocaína em 25 (vinte e cinco) porções. Diante disso, em razão da natureza, pelo alto poder lesivo da cocaína, a pena-base também merece maior reprimenda" (fl. 211).
+Certo é que, segundo o disposto no art. 42 da Lei n. 11.343/2006, "O Juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+No entanto, embora a natureza da droga apreendida constitua, de fato, circunstância preponderante a ser sopesada na dosimetria da pena, e não obstante a cocaína seja, realmente, dotada de alto poder viciante, considero que a quantidade de substâncias apreendidas em poder do paciente - aproximadamente 9,6 gramas de crack - foi muito pequena, de maneira que se mostra manifestamente desproporcional sopesar, no caso ora analisado, apenas tal circunstância para justificar a exasperação da pena-base.
+Entendo, na verdade, que a apreensão de certa quantidade de drogas, em contexto como o dos autos, é inerente ao próprio crime previsto no art. 33, caput, da Lei n. 11.343/2006, motivo pelo qual deve a ordem ser concedida, a fim de reduzir a pena-base do réu para o mínimo legal.
+Assim, observada a dosimetria feita pelas instâncias de origem, fica a sanção do paciente definitivamente estabelecida em 5 anos de reclusão e pagamento de 500 dias-multa.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem, a fim de reduzir a pena-base do paciente para o mínimo legalmente previsto e, por conseguinte, tornar a sua reprimenda definitiva em 5 anos de reclusão e pagamento de 500 dias-multa, nos autos da condenação objeto do Processo n. 5036197-48.2023.8.24.0023.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+EMENTA
