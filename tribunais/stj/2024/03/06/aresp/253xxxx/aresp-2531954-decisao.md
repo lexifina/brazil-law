@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de agravo apresentado por CARLOS REIS CHAVES contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL - PRETENSÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO C/C REPETIÇÃO E DANOS MORAIS - PROCURAÇÃO CONSTITUÍDA POR MEIO DE CAPTAÇÃO DE CLIENTES - AUSÊNCIA DE PODERES VALIDAMENTE CONFERIDOS AO PROCURADOR - EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO - CONDENAÇÃO DO PROCURADOR NOS ÔNUS DA SUCUMBÊNCIA - CABIMENTO. - Demostrado nos autos que a procuração que outorgou poderes ao advogado foi constituída por meio de captação de clientes, de forma irregular e a partir de conduta proibida pelo Estatuo da OAB, falece ao Advogado a regular outorga de poderes para o ajuizamento da ação, imperando o indeferimento da inicial por ausência de pressuposto processual válido é medida que se impõe. - Com base no princípio da causalidade, o advogado da parte autora deve ser condenado ao pagamento das custas processuais e dos honorários advocatícios quando ficar caracterizado o vício de representação.
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, a parte recorrente alega dissídio jurisprudencial e violação do art. 5º, XXXV, da CF/88, no que concerne ao direito de acesso à justiça, trazendo a seguinte argumentação:
+A decisão é totalmente discrepante do que insculpe o Art. 5º, XXXV da Constituição Federal em, já que nem o Juiz Aquo quanto o Juizo Ad Aquem averiguaram junto aos documentos acostados e em exame da audiência, a vontade da Parte em ter o acessar a justiça respeitado, este devidamente representado por seu patrono.
+Assim como também demonstrado em Embargos de Declaração, existe a indignação da parte Recorrente em ter seu direito e o devido acesso atrapalhado, questiona-se, qual o é o peso de uma audiência de retratação e de toda documentação juntada nos autos.
+ ..
+No caso em questão, não foi considerado a vontade da Parte Recorrente, e por isso é uma afronta o princípio Constitucional de acesso a justiça (fls. 306/308).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, é incabível o recurso especial quando visa discutir violação ou interpretação divergente de norma constitucional porque, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020.)
+Confiram-se ainda os seguintes julgados: EDcl no REsp 1.435.837/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/10/2019; EDcl no REsp 1.656.322/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13/12/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
