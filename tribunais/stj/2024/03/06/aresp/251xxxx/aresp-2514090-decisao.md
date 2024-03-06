@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de agravo apresentado por WELTON JOSE MENDES MOREIRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim resumido:
+APELAÇÃO CRIMINAL - RECURSO DEFENSIVO - ART. 302, CAPUT, DO CTB - PLEITO ABSOLUTÓRIO - NÃO ACOLHIMENTO - NEGLIGÊNCIA CONSTATADA - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Quanto à controvérsia recursal, alega violação dos arts. 381 do CPP; e 93, IX, da CF/88, no que concerne à necessidade de reconhecimento de nulidade do acórdão pela omissão em analisar todas as teses de defesa arguidas em apelação, trazendo a seguinte argumentação:
+3.1. Da Omissão do Acordão em Não Analisar Todas as Teses Defensivas.
+Em Recurso de Apelação, o recorrente, apresentou e demonstrou atraves de provas documentais e testemunhais, algumas teses de defesa, a quais sejam:
+3.1.1. Da Comprovada Falta de Sinalização da Via - Provas Testemunhais Nesse Sentido - Desvaloração das Testemunhas de Defesa.
+O recorrente demonstrou atraves de testemunhas, em especial o do juizo que no momento em que houve o acidente, o local sem encontrava desprovido de sinalização, a qual indicasse trecho em obras e via funcionando no sistema "Pare e Siga", vejamos:
+ ..
+As provas testemunhas, foram unisonas, no sentido de informar que no local e momento do acidente, não havia nenhuma sinalização, indicando que o trecho estava em obras.
+No entanto o juizo em sentença e posteriomente em acordão deixaram de observar tais testemunhos, valorando somente os testemunhos dos PRF"s, não justificando em nada os motivos da não valoração.
+ ..
+3.1.2. DA ALEGAÇÃO DE CONTAMINAÇÃO DAS PROVAS - EXTRAVIO DE DOCUMENTOS PROBANTES.
+ ..
+Note-se assim a contaminação das provas por parte dos policiais, haja vista, a movimentação do veículo, tira a precisão da pericia em apontar a real velocidade, além disso o disco de tacografo, a qual os policiais alegaram ter retirado, foi informado pelos peritos que não havia, ou seja, foi extraviado, e tal era de suma importancia, no sentido de comprovar a real velocidade do veículo.
+Assim sendo, mesmo arguido tais teses pelo recorrente, o Acordão foi totalmente omisso quando a isto, ensejando assim a sua nulidade
+ ..
+4. DA NULIDADE DO ACORDÃO POR NÃO ANALISAR TODAS AS TESES DE DEFESA ARGUIDAS EM RECURSO DE APELAÇÃO.
+Como consta nos autos e demonstrado nesta peça, foram arguidas teses de defesa em favor do recorrente, no entanto tais teses, não foram objeto de analise e fundamentação pelo juizo.
+Tal falta de fundamentação viola, o que dispõem o art. 381 do CPP e de igual modo o art. 93, inciso IX da Constituição Federal de 1988, pois vejamos:
+ ..
+Assim de acordo aos dispositivos legais acima apresentados em especial a CF/88, tem-se que todas as decisões devem ser fundamentadas, sob pena de nulidade.
+Desta forma como ficou demonstrado, o Acordão foi omisso em sua fundamentação quanto as teses defensivas apresentadas pelo recorrente, fazendo assim juz a sua nulidade.
+ ..
+De acordo ao apresentado, temos que o Acordão aqui combatido deve ser anulado, isto por não observar o dever de analise e fundamentação de todas as teses defensivas, a qual restou demonstrado não fez (fls. 471/474).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia recursal, no que concerne ao art. 381 do CPP, incide o óbice da Súmula n. 284/STF, uma vez que não há a indicação clara e precisa do dispositivo de lei federal tido por violado, pois nas razões do recurso especial não se particularizou o inciso, o parágrafo ou a alínea sobre o qual recairia a referida ofensa, incidindo, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ressalte-se, por oportuno, que essa indicação genérica do artigo de lei que teria sido contrariado induz à compreensão de que a violação alegada é somente de seu caput, que, no caso, traz em seu texto uma mera introdução ao regramento legal contido nos incisos, nos parágrafos ou nas alíneas.
+Nesse sentido: "Quanto à segunda controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que não há a indicação clara e precisa do dispositivo de lei federal tido por violado, pois, nas razões do recurso especial, não se particularizou o parágrafo/inciso/alínea sobre o qual recairia a referida ofensa, incidindo, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" (AgInt no AREsp n. 1.558.460/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 11/3/2020.)
+De igual sorte: "A ausência de particularização dos incisos do artigo supostamente violado, inviabilizam a compreensão da irresignação recursal, em face da deficiência da fundamentação do apelo raro" (AgRg no AREsp n. 522.621/PR, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 12/12/2014.)
+Confiram-se também os seguintes julgados: AgInt no AREsp n. 1.229.292/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 4/9/2018; AgInt no AgRg no AREsp n. 801.901/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 1º/12/2017; AgInt nos EDcl no AREsp n. 875.399/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 1º/8/2017; AgInt no REsp n. 1.679.614/PE, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 18/9/2017; e AgRg no REsp n. 695.304/RJ, relator Ministro Francisco Falcão, Primeira Turma, DJ de 5/9/2005; EDcl no AgRg no AREsp n. 1.962.212/PA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 15/2/2022.
+No que concerne ao art. art. 93, IX, da CF/88, é incabível o recurso especial quando visa discutir violação ou interpretação divergente de norma constitucional porque, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020.)
+Confiram-se ainda os seguintes julgados: EDcl no REsp 1.435.837/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/10/2019; EDcl no REsp 1.656.322/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13/12/2019.
+Por fim, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que as questões não foram examinadas pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020; AgRg no AREsp n. 2.022.133/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
