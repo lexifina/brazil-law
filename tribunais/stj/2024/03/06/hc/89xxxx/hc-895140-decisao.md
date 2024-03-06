@@ -1,0 +1,15 @@
+DECISÃO
+WESLEY CELESTINO HONORATO DA SILVA alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul no Habeas Corpus n. 1402029-91.2024.8.12.0000 .
+A defesa requer, em liminar e no mérito, o relaxamento ou a revogação da prisão preventiva do paciente. Afirma que há excesso de prazo da segregação cautelar.
+Decido.
+Infere-se dos autos que o paciente está preso, desde 9/9/2023, em razão da suposta prática dos crimes descritos nos arts. 121, §2º, I, III e IV, 148, §2 e 211, todos do Código Penal, e art. 2º, §2º, da Lei n. 12.850/2013
+Sobre o alegado excesso de prazo, o Tribunal de origem assim decidiu (fl. 13):
+I. O excesso de prazo, em face do princípio da razoabilidade e proporcionalidade, não é visto pura e simplesmente em razão da extrapolação da somatória dos prazos previstos em lei.
+II- In casu, não caracterizado o constrangimento ilegal por excessode prazo na formação da culpa, pois demonstrado que inexiste desídia da autoridadecoatora na condução da marcha processual, mas de circunstâncias intrínsecas à própriainstrução probatória, uma vez que trata-se de feito complexo, o qual apura a prática doscrimes de homicídio qualificado pelo motivo torpe, com recurso que impossibilitou a defesa da vítima, praticado por grupo de extermínio, de sequestro e cárcere privado queresulta sofrimento físico, de ocultação de cadáver, e organização criminosa que atuacom arma de fogo, e ainda, trata-se de 11 réus, os quais encontram-se em locaisdistintos, e 9 testemunhas arroladas, justificando assim, prazos mais longos para a conclusão da instrução criminal.
+Os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+Quanto ao tema, é "uníssona é a jurisprudência no sentido de que a ilegalidade da prisão por excesso de prazo só pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência indevida coação" (AgRg no HC n. 711.679/SP, Rel. Ministro Olindo Menezes - Desembargador convocado do TRF 1ª Região, DJe 11/3/2022).
+Na hipótese, é possível verificar que o paciente está preso há 6 meses e que se trata de procedimento bifásico, com 11 acusados e 9 testemunhas, em que se apura a prática "dos crimes de homicídio qualificado pelo motivo torpe, com recurso que impossibilitou a defesa da vítima, praticado por grupo de extermínio, de sequestro e cárcere privado que resulta sofrimento físico, de ocultação de cadáver, e organização criminosa".
+Diante do exposto, não constato, por ora, ofensa aos princípios da razoabilidade e da proporcionalidade a fim de malferir o caráter de provisoriedade da prisão, porquanto razoável o lapso temporal decorrido, o que afasta a suposta alegação de incúria na prestação jurisdicional.
+Diante do exposto, denego a ordem, in limine.
+Publique-se e intimem-se.
+EMENTA
