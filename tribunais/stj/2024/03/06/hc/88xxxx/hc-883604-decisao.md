@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MAIK ALLEN VIANA apontando como autoridade coatora o Tribunal de Justiça do Estado do Espírito Santo (HC n. 5005662-55.2023.8.08.0000).
+Consta dos autos que o paciente foi pronunciado como incurso no art. 121, § 2º, I e IV, c/c art. 29, ambos do CP. Irresignada, a defesa impetrou prévio writ, o qual foi julgado nos termos da seguinte ementa (e-STJ fls. 130):
+HABEAS CORPUS. SENTENÇA DE PRONÚNCIA. INDÍCIOS DE AUTORIA. SUBSTITUTIVO DE RECURSO. IMPOSSIBILIDADE. PRECLUSÃO. HABEAS CORPUS NÃO CONHECIDO.
+1 - De acordo com a jurisprudência, o habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício (AgRg no HC 671.044/BA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 03/08/2021, DJe 10/08/2021). Ademais, a discussão acerca da existência de indícios de autoria e de prova da materialidade do delito demanda dilação probatória, situação incompatível com a estreita via do habeas corpus.
+2 - O STJ já se manifestou no sentido de que as nulidades da sentença de pronúncia devem ser arguidas no primeiro momento, sob pena de preclusão. Dessa forma, não interposto recurso em sentido estrito alegando a ausência de indícios suficientes de autoria, operou-se o fenômeno da preclusão (AgRg no RHC 84.791/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/06/2018, DJe 11/06/2018).
+3- Habeas Corpus não conhecido.
+No presente mandamus, a defesa aduz, em síntese, que o réu deve ser impronunciado, em observância ao princípio in dubio pro societate, posto que a decisão de pronúncia se baseou em testemunhos indiretos e depoimentos de policiais que participaram da investigação.
+Discorre sobre a prova testemunhal produzida nos autos da ação penal e afirma que ante a ausência de inícios mínimos de autoria e completa inexistência de provas produzidas, tanto em sede de Inquérito Policial, quanto em juízo, sob o crivo do contraditório contra o paciente, não restou configurada sua autoria, sendo as provas então apuradas insuficientes para respaldar uma decisão pronúncia  ..  (e-STJ fl. 10).
+Ademais, salienta que o depoimento policial, por si só, não é apto a embasar a decisão de pronúncia.
+Pugna pela impronúncia do paciente.
+Sem pedido liminar. Prestadas as informações (e-STJ fls. 183/186), o Ministério Público Federal se manifestou pela denegação da ordem (e-STJ fls. 188/190).
+É o relatório. Decido.
+Verifica-se que foi impetrado anteriormente perante esta Corte Superior o HC n. 849.386/ES, também em benefício do ora paciente, o qual apontava como ato coator o mesmo acórdão ora impugnado, formulando-se o mesmo pedido, com fundamento na mesma causa de pedir, revelando-se, portanto, o presente mandamus mera reiteração.
+É "assente nesta eg. Corte que "Não se conhece de habeas corpus que objetiva mera reiteração de pedido analisado em recurso anteriormente interposto" (AgRg no HC n. 403.778/CE, Sexta Turma, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe de 10/8/2017)". (AgRg no HC n. 678.732/SP, Relator Ministro JESUÍNO RISSATO (Desembargador convocado do TJDFT), Quinta Turma, julgado em 5/10/2021, DJe de 8/10/2021).
+No mesmo sentido:
+AGRAVO REGIMENTAL CONTRA DECISÃO QUE INDEFERIU LIMINARMENTE O WRIT. REITERAÇÃO DE PEDIDO DE RECONHECIMENTO DE COMPETÊNCIA DA JUSTIÇA CASTRENSE. COMPETÊNCIA DA JUSTIÇA COMUM RECONHECIDA POR ESTE COLEGIADO. IMPOSSIBILIDADE DE CONCESSÃO DE ORDEM DE HABEAS CORPUS CONTRA ATO PRÓPRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. "É de se considerar que é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 796.091/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/6/2023).
+2. Além de o HC n 765363/SP reiterar pedido já analisado pela Quinta Turma do Superior Tribunal de Justiça no julgamento do HC n. 764.059/SP, frise-se que este Colegiado se pronunciou pela competência da Justiça Comum quanto aos fatos delituosos apurados na Ação Penal 0010201-20.2016.8.26.0510 que tramitou perante a Segunda Vara Criminal da Comarca de Rio Claro/SP.
+Diante disso, é defeso a esta Corte Superior de Justiça julgar habeas corpus contra ato próprio, porquanto, à luz do art. 650, § 1º, do Código de Processo Penal - CPP, a competência para conhecer originalmente do pedido de habeas corpus cessará sempre que a violência ou coação provier de autoridade judiciária de igual ou superior jurisdição. Nesse sentido: AgRg no HC n. 272.077/PE, de minha relatoria, Quinta Turma, DJe de 19/10/2018 e RHC n. 39.858/TO, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 4/11/2014.
+3. Agravo regimental ao qual se nega provimento.
+(AgRg no HC n. 765.363/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/8/2023, DJe de 30/8/2023 )
+Pelo exposto, não conheço d o habeas corpus.
+Publique-se.
+EMENTA
