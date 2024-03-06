@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra decisão que conheceu do agravo para não conhecer do recurso especial.
+Conforme antes relatado o MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS agravou de decisão que inadmitiu recurso especial interposto, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça local assim ementado:
+APELAÇÃO CRIMINAL. JÚRI. HOMICÍDIO QUALIFICADO. ABSOLVIÇÃO. INSURGÉNCIA MINISTERIAL. DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. INOCORRÊNCIA. RECURSO NÃO PROVIDO.
+- Se o veredicto popular se lastreou em tese absolutória explicitada pela defesa e pelo acusado em seu interrogatório, não se há falar em julgamento manifestamente contrário à prova dos autos.
+Os embargos de declaração opostos foram rejeitados.
+A parte recorrente alega que remanescem os vícios apontados no recurso especial, com falha na prestação jurisdição. Afirma "o Tribunal permaneceu obscuro ao manter a afirmação de que uma das versões da prova dos autos indica que o réu agiu amparado pela legítima defesa" (e-STJ fl. 817). Argumenta que as teses da defesa do réu Elton, com base no que ele alegou em seu interrogatório em plenário, que "matou para não morrer" não se aplicam ao réu Tayrone, pois ele atraiu a vítima para sua morte mediante pagamento. Sustenta que "a alegação de que os jurados acataram uma das narrativas possíveis não procede, pois não há compatibilidade entre a emboscada reconhecida e a legítima defesa" (e-STJ fl. 820).
+Destaca que a pretensão recursal não esbarra no óbice da Súmula 7/STJ demandando mera revaloração dos fatos e provas incontroversos.
+É o relatório. Decido.
+Verifica-se que os argumentos aduzidos nas razões de agravo regimental revelam-se plausíveis, o que impõe a reconsideração em parte da decisão agravada.
+Da leitura atenta do acórdão embargado verifica-se que a Corte local concluiu que fora acolhida pelo Conselho de Sentença a tese absolutória sustentada em Plenário do Júri, não se havendo falar em julgamento manifestamente contrário à prova dos autos. Contudo, de fato, não houve oportuno enfrentamento das teses apresentadas pelo parquet sobre a ausência de arguição pelo acusados da tese de legitima defesa, da impossibilidade de utilização da referida excludente em relação ao corréu, bem como de incompatibilidade entre o reconhecimento da emboscada e a legítima defesa.
+Constata-se, ademais, que foram opostos embargos de declaração visando a provocar a manifestação do Tribunal de origem; no entanto, com a rejeição dos aclaratórios, remanesceu o vício apontado.
+Quando o ponto omisso, obscuro ou contraditório é necessário para o deslinde do debate, como in casu, é de se reconhecer a violação ao disposto no art. 619 do Código de Processo Penal, sendo de rigor o retorno dos autos ao Tribunal de origem para que seja proferido novo julgamento dos embargos de declaração e sanado o vício verificado.
+Nesse sentido:
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PROVA ILÍCITA. CONCESSÃO DA ORDEM DE HABEAS CORPUS. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE VIOLAÇÃO AO ART. 619 DO CPP. OCORRÊNCIA.
+A detida análise dos acórdãos recorridos revela que o e. Tribunal a quo, quando do julgamento dos embargos de declaração opostos pelo Parquet, deixou de se manifestar acerca das teses nele suscitadas, o que implica o reconhecimento de violação ao art. 619 do Código de Processo Penal, ante a patente omissão do julgado na apreciação das teses ministeriais.
+Agravo regimental desprovido (AgRg no REsp n. 1397291/AM, Quinta Turma, Rel. Min. Felix Fischer, DJe de 21/02/2018).
+Assim, configurada a ofensa ao art. 619 do Código de Processo Penal, devem os autos retornar à Corte a quo para que se manifeste expressamente, com fundamentação própria, acerca da teses suscitadas pela parte recorrente.
+Ante o exposto, reconsiderando a decisão de e-STJ fls. 803/807 , conheço do agravo e dou parcial provimento ao recurso especial para determinar o retorno dos autos ao Tribunal de origem para que, sanando o vício apontado, analise as teses suscitadas nos embargos de declaração, como entender de direito, prejudicadas as demais questões.
+Intimem-se.
+EMENTA
