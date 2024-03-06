@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Guilherme Lincoln de Lima à decisão de minha relatoria, em que deneguei a ordem de habeas corpus. Esta, a ementa da decisão (fl. 114):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO COM NUMERAÇÃO SUPRIMIDA (ART. 33, CAPUT, DA LEI N. 11.343/2006, E ART. 16, § 1º, I, DA LEI N. 10.826/2003). APREENSÃO DE CERCA DE 5.684 G DE MACONHA, 200 G DE ECSTASY, 126 G DE HAXIXE E 274 PONTOS DE LSD. PEDIDO DE REDUÇÃO DA PENA. PENA FIXADA COM PROPORÇÃO E RAZOABILIDADE. LIVRE CONVICÇÃO DO MAGISTRADO. COMPROVAÇÃO DA DEDICAÇÃO À ATIVIDADE CRIMINOSA.
+Ordem denegada.
+Alega a defesa que a decisão está omissa, porque não analisou a tese defensiva de ter o réu agido com colaboração premiada, como consta do boletim de ocorrência sobre a sua colaboração.
+Afirma que a dosimetria também se mostra excessiva, uma vez que o réu é primário, colaborou ao indicar o local da droga na residência, não participa de organização criminosa, bem como o dinheiro apreendido possuía origem lícita e a balança era de uso da residência.
+Requer, diante disso, a reconsideração da decisão.
+É o relatório.
+O pedido de colaboração premiada feito pela defesa não foi discutido no acórdão hostilizado, mostrando-se inviável a sua análise, por parte desta Corte, para não incorrer em supressão de instância.
+Quando da análise da dosimetria, a Corte local trouxe fundamentação quanto à valoração negativa das vetoriais culpabilidade e circunstâncias do crime. Com efeito, houve concreta motivação, já que a elevação da pena pela culpabilidade, foi feita por ter o réu guardado na geladeira de sua própria residência grande quantidade de maconha, eletrodoméstico de livre acesso a seu filho de tenro 6 anos de idade, o que se mostra totalmente impensável, sendo responsável por aquela criança (fl. 49). Já sobre a vetorial das circunstâncias do crime, entendeu o Magistrado em aplicar o art. 42 da Lei de Drogas, pois se trata de grande quantidade e diversidade, mais de 5 kg de haxixe, maconha, LSD e ecstasy (cerca de 5.684 g de maconha, 200 g de ecstasy, 126 g de haxixe e 274 pontos de LSD).
+A pena-base foi fixada em 7 anos e 6 meses de reclusão, e 750 dias-multa, portanto, bastante razoável ao presente caso. Deve-se respeitar a livre convicção do Magistrado, uma vez que foram apresentados fatos para chegar a esse entendimento. Como mencionado na decisão, não existe uma fração de aumento obrigatória para a pena-base, sendo, inclusive, possível que uma das vetoriais seja aumentada em patamar superior às demais, diante das provas apresentadas.
+Sobre o pedido de aplicação da atenuante de confissão espontânea, confira-se parte da sentença (fl. 71):
+DOSIMETRIA. PEDIDO DEAPLICAÇÃO DA ATENUANTE GENÉRICA DA CONFISSÃO ESPONTÂNEA. INVIABILIDADE. RÉU QUE NÃO CONFESSOU, DE FATO, A PRÁTICA DELITIVA DO TRÁFICO DE DROGAS, APENAS ESTAR NA POSSE DAS SUBSTÂNCIAS. ALEGAÇÃO VAGA QUE NÃO SE COADUNA COM OS DEMAIS ELEMENTOS DE PROVA.
+Por fim, na terceira fase, o art. 33, § 4º, da Lei de Drogas, foi afastado, em razão de ter sido comprovada a dedicação ao tráfico de drogas por parte do acusado, o que também não pode ser reexaminado por esta Corte.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO COM NUMERAÇÃO SUPRIMIDA (ART. 33, CAPUT, DA LEI N. 11.343/2006, E ART. 16, § 1º, I, DA LEI N. 10.826/2003). APREENSÃO DE CERCA DE 5.684 G DE MACONHA, 200 G DE ECSTASY, 126 G DE HAXIXE E 274 PONTOS DE LSD. ALEGAÇÃO DE AUSÊNCIA DE MANIFESTAÇÃO QUANTO AO PEDIDO DE COLABORAÇÃO PREMIADA, POR PARTE DO EMBARGANTE. MATÉRIA NÃO DISCUTIDA NO ACÓRDÃO HOSTILIZADO. AUSÊNCIA DE ILEGALIDADE NA DOSIMETRIA, FEITA COM RAZOABILIDADE .
+Embargos de declaração rejeitados.
