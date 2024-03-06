@@ -1,0 +1,27 @@
+DECISÃO
+ANTONIO GUIMARÃES ARAUJO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo (Apelação Criminal n. 0000030-23.2022.8.08.0048).
+Consta dos autos que o paciente foi condenado à pena de 3 anos e 4 meses de reclusão, em regime inicial aberto, mais multa, pela prática do crime previsto no art. 33, caput, e § 4º, da Lei n. 11.343/2006.
+A defesa pleiteia, por meio deste writ, a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas no patamar máximo de 2/3, e não em 1/3, como efetivado pelo Tribunal de origem.
+Não houve pedido de liminar e, diante da suficiente instrução dos autos, foi dispensada a solicitação de informações à autoridade apontada como coatora.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus e, caso conhecido, pela denegação da ordem.
+Decido.
+Segundo o disposto no § 4º do art. 33 da Lei de Drogas, "Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa".
+Assim, observa-se que o dispositivo legal estabelece apenas os requisitos necessários para a aplicação da minorante nela prevista, deixando, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+No caso, o Tribunal de origem considerou devida a incidência da fração de 1/3, com base nos seguintes fundamentos (fls. 9-11):
+Na terceira fase - ponto de irresignação recursal - o magistrado de primeiro grau deixou de aplicar a minorante mencionada em razão do seguinte fundamento:
+"Apesar de o denunciado ser tecnicamente primário, entendo que não é suficiente para se favorecer do referido redutor previsto no §4º do art. 33 da Lei 11.343/06. Deve ser mencionado que o acusado responde a outras duas ações penais por tráfico de drogas, possuindo condenação (não transitada em julgado) em uma delas, o que demonstra fortes indícios a denotar a dedicação do acusado a atividades criminosas".
+De fato, o posicionamento acima contrasta com o entendimento firmado no tema 1139, que assim dispõe: É vedada a utilização de inquéritos e/ou ações penais em curso para impedir a aplicação do art. 33, § 4.º, da Lei n. 11.343/06.
+Assim, entendo que razão assiste à defesa quanto ao pedido de aplicação da minorante.
+Todavia, entendo que a causa de diminuição não deve ser aplicada em seu patamar máximo, haja vista a natureza da droga apreendida em poder do réu - cocaína -, de alto poder viciante, bem como o fato de responder a outras ações penais por tráfico, o que demonstra dedicação à atividade. Por outro lado, a quantidade apreendida (dezoito pinos) não se reputa elevada.
+ ..
+Pelas razões acima expostas, aplico o benefício em um terço, fixando a sanção em 03 (três) anos e 04 (quatro) meses de reclusão e 300 (trezentos) dias-multa, a ser cumprida no regime inicial aberto.
+No entanto, não há como como perder de vista que, em sessão ocorrida no dia 10/8/2022, a Terceira Seção desta Corte Superior de Justiça, por ocasião do julgamento do REsp n. 1.977.027/PR (Rel. Ministra Laurita Vaz) - submetido ao rito dos recursos repetitivos -, fixou a seguinte tese:
+É vedada a utilização de inquéritos e/ou ações penais em curso para impedir a aplicação do art. 33, § 4.º, da Lei n. 11.343/06.
+O Supremo Tribunal Federal também possui idêntica compreensão acerca da matéria. Exemplificativamente, menciono, por todos, o HC n. 173.806/MG, de relatoria do Ministro Marco Aurélio (DJe 9/3/2020), cujo acórdão ficou assim ementado:
+PENA - FIXAÇÃO - ANTECEDENTES - INQUÉRITOS E PROCESSOS EM CURSO - DESINFLUÊNCIA. O Pleno do Supremo, no julgamento do recurso extraordinário nº 591.054, de minha relatoria, assentou a neutralidade, na definição dos antecedentes, de inquéritos ou processos em tramitação, considerado o princípio constitucional da não culpabilidade. PENA - CAUSA DE DIMINUIÇÃO - ARTIGO 33, § 4º, DA LEI Nº 11.343/2006 - ATIVIDADES CRIMINOSAS - DEDICAÇÃO - PROCESSOS EM CURSO. Revela-se inviável concluir pela dedicação do acusado a atividades criminosas, afastando-se a incidência da causa de diminuição prevista no artigo 33, § 4º, da Lei nº 11.343/2006, considerado processo-crime em tramitação.
+Assim, seguindo a mesma lógica, considero que a existência de processos em andamento não constitui fundamento idôneo para justificar a incidência do referido redutor em patamar abaixo do máximo abstratamente previsto em lei. A natureza da droga apreendida, no caso, também não autoriza a escolha de fração inferior ao máximo previsto em lei, haja vista que a quantidade de drogas apreendidas com o réu foi muito pequena.
+Diante de tais considerações, deve a ordem ser concedida, a fim de aplicar a minorante no patamar máximo e 2/3 e, por conseguinte, reduzir a reprimenda da paciente para 1 ano e 8 meses de reclusão e pagamento de 166 dias-multa.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem, para aplicar em 2/3 a minorante prevista no § 4º do art. 33 da Lei de Drogas e, por conseguinte, diminuir a sanção do paciente para 1 ano e 8 meses de reclusão e pagamento de 166 dias-multa, nos autos da condenação objeto do Processo n. 0000030-23.2022.8.08.0048.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+EMENTA
