@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de PERIKLISON ARANTES BISCASSI no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação n. 1500109-49.2022.8.26.0557).
+Depreende-se dos autos que o paciente foi condenado a 5 anos e 10 meses de reclusão, em regime inicial fechado, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006, ante a apreensão de cerca de 56g (cinquenta e seis gramas) de maconha e 2g (dois gramas) de cocaína (e-STJ fls. 208/215).
+Interposta apelação, o Tribunal de origem deu parcial provimento ao recurso defensivo para afastar a elevação da pena-base e reconhecer a incidência da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, redimensionando a pena para 1 ano e 8 meses de reclusão, em regime inicial aberto, substituída por uma restritiva de direitos (e-STJ fls. 270/281).
+Daí o presente writ, no qual a defesa sustenta a nulidade das provas ao argumento de que foram obtidas mediante busca pessoal desprovida de fundada suspeita, porquanto lastreada exclusivamente em motivação subjetiva dos policiais (e-STJ fls. 6/10).
+Subsidiariamente, postula a desclassificação do crime do art. 33, caput, para a infração do art. 28, ambos da Lei n. 11.343/2006, ao argumento de que as circunstâncias da apreensão e as declarações do acusado indicam que o entorpecente se destinava ao consumo (e-STJ fls. 11/14).
+Requer, desse modo, inclusive liminarmente, o reconhecimento da nulidade apontada e, por consequência, a absolvição do paciente. Alternativamente, pugna pela desclassificação para o crime previsto no art. 28 da Lei de drogas (e-STJ fls. 14/15).
+Liminar indeferida (e-STJ fls. 298/300).
+Informações prestadas.
+O Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ fls. 339/344).
+É o relatório.
+Decido.
+Preliminarmente, cumpre ressaltar que, o Superior Tribunal de Justiça não pode conhecer da nulidade suscitada no presente habeas corpus, diante da falta de manifestação do Tribunal de origem sobre a suposta violação ao art. 244 do Código de Processo Penal, porquanto a tese defensiva levada a efeito por ocasião do julgamento do recurso de apelação cingiu-se à aplicação do princípio "in dubio pro reo".
+Nessa alheta, fica impossibilitado o pronunciamento deste Sodalício acerca da alegada ilicitude das provas derivadas da busca pessoal, sobrepujando a competência da Corte estadual, sob pena de configuração do chamado habeas corpus per saltum, a ensejar supressão de instância e violação dos princípios do duplo grau de jurisdição e do devido processo legal substancial.
+Adequado à espécie, nessa perspectiva, o ensinamento de Renato Brasileiro, que, ao apreciar a matéria, destacou a inviabilidade do "pedido de julgamento de habeas corpus per saltum, ou seja, do julgamento do remédio heroico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único. 4. ed. rev. ampl. e atual. Salvador: JusPodivm, 2016, p. 2.470).
+Nesse mesmo caminhar:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS . PRISÃO PREVENTIVA. AUTORIA DELITIVA. DILAÇÃO PROBATÓRIA. INDÍCIOS SUFICIENTES. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. DECISÃO DEVIDAMENTE FUNDAMENTADA. ILEGALIDADE DA BUSCA PESSOAL E VEICULAR. PRISÃO DOMICILIAR. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+5. A alegação de ilegalidade da busca pessoal e veicular, bem como o pedido de prisão domiciliar não foram apreciados no acórdão originário, logo, é inviável o conhecimento dos temas diretamente por esta Corte de Justiça, sob pena de indevida supressão de instância.
+6. Agravo regimental não provido. (AgRg no HC n. 868.444/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE DA BUSCA PESSOAL E DOMICILIAR. MATÉRIA NÃO SUBMETIDA À APRECIAÇÃO DO TRIBUNAL DE ORIGEM. IRRESIGNAÇÃO PER SALTUM. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO. DOSIMETRIA. PENA-BASE. QUANTIDADE DE DROGA. ILEGALIDADE. AUSÊNCIA. AGRAVO DESPROVIDO.
+ ..
+2. Conforme consignado na decisão agravada, não tendo sido a tese de nulidade da busca pessoal e domiciliar submetida à apreciação do Tribunal de origem, no apelo criminal, tampouco opostos embargos de declaração, não cabe a esta Corte a análise inaugural da matéria.
+ ..
+6. Agravo regimental desprovido. (AgRg no HC n. 817.178/SP, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 13/11/2023, DJe de 16/11/2023.)
+Quanto ao pleito de desclassificação para a conduta prevista no art. 28 da Lei n. 11.343/2006, entendo que este não merece ser provido.
+No caso, o Tribunal de origem refutou a pretensão com base nos seguintes fundamentos (e-STJ fl. 275, grifei):
+ ..  Como se vê, estes relatos dos policiais, prestados em uníssono, sempre no mesmo sentido, assumem valioso elemento de convicção e são suficientes para a manutenção do édito de rigor, não havendo se falar em quadro de dúvidas ou em desclassificação da conduta para mera posse de droga para uso próprio.
+Os milicianos deixaram claro que o apelante estava em local de conhecida traficância ilícita de drogas, havia acabado de ser abordado pelo condutor de um veículo Gol, na cor vinho, que lhe entregou uma nota de dinheiro, sendo que logo em seguida o apelante se dirigiu até a casa abandonada e sem portão ali existente, local em que se abaixou próximo de uma pilha de tijolos, momento em que os policiais foram abordá-lo, tendo o condutor do veículo Gol se evadido do local. Esclareceram os policiais, também, que realizada a abordagem no réu, em poder direto dele foi encontrado, na sua mão direita, um canivete, e na mão esquerda um tablete de maconha e, na sequência, os agentes do Estado se dirigiram até aquela pilha de tijolos, local em que encontraram mais sete pinos plásticos contendo cocaína e dois tabletes de maconha.
+Nesse contexto, a conduta tida pelo apelante bem se amoldou à norma penal incriminadora prevista no artigo 33 da Lei nº 11.343/2006, pois, efetivamente, trazia consigo e tinha em depósito, para fins de tráfico, drogas, não havendo assim se falar em absolvição ou em desclassificação para mera posse de droga para uso próprio.
+Como se vê, as instâncias ordinárias consideraram que o acervo probatório é firme para subsidiar a condenação do acusado por tráfico de entorpecentes, ressaltando o contexto fático narrado pelos policiais que efetuaram a prisão em flagrante de que o paciente praticava atos de mercancia em local conhecido como ponto de venda de drogas.
+Portanto, entender de modo diverso demandaria, necessariamente, o inviável reexame de elementos fático-probatórios na via eleita.
+Ante o exposto, conheço parcialmente do habeas corpus e, nessa parte, denego a ordem.
+Publique-se. Intimem-se.
+ EMENTA
