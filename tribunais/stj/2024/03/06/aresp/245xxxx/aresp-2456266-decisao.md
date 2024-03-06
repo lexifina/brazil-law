@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por JOSE ORLANDO NUNES DOS SANTOS contra decisão proferida pelo Tribunal de Justiça do Estado do Goiás que inadmitiu o recurso especial pela inviabilidade de análise de matéria constitucional e pela falta de prequestionamento (Súmula 282 do STF).
+Nas razões do presente agravo (e-STJ, fls. 351-369), o insurgente aduz que a decisão agravada é genérica e não atenta para os fundamentos contido no recurso especial.
+Afirma que não se deseja a reanálise do contexto fático dos autos, mas sim nova valoração jurídica aos fatos e provas devidamente prequestionados e constantes no acórdão recorrido.
+Destaca que estão presentes os pressupostos necessários à interposição do recurso especial, inclusive quanto ao cotejo necessário para o reconhecimento da divergência jurisprudencial suscitada.
+No mais, reitera os argumentos despidos no recurso especial.
+Impugnação não apresentada (e-SJT, fl. 374).
+Brevemente relatado, decido.
+O Superior Tribunal de Justiça tem entendimento firmado de que cabe à parte agravante, nas razões do agravo em recurso especial, trazer argumentos para contestar a decisão do Tribunal de origem que negou seguimento ao recurso, justificando, tese a tese, o cabimento do apelo especial, sob pena de incidência do art. 932, III, do CPC/2015.
+No caso dos autos, os fundamentos da decisão de inadmissibilidade do recurso especial não foram devidamente rebatidos.
+Com efeito, o argumento de que a eventual ofensa a dispositivo constitucional não pode ser apreciada no âmbito do recurso especial nem sequer foi tratado nas razões do presente recurso.
+Ademais, a mera alegação genérica da existência de prequestionamento não é suficiente para impugnar o óbice da Súmula 282 do STF, sendo imprescindível a efetiva demonstração mediante referência à argumentação do Tribunal de origem nas quais o aludido pressuposto teria sido satisfeito, notadamente por meio da indicação das páginas e da transcrição dos excertos do acórdão recorrido.
+Ilustrativamente (sem grifo no original):
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ARTIGO 288, CAPUT, DO CÓDIGO PENAL. ARTIGO 7º, INCISO VII, DA LEI N. 8.137/90. ARTIGO 50, INCISOS I E II, PARÁGRAFO ÚNICO, INCISOS I E II, C/C ARTIGO 51 DA LEI N. 6.766/79. DUPLO JUÍZO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. NÃO VINCULAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. PEDIDO DE CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO. IMPOSSIBILIDADE. MANUTENÇÃO DA DECISÃO AGRAVADA.
+I - Convém registrar que o recurso especial é submetido a duplo juízo de admissibilidade, não estando esta Corte Superior vinculada às manifestações do Tribunal a quo acerca dos pressupostos recursais, já que se trata de juízo provisório, recaindo o juízo definitivo sobre este Sodalício, quanto aos requisitos de admissibilidade e em relação ao mérito (AgInt nos EDcl nos EDcl no REsp n. 1.599.447/RJ, Segunda Turma, Rel. Min. Mauro Campbell Marques, DJe de 11/6/2018).
+II- No caso, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a inaplicabilidade dos óbices apontados na decisão agravada.
+III - Com relação ao óbice da Súmula n. 284/STF, não basta deduzir a inaplicabilidade deste óbice sumular, devendo ser esclarecido o rechaço aos pontos esteares da decisão de admissibilidade, como comprovar, por meio da contraposição dos argumentos postos no recurso especial e conclusões do acórdão recorrido, a suficiência e adequação do inconformismo.
+IV - Quanto ao óbice da Súmula n. 7/STJ, deveria o agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+V - No que tange ao óbice da Súmula n. 83/STJ, caberia ao agravante comprovar, por meio da indicação de precedentes desta Corte Superior, a desarmonia do julgado ou da ausência de entendimento pacificado sobre a matéria, por exemplo, evidenciando, assim, a inaplicabilidade do embaraço indicado pelo Tribunal a quo, o que não ocorreu.
+VI - Em relação à ausência de prequestionamento, deveria a Defesa ter indicado como a decisão recorrida enfrentou a questão posta em debate no recurso especial, deixando claro que a matéria foi devidamente consignada no acórdão a quo, o que não ocorreu.
+VII - A ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+VIII - Ademais, "É descabido postular a concessão de habeas corpus de ofício, como forma de tentar burlar a inadmissão do recurso especial" (AgRg no AREsp n. 864.672/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1/6/2016).
+Agravo regimental desprovido.
+(AgRg no AREsp n. 2.211.138/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 27/6/2023, DJe de 3/7/2023.)
+Incontestável, portanto, que não houve impugnação específica dos fundamentos da decisão ora agravada, circunstância que impede o conhecimento do agravo, conforme o disposto pelo art. 932, III, do CPC/2015.
+Ante o exposto, não conheço do agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2 % sobre o valor da causa, suspensa a exigibilidade em razão da gratuidade de justiça deferida ao recorrente.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. AGRAVO NÃO CONHECIDO.
