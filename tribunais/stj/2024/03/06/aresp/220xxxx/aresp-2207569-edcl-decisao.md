@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MARIA HELENA MACHADO DE FREITAS contra decisão monocrática de minha relatoria que deu "provimento ao recurso especial, a fim de que os autos retornem ao Tribunal a quo para julgamento da tese omissa" (fls. 35-39).
+Nas razões dos aclaratórios, a embargante aduz que a tese tida como omissa não teria sido objeto de impugnação nas razões do agravo de instrumento manejado na origem, sendo, portanto, desnecessário o retorno dos autos para análise.
+Pugna, por fim, pelo provimento dos aclaratórios.
+A parte embargada apresentou contraminuta (fls. 48.51).
+É, no essencial, o relatório.
+Nada a acolher.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso dos autos, a decisão embargada foi clara ao consignar que houve efetivo questionamento na inicial do agravo de instrumento de que a ora embargante teria levantado valor a maior, beirando a má-fé processual a alegação ora trazida de que não houve tal indagação.
+A inicial do instrumental dedica um tópico exclusivo a tal questão - "DA EXECUÇÃO INDEVIDA - DO LEVANTAMENTO PELA EXEQUENTE DE R$ 98.989.45 INDEVIDAMENTE - DA NECESSÁRIA APURAÇÃO DA EXISTÊNCIA DO SALDO DEVIDO DO VRG" (fl. 7) -, sendo necessário o debate quanto ao ponto, como anteriormente consignado.
+Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Cumpre reiterar que entendimento contrário não se confunde com omissão no julgado ou com ausência de prestação jurisdicional. A propósito, "Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, relatora Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008" (AgInt nos EDcl no AREsp n. 1.991.299/PI, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 1º/9/2022).
+No mesmo sentido, cito :
+2. Não podem ser acolhidos os embargos de declaração que, a pretexto de alegados vícios na decisão embargada, expressam o mero inconformismo da parte com o desfecho do julgado, buscando tão somente provocar a rediscussão da controvérsia. (EDcl no AgInt no AREsp n. 2.042.639/GO, relator Ministro Humberto Martins, Segunda Turma, DJe de 12/12/2022.)
+Por fim, afasto a pretensão da embargada na aplicação da multa prevista no art. 1.026, § 2º, do CPC, pois "o mero inconformismo da parte embargada com a oposição de embargos de declaração não autoriza a imposição da multa prevista no § 2º do art. 1.026 do CPC/2015, uma vez que, no caso, não se encontra configurado o caráter manifestamente protelatório, requisito indispensável à imposição da sanção" (EDcl no AgInt no AREsp n. 2.229.238/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 10/5/2023).
+Ante o exposto, rejeito os embargos de declaração e, de pronto, advirto a embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
+EMENTA
