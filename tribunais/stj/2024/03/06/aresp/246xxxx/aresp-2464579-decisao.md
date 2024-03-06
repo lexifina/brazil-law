@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul, que inadmitiu o recurso especial, com fundamento nas Súmulas n. 7 e n. 83/STJ e na ausência de violação ao art. 619 do Código de Processo Penal.
+Sustenta o agravante que a matéria objeto do Recurso Especial não enseja a aplicação dos óbices sumulares, aduzindo que "a ratio decidendi esposada nos precedentes colacionados pela decisão agravada não elide os fundamentos deduzidos no recurso ministerial, o qual, em verdade, encontra-se perfeitamente alinhado ao mesmo viés intelectivo." (fl. 588).
+Alega que é "evidente que a tese jurídica construída no recurso especial prescinde da análise probatória para sua viabilidade, bem como seu acolhimento acarreta em posterior apreciação da realidade fática reconhecida no acórdão recorrido para aplicação de consequência jurídica distinta." (fl. 946), bem como que é "necessário expor-se a plausibilidade da tese manifestada no recurso especial, no sentido de que o acórdão prolatado ensejou nítida violação ao artigo 619 Código de Processo Penal" (fl. 947). Requer o provimento do agravo, dando-se seguimento ao especial.
+O Ministério Público Federal manifestou-se pelo provimento do agravo.
+A defesa peticionou alegando a ocorrência de manifesto constrangimento ilegal, pois, apesar de terem sido despronunciados pelo Tribunal de origem, não houve a determinação para a soltura dos acusados (fls. 987-1.037), tendo sido concedido habeas corpus de ofício em 19/12/2023, para determinar a soltura dos agravados (fls. 1.042-1.043).
+O Ministério Público estadual, por sua vez, na petição de fls. 1.063-1.064, manifestou-se pela perda de objeto da petição interposta pela Defensoria Pública às fls. 987/1037, informando que "o agravado JORGE LUIZ DA SILVA se encontra em liberdade desde 19/12/2023, em razão da revogação da prisão preventiva", bem como, "quanto ao corréu VITOR MANOEL DE OLIVEIRA, verificou-se a notícia do falecimento do mesmo, em 06/02/2024".
+É o relatório.
+Decido.
+A despeito das razões apresentadas, o agravante deixou de rebater, especificamente, os fundamentos da decisão agravada, especialmente quanto à incidência das súmulas n. 7 e n. 83/STJ.
+Vale lembrar que, ao recorrente, incumbe demonstrar o equívoco da decisão agravada, sendo imprescindível que impugne todos os óbices por ela apontados de maneira específica e suficientemente demonstrada, nos termos do art. 932, III, do CPC, c/c art. 3º do CPP.
+Relativamente à Súmula 7/STJ, mostra-se insuficiente "sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas" (AgRg no AREsp n. 1.677.886/MS, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 3/6/2020).
+Para impugnar a Súmula 83/STJ, é indispensável que se indique precedentes recentes que infirmem o referido verbete sumular, providência que não se verifica da leitura das razões do agravo em recurso especial. À propósito:
+PENAL E PROCESSO PENAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL (SÚM. 83 DO STJ). FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO.
+I - A ausência de impugnação específica dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial com relação à incidência da Súmula 83/STJ.
+III - "E, ainda, esta Corte firmou o entendimento de que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/10/2016, DJe 28/10/2016), o que não ocorreu no caso destes autos" (AgRg no AREsp n. 637.462/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 1º/8/2017).
+Agravo regimental desprovido. (AgRg no AREsp 1624495/MS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 28/04/2020, DJe 04/05/2020)
+Incide, no caso e por analogia, a Súmula 182/STJ, segundo a qual "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
