@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público do Estado de Santa Catarina, com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do mesmo ente federado, assim ementado (fl. 430):
+AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. DECISÃO AGRAVADA QUE JULGOU IMPROCEDENTE O PEDIDO INICIAL QUANTO ÀS PESSOAS JURÍDICAS E AS EXCLUIU DO PROCESSO COM BASE NO ART. 3º, § 3º, DA LEI FEDERAL N. 8.429/92 COM A REDAÇÃO DADA PELA LEI FEDERAL N. 14.230/2021 EM RAZÃO DA APLICABILIDADE DA LEI ANTICORRUPÇÃO (LEI FEDERAL N. 12.846/2013). DISCUSSÃO SOBRE A RETROATIVIDADE OU NÃO DA LEI FEDERAL N. 14.230/2021 AO CASO. DIREITO ADMINISTRATIVO SANCIONADOR. RETROATIVIDADE DA NORMA MAIS BENÉFICA. TESES JURÍDICAS FIRMADAS PELO SUPREMO TRIBUNAL FEDERAL ACERCA DO TEMA 1199. RETROATIVIDADE DA NOVA LIA AOS PROCESSOS EM ANDAMENTO, AINDA QUE JÁ JULGADOS, MAS SEM TRÂNSITO EM JULGADO, QUANTO À MATÉRIA DISCUTIDA. IMPOSSIBILIDADE DE MANUTENÇÃO DAS PESSOAS JURÍDICAS DEMANDADAS NO POLO PASSIVO DA LIDE. EXCLUSÃO MANTIDA. RECURSO DESPROVIDO.
+O recorrente aponta violação ao art. 3º, § 2º, da Lei n. 8.429/92, com a redação dada pela Lei n. 14.230/21. Sustenta, em síntese, a "possibilidade de responsabilização das pessoas jurídicas, pelo mesmo fato, com base na Lei n. 12.846/2013 (Lei Anticorrupção) e na Lei n. 8.429/1992, ressalvada a dupla punição" (fl. 486).
+Recebidos os autos nesta Corte, o Ministério Público Federal, em parecer de lavra do Subprocurador-Geral da República Aurélio Virgílio Veiga Rios, opinou pelo provimento do especial (fls. 552/558).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Conforme consta da Petição n. 00154174/2024, foi proferida sentença na subjacente ação civil pública por ato de improbidade administrativa (Processo n. 0900317-91.2017.8.24.0079/SC), assentando a improcedência dos pedidos veiculados na exordial. Consta do referido decisum, expressamente (fl. 570):
+ ..
+Por conseguinte,  cou claro que os requeridos IRIO SERIGHELLI e CLAUDIO SPRICIGO não agiram por dolo ou má-fé. A despeito da suspeita inicial de um prévio conluio entre eles e as empresas Locomaq e Miranda&Miranda, essa circunstância não encontra suporte nos elementos coligidos.
+Com efeito, não foi produzida nenhuma prova a respeito do suposto ajuste entre os requeridos, indispensável para demonstração do dolo. A mera participação de empresas com vínculo subjetivo em processo licitatório, apesar de evidenciar possível irregularidade ou ilegalidade no certame, é insu ciente para caracterização de ato de improbidade administrativa, inclusive porque não há danos ao erário, tampouco benefícios à empresa adjudicada, a qual foi remunerada pelo produto/serviço prestado, sem indícios de superfaturamento.
+ ..
+Nesse contexto, ocorreu a perda superveniente de objeto do apelo especial, que buscava reincluir, no polo passivo da demanda, as pessoas jurídicas acima mencionadas.
+ANTE O EXPOSTO, julgo prejudicado o recurso especial.
+Publique-se.
+EMENTA
