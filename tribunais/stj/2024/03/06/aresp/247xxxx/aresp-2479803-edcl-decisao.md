@@ -1,0 +1,14 @@
+DECISÃO
+NELSON TOMAS FILHO opõe embargos de declaração à decisão de fls. 589-592, em que conheci do agravo, mas não conheci do recurso especial, por incidência da Súmula n. 284 do STF.
+A defesa alega que o decisum embargado foi omisso e obscuro, porque "a fundamentação empregada não enfrentou tecnicamente a negativa de vigência ao art. 28 da Lei de Drogas" (fl. 600). No mais, basicamente reitera a sua compreensão de que a conduta imputada ao réu deve ser desclassificada para o crime previsto no art. 28 da Lei n. 11.343/2006.
+Requer, assim, o acolhimento dos embargos, "para ver sanada a omissão da r. decisão e-STJ fl. 589-592, sendo de rigor a desclassificação do tráfico para o art. 28, da Lei 11.343/06), diante da ausência de outros fundamentos idôneos" (fl. 601).
+Decido.
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso,
+ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+No caso, constato que o decisum embargado não foi omisso, tampouco contraditório ou obscuro. A questão da impossibilidade de conhecimento do recurso especial foi devidamente analisada, com a explicitação de que eventual negativa de vigência a dispositivo constitucional (apontada violação dos arts. 5º, LV, IV, XLV e LVII, e 93, IX, ambos da Constituição Federal) não é passível de ser discutida em recurso especial. Matérias como tal, por expressa determinação da Constituição, devem ser analisadas pelo Supremo Tribunal Federal.
+Ademais, a decisão ora embargada demonstrou que o recurso especial foi interposto sem a necessária fundamentação, haja vista que a defesa, basicamente, se limitou a transcrever os dispositivos - constitucionais e infraconstitucionais - que, em sua visão, teriam sido violados pelo Tribunal de origem.
+Com efeito, a defesa, em nenhum momento, desenvolveu, com um mínimo de profundidade, as razões pelas quais, em sua visão, tais dispositivos teriam sido inobservados pela Corte estadual ou os motivos pelos quais o réu faria jus à absolvição ou à reforma da sua dosimetria da pena. Vale dizer, o recorrente, em nenhum momento, demonstrou, de maneira específica e concretamente fundamentada, as razões de sua insurgência.
+Assim, o que se percebe, na verdade, é que a irresignação do embargante se resume a mero inconformismo com o resultado do julgado, que lhe foi desfavorável, não havendo nenhum fundamento que justifique a oposição de embargos de declaração.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
