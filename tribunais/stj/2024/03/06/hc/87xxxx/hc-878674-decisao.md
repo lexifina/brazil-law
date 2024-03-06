@@ -1,0 +1,28 @@
+DECISÃO
+ROBERTO DOBKE PORTANTIOLO alega sofrer coação ilegal no seu direito de locomoção em decorrência de acórdão do Tribunal de Justiça do Estado de Santa Catarina no HC n. 5071248-92.2023.8.24.0000 .
+O recorrente foi denunciada por suposta prática do delito previsto no art. 2º, II, c/c o art. 12, I, ambos da Lei n. 8.137/1990, em continuidade delitiva (24 vezes). O Ministério Público atuante na primeira instância deixou de apresentar proposta de acordo de não persecução penal.
+A defesa requereu o envio dos autos ao Procurador-Geral de Justiça, nos termos do art. 28-A, § 14, do Código de Processo Penal, o qual foi indeferido pelo Magistrado. A Corte antecedente manteve a negativa.
+A impetrante alega constrangimento ilegal, pois estariam presentes os requisitos necessários à concessão do benefício processual e a negativa somente poderia ocorrer na hipótese de "manifesta impossibilidade de oferecimento do acordo de não persecução penal" (fl. 7).
+Requer o provimento do recurso ordinário, a fim de que seja determinado o envio dos autos ao órgão revisor do Ministério Público.
+O Ministério Público Federal, em parecer do Subprocurador-Geral da República Onofre de Faria Martins, às fls. 270-273, opinou pelo não conhecimento do habeas corpus e, eventualmente, pela denegação da ordem.
+Decido.
+I. Acordo de não persecução penal - ANPP
+A Corte de origem assim se manifestou sobre a questão relativa ao não envio dos autos ao órgão revisor do MP (fl. 248-249):
+ ..
+No presente caso, a recusa em propor o acordo foi devidamente justificada na ausência de requisitos para a aplicação do instituto, notadamente a contumácia delitiva, eis que os supostos delitos tributários foram praticados na forma continuada, por 24 (vinte quatro) vezes, entre os meses de janeiro de 2018 a dezembro de 2019.
+Malgrado a argumentação defensiva, a suposta conduta delituosa praticada pelo paciente não se tratou de ação única e isolada, mas de sucessivos atos praticados ao longo de vinte e quatro meses, causando vultuoso prejuízo ao erário público, o que constitui fundamento razoável a caracterizar a conduta como reiterada ou habitual e demonstra que o acordo é insuficiente à reprovabilidade da conduta.
+Para além disso, o paciente responde a Ação Penal n. 0900075-37.2018.8.24.0067, bem como possui outras duas Ações Penais com trânsito em julgado posterior aos presentes fatos (0900022-90.2017.8.24.0067 e 090072-05.2015.8.24.0067), todas pela prática de crimes idênticos ao ora apurados (ev. 1, PROMOÇÃO5 da Ação Penal n. 5001629-39.2021.8.24.0067), de modo que a habitualidade criminosa não decorre somente das condutas delitivas aqui apuradas, mas também das ações penais por crimes contra a ordem tributária pelas quais responde.
+Como se vê, os requisitos para a concessão do Acordo de Não Persecução Penal não restaram preenchidos, não havendo que falar em ausência de fundamentação para recusa do instituto ao paciente e, por conseguinte, de ilegalidade no indeferimento de remessa dos autos ao órgão superior do Ministério Público.
+ ..
+Nesse raciocínio, não preenchidos os requisitos legais para a aplicação do benefício processual, não há qualquer constrangimento ilegal a ser sanado na via do habeas corpus.
+Por ocasião do julgamento do HC n. 657.165/RJ, apresentei cognição de que o acordo de não persecução penal, de modo semelhante ao que ocorre com a transação penal ou com a suspensão condicional do processo, introduziu, no sistema processual, mais uma forma de justiça penal negociada.
+É consolidado neste Superior Tribunal o entendimento de que não há direito subjetivo do réu aos mecanismos de justiça penal consensual, tais como a suspensão condicional do processo, a transação penal e, no que interessa para o caso, o acordo de não persecução penal. Ilustrativamente: "A Proposta de suspensão condicional do processo não se trata de direito subjetivo do réu, mas de poder-dever do titular da ação penal, a quem compete, com exclusividade, sopesar a possibilidade de aplicação do instituto consensual de processo, apresentando fundamentação para tanto" (AgRg no HC n. 654.617/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 11/10/2021).
+Todavia, se, por um lado, não se trata de direito subjetivo do réu, por outro, também não é mera faculdade a ser exercida ao alvedrio do Parquet. O ANPP é um poder-dever do Ministério Público, negócio jurídico pré-processual entre o órgão (consoante sua discricionariedade regrada) e o averiguado, com o fim de evitar a judicialização criminal, e que culmina na assunção de obrigações por ajuste voluntário entre os envolvidos.
+Como poder-dever, portanto, observa o princípio da supremacia do interesse-público - consistente na criação de mais um instituto despenalizador em prol da otimização do sistema de justiça criminal - e não pode ser renunciado, tampouco deixar de ser exercido sem fundamentação idônea, pautada pelas balizas legais estabelecidas no art. 28-A do CPP.
+Na hipótese, foi constatado que o paciente não preencheu os requisitos necessários à concessão do benefício, pois existem elementos que permitem identificar a habitualidade e a reiteração delitiva. O acórdão impugnado destacou o fato de o investigado responder a outros processos criminais, por ilícitos de mesma natureza, inclusive com trânsito em julgado posterior, além daqueles analisados nestes autos (24 vezes).
+Portanto, ficou evidenciado que o acusado não faz jus ao benefício, conforme a previsão do art. 28-A, § 2º, II, do Código de Processo Penal. Dessa forma, ainda que houvesse a proposta, esta não poderia ser homologada.
+Assim, não constato ilegalidade a ser sanada nestes autos.
+II. Dispositivo
+À vista do exposto, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
+EMENTA
