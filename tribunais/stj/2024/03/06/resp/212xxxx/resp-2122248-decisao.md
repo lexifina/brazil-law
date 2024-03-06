@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (fls. 296-297):
+PROCESSO PENAL. PENAL. APELAÇÃO. ART. 334-A, § 1º, INCISO I, DO CÓDIGO PENAL, C/C ART. 3º DO DECRETO-LEI Nº 399/68. CONTRABANDO. AUTORIA E MATERIALIDADE DEVIDAMENTE DEMONSTRADAS. DOSIMETRIA. DECOTE DAS VETORIAIS PERSONALIDADE E CIRCUNSTÂNCIAS DO CRIME. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. POSSIBILIDADE. INABILITAÇÃO PARA DIRIGIR VEÍCULO. ART. 278-A DO CTB. AFASTAMENTO. MEDIDA ADMINISTRATIVA. APLICAÇÃO DO ART. 92, INC. III, DO CP. MEDIDA CAUTELAR. EXCLUSÃO DA FIANÇA. IMPOSSIBILIDADE. EXECUÇÃO PROVISÓRIA. EXPEDIÇÃO DE GUIA DE RECOLHIMENTO PROVISÓRIA. PEDIDO PREJUDICADO.
+1. A materialidade delitiva e a autoria estão cabalmente comprovadas nos autos, por provas documentais, pela confissão do réu no flagrante e em juízo e pelo depoimento da testemunha ouvida em juízo. Está demonstrado pelo conjunto probatório que o réu, de forma livre e consciente, adquiriu e transportou 6.500 maços de cigarros de procedência estrangeira, sendo  agrado na realização da conduta, culminando para a prática do crime de contrabando, não prosperando a tese defensiva de insuficiência probatória.
+2. Os documentos elaborados e lavrados pela autoridade fiscal competente e responsável pela diligência por ocasião da apreensão das mercadorias, no exercício de sua função pública, são dotados de presunção de veracidade e legalidade, próprios dos atos administrativos, portanto, considerados provas irrepetíveis a teor das exceções previstas no art. 155 do CPP, sendo que quando tais provas são judicializadas pelo contraditório diferido não se observa vedação de que sejam a base da convicção do juízo, ainda que daí decorra a condenação do réu. Precedentes do TRF4.
+3. A valoração negativa da vetorial personalidade deve ser afastada, uma vez que autuações aduaneiras registradas contra o acusado não servem, por si só, para comprovar desvirtuamento da personalidade a autorizar incremento de pena.
+4. A prática do crime em período noturno, não justifica a elevação da pena-base, na medida em que é usual no contrabando e/ou descaminho, não denotando maior reprovabilidade à conduta. Precedentes.
+5. O fato de terem sido removidos os bancos traseiros para aumentar o volume de carga não indicam sofisticação da prática delitiva suficiente à exasperação da pena-base.
+6. Devendo a pena ser fixada em patamar inferior a 4 (quatro) anos, sendo o crime cometido sem violência ou grave ameaça, o réu não sendo reincidente e considerando que a maioria das vetoriais são neutras, cabível a substituição da pena privativa de liberdade, por penas restritivas de direitos. Precedente do TRF4.
+7. A inabilitação do direito de dirigir deve permanecer, com fundamento no art. 92, III, do Código Penal, pelo tempo da condenação, devendo ser afastada a incidência do art. 278-A do Código de Trânsito Brasileiro (redação incluída pela Lei n. 13.804/2019), que resultou na cassação da habilitação do réu, ou, se for o caso, a proibição de obter a habilitação para dirigir veículo automotor, pelo prazo de 5 (cinco) anos, determinando-se apenas a expedição de ofício dirigido às autoridades de trânsito, para, quando transitada em julgado a condenação, adotarem as providências que entenderem cabíveis. Precedentes do TRF4.
+8. No que concerne ao pedido de revogação da determinação de recolhimento de  ança e afastamento da execução provisória, resta prejudicado, em razão do despacho proferido na execução provisória (evento 55 - DESPADEC1 - proc. n. 5000842-35.2023.4.04.7017), em decorrência do quanto decidido pelo e. STJ no Habeas Corpus n. 806458/PR.
+9. Parcial provimento da apelação criminal.
+Sustenta o recorrente, em suma, violação dos arts. 65, III, d, e 68 do Código Penal e 381, III, 387, I, II e III, 564, V, e 654, §2º, do Código de Processo Penal. Aduz que " a  egrégia Corte a quo houve por bem reconhecer a ocorrência de confissão no presente caso. Nada obstante, deixou de fazer incidir a devida redução de pena, no quantum de 1/6, ignorando a incidência da atenuante, ao argumento de que a pena já estaria fixada no mínimo legal" (fl. 310), devendo ser superada a Súmula 231/STJ.
+Requer seja conhecido e provido o recurso ou seja concedido habeas corpus de ofício.
+Contrarrazoado e admitido na origem, manifestou-se o MPF pelo desprovimento do recurso.
+É o relatório.
+DECIDO.
+Nas razões do recurso especial, pretende o recorrente a redução da pena de multa e redução da pena na segunda etapa, em patamar aquém do mínimo legal, ante o reconhecimento da atenuante da confissão espontânea.
+O acórdão, nos tópicos, foi assim fundamentado (fl. 239):
+3.2. Segunda fase da dosimetria
+Na segunda fase, correto o reconhecimento da confissão espontânea. Não obstante, tal reconhecimento não permite reduzir a pena abaixo do mínimo legal, nos termos da Súmula nº 231 do Superior Tribunal de Justiça.
+Como se vê, as instâncias ordinárias aplicaram, na segunda fase da dosagem da pena, a Súmula 231/STJ, segundo a qual: " a  incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal", a qual se encontra em plena vigência, sendo, pois, correta a manutenção da pena aplicada na primeira fase, embora presente a atenuante da confissão. A propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. DOSIMETRIA. ATENUANTES DA CONFISSÃO ESPONTÂNEA E DA MENORIDADE RELATIVA. REDUÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL. IMPOSSIBILIDADE. SÚMULA N. 231/STJ. PLEITO DE SOBRESTAMENTO DO FEITO. AUSÊNCIA DE PREVISÃO LEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. A incidência de circunstância atenuante, como a confissão espontânea e a menoridade relativa, não pode conduzir à redução da pena para aquém do mínimo legal, conforme dispõe a Súmula n. 231 deste Tribunal Superior.
+2. "A incidência do verbete n. 231/STJ permanece firme na jurisprudência desta Corte e o Agravante não trouxe argumento idôneo que, em tese, poderia justificar uma modificação do entendimento acerca do tema (overruling)" (AgRg no AREsp n. 2.243.342/PA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/5/2023, DJe de 9/5/2023).
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.236.332/TO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/6/2023, DJe de 23/6/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO. NÃO OCORRÊNCIA. RECONSIDERAÇÃO. HOMICÍDIO QUALIFICADO TENTADO E PORTE DE ARMA. DOSIMETRIA. PENA-BASE. ATENUANTE. REDUÇÃO AQUÉM DO MÍNIMO LEGAL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 231 DO STJ. AGRAVO REGIMENTAL PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL MAS NEGAR-LHE PROVIMENTO.
+1. Devidamente impugnados os fundamentos da decisão de inadmissão do recurso especial, deve ser reconsiderada a decisão que não conheceu do agravo.
+2. A redução da pena aquém do mínimo legal pelo reconhecimento das atenuantes da menoridade relativa e da confissão espontânea encontra óbice na Súmula 231 do STJ.
+3. Agravo regimental provido para conhecer do agravo em recurso especial, mas negar-lhe provimento.
+(AgRg no AREsp n. 1.758.795/MS, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 25/5/2021, DJe de 28/5/2021.)
+Estando o acórdão, no particular, em conformidade com a jurisprudência desta Corte, aplica-se a Súmula 83/STJ.
+Ante o exposto, nego provimento ao recurso.
+Publique-se.
+Intimem-se.
+EMENTA
