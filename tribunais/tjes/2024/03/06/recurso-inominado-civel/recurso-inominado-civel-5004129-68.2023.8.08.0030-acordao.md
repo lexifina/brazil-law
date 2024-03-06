@@ -1,0 +1,107 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5004129-68.2023.8.08.0030
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: MUNICIPIO DE LINHARES e outros
+RECORRIDO: ORMI STIEG CAPICHE
+RELATOR(A):
+FELIPE LEITAO GOMES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos nº 5004129-68.2023.8.08.0030
+
+Recorrente: MUNICÍPIO DE LINHARES; ESTADO DO ESPÍRITO SANTO
+
+Recorrido: ORMI STIEG CAPICHE
+
+Relator: DR. FELIPE LEITÃO GOMES
+
+VOTOS
+
+DR. FELIPE LEITÃO GOMES – RELATOR
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA. DIREITO À SAÚDE.
+
+(1).
+A PARTE AUTORA, DIAGNOSTICADA COM
+TRANSTORNO DEPRESSIVO RECORRENTE. CID: F32
+, REQUER SEJAM CONCEDIDOS OS MEDICAMENTOS
+VELlZA 60mg
+e
+PREGOBALlNA 50 mg
+.
+
+TUTELA ANTECIPADA INDEFERIDA.
+(2). DISPOSITIVO DA SENTENÇA.
+“
+[...]
+Ante o exposto, JULGO PROCEDENTE o pedido inicial para DETERMINAR que os requeridos solidariamente no prazo de 30 (trinta) dias, forneçam a requerente ORMI STIEG CAPICHE os medicamentos VELIJA 60mg e PREGABALINA 50mg, devendo serem fornecidos enquanto perdurar a necessidade atestada por profissional competente (na forma estipulada pelo seu protocolo de fornecimento). RESOLVO o mérito nos termos do art. 487, inciso I, do Código de Processo Civil e EXTINGUINDO o presente feito. Desde logo anoto que o recurso de Embargos de Declaração não é instrumento para obtenção de efeitos infringentes e que a reforma desta sentença deverá ser objeto de recurso ao E. Colegiado Recursal. P.R.I.-se. Transitada em julgado e não havendo requerimento da parte interessada, baixem-se e arquivem-se. Sem custas. Diligencie-se.
+
+[...]
+.
+(3). RECURSO DO ESTADO DO ESPÍRITO SANTO. NULIDADE DA SENTENÇA - NECESSIDADE DE MANIFESTAÇÃO DO NAT - CERCEAMENTO DE DEFESA;
+AUSÊNCIA DE COMPROVAÇÃO DA IMPRESCINDIBILIDADE DOS MEDICAMENTOS. NÃO CUMPRIMENTO DOS REQUISITOS DO
+TEMA 106 DO STJ.
+APLICAÇÃO OBRIGATÓRIA DO
+TEMA 793 DO STF.
+PLEITO DE INTEGRAL REFORMA DA SENTENÇA, DE MODO A JULGAR TOTALMENTE IMPROCEDENTES OS PEDIDOS INICIAIS.
+(4) CONTRARRAZÕES DA PARTE AUTORA.
+NECESSIDADE DE MEDICAMENTO ESPECÍFICO RECEITADO PELO MÉDICO. DESNECESSIDADE DA REMESSA DOS AUTOS PARA O
+NAT
+. DESNECESSIDADE DE DIRECIONAMENTO AO ENTE PÚBLICO RESPONSÁVEL PELO CUMPRIMENTO. EM SÍNTESE, SEJA MANTIDA INCÓLUME A SENTENÇA DE PISO PROFERIDA.
+(5) MÉRITO RECURSAL.
+DIREITO À SAÚDE.
+
+DEVE SER DEFERIDO O FORNECIMENTO DE MEDICAMENTO NÃO INCORPORADO AO
+SUS
+APENAS QUANDO DEVIDAMENTE DEMONSTRADA SUA IMPRESCINDIBILIDADE,
+O QUE OCORRE NO CASO EM TELA. LAUDO MÉDICO (ID.: 7056923)
+QUE PRESCREVE OS FÁRMACOS INDICANDO QUE A PARTE RECORRIDA FEZ USO DAS OPÇÕES DOS MEDICAMENTOS OFERECIDAS PELO
+SUS
+, QUAIS SEJAM:
+FLUOXETINA, AMITRIPTILINA, CIANAZEPAM, DIAZEPAM,
+
+TODOS EM DOSE PLENA E SEM RESPOSTA.
+CONFORMIDADE COM A EXIGÊNCIA EXPOSTA PELO JULGAMENTO DO
+STJ
+QUE REDUNDOU NO
+TEMA 106
+.
+RESPONSABILIDADE SOLIDÁRIA DOS MUNICÍPIOS, ESTADOS E UNIÃO. O DIREITO À VIDA E À SAÚDE ESTÃO INTIMAMENTE LIGADOS AO PRINCÍPIO DA DIGNIDADE HUMANA, QUE É COMPROMISSO FUNDAMENTAL DO ESTADO BRASILEIRO (CF/88, ART. 1º, INCISO III). NÃO OBSTANTE, TRATANDO-SE DE MEDICAMENTO NÃO PADRONIZADO, AO PODER PÚBLICO SOMENTE DEVERÁ SER IMPOSTO A FORNECÊ-LO, SE RESTAR CATEGORICAMENTE DEMONSTRADA NOS AUTOS SUA INDISPENSABILIDADE, COMPROVANDO-SE A INEFICÁCIA NO TRATAMENTO COM AS ALTERNATIVAS TERAPÊUTICAS OFERTADAS PELA REDE PÚBLICA DE SAÚDE, AINDA MAIS QUANDO O PACIENTE SE ENCONTRAR ASSISTIDO POR MÉDICO PARTICULAR, COMO É O CASO VERTENTE. RESSALTE-SE, AINDA, QUE O(S) LAUDO(S) MÉDICO(S) ACOSTADO(S) AOS AUTOS, E OS DEMAIS DOCUMENTOS CARREADOS,
+FUNDAMENTARAM ADEQUADAMENTE
+O PORQUÊ DE SER IMPRESCINDÍVEL À PARTE RECORRIDA A CONTINUIDADE DO TRATAMENTO COM A UTILIZAÇÃO DE FÁRMACOS DIVERSOS DAQUELES DISPONIBILIZADOS PELO SISTEMA ÚNICO DE SAÚDE. COMPROVADA, A TEOR DO ART. 373, I, DO CPC, A EFETIVA NECESSIDADE DO TRATAMENTO A SER CONDUZIDO, COM A ADMINISTRAÇÃO DA MEDICAÇÃO PLEITEADA NA INICIAL.
+(6)
+
+RECURSO CONHECIDO E IMPROVIDO
+, PARA MANTER A SENTENÇA NOS SEUS TERMOS.
+(7)
+POR FORÇA DA SUCUMBÊNCIA RECURSAL, CONDENAÇÃO DO RECORRENTE AO PAGAMENTO DOS HONORÁRIOS ADVOCATÍCIOS, OS QUAIS FIXO NO IMPORTE DE
+R$ 2.000,00 (MIL REAIS)
+, NOS TERMOS DO
+ARTIGO 85, §8° DO CPC
+.
+
+É COMO VOTO.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
