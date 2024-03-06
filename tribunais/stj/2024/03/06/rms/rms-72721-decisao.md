@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto por JOSE FERREIRA DE SOUSA, com fundamento no art. 105, II, b, da Constituição Federal.
+Na origem, trata-se de mandado de segurança impetrado em 11/03/2022 contra ato ilegal atribuído ao Presidente da PBPrev - Paraíba Previdência que indeferiu o pedido administrativo de revisão das vantagens incorporadas em seus vencimentos de aposentadoria, para que fossem aplicados os mesmos índices aplicáveis a revisão geral, como fora feito no requerimento realizado pela pensionista, a Sra. Solange Coutinho da Silva.
+Deu-se, à causa, o valor da causa de R$ 323,68 (trezentos e vinte e três reais e sessenta e oito centavos).
+O TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA denegou a segurança pleiteada, ao considerar que não há provas da ilegalidade do ato imputado e do direito líquido e certo do impetrante, pois o impetrante ocupou cargo público distinto daquele apontado como paradigma, bem como aplicando-se, ainda, outra regra para cálculo de benefício, de naturezas diversas.
+O referido acórdão foi assim ementado, in verbis:
+PREVIDENCIÁRIO E PROCESSO CIVIL - Mandado de segurança - Servidor público estadual aposentado com direito à paridade e integralidade - Pretensão de reajustes suplementares, com base na revisão geral de benefícios - Descabimento- Inexistência de direito líquido e certo - Servidora apontada como paradigma que não se rege pelas mesmas regras do impetrante - Manutenção da sentença - Desprovimento.
+- Tendo ocupado o impetrante cargo público distinto daquele apontado como paradigma, bem como aplicando-se, ainda, outra regra para cálculo de seu benefício previdenciário, de naturezas diversas, é de se concluir que inexiste qualquer ilegalidade no pagamento realizado pela administração, levando-se em conta as circunstâncias diferentes para cada situação.
+- Com efeito, na ausência de qualquer ilegalidade e comprovação, de plano, do direito líquido e certo a ser protegido nesta via estreita do mandado de segurança, mostra-se necessária a denegação da ordem.
+A Recorrente alega, em síntese, que faz jus à aplicação dos reajustes às Vantagens Pessoais incorporadas aos proventos de aposentadoria.
+O Ministério Público Federal opina pelo desprovimento do recurso ordinário.
+É o relatório. Decido.
+O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Busca o Recorrente o direito a revisões gerais anuais às vantagens incorporadas no benefício do impetrante, conforme expresso no art. 191, § 2º, da Lei Complementar Estadual n. 58/2003, se fundamentando na necessidade de se garantir isonomia quanto às regras aplicadas à outra beneficiária, in casu, a pensionista Solange Coutinho da Silva.
+Quanto ao ponto, assim se manifestou a Corte a quo:
+Desse modo. infere-se que o impetrante iniciou o período de atividade em 01/06/1982. tendo se aposentado pela incidência das regras vigentes antes da Emenda Constitucional 41/2003. que garantiam o direito à integralidade e à paridade.
+Ocorre que o servidor faz referência à pensionista que não se submete às mesmas regras e circunstância do impetrante, sendo Solange Coutinho da Silva pensionista do servidor José Taurino da Silva, que era auditor fiscal em mercadoria em trânsito, e faleceu em 15/02/2008 (id 14892630 - Pág. 7 ).
+Com efeito, mostra-se descabida a pretensão, primeiro porque não inexiste a comprovação de incidência mesma regra para circunstâncias diversas entre os beneficiários, e. segundo, porque o impetrante não pode pretender duas formas de reajuste em seu benefício, que resultariam em valores superiores a qualquer referência ao longo dos anos. (fl. 154)
+Como se extrai dos autos, não há comprovação de plano de que o Impetrante e seu paradigma sejam submetidos à mesma regra de cálculo de aposentadoria, ou sequer que os servidores comparados possuiriam o mesmo cargo, de modo que se mostra inviável a análise da hipótese ante o princípio da isonomia, dado que é possível que para cada situação os proventos de inatividade podem ter sido calculados com base em diferentes circunstâncias, não sendo líquido e certo qualquer pretenso direito.
+Esta Corte possui entendimento consolidado segundo o qual a impetração de mandado de segurança pressupõe a existência de direito líquido e certo, comprovado mediante prova pré-constituída.
+Veja-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. PROCESSO ADMINISTRATIVO DISCIPLINAR. PENA DE DEMISSÃO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. VIA INADEQUADA. PRESCRIÇÃO DA PRETENSÃO ADMINISTRATIVA NÃO CONSUMADA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - Cuida-se de de mandado de segurança onde se pretende a concessão da ordem para anular penalidade de demissão aplicada a Servidor Público devido à suposta prática da infração prevista no art. 132, IV, da Lei n. 8.112/1990, mediante a Portaria n. 155, de 11.04.2019 e publicada no DOU de 12.04.2019.
+II - É firme o entendimento desta Corte de que o termo inicial do prazo prescricional do Processo Administrativo Disciplinar é a data do conhecimento inequívoco da infração pela autoridade competente para a instauração do PAD.
+III - O prazo prescricional, previsto no art. 142 da Lei n. 8.213/1991 não se inicia no momento em que qualquer servidor tenha conhecimento dos fatos, mas, sim, no momento em que a autoridade competente para a abertura do processo administrativo disciplinar toma ciência.
+IV - O conhecimento dos fatos pela autoridade coatora somente se perfectibilizou no momento do recebimento de denúncia anônima em 28.3.2011 (fl. 1.352e), sendo constituída a Comissão Processante em 17.03.2016.
+V - Nesse contexto, observo não assistir razão ao Impetrante, no que toca à suscitada prescrição da pretensão punitiva, quando ainda não ultrapassado o prazo prescricional de 5 anos, entre a ciência dos fatos e a instauração do processo administrativo disciplinar.
+VI - Esta Corte possui entendimento consolidado segundo o qual a impetração de mandado de segurança pressupõe a existência de direito líquido e certo, comprovado mediante prova pré-constituída.
+VIII - No caso, as provas juntadas são insuficientes para demonstrar a certeza do direito alegado, porquanto não comprovam ter a autoridade competente tomado ciência dos fatos em momento anterior à data de recebimento da denúncia anônima. Ademais, concluir em sentido diverso demandaria dilação probatória, o que não é possível em sede de mandado de segurança, no qual se exige prova documental pré-constituída. Precedentes.
+IX - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+X - Agravo interno não provido.
+(AgInt no MS n. 25.150/DF, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 20/6/2023, DJe de 22/6/2023.)
+Desse modo, não tendo comprovado de plano o buscado direito líquido e certo, não há como se reconhecer viabilidade nas pretensões da parte recorrente, não merecendo qualquer reparos o acórdão ora recorrido quanto ao ponto.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
