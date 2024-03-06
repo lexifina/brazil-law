@@ -1,0 +1,102 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5002457-68.2023.8.08.0048
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: MARIA DAS GRACAS REZENDE
+RECORRIDO: ESTADO DO ESPIRITO SANTO e outros
+RELATOR(A):
+FELIPE LEITAO GOMES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5002457-68.2023.8.08.0048
+Recorrente: MARIA DAS GRACAS REZENDE
+
+Recorridos: ESTADO DO ESPIRITO SANTO; MUNICÍPIO DE SERRA
+
+Relator: DR. FELIPE LEITÃO GOMES
+
+VOTO
+
+DR. FELIPE LEITÃO GOMES - RELATOR
+
+Recurso conhecido por preencher os pressupostos de admissibilidade
+.
+
+EMENTA:
+JUIZADO ESPECIAL DA FAZENDA PÚBLICA. CONSULTA COM OTORRINOLARINGOLOGISTA.
+
+(1)
+REQUERENTE AJUIZOU A DEMANDA PARA QUE SEJA DISPONIBILIZADA “
+consulta em oftalmologia com médico especialista em catarata, bem como a disponibilização do exame de ecocardiografia transtorácico” (sic),
+AO ARGUMENTO DE QUE
+“é idosa e possui quadro de catarata complicada (CID 10 - H262) e glaucoma (CID 10 – F93”
+(sic).
+(2)
+TUTELA DE URGÊNCIA PARCIALMENTE DEFERIDA
+,
+PELA QUAL FOI DETERMINADA QUE AMBOS REQUERIDOS MARQUEM A CONSULTA COM MÉDICO OFTALMOLOGISTA ESPECIALISTA EM CATARATA PARA QUE, APÓS AVALIAÇÃO ESPECIALIZADA, PROCEDA À REALIZAÇÃO DO PROCEDIMENTO INDICADO PARA A CORREÇÃO DA PATOLOGIA APRESENTADA.
+(3) DISPOSITIVO DA SENTENÇA.
+
+“[...]
+EM FACE DO EXPOSTO: I – Com relação ao EXAME DE ECOCARDIOGRAFIA TRANSTORÁCICA, JULGO EXTINTO O PROCESSO SEM RESOLUÇÃO DO MÉRITO, nos termos do artigo 485, inciso VI, do Novo Código de Processo Civil. II – No tocante ao pedido de fornecimento de “tratamento necessário para solucionar o problema de saúde apresentado” (sic), JULGO EXTINTO O PROCESSO SEM RESOLUÇÃO DO MÉRITO, nos termos do artigo 485, inciso X do Novo Código de Processo Civil. III – Ratifico a Decisão proferida liminarmente no ID 21517322 e JULGO PARCIALMENTE PROCEDENTE o pedido contido na Inicial para CONDENAR o ESTADO DO ESPÍRITO SANTO e o MUNICÍPIO DE SERRA a providenciarem o agendamento de consulta com MÉDICO OFTALMOLOGISTA ESPECIALISTA EM CATARATA, para que, após avaliação especializada, proceda à realização do procedimento indicado para a correção da patologia apresentada pela demandante MARIA DAS GRAÇAS REZENDE, e, via de consequência, resolvo o mérito nos termos do artigo 487, inciso I, do Novo Código de Processo Civil. Deixo de condenar os requeridos em honorários de sucumbência nos termos do artigo 55 da Lei 9.099/95. Não há remessa necessária, a teor do que preceitua o artigo 11 da Lei nº 12.153/09. Comprovado o cumprimento da presente Sentença e nada mais sendo requerido, arquivem-se os presentes autos com as cautelas de estilo. P.R.I.C.
+[...]”. (4) RECURSO INOMINADO INTERPOSTO PELA PARTE AUTORA.
+A RECORRENTE PUGNA PELA REFORMA DO JULGADO NO QUE TANGE À EXTINÇÃO DO PROCESSO QUANTO AO PEDIDO DE FORNECIMENTO DE “
+EXAME DE ECOCARDIOGRAFIA TRANSTORÁCICA
+”, PELO QUE AFIRMA QUE O PROCEDIMENTO NÃO FOI REALIZADO. ADUZ AINDA QUE O SIMPLES “
+AGENDAMENTO
+” DO PROCEDIMENTO NÃO CONFIRMA A OCORRÊNCIA DO MESMO. REQUER PELA REFORMA DO
+DECISUM,
+DE MODO A COMPELIR O ENTE E PÚBLICO RECORRIDO A FORNECER IMEDIATAMENTE O EXAME DE ECOCARDIOGRAFIA TRANSTORÁCICA.
+(5) CONTRARRAZÕES DO ESTADO DO ESPÍRITO SANTO.
+O ENTE FEDERATIVO PUGNA PELA MANUTENÇÃO DA EXTINÇÃO DO FEITO NO QUE TANGE AO FORNECIMENTO DA CONSULTA PLEITEADA, TENDO EM VISTA A AUSÊNCIA DA NEGATIVA DO FORNECIMENTO DO MESMO, TENDO HAVIDO TÃO E SOMENTE O AGENDAMENTO DO PROCEDIMENTO, TAL QUAL ENCONTRA-SE DENTRO DAS EXIGÊNCIAS DA ADMINISTRAÇÃO PÚBLICA. IMPOSSIBILIDADE DE CUMPRIMENTO DO PEDIDO INTERPOSTO EM SEDE DE RECURSO, A FIM DE SE EVITAR A BURLA À FILA DO
+SUS
+, BEM COMO A VIOLAÇÃO AO PRINCÍPIO DA IGUALDADE.
+(5.1) CONTRARRAZÕES DO MUNICÍPIO DE SERRA.
+ANTE A AUSÊNCIA DE COMPROVAÇÃO DA NEGATIVA NO QUE TANGE À REALIZAÇÃO DO EXAME PLEITEADO, REQUER SEJA MANTIDA INALTERADA A SENTENÇA PROFERIDA.
+(6) DO MÉRITO.
+SAÚDE. LIDE QUE TRATA DO PLEITO DE FORNECIMENTO DE
+EXAME DE ECOCARDIOGRAFIA TRANSTORÁCICA
+TAL QUAL NEGADO EM PRIMEIRA INSTÂNCIA SOB O ARGUMENTO DE AUSÊNCIA DE INTERESSE PROCESSUAL, TENDO EM VISTA O EFETIVO AGENDAMENTO PARA A REALIZAÇÃO DO PROCEDIMENTO. EM CONTRAPARTIDA A AUTORA ADUZ A URGÊNCIA NO PROCEDIMENTO E A NÃO REALIZAÇÃO DA CONSULTA PLEITEADA.
+POIS BEM.
+DIANTE DO OBJETO DA DEMANDA, ENTENDI POR REVER OS ELEMENTOS DE PROVA PRESENTES NOS AUTOS E CONSTATEI QUE, ANTE A AUSÊNCIA DE PARECER DO
+NAT
+, BEM COMO DA NÃO COMPROVAÇÃO POR PARTE DO REQUERIDO ACERCA DA REALIZAÇÃO DO PROCEDIMENTO,
+
+BASEEI-ME NA GUIA DE ENCAMINHAMENTO LAVRADA PELA UNIDADE DE SAÚDE QUE ATENDEU A REQUERENTE, NA QUAL CONSTA QUE A CLASSIFICAÇÃO DE RISCO FOI DADA COMO
+“URGENTE”
+(ID.:6794522)
+.
+ASSIM, PUDE CONSTATAR QUE O QUADRO COMPATÍVEL COM O DA RECORRIDA, POR SI SÓ, FOI CONSIDERADO DE URGÊNCIA E EMERGÊNCIA, JUSTIFICANDO A ANTECIPAÇÃO DO EXAME DE
+ECOCARDIOGRAFIA TRANSTORÁCICA.
+POSTO ISTO, ENTENDO PELA REFORMA DO
+DECISUM,
+A FIM DE DAR PROVIMENTO AO RECURSO OPOSTO PELA DEMANDANTE, DE MODO A DETERMINAR QUE A PARTE RECORRIDA ESTADO DO ESPÍRITO SANTO PROVIDENCIE A DISPONIBILIZAÇÃO DO EXAME DE
+ECOCARDIOGRAFIA TRANSTORÁCICA
+À RECORRENTE.
+(7) RECURSO CONHECIDO E PROVIDO.
+(8) REFORMA PARCIAL DA SENTENÇA, A FIM DE DETERMINAR QUE A PARTE REQUERIDA ESTADO DO ESPÍRITO SANTO REALIZE O EXAME DE ECOCARDIOGRAFIA TRANSTORÁCICA, NO PRAZO DE 10 DIAS, CONFORME FUNDAMENTAÇÃO SUPRA.
+(9).
+SEM CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS, POR FORÇA LEGAL.
+
+É COMO VOTO.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
