@@ -1,0 +1,21 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de fls. 121-122 (e-STJ).
+Decido.
+A Corte local assim fundamentou a controvérsia (e-STJ fls. 114-115):
+No que tange à prisão preventiva, os indícios nestes autos reproduzidos autorizam e respaldam a persecução criminal, estando presentes, ademais, os requisitos objetivos e de cautelaridade delineados nos artigos 312 e 313 do Código de Processo Penal.
+Não se depara com decisão teratológica, porquanto a conversão da prisão em flagrante em custódia preventiva está devidamente fundamentada, alicerçada em indícios suficientes de autoria e prova da existência do crime de tráfico de drogas ("fumus comissi delicti") e em elementos concretos constantes dos autos, nos termos dos artigos 315 do Código de Processo Penal e 93, inciso IX, da Constituição Federal (págs. 81/87).
+Cabe realçar que o paciente é reincidente específico, além de que possui outras condenações e figura como indiciado em outro inquérito policial também relativo ao crime de tráfico de drogas (págs. 76/79), detalhes reveladores do "periculum libertatis", mostrando-se insuficientes, pois, frente à grave conduta criminosa em tese perpetrada e persistência delitiva, quaisquer das medidas cautelares diversas da prisão.
+Dessa forma, a custódia cautelar está suficientemente motivada na situação de perigo ocasionado à ordem pública, sendo a reiteração delitiva fundamento amplamente aceito para a decretação da prisão preventiva com vistas a garantir a cessação de novas atividades criminosas, acautelando-se a sociedade de ulteriores riscos, com prováveis ofensas a outros bens jurídicos.
+O crime de tráfico de drogas não possui violência ou grave ameaça à pessoa e a quantidade de drogas apreendidas  "uma porção de cocaína, com peso líquido de 5,06 gramas, e a substância popularmente conhecida como crack (sob a forma de cocaína), em 19 pedras, com peso líquido de 2,95 gramas" (e-STJ fl. 129)  não justifica a manutenção da prisão preventiva. Com efeito, não restou demonstrado o perigo concreto que a liberdade do paciente poderia causar à ordem pública, à ordem econômica, à instrução criminal ou à aplicação da lei penal, nos termos do art. 312 do CPP.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE ENTORPECENTES. AGRAVO MINISTERIAL. PRISÃO PREVENTIVA. DESPROPORCIONALIDADE. PEQUENA QUANTIDADE DE DROGAS. MEDIDAS CAUTELARES DIVERSAS. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. A regra de progressividade das cautelares de natureza pessoal - prescrita nos §§ 4º e 6º do art. 282 do CPP - impõe que o magistrado avalie todas as possibilidades a fim de evitar a cautela extrema, porquanto se reveste de gravidade extraordinária, a ser aplicada somente nos casos em que o agente demonstra periculosidade exacerbada à ordem pública ou ao regular andamento do processo penal.
+3. No caso, a despeito de o agente ser reincidente específico por delito de tráfico de drogas, ele foi flagrado no presente feito com somente 48g (quarenta e oito gramas) de cocaína, circunstâncias que justificam, tão somente, a imposição de medidas cautelares alternativas, revelando-se a prisão, in casu, medida desproporcional.
+4. Agravo regimental desprovido.
+(AgRg no RHC n. 142.079/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/4/2021, DJe de 30/4/2021 - grifo acrescido).
+Ante o exposto, concedo a ordem de habeas corpus para revogar a prisão preventiva, ficando o Juízo singular autorizado a fixar as medidas cautelares diversas da prisão que entender necessárias, nos termos dos arts. 282 e 319 do Código de Processo Penal.
+O paciente deverá ser imediatamente posto em liberdade, salvo se outro motivo justificar sua prisão.
+Comunique-se com urgência o Tribunal de origem e o Juízo singular.
+Publique-se. Intimem-se.
+EMENTA
