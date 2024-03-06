@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 17):
+HABEAS CORPUS - ROUBO MAJORADO - ALTERAÇÃO DO REGIME DA CUSTÓDIA CAUTELAR PARA O DOMICILIAR - PLEITO NÃO APRESENTADO AO JUÍZO SINGULAR - SUPRESSÃO DE INSTÂNCIA - REVOGAÇÃO DA PRISÃO PREVENTIVA - IMPOSSIBILIDADE - IMPOSIÇÃO DE MEDIDAS CAUTELARES DIVERSAS - INADEQUAÇÃO - CONDIÇÕES PESSOAIS FAVORÁVEIS - INSUFICIÊNCIA - CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. Se o pedido de substituição do regime da prisão preventiva para o domiciliar não foi apresentado à autoridade apontada como coatora, inexistindo pronunciamento desta quanto à matéria, torna-se inviável seu conhecimento por este Tribunal de Justiça, sob pena de indevida supressão de instância. Presentes os pressupostos e requisitos constantes nos artigos 312 e 313 do Código de Processo Penal, não há que se falar em revogação da prisão preventiva, uma vez que esta se revela indispensável para a garantia da ordem pública, e a decisão que a impôs encontra-se devidamente fundamentada. As condições pessoais favoráveis do paciente, por si sós, não têm o condão de afastar a necessidade da prisão preventiva. A fixação de medidas insertas no artigo 319 do Código de Processo Penal é insuficiente para a efetiva garantia da ordem pública, quando devidamente demonstrada a necessidade da constrição cautelar.
+Consta dos autos que o paciente foi preso em flagrante, convertido em preventiva, como incurso no art. 157, § 2º, II, do CP.
+Inconformada, a defesa impetrou prévio writ perante a Corte de origem, que denegou a ordem.
+Sustenta, em síntese, constrangimento ilegal, ao argumento de que a decisão que converteu a prisão em flagrante em preventiva carece de fundamentação idônea, não estando presentes os requisitos previstos no art. 312 do CPP, invocando, ainda, os predicados pessoais favoráveis do paciente.
+Requer, liminarmente, seja suspenso "o andamento da ação penal, e concessão de LIBERDADE PROVISÓRIA, cumulada à MONITORAÇÃO ELETRÔNICO" (fl. 16) e, no mérito, "seja confirmada a ordem, para declarar a NULIDADE DA DECISÃO QUE MANTEVE A PRISÃO PREVENTIVA, por ausência de fundamentação idônea, e subsidiariamente, a concessão definitiva de LIBERDADE PROVISÓRIA CUMULADA COM APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO" (fl. 16).
+É o relatório.
+DECIDO.
+Na hipótese, a defesa não colacionou aos autos a cópia do decreto prisional, de forma que a ausência de peça essencial ao deslinde da controvérsia impede o exame da tese de falta de fundamentação para a custódia cautelar. A propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. PROVA PRÉ-CONSTITUÍDA. NECESSIDADE. AUSÊNCIA DE PEÇA ESSENCIAL. INCOMPATIBILIDADE DO REGIME SEMIABERTO COM A PRISÃO PREVENTIVA.
+1. "O rito do habeas corpus demanda prova documental pré-constituída do direito alegado pelo impetrante. Constatado que a peça inicial veio desacompanhada de documentação indispensável para o deslinde da controvérsia, no caso, a cópia do decreto prisional, não é possível analisar as alegações" (AgRg no RHC n. 154.348/CE, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 16/11/2021, DJe de 19/11/2021).
+2. Consoante a jurisprudência deste Superior Tribunal, "a insurgência acerca da incompatibilidade do regime imposto na condenação e o cumprimento da prisão preventiva deve ser sanada após a expedição de guia de execução provisória da pena, pelo Juízo das Execuções" (AgRg no RHC n. 167.060/SC, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 18/10/2022, DJe de 21/10/2022).
+3. Agravo regimental improvido.
+(AgRg no RHC n. 172.829/BA, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. CÓPIA DO DECRETO PRISIONAL ILEGÍVEL. IMPOSSIBILIDADE DE APRECIAÇÃO DO PEDIDO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O pedido de revogação da prisão preventiva se torna inviável de apreciação, pois constata-se que o writ está deficientemente instruído em razão da cópia que decretou a prisão preventiva encontrar-se ilegível, documento essencial ao exame da controvérsia e da plausibilidade do pedido. Precedentes.
+2. Agravo regimental desprovido.
+(AgRg no AgRg no HC n. 554.931/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/3/2020, DJe de 13/3/2020.)
+Ante o exposto, não conheço do writ.
+Publique-se.
+Intimem-se.
+ EMENTA
