@@ -1,0 +1,18 @@
+DECISÃO
+O paciente alega sofrer coação ilegal em face de acórdão do Tribunal a quo. Autuado por furto simples, busca a revogação de sua prisão preventiva, sob a alegação de que não existem motivos idôneos para a medida, porquanto é tecnicamente primário.
+O Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+O paciente foi preso em flagrante, em 9/1/2024, "por suposta prática do delito tipificado no art. 155, caput, do CP" (fl. 65). Nesse panorama, é de rigor a concessão da ordem, pois patente a ilegalidade do édito prisional, por ausência de pressuposto legal para a decretação preventiva.
+O Juiz de primeiro grau consignou:
+Trata-se de prisão em flagrante do investigado  .. , por suposta prática do delito tipificado no artigo 155, caput, do Código Penal.
+ ..
+ ..  para além da evidência de que o investigado é dependente químico e incorre em subtrações de ordem patrimonial para sustento de seu vício, trata-se de indivíduo que estava em pleno gozo de liberdade provisória.
+Como se observa, o apontado autor já havia sido preso há menos de 04 (quatro) meses, em setembro de 2023, por furto qualificado, figurando como réu nos autos da ação penal de nº. 0015247-44.2023.8.13.0271. Embora tenha sido beneficiado com a liberdade provisória pelo Tribunal de Justiça de Minas Gerais nos autos do de nº Habeas Corpus1.0000.23.259153-7/000, parece claro que não reúne condições de responder ao processo em liberdade, na medida em que voltou a delinquir pouco tempo após a implementação do benefício, novamente por crime de furto.
+Em que pese a fundamentação exarada, o crime de furto simples é apenado com reclusão de um a quatro anos e multa, o que impossibilita a decretação da medida extrema, pois não se amolda ao pressuposto elencado no art. 313, inciso I, do Código de Processo Penal. Não existe, na decisão de primeiro grau, referência a conduta mais grave ou a outra condenação por crime doloso, transitada em julgado.
+Aplica-se ao caso o entendimento de que a "prisão preventiva, haja vista a pena em abstrato prevista para o crime que é imputado ao paciente, não atende aos pressupostos insertos no art. 313, I, do Código de Processo Penal, segundo o qual é admitida a sua decretação "nos crimes dolosos punidos com pena privativa de liberdade máxima superior a 4 anos"  .. . Assim, mostra-se indevida a prisão decretada, pois inobservado o pressuposto constante no art. 313, I, do Código de Processo Penal" (HC n. 584.060/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/8/2020, DJe de 26/8/2020, destaquei).
+Como o Juiz de primeiro grau contextualizou o perigo que a liberdade plena do acusado representa para a ordem pública (contumácia delitiva revelada por ação penal em andamento e prática de novo crime durante liberdade provisória), é de rigor a aplicação de medidas cautelares do art. 319 do CPP, as quais também estão justificadas ante a periculosidade social do paciente e a necessidade de evitar a prática de infrações penais.
+A monitoração eletrônica, em juízo de proporcionalidade, é adequada ao caso, pois a recalcitrância do réu é incomum, o que demanda intervenção cautelar mais severa.
+À vista do exposto, concedo o habeas corpus para fixar ao réu as medidas cautelares de comparecimento periódico em juízo, no prazo e nas condições a serem fixadas pelo Juiz, para informar e justificar atividade, além de monitoração eletrônica, se houver equipamento na Comarca.
+O Juiz da causa poderá fixar, em acréscimo, outras cautelares que considerar pertinentes ao caso concreto, e revisar as fixadas por esta Corte, pois não preclui seu poder de cautela e de determinar medidas que se revelarem adequadas para assegurar a utilidade e os fins do processo.
+Publique-se e intimem-se.
+EMENTA
