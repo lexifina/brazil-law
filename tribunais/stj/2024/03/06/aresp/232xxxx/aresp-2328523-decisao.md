@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo interposto por VIBRA ENERGIA S.A. contra decisão que não admitiu seu recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, por sua vez manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS nos termos da seguinte ementa (fls. 412-413):
+EMENTA: AGRAVO DE INSTRUMENTO. EXECUÇÃO EXTRAJUDICIAL. IMÓVEL DADO EM GARANTIA POR HIPOTECA. PEDIDO DE EXPEDIÇÃO DE TERMO DE PENHORA. DEFERIMENTO DE MANDADO DE AVALIAÇÃO E PENHORA. APERFEIÇOAMENTO COM APREENSÃO E DEPÓSITO. CUMPRIMENTO DA LEGISLAÇÃO. AGRAVO IMPROVIDO.
+I - Consoante art. 839 do CPC, a penhora será aperfeiçoada mediante a apreensão e depósito dos bens. Assim, para a efetivação da penhora é necessária a diligência determinada pelo juízo de origem, momento em que o Oficial de justiça já irá avaliar o bem e colocar aos cuidados de um depositário - o que privilegia o princípio da eficiência processual.
+II - Ressalta-se que a averbação da penhora no registro de imóveis, atitude que seria prioritariamente tomada pelo agravante, não é essencial ao aperfeiçoamento da penhora, mas somente gera efeitos perante terceiros.
+III  Agravo de Instrumento conhecido desprovido.
+Acolhidos os embargos de declaração opostos, sem efeitos modificativos, cuja ementa transcrevo (fl. 440):
+EMENTA: PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO RECONHECIDA. DECISÃO EXTRA PETITA. PROCEDIMENTO PREVISTO NO ART. 836 DO CPC. ARGUMENTO AFASTADO. EMBARGOS ACOLHIDOS SEM EFEITOS INFRINGENTES.
+I - Assiste razão ao embargante, quanto à omissão no acórdão, pois o ponto foi suscitado no agravo, e não fora explicitamente afastado, motivo pelo qual passa a ser analisado.
+II - O argumento de que a decisão agravada é extra petita não merece prosperar, pois o magistrado de origem seguiu o procedimento legalmente previsto, notadamente o do art. 839 do CPC, para a efetivação da penhora - objetivo do agravante/exequente.
+III - Embargos de Declaração acolhidos sem efeitos modificativos.
+Nas razões do recurso especial (fls. 447-460), aponta a parte recorrente ofensa ao disposto nos arts. 838 e 845, § 1º, do Código de Processo Civil, sustentando que a confecção do termo de penhora nos autos tornaria a execução mais célere e benéfica ao exequente, atendendo ao princípio da efetividade. Ademais, afirma que a decisão interlocutória é extra petita, pois deferiu pedido diverso do formulado.
+Oferecidas contrarrazões (fls. 471-483), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 484-485), o que ensejou a interposição do presente agravo (fls. 488-496).
+Apresentadas contraminutas do agravo (fls. 499-504).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+Quanto à alegação de decisão extra petita, a parte recorrente deixou de indicar os dispositivos legais que teriam sido violados.
+Ressalta-se que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional. Aplicável, em consequência e por analogia, o óbice da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: AgInt no AREsp n. 2.305.353/GO, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 4/9/2023, DJe de 6/9/2023; AgInt no AREsp n. 2.294.581/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/6/2023, DJe de 28/6/2023; AgInt no AREsp n. 1.589.048/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/5/2023, DJe de 24/5/2023; AgInt no AgInt no AREsp n. 2.210.235/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/5/2023, DJe de 17/5/2023.
+Quanto aos arts. 838 e 845, § 1º, do Código de Processo Civil, a parte recorrente alega sua violação, sem, no entanto, apresentar argumentação lógico-jurídica pertinente à demonstração de como teria ela ocorrido.
+O não atendimento deste requisito, a fim de demonstrar o acerto de sua tese, configura fundamentação deficiente e não permite a compreensão da exata controvérsia a ser dirimida. Isso porque o recurso especial, sob a baliza da alínea a do permissivo constitucional, objetiva solver discussão quanto à contrariedade ou negativa de vigência perpetrada pelo Tribunal de origem à legislação ou tratado federal em sua aplicação ao caso concreto.
+Desse modo, incide, por analogia, a Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: AgInt no AREsp n. 1.327.879/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/6/2023, DJe de 30/6/2023; AgInt no AREsp n. 2.278.439/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 22/5/2023, DJe de 25/5/2023; AgInt no AgInt no AREsp n. 2.210.235/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/5/2023, DJe de 17/5/2023; AgInt no REsp n. 1.696.025/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 8/5/2023, DJe de 15/5/2023.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Caso existam nos autos honorários advocatícios fixados pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça, suspendendo-se, nesse caso, a exigibilidade dos honorários.
+Publique-se. Intimem-se.
+EMENTA
