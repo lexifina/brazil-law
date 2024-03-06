@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JONATHA SILVA ALVES SANTOS e MAYCON ANTONIO DA SILVA SANTOS, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE.
+Depreende-se dos autos que os pacientes se encontram presos preventivamente pela suposta prática do crime de tráfico de drogas, foram apreendidos:
+"440 g de maconha, revólver calibre .32Rossi, 78 trouxinhas de maconha enroladas em papel filme, 2balanças de precisão, revolver calibre .32 Taurus, 38 pedrinhas decrack enroladas em papel manteiga, 5 munições calibre .32, 3intactas e 2 picotadas, 2 pedras de crack com total de 57g, dentre outros tantos celulares e uma moto Honda CG 150cc" - fl. 102
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva pois "porque além da quantidade e variedade de entorpecentes, foram apreendidas armas de fogo" - fl. 106 e denegou a ordem, em acórdão de fls. 97-108.
+Neste writ, alega a defesa, em linhas gerais, a ausência dos requisitos ensejadores da prisão preventiva, defendendo que os pacientes ostentam condições pessoais favoráveis, ponderando a possibilidade da aplicação de medidas cautelares diversas da prisão.
+Aduz ingresso ilícito dos policiais na residência e abordagem injustificada dos policiais, baseada em denúncia anônima.
+Requer a revogação das prisões preventivas ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+A liminar foi indeferida às fls. 118-119.
+As informações foram prestadas às fls.127-153 e 155-159. O Ministério Público Federal, às fls. 161-166, manifestou em parecer que restou assim ementado:
+"HABEAS CORPUS SUBSTITUTIVO. NÃO CABIMENTO. TRÁFICO DE DROGAS. QUANTIDADE DA DROGA. 440 G DE MACONHA. 57 G DE CRACK. REVOLVER CALIBRE 32 ROSSI E TAURUS. MUNIÇÕES. 2 BALANÇAS DE PRECISÃO. PERICULOSIDADE CONCRETA. ORDEM PÚBLICA. PREVENTIVA. FUNDAMENTACAO IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO. PELA DENEGACAO DA ORDEM" - fl. 161.
+É o relatório. DECIDO.
+Primeiramente, quanto as alegações acerca de ingresso ilícito dos policiais na residência e abordagem injustificada dos policiais, baseada em denúncia anônima, verifica-se que o Tribunal de origem não se manifestou sobre as matérias, circunstância que impede qualquer manifestação desta Corte Superior de Justiça sobre os tópicos, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.
+Sobre o tema, os seguintes precedentes:(AgRg no HC n. 851.663/SP, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, DJe de 27/10/2023); (AgRg no HC n. 842.500/RO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 27/10/2023); (AgRg no HC n. 836.856/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 27/10/2023.)(AgRg no RHC n. 167.227/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 12/12/2022, DJe de 14/12/2022), (AgRg no RHC n. 167.215/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/12/2022, DJe de 15/12/2022).
+No que tange às prisões preventivas, conforme informações obtidas no sítio do Tribunal de origem (www.tjse.jus.br), sobreveio sentença que julgou parcialmente procedente o pedido formulado na denúncia para CONDENAR MAYCON ANTÔNIO DA SILVA SANTOS nas sanções do art. 33, caput, da Lei nº 11.343/2006, à pena 01 (um) ano e 08 (oito) meses de reclusão,bem como para ABSOLVER MAYCON ANTÔNIO DA SILVA SANTOS e JONATHA SILVA ALVES SANTOS quanto às demais imputações constantes na denúncia, com fundamento no artigo 386, V, do Código de Processo Penal. Foi revogada a Prisão Preventiva de MAYCON ANTÔNIO DA SILVA SANTOS e deferido o direito de apelar em liberdade.
+Nesse contexto, verifico que o presente writ perdeu o objeto, uma vez que já atendida a pretensão nele requerida.
+Ante o exposto não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
