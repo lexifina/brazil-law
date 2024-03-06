@@ -1,0 +1,97 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5022792-11.2023.8.08.0048
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.
+RECORRIDO: EDINEI OLIVEIRA DE AZEVEDO
+RELATOR(A):
+FELIPE LEITAO GOMES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos nº 5022792-11.2023.8.08.0048
+
+Recorrente: EDP ESPÍRITO SANTO DISTRIBUIÇÃO DE ENERGIA S.A.
+
+Recorrida: EDINEI OLIVEIRA DE AZEVEDO
+
+Relator:
+DR.
+FELIPE LEITÃO GOMES
+
+VOTO
+
+RELATOR: DR.
+FELIPE LEITÃO GOMES
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA/VOTO: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. DIREITO DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. (1). TESE AUTORAL.
+ALEGA A PARTE AUTORA TER CONSTATADO NEGATIVAÇÃO PROMOVIDA PELA RÉ EM RELAÇÃO A INSTALAÇÃO QUE AFIRMA NÃO SER DE SUA TITULARIDADE, POIS NUNCA RESIDIU NO ENDEREÇO INDICADO NA FATURA QUE GEROU A COBRANÇA, PELO QUE POSTULA DECLARAÇÃO DE INEXIGIBILIDADE DE DÉBITO, OBRIGAÇÃO DE BAIXAR A NEGATIVAÇÃO E INDENIZAÇÃO POR DANOS MORAIS.
+(2). ANTÍTESE.
+A TESE DE DEFESA DA REQUERIDA CONSUBSTANCIA-SE NA AUSÊNCIA DE ATO ILÍCITO INDENIZÁVEL, UMA VEZ QUE A INSTALAÇÃO ENCONTRA-SE VINCULADA AO NOME DO REQUERENTE, TORNANDO-O RESPONSÁVEL PELO ADIMPLEMENTO DO DÉBITO, DE SORTE QUE A NEGATIVAÇÃO, CONSTITUI EXERCÍCIO REGULAR DE UM DIREITO, PELO QUE REQUER A IMPROCEDÊNCIA DOS PEDIDOS.
+(3). DISPOSITIVO DA SENTENÇA.
+“Ante o exposto,
+JULGAM-SE PARCIALMENTE PROCEDENTES
+os pedidos, resolvendo-se o mérito, nos termos do artigo 487, I do CPC, para o fim de: a)
+DECLARAR
+a inexistência de relação jurídica entre o autor e a instalação n.º 1088937 e, por conseguinte, DECLARAR a inexigibilidade do débito descrito na fatura de id. 30986893, impondo-se à ré o dever de cancelar o contrato, o débito e a dívida em até 30 (trinta) dias corridos, sob pena de multa de R$100,00 (cem reais) por cobrança efetuada ou por dia de negativação, até o limite de R$3.000,00 (três mil reais). b) CONFIRMAR a tutela de urgência, determinando-se à requerida que proceda a baixa definitiva do nome do autor dos cadastros de inadimplentes; c) CONDENAR a requerida a pagar ao autor indenização por dano moral no valor de R$5.000,00 (cinco mil reais), com juros de mora a partir da negativação (ato ilícito) e correção monetária a partir do arbitramento.”
+(4). RECURSO DA PARTE RÉ.
+PUGNA, EM EPÍTOME, PELA REFORMA INTEGRAL DO ATO SENTENCIAL OBJURGADO, JULGANDO-SE, POR CONSEGUINTE, IMPROCEDENTE OS PEDIDOS AUTORAIS. SUBSIDIARIAMENTE, POSTULA PELA REDUÇÃO DO
+QUANTUM
+INDENIZATÓRIO ARBITRADO A TÍTULO DE DANOS MORAIS. CASO MANTIDA A CONDENAÇÃO EM DANOS MORAIS, QUE OS JUROS SEJAM A PARTIR DO ARBITRAMENTO
+(5). CONTRARRAZÕES DA PARTE AUTORA.
+PRELIMINARMENTE, POSTULA PELO NÃO CONHECIMENTO DO RECURSO INTERPOSTO PELA PARTE AUTORA, POR FORÇA DE OFENSA AO PRINCÍPIO DA DIALETICIDADE RECURSAL,
+
+EM RAZÃO DE NÃO IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA SENTENÇA. NO MÉRITO, REQUER SEJA NEGADO PROVIMENTO AO RECURSO INOMINADO.
+(5). DA QUESTÃO PROCESSUAL.
+QUANTO À PRELIMINAR ARGUIDA, DEIXO DE ANALISÁ-LA POR VISLUMBRAR A POSSIBILIDADE DE PROFERIR DECISÃO DE MÉRITO EM FAVOR DA PARTE RECORRIDA, ORA AUTOR, NA FORMA DO ART. 488 DO CPC.
+
+(6). DO MÉRITO.
+INSCRIÇÃO INDEVIDA NA BASE CADASTRAL DOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO. REQUERIDA QUE NÃO SE DESINCUMBIU DE DEMONSTRAR FATO
+IMPEDITIVO, MODIFICATIVO OU EXTINTIVO DO DIREITO AUTORAL. INTELIGÊNCIA DO ARTIGO 373, INCISO II, DO CPC.
+NÃO HÁ ELEMENTOS SUFICIENTES NO CADERNO PROCESSUAL QUE DEMONSTREM A EXISTÊNCIA E REGULARIDADE DAS SUPOSTAS COBRANÇAS IMPUTADAS À PARTE AUTORA.
+
+AUSÊNCIA DE COMPROVAÇÃO PELA RECORRENTE DA LEGALIDADE DA CONTRATAÇÃO ENSEJADORA DA NEGATIVAÇÃO.
+FALHA NA PRESTAÇÃO DO SERVIÇO CONFIGURADA. RESPONSABILIDADE OBJETIVA DA RECORRENTE. RISCO DA ATIVIDADE. DECLARAÇÃO DE INEXISTÊNCIA DO DÉBITO CORRETAMENTE APLICADA PELO JUÍZO
+A QUO
+. INAPLICABILIDADE DAS EXCLUDENTES PREVISTAS NO ART. 14, § 3º, INCISOS I E II, DO CDC, UMA VEZ QUE É NÍTIDA O NEXO DE CAUSALIDADE ENTRE A CONDUTA DA CONCESSIONÁRIA RECORRENTE E O DANO SOFRIDO PELO RECORRIDO, EM RAZÃO DA INSERÇÃO DO NOME/CPF DESTE NO ROL DE MAU PAGADORES - OBJETO DA LIDE. DANO MORAL
+IN RE IPSA
+. COM ISSO, COMPROVADA A ILEGALIDADE DA NEGATIVAÇÃO DOS DADOS DA AUTORA, CORRETA A FIXAÇÃO DE DANOS MORAIS ESTABELECIDA NA SENTENÇA, CUJO VALOR ESTÁ EM SINTONIA COM OS PRECEDENTES DESTA TURMA RECURSAL.
+(7).
+RECURSO CONHECIDO E IMPROVIDO.
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI 9.099/95.
+(8). CONDENO A PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS DE ADVOGADO, ESTES FIXADOS EM 20% (VINTE POR CENTO) DO VALOR DA CONDENAÇÃO.
+
+SALÉZIA TEIXEIRA DOS SANTOS
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+FELIPE LEITÃO GOMES
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
