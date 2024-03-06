@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ERISSON AMARAL BEGOSSI contra decisão de liminar de Des. do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA nos autos do Habeas Corpus n. 5008531-10.2024.8.24.0000/SC.
+Consta dos autos que o paciente foi condenado às penas de 6 anos e 3 meses de reclusão e de 15 dias de detenção, em regime inicial semiaberto, além do pagamento de 635 dias-multa, pela prática dos delitos tipificados no art. 33, caput, da Lei n. 11.343/2006 e no art. 330 do Código Penal.
+Irresignada, a defesa impetrou habeas corpus perante a Corte local, que indeferiu o pedido de liminar.
+No presente writ, a defesa sustenta que o acórdão impugnado padece de flagrante ilegalidade, consistente na ausência de prévia intimação do apenado para o cumprimento da pena, desrespeitando a Resolução n. 474/2022 do Conselho Nacional de Justiça (CNJ).
+Requer, inclusive liminarmente, ultrapassando a Súmula n. 691, STF, "que seja expedido o alvará de soltura mediante o relaxamento da prisão efetuada ILEGALMENTE, visto que em plena CONTRARIEDADE a Resolução N. 474, de 9/9/2022, do Conselho Nacional de Justiça, houve modificação do art. 23 da Resolução 417 do CNJ, que passou a ter a seguinte redação: "Art. 23. Transitada em julgado a condenação ao cumprimento de pena em regime semiaberto ou aberto, a pessoa condenada será intimada para dar início ao cumprimento da pena, previamente à expedição de mandado de prisão", a fim de que seja cancelado o mandado de prisão nº 310054957754, expedido pelo juízo da instrução processual da ação penal originária nº 5014770-78.2022.8.24.0039/SC, da 1ª Vara Criminal da comarca de Lages/SC, pugnando para que a concessão da liminar seja confirmada no mérito pelo colegiado" (fl. 13).
+É o relatório. DECIDO.
+Conforme consta, a defesa teve o seu pedido de liminar indeferido pelo Tribunal de origem.
+Assim, pelo que se afere da exordial, o habeas corpus investe contra denegação de liminar. Ocorre que, ressalvadas hipóteses excepcionais, não é cabível a utilização do instrumento heroico em situação como a presente.
+A matéria, inclusive, encontra-se sumulada (Súmula n. 691, STF):
+"Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+No presente caso, contudo, o TJ, ao expedir sumariamente o mandado de prisão para cumprimento da pena no regime inicial semiaberto, ao que tudo indica, desrespeitou a normativa vigente sobre o assunto.
+A jurisprudência deste Superior Tribunal de Justiça, ao interpretar o art. 674 do Código de Processo Penal e o art. 105, da Lei de Execução Penal, entende que, uma vez operado o trânsito em julgado, necessária é a prisão para a expedição da guia de execução. Tudo o que, porém, comporta temperamentos, à luz do art. 5º, XXXV, da Constituição Federal.
+Isso porque, nas hipóteses em que verificado que o condenado tem direito a benefícios que impactam a situação da execução e a tornam mais branda, não se mostra razoável exigir o sacrifício da liberdade.
+Nessa linha, o CNJ, em 9/9/2022, aprovou a Resolução n. 474 (que alterou o art. 23 da anterior Resolução n. 417), prevendo a possibilidade de intimação da pessoa condenada, nos casos em que estabelecidos os regimes semiaberto ou aberto, previamente à expedição de mandado de prisão.
+Ademais, anoto que a jurisprudência desta Corte passou a adotar o posicionamento, no sentido de que, para os condenados ao regime aberto ou semiaberto, deverá ser expedida intimação para o cumprimento da pena, não havendo a necessidade de recolhimento do apenado em regime mais severo enquanto a guia de execução definitiva é elaborada (AgRg no HC 796267/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 25/4/2023).
+Ante o exposto, não conheço do habeas corpus, pela indevida supressão de instância. Concedo a ordem, de ofício, para, ultrapassando a redação da Súmula n. 691, STF, determinar o recolhimento do mandado de prisão expedido, determinando, ao juiz da execução penal, que proceda à prévia intimação do apenado para dar início ao cumprimento da pena, nos termos da fundamentação supra.
+Recomenda-se celeridade na apreciação do pedido.
+Intime-se a origem, com urgência, para o cumprimento.
+Publique-se. Intime-se.
+ EMENTA
