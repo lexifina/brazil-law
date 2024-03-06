@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por UELINGTON BRITO OLIVEIRA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido no HC n. 2110375-34.2023.8.26.0000.
+Consta dos autos que o recorrente foi condenado, em primeiro grau, a 2 anos de reclusão, no regime semiaberto, pela prática do crime de roubo tentado (art. 157, caput, c/c art. 14, II, ambos do Código Penal - CP ). O Tribunal a quo reduziu a pena para 1 ano e 4 meses de reclusão, mantido o regime inicial semiaberto.
+Impetrado writ originário, a ordem foi denegada pelo Tribunal de origem.
+O recorrente sustenta a extinção da punibilidade pela prescrição, tendo-se como base de cálculo a pena resultante da detração do tempo de prisão cautelar, nos termos do art. 387, § 2º, do Código de Processo Penal - CPP. Ainda alega ser cabível a expedição da guia de recolhimento antes do cumprimento do mandado de prisão.
+Requer o provimento do recurso nesse sentido.
+Indeferido o pedido de liminar (fls. 427/428) e prestadas as informações (fls. 436/474 e 478/482), o Ministério Público Federal manifestou-se pelo não provimento do recurso (fls. 498/503).
+É o relatório.
+Decido.
+Submetida a irresignação ao exame do Tribunal a quo, o voto condutor no acórdão recorrido denegou a ordem com os seguintes fundamentos:
+" ..
+Compulsando os autos, verifica-se que Uelington foi condenado, por incurso no artigo 157, caput, c.c. artigo 14, inciso 14, ambos do Código Penal, ao cumprimento de 1 ano e 4 meses de reclusão, em regime semiaberto, pena cujo lapso prescricional é de 4 anos (artigo 109, inciso V, do Código Penal).
+Em linha, verifica-se que os fatos se deram em 28.05.2017, recebida a denúncia em 26.06.2017 (fls. 119 dos autos de origem), proferida a sentença condenatória em 13.12.2017, a qual foi parcialmente reformada para reduzir a reprimenda por Acórdão proferido aos 25.10.2018, cujo trânsito em julgado para a defesa se deu em 25.07.2019 (fls. 304 dos autos de origem), não se tendo, assim, superado o quadriênio prescricional entre os marcos interruptivos.
+Quanto ao pedido subsidiário, a Resolução nº 474/2022 do Conselho Nacional de Justiça prevê: "Art. 23. Transitada em julgado a condenação ao cumprimento de pena em regime semiaberto ou aberto, a pessoa condenada será intimada para dar início ao cumprimento da pena, previamente à expedição de mandado de prisão, sem prejuízo da realização de audiência admonitória e da observância da Súmula Vinculante no 56.".
+Ocorre que, para regulamentar tal determinação, o Comunicado CG nº 628/2022 deste E. Tribunal de Justiça, consignou, no item "5", que: "Nas condenações ao cumprimento de pena corporal em regime semiaberto com réu preso ou trânsito em julgado antes do dia 12 de setembro de 2022 ficam mantidos os regramentos existentes quando da edição da Resolução CNJ nº 474/2022, com expedição de mandado de prisão ou ofício de recomendação pelo juízo do conhecimento" (grifamos).
+É certo que o trânsito em julgado da condenação ocorreu anteriormente a 12 de setembro de 2022, quando publicada a referida Resolução, sendo a expedição do mandado de prisão determinada aos 25.09.2019 (fls. 306/307 dos autos de origem)" (fls. 395/396).
+Inicialmente, verifica-se que o acórdão impugnado está em consonância com a jurisprudência desta Corte no sentido de que "a prescrição pela pena residual, conforme autoriza o art. 113 do Código Penal, somente é possível nos casos de evasão ou de revogação do livramento condicional. Dessarte, não há falar em detração da pena para fins de cômputo da prescrição, porquanto ausente disciplina legal, devendo o lapso prescricional ser regulado de acordo com a pena total aplicada na sentença, sem desconto pela detração" (AgRg no HC n. 847.217/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 5/12/2023).
+Assim, não tendo transcorrido o período temporal necessário ao reconhecimento da prescrição, considerada a pena total aplicada, não há falar em flagrante ilegalidade a ser sanada por este Tribunal Superior.
+Por outro lado, mesmo a processos que transitaram em julgado antes da publicação da Resolução n. 474/CNJ, vem sendo aplicada a sua disposição referente à necessidade de intimação, antes da expedição de mandado de prisão, a condenados ao cumprimento de pena no regime semiaberto e aberto.
+Confiram-se as seguintes decisões monocráticas: HC n. 775.105, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), DJe 16/2/2023; RHC n. 165.615, Ministro Antonio Saldanha Palheiro, DJe 3/2/2023, HC n. 794.310, Ministro Sebastião Reis Júnior, DJe de 2/3/2023, e RHC n. 178.201, de minha Relatoria, DJe de 6/2/2024.
+Destarte, resta configurado flagrante ilegalidade a expedição do mandado de prisão em desacordo com o disposto na Resolução n. 474/CNJ.
+Ante o exposto, dou parcial provimento ao recurso em habeas corpus para determinar o recolhimento do mandado de prisão, a fim de que seja observado o teor do art. 23 da Resolução 474 do CNJ, determinando-se ao Juízo das Execuções que proceda a intimação do ora recorrente para início do cumprimento de sua pena.
+Publique-se.
+Intimem-se.
+EMENTA
