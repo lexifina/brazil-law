@@ -1,0 +1,30 @@
+DECISÃO
+Examina-se recurso especial interposto por VALDOVINO BERNARDO NAVES, fundamentado, exclusivamente, na alínea "a" do permissivo constitucional, contra acórdão do TJ/SP.
+Recurso especial interposto em: 1/9/2023.
+Concluso ao gabinete em: 1/3/2024.
+Ação: declaratória de nulidade de cartão e empréstimo consignado c/c indenização por danos materiais e compensação por danos morais, ajuizada pelo recorrente em face do BANCO BMG S/A, em virtude de descontos indevidos em seu benefício previdenciário, decorrentes de suposto empréstimo bancário não contratado entre as partes.
+Sentença: julgou procedentes os pedidos iniciais para: a) declarar a inexistência de relação jurídica relativamente aos contratos nº 8955763 e nº 11253153, com o consequente cancelamento dos cartões de crédito consignado RMC a eles vinculados, em nome da parte autora; b) condenar o réu, a restituir, em dobro, à parte autora, os valores descontados em virtude da relação jurídica declarada inexistente; e c) condenar a ré ao pagamento de compensação por danos morais, no valor de R$ 5.000,00 (cinco mil reais).
+Acórdão: deu parcial provimento aos recursos de apelação interpostos por ambas as partes, nos termos da seguinte ementa:
+APELAÇÃO - AÇÃO DECLARATÓRIA C/C INDENIZATÓRIA - Bancários - Empréstimo Consignado - Descontos em benefício previdenciário - Alegação de não contratação - Assinatura falsa atestada por perícia - Sentença de procedência - Apelo das partes - Preliminares Afastadas - Declaração de inexigibilidade do contrato - Banco que não se desincumbiu do ônus de demonstrar a regularidade do contrato nos termos do artigo 373, II do CPC - Declaração de inexigibilidade que se mantém - Repetição do indébito em dobro - Afastamento - Ausência de má-fé do banco - Devolução deve ocorrer de forma simples - Compensação dos valores - Admissibilidade - Compensação devida, sob pena de enriquecimento sem causa - Danos morais - Descabimento - Ausente prova da ofensa à honra, à dignidade ou à imagem da pessoa - Entendimento majoritário da C. Câmara Juros moratórios - Cabimento - Incidência do evento danoso, por se tratar de responsabilidade civil extracontratual - Súmula 54 do STJ - Sentença reformada - RECURSOS PARCIALMENTE PROVIDOS.
+Embargos de declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial: aponta violação aos arts. 927, parágrafo único, do CC e 14 do CDC.
+Sustenta, em síntese, que "ocorreu o dano moral "in re ipsa" uma vez os descontos no benefício do Recorrente, com vencimentos módicos, dificultaram sua subsistência e de seu núcleo familiar, devendo o valor definido a título indenização por danos morais atender o caráter repressivo e reparatório do instituto, evitando o enriquecimento indevido da vítima e coibindo a reiteração da conduta lesiva do ofensor" (e-STJ fl. 506).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 568/STJ
+De acordo com a jurisprudência perfilhada por esta Corte Superior, a caracterização do dano moral exige que a comprovação do dano repercuta na esfera dos direitos da personalidade, de forma que a fraude bancária, por si só, não pode ser considerada suficiente para a caracterização do dano moral. Nesse sentido: AgInt no AREsp 2.157.547/SC, 4ª Turma, DJe 14/12/2022; AgInt nos EDcl no REsp 1.948.000/SP, 4ª Turma, DJe 23/6/2022; AgInt nos EDcl no AREsp 1.669.683/SP, 3ª Turma, DJe 30/11/2020.
+Nessa perspectiva, tendo em vista a consonância entre o entendimento firmado neste STJ e o acórdão recorrido, aplica-se a Súmula 568/STJ.
+- Do reexame de fatos e provas
+O TJ/SP assim se manifestou a respeito danos morais:
+"(..) para a sua ocorrência é necessário que seja abalada a honra, a boa-fé subjetiva ou a dignidade da pessoa. Não se trata de qualquer dissabor ou constrangimento experimentado. O dano moral deve ser visto como uma dor, vexame, sofrimento ou humilhação que, fugindo à normalidade, interfere de maneira intensa no comportamento psicológico do indivíduo, causando-lhe angústia, sofrimento e desequilíbrio em seu bem estar e a sua integralidade psíquica.
+Nesse ínterim, não ficou comprovado que a hipótese dos autos atingiu a dignidade do autor, ou lhe causou dor ou aflição profunda, portanto, e considerando que não se trata hipótese de dano in re ipsa, descabe falar em indenização por danos morais, devendo ser afastada a referida condenação." (e-STJ fl. 479)
+Alterar, portanto, o decidido no acórdão impugnado exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro em 5% (cinco por cento) os honorários fixados anteriormente, devidos pela parte recorrente, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE CARTÃO E EMPRÉSTIMO CONSIGNADO C/C INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. DESCONTO. BENEFÍCIO PREVIDENCIÁRIO. EMPRÉSTIMO NÃO CONTRATADO. DANOS MORAIS. NECESSIDADE DE COMPROVAÇÃO. SÚMULA 568/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Ação declaratória de nulidade de cartão e empréstimo consignado c/c indenização por danos materiais e compensação por danos morais.
+2. A caracterização do dano moral exige que a comprovação do dano repercuta na esfera dos direitos da personalidade. A fraude bancária, nessa perspectiva, não pode ser considerada suficiente, por si só, para a caracterização do dano moral. Precedentes.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Recurso especial parcialmente conhecido e, nessa parte, não provido.
