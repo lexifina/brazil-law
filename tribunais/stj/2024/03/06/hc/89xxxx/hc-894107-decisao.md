@@ -1,0 +1,16 @@
+DECISÃO
+O paciente alega sofrer coação ilegal em face de acórdão do Tribunal a quo.
+A defesa explica a impossibilidade de interpretação prejudicial ao condenado do art. 112, I, do CP e a falta de observância da modulação dos efeitos do Tema 788, fixado pelo Supremo Tribunal Federal. Requer o reconhecimento da prescrição executória.
+Decido.
+O habeas corpus comporta avanço para pronta solução, pois, em entendimento adotado no julgamento do Agravo em Recurso Extraordinário (ARE) 848107, de repercussão geral (Tema 788), foi fixada a seguinte tese jurídica:
+"O prazo para a prescrição da execução da pena concretamente aplicada somente começa a correr do dia em que a sentença condenatória transita em julgado para ambas as partes, momento em que nasce para o Estado a pretensão executória da pena, conforme interpretação dada pelo Supremo Tribunal Federal ao princípio da presunção de inocência (art. 5º, inciso LVII, da Constituição Federal) nas ADC 43, 44 e 54".
+Houve modulação dos efeitos do julgamento e o Supremo Tribunal Federal determinou a observância das seguintes balizas:
+a) aos casos com a prescrição da pretensão executória reconhecida (independentemente do juízo, da data da prolação da decisão e da suspensão dos prazos pelo reconhecimento do tema de repercussão geral), a não aplicação do tema;
+b) aos casos em que a questão objeto do tema ainda não havia sido decidida ou analisada:
+b.i) com trânsito em julgado para a acusação ocorrido até 11/11/2020 (inclusive) a não aplicação do tema;
+b.ii) com trânsito em julgado para a acusação ocorrido após 11/11/2020 (a partir de 12.11.2020, inclusive) - a aplicação do tema.
+Vê-se que, ao conferir nova interpretação ao dispositivo legal em consonância com o princípio da presunção de inocência e assinalar que, para os processo com trânsito em julgado para a acusação até 11/11/2020 deve prevalecer a antiga interpretação literal do art. 112, I, primeira parte, do Código Penal, o Supremo Tribunal Federal não fez diferenciação entre penas privativas de liberdade ou restritiva de direitos. Assim, o acórdão estadual é ilegal, porque está em desconformidade com o entendimento fixado, uma vez que "não reconheceu a  ..  prescrição executória,  ..  já que seu termo inicial apenas ocorre com a formação de um título judicial definitivo  .. , a partir do trânsito em julgado para ambas as partes" (fl. 17), o que ocorreu "apenas em 8.11.2018" (fl. 34).
+Não é possível declarar, diretamente no âmbito desta Corte, a extinção da punibilidade do postulante, pois a impetração não está instruída com cópia da sentença nem com certidão judicial na qual conste informações pré-constituídas sobre a data do crime, a data do trânsito para a acusação e a inexistências de causas interruptivas ou suspensivas da prescrição executória.
+À vista do exposto, concedo o habeas corpus para determinar ao Juiz das Execuções que, em nova decisão, reexamine o pedido de prescrição executória segundo a modulação do Tema de Repercussão Geral n. 788 e reconheça a causa extintiva de punibilidade se o trânsito em julgado para a acusação ocorreu até 11/11/2020, uma vez não verificadas causas interruptivas ou suspensivas do prazo prescricional.
+Publique-se e intimem-se.
+EMENTA
