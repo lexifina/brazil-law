@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, apontando-se como autoridade coatora o Tribunal de Justiça de Pernambuco.
+Consta dos autos que o paciente foi condenado como incurso no art. 288, parágrafo único, do CP, e no artigo 157, § 2º, II, IV e V, e § 2º-A, I, c/c o art. 29, todos do CP, a 16 anos e 4 meses de reclusão, no regime inicial fechado.
+No presente writ, as impetrantes alegam excesso de prazo para o julgamento da apelação, destacando que " a  morosidade de quase 3 anos para um julgamento é irrazoável e desproporcional, no ora paciente aguarda há quase 3 anos, o julgamento do recurso protocolado, somado ao fato de ele estar custodiado cautelarmente desde 21/05/2020" (fl. 4).
+Requerem, assim, liminarmente e no mérito, a revogação da prisão preventiva, ainda que mediante a aplicação de medidas cautelares diversas da prisão.
+Indeferida a liminar, prestadas as informações, manifestou-se o MPF pelo não conhecimento do writ e concessão de habeas corpus de ofício para determinar o imediato julgamento do recurso de apelação.
+É o relatório.
+DECIDO.
+Como bem observado pelo MPF, muito embora não exista prazo definido para o julgamento da apelação, nos termos da jurisprudência desta Corte, esse exame deve ser feito casuisticamente, à luz do princípio da razoabilidade, sopesando-se, ainda, o quantum de pena aplicada. A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PRISÃO PREVENTIVA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PRISIONAL. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. QUANTIDADE DA DROGA APREENDIDA. ARMA. MUNIÇÕES. ALEGADO EXCESSO DE PRAZO PARA O JULGAMENTO DO RECURSO DE APELAÇÃO. INOCORRÊNCIA. PRINCÍPIO DA RAZOABILIDADE. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+IV - O prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais. Precedentes.
+V - Na hipótese, a despeito da pequena delonga na remessa do recurso de apelação ao segundo grau de jurisdição, o eg. Tribunal de Justiça, nos autos do habeas corpus originário, em 02/09/2021, recomendou "ao Juízo a quo que providencie a remessa dos autos para esta Corte de Justiça". O recurso de apelação foi então remeti do ao Tribunal em 08/09/2021, e recebido na mesma data, avizinhando-se, portanto a sua conclusão, não havendo que se falar, ao menos por ora, da configuração de constrangimento ilegal passível de ser sanado pela presente via, especialmente se considerado o quantum da pena imposta ao paciente na r. sentença condenatória, de mais de onze anos de reclusão, em regime inicial fechado. Precedentes.
+VI - Outrossim, considerando a pena total a que foi condenado o paciente, mais de onze anos de reclusão, a ser cumprida em regime inicial fechado, também não verifico flagrante excesso de prazo para o julgamento do recurso, pois não demonstrado que, em razão de eventual demora para a apreciação da apelação, o paciente se encontra impedido de usufruir de benefícios relativos à execução da pena. Precedentes.
+Agravo regimental desprovido.
+(AgRg no RHC 154.482/SC, Rel. Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), QUINTA TURMA, julgado em 26/10/2021, DJe 04/11/2021)
+No caso, consoante consta dos autos, a sentença foi proferida em 31/5/2021, sendo a apelação interposta em 12/7/2021 (fl. 36) e, de acordo com as informações prestadas, os autos encontram-se paralisados, no aguardo de digitalização, sem que tenha sido estabelecida nenhuma data para sua realização.
+Nesse contexto, considerando o decurso de quase 3 anos para julgamento do recurso de apelação, sem perspec tiva de análise do recurso para data próxima, verifica-se o alegado constrangimento ilegal ante o excessivo o prazo para julgamento da apelação.
+Não obstante, considerando a gravidade do delito e a pena aplicada (16 anos e 4 meses de reclusão), não se justifica, por ora, o relaxamento do cárcere.
+Ante o exposto, denego a ordem. Concedo, porém, habeas corpus de ofício para determinar ao Tribunal de origem o imediato julgamento do recurso de apelação, dispensada para tanto a prévia digitalização do feito.
+Publique-se.
+Intimem-se.
+EMENTA
