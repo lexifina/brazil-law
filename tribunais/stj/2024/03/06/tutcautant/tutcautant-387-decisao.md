@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de pedido de tutela cautelar antecedente formulado por UNIMED DO BRASIL CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS MÉDICAS, por meio do qual objetiva que seja atribuído efeito suspensivo a recurso especial por ela interposto com fundamento na alínea "a" do permissivo constitucional.
+Ação: recuperação judicial de UNIMED NORTE/NORDESTE - FEDERAÇÃO INTERFEDERATIVA DAS SOCIEDADES COOPERATIVAS DE TRABALHO MÉDICO.
+Decisão: deferiu o pedido de processamento da recuperação judicial da requerida.
+Acórdão: negou provimento ao agravo de instrumento interposto pela requerente.
+Embargos de Declaração: interpostos pela requerente, foram rejeitados.
+Recurso especial: alega violação dos arts. 17, 300, 337, §§ 1º, 3º e 5º, 485, § 3º, 489, § 1º, IV, 948, 949, 1.022, II e parágrafo único, II, do CPC; 1º e 2º, II, da Lei 11.101/05; 23 e 24 da Lei 9.656/98; 4º, XXXIV, da Lei 9.961/00; 982, parágrafo único, do CC.
+Pedido de tutela provisória: alega estarem presentes os requisitos que autorizam a atribuição de efeito suspensivo a recurso especial: a probabilidade do direito invocado decorre, sobretudo, do fato de a requerida, cooperativa que atua como operadora de plano de saúde, não ser contemplada entre os entes passíveis de pleitear recuperação judicial, enquanto o perigo na demora da prestação jurisdicional reside no risco que a manutenção dos efeitos da decisão que deferiu o processamento do pedido de soerguimento representa para "todo um mercado de saúde suplementar, o que atinge um número inimaginável de pessoas" (e-STJ fl. 14). Afirma que o acórdão do Tribunal de origem foi omisso e não apresenta fundamentação suficiente. Argumenta que não possui legitimidade para cumprir as providências determinadas pelo juízo da recuperação.
+É O RELATO DO NECESSÁRIO. DECIDE-SE.
+O exame do pedido de efeito suspensivo formulado pela requerente exige a verificação da presença de dois requisitos cumulativos: a probabilidade do direito (ou seja, a possibilidade de êxito da pretensão recursal) e o perigo advindo da demora da prestação jurisdicional.
+Na espécie, contudo, a requerente não demonstrou a presença do periculum in mora, uma vez que deduziu, tão somente, alegações genéricas, desprovidas de comprovação, no sentido de que "o andamento da recuperação judicial da Recorrida  ..  implica riscos graves ao mercado de saúde suplementar, além de afastar a competência da ANS acerca da regulação das atividades, dos aspectos econômico-financeiro e do direcionamento dos usuários a fim de evitar a desassistência" (e-STJ fl. 13).
+A invocação de tais argumentos não permite que se conclua pela existência de perigo real ou iminente advindo de eventual demora da prestação jurisdicional.
+Ademais, a conclusão do acórdão recorrido (que se encontra, ao menos em exame preliminar, devidamente fundamentado) - no sentido da possibilidade de a requerida ser beneficiada pelo instituto da recuperação judicial - está fundamentada em texto expresso de lei (art. 6º, § 13, da Lei 11.101/05), não havendo evidência de qualquer posicionamento contrário a tal disposição na jurisprudência desta Corte.
+Tal circunstância, em juízo perfunctório, afigura-se apta a obstar o sucesso da irresignação manifestada nas razões do especial.
+Assim, não preenchidos os pressupostos necessários à concessão da tutela pretendida, inviável o deferimento do pedido de efeito suspensivo.
+Forte nessas razões, INDEFIRO o pedido de tutela provisória.
+EMENTA
