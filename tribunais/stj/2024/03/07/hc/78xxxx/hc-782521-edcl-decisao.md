@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por LUCAS MANOEL BATISTA NOVAEZ em face da decisão unipessoal que denegou a ordem no presente habeas corpus (fls. 254-266).
+Em suas razões, o embargante afirma a existência de omissão na decisão embargada.
+Alega, em síntese, que "a violação ela é iniludivel a mesma do caso do acordão do HC 598.051 que V Excia supera , superando for a da curva e revalidando os abusos de entrada de domicilio, sem que seja minimamente possível aferir a conduta Estatal e não colocando na decisão aqui atacada uma nova proposta Excia"(sic), (fl. 271).
+Requer, assim, o acolhimento dos aclaratórios, com efeitos infringentes, a fim de que seja concedida a ordem no presente habeas corpus, nos termos da inicial.
+Instado, o Ministério Público Federal deixou de se manifestar, conforme consta à fl. 281.
+É o relatório. DECIDO.
+Os presentes embargos não reúnem condições de prosperar.
+De plano, cumpre esclarecer que se admitem os embargos declaratórios quando houver, na decisão embargada, ambiguidade, obscuridade, contradição ou omissão, nos termos dos artigos 619 e 620 do Código de Processo Penal, sendo possível, excepcionalmente, a alteração ou modificação do decisum nos efeitos infringentes.
+Também podem ser admitidos para a correção de eventual erro material, consoante o entendimento preconizado pela doutrina e jurisprudência, hoje igualmente consagrado no artigo 1.022, III, do atual Código de Processo Civil.
+Na lição de Nelson Nery Júnior e Rosa Maria Andrade Nery (Código de Processo Civil Comentado, RT, 4ª ed., 1999, p. 1045): "Os EDcl têm finalidade de completar a decisão omissa ou, ainda, de aclará-la, dissipando obscuridades ou contradições. Não têm caráter substitutivo da decisão embargada, mas sim integrativo ou aclaratório. Como regra, não têm caráter substitutivo, modificador ou infringente do julgado".
+No mesmo sentido: EDcl no AgRg nos EAREsp n. 2.060.783/RN, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 12/4/2023, DJe de 14/4/2023 e EDcl no AgRg no RHC n. 163.279/RS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 24/5/2022, DJe de 30/5/2022.
+Contudo, ao analisar os autos, verifica-se que o embargante não demonstrou a existência de qualquer vício no decisum embargado.
+De fato, na decisão embargada, consignei, claramente, que, no julgamento do HC n. 598.051/SP, em 2/3/2021, pela Sexta Turma desta Corte Superior, assentou-se que não houve a concessão de salvo-conduto a todas as condenações por tráfico ilícito de drogas praticadas em domicílio, devendo-se analisar, caso a caso, as circunstâncias de cada prisão em flagrante (HC n. 598.051/SP, Sexta Turma, Rel. Min. Rogério Schietti Cruz, DJe de 15/3/2021, grifei).
+Ou seja, é possível o ingresso de policiais em domicílio, mesmo sem mandado judicial ou consentimento do morador, caso haja fundadas razões da ocorrência da prática de crime no local, à luz do artigo 240 do Código de Processo Penal, conforme entendimento sedimentado, há tempos, neste Superior Tribunal de Justiça.
+No caso dos autos, restou cristalino, do que foi narrado pelas instâncias ordinárias, que havia fundadas razões da ocorrência do crime permanente cometido pelo acusado, aptas ao embasamento, por parte dos policiais, da busca realizada em seu veículo, bem como do ingresso em sua residência.
+Ademais, destaquei no decisum ora impugnado que seria impossível rever a conclusão alcançada pelo Tribunal de origem, tendo em vista a necessária incursão no acervo fático-probatório, providência incabível na estreita via do habeas corpus e de seu recurso ordinário.
+Por fim, verifica-se que os argumentos apresentados nestes aclaratórios não demonstram a busca por qualquer saneamento, mas sim o reexame da matéria já decidida, o que não se mostra possível na via eleita. Nesse prisma, a pretensão não está em harmonia com a natureza e a função do recurso integrativo.
+A esse respeito: EDcl no AgRg no AREsp n. 1.203.591/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022; EDcl no REsp n. 1.931.145/SP, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 24/8/2022, DJe de 26/8/2022; e EDcl no AgRg no HC n. 713.568/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 17/5/2022, DJe de 20/5/2022).
+Ante todo o exposto, não vislumbro o vício apontado e rejeito os embargos declaratórios.
+Publique-se. Intimem-se.
+ EMENTA
