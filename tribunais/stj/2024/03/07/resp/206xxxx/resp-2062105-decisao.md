@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por ODETE FRANCISCA DOS SANTOS, com fundamento no art. 105, III, "c", da CF/1988, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO. Esta é a ementa do julgado (e-STJ fl. 837):
+SFH. SEGURO. VÍCIOS DE CONSTRUÇÃO. CEF. LEGITIMIDADE. SÚMULA 121. APÓLICE PÚBLICA. CONTRATO QUITADO.
+1. É competente a Justiça Federal nos feitos em que se discute cobertura securitária, no âmbito do Sistema Financeiro da Habitação (SFH),quando se tratar de apólice pública (ramo 66), vinculada ao FCVS, considerando o advento da Lei 13.000/2014, que assegurou a intervenção da CEF como representante judicial do FCVS.
+2. O contrato de seguro tem vigência simultânea com o contrato de mútuo. Extinguido o contrato de mútuo, automaticamente, extingue o seguro que o acompanha.
+Os embargos de declaração foram rejeitados (e-STJ fls. 875/879).
+Interposto recurso especial com fundamento no artigo 105, III, "c", da CF/88, a recorrente afirma que há divergência jurisprudencial acerca da efetiva comprovação documental do comprometimento do FCVS e do exaurimento do FESA.
+Contrarrazões (e-STJ fls. 1301/1321).
+Juízo positivo de admissibilidade (e-STJ fls. 1436/1438).
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O recurso especial não merece ser conhecido.
+O conhecimento do inconformismo recursal fundado na alínea "c" do permissivo constitucional é inviável quando o recorrente não demonstra o suposto dissídio pretoriano por meio: a) da juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade dessas; b) da citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado; c) do cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, além da demonstração das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a mera transcrição da ementa e de trechos do voto condutor do acórdão paradigma; e d) a indicação dos dispositivos de lei federal com interpretação divergente entre os Tribunais.
+Na hipótese examinada, observa-se que a recorrente não atendeu aos requisitos estabelecidos pelos arts. 1.029, § 1º, do CPC/2015, e 255, § 1º, do RISTJ, em especial o cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a alegada divergência, além da demonstração das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a mera transcrição da ementa e de trechos do voto condutor do acórdão paradigma.
+Assim, é descabido o presente recurso interposto pela alínea c do inciso III do art. 105 da Constituição Federal.
+Cumpre asseverar que na demonstração do dissídio jurisprudencial o cotejo analítico possui dois momentos, quais sejam: i) deve o recorrido, inicialmente, promover a comparação entre as questões tratadas no decisum objurgado e no paradigma, com translado dos fundamentos de ambos; ii) em seguida, executa-se a defrontação das teses jurídicas em conflito, patenteando a desconformidade de interpretações para a mesma questão de direito.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. DANO MORAL. VALOR DA INDENIZAÇÃO EXORBITANTE. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. NÃO CONFIGURAÇÃO. DECISÃO MANTIDA.
+1. Nos termos da jurisprudência desta Corte, é incabível o reexame do valor fixado a título de danos morais com base em divergência jurisprudencial, pois, ainda que haja semelhança de algumas características nos acórdãos confrontados, cada qual possui peculiaridades subjetivas e contornos fáticos próprios, o que justifica a fixação de quantum indenizatório distinto.
+2. Agravo a que se nega provimento.
+(AgInt no AREsp 1294572/AM, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/12/2018, DJe 17/12/2018)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. IPTU. RESPONSABILIDADE TRIBUTÁRIA. CREDOR FIDUCIÁRIO. ILEGITIMIDADE PASSIVA. QUESTÃO DE ÍNDOLE EMINENTEMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF. DIVERGÊNCIA. AUSÊNCIA DE SIMILITUDE FÁTICA.
+1. Nota-se que a questão trazida no presente Recurso Especial é de índole eminentemente constitucional, porquanto é alegada a inaplicabilidade da Lei 9.514/1997 por não ter sido observada a exigência prevista no artigo 146, III, "a", da CF/1988, referente à reserva de Lei Complementar para fixação do contribuinte dos tributos, e o artigo 156, I, da CF/1988, relativamente à competência dos municípios para instituir o IPTU. Desse modo, não é possível o exame da matéria pelo STJ, sob pena de usurpação da competência do STF.
+2. Consigne-se que para a caracterização da divergência, nos termos do art. 541, parágrafo único, do CPC/1973 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, exigência não atendida, no caso, porquanto não se comprovou a similitude fática entre os casos confrontados.
+3. Recurso Especial não conhecido.
+(REsp 1740898/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/06/2018, DJe 22/11/2018)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SFH. APÓLICE PÚBLICA. RAMO 66. CEF. LEGITIMIDADE. PROVA DOCUMENTAL DO COMPROMETIMENTO DO FCVS E DO EXAURIMENTO DO FESA. DISSÍDIO PRETORIANO. AUSÊNCIA DE COTEJO ANALÍTICO. RECURSO ESPECIAL NÃO CONHECIDO.
