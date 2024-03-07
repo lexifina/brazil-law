@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer do agravo para não conhecer do recurso especial, nos termos do voto do Sr. Ministro-Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+EMENTA
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. DIREITO À ISENÇÃO FISCAL PLEITEADA PELOS SUCESSORES. LEGITIMIDADE PROCESSUAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTIGOS INDICADOS NO RECURSO ESPECIAL. SÚMULAS 282 E 356 DO STF. CARÁTER PERSONALÍSSIMO DA ISENÇÃO FISCAL. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. AGRAVO CONHECIDO PARA NÃO SE CONHECER DO RECURSO ESPECIAL.
+1. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+2. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+3. Agravo conhecido para não se conhecer do recurso especial.
+RELATÓRIO
+Trata-se de Agravo interposto por Alvaro Conti Filho e outros contra a decisão que inadmitiu o processamento de recurso especial em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, cuja ementa assim se estabeleceu, in verbis:
+TRIBUTÁRIO. Servidor estadual Imposto de renda Isenção e repetição do indébito Decl aração do direito pleiteada pelos sucessores Impossibilidade: O direito à isenção tributária é personalíssimo, não se transmitindo aos herdeiros o direito de ação para obtê-la.
+Nas razões recursais, fundamentado sob o artigo 105, inciso III, alínea "a", do permissivo constitucional, o recorrente alega a violação aos artigos 11, do Código Civil, 18 do CPC/2015, 6º, da Lei nº 7.713/1988, 43, inciso II, do CTN, para sustentar em síntese: (i) a legitimidade ativa dos herdeiros necessários, para se pleitear judicialmente, o direito à repetição do indébito tributário, (ii) o direito do de cujus ao reconhecimento retroativo da isenção ao imposto de renda pessoa física.
+Contrarrazões ao recurso especial às fls. 419/446 (e-STJ).
+Em decisão interlocutória, o Tribunal de origem inadmitiu o processamento do recurso especial.
+No Agravo, os recorrentes rechaçaram os fundamentos de inadmissão do apelo especial.
+Contraminuta ao Agravo em Recurso Especial às fls. 942/946 (e-STJ).
+É o relatório.
+EMENTA
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. DIREITO À ISENÇÃO FISCAL PLEITEADA PELOS SUCESSORES. LEGITIMIDADE PROCESSUAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTIGOS INDICADOS NO RECURSO ESPECIAL. SÚMULAS 282 E 356 DO STF. CARÁTER PERSONALÍSSIMO DA ISENÇÃO FISCAL. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. AGRAVO CONHECIDO PARA NÃO SE CONHECER DO RECURSO ESPECIAL.
+1. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+2. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+3. Agravo conhecido para não se conhecer do recurso especial.
+VOTO
+Concernente a alegação relativa à legitimidade dos herdeiros na condução ativa do processo em epígrafe, verifica-se a ausência de prequestionamento dos artigos 11, do Código Civil e 18 do CPC/2015, uma vez que não houve o pronunciamento do Tribunal a quo sobre essa questão, nem a Corte local foi instada a fazê-lo por via de embargos declaratórios, circunstância que impede o conhecimento da insurgência por falta de prequestionamento. Deste modo recai nesse ponto o teor dos enunciados das Súmulas n. 282 e 356 do STF.
+Quanto ao mérito, os recorrentes almejam a declaração do direito à isenção fiscal do imposto de renda pessoa física sob os rendimentos pretéritos auferidos pelo genitor, enquanto servidor público do Estado de São Paulo, portador em vida de neoplasia maligna. Em síntese, pleiteiam os herdeiros a declaração do direito de seu pai à isenção do imposto de renda por ter neoplasia maligna, bem como ao direito ao ressarcimento em face dos descontos retroativos indevidos.
+O Tribunal de origem ao analisar a questão sobredita arrematou, in verbis:
+A isenção tributária em decorrência de moléstia grave é direito personalíssimo, vinculado à condição do contribuinte. Aos herdeiros caberia, requerer a repetição do indébito, caso a isenção tivesse sido requerida pelo contribuinte, titular do direito, antes do óbito. Na hipótese, contudo, o contribuinte não requereu e não teve reconhecido o direito à isenção do imposto sobre a renda, tanto que a demanda e respectivo apelo tem 2 pedidos: declaração do direito à isenção do imposto de renda por doença grave e do direito à repetição do indébito. Ora, não tendo o contribuinte solicitado a isenção do imposto de renda, os herdeiros não têm legitimidade para pleitear o benefício e a restituição.
+Como se depreende do trecho transcrito acima, o indeferimento do pleito dos recorrentes se pautou diante do caráter personalíssimo da isenção fiscal. Se não houve em vida a postulação do contribuinte ao direito de usufruir o citado benefício fiscal, não existe amparo pelo Código Tributário Nacional, o pleito formulado por terceiro em prol do suposto beneficiário.
+A rigor, estes fundamentos sobreditos não foram rebatidos pelos recorrentes nas razões do apelo especial. Com efeito, os postulantes não impugnaram especificamente a natureza personalíssima da isenção fiscal, como elemento primordial para a concessão do benefício tributário ao postulante. Assim, diante da deficiência das razões colacionadas no recurso especial, recai sobre o presente pleito meritório, o teor do enunciado da Súmula 283/STF, assim redigida: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Ilustrativamente:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. PLEITO PELO RECONHECIMENTO DA ATIPICIDADE MATERIAL DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. REINCIDÊNCIA E CRIME PRATICADO CONTRA ADMINISTRAÇÃO PÚBLICA. FUNDAMENTOS INATACADOS. SÚMULA N. 283 DO SUPREMO TRIBUNAL FEDERAL - STF. IMPUGNAÇÃO TARDIA. PRECLUSÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Inafastável a incidência da Súmula n. 283 do STF, pois não impugnados os fundamentos autônomos e suficientes à manutenção do acórdão, quais sejam, o fato do recorrente ser possuidor de maus antecedentes e reincidente, bem como pelo fato do crime ter sido praticado contra escola estadual.
+2. A impugnação tardia de óbice de inadmissibilidade de recurso especial em sede de agravo regimental esbarra na preclusão consumativa.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.391.284/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/12/2023, DJe de 12/12/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PEDIDO DE PUBLICAÇÃO EXCLUSIVA. NULIDADE. NÃO OCORRÊNCIA. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. Segundo a jurisprudência desta Corte, a nulidade relativa à não intimação de dado advogado deve ser arguida na primeira oportunidade de manifestação nos autos após a ocorrência do vício, sob pena de preclusão. Precedentes.
+2. Na hipótese, o Tribunal de origem consignou que a intimação foi realizada em nome do advogado indicado no pedido de publicação exclusiva, e que, na ocasião, manifestou-se nos autos sem, contudo, mencionar eventual irregularidade na intimação, não se configurando, portanto, a nulidade.
+3. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+4. Agravo interno provido para negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.231.443/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/11/2023, DJe de 1/12/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+É como voto.
