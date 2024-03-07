@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça argentina solicita que se proceda à obtenção de provas junto ao INSTITUTO NACIONAL DE PROPRIEDADE INDUSTRIAL, "a fim de que remeta uma lista das marcas que contenham a expressão "NIU" que tenham sido solicitadas e/ou registradas pela BEIJING NIU TECHNOLOGY CO LTD., e informe sobre a data de solicitação e registro, os produtos abrangidos e as oposições recebidas. Da mesma forma, solicita-se informações sobre em nome de quem e desde que data a marca NIU está registrada na classe 12, as transferências que tenham sido realizadas (data e nome do novo titular), e se há algum procedimento de nulidade ou cancelamento em curso para essa marca, indicando quem o iniciou e qual é o seu estado" (fl. 12).
+Consultado previamente sobre a concessão de exequatur, com contraditório diferido, o Ministério Público opinou favoravelmente ao deferimento da medida (fls. 28-29).
+É o relatório.
+Decido.
+De início, constata-se que o objeto da presente carta rogatória não atenta contra os requisitos legais (não ofender à soberania nacional, à dignidade da pessoa humana ou à ordem pública; autenticidade dos documentos; e inteligência da decisão), razão pela qual, com fundamento no art. 216-O, c/c o art. 216-P do RISTJ, concedo o exequatur.
+Ademais, como salientado em decisão anterior, tanto o art. 962, § 2º, do Código de Processo Civil quanto o art. 216-Q, § 1º, do Regimento Interno do Superior Tribunal de Justiça garantem que a medida solicitada por carta rogatória poderá ser realizada sem oitiva prévia do interessado, desde que garantido o contraditório posterior, quando sua intimação prévia puder resultar na ineficiência da cooperação internacional.
+Assim, determino a remessa dos autos à Justiça Federal, Seção Judiciária do Distrito Federal, para as providências cabíveis.
+Cumpra-se a diligência em até 60 dias .
+Após, retornem os autos à Presidência do STJ para que sejam enviados ao país de origem por meio da autoridade central competente.
+Publique-se.
+EMENTA
