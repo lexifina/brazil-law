@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por ÉLIO JUNIO DA SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás no HC n. 5820382-64.2023.8.09.0000.
+Consta dos autos que, em 23/09/2023, o ora Recorrente foi preso em flagrante, tendo a prisão convertida em preventiva pela suposta prática do delito previsto no art, 155, § 4.º, incisos I e II, do Código Penal, pois, em tese, teria subtraído do restaurante "Assados na Brasa", "aproximadamente 10 (dez) peças de carnes lacradas, totalizando cerca de R$ 520 (quinhentos e vinte reais), evadindo-se do local na posse de tais produtos" (fl. 260).
+Irresignada, a Defesa impetrou habeas corpus no Tribunal de origem, que conheceu parcialmente da impetração e, nessa extensão, denegou a ordem (fls. 488-498).
+Neste recurso, sustenta, em síntese, a ocorrência de furto famélico. Afirma ser possível a aplicação, in casu, do princípio da insignificância, uma vez que "o ato foi perpetrado com um grau reduzido de censurabilidade a ponto de excluir a tipicidade material" (fl. 507).
+Requer, liminarmente e no mérito, a concessão de liberdade ao Recorrente, com ou sem a aplicação de medidas cautelares diversas da prisão preventiva.
+É o relatório.
+Decido.
+De início, verifica-se que a respeito do princípio da insignificância, não foi conhecida pelo Tribunal a quo, in verbis (fls. 492-493):
+"Seguindo a análise, extrai-se dos autos que o impetrante alega que deve ser aplicado ao caso o princípio da insignificância e, por consectário, afastada a tipicidade material da conduta do paciente, porquanto o crime de furto foi praticado com baixo grau de reprovabilidade, o que impõe à ordem jurídica uma renúncia à punição do agente em razão da insignificância da sua conduta representada naquele ato, restando clara a desnecessidade da manutenção da prisão preventiva do paciente.
+Pertinente à discussão acerca do afastamento da tipicidade material da conduta por incidência do princípio da insignificância, vê se que isso não é possível no âmbito do habeas corpus por tratar-se de matéria vinculada ao mérito da ação principal e que demanda análise de provas que devem ser dirimidas naquele feito, observada a devida instrução processual e o regular contraditório, o que, na presente via, faz-se inviável, mormente por se tratar de remédio constitucional de limites estreitos, o qual não se compatibiliza com dilação probatória.
+ ..
+Deste modo, por entender que a análise de questões voltadas a afastar atipicidade penal deve ser feita pelo juízo competente no bojo da ação principal, também não conheço da ação mandamental nesse ponto."
+Reconheço, portanto, que a questão suscitada não foi apreciada pelo Tribunal a quo, de modo que não pode ser conhecida originariamente por este Superior Tribunal de Justiça, sob pena de supressão de instância.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. MODUS OPERANDI E PERICULOSIDADE DO AGENTE. AUSÊNCIA DE CONTEMPORANEIDADE. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. A alegada ausência de contemporaneidade não foi apreciada pelo Tribunal de origem, de modo que o debate diretamente por esta Corte superior incorreria em indevida supressão de instância, inexistindo, desse modo, omissão a ser sanada.
+5. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento." (EDcl no HC 542.121/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/12/2019, DJe 03/02/2020; sem grifos no original.)
+Importa consignar, no mais, que, conforme ressaltado pelas instâncias ordinárias, o Recorrente "responde a outro(s) procedimento(s) em trâmite no(a) UPJ dos Juizados Especiais Criminais de Goiânia - GO (autos nº 5621950-77.2022.8.09.0051 e nº 5286899-44.2023.8.09.0051), 3ª Vara Crimes punidos com reclusão e detenção de Goiânia - GO (autos nº 5298345-44.2023.8.09.0051), bem como ostenta execução em trâmite perante a Vara de Execução Penal da comarca de Goiânia - GO (autos nº 0003337-38.2017.8.09.0175 - SEEU), sendo reincidente" (fl. 174).
+Nesse sentido, sublinho que "a reiteração delitiva tem sido compreendida como obstáculo inicial à tese da insignificância" (STJ, AgRg no REsp 1.740.009/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 27/11/2018, DJe 06/12/2018).
+Por fim, demonstrada pelas instâncias originárias, com expressa menção às peculiaridades do caso concreto, a necessidade da imposição da prisão preventiva, não se mostra suficiente a aplicação de quaisquer das medidas cautelares alternativas à prisão, elencadas no art. 319 do Código de Processo Penal. Nesse sentido: RHC 144.071/BA, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 18/05/2021, DJe 24/05/2021; HC 601.703/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 16/03/2021, DJe 23/03/2021.
+Ante o exposto, CONHEÇO PARCIALMENTE do recurso ordinário em habeas corpus e, nessa extensão, NEGO-LHE PROVIMENTO.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL E PROCESSO PENAL. FURTO QUALIFICADO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA, NO CASO. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
