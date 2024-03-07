@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado por MUNICIPIO DE TABOAO DA SERRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+RESPONSABILIDADE CIVIL - ERRO MÉDICO - NECESSIDADE DE SUBMISSÃO A NOVA CIRURGIA PARA RETIRADA DE CORPO ESTRANHO (COMPRESSA) ORIUNDO DE CIRURGIA CESARIANA ANTERIORMENTE REALIZADA - FALHA NA PRESTAÇÃO DO SERVIÇO - DANO MORAL - OCORRÊNCIA - PROVA PERICIAL CORROBORANDO A EXISTÊNCIA DE ERRO MÉDICO - NEXO CAUSAI EVIDENCIADO - INTELIGÊNCIA DO ARTIGO 373,1, DO NCPC - PREJUÍZO QUE FOGE À SEARA DE MERO ABORRECIMENTO COTIDIANO - UTILIZAÇÃO DE CRITÉRIOS DE RAZOABILIDADE E PROPORCIONALIDADE, QUE IMP E A MANUTENÇÃO DO VALOR DA INDENIZAÇÃO FIXADA - SENTENÇA MANTIDA. APELO DESPROVIDO, COM OBSERVAÇÃO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 186 e 927 do Código Civil, no que concerne à necessidade de comprovação pelo recorrido da culpa ou dolo do agente uma vez que a responsabilidade é subjetiva, já que decorrente de um ato omissivo da Administração Pública, trazendo a seguinte argumentação:
+Todavia, conforme intelecção dos artigos 186 e 927 do Código Civil, no que diz respeito a prestação de serviços pelo Poder Público, insta salientar que tanto a doutrina quanto a jurisprudência têm entendido que a responsabilidade é subjetiva.
+Pois bem necessária a demonstração pelo autor (vítima) do elemento volitivo, culpa ou dolo, no evento, não sendo suficiente a demonstração tão somente do nexo de causalidade, como entende a douta turma julgadora de segundo grau.
+Cumpre destacar que a responsabilidade do Estado, em regra, é objetiva, quando se trata de um ato comissivo, aplicando-se o disposto no § 6º do artigo 37 da Carta Magna, ou é subjetiva, quando decorrente de omissão.
+Isso, "em regra", pois, em se tratando de omissão específica, ou seja, quando há um dever do Estado de agir, a aferição da responsabilidade fica adstrita à órbita da responsabilidade objetiva.
+A responsabilidade civil por omissão de atos da Administração Pública é subjetiva, situação na qual se erige a culpa como pressuposto da responsabilidade.
+ ..
+Isto é, nos casos de danos decorrentes de fenômenos da natureza, a Administração somente pode ser responsabilizada se provada sua omissão genérica, ou seja, quando o dano proveniente da omissão é encarado sob o ângulo subjetivo.
+Os artigos 186 e 927 do Código Civil baseiam-se na ideia da culpa e imprevisibilidade da conduta lesiva, causada por imprudência e negligência, o que não foi considerado no venerando acórdão recorrido.
+Pelo que há inequívoca ofensa aos referidos dispositivos infraconstitucionais (fls. 481/482).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
