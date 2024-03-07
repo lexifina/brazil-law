@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo manejado pela Fazenda do Estado de São Paulo em face de decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça daquele Estado, assim ementado (fl. 1.823):
+TRIBUTÁRIO EMBARGOS À EXECUÇÃO FISCAL CREDITAMENTO INDEVIDO DE ICMS E NÃO APRESENTAÇÃO DE DOCUMENTAÇÃO FISCAL AQUISIÇÃO DE ENERGIA ELÉTRICA CONSUMO NOS SETORES DE INDUSTRIALIZAÇÃO DE ESTABELECIMENTO VAREJISTA.
+PRELIMINAR Nulidade da r. sentença Inocorrência Fim colimado com a perícia que em nada alterou a solução da controvérsia Rejeição.
+DECADÊNCIA Questão já decidida, anteriormente, por meio decisão interlocutória objeto de recurso de agravo de instrumento Impossibilidade de reanálise da matéria Não conhecimento.
+MÉRITO Impossibilidade de creditamento de ICMS recolhido em pagamento de energia elétrica Ausência de caráter industrial nas atividades desempenhadas Tema nº 242/STJ Precedentes Não apresentação da documentação requisitada pelo Fisco, conforme corroborado pela prova pericial produzida Higidez da autuação fiscal Manutenção.
+MULTA PUNITIVA Inexistência de ilegalidade ou caráter confiscatório Inaplicabilidade do princípio da consunção Multa cominadas em percentuais de até 100% dos "valores básicos atualizados" do tributo (art. 85, § 9º, Lei nº 6.374/1989)Manutenção.
+TERMO INICIAL DOS JUROS DE MORA Pretensão de que passem a corresponder ao dia útil seguinte ao vencimento dos tributos ora exigidos Cabimento Não há como se justificar a incidência dos juros em data anterior àquela em que os valores poderiam ter sido pagos (até o dia 20 do mês seguinte ao período de apuração) Precedente desta C. Câmara Reforma. Apelo parcialmente provido, com observação.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 161 do CTN. Sustenta que "O v. acórdão confundiu data de vencimento do crédito com data de início da mora" (fl. 1.901) e que "o termo inicial da mora  ..  ocorre com o término do período de apuração. Se um tributo é apurado mensalmente, a mora passa a se constituir com início do próximo período de apuração, ou seja, o início do mês seguinte, nos termos do que determina o art. 565, inciso I, alínea "c" do Regulamento do ICMS (Decreto n. 45.490/2000). Em se tratando de estorno de créditos indevidos, os juros devem ser contados nos termos da lei tributária. Portanto, neste aspecto, a data de início dos juros de mora deve permanecer como lançada pela recorrente" (fl. 1.902).
+Contrarrazões às fls. 1.964/1.968.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que, na data de hoje, considerando o agravo em recurso especial interposto pela Companhia Brasileira de Distribuição Incorporador do Sé Supermercados Ltda. n o bojo dos presentes autos, proferi decisão em que foi determina do o retorno dos autos à instância de origem para juízo de conformação do acórdão recorrido com o REsp 1.117.139/RJ - Tema 242.
+Nesse contexto, tendo em vista a impossibilidade de cisão do julgamento, bem como a própria devolução do feito à origem, é o caso de se ter por prejudicado o exame da presente irresignação no momento.
+ANTE O EXPOSTO, julgo prejudicado o exame do agravo em recurso especial da Fazenda do Estado de São Paulo no presente momento processual.
+Publique-se.
+EMENTA
