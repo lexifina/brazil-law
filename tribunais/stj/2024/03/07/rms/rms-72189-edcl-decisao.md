@@ -1,0 +1,14 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de fls. 350 (e-STJ).
+Cuida-se de Recurso Ordinário em Mandado de Segurança interposto por MARCOS CHARLES TEIXEIRA, em desfavor de acórdão prolatado pelo TJMG, assim ementado:
+EMENTA: MANDADO DE SEGURANÇA -IRRESIGNAÇÃO FORMULADA EM FACE DE DECISÃO QUE HOMOLOGOU A PROPOSTA DE SUSPENSÃO CONDICIONAL DO PROCESSO -PLEITO QUE DEVE SER FORMULADO PELA VIA ADEQUADA -EXISTÊNCIA DE RECURSOPRÓPRIO AO FIM COLIMADO. MANDADO DE SEGURANÇA NÃO CONHECIDO. 1. É inviável a impetração de Mandado de Segurança contra atos revestidos de conteúdo jurisdicional, passíveis de serem atacados por recursos específicos, até mesmo porque não é a suposta urgência do caso que autoriza a substituição de procedimento próprio por outro que venha a ser mais célere. Precedentes do Supremo Tribunal Federal (RMS 32.017 AgR/DF, Rel. Min. Gilmar Mendes; RMS 30.989/DF, Rel. Min. Cármen Lúcia; RMS 31.214-AgR/DF, Rel. Min. Dias Toffoli).2. Conforme preceitua a Súmula 267 do Supremo Tribunal Federal: "Não cabe mandado de segurança contra ato judicial passível de recurso ou correição." (e-STJ Fl.223)
+Afirma o recorrente, em suma, o cabimento do "mandamus" e a existência de violação ao art. 89, § 7º, da Lei Federal n. 9.099/1995.
+O Ministério Público Federal, como "custos legis", aduziu o conhecimento do expediente recursal e, no mérito, o provimento do recurso (e-STJ Fl.342/347).
+Decisão Monocrática indefere o pedido. (e-STJ Fl. 350-352)
+A parte autora interpõe embargos de declaração suscitando omissão (e-STJ Fl. 353-359).
+É o relatório. DECIDO.
+O conhecimento dos Embargos de Declaração demanda a indicação de ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do CPP.
+Embora a parte embargante tenha afirmado omissão, certo é que "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão). Na espécie, à conta de omissão no v. acórdão, pretende o embargante a rediscussão, sob nova roupagem, da matéria já apreciada" (EDcl no AgRg nos EDcl nos EAREsp n. 1.604.546/PR, relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 08/02/2023, DJe de 22/02/2023).
+De fato, "É cediço o entendimento de que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015 e que o juiz não é obrigado a rebater todos os argumentos aduzidos pelas partes." (AgInt no AREsp 2148572 / MG, RELATOR Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DATA DO JULGAMENTO 22/05/2023, DATA DA PUBLICAÇÃO/FONTE DJe 05/06/2023 )
+Dessa forma, nego provimento aos embargos.
+EMENTA
