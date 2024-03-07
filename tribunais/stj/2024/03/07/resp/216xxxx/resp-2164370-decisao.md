@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por VÂNIA RAMOS DA SILVA, com base no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado (e-STJ, fl. 450):
+APELAÇÃO CÍVEL - AÇÃO DE MANUTENÇÃO DE POSSE - CONSTRUÇÃO EM FAIXA DE SEGURANÇA DE LINHA DE ENERGIA - OCUPAÇÃO CLANDESTINA -TURBAÇÃO COMPROVADA - DEMOLIÇÃO DA CONSTRUÇÃO - IMPOSSIBILIDADE DE INDENIZAÇÃO PELAS BENFEITORIAS - ART. 1.219 DO CÓDIGO CIVIL -RECURSO DESPROVIDO.
+-Demonstrado que houve a construção irregular em faixa de segurança de linha de energia, a manutenção de posse, com a consequente demolição da construção, é medida que se impõe.
+- Embora a construção seja utilizada como moradia, impossível permitir que permaneça o réu na posse clandestina da área, notadamente considerando os riscos decorrentes da proximidade da linha de energia.
+- Nos termos do art. 1.219 do Código Civil, somente são indenizáveis as benfeitorias ao possuidor de boa-fé.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 480-485).
+Em suas razões de recurso especial (e-STJ, fls. 488-506), a agravante alegou violação aos arts. 1º, III, 5º, XXXVI e 6º da CF; 1.022 e 1.025 do CPC/2015; e 1.201, 1.202 e 1.219 do CC/2002.
+Aduziu, em síntese, que o acórdão recorrido foi omisso, pois não se manifestou a respeito das provas, que demonstram a posse de boa-fé exercida pela recorrente.
+Defendeu ter direito a ser indenizada pelas benfeitorias realizadas no imóvel objeto da lide, por ter comprovada a posse, com ânimo de dono, por mais de 10 (dez) anos.
+Sustentou que "o ordenamento jurídico protege a segurança jurídica, as legítimas expectativas geradas, além de o direito à moradia e a razoabilidade e proporcionalidade das medidas judiciais" (e-STJ, fl. 501).
+Contrarrazões às fls. 513-529 (e-STJ).
+O Tribunal de origem não admitiu o processamento do recurso especial, o que levou o insurgente à interposição de agravo, no qual aponta usurpação de competência, no momento da emissão do juízo prévio de admissibilidade.
+Brevemente relatado, decido.
+Convém registrar que deve ser afastada a alegação da agravante quanto à usurpação de competência por parte do Tribunal de origem. Isso porque cabe ao Presidente da Corte local examinar a admissibilidade do recurso especial, o que por vezes implica exame superficial do próprio mérito, não significando usurpação de competência. Assim dispõe o enunciado n. 123 da Súmula do Superior Tribunal de Justiça: "a decisão que admite, ou não, o recurso especial deve ser fundamentada, com o exame dos seus pressupostos gerais ou constitucionais."
+Por outro lado, vale ressaltar que, concernente à alegação de ofensa aos arts. 1º, III, 5º, XXXVI e 6º da CF/1988, é evidente a inadequação da via recursal eleita, porquanto "Não cabe ao Superior Tribunal de Justiça, em recurso especial, a análise de ofensa a dispositivos constitucionais, cuja competência é do Supremo Tribunal Federal, consoante o disposto no artigo 102 da Constituição Federal" (AgInt no REsp 1.933.028/SP, Relator Ministro Ricardo Villas Bôas Cueva, DJe 30/9/2021).
+No que tange à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição, erro material ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Confira-se o seguinte excerto do voto dos aclaratórios (e-STJ, fl. 483, sem grifo no original):
+O fato de ter, a embargante, construído sua moradia no terreno em discussão e de não ter ciência da irregularidade desta construção não é capaz de afastar a clandestinidade da ocupação. Ademais, embora sensibilizado pela narrativa recursal que envolve o direito fundamental à moradia, entendo que inviável permitir que continue a parte a residir em área invadida e de risco, a ponto de comprometer a vida do embargante.
+Vale ainda destacar que, em se tratando de ação possessória, em que busca a concessionária de energia elétrica a reintegração de posse, preenchidos os requisitos previstos no art. 561 do CPC, é de se determinar a desocupação da área por aquele que não é o legítimo possuidor. Com efeito, inexiste espaço para debate de outras questões.
+Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+O Tribunal de origem assim se manifestou acerca da posse (e-STJ, fls. 452-453):
+Discute-se, no presente recurso, o direito da CEMIG de ser mantida na posse do imóvel, que constitui faixa de segurança de linha de transmissão de energia elétrica, em que houve a construção irregular promovida pelo réu.
+Prima facie, insta consignar que, acerca da reintegração e da manutenção de posse, dispõe o Código de Processo Civil de 2015: (..)
+Portanto, desde que comprovados os requisitos do art. 558 c/c art. 561 do CPC/2015, será o possuidor mantido na posse.
+No caso dos autos, os documentos juntados pelo autor, ora apelado, ao eDoc. 07 demonstram que o apelante promoveu uma construção na faixa de segurança da linha de energia Barreiro/Mannesman, valendo destacar que, nas razões recursais em análise, a ré/apelante confirma tais fatos, alegando apenas que deveria ser preservado seu direito de moradia.
+Ademais, foi produzida prova pericial (eDoc. 28), em que se constatou que "o imóvel objeto da lide encontra-se inserido na faixa de segurança da Linha de Distribuição de Energia da CEMIG", o que acarreta risco de choques elétricos, exposição direta ao campo elétrico e magnético, risco de incêndio, risco de queda da estrutura e rompimento de cabos energizados sobre a construção. Cediço que a construção irregular, sobretudo a realizada próximo a linhas de transmissão, é questão preocupante e que deve ser observada com atenção pelas concessionárias de serviço público, a fim de se evitar desastres que exponham a risco a vida da população.
+Embora sensibilizado pela narrativa recursal que envolve o direito fundamental à moradia, entendo que inviável permitir que continue o apelante a residir em área invadida e de risco.
+( )
+Por derradeiro, tem-se por descabida a indenização pelas benfeitorias, nos termos do art. 1.219 do Código Civil, uma vez que esta somente seriam devidas ao possuidor de boa-fé.
+Em se tratando de ocupação clandestina de faixa de segurança, afasta-se a pretendida indenização.
+Desta forma, não há que se falar em retenção de benfeitorias, tendo em vista que a ré construiu em área invadida e de risco, que pode, inclusive, comprometer a vida da insurgente.
+Logo, não há como desconstituir o entendimento delineado no acórdão impugnado (ocupação clandestina, sendo indevida a indenização pelas benfeitorias), sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. PRESENÇA DOS REQUISITOS. REVISÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não se admite a revisão do entendimento do tribunal de origem quando a situação de mérito demandar o reexame do acervo fático-probatório dos autos, tendo em vista a incidência do óbice da Súmula n. 7 do STJ.
+2. De acordo com o disposto no art. 85, § 11, do CPC, ao negar provimento ao recurso, o Tribunal deve majorar o valor dos honorários advocatícios já arbitrado nas instâncias de origem em desfavor da parte recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.108.368/MA, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE MANUTENÇÃO DE POSSE. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE DE EXAME PELO STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. OCUPAÇÃO CLANDESTINA EM ÁREA DE RISCO. AUSÊNCIA DE DIREITO A INDENIZAÇÃO POR BENFEITORIAS. REVISÃO DO ACERVO FÁTICO PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
