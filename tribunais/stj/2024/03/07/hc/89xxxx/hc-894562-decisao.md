@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de Iuren Henrique dos Santos Ferreira  condenado como incurso no crime de homicídio qualificado  , em que se aponta como autoridade coatora o Tribunal de Justiça do Piauí (Habeas Corpus n. 0754290-43.2023.8.18.0000), não comporta processamento.
+Com efeito, busca a impetração a revogação da prisão cautelar imposta na sentença condenatória pelo Juízo de Direito da 2ª Vara do Tribunal Popular do Júri da comarca de Teresina/PI (Autos n. 0002781-24.2019.8.18.0140), aos argumentos da ausência dos requisitos da prisão preventiva, além de que o novo art. 492 do CPP viola a presunção constitucional de inocência, na medida em que trata o réu como culpado, executando antecipadamente sua pena, sem respeitar o marco constitucional do trânsito em julgado (fl. 9).
+Ocorre que, da análise da sentença, observa-se que o Magistrado singular logrou fundamentar a necessidade da custódia na probabilidade concreta de reiteração delitiva, ao afirmar que, analisando o caso, verifico que o réu encontra-se solto por este processo. Acontece que há fatos novos que devem ser analisados a este momento. Analisando os outros processos do denunciado, verifico que decorreram uma série de outros crimes após o presente: latrocínio  9 , processos judiciais 0004452-48.2020.8.18.0140 (imputação do Art. 16, §1º, inciso IV, da Lei nº10.826/2003), 0841173-92.2022.8.18.0140 (imputação do art. 12 da Lei nº 10.826/2003), 0800658-70.2021.8.18.0036 (homicídio qualificado) e0807392-45.2023.8.18.0140 (tentativa de homicídio qualificado) (fl. 56).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA DECRETADA NA SENTENÇA CONDENATÓRIA. INDICAÇÃO DE ELEMENTOS CONCRETOS. OUTRAS AÇÕES PENAIS POR CRIMES GRAVES (LATROCÍNIO E HOMICÍDIO). CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
