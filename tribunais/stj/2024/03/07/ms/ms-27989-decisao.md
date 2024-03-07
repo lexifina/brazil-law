@@ -1,0 +1,28 @@
+DECISÃO
+Vistos.
+Trata-se de mandado de segurança, com pedido de liminar, impetrado por ADILSON IVO BATISTA DE SOUZA contra suposto ato omissivo do Sr. Ministro de Estado da Economia, consiste no não enquadramento dos Técnicos do Seguro Social em Analista Tributário da Receita Federal do Brasil, nos termos previstos na Lei n. 11.907/2009 (Rejeição do Veto n. 8/2009).
+Alega que com a rejeita do veto presidencial, ocorrida em 30/04/2021, o art. 10, II, da Lei n. 11.907/2009 passa a ter plena validade, impondo-se a transformação em cargos de Analista-Tributário da Receita Federal do Brasil os cargos efetivos de Técnico da Receita Federal da carreira auditoria da Receita federal.
+Entendendo que o ato omissivo ofende seu direito líquido e certo, requer a concessão de medida liminar para que seja determinado o imediato reenquadramento determinado em lei, pleiteando, no mérito, a concessão definitiva da segurança.
+A inicial veio acompanhada dos documentos de fls. 20/54e.
+A liminar foi indeferida (fls. 80/81e).
+A União manifestou interesse no feito (fls. 86/87e) e, posteriormente, foi retificada a autuação.
+Informações apresentadas às fls. 90/210ee.
+O Ministério Público Federal manifestou-se opinando pela denegação da segurança (fls. 213/217)e.
+É o relatório. Decido.
+Trata-se de Mandado de Segurança objetivando o enquadramento de Técnico do Seguro Social no cargo de Analista Tributário da Receita Federal do Brasil, nos termos previstos no art. 257 da Lei n.11.907/2009, o qual assim estabelece:
+Art. 257. O inciso II do caput do art. 10 da Lei n. 11.457, de 16 de março de 2007, passa a vigorar com a seguinte redação:
+II - em cargos de Analista-Tributário da Receita Federal do Brasil, de que trata o art. 5º da Lei n. 10.593, de 6 de dezembro de 2002, com a redação conferida pelo art. 9º desta Lei, os cargos efetivos, ocupados e vagos, de Técnico da Receita Federal da Carreira Auditoria da Receita Federal prevista na redação original do art. 5º da Lei nº 10.593, de 6 de dezembro de 2002, e os cargos efetivos, ocupados e vagos, dos servidores de que trata o art. 12 desta Lei redistribuídos para a Secretaria da Receita Federal do Brasil até a data da publicação da Medida Provisória b. 440 de 29 de agosto de 2008.
+Ocorre que a validade do texto normativo foi questionada no bodo da ADI n. 6.966/DF, na qual se reconheceu a inconstitucionalidade do reenquadramento assegurado na lei, ao fundamento de que a norma padece de inconstitucionalidade formal, porquanto implica em aumento de despesa, considerando a disparidade remuneratória entre os cargos transformados, confirmando a liminar que suspendia os efeitos do texto normativo.
+Eis a ementa do julgado:
+AÇÕES DIRETAS DE INCONSTITUCIONALIDADE. JULGAMENTO CONJUNTO. REFORMULAÇÃO DA ADMINISTRAÇÃO TRIBUTÁRIA FEDERAL. TRANSPOSIÇÃO DO CARGO DE TÉCNICO DO TESOURO NACIONAL PARA O CARGO DE TÉCNICO DA RECEITA FEDERAL. MEDIDA PROVISÓRIA 1.915/1999 E LEI FEDERAL 10.593/2002. TRANSFORMAÇÃO DO CARGO DE TÉCNICO DA RECEITA FEDERAL EM CARGO DE ANALISTA TRIBUTÁRIO DA RECEITA FEDERAL DO BRASIL. REDISTRISTRIBUIÇÃO DE CARGOS DA SECRETARIA DA RECEITA PREVIDENCIÁRIA PARA A RECEITA FEDERAL DO BRASIL. LEI FEDERAL 11.457/2007. AMPLIAÇÃO DOS EFEITOS DA TRANSFORMAÇÃO A OUTROS CARGOS INICIALMENTE NÃO CONTEMPLADOS. EMENDA PARLAMENTAR. PROJETO DE LEI DO PODER EXECUTIVO. VETO. SUPERAÇÃO DO VETO. LEI FEDERAL 11.907/2009.
+1. A reestruturação de cargos públicos pressupõe a similitude entre as atribuições, a equivalência salarial e a identidade dos requisitos de escolaridade para ingresso nos cargos envolvidos. A transposição do cargo de Técnico do Tesouro Nacional para o cargo de Técnico da Receita Federal (Art. 9º da MP 1.915/1999 e Art. 17 da Lei 10.593/2002) não implicou em alteração substancial das atribuições dos cargos em questões. Constatada a absoluta identidade de atribuições e padrão remuneratório, a alteração tão somente do nível de escolaridade exigido para ingresso na carreira não implica, consideradas as particularidades do caso concreto, em provimento derivado de cargo público.
+2. A transformação do cargo de Técnico da Receita Federal em cargo de Analista-Tributário da Receita Federal do Brasil se mostra compatível com a Constituição Federal ante a similitude entre as atribuições e a identidade dos requisitos de escolaridade. Equivalência salarial. Comparação inaplicável. Constitucionalidade. Precedentes.
+3. Mostra-se ofensivo à isonomia e à eficiência administrativa a não inclusão do cargo de Analista Previdenciário dentre os cargos transformados em Analista-Tributário da Receita Federal do Brasil. Distinções e particularidades quanto ao requisito da equivalência salarial . Interpretação conforme sem redução de texto.
+4. É inconstitucional, porque ofensiva à reserva de iniciativa do chefe do Poder Executivo, a ampliação, via emenda parlamentar, dos cargos inicialmente previstos na estreita transformação de cargos enunciada na redação original do Art. 10, II da Lei 11.457/2007.
+5. Ação Direta de Inconstitucionalidade 4.616 julgada improcedente. Ação Direta de Inconstitucionalidade 4.151 julgada parcialmente procedente. Ação Direta de Inconstitucionalidade 6.966 julgada procedente, referendando-se a medida cautelar anteriormente deferida.
+(ADI 6.966/DF, Rel. Min. Gilmar Mendes, julgalda em 27.11.2023, DJe 31.1.2024).
+Desse modo, o artigo que ampararia o direito líquido e certo do autor não tem eficácia jurídica, impondo-se a denegação da ordem.
+Posto isso, nos termos do art. 34, XIX, do RISTJ, DENEGO A SEGURANÇA.
+Incabível a condenação em honorários advocatícios, a teor do disposto no art. 25 da Lei n. 12.016/2016 e Súmula 105/STJ.
+Publique-se e intimem-se.
+EMENTA
