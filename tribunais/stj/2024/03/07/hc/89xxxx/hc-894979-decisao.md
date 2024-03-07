@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 40):
+HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ARTIGO 35 DA LEI N. 11.343/06. PRISÃO PREVENTIVAFUNDAMENTADA, COM ESPECIFICAÇÃO DOS REQUISITOS DO E DO FUMUS COMISSI DELICTIPERICULUM LIBERTATISREQUISITOS LEGAIS DEVIDAMENTE PREENCHIDOS (CPP, ART.312). INDÍCIOS DE AUTORIA E PROVA DA MATERIALIDADE. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE CONCRETA DA PACIENTE E DO DELITOSUPOSTAMENTE COMETIDO. APREENSÃO DE APARELHOS DETELEFONE CELULAR E EXTRAÇÃO DE DADOS. INVESTIGADOSASSOCIADOS PARA A PRÁTICA DO CRIME DE TRÁFICO DEDROGAS. VENDA DE ENTORPECENTES PARA REGIÕES DIVERSASPOR MEIO DE RISCO DE REITERAÇÃO DELITIVA. DELIVERY. PRIMARIEDADE, EMPREGO LÍCITO E RESIDÊNCIA FIXA. IRRELEVÂNCIA. CONDIÇÕES PESSOAIS DA PACIENTE QUE NÃOSÃO APTAS A AFASTAR A PRISÃO CAUTELAR QUANDOPREENCHIDOS OS REQUISITOS LEGAIS QUE INDICAM SUANECESSIDADE. INSUFICIÊNCIA DAS MEDIDAS CAUTELARESALTERNATIVAS À PRISÃO. CONSTRANGIMENTO ILEGAL NÃOCONFIGURADO. ORDEM DENEGADA.
+Consta dos autos que a paciente está presa preventivamente e responde por associação para o tráfico.
+Sustenta o impetrante, em síntese, que a custódia não estaria devidamente fundamentada, além de violação do art. 316 do CPP, estando presa há 7 meses.
+Requer, liminarmente e no mérito, que seja revogada a prisão.
+A matéria relativa à violação do art. 316 do CPP não foi examinada pelo Tribunal a quo. Tal circunstância obsta a apreciação da questão por essa e. Corte Superior, sob pena de se incorrer em indevida supressão de instância.
+Não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC 126.604/MT, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 07/12/2020, DJe 16/12/2020).
+Por outro lado, o rito do habeas corpus demanda prova documental pré-constituída do direito alegado pela defesa.
+Na hipótese, a impetrante não colacionou aos autos a cópia da íntegra do decreto de prisão. A decisão de fls. 14/15, na verdade, é ata da audiência de custódia pelo cumprimento do mandado de prisão preventiva, de forma que a ausência de peça essencial ao deslinde da controvérsia impede o exame sobre as alegações, razão pela qual deve ser negado seguimento ao presente writ. A propósito, os seguintes precedentes:
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL EM HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. PROVA PRÉ-CONSTITUÍDA. NECESSIDADE. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL E NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, pois, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração.
+2. A inicial do writ não veio acompanhada da cópia do acórdão proferido por ocasião do julgamento da apelação, o que prejudica a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal.
+3. Pedido de reconsideração recebido como agravo regimental. Agravo não provido. (PET no HC 584.863/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 09/06/2020, DJe 17/06/2020).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME AMBIENTAL. TRANCAMENTO DA AÇÃO PENAL. DEFICIÊNCIA NA INSTRUÇÃO. IMPOSSIBILIDADE DE APRECIAÇÃO DO PEDIDO FORMULADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Cabe ao impetrante apresentar documentos suficientes para a apreciação dos pedidos formulados de modo a facultar a análise de eventual ilegalidade flagrante no ato atacado, providência não efetivada pelo impetrante, quer no momento da impetração, quer neste recurso.
+2. Neste caso, não há nos autos cópia da inicial acusatória nem a integralidade do acórdão denegatório do habeas corpus na origem, impossibilitando a apreciação dos pedidos formulados em face da deficiência da instrução.
+3. Agravo regimental improvido. (AgRg no HC 558.959/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/05/2020, DJe 27/05/2020)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
