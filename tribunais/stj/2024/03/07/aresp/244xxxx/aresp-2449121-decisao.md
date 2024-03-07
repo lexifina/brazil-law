@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por NOTRE DAME INTERMÉDICA SAÚDE S.A. contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. NEGATIVA DE COBERTURA DE PROCEDIMENTO CIRÚRGICO EM HOSPITAL NÃO INTEGRANTE DO TIPO DE PLANO DO QUAL O PACIENTE É BENEFICIÁRIO. AUSÊNCIA DE DEMONSTRAÇÃO DE NOSOCÔMIOS CREDENCIADOS APTOS A PRESTAR O ATENDIMENTO. COBERTURA DEVIDA. HOSPITAL QUE ATENDE AO PLANO OPERADO PELA OPERADORA. DANOS MORAIS. NÃO CONFIGURAÇÃO. MERO INADIMPLEMENTO CONTRATUAL. RECURSO PARCIALMENTE PROVIDO. 1. Não tendo a Operadora comprovado a existência de hospital apto credenciado ao tipo de plano do qual o paciente é beneficiário, de rigor o custeio integral da cirurgia em outro nosocômio, máxime quando este é conveniado para outros tipos de planos dentro da Operadora. 2. A negativa de cobertura de procedimento, por si só, configura mero inadimplemento contratual e não tem o condão de gerar dano moral indenizável. Precedentes dessa C. 6ª Câmara" (fl. 218 e-STJ).
+No recurso especial, alega-se, além de divergência jurisprudencial, violação dos arts. 104 e 422 do Código Civil e 35-C da Lei nº 9.656/1998, ao fundamento de que o contrato firmado entre as partes veda de forma expressa a cobertura de cirurgias fora da rede credenciada, devendo o recorrido custear integralmente os procedimentos, que foram eletivos.
+Co m as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No que concerne ao dever de custear a cirurgia do recorrido, o Tribunal de origem, à luz da prova dos autos, assim se pronunciou:
+"(..)
+No caso em tela, a apelante, apesar de ter relacionado alguns nosocômios e profissionais (pág. 88) credenciados para o tipo do plano de saúde do qual o apelado é beneficiário (Ideal Standard Coletivo pág. 7), não comprovou que eles estivessem aptos a realizar a cirurgia oncológica que lhe fora indicada (pág. 58 c.c. 55/56), a qual era de alta complexidade e realizada apenas em "centros especializados e tecnológicos" (pág. 58).
+Destaca-se que à apelante foi oportunizada a produção de provas a fim de corroborar a sua tese (pág. 149). Não obstante isso, ela informou que não possuía "qualquer interesse em produzir novas provas" e pleiteou "pelo julgamento antecipado da lide" (pág. 152/153), não se desincumbindo, portanto, do seu ônus processual.
+Em uma hipótese como essa, então, era de rigor a condenação da apelante ao custeio da cirurgia no Hospital Leforte, máxime porque no próprio site do nosocômio há a informação de que ele atende ao convênio Notre Dame/Intermédica" (fl. 220/221 e-STJ).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+Registre-se, outrossim, que, consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+É o que se observa do seguinte julgado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. PRESCRIÇÃO CONSUMADA. DESCONSTITUIÇÃO DO ENTENDIMENTO DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ANÁLISE FEITA COM BASE NO SUPORTE FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO INTERNO DESPROVIDO.
+1. Rever as conclusões das instâncias ordinárias quanto à ocorrência de prescrição da ação declaratória de inexistência de débito cumulada com repetição de indébito e indenização por danos morais exige, necessariamente, a incursão no material fático-probatório dos autos, notadamente porque as alegações da recorrente são no sentido de considerar outro termo inicial para a contagem do prazo prescricional, o que atrai a aplicação da Súmula 7/STJ.
+2. No que toca ao conhecimento do apelo especial por divergência jurisprudencial, também não colhe êxito. Isso porque julgado fundado em fatos e provas (incidência da Súmula 7/STJ) não enseja a possibilidade de demonstração da similitude fática, conforme tranquilo entendimento desta Corte Superior.
+3. Agravo interno desprovido" (AgInt no AREsp 1.114.253/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 6/11/2017 - grifou- se).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais devidos pelo recorrente foram fixados em 12% (doze por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
