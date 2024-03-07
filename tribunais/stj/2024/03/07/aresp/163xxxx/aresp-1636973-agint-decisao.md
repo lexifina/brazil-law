@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interno interposto por BELTRÃO ADVOGADOS ASSOCIADOS S. S. contra decisão mediante a qual a Presidência desta Corte negou provimento a seu agravo em recurso especial, ao fundamento de que a aplicação das Súmulas 7 e 83/STJ não teria sido impugnada na minuta do agravo.
+Em face das razões de fls. 514/525, reconsidero a decisão agravada.
+Com efeito, a aplicação do referido enunciado da Súmula foi impugnada pelo agravo em recurso especial, mormente a partir da fl. 480, em que o agravante expõe as razões pelas quais, em seu entender, o óbice não incide sobre o caso. Não se aplica, portanto, a regra dos artigos 932, III, do Código de Processo Civil de 2015 e 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, nem a Súmula 182/STJ.
+Procedo, portanto, a nova análise do agravo em recurso especial.
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AÇÃO DE RESCISÃO CONTRATUAL C/ INDENIZAÇÃO POR DANOS MORAIS - AQUISIÇÃO DE AUTOMÓVEL ZERO QUILÔMETRO - VÍCIOS DO PRODUTO SOLUCIONADOS PELA CONCESSIONÁRIA NO PRAZO LEGAL - DANOS MORAIS DEVIDOS - SITUAÇÃO QUE ULTRAPASSA O MERO DISSABOR - SENTENÇA REFORMADA - SUCUMBÊNCIA RECÍPROCA - RECURSO CONHECIDO E PROVIDO.
+Nas razões de recurso especial, a parte agravante alega violação dos arts. 85 e 86 do Código de Processo Civil, além de divergência jurisprudencial. Sustenta não ter sido adequada a distribuição dos ônus da sucumbência recíproca, já que cada qual foi condenada ao pagamento de 50% (cinquenta por cento) dos honorários advocatícios. Argumenta que seu êxito foi superior, o que justifica redimensionar os ônus sucumbenciais.
+Assim posta a questão, observo que o recurso especial não dispensa o reexame de prova. Com efeito, "a apreciação do quantitativo em que autor e réu saíram vencidos na demanda, bem como da proporção em que cada parte restou sucumbente em relação ao pedido inicial, encontra inequívoco óbice na Súmula n. 7/STJ, por revolver matéria eminentemente fática" (AgRg no Ag n. 871.706/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 20/11/2007, DJ de 11/2/2008, p. 1).
+Confiram-se, também:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE VEÍCULO. ATROPELAMENTO DE CICLISTA. LESÕES GRAVES. DANO MATERIAL. DESPESAS ATÉ O FIM DA CONVALESCENÇA. REVISÃO DO DANO MORAL. INVIABILIDADE. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. Não configura ofensa aos arts. 458 e 535 do Código de Processo Civil de 1973 o fato de o col. Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. A determinação de apuração, na fase de execução, dos valores da indenização por danos materiais, relativos às despesas médicas até a plena convalescença do autor, não viola os arts. 475-A e 475-E do CPC/73.
+3. Somente é possível a revisão do montante da indenização por danos morais, nas hipóteses em que o quantum for exorbitante ou irrisório, o que não se verifica no caso dos autos, em razão das lesões corporais de natureza grave, deformidade permanente e incapacidade para o trabalho.
+4. A apreciação do quantitativo em que as partes saíram vencedoras ou vencidas na demanda, bem como da existência de sucumbência mínima ou recíproca, é inviável em sede de recurso especial, diante da clara necessidade de incursão nos elementos fáticos dos autos. Incidência da Súmula 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 54.203/SP, relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), Quarta Turma, julgado em 23/8/2018, DJe de 28/8/2018.)
+AGRAVO INTERNO NO AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - ATRASO NA ENTREGA DE OBRA - COBRANÇA DE MULTA CONTRATUAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA RÉ. 1. A reforma do acórdão recorrido, a fim de se entender que não houve notificação para constituição em mora ou dessa ter sido genérica, como pretende a insurgente, demanda a incursão no acervo fático-probatório, prática vedada pelas Súmulas 5 e 7/STJ.
+2. A verificação do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda, a fim de reformular a distribuição dos ônus de sucumbência, bem como a alteração da sucumbência mínima ou recíproca identificada pela instância ordinária, são inviáveis no âmbito do recurso especial, por demandar o reexame de matéria fática, o que esbarra no óbice da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no AgRg no AREsp n. 618.577/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 1/3/2018, DJe de 6/3/2018.)
+Aplica-se ao caso a Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Quanto à interposição pela alínea "c" do art. 105, III, da Constituição Federal, esta Corte tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso, com base na qual, deu solução à causa o Tribunal de origem.
+Intimem-se.
+EMENTA
