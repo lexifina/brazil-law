@@ -1,0 +1,12 @@
+DECISÃO
+Na origem, trata-se de ação proposta pelo ora requerentes, pleiteando, em síntese, danos morais em virtude de segregação, além do afastamento de seus genitores, derivados da política pública adotada na década de 1980 para o tratamento de pessoas diagnosticadas com hanseníase. O Tribunal Regional Federal da 4ª Região manteve a sentença que reconheceu a prescrição quinquenal da pretensão.
+Nesta Corte, em sede de agravo interno, restou mantida a decisão que conhecera parcialmente do recurso especial e, nessa extensão, negou-lhe provimento, porquanto ausente a negativa de prestação jurisdicional.
+Após a rejeição dos aclaratórios (fls. 480-489), peticiona mais uma vez a parte recorrente informando a ocorrência de outro "fato novo", qual seja, a tramitação no Supremo Tribunal Federal da APDF n. 1.060/DF, ajuizada em abril de 2023 pelo Movimento de Reintegração das Pessoas Atingidas pela Hanseníase - MORHAN, em face do art. 1º do Decreto 20.910/1932, visando à declaração de inconstitucionalidade parcial, sem redução de texto, para fins de reconhecimento da imprescritibilidade em hipóteses análogas ao caso concreto, nas quais há pretensão relacionada ao direito à reparação de filhos sadios separados de genitores com hanseníase internados compulsoriamente.
+Esclarecem, ainda, os peticionantes, que o Ministério Público Federal vem intervindo nos processos dessa matéria, requerendo prazo, solicitando retirada de pauta, postulando pelo seu cadastramento para manifestação etc., assim como emitindo pareceres favoráveis à tese de imprescritibilidade e reforçando a relevância do que está sendo discutido no STF com a tramitação da mencionada ADPF.
+Invocam, assim, com base nos princípios da segurança jurídica e da isonomia, a suspensão do presente feito para que se aguarde o posicionamento definitivo do STF na referida ADPF.
+Em consulta ao sistema informatizado do Supremo Tribunal Federal, verifica-se que a ADPF n. 1.060/DF encontra-se em fase incipiente de tramitação, e nada se dispôs acerca da necessidade de suspensão dos processos que versem sobre a mesma questão de direito.
+É o relatório. Decido.
+Não prospera a pretensão dos peticionantes, porquanto, com o julgamento dos Embargos de Declaração de fls. 420-427, acórdão proferido às fls. 480-489, e a ausência de recurso hábil a impugnar o julgado, exauriu-se a competência deste Superior Tribunal de Justiça para examinar o processo neste momento processual.
+Assim sendo, certifique-se o trânsito em julgado e baixem-se os autos à origem.
+Publique-se. Intimem-se.
+EMENTA
