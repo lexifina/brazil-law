@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de Cassiane de Jesus Ventura - condenada como incursa no crime de tráfico de drogas -, em que se aponta como autoridade coatora o Tribunal de Justiça de Santa Catarina (Apelação Criminal n. 5026204-33.2023.8.24.0038), não comporta conhecimento.
+Com efeito, busca a impetração a aplicação da minorante do tráfico privilegiado, ao argumento de que, em nenhum momento, foi localizada qualquer conversa da paciente sobre algum grupo criminoso, ou organização criminosa, as famigeradas facções  .. . Concluir que a mesma se dedicava a atividade criminosa por terem sido encontrados duas imagens e três/quatro conversas em um aparelho celular, dentro do período 3 dias, como transcrito no acordão 7/6 há 10/6/2023, não é uma forma de dedicação às atividades criminosas (fl. 9).
+Ocorre que a via eleita foi indevidamente utilizada para revisar a condenação imposta e mantida pelas instâncias ordinárias, não foi juntada cópia integral da sentença condenatória e alcançar conclusão inversa do Tribunal de origem  o qual consignou que, em momento algum, a sentença condenatória apontou que os indivíduos que foram filmados durante o fracionamento do produto entorpecente seria da apelante. Pelo contrário, a referida prova, aliada às mensagens extraídas do celular, deixa evidente sua condição de controle sobre toda a operação realizada. Não é demais lembrar que, ao registrar a participação de outros envolvidos, demonstrou ter contribuído para expandir os braços de atuação do tráfico (fl. 118) demandaria reexame de provas, inviável na via estreita.
+Em face do exposto, não conheço da impetração.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. MINORANTE DO TRÁFICO PRIVILEGIADO. UTILIZAÇÃO INDEVIDA DO WRIT. INSTRUÇÃO DEFICIENTE E REEXAME DE PROVAS. CONHECIMENTO. IMPOSSIBILIDADE.
+Writ não conhecido.
