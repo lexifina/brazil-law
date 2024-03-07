@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por WESLEY DIAS MUNIZ contra decisão do Tribunal de Justiça do Estado de Rondônia, que inadmitiu recurso especial, apresentado com fundamento no art. 105, inciso III, alíneas a e c, da Constituição da República na Apelação n. 0003031-63.2019.8.22.0005.
+Consta dos autos que o Juízo de primeiro grau condenou o Agravante às penas de 6 (seis) anos e 17 (dezessete) dias de reclusão, em regime inicial semiaberto, e ao pagamento de 18 (dezoito) dias-multa, no mínimo legal, como incurso no art. 157, § 2.º, inciso II , e § 2.º-A, inciso I, do Código Penal (fls. 313-327).
+Irresignada, a Defesa interpôs apelação, à qual a Corte de origem deu parcial provimento para reconhecer a participação de menor importância do Acusado, nos termos do § 1.º do art. 29 do Estatuto Repressor, redimensionando as penas a 4 (quatro) anos e 11 (onze) dias de reclusão e 12 (doze) dias-multa, mantidas as demais cominações contidas na sentença (fls. 814-823).
+Sustenta a Defesa, nas razões do apelo nobre, contrariedade aos arts. 155, 226 e 386, incisos V e VII, do Código de Processo Penal.
+Aduz que o reconhecimento do Réu não foi realizado conforme o previsto pela legislação de regência.
+Alega que não foram apresentadas provas idôneas e concretas a amparar a condenação, sendo certo que essa está calcada tão somente no suposto reconhecimento da voz do Réu, sem qualquer prova técnica a comprová-lo.
+Foram apresentadas contrarrazões (fls. 408-417). O recurso especial não foi admitido (fls. 420-423). Foi interposto agravo (fls. 427-431).
+O Ministério Público Federal apresentou parecer, opinando pelo desprovimento do agravo em recurso especial (fls. 506-508).
+É o relatório.
+Decido.
+O Tribunal de origem não apreciou a tese de afronta ao art. 226 do Código de Processo Penal, sem que a parte recorrente tenha oposto embargos de declaração, motivo pelo qual está ausente o necessário prequestionamento, nos termos das Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+No tocante ao pleito absolutório por insuficiência probatória, o aresto atacado, na parte que interessa, está calcado nas seguintes razões de decidir (fls. 816-821; sem grifos no original):
+"A materialidade encontra-se comprovada pela ocorrência policial, relatórios do SEVIC, autos de reconhecimento de pessoa por fotografia, mídias audiovisuais, bem como pelas provas orais carreadas nos autos.
+Em relação à autoria, inicialmente, importante ressaltar que durante as investigações do furto de uma caminhonete, realizado no prédio do Idaron foi descoberta a autoria do apelante Sérgio (Autos n. 0002800-36.2019.3.22.0005), oportunidade em que foi apreendido seu celular e autorizada a quebra de sigilo telefônico.
+Feita a degravação do conteúdo do aparelho celular de Sérgio, foram encontradas informações sobre a prática de outros crimes, dentre eles o roubo da Churrascaria Locatelli, motivo pelo qual foi autorizado o compartilhamento de provas (Autos n. 0002553-55.2019.8.22.0005) (ID 12498713, fl. 20).
+ ..
+Por sua vez, na fase policial, o apelante Wesley negou sua participação no roubo do Escritório da Churrascaria Locatelli e afirmou que não participou das filmagens do referido escritório. Conhece o outro apelante, mas não conhece o corréu Jeferson (ID 12498713, fl. 69).
+Em juízo, Wesley continuou negando seu envolvimento no crime e na realização das fotos e gravações, bem como a recepção dos arquivos por meio de terceiros. Não conhece o corréu Jeferson, apenas Sérgio, da época de escola. Não trocou mensagens com Sérgio, apenas o encontrou há um tempo atrás, no "Bar da Cida", onde conversaram uns 40 minutos. O número de seu celular é 8455-3077, o qual já vinha sendo utilizado há um ano e meio. Seu celular não foi apreendido. Está sendo acusado do roubo porque havia sido preso por receptação um tempo antes e os policiais já estavam sempre pelas redondezas de sua casa, aliado ao fato de conhecer o apelante Sérgio (mídia).
+ ..
+Nota-se pelo conjunto probatório que, apesar de os apelantes negarem o envolvimento no delito, as provas apontam que eles planejaram o crime, fazendo levantamento do local e até mesmo da rotina da funcionária/vítima Hemily, para possibilitar a execução do crime por terceiro (corréu Jeferson).
+Destaca-se que as duas vítimas relataram que as circunstâncias em que o roubo foi cometido, tais como o conhecimento minucioso do local, o momento de vulnerabilidade do escritório e a convicção do assaltante sobre o dinheiro em espécie existente, demonstra que houve estudo e uma vigilância antes da execução do crime.
+ ..
+Consigne-se que, de acordo com os relatórios da SEVIC (ID 12498713, fls. 39/ 43), após a autorização da quebra de sigilo telefônico, foi constatado pelo aparelho celular de Sérgio que ele havia apagado conversas, vídeos e imagens do , mas, realizada a recuperação dos dados, foram WhatsApp restaurados os arquivos de áudio, vídeo e imagens, sendo encontrados cinco vídeos relacionados ao roubo na Churrascaria Locatelli.
+Pela mídia audiovisual VID-20190713-WA0101 consta uma filmagem em que o apelante Sérgio está em companhia de outra pessoa, que foi identificada pelos policiais civis que participaram das investigações como sendo o apelante Wesley, que estava nos fundos do terminal rodoviário e direciona a filmagem para a porta do escritório da Churrascaria Locatelli. Nesse mesmo vídeo o apelante Wesley repassa ao apelante Sérgio informações sobre a rotina dos funcionários, afirmando que constantemente as "meninas" vão até a churrascaria buscar dinheiro, enquanto que um "cara" sozinho fica aguardando no estacionamento. Também fala da facilidade em praticar o crime, sugerindo o emprego de arma de fogo. Por sua vez, o apelante Sérgio recebe as informações anuindo com a prática ilícita (ID 16741690).
+É a transcrição da conversa entre eles:
+ ..
+Já pelo arquivo VID-20190713-WA0119, embora o vídeo não esteja completo, dá para perceber o apelante Wesley falando como praticar o roubo, alertando que não devem chegar de forma ostensiva no momento da abordagem, mas aguardar o melhor momento, "ficar de bobeira" (ID 16741691)
+ ..
+Os referidos vídeos foram gravados no dia 13/17/2019, estando evidente que, em um primeiro momento, o apelante Wesley foi responsável por indicar o lugar a ser praticado o crime e repassar informações iniciais sobre como proceder o roubo.
+ ..
+Destarte, fica óbvio que o local, alvo do roubo, foi monitorado por mais de um dia, e que o apelante Wesley indicou o local, passando as coordenadas, e depois o apelante Sérgio assumiu o monitoramento do escritório, repassando outras informações para "Marquinhos".
+ ..
+Portanto, ao contrário do que afirmou a defesa dos apelantes, as provas colacionadas aos autos são suficientes para sustentar o decreto condenatório, sendo desarrazoada a pretensão absolutória."
+Como se vê, o Tribunal de origem, soberano quanto ao exame do acervo fático-probatório acostado aos autos, concluiu que, na espécie, foram apresentadas provas suficientes e concretas para lastrear a condenação do Réu pelo crime de roubo majorado. Portanto, a inversão do julgado, de maneira a fazer prevalecer a tese absolutória, demandaria, necessariamente, nova incursão nos elementos probantes e fatos que instruem o caderno processual, o que encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+Nesse sentido:
+" ..
+4. No que tange ao pleito absolutório, o Tribunal a quo, soberano na análise das circunstâncias fático-probatórias, concluiu que existem nos autos elementos suficientes para embasar o édito condenatório.
+Nesse contexto, o exame de sua insuficiência, esbarra necessariamente no óbice da Súmula n. 7/STJ.
+5. Agravo regimental desprovido." (AgRg no AREsp n. 1.785.189/CE, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 21/9/2021, DJe de 24/9/2021.)
+" ..
+1. A decisão agravada foi clara ao demonstrar que a Corte estadual, em relação ao delito de roubo circunstanciado, realizou o cotejo entre elementos colhidos durante o inquérito policial e provas produzidas sob o crivo do contraditório judicial e concluiu que os dados constantes dos autos eram suficientes para justificar a responsabilização criminal do réu. Logo, o exame do pleito absolutório esbarra no óbice da Súmula n. 7 do STJ.
+ ..
+3. Agravo regimental não provido." (AgRg no AREsp n. 1.145.482/DF, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 22/9/2020, DJe de 1/10/2020.)
+Por outro lado, a alegação de imprescindibilidade de prova técnica foi afastada pela Corte de origem com esteio nos seguintes fundamentos: " ..  a realização de perícia para verificar a compatibilidade das vozes dos interlocutores e acusados não consiste em requisito necessário para validação do uso dos arquivos como meios de prova, pois trata-se de procedimento formal prescindível, sobretudo quando evidenciada a verossimilhança das vozes. No caso em julgamento, as vozes dos áudios conferem com as vozes dos apelantes durante a audiência de instrução" (fl. 820).
+O entendimento adotado pelo Tribunal a quo está em harmonia com a jurisprudência desta Corte Superior de Justiça, fixado no sentido de que " ..  é despicienda a perícia para a identificação da vozes captadas nas interceptações telefônicas, por ausência de previsão legal na Lei 9.296/96 e quando puder ser aferida por outros meios de provas  .. " (HC n. 541.328/SP, relator Ministro NEFI CORDEIRO, Sexta Turma, julgado em 13/10/2020, DJe de 19/10/2020).
+No mesmo sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO MAJORADO. FUNDAMENTAÇÃO PER RELATIONEM. VALIDADE. INTERCEPTAÇÕES TELEFÔNICAS. OBSERVÂNCIA DOS DITAMES LEGAIS. AUSÊNCIA DE ILEGALIDADE. PROVA EMPRESTRADA. VALIDADE. INSTÂNCIA ORDINÁRIA RECONHECEU HAVER RELAÇÃO ENTRE OS FATOS APURADOS. INCIDÊNCIA DA SÚMULA 7/STJ. VIOLAÇÃO DO ARTIGO 68 DO CP. INOCORRÊNCIA. ACÚMULO DE MAJORANTES JUSTIFICADO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. É prescindível a realização de perícia para a identificação das vozes captadas nas interceptações telefônicas, especialmente quando pode ser aferida por outros meios de provas e diante da ausência de previsão na Lei n. 9.296/1996.
+ ..
+6. Agravo regimental desprovido." (AgRg no REsp n. 2.062.215/RS, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 26/6/2023, DJe de 29/6/2023.)
+Por fim, a parte agravante não fez o cotejo analítico nos moldes exigidos no art. 1.029, § 1.º, do Código de Processo Civil, c.c o art. 3.º do Código de Processo Penal, e no art. 255, § 1.º, do Regimento Interno do Superior Tribunal de Justiça, ou seja, com a transcrição de trechos dos acórdão recorrido e paradigma, para demonstrar a similitude fática e o dissenso na interpretação do dispositivo de lei federal, sendo que a simples transcrição das ementas não satisfaz esse requisito recursal. Tal ausência inviabiliza o conhecimento do recurso especial, pela alínea c da previsão constitucional.
+A esse respeito: AREsp n. 2.268.651/SP, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 20/06/2023, DJe de 23/06/2023; AgRg no AREsp n. 2.045.767/SP, Relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 05/09/2023, DJe de 11/09/2023.
+Ante o exposto, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. ROUBO MAJORADO. ALEGAÇÃO DE AFRONTA AO ART. 226 DO CÓDIGO DE PROCESSO PENAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. PLEITO ABSOLUTÓRIO. SÚMULA N. 7/STJ. PROVA TÉCNICA. DESNECESSIDADE. PRECEDENTES. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
