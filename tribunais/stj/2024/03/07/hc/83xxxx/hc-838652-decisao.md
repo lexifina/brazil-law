@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de SERGEY VLADIMIROVICH CHERKASOV, em que se aponta como autoridade coatora o Tribunal Regional Federal da 3.ª Região (Apelação Criminal n. 5003257-30.2022.4.03.6119).
+Consta dos autos que o Paciente foi condenado, em 27/06/2022, pela prática do delito de uso de documento público falsificado, capitulado no art. 304 do Código Penal, por nove vezes, em continuidade delitiva e concurso material, à pena privativa de liberdade de 15 (quinze) anos de reclusão, em regime fechado, e 16 (dezesseis) dias-multa. A Defesa do Réu interpôs recurso de apelação, remetida à Corte Federal a quo em 17/08/2022.
+Os autos não noticiam a prisão em flagrante ou preventiva do Réu, cidadão russo que assumiu falsa identidade no Brasil e emitiu diversos documentos, que usou para residir e estudar nos Estados Unidos da América e na Irlanda.
+Embora nada indique o cumprimento do mandado de prisão, o Impetrante afirma que o Réu teve sua prisão preventiva decretada em 04/07/2022. Nessa linha, alega excesso de prazo para a formação da culpa  embora já tenha sido proferida sentença e esteja-se na pendência do julgamento do Recurso de Apelação  , porque o Paciente estaria preso há mais de 460 (quatrocentos e sessenta) dias. Pontua que a prisão cautelar do Condenado deveria ser revisada nonagesimalmente e que a demora se revela inadmissível.
+De outro lado, sustenta a desproporcionalidade da prisão preventiva, porque o Paciente supostamente seria espião russo, que não representa risco à sociedade.
+Busca, assim, liminarmente e no mérito, a expedição de alvará de soltura em favor do Paciente ou a substituição da prisão cautelar por medidas alternativas.
+O pedido liminar foi indeferido pela Presidência do Superior Tribunal de Justiça às fls. 28-29 e as informações prestadas às fls. 34-39 e 40-43.
+O Ministério Público Federal opina às fls. 46-49, "pelo NÃO CONHECIMENTO do Writ; eis que utilizado como sucedâneo recursal; acaso ultrapassada a preliminar, pela DENEGAÇÃO da ordem; haja vista que a superveniência do julgamento da apelação defensiva prejudica o pleito de recorrer em liberdade."
+É o relatório. Decido.
+Quanto ao alegado excesso de prazo para julgamento do recurso de apelação, conforme informações prestadas pelo Tribunal Federal de origem, o recurso foi julgado, no dia 24/07/2023, para negar provimento ao apelo defensivo e, de ofício, aplicar o crime continuado entre as condutas, de modo que a pena definitiva resta fixada em 5 (cinco) anos, 2 (dois) meses e 15 (quinze) dias, em regime inicial semiaberto, e ao pagamento de 50 (cinquenta) dias-multa.
+Lembro que o Plenário do Supremo Tribunal Federal reconheceu que: "O art. 316, parágrafo único, do Código de Processo Penal aplica-se até o final dos processos de conhecimento, onde há o encerramento da cognição plena pelo Tribunal de segundo grau, não se aplicando às prisões cautelares decorrentes de sentença condenatória de segunda instância ainda não transitada em julgado" (ADI n. 6.581/DF e ADI n. 6.582/DF, Rel. Ministro ALEXANDRE DE MORAES, DJe 3/5/2022, grifei).
+Dessa forma, prejudicada a análise do habeas corpus no tocante ao excesso de prazo e ausência de revisão nonagesimal da custódia preventiva.
+No mais, não informam os autos, tampouco narra o Impetrante, que o Tribunal Federal a quo ou o Desembargador Relator do apelo defensivo emitiram qualquer juízo de valor sobre a legalidade da custódia antes de impetrado este habeas corpus. Desse modo, não se mostra possível o exame da referida questão originariamente por esta Corte, sob pena de indevida supressão de instância.
+Nesse sentido:
+" ..
+1. O acórdão proferido pela Corte estadual consignou que a questão relacionada à prisão preventiva do réu já havia sido apreciada em outras impetrações, a evidenciar a mera reiteração de pedido anteriormente formulado. Como a matéria não foi tratada no acórdão, seu exame nestes autos configuraria supressão de instância.
+ ..
+3. Agravo não provido." (AgRg no RHC n. 167.741/MG, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 16/8/2022, DJe de 23/8/2022.)
+Ante o exposto, CONHEÇO PARCIALMENTE e, nesta extensão, JULGO PREJUDICADO o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. CRIME DE USO DE DOCUMENTO FALSO. EXCESSO DE PRAZO NO JULGAMENTO DA APELAÇÃO. INOBSERVÂNCIA DO ART. 316, PARÁGRAFO ÚNICO, DO CÓDIGO DE PROCESSO PENAL, PELA CORTE FEDERAL A QUO. SUPERVENIÊNCIA DE JULGAMENTO DO APELO DEFENSIVO PELA CORTE ESTADUAL. PERDA DE OBJETO. IMPUGNAÇÃO À PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA. ORDEM PARCIALMENTE CONHECIDA E JULGADA PREJUDICADA.
