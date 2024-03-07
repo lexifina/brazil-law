@@ -1,0 +1,36 @@
+DECISÃO
+Em análise, Agravo de decisão que inadmitiu Recurso Especial interposto pelo INSTITUTO DE PREVIDÊNCIA DO ESTADO DO RIO GRANDE DO SUL, contra acórdão proferido pelo TJRS, assim ementado (e-STJ fl. 329):
+AÇÃO RESCISÓRIA. FAZENDA PÚBLICA. INTEGRALIDADE DE PENSÃO. RFFSA. OFENSA À COISA JULGADA E VIOLAÇÃO A LITERAL DISPOSIÇÃO DE LEI. AMORTIZAÇÃO DE VALORES PAGOS PELO INSS.
+A pretensão da parte autora, com o ajuizamento da presente ação rescisória, não se coaduna com as hipóteses do artigo 485 do Código de Processo Civil, uma vez que constituiu, em síntese, rediscussão de matéria já julgada e preclusa. Observado, no contexto, que impendia à parte autora recorrer da decisão monocrática que ora intenta rescindir, manejando o recurso cabível, no momento oportuno. A rediscussão da lide nesta via processual se apresenta, assim, descabida.
+JULGARAM EXINTA A AÇÃO RESCISÓRIA, COM BASE NO ART. 267, I, DO CPC. UNÂNIME.
+Os embargos declaratórios opostos ao referido acórdão foram rejeitados pela Corte de origem.
+Nas razões do recurso especial inadmitido, o agravante aponta violação dos arts. 966, IV e V e 968 do CPC (485, IV e V e 490 do CPC/73), aos seguintes fundamentos: a) "exordial da ação rescisória atendeu a todos os pressupostos de admissibilidade" (e-STJ, fl. 371); b) "o fato do decisório rescindendo ser uma decisão monocrática de lavra do relator não tem o condão de desnaturar a invocação da rescindibilidade do julgado, pois tal construção não possui base legal, como bem evidenciam os entendimentos dos Tribunais pátrios" (e-STJ, fl. 371); e c) "carece de fundamento jurídico a alegação de que a interposição da presente rescisória consistiria em notório sucedâneo recursal, dado que restou devidamente demonstrado na peça vestibular que a ação rescisória foi ajuizada com escopo nas situações previstas na legislação processual à época" (e-STJ, fl. 372).
+É o relatório.
+Passo a decidir.
+Na hipótese dos autos, extrai-se do acórdão recorrido o seguinte (e-STJ fl. 332):
+Ocorre que a pretensão da parte autora, com o ajuizamento da presente ação rescisória, não se enquadra nas hipóteses do artigo 485 do Código de Processo Civil, uma vez que a pretensão, em síntese, corrobora rediscussão da matéria, não sendo a ação rescisória a via própria para tanto.
+Note-se que no caso em apreço, a autora visa a rescindir decisão monocrática, proferida por componente desta 25 º Câmara Cível, em 19/05/2015 (fl. 235). A contrario sensu do exposto na exordial, não se trata de decisão colegiada, ou "acórdão", a ser rescindido.
+Pois bem. O elementar a observar é que o recurso apropriado, na hipótese dos autos, seria o agravo interno ou regimental, o qual, ao que consta, não restou devidamente manejado pela parte autora, no momento oportuno. Desta forma, a decisão que ora ataca restou preclusa, e perenizada, diante do trânsito em julgado operado nos respectivos autos. Por certo, somente com o manejo do agravo próprio poderia a parte ter afastado o teor da decisão monocrática que ora impugna.
+Conclui-se, assim, e a teor do opinado pelo MP, a impossibilidade de utilização da rescisória como sucedâneo recursal.
+Esse entendimento, entretanto, destoa da jurisprudência do STJ que, seguindo entendimento sumulado do STF, preceitua não ser requisito para o ajuizamento da ação rescisória o esgotamento de recursos perante o juízo rescindendo.
+Eis o que dispõe a Súmula 514 do STF:
+"Admite-se ação rescisória contra sentença transitada em julgado, ainda que contra ela não se tenha esgotado todos os recursos"
+No mesmo sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. AÇÃO RESCISÓRIA VERSANDO SOBRE HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. IRRESIGNAÇÃO RECURSAL NA AÇÃO ORIGINÁRIA. DESINFLUÊNCIA. PROCEDÊNCIA DA RESCISÓRIA. VERBA HONORÁRIA DEVIDA PELA PARTE QUE RESISTIU À PRETENSÃO. DISPOSITIVO DE LEI APONTADO COMO VIOLADO. COMANDO NORMATIVO. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA. INEXISTÊNCIA. TEMA 1.076 DO STJ. OBSERVÂNCIA.
+1. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A jurisprudência desta Corte Superior orienta que é cabível ação rescisória para desconstituir decisão judicial transitada em julgado que estabeleceu honorários advocatícios sem observar o critério objetivo determinado na norma processual então vigente, no caso, o art. 20, § 4º, do CPC/1973, referente à efetiva realização do juízo de equidade, com a avaliação in concreto das circunstâncias judiciais elencadas nas alíneas do § 3º.
+3. "Admite-se ação rescisória contra sentença transitada em julgado, ainda que contra ela não se tenha esgotado todos os recursos" (Súmula 514 do STF).
+(..).
+9. Agravo interno desprovido.
+(AgInt no REsp n. 2.018.429/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/9/2023, DJe de 18/9/2023.)
+Por oportuno, confira-se, ainda, o seguinte precedente, proferido no julgamento de ação rescisória ajuizada contra decisão monocrática:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. TEMPO ESPECIAL. LIMITE DE RUÍDO. APLICAÇÃO RETROATIVA DO DECRETO 4.882/2003. VIOLAÇÃO LITERAL DE LEI. NÃO OCORRÊNCIA. MATÉRIA JULGADA NO REGIME DO ARTIGO 543-C DO CPC/1973.
+1. Cuida-se de Ação Rescisória ajuizada contra decisão monocrática proferida em Recurso Especial que adotou entendimento de que, no período de 6/3/1997 a 18/11/2003. o índice de ruído a ser considerado, para fins de conversão de tempo de serviço especial em comum, é de 90 dB, não sendo possível a incidência retroativa do Decreto 4.882/2003.
+2. O cabimento de Ação Rescisória, com fundamento no art. 485, inciso V, do CPC/1973, exige violação literal de disposição de lei, o que se entende como a afronta direta e evidente, dispensando o reexame dos fatos da causa, sendo vedado, para tanto, qualquer tipo de inovação argumentativa. Precedentes.
+3. Ademais, somente ocorre a denominada violação literal quando é possível extrair do próprio conteúdo do julgado a ofensa ao dispositivo legal. No art. 57 da Lei 8213/1991 não há qualquer menção ao nível de ruído tolerado para configurar as condições de excepcionalidade que ensejam a contagem especial do tempo de serviço, até porque tal matéria é relegada à regulamentação infralegal, prevista em sucessivos decretos regulamentares.
+Insustentável, portanto, a ocorrência de ofensa literal e direta ao dispositivo legal invocado. 4. O julgado rescindendo adotou entendimento consolidado no âmbito do Superior Tribunal de Justiça, inclusive sob o rito do art. 543-C do CPC/1973 (REsp 1.398.260/PR, Rel. Ministro Herman Benjamin, Primeira Seção, julgado em 14/5/2014, DJe 5/12/2014).
+5. Ação Rescisória julgada improcedente.
+(AR n. 5.103/RS, relator Ministro Herman Benjamin, Primeira Seção, julgado em 10/10/2018, DJe de 17/12/2018.)
+Isso posto, conheço do Agravo e dou provimento ao Recurso Especial, a fim de determinar o retorno dos autos ao Tribunal de origem para que, afastado o óbice ao cabimento da Ação Rescisória, prossiga no julgamento do feito como entender de direito.
+Publique-se. Intime-se.
+EMENTA
