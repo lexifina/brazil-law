@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de agravo interposto por ROTARY CLUB DE RONDONOPOLIS contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Mato Grosso assim ementado:
+"APELAÇÃO CIVEL - AÇÃO ANULATÓRIA DE ATO JURÍDICO -FINALIDADE - TRANSFORMAÇÃO DE ASSOCIAÇÃO EM FUNDAÇÃO -INEXISTÊNCIA DOS REQUISITOS - PRETENSÃO REJEITADA -RECURSO PROVIDO - SENTENÇA REFORMADA. A fundação é uma pessoa jurídica de direito privado, sem fins lucrativos, que se forma a partir da existência de um patrimônio destacado por seu instituidor, por meio de escritura pública ou testamento, para servira um objetivo específico, voltado ao interesse público e deve ser fiscalizada pelo Ministério Público, tendo sua formação a partir da inscrição do ato constitutivo no respectivo registro. O animus donandi, que é o ânimo do doador de fazer uma liberalidade, deve ser mantido em todo o negócio jurídico, sob pena de, inclusive, voltar o bem doado ao seu patrimônio" (fl. 1.171, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 1.225/1.233, e-STJ).
+No recurso especial, a recorrente alega a violação dos artigos 1º , 5º, LV, 6º, 196, 197 e 198 da Constituição Federal; 7º, 489, § 1º, e 1022 do Código de Processo Civil e 62, 66 e 67, III, e 553, "caput" e parágrafo único, do Código Civil.
+De início, aduz que não teve oportunidade de se manifestar sobre documentos novos essenciais para o deslinde da causa, restando caracterizado o cerceamento de defesa.
+Além disso, defende que teria havido negativa de prestação jurisdicional diante da omissão do Tribunal de origem sobre os documentos novos e da contradição acerca da intenção do instituidor de criar uma fundação.
+Por fim, sustenta que é patente nos autos que a intenção do doador foi expressa pela instituição de uma fundação e não de uma associação civil, sendo injustificada a anulação das alterações societárias sem a anuência do Ministério Público.
+Após as contrarrazões (fls. 1.310/1.326, e-STJ), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+O Ministério Público Federal instado a se manifestar por meio de seu representante legal, o Subprocurador-Geral da República Antônio Carlos Alpino Bigonha, opinou pelo não provimento do agravo em recurso especial, cujo parecer recebeu a seguinte ementa:
+"Agravo em recurso especial. Direito civil. Fundação. Dotação de patrimônio para finalidade filantrópica. Instituição da pessoa jurídica. Atribuição do Ministério Público. Parecer pelo não provimento dos agravos em recurso especial" (fl. 2.162, e-STJ).
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No tocante à violação dos arts. 489 e 1.022 do CPC, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em existência de omissão ou de deficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, o seguinte precedente:
+"ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REVISÃO DO ATO DE APOSENTADORIA. PRESCRIÇÃO DO FUNDO DE DIREITO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/15. NÃO CARACTERIZADA. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. MATÉRIA INSUSCETÍVEL DE EXAME NA VIA ESPECIAL. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVADO.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022 do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+(..)
+5. Agravo interno a que se nega provimento" (AgInt no REsp 1.654.518/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 13/6/2017, DJe 22/6/2017 - grifou-se).
+Em relação ao alegado cerceamento de defesa, este foi afastado na origem, nos seguintes termos:
+"(..)
+Ocorre que, compulsando os autos é possível verificar o julgamento do Recurso de Apelação teve inicio no dia 19/02/2020 (fl. 932-Ti), tendo sido adiado em razão do pedido de vista dos Eminentes Vogais, com a conclusão em 04/03/2020 (fl. 957-TJ).
+Entretanto, o embargante protocolou dia 02/03/2020, tendo sido juntado aos autos apenas no dia 05/03/2020, petição informando sobre a existência de documento novo, referente as informações trazidas pela Coordenadoria Geral de Certificação das Entidades Beneficentes de Assistência. Social na Área de Saúde  CEDAS.
+(..)
+Nesse contexto, importante registrar que não há qualquer omissão no acórdão objurgado, posto que até a data da finalização do julgamento não se tinha conhecimento de tal documento e, portanto, todas as matérias trazidas à baila foram devidamente debatidas, conforme o entendimento desta Câmara Julgadora.
+Assim, ausente omissão e qualquer tipo de. cerceamento de defesa, capaz de se declarar a nulidade do acórdão embargado.
+Outrossim, ainda que seja considerado o documento novo, entendo que, por si só, não é capaz de modificar o que fora decidido no acórdão, já que expressamente fora exposto que não há plausibilidade em se anular as alterações estatutárias realizadas pela Santa Casa de Misericórdia e Maternidade de Rondonópolis nos anos de 1971, 1995 e 2004, no presente momento.
+A uma porque inicialmente a criação da Santa Casa como fundação não obedeceu aos requisitos formalmente determinados na legislação, tal como a intervenção ministerial, o que afasta a sua essencialidade no percurso de sua vida como pessoa jurídica de direito privado.
+A duas porque o animus donandi do doador está preservada, posto que a entidade permaneceu a todo instante filantrópica e com a finalidade de ter um ambiente nosocômio e atendendo a todos sem distinção.
+A três porque a anulação do estatuto prejudicará a instituição, não apenas em relação ao seu vínculo com a CEBAS, mas em toda a relação contratual já existente, nos seus benefícios fiscais com os órgãos públicos, sua regularidade na Receita Federal, nas relações de trabalho e, ainda, na sua forma de direção, o que, inegavelmente, atingirá a população sul-matogrossensse, principalmente no momento em que se encontra o País no âmbito da saúde. pública.
+Nesse contexto, ficou evidenciado que a pretensão do Embargante é estabelecer nova discussão acerca de matéria decidida no acórdão combatido, pretensão esta que não pode ser de forma alguma acolhida, se a parte está inconformada com o resultado do julgamento cabe a ela interpor recurso às demais instâncias, não servindo os aclaratórios como sucedâneo recursal.
+(..)" (fls. 1.228/1.230, e-STJ).
+De fato, não se declara a nulidade do processo se o documento novo juntado aos autos não influiu na solução da controvérsia. Nesse contexto, para acolher a tese recursal, de que teria havido cerceamento de defesa pela necessidade de oportunizar a manifestação das partes em relação a documentos novos relevantes para o deslinde do feito, seria imprescindível o reexame de fatos e de provas dos autos, o que recai no óbice da Súmula nº 7/STJ.
+No mesmo sentido:
+"AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO - AÇÃO DE REINTEGRAÇÃO DE POSSE - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AUTORA.
+1. Inocorrente a alegada negativa de prestação jurisdicional, pois o Tribunal de origem decidiu, de modo claro e fundamentado, as questões essenciais ao deslinde do feito, não sendo obrigado a se pronunciar sobre todos os pontos invocados pelas partes, apenas aqueles necessários à solução da lide, conforme a jurisprudência deste STJ.
+2. Adequada a deliberação monocrática quanto ao afastamento da alegada inovação recursal ante a suposta contestação tardia de documento pela parte adversa.
+Do cotejo entre as razões recursais da apelação e a fundamentação expendida no acórdão recorrido depreende-se que o provimento ao apelo foi dado nos limites da matéria impugnada quando da contestação, motivo pelo qual o Tribunal pode analisar, com ampla profundidade, a pretensão recursal que lhe foi submetida, não ficando adstrito aos fundamentos adotados em primeiro grau, desde que respeitada a extensão objetiva do recurso, tal como ocorreu na presente hipótese. 3. É firme o entendimento no sentido de que não há falar em ofensa ao artigo 398 do CPC/73 quando, a despeito de a parte não ter sido intimada para se pronunciar sobre documento novo juntado aos autos, este não for utilizado no julgamento da controvérsia. Precedentes.
+3.1. Nos termos do entendimento do STJ "não se coaduna com o atual estágio de desenvolvimento do Direito Processual Civil, em que impera a busca pela prestação jurisdicional célere e eficaz, a declaração de nulidade de ato processual sem que tenha havido comprovação da necessidade de seu refazimento, diante da existência de vício de natureza processual."
+(EREsp 1121718/SP, Rel. Ministro Arnaldo Esteves Lima, Corte Especial, DJe 1.8.2012).
+3.2. Para compreender como quer a parte insurgente no sentido de que as provas juntadas com o petitório teriam influenciado no julgamento da contenda, portanto em sentido diverso ao afirmado pela Corte de origem, seria imprescindível promover o reenfrentamento do acervo fático-probatório dos autos, providência sabidamente vedada pelo óbice da súmula 7/STJ.
+4. É entendimento assente nesta Corte Superior que o julgador não está adstrito ao laudo pericial, podendo formar a sua convicção com outros elementos ou fatos provados nos autos. Para acolher a tese do insurgente no sentido de que seria imprecindível realizar nova perícia ou complementar a existente, seria necessário promover o reenfrentamento do acervo fático-probatório dos autos, providência vedada a esta Corte Superior ante o óbice da Súmula 7/STJ.
+(..)
+7. Agravo interno desprovido" (AgInt no Ag n. 1.341.512/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 19/9/2019, DJe de 23/9/2019.)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL - AGRAVO DE INSTRUMENTO NA ORIGEM - INCIDENTE DE REMOÇÃO DE INVENTARIANTE - DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DO AUTOR.
+1. Para reverter a conclusão da Corte local acerca da desnecessidade de manifestação do agravante quanto ao documento juntado pela agravada - por não se tratar de documento novo e o qual não foi determinante para o julgamento da causa - seria imprescindível do revolvimento fático e probatório constante dos autos. Incidência da Súmula 7/STJ.
+(..)
+4. Agravo regimental desprovido" (AgRg no REsp n. 1.153.743/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 15/12/2016, DJe de 2/2/2017).
+No mérito, o Tribunal de origem julgou improcedente a ação anulatória visando a declaração de nulidade das alterações estatutárias que levaram à criação da Santa Casa de Misericórdia e Maternidade de Rondonópolis, nos seguintes termos:
+"(..)
+Na hipótese dos autos," o Ministério Público Estadual no conseguiu demonstrar que participou ou aprovou a Escritura Pública da Instituição da Santa Casa de Misericórdia e Maternidade de Rondonópolis, que aconteceu em 17/05/1971, tampouco do seu estatuto social, averbado no Registro nº 5107, em I 5/08/1985 (fls. 373/389-TJ).
+Desse modo, não há dúvidas de que, ainda que havia a intenção de se criar uma fundação, essa não fora constituída legalmente, pois não obedeceu as formalidades exigidas à época.
+Por consequência, não há como se exigir a obediência aos regramentos de alterações estatutárias, como quer o Ministério Público Estadual.
+(..)
+Como já mencionado, as condições de contrato de doação de José Salmen lanze, foram a criação da Santa Casa de Misericórdia e Maternidade de Rondonópolis, pela Associação das Esposas de Rotarianos Casa da Amizade, com a finalidade de ser uma instituição filantrópica, para atendimento gratuito a todos da sociedade, sem distinção.
+Ora, a todo o momento a condição foi mantida, portanto, nada justifica a anulação das alterações estatutárias, que sem dúvidas, só foram modificadas, com o objetivo de aumentar a abrangência daquela instituição.
+Aliás, com a manutenção da sentença e anulação do estatuto, o prejuízo a " instituição será evidente, porém atingirá principalmente a população rondonopolitana e a região sul mato-grossense, que ficará desprovida de um hospital de referência, até que haja a burocracia da regularização.
+(..)
+Por fim, saliento que a alegação de falsidade dos Estatutos, deduzida pela Recorrente, revela-se extemporânea, pois não houve qualquer arguição nesse sentido, durante o trâmite processual.
+(..)" (fls. 1.181/1.183, e-STJ).
+Com efeito, para rever o entendimento firmado pelas instâncias ordinárias, acerca da natureza de associação da entidade criada e da validade das alterações estatuárias efetuadas sem a anuência do Ministério Público, seria necessária a incursão nos aspectos fático-probatórias da causa, providência que atrai a incidência da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Nos termos do art. 85, § 11, do Código de Processo Civil, os honorários sucumbenciais fixados pelas instâncias ordinárias, devidos pela ora recorrente, devem ser majorados para R$ 4.600,00 (quatro mil e seiscentos reais), atualizados desde o arbitramento na origem, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
