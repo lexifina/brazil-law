@@ -1,0 +1,22 @@
+DECISÃO
+GLADIMIR ABREU DE OLIVEIRA e JORGE MACIEL DOS SANTOS alegam sofrer constrangimento ilegal em seu direito a locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul na Apelação Criminal n. 5036445-98.2022.8.21.0001/RS.
+Depreende-se dos autos que os pacientes foram condenados pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Nas razões deste writ, busca a defesa seja reduzida a pena-base.
+Instado a se manifestar, o Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+I. Pena-base
+No que tange à pretendida redução da pena-base, cumpre salientar que a fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal. Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto e, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal, as quais não se deve furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+No caso, a Corte estadual entendeu razoável o aumento de 6 meses de reclusão, "diante da natureza e diversidade de narcóticos apreendidos" (fl. 22); estas circunstâncias autorizariam, em tese, o recrudescimento da pena-base.
+Não se desconhece que, segundo o disposto no art. 42 da Lei n. 11.343/2006, "O Juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+No entanto, apesar da diversidade e natureza das substâncias apreendidas constituírem, de fato, elementos preponderantes a ser considerados na dosimetria da reprimenda, a quantidade das drogas não foi excessiva - 1 g de cocaína, 4,8 g de crack e 50 g de maconha. Portanto, mostra-se manifestamente desproporcional sopesar, no caso ora analisado, tais circunstâncias para justificar a exasperação da pena-base.
+Entendo, na verdade, que a apreensão de certa quantidade de drogas, em contexto como o dos autos, é inerente ao próprio crime previsto no art. 33, caput, da Lei n. 11.343/2006, até porque o delito em questão exige, para fins de comprovação da sua materialidade, a apreensão de droga e a realização de laudo toxicológico definitivo, conforme entendimento externado no AgRg no REsp n. 1.448.529/RJ, de relatoria da Ministra Maria Thereza de Assis Moura (DJe 23/4/2015).
+Nesse contexto, deve a ordem ser concedida, a fim de afastar a majoração da reprimenda pela diversidade e qualidade de drogas. Fixo, portanto, a pena-base de Jorge em 5 anos de reclusão e pagamento de 500 dias-multa e de Gladimir em 5 anos e 6 meses de reclusão, mais 550 dias-multa.
+II. Nova dosimetria
+Quanto a Gladimir: na primeira fase, a sanção fica estabelecida em 5 anos e 6 meses de reclusão, mais 550 dias-multa. Na segunda, majoro a reprimenda em 8 meses em razão da reincidência, atingindo 6 anos e 2 meses de reclusão e 600 dias-multa. Na terceira etapa, ausentes causas de aumento e de diminuição, torno a pena do réu definitivamente estabelecida em 6 anos e 2 meses de reclusão, mais 600 dias-multa.
+Quanto a Jorge: na primeira fase, a sanção fica estabelecida no mínimo legal. Na segunda, ausentes atenuantes ou agravantes. Na terceira etapa, reconhecido o privilégio no tráfico, reduz-se a pena para 1 ano e 8 meses de reclusão, mais 166 dias-multa.
+III. Dispositivo
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem, a fim de reduzir a pena-base dos condenados; torno, portanto, a sanção do réu Gladimir definitiva em 6 anos e 2 meses de reclusão, mais 600 dias-multa e do réu Jorge em 1 ano e 8 meses de reclusão, mais 166 dias-multa.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
