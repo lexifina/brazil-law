@@ -1,0 +1,9 @@
+DECISÃO
+Cuida-se de agravo interno interposto por GUILHERME REIS, às fls. 547-559, para noticiar a prolação de sentença extinguindo a Execução de Título Extrajudicial n. 0001007-91.2010.8.16.0119, que deu origem a essa ação de embargos à execução, razão pela qual o presente agravo em recurso especial por ele interposto perdeu o objeto, e subsidiariamente, para apresentar impugnação à decisão de fls. 542-543.
+Em síntese, cuida-se de embargos à execução opostos por GUILHERME REIS contra BANCO DO BRASIL S.A. alegando a necessidade de aplicação do CDC e a inversão do ônus da prova, a cobrança indevida de comissão de permanência cumulada com demais encargos moratórios, a ausência de abatimento do valor do seguro contratado, a ilegalidade de capitalização de juros e multa moratória, a previsão de juros remuneratórios acima do limite legal e a atualização indevida pelo TR.
+O Juízo de primeiro grau acolheu os embargos e julgou extinta a execução, por inexigibilidade do título (fls. 305-310).
+Interposta apelação e apresentado recurso adesivo, o Tribunal a quo deu provimento ao recurso do embargado, para julgar improcedentes os embargos à execução e determinar o regular prosseguimento da demanda executiva, e julgou prejudicado o recurso adesivo (fls. 414-417), ensejando a apresentação de recurso especial.
+Como reconhecido pela própria parte agravante e nos termos do disposto no art. 34, inciso XI, do Regimento Interno do STJ, se mostra inviável o seguimento do presente recurso por perda de objeto, tendo em vista a prolação de sentença de extinção da Ação de Execução de Título Extrajudicial n. 0001007-91.2010.8.16.0119, com fundamento na prescrição (fls. 556-558), por meio de decisão publicada em 23/10/2023.
+Ante o exposto, em razão da ausência de interesse processual, julgo prejudicado o recurso da GUILHERME REIS, nos termos do art. 34, inciso XI, do Regimento Interno desta Corte Superior.
+Publique-se. Intimem-se.
+ EMENTA
