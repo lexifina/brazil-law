@@ -1,0 +1,20 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de fls.67 (e-STJ).
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de EDUARDO FERREIRA OTAVIANO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO(Recurso em Sentido Estrito 1501334-87.2023.8.26.01616).
+O paciente teve denúncia oferecida em seu desfavor rejeitada pelo magistrado de origem.
+O recurso em sentido estrito interposto pelo Ministério Público local foi provido para determinar o prosseguimento da ação penal, por não reconhecer a ilegalidade apontada.
+A defesa alega: a) ilicitude das provas obtidas em revista pessoal realizada por guardas municipais, sem autorização ou justa causa; b) "Tratou-se, a bem verdade, de uma fishing expedition para o encontro da droga, pois não havia fundada suspeita no momento que os agentes resolveram abordar" (e-STJ fl. 5); c) "o laudo de exame químico-toxicológico é prova ilícita por derivação, não podendo servir para formação da convicção judicial, vale dizer, mostra-se incapaz para atestar a materialidade do delito imputado ao apelante" (e-STJ fl. 10); e d) "paciente primário, preso em situação de mero "tráfico de esquina", que poderia perfeitamente ser denunciado nos termos do art. 33, § 4º, e não na figura do caput desse artigo" (e-STJ fl. 17), com possibilidade do oferecimento de acordo de não persecução penal (ANPP).
+Requer liminar para revogar a prisão preventiva até o julgamento deste writ e, definitivamente, deferimento da ordem para "anulação da condenação do acusado, ou que seja suspensa a execução de sua pena até o julgamento do Recurso Especial já interposto" (e-STJ fl. 24).
+O pedido liminar foi indeferido (e-STJ fls. 65-67).
+A origem prestou informações (e-STJ fls. 74-80).
+O Ministério Público se manifestou pelo não conhecimento ou denegação da ordem de habeas corpus (e-STJ fls. 99-105).
+É o relatório.
+Decido.
+Objetiva a impetrante "a anulação da condenação do acusado, ou que seja suspensa a execução de sua pena até o julgamento do Recurso Especial já interposto" em razão de "direito ao acordo" de não persecução penal.
+"Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado." (AgRg no HC 832409 / MG, RELATOR Ministro RIBEIRO DANTAS, QUINTA TURMA, DATA DO JULGAMENTO 18/12/2023, DATA DA PUBLICAÇÃO/FONTE DJe 20/12/2023)
+Para conhecer da controvérsia apresentada neste writ, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com a estreita via do habeas corpus.
+Além disso, a questão relativa ao ANPP não foi debatida na instância de origem, a evidenciar que seu conhecimento representa indevida supressão de instância.
+Seja como for, é cediço que "A despeito de ter havido, a princípio, julgados dissidentes, a jurisprudência das Turmas que compõem a Terceira Seção se alinhou no mesmo sentido do que decidiu o acórdão embargado. O entendimento atual e uniforme é de que o acordo de não persecução penal previsto no art. 28-A do Código de Processo Penal, introduzido pela Lei n. 13.964/2019, somente é aplicável aos processos em curso até o recebimento da denúncia." (AgRg nos EAREsp 2125431 / SC, RELATORA Ministra LAURITA VAZ, ÓRGÃO JULGADOR TERCEIRA SEÇÃO, DATA DO JULGAMENTO 17/10/2023, DATA DA PUBLICAÇÃO/FONTE DJe 20/10/2023)
+Ante o exposto, não conheço do pre sente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
