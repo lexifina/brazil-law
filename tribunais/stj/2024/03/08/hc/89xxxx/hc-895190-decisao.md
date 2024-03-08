@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de GABRIEL MAXIMO SCARABEL em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que não conheceu liminarmente do writ impetrado naquele Tribunal (Habeas Corpus n. 2033317-18.2024.8.26.0000).
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, uma vez que a suspensão do benefício de livramento condicional e a expedição de mandado de prisão do paciente foram embasadas em fato ocorrido antes do início do cumprimento da pena.
+Outrossim, alega que, ainda que se entenda pela su spensão do benefício de livramento condicional, o apenado deveria ser mantido em regime aberto, e não em regime semiaberto, como determinado no mandado de prisão.
+Requer, em suma, o restabelecimento do livramento condicional ou, subsidiariamente, seja retificado ou expedido novo mandado d e prisão para determinar a prisão do paciente em regime aberto.
+É, no essencial, o relatório. Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento no sentido de que não cabe habeas corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (relator Ministro Sebastião Reis Júnior, DJe de 25/8/2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do voto condutor do acórdão impugnado a seguinte fundamentação quanto às controvérsias apresentadas:
+Desde logo cabe observar que esta colenda Câmara se alinha ao entendimento que prevalece nas egrégias Cortes Superiores, no sentido de que o "habeas corpus" não é sucedâneo e nem substituto do recurso adequado para atacar decisão proferida em sede de execução penal. Palco próprio para rever decisões dessa natureza é o agravo em execução, que consta já ter sido interposto pelo mesmo advogado ora impetrante (autos nº 0001695-98.2024.8.26.0502) e por meio do qual será possível aprofundada análise de provas com a finalidade de verificação quanto ao acerto ou não da decisão ora impugnada.
+ ..
+Na hipótese nem mesmo seria caso de se conhecer da ordem de ofício, pois a decisão atacada está fundamentada e não se reveste de ilegalidade patente ou flagrante teratologia, de forma que, como já assinalado, os argumentos nela postos deverão ser analisados com a amplitude necessária no julgamento do recurso de agravo e em função dos elementos de prova reunidos nos autos da execução penal do paciente (fls. 239-240).
+Segundo entendimento firmado pela Terceira Seção do STJ no julgamento do HC n. 482.549/SP, havendo a simultânea interposição de recurso próprio e impetração de habeas corpus versando sobre os mesmos temas, inexiste ilegalidade em se reservar a análise das questões para o momento do julgamento do agravo em execução que está pendente de análise na origem, salvo se o writ impetrado no tribunal a quo fosse destinado à tutela direta e imediata da liberdade de locomoção, o que não é o caso dos autos (Relator ministro Rogerio Schietti Cruz, DJe 3/4/2020).
+Ainda nesse sentido: AgRg nos EDcl nos EDcl no HC n. 580.806/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 4/8/2020; AgRg no HC n. 801.494/AP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 17/8/2023; AgRg no HC n. 809.553/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16/8/2023; AgRg no HC n. 809.199/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/4/2023.
+Na espécie, conforme afirmou o tribunal de origem (fl. 239), tramitavam simultaneamente recurso de agravo em execução e habeas corpus com o mesmo objeto, em clara ofensa ao princípio da unirrecorribilidade.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
