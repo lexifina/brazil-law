@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de ROMANO VOLTOLINI, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no julgamento dos embargos de declaração n. 0025139-50.2015.8.26.0576/50000.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, incurso no artigo 171, caput, cc. artigo 14, inciso II, e no artigo 304 (cc. 298, do Código Penal), ambos na forma do artigo 70, do Código Penal, às penas de 01 ano, 09 meses e 23 dias de reclusão, em regime inicial semiaberto e pagamento de 17 dias-multa. (fls. 10-17).
+Inconformada, a defesa interpôs recurso de apelação perante o Tribunal de origem, que, por unanimidade, negou provimento ao apelo defensivo, consoante voto condutor do acórdão de fls. 19-28.
+Os embargos de declaração opostos pela defesa, às fls. 30-32, não foram conhecidos.
+Dai o presente writ, onde o impetrante aponta constrangimento ilegal na negativa de reconhecimento da prescrição da pretensão punitiva estatal.
+Para tanto, sustenta que: "A sentença de fls. 431/441, baixada em Cartório e publica e registrada data de 14/01/2022. Após sobreveio o trânsito em julgado para a Acusação, uma vez que não manejou qualquer recurso de Apelo apesar de intimado pessoalmente da sentença. Sendo assim, a Prescrição passou a ser contado pela pena aplicada em concreto, nos termos da Súmula 146 do STF e §1º do artigo 110 do Código Penal. No caso em tela, ao reconhecer o Concurso Formal, o Douto Magistrado aplicou a pena do crime mais grave (Uso de Documento Falso), para iniciar a dosimetria da pena chegando à quantia acima exposta. Analisando a pena aplicada em concreto com a tabela do artigo 109 do Código Penal, a Prescrição da Pretensão Punitiva é evidente, devendo a mesma ser reconhecida, de ofício, por este Egrégia 8ª Câmara deste Tribunal, nos termos do artigo 61 do CPP." (fls. 4-5).
+Requer, assim, em caráter liminar e no mérito, a concessão da ordem para " ..  reconhecer a Prescrição Retroativa e como consequência a Extinção da Punibilidade da Pretensão Punitiva" (fl. 6).
+É o relatório. DECIDO.
+Conforme relatado, busca-se na presente impetração o reconhecimento da prescrição pretensão punitiva estatal.
+De início, insta consignar que a prescrição da pretensão punitiva (matéria de ordem pública) pode ser declarada de ofício, em qualquer fase do processo (art. 61 do Código de Processo Penal - CPP). Isto é, a análise da questão cabe ao juízo ou tribunal no qual se encontra tramitando o feito. Assim, ocorrendo o trânsito em julgado da condenação, a competência será do juízo da vara de execuções penais (art. 66, II, da Lei n. 7.210/84).
+Ademais, o Tribunal a quo não apreciou o tema, e segundo a jurisprudência desta Corte, "ainda que se trate de matéria de ordem pública, é inviável o conhecimento, por esta Corte, de alegação de prescrição da pretensão executória, se o tema não foi objeto de prévia deliberação pelas instâncias ordinárias, sob pena de indevida supressão de instância" (AgRg no AREsp n. 2.160.511/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 13/9/2022).
+Portanto, na espécie, a pretensão formulada pelo impetrante encontra óbice na jurisprudência consolidada do Superior Tribunal de Justiça, revelando-se, assim, manifestamente improcedente.
+Ante o exposto, denego a ordem de habeas corpus.
+Cientifique-se no Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
