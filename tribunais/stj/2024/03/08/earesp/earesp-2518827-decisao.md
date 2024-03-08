@@ -1,0 +1,31 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por WALDECY ALMEIDA BARROS, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 31/10/2023.
+Concluso ao gabinete em: 28/02/2024.
+Ação: execução de título extrajudicial, ajuizada por BANCO BEG S/A, em face de INDÚSTRIA E COMÉRCIO PRESTACIONAL GRÁFICA LTDA., ANTÔNIO DE SOUZA ALMEIDA, RAIMUNDO BARROS DE ALMEIDA, WALDECY ALMEIDA BARROS e ADEMAR ALMEIDA BARROS.
+Sentença: homologou, para que produzisse seus jurídicos e legais efeitos, o pedido de desistência formulado pelo agravado e julgou extinta a ação, com fundamento no inciso VIII do artigo 485 do CPC. Assim, condenou INDÚSTRIA E COMÉRCIO PRESTACIONAL GRÁFICA LTDA., ANTÔNIO DE SOUZA ALMEIDA, RAIMUNDO BARROS DE ALMEIDA, WALDECY ALMEIDA BARROS e ADEMAR ALMEIDA BARROS ao pagamento das custas e dos honorários, estes fixados em 10% sobre o valor atualizado da causa.
+Acórdão: conheceu em parte da Apelação, interposta por WALDECY ALMEIDA BARROS, e, nessa parte, negou-lhe provimento, nos termos da seguinte ementa:
+"Apelação Cível. Ação de execução. Prescrição intercorrente. Inovação recursal. Julgamento extra petita. Não ocorrência. Extinção sem resolução de mérito. Desistência da ação. Ausência de bens penhoráveis. Ônus sucumbenciais. Princípio da causalidade. Sentença mantida. 1. É vedada a inovação de tese jurídica em âmbito de apelação. 2. Os honorários advocatícios de sucumbência, assim como os consectários legais da condenação, possuem natureza de ordem pública, motivo pelo qual podem ser definidos ou modificados de ofício pelo juiz. 3. A extinção do processo executivo em razão da ausência de bens penhoráveis (execução frustrada) não autoriza a fixação de honorários advocatícios em favor da parte devedora. Precedentes do STJ. Recurso parcialmente conhecido e, nessa extensão, desprovido." (e-STJ fl. 621)
+Embargos de Declaração: opostos, por WALDECY ALMEIDA BARROS, foram rejeitados. (649/657)
+Recurso especial: alega violação dos arts. 332, § 1º, 485, VI, 1.022, II, CPC, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que: i) a simples contagem do prazo prescricional de três anos desde a propositura da ação até a penhora já incorre em prescrição intercorrente, a qual deveria ter sido reconhecida pela Corte local; e, ii) a frustração da satisfação do débito se deu única e exclusivamente por responsabilidade do recorrido, por isso, ao contrário do que entendeu a Corte local, o correto seria a extinção do processo, sem resolução do mérito, por ausência de interesse de agir, em observância ao art. 485, inciso VI do CPC. Defende, ainda, que um procedimento executivo que atinge quase 25 (vinte e cinco) anos por inércia do recorrido perde totalmente o seu objetivo de satisfazer a dívida e, por isso, consubstancia-se a aplicação do disposto no art. 485, inciso VI do CPC.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da impossibilidade de se reconhecer a ocorrência da prescrição intercorrente (e-STJ fl. 622), de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que se constata que INDÚSTRIA E COMÉRCIO PRESTACIONAL GRÁFICA LTDA., ANTÔNIO DE SOUZA ALMEIDA, RAIMUNDO BARROS DE ALMEIDA, WALDECY ALMEIDA BARROS e ADEMAR ALMEIDA BARROS deram causa não somente à instauração, como também à extinção do processo, ambas motivadas pelo não pagamento do débito representado pelo título executivo, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, § 1º do CPC/2015 e 255, § 1º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor atualizado da causa. (e-STJ fl. 625) para 17%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de execução de título extrajudicial.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Agravo conhecido. Recurso especial conhecido em parte e, nessa extensão, não provido.
