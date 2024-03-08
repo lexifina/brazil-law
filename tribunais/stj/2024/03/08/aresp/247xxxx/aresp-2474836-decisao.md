@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento ao recurso especial interposto em face de acórdão assim ementado:
+"APELAÇÃO - Embargos à execução de título extrajudicial. Notas promissórias. Alegação de agiotagem e pagamento. Perícia grafotécnica e contábil. Reconhecimento de excesso e prosseguimento da execução por saldo devedor reduzido.
+Decisão de procedência dos embargos.
+Assistência judiciária. Deferimento.
+Revogação da assistência judiciária deferida na origem ao recorrido. Descabimento.
+Erro material no dispositivo da r. sentença. Acolhimento para constar parcial acolhimento dos embargos, conforme fundamentação.
+Excesso no valor executado. Perícia contábil. Excesso na execução. Juros superiores ao devido. Sentença de procedência confirmada por seus próprios fundamentos, nos termos do art. 252 do RITJSP.
+Redução da verba honorária. Descabimento.
+Recurso parcialmente provido"
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, o agravante aponta violação aos arts. 373 e 389, ambos do Código de Processo Civil, e art. 9º do Código Civil, sustentando, em síntese, que não houve prévia decisão para inversão do ônus da prova, de modo que não poderia ser acolhida a tese de agiotagem, e que não houve a comprovação dessa prática.
+Contrarrazões às fls. 791/795 e-STJ.
+Juízo de admissibilidade às fls. 796/797 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+De início, verifica-se a ausência de prequestionamento do art. 9º do CC e do art. 389 do CPC, de modo que não se conhece da alegada violação aos dispositivos. Incidem as Súmulas 282 e 356, ambas do Supremo Tribunal Federal.
+No mais, a jurisprudência deste Superior Tribunal de Justiça consolidou-se no sentido de que esbarra no óbice da Súmula 7/STJ a pretensão de aferir-se eventual violação ao art. 373 do CPC, mormente quando há expressa previsão no acórdão recorrido de que ocorreu a comprovação do direito da parte adversa.
+Vejamos:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AUTOR.
+1. Não há falar em ofensa ao art. 489 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal de origem, o qual afirmou expressamente que a perícia não constatou a invalidez total do autor, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. O Tribunal local, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, afastou o alegado cerceamento de defesa, consignando a desnecessidade da produção de prova oral. O acolhimento da pretensão recursal demandaria revolvimento do acervo fático-probatório dos autos, providência que encontra óbice na Súmula 7 do STJ. Precedentes.
+2.1. Não há como aferir eventual ofensa ao art. 373 do CPC/ 15 sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame. (REsp 1665411/MT, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 05/09/2017, DJe 13/09/2017).
+3. A ausência de debate, pelo Tribunal de origem, acerca do conteúdo normativo dos arts. 6º do CDC, 341 do CPC/15 e 760 do Código Civil impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ. Precedentes.
+3.1. Consoante entendimento firmado nesta Corte Superior, não configura contradição afirmar a falta de prequestionamento e afastar indicação de afronta ao art. 489 do CPC/15, uma vez que, no caso em tela, a alegada negativa de prestação jurisdicional refere-se a tese distinta daquela reputada não prequestionada. Precedentes.
+4. Agravo interno desprovido" (AgInt no AREsp n. 2.185.389/SP, relator Ministro Marco Buzzi, QUARTA TURMA, DJe de 10/3/2023.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. RITO COMUM. ART. 1.021, § 1º, DO CPC/2015. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. OMISSÃO DO TRIBUNAL DE ORIGEM. INEXISTÊNCIA. JUNTADA DE DOCUMENTOS. PRECLUSÃO. INEXISTÊNCIA. OFENSA AO ART. 333, II, DO CPC/73. NECESSIDADE DE REVISÃO DE PROVAS. SÚMULA 7/STJ. ALTERAÇÃO DA SUCUMBÊNCIA. REEXAME DE FATOS DA CAUSA. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não se conhece do agravo interno que deixa de impugnar especificadamente os fundamentos da decisão agravada, na forma do art. 1.021, § 1º, do CPC/2015.
+2. A Corte de origem dirimiu a matéria submetida à sua apreciação manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, não havendo omissão, contradição ou obscuridade no aresto recorrido, não se verifica ofensa ao artigo 1.022 do CPC/2015.
+3. Na forma da jurisprudência do STJ, " é  admitida a juntada de documentos novos após a petição inicial e a contestação desde que: (i) não se trate de documento indispensável à propositura da ação; (ii) não haja má- fé na ocultação do documento; (iii) seja ouvida a parte contrária (art. 398 do CPC)" (AgRg no AREsp 435.093/SP, Relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 24/6/2014, DJe de 1º/8/2014).
+4. Na espécie, não se podem reputar essenciais para o processamento da ação de cobrança os "documentos de folhas 221/222  comprovantes de depósito em conta corrente ", sobretudo na hipótese em que o Tribunal de origem julga procedente o pedido não só com base na referida prova documental, mas também nos demais documentos que acompanharam a inicial, atestando a existência da transação comercial em comento, na ausência de impugnação acerca da existência da dívida, nos depoimentos prestados pelas partes e pelas testemunhas e na preclusão da prova pericial.
+5. " A  Jurisprudência do STJ entende que não há como aferir eventual ofensa ao art. 333 do CPC/1973 (art. 373 do CPC/2015) sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame" (REsp 1.665.411/MT, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 5/9/2017, DJe de 13/9/2017).
+6. "Convém lembrar que, como já consignado pelo STJ, a reforma de julgado, a fim de verificar o quantitativo de sucumbência em que cada parte foi vencedora e vencida, demanda a incursão nos elementos fático-probatórios dos autos, o que atrai o óbice da Súmula 7/STJ" (REsp 1.803.249/RS, Relator Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 11/6/2019, DJe de 18/6/2019).
+7. Agravo interno improvido" (AgInt no AREsp n. 1.564.199/RJ, relator Ministro Raul Araújo, QUARTA TURMA, DJe de 28/6/2023.)
+Em face do exposto, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte agravada, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
+EMENTA
