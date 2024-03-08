@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSÃO. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. PLEITO ABSOLUTÓRIO. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO INDICAÇÃO DOS DISPOSITIVOS DE LEI VIOLADOS. APLICAÇÃO DA SÚMULA N. 284 DO STF, POR ANALOGIA.
+1. Não havendo impugnação específica acerca do fundamento da decisão que não admitiu o recurso especial, deve ser aplicada, por analogia, a Súmula n. 182 deste Tribunal Superior.
+2. Embora o agravante tenha se reportado ao fundamento da inadmissão do recurso especial, valeu-se de argumentações genéricas, aplicáveis a toda e qualquer decisão de negativa de seguimento ao apelo nobre pela Súmula n. 7/STJ.
+3. Em relação à Súmula 284/STF, apesar de apontar os dispositivos de lei que entende violados no bojo do agravo em recurso especial, é certo que tal falta não se supre por essa via, pois é no recurso especial o momento adequado para indicação do dispositivo de lei tido por violado. Ademais, persevera em fundamentação deficiente a defesa quando menciona, nas razões do agravo, enunciado sumular diverso daquele apontado na decisão de inadmissão do reclamo constitucional (citando Súmula 283/STF ao invés da Súmula 284/STF).
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão da Presidência desta Corte que não conheceu do agravo em recurso especial da defesa, por incidência do óbice prescrito na Súmula n. 284/STF .
+Sustenta a defesa, em síntese, que indicou no recurso especial os dispositivos de lei que entendeu violados. Acrescenta, no entanto, que "contrariamente do que sustentado pela r. decisão monocrática, não houve a mera menção ao dispositivo violado, mas a apresentação das razões do reclamo especial de maneira suficiente para compreender a controvérsia." (fl. 305).
+Requer o conhecimento e provimento do presente agravo regimental para que se dê provimento ao recurso especial.
+Impugnação apresentada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSÃO. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. PLEITO ABSOLUTÓRIO. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO INDICAÇÃO DOS DISPOSITIVOS DE LEI VIOLADOS. APLICAÇÃO DA SÚMULA N. 284 DO STF, POR ANALOGIA.
+1. Não havendo impugnação específica acerca do fundamento da decisão que não admitiu o recurso especial, deve ser aplicada, por analogia, a Súmula n. 182 deste Tribunal Superior.
+2. Embora o agravante tenha se reportado ao fundamento da inadmissão do recurso especial, valeu-se de argumentações genéricas, aplicáveis a toda e qualquer decisão de negativa de seguimento ao apelo nobre pela Súmula n. 7/STJ.
+3. Em relação à Súmula 284/STF, apesar de apontar os dispositivos de lei que entende violados no bojo do agravo em recurso especial, é certo que tal falta não se supre por essa via, pois é no recurso especial o momento adequado para indicação do dispositivo de lei tido por violado. Ademais, persevera em fundamentação deficiente a defesa quando menciona, nas razões do agravo, enunciado sumular diverso daquele apontado na decisão de inadmissão do reclamo constitucional (citando Súmula 283/STF ao invés da Súmula 284/STF).
+4. Agravo regimental improvido.
+VOTO
+A decisão impugnada apresenta a seguinte fundamentação (fls. 298-299):
+Cuida-se de agravo interposto por ROVILSON GONCALVES DA SILVA, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de ROVILSON GONCALVES DA SILVA, verifica-se que incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF". (AgInt no AREsp n. 1.684.101/MA, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020.)
+Também, o Superior Tribunal de Justiça já se manifestou no sentido de que, "uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF". (AgRg no REsp 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17/3/2014.)
+Confiram-se ainda os seguintes precedentes: AgInt no ARESP n. 1.611.260/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; AgInt nos EDcl no REsp n. 1.675.932/PR, relator Ministro Francisco Falcão, Segunda Turma, DJe de 4/5/2020; AgInt no REsp n. 1.860.286/RO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 14/8/2020; AgRg nos EDcl no AREsp n. 1.541.707/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 29/6/2020; AgRg no AREsp n. 1.433.038/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 14/8/2020; REsp n. 1.114.407/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, DJe de 18/12/2009; e AgRg no EREsp n. 382.756/SC, relatora Ministra Laurita Vaz, Corte Especial, DJe de 17/12/2009.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+A insurgência não merece prosperar.
+O Tribunal de origem não admitiu o recurso especial, com fundamento nas Súmulas n. 7/STJ e 284/STF.
+Embora o agravante tenha se reportado ao fundamento da inadmissão do recurso especial, valeu-se de argumentações genéricas, aplicáveis a toda e qualquer decisão de negativa de seguimento ao apelo nobre pela Súmula n. 7/STJ.
+Nesse contexto, para modificar o decreto condenatório, com vista à absolvição do agravante, seria imprescindível o reexame dos elementos fático-probatórios constantes dos autos, o que é defeso em recurso especial, em virtude do que preceitua a Súmula n. 7 desta Corte.
+Em relação à Súmula 284/STF, apesar de apontar os dispositivos de lei que entende violados no bojo do agravo em recurso especial, é certo que tal falta não se supre por essa via, pois "A interposição de recurso especial fundado na alínea a do permissivo constitucional exige a indicação do dispositivo de lei tido por violado, sob pena de incidência da Súmula n. 284 do STF" (AgRg no AREsp n. 2.059.427/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 7/6/2022, DJe de 10/6/2022.).
+Ademais, persistente em fundamentação deficiente a defesa quando menciona, nas razões do agravo, enunciado sumular diverso daquele apontado na decisão de inadmissão do reclamo constitucional (citando Súmula 283/STF ou invés da Súmula 284/STF).
+Como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos.
+Destarte, aplicável ao caso, por analogia, o óbice previsto na Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
