@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ADRIANO EDUARDO DAMASIO contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (agravo de execução penal nº 0002106-78.2023.8.26.0502).
+Consta dos autos que o juízo da execução penal homologou falta disciplinar de natureza grave supostamente praticada pelo paciente, decretando a perda de 1/6 dos dias remidos e sua regressão ao regime fechado.
+No presente writ, o impetrante sustenta a ocorrência de constrangimento ilegal, consubstanciado na ausência de fundamentação e de provas suficientes de autoria para a imposição da sanção disciplinar.
+Alega que o paciente não tinha conhecimento da intenção de sua companheira de adentrar na unidade prisional em que está recolhido portando drogas.
+Aduz que a homologação da falta grave caracteriza a responsabilização objetiva do paciente.
+Requer, ao final, a concessão da ordem para que o paciente seja absolvido da falta disciplinar grave, a ausência de provas de sua participação da tentativa de introdução dos entorpecentes no estabelecimento prisional.
+As informações foram prestadas, às fls. 321-341 e 345-348.
+O Ministério Público Federal, às fls. 350-352, manifestou-se pela concessão da ordem, em parecer ementado nos seguintes termos:
+"HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. APREENSÃO DE ENTORPECENTES. NÃO COMPROVAÇÃO DA DESTINAÇÃO DA DROGA AO SENTENCIADO. ATO DE TERCEIRO. ATIPICIDADE. PELA CONCESSÃO.
+1. Não é possível a punição por falta grave pela tentativa de introdução de entorpecentes em estabelecimento prisional, se não foram produzidos elementos capazes de demonstrar que o apenado é o responsável pela introdução da droga no presídio.
+2. A caracterização da falta grave nesses casos responsabilização por ato de terceiro somente permite a punição do detento se houver elementos probatórios seguros de que ele participou da conduta do terceiro.
+3. Parecer pela concessão da ordem."
+A defesa reiterou os pedidos na petição de fls. 3544-355.
+É o relatório. DECIDO.
+Conforme consta, a defesa espera afastar a imputação de falta grave ao paciente sob a tese de fato de terceiro.
+Para melhor delimitar a controvérsia, trechos do acórdão (fls. 268-271):
+"Consta dos comunicados de evento nº 170-A/2022 e 170-B/2022, que no dia 29/12/2022, durante revista de rotina efetuada nos visitantes, a companheira de Adriano Eduardo Damásio foi surpreendida, após passar pelo "scanner" corporal, com um invólucro em suas roupas íntimas, contendo substância semelhante a maconha e pedaços de papel parecidos com "LSD" (fls. 180/181).
+A materialidade está comprovada pela foto de fls. 185, auto de exibição e apreensão (fls. 194), boletim de ocorrência (fls. 195/197) e exame químico- toxicológico (fls. 198/200 e fls. 201/203).
+A autoria encontra respaldo nos relatos uníssonos das agentes de segurança penitenciária (fls. 190/191), cujos depoimentos gozam de presunção de veracidade.
+(..)
+Ademais, a companheira do agravante - devidamente cadastrada por ele como sua visitante, cf. fls. 188 - foi firme ao atestar, expressamente, que entregaria as substâncias ilícitas a Adriano (fls. 186). E não há qualquer elemento que aponte eventual interesse de sua parte em prejudicar injustamente o companheiro, razão por que a negativa apresentada pelo sentenciado restou isolada nos autos (fls. 208), desmerecendo acolhimento.
+Ora, não se apresenta crível que Edilaine tenha, espontaneamente, tentado entrar na unidade prisional levando consigo drogas, correndo o risco de prejudicar não somente ao marido, como também a si própria, sem que o agravante soubesse e tenha solicitado que assim o fizesse.
+Destarte, considerando que a visitante do reeducando apenas tentou inserir entorpecentes na unidade prisional a pedido e com a ciência de Adriano, resta nítido que ele deve ser responsabilizado, restando bem configurada a falta grave em apreço.
+(..)
+Assim, imperiosa a homologação da falta grave, nos termos do art. 52, c.c. art. 49, parágrafo único, ambos da Lei de Execução Penal.
+Bem determinadas as consequências pelo Juízo "a quo", não houve impugnação pelas partes, restando íntegra a r. decisão recorrida.
+Isto posto, por maioria de votos, afastada a preliminar aventada, nega-se provimento ao agravo em execução penal interposto por Adriano Eduardo Damasio, vencido o E. Relator Sorteado, que dá provimento ao recurso, nos termos de sua declaração de voto."
+Como se observa, no caso concreto, o paciente foi declarado incurso em infração disciplinar de natureza grave de forma objetiva, sem constatação de sua autoria, mesmo que mediata, sob acusação de que teria solicitado à sua companheira que levasse drogas ao estabelecimento penitenciário.
+Nesse compasso, assim decidia esta Corte Superior:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. POSSE DE ENTORPECENTE. ENVIO POR SEDEX. FATO DE TERCEIRO. NÃO CONFIGURADO. ABSOLVIÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. PERDA DOS DIAS REMIDOS. FRAÇÃO MÁXIMA DE 1/3 (UM TERÇO). FUNDAMENTAÇÃO ADEQUADA. WRIT DO QUAL NÃO SE CONHECEU. INSURGÊNCIA DESPROVIDA.
+1. O sentenciado praticou falta grave durante a execução da pena consistente na posse de substância entorpecente, fato descrito como crime doloso, nos termos do art. 52, c/c o art. 49, parágrafo único, ambos da Lei de Execução Penal.
+2. Na espécie, o magistrado da execução consignou que a companheira do sentenciado, que é devidamente registrada no rol de visitantes, enviou cocaína por meio de "Sedex", do que se pode inferir a unidade de desígnios entre eles, o que afasta a tese de atipicidade por conduta de terceiro e caracteriza falta grave, permitindo a aplicação de sanções disciplinares, tal como procedido na origem.
+3. Consoante a jurisprudência pacífica desta Corte Superior de Justiça, é incabível a emissão de juízo de valor acerca da gravidade da infração disciplinar imputada ao condenado, a fim de afastá-la por insuficiência probatória ou de desclassificá-la, procedimento que implicaria o revolvimento de matéria fático-probatória, o que é vedado na via do habeas corpus. Precedentes.
+4. Quanto à perda dos dias remidos, sabe-se que a decisão deve ser devidamente fundamentada nos princípios da proporcionalidade e da razoabilidade, na natureza, nos motivos, nas circunstâncias e nas consequências do fato, a teor dos arts. 127 e 57 da LEP.
+5. O Tribunal local justificou adequadamente a perda dos dias remidos na fração máxima admitida em lei, sopesando o histórico prisional e a gravidade da conduta, não se configurando, portanto, nenhuma coação ilegal.
+6. Mantém-se a decisão singular que não conheceu do habeas corpus, por se afigurar manifestamente incabível, e não concedeu a ordem de ofício, em razão da ausência de constrangimento ilegal a ser sanado.
+7. Agravo regimental desprovido" (AgRg no HC n. 556.415/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 23/3/2020, grifei).
+Ocorre que, mais recentemente, tal cenário, ao ser enfrentado por esta Quinta Turma, terminou por ser decido no sentido de que, em decorrência do princípio da intranscendência penal, a imposição de falta grave, por ato de terceiro, deveria ser afastada, quando não devidamente comprovada a coautoria do reeducando.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CONCESSÃO DA ORDEM SEM OPORTUNIDADE DE MANIFESTAÇÃO PRÉVIA DO MINISTÉRIO PÚBLICO FEDERAL. INOCORRÊNCIA DE NULIDADE PROCESSUAL. HOMENAGEM AO PRINCÍPIO DA CELERIDADE E À GARANTIA DA EFETIVIDADE DAS DECISÕES JUDICIAIS. FALTA DISCIPLINAR DE NATUREZA GRAVE IMPUTADA AO REEDUCANDO POR ATO DE TERCEIRO. IMPOSSIBILIDADE. APLICAÇÃO DO PRINCÍPIO DA INTRANSCENDÊNCIA PENAL. AUSÊNCIA DE COMPROVAÇÃO DE QUE O PACIENTE TERIA CONCORRIDO PARA A CONDUTA. ORDEM CONCEDIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Malgrado seja necessário, em regra, abrir prazo para a manifestação do Parquet antes do julgamento do writ, as disposições estabelecidas no art. 64, III, e 202, do Regimento Interno desta Corte, e no art. 1º do Decreto-lei n. 522/1969, não afastam do relator o poder de decidir monocraticamente o habeas corpus.
+2. "O dispositivo regimental que prevê abertura de vista ao Ministério Público Federal antes do julgamento de mérito do habeas corpus impetrado nesta Corte (arts. 64, III, e 202, RISTJ) não retira do relator do feito a faculdade de decidir liminarmente a pretensão que se conforma com súmula ou jurisprudência dominante no Superior Tribunal de Justiça ou a confronta" (AgRg no HC 530.261/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/9/2019, DJe 7/10/2019).
+3. Para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica. Precedentes.
+4. Com efeito, a jurisprudência deste Tribunal Superior firmou-se no sentido de que, em razão do princípio da intranscendência penal, a imposição de falta grave ao executado, por transgressão realizada por terceiro, deve ser afastada quando não comprovada sua autoria, através de elementos concretos.
+5. In casu, à míngua de elementos concretos, não ficou provada a prática de nenhum ato material pelo paciente. O fato de ser sua companheira a portadora dos componentes de celular e a simples suspeita de que ele teria sido o solicitante de tais peças não são suficientes para afirmar a prática da falta grave. É de se considerar, ainda, que os objetos sequer adentraram a unidade prisional e não estiveram na posse do reeducando.
+6. Agravo regimental desprovido." (AgRg no HC n. 752.202/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 13/9/2022).
+Ora, não se ignora que esta Corte até entende pela possibilidade de configuração da falta grave em casos tais, contudo, provas mínimas dos fatos devem ser produzidas, no sentido da efetiva participação do apenado.
+Verbis:
+"Quem, de qualquer modo, concorre para uma conduta, incide nas penas a esta cominadas. O apenado foi responsabilizado por ser o idealizador da falta grave, o seu autor mediato. De acordo com a prova oral produzida durante o procedimento administrativo disciplinar, ele determinou o transporte de droga e o realizou, não diretamente, mas pelas mãos da visitante do presídio, seu instrumento. Assim, não há falar em responsabilização objetiva por ato de terceiro" (AgRg no HC 613.729/SP, Sexta Turma, Rel. Min. Rogério Schietti Cruz, DJe de 30/4/2021).
+No caso concreto, não houve como se concluir que o paciente praticou a falta grave, pois sequer foi comprovado que teria solicitado as drogas à sua companheira, nem mesmo que tivesse ciência prévia da tentativa de ingresso das drogas na unidade prisional.
+Verifica-se, portanto, que o Tribunal, com amparo em mera responsabilidade penal objetiva, decidiu que o paciente agiu em concurso de agentes com a sua companheira.
+Desse modo, o acórdão exarado pelo Tribunal de origem encontra-se em desconformidade com a jurisprudência desta Corte Superior de Justiça, gerando constrangimento ilegal ao paciente.
+Ante o exposto, concedo a ordem de habeas corpus, para afastar a falta grave homologada e todos os seus consectários, por falta de provas da autoria.
+Intime-se, com urgência, a origem para cumprimento.
+Publique-se. I ntime-se.
+ EMENTA
