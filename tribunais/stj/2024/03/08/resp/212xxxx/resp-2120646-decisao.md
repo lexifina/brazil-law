@@ -1,0 +1,32 @@
+DECISÃO
+Examina-se de recurso especial interposto por KATHIA MARIA BARATTA MONTEIRO SOUSA, fundado na alínea "a" do permissivo constitucional, contra acórdão do TJ/PI.
+Ação: revisional de contrato, ajuizada por KÁTHIA MARIA BARATTA MONTEIRO SOUSA, em face de BANCO PANAMERICANO S/A.
+Sentença: extinguiu o processo sem resolução de mérito.
+Acórdão: negou provimento ao recurso interposto pela recorrente, nos termos assim ementados:
+PROCESSUAL CIVIL. APELAÇÃO CÍVEL. PRELIMINAR DE ERROR IN PROCEDENDO. NÃO CABIMENTO. DETERMINAÇÃO DE EMENDA A INICIAL. NÃO ATENDIMENTO. INDEFERIMENTO. MANUTENÇÃO DA SENTENÇA. I - Logo, a decisão de emenda da petição inicial, apenas, oportunizou ao Apelante a juntada de documentos necessários e indispensáveis ao desenvolvimento valido e regular do processo, matéria de ordem pública que pode ser reconhecida a qualquer tempo pelo Magistrado, em prol da regular tramitação da demanda, não havendo que se falar em error in procedendo, razão pela qual indefiro a preliminar suscitada pela Recorrente.
+II - Na espécie, diante da determinação judicial de emenda, a Apelante deveria ter atravessado petição anexando os documentos determinados ou justificando o comprovante de pagamento da complementação das custas iniciais regularmente apuradas pelo setor competente deste TJPI, já que tais documentos solicitados são indispensáveis para a propositura da ação.
+III- No entanto, somente trouxe à colação documentos que não detém aptidão para a regular instrução da petição inicial, em clara inobservância à decisão judicial e aos requisitos legais imposto pelo CPC, nos dispositivos supratranscritos, fundamento legal suficiente para subsidiar as razões de decidir que alicerçaram a sentença recorrida, consoante entendimento majoritário dos tribunais nacionais IV- Logo, em virtude da não regularização dos vícios apontados no despacho de emenda, pela Apelante, quando devidamente oportunizado, impõe-se o indeferimento da petição inicial, com a extinção do feito sem resolução do mérito, nos termos do art. 321, parágrafo único, do CPC, conforme realizado pelo Magistrado a quo, de modo que a sentença recorrida é higida e escorreita, não merecendo qualquer reparo. V - Recurso conhecido e improvido.
+Recurso especial: aponta violação dos arts. 321 e 485 do CPC. Argumenta que o indeferimento da petição inicial não pode ser realizado após a citação, pois a petição foi admitida neste momento.
+Argumenta que a determinação de emenda da inicial após a contestação fere o princípio da estabilidade da demanda.
+Sustenta que houve o recolhimento das custas.
+Argumenta que a ausência do pagamento de custas não se enquadra entre os documentos indispensáveis para a propositura da ação, nos termos do art. 320 do CPC, de forma que não poderia justificar a extinção do processo sem julgamento de mérito.
+É o relatório.
+-DA POSSIBILIDADE DE EMENDAR A INICIAL APÓS APRESENTAÇÃO DA CONTESTAÇÃO
+Na espécie, o Tribunal de origem concluiu que tendo sido constatada a ausência de pressuposto de constituição e desenvolvimento válido do processo, determinou-se de ofício a intimação da recorrente para suprir as irregularidades, o que não foi feito tempestivamente. (e-STJ Fl.402)
+A insurgência da recorrente reside no argumento de que a determinação de emenda da petição inicial, bem como a posterior extinção do processo sem resolução de mérito não poderia ocorrer, pois foram após a apresentação da contestação.
+Sobre o tema, o acórdão recorrido assim decidiu:
+"incorre em equívoco a Apelante, já que os vícios constatados pelo Juiz a quo comprometem o desenvolvimento valido e regular do processo admitindo o reconhecimento de ofício, mesmo que tardio, após a citação, denotando esta, apenas, que estão presentes os pressupostos processuais e as condições da ação até melhor analise do feito."(e-STJ Fl.403)
+A jurisprudência desta Corte entende ser possível a emenda à inicial após a contestação quando não ensejar a modificação do pedido ou da causa de pedir, desde que observados os princípios do contraditório e da ampla defesa. Acórdão recorrido em harmonia com a jurisprudência desta Corte Superior. Incidência da Súmula 83/STJ. (AgInt no AREsp n. 1.261.493/DF, Terceira Turma, julgado em 5/6/2018, DJe de 15/6/2018; AgRg no AREsp n. 197.630/MS, QUARTA TURMA, julgado em 6/12/2016, DJe 14/12/2016; REsp n. 1.229.296/SP, QUARTA TURMA, julgado em 10/11/2016, DJe 18/11/2016; REsp n. 1.477.851/PR, TERCEIRA TURMA, julgado em 23/6/2015, DJe 4/8/2015; AgRg no AREsp n. 196.345/SP, QUARTA TURMA, julgado em 17/12/2013, DJe 4/2/2014)
+Dessarte, estando o acórdão recorrido em sintonia com a jurisprudência desta Corte Superior, incide na hipótese a Súmula 83/STJ.
+Ademais, o não recolhimento das custas iniciais, após a intimação do autor para essa finalidade, enseja o imediato indeferimento da petição inicial, com fulcro no art. 330, IV, c/c 485, I, do CPC/2015. (REsp n. 1.842.356/MT, Terceira Turma, julgado em 8/11/2022, DJe de 24/11/2022.)
+Por fim, o argumento de que houve o tempestivo pagamento das custas não pode ser revisto nesta seara recursal, em virtude da Súmula 07/STJ.
+Forte nessas razões, com fundamento no art. 932, III e IV, a , do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. INDEFERIMENTO PETIÇÃO INICIAL. RECOLHIMENTO DE CUSTAS. REEXAME DE FATOS E PROVAS. SÚMULA 07/STJ.
+1. Cuida-se de ação revisional de contrato.
+2. A jurisprudência desta Corte entende ser possível a emenda à inicial após a contestação quando não ensejar a modificação do pedido ou da causa de pedir, desde que observados os princípios do contraditório e da ampla defesa. Precedentes.
+3. O não recolhimento das custas iniciais, após a intimação do autor para essa finalidade, enseja o imediato indeferimento da petição inicial, com fulcro no art. 330, IV, c/c 485, I, do CPC/2015. Precedentes.
+4. Recurso especial parcialmente conhecido e não provido.
