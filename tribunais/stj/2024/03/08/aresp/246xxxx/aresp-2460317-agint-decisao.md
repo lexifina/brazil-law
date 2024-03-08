@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interno interposto por VITERRA AGRICULTURE BRASIL S/A e GAVILON DO BRASIL COMÉRCIO DE PRODUTOS AGRÍCOLAS LTDA. (VITERRA e outra) contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL E COMERCIAL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RECUPERAÇÃO JUDICIAL. (1) SUPOSTA DEFICIÊNCIA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. HIGIDEZ DO ACÓRDÃO RECORRIDO.(2) HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. HABILITAÇÃO DE CRÉDITO. IMPUGNAÇÃO. PRETENSÃO RESISTIDA. VERBA DEVIDA. PRECEDENTES. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO. (e-STJ, fl. 362)
+Nas razões do presente inconformismo, VITERRA e outra alegaram que (1) a decisão monocrática agravada não cumpriu os requisitos legais autorizadores para julgamento do recurso, nos termos do art. 932, III, IV e V, do NCPC, consistindo o julgamento singular em exceção à regra da colegialidade cabível apenas quando se cuidar de negativa de conhecimento da irresignação ou contrária a súmula de Cortes Superiores ou do próprio Tribunal de origem, a acórdão proferido pelo STF ou STJ em julgamento de recursos repetitivos ou ao entendimento constante de incidente de resolução de demandas repetitivas ou de assunção de competência, hipóteses distintas do caso em tela; (2) o aresto recorrido seria nulo diante de omissão quanto à alegação de impossibilidade de considerar as agravantes como perdedoras na demanda para o fim de aplicar a condenação ao pagamento de honorários advocatícios, devendo ser reconhecida a sucumbência parcial na medida em que as pretensões de ambas as partes foram rejeitadas - a das agravantes era de habilitar o crédito como extraconcursal e a dos agravados era de reconhecimento da ausênca de crédito -, nova premissa que certamente geraria repercussão na jurisprudência aplicável à hipótese.
+Não houve oferecime nto de impugnação (e-STJ, fls. 384, 385 e 386).
+É o relatório.
+Decido.
+Da reconsideração da decisão agravada
+Diante dos fundamentos indicados no agravo interno, RECONSIDERO a decisão agravada para reanálise do agravo em recurso especial.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o recurso especial e passo ao seu exame, que merece prosperar.
+Da apontada nulidade do aresto recorrido
+VITERRA e outra alegaram que o aresto recorrido seria nulo diante de omissão quanto à alegação de impossibilidade de considerar a agravante como perdedora na demanda para o fim de aplicar a condenação ao pagamento de honorários advocatícios, devendo ser reconhecida a sucumbência parcial na medida em que as pretensões de ambas as partes foram rejeitadas - a das agravantes era de habilitar o crédito como extraconcursal e a dos agravados era de reconhecimento da ausênca de crédito -, nova premissa que certamente geraria repercussão na jurisprudência aplicável à hipótese.
+É condição sine qua non ao conhecimento do recurso especial que a questão de direito ventilada nas suas razões tenha sido analisada pelo acórdão objurgado.
+Assim, não tendo havido manifestação sobre a tese de que houve sucumbência recíproca em sede de impugnação à habilitação de crédito em recuperação judicial, fica caracterizada a negativa de prestação jurisdicional.
+A propósito, confira-se o precedente abaixo:
+AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE E INDENIZAÇÃO DE DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. VIOLAÇÃO DO ART. 1022
+DO CPC/2015. CONFIGURADA. RECURSO PROVIDO. RETORNO DOS AUTOS À ORIGEM. NOVO JULGAMENTO.
+1. O propósito recursal consiste em infirmar decisão monocrática que, reconhecendo a violação do art. 1.022 do CPC/2015, cassou o acórdão que julgou os embargos de declaração opostos pelas recorrentes e determinar o retorno dos autos ao Tribunal de origem, a fim de que este se pronuncie, na esteira do devido processo legal, sobre os argumentos deduzidos nos embargos de declaração opostos.
+2. Ação declaratória e de indenização por danos morais, ajuizada pelas agravadas em face do agravante, em que pleiteiam a inexigibilidade da cobrança de mensalidade pelo Clube, bem como a condenação em danos morais pela mencionada cobrança.
+3. A existência de omissão e/ou contradição relevante à solução da controvérsia, não sanada pelo Tribunal de origem, caracteriza violação do art. 1.022 do CPC/2015.
+4. Agravo interno em recurso especial não provido.
+(AgInt no REsp 1.733.413/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, j. 24/6/2019, DJe 26/6/2019)
+É medida de rigor, portanto, o retorno dos autos ao TJSP para que sane o referido vício, estando prejudicada a análise das pretensões das ora recorrentes relacionadas à questão de fundo.
+Nessas condições, RECONSIDERO a decisão de, e-STJ, fls. 362/367, e CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial a fim de determinar o retorno dos autos ao Tribunal bandeirante para que analise a alegação de VITERRA e outra de que houve sucumbência recíproca em sede de impugnação à habilitação de crédito em recuperação judicial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. JUÍZO DE RETRATAÇÃO. RECONSIDERAÇÃO DA DECISÃO QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL. ALEGAÇÃO DE SUCUMBÊNCIA RECÍPROCA EM SEDE DE IMPUGNAÇÃO À HABILITAÇÃO DE CRÉDITO. OMISSÃO DO ARESTO RECORRIDO. CONFIGURAÇÃO. OFENSA AOS ARTS. 489 E 1.022 DO NCPC. DETERMINAÇÃO DE RETORNO DOS AUTOS AO TRIBUNAL BANDEIRANTE. AGRAVOO CONHECIDO. RECURSO ESPECIAL PROVIDO.
