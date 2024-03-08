@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO. AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULA CONTRATUAL COM REPETIÇÃO DE INDÉBITO. PROCEDÊNCIA PARCIAL. IRRESIGNAÇÃO DO PROMOVIDO. RESTITUIÇÃO DE JUROS INCIDENTES SOBRE TARIFAS DECLARADAS ILEGAIS EM AÇÃO PROPOSTA NO JUIZADO ESPECIAL CÍVEL. CABIMENTO. ILEGALIDADE DA OBRIGAÇÃO PRINCIPAL QUE IMPLICA A DA ACESSÓRIA. INTELIGÊNCIA DO ART. 184 DO CÓDIGO CIVIL. MANUTENÇÃO DA SENTENÇA. DESPROVIMENTO DO RECURSO.
+- Nos termos do art. 184, do Código Civil, "A invalidade da obrigação principal implica a das obrigações acessórias, mas a destas não induz a da obrigação principal."
+- A nulidade da obrigação principal, caso das tarifas bancárias declaradas ilegais por sentença transitada em julgado, implica na ilegalidade das acessórias, caso dos juros remuneratórios a ela atrelados, sendo cabível a restituição dos valores indevidamente cobrados do consumidor.
+Opostos embargos de declaração, esses foram rejeitados na origem.
+Nas razões do especial, aponta a recorrente violação dos artigos 92 e 323 do Código Civil.
+Argumenta que a coisa julgada impede o ajuizamento da ação declaratória, pois o manto da preclusão se estende sobre todas as questões que poderiam ser alegadas na ação pretérita.
+Recurso admitido na origem, nos termos da decisão de fls. 303-305, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+No caso dos autos, acerca da possibilidade de ajuizamento de nova ação para restituição de quantia paga a título de juros remuneratórios incidentes sobre tarifas declaradas nulas, com a consequente devolução dos valores pagos indevidamente, em ação anterior, a Corte local, assim dirimiu a controvérsia (fls. 187-1, e-STJ):
+Pois bem, é do conhecimento geral gue os encargos acessórios seguem a sorte do principal, porquanto nos termos do art. 184 do Código Civil, "a invalidade da obrigação principal implica a das obrigações acessórias".
+Com efeito, sabendo gue o acessório segue o principal, é certo que a declaração de nulidade das tarifas bancárias cobradas no contrato de financiamento celebrado entre os litigantes implica a ilegalidade dos juros sobre elas incidentes, (..)
+Sendo assim, diante da declaração de ilegalidade, mediante sentença transitada em julgado, das tarifas bancárias em questão, os juros sobre elas incidentes durante a vigência do contrato revelam-se indevidos, isso por decorrência lógica, já que o destino da obrigação acessória segue o da principal, sendo cabível, portanto, a devolução dos valores correspondentes aos juros aplicados sobre esses encargos, de forma simples, porquanto não configurada má-fé que justifique a aplicação do art. 42, parágrafo único, do Código de Defesa do Consumidor, vez que as tarifas cobradas estavam previstas no instrumento contratual.
+Anoto que o acórdão da origem divergiu da orientação emanada desta Corte Superior, quanto à eficácia preclusiva da coisa julgada impedir a apreciação das questões deduzidas e dedutíveis, ainda que não tenham sido examinadas, desde que atinentes à mesma causa de pedir.
+Confiram-se:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA DE JUROS SOBRE TAXAS ADMINISTRATIVAS DECLARADAS ILEGAIS EM SENTENÇA TRANSITADA EM JULGADO. EFICÁCIA PRECLUSIVA DA COISA JULGADA. PEDIDO FORMULADO COM BASE NOS MESMOS FATOS E FUNDAMENTOS JURÍDICOS. IMPOSSIBILIDADE. RECURSO PROVIDO.
+1. Discute-se a possibilidade de ajuizamento de nova demanda para restituição de quantia paga a título de juros remuneratórios incidentes sobre tarifas consideradas abusivas em ação de repetição de indébito julgada procedente e transitada em julgado.
+2. A eficácia preclusiva da coisa julgada impede a apreciação de questões deduzidas e dedutíveis, ainda que não tenham sido examinadas, desde que atinentes à mesma causa de pedir.
+3. Hipótese na qual a parte autora ajuizou nova ação buscando a restituição de valores pagos a título de juros remuneratórios em razão da incidência destes sobre tarifas bancárias declaradas abusivas em sentença com trânsito em julgado, que determinou a restituição dos valores pagos indevidamente, com base nos mesmos fatos e fundamentos jurídicos do primeiro processo.
+4. Recurso especial provido.
+(REsp n. 1.989.143/PB, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 13/12/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. CONTRATO BANCÁRIO. CARÁTER ABUSIVO DA INCIDÊNCIA DE JUROS SOBRE TARIFAS BANCÁRIAS TAMBÉM ABUSIVAS. COISA JULGADA. MATÉRIA DEDUTÍVEL EM DEMANDA ANTERIOR. REFORMA DO ACÓRDÃO RECORRIDO. AGRAVO INTERNO IMPROVIDO.
+1. Debateu-se, na decisão agravada, se a coisa julgada formada em ação de repetição de indébito anterior, fundada na cobrança indevida de tarifas bancárias, impediria o ajuizamento de nova demanda, agora postulando a repetição de indébito relativamente aos juros incidentes sobre as mesmas tarifas.
+2. O STJ já fixou o entendimento de que "A eficácia preclusiva da coisa julgada impede a apreciação de questões deduzidas e dedutíveis, ainda que não tenham sido examinadas, desde que atinentes à mesma causa de pedir. 3. Hipótese na qual a parte autora ajuizou nova ação buscando a restituição de valores pagos a título de juros remuneratórios em razão da incidência destes sobre tarifas bancárias declaradas abusivas em sentença com trânsito em julgado, que determinou a restituição dos valores pagos indevidamente, com base nos mesmos fatos e fundamentos jurídicos do primeiro processo" (REsp n. 1.989.143/PB, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 6/12/2022, DJe de 13/12/2022).
+3. Agravo interno improvido.
+(AgInt no AREsp n. 2.179.839/PB, relator Ministro Raul Araújo, Quarta Turma, DJe de 2/5/2023)
+Com efeito, o pedido formulado nas ações em cotejo, cuja extensão se alega diferir entre si, encontra-se baseado nos mesmos fatos e fundamentos jurídicos, verificando-se, portanto, a tríplice identidade entre as demandas, de modo que necessária a reforma do acórdão recorrido.
+Em face do exposto, dou provimento ao recurso especial para reconhecer a existência de coisa julgada material, extinguindo o processo, sem resolução de mérito, nos termos do art. 485, V, do CPC/2015.
+Condeno a parte autora ao pagamento das custas processuais e honorários advocatícios sucumbenciais, que fixo em 10% sobre o valor atualizado da causa, nos termos do art. 85, § 2º, do CPC, observada a gratuidade da justiça deferida (art. 98, § 3º, do CPC).
+Intimem-se.
+EMENTA
