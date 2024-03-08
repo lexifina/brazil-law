@@ -1,0 +1,4 @@
+Art. 50A - A Corregedoria Administrativa é órgão auxiliar do Ministério Público vinculada ao Gabinete da Procuradoria-Geral de Justiça e tem por finalidade orientar o desenvolvimento na carreira e correcionar as atividades dos servidores integrantes do quadro de serviços auxiliares.
+§ 1º - Atuará como Corregedor Administrativo 01 (um) membro do Ministério Público, designado pelo(a) Procurador(a)-Geral de Justiça.
+§ 2º - O Corregedor Administrativo expedirá regulamentos acerca dos procedimentos afetos à atuação da Corregedoria Administrativa, especialmente instruções normativas complementares às disposições legais e normas expedidas pela Procuradoria-Geral de Justiça.
+§ 3º - No exercício das funções correcionais, o Corregedor Administrativo aplicará as sanções disciplinares segundo a legislação vigente, ressalvadas aquelas reservadas exclusivamente ao(à) Procurador(a)-Geral de Justiça.
