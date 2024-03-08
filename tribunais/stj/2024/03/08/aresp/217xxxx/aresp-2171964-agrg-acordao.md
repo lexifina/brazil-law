@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA N. 284 DO STF. INEXISTÊNCIA DE PREQUESTIONAMENTO FICTO. NÃO ALEGAÇÃO DE VIOLAÇÃO DO ART. 619 DO CPP. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ.
+1. "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" (Súmula n. 284 do STF).
+2. "Entende esta Corte que o prequestionamento ficto é possível até mesmo na esfera penal, desde que no recurso especial tenha o recorrente apontado violação ao art. 619 do CPP (dispositivo do CPP correspondente ao art. 1.022 do CPC), a fim de permitir que o órgão julgador analise a (in)existência do vício assinalado e, acaso constatado, passe desde então ao exame da questão suscitada, suprimindo a instância inferior, se necessário, consoante preleciona o art. 1.025 do CPC" (AgRg no REsp n. 2.009.842/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 7/11/2023, DJe de 16/11/2023).
+3. "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo" (Súmula n. 211 do STJ).
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão de minha relatoria que negou provimento ao agravo em recurso especial.
+A parte agravante expõe os motivos pelos quais, no seu entender, não incidiriam os óbices eleitos na decisão agravada relativamente às Súmulas n. 518 do STJ, 282, 284 e 356 do STF, razão de defender a reforma do julgado.
+Requer a reconsideração da decisão, ou o conhecimento e provimento do recurso pela Turma julgadora.
+O Ministério Público do Estado de Santa Catarina Federal requer o não conhecimento do agravo.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA N. 284 DO STF. INEXISTÊNCIA DE PREQUESTIONAMENTO FICTO. NÃO ALEGAÇÃO DE VIOLAÇÃO DO ART. 619 DO CPP. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ.
+1. "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" (Súmula n. 284 do STF).
+2. "Entende esta Corte que o prequestionamento ficto é possível até mesmo na esfera penal, desde que no recurso especial tenha o recorrente apontado violação ao art. 619 do CPP (dispositivo do CPP correspondente ao art. 1.022 do CPC), a fim de permitir que o órgão julgador analise a (in)existência do vício assinalado e, acaso constatado, passe desde então ao exame da questão suscitada, suprimindo a instância inferior, se necessário, consoante preleciona o art. 1.025 do CPC" (AgRg no REsp n. 2.009.842/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 7/11/2023, DJe de 16/11/2023).
+3. "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo" (Súmula n. 211 do STJ).
+4. Agravo regimental improvido.
+VOTO
+A decisão proferida está assim fundamentada (fls. 889-891):
+A reiterada alegação genérica de ofensa ao princípio da segurança jurídica, prevista no art. 2º da Lei 9.784/99, não possui comando normativo apto a desconstituir o fundamento do acórdão recorrido, de modo que incide no caso a Súmula 284/STF.
+Quanto à alegação acerca da "inocência da Recorrente e da irretroatividade da declaração de inidoneidade das notas fiscais que embasam a notificação fiscal", incabível a interposição de recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, fundado em alegada violação de enunciado de súmula (Súmula 518/STJ).
+Acerca da ofensa ao inciso XL do art. 5º da CF, inviável a apreciação de violação de dispositivos constitucionais, cuja competência é reservada ao Supremo Tribunal Federal, nos termos do art. 102, III, da CF.
+No que tange à prescrição tributária, verifica-se que a matéria não foi examinada pela Corte local, razão pela qual não se verifica o indispensável prequestionamento, o que atrai a incidência das Súmulas 282 e 356/STF.
+Em relação ao alegado "ne bis in idem", tal como mencionado anteriormente, incabível a interposição de recurso especial, com base em alegação de contrariedade da Súmula 19 do STF, consoante a Súmula 518/STJ.
+Ademais, acerca do art. 927, V, do CPC, ressalte-se não foi indicado de forma correta o artigo supostamente violado, atraindo, desse modo, a Súmula 284/STF, uma vez que não demonstrada a correlação entre o pleito do recurso especial e o dispositivo apontado. Nesse sentido:
+ ..
+Por sua vez, constou do julgado que, ao tempo da sentença condenatória, a recorrente não possuía 70 anos, contando à época com 62 anos, motivo pelo qual não há falar na incidência da atenuante prevista no art. 65, I, do CP.
+Do mesmo modo, inadmissível a atenuante da confissão espontânea, "uma vez que a acusada teve a revelia decretada contra si e em momento algum confessou espontaneamente as acusações que lhe pesam", motivo pelo qual não se encontra preenchido o requisito tipificado no art. 65, III, "d", do CP.
+Acerca da continuidade delitiva, é entendimento desta Corte Superior que "a fração de aumento no crime continuado é determinada em função da quantidade de delitos cometidos, aplicando-se o aumento de 1/6 pela prática de 2 infrações; 1/5 para 3 infrações; 1/4 para 4 infrações; 1/3 para 5 infrações; 1/2 para 6 infrações e 2/3 para 7 ou mais infrações (AgRg no HC 681.080/MG, Rel. Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), QUINTA TURMA, julgado em 26/10/2021, DJe 04/11/2021) .
+Assim, havendo o acórdão concluído que, conforme os elementos probatórios, "a ré praticou 32 (trinta e duas) infrações", devida é a fração de 2/3, nos termos da orientação desta Corte, não havendo falar em ilegalidade.
+Dessa forma, ressalte-se que a reversão das premissas fáticas do aresto recorrido, para absolver ou diminuir a pena, demandaria o revolvimento do conjunto fático-probatório, inadmissível a teor da Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+O recurso não merece prosperar.
+Relativamente à questão da levantada inocência e da irretroatividade da declaração de inidoneidade das notas fiscais que embasaram a notificação fiscal, verifica-se que a parte agravante visando afastar o óbice eleito, apenas dispôs que "a nossa tese tem suporte no caput do art. 2º da Lei 9.784/1999 e não na Súmula 506 e inciso XL do art. 5º da CF/88, o que afasta o óbice levantado". (fl. 910).
+Não obstante, verifica-se que a decisão ora agravada também dispôs que "A reiterada alegação genérica de ofensa ao princípio da segurança jurídica, prevista no art. 2º da Lei 9.784/99, não possui comando normativo apto a desconstituir o fundamento do acórdão recorrido, de modo que incide no caso a Súmula 284/STF" (fls. 889-890).
+A parte não expôs quaisquer considerações pelas quais não incidiria referido óbice, de modo a demonstrar que referido dispositivo legal é suficiente para justificar a reforma do julgado. Por este motivo, a decisão deve ser mantida por seus próprios fundamentos.
+Quanto ao tema da prescrição tributária, ante o óbice apontado da ausência de prequestionamento, sustenta a parte que está presente o prequestionamento ficto do art. 1.025 do CPC/2015.
+Não obstante, "Entende esta Corte que o prequestionamento ficto é possível até mesmo na esfera penal, desde que no recurso especial tenha o recorrente apontado violação ao art. 619 do CPP (dispositivo do CPP correspondente ao art. 1.022 do CPC), a fim de permitir que o órgão julgador analise a (in)existência do vício assinalado e, acaso constatado, passe desde então ao exame da questão suscitada, suprimindo a instância inferior, se necessário, consoante preleciona o art. 1.025 do CPC" (AgRg no REsp n. 2.009.842/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 7/11/2023, DJe de 16/11/2023).
+Como no presente caso, não foi apontada violação do art. 619 do CPP, não há se falar em prequestionamento ficto como aduz a parte recorrente, sendo mantida, portanto, a incidência das Súmulas n. 282 e 356 do STF.
+No que diz respeito ao alegado "ne bis in idem", constata-se o fundamento de que "não foi indicado de forma correta o artigo supostamente violado, atraindo, desse modo, a Súmula 284/STF, uma vez que não demonstrada a correlação entre o pleito do recurso especial e o dispositivo apontado" (fl. 890).
+A parte apenas aduz que "a barreira levantada foi equivocada" (fl. 912). Dessa forma, mais uma vez, a parte não buscou demonstrar a incorreção do fundamentado adotado, de modo a demonstrar que o dispositivo legal tem força normativa capaz de alterar o acórdão atacado, razão de sua manutenção.
+Por fim, no que diz respeito ao tema da confissão espontânea se dispôs não restar preenchido o requisito do art. 65, III, "d", do CP, tendo em vista a conclusão do Tribunal de origem de que "uma vez que a acusada teve a revelia decretada contra si e em momento algum confessou espontaneamente as acusações que lhe pesam" (fl. 538).
+Constata-se que a parte busca por intermédio do "princípio da isonomia" seja reconhecida a confissão pois que "se a revelia é entendida como confissão da parte perante o R. Juízo, por que não pode ser entendida como atenuante" (fl. 913).
+A tese não encontra qualquer amparo legal. Não obstante, apesar da oposição dos embargos de declaração, não houve manifestação do Tribunal de origem a respeito, situação que atrai o óbice da Súmula n. 211 do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Desse modo, tendo em vista que a decisão agravada encontra amparo na jurisprudência do STJ, deve ser mantida por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
