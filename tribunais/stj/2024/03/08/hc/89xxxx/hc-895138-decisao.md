@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de YURI FREITAS BRANDAO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da apelação criminal n. 1501061-42.2022.8.26.0617.
+Consta dos autos que o paciente foi inicialmente condenado pelo Juízo da 1ª Vara Criminal da Comarca de São José dos Campos, às penas de 06 anos e 08 meses de reclusão, no regime inicial fechado, e multa equivalente a 666 dias-multa, por incursão no artigo 33, da Lei 11.343/2006, nos termos da sentença de fls. 21-28.
+Ambas as partes interpuseram apelação criminal ao Tribunal de Justiça, que negou provimento ao recurso da defesa e deu parcial provimento ao recurso da acusação, de modo a aumentar as penas para 8 anos e 4 meses de reclusão e 833 dias-multa, conforme o acórdão de fls. 29-38.
+Operado o trânsito em julgado em 26/06/2023, sobreveio a impetração do presente writ, objetivando a concessão da ordem para reconhecer a nulidade das provas obtidas em busca pessoal feita à margem da legalidade, bem como para reconhecer a incidência da atenuante da confissão espontânea e estabelecer o regime inicial semiaberto.
+É o relatório. DECIDO.
+A controvérsia dos autos gira em torno de possível ilegalidade flagrante, consistente (i) na nulidade das provas obtidas em violação ao artigo 244 do Código de Processo Penal; (ii) na negativa ao reconhecimento da atenuante do artigo 65, III, "d", do Código Penal; e (iii) no estabelecimento de regime inicial prisional mais gravoso sem fundamentação idônea.
+Para melhor análise da controvérsia, transcrevo os fundamentos da decisão colegiada (fls. 29-38):
+ ..
+Impõe-se, inicialmente, afastar a preliminar arguida, porquanto, respeitosamente, descabida, pois os policiais militares agiram dentro dos limites estatuídos na Constituição Federal.
+Acontece que, ao que se depreende dos autos, os milicianos realizaram uma abordagem ao veículo do réu após receberem denúncia anônima sobre a existência de arma de fogo em automóvel da mesma marca e modelo, trafegando pela região dos fatos.
+E, tão logo realizaram a parada do veículo e a abordagem ao réu, este já admitiu a existência de entorpecentes no carro, os quais foram encontrados pelos policiais durante a revista veicular sobre a qual, vale dizer, sequer há qualquer informação de ter sido realizada sem o consentimento do réu.
+Assim, não há que se falar em irregularidade na ação policial, tampouco em nulidade no procedimento por eles realizado, uma vez dentro do que permite a legislação pátria.
+ ..
+Em que pese o sentenciado tenha negado os fatos em juízo, apresentou versão bastante frágil, dizendo que estava realizando o transporte de uma caixa a pedido de terceira pessoa com quem tinha certa dívida, desconhecendo, porém, que em seu interior havia drogas, embora suspeitasse que fosse algo ilícito.
+No entanto, a versão do réu, não fosse o fato de nada justificar a acusação que lhe foi feita, ainda se mostrou bastante fantasiosa, uma vez que os milicianos, que devem zelar pela segurança pública, não teriam razões para, levianamente, alterar a dinâmica dos fatos e incriminar Yuri o sabendo inocente.
+Aliás, os policiais militares foram uníssonos ao narrar a forma como se deram os fatos, explicando que estavam em patrulhamento de rotina quando foi irradiada pelo COPOM a informação recebida por denúncia anônima de que em um veículo Renault Logan, de cor branca, haveria arma de fogo. Assim, tão logo avistaram referido veículo, decidiram pela abordagem. Indagado informalmente a respeito de algo ilícito no automóvel, Yuri, que conduzia o carro, afirmou que no porta-malas haveria entorpecente. Negou, contudo, a existência de arma de fogo, o que também não foi encontrado pelos policiais. Em revista no automóvel, especificamente no porta-malas, os policiais lograram êxito em encontrar uma caixa aberta contendo 36 tijolos de maconha e outra porção da mesma droga. Questionado, Yuri afirmou que realizava o tráfico de drogas e que aqueles entorpecentes tinham como destino o litoral.
+ ..
+Sopesados os elementos norteadores do artigo 42 da Lei nº 11.343/06, o i. magistrado sentenciante optou por fixar a pena-base no mínimo legal. No entanto, como bem apontado pelo Ministério Público, a quantidade de drogas apreendida com o réu extrapola o "normal" para o tipo criminoso, indicando dolo intenso à espécie e significativa culpabilidade do agente. Imperioso lembrar que o réu transportava mais de 28Kg de maconha, capazes de atingir diversas pessoas e, com isso, causar enorme prejuízo à saúde pública.
+De mais a mais, o apelante ainda estava cumprindo a pena imposta na condenação anterior por tráfico de drogas, tendo obtido a progressão ao regime aberto em 25/11/2021 para, menos de 10 meses depois, ver-se, novamente, envolvido com o comércio nefasto (fls. 203), a evidenciar seu total desajuste social e total sensação de impunidade.
+Desta feita, respeitado o entendimento do i. magistrado, entendo necessária a exasperação da pena-base na fração de 1/4, perfazendo 6 anos e 3 meses de reclusão e 625 dias-multa.
+Em razão da reincidência específica do réu, evidenciada às fls.52/53, mantém-se o aumento da pena na 1/3 estipulado na origem, tornando-a pena, pela inexistência de outras circunstâncias modificadoras, em 8 anos e 4 meses de reclusão e 833 dias-multa, estes no valor mínimo legal.
+Não se cogita em reconhecimento da atenuante da confissão espontânea pois, ao contrário do que argumenta a defesa, não houve admissão de culpa pelo sentenciado, tanto em solo policial (onde ele permaneceu calado) como em juízo, oportunidade na qual afirmou desconhecer o conteúdo do objeto por ele transportado, apenas suspeitando tratar-se de algo ilícito.
+ ..
+Ressalto que o presente writ foi impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo já transitado em julgado. Diante dessa situação, não deve ser conhecido, porquanto manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+Consoante o artigo 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados".
+Nesse sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO SUBSTITUTIVO DE REVISÃO CRIMINAL. INEXISTÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. FUNDAMENTO SUBSIDIÁRIO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. TEMA NÃO ANALISADO NA ORIGEM. INDEVIDA SUPRESSÃO DE INSTÂNCIA.
+Agravo regimental improvido.
+(AgRg no HC 561.185/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 10/03/2020, DJe 16/03/2020)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O NARCOTRÁFICO. DOSIMETRIA DE PENA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. QUANTUM DE AUMENTO. DISCRICIONARIEDADE DO JULGADOR. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. CONDENAÇÃO PELO ART. 35 DA LEI DE DROGAS. SENTENÇA TRANSITADA EM JULGADO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE NA APLICAÇÃO DA REPRIMENDA. HIPÓTESE DE NÃO CONHECIMENTO DO MANDAMUS. MANUTENÇÃO DA DECISÃO POR SEUS PRÓPRIOS FUNDAMENTOS.AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. Tratando-se de impetração que se destina a atacar acórdão proferido em sede de apelação criminal, já transitado em julgado, contra o qual seria cabível a interposição de revisão criminal, depara-se com flagrante utilização inadequada da via eleita, circunstância que impede o seu conhecimento.
+ ..
+6. Agravo regimental improvido.
+(AgRg no HC 486.185/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 23/04/2019, DJe 07/05/2019)
+ ..
+Tendo em vista a possibilidade de concessão da ordem de ofício, em atenção ao disposto no parágrafo 2º do artigo 654 do Código de Processo Penal, pontuo que a partir da prova produzida sob o crivo da ampla de defesa e do contraditório, a moldura fática da instância originária indica que a busca veicular observou os limites do artigo 244 do Código de Processo Penal.
+No que toca a confissão espontânea, não deve ser reconhecida, porquanto restou consignado no acórdão impugnado que o paciente se calou tanto em solo policial, como ao ser interrogado em juízo.
+Nesse contexto, para que a pretensão deduzida na presente impetração pudesse ser acolhida, seria imprescindível o revolvimento de todo o conjunto fático-probatório, cujo rito do habeas corpus e a jurisprudência do Superior Tribunal de Justiça não admitem.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FLAGRANTE PREPARADO AFASTADO. INCURSÃO EM MATÉRIA FÁTICO-PROBARÓRIA. INVIABILIDADE NA VIA ELEITA. BUSCA PESSOAL LEGÍTIMA. ATUAÇÃO POLICIAL. AUSÊNCIA DE ILEGALIDADE . AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. A análise da existência de flagrante preparado ou esperado demanda análise fático-probatória, sendo, portanto inadmissível na via eleita, devendo a questão ser analisada pelo juízo competente para a instrução e julgamento da causa, após a instrução processual. (RHC 83.199/BA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/9/2017, DJe 25/9/2017).
+ ..
+5. Não restou vislumbrada nenhuma ilegalidade na atuação dos policiais, amparados que estão pelo Código de Processo Penal para abordar quem quer que esteja atuando de modo suspeito ou furtivo. Ressalte-se que, na hipótese, não foi realizada busca pessoal, pois o documento falsificado já havia sido apresentado e se encontrava na mesa do escrevente do tabelionato.
+ ..
+7. A estreita via eleita não se presta para incursão em aspectos do processo que demandem dilação probatória, valoração do conjunto de provas produzidas e/ou incursão no mérito da causa, sob pena de afronta ao princípio do devido processo legal.
+8. Agravo regimental desprovido.
+(AgRg no HC n. 863.551/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE TRÁFICO DE DROGAS. NULIDADE. BUSCA PESSOAL. INOCORRÊNCIA. FUNDADA SUSPEITA DEMONSTRADA. LEGALIDADE DA MEDIDA. INVIABILIDADE DO REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Como é de conhecimento, para a realização de busca pessoal, nos termos do art. 244, do Código de Processo Penal, exige-se a presença de fundada suspeita de que a pessoa abordada esteja na posse de arma proibida ou de objetos ou papeis que constituam corpo de delito, ou, ainda, quando a medida for determinada no curso de busca domiciliar.
+2. Nos moldes delimitados pelas instâncias ordinárias, soberanas na análise do acervo fático-probatório, a forma como o recorrente tentou empreender fuga ao perceber a fiscalização de trânsito, aliada à percepção de que o passageiro do veículo dispensou pedras de crack no chão, é elemento que funda a suspeita concreta da posse de corpo de delito ou de instrumentos do crime.
+3. Ademais, Verificada justa causa para a realização da abordagem policial, tomando-se como base o quadro fático delineado pelas instâncias antecedentes, alcançar conclusão em sentido diverso demandaria o reexame do conjunto fático-probatório, incabível na via do habeas corpus (HC 230232 AgR, Relator(a): ANDRÉ MENDONÇA, Segunda Turma, julgado em 02-10-2023, PROCESSO ELETRÔNICO DJe-s/n, DIVULG 06-10-2023, PUBLIC 09-10-2023). No caso dos autos, desconstituir a premissa fática da situação de fundada suspeita não prescinde do revolvimento fático-probatório dos autos, providência vedada em sede de recurso especial, a teor da Súmula 7/STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 2.434.261/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024.)
+Assim, não verifico no acórdão impugnado nenhuma teratologia ou coação ilegal que autorize a concessão da ordem nos termos do § 2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Dê-se ciência ao Ministério Público Federal.
+EMENTA
