@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por RUDI HOFFMANN em face da decisão acostada às fls. 293-297 e-STJ, que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pelo ora agravante.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 89-98 e-STJ, proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, assim ementado:
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE. TEMA DEFINIDO NO IAC N. 01. NÃO PREENCHIMENTO DOS REQUISITOS. EXTINÇÃO DA PRETENSÃO, INCONFIGURADA. RECURSO IMPROVIDO.
+I- Pretende, o recorrente, impugnar a decisão que negou provimento ao agravo de instrumento, que seja reconhecida a prescrição intercorrente, ao argumento de ser desnecessária a intimação do exequente para dar prosseguimento à demanda, além de ter tido ele oportunidade de exercer o contraditório.
+II- Conforme definido no IAC 01, processado no Resp n. REsp 1604412/SC, é necessário, para a ocorrência da prescrição intercorrente em execuções em curso desde a vigência do CPC de 1973, que haja suspensão do processo; exaurimento do prazo de paralisação da demanda, estabelecido judicialmente, ou, na falta dele, o transcurso de 1 (um) ano; inércia do exequente por prazo superior ao de prescrição do direito material vindicado e, por fim, prévia intimação da parte para que se manifeste sobre possíveis obstáculos à fluição do lapso prescritivo, em homenagem ao contraditório substancial.
+III- In casu, nem houve suspensão do processo por força da não localização de bens passíveis de penhora, nem se pode falar, também, de inércia por parte do exequente entre 2008 a 2013, porque o processo ficou, nesse interstício, aguardando impulso oficial, não podendo, as falhas do mecanismo da justiça ser imputadas às partes, conforme enunciado n. 106 da Súmula do STJ. Ainda, faltou, para que se possa falar em prescrição intercorrente, a intimação do autor da execução, não para dar andamento ao processo sob pena de deflagração do prazo prescritivo, mas para se manifestar, oportunizando-lhe opor fato impeditivo à configuração do fenômeno extintivo pelo decurso do tempo, em observância ao contraditório substancial. Assim, não se perfectibilizou a prescrição intercorrente.
+IV- AGRAVO INTERNO IMPROVIDO.
+Opostos embargos declaratórios (fls. 111-121 e-STJ), restaram desacolhidos na origem (fls. 136-145 e-STJ).
+Novos aclaratórios (fls. 150-153 e-STJ), também rejeitados (fls. 167-175 e-STJ).
+Nas razões de recurso especial (fls. 191-220 e-STJ), alegou o insurgente que o acórdão recorrido violou os seguintes dispositivos de lei federal: (i) artigos 489 e 1.022 do CPC/15, porquanto não sanados os vícios apontados nos aclaratórios; (ii) artigos 947, § 3º e 487, inc. II, do CPC/15, bem como dissídio jurisprudencial, aduzindo a necessidade de reconhecimento da prescrição intercorrente, nos termos do IAC n. 1/STJ.
+Contrarrazões às fls. 865-709 e-STJ.
+Em juízo prévio de admissibilidade (fls. 293-297 e-STJ), a Corte de origem inadmitiu o apelo nobre, ensejando a interposição do presente agravo (art. 1.042 do CPC/15), às fls. 300-309 e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Sem contraminuta.
+É o relatório.
+Decide-se.
+A pretensão recursal não merece prosperar.
+1. Conforme se extrai do acórdão proferido pela Corte de origem, a prescrição intercorrente foi afastada, dentre outros fundamentos, pelo seguinte:
+Vejamos, então, no fluxo processual, o que ocorreu com a demanda executiva na origem.
+ ..
+Aplicando o entendimento firmado no precedente vinculante gestado no julgamento do IAC n. 01, pode constatar que, nem houve suspensão do processo por força da não localização de bens passíveis de penhora, nem se pode falar, também, de inércia por parte do exequente entre 2008 a 2013, porque o processo ficou, nesse interstício, aguardando impulso oficial, não podendo, as falhas do mecanismo da justiça ser imputadas às partes, conforme enunciado n. 106 da Súmula do STJ. Ainda, faltou, para que se possa falar em prescrição intercorrente, a intimação do autor da execução, não para dar andamento ao processo sob pena de deflagração do prazo prescritivo, mas para se manifestar, oportunizando-lhe opor fato impeditivo à configuração do fenômeno extintivo pelo decurso do tempo, em observância, conforme dito na decisão vergastada, ao contraditório substancial.
+Assim, conclui-se que, no caso concreto, não se perfectibilizou o fenômeno da prescrição intercorrente.
+Os fundamentos acima destacados não foram infirmados, de forma específica, pelo recurso especial - o que atrai a incidência da Súmula 283/STF.
+1.1. O óbice aplica-se, igualmente, à preliminar de negativa de prestação jurisdicional.
+Isso porque, o reconhecimento desta pressupõe, nos termos da jurisprudência desta Corte, o preenchimento dos seguintes requisitos: (a) que a questão tenha sido levantada oportunamente ou, ainda, trate de matéria de ordem pública, que possa conhecida a qualquer tempo pelas instâncias ordinárias; (b) a oposição de aclaratórios apontando, em específico, a omissão, contradição, obscuridade ou erro material; (c) a relevância da tese supostamente omitida, ou seja, que sua análise possa modificar a conclusão do julgamento; e (d) a inexistência de fundamento autônomo suficiente para manter o acórdão.
+Nesse sentido: EDcl no AgInt no AREsp 1207830/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/11/2018, DJe 16/11/2018; AgInt no AREsp 1294687/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/09/2018, DJe 18/09/2018; EDcl no AgInt no REsp 1659455/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 07/08/2018, DJe 14/08/2018; AgInt no REsp 1497035/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/08/2017, DJe 29/08/2017; EDcl no REsp 1593380/CE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/11/2016, DJe 24/11/2016.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não conhecer do recurso especial.
+Incabível a majoração de honorários (artigo 85, § 11, do CPC/15), pois inexistente condenação desde a origem no presente feito recursal.
+Publique-se.
+Intimem-se.
+EMENTA
