@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial do ESTADO DE RONDÔNIA no qual se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA assim ementado (fls. 392/401):
+MANDADO DE SEGURANÇA. PRECATÓRIO. ANTECIPAÇÃO DE PAGAMENTO. CRÉDITO HUMANITÁRIO. PESSOA PORTADORA DE DOENÇA GRAVE. INCLUSÃO EM LISTA PREFERENCIAL. POSSIBILIDADE. AUSÊNCIA DE PRETERIÇÃO DE CRÉDITOS ALIMENTÍCIOS. SEGURANÇA CONCEDIDA.
+1. Resguardada a preferência absoluta dos créditos de natureza alimentar, a inclusão de crédito de natureza humanitária (credor idoso ou portador de grave moléstia) em listagem preferencial de pagamento traduz-se em meio de efetivação dos princípios constitucionais da dignidade da pessoa humana e da proteção aos idosos.
+2. Estando devidamente comprovado nos autos que a impetrante é portadora de moléstia profissional, doença grave prevista no rol do artigo 13 da Resolução nº 115/2010 do CNJ, deve ser concedido o pagamento humanitário de seu precatório.
+3. Segurança concedida.
+Os embargos de declaração opostos foram improvidos (fls. 454/461).
+Em suas razões recursais, a parte recorrente alega violação do art. 11 da Resolução 303/2019 do CNJ (Conselho Nacional de Justiça), do art. 6º, XIV, da Lei 7.713/1988, do art. 20 da Lei 8.213/1991 e do art. 1º da Lei 12.016/2009, argumentando, em síntese, que a parte recorrida não faz jus à preferência na percepção de precatório, uma vez que não demonstrou estar acometida de doença grave, bem como não fez prova de ter a enfermidade relação com sua atividade profissional.
+A parte adversa apresentou contrarrazões (fls. 508/513 ).
+É o relatório.
+Quanto à alegada violação do art. 11 da Resolução 303/2019 do CNJ, registro que, consoante pacífica jurisprudência desta Corte Superior, o conceito de tratado ou lei federal, inserto no art. 105, inciso III, alínea a, da Constituição Federal, deve ser considerado em seu sentido estrito, sendo inadmissível o recurso especial que aponte como violado o ato normativo em questão.
+A propósito, confiram-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. FILHA DE MILITAR. REINCLUSÃO EM FUNDO DE SAÚDE DA AERONÁUTICA. REVISÃO DAS CONCLUSÕES DO TRIBUNAL A QUO. NECESSIDADE DE INTERPRETAÇÃO DE NORMAS INFRALEGAIS. IMPOSSIBILIDADE. PRECEDENTES.
+ ..
+III - Conforme entende a jurisprudência do Superior Tribunal de Justiça, o conceito de tratado ou lei federal, previsto no art. 105, inciso III, a, da Constituição da República, deve ser considerado em seu sentido estrito, não compreendendo súmulas, atos administrativos normativos e instruções normativas.
+ ..
+V - Agravo interno improvido. (AgInt no REsp n. 1.865.474/CE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 8/2/2021, DJe de 12/2/2021 - sem destaques no original.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. INSTRUÇÃO NORMATIVA. ANÁLISE. INVIABILIDADE. IMPOSTO DE RENDA RETIDO NA FONTE (IRRF). NEGOCIAÇÃO DE ORTN"S ANTES DO VENCIMENTO. DISCIPLINA DE INCIDÊNCIA. INAPLICABILIDADE.
+ ..
+3. A via excepcional não se presta para análise de ofensa a resolução, portaria, regimento interno ou instrução normativa, atos administrativos que não se enquadram no conceito de lei federal.
+ ..
+6. Recurso especial conhecido em parte e, nessa extensão, provido, a fim de restabelecer os efeitos da sentença. (REsp n. 1.404.038/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/6/2020, DJe de 29/6/2020 - sem destaques no original.)
+No mérito recursal, a Corte de origem assim se manifestou sobre a antecipação de pagamento humanitário do precatório:
+In casu, a autora Maureanny Rodrigues de Brito, inclusa na fila de credores para recebimento de precatório, requereu ao Exmo. Presidente deste Tribunal a antecipação de pagamento humanitário, em razão de ter sido diagnosticada com enfermidade profissional comprovada suficientemente por laudos e outros documentos médicos.
+ ..
+Com a devida vênia aos argumentos da autoridade impetrada, entendo que o pleito da impetrante merece prosperar, pois os laudos médicos apresentados registram claramente a seguinte indicação: ""Maureanny Rodrigues de Brito apresenta Dorso Lombalgia Crônica, Tendinopatia dos Ombros Bilateral, Epicondilite Lateral dos Cotovelos Bilateral, Fascite Plantar Bilateral. Moléstias profissionais decorrentes dos esforços de repetição: escrever, digitar, permanecer longos períodos sentada. As patologias são graves, com prognóstico reservado com relação a reversibilidade do caso. - CID 10:M54.5, M51.9, M75.1, M75.5, M77.1 e M72.2" (ID 7830841 - p.11)
+Além disso, o laudo médico encontra-se respaldado por exame de ressonância magnética corroborando as enfermidades apontadas. (ID 7830841-p. 8-10).
+Ressalto que a orientação contida nos artigos 11 e art. 13, alínea "K", e seu Parágrafo único, da Resolução n. 115 do CNJ, considera como DOENÇA GRAVE as moléstias profissionais, devidamente comprovadas por laudo médico:
+ ..
+Convém destacar - como anotado pelo procurador de justiça - que o médico que atendeu a impetrante é especialista em ortopedia e traumatologia, portanto, com habilidade bastante para diagnosticar a enfermidade que a acomete e sua relação com o esforço diário despendido por ela no exercício de sua atividade, não havendo necessidade de laudo altamente elaborado para atestar a condição óbvia de sua paciente.
+Nesse passo, não verifico evidência alguma de vício capaz de invalidar os documentos médicos e laudo apresentados, bem como diante dos demais elementos trazidos nos autos, impõe-se o reconhecimento do direito líquido e certo da impetrante em obter antecipação de pagamento humanitário do seu precatório (fls. 397/399).
+Nesse contexto, verifico que, ao conceder o direito pleiteado pela recorrida, o Tribunal de origem decidiu com base nos elementos fático-probatórios carreados aos autos e com fundamento na Resolução 115/CNJ, de forma que, desconstituir tais premissas, implicaria, necessariamente, o reexame de fatos e provas, bem como de análise de resolução, o que é inviável na via especial, respectivamente, pelo óbice da Súmula 7 do Superior Tribunal de Justiça (STJ) e pela inviabilidade de análise de atos normativos que não se enquadrem no conceito de tratado ou lei federal, previstos no art. 105, III, a, da CF.
+Nesse sentido, cito o seguinte julgado deste Tribunal:
+PROCESSUAL CIVIL. PRECATÓRIO HUMANITÁRIO. REQUISITOS. REVISÃO DE FATOS E PROVAS. SÚMULA Nº 7/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA DE DEMONSTRAÇÃO DE CONTRARIEDADE À LEI FEDERAL. INADEQUAÇÃO DA VIA ELEITA. SÚMULA Nº 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ.
+1. A finalidade do recurso especial é a manutenção da autoridade e unidade da lei federal. Ou seja, não se encaixa, no âmbito do recurso especial, o exame tanto de questão de fato, quanto de direito local, menos ainda para análise de matéria constitucional, ou de resoluções ou portarias.
+2. Cediço é que se "o julgado local, apreciando o poder de convicção  da prova , conclua (bem ou mal) sobre estar provado, ou não, um fato, aí não se tem ofensa ao direito federal: pode ocorrer ofensa (se mal jugada a causa) ao direito da parte" (cf. RE 84699, Rel. p/ Acórdão RODRIGUES ALCKMIN, Primeira Turma, DJ 03/06/1977, pp 3645).
+3. Esta Corte Superior não pode ser transformada em terceira instância recursal, para que se faça a melhor Justiça do caso, tanto em razão do que expressamente prevê a Constituição Federal como competência deste Superior Tribunal de Justiça (cf. AgInt nos EAREsp 702.591/DF, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, DJe 04/11/2016), como em razão de que, em assim agindo, pouca seria a contribuição para a efetiva Justiça, máxime no tocante à duração razoável do processo, adverte Araken de Assis (in Manual dos recursos  livro eletrônico . 10. ed. São Paulo: Revista dos Tribunais, 2021).
+4. Agravo interno não provido. (AgInt nos EDcl no AREsp n. 2.205.298/RO, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 12/6/2023, DJe de 15/6/2023.)
+Ante o exposto, conheço do agravo para não conhecer d o recurso especial.
+Publique-se. Intimações necessárias.
+ EMENTA
