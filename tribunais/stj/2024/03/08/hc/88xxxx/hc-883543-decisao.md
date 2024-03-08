@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Marcelo Augusto Ramos Pereira, em que se aponta como autoridade coatora o Primeiro Grupo Criminal do Tribunal de Justiça de São Paulo nos autos da Revisão Criminal n. 2290454-08.2023.8.26.0000.
+Consta dos autos (Processo Digital n. 1510106-78.2019.8.26.0228) que o paciente foi condenado, pelo Juízo da 2ª Vara Criminal do Foro Central Criminal Barra Funda da comarca da Capital/SP, como incurso no art. 33, caput, c/c o art. 40, III, da Lei n. 11.343/2006, à pena de 5 anos e 10 meses de reclusão, em regime fechado, e 500 dias-multa, em face da apreensão de 2.932 g de maconha (fls. 55/58).
+Em sede de apelação (Apelação Criminal n. 1510106-78.2019.8.26.02280), ambas as partes apelaram. A acusação requereu a elevação da pena-base na fração de 1/2, enquanto a defesa pediu o reconhecimento do art. 33, § 4º, da Lei de Drogas, e a substituição da pena privativa de liberdade por restritivas de direitos. A Quinta Câmara Criminal do Tribunal de Justiça de São Paulo negou provimento a ambos os recursos (fls. 59/63).
+Em sede de revisão criminal, a defesa alegou ser devida a aplicação da causa de diminuição da pena, prevista no art. 33, § 4º, da Lei de Drogas. Sustentou ser o paciente primário, sem antecedentes e que a quantidade de drogas não se mostra excessiva. O Primeiro Grupo Criminal do Tribunal de Justiça de São Paulo indeferiu o pedido (fls. 24/32). O julgado recebeu ementa no seguinte teor (fl. 25):
+REVISÃO CRIMINAL - TRÁFICO DE ENTORPECENTES - Critérios dosimétricos - Pena-base imposta no mínimo legal - Redutora especial inaplicável - Ausência de bis in idem - Modificação jurisprudencial que não justifica o emprego da ação revisional - Precedentes do E. STJ - Revisão criminal julgada improcedente.
+No presente writ, a defesa aponta ilegalidade na dosimetria por entender que a pena-base foi elevada de forma excessiva e não ter sido reconhecido o art. 33, § 4º, da Lei n. 11.343/2006. Requer, também, o abrandamento do regime de cumprimento da pena e a substituição da pena reclusiva por restritivas de direitos (fls. 3/23).
+Decisão da Presidência indeferindo o pedido de liminar (fls. 275/276).
+Parecer ministerial opinando pelo não conhecimento do habeas corpus (fls. 281/284).
+É o relatório.
+Verifica-se dos autos que o processo transitou em julgado e está em fase de execução da sentença condenatória. Esta Corte deve intervir na dosimetria da pena somente quando flagrante alguma ilegalidade para o paciente, não sendo possível interferir no livre convencimento do julgador, que fixou a pena devidamente fundamentada, com base nas provas dos autos, na instância ordinária.
+Na hipótese, a pena foi fixada com bastante razoabilidade. A elevação feita, na primeira fase, foi em razão do art. 42 da Lei de Drogas, uma vez que se mostra, de fato, excessiva, 2.932 g de maconha. No entanto, na segunda fase, com o reconhecimento da atenuante de menoridade relativa, a pena retornou ao piso mínimo de 5 anos de reclusão e 500 dias-multa.
+Na terceira fase, foi reconhecido o art. 40, III, da Lei de Drogas, que elevou a pena na fração de 1/6, o que se mostrou razoável, por ter o delito sido praticado em um transporte público. Na sentença, o Magistrado afastou o privilégio, por entender que o paciente está envolvido com o tráfico e com organização criminosa (fl. 62).
+No entanto, quanto ao regime prisional, entendo que razão assiste à defesa, por ter a pena sido fixada em patamar abaixo de 8 anos de reclusão.
+Ante o exposto, concedo parcialmente a ordem de habeas corpus, somente para fixar o regime semiaberto.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. REVISÃO CRIMINAL. TRÁFICO DE DROGAS. 2.932 G DE MACONHA. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE DEVIDAMENTE FUNDAMENTADA. QUANTIDADE DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. DEDICAÇÃO AO TRÁFICO. ELEVAÇÃO DA PENA NA TERCEIRA FASE POR TER O CRIME OCORRIDO EM TRANSPORTE PÚBLICO. POSSIBILIDADE DE ABRANDAMENTO DO REGIME PARA O SEMIABERTO.
+Ordem parcialmente concedida nos termos do dispositivo.
