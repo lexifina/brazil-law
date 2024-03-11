@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 11/03/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Teodoro Silva Santos e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. ABSOLVIÇÃO. NULIDADE. RECONHECIMENTO PESSOAL TIDO POR ILEGAL. VÍTIMA QUE FOI CAPAZ DE INDIVIDUALIZAR O ACUSADO. CONTEXTO QUE DEMONSTRA O ITER CRIMINIS. ALEGAÇÃO DE OMISSÃO. PRETENSÃO DE REDISCUTIR O MÉRITO DA DECISÃO QUE ENTENDEU PELA INSUFICIÊNCIA DOS REQUISITOS RECURSAIS (SÚMULA 182/STJ). DESNECESSIDADE DE MANIFESTAÇÃO SOBRE CADA FUNDAMENTO, QUANDO EXISTENTE ARGUMENTO SUFICIENTE PARA A MANUTENÇÃO DA DECISÃO ATACADA. REJEIÇÃO QUE SE IMPÕE.
+Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por Jonathan Jefferson Evangelista Souto ao acórdão de minha lavra, em que a Sexta Turma deste Superior Tribunal, por maioria, não conheceu do agravo regimental, mantendo o indeferimento liminar do writ impetrado em seu benefício, assim ementado (fl. 719):
+AGRAVO REGIMENTAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. ABSOLVIÇÃO. NULIDADE. RECONHECIMENTO PESSOAL TIDO POR ILEGAL. VÍTIMA QUE FOI CAPAZ DE INDIVIDUALIZAR O ACUSADO. CONTEXTO QUE DEMONSTRA O ITER CRIMINIS. REITERAÇÃO DOS FUNDAMENTOS DA IMPETRAÇÃO. AUSÊNCIA DE ARGUMENTOS CAPAZES DE INFIRMAR TAL FUNDAMENTAÇÃO. SÚMULA 182/STJ. INCIDÊNCIA. CONHECIMENTO. IMPOSSIBILIDADE.
+Agravo regimental não conhecido.
+Sustenta o embargante que a decisão foi equivocada e contraditória, pois, o recorrente enfrentou de forma fundamentada cada argumento do agravo regimental, inclusive, dispensabilidade do procedimento processual previsto no artigo 226 do CP (fl. 730).
+Acrescenta que à dispensabilidade do procedimento processual previsto no artigo 226 do CPP, o recorrente, enfrentou tal matéria nas razões do agravo regimental na pagina 08 a 10 no tópico "3) da alegação de quando a vítima é capaz de individualizar o autor do fator, não há falar em nulidade da condenação por infringência ao art. 226 do código de processo penal" (fl. 730).
+Por fim, reitera os termos da impetração e requer que seja sanado todas as omissões e contradições com o recebimento do presente embargos de declaração com efeitos infringentes, para que seja dado seguimento ao writ e ao final requer que seja concedida a ordem de habeas corpus para que seja reestabelecida a sentença absolutória proferida pelo juízo de primeira instância ou subsidiariamente, a aplicação correta da pena, já que foi aplicada de forma desproporcional e exacerbada, contrario aos precedentes desta corte superior. Caso este Superior Tribunal entenda por não acolher os embargos de declaração mantendo a decisão de não conhecer da impetração/ agravo, requer que seja que seja CONCEDIDA A ORDEM DE HABEAS CORPUS DE OFÍCIO diante da flagrante ilegalidade, tendo em vista que qualquer tribunal ou instância pode reconhecer e cessar o constrangimento ilegal (fl. 743).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. ABSOLVIÇÃO. NULIDADE. RECONHECIMENTO PESSOAL TIDO POR ILEGAL. VÍTIMA QUE FOI CAPAZ DE INDIVIDUALIZAR O ACUSADO. CONTEXTO QUE DEMONSTRA O ITER CRIMINIS. ALEGAÇÃO DE OMISSÃO. PRETENSÃO DE REDISCUTIR O MÉRITO DA DECISÃO QUE ENTENDEU PELA INSUFICIÊNCIA DOS REQUISITOS RECURSAIS (SÚMULA 182/STJ). DESNECESSIDADE DE MANIFESTAÇÃO SOBRE CADA FUNDAMENTO, QUANDO EXISTENTE ARGUMENTO SUFICIENTE PARA A MANUTENÇÃO DA DECISÃO ATACADA. REJEIÇÃO QUE SE IMPÕE.
+Embargos de declaração rejeitados.
+VOTO
+Os presentes embargos de declaração não comportam acolhimento.
+Primeiro, porque é nítida a intenção do embargante em rediscutir os fundamentos do acórdão que entendeu pela insuficiência dos requisitos recursais, na medida em que deixou de refutar o fundamento basilar do indeferimento da inicial, consistente no fato de que, quando a vítima é capaz de individualizar o acusado, este Tribunal entende pela dispensabilidade do procedimento previsto no art. 226, do Código de Processo Penal.
+Depois, porque extrai-se dos autos que o apelado, em evidente ato falho, disse não saber como a vítima pode tê-lo reconhecido, se estava a bordo de uma motocicleta, usando capacete (!!). Ora pois! (fl. 650).
+E, por fim, porque não é necessária a manifestação sobre cada fundamento indicado pelo Tribunal para a imposição da segregação provisória quando a decisão se sustenta em argumento suficiente para a manutenção da decisão hostilizada.
+Em face do exposto, rejeito os embargos de declaração.
