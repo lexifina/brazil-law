@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o Juízo Federal da 1ª Vara Cível e Criminal de Rondonópolis - SJ/MT (suscitante) e o Juízo da 2ª Vara do Trabalho de Rondonópolis - MG, nos autos de ação trabalhista proposta por Kerly Grellmann em face de Fu ndação Universidade Federal de Mato Grosso, objetivando o "reconhecimento de vínculo empregatício e nulidade do contrato de estágio" (fl. 37).
+O TRT da 23ª Região manteve a sentença, a qual reconheceu a incompetência da Justiça do Trabalho para processar e julgar o feito ao fundamento de que a controvérsia relativa ao reconhecimento de vínculo empregatício com ente da Administração Pública, decorrente da declaração de nulidade de contrato de estágio, submete-se à competência da Justiça Comum (fl. 23-28).
+O Juízo Federal da 1ª Vara Cível e Criminal de Rondonópolis - SJ/MT suscita o presente conflito ao argumento de que, no caso, não se discute, ao fim e ao cabo, qualquer vínculo estatutário propriamente dito, ainda que o serviço tenha sido prestado a ente público (fls. 8-14).
+É o relatório. Passo a decidir.
+Conheço do conflito, pois apresenta controvérsia acerca da competência entre juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, I, d, da Constituição Federal.
+Cinge-se a questão dos autos em definir a compete processar e julgar ação proposta pela autora em face de Fundação Universidade Federal de Mato Grosso, objetivando o "reconhecimento de vínculo empregatício e nulidade do contrato de estágio" (fl. 37).
+Diga-se que a jurisprudência desta Corte Superior é pacífica no sentido de que, em regra, o deslinde dos conflitos de competência entre Juízos em razão da matéria deve ser dirimido com a observância da relação jurídica controvertida, notadamente no que se refere à causa de pedir e ao pedido indicados pelo autor da demanda. Nesse sentido: AgInt no CC n. 180.716/RS, relator Ministro Herman Benjamin, Primeira Seção, julgado em 15/2/2022, DJe de 15/3/2022; CC n. 199.890/MG, relator Ministro Marco Buzzi, Segunda Seção, julgado em 22/11/2023, DJe de 27/11/2023. Esse último julgado está assim ementado:
+CONFLITO DE COMPETÊNCIA - DEMANDA REPARATÓRIA DE DANOS MORAIS AFORADA PELO EMPREGADOR EM FACE DE SINDICATO - PEDIDO E CAUSA DE PEDIR - NATUREZA CÍVEL DA DEMANDA - COMPETÊNCIA DA JUSTIÇA COMUM FEDERAL.
+1. O Superior Tribunal de Justiça é competente para o conhecimento e processamento do presente incidente, pois apresenta controvérsia acerca do exercício da jurisdição entre juízos vinculados a Tribunais diversos, nos termos do artigo 105, I, "d", da Constituição Federal.
+2. A competência para o julgamento da causa se define em função da natureza jurídica da questão controvertida, delimitada pelo pedido e sua causa de pedir. Precedentes.
+2.1. A discussão subjacente ao conflito consiste na declaração do juízo competente para o processar e julgar ação reparatória por danos morais aforada pelo empregador - empresa pública federal - em face de sindicato em razão de alegadas ofensas à imagem, realizadas na mídia, circunstância que atrai a competência da Justiça Comum Federal para exame da causa.
+3. Conflito conhecido para declarar a competência da 1ª Vara Federal de Pouso Alegre/MG.
+(CC n. 199.890/MG, relator Ministro Marco Buzzi, Segunda Seção, julgado em 22/11/2023, DJe de 27/11/2023.)
+No caso, cabe estabelecer que a autora defende, essencialmente, que "é nítido a irregularidade do "contrato de estágio1 impondo-se o reconhecimento do vínculo empregatício" (fl. 39, grifo no original).
+Assim sendo, em situações como esta, o Superior Tribunal de Justiça tem reiteradamente decidido no sentido de que a competência é da Justiça Comum para a análise da controvérsia, porquanto a relação baseada em contrato de estágio não cria vínculo trabalhista, o que afasta a competência da Justiça Especializada. A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO EM CONFLITO DE COMPETÊNCIA. AÇÃO OBJETIVANDO RECONHECIMENTO DE VÍNCULO EMPREGATÍCIO NO PERÍODO EM QUE ATUOU COMO ESTAGIÁRIA EM ÓRGÃO FEDERAL. ALEGADO DESVIO DE FUNÇÃO. COMPETÊNCIA DA JUSTIÇA FEDERAL PARA EXAME DA MATÉRIA. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. No caso dos autos, a parte autora requer o reconhecimento de vínculo com a EMBRAER sustentando desvio de finalidade do seu contrato de estágio, o que lhe garantiria a estabilidade no Serviço Público, nos termos do art. 19 do ADCT.
+2. É certo que a competência jurisdicional que envolve a relação de trabalhado entre Servidores Públicos e a Administração Pública depende da natureza do vínculo estabelecida entre as partes.
+3. Em situações como esta, o STJ tem afirmado a competência da Justiça Federal para a análise da controvérsia, uma vez que a relação baseada em contrato de estágio não cria vínculo trabalhista, o que afasta a competência da Justiça Especializada, cabendo à Justiça Federal processar e julgar a ação proposta.
+4. Agravo Interno do Particular a que se nega provimento.
+(AgInt no CC n. 135.786/DF, relator Ministro Napoleão Nunes Maia Filho, Primeira Seção, julgado em 28/8/2019, DJe de 6/9/2019.)
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA COMUM E JUSTIÇA DO TRABALHO. AÇÃO DE COBRANÇA. ESTÁGIO ESTUDANTIL. DEMANDA PROPOSTA COM BASE NO DIREITO COMUM, SEM INVOCAÇÃO DE VÍNCULO TRABALHISTA. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. A competência entre a Justiça Estadual e a Justiça do Trabalho é determinada por lei com base na natureza da relação jurídica litigiosa. Sua fixação, em cada caso, deve levar em conta a causa de pedir e o pedido efetivamente deduzidos na petição inicial.
+2. Na hipótese, o autor propôs ação de cobrança com base no direito comum, sem invocar vínculo trabalhista.
+3. Conflito conhecido para declarar a competência do Juízo de Direito da 6ª Vara Cível de Nova Iguaçu/RJ.
+(CC n. 40.437/RJ, relator Ministro Teori Albino Zavascki, Primeira Seção, julgado em 14/4/2004, DJ de 3/5/2004, p. 88.)
+Ante o exposto, conheço do conflito para declarar a competência Juízo Federal da 1ª Vara Cível e Criminal de Rondonópolis - SJ/MT (suscitante)
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO OBJETIVANDO RECONHECIMENTO DE VÍNCULO EMPREGATÍCIO NO PERÍODO EM QUE ATUOU COMO ESTAGIÁRIO EM ÓRGÃO FEDERAL. ALEGADO DESVIO DE FUNÇÃO. COMPETÊNCIA DA JUSTIÇA FEDERAL PARA EXAME DA MATÉRIA
