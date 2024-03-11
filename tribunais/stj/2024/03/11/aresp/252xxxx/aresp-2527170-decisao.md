@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto contra a decisão que inadmitiu o recurso especial com fundamento na Súmula n. 7/STJ (fls. 507-509).
+O agravante sustenta que "Questiona-se a impossibilidade de o Tribunal local manter uma condenação com base na palavra isolada do policial Presley Francisco da Silvas, a qual não encontra lastro nos demais elementos de prova juntados nos autos. Assim, não incide o óbice do verbete sumular em questão, porquanto, conforme entendimento jurisprudencial dominante desse colendo Superior Tribunal de Justiça "a revaloração da prova ou de dados explicitamente admitidos e delineados no decisório recorrido não implica o vedado reexame do material de conhecimento" (REsp 878.334/DF, Rel. Min. FELIX FISHER, QUINTA TURMA, julgado em 05/12/2006)" (fl. 517).
+A contraminuta foi apresentada às fls. 525-526.
+O Ministério Público Federal manifestou-se pelo não provimento do agravo.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passa-se, portanto, à análise do mérito.
+Quanto aos elementos de prova usados para a condenação do réu, extrai-se do acórdão impugnado (fls. 203- 212):
+Assim, conclui-se que, por meio das filmagens das câmeras de segurança, os policiais identificaram Marcos Vinícius Campos com a mesma roupa usada durante a prática do crime, em um imóvel abandonado, onde funcionava o antigo restaurante Giraffas da avenida T-63, situado no mesmo quarteirão do pet shop, na posse de parte dos bens subtraídos, quais sejam, 04 (quatro) medalhas de identificação, 01 (um) perfume e 01 (uma) solução higienizadora, conforme os termos de depoimentos extrajudiciais. Prosseguidas as diligências, encontraram o ora apelado nas proximidades do campo do Goiás E.C. e também o reconheceram pela vestimenta trajada no momento do furto. Assim, as testemunhas visualizaram, nas referidas imagens, os dois autores cometendo o furto.
+No caso dos autos, observa-se que a condenação não se pautou tão somente em depoimento do policial responsável pela prisão do réu, mas também teve como amparo imagens de câmeras de segurança, o que possibilitou aos policiais saírem em diligência em busca dos acusados, assim identificando-nos, sobretudo porque trajavam as mesmas vestimentas usadas durante a prática delitiva.
+Ademais, em inúmeras oportunidades, já se manifestou essa Corte de Justiça no sentido de que "o depoimento dos policiais prestado em Juízo constitui meio de prova idôneo a resultar na condenação do réu, notadamente quando ausente qualquer dúvida sobre a imparcialidade dos agentes, cabendo à defesa o ônus de demonstrar a imprestabilidade da prova, o que não ocorreu no presente caso. Precedentes." (AgRg no HC n. 889.362/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/2/2024, DJe de 1/3/2024.)
+Não havendo, portanto, qualquer prova no sentido da imparcialidade da testemunha policial, não há como prover o recurso.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
