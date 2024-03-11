@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto do acórdão proferido pelo Tribunal Regional Federal da 3ª Região assim ementado (fl. 430, e-STJ):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO. DECISÃO MONOCRÁTICA. AUSÊNCIA DE ILEGALIDADE OU ABUSO DE PODER. APOSENTADORIA POR TEMPO DE SERVIÇO. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA.
+1- O artigo 557 do Código de Processo Civil consagra a possibilidade de o recurso ser julgado pelo respectivo Relator.
+2- Segundo entendimento firmado nesta Corte, a decisão do Relator não deve ser alterada quando fundamentada e nela não se vislumbrar ilegalidade ou abuso de poder que resulte em dano irreparável ou de difícil reparação para a parte.
+3- A decisão agravada abordou todas as questões suscitadas e orientou-se pelo entendimento jurisprudencial dominante. Pretende o agravante, em sede de agravo, rediscutir argumentos já enfrentados pela decisão recorrida.
+4- Agravo desprovido. Decisão mantida.
+Os Embargos de Declaração foram rejeitados (fl. 469, e-STJ).
+Em juízo positivo de retratação, entendeu a Turma julgadora modificar o acórdão anterior, nestes termos (fls. 657-658, e-STJ):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. RETRATAÇÃO (ARTIGO N. 1.040, II, DO CPC). TEMA 810 DE REPERCUSSÃO GERAL. ÍNDICE DE CORREÇÃO MONETÁRIA. JUÍZO DE RETRATAÇÃO POSITIVO.
+- Em relação jurídica diversa da tributária (hipótese dos autos), a utilização dos juros incidentes à caderneta de poupança é constitucional, mas o índice oficial de remuneração básica a ela aplicado (Taxa Referencial - TR) é inconstitucional como critério de atualização monetária do débito (Tema n. 810 de Repercussão Geral).
+- Cabível a retratação para estabelecer critérios de atualização do débito.
+- Juízo de retratação positivo, nos termos do artigo 1.040, II, do CPC. Agravo regimental parcialmente provido.
+Novo juízo de retratação às fls. 684-688, e-STJ, tendo o Colegiado originário decidido manter inalterado o acórdão anterior, consoante a seguinte ementa:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. RECURSO REPETITIVO. ARTIGO N. 1.040, II, DO CPC. RECURSO ESPECIAL N. 1.727.069/SP (TEMA N. 955). REAFIRMAÇÃO DA DER. JUÍZO DE RETRATAÇÃO NEGATIVO.
+- O Superior Tribunal de Justiça, fixou como diretriz, em sede de recurso representativo de controvérsia (Tema n. 995), que "É possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir." - O acórdão recorrido está em consonância com o entendimento firmado em sede de recurso repetitivo pelo Superior Tribunal de Justiça no REsp 1.727.069/SP.
+- Preenchidos os requisitos para a concessão do benefício requerido na data do requerimento administrativo (DER), conforme pretensão autoral.
+- Juízo de retração negativo. Mantido o acórdão recorrido.
+Os agravantes, nas razões do Recurso Especial, alegam que ocorreu, além de divergência jurisprudencial, violação dos arts. 20, § 3º, e 130 do CPC/1973; 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009; e 122 da Lei 8.213/1991. Aduzem a necessidade de produção da prova pericial para comprovação da atividade especial. Defendem a possibilidade de reafirmação da Data de Entrada do Requerimento (DER). Sustentam o "enquadramento do tempo de serviço especial independente da profissão" (fl. 517, e-STJ). Requerem a majoração da verba honorária.
+Sem contrarrazões.
+Inadmitiu-se a irresignação (fls. 697-708, e-STJ), o que ensejou a interposição do Agravo das fls. 710-733, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 6.2.2024.
+O presente apelo não ultrapassa a barreira de admissibilidade.
+A decisão que inadmitiu o Recurso Especial apontou o seguinte óbice ao seu processamento (fls. 697-708, e-STJ):
+(..)
+Por outro lado, é firme a jurisprudência do Superior Tribunal de Justiça a dizer que não é adequado o recurso especial para revolver as conclusões firmadas pelas instâncias ordinárias no tocante à alegada natureza especial do trabalho desenvolvido pelo segurado, bem como para reapreciar as provas amealhadas ao processo relativas ao caráter permanente ou ocasional, habitual ou intermitente, da exposição do segurado a agentes nocivos à saúde ou à integridade física.
+A pretensão da parte recorrente, no ponto, destoa do entendimento jurisprudencial consolidado na Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+Nesse sentido:
+PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. EXPOSIÇÃO AO AGENTE NOCIVO RUÍDO NÃO COMPROVADA. ALTERAÇÃO DO ACÓRDÃO A QUO. SÚMULA 7/STJ. HONORÁRIOS. MAJORAÇÃO. SÚMULA 7.
+1. O Tribunal a quo, soberano na análise do conjunto probatório, entendeu pela ausência de comprovação de exposição à atividade insalubre. Dessa forma, modificar tal conclusão demandaria o reexame de fatos e provas, o que é vedado pela Súmula 7/STJ.
+2. A fixação da verba honorária pelo critério da equidade, na instância ordinária, é matéria de ordem fática insuscetível de reexame na via especial, ante o óbice da Súmula 7.
+Agravo interno improvido.
+(AgInt no AREsp 824.714/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 05/05/2016, DJe 12/05/2016)
+PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. EXPOSIÇÃO HABITUAL E PERMANENTE A AGENTES NOCIVOS. EXIGIDA SOMENTE A PARTIR DA EDIÇÃO DA LEI N. 9.032/95. SÚMULA 83/STJ. EXPOSIÇÃO EFETIVA AO AGENTE DANOSO. SÚMULA 7/STJ.
+1. O entendimento firmado pelo Tribunal de origem, no sentido de que a comprovação do exercício permanente (não ocasional, nem intermitente) somente passou a ser exigida a partir da Lei n. 9.032/95, que deu nova redação ao § 3º do art. 57 da Lei n. 8.213/91, não merece censura, pois em harmonia com a jurisprudência desta Corte, o que atrai a incidência, ao ponto, da Súmula 83 do STJ. 2. In casu, concluindo as instâncias de origem que o autor estava exposto de modo habitual e permanente a condições perigosas, conclusão contrária demandaria reexame do acervo fático-probatório dos autos, o que é inviável em sede de recurso especial, sob pena de afronta ao óbice contido na Súmula 7 do STJ. Agravo regimental improvido.
+(AgRg no AREsp 295.495/AL, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 15/04/2013)
+AGRAVO REGIMENTAL. PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE SERVIÇO. EXPOSIÇÃO AO AGENTE ELETRICIDADE. ENQUADRAMENTO NO DECRETO Nº 83.080/1979. AUSÊNCIA. IRRELEVÂNCIA. ROL EXEMPLIFICATIVO. COMPROVAÇÃO. SÚMULA Nº 7/STJ.
+1. É firme a jurisprudência desta Corte no sentido de que, constando nos autos a prova necessária a demonstrar o exercício de atividade sujeita a condições especiais, conforme a legislação vigente na data da prestação do trabalho, deve ser reconhecido o respectivo tempo de serviço, ainda que não inscrito em regulamento, posto que o rol de atividades nocivas descritas no Decreto nº 83.080/1979 é meramente exemplificativo. 2. No caso, muito embora a atividade de eletricista não estivesse expressamente mencionada no Anexo II do Decreto n.º 83.080/1979, tem-se que é pressuposto da aposentadoria especial não apenas o enquadramento da atividade, mas a efetiva exposição do trabalhador aos agentes nocivos à saúde, o que restou demonstrado nos autos. 3. Tendo a Corte de origem afirmado expressamente, que no desempenho de sua atividade, o autor estava submetido ao agente nocivo eletricidade, de modo habitual e permanente, verificar essa condição por este Superior Tribunal importaria reexame de fatos e provas, o que é vedado em sede de recurso especial, nos termos do enunciado sumular nº 7/STJ. 4. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.170.672/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, DJe 29.06.2012)
+(..)
+Os recorrentes, nas razões do Agravo de fls. 710-733, e-STJ, contudo, deixaram de atacar especificamente o óbice acima transcrito.
+Consigne-se que não basta a assertiva genérica de que "não se trata de discussão acerca de provas e fatos, mas sim, matéria de direito (..)" (fl. 720, e-STJ) para afastar a Súmula 7/STJ. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no Recurso Especial que pudesse justificar o afastamento do referido óbice processual.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. DECISÃO DA PRESIDÊNCIA DO STJ MANTIDA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ.
+1. Trata-se de Agravo Interno contra decisão monocrática proferida pela Presidência do Superior Tribunal de Justiça, que não conheceu do Agravo em Recurso Especial, ante o óbice da Súmula 182 desta Corte (fls. 442-444, e-STJ). A parte agravante, por outro lado, alega que todos os argumentos suscitados na decisão de inadmissibilidade do Recurso Especial foram devidamente combatidos no Agravo.
+2. A parte agravante, de fato, deixou de impugnar especificamente as teses sobre a dissociação entre as razões recursais e o acórdão então recorrido (Súmula 284/STF), a incidência das Súmulas 283/STF e 7/STJ (responsabilidade civil) e a ausência de similitude fática. Limitou-se a citar genericamente cada um desses temas, sem refutar os fundamentos do Tribunal de origem.
+3. O STJ possui orientação de que são insuficientes para considerar como impugnação aos fundamentos da decisão que inadmite o Recurso Especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial.
+4. É cediço que "o recurso com fundamento na Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório" (AgInt no AREsp 1.135.014/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 27.3.2020). Isso, no caso dos autos, indubitavelmente não ocorreu. Incide, assim, a Súmula 182 do STJ.
+5. Agravo Interno não provido.
+(AgInt no AREsp 2.009.427/CE, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 23/6/2022)
+A Corte Especial do STJ pacificou o entendimento acerca da necessidade de o recorrente, em Agravo em Recurso Especial, atacar especificamente todos os fundamentos constantes da decisão de inadmissibilidade do Recurso Especial, a qual não é formada por capítulos autônomos, mas por um único dispositivo, o que exige sua impugnação total (EAREsp 831.326/SP, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30.11.2018).
+Confira-se o teor da ementa do referido julgado:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+(..)
+5. Embargos de divergência não providos.
+(EAREsp 831.326/SP, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018)
+Desse modo, constitui ônus da parte agravante a impugnação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidem a Súmula 182/STJ e o art. 932, III, do CPC.
+Diante do exposto, não conheço do Agravo em Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
