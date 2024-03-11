@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 11/03/2024, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Teodoro Silva Santos e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. TRÁFICO DE DROGAS (149,2 G DE COCAÍNA; 280,1 G DE MACONHA; E 93 G DE CRACK). CONFISSÃO ESPONTÂNEA PARCIAL. NÃO INCIDÊNCIA. AGRAVADO QUE ASSUMIU A POSSE DO ENTORPECENTE PARA CONSUMO PRÓPRIO. SÚMULA 630/STJ. AFASTAMENTO DA ATENUAÇÃO QUE SE IMPÕE.
+1. Constou do acórdão mineiro que o acusado, não obstante ter assumido a propriedade da droga, negou a traficância, alegando que a droga apreendida seria para o seu consumo, não havendo se falar, portanto, em confissão (fl. 596).
+2. No caso concreto, tem-se a incidência da Súmula 630/STJ, que obsta a aplicação da referida atenuante.
+3. Nos termos da Súmula n. 630 desta Corte: "A incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes exige o reconhecimento da traficância pelo acusado, não bastando a mera admissão da posse ou propriedade para uso próprio".  ..  Como o paciente não confessou que estaria traficando drogas - mas, tão somente, que a substância entorpecente apreendida seria para consumo próprio -, não há que se falar na aplicação da atenuante. (AgRg no HC n. 833.244/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 2/10/2023).
+4. Agravo regimental provido para reconsiderar a decisão agravada a fim de afastar o reconhecimento da confissão espontânea, negando provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo Ministério Público Federal contra a decisão que deu parcial provimento ao recurso especial manejado por Carlos Alberto dos Santos (fls. 749/757):
+RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS (149,2 G DE COCAÍNA; 280,1 G DE MACONHA; E 93 G DE CRACK). VIOLAÇÃO DOS ARTS. 240, § 1º, E; 241; 648, VI E 157, TODOS DO CPP; E 65, III, DO CP. TESE DE NULIDADE. PROVAS ILÍCITAS. TEORIA DOS FRUTOS DA ÁRVORE ENVENENADA. INVASÃO DOMICILIAR. FUNDADAS RAZÕES. DILIGÊNCIAS PRELIMINARES. POLICIAIS QUE, MEDIANTE DENÚNCIA ANÔNIMA, FIZERAM PRÉVIA RONDA NO LOCAL E IDENTIFICARAM A NARCOTRAFICÂNCIA. JUSTA CAUSA DEMONSTRADA PELA CORTE DE ORIGEM. CONFISSÃO ESPONTÂNEA PARCIAL. ATENUAÇÃO OBRIGATÓRIA, AINDA QUE NÃO CONSIDERADA COMO SUPORTE DA CONDENAÇÃO. JURISPRUDÊNCIA DA QUINTA TURMA. RESP N. 1.972.098/SC, DJE 20/6/2022. PENAS PRIVATIVA DE LIBERDADE E PECUNIÁRIA REDIMENSIONADAS. PLEITO DE ABRANDAMENTO DO REGIME PRISIONAL. DESPROVIMENTO. PRESENÇA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. CONSTATADA A REINCIDÊNCIA DO RECORRENTE. FUNDAMENTOS CONCRETOS. APLICAÇÃO DO ART. 33, § 3º, DO CP.
+Recurso especial parcialmente provido nos termos do dispositivo.
+O agravante aponta que foi entendida pela decisão monocrática que a declaração por parte do recorrente no sentido de possuir a droga não para traficância, mas para uso próprio, como verdadeira confissão espontânea qualificada.  ..  Ocorre que o Tribunal de Justiça se manifestou no sentido de que o acusado, não obstante ter assumido a propriedade da droga, negou a traficância, alegando que a droga apreendida seria para o seu consumo, não havendo se falar, portanto, em confissão.  ..  Tal entendimento vai ao encontro da jurisprudência do STJ que é no sentido de que se a confissão do agente é no sentido de não admitir a traficância em nenhuma de suas formas, mas tão somente a crime diverso, qual seja, o de uso próprio, não há que se falar em confissão (fls. 764/765).
+Ao final da peça recursal, requer o Ministério Público Federal ao eminente Relator a reconsideração da decisão agravada, ou o seguimento do presente agravo interno, a fim de que seja julgado pelo colegiado, para a reforma da decisão (fl. 767).
+Instada a se manifestar (fl. 771), houve o decurso do prazo sem a apresentação de impugnação pela parte agravada (fl. 782).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. TRÁFICO DE DROGAS (149,2 G DE COCAÍNA; 280,1 G DE MACONHA; E 93 G DE CRACK). CONFISSÃO ESPONTÂNEA PARCIAL. NÃO INCIDÊNCIA. AGRAVADO QUE ASSUMIU A POSSE DO ENTORPECENTE PARA CONSUMO PRÓPRIO. SÚMULA 630/STJ. AFASTAMENTO DA ATENUAÇÃO QUE SE IMPÕE.
+1. Constou do acórdão mineiro que o acusado, não obstante ter assumido a propriedade da droga, negou a traficância, alegando que a droga apreendida seria para o seu consumo, não havendo se falar, portanto, em confissão (fl. 596).
+2. No caso concreto, tem-se a incidência da Súmula 630/STJ, que obsta a aplicação da referida atenuante.
+3. Nos termos da Súmula n. 630 desta Corte: "A incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes exige o reconhecimento da traficância pelo acusado, não bastando a mera admissão da posse ou propriedade para uso próprio".  ..  Como o paciente não confessou que estaria traficando drogas - mas, tão somente, que a substância entorpecente apreendida seria para consumo próprio -, não há que se falar na aplicação da atenuante. (AgRg no HC n. 833.244/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 2/10/2023).
+4. Agravo regimental provido para reconsiderar a decisão agravada a fim de afastar o reconhecimento da confissão espontânea, negando provimento ao recurso especial.
+VOTO
+Razão assiste ao agravante.
+Conforme disposto na decisão recorrida, fl. 754, quando da análise do pedido de reconhecimento da atenuante da confissão espontânea, constou do acórdão mineiro que o acusado, não obstante ter assumido a propriedade da droga, negou a traficância, alegando que a droga apreendida seria para o seu consumo, não havendo se falar, portanto, em confissão (fl. 596 - grifo nosso).
+Com efeito, no caso concreto, tem-se a incidência da Súmula 630/STJ, que obsta a aplicação da referida atenuante.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. RECONHECIMENTO DA ATENUANTE DA CONFISSÃO. INVIABILIDADE. SÚMULA 630/STJ. CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA. ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO INCIDÊNCIA. NÃO PREENCHIMENTO DOS REQUISITOS PREVISTOS EM LEI. PACIENTE QUE SE DEDICAVA A ATIVIDADES CRIMINOSAS. INVERSÃO DO JULGADO. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO E PROBATÓRIO. INVIABILIDADE NA VIA ELEITA. REGIME FECHADO. PENA SUPERIOR A 4 ANOS. PENA-BASE ACIMA DO MÍNIMO. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos da Súmula n. 630 desta Corte: "A incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes exige o reconhecimento da traficância pelo acusado, não bastando a mera admissão da posse ou propriedade para uso próprio."
+ ..
+(AgRg no HC n. 868.350/BA, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 5/12/2023 - grifo nosso).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ABSOLVIÇÃO. IMPOSSIBILIDADE. ESTABILIDADE E PERMANÊNCIA COMPROVADAS. DOSIMETRIA. CONFISSÃO ESPONTÂNEA. SÚMULA 630 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+4. Nos termos da Súmula n. 630 desta Corte: "A incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes exige o reconhecimento da traficância pelo acusado, não bastando a mera admissão da posse ou propriedade para uso próprio".
+5. Como o paciente não confessou que estaria traficando drogas - mas, tão somente, que a substância entorpecente apreendida seria para consumo próprio -, não há que se falar na aplicação da atenuante.
+ ..
+(AgRg no HC n. 833.244/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 2/10/2023 - grifo nosso).
+Ante o exposto, dou provimento ao agravo regimental para reconsiderar a decisão agravada a fim de afastar o reconhecimento da confissão espontânea, negando provimento ao recurso especial.
