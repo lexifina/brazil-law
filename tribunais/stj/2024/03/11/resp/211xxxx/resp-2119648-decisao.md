@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 1):
+PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. TÍTULO EXECUTIVO. CORREÇÃO MONETÁRIA. DIFERIMENTO. COISA JULGADA. PRECLUSÃO. NÃOOCORRÊNCIA.
+1. Nas situações em que o título executivo diferiu para a fase executiva a definição dos consectários legais, é admissível o pedido de execução complementar quanto às diferenças relativas à correção monetária, com fundamento no Tema 810 do STF.
+2. Tratando-se de montante que não poderia ter sido reivindicado anteriormente, não se cogita de preclusão. Ainda que a fase de cumprimento já tenha sido extinta, é possível a sua reabertura para processar o pedido de pagamento do saldo remanescente que decorre da aplicação do Tema 810 do STF, desde que a fixação da tese tenha ocorrido após o trânsito em julgado da sentença que extinguiu a execução.
+Opostos embargos de declaração, foram rejeitados (fl. 1)
+Aponta o recorrente, nas razões do apelo especial, violação dos arts. 1.022, II, 316, 502, 503, 505, 924, II e 925 do CPC. Sustenta, em síntese: (I) a existência de omissão no julgado, e (II) a impossibilidade de reabertura de execução com a finalidade de cobrança de valores complementares, diante da coisa julgada.
+Aduz que "O acórdão recorrido reconheceu a possibilidade da parte autora cobrar as diferentes decorrentes dos juros entre a data da conta e da expedição do precatório - Tema Nº 96 do STF, muito embora já tenha sido satisfeita a obrigação e extinto o processo de execução" (fl. 3).
+Alega que "esse entendimento não se coaduna com o posicionamento consagrado pelo E. Superior Tribunal que, em recurso afetado como repetitivo, definiu que não é legitima a reabertura da execução após sua extinção por sentença com trânsito em julgado" (fl. .3)
+Devidamente intimada, a parte recorrida apresentou contrarrazões ao recurso especial, sustentando que, "ao contrário do que pretende o INSS não se mostra cabível o presente Recurso Especial por desrespeito ao entendimento consolidado no Tema 289 do STJ, simplesmente porque o caso concreto presente é distinto daquele paradigma" (fl. 3).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O recurso não comporta acolhida
+De início, verifica-se não ter ocorrido ofensa ao art. 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos, não se podendo, de acordo com a jurisprudência do Superior Tribunal de Justiça, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional (AgInt no AR Esp 1678312/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 22/3/2021, DJe 13/4/2021).
+Quanto à questão de fundo, debate-se pedido complementar de cumprimento de sentença para o pagamento do saldo complementar referente à aplicação do Tema n. 810/STF.
+Nessa linha, o Tribunal de origem, com base no conjunto probatório dos autos, ao solucionar a controvérsia, adotou as seguintes razões de decidir (fls. 1/4):
+Dispõe o artigo 507 do Código de Processo Civil (CPC):
+É vedado à parte discutir, no curso do processo, as questões já decididas a cujo respeito se operou a preclusão.
+(..)
+A preclusão, portanto, ocorre quando a parte, tendo a ocasião de se manifestar, deixa de fazê-lo, assumindo o ônus de mais adiante não mais poder praticar ato incompatível à sua resignação anterior.
+No presente caso, após o pagamento do valor requisitado a parte foi intimada e não se manifestou, de modo que o magistrado de primeiro grau julgou extinta a execução em virtude do pagamento (evento 114, SENT1). Novamente, a parte exequente permaneceu silente (evento 118 do processo originário), ocorrendo o trânsito em julgado e a baixa definitiva dos autos em 24 de junho de2019 (eventos 121 e 122 do processo originário).
+Verifica-se que a sentença, com efeito, declarou a extinção da execução mediante a devida intimação prévia das partes sobre a satisfação integral da obrigação, em atenção aos arts. 7º e 10 do CPC, bem como ao princípio constitucional do devido processo legal.
+Logo, quando apresentado o pedido de execução complementar, em 16 de dezembro de2021 (evento 124, PET1), a questão pertinente aos consectários legais já se encontrava preclusa, uma vez que a parte exequente deixou de se manifestar no prazo assinalado pelo juízo sobre a satisfação do crédito.
+Mesmos nos casos em que o título judicial transitado em julgado difere a aplicação dos índices de correção monetária, para que mais adiante seja observado o julgamento do Tema nº 810pelo Supremo Tribunal Federal, deve-se considerar que, uma vez proferida sentença de extinção da execução sem insurgência da parte interessada, está prejudicada a satisfação de eventuais parcelas remanescentes do título judicial.
+É ônus do credor diligenciar pela execução complementar no curso do processo, a fim de afastar os efeitos da preclusão e assegurar o princípio da segurança jurídica. Cabe-lhe, oportunamente, manifestar ressalva quanto à intenção de executar crédito remanescente ou requerer o sobrestamento da ação sobre a parcela controversa, o que não se observa na presente hipótese.
+(..).
+Desta forma, tratando-se de execução extinta por sentença regularmente transitada em julgado, sem ressalvas, é incabível a requisição de crédito complementar, diante da ocorrência de preclusão, razão pela qual deve ser afastada, ainda, a condenação do executado ao pagamento de honorários advocatícios, fixada na decisão agravada.
+A iniciativa da parte, extemporânea de exigência de eventual parcela remanescente do débito, é incompatível à ausência de impugnação oportuna ao ato judicial de extinção do processo.
+Nesse contexto, a discussão sobre a presença de coisa julgada, trazida nas razões do recurso especial, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+EMENTA
