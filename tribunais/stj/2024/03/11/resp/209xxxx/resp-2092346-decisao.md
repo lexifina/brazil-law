@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a", da CF, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação n. 0004539-81.2015.8.26.0196.
+O recorrente foi condenado como incurso no art. 311, caput, do Código Penal, às penas de 4 anos de reclusão, em regime inicial fechado, além de pagamento de 13 dias-multa.
+Sustenta a defesa violação dos seguintes dispositivos:
+a) 619 do Código de Processo Penal, uma vez que o Tribunal de origem deixou de se manifestar sobre os pontos levantados relativamente a dosimetria da pena (conduta social), detração e regime;
+b) 381, II e III, e 315, § 2º, I e IV, do CPP, ao argumento de que o acórdão não está devidamente fundamentado, pois que as teses pela defesa levantadas não foram sequer cogitadas e apreciadas;
+c) 33, §§ 2º e 3º, do CP e 315, § 2º, II, do CPP, defendendo ser cabível a fixação de regime inicial de cumprimento de pena mais brando, no caso o aberto, bem como por deficiência de fundamentação quanto à matéria;
+d) 44, III, do CP, afirmando ser cabível a substituição da pena corporal por penas restritivas de direitos;
+e) 59 do CP, pois que se revela desproporcional aplicar aumento da pena-base em 1 ano ao se apontar a péssima conduta social, bem como que não foi colecionado aos autos qualquer outra situação capaz de atestar a péssima conduta social, e as condições pessoais do julgador não têm o condão para o incursionar no campo do subjetivismo; e
+f) 387, § 2º, do CPP, ao argumento de que não foi computado o tempo de prisão provisória (1 ano, 11 meses e 26 dias), o que permitiria a fixação do regime aberto como consequência.
+Requer o provimento do recurso.
+Apresentadas contrarrazões, o Ministério Público Federal manifestou-se pelo não provimento do recurso.
+É o relatório.
+Decido.
+Quanto à dosimetria, consta da sentença (fl. 366):
+Na primeira fase constato a péssima conduta social do réu por ter praticado o crime quando era Delegado de Polícia, em conduta totalmente desajustada com o cargo que ocupava, tratando-se de servidor público investido pelo Estado justamente na nobre função de coibir delitos e, assim, proteger a sociedade. Ostenta, ainda, duas condenações definitivas por estelionato (processo nº 0003982-29.2015.8.26.0153) e associação criminosa e peculato (processo á nº 0009325-80.2017.8.26.0041). Fixo a pena base em quatro (4) anos de reclusão e treze (13) dias-multa.
+Na segunda fase, não há circunstâncias agravantes ou atenuantes.
+Na terceira fase, não há causas de aumento ou de diminuição.
+Torno definitiva a pena de quatro (4) anos de reclusão e treze (13) dias-multa.
+Pelas razões acima expostas na fixação da pena base e levando-se em consideração que o réu ostenta condenações definitivas por estelionato, associação criminosa e peculato, estabeleço o regime fechado como inicial para o cumprimento da pena privativa de liberdade.
+Ante o exposto e o mais que dos autos consta, JULGO PROCEDENTE a ação a fim de condenar RENATO SAVÉRIO SOUZA COSTA, qualificado nos autos, às penas de quatro (4) anos de reclusão, a ser cumprida inicialmente no regime fechado, e treze (13) dias-multa com valor unitário mínimo, por incurso no artigo 311 do Código Penal.
+Por sua vez, o acórdão recorrido está assim fundamentado (fls. 451-458):
+4. Passa-se à análise da reprimenda.
+A pena-base do apelante foi fixada em 1/3 acima do mínimo legal, em razão da má conduta social do acusado e de seus antecedentes criminais.
+Como bem apontou o nobre Magistrado sentenciante, constata-se "a péssima conduta social do réu por ter praticado o crime quando era Delegado de Polícia, em conduta totalmente desajustada com o cargo que ocupava, tratando-se de servidor público investido pelo Estado justamente na nobre função de coibir delitos e, assim, protegera sociedade".
+Por outro lado, a folha de antecedentes e as certidões não demonstram condenações com trânsito em julgado para o réu.
+Portanto, não havia como considerar maus antecedentes.
+À luz do princípio constitucional da presunção de não culpabilidade, afigura-se inadmissível considerar como mau antecedente situação diversa de condenação transitada em julgado.
+ ..
+Importante ressaltar que processos em andamento não podem ser considerados para aumento da reprimenda, a pretexto de configurarem má personalidade do agente, sob pena de violação do princípio da presunção de inocência.
+Mantido o fundamento remanescente, estabeleço a pena de partida em 1/6 acima do mínimo legal, ou seja, 3 anos e 6 meses de reclusão, e 11 dias-multa.
+Torno tal pena definitiva, ausentes agravantes, atenuantes, causas de aumento ou de diminuição.
+Imperiosa, por fim, a fixação do regime semiaberto para o início do cumprimento da pena.
+Elencam os §§ 2º e 3º do artigo 33 do Código Penal os seguintes critérios à fixação do regime prisional: quantidade de pena, circunstâncias judiciais e reincidência.
+In casu, em que pese o montante da pena e a primariedade do acusado, as circunstâncias judiciais não o favorecem, de sorte que, observado o disposto nos artigos 33, §3º, e 59, inciso III, ambos do Código Penal, o semiaberto é o regime inicial cabível à espécie.
+Essas mesmas circunstâncias impedem a substituição da pena privativa de liberdade por restritivas de direitos ou a concessão de sursis (artigos 44, inciso III, e 77, inciso II, do Código Penal).
+Por derradeiro, não há falar-se em estipulação imediata de regime menos severo, considerado o lapso da prisão cautelar, tendo em vista as circunstâncias já apontadas, que determinam o regime intermediário.
+Cabe lembrar que a detração do artigo 387 § 2º do CPP, a teor do que vem decidindo o E. SUPERIOR TRIBUNAL DE JUSTIÇA, não enseja uma progressão antecipada, que prescindiria da presença do requisito de ordem subjetiva.
+O cômputo dessa detração, na sentença, permite apenas que se considere a reprimenda já despojada do período da prisão cautelar, exclusivamente para estabelecimento dos limites do artigo 33 § 2º do Código Penal.
+No entanto, o regime inicial remanesce vinculado não apenas a desses limites, mas à consideração das circunstâncias judiciais e da reincidência, tal como determina o artigo 33, §§ 2º e 3º, do Código Penal.
+ ..
+No caso em tela, a ponderação desfavorável das circunstâncias judiciais impede a adoção imediata do regime menos gravoso, ainda que descontado da reprimenda o tempo da prisão cautelar.
+Isto posto, pelo meu voto, rejeitada a preliminar, dá-se parcial provimento ao recurso, a fim de reduzir as penas de RENATO SAVÉRIO SOUZA COSTA para 3 (três) anos e 6 (seis) meses de reclusão, em regime inicial- semiaberto, e 11 (onze) dias-multa, mantida, no mais, a r. sentença.
+Desde logo, não há se falar em violação do art. 619 do CPP, na medida em que houve apreciação por parte do Tribunal de origem da questão relacionada à dosimetria da pena, mais especificamente em relação à valoração negativa do vetor conduta social, como também do regime inicial para o cumprimento da pena e do instituto da detração, mesmo que tenha sido adotada solução jurídica contrária aos interesses do recorrente.
+Do mesmo modo, não há se falar em deficiência ou insuficiência de fundamentação posto que se mostra totalmente compreensível a fundamentação adotada pelo Tribunal de origem ao decidir sobre as questões que lhe foram apresentadas.
+No tocante à valoração negativa da conduta social, cumpre ressaltar que não mais incide a pena alegada nas razões do recurso, posto que o Tribunal de origem, afastando os maus antecedentes, reduziu a pena para 3 anos e 6 meses de reclusão, adotando fração de aumento de 1/6, que encontra amparo na jurisprudência do STJ.
+Ademais, contrariamente ao alegado, foi indicada fundamentação suficiente que justifique referida valoração, ao se apontar na sentença que "constato a péssima conduta social do réu por ter praticado o crime quando era Delegado de Polícia, em conduta totalmente desajustada com o cargo que ocupava, tratando-se de servidor público-investido pelo Estado justamente na nobre função de coibir delitos e, assim, proteger a sociedade" (fl. 366). A respeito:
+"No caso concreto, a pena-base do recorrente foi exasperada pela análise desfavorável da culpabilidade do agente, em razão do réu ter praticado o crime em questão mesmo na condição de Delegado de Polícia e com o dever de fiscalizar as atividades de seus agentes e zelar pela legalidade de seus atos. Tal fundamento apontado pela Corte local, de fato, denota uma maior reprovabilidade da conduta, estando em consonância com o entendimento deste Superior Tribunal de Justiça" (AgRg no REsp n. 1.732.520/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/11/2019, DJe de 12/11/2019).
+"No caso em apreço, o Tribunal local apontou elementos que transbordam o tipo penal e justificam o desvalor da conduta social.
+Segundo a Corte de origem, a referida vetorial foi considerada negativa, porquanto o paciente, "enquanto exerceu cargo público de escrivão de polícia manteve registro funcional permeado de infrações disciplinares (fls. 483/485), que terminaram em sua demissão (fls. 580/582), possuindo apontamentos criminais incompatíveis com a seriedade das funções em que fora investido (fls. 600/602)" (HC n. 465.197/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/3/2019, DJe de 19/3/2019).
+"A condição de policial militar do paciente enseja a necessidade de uma maior repressão estatal, pois, ostentando tal condição funcional, tinha maiores condições de entender o caráter ilícito do seu ato e também porque detém o dever de garantir a segurança pública e reprimir a criminalidade, não se mostra injustificada a manutenção do acórdão no ponto em que, por conta disso, considerou um pouco mais elevada a culpabilidade do agente (HC 163.422/MG, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 07/02/2012, DJe 15/02/2012)" (HC n. 365.305/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2017, DJe de 5/5/2017).
+Em relação ao regime fixado para o início do cumprimento da pena, diante do quantum fixado "quatro (4) anos de reclusão, a ser cumprida inicialmente no regime fechado" (fl. 366), presente circunstância judicial desfavorável, correta se mostra a fixação do regime mais gravoso, a teor do art. 33, § 2º, "b" e 59 do CP, por encontrar amparo na jurisprudência do STJ. A respeito:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES. REGIME PRISIONAL. PENA INFERIOR A 4 ANOS DE RECLUSÃO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MODO SEMIABERTO. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A orientação jurisprudencial desta Corte é pacífica no sentido de que a existência de circunstâncias judiciais desfavoráveis, ou ainda, outra situação que demonstre a gravidade concreta do delito perpetrado são condições aptas a recrudescer o regime prisional, em detrimento apenas do quantum de pena imposta, de modo que não existe ilegalidade no resgate da reprimenda no modo semiaberto.
+2. Não obstante estabelecida pena inferior a 4 anos de reclusão, havendo circunstância judicial desfavorável reconhecida no acórdão, não há ilegalidade na imposição do regime prisional imediatamente mais gravoso, o semiaberto, e a negativa da substituição da pena privativa de liberdade por restritiva de direitos.
+3. Agravo regimental desprovido. (AgRg no AgRg no AREsp n. 2.368.686/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/9/2023, DJe de 8/9/2023.)
+No que diz respeito à pleiteada substituição da pena privativa de liberdade por medidas restritivas de direitos, verifica-se que a parte não apresentou fundamentação de modo a demonstrar a efetiva violação do dispositivo legal tido por violado, o que atrai o óbice da Súmula n. 284 do STF. A respeito:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. EXTRAÇÃO DE DADOS TELEMÁTICOS APÓS AUTORIZAÇÃO JUDICIAL. ALEGADA NECESSIDADE DE PERÍCIA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+5. Quanto aos arts. 10, § 2º, e 12, ambos da Lei n. 12.965/2014 e 1º da Lei n. 12.030/2009, não há como afastar o óbice da Súmula 284/STF, porque, no caso em questão, a alegação de ofensa foi apresentada de maneira genérica, sem a demonstração efetiva de como o acórdão teria violado os referidos dispositivos. Incidência da Súmula 284/STF.
+6. Agravo regimental desprovido. (AgRg no AREsp n. 2.438.225/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/2/2024, DJe de 1/3/2024.)
+Por fim, quanto à detração penal, "torna-se irrelevante o aproveitamento do tempo de pena cumprida em caráter provisório, em observância ao art. 387, § 2º, do CPP, porquanto a pena do agravante, inferior a 4 anos, está entre as balizas previstas no art. 33, § 2º, "c", do Código Penal, sendo que o regime semiaberto, imediatamente mais gravoso, está pautado em fundamentação própria, tendo em vista a existência de circunstância judicial negativa, tanto que a pena-base foi aplicada acima do mínimo legal, o que transcende o quantum de pena aplicada, sendo irrelevante a aplicação da detração" (AgRg no HC n. 852.812/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/9/2023, DJe de 29/9/2023).
+Desse modo, naquilo que o julgado de origem estiver no mesmo sentido da orientação deste Tribunal, incide a Súmula 83/STJ.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
