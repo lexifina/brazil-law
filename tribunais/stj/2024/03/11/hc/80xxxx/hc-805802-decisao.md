@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 33):
+Apelação Criminal - Lesão corporal de natureza grave - Sentença condenatória - Recursos defensivos - Preliminar de nulidade da decisão que suspendeu o benefício da Justiça Gratuita - Nulidade não demonstrada - A concessão dos benefícios da Justiça Gratuita não exclui a condenação dos réus ao pagamento das custas processuais, apenas suspende a sua exigibilidade pelo prazo de cinco anos Condenação mantida Materialidade e autoria comprovadas Declarações da vítima prestadas de forma harmônica, corroboradas por laudos periciais e depoimentos testemunhais Penas e regime motivadamente fixados Reprimenda fixada acima do mínimo legal Confissão espontânea reconhecida na origem - Regime Semiaberto em razão da valoração negativa das circunstâncias judiciais e da gravidade concreta do delito perpetrado - Impossibilidade de substituição da pena privativa de liberdade pela restritiva de direitos, ou do sursis penal, por ausência dos requisitos legais Recursos improvidos.
+Consta dos autos que o paciente foi condenado pela prática do crime tipificado no art. 129, § 1º, I, do Código Penal, à pena de 1 ano e 8 meses de reclusão, em regime inicial semiaberto.
+Interposta apelação pela defesa, o Tribunal de origem negou-lhe provimento.
+Neste writ, alega a defesa nulidade da sentença, pois o "Ministério Público em suas Alegações finais requereu o regime aberto para os requeridos fls 325 dos autos (doc anexo). Porém, além de não acompanhar o Ministério Público em seu requerimento o Magistrado a quo incluiu a qualificadora do artigo 33 do CP, também fato que não foi requerido pelo Ministério Público, assim o Magistrado incorreu em mutatis libelli trazendo nulidade à decisão combatida" (fl. 5).
+Requer, liminarmente e no mérito, seja concedida a ordem "para que seja determinado que a E. Corte receba e julgue o recurso interposto pelo paciente, reformando a decisão combatida proferida pela 1ª Vara da Comarca de Agudos/SP, que incorreu em mutatio libelli e ato contínuo a reforma da confirmação da sentença pela 4ª Câmara Criminal do TJSP em seu Acórdão, conservando assim, os direitos constitucionais lhe resguardado pelo devido processo legal, acolhendo as razões do Ministério Público de primeiro grau, a condenação em regime aberto" (fls. 7-8).
+Indeferida a liminar e, prestadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus ou pela denegação da ordem.
+De pronto, verifica-se que a matéria ora suscitada não foi apreciada pelo Tribunal de origem, que negou processamento ao habeas corpus lá impetrado.
+Além disso, a referida questão também não foi objeto do recurso de apelação interposto pela defesa contra a sentença condenatória, que insurgiu-se apenas quanto à suspensão do benefício da justiça gratuita, a fragilidade probatória e a dosimetria da pena (fl. 34).
+Desse modo, resta inviabilizada a análise do tema por esta Corte, sob pena de incidir em indevida supressão de instância. A propósito, os seguintes precedentes desta Corte:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. CAUSA DE DIMINUIÇÃO PREVISTA NO ARTIGO 33, § 4º, DA LEI 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. FUNDAMENTAÇÃO CONCRETA. AUSÊNCIA DE ILEGALIDADE. PLEITO DE ESTABELECIMENTO DE REGIME INICIAL PRISIONAL MENOS GRAVOSO E DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+III - O pleito de reconhecimento da ilegalidade do acórdão impugnado em razão da fixação do regime prisional inicial mais gravoso sequente e da negativa à substituição da pena corporal por restritiva de direitos, sem fundamentação idônea para tanto, não foi objeto de debate perante a instância antecedente, o que obsta o conhecimento do pedido por este Tribunal.
+IV - O agravo regimental deve trazer novos argumentos aptos a ensejar a alteração da decisão ora agravada, sob pena de a decisão agravada ser mantida por seus próprios fundamentos.
+Agravo regimental desprovido.
+(AgRg no HC n. 865.457/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 27/2/2024, DJe de 4/3/2024.)
+PROCESSO PENAL. AGRAVO REGIMENTAL. PLEITOS DE APLICAÇÃO DO REDUTOR DO TRÁFICO PRIVILEGIADO E DE ABRANDAMENTO DO REGIME INICIAL. TEMAS QUE NÃO FORAM OBJETO EXAME NO ACÓRDÃO IMPUGNADO. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. INVIABILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Ausente exame de mérito no acórdão impugnado, proferido pelo Tribunal a quo, acerca dos pleitos de aplicação do redutor do tráfico privilegiado e de abrandamento do regime inicial, resulta inviável o respectivo enfrentamento diretamente por esta Corte, sob pena de indevida supressão de instância. Precedentes.
+ ..
+3. Agravo regimental não provido.
+(AgRg no HC n. 882.926/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LAVAGEM DE DINHEIRO. TESES DEFENSIVAS NÃO DEBATIDAS PERANTE O TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE DE ANÁLISE DIRETAMENTE POR ESTA CORTE SUPERIOR. SUPRESSÃO DE INSTÂNCIA. DOSIMETRIA. PENA-BASE. OCORRÊNCIA DE BIS IN IDEM. REPRIMENDA INICIAL REDUZIDA. AFASTAMENTO DA CAUSA DE AUMENTO DO ART. 1º, § 4º, DA LEI N. 9.613/1998. SUPRESSÃO DE INSTÂNCIA. REFORMATIO IN PEJUS. NÃO VERIFICADO. RECURSO PARCIALMENTE PROVIDO.
+1. No tocante às alegações referentes à impossibilidade de condenação pelo crime de lavagem de dinheiro tendo como crime antecedente organização criminosa, em razão de os fatos serem anteriores à Lei n. 12850/2013 e em razão da atipicidade ou prescrição do crime previsto no art. 22, parágrafo único, da Lei n. 7.492/1986, tem-se que o Tribunal de origem não se manifestou especificamente a respeito de tais teses, o que impossibilita a análise diretamente por esta Corte Superior, sob pena de incorrer em indevida supressão de instância.
+ ..
+5. Agravo regimental parcialmente provido.
+(AgRg no HC n. 817.973/RN, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 4/12/2023, DJe de 7/12/2023.)
+Ante o exposto, não conheço o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
