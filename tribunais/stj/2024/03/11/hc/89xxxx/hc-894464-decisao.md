@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar, impetrado em favor de THAYS PEREIRA RENARD, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Autos nº 5018394-23.2024.8.21.7000/RS).
+O habeas corpus apresentado pela defesa foi denegado por meio de acórdão assim ementado (e-STJ fl. 31):
+HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA OTRÁFICO DE DROGAS. TRANCAMENTO DA AÇÃO PENAL. INVIABILIDADE. INDÍCIOS SUFICIENTES DE AUTORIA EMATERIALIDADE PARA PROSSEGUIMENTO.
+A defesa alega, em síntese, negativa de prestação jurisdicional.
+Requer, liminar e definitivamente, o deferimento da ordem para anular a decisão de recebimento da denúncia.
+É o relatório.
+Decido.
+Para conhecer da controvérsia apresentada neste writ, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com a estreita via do habeas corpus.
+Além disso, a concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que não se verifica de plano na hipótese dos autos, conforme se obtém da fundamentação lançada na origem (e-STJ fls. 36-37):
+As questões suscitadas pela defesa, na verdade, são atinentes ao mérito da ação penal, não podendo serem valoradas em sede de Habeas Corpus, porquanto não se trata de remédio adequado para profunda indagação acerca do acervo fático-probatório. Isso porque eventual discussão sobre os elementos probatórios ou sobre a inocência da acusada, quando não decorrente de situação manifestamente ilegal, não se revela cognoscível, tampouco se amolda à estreita via eleita, constituindo matéria a ser discutida no curso da ação penal condenatória, perante o juízo competente.
+A priori, da leitura da denúncia, tenho que não resta configurada qualquer inépcia ou ausência dos pressupostos processuais ou condições da ação, estando preenchidos os requisitos necessários previstos no artigo 41, do Código de Processo Penal. Não só isso, da análise dos autos originários, há prova da materialidade e indícios de autoria por parte da paciente, a configurar justa causa para o prosseguimento da ação penal.
+(..)
+Afora o esgotamento do tema no exame liminar do pedido, reforço a inadequação da via eleita para análise do pleito defensivo quanto à necessidade de trancamento da ação penal, considerando se tratar de questão que carece de instrução probatória e não se vislumbra manifestada qualquer ilegalidade evidente.
+De fato, o trancamento da ação penal em sua fase embrionária é providência excepcionalíssima, submetida à existência de "inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito" (AgRg no HC 843621 / PR, Ministro RIBEIRO DANTAS, QUINTA TURMA, DATA DO JULGAMENTO 18/12/2023, DATA DA PUBLICAÇÃO/FONTE DJe 20/12/2023), elementos inexistentes nos autos.
+Ademais, certo é que "Não há falar, na hipótese, em negativa de prestação jurisdicional ou de nulidade do acórdão proferido pelo Colegiado a quo, por violação ao artigo 619 do Código de Processo Penal, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, tendo em vista que os votos condutores do acórdão recorrido e do acórdão proferido em sede de embargos de declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida" (AgRg no AREsp n. 1.789.837/SP, Quinta Turma, RELATOR Ministro MESSOD AZULAY NETO, DJe 03/07/2023)
+Efetivamente, compulsados os autos, colhe-se que a corte de origem analisou e rebateu, um a um, os argumentos relativos à incompetência da vara de origem e a nulidade das medidas probatórias, sendo certo que a ausência de menção a um outro argumento invocado pela defesa não macula o comando decisório se, bem fundamentado, apresenta razões capazes de se sustentar por si.
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
