@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 11/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. AUSÊNCIA DE ALEGAÇÃO DE VIOLAÇÃO AO ART. 1.022, II, DO CPC/2015.
+1. A questão federal suscitada não pode ser conhecida por este Superior Tribunal de Justiça quando não há manifestação do Tribunal a quo a seu respeito.
+2. Nos termos do art. 1.025 do CPC/2015, "consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade".
+3. Ante ao limite cognitivo da via utilizada, que não permite avanço sobre os fatos da causa, quando, a despeito da oposição de embargos de declaração, o Tribunal a quo não se pronuncia sobre determinada questão essencial ao deslinde da controvérsia, imprescindível que, nas razões do recurso especial, a parte alegue violação ao art. 1.022, II, do CPC/2015, o que não foi observado pela parte que recorre. Precedentes.
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão monocrática, da lavra da presidência deste Superior Tribunal de Justiça, da qual retiro o seguinte excerto:
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.  ..  Além disso, verifica-se que a tese recursal que serve de base para o dissídio jurisprudencial não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+No presente recurso, sustenta-se, em síntese, que,
+em que pese os embargos opostos, a E. Câmara proferiu decisão genérica, se esquivando do dever de fundamentação que toda decisão judicial deve conter, violando, inegavelmente, os artigos 1.022, inciso II, 489, §1º, incisos III e IV, ambos do Código de Processo Civil. 2. Assim, ensejou a interposição do Recurso Especial.
+Pugna, por fim, a reconsideração da decisão, em juízo de retratação, ou a remessa do presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. AUSÊNCIA DE ALEGAÇÃO DE VIOLAÇÃO AO ART. 1.022, II, DO CPC/2015.
+1. A questão federal suscitada não pode ser conhecida por este Superior Tribunal de Justiça quando não há manifestação do Tribunal a quo a seu respeito.
+2. Nos termos do art. 1.025 do CPC/2015, "consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade".
+3. Ante ao limite cognitivo da via utilizada, que não permite avanço sobre os fatos da causa, quando, a despeito da oposição de embargos de declaração, o Tribunal a quo não se pronuncia sobre determinada questão essencial ao deslinde da controvérsia, imprescindível que, nas razões do recurso especial, a parte alegue violação ao art. 1.022, II, do CPC/2015, o que não foi observado pela parte que recorre. Precedentes.
+4. Agravo interno não provido.
+VOTO
+O agravo interno não merece lograr êxito.
+Dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada, que, de fato, deu a solução que melhor espelha a orientação jurisprudencial do STJ sobre a matéria.
+Conforme já marcado, a questão federal suscitada não pode ser conhecida por este Superior Tribunal de Justiça quando não há manifestação do Tribunal a quo a seu respeito.
+Manifesta a doutrina no sentido de que
+uma corte que visa ao controle da decisão recorrida é uma corte reativa. Vale dizer: a corte desempenha um papel que pressupõe a existência de uma violação ao direito já ocorrida, sendo sua tarefa sancioná-la e, quando possível, neutralizar ou eliminar os seus efeitos mediante cassação ou reforma dessa decisão. O recurso serve para reagir a uma violação ao direito já ocorrida, perpetrada pela decisão judicial que constitui o seu objeto, sendo a atuação da corte pensada tão somente para o passado. (MARINONI, Luiz Guilherme, MITIDIERO, Daniel. Recurso extraordinário e recurso especial: do "jus litigatoris" ao "jus constitutionis"  livro eletrônico . 3. ed. rev. atual. São Paulo: Revista dos Tribunais, 2021).
+Assim, importa que a questão federal esteja presente na decisão recorrida, que haja a manifestação do órgão jurisdicional local acerca do ponto (fundamento da demanda ou da defesa) acerca do qual surgiu a controvérsia (cf. MEDINA, José Miguel Garcia. Prequestionamento e repercussão geral e outras questões relativas aos recursos especial e extraordinário  livro eletrônico ; coordenação Nelson Nery Jr., Teresa Arruda Alvim Wambier. 1ª ed. São Paulo: Revista dos Tribunais, 2012). Dito de outro modo, "o cabimento do recurso especial reclama, no caso de contrariedade à lei federal, explícita decisão a respeito de determinada questão, resolvida com fundamento em lei federal" (ASSIS, Araken de. Manual dos recursos  livro eletrônico . 10. ed. São Paulo: Revista dos Tribunais, 2021).
+Relembro que, nos termos do art. 1.025 do CPC/2015, "consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade".
+No entanto, ante ao limite cognitivo da via utilizada, que não permite avanço sobre os fatos da causa, quando, a despeito da oposição de embargos de declaração, o Tribunal a quo não se pronuncia sobre determinada questão essencial ao deslinde da controvérsia, imprescindível que, nas razões do recurso especial, a parte alegue violação ao art. 1.022, II, do CPC/2015, o que não foi observado pela parte que recorre.
+Sobre a matéria, já foi julgado:
+ ..  a aplicação do artigo 1.025 do CPC/15 exige que a parte recorrente tenha oposto aclaratórios na origem e apontado, no recurso especial, violação ao artigo 1.022 do mesmo diploma e indicado de forma clara e específica, o vício existente no acórdão recorrido (AgInt no AgInt no AREsp 1352912/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 01/04/2020).
+Inadmissível o recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo (enunciado n. 211 da Súmula do STJ). Cumpre ressaltar que o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos declaratórios na origem, a parte recorrente suscitar a violação ao art. 1.022 do mesmo diploma, porquanto somente dessa forma é que o órgão julgador poderá verificar a existência do vício (AgInt no AREsp 1471762/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 30/03/2020).
+ ..  para se reconhecer o prequestionamento ficto de que trata o art. 1.025 do CPC/2015, na via do especial, impõe-se ao recorrente a indicação de contrariedade ao art. 1.022 do CPC/2015" (AgInt no AREsp 1521284/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 19/12/2019; AgInt no AREsp 1563493/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 03/03/2020, DJe 10/03/2020).
+Nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
