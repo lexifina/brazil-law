@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF/1988) interposto do acórdão do Tribunal Regional Federal da 1 ª Região assim ementado:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. REMESSA OFICIAL TIDA POR INTERPOSTA. PENSÃO POR MORTE. TRABALHADOR RURAL. REQUISITOS DA LEI 8.213/91. CÔNJUGE FALECIDO. DEPENDÊNCIA PRESUMIDA. ATIVIDADE RURAL. INÍCIO DE PROVA MATERIAL. AUSÊNCIA. DOCUMENTO NÃO CONTEMPORÂNEO AOS FATOS ALEGADOS. PROVA TESTEMUNHAL FRÁGIL E CONTRADITÓRIA. IMPOSSIBILIDADE DE CONCESSÃO DO BENEFICIO. SENTENÇA REFORMADA.
+1. A pensão por morte prevista no art. 74 da Lei 8.213/91, que é devida ao conjunto dos dependentes de trabalhador rural, está subordinada à demonstração da condição de dependente do segurado. nos termos do art. 16 da mencionada lei, e à comprovação da atividade rural exercida pelo falecido, por meio de início de prova material corroborada por prova testemunhal coerente e robusta.
+2. A dependência econômica do cônjuge sobrevivente em relação ao ex-segurado é presumida (Lei 8.213/1991, art. 16, § 4º), conquanto cabível prova em contrário.
+3. No caso, a parte autora não se desincumbiu do ônus de instruir a inicial com documentos comprobatórios do exercício de atividade rural, uma vez que trouxe aos autos certidão de casamento, constando a profissão do cônjuge como lavrador.
+4. A certidão de óbito do cônjuge da parte autora, não corroborada por prova documental anterior ao falecimento. não é apta para demonstrar, por si somente, a qualificação de ruricola. visto que a ocupação profissional declarada. não traz a certeza e segurança jurídica necessárias à configuração do início razoável de prova material, necessitando, por conseguinte, da imprescindível nota de contemporaneidade.
+5. Ausência de comprovação do exercício de atividade rural no período imediatamente anterior ao requerimento do benefício (Lei 8.213/91, art. 48, §§ 1º e 2º).
+6. A prova testemunhal produzida não foi contundente na demonstração da condição de trabalhador rural do falecido cônjuge da parte a autora.
+7. Ausente conjunto probatório harmônico a respeito do exercício de atividade rural. a parte autora não tem direito à pensão por morte, ante a ausência do preenchimento dos requisitos previstos na Lei 8.213/91, para a obtenção do beneficio pleiteado.
+8. Apelação do INSS e remessa oficial. tida por interposta, a que se dá provimento para reformar a sentença recorrida e julgar improcedente o pedido inicial.
+Os Embargos de Declaração foram rejeitados.
+Nas razões do apelo especial, a parte recorrente alega ofensa aos arts. 489, § 1º, III, e 1.022, II e III, do CPC/2015, por negativa de prestação jurisdicional, sob os seguintes argumentos (fls. 263-264, e-STJ, grifei):
+O recorrente ajuizou ação em face do Instituto Nacional do Seguro Social - INSS pleiteando pensão por morte de seu cônjuge, que foi julgada procedente.
+Objetivando a reforma da sentença, o recorrido apelou ao E. Tribunal Regional da Primeira Região, e obteve êxito.
+Ocorre que o acórdão foi fundamentado SOMENTE em provas que NÃO existem nos autos, estranhas à lide: nas folhas mencionadas na decisão não existem os documentos a que ela se referee, dos documentos constantes dos autos, nenhum sequer foi mencionado. Vejamos (id 34601560 -Pág. 36e 38):
+"Verifica-se que o conjunto probatório dos autos não comprova o direito da parte autora à percepção do benefício de pensão por morte. Para amparar sua pretensão, juntou, em cópias, os seguintes documentos: certidão de casamento, celebrado em 22/08/2007, constando a profissão dos nubentes como aposentado e autônoma (fl. 13), e certidão de óbito de seu cônjuge, falecido em 24/09/2009, em que se verifica registrada a profissão de agricultor (fl. 14)-fl. 195 TRF"
+(..) Ademais, no que diz respeito à prova testemunhal, é de ver-se que as testemunhas ouvidas, não confirmaram a condição de trabalhador rural do falecido cônjuge da parte autora. (Fl.197-TRF) (Aditados os grifos)."
+Como os documentos mencionados no trecho negritado não dizem respeito ao caso, e os constantes dos autos não foram analisados, o recorrente opôs embargos de declaração com base no art. 1.022, II combinado com o art. 489, §1º, III e IV, do CPC/15, objetivando a adequação da decisão ao caso dos autos, o seu caso.
+Para fins de prequestionamento, requereu-se a análise da prova documental de acordo com o REsp 1.348.633, julgado sob o rito dos recursos repetitivos (Tema 638) no contexto do enunciado de súmula nº 149 deste Colendo Superior Tribunal de Justiça, o pronunciamento sobre a aplicação do art. 106 c/c o art. 55, § 3º da Lei 8.213/91, e sobre o art. 371 do Código de Processo Civil (Lei 13.105/2015)
+Sem contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 28 de fevereiro de 2024.
+Cuida-se, na origem, de ação ordinária ajuizada pela parte autora, na qual se pretende obter pensão por morte, decorrente do falecimento de seu cônjuge, tido como trabalhador rural.
+Analisando detidamente os autos, verifico que assiste razão à parte insurgente no que tange à ofensa ao art. 1.022 do CPC/2015.
+Com efeito, tanto na petição de Recurso Especial como na dos aclaratórios, o recorrente destaca a tese de que houve omissão no acórdão recorrido quanto à análise dos documentos apresentados pelo autor, pois os documentos mencionados pelo Tribunal a quo não dizem respeito ao caso dos autos. (Grifei).
+Porém, mesmo após instada a se manifestar, a Corte regional não analisou a questão suscitada, que é relevante para a resolução da controvérsia.
+É cediço o entendimento de que a apreciação integral da lide, com fundamento suficiente, não caracteriza infringência ao art. 1.022 do CPC/2015, e que o juiz não é obrigado a rebater todos os argumentos apresentados pelas partes. Por outro lado, o magistrado não pode deixar de conhecer de matéria indispensável à solução do conflito, mormente quando sua decisão não é suficiente para refutar as alegações aduzidas por não
+abranger toda a demanda.
+Cumpre esclarecer ainda que, segundo a mais recente orientação do STJ, "(..) as certidões de nascimento, casamento e óbito, bem como certidão da Justiça Eleitoral, carteira de associação ao Sindicato dos Trabalhadores Rurais, ficha de inscrição em Sindicato Rural, contratos de parceria agrícola, podem servir como início da prova material nos casos em que a profissão de rurícola estiver expressamente mencionada desde que amparados por convincente prova testemunhal" (REsp 1.650.326/MT, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 30.6.2017). Isso porque o rol de documentos constante do art. 106 da Lei 8.213/91 é meramente exemplificativo, não taxativo.
+Assim, diante da deficiência na prestação jurisdicional realizada na instância ordinária, impõe-se o acolhimento da alegação de contrariedade ao art. 535 do CPC/1973 (art. 1.022 do CPC/2015), de modo que os autos devem ser devolvidos à origem para que sejam sanados os vícios apontados.
+Diante do exposto, conheço do Agravo para dar provimento ao Recurso Especial e determino o retorno dos autos ao Tribunal a quo a fim de que este, em novo julgamento dos Embargos de Declaração, se pronuncie expressamente acerca das argumentos acima ressaltados, observando ainda a jurisprudência do STJ sobre a matéria.
+Publique-se.
+Intimem-se.
+EMENTA
