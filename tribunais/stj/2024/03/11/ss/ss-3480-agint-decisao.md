@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de Suspensão de Segurança formulada pelo MUNICÍPIO DE MANAUS contra decisão proferida no Agravo de Instrumento n. 4010022-61.2023.8.04.0000, em trâmite no Tribunal de Justiça do Estado do Amazonas, na qual o Desembargador Relator antecipou os efeitos da tutela recursal para determinar que o cumprimento provisório da sentença proferida no Mandado de Segurança n. 0773115-90.2021.8.04.0001 fosse imediato.
+Consta dos autos que VAT Tecnologia da Informação Ltda. e o Município de Manaus firmaram o Termo de Contrato n. 056/2021, após vencer o Pregão Eletrônico n. 156-2020-CML/PM, cujo objetivo era a contratação de empresa especializada na prestação de serviços de produção, transmissão e gravação de videoaulas a partir de conteúdos educacionais.
+Irresignada, Amazonas Produtora Cinematográfica impetrou mandado de segurança (n. 0773115-90.2021.8.04.0001), sob alegação de não ter sido devidamente demonstrada a necessária qualificação econômico-financeira da empresa vencedora do certame. A ordem foi concedida pelo Juízo da 2ª Vara da Fazenda Pública da Comarca de Manaus com fundamento na imprestabilidade do documento contábil apresentado por VAT Tecnologia da Informação Ltda. no certame.
+Determinou-se, em suma, a suspensão da execução do contrato firmado, bem como a reabertura e prosseguimento do referido pregão, com a inabilitação da litisconsorte VAT Tecnologia da Informação Ltda.. Além disso, no caso de realização de contratação em caráter emergencial, com dispensa de licitação, determinou-se a observância da ordem de classificação do concurso, excluída VAT Tecnologia da Informação Ltda..
+Diante desse desate, o Município de Manaus e VAT Tecnologia de Informação Ltda. apelaram, mas não obtiveram o sucesso esperado junto ao Tribunal de Justiça do Estado do Amazonas.
+Após a publicação do acórdão, a impetrante requereu o cumprimento provisório de sentença, tendo o Juízo a quo fixado o prazo de 20 (vinte) dias para comprovação da implementação da ordem concedida e suspender a execução do termo de contrato então firmado.
+Com isso, Amazonas Produtora Cinematográfica Ltda. interpôs agravo de instrumento, tendo o Desembargador Relator no TJAM concedido a antecipação de tutela recursal para determinar que o cumprimento provisório da sentença proferida no Mandado de Segurança n. 0773115-90.2021.8.04.0001 fosse imediato.
+Irresignado, o Município de Manaus apresentou o presente Pedido de Suspensão, sob alegação de perigo de grave lesão à ordem pública, dada a iminente lesão à ordem administrativa, por prejuízo à organização administrativo-pedagógica da Secretaria Municipal de Educação.
+Por decisão vista às fls. 470/477, foi deferido, parcialmente, o pedido de suspensão dos efeitos da decisão impugnada de forma a permitir a execução do Termo de Contrato n. 056/2021 até o final do presente ano letivo de 2023.
+Naquela oportunidade, foi acolhida a alegação do ente público municipal no sentido de que "eventual interrupção imediata do serviço incorrerá, indubitavelmente, em sérios prejuízos à ordem administrativa, no sentido de que interferirá diretamente no cronograma pedagógico já estabelecido pela pasta municipal para o ano letivo de 2023 e em plena execução pela empresa contratada" (fl. 20).
+Diante desse desate, AMAZONAS PRODUTORA CINEMATOGRÁFICA LTDA. apresentou pedido de reconsideração/agravo interno.
+Embora tenha sido determinada a intimação, por duas vezes, do requerente para se manifestar acerca da petição de fls. 486/503 com o envio de informações atualizadas acerca da execução do Termo de Contrato n. 056/2021, foi certificado que decorreu o prazo fixado sem manifestação.
+É o relatório.
+Não é difícil verificar que os efeitos da decisão proferida nestes autos teve prazo certo e determinado. Os efeitos da tutela recursal antecipadamente deferida pelo Desembargador Relator do agravo de instrumento em curso no TJAM foram suspensos, apenas, até o final do ano letivo de 2023.
+Ora, se a decisão em foco, como visto, foi por termo certo, e esse termo já se consumou - final do ano letivo de 2023 -, é forte ver que o presente incidente teve seu objeto esvaziado; afinal de contas, consoante restou decidido, a ordem mandamental já, desde janeiro de 2024, deve ser cumprida nos seus exatos e precisos termos.
+Sendo assim, uma vez que a decisão impugnada já exauriu seus efeitos, verifica-se que o agravo interno de fls. 470/477 encontra-se prejudicado.
+Ante o exposto, não conheço do agravo interno.
+Determino a certificação do trânsito em julgado.
+Publique-se.
+Intimem-se.
+EMENTA
