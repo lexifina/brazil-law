@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição Federal de 1988) contra acórdão do Tribunal de Justiça do Estado do Maranhão assim ementado (fl. 220, e-STJ):
+CIVIL E PROCESSUAL CIVIL. ADMINISTRATIVO. APELAÇÃO CÍVEL. AÇÃO DE COBRANÇADE AUXÍLIO ALIMENTAÇÃO. SENTENÇA DE PROCEDÊNCIA. PEDIDO DE REFORMA. DESCABIMENTO. MUNICÍPIO APELANTE QUE NÃO COMPROVOU EFETIVAMENTE OPAGAMENTO BENEFÍCIO AO APELADO NOS PERÍODOS REPORTADOS NA INICIAL. SENTENÇA RECORRIDA QUE DEVE SER MANTIDA. RECURSO DE APELAÇÃOCONHECIDO E NÃO PROVIDO.
+1) Havendo previsão legal específica para o pagamento do auxílio alimentação pleiteadopela parte apelada, a não demonstração da liquidação dessa verba por parte do apelanteconduz à procedência dos pedidos iniciais, conforme decidido pelo juízo recorrido, cujasentença deve ser conservada em sua integralidade.
+2) Recurso de apelação conhecido e desprovido.
+Os Embargos de Declaração foram rejeitados (fls. 277-313, e-STJ).
+A parte recorrente alega violação ao art. 85, §§ 1º, 8º e 11, do CPC. Afirma que os honorários de sucumbência deveriam ter sido arbitrados por equidade na sentença e majorados pelo Tribunal de origem (fl. 320, e-STJ).
+Contrarrazões apresentadas às fls. 329-336, e-STJ.
+É o relatório.
+Decido.
+Os autos deram entrada no Gabinete em 21.2.2024.
+A irresignação não merece acolhida.
+A indicada afronta ao art. 85, §§ 8º e 11, do CPC não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esses dispositivos legais. É inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+A propósito:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. PLANO APROVADO. ADQUIRENTE DE UNIDADE IMOBILIÁRIA. ATÉ O MOMENTO, FORMALMENTE, NÃO CONSTA COMO CREDOR DAS RECUPERANDAS. INCLUSÃO QUE DEVE SER OBJETO DE IMPUGNAÇÃO DE CRÉDITO. NECESSIDADE DE ASSINATURA DO INSTRUMENTO DE DISTRATO. DISCUSSÃO EM SEDE PRÓPRIA. EMPREENDIMENTO SUJEITO A PATRIMÔNIO DE AFETAÇÃO. PLANO CONTÉM PREVISÃO DE CREDORES FUTURAMENTE OPTAREM SOBRE O MODO DE PAGAMENTO DE SEUS CRÉDITOS. INEXISTÊNCIA DE IRREGULARIDADE. LEGALIDADE DOS ÍNDICES DE JUROS PREVISTOS (TR E IPCA). PRAZO DE SUPERVISÃO JUDICIAL PRORROGADO ATÉ QUE FINDA A CARÊNCIA. DECISÃO MANTIDA. PRETENSÃO RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS COMO VIOLADOS. SÚMULA 211 DO STJ. INCIDÊNCIA. REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Para que se configure o prequestionamento da matéria, ainda que implícito, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal (Súm.211/STJ).
+2. O exame da pretensão recursal exigiria a alteração das premissas fático-probatórias estabelecidas pelo v. acórdão e a reinterpretação de cláusulas contratuais, o que é vedado em sede de recurso especial, nos termos dos enunciados das Súmulas 5 e 7 do STJ.
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1.641.123/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 30/4/2021).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE ÁGUA. CONDOMÍNIO. ILEGALIDADE DA COBRANÇA DA TARIFA MÍNIMA, MULTIPLICADA PELO NÚMERO DE ECONOMIAS. APONTADA OFENSA AO ART. 535 DO CPC/73. INEXISTÊNCIA. INCONFORMISMO. ALEGADA INFRINGÊNCIA AOS ARTS. 6º, IV E VI, 39, I, V E X E 51, IV E X, DO CDC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. ÚNICO HIDRÔMETRO. TARIFA PROGRESSIVA. CONSUMO TOTAL MEDIDO. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+(..)
+IV. Não tendo o acórdão hostilizado expendido juízo de valor sobre os arts. 6º, IV e VI, 39, I, V e X e 51, IV e X, do CDC, a pretensão recursal esbarra em vício formal intransponível, qual seja, o da ausência de prequestionamento - requisito viabilizador da abertura desta instância especial -, atraindo o óbice da Súmula 211/STJ.
+V. Segundo o entendimento do STJ, "em casos de condomínios, em que existe apenas um hidrômetro a auferir o consumo global de água, deve ser aplicada a tabela progressiva, proporcionalmente ao consumo total medido, a fim de que, quanto maior o consumo, maior a tarifa a ser suportada pelo condomínio, de acordo com o escalonamento preestabelecido" (STJ, AgRg no REsp 997.405/RJ, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 09/11/2009). No mesmo sentido: STJ, AgInt no REsp 1.745.659/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 16/09/2019; AgInt no AgInt no REsp 1.841.266/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 11/03/2021; EDcl no REsp 625.221/RJ, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJ 25/05/2006. No caso, o acórdão recorrido encontra-se em conformidade com o aludido entendimento.
+VI. Agravo interno improvido.
+(AgInt no AREsp 859.442/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 28/4/2021).
+O Tribunal de origem, soberano na análise do contexto fático-probatório produzido nos autos, assentou que os honorários advocatícios foram fixados pelo juiz de primeira instância, portanto não houve ofensa ao art. 85, § 1º, do CPC. In verbis:
+Quanto aos honorários advocatícios, verifico que foram fixados de forma razoável e proporcionalàs circunstâncias do caso concreto, dentro dos parâmetros legais, pelo que não deve havermodificação no valor dessa verba.
+Por último, saliento, quanto à revisão dos honorários advocatícios, que é importante destacar que a jurisprudência do STJ é firme no sentido de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração delineados na lei processual.
+Sua fixação é ato próprio dos juízos das instâncias ordinárias, o qual somente pode ser alterado em Recurso Especial quando se tratar de valor irrisório ou exorbitante, o que não se configura neste caso. Dessa forma, aplicar posicionamento distinto do proferido pelo aresto confrontado implicaria, necessariamente, reexame da matéria fático-probatória, o que é obstado a este Tribunal Superior, conforme determinado na Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+Diante do exposto, não conheço do Recurso Especial, com fulcro no art. 932 do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
