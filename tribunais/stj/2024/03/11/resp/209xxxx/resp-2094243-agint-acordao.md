@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 11/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IRREGULARIDADE NO PREPARO. DESERÇÃO. SÚMULA N. 187/STJ. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. Cuida-se de agravo de instrumento interposto contra decisão proferida nos autos de ação de execução de título extrajudicial, que converteu em penhora os valores bloqueados das contas bancárias de titularidade da agravante.
+2. Hipótese em que o recurso especial não foi conhecido em função da deserção.
+3. Nos termos da jurisprudência do STJ, é deserto o recurso especial na hipótese em que a parte recorrente, mesmo após intimada a regularizar o preparo, não o faz devidamente (art. 1.007, § 7º, do CPC).
+4. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de ser essencial à comprovação do preparo a juntada da Guia de Recolhimento da União (GRU), com o respectivo comprovante de pagamento, no ato da interposição do recurso especial, com o preenchimento correto do número de referência do processo, sob pena de deserção" (AgInt no AREsp n. 2.144.541/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 28/4/2023).
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por CLAUDIA MENKAITIS BRESSAN contra decisão monocrática de relatoria da Ministra Maria Thereza de Assis Moura, por meio da qual não conheceu do recurso especial em razão da Súmula n. 187/STJ (fls. 144-146).
+Extrai-se dos autos que o recurso especial não conhecido foi interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 81):
+AGRAVO DE INSTRUMENTO - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - BLOQUEIO DE VALOR ENCONTRADO EM CONTA BANCÁRIA DE TITULARIDADE DA AGRAVANTE - ALEGAÇÃO DE IMPENHORABILIDADE - NÃO COMPROVAÇÃO - extratos bancários juntados que indicam se tratar de conta poupança utilizada como conta corrente, dada a intensa movimentação, com saques e pagamentos de despesas cotidianas por meio de cartão de débito e diversas transferências eletrônicas via pix para terceiros inexistência, no caso, de finalidade precípua voltada à economia de numerário para enfrentamento das vicissitudes da existência espécie de aplicação não protegida da penhora inaplicabilidade do art. 833, X do CPC decisão mantida agravo desprovido.
+Sem embargos de declaração.
+Sustenta a parte agravante que (fl. 154):
+Insurge-se a agravante contra a aplicação da Súmula 187 do STJ, pois o que se verifica no presente caso foi a existência de erro material no recolhimento das custas processuais quando da intimação para recolhimento em dobro, haja vista que o número do processo no tribunal de origem seria "2020141-40.2022.8.26.0000" e o número preenchido na GRU para complemento das custas foi "20201414020220000", ou seja, nítido tratar-se de erro material, pois analisando a sequência numérica, esta é a mesma do processo do tribunal de origem, faltando somente os dígitos que indicam o órgão e o tribunal (8.26).
+Tal afirmação pode ser constatada ao observar que a primeira guia gerada está com o número preenchido corretamente, ou seja, infelizmente houve um erro de digitação, erro material que todos estão sujeitos, pois, apesar da consciência do dever de cuidado, infelizmente, seres humanos estão sujeitos a erros e falhas.
+A parte agravada, instada a manifestar-se, apresentou contrarrazões (fls. 184-189).
+É, no essencial, o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IRREGULARIDADE NO PREPARO. DESERÇÃO. SÚMULA N. 187/STJ. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. Cuida-se de agravo de instrumento interposto contra decisão proferida nos autos de ação de execução de título extrajudicial, que converteu em penhora os valores bloqueados das contas bancárias de titularidade da agravante.
+2. Hipótese em que o recurso especial não foi conhecido em função da deserção.
+3. Nos termos da jurisprudência do STJ, é deserto o recurso especial na hipótese em que a parte recorrente, mesmo após intimada a regularizar o preparo, não o faz devidamente (art. 1.007, § 7º, do CPC).
+4. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de ser essencial à comprovação do preparo a juntada da Guia de Recolhimento da União (GRU), com o respectivo comprovante de pagamento, no ato da interposição do recurso especial, com o preenchimento correto do número de referência do processo, sob pena de deserção" (AgInt no AREsp n. 2.144.541/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 28/4/2023).
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Em síntese, cuida-se de agravo de instrumento interposto por CLAUDIA MENKAITIS BRESSAN contra decisão proferida nos autos de ação de execução de título extrajudicial movida por MD EDUCACIONAL LTDA., que converteu em penhora os valores bloqueados das contas bancárias de titularidade da agravante.
+O Tribunal de origem negou provimento ao agravo de instrumento, por entender que não foi demonstrado que a manutenção do bloqueio tem potencial para violar sua subsistência (fls. 80-85), o que ensejou a interposição de recurso especial (fls. 87-93).
+A Presidência desta C orte não conheceu do recurso especial com fundamento na deserção, tendo em vista a irregularidade no recolhimento do preparo, nos termos da Súmula n. 187/STJ (fls. 144-146), ocasião em que foi interposto o presente agravo interno (fls. 150-181).
+A irresignação recursal não merece prosperar.
+A respeito da deficiência do preparo, a decisão agravada consignou o seguinte (fls. 144-145):
+Mediante análise do recurso de CLAUDIA MENKAITIS BRESSAN, a petição de recurso especial foi protocolada, na origem, sem o comprovante de pagamento das custas devidas ao STJ, apesar de presente a guia de recolhimento.
+Registre-se que o documento de fl. 103 não se trata de efetivo comprovante de pagamento apto a comprovar a quitação da obrigação da parte recorrente, uma vez que não contém a sequência numérica do código de barras.
+Este Superior Tribunal de Justiça consolidou o entendimento de que "a falta de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial e, portanto, sua deserção". (AgInt no AREsp 1449432/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/5/2020.)
+Essa exigência tem respaldo na necessidade de constar o número do código de barras e o do processo, viabilizando a comparação com aqueles lançados na GRU apresentada, para que não haja dúvida acerca da validade do documento e do seu efetivo recolhimento.
+Ademais, percebido, no Tribunal de origem, haver essa irregularidade no recolhimento do preparo, a parte foi intimada para regularizar o vício. Porém, apesar de sua manifestação, o preparo ainda restou irregular, tendo em vista um equívoco na fundamentação do despacho de regularização.
+Na verdade, não tendo a parte comprovado o recolhimento do preparo no ato de interposição do recurso, como ocorreu no caso, o Tribunal de origem deveria ter intimado a parte para efetuar o recolhimento em dobro, nos termos do art. 1.007, § 4º, do CPC.
+Sendo assim, foi percebido esse equívoco no STJ, que determinou nova intimação da parte nos termos do § 2º c/c o § 4º do art. 1.007 do Código de Processo Civil, para sanar, no prazo de cinco dias, o vício apontado, complementando o recolhimento das custas. Porém, a parte não regularizou.
+Na petição de fls. 137/141 verifica-se que o recolhimento das custas devidas ao STJ foi realizado em desacordo com o disposto na Resolução do STJ vigente à época da interposição do recurso, a qual dispõe que, nos processos recursais, o campo "Número do Processo que consta no Acórdão Recorrido" da GRU deverá ser preenchido com o número do processo no Tribunal de origem.
+No caso, a parte fez a indicação errônea desse número na guia de recolhimento das custas devidas ao STJ.
+Este Superior Tribunal de Justiça consolidou o entendimento no sentido de que a irregularidade no preenchimento das guias do preparo - consistente na indicação errônea do processo na origem -, no ato da interposição do recurso especial, caracteriza a sua deserção.
+Nesse sentido, os seguintes precedentes: AgInt no REsp 1587322/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 28/11/2019; AgInt no AREsp 916.926/MS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 21/11/2019; e AgInt no AREsp 1435121/PE, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 26/9/2019.
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Da análise dos autos, verifica-se que o preparo foi realizado de forma irregular, uma vez que a parte recorrente apresentou documento que não contém a sequência numérica do código de barras constante na guia de recolhimento (fl. 103).
+Nesse contexto, em observância ao que dispõe o art. 1.007 do CPC, o Tribunal de origem intimou a parte recorrente para juntar o comprovante completo ou recolher em dobro, no prazo de 5 dias, o valor das custas (fl. 116).
+No entanto, o preparo permaneceu irregular, e, em razão de um equívoco do anterior despacho de regularização, a Secretaria Judiciária desta Corte determinou nova intimação da parte recorrente, para que c omplementasse as custas na forma do art. 1.007, §§ 2º e 4º do CPC (fl. 133).
+Ocorre que a parte recorrente preencheu incorretamente o número do processo na GRU, caracterizando-se a sua deserção. Nesse sentido, cito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTIMAÇÃO PARA REGULARIZAÇÃO DO PREPARO. NÚMERO DO PROCESSO NA ORIGEM DIVERGENTE DA GRU. DESERÇÃO. SÚMULA N. 187/STJ.
+1. Nos termos da jurisprudência do STJ, é deserto o recurso especial na hipótese em que a parte recorrente, mesmo após intimada a regularizar o preparo, não o faz devidamente (art. 1.007, § 7º, do CPC).
+2. "A jurisprudência do Superior Tribunal de Justiça é firme no sentido de ser essencial à comprovação do preparo a juntada da Guia de Recolhimento da União (GRU), com o respectivo comprovante de pagamento, no ato da interposição do recurso especial, com o preenchimento correto do número de referência do processo, sob pena de deserção" (AgInt no AREsp n. 2.144.541/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 28/4/2023).
+Agravo interno improvido.
+(AgInt nos EDcl no AREsp n. 2.199.367/SP, de minha relatoria, Terceira Turma, julgado em 11/12/2023, DJe de 18/12/2023, grifo meu.)
+PROCESSUAL CIVIL. NA ORIGEM. ADMINISTRATIVO. RESSARCIMENTO AO SUS. PRESCRIÇÃO. PRAZO QUINQUENAL. ART. 1º DO DECRETO Nº 20.910/32. INAPLICABILIDADE DO ART. 206, § 3º, IV, E DO ART. 205, CAPUT, DO CÓDIGO CIVIL. MARCO INICIAL. REMESSA NECESSÁRIA E APELAÇÕES CONHECIDAS E DESPROVIDAS. NESTA CORTE NÃO SE CONHECEU DO RECURSO. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA QUE NÃO CONHECEU DO RECURSO.
+ ..
+II - Mediante análise do recurso de SAO FRANCISCO SISTEMAS DE SAUDE SOCIEDADE EMPRESARIA LIMITADA, o recolhimento das custas devidas ao STJ foi realizado em desacordo com o disposto na Resolução do STJ vigente à época da interposição do recurso, a qual dispõe que, nos processos recursais, o campo "Número do Processo que consta no Acórdão Recorrido" da GRU deverá ser preenchido com o número do processo no Tribunal de origem. No caso, a parte fez a indicação errônea desse número na guia de recolhimento das custas devidas ao STJ.
+III - Este Superior Tribunal de Justiça consolidou o entendimento no sentido de que a irregularidade no preenchimento das guias do preparo - consistente na indicação errônea do processo na origem -, no ato da interposição do recurso especial, caracteriza a sua deserção. Nesse sentido, os seguintes precedentes: AgInt no REsp 1587322/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 28/11/2019; AgInt no AREsp 916.926/MS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 21/11/2019; e AgInt no AREsp 1435121/PE, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 26/9/2019.
+IV - Ademais, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não regularizou, limitando-se a alegar que o preparo encontra-se regular (fls. 937/938). Porém, como narrado acima, o número da guia diverge do número do processo. Consta no processo o número 0009924-46.2012.4.02.5101, e na guia o número 00099244620124025100.
+V - Agravo interno improvido.
+(AgInt no AREsp n. 2.213.717/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 17/4/2023, DJe de 20/4/2023, grifo meu.)
+É firme a jurisprudência do STJ no sentido de que o preparo incorreto acarreta a deserção do recurso, não sendo cabível nova oportunidade de regularização.
+Dessarte, nada havendo a retificar ou esclarecer na decisão agravada, deve ela ser mantida.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
