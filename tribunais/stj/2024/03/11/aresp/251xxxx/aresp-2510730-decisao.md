@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a", da Constituição Federal de 1988) interposto de acórdão assim ementado (fls. 3.766-3.767, e-STJ):
+AGRAVO DE INSTRUMENTO. JUSTIÇA GRATUITA. PESSOA JURÍDICA. CONCESSÃO EXCEPCIONAL. REQUISITOS NÃO DEMONSTRADOS.- A concessão de gratuidade de justiça a pessoa jurídica é excepcional, devendo o requerente, para tanto, demonstrar sua situação de insuficiência financeira.- A agravante não demonstrou seu estado de hipossuficiência, pois trata-sede instituição consolidada e nada há indicando que o pagamento de despesas processuais inviabilizam seu funcionamento ou sequer o acesso à jurisdição. Não basta o apontamento de dificuldades financeiras para a concessão da gratuidade em favor depessoas jurídicas, notadamente documentos do período de 01/01/2017 a 31/12/2017).- Recurso desprovido.
+Fundação Armando Alvares Penteado sustenta (fls. 3.819-3.854, e-STJ):
+Isso porque, mesmo que assim o entendesse, o Tribunal a quo, antes de indeferir o pedido da ora recorrente, teria que ter oportunizado a apresentação de documentação que entendesse suficiente para comprovação do preenchimento dos referidos pressupostos, consoante previsão do parágrafo 2odo artigo 99, do diploma de normas processuais civis, abrindo prazo para tal complementação probatória e documental.
+(..)
+Por meio dos documentos que espontaneamente o recorrente trouxe aos autos, no qual repita-se, o Tribunal a quo expressamente reconheceu a existência de insuficiência de recursos financeiros, faz-se imperiosa a revaloração jurídica das premissas adotadas, no tocante a análise da condição de insuficiência de recursos apta a garantir o acesso do recorrente ao judiciário independentemente do recolhimento de custas ou taxas, tendo em vista que não foi observado o critério adotado pelo legislador pátrio como restará demonstrado a seguir.
+(..)
+O aresto recorrido reconheceu que a recorrente comprovou por meio de documentos com situação de debilidade financeira, que se quadra ao critério insuficiência de recursos financeiros, logo, reconheceu que a instituição estava passando por situação deficitária.
+(..)
+Na mesma toada, os fundamentos foram obscuros ao não apontar de forma clara e precisa, os motivos pelos quais os documentos complementares, trazidos na manifestação intercorrente de ID n. 71839092, relativamente aos exercícios de 2014 até 2017/2018, não seriam suficientes para caracterizar seu estado de hipossuficiência, ressaltando-se que a distribuição deste agravo de instrumento se deu em 28 de maio de 2019 e, a ação principal se deu em 5 de junho de 2017, veja-se:
+Decisão de inadmissibilidade à fls. 3.871-3.875, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 21.2.2024.
+A irresignação não prospera.
+Inicialmente constato que não se configura a ofensa ao art. 1.022 do Código de Processo Civil, pois o Colegiado originário julgou integralmente a lide e solucionou a controvérsia em conformidade com o que lhe foi apresentado.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 1.486.330/PR, Rel. Ministro Og Fernandes, Segunda Turma, DJe 24.2.2015; AgRg no AREsp 694.344/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 2.6.2015; e EDcl no AgRg nos EAREsp 436.467/SP, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe 27.5.2015.
+Dessarte, não se trata de omissão, mas sim de inconformismo direto com o resultado do julgamento, que foi contrário aos interesses da recorrente. Ressalte-se que o mero descontentamento com o conteúdo da decisão não enseja Embargos Declaratórios, recurso que se presta tão somente a sanar os vícios previstos no art. 1.022 do CPC/2015, decorrentes da ausência de análise dos temas trazidos à tutela jurisdicional no momento processual oportuno.
+Ademais, o Tribunal a quo consignou (fls. 3.760-3.762):
+No caso vertente, entendo que a agravante não demonstrou seu estado de hipossuficiência, pois trata-se de instituição consolidada e nada há indicando que o pagamento de despesas processuais inviabilizam seu funcionamento ou sequer o acesso à jurisdição. Não basta o apontamento de dificuldades financeiras para a concessão da gratuidade em favor de pessoas jurídicas, notadamente documentos do período de 01/01/2017 a 31/12/2017 - Id. 71839098).
+In casu, a Corte regional baseou seu entendimento nas provas carreadas aos autos para decidir sobre a questão da gratuidade. Assim, acolher a tese defendida pela parte, haja vista os fatos acima destacados, somente seria possível mediante novo exame do acervo fático-probatório da causa, o que atrai a incidência do óbice da Súmula 7/STJ.
+Diante do exposto, conheço do Agravo para conhecer parcialmente do Recurso Especial, somente quanto à afronta ao art. 1.022 do CPC, e, nessa parte, negar-lhe provimento.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração, em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, obs ervados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
