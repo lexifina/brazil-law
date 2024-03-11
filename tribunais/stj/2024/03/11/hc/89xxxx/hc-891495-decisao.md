@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de WELLINGTON PONCIANO MILANE BENTO apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1503572-96.2021.0536).
+Depreende-se dos autos que o Juízo de primeiro grau, ao proferir sentença, desclassificou a conduta pela qual o paciente foi denunciado, art. 33 da Lei n. 11.343/2006, para o tipo previsto no art. 28 do mesmo diploma.
+Irresignado, o Ministério Público interpôs apelação perante o Tribunal de origem, o qual deu provimento ao recurso para condenar o paciente, como incurso no art. 33 da Lei de Drogas, à pena de 5 anos e 10 meses de reclusão em regime inicial fechado, nos termos do aresto acostado às e-STJ fls. 313/326, sem ementa.
+Daí o presente writ, no qual alega a defesa que a paciente sofre constrangimento ilegal decorrente da não aplicação da redutora prevista no art. 33, § 4º, da Lei de Drogas, asseverando que foram integralmente preenchidos os requisitos para incidência da benesse em patamar máximo.
+Ressalta as condições pessoais favoráveis, bem como sustenta ser imperioso o abrandamento do regime inicial, sobretudo quando considerado que a sentença entendeu ser a paciente mera usuária de entorpecentes.
+Requer, assim, em liminar e no mérito, a aplicação da redutora em sua fração máxima e a fixação de regime inicial aberto.
+Liminar indeferida.
+Informações prestadas.
+Instado a se manifestar, o Ministério Público Federal opinou pela denegação da ordem.
+É o relatório.
+Decido.
+De acordo com o art. 33, § 4º, da Lei n. 11.343/2006, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja primário, portador de bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa.
+Digno de nota que, no julgamento do REsp n. 1.887.511/SP, de relatoria do Ministro João Otávio de Noronha, concluiu a Terceira Seção desta Casa que a quantidade de substância entorpecente e a sua natureza hão de ser consideradas na fixação da pena-base, nos termos do art. 42 da Lei n. 11.343/2006, não sendo, portanto, pressuposto para a incidência da causa especial de diminuição de pena descrita no art. 33, § 4º, da Lei n. 11.343/2006.
+Na espécie, acerca da dosimetria da pena, o Tribunal de origem decidiu nos seguintes termos (e-STJ fls. 323/324):
+No caso, embora o Apelado seja primário, comporta maior rigor a reprovação de sua conduta, em razão da quantidade da droga apreendida (repita-se: 03 tijolos de maconha, pesando cerca de 2,020 kg), o diferenciam de um traficante iniciante, afinal, não é qualquer pessoa que se disporia a transportar tamanha quantidade de droga, em uma "primeira vez", a demonstrar sua dedicação ao comércio espúrio, a inviabilizar a incidência do redutor.
+Deve ser fixado o regime inicial fechado, tendo em vista as circunstâncias em que o crime foi cometido, com apreensão de considerável quantidade de droga, que não autoriza a imposição de regime mais brando, revelando perigosidade incomum do Apelado.
+A condição econômica do Apelado, ante as provas produzidas, não autorizam pena pecuniária em valor acima do mínimo legal.
+Da leitura do trecho precedente, constata-se que a dedicação à atividade criminosa foi assentada basicamente na quantidade e na natureza da droga apreendida e em fundamentação genérica, que diz respeito aos próprios elementos do tipo penal do tráfico de drogas.
+No ponto, cabe a ponderação do Ministro Sebastião Reis Júnior, relator nos autos do HC n. 593.560/SP, que, em decisão monocrática em caso análogo, observou que "o paciente é primário, sem antecedentes e não houve nenhuma vetorial negativa. Além disso, a quantidade de drogas não se mostra excessiva para afastar o privilégio, além de que não poderem ser consideradas questões relativas a denúncias anônimas, ações penais em andamento, e a motivação do Magistrado sobre o armazenamento de entorpecentes ou local em que era guardado ou o fato de o paciente estar desempregado não são suficientes para afirmar que exista, de fato, dedicação ao tráfico ou que o paciente faça parte de alguma organização" (julgado em 24/3/2021, DJe 26/3/2021).
+Evidente, portanto, o constrangimento ilegal.
+Ademais, tenho que deve ser decotada a agravante de calamidade pública, pois o entendimento perfilhado no acórdão destoa da jurisprudência desta Corte, segundo a qual "a incidência da agravante da calamidade pública pressupõe a existência de situação concreta dando conta de que o paciente se prevaleceu da pandemia para a prática delitiva" (HC n. 625.645/SP, relator Ministro Felix Fischer, DJe 4/12/2020).
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. IRRESIGNAÇÃO MINISTERIAL. ROUBO SIMPLES. AGRAVANTE DO CRIME PRATICADO EM ESTADO DE CALAMIDADE PÚBLICA. NÃO DEMONSTRAÇÃO DE QUE O AGENTE SE PREVALECEU DESSA CIRCUNSTÂNCIA PARA A PRÁTICA DO DELITO. AGRAVANTE AFASTADA, COM A CONSEQUENTE REDUÇÃO DA PENA E ABRANDAMENTO DO REGIME INICIAL. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. A incidência da agravante da calamidade pública pressupõe a existência de situação concreta dando conta de que o paciente se prevaleceu da pandemia para a prática delitiva (HC 625.645/SP, Rel. Ministro FELIX FISCHER, DJe 04/12/2020). No mesmo sentido, dentre outros: HC 632.019/SP, Rel. Ministro FELIX FISCHER, DJe 10/2/2021; HC 629/981/SP, Rel. Ministro JOEL ILAN PACIORNIK, DJe 9/2/2021; HC 620.531/SP, Ministro SEBASTIÃO REIS JÚNIOR, DJe 3/2/2021.
+2. Hipótese em que a agravante prevista no art. 61, inciso II, alínea j, do Código Penal foi aplicada apenas pelo fato de o delito ter sido praticado na vigência do Decreto Estadual nº 64.879 e do Decreto Legislativo nº 06/2020, ambos de 20.03.2020, que reconhecem estado de calamidade pública no Estado de São Paulo em razão da pandemia da COVID-19, sem a demonstração de que o agente se aproveitou do estado de calamidade pública para praticar o crime em exame, o que ensejou o respectivo afastamento, com o redimensionamento da pena e o abrandamento do regime inicial.
+3. Agravo regimental não provido.
+(AgRg no HC n. 655.339/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 13/4/2021, DJe 19/4/2021.)
+Imperioso, pois, o ajuste da sanção aplicada ao delito de tráfico de drogas.
+Na primeira fase, mantenho a pena-base no mínimo legal - 5 anos de reclusão.
+Na segunda etapa, a sanção permanece inalterada.
+Na terceira fase, ausentes outras causas modificadoras, reduzo a pena em 1/3, nos termos do art. 33, § 4º, da Lei n. 11.343/2006, tornando a reprimenda definitiva em 3 anos e 4 meses de reclusão.
+No ponto, abro um parêntese para assinalar que, segundo os autos, foram apreendidos mais de 2kg (dois quilos) de maconha. Como tal vetorial não foi considerada quando da fixação da pena-base, justifica a modulação da causa especial de diminuição, com a incidência do redutor em patamar diferente do máximo.
+Ademais, no caso em análise, a elevada quantidade de entorpecentes apreendida justifica a fixação do regime mais gravoso do que aquele previsto para o quantum de pena aplicado.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. RECONSIDERAÇÃO. INADMISSÃO DO RECURSO ESPECIAL DEVIDAMENTE IMPUGNADA. TRÁFICO DE DROGAS. DOSIMETRIA. ART. 33, § 4º, DA LEI DE DROGAS. MULA. EXPRESSIVA QUANTIDADE DE DROGAS. APLICAÇÃO. POSSIBILIDADE. FRAÇÃO DE 1/6. ILEGALIDADE. OCORRÊNCIA. REDIMENSIONAMENTO. NECESSIDADE. AGRAVO PROVIDO.
+1. Haja vista que os fundamentos da decisão de inadmissão do recurso especial foram devidamente impugnados, o agravo deve ser conhecido.
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a condição de mula do tráfico, por si só, não afasta a incidência do art. 33, § 4º, da Lei 11.343/2006, podendo, contudo, autorizar a aplicação da minorante em 1/6.
+3. Tendo sido fixada a pena-base no mínimo legal, sem agravantes e atenuantes, a pena deve majorada em 1/6, em razão de o delito ter sido praticado dentro de transporte público, e reduzida em 1/6, pela aplicação da minorante do Tráfico privilegiado, reduzindo a reprimenda para 4 anos e 10 meses e 10 dias, além de 485 dias-multa.
+4. Considerada a fundamentação concreta trazida pelo Tribunal de origem, referente à grande quantidade de droga apreendida - 1 kg de cocaína -, deve ser fixado o regime imediatamente mais gravoso, o fechado.
+5. Não é cabível a substituição da pena privativa de liberdade por restritivas de direitos, haja vista o quantum da pena aplicada, nos termos do art. 44, inciso I, do Código Penal.
+6. Agravo regimental provido para fixar a pena da recorrente DEBORA SILVA PINTO em 4 anos, 10 meses e 10 dias de reclusão, em regime fechado, além do pagamento de 485 dias-multa.
+(AgRg no AREsp n. 1.711.745/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/11/2020, DJe 20/11/2020, grifei.)
+Por derradeiro, rememoro que, nos moldes da jurisprudência do Superior Tribunal de Justiça, a "circunstância concreta relacionada à quantidade, natureza e diversidade das drogas apreendidas, é motivação suficiente para impedir a substituição da pena privativa pelas restritivas de direitos" (AgRg no AREsp n. 1.060.222/MG, relator Ministro Jorge Mussi, Quinta Turma , julgado em 12/9/2017, DJe 20/9/2017).
+Este o quadro, concedo parcialmente a ordem para, nos termos acima deduzidos, reduzir a reprimenda para 3 anos e 4 meses de reclusão, a ser cumprida no regime inicial semiaberto, vedada a substituição da pena.
+Publique-se. Intimem-se.
+EMENTA
