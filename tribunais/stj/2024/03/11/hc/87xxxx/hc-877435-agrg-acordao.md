@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 11/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. INADEQUAÇÃO. INSURGÊNCIA CONTRA A PRISÃO EM FLAGRANTE POR GUARDAS MUNICIPAIS. SUPRESSÃO DE INSTÂNCIA. DESCLASSIFICAÇÃO. REEXAME FÁTICO-PROBATÓRIO. PEDIDO NÃO CONHECIDO. AGRAVO DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+2. A matéria relativa à suposta nulidade decorrente da atuação de Guardas Municipais não foi examinada pelo Colegiado estadual, nem mesmo pelo Juízo Sentenciante, já que não foi sequer aventada em alegações finais ou nas razões do recurso de apelação. Desse modo, sob pena de indevida supressão de instância, não pode esta Corte se manifestar originariamente sobre o tema.
+3. Para se apreciar a tese de desclassificação para a conduta prevista no art. 28, da Lei de Drogas, seria necessário proceder ao revolvimento das provas e fatos que instruem o caderno processual, incabível no habeas corpus.
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por NIVALDO ROGÉRIO ZANCAN contra decisão de minha lavra, na qual indeferi liminarmente a petição inicial, nos termos da seguinte ementa (fl. 124):
+"HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. INADEQUAÇÃO. INSURGÊNCIA CONTRA A PRISÃO EM FLAGRANTE POR GUARDAS MUNICIPAIS. SUPRESSÃO DE INSTÂNCIA. DESCLASSIFICAÇÃO. REEXAME FÁTICO-PROBATÓRIO. PEDIDO NÃO CONHECIDO."
+Consta nos autos que o Paciente, ora Agravante, foi condenado às penas de 6 (seis) anos, 9 (nove) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, e 680 (seiscentos e oitenta) dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006, por vender e trazer consigo, para o fim de consumo de terceiros, 8 pedras de crack (1,7g - fl. 22).
+A Defesa interpôs recurso de apelação, que foi desprovido pelo Tribunal de origem.
+No writ, o Impetrante alegou nulidade das provas que ampararam a condenação, porque Guardas Municipais teriam ingressado na residência do Réu após patrulhamento ostensivo. Ainda, sustentou a desclassificação da condenação para o delito previsto no art. 28, da Lei n. 11.343/2006.
+As informações foram prestadas, indicando-se o trânsito em julgado da condenação (fls. 75-76).
+O Ministério Público Federal opinou pelo "não conhecimento do writ e a concessão de habeas corpus, de ofício, para reconhecer as ilicitudes das provas, oriundas de atividade ilegal dos guardas municipais e dela derivadas e, por conseguinte, absolver o paciente" (fl. 121).
+Na decisão de fls. 124-127, não conheci do pedido de habeas corpus.
+Daí o presente recurso, no qual o Agravante afirma ser "amplamente aceitável por esta Egrégia Turma a impetração do writ como substituto de Revisão Criminal, sobretudo quando se tratar de manifesto constrangimento ilegal, o que é o caso dos autos." (fl. 137).
+Requer a retratação da decisão agravada ou a submissão do feito ao órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. INADEQUAÇÃO. INSURGÊNCIA CONTRA A PRISÃO EM FLAGRANTE POR GUARDAS MUNICIPAIS. SUPRESSÃO DE INSTÂNCIA. DESCLASSIFICAÇÃO. REEXAME FÁTICO-PROBATÓRIO. PEDIDO NÃO CONHECIDO. AGRAVO DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+2. A matéria relativa à suposta nulidade decorrente da atuação de Guardas Municipais não foi examinada pelo Colegiado estadual, nem mesmo pelo Juízo Sentenciante, já que não foi sequer aventada em alegações finais ou nas razões do recurso de apelação. Desse modo, sob pena de indevida supressão de instância, não pode esta Corte se manifestar originariamente sobre o tema.
+3. Para se apreciar a tese de desclassificação para a conduta prevista no art. 28, da Lei de Drogas, seria necessário proceder ao revolvimento das provas e fatos que instruem o caderno processual, incabível no habeas corpus.
+4. Agravo regimental desprovido.
+VOTO
+A irresignação não prospera.
+Conforme relatei acima, o acórdão impugnado já transitou em julgado. Diante  dessa  situação,  o  writ  não  deve  ser  conhecido,  pois  foi  manejado  como  substitutivo  de  revisão  criminal,  em  hipótese  na  qual  não  houve  inauguração  da  competência  desta  Corte.
+De  fato,  nos  termos  do  art.  105,  inciso  I,  alínea  e,  da  Constituição  da  República,  compete  ao  Superior  Tribunal  de  Justiça,  originariamente,  "as  revisões  criminais  e  as  ações  rescisórias  de  seus  julgados".
+Sobre  a  questão,  cito  os  seguintes  precedentes  das  Turmas  que  compõem  a  Terceira  Seção  desta  Corte:
+"AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  FURTO  QUALIFICADO.  INSURGÊNCIA  CONTRA  ACÓRDÃO  TRANSITADO  EM  JULGADO.  MANEJO  DO  WRIT  COMO  REVISÃO  CRIMINAL.  INADEQUAÇÃO.  ILEGALIDADE  FLAGRANTE  NÃO  EVIDENCIADA.  REPRIMENDA  INFERIOR  A  QUATRO  ANOS.  PENA-BASE  FIXADA  EM  PATAMAR  SUPERIOR  AO  MÍNIMO  LEGAL.  CIRCUNSTÂNCIA  JUDICIAL  DESFAVORÁVEL.  INAPLICABILIDADE  DA  SÚMULA  N.  440  DESTA  CORTE,  IN  CASU.  REGIME  MAIS  GRAVOSO.  POSSIBILIDADE.  PRECEDENTES  DAS  CORTES  DE  VÉRTICE.  SUBSTITUIÇÃO  DA  SANÇÃO  RECLUSIVA  POR  PENAS  RESTRITIVAS  DE  DIREITOS.  PEDIDO  NÃO  FUNDAMENTADO.  PRETENSÃO,  ADEMAIS,  QUE  NÃO  SE  MOSTRA  CABÍVEL.  PETIÇÃO  INICIAL  LIMINARMENTE  INDEFERIDA.  AGRAVO  REGIMENTAL  DESPROVIDO.
+1.  Não  deve  ser  conhecido  o  writ  que  se  volta  contra  acórdão  condenatório  já  transitado  em  julgado,  manejado  como  substitutivo  de  revisão  criminal,  em  hipótese  na  qual  não  houve  inauguração  da  competência  desta  Corte.  Precedentes  de  ambas  as  Turmas  que  compõem  a  Terceira  Seção  deste  Sodalício.
+2.  Embora  o  art.  654  §  2.º,  do  Código  de  Processo  Penal,  preveja  a  possibilidade  da  concessão  de  habeas  corpus,  de  ofício,  " t al  providência  não  se  presta  como  meio  para  que  a  Defesa  obtenha  pronunciamento  judicial  sobre  o  mérito  de  pedido  deduzido  em  via  de  impugnação  que  não  ultrapassou  os  requisitos  de  admissibilidade"  (STJ,  AgRg  no  HC  n.  702.446/SC,  Rel.  Ministra  LAURITA  VAZ,  SEXTA  TURMA,  julgado  em  15/03/2022,  DJe  22/03/2022).
+ ..
+6.  Agravo  regimental  desprovido."  (AgRg  no  HC  n.  815.143/SP,  relatora  Ministra  LAURITA  VAZ,  Sexta  Turma,  julgado  em  29/05/2023,  DJe  05/06/2023;  sem  grifos  no  original.)
+"PROCESSO  PENAL.  AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  TRÁFICO  DE  DROGAS.  REVISÃO  CRIMINAL.  ACÓRDÃO  TRANSITADO  EM  JULGADO.  USURPAÇÃO  DE  COMPETÊNCIA.  VIOLAÇÃO  DO  ART.  3º-A  DO  CPP.  EFICÁCIA  SUSPENSA  PELO  STF  NA  ADI  6299  MC/DF.  NULIDADE.  INTERROGATÓRIO.  PREJUÍZO  NÃO  DEMOSTRADO.  PRECLUSÃO  CONSUMATIVA.  AGRAVO  DESPROVIDO.
+1.  O  acórdão  impugnado  transitou  em  julgado,  razão  pela  qual  a  utilização  do  presente  habeas  corpus  com  o  fim  de  se  desconstituir  as  decisões  proferidas  pelas  instâncias  ordinárias  consubstancia  pretensão  revisional  que  configura  usurpação  da  competência  do  Tribunal  de  origem,  nos  termos  dos  arts.  105,  inciso  I,  alínea  "e",  e  108,  inciso  I,  alínea  "b",  ambos  da  Constituição  da  República
+ .. .
+6.  Agravo  regimental  desprovido."  (AgRg  no  HC  n.  799.522/SC,  relator  Ministro  RIBEIRO  DANTAS,  Quinta  Turma,  julgado  em  08/05/2023,  DJe  12/05/2023;  sem  grifos  no  original.)
+No  mesmo  sentido,  ilustrativamente,  as  seguintes  decisões  monocráticas:  HC  512.674/CE,  Rel.  Ministro  SEBASTIÃO  REIS  JÚNIOR,  DJe  30/05/2019;  HC  482.877/SP,  Rel.  Ministro  JORGE  MUSSI,  DJe  29/03/2019;  HC  675.658/PR,  Ministro  RIBEIRO  DANTAS,  DJe  04/08/2021;  HC  677.684/SP,  Ministro  ANTONIO  SALDANHA  PALHEIRO,  02/08/2021;  e  HC  611.093/RJ,  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  04/08/2021.
+Igual  compreensão  é  encontrada  na  jurisprudência  do  Supremo  Tribunal  Federal:
+"AGRAVO  INTERNO  NO  HABEAS  CORPUS.  PENAL  E  PROCESSUAL  PENAL.  ..  INADMISSIBILIDADE  NA  VIA  ELEITA.  IMPOSSIBILIDADE  DE  UTILIZAÇÃO  DO  HABEAS  CORPUS  COMO  SUCEDÂNEO  DE  RECURSO  OU  REVISÃO  CRIMINAL.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA.  INOVAÇÃO  RECURSAL.  REITERAÇÃO  DAS  RAZÕES.  AGRAVO  INTERNO  DESPROVIDO.
+ ..
+5.  O  writ  é  impassível  de  ser  manejado  como  sucedâneo  de  recurso  ou  revisão  criminal.
+ ..
+9.  Agravo  interno  DESPROVIDO."  (HC  222003  AgR,  Relator  LUIZ  FUX,  Primeira  Turma,  julgado  em  05/12/2022,  PROCESSO  ELETRÔNICO  DJe-254  DIVULG  13/12/2022  PUBLIC  14/12/2022;  sem  grifos  no  original.)
+"AGRAVO  INTERNO  EM  HABEAS  CORPUS.  DECISÃO  CONDENATÓRIA  TRANSITADA  EM  JULGADO.  UTILIZAÇÃO  DO  HABEAS  CORPUS  COMO  SUCEDÂNEO  DE  REVISÃO  CRIMINAL.  AUSÊNCIA  DE  ILEGALIDADE  EVIDENTE.  HABEAS  CORPUS  NÃO  CONHECIDO.
+1.  O  Supremo  consagrou  sua  jurisprudência  pela  inviabilidade  da  ação  de  habeas  corpus  como  sucedâneo  de  revisão  criminal.
+ ..
+4.  Agravo  interno  desprovido."  (HC  220361  AgR,  Relator  NUNES  MARQUES,  Segunda  Turma,  julgado  em  28/11/2022,  PROCESSO  ELETRÔNICO  DJe-001  DIVULG  09/01/2023  PUBLIC  10/01/2023;  sem  grifos  no  original.)
+De qualquer forma, não há como reconhecer a presença de manifesta ilegalidade a ensejar a concessão da ordem.
+Como já dito na decisão agravada, da análise do acórdão impugnado, verifico que a alegada nulidade decorrente da atuação de Guardas Municipais não foi examinada pelo Colegiado estadual, nem mesmo pelo Juízo Sentenciante, já que não foi sequer aventada em alegações finais (fl. 23) ou nas razões do recurso de apelação (fl. 17). Desse modo, sob pena de indevida supressão de instância, não pode esta Corte se manifestar originariamente sobre o tema.
+Frise-se que, consoante jurisprudência deste Tribunal, "até mesmo matéria de ordem pública pressupõe seu prévio exame, na origem, para que possa ser analisada por esta Corte" (AgRg no HC n. 643.018/ES, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 14/06/2022, DJe 21/06/2022; sem grifos no original). No mesmo diapasão: AgRg no HC n. 721.270/MS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 08/03/2022, DJe 16/03/2022; AgRg no HC n. 680.616/ES, Rel. Ministro OLINDO MENEZES - Desembargador Convocado do TRF/1.ª Região -, SEXTA TURMA, julgado em 23/11/2021, DJe 29/11/2021, e AgRg no RHC n. 163.808/ES, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 10/05/2022, DJe 12/05/2022).
+Com efeito, " e sta Corte Superior de Justiça já se manifestou no sentido de que, mesmo eventual nulidade absoluta, não pode ser declarada em supressão de instância" (AgRg no HC n. 702.124/SC, relator Ministro MESSOD AZULAY NETO, Quinta Turma, julgado em 07/02/2023, DJe 14/02/2023).
+No mais, para se acolher a tese de desclassificação para a conduta prevista no art. 28, da Lei de Drogas, seria necessário proceder ao revolvimento das provas e fatos que instruem o caderno processual, incabível no habeas corpus.
+Assim, na ausência de argumento relevante que infirme as razões consideradas no julgado ora agravado, deve ser mantida a decisão que não conheceu do pedido de habeas corpus por seus próprios fundamentos.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É o voto.
