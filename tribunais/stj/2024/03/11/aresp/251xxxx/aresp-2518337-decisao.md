@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo apresentado por MANO SINALIZACAO COMERCIO E SERVICOS LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AÇÃO REGRESSIVA - PRETENSÃO DA COMPANHIA DE EN- GENHARIA DE TRÁFEGO DE SÃO PAULO AO RESSARCIMENTO DE VA- LORES PAGOS DECORRENTES DE CONDENAÇÃO SUBSIDIÁRIA EM AÇÃO TRABALHISTA  PRESCRIÇÃO QÜINQÜENAL DA COBRANÇA DO VALOR DESPENDIDO - ART. IO DO DECRETO Nº 20.910/32 - INCONVERSO O FATO DA CONDENAÇÃO - DIREITO DE REGRESSO VERIFICADO  SENTENÇA DE PROCEDÊNCIA MANTIDA  RECURSO DE APELAÇÃO DESPROVIDO (fl. 216).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 206, § 3º, do Código Civil , no que concerne à necessidade de se aplicar o prazo prescricional de três anos previsto no referido dispositivo, com a incidência da prescrição da pretensão da parte recorrida, sob o fundamento de que o art. 10 do Decreto n. 20.910/32 ordena a aplicação de prazos menores existentes no ordenamento jurídico. Aduz a seguinte argumentação:
+Com toda vênia, e acato, os fundamentos do acórdão estão totalmente equivocados. Tal decisão, todavia, merece reforma, pelas razões adiante expostas.
+Em sede de apelação a apelante se insurgiu contra o comando da sentença alegando em síntese que no capítulo da sentença que versa sobre a prescrição não poderia prevalecer.
+E que o dispositivo legal invocado pelo relator (Decreto nº 20.910/1932) para não acolher a prescrição. Entretanto, este mesmo dispositivo legal em seu artigo 10 permite aplicação dos prazos prescricionais menores em relação as pretensões reparatórias da Fazenda Pública, ou seja, o prazo prescricional é de três anos.
+Assim, deveria ser aplicada a regra prevista no artigo 206 parágrafo 3º inciso V do Código Civil.
+ ..
+Analisando a decisão do Relator se pode verificar que sua decisão contrariou o artigo que prevê aplicação da prescrição de três anos prevista expressamente no artigo 206, parágrafo 3º inciso V.
+Tal entendimento com toda vênia está equivocado. Desta forma se faz necessário refutar o argumento que estribou a decisão do Relator em aplicar o prazo prescricional de cinco anos.
+Notadamente, pois compulsando os autos se pode verificar que no acordão o Relator repetiu o argumento utilizado pelo juiz de piso, ou seja, as regras do Decreto nº 20.910/32 aplicando também no acórdão o prazo prescricional de cinco anos.
+Entretanto, tal decisão não levou em consideração que o próprio decreto nº 20.910/32 expressamente ORDENA A APLICAÇÃO DE PRAZOS MENORES ACASO EXISTENTES NO ORDENAMENTO JURÍDICO.
+ ..
+Da redação do dispositivo legal é clara em prever as PRESCRIÇÕES DE MENOR PRAZO, portanto, equivocada a aplicação do prazo prescricional de cinco anos como foi definido no acórdão.
+Tal decisão contida no acordão contrariou expressamente o contido na legislação federal prevista no artigo 206, parágrafo 3º inciso V do Código Civil. Diante do exposto, não pode prevalecer tal intepretação.
+Sendo legitima a incidência e aplicação do prazo prescricional de três anos que fulmina pretensão indenizatória da recorrida. Uma vez que este artigo é claro em prever o prazo prescricional de três anos. Regra esta que não foi observada no acordão pelo Douto Relator.
+A apreciação pelo relator de tal fato notório nos autos implicaria na extinção do processo no que se refere ao capítulo de sentença que versa sobre a prescrição.
+Entretanto, o que se pode ver nos autos é que tal importante dispositivo legal artigo 206 parágrafo 3º, Inciso V do Código Civil foi CONTRARIADO na análise da lide.
+Assim, se faz necessário a manifestação deste Tribunal a fim de corrigir e aplicação da legislação federal acima invocada, corrigindo a decisão e determinado a aplicação da prescrição prevista no artigo 206 parágrafo 3º, Inciso V do Código Civil (fls. 223- 228).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020; AgRg no AREsp n. 2.022.133/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
