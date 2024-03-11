@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 11/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSELHO REGIONAL DE EDUCAÇÃO FÍSICA DA 2ª REGIÃO. ANUIDADES. FATO GERADOR. REGISTRO VERSUS EXERCÍCIO PROFISSIONAL. ART. 5º DA LEI 12.514/11. COBRANÇA REFERENTE A PERÍODO POSTERIOR.
+1. Tendo sido o recurso interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+2. O acórdão recorrido está em confronto com a jurisprudência do STJ, que firmou-se no sentido de que a partir da vigência da Lei 12.514/2011, o fato gerador das anuidades aos conselhos profissionais é o simples registro no Conselho, e não o efetivo exercício profissional, como se considerava antes da edição da referida lei.
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se agravo interno interposto por FABIANA MARIA CARNIEL E OUTRA contra decisão, às fls. 240-242, assim ementada:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. CONSELHO REGIONAL DE EDUCAÇÃO FÍSICA DA 2ª REGIÃO. ANUIDADES. FATO GERADOR. REGISTRO VERSUS EXERCÍCIO PROFISSIONAL. ART. 5º DA LEI 12.514/11. COBRANÇA REFERENTE A PERÍODO POSTERIOR. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+A parte agravante afirma, em suma, à fl. 252, que o reconhecimento da legalidade da cobrança das anuidades referentes aos anos de 2014 a 2017, enseja OBRIGATORIAMENTE na análise das provas anexadas ao longo da instrução processual, o que não se admite em sede de Recurso Especial.
+Impugnação às fls. 258-263.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSELHO REGIONAL DE EDUCAÇÃO FÍSICA DA 2ª REGIÃO. ANUIDADES. FATO GERADOR. REGISTRO VERSUS EXERCÍCIO PROFISSIONAL. ART. 5º DA LEI 12.514/11. COBRANÇA REFERENTE A PERÍODO POSTERIOR.
+1. Tendo sido o recurso interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+2. O acórdão recorrido está em confronto com a jurisprudência do STJ, que firmou-se no sentido de que a partir da vigência da Lei 12.514/2011, o fato gerador das anuidades aos conselhos profissionais é o simples registro no Conselho, e não o efetivo exercício profissional, como se considerava antes da edição da referida lei.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+Observa-se q ue o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Ressalta-se que a simples declaração de legalidade de cobrança das anuidades referentes aos anos de 2014 a 2017 não demanda o revolvimento fático probatório, não havendo que se falar em incidência, ao ponto, da Súmula 7/STJ.
+Com efeito, o acórdão recorrido está em confronto com a jurisprudência do STJ, que firmou-se no sentido de que a partir da vigência da Lei 12.514/2011, o fato gerador das anuidades aos conselhos profissionais é o simples registro no Conselho, e não o efetivo exercício profissional, como se considerava antes da edição da referida lei.
+Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONSELHO DE FISCALIZAÇÃO PROFISSIONAL. COBRANÇA DE ANUIDADES. FATO GERADOR POSTERIOR À LEI 12.514/2011. INSCRIÇÃO NO REGISTRO INDEPENDENTE DO EXERCÍCIO PROFISSIONAL. AGRAVO INTERNO DA COTECE S. A. A QUE SE NEGA PROVIMENTO.
+1. Esta Corte entende que, antes da vigência da Lei 12.514/2011, o fato gerador da obrigação tributária era o exercício profissional e não o simples registro no Conselho profissional. A contrário sensu, obviamente, posteriormente à inovação legislativa, o que se leva em conta é o registro profissional. Precedente: AgInt no REsp 1.615.612/SC, Rel. Min. OG FERNANDES, DJe 15.3.2017.
+2. In casu, o registro da empresa no Conselho Regional de Medicina do Estado do Ceará - CREMEC ocorreu em 25.11.2011, em data posterior, portanto, à referida lei que passou a ter como fato gerador a simples inscrição.
+3. Agravo Interno da COTECE S. A. a que se nega provimento.
+(AgInt no REsp 1510845/CE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 27/02/2018, DJe 14/03/2018, com grifo.)
+PROCESSUAL CIVIL. TRIBUTÁRIO. DÍVIDA ATIVA. CONSELHO PROFISSIONAL. EXECUÇÃO FISCAL. ANUIDADES. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL VIOLADO. DIVERGÊNCIA NÃO COMPROVADA. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ.
+I - O presente feito decorre de exceção de pré-executividade oposta por Alimentos Dom Bruno Ltda., nos autos da execução fiscal que lhe move o Conselho Regional de Química da 13ª Região do Estado de Santa Catarina, objetivando o afastamento da cobrança de crédito consubstanciado pela Certidão de Dívida Ativa n. 143/16. À causa foi arbitrado o valor de R$ 8.167,55 (oito mil, cento e sessenta e sete reais e cinquenta e cinco centavos). Na sentença foi acolhida a exceção para extinguir a execução fiscal. No Tribunal Regional Federal da 4ª Região, a sentença foi reformada.
+II - Preliminarmente, deve-se ressaltar que a competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal. Nesse contexto, apresenta-se impositiva a indicação do dispositivo legal que teria sido contrariado pelo Tribunal a quo, sendo necessária a delimitação da violação do tema insculpido no regramento indicado, viabilizando assim o necessário confronto interpretativo e o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame.
+III - Da mesma forma, fica inviabilizado o confronto interpretativo acima referido quando o recorrente, apesar de indicar dispositivos infraconstitucionais como violados, deixa de demonstrar como tais dispositivos foram ofendidos.
+IV - Verificado que o recorrente deixou de explicitar os motivos pelos quais consideraria violados os arts. 26, 27 e 28 da Lei n. 2.800/56, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF.
+V - Não obstante, em relação aos demais dispositivos legais indicados, verifica-se assistir razão ao recorrente. A questão posta em apreciação, diferentemente do que entendeu a Corte de origem, não é a obrigatoriedade de inscrição da empresa recorrida nos quadros do Conselho Regional de Química e a consequente contratação de responsável técnico profissional, o que demandaria a análise de sua atividade básica, com base no art. 1º da Lei n. 6.839/80. Nesse aspecto, vale relembrar o quanto assentado pelo Tribunal a quo, à fl. 203, no sentido de que a empresa recorrida efetuou de maneira espontânea o seu registro no Conselho Regional de Química da 13ª Região.
+VI - Analisa-se, nestes autos, se o fato gerador das anuidades dos conselhos profissionais é a atividade básica exercida pelas empresas, ou o seu registro válido nessas autarquias federais. Nesse sentido, esta Corte possui o consolidado entendimento de que, a partir da vigência da Lei n. 12.514/2011, o fato gerador de tais tributos é o simples registro no Conselho, e não o efetivo exercício profissional, como se considerava antes da edição da referida lei. Nesse sentido, destaco os seguintes precedentes: AgInt no REsp n. 1.510.845/CE, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 27/2/2018, DJe 14/3/2018; AgInt no REsp n. 1.615.612/SC, Rel. Ministro Og Fernandes, Segunda Turma, Julgado em 9/3/2017, DJe 15/3/2017.
+VII - Desse modo, no caso sub judice, pouco importa se a atividade básica da empresa vincula-se ou não ao ramo químico, pois é fato incontroverso de que se inscreveu de maneira voluntária no conselho recorrente.
+VIII - Considerando que a certidão de dívida ativa que embasa a execução fiscal em comento (fl. 5) refere-se a débitos oriundos de anuidades vencidas em data posterior à vigência da Lei n. 12.514/2011, não há como se afastar a sua exigibilidade.
+IX - Agravo interno improvido.
+(AgInt nos EDcl nos EDcl no AREsp 1298516/SC, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 09/04/2019, DJe 12/04/2019, com grifo)
+Assim, não merece reforma a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
