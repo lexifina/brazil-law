@@ -1,0 +1,81 @@
+DECISÃO:
+
+Ementa: Direito processual. Suspensão de liminar. Indeferimento de atribuição de efeito suspensivo a apelação. Incompetência do STF.
+
+1. Pedido de suspensão de decisão que indeferiu requerimento de atribuição de efeito suspensivo a recurso de apelação interposto contra sentença que confirmara liminar anteriormente concedida (art. 1.012, § 1º, V, do CPC).
+
+2. De acordo com o art. 4º da Lei nº 8.437/1992, o pedido de suspensão deve ser dirigido à Presidência do Tribunal competente para julgar recurso contra a decisão que se pretende suspender.
+
+3. A situação jurídica do requerente não se alteraria caso fossem suspensos os efeitos da decisão impugnada, já que a liminar deferida pelo juízo de primeiro grau, confirmada em sentença, continuaria em vigor. Na verdade, o pedido de suspensão se dirige à decisão que concedeu a tutela provisória, a qual, contudo, não pode ser impugnada por recurso extraordinário (art. 102, III, da Constituição).
+
+4. Pedido não conhecido. Remessa dos autos à Presidência do Tribunal de Justiça do Estado do Maranhão.
+
+    1. Trata-se de suspensão de liminar proposta pelo Município de Turiaçu/MA, que impugna decisão proferida pelo Tribunal de Justiça local que indeferiu requerimento de atribuição de efeito suspensivo a recurso de apelação interposto contra sentença que confirmara liminar anteriormente concedida (art. 1.012, § 1º, V, do CPC).
+
+    2. Na origem, a Câmara Legislativa Municipal ajuizou ação de obrigação de fazer, com pedido liminar, em face do ente municipal, pleiteando a complementação do repasse dos duodécimos, sob a alegação de que teria recebido quantia menor do que a prevista na lei orçamentária anual. O Juízo de Direito da Vara Única da Comarca de Turiaçu deferiu parcialmente a liminar, para determinar que fosse assegurado, a partir do mês de abril/2023, o repasse do duodécimo no valor de R$ 270.060,66 (duzentos e setenta mil e sessenta reais e sessenta e seis centavos), sob pena de multa diária de R$ 5.000,00 (cinco mil reais), até o limite de R$ 100.000,00 (cem mil reais), sem prejuízo da determinação de bloqueio das verbas públicas necessárias para o cumprimento da medida.
+
+    3. Segundo registra a sentença, os efeitos dessa medida cautelar chegaram a ser suspensos pelo Tribunal de Justiça do Estado do Maranhão nos autos do agravo de instrumento nº 0808900-80.2023.8.10.0000, mas foram retomados após o julgamento do mérito do recurso. A mesma decisão foi objeto da suspensão de liminar nº 0817124-07.2023.8.10.0000, não conhecida pelo Tribunal local. Há, ainda, a informação de que a Câmara Municipal formulou a Representação nº 291/2023, no âmbito da qual o Tribunal de Contas do Estado do Maranhão deferiu medida cautelar, para determinar o restabelecimento do repasse mensal no valor devido e o pagamento da diferença desde o mês de janeiro.
+
+    4. Na sentença, o pedido foi julgado parcialmente procedente, confirmando-se a antecipação dos efeitos da tutela deferida anteriormente. Transcrevo o dispositivo da decisão (doc. 5):
+
+    Diante de tudo que consta nos autos e nesta sentença, com base no art. 487, inciso I, do CPC, JULGO PARCIALMENTE PROCEDENTE O MÉRITO, para determinar que o Poder Executivo Municipal de Turiaçu/MA, por meio do Chefe do Poder Executivo, em exercício, Edésio João Cavalcanti, sem prejuízo de ser determinado todas as medidas necessárias para o cumprimento e lhe sendo advertido das possíveis responsabilidades legais advindas do descumprimento da presente decisão judicial, inclusive crime de desobediência, cumpra o que segue:
+
+    a) restabeleça o repasse do duodécimo no valor devido ao Ente Legislativo Municipal de Turiaçu/MA, em obediência aos limites constitucionais dispostos no art. 29-A, inciso I, e §2º, incisos I, II e III c/c art. 168, da Constituição Federal, em cumprimento ainda à Lei Orçamentária Anual (Lei Municipal nº 793/2022), à Lei de Diretrizes Orçamentárias (Lei Municipal nº 785/2022), e à Lei Complementar nº 101/2000, no valor correspondente à R$ 263.430,52 (duzentos e sessenta e três mil, quatrocentos e trinta reais e cinquenta e dois centavos), até o fim do exercício financeiro do ano de 2023, por meio de transferência bancária diretamente para a conta de titularidade da Câmara Municipal de Turiaçu/MA, CNPJ: 23.601.859/0001-51, Agência: 1529-6, Conta: 1048-0, Banco Bradesco;
+
+    b) realize o repasse integral das diferenças dos repasses dos duodécimos devidos ao Ente Legislativo Municipal, referentes aos meses de janeiro, fevereiro, março, abril, maio, junho, abril, maio, junho, julho, agosto, setembro, novembro deste exercício financeiro de 2023, no montante correspondente a R$ 1.284.305,20 (um milhão, duzentos e oitenta e quatro mil, trezentos e cinco reais e vinte centavos).
+
+    Em relação aos efeitos da decisão liminar exarada por este Juízo, nos autos em epígrafe, juntada no Id nº 88464104, verifico da análise do conjunto probatório, que os requeridos apesar de não contestarem nesta ação originária, opuseram recursos ao Juízo ad quem para sustar os efeitos da decisão liminar, e, mesmo quando os efeitos da liminar foram retomados, permanecem, até o presente momento, sem proceder com o cumprimento integral da liminar, o que demonstra uma certa inclinação da parte requerida a se opor a cumprir a demanda em questão.
+
+    Além disso, no presente momento, encontra-se evidentemente presente o periculum in mora, decorrente da aproximação tanto da próxima data limite de repasse de duodécimo, 20 de dezembro de 2023, conforme o art. 168 da Constituição Federal, como se aproxima o encerramento do presente exercício financeiro, que ocorrerá em 31 de dezembro de 2023, não havendo, portanto, razão para o Poder Executivo de Turiaçu/MA reter nos cofres públicos repasse devido a título de duodécimos do presente exercício financeiro, já dotado no orçamento da Lei Orçamentária Anual e na Lei de Diretrizes Orçamentárias, cuja periodicidade é anual, como mencionado no início, para realizar o repasse em outro exercício financeiro, como inscrição em restos a pagar.
+
+    Ademais, a parte autora ainda demonstra exaustivamente nos autos a urgência no recebimento do repasse de duodécimo, como por exemplo vislumbra-se no Laudo de Inspeção juntado em Id nº 105375756, o qual foi constado por profissional especializado, a necessidade de reforma no prédio da Poder Legislativo Municipal, assim como em razão da ausência de recolhimento da contribuição do INSS Patronal devido por parte deste Ente Legislativo Municipal, inclusive fato de conhecimento também do Chefe do Poder Executivo Municipal, que subscreveu o Ofício nº 156/2023 (Id nº 105375738).
+
+    Por todas essas considerações, diante da suficiente probabilidade do direito da parte autora e do evidente perigo de dano, torna-se inequívoco o risco de dano irreparável à Câmara Municipal de Turiaçu/MA, caso haja demora no repasse dos montantes de duodécimo determinados na presente sentença, motivo pelo qual, CONFIRMO a antecipação dos efeitos da tutela deferida por meio da decisão em Id nº 88464104, para que esta SENTENÇA produza seus efeitos tão logo seja publicada, e com base no art. 5º, inciso XXXV e LXXVIII, da Constituição Federal, c/c art. 297 c/c art. 301, ambos do CPC, REFORMO A DECISÃO DE ID Nº 88464104 para determinar que seja realizado bloqueio na receita municipal para a satisfação do crédito devido ao Ente Legislativo Municipal, via SISBAJUD, nas contas de titularidade do Município de Turiaçu/MA, CNPJ: 63.451.363/0001-63, até o montante do duodécimo devido correspondente ao somatório das diferenças dos meses de janeiro a novembro/2023 com a parcela devida do mês de dezembro/2023, o que equivale ao montante total de R$ 1.547.735,72 (um milhão, quinhentos e quarenta e sete mil, setecentos e trinta e cinto reais e setenta e dois centavos).
+
+    (grifou-se)
+
+    5. O Município ajuizou, então, a suspensão de liminar nº 0827829-64.2023.8.10.0000 perante o Tribunal de Justiça do Estado do Maranhão. O Presidente da Corte estadual julgou parcialmente procedente o pedido, para sustar temporariamente a ordem de bloqueio determinada, mantendo os demais termos da sentença. Fixou o prazo de 60 dias para a busca de meios alternativos de solução da controvérsia, incluindo possível parcelamento. Em cumprimento a essa decisão, o juízo de primeira instância designou audiência de conciliação. Contudo, não houve qualquer proposta de acordo por parte do Chefe do Poder Executivo.
+
+    6. Diante do decurso do prazo de 60 dias estabelecido, da tentativa frustrada de realização de acordo e da ausência de qualquer comunicação de resolução extrajudicial da controvérsia, o juízo de primeiro grau, ao julgar embargos de declaração opostos pela Câmara Municipal, restabeleceu a ordem de cumprimento imediato da sentença, nos seguintes termos (doc. 4):
+
+    Assim, tendo em vista que não há mais a limitação imposta na Decisão proferida na Suspensão de Liminar nº 0827829-64.2023.8.10.0000, entendo pelo cumprimento imediato da sentença de mérito (Id.108627355), vistas a garantir o repasse dos duodécimos no valor INTEGRAL de R$263.430,52 (duzentos e sessenta e três mil, quatrocentos e trinta reais e cinquenta e dois centavos), reestabelecendo a eficácia da ordem de bloqueio já exarada pelo juízo, no valor de R$1.547.735,72 (um milhão, quinhentos e quarenta e sete mil, setecentos e trinta e cinto reais e setenta e dois centavos).
+
+    Determino que seja realizado novo bloqueio na receita municipal para a satisfação do crédito devido ao Ente Legislativo Municipal, via SISBAJUD, na modalidade "teimosinha", em conta vinculada ao FPM do Município de Turiaçu/MA, conta 1.034-0, agência 1807-4, CNPJ: 63.451.363/0001-63, até a satisfação do montante do duodécimo devido correspondente ao somatório das diferenças dos meses de janeiro à dezembro/2023, o que equivale ao montante total de R$ 1.547.735,72 (um milhão, quinhentos e quarenta e sete mil, setecentos e trinta e cinto reais e setenta e dois centavos).
+
+    AUTORIZO o parcelamento do valor (R$1.547.735,72) em 5X parcelas iguais, retidas até o dia 20 (vinte) de cada mês, a fim de que o restabelecimento dos valores não inviabilize políticas públicas essenciais, sem promover lesão às ordens administrativas e financeiras da municipalidade.
+
+     Após a efetivação do bloqueio mensal, PROCEDA a imediata transferência do valor – mediante alvará eletrônico – para a conta bancária de titularidade da Câmara Municipal de Turiaçu – MA (CNPJ: 023.601.859/0001-51), com as seguintes especificações: Banco: BANCO BRADESCO; Agência: 01529, Conta Corrente nº:0001048-0.
+
+    7. Simultaneamente a esses embargos de declaração, o Município havia interposto apelação e, em separado, requerido ao Tribunal de Justiça do Estado do Maranhão que recebesse o recurso no efeito suspensivo (autos nº 0802930-65.2024.8.10.0000). Após o julgamento dos embargos de declaração pelo juízo de primeiro grau, o Des. Cleones Carvalho Cunha indeferiu o pedido de atribuição de efeito suspensivo à apelação.
+
+    8. Essa decisão constitui o objeto do presente pedido de suspensão de tutela provisória. O Município defende, preliminarmente, a competência do Supremo Tribunal Federal para a análise da presente medida de contracautela, uma vez que está em discussão direito relacionado ao repasse de duodécimo e a interpretação do art. 29-A da Constituição Federal. Argumenta que a decisão impugnada fixou o repasse no percentual máximo, sem considerar que houve frustração de receita no primeiro quadrimestre do exercício financeiro de 2023, razão pela qual se justifica o contingenciamento em todos os gastos públicos. Sustenta que a mera previsão legal de repasse em determinado valor na lei orçamentária anual não cria direito subjetivo, isto é, não faz com que o legislativo “faça jus ao que ali está disposto”, pois “trata-se, a priori, de previsão, que inclusive pode ser adaptada no decorrer do exercício financeiro”.
+
+    9. Indica que há grave risco de lesão à ordem e à economia públicas. Sustenta que o bloqueio determinado antes da submissão da causa ao segundo grau de jurisdição contraria, além do art. 496 do CPC, o art. 100 da Constituição, que prevê rito próprio para os pagamentos a serem realizados pela Fazenda Pública. Alega que a medida ofende a autonomia e independência dos poderes (art. 2º da Constituição), uma vez que interfere na gestão dos recursos públicos, “impedindo que o ente municipal gerencie seus valores em benefício de toda a população local”. Assevera que o repasse a menor, com base na lei orçamentária anual de 2023, não configura crédito suplementar, especial ou extraordinário, razão pela qual há impedimento de cumprimento da obrigação no ano de 2024. Além disso, afirma que o bloqueio nas contas públicas causará irreversível e devastador impacto financeiro no Município, porque impedirá o pagamento da folha de funcionários e de outras obrigações, a exemplo de fornecedores, convênios, transporte e merenda escolar.
+
+    10. Ressalta que a ordem de bloqueio já foi expedida, na modalidade teimosinha, no período de 11 a 20.03.2024, com possibilidade de reiteração a cada dia. Requer, assim, a suspensão imediata dos efeitos da decisão proferida no requerimento de atribuição de efeito suspensivo nº 0802930-65.2024.8.10.0000, em trâmite perante o Tribunal de Justiça do Estado do Maranhão. Em consequência, pede seja oficiado ao gerente do Banco do Brasil, para que libere as “restrições inscritas nas contas de titularidade do Município de Turiaçu/MA, especialmente a conta vinculada ao FPM, conta 1.034-0, agência 1807-4, CNPJ: 63.451.363/0001-63, acaso já efetivadas, ou que se abstenha de bloqueá-las, acaso ainda pendente o cumprimento da ordem”.
+
+    11. A Câmara Municipal apresentou manifestação, em que requereu (i) o não conhecimento do feito, tendo em vista a inadequação da via eleita e a incompetência do juízo; e, caso assim não se entenda, (ii) o indeferimento do pedido de suspensão.
+
+    12. É o relatório. Decido.
+
+    13. A suspensão de liminar constitui meio autônomo de impugnação de decisões judiciais disciplinado pelo art. 4º da Lei nº 8.437/1992, nos seguintes termos:
+
+    Art. 4° Compete ao presidente do tribunal, ao qual couber o conhecimento do respectivo recurso, suspender, em despacho fundamentado, a execução da liminar nas ações movidas contra o Poder Público ou seus agentes, a requerimento do Ministério Público ou da pessoa jurídica de direito público interessada, em caso de manifesto interesse público ou de flagrante ilegitimidade, e para evitar grave lesão à ordem, à saúde, à segurança e à economia públicas.
+
+    14. De início, identifico obstáculo de natureza processual para o conhecimento do pedido de suspensão. Isso porque, nos termos do dispositivo acima transcrito, a competência do Supremo Tribunal Federal para a apreciação de medidas de contracautela pressupõe que lhe caiba julgar recurso contra a decisão que se busca suspender.
+
+    15. No caso, a decisão impugnada indeferiu requerimento de atribuição de efeito suspensivo ao recurso de apelação interposto contra sentença que confirmara liminar anteriormente concedida (art. 1.012, § 1º, V, do CPC). Caso fossem suspensos pela Presidência desta Corte os efeitos da decisão proferida pelo Des. Cleones Carvalho Cunha, da 2ª Câmara de Direito Público do Tribunal de Justiça do Estado do Maranhão, a situação jurídica do requerente não se alteraria, já que a decisão do juízo de primeiro grau que deferiu a tutela de urgência, confirmada em sentença, continuaria em vigor.
+
+    16. Na verdade, a medida de contracautela se volta contra a tutela provisória deferida pelo juízo de primeiro grau. Contra esse provimento, contudo, não é cabível a interposição de recurso extraordinário, nos termos do art. 102, III, da Constituição. Por esse motivo, o Supremo Tribunal Federal não dispõe da competência necessária para conhecer do pedido de suspensão dessa decisão.
+
+    17. Diante do exposto, não conheço do pedido de suspensão de liminar.
+
+    18. Encaminhem-se os autos, com urgência, ao Tribunal de Justiça do Estado do Maranhão, para que adote as providências que considerar cabíveis.
+
+    Publique-se.
+
+Brasília, 11 de março de 2024.
+
+Ministro Luís Roberto Barroso
+
+Presidente
