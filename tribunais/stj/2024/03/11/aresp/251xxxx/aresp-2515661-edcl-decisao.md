@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por OMNI S/A CREDITO FINANCIAMENTO E INVESTIMENTO contra a decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que:
+".. ao contrário do que afirmou a Exma. Ministra Presidente Maria Thereza, houve a impugnação efetiva, concreta e pormenorizada da decisão objeto do recurso, qual seja, aquela inadmitiu o seguimento do Recurso Especial. Tal fato pode ser facilmente constatado com a leitura da referida peça de Agravo em REsp que está devidamente presente nas fls. 425-431.
+Dúvidas não pairam, portanto, acerca do cabimento e da necessidade da oposição dos presentes Embargos Declaratórios, uma vez que a decisão em comento não reconheceu a impugnação específica e direcionada, ponto a ponto, dos tópicos do mérito da controvérsia, contrariando a realidade presente nos autos.
+Como se não bastassem os argumentos, o presente Embargos ainda é possível também em decorrência de nada ter sido deliberado acerca do pedido de efeito suspensivo do recurso, considerando o risco de dano irreparável ou de difícil reparação que o Embargante está exposto com o atual estágio e desdobramento dos autos.
+Sendo assim, é clara a necessidade de a Embargante opor os presentes Embargos de Declaração, uma vez que a decisão sub examine restou omissa em relação aos temas e questões processuais suscitados, arg umentos estes que ora se ratificam integralmente." ( fls. 478/479)
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A propósito, da análise do agravo em recurso especial observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada, conforme exigido pelo art. 253, parágrafo único, do RISTJ, a saber: súmula 7/STJ.
+Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020).
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que inadmite o recurso especial é a interposição do agravo em recurso especial, sob pena de preclusão caso feita posteriormente.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Quanto ao pleito de tutela provisória, a admissibilidade da concessão de efeito suspensivo a recurso especial está intrinsecamente vinculada à possibilidade do seu êxito. No caso, considerando a rejeição destes embargos declaratórios, permanecendo o não conhecimento recurso, julgo prejudicada a concessão do efeito suspensivo.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
+ EMENTA
