@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 11/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. DANOS MORAIS. PEDIDO DE ALTERAÇÃO. REVISÃO QUE SE ADMITE TÃO SOMENTE NOS CASOS EM QUE O VALOR SE APRESENTAR IRRISÓRIO OU EXORBITANTE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação de compensação por danos morais.
+2. A revisão da compensação por danos morais só é viável em recurso especial quando o valor fixado for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula 7/STJ, impedindo o conhecimento do recurso.
+3. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+4. Agravo interno não provido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por MARILEA MARQUES SILVANO CHAPARRO, contra decisão unipessoal que não conheceu do recurso especial que interpusera.
+Ação: de compensação por danos morais movida pela agravante, contra CAMARA DE DIRIGENTES LOJISTAS DE PORTO ALEGRE, em razão de alegada negativação indevida de seu nome por ausência de comprovação de notificação.
+Sentença: julgou parcialmente procedentes os pedidos da inicial.
+Acórdão: negou provimento ao agravo interno de MARILEA MARQUES SILVANO CHAPARRO contra decisão unipessoal que reduziu o valor da compensação por danos morais, nos termos da ementa:
+"AGRAVO INTERNO EM APELAÇÃO (ART. 1.021 DOCPC/2015). RESPONSABILIDADE CIVIL. INSCRIÇÃO EM ÓRGÃOS DEPROTEÇÃO AO CRÉDITO. NOTIFICAÇÃO PRÉVIA. AUSÊNCIA DECOMPROVAÇÃO DA NOTIFICAÇÃO. CANCELAMENTO DO APONTENEGATIVO. DANO MORAL IN RE IPSA. QUANTUM INDENIZATÓRIO.1. A NOTIFICAÇÃO PREVISTA NO ART. 43, § 2º, DO CDC, QUECOMPETE À ENTIDADE MANTENEDORA DO CADASTROEFETUÁ-LA ANTES DE PROCEDER À INSCRIÇÃO (SÚMULA Nº359 DO STJ), DISPENSA FORMALIDADE E COMPROVAÇÃO DERECEBIMENTO (SÚMULA Nº 404 DO STJ).2. A AUSÊNCIA DE COMPROVAÇÃO DA NOTIFICAÇÃO PRÉVIAENSEJA O CANCELAMENTO DO REGISTRO E O DEVER DEINDENIZAR (RECURSO REPRESENTATIVO DE CONTROVÉRSIAN. 1061134/RS). DANO MORAL IN RE IPSA. NÃO INCIDÊNCIA DASÚMULA Nº 385 DO STJ, POIS AUSENTE INSCRIÇÃOPREEXISTENTE ÀQUELA CONSIDERADA IRREGULAR.3. QUANTUM INDENIZATÓRIO FIXADO EM R$ 3.000,00, DIANTEDAS PECULIARIDADES DO CASO CONCRETO E DOSPRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE,BEM COMO DA NATUREZA JURÍDICA DA INDENIZAÇÃO,CONFORME OS PARÂMETROS ADOTADOS PELA CÂMARA. AGRAVO INTERNO DESPROVIDO." (e-STJ fl. 200)
+Embargos de Declaração: opostos pela parte agravante, foram rejeitados.
+Recurso especial: alega violação dos art. 6º do CDC, bem como dissídio jurisprudencial. Pugna pela majoração da compensação por danos morais de R$ 3.000,00 (três mil reais) para o patamar de R$ 20.000,00 (vinte mil reais) em razão da negativação indevida de seu nome por ausência de comprovação de notificação.
+Decisão unipessoal: conheceu do agravo para não conhecer do recurso especial que interpusera, com fundamento no art. 932, III, do CPC/15.
+Agravo interno: sustenta, em síntese, a inaplicabilidade de todos os óbices de admissibilidade que foram utilizados na decisão agravada e, ao final, pede o conhecimento e provimento de seu recurso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. DANOS MORAIS. PEDIDO DE ALTERAÇÃO. REVISÃO QUE SE ADMITE TÃO SOMENTE NOS CASOS EM QUE O VALOR SE APRESENTAR IRRISÓRIO OU EXORBITANTE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação de compensação por danos morais.
+2. A revisão da compensação por danos morais só é viável em recurso especial quando o valor fixado for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula 7/STJ, impedindo o conhecimento do recurso.
+3. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+4. Agravo interno não provido.
+VOTO
+A decisão agravada conheceu do agravo para não conhecer do recurso especial que interpusera, com base nas seguintes razões: i) Súmula 7/STJ (dano moral) e ii) Súmula 7/STJ (dissídio jurisprudencial).
+Pela análise das razões recursais apresentadas no agravo interno, verifica-se que a parte agravante não trouxe argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Acerca da alegação de inaplicabilidade da Súmula 7 do STJ, no que se refere à aos danos morais por negativação do nome da agravante em órgão de proteção ao crédito sem a devida comprovação de envio da notificação, tem-se que o Tribunal de origem assim se manifestou acerca da matéria:
+"É sabido que, na quantificação da indenização por dano moral, deve o julgador, atendo-se às específicas condições do caso concreto, fixar o valor mais justo para o ressarcimento, lastreado nos princípios da razoabilidade e proporcionalidade.
+Nesse propósito, impõe-se sejam observadas as condições do ofensor e do ofendido, assim como a intensidade do sofrimento, e, ainda o grau de reprovação da conduta do agressor. De outro lado, não se pode perder de vista que o ressarcimento da lesão ao patrimônio moral deve ser suficiente para recompor os prejuízos suportados, sem importar em enriquecimento sem causa da vítima.
+Atento às circunstâncias do caso em concreto e às condições socioeconômicas das partes, além do que vem sendo adotado por esta Câmara em situações análogas, entendo adequado e suficiente reduzir o valor para o montante de R$ 3.000,00 (três mil reais), a título de danos morais. Referido valor deverá ser acrescido de juros de mora de 1% ao mês, desde a data do evento danoso (in casu, a data em que a parte autora tomou conhecimento da inscrição negativa -06/07/2020) até a presente data (arbitramento), quando então, deverá incidir tão somente a SELIC - índice que, pela natureza de sua composição, compreende juros e correção monetária -nos termos do entendimento firmado nos Temas 99 e 112 do STJ, harmonizando com o disposto nos enunciados das Súmulas 54 e 362 do STJ, conforme posicionamento exarado no AgInt no REsp 1683082/MA, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 02/12/2019,DJe 19/12/2019.
+Quanto ao valor da indenização, a decisão monocrática baseou-se nos critérios adotados por este Colegiado em casos análogos, considerando-se os parâmetros da proporcionalidade e razoabilidade". (e-STJ fls. 203/204  sem destaque no original)
+Na hipótese dos autos, o Tribunal de origem fixou o valor da compensação por danos morais em R$ 3.000,00 (três mil reais), de modo que a compensação foi fixada em valor razoável.
+E, conforme consignado na decisão agravada, a jurisprudência do STJ é pacífica no sentido de que a modificação do valor fixado a título de danos morais somente é permitida quando a quantia estipulada for irrisória ou exagerada, o que não está caracterizado neste processo. Ademais observa-se que o Tribunal de origem, ao apreciar a questão, baseou-se no conjunto fático-probatório dos autos, pelo que, rever aquele entendimento é vedado em recurso especial, mantendo-se a incidência da Súmula 7 do STJ, na espécie.
+Por fim, quanto à interposição do recurso especial pela alínea "c" do permissivo constitucional, tem-se que, ainda que o agravante defenda que exista similitude entre os acórdãos recorrido e os paradigmas por ele colacionados para demonstrar a divergência, não é possível encontrar similitude fática entre tais julgados, uma vez que as suas conclusões díspares ocorreram não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em razão de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo, cuja análise é vedada pela Súmula 7 desta Corte.
+Assim, diante da manutenção da aplicação da Súmula 7/STJ ao caso, permanece prejudicado o exame do recurso especial pela alínea "c" do permissivo constitucional.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
