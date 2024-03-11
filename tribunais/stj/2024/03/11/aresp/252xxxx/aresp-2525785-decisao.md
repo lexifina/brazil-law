@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo manejado por FRANCISCO DOS SANTOS, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, assim ementado (fls. 380/382):
+APELAÇÕES CÍVEIS. DIREITO PREVIDENCIÁRIO E PROCESSUAL CIVIL. AÇÃO DE MANUTENÇÃO DE BENEFÍCIO PREVIDENCIÁRIO. SENTENÇA DE IMPROCEDÊNCIA. APOSENTADORIA POR INVALIDEZ E AUXÍLIO DOENÇA ACIDENTÁRIO. PROVA PERICIAL. CONSTATAÇÃO DA CAPACIDADE LABORAL DO SEGURADOR. AUSÊNCIA DOS REQUISITOS PARA A CONCESSÃO DOS BENEFÍCIOS. SUCUMBÊNCIA AUTORAL. CONDENAÇÃOAO RESSARCIMENTO DAS DESPESAS PROCESSUAIS (HONORÁRIOSPERICIAIS). PRECEDENTE JUDICIAL OBRIGATÓRIO DECORRENTE DOJULGAMENTO DO RESP 823402/PR E DO RESP 1824823/PR (TEMA 1044 DO STJ). APELO DO AUTOR NÃO PROVIDO E APELO DO RÉU PROVIDO. SENTENÇA PARCIALMENTE REFORMADA.
+Trata-se de Apelos interpostos pelo autor e pelo réu em desfavor de sentença que julgou improcedentes os pedidos de concessão da aposentadoria por invalidez e manutenção do auxílio doença-acidentário, sem contudo, impor a obrigação de ressarcimento das despesas processuais ao autor sucumbente.
+O auxílio doença, a teor do art. 59 a Lei n. 8.213/91, é devido ao segurado que, havendo cumprido o período de carência, quando for o caso, ficar incapacitado para o trabalho por mais de 15 (quinze) dias. Trata-se, pois, de benefício que protege o trabalhador temporariamente incapaz.
+A aposentadoria por invalidez, conforme disciplina do art. 42 da Lei n. 8.213/91,se consubstancia com a confirmação pela perícia médica da incapacidade laborativa do segurado total e permanente, ou seja, sendo inviável a recuperação ou reabilitação para o exercício de atividade que lhe garanta a subsistência.
+Extrai-se dos autos que o laudo pericial, representativo da perícia médica realizada, concluiu pela existência da capacidade laborativa total do segurado.
+Debulha-se, ainda, do caderno processual a ausência de lastro probatório produzido pelo segurado a desconstituir as conclusões da prova pericial realizada.
+Não preenchimento dos requisitos pelo segurado para a percepção da aposentadoria por invalidez, tampouco do auxílio-doença.
+Nas lides acidentárias, diante da disciplina do parágrafo único do art. 129 da Lei n. 8.213/91, o autor é isento do pagamento de quaisquer custas e de verbas relativas à sucumbência.
+Malgrado a isenção legal, em caso de improcedência do pedido autoral, a questão foi enfrentada pelo Tribunal da Cidadania, quando do julgamento dos REsp 1823402/PR e 1824823/PR (tema 1044), sob a égide dos recurso repetitivos, oportunidade em que assentou a tese de que: Nas ações de acidente do trabalho, os honorários periciais, adiantados pelo INSS, constituirão despesa a cargo do Estado, nos casos em que sucumbente a parte autora, beneficiária da isenção de ônus sucumbenciais, prevista no parágrafo único do art. 129 da Lei n. 8.213/91.
+Apelos conhecidos, não provido o do autor e provido o do réu. Sentença parcialmente reformada.
+Não foram opostos embargos de declaração.
+Em seu recurso especial, aduz a parte recorrente violação dos arts. 19, 20, 21 e 42, da Lei 8.213/91.
+Sustenta, em síntese, que de acordo com a prova dos autos, faria jus ao recebimento do benefício de aposentadoria por invalidez, pois a incapacidade que o acomete seria total e definitiva.
+Contrarrazões às fls. 430/433.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+O recurso não logra êxito.
+Inicialmente, é de bom alvitre ressaltar que o juiz não está adstrito às conclusões da perícia técnica, podendo se pautar em outros elementos de prova aptos à formação de seu livre convencimento, estando autorizado a concluir pela incapacidade laborativa fundado no conjunto probatório produzido nos autos e nas particularidades do caso concreto.
+E, no caso concreto, o Tribunal a quo, ao examinar a questão posta, assim se manifestou sobre as circunstâncias que poderiam ensejar a concessão do benefício pleiteado (fls. 360/363):
+Assentadas as premissas acima, debulha-se de forma incontestável do laudo pericial do ID n. 40810146 que o autor é portador de gonartrose não especificada (CID M17.9) e de transtorno interno não especificado do joelho (CID M23.9), doenças estas para as quais o trabalho está relacionado, contudo, com capacidade para o exercício das atividades laborativas habituais, desde que observadas as medidas protetivas e as regulamentações da Norma Regulamentadora17 do Ministério do Trabalho e Emprego.
+ ..
+Noutro giro, há de se pontuar que, inobstante o autor discorra na peça recursal que o laudo pericial não tem valor probante por ser contraditório, omisso e inexato, na medida em que os laudos médicos por si juntados demonstrariam a sua incapacidade total e permanente, minudente e acurada verificação dos fólios assinala que não existe lastro probatório mínimo ase desconstituir as conclusões do Sr. Perito, tampouco a atestarem a ausência de sua capacidade técnica para a realização da perícia.
+Indubitável, que toda a prova documental produzida pelo autor não prova de forma cabal a sua incapacidade PERMANENTE e total para o exercício das atividades laborais, conforme docs. dos IDs números 40809673/40809674.
+Por conseguinte, não se perfazendo os requisitos para percebimento da aposentadoria por invalidez/auxílio doença, diante da comprovação da capacidade total do segurado, a hipótese é de não concessão dos preditos benefícios.
+Como se percebe, o acórdão fundou-se nas provas existentes nos autos ao consignar o não preenchimento dos requisitos necessários à concessão do benefício de aposentadoria por invalidez, por constatar a ausência de comprovação da incapacidade total e definitiva para o exercício de atividade laboral.
+Assim, a alteração destas conclusões, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
