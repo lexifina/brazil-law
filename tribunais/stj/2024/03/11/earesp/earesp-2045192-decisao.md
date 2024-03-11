@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de divergência opostos contra acórdão proferido pela Quarta Turma desta Corte, assim ementado (fls. 4.119-4.120):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO POSSESSÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DOS RÉUS.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489 e 1022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+1.1. O acórdão embargado enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e nítida, razão pela qual não há falar em negativa de prestação jurisdicional.
+2. Para alterar a conclusão do Tribunal de origem no sentido de que os autores/recorridos lograram êxito em comprovar os requisitos para a manutenção da posse, seria necessário promover o reexame do acervo fático-probatório dos autos, providência vedada na via eleita, a teor do óbice da Súmula 7/STJ.
+3. A Corte Especial deste STJ firmou entendimento no sentido de que verificada a existência de decisões conflitantes versando sobre o mesmo bem jurídico e ambas transitadas em julgado, prevalece aquela que por último transitou em julgado, somente se admitindo a desconstituição da sentença acobertada pelo manto da coisa julgada por meio da ação rescisória. Incidência da Súmula 83/STJ.
+4. Agravo interno desprovido.
+Embargos de declaração rejeitados às fls. 4.231-4.234.
+Os embargantes alegam que o acórdão embargado divergiu do entendimento adotado pela Segunda Turma desta Corte, no julgamento do AgInt nos Edcl no REsp 1.930.955/ES, segundo o qual, a despeito do entendimento no sentido de que havendo conflito entre coisas julgadas deve prevalecer a última que se formou, desde que não desconstituída por ação rescisória, tal regra deve ser afastada nos casos em que já executado o título formado na primeira coisa julgada, ou se iniciada sua execução, hipótese em que deve prevalecer a primeira coisa julgada em detrimento daquela formada em momento posterior, consoante expressamente consignado na ementa e no voto condutor do EAREsp n. 600.811/SP.
+Requer, ao final, o provimento do recurso, aplicando-se a exceção prevista no julgado paradigma, para o fim de confirmar a primeira coisa julgada em favor dos embargantes.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Feito esse registro, constata-se que o recurso em apreço não comporta êxito.
+Com efeito, os embargos de divergência têm por escopo uniformizar a jurisprudência do Superior Tribunal de Justiça, em razão da adoção de teses conflitantes pelos seus órgãos fracionários, cabendo ao embargante a comprovação do dissídio pretoriano, com a demonstração da identidade fática entre os casos confrontados e a adoção de soluções jurídicas díspares, nos moldes estabelecidos no art. 266 combinado com o art. 255, § 1º, do RISTJ.
+No caso em apreço não se verifica a ocorrência da alegada dissidência pretoriana, já que inexiste similitude fática entre os casos postos em comparação. Deveras, no bojo do acordão paradigma consta que houve execução do primeiro título a transitar em julgado, devendo prevalecer a primeira coisa julgada formada. Todavia, no julgamento que originou o acórdão embargado, a Quarta Turma desta Corte registrou que "não há notícia de que a primeira coisa julgada foi executada ou mesmo que tenha sido iniciada a execução à época da formação da segunda coisa julgada". Logo, a ausência de singularidade fática impede o conhecimento dos embargos de divergência.
+À guisa de exemplo, colhe-se o seguinte julgado da Corte Especial:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. PREPARO. INTIMAÇÃO PARA REGULARIZAÇÃO. NÃO ATENDIMENTO. DESERÇÃO. DESPROVIMENTO.
+1. A divergência jurisprudencial para fins de interposição de embargos de divergência deve ser demonstrada nos termos do art. 266, § 4º, do RISTJ, de modo que os acórdãos confrontados devem apresentar similitude fática e abordar a questão jurídica sob o mesmo enfoque legal, mas dar a ela resultados discrepantes.
+2. Não havendo a comprovação do recolhimento do preparo no ato de interposição do recurso, a parte recorrente será intimada para realizar o recolhimento em dobro no prazo de 5 dias, sob pena de deserção (§§ 2º e 4º do art. 1.007 do CPC/2015).
+3. Agravo interno desprovido (AgInt nos EREsp 1.771.205/SE, relator Ministro João Otávio de Noronha, Corte Especial, DJe 25/3/2021).
+Isso posto, indefiro liminarmente os embargos de divergência.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ARESTOS CONFRONTADOS. DISSÍDIO NÃO DEMONSTRADO. RECURSO INDEFERIDO LIMINARMENTE.
