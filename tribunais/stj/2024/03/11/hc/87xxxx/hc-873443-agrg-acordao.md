@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 11/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. DOSIMETRIA. MINORANTE DO TRÁFICO PRIVILEGIADO. AFASTAMENTO. CONSTATADA A DEDICAÇÃO DO RECORRENTE AO TRÁFICO DE DROGAS. REEXAME FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A dedicação do agravante ao tráfico d e drogas está evidenciada pelo resultado das informações coletadas pelo Serviço de Inteligência da Polícia Militar; pelas circunstâncias da prisão em flagrante; pelas declarações dos adolescentes envolvidos e pelo próprio depoimento do recorrente. Nesse contexto, o afastamento da conclusão do Tribunal a quo demanda reexame aprofundado de todo o conjunto fático-probatório, inviável na via estreita do habeas corpus.
+2. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por PAULO HENRIQUE COSTA DA SILVA contra decisão singular que indeferiu liminarmente o presente habeas corpus.
+O agravante, em síntese, reitera a tese de que processos em andamento não podem obstar a aplicação da minorante do § 4º do art. 33 da Lei de Drogas.
+Outrossim, reafirma a presença de todos os requisitos exigidos para a incidência do referido dispositivo.
+Diante disso, busca a reconsideração do decisum ou o julgamento do recurso pelo órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. DOSIMETRIA. MINORANTE DO TRÁFICO PRIVILEGIADO. AFASTAMENTO. CONSTATADA A DEDICAÇÃO DO RECORRENTE AO TRÁFICO DE DROGAS. REEXAME FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A dedicação do agravante ao tráfico d e drogas está evidenciada pelo resultado das informações coletadas pelo Serviço de Inteligência da Polícia Militar; pelas circunstâncias da prisão em flagrante; pelas declarações dos adolescentes envolvidos e pelo próprio depoimento do recorrente. Nesse contexto, o afastamento da conclusão do Tribunal a quo demanda reexame aprofundado de todo o conjunto fático-probatório, inviável na via estreita do habeas corpus.
+2. Agravo regimental desprovido.
+VOTO
+O presente agravo regimental não merece provimento, em que pesem os argumentos apresentados pelo agravante, devendo a decisão ser mantida por seus próprios fundamentos.
+De início, eis a fundamentação apresentada pelo Tribunal de origem para afastar a minorante do tráfico privilegiado:
+" ..
+A pretensão revisional não merece acolhimento.
+Isso porque, as circunstâncias da prisão e apreensão do entorpecente, além dos detalhes da investigação, corroborada pelos depoimentos das testemunhas e da confissão do réu, dão conta de que o réu se dedicava a atividades criminosas, não preenchendo os requisitos exigidos pelo artigo 33, § 4º, da Lei de Drogas.
+Os policiais foram uníssonos em afirmar que o Serviço de Inteligência do 3º Batalhão da Polícia Militar já estava monitorando a casa onde o requerente estava residindo, apontando-a como "boca de fumo", sobretudo pelas denúncias de intensa movimentação de pessoas. Sustentaram que, no dia da ocorrência, foi constatado que uma menina, aparentando ser menor de idade, entrava e saia constantemente do local, o que motivou a diligência de averiguação dela.
+Abordada, descobriu-se que ela trazia consigo uma porção de pasta-base de cocaína, que, segundo ela, era para ser entregue a um terceiro a pedido do revisionando. Na ocasião, ela confessou que fazia a "transitação" de drogas vendidas por ele a outras pessoas  depoimento do PM Fernando Cesar Oliveira . Na sequência, os agentes fizeram a busca na residência do requerente, localizando outras "trouxinhas" de cocaína prontas para a venda em cima da cama, e outra porção maior na cantoneira da janela.
+O comércio reiterado é confirmado pelo próprio réu, quando afirmou: "a droga é minha. Que fazia "corre" pra sustentar o vício. Que paguei R$ 300,00 na droga. Que eu consumia e vendia droga. Que para sustentar o vício eu consumia e vendia. Que já tinha um mês que uns dias que eu tinha saído do serviço  .. . Que o dinheiro que eu fazia era para gente comer e beber e o resto para "torrar" na droga.  ..  Que eu comprei a droga com o dinheiro do acerto de quando eu saí do serviço. Que eu vendia droga para sustentar meu vício, fumar minha maconha e cheirar meu pó. Que nós roubava também na rua também. Que eu fazia "corre" sim (Magistrado perguntou se eventualmente ele vendia para sustentar o vício).  ..  Que eu vendia era solto mesmo, saia vendendo e usando".
+Essas circunstâncias, somadas, permitem concluir que o requerente se dedicava à prática de atividades criminosas, fazendo do tráfico sua ocupação habitual, o que não condiz com o traficante ocasional, que a Lei de Drogas quis beneficiar.
+ ..
+De mais a mais, na época em que foi prolatada a sentença  28-2-2018 , a existência de outros registros criminais obstava a concessão da benesse 1 .
+No Superior Tribunal de Justiça vigora o entendimento "no sentido de que a mudança de entendimento jurisprudencial posterior ao trânsito em julgado da condenação não autoriza o ajuizamento de revisão criminal visando a sua aplicação retroativa, o que afasta as alegações de constrangimento ilegal e teratologia trazidas pelo agravante"  ..  (STJ, AgRg no HC 674.334/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/10/2021, DJe 25/10/2021).
+ ..
+Com efeito, "demonstrada a dedicação à atividade criminosa, consubstanciada nas declarações de agentes policiais e em relatório de investigação a indicar que o imóvel do réu era utilizado como ponto de comercialização e uso de drogas, inviável a concessão da minorante do tráfico privilegiado" (N. U 0045976-91.2018.8.11.0042, CÂMARAS ISOLADAS CRIMINAIS, PAULO DA CUNHA, Primeira Câmara Criminal, Julgado em 15/11/2022, Publicado no DJE 06/12/2022).
+ .. " (fls. 47/50)
+Os trechos acima demonstram que a dedicação do agravante ao tráfico de drogas está evidenciada pelo resultado das informações coletadas pelo Serviço de Inteligência da Polícia Militar; pelas circunstâncias da prisão em flagrante; pelas declarações dos adolescentes envolvidos e pelo próprio depoimento do recorrente. Nesse contexto, o afastamento da conclusão do Tribunal a quo demanda reexame aprofundado de todo o conjunto fático-probatório, inviável na via estreita do habeas corpus.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. INCIDÊNCIA DA MINORANTE. IMPOSSIBILIDADE. RÉU QUE SE DEDICA À ATIVIDADE CRIMINOSA. AGRAVO REGIMENTAL DESPROVIDO.
+1. De acordo com o § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+2. No caso, a s instâncias ordinárias negaram o tráfico privilegiado por concluírem que a quantidade de drogas apreendidas - "1 porção de maconha (12,1g), um cigarro de maconha (0,8g), 130 porções de cocaína (91,5g), bem como outra porção de cocaína (329,4g)" - e as informações colhidas pelo serviço de inteligência da polícia não deixam dúvida de que o paciente se dedica há mais de 2 anos ao tráfico. Infirmar tais conclusões é inviável na via estreita do writ, por demandar reexame de matéria fático-probatória.
+3. Agravo regimental desprovido
+(AgRg no HC n. 773.672/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 22/12/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE DO TRÁFICO PRIVILEGIADO. NEGADA INCIDÊNCIA. DEMONSTRADA A DEDICAÇÃO À ATIVIDADE CRIMINOSA. REEXAME FÁTICO-PROBATÓRIO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Apesar de se tratar de paciente primário e sem antecedentes, a jurisprudência desta Corte Superior entende não haver ilegalidade no afastamento da minorante prevista no art. 33, §4º, da Lei n. 11.343/2006, com fundamento na dedicação à atividade criminosa, evidenciada por outros meios idôneos.
+2. No caso, a negativa de incidência da minorante do tráfico pelo Tribunal de origem foi dada com fundamentação válida, com base no exame das circunstâncias presentes nos autos, que indicam a dedicação à atividade criminosa, quais sejam: a existência de clientela específica e a posse de chave de imóvel destinado ao armazenamento de entorpecentes.
+3. Rever o entendimento da instância de origem implicaria reexame de fatos e provas, inviável por meio de habeas corpus.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 819.827/PE, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 21/9/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE DROGAS. DOSIMETRIA. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. REQUISITOS NÃO PREENCHIDOS. DEDICAÇÃO DO ACUSADO À ATIVIDADE CRIMINOSA RECONHECIDA PELA INSTÂNCIA ORDINÁRIA. ELEMENTOS CONCRETOS. INVERSÃO DO JULGADO. REEXAME FÁTICO-PROBATÓRIO. ART. 40, INCISO III, DA LEI N. 11.343/2006. INCIDÊNCIA. CAUSA DE AUMENTO DE PENA DE CARÁTER OBJETIVO. AGRAVO DESPROVIDO.
+1. No caso, a minorante prevista no art. 33, § 4.º, da Lei n. 11.343/2006 foi afastada com a justificativa de que o Agravante se dedicava a atividades criminosas em razão das circunstâncias da prática delitiva.
+2. Não é possível desconstituir a conclusão da Jurisdição ordinária sobre a dedicação do Agravante à atividade criminosa e, por conseguinte, reconhecer a causa de redução de pena prevista no art. 33, § 4.º, da Lei de Drogas, notadamente por ser vedado, na presente via, revolver o contexto fático-probatório dos autos.
+3. Conforme a jurisprudência do Superior Tribunal de Justiça, para a incidência da causa de aumento de pena prevista no art. 40, inciso III, da Lei n. 11.343/2006, é desnecessária a efetiva comprovação de que o tráfico ocorria nas entidades mencionadas no citado dispositivo legal ou que a mercancia ilícita se destinava aos respectivos frequentadores, bastando apenas que o crime seja cometido nas imediações daqueles locais.
+4. O Tribunal de origem, soberano quanto ao exame do contexto fático probatório, concluiu que a conduta imputada ao Acusado foi cometida nas imediações de instituição de ensino, a justificar a imposição da causa de aumento de pena preconizada no inciso III do art. 40 da Lei de Drogas. Portanto, a inversão do julgado demandaria, necessariamente, nova incursão nas provas e fatos que instruem o caderno processual, o que não é possível na via estreita do writ.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 754.573/SC, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 21/8/2023.)
+Ante o exposto, voto pelo desprovimento do agravo regimental.
