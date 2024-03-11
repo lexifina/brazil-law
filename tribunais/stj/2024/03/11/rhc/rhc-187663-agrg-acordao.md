@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 11/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Antonio Saldanha Palheiro, Teodoro Silva Santos e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS, COAÇÃO NO CURSO DO PROCESSO, EXTORSÃO, LAVAGEM DE DINHEIRO E RECEPTAÇÃO. CONDENAÇÃO TRANSITADA EM JULGADO. REVISÃO DA DOSIMETRIA. PENA-BASE. CRITÉRIO DE EXASPERAÇÃO. 1/8. FRAÇÃO PROPORCIONAL. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência do STJ não impõe ao magistrado a adoção de uma fração específica, aplicável a todos os casos, a ser usada na valoração negativa das vetoriais previstas no art. 59 do CP. Em hipótese de condenação transitada em julgado, uma vez não ajuizada a revisão criminal na origem, somente é possível o controle da legalidade da dosimetria e a correção de patente desproporcionalidade entre o ilícito praticado e a sanção aplicada, o que não é o caso dos autos.
+2. Mantém-se a denegação da ordem, pois a pena-base do paciente foi exasperada em 1/8 sobre o intervalo entre as penas máxima e mínima abstratamente cominadas aos crimes perpetrados, critério que não se revela arbitrário ou desarrazoado e, entre outros, é admitido por esta Corte Superior.
+3. Agravo regimental não provido.
+RELATÓRIO
+RENE CACIO NOGUEIRA DE SENA agrava da decisão denegatória do habeas corpus.
+O insurgente aponta o equívoco do julgado, pois considera que, em relação aos crimes pelos quais fora condenado, na primeira da dosimetria da pena, foi violado seu direito "amplamente pacificado na jurisprudência" (fl. 275) à aplicação do percentual de 1/8 de aumento sobre o mínimo legal para cada circunstância judicial negativa.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS, COAÇÃO NO CURSO DO PROCESSO, EXTORSÃO, LAVAGEM DE DINHEIRO E RECEPTAÇÃO. CONDENAÇÃO TRANSITADA EM JULGADO. REVISÃO DA DOSIMETRIA. PENA-BASE. CRITÉRIO DE EXASPERAÇÃO. 1/8. FRAÇÃO PROPORCIONAL. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência do STJ não impõe ao magistrado a adoção de uma fração específica, aplicável a todos os casos, a ser usada na valoração negativa das vetoriais previstas no art. 59 do CP. Em hipótese de condenação transitada em julgado, uma vez não ajuizada a revisão criminal na origem, somente é possível o controle da legalidade da dosimetria e a correção de patente desproporcionalidade entre o ilícito praticado e a sanção aplicada, o que não é o caso dos autos.
+2. Mantém-se a denegação da ordem, pois a pena-base do paciente foi exasperada em 1/8 sobre o intervalo entre as penas máxima e mínima abstratamente cominadas aos crimes perpetrados, critério que não se revela arbitrário ou desarrazoado e, entre outros, é admitido por esta Corte Superior.
+3. Agravo regimental não provido.
+VOTO
+Mantenho a decisão agravada.
+O postulante foi condenado por furtos qualificados, coação no curso do processo, extorsão, lavagem de dinheiro e receptação. O "juiz sentenciante aplicou a fração correspondente a 1/8 para cada circunstância judicial desabonadora, aplicando no intervalo entre as penas mínima e máxima, em todos os crimes ao quais o Paciente foi condenado" (fl. 204).
+Nesse contexto, o Tribunal de origem negou provimento à revisão criminal, pois, "evidenciando-se que a fração de aumento de pena implementada na primeira fase da dosimetria da pena, pela existência de cada circunstância judicial valorada negativamente, está de acordo com critérios recomendados pela jurisprudência pátria, qual seja, 1/8 (um) oitavo sobre o intervalo entre as penas mínima e máxima, não deve ser acolhido o pedido" (fl. 209, grifei).
+A modificação da dosimetria da pena em habeas corpus tem caráter excepcional, principalmente quando se está diante de condenação transitada em julgado. A providência é cabível somente nas hipóteses de flagrante ilegalidade, o que não ocorre na espécie.
+Deveras, a jurisprudência do STJ não impõe ao magistrado a adoção de uma fração específica, aplicável a todos os casos, a ser usada na valoração negativa das vetoriais previstas no art. 59 do CP.
+Assim, não há falar em desproporcionalidade no percentual de aumento da pena por cada circunstância judicial considerada desfavorável, "quando a instância ordinária opta por elevar as penas-bases na fração de 1/8 (um oitavo) sobre a diferença entre as penas mínima e máxima cominadas ao crime, critério aceito pela jurisprudência do Superior Tribunal de Justiça" (AgRg no HC n. 548.785/RJ, Rel. Min. Laurita Vaz, 6ª T., DJe 23/10/2020).
+O critério adotado pela instância ordinária, qual seja, a "utilização da fração de 1/8 sobre o intervalo entre as penas mínima e máxima dos tipos penais em abstrato, não se revela desproporcional. Inclusive, é frequentemente admitido por este Superior Tribunal de Justiça" (AgRg noAREsp n. 2.143.224/DF, relator Ministro Joel Ilan Paciornik, 5ª T., DJe de 13/12/2022).
+Aplica-se ao caso a compreensão de que:
+ ..  Considerando o silêncio do legislador, a doutrina e a jurisprudência estabeleceram dois critérios de incremento da pena-base, por cada circunstância judicial valorada negativamente, sendo o primeiro de 1/6 (um sexto) da mínima estipulada, e outro de 1/8 (um oitavo), a incidir sobre o intervalo de condenação previsto no preceito secundário do tipo penal incriminador.
+7. Hipótese em que a Corte de origem manteve a majoração da pena-base, por cada vetorial negativa, em 1/8 sobre o intervalo de condenação previsto no preceito secundário do tipo penal incriminador, o que se coaduna com a jurisprudência consolidada neste Tribunal superior. Mantém-se a incidência da Súmula 5 68 do STJ. ..
+(AgRg no AREsp n. 2.304.167/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/8/2023, DJe de 28/8/2023).
+À vista do exposto, nego provimento ao agravo regimental.
