@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 11/03/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Mauro Campbell Marques votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESP ECIAL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS .
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em análise, Embargos de Declaração opostos por JOÃO FRANCISCO CAMPOS contra acórdão assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AFRONTA AO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. ANÁLISE DOS DOCUMENTOS MENCIONADOS PELO RECORRENTE. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. Não houve violação do art. 535, II, do CPC/1973, pois a Corte de origem pronunciou-se de forma clara e objetiva sobre a questão posta nos autos, tendo o decisório se mostrado suficientemente fundamentado.
+2. A modificação do entendimento firmado pelas instâncias ordinárias, com base na análise dos documentos mencionados pelo recorrente, é incompatível com a via especial, consoante a Súmula n. 7 do STJ.
+3. Agravo interno a que se nega provimento.
+Em suas razões, a embargante alega, em síntese, que:
+(a) o r. acórdão se mostra contraditório e, por essa razão, omisso, pois, especificadamente quanto ao período de 25/05/1987 a 22/10/1990, inversamente do que consta na r. decisão ora embargada, o Embargante comprova a ofensa ao art. 537, inciso II, do CPC/73, especialmente ao apontar que o E. TRF da 3ª Região afastou a especialidade da atividade exercida neste período ao argumento de que o Embargante teria somente apresentado o vínculo registrado na CTPS, cuja função constava apenas "motorista", sem se pronunciar sobre o fato de que no CNIS do Embargante há a comprovação de que tanto pelo ramo de atividade da empresa quanto pelo CBO informado em referido CNIS  .. , a atividade por ele desenvolvida, no período de 25/05/1987 a 22/10/1990, era a de motorista de caminhão nos termos definidos no código 2.4.4 do anexo do Decreto nº. 53.831/64 (e-STJ fls. 421-422);
+(b) o reconhecimento da ausência de pronunciamento do E. Tribunal a quo quanto ao pedido autoral de análise do CNIS em conjunto com a CTPS do Embargante, para o fim de ser admitido também como prova do exercício da atividade especial, não importa em revolvimento do conjunto fático-probatório, a ensejar a incidência da Súmula nº 7/STJ, e sim de constatação da ausência de expresso pronunciamento do E. Tribunal a quo à lide recursal interposta nos Embargos de Declaração a ele dirigido (e-STJ fl. 422); e
+(c) o reconhecimento da especialidade dos períodos rurais (tanto os registrados em CTPS como o período trabalhado sem o registro, que foi reconhecido judicialmente) com base no enquadramento da atividade agropecuária no Anexo do Decreto nº. 53.831/64, sob o código 2.2.1, não demanda em análise do conjunto fático-probatório, mas sim do próprio enquadramento por categoria profissional decorrente da lei vigente ao tempo em que foram exercidas as atividades, nos termos do que dispõem o §5º do artigo 57, da Lei nº. 8.213/91 e o artigo 70, §§1º e 2º, do Decreto nº. 3.048/99, não havendo que se falar, portanto, em óbice sumular prevista na Súmula nº. 7/STJ (e-STJ fl. 423).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESP ECIAL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS .
+VOTO
+MINISTRO AFRÂNIO VILELA: Eminentes colegas, os Embargos de Declaração devem ser rejeitados.
+Nos rígidos limites estabelecidos pelo artigo 1.022 do CPC/2015, os Embargos de Declaração destinam-se apenas a esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou, a requerimento, corrigir erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes, quando algum desses vícios for reconhecido.
+No caso sob apreciação, não houve a configuração no aresto ora embargado de qualquer omissão, contradição, obscuridade ou erro material que permitam a oposição dos aclaratórios.
+Com efeito, da leitura do acórdão embargado, verifica-se que esta Corte Superior expôs, de forma clara, suficientemente fundamentada e sem proposições logicamente inconciliáveis entre si, os motivos que ampararam as suas conclusões quanto à ausência de negativa de prestação jurisdicional e à incidência do óbice da Súmula 7/STJ para o conhecimento do Recurso Especial, uma vez que seria necessário o reexame do conjunto fático-probatório para se revisar as premissas fixadas pelo Tribunal de origem, sobretudo no que tange à ausência nos autos de outros documentos que comprovem o alegado exercício da atividade de motorista de caminhão pelo recorrente no período de 25/5/1987 a 22/10/1990.
+Ora, a tese do embargante de que o exercício de tal atividade especial teria sido demonstrado por meio do CNIS se contrapõe diretamente à referida conclusão da Corte estadual, não podendo ser analisada na via do Recurso Especial, a teor do que estabelece a Súmula 7/STJ.
+Assim, verifica-se que os presentes Embargos de Declaração, em verdade, apenas traduzem inconformismo com o julgado, pretendendo rediscutir o que já foi decidido somente porque o que restou assentado é contrário ao interesse da parte.
+Por fim, advirto as partes que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+Ante o exposto, rejeito os Embargos de Declaração.
+É o voto.
