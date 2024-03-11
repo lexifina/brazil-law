@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (fl. 770):
+PENAL E PROCESSUAL PENAL - APELAÇÃO CRIMINAL - HOMICÍDIO QUALIFICADO (ART. 121, §2º, INCISOS IE IV, DO CP) - RECURSO MINISTERIAL - SUBMISSÃO A NOVO JULGAMENTO - INAPLICABILIDADE - RECURSO CONHECIDO E IMPROVIDO - DECISÃO UNÂNIME.
+1 - Cabe ao órgão recursal proceder apenas a um juízo de constatação acerca da existência de suporte probatório mínimo, admitindo-se a cassação do veredito apenas quando flagrantemente desprovido de quaisquer elementos de prova aptos a sustentar a decisão do Conselho de Sentença. Precedentes;
+2 - Impossível falar em decisão manifestamente contrária à prova dos autos quando os jurados acolhem uma das versões fáticas apresentadas, desde que plausível e em consonância com o conjunto probatório, sob pena de desrespeito à soberania dos veredictos insculpida na Constituição Federal. Precedentes;
+3 - Na espécie, a sentença encontra amparo nas provas carreadas aos autos, inexistindo então motivos aptos a justificar a realização de novo julgamento.4 - Recursos conhecido e improvido. Decisão unânime.
+Depreende-se dos autos que recorrido foi absolvido da imputação da prática do crime previsto no art. 121, §2º, incisos I e IV, do Código Penal (fls. 586/587).
+Irresignado, o Ministério Público apelou da referida decisão. O Tribunal a quo negou provimento ao recurso.
+Nas razões do recurso especial, aponta-se violação dos art. 593, III, "d", do Código de Processo Penal, pugnando pela submissão de Edvaldo Pedro de Carvalho a novo Júri, porquanto "a decisão do Conselho de Sentença encontra-se dissociada das provas constantes dos autos" (fl. 800).
+Contrarrazões apresentadas. O Ministério Público Federal manifestou-se pelo provimento do recurso.
+Da leitura do julgado vergastado, extrai-se, ao que interessa ao caso (fls. 772-777):
+O Ministério Público pugna pela submissão do apelante a novo julgamento, sob o argumento deque "o decisum ora guerreado não encontra apoio na prova dos autos", ressaltando que não "restou provada a tese da defesa, pois a vítima não agrediu ou tentou agredir o apelado, muito menos proferiu ameaças ou fez gestos de que fosse sacar uma arma".
+Acerca da matéria, o Superior Tribunal de Justiça já se manifestou no sentido de que cabe ao órgão recursal proceder apenas a um juízo de constatação acerca da existência de suporte probatório mínimo, admitindo-se a cassação do veredito apenas quando flagrantemente desprovido de quaisquer elementos de prova aptos a sustentar a decisão do Conselho de Sentença.
+ ..
+Ainda sobre o tema, oportuno ressaltar que o Tribunal do Júri é uma instituição de matiz democrática e, portanto, serve à garantia de direitos individuais e à contenção do poder do Estado. Assim sendo, consiste em exceção ao dever de fundamentação das decisões, sendo permitido, inclusive, o julgamento com base na íntima convicção.
+Em razão disso, o simples fato de os jurados acolherem uma das teses apresentadas (seja ela defensiva ou acusatória) em detrimento de outra não implica necessariamente em cassação do decisum.
+Nesse sentido, o professor César Ramos da Costa, membro-fundador do Instituto Paraense do Direito de Defesa (IPDD), defende que "não se pode olvidar que o júri foi pensado e criado para proteger os direitos das pessoas contra julgamentos arbitrários realizados por órgãos estatais", ressaltando que a ideia de proteção das pessoas "deve orientar toda e qualquer exegese relativa ao tribunal do júri." A propósito, com o advento da Lei nº 11.689/08, o princípio da soberania dos veredictos, previsto art. 5º, XXXVIII, "c", da Constituição Federal de 19881, foi reafirmado e potencializado.
+Isso porque a nova redação do artigo 483 do Código de Processo Penal incluiu o quesito genérico - e obrigatório - da absolvição, que abrange todas as teses absolutórias (jurídicas ou não),exceto a negativa de fato e/ou autoria.
+Tal quesito, nos termos do art. 483, § 2º, do CPP, deverá indagar: "o jurado absolve o acusado " e, diante da resposta afirmativa de pelo menos 4 (quatro) (jurados), deve então o Juiz Presidente do Tribunal do Júri encerrar a votação.
+Disso resulta, nas palavras do Ministro Celso de Mello, "que a decisão dos jurados, quando indagados, de modo genérico, sobre a inocência do réu, tem por fundamento a sua íntima convicção", valorizando, portanto, "o princípio do livre convencimento, em que o membro do Conselho de Sentença possui inteira discrição, protegido, constitucionalmente, pelo sigilo da votação (CF, art. 5º, XXXVIII, "b"), para absolver o acusado por razões, até mesmo, declemência"2.
+No mesmo sentido, têm decidido os Tribunais judiciários:
+ ..
+Para além dessa discussão, na hipótese, existe suporte probatório mínimo, apto a sustentar a versão defensiva e sufragar a decisão do Conselho de Sentença, que acolheu a tese da legítima defesa, para então absolver o apelado.
+Afinal, segundo consta dos autos, os depoimentos das testemunhas - a maioria, apenas de "ouvir dizer" - mostram-se contraditórios, sendo possível encampar a tese de que a vítima foi usada como "escudo humano" por parte do indivíduo identificado como "Nilton", que estaria ameaçando o apelado.
+Cumpre relembrar que doutrina e jurisprudência já pacificaram o entendimento de que não há falar em decisão manifestamente contrária à prova dos autos quando os jurados acolhem uma das versões fáticas apresentadas (pela defesa ou acusação), desde que plausível e extraível do conjunto probatório, sob pena de desrespeito à soberania dos veredictos, insculpida na Constituição Federal (art. 5º, inciso XXXVIII, letra "c").
+Ainda, conforme já exposto, é reservado ao Conselho de Sentença a apreciação dos fatos e opção pela tese que lhe pareça mais razoável, não cabendo aos Tribunais analisar se decidiram bem ou mal, sob pena de configurar excesso de linguagem e usurpar da competência exclusiva do Júri, influenciando indevidamente em seu livre convencimento.
+No mesmo sentido, a jurisprudência do Superior Tribunal de Justiça:
+ ..
+Reafirma-se, por fim, que, em atenção aos princípios da soberania dos veredictos e do sigilo das votações, a decisão do Tribunal do Júri configura exceção à regra constitucional da fundamentação das decisões (art. 93, IX, da CF), razão pela qual se torna impossível a identificação de quais provas foram utilizadas para justificar a íntima convicção dos jurados, consoante têm destacado o Superior Tribunal de Justiça.
+ ..
+Em linhas conclusivas, não há que falar em decisão manifestamente contrária à prova dos autos, devendo então ser mantida a absolvição, em atenção à soberania dos veredictos.
+Posto isso, CONHEÇO do presente recurso, porém, NEGO-LHE PROVIMENTO, mantendo então a sentença de primeiro grau, em dissonância com o parecer do Ministério Público Superior.
+É como voto.
+Vê-se que o Tribunal de origem, ao manter a sentença absolutória, considerou que "existe suporte probatório mínimo, apto a sustentar a versão defensiva e sufragar a decisão do Conselho de Sentença, que acolheu a tese da legítima defesa, para então absolver o apelado".
+Nesse sentido, entendeu que o veredicto do Júri não se mostra contrário às provas dos autos, com especial apoio "nos depoimentos das testemunhas - a maioria, apenas de "ouvir dizer" - mostram-se contraditórios, sendo possível encampar a tese de que a vítima foi usada como "escudo humano" por parte do indivíduo identificado como "Nilton", que estaria ameaçando o apelado".
+Assim, tendo os jurados acolhido uma das versões existentes nos autos, não há como se cassar o decidido, sob pena de violação à soberania dos veredictos, o qual só poderá ser revogado em caso de decisão completa e manifestamente dissociada dos elementos probatórios, não sendo esse o caso dos autos.
+Nesse contexto, " a nalisar, no caso em exame, se a decisão do Tribunal do Júri teria sido ou não manifestamente contrária às provas dos autos exigiria o reexame dos elementos fáticos, o que é defeso em recurso especial, ante o que preceitua a Súmula n.7 desta Corte" (AgRg no REsp 1303683/AL, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 11/02/2020, DJe 17/02/2020).
+Portanto, alterar a referida conclusão, com o intuito de restabelecer a sentença condenatória, na forma pleiteada pelo Ministério Público, no caso, demandaria aprofundamento no material fático-probatório dos autos, providência obstada segundo o teor da Súmula 7/STJ.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+ EMENTA
