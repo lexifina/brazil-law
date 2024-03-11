@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 11/03/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Mauro Campbell Marques votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E ADMINISTRATIVO. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA: Em análise, embargos de declaração opostos pela FEDERAÇÃO DE AGRICULTURA E PECUÁRIA DO MATO GROSSO DO SUL - FAMASUL contra acórdão da Segunda Turma do STJ, assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA N. 83/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+Incide o óbice da Súmula n. 182/STJ quando a decisão recorrida aplica o entendimento da Súmula n. 83/STJ ao caso concreto, e a parte recorrente deixa de comprovar que os precedentes nela indicados não se aplicam à espécie, tampouco traz julgados contemporâneos ou supervenientes aos referidos na decisão, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior ou que a divergência é atual (AgInt no REsp n. 1.881.480/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/6/2022, DJe de 21/6/2022).
+Agravo interno improvido (e-STJ, fl. 1.033).
+A parte embargante sustenta, em síntese, que o acórdão embargado é omisso, pois, "conforme se verifica da petição de interposição do agravo em recurso especial, ao Superior Tribunal de Justiça, houve específica impugnação por parte da Embargante com relação aos dois fundamentos da decisão proferida na origem, de inadmissibilidade do apelo extremo".
+Alega que "o agravo em recurso especial foi expresso, inclusive em tópicos distintos, em impugnar específica, e não de forma genérica, a não incidência das referidas súmulas como obstáculo à abertura da instância extraordinária".
+Ao final, requer o acolhimento dos embargos de declaração, "para sanar a omissão apontada, no sentido de que ao contrário do que mencionado na decisão recorrida, foi realizada pela Embargante a impugnação específica quanto ao argumento da incidência da Súmula 83/STJ, nos termos da fundamentação apresentada, conhecendo-se, por isso, do agravo em recurso especial".
+A UNIÃO apresentou impugnação aos embargos de declaração.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E ADMINISTRATIVO. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator): Conheço dos embargos, porquanto presentes os pressupostos de admissibilidade.
+O art. 1.022 do Código de Processo Civil dispõe o seguinte:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Parágrafo único. Considera-se omissa a decisão que:
+I - deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento;
+II - incorra em qualquer das condutas descritas no art. 489, § 1º.
+Conforme se depreende do aludido dispositivo legal, os embargos de declaração não servem à reforma do julgado e não permitem a rediscussão da matéria, pois seu objetivo é introduzir o estritamente necessário para eliminar obscuridade, contradição, erro material e/ou suprimir omissão.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+De se ver, então, serem limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso dos autos, não se constata no acórdão ora embargado os vícios apontados pela parte embargante, revelando-se, em verdade, mero inconformismo, de forma que é imperiosa a rejeição dos embargos de declaração.
+Com efeito, no acórdão embargado foram expostos de forma clara os motivos pelos quais o agravo interno interposto pela parte embargante foi improvido, constando, expressamente, que "não houve impugnação do único fundamento da decisão que inadmitiu o recurso especial. Do simples cotejo entre o decidido e as razões do agravo em recurso especial, é possível verificar que a parte agravante não impugnou especificamente o óbice da Súmula 83/STJ".
+Acrescentou-se, ainda, que "a jurisprudência desta Corte é no sentido de que cabe ao recorrente indicar julgados contemporâneos ou supervenientes aos precedentes utilizados na decisão agravada, de modo a demonstrar que a matéria não seria pacífica naquele momento ou que estaria superada, o que não aconteceu no presente caso".
+Assim, não há vício formal no aresto, mas tão somente pretensão da parte embargante de rediscutir matéria já decidida, o que não se admite, ante a especialidade da via eleita.
+Na forma da jurisprudência do Superior Tribunal de Justiça, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgInt no AREsp 2.372.143/SP, Relatora Ministra Assusete Magalhães, SEGUNDA TURMA, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, Relator Ministro Herman Benjamin, SEGUNDA TURMA, DJe de 18/5/2020.
+Por fim, cumpre registrar que é firme o entendimento do Superior Tribunal de Justiça no sentido de que "não são cabíveis Embargos Declaratórios com a finalidade de obter manifestação a respeito de dispositivos constitucionais, para prequestionamento, o que inviabiliza, por conseguinte, que esta Corte Superior profira juízo de valor sobre a relevância, ou não, de matéria constitucional deduzida nas instâncias ordinárias" (STJ, EDcl no REsp 1.902.610/RS, Relator Ministro Herman Benjamin, SEGUNDA TURMA, DJe de 11/1/2024). Nesse sentido: STJ, EDcl no REsp 1.918.338/MT, Relator Ministro Rogério Shietti Cruz, TERCEIRA SEÇÃO, DJe de 15/12/2023.
+Isso posto, rejeito os embargos de declaração.
