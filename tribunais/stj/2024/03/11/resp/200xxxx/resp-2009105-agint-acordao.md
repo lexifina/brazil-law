@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 11/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  PROMESSA  DE  COMPRA  E  VENDA.  IMÓVEL.  ENTREGA.  ATRASO. AÇÃO  INDENIZATÓRIA.  DANOS.  REEXAME  FÁTICO-PROBATÓRIO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.
+1.  É  inviável  rever  o  entendimento  firmado  pelas  instâncias  ordinárias  sem  a  análise  dos  fatos  e  das  provas  da  causa,  o  que  atrai  a  incidência  da  Súmula  nº  7/STJ.
+2.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  CONSTRUTORA  TENDA  S.A.  contra  a  decisão  desta  relatoria  que  não  conheceu  do  recurso  especial  em  virtude  da  incidência  da  Súmula  nº  7/STJ  (fls.  500-503  e-STJ).
+Em  suas  razões  (fls.  507-513  e-STJ),  a  agravante  sustenta  ser  desnecessária  a  reanálise  das  provas  dos  autos  e  que  há  divergência  jurisprudencial  acerca  do  termo  inicial  para  a  contagem  do  prazo  decadencial.
+A  parte  contrária  não  apresentou  impugnação  (fls.  517-518  e-STJ).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  PROMESSA  DE  COMPRA  E  VENDA.  IMÓVEL.  ENTREGA.  ATRASO. AÇÃO  INDENIZATÓRIA.  DANOS.  REEXAME  FÁTICO-PROBATÓRIO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.
+1.  É  inviável  rever  o  entendimento  firmado  pelas  instâncias  ordinárias  sem  a  análise  dos  fatos  e  das  provas  da  causa,  o  que  atrai  a  incidência  da  Súmula  nº  7/STJ.
+2.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Inicialmente,  registra-se  que  a  questão  acerca  do  termo  inicial  do  prazo  decadencial  não  foi  objeto  do  recurso  especial  interposto  pela  ora  agravante,  configurando  inovação  recursal  sua  alegação  apenas  no  agravo  interno.
+Por  outro  lado,  como  já  asseverado  na  decisão  agravada,  a  matéria  atinente  ao  pedido  de  indenização  foi  dirimida  pelo  tribunal  de  origem  com  base  no  acervo  fático-probatório  dos  autos,  conforme se extrai  do  seguinte  trecho  do  acórdão:
+"(..)
+Desta  feita,  considerando  que  a  previsão  de  entrega  do  bem  inicialmente  foi  para  dezembro  de  2012,  devendo  ser  observada  a  prorrogação  por  180  dias,  também  prévia  e  expressamente,  estabelecida  no  contrato,  é  de  se  concluir  pela  caracterização  da  mora  na  entrega  do  imóvel  a  partir  de  julho  de  2013.
+Como  se  não  bastasse,  importa  mencionar  que  não  haverá  apreciação  relativa  à  aplicação  de  penalidade  em  virtude  de  atraso  na  entrega  do  bem  porque  esse  foi  exatamente  o  objeto  do  acordo  firmado  entre  as  partes,  como  acima  já  restou  explícito,  não  cabendo  maiores  predileções  a  esse  respeito.
+Feitas  tais  ressalvas,  inicio  a  apreciação  dos  demais  temas  suscitados  pela  reparação  moral,  em  relação  à  qual  deve  ser  reconhecido  o  direito  aos  autores,  uma  vez  que  a  conduta  da  ré  frustrou  as  expectativas  nutridas  pelos  compradores  em  relação  a  questão  deveras  significativa,  causando-lhes  imensa  insegurança,  aborrecimentos  desmesurados  e  deixando-os  absolutamente  decepcionados  em  relação  a  um  planejamento  de  grande  porte,  que  não  se  faz  do  dia  para  a  noite,  pois  como  é  de  conhecimento  geral,  a  aquisição  de  um  imóvel  não  se  trata  de  uma  decisão  ou  de  um  negócio  simples,  mormente  se  considerado  que  o  imóvel  tinha  como  destino  servir  de  residência  os  recorrentes,  após  o  casamento  ,  já  com  data  marcada.
+De  tal  sorte,  inconteste  que  a  situação  descrita  nos  autos  ultrapassou,  em  muito,  o  simples  descumprimento  contratual  e  a  categoria  do  mero  aborrecimento,  dando  ensejo  à  configuração  de  um  legítimo  dano  moral,  cuja  reparação  se  mostra  igualmente  inconteste.  No  que  alude  ao  valor  indenizatório,  necessário  inicialmente  registrar  que  a  sua  quantificação,  por  não  possuir  critérios  fixos  e  determinados,  dever  ser  feita  com  o  prudente  arbítrio  do  Julgador,  mediante  a  observância  dos  princípios  da  razoabilidade  e  da  proporcionalidade  e  sempre  tendo  em  vista  os  objetivos  do  instituto  do  dano  moral,  quais  sejam,  reparar  os  danos  causados  à  vítima,  punir  o  agente  pela  conduta  já  adotada  e  inibi-lo  na  reiteração  do  ilícito.
+Por  outro  lado,  o  valor  indenizatório  não  pode  ser  elevado  a  ponto  de  ferir  o  princípio  da  razoabilidade  ou  de  ser  capaz  de  provocar  o  enriquecimento  sem  causa  do  autor,  devendo  haver  um  a  verdadeira  proporção  entre  o  dano  suportado  por  este  e  a  conduta  adotada  pela  ré,  questões  que  implicam  na  conclusão  da  adequação  da  estipulação  de  uma  indenização  em  R$12.000,00  (doze  mil  reais),  por  ser  a  quantia  que  mais  se  amolda  aos  princípios  da  razoabilidade  e  da  proporcionalidade,  bem  como  às  peculiaridades  do  caso  e  aos  valores  normalmente  fixados  por  este  Tribunal"  (fls.  385-386  e-STJ  -  grifou-se).
+Ademais ,  oportuno  destacar  que  a  Corte  local  entendeu  que  a  conduta  da  agravante  acarretou  situação  excepcional  aos  recorridos,  capaz  de  superar  o  mero  inadimplemento.
+Dessa  maneira,  rever  o  entendimento  do  acórdão  atacado  demandaria  o  reexame  do  contexto  fático-probatório,  procedimento  inadmissível  no  âmbito  de  recurso  especial,  nos  termos  da  Súmula  nº  7/STJ:  "A  pretensão  de  simples  reexame  de  prova  não  enseja  recurso  especial."
+Nesse  sentido:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  COMPROMISSO  DE  COMPRA  E  VENDA  DE  IMÓVEL.  VENDEDORA  QUE  ATRASOU  INJUSTIFICADAMENTE  OS  PROCEDIMENTOS  NECESSÁRIOS  À  LIBERAÇÃO  DO  FINANCIAMENTO,  POSTERGANDO  A  IMISSÃO  NA  POSSE  DO  BEM.  DANOS  MORAIS  CONFIGURADOS.  SÚMULA  7  DO  STJ.  AGRAVO  INTERNO  NÃO  PROVIDO.
+1.  A  convicção  a  que  chegou  o  acórdão  de  que  restou  comprovado  nos  autos  a  demora  da  ré  em  providenciar  a  documentação  pedida  pela  Instituição  Financeira  para  instruir  o  procedimento  de  financiamento,  o  que  deu  ensejo  a  procrastinação  da  imissão  na  posse  do  imóvel  pela  parte  autora,  bem  como  a  ocorrência  de  danos  morais  no  presente  caso,  decorreu  da  análise  do  conjunto  fático-probatório,  e  o  acolhimento  da  pretensão  recursal  demandaria  o  reexame  do  mencionado  suporte,  obstando  a  admissibilidade  do  especial  à  luz  do  enunciado  7  da  Súmula  desta  Corte.
+2.  Agravo  interno  não  provido."
+(A gInt  no  AREsp  1.555.679/SP,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  julgado  em  3/3/2020,  DJe  10/3/2020).
+"AGRAVO  EM  RECURSO  ESPECIAL.  DIREITO  CIVIL  E  PROCESSUAL  CIVIL.  CONTRATO  DE  PROMESSA  DE  COMPRA  E  VENDA.  ATRASO  NA  ENTREGA  DA  OBRA.  INOVAÇÃO  RECURSAL.  PRELIMINAR  NÃO  CONHECIDA.  DANOS  MORAIS  RECONHECIDOS.  SÚMULA  7/STJ.  LUCROS  CESSANTES  PRESUMIDOS.  SÚMULA  83/STJ.  AGRAVO  INTERNO  DESPROVIDO."
+(AgInt no REsp 1.733.118/AM, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA,  julgado  em  17/2/2020,  DJe  26/2/2020).
+Desse modo,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
