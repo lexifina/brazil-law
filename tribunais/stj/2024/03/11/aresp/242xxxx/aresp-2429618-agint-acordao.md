@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 11/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUCESSÕES. AÇÃO DE ABERTURA DE INVENTÁRIO CUMULADA COM ALVARÁ JUDICIAL. 1. OFENSA AO ART. 374 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. 2. QUESTÕES DE ALTA INDAGAÇÃO. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. 3. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Não houve debate pelo Tribunal de origem acerca da alegada ofensa ao art. 374 do CPC/2015. Portanto, ausente o prequestionamento, entendido como a necessidade de ter o tema objeto do recurso sido examinado na decisão atacada. Incidem, ao caso, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+2. O colegiado estadual concluiu que as questões relativas à marca de titularidade do falecido e ao imóvel doado à herdeira Raquel demandam análise fática e instrução probatória própria, incompatível com o rito do inventário. Rever tal conclusão esbarra no óbice da Súmula 7 desta Corte.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Cuida-se de agravo interno interposto por José Lindolfo da Silva Labres contra decisão desta relatoria proferida nos termos da seguinte ementa (e-STJ, fl. 130):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ABERTURA DE INVENTÁRIO CUMULADA COM ALVARÁ JUDICIAL. 1. ALEGADA OFENSA AO ART. 374 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. 2. QUESTÃO ACERCA DA REMESSA ÀS VIAS ORDINÁRIAS POR SER DE ALTA INDAGAÇÃO. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. 3. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. 4. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Nas razões recursais (e-STJ, fls. 140-150), pugna o agravante pelo afastamento do óbice da Súmula 7 desta Corte, sob o argumento de que não há necessidade de reexame do conjunto fático-probatório, pois "a existência da doação e o pertencimento dos bens recebidos em doação há longa data pela herdeira Raquel, são fatos e provas admitidos e confessados no processo" (e-STJ, fl. 144).
+Aduz ter preenchido o requisito do prequestionamento quanto ao disposto no art. 374 do CPC/2015.
+Pleiteia, assim, a reconsideração da decisão agravada ou o encaminhamento do feito para julgamento pelo órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUCESSÕES. AÇÃO DE ABERTURA DE INVENTÁRIO CUMULADA COM ALVARÁ JUDICIAL. 1. OFENSA AO ART. 374 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. 2. QUESTÕES DE ALTA INDAGAÇÃO. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. 3. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Não houve debate pelo Tribunal de origem acerca da alegada ofensa ao art. 374 do CPC/2015. Portanto, ausente o prequestionamento, entendido como a necessidade de ter o tema objeto do recurso sido examinado na decisão atacada. Incidem, ao caso, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+2. O colegiado estadual concluiu que as questões relativas à marca de titularidade do falecido e ao imóvel doado à herdeira Raquel demandam análise fática e instrução probatória própria, incompatível com o rito do inventário. Rever tal conclusão esbarra no óbice da Súmula 7 desta Corte.
+3. Agravo interno a que se nega provimento.
+VOTO
+Os argumentos trazidos pelo insurgente não são capazes de modificar as conclusões da deliberação unipessoal.
+No tocante à tese de que houve confissão relativa ao fato da doação do bem à herdeira Raquel, amparado no art. 374 do CPC/2015, observa-se que a questão não foi apreciada pelo Tribunal de origem. Portanto, ausente o prequestionamento, entendido como a necessidade de ter o tema objeto do recurso sido examinado na decisão atacada.
+O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Incidem, ao caso, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. LIQUIDAÇÃO EXTRAJUDICIAL. SUSPENSÃO DA AÇÃO. INAPLICABILIDADE. JUSTIÇA GRATUITA. AUSÊNCIA DE PROVEITO PARA A PARTE. MATÉRIAS NÃO IMPUGNADAS. PRECLUSÃO. ART. 927, III, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSTOS EMBARGOS DE DECLARAÇÃO. SÚMULAS N. 282 E 356 DO STF. JUROS REMUNERATÓRIOS. CRÉDITO CONSIGNADO. NATUREZA ABUSIVA. TAXA MÉDIA DE MERCADO. REFERENCIAL. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.(..)
+4. Ausente o enfrentamento da matéria pelo acórdão recorrido e não opostos embargos de declaração com vistas a sanar o vício, inviável o conhecimento da matéria, por falta de prequestionamento. Incidência das Súmulas n. 282 e 356 do STF.( )
+8. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.428.950/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 11/12/2023, DJe de 18/12/2023.)
+Em relação à alegada ofensa ao art. 612 do CPC/2015, consta do acórdão recorrido que (e-STJ, fls. 31-32; sem grifo no original):
+Com efeito, não merece guarida a pretensão recursal, pois, como apontado nas próprias razões recursais, a não inclusão no plano de partilha da marca de titularidade do falecido, bem como a ausência de menção ao imóvel doado à herdeira R. com reserva de usufruto, decorreu da inércia das próprias partes em trazer ao feito a discussão jurídica quanto aos pontos mencionados.
+Além disso, tem-se que o processo de inventário não se constitui o palco adequado para que seja examinada a validade do negócio jurídico de doação do imóvel situado na Rua Dr. Barros Cassal, nº 374, nesta Capital, celebrado entre o autor da herança e a herdeira R. É que, em sede de inventário, a jurisdição se limita à arrecadação dos bens e direitos deixados pelo extinto para posterior pagamento das dívidas e tributos porventura existentes e, finalmente, partilha entre os herdeiros.
+Em outras palavras, o processo do inventário tem por finalidade precípua efetivar a partilha dos bens e direitos que integravam o patrimônio autor da herança. Desse modo, as questões que extrapolam esta finalidade e que exigem análise fática e instrução probatória própria não comportam resolução neste feito, impondo sua remessa aos meios ordinários, consoante dispõe o art. 612 do CPC:
+Art. 612. O juiz decidirá todas as questões de direito desde que os fatos relevantes estejam provados por documento, só remetendo para as vias ordinárias as questões que dependerem de outras provas.
+( )
+Dito isso tudo, considerando que a marca registrada em nome do de cujus e que o imóvel doado em favor de R. não foram listados pelo inventariante em razão de sua própria inércia, e, ainda, tendo em vista que tais pontos controvertidos constituem questões que fogem aos limites de discussão da presente lide, merece ser mantida a sentença que homologou o plano de partilha.
+Não há dúvida de que a matéria suscitada resume-se à parte final do art. 612 do CPC, na medida em que exige dilação probatória incompatível com o rito do inventário, apresentando-se como questão de alta indagação, cuja apreciação se mostra descabida no presente expediente.
+Além disso, certo é que se faz imprescindível oportunizar o exercício do contraditório e da ampla defesa aos apelados, tudo sob a perspectiva de um devido processo legal.
+Destarte, o Tribunal de origem consignou que as questões relativas à marca de titularidade do falecido e ao imóvel doado à herdeira Raquel demandam análise fática e instrução probatória própria incompatível com o rito do inventário.
+Logo, não há como desconstituir o entendimento delineado no acórdão impugnado, sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ.
+Ilustrativamente:
+CIVIL. SUCESSÕES. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INVENTÁRIO. PARTILHA. IMÓVEIS. REMESSA ÀS VIAS ORDINÁRIAS. QUESTÕES DE ALTA INDAGAÇÃO. INVERSÃO DO JULGADO. INVIABILIDADE (SÚMULA 7/STJ). AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NÃO CONHECER DO RECURSO ESPECIAL.
+(..)
+2. Esta Corte Superior de Justiça manifesta-se no sentido de que "cabe ao juízo do inventário decidir, nos termos do art. 984 do CPC, "todas as questões de direito e também as questões de fato, quando este se achar provado por documento, só remetendo para os meios ordinários as que demandarem alta indagação ou dependerem de outras provas", entendidas como de "alta indagação" aquelas questões que não puderem ser provadas nos autos do inventário" (REsp 450.951/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/3/2010, DJe de 12/4/2010).
+3. No caso em exame, a Corte a quo, analisando os fatos e provas da causa, concluiu que a questão relativa à propriedade dos imóveis cuja partilha se requer, bem como eventuais vícios dos documentos de transferência, deverão ser apreciados em sede própria, sendo incabíveis em sede de inventário, por demandarem alta indagação.
+4. Para concluir em sentido contrário, no que tange à pretensão de alterar o entendimento firmado e concluir que a pretensão de discutir a propriedade que a autora da herança exercia sobre os bens e a validade ou não das doações poderia ser decidida nos próprios autos do inventário, seria necessário o revolvimento do suporte fático-probatório (Súmula 7/STJ).
+5. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo para não conhecer do recurso especial.(AgInt no AREsp n. 1.759.389/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/3/2021, DJe de 7/4/2021.)
+Diante do exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
