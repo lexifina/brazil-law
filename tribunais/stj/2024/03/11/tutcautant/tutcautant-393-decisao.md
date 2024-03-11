@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de tutela cautelar antecedente requerida por ANTÔNIO MOACIR BETTIO e ADELMA SCHMECHEL BETTIO, visando emprestar efeito suspensivo a recurso especial que teriam manejado contra acórdão do Tribunal de Justiça do Estado de Mato Grosso, cujo inteiro teor não foi juntado aos autos.
+Afirmam os requerentes que o acordão, cujos efeitos pretendem sejam suspensos, foi proferido em cumprimento de sentença, iniciado em ação Ação de Nulidade de Ato Jurídico c/c Reintegração de Posse n. 0000880-05.2004.8.11.0055, ajuizados por ROBERTO ROVARIS e ANTÔNIA ROMERO ROVARIS, os ora requeridos.
+Em consulta ao sistema eletrônico de informações processuais desta Corte (Justiça), apurou-se ter sido distribuído à Terceira Turma, em 2006, Ministro Humberto Gomes de Barros, o Ag 777.410/MT, que tem como partes as mesmas deste processo. Consta ainda, na aba "detalhes", no referido Agravo 777.410/MT, o assunto: Civil - Ato Jurídico - Anulatória.
+Além desta tutela cautelar, foram a mim distribuídos os seguintes processos: AREsp 1.858.685/MT (2021) e o REsp 2.105.886/MT (2023), este por prevenção do anterior.
+Examinando o AREsp 1.858.685/MT, constata-se existir cópia da inicial daquela ação de nulidade de ato jurídico, aqui mencionada, proposta por ROBERTO ROVARIS e ANTÔNIA ROMERO ROVARIS contra os ora requerentes, ANTÔNIO MOACIR BETTIO e ADELMA SCHMECHEL BETTIO, figurando ainda como réu o Cartório do 1º da Comarca de Jaciara, serventia que consta, de igual modo, como agravada no já citado Ag 777.410/MT, que aportou neste Tribunal Superior no ano de 2006.
+Em tal contexto, forçoso reconhecer que o Ag 777.410/MT versa sobre a contenda aqui mencionada, tendo, como processo de origem a ação anulatória de ato jurídico, demanda que é comum a todos os processos aqui relacionados, nos quais figuram as partes destes autos, ROBERTO ROVARIS/ANTÔNIA ROMERO ROVARIS e ANTÔNIO MOACIR BETTIO/ADELMA SCHMECHEL BETTIO.
+Incide, portanto, a norma do art. 71, §1º, do RISTJ, apta a denotar que há prevenção do órgão julgador, é dizer, a Terceira Turma, em cujo âmbito deverá ser redistribuída esta TutCauAnt 393/MT, como também os seguintes processos: AREsp 1.858.685/MT e REsp 2.105.886/MT.
+Ante o exposto, redistribuam-se estes autos no âmbito da Terceira Turma.
+Publique-se.
+EMENTA
