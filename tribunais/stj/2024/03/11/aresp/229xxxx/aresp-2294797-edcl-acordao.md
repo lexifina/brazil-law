@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 11/03/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Trata-se de embargos de declaração opostos contra acórdão, assim ementado (fl. 541):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+O embargante sustenta que o acórdão contém o vício de omissão, aos seguintes argumento: (a) o aresto embargado incorreu em equívoco e contradição, na medida em que admitiu que a pretensão recursal demandaria em novo exame do acervo fático-probatório, mas, não teria efetuado o primeiro exame da espécie, porquanto o caso prescinde do reexame, diante da admissibilidade da valoração dos fatos, da prova e do direito; (b) houve negativa de acesso à justiça pela Corte de origem, na medida em que ficou comprovada a iliquidez corrente e patrimonial do espólio (não auferir rendimentos), a justificar a concessão de justiça gratuita na demanda; (c) não se considerou, na espécie, a tese de que o suposto expressivo patrimônio do espólio está comprometido por dívidas, razão pela qual não pode arcar com as despesas processuais. Pede a integração do julgado, com atribuição de efeitos modificativos, a fim de que o recurso especial seja conhecido e provido.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Consoante o entendimento jurisprudencial do Superior Tribunal de Justiça, "os segundos embargos de declaração se prestam para sanar eventual vício existente no julgamento do primeiro incidente declaratório, não para suscitar questão relativa a julgado anterior e que não foi arguida nos primeiros embargos declaratórios. Aplicação da Súmula 317 do STF (EDcl nos EDcl no MS 7.728/DF, Rel. Ministro Felix Fischer, Terceira Seção, DJU de 23/08/2004)" (AgInt no AREsp n. 2.024.955/DF, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 11/9/2023, DJe de 14/9/2023).
+No caso dos autos, a parte embargante alega a ocorrência do vício de omissão (fl. 554):
+ ..  a decisão ora embargada, concessa venia, incorreu na OMISSÃO, OBSCURIDADE e CONTRADIÇÃO, e ainda, na contraditoriedade interpretativa diante da SITUAÇÃO FÁTICA COMPROVADA NOS AUTOS, porquanto perfeitamente aferível, sem que tal fato implique em reexame, revisão, ou revolvimento da prova, segundo o princípio da REVALORIZAÇÃO ou VALORIZAÇÃO dos FATOS, da PROVA e do DIREITO, o que é admitido em sede do RECURSO ESPECIAL, para qualquer residente na FEDERAÇÃO, exceção imposta ao espolio, enquanto recorrentes os ensinamentos desta CORTE ESPECIAL, a iniciar, pela lavra do Ministro Vicente Cernicchiaro.
+Por sua vez, o julgado embargado anotou que (fls. 545-546):
+ ..  a parte embargante, irresignada, busca meramente a infringência do julgado quanto ao ponto da aplicação da Súmula 7/STJ, ao indicar que não haveria a necessidade de reexame de fatos e de provas em recurso especial no tocante à alegada demonstração dos requisitos para a concessão de justiça gratuita.
+Nesse contexto, observo não ser hipótese de embargos de declaração, uma vez que o acórdão embargado referendou a decisão monocrática que negou provimento ao agravo em recurso especial, uma vez que a revisão da conclusão a que chegou o Tribunal de origem sobre a pretensão recursal demandaria o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial (Súmula 7/STJ).
+Assim, a pretensão aclaratória não identifica a maneira pela qual a primeira solução da insurgência integrativa teria incorrido em omissão de fundamentação, a justificar o manejo de segundo recurso de embargos de declaração. Com efeito, à falta de constatação de vício de fundamentação, era realmente caso de rejeição dos embargos de declaração, não havendo falta de pronunciamento do órgão julgador sobre ponto essencial à solução da controvérsia, que, no caso, foram os primeiros embargos de declaração.
+A segunda oposição de embargos de declaração consubstancia, em verdade, reprodução de insatisfação com o resultado do julgamento no tema dos requisitos para a concessão da justiça gratuita, razão pela qual o recurso não pode ser acolhido.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
