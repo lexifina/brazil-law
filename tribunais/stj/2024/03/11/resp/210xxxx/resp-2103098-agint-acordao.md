@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 11/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO INDIVIDUAL DE TÍTULO COLETIVO. FALECIMENTO DO SERVIDOR ANTES DO AJUIZAMENTO DA AÇÃO DE CONHECIMENTO. LEGITIMIDADE ATIVA DOS SUCESSORES PARA EXECUTAR O TÍTULO COLETIVO. AGRAVO INTERNO NÃO PROVIDO.
+1. O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora gravada torna incólume o entendimento nela firmado.
+2. A jurisprudência do Superior Tribunal de Justiça é no sentido de que o sindicato possui legitimidade para substituir pensionista de falecido servidor, o qual integra a categoria substituída em razão da natureza do vínculo que a pensão gera em relação ao pensionista, sendo irrelevante o fato de que o óbito do servidor tenha ocorrido antes do ajuizamento da ação civil pública pelo Sindicato. Nesse sentido: AgInt no REsp n. 1.883.100/RN, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 9/8/2021, DJe de 13/8/2021.)
+3 . Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto em face de decisão monocrática, de minha relatoria, cuja ementa é a seguinte:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. AUSÊNCIA DE OMISSÕES. TUTELA COLETIVA. CUMPRIMENTO DE SENTENÇA. ÓBITO DO SERVIDOR ANTES DO AJUIZAMENTO DA AÇÃO DE CONHECIMENTO. LEGITIMIDADE DO SINDICATO. PRECEDENTES. RECURSO ESPECIAL NÃO PROVIDO.
+A parte agravante alega, em síntese, que o óbito do servidor foi antes do ajuizamento da ação de conhecimento, de maneira que não houve liame vinculando os sucessores e a entidade de classe.
+Requer a reconsideração da decisão agravada ou seja o feito submetido à julgamento no órgão colegiado.
+Apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO INDIVIDUAL DE TÍTULO COLETIVO. FALECIMENTO DO SERVIDOR ANTES DO AJUIZAMENTO DA AÇÃO DE CONHECIMENTO. LEGITIMIDADE ATIVA DOS SUCESSORES PARA EXECUTAR O TÍTULO COLETIVO. AGRAVO INTERNO NÃO PROVIDO.
+1. O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora gravada torna incólume o entendimento nela firmado.
+2. A jurisprudência do Superior Tribunal de Justiça é no sentido de que o sindicato possui legitimidade para substituir pensionista de falecido servidor, o qual integra a categoria substituída em razão da natureza do vínculo que a pensão gera em relação ao pensionista, sendo irrelevante o fato de que o óbito do servidor tenha ocorrido antes do ajuizamento da ação civil pública pelo Sindicato. Nesse sentido: AgInt no REsp n. 1.883.100/RN, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 9/8/2021, DJe de 13/8/2021.)
+3 . Agravo interno não provido.
+VOTO
+O presente agravo não merece lograr êxito.
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+Esclareço, outrossim, que a decisão que se pretende cassar é com base no art. 932, inciso III, c.c. o art. 1.030, § 2º, do Código de Processo Civil de 2015, não trazendo a parte qualquer motivo hábil para sua anulação.
+Ao analisar a controvérsia, o Tribunal de origem assentou que:
+Cinge-se a controvérsia em saber se THEREZINHA PINHEIRO FREIRE, sucessora do ex-servidor MANOEL ACRYSIO PINHEIRO(falecido antes do ajuizamento da ação de conhecimento), possui o direito a se habilitar no processo de cumprimento de sentença para pleitear o levantamento dos valores que foram reconhecidos em favor do aludido exequente, através da Ação de Conhecimento nº. 0006181-97.2000.4.05.8000, ajuizada em 05.10.2000. Com efeito, penso que não assiste razão à recorrente, devendo, portanto, ser mantido o ato judicial impugnado. Isso porque uma vez expedido o precatório, tal qual parece ser o caso dos autos, não há mais espaço para discussão que deveria ter sido travada no processo de conhecimento ou no cumprimento de sentença, a exemplo da legitimidade de substituição processual realizada pelo sindicato.
+Desta feita, verifica, portanto, que o acórdão objurgado encontra-se em consonância com o entendimento desta Corte, uma vez que a jurisprudência do Superior Tribunal de Justiça é de que o sindicato possui legitimidade para substituir pensionista de falecido servidor, o qual integra a categoria substituída em razão da natureza do vínculo que a pensão gera em relação ao pensionista, sendo irrelevante o fato de que o óbito do servidor tenha ocorrido antes do ajuizamento da ação civil pública pelo Sindicato. Precedentes: AgInt no REsp n. 1.883.100/RN, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 9/8/2021, DJe de 13/8/2021.).
+Ainda, nesse sentido:
+PROCESSUAL CIVIL. EXECUÇÃO INDIVIDUAL DE TÍTULO FORMADO EM AÇÃO CIVIL PÚBLICA AJUIZADA POR SINDICATO. ÓBITO DO SERVIDOR ANTES DO AJUIZAMENTO DA AÇÃO DE CONHECIMENTO. LEGITIMIDADE ATIVA DOS PENSIONISTAS PARA EXECUTAR O TÍTULO COLETIVO. PRECEDENTES. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Em cumprimento de sentença, a União interpôs agravo de instrumento em razão da decisão que indeferiu o pedido de extinção da execução formulado pela parte executada, sob o argumento de ilegitimidade do sindicato autor da demanda coletiva na origem, para representar o instituidor da pensão, falecido à época da propositura da ação coletiva. O Tribunal Regional Federal da 5ª Região deu provimento ao recurso.
+II - Verifica-se que o acórdão objurgado encontra-se em dissonância com o entendimento desta Corte, uma vez que a jurisprudência do Superior Tribunal de Justiça é de que o sindicato possui legitimidade para substituir pensionista de falecido servidor, o qual integra a categoria substituída em razão da natureza do vínculo que a pensão gera em relação ao pensionista, sendo irrelevante o fato de que o óbito do servidor tenha ocorrido antes do ajuizamento da ação civil pública pelo Sindicato. Nesse sentido: AgInt no REsp n. 1.883.100/RN, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 9/8/2021, DJe de 13/8/2021.) III - Agravo interno improvido.
+(AgInt no REsp n. 1.990.427/RN, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/10/2022, DJe de 13/10/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO INDIVIDUAL DE TÍTULO FORMADO EM AÇÃO CIVIL PÚBLICA AJUIZADA POR SINDICATO. ÓBITO DO SERVIDOR ANTES DO AJUIZAMENTO DA AÇÃO DE CONHECIMENTO. LEGITIMIDADE ATIVA DOS PENSIONISTAS PARA EXECUTAR O TÍTULO COLETIVO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência deste Tribunal Superior firmou-se no sentido de que "o título executivo oriundo de ação coletiva abrange os servidores e pensionistas incluídos na categoria representada pelo substituto processual", e que "o sindicato possui legitimidade ativa para substituir a pensionista diante da natureza do vínculo que a pensão gera em relação à viúva do servidor, devendo esta ser incluída, portanto, na categoria representada pelo sindicato, sendo desnecessária sua efetiva filiação à entidade".
+2. O acórdão recorrido está em sintonia com a jurisprudência desta Corte segundo a qual mostra-se possível a habilitação da pensionista durante o curso do processo em trâmite pelo servidor representado pelo sindicato a qual aquele é filiado.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.928.282/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 14/3/2022, DJe de 17/3/2022.)
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
