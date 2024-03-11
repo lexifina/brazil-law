@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, a e c, da Constituição Federal) interposto contra acórdão assim ementado (fls. 1.280, e-STJ):
+AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER. RECURSO LIMITADO AO EXAME DA DECISÃO OBJURGADA. CONCESSÃO DO PEDIDO ANTECIPATÓRIO. MEDIDA DE NATUREZA SATISFATIVA QUE ESGOTA O MÉRITO DA DEMANDA. VEDAÇÃO LEGAL. 1. O agravo de instrumento trata-se de recurso com restrito exame, sendo pertinente ao órgão ad quem averiguar, tão somente, a legalidade da decisão agravada, sob pena de suprimir-se inexoravelmente um grau de jurisdição. 2. Conforme art. 1º, § 3º, da Lei nº 8.437/1992, é vedado o deferimento de medidas liminares, sejam cautelares ou antecipatórias da tutela, contra a Fazenda Pública, que esgote, de pronto, o objeto da demanda. 3. In casu, o pedido antecipatório confunde-se com o mérito da ação originária, razão pela qual, diante da sua natureza satisfativa, torna inviável o seu acolhimento. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO. DECISÃO MANTIDA.
+Os Aclaratórios foram rejeitados.
+O agravante, no Recurso Especial, aponta violação dos arts. 6º, §§ 1º e 2º, do Decreto-Lei 4.657/1942; 1º, 3º, caput, 4º, 16, 311, II e IV, 369, 371, 373, I, 374, II e III, 384, 405, 411, III, 425, VI, 427, caput, 489, II, § 1º, II, IV e VI, 490, 492, 497, 502, 926, 927, I, II, III e IV, 932, V, a e b, 987, § 2º, 1.022, II, parágrafo único, I e II, 1.025, 1.029, § 1º, 1.039, caput, 1.040, II, da Lei 13.105/2015; 215 e 225 da Lei 10.406/2002; 5º e 6º da Lei 11.738/2008; 28, parágrafo único, da Lei 9.868/1999; e 2º e 4º da Lei 11.417/2006, além de divergência jurisprudencial.
+Afirma que ficou comprovado o preenchimento do requisitos da tutela de urgência para que seja determinado "o imediato pagamento do seu direito adquirido de recebimento do seu salário base por Nível 2, por 40 horas, Referência A-3, no valor de R$ 6.518,11, diante da Tabela de vencimento e do piso nacional de 2022 estabelecido no (evento 1 -Doc. 9)" (fl. 1.383).
+Contrarrazões às fls. 1.507-1.513, e-STJ.
+O juízo de admissibilidade negativo (fls. 1.524-1.526, e-STJ) de ensejo à interposição de Agravo (fls. 1.534-1.571, e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 19 de fevereiro de 2024.
+Não prospera a irresignação.
+Esta Corte Superior, em sintonia com o disposto na Súmula 735 do STF, entende que, via de regra, não é cabível REsp para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, por não representar pronunciamento definitivo, mas provisório, a respeito do direito afirmado na demanda, sujeito a modificação a qualquer tempo.
+Confiram-se precedentes:
+(..) Incidência do óbice da Súmula n. 735 do STF, tendo em vista que não cabe recurso especial em face do juízo precário realizado pela instância ordinária no âmbito da análise da tutela de urgência, eis que não preenchido o requisito da "causa decidida" previsto no art. 105, III, da Constituição Federal, para fins de manejo do recurso especial. Nesse sentido: AgInt no AREsp 1.930.850/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 28/04/2022; AgInt no AREsp 1.135.570/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 24/03/2022. (..)
+(AgInt no AREsp n. 2.400.222/MT, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 6/12/2023.)
+(..) A jurisprudência do Superior Tribunal de Justiça é no sentido de que, à luz do disposto no enunciado da Súmula n.º 735 do STF, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. (..)
+(AgInt no AREsp n. 2.205.858/RJ, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 3/11/2023.)
+Ademais, a análise do preenchimento dos requisitos autorizadores da concessão da medida liminar reclama a reapreciação do contexto fático-probatório dos autos, providência inviável na via eleita ante o óbice da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO ENUNCIADO ADMINISTRATIVO N. 3/STJ PARA O PRESENTE AGRAVO. AGRAVO DE INSTRUMENTO. LIMINAR EM MEDIDA CAUTELAR. ANÁLISE DO FUMUS BONI IURIS E DO PERICULUM IN MORA. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. O Tribunal local, ao analisar o agravo de instrumento, interposto contra o indeferimento da liminar em medida cautelar limitou-se ao exame dos requisitos autorizadores da concessão da tutela de urgência, notadamente no que pertine à comprovação do periculum in mora e do fumus boni iuris, incidindo o óbice da Súmula 7 desta Corte.
+2. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional fica prejudicada em razão da aplicação da Súmula 7/STJ.
+3. Agravo interno não provido
+(AgInt no AREsp n. 881.216/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/6/2016, DJe de 8/6/2016.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA DE RESPONSABILIDADE POR ATOS DE IMPROBIDADE ADMINISTRATIVA. INDISPONIBILIDADE DE BENS. INDEFERIMENTO DE LIMINAR. AGRAVO DE INSTRUMENTO. FUMUS BONI IURIS E PERICULUM IN MORA. SÚMULA 7/STJ.
+1. O exame acerca dos requisitos autorizadores da concessão da liminar, periculum in mora e fumus boni iuris, demanda, como regra, reapreciação do conjunto probatório existente no processo, vedado em Recurso Especial em virtude do preceituado na Súmula 7/STJ: "A pretensão de simples reexame de provas não enseja recurso especial."
+2. In casu, o Tribunal local limitou-se ao exame dos requisitos autorizadores da concessão da tutela de urgência pleiteada, quais sejam, periculum in mora e fumus boni iuris. Rever tal entendimento, na hipótese dos autos, esbarra no óbice da Súmula 7 do STJ.
+3. Agravo Regimental não provido.
+(AgRg no REsp n. 1.348.190/GO, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/6/2015, DJe de 18/11/2015.)
+Acrescente-se que não haveria como se conhecer do Apelo, tendo em vista que não houve o prequestionamento da tese recursal quanto às supostas ofensas aos artigos de lei apontados, já que a questão postulada não foi examinada pela Corte a quo à luz de tais dispositivos legais. Incide, no ponto, o óbice da Súmula 211/STJ.
+Com efeito, para que se configure tal requisito é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como tenha sido exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se a sua aplicação ou não ao caso concreto (AgInt no AREsp 1.511.330/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 19/12/2019), o que não ocorreu.
+Apenas para esclarecer eventuais dúvidas, ressalto que, mesmo nos casos em que o Colegiado originário acolhe os EDcl "para efeito de prequestionamento", não é satisfeita a exigência se não houver a indispensável emissão de juízo de valor sobre a matéria.
+Ressalte-se, por fim, que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso pela alínea a do permissivo constitucional. Nessa senda:
+(..) Prejudicada a análise do suscitado dissídio jurisprudencial quando a tese veiculada nas razões do especial é afastada pela análise da irresignação fundada na alínea a do permissivo constitucional. Precedentes. (..) (AgInt no REsp 1.251.683/RJ, relator Ministro Og Fernandes, Segunda Turma, DJe de 19/4/2021.)
+(..) Resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional. (..) (AgInt no AREsp 1.673.561/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 25/3/2021.)
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se. Intimem-se.
+EMENTA
