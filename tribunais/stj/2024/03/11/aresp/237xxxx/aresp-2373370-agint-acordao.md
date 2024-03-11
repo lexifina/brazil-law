@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 11/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESSARCIMENTO. CONTRATO DE PRESTAÇÃO DE SRVIÇOS DE CONSULTORIA TÉCNICA. SUPOSTA VIOLAÇÃO AO ARTIGO 18 DA LEI 7.347/95. TESE RECURSAL SOBRE A CONDENAÇÃO EM HONORÁRIOS DE SUCUMBÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Ocorrendo omissão no julgamento dos embargos de declaração pelo Tribunal local sob ponto relevante da demanda, cabe ao recorrente, nas razões do recurso especial, suscitar preliminar de violação do artigo 1.022 do CPC/2015, e não insistir no mérito, sob pena de ausência de prequestionamento das teses recursais.
+2. Somente se poderá entender pelo prequestionamento implícito quando a matéria tratada no dispositivo legal for apreciada e solucionada pelo Tribunal de origem, de forma que se possa reconhecer qual norma direcionou o decisum objurgado.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo ESTADO DO RIO GRANDE DO SUL contra decisão assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESSARCIMENTO. CONTRATO DE PRESTAÇÃO DE SRVIÇOS DE CONSULTORIA TÉCNICA. SUPOSTA VIOLAÇÃO AO ARTIGO 18 DA LEI 7.347/95. TESE RECURSAL SOBRE A CONDENAÇÃO EM HONORÁRIOS DE SUCUMBÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Nas razões deste agravo, em síntese, sustenta a não incidência da Súmula 211/STJ porquanto o tema que ora se discute foi trazido à baila nas razões de apelação apresentadas pelo Estado do Rio Grande do Sul, mas que o Tribunal de Justiça não enfrentou a questão quando do julgamento dos recursos interpostos pelas partes, limitando-se a prover o recurso da FUNDATEC e desprover o apelo do Estado.
+Aduz que o TJ/RS tratou do tema dos honorários e não abordou a questão sustentada pelo Estado (não cabimento dos honorários em sede de ação civil pública, por conta do artigo 18, da Lei 7.347/85) por entender, contrariamente ao que diz a lei, que a verba sucumbencial seria devida.
+Alega que trouxe o assunto à baila por duas oportunidades e o Tribunal de origem se manifestou contrariamente ao entendimento esposado pelo demandante, ainda que sem fazer referência ao mencionado artigo 18 da Lei 7.347/85, evidenciando o prequestionamento do tema.
+Pugna pela reconsideração da decisão ou apresentação deste agravo para julgamento pelo Órgão Colegiado.
+É o necessário relatar.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESSARCIMENTO. CONTRATO DE PRESTAÇÃO DE SRVIÇOS DE CONSULTORIA TÉCNICA. SUPOSTA VIOLAÇÃO AO ARTIGO 18 DA LEI 7.347/95. TESE RECURSAL SOBRE A CONDENAÇÃO EM HONORÁRIOS DE SUCUMBÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Ocorrendo omissão no julgamento dos embargos de declaração pelo Tribunal local sob ponto relevante da demanda, cabe ao recorrente, nas razões do recurso especial, suscitar preliminar de violação do artigo 1.022 do CPC/2015, e não insistir no mérito, sob pena de ausência de prequestionamento das teses recursais.
+2. Somente se poderá entender pelo prequestionamento implícito quando a matéria tratada no dispositivo legal for apreciada e solucionada pelo Tribunal de origem, de forma que se possa reconhecer qual norma direcionou o decisum objurgado.
+3. Agravo interno não provido.
+VOTO
+Sustenta o agravante a não incidência da Súmula 211/STJ por existência de prequestionamento do tema objeto do artigo 18 da Lei 7.347/85 - não cabimento dos honorários em sede de ação civil pública, por conta do artigo 18, da Lei 7.347/85 -, sob o argumento de que trouxe o assunto à baila por duas oportunidades e o Tribunal de origem se manifestou contrariamente ao entendimento esposado pelo demandante, ainda que sem fazer referência ao mencionado artigo 18 da Lei 7.347/85, evidenciando o prequestionamento do tema.
+As razões não merecem prosperar.
+Isso porque, no que concerne à apontada violação ao artigo 18 da Lei nº 7.347/85, observa-se que a tese recursal que fundamentou a suposta violação - em se tratando de ação civil pública, do que é exemplo a ação de improbidade administrativa, a condenação do autor em honorários de sucumbência não decorre, por si só, da improcedência da ação, devendo ocorrer a má-fé do autor, o que não ocorreu no caso dos autos -, não foi debatida no acórdão recorrido, estando desatendido o requisito do prequestionamento nos termos da Súmula 211/STJ que dispõe in verbis: inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+Oportuno consignar que o STJ não considera suficiente, para fins de prequestionamento, que a matéria tenha sido suscitada pelas partes, mas sim que a respeito, tenha havido amplo debate no acórdão recorrido.
+Nesse sentido:
+AMBIENTAL E PROCESSUAL CIVIL. ALEGAÇÃO DE OFENSA AOS ARTS. 799 E 879, III,DO CPC. MATÉRIA NÃO PREQUESTIONADA. SÚMULA 211/STJ.
+1. Recurso especial em que se discute a ocorrência de inovação ilegal no estado de fato e sobre os limites do poder geral de cautela do magistrado - arts. 799 e 879 do CPC.
+2. O prequestionamento implícito ocorre quando a matéria jurídica vinculada no recurso tenha sido efetivamente enfrentada e discutida no acórdão impugnado, ainda que este não tenha mencionado expressamente os artigos de lei objeto do inconformismo.
+3. A alegada violação de norma federal não foi objeto de prequestionamento pelo Tribunal de origem, sequer de forma implícita. Ausente o requisito do prequestionamento, incide o disposto na Súmula nº211 do STJ.
+Agravo regimental improvido.
+(AgRg no REsp 1354955/PB, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 12/05/2015, DJe 19/05/2015)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PAGAMENTODE CUSTAS. PRINCÍPIO DA CAUSALIDADE. REVISÃO DE INSTRUMENTO DE TRANSAÇÃO EDO CONJUNTO FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS Nº 5 E Nº 7 DOSTJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ.
+1. Se a reforma do julgado exige o reexame do instrumento de transação celebrado entre as partes, bem como a revisão do conjunto fático-probatório dos autos, é inviável o recurso especial (STJ, Súmulas nº 5 e nº 7).
+2. A falta de prequestionamento do dispositivo legal tido por violado, a despeito da oposição de embargos declaratórios, inviabiliza o exame do recurso especial (STJ, Súmula nº 211).
+3. Agravo regimental desprovido.
+(AgRg no AREsp 655.437/RJ, Rel. Ministra MARGA TESSLER (JUÍZA FEDERALCONVOCADA DO TRF 4ª REGIÃO), PRIMEIRA TURMA, julgado em 28/04/2015, DJe13/05/2015)
+Assim, verificando a ocorrência de omissão sob ponto relevante da demanda, caberia ao recorrente, nas razões do recurso especial, ter suscitado preliminar de violação do artigo 1.022 do CPC, e não insistir no mérito.
+Ilustrativamente:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTAÇÃO. DEFICIÊNCIA. TESE RECURSAL. PREQUESTIOAMENTO. AUSÊNCIA. CUMPRIMENTO DE SENTENÇA. REJEIÇÃO À IMPUGNAÇÃO. HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO.
+1. Não se conhece de recurso especial quando os argumentos expendidos estão dissociados da fundamentação que ampara o aresto impugnado, o que faz incidir, por analogia, a Súmula 284 do STF.
+2. Hipótese em que o apelo nobre limita-se a defender a possibilidade de condenação em honorários advocatícios no cumprimento de sentença contra a Fazenda Pública, enquanto o aresto impugnado rejeitou a incidência dessa verba amparando-se na Súmula 519 do STJ, segundo a qual, "na hipótese de rejeição da impugnação de cumprimento de sentença, não são cabíveis honorários advocatícios."
+3. A falta de prequestionamento da tese suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, de acordo com a Súmula 211 do STJ.
+4. Segundo o entendimento desta Corte de Justiça, para reconhecer o prequestionamento ficto de que trata o art. 1.025 do CPC/2015, na via do especial, impõe-se ao recorrente a indicação de contrariedade ao art. 1.022 do CPC/2015, o que não ocorreu.
+5. A Corte Especial do Superior Tribunal de Justiça, sob o regime dos recursos especiais repetitivos, pacificou o entendimento de que não são cabíveis honorários advocatícios quando rejeitada a impugnação ao cumprimento de sentença (Súmula 519 do STJ), sendo esse entendimento mantido por este Tribunal mesmo após o advento do CPC/2015.
+6. A conformidade do acórdão regional recorrido com a jurisprudência desta Corte Superior enseja a aplicação do óbice estampado na Súmula 83 do STJ.
+7. Agravo interno desprovido.
+(AgInt no REsp n. 1.997.899/BA, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 22/5/2023, DJe de 24/5/2023.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DISPONIBILIZAÇÃO DE EXAME MÉDICO. APLICAÇÃO DE MULTA, PELO DESCUMPRIMENTO DA OBRIGAÇÃO. TESE RECURSAL NÃO PREQUESTIONADA. SÚMULA 211 DO STJ. CABIMENTO. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Trata-se, na origem, de Ação Cominatória, objetivando compelir o Estado da Bahia a disponibilizar o exame de angiografia cerebral. O Tribunal de origem asseverou que "a multa diária se configura legítimo instrumento coercitivo para o cumprimento da decisão judicial, e a sua incidência somente se justifica em caso de desobediência à determinação exarada pelo Juiz. Portanto, é imprescindível assegurar que o valor das astreintes guarde proporcionalidade com o objetivo da obrigação de fazer, de modo a assegurar-lhe o valor coercitivo que dela se espera, no caso em comento, risco eminente à vida".
+III. Por simples cotejo das razões recursais e dos fundamentos do acórdão recorrido, percebe-se que a tese recursal de que seria indevido o Tribunal restabelecer astreintes que o próprio juízo concedente entendeu desnecessária ou incabível -, não foi apreciada, no voto condutor, não tendo servido de fundamento à conclusão adotada pelo Tribunal de origem, incidindo o óbice da Súmula 211/STJ.
+IV. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (STJ, REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 10/04/2017). Hipótese em julgamento na qual a parte recorrente não indicou, nas razões do apelo nobre, contrariedade ao art. 1.022 do CPC/2015.
+V. Segundo o entendimento desta Corte, firmado sob a sistemática dos recursos repetitivos, "a particularidade de impor obrigação de fazer ou de não fazer à Fazenda Pública não ostenta a propriedade de mitigar, em caso de descumprimento, a sanção de pagar multa diária, conforme prescreve o § 5º do art. 461 do CPC/1973. E, em se tratando do direito à saúde, com maior razão deve ser aplicado, em desfavor do ente público devedor, o preceito cominatório, sob pena de ser subvertida garantia fundamental. Em outras palavras, é o direito-meio que assegura o bem maior: a vida" (STJ, REsp 1.474.665/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe de 22/06/2017).
+VI. Agravo interno improvido.
+(AgInt no AREsp n. 2.278.715/BA, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 15/5/2023, DJe de 23/5/2023.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
