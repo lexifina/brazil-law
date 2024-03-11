@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da Constituição Federal) contra acórdão do Tribunal de Justiça do Estado do Ceará cuja ementa é a seguinte:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE APOSENTADORIA. PARIDADE ENTRE ATIVOS E INATIVOS. RELAÇÃO DE TRATO SUCESSIVO. PRESCRIÇÃO DO FUNDO DE DIREITO AFASTADA. JURISPRUDÊNCIA CONSOLIDADA NO STJ. PRECEDENTES DESTE TRIBUNAL DE JUSTIÇA. RECURSO CONHECIDO E IMPROVIDO. DECISÃO MONOCRÁTICA MANTIDA.
+1. A decisão monocrática agravada não merece reparos, uma vez que amparada no uníssono entendimento das três Câmaras de Direito Público deste Tribunal de Justiça, as quais já tiveram a oportunidade de examinar casos semelhantes ao presente, versando exatamente sobre pedido de revisão de aposentadoria objetivando a obtenção da paridade dos proventos coma remuneração do servidor em atividade.
+2. A parte autora não questiona o ato de concessão de sua aposentadoria, mas a omissão do promovido em pagar-lhe o benefício com a observância à integralidade e à paridade entre os seus proventos e a remuneração dos servidores em atividade. Desse modo, há de se reconhecer tratar-se de relação de trato sucessivo, em que a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação (Súmula 85/STJ).
+3. Pendente a conclusão da instrução do feito, não é o caso de imediato julgamento por esta Corte.
+4. Recurso conhecido e improvido.
+Os Embargos de Declaração foram rejeitados (fl. 252, e-STJ).
+A parte agravante, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 1º do Decreto 20.910/1932; e 489, § 1º, V, e 1.022, I e II, do CPC. Argumenta que ocorreu a prescrição do fundo de direito no presente caso.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 16.2.2024.
+Não se configura ofensa aos arts. 489 e 1.022 do CPC/2015, porquanto o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida. In casu, fica claro que não há vícios a serem sanados e que os Aclaratórios veiculam mero inconformismo com o conteúdo da decisão embargada, que foi desfavorável ao recorrente.
+Recorde-se, ademais, que o órgão julgador não é obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Precedentes: AgInt nos EDcl no AREsp 1.290.119/RS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 30.8.2019; AgInt no REsp 1.675.749/RJ, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 23.8.2019; REsp 1.817.010/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 20.8.2019; AgInt no AREsp 1.227.864/RJ, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 20.11.2018.
+Quanto ao mérito, "a jurisprudência desta Corte Superior é firme no sentido de que não se opera a prescrição de fundo de direito nos casos em que se objetive a revisão dos proventos de aposentadoria, com base na paridade entre ativos e inativos, nos termos do art. 40, § 8º, da Constituição da República. A propósito: AgInt no AREsp n. 1491611/PR, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 21/3/2022, DJe 23/3/2022; AgInt no REsp n. 1.905.408/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/5/2021, DJe 5/5/2021; AgInt no REsp n. 1.828.964/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 28/9/2020, DJe 30/9/2020 e AgInt no REsp n. 1.809.613/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/11/2019, DJe 19/12/2019" (AgInt no AREsp 1.727.666/SC, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 18.5.2022).
+Ante o exposto, conheço do Agravo para negar provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
