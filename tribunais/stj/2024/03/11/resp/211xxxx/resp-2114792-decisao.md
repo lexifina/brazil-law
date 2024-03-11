@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial manejado por ALCINDO MACHADO com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça de Justiça do Estado de São Paulo, assim ementado (fl. 36):
+EXECUÇÃO FISCAL - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - IPTU Exercícios de 2009 a 2013 - Município de Salto de Pirapora - Insurgência do executado contra a condenação em honorários advocatícios - Hipótese de matéria insuscetível de conhecimento por via da exceção - Inteligência da Súmula nº 393 do STJ -Recurso não provido.
+A parte recorrente aponta, além de dissídio jurisprudencial, violação aos arts. 85, § 1º, 312, 316, 318, do CPC; 26 da Lei Federal 6.080/1980. Aduz, em resumo, a validade da exceção de pré-executividade para afastar a condenação em honorários advocatícios, haja vista não depender de dilação probatória, uma vez que o débito fiscal foi quitado inteiramente dois anos antes da citação do executado (fl. 62).
+Decisão do Tribunal de origem, à fls. 80, determinando o envio dos autos ao órgão colegiado, a fim de que se procedesse a eventual juízo de conformação (art. 543-B e seguintes do CPC/73), frente ao quanto decidido pelo Superior Tribunal de Justiça nos autos do REsp n 1.104.900/ES, Tema nº 104.
+Refutado o juízo de retratação (fls. 82/85), subiram os autos, então, ao Superior Tribunal de Justiça (fl. 87/88) .
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não prospera.
+Com relação aos arts. 85, § 1º, 312, 316, 318, do CPC e 26 da Lei Federal 6.080/1980, nota-se que os referidos dispositivos legais não contêm comando capaz de sustentar a tese recursal e infirmar o juízo formulado pelo acórdão recorrido relativamente ao não cabimento de exceção de pré-executividade na hipótese dos autos, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Por oportuno, destacam-se os seguintes precedentes: AgRg no AREsp 161.567/RJ, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 26/10/2012; REsp 1.163.939/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 8/2/2011.
+Por outro lado, a matéria pertinente aos referidos artigos tidos por violados não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Observe-se que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, restando prejudicada a avaliação do dissídio jurisprudencial.
+ANTE O EXPOSTO, não conheço do recurso especial.
+EMENTA
