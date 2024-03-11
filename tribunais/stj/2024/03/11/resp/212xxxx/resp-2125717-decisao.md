@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto por NOTRE DAME INTERMÉDICA SISTEMA DE SAÚDE S. A. (NOTRE DAME), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo TJSP, de relatoria do Des. ALVARO PASSOS, assim ementado:
+JULGAMENTO ANTECIPA DO DALIDE - Existência de prova suficiente para a formação da convicção do juiz - Não caracterização de cerceamento de defesa, ainda que haja pedido expresso de dilação probatória - Preliminar rejeitada - Recurso improvido.
+CONTRATO Prestação de serviços Plano de saúde Negativa de cobertura de eletroconvulsoterapia (ECT) a autor diagnosticado com esquizofrenia paranóide, já submetido a outros procedimentos, sem sucesso terapêutico Inadmissibilidade Inclusão, na apólice, de tratamento para a moléstia, devendo toda e qualquer medida tendente a minimizá-la ou eliminá-la ser coberta, não cabendo à seguradora estabelecer a terapia, o material ou a medicação a ser prescrita, mas ao médico que assiste o paciente, por ser o profissional habilitado para tanto Súmula nº 102 desta Corte - Descabimento de limitar o acobertamento, com base em resolução da ANS, cujo rol não é taxativo e prevê cobertura mínima obrigatória, especialmente ante o advento da Lei nº 14.454/2022 e o fato de ser, o demandante, super-refratário a outras prescrições - Recurso improvido. (e-STJ, fl. 308)
+Os embargos de declaração opostos por NOTRE DAME foram rejeitados (e-STJ, fls. 354/358).
+Nas razões do presente recurso, NOTRE DAME alegou dissídio jurisprudencial e a violação aos arts. 422 do CC, 369 do NCPC e 10 e 12 da Lei nº 9.656/98 ao sustentar que (1) o indeferimento da produção de prova pericial junto ao NatJus importou em cerceamento de defesa; (2) não está legal e contratualmente obrigada ao custeio do tratamento que não consta no rol da ANS e que não conta com comprovação da eficácia à luz das evidências científicas ou a existência de recomendações pelo Conitec ou outro órgão técnico de relevância internacional.
+É o relatório.
+Decido.
+O recurso merece prosperar na parte conhecida.
+(1) Do cerceamento de defesa
+Nos termos da jurisprudência desta Corte, o Juiz é o destinatário final das provas, a quem cabe avaliar sua efetiva conveniência e necessidade, advindo daí a possibilidade de indeferimento das diligências inúteis ou meramente protelatórias, em consonância com o disposto na parte final do art. 370 do NCPC.
+No caso concreto, o Tribunal estadual afastou o alegado cerceamento de defesa por entender que as provas constantes nos autos são suficientes para o julgamento da lide ao afirmar o seguinte:
+Ademais, apesar de ser bem-vindo todo apoio técnico a ser dado ao magistrado, é prescindível parecer do NAT-JUS, em grande parte elaborado com base em literatura extraída da internet, uma vez que, em tais demandas, envolvendo planos de saúde, há de se considerar a avaliação do profissional que acompanha e cuida do paciente e que tem melhores condições de prescrever a melhor terapia a fim de combater a moléstia. (e-STJ, fl. 310)
+(..)
+Há de se considerar, ainda, que, o relatório médico de fls. 26/27 atesta a necessidade do tratamento, tendo em vista o apelado já ter se submetido a outros procedimentos, sem sucesso terapêutico.(e-STJ, fl. 313)
+Modificar tal entendimento exigiria nova análise do conjunto probatório dos autos, medida inviável nesta esfera recursal.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE INDICAÇÃO DA FORMA COMO FOI VIOLADO. SÚMULA 284/STF. FUNDAMENTO NÃO ATACADO. INCIDÊNCIA DA SÚMULA 283/STF. CERCEAMENTO DE DEFESA. ILEGITIMIDADE ATIVA. AUSÊNCIA DE ATO ILÍCITO. REDUÇÃO DO QUANTUM FIXADO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. Inexiste cerceamento de defesa quando o julgador indefere motivadamente pedido de produção de prova, não cabendo ao Superior Tribunal de Justiça apreciar a necessidade ou não de continuidade da instrução probatória, ante a incidência da Súmula 7/STJ.
+ ..
+5. Agravo interno desprovido.
+(AgInt no AREsp 1.795.928/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 25/5/2021, DJe 28/5/2021 - sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE SEGURO CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+ ..
+3. Alterar o decidido no acórdão impugnado no que se refere à tese atinente ao cerceamento de defesa ante o julgamento antecipado da lide e a negativa de produção de provas e à impossibilidade de pagamento da indenização securitária porquanto não previstos de cobertura os danos reclamados, envolve o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+4. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 1.761.895/SC, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 18/5/2021, DJe 21/5/2021 - sem destaque no original)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. INCÊNDIO OCORRIDO EM CONTAINER NO TERMINAL ALFANDEGÁRIO DA EMPRESA AGRAVADA. EMISSÃO DE GASES TÓXICOS. AUSÊNCIA DE DEMONSTRAÇÃO DE DANOS EFETIVOS À SAÚDE DO AGRAVANTE. DANO MORAL NÃO CONFIGURADO. CERCEAMENTO DE DEFESA INEXISTENTE. REEXAME FÁTICO DOS AUTOS. SÚMULA N. 7/STJ.
+ ..
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.801.022/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 17/5/2021, DJe 20/5/2021 - sem destaque no original).
+Incide sobre o tema a Súmula nº 7 do STJ.
+(2) Do dever de cobertura
+ Em julgamento finalizado no dia 8 de junho de 2022, a Segunda Seção desta Corte Superior entendeu ser taxativo, em regra, o rol de procedimentos e eventos estabelecido pela Agência Nacional de Saúde (ANS), não estando as operadoras de saúde obrigadas a cobrirem tratamentos não previstos na lista. Contudo, o colegiado fixou parâmetros para que, em situações excepcionais, os planos custeiem procedimentos não previstos na lista, a exemplo de terapias com recomendação médica, sem substituto terapêutico no rol, e que tenham comprovação de órgãos técnicos e aprovação de instituições que regulam o setor.
+Por maioria de votos, a Seção definiu as seguintes teses:
+1. O rol de procedimentos e eventos em saúde suplementar é, em regra, taxativo;
+2. A operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao rol;
+3. É possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extra rol;
+4. Não havendo substituto terapêutico ou esgotados os procedimentos do rol da ANS, pode haver, a título excepcional, a cobertura do tratamento indicado pelo médico ou odontólogo assistente, desde que (i) não tenha sido indeferido expressamente, pela ANS, a incorporação do procedimento ao rol da saúde suplementar; (ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências; (iii) haja recomendações de órgãos técnicos de renome nacionais (como Conitec e Natjus) e estrangeiros; e (iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS.
+Contudo, da nova análise do acórdão estadual ressai que o TJSP considerou que o rol da ANS é meramente exemplificativo e, além disso, não se pronunciou sobre os requisitos acima elencados de modo a justificar a excepcional cobertura do tratamento em testilha.
+Portanto, não há elementos incontroversos no acórdão estadual que possam demonstrar, nesta instância especial, que os tratamentos assistenciais indicados estão enquadrados nos critérios de superação da taxatividade, devendo, portanto, o feito retornar ao Tribunal de origem para que, com base nos fatos e nas provas da causa, a apelação seja julgada conforme os parâmetros elaborados pela Segunda Seção.
+Ademais, diante da retroatividade mínima, nos tratamentos de caráter continuado, deverão ser observados, a partir da sua vigência, os critérios trazidos pela Lei nº 14.454/2022, que alterou a natureza do Rol da ANS, de taxativo superável para exemplificativo condicionado, de modo que, conforme o art. 10, § 13:
+"(..)
+Em caso de tratamento ou procedimento prescrito por médico ou odontólogo assistente que não estejam previstos no rol referido no § 12 deste artigo, a cobertura deverá ser autorizada pela operadora de planos de assistência à saúde, desde que:
+I - exista comprovação da eficácia, à luz das ciências da saúde, baseada em evidências científicas e plano terapêutico; ou
+II - existam recomendações pela Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec), ou exista recomendação de, no mínimo, 1 (um) órgão de avaliação de tecnologias em saúde que tenha renome internacional, desde que sejam aprovadas também para seus nacionais."
+Nessas condições, CONHEÇO EM PARTE do recurso especial para, nessa extensão, DAR-LHE PARCIAL PROVIMENTO para determinar o retorno dos autos à Corte de origem, de modo a permitir o reexame dos elementos dos autos e da necessidade de produção de outras provas, a fim de que se realize novo julgamento conforme os critérios estabelecidos pela Segunda Seção nos EREsps nºs 1.886.929/SP e 1.889.704/SP.
+Caso o tratamento assistencial seja também de caráter continuado, deverão ser observados, a partir de sua vigência, os critérios estabelecidos pela Lei nº 14.454/2022, que também devem ser verificados pelo Tribunal local (retroatividade mínima da lei).
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. PLANO DE SAÚDE. ELETROCONVULSOTERAPIA. TRATAMENTO QUE NÃO CONSTA NO ROL DA ANS. DEVER DE COBERTURA. APLICAÇÃO DO ENTENDIMENTO DA SEGUNDA SEÇÃO SOBRE O TEMA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, PARCIALMENTE PROVIDO.
