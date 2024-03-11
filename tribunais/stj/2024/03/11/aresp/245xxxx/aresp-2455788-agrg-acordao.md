@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SÚMULA N. 83/STJ. ATAQUE INESPECÍFICO. NÃO CABIMENTO.
+1. Incumbe à parte recorrente o ônus de demonstrar o equívoco da decisão contra a qual se insurge, sendo imprescindível que impugne especificamente todos os óbices por ela apontados. Não basta mencionar a não incidência da Súmula n. 83/STJ ou tecer críticas quanto à sua incidência, sendo indispensável que se indiquem precedentes recentes que infirmem a referida súmula.
+2. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial, com base na Súmula n. 182/STJ.
+Nas razões do regimental, alega o agravante que foram impugnados os fundamentos da decisão agravada. Aduz que "a Súmula n.º 83/STJ encontra-se devidamente impugnada, tendo em vista que foram colacionados precedentes para fins de demonstrar outro entendimento" (fl. 1317).
+Requer a reconsideração da decisão ou a submissão do recurso a julgamento pela Turma.
+Impugnação apresentada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SÚMULA N. 83/STJ. ATAQUE INESPECÍFICO. NÃO CABIMENTO.
+1. Incumbe à parte recorrente o ônus de demonstrar o equívoco da decisão contra a qual se insurge, sendo imprescindível que impugne especificamente todos os óbices por ela apontados. Não basta mencionar a não incidência da Súmula n. 83/STJ ou tecer críticas quanto à sua incidência, sendo indispensável que se indiquem precedentes recentes que infirmem a referida súmula.
+2. Agravo regimental improvido.
+VOTO
+A decisão proferida pela Presidência desta Corte está assim fundamentada:
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 83/STJ e Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 83/STJ.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial. A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp 746.775/PR, relator Ministro João Otávio de Noronha, relator p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Analisando as razões do agravo em recurso especial, observa-se que, embora afirmado pelo agravante, não foram impugnados, de modo específico, os seus fundamentos.
+Não basta mencionar a não incidência da Súmula n. 83/STJ ou tecer críticas quanto à sua incidência, sendo indispensável que se indiquem precedentes recentes que infirmem a referida súmula, o que não ocorreu na espécie, em que se limitou o agravante a apontar um precedente de 2012, da Quinta Turma, segundo o qual "não é possível que a anulação parcial da condenação relativamente à qualificadora possa sujeitar o réu a novo julgamento somente em relação a essa questão. A qualificadora é elemento acessório que, agregado ao crime, tem a função de aumentar os patamares máximo e mínimo de pena cominada ao delito, sendo dele inseparável. Dessa forma, o reconhecimento de que a decisão dos jurados fora manifestamente contrária à prova dos autos quanto à exclusão da qualificadora implica, necessariamente, em revolvimento do fato em sua totalidade" (fl. 1256), o qual seque se contrapõe ao entendimento constante da decisão de inadmissibilidade, no sentido de que é "possível a anulação de uma decisão do Tribunal do Júri, sob o fundamento de ser manifestamente contrária à prova dos autos, somente quando não houver elemento mínimo de prova a dar suporte à versão acolhida pelo Conselho popular. Porém, comportando o acervo probatório dupla versão dos fatos, é descabida a anulação do veredicto" (fl. 1221).
+Não impugnados efetivamente os fundamentos do acórdão recorrido, deve ser mantida a decisão agravada, por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
