@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 11/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO. AGRAVO EM EXECUÇÃO NA ORIGEM. INTEMPESTIVO. DEFESA TÉCNICA DEVIDAMENTE INTIMADA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A parte q ue se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a. Portanto, sendo o feito apresentado em mesa, não há previsão para intimação da parte para sustentação oral.
+2. No caso, embora a defesa afirme não ter sido intimada, o Tribunal de origem consignou que "a interposição de agravo de execução pela Defensoria Pública ocorreu em 08/09/2022, contra a decisão proferida em 26/1/2022, cuja ciência foi dada pela DEPEN, sem qualquer manifestação. O reeducando estava sendo assistido pela Assessoria Jurídica da SERES, tanto que, mesmo a após o decurso do prazo recursal contra decisão proferida pelo juízo a quo, continuou atuando em defesa do réu, consoante se observa da petição de num. 24572272 - Pág. 1, datada de 17/08/2021, onde informa ao juízo que o reeducando encontra-se recolhido no PAMFA."
+3. Assim, constata-se que a interposição do recurso foi fora do prazo legal de 10 dias, contado em dobro, o que revela a sua intempestividade.
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto em favor de Claudio Morais Reis contra a decisão que denegou o habeas corpus impetrado contra acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco.
+No presente agravo, repisa a defesa os argumentos de mérito do habeas corpus, ressaltando que não há falar no início do transcurso do prazo recursal uma vez que não consta certificação subscrita por defensor público ou comprovação de remessa dos autos à instituição.
+Ressalta que, "na época em que foi prolatada a decisão que alterou a data base por cometimento do novo delito no curso do livramento condicional, o ora paciente não possuía advogado constituído nos autos." (fl. 235.)
+Postula, assim, a reconsideração da decisão, ou que o presente agravo seja submetido à apreciação do colegiado, para que seja concedida a ordem de habeas corpus pleiteada.
+Por manter a decisão agravada, submeto o feito à Sexta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO. AGRAVO EM EXECUÇÃO NA ORIGEM. INTEMPESTIVO. DEFESA TÉCNICA DEVIDAMENTE INTIMADA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A parte q ue se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a. Portanto, sendo o feito apresentado em mesa, não há previsão para intimação da parte para sustentação oral.
+2. No caso, embora a defesa afirme não ter sido intimada, o Tribunal de origem consignou que "a interposição de agravo de execução pela Defensoria Pública ocorreu em 08/09/2022, contra a decisão proferida em 26/1/2022, cuja ciência foi dada pela DEPEN, sem qualquer manifestação. O reeducando estava sendo assistido pela Assessoria Jurídica da SERES, tanto que, mesmo a após o decurso do prazo recursal contra decisão proferida pelo juízo a quo, continuou atuando em defesa do réu, consoante se observa da petição de num. 24572272 - Pág. 1, datada de 17/08/2021, onde informa ao juízo que o reeducando encontra-se recolhido no PAMFA."
+3. Assim, constata-se que a interposição do recurso foi fora do prazo legal de 10 dias, contado em dobro, o que revela a sua intempestividade.
+4. Agravo regimental desprovido.
+VOTO
+A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a. Portanto, sendo o feito apresentado em mesa, não há previsão para intimação da parte para sustentação oral.
+Repisa a defesa os argumentos de mérito do habeas corpus, ressaltando que não há falar no início do transcurso do prazo recursal uma vez que não consta certificação subscrita por defensor público ou comprovação de remessa dos autos à instituição.
+Ressalta que, "na época em que foi prolatada a decisão que alterou a data base por cometimento do novo delito no curso do livramento condicional, o ora paciente não possuía advogado constituído nos autos." (fl. 235.)
+Como consta na decisão agravada, embora a defesa afirme não ter sido intimada, o Tribunal de origem consignou que "a interpos ição de agravo de execução pela Defensoria Pública ocorreu em 08/09/2022, contra a decisão proferida em 26/1/2022, cuja ciência foi dada pela DEPEN, sem qualquer manifestação. O reeducando estava sendo assistido pela Assessoria Jurídica da SERES, tanto que, mesmo a após o decurso do prazo recursal contra decisão proferida pelo juízo a quo, continuou atuando em defesa do réu, consoante se observa da petição de num. 24572272 - Pág. 1, datada de 17/08/2021, onde informa ao juízo que o reeducando encontra-se recolhido no PAMFA."
+Assim, constata-se que a interposição do recurso foi fora do prazo legal de 10 dias, contado em dobro, o que revela a sua intempestividade.
+A propósito: "Esta Corte tem entendimento de que a carga dos autos enseja ciência inequívoca da decisão, iniciando-se, a partir desse momento, o prazo para se manifestar no processo" (AgInt no REsp n. 1.223.030/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 1º /12/2016, DJe de 14/12/2016.)
+Ante o exposto, nego provimento ao agravo regimental, mantendo a decisão agravada por seus próprios fundamentos.
+É o voto.
