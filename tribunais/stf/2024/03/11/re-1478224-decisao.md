@@ -1,0 +1,51 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário com base no art. 102, inciso III, da Constituição Federal.
+
+    O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    APELAÇÃO CÍVEL. PREVIDÊNCIA COMPLEMENTAR. REVISÃO DE BENEFÍCIO. HORAS EXTRAS. EMPREGADOR/PATROCINADOR. LEGITIMIDADE PASSIVA. COMPETÊNCIA. JUSTIÇA COMUM. EDCL NOS ERESP 1557698/RS. PRESCRIÇÃO. MODULAÇÃO DE EFEITOS. RESP 1.312.736/RS. RESERVA MATEMÁTICA. RECOMPOSIÇÃO PRÉVIA. COMPENSAÇÃO. RESPONSABILIDADE DO PATROCINADOR E TAMBÉM DO PARTICIPANTE. INDENIZAÇÃO DA COTA-PARTE DO PARTICIPANTE. IMPOSSIBILIDADE. ATO ILÍCITO. INEXISTÊNCIA. REVISÃO. TETO DO SALÁRIO DE PARTICIPAÇÃO. DIFERENÇA DE BENEFÍCIOS. CONDENAÇÃO. JUROS DE MORA. O empregador/patrocinador originário (Banco do Brasil S.A.) possui legitimidade passiva para figurar na demanda quanto ao pedido de ressarcimento, uma vez presente a pertinência subjetiva para a lide. Conforme assentado nos EDcl nos EREsp 1557698/RS, compete à Justiça Comum apreciar o pedido de ressarcimento formulado pelo participante contra o patrocinador. O participante poderá demandar contra o ex-empregador (Banco do Brasil S.A.) nesta Justiça Comum, pleiteando o ressarcimento de 50% do valor que pagar, tudo como autorizado pelo Superior Tribunal de Justiça. Neste caso, o termo inicial da prescrição da pretensão de ressarcimento da autora/participante contra o ex-empregador será o trânsito em julgado do presente acórdão, tendo em vista a teoria da actio nata. O Superior Tribunal de Justiça, no julgamento do REsp nº 1.312.736/RS, firmou tese quanto à impossibilidade de inclusão dos reflexos de verbas remuneratórias reconhecidas pela Justiça do Trabalho nos cálculos da renda mensal inicial dos benefícios de complementação de aposentadoria. No entanto, houve modulação dos efeitos para permitir a revisão nas demandas já ajuizadas, desde que a ação tenha sido proposta até 08/08/2018, que haja previsão regulamentar no sentido de que as horas extras integrem o benefício do participante e desde que haja recomposição prévia e integral da reserva matemática do participante junto ao plano de benefícios. No caso vertente, a ação foi ajuizada até 08/08/2018. O regulamento da PREVI estabelece que o valor do benefício é apurado segundo média de salários de participação anteriores à aposentadoria. Além disso, no site eletrônico da PREVI consta, expressamente, que as horas extras integram o salário de participação. A reserva matemática consiste no valor necessário para tornar possíveis os pagamentos futuros que serão revertidos aos beneficiários. A recomposição da reserva matemática, terceiro pressuposto para a revisão, deverá ser realizada após a apuração de seu valor em liquidação de sentença. O custo para a recomposição poderá ser compensado com os valores a que faz jus o participante, em virtude da diferença do benefício revisado e o que vem sendo pago desde a sua aposentadoria. A responsabilidade pela recomposição da reserva matemática é do participante (50%) e do patrocinador (50%), em estrita observância ao regulamento da PREVI e aos próprios termos das teses abordadas pelo Tema 955, em sede de recursos repetitivos, no Superior Tribunal de Justiça. O não pagamento, pelo Banco do Brasil S.A., das horas extras, em razão da controvertida jurisprudência que cercava a interpretação do artigo 62, inciso II, da Consolidação das Leis do Trabalho, não se caracteriza como ato ilícito. À época do não pagamento das horas extras, inexistiam os atuais requisitos exigidos para a configuração do exercício de função de confiança, quais sejam, acréscimo de no mínimo 40% da remuneração e efetiva atividade de chefia. E, ainda que o Banco do Brasil S.A. remunerasse as horas extras habituais no período objeto do exame, as contribuições do benefício complementar não teriam sido recolhidas em obediência à Orientação Jurisprudencial nº 18, da Subseção I Especializada em Dissídios Individuais, segundo a qual as horas extras, ainda que prestadas com habitualidade, não integram a base de cálculo da complementação de aposentadoria dos empregados do Banco do Brasil. Não há, portanto, na hipótese dos autos, ato ilícito praticado pelo Banco do Brasil. Além disso, deve-se reconhecer que o não recolhimento das contribuições sobre as horas extras não gerou à parte autora/participante dano patrimonial que deva ser reparado, porque o autor e o patrocinador têm a possibilidade de verter quantias para o plano de benefícios, de tal modo que as mencionadas horas extras possam passar a compor o cálculo do benefício complementar, inclusive retroativamente. A necessidade da recomposição da reserva matemática se deve à opção de a parte autora revisar integralmente o valor de seu benefício. Se a parte autora não desejar essa revisão, basta que não realize a recomposição prévia, inexistindo dano a ser reparado pelo patrocinador. A revisão da suplementação de aposentadoria deverá observar estritamente o regulamento do fundo de previdência (PREVI), especialmente no tocante ao teto do salário de participação, previsto no caput do artigo 28, do Regulamento, e especificado no § 3º. A condenação ao pagamento das diferenças apuradas no benefício de previdência complementar, não significa que existia mora do fundo de previdência, pois apenas com a recomposição da reserva matemática pelo participante e pelo patrocinador a PREVI deverá ter início o pagamento das diferenças do benefício de previdência complementar. Para promover a preservação do salário de participação, ainda que referente a período antigo, deve a parte interessada promover o recolhimento das contribuições que se fizerem necessárias, porquanto o fundo de distribuição do resultado superavitário não mais existe. A condenação deve abranger as parcelas que vencerem no curso do presente processo, uma vez que se caracterizam como prestações sucessivas, conforme estabelecido pelo artigo 323, do Código de Processo Civil.
+
+    Opostos os embargos de declaração, foram acolhidos para apreciar a insurgência relativa ao Benefício Especial Temporário — BET e, no mérito, julgar improcedente o pedido de revisão quanto este benefício.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 7º, inciso XXIX, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+
+    PRESCRIÇÃO
+
+    O Banco do Brasil S.A. suscita a prescrição da pretensão autoral formulada contra si.
+
+    Essa tese não prevalece.
+
+    O termo inicial da prescrição da ação de ressarcimento contra o ex-empregador na Justiça Comum é o trânsito em julgado da presente demanda, que determina a recomposição da reserva matemática, pois deve ser aplicada, ao caso, a teoria da actio nata, como decidido pelo STJ nos EDcl nos EREsp nº 1.557.698 – RS, cujo trecho transcrevo:
+
+    Ressalte-se que, nessa hipótese, o termo inicial do prazo de prescrição será o trânsito em julgado do presente acórdão, porquanto é o momento em que nasce a pretensão de reembolso, incidindo, assim, a teoria da actio nata (vide AgInt no REsp nº 1.150.102/PR, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 4/10/2016, e REsp nº 1.347.715/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 4/12/2014).
+
+    Assim, não há reforma da sentença neste aspecto.
+
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário. Sobre o tema, os seguintes precedentes:
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. OFENSA CONSTITUCIONAL REFLEXA.1.Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão do recurso extraordinário, que supõe matéria constitucional prequestionada explicitamente. 2. Agravo Interno a que se nega provimento” (RE nº 1.169.266/RS-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 13/02/2019).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO RESCISÓRIA. PRESSUPOSTOS DE ADMISSIBILIDADE. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I – É inadmissível o recurso extraordinário quando sua análise implica a revisão da interpretação de normas infraconstitucionais que fundamentam o acórdão recorrido, dado que apenas ofensa direta à Constituição Federal enseja a interposição do apelo extremo.II – Majorada a verba honorária fixada anteriormente, nos termos do art. 85, § 8° e § 11, do CPC. III – Agravo regimental a que se nega provimento, com aplicação de multa” (ARE nº 1.161.422/SP-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski,DJe de 06/12/2018).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR. APOSENTADORIA. REVISÃO. PREQUESTIONAMENTO. AUSÊNCIA. VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. 1. É inadmissível o recurso extraordinário quando a matéria constitucional suscitada não tiver sido apreciada pelo acórdão recorrido, em decorrência da ausência do requisito processual do prequestionamento. Súmula 282 do STF. 2. É inviável o processamento do apelo extremo quando a ofensa a dispositivo constitucional se dá de maneira reflexa e indireta, pois requer o exame prévio da orientação firmada sobre tese infraconstitucional pela instância ordinária. 3. Agravo regimental a que se nega provimento” (ARE nº 939.243/SP-AgR, Primeira Turma, Rel. Min. Edson Fachin, DJe de 07/04/2016).
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 11 de março de 2024.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
+
+Documento assinado digitalmente
