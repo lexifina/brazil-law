@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 11/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. SISTEL. CUMPRIMENTO DE SENTENÇA. ARTS. 502, 503 E 507 DO NCPC. OFENSA À COISA JULGADA. INOCORRÊNCIA. PRECLUSÃO. OCORRÊNCIA. REFORMA. SÚMULA N.º 7 DO STJ. AGRAVO NÃO PROVIDO, COM APLICAÇÃO DE MULTA.
+1. A Corte de origem afastou a alegada ofensa a coisa julgada, bem como reconheceu a preclusão das alegações formuladas pela parte, com base na análise do conjunto fático da causa. Para rever tal entendimento seria necessário o reexame dos fatos da causa, o que encontra óbice no enunciado da Súmula n.º 7 do STJ.
+2. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por FUNDAÇÃO SISTEL DE SEGURIDADE SOCIAL (SISTEL) contra decisão monocrática de minha relatoria, assim ementada:
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. SISTEL. CUMPRIMENTO DE SENTENÇA. ARTS. 502, 503 E 507 DO NCPC. OFENSA À COISA JULGADA. INOCORRÊNCIA. PRECLUSÃO. OCORRÊNCIA. REFORMA. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO (e-STJ, fl. 655).
+Nas razões do presente inconformismo, defendeu a não incidência da Súmula n.º 7 ao caso dos autos, pois não pretende reexame de provas.
+Foi apresentada impugnação (e-STJ, fls. 682/688).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. SISTEL. CUMPRIMENTO DE SENTENÇA. ARTS. 502, 503 E 507 DO NCPC. OFENSA À COISA JULGADA. INOCORRÊNCIA. PRECLUSÃO. OCORRÊNCIA. REFORMA. SÚMULA N.º 7 DO STJ. AGRAVO NÃO PROVIDO, COM APLICAÇÃO DE MULTA.
+1. A Corte de origem afastou a alegada ofensa a coisa julgada, bem como reconheceu a preclusão das alegações formuladas pela parte, com base na análise do conjunto fático da causa. Para rever tal entendimento seria necessário o reexame dos fatos da causa, o que encontra óbice no enunciado da Súmula n.º 7 do STJ.
+2. Agravo interno não provido.
+VOTO
+O recurso não merece ser provido.
+Da alegada ofensa à coisa julgada e inexistência de preclusão
+Nas razões de seu apelo nobre, SISTEL sustentou ofensa à coisa julgada, uma vez que o cálculo homologado não obedeceu ao título judicial, e inexistência de preclusão, já que a questão referente à dedução dos valores recebidos a título de incentivo migratório pela parte agravada somente surgiu em impugnação ao cumprimento de sentença.
+O acórdão recorrido rechaçou a tese de ofensa à coisa julgada, bem como reconheceu a preclusão das alegações formuladas pela SISTEL, fazendo-o nos seguintes termos:
+Primeiramente esclareça-se que, da detida análise dos autos, verifica-se que a decisão proferida pelo togado de primeiro piso seguiu estritamente as informações declinadas em sentença e confirmadas em Acórdão deste Tribunal.
+Ademais, disso, toda a matéria agora abroquelada pela Agravante já restou amplamente discutida e decidida no decorrer da marcha processual.
+Vê-se que todas as alegações formuladas pela SISTEL agora em sede de impugnação ao cumprimento de sentença já foram decididas em sede de sentença, Apelação Cível, ou, ainda, por meio de pronunciamentos judiciais interlocutórios contra os quais não fora interposto recurso oportunamente.
+Da sentença que julgou procedente a pretensão aforada pelos ora gravadas extrai-se:
+"Pelo exposto e mais que dos autos constam JULGO EXTINTO O PROCESSO, com resolução do mérito em relação ao autor Darci Luiz Pessali, de acordo com o disposto no artigo 269, inciso IV, do CPC, e PROCEDENTE o pedido inserido na presente ação de cobrança, para o efeito de condenar a ré a pagar aos autores Cláudio Massakatsu Namba, Irael Pedor da Silva, Ivancir Daltra, Luiz César Turok, Noslei Domingues Kiniz, Orlando Fontanela, Silvania Mara Lazzaretti Rampon e Vilma de Fátima Barcelo a correção monetária a ser apurada em liquidação de sentença, observando os expurgos inflacionários dos meses de junho de 1987 (26,06%), janeiro de 1989 (42,42%)m março de 1990 (84,32%), abril 1990 (44,80%), maio 1990 (7,87%) e fevereiro (21,87%) e março de 91 (11,79), desde o momento em que foi efetivado o pagamento a menor, bem como juros de mora de 1% (um por cento) ao mês, desde a citação da requerida (17/03/2005).
+Tendo em vista que os autores sucumbiram de parte mínima do pedido, condeno a demandada ao pagamento das custas processuais, mais os honorários do patrono dos autores, os quais arbitro em 15% (quinze por cento) do valor da condenação, atentando, notadamente, para o trabalho realizado pelo advogado".
+Posteriormente, em sede da Apelação Cível nº 608.741-3, decidiu-se que eventual transação entabulada para o fim de migração de plano de previdência privada não tem o condão de alcançar a correção monetária, sendo direito dos Autores/Recorridos a correção pelo índice que melhor recompõe a desvalorização da moeda:
+"APELAÇÕES CÍVEIS - PLANO DE PREVIDÊNCIA PRIVADA - DIFERENÇAS DE CORREÇÃO MONETÁRIA - PRESCRIÇÃO QUE SE VERIFICA EM 10 ANOS, DE ACORDO COM O ARTIGO 205 DO CÓDIGO CIVIL - DIREITO À CORREÇÃO PELO ÍNDICE QUE MELHOR RECOMPÕE A DESVALORIZAÇÃO DA MOEDA - OFENSA AO ATO JURÍDICO PERFEITO E AO DIREITO ADQUIRIDO - INOCORRÊNCIA. 1. Envolvendo direito pessoal a ação que objetiva o recebimento das diferenças da correção monetária de parcelas da poupança já restituída, a prescrição para seu ajuizamento é de 20 anos, em conformidade com o disposto no artigo 177, do Código Civil de 1916, ex vi do disposto no artigo 2028, do Estatuto Civil atual. 2. Não há que se falar em prescrição em relação ao autor Darci Luiz Pessali, se da data do efetivo pagamento da reserva de poupança até a propositura da ação decorreram pouco menos de 7 (sete) anos, em razão do disposto no artigo 205 do Código Civil. 3. O participante de plano de previdência privada tem direito à restituição do fundo de reserva de poupança corrigido monetariamente pe lo índice que reflita a inflação real, nos termos da Súmula 289, do egrégio Superior Tribunal de Justiça. 4. Os institutos do ato jurídico perfeito 5. e do direito adquirido não se prestam a tornar imutáveis situações desconformes ao direito. 5. Apelação 1, provida. Apelação 2, desprovida". (TJPR - 7ª C.Cível - AC - 608714-3 - Cascavel - Rel.: Denise Hammerschmidt - Unânime - J. 25.05.2010)
+Retira-se da fundamentação adotada por essa 7ª Câmara Cível quando do julgamento do apelo em testilha:
+"Os autores como integrantes do plano de previdência privada da ré, têm o direito, quando de seus desligamentos, em reaver os valores pagos, corrigidos de forma plena.
+Dessa maneira, ainda que os estatutos da apelante estabeleçam outros índices de correção monetária, deve ser aplicado o IPC em virtude de representar o índice que melhor reflete a desvalorização da moeda.
+A respeito da matéria a Súmula 289, do egrégio Superior Tribunal de Justiça, enuncia: "A restituição das parcelas pagas a plano de previdência privada deve ser objeto de correção plena, por índice que recomponha a efetiva desvalorização da moeda."
+A jurisprudência também tem manifestado o entendimento de que o aderente a plano de previdência privada também faz jus aos expurgos inflacionários provocados pelos planos econômicos do Governo Federal, na atualização dos valores depositados em reservas de poupança.
+A respeito da matéria o egrégio Superior Tribunal de Justiça assim decidiu:
+(..)
+Assim, assiste direito aos autores às diferenças de correção monetária entre os índices aplicados pela ré e os índices determinados na sentença.
+É de se consignar que não há que se falar em ofensa ao ato jurídico perfeito e ao direito adquirido, especialmente porque referidos institutos não se evidenciam diante de situação ilegal".
+Ademais disso, já na fase de cumprimento de sentença, todas as teses da SISTEL foram, por uma vez mais analisadas, consoante se depreende das decisões interlocutórias de mov. 87.1 e 241.1, decisões essas que, sublinhe-se, não foram oportunamente atacadas por competente recurso:
+ ..
+Evidente, portanto, que antes mesmo da prolação da decisão ora açoitada, toda a matéria impugnada pela SISTEL já havia sido decidida pelo Juízo ou por essa Corte de Justiça, ou, ainda, deixado de ser arguida em momento oportuno. a quo Translúcido, assim, que, no caso em comento, o que pretende a Agravante é meramente rediscutir matéria que já se encontra acobertada sob o manto da coisa julgada (preclusão consumativa) - pois as insurgências apontadas foram objeto de decisões já anteriormente proferidas - ou agasalhada pelas vestes da preclusão temporal - eis que as insurgências sequer foram levantadas oportunamente (e-STJ, fls. 157/161 - com destaque no original).
+Assim, para afastar o entendimento adotado na origem, a fim de acolher a tese de existência de ofensa à coisa julgada e inexistência de preclusão, como pretende a SISTEL, seria necessário o reexame dos fatos da causa, o que encontra óbice no enunciado da Súmula n.º 7 do STJ.
+A propósito, vejam-se os julgados:
+AGRAVO INTERNO NO AGRAVO (ART. 1042 DO NCPC) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - PREVIDÊNCIA PRIVADA - CUMPRIMENTO DE SENTENÇA - IMPUGNAÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 e incisos, do Código de Processo Civil de 2015, o que não se verifica na hipótese.
+2. A pretensão de que esta Corte de Justiça verifique se os referidos reflexos do ADI sobre o 13º salário se deram ou não em conformidade com o título executivo judicial, bem como a ocorrência de eventual ofensa à coisa julgada e aos limites da lide principal, esbarram no enunciado da Súmula 7 do Superior Tribunal de Justiça, porquanto demandariam o reexame do conjunto fático-probatório dos autos.
+Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.182.529/RS, Rel. Ministro MARCO BUZZI, Quarta Turma, j. 22/5/2018, DJe 30/5/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ALEGADA OFENSA AO ART. 535 DO CPC/1973. NÃO CONFIGURAÇÃO. AUSÊNCIA DE OMISSÃO. LIQUIDAÇÃO DE SENTENÇA. ALEGAÇÃO DE OFENSA À COISA JULGADA. PREMISSA DE QUE OS CÁLCULOS ELABORADOS PELA PERÍCIA CONTÁBIL ESTÃO EM CONFORMIDADE COM O JULGADO EM LIQUIDAÇÃO. PRETENSÃO DE REVISÃO. INVIABILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. ADEQUAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp 1.030.118/PR, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, j. 15/5/2018, DJe 21/5/2018)
+Assim, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão ora agravada, mantém-se o julgado, por não haver motivos para a sua alteração.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
