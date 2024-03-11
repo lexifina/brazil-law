@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 11/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Antonio Saldanha Palheiro, Teodoro Silva Santos e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. AUSÊNCIA DO REQUISITO SUBJETIVO. PRÁTICA RECENTE DE FALTA GRAVE. FUNDAMENTAÇÃO CONCRETA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Inexiste constrangimento ilegal no ponto em que, de forma devidamente fundamentada, foi indeferida a progressão de regime com fulcro na ausência do requisito subjetivo, haja vista o cometimento recente de infração disciplinar grave.
+2. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+RAFAEL BERNARDO FERNANDES agrava da decisão de fls. 73-77, em que a Presidência do Superior Tribunal de Justiça indeferiu liminarmente o habeas corpus, dada a apresentação de fundamentação concreta para justificar o indeferimento da progressão de regime.
+Para tanto, assere que " o  que deve ser levado em consideração é que, com o cometimento da falta o condenado/agravante, regrediu de regime, reiniciou o tempo da pena para a obtenção de nova progressão de regime. Assim, o efeito interruptivo da regressão foi concretizado, sendo certo que ele cumpriu a fração exigida pela lei da pena restante, desta forma atingiu em 08/08/2023" (fl. 87).
+Requer, assim, "a reconsideração da r. decisão monocrática. Caso entenda de modo diverso, que apresente o feito em mesa de julgamento para apreciação pela Eg. Sexta Turma, a fim de que seja concedida a para determinar a progressão de regime para o semiaberto, ante o preenchimento dos requisitos legais" (fl. 90).
+AgRg no HABEAS CORPUS Nº 869.299 - MS (2023/0414039-5)
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. AUSÊNCIA DO REQUISITO SUBJETIVO. PRÁTICA RECENTE DE FALTA GRAVE. FUNDAMENTAÇÃO CONCRETA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Inexiste constrangimento ilegal no ponto em que, de forma devidamente fundamentada, foi indeferida a progressão de regime com fulcro na ausência do requisito subjetivo, haja vista o cometimento recente de infração disciplinar grave.
+2. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Conforme já apontado na decisão vergastada, assere a defesa que "está devidamente comprovado que o Agravante preencheu os requisitos necessários para a nova progressão de regime, inclusive com bom comportamento carcerário, fazendo jus a progressão, independentemente de a falta grave não ter transcorrido o prazo de 01 (um) ano" (fl. 89).
+Todavia, a Corte de origem, ao cassar a concessão da benesse, ressaltou que "o apenado não preencheu o requisito subjetivo para ser agraciado com o benefício, vez que cometeu falta disciplinar grave (fuga) em 14/10/2022, com recaptura em 15/01/2023, de forma que sua conduta ainda não foi reabilitada, devendo retornar ao regime prisional fechado" (fl. 53, grifei).
+Com efeito, a preocupação em torno da readaptação do indivíduo censurado circunda, antes mesmo da execução penal, a própria dosimetria da reprimenda imposta, a qual se considera necessária à satisfação de uma concepção preventiva da pena. "Para as teorias relativas a pena se justifica, não para retribuir o fato delitivo cometido, mas, sim, para prevenir a sua prática.  ..  a pena deixa de ser concebida como um fim em si mesmo,  ..  e passa a ser concebida como meio para o alcance de fins futuros e a estar justificada pela sua necessidade: a prevenção de delitos" (BITTENCOURT, Cezar Roberto. Tratado de direito penal: parte geral. 17. ed. rev., ampl. e atual. São Paulo: Saraiva, 2012, p. 141).
+Todavia, quanto ao fundamento atrelado ao histórico disciplinar, urge consignar que o paciente incorreu no cometimento de infração disciplinar grave em data recente, de modo a macular o preenchimento do requisito de ordem subjetiva.
+Não olvido também que " a  jurisprudência desta Corte se firmou no sentido de que a gravidade dos delitos pelos quais o paciente foi condenado, bem como a longa pena a cumprir não são fundamentos idôneos para indeferir os benefícios da execução penal, pois devem ser levados em consideração, para a análise do requisito subjetivo, eventuais fatos ocorridos durante o cumprimento da pena" (HC n. 480.233/SP, Rel. Ministro Félix Fischer, 5ª T., DJe de 19/2/2019), o que não é o caso dos autos, dado o cometimento de infração disciplinar em menos de três anos, a demonstrar a ausência do requisito subjetivo para a progressão.
+Entretanto, " e m hipótese similar, decidiu esta Superior Corte que a prática de faltas graves é indicativa da ausência de cumprimento do requisito subjetivo da progressão de regime. A circunstância de o paciente já haver se reabilitado, pela passagem do tempo, desde o cometimento das sobreditas faltas, não impede que se invoque o histórico de infrações praticadas no curso da execução penal, como indicativo de mau comportamento carcerário (HC n. 347.194/SP, Rel. Min. FELIX FISCHER, julgado em 28/6/2016)" (AgRg no HC n. 600.011/SC, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 15/10/2020, grifei).
+À vista do exposto, nego provimento ao recurso.
