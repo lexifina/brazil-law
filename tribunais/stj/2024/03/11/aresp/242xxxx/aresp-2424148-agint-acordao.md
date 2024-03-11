@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 11/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. DIREITO DO CONSUMIDOR. CONTRATOS. AGRAVO DE INSTRUMENTO. EXECUÇÃO. CUMPRIMENTO DE SENTENÇA. LEGITIMIDADE . AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INCIDÊNCIA DAS SÚMULAS N. 7 E 83 DO STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento contra decisão que acolheu em parte a impugnação à execução apenas para reconhecer o excesso de execução e fixar o valor do crédito exequendo. Nesta Corte não se conheceu do recurso especial.
+II - A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos: "Rejeito preliminar de ilegitimidade passiva suscitada pela CEDAE. Nesse sentido é o entendimento deste Tribunal de Justiça (..) No que tange à incorreção dos juros e correção monetária, ao agravante não lhe assiste razão, até porque, sequer apresentou o valor devido em planilha comprovando a ilegalidade do valor fixado na decisão."
+III - Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+V - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que julgou agravo em recurso especial interposto pela Companhia Estadual de Águas e Esgotos - CEDAE, com fundamento no art. 1.042 do Código de Processo Civil.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Inicialmente, quanto à violação aos artigos 489 e 1.022 do CPC, não obstante o entendimento de que não configura negativa de prestação judicial o acórdão que adota fundamentação suficiente para a resolução da causa, fato é que segundo o que dispõe o art. 489, §1º, IV, do CPC não se considera fundamentada a decisão judicial que deixa de enfrentar os argumentos capazes, ao menos em tese, de infirmar a conclusão adotada, verbis:
+ ..
+No caso em exame, o Tribunal de Justiça do Rio de Janeiro efetivamente incorreu em omissão quanto a alteração no estado de fato demonstrada por parecer técnico e novos documentos, assim como quanto à incorreção do valor fixado pela decisão recorrida, que foi demonstrada pela Agravante através planilhas de cálculos.
+ ..
+Ocorre que o v. acórdão de fls.63/69 foi absolutamente omisso quanto à modificação no estado de fato demonstrada pela Agravante por meio de parecer técnico e documentos, além ter se baseado em premissa equivocada ao deixar de observar que na fl.13, parágrafo nº38 do Agravo de Instrumento a Companhia esclareceu que essa planilha é a de fls.1.506/1.517 e demonstra a existência de um crédito no importe de R$169.670,38 (cento e sessenta e nove mil, seiscentos e setenta reais e trinta e oito centavos) em seu favor.
+Diante disso, foi oposto o competente recurso de Embargos de Declaração a fim de sanar essas omissões. Contudo, o v. acórdão de fls.111/124 rejeitou o recurso sem apreciar nenhuma dessas questões essenciais apontadas pela Agravante, limitando-se a repetir os fundamentos do acórdão anterior.
+Nesse sentido, concessa maxima venia, se isso não é verdadeira negativa de prestação judicial, então nada mais é, estando o julgador autorizado a negar provimento ao recurso sem apreciar nenhum dos fundamentos apresentados pela parte, o que, evidentemente, não pode ser chancelado por esta Corte Superior.
+Dessa maneira, resta evidente a negativa de prestação jurisdicional e a violação aos arts. 489 e 1.022 do CPC, devendo ser reformada a decisão monocrática ora recorrida a fim de se reconhecer a nulidade do v. acórdão.
+Quanto à aplicação da Súmula n.º 07/STJ, com todas as vênias também não há como prosperar o entendimento.
+Conforme fartamente demonstrado, a revisão do julgado proposta pela Companhia não depende de revisão de matéria fático-probatória.
+ ..
+Com efeito, não se pretende através do Recurso Especial que a Colenda Corte Superior modifique a conclusão adotada pelo TJRJ, mas sim que reconheça a omissão no r. decisum a fim de anular o v. acórdão e determinar um novo julgamento mediante a apreciação da alteração no estado de fato demonstrada com parecer de assistente técnico e também o pedido supletivo formulado pela Agravante, inerente ao erro de cálculo.
+Dessa forma, o suposto óbice da súmula nº 07/STJ não tem qualquer pertinência com o recurso em epígrafe, cuja apreciação exige apenas a revisão da conclusão jurídica adotada, cabendo ao Tribunal de Justiça suprir as omissões praticadas e proceder ao exame dos fatos e provas constantes dos autos, e não a este Superior Tribunal.
+ ..
+Por fim, a súmula nº 83/STJ também não pode ser invocada para inadmitir o recurso. Veja que a r. decisão não citou um único precedente sequer do Superior Tribunal de Justiça para demonstrar a afirmação, sendo absolutamente genérica.
+Deste modo, a Agravante sequer pode se defender adequadamente da invocação da referida súmula, demonstrando, por exemplo, ser hipótese de distinguishing, pois o r. decisum não cita qual seria o entendimento em questão.
+Patente, portanto, que a utilização do enunciado n.º 83 da Súmula do STJ como óbice ao conhecimento do Recurso Especial interposto viola o princípio constitucional do devido processo legal e restringe a ampla defesa e o contraditório, uma vez que o mesmo preenche todos os requisitos legais e constitucionais para a superação do juízo de admissibilidade e análise do mérito recursal.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DIREITO DO CONSUMIDOR. CONTRATOS. AGRAVO DE INSTRUMENTO. EXECUÇÃO. CUMPRIMENTO DE SENTENÇA. LEGITIMIDADE . AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INCIDÊNCIA DAS SÚMULAS N. 7 E 83 DO STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento contra decisão que acolheu em parte a impugnação à execução apenas para reconhecer o excesso de execução e fixar o valor do crédito exequendo. Nesta Corte não se conheceu do recurso especial.
+II - A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos: "Rejeito preliminar de ilegitimidade passiva suscitada pela CEDAE. Nesse sentido é o entendimento deste Tribunal de Justiça (..) No que tange à incorreção dos juros e correção monetária, ao agravante não lhe assiste razão, até porque, sequer apresentou o valor devido em planilha comprovando a ilegalidade do valor fixado na decisão."
+III - Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+rejeito preliminar de ilegitimidade passiva suscitada pela CEDAE. Nesse sentido é o entendimento deste Tribunal de Justiça
+(..)
+No que tange à incorreção dos juros e correção monetária, ao agravante não lhe assiste razão, até porque, sequer apresentou o valor devido em planilha comprovando a ilegalidade do valor fixado na decisão.
+Não há violação dos arts. 489 e 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". (EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
