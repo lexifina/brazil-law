@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 11/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRA VO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. QUESTÃO NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE FLAGRANTE NÃO EVIDENCIADA. DECISÃO MANTIDA.
+1. Não tendo a questão sido apreciada pela Corte de origem, não pode ser examinada diretamente pelo STJ, sob pena de indevida supressão de instância.
+2. Tampouco se constata hipótese de ilegalidade flagrante a justificar a concessão de habeas corpus de ofício pelo não conhecimento da questão pelo Tribunal a quo, porquanto devidamente fundamentado no indeferimento do pleito no Juízo da VEC ante o não cumprimento, até então, dos requisitos legais, cabendo ao apenado, uma vez decorrido o lapso legal, formular novo pedido, devidamente instruído perante o Juízo das execuções.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão que denegou o habeas corpus.
+No presente recurso, o agravante reitera os argumentos deduzidos na inicial, no sentido de que o agravante preenche os requisitos legais para a progressão de regime. Aduz que, " c omo se extrai dos autos, o paciente preencheu o requisito objetivo para progressão de regime em 05/04/2023, assim como o requisito subjetivo, conforme se extrai do Boletim Informativo, o qual demonstra seu bom comportamento carcerário" (fl. 111) e que "o paciente não cometeu nenhum falta, de modo que não há que se falar em mudança no cálculo de penas" (fl. 112).
+Requer seja reconsiderada a decisão ou provido o agravo regimental, deferindo-se a progressão ao regime aberto.
+É o relatório.
+EMENTA
+AGRA VO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. QUESTÃO NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE FLAGRANTE NÃO EVIDENCIADA. DECISÃO MANTIDA.
+1. Não tendo a questão sido apreciada pela Corte de origem, não pode ser examinada diretamente pelo STJ, sob pena de indevida supressão de instância.
+2. Tampouco se constata hipótese de ilegalidade flagrante a justificar a concessão de habeas corpus de ofício pelo não conhecimento da questão pelo Tribunal a quo, porquanto devidamente fundamentado no indeferimento do pleito no Juízo da VEC ante o não cumprimento, até então, dos requisitos legais, cabendo ao apenado, uma vez decorrido o lapso legal, formular novo pedido, devidamente instruído perante o Juízo das execuções.
+3. Agravo regimental desprovido.
+VOTO
+A decisão impugnada está assim fundamentada (fls. 101-102):
+Consta dos autos que, formulado pedido de progressão ao regime semiaberto, foi indeferido pelo juízo das execuções.
+Interposto agravo em execução, foi mantida a decisão em acórdão assim fundamentado (fls. 60-63):
+Presentes os pressupostos de admissibilidade recursal, é de se conhecer do recurso.
+O presente recurso de agravo versa, essencialmente, acerca da ausência de fundamentação legal para confecção e impedimento de progressão com base em exame criminológico.
+A nova redação do artigo 112, da Lei de Execução Penal suprimiu a obrigatoriedade do exame criminológico para a concessão da progressão de regime, tornando-o, todavia, elemento complementar de convicção à disposição do magistrado, na hipótese de dúvida quanto à viabilidade de concessão da medida.
+A decisão agravada (mov. 1.1) se deu nos seguintes termos:
+"Assim, ao ler a narrativa contida na denúncia (evento 1.6) e os depoimentos acostados à sentença criminal (evento 1.36) fica claro o uso de violência e os traumas causados à vítima, apesar do não reconhecimento por parte do sentenciado. Vejamos que os demais apontamentos positivos como o bom comportamento carcerário não afastam o fato de que, ao deixar de compreender a sua conduta e deixar de se responsabilizar por ela, está propenso a prática do mesmo delito em situações equivalentes. Compreendo assim, que não há segurança para autorizar o retorno do apenado a liberdade sabendo que lhe faltam algumas compreensões básicas que só serão internalizadas com o auxílio do profissional correto e que pelo vínculo de parentesco com a vítima poderá manter contato com facilidade. Portanto, resta dizer que o requisito subjetivo para a concessão da progressão de regime não restou atendido. " - destacado Diante deste cenário, em que pese o Juízo a quo tenha considerado que o Compulsando os autos verifica-se que, formulado pedido de progressão ao regime aberto, foi indeferido pelo juízo das execuções, decisão mantida em 2º Grau, ante os seguintes fundamentos (fls. 64-66):
+O agravante cumpre pena total de 01 (um) ano e 02 (dois) meses de reclusão, atualmente em regime inicial semiaberto, decorrente de condenação por crime de furto qualificado tentado, com término previsto para 03.01.2024 (págs. 84/85 do PEC).
+Pleiteou a progressão ao regime aberto em 15.03.2023, com base no último cálculo da pena e sem apresentar qualquer outro documento comprovando o preenchimento dos requisitos legais exigidos (pág. 88 do PEC).
+O magistrado a quo, em 29.03.2023, considerando que o condenado atingiria, em tese, o lapso temporal para a progressão ao regime aberto em 05.04.2023, bem como a diante da ausência de comprovação dos demais requisitos, indeferiu o pedido, destacando "poderá o condenado, por seus próprios esforços, sem a intervenção deste juízo, buscar eventual documentação que reputar necessária para formulação do pedido que lhe aprouver. No particular, aliás, dispõe de poderes legais para o proceder" (págs. 95/96 do PEC).
+O causídico interpôs embargos de declaração, alegando omissão na decisão anterior, bem como, juntou boletim informativo (págs. 106/108 do PEC). O pedido não foi acolhido (págs. 117/118 do PEC), razão pela qual busca guarida nesta superior instância.
+Pois bem.
+Em sede de execução penal, a aferição dos requisitos para eventual concessão de benefício deve ser verificada a partir de dados obtidos durante o cumprimento da pena, a fim de se constatar se o condenado está ou não apto ao restabelecimento gradativo à convivência coletiva, elementos não observados no presente caso.
+Nos termos do artigo 112 da Lei das Execuções Penais, para fazer jus à progressão de regime, o condenado deve preencher cumulativamente os requisitos objetivo e subjetivo.
+No presente caso, embora neste momento o lapso temporal tenha sido atingido, é certo que por ocasião do pedido em 1º grau sequer se aproximava, pois o pleito foi apresentado em 15.03.2023 (pág. 88 do PEC), enquanto a previsão para a concessão da benesse era apenas em 05.04.2023 (págs. 84/85 do PEC).
+Ademais, na mesma oportunidade, o ilustre Defensor não apresentou a documentação mínima exigida para a análise do pedido boletim informativo e atestado de boa conduta carcerária -, o fazendo somente em sede de embargos de declaração, motivo pelo qual, foi rechaçado pelo juízo a quo, nas duas oportunidades.
+Assim, ainda que reste superado o requisito objetivo neste momento, impossível a análise dos elementos subjetivos, porquanto não avaliados em 1º grau, o que ensejaria indesejável supressão de instância.
+Portanto, correta a r. decisão que indeferiu a progressão de regime, diante do não preenchimento dos requisitos necessários, não merecendo qualquer reparo.
+Ante o exposto, pelo meu voto, nega-se provimento ao recurso.
+Como se vê, o benefício foi indeferido pelo juízo da VEC ante o não preenchimento dos requisitos objetivo e subjetivo, porquanto formulado prematuramente antes do lapso temporal exigido, sem demonstração do cumprimento do requisito subjetivo, o que somente teria sido feito posteriormente, razão pela qual o Tribunal de origem houve por bem negar provimento ao agravo em execução.
+Nesse contexto, não tendo sido apreciada a questão pela Corte de origem, não pode ser examinada diretamente pelo STJ, sob pena de indevida supressão de instância.
+Ressalte-se que não se constata ilegalidade flagrante ante o não conhecimento da questão, porquanto devidamente fundamentado o indeferimento do pleito no juízo da VEC, ante não cumprimento, até então, dos requisitos legais, cabendo ao apenado, uma vez decorrido o lapso legal, formular novo pedido, devidamente instruído perante o juízo das execuções.
+Ante o exposto, não conheço do writ.
+Consoante assentado na decisão agravada, o benefício foi indeferido pelo Juízo da VEC ante o não preenchimento dos requisitos objetivo e subjetivo, aos fundamentos de que foi formulado prematuramente antes do lapso temporal exigido - o que somente teria ocorrido posteriormente, em 5/4/2023 -, e sem demonstração do cumprimento do requisito subjetivo, daí porque, uma vez que a questão não foi sequer apreciada pela Corte de origem, não pode ser examinada diretamente pelo STJ, sob pena de indevida supressão de instância.
+Tampouco se constata hipótese de ilegalidade flagrante a justificar a concessão de habeas corpus de ofício pelo não conhecimento da questão pelo Tribunal a quo, porquanto devidamente fundamentado o indeferimento do pleito no Juízo da VEC, como já assinalado, ante o não cumprimento, até então, dos requisitos legais, cabendo ao apenado, uma vez decorrido o lapso legal, formular novo pedido, devidamente instruído perante o J uízo das execuções.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
