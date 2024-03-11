@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 11/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  ÔNUS.  SUCUMBÊNCIA.  REDISTRIBUIÇÃO.  REEXAME  FÁTICO-PROBATÓRIO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.  AÇÃO  DE  RESCISÃO  CONTRATUAL.  COMPRA  E  VENDA  DE  IMÓVEL.  CORREÇÃO  MONETÁRIA.  TERMO  INICIAL.  DESEMBOLSO.
+1.  Rever a  distribuição  dos  ônus  sucumbenciais  envolve  ampla  análise  de  questões  de  fato  e  de  prova,  conforme  as  peculiaridades  de  cada  caso  concreto,  providência  incabível  em  recurso  especial,  nos  termos  da  Súmula  nº  7/STJ.
+2.  O  termo  inicial  da  correção  monetária  das  parcelas  pagas  a  serem  restituídas  em  virtude  da  rescisão  do  contrato  de  compra  e  venda  é  a  data  de  cada  desembolso.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  HELBOR  EMPREENDIMENTOS  S.A.  contra  a  decisão  (fls.  467/471  e-STJ  ) que  conheceu  em  parte  do  recurso  especial  para  negar-lhe  provimento  devido  à  incidência  das  Súmulas  nºs  7  e  568/STJ.
+Nas  presentes  razões,  a  recorrente  sustenta  a  inaplicabilidade  da  Súmula  nº  7/STJ,  visto  que  o  recurso  não  discute  nenhuma questão  de  natureza  fática.
+Aduz  que  a  tese  defendida  no  recurso  especial,  relativa  ao  termo  inicial  para  o  cômputo  da  correção  monetária  dos  valores  devidos,  não  pode  ser  afastada  por  suposta  dissonância  com  o  entendimento  do  Superior  Tribunal  de  Justiça.
+Impugnação  às  fls.  486/491  (e-STJ).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  ÔNUS.  SUCUMBÊNCIA.  REDISTRIBUIÇÃO.  REEXAME  FÁTICO-PROBATÓRIO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.  AÇÃO  DE  RESCISÃO  CONTRATUAL.  COMPRA  E  VENDA  DE  IMÓVEL.  CORREÇÃO  MONETÁRIA.  TERMO  INICIAL.  DESEMBOLSO.
+1.  Rever a  distribuição  dos  ônus  sucumbenciais  envolve  ampla  análise  de  questões  de  fato  e  de  prova,  conforme  as  peculiaridades  de  cada  caso  concreto,  providência  incabível  em  recurso  especial,  nos  termos  da  Súmula  nº  7/STJ.
+2.  O  termo  inicial  da  correção  monetária  das  parcelas  pagas  a  serem  restituídas  em  virtude  da  rescisão  do  contrato  de  compra  e  venda  é  a  data  de  cada  desembolso.
+3.  Agravo  interno  não  provido.
+VOTO
+A  insurgência  não  merece  prosperar.
+De fato, a  agravante  não  apresentou  argumentos  capazes  de  infirmar  a  decisão  atacada.
+Conforme  consignado  na  decisão  ora  agravada,  o  Superior  Tribunal  de  Justiça  tem  firme  entendimento  no  sentido  de  não  admitir,  em  recurso  especial,  o  redimensionamento  do  quantitativo  em  que  autor  e  réu  sucumbiram  na  demanda,  pois  tal  questão  esbarra  no  óbice  da  Súmula  nº  7/STJ.
+Confiram-se:
+"AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  PROMESSA  DE  COMPRA  E  VENDA  DE  UNIDADE  IMOBILIÁRIA  PARA  FINS  DE  EXPLORAÇÃO  COMERCIAL.  ATRASO  NA  ENTREGA  DE  APART  HOTEL.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL  NÃO  CONFIGURADA.  TAXA  SATI  E  COMISSÃO  DE  CORRETAGEM.  COBRANÇA  INCABÍVEL.  NÃO  OBSERVÂNCIA  DO  DEVER  DE  INFORMAÇÃO.  REVISÃO.  IMPOSSIBILIDADE.  SÚMULA  7/STJ.  DANOS  MORAIS.  PRESENÇA  DOS  REQUISITOS.  REVISÃO.  IMPOSSIBILIDADE.  SÚMULA  7/STJ.  REDISTRIBUIÇÃO  DA  SUCUMBÊNCIA.  DESCABIMENTO.  REVISÃO.  IMPOSSIBILIDADE.  SÚMULA  7/STJ.  ÓBICE  APLICÁVEL  AO  RECURSO  INTERPOSTO  POR  AMBAS  AS  ALÍNEAS  DO  PERMISSIVO  CONSTITUCIONAL.  MULTA  PREVISTA  NO  ART.  1.021,  §  4º,  DO  CPC/2015.  INAPLICABILIDADE.  AGRAVO  INTERNO  DESPROVIDO.
+(..)
+5.  No  âmbito  do  recurso  especial,  não  há  como  aferir  o  percentual  em  que  cada  litigante  foi  vencedor  ou  vencido,  nem  como  desconstituir  a  conclusão  acerca  da  existência  de  sucumbência  mínima  ou  recíproca,  por  envolver  aspectos  fáticos  e  probatórios,  a  incidir  o  disposto  no  enunciado  sumular  n.  7  deste  Tribunal.
+6.  A  aplicação  do  verbete  n.  7  da  Súmula  do  STJ  impede  o  conhecimento  do  recurso  interposto  tanto  pela  alínea  a  quanto  pela  alínea  c  do  permissivo  constitucional.
+7.  O  mero  não  conhecimento  ou  a  improcedência  do  agravo  interno  não  enseja  a  necessária  imposição  da  multa  prevista  no  art.  1.021,  §  4º,  do  CPC/2015,  tornando-se  imperioso  para  tal  que  seja  nítido  o  descabimento  do  recurso,  o  que  não  se  verifica  na  espécie.
+8.  Agravo  interno  desprovido"  (AgInt  no  REsp  1.844.542/RJ,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  13/12/2023,  DJe  de  18/12/2023  -  grifou-se).
+"CIVIL  E  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA  DE  VIOLAÇÃO  DOS  ARTS.  489  E  1.022  DO  CPC.  OMISSÃO  NÃO  CONFIGURADA.  PLANO  DE  SAÚDE.  RESPONSABILIDADE  SOLIDÁRIA.  INDENIZAÇÃO  POR  DANO  MATERIAL.  REVISÃO  DE  MATÉRIA  FÁTICO-PROBATÓRIA.  HONORÁRIOS  ADVOCATÍCIOS.  SUCUMBÊNCIA  RECÍPROCA.  REEXAME  DE  FATOS  E  PROVAS.  ÓBICE  DA  SÚMULA  N.  7/STJ.  DIVERGÊNCIA  JURISPRUDENCIAL  PREJUDICADA.
+(..)
+4.  É  inviável  a  aferição  do  grau  de  sucumbência  entre  as  partes,  para  fins  de  distribuição  da  condenação  nos  honorários  advocatícios,  tendo  em  vista  a  necessidade  de  revisão  do  contexto  fático-probatório  dos  autos,  providência  defesa  em  recurso  especial,  ante  o  enunciado  da  Súmula  n.  7/STJ.
+5.  Fica  prejudicado  o  exame  da  divergência  jurisprudencial  quando  a  tese  já  foi  afastada  na  análise  do  recurso  especial  pela  alínea  "a"  em  razão  da  incidência  dos  óbices  das  Súmulas  n.  7  e  83/STJ.
+Agravo  interno  improvido"  (AgInt  no  AREsp  1.974.371/RJ,  Rel.  Ministro  HUMBERTO  MARTINS,  Terceira  Turma,  julgado  em  20/11/2023,  DJe  de  22/11/2023).
+No tocante à  tese  de  violação  do  art.  1º,  §  2º,  da  Lei  nº  6.899/1981,  a  decisão  atacada  registrou  a  incidência  da  Súmula  nº  568/STJ,  pois  a  jurisprudência  desta  Corte  Superior  é  assente  no  sentido  de  que,  "(..)  em  caso  de  rescisão  de  contrato  de  compra  e  venda  de  imóvel,  a  correção  monetária  das  parcelas  pagas,  para  efeitos  de  restituição,  incide  a  partir  de  cada  desembolso"  (AgInt  no  AREsp  208.706/RJ,  Relator  Ministro  Raul  Araújo,  Quarta  Turma,  julgado  em  22/8/2017,  DJe  13/9/2017).
+A propósito, ainda :
+"CIVIL  E  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  REEXEME  DE  FATOS  E  PROVAS.  SÚMULA  N.  7/STJ.  ARRAS.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  SÚMULA  N.  211/STJ.  DIREITO  DE  RETENÇÃO  NO  PERCENTUAL  DE  20%.  POSSIBILIDADE.  PRECEDENTES.  TAXA  DE  FRUIÇÃO.  LOTE  NÃO  EDIFICADO.  IMPOSSIBILIDADE.  PRECEDENTES.  JUROS  DE  MORA.  A  PARTIR  DO  TRÂNSITO.  PRECEDENTES.  SUCUMBÊNCIA  MÍNIMA.  SÚMULA  7/STJ.
+1.  O  acórdão  recorrido  abordou,  de  forma  fundamentada,  todos  os  pontos  essenciais  para  o  deslinde  da  controvérsia,  razão  pela  qual  não  há  falar  na  suscitada  ocorrência  de  violação  dos  arts.  489  e  1.022  do  CPC.
+2.  Quanto  à  alegação  de  violação  dos  arts.  417  e  418  do  CC,  que  tratam  das  arras  ou  sinal,  observa-se  que  tal  questão  não  foi  discutida  no  acórdão  recorrido  e  não  foram  opostos  embargos  de  declaração  quanto  ao  ponto.  Logo,  não  foi  cumprido  o  necessário  e  indispensável  exame  da  questão  pela  decisão  atacada,  apto  a  viabilizar  a  pretensão  recursal  da  recorrente.  Incidência  da  Súmula  n.  211/STJ.
+3.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  permite  a  retenção  no  percentual  entre  10%  (dez  por  cento)  e  25%  (vinte  e  cinco  por  cento)  dos  valores  pagos  quando  houver  resolução  do  compromisso  de  compra  e  venda  por  culpa  do  compromitente  comprador.
+4.  Quanto  à  taxa  de  fruição,  nos  termos  da  jurisprudência  pacífica  do  STJ,  é  indevida  a  taxa  de  ocupação  ou  fr uição  após  o  desfazimento  de  promessa  de  compra  e  venda  de  lote  não  edificado,  porquanto  a  resilição  não  enseja  nenhum  enriquecimento  do  comprador  ou  empobrecimento  do  vendedor  (AgInt  no  REsp  n.  2.020.258/SP,  relator  Ministro  Paulo  de  Tarso  Sanseverino,  Terceira  Turma,  julgado  em  13/3/2023,  DJe  de  16/3/2023).
+5.  Por  fim,  os  juros  de  mora  devem  incidir  a  partir  da  data  do  trânsito  em  julgado,  uma  vez  que  inexiste  mora  anterior  do  promitente  vendedor.  Já  a  correção  monetária  das  parcelas  pagas,  para  efeitos  de  restituição,  incide  a  partir  de  cada  desembolso.  Precedentes.
+6.  A  aferição  do  quantitativo  em  que  autor  e  réu  saíram  vencidos  na  demanda,  bem  como  da  existência  de  sucumbência  mínima  ou  recíproca,  mostra-se  inviável  em  recurso  especial,  tendo  em  vista  a  circunstância  obstativa  decorrente  do  disposto  na  Súmula  n.  7/STJ.
+Agravo  interno  improvido"  (AgInt  no  REsp  2.049.633/SP,  Rel.  Ministro  HUMBERTO  MARTINS,  Terceira  Turma,  julgado  em  9/10/2023,  DJe  de  16/10/2023  -  grifou-se).
+"CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  CONTRATO  DE  COMPRA  E  VENDA  DE  IMÓVEL.  RESCISÃO.  RESTITUIÇÃO  DAS  IMPORTÂNCIAS  PAGAS.  TERMO  INICIAL  DA  CORREÇÃO  MONETÁRIA.  DATA  DE  CADA  DESEMBOLSO.  SÚMULA  N.  83  DO  STJ.  NÃO  PREVALÊNCIA  DA  LEI  N.  6.899/1981.
+1.  "O  entendimento  desta  Corte  é  no  sentido  de  que,  em  caso  de  rescisão  de  contrato  de  compra  e  venda  de  imóvel,  a  correção  monetária  das  parcelas  pagas,  para  efeitos  de  restituição,  incide  a  partir  de  cada  desembolso"  (AgInt  no  REsp  n.  1.988.931/SP,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  DJe  19/8/2022).
+2.  Tal  orientação  prevalece  sobre  a  antiga  Lei  n.  6.899/1981  em  decorrência  do  princípio  que  veda  o  enriquecimento  sem  causa  -  no  caso  provocado  pela  inflação  -,  disciplinado  na  moderna  legislação  civil  pátria.
+3.  Incidência  da  Súmula  n.  83  do  STJ.
+4.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  no  AREsp  2.153.840/SP,  Rel.  Ministro  ANTONIO  CARLOS  FERREIRA,  Quarta  Turma,  julgado  em  12/12/2022,  DJe  de  15/12/2022  -  grifou-se).
+Assim,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
