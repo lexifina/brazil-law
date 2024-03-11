@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 11/03/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. No caso dos autos, não há vício a ensejar esclarecimento, complemento ou eventual integração do que fora decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos pela ODONTOTOP ERECHIM LTDA contra acórdão que negou provimento a agravo interno, assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. IRPJ E CSLL. BASES DE CÁLCULO REDUZIDAS. ATIVIDADES HOSPITALARES. SERVIÇOS DE ODONTOLOGIA. ACÓRDÃO RECORRIDO PELA DENEGAÇÃO. REVISÃO DO JULGADO. EXAME DE PROVA. INADMISSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. À luz da tese definida pela Primeira Seção, no REsp n. 1.116.399/BA, o reconhecimento do direito à redução das bases de cálculo do IRPJ e da CSLL só pode ser reconhecido, quanto aos serviços odontológicos, na hipótese em que são necessários intervenções cirúrgicas. Precedentes.
+3. No caso dos autos, considerado o delineamento fático descrito pelo órgão julgador a quo, o conhecimento do recurso especial encontra óbice na Súmula 7 do STJ, porquanto, sem exame de provas, não há como se revisar o acórdão recorrido, pela inexistência de comprovação do direito defendido no mandamus.
+4. Agravo interno não provido.
+A parte embargante alega, em síntese (fls. 1126/1131):
+existência de omissão, contradição e erro material na respeitável decisão ora embargada  ..  A mera descrição do contexto é suficiente a constatar que o v. acórdão recorrido está em manifesto conflito com a legislação federal e da Corte Superior sobre o tema, singularmente da decisão proferida no julgamento do REsp 1116399/BA (Tema 217 STJ) e no REsp 799854/PR, sendo devido e necessário, deste modo, o recebimento deste Recurso Especial  ..  importa a natureza da atividade praticada pelo contribuinte voltada à promoção da saúde (critério objetivo), bem como, o fato que clínicas dessa especialidade realizam inúmeros procedimentos cirúrgicos, complexos, o que não demanda dilação probatória, devendo o direito ser deferido no que se refere a tais atividades, excluídas as simples consultas, em consonância com a jurisprudência da Corte Superior. Desta feita, tem-se pelo afastamento da mencionada Súmula 7/STJ, e não conhecer do recurso sob esse fundamento, é flagrante erro material, quando não contradição no julgado tendo em vista a própria tese já firmada em âmbito do STJ sobre o referido tema, e porquanto as questões norteadas no REsp são puramente jurídicas, sendo desnecessária a reanálise de fatos/provas do processo relacionado, mas sim, unicamente, a aplicação da tese fixada em sede de sistemática de recursos repetitivos quando do julgamento do REsp 1116399/BA (Tema 217 STJ), o que, por si só, demonstra a necessidade deste petitório
+Sem impugnação pela parte agravada (fl. 1139).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. No caso dos autos, não há vício a ensejar esclarecimento, complemento ou eventual integração do que fora decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso dos autos, não há vício a ensejar esclarecimento, complemento ou eventual integração do que fora decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+De fato, tal como consignado no voto condutor do acórdão embargado, no que se refere, especificamente, aos serviços odontológicos em que são necessários intervenções cirúrgicas, este Tribunal Superior, antes do julgamento do repetitivo, já externou entendimento segundo o qual estariam incluídos no conceito de serviços hospitalares  ..  não obstante, este Tribunal tem entendimento pelo não reconhecimento do direito quando os serviços odontológicos se refiram a exames clínicos, consultas ou exames em geral  ..  no caso dos autos, o TRF4 decidiu não serem alcançados pelo conceito de serviços hospitalares os serviços odontológicos prestados pela impetrante e, considerada a situação descrita no acórdão recorrido, forçoso o não conhecimento do recurso especial, porquanto, sem exame de provas, não há como se revisar o acórdão recorrido. Observância da Súmula 7 do STJ.
+Não há, pois, vício de integração a ser sanado.
+Por fim, deve-se esclarecer à recorrente que o vício de contradição só se caracteriza quando a conclusão da decisão judicial não guardar correlação com a fundamentação utilizada para lhe dar respaldo ou nela houver fundamentos não compatíveis entre si, o que não é o caso.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
