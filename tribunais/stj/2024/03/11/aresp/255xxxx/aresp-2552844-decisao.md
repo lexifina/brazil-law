@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 219, e-STJ):
+APELAÇÃO CÍVEL - Execução fiscal  Município de São José do Rio Preto  Contribuição de melhoria do exercício de 2000 - Execução fiscal ajuizada em 19/10/2004, antes da alteração do artigo 174 do Código Tributário Nacional pela Lei Complementar no 118/2005 - Despacho citatório proferido em 05/11/2004 - Carta de citação expedida somente em 04/02/2013, passados mais de oito anos da determinação - Citação aperfeiçoada em 09/05/2013  Ausência de pagamento - Ciência inequívoca do não pagamento nos autos  Termo inicial da contagem do prazo prescricional - Entendimento consolidado pelo Superior Tribunal de Justiça no REsp nº 1.340.553/RS, julgado na sistemática de recursos repetitivos  Transcurso do lustro legal sem impulsionamento válido do processo pela Fazenda Pública - Ocorrência da prescrição - Sentença de extinção mantida  Recurso não provido.
+Os Embargos de Declaração foram rejeitados (fl. 234, e-STJ).
+A parte agravante, nas razões do Recurso Especial, alega que ocorreu, além de divergência jurisprudencial, violação dos arts. 141, 152, II, 240 e 371 do CPC; 2º, § 3º, e 8º, § 2º, da LEF; e 174 do CTN. Aduz, em suma, a inexistência de inércia "quando a competência para a pratica do ato de expedição da carta como se sabe é ato judicial que só poderia ser praticado nela Serventia" (fl. 244, e-STJ).
+Não foram apresentadas contrarrazões.
+Inadmitiu-se a irresignação (fls. 272-276, e-STJ), o que ensejou a interposição do Agravo de fls. 284-295, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 26.2.2024.
+Inicialmente, quanto à prescrição, observa-se que o Tribunal de origem inadmitiu o Recurso Especial, com fundamento no art. 1.030, I, do CPC, por entender estar o acórdão recorrido de acordo com o julgamento dos Temas 566, 567, 568, 569, 570 e 571 do STJ. No caso, não há falar em reparo na decisão impugnada.
+Na mesma linha:
+PROCESSUAL CIVIL. FGTS. EMBARGOS À EXECUÇÃO FISCAL. PRESCRIÇÃO. IMPROCEDÊNCIA DO PEDIDO. ALEGAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. APLICAÇÃO DA SÚMULA N. 7 DO STJ. ACÓRDÃO RECORRIDO ALINHADO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA N. 83/STJ.
+(..) III - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, na sistemática introduzida pelo art. 543-C do CPC/73, incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, não sendo possível, daí em diante, a apresentação de qualquer outro recurso dirigido ao STJ, sob pena de tornar-se ineficaz o propósito racionalizador implantando pela Lei n. 11.672/2008 (Questão de Ordem no Ag 1.154.599/SP, relator Ministro Cesar Asfor Rocha, Corte Especial, DJe de 12/5/2011.)
+(..) VIII - Agravo interno improvido.
+(AgInt no AREsp 2.163.586/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 16/3/2023)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA ESPECIAL. NEGATIVA DE SEGUIMENTO E INADMISSÃO DO RECURSO ESPECIAL COM FUNDAMENTO NOS ARTS. 1.030, I, B, E 1.040, I, DO CPC/2015, E NO ÓBICE DA SÚMULA 7/STJ, RESPECTIVAMENTE. AGRAVO EM RECURSO ESPECIAL QUE INFIRMOU A MATÉRIA INSERIDA NO JUÍZO DE CONFORMIDADE REALIZADO PELO TRIBUNAL DE ORIGEM. INADMISSIBILIDADE. COMPETÊNCIA EXCLUSIVA, E EM CARÁTER DEFINITIVO, DA CORTE A QUO PARA A REALIZAÇÃO DO JUÍZO DE ADEQUAÇÃO. IMPUGNAÇÃO GENÉRICA À INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DO PARTICULAR NÃO PROVIDO.
+1. O agravo interno não trouxe argumentos novos capazes de alterar o entendimento anteriormente firmado, limitando-se a reiterar as teses já veiculadas no especial.
+2. Conforme o entendimento desta Corte Superior de Justiça, na sistemática introduzida pelo artigo 543-C do CPC/73, incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, não sendo possível, daí em diante, a apresentação de qualquer outro recurso dirigido a este STJ, sob pena de tornar-se ineficaz o propósito racionalizador implantando pela Lei 11.672/2008 (Questão de Ordem no Ag 1.154.599/SP, Rel. Ministro CESAR ASFOR ROCHA, CORTE ESPECIAL, DJe de 12/5/2011).
+3. No caso, a Corte de origem negou seguimento ao recurso com base nos arts. 1.030, I, b, e 1.040, I, do CPC/2015, decisão confirmada no julgamento do agravo interno. A despeito da interposição concomitante do agravo em recurso especial, verifica-se que as razões nele veiculadas infirmaram a matéria inserida no juízo de adequação realizado pelo Tribunal a quo em relação ao Tema 534/STJ.
+4. Desse modo, ante incumbência exclusiva, e em caráter definitivo, do Tribunal de origem para realizar a conformação do caso dos autos a entendimento firmado sob o rito dos repetitivos, descabe a este Superior Tribunal de Justiça realizar nova análise da controvérsia, sob pena de usurpação da competência da Corte ordinária.
+5. No que toca à Súmula 7/STJ, registre-se que a parte agravante não logrou rebater adequadamente o fundamento da decisão agravada, limitando-se a sustentar, de forma genérica, que a análise da controvérsia seria essencialmente jurídica, sendo desnecessário o reexame fático-probatório dos autos.
+6. Agravo interno do particular não provido.
+(AgInt no AREsp 1.709.154/PR, Rel. Ministro Manoel Erhardt, Primeira Turma, DJe 16/9/2021; grifos acrescidos)
+Por fim, o acolhimento da tese recursal quanto à inexistência de inércia pelo recorrente demanda reexame de provas, incabível na via do Recurso Especial, em razão da Súmula 7/STJ.
+Desse modo, a solução do tema não depende apenas de interpretação da legislação federal, mas efetivamente da análise da documentação contida nos autos, o que não se compatibiliza com a missão constitucional do STJ, em grau recursal.
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se
+EMENTA
