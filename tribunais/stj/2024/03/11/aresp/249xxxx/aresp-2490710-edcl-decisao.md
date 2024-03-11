@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Embargos de Declaração contra decisão monocrática que conheceu do Agravo para negar provimento ao Recurso Especial.
+A parte embargante sustenta (fls. 2.345-2.347, e-STJ):
+Na ocasião da interposição do apelo especial, a EMBARGANTE requereu a suspensão do feito, a fim de se aguardar o juízo de retratação por este E. STJ dos Temas nº 504 e 505, analisados pela Primeira Seção, sob a sistemática dos recursos repetitivos, em momento anterior ao julgamento do Tema nº 962 pela Suprema Corte (2014), no recurso especial nº 1.113.695, sob a relatoria do Ministro Mauro Campbell Marques.
+É que o recurso extraordinário interposto pelo contribuinte em face do acórdão proferido no paradigma dos Temas nº 504 e 505 do STJ foi sobrestado por esta Corte até o julgamento definitivo pelo STF do RE nº 1.063.187 (Tema nº 962), a fim de que se pudesse realizar a eventual retratação, nos termos do art. 1.040, II, do CPC.
+Assim, em juízo de retratação efetuado pela Primeira Seção, em 26/04/23, no recurso especial nº 1.113.695, o colegiado houve por bem modificar a tese jurídica fixada para o Tema nº 505, mantendo, porém, a tese fixada em 2014 para o Tema nº 504.
+Ocorre que até o momento o acórdão proferido em sede de juízo de retratação no julgamento do recurso especial nº 1.113.695 não transitou em julgado, eis que se encontram pendentes de decisão os embargos de declaração opostos pela parte.
+Considerando que os referidos embargos de declaração podem eventualmente ser providos com efeitos modificativos, a garantia da segurança jurídica e o dever de coerência, integridade e estabilidade da jurisprudência, essenciais ao bom funcionamento de um sistema de precedentes (art. 926 do CPC), recomendam que se aguarde o seu julgamento e o efetivo trânsito em julgado do acórdão proferido no recurso especial nº 1.113.695, para fins de aplicação do entendimento nele firmado.
+Nesse ponto, ainda que a d. decisão embargada tenha reconhecido que a negativa de seguimento ao apelo especial da EMBARGANTE pelo Tribunal a quo tenha se efetivado com base na diretriz firmada no Tema nº 504/STJ, certo é que deixou de se manifestar acerca da ausência de trânsito em julgado do acórdão paradigma, ante a oposição de embargos declaração, em 15/05/23, ainda não apreciados, o que justifica a presente manifestação, apresentada com o único objetivo de obter o sobrestamento do feito até o referido trânsito em julgado do paradigma.
+(..)
+Ante todo exposto, requer-se o conhecimento e o provimento dos presentes embargos declaratórios, com a finalidade unicamente de determinar o sobrestamento do feito até o trânsito em julgado do paradigma do Tema nº 504/STJ, recurso especial nº 1.113.695, cujos embargos de declaração encontram-se pendentes de apreciação desde maio de 2023.
+Sem impugnação.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 19 de fevereiro de 2024.
+Os Embargos de Declaração constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+Não verifico na espécie sub judice qualquer omissão, contradição, obscuridade ou erro material, senão o intuito de rediscutir matéria já decidida, emprestando-lhe efeito infringente. O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Aclaratórios, que servem ao aprimoramento da decisão, mas não à sua modificação, só muito excepcionalmente admitida.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA. RESPONSABILIDADE CIVIL DA UNIÃO. OMISSÃO. INEXISTÊNCIA. ANISTIA. PERQUIRIÇÃO DA NULIDADE DA PORTARIA INTERMINISTERIAL 122/2000. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. REEXAME DE PREMISSAS FÁTICAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Na hipótese dos autos, o acórdão embargado foi bastante claro ao consignar que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, mormente para verificar se as premissas fáticas adotadas pelo Tribunal a quo não se enquadram nos precedentes judiciais adotados como fundamento do decisum objurgado. Incide, in casu, o óbice da Súmula 7/STJ.
+2. O recurso foi desprovido com fundamento claro e suficiente, inexistindo omissão, contradição, obscuridade ou erro material no acórdão embargado.
+3. Os argumentos da parte embargante denotam mero inconformismo e intuito de rediscutir a controvérsia, não se prestando os aclaratórios a esse fim.
+4. Embargos de Declaração rejeitados. (EDcl no AgInt nos EDcl no AREsp 1.608.546/SP, Rel. Min. Herman Benjamin, 2ª Turma, DJe 24/11/2020.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. FALTA DE INDICAÇÃO DE QUAISQUER DOS VÍCIOS DO ART. 1022 DO CPC/15. IRREGULARIDADE FORMAL. NÃO CONHECIMENTO.
+(..) 2. Todavia, no caso, a parte embargante limitou-se a externar sua irresignação com o que restou decidido, sem fazer referência a quaisquer dos vícios ensejadores dos embargos de declaração, em flagrante desobediência ao que preceituado no art. 1023 do CPC ("Os embargos serão opostos, no prazo de 5 (cinco) dias, em petição dirigida ao juiz, com indicação do erro, obscuridade, contradição ou omissão, e não se sujeitam a preparo"), o que acarreta o não-conhecimento do recurso.
+3. Embargos de declaração não conhecidos. (EDcl no AgInt nos EDcl no AREsp 1.666.728/RS, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 11/3/2021.)
+No presente caso, a questão relativa ao Tema 504 do STJ não poderia sequer vir a ser julgada por esta Corte, porque, tal como constou da decisão embargada, "constata-se que foi negado seguimento ao Apelo Nobre com base na diretriz firmada no Tema 504/STJ, nos termos do art. 1.030, I, do CPC, motivo pelo qual não é possível conhecer da irresignação, no ponto, porque não interposto Agravo Interno".
+Ainda que assim não fosse, esta Corte Superior possui jurisprudência consolidada quanto à desnecessidade de aguardar o trânsito em julgado do precedente qualificado para que ele seja aplicado. Nesse sentido: AgInt na Rcl 39.382/RS, rel. Ministro Og Fernandes, Primeira Seção, DJe de 14.5.2021; AgInt no AREsp 1.026.324/RJ, rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 31.8.2020; AgInt no REsp 1.665.605/SC, rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19.8.2019.
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que a reiteração será considerada expediente protelatório sujeito à multa prevista no art. 1.026, § 2º, do Código de Processo Civil.
+Publique-se.
+Intimem-se.
+EMENTA
