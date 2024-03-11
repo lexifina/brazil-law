@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO contra decisão em que concedi parcialmente a ordem de habeas corpus para reconhecer a causa especial de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006 (e-STJ fls. 181/188).
+Alega a defesa, no presente expediente aclaratório, que "a contradição interna da decisão embargada está diretamente vinculada ao fato de que, após expor motivos que não apontariam o paciente do habeas corpus como membro de uma organização criminosa, corroborado tão somente pelo fato de considerá-lo como "mula", reconhece, na sequência, que ele - embargado - tinha ciência de que estaria atuando em prol de um grupo criminoso, conclusão que neutraliza qualquer possibilidade de aplicação do benefício concedido" (e-STJ fl. 199).
+Requer, ao final, o provimento dos embargos a fim de sanar o alegado vício .
+É o relatório.
+Decido.
+Como é cediço, os embargos de declaração, consoante disposição do art. 619 do Código de Processo Penal, destinam-se a sanar possível ambiguidade, obscuridade, contradição e/ou omissão nas razões delineadas no corpo da decisão, em face das pretensões deduzidas e dos demais elementos constantes do processo.
+Essa é a vocação legal do recurso, sempre enfatizada nos precedentes do Superior Tribunal de Justiça, como se depreende do aresto a seguir:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO.  ..  ART. 619 DO CPP. AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos de declaração são cabíveis nas hipóteses de haver ambiguidade, obscuridade, contradição e/ou omissão no acórdão prolatado (artigo 619 do Código de Processo Penal).
+2. No caso, percebe-se claramente a oposição do recurso tão somente para rediscutir o mérito do que fora decidido. Sob o pretexto da alegação de omissão ou inexatidão, pretende o embargante apenas renovar a discussão com os mesmos argumentos com os quais a Corte Especial do Superior Tribunal de Justiça não concordou.
+ ..
+5. As Cortes Superiores já pacificaram que os efeitos infringentes nos embargos de declaração dependem da premissa de que haja algum dos vícios a serem sanados (omissão, contradição ou obscuridade) e, por decorrência, a conclusão deve se dar no sentido oposto ao que inicialmente proferido. Precedentes.
+6. Não há vício de embargabilidade quando o aresto recorrido decide integralmente a controvérsia, de maneira sólida e fundamentada.
+7. Embargos de declaração rejeitados. (EDcl na APn 613/SP, relator Ministro OG FERNANDES, CORTE ESPECIAL, DJe 3/2/2016.)
+Os embargos declaratórios constituem instrumento de colaboração no processo. Trata-se de instrumento de efetivo aperfeiçoamento da tutela jurisdicional.
+A despeito das alegações expendidas, é certo que a decisão embargada analisou fundamentadamente todas as questões submetidas ao crivo do Superior Tribunal de Justiça.
+No caso, entendi que ainda que não haja indicação de integração à organização criminosa, o transportador tem perfeita consciência de estar a serviço de um grupo dessa natureza, o que não pode ser desprezado, razão pela qual o paciente faz jus à minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, porém na fração de 1/6 (um sexto), reforçado tal patamar, no caso, pela grande quantidade de drogas apreendidas em seu poder - aproximadamente 34kg (trinta e quatro quilogramas) de cocaína.
+Assim, a decisão ora embargada está em consonância com a jurisprudência desta Corte. Isso, porque, diferentemente do alegado pela defesa, para que se possa afirmar que o agente integre organização criminosa é necessário que se comprove o seu envolvimento, em caráter permanente e estável.
+Ademais, a função desempenhada pelo "mula" não é suficiente, por si só, para se afirmar que o paciente integra organização criminosa, ante a inexistência de outros elementos que permitam a concl usão de que ela se dedique a atividades criminosas.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ART. 33, § 4.º, DA LEI N. 11.343/2006. QUANTIDADE E NATUREZA DA DROGA. FUNDAMENTO QUE, ISOLADO, NÃO É IDÔNEO PARA O AFASTAMENTO DA MINORANTE DO TRÁFICO PRIVILEGIADO. INCIDÊNCIA DA MINORANTE NA FRAÇÃO MÍNIMA. CONDIÇÃO DE MULA. FUNDAMENTO CONCRETO. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. A quantidade de droga apreendida, embora seja bem relevante, não pode ser considerada, isoladamente, para a conclusão de que o acusado se dedica ao tráfico de drogas.
+2. A Terceira Seção do Superior Tribunal de Justiça, no julgamento do RESP n. 1.887.511/SP, no qual se consolidou o entendimento de que a quantidade e a variedade dos entorpecentes somente podem ser consideradas na primeira fase da dosimetria da pena, bem como que a utilização supletiva desses elementos só pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa.
+3. De acordo com o acórdão recorrido, especialmente a circunstância em que foi contratado para transportar a droga mediante promessa de pagamento, demonstra que o Agravante, na verdade, atuou na condição de "mula", devendo ser atribuída a adequada qualificação jurídica ao quadro fático delineado no julgado combatido.
+4. O Superior Tribunal de Justiça firmou o entendimento de que "a simples atuação do agente como "mula", por si só, não induz que integre organização criminosa, sendo imprescindível, para tanto, prova inequívoca do seu envolvimento, estável e permanente, com o grupo criminoso, a autorizar a redução da pena em sua totalidade. Contudo, embora o desempenho dessa função não seja suficiente para denotar que o agravante faça parte de organização criminosa, tal fato constitui circunstância concreta para ser valorada na definição do índice de redução pelo tráfico privilegiado, uma vez se reveste de maior gravidade" (AgRg no AREsp 1.534.326/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 19/9/2019, DJe 24/9/2019).
+5. Agravo regimental desprovido. (AgRg no AREsp n. 1.898.671/MS, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 19/4/2022, DJe 25/4/2022, grifei.)
+Não há na decisão embargada nenhuma situação que dê amparo ao recurso integrativo, porquanto o vício alegado, na realidade, manifesta o inconformismo do embargante com o julgamento meritório, desiderato inadmissível em aclaratórios.
+Desse modo, não há se falar na presença dos vícios elencados no art. 619 do CPP.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
