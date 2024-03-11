@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido de liminar, impetrado em favor de Carlos Mardem Gomes Rodrigues, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ (Autos nº 0638702-21.2023.8.06.0000).
+O habeas corpus apresentado pela defesa foi denegado por meio de acórdão assim ementado (e-STJ fl. 301):
+EMENTA: HABEAS CORPUS. PENAL E PROCESSO PENAL. RECEPTAÇÃO, ASSOCIAÇÃO CRIMINOSA E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. ARTS. 180 E 288 DO CÓDIGO PENAL E ART. 14 DO ESTATUTO DO DESARMAMENTO.
+1. ALEGAÇÃO DE EXCESSO DE PRAZO PARA A CONCLUSÃO DA INSTRUÇÃO PROCESSUAL. NÃO CONFIGURADO. AUSÊNCIA DE DESÍDIA DAS AUTORIDADES ESTATAIS E DE OFENSA AO PRINCÍPIO DA RAZOABILIDADE. PLURALIDADE DE RÉUS. SÚMULA 15 DO TJCE. PERICULOSIDADE DO AGENTE QUE IMPEDE SUA SOLTURA IMEDIATA. PACIENTE QUE OSTENTA EXTENSA FICHA CRIMINAL, INCLUSIVE COM AÇÃO PENAL COM TRÂNSITO EM JULGADO. NECESSIDADE DA MANUTENÇÃO DA PRISÃO EM PROTEÇÃO DA GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DO CRIME APURADO. RISCO DE REITERAÇÃO DELITIVA. INCIDÊNCIA DAS SÚMULAS 52 E 63 DO TJCE.
+2. ORDEM CONHECIDA E DENEGADA, com recomendação ao jUíZO a quo.
+A defesa alega, em síntese, ausência requisitos para decretação da custódia preventiva.
+Consta dos autos que o paciente está preso.
+Requer, liminar e definitivamente, o deferimento da ordem para obter a revogação da prisão preventiva.
+É o relatório.
+Decido.
+Para conhecer da controvérsia apresentada neste writ, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com a estreita via do habeas corpus.
+Além disso, a concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que não se verifica de plano na hipótese dos autos, conforme se obtém da fundamentação lançada na origem (e-STJ fls. 306-307):
+Como consignado acima, atualmente, o Juízo competente já determinou para a Secretaria competente a designação de uma data para a realização da audiência de instrução e julgamento. Dessa forma, não vislumbro qualquer inércia por parte do Juízo competente no tocante à finalização da instrução processual. Ademais, é imperioso destacar que a presente ação conta com 3 (réus), inclusive, um dos réus é representado pela Defensoria Pública do Estado do Ceará, a qual possui prazo em dobro, havendo a necessidade de um maior elastério processual.
+(..)
+Nesse aspecto, verifica-se que o Juízo de origem fundamentou a decretação da cautelar segregativa do paciente em função da garantia da ordem pública, levando em conta a gravidade concreta do delito, evidenciada pela natureza do crime e modus operandi, bem como a presença de anteriores condenações contra si, inclusive por crime análogos ou idênticos, onde um deles, inclusive, se encontra em grau de recurso neste Egrégio Tribunal, evidenciando os elementos idôneos para a decretação da medida extrema.
+Inexiste contrariedade à jurisprudência deste Tribunal na manutenção da prisão preventiva com base em elementos concretos que indicam gravidade concreta que desborda o tipo. (AgRg no HC 801.642/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/2/2023, DJe de 6/3/2023; AgRg no HC 782.464/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023)
+No presente feito, "A prisão preventiva foi adequadamente restabelecida pelo Tribunal estadual dada a gravidade dos fatos apurados, a recidiva do agente, assim como diante da necessidade de se assegurar a conveniência da instrução criminal e a aplicação da lei penal, pois o recorrente descumpriu as medidas cautelares anteriormente aplicadas quando beneficiado com o relaxamento da prisão pelo juiz de primeiro grau, em razão de suposto excesso na instrução do feito." (AgRg no HC 840263 / RJ, RELATOR Ministro RIBEIRO DANTAS, QUINTA TURMA, DATA DO JULGAMENTO 04/12/2023, DATA DA PUBLICAÇÃO/FONTE DJe 11/12/2023)
+Ademais, certo é que "A teor da jurisprudência desta Corte, os prazos para a finalização do inquérito são impróprios e devem ser sopesados conforme a complexidade dos fatos e as demais circunstâncias que explicariam a dilatação das investigações. (HC 867166 / SC, RELATOR Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DATA DO JULGAMENTO 06/02/2024, DATA DA PUBLICAÇÃO/FONTE DJe 19/02/2024)
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
