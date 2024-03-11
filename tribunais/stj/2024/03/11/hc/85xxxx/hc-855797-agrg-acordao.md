@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 11/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Teodoro Silva Santos e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. 52,6 G DE MACONHA, 4 G DE MACONHA, 6,2 G DE MACONHA, 15,1 G DE COCAÍNA, 15,1 G DE COCAÍNA E 3 G DE CRACK E, TAMBÉM, CANABINÓIDE SINTÉTICO (UMA DAS VARIANTES DA DROGA K, ESPECIALMENTE DELETÉRIA), E SKUNK. APONTAMENTO DE ILEGALIDADE NA BUSCA PESSOAL. AUSÊNCIA DE ILEGALIDADE. CONCRETOS FUNDAMENTOS.
+1. Os policiais estavam fazendo diligências em um local conhecido como ponto de drogas, já observado pelos policiais há cerca de 2 anos, qua ndo observaram o réu com bolsa na mão, uma pochete típica usada para o tráfico de drogas e, em razão de atitude suspeita, fizeram a abordagem mediante uma revista pessoal.
+2. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por David Dantas da Silva contra a decisão de minha Relatoria que concedeu parcialmente a ordem de habeas corpus. A decisão recebeu ementa no seguinte teor (fl. 145):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. 52,6 G DE MACONHA, 4 G DE MACONHA, 6,2 G DE MACONHA, 15,1 G DE COCAÍNA, 15,1 G DE COCAÍNA E 3 G DE CRACKE TAMBÉM CANABINÓIDE SINTÉTICO (UMA DAS VARIANTES DA DROGA K, ESPECIALMENTE DELETÉRIA) E SKUNK. PEDIDO DE ABSOLVIÇÃO POR NULIDADE DAS PROVAS. NÃO OCORRÊNCIA. BUSCA PESSOAL FEITA COM IDÔNEA FUNDAMENTAÇÃO. DOSIMETRIA DA PENA. AUSÊNCIA DE ILEGALIDADE. ABRANDAMENTO DO REGIME PARA O SEMIABERTO.
+Ordem parcialmente concedida nos termos do dispositivo.
+Alega a defesa que o paciente somente estava na rua, como qualquer outra pessoa, e que não existia nenhuma situação de flagrante que evidenciasse a necessidade da abordagem policial.
+Sustenta que há ilicitude na busca pessoal, e que nulas as provas dos autos e suas derivações.
+Requer, diante disso, a reconsideração da decisão.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. 52,6 G DE MACONHA, 4 G DE MACONHA, 6,2 G DE MACONHA, 15,1 G DE COCAÍNA, 15,1 G DE COCAÍNA E 3 G DE CRACK E, TAMBÉM, CANABINÓIDE SINTÉTICO (UMA DAS VARIANTES DA DROGA K, ESPECIALMENTE DELETÉRIA), E SKUNK. APONTAMENTO DE ILEGALIDADE NA BUSCA PESSOAL. AUSÊNCIA DE ILEGALIDADE. CONCRETOS FUNDAMENTOS.
+1. Os policiais estavam fazendo diligências em um local conhecido como ponto de drogas, já observado pelos policiais há cerca de 2 anos, qua ndo observaram o réu com bolsa na mão, uma pochete típica usada para o tráfico de drogas e, em razão de atitude suspeita, fizeram a abordagem mediante uma revista pessoal.
+2. Agravo regimental improvido.
+VOTO
+Razão não assiste à defesa, devendo ser mantida a decisão agravada. No caso, os policiais estavam fazendo diligências em um local conhecido como ponto de drogas, já observado pelos policiais há cerca de 2 anos, quando observaram o réu com bolsa na mão, uma pochete típica usada para o tráfico de drogas e, em razão de atitude suspeita, fizeram a abordagem mediante uma revista pessoal. Nesse momento, foram localizadas as substâncias entorpecentes (52,6 g de maconha, 4 g de maconha, 6,2 g de maconha, 15,1 g de cocaína, 15,1 g de cocaína e 3 g de crack).
+Ademais, o paciente informou estar comercializando entorpecentes e que ganharia a quantia de R$ 120,00 (cento e vinte reais) por seu dia de trabalho. Não há ilegalidade na abordagem feita, pois os policiais estavam em um local que já vinham observando há bastante tempo, e o paciente mostrou-se em atitude suspeita, além de estar usando uma pochete utilizada na venda de drogas. No caso, não se tratou de mero nervosismo e decisão subjetiva por parte dos policiais, conforme constou da sentença (fl. 62):
+ ..  é usuário de entorpecentes há 14 anos, que admite que na data de hoje estava no local comercializando entorpecentes e que não possuía nenhum dinheiro consigo, em razão de ter acabado de assumir o ponto de venda, às 7:00 hs, que este seria o seu primeiro dia de trabalho no ponto de vendas de drogas, e que ganharia o valor de R$ 120,00 (cento e vinte reais) pelo dia trabalhado, sendo que iria trabalhar por 12 horas, quando passaria o ponto para a pessoa que trabalharia à noite. Que não sabe informar o nome da pessoa que lhe passou os entorpecentes, sendo que era um homem de cor branca, aparentando ter cerca de quarenta anos de idade, obeso, cabelo castanho claro"  .. .
+Nesses termos, não há falar em nulidade das provas realizadas pela busca pessoal. Cumpre frisar, ainda, que o réu, em audiência de custódia (fl. 90), disse que não houve violência contra a sua pessoa, o que é congruente, inclusive, com a sua aparência nas imagens captadas (fls. 50/51). Sobre essas questões, não há como ser entendido de forma diversa por esta Corte Superior, por demandar o reexame dos fatos.
+Ante o exposto, nego provimento ao agravo regimental.
