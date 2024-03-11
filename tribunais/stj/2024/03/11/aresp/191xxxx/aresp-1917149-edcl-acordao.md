@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 11/03/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Mauro Campbell Marques votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em análise, embargos de declaração opostos por ELISA MARIA BERTONCELLO WURDIG contra acórdão assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INADMISSÃO DO RECURSO ESPECIAL. FUNDAMENTOS NÃO ATACADOS. 1. A agravante não infirmou especificamente todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+2. Se a inadmissão teve amparo no óbice descrito na Súmula n. 83/STJ, deve a parte apontar precedentes deste Tribunal contemporâneos ou supervenientes aos mencionados na decisão agravada, procedendo ao cotejo analítico entre eles para demonstrar que outra é a orientação jurisprudencial nesta Corte Superior ou, na hipótese de distinção dos casos, comprovar a inaplicação ao feito do posicionamento exposto na decisão. Precedentes.
+3. Julgamentos monocráticos não servem para demonstrar a existência de divergência jurisprudencial.
+4. Para combater o argumento pertinente à Súmula n. 7/STJ, é necessário demonstrar a real desnecessidade do reexame de fatos e provas para a análise da tese recursal.
+5. Agravo interno a que se nega provimento.
+Em suas razões, a embargante alega, em síntese, que: (a) "ao contrário do que constou na decisão que não conheceu do Agravo em Recurso Especial, o E. STJ, tem entendimento vastamente aplicado, no sentido de que a mera verificação da renda da parte que requer o benefício da gratuidade judiciária não é suficiente para aferição de sua disponibilidade econômica" (fl. 681e); (b) "o Superior Tribunal de Justiça, inclusive, vem anulando decisões que deferem ou indeferem a gratuidade com fundamento unicamente na remuneração mensal, visto que tal critério importa em violação ao disposto na Lei nº 1.060/50" (fl. 682e); e (c) "a compreensão de que a adoção de critério como a renda mensal percebida pela parte postulante, como único parâmetro para o deferimento do benefício da AJG não encontra amparo nem na Lei 1.060/1950, nem nos artigos 98 e 99 do CPC/2015" (fl. 683e).
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço dos embargos, porquanto presentes os pressupostos de admissibilidade.
+O artigo 1.022 do Código de Processo Civil dispõe o seguinte:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Parágrafo único. Considera-se omissa a decisão que:
+I - deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento;
+II - incorra em qualquer das condutas descritas no art. 489, § 1º.
+Conforme o aludido dispositivo legal, os embargos de declaração não servem à reforma do julgado e não permitem a rediscussão da matéria, pois seu objetivo é introduzir o estritamente necessário para eliminar obscuridade, contradição, erro material e/ou suprimir omissão.
+A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+De se ver, então, serem limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso dos autos, não se constata no acórdão ora embargado, o alegado vício de omissão, revelando-se, em verdade, mero inconformismo da parte embargante, de forma que é imperiosa a rejeição dos embargos de declaração.
+Com efeito, no acórdão embargado foram expostos, de forma clara, os motivos pelos quais o agravo interno deveria ser improvido, constando, expressamente, que:
+A inadmissão do recurso especial na origem fundou-se na inexistência de violação do art. 1.022 do CPC; na consonância do julgado com a jurisprudência do STJ (Súmula n. 83/STJ); e no descabimento do reexame de fatos e provas nessa seara para a caracterização da hipossuficiência (Súmula n. 7/STJ).
+Relativamente ao segundo ponto, o Tribunal de origem indicou como precedentes os julgamentos proferidos no AgInt no AREsp n. 1.349.477/SP (DJe de 7/6/2019) e no REsp n. 1.796.282/SP (DJe de 22/4/2019). A parte, por outro lado, reafirmou o dissenso pretoriano, indicando como paradigmas os julgamentos proferidos no REsp n. 1.797.652/CE (DJe de 29/5/2019), nos EDcl no AgInt no AREsp n. 1.249.065/SP (DJe de 27/9/2018), no AgRg no AgRg no REsp n. 1.402.867/RS (DJe de 14/3/2018) e no REsp n. 1.706.497/PE (DJe de 16/2/2018). No mais, apontou decisões proferidas em julgamentos monocráticos. Inadmitido o recurso com base na Súmula 83/STJ, incumbia à parte apontar precedentes deste Tribunal contemporâneos ou supervenientes aos mencionados na decisão agravada, procedendo ao cotejo analítico entre eles, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, mas tal não ocorreu na espécie.
+(..)
+Registro que, conforme entendimento pacífico do Superior Tribunal de Justiça, julgamentos monocráticos não servem para demonstrar a existência de divergência jurisprudencial. Outrossim, a agravante não logrou demonstrar que o acórdão recorrido amparou a solução da controvérsia unicamente em parâmetros objetivos, desconsiderando a sua situação financeira.
+(..)
+Destaco que esse posicionamento foi reafirmado pela Corte Especial no julgamento dos EAREsps n. 701.404/SC, 746.775/PR e 831.326/SP (DJe de 30/11/2018). Na oportunidade, conforme o voto proferido pelo Ministro Luis Felipe Salomão, definiu-se que a decisão que inadmite o recurso especial não é formada por diversos capítulos, mas um único dispositivo de inadmissão do recurso, e que, sendo incindível, deve ser impugnada em sua integralidade.
+Assim, não há vício formal no aresto, mas tão somente pretensão da parte embargante de rediscutir matéria já decidida, o que não se admite, ante a especialidade da via eleita.
+Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, Relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, Relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/05/2020.
+Isso posto, rejeito os embargos de declaração.
