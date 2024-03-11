@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 11/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSO CIVIL.  AGRAVO INTERNO. RECURSO ESPECIAL. DIREITO CONSTITUCIONAL. PREQUESTIONAMENTO. AUSÊNCIA. INCIDÊNCIA DA SÚMULA 211/STJ. LEI LOCAL. NÃO CABIMENTO NO CONECITO DE ATO DE GOVERNO LOCAL. COMPETÊNCIA DO STF. PROVIMENTO NEGADO.
+1.  A ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso, não obstante a oposição de embargos de declaração, impede o acesso à instância especial porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211 do Superior Tribunal de Justiça (STJ).
+2. "A competência para a análise de norma local em face de lei federal, após a Emenda Constitucional 45/2004, foi deslocada para o STF (art. 102, I, "d", CF/1988), cabendo ao Superior Tribunal de Justiça apreciar os casos em que se julgar válido ato de governo local contestado em face de lei federal (art. 105, III, "b", CF/1988)" (AgInt no AREsp 2.067.852/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/10/2022, DJe de 6/10/2022).
+3. Agravo  interno  a que se nega provimento.
+RELATÓRIO
+Cuida-se  de  agravo  interno  interposto  por ASSOCIAÇÃO BRASILEIRA A HEBRAICA DE SÃO PAULO contra a decisão monocrática de minha relatoria que não conheceu do recurso especial (fls. 1.455/1.460).
+A  parte  agravante, nas  razões  do  agravo  interno  , refuta  os  fundamentos  da  decisão  agravada,  alegando (a) não incidência da Súmula 211 do Superior Tribunal de Justiça (STJ), porquanto demonstrou o prequestionamento das leis federais apontadas nas instâncias de origem; (b) cabimento do recurso pela alínea b, uma vez que o acórdão recorrido julgou válido ato de governo local, qual seja, o Decreto Estadual 41.466/1996.
+ Postula, ao final, o provimento do agravo interno para que seja provido o recurso especial nos termos pleiteados.
+Impugnação às fls. 1.475/1.487.
+ É  o  relatório.
+EMENTA
+PROCESSO CIVIL.  AGRAVO INTERNO. RECURSO ESPECIAL. DIREITO CONSTITUCIONAL. PREQUESTIONAMENTO. AUSÊNCIA. INCIDÊNCIA DA SÚMULA 211/STJ. LEI LOCAL. NÃO CABIMENTO NO CONECITO DE ATO DE GOVERNO LOCAL. COMPETÊNCIA DO STF. PROVIMENTO NEGADO.
+1.  A ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso, não obstante a oposição de embargos de declaração, impede o acesso à instância especial porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211 do Superior Tribunal de Justiça (STJ).
+2. "A competência para a análise de norma local em face de lei federal, após a Emenda Constitucional 45/2004, foi deslocada para o STF (art. 102, I, "d", CF/1988), cabendo ao Superior Tribunal de Justiça apreciar os casos em que se julgar válido ato de governo local contestado em face de lei federal (art. 105, III, "b", CF/1988)" (AgInt no AREsp 2.067.852/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/10/2022, DJe de 6/10/2022).
+3. Agravo  interno  a que se nega provimento.
+VOTO
+A  despeito  das  alegações  da  parte  agravante,  razão  não  lhe  assiste.
+Inicialmente, observo que a matéria foi decidida na origem com base no Decreto Federal 82.587/1978 e na Lei Federal 6.528/1978, bem como nos Decretos Estaduais 21.123/1983 e 41.446/1996.
+A alegação de violação da Lei 9.433/1997, dos arts. 19 e 21, II, do Decreto Federal 82.587/1978 e do art. 10 do Decreto Federal 7.217/2010 não é suficiente para se ter a questão de direito como prequestionada, instituto que, para sua caracterização, exige, além da alegação, a discussão e a apreciação judicial pelo Tribunal de origem.
+A jurisprudência desta Corte Superior considera que a ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso, não obstante a oposição de embargos de declaração, impede o acesso à instância especial porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211 do Superior Tribunal de Justiça (STJ).
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PREQUESTIONAMENTO. AUSÊNCIA. MATÉRIA CONTROVERTIDA. INEXISTÊNCIA.
+1. Há manifesta ausência de prequestionamento, a atrair a aplicação da Súmula 211 do STJ, quando os conteúdos dos preceitos legais tidos por violados não são examinados na origem, mesmo após opostos embargos de declaração.
+2. O óbice da Súmula 343 do STF deve ser afastado, porquanto, antes do trânsito em julgado da sentença rescindenda, a jurisprudência de ambas as Turmas que compõem a Primeira Seção do Superior Tribunal de Justiça já era pacífica quanto ao entendimento de que a CDA não é nula em razão da declaração de inconstitucionalidade do art. 3º, § 1º, da Lei n. 9.718/1998, devendo prosseguir a execução pelo decote do eventual excesso.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.942.612/PE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/6/2023, DJe de 16/6/2023.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO TIDO POR VIOLADO. SÚMULA 211 DO STJ. PREQUESTIONAMENTO FICTO. ART. 1.022 DO CPC/2015. NÃO APONTAMENTO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A tese recursal vinculada ao dispositivo tido como ofendido não foi apreciada no voto condutor, não tendo servido de fundamento à conclusão adotada pela Corte de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, incidindo na espécie o óbice da Súmula 211 desta Corte Superior.
+2. Outrossim, para que se configure o prequestionamento implícito, é indispensável que as teses debatidas no recurso especial tenham sido objeto de discussão pelo Tribunal de origem. Por outro lado, o acolhimento do prequestionamento ficto previsto no art. 1.025 do CPC/2015 pressupõe a indicação, nas razões do recurso especial, de violação do art. 1.022 do mesmo diploma legal. Precedentes: AgInt nos EDcl no REsp 1.822.833/RS, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe 4.9.2020; e AgInt no REsp 1.593.777/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, DJe 23.4.2021.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.736.008/CE, relator Ministro Manoel Erhardt - Desembargador Convocado do TRF5 -, Primeira Turma, julgado em 26/9/2022, DJe de 29/9/2022.)
+Quanto à alegação cabimento do recurso especial pela alínea b do inciso III do art. 105 da Constituição Federal, tal argumento não merece prosperar, visto que o Decreto Estadual 41.446/1996 constitui ato normativo estadual, não ato de governo local.
+Ademais, é competência do Supremo Tribunal Federal, conforme estabelecido no art. 102, III, d, da Constituição Federal, julgar válida lei local contestada em face de lei federal.
+A propósito:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. VALIDADE DA LEGISLAÇÃO MUNICIPAL EM FACE DE LEI FEDERAL (LC N. 116/03). COMPETÊNCIA DO STF. ALÍNEA "B". ATO DE GOVERNO LOCAL. AUSÊNCIA. LEI LOCAL. COMPETÊNCIA DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A tese veiculada no apelo nobre foi que o Código Tributário Municipal (Lei n. 5.040/75), "ao impedir a dedução do valor total dos materiais utilizados na prestação de serviços de concretagem, da base de cálculo do ISS, vai contra o preceito contido na legislação federal aplicável ao ISS" (e-STJ fls. 932/933).
+2. A argumentação recursal está, portanto, vinculada à tese de que "A cobrança do ISS, no caso, tal como previsto na legislação municipal, representa inconstitucional bitributação" (e-STJ fl. 937), tese cujo acolhimento exigiria o exame da validade da legislação municipal (Lei n. 5.040/75), em face do que prevê a legislação federal (LC n. 116/03). Tal exame é inviável em sede de apelo nobre na medida em que se trata de competência constitucionalmente atribuída ao Supremo Tribunal Federal (art. 102, III, "d", da CF/88).
+3. Não há, no caso concreto, ato de governo local julgado válido em face de lei federal, mas tão somente confronto entre lei local e lei federal, o que não se enquadra na competência deste e.STJ, mas na competência da Suprema Corte (art. 102, III, "d", da CF/88).
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 2.048.270/GO, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/8/2023, DJe de 1/9/2023.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. IPVA. ALIENAÇÃO FIDUCIÁRIA. RESPONSABILIDADE SOLIDÁRIA. ANÁLISE DE LEI LOCAL. INVIABILIDADE. SÚMULA 280/STF. ARTS. 1.225, I, 1.228, 1.364, 1.365 E 1368-B do CC. ARTS. 110 E 121 DO CTN. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. INCIDÊNCIA. ART. 110 DO CTN. REPRODUÇÃO DE DISPOSITIVO CONSTITUCIONAL. LEI LOCAL CONTESTADA EM FACE DE LEI FEDERAL. COMPETÊNCIA DO STF. ART. 102, III, "D", DA CONSTITUIÇÃO FEDERAL.
+1. O exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local (Lei Estadual n. 13.296/08), pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF.
+2. Inviável o conhecimento do recurso especial quanto à alegação de ofensa aos arts. 1.225, I, 1.228, 1.364, 1.365, 1368-B do CC e 110, 121, I, II, do CTN, porquanto, na espécie, ressai nítida a falta de prequestionamento da matéria neles inserta. Incidência, na hipótese, da Súmula 211/STJ.
+3. Acerca do art. 110 do CTN, esta Corte possui o firme entendimento de ser inviável, em sede de recurso especial, a apreciação de eventual violação ao referido dispositivo legal, sob pena de usurpação da competência da Suprema Corte, tendo em vista que este se traduz em mera reprodução de artigo da Constituição Federal, versando sobre matéria de cunho eminentemente constitucional. Precedentes: AgInt no REsp n. 1.976.192/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 19/5/2022; AgInt no REsp n. 1.396.108/MG, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, julgado em 27/2/2018, DJe 12/3/2018; e AgRg no AREsp n. 741.421/SE, Ministro Og Fernandes, Segunda Turma, julgado em 8/9/2015, DJe 21/9/2015.
+4. A competência para a análise de norma local em face de lei federal, após a Emenda Constitucional 45/2004, foi deslocada para o STF (art. 102, I, "d", CF/1988), cabendo ao Superior Tribunal de Justiça apreciar os casos em que se julgar válido ato de governo local contestado em face de lei federal (art. 105, III, "b", CF/1988).
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.067.852/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/10/2022, DJe de 6/10/2022.)
+Ante  o  exposto, nego  provimento  ao  agravo  interno .
+É  o  voto.
