@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 11/03/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. REENQUADRAMENTO FUNCIONAL. POLICIAL MILITAR. ALTERAÇÃO DA GRADUAÇÃO INICIAL DA CARREIRA. OMISSÃO DA ADMINISTRAÇÃO PÚBLICA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA DO ENUNCIADO N. 83 DA SÚMULA DO STJ. ALEGAÇÃO DE VÍCIOS NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA.
+I - Na origem, trata-se de ação ajuizada contra o Estado do Tocantins objetivando o reconhecimento de promoção na graduação de 1º sargento retroativo ao ano de 2012, além de duas promoções imediatas (subtenente e 2º tenente).
+II - Na sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi mantida. Esta Corte não conheceu do recurso especial.
+III - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+IV - Os embargos aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso.
+V - Os vícios apontados pela parte embargante, relacionados à aplicação da Súmula n. 83/STJ, foram tratados no acórdão embargado, o que afasta a alegação de omissão.
+VI - Embargos de declaração rejeitados.
+RELATÓRIO
+Negou-se conhecimento ao recurso especial interposto pelo Estado do Tocantins, com fundamento no art. 105, III, a e c, da CF/1988.
+O recurso especial visa reformar acórdão do Tribunal de Justiça do Estado do Tocantins, nos termos assim ementados:
+APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. PRESCRIÇÃO DO FUNDO DE DIREITO AFASTADA. RELAÇÃO DE TRATO SUCESSIVO. SÚMULA 85 DO STJ E DECRETO Nº 20.910/32. REENQUADRAMENTO FUNCIONAL. POLICIAL MILITAR. CABO. LEIS ESTADUAIS Nº 1.161, DE 27/6/2000 E 2.576/2012. ALTERAÇÃO DA GRADUAÇÃO INICIAL DA CARREIRA. REENQUADRAMENTO. OMISSÃO DA ADMINISTRAÇÃO PÚBLICA. DIREITO DEMONSTRADO SENTENÇA ILIQUÍDA. FIXAÇÃO DE HONORÁRIOS EM FASE DE LIQUIDAÇÃO. RETIFICAÇÃO DE OFÍCIO. RECURSO CONHECIDO E IMPROVIDO.
+1. A prescrição quinquenal não atinge o fundo de direito, nos termos da Súmula 85 do Superior Tribunal de Justiça. O direito reivindicado diz respeito ao direto de enquadramento/reenquadramento do servidor, mediante ato de promoção, o que não ocorreu no momento apropriado. A prescrição quinquenal não atinge a própria substância ou fundo de direito, mas apenas as eventuais vantagens pecuniárias abrangidas no quinquênio.
+2. Cumpre ao Poder Executivo regulamentar a forma de promoção dos militares que tiveram seus cargos extintos, nos termos do § 2º, do artigo 2º, da Lei Estadual nº 1.161, de 2000, que, até a presente data, não fora regulamentada, circunstância que, por configurar ilegalidade, autoriza a intervenção do Poder Judiciário, sem com isso violar o mérito do ato administrativo.
+3. A alteração legislativa causou ao autor prejuízo em sua carreira militar tornando mais longa a possibilidade de ascensão às graduações, prejudicando seu direito de ascender na carreira militar nas mesmas condições de seus pares. Logo, tem o apelado direito em ascender diretamente à graduação de 1º Sargento pois, quando da alteração dos critérios de promoção efetuada pela nova lei, preenchia os requisitos para ascensão na vigência da lei anterior.
+4. No que diz respeito aos honorários advocatícios, embora não vislumbre mácula quanto ao valor arbitrado na origem, entendo que por se tratar de sentença ilíquida, o percentual dos honorários advocatícios deverá ser fixado na fase de liquidação do julgado, nos termos do art. 85, § 4º, inciso II, do Código de Processo Civil, motivo pelo qual retifico de ofício a sentença nesse ponto. No momento da fixação do percentual dos honorários na fase de liquidação, deverá ser levada em consideração inclusive a atuação das partes em grau recursal (honorário advocatício recursal - art. 85, § 11, do CPC), perscrutando-se o teto previsto no art. 85 do Código de Processo Civil. Recurso de apelação conhecido e improvido. Retificação de oficio quanto aos honorários advocatícios.
+5. Recurso de apelação conhecido e improvido.
+Na origem, trata-se de ação ajuizada por Antônio Belarmino da Silva Júnior contra o Estado do Tocantins objetivando o reconhecimento de promoção na graduação de 1º sargento retroativo ao ano de 2012, além de duas promoções imediatas (subtenente e 2º tenente).
+Na sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi mantida. Esta Corte não conheceu do recurso especial.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com esteio no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial."
+A Segunda Turma negou provimento ao agravo interno, cuja ementa foi lançada nos seguintes termos:
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. REENQUADRAMENTO FUNCIONAL. POLICIAL MILITAR. CABO. ALTERAÇÃO DA GRADUAÇÃO INICIAL DA CARREIRA. OMISSÃO DA ADMINISTRAÇÃO PÚBLICA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA DO ENUNCIADO N. 83 DA SÚMULA DO STJ.
+I - Na origem, trata-se de ação ordinária objetivando o reconhecimento de promoção na graduação de 1º sargento retroativo a 2012, além de duas promoções imediatas (subtenente e 2º tenente) . Na sentença o pedido foi julgado procedente. No Tribunal a quo, a sentença foi mantida.
+II - Não merece reparos o acórdão ora recorrido, uma vez que está em consonância com a jurisprudência do Superior Tribunal de Justiça, a qual é firme no sentido de que, nas ações em que se discute progressão funcional, se inexistente recusa formal da administração na implementação do direito, tem-se relação de trato sucessivo. Assim, a prescrição atingirá apenas as parcelas vencidas antes do quinquênio que antecede o ajuizamento. Nesse sentido: AgInt no AgInt nos EDcl no AREsp n. 2.055.792/RN, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/5/2023, DJe de 26/6/2023; AgInt no AREsp n. 511.071/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 26/2/2019, DJe de 11/3/2019; AgInt no REsp n. 1.820.729/MG, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 29/4/2020, DJe de 5/5/2020. Dessa forma, aplica-se, à espécie, o enunciado da Súmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais. Código de Controle do Documento: 3a355137-38fc-419d-9beb-7bf445f4c508 interpostos com fundamento na alínea a do permissivo constitucional.
+III - Agravo interno improvido.
+Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado, resumidos nos seguintes termos:
+.. resta clara a omissão do acórdão embargado, pois não considerou os argumentos expostos pelo Embargante para afastar o óbice da Súmula 83/STJ, no sentido de que o acórdão proferido pelo Tribunal de piso contrariou a jurisprudência do STJ sobre a matéria.
+Desta forma, se evidencia por todo o exposto que não há o que se falar na incidência do enunciado da Súmula 83 STJ ao caso, devendo ser afastado, por medida de justiça.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. REENQUADRAMENTO FUNCIONAL. POLICIAL MILITAR. ALTERAÇÃO DA GRADUAÇÃO INICIAL DA CARREIRA. OMISSÃO DA ADMINISTRAÇÃO PÚBLICA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA DO ENUNCIADO N. 83 DA SÚMULA DO STJ. ALEGAÇÃO DE VÍCIOS NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA.
+I - Na origem, trata-se de ação ajuizada contra o Estado do Tocantins objetivando o reconhecimento de promoção na graduação de 1º sargento retroativo ao ano de 2012, além de duas promoções imediatas (subtenente e 2º tenente).
+II - Na sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi mantida. Esta Corte não conheceu do recurso especial.
+III - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+IV - Os embargos aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso.
+V - Os vícios apontados pela parte embargante, relacionados à aplicação da Súmula n. 83/STJ, foram tratados no acórdão embargado, o que afasta a alegação de omissão.
+VI - Embargos de declaração rejeitados.
+VOTO
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+(EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp n. 166.402/PE, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl n. 8.826/RJ, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 15/2/2017, DJe 15/3/2017.)
+Os vícios apontados pela parte embargante, relacionados à aplicação da Súmula n. 83/STJ, foram tratados no acórdão embargado, o que afasta a alegação de omissão, nos termos assim expostos:
+Não merece reparos o acórdão ora recorrido, uma vez que está em consonância com a jurisprudência do Superior Tribunal de Justiça, a qual é firme no sentido de que, nas ações em que se discute progressão funcional, se inexistente recusa formal da administração na implementação do direito, tem-se relação de trato sucessivo. Assim, a prescrição atingirá apenas as parcelas vencidas antes do quinquênio que antecede o ajuizamento. (..)
+Dessa forma, aplica-se, à espécie, o enunciado da Súmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+Cumpre ressaltar que os embargos aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que o acórdão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
