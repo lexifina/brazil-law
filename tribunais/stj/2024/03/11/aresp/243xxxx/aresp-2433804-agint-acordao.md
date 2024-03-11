@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 11/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. OFENSA À RESOLUÇÃO. CONCEITO DE LEI FEDERAL. NÃO ENQUADRAMENTO. FUNDAMENTAÇÃO. DEFICIÊNCIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE.
+1. O apelo nobre não constitui via adequada para a análise de eventual ofensa a resoluções, portarias ou instruções normativas, por não estarem esses atos normativos inseridos no conceito de lei federal de que trata o art. 105, III, "a", da Constituição Federal.
+2. A ausência de particularização de dispositivo de lei federal violado enseja a aplicação da Súmula 284 do STF.
+3. Decidida a controvérsia pela Corte local com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos, é inviável sua revisão no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+4. É inadmissível o recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de apontar o dispositivo de lei federal ao qual o Tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais, incidindo na espécie a Súmula 284 do STF.
+5. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pela ELETROPAULO METROPOLITANA ELETRICIDADE DE SAO PAULO S.A., para desafiar decisão proferida às e-STJ fls. 279/283, em que se conheceu do agravo para não se conhecer do recurso especial, em face do descabimento da interposição de recurso especial na violação ou interpretação divergente de resolução, ato normativo secundário que não está compreendido no conceito de lei federal, bem como da incidência das Súmulas 284 do STF e 7 do STJ.
+Sustenta a parte agravante, inicialmente, que a apontada ofensa à Resolução da ANEEL "é, sem dúvidas, violação da lei federal, uma vez que aquela foi emitida com base em lei federal, sendo responsável por disciplinar as regras gerais de fornecimento ou contratação de fornecimento de energia elétrica a serem observadas tanto pelas concessionárias e permissionárias quanto pelos clientes, estipulando critérios de entrega, medição, carga, tensões de fornecimento, cadastros, classificação de consumidores, entre outros, como no presente caso." (e-STJ fl. 288).
+No mais, afirma que a necessidade de comunicação à concessionária do encerramento da relação contratual constitui questão exclusivamente de direito. Por essa razão, não há que se falar na pretensão de reexame de prova (Súmula 7 do STJ).
+Por fim, defende que, ao contrário do que constou na decisão combatida, a vulneração dos dispositivos arrolados foi devidamente demonstrada, posto que o artigo foi citado e, em seguida, expôs a sua transgressão de maneira fundamentada, não havendo que se falar em óbice pela Súmula 284 do STF.
+Impugnação apresentada às e-STJ fls. 294/304.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. OFENSA À RESOLUÇÃO. CONCEITO DE LEI FEDERAL. NÃO ENQUADRAMENTO. FUNDAMENTAÇÃO. DEFICIÊNCIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE.
+1. O apelo nobre não constitui via adequada para a análise de eventual ofensa a resoluções, portarias ou instruções normativas, por não estarem esses atos normativos inseridos no conceito de lei federal de que trata o art. 105, III, "a", da Constituição Federal.
+2. A ausência de particularização de dispositivo de lei federal violado enseja a aplicação da Súmula 284 do STF.
+3. Decidida a controvérsia pela Corte local com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos, é inviável sua revisão no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+4. É inadmissível o recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de apontar o dispositivo de lei federal ao qual o Tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais, incidindo na espécie a Súmula 284 do STF.
+5. Agravo interno desprovido.
+VOTO
+Observa-se que a decisão recorrida não merece reparos.
+O arrazoado tecido pelo ora recorrente em sua peça recursal aponta que "há violação expressa do que determina o art. 70 da Resolução 414/2010 da ANEEL" (e-STJ fl. 223).
+Ocorre que o recurso especial não constitui via adequada para a análise de eventual ofensa a resoluções, portarias ou instruções normativas, por não estarem esses atos normativos inseridos no conceito de lei federal, de que trata o art. 105, III, "a", da Constituição Federal.
+Nesse sentido, cito julgados de ambas as Turmas da Primeira Seção, in verbis:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. OFENSA À RESOLUÇÃO. VIOLAÇÃO REFLEXA A LEI FEDERAL. INCIDÊNCIA POR ANALOGIA DA SÚMULA N. 518/STJ. VIOLAÇÃO AO ART. 175, DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. COMPETÊNCIA DO STF. ACÓRDÃO RECORRIDO ASSENTADO EM FUNDAMENTOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE REVISÃO EM SEDE DE RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Consoante pacífica jurisprudência deste Superior Tribunal de Justiça, o conceito de tratado ou lei federal, previsto no art. 105, inciso III, a, da Constituição da República, deve ser considerado em seu sentido estrito, não compreendendo súmulas de Tribunais, bem como atos administrativos normativos. Incidência, por analogia, da Súmula n. 518 do Superior Tribunal de Justiça.
+III - Impõe-se o não conhecimento do recurso especial quanto à alegação de ofensa aos arts. 5º do Decreto n. 41.019/1957; 2º e 3º, da Lei n. 9.427/1996 e 29 da Lei n. 8.987/1995, porquanto seriam meramente reflexas, sendo imprescindível a análise da Resolução 414/2010, com redação dada pela Resolução 479/2012 da ANEEL.
+IV - É entendimento pacífico desta Corte que o recurso especial possui fundamentação vinculada, não se constituindo em instrumento processual destinado a examinar possível ofensa à norma Constitucional, bem como a revisar acórdão com base em fundamentos eminentemente constitucionais, tendo em vista a necessidade de interpretação de matéria de competência exclusiva da Suprema Corte.
+V - Consoante depreende-se do julgado, o acórdão impugnado possui como fundamento matéria eminentemente constitucional, porquanto o deslinde da controvérsia deu-se à luz do art. 175 da Constituição da República.
+VI - É entendimento pacífico dessa Corte que a parte deve proceder ao cotejo analítico entre os arestos confrontados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementas.
+VII - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VIII - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero não provimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IX - Agravo Interno improvido.
+(AgInt no REsp 2.019.998/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 26/6/2023, DJe de 28/6/2023.).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NULIDADE DA CDA. EXECUÇÃO FISCAL. CONCEITO DE LEI FEDERAL. RAZÕES DISSOCIADAS DA DECISÃO OBJURGADA E A ELA IMPERTINENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. A apreciação das razões contidas no acórdão recorrido implica análise de atos normativos de natureza infralegal - Resolução 414/2010 da ANEEL - que desbordam, contudo, do conceito de tratado ou lei federal, para fins do art. 105, III, "a", da Constituição Federal.
+2. Para efeito de admissibilidade do Recurso Especial, à luz da consolidada jurisprudência do STJ, o conceito de lei federal compreende os atos normativos (de caráter geral e abstrato), produzidos por órgãos da União com base em competência derivada da própria Constituição, como o são as leis (complementares, ordinárias, delegadas) e as medidas provisórias, bem assim os decretos expedidos pelo Presidente da República. Logo, o apelo nobre não constitui, como regra, via adequada para julgamento de ofensa aos atos normativos secundários produzidos por autoridades administrativas, tais como resoluções, circulares, portarias, instruções normativas, atos declaratórios da SRF, provimentos da OAB, regimentos internos de Tribunais ou notas técnicas, quando analisados isoladamente, sem vinculação direta ou indireta a dispositivos legais federais.
+3. Não obstante as razões explicitadas, ao interpor o Agravo Interno a parte recorrente apresentou razões dissociadas da decisão objurgada e a ela impertinentes.
+4. Inobservância das diretrizes fixadas pelo princípio da dialeticidade, entre as quais a indispensável pertinência temática entre as razões de decidir e os fundamentos fornecidos pelo recurso para justificar o pedido de reforma ou de nulidade do julgado.
+Incidência, por analogia, da Súmula 284 do STF.
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 2.257.157/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/5/2023, DJe de 19/5/2023.).
+Demais disso, verifica-se que não houve a particularização de qualquer dispositivo de lei federal eventualmente violado, não podendo o apelo ser conhecido. Incide, nesse aspecto, a Súmula 284 do STF.
+Não bastasse isso, o Tribunal de origem assim se pronunciou sobre a controvérsia travada na origem (e-STJ fl. 217):
+Quanto ao mérito, do conjunto probatório acostado aos autos e a análise dos fatos, verifica-se que a interrupção do fornecimento de energia restou devidamente comprovada pela apelada. A ausência de energia elétrica evidentemente tornaria impossível a cobrança por parte da autora. (fls.200).
+Portanto, competia à empresa apelante comprovar os fatos constitutivos de seu alegado direito, ônus que lhe impõe o art. 373, I do CPC. (fls. 201).
+Com isso, no presente caso, nada há que se falar em há violação expressa à Resolução 414/2010 da ANEEL, pois restou comprovado que a autora Eletropaulo, interrompeu o fornecimento de energia elétrica para a ré ABCD embalagens, não tendo sido reestabelecida a prestação de serviço.
+Como se observa, a Corte local decidiu a questão com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Quanto ao mais, a jurisprudência desta Corte de Justiça é pacífica quanto à inadmissibilidade do recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de apontar o dispositivo de lei federal ao qual o tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais (AgRg no REsp 1.346.588/DF, relator Ministro ARNALDO ESTEVES LIMA, Corte Especial, DJe 17/03/2014).
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não vislumbrar caráter manifestamente inadmissível ou improcedente no manejo do presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
