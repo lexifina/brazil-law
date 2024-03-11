@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo manejado pela Fazenda Nacional contra decisão denegatória de admissibilidade a recurso especial interposto com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 139):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA RURAL NÃO DECLARADA EM GFIP PELO PRODUTOR. EXPEDIÇÃO DE CERTIDÃO DE REGULARIDADE TRIBUTÁRIA.
+1. A contribuição do produtor rural pessoa física é retida e recolhida pelo adquirente da produção, nos termos dos incisos III e IV do art. 30 da Lei8.212/91, razão pela qual este é que deve preencher e enviar a GFIP, observando o disposto no Ato Declaratório Executivo CODAC nº 6, de 23 de fevereiro de 2015. O produtor rural pessoa física deve preencher a GFIP apenas nas hipóteses do inciso X do mesmo preceito, tal como prevê o Manual da GFIP (item 2.12.2).
+2. A exigência de que o produtor rural pessoa física preencha a GFIP, nos termos do Ato Declaratório Executivo CODAC nº 06, de 4 de maio de 2018, não pode obstar-lhe o direito à certidão de regularidade pelo fato de não ter sido apresentada a GFIP de atos pretéritos, quando inexistente a obrigação acessória.
+3. Precedentes deste Regional.
+Opostos embargos declaratórios, foram rejeitados (fls. 162/165).
+A parte recorrente aponta violação aos arts. 1.022, II, do CPC; 113, § 3º, 205 e 206 do CTN; 15, I, 32, IV, § 10, da Lei 8.212/1991. Sustenta que: (I) o Tribunal de origem omitiu-se sobre questões necessárias ao deslinde da controvérsia, apesar dos aclaratórios opostos; (II) "a ausência de entrega de GFIP pelo produtor rural pessoa física impede a expedição de certidão de regularidade fiscal perante a Fazenda Nacional, por força do disposto no art. 32, § 10, c/c o art. 15, todos da Lei nº 8.212, de 1991" (fl. 178).
+Às fls. 261/263, foi determinada a devolução dos autos ao Tribunal de origem, a fim de que seja observado o disposto no Tema 358/STJ (art. 1.030, I, b, e II, do CPC).
+O Tribunal local entendeu que não se tratava de hipótese a ser submetida a juízo de retratação, haja vista que o acórdão não contrariou o decidido pelo STJ no Tema 358 (fls. 283/286), subiram os autos, então, ao Superior Tribunal de Justiça.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Consoante antes relatado, a Corte local analisou a questão posta no recurso especial de fls. 174/179 acerca da contribuição previdenciária rural à luz do entendimento consolidado no julgamento do Tema 358/STJ, concluindo pela adequação do acórdão recorrido a esse precedente, razão pela qual manteve o acórdão recorrido (fls. 283/286).
+Nesse contexto, resta prejudicada a apreciação do recurso especial, inclusive no que concerne à alegação de afronta ao art. 1.022 do CPC, tendo em vista ser coincidente com aquela discutida no repetitivo, pois o Tribunal de origem entendeu que o acórdão recorrido está em conformidade com as teses adotadas no precedente indicado, o que afasta o disposto no art. 1.041 do CPC, segundo o qual " mantido o acórdão divergente pelo tribunal de origem, o recurso especial ou extraordinário será remetido ao respectivo tribunal superior, na forma do art. 1.036, § 1º ".
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
