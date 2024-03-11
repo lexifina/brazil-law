@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 11/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ACÓRDÃOS DO MESMO TRIBUNAL. INADMISSIBILIDADE. SÚMULA 13/STJ. AUSÊNCIA DE SIMILITUDE FÁTICA.
+1. Ação de cobrança.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial "(súmula 211/STJ).
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial (súmula 283/STF).
+4. O reexame de fatos e provas em recurso especial é inadmissível (súmula 7/STJ).
+5. A divergência entre julgados do mesmo Tribunal não enseja recurso especial (súmula 13/STJ).
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. Agravo interno não provido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por MARCOS ALBERTO PESSOTTO e VILMA MARCOMINI DE SOUTO contra decisão assim ementada:
+RECURSO ESPECIAL. AÇÃO DECOBRANÇA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. DISSÍDIOJURISPRUDENCIAL. ACÓRDÃOSDOMESMOTRIBUNAL. INADMISSIBILIDADE. SÚMULA 13/STJ. AUSÊNCIA DE SIMILITUDE FÁTICA.
+1. Ação de cobrança.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial "(súmula 211/STJ).
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial (súmula 283/STF).
+4. O reexame de fatos e provas em recurso especial é inadmissível (súmula 7/STJ).
+5. A divergência entre julgados do mesmo Tribunal não enseja recurso especial (súmula 13/STJ).
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. Recurso especial não conhecido.
+Sustentam os agravantes que "a questão é absolutamente de direito no caso em tela, ou seja, a nobre Corte deveria dirimir a questão do dever do magistrado da Instância inaugural designar audiência de instrução; permitir aos Requeridos fazerem prova do prejuízo a ser suportado pelo pagamento da condenação; decidir sob o enfoque do ato lícito praticado pelo curador; e impedir comprovação de dívida sem documento previsto em lei" (fl. 752, e-STJ).
+Afirmam que, "considerando que o fundamento da apelação era a ausência de prova válida do pagamento, pois notas fiscais, de modo genérico, não atendem aos requisitos do art. 320, do CC (fls. 552/554 e 558 - item "F"), houve decisão implícita no acórdão recorrido", e que, "sobre o art. 928, do CC, não obstante ter gerado indiretamente a justificativa no acórdão recorrido do apontamento de outros dispositivos legais, como resposta à negativa de afronta, ele foi explicitamente mencionado como razão da oposição dos Embargos de Declaração (fls. 689/694), e nos moldes do art. 1.025, do CPC, deve ser presumidamente integrado ao acórdão recorrido" (fl. 753, e-STJ).
+Acrescentam, sobre os arts. 302, I, e 933 do CPC, que "diferentemente do entendimento sobre a ausência de impugnação, é certo a existência de tópico integral nas razões recursais discorrendo sobre os motivos para não aplicação dos referidos dispositivos" (fl. 754, e-STJ).
+Defendem ter havido a demonstração do dissídio jurisprudencial, ao argumento de que ambos - acórdão embargado e paradigma - "tratam da questão envolvendo revogação da tutela antecipada, obtida para garantir a saúde do paciente, na condição de usuário do plano de saúde, e recebida de boa-fé" (fl. 757, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ACÓRDÃOS DO MESMO TRIBUNAL. INADMISSIBILIDADE. SÚMULA 13/STJ. AUSÊNCIA DE SIMILITUDE FÁTICA.
+1. Ação de cobrança.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial "(súmula 211/STJ).
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial (súmula 283/STF).
+4. O reexame de fatos e provas em recurso especial é inadmissível (súmula 7/STJ).
+5. A divergência entre julgados do mesmo Tribunal não enseja recurso especial (súmula 13/STJ).
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. Agravo interno não provido.
+VOTO
+Sobre o apontado cerceamento de defesa, registrou o TJ/SP:
+É que os elementos probatórios constantes dos autos se mostravam suficientes para a apreciação da demanda, considerando-se o princípio do livre convencimento motivado do juiz, preceituado pelo art. 371, do CPC.
+Com efeito, não se vê como a pleiteada dilação probatória nestes autos pudesse acrescentar relevantes e inéditas informações para o desfecho da lide.
+Sendo o magistrado o destinatário das provas, cabia a ele aferir sobre a necessidade ou não da produção de outras, além daquelas já carreadas aos autos. E como entendeu serem elas desnecessárias, com acerto, julgou a lide no estado em que se encontrava.
+Tal entendimento, aliás, está consolidado perante o Superior Tribunal de Justiça: "não há cerceamento de defesa quando o julgador considera desnecessária a produção de prova, mediante a existência nos autos de elementos suficientes para a formação de seu convencimento" (AgRg no AREsp 355.688/DF, Rel. Ministro HUMBERTOMARTINS, SEGUNDA TURMA, julgado em 24/09/2013, DJe 04/10/2013), bem como que: "cumpre ao magistrado, destinatário da prova, valorar sua necessidade, conforme o princípio do livre convencimento motivado, previsto no art. 131 do CPC"(AgRg no AREsp 336.893/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRATURMA, julgado em 17/09/2013, DJe 25/09/2013; AgRg no AREsp 355.179/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 27/08/2013, DJe09/09/2013; AgRg no AREsp 85.362/AP, Rel. Ministro SÉRGIO KUKINA,PRIMEIRA TURMA, julgado em 05/09/2013, DJe 12/09/2013). (fls. 616-617, e-STJ - grifou-se )
+A respeito dessa questão, esta Corte firmou o entendimento de que, "modificar a conclusão do Tribunal de origem, soberano quanto à análise da necessidade ou não de se produzir outras provas além daquelas já produzidas, demandaria o reexame do contexto fático-probatório dos autos, providência vedada em recurso especial tendo em vista o óbice da Súmula nº 7/STJ" (REsp 1.666.108/PR, Terceira Turma, julgado em 23/3/2021, DJe de 25/3/2021; AgInt no REsp 2.076.263/SP, Quarta Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+Assim, não há como afastar, ne espécie, a incidência da súmula 7/STJ.
+No que tange à validade das notas fiscais para comprovação do pagamento, constata-se, da leitura do acórdão recorrido, que o TJ/SP não se manifestou especificamente sobre os requisitos do art. 320 do CC, tendo concluído, a partir do contexto fático-probatório dos autos, que "a apelada demonstrou suficientemente o quantum dispendido para custear o tratamento da curatelada com a juntada das notas fiscais a fls. 137/166" (fls. 618-619, e-STJ).
+Daí porque, quanto a esse ponto, incide o óbice da súmula 211/STJ.
+Com relação ao art. 928 do CC, a jurisprudência do STJ firmou-se no sentido de que "o prequestionamento ficto previsto no art. 1025 do CPC/2015, pressupõe que a parte recorrente, após a oposição dos embargos de declaração na origem, também suscite nas razões do recurso especial a violação ao art. 1022 do CPC/2015 por negativa de prestação jurisdicional, pois, somente dessa forma, é que o Órgão julgador poderá verificar a existência do vício e proceder à supressão de grau" e que, "não cumpridos os requisitos exigidos para o reconhecimento do prequestionamento ficto, permanece perfeitamente aplicável, ainda na vigência do CPC/15, o óbice da Súmula n. 211/STJ" (AgInt no AREsp n. 2.233.923/PE, relator MINISTRO MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 17/4/2023), como ocorreu no particular. Nesse sentido: AgInt nos EDcl no REsp 1.961.505/GO, Terceira Turma, julgado em 4/12/2023, DJe de 6/12/2023; EDcl no AgInt no REsp 1.973.869/SP, Quarta Turma, julgado em 4/10/2022, DJe de 28/10/2022.
+Quanto aos arts. 302, I, e 933 do CPC, afirmam os agravantes, genericamente, que "é certo a existência de tópico integral nas razões recursais discorrendo sobre os motivos para não aplicação dos referidos dispositivos" (fl. 754, e-STJ), sem, contudo, demonstrarem, objetivamente, a devida impugnação dos fundamentos correspondentes.
+Por fim, sobre o dissídio jurisprudencial, verifica-se que os próprios agravantes reconhecem a inexistência de similitude fática entre os acórdãos, assim destacada na decisão impugnada:
+Em relação ao paradigma do STJ, constata-se que a Terceira Turma, de fato, decidiu que "a repetibilidade da verba recebida, com base em antecipação de tutela, deve ser examinada sob o prisma da boa-fé objetiva". A partir dessa perspectiva, o voto condutor do acórdão registra que:
+Na hipótese dos autos, consoante bem destacado pelo Tribunal de Justiça, não houve a demonstração de má-fé da demandante, a qual faleceu no transcurso do processo, tendo sido, por isso, decretada a extinção do processo pela perda superveniente do seu objeto.
+Ressalte-se que a revogação da antecipação de tutela não decorreu da inexistência do direito da postulante.
+Em verdade, o processo fora extinto apenas em razão da morte da parte requerente e a inexistência de conteúdo condenatório que aproveitasse aos herdeiros da requerente, tendo em vista a perda do objeto da demanda, que era apenas a concessão de assistência à saúde da autora.
+Nesse contexto, em face da flagrante boa-fé da usuária demandante, entendo indevida a restituição dos valores. (REsp 1.725.736/CE, Terceira Turma, julgado em 27/4/2021, DJe de 21/5/2021 - grifou-se).
+Logo, como bem ressaltou o TJ/SP, não há similitude fática entre os acórdãos confrontados, porquanto "naquele caso houve a revogação da tutela antecipada pela extinção do processo sem resolução do mérito ante o falecimento da autora no curso da ação (..) e nos presentes autos a revogação da tutela antecipada se deu por ter sido a ação julgada improcedente" (fl. 617, e-STJ - grifou-se).
+Verifica-se, portanto, que, ao contrário do que consta no acórdão paradigma do STJ, o TJ/SP afirmou que a revogação da tutela antecipada decorreu da inexistência do direito dos postulantes, razão pela qual reconheceu a obrigação de devolver a verba recebida de boa-fé.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
