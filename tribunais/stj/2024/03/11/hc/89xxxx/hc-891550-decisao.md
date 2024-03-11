@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus contra acórdão assim ementado (fl. 17):
+HOMICÍDIO DUPLAMENTE QUALIFICADO - Nulidades - Não configuração - Decisão que se baseou numa das vertentes da prova - Condenação mantida.
+Matéria preliminar rejeitada. Apelo desprovido.
+A paciente foi condenada à pena de 14 anos de reclusão, em regime fechado, por homicídio qualificado (art. 121, §2º, I e IV, do Código Penal).
+A defesa alega ter ocorrido cerceamento de defesa, pois não teria sido realizada perícia técnica, assim como não teria sido intimada para acompanhar o depoimento das testemunhas ouvidas por carta precatória.
+Também entende que as qualificadoras devem ser afastadas porque "As provas carreadas aos autos não se prestam à afirmar que o homicídio, caso fosse doloso, e não foi, tenha ocorrido por motivo fútil" (fl. 12).
+Busca a declaração de nulidade do processo, ou da sessão de julgamento, ou o afastamento das qualificadoras.
+Sem pedido liminar.
+Prestadas informações, o Ministério Público Federal manifestou-se pela denegação da ordem.
+Sobre as aventadas nulidades, assim dispôs o Tribunal de origem (fls. 18/19):
+Inicialmente, não há se cogitar de irregularidade por falta de realização de perícias nos veículos e no local dos fatos.
+Consta dos autos que a Polícia Científica procedeu à vistoria dos veículos e constatou, inclusive, a existência de danos condizentes com a dinâmica descrita na denúncia (fls. 60/61 e 62/63).
+Às fls. 234/237, encontra-se encartado também o exame pericial realizado no local dos fatos, acompanhado de elucidativas fotografias e do croqui ilustrativo.
+Nesse quadro, não se vislumbra a existência de nenhum vício no trabalho realizado pelos expertos.
+Além do mais, a matéria encontra-se preclusa, pois, consoante bem observou o d. Promotor de Justiça, "não houve, no momento oportuno, qualquer pedido de esclarecimento ou mesmo complementação do laudo pela Defesa, nem mesmo por ocasião da resposta à acusação (diga-se, ofertada pela mesma patrona), razão pela qual o processo seguiu seu curso regularmente" (fls. 621).
+No mais, verifica-se que a Defesa foi devidamente intimada do despacho que determinou a expedição das cartas precatórias para a oitiva de testemunhas (fls. 375).
+Destarte, desnecessária a intimação das datas das respectivas audiências, conforme iterativa jurisprudência. Nesse contexto, dispõe a Súmula 273 do C. STJ que: "Intimada a defesa da expedição da carta precatória, torna-se desnecessária intimação da data da audiência no juízo deprecado".
+Como se vê, inexiste ilegalidade a ser reparada.
+Ao contrário do alegado pela defesa, o Tribunal de Justiça afirmou que houve perícia no veículo e no local dos fatos, e que "não se vislumbra a existência de nenhum vício no trabalho realizado pelos expertos". Indicou ainda a preclusão da matéria, porque não houve nenhuma irresignação oportuna quanto ao laudo.
+Nos termos da jurisprudência do STJ, "As nulidades ocorridas durante a sessão de julgamento do júri devem ser suscitadas na própria sessão, com o respectivo registro em ata. Sem isso, a matéria torna-se preclusa, nos termos do 571, VIII, do CPP" (AgRg no HC n. 828.946/MG, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 1º/12/2023).
+Quanto à oitiva das testemunhas, o TJ também indicou a correição dos procedimentos na origem, porque "a Defesa foi devidamente intimada do despacho que determinou a expedição das cartas precatórias", não havendo falar em obrigatoriedade de intimação das respectivas datas, em consonância com a Súmula 273/STJ. Nesse sentido: AgRg no AREsp n. 2.175998/MG, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 15/2/2023.
+Nesse contexto, não há falar em anulação do feito.
+O afastamento das qualificadoras, por sua vez, não foi deferido nos seguintes termos (fls. 25/26):
+No caso, verifica-se que o Conselho de Sentença ponderou os depoimentos colhidos durante a instrução criminal e no Plenário e decidiu pela condenação da acusada, entendendo, com base em uma das vertentes da prova, que ela conduzia o veículo VW Gol e abalroou, de forma proposital, a motocicleta da vítima, fazendo com que ele caísse ao solo e sofresse ferimentos que foram a causa de sua morte.
+Como é sabido, somente é possível a cassação da decisão soberana do Tribunal do Júri, quando for manifestamente contrária à prova dos autos, ou seja, quando esta se mostrar atentatória à verdade apurada no processo ou represente verdadeira distorção dos elementos de convicção constantes dos autos, nunca quando embasada em razoável vertente da prova como é o caso dos autos.
+No mais, interpretando as provas e respondendo aos quesitos formulados, os Jurados também entenderam que a ré matou a vítima por torpe sentimento de vingança (pois não se conformava com o fim do relacionamento com a vítima) e com emprego de recurso que dificultou a sua defesa (por ter colhido o ofendido, de inopino, atropelando-o com o veículo que conduzia).
+Opostos embargos de declaração, o Tribunal houve por bem rejeitá-los, afirmando que "o acórdão embargado manteve a sentença combatida, verificando que havia duas vertentes de prova e o Júri optou por uma delas, como lhe incumbia fazer" (fl. 29), entendendo que o recurso teria sido manejado indevidamente, para novamente manifestar irresignação e reformar decisão desfavorável.
+Como se vê, tampouco há falar em afastamento da qualificadora do motivo torpe, na medida em que, segundo assentado no acórdão impugnado, a decisão dos jurados deu-se em conformidade com a prova dos autos no sentido de que "a ré matou a vítima por torpe sentimento de vingança (pois não se conformava com o fim do relacionamento com a vítima) e com emprego de recurso que dificultou a sua defesa (por ter colhido o ofendido, de inopino, atropelando-o com o veículo que conduzia", de forma fundamentada, portanto, sendo imprópria a estreita via do writ à revisão do entendimento, sob pena de usurpação da competência do Tribunal do Júri, juiz natural da causa.
+Ness e sentido:
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. NULIDADE DA PRONÚNCIA. MATÉRIA AVENTADA EM APELAÇÃO. PRECLUSÃO. DOSIMETRIA. QUAFIICADORA DO MEIO CRUEL. PLURALIDADE DE GOLPES DE ARMA BRANCA. MOTIVAÇÃO CONCRETA DECLINADA. SOBERANIA DOS VEREDICTOS. PENA MANTIDA. AGRAVO DESPROVIDO.
+1. Eventual nulidade da sentença de pronúncia deveria ser sido objeto de recurso em sentido estrito, não sendo possível a dedução de tal matéria diretamente em sede de apelação, restando configurada a preclusão da matéria. Com efeito, "é pacífico nesta Corte o entendimento de que "eventual nulidade da sentença de pronúncia deve ser argüida no momento oportuno e pelo meio adequado - qual seja: o recurso em sentido estrito -, sob pena de preclusão" (AgRg no RHC 163.683/PR, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 28/6/2022, DJe 1º/7/2022).
+2. Conforme o reconhecido no decisum ora agravado, a individualização da pena, como atividade discricionária do julgador, está sujeita à revisão apenas nas hipóteses de flagrante ilegalidade ou teratologia, quando não observados os parâmetros legais estabelecidos ou o princípio da proporcionalidade.
+3. No caso, o crime foi perpetrado com extrema violência, tendo o réu desferido reiterados golpes de arma branca em regiões vitais do corpo da vítima, o que lhe causou sofrimento físico intenso, atroz e desnecessário até a sua perda de consciência e consequente morte, o que não pode ser tido como fundamento insuficiente para a mantença da qualificadora do meio cruel.
+4. Segundo narram os autos, os laudos atestam que a vítima foi atingida diversas vezes com um canivete, atingindo o pescoço, costas, mãos e braços, conforme as fotografias, não sendo possível falar em carência de básica fática para o reconhecimento da referida qualificadora.
+5. Nos termos da jurisprudência desta Corte, para excluir a qualificadora seria necessário revolver o acervo fático-probatório delineado nos autos, procedimento que não coaduna com a via do writ, máxime na hipótese dos autos, sob pena de usurpação da competência do Tribunal do Júri, juiz natural para os crimes dolosos contra a vida.
+6. Descabido o decote da qualificadora do meio cruel, pois sua incidência encontra amparo em elementos de convicção amealhados nos autos, deve ser reconhecida, por consectário, a desnecessidade da revisão da dosimetria da pena e do estabelecimento de regime prisional menos gravoso ao ora agravante.
+7. Agravo desprovido.
+(AgRg no HC n. 807.393/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 22/5/2023, DJe de 26/5/2023.)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
