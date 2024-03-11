@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Edite Barros de Oliveira contra decisão que Vice-Presidência do TRF da 3ª Região que inadmitiu o recurso especial pelo teor das Súmulas 7/STJ e 284/STF, além de concluir ser inadmissível a análise de matéria constitucional (fls. 622-633).
+A agravante em suas razões assevera que "não há cabimento de qualquer óbice a impedir o seguimento do recurso especial" (fl. 648).
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+Tem-se que o recurso não merece êxito. Vejamos.
+No caso, após a interposição do recurso especial, determinou-se a restituição dos autos à Turma julgadora para fins de retratação, considerando o entendimento do STF no RE n. 579.431/RS (Tema 96).
+A Turma julgadora então, em juízo de retratação, deu provimento às apelações para "manter o cômputo dos juros de mora no período compreendido entre a data da conta de liquidação (estipulação inicial do valor a ser pago) e a data da efetiva expedição do oficio precatório ou requisitório de pequeno valor (RPV) ao Tribunal".
+A Vice-Presidência do Tribunal de origem inadmitiu o recurso especial sob os seguintes fundamentos: i) não se admite seja conferido trânsito ao especial, por não ser da competência do STJ reexaminar a interpretação conferida pelas instâncias ordinárias a dispositivos constitucionais; ii) no tocante à pretensão de alteração do termo inicial dos juros moratórios, bem como de reconhec imento destes, no período compreendido entre a data da expedição do precatório ou da requisição de pequeno valor e o efetivo pagamento, incide o óbice da Súmula 83/STJ; iii) o caso dos autos não se amolda à hipótese versada no tema em referência, haja vista que a fixação dos honorários advocatícios, pelo acórdão recorrido, decorreu de recurso interposto, ainda, sob a vigência do CPC de 1973, não tendo sido aplicado, portanto, o disposto no art. 85 do CPC de 2015; iv) o recurso não merece admissão no tocante à revisão dos critérios de fixação dos honorários advocatícios, por tratar-se de pretensão que não se coaduna com a via estreita do recurso especial, infringindo o óbice retratado na Súmula nº 7 do STJ.
+Ocorre que o agravante em suas razões limita-se a sustentar que "não há cabimento de qualquer óbice a impedir o seguimento do recurso especial" (fl. 648).
+Com efeito, "é inviável o agravo que deixa de atacar, de modo específico, os fundamentos adotados pelo Tribunal de origem para negar seguimento ao recurso especial. Incidência da Súmula 182 do STJ" (AgInt no AREsp n. 1.585.836/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
