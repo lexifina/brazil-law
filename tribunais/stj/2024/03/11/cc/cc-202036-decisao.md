@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de conflito de competência suscitado pelo Juízo Federal da 8ª Vara Criminal de São Paulo, tendo por suscitado o Juízo de Direito da 2ª Vara Criminal da Comarca de Mauá/SP.
+O suscitado declinou de sua competência afirmando que "Nos termos da manifestação ministerial, remetam-se os presentes autos a uma das Varas Especializadas em crimes contra o Sistema Financeiro e Lavagem de Valores da Justiça Federal via cartório do distribuidor local, expedindo-se as comunicações e procedendo-se as anotações de praxe. " (e-STJ Fl. 73)
+O juízo suscitante, a seu turno, afirma que "No caso em tela, como asseverado pelo Ministério Público Federal, constato que a conduta a ser apurada envolve, a priori, interesses de particulares, e poderá se amoldar ao tipo penal previsto no artigo 171-A do Código Penal, utilizando-se de supostos investimentos em "criptomoedas", inexistindo fraude ou prejuízo à União, empresas públicas ou autarquias na conduta consistente em estelionato, sem atingimento do Sistema Financeiro Nacional ou internacionalidade comprovada. " (e-STJ Fl. 59)
+O Ministério Público Federal promove a competência do juízo suscitante (e-STJ Fl. 83-89).
+É o relatório. DECIDO.
+Dispõe o art. 105, I, d, da CRFB/88 que "Compete ao Superior Tribunal de Justiça: I - processar e julgar, originariamente (..) d) os conflitos de competência entre quaisquer tribunais, ressalvado o disposto no art. 102, I, "o", bem como entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos".
+Observa-se, no presente feito, a existência de conflito de competência instaurado entre juízos pertencentes a tribunais distintos, hipótese que atrai a competência desta corte para definição da autoridade responsável pelo exercício da jurisdição no caso concreto.
+A competência criminal da Justiça Federal possui natureza absoluta, encontrando previsão constitucional no art. 109, IV a X da CRFB/88, "verbis":
+Art. 109. Aos juízes federais compete processar e julgar:
+(..)
+IV - os crimes políticos e as infrações penais praticadas em detrimento de bens, serviços ou interesse da União ou de suas entidades autárquicas ou empresas públicas, excluídas as contravenções e ressalvada a competência da Justiça Militar e da Justiça Eleitoral;
+V - os crimes previstos em tratado ou convenção internacional, quando, iniciada a execução no País, o resultado tenha ou devesse ter ocorrido no estrangeiro, ou reciprocamente;
+V-A as causas relativas a direitos humanos a que se refere o § 5º deste artigo; (Incluído pela Emenda Constitucional nº 45, de 2004)
+VI - os crimes contra a organização do trabalho e, nos casos determinados por lei, contra o sistema financeiro e a ordem econômico-financeira;
+VII - os habeas corpus , em matéria criminal de sua competência ou quando o constrangimento provier de autoridade cujos atos não estejam diretamente sujeitos a outra jurisdição;
+VIII - os mandados de segurança e os habeas data contra ato de autoridade federal, excetuados os casos de competência dos tribunais federais;
+IX - os crimes cometidos a bordo de navios ou aeronaves, ressalvada a competência da Justiça Militar;
+X - os crimes de ingresso ou permanência irregular de estrangeiro, a execução de carta rogatória, após o "exequatur", e de sentença estrangeira, após a homologação, as causas referentes à nacionalidade, inclusive a respectiva opção, e à naturalização;
+Nas hipóteses elencadas no inciso IV, ressalvadas as exceções expressas no texto da lei, restringe-se a competência especializada às hipóteses em que haja ofensa direta aos "(..) bens, serviços ou interesse da União ou de suas entidades autárquicas ou empresas públicas (..)".
+A análise da jurisprudência em casos similares, nos quais o delito investigado é o de estelionato praticado em desfavor de particular determinado mediante oferta de investimentos com rendimentos mensais sob as vestes de "criptomoedas" indica posição remansosa do STJ no sentido de reputar competente o juízo estadual.
+Neste sentido: (..) A captação de recursos decorrente de "pirâmide financeira" não se enquadra no conceito de "atividade financeira", para fins da incidência da Lei n. 7.492/1986. Assim, a princípio, processos criminais envolvendo a matéria devem correr no âmbito da Justiça Estadual. (..) (AgRg no CC 189304 / RJ, RELATOR Ministro RIBEIRO DANTAS, TERCEIRA SEÇÃO, DATA DO JULGAMENTO 13/12/2023, DATA DA PUBLICAÇÃO/FONTE DJe 18/12/2023)
+Em reforço: " A oferta de serviços de compra e venda exclusivamente de criptomoedas ou moedas virtuais não se insere na competência da Justiça Federal, por não se cuidarem de ativos regulados pelo Banco Central do Brasil ou pela Comissão de Valores Mobiliário. Precedentes. " (CC 195150 / SP , relatora Ministra LAURITA VAZ, Terceira Seção, julgado em 12/04/2023, DJe 19/04/2023).
+De fato, a análise dos precedentes indica que, ausente prática de atos típicos de instituição financeira ou negociação de ativos em balcão, há de prevalecer a competência da Justiça Estadual.
+Ante o exposto, CONHEÇO do conflito para DECLARAR a competência do Juízo de Direito da 2ª Vara Criminal da Comarca de Mauá/SP, o Suscitado, para processar e decidir o inquérito n. 1503982-68.2023.8.26.0348 .
+EMENTA
