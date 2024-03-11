@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial (art. 105, III, "a" e "c", da Constituição da República) interposto contra acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA. EXCLUSÃO DO SIMPLES NACIONAL POR 10 ANOS, COM FUNDAMENTO NA PRÁTICA REITERADA DE INFRAÇÃO LEGAL, COM EMPREGO DE ARTIFÍCIO, ARDIL OU QUALQUER OUTRO MEIO FRAUDULENTO. SENTENÇA QUE AFASTOU A CONFIGURAÇÃO DA REITERAÇÃO E DO EMPREGO DE MEIO INIDÔNEO, MANTENDO A EXCLUSÃO, PELO PRAZO DE TRÊS ANOS. RECURSO DE AMBAS AS PARTES.
+Aponta a parte agravante, em Recurso Especial, além de divergência jurisprudencial, violação, em preliminar, dos arts. 489 e 1.022 do CPC; e, no mérito, dos arts. 6º da Lei Complementar 105/2001 e 29, V, § 9º, da Lei Complementar 123/2006. Aduz que não foram cumpridos os requisitos necessários para que o recorrido pudesse ter acesso às suas informações fiscais. Sustenta a ausência de prática reiterada que ensejasse sua exclusão do Simples Nacional.
+Contrarrazões às fls. 997-1015, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 29 de fevereiro de 2024.
+Preliminarmente, constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, asseverando que o Colegiado a quo não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, verifica-se que o acórdão controvertido está bem fundamentado, inexistindo omissão ou contradição.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Aclaratórios, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida. Registre-se, portanto, que a Corte local examinou e decidiu, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+Observo que não foi emitido juízo de valor sobre as questões jurídicas levantadas em torno dos dispositivos mencionados. É inadmissível o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pela instância de origem, a despeito da oposição de EDcl e ainda que se trate de matéria de ordem pública, como a prescrição, haja vista a ausência de prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+Além disso, apenas para esclarecer eventuais dúvidas, ressalto que, mesmo nos casos em que os Declaratórios são acolhidos "para efeito de prequestionamento", não é satisfeita tal exigência. Isso porque, para que se tenha por atendido esse requisito, não basta que se dê por prequestionado o dispositivo, é indispensável também a emissão de juízo de valor sobre a matéria.
+No mérito, para melhor compreensão da controvérsia, transcrevo os fundamentos do decisum recorrido (e-STJ, fl. 522):
+A leitura da Ementa colacionada no Relatório, a qual reflete o conteúdo do voto, demonstra que foi afastada qualquer irregularidade no procedimento administrativo, não sendo acolhida a tese de violação indevida do sigilo fiscal, bem como foi também afastada a alegada ilegalidade, em razão da cronologia das normas legais que embasaram a fiscalização
+Afasta-se a ideia de simples valoração da prova, já que a instância de origem decidiu a questão com base no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça ante a incidência de sua Súmula 7: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Por fim, esclareço que fica prejudicada análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Apelo Nobre pela alínea "a" do permissivo constitucional. A propósito:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRIBUIÇÃO COMPULSÓRIA PARA A SAÚDE. VIOLAÇÃO DO ART. 535 DO CPC. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. FUNDAMENTOS DO ACÓRDÃO RECORRIDO EMINENTEMENTE CONSTITUCIONAIS. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. ANÁLISE DA DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA ANTE O ÓBICE SUMULAR.
+(..)
+3. Prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular quando do exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+4. Agravo Regimental não provido. (AgRg no REsp 1.472.530/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 31/10/2014).
+Por tudo isso, conheço do Agravo para conhecer parcialmente do Recurso Especial, apenas com relação à violação do art. 1022 do CPC, e, nessa parte, negar-l he provimento.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
