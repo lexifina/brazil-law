@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 11/03/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADADE. REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. REJEIÇÃO DOS EMBARGOS.
+1. O acórdão embargado manifestou-se de forma clara e fundamentada, na medida necessária para o deslinde da controvérsia, no sentido d e que não é possível a esta Corte, em sede de recurso especial, infirmar as conclusões do acórdão recorrido quanto à ausência de prova pré-constituída em relação à natureza preventiva do mandado de segurança, tendo em vista que tal procedimento demandaria incursão no substrato fático-probatório do mandado do segurança, providência que esbarra no óbice da Súmula nº 7 desta Corte.
+2. A embargante não elencou nenhuma omissão, contradição ou obscuridade a possibilitar a acolhida dos presentes embargos de declaração, apenas insurge-se contra o resultado a que chegou o órgão colegiado.
+3. A motivação contrária ao interesse da parte não se traduz em maltrato ao artigo 1.022 do CPC/2015.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração manejados contra acórdão desta Segunda Turma resumido da seguinte forma:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. MANDADO DE SEGURANÇA PREVENTIVO. ICMS-DIFAL. MERO RECEIO DE LESÃO A DIREITO. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. NÃO CABIMENTO.
+PRECEDENTES. AFERIÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ.
+1. Cuida-se, na origem, de mandado de segurança preventivo visando evitar a cobrança do DIFAL-ICMS em observância à garantia constitucional da anterioridade do exercício financeiro e da anterioridade nonagesimal, em relação à Lei Complementar n. 190/2022, publicada no DOU de 5 de janeiro de 2022, que prevê a incidência desse diferencial de alíquota de ICMS, respeitando-se a modulação dos efeitos da decisão proferida pelo Supremo Tribunal Federal, no julgamento do RE 1.287.019, com repercussão geral - Tema n. 1.093.
+2. A sentença extinguiu o feito sem resolução de mérito em razão da ausência de demonstração, pela impetrante, de inobservância aos princípios da anterioridade de exercício e anterioridade nonagesinal, ou da prática de algum ato efetivo tendente a tal cobrança futura do DIFAL-ICMS, seja em relação à LC n. 190/2022, seja em relação à Lei Estadual n. 1.608/2021. O acórdão recorrido negou provimento ao apelo sob os seguintes fundamentos: " ..  -O mandado de segurança é cabível na modalidade preventiva, quando existir a iminência de uma ameaça real, plausível, concreta e objetiva, de a autoridade pública praticar algum ato ou de se omitir deliberadamente, quando esteja obrigada a agir. Não basta um mero receio de lesão a direito. -O Tema de Repercussão Geral nº. 1092 não impôs o cabimento demandado de segurança em toda e qualquer situação para afastar a cobrança do diferencial de alíquota do ICMS." 3. O acórdão recorrido não destoa da jurisprudência desta Corte, a qual já se manifestou no sentido de que o mandado de segurança preventivo exige efetiva ameaça decorrente de atos concretos ou preparatórios por parte da autoridade indigitada coatora, não bastando o risco de lesão a direito líquido e certo, baseado em conjecturas por parte do impetrante, que, subjetivamente, se entende encontrar na iminência de sofrer o dano. A propósito: AgInt nos EDcl no REsp 2.042.577/MS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 19/05/2023; AgInt no REsp 1945760/MT, Rel. Ministro Og Fernandes, Segunda Turma, DJe 09/08/2022.
+4. Por outro lado, não é possível a esta Corte, em sede de recurso especial, infirmar as conclusões do acórdão recorrido quanto à ausência de prova pré-constituída em relação à natureza preventiva do mandado de segurança, tendo em vista que tal procedimento demandaria incursão no substrato fático-probatório do mandado do segurança, providência que esbarra no óbice da Súmula nº 7 desta Corte.
+5. Agravo interno não provido.
+A embargante alega a inaplicabilidade da Súmula n. 7 do STJ à hipótese, eis que a conclusão da aplicação do princípio da anterioridade anual a impossibilitar a cobrança do DIFAL-ICMS no ano de 2022 com base no art. 3º da LC n. 190 e nos precedentes do STF não demandam reexame de prova, mas apenas aplicação do direito, e que a existência de lei local instituindo a cobrança possibilita concluir que há justo receio a autorizar o uso preventivo do mandado de segurança.
+Requer o acolhimento dos presentes aclaratórios para sanar os vícios apontados.
+Impugnação às fls. 171-175 e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADADE. REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. REJEIÇÃO DOS EMBARGOS.
+1. O acórdão embargado manifestou-se de forma clara e fundamentada, na medida necessária para o deslinde da controvérsia, no sentido d e que não é possível a esta Corte, em sede de recurso especial, infirmar as conclusões do acórdão recorrido quanto à ausência de prova pré-constituída em relação à natureza preventiva do mandado de segurança, tendo em vista que tal procedimento demandaria incursão no substrato fático-probatório do mandado do segurança, providência que esbarra no óbice da Súmula nº 7 desta Corte.
+2. A embargante não elencou nenhuma omissão, contradição ou obscuridade a possibilitar a acolhida dos presentes embargos de declaração, apenas insurge-se contra o resultado a que chegou o órgão colegiado.
+3. A motivação contrária ao interesse da parte não se traduz em maltrato ao artigo 1.022 do CPC/2015.
+4. Embargos de declaração rejeitados.
+VOTO
+A irresignação não merece acolhida.
+O acórdão embargado manifestou-se de forma clara e fundamentada, na medida necessária para o deslinde da controvérsia, no sentido de que não é possível a esta Corte, em sede de recurso especial, infirmar as conclusões do acórdão recorrido quanto à ausência de prova pré-constituída em relação à natureza preventiva do mandado de segurança, tendo em vista que tal procedimento demandaria incursão no substrato fático-probatório do mandado do segurança, providência que esbarra no óbice da Súmula nº 7 desta Corte.
+A embargante não elencou nenhuma omissão, contradição ou obscuridade a possibilitar a acolhida dos presentes embargos de declaração, apenas insurge-se contra o resultado a que chegou o órgão colegiado.
+É cediço, outrossim, que a motivação contrária ao interesse da parte não se traduz em maltrato ao artigo 1.022 do CPC/2015.
+Os embargos de declaração constituem instrumento processual com o escopo de eliminar do julgamento obscuridade, contradição ou omissão sobre tema cujo pronunciamento se impunha pelo acórdão ou, ainda, de corrigir evidente erro material, servindo, dessa forma, como instrumento de aperfeiçoamento do julgado que incorre em error in procedendo, não servindo, contudo, para novo julgamento da causa em eventual tentativa de correção de error in judicando.
+Registro que a interposição de novos embargos de declaração para tratar de questão já enfrentada poderá ensejar a aplicação da multa prevista no § 2º do art. 1.026 do CPC/2015.
+Ante o exposto, rejeito os presentes embargos de declaração.
+É como voto.
