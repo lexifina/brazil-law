@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. PRAZO RECURSAL DE 15 DIAS. ADVOGADOS DISTINTOS. PRAZO EM DOBRO. ARTIGO 229 DO CPC. INAPLICABILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos da orientação desta Casa, "não se aplica, na esfera penal, a contagem do prazo em dobro na hipótese de litisconsortes com advogados diferentes, prevista no art. 229 do Código de Processo Civil vigente (art. 191 do CPC/73). Precedentes" (AgRg no REsp n. 1.694.714/MT, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/9/2020, DJe 15/9/2020) (REsp n. 2.049.643/DF, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/9/2023, DJe de 29/9/2023). Precedentes: AgRg no AREsp n. 2.284.834/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/6/2023, DJe de 26/6/2023; AgRg no AREsp n. 2.067.427/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/6/2022, DJe de 21/6/2022; AgRg no AREsp n. 1.572.992/RO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/2/2020, DJe de 5/3/2020.
+2. O agravo em recurso especial é manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, inciso VIII, c/c os arts. 1.003, § 5º e 1.042, todos do CPC, e no art. 798, do CPP.
+3. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LUCAS HENRIQUE SOARES DA SILVA (e-STJ fls. 2794/2798) contra decisão monocrática de e-STJ fls. 2779/2781, que não conheceu do agravo, em razão de sua intempestividade.
+A parte agravante alega a prerrogativa do prazo em dobro, em razão do art. 229 do CPC, uma vez que há pluralidade de réus, com procuradores de escritórios distintos (inclusive o agravante possui mais de um causídico pertencente a escritórios diversos) e os autos são físicos, denotando que não há nenhum empecilho para aplicação da norma cogente em epígrafe (e-STJ fls.2796). Aduz a tempestividade do agravo.
+Requer, assim, a reconsideração da decisão agravada.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. PRAZO RECURSAL DE 15 DIAS. ADVOGADOS DISTINTOS. PRAZO EM DOBRO. ARTIGO 229 DO CPC. INAPLICABILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos da orientação desta Casa, "não se aplica, na esfera penal, a contagem do prazo em dobro na hipótese de litisconsortes com advogados diferentes, prevista no art. 229 do Código de Processo Civil vigente (art. 191 do CPC/73). Precedentes" (AgRg no REsp n. 1.694.714/MT, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/9/2020, DJe 15/9/2020) (REsp n. 2.049.643/DF, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/9/2023, DJe de 29/9/2023). Precedentes: AgRg no AREsp n. 2.284.834/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/6/2023, DJe de 26/6/2023; AgRg no AREsp n. 2.067.427/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/6/2022, DJe de 21/6/2022; AgRg no AREsp n. 1.572.992/RO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/2/2020, DJe de 5/3/2020.
+2. O agravo em recurso especial é manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, inciso VIII, c/c os arts. 1.003, § 5º e 1.042, todos do CPC, e no art. 798, do CPP.
+3. Agravo regimental não provido.
+VOTO
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+É que, nos termos da orientação desta Casa, "não se aplica, na esfera penal, a contagem do prazo em dobro na hipótese de litisconsortes com advogados diferentes, prevista no art. 229 do Código de Processo Civil vigente (art. 191 do CPC/73). Precedentes" (AgRg no REsp n. 1.694.714/MT, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/9/2020, DJe 15/9/2020) (REsp n. 2.049.643/DF, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/9/2023, DJe de 29/9/2023). Precedentes: AgRg no AREsp n. 2.284.834/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/6/2023, DJe de 26/6/2023; AgRg no AREsp n. 2.067.427/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/6/2022, DJe de 21/6/2022; AgRg no AREsp n. 1.572.992/RO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/2/2020, DJe de 5/3/2020.
+Assim, verifica-se, mediante análise dos autos, que a defesa foi devidamente intimada do decisum proferido pelo Tribunal a quo, por meio do qual inadmitiu o recurso especial, em 20/3/2023 (segunda-feira), conforme certificado à e-STJ fl. 2665.
+Nesse contexto, a contagem do prazo para a interposição do agravo em recurso especial teve início em 21/3/2023 (terça-feira) e término em 4/4/2023 (terça-feira), tendo o agravo em recurso especial (e-STJ fls. 1424/1429) sido interposto somente em 14/4/2023.
+Dessa forma, o recurso é manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, inciso VIII, c/c os arts. 1.003, § 5º e 1.042, todos do CPC, e no art. 798, do CPP.
+Sendo assim, o inconformismo não merece prosperar.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
