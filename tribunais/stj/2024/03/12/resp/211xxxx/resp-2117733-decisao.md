@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por RAIMUNDA GUIMARAES PACHECO , com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado do Tocantins, assim ementado:
+E M E N T A : REJULGAMENTO. JUÍZO DE RETRATAÇÃO. APELAÇÕES CÍVEIS. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE CONTRATO C/C REPETIÇÃO DE INDÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. CARTÃO DE CRÉDITO CONSIGNADO. VALIDADE. CONTRATO FIRMADO ENTRE AS PARTES. AUSÊNCIA DE IMPUGNAÇÃO PELA PARTE AUTORA. SITUAÇÃO DIVERSA DO TEMA N. 1.061/STJ. ENTENDIMENTO MANTIDO EM JUÍZO DE RETRATAÇÃO.
+1. O Tema 1061/STJ dispõe que "se o consumidor/autor impugnar a autenticidade da assinatura constante em contrato bancário juntado ao processo pela instituição  nanceira, caberá a esta o ônus de provar a autenticidade".
+2. Inaplicável o Tema 1061 do STJ ao caso, eis que a parte autora, mesmo tendo conhecimento do contrato juntado aos autos pelo banco, não o impugnou.
+3. Paradigma que não se aplica ao caso.
+4. Acórdão mantido em sede de juízo de retratação. (e-STJ,fl. 554)
+Em suas razões recursais, a recorrente aponta violação dos arts. 373, inciso II, do CPC e ao art. 6º, inciso VIII, da Lei nº 8.078/90, e divergência jurisprudencial quanto ao Tema n. 1061 STJ, sustentando, em síntese, que é plenamente possível a discussão quanto ao ônus probatório do que diz respeito à assinatura entabulada em contrato bancário e que a impugnação da assinatura foi realizada na própria inicial dos autos origem.
+É o relatório. Passo a decidir.
+De início, cumpre esclarecer que a discussão no presente recurso não diz respeito à atribuição do ônus probatório relativamente à assinatura entabulada em contrato bancário, mas sim à existência de impugnação da referida assinatura no caso contrato.
+Alega o recorrente que a impugnação da assinatura foi realizada na própria inicial dos autos origem.
+Sobre o tema, a Corte de origem assim decidiu:
+"No caso em análise, não se aplica ao caso o REsp n. 1.846.649/MA, paradigma do TEMA n. 1061/STJ, de relatoria do Ministro Marco Aurélio Bellizze, o Superior Tribunal de Justiça, que fixou a seguinte tese " Na hipótese em que o consumidor/autor impugnar a autenticidade da assinatura constante em contrato bancário juntado ao processo pela instituição financeira, caberá a esta o ônus de provar a autenticidade (CPC, arts. 6º, 369 e 429, II)" , em razão da parte autora não ter requerido prova pericial e nem mesmo impugando a assinatura constante no contrato.
+Veja-se que em sede de réplica pontuou "o mérito envolve questões de fato e de direito, contudo, não há necessidade de produção de prova em audiência, haja vista que todas as provas necessárias ao deslinde da controvérsia são de cunho documental, as quais foram apresentadas pelas partes em momento oportuno no processo, restando exaurido a produção de provas".
+Ainda requereu ainda o julgamento antecipado do feito (evento 48, dos autos originários).
+Portanto, inaplicável o REsp n. 1.846.649/MA, paradigma do TEMA n. 1061/STJ, em razão da ausência de impugnação referente à assinatura constante no contrato." (e-STJ fl. 701)
+Ocorre que, compulsando aos autos, verifica-se que, de fato, desde a petição inicial, a autora defendeu a adulteração de sua assinatura, senão vejamos:
+"Ora Excelência, é evidente que a Requerida ou terceiros estelionatários digitaram os dados da Autora na declaração de residência, colocando qualquer endereço desta capital, (tanto é que não junta sequer comprovante de endereço) para fins prova de desconto, o que é um absurdo! De igual forma também foi a adulteração da assinatura da Autora que não reconhece as assinaturas em nenhum dos documentos apresentados pela Ré.
+(..)
+No caso, a Requerida promoveu uma verdadeira fraude para legitimar vários descontos financeiros na conta bancária da Autora, sem a Requerente ter assinado termo de adesão ao RMC em momento algum desconhecendo todos os documentos apresentados pela Requerida. Um completo absurdo!" (e-STJ fls. 19/20)
+E na réplica, a aparte autora seguiu afirmando ter sido vítima e fraude bancária, in verbis:
+"Ademais, é nítido a manipulação de dados de informações constante dos documentos apresentados pela ré, confeccionados ao próprio bel prazer da Requerida que não foram juntados nos autos como prova e em sede de contestação em que pese alegar fato provocado por terceiros, cabe dizer que em caso de fraude bancária operada por terceiro, a jurisprudência do STJ é assente em considerar que se trata de situação que configura o chamado fortuito interno, ou seja, está vinculada ao risco da atividade desenvolvida pelos bancos, e que não caracteriza, assim, a culpa exclusiva de terceiro e/ou da vítima, não à toa o Superior Tribunal editou a Súmula nº 479." (e-STJ fl 421)
+Assim, considerando que, ao contrário do que consignou o acórdão recorrido, houve sim a efetiva impugnação da assinatura constante nos documentos juntados aos autos, impondo-se a necessidade de analisar a quem cabe o ônus de provar a autenticidade dos documentos acostados aos autos.
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para determinar o retorno dos autos à Corte de origem para que proceda a um novo julgamento da apelação como entender de direito.
+Publique-se.
+EMENTA
