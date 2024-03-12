@@ -1,0 +1,27 @@
+DECISÃO
+Em análise, agravo interposto por COMPANHIA MÜLLER DE BEBIDAS, contra decisão que inadmitiu recurso especial com fundamento na inexistência de violação aos arts. 3º, 4º, 11, 489, § 1º, IV, e 1.022, II, do CPC/2015, na existência de orientação jurisprudencial desta Corte contrária à pretensão recursal (Súmula 83/STJ), no entendimento desta Corte segundo o qual é inaplicável o Tema 962/STJ ao caso e na ausência da correta demonstração do dissídio jurisprudencial.
+Alega a parte agravante, essencialmente, que os pressupostos de admissibilidade do recurso especial foram atendidos, porquanto (a) "por meio de seus aclaratórios, a ora Agravante demonstrou ao E. Tribunal "a quo", a existência de incontestáveis vícios quanto ao disposto nos artigos 1º, §§ 1º e 2º das Leis nº 10.637/2002 e 10.833/2003, artigo 110 do CTN, como também por violação aos artigos 926 e 927, inciso III, do CPC, uma vez que o acórdão recorrido deixou de se manifestar sobre o entendimento pacificado no Tema nº 501 deste STJ, mas o v. Acórdão recorrido quedou-se omisso quanto a apreciação destes dispositivos e precedente invocados" (e-STJ, fl. 762); (b) "em que pese a fundamentação contida na r. decisão agravada o óbice existente na Súmula nº 83 desta C. Corte Superior é inaplicável ao presente feito, tendo em vista que a ausência de decisões proferidas em sede de recursos repetitivos e repercussão geral acerca da matéria discutida nestes autos" (e-STJ, fl. 764); (c) "o E. STF já assentou de forma definitiva que os juros SELIC (atualização e juros de mora) devidos pelo Estado ao contribuinte numa relação de indébito por parte deste último tem natureza indenizatória, isto é, de mera recomposição de perdas" (e-STJ, fl. 774); (d) "procedeu ao devido cotejo analítico, demonstrando a similitude fática e a divergência existente entre o acórdão proferido nestes autos e aquele proferido nos autos do Processo nº 5011187-40.2021.4.04.7208" (e-STJ, fl. 760).
+Recurso especial fundado no art. 105, III, a e c, da Constituição Federal.
+É o relatório. Decido.
+O agravo não merece ser conhecido, em virtude da ausência de impugnação específica dos fundamentos da decisão agravada.
+Verifica-se que o recurso especial foi inadmitido em razão dos seguintes fundamentos do Tribunal de origem: inexistência de violação aos arts. 3º, 4º, 11, 489, § 1º, IV, e 1.022, II, do CPC/2015, existência de orientação jurisprudencial desta Corte contrária à pretensão recursal (Súmula 83/STJ), o entendimento desta Corte segundo o qual é inaplicável o Tema 962/STJ ao caso e ausência da correta demonstração do dissídio jurisprudencial.
+Todavia, a parte agravante deixou de impugnar, especificadamente, os fundamentos relativos à existência de orientação jurisprudencial desta Corte contrária à pretensão recursal (Súmula 83/STJ), dedicando-se a alegações genéricas e parciais, o que não refuta efetivamente a análise procedida pelo Tribunal de origem.
+Saliente-se que alegações genéricas são insuficientes à impugnação da decisão de inadmissão. Nessa esteira, para viabilizar o prosseguimento do recurso interposto, a irresignação há de ser total, objetiva e pormenorizada. Não basta a impugnação genérica ou a remissão a fundamentos anteriores.
+Ato contínuo, não se conhece do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida, sendo este, inclusive, o enunciado da Súmula 182 do STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido, seguem precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL, AUTÔNOMOS OU NÃO. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+II. Nos termos da jurisprudência atual e consolidada desta Corte, incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, autônomos ou não, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo em Recurso Especial (art. 932, III, do CPC vigente). Nesse sentido: STJ, EAREsp 701.404/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018;
+ ..
+VII. Agravo interno improvido.
+(AgInt no AREsp n. 2.178.287/TO, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 13/2/2023, DJe de 17/2/2023 - g.n.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. ARTS. 253, I, do RISTJ E 932, III, DO CPC/2015. SÚMULA 182/STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+6. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, havendo omissão de impugnação específica acerca dos fundamentos da decisão questionada, não se conhece do Agravo em Recurso Especial, consoante preceituam os arts. 253, I, do RISTJ e 932, III, do CPC/2015 e a Súmula 182 do STJ.
+ ..
+9. Agravo interno não provido.
+(AgInt no AREsp n. 1.477.310/RJ, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 14/3/2022, DJe de 18/3/2022 - g.n.)
+Isso posto, com fundamento no art. 34, a, c/c o art. 253, parágrafo único, I, do Regimento Interno desta Corte Superior, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
