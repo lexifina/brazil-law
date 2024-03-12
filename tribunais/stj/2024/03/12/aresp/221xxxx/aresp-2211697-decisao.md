@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial do ESTADO DE MINAS GERAIS no qual se insurgira, com fundamento no art. 105, inciso III, alínea a , da Constituição Federal (CF), contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado (fls. 615/645):
+APELAÇÃO CÍVEL - MANDADO DE SEGURANÇA PREVENTIVO -FARMÁCIA DE MANIPULAÇÃO - ANOREXÍGENOS - METENOLONA -METILTESTORENA - OXANDROLONA - ESTANOZOLOL - REGISTRO ANVISA - AUSENTE - TRIIODOTIRONINA (HORMÔNIO T3) -GONADOTROFINA CORIÔNICA (HCG) - REGISTRADOS - SEGURANÇA - EFICÁCIA - COMPROVADOS - RECURSO PARCIALMENTE PROVIDO.
+- A Resolução nº 204/06 prevê, em seu artigo 5º, que "ficam proibidas a importação e comercialização de insumos farmacêuticos destinados à fabricação de medicamentos que ainda não tiverem a sua eficácia terapêutica avaliada pela Agência Nacional de Vigilância Sanitária".
+- Ausente registro na ANVISA referente aos insumos metenolona, metiltestorena, oxandrolona e estanozolol, inexiste análise da segurança e eficácia destas substâncias, de modo que a concessão da segurança preventiva requerida pode colocar em risco os pacientes usuários dos medicamentos manipulados ou comercializados.
+- Registrados os insumos TRIIODOTIRONINA (hormônios T3) -Registro nº 80077710174 - e GONADOTROFINA CORIÔNICA (HCG) -Registro nº 10175850015, a concessão da segurança, neste ponto, é medida que se impõe.
+VPV APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. FARMÁCIA DE MANIPULAÇÃO. PROIBIÇÃO DE AQUISIÇÃO, MANIPULAÇÃO, COMERCIALIZAÇÃO E DISPENSAÇÃO DE SUBSTÂNCIAS SEM REGISTRO NA ANVISA. INSUMOS: ANABOLIZANTES DA LISTA C5, HORMÔNIOS T3 (TRIIODOTIRONINA) E GONADOTROFINA CORIÔNICA -HCG). ATO ILEGAL. ART. 5º, DA RDC N. 204/2006. INTERPRETAÇÃO EXTENSIVA ÀS FARMÁCIAS DE MANIPULAÇÃO. IMPOSSIBILIDADE. PRINCÍPIO DA LEGALIDADE. NOTA TÉCNICA Nº. 165/2019/ANVISA. DIREITO LÍQUIDO E CERTO. DEMONSTRADO. RECURSO PROVIDO. SEGURANÇA CONCEDIDA.
+- A Nota Técnica nº 165/2019 da ANVISA, emitida nos autos do processo nº 25351.924588/2019-58, informa que a Anvisa não avalia a eficácia terapêutica de insumos isoladamente, mas sim de medicamentos, não devendo a constante do art. 5º da RDC nº 204/2006 (da exigência do registro) ser estendida as farmácias de manipulação, já que estas apenas manipulam medicamentos e os comercializam a partir da prescrição de um profissional responsável e somente após o crivo do farmacêutico.
+- A Portaria nº 344/98 dispõe que as atividades de manipulação por farmácias magistrais das substâncias discutidas nos presentes autos ficam sujeitas a autorização especial do Ministério da Saúde e a licença de funcionamento concedida pela Autoridade Sanitária local, nada mencionando acerca da exigência de registro dos medicamentos para autorização de sua manipulação.
+- Merece menção que a Portaria proibiu expressamente a manipulação de alguns insumos, nada dispondo acerca daqueles que integram a lista do C5 (metelonona, estanozolo, metilestosterona, e oxandrolona).
+- Os insumos TRIIODOTIRONINA (hormônios T3) e GONADOTROFINA CORIÔNICA (HCG) possuem registros aprovados pela ANVISA, tendo a Agência avaliado os riscos e eficácias dos insumos, o que afasta a alegação de que não há avaliação da segurança das substâncias.
+- A ANVISA é uma agência reguladora criada pela Lei nº 9.782/99, possuindo como uma de suas atribuições regular a instalação e o funcionamento dos estabelecimentos de serviços, atividades e produtos sujeitos a controle sanitário, principalmente no que se relaciona à saúde da população, mas não pode a ANVISA impedir o exercício de atividade econômica não vedada por lei, já que, ao assim proceder, acaba por caracterizar o excesso no seu poder regulamentar.
+- Recurso provido. Sentença reformada.
+Em suas razões recursais, a parte recorrente alega violação dos arts. 10 e 12 da Lei 6.360/1976, do art. 8º da Lei 5.991/1973 e dos arts. 6º e 7º, III, da Lei 9.782/1999, argumentando, em síntese, que o armazenamento e a comercialização de medicamentos manipulados que não são registrados são contrários à legislação sanitária.
+Não foram apresentadas contrarrazões.
+É o relatório.
+No mérito recursal, o Tribunal de origem assim se manifestou sobre o tema:
+Verifica-se ainda que os insumos METELONONA, ESTANOZOLO, METILESTOSTERONA e OXANDROLONA estão elencados na Lista - C5 - da Portaria 344/98, da ANVISA, o que revela que, apesar da ausência de Registro das substâncias, não há proibição para a sua utilização.
+A Portaria nº 344/98 dispõe ainda que as atividades de manipulação por farmácias magistrais das substâncias e medicamentos acima descritos ficam sujeitas a autorização especial do Ministério da Saúde e a licença de funcionamento concedida pela Autoridade Sanitária local, nada mencionando acerca da exigência de registro dos medicamentos para a autorização de sua manipulação:
+ ..
+Merece menção que a Portaria proibiu expressamente a manipulação de alguns insumos, não proibindo, contudo, a manipulação daqueles que integram a lista do C5 (metelonona, estanozolo, metilestosterona, e oxandrolona):
+ ..
+Com efeito, se o próprio órgão técnico editor da RDC 204/06 (ANVISA) esclareceu a diferenciação entre as atividades de fabricação e manipulação de medicamentos, concluindo que o art. 5º da RDC nº 204/2006 não é aplicável às farmácias de manipulação, o Poder Judiciário e a autoridade impetrada não podem fazer interpretações extensivas não previstas em lei, sobretudo porque a importação e comercialização de insumos farmacêuticos destinados à fabricação de medicamentos não se confunde com a manipulação dos fármacos.
+ ..
+Todavia, não há neste caso qualquer orientação proibitiva da ANVISA acerca dos insumos da lista C5 (anabolizantes), bem como dos hormônios T3 (triiodotironina) e Gonadotrofina Coriônica (HCG), seja no que toca à sua manipulação sem registro, seja no próprio ato de fabricação, importação, exportação, distribuição e dispensação dos medicamentos pelas Farmácias de Manipulação.
+Isso fica evidente à medida em que a impetrante comprovou que os insumos foram regularmente importados com aprovação da Agência Reguladora (e Doc. 15), o que foi corroborado pela própria Agência por meio da Nota Técnica nº 165/2019, que, como mencionado, esclareceu a inaplicabilidade da previsão constante do art. 5º da RDC nº 204/2006 (que determina o registro dos medicamentos antes de sua disponibilização) para as farmácias de manipulação (fls. 623/627).
+Verifico que a Corte de origem solveu a lide com fundamento na Portaria 344/1998 e na Resolução da Diretoria Colegiada (RDC) 204/2006 da Agência Nacional da Vigilância Sanitária (ANVISA).
+Registro que, consoante a pacífica jurisprudência desta Corte Superior, o conceito de tratado ou lei federal, inserto no art. 105, inciso III, alínea a, da Constituição Federal, deve ser considerado em seu sentido estrito, sendo inadmissível o recurso especial contra decisão que se fundamenta em tais atos normativos.
+A propósito, confiram-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. FILHA DE MILITAR. REINCLUSÃO EM FUNDO DE SAÚDE DA AERONÁUTICA. REVISÃO DAS CONCLUSÕES DO TRIBUNAL A QUO. NECESSIDADE DE INTERPRETAÇÃO DE NORMAS INFRALEGAIS. IMPOSSIBILIDADE. PRECEDENTES.
+ ..
+III - Conforme entende a jurisprudência do Superior Tribunal de Justiça, o conceito de tratado ou lei federal, previsto no art. 105, inciso III, a, da Constituição da República, deve ser considerado em seu sentido estrito, não compreendendo súmulas, atos administrativos normativos e instruções normativas.
+ ..
+V - Agravo interno improvido. (AgInt no REsp n. 1.865.474/CE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 8/2/2021, DJe de 12/2/2021 - sem destaques no original.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. INSTRUÇÃO NORMATIVA. ANÁLISE. INVIABILIDADE. IMPOSTO DE RENDA RETIDO NA FONTE (IRRF). NEGOCIAÇÃO DE ORTN"S ANTES DO VENCIMENTO. DISCIPLINA DE INCIDÊNCIA. INAPLICABILIDADE.
+ ..
+3. A via excepcional não se presta para análise de ofensa a resolução, portaria, regimento interno ou instrução normativa, atos administrativos que não se enquadram no conceito de lei federal.
+ ..
+6. Recurso especial conhecido em parte e, nessa extensão, provido, a fim de restabelecer os efeitos da sentença. (REsp n. 1.404.038/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/6/2020, DJe de 29/6/2020 - sem destaques no original.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimações necessárias.
+ EMENTA
