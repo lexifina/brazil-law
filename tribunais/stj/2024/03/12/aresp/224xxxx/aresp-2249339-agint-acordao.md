@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 12/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÕES RECURSAIS DEFICIENTES. SÚMULA N. 284 DO STF. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Incide a Súmula n. 284 do STF nos casos em que a parte recorrente deixa de impugnar a fundamentação do julgado, limitando-se a apresentar alegações recursais deficientes que não guardam correlação com o decidido nos autos.
+2. Aplicam-se as Súmulas n. 5 e 7 do STJ, na hipótese em que o acolhimento das teses defendidas no recurso especial implicar, necessariamente, a intepretação de cláusulas contratuais e o reexame de elementos fático-probatórios dos autos.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ROSINICEIA TEIXEIRA e OUTRO contra decisão que negou provimento ao agravo em recurso especial ante a incidência das Súmulas n. 5 e 7 do STJ e 282 e 284 do STF.
+Nas razões deste recurso, a parte agravante sustenta que (fls. 1.160-1.161):
+Conforme documento de fls. 71/73, contrato de compra e venda com reserva de domínio, datado de 03/07/2010, em sua CLÁUSULA TERCEIRA, os ora recorrentes pagaram pelo veículo caminhão, ano 1999, com bitrem a importância de R$ 141.000,06. (FATO INCONTROVERSO)
+Como entrada de pagamento, os ora recorrentes deram um imóvel residencial, no valor de R$ 100.000,00, localizado em local nobre desta cidade, qual seja: localizado na Avenida Transcontinental, nº 1482, Bairro Casa Preta. (FATO INCONTROVERSO)
+O restante dos valores, na importância de R$ 41.000,06, foi pago à vista mediante contrato de financiamento. (FATO INCONTROVERSO)
+Acontece que, na época, o valor de mercado do imóvel residencial era, no mínimo, R$ 220.000,00 (duzentos e vinte mil reais).
+Deflui-se daí que houve uma diferença EXORBITANTE de R$ 120.000,00, resultando num imediato enriquecimento ilícito do ora recorrido e LESÃO aos autores na época da realização do negócio jurídico.
+A BV FINANCEIRA S/A, afirmando cooperar com o juízo (CPC, art. 6º), encomendou parecer técnico de engenheiro especializado, o qual concluiu, apontando em ORDEM CRONOLÓGICA DECRESCENTE que o imóvel valeria, para janeiro de 2010, por volta de R$ 235.000,00. (FATO INCONTROVERSO)
+O Sr. Oficial de Justiça, em data de 27/05/2019, realizou PERÍCIA DE AVALIAÇÃO, apontando em ORDEM CRONOLÓGICA DECRESCENTE, que o imóvel valeria, para janeiro de 2010, bem como considerando ainda a DEPRECIAÇÃO DO INCÊNDIO, a importância de R$ 426.937,72 (quatrocentos e vinte e seis mil, novecentos e trinta e sete reais e setenta e dois centavos). (FATO INTROVERSO)
+Dessa forma, apresenta-se configurada a negativa de vigência dos artigos 157, 171, I e II, do CC/02.
+ ..
+Conforme fundamentação aqui exaustivamente demonstrada, mediante confrontamento das teses do Julgado e provas produzidas nos autos, não estamos diante de REVIVER, RESSUSCITAR, REMOER matéria fática ou reexame de provas.
+A Valoração da prova É OBJETO do recurso especial, a título de matéria de direito. ERRO GROSSEIRO na valoração das provas não pode prevalecer. No julgamento do REsp 1.036.178, de dezembro/2011, o Ministro Marco Buzzi adotou o mecanismo de REVALORAÇÃO DA PROVA e sua decisão individual foi confirmada pela Quarta Turma.
+Alega que não incide o óbice da Súmula n. 5 do STJ, uma vez que não se trata de matéria meramente contratual, pois a amplitude da lide vai além de uma cláusula contratual.
+Aduz que é regra no direito privado que todo negócio jurídico passa pela filtragem dos princípios da boa-fé objetiva e do equilíbrio contratual.
+Afirma ainda que as teses foram devidamente fundamentadas, não incidindo, dessa forma, a Súmula n. 284 do STF.
+Requer, assim, o provimento do agravo interno.
+Impugnação pela parte agravada às fls. 1.173-1.188.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÕES RECURSAIS DEFICIENTES. SÚMULA N. 284 DO STF. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Incide a Súmula n. 284 do STF nos casos em que a parte recorrente deixa de impugnar a fundamentação do julgado, limitando-se a apresentar alegações recursais deficientes que não guardam correlação com o decidido nos autos.
+2. Aplicam-se as Súmulas n. 5 e 7 do STJ, na hipótese em que o acolhimento das teses defendidas no recurso especial implicar, necessariamente, a intepretação de cláusulas contratuais e o reexame de elementos fático-probatórios dos autos.
+3. Agravo interno desprovido.
+VOTO
+A decisão agravada adotou a fundamentação a seguir (fls. 1.136-1.144):
+No que diz respeito à prova emprestada, à incapacidade relativa da parte, à existência de dolo e de lesão na realização do negócio, verifico que a Corte local, soberana na análise dos fatos e provas dos autos, concluiu que era adequada a utilização da prova emprestada para complementar a prova já produzida nos autos, bem como que os autores não se desincumbiram do ônus de demonstrar que estavam incapacitados de manifestarem suas vontades quando da realização do negócio, nem de trazer elementos concretos da falta de paridade e simetria entre o contratantes, consignando que "os negócios jurídicos celebrados por eles ostentam presunção legal de que foram concluídos em conformidade com os deveres anexos aos comportamentos de ambos os contratantes" (fl. 801).
+Desse modo, para rever as conclusões adotadas na origem e acatar as teses recursais de invalidade do negócios jurídico por incapacidade de parte, dolo ou lesão, seria imprescindível a interpretação de cláusulas contratuais e o reexame fático-probatório dos autos, medidas vedadas em recurso especial, em face do óbice das Súmulas n. 5 e 7 do STJ.
+A parte recorrente, alegando cerceamento de defesa e ofensa aos princípios da segurança jurídica e da imparcialidade do juiz, bem como a ausência de presunção absoluta de veracidade do quanto contido em escritura pública, apontou como violados os arts. 357, § 1º, 435 e 369 do CPC que, entretanto, não têm comando normativo para amparar essas teses recursais, o que constitui deficiência na fundamentação recursal.
+Caso, pois, de incidência, por analogia, da Súmula n. 284 do STF, assim expressa: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL E NO AGRAVO EM RECURSO ESPECIAL. CIVIL. AÇÃO REVISIONAL DE CONTRATO DE EMPRÉSTIMO PESSOAL. AGRAVO DE INSTRUMENTO. PRAZO PRESCRICIONAL. TERMO INICIAL.
+1. A alegada afronta à lei federal não foi demonstrada com clareza, pois o único dispositivo apontado como violado não tem comando normativo suficiente para amparar a tese recursal, atraindo, por analogia, o óbice da Súmula 284 do STF.
+2. Na forma da jurisprudência pacificada por esta Corte Superior, a cobrança de juros capitalizados em periodicidade anual ou inferior à anual nos contratos de mútuo não é permitida quando não houver expressa pactuação.
+3. AGRAVO INTERNO DESPROVIDO. (AgInt no REsp n. 1.981.159/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 22/6/2022.)
+Confiram-se ainda: AgInt no REsp n. 1.409.884/MG, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 12/8/2022; AgInt no AREsp n. 2.013.867/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 9/9/2022; e EDcl no AgInt no REsp n. 1.581.336/PR, relator Ministro Francisco Falcão, Segunda Turma, DJe de 31/3/2022.
+As questões infraconstitucionais relativas à violação dos arts. 10, 372, 139, I, 85, § 1º, do Código de Processo Civil e 20 da Lei n. 8.906/1994 não foram objeto de debate no acórdão recorrido; nem mesmo foram opostos embargos de declaração para provocar o colegiado a manifestar-se a respeito do tema. Caso, pois, de aplicação da Súmula n. 282 do STF.
+Por fim, registro que a incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 30/6/2022, AgInt no AREsp n. 1.866.385/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/5/2022, DJe de 18/5/2022, AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1/9/2022, AgInt no AREsp n. 1.724.656/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/8/2022, DJe de 24/8/2022, AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+Ante o exposto, nego provimento ao agravo.
+Considerando tais razões de decidir e a argumentação recursal ora exposta, a irresignação não reúne condições de êxito.
+No recurso especial, a parte ora agravante apontou violação dos arts. 10, 85, § 1º, 139, I, 357, § 1º, 369, 435 do Código de Processo Civil, 20 da Lei n. 8.906/1994 e de 1973, 27 e 33 da Lei n. 8.245/1991 e 169, III, da Lei n. 6.015/1973 e 145 e 171, I e II, do Código Civil, bem como divergência jurisprudencial.
+Inicialmente, quanto às alegadas violações das questões infraconstitucionais relativas à violação dos arts. 10, 372, 139, I, 85, § 1º, do Código de Processo Civil e 20 da Lei n. 8.906/199, a decisão agravada aplicou a Súmula n. 282 do STF, uma vez que não foram objeto de debate no acórdão recorrido; nem mesmo foram opostos embargos de declaração para provocar o colegiado a manifestar-se a respeito do tema. No entanto, a Súmula n. 282 não foi impugnada nas razões do agravo interno. Incidência, pois, no caso, da Súmula n. 182 do STJ.
+Repise-se que a parte recorrente, alegando cerceamento de defesa e ofensa aos princípios da segurança jurídica e da imparcialidade do juiz, bem como a ausência de presunção absoluta de veracidade do quanto contido em escritura pública, apontou como violados os arts. 357, § 1º, 435 e 369 do CPC que, entretanto, não têm comando normativo para amparar essas teses recursais, o que constitui deficiência na fundamentação recursal.
+Caso, pois, de incidência, por analogia, da Súmula n. 284 do STF, assim expressa: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Reitere-se que, quanto às supostas violações d os demais artigos indicados no apelo extremo e diante das conclusões delineadas pelo Tribunal a quo, que foram objeto de transcrição na decisão ora impugnada, a aplicação das Súmulas n. 5 e 7 do STJ é medida que se impôs, pois o acolhimento das teses defendidas no recurso especial implicaria, necessariamente, a interpretação de cláusulas contratuais e o reexame de elementos fático-probatórios constantes dos autos, medidas inadmissíveis nesta instância superior .
+No que se refere à pretensão recursal amparada no art. 105, III, c, da CF, a incidência das Súmulas n. 5 e 7 do STJ é medida que se impôs, porquanto a impossibilidade de reexame das circunstâncias probatórias próprias da presente demanda, as quais dizem respeito à mesma questão suscitada com base na alínea a do permissivo constitucional, determina o reconhecimento da falta de similitude fática entre os arestos confrontados, a inviabilizar, portanto, o dissídio jurisprudencial.
+Portanto, a parte recorrente não logrou êxito em apresentar argumentos suficientes que justificassem a alteração do decisum agravado, que deve ser mantido por seus próprios fundamentos .
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
