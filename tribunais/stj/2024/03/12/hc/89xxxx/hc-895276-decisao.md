@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Rafael Cesar Ramos contra o acórdão do Tribunal de Justiça de São Paulo que negou provimento ao agravo interno criminal interposto pela defesa (fls. 78/80), mantendo a decisão indeferitória proferida pelo Juízo da Vara do Júri/Execuções Criminais da comarca de Osasco/SP, quanto ao pedido de indulto formulado com base no Decreto Presidencial n. 11.302/2022, referente à pena da Execução n. 7001302-82.2019.8.26.0032.
+O acórdão tem a seguinte ementa (Agravo n. 2005571-78.2024.8.26.0000/50000 - fl. 79):
+Agravo Regimental - Inconformismo com relação ao não conhecimento do Habeas Corpus - Pretensão de reforma da decisão que indeferiu o pedido de indulto - Alegações que não possuem o condão de alterar a decisão impugnada - Negado provimento ao recurso.
+Neste Tribunal Superior, o impetrante sustenta, em síntese, que o paciente ostenta os pressupostos de exigibilidade da benesse, ou seja, penas por crimes comuns já transitadas em julgado e/ou com trânsito em julgado para a acusação, lapso temporal para a concessão de indulto/comutação e 12 meses de cumprimento sem falta grave antes da publicação do decreto presidencial de 2022 (fl. 8).
+Requer, assim, a concessão do indulto da pena imposta ao paciente (fl. 9); em sede de liminar, a sustação dos efeitos das decisões do Tribunal de origem (fl. 9).
+Estes autos foram a mim distribuídos por prevenção (HC n. 560.596/SP).
+É o relatório.
+A ordem comporta concessão, de plano; contudo, não na moldura aqui pretendida. Explico.
+O Tribunal a quo não se manifestou acerca do mérito do writ originariamente impetrado, e tratar do tema aqui e agora configuraria indevida supressão de instância. Porém, consoante entendimento consolidado no Superior Tribunal de Justiça, não há empecilho à utilização de habeas corpus quando se tratar de matéria exclusivamente de direito, quando não houver necessidade do exame aprofundado de provas e quando houver possibilidade de lesão à liberdade de locomoção do paciente, como ocorre na espécie dos autos.
+Assim, mostra-se perfeitamente cabível, em sede de habeas corpus, o exame da questão suscitada na Corte estadual e aqui reiterada, qual seja, saber se Rafael Cesar Ramos tem direito ao pretendido indulto.
+Enfim, ainda que haja a previsão de recurso específico para a espécie - no caso, o agravo em execução -, não há óbice para o manejo de habeas corpus quando, havendo lesão ou ameaça de lesão à liberdade de locomoção do paciente, estejam atendidos os seus pressupostos constitucionais e legais e o exame da matéria não requeira análise de controvérsia factual nem demande dilação fático-probatória.
+Nesse sentido, confiram-se os seguintes julgados:
+EXECUÇÃO PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. INADEQUAÇÃO. INDULTO. DECRETO N. 8.380/2014. BENEFÍCIO NEGADO. AUSÊNCIA DE REQUISITO SUBJETIVO. TEMA NÃO APRECIADO PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. MANIFESTA ILEGALIDADE EVIDENCIADA. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Hipótese em que a tese deduzida neste mandamus, apesar de a ordem ter sido denegada, não foi debatida na instância originária pelo Tribunal a quo, ao fundamento de que a estreita via do habeas corpus não é meio idôneo para análise do preenchimento do requisito subjetivo para concessão do indulto. Impossibilidade de exame por esta Corte, sob pena de incorrer em supressão de instância.
+3. Nada obstante a existência de recurso específico, mostra-se cabível a impetração de habeas corpus sempre que a alegada ilegalidade estiver influenciando na liberdade de locomoção do indivíduo, o que ocorre nos autos (AgRg no HC 298.290/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/10/2014, e HC 294.717/MS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 14/10/2014).
+4. Ordem não conhecida. Habeas corpus concedido, de ofício, para determinar que o Tribunal de origem examine o mérito da impetração.
+(HC n. 364.939/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 28/9/2016 - grifo nosso).
+HABEAS CORPUS . EXECUÇÃO PENAL. INDULTO. MATÉRIA NÃO APRECIADA PELO TRIBUNAL A QUO, POR SER CABÍVEL, NA ESPÉCIE, AGRAVO EM EXECUÇÃO. TESE DE IMPOSSIBILIDADE DA ANÁLISE DO REQUISITO SUBJETIVO. EXAME ADMITIDO. CONSTRANGIMENTO ILEGAL. ORDEM CONCEDIDA.
+1. O pedido formulado no writ originário, de reforma da decisão exarada pelo Juízo das Execuções, que não concedeu indulto ao Paciente, foi denegado pelo Tribunal a quo, ao argumento de que, em sede de habeas corpus, era inviável a análise do requisito subjetivo necessário à concessão do instituto, por ser cabível, na espécie, o agravo em execução.
+2. Apesar de ser o agravo o recurso próprio cabível contra decisão que resolve incidente em execução, não há óbice ao manejo do habeas corpus quando a análise da legalidade do ato coator prescindir do exame aprofundado de provas, como no caso, dada a possibilidade de constrangimento ilegal à liberdade de locomoção do Paciente.
+3. Habeas corpus concedido para determinar que o Egrégio Tribunal de Justiça do Estado de São Paulo aprecie o mérito do Writ n. 990.09.124927-0, como entender de direito.
+(HC n. 173.824/SP, Ministra Laurita Vaz, Quinta Turma, DJe 18/5/2011 - grifo nosso).
+Pelo exposto, não conheço do habeas corpus; porém, concedo a ordem de ofício, para determinar ao Tribunal de Justiça de São Paulo que aprecie, com a maior brevidade possível, o mérito do Agravo Interno Criminal no HC n. 2005571-78.2024.8.26.0000/50000, decidindo como entender de direito.
+Comunique-se "com urgência".
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. DECRETO PRESIDENCIAL N. 11.302/2022. PRÉVIO WRIT NÃO EXAMINADO PELO TRIBUNAL A QUO POR SER CABÍVEL NA ESPÉCIE AGRAVO EM EXECUÇÃO. SUPRESSÃO DE INSTÂNCIA. POSSIBILIDADE DE MANEJO DE HABEAS CORPUS PARA ANÁLISE DA LEGALIDADE DO ATO COATOR NA INSTÂNCIA DE ORIGEM. CONSTRANGIMENTO ILEGAL QUE JUSTIFICA A UTILIZAÇÃO DA VIA ELEITA. PRECEDENTES.
+Writ não conhecido. Ordem concedida de ofício, nos termos do dispositivo.
