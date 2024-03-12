@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado por COOPERATIVA DE CREDITO E INVESTIMENTO DO SUDOESTE DA AMAZONIA LTDA - SICOOB CREDISUL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA, assim resumido:
+AGRAVO DE INSTRUMENTO. AÇÃO DE REPACTUAÇÃO DE DÍVIDAS. LEI DO SUPERENDIVIDAMENTO. DEFERIMENTO DA FASE DO PLANO JUDICIAL. AUSÊNCIA DE COMPROVADA MÁ-FÉ DA CONSUMIDORA. RECURSO NÃO PROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 54-A, § 3º, do CDC, no que concerne à ausência dos requisitos para reparcelamento das dívidas da recorrida, diante de sua má-fé e gastos supérfluos, restando impossível aplicar as regras de proteção ao consumidor, trazendo a seguinte argumentação:
+Excelências, no caso em análise não pode ser admitida a repactuação de débitos contraídos com o fim de contratação de produtos e serviços de luxo de alto valor.
+ ..
+Conforme consignado, gastos  habituais  da demandante, fogem de padrões de vida dos brasileiros. Na peça inicial, é indicado como  energia no valor médio de R$ 500,00  mensais!!
+Volve-se a questão para os gastos com cartão, os quais são supérfluos (luxo), incluindo-se viagens e gastos não habituais, todos comprovados nos extratos bancários e cartões de crédito anexos pela própria Recorrida, e confirmados pelo Tribunal a quo no julgamento do agravo de instrumento.
+A Lei especial que rege a matéria afasta a aplicação do procedimento de repactuação o consumidor que adquire itens de alto valor (fls. 62-63).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Para o caso em análise, não se pode olvidar que o consumidor é vulnerável por lei, e em se tratando de serviços bancários, sua vulnerabilidade é acentuada por desconhecer os procedimentos e riscos da contratação de um empréstimo. Logo, ao desconsiderar tais deveres de cuidado e aconselhamento, concedendo crédito de forma indiscriminada, as instituições financeiras violam a boa-fé objetiva, viabilizando adoção de medidas tendentes a redimensionar as obrigações contraídas pelo consumidor, de forma a adequar o pagamento do débito às suas possibilidades.
+Assim sendo, ainda que a agravada tenha contraído grande parte dos empréstimos após a vigência da Lei 14.181/2021, não ficou comprovada sua má-fé, tampouco que se trata de débitos para aquisição ou contratação de produtos e serviços de luxo de alto valor. A existência de gastos com alguns bens supérfluos, como passagem aérea, viagens e produtos de beleza, cujo valor despendido é de pouca monta, não se pode atribuir a qualidade de produtos e serviços de luxo de alto valor.
+Ademais, a presunção de boa-fé é princípio geral de direito universalmente aceito, sendo milenar parêmia: a boa-fé se presume; a má-fé se prova.
+Destarte, não tendo o Banco agravante comprovado a má-fé da consumidora, deve ser mantida a decisão do juízo a quo que instaurou o procedimento de repactuação previsto no art. 104-A e seguintes do CDC, sem prejuízo da exclusão dos débitos que não se enquadram no benefício legal (fl. 40-41).
+Assim, i ncide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
