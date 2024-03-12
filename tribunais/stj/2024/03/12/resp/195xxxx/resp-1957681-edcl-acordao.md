@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 12/03/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. MERO INCONFORMISMO DA PARTE EMBARGANTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado (art. 1.022 do CPC de 2015).
+2. Os aclaratórios têm finalidade integrativa, por isso não se prestam a revisar questões já decididas para alterar entendimento anteriormente aplicado.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+ITAU SEGUROS S.A. opõe embargos declaratórios ao acórdão de fls. 655-659, que negou provimento ao agravo interno interposto contra a decisão que negou provimento a agravo em recurso especial, cuja ementa é a seguinte.
+AGRAVO INTERNO. PROCESSUAL CIVIL. AÇÃO DE REGRESSO DE SEGURADORA CONTRA A INFRAERO. RESPONSABILIDADE CIVIL. ARMAZENAMENTO INADEQUADO DE MERCADORIAS PERECÍVEIS. AUSÊNCIA DE JUNTADA DE APÓLICE. INSUFICIÊNCIA DOS DOCUMENTOS COMPROBATÓRIOS DA SUBROGAÇÃO. SÚMULA 7 DO STJ.
+1. "Embora o art. 758 do Código Civil faça alusão à apólice, bilhete ou pagamento do prêmio como meios de prova do contrato de seguro, é certo também que não exclui outras formas aptas à comprovação da relação securitária. Vale dizer que a citada norma indica que se considera provado o contrato de seguro mediante a exibição da apólice, bilhete ou pagamento do prêmio, não se excluindo, aprioristicamente outros tipos de prova." (REsp 1130704/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/03/2013, DJe 17/04/2013).
+2. No caso, foram explicitadas nas instâncias ordinárias, a ausência de documentação suficiente à prova da subrogação da recorrente nos direitos de seu segurado após o pagamento da indenização decorrente de danos causados em mercadoria que estava em poder e sob responsabilidade da recorrida, e a peculiaridade da moldura fática a demandar uma análise mais abrangente e detalhada dos documentos. Rever tais premissas encontra óbice na Súmula 7 do STJ.
+3. Agravo interno não provido.
+Alega a parte embargante que o acórdão embargado incorreu em erro material ao não observar que o Tribunal de origem, contrariando a jurisprudência do Superior Tribunal de Justiça, reconheceu a apólice de seguro como indispensável à comprovação da relação securitária e condicionou a análise de outros documentos à sua apresentação.
+Requer o acolhimento dos embargos declaratórios para que seja sanado o vício apontado e, por consequência, para que seja atribuído efeito modificativo ao acórdão.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. MERO INCONFORMISMO DA PARTE EMBARGANTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado (art. 1.022 do CPC de 2015).
+2. Os aclaratórios têm finalidade integrativa, por isso não se prestam a revisar questões já decididas para alterar entendimento anteriormente aplicado.
+3. Embargos de declaração rejeitados.
+VOTO
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado.
+O erro material passível de correção na via estreita dos embargos de declaração é aquele reconhecido primu ictu oculi, consistente em simples equívoco ou inexatidão material sem qualquer conteúdo decisório, tais como erros de grafia, de nome ou de valor (REsp 1151982/ES, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 23/10/2012, DJe de 31/10/2012).
+No presente caso, a parte não aponta erro material passível de ser sanado em embargos de declaração. Apenas demonstra seu interesse na reanálise da questão referente ao reconhecimento da ausência de prova da sub-rogação e impossibilidade de incursão no acervo fático-probatório dos autos.
+Eis o que consta do acórdão embargado (fls. 658-659, destaquei):
+2. Com efeito, a decisão agravada consignou que, de fato, o entendimento firmado no recurso especial utilizado como paradigma é no sentido de que, em ação regressiva ajuizada por seguradora em face do suposto causador do dano, a juntada da apólice do seguro é peça dispensável à propositura da demanda, desde que seja possível a comprovação da sub-rogação por outros meios idôneos.
+Nada obstante, no caso concreto, tal entendimento foi excepcionado em razão de ter o Tribunal a quo registrado a ausência de documentação suficiente à prova da sub-rogação da recorrente nos direitos de seu segurado após o pagamento da indenização decorrente de danos causados em mercadoria que estava em poder e sob responsabilidade da recorrida, confirmando a sentença de improcedência do pedido, nos termos do art. 333, I, do CPC/1973 (fls. 579):
+De fato, analisando as provas documentais, verifica-se que a mera juntada do recibo do valor pago é insuficiente para a comprovação do direito alegado pela autora.
+Em outras palavras, a simples prova do pagamento não comprova a sub-rogação da seguradora nos direitos do segurado, por impossibilidade de saber o valor da cobertura, a vigência da apólice e outros termos contratuais.
+O direito de regresso, no caso concreto, pressupõe a comprovação da existência da cobertura contratual securitária e do pagamento efetivamente feito, ainda mais em situações como a presente, em que não se trata de um simples seguro de automóvel, como nos precedentes jurisprudenciais juntados pela parte autora em sede de recurso de apelação.
+Na hipótese dos autos, as características do seguro, pelos próprios objetos segurados, exigem maior relevância na análise da apólice, a qual deixou de ser juntada.
+Neste sentido, cito a bem lançada sentença, a respeito:
+"Sustenta a autora ser descipienda a juntada da apólice de seguros mantida com a sua segurada, bastando apenas a juntada do recibo de pagamento para a indenização.
+No entanto, o mero pagamento da indenização não gera o pretendido direito de regresso, já que não se sabe efetivamente se quem pagou tinha o dever de pagar, ou se o pagamento foi efetivado em total arrepio às disposições do contrato de seguro, o qual inclusive poderia estar vencido ou, ainda, se a apólice não continha a cláusula impeditiva de ação regressiva.
+Em suma, o recibo de pagamento não gera a presunção do correto pagamento, da existência do contrato e da sub-rogação e sem se olvidar que o pagamento pode ter sido realizado deforma errônea.
+Desse modo, sem a juntada da apólice não se pode elucidar tais questões, sendo certo que o pagamento realizado fora dos termos da apólice não gera o direito de regresso, ou seja, que a autora passou a titularizar todos os direitos, ações, privilégios e garantias de sua segurada em relação à dívida, ou mesmo se ela era devida. (..)"(fis.262, verso).
+Como visto, o acórdão embargado foi claro ao consignar que a jurisprudência dispensa a juntada da apólice do seguro em ação regressiva desde que seja possível a comprovação da relação securitária e do direito de sub-rogação por outros meios idôneos, o que, no caso, não foi identificado pelo Tribunal de origem, soberano na análise do arcabouço fático-probatório.
+E ao contrário do sustentado pela parte embargante, a conclusão pela falta de prova não partiu da premissa de que a relação securitária somente poderia ser demonstrada pela apólice do seguro, mas sim que, devido à natureza e à particularidade do seguro contratado, a prova documental constante dos autos não era suficiente para reconhecimento do direito de sub-rogação, diante da impossibilidade de se verificar, com base nos demais elementos de prova apresentados, o valor da cobertura, a vigência da apólice e outros termos contratuais indispensáveis para o exercício do direito de regresso.
+Nesse contexto, e considerando que, para adotar conclusões diversas das de origem, seria necessária a incursão no acervo fático-probatório, foi reconhecida a incidência da Súmula n. 7 do STJ.
+Dessa forma, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo o acórdão embargado dos vícios que autorizariam sua oposição.
+Se, todavia, a conclusão ou os fundamentos adotados não foram corretos, como sugere a parte embargante, não quer dizer que não existam ou que configurem qualquer outro vício. Afinal, não se pode confundir falta de motivação com fundamentação contrária aos interesses da parte (AgRg no Ag 56.745/SP, r elator Ministro Cesar Asfor Rocha, DJ de 12/12/1994).
+Registre-se ainda que a mera irresignação da parte embargante com o entendimento apresentado não viabiliza a oposição dos aclaratórios (EDcl no AgInt nos EAREsp n. 1.623.529/DF, relator Ministro Og Fernandes, Corte Especial, julgado em 1º/12/2021, DJe de 15/12/2021).
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
