@@ -1,0 +1,110 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma, por unanimidade, conhecer em parte do recurso especial e, nessa parte, negar-lhe provimento, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Marco Aurélio Bellizze (Presidente) e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Ausente, justificadamente, o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE COBRANÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONHECIMENTO. ALEGAÇÃO DE VIOLAÇÃO DE RESOLUÇÃO. IMPOSSIBILIDADE. SERVIÇOS DE PROPAGANDA ELEITORAL. ACORDO. RENÚNCIA À IMPENHORABILIDADE. POSSIBILIDADE. DÍVIDA QUE SE ENQUADRA NO ART. 44, II, DA LEI 9.096/95.
+1. Recurso especial interposto em 9/5/2022 e concluso ao gabinete em 16/3/2023.
+2. O propósito recursal consiste em definir se há negativa de prestação jurisdicional e se o partido político pode renunciar à proteção legal de impenhorabilidade dos recursos do fundo partidário.
+3. Não se pode conhecer da apontada violação do art. 1.022 do CPC, pois as alegações que a fundamentam são genéricas, motivo pelo qual incide, por analogia, a Súmula 284/STF.
+4. A interposição de recurso especial não é cabível quando ocorre violação de ato normativo que não se enquadre no conceito de lei federal (art. 105, III, "a", da CF/88).
+5. Os recursos do fundo partidário têm natureza pública, razão pela qual são impenhoráveis (art. 833, XI, do CPC). Ademais, eles somente podem ser destinados aos fins consagrados no art. 44 da Lei nº 9.096/95. Ou seja, trata-se de verbas com vinculação específica.
+6. A natureza pública dos recursos do fundo partidário não os torna indisponíveis, já que os partidos podem dispor dessas verbas em consonância com o disposto na lei. Assim, o partido político pode renunciar à proteção da impenhorabilidade dos recursos do fundo partidário, desde que o faça para viabilizar o pagamento de dívida contraída para os fins previstos no art. 44 da Lei nº 9.096/95.
+7. No particular, no curso da ação de cobrança , as partes celebraram acordo, no qual o partido recorrente renunciou à impenhorabilidade dos recursos do fundo partidário na hipótese de descumprimento da avença. Considerando que a dívida se enquadra no disposto no art. 44, II, da Lei nº 9.096/95 ("propaganda doutrinária e política"), a renúncia é válida.
+8. Recurso especial parcialmente conhecido e, nessa parte, não provido.
+RELATÓRIO
+Cuida-se de recurso especial interposto por PARTIDO DOS TRABALHADORES - DIRETÓRIO ESTADUAL DO RIO DE JANEIRO, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/RJ.
+Recurso especial interposto em: 9/5/2022.
+Concluso ao gabinete em: 16/3/2023.
+Ação: de cobrança ajuizada por VG MARKETING ELEITORAL LTDA em face do recorrente, na qual se busca o pagamento pelos serviç os de concepção e planejamento estratégico de campanha publicitária prestados nas eleições de 2014.
+No curso da demanda, as partes celebraram acordo, no qual a recorrente se comprometeu a pagar R$ 6.778.315,20, por meio de 80 (oitenta) parcelas mensais, mediante o repasse de parte do Fundo Partidário recebido mensalmente.
+Decisão interlocutória: rejeitou o pedido de homologação do acordo, sob o fundamento de que não é possível a atribuição de obrigação ao Diretório Nacional, por não ser parte no processo, e devido à impossibilidade de renunciar à impenhorabilidade prevista no art. 833, XI, do CPC.
+Acórdão: deu provimento ao agravo de instrumento interposto pelo recorrente, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO -AÇÃO DE COBRANÇA - DECISÃO QUE NÃO HOMOLOGOU ACORDO - RECONHECIMENTO DA IMPENHORABILIDADE DO FUNDO PARTIDÁRIO E DA IMPOSSIBILIDADE DE OBRIGAR TERCEIRO A REALIZAÇÃO DE AVENÇA DA QUAL NÃO PARTICIPOU -IRRESIGNAÇÃO DA PARTE AUTORA - A TRANSAÇÃO PRODUZ EFEITOS IMEDIATAMENTE, NA LINHA DO QUEDETERMINA O ART. 200 DO CPC - OUTROSSIM, UMA VEZ PRATICADO O ATO, CONSOME-SE A POSSIBILIDADE DE DESFAZÊ-LO, OPERANDO-SE A PRECLUSÃO CONSUMATIVA -, IMPOSSÍVEL O ARREPENDIMENTO UNILATERAL, AINDA QUE MANIFESTADO ANTES DA HOMOLOGAÇÃO JUDICIAL -PARTE AGRAVADA QUE INICIOU O PAGAMENTO DAS PARCELAS DO AJUSTE, ATRAVÉS DO SEU DIRETORIO NACIONAL, O QUE ATESTA A CONCORDANCIA DESTE AOS TERMOS PACTUADOS -IMPENHORABILIDADE DO FUNDO PARTIDARIO -NAO APLICACAO DA VEDAÇÃO LEGAL DO ART. 833, XI, DO CPC -O PRÓPRIO PARTIDO DOS TRABALHADORES RENUNCIOU À IMPENHORABILIDADE DOS RECURSOS DO FUNDO PARTIDÁRIO NO ACORDO CELEBRADO, PREVENDO SUA UTILIZAÇÃO PARA O PAGAMENTO DAS PARCELAS -DA-SE PROVIMENTO AO RECURSO.
+Embargos de declaração: opostos pelo recorrente, foram rejeitados pela Corte de origem.
+Recurso especial: suscita violação dos arts. 833, XI e 1.022, I e II, do CPC e do art. 17, §§ 2º e 3º, da Resolução TSE nº 23.604, além de dissídio jurisprudencial. Alega não ser possível renunciar à impenhorabilidade das verbas do fundo partidário, à medida em que têm natureza de verba pública. Refere que tais valores não podem ser utilizados livremente pelo partido, porquanto possuem destinação específica.
+Juízo prévio de admissibilidade: o TJ/RJ inadmitiu o recurso especial, ensejando a interposição do recurso cabível, o qual foi reautuado para melhor exame da matéria.
+É o relatório.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE COBRANÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONHECIMENTO. ALEGAÇÃO DE VIOLAÇÃO DE RESOLUÇÃO. IMPOSSIBILIDADE. SERVIÇOS DE PROPAGANDA ELEITORAL. ACORDO. RENÚNCIA À IMPENHORABILIDADE. POSSIBILIDADE. DÍVIDA QUE SE ENQUADRA NO ART. 44, II, DA LEI 9.096/95.
+1. Recurso especial interposto em 9/5/2022 e concluso ao gabinete em 16/3/2023.
+2. O propósito recursal consiste em definir se há negativa de prestação jurisdicional e se o partido político pode renunciar à proteção legal de impenhorabilidade dos recursos do fundo partidário.
+3. Não se pode conhecer da apontada violação do art. 1.022 do CPC, pois as alegações que a fundamentam são genéricas, motivo pelo qual incide, por analogia, a Súmula 284/STF.
+4. A interposição de recurso especial não é cabível quando ocorre violação de ato normativo que não se enquadre no conceito de lei federal (art. 105, III, "a", da CF/88).
+5. Os recursos do fundo partidário têm natureza pública, razão pela qual são impenhoráveis (art. 833, XI, do CPC). Ademais, eles somente podem ser destinados aos fins consagrados no art. 44 da Lei nº 9.096/95. Ou seja, trata-se de verbas com vinculação específica.
+6. A natureza pública dos recursos do fundo partidário não os torna indisponíveis, já que os partidos podem dispor dessas verbas em consonância com o disposto na lei. Assim, o partido político pode renunciar à proteção da impenhorabilidade dos recursos do fundo partidário, desde que o faça para viabilizar o pagamento de dívida contraída para os fins previstos no art. 44 da Lei nº 9.096/95.
+7. No particular, no curso da ação de cobrança, as partes celebraram acordo, no qual o partido recorrente renunciou à impenhorabilidade dos recursos do fundo partidário na hipótese de descumprimento da avença. Considerando que a dívida se enquadra no disposto no art. 44, II, da Lei nº 9.096/95 ("propaganda doutrinária e política"), a renúncia é válida.
+8. Recurso especial parcialmente conhecido e, nessa parte, não provido.
+VOTO
+O propósito recursal consiste em definir se há negativa de prestação jurisdicional e se o partido político pode renunciar à proteção legal de impenhorabilidade dos recursos do fundo partidário.
+1. DA NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+1. Não se pode conhecer da apontada violação do art. 1.022, I e II, do CPC, pois as alegações que a fundamentam são genéricas, sem discriminação específica dos pontos efetivamente omissos ou contraditórios sobre os quais teria incorrido o acórdão impugnado.
+2. Com efeito, o recorrente limita-se a afirmar, genericamente, que estaria caracterizada a violação aos referidos dispositivos legais, sem apontar, especificamente, quais teses não foram apreciadas pelo Tribunal a quo ou o foram de forma contraditória.
+3. Incide, na espécie, por analogia, o enunciado da Súmula 284/STF
+2. DA ALEGAÇÃO À VIOLAÇÃO DE RESOLUÇÃO.
+4. O recorrente suscita violação do art. 17, §§ 2º e 3º, da Resolução TSE nº 23.604.
+5. Entretanto, a interposição de recurso especial não é cabível quando ocorre violação de ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a", da CF/88.
+6. Logo, não conheço do recurso especial nesse ponto.
+3. DA RENÚNCIA À IMPENHORABILIDADE DOS RECURSOS DO FUNDO PARTIDÁRIO.
+7. O fundo partidário é uma verba oriunda do Estado para auxiliar na manutenção das agremiações. "O financiamento público (que no Brasil é realizado via distribuição do Fundo Partidário) visa a estabelecer uma certa igualdade de chances entre partidos, o que insere, no sistema de concorrência partidária, o elemento de igualdade formal (certamente imperfeito e cujo equilíbrio é de difícil alcance)" (STF, ADI 4.650, DJe de 24/2/2016).
+8. O art. 38 da Lei nº 9.096/95 prevê os recursos que compõe o fundo partidário:
+Art. 38. O Fundo Especial de Assistência Financeira aos Partidos Políticos (Fundo Partidário) é constituído por:
+I - multas e penalidades pecuniárias aplicadas nos termos do Código Eleitoral e leis conexas;
+II - recursos financeiros que lhe forem destinados por lei, em caráter permanente ou eventual;
+III - doações de pessoa física ou jurídica, efetuadas por intermédio de depósitos bancários diretamente na conta do Fundo Partidário;
+IV - dotações orçamentárias da União em valor nunca inferior, cada ano, ao número de eleitores inscritos em 31 de dezembro do ano anterior ao da proposta orçamentária, multiplicados por trinta e cinco centavos de real, em valores de agosto de 1995.
+9. Esses recursos têm vinculação específica. Isso significa que eles somente podem ser utilizados para pagamento das despesas elencadas no art. 44 da Lei nº 9.096/95, quais sejam:
+Art. 44. Os recursos oriundos do Fundo Partidário serão aplicados:
+I - na manutenção das sedes e serviços do partido, permitido o pagamento de pessoal, a qualquer título, observado, do total recebido, os seguintes limites:
+a) 50% (cinquenta por cento) para o órgão nacional;
+b) 60% (sessenta por cento) para cada órgão estadual e municipal;
+II - na propaganda doutrinária e política;
+III - no alistamento e campanhas eleitorais;
+IV - na criação e manutenção de instituto ou fundação de pesquisa e de doutrinação e educação política, sendo esta aplicação de, no mínimo, vinte por cento do total recebido.
+V - na criação e manutenção de programas de promoção e difusão da participação política das mulheres, criados e executados pela Secretaria da Mulher ou, a critério da agremiação, por instituto com personalidade jurídica própria presidido pela Secretária da Mulher, em nível nacional, conforme percentual que será fixado pelo órgão nacional de direção partidária, observado o mínimo de 5% (cinco por cento) do total;
+VI - no pagamento de mensalidades, anuidades e congêneres devidos a organismos partidários internacionais que se destinem ao apoio à pesquisa, ao estudo e à doutrinação política, aos quais seja o partido político regularmente filiado;
+VII - no pagamento de despesas com alimentação, incluindo restaurantes e lanchonetes.
+VIII - na contratação de serviços de consultoria contábil e advocatícia e de serviços para atuação jurisdicional em ações de controle de constitucionalidade e em demais processos judiciais e administrativos de interesse partidário, bem como nos litígios que envolvam candidatos do partido, eleitos ou não, relacionados exclusivamente ao processo eleitoral;
+IX - (VETADO);
+X - na compra ou locação de bens móveis e imóveis, bem como na edificação ou construção de sedes e afins, e na realização de reformas e outras adaptações nesses bens;
+XI - no custeio de impulsionamento, para conteúdos contratados diretamente com provedor de aplicação de internet com sede e foro no País, incluída a priorização paga de conteúdos resultantes de aplicações de busca na internet, inclusive plataforma de compartilhamento de vídeos e redes sociais, mediante o pagamento por meio de boleto bancário, de depósito identificado ou de transferência eletrônica diretamente para conta do provedor, proibido, nos anos de eleição, no período desde o início do prazo das convenções partidárias até a data do pleito.
+10. A depender do montante de recursos aplicados irregularmente, o descumprimento da vinculação prevista nesse art. 44 pode conduzir à desaprovação das contas do partido infrator (MEDEIROS, Marcilio Nunes. Legislação eleitoral comentada e anotada. 3ª ed. São Paulo: JusPodivm, 2021p. 1512).
+11. Justamente em razão da natureza pública dos recursos oriundos do fundo partidário é que o diploma processual consagra a sua impenhorabilidade. Confira-se:
+Art. 833. São impenhoráveis:
+(..)
+XI - os recursos públicos do fundo partidário recebidos por partido político, nos termos da lei.
+12. Esta Corte Superior já se manifestou no sentido de que, em razão da sua natureza pública, ainda que a dívida se enquadre em alguma das hipóteses previstas no retromencionado art. 44 da Lei nº 9.096/95, não é possível a penhora dos recursos do fundo partidário sem concordância do partido:
+RECURSO ESPECIAL. SERVIÇOS DE PROPAGANDA ELEITORAL. FUNDO PARTIDÁRIO. LEI N. 9.096/1996. PENHORA. IMPOSSIBILIDADE. NATUREZA PÚBLICA DOS RECURSOS. RELEVÂNCIA DOS PARTIDOS POLÍTICOS NA DEMOCRACIA REPRESENTATIVA. FINANCIAMENTO PÚBLICO. ART. 833 DO CPC/2015. IMPENHORABILIDADE ABSOLUTA. VERBAS DE NATUREZA PÚBLICA.
+1. Os partidos políticos são entidades privadas constitucionalmente incumbidos de assegurar, no interesse do regime democrático, a autenticidade do sistema representativo e organizados nos termos da lei, de estatutos e programas, com o objetivo de conquista do poder político e de defesa dos direitos fundamentais.
+2. As agremiações partidárias são a expressão maior de uma das configurações da República, consistente na eletividade dos representantes populares, estruturados para mediar entre o pluralismo ideológico da sociedade e o interesse estatal de produzir uma unidade de decisão e ação governamental.
+3. O financiamento dos partidos políticos é instituto que proporciona a consecução de suas atividades, e especificamente o financiamento público, formalizado pelos repasses dirigidos ao Fundo Partidário, promove o estabelecimento do sistema de concorrência partidária e igualdade formal.
+4. Após a incorporação dos repasses ao Fundo Partidário, os valores transferidos, públicos ou privados, incorporam a natureza jurídica pública e, nos termos da Lei dos Partidos Políticos, passam a ter destinação vinculada e específica à subsistência do Partido.
+5. Nos termos do inciso XI, do art. 833 do CPC/2015, são impenhoráveis os recursos públicos do fundo partidário, vedação que se fundamenta na natureza pública e na finalidade vinculada daqueles recursos e que serve de garantia de que as atividades dos partidos não serão comprometidas por insuficiência financeira.
+6. Recurso especial provido para decretar a impenhorabilidade dos valores depositados em conta-corrente destinada ao depósito do Fundo Partidário.
+(REsp n. 1.891.644/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 6/10/2020, DJe de 5/2/2021.)  g.n.
+RECURSO ESPECIAL. PROCESSUAL CIVIL. VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. NÃO CABIMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OFENSA AO ART. 535 DO CPC. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. EXECUÇÃO DE SENTENÇA. PENHORA DE VALORES ORIUNDOS DO FUNDO PARTIDÁRIO. IMPOSSIBILIDADE. VEDAÇÃO LEGAL. ART. 649, XI, DO CÓDIGO DE PROCESSO CIVIL.
+1. O art. 649, XI, do CPC impõe a impenhorabilidade absoluta dos recursos públicos do fundo partidário, nele compreendidas as verbas previstas nos incisos I, II, III e IV do art. 38 da Lei nº 9.096/1995.
+2. Os recursos do fundo partidário são originados de fontes públicas, como as multas e penalidades, recursos financeiros destinados por lei e dotações orçamentárias da União (art. 38, I, II e IV), ou de fonte privada, como as doações de pessoa física ou jurídica diretamente ao fundo partidário (art. 38, III).
+3. Após a incorporação de tais somas ao mencionado fundo, elas passam a ter destinação legal específica e, portanto, natureza jurídica de verba pública, nos termos do art. 649, XI, do CPC, "recursos públicos", independentemente da origem.
+4. A natureza pública do fundo partidário decorre da destinação específica de seus recursos (art. 44 da Lei nº 9.096/1995), submetida a rigoroso controle pelo Poder Público, a fim de promover o funcionamento dos partidos políticos, organismos essenciais ao Estado Democrático de Direito.
+5. O Fundo Partidário não é a única fonte de recursos dos partidos políticos, os quais dispõem de orçamento próprio, oriundo de contribuições de seus filiados ou de doações de pessoas físicas e jurídicas (art. 39 da Lei nº 9.096/1995), e que, por conseguinte, ficam excluídas da cláusula de impenhorabilidade.
+6. Recurso especial parcialmente provido.
+(REsp n. 1.474.605/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 7/4/2015, DJe de 26/5/2015.)  g.n.
+13. O Tribunal Superior Eleitoral, em precedentes recentes, admitiu a mitigação da regra da impenhorabilidade do fundo partidário nas situações em que a Justiça Eleitoral constata a malversação dos recursos de mesma natureza, a fim de garantir a efetividade de suas decisões (TSE, EDcl no REspe 060021630, DJE de 04/10/2023; TSE, REspe 060021630, DJe de 30/03/2023)
+14. No entanto, não há precedente do Superior Tribunal de Justiça, tampouco do Tribunal Superior Eleitoral, relativo à possibilidade (ou não) de renúncia da proteção de impenhorabilidade conferida pela lei ao fundo partidário.
+15. Conforme esclarece a doutrina, "qualquer bem impenhorável, mas disponível pelo devedor, poderá ser afetado à execução por ato positivo ou omissivo" (DE ASSIS, Araken. Manual da Execução. 18ª ed. Livro eletrônico. São Paulo: Revista dos Tribunais, 2016). Com exceção da hipótese consagrada no art. 833, inc. I, do CPC, que reputa impenhorável o bem inalienável, porquanto indisponível, "todas as demais hipóteses cuidam-se de bens disponíveis, que podem ser alienados pelo executado, inclusive para o pagamento da própria dívida que se executa" (DIDIER JR., Fredie (et. al.). Curso de Direito Processual Civil: execução. 12ª ed. São Paulo: JusPodivm, 2022, p. 857).
+16. Com base nesses mesmos fundamentos, Daniel Amorim Assumpção Neves defende ser possível a celebração de negócio jurídico processual (art. 190 CPC) prevendo a renúncia à impenhorabilidade (Comentários ao Código de Processo Civil: da execução por quantia certa. Vol. XVII. São Paulo: Saraiva, 2018, p. 142).
+17. Ou seja, o direito à impenhorabilidade é passível de renúncia se o bem protegido for disponível.
+18. Nessa linha de ideias, esta Corte já decidiu que nem mesmo a impenhorabilidade conferida ao bem de família (Lei nº 8.009/90) é absoluta. A proteção legal não incide quando o devedor oferece o bem em garantia em cumprimento de acordo homologado judicialmente ou mesmo em contrato de mútuo, com o objetivo de contrair dívida menos onerosa.
+19. Consoante destacado nos julgados que trataram do tema, a oferta do bem de família em garantia é possível, porque a impenhorabilidade legal não importa em inalienabilidade. Além disso, a oferta de bem em garantia, que é sabidamente residência familiar, e a posterior alegação de impenhorabilidade caracteriza conduta contraditória (venire contra factum proprium) violadora da boa-fé objetiva (AgInt no AgInt no AREsp n. 2.368.439/SP, Terceira Turma, DJe de 22/11/202; REsp n. 1.595.832/SC, Quarta Turma, DJe de 4/2/2020; REsp n. 1.677.015/SP, Terceira Turma, DJe de 6/9/2018).
+20. No que concerne, especificamente, aos recursos oriundos do fundo partidário, a sua natureza pública não os torna indisponíveis. Os partidos políticos podem dispor dessas verbas na consecução das suas atividades. A única exigência é que esteja presente alguma das finalidades estabelecidas no art. 44 da Lei nº 9.096/95, já que, repise-se, trata-se de recursos com vinculação específica.
+21. Desse modo, o partido político pode renunciar à proteção da impenhorabilidade dos recursos do fundo partidário, desde que o faça para viabilizar o pagamento de dívida contraída para os fins previstos no art. 44 da Lei nº 9.096/95.
+4. DA HIPÓTESE SOB JULGAMENTO.
+22. Na espécie, segundo colhe-se do acórdão recorrido, as partes celebraram acordo nos autos da presente ação de cobrança, na qual convencionaram a forma de pagamento da dívida contraída pelo partido recorrente (PARTIDO DOS TRABALHADORES - DIRETÓRIO ESTADUAL DO RIO DE JANEIRO) junto à recorrida (VG MARKETING ELEITORAL LTDA).
+23. No acordo, também ficou ajustado que, na hipótese de não pagamento da dívida, seria possível a penhora do fundo partidário, com renúncia à impenhorabilidade prevista no art. 833, XI, do CPC (e-STJ, fls. 87-95). Todavia, após o pedido de homologação do acordo formulado pela recorrida, o recorrente manifestou-se nos autos pela não homologação, em razão, sobretudo, da impenhorabilidade do fundo partidário.
+24. No entanto, de acordo com as considerações realizadas no item antecedente, não há óbice à renúncia, pelo partido, da impenhorabilidade do fundo partidário, desde que a dívida se enquadre em alguma das hipóteses definidas no art. 44 da Lei nº 9.096/95.
+25. No particular, verifica-se que a dívida contraída diz respeito a serviços de propagada eleitoral (e-STJ, fl. 04), os quais se enquadram no inc. II do art. 44 da Lei nº 9.096/95 ("propaganda doutrinária e política"), razão pela qual é válida a renúncia à impenhorabilidade.
+26. Sendo assim, o acórdão recorrido, ao decidir pela possibilidade de homologação do acordo, não violou o disposto no art. 833, XI, do CPC.
+DISPOSITIVO
+Forte nessas razões, CONHEÇO PARCIALMENTE do recurso especial e, nessa parte, NEGO-LHE PROVIMENTO.
+Deixo de aplicar o disposto no art. 85, § 11, do CPC, tendo em vista que não foram arbitrados honorários na origem.
