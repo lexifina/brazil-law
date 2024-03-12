@@ -1,0 +1,26 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por AGROBANCO BANCO COMERCIAL SA EM LIQUIDACAO, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: declaratória de inexistência de dívida, ajuizada por EXPEDITO STIVAL SOBRINHO, em face da agravante, na qual alega - em síntese - que figura como parte executada juntamente à empresa PITE S/A nos autos da ação de execução apensa (810559.24), sustentando a inexigibilidade do título extrajudicial que aparelha o aludido processo, haja vista ter a PITE S/A pago a dívida, tendo como prova o recibo de quitação outorgado pelo liquidante do banco requerido, Sr. Walter Campos.
+Acórdão recorrido: deu provimento à apelação interposta pela parte agravada, para condenar a agravante ao pagamento das verbas decorrentes do ônus sucumbencial, devendo arcar com as custas processuais e honorários advocatícios, fixados em 10% sobre o valor atualizado da causa; negou provimento à apelação interposta pela agravante.
+Nesse sentir, é a ementa do julgado:
+APELAÇÕES CÍVEIS. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÍVIDA. DÉBITO RELATIVO A TÍTULO EXECUTIVO EXTRAJUDICIAL. INEXISTÊNCIA DE COISA JULGADA MATERIAL. PRINCÍPIO DA NÃO SURPRESA. CERCEAMENTO DE DEFESA. NÃO CONFIGURAÇÃO. ÔNUS DA PROVA. SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE.
+1. Deve ser admitida a propositura de ação de conhecimento, visando a desconstituir o título executivo extrajudicial, quando não tiver ocorrido resolução do mérito em ação anterior, hipótese em que não se verifica a preclusão e a coisa julgada material.
+2. Há respeito ao princípio da não surpresa, quando a parte tem a oportunidade, ao longo do feito processual, de se manifestar sobre os fatos e fundamentos aos quais se reportaram a decisão, afastando-se a tese de ofensa aos artigos 9º e 10, ambos do CPC.
+3. Se os elementos constantes dos autos mostram-se aptos a formar o convencimento do magistrado, desnecessária a instrução probatória, impondo-se rejeitar a tese de cerceamento a direito de defesa, nos moldes da Súmula nº 28 do TJGO.
+4. Nos termos do art. 373, incisos I e II, do CPC, incumbe ao autor provar fato constitutivo do seu direito, ao passo que cabe ao réu provar fato impeditivo, modificativo ou extintivo do direito do autor.
+5. A responsabilidade pelo pagamento dos honorários e das custas deve ser fixada com base no princípio da causalidade, segundo o qual a parte que dá causa à instauração do processo deve suportar as despesas dele decorrentes. 1ª APELAÇÃO CÍVEL CONHECIDA E PROVIDA. 2ª APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.(e-STJ, fl. 851)
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Decisão de admissibilidade do TJ/GO: inadmitiu o recurso especial, em razão da:
+i) deficiência de fundamentação (Súmula 284/STF), em relação aos arts. 489 e 1.022, ambos do CPC; e
+ii) incidência da Súmula 7/STJ.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz:
+i) a inaplicabilidade da Súmula 284/STF, na medida em que "o Agravante alegou a nulidade do acórdão recorrido por ofensa aos arts. 489, II, § 1º, IV, e 1022, I e II, ambos do Cód. de Proc. Civil. E isto porque, não obstante a inconcussa prova do trânsito em julgado de todas as decisões prolatadas nos dois Embargos a Execução e na Exceção de pré-executividade, o acórdão não fundamentou a decisão, omitindo-se a emitir juízo sobre os fatos jurígenos provados subsumiveis aos aludidos dispositivos legais, essencialmente quanto a sentença da Primeira Instância prolatada nos Embargos à Execução (..)" (e-STJ, fl. 960); e
+ii) a não incidência da Súmula 7/STJ, pois "(..) as questões suscitadas no REsp (evento 155) se acham acobertadas pela preclusão consumativa e pela Coisa Julgada, seja a material (exceção de pré-executiviade), seja a formal (decisões nos dois Embargos à Execução) e, assim, prescindem de incursão na seara fático-probatória dos autos, vez que se alçam a fatos jurígenos comprovados e existentes nos autos." (e-STJ, fl. 967)
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice: incidência da Súmula 7/STJ.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram a inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ªTurma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor atualizado da causa (e-STJ fl. 850) para 11%, observada eventual concessão de justiça gratuita.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
