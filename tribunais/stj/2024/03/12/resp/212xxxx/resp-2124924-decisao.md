@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Instituto Nacional do Seguro Social - INSS, com fundamento no art. 105, III, "a" da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 642):
+PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. TETO. EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003.
+1. Segundo decidiu o STF no julgamento do RE 564.354, em sede de repercussão geral, tendo sido o valor da renda mensal inicial ou do correspondente salário de benefício limitado ao teto previdenciário, impõe-se que o montante inicial não limitado seja sempre a base de cálculo da renda mensal em manutenção a ser recalculada para fins de submissão aos novos tetos que vieram a ser definidos.2. No julgamento, o STF assentou o entendimento no sentido de que não ofende o ato jurídico perfeito a aplicação imediata do art. 14 da Emenda Constitucional n. 20/1998 e do art. 5º da Emenda Constitucional n. 41/2003 aos benefícios previdenciários limitados ao limite do regime geral de previdência estabelecido antes da vigência dessas normas, de modo a que passem a observar o novo teto constitucional.
+3. O entendimento adotado pelo Supremo Tribunal Federal também se aplica aos benefícios concedidos no interstício designado por "buraco negro" (05/10/1988 a 04/04/1991), visto que a decisão não estabeleceu diferenciação entre os benefícios em manutenção com base na data de concessão.
+Opostos embargos de declaração, foram rejeitados (fl. 666).
+Aponta o recorrente violação aos arts. 1.022, II, do CPC e 103, caput, da Lei 8.213/91, sustentando, além de negativa de prestação jurisdicional, que "a DECADÊNCIA impede a alteração/revisão/correção do cálculo da RMI da pensão, tal como fez a Contadoria Judicial (mudança do PBC de 12 para 36 etc.). Obviamente, não se está a alegar a decadência para "revisão dos tetos", mas decadência para alterar/modificar o cálculo da RMI da pensão da autora" (fl. 681).
+Afirma que, "No caso em apreço, o benefício objeto do pedido de revisão foi concedido antes da MP 1.523/97 e a ação revisional foi proposta mais de dez anos da vigência da MP, sendo flagrante a ocorrência do prazo decadencial. Impõe-se, assim, a reforma do acórdão recorrido, para reconhecer a decadência do direito de revisão do benefício pela aplicação do artigo 144 da Lei 8.213/91" (fl. .683)
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+Na forma da jurisprudência desta Corte, "a existência de omissão e/ou contradição relevante à solução da controvérsia, não sanada pelo Tribunal local, caracteriza violação do art. 1.022 do NCPC" (AgInt no REsp 1.857.281/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 19/8/2021).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. OCORRÊNCIA. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015 CONFIGURADA. MATÉRIA RELEVANTE. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. O embargante, ao opor os Embargos de Declaração de fls. 247-249, e-STJ, contra decisão que negou provimento ao Agravo de Instrumento, alegou que o Tribunal de origem deixou de analisar o fato de que é aposentado desde 30/8/2017, conforme Portaria de Aposentação de ID 6336636, homologada pelo TCE, para fins de isenção do IRPF sobre proventos de aposentadoria de portador de doença grave.
+2. Contudo, em vez de apreciar o ponto alegado como omisso pelo órgão embargante, o Tribunal a quo preferiu se esquivar do assunto, sob o argumento genérico de que se teria esgotado a prestação jurisdicional. Entretanto, era imprescindível que a Corte Julgadora se pronunciasse sobre tal tema, haja vista que é questão essencial para a solução da controvérsia.
+3. Assim, faz-se necessário o provimento do Recurso Especial por ofensa aos artigos 489 e 1022 do Código de Processo Civil, para fazer que a matéria volte ao Tribunal de origem a fim de se manifestar adequadamente sobre o ponto omisso.
+4. Embargos de Declaração acolhidos, com efeitos infringentes, para dar provimento ao Recurso Especial.
+(EDcl no AgInt nos EDcl no REsp 1.869.445/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 1º/7/2021)
+A pretensão recursal merece acolhida, pois a parte recorrente, nas razões aduzidas na apelação suscitou (fls. 653/655):
+Entende o INSS que o acórdão foi omisso quanto a analisar os seguintes argumentos expostos na apelação da Autarquia:.
+MÉRITO. RAZÕES PARA A REFORMA DA SENTENÇA
+A d. Contadoria judicial (no ev. 66) efetuou cálculo de simulação da revisão do art. 144 do benefício de auxílio-doença do segurado instituidor da pensão da parte autora, usando PBC de 36 (trinta)e seis salários-de-contribuição anteriores a 11/1990 e aplicando coeficiente de 86%.
+Entretanto, está sobejamente comprovado nos autos que tanto o cálculo da pensão da autora, quanto da outra pensionista foram realizados com base apenas nos 12 (doze) últimos salários-de-contribuição do segurado instituidor da pensão:
+(..).
+Outrossim, nas informações da pensão da autora não há nenhuma remessa ao anterior auxílio-doença do segurado instituidor:
+No entender do INSS, a DECADÊNCIA impede a alteração/revisão/correção do cálculo da RMI da pensão, tal como fez a Contadoria Judicial (mudança do PBC de 12 para 36 etc.). Obviamente, não se está a alegar a decadência para "revisão dos tetos", mas decadência para alterar/modificar o cálculo da RMI da pensão da autora.
+Sendo assim, a conclusão da sentença embasou-se em cálculo judicial equivocado, que merece ser refeito, respeitado o PBC de apenas nos 12 (doze) últimos salários-de-contribuição do segurado instituidor da pensão.
+Contudo, observa-se que o Tribunal de origem, mesmo provocado em sede de embargos declaratórios, quedou-se silente sobre argumentações que se mostram relevantes para o deslinde da controvérsia, em franca violação ao art. 1.022, II, do CPC.
+ANTE O EXPOSTO, dou provimento ao recurso especial, em ordem a anular o acórdão que apreciou os embargos de declaração e, por conseguinte, determinar o retorno dos autos ao Tribunal de origem a fim de que seja realizado novo julgamento com o expresso enfrentamento das questões aqui tidas por omitidas.
+Publique-se.
+EMENTA
