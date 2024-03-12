@@ -1,0 +1,44 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por BUNGE FERTILIZANTES S.A., contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 31/08/2023.
+Concluso ao gabinete em: 27/02/2024.
+Ação: Agravo de instrumento interposto por BUNGE FERTILIZANTES S.A. contra decisão que, nos autos da ação indenizatória por danos morais, afastou a ilegitimidade passiva da agravante, reconheceu a interrupção do prazo prescricional e aplicou o Código de Defesa do Consumidor, invertendo o ônus da prova.
+Decisão interlocutória: afastou a ilegitimidade passiva do agravante; reconheceu a interrupção do prazo prescricional; aplicou o CDC, invertendo o ônus da prova em favor do consumidor.
+Acórdão: negou provimento ao agravo de instrumento manejado pela agravante, nos termos da seguinte e menta:
+"AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA. DERRAMAMENTO DE ÁCIDO SULFÚRICO DO NAVIO BAHAMAS. DESASTRE AMBIENTAL. AÇÃO COLETIVA. INTERRUPÇÃO DA PRESCRIÇÃO. RELAÇÃO DE CONSUMO POR EQUIPARAÇÃO. CASO CONCRETO EM QUE NÃO HÁ ELEMENTOS SUFICIENTES PARA A REFORMA DA DECISÃO AGRAVADA. NO CASO CONCRETO, A PROPOSITURA DE AÇÃO CIVIL PÚBLICA INTERROMPEU O PRAZO PRESCRICIONAL PARA A DEMANDA INDIVIDUAL. AMBAS AS AÇÕES CONTÊM PEDIDO INDENIZATÓRIO E A MESMA CAUSA DE PEDIR, QUAL SEJA, O ACIDENTE AMBIENTAL EM RIO GRANDE NO ANO DE 1998. SABE-SE QUE É INERENTE À TUTELA COLETIVA A BUSCA POR SALVAGUARDAR OS INTERESSES INDIVIDUAIS, ESTANDO ACERTADO O ENTENDIMENTO DA ORIGEM. NÃO OBSTANTE, A QUESTÃO DA APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR E DA CONSEQUENTE INVERSÃO DO ÔNUS DA PROVA NÃO MERECE REPARO, UMA VEZ QUE A PARTE AGRAVADA SE TRATA DE CONSUMIDORA POR EQUIPARAÇÃO, VÍTIMA DE ACIDENTE. DECISÃO MANTIDA. AGRAVO DE INSTRUMENTO DESPROVIDO." (e-STJ, fls. 330).
+Embargos de Declaração: opostos pela agravante foram rejeitados.
+Recurso especial: alega violação dos arts. 313, V, "a", 373, I e § 2º, 489, §1º, IV, e 1.022, II, e parágrafo único, II, do Código de Processo Civil; 172 do Código Civil/1916; 189, 200 e 202 do CC/2002 e 6º, VIII, e 104 do CDC, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que a ação coletiva invocada não interrompe o prazo de prescrição. Aduz que, a demanda indenizatória foi ajuizada antes do trânsito em julgado da ação civil pública.
+Além disso, insurge-se contra a inversão do ônus da prova sob o argumento de que ocasionou prova diabólica em seu desfavor.
+Parecer do MPF: da lavra do I. Subprocurador-Geral da República Maurício Vieira Bracks , opinando pelo não provimento do agravo.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da alegada ocorrência do prazo prescricional, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Do exame do acórdão recorrido, constata-se que as questões de mérito foram devidamente analisadas e discutidas, de modo que a prestação jurisdicional foi esgotada.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Logo, não há contrariedade ao art. 489 do CPC, pois o Tribunal de origem decidiu de modo claro e fundamentado.
+No mesmo sentido: AgInt nos EDcl no AREsp 1547208/SP, TERCEIRA TURMA, DJe 19/12/2019 e AgInt no AREsp 1480314/RJ, QUARTA TURMA, DJe 19/12/2019.
+- Do reexame de fatos e provas
+O TJ/RS ao analisar o recurso interposto pela agravante acerca do não cabimento da interrupção da prescrição, bem como sobre a inversão do ônus da prova, concluiu o seguinte (e-STJ fls. 326/328):
+" ..  a coisa julgada no processo coletivo se estende ao plano individual justamente para proteger os direitos dos indivíduos relacionados à controvérsia, além de evitar a repetição de demandas, de modo que não faria sentido deixar de interromper a prescrição das ações individuais enquanto pendente de julgamento o feito coletivo versando sobre questão idêntica.
+É dominante o entendimento na doutrina e jurisprudência no sentido de haver interrupção da prescrição das pretensões individuais até que a demanda coletiva transite em julgado, ocasião em que inicia, aí, o cômputo do prazo prescricional para cada interessado, isoladamente - ou em litisconsórcio facultativo, como no presente -, promover o que entender de direito.
+ ..
+Destarte, considerando que a ação em tela versa sobre o mesmo fato da ação coletiva, qual seja, o dano ambiental em face do derramamento de muitas toneladas de ácido sulfúrico do Navio Bahamas no Porto de Rio Grande em agosto de 1998, e que na ação civil pública proposta pelo Ministério Público, ainda não transitada em julgado, existe pedido indenizatório, entendo que não há falar em prescrição na espécie.
+Do mesmo modo, a questão da aplicação do Código de Defesa do Consumidor e da consequente inversão do ônus da prova, em um primeiro momento, parecem se mostrar acertadas, uma vez que o agravado se trata de consumidor por equiparação, vítima de acidente, não havendo por que assim não se considerar."
+Desse modo, alterar o decidido no acórdão impugnado, quanto ao ponto, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da Súmula 568/STJ
+Demais disso, verifica-se que a decisão do TJ/RS alinhou-se à jurisprudência do STJ ao entender que o ajuizamento da ação coletiva interrompe o prazo prescricional da ação individual. Nesse sentido: REsp 1.641.167/RS, 3ª Turma, DJe de 20/03/2018; AgInt no REsp 1.546.406/RS, 3ª Turma, DJe de 19/03/2020; AgRg nos EDcl no REsp 1.385.854/RS, 3ª Turma, DJe de 31/10/2018.
+Saliente-se, por oportuno, que, consoante asseverado pela 3ª Turma no julgamento do REsp 1.641.167/RS, a interrupção do prazo prescricional para a ajuizamento de ação judicial que verse sobre interesse individual homogêneo ocorre ainda que a ação coletiva tenha versado sobre interesse difuso, na medida em que, nos termos do art. 103, § 3º, do CDC, "uma sentença julgada procedente em ação coletiva tem o efeito de tornar certa, de forma automática, a obrigação do réu de indenizar danos individuais decorrentes do mesmo ato ilícito discutido na demanda".
+Aplica-se, à hipótese, o disposto na Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. PESCADOR ARTESANAL. ACIDENTE AMBIENTAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRAZO PRESCRICIONAL. INTERRUPÇÃO. AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA SOBRE O MESMO FATO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação de compensação por danos morais, ajuizada por pescador artesanal em razão do dano ambiental decorrente de derramamento de ácido sulfúrico pelo navio Bahamas, que estava atracado no porto de Rio Grande/RS.
+2. Não ocorre ofensa aos arts. 489 e 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, examina fundamentada e expressamente todos os pontos relevantes para a solução da controvérsia, ainda que de forma distinta daquela pretendida pela parte.
+3. Consoante a jurisprudência firmada pelo STJ, a citação válida em ação coletiva, mesmo que versando sobre direitos difusos, configura causa interruptiva do prazo de prescrição para o ajuizamento da ação individual. Precedentes.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e não provido.
