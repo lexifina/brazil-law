@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. SENTENÇA ABSOLUTÓRIA AFASTADA PELO TRIBUNAL A QUO. AUSÊNCIA DE COMPROVAÇÃO DE QUE A SUBTRAÇÃO TENHA OCORRIDO COM VIOLÊNCIA OU GRAVE AMEAÇA. EXAME DE CORPO DE DELITO NÃO REALIZADO. SENTENÇA ABSOLUTÓRIA RESTABELECIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Os recorridos, denunciados pela prática do crime do art. 157, §2º, II do Código Penal, foram absolvidos pela sentença com fundamento na fragilidade das provas, sobretudo porque não houve comprovação da violência.
+2. O Tribunal de origem deu provimento ao recurso interposto pela acusação para condenar os recorrentes pela prática do crime previsto no art, 157, §2º, II do Código Penal, por terem os réus, em concurso de pessoas, subtraído da vítima, mediante violência e grave ameaça, um par de tênis da marca Fila.
+3. Considerando a fragilidade das provas para caracterizar o crime de roubo, onde se exige a comprovação de que a subtração tenha ocorrido com violência ou grave ameaça, e, sobretudo devido à ausência de exame de corpo de delito, deve ser mantida a decisão agravada, que restabeleceu a sentença absolutória.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra as decisões às e-STJ fls. 418-422 e 423-427 que conheceram dos agravos para dar provimento aos recursos especiais de ELBER DA SILVA MAIA e BRUNO ARAUJO FERREIRA a fim de restabelecer a sentença absolutória pela prática do crime do art. 157, §2º, II do Código Penal, nos termos do art. 386, VII, do Código de Processo Penal.
+O agravante alega, em síntese, com base nas provas produzidas nos autos que "a condenação dos agravados por roubo majorado pelo concurso de agentes é inexorável" (e-STJ fl. 447).
+Requer a reconsideração das decisões ou a submissão ao órgão colegiado para conhecer do agravo e prover parcialmente os recursos especiais, apenas para afastar o vetor culpabilidade do cálculo das penas-bases (e-STJ fls. 443-448).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. SENTENÇA ABSOLUTÓRIA AFASTADA PELO TRIBUNAL A QUO. AUSÊNCIA DE COMPROVAÇÃO DE QUE A SUBTRAÇÃO TENHA OCORRIDO COM VIOLÊNCIA OU GRAVE AMEAÇA. EXAME DE CORPO DE DELITO NÃO REALIZADO. SENTENÇA ABSOLUTÓRIA RESTABELECIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Os recorridos, denunciados pela prática do crime do art. 157, §2º, II do Código Penal, foram absolvidos pela sentença com fundamento na fragilidade das provas, sobretudo porque não houve comprovação da violência.
+2. O Tribunal de origem deu provimento ao recurso interposto pela acusação para condenar os recorrentes pela prática do crime previsto no art, 157, §2º, II do Código Penal, por terem os réus, em concurso de pessoas, subtraído da vítima, mediante violência e grave ameaça, um par de tênis da marca Fila.
+3. Considerando a fragilidade das provas para caracterizar o crime de roubo, onde se exige a comprovação de que a subtração tenha ocorrido com violência ou grave ameaça, e, sobretudo devido à ausência de exame de corpo de delito, deve ser mantida a decisão agravada, que restabeleceu a sentença absolutória.
+3. Agravo regimental desprovido.
+VOTO
+Pretende o Ministério Público Federal o restabelecimento da condenação dos recorridos pelo crime de roubo majorado.
+Os recorridos, denunciados pela prática do crime do art. 157, §2º, II do Código Penal, foram absolvidos pela sentença com fundamento na fragilidade das provas, sobretudo porque não houve comprovação da violência.
+O Tribunal de origem deu provimento ao recurso interposto pela acusação para condenar os recorrentes pela prática do crime previsto no art, 157, §2º, II do Código Penal, por terem os réus, em concurso de pessoas, subtraído da vítima, mediante violência e grave ameaça, um par de tênis da marca Fila.
+As decisões agravadas foram proferidas nos seguintes termos (e-STJ fls. 418-422 e 423-427):
+No caso, o exame da pretensão defensiva reclama somente o exame dos fundamentos constantes dos atos decisórios emanados da instância ordinária, especificamente o confronto entre a sentença absolutória e o acórdão que a reformou.
+A leitura dos fundamentos acima transcritos revela que, assim como consignado na sentença absolutória, não havia elementos suficientes para a imposição de um decreto condenatório.
+Na hipótese, não há certeza sobre a materialidade do crime de roubo, pois ausente comprovação de que a subtração tenha ocorrido com violência ou grave ameaça, diante da ausência de depoimento da vítima em juízo, bem como pelo fato de que não foi ela submetida a exame de corpo delito para comprovar as agressões relatadas na fase policial. Nessa ordem de ideias, na esteira da decisão de primeiro grau (sentença absolutória de fls. e-STJ 137-138) a prova para a condenação, baseada apenas nos depoimentos dos policiais é insuficiente.
+O direito penal não pode se contentar com suposições nem conjecturas, de modo que o decreto condenatório deve estar amparado em um conjunto fático probatório coeso e harmônico. Assim, havendo dúvida, por mínima que seja, deve ser em benefício do réu, com a necessária aplicação do princípio do in dubio pro reo (AgRg no AREsp n. 2.396.640/MT, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/10/2023, DJe de 31/10/2023).
+Assim, para a imposição de uma condenação criminal, faz-se necessário que seja prolatada uma sentença, após regular instrução probatória, na qual haja a indicação expressa de provas suficientes acerca da comprovação da autoria e da materialidade do delito, nos termos do art. 155 do Código de Processo Penal.
+Remanescendo dúvida sobre a materialidade do delito, imperiosa será a absolvição, visto que sobre a acusação recai o inafastável ônus de provar o que fora veiculado na denúncia.
+No caso, conforme já destacado, não foram produzidas provas que demonstrem que o agravante, juntamente com o corréu, teria praticado o crime que lhe foi imputado. Em suma, a fragilidade do acervo probatório não autoriza a manutenção da condenação.
+O acórdão condenatório considerou que "embora a vítima não tenha sido ouvida em juízo, na fase inquisitiva declarou que teve seus tênis roubados por dois indivíduos, tendo logo em seguida relatado o fato a uma guarnição composta pelo policial ouvido em juízo, a qual, logo em seguida, efetivou a prisão dos réus, ainda na posse do objeto roubado", e, ainda, que "certo que a palavra da vítima nos crimes da espécie em comento possui relevante valor probatório, uma vez que, em sua maioria, são praticados na clandestinidade, mormente quando corroboradas por outros meios de provas, como na hipótese, impõe-se a condenação dos réus como incursos no art. 157, §2º, inc. II, do CPB" (e-STJ fl. 293).
+No entanto, a sentença concluiu pela fragilidade das provas para caracterizar o crime de roubo, onde se exige a comprovação de que a subtração tenha ocorrido com violência ou grave ameaça, tendo o juízo de primeiro grau fundamentado que (e-STJ fl. 420):
+Analisando os autos verifica-se que a vitima não foi submetida a exame de corpo de delito.
+Deste modo, até mesmo a definição de um eventual outro crime é temerário ante a total falta de provas na fase judicial de como os fatos aconteceram.
+A testemunha não tem informações seguras sobre como o crime ocorreu, até porque não presenciou o fato e o relato que faz, a partir das informações passadas pela vitima são insuficientes para caracterizar a materialidade do crime de roubo.
+Com efeito, "o exame de corpo de delito direto, por expressa determinação legal, é indispensável nas infrações que deixam vestígios, podendo apenas supletivamente ser suprido pela prova testemunhal quando tenham estes desaparecido, ex vi do art. 167 do Código de Processo Penal" (REsp n. 1.001.506/RS, relator Ministro Felix Fischer, Quinta Turma, julgado em 19/6/2008, DJe de 6/10/2008).
+Dessume-se, portanto, das razões recursais que o agravante não trouxe elementos suficientes para reverter a decisão agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
