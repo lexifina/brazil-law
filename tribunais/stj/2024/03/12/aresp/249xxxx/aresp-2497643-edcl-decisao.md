@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por LUCIMEIA DE FATIMA MAGOSSO à decisão de fls. 343/344, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Data vênia, em que pese o brilhantismo da r. Relatora., a r. decisão não merece prosperar, isso porque, salvo outro entendimento o feriado de "corpus christi" é de conhecimento nacional, principalmente do Distrito Federal, onde inclusive o STJ só funcionou naquela data a título de plantão, portanto, data vênia, não conhecer do agravo por entender que a embargante deveria comprovar o feriado como local, em que pese o respeito fica evidenciado flagrante cerceamento de defesa.
+ ..
+Note V. Exa., conforme se verifica que a data do feriado de "corpus christi" é concebida em quase todos os Estados Brasileiros, portanto é de conhecimento público e notorio, vejamos:
+ ..
+Note ainda que a embargada frisou a tempestividade do recurso no agravo, mas entendendo que por ser feriado de conhecimento público e notório, como dito, inclusive em Brasília e mais 13 Estados Brasileiros, seria dispensável a sua menção especifica, pois assim se manifestou, vejamos: (fl. 350).
+O presente recurso é tempestivo, eis que foi disponibilizada no DJ do dia 01/06/2023. A referida publicação deu-se em 02/06/2023 (sexta-feira), iniciando-se o prazo no primeiro dia útil subsequente, qual seja, 05/06/2023 (segunda-feira). Dessa forma, sendo de 15 (quinze) dias úteis o prazo para interposição de Agravo contra a decisão denegatória de Recurso Especial (art.
+1.042,§ 3º do CPC), tem-se como termo final para apresentação da insurgência e o dia 27/06/2023 (terça-feira)".
+ ..
+Deve ser considerado ainda por V. Exa., data vênia, a aplicação do princípio da primazia do mérito e reclamado ainda a incidência do art. 932, parágrafo único, bem como, seja cotejado o princípio do livre e efetivo acesso à justiça.
+ ..
+Data vênia, qualquer cidadão do Distrito Federal, tinha e tem conhecimento que o STJ não iria funcionar, pois no dia 08 e 09/06/2023 o STJ estaria fechado, pois feriado de "corpus christi" (fl. 351).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp n. 2.227.508/BA, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/5/2023, DJe de 27/6/2023; AgInt nos EDcl no AREsp n. 2.270.942/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 5/6/2023, DJe de 7/6/2023; e AgInt no AREsp n. 2.280.536/BA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/5/2023, DJe de 24/5/2023.
+Ressalta-se que feriado nacional não precisa ser comprovado. Porém, os dias 8/6/2023 e 9/6/2023 são supostamente feriados locais, razão pela qual deveriam ter sido comprovados no momento da interposição do recurso.
+Outrossim, "a existência de recesso forense e suspensão de prazos processuais nos Tribunais de Justiça não se presume público e notório em âmbito nacional" (AgInt no AREsp 1641985/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/08/2021, DJe 18/08/2021.)
+Observe ainda que, "a jurisprudência desta Corte Superior entende que segunda-feira de carnaval, quarta-feira de cinzas, dias da Semana Santa que antecedem a Sexta-Feira da Paixão, Corpus Christi e Dia do Servidor Público são considerados feriados locais para fins de comprovação da tempestividade recursal" (AgInt nos EDcl no AREsp 1639906/ES, relator Ministro Marco Buzzi, Quarta Turma, DJe 24/06/2022).
+Ainda, "O feriado de Corpus Christi não é considerado um feriado nacional, sendo imprescindível a comprovação de suspensão do expediente forense na origem. Precedente." (AgInt no AREsp 2413724/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgamento em 04/12/2023, DJe 07/12/2023.)
+Além do mais, para a aferição da tempestividade do recurso dirigido ao STJ, é indiferente que tenha havido ou não expediente forense nesta Corte, pois o agravo e o recurso especial interpostos são endereçados ao presidente do tribunal a quo, regendo-se o respectivo prazo, em matéria de recesso forense e feriados, pela legislação local. Nesse sentido, o AgInt nos EDcl no AREsp 1482882/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 14/5/2020 e o AgInt no AREsp 1514470/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 5/12/2019.
+Ademais, não há que se falar na aplicação do art. 932, parágrafo único, do CPC, uma vez que somente é utilizado para os vícios sanáveis. Com o advento do CPC de 2015, a comprovação posterior da tempestividade é vedada de forma expressa, tornando este vício insanável. Do mesmo modo, não se aplica o princípio da primazia do julgamento do mérito.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. APLICAÇÃO DO PRAZO CONFERIDO AO ART. 932 DO CPC/2015. IMPOSSIBILIDADE. 2. PRIMAZIA DO MÉRITO. INAPLICABILIDADE. 3. JULGAMENTO DO RECURSO POR DECISÃO MONOCRÁTICA. POSSIBILIDADE. INEXISTÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. 4. INTERPOSIÇÃO DO APELO ESPECIAL APÓS O TRANSCURSO DO PRAZO RECURSAL. 5. SOBRESTAMENTO DO FEITO. NÃO CABIMENTO. 6. AGRAVO IMPROVIDO.
+1. De fato, "o prazo conferido pelo parágrafo único do art. 932 do NCPC somente é aplicável aos casos em que seja possível sanar vícios formais, como ausência de procuração ou de assinatura, e não à complementação da fundamentação ou de comprovação da intempestividade" (AgInt no AREsp 1.168.064/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 15/03/2018, DJe 20/03/2018).
+2. Consoante orientação desta Corte, "em se tratando de vício insanável, não há que se falar em aplicação do princípio da primazia de julgamento de mérito" (AgInt no AREsp 1.327.349/MG, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 27/11/2018, DJe 10/12/2018).
+ ..
+4. Nos termos do art. 219, c/c o art. 1.003, § 5º, ambos do Código de Processo Civil de 2015, é intempestivo o recurso interposto com fundamento na respectiva lei adjetiva após escoado o prazo de 15 (quinze) dias úteis.
+5. Não conhecido o recurso especial, não há falar em suspensão do julgamento da irresignação, nos moldes em que postulado pela agravante, visto que o apelo extremo nem mesmo ultrapassou o exame de admissibilidade.
+6. Agravo interno a que se nega p rovimento.
+(AgInt no AREsp 1622314/SE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, Dje de 12/06/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
