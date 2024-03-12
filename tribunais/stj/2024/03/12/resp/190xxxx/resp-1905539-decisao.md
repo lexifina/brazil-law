@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por AGRIMCO AGRO INDUSTRIAL DE MADEIRAS LTDA contra v. acórdão do eg. Tribunal de Justiça do Estado do Mato Grosso, assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO FORÇADA. RESISTÊNCIA OFERTADA. MAJORAÇÃO DOS HONORÁRIOS, POR NÃO HAVER O PAGAMENTO IMEDIATO DO VALOR EXEQUENDO. POSSIBILIDADE. RECURSO DESPROVIDO. AGRAVO INTERNO PREJUDICADO.
+1. O artigo 300 do novo CPC autoriza o julgador a antecipar os efeitos da tutela pretendida no pedido inicial, desde que haja elementos que evidenciem a probabilidade do direito e o receio de dano irreparável ou de difícil reparação.
+2. "Não tendo ocorrido o pagamento imediato do valor exequendo, bem como a apresentação formal de resistência, mediante a interposição de embargos à execução (autos nº 188- 69.2003.8.10.0022)", cabível a majoração dos honorários anteriormente arbitrados, conforme teor do art. 85, caput, c/c §§ 1º e 2º do CPC.
+3. No caso dos autos, não restaram demonstrados os requisitos para concessão da medida liminar, pelo que deve ser mantida a decisão agravada. Agravo de Instrumento desprovido, e interno prejudicado.
+Os embargos de declaração foram rejeitados, vide acórdão de fls. 652-661.
+Nas razões do recurso especial, a parte recorrente alega ofensa aos arts. 489 e 1.022 do CPC/2015. Sustenta, em síntese, que, "de acordo com os documentos comprobatórios juntados nestes autos, a parte efetivamente demonstrou que o Acordo Extrajudicial firmado com o BANCO DO NORDESTE DO BRASIL S/A, com o intuito de por fim a fase de cumprimento de sentença, que consistia em PROPOSTA DE QUITAÇÃO DE HONORÁRIOS SUCUMBENCIAIS ARBITRADOS, transigidos na quantia total e ilíquida de R$140.000,00 (cento e quarente mil reais), foi homologado judicialmente nos autos de nº 188-69.2003.8.10.0022 (188/203), e INTEGRALMENTE CUMPRIDO. E que apesar de opostos embargos de declaração nos autos da ação de execução n. 00774-77.2001.8.10.0022, para pugnar pela justa reforma do decisum que majorou os honorários advocatícios anteriormente fixados em 5%, para 10%, pela suposta inocorrência de pagamento imediato e interposição de embargos à execução, suscitando a exclusão das verbas relativas aos honorários advocatícios fixados, ou a manutenção do percentual anteriormente arbitrado de 5%, incidentes sobre o valor da causa, o recurso restou improvido." (fls. 690-691)
+É o relatório. Decido.
+A irresignação não merece prosperar.
+No tocante aos temas tidos por omissos pelo Tribunal de origem, extrai-se do acórdão estadual os seguintes trechos:
+No caso, a decisão agravada mostra-se acertada, ainda mais quando se verifica que o magistrado singular, aplicando à espécie a legislação vigente, tendo observado que "não tendo ocorrido o pagamento imediato do valor exequendo, e havendo a apresentação formal de resistência, mediante a interposição de embargos à execução (autos nº 188-69.2003.8.10.0022)", majorou os honorários anteriormente arbitrados em 5% para 10%, conforme teor do art. 85, caput, c/c §§1º e 2º do CPC.
+Não obstante, não restando demonstrados o fumus boni iuris e o periculum in mora, deve ser mantida a decisão agravada.
+Em sede de embargos de declaração, os quais integram o acórdão estadual, assim restou assentado:
+No caso, observo que os honorários de 5% foram anteriormente arbitrados para o caso de pagamento imediato da dívida e, não tendo ocorrido o pagamento imediato do valor exequendo, e apresentada peça de resistência, mediante a interposição de embargos à execução (autos n.º 188- 69.2003.8.10.0022), os honorários foram majorados para o percentual de 10% (dez por cento), conforme teor do art. 85, caput, c/c §§1º e §2º do CPC.
+Restou assentado no decisum embargado que "a decisão agravada mostra-se acertada, ainda mais quando se verifica que o magistrado singular, aplicando à espécie a legislação vigente, tendo observado que "não tendo ocorrido o pagamento imediato do valor exequendo, e havendo a apresentação formal de resistência, mediante a interposição de embargos à execução (autos nº 188-69.2003.8.10.0022)", majorou os honorários anteriormente arbitrados em 5% para 10%, conforme teor do art. 85, caput, dc §§1 c . e 2º do CPC".
+Por essa razão, neguei provimento ao agravo. Verifica-se, então, que as alegações trazidas pelo embargante foram apreciadas no acórdão embargado, e o simples fato de a decisão recorrida ser contrária aos interesses da parte não configura nenhum dos vícios a serem sanados por esta via recursal.
+Inexistindo, portanto, no julgado qualquer dos vícios previstos no art. 1.022, I, II e III, do CPC, e tratando-se os presentes embargos de declaração de mera discordância do embargante sobre o que foi decidido na decisão embargada, não merece acolhida este recurso, devendo a parte inconformada socorrer-se de outros meios adequados para demonstrar sua discordância com os termos do julgado embargado.
+Da detida leitura do v. acórdão estadual e das razões recursais, infere-se que o eg. Tribunal a quo analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação, motivo pelo qual deve ser rejeitada a alegada violação ao art. 1.022 do CPC/2015.
+Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. As questões postas à discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla, fundamentada e sem omissões, portanto, deve ser afastada a alegada violação ao artigo 1.022 do CPC/15.
+(..)
+3. Agravo interno desprovido." (AgInt no AREsp 1447412/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/05/2019, DJe 22/05/2019 - grifou-se)
+"AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE TÍTULO DE CRÉDITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. PROTESTO INDEVIDO. REEXAME FÁTICO DOS AUTOS. SÚMULA N. 7/STJ. APLICAÇÃO DA SÚMULA N. 385/STJ. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. SÚMULA N. 283/STF.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão, contradição ou negativa de prestação jurisdicional.
+(..)
+4.
+Agravo interno a que se nega provimento."
+(AgInt nos EDcl no AREsp 1324793/MT, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 14/05/2019, DJe 20/05/2019 - grifou-se)
+Com essas considerações, conclui-se que o apelo não merece prosperar.
+Diante do exposto, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
