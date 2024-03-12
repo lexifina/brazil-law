@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, julgar extinta a tutela provisária de Dhiego Carvalho Santos Rocha; julgar prejudicado o agravo interno da União, nos termos do voto do Sr. Ministro-Relator.
+Os Srs. Ministros Mauro Campbell Marques, Afrânio Vilela e Francisco Falcão votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL. TUTELA PROVISÓRIA. NÃO CONHECIMENTO DO RECURSO ESPECIAL 1.848.367/SC. PERDA DE OBJETO.
+1. Ao julgar o Recurso Especial 1.848.367/SC, conexo a esta Tutela Provisória, a Segunda Turma decidiu: "Na forma da jurisprudência do Superior Tribunal de Justiça, em regra, "fica prejudicado, por perda de objeto, o exame de Recurso Especial interposto contra acórdão proferido em Agravo de Instrumento de decisão liminar ou de antecipação de tutela, na hipótese de já ter sido prolatada sentença de mérito" (STJ, AgRg no AREsp 307.087/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 25/6/2014). (..) Dar continuidade ao debate no Superior Tribunal de Justiça representa antecipação de julgamento de causa ainda não decidida em última instância (art. 105, III, da Constituição Federal), o que encontra óbice na Súmula 735/STF".
+2. Segundo a jurisprudência do STJ, a "decisão que julga o recurso especial, ainda que não transitada em julgado, prejudica a medida cautelar que buscava lhe conferir efeito suspensivo, por perda de objeto" (AgInt na MC n. 23.989/AM, Rel. Min. Nancy Andrighi, Terceira Turma, DJe de 16/11/2020).
+3. Pedido de Tutela Provisória julgado extinto sem resolução de mérito, por perda do objeto. Agravo Interno prejudicado.
+RELATÓRIO
+Trata-se de Pedido de Tutela Provisória vinculado ao Recurso Especial 1.848.367/SC, em que o recorrente pleiteia seu imediato retorno ao Curso de Formação Profissional, do qual foi desligado no dia 27.8.2019.
+Deferi o pedido sob os fundamentos que seguem:
+Na espécie, ressalta-se ainda que, embora não tenha sido realizado o juízo de admissibilidade do apelo extremo, a Vice-Presidência do Tribunal Regional Federal da 4ª Região já analisou o pedido de atribuição de efeito suspensivo ao Recurso Especial, indeferindo-o (fls. 530-535, e-STJ), razão pela qual, a princípio, não há óbice a que o presente pedido de Tutela Provisória de Urgência possa ser deduzido perante o STJ.
+Por seu turno, como dito acima, a concessão de efeito suspensivo a Recurso Especial demanda a demonstração inequívoca do periculum in mora, evidenciado pela urgência da prestação jurisdicional a fim de evitar dano de difícil ou incerta reparação, e do fumus boni iuris, consistente na plausibilidade do direito alegado, capaz de denotar a possibilidade de êxito do apelo nobre.
+In casu, o requerente afirma que o fumus boni iuris está caracterizado porquanto o pleito "está todo fundamentado em Leis Federais e em precedentes dos Tribunais Pátrios, inclusive, do Egrégio Superior Tribunal de que a aferição da compatibilidade da deficiência (visão monocular) com o cargo pretendido (Perito Criminal Federal/ Área 3) deve ocorrer durante o estágio probatório, e não na fase da Avaliação Médica do Certame".
+Aduz:
+ ..  Manifesta, ademais, que ""os acórdãos guerreados, ao ratificarem a decisão do juízo de primeiro grau que assentou que a aferição da "compatibilidade se dá pelo exame médico" "e, na espécie, o laudo médico extrajudicial, que goza de presunção de boa-fé e legitimidade, informa a incompatibilidade da deficiência com a função pública postulada", devendo "prevalecer" a presunção de legitimidade do ato administrativo", eliminou, sumariamente, o candidato do concurso Público por ter visão monocular, contrariou Leis Federais - o art. 5º, § 2º, da Lei nº 8.112; o art. 37, do Decreto nº 3.298 de 1999; o art. 1º , inciso I, § 1º, do Decreto nº 9.508 de 2018 e a súmula nº 377, do STJ - que dão concretude ao princípio constitucional da reserva de vagas às pessoas com deficiência (art. 37, VIII, da CF/88)".
+No que tange ao periculum in mora, consigna o requerente que "o perigo de dano ou o risco ao resultado útil do processo também resta configurado desde o momento em que o requerente foi ELIMINADO do Certame pela Banca Examinadora (Evento 1, EXMMED13, dos autos originários) e, no dia 27/08/19, DESLIGADO do Curso de Formação Profissional, em decorrência dos acórdãos impugnados que negaram provimento ao Agravo de Instrumento (Eventos 17 e 43, do Ag.n o 5007960-06.2019.4.04.0000)".
+Assevera:
+ ..
+Desse modo, da leitura dos argumentos expendidos, constato, ao menos nesta análise perfunctória - que não deve ser interpretada como antecipação do mérito do recurso a ser apreciado -, a presença da plausibilidade do direito invocado a recomendar que as questões suscitadas, por sua relevância, possam ser analisadas de maneira percuciente no âmbito do julgamento do Recurso Especial, sob o enfoque dos dispositivos legais acima mencionados.
+Além disso, há que se considerar a indiscutível possibilidade da ocorrência de dano irreparável, ante a deliberação do Tribunal de origem que negou provimento ao Agravo de Instrumento, mantendo, na íntegra, a decisão do juízo de piso que indeferiu a Antecipação da Tutela, afastando, por conseguinte, o requerente do certame, sendo ele desligado do Curso de Formação Profissional, que é uma etapa de caráter eliminatório e condição para a classificação e escolha de lotação dos candidatos, conforme prevê o subitem 21.1 do Edital de Abertura.
+Ante o exposto, defiro a Antecipação de Tutela Recursal, a fim de atribuir efeito suspensivo ao Recurso Especial, determinando o retorno de imediato do requerente para o Curso de Formação Profissional, do qual foi desligado no dia 27/8/2019 e que está sendo realizado no Distrito Federal.
+Determino que sejam abonadas todas as faltas e todas as provas e exames do período do afastamento aplicados pelo Instituição de Ensino Profissional da Polícia Federal, de modo que não fique prejudicado na nota final do curso.
+Contra a referida decisão, a União interpôs Agravo Interno, alegando:
+Mostra-se imprescindível advertir de que fora proferida sentença de improcedência (em 09.10.2019) na ação ordinária n. 5004240-62.2019.4.04.7200/SC, da qual se extraiu o agravo de instrumento que originou o recurso especial, objeto da tutela provisória ora em análise, pelo que há perda superveniente do objeto recursal.
+ ..  É manifesta a ausência de interesse recursal e eventual irresignação terá que ser realizada em juízo de cognição exauriente, exatamente porque este, ao decidir no mesmo sentido daquela que indeferira a antecipação da tutela, substituiu aquela no mundo jurídico.
+Impugnação às fls. 1362-1465, e-STJ, na qual o autor assim se manifesta:
+No agravo Interno (e-STJ Fl. 1350 a e-STJ Fl. 1353), a União requer, tão somente, a reforma da decisão impugnada sob alegação de suposta perda superveniente do objeto recursal, em razão de ter proferida sentença de improcedência na ação ordinária. Ocorre que a Agravante deixou de mencionar que o juízo a quo ao proferir a sentença, manteve, expressamente, "os efeitos do deferimento da medida liminar pelo Superior Tribunal de Justiça no âmbito do Pedido de Tutela Provisória 2309/SC enquanto perdurar referida decisão judicial".
+Além da peça de Agravo interno não ter atacado, especificamente, nenhum ponto da decisão recorrida, como restará demonstrado, esta não merece qualquer reparo, posto que está em perfeita consonância com a legislação e os precedentes do STJ que assentam que a aferição da deficiência com as atribuições do cargo deve ocorrer durante o estágio probatório.
+O Ministério Público Federal opinou pela prejudicialidade do Recurso Especial às fls. 1469-1471, e-STJ.
+Memoriais apresentados pela União informando e requerendo (1476-1481, e-STJ):
+ ..  que foi proferida sentença de improcedência (em 09.10.2019) na ação ordinária n. 5004240-62.2019.4.04.7200/SC, da qual se extraiu o agravo de instrumento que originou o recurso especial objeto da tutela provisória ora em análise, pelo que há perda superveniente do objeto recursal, conforme se verifica em remansosa jurisprudência desta Corte.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TUTELA PROVISÓRIA. NÃO CONHECIMENTO DO RECURSO ESPECIAL 1.848.367/SC. PERDA DE OBJETO.
+1. Ao julgar o Recurso Especial 1.848.367/SC, conexo a esta Tutela Provisória, a Segunda Turma decidiu: "Na forma da jurisprudência do Superior Tribunal de Justiça, em regra, "fica prejudicado, por perda de objeto, o exame de Recurso Especial interposto contra acórdão proferido em Agravo de Instrumento de decisão liminar ou de antecipação de tutela, na hipótese de já ter sido prolatada sentença de mérito" (STJ, AgRg no AREsp 307.087/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 25/6/2014). (..) Dar continuidade ao debate no Superior Tribunal de Justiça representa antecipação de julgamento de causa ainda não decidida em última instância (art. 105, III, da Constituição Federal), o que encontra óbice na Súmula 735/STF".
+2. Segundo a jurisprudência do STJ, a "decisão que julga o recurso especial, ainda que não transitada em julgado, prejudica a medida cautelar que buscava lhe conferir efeito suspensivo, por perda de objeto" (AgInt na MC n. 23.989/AM, Rel. Min. Nancy Andrighi, Terceira Turma, DJe de 16/11/2020).
+3. Pedido de Tutela Provisória julgado extinto sem resolução de mérito, por perda do objeto. Agravo Interno prejudicado.
+VOTO
+Ao julgar o Recurso Especial 1.848.367/SC, Segunda Turma decidiu:
+Conforme se colhe dos autos às fls. 654-663, e-STJ, e em consulta realizada no sítio eletrônico do Tribunal a quo, pode-se verificar que, em 9.10.2019, houve prolação de sentença de improcedência na Ação Ordinária 5004240-62.2019.4.04.7200/SC, da qual se extraiu o Agravo de Instrumento que originou o Recurso Especial ora em análise. (..)
+(..)
+Nos termos da jurisprudência do STJ, a superveniência da sentença de mérito no feito principal, em regra, enseja a perda de objeto de Recursos anteriores que versem sobre questões resolvidas por decisão interlocutória combatida via Agravo de Instrumento.
+O entendimento deve ser seguido no presente caso, especialmente porque a questão controvertida, ao menos nos termos em que resolvida pela sentença, não é apenas de direito. Após cognição exauriente, diante do contexto fático-probatório dos autos, o juiz de primeiro grau julgou improcedente a ação, devendo prevalecer, então, o critério da cognição, e não da hierarquia.
+(..)
+Com efeito, dar continuidade a este debate no Superior Tribunal de Justiça representa antecipação de julgamento, causa ainda não decidida em última instância (art. 105, III, da Constituição Federal), o que encontra óbice na Súmula 735/STF.
+(..)
+Diante do exposto, não conheço do Recurso Especial.
+Segundo a jurisprudência desta Corte Superior, a "decisão que julga o recurso especial, ainda que não transitada em julgado, prejudica a medida cautelar que buscava lhe conferir efeito suspensivo, por perda de objeto" (AgInt na MC n. 23.989/AM, Rel. Min. Nancy Andrighi, Terceira Turma, DJe de 16/11/2020).
+Na mesma esteira :
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO EM TUTELA PROVISÓRIA. AÇÃO DE CONSTITUIÇÃO DE SERVIDÃO DE MINA. IMISSÃO PROVISÓRIA NA POSSE. EFEITO SUSPENSIVO DEFERIDO A RECURSO ESPECIAL POSTERIORMENTE NÃO ADMITIDO. PERDA DO OBJETO. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO.
+1. Cuida-se, na origem, de Ação de Constituição de Servidão de Mina na qual o Tribunal a quo, apreciando Agravo de Instrumento, deferiu liminar de imissão provisória na posse.
+2. Referida decisão, após aclaratórios rejeitados, foi desafiada por Recurso Especial ao qual, antes do processamento, foi conferido efeito suspensivo, o que deu ensejo a Pedido de Tutela Provisória, para que fosse revogada tal suspensão de efeito.
+3. Após regular processamento, o Recurso Especial não foi admitido, cessando-se, portanto, a suspensão dos efeitos da decisão recorrida.
+4. Interposto Agravo em Recurso Especial (AREsp 2.198.204/MG), que foi conhecido para dar provimento ao apelo nobre, determinando-se o retorno dos autos à Corte de origem, para novo julgamento dos Embargos de Declaração, a fim de que haja manifestação específica sobre preliminar arguída.
+5. A presente demanda deve ser julgada extinta sem resolução de mérito em razão da perda do objeto. Não há mais interesse processual no prosseguimento deste incidente (AgInt no TP 3.017/MG, Rel. Min. Herman Benjamin, Segunda Turma, DJe 19.12.2022; AgInt no TP 707/RN.
+Rel. Min. Assusete Magalhães, Segunda Turma, DJe 14.12.2022).
+6. Pedido de Tutela Provisória julgado extinto sem resolução de mérito, por perda do objeto, e prejudicado o Agravo Interno.
+(TP n. 3.604/MG, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 5/6/2023)
+PROCESSUAL CIVIL. AGRAVO INTERNO. PEDIDO DE TUTELA PROVISÓRIA. ATRIBUIÇÃO DE EFEITO SUSPENSIVO A AGRAVO EM RECURSO ESPECIAL. PERDA DO OBJETO DECORRENTE DO JULGAMENTO DO RECURSO PRINCIPAL. AGRAVO INTERNO PREJUDICADO.
+1. Desprovido o recurso principal ao qual o presente pedido de tutela provisória visava atribuir efeito suspensivo, tem-se por fulminado o interesse processual, não mais subsistindo os requisitos autorizadores do provimento acautelatório.
+2. Perda do objeto que pode ser declarada independentemente do trânsito em julgado da decisão de desprovimento do recurso principal.
+3. Agravo interno prejudicado.
+(AgInt no TP n. 4.034/DF, Rel. Min. Paulo Sérgio Domingues, Primeira Turma, DJe de 22/6/2023)
+Logo, é o caso de reconhecer a perda superveniente do objeto da TP.
+Por isso, extingo o Pedido de Tutela Provisória sem resolução do mérito.
+Agravo Interno da União prejudicado.
+É como voto.
