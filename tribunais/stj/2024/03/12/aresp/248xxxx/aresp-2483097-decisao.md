@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por LOGOS LOGISTICA E TRANSPORTES PLANEJADOS LTDA. contra decisão que inadmitiu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO DE FUNDAMENTAÇÃO VINCULADA. AUSÊNCIA DE DISTINÇÃO RELEVANTE. ACÓRDÃO DO ÓRGÃO FRACIONÁRIO EM CONFORMIDADE COM O ENTENDIMENTO EMANADO PELO PRECEDENTE. AGRAVO DESPROVIDO.
+Opostos embargos de declaração foram rejeitados.
+No recurso especial, fundamentado na alínea "a " do permissivo constitucional, o recorrente sustenta violação aos artigos 805 e 835, §1º, do CPC/2015.
+Defende que não pode ocorrer a recursa injustificada dos títulos apresentados com o fim de desbloqueio de bens e ativos, tendo em vista que tal cenário inviabiliza a atividade empresarial da recorrente.
+Contrarrazões ao recurso especial às fls. 150/155.
+O Tribunal de origem inadmitiu o recurso especial por meio da decisão de fls.
+Insurge-se o agravante contra essa decisão afirmando que, ao contrário do que supõe a origem, o recurso especial reúne condições de processamento.
+É o relatório. Decido.
+Presentes os pressupostos de admissibilidade do agravo, passo a análise do recurso especial.
+Antes de tudo, a decisão de origem negou seguimento ao recurso especial aplicando tese consolidada em sede de repetitivo proferido pelo STJ (Tema 578).
+Cumpre asseverar que a decisão de inadmissibilidade do especial proferida pelo Tribunal a quo, em parte foi baseada no artigo 1.030, § 2º, do CPC/2015, que é expresso ao prever o cabimento de agravo interno contra decisão que, especado no artigo 1.030, I, b, do CPC/2015, nega seguimento ao recurso especial.
+Destarte, inviável o presente agravo em recurso especial quanto ao ponto relacionado ao tema mencionado.
+Passo, portanto, a análise da matéria remanescente.
+Consta do v. acórdão de origem:
+A Jurisprudência do C. ST J assentou o entendimento, inclusive em sede (art. 543-C do CPC de 1973), no julgamento do REsp de recurso repetitivo1.090.898/SP, Rel. Min. Castro Meira, no sentido de ser lícita a recusa do bem indicado à penhora ou à substituição da penhora, quando ele não obedecer à ordem legal, conforme elucida os seguintes precedentes  ..  Ademais, a execução se faz em benefício do credor. O artigo 805 do Código de Processo Civil, ao estabelecer que a execução deve ser processada pelo modo menos gravoso ao devedor, não visou, por outro lado, inviabilizar ou dificultar o recebimento do crédito pelo credor.  ..  Ademais, vale ressaltar que o fato de o E. Superior Tribunal de Justiça já ter declarado a possibilidade da penhora de debêntures, por possuírem cotação embolsa, não obriga a aceitá-las, visto que o artigo 11 da LEF dá preferência ao dinheiro.  ..  No caso dos autos, o bem oferecido à penhora não obedeceu à ordem legal. Portanto, legítima a recusa da Fazenda Nacional.
+Nesse contexto, verifica-se que, para se adotar qualquer conclusão em sentido contrário ao que ficou expressamente consignado no acórdão atacado  para infirmar a conclusão do aresto recorrido acerca da inexistência da menor onerosidade ao devedor  , é necessário o reexame de matéria de fato, inclusive com o cotejamento de peças processuais, o que é inviável em sede de recurso especial, tendo em vista o disposto na Súmula 7/STJ.
+Ilustrativamente:
+PROCESSUAL CIVIL E TRIBUTÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. EXECUÇÃO FISCAL DE CRÉDITO TRIBUTÁRIO. FIANÇA BANCÁRIA E SEGURO-GARANTIA. EQUIPARAÇÃO A DEPÓSITO EM DINHEIRO. PRINCÍPIO DA MENOR ONEROSIDADE. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. PENHORA EM DINHEIRO. PREFERÊNCIA SOBRE OUTROS ATIVOS. SUBSTITUIÇÃO. PREVALÊNCIA DO PRINCÍPIO DA SATISFAÇÃO DO CREDOR. NECESSIDADE DE ANUÊNCIA DA FAZENDA PÚBLICA. PRECEDENTES. SÚMULA 83/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AGRAVO INTERNO NÃO PROVIDO.  ..  4. Observa-se que o órgão julgador decidiu a questão após percuciente análise dos fatos e das provas relacionados à causa. Infirmar o entendimento assentado no aresto impugnado, a respeito da ausência de demonstração de situação excepcional para a aplicação do princípio da menor onerosidade, passa por revisitar o acervo fático-probatório. Tal procedimento é vedado em Recurso Especial, consoante a Súmula 7 do Superior Tribunal de Justiça.  ..  9. Agravo Interno não provido. (AgInt no AREsp n. 1.844.031/GO, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/6/2023, DJe de 27/6/2023.)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
