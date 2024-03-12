@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ADOLFO PABLO MENESCAL MOURÃO apontando como autoridade coatora o Tribunal de Justiça do Estado de Alagoas (HC n. 0800071-58.2024.8.02.9002).
+Infere-se dos autos que o paciente foi preso em 1/2/2024, em decorrência de decreto de prisão temporária, por suposta infração ao art. 1º da Lei n. 9.613/1998, ao art. 2ª, § 4º, IV, da Lei n. 12.850/2013 e ao art. 33, caput, da Lei n. 11.343/2006. Em 1/3/3024, a custódia foi convertida em preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual deixou de analisar o pleito liminar, por considerar que "não foi demonstrada a urgência necessária para apreciação deste feito por este Juízo Plantonista" (e-STJ fl. 25).
+Na presente impetração, a defesa alega, em síntese, que o decreto prisional do paciente está embasado apenas no risco de reiteração delitiva "sem apresentar qualquer individualização das condutas e sem indicar um único fundamento para o decreto de exceção, e sem nem ao menos mencionar a possibilidade de aplicação das medidas cautelares alternativas" (e-STJ fl. 7).
+Insiste que "a representação, e nem tampouco o decreto prisional, aponta qualquer relação dele com os crimes investigados, ou com os acusados e presos preventivamente" (e-STJ fl. 9).
+Sustenta não estarem presentes os requisitos autorizadores da medida constritiva cautelar previstos no art. 312 do CPP.
+Acrescenta que a custódia do paciente padece de contemporaneidade, pois as investigações se iniciaram em 16/3/2021 e não há no decreto nenhum fato atual que justifica a aplicação da medida extrema.
+Sublinha ser o paciente primário, detentor de bons antecedentes, além de possuir residência fixa e ocupação lícita.
+Diante disso, requer, em liminar e no mérito, a revogação da prisão preventiva do paciente ou, subsidiariamente, a sua substituição por medidas cautelares alternativas.
+É o relatório. Decido.
+De plano, verifica-se que as teses suscitadas pela defesa não foram examinada pelo Tribunal a quo, no decisum juntado às e-STJ fls. 22/27, o qual Desembargador Plantonista se limitou a afirmar que "está evidenciada a ausência do requisito da urgência para apreciação do pedido excepcional por este Juízo Plantonista, em sede de expediente extraordinário." e a determinar a distribuição do feito por prevenção ao Desembargador Relator.
+"Desse modo, como os argumentos apresentados pela Defesa não foram examinados pelo Tribunal de origem no acórdão ora impugnado, as matérias não podem ser apreciadas por esta Corte nesta oportunidade, sob pena de indevida supressão de instância" (AgRg no HC n. 820.927/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/9/2023, DJe de 14/9/2023.).
+No mesmo sentido, é entendimento da Corte Maior que " o  exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC n. 129.142, Relator Ministro MARCO AURÉLIO, Relator p/ Acórdão Ministro ALEXANDRE DE MORAES Primeira Turma, DJe de 10/8/2017; RHC n. 111.935, Relator Ministro LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC n. 97.009, Relator p/ Acórdão: Ministro TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC n. 118.189, Relator Ministro RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014)". (HC n. 179.085, Relator Mi nistro Marco Aurélio, Primeira Turma, julgado em 05/08/2020, DJe 25/09/2020).
+Ante o exposto, indefiro liminarmente o presente mandamus.
+Intimem-se.
+EMENTA
