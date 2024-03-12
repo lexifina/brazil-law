@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 12/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS. PLANO DE SAÚDE. FORNECIMENTO DE MATERIAL CIRÚRGICO E PRÓTESE. RECUSA. OBRIGATORIEDADE DE CUSTEIO. CLÁUSULA ABUSIVA. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A conclusão do acórdão recorrido, quanto à obrigatoriedade do plano de saúde em custear materiais cirúrgicos necessários à cirurgia a que se submeteu a parte autora, está em consonância com o entendimento desta Corte, de que é abusiva a cláusula que exclua ou limite a cobertura de órteses, próteses e materiais diretamente ligados ao procedimento cirúrgico. Precedentes. Incidência da Súmula 83/STJ.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por UNIMED CAMPINAS COOPERATIVA DE TRABALHO MÉDICO contra decisão que negou provimento ao recurso especial, mantendo o acórdão estadual assim ementado:
+APELAÇÃO. PLANO DE SAÚDE. Obrigação de fazer c/c indenização por danos morais. Recurso da operadora-ré e adesivo da autora. Custeio de prótese necessária à realização de cirurgia (coluna). Paciente portadora de CERVICOBRAQUIALGIA - compressão medular nos níveis C4-C5 e C6-C7.
+Junta médica que entendeu pela cirurgia sem utilização da prótese. Cobertura devida. Negativa abusiva.
+Inteligência das súmulas 96 e 102 do E. TJSP. Abusividade configurada.
+Demonstrada a efetiva necessidade da prótese.
+Situação de desvantagem excessiva, restringindo direito fundamental inerente ao contrato, de modo a ameaçar seu objeto. Vedação pelo Código de Defesa do Consumidor.
+Reconhecimento do dever da ré de custear a prótese. Danos morais.
+Peculiaridade que autorizam sua incidência. Fixação com parcimônia. Valor que se mostra adequado e proporcional à peculiaridade da hipótese.
+Manutenção do valor em R$ 10.000,00. Precedentes. Majoração desprovida.
+Sentença mantida. Adoção do art. 252 do RITJ. RECURSOS DESPROVIDOS (fl. 351).
+A parte agravante afirma que "todos os procedimentos e materiais necessários a cirurgia foram autorizados exceto a prótese de disco, diante da divergência foi instituída "Junta Médica" nos moldes instituídos pela ANS, que negou a prótese solicitada" (fl. 425); "o solicitado imprescindível para a realização do ato cirúrgico foi autorizado pela agravante, não havendo qualquer negativa de cobertura da parte desta" (fl. 426); "não há fundamento legal para a condenação da requerida, motivo pelo qual impera a improcedência da presente demanda" (fl. 429).
+Impugnação do agravo às fls. 444/452.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS. PLANO DE SAÚDE. FORNECIMENTO DE MATERIAL CIRÚRGICO E PRÓTESE. RECUSA. OBRIGATORIEDADE DE CUSTEIO. CLÁUSULA ABUSIVA. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A conclusão do acórdão recorrido, quanto à obrigatoriedade do plano de saúde em custear materiais cirúrgicos necessários à cirurgia a que se submeteu a parte autora, está em consonância com o entendimento desta Corte, de que é abusiva a cláusula que exclua ou limite a cobertura de órteses, próteses e materiais diretamente ligados ao procedimento cirúrgico. Precedentes. Incidência da Súmula 83/STJ.
+2. Agravo interno a que se nega provimento.
+VOTO
+Os argumentos trazidos pela parte recorrente são insuficientes para infirmar a decisão agravada, devendo ser confirmada a monocrática.
+Na espécie, o Tribunal de Justiça, com arrimo no acervo fático-probatório, reconheceu o dever da recorrente de custear a prótese necessária à cirurgia, em acórdão do qual se destaca o seguinte:
+Trata-se de recurso de apelação interposto contra a r. sentença de fls. 214/216, que julgou procedente o pedido formulado pela parte autora, consistente, em síntese, na obrigação de fazer - a realização de cirurgia para tratamento de cervicobraquialgia, com prótese de disco, cuja negativa se deu em contrato de plano de saúde.
+(..)
+Alega que é beneficiária do plano de saúde corporativo operado pela ré, pagando regularmente as mensalidades, sendo diagnosticada com quadro de cervicobraquialgia. Aduz, ainda, que após anos de tratamento alternativo, foi avaliada, em janeiro de 2019, pelo médico Dr. Rafael Barreto da Silva, especialista em cirurgia vertebral, que apontou a necessidade de cirurgia com colocação de prótese como única alternativa para impedir maiores lesões na medula cervical e sequelas neurológicas irreparáveis. A fim de iniciar o tratamento, no dia 06 de março de 2019, o médico encaminhou pedido de autorização para a realização do procedimento cirúrgico, acompanhado de e- mail com solicitação de avaliação presencial, o que não foi atendido (fl. 5). A cirurgia foi liberada, com data prevista para dia 08 de março de 2019. Ocorre que, um dia antes da data marcada, o hospital comunicou o cancelamento por negativa da requerida em fornecer prótese de disco por não constar no rol da ANS.
+(..)
+Não obstante e em termos gerais, vale refletir que não se pode negar ao consumidor o direito de realizar o tratamento da melhor maneira possível, sob pena de violação aos princípios da boa-fé objetiva e da função social que devem nortear as relações contratuais, principalmente porque consta dos autos expressa indicação médica para o caso (fls. 33/34).
+Neste sentido, ainda, conforme o C. STJ:
+"A exclusão de cobertura de determinado procedimento médico/hospitalar, quando essencial para garantir a saúde e, em algumas vezes, a vida do segurado, vulnera a finalidade básica do contrato." (STJ Resp nº 183719/ SP 4ª Turma Rel. Min. Luis Felipe Salomão DJe 13.10.08).
+Com efeito, tem-se que a decisão encontra-se em plena consonância ao teor das súmulas 96 e 102 deste E. TJSP: habitualmente observadas por esta C. Câmara e que de per si prestigiam a cobertura para tratamentos em casos com plano de fundo símile ao presente (a vitimar de morte também a pretendida limitação de cobertura).
+Além disso, não se admite que se coloque o consumidor em situação de extrema desvantagem ou o submeta à restrição de direito fundamental inerente à natureza do contrato, de tal modo a ameaçar seu objeto.
+Isto porque em havendo cobertura do procedimento, e expressa indicação médica, não cabe à operadora decidir qual o melhor tratamento, negando em verdade a cirurgia em si - vez que não liberada a prótese, cirurgia esta que tem expressa previsão contratual.
+Destaque-se que qualquer entendimento em sentido contrário importaria em prejuízo ao objeto do próprio contrato, qual seja: O RESGUARDO À SAÚDE DO PACIENTE (para a qual o plano é remunerado).
+Iníquo, senão temerário, abstrair do parecer do profissional que até então acompanhava o tratamento da recorrida, em detrimento do parecer de junta médica, especificamente FORMADA E REMUNERADA PELA OPERADORA: em panorama inequivocamente eivado de parcialidade (despicienda a pretendida produção de prova técnica, seja em virtude deste contexto, seja pelo robusto repertório probatório que já instruiu o processo).
+Desprovidos, portanto, os pedidos neste sentido.
+Neste sentido, a jurisprudência deste E. TJSP:
+"Apelação. Plano de saúde. Autora acometida de cervicobraquialgia. Negativa de cobertura. Abusividade manifesta. Seguradora que não pode negar o custeamento de tratamento sob o argumento de que não está previsto no contrato ou no rol de procedimentos da ANS. Sentença de procedência mantida (art. 252 do RITJSP). Recurso desprovido." (TJSP; Apelação Cível 4000894-21.2013.8.26.0011; Relator (a): Cesar Ciampolini; Órgão Julgador: 10ª Câmara de Direito Privado; Foro Regional XI - Pinheiros - 1ª Vara Cível; Data do Julgamento:03/06/2014; Data de Registro: 03/06/2014)..
+O acórdão recorrido está em consonância com o entendimento desta Corte Superior, de que é abusiva a cláusula que exclua ou limite a cobertura de órteses, próteses e materiais diretamente ligados ao procedimen to cirúrgico a que se submete o consumidor. A título ilustrativo:
+CIVIL. PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE REEMBOLSO. PLANO DE SAÚDE. AÇÃO DECLARATÓRIA. ASSIMETRIA CRANIANA DO TIPO BRANQUICEFALIA E PLAGIOCEFALIA. RECUSA DE COBERTURA PARA O FORNECIMENTO DE ÓRTESE CRANIANA. IMPLANTAÇÃO DESVINCULADA DE ATO CIRÚRGICO. RECUSA LEGÍTIMA. DEVER DE COBERTURA AFASTADO.
+SÚMULA N.º 568 DO STJ. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO NÃO PROVIDO.
+1. É assente nesta Corte Superior o entendimento segundo o qual é nula a cláusula contratual que exclua da cobertura órteses, próteses e materiais, desde que diretamente ligados ao procedimento cirúrgico a que se submete o consumidor. Precedentes. Caso dos autos em que a órtese não se vincula ao ato cirúrgico.
+2. Agravo interno não provido. (AgInt no REsp n. 2.023.525/SP, relator Ministro MOURA RIBEIRO, Terceira Turma, DJe de 9.3.2023)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. PRÓTESE AUDITIVA NÃO LIGADA A ATO CIRÚRGICO. NEGATIVA DE COBERTURA. POSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. O atual entendimento desta Corte Superior é no sentido de que "é nula a cláusula contratual que exclua da cobertura órteses, próteses e materiais, desde que diretamente ligados ao procedimento cirúrgico a que se submete o consumidor. Todavia, esse entendimento não se aplica ao fornecimento de prótese auditiva, porque desvinculada da realização de ato cirúrgico" (AgInt no AgInt no REsp 1.919.376/PE, Relator Ministro Moura Ribeiro, Terceira Turma, julgado em 25/5/2021, DJe de 28/5/2021).
+2. Agravo interno a que se nega provimento. (AgInt nos EDcl no AREsp n. 2.315.594/SE, relator Ministro RAUL ARAÚJO, Quarta Turma, DJe de 16.10.2023.)
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. PLANO DE SAÚDE. AÇÃO DE COBRANÇA C/C COM INDENIZAÇÃO POR DANOS MORAIS. PROCEDIMENTO CIRÚRGICO. MATERIAL NECESSÁRIO. RECUSA ABUSIVA DE COBERTURA. SÚMULA 83/STJ. IMPRESCINDIBILIDADE. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. "Nos termos da jurisprudência desta Corte, é devida a cobertura pelo plano de saúde de próteses e materiais diretamente ligadas ao ato cirúrgico" (AgInt no REsp 2.031.696/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/3/2023, DJe de 31/3/2023).
+2. No presente caso, o eg. Tribunal de origem consignou expressamente que o contrato prevê a cobertura da cirurgia e que o material cuja cobertura foi recusada - grampeador circular - era necessário ao sucesso do procedimento cirúrgico. Para se alterar tal conclusão, seria necessário o revolvimento do acervo fático-probatório dos autos, o que é vedado pela Súmula 7/STJ.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo para negar provimento ao recurso especial. (AgInt no AREsp n. 1.829.258/SP, relator Ministro RAUL ARAÚJO, Quarta Turma, DJe de 19.6.2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO COMINATÓRIA. DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA RECURSAL DA DEMANDANTE.
+1. Nos termos da jurisprudência desta Corte, é devida a cobertura pelo plano de saúde de próteses e materiais diretamente ligadas ao ato cirúrgico.
+Precedentes.
+1.1. No presente caso, não se trata de órtese cirúrgica. O art. 10, VII, da Lei n. 9.656/1998 prevê que as operadoras de planos de saúde não têm a obrigação de arcar com próteses e órteses e seus acessórios não ligados ao ato cirúrgico.
+2. Agravo interno desprovido. (AgInt no REsp n. 2.031.696/SP, relator Ministro MARCO BUZZI, Quarta Turma, DJe de 31.3.2023)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. PLANO DE SAÚDE. TRATAMENTO DE CÂNCER. DOENÇA COBERTA PELO CONTRATO. AGRAVAMENTO DA SAÚDE DO PACIENTE. DANO MORAL RECONHECIDO PELAS INSTÂNCIAS ORDINÁRIAS. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL. . Agravo interno contra decisão da Presidência que não conheceu do agravo. Reconsideração, diante da existência de impugnação, na petição de agravo, da decisão que não admitiu o recurso especial na origem.
+2. É ilegal a negativa de custeio, pelo plano de saúde, dos meios e materiais necessários ao melhor desempenho do tratamento clínico ou do procedimento cirúrgico ou de internação hospitalar relativos a doença coberta pelo plano contratado. Precedentes.
+3. De acordo com a jurisprudência desta Corte Superior, o descumprimento contratual por parte da operadora de saúde, que culmina em negativa de cobertura para procedimento de saúde, somente enseja reparação a título de danos morais quando houver agravamento da condição de dor, abalo psicológico ou prejuízos à saúde já debilitada do paciente, o que foi constatado pela Corte de origem no caso concreto.
+4. A modificação de tal entendimento demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+5. Agravo interno provido para, reconsiderando a decisão agravada, conhecer do agravo e negar provimento ao recurso especial. (AgInt no AREsp 1705242/SP, relator Ministro RAUL ARAÚJO, Quarta Turma, DJe 18.12.2020)
+Assim, revela-se abusivo o preceito do contrato de plano de saúde excludente do custeio dos meios e materiais necessários ao melhor desempenho do tratamento clínico, do procedimento cirúrgico ou da internação hospitalar.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
