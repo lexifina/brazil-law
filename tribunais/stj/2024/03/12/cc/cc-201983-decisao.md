@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito da 1ª Vara dos Feitos de Relações de Consumo, Cíveis e Comerciais de Riachão das Neves/BA, suscitante, e o Juízo de Direito da 24ª Vara Cível de Brasília/DF, suscitado, nos autos da liquidação provisória individual de sentença proferida em ação civil pública.
+O Juízo suscitado, a quem a ação foi inicialmente distribuída, declinou de sua competência sob os seguintes fundamentos (e-STJ, fls. 125-128):
+Cuida-se de pedido de liquidação provisória individual de sentença coletiva, decorrente da condenação havida no bojo da Ação Civil Pública de nº 94.008514-1, que teve tramitação perante o Juízo 3ª Vara Federal de Seção Judiciária de Distrito Federal.
+Busca-se na presente liquidação a apuração do valor do débito decorrente das diferenças entre o IPC de março de 1990 (84,32%) e o BTN fixado em idêntico período (41,28%) - "expurgos inflacionários" - uma vez que não observado pelo Banco do Brasil/Requerido a alteração, quando do advento do Plano Collor (Lei nº 8024/90 - que fixou a variação pela BTN Fiscal), na atualização das dívidas decorrentes de empréstimos rurais, nos termos da condenação havida na ação coletiva, que teve tramitação perante o Juízo 3ª Vara Federal de Seção Judiciária de Distrito Federal (Ação Civil Pública de nº 94.008514-1 e Recurso Especial nº 1.319.232/DF).
+No caso, consubstancia a parte autora a pretensão com base em Cédulas de Crédito Rural, cuja contratação se deu no Município de Riachão das Neves - BA. Registre-se que o mesmo Município é o local de domicílio do requerente.
+Nesse cenário, ao disciplinar sobre o foro competente, tem-se como previsão no Código de Processo Civil, a indicação do foro do local onde se acha a agência ou sucursal, quanto às obrigações que a pessoa jurídica contraiu (art. 53, III, "b". do CPC), in verbis:
+ ..
+Como se vê, inobstante a parte requerida ostentar sede nesta Capital Federal, a ação que versa sobre contrato bancário deve ser ajuizada no foro da agência onde pactuado o negócio jurídico, e não na sede da instituição.
+
+Desta feita, cuidando-se de obrigação contratual, o foro do lugar da celebração do negócio jurídico deve prevalecer sobre a sede da pessoa jurídica, inclusive pela facilidade de produção das provas.
+Não olvido do entendimento jurisprudencial, cristalizada na Súmula 33 do STJ, que dita: "A incompetência relativa não pode ser declarada de ofício".
+Contudo, há de se observar temperamento em sua aplicação, sobretudo nos casos em que não se observa os critérios legais que firmam a competência. Acerca da antijuridicidade inerente à aleatória escolha do Juízo, assim se posiciona este Egrégio Tribunal de Justiça do Distrito Federal e Territórios, por meio de suas Câmaras Cíveis:
+
+Ademais, cabe elucidar as advertências e ponderações lançadas pelo Eminente Desembargador Diaulas Costa Ribeiro, no sentido de que Este Eg. Tribunal de Justiça do Distrito Federal e dos Territórios não é um foro especial para julgar causas nas quais o Banco do Brasil seja parte, onerando-se, sobremaneira, esta Corte de Justiça, tampouco se pode conceber a escolha do foro, afastando-se os Juízes locais, sob pena de ofensa ao Princípio do Juiz Natural.
+
+Pelo exposto, reconhecendo a incompetência deste Juízo, DECLINO DA COMPETÊNCIA em favor de uma das Varas Cíveis da Comarca de Riachão das Neves - BA.
+O Juízo de Direito da 1ª Vara dos Feitos de Relações de Consumo, Cíveis e Comerciais de Riachão das Neves/BA, por sua vez, suscitou o presente conflito, nos termos abaixo transcritos (e-STJ, fls. 401-404):
+A incompetência relativa, como regra, não pode ser declarada de ofício, nos termos da Súmula n. 33 do STJ.
+ ..
+Nesse sentido, em razão de a competência relativa denotar um poder de escolha das partes, não pode o Estado-Juiz, salvo raríssimas exceções, decliná-la de ofício.
+Não por outro motivo que o art. 65 do CPC assim estabelece: "Prorrogar-se-á a competência relativa se o réu não alegar a incompetência em preliminar de contestação"
+In casu, não houve alegação por parte do Réu, o Banco do Brasil S/A, até porque ele sequer havia sido citado/intimado para integrar a lide.
+O fato de o Tribunal de justiça do Distrito Federal e dos Territórios (TJDFT) ter afirmado que a propositura da presente liquidação provisória de sentença no Foro de Brasília violou a regra de competência territorial do art. 53, III, b, do CPC afastou a opção feita pela parte, qual seja: a regra do art. 53, III, a, do CPC, que diz que é competente o foro do lugar "onde está a sede, para a ação em que for ré pessoa jurídica".
+Ora, a sede do Banco do Brasil S/A - instituição financeira contra a qual se busca a liquidação provisória de sentença - é exatamente em Brasília/DF, cabendo àquele Juízo processar e julgar a demanda, conforme opção feita pela parte, já que se trata de competência territorial e, portanto, relativa (art. 53, III, a, do CPC).
+Dessa forma, não há que se falar que a parte escolheu aleatoriamente o Juízo de Brasília por ser ele, em tese, mais célere que os demais Tribunais do País, visto que a opção está prevista em lei e foi devidamente utilizada (art. 53, III, a, do CPC).
+Não bastasse a escolha prevista no art. 53, III, a e b, o CPC também previu que, quando se tratar de cumprimento de sentença, "o exequente poderá optar pelo juízo do atual domicílio do executado, pelo juízo do local onde se encontrem os bens sujeitos à execução ou pelo juízo do local onde deva ser executada a obrigação de fazer ou de não fazer, casos em que a remessa dos autos do processo será solicitada ao juízo de origem."
+Ademais, retoricamente, o Juízo da 24ª Vara Cível de Brasília, aludiu que o declínio de ofício para o foro de domicílio/residência dos liquidantes teria o condão de facilitar o acesso deles à Justiça.
+Todavia, registre-se que, não está se discutindo nos autos cláusula abusiva de eleição de foro que desfavorece o consumidor e, por vezes, utilizadas pela instituição financeira, hipótese na qual seria possível o declínio de ofício da competência territorial para o foro de domicílio/residência daquele (art. 63, §3º, do CPC).
+Outrossim, ambos os Tribunais (TJDFT e TJBA) utilizam o Processo Judicial Eletrônico (PJe) como sistema de tramitação processual, além de que também regulamentaram o uso do Juízo 100% Digital, o qual permite que a prática de todos os atos processuais se dê de forma eletrônica e remota.
+Logo, tendo o legislador pátrio dado o poder de escolha do foro com o advento de novas tecnologias de processamento, inexistirá prejuízo ao jurisdicionado ao escolher este ou aquele Tribunal para o processo e julgamento de sua demanda, ainda mais quando amparado em opções processuais válidas (art. 53, III, a e b, do CPC).
+O que não é aceitável é que o Estado-Juiz se valha de argumentos genéricos para substituir a vontade das partes e declinar ex officio a competência territorial em toda e qualquer ação que envolva pessoa física de um lado e uma instituição financeira com sede na Capital Federal, de outro, sem, contudo, verificar as possibilidades de opção pelo foro.
+Ressalte-se, ainda, que a decisão da 24ª Vara Cível de Brasília foi repentina, isto é, não consta dos autos que a parte liquidante havia sido intimada previamente para se manifestar sobre a competência territorial ou não daquele Juízo, em grave violação a princípios processuais, como o da cooperação (art. 6º do CPC) e da vedação à decisão surpresa (art. 9º do CPC).
+Ao contrário disso, a parte só teve a oportunidade de se manifestar em sede de Agravo de Instrumento, quando, então, a 8ª Turma Cível do TJDFT decidiu manter a decisão de declínio de competência (id. 420027025, p. 161/162), contrariando, inclusive, a jurisprudência daquela Corte, in verbis:
+
+Verifica-se, portanto, que o E. TJDFT incorreu em error in procedendo no presente caso, seja pelo declínio ex officio de competência relativa, seja porque proferiu decisão surpresa, violando, assim, normas processuais aplicáveis à espécie.
+Portanto, não pode este Juízo se submeter à vontade do TJDFT em detrimento da opção feita pela parte quando da propositura da demanda.
+ANTE O EXPOSTO, DECLARO A INCOMPETÊNCIA DESTE JUÍZO PARA PROCESSAR E JULGAR A PRESENTE AÇÃO, o que faço com fulcro nos arts. 53, III, a, e 516, parágrafo único, ambos do CPC e demais normas aplicáveis ao caso (CDC, Lei de Ação Civil Pública, etc.), bem como na Súmula n. 33 do STJ.
+Via de consequência, SUSCITO CONFLITO DE COMPETÊNCIA PERANTE O SUPERIOR TRIBUNAL DE JUSTIÇA (STJ), na forma do art. 66, parágrafo único, do CPC, cabendo à Corte Superior de Justiça, nos termos do art. 105, I, d, decidir sobre a competência para o julgamento da demanda, se deste Juízo da Vara de Jurisdição Plena da Comarca de Riachão das Neves/BA ou o Juízo da 24ª Vara Cível de Brasília/DF.
+O Ministério Público Federal apresentou parecer pelo conhecimento do conflito para fixar a competência do juízo suscitante.
+Brevemente relatado, decido.
+A controvérsia diz respeito à competência para processar e julgar o pedido de liquidação provisória de sentença proferida na ação civil pública ajuizada pelo Ministério Público Federal contra o Banco do Brasil, o Banco Central e a União, referente às diferenças da correção do saldo devedor de cédulas de crédito rural no mês de março de 1990 (ACP n. 94.000.8514-1).
+O Juízo suscitado declinou da competência para analisar a pretensão dirigida exclusivamente ao Banco do Brasil.
+Discute-se, em suma, sobre a possibilidade de o beneficiário da ação civil pública proceder à liquidação provisória de sentença no foro da sede da pessoa jurídica.
+Com efeito, tratando-se de competência territorial, dispõe o art. 53, III, CPC/2015 ser competente o foro do lugar: a) onde está a sede, para a ação em que for ré a pessoa jurídica; b) onde se acha agência ou sucursal, quanto às obrigações que a pessoa jurídica contraiu; c) onde exerce suas atividades, para a ação em que for ré sociedade ou associação sem personalidade jurídica; d) onde a obrigação deve ser satisfeita, para a ação em que se lhe exigir o cumprimento; entre outras hipóteses que não têm aplicação ao caso em julgamento.
+Evidencia-se, ademais, que o presente caso trata de competência territorial - de caráter relativo, portanto -, ensejando a observância do disposto no verbete n 33 da Súmula desta Casa, segundo a qual "A incompetência relativa não pode ser declarada de ofício".
+Na espécie, embora reconhecendo que se trata de competência relativa, o juízo suscitado declinou a competência, argumentando, em síntese, que a escolha aleatória e injustificada do foro para a propositura da ação permite o afastamento do entendimento contido no enunciado sumular n. 33/STJ, sendo possível o reconhecimento de ofício da incompetência territorial.
+No entanto, verifica-se que não houve escolha aleatória, arbitrária ou injustificada de foro, pois a opção observou os parâmetros legais de fixação de competência - foro da sede da pessoa jurídica - e, sendo de natureza relativa, não cabia o declínio dessa competência de ofício pelo magistrado, nos termos do supracitado verbete sumular.
+Confiram-se:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. INVENTÁRIO. COMPETÊNCIA TERRITORIAL. NATUREZA RELATIVA. SÚMULA 33/STJ.
+ ..
+2. A incompetência relativa não pode ser declarada de ofício, segundo enuncia a Súmula 33 do STJ.
+3. Agravo interno não provido.
+(AgInt no CC n. 191.197/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 18/4/2023, DJe de 25/4/2023.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONFLITO DE COMPETÊNCIA. CONCURSO PÚBLICO. CANDIDATO. ELIMINAÇÃO. ANULAÇÃO DO ATO. COMPETÊNCIA DO JUÍZO DO DOMICÍLIO DO AUTOR. CABIMENTO. COMPETÊNCIA RELATIVA.
+ ..
+IV - Tendo em vista o caráter relativo de eventual incompetência territorial, o Juízo suscitado não poderia tê-la pronunciado de ofício, nos termos da Súmula n. 33/STJ. Sobre o tema, a orientação desta Corte Superior é no mesmo sentido: (AgInt no CC 163.985/MT, relator Ministro Gurgel de Faria, Primeira Seção, Julgado em 18/6/2019, Dje 25/6/2019 e Agint no CC 157.479, relatora Ministra Regina Helena Costa, Primeira Seção, Julgado em 28/11/2018, Dje 4/12/2018.)
+V - Agravo interno improvido.
+(AgInt no CC n. 187.454/MG, r elator Ministro Francisco Falcão, Primeira Seção, julgado em 25/10/2022, DJe de 27/10/2022.)
+AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. CONTRATO BANCÁRIO. FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. AÇÃO REVISIONAL. AÇÃO PROPOSTA PELO CONSUMIDOR NO FORO ONDE O RÉU POSSUI FILIAL. POSSIBILIDADE.
+1. Nos casos em que o consumidor, autor da ação, elege, dentro das limitações impostas pela lei, o foro que melhor atende seus interesses, a competência é relativa, somente podendo ser alterada caso o réu apresente exceção de incompetência (CPC, art. 112), não sendo possível sua declinação de ofício, nos termos da Súmula 33/STJ.
+2. Aos litigantes em geral é dado escolher, dentro das limitações legais, o foro onde pretendem contender, cumprindo ao réu apresentar, se for o caso, exceção de incompetência, sob pena de prorrogação da competência. Assim, não há razão para negar essa possibilidade justamente ao consumidor, a quem o legislador conferiu especial proteção.
+3. Agravo regimental a que se nega provimento.
+(AgRg no CC n. 130.813/DF, relator Ministro Raul Araújo, Segunda Seção, julgado em 22/6/2016, DJe de 3/8/2016.)
+Diante do exposto, conheço do conflito para declarar competente o Juízo de Direito da 24ª Vara Cível de Brasília/DF, suscitado.
+Dê-se ciência aos Juízos.
+Publique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. LIQUIDAÇÃO PROVISÓRIA INDIVIDUAL DE SENTENÇA COLETIVA EM DESFAVOR DO BANCO DO BRASIL. POSSIBILIDADE DA ESCOLHA DO FORO. COMPETÊNCIA RELATIVA. DECLÍNIO DE OFÍCIO. IMPOSSIBILIDADE. SÚMULA 33/STJ. AÇÃO PROPOSTA NO FORO DA SEDE DA PESSOA JURÍDICA. CABIMENTO. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO SUSCITADO.
