@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por ISA SUELY DOS SANTOS TAVEIRA com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo de Instrumento n. 2024165-14.2022.8.26.0000) , nos autos de ação de execução de título extrajudicial.
+O julgado foi assim ementado (fl. 98):
+EXECUÇÃO Penhora online Desbloqueio Inadmissibilidade Hipótese em que as características de movimentação da conta poupança são análogas às da poupança vinculada à conta corrente- Natureza circulatória e caráter predominante de conta corrente - Extratos da conta corrente junto ao Banco do Brasil S/A usada para recebimento de proventos de aposentadoria e de salário também demonstram haver créditos de outra natureza que destoam daquelas características e superam os valor bloqueado. Possibilidade de penhora "online" Inaplicabilidade do art.833, IV e X, do CPC Decisão mantida. Recurso desprovido.
+Nas razões do recurso especial de fls. 169-191, a recorrente alega violação dos arts. 833, § 2º, e 805 do CPC, diante da ocorrência de penhora de conta poupança e outros proventos em contas bancárias da recorrente, contrariando jurisprudência dominante desta Corte (fl. 175).
+Aponta que foi determinada a penhora sobre contas bancárias via sistema eletrônico Sisbajud, sendo estas impenhoráveis (fl. 178).
+Sustenta que, pela conta bancária mantida no Banco do Brasil (Agência: 1549-0 sob o n. 114370-0), recebe seus proventos (fl. 179).
+Pondera que os valores mantidos na conta são utilizados para pagamento de despesas necessárias à sua subsistência.
+Alega ainda que o valor disponível na conta poupança também tem natureza salarial e é inferior a 40 salários-mínimos (fl. 179).
+Afirma que a impenhorabilidade, nos termos da jurisprudência do STJ, alcança todas as quantias depositadas até o montante equivalente a 40 salários mínimos, independentemente da natureza da conta.
+Requer o provimento do recurso para que seja reconhecida a impenhorabilidade dos valores mantidos em conta corrente destinada a percepção de salários, conta poupança ou aplicações até o limite de 40 salários mínimos, e, consequentemente, decretar o levantamento da constrição, sem prejuízo ainda da condenação dos recorridos no reembolso de eventuais custas e despesas processuais (fl. 191).
+As contrarrazões foram apresentadas às fls. 219-225.
+Admitido o apelo extremo (fls. 226-228), os autos ascenderam ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso reúne condições de prosperar.
+Consta dos autos que a recorrente interpôs agravo de instrumento contra a decisão que, em ação de execução de título extrajudicial, manteve hígida a constrição de valores realizada nos autos.
+O Tribunal de origem negou provimento ao recurso, mantendo a penhora (fls. 97-101).
+Sobreveio assim recurso especial buscando a recorrente o desbloqueio dos valores.
+O Superior Tribunal de Justiça já sedimentou entendimento no sentido de que, ressalvados os casos de abuso ou má-fé, são impenhoráveis os valores inferiores a 40 salários mínimos, não importando se depositados em poupança, conta corrente, fundos de investimento, ou outras aplicações, ou ainda guardados em papel-moeda, desde que seja a única reserva monetária em nome do recorrente (AgInt no REsp n. 1.915.851/MG, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 30/5/2022, DJe de 2/6/2022; AgInt no REsp n. 1.494.266/RO, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 17/8/2017, DJe de 30/8/2017; e REsp n. 1.230.060/PR, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 13/8/2014, DJe de 29/8/2014).
+No caso, o Tribunal de origem entendeu que não se configurava a impenhorabilidade apenas pela denominação da conta. Observe-se (fls. 99-101):
+ ..
+E mbora a conta bancária mantida pela agravante na Caixa Econômica Federal tenha a denominação "poupança", as condições de movimentação de valores revelam a desnaturação da função precipuamente de economia (cf. fls. 53-54), incorrendo em condições análogas de movimentação da poupança vinculada.
+É o que se verifica da movimentação de valores expressa no extrato juntado aos autos pela agravante, que demonstra, embora num curto período de tempo, a realização de operações de saque e débito. A função de poupança foi desnaturada, não se configurando a impenhorabilidade apenas pela denominação da conta.
+Não se pode amoldar essa situação àquela prevista no inciso art. 833, X, do CPC, porque a intenção do legislador certamente foi a de preservar as reservas do pequeno poupador, assegurando a este e a sua família o mínimo necessário à subsistência. Se assim não fosse, certamente cuidaria de deixar expressa a impenhorabilidade de conta corrente até o limite previsto no referido artigo.
+Neste sentido decidiu esta Câmara:
+"Execução. Bloqueios de contas bancárias (penhora"on line"). Desbloqueio das contas de caderneta de poupança, nos termos do art. 649, X, do CPC. Manutenção do bloqueio incidente sobre conta poupança integrada à conta corrente, dada a natureza preponderante deste último. Recurso parcialmente provido" (cf. A. I. 7.127.829-8, rel.Des. Luis Carlos de Barros)."Execução Penhora on line Bloqueio de valores em conta corrente integrada à conta corrente Inaplicabilidade do art.649, X, do CPC A conta corrente vinculada à conta poupança não é protegida pela regra da impenhorabilidade, com base no art. 649, X, doCPC, na medida em que nessa modalidade o dinheiro depositado apresenta predominante característica circulatória, incompatível com a típica caderneta de poupança Recurso provido" (cf. A. I. 7.260.960-0, rel. Des. Francisco Giaquinto).
+"EXECUÇÃO - Penhora on line - Conta poupança integrada à conta corrente - Admissibilidade - A poupança vinculada à conta corrente possui natureza circulatória e caráter predominante de conta corrente, sendo inaplicável o art. 649, X, do CPC - Penhora mantida- Embargosinfringentesacolhidos."(cf.A.I.nº 0000822-68.2008.8.26.0370,rel.des.ÁlvaroTorresJúnior,j. 12-8-2013).
+Situação análoga se dá também em relação à conta corrente no Banco do Brasil S/A (ag. 1xx9-0, c. c. 114xxx-0), não obstante os depósitos nela realizados dos valores de salário e de proventos de aposentadoria, pois há nos extratos apresentados movimentações a crédito de outras naturezas que destoam daquela finalidade e cujos valores superam a quantia bloqueada (cf. fls. 19-25 e 53 e 77).
+Não há, portanto, comprovação inequívoca de que os valores bloqueados (R$ 139,40 e R$ 381,04) se sujeitam à impenhorabilidade prevista no art. 833, IV e X, ambos do CPC.
+A decisão agravada é mantida.
+3. Posto isso, o meu voto nega provimento ao recurso.
+No entanto, o referido entendimento diverge da jurisprudência do Superior Tribunal de Justiça acerca da extensão da regra prevista no inciso X do art. 833 do CPC, de maneira que deve ser levantada a penhora recaída sobre as contas em questão, porquanto inferior a 40 salários mínimos.
+Ante o exposto, conheço do recurso especial e dou-lhe provimento para afastar a penhora eletrônica, via SISBAJUD, nos termos da fundamentação retro.
+Publique-se. Intimem-se.
+ EMENTA
