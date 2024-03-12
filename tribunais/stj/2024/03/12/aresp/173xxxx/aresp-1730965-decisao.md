@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por ADOLPHO OTTO REBISCHKE - ESPÓLIO e OUTROS em face de decisão de inadmissibilidade de recurso especial fundado na alínea "a" do art. 105, III, da Constituição, interposto contra acórdão proferido pelo eg. Tribunal de Justiça do Estado do Paraná, assim ementado:
+CIVIL. CONTRATOS BANCÁRIOS. CÉDULAS RURAIS HIPOTECÁRIAS. ASSUNÇÃO DA DÍVIDA. CONTRATO PRIVADO. INCOMPETÊNCIA DA JUSTIÇA FEDERAL. ALONGAMENTO DO PRAZO DE PAGAMENTO. LEI Nº 9.138/95. AUSÊNCIA DE ATO OU OMISSÃO ILEGAL.
+1. Ausente elementos para reconhecer a legitimidade dos entes federais para responder negociação referente a assunção de dívida entabulada entre particulares, resulta mantida a decisão que declinou da competência para a justiça estadual.
+2. A procuração outorgada pelos autores é clara ao conceder poderes a terceiro referentes à negociação da dívida contida na cédula rural hipotecária junto ao Banco do Brasil, não havendo qualquer obrigação legal ou contatual pertinente que tenha sido descumprida pelo banco. Ademais, o alongamento do prazo de pagamento da dívida constitui um direito do devedor rural e não mera faculdade do credor, nos termos do disposto na Lei nº 9.138, de 29/11/1995.
+Opostos embargos de declaração, restaram rejeitados.
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 489, § 1º, 1.022, II, do Código de Processo Civil de 2015, alegando omissão e falta de fundamentação no acórdão objurgado, pois "os recorrentes alegaram nos embargos de declaração opostos que o acórdão é omisso quanto às seguintes alegações: da análise das procurações constantes no e43 e 45, bem como no e1, ESCRITURA5, as quais serviram de base para o entendimento prolatado na sentença, ratificado no acórdão, o sr. ADOLPHO OTTO REBISCHKE não figura nas mesmas; o acórdão não analisou os argumentos em relação à condição especificada nas escrituras e procurações outorgadas por Celso, Eliane, Alberto e Agropecuária Terra Esperança Ltda (e não por Adolpho), o que implica no ato ilícito praticado pelo Banco do Brasil, representando a União; o acórdão é omisso em relação ao contido no artigo 303 do Código Civil" (fl. 1.393).
+Apontam, ainda, ofensa aos arts. 303 e 662 do Código Civil.
+É o relatório. Passo a decidir.
+O apelo merece prosperar no tocante à ofensa aos arts. 489 e 1.022 do CPC/2015.
+Compulsando os autos, infere-se que, nos embargos de declaração (fls. 1.350-1.353), foi requerida a análise de determinados pontos, como se infere da leitura do seguinte excerto das razões recursais:
+"O acórdão é omisso quanto à alegação de que, da análise das procurações constantes no e43 e 45, bem como no e1, ESCRITURA5, as quais serviram de base para o entendimento prolatado na sentença, ratificado no acórdão, percebe-se que o sr. ADOLPHO OTTO REBISCHKE não figura nas mesmas.
+(..)
+O acórdão também é omisso quanto à alegação de que os poderes que foram conferidos por Celso, Eliane, Alberto e Agropecuária Terra Esperança Ltda (E NÃO POR ADOLPHO) a Albert Barkema estavam CONDICIONADOS ao seguinte:
+CLÁSULA 4ª das escrituras de assunção de dívida:
+"(..) sem qualquer termo ou senão a de que, no prazo de 120 dias a contar desta data, o outorgado assuntor assuma com exclusividade o débito perante o credor com consequente desoneração da outorgante devedora bem assim de quaisquer terceiros garantidores." CONDIÇÃO estabelecida nas procurações públicas:
+"Em se tratando de outorga de mandato cujo exercício está condicionado à liberação dos ônus hipotecários que recaem sobre os imóveis, o prazo de sua concessão será o necessário para que a condição seja cumprida. Declara o outorgante, que em se tratando da outorga de mandato específico e condicionado a contraprestação de assunção de dívidas pelo Sr. REINDER MATTHEUS BARKEMA junto ao credor hipotecário BANCO DO BRASIL S/A, diante da condição dispensa o mandatário de toda e qualquer prestação de contas com relação ao objeto do mandato conferido."
+De fato, a eg. Corte Estadual rejeitou os aclaratórios sem examinar as referidas teses, que podem vir a influenciar no desate da presente lide.
+Por sua vez, a iterativa jurisprudência desta eg. Corte é no sentido de que fica caracterizada a violação do art. 1.022 do CPC/2015, quando o eg. Tribunal a quo deixa de examinar temas essenciais ao debate da controvérsia, apesar de devidamente provocado em sede de embargos de declaração. Nessa linha de intelecção, destacam-se os seguintes julgados:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC/1973. OCORRÊNCIA. SEGURO DE VIDA EM GRUPO. LIMITAÇÃO DE COBERTURA. INVALIDEZ FUNCIONAL PERMANENTE TOTAL POR DOENÇA (IFPD) E INVALIDEZ LABORATIVA PERMANENTE TOTAL POR DOENÇA (ILPD). INTERPRETAÇÃO RESTRITIVA. APOSENTADORIA. ÓRGÃO PREVIDENCIÁRIO. PERÍCIA. NECESSIDADE.
+(..)
+4. O acórdão recorrido não se manifestou sobre questões essenciais para o julgamento da causa, pressuposto indispensável para o exame do recurso especial, motivo pelo qual reconhece-se a ofensa ao art. 535 do Código de Processo Civil.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 952.515/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/05/2017, DJe 02/06/2017)
+"AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - AÇÃO INDENIZATÓRIA - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA RÉ.
+1. Violação ao art. 535 do Código de Processo Civil configurada. Acórdão estadual que não enfrentou todos os aspectos essenciais à resolução da controvérsia. Existência de ponto omisso relativamente à conduta da agravada, cuja elucidação mostra-se relevante para o deslinde da controvérsia, a qual gira em torno da existência de responsabilidade da empresa de transporte com relação aos eventos danosos suportados pela agravada
+2. Agravo regimental desprovido."
+(AgRg no AREsp 197.146/BA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/02/2016, DJe 23/02/2016)
+Nessa senda, deve ser reconhecida a violação do art. 1.022 do CPC/2015, para anular o v. acórdão que julgou os aclaratórios e determinar o retorno dos autos ao eg. Tribunal de origem, para novo julgamento dos embargos de declaração, como entender de direito, sanando as omissões ora reconhecidas.
+Ante o exposto, dou provimento ao recurso especial, a fim de reconhecer a violação ao art. 1.022 do CPC/2015, anulando-se o v. acórdão de fls. 1.361-1375 e determinando-se o retorno dos autos ao eg. Tribunal de origem para promover novo julgamento dos embargos de declaração, como entender de direito.
+Publique-se.
+EMENTA
