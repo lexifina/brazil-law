@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Daniela Teixeira, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. WRIT IMPETRADO MAIS DE SETE ANOS APÓS O TRÂNSITO EM JULGADO DA CONDENAÇÃO. PRECLUSÃO TEMPORAL. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I - "A jurisprudência do Superior Tribunal de Justiça - STJ, em respeito à segurança jurídica e a lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas, ou qualquer outra falha ocorrida no acórdão impugnado, também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal" (AgRg no HC n. 690.070/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 25/10/2021).
+II - O presente writ foi impetrado mais de 7 anos após o trânsito em julgado da condenação, de modo que o mandamus não pode ser conhecido em decorrência da preclusão da matéria, devendo prevalecer a coisa julgada e o princípio da segurança jurídica.
+III - Consoante artigo 210 do Regimento Interno do STJ, bem como nos moldes da jurisprudência desta Corte Superior, quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente, não havendo ilegalidade a ser sanada quanto ao ponto.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JOSE DIAS RIBEIRO contra a decisão monocrática que indeferiu liminarmente o habeas corpus impetrado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o agravante foi condenado pelo Juízo da 3ª Vara Criminal da Comarca de Araçatuba, no âmbito da ação penal n. 0020106-28.2016.8.26.0032, às penas de 09 (nove) anos e 02 (dois) meses de reclusão, e ao pagamento de multa equivalente a 22 (vinte e dois) dias-multa, por incursão no artigo 157, § 2º, incisos I e II, do Código Penal, consoante a sentença de fls. 26-29.
+O trânsito em julgado do processo de conhecimento ocorreu em 21/03/2017, consoante o documento de folha 15.
+Em 04/12/2023, a defesa impetrou o HC n. 2328288-45.2023.8.26.0000 perante o Tribunal de Justiça, objetivando a concessão da ordem para revisar a dosimetria da pena, que não foi conhecido por força de decisão monocrática (fls. 30-31). Interposto o agravo interno, foi negado provimento (fls. 32-35).
+No respectivo writ, impetrado nesta Corte, a defesa requereu a concessão da ordem de modo que fosse substituída a fração de 3/8, utilizada para exasperar a pena intermediária na terceira fase da dosimetria, pela fração mínima de 1/3, apesar do concurso de causas de aumento de pena do artigo 157, § 2º, I e II, do Código Penal.
+O habeas corpus foi indeferido liminarmente com fulcro no artigo 210 do RISTJ (fls. 39-42).
+Nas razões de recorrer, o agravante reitera os argumentos de mérito e defende que há ilegalidade flagrante, passível de ser extirpada pela via estreita do habeas corpus.
+Postula, assim, pela reconsideração da decisão, ou que o presente agravo seja submetido à apreciação do Colegiado, pugnando pelo seu conhecimento e total provimento, de modo que seja redimensionada a fração aplicada na terceira fase da dosimetria (fls. 47-57).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. WRIT IMPETRADO MAIS DE SETE ANOS APÓS O TRÂNSITO EM JULGADO DA CONDENAÇÃO. PRECLUSÃO TEMPORAL. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I - "A jurisprudência do Superior Tribunal de Justiça - STJ, em respeito à segurança jurídica e a lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas, ou qualquer outra falha ocorrida no acórdão impugnado, também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal" (AgRg no HC n. 690.070/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 25/10/2021).
+II - O presente writ foi impetrado mais de 7 anos após o trânsito em julgado da condenação, de modo que o mandamus não pode ser conhecido em decorrência da preclusão da matéria, devendo prevalecer a coisa julgada e o princípio da segurança jurídica.
+III - Consoante artigo 210 do Regimento Interno do STJ, bem como nos moldes da jurisprudência desta Corte Superior, quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente, não havendo ilegalidade a ser sanada quanto ao ponto.
+Agravo regimental desprovido.
+VOTO
+Como relatado, a defesa sustenta que não há óbice à análise do mérito, em razão da existência de ilegalidade flagrante, qual seja, a desproporcional fração de aumento na terceira etapa da dosimetria.
+Consoant e assinalado na decisão agravada, o acórdão combatido (fls. 32-35) negou provimento ao agravo interno interposto contra decisão monocrática (fls. 30-31) que não conheceu de habeas corpus impetrado contra sentença com trânsito em julgado (fls. 26-29).
+Friso que o HC n. 2328288-45.2023.8.26.0000, impetrado perante a Corte local, objetivava a revisão de sentença condenatória cujo trânsito em julgado ocorreu em 21/03/2017 (folha 15), isto é, mais de 7 anos após o trânsito em julgado. Como relatado, o referido writ não foi conhecido por decisão monocrática, confirmada pelo julgamento colegiado em razão da interposição de agravo interno (32-35).
+O presente habeas corpus foi impetrado somente em 14/02/2024 (folha 01), isto é, mais de 07 anos após o trânsito em julgado da sentença condenatória que a defesa efetivamente pretende a revisão da dosimetria da pena.
+Nesse contexto, o mandamus não pode ser conhecido em decorrência da preclusão da matéria, devendo prevalecer a coisa julgada e o princípio da segurança jurídica.
+Ressalto que a jurisprudência do Superior Tribunal de Justiça é no sentido de que mesmo as nulidades absolutas devem ser arguidas no momento oportuno, sob pena de preclusão.
+Nessa linha:
+"Com efeito, a jurisprudência do Superior Tribunal de Justiça - STJ, em respeito à segurança jurídica e a lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas, ou qualquer outra falha ocorrida no acórdão impugnado, também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal" (AgRg no HC 690.070/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 25/10/2021).
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ROUBO MAJORADO. TRÂNSITO EM JULGADO DA CONDENAÇÃO. PRECLUSÃO. RECONHECIMENTO. AUSÊNCIA DE ILEGALIDADE MANIFESTA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. "Este Superior Tribunal de Justiça possui entendimento de que o manejo do habeas corpus muito tempo após a edição do ato atacado demanda o reconhecimento da preclusão, não havendo se falar, portanto, em ilegalidade manifesta. Na hipótese em exame, a sentença atacada no Tribunal de origem por meio do mandamus originário transitou em julgado em 21 de agosto de 2017, sem que a defesa tenha interposto apelação, recurso apropriado, nos termos do art. 416 do CPP, vindo o recorrente, após passados 3 anos, alegar a ocorrência de constrangimento ilegal" (RHC 97.329/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 14/9/2020).
+3. Na hipótese, a sentença condenatória foi proferida em 1º de fevereiro de 2016. O Tribunal de origem, por sua vez, julgou a apelação em exame no dia 28 de abril de 2017, sendo que somente no dia 15 de dezembro de 2021 foi impetrado o presente habeas corpus. Desse modo, o mandamus não pode ser conhecido em decorrência da preclusão da matéria, uma vez que transcorridos mais de quatro anos desde o trânsito em julgado da condenação, devendo ser observada a coisa julgada e o princípio da segurança jurídica.
+Precedentes. 4. Agravo regimental desprovido" (AgRg no HC n. 713.708/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 04/04/2022).
+Nada obstante, destaco não haver no acórdão impugnado nenhuma ilegalidade flagrante que autorize a concessão da ordem nos termos do artigo 654, parágrafo 2º, do Código de Processo Penal, devendo a decisão agravada ser mantida por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
