@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fundamento na alínea "a" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado (e-STJ, fls. 131-134):
+"AGRAVO EM EXECUÇÃO PENAL - CONCESSÃO DO BENEFÍCIO DO LIVRAMENTO CONDICIONAL - POSSIBILIDADE - AUSÊNCIA DE PRÁTICA DE FALTA GRAVE NOS ÚLTIMOS 12 MESES - REQUISITO SUBJETIVO PREENCHIDO".
+O aresto foi mantido em sede de juízo de retratação (e-STJ, fls. 146-149) e os embargos de declaração foram rejeitados (e-STJ, fls. 174-178).
+Em suas razões recursais, a parte recorrente aponta violação do art. 83, III, "a", do CP. Aduz para tanto, em síntese, que não seria possível a concessão do livramento condicional ao recorrido, independentemente da ausência de faltas graves nos últimos 12 meses, pois o requisito subjetivo do bom comportamento não teria sido atendido durante toda a execução da pena.
+O recurso especial foi admitido na origem (e-STJ, fl. 209).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo provimento do recurso (e-STJ, fls. 222-224).
+É o relatório.
+Decido.
+A insurgência não ultrapassa o juízo de admissibilidade.
+Consoante o entendimento deste STJ, a análise do bom comportamento do apenado enquanto requisito do livramento condicional (art. 83, III, "a", do CP) deve considerar todo seu histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo art. 83, III. Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. PRÁTICA DE FALTA DISCIPLINAR DE NATUREZA GRAVE NO CURSO DA EXECUÇÃO. REQUISITO SUBJETIVO. NÃO PREENCHIMENTO. PRECEDENTES.
+O Superior Tribunal de Justiça tem entendimento consolidado no sentido de que não se aplica limite temporal para aferição de requisito subjetivo com escopo na concessão do livramento condicional, que deve necessariamente considerar todo o período da execução da pena, o que obsta a concessão do referido benefício ao ora agravante, porquanto, consoante reconhece o acórdão a quo, o apenado cometeu diversas faltas graves no curso da execução penal.
+Agravo regimental desprovido".
+(AgRg no REsp n. 1.963.528/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, julgado em 16/11/2021, DJe de 19/11/2021.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. ART. 83 DO CÓDIGO PENAL COM REDAÇÃO DADA PELA LEI N. 13.964/2019. AUSÊNCIA DO REQUISITO SUBJETIVO. EXISTÊNCIA DE FALTAS DISCIPLINARES. EXIGÊNCIA DE BOM COMPORTAMENTO DURANTE O CUMPRIMENTO DA PENA. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. ORDEM DENEGADA. AGRAVO DESPROVIDO.
+1. Para a concessão do livramento condicional, nos termos do art. 83, inciso III, alínea a, do Código Penal, com a redação dada pela Lei n. 13.964/2019, deve o Apenado preencher os requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento durante a execução da pena).
+2. Na presente hipótese, as instâncias ordinárias consignaram que o Apenado praticou falta disciplinar grave no curso da execução penal, consistente em fuga quando recebeu anterior progressão para o regime semiaberto, evasão que perdurou por dois anos, sendo a indisciplina recentemente reabilitada.
+3. A inclusão da alínea b no inciso III do art. 83 do Código Penal pela Lei n. 13.964/2019, não significa que a ausência de falta grave no período de doze meses seja suficiente para satisfazer o requisito subjetivo exigido para a concessão do livramento condicional, tampouco que eventuais faltas disciplinares ocorridas anteriormente não possam ser consideradas pelo Juízo das Execuções Penais para aferir fundamentadamente o mérito do Apenado.
+4. Agravo regimental desprovido".
+(AgRg no HC n. 666.504/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 1/6/2021, DJe de 16/6/2021.)
+Isso significa que, de fato, como diz o Parquet, não existe um limite temporal para a aferição do bom comportamento do apenado para fins de concessão do livramento condicional. Tal requisito deve, então, considerar todo o período de execução da pena.
+A questão é que, no caso dos autos, não há no acórdão recorri do nenhuma especificação sobre as circunstâncias fáticas do caso concreto que permitisse a esta Corte Superior, sem se aprofundar nos fatos da causa, concluir que o apenado teria mau comportamento carcerário. Afinal, cabe às instâncias ordinárias a avaliação quanto ao bom ou mau comportamento do apenado durante a execução, a partir da análise das provas, e, no presente caso, a Corte de origem não vislumbrou a existência de máculas suficientes na conduta do recorrido.
+Se há nos autos provas de quais foram os fatos praticados pelo réu que, na ótica do Parquet, demonstrariam seu mau comportamento, era ônus do Ministério Público provocar a Corte local a apreciá-las em sede de embargos de declaração (e, persistindo eventual omissão, interpor seu recurso especial também por ofensa ao art. 619 do CPP, o que não foi feito). No estado atual do processo, simplesmente não há no aresto impugnado nenhuma delimitação sobre os fatos ocorridos no curso da execução, o que impede seu exame direto por este Tribunal Superior, consoante a Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do Regimento Interno do STJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
