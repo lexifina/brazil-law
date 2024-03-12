@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 06/03/2024 a 12/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. SUFICIÊNCIA DA FUNDAMENTAÇÃO DO JULGADO RECORRIDO. CONFORMIDADE COM O TEMA N. 339/STF. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. IMPOSSIBILIDADE DE DEBATE OU SUPERAÇÃO. TEMA N. 181/STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339 do STF, QO no Ag n. 791.292/PE).
+2. Existente a fundamentação, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, mesmo que a parte não a repute adequada ou completa, conforme a conclusão firmada no Tema n. 339 do STF, tese de observância obrigatória (CPC, art. 927, III).
+3. Quanto às demais alegações, em caso de não conhecimento do recurso anterior por ausência de algum de seus requisitos, as razões do recurso extraordinário, sejam voltadas ao óbice aplicado ou à matéria de fundo, demandariam a reapreciação da conclusão que não conheceu do recurso.
+4. A Corte Suprema definiu, sob o regime da repercussão geral, que a questão relativa a pressupostos de admissibilidade de recurso da competência de outros tribunais não possui repercussão geral (Tema n. 181 do STF).
+5. Nos termos do art. 1.030, I, a, do Código de Processo Civil, não é possível a remessa do recurso extraordinário ao STF nos casos em que definida a ausência de repercussão geral.
+6. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto contra a decisão que negou seguimento ao recurso extraordinário assim ementada:
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339/STF. CONFORMIDADE. PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+Em suas razões, a parte agravante afirma não terem sido apreciados os argumentos suscitados no recurso especial, razão pela qual estaria caracterizada a violação do art. 93, IX, da Constituição Federal, não havendo falar em adequação do Tema n. 339 do STF ao caso concreto.
+Do mesmo modo, sustenta não ser objeto do recurso extraordinário a violação de normas infraconstitucionais afetas à admissibilidade recursal. Por esse motivo, insurge-se contra a negativa de seguimento daquela insurgência, pontuando que o Tema n. 181 do STF não poderia ser "interpretado de forma a impedir que afrontas diretas a Carta da República concernentes a admissibilidade de recursos possam ser objeto de Recurso Extraordinário, como se tais direitos constitucionais pudessem ter menor importância" (fl. 637).
+Requer o provimento do agravo para que o recurso extraordinário seja admitido e remetido ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. SUFICIÊNCIA DA FUNDAMENTAÇÃO DO JULGADO RECORRIDO. CONFORMIDADE COM O TEMA N. 339/STF. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. IMPOSSIBILIDADE DE DEBATE OU SUPERAÇÃO. TEMA N. 181/STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339 do STF, QO no Ag n. 791.292/PE).
+2. Existente a fundamentação, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, mesmo que a parte não a repute adequada ou completa, conforme a conclusão firmada no Tema n. 339 do STF, tese de observância obrigatória (CPC, art. 927, III).
+3. Quanto às demais alegações, em caso de não conhecimento do recurso anterior por ausência de algum de seus requisitos, as razões do recurso extraordinário, sejam voltadas ao óbice aplicado ou à matéria de fundo, demandariam a reapreciação da conclusão que não conheceu do recurso.
+4. A Corte Suprema definiu, sob o regime da repercussão geral, que a questão relativa a pressupostos de admissibilidade de recurso da competência de outros tribunais não possui repercussão geral (Tema n. 181 do STF).
+5. Nos termos do art. 1.030, I, a, do Código de Processo Civil, não é possível a remessa do recurso extraordinário ao STF nos casos em que definida a ausência de repercussão geral.
+6. Agravo interno a que se nega provimento.
+VOTO
+Quanto à questão da adequada fundamentação das decisões judiciais, o STF, ao apreciar o Tema n. 339 de repercussão geral, firmou a seguinte tese vinculante: "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas."
+O respectivo acórdão recebeu a ementa que segue transcrita:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º).
+2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência.
+3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+Nessa linha, a existência de motivação suficiente para o deslinde da causa afasta a ocorrência de nulidade do provimento questionado, a despeito de a parte recorrente reputar as razões de decidir incorretas, incompletas ou demasiadamente sucintas.
+No caso, foram declinadas pelo acórdão recorrido, de forma suficiente, as razões pelas quais não haveria falar em violação dos arts. 489, § 1º, IV e 1.022, parágrafo único, II, do Código de Processo Civil, consoante se infere dos seguintes excertos de seu voto condutor (fls. 495-497, grifo no original):
+Com efeito, conforme asseverado na decisão agravada, depreende-se que a apontada afronta aos arts. 489, § 1º, IV, e 1.022, parágrafo único, II, do CPC/2015 não ficou caracterizada, uma vez que a jurisprudência desta Corte Superior é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Convém registrar que, apesar de rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente.
+O Tribunal de Justiça do Estado do Rio de Janeiro, ao analisar a questão, assim fundamentou (e-STJ, fls. 157-160; sem grifos no original):
+O que se percebe é que a Excipiente deduz que o só fato de ter representado disciplinarmente contra o Excepto faria presumir a suspeição deste.
+Sem razão a arguente.
+Destaca-se, por primeiro, que a Excipiente sequer declinou quais seriam os "fatos e condutas" que teriam sido praticados pelo magistrado e que serviram de fundamento para a efetuar a representação.
+Contudo, a resposta pode ser obtida mediante um simples exercício de tirocínio.
+Segundo relata o Excepto, não havia qualquer relação ou animosidade anterior entre os envolvidos, que cruzaram os seus caminhos apenas por força das demandas protagonizadas pela Excipiente, sendo de se supor, então, que esta não se conformou com as decisões proferidas pelo Excepto com relação às rejeições da exceção de incompetência e dos correspondentes embargos de declaração, bem assim da decisão que indeferiu a gratuidade de justiça, fixando prazo para o recolhimento das custas, sob pena de cancelamento da distribuição.
+À toda evidência tais motivos não teriam o condão de embasar a suspeição do magistrado, mas, mesmo assim, logo após estas decisões a Excipiente pediu a instauração dos incidentes, fazendo presumir que este foi o seu móvel.
+Esta presunção ganha contornos bem delineados porque o Pedido de Providências nº 0002241-49.2015.2.00.0000, distribuído no CNJ em 20/05/2015, foi arquivado sumariamente, constando do respectivo voto que a irresignação da ora requerente dizia respeito "a simples discordância com decisão proferida no desenvolvimento da prestação jurisdicional em segunda instância", não tendo a recorrente apontado qualquer "ato que caracterize violação dos deveres de imparcialidade e prudência".
+Nessa moldura, não se enxerga a incidência de qualquer das hipóteses apontadas pela Excipiente e retratadas nos artigos 144, IX e 145, I e IV, ambos do CPC1, porque, sugira que a atuação do magistrado na condução do processo seria movida pela intenção de prejudicá-la, não fez prova mínima da suposta suspeição.
+Ao contrário, da leitura dos autos depreende-se que a suspeição foi arguida porque as decisões do desembargador relator, registre-se, todas devidamente fundamentadas, teriam desagradado à Excipiente, e essa seria a motivação subjacente.
+É cediço que a alegação de suspeição não é recurso, nem pedido de reconsideração, tampouco uma forma de agastar o Magistrado, por não ter ele decidido da forma desejada pelo interessado, imputando-lhe parcialidade.
+A alegação deve basear-se em fatos reais e objetivos e não em simples presunção de que o julgador se conduz de forma prejudicial à parte.
+Destarte, a alegação de suspeição do Magistrado exige, além da indicação legal da fundamentação, a efetiva e induvidosa comprovação de fatos concretos, que demonstrem o comportamento parcial em sua atuação processual, incompatível com seu mister funcional, sob pena de banalização do instituto e inviabilização do exercício da jurisdição.
+ ..
+No caso em apreço, a arguente não logrou êxito em comprovar o motivo de sua suspeita, o que conduz à rejeição da alegação de suspeição.
+Conforme asseverado na decisão ora objurgada, os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Na hipótese dos autos, a decisão recorrida resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Tendo em vista que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há afirmar que a Corte estadual não se pronunciou sobre o pleito da ora recorrente, apenas pelo fato de ter o julgado recorrido decidido contrariamente à pretensão da parte.
+Do mesmo modo, discorreu-se sobre a impossibilidade de conhecimento de parte do recurso especial ante a incidência do óbice da Súmula n. 7 do STJ, bem como pela inviabilidade de se apreciar naquela insurgência a afronta a dispositivos da Constituição Federal.
+Com efeito, demonstrada a realização da prestação jurisdicional constitucionalmente adequada, ainda quando não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339 do STF, de observância obrigatória (CPC, art. 927, III).
+Quanto ao mais, como demonstrado na decisão ag ravada, não se conheceu de recurso anterior, de competência do Superior Tribunal de Justiça, porque não preenchidos todos os pressupostos de admissibilidade.
+Por isso, qualquer alegação que conste do recurso extraordinário demandaria, inicialmente, a reapreciação dos fundamentos do não conhecimento de recurso que não é da competência do Supremo Tribunal Federal.
+Contudo, a Corte Suprema definiu que a discussão veiculada em recurso extraordinário que envolva o conhecimento do recurso anterior não possui repercussão geral, fixando a seguinte tese:
+Tema n. 181 do STF: A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010.)
+Essa conclusão, adotada sob o regime da repercussão geral e de obrigatória aplicação, nos termos do disposto no art. 1.030, I, a, do Código de Processo Civil, impõe a negativa de seguimento ao recurso extraordinário.
+Assim, se as razões do recurso extraordinário se direcionam contra o não conhecimento do recurso anterior, é inviável a remessa do extraordinário ao Supremo Tribunal Federal, como exemplifica o julgado a seguir (destaques acrescidos):
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO CONTRA ACÓRDÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA  .. . PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DE TRIBUNAL DIVERSO: INEXISTÊNCIA DE REPERCUSSÃO GERAL. TEMA 181. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+(ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021.)
+Tal desfecho não se modifica quando as razões do extraordinário se relacionam à matéria de fun do do recurso do qual não se conheceu, conforme exemplifica o seguinte acórdão (destaques acrescidos):
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. IMPOSSIBILIDADE DE APRECIAÇÃO DO MÉRITO DO RECURSO NÃO ANALISADO NO TSE. RECURSO ESPECIAL ELEITORAL NÃO ADMITIDO POR AUSÊNCIA DE PREQUESTIONAMENTO. REQUISITO DE ADMISSIBILIDADE DE RECURSO DE CORTE DIVERSA. AUSÊNCIA DE REPERCUSSÃO GERAL. ALEGAÇÃO DE OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, AMPLA DEFESA E DEVIDO PROCESSO LEGAL POR ALEGADA INOBSERVÂNCIA LEGAL. OFENSA REFLEXA. DESCABIMENTO DO EXTRAORDINÁRIO.
+1. Carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas (Tema 181 - RE 598.365).
+ ..
+3. Agravo regimental a que se nega provimento.
+(ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.)
+Vale anotar que, também nos casos em que se aponta ofensa ao art. 105, III, da Constituição da República, o recurso não comporta seguimento (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+A compreensão, a propósito, é igualmente aplicável quando a parte recorrente do recurso extraordinário defende a ausência dos pressupostos de conhecimento do recurso de competência do Superior Tribunal de Justiça.
+Ante o exposto, nego provimento ao agravo interno.
+Advirto que a formalização de embargos de declaração com intuito manifestamente protelatório poderá ser sancionada com a multa prevista no art. 1.026, § 2º, do Código de Processo Civil.
+É como voto.
