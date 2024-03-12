@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em favor de PEDRO HENRIQUE DOS SANTOS contra acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais.
+Extrai-se dos autos que o paciente foi denunciado como incurso nos arts. 33, caput e 35, caput, ambos da Lei n. 11.343/06. Sob a alegação de nulidade decorrente do recebimento da denúncia sem a apreciação de nulidades alegadas pela defesa, impetrou-se habeas corpus perante o Tribunal a quo, sendo a ordem denegada. Eis a ementa:
+EMENTA: HABEAS CORPUS. NULIDADE DA DECISÃO DE RECEBIMENTO DA DENÚNCIA. AUSÊNCIA DE FUNDAMENTAÇÃO. INOCORRÊNCIA. ORDEM DENEGADA. -Tratando-se o recebimento da denúncia de despacho meramente ordinatório, deve o magistrado se ater às disposições do art. 41 do CPP para validar a peça inaugural, afigurando-se prescindível a fundamentação complexa. (e-STJ, fl. 11).
+Neste mandamus, insistem os impetrantes no reconhecimento da nulidade. Alegam que "Não obstante, de forma teratológica, o juízo postergou a análise do pedido de nulidade das interceptações telefônicas, que não foram autorizadas, conforme se depreende dos autos, tampouco integralmente transcritas pelos peritos da polícia civil, no intuito de realizar a instrução processual aproveitando-se de prova ilícita e delas decorrentes. Está violado o ordenamento jurídico, causando prejuízo ao exercício da ampla defesa e do contraditório, eivando o feito por mácula intransponível" (e-STJ, fl. 6).
+Pugnam, ao final, pela concessão da ordem, a fim de que seja determinado "ao juízo da comarca de Sabará/MG a apreciação da preliminar de nulidade das interceptações telefônicas e, o desentranhamento das provas ilegais e delas decorrentes do feito, realizando a instrução criminal sob a égide da legalidade" (e-STJ, fl. 9).
+Liminar indeferida (e-STJ, fl. 775).
+Informações prestadas (e-STJ, fls. 781-807).
+O Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ, fls. 811-813).
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesto constrangimento ilegal que autorize a concessão da ordem, de ofício.
+O Tribunal de origem, acerca da alegada nulidade, fundamentou sua posição da seguinte forma:
+" ..  Alega o impetrante não haver sido suficientemente enfrentada preliminar de ausência de justa causa suscitada em resposta à acusação.
+Colhe-se da decisão guerreada, contudo, haver o magistrado rejeitado a prefacial, de forma fundamentada, ainda que sucinta:
+"No tocante às preliminares e teses arguidas em sede de resposta à acusação, entendo que a apreciação demandará dilação probatória, através da colheita de prova testemunhal em Juízo. Por tal razão, postergo sua análise quando da prolação da sentença condenatória.
+No momento, não verifico qualquer das hipóteses de absolvição sumária previstas no artigo 397 do CPP, sendo imprescindível a realização de instrução. Em assim sendo, designo AIJ para o dia 29/11/2023, às 14:30 horas. Intimem-se o acusado, testemunhas, Defensor, bem como o Ministério Público." (ordem 02)
+Registre-se que o recebimento da denúncia é classificado como despacho meramente ordinatório, não se submetendo, pois, ao disposto no artigo 93, inciso IX, da Constituição da República. Nesse contexto, deve o juiz se ater às disposições do artigo 41 do Código de Processo Penal para validar ou não a peça inaugural da acusação e, preenchidos os requisitos, impulsionar o procedimento  .. " (e-STJ, fls. 12-13).
+Nos termos da jurisprudência desta Corte, não configura nulidade a postergação do exame de nulidades invocadas na resposta à acusação ou na defesa prévia quando demandarem, na avaliação do juízo processante, dilação probatória para sua verificação, isto porque a audiência de instrução é o foro próprio para a produção de provas que vão formar a convicção do magistrado sobre o alegado. Cito precedentes nesse sentido:
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. AÇÃO PENAL ORIGINÁRIA. CRIME DE AMEAÇA. DEFESA PRELIMINAR. RECEBIMENTO DA DENÚNCIA. PRELIMINARES SUSCITADAS NA DEFESA PRÉVIA. NULIDADE PELA AUSÊNCIA DE APRECIAÇÃO DAS TESES DA DEFESA ANTES DA INSTRUÇÃO PROCESSUAL. INOCORRÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+1. Não há ilegalidade na falta do exame, agora inclusive já realizado, das teses defensivas trazidas na defesa prévia, pois ausente a fase do juízo de absolvição sumária no rito especial das ações penais originárias.
+2. Já tendo sido parte das teses da defesa pouco antes examinadas pela Corte local, e hoje inclusive expressamente enfrentadas, não se constatam prejuízos.
+3. Habeas corpus não conhecido. (HC n. 310.221/DF, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 12/4/2016, DJe de 22/4/2016.)
+RECURSO ESPECIAL. HOMICÍDIOS. MANDANTE INTELECTUAL. RECURSO EM SENTIDO ESTRITO. PRONÚNCIA. NULIDADES. INÉPCIA DA DENÚNCIA. AUSÊNCIA DE DESCRIÇÃO DA PARTICIPAÇÃO DE CADA ACUSADO NA EMPREITADA CRIMINOSA. RECEBIMENTO IMPLÍCITO DO ADITAMENTO DA DENÚNCIA. EXIGÊNCIA DE FORMALIDADE NÃO DESCRITA EM LEI. AUSÊNCIA DE EXAME DAS TESES LEVANTADAS EM DEFESA PRÉVIA. PREJUÍZO NÃO DEMONSTRADO. ANÁLISE NA PRONÚNCIA. JUNTADA DE DOCUMENTOS PELO MINISTÉRIO PÚBLICO ANTES DAS ALEGAÇÕES FINAIS E QUE NÃO MENCIONAM OS NOMES DAS RECORRENTES.
+ ..
+V - Nos termos do art. 563 do Código de Processo Penal, no campo das nulidades - relativa ou absoluta -, vigora no processo penal o princípio geral pas de nullité sans grief, segundo o qual não se proclama a nulidade do ato processual se, embora produzido em desacordo com as formalidades legais, ausente prejuízo.
+VI - As alegações suscitadas pelas recorrentes na resposta à acusação, apesar de não terem sido apreciadas, de imediato, foram devidamente repelidas à oportunidade da sentença de pronúncia, que rejeitou as preliminares arguidas e entendeu pela existência de indícios de autoria com a possibilidade da versão apresentada pelo Ministério Público ser verdadeira no sentido de ter sido o crime encomendado pelas recorrentes por vingança, determinando a submissão da causa ao Tribunal do Júri.
+ ..
+VIII - Recurso especial a que se nega provimento. (REsp n. 1.398.551/AL, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/10/2015, DJe de 19/10/2015.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
