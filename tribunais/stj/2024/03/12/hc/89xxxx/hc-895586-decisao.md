@@ -1,0 +1,9 @@
+DECISÃO
+O paciente, condenado por latrocínio e associação criminosa, alega sofrer coação ilegal em face de acórdão do Tribunal a quo, proferido na Apelação n. 0003914-20.2003.8.14.0061.
+A defesa busca "a nulidade processual da decisão que decretou o trânsito em julgado", ante a ausência de intimação do advogado via Diário de Justiça Eletrônico, após a migração do processo físico para o digital (evento desconhecido pela defesa), e de publicação "de atos e decisões processuais no Diário de Justiça" (fl. 5).
+Decido.
+Não identifico prova pré-constituída das alegações do advogado, de que o defensor que patrocinava o réu na data do julgamento da apelação deixou de ser regularmente intimado do acórdão. Não consta dos autos certidão judicial com o registro de dados que permitam a análise da nulidade (o nome do advogado que patrocinava o réu na data do julgamento da apelação, o meio pelo qual ocorreu a intimação do acórdão, a ausência de intimação da defesa após a conversão dos autos físicos em eletrônicos e a data desse evento). Ainda, o trânsito em julgado não é declarado por decisão judicial, mas por certidão da Secretaria, e a defesa, ao que parece, não suscitou nenhum vício ao órgão de segundo grau, ausente prévia deliberação sobre a controvérsia.
+A deficiência na instrução impossibilita o processamento do remédio constitucional, que não comporta dilação probatória ou conversão de diligências, ante sua natureza mandamental. Deveras, é "ônus do impetrante instruir o habeas corpus requerido a esta Corte com cópia do ato coator, além da prova pré-constituída da aventada ilegalidade ou do abuso de poder. A deficiente instrução do writ impede o seu conhecimento" (EDcl no HC n. 783.484/MS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 6ª T., DJe de 17/2/2023).
+À vista do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o processamento do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
