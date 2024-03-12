@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por INCORPY INCORPORAÇÕES E CONSTRUÇÕES S/A contra decisão de minha lavra a fls. 378/380 que conheceu do agravo para negar provimento ao recurso especial, e, quanto ao ônus da sucumbência recursal, deixou de majorar os honorários de advogado no termos do art. 85, §11, do CPC/2015, pois o recurso especial é oriundo de agravo de instrumento.
+Nas razões dos embargos de declaração, sustenta a embargante que a fundamentação adotada na decisão ora embargada, no tocante à negativa de vigência dos arts. 489, 1.022, do CPC/2015, é genérica, pois deixou de analisar especificamente os argumentos de que o Tribunal a quo não enfrentou a alegada inexistência de conduta dolosa com intuito de prejudicar a parte adversa, para fins de descaracterizar a litigância de má-fé, tampouco o descabimento da aplicação de multa pelo não pagamento voluntário, tendo em vista a execução estar salvaguardada pelo seguro-garantia.
+A impugnação ao presente recurso foi apresentada a fls. 395/408.
+É o relatório. Passo a decidir.
+O recurso especial é oriundo de agravo de instrumento interposto contra decisão que aplicou multa por litigância de má-fé, no âmbito do cumprimento de sentença.
+A questão do recurso especial volta-se à incompletude na prestação jurisdicional, nos termos dos arts. 489 e 1.022 do CPC/2015.
+A primeira omissão diz respeito às excludentes da condenação por litigância de má-fé. Conforme asseverado na decisão embargada, no ponto, o Tribunal a quo não se mostrou omisso, esclareceu que a aplicação da multa por litigância de má-fé se baseou no fato de a parte ter se manifestado, às fls. 1516- 1524 dos autos de origem, no sentido de que o valor residual da execução seria R$ 12.000,00 (doze mil reais), por considerar a necessidade de haver compensação de valores. Todavia, a compensação de valores já teria ocorrido previamente nos próprios autos. Consignou o Tribunal a quo ter havido tentativa de indução do julgador a erro, o que implicou em prática perniciosa, maculando o debate travado e violando a lealdade processual.
+No que tange à discussão acerca da aplicação da multa de 10% prevista no art. 523, §1º, do CPC/2015, segunda questão tida por omitida pelo Tribunal a quo, o vício da omissão, igualmente, não se mostrou presente no acórdão recorrido. No ponto, asseverou-se na decisão ora embargada que o Tribunal a quo esclareceu que o tema fora alcançado pela preclusão, uma vez que a decisão interlocutória prolatada às fls. 1484 dos autos originários, a qual arbitrou a multa pela ausência de pagamento espontâneo do débito exequendo pela parte executada, não fora impugnada pela via recursal, o que a tornou imutável. (e-STJ Fl.98)
+Com efeito, os embargos de declaração não se prestam ao rejulgamento do recurso, são destinados a suprir o vício da omissão, contradição, obscuridade, ou sanar eventual erro material no julgado.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA SUSPENSÃO DE LIMINAR E DE SENTENÇA. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. INEXISTÊNCIA. PRETENSÃO DE REEXAME. EMBARGOS REJEITADOS.
+1. Consoante a literalidade do artigo 1.022 do Código de Processo Civil, os Embargos de Declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual deveria se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material.
+2. A contradição que enseja o acolhimento dos declaratórios é aquela interna no julgado que contém proposições inconciliáveis entre si, e não entre a decisão embargada e fato externo ou entre a tese defendida pela parte e a adotada em outros julgados.
+3. Os aclaratórios possuem finalidade integrativa e, portanto, não se prestam à reforma do entendimento aplicado ou ao rejulgamento do Pedido de Suspensão, conforme pretende a embargante.
+4. Embargos de Declaração rejeitados."
+(EDcl no AgInt na SLS 3.294/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 07/02/2024, DJe de 14/02/2024)
+No presente caso, a parte embargante não apontou vício a ser suprido, tampouco erro material a ser sanado. Demonstra o intento do rejulgamento, técnica imprópria no âmbito da via eleita.
+Diante do exposto, rejeitam-se os embargos de declaração.
+Publique-se.
+EMENTA
