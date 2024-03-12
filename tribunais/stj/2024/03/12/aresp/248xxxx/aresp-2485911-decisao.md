@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por MAURICIO SIRTULI, fundado no art. 105, III, "a" e "c" da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado de Santa Catarina, assim ementado (e-STJ, fls. 492/494):
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. AGRESSÃO EM CASA NOTURNA. LESÃO NA FACE COM GARRAFA DE VIDRO. SENTENÇA CONDENATÓRIA EM AÇÃO CRIMINAL TRANSITADA EM JULGADO. PRETENSÃO DE RECEBIMENTO DE INDENIZAÇÃO POR DANOS MATERIAIS, MORAIS E ESTÉTICOS. PROCEDÊNCIA NA ORIGEM. RECURSO DO RÉU PARA MINORAÇÃO DO QUANTUM ARBITRADO. SEM RAZÃO. ABALO MORAL EVIDENTE. DANO ESTÉTICO CONSISTENTE EM CICATRIZES PROFUNDAS NA FACE (NARIZ, BOCA E TESTA). VALORES FIXADOS (R$ 10.000,00 PARA DANOS MORAIS E R$ 10.000,00 PARA DANOS ESTÉTICOS) QUE BEM ATENDEM ÀS PARTICULARIDADES DA CAUSA. SENTENÇA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+Em suas razões recursais, a parte recorrente alegou ter o Tribunal de origem dado interpretação divergente ao art. 927 do Código Civil ao manter o quantum indenizatório arbitrado pelo juízo de primeiro de grau, colacionando, para tanto, julgado paradigma do Tribunal de Justiça do Rio Grande do Sul.
+Contrarrazões ao recurso especial às fls. 547-564.
+O recurso recebeu crivo negativo de admissibilidade na origem, ascendendo a esta Corte Superior por meio da interposição de agravo.
+É o relatório. Decido.
+Inicialmente, importa aclarar que o conhecimento do recurso especial interposto com fulcro na alínea "c", do inciso III, do art. 105, da Constituição Federal, como no presente caso, exige o atendimento dos requisitos dos arts. 1.029, § 1º, do CPC/2015 e 255, §1º e 3º, do RISTJ.
+Para a demonstração do dissídio jurisprudencial alegado, espera-se que a parte não apenas colacione as ementas dos julgados considerados paradigmas, mas que junte o inteiro teor dos acórdãos em que se fundamenta a divergência ou indique repositório oficial ou credenciado, bem como que realize o indispensável cotejo analítico entre o aresto recorrido e o paradigma, com a constatação da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional.
+No presente caso, muito embora a parte alegue dissídio jurisprudencial, o descompasso decisório não foi comprovado, uma vez que não cumpridos os requisitos legais dos artigos supramencionados. Reforça-se que a mera transcrição da ementa de acórdão exarado pelo TJ-RS não pode ser confundida com o necessário cotejo analítico, exigível como forma a se demonstrar a similitude fática entre os acórdãos recorrido e paradigma. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER E OBRIGAÇÃO DE PAGAR C/C INDENIZAÇÃO POR DANOS MORAIS E TUTELA ANTECIPADA. AUSÊNCIA DE PREQUESTIONAMENTO. PREQUESTIONAMENTO IMPLÍCITO. NÃO VERIFICAÇÃO. SÚMULAS N. 282 E 356 DO STF. DISSÍDIO JURISPRUDENCIAL. NÃO CONHECIDO. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+(..)
+4. A simples transcrição das ementas, sem o correspondente cotejo analítico entre os paradigmas e o acórdão recorrido e sem a demonstração da identidade ou similitude fática entre eles nos moldes do RISTJ, impede o conhecimento do recurso especial pela alínea c do permissivo constitucional.
+5. A falta de prequestionamento impede a análise do dissenso jurisprudencial, porquanto inviável a comprovação da similitude das circunstâncias fáticas e do direito aplicado.
+6 . Agravo interno desprovido.
+(AgInt no REsp n. 2.041.495/RN, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. Violação ao art. 1.022, do CPC/15 não configurada. Incidência do enunciado contido na Súmula 284/TF. Alegação genérica de negativa de prestação jurisdicional, sem especificação das teses que supostamente deveriam ter sido analisadas pelo acórdão recorrido.
+2. Ausência de demonstração da ocorrência do dissídio jurisprudencial, nos termos do art. 255, § 1º, do RISTJ, porquanto deixou a parte recorrente de realizar o necessário cotejo analítico entre o acórdão recorrido e os paradigmas indicados, de sorte a evidenciar a similitude de base fática dos casos confrontados e a divergência de resultados em torno da mesma questão jurídica.
+(..)
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.239.134/RJ, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 30/10/2023, DJe de 3/11/2023.)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA N. 284/STF. DANOS MORAIS. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. VALOR DA INDENIZAÇÃO. PROPORCIONALIDADE E RAZOABILIDADE. DECISÃO MANTIDA.
+1. O conhecimento do recurso especial exige a indicação dos dispositivos legais supostamente violados. Ausente tal requisito, incide a Súmula n. 284/STF.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+3. No caso, o Tribunal de origem concluiu pela existência de dano moral. Alterar esse entendimento demandaria a análise do conteúdo fático-probatório dos autos, o que é incabível no especial.
+4. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar a reavaliação, em recurso especial, da verba indenizatória fixada.
+5. O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige a demonstração da divergência, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas.
+6. Agravo interno a que nega provimento.
+(AgInt no AREsp n. 2.249.662/RN, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 21/8/2023, DJe de 28/8/2023.)
+Por fim, alegou a parte recorrente vulneração ao art. 1.022 do CPC/15, no entanto, de forma genérica, não particularizando eventual omissão, obscuridade ou contradição do acórdão recorrido ou a oposição de embargos de declaração.
+Evidente que "a simples menção de oposição de embargos de declaração nas instâncias ordinárias, sem a especificação dos pontos supostamente negligenciados, inviabilizam o conhecimento da matéria." (AgInt no AREsp n. 2.227.875/RO, relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 23/10/2023, DJe de 25/10/2023.)
+A alegação genérica de ofensa a artigo de lei resulta na deficiência da fundamentação do recurso especial, o que não permite a compreensão exata da controvérsia. Assim, ante a deficiente fundamentação do recurso, incide a Súmula 284 do STF. Nesse sentido:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO REVISIONAL DE CONTRATO DE FINANCIAMENTO CUMULADA COM REPETIÇÃO DE INDÉBITO. ENTIDADE DE PREVIDÊNCIA COMPLEMENTAR FECHADA. CAPITALIZAÇÃO DE JUROS. VEDAÇÃO. OMISSÃO NÃO DEMONSTRADA. AUSÊNCIA DE PARTICULARIZAÇÃO DOS ARTIGOS VIOLADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULAS NºS 5 E 7, AMBAS DO STJ, E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A mera referência aos vícios previstos no art. 1.022 do NCPC, sem a particularização das teses e dos fundamentos sobre os quais o Tribunal estadual teria se omitido ou enfrentado de forma deficiente, constitui alegação genérica, incapaz de evidenciar o mal ferimento da lei federal invocada.
+(..)
+(AgInt no AREsp 1542130/MG, Rel. Ministro MOURA RIBEIRO, Terceira Turma, julgado em 17/02/2020, DJe 20/02/2020, g.n.)
+Diante do exposto, não conheço do recurso especial.
+Majoram-se os honorários advocatícios no percentual de 1% (um por cento) sobre o valor já fixado.
+Publique-se.
+EMENTA
