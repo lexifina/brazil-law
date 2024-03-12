@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 12/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO. IMPUGNAÇÃO DA DECISÃO DE ADMISSIBILIDADE. NOVA ANÁLISE. INDENIZAÇÃO. DANOS MORAIS. RECUSA DE CUSTEIO DE TRATAMENTO. PLANO DE SAÚDE. NECESSIDADE DE VERIFICAÇÃO DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. HONORÁRIOS ADVOCATÍCIOS. PERCENTUAL FIXADO PELA SUCUMBÊNCIA. REVISÃO. INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+2. A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+3. Rever o percentual dos honorários advocatícios fixados a título da sucumbência demanda a incursão no acervo fático-probatório dos autos, procedimento vedado pela Súmula n. 7 do STJ.
+4. Agravo interno desprovido.
+RELATÓRIO
+UNIMED NATAL SOCIEDADE COOPERATIVA DE TRABALHO MÉDICO interpõe agravo interno contra a decisão de fls. 498-500, que não conheceu do agravo em recurso especial em razão da incidência da Súmula n. 182 do STJ.
+Sustenta que impugnou os fundamentos da decisão que inadmitira o recurso especial e, aduzindo não ser aplicável à espécie a Súmula n. 7 do STJ, uma vez ser desnecessário o revolvimento fático-probatório, insiste na tese de afronta aos arts. 186 e 927 do Código Civil.
+Reitera as alegações relativas à ausência de preenchimento dos requisitos legais para a configuração dos danos morais.
+Requer, assim, a reconsideração da decisão agravada ou o provimento do presente recurso a fim de que do recurso especial se conheça e, nessa extensão, seja provido.
+A parte agravada apresentou impugnação às fls. 515-520.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO. IMPUGNAÇÃO DA DECISÃO DE ADMISSIBILIDADE. NOVA ANÁLISE. INDENIZAÇÃO. DANOS MORAIS. RECUSA DE CUSTEIO DE TRATAMENTO. PLANO DE SAÚDE. NECESSIDADE DE VERIFICAÇÃO DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. HONORÁRIOS ADVOCATÍCIOS. PERCENTUAL FIXADO PELA SUCUMBÊNCIA. REVISÃO. INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+2. A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+3. Rever o percentual dos honorários advocatícios fixados a título da sucumbência demanda a incursão no acervo fático-probatório dos autos, procedimento vedado pela Súmula n. 7 do STJ.
+4. Agravo interno desprovido.
+VOTO
+Razão assiste à agravante quanto à presença de impugnação específica dos fundamentos da decisão de inadmissibilidade do recurso especial, razão pela qual a decisão de fls. 498-500 deve ser reconsiderada.
+Procedo, pois, a novo exame de admissibilidade do recurso especial.
+Em nova análise, contudo, a irresignação do apelo nobre não reúne condições de prosperar.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Norte (Apelação Cível n. 0804890-90.2021.8.20.5300) nos autos de ação de obrigação de fazer.
+O julgado foi assim ementado (fls. 407-408):
+DIREITO CIVIL, DO CONSUMIDOR E PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA. AUTOR/PACIENTE DIAGNOSTICADO COM ACIDENTE VASCULAR CEREBRAL HEMORRÁGICO DECORRENTE DO ROMPIMENTO DE ANEURISMA. NECESSÁRIO PROCEDIMENTO CIRÚRGICO E RESPECTIVOS MATERIAIS PARA RECONSTRUÇÃO DA CALOTA CRANIANA. NEGATIVA INJUSTIFICADA DO FORNECIMENTO DA PRÓTESE BIOTIPADA "ENXERTO ÓSSEO BETA PRO FORMA ESPECIAL" PELO PLANO DE SAÚDE. SENTENÇA DE PROCEDÊNCIA. APELAÇÃO CÍVEL. ABUSIVIDADE DA CONDUTA DO PLANO DE SAÚDE AO RECUSAR O FORNECIMENTO DO MATERIAL PRESCRITO POR MÉDICO ASSISTENTE. ALEGAÇÃO DE QUE JÁ AUTORIZOU O PROCEDIMENTO E NÃO HÁ PRETENSÃO RESISTIDA. REJEIÇÃO. PROCEDIMENTO AUTORIZADO SOMENTE APÓS O AJUIZAMENTO DA AÇÃO. IMPOSSIBILIDADE DE LIMITAÇÃO DE TRATAMENTO. DIREITO À SAÚDE QUE DEVE SER GARANTIDO ATRAVÉS DE COBERTURA SATISFATÓRIA DE TODOS OS MEIOS NECESSÁRIOS AO RESTABELECIMENTO INTEGRAL DO PACIENTE. PRINCIPIO DA DIGNIDADE HUMANA. RECUSA INDEVIDA. DANOS MORAIS CONFIGURADOS. QUANTUM INDENIZATÓRIO FIXADO DE ACORDO COM OS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. CONHECIMENTO E DESPROVIMENTO DO APELO.
+1. A aplicabilidade do Código de Defesa do Consumidor, consoante previsto na Súmula 469 do STJ, possibilita a concretização de direitos fundamentais à vida e à saúde, à luz da dignidade da pessoa humana, sendo vedado ao plano de saúde limitar os tratamentos indicados pelo profissional para a cura do paciente.
+2. Deve o plano de saúde cumprir com a sua obrigação de disponibilizar todos os meios possíveis à garantia da saúde do demandante, sob pena de malferimento ao seu mister essencial, devendo oferecer todos os tratamentos exigidos para a enfermidade que acomete o beneficiário do plano de saúde, consoante a orientação que o médico do enfermo indicar, que por certo será o melhor procedimento para o caso da paciente em comento.
+3. Precedentes do TJRN (AC nº 2018.011328-5, Rel. Desembargador Amílcar Maia, 3ª Câmara Cível, j. 09/07/2019; AC nº 2017.016932-0, Rel. Juiz Convocado Luiz Alberto Dantas Filho, 2ª Câmara Cível, j. 19/02/2019).
+4. Apelação cível conhecida e desprovida.
+Nas razões do recurso especial, a agravante, além de suscitar a ocorrência de dissídio jurisprudencial, aponta violação dos arts. 186 e 927 do Código Civil.
+Alega que não houve negativa de cobertura do procedimento cirúrgico pela operadora do plano de saúde e que a parte agravada não ficou sem atendimento, de modo que não estão preenchidos os requisitos configuradores do dano moral.
+Defende a tese de que não se trata de dano moral in re ipsa.
+Aponta ainda contrariedade ao art. 85, § 2º, do CPC, alegando que "a base de cálculo indicada para apuração do quantum devido a título de honorários de sucumbência se mostra evidentemente exorbitante" (fl. 453).
+Requer o provimento do recurso para que se exclua o dano moral e para que o valor dos honorários seja calculado observando-se os princípios da razoabilidade e da proporcionalidade.
+O Tribunal de origem concluiu ser devida a condenação por danos morais decorrentes de recusa injustificada de cobertura de tratamento (prótese biotipada) pela operadora do plano de saúde, pois evidente a situação de aflição psicológica e de angústia do requerente. A propósito, vejam-se excertos do julgado (fls. 411-416, destaquei):
+14. No caso concreto, verifica-se que o autor teve negado o custeio da prótese customizada foi negado, com argumentação de que a peça não consta no rol da Agência Nacional de Saúde - ANS como cobertura obrigatória.
+15. Contudo, embora o plano de saúde alegue que autorizou o custeio da prótese requerida antes do ajuizamento da ação, não apresentou nenhuma prova neste sentido, ao passo que o autor juntou o documento de Negativa de Autorização datado de 16/12/2021, ao passo que a ação foi ajuizada em 20/12/2021.
+16. Impõe-se, ainda, registrar que, mesmo existindo pacto contratual livremente celebrado entre as partes, é assegurado ao Poder Judiciário intervir na relação negocial para devolver o equilíbrio determinado pela lei, pois é possível a revisão ou decretação de nulidade das cláusulas manifestamente ilegais e abusivas.
+17. Portanto, a despeito da existência de limites de cobertura, por ano de contrato, no Anexo II da Resolução Normativa nº 387/2015da ANS, revela-se abusivo o preceito excludente do custeio dos meios e materiais necessários ao melhor desempenho do tratamento clínico ou do procedimento cirúrgico coberto ou de internação hospitalar.
+ ..
+19. Com efeito, não cabe ao plano de saúde discutir ou questionar a prescrição médica, mormente no presente caso, em que se trata de paciente com tumor de sigmoide, localizado no lado esquerdo do intestino.
+20. De mais a mais, ao negar o fornecimento do material solicitado, a parte apelante impede a expectativa legítima da prestação dos serviços de saúde contratados.
+21. Logo, entendo que tal negativa se caracteriza abusividade, devendo o contrato de prestação de saúde ser interpretado de modo mais favorável ao consumidor, observada a dicção do art. 47 do Código de Defesa do Consumidor, senão vejamos:
+ ..
+22. Dessa forma, deve o recorrente cumprir com a sua obrigação de disponibilizar todos os meios possíveis à garantia da saúde do demandante, sob pena de malferimento ao seu mister essencial, devendo realizar o procedimento necessário, consoante a orientação que o médico indicar, que por certo será o melhor procedimento para o caso do paciente em comento.
+23. Nesse contexto, não é demais registrar que o direito à vida e à saúde, amplamente presente no caso em apreço, é uma consequência imediata do fundamento da dignidade da pessoa humana, porquanto o bem jurídico que se pretende tutelar é da maior importância, concernente à própria saúde do usuário, cuja proteção decorre de imperativo constitucional, que consagra no art. 1º, III, a dignidade da pessoa humana, e deve sobrepor-se ao direito eminentemente pecuniário.
+ ..
+26. Outrossim, tem-se que a responsabilidade do Plano de Saúde pelos danos causados ao segurado é caracterizada como objetiva, do art. 14 do Código de Defesa do Consumidor, sendo o dano moral, nesse caso, in re ipsa.
+27. A recusa injustificada de cobertura agrava a aflição psicológica e a angústia na saúde de qualquer pessoa, sobretudo em se tratando de paciente acometido da necessidade urgente de internação, obviamente abalado e fragilizado com a doença.
+28. Diante da constatação de que o plano de saúde tinha o dever de autorizar e custear a integralidade da cirurgia e seu material, faz-se necessário manter integralmente a sentença.
+ ..
+32. Neste contexto, é inegável o sofrimento, a dor e o desespero experimentados pelo autor, em virtude na negativa pelo plano de saúde, o que configura dano moral indenizável.
+A orientação desta Corte é no sentido de que a recusa injustificada de cobertura de tratamento pela operadora do plano de saúde, como na espécie, enseja indenização por danos morais, porquanto a situação de aflição psicológica e de angústia da parte usuária é agravada em decorrência da negativa da realização do procedimento indicado, não podendo ser considerada como mero aborrecimento.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. COBERTURA. RECUSA INJUSTIFICADA. ANS. ROL EXEMPLIFICATIVO. TRANSTORNO DEPRESSIVO GRAVE. TRATAMENTO. DEVER DE COBERTURA. RECUSA INDEVIDA. DANOS MORAIS. CARACTERIZAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A Terceira Turma do Superior Tribunal de Justiça reafirmou a jurisprudência no sentido do caráter meramente exemplificativo do rol de procedimentos da Agência Nacional de Saúde Suplementar (ANS), reputando abusiva a negativa da cobertura, pelo plano de saúde, do tratamento considerado apropriado para resguardar a saúde e a vida do paciente.
+3. A jurisprudência desta Corte Superior reconhece a possibilidade de o plano de saúde estabelecer as doenças que terão cobertura, mas não o tipo de tratamento utilizado para a cura de cada uma delas.
+4. É abusiva a negativa da cobertura, pelo plano de saúde, de tratamento/medicamento considerado apropriado para resguardar a saúde e a vida do paciente.
+5. O Superior Tribunal de Justiça firmou entendimento no sentido de que, tendo se caracterizado a recusa indevida de cobertura pelo plano de saúde, deve ser reconhecido o direito à indenização por danos morais, pois tal fato agrava a situação de aflição psicológica e de angústia no espírito do usuário, já abalado e com a saúde debilitada.
+6. Agravo interno não provido. (AgInt no REsp n. 1.976.123/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 28/11/2022, DJe de 9/12/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA INDEVIDA DE COBERTURA. DANO MORAL IN RE IPSA. DIVERGÊNCIA JURISPRUDENCIAL NOTÓRIA. AGRAVO INTERNOPROVIDO.
+1. "É possível a mitigação dos requisitos formais de admissibilidade do recurso especial diante da constatação de divergência jurisprudencial notória" (EDcl no AgRg no REsp 1.356.554/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em13/05/2014, DJe de 22/05/2014)
+2. Nas hipóteses em que há recusa injustificada de cobertura por parte da operadora do plano de saúde para tratamento do segurado, como ocorrido no presente caso, a orientação desta Corte é assente quanto à caracterização de dano moral, não se tratando apenas de mero aborrecimento. Caracterização de dano moral in re ipsa. Precedentes.
+3. Agravo interno a que se dá provimento. (AgInt no REsp n. 1.583.117/RS, Ministro Lázaro Guimarães, Quarta Turma, julgado em 15/3/2018, DJe de 22/3/2018.)
+Registre-se ainda que o Tribunal de origem concluiu pela ocorrência do dano moral com base na análise dos elementos de prova apresentados durante toda a instrução processual, o que inviabiliza a pretensão recursal ante o disposto na Súmula n. 7 do STJ.
+Quanto ao apontado dissídio, ressalte-se que a incidência da Súmula n. 7 do STJ em relação à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/6/2022, DJe de 30/6/2022; AgInt no AREsp n. 1.866.385/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/5/2022, DJe de 18/5/2022; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1º/9/2022; AgInt no AREsp n. 1.724.656/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/8/2022, DJe de 24/8/2022; AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+No que tange à alegada violação do art. 85, § 2º, do CPC, o Tribunal a quo fixou os honorários advocatícios nos seguintes termos (fl. 418):
+38. Por força do art. 85, § 11, do CPC, majoro os honorários advocatícios fixados em primeiro grau para 12% (doze por cento) sobre o valor do proveito econômico.
+Desse modo, considerando que o recurso especial não é via própria para rever questão referente à observância a os limites do art. 85, § 2º, do CPC se, para tanto, for necessário reexaminar elementos fáticos, é inafastável a incidência da Súmula n. 7 do STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
