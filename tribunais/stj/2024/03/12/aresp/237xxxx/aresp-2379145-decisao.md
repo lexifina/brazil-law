@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo de WILSON PIRES DE LIMA contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido no julgamento de Apelação Criminal n. 0057241-71.2014.8.09.0144.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 155, § 4º, I e IV, do Código Penal - CP (furto qualificado), à pena de 3 anos e 6 meses de reclusão, em regime inicial semiaberto, e 10 dias-multa (fl. 1107).
+Recurso de apelação interposto pela defesa foi parcialmente provido para reduzir a pena para 3 anos e 2 meses de reclusão (fl. 1442). O acórdão ficou assim ementado:
+"FURTO QUALIFICADO POR ROMPIMENTO DEOBSTÁCULO E CONCURSO DE PESSOAS. DESCLASSIFICAÇÃOPARA FURTO SIMPLES. INVIABILIDADE. Comprovada a ocorrênciado rompimento do obstáculo e do concurso de pessoas, não há se falarem desclassificação do furto qualificado. QUALIFICADORAROMPIMENTO OBSTÁCULO. AUSÊNCIA DE PERÍCIA DIRETA EAVALIAÇÃO DO DANO. O exame pericial não se constitui o únicomeio probatório possível para a comprovação da qualificadora do artigo155, § 4º, I, do Código Penal, sobretudo quando a demonstração podeser suprida pelo conjunto probatório constante dos autos, tal comoprova testemunhal, apoiada em documentais. DOSIMETRIA. REDUÇÃO DA PENA-BASE. IMPOSSIBILIDADE. MAUSANTECEDENTES. CONCURSO DE PESSOAS (APELANTE WILSON). Não há como ser procedida a redução da pena quandojustificado o acréscimo em maus antecedentes comprovadamenteexistentes e considerado o concurso de pessoas na prática do furto como circunstância judicial desfavorável. REINCIDÊNCIA. NÃOOCORRÊNCIA. MAUS ANTECEDENTES (APELANTE WILSON). Afasta-se a agravante da reincidência, se a condenação por fatoanterior alcançou o trânsito em julgado posteriormente ao crime emcomento, subsistindo apenas como maus antecedentes. DOSIMETRIA. REDUÇÃO DA PENA-BASE. IMPOSSIBILIDADE. CONCURSO DEPESSOAS (APELANTE EDMAR). Havendo duas qualificadoras nocrime de furto, pode uma delas (destruição ou rompimento deobstáculo) ser usada para qualificar o crime e a outra (concurso deagentes) para exasperação da pena-base. REGIME EXPIATÓRIO. ABRANDAMENTO. IMPOSSIBILIDADE. SUBSTITUIÇÃO DA PENAPRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. (APELANTE WILSON). Diante do quanto de penaaplicado, inferior a 04 anos, mas considerando os maus antecedentesdo agente, deve ser mantido o regime inicial semiaberto decumprimento de pena, nos termos do art. 33, §§ 2º e 3º, do CP. Osmaus antecedentes do agente indicam que a substituição da penaprivativa de liberdade por restritivas de direitos não será suficiente (artigo 44, III, CP). PRESCRIÇÃO DA PRETENSÃO PUNITIVA. NÃOOCORRÊNCIA. Se entre os marcos interruptivos não transcorreu olapso temporal previsto no artigo 109, IV, do Código Penal, tendo as penas sido fixadas em patamares superiores a dois anos, não há falarem extinção da punibilidade pela ocorrência da prescrição retroativa da pretensão punitiva. APELOS CONHECIDOS. PARCIALMENTE PROVIDO O PRIMEIRO E DESPROVIDO O SEGUNDO" (fl. 1440).
+Em sede de recurso especial (fls. 1450/1476), a defesa apontou violação aos arts. 1º, III e 93, IX, ambos da CF/88, arts. 419, 621 e 622, todos do Código de Processo Penal - CPP, Súmula 444 do Superior Tribunal de Justiça - STJ, sustentando, preliminarmente, a ocorrência de prescrição da pretensão punitiva e, no mérito, alega equívoco na dosimetria, requerendo a redução da pena, além do afastamento dos maus antecedentes.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS (fls. 1492/1511).
+O recurso especial foi inadmitido no TJ em razão da intempestividade (fls. 1515/1517).
+Em agravo em recurso especial, a defesa impugnou o referido óbice (fls. 1521/1547).
+Contraminuta do Ministério Público (fls. 1552/1554).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo não conhecimento do agravo em recurso especial (fls. 1565/1566).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+É intempestivo o recurso especial que não observa o prazo de interposição de 15 dias contínuos, conforme art. 798 do CPP e art. 1.003, § 5º, do Código de Processo Civil - CPC.
+A propósito:
+"PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. PRAZO DE 15 DIAS CONTÍNUOS. AGRAVO REGIMENTAL DESPROVIDO. AUSÊNCIA DE VÍCIO A SER SANADO. EMBARGOS REJEITADOS.
+ ..
+2. É intempestivo o recurso especial que não observa o prazo de interposição de 15 dias contínuos, conforme art. 798 do Código de Processo Penal - CPP e art. 1.003, § 5º, do Código de Processo Civil - CPC.
+ ..
+4. Embargos declaratórios rejeitados."
+(EDcl no AgRg no AREsp 1274746/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe 8/3/2019.)
+Consta dos autos que o acórdão recorrido foi publicado em 29/3/2023 (fl. 1449), iniciando-se o prazo recursal em 30/3/2023, com término em 13/4/2023, no entanto, o recurso especial foi interposto somente em 17/4/2023 (fls. 1450/1476), quando já ultrapassado o prazo recursal, tornando-o intempestivo.
+Contudo, tratando-se de matéria de ordem pública, nos termos do art. 61 do CPP, passo ao exame da prescrição.
+Consta dos autos que o recorrente foi condenado à pena de 3 anos e 2 meses de reclusão. Nesse contexto, aplica-se o prazo prescricional previsto no art. 109, IV, do CP (oito anos).
+Os fatos ocorreram em 3/10/2013, a denúncia foi recebida em 2/4/2014, a publicação da sentença condenatória ocorreu em 21/3/2016 e a publicação do acórdão recorrido em 29/3/2023. Nesse contexto, entre os marcos interruptivos, não transcorreu prazo superior a 8 anos, não havendo falar em prescrição da pretensão punitiva, permanecendo hígido o jus puniendi estatal.
+Diante do exposto, com fundamento no art. 253, parágrafo único, II, "a" do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso especial.
+Publique-se.
+Intimem-se.
+ EMENTA
