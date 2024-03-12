@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial no qual LUIS HENRIQUE GALLOTTI MATIAS BONFANTI insurgira-se, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 315):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO REJEITADOS. INADMISSIBILIDADE. Pretende o agravante rediscutir o mérito. Inadequação da via eleita. Grande lapso temporal transcorrido após o trânsito em julgado da decisão sem cumprimento das obrigações. A responsabilidade não pode ser transferida aos órgãos públicos, tampouco a multa deva ser dispensada ou reduzida. NEGADO PROVIMENTO AO RECURSO.
+Embargos de declaração rejeitados.
+Nas razões de seu recurso especial, a parte ora agravante indica violação dos arts. 18 do Código Florestal e 537 do Código de Processo Civil (CPC) ao argumento de que realizou a averbação da área de reserva legal na forma da legislação de regência ainda que houvesse ocorrido mora, tal fato por si só não poderia fundamentar a imposição de multa (astreintes) para cumprimento da obrigação, pois não decorreu de sua responsabilidade.
+A parte ora agravada apresentou as contrarrazões (fls. 425/429).
+Sobreveio o juízo de admissibilidade negativo, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+Compulsando os autos, constato que a alegação de violação dos arts. 18 do Código Florestal e 537 do CPC não é suficiente para se ter a questão de direito como prequestionada, instituto que, para sua caracterização, exige, além da alegação, a discussão e a apreciação judicial pelo Tribunal de origem.
+A jurisprudência desta Corte Superior considera que a ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211 do Superior Tribunal de Justiça (STJ).
+Ademais, nos exatos termos do acórdão recorrido, o Tribunal de origem assim se manifestou:
+A obrigação de averbar área de reserva legal não foi cumprida e, ainda, em que pesem as argumentações do agravante sobre a burocracia e lentidão que lhe foram impostas pelos órgãos públicos, não há elasticidade hermenêutica que permita o entendimento de que o prazo foi desarrazoado e insuficiente para viabilizar o cumprimento das obrigações.
+O agravante não pode transferir sua responsabilidade aos órgãos públicos, tampouco pretender que o dispense da multa ou que seu valor seja reduzido.
+A partir do momento em que determinada atividade passa a ameaçar a qualidade de vida do ser humano, cabe ao Direito utilizar-se de seus mecanismos para cessar a ameaça ou paralisar os efeitos nocivos que, no caso, poderão ser muitos e irreversíveis.
+Imperiosa, portanto, a medida judicial tendente a eliminar os fatores que permitam a continuidade e o incremento da agressão à qualidade de vida da população, bem assim ao ambiente como um todo (fl. 316).
+O Tribunal de origem reconheceu, por intermédio do acervo fático e probatório dos autos, que o recorrente não havia cumprido com sua obrigação de averbar a reserva legal dentro do prazo.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito o seguinte julgado deste Tribunal:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPOSTO TERRITORIAL RURAL. ÁREA TRIBUTÁVEL. RESERVA LEGAL E RESERVA PARTICULAR DO PATRIMÔNIO NATURAL. AVERBAÇÃO. ACÓRDÃO CUJA CONCLUSÃO NÃO PODE SER REVISTA EM REEXAME FÁTICO-PROBATÓRIO. INADMISSIBILIDADE.
+1. Não há violação do art. 535 do CPC/1973 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+2. No caso dos autos, considerado o delineamento fático-probatório realizado pelo órgão julgador a quo, forçoso reconhecer que o conhecimento do recurso encontra óbice na Súmula 7 do STJ, quanto à pretensão de atribuição de efeito ex nunc à sentença; e quanto àquela relacionada à suficiência da prova dos autos.
+3. "Não é possível conhecer de fato ou direito superveniente em sede de recurso especial, porquanto ausente o requisito constitucional do prequestionamento" (AgInt nos EAREsp 129.858/RS, Rel. Ministro Gurgel de Faria, Primeira Seção, DJe 25/10/2019). Assim, este Tribunal Superior não pode conhecer de decisões administrativas supervenientes que veiculam fundamentos favoráveis à tese recursal.
+4. Agravo interno não provido. (AgInt no REsp n. 1.593.918/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 7/6/2021, DJe de 10/6/2021.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimações necessárias.
+EMENTA
