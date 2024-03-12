@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência das Súmulas 7 e 83 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 61):
+ADMINISTRATIVO E PROCESSO CIVIL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. INOCORRÊNCIA DE JULGAMENTO ULTRA PETITA E EXCESSO DE EXECUÇÃO. IMPROVIMENTO DO RECURSO. DECISÃO POR UNANIMIDADE.
+1. Não se considera julgamento ultra petita o acolhimento de cálculos da contadoria judicial superiores ao montante apresentado pelo exequente, desde que os cálculos representem com fidelidade o título executivo, como de fato ocorreu. Precedentes do TJPE e STJ.
+2. Descabida a ocorrência do alegado excesso de execução haja vista que a execução de sentença foi proposta de acordo com os comandos do título executivo judicial, de modo que a alteração da forma de incidência dos juros moratórios e correção monetária incidentes sobre o valor da condenação neste momento processual implicaria violação à coisa julgada material. Precedentes do TJPE e STJ.
+3. Recurso não provido. Decisão por unanimidade.
+Embargos de declaração rejeitados.
+No recurso especial o recorrente alega violação do artigo 460 do CPC/1973, ao argumento de que o Tribunal de origem incorreu em julgamento ultra petita, porquanto reconheceu como devido ao autor valor superior àquele pleiteado na inicial da execução.
+Sem contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial que, frise-se, não merece prosperar.
+Com efeito, o acórdão recorrido encontra-se em conformidade com a jurisprudência desta Corte no sentido de que o acolhimento de cálculos elaborados pela Contadoria Judicial, ainda que superiores àqueles apresentados pela parte exequente, não configura hipótese de julgamento ultra petita, à vista da necessidade de ajustar os cálculos aos parâmetros da sentença exequenda, garantindo a perfeita execução do julgado.
+A propósito, confira-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO. CÁLCULOS ELABORADOS PELA CONTADORIA JUDICIAL. JULGAMENTO ULTRA PETITA. NÃO OCORRÊNCIA. ADEQUAÇÃO AOS PARÂMETROS DA SENTENÇA EXEQUENDA.
+1. O entendimento do acórdão recorrido contraria a pacífica orientação desta Corte, firmada no sentido de que "o acolhimento dos cálculos elaborados por Contador Judicial em valor superior ao apresentado pelo exequente não configura julgamento ultra petita, uma vez que, ao adequar os cálculos aos parâmetros da sentença exequenda, garante a perfeita execução do julgado" (AgRg no Ag 1088328/SP, Rel. Ministro Napoleão Nunes Maia Filho, Quinta Turma, julgado em 22/6/2010, DJe 16/8/2010). Precedentes.
+2. Agravo interno não provido (AgInt no REsp 1.904.644/PE, relator Ministro Sérgio Kukina, Primeira Turma, DJe 14/5/2021).
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CÁLCULO DO CONTADOR JUDICIAL. VALOR SUPERIOR AO POSTULADO PELO EXEQUENTE. JULGAMENTO ULTRA PETITA. NÃO OCORRÊNCIA. SÚMULA 83/STJ. RECURSO NÃO PROVIDO.
+1. Não configura julgamento ultra petita, a homologação de cálculos do contador judicial, quando estão de acordo com o título judicial em execução, ainda que superiores ao postulado pelo exequente. Precedentes.
+2. Agravo interno não provido (AgInt nos EDcl no AREsp 1.306.961/PA, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe 26/2/2019).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. OFENSA AO ART. 535 DO CPC/1973 NÃO CARACTERIZADA. EXECUÇÃO DE SENTENÇA. ACOLHIMENTO DOS CÁLCULOS DO CONTADOR JUDICIAL. VALORES SUPERIORES AOS INDICADOS PELA PARTE EXEQUENTE. JULGAMENTO ULTRA PETITA. NÃO CONFIGURAÇÃO. HONORÁRIOS ADVOCATÍCIOS. MARCO TEMPORAL. SENTENÇA PROLATADA NA VIGÊNCIA DO CPC DE 1973. APLICAÇÃO DO ART. 85 DO CPC/2015. DESCABIMENTO. PRINCÍPIO DO TEMPUS REGIT ACTUM.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC/1973.
+2. O acórdão recorrido encontra-se em consonância com a orientação do STJ, de que o acolhimento de cálculos elaborados pela contadoria oficial, embora superiores àqueles apresentados pela parte exequente, não configura hipótese de julgamento ultra petita, à vista da necessidade de ajustar os cálculos aos parâmetros da sentença exequenda, garantindo a perfeita execução do julgado.
+3. O STJ compreende que as normas sobre fixação de honorários advocatícios não são alcançadas pela lei nova quando a sentença que os determina como ato processual foi prolata sob a égide do Codex anterior. Aplicação do Princípio do tempus regit actum.
+4. No caso sub examine, a verba advocatícia foi fixada pela sentença sob a vigência do Código de Processo Civil/1973, motivo pelo qual não agiu corretamente o Colegiado local quando determinou a reforma da sentença para que a fixação dos honorários de advogado se dê nos termos do art. 85, § 4º, II, do CPC/2015.
+5. Recurso Especial parcialmente conhecido e, nesse segmento, provido em parte (REsp 1.731.936/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe 23/11/2018).
+De igual modo, reflete a orientação de que "a execução de título judicial deve ser realizada nos exatos termos da condenação exposta na sentença transitada em julgado, sendo defeso ao juízo da execução rediscutir os critérios claramente fixados do título executivo, sob pena de violação à garantia coisa julgada" (AgRg no REsp 1.482.192/PB, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 16/11/2015).
+Em igual sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CORREÇÃO MONETÁRIA E JUROS DE MORA. TÍTULO JUDICIAL. ALTERAÇÃO. IMPOSSIBILIDADE. COISA JULGADA. ERRO DE CÁLCULO. INEXATIDÃO ARITMÉTICA. AGRAVO INTERNO NÃO PROVIDO.
+1. Na fase de execução, a coisa julgada não impede a aplicação da Lei n. 11.960/2009 no tocante aos títulos formados anteriormente à sua vigência ou quando o processo de conhecimento, embora transitado em julgado a posteriori, nele não se debateu sobre a incidência de tal norma por motivo não imputável à parte interessada.
+2. Solução distinta deve ser adotada quando a questão dos juros moratórios e da correção monetária foi esgotada na fase cognitiva, examinando-se a controvérsia à luz da Lei n. 11.960/2009, independentemente do acerto da solução adotada no caso concreto em relação às teses definidas no julgamento dos Temas n. 810/STF e n. 905/STJ.
+3. Nessa hipótese, devem prevalecer os parâmetros fixados na sentença transitada em julgado, sendo incabível ao juízo da execução redefinir o título executivo nesse aspecto, sob pena de violação à coisa julgada.
+4. Esta Corte Superior possui jurisprudência no sentido de que o erro de cálculo passível de correção, segundo os ditames do art. 463, I, do CPC, é aquele decorrente de inexatidão aritmética, que não se confunde com a aplicação de um ou outro critério de correção monetária e de juros de mora. Inafastável o óbice da Súmula 83 do STJ.
+5. Agravo interno não provido (AgInt no REsp 1.962.609/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 3/6/2022).
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENSÃO. RATEIO. FORMA DETERMINADA NO TÍTULO JUDICIAL. IMPOSSIBILIDADE DE ALTERAÇÃO NA EXECUÇÃO. COISA JULGADA. ACRÉSCIMO DE FUNDAMENTO À DECISÃO AGRAVADA. SÚMULA 7/STJ.
+1. Não é possível alterar os critérios de cálculo fixados no título exequendo por ocasião da execução, em razão do óbice da coisa julgada. Precedentes.
+2. Em acréscimo aos fundamentos da decisão ora agravada, é inviável rever os termos do título exequendo a fim de infirmar o acórdão recorrido, pois tal proceder encontra óbice no teor da Súmula 7/STJ. Precedentes.
+3. Agravo interno a que se nega provimento (AgInt no AREsp 1.198.689/RJ, relator Ministro Og Fernandes, Segunda Turma, DJe 5/5/2022).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial. Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. ACOLHIMENTO DOS CÁLCULOS DO CONTADOR JUDICIAL. VALORES SUPERIORES AOS INDICADOS PELA PARTE EXEQUENTE. JULGAMENTO ULTRA PETITA E EXCESSO DE EXECUÇÃO NÃO CONFIGURADOS. PRECEDENTES. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
