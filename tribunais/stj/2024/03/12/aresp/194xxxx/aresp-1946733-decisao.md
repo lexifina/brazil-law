@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por Ezequiel Amaral de Oliveira contra a decisão do Tribunal Regional Federal da 4ª Região que, em juízo de admissibilidade, inadmitiu o recurso especial por ele apresentado contra o acórdão proferido na Apelação Criminal n. 5003530-85.2018.4.04.7100/RS (fls. 886/900).
+DIREITO PENAL. ROUBO. ARTIGO 157, § 2º, INCISOS I E II, DO CP. AUTORIA. DOSIMETRIA. MAUS ANTECEDENTES. REINCIDÊNCIA. EMPREGO DE ARMA DE FOGO. CONCURSO FORMAL. PENA DE MULTA. PRAZO EM DOBRO.
+1. A negativa de autoria isolada do contexto probatório não tem o condão de gerar dúvida, de modo que se impõe a manutenção da condenação dos réus pelo crime de roubo.
+2. Conforme entendimento desta Corte e do STJ, a condenação por fato anterior ao tratado nos autos, ainda que o trânsito em julgado seja posterior, possibilita a valoração como maus antecedentes.
+3. Ostentando o réu mais de uma condenação transitada em julgado, não há óbice ao reconhecimento de uma delas como maus antecedentes e a outra a título de reincidência.
+4. Tratando-se de roubo em coautoria, o emprego de arma de fogo por um só dos agentes estende a majoração a todos os participantes da empreitada criminosa, vez que tal circunstância reveste-se de natureza objetiva.
+5. Praticado o crime de roubo em um mesmo contexto fático, mediante uma só ação, contra vítimas diferentes, tem-se configurado o concurso formal de crimes, e não a ocorrência de crime único, visto que violados patrimônios distintos.
+6. A pena de multa deve ser fixada de forma proporcional à pena privativa de liberdade.
+7. O Código de Processo Civil/2015, cuja aplicação subsidiária ao processo penal é prevista pelo art. 3º do CPP, estabelece, no § 3º do art. 186, que o prazo em dobro pertinente à Defensoria Pública é aplicável a todas as manifestações processuais de "escritórios de prática jurídica das faculdades de Direito reconhecidas na forma da lei".
+No recurso especial, o agravante indica a violação dos arts. 226 e 386, V e VII, ambos do Código de Processo Penal, requerendo sua absolvição diante da ausência de provas da sua autoria (fl. 920).
+Apresentadas contrarrazões (fls. 930/939), o Tribunal de origem não admitiu o recurso com suporte na Súmula 7/STJ (fls. 942/945).
+Contra essa decisão a defesa interpõe o presente agravo (fls. 956/963).
+Contraminuta às fls. 967/968.
+Instado a se manifestar, o Ministério Público Federal opinou pelo colacionou parecer relativo a outro processo, não obstante tenha tratado da temática (fls. 983/987 - grifo nosso).
+PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO QUALIFICADO. RECURSO ESPECIAL NÃO ADMITIDO NA ORIGEM POR INCIDÊNCIA DAS SÚMULAS 7 E 83 DO STJ. RECONHECIMENTO FOTOGRÁFICO CORROBORADO POR OUTRAS PROVAS DOS AUTOS. VALIDADE. NÃO APREENSÃO DA ARMA DO CRIME. CONTINUIDADE DELITIVA. REEXAME DE PROVAS. NÃO PROVIMENTO DO AGRAVO.
+1. O agravante, em seu recurso especial, pugnou pela sua absolvição sob a alegação de violação ao art. 226 do Código de Processo Penal, alegando que não há prova válida para a sua condenação, que se perfez apenas pelo seu reconhecimento fotográfico na fase policial, sendo que sequer foi ouvido nos autos. Sucessivamente, requereu o decote da causa de aumento relativa ao emprego de arma e o reconhecimento da continuidade delitiva.
+2. Ocorre que o Tribunal de Justiça de São Paulo, analisando o conjunto probatório dos autos formado pelas fases policial e judicial, manteve a condenação do ora agravante, porque evidenciadas a autoria e materialidade do delito.
+3. Para alterar a conclusão do Tribunal local seria necessário o revolvimento do material fático-probatório dos autos, o que é vedado em sede de recurso especial, como bem asseverou a decisão que inadmitiu o recurso especial.
+4. Ademais, a conclusão do acórdão recorrido está em consonância com a jurisprudência desse Superior Tribunal de Justiça sobre os temas controvertidos.
+-Parecer pelo conhecimento e não provimento do agravo em recurso especial.
+É o relatório.
+O agravo preenche os requisitos de admissibilidade. Quanto ao recurso especial em si, tenho que não prospera a tese apresentada pelo agravante.
+Extrai-se da sentença condenatória que, considerando o reconhecimento de todas as testemunhas e as imagens gravadas do dia do fato, comprovada a autoria delitiva de Ezequiel Amaral de Oliveira. Também configurado o elemento subjetivo específico exigido pelo tipo do artigo 157 do CP, consistente em subtrair a coisa para si ou para outrem (fl. 714 - grifo nosso).
+O Tribunal de origem reforça que as testemunhas Andrea da Silva, Camila de Oliveira Jobim Corrêa, Renan Russo Ilha e Fabio Falcão Breyer também identificaram Ezequiel como autor do crime. As alegações defensivas não prosperam. A ausência de digitais pode ser justificada pela utilização de luvas, o que é comum em crimes desse jaez. De qualquer forma, o próprio réu, em seu interrogatório, disse que estava na agência de Correios para registrar uma carta, de modo que seria de se esperar a presença de digitais no laudo papiloscópico. No caso, a ausência de digitais demonstra um cuidado especial para não deixar digitais, cuidado este que não é afeito a um simples cliente dos Correios. Logo, inverossímil a versão defensiva do réu de que estava na agência apenas como cliente. As imagens produzidas pela câmera de segurança apenas demonstram que o autor do crime tinha um tipo físico semelhante ao réu, o que não é por si só, suficiente para condenação. Entretanto, tal prova é complementar e, associada aos depoimentos das testemunhas, que, conforme já registrado, não tinham qualquer motivo para faltar com a verdade e imputar falsamente um fato ao réu, é suficiente para demonstrar de forma cabal a autoria do crime de roubo. Mantenho também a condenação do réu Ezequiel (fls. 894/895 - grifo nosso).
+No caso concreto, verifica-se que a autoria delitiva não se amparou, exclusivamente, no reconhecimento fotográfico realizado na fase do inquérito policial.
+Dessa forma, impõe-se a manutenção do quanto decidido pelas instâncias ordinárias.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. AUTORIA. INOBSERVÂNCIA DO PROCEDIMENTO PREVISTO NO ART. 226 DO CPP. EXISTÊNCIA DE OUTROS ELEMENTOS DE PROVA VÁLIDOS E INDEPENDENTES. RECURSO NÃO PROVIDO.
+1. O reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto, para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa.
+2. No caso concreto, a prova da autoria delitiva decorreu não apenas do reconhecimento do recorrente nas fases de inquérito e judicial, mas das circunstâncias da prisão em flagrante e das provas testemunhais produzidas em juízo, o que gera distinguishing em relação ao acórdão paradigma da alteração jurisprudencial (HC n. 598.886/SC).
+3. Agravo regimental não provido.
+(AgRg no AgRg no AREsp n. 1941041/SP, Ministro Reynaldo Soares Da Fonseca, Quinta Turma, DJe 15/2/2022 - grifo nosso).
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. ROUBO MAJORADO. VIOLAÇÃO DOS ARTS. 226 E 386, V E VII, AMBOS DO CPP. TESE DE NULIDADE. INOBSERVÂNCIA DO PROCEDIMENTO DE RECONHECIMENTO PESSOAL. EXISTÊNCIA DE OUTROS ELEMENTOS DE PROVA VÁLIDOS E INDEPENDENTES. MANUTENÇÃO DO RECORRIDO ACÓRDÃO QUE SE IMPÕE. JURISPRUDÊNCIA DO STJ.
+Agravo conhecido para negar provimento ao recurso especial.
