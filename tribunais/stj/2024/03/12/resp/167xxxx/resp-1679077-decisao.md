@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por Therezinha Barbosa Goellner, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 171):
+ADMINISTRATIVO E PROCESSUAL CIVIL. SFH. QUITAÇÃO. NÃO DEMONSTRAÇÃO. Não demonstrada pelo autor a quitação integral do contrato de financiamento, inviável a declaração de inexistência de dívida e cancelamento da hipoteca.
+Os primeiros embargos de declaração da recorrente foram acolhidos, "com atribuição de efeitos infringentes, para reconhecer a prescrição da pretensão da Caixa Econômica Federal em relação à cobrança da dívida referente ao contrato de mútuo n.º 999801034513.0" (fls. 198). Os segundos embargos também foram acolhidos parcialmente, "apenas para fixar os honorários advocatícios em razão da inversão da sucumbência" (fls. 217).
+Nas razões do especial, o recorrente alega, além de dissídio jurisprudencial, violação do artigo 186, 187 e 927 do CC, ao argumento de que a recorrida não poderia ter sido isentada do pagamento de indenização para a reparação dos danos morais decorrentes do seu ato ilícito comissivo e voluntário. Defende que existe responsabilidade in re ipsa por danos morais em razão da cobrança indevida de dívida prescrita por meio de execução, notificações e leilões extrajudiciais.
+Adiante, aponta ofensa ao artigo 20, §4º, do CPC/73 e divergência jurisprudencial, alegando que os honorários advocatícios foram fixados em valor aviltante (R$ 3.000,00), representando menos de 1% (um por cento) em relação ao valor da causa (R$ 441.172,00).
+Sem contrarrazões (fls. 292).
+Juízo positivo de admissibilidade às fls. 285.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Examinando os autos, verifica-se que são oriundos de ação declaratória em face da Caixa Econômica Federal, objetivando a declaração de inexistência de dívida em razão da quitação integral do contrato, bem como o cancelamento da hipoteca e a condenação da demandada à indenização por danos morais.
+Na sentença, o magistrado concluiu que "não merece prosperar o pedido autoral, diante da não comprovação da quitação do contrato, o que implica no não reconhecimento da inexistência de dívida e, por consequência, não há qualquer direito à exclusão da hipoteca ou ao alegado dano moral, já que inexistiu ato ilegal da Ré na publicação de edital para venda do imóvel, pois o mesmo não está quitado" (fls. 132). Por conseguinte, houve condenação da parte autora ao pagamento de R$ 3.000,00 a título de honorários advocatícios.
+Assim, não merece prosperar o pedido autoral, diante da não comprovação da quitação do contrato, o que implica no não reconhecimento da inexistência de dívida e, por consequência, não há qualquer direito à exclusão da hipoteca ou ao alegado dano moral, já que inexistiu ato ilegal da Ré na publicação de edital para venda do imóvel, pois o mesmo não está quitado.
+Tal entendimento foi mantido pelo Tribunal de origem, nos termos da ementa acima transcrita. Todavia, em sede de embargos declaratório, o recurso foi acolhido, para reconhecer a prescrição da dívida e a necessidade de inversão dos ônus sucumbenciais.
+Na presente insurgência, a recorrente alega contrariedade aos artigos 186, 187 e 927 do CC, defendendo ser in re ipsa a responsabilidade por danos morais em razão da cobrança indevida de dívida prescrita.
+Ocorre que, examinando as decisões proferidas na origem, é possível constatar que os referidos artigos e a tese a eles vinculada não foram apreciados pela Corte de origem, inclusive após terem sido opostos os embargos de declaração, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento, nos termos da Súmula 211/STJ.
+Ademais, no que diz respeito ao pleito de danos morais, assim fundamentou a Corte a quo, senão vejamos (fls. 215):
+Desta forma, uma vez que o fundamento para a extinção do crédito no acórdão embargado é a existência de prescrição, não há a omissão alegada pois o fundamento inicial que constitui a causa de pedir do pleito de indenização por danos morais (cobrança de débito já quitado) foi refutado inicialmente.
+Todavia, a recorrente não impugnou a referida fundamentação nas razões do recurso especial, que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem, tornando inadmissível o recurso em razão do disposto na Súmula 283/STF.
+Por fim, registra-se que resta prejudicado o alegado dissídio jurisprudencial, em relação ao qual, de todo modo, não foi demonstrada a necessária similitude fática entre os acórdãos confrontados.
+Quanto a verba honorária, a jurisprudência desta Corte é firme no sentido de que a modificação dos valores fixados somente é possível se forem irrisórios ou exorbitantes, circunstância que não está presente no caso, a incidir a Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. DANOS MORAIS. REVISÃO. IMPOSSIBILIDADE. INTERESSE AGIR. AUSÊNCIA. HONORÁRIOS. MAJORAÇÃO. INVIABILIDADE.
+(..)
+4. Em regra, não se admite o apelo especial para reapreciar honorários advocatícios fixados por equidade, em face do óbice da Súmula 7 do STJ, exceto quando quantificados em valor irrisório ou exorbitante.
+5. Agravo interno desprovido (AgInt no REsp n. 1.739.507/SP, Rel. Min. Gurgel de Faria, Primeira Turma, DJe de 16/8/2022).
+Ante o exposto, não conheço do recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CONTRATO DE FINANCIAMENTO. SFH. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. HONORÁRIOS. MAJORAÇÃO. INVIABILIDADE. SÚMULA 7/STJ. RECURSO NÃO CONHECIDO.
