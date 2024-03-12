@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 05/03/2024 a 12/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO AO ART. 369 DO CPC/2015. NÃO OCORRÊNCIA. COMPLEMENTAÇÃO DE PROVA PERICIAL. DESNECESSIDADE RECONHECIDA PELO TRIBUNAL A QUO. PROCESSO DEVIDAMENTE INSTRUÍDO. PRETENSÃO DE MODIFICAR TAL ENTENDIMENTO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. O eg. Tribunal de Justiça, em razão do acervo probatório já produzido nos autos, concluiu que era desnecessária a complementação de laudo pericial pretendida pela parte ora agravante.
+2. Na hipótese, a modificação do entendimento firmado pelas instâncias ordinárias demandaria o reexame do conjunto fático-probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por NATHALIA ARAUJO DE ALMEIDA contra decisão (fls. 1.515/1.517) proferida pela em. Ministra Presidente do STJ, que conheceu do agravo para não conhecer do recurso especial, sob os seguintes fundamentos: a) inviabilidade da análise de ofensa ao art. 5º, LV, da CF/88, uma vez que se trata de matéria constitucional; e b) incidência da Súmula 7/STJ, quanto à sustentada violação ao art. 369 do CPC/2015.
+Em suas razões recursais, a agravante sustenta que: a) "não há insurreição da parte agravante, sendo incontroverso que o recurso especial não é meio adequado para se discutir violação ou interpretação divergente a dispositivo constitucional, por ser matéria própria do recurso extraordinário perante o Supremo Tribunal Federal, consoante dispõe o art. 102, inciso III, da Constituição Federal. No entanto, não é essa a matéria que se submete ao conhecimento desse Egrégio Superior Tribunal de Justiça, eis que não há pretensão de que a matéria seja examinada sob o prisma de suposta violação de dispositivo ou princípio constitucional. A questão que se remete a apreciação dessa corte refere-se à violação do art. 369 do Código de Processo Civil, diante do acordão de segundo grau que, pelo entendimento da agravante, configura o cerceamento de defesa em razão do indeferimento da produção de prova técnica." (fl. 1.524); e b) "seja com o Recurso Especial, com o Agravo em Recurso Especial ou com o presente Agravo Interno em Recurso Especial, não se tem a pretensão de reexame de provas. O acervo fático-probatório juntado aos autos é inservível para a instruir a lide e sequer há o que ser analisado" (fl. 1.525).
+Intimada, a parte agravada apresentou impugnação pleiteando a rejeição do agravo interno (fls. 1.538/1.550).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO AO ART. 369 DO CPC/2015. NÃO OCORRÊNCIA. COMPLEMENTAÇÃO DE PROVA PERICIAL. DESNECESSIDADE RECONHECIDA PELO TRIBUNAL A QUO. PROCESSO DEVIDAMENTE INSTRUÍDO. PRETENSÃO DE MODIFICAR TAL ENTENDIMENTO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. O eg. Tribunal de Justiça, em razão do acervo probatório já produzido nos autos, concluiu que era desnecessária a complementação de laudo pericial pretendida pela parte ora agravante.
+2. Na hipótese, a modificação do entendimento firmado pelas instâncias ordinárias demandaria o reexame do conjunto fático-probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+VOTO
+Em que pesem as bem lançadas razões recursais, não merece êxito o inconformismo, devendo ser mantida a decisão agravada por seus próprios fundamentos.
+Constata-se que, realmente, no que concerne à alegada violação do art. 5º, LV, da CF, tem-se que é incabível o recurso especial que visa discutir violação à norma constitucional que, consoante o disposto no art. 102, III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal. Nesse sentido: "Não cabe ao Superior Tribunal de Justiça, em recurso especial, o exame de eventual ofensa a dispositivo da Constituição Federal, ainda que para o fim de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal" (AgInt nos EREsp 1.082.463/DF, Relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/2/2019). Confiram-se, ainda, os seguintes julgados: AgInt nos EDcl no AREsp 1.342.571/RS, Relator Ministro Sérgio Kukina, Primeira Turma, DJe de 1º/2/2019; e AgInt no AREsp 1.287.630/SC, Relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2018. No mesmo sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO CONTRATUAL. MATÉRIA CONSTITUCIONAL. INVIABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. REGULARIZAÇÃO DO DOMÍNIO DO IMÓVEL. OFENSA AO ART. 195 DA LEI Nº 6.015/1973. SÚMULAS 283 DO STF, 5 E 7 DO STJ. HONORÁRIOS RECURSAIS. MAJORAÇÃO RAZOÁVEL. AGRAVO NÃO PROVIDO.
+1. Embora seja dever de todo magistrado velar a Constituição, para que se evite supressão de competência do egrégio STF, não se admite apreciação,
+em sede de recurso especial, de matéria constitucional, ainda que para viabilizar a interposição de recurso extraordinário.
+(..)
+11. Agravo interno a que se nega provimento. Honorários recursais
+arbitrados ex officio, sanada omissão na decisão ora agravada."
+(AgInt nos EREsp 1.539.725/DF, Rel. Min. ANTONIO CARLOS FERREIRA, Segunda Seção, julgado em 9/8/2017, DJe 19/10/2017 - g. n.)
+Avançando, no que diz respeito à complementação da prova pericial, a Corte de origem manifestou-se nos seguintes termos:
+A parte apelante argumenta que deve ser anulada a sentença, em razão da necessidade de complementação da prova pericial, eis que a ausência de produção dessa prova gerou cerceamento de defesa.
+Em análise aos autos, verifica-se que a instrução transcorreu de forma regular, sendo que, ao sanear o feito, foram fixados os pontos controvertidos e deferida a produção de prova pericial. Nomeou-se o perito e determinou-se às partes a apresentação dos quesitos do Juízo, bem como, a indicação de assistente técnico.
+A requerida indicou seus assistentes técnicos. Ato contínuo, apresentou estudos elaborados no 2º semestre de 2021 por empresa especializada de renome internacional. Sobrevieram manifestações de ambas as partes acerca do laudo pericial realizado nos autos 0816046-57.2019.8.12.0001, às suas fls. 917-989, e dos esclarecimentos de fls. 1.052-1.055.
+Ato contínuo, pela parte autora foram requeridos novos exames no local para elaboração de laudo complementar de Engenharia reversa, a fim de determinar a trajetória da pluma de mau odor e a sua origem. O pedido foi indeferido, por se tratar de inovação no processo, o que é vedado após o início dos trabalhos periciais, cuidando-se de prazo peremptório para apresentação de quesitos e indicação de assistente técnico.
+Referida questão foi objeto de diversos agravos de instrumentos interpostos e devidamente rechaçada na oportunidade.
+Entendeu-se, na ocasião, quanto ao pedido de extensão do objeto da perícia às outras atividades desempenhadas na região, que a providência seria descabida pelo fato de que eventual poluição emitida por outras entidades não é o objeto da presente demanda, mas tão-somente a constatação se a específica atividade desempenhada pela agravante é capaz de produzir os danos aventados na inicial, e assim estabelecer o nexo causal necessário para a eventual condenação da agravante. (..)
+Insta observar que o juiz é o destinatário das provas e, como tal, cabe- lhe decidir acerca da necessidade e pertinência da realização de novas provas, indeferindo aquelas que julgar desnecessárias, mormente quando já firmou seu convencimento por aquelas contidas nos autos.
+(..) Analisando detidamente as provas constantes dos autos, vê-se que se mostraram suficientes a formar o livre convencimento motivado do julgador, tornando-se desnecessária a produção de outras provas, estando os autos com toca a documentação necessária para a análise dos pontos controvertidos" (fls. 1.420/1.422)
+Da leitura do excerto ora transcrito, não se infere ofensa ao referido dispositivo legal, uma vez que o entendimento do eg. TJ-MS está em sintonia com a iterativa jurisprudência do STJ, no sentido de que cabe ao magistrado decidir sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias. Assim, ao constatar nos autos a existência de provas suficientes para o seu convencimento, o juiz pode indeferir pedido de produção de prova que entender desnecessária ao desate da contenda. Nessa linha de intelecção, destacam-se:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE. TESES DE ILEGITIMIDADE ATIVA E CERCEAMENTO DE DEFESA. QUESTÕES QUE EXIGEM REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE FATOS E PROVAS. INVIABILIDADE. PRODUÇÃO DE PROVAS. INDEFERIMENTO. LIVRE CONVENCIMENTO DO MAGISTRADO. PRECEDENTES DO STJ.
+1. Inviável, em recurso especial, a reinterpretação de cláusulas contratuais, bem como o reexame de matéria fático-probatória.
+Incidência das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+2. A jurisprudência desta Corte Superior orienta que cabe ao magistrado, como destinatário final da prova, respeitando os limites impostos pela legislação processual civil, dirigir a instrução do feito e deferir a produção probatória que considerar necessária à formação de seu convencimento, bem como indeferir as provas inúteis ou meramente protelatórias. Precedentes do STJ.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1732507/SC, Rel. MINISTRA MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 03/05/2021, DJe 11/05/2021 - g. n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA DA AUTORA.
+(..)
+2. "Os princípios da livre admissibilidade da prova e da persuasão racional autorizam o julgador a determinar as provas que repute necessárias ao deslinde da controvérsia, e a indeferir aquelas consideradas prescindíveis ou meramente protelatórias. Não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando devidamente demonstrada a instrução do feito e a presença de dados suficientes à formação do convencimento" (AgInt no AREsp n. 1.457.765/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/8/2019, DJe 22/8/2019). (..)
+4. Agravo interno provido para reconsiderar deliberação anterior e, de plano, negar provimento ao agravo."
+(AgInt no AREsp 1624918/SP, Rel. MINISTRO MARCO BUZZI, QUARTA TURMA, julgado em 28/09/2020, DJe 01/10/2020 - g. n.)
+Ademais, em que pese a argumentação trazida no agravo interno, tem-se que a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demanda reexame de matéria fático-probatória, inviável em sede de recurso especial, nos termos da Súmula 7/STJ. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO RESCISÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+(..)
+3. A conclusão a que chegou o Tribunal de origem, relativa à desnecessidade da produção de nova prova pericial, fundamenta-se nas particularidades do contexto que permeia a controvérsia. Incidência da Súmula 7 do STJ. Precedentes.
+4.Cabe ao magistrado verificar a existência de provas suficientes nos autos para indeferir a produção de provas consideradas desnecessárias, conforme o princípio do livre convencimento do julgador. Precedentes.
+(..)
+6. Agravo interno provido para reconsiderar a decisão da Presidência de fls. 1.716-1.718, e-STJ, e agravo em recurso especial desprovido."
+(AgInt no AREsp 1895236/GO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/10/2021, DJe 08/10/2021 - g. n.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. COLISÃO DE VEÍCULOS. ABANDONO DE CAUSA. NÃO OCORRÊNCIA. FUNDAMENTO NÃO ATACADO. SÚMULA 283 DO STF. INDEFERIMENTO DE PROVAS. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. SÚMULA 7 DO STJ. DANO MORAL. VALOR DA INDENIZAÇÃO. RAZOABILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. A revisão da conclusão a que chegou o Tribunal de origem sobre a ausência de cerceamento de defesa no indeferimento do pedido de produção de prova oral e pericial esbarra no óbice da Súmula 7 deste Tribunal, porquanto demandaria o reexame do acervo fático probatório.
+(..)
+4. Agravo interno não provido."
+(AgInt no REsp 1796605/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/03/2021, DJe 23/03/2021 - g. n.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
