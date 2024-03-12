@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por CURY CONSTRUTORA E INCORPORADORA S.A E OUTRA em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, "a" e "c", da Constituição, interposto em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"APELAÇÃO CÍVEL. Ação indenizatória por danos materiais e morais. Atraso na entrega de imóvel comprado na planta. Contrato original que fixou o prazo para entrega do imóvel em 31/01/2015, com prazo de 180 (cento e oitenta) dias de tolerância.
+Entrega das chaves que somente ocorreu em dezembro de 2016. Sentença de parcial procedência. Manutenção. Relação de consumo.
+Falha na prestação do serviço. Atraso na conclusão da obra que se deu por culpa exclusiva das rés. As alegações de escassez de mão de obra, atraso na emissão do certificado de conclusão de obra, e questões climáticas constituem fortuito interno, inerentes ao risco da atividade desenvolvida pela construtora e, consequentemente, não excluem a responsabilidade pelo atraso em quase dois anos para a entrega do bem. Existência de cláusula penal compensatória e moratória com objetivo de indenizar pelo adimplemento tardio da obrigação, o que, na forma do Tema Repetitivo nº. 970 do STJ, afasta os lucros cessantes. Cota condominial que só passa a ser devida pelo promitente comprador a partir da sua imissão na posse. Aplicabilidade da tese firmada no Tema Repetitivo nº. 886 do STJ.
+Dano moral configurado pela frustração da legítima expectativa dos compradores, que não puderam dispor do bem adquirido por longo período, além do inicialmente previsto, o que, in casu, não pode ser considerado mero descumprimento contratual.
+Possibilidade de condenação dos réus ao pagamento de honorários advocatícios de ofício.
+Recurso a que se nega provimento." (fl. 580)
+Sob a alegação de ofensa aos arts. 141, 373, 492, 104, 186, 421, 422, 884, 944 do Código Civil, bem como de dissídio jurisprudencial, os recorrentes defendem que o mero inadimplemento relativo de promessa de compra e venda não caracteriza dano moral.
+Sem contrarrazões (fl. 730).
+É o relatório.
+Segundo o Tribunal de origem, " a inda que não haja prova nos autos de que a estruturação familiar e o nascimento do filho dos demandantes foram planejados em torno das datas estipuladas pelas construtoras para conclusão da obra, a entrega do apartamento quase dois anos depois de expirado o prazo de tolerância contratualmente fixado pelas partes é capaz de gerar transtornos na vida de toda a família da parte autora que ultrapassam o mero aborrecimento pelo descumprimento contratual." (fl. 599).
+O acórdão deve ser mantido. Embora não haja dano moral presumido, na hipótese de atraso na entrega de imóvel, em promessa de compra e venda, o atraso excessivo é sim capaz de ensejar lesão extrapatrimonial na esfera do promitente-comprador. Nesse sentido: "O Superior Tribunal de Justiça possui entendimento no sentido de que o mero inadimplemento contratual não causa, por si só, abalo moral indenizável, mas o excessivo atraso na entrega de unidade imobiliária enseja compensação por dano extrapatrimonial." (AgInt no AgInt no AREsp n. 2.205.837/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 26/2/2024, DJe de 29/2/2024.).
+Como o atraso, na espécie, demorou quase dois anos, consoante consta do aresto de 2º grau, é preciso manter a condenação da construtora.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários devidos ao advogado da recorrida para 13% sobre o valor da condenação.
+Publique-se.
+EMENTA
