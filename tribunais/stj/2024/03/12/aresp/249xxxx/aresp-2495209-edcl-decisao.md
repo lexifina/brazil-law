@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por TAISON CAMPOS ALVES à decisão de fls. 532/533, que não conheceu do recurso.
+Em suas razões, sustenta a parte embargante que:
+Essa corte manteve decisão que não aceitou o recurso especial alegando que foi intempestivo.
+MM Relator, esse tribunal se omitiu sobre as alegações desse advogado, que comprovou que na época os prazos de processos físicos estavam suspensos, em decorrência dos processos FÍSICOS poderem ser meios de transmissão de covid 19.
+O ano era 2021, momento que vacinas ainda estavam chegando e muitas pessoas ainda não tinham recebido as primeiras doses, não poderia ser exigido desse advogado, que se arriscasse, pegando processos físicos que podiam transmitir COVID-19.
+Não entende como é proibido a circulação de pessoas e exigem que esse advogado saísse de uma cidade no sertão pernambucano para consultar um processo na cidade de Recife, protocolando, recurso, em espaços públicos que estavam fechados.
+Ademais, o próprio TJ/PE emitiu várias notas suspendendo os prazos de processos físicos e eles mesmos alegam que o prazo não foi cumprido.
+É fato público e notório que na época existia uma pandemia e medidas sanitárias proibindo a circulação de pessoas, não houve um feriado que esse advogado precise provar, mas uma pandemia que é de conhecimento de todas as pessoas do mundo!
+Esse tribunal não enfrentou a alegação no agravo em recurso especial, pois mencionou tese diversa a que estava na petição, sendo omisso em tese relevante, o recorrente suplica que se manifeste sobre o pedido, bem como, análise o mérito do presente processo (fl. 535).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/10/2019; AgRg nos EDcl no REsp 1819067/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/9/2019.)
+Em razão da pandemia relativa à COVID-19, os prazos processuais foram suspensos no período de 19/3/2020 a 14/6/2020, conforme Resoluções do CNJ n. 313/2020 e 322/2020, voltando a fluírem, para os processos físicos, em 15/6/2020. Desse modo, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso.
+A propósito: AgRg no AREsp 1774897/PB, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 28/06/2021; AgInt no AREsp 1724837/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, Dje de 16/06/2021; AgInt no AREsp 1756715/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 04/06/2021; AgInt no AREsp 1757717/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 13/05/2021.
+Além disso, a jurisprudência referente ao CPC de 1973 admitia a comprovação posterior da tempestividade. (AgInt no REsp 1735131/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 21/10/2019; e EDcl no AgRg no AREsp 1238085/CE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 28/3/2019.)
+Todavia, esse entendimento não subsiste em razão de disposição expressa do CPC vigente, cujo art. 1.003, § 6º, dispõe que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", ou seja, a novel legislação vedou expressamente a possibilidade de comprovação posterior da tempestividade, devendo o documento apto a comprová-la ser juntado aos autos no momento da interposição do recurso. (AgRg no AREsp 1686121/SE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 29/6/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição ou omissão.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
