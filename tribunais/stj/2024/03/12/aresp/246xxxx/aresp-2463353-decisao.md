@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, interposto por MARCIA FERREIRA TEIXEIRA, fundado no art. 105, III, alínea "a" da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 645):
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AÇÃO CONDENATÓRIA. - DANO AMBIENTAL. VAZAMENTO DE NAFTA PETROQUÍMICA. NAVIO TANQUE NORMA. - DIALETICIDADE. RECURSO QUE IMPUGNA TESE DE LITISPENDÊNCIA NÃO UTILIZADA PARA FUNDAMENTAR A SENTENÇA. PARCIAL CONHECIMENTO. -DEMANDA ANTERIOR IDÊNTICA.
+SENTENÇA DE EXTINÇÃO POR ILEGITIMIDADE ATIVA.
+VÍCIO NÃO CORRIGIDO. AÇÃO PROPOSTA EM DESCONFORMIDADE AOS REQUISITOS DO ART. 486, §1º, CPC. VIOLAÇÃO DA COISA JULGADA FORMAL. - HONORÁRIOS ADVOCATÍCIOS MAJORADOS EM SEDE RECURSAL - APELAÇÃO CONHECIDA, EM PARTE, E NÃO PROVIDA.
+Opostos embargos de declaração, restaram rejeitados às fls. 664/666.
+Nas razões do recurso especial, a agravante alega violação aos arts. 355, 361, 373, 442 e 443 do CPC/15. Para tanto, sustenta, em síntese, que "não foi oportunizado à autora em nenhum momento a produção de provas quanto a sua legitimidade o que, destaca-se, seria realizado em audiência de instrução, mediante a oitiva de testemunhas, o que sequer foi considerado pelo d. Juízo de primeiro grau ao julgar antecipadamente a lide" (fl. 674).
+Foram apresentadas contrarrazões às fls. 681/685.
+É o relatório.
+De início, verifica-se que no tocante aos arts. 355, 361, 373, 442 e 443 do CPC/15, a Corte de origem não enfrentou as materías referentes aos dispositivos, nem houve indicação de ofensa ao artigo 1.022 do CPC/15.
+Com efeito, esta Corte de Justiça, ao interpretar o art. 1.025 do Código de Processo Civil de 2015, concluiu que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe de 10/04/2017).
+Sobre o tema, em reforço:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESPEJO. AUSÊNCIA DE RECOLHIMENTO DAS CUSTAS INICIAIS. EXTINÇÃO DO PROCESSO. DECISÃO SURPRESA NÃO CONFIGURADA. REVISÃO. SÚMULA 7/STJ. SUPRESSÃO DE INSTÂNCIA. TESE NÃO PREQUESTIONADA. INTIMAÇÃO PESSOAL. DESNECESSIDADE. SÚMULA 83/STJ. HONORÁRIOS RECURSAIS. MAJORAÇÃO. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Consoante a jurisprudência do Superior Tribunal de Justiça, "descabe alegar surpresa se o resultado da lide encontra-se previsto objetivamente no ordenamento disciplinador do instrumento processual utilizado e insere-se no âmbito do desdobramento causal, possível e natural, da controvérsia. Cuida-se de exercício da prerrogativa jurisdicional admitida nos brocados iura novit curia e da mihi factum, dabo tibi ius" (AgInt no AREsp n. 1.215.746/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 20/4/2020, DJe de 24/4/2020).
+2. A modificação da conclusão da instância originária quanto à inexistência de ofensa ao princípio da vedação à decisão surpresa esbarra na Súmula 7/STJ.
+3. A análise de tese no âmbito do recurso especial exige a prévia discussão perante o Tribunal de origem, sob pena de incidirem as Súmulas 282 e 356 do Supremo Tribunal Federal, bem como o enunciado da Súmula 211/STJ.
+4. Esta Corte Superior possui jurisprudência assentada no sentido de que a matéria só pode ser implicitamente incluída no acórdão recorrido quando, ao menos, a tese for objeto de embargos de declaração na origem e, no Superior Tribunal de Justiça, for verificada violação ao art. 1.022 do CPC/2015.
+5. A intimação das partes antes da extinção do processo só se justifica quando houver necessidade de complementação do valor das custas iniciais.
+6. Não é possível majorar os honorários recursais em julgamento de agravo interno.
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 2.398.358/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 4/12/2023, DJe de 6/12/2023.)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO FICTO. HONORÁRIOS. FIXAÇÃO POR EQUIDADE. VALOR DA CAUSA ELEVADO. NÃO CABIMENTO. TEMA 1.076/STJ. SUCUMBÊNCIA MÍNIMA. REEXAME DE FATOS. SÚMULA 7/STJ.
+1. Inicialmente, impende considerar que "a jurisprudência deste Tribunal Superior firmou-se no sentido de que o prequestionamento ficto previsto no art. 1025 do CPC/2015, pressupõe que a parte recorrente, após a oposição dos embargos de declaração na origem, também suscite nas razões do recurso especial a violação ao art. 1022 do CPC/2015 por negativa de prestação jurisdicional, pois, somente dessa forma, é que o Órgão julgador poderá verificar a existência do vício e proceder à supressão de grau. Não cumpridos os requisitos exigidos para o reconhecimento do prequestionamento ficto, permanece perfeitamente aplicável, ainda na vigência do CPC/15, o óbice da Súmula n. 211/STJ" (AgInt no AREsp n. 2.233.923/PE, relator MINISTRO MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 17/4/2023).
+2. O Tribunal de origem decidiu que, diante da alteração relevante do quantum exequendo, a condenação em honorários deve ocorrer de forma proporcional ao decaimento.
+3. Com relação ao art. 85, § 8º, do CPC, esta Corte firmou a interpretação, no julgamento dos recursos especiais repetitivos vinculados ao Tema n. 1.076, segundo a qual a fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados.
+4. Não é possível reanalisar a proporcionalidade da distribuição da sucumbência recíproca, ou a sua modificação para sucumbência mínima, pois isso demanda o reexame do contexto fático do processo, o que não é admissível em recurso especial, conforme Súmula 7/STJ.
+Agravo interno improvido.
+(AgInt nos EDcl no REsp n. 1.961.505/GO, relator Ministro Humberto Martins, Terceira Turma, julgado em 4/12/2023, DJe de 6/12/2023.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de R$ 1.000,00 (mil reais) para R$ 1.100,00 (mil e cem reais).
+Publique-se.
+EMENTA
