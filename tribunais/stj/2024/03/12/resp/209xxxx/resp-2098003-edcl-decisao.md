@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão assim ementada (fl. 709):
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. PENSÃO POR MORTE. ABSOLUTAMENTE INCAPAZ. HABILITAÇÃO TARDIA. BENEFÍCIO PREVIAMENTE CONCEDIDO A OUTROS DEPENDENTES. TERMO INICIAL E EFEITOS FINANCEIROS FIXADOS A PARTIR DA DER. RECURSO ESPECIAL PROVIDO.
+A parte embargante sustenta omissão na decisão embargada, ao argumento de que " ..  conforme reconhecido por sentença e reiterado em sede de Contrarrazões ao Recurso Especial, a Embargante jamais obteve proveito com a pensão pega aos demais dependentes, tanto é assim que somente veio a ser reconhecida como filha do instituidor da pensão mediante processo judicial nº 0001553-14.2014.8.24.0078, cuja sentença que reconheceu a paternidade somente foi proferida em 18/03/2019" (fl. 717).
+Ainda, alega ser a decisão obscura, fundamentando em que a parte embargante " ..  obteve êxito no deferimento da pensão por morte a iniciar-se na data do óbito, desde a sentença, mantida pelo Tribunal Regional, razão pela qual o INSS foi condenado ao pagamento de honorários advocatícios sucumbenciais" (fl. 718). Porém, aduz que " ..  a mera inversão do ônus sucumbenciais imputaria à Embargante o ônus da sucumbência, ainda que tenha obtido êxito no objeto principal da demanda, qual seja, a concessão da pensão por morte" (fl. 719).
+Por fim, " ..  requer o provimento dos presentes Embargos de Declaração para sanar os vícios apontados, admitindo-se o efeito modificativo da presente decisão" (fl. 720).
+É o relatório. Decido.
+O recurso foi interposto sob a vigência do Código de Processo Civil de 2015, razão por que deve ser observado o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do Novo CPC".
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Na espécie, quanto à alegada omissão no que concerne ao marco inicial para percebimento do benefício, a decisão monocrática assentou a compreensão de que (fls. 710-711):
+ ..  o entendimento adotado pelo TRF da 4ª Região está divergente da posição que vige no âmbito deste Superior Tribunal de Justiça, segundo o qual tratando-se de habilitação tardia, a jurisprudência desta Corte Superior é no sentido de que o dependente incapaz, que não pleiteia a pensão por morte no prazo de trinta dias a contar da data do óbito do segurado (art. 74 da Lei n. 8.213/91), não tem direito ao recebimento do referido benefício a partir da data do falecimento do instituidor, quando comprovada a existência de outros dependentes legalmente habilitados, e para os quais o INSS já vinha pagando o benefício na sua integralidade, como é o caso dos autos.
+Assim, quando se trata de habilitação tardia, na qual o benefício já foi deferido a copensionistas, a incapacidade do pensionista legitima sua percepção tão somente a partir do requerimento, sob pena de dupla condenação da autarquia.
+A propósito:
+ ..
+Assim, conclui-se que, neste ponto, o acórdão merece reforma, haja vista que o Tribunal regional divergiu da orientação firmada nos precedentes desta Corte.
+In casu, a DER deve ser o marco inicial para percebimento do benefício de pensão por morte.
+ ..
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Lado outro, quanto ao alegado vício de obscuridade no ponto em que a decisão inverteu o ônus sucumbencial, assiste razão à parte embargante.
+Com efeito, a parte autora pretendeu a concessão de pensão por morte em razão do falecimento de seu genitor, ocorrido em 07/05/2013. A sentença reconheceu o direito, a contar da data do óbito, ou seja, 07/05/2013. Nesse momento, a Autarquia foi condenada ao pagamento de honorários advocatícios ao patrono da parte autora, fixados em 10% (dez por cento) sobre o valor da condenação até a data de publicação da sentença.
+Por ocasião do acórdão que julgou a apelação, restou mantido integralmente o que decidido na sentença, consignando, quanto à majoração da verba honorária, apenas o seu diferimento para a fase de cumprimento de sentença.
+No recurso especial interposto pelo INSS, em que defendeu a impossibilidade de fixação do termo inicial de pagamento do benefício de pensão por morte a dependente incapaz na data do óbito do instituidor, na hipótese de habilitação tardia, já existindo beneficiários habilitados à aludida pensão, houve seu provimento para fixar que a DER deve ser o marco inicial para percebimento do benefício de pensão por morte.
+Ocorre que houve a total inversão do ônus sucumbencial em favor da Autarquia, o que constitui equívoco a merecer retificação, ante a configuração de sucumbência mínima da parte autora.
+No caso, presente a sucumbência mínima, permanece a condenação em honorários fixada na origem.
+Ante o exposto, acolho os embargos de declaração, com efeitos infringentes, mantendo os honorários fixados na origem, diante da sucumbência mínima da parte recorrida.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. VÍCIO NÃO CONFIGURADO. OBSCURIDADE. VÍCIO CONFIGURADO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITOS MODIFICATIVOS.
