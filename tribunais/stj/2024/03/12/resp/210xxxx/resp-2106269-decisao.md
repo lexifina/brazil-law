@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por FUNDAÇÃO VALE DO RIO DOCE DE SEGURIDADE SOCIAL - VALIA, com amparo na alínea "a" do permissivo constitucional, no intuito de reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (fls. 528-539 e-STJ), assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE REVISÃO DE BENEFÍCIO - SUPLEMENTAÇÃO DE APOSENTADORIA - PREVISÃO NO REGULAMENTO DE REAJUSTE NA MESMA DATA E NO MESMO ÍNDICE DOS REAJUSTES DOS BENEFÍCIOS DO INSS - PORTARIAS Nº08/1993 E Nº 21011993 DO MPS - PREVISÃO DE ÍNDICES DE MERO REAJUSTE - NECESSIDADE DE APLICAÇÃO - DESPESAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS - SUCUMBÊNCIA RECÍPROCA - APLICAÇÃO DO DISPOSTO NO ARTIGO 86 DO CPC - MANUTENÇÃO
+- Como as Portarias n0S 08/1993 e 210/1993, do Ministério da previdência social, tratam de meros reajustes, tais índices devem ser adotados pela instituição de previdência privada se há no contrato expressa menção acerca da correção da suplementação de aposentadoria pelos índices de reajuste do INSS.
+- A condenação das partes ao pagamento das despesas processuais e dos honorários advocaticios é cabível quando o pedido inicial é julgado parcialmente procedente, conforme determina o artigo 86, do CPC.
+Opostos embargos declaratórios (fls. 542-553 e-STJ), restaram desacolhidos na origem, com imposição de multa (fls. 614-623 e-STJ). Nos autos do AREsp n. 1.999.267/MG, determinou-se novo julgamento dos aclaratórios, afastando-se a multa aplicada.
+Embargos novamente rejeitados na origem, com aplicação de multa, às fls. 867-878 e-STJ.
+Nas razões do especial (fls. 881-909 e-STJ), o insurgente alega violação aos seguintes dispositivos de lei federal: (i) artigos 489 e 1022 do CPC/15, porquanto não sanados os vícios apontados nos aclaratórios; (ii) artigos 6º, 10º e 1.026, §2º, do CPC/15, aduzindo ser descabida a multa aplicada; (iii) artigos 1º, 2º, 3º inc. VI, 6º, 7º, 90 e 18, § 2º e 3º, da Lei Complementar 109/2001, 884 e 885 do Código Civil e 927, inc. III do CPC/15, sustentando ser indevida a aplicação dos reajustes pleiteados, nos termos do entendimento firmado por este STJ em recurso repetitivo, sob pena de desequilíbrio atuarial do plano, bem como enriquecimento ilícito da autora.
+Apresentadas contrarrazões (fls. 922-942 e-STJ), o apelo extremo foi admitido na origem (fls. 951-953 e-STJ).
+É o relatório. Decide-se.
+A pretensão recursal prospera parcialmente.
+1. De início, observa-se que as omissões, reconhecidas no julgamento do AREsp n. 1.999.267/MG, foram sanadas pela origem no acórdão de fls. 867-878 e-STJ, nos seguintes termos (fl. 872 e-STJ):
+À guisa de esclarecimento, verifica-se que o acórdão embargado foi claro ao afirmar expressamente que os índices indicados nas Portarias n 08/1993 e 210/1993 não tinham o condão de dar ao beneficiário aumento real, mas sim mera atualização, razão pela qual foi mantida a procedência do pedido inicial.
+Ademais, registro que o acórdão embargado está de acordo com o entendimento pacificado no Recurso Repetitivo nº 941 do STJ, que firmou a seguinte tese: "Nos planos de benefícios de previdência complementar, administrados pôr entidade fechada, a previsão regulamentar de reajuste, com base nos mesmos índices adotados pelo Regime Geral de Previdência Social, não inclui a parte correspondente a aumentos reais".
+Lado outro, é possível verificar que nas razões recursais da parte apelante, ora embargante, nada foi dito acerca da necessidade de compensação no caso de deferimento de algum índice, e mesmo se assim não fosse, entendo que ela não teria interesse recursal quanto ao ponto, uma vez que a sentença recorrida, que foi mantida pelo acórdão embargado, determinou em seu dispositivo que fosse descontado os índices de correção já aplicados, não havendo que se falarem enriquecimento sem causa da parte embargada.
+Registra-se que os argumentos apresentados nos aclaratórios (fls.542-553 e-STJ) em relação ao equilíbrio atuarial e enriquecimento ilícito estavam, ambos, vinculados à tese de compensação - expressamente apreciada no excerto acima.
+Como visto, as teses da insurgente foram apreciadas pelo Tribunal a quo, que as afastou, de forma fundamentada.
+Não há mais falar, portanto, em omissão, sendo certo que os embargos de declaração não se constituem via própria para rejulgamento da causa, não havendo espaço para análise de inconformismo quanto ao entendimento adotado.
+Nesse sentido: AgInt no AgInt no AREsp 1539179/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/02/2020, DJe 19/02/2020; EDcl no AgInt no AREsp 698.731/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 11/05/2020, DJe 14/05/2020.
+Afasta-se, portanto, a alegada violação ao artigo 1.022 do CPC/15.
+2. Manifestamente desarrazoada e descabida a imposição de multa no segundo julgamento dos aclaratórios.
+Ora, no julgamento do AREsp n. 1.999.267/MG, esta Corte Superior reconheceu a existência de omissão - o que, por si só, foi fundamento para afastamento da multa aplicada no primeiro julgamento.
+Havendo omissão (a qual foi efetivamente sanada, em que pese tenham sido "rejeitados" os embargos) não há falar em imposição de multa - sob pena, inclusive, de violar a decisão, transitada em julgado, proferida no AREsp n. 1.999.267/MG.
+Afasta-se, portanto, a multa aplicada às fls. 867-878 e-STJ.
+3. Por fim, inviável o conhecimento do recurso quanto aos índices de 1993.
+A Corte de origem afirmou que "os índices indicados nas Portarias n 08/1993 e 210/1993 não tinham o condão de dar ao beneficiário aumento real, mas sim mera atualização, razão pela qual foi mantida a procedência do pedido inicial".
+A insurgente limita-se a argumentar que os referidos índices foram também tratados no julgamento do Repetitivo/Tema 941/STJ.
+Todavia, ainda que tais índices fossem objeto da demanda, o julgamento proferido por este STJ, naquela oportunidade, cingiu-se ao debate em tese da controvérsia jurídica (inclusão dos aumentos reais) - ou seja, não houve análise de cada um dos índices em questão, para apurar se houve mero reajuste ou aumento real.
+Portanto, a mera invocação do repetitivo, sem o efetivo debate, no recurso especial, acerca dos índices questionados na demanda, mostra-se insuficiente para infirmar a conclusão das instâncias ordinárias de que as Portarias n 08/1993 e 210/1993 não concederam aumento real.
+Logo, não houve apresentação de razões recursais suficientes para permitir o conhecimento da controvérsia, o que atrai o óbice da Súmula 284/STF.
+4. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, dá-se parcial provimento ao recurso especial, para afastar a multa aplicada no julgamento dos aclaratórios pela Corte de origem.
+Publique-se. Intimem-se.
+EMENTA
