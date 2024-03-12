@@ -1,0 +1,19 @@
+DECISÃO
+JARDEL BRITO DE CARVALHO alega sofrer constrangimento ilegal no seu direito de locomoção em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado do Maranhão no Desaforamento n. 0820268-86.2023.8.10.0000.
+A defesa sustenta, em síntese, que não intimada para se manifestar sobre o pedido de desaforamento formulado pelo Ministério Público. Requer, em liminar, a suspensão da sessão de julgamento, agendada para 20/3/2024 e, no mérito, a declaração de nulidade do acórdão, com a realização do júri na comarca em que o crime aconteceu.
+Decido.
+O habeas corpus comporta pronta solução por haver entendimento consolidado do STJ a respeito da matéria.
+A defesa se insurge contra a ausência de intimação para se manifestar sobre o pedido de desaforamento formulado pelo Ministério Público e concedido pelo Tribunal de origem.
+Inicialmente, verifico que o impetrante não juntou aos autos toda a documentação necessária para o exame da controvérsia. Todavia, em consulta ao processo no site do TJ-MA, o gabinete verificou os seguintes fatos: a) o pedido de desaforamento foi autuado em 19/9/2023; b) em 11/10/2023, antes do julgamento do pleito ministerial, há movimentação que registra "11/10/2023 00:02:57 - Decorrido prazo de JARDEL BRITO DE CARVALHO em 10/10/2023 23:59"; c) o feito foi incluído em pauta em 1º/12/2023 e foi concedido prazo à Defensoria Pública; d) Em 19/12/2023, também previamente ao julgamento do feito, consta o andamento "Decorrido prazo de DEFENSORIA PÚBLICA DO ESTADO DO MARANHAO em 18/12/2023 23:59"; e) o desaforamento foi julgado procedente e o acórdão foi publicado em 22/1/2024; f) Em 7/2/2024, há registro de que foi "Decorrido prazo de JARDEL BRITO DE CARVALHO em 06/02/2024 23:59" e d) não houve manifestação do réu e, em 15/2/2024, foi certificado o trânsito em julgado do decisum.
+A par dessas premissas, conclui-se que foi oportunizada a manifestação da defesa por duas vezes antes do julgamento do pedido de desaforamento e uma após a prolação do acórdão. Todavia, o réu se manteve inerte em todas essas ocasiões, a evidenciar a preclusão da matéria.
+Apenas em 7/3/2024, às vésperas da sessão plenária de julgamento, a defesa impetrou este habeas corpus que veicula pretensão preclusa e sem plausibilidade jurídica. Portanto, não há ilegalidade a ser sanada.
+Nessa perspectiva, mutatis mutandis:
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL, ORDINÁRIO OU DE REVISÃO CRIMINAL. NÃO CABIMENTO. HOMICÍDIO QUALIFICADO. PEDIDO DE DESAFORAMENTO. AUSÊNCIA DE INTIMAÇÃO DA DEFESA. NULIDADE. INOCORRÊNCIA. PROVA DE CIÊNCIA DOS CAUSÍDICOS ACERCA DO PLEITO MINISTERIAL. NULIDADE NÃO SUSCITADA NO MOMENTO OPORTUNO. PRECLUSÃO. INTIMAÇÃO PESSOAL DO ACUSADO. DESIGNADO DEFENSOR PUBLICO. PREJUÍZO NÃO DEMONSTRADO. HABEAS CORPUS NÃO CONHECIDO.
+1. Ressalvada pessoal compreensão diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+2. Não configura cerceamento de defesa, por ausência de intimação do advogado constituído para manifestação acerca do pedido de desaforamento, quando há prova inequívoca de ciência dos causídicos quanto ao pleito Ministerial.
+3. Em que pese terem conhecimento acerca do pedido de desaforamento, os patronos não adotaram nenhuma providência, tendo levantado tal nulidade somente após a anulação, pelo Tribunal de origem, da decisão absolutória proferida pelos jurados, com a submissão do paciente a novo julgamento, o que torna preclusa a matéria, nos termos do art. 571, V, do CPP.
+4. Habeas corpus não conhecido.
+(HC n. 318.600/PE, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 8/3/2016, DJe de 15/3/2016, grifei)
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
