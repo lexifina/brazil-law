@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de embargos de declaração, opostos por LATAM DISTRIBUIDORA DE COSMÉTICOS EIRELI contra a decisão que indeferiu a tutela requerida.
+Alega que está caracterizada a omissão porque a medida de desconsideração da personalidade jurídica tomou como base "uma série de indícios", não sendo cabível a conclusão de que o entendimento adotado pelo T ribunal a quo partiu da análise das provas que instruem a demanda.
+Argumenta que a desconsideração da personalidade jurídica é medida de caráter excepcional que somente pode ser decretada após a análise da existência de vícios que configurem abuso de direito, caracterizado por desvio de finalidade ou confusão patrimonial.
+Pontua que a penhora de faturamento somente será realizada se o executado não tiver outros bens penhoráveis ou se, tendo-os, esses forem de difícil alienação ou insuficientes para saldar o crédito executado.
+Impugnação apresentada à fls. 165-171, sob argumento de que a simples constrição patrimonial contra a LATAM não é motivo para justificar o perigo de dano porque se trata de atos inerentes à execução, decorrentes de uma decisão que acolheu a desconsideração da personalidade jurídica para que a responsabilidade contra ela fosse estendida.
+Aduz que está presente o óbice da Súmula n. 7/STJ diante da pretensão de reanálise de provas produzidas, bem como que não há cerceamento de defesa, visto que o julgador indeferiu o pedido de produção de provas com base no livre convencimento motivado.
+A decisão embargada assim resolveu a controvérsia em foco:
+No caso em epígrafe, não se verifica presente a fumaça do bom direito, porquanto o Tribunal a quo, por meio de análise das provas que instruem a demanda, entendeu que estava caracterizada a confusão patrimonial que justificou a desconsideração inversa da personalidade jurídica.
+Bem assim, o indeferimento de dilação probatória não leva à conclusão inexorável de cerceamento de defesa, sobretudo quando as provas já produzidas são suficientes para a resolução da demanda, segundo a análise competente e baseada no livre convencimento motivado da instância originária.
+Outrossim, não se pode deixar de destacar que seria necessária a incursão no acervo fático-probatório para confrontar a conclusão do Tribunal a quo no sentido de que é indubitável que Alexandre Domingues é sócio da Latam Cosméticos, agindo em nome da empresa e não como um empregado comum, tanto que faz movimentações nas contas bancárias da empresa. Possui, então, segundo conclusão das instâncias originárias, amplos poderes de administração e de gestão da sociedade.
+De toda sorte, não obstante a fundamentação sustentada pela parte requerente, o fato é que seu exame encontra-se atrelado ao próprio mérito da demanda, e, diante na natureza satisfativa do pleito, sua análise pormenorizada compete ao colegiado, não sendo, pois, passível de exame/concessão em sede de cognição sumária.
+Na espécie, a parte requerente deixou de demonstrar o periculum in mora, não tendo desenvolvido nenhuma argumentação robusta sobre a necessidade concreta e urgente de concessão do efeito suspensivo ao recurso interposto que justifique o deferimento do pleito.
+Portanto, não ficou evidenciado, assim, o perigo da demora, uma vez que não caracterizada situação emergencial que demonstrasse existência de riscos de danos irreparáveis ou de difícil reparação.
+Outrossim, não obstante a alegação de ocorrência de atos de execução do julgado, tal argumentação não se mostra suficiente para a configuração de risco de dano jurídico irreversível (nesse sentido: RCD na AR n. 5.879/SE, de minha relatoria, Primeira Seção, julgado em 26/10/2016, DJe de 8/11/2016). Ante o exposto, indefiro a tutela requerida.
+É, no essencial, o relatório. Decido.
+Os embargos de declaração, cujos pressupostos estão relacionados no art. 1.022 do Código de Processo Civil, objetivam corrigir erro material ou esclarecer obscuridade, eliminar contradição, suprir omissão a respeito de questão jurídica de essencial relevância para o julgamento da demanda judicial. Configuram recurso de natureza integrativa e, portanto, são incabíveis quando a parte embargante pretende apenas a obtenção de efeitos infringentes, como é a hipótese dos autos.
+Percebe-se que a parte embargante apenas insurge-se contra o mérito decisório, o qual foi no sentido de indeferimento da tutela em razão da ausência de fumaça do bom direito e da caracterização do perigo da demora, conforme fundamentação replicada acima.
+Dessa forma, vê-se que os argumentos apresentados caracterizam, na verdade, mera insurgência meritória, não aceitação da fundamentação exposta, e não uma falha propriamente dita que pudesse ser sanada via aclaratórios, sem o propósito específico, portanto, de sanar obscuridade, contradição, omissão ou erro material.
+Confira-se precedente nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA SUSPENSÃO DE SEGURANÇA. OMISSÃO. INEXISTÊNCIA. PRETENSÃO DE NOVO JULGAMENTO DA CAUSA. NÃO CABIMENTO.
+1. Os embargos de declaração, recurso de natureza integrativa destinado a sanar obscuridade, contradição, omissão ou erro material, são incabíveis quando a parte embargante pretende apenas a obtenção de efeitos infringentes.
+2. Embargos de declaração rejeitados.
+(EDcl no AgInt na SS n.3135/BA, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 16/6/2020.)
+Ante o exposto, rejeito os embargos declaratórios.
+Publique e intimem-se.
+EMENTA
