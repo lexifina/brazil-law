@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por UNIMED REGIONAL JAÚ COOPERATIVA DE TRABALHO MÉDICO em face da decisão acostada às fls. 381-383 e-STJ, que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pela ora agravante.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 340-345 e-STJ, proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER C.C. INDENIZAÇÃO MATERIAL. Custeio de tratamento prescrito para menores dentro do transtorno do espectro autista, sem limitação de sessões. Sentença de procedência parcial. Insurgência recursal voltada ao reembolso de valores gastos durante o período de negativa de cobertura e com manutenção do regime para permanência do tratamento na clínica onde iniciada. Possibilidade. Hipótese na qual a escolha não decorreu de mera opção dos autores, mas sim pela indisponibilidade de profissionais habilitados na rede credenciada à época. Alteração de residência, posteriormente, visando à melhor adequação às terapêuticas. Continuidade dos profissionais recomendada ainda pela dificuldade de interação e adaptação à mudança, típicas de pessoas dentro do espectro autista. Reembolso devido, com manutenção do tratamento na mesma clínica particular onde iniciado, enquanto perdurar a prescrição médica. RECURSO PROVIDO.
+Nas razões de recurso especial (fls. 351-357 e-STJ), alegou a insurgente que o acórdão recorrido violou os artigos 104 e 113 do CC, 16, inc. I, da Lei n. 9.656/98, aduzindo a necessidade de observância dos termos do contrato quanto à área de cobertura. Afirma, ainda, que a justificativa, apresentada pela Corte de origem, no sentido de que não se deve mudar o local escolhido para as sessões aos recorridos, não se justifica, pois se encontram realizando as sessões na cidade de Jaú.
+Contrarrazões às fls. 367-371 e-STJ.
+Em juízo prévio de admissibilidade (fls. 381-383 e-STJ), a Corte de origem inadmitiu o apelo nobre, ensejando a interposição do presente agravo (art. 1.042 do CPC/15), às fls. 386-392 e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Contraminuta às fls. 395-401 e-STJ.
+É o relatório.
+Decide-se.
+A pretensão recursal não merece prosperar.
+1. Extrai-se do acórdão recorrido:
+A questão a ser observada, "data venia" do entendimento do d. juízo sentenciante, se refere ao fato de que a adoção de clínica particular não partiu de mera escolha dos autores, mas sim de imposição decorrente da ausência de profissionais habilitados na rede credenciada da ré quando do início do tratamento terapêutico questão essa igualmente admitida pela ré, conforme documento de fls. 55/56.
+Cabível nesse ponto observar, também, que o contrato de plano de saúde, de prestação continuada, é passível de alteração da rede credenciada pela operadora ou seguradora, desde que observados os requisitos legais estabelecidos no art. 17, § 1º, da Lei dos Planos de Saúde, devendo ser observado, dentre outros requisitos, que atenda nos mesmos dias e horários e que esteja na mesma região da cidade (quando não existir outro que atenda no mesmo local).  ..
+ ..
+No caso em tela, destaca-se ainda o fato de que os apelantes residiam em Jaú quando iniciaram tratamento em Bauru, local mais próximo disponível, ainda que na rede particular. Posteriormente, se mudaram para Bauru, para facilitar a continuidade desse tratamento.
+Postas tais premissas, à luz da boa-fé contratual e da função social do contrato, cabível a manutenção do atendimento no local onde já iniciado o tratamento, ainda que fora da área de abrangência do plano e que agora estejam os serviços disponíveis dentro da rede desde fevereiro de 2020.
+Isso porque é sabido que as pessoas inseridas no transtorno do espectro autista possuem dificuldade de interação e de adaptação aos tratamentos, certo que forçá-las a uma mudança de terapeutas pode-lhes ensejar regressão, contrariamente ao almejado direito à saúde.
+O recurso especial, de forma singela, invoca a necessidade de observância dos termos contratuais e, em relação aos fundamentos acima destacados, afirma (fl. 355 e-STJ):
+Ademais, a justificativa apresentada pelo V. Acordão de fls. de que não se deve mudar o local escolhido para ministrar as sessões aos recorridos, não se justifica, uma vez que os mesmos se encontram realizando as sessões na cidade de Jaú conforme previsto no contrato e determinado na R. sentença de 1ª. Instância. (doc.01).
+As razões apresentadas são insuficientes para infirmar as conclusões da Corte de origem, o que atrai o óbice das Súmulas 283 e 284/STF.
+Ademais, a análise acerca do local em que os autores vem realizando o tratamento nos dias atuais demandaria a incursão em elementos fático-probatórios, providência obstada nesta instância, por óbice da Súmula 7/STJ.
+Necessário observar, ainda, que a alegação de que os autores teriam, após a sentença, iniciado o tratamento em outra cidade, não foi sequer suscitada em aclaratórios na origem, de modo que não houve pronunciamento por parte da Corte de origem (Súmula 282/STF) - sendo inviável, como já afirmado, o reconhecimento deste fato nesta instância especial.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não conhecer do recurso especial e, com base no art. 85, § 11, do CPC/ 2015, majoram-se os honorários sucumbenciais em 10% (dez por cento), incidentes sobre o valor já arbitrado pela origem, em favor da parte recorrida.
+Publique-se.
+Intimem-se.
+EMENTA
