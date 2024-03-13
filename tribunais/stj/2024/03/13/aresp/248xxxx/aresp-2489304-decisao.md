@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+Agravo de instrumento - Ação declaratória de rescisão de contratos c/c obrigação de fazer c/c ação de reparação de danos materiais e morais e pedido de tutela provisória de urgência - Insurgência em face de decisão que indeferiu o pedido de gratuidade processual à ora recorrente - Improcedência do inconformismo - - Elementos dos autos que sustentam a rejeição - Reserva econômica existente em conta poupança - Hipossuficiência não observada - Condições de recolhimento de custas e despesas processuais sem prejuízo do sustento familiar - Hipótese de manutenção da decisão hostilizada - Recurso desprovido.
+A parte agravante sustenta que a miserabilidade econômica que lhe acomete está devidamente comprovada pelos documentos juntados aos autos, fazendo jus à gratuidade de Justiça. Alega que a reserva em poupança detectada pelo juízo de origem, no valor de apenas R$ 22.000,00 (vinte e dois mil reais) não pode ser considerada vultosa, não podendo servir de fundamento para afastar a benesse pleiteada.
+Relativamente à concessão da gratuidade de Justiça, a Corte de origem assim manifestou seu entendimento:
+Anota-se que a declaração de pobreza possui presunção relativa de veracidade, cabendo ao magistrado analisar em cada caso e de acordo com as provas apresentadas se a parte faz jus ao benefício.
+Mencionado entendimento está em consonância com o previsto no artigo 5º, inciso LXXIV, da Constituição Federal, segundo o qual: "o Estado prestará assistência jurídica integral e gratuita aos que comprovarem a insuficiência de recursos." A agravante não se desincumbiu de demonstrar nos autos sua hipossuficiência econômica, como alegado em suas razões recusais, limitando-se a afirmar que a declaração de hipossuficiência é documento hábil a demonstrar a impossibilidade financeira do litigante para arcar com as custas do processo, e poder pleitear a gratuidade prevista em lei.
+E, como bem observou o magistrado "a quo": "(..). Dos documentos juntados, possível verificar que a Autora aufere rendimentos presentes diversos créditos em sua conta (conforme extratos de págs. 74/79) e que possui saldo em conta poupança na monta de aproximadamente R$ 22.000,00, o que é incompatível com a alegação de pobreza" (fls. 59).
+Desse modo, de todo o analisado, é possível concluir que o recolhimento das custas e despesas processuais não causará prejuízo ao sustento da agravante ou de sua família, pois, a despeito de afirmar que exerce atividades diárias de faxineira e, não ter declarado sua renda mensal, nem mesmo neste instrumento, conta com reserva financeira, além do pagamento de parcelas, financiamento veículo, no valor de R$ 1.200,00 mensais (fls. 26/29).
+Como se vê, os elementos evidenciados estão distanciados da realidade econômica daqueles que fazem jus à concessão do benefício postulado e, assim sendo, é de rigor o seu indeferimento à recorrente.
+A conclusão do Tribunal revisor foi obtida pela análise do conteúdo fático dos autos, que se situa fora da esfera de atuação desta Corte, nos termos do enunciado 7 da Súmula do STJ. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ. JUSTIÇA GRATUITA. NÃO COMPROVAÇÃO DOS REQUISITOS.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+2. A declaração/afirmação de pobreza (hipossuficiência financeira) tem presunção relativa, podendo o pedido de gratuidade de justiça ser indeferido quando não demonstrados os requisitos necessários. Precedente.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.082.397/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023.)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
+EMENTA
