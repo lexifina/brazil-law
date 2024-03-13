@@ -1,0 +1,10 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Allan de Oliveira Andrade - condenado por tráfico de drogas (980 g de maconha e 95 g de cocaína - fl. 29) e posse irregular de arma de fogo de uso permitido a 9 anos e 3 meses de reclusão, em regime inicial fechado, e a 815 dias-multa, atacando-se o acórdão de apelação criminal proferido pelo Tribunal de Justiça de Sergipe (fls. 12/20 - Revisão Criminal n. 202300147955) -, não comporta processamento.
+Com efeito, busca a impetração o redimensionamento da pena imposta ao paciente na sentença condenatória (fls. 28/39 - Ação Penal n. 201520401147, da 4ª Vara Criminal da comarca de Aracaju/SE), com aplicação da atenuante da confissão, mesmo se levar a reprimenda a quantum abaixo do mínimo legal, ao argumento de ausência concreta de justificativa para intensificar a carga penal no patamar acima do mínimo previsto (fl. 7).
+Do atento exame dos autos observo que a via eleita foi indevidamente utilizada para revisar condenação transitada em julgado em 25/1/2018 (fl. 13), o que afastaria a competência desta Corte Superior para análise do pleito (AgRg no HC n. 775.050/SC, Ministra Laurita Vaz, Sexta Turma, DJe 2/12/2022).
+Ademais, não demonstrado constrangimento ilegal apto a superar o citado óbice, pois o fundamento utilizado pela Corte estadual para afastar a pretensão - de que o revisionante não confessou que estaria traficando drogas - mas, tão somente, que a substância entorpecente apreendida seria a "guarda" para terceira pessoa, não há que se falar na aplicação da atenuante (fl. 17) - está de acordo com o entendimento deste Tribunal Superior (Súmula n. 630/STJ).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS (980 G DE MACONHA E 95 G DE COCAÍNA). DOSIMETRIA. SEGUNDA FASE. RECONHECIMENTO DA PROPRIEDADE DA DROGA PARA CONSUMO PESSOAL. NÃO APLICAÇÃO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. INCIDÊNCIA DA SÚMULA N. 630/STJ. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente .
