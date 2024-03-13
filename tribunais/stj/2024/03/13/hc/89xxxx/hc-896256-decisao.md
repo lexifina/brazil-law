@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de LUCIANO COSTA NASCIMENTO contra decisão monocrática de e. Desembargador do Tribunal de Justiça do Estado de São Paulo, no julgamento da revisão criminal n. 2242813-24.2023.8.26.0000.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 07 anos, 09 meses e 10 dias de reclusão, em regime inicial fechado, e pagamento de 36 dias-multa, pela prática do crime previsto no art. 157, § 2º, inciso II, e § 2º-A, inciso I, do Código Penal (fls. 37-46).
+Inconformada, a defesa interpôs revisão criminal perante o Tribunal de origem, que, por decisão de e. Desembargador, indeferiu liminarmente o pedido revisional (fls. 50-57).
+Dai o presente writ, onde a impetrante aponta constrangimento ilegal na incidência da majorante do emprego de arma de fogo, haja vista que não foi localizada o artefato bélico.
+Sustenta, ainda, que o concurso formal deve ser afastado, porque foi empreendia uma única conduta.
+Argumenta, também, que o paciente faz jus ao regime intermediário e a redução da multa.
+Requer, assim, em caráter liminar e no mérito, a concessão da ordem.
+É o relatório. DECIDO.
+Conforme relatado, busca-se na presente impetração o afastamento da causa de aumento relativa ao emprego de arma de fogo e do concurso formal de crime, bem como a fixação do regime semiaberto para início de cumprimento da pena e redução da pena de multa.
+Inicialmente, no tocante à necessidade de apreensão da arma de fogo, o Tribunal de origem consignou que "As vítimas narraram, seguramente, a ação criminosa praticada pelo réu e seu comparsa, confirmando o emprego de arma de fogo e a subtração de seus bens." (e-STJ fl. 40)
+"Nos moldes da orientação firmada pela Terceira Seção desta Corte, para a incidência da causa de aumento relativa ao emprego de arma de fogo, dispensável a apreensão e perícia da arma, desde que o emprego do artefato fique comprovado por outros meios de prova". (AgRg no AREsp n. 2.100.469/RN, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/6/2023, DJe de 23/6/2023, grifei).
+No tocante ao segundo ponto, nos termos da jurisprudência deste Tribunal Superior, o aumento relativo ao concurso formal deve ter como parâmetro o número de delitos perpetrados, no intervalo legal entre as frações de 1/6 e 1/2.
+Nessa linha, "o aumento da pena decorrente do concurso formal próprio é calculada com base no número de infrações penais cometidas. Nesses termos, aplica-se a fração de aumento de 1/6 pela prática de 2 infrações; 1/5, para 3 infrações; 1/4 para 4 infrações; 1/3 para 5 infrações e 1/2 para 6 ou mais infrações" (HC n. 421.419/MG, Quinta Turma, relator Ministro Joel Ilan Paciornik, DJe 22/04/2019). (AgRg no HC n. 751.495/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 20/9/2023).
+Levando em consideração que foram 2 (duas) as vítimas atingidas, há fundamento suficiente para aplicar a fração de aumento no patamar de 1/6 (um sexto).
+Desse modo, a solução adotada pela instância a quo não destoa da jurisprudência desta Corte Superior. Em verdade, a pretensão da impetrante de ver reconhecido o crime único, ou seja, a ocorrência de somente um delito de roubo, demanda o reexame do conjunto fático-probatório dos autos, situação interditada na via estreita do presente remédio heroico.
+No tocante ao regime prisional, conforme dispõe o artigo 33, parágrafo 3º, do Código Penal, a fixação do regime inicial de cumprimento da pena, pressupõe a análise do quantum da pena, bem como das circunstâncias judiciais previstas no artigo 59 do mesmo diploma legal.
+Sobre o tema, esta Corte Superior editou a Súmula n. 440, que dispõe:
+"Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito."
+Nesse mesmo sentido, as Súmulas 718 e 719 do Supremo Tribunal Federal, respectivamente, in verbis:
+"A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada."
+"A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea."
+Dessa forma, para o estabelecimento de regime de cumprimento da pena mais gravoso, é necessária fundamentação específica, com base em elementos concretos extraídos dos autos.
+In casu, as instâncias ordinárias bem fundamentaram a fixação do regime mais gravoso (fechado), ante a periculosidade do paciente, evidenciada pelo modus operandi efetivado na execução do crime, circunstâncias concretas que justificam o recrudescimento do regime inicial de cumprimento da pena.
+Assim, considerando a fundamentação concreta levada a efeito pelas instâncias ordinárias, o regime mais gravoso sequente, qual seja, o fechado, mostra-se adequado ao caso, nos termos do artigo 33, parágrafo 3º do Código Penal.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONFISSÃO ESPONTÂNEA. APLICAÇÃO. IMPOSSIBILIDADE. MERO RECONHECIMENTO DA APREENSÃO DA DROGA. COAÇÃO ILEGAL NÃO EVIDENCIADA. INSURGÊNCIA DESPROVIDA.
+1. Sabe-se que nos casos em que a confissão do agente é utilizada como fundamento para embasar a conclusão condenatória, a atenuante prevista no art. 65, inciso III, alínea d, do CP, deve ser aplicada em seu favor, pouco importando se a admissão da prática do ilícito foi espontânea ou não, integral ou parcial ou se houve retratação posterior em juízo. 2. Entretanto, in casu, não obstante o acusado tenha admitido a apreensão da droga, não reconheceu a traficância e imputou a propriedade ao corréu, o que é insuficiente para reconhecer a incidência da referida atenuante. REGIME INICIAL FECHADO. POSSIBILIDADE. GRAVIDADE CONCRETA DO CRIME. ELEVADA QUANTIDADE DE ENTORPECENTE. MODO MAIS GRAVOSO JUSTIFICADO. ILEGALIDADE INEXISTENTE.
+1. A teor da jurisprudência reiterada deste Sodalício, a escolha do regime inicial não está atrelada, de modo absoluto, ao quantum da pena corporal firmada, devendo-se considerar as demais circunstâncias do caso versado.
+2. Na espécie, estabelecida a sanção em patamar superior a 4 anos e inferior a 8 anos de reclusão, a gravidade concreta do crime, evidenciada pela expressiva quantidade de droga que motivou a fixação da pena-base acima do mínimo legal, é justificável a imposição do modo prisional fechado.
+3. Agravo improvido" (AgRg no AgRg no AREsp 1.210.932/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe 15/06/2018).
+Por fim, não é possível a redução da pena de multa na hipótese em que fixada em valor razoável, condizente com parâmetro estabelecido para a pena privativa de liberdade, ainda que o juiz sentenciante não considere as condições financeiras do agente. Isso porque a estipulação da quantidade de dias-multa não leva em consideração a capacidade financeira do condenado, mas, a partir das cominações mínima e máxima abstratamente previstas para a pena pecuniária, é estabelecida a quantidade de dias que seja proporcional ao quantum da pena privativa de liberdade, com observância das circunstâncias judiciais do art. 59 do Código Penal.
+Portanto, na espécie, a pretensão formulada pela impetrante encontra óbice na jurisprudência consolidada do Superior Tribunal de Justiça, revelando-se, assim, manifestamente improcedente.
+Ante o exposto, denego a ordem de habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
