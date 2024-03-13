@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se  de  agravo  manifestado  contra  decisão  que  negou  seguimento  a  recurso  especial,  no  qual  se  alega  violação  dos  arts.  6º,  III  e  V,  46,  51,  IV,  e  52,  II,  do  Código  de  Defesa  do  Consumidor;  300  e  927,  III,  do  Código  de  Processo  Civil;  e  3º  do  Decreto-Lei  n.  911/1969, além de dissídio jurisprudencial .  O  acórdão  recorrido  está  retratado  na  seguinte  ementa  (fl.  71  ):
+AGRAVO  DE  INSTRUMENTO.  ALIENAÇÃO  FIDUCIÁRIA.  AÇÃO  DE  BUSCA  E  APREENSÃO.  MORA  DO  DEVEDOR  CARACTERIZADA.  DISPÕE  O  ART.  3º  DO  DECRETO-LEI  Nº  911/69  QUE  O  CREDOR  FIDUCIÁRIO  TEM  O  DIREITO  DE  REAVER  O  BEM  QUE  SE  ENCONTRA  NA  POSSE  DO  DEVEDOR  EM  MORA.  HOUVE  VÁLIDA  NOTIFICAÇÃO  DO  DEVEDOR.  AUSÊNCIA  DE  ABUSIVIDADES  CONTRATUAIS  NO  CASO  CONCRETO.  RECURSO  DESPROVIDO.
+Sustenta  a  parte  agravante  que  é  vedada  a  cobrança  da  capitalização  diária  dos  juros  remuneratórios,  diante  da  ausência  de  pactuação.
+Afirma  que  a  mora  não  está  comprovada  em  razão  da  cobrança  de  encargo  ilegal  no  período  da  normalidade  contratual.
+Assim  posta  a  questão,  passo  a  decidir.
+Observo  que  a  Corte  local  consignou  que  a  capitalização  diária  dos  juros  foi  expressamente  pactuada,  conforme  se  extrai  dos  seguintes  trechos  (fl.  68):
+(..)
+No  caso  em  comento,  verifico  tratar-se  de  contrato  de  Cédula  de  Crédito  Bancário  em  que  a  capitalização  foi  expressamente  pactuada  na  periodicidade  diária  no  item  5.
+Logo,  é  perfeitamente  legal  a  sua  pactuação  nesta  periodicidade.
+Consequentemente,  seguindo  a  orientação  do  Superior  Tribunal  de  Justiça  no  julgamento  do  REsp.  1.061.530/RS,  entendo  que  a  presença  de  juros  remuneratórios  abusivos,  ou  a  ausência  de  capitalização  expressa  no  contrato  impossibilitariam  a  constituição  em  mora  do  devedor.
+(..)
+
+Com  efeito,  observo  que  rever  tal  conclusão  da  Corte  local  demandaria  o  reexame  do  acervo  contratual  dos  autos,  situação  vedada  pelo  óbice  da  Súmula  n.  5  do  STJ.
+Registro,  por  outro  lado,  que  o  acórdão  recorrido  está  em  consonância  com  a  jurisprudência  do  STJ,  que  firmou  o  entendimento  de  que  o  reconhecimento  da  abusividade  dos  encargos  exigidos  no  período  da  normalidade  contratual  (juros  remuneratórios  e  capitalização)  descaracteriza  a  mora,  situação  não  verificada  nos  autos.  A  propósito:
+PROCESSUAL  CIVIL  E  CIVIL.  AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  BUSCA  E  APREENSÃO.  APRECIAÇÃO  DE  TODAS  AS  QUESTÕES  RELEVANTES  DA  LIDE  PELO  TRIBUNAL  DE  ORIGEM.  AUSÊNCIA  DE  AFRONTA  AO  ART.  1.022  DO  CPC/2015.  INOVAÇÃO  RECURSAL.  DESCABIMENTO.  TESE  DO  ESPECIAL.  FALTA  DE  PREQUESTIONAMENTO.  SÚMULAS  N.  282  E  356  DO  STF.  JUROS  REMUNERATÓRIOS.  ABUSIVIDADE.  REEXAME  DO  CONTRATO  E  DO  CONJUNTO  FÁTICO-PROBATÓRIO  DOS  AUTOS.  INADMISSIBILIDADE.  SÚMULAS  N.  5  E  7  DO  STJ.  MORA  DO  DEVEDOR.  DESCARACTERIZAÇÃO.  SÚMULA  N.  83  DO  STJ.  DIVERGÊNCIA  JURISPRUDENCIAL.  SIMPLES  TRANSCRIÇÃO  DE  JULGADOS.  SÚMULA  N.  284  DO  STF.  DECISÃO  MANTIDA.
+1.  Inexiste  afronta  ao  art.  1.022  do  CPC/2015  quando  o  acórdão  recorrido  pronuncia-se,  de  forma  clara  e  suficiente,  acerca  das  questões  suscitadas  nos  autos,  manifestando-se  sobre  todos  os  argumentos  que,  em  tese,  poderiam  infirmar  a  conclusão  adotada  pelo  Juízo.
+2.  Incabível  o  exame  de  tese  não  exposta  no  recurso  especial  e  invocada  apenas  em  recurso  posterior,  pois  configura  indevida  inovação  recursal.
+3.  A  simples  indicação  dos  dispositivos  legais  tidos  por  violados,  sem  que  o  tema  tenha  sido  decidido  pela  Corte  local,  obsta  o  conhecimento  do  especial,  por  falta  de  prequestionamento,  a  teor  das  Súmulas  n.  282  e  356  do  STF.
+4.  O  especial  não  comporta  o  exame  de  questões  que  impliquem  interpretação  de  cláusula  contratual  ou  revolvimento  do  contexto  fático-probatório  dos  autos,  a  teor  das  Súmulas  n.  5  e  7  do  STJ.  O  Tribunal  "a  quo"  concluiu  pela  abusividade  da  taxa  de  juros  remuneratórios,  pactuada  em  percentual  próximo  ao  quádruplo  da  média  de  mercado.  Alterar  esse  entendimento  demandaria  reexame  de  provas,  o  que  é  vedado  no  especial.
+5.  "O  reconhecimento  da  abusividade  nos  encargos  exigidos  no  período  da  normalidade  contratual  (juros  remuneratórios  e  capitalização)  descaracteriza  a  mora"  (REsp  n.  1.061.530/RS).  Aplicação  da  Súmula  n.  83  do  STJ.
+6.  O  conhecimento  do  especial  interposto  com  fundamento  na  alínea  "c"  do  permissivo  constitucional  exige  que  a  parte  comprove  o  dissídio  mediante  cotejo  analítico  entre  o  acórdão  recorrido  e  os  paradigmas  (arts.  255,  §§  1º  e  2º,  do  RISTJ  e  541,  parágrafo  único,  do  CPC/1973),  ônus  do  qual  a  parte  não  se  desincumbiu.  Aplicação  da  Súmula  n.  284  do  STF.
+7.  Agravo  interno  a  que  se  nega  provimento.
+(AgInt  nos  EDcl  no  AREsp  n.  1.536.299/PR,  relator  Ministro  Antonio  Carlos  Ferreira,  Quarta  Turma,  julgado  em  24.8.2020,  DJe  de  28.8.2020.)
+Em  face  do  exposto,  nego  provimento  ao  agravo  em  recurso  especial.
+Intimem-se.
+EMENTA
