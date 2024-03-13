@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo apresentado por R T C contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÕES CÍVEIS. ACIDENTE EM LINHA FÉRREA. CULPA CONCORRENTE. SENTENÇA DE PROCEDÊNCIA PARCIAL DOS PEDIDOS INICIAIS E DE IMPROCEDÊNCIA DA LIDE SECUNDÁRIA. IRRESIGNAÇÃO DE AMBAS AS PARTES. PARCIAL PROMMENTO DE AMBOS OS RECURSOS.
+Quanto à controvérsia, alega violação do art. 944 do CC, no que concerne à necessidade de majoração da indenização a título de danos morais, pois não observado os critérios da razoabilidade e da proporcionalidade, bem como a extensão do abalo extrapatrimonial sofrido pelo recorrente, trazendo a seguinte argumentação:
+É importante deixar bem assentado que a quantia de R$ 10.000,00 (dez mil reais) fixada a título de indenização por danos morais para o ora Recorrente não observa os critérios da razoabilidade e proporcionalidade, a extensão do dano suportado pelo mesmo, nem o caráter pedagógico-punitivo, negando vigência ao disposto no artigo 944, do Código, visto que suportou, em decorrência do ato ilícito praticado pela ora Recorrida fratura de clavícula direita e politrauma, tendo ficado incapacitado total e temporariamente durante 90 (noventa) dias.
+ ..
+Restando inequivocadamente comprovada a obrigação de indenizar dos ora Recorridos, há que se traçar o critério que deverá nortear o julgador na fixação do quantum da indenização relativa ao dano moral perpetrado contra o ora Recorrente.
+ ..
+Dessa forma, considerando-se a extensão do dano suportado pela autora, bem como os critérios da razoabilidade e proporcionalidade, impõe-se a majoração da condenação dos ora Recorridos ao pagamento de indenização por danos morais para a quantia de R$ 50.000,00 (cinquenta mil reais).
+Conquanto, pelos fatos acima elencados, merece muita reavaliação o v. acórdão vergastado no que concerne ao direito da ora Recorrente ao recebimento de uma justa indenização a título de dano moral.
+Assim, demonstrado à saciedade o desacerto do v. acórdão recorrido, bem como preenchidos os requisitos para admissão do presente recurso, é imperiosa a modificação do julgado no ponto acima explicitados (fls. 906- 909 ).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Os danos morais são inegáveis, dada a violação à integridade psicofísica do autor, à época menor.
+Considerando-se que o demandante suportou fratura de clavícula direita e politrauma, bem como ficou incapacitado total e temporariamente durante 90 (noventa) dias, a verba compensatória por danos morais deve ser majorada para R$ 20.000,00 (vinte mil reais), cuja importância, em virtude da culpa concorrente, deve ser reduzida pela metade, totalizando a monta indenizatória de R$ 10.000,00 (dez mil reais) (fl. 838).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte". (AgInt no AREsp 1.214.839/SC, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 8/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.672.112/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/8/2020; AgInt no AREsp 1.533.714/RN, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/8/2020; e AgInt no AREsp 1.533.913/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 31/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
