@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto contra acórdão cuja ementa teve o seguinte teor (fls. 94-95):
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. DISPENSA DE TESTEMUNHAS. AUSÊNCIA DE PREJUÍZO. NULIDADE NÃO CONFIGURADA.
+1. No ordenamento processual penal  artigo 563 do Código de Processo Penal  para que seja declarada a nulidade de um ato, necessária a demonstração do efetivo prejuízo sofrido pelas partes, o que não se verifica no presente caso.
+2. Na espécie, a ação penal vem seguindo seu fiel trâmite, tendo o advogado constituído pelo paciente requerido a substituição de duas testemunhas arroladas na resposta à acusação em 14.10.2023, cujo pedido foi deferido, e designado instrução em 18.10.2023, foi ouvida uma das testemunhas indicadas pela defesa, tendo, no mesmo ato, o patrono do paciente insistido na oitiva da testemunha ausente e requerido a sua condução coercitiva, o que foi deferido pela autoridade coatora, a qual, desde logo, também designou nova data para continuação da audiência, indicando o dia 30.11.2023, na modalidade de videoconferência, tendo os sujeitos processuais presentes intimados no ato. No dia 27.11.2023, o paciente requereu a redesignação de audiência, e devido à proximidade da data da audiência designada, não houve deliberação sobre o pedido formulado pela defesa, razão pela qual em 30.11.2023, mas aberta a audiência, foi certificada a ausência do paciente, bem como do seu advogado constituído e da testemunha por ele arrolada, cujo deliberação foi pela preclusão.
+ORDEM CONHECIDA E DENEGADA
+Consta dos autos que o recorrente foi denunciado pelo crime de previsto no art. 121, § 2º, II e IV, do Código Penal.
+Inconformada, a defesa impetrou writ na origem, tendo o Tribunal de origem denegado a ordem, conforme ementa acima transcrita.
+No presente recurso, sustenta a defesa, em suma, cerceamento de defesa, pois, durante audiência em que o acusado e seu defensor não participaram, "a ilustre magistrada, entendeu por bem dispensar a testemunha arrolada pela defesa, sob fundamento de que houve PRECLUSÃO para a oitiva da mesma, "porque devidamente intimada não compareceu", isto sem dar sequer oportunidade à defesa de se manifestar, seja para insistir em sua oitiva, requerendo a condução coercitiva, ou mesmo, solicitando a sua substituição se for o caso legal" (fl. 108).
+Requer liminarmente a suspensão do processo até a apreciação do mérito deste recurso e, no mérito, a produção da prova "consistente na oitiva da testemunha que foi dispensada, antes mesmo da oitiva do acusado".
+Em consulta ao sistema de dados desta Corte, verificou-se a anterior impetração do HC n. 889.869/GO, em favor do ora recorrente, contra o mesmo acórdão e por meio do qual a defesa formulou pedido de reconhecimento da nulidade por cerceamento de defesa, assim como nesse feito. Tendo em vista, pois, que este recurso em habeas corpus se trata de mera reiteração de pedidos, não se pode dele conhecer.
+Esclareço, por oportuno, que o writ conexo está em estágio processual mais avançado, já tendo a liminar sido indeferida, além de prestadas informações pela autoridade coatora e apresentado parecer pelo Parquet.
+Ante o exposto, não conheço do recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
