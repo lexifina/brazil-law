@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar, impetrado em favor de GUSTAVO DOS SANTOS OLIVEIRA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Autos nº 2030947-66.2024.8.26.0000).
+O habeas corpus apresentado pela defesa foi denegado por meio de acórdão assim ementado (e-STJ fl. 10):
+HABEAS CORPUS. ROUBO MAJORADO TENTADO. Liberdade Provisória e Revogação da Preventiva. Não cabimento. Presença dos requisitos da constrição cautelar. Indícios de materialidade e autoria. Fundamentação idônea. Crime com pena máxima superior a quatro anos. Inteligência do artigo 313, inciso I, do CPP. Gravidade concreta do delito que denota periculosidade do agente e obsta a concessão da liberdade provisória. Ordem denegada.
+A defesa alega, em síntese, ausência requisitos para decretação da custódia preventiva.
+Consta dos autos que o paciente está preso.
+Requer, liminar e definitivamente, o deferimento da ordem para obter a revogação da prisão preventiva.
+É o relatório.
+Decido.
+Para conhecer da controvérsia apresentada neste writ, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com a estreita via do habeas corpus.
+Além disso, a concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que não se verifica de plano na hipótese dos autos, conforme se obtém da fundamentação lançada na origem (e-STJ fls. 31):
+Trata-se de delitos cujas penas máximas suplantam quatro anos, com gravidade concreta exacerbada, haja vista a comparsaria com menor de idade, para além do emprego de grave ameaça contra uma pessoa para subtração de motocicleta.
+NÃO há, ainda, indicação precisa de endereço fixo que garanta a vinculação ao distrito da culpa, denotando que a cautela é necessária para a conveniência da instrução criminal e de eventual aplicação da lei penal, nem de atividade laboral remunerada, de modo que as atividades ilícitas porventura sejam fonte ao menos alternativa de renda (modelo de vida), pelo que a recolocação em liberdade neste momento (de maneira precoce) geraria presumível retorno às vias delitivas, meio de sustento.
+Não bastasse isso, conquanto ainda primário, o autuado, de 19 anos de idade, ostenta apontamento infracional por roubo de motocicleta, a indicar que faz da ilicitude seu meio de vida. Assim, assentada a recalcitrância em condutas delituosas ou equiparadas, cumpre prevenir a reprodução de novos delitos, motivação bastante para assentar a prisão cautelar, não como antecipação de pena, mas como expediente de socorro à ordem pública, fazendo cessar emergencialmente a prática criminosa.
+Inexiste contrariedade à jurisprudência deste Tribunal na manutenção da prisão preventiva com base em elementos concretos que indicam gravidade concreta que desborda o tipo. (AgRg no HC 801.642/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/2/2023, DJe de 6/3/2023; AgRg no HC 782.464/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023)
+De fato, "Conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a impos ição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade." (AgRg no RHC 188372 / SC, RELATOR Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DATA DO JULGAMENTO 04/03/2024, DATA DA PUBLICAÇÃO/FONTE DJe 07/03/2024)
+No mesmo sentido, também é indene de controvérsia neste STJ o fato de que "(..) A presença de condições pessoais favoráveis, como primariedade, emprego lícito e residência fixa, não impede a decretação da prisão preventiva quando devidamente fundamentada. (..)" (AgRg no RHC 175391 / RS, RELATOR Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DATA DO JULGAMENTO 12/12/2023, DATA DA PUBLICAÇÃO/FONTE DJe 18/12/2023)
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
