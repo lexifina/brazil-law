@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por EVVIBER - INDÚSTRIA DE MÓVEIS LTDA. contra decisão que negou seguimento a recurso especial manejado em face de acórdão assim ementado (e-STJ, fls. 469/470):
+APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR PERDAS E DANOS - AQUISIÇÃO DE MÓVEIS PLANEJADOS - DESCUMPRIMENTO DO CONTRATO - RESPONSABILIDADE SOLIDÁRIA DA FABRICANTE - MULTA - PREVISÃO CONTRATUAL - APLICAÇÃO EM CASO DE DESCUMPRIMENTO - VALOR EXCESSIVO - REDUÇÃO - ARTIGO 413 DO CÓDIGO CIVIL - POSSIBILIDADE - DANO MORAL - CONFIGURADO - QUANTIA MANTIDA - SENTENÇA REFORMADA EM PARTE APENAS PARA REDUZIR A MULTA - RECURSO PROVIDO EM PARTE.
+A apelante é fabricante e, em razão da relação de consumo estabelecida, responde solidariamente com a empresa revendedora dos seus produtos (artigos 12 e 18 do CDC).
+A multa é viável visto que a previsão contratual é de que, após a assinatura do contrato, as partes se obrigam ao efetivo cumprimento das respectivas responsabilidades. Como a prestação de serviço não ocorreu na forma contratada, cabível a fixação de multa em caso de não correção dos vícios apontados na perícia.
+Justificável a fixação da multa prevista em contrato, mas é possível sua redução de 40% para 20% sobre a totalidade do contrato, adequando-a aos parâmetros de razoabilidade e proporcionalidade.
+O descumprimento contratual que ocasionou a busca da autora pela solução do conflito e a constatada a desídia e o descaso das empresas rés que não entregaram e instalaram adequadamente os móveis planejados, por falha na prestação de serviço, acarreta o dever de indenizar.
+Deve ser mantido o valor da indenização por dano moral, se fixada em harmonia com os elementos dos autos e os princípios da razoabilidade e proporcionalidade.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a recorrente aponta violação do art. 1.022 do Código de Processo Civil/2015, sustentando que há contradição na determinação de cumprimento de obrigação de fazer com fixação de multa de descumprimento com base na cláusula 31ª do contrato assinado entre recorrida e ACL, ressaltando que não assinou o contrato.
+Aduz que, apesar da multa ter sido reduzida, a fim de adequa-la ao princípio da razoabilidade e proporcionalidade, deixou-se de se analisar que a decisão foi cumprida em 04/10/2022; pouco depois do prazo de 30 dias fixado pelo Juízo; de forma que a aplicação de multa, ainda que minorada, não se revela razoável seja pelo prazo determinado (que se revela mínimo diante da distância entre as comarcas de Cuiabá/MT e Bento Gonçalves/RS), bem como pela à ausência de indicação de quando contaria o dito prazo.
+Afirma que o Tribunal a quo não analisou o argumento de que a multa somente poderia ser considerada devida desde o dia em que configurado o descumprimento, quando fixada em antecipação de tutela, somente poderá ser objeto de execução provisória após a sua confirmação pela sentença de mérito e desde que o recurso eventualmente interposto não seja recebido com efeito suspensivo.
+Contrarrazões não apresentadas.
+O recurso especial não foi admito em virtude da ausência de violação do art. 1.022 do CPC/2015 e da incidência da Súmula 7 do STJ.
+Neste agravo, a agravante impugnou os fundamento da decisão agravada.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso não merece provimento.
+No que se refere à preliminar de violação do art. 1.022 do CPC/2015, não há falar em omissão no acórdão, mas apenas julgamento contrário aos interesses da recorrente, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência.
+Isso, porque, ao solucionar a controvérsia, o Tribunal de origem consignou, no acórdão do julgamento do recurso de apelação, que (i) a recorrente é fabricante e, em razão da relação de consumo estabelecida, responde solidariamente com a empresa revendedora dos seus produtos; (ii) a multa é viável visto que a previsão contratual é de que, após a assinatura do contrato, as partes se obrigam ao efetivo cumprimento das respectivas responsabilidades; (iii) a prestação de serviço não ocorreu na forma contratada, então é cabível a fixação de multa em caso de não correção dos vícios apontados na perícia; e (iv) cabível a redução do percentual para 20% que atende de forma proporcional e razoável a sanção imposta. Confira-se:
+Pois bem. Em relação à ilegitimidade passiva da apelante, consta em sua contestação que tinha uma relação estritamente mercantil com a ré ACL Comércio de Móveis - de concessão mercantil e ela (ACL) efetuava pedidos de chapas de madeira em MDF fabricadas pela apelante que encaminhava as chapas de MDF cortadas no tamanho especificado.
+Ou seja, a apelante é fabricante e, em razão da relação de consumo estabelecida, responde solidariamente com a empresa revendedora dos seus produtos.
+ ..
+A multa é viável visto que a previsão contratual é de que, após a assinatura do contrato, as partes se obrigam ao efetivo cumprimento das respectivas responsabilidades. Como a prestação de serviço não ocorreu na forma contratada, cabível a fixação de multa em caso de não correção dos vícios apontados na perícia.
+Lado outro, nos termos do artigo 413 do Código Civil, é permitida a redução do percentual da multa prevista no contrato, se constatada que é excessiva. O percentual ajustado foi de 40% sobre o valor total do contrato, mas a apelante informa que após a prolação da sentença, entregou e finalizou a prestação do serviço em 04.10.2022.
+Assim, mais justo ao caso o percentual de 20% que atende de forma proporcional e razoável a sanção imposto à apelante  ..  (e-STJ, fls. 473/474).
+Assim, apesar da rejeição dos embargos de declaração, não há como ser reconhecida a violação do art. 1.022 do CPC/15, porque não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento. Para tanto, basta o pronunciamento fundamentado acerca dos fatos controvertidos, o que se observa no presente caso, em que os motivos da decisão encontram-se objetivamente fixados nas razões do acórdão recorrido. Nesse sentido: EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro Og Fernandes, Corte Especial, DJe 3/8/2016.
+Nos termos da jurisprudência desta Corte, é solidária a responsabilidade de todos os fornecedores participantes da cadeia de fornecimento do produto ou serviço.
+Nesse sentido, confiram-se os seguintes precedentes:
+CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE FORNECIMENTO DE MÓVEIS MODULADOS. FALHA NA PRESTAÇÃO DO SERVIÇO. RELAÇÃO DE CONSUMO. RESPONSABILIDADE SOLIDÁRIA. ALEGADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. INVERSÃO DA CLÁUSULA PENAL. CABIMENTO, NO CASO. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. Relativamente à responsabilidade pela falha na prestação do serviço, tem-se ser solidária a responsabilidade de todos os fornecedores participantes da cadeia de fornecimento do produto ou serviço. Precedentes.
+3. Conforme orientação do Superior Tribunal de Justiça, a cláusula penal inserta em contratos bilaterais, onerosos e comutativos, deve voltar-se aos contratantes indistintamente, ainda que redigida apenas em favor de uma das partes. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.398.772/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO ULTRA PETITA. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. LEGITIMIDADE PASSIVA. CORRETORA DE IMÓVEIS. RESPONSABILIDADE SOLIDÁRIA. CADEIA DE FORNECIMENTO. PARTICIPAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+ ..
+2. A jurisprudência desta corte reconhece a responsabilidade solidária entre os fornecedores que figuram na cadeia de consumo na compra e venda de imóvel (AgInt no REsp n. 2.061.455/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023).
+3. Hipótese em que o Tribunal de origem reconheceu expressamente que a corretora de imóveis pertence à cadeia de fornecedores. Rever a conclusão da C orte local demandaria a análise de fatos e provas dos autos, procedimento inviável em recurso especial devido ao óbice da Súmula n. 7/STJ.
+Agravo interno improvido.
+(AgInt no REsp n. 1.870.925/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023.)
+Incide, quanto ao tema, o óbice da Súmula 83 do STJ.
+No que se refere à multa contratual, o Tribunal de origem destacou que a redução do percentual para 20% atendia de forma proporcional e razoável a sanção imposta. Como se vê, o Tribunal de origem solucionou toda a controvérsia à luz das provas apresentadas , de sorte que a modificação das conclusões adotadas no acórdão recorrido demandaria a análise do conjunto fático-probatório dos autos e do contrato firmado entre as partes, providência que esbarra no óbice das Súmulas 5 e 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
