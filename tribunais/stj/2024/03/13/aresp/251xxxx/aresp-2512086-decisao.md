@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado por GRUPO CASAS BAHIA S.A. contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO. LOCAÇÃO. RENOVATÓRIA SENTENÇA QUE JULGOU PROCEDENTE, EM PARTE, A AÇÃO, PARA O EFEITO DE DECLARAR RENOVADA A LOCAÇÃO, POR MAIS CINCO ANOS, A PARTIR DE 01/06/2016, AO VALOR LOCATÍCIO MENSAL DE RS 30.679,27 (TRINTA MIL, SEISCENTOS E SETENTA E NOVE REAIS E VINTE E SETE CENTAVOS), MAIS A VARIAÇÃO POSITIVA DO ÍNDICE GERAL DE PREÇOS DO MERCADO - IGP-M, MANTIDAS TODAS AS DEMAIS CLÁUSULAS E CONDIÇÕES DO CONTRATO, COM A EXTINÇÃO DA PRIMEIRA FASE DO PROCESSO DE CONHECIMENTO. INCONFORMISMO DA PARTE AUTORA. SENTENÇA MANTIDA. RECURSO NÃO PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 489, § 1º, IV, do CPC, no que concerne à falta de fundamentação em relação às impugnações capazes de infirmar as conclusões do acórdão recorrido atinentes à necessidade de produção de novo laudo pericial ante os vícios presentes no laudo realizado, trazendo a seguinte argumentação:
+24. No caso dos autos, o e. Tribunal a quo limitou-se a consignar que não se fazia necessária a produção de novo laudo pericial, pois este teria sido claro e respondido todos os quesitos das partes, restando ausentes os requisitos do art. 480 do CPC.
+25. Só que ao julgar desta forma, o v. acórdão recorrido deixou de examinar os vícios presentes no laudo pericial, constatados primeiramente no parecer técnico divergente de fls. 446/452 e reiterado em sede de apelação (fls. 555/567)
+ ..
+26. Nessa toada, é absolutamente necessário o reconhecimento dos vícios presentes no laudo pericial acatado, determinando-se a produção de novo laudo, sob pena de onerar excessivamente a VIA em virtude do resultado advindo de laudo pericial defeituoso.
+ ..
+29. De fato, leia-se o v. acórdão recorrido e se sentirá falta de fundamentação mínima sobre esses pontos. São questões centrais da pretensão da Recorrente, com aptidão para infirmar a conclusão alcançada pelo Tribunal a quo.
+ ..
+31. Do exposto, tendo havido a violação supra referida, de rigor seja dado provimento a esse Recurso Especial, declarando-se a nulidade do v. acórdão, com a remessa dos autos a instância a quo para a produção de novo laudo pericial a fim de sanar os vícios apontados. (fls. 660/662).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020; AgRg no AREsp n. 2.022.133/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
