@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado contra decisão monocrática de Desembargador relator que indeferiu a liminar no writ de origem (fl. 7).
+Consta dos autos que a defesa formulou perante o Juízo da Execução Penal pedido de comutação da pena. Em 26/1/2024 o juízo determinou certificação pela serventia com posterior remessa ao Ministério Público. Em 6/3/2024 foi proferida decisão de remição de pena, ao tempo em que se determinou a atualização do cálculo das penas e vista ao Ministério Público sobre o pedido de comutação de penas.
+A impetrante, em síntese, afirma não caber agravo de execução tendo em vista a decisão proferida não se enquadrar nas hipóteses do art. 197 da Lei de Execução Penal. Também sustenta se estar diante de decisão do Tribunal genérica e vazia.
+Afirma que as provas documentais demonstram a veracidade do direito buscado, no caso o indulto natalino, sendo o caso de conceder a ordem de ofício.
+Requer, liminarmente e no mérito, a concessão da ordem para deferir ao paciente o indulto natalino.
+Nos termos da Súmula 691 do Supremo Tribunal Federal, em regra, não se admite a impetração de habeas corpus contra decisão que indefere a liminar na origem, sob pena de indevida supressão de instância, ressalvadas as hipóteses em que evidenciada decisão teratológica ou desprovida de fundamentação.
+A decisão que indeferiu a liminar na origem foi fundamentada nos seguintes termos (fl. 7):
+1. Trata-se de Habeas Corpus impetrado pela Advogada Mariley Guedes Leão, com pedido de liminar, em prol de José Gabriel dos Santos, contra ato da MMª Juíza de Direito do DEECRIM UR4 da Comarca de Campinas, sob a alegação de constrangimento ilegal. Diz, em apertada síntese, que, em 23 de dezembro de 2023, formulou pedido de comutação de pena, mas a douta Magistrada a quo, ao invés de decidir, determinou que a serventia certificasse se houve o cumprimento da fração prevista no artigo 3º do Decreto nº 11.846/2023. Aduz que foi certificado o preenchimento do requisito objetivo e que o paciente comprova bom comportamento carcerário. Por isso, requer a concessão da liminar para deferir ao paciente o indulto natalino.
+2. É sabido que, para o pronto exame da legitimidade das alegações contidas na impetração e o alcançamento da eficácia almejada, mister se faz a presença dos requisitos necessários à outorga da cautela - concessível somente em casos excepcionais -, os quais não se vislumbram nesta etapa cognitiva sumaríssima, não aflorando dos autos, de resto, ilegalidade manifesta. Indefiro, pois, a prestação jurisdicional buscada em caráter liminar.3. Após a distribuição, ao eminente relator sorteado.
+Como se vê, a questão da comutação da pena e/ou indulto natalino sequer foi objeto de análise perante o juízo da execução.
+Por sua vez, o relator do Tribunal de origem não verificou de imediato, diante do exame sumário dos elementos que instruem o writ, a presença dos requisitos necessários à concessão da medida, entendendo, dessa forma, que a matéria de mérito da impetração deve ser examinada quando da apreciação e julgamento definitivo do writ.
+No mais, a pretensão de comutação de pena e/ou indulto natalina é trazida a este Tribunal sem que se tenha apontado qualquer fundamentação legal e jurídica de modo a demonstrar que o paciente cumpra os requisitos necessários para o benefício pretendido.
+Assim, tendo em vista o exposto na decisão que indeferiu o pedido de liminar, não vejo manifesta ilegalidade apta a autorizar a mitigação da Súmula 691/STF, uma vez ausente flagrante ilegalidade, cabendo ao Tribunal de origem a análise da matéria meritória.
+Outrossim, o processamento do presente writ implicaria inevitavelmente supressão de instância.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
