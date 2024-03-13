@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+Agravo de instrumento Cumprimento de sentença Decisão que rejeitou a impugnação à penhora Alegação de impenhorabilidade de veículo pertencente a pessoa com deficiência (PCD) Não enquadramento nas hipóteses de impenhorabilidade do art. 833, do Código de Processo Civil Não demonstração, ademais, que o automóvel é utilizado como instrumento indispensável ao trabalho dos executados, e, tampouco, haver incapacidade de locomoção por outros meios Precedentes - Decisão mantida.
+Recurso improvido.
+A parte agravante sustenta a violação dos arts. 805, 833, do Código de Processo Civil; 20 do Decreto n. 6.949/2009; e art. 2º da Lei n. 13.146/2015. Afirma que os executados são idosos, e uma delas portadora de neoplasia maligna, a qual gerou problemas de locomoção nos membros superiores. Assim, inviável a penhora do veículo pertencente à pessoa com deficiência. Requereu tutela antecipada às fls. 503/530 e-STJ.
+Incidem os enunciados 282 e 356 da Súmula do STF quanto à alegada violação dos arts. 805 do Código de Processo Civil; 20 do Decreto n. 6.949/2009; e art. 2º da Lei n. 13.146/2015, pois são estranhos ao julgado recorrido, a eles faltando o indispensável prequestionamento, do qual não estão isentas sequer as questões de ordem pública.
+No que se refere ao art. 833 do CPC, assim decidiu a Corte de origem (fls. 17/18 e-STJ):
+ ..  em que pesem os argumentos dos agravantes, o fato de o veículo ter sido adquirido com benefícios fiscais destinados a pessoas com deficiência PCD, não implica impenhorabilidade do bem móvel por si só, eis que não se insere em qualquer das hipóteses de impenhorabilidade previstas no art. 833, do Código de Processo Civil.
+Anote-se que os executados não demonstraram que o veículo constrito seria essencial ao seu exercício profissional, o que poderia, em tese, enquadrar o bem móvel na hipótese do inciso V, do referido art. 833, do Código de Processo Civil.
+Da mesma forma, em que pese a condição pessoal da proprietária do bem, não se demonstrou a imprescindibilidade do automóvel para locomoção, que, na hipótese, pode ser realizada por outros meios sem que se viole a sua dignidade, notadamente diante do laudo médico que aponta limitação funcional restrita ao membro superior direito (fls. 334 dos autos principais).
+Com efeito, o Tribunal de origem entendeu que o veículo penhorado não é essencial ao deslocamento da portadora de deficiência, além do que não foi comprovado o atendimento a quaisquer das hipóteses de impenhorabilidade previstas no art. 833 do CPC. A conclusão da Corte revisora foi obtida pela análise do conteúdo fático dos autos, que se situa fora da esfera de atuação desta Corte, nos termos do enunciado 7 da Súmula do STJ.
+Indefiro o requerimento de tutela antecipada, ante a evidente ausência de plausibilidade jurídica do pedido.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
+EMENTA
