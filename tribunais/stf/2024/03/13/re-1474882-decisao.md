@@ -1,0 +1,47 @@
+RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA. ICMS. FEEF. FOT. DEMONSTRAÇÃO DO DIREITO LÍQUIDO E CERTO. LEGISLAÇÃO LOCAL. ANÁLISE. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULAS 279 E 280 DO STF. MANDADO DE SEGURANÇA. INAPLICABILIDADE DO ARTIGO 85, § 11, DO CPC/2015. RECURSO DESPROVIDO.
+
+    DECISÃO: Trata-se de recurso extraordinário manejado, com arrimo nas alíneas a do permissivo constitucional, contra acórdão que assentou:
+
+      “APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. PRETENSÃO DE AFASTAR A OBRIGATORIEDADE DOS DEPÓSITOS RELATIVOS AO FUNDO ORÇAMENTÁRIO TEMPORÁRIO - FOT - CRIADO PELA LEI ESTADUAL 8.645/19. QUESTÃO QUE SE RESTRINGE À CONSTITUCIONALIDADE DA LEI. DIPLOMA LEGAL QUE TEM POR FINALIDADE O EQUILÍBRIO DAS FINANÇAS PÚBLICAS DO ESTADO, REFERINDO-SE AOS TERMOS DO CONVÊNIO CONFAZ Nº 42/2016. LEI EDITADA SOB OS MESMOS FUNDAMENTOS DA LEI REVOGADA 7.428/2016, AMBAS JÁ ANALISADAS PELO ÓRGÃO ESPECIAL DESTA CORTE, QUE REFUTOU AS MESMAS ALEGAÇÕES DE INCONSTITUCIONALIDADES EM SEDE CAUTELAR. NEGADA TAMBÉM A CONCESSÃO DE LIMINAR PARA A SUSPENSÃO DA COBRANÇA EM SEDE DE AÇÃO DIRETA DE INCONSTITUCIONALIDADE PERANTE O SUPREMO TRIBUNAL FEDERAL (ADI 5635/RJ). PRESUNÇÃO DE CONSTITUCIONALIDADE DA LEI NÃO AFASTADA. INEXISTÊNCIA DE OFENSA AO PRINCÍPIO DA NÃO VINCULAÇÃO DE RECEITA. PRECEDENTES DESTA CORTE. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. DENEGAÇÃO DA ORDEM QUE SE MANTÉM. DESPROVIMENTO DO RECURSO.
+
+    .”
+
+    Os embargos de declaração opostos foram desprovidos.
+
+    Nas razões do apelo extremo, a parte recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 167, IV, da Constituição Federal.
+
+    A parte recorrida apresentou contrarrazões ao recurso extraordinário.
+
+    O Tribunal a quo proferiu juízo positivo à admissibilidade do recurso extraordinário.
+
+    É o relatório. DECIDO.
+
+    O recurso não merece prosperar.
+
+    Divergir do entendimento do Tribunal a quo demandaria a análise da legislação local pertinente e o reexame do conjunto fático-probatório dos autos, quanto à ausência de direito líquido e certo, o que não é cabível em sede de recurso extraordinário, e as Súmulas 279 e 280 desta Corte impedem o reexame de matéria fática e de análise de legislação local. Sobre o tema, a propósito, anoto os seguintes precedentes:
+
+      “DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA. FUNDO ESTADUAL DE EQUILÍBRIO FISCAL (FEEF). LEI ESTADUAL 7.428/2016 DO ESTADO DO RIO DE JANEIRO. EXIGIBILIDADE. OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA Nº 280/STF. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. AGRAVO NÃO PROVIDO. 1. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice das Súmulas nº 279 e 280 do STF. 2. A controvérsia, conforme já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem e a reelaboração da moldura fática delineada, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da jurisprudência desta Suprema Corte. 3. A teor do art. 85, § 11, do CPC, o “tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento”. 4. Agravo interno conhecido e não provido, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC, calculada à razão de 1% (um por cento) sobre o valor atualizado da causa, se unânime a votação.” (ARE 1.412.628 AgR, rel. Min. Rosa Weber (Presidente), Tribunal Pleno, DJe de 15/6/2023)
+
+     “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA. ICMS. FEEF. DEMONSTRAÇÃO DO DIREITO LÍQUIDO E CERTO. LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. OFENSA INDIRETA À CONSTITUIÇÃO. SÚMULA 280. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. MANDADO DE SEGURANÇA. INAPLICABILIDADE DO ARTIGO 85, § 11, DO CÓDIGO DE PROCESSO CIVIL. AGRAVO INTERNO DESPROVIDO. MANIFESTO INTUITO PROTELATÓRIO. AGRAVO INTERNO DESPROVIDO, COM IMPOSIÇÃO DE MULTA DE 5% (CINCO POR CENTO) DO VALOR ATUALIZADO DA CAUSA, NOS TERMOS DO ARTIGO 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL, CASO SEJA UNÂNIME A VOTAÇÃO.” (ARE 1.442.602 AgR, rel. Min. Luiz Fux, Primeira Turma, DJe de 19/10/2023)
+
+      “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. COMPENSAÇÃO. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO AO CRÉDITO. 1. É inadmissível o recurso extraordinário, quando a matéria constitucional suscitada não tiver sido apreciada pelo acórdão recorrido, em decorrência da ausência do requisito processual do prequestionamento. Súmula 282 do STF. 2. Fica afastada a análise do recurso extraordinário, quando no agravo não há impugnação específica dos fundamentos da decisão de inadmissão. Súmula 284 do STF. 3. É inviável o processamento do apelo extremo, quando o seu exame demanda o reexame da legislação aplicável à espécie (Leis Estaduais 6.932/96, Lei 6.459/1993 e Decreto 20.910/1932) e dos fatos e provas. Súmulas 279 do STF . 4. Agravo regimental a que se nega provimento.” (ARE 895.815 AgR, rel. Min. Edson Fachin, Primeira Turma, DJe de 18/12/2015)
+
+     “DIREITO TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ICMS. IMPOSIÇÃO DE ALÍQUOTAS DIFERENCIADAS ENTRE CONCESSIONÁRIAS DE VEÍCULOS E REVENDEDORAS DE PEÇAS AUTOMOTIVAS. OFENSA. PRINCÍPIO DA ISONOMIA TRIBUTÁRIA. NECESSIDADE DE EXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279/STF. PRECEDENTES. 1. Dissentir da conclusão do Tribunal de origem quanto à situação de equivalência dos contribuintes estabelecidas no caso demandaria necessariamente o reexame do conjunto fático-probatório, o que é vedado em recurso extraordinário. 2. As instâncias de origem decidiram a lide amparadas na legislação infraconstitucional pertinente (Decreto nº 13.189/2007, Decreto nº 8.321/1998, Lei nº 688/1996 e Lei nº 6.729/1979), assim, a afronta aos dispositivos constitucionais suscitados no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. 3. Agravo regimental a que se nega provimento.” (RE 874.319-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 25/2/2016)
+
+     “Agravo regimental no recurso extraordinário com agravo. Direito Tributário. ICMS. Crédito tributário. Coeficiente de estorno. Cálculo do valor. Bem de uso e consumo. Caracterização. Legislação local. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se presta o recurso extraordinário para a análise da causa à luz da interpretação dada à legislação local, tampouco para o reexame dos fatos e das provas constantes dos autos (Súmulas nºs 279 e 280/STF). 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.” (ARE 1.261.639-AgR, rel. do Min. Dias Toffoli, Pleno, DJe 6/7/2020)
+
+    Sob esse enfoque, ressoa inequívoca a vocação para o insucesso do apelo extremo, por força do óbice intransponível dos referidos verbetes sumulares, que vedam a esta Suprema Corte, em sede de recurso extraordinário, sindicar matéria fática bem como a incursão em direito local.
+
+    Por fim, observo que o presente agravo foi interposto sob a égide da nova lei processual. Nada obstante, por se tratar de mandado de segurança, não há falar em majoração de honorários advocatícios (Súmula 512 do STF).
+
+    Ex positis, DESPROVEJO o recurso, com fundamento no artigo 932, VIII, do Código de Processo Civil de 2015 c/c o artigo 21, § 1º, do Regimento Interno do STF.
+
+    Publique-se.
+
+    Brasília, 13 de março de 2024.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente;
