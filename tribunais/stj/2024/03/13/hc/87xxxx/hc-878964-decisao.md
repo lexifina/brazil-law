@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MAYCON RODRIGO DE SOUZA SANTOS contra decisão do Tribunal Regional Federal da 4ª Região.
+Depreende-se dos autos que o paciente foi preso em flagrante no dia 02/12/2023 pela prática, em tese, do crime de contrabando.
+Irresignada, a defesa impetrou habeas corpus ao eg. Tribunal de origem, que indeferiu o pedido liminar e ainda não julgou o mérito da impetração.
+No presente writ, o impetrante sustenta a ilegalidade do valor arbitrado na fiança, sob a premissa de que "O arbitramento da fiança, no presente caso, não está por servir de laço que vincule o acusado (Paciente) ao Juízo, mas de impeditivo de sua liberdade, caracterizando-se coação ilegal, reparável via HABEAS CORPUS."
+Requer, ao final, a concessão da liminar, para reduzir o valor da fiança.
+O pedido liminar foi deferido (fls. 108-111).
+As informações foram prestadas às fls. 115-121.
+O Ministério Público Federal, às fls. 129-133, manifestou-se nos termos da seguinte ementa:
+HABEAS CORPUS IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR. IMPOSSIBILIDADE. SÚMULA 691/STF. PRISÃO PREVENTIVA. CONTRABANDO. REDUÇÃO DO VALOR DA FIANÇA ARBITRADA. AUSÊNCIA DE DEMONSTRAÇÃO DE INCAPACIDADE FINANCEIRA. NECESSIDADE DE REVOLVIMENTO DE PROVA. INCABÍVEL EM SEDE DE HABEAS CORPUS. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS E, CASO CONHECIDO, PELA DENEGAÇÃO DA ORDEM.
+É o relatório.
+Decido.
+O impetrante sustenta a ilegalidade do valor arbitrado na fiança, sob a premissa de que "O arbitramento da fiança, no presente caso, não está por servir de laço que vincule o acusado (Paciente) ao Juízo, mas de impeditivo de sua liberdade, caracterizando-se coação ilegal, reparável via HABEAS CORPUS."
+Pela análise da quaestio trazida à baila na exordial, verifica-se que o habeas corpus investe contra indeferimento liminar. De fato, ressalvadas hipóteses excepcionais, é descabido o instrumento heroico, sob pena de ensejar supressão de instância.
+A matéria, inclusive, já se encontra sumulada: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar" (Súmula nº 691/STF).
+No caso, no entanto, é de se afastar a incidência do enunciado sumular, ante a ocorrência de flagrante ilegalidade.
+A prisão cautelar deve ser considerada exceção, já que, por meio desta medida, priva-se o réu de seu jus libertatis antes do pronunciamento condenatório definitivo, consubstanciado na sentença transitada em julgado. É por isso que tal medida constritiva só justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+No caso, ao conceder a liberdade provisória, o magistrado condicionou a soltura do paciente ao pagamento da fiança arbitrada no valor de 70 mil reais, com base em conjecturas acerca da realidade econômica do paciente, caracterizando constrangimento ilegal. Veja-se:
+O delito de contrabando é altamente lucrativo e, por sua natureza, exige considerável disponibilidade financeira, seja dos executores, seja dos mandantes, para adquirir a mercadoria internalizada ilegalmente, bem como para realizar o transporte dela a partir da fronteira internacional como Paraguai.
+A fiança deve ser fixada considerando as condições pessoais do indiciado e também a natureza da infração, a vida pregressa do indiciado, as circunstâncias indicativas de sua periculosidade, bem como a importância provável das custas do processo, até final julgamento, nos termos do art. 326 do CPP.
+Por se tratar o CONTRABANDO de crime com pena máxima superior a 4 anos, a fiança deve ser fixada entre 10 (R$ 13.200,00) e 200 (R$ 264.000,00) salários-mínimos, na linha do art. 325, II, do CPP.
+Segundo consta nos autos, o réu transportava grande quantidade de cigarros estrangeiros (900 caixas), circunstância que revela certo grau de profissionalismo na prática do crime de contrabando.
+Diante destes elementos, FIXO o valor da fiança em R$70.000,00 (sessenta mil) reais.
+O valor da fiança foi fixado com base na natureza da infração e na presunção de capacidade financeira do paciente d ecorrente do valor da carga apreendida (cerca de 900 caixas de cigarro). É desproporcional a fixação do valor da fiança em patamar tão elevado sem se atentar para a real capacidade econômica do paciente.
+No mesmo sentido:
+PROCESSUAL PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. ART. 334-A DO CÓDIGO PENAL. AUSÊNCIA DOS REQUISITOS DA SEGREGAÇÃO CAUTELAR. CONCESSÃO DE LIBERDADE PROVISÓRIA MEDIANTE FIANÇA DE 50 SALÁRIOS MÍNIMOS, POSTERIORMENTE REDUZIDA PARA 30 SALÁRIOS MÍNIMOS. VALOR DESARRAZOADO. AUSÊNCIA DE ELEMENTOS CONCRETOS ACERCA DA CAPACIDADE ECONÔMICA DO PACIENTE. MANUTENÇÃO DA PRISÃO APENAS EM RAZÃO DO NÃO PAGAMENTO DA FIANÇA ARBITRADA. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL EVIDENCIADO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem, de ofício.
+2. O valor da fiança - 30 salários mínimos - foi fixado nas instâncias ordinárias tendo como base a natureza da infração e a presunção de capacidade financeira do paciente decorrente do valor da carga apreendida (cerca de 800 caixas de cigarro). Contudo, mostra-se desproporcional a fixação do valor da fiança em patamar tão elevado sem se atentar para a real capacidade econômica do paciente.
+3. In casu, trata-se de crime tipificado no art. 334-A do Código Penal, exercido sem violência e com pena mínima de 2 anos. Não há, nos autos, tampouco, qualquer elemento a justificar uma situação econômica atribuída ao paciente capaz de suportar a fixação da fiança em patamar tão elevado. Ao contrário, o só fato de estar preso há quase 1 ano, mesmo com a concessão da liberdade provisória, demonstra sua total incapacidade de suportar o encargo financeiro a ele imposto.
+4. A jurisprudência desta Corte é no sentido de que "ausentes os requisitos autorizadores da segregação preventiva, configura constrangimento ilegal a prisão do paciente com base unicamente no não pagamento da fiança". (HC 348.146/DF, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 5/4/2016, DJe 13/4/2016).
+5. Habeas corpus não conhecido. Ordem concedida de ofício, confirmando-se a liminar anteriormente deferida, para reduzir o valor da fiança arbitrada ao paciente para o mínimo legal, ou seja, 10 salários mínimos, mantidas as demais medidas cautelares impostas pelo Juízo de primeiro grau, e sem prejuízo da aplicação de outras medidas cautelares que se mostrarem necessárias, a critério do Juízo processante, mormente as constantes nos arts. 327 e 328 do Código de Processo Penal.
+(HC n. 356.612/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/5/2017, DJe de 9/5/2017.)
+Ante o exposto, concedo a ordem de habeas corpus, para, confirmando a liminar, reduzir o valor da fiança arbitrada ao paciente para o mínimo legal, ou seja, 10 salários mínimos.
+Publique-se.
+Intimem-se.
+EMENTA
