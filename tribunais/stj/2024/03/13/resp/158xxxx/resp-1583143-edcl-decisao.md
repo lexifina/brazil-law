@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração contra decisão monocrática.
+Proferida decisão no recurso, a parte embargante opõe embargos de declaração apontando vícios na decisão embargada, conforme se percebe dos seguintes trechos da petição:
+Com efeito, ainda que se aplique o entendimento de que "a sentença de mérito foi proferida antes do advento da MP 513/2010, já tendo, inclusive, trânsito em julgado na fase de conhecimento", deve ser assegurada a intervenção da empresa estatal no feito, até o exaurimento do cumprimento de sentença, conforme decidido pelo STF.
+É dizer: não basta a mera determinação de que o feito deva continuar tramitando na Justiça Estadual, deve havera integral observânciado Tema 1.011/STF, com a inclusão da CEF no polo passivo.
+Isso porque é fato incontroversoque a Caixa Econômica Federal apresentou manifestação requerendo o seu ingresso no feito, por ser a única administradora do FCVS. Confira-se:
+É o relatório. Decido.
+Os embargos não merecem acolhimento.
+As alegações da parte embargante foram analisadas na decisão embargada.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais devia pronunciar-se o juiz de ofício ou a requerimento; e/ou corrigir erro material.
+O apontamento de vício pela parte embargante foi tratado com clareza e sem contradições, conforme se percebe dos seguintes trechos da decisão:
+O Supremo Tribunal Federal, nos autos do RE n. 827.996/PR (Tema n. 1.011), fixou as seguintes teses:
+(1) Considerando que, a partir da MP 513/2010 (que originou a Lei 12.409/2011 e suas alterações posteriores, MP 633/2013 e Lei 13.000/2014), a CEF passou a ser administradora do FCVS, é aplicável o art. 1º da MP 513/2010 aos processos em trâmite na data de sua entrada em vigor (26.11.2010): 1.1.) sem sentença de mérito (na fase de conhecimento), devendo os autos ser remetidos à Justiça Federal para análise do preenchimento dos requisitos legais acerca do interesse da CEF ou da União, caso haja provocação nesse sentido de quaisquer das partes ou intervenientes e respeitado o § 4º do art. 1º-A da Lei 12.409/2011; e 1.2) com sentença de mérito (na fase de conhecimento), podendo a União e/ou a CEF intervir na causa na defesa do FCVS, de forma espontânea ou provocada, no estágio em que se encontre, em qualquer tempo e grau de jurisdição, nos termos do parágrafo único do art. 5º da Lei 9.469/1997, devendo o feito continuar tramitando na Justiça Comum Estadual até o exaurimento do cumprimento de sentença; e 2) Após 26.11.2010, é da Justiça Federal a competência para o processamento e julgamento das causas em que se discute contrato de seguro vinculado à apólice pública, na qual a CEF atue em defesa do FCVS, devendo haver o deslocamento do feito para aquele ramo judiciário a partir do momento em que a referida empresa pública federal ou a União, de forma espontânea ou provocada, indique o interesse em intervir na causa, observado o § 4º do art. 64 do CPC e/ou o § 4º do art. 1º-A da Lei 12.409/2011.
+Compulsando os autos verifica-se que se trata de cumprimento de sentença proferida em 20 de outubro de 2008 (fls. 471-482).
+ ..
+Desse modo, considerando que, no caso vertente, a sentença de mérito foi proferida antes do advento da MP 513/2010, já tendo, inclusive, trânsito em julgado na fase de conhecimento, há que se preservar a eficácia preclusiva da coisa julgada, conforme decidido pelo Supremo Tribunal Federal. Assim, deve o feito continuar tramitando na Justiça Comum Estadual até o exaurimento do cumprimento de sentença.
+Nesse sentido, em observância a orientação firmada pelo Supremo Tribunal Federal, no julgamento do RE 82 7.996/PR (Tema n. 1.011), destaco o seguinte precedente desta Corte:
+As alegações da parte, como se vê, configuram a intenção de rediscutir a matéria, o que é inviável em embargos de declaração.
+Cumpre ressaltar que os embargos de declaração não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
