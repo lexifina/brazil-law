@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo manifestado pela executada contra a decisão que não admitiu o seu recurso especial, interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DECISÃO QUE REJEITOU O RECONHECIMENTO DE PRESCRIÇÃO INTERCORRENTE. PEDIDO DE DESARQUIVAMENTO ANTES DO DECURSO DO PRAZO QUINQUENAL. INEXISTÊNCIA DE DESÍDIA DO AGRAVADO. INAPLICÁVEL O ART. 921, § 4º, DO CPC, COM AS MODIFICAÇÕES DA LEI 14.195/2021, DE FORMA RETROATIVA. TEMPUS REGIT ACTUM. PRESCRIÇÃO INTERCORRENTE NÃO CONFIGURADA. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+No recurso especial, a executada, ora agravante, alega que o acórdão recorrido contrariou os artigos 921, 924 e 925 da Lei 13.105/2015 (Código de Processo Civil - CPC/2015) e o artigo 206-A da Lei 10.406/2002 (Código Civil - CC/2002) porque, ao deixar de pronunciar a prescrição no curso do processo (prescrição intercorrente), ignorou que não só a desídia (inércia) do credor leva ao reconhecimento da prescrição, mas também o simples (mero) peticionamento - visando apenas a movimentar o processo -, sem êxito.
+Inicialmente, anoto que a desídia do credor é pressuposto para o decreto de prescrição intercorrente. A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSO CIVIL. ART. 921, § 5º, DO CPC. SUSPENSÃO DO PRAZO PRESCRICIONAL. PRESCRIÇÃO INTERCORRENTE. AUSÊNCIA DE INÉRCIA DO EXEQUENTE. IMPOSSIBILIDADE DE RECONHECER A PRESCRIÇÃO INTERCORRENTE. EXAME DA SUPOSTA DESÍDIA. REEXAME DE MATÉRIA FÁTICA. ENUNCIADO 7/STJ. DISSÍDIO JURISPRUDENCIAL SOBRE O MESMO TEMA. PREJUDICADO.
+1. A incidência da prescrição intercorrente pressupõe a inércia do exequente por prazo superior ao de prescrição do direito material vindicado, excluindo os casos em que a execução foi paralisada por determinação judicial, como na espécie.
+2. Alterar o entendimento do acórdão recorrido de que não houve desídia do agravado, para o fim de reconhecer a prescrição intercorrente, demandaria, necessariamente, reexame de fatos e provas, o que é vedado em razão do óbice da Súmula 7 do STJ.
+3. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.972.904/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/8/2022, DJe de 19/8/2022.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO INTERCORRENTE. DESÍDIA DO CREDOR. NÃO OCORRÊNCIA. REEXAME. SÚMULAS N. 7 E 83/STJ.
+1. A jurisprudência desta Corte se firmou no sentido de que "a prescrição intercorrente pressupõe desídia do credor que, intimado a diligenciar, se mantém inerte" (Quarta Turma, AgRg no REsp 1.253.510/MG, Rel. Ministra MARIA ISABEL GALLOTTI, DJe de 14.6.2012).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Acórdão de origem que está em conformidade com a jurisprudência do Superior Tribunal de Justiça. Aplicação do verbete n. 83 da Súmula.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.230.637/GO, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 9/10/2023, DJe de 16/10/2023.)
+No caso, segundo o Tribunal local, não ocorreu paralisação do processo por conduta desidiosa (omissiva) do credor e por prazo igual ou superior ao previsto para a prescrição da pretensão executiva. Isso é possível extrair deste fragmento do acórdão recorrido:
+Trata-se, na origem, de cumprimento de sentença por meio do qual se pretende o recebimento de valor atrelado a cédula de crédito bancário em que rejeitado o reconhecimento da prescrição intercorrente.
+Sobre o tema, é importante destacar que a "prescrição intercorrente ocorre no curso do processo e em razão da conduta do autor que, ao não prosseguir com o andamento regular ao feito, se queda inerte, deixando de atuar para que a demanda caminhe em direção ao fim colimado" (REsp 1620919/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/11/2016, DJe 14/12/2016) Esta, aliás, foi matéria de análise do REsp 1.604.412/SC, julgada em Incidente de Assunção de Competência, em que restou decidido:
+(..) "1.1 Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002. 1.2 O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980)." (REsp 1604412/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 27/6/2018, DJe 22/8/2018) (grifei)
+Extrai-se, portanto, a necessidade da configuração de desídia do credor, isto é, a conduta de não dar o devido andamento ao processo, permanecendo silente por prazo superior ao do direito material vindicado.
+Nos termos do art. 206, § 5º, II, do Código Civil, o prazo prescricional do título executado é de cinco anos.
+A alegação do agravante é de que a desídia do agravado se deu pelas diversas diligências infrutíferas bem como pelos arquivamentos do feito.
+Contudo, as diversas diligências solicitadas descaracterizam a alegada desídia ou inércia do agravado, e, pelo contrário, comprovam que este mantém o andamento do feito, buscando seu direito à satisfação, como credor de uma dívida líquida, certa e exigível.
+Destaque-se que foram solicitadas diversas diligências, conforme folhas 343, 346, 352, 355, 358, 375, 379, 383, todas dos autos principais, além do que, entre uma solicitação e outra houve efetivo andamento ao processo. Ademais, tampouco decorreu o prazo prescricional do título executado no período em que os autos permaneceram em arquivo.
+ ..
+Descabida, ainda, a pretensão de aplicação retroativa do art. 921, § 4º, do CPC, com a modificação trazida pela Lei 14.195/2021, haja vista que "a norma processual não retroagirá e será aplicável imediatamente aos processos em curso, respeitados os atos processuais praticados e as situações jurídicas consolidadas sob a vigência da norma revogada." (art. 14, do Código de Processo Civil).
+Aliás, nesse sentido, manifestou-se o C. Superior Tribunal de Justiça no seguinte sentido:
+"A nova lei processual se aplica imediatamente aos processos em curso (ex vi do art. 1.046 do CPC/2015), respeitados o direito adquirido, o ato jurídico perfeito, a coisa julgada, enfim, os efeitos já produzidos ou a se produzir sob a égide da nova lei. Considerando que o processo é constituído por inúmeros atos, o Direito Processual Civil orienta-se pela Teoria dos Atos Processuais Isolados, segundo a qual, cada ato deve ser considerado separadamente dos demais para o fim de determinar qual a lei que o regerá (princípio do tempus regit actum). Esse sistema está inclusive expressamente previsto no art. 14 do CPC/2015" (STJ. Primeira Turma. AgRg no REsp 1.584.433. Relator: Ministro Gurgel de Faria. Publicado no DJe em 21/10/2016)
+Portanto, seja pelo não transcurso do prazo prescricional do direito material, seja pela ausência de configuração da desídia do agravado, não há se falar em prescrição intercorrente.
+Como se vê, o acórdão recorrido está ajustado à jurisprudência do Superior Tribunal de Justiça (STJ), acima demonstrada. Inequívoca, pois, a incidência da Súmula 83 da Casa.
+Alem disso, a análise relacionada à ocorrência ou não de inércia do credor demandaria reexame de provas, finalidade para a qual não se presta o recurso especial. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA. DESÍDIA NÃO EVIDENCIADA. MODIFICAÇÃO. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Esta Corte Superior tem entendimento pacífico de que o reconhecimento da prescrição intercorrente exige a comprovação da inércia e desídia do exequente.
+2. No caso dos autos, o Tribunal de origem concluiu que não ficou evidenciada a desídia da exequente, tendo em vista as manifestações antes da fluência do prazo prescricional.
+3. "Avaliar se houve desídia do exequente capaz de permitir a ocorrência de prescrição intercorrente demanda o revolvimento de matéria fático-probatória" (AgInt nos EDcl no AREsp 1.894.534/GO, Relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 25/4/2022, DJe de 23/5/2022).
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.319.349/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 9/10/2023, DJe de 16/10/2023.)
+Tem aplicação, no ponto, a Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
+EMENTA
