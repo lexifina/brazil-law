@@ -1,0 +1,44 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por EMBRACON ADMINISTRADORA DE CONSORCIO LTDA, contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 18/11/2022.
+Concluso ao gabinete em: 10/03/2023.
+Ação: de obrigação de fazer c/c compensação por danos morais, ajuizada por DANIEL GUIMARAES MARTINS, em face da parte agravante, tendo em vista o descumprimento da instituição bancária ré em baixar gravame existente em veículo adquirido por alienação fiduciária.
+Sentença: julgou procedentes os pedidos, para condenar a agravante:
+i) na obrigação de fazer consistente em, no prazo de 5 (cinco) dias úteis, promover a baixa do gravame perante o DETRAN, em relação ao veículo FIAT/SIENA, PLACA OVN6786, RENAVAM 00601867084, CHASSI 9BD197132E3153509, sob pena de aplicação de multa diária de R$ 500,00 (quinhentos reais), limitada a R$ 20.000,00 (vinte mil reais); e
+ii) ao pagamento de compensação por danos morais, no importe de R$ 4.000,00 (quatro mil reais).
+Acórdão: negou provimento à apelação interposta pela parte agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANO MORAL. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. QUITAÇÃO DO CONTRATO. BAIXA DO GRAVAME. DEVER DO CREDOR FIDUCIÁRIO. DEMORA NO CUMPRIMENTO DA OBRIGAÇÃO. DANO MORAL CARACTERIZADO. HONORÁRIOS DE SUCUMBÊNCIA. MANUTENÇÃO.
+1. Impõe-se ao credor fiduciário o dever de promover a baixa do gravame diante da quitação do contrato.
+2. A demora da instituição financeira em promover a baixa de gravame incidente sobre veículo quitado, por período superior ao previsto contratualmente, gera dano moral ao consumidor. No caso, mantido o valor da indenização em R$ 4.000,00 (quatro mil reais).
+3. Mantém-se o valor fixado a título de honorários de sucumbência quando sua diminuição implica aviltamento ao trabalho do advogado, por meio da fixação de quantia que não o remunera dignamente.
+4. Negou-se provimento ao apelo. (e-STJ, fls. 487/488)
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega a violação dos arts. 186, 188, I, 927 e 944, parágrafo único, todos do CC/02; 85, §§ 2º e 8º, do CPC. Sustenta:
+i) o afastamento da indenização por danos morais por não ter sido demonstrado qualquer prejuízo na esfera pessoal do recorrido; e
+ii) que os honorários de sucumbência devem ser arbitrados por equidade diante da desproporção e da exorbitância do valor fixado.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do dano moral por atraso na baixa de gravame (Tema repetitivo 1.078)
+Segundo a jurisprudência do STJ, firmada em sede de recurso repetitivo (Temas 1.078), o atraso, por parte de instituição financeira, na baixa de gravame de alienação fiduciária no registro de veículo não caracteriza, por si só, dano moral in re ipsa. O referido julgado versa, ainda, que para a configuração do dano moral é necessário demonstrar a ocorrência de lesão aos direitos da personalidade, que ocorre quando o ilícito é capaz de repercutir na esfera da dignidade da pessoa, gerando situação vexatória ou forte abalo psíquico. Nesse sentir: REsp 1.881.453/RS (2ª Seção, DJe de 7/12/2021).
+O acórdão recorrido ao reconhecer que o atraso na baixa de gravame na situação dos autos não gerou dano moral presumido, asseverando que "(..) a ré praticou ato ilícito, que ocasionou no autor abalo à sua integridade psíquica, com relevância suficiente para permitir a compensação financeira" (e-STJ, fl. 498), manteve consonância com jurisprudência desta Corte Superior.
+Logo, nos termos do Tema repetitivo 1.078, o acórdão recorrido não merece reforma quanto ao ponto.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à existência de danos morais causados ao agravado, em razão de abalo em sua integridade psíquica, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da fundamentação deficiente
+Os argumentos invocados pela agravante não demonstram como o acórdão recorrido violou o art. 944, parágrafo único, do CC/02, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Dos parâmetros para a fixação dos honorários de sucumbência (Súmula 568/STJ)
+Nos termos da jurisprudência do STJ, firmada em sede de recurso repetitivo (Tema 1.076), "a fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa". Nesse sentido: REsp 1.850.512/SP (Corte Especial, DJe de 31/5/2022).
+Na hipótese, o valor da condenação ao pagamento de compensação por danos morais no importe de R$ 4.000,00 (quatro mil reais), o qual serviu de base de cálculo para a fixação dos honorários de sucumbência, não se mostra elevado, de forma afastar a aplicação do Tema 1.076.
+Dessa forma, o acórdão recorrido ao arbitrar os honorários de sucumbência em 20% sobre o valor da condenação, manteve consonância com o entendimento do STJ no sentido de que, para a fixação de honorários sucumbenciais, estabelece-se a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º). A esse propósito: REsp 1.746.072/PR (2ª Seção, DJe de 29/3/2019).
+Logo, nos termos da Súmula 568/STJ, o acórdão recorrido não merece reforma quanto ao ponto.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a" e "b", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite máximo previsto no art. 85, § 2º, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF.
+1. Ação de obrigação de fazer c/c compensação por danos morais.
+2. O atraso, por parte de instituição financeira, na baixa de gravame de alienação fiduciária no registro de veículo não caracteriza, por si só, dano moral in re ipsa. Para a configuração do dano moral é necessário demonstrar a ocorrência de lesão aos direitos da personalidade, que ocorre quando o ilícito é capaz de repercutir na esfera da dignidade da pessoa, gerando situação vexatória ou forte abalo psíquico. Tema 1.078.
+3. Alterar o decidido no acórdão impugnado, no que se refere à existência de danos morais causados ao agravado, em razão de abalo em sua integridade psíquica, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. Para a fixação de honorários sucumbenciais, estabelece-se a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º). Súmula 568/STJ.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, não provido.
