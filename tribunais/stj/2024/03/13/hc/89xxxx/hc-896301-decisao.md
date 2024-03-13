@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus substituto de recurso próprio, com pedido liminar, impetrado em favor de ROMANO ARAUJO TEIXEIRA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no julgamento da apelação criminal n. 1513087-75.2022.8.26.0228.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 7 anos, 8 meses e 12 dias de reclusão, no regime inicial fechado, e ao pagamento de 17 dias-multa, por infração ao art. 157, § 2º, incisos II e V, do Código Penal (fls. 39-52).
+Inconformada, a defesa interpôs recurso de apelação perante o Tribunal de origem, que, por unanimidade, negou provimento ao apelo defensivo, consoante voto condutor do acórdão de fls. 8-18.
+Dai o presente writ, onde a impetrante aponta constrangimento ilegal na fixação do regime mais gravoso para início de cumprimento da pena.
+Para tanto, sustenta que "No caso dos autos, o regime prisional semiaberto merece ser estabelecido ao paciente, pois imposto o regime fechado apenas com base em fundamentações genéricas. Dessa forma, o regime adequado é o semiaberto, considerando o quantum de pena aplicada ao paciente." (fl. 4).
+Requer, assim, em caráter liminar e no mérito, a concessão da ordem para que seja fixado o regime semiaberto para início de cumprimento da pena.
+É o relatório. DECIDO.
+Conforme relatado, busca-se na presente impetração a fixação do regime semiaberto para início de cumprimento da pena.
+Com efeito, a revisão da dosimetria da pena somente é possível em situações excepcionais de manifesta ilegalidade ou abuso de poder, cujo reconhecimento ocorra de plano, sem maiores incursões em aspectos circunstanciais ou fáticos e probatórios (HC n.º 304.083/PR, Relator Ministro FELIX FISCHER, Quinta Turma, DJe 12/3/2015).
+Nesse contexto, inexiste ilegalidade na fixação do regime inicial mais gravoso, no caso, o regime fechado, pois a presença de circunstância judicial desfavorável e a reincidência justificam o agravamento do regime prisional, nos termos do art. 33, § 2º, "b", e § 3º, do Código Penal.
+Vejamos:
+AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS  SUBSTITUTIVO  DE  RECURSO  PRÓPRIO.  TRÁFICO  DE  ENTORPECENTES.  DOSIMETRIA.  PRETENSÃO  DE  REDUÇÃO  DA  PENA  -BASE.  IMPOSSIBILIDADE.  QUANTIDADE  DE  DROGAS  E  MAUS  ANTECEDENTES  PROPORCIONALIDADE  DA  FRAÇÃO  DE  1/3.  MANUTENÇÃO  DO  REGIME  FECHADO.  CIRCUNSTÂNCIAS  JUDICIAIS  DESFAVORÁVEIS  E  REINCIDÊNCIA.  CONSTRANGIMENTO  ILEGAL  NÃO  EVIDENCIADO.  AGRAVO  REGIMENTAL  DESPROVIDO.
+I  -  A  parte  que  se  considerar  agravada  por  decisão  de  relator,  à  exceção  do  indeferimento  de  liminar  em  procedimento  de  habeas  corpus  e  recurso  ordinário  em  habeas  corpus,  poderá  requerer,  dentro  de  cinco  dias,  a  apresentação  do  feito  em  mesa  relativo  à  matéria  penal  em  geral,  para  que  a  Corte  Especial,  a  Seção  ou  a  Turma  sobre  ela  se  pronuncie,  confirmando-a  ou  reformando-a.
+II  -  O  juiz  deve  considerar,  com  preponderância  sobre  o  previsto  no  artigo  59  do  Estatuto  Repressivo,  a  natureza  e  a  quantidade  da  substância  entorpecente,  consoante  o  disposto  no  artigo  42  da  Lei  11.343/2006.
+III  -  No  presente  caso,  o  Tribunal  de  origem,  de  forma  motivada  e  de  acordo  com  o  caso  concreto,  atento  as  diretrizes  do  art.  42  da  Lei  de  Drogas  e  do  art.  59,  do  Código  Penal,  considerou  a  quantidade  de  entorpecentes  apreendidos  com  o  paciente,  vale  dizer,  quase  15  (quinze)  quilos  de  maconha,  bem  como  os  maus  antecedentes,  para  exasperação  da  pena  em  1/3  (1/6  por  circunstância  judicial  negativada).  Precedentes.
+IV  -  O  Plenário  do  col.  Supremo  Tribunal  Federal  declarou  inconstitucional  o  art.  2º,  §  1º,  da  Lei  n.  8.072/90  -  com  redação  dada  pela  Lei  n.  11.464/07,  não  sendo  mais  possível,  portanto,  a  fixação  de  regime  prisional  inicialmente  fechado  com  base  no  mencionado  dispositivo.  Para  tanto,  devem  ser  observados  os  preceitos  constantes  dos  arts.  33  e  59,  ambos  do  Código  Penal.
+V  -  In  casu,  o  regime  adequado  à  hipótese  é  o  inicial  fechado,  uma  vez  que  a  valoração  negativa  das  circunstâncias  judiciais  indicadas  pelas  instâncias  ordinárias,  aliadas  à  reincidência,  justifica  a  fixação  do  regime  fechado  para  o  início  de  cumprimento  da  sanção.
+Agravo  regimental  desprovido. (AgRg  no  HC  n.  751.573/SP,  relator  Ministro  Jesuíno  Rissato  (Desembargador  Convocado  do  TJDFT),  Quinta  Turma,  julgado  em  23/8/2022,  DJe  de  26/8/2022.)
+Portanto, na espécie, a pretensão formulada pela impetrante encontra óbice na jurisprudência consolidada do Superior Tribunal de Justiça, revelando-se, assim, manifestamente improcedente.
+Ante o exposto, denego a ordem de habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
