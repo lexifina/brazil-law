@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por VIGNOTO & IMHX EMPREENDIMENTOS LTDA. contra decisão que não admitiu recurso especial interposto em face de acórdão assim ementado (fls. 256/257):
+APELAÇÕES CÍVEIS. AÇÃO DE RESCISÃO CONTRATUAL COM RESTITUIÇÃO DE QUANTIA PAGA. SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSO DE APELAÇÃO 1. PROMITENTE VENDEDOR. 1) PEDIDO DE MAJORAÇÃO DO PERCENTUAL DE RETENÇÃO DAS PARCELAS PARA 25%. AUSÊNCIA DE ELEMENTOS QUE JUSTIFIQUEM A RETENÇÃO EM PATAMAR SUPERIOR AO ARBITRADO. PERCENTUAL DE 20% QUE ATENDE A RAZOABILIDADE E A PROPORCIONALIDADE. 2) MANUTENÇÃO DAS TAXAS E DEDUÇÕES CONTRATUAIS. PRINCÍPIO DO PACTA SUNT SERVANDA. 2.1) DESCONTOS REFERENTES À MULTA CONTRATUAL DE 10% SOBRE O VALOR ATUALIZADO DO CONTRATO. IMPOSSIBILIDADE. PERCENTUAL DE RETENÇÃO E MULTA CONTRATUAL ORIGINÁRIOS DE MESMO FATO. CARACTERIZAÇÃO DE BIS IN IDEM. PRECEDENTES. 2.2) TAXA DE COMISSÃO DE CORRETAGEM DE 6%. IMPOSSIBILIDADE, POR NÃO CUMPRIDO O DEVER DE INFORMAÇÃO A RESPEITO DA TRANSFERÊNCIA DA OBRIGAÇÃO, NOS TERMOS DO RESP. 1.599.511/SP. 2.3) TAXA DE OCUPAÇÃO NO VALOR DE 0,5% SOBRE O VALOR DO IMÓVEL. IMISSÃO NA POSSE NÃO COMPROVADA. AUSÊNCIA DE UTILIZAÇÃO DO IMÓVEL. COBRANÇA INCABÍVEL. 3) RETENÇÃO DAS ARRAS CONFIRMATÓRIAS. DESCABIMENTO. CUMULAÇÃO COM CLÁUSULA PENAL, DE NATUREZA INDENIZATÓRIA EQUIPARADA. RETENÇÃO INDEVIDA, SOB PENA DE VIOLAÇÃO DO PRINCÍPIO DO NON BIS IN IDEM. PRECEDENTES DO STJ. 4) READEQUAÇÃO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS. CONDENAÇÃO MANTIDA, EM VIRTUDE DO DECAIMENTO MÍNIMO. 4.1) ALTERAÇÃO DA BASE DE CÁLCULO DOS HONORÁRIOS ADVOCATÍCIOS. INDEVIDA UTILIZAÇÃO DO VALOR DA CAUSA, EM RAZÃO DA VIABILIDADE DA APURAÇÃO DO PROVEITO ECONÔMICO.
+RECURSO DE APELAÇÃO 2. COMPROMISSÁRIO COMPRADOR.REDUÇÃO DA CLÁUSULA CONTRATUAL PARA 10%. NÃO ACOLHIMENTO. JURISPRUDÊNCIA DO STJ QUE ESTABELECE A FIXAÇÃO ENTRE 10% A 25%. PERCENTUAL DE 20% QUE ATENDE A RAZOABILIDADE E A PROPORCIONALIDADE.
+APELAÇÃO 1 PARCIALMENTE PROVIDA.
+APELAÇÃO 2 NÃO PROVIDA.
+Os embargos de declaração foram rejeitados (fls. 290/293).
+Nas razões do especial, apontam os recorrentes violação dos artigos 402, 403 e 475 do Código Civil, artigo 927, III, do Código de Processo Civil, além do dissídio jurisprudencial.
+Argumentam, em síntese, que, nos compromissos de compra e venda celebrados antes da vigência da Lei nº 13.786/18, em que modificado o valor da cláusula penal, por decisão judicial, incidiriam juros de mora desde o trânsito em julgado.
+Ressaltam, ainda, que, em caso de resilição unilateral por inciativa do promitente adquirente, seria indevida a restituição da comissão de corretagem, considerada a expressa informação prestada a respeito da respectiva obrigação.
+Em todo caso, deveria ser compensado da quantia a ser restituída o valor correspondente à taxa de ocupação no percentual de 0,5% sobre o preço do imóvel, até a desocupação.
+Contra-arrazoado (fls. 381/390), o recurso especial não foi admitido na origem (fls. 391/395); contra o que se manifesta a parte agravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+De início, em relação à alegada violação do artigo 927, III, do Código de Processo Civil, observo que a controvérsia relacionada à pertinência do Tema Repetitivo 1.002/STJ não foi objeto de análise no acórdão recorrido, obstando o conhecimento do recurso especial, em razão da incidência das Súmulas 282 e 356/STF.
+No que se refere à controvérsia relacionada à comissão de corretagem, a Corte Local considerou que seria indevido o pagamento do valor correspondente a essa obrigação de meio, por falta de informação adequada ao promitente adquirente a respeito (fl. 266).
+Diante desse contexto, para acolher a pretensão dos recorrentes, seria imprescindível o reexame de fatos, provas e das disposições contratuais; procedimento, porém, vedado em recurso especial, em razão da incidência das Súmulas 5 e 7/STJ.
+No que se refere à taxa de ocupação, extraio do acórdão recorrido que o promitente adquirente não teria sequer ocupado o imóvel objeto da promessa de compra e venda, para afastar a condenação de restituir o promitente vendedor pela posse direta do lote.
+A orientação adotada não destoa da jurisprudência desta Corte Superior, pacificada no sentido de que a cobrança da taxa de ocupação, em caso de desistência do contrato de promessa de compra e venda de imóvel, pressupõe o exercício da posse pelo promitente adquirente.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL E RESTITUIÇÃO DE VALORES. PROMESSA DE COMPRA E VENDA DE LOTE. TAXA DE FRUIÇÃO. CABIMENTO, NO CASO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça assenta que, nas hipóteses de rescisão de contrato de compra e venda com a determinação de devolução dos valores pagos pelo comprador, é cabível a fixação de indenização relativa ao período da ocupação do imóvel, desde a data em que a posse foi transferida até a efetiva entrega do bem.
+2. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.088.804/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/11/2023, DJe de 1/12/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. COMPRA E VENDA DE IMÓVEL. RESCISÃO POR INADIMPLEMENTO DO PROMISSÁRIO-COMPRADOR. TAXA DE OCUPAÇÃO (ALUGUEL). OBRIGAÇÃO DEVIDA POR TODO O PERÍODO DE POSSE. PRECEDENTES. INOVAÇÃO RECURSAL. INVIABILIDADE. AGRAVO INTERNO PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. Conforme o atual entendimento desta Corte Superior, "decretada a resolução do contrato de compra e venda de imóvel, com a restituição das parcelas pagas pelo comprador, o retorno das partes ao estado anterior implica o pagamento de indenização pelo tempo em que o comprador ocupou o bem, desde a data em que a posse lhe foi transferida" (AgInt no REsp 1.959.759/RS, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 2/5/2022, DJe de 4/5/2022).
+2. É inadmissível, no agravo interno, a adição de tese não exposta em recurso especial, por constituir indevida inovação recursal.
+Circunstância verificada em relação à pretensão de redução equitativa de multa e revisão da base de cálculo de honorários advocatícios.
+3. Agravo interno parcialmente conhecido e desprovido.
+(AgInt no REsp n. 2.007.964/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/9/2023, DJe de 8/9/2023.)
+Desse modo, como a orientação adotada no acórdão recorrido está em conformidade com a jurisprudência desta Corte Superior, o recurso especial não deve ser conhecido, em razão da Súmula 83/STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, devida pela parte agravante, observando-se os limites dos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
