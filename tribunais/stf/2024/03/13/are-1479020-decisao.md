@@ -1,0 +1,45 @@
+DECISÃO:
+
+    Vistos.
+
+    Trata-se de agravo da decisão que não admitiu recurso extraordinário interposto contra acórdão da Quinta Câmara Cível do Tribunal de Justiça do Rio de Janeiro, assim ementado:
+
+    “Agravo de instrumento. Ação civil pública, em fase de cumprimento de sentença que condenou o Estado do Rio de Janeiro à realização de obras de reparação ambiental em hospital à ocasião sob sua gestão. Decisão agravada que rejeitou a impugnação do Estado do Rio de Janeiro e rejeitou a nulidade da execução deduzida pelo Município do Rio de Janeiro. Ação de conhecimento contra o Estado do Rio de Janeiro, pretendendo sanar dano causado ao meio ambiente em razão da desídia do mesmo quanto à falta de tratamento do esgoto do Hospital Rocha Faria. Municipalização do nosocômio no ano de 2016, por meio do “Termo de Cooperação de Natureza Convenial n° 001/2015” entre o Estado do Rio de Janeiro e o Município do Rio de Janeiro, ocorrida, informada nos autos no ano de 2019, já na fase processual de cumprimento de sentença. Impossibilidade de extensão da responsabilidade e da legitimidade passiva. Inaplicabilidade na hipótese do art. 109, §§ 1º, 2º e 3º CPC, este somente aplicável quando há alienação da coisa ou do direito litigioso a título particular. Hipótese que não se perfaz. Transferência da gestão do hospital, no curso da lide, que não altera a legitimidade passiva do Estado do Rio de Janeiro e sua responsabilidade pelo cumprimento da decisão judicial transitada em julgado. Hospital que foi municipalizado através de um acordo de vontades para a gestão do mesmo, sem a transferência formal do patrimônio público ao Município. Processo de conhecimento que correu validamente contra o Estado, sendo a execução da decisão prolatada em desfavor do ente estadual, mantendo-se a decisão neste sentido. Exclusão do Município da execução por outra decisão ad quem. Inteligência do § 5º do art. 513 do CPC. Desprovimento do agravo de instrumento.”
+
+    Opostos embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação dos artigos 18 e 30, inciso V, da Constituição Federal.
+
+    Argumenta, em síntese, haver “impossibilidade de cumprimento da obrigação imposta pelo decisum ao Estado, porque o Hospital Rocha Faria foi municipalizado pelo Decreto nº 41198/2016, sendo certo cabe ao Município do Rio de Janeiro a responsabilidade pela gestão do Hospital Rocha Faria.”
+
+    Aduz ser da competência dos Municípios “medidas que digam respeito à implementação de Plano de Gerenciamento de Resíduos dos Serviços de Saúde (PGRSS) em hospital municipalizado, como forma de organizar e prestar os serviços públicos de interesse local que tem caráter essencial, sob pena de afronta à organização político-administrativa.”
+
+    O Ministério Público Federal, em parecer da lavra do ilustrado Subprocurador-Geral da República Dr. Luiz Augusto Santos Lima, opinou pelo não provimento do agravo, em parecer assim ementado:
+
+    “Recurso extraordinário com agravo. Direito Constitucional e Administrativo. Ação civil pública, em fase de cumprimento de sentença que condenou o Estado do Rio de Janeiro à realização de obras de reparação ambiental em hospital. Decisão agravada que rejeitou a impugnação do Estado do Rio de Janeiro e rejeitou a nulidade da execução deduzida pelo Município do Rio de Janeiro. Ação de conhecimento contra o Estado do Rio de Janeiro, pretendendo sanar dano causado ao meio ambiente em razão da desídia do mesmo quanto à falta de tratamento do esgoto do Hospital Rocha Faria. Inadmissibilidade do recurso extraordinário fundamentada nas Súmulas 279 e 454, ambas do STF. Razões de agravo que não lograram demonstrar o preenchimento dos requisitos de admissibilidade pelo extraordinário. Ausência de prequestionamento explícito do tema jurígeno constitucional versado no recurso. Aplicação da Súmula 282 do STF. Necessária análise de matéria infraconstitucional. Violação indireta. Parecer pelo desprovimento do agravo.”
+
+    Decido.
+
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais apontados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram da referida norma. Incide na espécie a Súmula nº 282 desta Corte.
+
+    Anote-se que o fato de o recorrente ter supostamente trazido a questão constitucional no bojo dos embargos de declaração não é bastante para suprir o requisito do prequestionamento, a teor da Súmula nº 356/STF. Ocorre que, não obstante a oposição dos embargos, as petições anteriormente apresentadas não suscitaram a referida questão constitucional, hipótese em que já não se prestam os embargos declaratórios opostos contra o acórdão de segundo grau para suscitá-la pela primeira vez. Nesse sentido Nesse sentido, anote-se:
+
+    “CONSTITUCIONAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. SÚMULA 279 DO STF. SÚMULA 636 DO STF. ALEGADA VIOLAÇÃO AO ART. 5º, XXXVI, LIV E LV, DA CONSTITUIÇÃO. AGRAVO IMPROVIDO. MULTA. I - Inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Se a questão constitucional não vinha sendo discutida, e foi suscitada somente nos embargos de declaração, não há falar em prequestionamento. Incidem, na espécie, as Súmulas 282 e 356 da Corte. II - Matéria que demanda a análise de fatos e provas, o que atrai a incidência da Súmula 279 do STF. III - Incabível a interposição de RE por contrariedade ao art. 5º, II, da Constituição Federal, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). IV - A alegada violação ao art. 5º, XXXVI, LIV e LV, da Constituição, em regra, configura situação de ofensa meramente reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. V - Aplicação de multa. VI - Agravo regimental improvido” (AI nº 638.758/SP-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 19/12/07).
+
+    “Agravo regimental no recurso extraordinário com agravo. Matéria Criminal. Alegação de violação do princípio do devido processo legal e de cerceamento de defesa. Prequestionamento. Ausência. Inexistência de repercussão geral. Violação do art. 5º, inciso XLV, da Constituição Federal. Fatos e provas. Reexame. Impossibilidade. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. É inadmissível o recurso extraordinário se a matéria constitucional que nele se alega violada não está devidamente prequestionada. Incidência das Súmulas nºs 282 e 356/STF. 2. Ausência de repercussão geral do tema relativo à suposta violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes, Tema 660, DJe de 1º/8/13). 3. Não se presta o recurso extraordinário para a análise da causa à luz da interpretação dada à legislação infraconstitucional, tampouco para o reexame dos fatos e das provas constantes dos autos (Súmula nº 279/STF). 4. Agravo regimental não provido” (ARE Nº 1.268.465/pa-AgR, Tribunal Pleno, Relator o Ministro Dias Toffoli - Presidente, DJe de 21/10/20).
+
+    “1. Recurso extraordinário: descabimento: dispositivo constitucional dado por violado (CF, art. 5º, II) não analisado pelo acórdão recorrido: incidência das Súmulas 282 e 356. 2. Embargos de declaração, prequestionamento e Súmula 356. Os embargos declaratórios só suprem a falta de prequestionamento quando a decisão embargada tenha sido efetivamente omissa a respeito da questão antes suscitada. 3. Recurso extraordinário: inadmissibilidade: alegada violação a dispositivo constitucional que, se ocorresse, seria reflexa ou indireta, que não enseja exame no recurso extraordinário: incidência, mutatis mutandis, da Súmula 636” (AI nº 596.757/RS-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJe de 10/11/06),
+
+    “RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL. PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. 1. Ao contrário do que sustenta o agravante, os embargos de declaração, para fins de prequestionamento, servem para suprir omissão do acórdão recorrido em relação à matéria suscitada no recurso cabível ou nas contra- razões e não para inovar matéria constitucional não debatida nos autos. 2. Ausente o prequestionamento do art. 129, III, da Constituição, dado como contrariado. Não prescinde desse requisito, inerente ao cabimento do recurso de natureza extraordinária, a circunstância de poder a ilegitimidade ativa ad causam ser analisada em qualquer grau de jurisdição. 3. Agravo regimental improvido” (RE nº 434.420/DF-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJ de 5/8/05).
+
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Sem majoração da verba honorária, tendo em vista a ausência de fixação pela Corte de origem.
+
+    Publique-se.
+
+    Brasília, 13 de março de 2024.
+
+Ministro DIAS TOFFOLI
+
+Relator
+
+Documento assinado digitalmente
