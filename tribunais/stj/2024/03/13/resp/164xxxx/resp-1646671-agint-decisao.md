@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interno interposto por AEROS - Fundo de Previdência Complementar contra a decisão monocrática desta relatoria que conheceu em parte do recurso especial e, nessa extensão, negou-lhe provimento, nos termos da ementa a seguir transcrita (e-STJ, fl. 380):
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. LIQUIDAÇÃO DE CÁLCULOS. DELIMITAÇÃO DOS CRITÉRIOS DE CÁLCULO DA ATUALIZAÇÃO MONETÁRIA DO CRÉDITO EXEQUENDO. VIOLAÇÃO À COISA JULGADA. INEXISTÊNCIA. MELHOR INTERPRETAÇÃO DADA AO TÍTULO EXECUTIVO JUDICIAL. ADEMAIS, INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+Nas razões recursais (e-STJ, fls. 392-398), o fundo agravante reitera a ocorrência de negativa de prestação jurisdicional, visto que ainda persiste a omissão acerca das quetões relevantes atinentes à violação da coisa julgada.
+Ademais, alega ser inaplicável a Súmula 7 do STJ ao caso, pois a discussão que emerge das razões do apelo especial está circunscrita à moldura fática descrita no acórdão recorrido, do qual se evidencia "claramente que, em nenhum momento, houve ressalva a eventual pagamento de valor incontroverso. O comando da sentença liquidanda não abre brechas à interpretação feita pelo tribunal de origem e mantida pela r. decisão agravada! A questão, repita-se, não é interpretativa, mas de literal violação aos parâmetros fixados na coisa julgada". Afinal, "a CEF efetuou o pagamento do valor que julgava incontroverso e não do valor efetivo a ser restituído" (e-STJ, fl. 396).
+Impugnação apresentada às fls. 402-404 (e-STJ).
+Brevemente relatado, decido.
+Deveras, confrontando os elementos fático-probatórios delineados no acórdão recorrido com a tese recursal delineada nas razões do recurso especial acerca da violação à coisa julgada decorrente da interpretação conferida ao título executivo judicial pelas instâncias ordinárias, verifica-se a prescindibilidade do reexame do conjunto fático-probatório do feito, afigurando-se necessária tão somente a sua revaloração, a afastar a incidência da Súmula 7 do STJ.
+Assim, pela relevância da matéria, afigura-se pertinente a sua submissão à apreciação do Órgão Colegiado.
+Ante o exposto, em juízo de retratação, reconsidero a decisão agravada de fls. 380-389 (e-STJ), com fundamento no art. 259, § 6º, do RISTJ, tornando-a sem efeito, com destaque para a necessidade de submissão do recurso especial, oportunamente, à deliberação pela Terceira Turma deste Tribunal.
+Publique-se.
+Após, retornem-se conclusos os autos.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. DISCUSSÃO ACERCA DOS CRITÉRIOS DE CÁLCULO FIXADOS NA SENTENÇA EXEQUENDA. INTERPRETAÇÃO DO TÍTULO EXECUTIVO JUDICIAL. ALEGAÇÃO DE VIOLAÇÃO À COISA JULGADA. SÚMULA 7 DO STJ. NÃO INCIDÊNCIA. NECESSIDADE DE MELHOR EXAME DA MATÉRIA PELO COLEGIADO. AGRAVO INTERNO PROVIDO PARA TORNAR SEM EFEITO A DECISÃO AGRAVADA, EM JUÍZO DE RETRATAÇÃO.
