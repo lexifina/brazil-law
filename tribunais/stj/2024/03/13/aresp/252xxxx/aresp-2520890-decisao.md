@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ANA LIDIA FRANGA (ANA) contra decisão que não admitiu seu apelo nobre.
+Não foi apresentada contraminuta (e-STJ, fl. 5556).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, ANA alegou a violação do art. 503 do CPC, ao sustentar que o acórdão recorrido violou a coisa julgada ao permitir a inclusão das cotas condominiais que se venceram após a prolação da sentença.
+(1) Da violação à coisa julgada
+Nas razões do presente recurso, ANA apontou a ofensa ao art. 503 do CPC, defendendo ser indevida a inclusão das cotas condominiais que se venceram após a prolação da sentença.
+Acrescenta que houve violação à coisa julgada, haja vista que a sentença exequenda "limitou a inclusão das parcelas vencidas no curso da ação até a data da sentença" (e-STJ, fls. 516).
+Sobre o tema, o Tribunal de origem consignou que não viola a coisa julgada a inclusão das despesas condominiais devidas até a data da quitação do débito, consoante transcrição a seguir:
+Ao que se colhe dos autos, o Condomínio exequente, na condição de credor, requereu a inclusão das cotas condominiais vincendas no cálculo do débito exequendo, considerando tratar-se de obrigação de trato sucessivo. Ante o indeferimento do pedido, o Condomínio exequente interpôs este Agravo de Instrumento, que foi provido por unanimidade para determinar a inclusão das cotas condominiais vincendas(fls. 381/387).
+Isso porque, de acordo com a r. sentença exequenda, a executada, ora agravada, foi condenada ao pagamento das cotas condominiais vencidas no curso da Ação de Cobrança (fls. 156/160 e 169/170).
+Demais, não merece acolhida a arguição da executada, ora agravada, de que são exigíveis apenas as cotas condominiais vencidas até a data da r. sentença, bem ainda de que a Jurisprudência deste E. Tribunal de Justiça é no sentido de que a inclusão das parcelas vincendas implicaria violação à coisa julgada material.
+ ..
+Tem-se, pois, que pela sistemática do Código de Processo Civil é admissível a inclusão dos rateios mensais vencidos no cursodo feito até a data da efetiva quitação do débito, de forma voluntária ouforçada, visando à extinção do processo (v. artigo 929 do Código de Processo Civil).
+Assim, embora a alegação da executada, o entendimento adotado por este E. Tribunal de Justiça é no sentido de que não há violação à coisa julgada material, decorrente da inclusão das parcelas vincendas e não adimplidas, mesmo porque não seria razoável submeter o Condomínio exequente a novo ajuizamento para cobrança das prestações que se venceram ao longo da demanda. (e-STJ, fls. 499-500)
+Todavia, esta Corte Superior possui jurisprudência consolidada de que, embora o art. 323 do CPC permita a inclusão, na sentença condenatória, de parcelas vencidas até a data da efetiva quitação da dívida, tal providência é vedada se o título executivo estabelecer um marco final diferente.
+Confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL E CÍVEL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE QUOTAS E ENCARGOS CONDOMINIAIS. PRELIMINARES. VIOLAÇÃO DE SÚMULA. DESCABIMENTO. CITAÇÃO PESSOAL. REGRA GERAL. CITAÇÃO EDITALÍCIA. EXCEPCIONALIDADE. PREVISÃO DO ART. 256, §3º, DO CPC/15. NECESSIDADE DE ESGOTAMENTO DAS DILIGÊNCIAS PARA A BUSCA DO DEMANDADO. TRIBUNAL DE ORIGEM QUE CONSIGNOU A VALIDADE DA CITAÇÃO POR EDITAL ANTE INÚMERAS TENTATIVAS FRUSTRADAS DE SUA LOCALIZAÇÃO. PESQUISAS REALIZADAS JUNTO A ÓRGÃOS PÚBLICOS, CONCESSIONÁRIAS DE SERVIÇO PÚBLICO E CADASTROS DE RESTRIÇÃO DE CRÉDITO. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. MÉRITO. TÍTULO EXECUTIVO EXTRAJUDICIAL. ART. 784, X, DO CPC/15. HIPÓTESE DOS AUTOS. AUSÊNCIA DE CERTEZA, LIQUIDEZ E EXIGIBILIDADE DA OBRIGAÇÃO. CONVERSÃO EM AÇÃO DE CONHECIMENTO. TÍTULO JUDICIAL. ART. 785 DO CPC/15. CONDENAÇÃO JUDICIAL. PARCELAS VINCENDAS. INCLUSÃO. DATA LIMITE. EFETIVO PAGAMENTO. POSSIBILIDADE. PRECEDENTES. PRINCÍPIOS DA EFETIVIDADE E DA ECONOMIA PROCESSUAIS. EXCEÇÃO. CUMPRIMENTO DE SENTENÇA QUE FIXA TERMO DIVERSO. IMPOSSIBILIDADE DE ALTERAR. OFENSA À COISA JULGADA. HARMONIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA DESTA CORTE.
+1. Execução de título extrajudicial, ajuizada em 26/4/2019, convertida em ação de cobrança de  ..
+10. De acordo com os precedentes desta Corte, é possível a condenação das parcelas vincendas das quotas e encargos condominiais até o efetivo pagamento, desde que apresentem a mesma natureza, sejam homogêneas, contínuas e originárias do mesmo título.
+11. Todavia, na hipótese de o Tribunal de origem, diante das peculiaridades da situação em concreto, estabelece marco diferenciado no título executivo judicial, ocorrendo o trânsito em julgado da decisão, esse não poderá ser modificado em cumprimento de sentença, sob pena de violação das normas processuais referentes à coisa julgada e à segurança jurídica.
+12. Não obstante o art. 323 do CPC/15 (art. 290 do CPC/73) admita a inclusão, na sentença condenatória, de parcelas vincendas no curso da demanda até o efetivo pagamento, esta providência é vedada em cumprimento de sentença quando o título executivo judicial estabelece marco final diverso, sob pena de ofensa à coisa julgada.
+13. Hipótese em que o acórdão estadual consignou a validade da citação editalícia, ante o esgotamento das diligências necessárias à localização do recorrente, e condenou-o ao pagamento de quotas condominiais vencidas e vincendas até a data do efetivo pagamento.
+Necessidade de manutenção da decisão.
+14. Recurso especial parcialmente conhecido e, nessa extensão, desprovido.
+(REsp n. 2.026.482/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 7/3/2023, DJe de 10/3/2023 - sem grifos no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. CUMPRIMENTO DE SENTENÇA. PRETENSÃO DE VER INCLUÍDAS AS PARCELAS VENCIDAS E VINCENDAS. IMPOSSIBILIDADE, SOB PENA DE OFENSA À COISA JULGADA. PRECEDENTES DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Pacífico o entendimento sedimentado na jurisprudência deste Sodalício, no sentido de que, não obstante o art. 290 do CPC/1973 (art. 323 do CPC/2015) admita a inclusão na sentença condenatória, de parcelas vincendas no curso da demanda, esta providência é vedada em sede de cumprimento de sentença, sob pena de ofensa à coisa julgada. Precedentes.
+2. O dissídio jurisprudencial invocado não guarda a devida similitude com a hipótese retratada nestes autos. Isso porque os julgados trazidos à colação, a inclusão de parcelas que venceram após o ajuizamento da ação na condenação se deu, não em sede de cumprimento de sentença, mas em ação de conhecimento, não configurando ofensa à coisa julgada.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.476.505/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 24/9/2019, DJe de 30/9/2019)
+No caso, a Corte de origem expressamente destacou que "de acordo com a r. sentença exequenda, a executada, ora agravada, foi condenada ao pagamento das cotas condominiais vencidas no curso da Ação de Cobrança" (e-STJ, fl. 499). Assim, não pode ser objeto de execução as prestações vencidas após a data da prolação da sentença, sob pena de ofensa à coisa julgada.
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em dissonância com o entendimento firmado nesta Corte, deve ser ele alterado.
+Nessas condições, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial para afastar a execução das pr estações vencidas após a prolação da sentença.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. COTAS CONDOMINIAIS. CUMPRIMENTO DE SENTENÇA. INCLUSÃO DE PARCELAS VENCIDAS APÓS A PROLAÇÃO DA SENTENÇA. IMPOSSIBILIDADE. DECISÃO JUDICIAL QUE FIXA TERMO DIVERSO. OFENSA À COISA JULGADA. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
