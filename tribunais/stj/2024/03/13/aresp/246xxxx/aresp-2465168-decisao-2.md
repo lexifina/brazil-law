@@ -1,0 +1,21 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por I V DE O S (MENOR) (primeira agravante) , contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: de obrigação de fazer, ajuizada por I V DE O S, em face de UNIMED FORTALEZA SOCIEDADE COOPERATIVA MÉDICA LTDA, na qual requer o custeio de tratamentos fisioterápicos com equipe multidisciplinar e equipamentos necessários ao tratamento da beneficiária portadora de microcefalia com atraso no desenvolvimento motor e hipertonia espática.
+Acórdão: negou provimento à apelação interposta por I V DE O S, e deu parcial provimento à apelação interposta por UNIMED, para afastar o custeio de cadeira de rodas adaptada; Parapódium; cadeira de banho adaptada; andador; cadeira de transporte automotivo; talas extensoras para membros superiores e inferiores; órteses para membros superiores e inferiores e roupa compressiva Flexcorp, nos termos da seguinte ementa:
+CIVIL, PROCESSUAL CIVIL E CONSUMIDOR. EMENTAAPELAÇÃO CÍVEL. AÇÃO ORDINÁRIA COM PEDIDO LIMINAR. PLANO DE SAÚDE. DE OFENSA AO PRINCÍPIO PRELIMINARDA DIALETICIDADE. IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO RECORRIDA. REJEIÇÃO. ALEGAÇÃO DE FALTA DE INTERESSE DE AGIR DIANTE DA COMPRA PELA USUÁRIA DOS EQUIPAMENTOS REQUERIDOS. REJEIÇÃO. OBRIGAÇÃO EXISTENTE INDEPENDENTE DEQUAISQUER CIRCUNSTÂNCIAS. PACIENTE MÉRITO. PORTADORA DE MICROCEFALIA COM ATRASO NODESENVOLVIMENTO MOTOR E HIPERTONIA ESPÁTICA. INDICAÇÃO DE TRATAMENTO COM EQUIPE MULTIDISCIPLINAR. EXTENSO ROL DE TERAPIAS. PLANO DESAÚDE. NEGATIVA. ALEGAÇÃO DE NECESSIDADE DE OBSERVÂNCIA DA RESOLUÇÃO NORMATIVA DA ANS E PORSE TRATAR DE MÉTODO EXPERIMENTAL. REJEIÇÃO. ENTENDIMENTO DO STJ ACERCA DA OBSERVÂNCIA DO ROLDA ANS (ERESP nº 1.886.929/SP). INOVAÇÃO DA LEI N.14.454/2022. PARTICULARIDADES DO CASO QUE JUSTIFICAM ACOBERTURA PARA AS TERAPIAS EXCEPCIONALMENTE INDICADAS, INCLUSIVE A CONTESTADA PEDIASUIT. ÓRTESES E APARELHOS FISIOTERÁPICOS. INTELIGÊNCIA DOART. 10, II E VII, DA LEI N. 9.656/1998. EQUIPAMENTOS FORA DO PLANO DE REFERÊNCIA. LIMITAÇÃO DAS DESPESAS DOS PROCEDIMENTOS. TERAPIAS QUE PODEM SER OFERECIDASNA REDE CREDENCIADA. OBSERVÂNCIA DA SUA TABELA REEMBOLSO/CUSTEIO. PROVIMENTO PARCIAL DO RECURSO DO PLANO DE SAÚDE E DESPROVIMENTO DO RECURSO DA USUÁRIA.
+Decisão de admissibilidade do TJ/RN: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 83/STJ); e,
+ii) incidência da Súmula 7 do STJ.
+Agravo em recurso especial interposto por I V DE O S (primeira agravante): nas razões do presente recurso, a parte agravante aduz que:
+i) houve usurpação de competência do STJ;
+ii) os equipamentos são extensões das terapias e necessários ao habilitação/reabilitação da paciente; e,
+iii) há divergência jurisprudencial entre Tribunais de Justiça de diferentes Estados.
+Parecer do MPF: da lavra do I. Subprocurador-Geral ANTONIO CARLOS ALPINO BIGONHA, opina pelo não provimento do agravo.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguinte óbice: consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 83/STJ).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial interposto por I V DE O S, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
