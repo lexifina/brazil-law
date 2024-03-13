@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento ao recurso especial interposto em face do acórdão assim ementado:
+Direito Civil. Alienação fiduciária. Busca e apreensão. A comprovação da mora é imprescindível à busca e apreensão do bem alienado fiduciariamente (enunciado nº 72 da Súmula de Jurisprudência do STJ). "Para a constituição do devedor em mora nos contratos de alienação fiduciária, é imprescindível a comprovação de encaminhamento de notificação ao endereço constante do contrato, bem como de seu efetivo recebimento" (STJ, AgInt no AREsp nº 1.343.491/MS). Notificação não entregue. Mora não demonstrada. Confirmação da decisão agravada.
+Recurso desprovido.
+A parte agravante sustenta que não há de se falar em falta da comprovação da mora, pois enviou notificação extrajudicial ao endereço do devedor, conforme indicado no contrato.
+A Corte de origem afirmou que a notificação extrajudicial foi dirigida ao endereço indicado no contrato - porém a correspondência não foi efetivamente entregue ao devedor, retornando com a anotação "objeto não entregue - carteiro não atendido".
+A Segunda Seção do STJ, quando do julgamento do Tema Repetitivo n. 1132, firmou o entendimento segundo o qual "em ação de busca e apreensão fundada em contratos garantidos com alienação fiduciária (art. 2º, § 2º, do Decreto-Lei n. 911/1969), para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros". A tese foi firmada quando do julgamento do REsp n. 1.951.662/RS (relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 9/8/2023, DJe de 20/10/2023), que recebeu a seguinte ementa:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. AFETAÇÃO AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA N. 1.132. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA COM GARANTIA. COMPROVAÇÃO DA MORA. NOTIFICAÇÃO EXTRAJUDICIAL COM AVISO DE RECEBIMENTO. PROVA DE REMESSA AO ENDEREÇO CONSTANTE DO CONTRATO. COMPROVANTE DE ENTREGA. EFETIVO RECEBIMENTO. DESNECESSIDADE.
+1. Para fins do art. 1.036 e seguintes do CPC, fixa-se a seguinte tese: Em ação de busca e apreensão fundada em contratos garantidos com alienação fiduciária (art. 2º, § 2º, do Decreto-Lei n. 911/1969), para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros.
+2. Caso concreto:
+Evidenciado, no caso concreto, que a notificação extrajudicial foi enviada ao devedor no endereço constante do contrato, é caso de provimento do apelo para determinar a devolução dos autos à origem a fim de que se processe a ação de busca e apreensão.
+3. Recurso especial provido.
+Assim, o entendimento expresso no acórdão recorrido não pode prevalecer, devendo prosseguir a ação, com nova apreciação do juízo singular de origem sobre o pedido limin ar de busca e apreensão, superado o tema da constituição em mora do devedor.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial, nos termos acima.
+Intimem-se.
+EMENTA
