@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo interno interposto por FRIGORÍFICO UNIBEEF EIRELI (outro nome: SERENO COMÉRCIO DE CARNES EIRELI) e OUTROS contra a decisão que negou provimento ao recurso especial (fls. 673/676, e-STJ).
+Nas presentes razões, os agravantes sustentam que não é o caso de aplicação da Súmula nº 283/STF, visto que ocorreu a perda de objeto no tocante ao bloqueio de bens e
+"(..) a controvérsia recursal passou a cingir somente à necessidade de formação do incidente de desconsideração da personalidade jurídica e impossibilidade de inclusão imediata das empresas agravantes no polo passivo da execução" (fl. 683, e-STJ).
+Devidamente intimada, a parte contrária apresentou impugnação às fls. 689/699 (e-STJ).
+É o relatório.
+DECIDO.
+Considerando as manifestações dos agravantes, faz-se imperiosa a reconsideração da decisão de fls. 673/676 (e-STJ) e passa-se ao exame do recurso especial.
+Trata-se de recurso especial interposto por FRIGORÍFICO UNIBEEF EIRELI e OUTROS com fulcro no art. 105, inciso III, "a", da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado:
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PEDIDO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA FORMULADO NA PETIÇÃO INICIAL. INSTAURAÇÃO DO INCIDENTE DESNECESSÁRIA. TUTELA CAUTELAR DE URGÊNCIA DEFERIDA EM RAZÃO DE INDÍCIOS DE FORMAÇÃO DE GRUPO ECONÔMICO E CONFUSÃO PATRIMONIAL ALIADO AO RISCO AO RESULTADO ÚTIL DA EXECUÇÃO EM CURSO. QUESTÃO PREJUDICADA PELA SUPERVENIENTE SUSPENSÃO DA ORDEM CAUTELAR EM RAZÃO DA PENHORA DO BEM OFERTADO VISANDO A GARANTIA DO JUÍZO.
+1. Segundo o disposto no §2º do artigo 134 do CPC: "Dispensa-se a instauração do incidente se a desconsideração da personalidade jurídica for requerida na petição inicial, hipótese em que será citado o sócio ou a pessoa jurídica".
+2. Não há óbice à concessão da tutela de urgência cautelar, quando demonstrada a probabilidade do direito alegado, no tocante à pretendida desconsideração da personalidade jurídica, em razão de eventual formação de grupo econômico e confusão patrimonial, com o intuito de assegurar resultado útil à execução proposta pelo credor, nos termos dos artigos 300 e 301/CPC. Entretanto, diante da penhora do bem ofertado pelas agravantes, visando a garantia do juízo e superveniente suspensão da ordem cautelar, a questão resta prejudicada. RECURSO CONHECIDO EM PARTE E NÃO PROVIDO" (fl. 573, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 605/607, e-STJ).
+No especial, os recorrentes apontam violação dos arts. 134, § 2º, 135, 136, 829 e 1.022, II, do Código de Processo Civil, argumentando, em síntese, a necessidade de prévia instauração do incidente de desconsideração da personalidade jurídica para a constrição de seus bens e patrimônio, ainda que haja pedido de redirecionamento da execução na petição inicial.
+Aduzem que não é possível a inclusão imediata dos recorrentes, devendo aguardar a resolução do incidente, pois "o procedimento executivo, em sua forma pura, não tem sentença para resolver sobre a responsabilidade nova (a do sócio ou da pessoa jurídica não devedores originalmente) e, sem tal decisão, faltará título executivo" (fl. 627, e-STJ).
+Apresentadas contrarrazões às fls. 640/651 (e-STJ).
+A irresignação merece prosperar.
+Cuida-se, na origem, de agravo de instrumento interposto contra a decisão proferida em execução de título extrajudicial que entendeu desnecessária a formação do incidente de desconsideração da personalidade jurídica e determinou a inclusão das empresas integrantes de mesmo grupo econômico no polo passivo.
+O Tribunal de origem dirimiu a demanda nos seguintes termos:
+"(..)
+Cinge-se a controvérsia recursal à necessidade de formação do incidente de desconsideração da personalidade jurídica e impossibilidade de inclusão imediata das empresas agravantes no polo passivo da execução, bem como ao preenchimento dos requisitos da tutela de urgência cautelar em relação a elas (bloqueio pelo sistema CNIB, inscrição no SERASAJUD, arresto on line - caso não localizados os devedores e expedição de certidão premonitória).
+Segundo o disposto no § 2º do artigo 134 do CPC: "Dispensa-se a instauração do incidente se a desconsideração da personalidade jurídica for requerida na petição inicial, hipótese em que será citado o sócio ou a pessoa jurídica".
+(..)
+Assim, contrariamente ao alegado, inexiste óbice à inclusão imediata das empresas agravantes no polo passivo da execução, as quais inclusive, já opuseram embargos (nº. 0002812-74.2020.8.16.0072), com pedido de efeito suspensivo, já concedido, de modo que respeitado o amplo exercício do direito de defesa" (fls. 574/575, e-STJ).
+No julgamento dos aclaratórios, a Corte local ressaltou que:
+"(..)
+No tocante à desnecessidade de instauração do incidente, mesmo em se tratando de demanda executiva e ausência de irregularidade na imediata inclusão dos agravantes no polo passivo da execução, assim constou no Acórdão embargado (mov. 74.1/TJ):
+"Segundo o disposto no §2º do artigo 134 do CPC:
+"Dispensa-se a instauração do incidente se a desconsideração da personalidade jurídica for requerida na petição inicial, hipótese em que será citado o sócio ou a pessoa jurídica".
+Assim, tendo em vista que o pedido de desconsideração da personalidade jurídica e citação das empresas supostamente integrantes do mesmo grupo econômico, foi especificamente formulado na petição inicial, não se faz necessária a instauração do incidente em separado, mesmo em se tratando de demanda executiva, devendo o pedido ser processado e julgado na própria execução, razão pela qual não há qualquer irregularidade na imediata inclusão das agravantes no polo passivo e respectiva citação para apresentação de defesa."
+Ainda, destacou-se (mov. 74.1/TJ):
+"Assim, contrariamente ao alegado, inexiste óbice à inclusão imediata das empresas agravantes no polo passivo da execução, as quais inclusive, já opuseram embargos (nº. 0002812-74.2020.8.16.0072), com pedido de efeito suspensivo, já concedido, de modo que respeitado o amplo exercício do direito de defesa."
+E, contrariamente ao alegado, não se verifica qualquer vício no Acórdão embargado, no tocante à dispensa de instauração do incidente, nos termos do § 2º do art. 134 do CPC, tendo em vista que o pedido foi formulado na petição inicial, não havendo óbice a sua aplicação em se tratando de demanda executiva, tampouco em relação à ausência de irregularidade na inclusão imediata dos agravantes no polo passivo, o que inclusive possibilitou o amplo exercício do direito de defesa, tanto que obtiveram êxito na suspensão da execução e, portanto, da ordem inicial para pagamento do débito, em relação a eles" (fl. 606, e-STJ - grifou-se).
+De início, no tocante à violação do art. 1.022, II, do Código de Processo Civil, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em existência de omissão ou de deficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A respeito do mérito, esta Corte Superior firmou entendimento no sentido de que é necessária a prévia instauração do incidente de desconsideração da personalidade jurídica para que empresas integrantes do mesmo grupo econômico da executada sejam incluídas no polo passivo da demanda.
+A propósito:
+"PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. INCLUSÃO DE TERCEIRO NO POLO PASSIVO. GRUPO ECONÔMICO. PESSOA JURÍDICA EXECUTADA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. INCIDENTE PROCESSUAL. INSTAURAÇÃO. NECESSIDADE. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. "Para que uma empresa, pertencente ao mesmo grupo econômico da executada, sofra constrição patrimonial, é necessária prévia instauração do incidente de desconsideração da personalidade jurídica, não sendo suficiente mero redirecionamento do cumprimento de sentença contra quem não integrou a lide na fase de conhecimento, nos termos dos arts. 28, § 2º, do CDC e 133 a 137 do CPC/2015" (REsp 1.864.620/SP, Relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 12/9/2023, DJe de 19/9/2023).
+2. Agravo interno a que se dá parcial provimento, para reconhecer a nulidade da decisão que determinou a inclusão da agravante no polo passivo do cumprimento de sentença sem a prévia instauração do incidente de desconsideração da personalidade jurídica."
+(AgInt no AREsp 1.579.373/PR, Relator Ministro Raul Araújo, Quarta Turma, julgado em 30/10/2023, DJe de 9/11/2023).
+"PROCESSO CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PENHORA. PATRIMÔNIO. TERCEIRO. GRUPO ECONÔMICO. PESSOA JURÍDICA EXECUTADA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. INCIDENTE PROCESSUAL. INSTAURAÇÃO. NECESSIDADE. RECURSO PROVIDO.
+1. Para que uma empresa, pertencente ao mesmo grupo econômico da executada, sofra constrição patrimonial, é necessária prévia instauração do incidente de desconsideração da personalidade jurídica, não sendo suficiente mero redirecionamento do cumprimento de sentença contra quem não integrou a lide na fase de conhecimento, nos termos dos arts. 28, § 2º, do CDC e 133 a 137 do CPC/2015.
+2. Recurso especial provido para julgar procedentes os embargos de terceiro, a fim de decretar a nulidade da penhora sobre o patrimônio da recorrente."
+(REsp 1.864.620/SP, Relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 12/9/2023, DJe de 19/9/2023).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS. NECESSIDADE DE COMPROVAÇÃO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA. DECISÃO UNIPESSOAL. IMPOSSIBILIDADE. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF.
+1. Consoante a jurisprudência desta Corte, é necessária a demonstração dos elementos caracterizadores do abuso da personalidade jurídica para a decretação desconsideração da personalidade jurídica da empresa, os quais não se presumem pela existência de grupo econômico.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. Decisão unipessoal não é adequada para comprovação da divergência jurisprudencial.
+5. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente.
+6. Agravo interno no agravo em recurso especial não provido."
+(AgInt nos EDcl no REsp 1.875.130/RS, Relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 11/5/2021, DJe de 14/5/2021 - grifou-se).
+Ante o exposto, reconsiderando a decisão de fls. 673/676 (e-STJ), conheço do agravo para dar provimento ao recurso especial para reconhecer a nulidade da decisão que determinou a inclusão dos agravantes no polo passivo da demanda executiva sem a prévia instauração do incidente de desconsideração da personalidade jurídica.
+Publique-se.
+Intimem-se.
+EMENTA
