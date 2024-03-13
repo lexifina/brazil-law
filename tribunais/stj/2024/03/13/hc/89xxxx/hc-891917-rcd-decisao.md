@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de pedido de Reconsideração apresentado pela defesa de JOAO PAULO GOMES MACHADO (e-STJ fls. 87/96), contra decisão de minha lavra (e-STJ fls. 76/81) que concedeu a ordem de ofício, para determinar que o Tribunal a quo apreciasse a existência de eventual constrangimento ilegal perpetrado em desfavor do paciente.
+Junta aos autos despacho do Juízo da Unidade Regional de Departamento Estadual de Execução Criminal DEECRIM 1ª RAJ, Comarca de São Paulo, Processo Digital n. 0000384-34.2023.8.26.0041, em atenção ao comando dado por esta Corte no Habeas Corpus n. 891917, na qual determinou "encaminhe-se cópia para o setor responsável pelo processamento do referido HC" (e-STJ fl. 93) .
+Argumenta que Apesar da clareza da aula dada no referido Acórdão, que ao ver deste defensor foi muito bem fundamentado, contudo, a autoridade coatora NÃO DEU CUMPRIMENTO À VOSSA DECISÃO, antes, encaminhou em ofício o despacho ao juízo da execução, onde a magistrada manteve sua decisão de indeferimento ao regime semiaberto, dando força à sua decisão teratológica (e-STJ fl. 87).
+Alega que foi realizado o exame criminológico e enviado ao processo pela direção da unidade prisional o "Laudo Psicológico e parecer positivo do setor de segurança e disciplina, ambos favoráveis, tendo, inclusive o MP opinado pelo deferimento do regime semiaberto (e-STJ fl. 90).
+Requer que RECONSIDERE sua decisão de fls. 76 -81, para declarar a decisão da autoridade coatora teratológica e CONCEDER A LIMINAR REQUERIDA, tudo em razão do princípio da fungibilidade, e no mérito confirme a liminar, pois o descaso no caso em concreto está mais que evidente. (e-STJ fl. 91).
+É o relatório. Passo a decidir.
+O pedido não autoriza conhecimento.
+A uma, porque não foi interposto, tempestivamente recurso contra a decisão de minha lavra que concedeu a ordem de ofício, para determinar o retorno dos autos ao Tribunal de Justiça para reanálise do pedido da defesa. Veja-se que minha decisão foi publicada no DJe de 29/02/2024 e que o presente pedido de reconsideração somente foi protocolado em 06.03.2024. Nítido, portanto, que a decisão por mim proferida nestes autos transitou em julgado para a defesa.
+A duas, porque não houve prévia deliberação do Tribunal de Justiça sobre o mérito da controvérsia posta nestes autos, e xame esse que será levado a cabo quando da apreciação do Habeas Corpus 2004094-20.2024.8.26.0000, impetrado pela defesa. Assim sendo, inviável a manifestação desta Corte sobre o mérito da controvérsia, sob pena de indevida supressão de instância.
+Ante o exposto, não conheço do pedido de reconsideração.
+Intimem-se.
+EMENTA
