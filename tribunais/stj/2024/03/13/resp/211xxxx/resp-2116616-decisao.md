@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por MAURICIO DE MORAES JUNIOR, com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Apelação. Art. 33, § 3º, da Lei 11.343/06. Sentença condenatória. Recurso defensivo visando a diminuição da pena e estabelecimento do regime aberto. Provas francamente incriminadoras. Palavra dos policiais. Meio de prova idôneo. Precedentes. Materialidade e autoria evidenciadas. Circunstâncias judiciais desfavoráveis consideradas. Reincidência e confissão espontânea compensadas. Dosimetria reajustada para exasperar a pena-base em 1/6. Pena fixada em 7 meses de detenção e 816 dias-multa. Regime semiaberto adequado. Recurso parcialmente provido.
+Nas razões do recurso especial, alega a parte recorrente violação dos artigos 33, § 2º, 44 e 59 do Código Penal.
+Pugna, em síntese, pela fixação de regime prisional mais brando para o início do cumprimento da reprimenda, sob o argumento de que a reincidência não constitui fundamentação suficiente e idônea para justificar o regime prisional recrudescido (semiaberto, no caso), assim como para a negativa de substituição da sanção corporal por restritiva de direitos.
+Apresentadas contrarrazões (e-STJ fls. 501/512), o recurso foi admitido pelo Tribunal de origem (e-STJ fls. 515).
+O Ministério Público Federal, instado a se manifestar nesta instância, opinou pelo não conhecimento do recurso (e-STJ fls. 524/530).
+É o relatório. Decido.
+A jurisprudência desta Corte firmou-se no sentido de que é imprescindível, para a fixação de regime inicial de cumprimento de pena mais gravoso, a apresentação de motivação concreta, fundada na reincidência, nas circunstâncias judiciais previstas no art. 59, do Código Penal, ou na gravidade concreta do delito, evidenciada esta última pelo modus operandi que desborde dos elementos normais do tipo penal violado. Precedentes: HC n. 325.756/SP, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 28/6/2016, DJe 1º/8/2016; HC n. 312.264/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 24/5/2016, DJe 31/5/2016; HC n. 344.395/SP, Relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 8/3/2016, DJe 15/3/2016.
+Nesse contexto, os enunciados das Súmulas ns. 718 e 719 do Supremo Tribunal Federal indicam, respectivamente:
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Na espécie, em que pese a reprimenda corporal definitiva tenha sido fixada em 7 meses de detenção, a existência de circunstância judicial negativa, a reincidência do réu justificam a aplicação do regime prisional mais gravoso, no caso, o semiaberto. Pelas mesmas razões inviável a substituição da pena privativa de liberdade por restritiva de direitos.
+A respeito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. REGIME SEMIABERTO. CIRCUNSTÂNCIAS DESFAVORÁVEIS. AGRAVO REGIMENTAL DESPROVIDO.
+1. Quanto ao regime prisional, de acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". De igual modo, as Súmulas 718 e 719/STF, prelecionam, respectivamente, que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+2. Na hipótese, malgrado a paciente tenha sido condenada à pena inferior a 4 anos de detenção, é reincidente e tem como desfavoráveis as circunstâncias judiciais previstas no art. 59 do Código Penal e, por isso, a pena-base foi fixada acima do mínimo legal. Portanto, correta a fixação de regime semiaberto para cumprimento de pena, nos termos do art. 33 3. Agravo regimental desprovido.
+(AgRg no HC n. 852.343/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/11/2023, DJe de 1/12/2023).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LESÃO CORPORAL. EMBRIAGUEZ AO VOLANTE. RÉU PRIMÁRIO. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. PENA IGUAL OU INFERIOR A 4 ANOS. REGIME INICIAL SEMIABERTO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É cabível a imposição do regime inicial semiaberto aos condenados a pena igual ou inferior a quatro anos, que sejam primários, mas com circunstâncias judiciais desfavoráveis.
+2. Na espécie, deve ser mantido o modo intermediário de cumprimento de pena para o agravante, primário e condenado a 10 meses e 10 dias de detenção, em virtude dos maus antecedentes.
+3. Agravo regimental não provido.
+(AgRg no HC n. 848.045/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/11/2023, DJe de 1/12/2023).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. CRIME PREVISTO NO ART. 309 DO CÓDIGO DE TRÂNSITO BRASILEIRO. REGIME CARCERÁRIO INICIAL SEMIABERTO. LEGALIDADE. MAUS ANTECEDENTES E REINCIDÊNCIA. SUBSTITUIÇÃO DA PENA RECLUSIVA POR PENAS RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. AUSÊNCIA DO REQUISITO SUBJETIVO CONTIDO NO ART. 44, INCISO III, DO CÓDIGO PENAL. ORDEM DE HABEAS CORPUS DENEGADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. De acordo com a literalidade do art. 33, § § 2.º e 3.º, do Código Penal, é adequada a fixação do regime carcerário inicial semiaberto ao Réu reincidente, que ostenta maus antecedentes e foi condenado à pena de oito meses e cinco dias de detenção.
+2. A negativa de substituição da pena privativa de liberdade por penas restritivas de direito foi suficientemente motivada pelas instâncias ordinárias, porquanto, além de ser reincidente, foi reconhecida circunstância judicial desfavorável (maus antecedentes), de modo que o requisito subjetivo contido no art. 44, inciso III, do Código Penal, não foi preenchido.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 746.805/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 28/6/2022, DJe de 1/7/2022).
+Incide, portanto, a Súmula n. 568 do STJ, segundo a qual O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante.
+Ante o exposto, nego provimento a o recurso especial.
+Intimem-se.
+EMENTA
