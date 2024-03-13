@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto contra acórdão cuja ementa teve o seguinte teor (fl. 79):
+EMENTA: HABEAS CORPUS - HOMICÍDIO QUALIFICADO TENTADO - PRISÃO PREVENTIVA - REVOGAÇÃO - IMPOSSIBILIDADE - DESCUMPRIMENTO DAS OBRIGAÇÕES ÀS QUAIS A LIBERDADE PROVISÓRIA ESTAVA CONDICIONADA -SUPOSTA FUGA DO DISTRITO DA CULPA E PRÁTICA DE NOVO CRIME -PRESENÇA DOS REQUISITOS DOS ARTS. 312 E 313 DO CPP DEMONSTRADA -ORDEM DENEGADA.
+- O Código de Processo Penal autoriza expressamente a decretação da prisão preventiva do indivíduo que deixa de cumprir as obrigações impostas como condição à liberdade provisória, sendo certo que não se poderia admitir que o beneficiado não sofresse qualquer tipo de sanção pela inobservância às determinações judiciais. Precedentes do STJ.
+- A fuga do acusado do distrito da culpa constitui fundamento suficiente para autorizar a decretação de sua prisão preventiva, como forma de garantir a aplicação da lei penal e para a conveniência da instrução criminal.
+- Comprovada a autuação do paciente pela suposta prática de novo crime enquanto ele gozava de liberdade provisória concedida no curso de ação penal, correta a decretação da prisão preventiva, devidamente fundamentada nos requisitos dos artigos 312 e 313 do CPP.
+Consta dos autos que o recorrente teve sua prisão preventiva decretada em 21/1/2020, sendo posteriormente revogada, em 26/3/2020, com a imposição de medidas cautelares diversas da prisão: a) Manter endereço atualizado perante este juízo, e comparecer a todos os atos processuais para os quais for convocado; b) Não se envolver em outros fatos delituosos; c) Proibição de se ausentar de sua Comarca por mais de três dias consecutivos sem autorização.
+Todavia, a prisão preventiva do recorrente foi novamente decretada, em 31/1/2024, após o juízo de primeiro grau constatar o descumprimento das medidas cautelares às quais estava sua liberdade condicionada, além de praticar, em tese, novo fato definido como crime (fls. 8/10).
+Impetrado writ perante a Corte de origem, a ordem foi denegada, conforme ementa acima transcrita.
+Neste recurso, a defesa alega, em síntese, constrangimento ilegal em razão da ausência de fundamentação idônea da decisão que decretou novamente a prisão preventiva do recorrente.
+Sustenta que "o réu não se esquivou da justiça, conforme mencionado pelo nobre magistrado de origem, comarca de Campestre/MG. Uma vez que, justificado sua ausência do domicilio, deixou o magistrado de apreciar a petição de justificativa, deixou de se atentar que o endereço onde o réu se encontrava estava demonstrado na petição, e além disso, deixou de expedir a carta precatória para Fortaleza" (fl. 99).
+Aduz que "o recorrente se encontrava em liberdade desde março de 2020, não se esquivando de nenhum ato processual, uma vez que o processo nesse momento se encontra remetido para o TJMG devido a interposição de Recurso em Sentido Estrito pela então defesa de Cássio à época do protocolo" (fl.101).
+Requer o provimento recursal, liminarmente e no mérito, para que seja revogada a prisão preventiva, ainda que mediante a aplicação de medidas cautelares alternativas, como o uso de monitoramento eletrônico.
+Em consulta ao sistema de dados desta Corte, verificou-se a anterior impetração do HC n. 894.209/MG, em favor do ora recorrente, contra o mesmo acórdão e por meio do qual a defesa formulou pedido de revogação da prisão preventiva, assim como neste recurso. Tendo em vista, pois, que o presente recurso em habeas corpus se trata de mera reiteração de pedidos, não se pode dele conhecer.
+Esclareço, por oportuno, que o conexo writ está em estágio processual mais avançado, encontrando-se atualmente na pendência de julgamento de agravo regimental.
+Ante o exposto, não conheço do recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
