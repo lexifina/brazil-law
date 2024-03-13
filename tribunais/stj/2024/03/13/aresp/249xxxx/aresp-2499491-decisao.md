@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por SIMONE BORGES MARTINS COELHO RESTAURANTE LTDA. contra a decisão da Presidência do Tribunal de Justiça do Distrito Federal e dos Territórios que não admitiu o recurso especial manejado, haja vista a incidência da Súmula n. 281 do STF (e-STJ, fls. 203-204).
+Em suas razões, a agravante alega, em suma, que os requisitos necessários à interposição do recurso especial foram preenchidos, uma vez que "a decisão que o negou foi dada por um Desembargador de uma das Turmas do Tribunal de Justiça do Distrito Federal, exaurindo- se, assim, as instâncias necessárias para a interposição de tal remédio processual" (e-STJ, fl. 219); bem como que a decisão de última instância não precisa ser do pleno do Tribunal de origem.
+Contraminuta não apresentada (e-STJ, fl. 225).
+Brevemente relatado, decido.
+No caso em estudo, o Tribunal de origem não admitiu o recurso especial, entendendo pela sua inadmissibilidade, haja vista a ausência de exaurimento da instância ordinária, de acordo com as seguintes justificativas (e-STJ, fl. 203):
+O recurso especial não merece prosseguir quanto à suposta ofensa aos artigos 244 e 579, ambos do Código de Processo Civil, porquanto não há nos autos decisão de única ou última instância, consoante exige o artigo 105, inciso III, da Constituição Federal. Sem a interposição de novo recurso e seu julgamento por órgão colegiado deste Tribunal de Justiça, não se pode falar em exaurimento de instância, nos termos do enunciado 281 da Súmula do STF (AgInt no AREsp 2178330/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, DJe 28/4/2023).
+Com efeito, depreende-se dos autos que, na Corte de origem, o Desembargador, em decisão monocrática, não conheceu do recurso de apelação apresentado (e-STJ, fls. 179-181).
+Dessa forma, verifica-se que o recurso especial foi interposto com o escopo de reformar a decisão monocrática contra a qual caberia agravo interno na origem, não tendo, por conseguinte, sido exaurida a instância ordinária.
+A jurisprudência desta Corte Superior é assente no sentido da necessidade de exaurimento das vias recursais perante as instâncias ordinárias para interposição do recurso especial. Incidência da Súmula n. 281/STF.
+Nesse sentido (sem destaques nos originais):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. PREPARO. IRREGULARIDADE. INDICAÇÃO DO NÚMERO DO PROCESSO NA GUIA. INEXISTÊNCIA. DESERÇÃO. EXAURIMENTO DE INSTÂNCIA. IMPRESCINDIBILIDADE. SÚMULA Nº 281 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. É imprescindível o correto preenchimento da Guia de Recolhimento da União, com a devida indicação do número do processo, sob pena de deserção, de modo que, caso intimado o recorrente para sanar o vício e não providencie este a referida regularização, o recurso não merece conhecimento.
+2. Não se conhece do recurso especial interposto em face de decisão monocrática, porquanto inexistente o exaurimento obrigatório das instâncias ordinárias (Súmula n.º 281 do STF, por analogia).
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.103.365/MA, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 2/10/2023, DJe de 4/10/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA ORDINÁRIA. APLICAÇÃO DA SÚMULA 281/STF. NECESSIDADE DE INTERPOSIÇÃO DO AGRAVO PREVISTO NO ART. 1.021 DO CPC. AGRAVO INTERNO DESPROVIDO.
+1. Não se pode conhecer do recurso especial interposto contra decisão monocrática, tendo em vista que não houve o necessário esgotamento das instâncias ordinárias. Aplicação, por analogia, da Súmula 281 do STF. Precedentes.
+2. Esta Corte Superior entende que "não se conhece do recurso especial aviado de decisão monocrática, sem a interposição de agravo interno, mesmo com a apreciação de dois embargos declaratórios pelo colegiado" (AgInt no AREsp n. 1.625.858/SP, relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 11/5/2020, DJe de 14/5/2020).
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.980.427/PA, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/12/2022, DJe de 14/12/2022.)
+Por outro lado, "Não é possível a aplicação dos princípios da fungibilidade recursal e da instrumentalidade das formas na hipótese de recurso especial interposto em face de decisão unipessoal. Isso porque, nessa situação, observa-se a ocorrência de erro grosseiro, pois não existe nenhuma dúvida quanto ao cabimento do recurso especial o qual somente é cabível contra acórdão proferido por Tribunal de Justiça ou por Tribunal Regional Federal" (AgInt no AREsp n. 1.983.693/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/2/2022, DJe de 23/2/2022.).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte recorrida em 2% (dois por cento) sobre o valor da condenação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA DE DESPESAS CONDOMINIAIS. RECURSO ESPECIAL INTERPOSTO CONTRA DECISÃO MONOCRÁTICA. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA ORDINÁRIA. INCIDÊNCIA DA SÚMULA N. 281/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
