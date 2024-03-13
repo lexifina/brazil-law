@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto por RONALDO DA SILVA GRILLO, em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa é a seguinte (e-STJ fls. 438):
+APELAÇÃO CRIMINAL FURTO QUALIFICADO AUTORIA E MATERIALIDADE DELITIVA COMPROVADA CONDENAÇÃO MANTIDA - PENA BEM APLICADA RECURSO IMPROVIDO.
+Interpostos embargos de declaração, esses foram rejeitados (e-STJ fls. 453/455).
+Nas razões do recurso especial (e-STJ fls. 460/473), fundado nas alíneas "a" e "c" do permissivo constitucional, alega a parte recorrente violação dos artigos 59 e 155, §1º, incisos I e II, do CP e dos artigos 593, inciso III, alínea "b", e 619 do CPP. Sustenta: (i) que o Tribunal a quo foi omisso ao não analisar a tese vinculada ao afastamento da qualificadora do concurso de agentes, uma vez que as pessoas que trabalharam no local não tinham o domínio do fato, isto é, não sabiam que o acusado tinha a intenção de praticar o crime de furto, tanto é que sequer foram denunciadas; (ii) afastamento da qualificadora do concurso de agentes; (iii) a redução da pena-base, tendo em vista a ausência de fundamentação idônea, no tocante à negativação da culpabilidade e das circunstâncias do crime; (iv) a fixação do regime aberto; (v) com o reconhecimento do furto simples, a possibilidade da suspensão condicional do processo.
+Apresentadas contrarrazões (e-STJ fls. 496/506), o Tribunal a quo não admitiu o recurso especial (e-STJ fls. 509/510), tendo sido interposto o presente agravo. O Ministério Público Federal, instado a se manifestar, opinou pelo não provimento do agravo (e-STJ fls. 538/540).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso merece acolhida.
+Colhe-se dos autos que a defesa opôs embargos de declaração (e-STJ fls. 447/451), suscitando a existência de omissão no referido decisum quanto ao reconhecimento da qualificadora do concurso de pessoas no crime de furto, uma vez que os envolvidos que trabalharam no local para o acusado não tinham o domínio do fato, isto é, não sabiam que o agravante tinha a intenção de praticar o crime de furto, tanto é que sequer foram denunciados.
+Ocorre que, da análise do acórdão recorrido, constata-se que, no caso concreto, o Tribunal de origem, mesmo com a oposição dos embargos de declaração, de fato não se manifestou acerca da referida omissão ventilada pela defesa.
+Desse modo, ao rejeitar os embargos declaratórios (e-STJ fls. 453/455), deixando, contudo, de se pronunciar sobre a questão nele suscitada acerca do afastamento da qualificadora do concurso de pessoas no crime de furto, a Corte a quo acabou por violar o art. 619, do CPP.
+Ante o exposto, com fundamento no artigo 932, inciso VIII, do CPC c/c o artigo 253, parágrafo único, inciso II, alínea "c", parte final, do RISTJ, conheço do agravo para dar provimento ao recurso especial, para determinar o retorno dos autos ao Tribunal de origem, a fim de que proceda a um novo julgamento dos aclaratórios acerca do afastamento da qualificadora do concurso de pessoas no crime de furto.
+Intimem-se.
+EMENTA
