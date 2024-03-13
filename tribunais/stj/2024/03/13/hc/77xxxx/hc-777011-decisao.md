@@ -1,0 +1,82 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de fls. 53-54 (e-STJ).
+"Cuida-se de habeas corpus com pedido de liminar impetrado em favor de WILLIAN RIBEIRO DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n.
+0001428-49.2018.8.26.0628).
+O paciente foi condenado à pena de 5 anos e 10 meses de reclusão em regime fechado, como incurso no art. 33, caput, da Lei nº 11.343/2006.
+Sustenta o impetrante a ocorrência de constrangimento ilegal, ao argumento de que o paciente faz jus à causa especial de diminuição prevista no art. 33, § 4º, da Lei nº 11.343/2006, haja vista a ausência de indícios que demonstrem sua dedicação ao tráfico de drogas ou participação em organização criminosa, além de possuir predicados pessoais favoráveis, não podendo a quantidade, variedade e qualidade dos entorpecentes obstaculizar dito benefício."
+O pedido liminar foi negado pelo Ministro Jorge Mussi (e-STJ fls. 53-54).
+O Ministério Público Federal, por meio de parecer, opinou pela concessão da ordem (e-STJ fls. 102-105), em parecer assim ementado:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO. Ilegalidade do afastamento da minorante do tráfico com base na natureza das drogas apreendidas (204,5g de maconha, 5,5g de cocaína e 9,9g de crack). Ausência de outros elementos concretos aptos a impedir o tráfico privilegiado, até mesmo diante da consideração da quantidade de drogas apreendidas para exasperar a pena-base.
+Proposição de redução da pena em 2/3 (dois terços) e de abrandamento do regime prisional para o modo semiaberto.
+Precedentes do STJ.
+PARECER PELA CONCESSÃO DA ORDEM." (grifos acrescidos)
+Intimada para se manifestar, a defesa notícia que remanesce o interesse no julgamento desta impetração (e-STJ fls.123-127).
+É o relatório.
+Decido.
+A controvérsia posta em julgamento é se a quantidade de droga é elemento suficiente para negar a aplicação da causa de diminuição de pena do §4º do art. 33 da Lei nº 11.343/06.
+Como cediço, a natureza e a quantidade da droga justificam, em tese, a exasperação da pena-base acima no mínimo legal, nos termos do que dispõe o art. 42 da Lei n. 11.343/2006.
+Contudo, in casu, constato que, a despeito da natureza da droga apreendida, a quantidade - 5,7 gramas de cocaína, 9,9 gramas de crack e 204,5 gramas de maconha, para além de não ser expressiva, segundo a orientação desta Corte, não é apta, por si só, a indicar maior desvalor da conduta.
+Pois, não ser ínfima a quantidade de drogas, também não é excessiva a ponto de ser devida a elevação da pena-base além do que já foi estabelecido pelo legislador para o delito de tráfico de drogas. Como mencionado, alguma quantidade de drogas necessariamente deve ser apreendida, e, se sempre que houver a apreensão da droga a pena já for elevada, nunca será aplicado o piso mínimo, porque toda e qualquer droga é muito prejudicial à sociedade. (AgRg no HC n. 681.745/SC, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 30/09/2021).
+De fato, da análise dos excertos acima transcritos, verifica-se que o entendimento adotado pelas instâncias ordinárias está em dissonância com a jurisprudência deste Superior Tribunal, segundo a qual "existe manifesta ilegalidade no tocante à fixação da pena-base acima do mínimo legal, porquanto a quantidade apreendida - 5,07g de maconha, 10,95g de cocaína e 1,79g de crack - não se mostra expressiva o suficiente a ponto de justificar a exasperação da pena na primeira fase da dosimetria" (HC n. 427.177/SP, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 08/03/2018, grifos acrescidos).
+No mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. VIOLAÇÃO DO ART. 619 DO CPP. AUSÊNCIA. DOSIMETRIA. ILEGALIDADE FLAGRANTE. MINORANTE DO TRÁFICO PRIVILEGIADO. DEDICAÇÃO AO CRIME RECONHECIDA COM BASE EM FUNDAMENTAÇÃO INIDÔNEA. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO.
+1. De acordo com o entendimento jurisprudencial remansoso neste Superior Tribunal de Justiça, os julgadores não estão obrigados a responder todas as questões e teses deduzidas em juízo, sendo suficiente que exponham os fundamentos que embasam a decisão" (EDcl no AREsp n. 771.666/RJ, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 2/2/2016).
+2. Na hipótese, o Tribunal de origem se manifestou de forma clara e fundamentada acerca da não ocorrência de violência policial.
+3. A quantidade e a natureza do entorpecente, associadas ao contexto em que se deu a sua apreensão, podem evidenciar a dedicação do agente à atividade criminosa. Contudo, na espécie, a quantidade de droga apreendida - aproximadamente 55,10g de maconha, 0,8 de crack e 12 gramas de cocaína - não se mostra suficiente para se concluir pela dedicação do paciente à atividade criminosa, razão pela qual deve ser aplicada a minorante prevista no art. 33, § 4º, da Lei n.º 11.343/2006.
+4. Agravo regimental improvido. Habeas corpus concedido de ofício, para, reconhecida em favor do agravante a causa de diminuição do tráfico privilegiado, em sua fração máxima de 2/3, fixar a sua pena em 1 ano e 8 meses de reclusão. (AgRg no REsp n. 2.097.557/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/11/2023, DJe de 27/11/2023.) - grifos acrescidos.
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS. DOSIMETRIA. ART. 33, § 4.º, DA LEI N. 11.343/2006. MODULAÇÃO. QUANTIDADE E NATUREZA DAS DROGAS. ANÁLISE CONJUNTA. CIRCUNSTÂNCIAS NORMAIS AO TIPO PENAL. FRAÇÃO MÁXIMA DE REDUÇÃO. POSSIBILIDADE. PENA REDIMENSIONADA. AGRAVO REGIMENTAL INTERPOSTO PELO MINISTÉRIO PÚBLICO FEDERAL DESPROVIDO.
+1. " A  natureza e a quantidade da droga são elementos que integram um vetor judicial único, não sendo possível cindir a sua análise. Somente quando examinadas em conjunto (tipo de droga e quantidade) será possível ao julgador compreender adequadamente a gravidade concreta do fato e proceder à devida individualização da pena, que é o objetivo almejado pelo legislador com as disposições do art. 42 da Lei n. 11.343/06" (AgRg no HC n. 734.699/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 19/12/2022, DJe 22/12/2022).
+2. Hipótese em que, a despeito da natureza mais deletéria de uma das substâncias (cocaína) e da diversidade das drogas, a quantidade dos entorpecentes apreendidos em poder do Acusado não justifica qualquer modulação do redutor previsto no art. 33, § 4.º, da Lei n. 11.343/2006, pois não extrapola aquelas circunstâncias comuns ao delito de tráfico.
+3. Não tendo sido devidamente justificada a modulação da minorante do tráfico privilegiado pelas instâncias ordinárias, a referida benesse deve incidir na dosimetria da pena do Agravado, na fração máxima de 2/3 (dois terços), dada a pequena quantidade de drogas apreendidas e a inexistência de indicação de outras circunstâncias aptas a justificar a fixação de fração diversa.
+4. Agravo regimental desprovido. (AgRg no HC n. 819.367/MS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 16/10/2023, DJe de 19/10/2023.) - grifos acrescidos.
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS (20 KG DE MACONHA). CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. NÃO RECONHECIMENTO PELAS INSTÂNCIAS ORDINÁRIAS. QUANTIDADE DO ENTORPECENTE APREENDIDO. IMPOSSIBILIDADE DE, ISOLADAMENTE CONSIDERADA, TER O CONDÃO DE AFASTAR A MINORANTE. RECONHECIMENTO QUE SE IMPÕE. RETORNO DOS AUTOS PARA ESCOLHA DO PATAMAR DE REDUÇÃO APLICÁVEL AO CASO.
+ .. .
+3. A jurisprudência desta Corte Superior é no sentido de que isoladamente consideradas, a natureza e a quantidade do entorpecente apreendido, por si sós, não são suficientes para embasar conclusão acerca da presença das referidas condições obstativas e, assim, afastar o reconhecimento da minorante do tráfico privilegiado (AgRg no REsp n. 1.687.969/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 26/3/2018) - (AgRg no AREsp n. 1.480.074/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/7/2019).
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 2.071.188/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/12/2023, DJe de 20/12/2023.) - grifos acrescidos
+PENAL, PROCESSO PENAL E CONSTITUCIONAL. DOSIMETRIA DE PENA. PECULIARIDADES DO TRÁFICO ILÍCITO DE ENTORPECENTES. ART. 42 DA LEI N. 11.343/2006. NATUREZA E QUANTIDADE DA DROGA APREENDIDA. CIRCUNSTÂNCIA PREPONDERANTE A SER OBSERVADA NA PRIMEIRA FASE DA DOSIMETRIA. UTILIZAÇÃO PARA AFASTAMENTO DO TRÁFICO PRIVILEGIADO OU MODULAÇÃO DA FRAÇÃO DE DIMINUIÇÃO DE PENA DO § 4º DO ART. 33 DA LEI N. 11.343/2006. IMPOSSIBILIDADE. CARACTERIZAÇÃO DE BIS IN IDEM. NÃO TOLERÂNCIA NA ORDEM CONSTITUCIONAL. RECURSO PROVIDO PARA RESTAURAÇÃO DA SENTENÇA DE PRIMEIRA INSTÂNCIA.
+ ..
+7. A utilização concomitante da natureza e da quantidade da droga apreendida na primeira e na terceira fases da dosimetria, nesta última para descaracterizar o tráfico privilegiado ou modular a fração de diminuição de pena, configura bis in idem, expressamente rechaçado no julgamento do Recurso Extraordinário n. 666.334/AM, submetido ao regime de repercussão geral pelo Supremo Tribunal Federal (Tese de Repercussão Geral n. 712).
+8. A utilização supletiva desses elementos para afastamento do tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa.
+9. Na modulação da causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, podem ser utilizadas circunstâncias judiciais não preponderantes, previstas no art. 59 do Código Penal, desde que não utilizadas de maneira expressa na fixação da pena-base.
+10. Recurso provido para restabelecimento da sentença.
+(REsp n. 1.887.511/SP, relator Ministro João Otávio de Noronha, Terceira Seção, julgado em 9/6/2021, DJe de 1/7/2021 - grifos acrescidos).
+No caso, o acórdão negou a aplicação da causa de diminuição de pena com a seguinte fundamentação (e-STJ fls. 42-49):
+"O M.M. Juízo a quo aplicou a pena na sentença, condenando o apelante na pena-base de 1/3 acima do mínimo legal, perfazendo 06 anos e 08 meses de reclusão, e o pagamento de 666 dias-multa, no piso.
+Realmente, o acusado não faz jus à fixação das iniciais no piso, por obediência aos artigos 59, do Código Penal, e 42, da Lei de Drogas, conforme bem fundamentado na r.sentença "a quo".
+Certamente, o princípio da obrigatoriedade de individualização das penas, para ser cumprido integralmente, exige que sejam considerados vários requisitos, como os antecedentes, conduta social e personalidade do agente (Const. Fed., art.
+5º, incs. XXXIX, 2ª parte, e XLVI; Cód. Pen., arts. 53, 59, inc. II, e 68, caput, Cód. de Proc. Pen., arts. 6º, inc. IX, e 387, inc. II).
+ ..
+Entretanto, observa-se que o aumento aplicado se mostrou exacerbado, devendo ser reajustado para 1/6, o que perfaz a pena de 05 anos e 10 meses de reclusão, e o pagamento de 583 dias-multa, no piso, a qual resta definitiva pela ausência de outras causas a serem consideradas no cálculo.
+Salienta-se que a causa de diminuição da pena prevista no §4º, do artigo 33, da Lei de Drogas, foi corretamente não aplicado, levando-se em conta a natureza de dois dos tipos de entorpecentes encontrados "crack" e cocaína, os quais geram intensa e rápida dependência, acarretando condutas extremamente violentas nos casos de abstinência e acabam empurrando os usuários a cometerem crimes violentos, a fim de obterem dinheiro para comprarem mais drogas. Estudos revelam, inclusive, que o "crack" causa extrema dependência já na primeira vez do seu uso.
+A propósito:
+ ..
+Por fim, bem fixado o regime inicial fechado, vez que imposição de regime diverso não atenderia o princípio da suficiência no presente caso.
+O próprio artigo 33, em seu parágrafo terceiro, determina que na fixação do regime inicial o magistrado deverá observar não só o quantum de pena, mas também o disposto no artigo 59 do Código Penal.
+Ora, no caso em tela o apelante não apresenta circunstâncias judiciais favoráveis, diante não só do que já foi mencionado, mas também pela gravidade do crime praticado, qual seja, o tráfico de entorpecentes. Ainda, tais circunstâncias exigem maior rigor por parte do Estado.
+Assim, a determinação do regime inicial como diverso daquele previsto no artigo 33, § 2º do Código Penal, é faculdade do juiz, que pode dosar a qualidade da pena.
+Nesse sentido:
+ ..
+Sendo que tal regime corresponde perfeitamente à eficiente medida político-criminal, que busca harmonizar a legislação pátria aos Tratados de Direito Internacionais que tangem ao combate a narcotraficância, dos quais o país é signatário.
+Deve-se considerar, ainda, o alto índice de drogas produzidas no país e a nossa avantajada localização geográfica, que facilita a criação de rotas para a entrada e saída de entorpecentes, que abastecem o tráfico internacional.
+Nota-se, também, que o crime de tráfico se tornou um mal presente na sociedade atual, gerando tremenda insegurança na população.
+Além disso, é certo que a traficância ilícita fomenta a prática de outros delitos. O que faz com que a conduta do réu mereça maior reprovabilidade por parte do Estado.
+Fica patente, portanto , que o regime fechado é o único que se mostra apto para atingir a função preventiva da pena, de inibir a prática de novas ações delituosas, nos termos do artigo 33, § 3º, do Código Penal.
+Este é o entendimento adotado de forma majoritária por este Colendo Tribunal de Justiça:
+ ..
+Ante o exposto, pelo meu voto, DOU PARCIAL PROVIMENTO ao recurso defensivo, apenas para reduzir a pena, condenando WILLIAM RIBEIRO DA SILVA às penas de 05 anos e 10 meses de reclusão, e o pagamento de 583, dias-multa, no piso, mantida, no mais, a r. sentença por seus próprios fundamentos." (grifos acrescidos)
+Assim, deve-se reconhecer a ilegalidade do acórdão quanto ao ponto, em razão da ausência de fundamentação a legitimar a fração adotada.
+Sendo assim, na medida em que os argumentos aduzidos pelo acórdão não são idôneos para negar a aplicação da causa de diminuição de pena, aplico o redutor do §4º do art. 33 da Lei nº 11.343/06 e, não existindo razões de destaque, faço em seu patamar máximo de 2/3.
+Passo a redimensionar a pena.
+Tem-se que a pena-base do crime de tráfico de drogas ficou estabelecida em 05 anos e 10 meses de reclusão, e o pagamento de 583, dias-multa (e-STJ fl. 49).
+Na segunda fase, não foram reconhecidas circunstância atenuantes e/ou agravantes, pelo que fica a pena mantida no mesmo patamar.
+Na terceira etapa, pelo acima exposto, verificadas as condições para aplicação do § 4º do art. 33 da Lei nº 11.343/06, no patamar de 2/3, torno definitivo o quantum de 1 ano e 11 meses de reclusão em regime inicial aberto, além do pagamento de 194 dias-multa.
+Não observando circunstâncias dignas de nota além daquelas já consideradas na dosimetria da pena, estabeleço o regime aberto como inicial de cumprimento de pena, nos termos do art. 33, §2º, "c" do CP.
+Atendidos os requisitos do art. 44 do Código Penal, a pena privativa de liberdade deve ser substituída por restritivas de direitos, a serem definidas pelo Juízo da execução penal.
+Ante o exposto, concedo a ordem de habeas corpus para aplicar a causa de diminuição de pena do §4º do art. 33 da Lei 11.343/06 e redimensionar a pena do Paciente para 1 ano e 11 meses de reclusão, substituída por duas penas restritivas de direitos, e 194dias-multa.
+O paciente deverá ser imediatamente posto em liberdade, se por outro motivo não estiver preso.
+Expeça-se, com urgência, o respectivo alvará de soltura, bem como as demais comunicações pertinentes ao Tribunal de origem e ao Juízo a quo.
+Comunique-se, com urgência, o teor desta decisão ao Tribunal de origem e ao respectivo juízo de primeiro grau.
+Após, ciência ao Ministério Público Federal.
+Publique-se. Intime-se.
+ EMENTA
