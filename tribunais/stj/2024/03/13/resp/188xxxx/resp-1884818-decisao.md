@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF) , no qual se insurge contra o acórdão proferido pelo Tribunal Regional Federal da 5ª Região assim ementado (fl. 425):
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. CUMPRIMENTO DE SENTENÇACONTRA A FAZENDA PÚBLICA. PAGAMENTO DE VALORES INCONTROVERSOS. PENDÊNCIA RELATIVA AOS MONTANTES CONTROVERSOS. SENTENÇA EXTINTIVAPOR ADIMPLEMENTO DA OBRIGAÇÃO. ERRO DE FATO. CONFIGURAÇÃO. PROCEDÊNCIA DO PEDIDO.
+1. Incorre em erro de fato a sentença que extingue a execução, ao fundamento de que a obrigação foi adimplida em sua inteireza, quando, em verdade, apenas foram pagos os valores incontroversos, pendendo de decisão os pleitos dos exequentes em relação aos montantes controvertidos.
+2. No caso, por ocasião da sentença extintiva da execução, sequer os valores dos precatórios expedido sem relação aos valores incontroversos estavam depositados.
+3. "Na esteira da sedimentada jurisprudência desta Corte de Justiça e de autorizada doutrina nacional sobre o tema, o erro de fato que confere lastro à rescisão de um julgado pressupõe que a sentença rescindenda admita um fato inexistente ou considere inexistente um fato efetivamente ocorrido, essencial ao deslinde da causa, sendo indispensável, em qualquer dos casos, que não tenha havido controvérsia, nem pronunciamento judicial a esse respeito" (STJ, AgInt nos EDcl no REsp 1.365.641/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 11/11/ 2019, DJe21/11/2019).
+4. Procedência do pedido da ação rescisória.
+Não foram opostos embargos de declaração.
+Em suas razões recursais, a parte recorrente alega ofensa aos arts. 924, II, e 966, VII, § 1º, do Código de Processo Civil (CPC). Para tanto, sustenta, em síntese, que " ..  a certidão que declarou que houve o pagamento de todos os precatórios expedidos nos autos corresponde à realidade da dívida total, afigurando-se correta a sentença extintiva da execução pela satisfação da dívida" (fl. 449).
+A parte adversa apresentou contrarrazões (fls. 455/473).
+O recurso foi admitido na origem (fl. 475).
+É o relatório.
+Ao analisar a questão referente à existência de erro de fato a ensejar a rescisão da sentença proferida, o Tribunal de origem assim se pronunciou (fls. 423/424):
+Incorre em erro de fato a sentença que extingue a execução, ao fundamento de que a obrigação foi adimplida em sua inteireza, quando, em verdade, apenas foram pagos os valores incontroversos, pendendo de decisão os pleitos dos exequentes em relação aos montantes controvertidos.
+ ..
+Em síntese, portanto, não tendo havido o cumprimento da obrigação de pagar, em sua totalidade - porque os precatórios e a RPV anteriores abarcaram apenas os valores incontroversos, concernindo a renúncia aquantias realizada nos autos pelo advogado, apenas, à parte relativa aos honorários advocatícios, como expressamente por ele consignado na ocasião -, aguardando, ainda, solução os pleitos relacionados aos montantes controvertidos; não tendo o Juízo sentenciante se apercebido dessas pendências, extinguindo a execução, em 2017, quando nem mesmo os precatórios expedidos dos valores incontroversos estavam depositados (o que apenas se verificou em 2018), é de se reconhecer o erro de fato e determinar o prosseguimento da execução, quanto aos valores controversos (os montantes incontroversos já foram quitados).
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Sendo assim, incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito os seguintes julgados deste Tribunal:
+TRIBUTÁRIO. AÇÃO RESCISÓRIA. ERRO DE FATO. REVISÃO. IMPOSSIBILIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE.
+1. Segundo a jurisprudência de o Superior Tribunal de Justiça, "incorre-se em erro de fato quando o julgado admite um fato existente ou considera inexistente um fato que efetivamente ocorreu, podendo o erro ser apurável pelo mero exame dos autos e documentos do processo. Exige-se, ainda, que sobre o fato não tenha havido controvérsia nem provimento judicial.  ..  O erro de fato que autoriza a rescisão do julgado é aquele decorrente de má percepção dos fatos pelo magistrado, e não aquele decorrente da valoração jurídica dada pelo magistrado, como no caso" (AR 4.158/RN, rel. Ministro Antônio Saldanha Palheiro, Terceira Seção, julgado em 24/03/2021, DJe 05/04/2021).
+2. Na hipótese dos autos, rever o entendimento do Tribunal de origem com o objetivo de acolher a pretensão recursal, no sentido da não ocorrência de erro de fato de modo a autorizar o ajuizamento da ação rescisória, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula 7 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial".
+3. Agravo interno desprovido. (AgInt no AgInt no REsp n. 1.469.371/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/12/2021, DJe de 1º/2/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. CONCURSO PÚBLICO. AÇÃO RESCISÓRIA. VIOLAÇÃO MANIFESTA DE NORMA JURÍDICA. QUESTÃO ATRELADA AO REEXAME DA MATÉRIA DE FATO E CONTRATUAL. ÓBICES DAS SÚMULAS 7 E 5 DO STJ. ACÓRDÃO RECORRIDO BASEADO EM NORMA LOCAL. ÓBICE DA SÚMULA 280/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao arts 1.022 do CPC/2015.
+2. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+3. A simples interpretação de cláusula contratual não enseja recurso especial (Súmula 5/STJ).
+4. Por ofensa a direito local não cabe recurso extraordinário (Súmula 280/STF).
+5. Agravo interno não provido. (AgInt nos EDcl no AREsp n. 2.329.325/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 23/10/2023, DJe de 25/10/2023.)
+Ante o exposto, não conheço do recurso especial.
+Por fim, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo.
+Publique-se. Intimações necessárias.
+EMENTA
