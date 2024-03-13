@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de conflito de competência instaurado entre o JUÍZO FEDERAL DO JUIZADO ESPECIAL DE OSASCO - SJ/SP e o JUÍZO DE DIREITO DA 8ª VARA CÍVEL DE OSASCO - SP.
+A demanda foi originariamente propo sta no JUÍZO DE DIREITO DA 8ª VARA CÍVEL DE OSASCO - SP, que declinou de sua competência argumentando que (fl. 506):
+O Plenário do Supremo Tribunal Federal (STF), definiu que a decisão que determinou a competência da Justiça Federal para julgar ações envolvendo a Caixa Econômica Federal (CEF) e mutuários com apólice pública do Seguro Habitacional (SH) no âmbito do Sistema Financeiro de Habitação (SFH) não alcança processos com decisão definitiva (trânsito em julgado) anteriores a 13/7/2020, data em que foi publicada a ata do julgamento do mérito do Recurso Extraordinário (RE) 827996 (Tema 1.011 de repercussão geral).
+O colegiado acolheu parcialmente embargos de declaração apenas para modular os efeitos da tese de repercussão geral firmada no julgamento do mérito. De acordo com a decisão, por decorrência lógica, não serão admitidas futuras ações rescisórias para questionar essas decisões transitadas em julgado.
+Em 2020, o Tribunal, por maioria de votos, deu provimento ao recurso interposto pela Sul América Companhia Nacional de Seguros para restabelecer decisão do Tribunal de Justiça do Paraná (TJ-PR) em que foi declarada a competência da Justiça Federal para processar e julgar o feito em relação aos contratos acobertados pelo Fundo de Compensação de Variações Salariais (FCVS).
+Na ocasião, o ministro Gilmar Mendes (relator) frisou que, a partir da edição da Medida Provisória (MP) 513/2010, o fundo passou a ser administrado pela CEF. Com isso, após a publicação da MP (26/11/2010), passou a ser da Justiça Federal a competência para o processamento e julgamento das causas em que se discute contrato de seguro vinculado à apólice pública, em que a CEF atue em defesa do FCVS. Até então, a competência era da Justiça estadual.
+Logo, declino a competência e remeto o feito à Justiça Federal.
+Remetidos os autos, o JUÍZO FEDERAL DO JUIZADO ESPECIAL DE OSASCO - SJ/SP suscitou o presente o conflito defendendo que (fl. 6):
+A parte autora ingressou com pedido de obrigação de fazer, com pedido de tutela de urgência, em face de Caixa Seguradora S.A., a fim de obter o pagamento de parcelas de seu financiamento imobiliário, já adimplidas, que são cobertas pelo contrato de seguro firmado entre as partes.
+O feito foi distribuído perante a 8 a Vara Cível da Comarca de Osasco, onde tramitou até o presente momento, ocasião em que o juízo declinou da competência para a Justiça Federal, por entender que o caso se enquadra na tese firmada pelo STF, Tema 1.011.
+Cumpre destacar que a ação foi movida somente em face da Caixa Seguradora S/A, empresa privada, sendo discutido contrato de seguro adjeto à mútuo. Não houve qualquer intervenção da Caixa nos presentes autos, sendo a controvérsia restrita à seguradora e ao mutuário.
+Assim sendo, SUSCITO CONFLITO DE COMPETÊNCIA, devendo ser expedido oficio ao Egrégio Superior Tribunal de Justiça, com as razões apontadas nesta decisão.
+Parecer do MPF às fls. 515-518 opinando pelo conhecimento do conflito para declarar a competência do JUÍZO DE DIREITO DA 8ª VARA CÍVEL DE OSASCO - SP.
+É, no essencial, o relatório.
+Com fundamento na orientação contida no art. 955, parágrafo único, inciso I, do CPC e na Súmula 568/STJ, estou em proceder ao julgamento monocrático do presente conflito, tendo em vista a existência de precedentes acerca da questão ora discutida e a necessidade de desbastarem-se as pautas já bastante numerosas da Segunda Seção.
+Consoante entendimento pacificado desta Corte, compete à Justiça Federal decidir sobre o interesse jurídico que justifique a presença da União, suas autarquias e empresas públicas no processo nos termos da Súmula n. 150/STJ:
+Súmula 150 - "Compete a Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da união, suas autarquias ou empresas públicas."
+Na espécie, o JUÍZO FEDERAL DO JUIZADO ESPECIAL DE OSASCO - SJ/SP suscitou o presente conflito em razão dos seguintes fundamentos: a) a ação foi movida somente contra a Caixa Seguradora S.A., empresa privada, sendo discutido contrato de seguro adjeto a mútuo; b) não houve nenhuma intervenção da Caixa nos presentes autos, sendo a controvérsia restrita à seguradora e ao mutuário.
+Logo, destacado pelo Juízo suscitante que não há na causa nenhum ente elencado no art. 109, I, da CF a atrair a competência da Justiça Federal, é forçoso reconhecer a competência da Justiça comum estadual para o exame e julgamento do feito.
+Ante o exposto, conheço do conflito para declarar a competência do JUÍZO DE DIREITO DA 8ª VARA CÍVEL DE OSASCO - SP.
+Comuniquem-se aos juízos envolvidos acerca da presente decisão.
+Intimem-se.
+EMENTA
