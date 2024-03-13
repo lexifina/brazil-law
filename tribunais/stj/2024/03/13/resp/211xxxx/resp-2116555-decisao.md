@@ -1,0 +1,40 @@
+DECISÃO
+Examina-se recurso especial interposto por SIMONE DE FREITAS ROSA, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo TJ/SC.
+Recurso especial interposto em: 21/09/2023.
+Concluso ao gabinete em: 16/01/2024.
+Ação: de busca e apreensão, ajuizada por BANCO PAN S.A., em desfavor da recorrente, em virtude de suposto inadimplemento de contrato de financiamento com garantia de alienação fiduciária - para aquisição de veículo automotor - firmado entre as partes.
+A recorrente, por sua vez, por meio de curador especial, apresentou reconvenção, a fim de questionar encargos contratuais.
+Sentença: indeferiu o pedido de justiça gratuita em favor da recorrente; julgou procedente o pedido principal deduzido na petição inicial para consolidar a recorrida na propriedade e posse plena e exclusiva do veículo em questão; e, no mais, julgou parcialmente procedentes os pedidos deduzidos em sede de reconvenção, tão somente para declarar nula a cláusula inserida no contrato que garante unilateralmente apenas à instituição financeira o direito ao ressarcimento das despesas de cobrança em caso de inadimplência.
+Acórdão: deu parcial provimento à apelação interposta pela recorrente, para reconhecer que a comissão de permanência deve ser limitada ao somatórios dos juros remuneratórios, juros moratórios e multa contratual. Na oportunidade, com o provimento parcial do recurso, redistribuiu o ônus da sucumbência em 50% (cinquenta por cento) para cada parte, mantendo o valor de R$ 1.500,00 (mil e quinhentos reais) em prol dos causídicos da recorrente e do recorrido. O acórdão foi assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. SENTENÇA DE PARCIAL PROCEDÊNCIA. INSURGÊNCIA DO REQUERIDO.
+PRETENDIDA CONCESSÃO DA GRATUIDADE DA JUSTIÇA. AFASTAMENTO. ORDEM DE APRESENTAÇÃO DE DOCUMENTOS NECESSÁRIOS PARA DEFERIMENTO DA BENESSE NÃO ATENDIDA. RÉU REVEL. ADVOGADO DATIVO. DISPENSA, TODAVIA, DO RECOLHIMENTO DO PREPARO. ENTENDIMENTO DO STJ.
+ALEGADA ABUSIVIDADE DA COMISSÃO DE PERMANÊNCIA. ACOLHIMENTO. RUBRICA QUE NÃO PODE ULTRAPASSAR A SOMA DOS ENCARGOS REMUNERATÓRIOS E MORATÓRIOS. ENUNCIADO III DO GRUPO DE CÂMARAS DE DIREITO COMERCIAL DESTA CORTE. LIMITAÇÃO DA TAXA À SOMA DOS ENCARGOS REMUNERATÓRIOS E MORATÓRIOS.
+ÔNUS DA SUCUMBÊNCIA. SENTENÇA MODIFICADA. DISTRIBUIÇÃO EM 50% (CINQUENTA POR CENTO) PARA CADA PARTE.
+HONORÁRIOS EM GRAU RECURSAL (ART. 85, § 11, DO CPC/2015). MAJORAÇÃO NÃO CABÍVEL.
+RECURO CONHECIDO E PARCIALMENTE PROVIDO (e-STJ fl. 603).
+Embargos de declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 85, § 2º, 489, § 1º, IV, 927, III, e 1.022, II, parágrafo único, II, do CPC, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, insurge-se contra a fixação da verba honorária por apreciação equitativa, em clara inobservância ao Tema 1076/STJ, uma vez que o proveito econômico é perfeitamente mensurável por meio de simples cálculos aritméticos. Aduz que os honorários advocatícios deveriam ter sido fixados sobre o proveito econômico obtido pelo curatelado.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022, II, parágrafo único, II, do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da desnecessidade de o curador especial promover o recolhimento do preparo recursal, bem como acerca do critério de fixação da verba honorária, de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489, § 1º, IV, do CPC
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489, § 1º, IV, do CPC.
+- Da fixação dos honorários advocatícios (Súmula 568/STJ)
+Por ocasião do julgamento do Tema 1.076/STJ (DJe de 31/05/2022), a Corte Especial do STJ firmou as seguintes teses:
+i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+O acórdão recorrido, ao fixar a verba honorária por meio de apreciação equitativa, não obstante a possibilidade de mensurar o proveito econômico obtido pela recorrente, manteve dissonância com a jurisprudência do STJ, no sentido de que o art. 85, §2º, do CPC veicula regra geral, de aplicação obrigatória, de que os honorários advocatícios sucumbenciais devem ser fixados no patamar de 10% (dez por cento) a 20% (vinte por cento), subsequentemente calculados sobre o valor: i) da condenação; ou ii) do proveito econômico obtido; ou iii) do valor atualizado da causa. Nesse sentido: REsp 1.746.072/PR (2ª Seção, DJe 29/03/2019).
+Logo, nos termos da Súmula 568/STJ, o acórdão recorrido merece reforma, quanto ao ponto mencionado.
+Forte nessas razões, CONHEÇO do recurso especial e DOU-LHE PARCIAL PROVIMENTO, com fundamento no art. 932, IV, "a", e V, "a", do CPC, bem como na Súmula 568/STJ, para determinar o retorno dos autos ao TJ/SC, a fim de que promova o arbitramento da verba honorária à luz do entendimento firmado nesta decisão.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA. FIXAÇÃO POR APRECIAÇÃO EQUITATIVA. ART. 85, § 2º, DO CPC/15. ORDEM DE GRADAÇÃO.
+1. Ação de busca e apreensão.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. Para a fixação dos honorários sucumbenciais, estabelece-se a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º). Precedente. Ante o entendimento dominante do tema nesta Corte Superior, aplica-se, no particular, a Súmula 568/STJ.
+5. Recurso especial conhecido e parcialmente provido.
