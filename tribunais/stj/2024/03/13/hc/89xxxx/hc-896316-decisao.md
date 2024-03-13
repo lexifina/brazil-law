@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, sem pedido liminar, impetrado pela Defensoria Pública em favor de DAVID LISBOA CHAGAS contra acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas, no julgamento da apelação criminal n. 0700258-30.2020.8.02.0068.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 07 (sete) anos, 03 (três) meses e 18 (dezoito) dias de reclusão, em razão da prática do crime de roubo majorado pelo concurso de pessoas, nos termos do art. 157, §2º, inciso II, do Código Penal (fls. 210-220).
+Inconformada, a defesa interpôs recurso de apelação perante o Tribunal de origem, que, por unanimidade, negou provimento ao apelo defensivo, consoante voto condutor do acórdão de fls. 319-323.
+Os embargos de declaração opostos pela defesa, às fls. 306-311, foram rejeitados.
+Dai o presente writ, onde a impetrante aponta constrangimento ilegal na negativa de reconhecimento da circunstância atenuante da confissão extrajudicial em favor do paciente.
+Para tanto, sustenta que " ..  o acórdão que julgou a apelação criminal merece reforma, data venia, pois baseou-se em premissa equivocada, uma vez que expressamente reconheceu a ocorrência de confissão extrajudicial, porém deixou de aplicar a respectiva atenuante, ofendendo o disposto no art. 65, III, "d", do Código Penal. Confira-se, a propósito, o seguinte trecho do acórdão impugnado" (fl. 6).
+Requer, assim, a concessão da ordem para " ..  RECONHER e APLICAR a atenuante da confissão espontânea (art. 65, III, "d", do Código Penal), com o consequente redimensionamento da pena" (fl. 9).
+É o relatório. DECIDO.
+Conforme relatado, busca-se na presente impetração o reconhecimento da atenuante da confissão extrajudicial.
+No que se refere ao pleito de incidência da atenuante da confissão espontânea, prevista no artigo 65, III, d, do Código Penal, tenho que as razões apresentadas neste mandamus merecem prosperar.
+Com efeito, no presente caso, os autos registram expressamente que o  insurgente  confessou, em sede policial,  a  prática  do  crime (fl. 322, grifei):
+"Inicialmente, a Defesa se insurge contra a dosimetria, requerendo o reconhecimento da atenuante da confissão espontânea em favor de David LisboaChagas.
+O Superior Tribunal de Justiça exige a aplicação da atenuante da confissão espontânea quando a confissão, extrajudicial ou não, influenciar no julgamento, o que não ocorreu no caso em tela, como bem fundamentou o Juízo de origem.
+Como se observa a confissão extrajudicial do réu não foi ratificada em Juízo e não serviu como fundamentação para a sentença condenatória, razão porque não há como aplicar a atenuante em tela.
+Assim, ante a ausência de circunstâncias atenuantes da confissão espontânea, mantenho a pena privativa de liberdade em 07 (sete) anos, 03 (três) meses e 18 (dezoito) dias de reclusão."
+Sobre o tema, cumpre  ressaltar  que  esta  Corte  Superior  de  Justiça  possui  a  firme  orientação  no  sentido  de  que  a  confissão,  ainda  que  parcial,  quando  utilizada  como  elemento  de  convicção  do  Juízo,  deve  ser  considerada  como  atenuante  apta  à  diminuição  da  pena.
+Esse  entendimento  foi ,  inclusive,  sumulado,  consoante  dispõe  o  enunciado  n.  545/STJ:  "Quando  a  confissão  for  utilizada  para  a  formação  do  convencimento  do  julgador,  o  réu  fará  jus  à  atenuante  prevista  no  art.  65,  III,  "d",  do  Código  Penal."
+Ocorre  que,  recentemente,  no  julgamento  do  REsp  n.  1.972.098/SC,  a  interpretação  de  vários  precedentes  relacionados  à  Súmula  n. 545/STJ  foi  revista  pela  Quinta  Turma  desta  Corte  Superior  de  Justiça,  no  sentido  de  adequar  as  possibilidades  de  incidência  da  atenuante  prevista  no  art igo  65,  III,  d,  do  Código Penal.
+Dessarte,  diante  do  voto  do  Exmo.  Ministro  Ribeiro  Dantas  no  referido  julgado,  a  Quinta  Turma  passou  a  entender  que  a  confissão  do  acusado,  seja  ela  parcial,  qualificada,  extrajudicial  ou  retratada  -  ainda  que  não  tenha  sido  expressamente  adotada  na  formação  do  convencimento  do  Juízo  como  um  dos  fundamentos  da  condenação  -,  não  lhe  retira  o  direito  ao  reconhecimento  da  atenuante,  tendo  em  vista  que  esse  requisito  não  está  previsto  no  art igo  65,  III,  d,  do  Código Penal.
+A propósito:
+"PENAL  E  PROCESSUAL  PENAL.  RECURSO  ESPECIAL.  ROUBO.  INTERPRETAÇÃO  DA  SÚMULA  545/STJ.  PRETENDIDO  AFASTAMENTO  DA  ATENUANTE  DA  CONFISSÃO,  QUANDO  NÃO  UTILIZADA  PARA  FUNDAMENTAR  A  SENTENÇA  CONDENATÓRIA.  DESCABIMENTO.  AUSÊNCIA  DE  PREVISÃO  LEGAL.  PRINCÍPIOS  DA  LEGALIDADE,  ISONOMIA  E  INDIVIDUALIZAÇÃO  DA  PENA.  INTERPRETAÇÃO  DO  ART.  65,  III,  "D",  DO  CP.  PROTEÇÃO  DA  CONFIANÇA  (VERTRAUENSSCHUTZ)  QUE  O  RÉU,  DE  BOA-FÉ,  DEPOSITA  NO  SISTEMA  JURÍDICO  AO  OPTAR  PELA  CONFISSÃO.  PROPOSTA  DE  ALTERAÇÃO  DA  JURISPRUDÊNCIA.  RECURSO  ESPECIAL  DESPROVIDO.
+ ..
+10.  Por  tudo  isso,  o  réu  fará  jus  à  atenuante  do  art.  65,  III,  "d",  do  CP  quando  houver  confessado  a  autoria  do  crime  perante  a  autoridade,  independentemente  de  a  confissão  ser  utilizada  pelo  juiz  como  um  dos  fundamentos  da  sentença  condenatória.
+11.  Recurso  especial  desprovido,  com  a  adoção  da  seguinte  tese:  "o  réu  fará  jus  à  atenuante  do  art.  65,  III,  "d",  do  CP  quando  houver  admitido  a  autoria  do  crime  perante  a  autoridade,  independentemente  de  a  confissão  ser  utilizada  pelo  juiz  como  um  dos  fundamentos  da  sentença  condenatória,  e  mesmo  que  seja  ela  parcial,  qualificada,  extrajudicial  ou  retratada"  (REsp  n.  1.972.098/SC,  Quinta  Turma,  Rel.  Min.  Ribeiro  Dantas,  DJe  de  20/6/2022,  grifei).
+Ademais, este Tribunal Superior também pacificou o entendimento no sentido de que é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência, porquanto igualmente preponderantes, nos termos do artigo 67 do Código Penal. Insta apontar, a propósito, acórdão oriundo da Terceira Seção que, em sede de recurso especial representativo da controvérsia, sedimentou a tese ora referida:
+"RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA (ART. 543-C DO CPC). PENAL. DOSIMETRIA. CONFISSÃO ESPONTÂNEA E REINCIDÊNCIA. COMPENSAÇÃO. POSSIBILIDADE.
+1. É possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência.
+2. Recurso especial provido" (REsp n. 1.341.370/MT, Terceira Seção, Rel. Min. Sebastião Reis Júnior, DJe de 17/4/2013)
+Portanto, pelas razões elencadas, tenho como impositiva a incidência da aludida atenuante, nos termos da jurisprudência desta Corte Superior.
+Dessa forma, passo à nova dosimetria da pena.
+Na primeira fase, mantenho a fixação da pena-base acima do mínimo legal em 4 anos e 9 meses de reclusão, e 53 dias-multa.
+Na segunda fase, conforme fundamentação retro, compenso a agravante da reincidência com a atenuante da confissão, mantendo incólumes a pena-base anteriormente fixada.
+No último estágio, à mingua de causa de diminuição, preservo a fração de 1/3 em razão da incidência da causa de aumento relativo ao concurso de pessoas (inciso II § 2º art. 157 CP), fixando a pena definitivamente em 6 anos de reclusão, mais pagamento de 70 dias-multa.
+Por fim, o regime fechado permanecerá, nos termos do artigo 33, § 2º, "b", e § 3º, do Código Penal, em razão dos maus antecedentes e da reincidência ostentada pelo paciente.
+Ante o exposto, concedo a ordem para reconhecer a atenuante da confissão e compensá-la com a reincidência, na segunda fase, estabelecendo pena definitiva de 6 anos de reclusão, em regime fechado, mais pagamento de 70 dias-multa, mantidos os demais termos da condenação.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
