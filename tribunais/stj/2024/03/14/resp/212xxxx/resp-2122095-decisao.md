@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto por INTERBUILD CONSTRUÇÕES LTDA. (INTERBUILD), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, de relatoria do Des. VIRGILIO DE OLIVEIRA JUNIOR, assim ementado:
+Ação de cobrança. Empreitada. Sentença de procedência. Inconformismo da ré. Apelação.
+Preliminares. Cerceamento de defesa verificado. Partes que divergem sobre fatos que dependem de dilação probatória. Contrato de empreitada por Preço Máximo Garantido (PMG). Autora que afirma que a ré teria retido ilicitamente parte do pagamento devido. Ré que defende ter realizado a compensação de créditos, motivo pelo qual teria pagado à autora valor inferior ao quanto contratualmente previsto.
+Possibilidade de compensação. Art. 368, CC. Divergências relativas aos custos de reparo das obras, de obtenção da CND e de encargos moratórios no pagamento de fornecedores. Necessidade de produção de prova pericial contábil para constatação do valor correto para compensação dos créditos. Discussão a respeito de eventual descumprimento contratual da autora que não pode ser objeto de análise neste feito, diante da ausência de apresentação de reconvenção.
+Sentença anulada para produção de prova pericial. Recurso provido (e-STJ, fls. 10.997/10.998).
+Nas razões do presente recurso, INTERBUILD alegou, a par de divergência jurisprudencial, a violação aos arts. 368 e 422 do CC, e 343 do CPC, ao sustentar (1) a impossibilidade do reconhecimento do direito à compensação de crédito em favor da recorrida, sem que ela tenha deduzido o pedido em reconvenção; e (2) a inexistência do direito à compensação de créditos pela vedação ao comportamento contraditório.
+Foram apresentadas contrarrazões (e-STJ, fls. 11.056/11.084).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+Trata-se de ação de cobrança ajuizada por INTERBUILD contra REC GRAVATAÍ S.A. (GRAVATAÍ), alegando o descumprimento do "Contrato de Construção por Administração com Preço Máximo Garantido" firmado entre as partes, uma vez que a requerida teria retido, indevidamente, parte dos pagamentos devidos pelos serviços realizados.
+Em primeira instância, o pedido foi julgado procedente, para condenar a requerida ao pagamento (i) do valor de R$ 1.249.684,77 (um milhão, duzentos e quarenta e nove mil, seiscentos e oitenta e quatro reais e setenta e sete centavos), corrigidos monetariamente pela Tabela Prática deste e. Tribunal de Justiça de São Paulo a partir do ajuizamento da ação e acrescido de juros de mora de 1% (um por cento) ao mês, a partir da citação; e (ii) da multa prevista pelo item 18.1 do contrato firmado entre as partes. O montante total será definido em sede de liquidação de sentença. Sucumbente, a parte perdedora arcará com o pagamento das custas, das despesas processuais e dos honorários advocatícios, arbitrados estes em 10% (dez por cento) do valor total da condenação, sobre os quais incidirão correção e juros legais (e-STJ, fls. 10.893/10.894).
+Irresignada, GRAVATAÍ apelou, e o TJSP acolheu a preliminar de cerceamento de defesa e determinou a anulação da sentença, para que "seja feita a dilação probatória, especialmente para produção de prova pericial contábil" (e-STJ, fl. 11.001).
+Segundo o entendimento da Corte local, no caso:
+ .. , a ré reteve parte dos pagamentos devidos à autora a título de compensação dos créditos que entendia possuir contra a autora, especificamente: (i) R$114.226,79 a título de custos com o reparo das obras; (ii)R$51.069,58, a título de custos com a obtenção de CND; e (iii) R$4.522,17, a título de encargos moratórios pagos aos fornecedores da autora.
+A autora, por sua vez, entende que a compensação deveria se limitar a R$81.732,00, a título de "verba de assistência técnica" e R$11.729,50, relativo à apuração de pagamento em atraso.
+Tem-se, portanto, que as partes não divergem a respeito de questões técnicas decorrentes da construção, mas dos valores apurados pela ré e descontados do saldo a ser repassado para a autora.
+E a compensação é plenamente possível, nos termos do art. 368 do Código Civil: Se duas pessoas forem ao mesmo tempo credor e devedor uma da outra, as duas obrigações extinguem-se, até onde se compensarem.
+Como restou incontroverso nos autos, as partes acordaram que os gastos decorrentes das correções dos vícios averiguados quando da expedição do "Laudo de conclusão provisório da obra" seriam arcados pela autora, mediante compensação com o crédito a receber pela execução das obras.
+A solução da presente lide depende, portanto, da averiguação da regularidade da compensação de créditos realizada pela ré.
+Assim, necessária a produção de prova pericial contábil a fim de se apurar qual o valor gasto pela ré com as correções dos vícios apontados no laudo provisório, o valor decorrente de encargos moratórios com terceiros causados por demora da autora na entrega de notas fiscais e os valores gastos para obtenção de Certidão Negativa de Débitos, bem como o reflexo de tais quantias no bônus a ser percebido pela autora pela execução da obra por preço inferior ao PMG.
+Apenas após a produção de tal prova técnica seria possível averiguar a mora da ré em realizar os pagamentos e eventual necessidade de aplicação de cláusula penal compensatória contratualmente prevista e demais alegações de exceção de contrato não cumprido.
+Por fim, ressalta-se que as alegações formuladas pela ré atinentes a eventual descumprimento contratual da autora (como, por exemplo, em relação à obtenção do certificado LEED ou a vícios construtivos), que demandariam dilação probatória, não podem ser objeto de análise neste feito, visto que não apresentada reconvenção. A análise deve se limitar ao real valor devido pela autora à ré que justifique a compensação realizada.
+Portanto, anula-se a sentença, a fim de que os autos retornem à primeira instância para a reabertura da fase instrutória, com produção de prova pericial contábil, não se excluindo outros meios de prova que o d.Juízo de origem entender por pertinentes (e-STJ, fls. 11.001/11.002).
+(1) Da compensação
+Nas razões do recurso especial, INTERBUILD sustentou a impossibilidade do reconhecimento do direito à compensação de crédito em favor da recorrida, sem que ela tenha deduzido o pedido em reconvenção.
+Todavia, segundo a jurisprudência assente nesta Corte, "a compensação é matéria possível de ser alegada em contestação, de forma a justificar o não pagamento do valor cobrado ou a sua redução, extinguindo ou modificando o direito do autor" (REsp n. 2.000.288/MG, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado aos 25/10/2022, DJe de 27/10/2022).
+No mesmo sentido:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. COMPENSAÇÃO. PEDIDO EM CONTESTAÇÃO. POSSIBILIDADE. RETORNO DOS AUTOS À ORIGEM. NECESSIDADE.
+1. Esta Corte Superior perfilha o entendimento de que "a compensação é matéria possível de ser alegada em contestação, de forma a justificar o não pagamento do valor cobrado ou a sua redução, extinguindo ou modificando o direito do autor" (REsp n. 2.000.288/MG, Terceira Turma, julgado em 25/10/2022, DJe de 27/10/2022).
+2. Na hipótese dos autos, merece reforma o acórdão recorrido, pois, ao contrário do que consignado pelo Tribunal a quo, o pedido de compensação formulado pela parte recorrente poderia ser formulado em contestação, sendo desnecessária a utilização do específico instrumento da reconvenção.
+3. Tendo em vista que a caracterização da compensação exige a verificação do preenchimento de seus requisitos legais, impõe-se o retorno dos autos à Corte de origem para que prossiga no exame da tese relativa à compensação, verificando o preenchimento de seus requisitos próprios a partir dos fatos e provas que alicerçam demanda.
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 2.104.005/MG, relatora MInistra NANCY ANDRIGHI, Terceira Turma, julgado aos 4/3/2024, DJe de 6/3/2024 - sem destaque no original.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO RECORRENTE.
+ ..
+2.1. Preclusão ocorrida na hipótese ante a não impugnação da decisão que afastou a compensação, sendo inviável a reabertura da discussão sobre este ponto.
+3. A jurisprudência desta Corte sedimentou-se no sentido da possibilidade da alegação da compensação em contestação, independentemente de reconvenção.
+3.1. Tal constatação não altera a conclusão do presente julgado, porque a questão da compensação está preclusa nos presentes autos.
+4. Agravo interno conhecido, para, alterando os fundamentos da decisão agravada, manter a negativa de provimento ao recurso especial por fundamentação diversa.
+(AgInt no REsp n. 1.988.856/SP, relator Ministro MARCO BUZZI, Quarta Turma, julgado aos 24/10/2022, DJe de 27/10/2022.)
+Incide, à hipótese, o comando da Súmula nº 83 do STJ.
+(2) Da inexistência do direito à compensação
+Por sua vez, a ora insurgente alegou que a requerida, GRAVATAÍ, não teria direito à compensação de créditos pela vedação ao comportamento contraditório.
+Entretando, a controvérsia não foi objeto de análise pelo Tribunal estadual sob esse enfoque, sem que fossem opostos embargos de declaração, a fim de suscitar sua discussão, ressentindo-se o recurso especial, no ponto, do indispensável prequestionamento. Incide, à hipótese, os comandos das Súmulas nºs. 282 e 356 do STF, por analogia.
+Nessas condições, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. DESCUMPRIMENTO DE CONTRATO DE CONSTRUÇÃO POR ADMINISTRAÇÃO COM PREÇO MÁXIMO GARANTIDO. (1) COMPENSAÇÃO. PEDIDO EM CONTESTAÇÃO. POSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 83 DP STJ. (2) ALEGAÇÃO DE INEXISTÊNCIA DO DIREITO À COMPENSAÇÃO DE CRÉDITOS PELA VEDAÇÃO AO COMPORTAMENTO CONTRADITÓRIO. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS NºS. 282 E 356 DO STF, POR ANALOGIA. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
