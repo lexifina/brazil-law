@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de negativa de prestação jurisdicional e (b) aplicação da Súmula n. 7/STJ (e-STJ fls. 697/702).
+O acórdão do TJRJ traz a seguinte ementa (e-STJ fls. 569/570):
+APELAÇÃO CÍVEL. CONSUMIDOR. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS. EMPREENDIMENTO IMOBILIÁRIO. ATRASO NA ENTREGA DE UNIDADE RESIDENCIAL. SENTENÇA DE PROCEDÊNCIA PARCIAL DO PEDIDO AUTORAL. IRRESIGNAÇÃO DOS RÉUS QUE MERECE PARCIAL PROVIMENTO. CONTRATO DE PROMESSA DE COMPRA E VENDA COM PROMESSA DE ENTREGA DAS CHAVES PREVISTA PARA O MÊS DE MARÇO/2013 E COM TOLERÂNCIA DE 90 (NOVENTA) DIAS CLAUSULAS 11.2 e 11.3 DO CONTRATO - FLS. 32, LEVANDO O PRAZO FINAL PARA JUNHO/2013. IMÓVEL SOMENTE ENTREGUE EM 09 DE OUTUBRO DE 2014. INCONTROVERSO O ATRASO NA ENTREGA DA UNIDADE IMOBILIÁRIA. TEORIA DO RISCO DO EMPREENDIMENTO. FORTUITO INTERNO QUE NÃO AFASTA A RESPONSABILIDADE DO EMPREENDEDOR. MULTA CONTRATUAL DEVIDAMENTE FIXADA. POSSIBILIDADE DE INVERSÃO DA CLÁUSULA PENAL. TEMA 971 DO STJ. TERMO FINAL PARA ENTREGA DO BEM JURÍDICO EM QUESTÃO QUE SE ENCERROU EM JUNHO DE 2013, COM A PROJEÇÃO DA CLÁUSULA DE TOLERÂNCIA. MULTA CONTRATUAL CORRETAMENTE ARBITRADA QUE DEVE INCIDIR A PARTIR DE JULHO DE 2013, ATÉ OUTUBRO DE 2014. DANOS MORAIS CONFIGURADOS, UMA VEZ QUE OS FATOS NARRADOS ULTRAPASSAM O MERO ABORRECIMENTO DO SIMPLES INADIMPLEMENTO CONTRATUAL, TENDO EM VISTA QUE FRUSTROU A LEGÍTIMA EXPECTATIVA DA ENTREGA DO IMÓVEL. CONDENAÇÃO DA RÉ A INDENIZAR OS AUTORES EM DANOS MORAIS. VALOR FIXADO EM R$ 10.000,00 (DEZ MIL REAIS), EM PATAMAR RAZOÁVEL. PRECEDENTES DO TJ/RJ. QUANTO AOS HONORÁRIOS MERECE REFORMA PARCIAL A SENTENÇA. NÃO HÁ COMO DIZER QUE A SUCUMBÊNCIA FOI MÍNIMA NO PRESENTE CASO, PARA JUSTIFICAR A CONDENAÇÃO DOS RÉUS AO PAGAMENTO DAS DESPESAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS. CONSIDERANDO QUE FOI PARCIAL A PROCEDÊNCIA DOS PEDIDOS, E AMBAS AS PARTES FORAM AO MESMO TEMPO VENCEDORAS E VENCIDAS, TAL CIRCUNSTÂNCIA JUSTIFICA A APLICAÇÃO DO ARTIGO 86 DO CÓDIGO DE PROCESSO CIVIL. PROVIMENTO PARCIAL DO RECURSO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 629/634).
+No recurso especial (e-STJ fls. 645/661), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente indicou dissídio jurisprudencial e desrespeito:
+(i) aos arts. 489 e 1.022 do CPC/2015, afirmando haver negativa de prestação jurisdicional, pois a Corte local teria ignorado a necessidade de circunstâncias fáticas excepcionais para justificar os danos morais, no caso de atraso na entrega das chaves, e
+(ii) aos arts. 373, I, do CPC/2015 e 884 do CC/2002, tendo em vista que o mero atraso na entrega da obra não justificaria a condenação por danos morais.
+Foram ofertadas contrarrazões, requerendo o arbitramento de honorários recursais (e-STJ fls. 694/695)
+No agravo (e-STJ fls. 720/728), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada, reiterando o pedido de fixação de honorários recursais (e-STJ fls. 732/733).
+É o relatório.
+Decido.
+Não assiste razão à parte recorrente quanto à tese de negativa de prestação jurisdicional, uma vez que o Tribunal a quo julgou a matéria controvertida, não incorrendo, desse modo, em omissão, contradição ou obscuridade
+A Justiça local justificou adequadamente a incidência dos danos morais (e-STJ fl. 576).
+Ressalte-se que o fato de o julgamento ser contrário aos interesses da parte recorrente não configura nenhum dos vícios do art. 458 do CPC/1973 (atual art. 489, § 1º, do CPC/2015), tampouco é o caso de cabimento dos aclaratórios.
+A fim de sustentar a exclusão dos danos morais, ante o atraso na entrega da obra, a parte recorrente apontou violação dos arts. 373, I, do CPC/2015 e 884 do CC/2002.
+Ocorre que tais dispositivos legais não possuem o alcance normativo pretendido, porque nada dispõem a respeito do dano ou do dever de repará-lo.
+Dessa forma, a fundamentação recursal mostra-se deficiente e atrai, por analogia, a Súmula n. 284/STF.
+Nesse aspecto: AgInt no AgInt no AREsp n. 984.530/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/9/2017, DJe 20/10/2017, e AgInt no REsp n. 1.505.441/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/6/2017, DJe 2/8/2017.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a parte recorrente não se desincumbiu.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
