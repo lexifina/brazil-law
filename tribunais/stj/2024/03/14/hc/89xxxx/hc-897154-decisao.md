@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar, impetrado em favor de CLAUDIONEI COELHO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Autos nº 5001242-08.2021.8.21.0067/RS).
+O recurso apresentado pela defesa foi parcialmente provido por meio de acórdão assim ementado (e-STJ fl. 32-55):
+APELAÇÃO. EXTORSÃO. INSURGÊNCIA DEFENSIVA. SUFICIÊNCIA PROBATÓRIA. CONDENAÇÃO MANTIDA. (..) APENAMENTO. REDIMENSIONADO.
+No que se refere ao apenamento, cabe o redimensionamento da majorante do artigo 158, §1º do CP, para Miguel e Claudionei, pois houve excesso. Houve o aumento máximo, aplicando-se metade, tendo em vista as circunstâncias judiciais desfavoráveis dos réus. No entanto, não restou fundamentado quais seriam essas circunstâncias, já que consideradas na pena-base. A pena de Miguel passa a ser de 15 anos, 6 meses e 20 dias de reclusão e, Claudionei, passa a ser de 7 anos, 9 meses e 10 dias de reclusão, em regime semiaberto. APELO DEFENSIVO DE BERENICE E JOÃO VITOR DESPROVIDOSE PARCIAL PROVIMENTO AOS APELOS DE MIGUELE CLAUDIONEI, PARA REDUZIR AS PENAS.
+A defesa alega, em síntese, ausência requisitos para decretação da custódia preventiva.
+Consta dos autos que o paciente está preso.
+Requer, liminar e definitivamente, o deferimento da ordem para obter a revogação da prisão preventiva.
+É o relatório.
+Decido.
+A matéria relativa à prisão preventiva não foi totalmente apreciada no acórdão impugnado, pois, como afirma o próprio impetrante: "se opôs embargos de declaração para que fosse reavaliada de ofício a prisão cautelar do paciente, ocasião em que tal recurso não foi conhecido." Assim, para não incorrer em supressão de instância, esta Corte não pode conhecer do tema.
+Além disso, a concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que não se verifica de plano na hipótese dos autos, conforme se obtém da fundamentação lançada na origem sobre a controvérsia (e-STJ fls. 51):
+A Defesa afirmou a incompatibilidade da imposição da manutenção da prisão preventiva do réu, em regime prisional mais gravoso, tendo em vista a fixação do regime semiaberto no Acórdão.
+Neste ponto, os embargos de declaração são acolhidos, porém, mantém-se o resultado do julgamento, alterando-se apenas os critérios da prisão preventiva, que deverá ser compatível com o regime prisional fixado. Ou seja, regime semiaberto.
+(..)
+Atendendo os critérios estabelecidos pelo artigo 312 do CPP, é o caso de manutenção da prisão, até mesmo pelo fato do réu ser reincidente. Devendo ocorrer apenas a adequação ao regime fixado.
+Inexiste contrariedade à jurisprudência deste Tribunal na manutenção da prisão preventiva com base em elementos concretos que indicam gravidade concreta que desborda o tipo. (AgRg no HC 801.642/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/2/2023, DJe de 6/3/2023; AgRg no HC 782.464/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023)
+No presente feito, "A prisão preventiva foi adequadamente restabelecida pelo Tribunal estadual dada a gravidade dos fatos apurados, a recidiva do agente, assim como diante da necessidade de se assegurar a conveniência da instrução criminal e a aplicação da lei penal, pois o recorrente descumpriu as medidas cautelares anteriormente aplicadas quando beneficiado com o relaxamento da prisão pelo juiz de primeiro grau, em razão de suposto excesso na instrução do feito." (AgRg no HC 840263 / RJ, RELATOR Ministro RIBEIRO DANTAS, QUINTA TURMA, DATA DO JULGAMENTO 04/12/2023, DATA DA PUBLICAÇÃO/FONTE DJe 11/12/2023)
+No mesmo sentido, é pacífica a jurisprudência desta corte no sentido de que "Não há incompatibilidade entre a fixação de regime semiaberto e o indeferimento do direito de recorrer em liberdade na sentença condenatória, sendo apenas necessária a compatibilização da custódia com o regime fixado (AgRg no HC n. 586.212/BA, Ministro Nefi Cordeiro, Sexta Turma, DJe 26/8/2020).
+Por fim, quanto ao momento da medida, certo é que "(..) A contemporaneidade do decreto de custódia preventiva se verifica da necessidade no momento de sua decretação, ainda que o fato criminoso tenha ocorrido em um período passado. (..)" (AgRg no HC 849475 / MS, RELATOR Ministro MESSOD AZULAY NETO, QUINTA TURMA, DATA DO JULGAMENTO 20/02/2024, DATA DA PUBLICAÇÃO/FONTE DJe 23/02/2024)
+Assim, mostra-se irrelevante o tempo decorrido entre um dos supostos eventos delituosos que possam ser imputados ao paciente e a data do decreto de seu acautelamento preventivo se este se embasar em elementos oportunos atinentes ao marco temporal relativo à sua pronúncia.
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
