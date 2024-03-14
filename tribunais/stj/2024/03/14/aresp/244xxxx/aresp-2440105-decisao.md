@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interposto pelo CASTELATTO LTDA contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, que desafia acórdão assim ementado (e-STJ fl. 278):
+APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. ICMS. DIFAL. ANTERIORIDADE ANUAL E NONAGESIMAL. DEPÓSITOS JUDICIAIS. SENTENÇA ULTRA PETITA.
+1. "As leis estaduais ou do Distrito Federal editadas após a EC 87/15 que preveem o ICMS correspondente ao diferencial de alíquotas nas operações ou prestações interestaduais com consumidor final não contribuinte do imposto são válidas, mas não produzem efeitos enquanto não for editada lei complementar dispondo sobre o assunto" (RE 1.287.019/DF (Tema 1093) Min. Dias Toffoli). A partir da edição da Lei Complementar nº 190/2022, prevendo normas gerais sobre o diferencial de alíquota, portanto, passaram a produzir efeitos de forma imediata as normas estaduais, o que viabiliza a cobrança do imposto a partir de então.
+2. É de ser excluída da decisão a parte que excede do pedido. Hipótese em que a impetrante não requereu o depósito judicial de valores para suspensão da exigibilidade do crédito, razão pela qual sua autorização, na sentença, vai além do pedido. Recurso da impetrante desprovido. Recurso do Estado do Rio Grande do Sul provido em parte.
+Os embargos de declaração foram rejeitados (e-STJ fls. 322/332).
+No recurso especial (e-STJ fls. 361/372), o recorrente aponta violação do art. 927, I e III, do CPC/2015 e do art. 3º da LC 190/2022. Alega que " ..  a instituição da cobrança do tributo por meio da Lei estadual n. 14.804/2015 ocorreu na ausência de lei complementar regulamentadora das normas gerais da exação, não podendo, portanto, ser utilizada como parâmetro de cumprimento da anterioridade tributária anual, que deverá ser efetivamente considerado a partir da publicação da LC 190/2022 para essa finalidade" (e-STJ fl. 369).
+As contrarrazões foram oferecidas.
+O Tribunal de origem não admitiu o apelo extremo, por considerar a controvérsia de natureza eminentemente constitucional e aplicando a Súmula 280 do STF (e-STJ fls. 467/471).
+No agravo em recurso especial (e-STJ fls. 492/496), o agravante impugna os fundamentos da decisão agravada e reitera as razões do recurso.
+A contraminuta foi apresentada.
+O agravo interno interposto contra a decisão que negou seguimento ao recurso extraordinário não foi conhecido (e-STJ fl. 586/588).
+Passo a decidir.
+No caso dos autos, o Tribunal de origem manteve a sentença que denegou o mandado de segurança. Transcrevo os fundamentos do aresto objeto de recurso especial (e-STJ fls. 269/276):
+O Supremo Tribunal Federal, no julgamento do RE 1.287.019, Tema 1093, em repercussão geral, assentou que "A cobrança do diferencial de alíquota alusivo ao ICMS, conforme introduzido pela Emenda Constitucional nº 87/2015, pressupõe edição de lei complementar veiculando normas gerais". Ao declarar a inconstitucionalidade formal das cláusulas primeira, segunda, terceira, sexta e nona do Convênio ICMS nº 93/2015 e reconhecer a invalidade da cobrança da diferença de alíquotas de ICMS, na operação interestadual de venda de mercadoria destinada a consumidor final não contribuinte sem prévia lei complementar, o Supremo Tribunal Federal postergou os efeitos da decisão para o exercício financeiro seguinte ao julgamento, isto é, 1º de janeiro de 2022, "aplicando-se a mesma solução em relação às respectivas leis dos estados e do Distrito Federal, para as quais a decisão deverá produzir efeitos a partir do exercício financeiro seguinte à conclusão deste julgamento (2022)".
+Editou-se, então, a Lei Complementar nº 190, de 4 de janeiro de 2022, "para regulamentar a cobrança do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS) nas operações e prestações interestaduais destinadas a consumidor final não contribuinte do imposto".
+Antes de tudo, cumpre ter presente que a Lei Complementar em apreço não instituiu o diferencial de alíquota na operação interestadual de venda de mercadoria destinada a consumidor final não contribuinte, mas cumpriu sua função de editar normas gerais sobre o tributo.
+É certo, como afirma Humberto Ávila, que "a edição de normas gerais em matéria de legislação tributária constitui o tema mais difícil na descrição do regime jurídico das leis complementares". Na lição do renomado Autor, à luz do art. 146 da Constituição da República, a lei complementar tem três funções:
+ ..
+Efetivamente, a Lei Complementar nº 190/2022 não instituiu nem majorou o diferencial de alíquota devido nas operações interestaduais destinadas a consumidor final não contribuinte, mas apenas estabeleceu normas gerais para a exação.
+No Estado do Rio Grande do Sul, o diferencial de alíquota nas operações interestaduais destinadas a consumidores finais não contribuintes do imposto localizados neste Estado foi instituído pela Lei Estadual nº 14.804, de 29 de dezembro de 2015, posteriormente à edição da Emenda Constitucional nº 87, de 16 de abril de 2015.
+Segundo o artigo 150, III, "b" e "c", da Constituição da República, os Estados não podem cobrar tributos no mesmo exercício financeiro em que publicada a lei que os instituiu ou aumentou ou antes de decorridos noventa dias da publicação a lei que os instituiu ou aumentou. Ou seja, é apenas a lei que institui ou majora o tributo que fica sujeita à observância do princípio da anterioridade.
+Nesse sentido a lição da doutrina:
+ ..
+Como já dito, coube à Lei Estadual nº 14.804, de 29 de dezembro de 2015, instituir o diferencial de alíquota nas operações interestaduais destinadas a consumidores finais não contribuintes do imposto localizados neste Estado. Esta norma, portanto, é a que se sujeita aos princípios da anterioridade anual e nonagesimal, os quais foram devidamente respeitados no momento de sua edição.
+A despeito disto, sua eficácia estava suspensa pela ausência de prévia lei complementar, conforme assentado na Tese 1093 pelo Supremo Tribunal Federal.
+Daí que, com a edição da Lei Complementar 190/2022, as leis estaduais que já haviam instituído o diferencial de alíquota, nas operações interestaduais destinadas a consumidor final não contribuinte do ICMS, passaram a produzir efeitos de forma imediata, conforme consignado pelo Redator do acórdão, Min. Dias Toffoli, no julgamento do RE 1.287.019/DF (Tema1.093), verbis:
+ ..
+Ademais, a produção imediata de efeitos da legislação estadual que institui o diferencial de alíquota de ICMS a partir da edição da Lei Complementar nº 190/2022 não ofende a segurança jurídica nem a legítima confiança, porquanto não houve quebra de expectativa nem surpresa ao contribuinte, já que este tinha conhecimento prévio da sistemática de tributação e dos impactos que esta produziria em sua atividade econômica.
+Nesse sentido, em situação semelhante, já decidiu o Supremo Tribunal Federal no julgamento do RE 1.221.330 - Tema 1094 da Repercussão Geral - em 16 de junho de 2020, em acórdão assim ementado:
+ ..
+No referido julgamento, também se discutia o momento a partir do qual a legislação estadual - que instituíra o ICMS incidente sobre importação efetuada por pessoa que não se dedica habitualmente ao comércio ou à prestação de serviços - produziria efeitos. Igualmente se cuidava de hipótese de prévia edição de normas gerais por lei complementar. E, no aludido caso, o Supremo Tribunal Federal decidiu que a existência de Lei Complementar constituía condição de eficácia, e não de validade, das leis estaduais. Por conseguinte, a partir da superveniência da legislação necessária - lei complementar prevendo normas gerais -, as leis estaduais preexistentes passariam a produzir efeitos imediatos.
+Por pertinente, transcreve-se excerto do voto do Redator do acórdão no julgamento do RE 1.221.330, Min. Alexandre de Moraes:
+ ..
+Ainda, registra-se que, no julgamento da ADI 7066, proposta pela ABIMAQ, o Relator, Ministro Alexandre de Moraes, indeferiu a medida cautelar pelos seguintes fundamentos:
+ ..
+Por fim, registre-se que, embora não submetida à anterioridade, a Lei Complementar nº 190/2022 assegurou, no artigo 3º, uma vacatio legis de noventa dias, verbis:
+"Esta Lei Complementar entra em vigor na data de sua publicação, observado, quanto à produção de efeitos, o disposto na alínea "c" do inciso III do caput do art. 150 da Constituição Federal."
+Assim, tendo em vista que a própria lei previu a produção de efeitos apenas após o decurso de noventa dias da data de sua publicação, também não se verifica risco da cobrança do imposto no período de noventa dias, porquanto ausente legislação eficaz.
+É de ser mantida, portanto, a sentença que denegou a segurança.
+Pois bem.
+Verifica-se que a controvérsia foi dirimida com fundamento constitucional, especificamente com base no art. 150, III, "c", da Constituição Federal, de modo que o recurso especial é inviável quanto ao ponto, sob pena de usurpar-se a competência reservada constitucionalmente ao Supremo Tribunal Federal.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. DIFAL-ICMS. DISCUSSÃO SOBRE A APLICAÇÃO DO PRINCÍPIO DA ANTERIORIDADE NO ÂMBITO DA LEI COMPLEMENTAR N. 190/2022. QUESTÃO DECIDIDA NA ORIGEM COM ENF OQUE EMINENTEMENTE CONSTITUCIONAL E ANÁLISE DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA 280 DO STF.
+1. O Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, matéria insuscetível de ser examinada em sede de recurso especial. Outrossim, da própria fundamentação recursal, verifica-se que, a despeito de haver apontado no apelo raro afronta à legislação federal, o recorrente, em verdade, visa travar discussão com enfoque constitucional.
+2. A demanda exige a análise de dispositivos de legislação local, a saber, Lei Estadual n. 17.470/2021, o que atrai a incidência da Súmula 280/STF.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.363.364/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 30/10/2023, DJe de 6/11/2023.)
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
