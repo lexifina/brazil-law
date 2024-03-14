@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por FUGINI ALIMENTOS LTDA. e FILIAL(IS) contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fls. 319/320):
+APELAÇÃO - MANDADO DE SEGURANÇA ICMS - DIFAL - PRINCÍPIO DA ANTERIORIDADE.
+Impetração objetivando obrigar o Estado de São Paulo a se abster da cobrança correspondente ao Diferencial de Alíquota do ICMS (DIFAL) exigido nas operações interestaduais que tenham como destinatário consumidor final contribuinte do ICMS, conforme ratio decidendi do entendimento firmado pelo STF, no julgamento do Tema 1093 de repercussão geral.
+TESE DO TEMA 1.093 DO STF - A cobrança do diferencial de alíquota alusivo ao ICMS, conforme introduzido pela Emenda Constitucional nº 87/2015, pressupõe edição de lei complementar veiculando normas gerais.
+Invalidade da cobrança, em operação interestadual envolvendo mercadoria destinada a consumidor final não contribuinte, do diferencial de alíquota do ICMS, na forma do Convênio n. 93/2015, ausente lei complementar disciplinadora.
+Ocorre que, no caso, não se aplica o Tema 1.093 do STF, uma vez que o impetrante é contribuinte do imposto, e o Tema 1.093 se refere a consumidor final não contribuinte do imposto.
+O pressuposto para a aplicabilidade da decisão vinculante da Corte Maior é não ser o consumidor final contribuinte do ICMS, o que não é o caso dos autos. Desse modo, o tema de repercussão geral não serve de fundamento para se afastar referida exigência, permanecendo legítima a obrigatoriedade do recolhimento da diferença de alíquota nas operações que envolvem consumidores finais contribuintes (TJSP; Apelação Cível 1012711-26.2021.8.26.0053; Relator (a): Afonso Faro Jr.; Órgão Julgador: 11ª Câmara de Direito Público; Foro Central - Fazenda Pública/Acidentes - 13ª Vara de Fazenda Pública; Data do Julgamento: 18/03/2022; Data de Registro: 18/03/2022).
+Destarte, sem razão a impetrante quando alega que a ratio decidendi da tese de repercussão é aplicável ao presente writ, e muito menos há direito líquido e certo, notadamente porque no julgamento do Tema 1.093 não houve debruçamento sobre tal hipótese, descabendo-se, desta forma, estender o posicionamento adotado pela Corte Suprema.
+Como já anteriormente referido, o STF reconheceu a inconstitucionalidade da cobrança do diferencial de alíquota do ICMS interestadual em relação às operações e prestações destinadas a consumidor final não contribuinte, à mingua de lei complementar regulamentadora, por considerar o Convenio CONFAZ instrumento normativo inadequado a tal desiderato, sendo caso, portanto, de manutenção da denegação da ordem.
+Sentença que denegou a segurança, mantida. Recurso não provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 346/349).
+No recurso especial (e-STJ fls. 353/372), inicialmente, o recorrente alega que "o STF, em sede de RE nº 1.287.019 (Tema 1.093), submetido à sistemática de Repercussão Geral, reiterou o entendimento acima, especialmente no que diz respeito à necessidade de edição de Lei Complementar (que veio a ser a LC 190/22) para que possa haver a cobrança do ICMS-DIFAL nas operações interestaduais, sendo certo que muito embora essa decisão seja específica para o caso de operações com não-contribuintes, suas razões de decidir alcançam também aquelas operações com contribuintes do ICMS por conta do mencionado silêncio contido na LC 87/96 acerca dessa matéria (DIFAL para contribuintes)" (e-STJ fl. 366).
+Em seguida, aponta ofensa ao art. 104 do CTN, defendendo a observância do princípio da anterioridade.
+Por fim, menciona a possibilidade de restituição de créditos relativos aos 5 anos anteriores ao ajuizamento.
+As contrarrazões foram oferecidas.
+O Tribunal de origem não admitiu o apelo extremo por entender ausente violação das normas legais e suficiente a fundamentação do acórdão recorrido, aplicando a Súmula 7 do STJ (e-STJ fl. 467).
+No agravo em recurso especial (e-STJ fls. 470/477), o agravante impugna os fundamentos da decisão agravada e reitera as razões do recurso.
+A contraminuta foi apresentada.
+O Ministério Público Federal opinou pelo conhecimento do agravo para o não conhecimento do recurso especial (e-STJ fls. 515/520).
+Passo a decidir.
+Verifica-se que o acórdão recorrido entendeu, com base em dispositivos constitucionais, que é inaplicável a tese relativa ao Tema 1.093 de repercussão geral decidida pelo Supremo Tribunal Federal segundo a qual "a cobrança do diferencial de alíquota alusivo ao ICMS, conforme introduzido pela Emenda Constitucional n. 87/2015, pressupõe edição de lei complementar veiculando normas gerais", "uma vez que o impetrante é contribuinte do imposto e o Tema 1.093 se refere a consumidor final não contribuinte do imposto" (e-STJ fl. 322).
+Essa fundamentação, porquanto de índole eminentemente constitucional, é insuscetível de revisão em sede recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. DIFERENCIAL DE ALÍQUOTA DE ICMS. CAUSA DECIDIDA COM BASE EM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO INTERPOSTO CONJUNTAMENTE COM O ESPECIAL, NA ORIGEM. INAPLICABILIDADE DO ART. 1.032 DO CPC/2015. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Mandado de Segurança, impetrado pela parte ora agravada, postulando o direito líquido e certo a não se submeter à sistemática de apuração do ICMS-DIFAL, relativamente às operações envolvendo bens do ativo permanente ou material de uso e consumo, destinadas a contribuintes do imposto estadual, bem como seu direito à restituição ou compensação dos valores recolhidos indevidamente, a este título.
+III. O Tribunal de origem decidiu a causa com base em fundamento eminentemente constitucional - além da constitucionalidade do diferencial de alíquotas em operações interestaduais, a observância aos princípios da anterioridade plena e da anterioridade nonagesimal -, de modo que é inviável a apreciação da matéria, em sede de Recurso Especial, sob pena de usurpação de competência do STF.
+Precedentes.
+IV. Na hipótese dos autos, a ora agravante já interpôs Recurso Extraordinário, o que afasta a aplicação do art. 1.032 do CPC/2015, vigente à época da interposição do presente Recurso Especial. Nesse sentido: STJ, AgInt no REsp 1.531.075/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 19/08/2016. Ainda: AgInt no AREsp 862.724/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 06/10/2016.
+V. Agravo interno improvido.
+(AgInt no REsp n. 1.876.748/RS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 11/4/2022, DJe de 19/4/2022.)
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
