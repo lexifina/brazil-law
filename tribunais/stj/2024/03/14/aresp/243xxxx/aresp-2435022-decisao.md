@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por DE CICO SAO CARLOS EMPREENDIMENTOS IMOBILIÁRIOS LTDA. contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 59):
+AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - DECISÃO QUE REJEITA A ALEGAÇÃO DE ILEGITIMIDADE PASSIVA DO ALIENANTE DO IMÓVEL - AUSÊNCIA DE DEMONSTRAÇÃO DA TRANSFERÊNCIA DA PROPRIEDADE NO CARTÓRIO DE REGISTRO DE IMÓVEIS - POSSIBILIDADE DE COBRANÇA DO TRIBUTO CONCOMITANTEMENTE EM FACE DO COMPROMISSÁRIO COMPRADOR E DO COMPROMISSÁRIO VENDEDOR - INTELIGÊNCIA DO ARTIGO 34 DO CTN - PRECEDENTE DO STJ EM SEDE DE RECURSO REPETITIVO E DESTA COL. CÂMARA DE DIREITO PÚBLICO - DECISÃO MANTIDA - RECURSO NÃO PROVIDO.
+No recurso especial (e-STJ fls. 69/82), o recorrente alega "afronta ao artigo 3º, parágrafo único, da Lei nº 6.830, de 1980; Súmula nº 393 do STJ; artigo 156, inciso I, da Constituição Federal; artigo 32 e 34, do Código Tributário Nacional; artigos 1.196 e 1.204 do Código Civil; e artigos 85º, §§2º e 11 do Código de Processo Civil" (e-STJ fl. 71). Aduz, em síntese, que "resta nitidamente comprovada a ilegitimidade passiva da recorrente, cabendo ao recorrido exigir seu crédito dos compromissários compradores, que se encontram na posse do aludido bem, com animus definitivo, tornando-se responsáveis pelos tributos que vierem a recair sobre o imóvel em questão" (e-STJ fls. 75/76).
+As contrarrazões foram oferecidas.
+O Tribunal de origem negou seguimento em parte ao recurso especial com base em orientação firmada em recurso repetitivo (T ema 122). No mais, não admitiu o apelo extremo, entendendo que o recurso é incabível quanto à violação de dispositivo constitucional, que carece de prequestionamento e que incide o óbice previsto na Súmula 7 do STJ (e-STJ fls. 98/101).
+No agravo em recurso especial (e-STJ fls. 104/119), o agravante basicamente reitera as razões do recurso.
+A contraminuta não foi apresentada.
+O agravo interno interposto contra a mencionada decisão foi desprovido (e-STJ fls. 139/143).
+Passo a decidir.
+Do que se observa, o Tribunal de origem negou seguimento em parte ao recurso especial ao fundamento de que o acórdão recorrido está em sintonia com precedente obrigatório desta Corte Superior.
+Destacou que o acórdão recorrido está em consonância com a orientação segundo a qual "tanto o promitente comprador (possuidor a qualquer título) do imóvel quanto seu proprietário/promitente vendedor (aquele que tem a propriedade registrada no Registro de Imóveis) são contribuintes responsáveis pelo pagamento do IPTU" e que "cabe à legislação municipal estabelecer o sujeito passivo do IPTU" (Tema 122 do STJ).
+Ocorre que, de acordo com o disposto no art. 1.030, § 2º, do CPC/2015, é cabível agravo interno contra a decisão que nega seguimento a recurso especial interposto contra acórdão que está em conformidade com o entendimento do STJ exarado no julgamento de recursos repetitivos. Confira-se:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+ ..
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+Esse agravo interno é a sede própria para se demonstrar eventual falha na aplicação de tese firmada no paradigma repetitivo em face da realidade do processo.
+Em razão dessa previsão normativa, é firme o entendimento desta Corte no sentido de que é incabível o agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo, publicada a partir de 18 de março de 2016, quando entrou em vigor o CPC/2015.
+Frise-se que, no contexto dos autos, a menção na decisão a quo sobre existência de outros óbices à admissibilidade do recurso especial, porquanto relacionados com o mesmo capítulo do recurso especial ao qual foi negado seguimento com fundamento em aresto repetitivo, não guardam autonomia a justificar o cabimento do agravo dirigido para esta Corte Superior.
+Por fim, o tema relativo aos honorários advocatícios referenciado na decisão de admissibilidade é estranho ao processo, não tendo sido veiculado no recurso especial.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
