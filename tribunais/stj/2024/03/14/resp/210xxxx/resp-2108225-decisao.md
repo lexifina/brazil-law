@@ -1,0 +1,15 @@
+DECISÃO
+R2 SERVIÇOS DE APOIO ADMINISTRATIVO LTDA. interpôs recurso extraordinário contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - Execução Fiscal - Rejeição de Exceção de Pré-executividade - Alega ser indevida a inclusãoda contribuição ao PIS e da COFINS na basede cálculo do ICMS - Crédito tributário constituído regularmente - Ausência de nulidades - Decisão mantida - Recurso desprovido.
+Nas suas razões, a empresa, apontando infringência dos arts. 155, II, e 191, I, "a", da Constituição Federal e ao art. 8º da LC n. 87/1996, sustentou a inconstitucionalidade e a ilegalidade da inclusão das contribuições PIS e COFINS na base de cálculo do ICMS.
+Ao examinar o agravo em recurso extraordinário (ARE 1462844/SP), o em. Ministro Cristiano Zanin, compreendendo ser a controvérsia suscitada de natureza infraconstitucional, determinou a sua remessa para esta Corte Superior, para julgamento como recurso especial.
+Passo a decidir.
+Na sessão virtual de julgamento iniciada em 22/11/2023 e finalizada em 28/11/2023, a Primeira Seção do STJ decidiu afetar à sistemática dos recursos repetitivos os REsps 2.091.202/SP, 2.091.204/SP, 2.091.205/SP e o 2.091.203/SP, em que se discute a questão atinente à legalidade da inclusão do PIS e da COFINS na base de cálculo do ICMS (Tema 1223 do STJ).
+Destaco da certidão de julgamento:
+A PRIMEIRA SEÇÃO, por unanimidade, afetou o processo ao rito dos recursos repetitivos (RISTJ, art. 257-C) para delimitar a seguinte tese controvertida: "Legalidade da inclusão do PIS e da Cofins na base de cálculo do ICMS." e, igualmente por unanimidade, determinou a suspensão dos recursos especiais ou agravos em recursos especiais em segunda instância e/ou no STJ fundados em idêntica questão de direito (observada a orientação do art. 256-L do RISTJ), conforme proposta do Sr. Ministro Relator.
+Na ocasião, conforme se pode depreender da certidão, foi determinada a suspensão dos recursos especiais ou agravos em recursos especiais em segunda instância e/ou no STJ fundados em idêntica questão de direito (observada a orientação do art. 256-L do RISTJ).
+Encontrando-se o tema afetado à sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado a esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO A DEVOLUÇÃO DOS AUTOS ao Tribunal de origem, com a respectiva baixa, para que, após a publicação dos acórdãos a serem proferidos quando do julgamento do Tema 1. 223 do STJ, proceda ao juízo de conformação previsto no art. 1.040 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
