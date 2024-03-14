@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fl. 519):
+AÇÃO DE OBRIGAÇÃO DE FAZER E DECLARATÓRIADE EXTINÇÃO DE OBRIGAÇÃO DE PAGAR TAXA. Ação contra associação de proprietários de loteamento. Sentença de improcedência. Apelante que contribui com a taxa associativa desde a aquisição do lote em 2002. Pedido de desassociação posterior à Lei 13.465/17. Ineficácia. Comprovada utilização dos benefícios implantados pela associação. Precedente desta Câmara. Sentença mantida. RECURSO NÃO PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 539/541).
+Em suas razões (e-STJ fls. 524/533), a parte aponta dissídio jurisprudencial e violação da lei federal.
+Alega que "o tema foi elencado em diversas oportunidades e também não houve providências a respeito, sendo as decisões proferidas completamente omissas e evidenciando a ausência de prestação jurisdicional, que em nada falaram sobre as demais ausências de provas que deixaram de ser produzidas.  ..  Diante da evidente ausência de prestação jurisdicional, o veneran do acórdão é absolutamente nulo, devendo a presente demanda ter sua decisão reformada julgando totalmente procedente.  ..  Desse modo, temos que a recorrente se ficou impossibilitado de se desincumbiu do ônus probatório, o que direcionaria a procedência da demanda, nos termos do inciso I do artigo 373 do Código de Processo Civil. Contudo, não fora apreciado nos autos.  ..  O presente recurso foi interposto com base no artigo 105, inciso III, alínea "c", da Constituição Federal, sendo seus pressupostos de admissibilidade: a existência de uma causa decidida pelo Tribunal do Estado de São Paulo e que o Acórdão proferido deu a lei federal interpretação divergente da que lhe haja atribuído outro tribunal.  ..  Ocorre que a recorrente demonstrou e expos de forma analiticamente a divergência jurisprudencial havida entre os julgados dos Tribunais que trouxe à baila. Como se pode verificar, faltam requisitos essenciais ao Recurso Especial interposto pela recorrente.  ..  E, novamente, não obtendo êxito, sobreveio o v. acórdão, não provendo o recurso interposto.  ..  Como bem observado pelo Ilustre Juiz, a sentença deverá ser reformada pelos seus próprios fundamentos. Assim e com base nas razões de direito já expendidas, protesta a recorrente pela reformada do julgado" (e-STJ fls. 531/532).
+Contrarrazões apresentadas (e-STJ fls. 545/555).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+O recurso não merece ser admitido.
+A parte não indica quais dispositivos de lei federal teriam sido violados e não faz a demonstração do cabimento do recurso especial, conforme o art. 1.029 do CPC, o que caracteriza deficiência na fundamentação recursal. De igual modo, o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente, bem como a comprovação do dissídio, mediante o cotejo analítico entre o acórdão recorrido e o paradigma. Aplicável a Súmula n. 284 do STF.
+Ante o exposto, NÃO CONHEÇO do recurso.
+Publique-se e intimem-se.
+EMENTA
