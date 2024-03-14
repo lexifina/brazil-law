@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se  de  agravo de ANGELO TONON NETO, com o qual objetiva admissão  de  recurso especial interposto  contra  acórdão  do TJRS assim  ementado:
+AGRAVO DE INSTRUMENTO. DIREITO TRIBUTÁRIO. REDIRECIONAMENTO DA EXECUÇÃO FISCAL AO SÓCIO. CABIMENTO. REQUISITOS DO ART. 135 DO CTN. VERIFICAÇÃO. SÚMULA 7/STJ. PRECEDENTES.
+O redirecionamento da execução fiscal para o sócio-gerente da empresa é cabível quando demonstrado que este agiu com excesso de poderes, infração à lei ou ao estatuto, ou no caso de dissolução irregular da empresa, não se incluindo o simples inadimplemento de obrigações tributárias. Na hipótese, ademais, evidenciado grupo econômico.
+RECURSO DESPROVIDO.
+No  especial,  a  parte  alega  violação  dos  arts. 489 e 1.022 do CPC/2015.
+Sustenta a existência de vício de integração no acórdão.
+Aduz que o acórdão foi omisso quanto aos fatos e provas apresentadas nos autos. Defende que o contexto fático e probatório dos autos aponta para o redirecionamento da execução fiscal em razão da dissolução irregular da sociedade executada e não pela formação do grupo econômico como afirmado no acórdão.
+Argumenta, ainda, que os fatos e provas carreados na origem indicam que, contrariamente ao afirmado pela Corte de origem, o redirecionamento pela formação do grupo econômico se deu não pela existência de confusão patrimonial, mas apenas em razão dos vínculos familiares entre os sócios das empresas.
+O recurso especial foi inadmitido por ausência de negativa de prestação jurisdicional, fundamento atacado no agravo.
+Passo a decidir.
+O apelo nobre se origina de agravo de instrumento interposto contra decisão de redirecionamento da execução fiscal em que se questiona a inexistência de dissolução irregular da sociedade executada, não havendo fundamento para a responsabilização pessoal de seus sócios.
+O Tribunal gaúcho negou provimento ao agravo de instrumento ao argumento de que o redirecionamento da execução fiscal se deu, tanto em face das demais sociedades responsabilizadas como em face do sócio, em razão da formação de grupo econômico, sendo impertinente a discussão quanto à existência ou não da dissolução irregular da sociedade executada.
+Opostos embargos de declaração, foram eles rejeitados.
+Pois bem.
+Inicialmente, inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional. A esse respeito, vide: AgInt no REsp 1.949.848/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 13/12/2021, DJe 15/12/2021; AgInt no AREsp 1901723/PE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 07/12/2021, DJe 10/12/2021; AgInt no REsp 1813698/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 06/12/2021, DJe 09/12/2021; AgInt no AREsp 1860227/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 22/11/2021, DJe 10/12/2021.
+Feita essa consideração, verifica-se que, na hipótese, não há falar em negativa de prestação jurisdicional, pois a fundamentação contida no julgado a quo, apoiada em interpretação dos fatos, é clara ao expressar o entendimento de que o redirecionamento da execução fiscal, tanto em face das demais sociedades empresárias, quanto em face do sócio, se deu em razão da existência de grupo econômico formado com o intuito de blindar o patrimônio da executada, estando caracterizada a confusão patrimonial entre as sociedades e o sócio, de modo que é desinfluente a discussão quanto à existência ou não da dissolução irregular da sociedade executada .
+Importa salientar que eventual equívoco na compreensão das provas produzidas não caracteriza vício de integração (error in procedendo), a infirmar a validade do julgado, mas erro de julgamento (error in judicando), insuscetível de revisão pela via dos embargos de declaração e, por conseguinte, não ensejador de declaração de nulidade do acórdão embargado por suposta ofensa ao art. 1.022 do CPC/2015.
+  Ante  o  exposto,  com  base  no  art.  253,  parágrafo  único,  II,  "b",  do  RISTJ,  CONHEÇO  do  agravo  para  NEGAR  PROVIMENTO  ao  recurso  especial.
+Publique-se. Intimem-se.
+EMENTA
