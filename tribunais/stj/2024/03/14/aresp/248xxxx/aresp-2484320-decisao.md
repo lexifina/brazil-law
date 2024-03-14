@@ -1,0 +1,17 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por SAO FRANCISCO SISTEMAS DE SAUDE SOCIEDADE EMPRESA RIA LIMITADA, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a" , da Constituição Federal.
+Ação: de obrigação de fazer em fase de cumprimento de sentença, ajuizada por C G DE O em face da agravante.
+Acórdão: negou provimento ao agravo de instrumento interposto pela parte agravante, nos termos da seguinte ementa:
+PLANO DE SAÚDE- Cumprimento provisório de sentença- Ação julgada procedente para condenar a ré a fornecer, custear, autorizar o tratamento completo prescrito pelo médico, em regime de home care, ainda que em outra cidade ou comarca, incluindo os atendimentos de cardiopediatria, neuropediatria e gastropediatria, sob pena de multa diária - Incidente instaurado para cobrança das astreintes fixadas bem como bloqueio de valores para custeio do tratamento ante o descumprimento da ordem - Cabimento - Agravante que insiste em rediscutir questões já analisadas e decididas em sede de ação de conhecimento - Recorrente, ademais, que não comprovou nem justificou a falta de cumprimento da ordem judicial até o momento- Bloqueio de valores efetivado para custeio do tratamento indicado ao autor ante o não cumprimento da ordem pela ré - Prestação de caução para levantamento dos valores que é medida incompatível uma vez que o bloqueio foi deferido com vistas a promover o cumprimento da ordem - Agravado, ademais, que não tem condições financeiras de arcar com o tratamento indicado com recursos próprios, tanto que ingressou com a ação, não tendo condições, da mesma forma, de prestar caução para liberação do valor bloqueado para viabilizar o tratamento - Agravo de instrumento desprovido, prejudicado o interno.
+Decisão de admissibilidade do TJ/SP: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i) não foi demonstrada a violação dos arts. 520, IV, 536, §1º e 537 do CPC; e
+ii) incidência da Súmula 7/STJ.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que demonstrou as apontadas ofensa a dispositivos de lei federal, e reitera a alegação de violação aos arts. 520, IV, 536, §1º e 537 do CPC, ao fundamento da falta de previsão legal de penhora de ativos financeiros como medida coercitiva, além da necessidade de previsão de grave dano ao executado.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade da Súmula 7/STJ, haja vista que nada disse sobre o óbice.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
