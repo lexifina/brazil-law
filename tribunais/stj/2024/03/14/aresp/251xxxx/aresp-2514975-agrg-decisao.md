@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo regimental interposto por PAULO RODRIGUES MARINHO contra decisão monocrática da lavra do Ministra Presidente MARIA THEREZA DE ASSIS MOURA, que não conheceu do agravo, em razão da incidência da Súmula n. 182/STJ (e-STJ fls. 115/116).
+Em seu agravo regimental (e-STJ fls. 123/130), a parte recorrente alega que impugnou os fundamentos da decisão agravada.
+Manifestação do Ministério Público Federal, às e-STJ fls. 147/150, pelo não provimento do agravo regimental.
+Verifica-se que os argumentos aduzidos nas razões de agravo regimental revelam-se plausíveis, o que impõe a reconsideração da decisão agravada.
+Trata-se de agravo interposto em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado do Tocantins, cuja ementa é a seguinte (e-STJ fls. 45):
+AGRAVO EM EXECUÇÃO PENAL. CUMPRIMENTO DA PENA EM PRISÃO DOMICILIAR. AUSÊNCIA DE ELEMENTOS COMPROBATÓRIOS MÍNIMOS A JUSTIFICAR A CONCESSÃO DE MEDIDA EXCEPCIONAL. DECISÃO MANTIDA. RECURSO CONHECIDO E IMPROVIDO. 1. Em que pese a existência de precedentes do STJ permitindo o cumprimento definitivo de pena em prisão domiciliar, mesmo diante de regime semiaberto fixado, trata-se de situação excepcional, que deve ser devidamente demonstrada e justificada nos autos, fato este não presente no processo originário. 2. Recurso conhecido e improvido
+Nas razões do recurso especial (e-STJ fls. 6/61), fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação dos artigos 122, inciso III, e 197 da Lei nº 7.210/84. Sustenta a concessão de prisão domiciliar ao reeducando ou, subsidiariamente, flexibilização do horário de entrada e saída dos pernoites do regime semiaberto da Unidade de Paraíso do Tocantins, uma vez que mora em Divinópolis e tem enfrentado dificuldades para se deslocar diariamente para pernoitar na Unidade prisional, pois trabalha na roça, durante o dia, para prover o sustento de sua família.
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+Sabe-se que esta Corte Superior de Justiça tem entendimento no sentido de que, embora o art. 117 da LEP estabeleça como requisito para a concessão de prisão domiciliar o cumprimento da pena no regime prisional aberto, é possível a extensão do benefício aos condenados recolhidos no regime fechado ou semiaberto desde que configurada a excepcionalidade do caso concreto, com demonstração da imprescindibilidade da medida, o que não ocorreu na espécie.
+O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, não emergiram elementos suficientes para a concessão da prisão domiciliar, conforme trecho abaixo (e-STJ fls. 39):
+Nos presentes autos, o reeducando pode perfeitamente residir em Paraíso do Tocantins e ali buscar realizar sua atividade profissional, em local mais próximo à unidade prisional.
+Por mais que reste o dissabor para ao apenado em deslocar-se da sua propriedade rural para a unidade prisional, a natureza da pena imposta requer justamente o cerceamento da liberdade ampla, construindo-se o sopesar de consciência sobre quais os valores pessoais e sociais devem preponderar e a conduta correspondente, para que se opere o caráter corretivo e intimidatório.
+Assim, à míngua de elementos de convicção concretos, o presente pleito deve ser negado.
+Assim, rever os fundamentos utilizados pela Corte Estadual, para concluir pelo deferimento do pedido, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+No mais, a questão acerca da flexibilização do horário de entrada e saída dos pernoites do regime semiaberto da Unidade de Paraíso do Tocantins não foi objeto de debate pela instância ordinária, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento. Incide ao caso a Súmula n. 282/STF.
+Ante o exposto, reconsidero a decisão de e-STJ fls. 115/116 e, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea "a", parte final do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
