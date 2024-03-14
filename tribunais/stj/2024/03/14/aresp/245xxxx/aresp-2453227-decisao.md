@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu recurso especial, porquanto incidente a Súmula n. 7/STJ.
+O agravante foi condenado a 1 ano de detenção, e 3 anos de reclusão, e 20 dias-multa, em regime inicial aberto, nos termos dos arts. 28 da Lei n. 11.343/2006 e 12 e 16 da Lei n. 10.826/2003, na forma do art. 69 do Código Penal.
+No recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, alegou o recorrente, ora agravante, ofensa aos arts: a) 150, I, do CP, ao argumento de que é nula a busca e apreensão realizada no período noturno, notadamente diante da inviolabilidade do domicílio; b) 240 do CPP, porquanto o mandado de busca a apreensão era destinado à procura de armas para fins de perícia em processo criminal; c) 119 do CPP, pois as armas apreendidas deveriam ter sido restituídas ao agravante; e d) 4º, § 1º, do Decreto n. 9846/2019 c/c Decreto-Lei n. 667/1969, defendendo que não há falar em crime de posse ilegal de arma de fogo, uma vez que o agravante, na condição de policial militar do Distrito Federal possuía autorização para a sua guarda.
+Requereu, ao final, o provimento do especial para (fl. 528):
+ ..  1) reconhecer A NULIDADE DA PROVA OBTIDA A PARTIR DO ADENTRAMENTO NO IMÓVEL DO RÉU, EM PERÍODO NOTURNO, ensejando em violabilidade de domicílio;
+2) reconhecer a nulidade da busca e apreensão ante ao mandado genérico, com a consequência ausência de materialidade delitiva, absolvendo o réu da imputação que lhe foi feita pela Justiça Pública, nos termos do 386, I, do CPP;
+3) Seja reformada a sentença e o acórdão que a confirmou, no que tange ao crime de posse ilegal de arma de fogo (munições), para absolver o sentenciado, conforme fundamentação supra, ante a ausência de TIPICIDADE MATERIAL.
+4) Seja reformada a sentença e o acórdão que a confirmou, no que tange a perda de bens lícitos apreendidos, de propriedade do recorrente, vez que nenhum deles é objetos de crime e nem adquiridos com proveitos de crimes. ..
+Manifestou-se o Ministério Público Federal "pela inadmissibilidade do habeas corpus e, no mérito, pela denegação da ordem" (fl. 693).
+A parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a impossibilidade de incidência da Súmula n. 7/STJ.
+No caso, deveria o agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão recorrido.
+Ademais, a defesa se limitou a reafirmar os argumentos do recurso especial não admitido, sem, contudo, demonstrar a prescindibilidade de revolvimento fático-probatório para análise das pretensões defensivas.
+Logo, a ausência de impugnação específica impede o conhecimento do agravo, cujo propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso especial, atraindo, por analogia, o enunciado da Súmula n. 182/STJ. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. AUTORIA DELITIVA. ENUNCIADO Nº 7 DA SÚMULA DO STJ. DEFICIÊNCIA NA IMPUGNAÇÃO À DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. ENUNCIADO Nº 182 DA SÚMULA DO STJ. AUSÊNCIA DO COTEJO ANALÍTICO DO DISSÍDIO JURISPRUDENCIAL.
+1. Não se admite o recurso quando a petição de agravo em recurso especial é uma repetição daquilo que já constava na anterior petição de recurso especial, e não foram devidamente impugnados os óbices recursais apontados pelo Tribunal de origem, o que atrai o enunciado nº 182 da Súmula do STJ.
+2. Inviável a análise da autoria do crime de tráfico de drogas, por meio do recurso especial, quando as instâncias ordinárias apontaram fundamentação válida para a condenação, o que atrai o óbice do enunciado nº 7 da Súmula do STJ, haja vista que esta Corte Superior não é uma espécie de terceira instância revisional, mas sim um tribunal que tem a excepcional finalidade constitucional de uniformizar o entendimento sobre a Lei Federal.
+3. O recurso especial é deficiente quando, por falha técnica, é fundamentado no art. 105, inc. III, alínea c, da Constituição Federal, e não consta na peça processual o necessário cotejo analítico do dissídio jurisprudencial.
+2. Agravo regimental improvido. (AgRg no AREsp n. 2.411.314/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 27/2/2024, DJe de 6/3/2024.)
+"A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso, nos termos do que dispõe a Súmula 182 do STJ." (AgRg no AREsp n. 2.420.101/PA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/2/2024, DJe de 1/3/2024).
+Ante o exposto, não conheço o agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
