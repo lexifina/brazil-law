@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto por BUNGE AÇUCAR E ENERGIA S/A contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+AGRAVO DE INSTRUMENTO AÇÃO DE COBRANÇA SENAI CONTRIBUIÇÃO ADICIONAL. 1. ILEGITIMIDADE ATIVA AD CAUSAM Inocorrência Compete ao SENAI a cobrança da contribuição adicional que o beneficia. 2. SOBRESTAMENTO DO FEITO, em virtude do Tema n.º 1.079 do Superior Tribunal de Justiça Descabimento A matéria afetada, segundo a sistemática dos recursos repetitivos, é diversa da ora analisada Confirmação da decisão agravada Recurso não provido.
+Opostos embargos de declaração, foram rejeitados.
+A parte recorrente alega, em síntese (fls. 155/193):
+A parte do v. acórdão desfavorável à Recorrente e ora guerreada, deixou de examinar questões essenciais para o deslinde da ação, mesmo contra a apresentação dos Embargos de Declaração, contrariando os arts. 11, 485, IV, V, VI, § 3º; 489, I, II, III; 490, 783, 803, I, 1.022, I, II, do Código de Processo Civil; Lei Complementar 73, de 1992 nos arts. 12, I e II; os arts. 142, 196, 198, 201, 202, do CTN; os arts. 2º, §§ 5º, III e 6º, da Lei 6.830/80, o art. 4º, parágrafo único da Lei 6.950, de 1981 e os arts. 1º, 2º, 3º, 25, as Lei  11.457, de 2007, dos arts. 11, §§ 2º, 3º, 4º e 49, do Decreto 57.375/65
+Com contrarrazões da parte contrária, o recurso não foi admitido porque seu conhecimento encontraria óbice na Súmula 7 do STJ, o que deu ensejo à interposição do Agravo em Recurso Especial, no qual a parte defende a necessidade de conhecimento do especial.
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+A Primeira Seção deste Tribunal Superior decidiu afetar o REsp 1.898.532/CE e o Resp 1.905.870/PR à sistemática dos recursos repetitivos para o fim definir "se o limite de 20 (vinte) salários-mínimos é aplicável à apuração da base de cálculo de contribuições parafiscais arrecadadas por conta de terceiros, nos termos do art. 4º da Lei n. 6.950/1981, com as alterações promovidas em seu texto pelos arts. 1º e 3º do Decreto-lei n. 2.318/1986" (Tema 1.079).
+É o caso dos autos, pois o produto da arrecadação da contribuição social (da União Federal) é destinada ao Senai (terceiro).
+Nesse contexto, os autos devem retornar ao Tribunal de Justiça para que o recurso fique sobrestado até o exercício do juízo de conformação pelo órgão julgador a quo com a tese a ser definida pela Primeira Seção nos precedentes qualificados.
+Ante o exposto, determino a devolução dos autos ao Tribunal de Justiça do Estado de São Paulo, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia, o recurso especial: a) tenha seguimento negado, na hipótese de o acórdão recorrido coincidir com a tese definida pela Primeira Seção; ou b) seja, novamente, examinado, caso dela divirja (arts. 1039, 1040, incs. I e II, e 1041 do CPC/2015). Ficam prejudicados o agravo em recurso especial e o recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. TESE A SER DEFINIDA NA SISTEMÁTICA DOS RECURSOS REPETITIVOS. SOBRESTAMENTO. DEVOLUÇÃO DOS AUTOS À ORIGEM.
