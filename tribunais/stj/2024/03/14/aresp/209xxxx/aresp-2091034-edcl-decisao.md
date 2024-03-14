@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão proferida no recurso especial interposto por PARANAMOTOR S/C LTDA. (PARANAMOTOR), assim ementado:
+AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. RAZÕES DA INADMISSIBILIDADE. NÃO IMPUGNAÇÃO. ART. 932 DO CPC. AGRAVO NÃO CONHECIDO. (e-STJ, fl. 894)
+Nas razões do presente inconformismo, PARANAMOTOR alega que (1) descabida a aplicação dos óbices das Súmulas nºs 5 e 7/STJ.
+É o relatório.
+A irresignação não merece prosperar.
+De acordo com a jurisprudência desta Corte, o erro material é aquele aferível prima facie, mostrando-se, de imediato, o descompasso entre o pensamento do julgador e a sua manifestação no pronunciamento judicial (EDcl nos EREsp n. 1.213.143/RS, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 8/2/2023, DJe de 13/2/2023).
+Já a contradição e/ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Quanto à omissão que enseja o oferecimento de embargos de declaração é aquela que consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do CPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do CPC).
+Verifica-se que devidamente esclarecidas as razões de decidir, assim como dirimidos e devidamente esclarecidos todos os pontos levantados no especial. Confira-se:
+O agravo é espécie recursal não comporta conhecimento.
+O recurso especial não foi admitido com base nos seguintes fundamentos:
+É inverificável a apontada ofensa ao artigo 1.022, II, do Código de Processo Civil, porquanto o Recorrente, quando opôs os Embargos de Declaração, intencionou, por intermédio de argumentos transversos, rediscutir questões que foram devidamente dirimidas.
+ ..
+No mérito, observa-se que a questão afeita a interrupção do prazo prescricional, o v. acórdão fundamentou que:
+ ..
+Resta claro que para rever o posicionamento adotado, seria necessário revolver questão fática-probatória, bem como analisar o instrumento contratual debatido nos autos, condutas vedadas pelas súmulas 5 e 7 do Superior Tribunal de Justiça:
+ ..
+Nesse mesmo viés, a alegada divergência jurisprudencial esbarra nas referidas súmulas, pois cumpre destacar que "A incidência da Súmula 7 do Superior Tribunal de Justiça impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual o Tribunal de origem deu solução à causa" (AgInt no AREsp 1145361/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 12/02/2019, DJe 19/02/2019). (e-STJ, fls. 827/829)
+Observe-se que PARANAMOTOR não impugnou todos os fundamentos da decisão agravada, pois não refutou, especificamente, a impossibilidade de análise do alegado dissídio jurisprudencial em razão da incidência da Súmula nº 7 do STJ, bem como as razões de sua aplicação.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo em recurso especial, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao recurso.
+O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida nos arts. 932, III, do CPC e 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente. Assim, não tendo o recurso impugnado especificamente os fundamentos da decisão recorrida, é o caso de incidir o art. 932, III, do CPC. (e-STJ, fls. 895/896)
+Observa-se, dessa forma, que não foi demonstrado nenhum dos vícios na decisão embargada a ensejar a oposição dos embargos de declaração, porquanto a fundamentação adotada na decisão é clara e suficiente para respaldar a conclusão alcançada. Esse, inclusive, é o posicionamento desta Corte, a saber:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO NÃO VERIFICADA. PLANO DE SAÚDE. PACIENTE PÓS-CIRURGIA BARIÁTRICA. DOBRAS DE PELE. CIRURGIAS PLÁSTICAS. NECESSIDADE. CARÁTER FUNCIONAL E REPARADOR. NÃO ESTÉTICO. DEVER DE COBERTURA. CONSONÂNCIA COM O ENTENDIMENTO DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Nos termos da jurisprudência desta Corte, a pretensão de reforma da decisão não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do NCPC.
+3. Esta Corte de Justiça já teve a oportunidade de perfilhar o entendimento de que, tendo sido o segurado em tratamento de obesidade mórbida, com cobertura da seguradora, submetido à cirurgia bariátrica, deve a operadora do plano de saúde arcar com os tratamentos necessários e complementares ao referido ato cirúrgico, destinados à cura da patologia (AgRg no AREsp 583.765/MG, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 19/5/2015, DJe de 22/6/2015).
+4. Agravo interno não provido.
+(AgInt no AREsp 1.656.178/SP, de minha relatoria, Terceira Turma, j. em 24/08/2020, DJe 27/08/2020)
+Nesse sentido, é forçoso reconhecer que a parte pretende, na verdade, o rejulgamento da causa.
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do CPC.
+Nessas condições, REJEITO os embargos de declaração.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. NÃO CONFIGURAÇÃO. REJEIÇÃO.
