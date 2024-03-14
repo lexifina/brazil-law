@@ -1,0 +1,18 @@
+DECISÃO
+Chamo  o  feito  à  ordem.
+Cuida-se  de  recurso  em  mandado  de  segurança,  interposto  com  fulcro  no  art.  105,  inciso  II,  "b",  da  Constituição  Federal  e  no  art.  1.027,  II,  "a",  do  Código  de  Processo  Civil,  apresentado  por  AUTO CENTER IAVE SHAMA LTDA E OUTROS,  contra  acórdão  proferido  pelo  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DE  SÃO  PAULO .
+Após análise do feito,  a  decisão  proferida  às  fls.  304/305  concluiu  pelo  não  conhecimento  do  feito  em  razão  de  sua  intempestividade,  nos  seguintes  termos:
+Verifica-se  que  a  parte  recorrente  foi  intimada  do  acórdão  recorrido  em  06/12/2023,  sendo  o  recurso  em  mandado  de  segurança  interposto  somente  em 14/01/2021.
+O  recurso  é,  pois,  manifestamente  intempestivo,  porquanto  interposto  fora  do  prazo  de  15  (quinze)  dias  corridos,  nos  termos  do  do art. 33 da Lei n. 8.038/90 e do art. 1.003, § 5º, do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+O  recorrente  apresentou  agravo regimental  às  fls.  310/318.
+É,  no  essencial,  o  relatório.  Decido.
+Inicialmente,  verifica-se  que  a  decisão  que  julgou  intempestivo  o  recurso  em  mandado  de  segurança  incorreu  em  erro  material  ao  considerar  a  interposição  do  recurso  na  origem  em  14/1/2021.  No  entanto,  conforme  se  verifica  do  protocolo  do  recurso  às  fls.  118,  este  foi  interposto  24/1/2024.
+Assim, sanado  o  vício  processual,  corrigível  de  ofício,  reconhecendo a interposição do recuso em mandado de segurança na data de 24/1/2024, resta intempestivo  o  recurso  em  análise.  Vejamos:
+A  publicação  do  acórdão  recorrido  ocorreu  em  06/12/2023  (fl.  113).  Iniciada  a  contagem  do  prazo  recursal  no  dia  07/12/2023,  expirou-se  em  22/01/2024  o  prazo  para  interposição  do  recurso.
+Frize-se que "a suspensão do curso dos prazos processuais prevista no art. 220 do Código de Processo Civil/2015 não incide sobre os processos de natureza penal, pois estes estão submetidos ao regramento disposto no art. 798, caput e § 3º, do Código de Processo Penal. A continuidade dos prazos processuais penais é afirmada, no caso, pelo princípio da especialidade". (EDcl no AgRg nos EDcl no AREsp 1528027/ES, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/3/2020.)
+Além disso, de acordo com a regra do art. 798, caput e § 3º, do Código de Processo Penal, de que os prazos processuais penais são contínuos e peremptórios, não se interrompendo em virtude de férias, domingo ou dia feriado, "o recesso judiciário e o período de férias coletivas, em matéria processual penal, têm como efeito, em relação aos prazos vencidos no seu curso, a mera prorrogação do vencimento para o primeiro dia útil subsequente ao seu término, não havendo interrupção ou suspensão". (AgRg no AREsp 1481251/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 10/9/2019.)
+Assim,  é  manifestamente  intempestivo  o  recurso  interposto  em  24/1/2024,  porquanto  interposto  fora  do  prazo  recursal  de  15  (quinze)  dias  úteis,  nos  termos  do  art.  33  da  Lei  n.  8.038/90  e  dos  arts.  1.003,  §  5º,  do  Código  de  Processo  Civil, bem como do art. 798 do Código de Processo Penal.
+Ante  o  exposto,  torno  sem  efeito  a  decisão  de  fls.  304/305  em razão do erro na indicação da data de interposição do recurso em mandado de segurança, restando prejudicado o agravo regimental de fls. 310/318.
+Por fim, não  conheço  do  presente  recurso,  com  base  no  art.  21-E,  V,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça.
+Publique-se.  Intimem-se.
+EMENTA
