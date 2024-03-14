@@ -1,0 +1,15 @@
+DECISÃO
+JONATHAN WILLIAM PEREIRA alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no Agravo em Execução n. 1.0231.17.017419-8/003.
+A defesa busca a concessão de indulto ao paciente, pois reputa preenchidos os requisitos exigidos pelo Decreto Presidencial n. 11.302/2022.
+Indeferida a liminar e prestadas as informações, os autos foram ao Ministério Público Federal, que opinou pelo não conhecimento do writ.
+Decido.
+Infere-se dos autos que o paciente cumpre pena privativa de liberdade de 17 anos e 20 dias de reclusão, em razão de condenações em quatro ações penais diversas, pela prática de três crimes roubo circunstanciado e um de furto, cujo término de cumprimento está previsto para 29/9/2033.
+Formulado em seu favor pedido de indulto, com base no Decreto Presidencial n. 11.302/2022, este foi indeferido pelo Magistrado de primeiro grau, porquanto "o sentenciado não cumpriu a pena do crime impeditivo pelo qual é condenado, o que obsta a declaração da benesse" (fl. 14).
+O Tribunal estadual ratificou a decisão de origem.
+O julgado está em confronto com a jurisprudência desta Corte, firme em assinalar que, para fins do indulto, será considerada, individualmente, a pena privativa de liberdade máxima em abstrato relativa a cada infração penal, conforme sinaliza o art. 5º, parágrafo único, do decreto de regência, interpretado em conjunto com as demais diretrizes da norma.
+Prevalece o entendimento "de não ser possível a utilização da soma das penas unificadas para fins de obstar a concessão do indulto, nos termos do art. 11 do Decreto Presidencial n. 11.302/2022, devendo, para os fins estipulados no art. 5º do referido ato normativo, ser consideradas individualmente as penas máximas em abstrato" (AgRg no HC n. 840.517/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 7/11/2023, DJe de 9/11/2023, destaquei).
+Com efeito: "Para fins do referido decreto, apenas no caso de crime impeditivo cometido em concurso com crime não impeditivo que se exige o cumprimento integral da reprimenda dos delitos da primeira espécie. Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não há de se exigir o cumprimento integral da pena pelos crimes impeditivos" (AgRg no HC n. 856.053/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024, grifei).
+Conforme já delineado, na hipótese, o paciente cumpre pena em razão de quatro condenações distintas - uma delito de furto e três de roubo. O delito cuja reprimenda pretende a defesa seja indultada não foi cometido em concurso com nenhum dos crimes impeditivos, motivo pelo qual não incide a norma prevista no parágrafo único do Decreto Presidencial n. 11.302/2022.
+À vista do exposto, concedo a ordem de habeas corpus, para determinar ao Juízo da execução que proceda a nova análise do pleito de indulto, com fulcro no Decreto Presidencial n. 11.302/2022, considerando individualmente as penas aplicadas em cada ação penal.
+Publique-se e intimem-se.
+EMENTA
