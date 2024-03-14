@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por JOSE BERNARDO FLORES PEREIRA, SAO FRANCISCO INCORPORADORA LTDA, contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Consoante se extrai dos autos, os agravantes foram condenados, pela prática do delito previsto no artigo 38, caput, da Lei nº 9.605/1998, às penas de 01 (um) ano de prestação de serviços à comunidade, bem como à pena de multa, fixada em 10 (dez) dias-multa (fls. 310-322).
+Em segunda instância, o eg. Tribuna a quo por unanimidade, negou provimento ao recurso da defesa e deu provimento à apelação da acusação a fim de condenar os acusados nas sanções do artigo 48 da Lei nº 9.605/98, resultando na pena total de 01 (um) ano e 06 (seis) meses de detenção, substituída por duas penas restritivas de direitos, bem como à pena de multa, fixada em 20 (vinte) dias-multa (fls. 1289-1302).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea "a", da Constituição Federal, o insurgente alega violação aos artigos 563 e 564, V, ambos do Código de Processo Penal, ante a suposta nulidade do decisum, por carência de fundamentação.
+Apresentadas as contrarrazões (fls. 1326-1335), sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula 282 e 356 do STF, já que não houve o necessário prequestionamento (fls. 1351-1352).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 1367-1370).
+O Ministério Público Federal apresentou parecer pelo desprovimento do agravo em recurso especial (fls. 1396-1398).
+É o relatório. DECIDO.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+A questão a ser analisada cinge-se à nulidade do acórdão por suposta supressão de instância, ao a nalisar a tese de continuidade delitiva que aduz a defesa ter trazido em primeiro grau.
+A eg. Corte a quo assim se manifestou no v. acórdão recorrido (fl. 1.292):
+"Primeiramente, os acusados sustentam nulidade da sentença, sob argumento de que a Magistrada sentenciante não analisou a continuidade delitiva em relação ao processo nº018/2.19.0000128-2.
+Não assistem razão.
+Quanto ao feito nº 018/2.19.0000128-2, apesar de ser referente à proteção do mesmo bem jurídico destes autos, não há falar em continuidade delitiva, por ausência de preenchimento do requisito objetivo-temporal.
+Consoante se observa, o delito referente ao processo nº 018/2.19.0000128-2 o correu entre os dias 12 de abril de 2014 e 1º de fevereiro de 2015. Nestes autos, os crimes em comento foram praticados até 02 de julho de 2015.
+Assim, o cometimento dos delitos ocorreu em um intervalo superior a 30 (trinta) dias, motivo pelo qual não podem ser considerados um em continuidade do outro.
+No ponto, assim referiu o Superior Tribunal de Justiça: "O art. 71, caput, do Código Penal não delimita o intervalo de tempo necessário ao reconhecimento da continuidade delitiva.
+Esta Corte não admite, porém, a incidência do instituto quando as condutas criminosas foram cometidas em lapso superior a trinta dias." (AgRg no REsp 1.747.1309/RS, j. 13/12/2018) Dessa forma, apesar de a Magistrada não ter se manifestado especificamente quanto à questão, inviável o reconhecimento da nulidade da sentença, pelo não preenchimento do requisito objetivo.
+Portanto, afasto a preliminar."
+Da análise do trecho do voto condutor do acórdão, verifica-se que a tese defensiva, da forma como foi posta no apelo raro, não foi alvo de debate no Tribunal de origem.
+Ademais, a Defesa não atuou de forma a viabilizar o conhecimento do recurso especial, vez que sequer opôs embargos de declaração, acarretando a incidência dos óbices contidos nas das Súmulas 282 e 356 do Supremo Tribunal Federal, respectivamente: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"; "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Ademais, adentrar na análise sobre a referida matéria, sem que se tenha explicitado no acórdão vergastado a tese jurídica de que ora se controverte, após o devido debate em contraditório, seria frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância.
+Ressalto que para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, indicadas no recurso analisado, como, in casu, na apelação, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal (AgRg no AREsp n. 454.427/SP, Quinta Turma, Rel. Min. Luís Felipe Salomão, DJe de 19/2/2015), situação esta inocorrente in casu.
+No mesmo sentido: AgRg no AREsp 1006738/BA, Quinta Turma, Rel. Min. Joel Ilan Pacionik, DJe de 28/04/2017; REsp 1557261/RJ, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 01/08/2017; AgRg no REsp 1853865/SP, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe 23/06/2020.
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial, nos termos da fundamentação retro.
+Publique-se. Intimem-se.
+EMENTA
+PENAL E PROCESSO PENAL. CRIME AMBIENTAL. TESE DE CONTINUIDADE DELITIVA NÃO ACOLHIDA PELO TRIBUNAL A QUO. ALEGADA SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
