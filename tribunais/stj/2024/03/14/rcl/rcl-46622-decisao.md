@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de reclamação, com pedido de tutela provisória, ajuizada por Igor Esmeraldo de Oliveira, com fundamento nos arts. 105, I, f, da Constituição Federal de 1988, art. 988 e seguintes do CPC/2015 e art. 187 do RISTJ, contra decisão proferida pela Turma Recursal do Juizado Especial do Estado de Minas Gerais, e que tem por objetivo preservar a competência desta Corte Superior para apreciar e julgar pedido de uniformização de interpretação de lei federal fundado no art. 18, § 3º, da Lei n. 12.153/2009.
+Alega, em síntese, que ao rejeitar o pedido de uniformização, o reclamado usurpou a competência do Superior Tribunal de Justiça prevista na legislação de regência.
+Liminar indeferida para suspender os efeitos do ato impugnado (fls. 95-96).
+Intimada, a Fundação Hospitalar do Estado de Minas Gerais - FHEMIG e o Estado de Minas Gerais apresentaram contestação às 131-136.
+Informações prestadas pelo juízo reclamado às fls. 100-104.
+Instado, o Ministério Público Federal opinou pela procedência da reclamação (fls. 138-141).
+É o relatório. Decido.
+O Regimento Interno desta Corte dispõe:
+Art. 187. Para preservar a competência do Tribunal, garantir a autoridade de suas decisões e a observância de julgamento proferido em incidente de assunção de competência, caberá reclamação da parte interessada ou do Ministério Público desde que, na primeira hipótese, haja esgotado a instância ordinária. (Redação dada pela Emenda Regimental n. 24, de 2016)
+Parágrafo único. A reclamação, dirigida ao Presidente do Tribunal e instruída com prova documental, será autuada e distribuída ao relator da causa principal, sempre que possível.
+No caso vertente, observa-se que o ora reclamante formulou Pedido de Uniformização de Interpretação de Lei - PUIL, com respaldo no art. 18, §3º, da Lei n. 12.153/2009, confrontando o acórdão proferido pela Turma Recursal de Jurisdição Exclusiva de Belo Horizonte, Betim e Contagem/MG, com decisões das Turmas Recursais de São Paulo, Santa Catarina, e de Goiás.
+A Turma Recursal do Juizado Especial do Estado de Minas Gerais, por sua vez, deixou de receber o PUIL sob o fundamento de que não seria competente para o seu julgamento.
+Nesse panorama, depreende-se que a decisão hostilizada está em dissonância com a jurisprudência do Superior Tribunal de Justiça, firme no sentido de que compete à Turma Recursal, no incidente de competência do STJ, processar o pedido, intimar a parte recorrida para respondê-lo e, após, remeter os autos a este Tribunal. A propósito, confiram-se:
+CONSTITUCIONAL. RECLAMAÇÃO. STJ. PRESERVAÇÃO DE COMPETÊNCIA. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. ACÓRDÃOS DE TURMAS RECURSAIS DE ESTADOS DISTINTOS. PROCESSAMENTO PRÉVIO PELA TURMA RECURSAL. ERRO NO ENDEREÇAMENTO DO INCIDENTE. AUSÊNCIA.
+1. A Lei n. 12.153/2009, que trata dos Juizados Especiais da Fazenda Pública, disciplina um sistema próprio de uniformização jurisprudencial, mediante o denominado pedido de uniformização de interpretação de lei, o qual poderá ser processado e julgado tanto pelo Poder Judiciário local quanto pelo Superior Tribunal de Justiça, a depender da divergência apontada.
+2. Conforme o entendimento desta Corte superior, cabe à Turma Recursal, no incidente de competência do STJ, processar o pedido, intimar a parte recorrida para respondê-lo e, após, remeter os autos a este Tribunal.
+3. Hipótese em que o reclamante apresentou o pedido de uniformização de interpretação de lei na Turma Recursal, o qual não foi conhecido ao fundamento de que deveria ter sido protocolado diretamente no STJ, adotando-se, portanto, conclusão contrária à jurisprudência consolidada.
+4. A imposição do referido óbice ao conhecimento do pedido de uniformização de interpretação de lei evidencia a usurpação da competência do STJ a ensejar a procedência da reclamação.
+5. Pedido procedente.
+(RCL n. 41.060/CE, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 12/5/2021, DJe de 31/5/2021.)
+PROCESSUAL CIVIL. RECLAMAÇÃO. DECISÃO QUE NÃO ENCAMINHOU AO STJ PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. SUPOSTO DISSÍDIO ENTRE DECISÕES PROFERIDAS POR TURMAS RECURSAIS DE DIFERENTES ESTADOS. USURPAÇÃO DE COMPETÊNCIA. PRECEDENTES.
+1. A reclamante ajuizou Ação de Repetição de Indébito perante o Juizado Especial da Fazenda Pública de Pelotas/RS contra o Serviço Autônomo de Saneamento de Pelotas - SANEP, pleiteando a devolução de valores de reajuste de 33,96% na tarifa de água e esgoto, declarado nulo em Ação Popular. O pedido foi julgado parcialmente procedente, com a incidência da prescrição quinquenal aos valores devidos, pelo fato de a ré ter natureza jurídica de autarquia. Os Recursos Inominados interpostos pela autora e pela Autarquia foram desprovidos pela Primeira Turma Recursal da Fazenda Pública do RS.
+2. A reclamante apresentou, perante a Turma Recursal da Fazenda Pública dos Juizados Especiais do Estado do Rio Grande do Sul, Incidente de Uniformização de Interpretação de Lei, o qual não foi admitido sob o fundamento de que a matéria não era reiterada.
+3. A Lei n. 12.153/2009, que trata dos Juizados Especiais da Fazenda Pública, disciplina um sistema próprio de uniformização jurisprudencial, mediante o denominado pedido de uniformização de interpretação de lei, o qual poderá ser processado e julgado tanto pelo Poder Judiciário local quanto pelo Superior Tribunal de Justiça, a depender da divergência apontada.
+4. Frise-se que a citada Lei 12.153/2009, na hipótese de o STJ decidir a Reclamação, não prevê juízo prévio de admissibilidade pela Turma Recursal, cabendo a esta apenas processar o pedido, intimar a parte recorrida para responder ao reclamo e, depois disso, remeter os autos ao STJ. Nesse sentido: Rcl 37.545/DF, Rel. Min. Herman Benjamin, Primeira Seção, DJe 9/10/2019 e Rcl 41.060/CE, Rel. Min. Gurgel de Faria, Primeira Seção, DJe 31/5/2021.
+5. Assim, fica evidenciada a usurpação da competência do STJ, ante a imposição de óbice indevido ao trâmite do Pedido de Uniformização de Interpretação de Lei, a ensejar a procedência da presente Reclamação.
+6. Reclamação a que se dá provimento para determinar que a autoridade reclamada processe o Pedido de Uniformização de Interpretação de Lei, encaminhando-o oportunamente para o STJ.
+(RCL n. 42.409/RS, relator Ministro Herman Benjamin, Primeira Seção, julgado em 22/6/2022, DJe de 29/6/2022.)
+Ante o exposto, julgo procedente a reclamação para anular a decisão objurgada, determinando, como consequência, que a autoridade reclamada processe o P edido de Uniformização de Interpretação de Lei, encaminhando-o oportunamente para o STJ.
+Comunique-se.
+Publique-se.
+EMENTA
