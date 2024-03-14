@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interno manejado por J.C. DE OLIVEIRA & ALBANO LTDA. para desafiar decisão da Presidente desta Corte de Justiça, proferida às e-STJ fls. 1.046/1.047, em que não conheceu do recurso especial por intempestividade, nos seguintes termos:
+Mediante análise do recurso de J. C. DE OLIVEIRA & ALBANO LTDA, a parte recorrente foi intimada do acórdão recorrido em 30/03/2022, sendo o recurso especial interposto somente em 26/04/2022.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Outrossim, a comprovação deve ser feita por documento idôneo, conforme aludem as jurisprudências deste Tribunal (AgInt nos EAREsp n. 1.933.921/SP, relator Ministro Francisco Falcão, Corte Especial, julgado em 27/9/2022, DJe de 3/10/2022; AgInt no AREsp n. 2.140.372/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023.).
+Desso modo, registre-se que o documento juntado às fls. 926/927 não é considerado válido para afastar a intempestividade do recurso.
+Na suas razões (e-STJ fls. 1.050/1.067), a parte agravante sustenta a tempestividade de seu recurso especial, ao argumento de que juntou calendário do tribunal de origem disponibilizado na internet comunicando a suspensão do expediente forense em decorrência de feriado local nos dias 14, 15, 21 e 22 de abril de 2022.
+A parte agravada apresentou impugnação (e-STJ fls. 1.095/1.098).
+Passo a decidir.
+Exerço o juízo de retratação.
+De acordo com a decisão agravada, a parte foi intimada do acórdão recorrido em 30/03/2022, tendo sido o recurso especial interposto em 26/04/2022.
+Porém, os documentos de e-STJ fls. 926/927, juntados por ocasião da interposição do recurso, atestam ter havido feriado nos dias informados na presente peça recursal, a saber, dia 14/04/2022 (Endoenças), dia 15/04/2022 (Sexta-feita santa) e dia 21/04/2022 (Tiradentes), assim como a suspensão do expediente forense no dia 22/04/2022.
+Ressalto que a Corte Especial do Superior Tribunal de Justiça (no julgamento do EAREsp 1927268/RJ em 19/04/2023) considerou válida, para efeito de comprovação de feriado local no ato de interposição do recurso, a apresentação de calendário judicial obtido nas páginas oficiais dos tribunais.
+Assim, iniciado em 31/03/2022, o prazo teve seu término em 26/04/2022 (terça-feira), tendo o recurso sido interposto nesse dia, pelo que tempestivo.
+Passo, doravante, a novo exame do recurso.
+Trata-se de agravo em recurso especial apresentado por PAULO RAMOS contra decisão que inadmitiu apelo nobre interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal.
+Impende destacar que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, nos termos dos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida; (Grifos acrescidos)
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014)
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida; (Redação dada pela Emenda Regimental n. 22, de 2016)
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial n. 701.404/SC, 746775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+No caso, da análise dos autos, verifico que a inadmissão do especial se deu com base nos seguintes fundamentos: (i) incidência da Súmula 7 do STJ; (ii) incidência da Súmula 280 do STF, no que tange à multa imposta; (iii) não demonstração do dissídio jurisprudencial suscitado.
+Entretanto, a parte agravante deixou de impugnar específica e adequadamente esses fundamentos.
+Inadmitido o recurso especial com base na Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório.
+Na espécie, todavia, isso não ocorreu, uma vez que a agravante limitou-se a apresentar alegações genéricas de que: (a) seu recurso especial buscaria apenas a revaloração provas consideradas pelo Colegiado local, sem destacar quais trechos do acórdão recorrido teriam identificado o suporte fático-probatório da causa; (b) o acórdão recorrido teria infringido os arts. 373, 489, 496, § 1º, 803, I, do CPC/2015 e 3º, III, da Lei Complementer n. 116/03, sem explicar como esses dispositivos de lei federal teriam sido violados pelo julgado a quo.
+No parágrafo dedicado ao combate da Súmula 280 do STF, a agravante restringiu-se a dizer que não seria necessário o reexame de lei local, pois, no recurso especial, "não titubeou em debater, a nível qualificado, a inexigibilidade da multa imposta, inclusive sob a ótica da não cumulação", deixando, entretanto, de apontar com precisão qual dispositivo de lei federal seria pertinente a esse tema e de discorrer sobre a respectiva tese recursal.
+Por fim, a agravante olvidou-se de transcrever os trechos do apelo nobre que revelariam a adequada demonstração do dissenso jurisprudencial invocado.
+Afirmou, apenas, que:
+"O julgado, ao valer-se da tese da ausência de transcrição do v. Acórdão e, em seguida, do confronto analítico para com os paradigmas, não valorou as razões recursais de fls. 898/903,quanto ao debate do cerceio de defesa; fls. 903/907, quanto ao debate da ausência dos elementos essenciais da sentença; fls.907/913, quanto ao debate danãocumulatividadedo reexame oficial quanto o ente público apresenta o recurso voluntário; fls . 913/920, quanto ao debate sobre a inexigibilidade do ISS; fls. 920/925, quanto a inexigibilidade da multa imposta. Daí já se extrai que a agravante construir o recurso com a reprodução, em cada tópico, da correlata parte do acórdão recorrido no início da peça e, em seguida, o usual confronto analítico e texto recursal com citação de lei e ementas de julgados."
+Cuida-se, a toda evidência, de argumentação por mera remissão.
+Ocorre que não cabe ao julgador ir em busca do fundamento que sustente a pretensão da parte, devendo o recurso trazer a devida motivação em seu próprio bojo.
+Nada impede que a parte faça referências a outras peças recursais, não podendo, contudo, limitar-se a isso.
+Destaco, por oportuno, não ser suficiente a apresentação de razões genéricas sobre o óbice apontado pela decisão de inadmissibilidade, sendo exigível do agravante o efetivo ataque aos seus fundamentos.
+Cumpre ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do apelo nobre, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que falar em usurpação da competência do STJ. Nesse sentido: AgRg no AREsp 173.359/AM, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/03/2015, DJe 24/03/2015, e AgInt no AREsp 933.131/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 25/10/2016, DJe 27/10/2016.
+Ante o exposto:
+(I) RECONSIDERO a decisão de e-STJ fls. 1.046/1.047, tornando-a sem efeito;
+(II) NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 253, parágrafo único, I, do RISTJ.
+Considerando a existência de prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
