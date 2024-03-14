@@ -1,0 +1,27 @@
+DECISÃO
+Examina-se recurso especial interposto por BEATRIZ DA COSTA VIELLAS, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 25/07/2023.
+Concluso ao gabinete em: 10/11/2023.
+Ação: de obrigação de fazer, ajuizada pela recorrente, em face de QUALICORP CONSULTORIA E CORRETORA DE SEGUROS S.A. e de AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A., na qual aduz abusividade nos reajustes financeiro (VCMH) e por sinistralidade a partir de 2016.
+Sentença: julgou procedente o pedido para: a) reconhecer a abusividade dos reajustes anuais praticados pelas recorridas a partir de 2016, com reflexo nos anos de 2017, 2018, 2019 e 2020, com sua substituição pelos índices ANS para o mesmo período; b) condenar as recorridas à restituição dos valores pagos a maior, de forma simples, observada a prescrição trienal.
+Acórdão: deram provimento à apelação interposta pelas recorridas, julgando improcedente o pedido da autora, os termos da seguinte ementa:
+SEGURO. PLANO DE SAÚDE. CONTRATO COLETIVO POR ADESÀO. CLÁUSULA QUE PREVÊ REAJUSTE ANUAL POR AUMENTO DE SINTSTRALIDADE E POR VARIAÇÃO DE CUSTOS MÉDICO-HOSPITALARES. CLÁUSULA CLARA E QUE NÀO GERA DÚVIDAS. AVENÇA CELEBRADA ENTRE DUAS EMPRESAS. INEXISTÊNCIA DE ILEGALIDADE OU ABUSIVIDADE QUANTO AO TEOR DE REFERIDA PREVISÃO. IN APLICABILIDADE DA APLICAÇÃO SUPLETIVA. A AVENÇA DE NATUREZA COLETIVA. DAS LIMITAÇÕES VIGENTES PARA OS CONTRATOS INDIVIDUAIS E FAMILIARES. SENTENÇA REFORMADA. RECURSOS PROVIDOS.
+Embargos de Declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 4º, 6º, III, 39, V, 51, IV e X, e 54, § 4º do CDC; 371, 373 e 479 do CPC; e 421, 422 e 757 do CC, bem como dissídio jurisprudencial.
+Quanto à negativa de prestação jurisdicional, sustenta omissão no que tange à análise da prova pericial produzida, tendo em vista que o acórdão recorrido fundamentou a legalidade dos reajustes apenas em razão de sua previsão contratual. Assevera que não houve análise acerca da abusividade nos percentuais efetivamente aplicados pela operadora do plano de saúde na hipótese dos autos.
+Quanto ao mérito do apelo especial, afirma a abusividade dos reajustes, visto que não foram fixados em percentuais idôneos e respaldados por documentação atuarial. Aduz ser ônus da operadora do plano de saúde a comprovação da justificativa dos reajustes.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da negativa de prestação jurisdicional
+As razões recursais tecidas acerca das supostas omissões do TJ/SP residem na alegação de que, apesar de instado a se manifestar por meio de embargos declaratórios, o órgão jurisdicional quedou-se silente no que concerne à abusividade, na hipótese dos autos, dos índices de reajuste por sinistralidade e por VCMH, praticados pela operadora do plano de saúde nos anos de 2016 a 2020.
+No entanto, da análise do processo, constata-se que o Tribunal de origem, ao julgar os embargos de declaração opostos pelas recorrentes, foi omisso quanto a este argumento. Verifica-se, ainda, que a questão foi objeto de devida insurgência nas razões dos embargos declaratórios opostos.
+Consoante jurisprudência do STJ, no sentido de que há ofensa ao art. 1.022 do CPC/15 (535 do CPC/73) nas hipóteses em que o Tribunal de origem, mesmo após a interposição de embargos de declaração, omite-se no exame de questão pertinente para a resolução da controvérsia (REsp 1.693.086/SP, 3ª Turma, DJe 20/10/2017; AgInt no AREsp 429.547/RJ, 4ª Turma, DJe 08/09/2016).
+Importa destacar que as duas Turmas da Segunda Seção do STJ entendem que que não é abusiva a cláusula que prevê a possibilidade de reajuste do plano de saúde, seja por variação de custos ou por aumento de sinistralidade, no entanto, cabe ao Tribunal de origem a efetiva análise, na hipótese dos autos, do caráter abusivo do reajuste efetivamente aplicado. Precedentes: AgInt no AREsp n. 2.043.624/SP, 4ª Turma, DJe de 26/8/2022; AgInt no REsp 1989359/SP, 3ª Turma, DJe 04/10/2023.
+Assim, observando o entendimento dominante desta Corte, impõe-se a cassação do acórdão que apreciou os declaratórios, a fim de que este se pronuncie, na esteira do devido processo legal, acerca do ponto anteriormente elencado, incidindo, portanto , a Súmula 568/STJ.
+Logo, merece provimento o recurso especial e tem-se como prejudicado o exame das demais discussões aventadas no presente recurso.
+Forte nessas razões, com fundamento no art. 932, V, "a" do CPC/15, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para: a) anular o acórdão que julgou os e mbargos de declaração interpostos pela recorrente; e b) determinar a remessa dos autos ao TJ/SP, a fim de que este se pronuncie, ultrapassada a constatação da legalidade da previsão contratual, sobre a abusividade do reajuste efetivamente aplicado na hipótese.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. EMBARGOS DE DECLARAÇÃO INTERPOSTOS PERANTE O TRIBUNAL DE ORIGEM. OMISSÕES APTAS, EM TESE, A MODIFICAÇÃO DA CONCLUSÃO DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE APRECIAÇÃO.
+1. Ação de obrigação de fazer, na qual aduz abusividade nos reajustes praticados pela operadora do plano de saúde.
+2. Caracteriza-se a ofensa ao art. 1.022 do CPC nas hipóteses em que o Tribunal de origem, mesmo após a interposição de embargos de declaração, omite-se no exame de questão pertinente para a resolução da controvérsia. Súmula 568/STJ.
+3. Recurso especial conhecido e provido.
