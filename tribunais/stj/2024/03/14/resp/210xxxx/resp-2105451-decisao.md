@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto por TURKOT & CIA. LTDA, com fundamento no art. 105, inciso III, alíneas a e c, da CF/1988, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 174):
+TRIBUTÁRIO E PROCESUAL CIVIL. INCLUSÃO DO ICMS-ST PARAAPURAR CRÉDITOS DO PIS/COFINS. INADMISSIBILIDADE. INOVAÇÃO RECURSAL. VEDAÇÃO.
+1. O contribuinte substituído tributário não tem o direito de apurarcréditos de PIS/COFINS sobre o ICMS-ST incidente na aquisição de mercadoriaspara revenda. Precedentes de ambas as Turmas da 1ª Seção, julgados nasistemática do art. 942 do CPC.
+2. O alargamento do pedido na fase recursal da demanda é vedadopor constituir inovação recursal, vicio que, por subtrair o contraditório esuprimir grau de jurisdição, deve ser rechaçado.
+A parte recorrente alega violação dos arts. 3º, incisos I e II, das Leis 10.637/2002 e 10.833/2003 e do art. 289, § 3º, do RIR/99; e dos arts. 110, 121 e 128 do CTN.
+É o relatório.
+A questão debatida nos autos, qual seja, a "possibilidade de creditamento, no âmbito do regime não-cumulativo das contribuições ao PIS e COFINS, dos valores que o contribuinte, na condição de substituído tributário, paga ao contribuinte substituto a título de reembolso pelo recolhimento do ICMS-substituição (ICMS-ST)", encontra-se afetada à Primeira Seção desta Corte Superior aguardando o julgamento dos EREsp 1.959.571/RS, do REsp 2.075.758/ES e do REsp 2.072.621/SC, de relatoria do Ministro Mauro Campbell Marques, vinculado ao Tema 1.231.
+Quando da afetação do tema, determinou-se a suspensão do julgamento de todos os processos em primeira e segunda instâncias envolvendo a matéria, inclusive no Superior Tribunal de Justiça (art. 1.037, II, do Código de Processo Civil de 2015).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça (STJ), a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Pelo exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC, após a publicação do acórdão dos recursos excepcionais representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC.
+Publique-se. Intimações necessárias.
+EMENTA
