@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por JOANILSON DA SILVA RIBEIRO em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado do Amazonas.
+Consta dos autos que o ora agravante foi pronunciado como incurso na sanção do artigo 121, §2º, incisos I e IV, do Código Penal, a fim de que fosse submetido a julgamento pelo Tribunal do Júri.
+O recurso em sentido estrito interposto pela defesa não foi provido, nos termos do acórdão de e-STJ fls. 439/451.
+Nas razões do recurso especial, fundado na alínea "a" do permissivo constitucional, alega a defesa violação dos artigos 413, § 1º, e 414, ambos do Código de Processo Penal. Sustenta que a decisão de pronúncia está pautada exclusivamente em elementos de convicção extraídos do inquérito policial, que não foram confirmados em juízo sob o crivo do contraditório.
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+No que diz respeito à alegada ofensa aos arts. 413, § 1º, e 414, ambos do Código de Processo Penal, ao argumento de que a pronúncia se embasou apenas em prova extrajudicial, cumpre esclarecer que os dispositivos indicados como violados não albergam a controvérsia jurídica suscitada. Com efeito, os referidos dispositivos nada dispõem a respeito da existência ou não de provas judicializadas. Assim, sendo identificada a falta de correlação entre a norma apontada como violada e a discussão efetivamente trazida nos autos, fica inviabilizado o conhecimento do recurso especial ante a incidência do óbice sumular 284/STF.
+Como é de conhecimento, "a indicação de preceito legal federal que não consigna em seu texto comando normativo apto a sustentar a tese recursal e a reformar o acórdão impugnado padece de fundamentação adequada, a ensejar o impeditivo da Súmula 284/STF" (REsp n. 1.715.869/SP, Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe 7/3/2018).
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO. PERDIMENTO DE BEM. DISPOSITIVO INDICADO. FALTA DE PERTINÊNCIA TEMÁTICA. SÚMULA 284 DO PRETÓRIO EXCELSO. AGRAVO DESPROVIDO.
+1. O recorrente em relação à perda do bem indicou como violado o art. 1º da Lei n. 11.343/2006, o qual não possui pertinência temática com a dedução feita no recurso especial, haja vista que não dispõe acerca do perdimento de bem adquirido com o produto do tráfico.
+2. Ressalta-se que o recurso especial é de fundamentação vinculada e no caso de interposição pela alínea "a" do permissivo constitucional deve-se apontar o dispositivo de lei federal supostamente violado, o que, por questão de lógica, deve guardar pertinência com o tema versado na norma reputada por malferida. Agravo regimental desprovido (AgRg no REsp 1.438.358/MG, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 10/4/2018, DJe 25/4/2018).
+Ainda que fosse possível superar o referido óbice, extrai-se da pronúncia, o seguinte (e-STJ fl. 946):
+Analisando os autos, devo considerar que existem indícios suficientes para considerar a possibilidade de que o acusado tenha praticado o crime descrito na Exordial, considerando todo o manancial probatório colhido no decorrer da fase inquisitorial e da processual.
+Quanto à materialidade, resta comprovada na forma do Laudo de Exame Necroscópico de fls. 42/43. O teor do interrogatório do acusado, prestado perante este Juízo, observando o direito Constitucional de silêncio sem importar prejuízo para a Defesa, também deve ser apreciada pelo Júri Popular, a fim de que o Conselho de Sentença aprecie e julgue o presente caso dentro de sua soberania, legitimidade e competência Constitucionalmente previstas.
+No decorrer da Instrução Processual, a Defesa não conseguiu afastar toda e qualquer dúvida acerca da culpabilidade do acusado, a ponto de este Juízo deixar de submetê-lo a julgamento pelo Júri Popular. Ao contrário da acusação, que obteve êxito e demonstrou haver indícios suficientes para tal julgamento.
+Desta feita, afasto a possibilidade de aplicação das teses de Impronúncia, de Absolvição Sumária e de Desclassificação do Tipo Penal.
+No contexto, sem aprofundada imersão no acervo fático-probatório, não é possível se afirmar que a pronúncia se embasou, exclusivamente, em elementos extrajudiciais.
+Vale registrar que compete às instâncias ordinárias a análise de fatos e provas a fim determinar se, ao final da primeira fase do procedimento escalonado do Juri, há provas ou não para pronunciar, impronunciar, desclassificar ou absolver sumariamente o acusado, posto que em sede especial é inviável o reexame fático-probatório, nos termos da vedação prescrita pela Súmula 7 da Súmula desta Corte.
+A respeito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. VIOLAÇÕES AOS ARTS. 156, 414 E 415, TODOS DO CÓDIGO DE PROCESSO PENAL - CPP. PROVA DA MATERIALIDADE E INDÍCIOS DE AUTORIA SUFICIENTES PARA EMBASAR A DECISÃO DE PRONÚNCIA. PRINCÍPIO DO IN DÚBIO PRÓ SOCIETATE. REVISÃO DE ENTENDIMENTO QUE DEMANDA INCURSÃO NA SEARA FÁTICO-PROBATÓRIA. INCIDÊNCIA DO ÓBICE DA SÚMULA 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO DESPROVIDO.
+1. As instâncias ordinárias demonstraram prova da materialidade e indícios de autoria imprescindíveis à pronúncia do recorrente, destacando a aplicação do princípio do in dubio pro societate. Esse entendimento está alinhado com a jurisprudência desta Corte.
+1.1. Diante da justificada conclusão das instâncias ordinárias, os pleitos de absolvição sumária ou de impronúncia esbarram no óbice da Súmula n. 7 desta Corte.
+2. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.010.633/AL, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 22/3/2022, DJe de 24/3/2022)
+Ante o exposto, conheço do agravo e não conhecer do recurso especial.
+Intimem-se.
+EMENTA
