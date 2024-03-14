@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JENEFER DA SILVA COSTA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 0000507-12.2016.8.26.0515).
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 95/101, in verbis:
+1. Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JENEFER DA SILVA COSTA, contra acórdão proferido pelo Eg. Tribunal de Justiça do Estado de São Paulo que negou provimento à apelação defensiva.
+2. A paciente foi condenada pela prática do crime previsto no art. 33, caput, da Lei nº 11.343/2006, à pena de 5 (cinco) anos de reclusão, em regime inicialmente semiaberto, e pagamento de 500 (quinhentos) dias-multa, nos termos do evento de folhas nº 21 e-STJ.
+3. Na presente impetração, a defesa aponta constrangimento ilegal, porquanto a paciente faria jus à causa de diminuição de pena prevista no art. 33, § 4º, da Lei nº 11.343/2006, em sua fração máxima.
+4. Liminar indeferida às fls. 41/42 e-STJ.
+5. Informações às fls. 54/55 e 60/61 e-STJ.
+Ao final, o Parquet opinou pelo não conhecimento do writ.
+É o relatório.
+Decido.
+Tenho que assiste razão à defesa.
+É que a Sexta Turma do Superior Tribunal de Justiça adotou o atual posicionamento do Supremo Tribunal Federal, segundo o qual inquéritos policiais e ações penais em curso não constituem circunstância suficiente para afastar a aplicação da minorante de tráfico de drogas.
+Confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL. TRÁFICO DE DROGAS. DOSIMETRIA. REDUTOR ESPECIAL DE PENA RELATIVO AO PRIVILÉGIO. INCABÍVEL. PACIENTE CONHECIDO NO MEIO POLICIAL PELA PRÁTICA DO TRÁFICO DE DROGAS. ALTERAÇÃO DE ENTENDIMENTO DAS INSTÂNCIAS ORDINÁRIAS EXIGE REVOLVIMENTO FÁTICO-PROBATÓRIO, PROVIDÊNCIA IMPOSSÍVEL NO ESTREITO RITO DO HABEAS CORPUS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O mais recente posicionamento de ambas as Turmas do Supremo Tribunal Federal é no sentido de que, em regra, inquéritos policiais e ações penais em andamento não constituem fundamentação idônea apta a respaldar a não aplicação do redutor especial de redução de pena relativa ao reconhecimento da figura privilegiada do crime de tráfico de drogas.  ..  (AgRg no HC n. 560.561/RS, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 2/2/2021, DJe 17/2/2021.)
+Colaciono, a seguir, julgado da Suprema Corte nessa mesma direção:
+PENA - FIXAÇÃO - ANTECEDENTES - INQUÉRITOS E PROCESSOS EM CURSO - DESINFLUÊNCIA. O Pleno do Supremo, no julgamento do recurso extraordinário nº 591.054, de minha relatoria, assentou a neutralidade, na definição dos antecedentes, de inquéritos ou processos em tramitação, considerado o princípio constitucional da não culpabilidade. PENA - CAUSA DE DIMINUIÇÃO - ARTIGO 33, § 4º, DA LEI Nº 11.343/2006 - ATIVIDADES CRIMINOSAS - DEDICAÇÃO - PROCESSOS EM CURSO. Revela-se inviável concluir pela dedicação do acusado a atividades criminosas, afastando-se a incidência da causa de diminuição prevista no artigo 33, § 4º, da Lei nº 11.343/2006, considerado processo-crime em tramitação. (HC n. 173.806, relator MARCO AURÉLIO, Primeira Turma, julgado em 18/2/2020, processo eletrônico DJe-049 divulg. 6/3/2020, public. 9/3/2020.)
+Ademais, no ponto, cabe a ponderação do Ministro Sebastião Reis Júnior, relator nos autos do HC n. 593.560/SP, que, em decisão monocrática em caso análogo, observou que "o paciente é primário, sem antecedentes e não houve nenhuma vetorial negativa. Além disso, a quantidade de drogas não se mostra excessiva para afastar o privilégio, além de que não poderem ser consideradas questões relativas a denúncias anônimas, ações penais em andamento, e a motivação do Magistrado sobre o armazenamento de entorpecentes ou local em que era guardado ou o fato de estar desempregado não são suficientes para afirmar que exista, de fato, dedicação ao tráfico ou que o paciente faça parte de alguma organização." (julgado em 24/3/2021, DJe 26/3/2021).
+Evidente, portanto, o constrangimento ilegal, mostrando-se imperioso o reconhecimento da suscitada causa de diminuição de pena.
+Assim, reconhecendo-se a incidência da minorante do § 4º da Lei n. 11.343/2006, na fração de 2/3, a pena da paciente deve ser reduzida para 1 ano e 8 meses de reclusão.
+Na hipótese dos autos, a quantidade de droga apreendida - cerca de 57g (cinquenta e sete gramas) de maconha - não se revela expressiva o suficiente para justificar o regime prisional mais gravoso, mormente por se tratar de ré primária e sem antecedentes.
+Dessa forma, diante do novo quantum da reprimenda, faz ela jus ao regime inicial aberto, o qual se revela como o mais adequado à prevenção e à repressão do delito em tela, conforme o art. 33, § 3º, do Código Penal.
+Por fim, afastada a hediondez ou a gravidade abstrata do crime como critério para obstar a substituição das penas e preenchidos os pressupostos previstos no art. 44 do CP, é cabível a conversão da pena privativa de liberdade por medidas restritivas de direitos, a serem definidas pelo Juízo das execuções .
+À vista do exposto, concedo a ordem liminarmente para, reconhecendo a incidência da minorante do § 4º da Lei n. 11.343/2006, reduzir a reprimenda da paciente para 1 ano e 8 meses de reclusão, fixar-lhe o regime aberto de cumprimento de pena, bem como substituir a pena privativa de liberdade por medidas restritivas de direitos, a serem definidas pelo Juízo das Execuções Criminais.
+Publique-se. Intimem-se.
+EMENTA
