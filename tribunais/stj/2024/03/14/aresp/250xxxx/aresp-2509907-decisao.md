@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado por IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE SANTOS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO. Assistência judiciária gratuita. Pessoa jurídica sem fins lucrativos. Comprovação de que possui caráter filantrópico não induz à presunção de hipossuficiência financeira. Súmula 481 do STJ. Ausência de comprovação clara e objetiva da impossibilidade financeira em efetuar o recolhimento. Inteligência da Lei Federal nº 1.060/50 e do art. 98 do CPC. Precedentes do TJSP. Indeferimento do benefício. Decisão mantida. Recurso desprovido.
+Quanto à controvérsia, a parte recorrente alega violação do art. 98 do CPC, no que concerne à concessão do benefício da gratuidade de justiça, porquanto demonstrada a sua hipossuficiência financeira, trazendo a seguinte argumentação:
+A apresentação de extratos, "data vênia", é irrelevante e nada acrescentaria. Pior: poderia passar a ideia errada, de que há dinheiro em caixa disponível, quando o que lá está permanece integralmente comprometido com o funcionamento da instituição.
+Contabilmente falando, a Recorrente apresentou documentos mais do que suficientes para demonstrar a necessidade de ser beneficiada com a gratuidade.
+É tranquilo dizer que a massiva maioria dos processos em que a Recorrente litiga contam com a gratuidade. Aos poucos que não contam, a demanda nem sempre é levada para frente - tudo depende da solvabilidade da empresa/pessoa devedora, frente ao que pode ser empenhado para manter a ação em andamento.
+Outrossim, a colocação do MM. Juízo de 1º grau é imprecisa; mas, infelizmente, foi mimetizada no v. acórdão recorrido, dando a impressão de que a Recorrente possui ativo invejável, tão grande que torna o passivo irrelevante.
+Isto não é verdade.
+ ..
+No caso concreto, o valor patrimonial ativo, deduzido do passivo, resulta em milhões de reais negativos. Logo, ao negar a gratuidade à Recorrente, violou-se manifestamente o art. 98 do CPC - que, ao caso, certamente permite o uso da justiça gratuita.
+Em razão de todo o exposto, demonstrados estão os motivos pelo qual o v. acórdão deve ser integralmente reformado, outorgando-se à Recorrente o direito à gratuidade (fls. 515-518).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+No caso dos autos, a agravante não logrou êxito em demonstrar que não possui condições de arcar com as custas e despesas processuais, sem prejuízo de sua manutenção.
+Veja-se, nesse sentido, que as demonstrações contábeis anexadas às fls. 470/477, fazem referência aos anos de 2013 a 2021 e, portanto, não revelam a atual situação econômica da agravante, de modo que são inaptas a sustentar a alegada insuficiência de recursos para o ano de 2023.
+Ainda em análise das demonstrações contábeis de fls. 470/477, também é de se destacar que, desde 2013, a agravante possui valor expressivo a título de "passivo circulante" e, ainda assim, se encontra em plena atividade, tudo a demonstrar que tal panorama não implica na impossibilidade de a entidade arcar com as custas e despesas processuais que, como bem observou o então relator do recurso (fls. 248/254), serão de baixíssima expressão, dado ao diminuto valor atribuído à causa (R$ 1.535,94).
+Confira-se, outrossim, que a mera existência de protestos em desfavor da entidade ou, ainda, reportagens jornalísticas sobre crises financeiras, não são aptos a comprovar, de forma objetiva, a impossibilidade de a agravante fazer frentes às custas do processo.
+Logo, ausente demonstração cabal de que a agravante está momentaneamente impossibilitada de arcar com as custas processuais, de rigor a manutenção da r. decisão agravada (fls. 504-505, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
