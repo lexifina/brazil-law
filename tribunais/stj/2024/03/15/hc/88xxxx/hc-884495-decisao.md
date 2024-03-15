@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOÃO VITOR SILVINO DOS SANTOS contra decisão indeferitória de provimento urgente proferida pelo Desembargador Relator do HC n. 0000318-73.2024.8.25.0000 em trâmite no Tribunal de Justiça do Estado de Sergipe.
+Consta dos autos que o Paciente foi preso em flagrante no dia 17/10/2023 pelo suposto cometimento do delito previsto no art. 157, §2º, I e II do Código Penal. Em sede de audiência de custódia, a prisão em flagrante foi convertida em prisão preventiva.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal estadual, cujo pedido liminar foi indeferido pelo Desembargador Relator (fls. 13-26).
+Daí o presente mandamus, em que a Parte Impetrante aduz que: a) não foi observado o prazo de 24 (vinte e quatro) horas para a realização da audiência de custódia; b) ausente fundamentação idônea no decreto prisional, ante a existência de condições pessoais favoráveis, não sendo também adequada a prisão pelo simples fato de dirigir a moto para comparsa.
+Requer, no mérito, que seja relaxada a prisão preventiva ou, subsidiariamente, substituída por cautelares diversas da prisão.
+Ante a ausência de pedido liminar, foram requeridas informações e manifestação do Ministério Público Federal.
+Prestadas as informações pelo Tribunal de Justiça do Estado de Sergipe (fls. 36-37).
+Parecer do Ministério Público Federal (fls. 52-54) no qual opina pelo não conhecimento do habeas corpus.
+É o relatório. Decido.
+O entendimento firmado pelo Supremo Tribunal Federal e por este Superior Tribunal de Justiça é no sentido de não se admitir habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância.
+É o que está sedimentado na Súmula n. 691/STF ("não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar"), aplicável, mutatis mutandis, a este Superior Tribunal de Justiça.
+A despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, deve preponderar a necessidade de se garantir a efetividade da prestação da tutela jurisdicional de urgência para que flagrante constrangimento ilegal ao direito de liberdade possa ser cessado - tarefa a ser desempenhada caso a caso.
+Na situação dos autos, não verifico, prima facie, ilegalidade patente que autorize a mitigação da Súmula n. 691 do Supremo Tribunal Federal, notadamente porque a decisão que indeferiu o pedido liminar não se encontra, em juízo de cognição sumária, desprovida de fundamentação, tendo sido justificada a necessidade da completa instrução do feito nos seguintes termos (fls. 16-26):
+"Diante de tal quadro, o Supremo Tribunal Federal (STF) determinou, em decisão unânime exarada na Reclamação nº 29303, que todos os tribunais do país e todos os juízos a eles vinculados devem realizar, no prazo de 24 (vinte e quatro) horas, audiência de custódia em todas as modalidades de prisão.
+Contudo, o atraso observado nos autos não justifica a liberação do segregado. Isto porque, a mais abalizada jurisprudência é firme ao reconhecer que a conversão da prisão em flagrante em preventiva, porquanto presentes os requisitos do art. 312 do Código Penal, supre todas as nulidades supostamente existentes, haja vista que a prisão do paciente está fundada em nova ordem judicial.
+ ..
+Cumpre asseverar, ainda, que a impetrante não demonstrou nem mesmo indícios mínimos do prejuízo eventualmente suportado pelo paciente em face da não realização da audiência de custódia nas primeiras 24 (vinte e quatro) horas (19/10/2023).
+ ..
+Assim, além da existência do delito e da convergência dos indícios em direção ao paciente, é preciso demonstrar a necessidade premente de segregar cautelarmente indivíduos nocivos do convívio social ou que possam vir a causar transtornos para a garantia da ordem pública, para a conveniência da instrução criminal ou ainda que possam tentar se esquivar da aplicação da lei.
+No caso dos autos, a prisão se deu em virtude do delito previsto no art. 155, § 2, I, II do CP, sendo a preventiva decretada com base em fundamentação idônea vez que presentes os requisitos previstos nos arts. 282, § 3º, 312 e 313 do CPP, destacando o Magistrado a necessidade da segregação cautelar.
+Assim, a alegação da impetrante quanto ao direito do Paciente de responder ao processo em liberdade não tem como prosperar, porque o direito constitucional de ir e vir está justamente obstado diante da subsistência dos motivos que autorizam a manutenção da custódia preventiva, no caso em apreço.
+Ressalte-se, ainda, que a simples presença de condições subjetivas favoráveis não é suficiente, por si só, para permitir a concessão da ordem liberatória em favor da paciente, especialme nte quando presentes os requisitos do artigo 312 do Código de Processo Penal a motivar a prisão cautelar."
+Assim, não havendo notícia de que o Tribunal a quo tenha procedido ao exame meritório, reserva-se primeiramente àquele Órgão a apreciação da matéria ventilada no habeas corpus originário, sendo defeso a esta Corte Superior adiantar-se nesse exame, sobrepujando a competência da Corte a quo, mormente se o writ está sendo regularmente processado.
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSO PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
