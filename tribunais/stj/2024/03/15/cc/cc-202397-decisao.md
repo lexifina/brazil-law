@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se  de  conflito  negativo  de  competência  suscitado  pelo  JUIZO DE DIREITO DA VARA CRIME, INFÂNCIA E ADOLESCENTE E TRIBUNAL DO JÚRI DE IPIAÚ - BA em face do JUIZO FEDERAL DA VARA CIVEL E CRIMINAL DE JEQUIE - SJ/BA.
+Cuida-se de processo de execução de acordo de não persecução penal homologado pelo Juízo Federal de Jequié SJ/BA, o qual declinou da competência para processamento da execução em favor do Juízo de Direito da Vara Crime, Infância e Adolescente e Tribunal do Júri de Ipiaú/BA, em virtude de ter o acordante informado endereço naquela localidade.
+Por sua vez, o Juízo suscitante declarou-se incompetente e suscitou o conflito negativo de competência, por entender que a delegação da fiscalização das medidas executivas ao Juízo do domicílio do condenado não implica em deslocamento da competência.
+O  Ministério  Público  Federal  manifestou-se  pelo não conhecimento do conflito e, caso dele se conheça, pela competência do Juízo suscitado, em parecer assim ementado  (e-STJ  fl.  32):
+CONFLITO NEGATIVO DE COMPETÊNCIA. PRELIMINAR DE NÃO CONHECIMENTO. AUSÊNCIA DE PEÇAS ESSENCIAIS. EXECUÇÃO DE CONDIÇÕES IMPOSTAS EM ACORDO DE NÃO PERSECUÇÃO PENAL - ANPP. JUÍZO DA CONDENAÇÃO. COMPETÊNCIA DO JUÍZO SUSCITADO.
+1 - Apenas o Juízo suscitante se declara incompetente para dar continuidade à execução do ANPP, uma vez que a decisão do Juízo suscitado, em que se declarou incompetente, não foi juntada aos autos, motivo pelo qual não há conflito negativo a ser solucionado por essa Colenda Corte Superior;
+2 - A instrução deficiente dos autos, concernente na ausência de peça fundamental à compressão da controvérsia, impede o conhecimento do Conflito de Competência.
+3 - Nos casos de cumprimento das condições impostas em Acordo de Não Persecução Penal - ANPP, a competência para a sua execução incumbe ao Juízo que o homologou, sendo possível a deprecação da fiscalização do cumprimento do aludido ajuste como também a prática de atos processuais para o atual domicílio do condenado. Precedente sobre o tema: CC n. 192.158/MT, relatora Ministra Laurita Vaz, Terceira Seção, DJe de18/11/2022.
+PARECER PELO NÃO CONHECIMENTO DO CONFLITO NEGATIVO E, NO MÉRITO, OPINAR PELA COMPETÊNCIA DO JUIZO FEDERAL DA VARA CIVEL E CRIMINAL DE JEQUIE - SJ/BA, ORA SUSCITADO, PARA DAR PROSSEGUIMENTO À EXECUÇÃO PENAL EM APREÇO.
+É,  em  síntese,  o  relatório.
+Decido.
+Cuida-se  de  incidente  instaurado  entre  juízes  vinculados  a  tribunais  diversos,  razão  pela  qual,  nos  termos  do  art.  105,  I,  d,  da  Constituição  Federal,  conheço  do  conflito.
+Cinge-se a controvérsia posta no presente feito à definição da competência para a execução de acordo de não persecução penal quando o acordante possuir residência em comarca diversa daquela em que foi homologado o acordo.
+Conforme orientação jurisprudencial desta Corte a competência executar o acordo de não persecução penal é do Juízo que o homologou, o qual poderá  deprecar  ao  Juízo  do  domicílio  do  acordante  a  supervisão  e  acompanhamento  do  cumprimento  das condições impostas.  Nesse sentido, cita-se:
+CONFLITO NEGATIVO DE COMPETÊNCIA. PENAL. ACORDO DE NÃO PERSECUÇÃO PENAL. ART. 28-A, § 6.º, DO CÓDIGO DE PROCESSO PENAL. APLICAÇÃO DAS REGRAS ATINENTES À EXECUÇÃO PENAL. COMPETÊNCIA. CUMPRIMENTO. JUÍZO QUE HOMOLOGOU O ACORDO. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO SUSCITADO.
+1. O art. 28-A, § 6.º, do Código de Processo Penal, ao determinar que o acordo de não persecução penal será executado no juízo da execução penal, implicitamente, estabeleceu que o cumprimento das condições impostas no referido acordo deverá observar, no que forem compatíveis, as regras pertinentes à execução das penas.
+2. Segundo pacífica orientação desta Corte Superior, a competência para a execução das penas é do Juízo da condenação. No caso específico de execução de penas restritivas de direitos, em se tratando de condenado residente em jurisdição diversa do Juízo que o condenou, também é sedimentada a orientação de que a competência para a execução permanece com o Juízo da condenação, que deprecará ao Juízo da localidade em que reside o apenado tão-somente o acompanhamento e a fiscalização do cumprimento da reprimenda.
+3. Em se tratando de cumprimento das condições impostas em acordo de não persecução penal, a competência para a sua execução é do Juízo que o homologou, o qual poderá deprecar a fiscalização do cumprimento do ajuste e a prática de atos processuais para o atual domicílio do Apenado.
+4. Conflito conhecido para declarar competente o JUÍZO FEDERAL DA 1.
+ª VARA CRIMINAL DE SÃO PAULO - SJ/SP, o Suscitado.
+(CC n. 192.158/MT, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 9/11/2022, DJe de 18/11/2022.)
+Com  base  nessas  considerações,  conheço  do  conflito  para  declarar  a  competência  do  Juízo  suscitado (JUIZO FEDERAL DA VARA CIVEL E CRIMINAL DE JEQUIE - SJ/BA) para executar o acordo de não persecução penal, podendo ser deprecada ao Juízo suscitante a fiscalização do cumprimento da pena imposta no decreto condenatório.
+Publique-se.  Comunique-se.
+EMENTA
