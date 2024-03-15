@@ -1,0 +1,46 @@
+DECISÃO
+LEONARDO SANTOS CARNEIRO DE ALMEIDA alega sofrer coação ilegal em decorrência do acórdão prolatado pelo Tribunal de Justiça do Estado de Sergipe na Apelação n. 202357404.
+Consta nos autos que o réu foi condenado a 1 mês de detenção, em regime aberto, pela prática do crime previsto no art. 147 do Código Penal.
+A defesa busca que seja reconhecida a atipicidade da conduta, notadamente porque "o acórdão cometeu uma flagrante ilegalidade ao declarar a presença das elementares do delito de ameaça, sem, no entanto, demonstrar relatos de emprego de palavras, gestos, emprego de armas, meio simbólico de acusar mal injusto" (fl. 5).
+O Ministério Público Federal manifestou-se pela extinção do writ sem resolução do mérito ou pela denegação da ordem (fls. 110-113).
+Decido.
+A Corte local condenou o paciente nos seguintes termos (fls. 13-18, grifei):
+O Ministério Público do Estado de Sergipe ofereceu denúncia em desfavor de LEONARDO SANTOS CARNEIRO DE ALMEIDA, qualificado nos autos, imputando-lhe a prática do delito capitulado no art. 147, do Código Penal. De acordo com a denúncia (fls. 79/83):
+"(..) Consta dos autos que, no dia 27/01/2022, por volta das 21h27min, na Rua Napoleão T. de Oliveira, Bairro Luzia, nesta urbe, o denunciado ameaçou a vítima Marcos Antônio de Resende Dantas de causar-lhe mal injusto e grave, qual seja, agredir-lhe a integridade física com o uso de uma chave de rodas.
+Consta dos autos que, no dia dos fatos, o imputado ameaçou agredir fisicamente a vítima, de posse de uma chave de roda, além de ter proferido várias ofensas à sua honra, fato este último que ensejaria a propositura de queixa crime por parte do ofendido, considerando que o crime é de ação penal privada.
+Perante a autoridade policial, o imputado negou os fatos que lhe foram imputados.
+Todavia, indícios suficientes acerca da autoria do denunciado e prova da materialidade encontram-se representados nos autos, principalmente, pelo TOC (fls. 07/09), pelo BO (fls. 10/11), pelos termos de declarações (fls. 13 e 14) e pelos documentos anexados (fls. 15/19). (..)".
+Após trâmite regular do processo (nº 202220100169), o Juízo de Direito a quo proferiu sentença (08/09/2023), julgando improcedente a pretensão punitiva para absolver o acusado LEONARDO SANTOS CARNEIRO DE ALMEIDA, com arrimo no artigo 386, inciso VII, do Código de Processo Penal.
+Inconformado, o Ministério Público interpôs recurso de apelação e apresentou razões, requerendo a condenação do acusado pela prática do delito de ameaça (art. 147 do Código Penal).
+ ..
+Da análise das provas havidas durante a instrução criminal, ao contrário do entendimento do Magistrado de 1º grau, não resta nenhuma dúvida acerca da materialidade e autoria delitivas. Vejamos os depoimentos prestados em Juízo:
+ ..
+Constata-se que estão devidamente comprovados os elementos consubstanciadores da conduta ilícita praticada pelo apelado.
+Verifico por meio dos depoimentos das testemunhas e da vítima que a ameaça ocorreu quando, em meio à discussão, Leonardo se dirige à janela de seu veículo, pega a chave de roda e vira para o ofendido, sendo imediatamente contido por sua genitora. Tal sequência de eventos foi narrada pela vítima e capturada no "vídeo I", juntado ao Sistema de Controle Processual.
+Outrossim, a hipótese de a vítima já ter discutido ou não, outras vezes, com outros vizinhos, não desnatura o que ocorreu no fatídico dia.
+Ademais, o crime de ameaça é de ação livre, podendo ser praticado por palavras, gestos, escritos ou outros meios simbólicos, de maneira implícita, explícita, direta, indireta, condicional ou incondicional. Pune-se, in casu, a vontade consciente de amedrontar a vítima, ainda que não seja a intenção do agente cumprir o mal anunciado.
+Nesse contexto, as testemunhas estavam presentes na ocasião e confirmam os fatos narrados pela vítima, relatando que, o réu empunhou uma chave de roda em detrimento do ofendido, sendo contido pela genitora, sendo assim interpretado como promessa gestual de causar mal injusto e grave.
+Destarte, não existem dúvidas acerca da prática delituosa de ameaça pelo acusado, a qual restou devidamente comprovada tanto pela palavra da vítima, como pelas demais provas constantes nos autos, colhidas na fase policial e na instrução processual.
+Logo, a condenação do acusado é medida que se impõe.
+Conforme jurisprudência deste Tribunal Superior, "o crime de ameaça é de forma livre, podendo ser praticado através de palavras, gestos, escritos ou qualquer outro meio simbólico, de forma direta ou indireta, explícita ou implícita e, ainda, condicional, desde que a intimidação seja apta a causar temor na vítima" (RHC 66.148/DF, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 12/12/2016).
+Na hipótese, em que pesem os argumentos defensivos, constato que o Tribunal de origem, após análise do acervo fático-probatório carreado aos autos, concluiu pela existência de elementos concretos e coesos a ensejar a condenação do paciente pelo crime previsto no art. 147 do Código Penal.
+O aresto assentou, "por meio dos depoimentos das testemunhas e da vítima, que a ameaça ocorreu quando, em meio à discussão, Leonardo se dirige à janela de seu veículo, pega a chave de roda e vira para o ofendido, sendo imediatamente contido por sua genitora" (fl. 18). Desse modo, considerou que houve promessa gestual de causar mal injusto e grave.
+Para infirmar tal conclusão e proclamar a absolvição do paciente, seria necessário o reexame aprofundado do conteúdo probatório dos autos, a ensejar o rejulgamento da causa, providência incabível na via estreita e célere do habeas corpus.
+Com efeito, o habeas corpus não é segundo recurso apelação; requer a indicação de direito líquido e certo, juridicamente possível, amparado por prova pré-constituída das alegações, pois não comporta diligências, incursão probatória ou contraditório.
+O que se busca, por meio do writ, é a correção de ilegalidade ou abuso de poder, quando evidentes e atentatórios a direito de liberdade. Somente questões de direito comportam resolução nesta via.
+A propósito:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. CRIME DE AMEAÇA (ART. 147, CAPUT, CP). ABSOLVIÇÃO. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. PROCEDIMENTO INCOMPATÍVEL COM A ESTREITA VIA DO MANDAMUS. WRIT NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - As Turmas que integram a Terceira Seção desta Corte alinharam-se a esta dicção, e, desse modo, também passaram a repudiar a utilização desmedida do writ substitutivo em detrimento do recurso adequado (v.g.: HC n. 284.176/RJ, Quinta Turma, Relª. Minª. Laurita Vaz, DJe de 2/9/2014; HC n. 297.931/MG, Quinta Turma, Rel. Min. Marco Aurélio Bellizze, DJe de 28/8/2014; HC n. 293.528/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 4/9/2014 e HC n. 253.802/MG, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 4/6/2014).
+III - In casu, o eg. Tribunal a quo entendeu estar presente prova suficiente de materialidade e da autoria delitiva do crime de ameaça, descrito no art. 147, caput, do Código Penal. Rever este entendimento para absolver o paciente demandaria, necessariamente, amplo revolvimento do acervo fático-probatório dos autos, procedimento que, a toda evidência, é incompatível com a estreita via do habeas corpus.
+Habeas corpus não conhecido.
+(HC n. 450.160/PR, Rel. Ministro Felix Fischer, 5ª T., DJe de 28/6/2018, destaquei)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AMEAÇA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DO COTEJO ANALÍTICO. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. VIOLAÇÃO AO ART. 147 DO CP. PLEITO DE RECONHECIMENTO DA ATIPICIDADE DA CONDUTA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. MANUTENÇÃO DA DECISÃO AGRAVADA.
+ ..
+II - No caso, o eg. Tribunal de origem declinou, de forma explícita, as razões pelas quais concluiu que as provas, produzidas em sede de contraditório judicial, especialmente a prova oral, comprovaram seguramente a perfeita configuração de todas as elementares exigidas pelo tipo penal previsto no artigo 147 do Código Penal, tendo ainda asseverado que a promessa de prática de mal injusto e grave proferida pelo agente foi capaz de infundir temor na vítima, a qual registrou boletim de ocorrência e solicitou medidas protetivas contra o ora agravante, fundamentos aptos a embasar o édito condenatório prolatado em desfavor do insurgente e que não podem ser revistos na presente instância.
+III - Com efeito, sobre o tema, está assentado nesta Corte que as premissas fáticas firmadas nas instâncias ordinárias não podem ser modificadas no âmbito do apelo extremo, nos termos da Súmula n. 7/STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Agravo regimental desprovido.
+(AgRg no AREsp n. 2.169.799/SP, Rel. Ministro Messod Azulay Neto, 5ª T., DJe de 17/4/2023, grifei)
+À vista do exposto, denego o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
