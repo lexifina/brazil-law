@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Fazenda Nacional, com base no art. 105, III, a , da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 7.332):
+DIREITO CONSTITUCIONAL, TRIBUTÁRIO E PROCESSUAL CIVIL. CORREÇÃO MONETÁRIA E JUROS DE MORA (TAXA SELIC) RECEBIDOS NA REPETIÇÃO DE INDÉBITOS TRIBUTÁRIOS. APLICAÇÃO DA COMPREENSÃO MANIFESTADA PELO SUPREMO TRIBUNAL FEDERAL NO TEMA 962 DA REPERCUSSÃO GERAL. NÃO INCLUSÃO NAS BASES DE CÁLCULO DO IRPJ E DA CSLL. PARÂMETROS DA COMPENSAÇÃO. COMPREENSÃO DIVERSA QUANTO À BASE DE CÁLCULO DO PIS E DA COFINS. CONCEITO DE RECEITA BRUTA QUE ENGLOBA OS VALORES RECEBIDOS A TÍTULO DE SELIC NA REPETIÇÃO DE INDÉBITOS TRIBUTÁRIOS. INDÉBITOS TRIBUTÁRIOS RECONHECIDOS EM SENTENÇAS JUDICIAIS TRANSITADAS EM JULGADO. MOMENTO DA INCIDÊNCIA DA TRIBUTAÇÃO. HOMOLOGAÇÃO DA COMPENSAÇÃO PELA RECEITA FEDERAL.
+ ..
+Opostos embargos declaratórios, foram rejeitados (fls. 7.401/7.412).
+Nas razões do recurso especial, a Fazenda Nacional aponta violação aos arts. 1022 do CPC/15, 43 do CTN; 44,111, da Lei 4.506/64; 177, caput, e 187, § 1º da Lei 6.404/76, 6º, § 1º, 7º, caput e 67, XI do Decreto-Lei 1.598, de 1977; 74 da Lei 9.430, de 1996; 441, II, do Regulamento do Imposto sobre a Renda (RIR/2018), aprovado pelo Decreto 9.580, de 2018; e 1º, 2º, caput e § 1º, alínea "c" da Lei 7.689, de 1988.
+Sustenta, em síntese, que: (I) "de acordo com a legislação societária, o contribuinte sujeito ao recolhimento do IRPJ e da CSLL com base no lucro real deve apurar o lucro líquido segundo o regime de competência. Em linhas gerais, o regime de competência é definido como aquele em que as receitas ou despesas são computadas em função do momento em que nasce o direito ao rendimento ou a obrigação de pagar a despesa, sendo irrelevante a realização dos ganhos em moeda" (fl. 7.539) e (II)"Nas sentenças transitadas em julgado, em que ja e definido o valor a ser restituído, a receita deve ser reconhecida no momento do trânsito em julgado" (fl. 7.542).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que, na data de hoje, considerando o recurso especial da parte ex adversa, no bojo dos presentes autos, proferi decisão em que determinei a devolução dos autos em razão da matéria afetada pela Primeira Seção do STJ ao rito dos recursos especiais repetitivos Tema 1.237/STJ - 2.065.817/RJ, 2.068.697/RS, 2.075.276/RS, 2.109.512/PR e 2.116.065/SC.
+Nesse contexto, tendo em vista a impossibilidade de cisão do julgamento, é o caso de se ter por prejudicado o exame do recurso especial da Fazenda Nacional;.
+ANTE O EXPOSTO, julgo prejudicado por ora o exame do recurso especial.
+Publique-se.
+EMENTA
