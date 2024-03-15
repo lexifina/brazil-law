@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado pela Defensoria Pública em favor de WESLEY FERREIRA DE OLIVEIRA, contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n. 2024570-79.2024.8.26.0000).
+Consta dos autos que os pacientes foram presos em flagrante pela suposta prática de furto qualificado, previsto no artigo 155, §4º, do Código Penal, porque, segundo Boletim de Ocorrência Policial (e-STJ fl.16):
+Realizada busca pessoal nada de ilícito foi encontrado, porém, quando da fuga o indivíduo agora identificado como WESLEY FERREIRA DE OLIVEIRA deixou a sacola plástica preta próximo ao muro, vistoriado o interior da sacola verificou a existência de vários vestuários tipo "fantasia" o outro INDIVÍDUO foi identificado como PEDRO HENRIQUE DINIZ RODRIGUES; Que, Ainda no local foram entrevistados e ambos falaram que haviam quebrado o vidro do veículo Versa branco e o do veículo Onix preto, e subtraído de seu interior a sacola com os objetos encontrados; (..)
+Na ação originária, a Defensoria Pública alegou: (i) ausência dos requisitos da prisão preventiva, bem como carência de fundamentação idônea da decisão; (ii) a suficiência de medidas cautelares diversas da prisão, afirmando que o suposto delito não foi praticado mediante violência ou grave ameaça à pessoa; (iii) as condições favoráveis dos pacientes como, primariedade, menoridade relativa e ausência de antecedentes; (iv) que é cabível a aplicação do princípio da insignificância em razão do valor ínfimo dos bens (e-STJ fls.10/11).
+O Tribunal de origem, contudo, julgou prejudicado o pedido com relação ao paciente PEDRO HENRIQUE DINIZ RODRIGUES, uma vez que concedida a liberdade pelo Juízo de Direito de Primeiro Grau, e denegou a ordem quanto ao paciente WESLEY FERREIRA DE OLIVEIRA (e-STJ fl.12/14).
+Nas razões do presente habeas corpus, a Defensoria Pública reitera as alegações de ausência dos requisitos para a prisão preventiva e primariedade do paciente WESLEY FERREIRA DE OLIVEIRA, bem como ausência de proporcionalidade no decreto de sua prisão, tendo em vista se tratar de crime sem violência ou grave ameaça (e-STJ Fl.5/6).
+Diante disso, requer, liminarmente e no mérito, a revogação da prisão preventiva do paciente, ainda que sejam aplicadas medidas cautelares diversas.
+É o relatório, decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+Assim se manifestou o Relator ao indeferir a liminar (e-STJ fl.114):
+Pela análise perfunctória do caso, admitida em sede de pleito liminar, não se vislumbra o constrangimento alegado na impetração, havendo notícia de que os pacientes teriam sido beneficiados com liberdade provisória em maio de 2023.
+Com a vinda das informações, a douta Câmara apreciará a questão com a amplitude que lhe compete.
+Verifica-se que o decisum apresenta fundamentação suficiente e idônea a afastar a alegação, neste momento, de manifesta ilegalidade que justificasse a superação do enunciado sumular.
+Com efeito, a questão posta em exame demanda averiguação mais profunda pelo Tribunal estadual, no momento adequado.
+Entendo, portanto, não ser o caso de superação do enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
+EMENTA
