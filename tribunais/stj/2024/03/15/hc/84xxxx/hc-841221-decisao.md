@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido de liminar, impetrado em favor próprio por TELBAS KLEBER MANTOVANI JUNIOR contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Mandado de Segurança n. 2014321-06.2023.8.26.0000.
+Consta dos autos que o Juízo singular impôs a multa de 10 (dez) salários-mínimos, nos termos do art. 265 do Código de Processo Penal, diante da ausência do Paciente, advogado constituído pelo réu na origem, à audiência de instrução designada.
+Irresignado, o Paciente impetrou mandado de segurança perante o Tribunal de origem, que denegou a segurança (fls. 10-19).
+Neste writ, o Paciente alega que protocolou pedido de renúncia no dia anterior ao da realização da audiência porque estava debilitado, enfrentando problemas de saúde próprios e de seu pai.
+Argumenta que o Magistrado singular, "contrariando o artigo 10 do CPC, proferiu sentença surpresa, sem possibilidade do contraditório ao paciente" (fl. 6).
+Pugna pela revogação da decisão que lhe aplicou a multa no importe de 10 (dez) salários-mínimos.
+As informações foram prestadas às fls. 54-74.
+O Ministério Público Federal opinou pelo não conhecimento do writ (fls. 76-79).
+É o relatório. Decido.
+De início, cumpre registrar que é "inadequada a utilização de habeas corpus para impugnar acórdão que denegou mandado de segurança, tanto mais quando a legislação processual (art. 1.027, II, "a", do CPC) prevê expressamente o cabimento de recurso ordinário em mandado de segurança, em tais hipóteses" (AgRg no HC n. 620.755/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/11/2020, DJe de 23/11/2020).
+Outrossim, nos casos como os dos autos, o Superior Tribunal de Justiça tem aplicado o entendimento de que inexiste constrangimento ilegal a ser sanado pela ação constitucional de habeas corpus, porquanto, a teor do disposto no art. 647 do Código de Processo Penal, somente é cabível o remédio heroico quando alguém sofrer ou se achar na iminência de sofrer violação ou coação ilegal na sua liberdade de ir e vir.
+Como se observa, na hipótese, não há qualquer risco ao Paciente, uma vez que o não cumprimento do pagamento da pena de multa, não enseja restrição à sua liberdade.
+Aliás, por analogia, esse é o entendimento consubstanciado no enunciado da Súmula n. 693 do Supremo Tribunal Federal:
+"Não cabe habeas corpus contra decisão condenatória a pena de multa, ou relativo a processo em curso por infração penal a que a pena pecuniária seja a única cominada".
+Nesse sentido, os seguintes precedentes desta Corte Superior de Justiça, mutatis mutandis:
+"EXECUÇÃO PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL DA DECISÃO QUE NÃO CONHECEU DO HABEAS CORPUS. MULTA. EXECUÇÃO ANTECIPADA. LESÃO. AMEAÇA DE LESÃO. LIBERDADE DE LOCOMOÇÃO. INEXISTENTES. AGRAVO REGIMENTAL DESPROVIDO.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada por seus próprios fundamentos.
+II - O habeas corpus, como ação jurídico-constitucional, destina-se a tutelar, de modo específico e direto, a liberdade de locomoção, o direito de ir, vir e permanecer de que é titular todo cidadão. Pressupõe, portanto, a existência de cerceamento ou ameaça concreta de cerceamento ilegal do seu direito de locomoção, de efetiva restrição ilegítima do seu status libertatis.
+III - Não havendo no ordenamento jurídico nacional a possibilidade de que pena de multa se converta em pena privativa de liberdade, conclui-se que a postulação do agravante encontra-se em franca desconformidade com a norma do art. 5º, inciso LXVIII, da Constituição da República e o entendimento do c. Supremo Tribunal Federal, representado no enunciado da Súmula 693, e desta Corte Superior sobre a matéria.
+IV - Na espécie, não se vislumbra nenhuma constrição ou ameaça concreta de constrição à liberdade física do recorrente que decorra do ato judicial ora impugnado, do qual, em verdade, não irradia direta e especificamente nenhum efeito jurídico negativo sobre o seu direito de locomoção. Particularmente, ressalte-se, o não pagamento da pena de multa não foi apontado como condição a eventual progressão de regime.
+Agravo regimental desprovido." (AgRg no HC n. 521.264/PR, relator Ministro LEOPOLDO DE ARRUDA RAPOSO (Desembargador Convocado do TJ/PE), Quinta Turma, julgado em 10/12/2019, DJe 17/12/2019.)
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO CONSTITUCIONAL. IMPOSSIBILIDADE. NÃO CONHECIMENTO. TRÁFICO DE ENTORPECENTES. INTEMPESTIVIDADE DO RECURSO DA ACUSAÇÃO. PROVIMENTO COM REFLEXO MERAMENTE PATRIMONIAL. DESCABIMENTO DO HABEAS CORPUS.
+1. Esta Corte não deve continuar a admitir a impetração de habeas corpus (originário) como substitutivo de recurso, dada a clareza do texto constitucional, que prevê expressamente a via recursal própria ao enfrentamento de insurgências voltadas contra acórdãos que não atendam às pretensões veiculadas por meio do writ nas instâncias ordinárias.
+2. Verificada hipótese de dedução de habeas corpus em lugar do recurso ordinário constitucional, impõe-se o não conhecimento da impetração, nada impedindo, contudo, que se corrija de ofício eventual ilegalidade flagrante como forma de coarctar o constrangimento ilegal.
+3. No caso, busca-se a nulidade do julgamento do recurso de apelação do Ministério Público, em razão de sua pretensa intempestividade.
+4. Se o provimento do recurso da acusação teve reflexo meramente patrimonial, eis que decretada a pena de perdimento dos bens arrecadados, não se vislumbra qualquer constrangimento ilegal sanável pela via do habeas corpus, uma vez que não há ameaça ou violação ao direito de ir e vir.
+5. Incide na espécie, por analogia, o enunciado da Súmula 693, do Supremo Tribunal Federal: "Não cabe habeas corpus contra decisão condenatória à pena de multa, ou relativo a processo em curso por infração penal a que a pena pecuniária seja a única cominada."
+6. Impetração não conhecida." (HC n. 245.489/GO, relator Ministro Og Fernandes, Sexta Turma, julgado em 04/06/2013, DJe 17/06/2013.)
+"HABEAS CORPUS. AMEAÇA. TRANCAMENTO DA AÇÃO PENAL. CONDUTA BASEADA EM MAL INJUSTO E GRAVE. ATIPICIDADE. CONDENAÇÃO. PENA EXCLUSIVA DE MULTA. VIOLAÇÃO AO DIREITO DE LOCOMOÇÃO. INOCORRÊNCIA. INADEQUAÇÃO DA VIA ELEITA. WRIT NÃO CONHECIDO.
+1. Configura requisito inafastável para a ação de habeas corpus a existência de qualquer indício de ameaça de violência ou constrangimento à liberdade de ir e vir do paciente, não se conhecendo do writ nos casos em que tal pressuposto não for observado.
+2. Incabível o manejo de habeas corpus na hipótese em que se discute a condenação do paciente pelo delito de ameaça, cuja pena aplicada foi o pagamento de 10 (dez) dias-multa, já transitada em julgado para o Ministério Público, haja vista que não há qualquer risco à liberdade de locomoção, pois a sanção pecuniária, mesmo se descumprida, não poderá ser convertida em sanção privativa de liberdade.
+3. Writ não conhecido." (HC n. 199.390/SP, relator Ministro JORGE MUSSI, Quinta Turma, julgado em 16/06/2011, DJe 29/06/2011.)
+Ante o exposto, NÃO CONHEÇO do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. WRIT IMPETRADO CONTRA ACÓRDÃO QUE DENEGOU A ORDEM EM MANDADO DE SEGURANÇA. NÃO CABIMENTO. ABANDONO DE CAUSA. APLICAÇÃO DE MULTA PROCESSUAL. INEXISTÊNCIA DE VIOLAÇÃO DO DIREITO DE LOCOMOÇÃO. SÚMULA N. 693/STF. HABEAS CORPUS NÃO CONHECIDO.
