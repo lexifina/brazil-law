@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo, interposto contra decisão que negou seguimento ao recurso especial, com fundamento na Súmula 7/STJ.
+No recurso especial, foi indicada violação dos artigos 33 e 35 da Lei 11.343/2006, argumentando-se que há provas para as condenações dos agravados.
+No presente reclamo, argumenta a defesa não ser o caso de revisão de fatos e provas, mas sim de sua revaloração jurídica, pois não haveria dúvidas sobre a autoria e materialidade delitivas dos autos.
+Requer o conhecimento e provimento do recurso para que o STJ aprecie o reclamo constitucional.
+Contraminuta apresentada, manifestou-se o Ministério Público Federal pelo desprovimento do agravo.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passa-se, portanto, à análise do mérito.
+Consta dos autos que o Tribunal de Justiça manteve tanto a absolvição da agravada Jessica, pela prática dos crimes previstos no arts. 33 e 35 da Lei de Drogas, como a do agravado Antônio, pela prática do crime do art. 35 do mesmo estatuto.
+O Colegiado estadual confirmou a sentença absolutória a partir da seguinte fundamentação (fls. 817-819):
+Percebe-se, pois, que a prova oral colhida nos autos não logrou êxito em apontar, com segurança, a coautoria delitiva da Jessica Barbosa Brito, sendo precária para ensejar a condenação da acusada pelo crime de tráfico de drogas.
+As testemunhas de acusação, Francisco Celio Campos Gonçalves Benício e Valmir da Silva Oliveira, informaram que a residência em que a acusada e o seu companheiro moravam havia sido apontada como boca de fumo e, no momento do cumprimento do mandado de busca e apreensão, foram encontrados no local entorpecente, arma, a balança de precisão, caderno de anotação e dinheiro.
+Nas fases policial e judicial, o acusado Walker Antônio Lima da Silva - companheiro de Jessica Barbosa Brito, assumiu a propriedade do entorpecente apreendido e eximiu a sua companheira de qualquer envolvimento com a referida substância, pontuando que a mesma não tinha sequer conhecimento de que havia droga na residência do casal.
+Assim, ainda que fosse possível dizer que a acusada Jessica Barbosa tinha conhecimento da atividade ilícita desenvolvida pelo seu companheiro, não se pode afirmar que a recorrida praticou qualquer uma das condutas descritas no caput do art. 33 da Lei 11.343/2006.
+Para que haja condenação, não bastam meras conjecturas, presunções e indícios da autoria, exige-se prova robusta, segura, estreme de dúvida. Isso porque o dolo, na esfera penal, não pode ser presumido.
+Nestas circunstâncias, forçoso concluir que o acervo probatório é insuficiente para ensejar a condenação da ré Jessica Barbosa Brito pelo crime de tráfico de drogas (art. 33 da Lei n.º 11.343/06).
+Dessa forma, nos termos do art. 386, inciso VII, do CPP e em obediência ao princípio do in dubio pro reo, mantenho a absolvição da acusada Jessica Barbosa Brito pelo crime de tráfico de tráfico (art. 33 da Lei n.º 11.343/06).
+Do crime de associação criminosa
+O parquet pleiteia, ainda, a condenação dos réus Walker Antônio Lima da Silva e Jessica Barbosa Brito pelo crime de associação para o tráfico (art. 35 da Lei 11.343/06), sob o fundamento de que o animus associativo entre os acusados para a prática do crime de tráfico restou devidamente comprovado nos autos.
+O art. 35 da Lei 11.343/06 define o delito de associação para o tráfico da seguinte forma: "associarem-se duas ou mais pessoas para o fim de praticar, reiteradamente ou não, qualquer dos crimes previstos nos arts. 33, caput e §1º, e 34 desta Lei".
+O tipo subjetivo é o dolo, ou seja, animus associativo, aliado ao fim específico de traficar drogas. Não basta a simples convergência de vontades para a prática do crime, é necessário que o animus associativo seja efetivamente provado, pois integra o tipo penal e é indispensável para sua caracterização.
+ .. .
+Exige-se, assim, um animus associativo, um ajuste prévio no sentido da formação de um vínculo de fato, em que a vontade de se associar seja separada da vontade necessária à prática do crime visado.
+No caso, diante do conjunto probatório, não logrou a acusação em demonstrar a configuração do delito de associação na medida que não restou devidamente comprovada a estabilidade associativa e o acordo prévio voltado a prática delitiva do tráfico de drogas.
+Assim, diante da ausência de provas quanto ao vínculo estável e permanente entre os acusados Walker Antônio Lima da Silva e Jessica Barbosa Brito para o fim de praticar tráfico de drogas, mantenho a absolvição destes quanto à imputação do delito no art. 35 da Lei 11.343/2006 em homenagem ao princípio do in dubio pro reo, com fundamento no art. 386, VII do CPP.
+Com efeito, da leitura do excerto acima transcrito, verifica-se que as instâncias de origem, soberanas na reanálise dos fatos e das provas, concluíram "que a prova oral colhida nos autos não logrou êxito em apontar, com segurança, a coautoria delitiva da Jessica Barbosa Brito, sendo precária para ensejar a condenação da acusada pelo crime de tráfico de drogas" (fl. 817).
+Concluiu-se, outrossim, que "diante da ausência de provas quanto ao vínculo estável e permanente entre os acusados Walker Antônio Lima da Silva e Jessica Barbosa Brito para o fim de praticar tráfico de drogas" (fl. 819) melhor seria a absolvição de ambos os agravados da prática do delito no art. 35 da Lei 11.343/2006, em homenagem ao princípio do in dubio pro reo.
+Nesse sentido, desconstituir o julgado por suposta contrariedade a lei federal, buscando a condenação dos agravados, não encontra amparo na via eleita, dada a necessidade de revolvimento do conjunto fático/probatório, procedimento de análise exclusivo das instâncias ordinárias e vedado a este Superior Tribunal de Justiça, em sede de recurso especial, ante o óbice Sumular n. 7/STJ.
+Nesse sentido:
+PENAL AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE REDUÇÃO A CONDIÇÃO ANÁLOGA À DE ESCRAVO. ART. 149 DO CÓDIGO PENAL. RÉU ABSOLVIDO POR INSUFICIÊNCIA DE PROVAS. ALTERAÇÃO DO JULGADO. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. A Corte de origem asseverou que a acusação não se desincumbiu do seu ônus de carrear aos autos os elementos probatórios capazes de viabilizar a condenação criminal do acusado.
+2. Assim, uma vez concluído pelas instâncias ordinárias, a partir da análise do arcabouço probatório existente nos autos, que a conduta do acusado não se amolda ao tipo previsto no art. 149 do Estatuto Repressivo, a desconstituição do julgado, tal como pretendido pelo Parquet, demandaria necessariamente o aprofundado revolvimento dos elementos fáticos e probatórios, providência incabível nesta sede especial, consoante dispõe a Súmula 7/STJ.
+3. Por fim, nos termos da Súmula 83/STJ, "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+4. Agravo regimental a que se nega provimento. (AgRg no AREsp n. 1.623.697/PA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/5/2020, DJe de 15/5/2020.)
+PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ABSOLVIÇÃO DA ESFERA CRIMINAL. REPERCUSSÃO NO ÂMBITO CÍVEL. REEXAME DOS FATOS E DAS PROVAS. INCIDÊNCIA. SÚMULA 7/STJ.
+1. Não se conhece de Recurso Especial quanto à matéria que não foi especificamente enfrentada pelo Tribunal de origem, dada a ausência de prequestionamento. Incidência, por analogia, da Súmula 282/STF.
+2. O Tribunal de origem concluiu: "Da sentença proferida em referido processo, em que o Ministério Público Federal denunciou Marcelo Casagrande Botega como incurso nas sanções do artigo 2º, caput, c/c §1º, da Lei n. 8.176/91, verifica-se que o réu foi absolvido por não existem provas da ocorrência da infração penal, com fulcro no artigo 386, VII, do CPP (inexistência de prova suficiente para a condenação). Com efeito, não é o caso de incidência do art. 935 do Código Civil ou art. 66 do Código de Processo Penal, com intuito de afastar-se a independência das instâncias penal, cível e administrativa" (fls. 1.641-1.642, e-STJ).
+3. Decidir de forma contrária ao que ficou expressamente consignado no v. acórdão recorrido implica revolvimento do conjunto fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+4. Recurso Especial não provido. (REsp n. 1.635.454/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/12/2016, DJe de 19/12/2016.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
