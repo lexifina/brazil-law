@@ -1,0 +1,30 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por SDNR EMPREENDIMENTOS IMOBILIÁRIOS E PARTICIPAÇÕES LTDA., PRAETORIUM PARTICIPAÇÕES LTDA. e DAVID JACQUES ELWING, sucessores de CONDOMÍNIO DOLCE VILLA, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 06/09/2023.
+Concluso ao gabinete em: 12/03/2024.
+Ação: indenizatória pelos danos materiais, ajuizada por SDNR EMPREENDIMENTOS IMOBILIÁRIOS E PARTICIPAÇÕES LTDA., PRAETORIUM PARTICIPAÇÕES LTDA. e DAVID JACQUES ELWING, sucessores de CONDOMÍNIO DOLCE VILLA, em face de POLIMIX CONCRETO LTDA.
+Sentença: julgou em parte procedente o pedido, para condenar a POLIMIX CONCRETO LTDA. ao pagamento de R$ 163.464,16, bem como para condená-la ao pagamento das custas e dos honorários, que foram fixados em 10% do valor da condenação.
+Acórdão: negou provimento às Apelações interpostas por SDNR EMPREENDIMENTOS IMOBILIÁRIOS E PARTICIPAÇÕES LTDA., PRAETORIUM PARTICIPAÇÕES LTDA. e DAVID JACQUES ELWING, sucessores de CONDOMÍNIO DOLCE VILLA, e por POLIMIX CONCRETO LTDA., nos termos da seguinte ementa:
+"Recurso da ré - Ação de indenização por danos materiais - Prestação de serviços de concretagem - Entrega da obra contendo sérias falhas no concreto de duas, dentre as três casas integrantes do contrato - Refazimento do serviço que atrasou a obra em 106 (cento e seis) dias - Tese recursal da Ré pretendendo a redução da condenação a 2/3 do valor do prejuízo, sob a alegação de que uma das casas fora entregue sem defeitos - Descabimento - Redução proporcional na cobrança já observada pela Autora na petição inicial, quanto às despesas individualizáveis de cada casa - Quanto às demais despesas, gerais e indivisíveis, inaplicável a divisão proporcional, porquanto relativas a serviços necessários à obra como um todo - Alegação de que atraso da obra não impediu o prosseguimento da construção na casa sem falhas, bem como de etapas secundárias nas demais - Descabimento - Prova pericial conclusiva da situação inversa - Sentença mantida - Recurso não provido.
+Recurso da autora - Pretensão ao ressarcimento das despesas com a contratação de advogado - Descabimento - Valores despendidos com honorários contratuais que não podem ser carreados à parte adversa - Pleito de ressarcimento dos valores de IPTU (Imposto sobre Propriedade Territorial Urbana) pagos durante o atraso da obra, com base em precedente jurisprudencial - Distinguishing - Moldura fática do Aresto invocado que se refere a contrato de compra e venda de imóvel, no qual o atraso impediu a imissão na posse do bem - Recuso não provido." (e-STJ fl. 554)
+Embargos de Declaração: opostos, por SDNR EMPREENDIMENTOS IMOBILIÁRIOS E PARTICIPAÇÕES LTDA., PRAETORIUM PARTICIPAÇÕES LTDA. e DAVID JACQUES ELWING, sucessores de CONDOMÍNIO DOLCE VILLA, foram rejeitados. (e-STJ fl. 592/595)
+Recurso especial: alegam violação dos arts. 389, 395, 404, CC, 1.022, I, 1.025, CPC. Além de negativa de prestação jurisdicional, sustentam que: i) a Corte local violou a norma contida no Código Civil, que prevê o retorno das partes ao status quo ante diante da declaração de dano de natureza material em função da falha dos serviços prestados pela recorrida e, especificamente, a inclusão dos honorários de advogado na indenização de danos materiais a ser paga para os recorrentes, e não para seu advogado, pela recorrida; e, ii) a Corte local não se atentou à distinção entre os honorários advocatícios contratuais para representação judicial e aqueles atinentes às providências extrajudiciais.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca do não pagamento, pela parte agravada, dos honorários convencionados entre os agravantes e seus causídicos, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 389, 395, 404, CC, indicados como violados, apesar da oposição de embargos de declaração.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+1. Ação indenizatória por danos materiais.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Agravo conhecido. Recurso especial conhecido em parte e, nessa extensão, não provido.
