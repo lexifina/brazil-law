@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DANIEL MIGUEL DA SILVA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS que inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição da República, proposto contra o acórdão proferido na Apelação Criminal n. 0705977-57.2019.8.02.0058.
+Conforme se extrai da leitura de sentença, o Réu foi condenado, pelo cometimento do delito previsto no art. 306 da Lei n. 9.503/1997, às reprimendas de 10 (dez) dias-multa; além de suspensão do direito de dirigir por seis meses, convertida a sanção corporal por restritivas de direitos (fls. 184-185).
+Não satisfeita, a Defesa apelou. A Corte de justiça a quo negou provimento à apelação (fls. 234-243).
+No recurso especial, a parte recorrente aponta negativa de vigência ao art. 65, caput, do Código Penal (fl. 252), aduzindo, em suma, ser possível a redução da pena aquém do mínim o legal, não obstante a Súmula n. 231/STJ (fls. 252-254 ).
+Contrarrazões apresentadas às fls. 261-267. O recurso especial foi inadmitido às fls. 269-271. Houve a interposição de agravo (fls. 275-280).
+No parecer juntado às fls. 307-313, o Ministério Público Federal opinou pelo não conhecimento do recurso especial ou pelo desprovimento.
+É o relatório.
+Decido.
+A Corte de justiça de origem afastou o pleito de minoração aquém do mínimo legal nestes termos (fls. 242, sem grifos no original):
+"No tocante à aplicação do quantum relativo à atenuante da confissão espontânea, embora o Juízo a quo tenha reconhecido a existência da referida atenuante da pena, baseada no art. 65, III, CP, deixou de estabelecê-la abaixo do patamar mínimo, acompanhando, acertadamente, o entendimento exposto na Súmula 231 do STJ, quando diz que "a incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal".
+Nesse aspecto, muito embora tenha o apelante pleiteado a não aplicação da súmula nº 231 do STJ, destaco que, como já decidi em vários outros casos, mantenho meu posicionamento na esteira do que vem decidindo o Superior Tribunal de Justiça, em inúmeros julgados, que culminaram na publicação do mencionado enunciado, o que reflete a perspectiva de verdadeira consolidação de jurisprudência. Tal consideração, desse modo, impede a diminuição da reprimenda aquém do mínimo legal na terceira fase da dosimetria da pena."
+Ao decidir nesses termos, o Tribunal de justiça a quo o fez na mais absoluta congruência com a jurisprudência deste Superior Tribunal de Justiça, cristalizada na Súmula n. 231/STJ: "A incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal".
+A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. DOSIMETRIA. ATENUANTE DA CONFISSÃO ESPONTÂNEA. REDUÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL. IMPOSSIBILIDADE. SÚMULA N. 231/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A incidência de circunstância atenuante, como a confissão espontânea, não pode conduzir à redução da pena para aquém do mínimo legal, conforme dispõe a Súmula n. 231 deste Tribunal Superior.
+2. "A incidência do verbete n. 231/STJ permanece firme na jurisprudência desta Corte e o Agravante não trouxe argumento idôneo que, em tese, poderia justificar uma modificação do entendimento acerca do tema (overruling)" (AgRg no AREsp n. 2.243.342/PA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/5/2023, DJe de 9/5/2023).
+3. Agravo regimental desprovido." (AgRg no AREsp n. 2.456.759/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 06/02/2024, DJe de 14/02/2024, sem grifos no original.)
+"PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO PRIVILEGIADO. ART. 33, § 4º, DA LEI N. 11.343/06. CIRCUNSTÂNCIAS ATENUANTES CAPITULADAS NO ART. 65, I E III, ALÍNEA "D", DO CÓDIGO PENAL - CP. MENORIDADE PENAL RELATIVA E CONFISSÃO ESPONTÂNEA. IMPOSSIBILIDADE DE REDUÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL. SÚMULA N. 231 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL CONHECIDO E DESPROVIDO.
+1. Nos termos da Súmula n. 231 do STJ, "a incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal".
+1.1. "A incidência do verbete n. 231/STJ permanece firme na jurisprudência desta Corte e o Agravante não trouxe argumento idôneo que, em tese, poderia justificar uma modificação do entendimento acerca do tema (overruling)" (AgRg no AREsp n. 2.243.342/PA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/5/2023, DJe de 9/5/2023.) 2. Agravo regimental conhecido e desprovido." (AgRg no AREsp n. 2.226.158/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/06/2023, DJe de 29/06/2023, sem grifos no original.)
+Ante o exposto, CONHEÇO do a gravo para CONHECER e NEGAR PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. DELITO DO ART. 306 DA LEI N. 9.503/1997. CONFISSÃO ESPONTÂNEA. PENA-BASE NO MÍNIMO LEGAL. ÓBICE DA SÚMULA N. 231/STJ MANTIDA. AGRAVO CONHECIDO PARA CONHECER E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
