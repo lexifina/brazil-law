@@ -1,0 +1,77 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por APARECIDO FRANCISCO BARBINO (APARECIDO) contra decisão que negou seguimento ao seu apelo nobre anteriormente manejado.
+Foi apresentada contraminuta (e-STJ, fls. 538/553).
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+O inconformismo, no entanto, não merece prosperar.
+Em seu recurso especial, amparado no art. 105, III, a e c, da CF, APARECIDO alegou ofensa ao art. 425 do NCPC, além de divergência jurisprudencial. Sustentou que (1) o mero print de tela sistêmica não serve como meio de prova, tampouco para imputar falta grave e descredenciar o motorista do UBER; (2) o print de tela sistêmica não pode ser equiparado a extratos digitais de bancos de dados públicos e privados; e, (3) antes do cancelamento de seu cadastro, deveria ter sido ele notificado previamente.
+Foram apresentadas contrarrazões (e-STJ, fls. 502/520).
+Das assertivas de que o print de tela sistêmica não serve como prova e de que não pode ser equiparado a extratos digitais de bancos de dados
+APARECIDO alegou ofensa ao art. 425 do NCPC. Sustentou que (1) o mero print de tela sistêmica não serve como meio de prova, tampouco para imputar falta grave e descredenciar o motorista do UBER; e, (2) o print de tela sistêmica não pode ser equiparado a extratos digitais de bancos de dados públicos e privados.
+Sobre o tema, a Corte local assim consignou:
+Pois, ao contrário do que sustenta o apelante, o fato objetivo é que a demandada aqui provou por meio da exibição das chamadas telas sistêmicas, isto é, dos registros lançados no seu sistema digital, que houve a queixa de usuários do serviço conforme descrito a fls. 319/320.
+Note-se que motivo não havia para se negar fé àqueles informes, eis que o artigo 425 Código de Processo Civil textualmente confere eficácia como meio de prova às chamadas telas sistêmicas, isto é, aos "extratos digitais de bancos de dados públicos e privados, desde que atestado pelo seu emitente, sob as penas da lei, que as informações conferem com o que consta na origem".
+Na espécie a relação entre os usuários do serviço e a plataforma era toda informatizada, sendo a avaliação dos motoristas realizada no próprio aplicativo, o que explicava o fato de a ré não dispor de documento escrito acerca dessas queixas, mas só mesmo dos registros sistêmicos.
+Certo, ainda, que nenhuma razão havia para se supor que as denúncias não se referiam ao autor, eis que lá constava o nome do motorista ao lado da reclamação dos passageiros.
+As informações que poderiam identificar os referidos passageiros foram compreensivelmente omitidas do retrato das telas sistêmicas, mas isso não autorizava duvidar da realidade das denúncias, nem reconhecer que não diziam respeito ao autor.
+De mais a mais, à vista do que dispõe o artigo 22 da Lei nº 12.965/2014 (Marco Civil da Internet) o autor nem poderia exigir que o Juiz mandasse a ré apresentar informações que levariam à identificação dos usuários.
+E embora o autor afirme que no tocante à reclamação de 29 de maio de 2021 restou comprovado que houve equívoco da passageira em relação à identificação do motorista, nada havia a demonstrar que era essa a situação, não se prestando a tanto, evidentemente, o fato de não ter sido já naquela oportunidade imposta alguma sanção ao autor, o que na verdade , apenas revelava que a apelada teve o bom senso de não proceder ao descredenciamento já à vista da primeira denúncia.
+De todo modo, ainda assim, restava a queixa realizada em 26 de novembro de 2021, de que o motorista teria sido preconceituoso e se recusado a transportar a passageira por ser obesa.
+Note-se que nos detalhes da reclamação a solicitante do serviço relatava que "O motorista foi preconceituoso por eu ser obesa e estar gestante arrancou com o carro e me derrubou no chão por conta disso tive que ser hospitalizada, quero os dados do motorista pra processar ele e processar Uber junto" (fls. 320) (e-STJ, fls. 469/470).
+Nesse sentido, constata-se a incidência do óbice da Súmula nº 283 do STF, uma vez que a parte deixou de atacar fundamentos autônomos e suficientes para manter o julgado.
+Com efeito, o aresto recorrido esclareceu que as telas sistêmicas são os registros lançados no sistema digital do UBER, considerando que a relação entre os usuários do serviço e a plataforma é toda informatizada, não havendo como dispor de documento escrito. Ficou destacado, nesse contexto, que as queixas e demais procedimentos devem ser mesmo efetivadas por esses registros sistêmicos, que servem como meio de prova e correspondem a extratos digitais de banco de dados. De qualquer sorte, ficou demonstrada a queixa realizada, com detalhes suficientes da reclamação
+Todavia, constatou-se que APARECIDO não infirmou as conclusões do Tribunal estadual, tendo apenas asseverado que o mero print de tela sistêmica não serve como meio de prova, tampouco para imputar falta grave e descredenciar o motorista do UBER e que o print de tela sistêmica não pode ser equiparado a extratos digitais de bancos de dados públicos e privados.
+Dessa forma, observa-se que não houve a impugnação do referido fundamento, o que atrai a incidência da Súmula nº 283 do STF, por analogia: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+A propósito, vejam-se os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. VALOR DEPOSITADO EM CONTA BANCÁRIA. IMPENHORABILIDADE ATÉ O LIMITE DE 40 SALÁRIOS MÍNIMOS. INCIDÊNCIA DA SÚMULA 83/STJ. AFRONTA AO PRINCÍPIO DA VEDAÇÃO DA DECISÃO SURPRESA. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283/STF. VIOLAÇÃO DOS ARTS. 789, 797. 789, 797, 824, 854, § 3º, I, DO CPC/2015. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, todos os valores pertencentes ao devedor, até o limite de 40 (quarenta) salários mínimos, mantidos em conta-corrente, caderneta de poupança ou fundos de investimentos são impenhoráveis, ressalvada a comprovação de má-fé, abuso de direito ou fraude. Incidência da Súmula 83/STJ no caso.
+2. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do recurso especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+3. A alegação genérica de violação de lei federal, sem que a parte insurgente explicite, de forma concreta, como os dispositivos teriam sido vulnerados pelo aresto impugnado, configura deficiência na fundamentação, ensejando a inadmissibilidade do recurso especial ante incidência da Súmula n. 284/STF.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.783.548/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 16/8/2021, DJe 19/8/2021)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. EMBARGOS DE DECLARAÇÃO. PRESTAÇÃO JURISDICIONAL COMPLETA. PREQUESTIONAMENTO. AUSÊNCIA PARCIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICA. SÚMULAS 282, 283, 284 E 356/STF E 7/STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação aos arts. 489 e 1.022 do Código de Processo Civil.
+2. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+3. A jurisprudência desta Corte considera deficiente a fundamentação quando a parte não indica o dispositivo legal violado, ainda que para efeito da divergência jurisprudencial. Incidência, por analogia, da Súmula 284 do Supremo Tribunal Federal.
+4. Ausência de impugnação específica a fundamento do acórdão recorrido atrai a incidência, por analogia, da Súmula 283 do Supremo Tribunal Federal.
+5. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+6. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1.711.630/SC, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 16/8/2021, DJe 18/8/2021)
+Da alegada divergência jurisprudencial
+APARECIDO aduziu divergência jurisprudencial. Sustentou que antes do cancelamento de seu cadastro, deveria ter sido ele notificado previamente.
+Dessa forma, o conhecimento do recurso especial interposto com fundamento na alínea c do permissivo constitucional exige, além da demonstração analítica do dissídio jurisprudencial, a indicação clara e precisa dos dispositivos de lei federal supostamente violados ou objeto de interpretação divergente. Ausentes tais requisitos, incide o óbice da Súmula nº 284 do STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Na hipótese, APARECIDO limitou-se a apontar divergência jurisprudencial, sem indicar, de forma clara e precisa, os dispositivos de lei federal supostamente violados, uma vez que apenas mencionou, nas razões do seu recurso, que antes do cancelamento de seu cadastro, deveria ter sido ele notificado previamente.
+É relevante ressaltar que a mera citação de dispositivos de lei federal no bojo do recurso não é suficiente para afastar a aplicação da Súmula nº 284 do STF.
+Sobre o tema, confiram-se os precedentes:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO QUANTO À ANÁLISE DA DIVERGÊNCIA JURISPRUDENCIAL. OCORRÊNCIA. RECURSO ESPECIAL INTERPOSTO COM FUNDAMENTO NA ALÍNEA "C" DO ART. 105, III, DA CONSTITUIÇÃO FEDERAL. FALTA DE PARTICULARIZAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. INCIDÊNCIA DA SÚMULA 284 DO STF.
+1. A jurisprudência consolidada deste Superior Tribunal de Justiça determina que, na interposição do recurso especial pelo art. 105, III, alínea "c", da Constituição Federal, é preciso particularizar o dispositivo de lei federal violado para a análise da divergência jurisprudencial entre os acórdãos recorrido e paradigma. A falta desse pressuposto enseja deficiência na fundamentação e inviabiliza o conhecimento do recurso, ante a incidência, por analogia, da Súmula 284 do STF.
+2. Embargos de declaração acolhidos, sem alteração no resultado do julgamento.
+(EDcl no AgInt no AREsp 1.407.488/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 17/12/2019, DJe 19/12/2019 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 489 DO CPC/2015. RECURSO ESPECIAL. ALÍNEA "C". INTERPRETAÇÃO DIVERGENTE. FUNDAMENTAÇÃO DEFICIENTE. AUSÊNCIA DE DEMONSTRAÇÃO. SÚMULA Nº 284/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em violação do art. 489 do CPC/2015, visto a decisão estar clara e suficientemente fundamentada, solucionando integralmente a controvérsia.
+3. O recurso especial fundamentado no dissídio jurisprudencial exige, em qualquer caso, que tenham os acórdãos - recorrido e paradigma - examinado o tema sob o enfoque do mesmo dispositivo de lei federal. Se nas razões de recurso especial não há a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da divergência de interpretação à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.384.311/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 29/4/2019, DJe 6/5/2019 - sem destaque no original)
+Mesmo que ultrapassado esse óbice, da análise do recurso interposto, é possível verificar que APARECIDO não cumpriu a tarefa no tocante ao dissídio interpretativo viabilizador do recurso especial, que não foi demonstrado nos termos exigidos pela legislação e pelas normas regimentais.
+Isso porque, além de indicar o dispositivo legal e transcrever os julgados apontados como paradigmas, é necessário realizar o cotejo analítico, demonstrando-se a identidade das situações fáticas e a interpretação diversa dada ao mesmo dispositivo legal, o que não ocorreu.
+Portanto, não foram preenchidos os requisitos dos arts. 1.029, § 1º, do NCPC, e 255 do RISTJ, o que inviabiliza o exame de dissídio interpretativo.
+A propósito, confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. CONSÓRCIO. FUNDAMENTAÇÃO DEFICIENTE. DISPOSITIVO LEGAL. VIOLAÇÃO. AUSÊNCIA DE INDICAÇÃO. RAZÕES DISSOCIADAS. SÚMULA Nº 284/STF. DANO MORAL. CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. VALOR ARBITRADO. REEXAME. SÚMULA Nº 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO.
+ ..
+6. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional, nos termos do art. 1.029, § 1º, do Código de Processo Civil de 2015 e do art. 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+7. Agravo interno não provido.
+(AgInt no AREsp 1.157.779/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 10/6/2019, DJe 14/6/2019 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C PEDIDO DE INDENIZAÇÃO POR DANO MORAL. DANOS MORAIS. PEDIDO DE ALTERAÇÃO. REVISÃO QUE SE ADMITE TÃO SOMENTE NOS CASOS EM QUE O VALOR SE APRESENTAR IRRISÓRIO OU EXORBITANTE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. A revisão da compensação por danos morais só é viável em recurso especial quando o valor fixado for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula 7/STJ, impedindo o conhecimento do recurso.
+2. A análise da divergência jurisprudencial atinente a danos morais mostra-se incabível, porquanto, no aspecto subjetivo, os acórdãos serão sempre distintos.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.430.868/SC, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 20/5/2019, DJe 22/5/2019)
+Nessas condições, CONHEÇO do agravo, mas NÃO CONHEÇO do recurso especial.
+Considerando a aplicabilidade do NCPC, MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor de APARECIDO, nos termos do art. 85, §§ 2º e 11, do NCPC, observada a justiça gratuita.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA COM PEDIDO INDENIZATÓRIO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA Nº 283 DO STF. FUNDAMENTAÇÃO DEFICIENTE. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI VIOLADO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF, POR ANALOGIA. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA NOS MOLDES LEGAIS. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
