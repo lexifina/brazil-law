@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial, interposto por JOÃO BATISTA DE MELLO, com fundamento no art. 105, III, c, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fl.48):
+PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. AGENTES NOCIVOS. TEMPO ESPECIAL. COISA JULGADA.
+1. Se já houve pronunciamento judicial com trânsito em julgado acerca da pretensão de reconhecimento da especialidade de determinado tempo laboral, com identidade de partes, pedido e causa de pedir, a questão não mais pode ser discutida, visto que existente a coisa julgada.
+2. Segundo previsão do artigo 474 do CPC, presumem-se deduzidos na ação anterior, independentemente de nominação expressa, todos os agentes nocivos que poderiam qualificar o atividade do autor como especial, não constituindo nova causa de pedir a troca de um por outro no mesmo lapso temporal.
+Aponta o recorrente divergência jurisprudencial, com julgados desta Corte no que tange à interpretação do artigo 508 do CPC/2015 (antigo 474 do CPC), na medida em que, o Tribunal de origem, "em decisão interlocutória, extinguiu o feito sem resolução quanto as especialidades supramencionadas devido a ocorrência, na sua interpretação, de ocorrência de coisa julgada" (fl. 59).
+Afirma que, "a interpretação dada pela 6ª Turma do TRF-4, de que a eficácia preclusiva da coisa julgada se estende aos demais agentes nocivos, mesmo que não alegados, e que estes não constituem nova causa de pedir, diverge da interpretação dada pelo TRF-3, de outras turmas do próprio TRF-4 e, por fim, do STJ" (fl. .59)
+Defende que "O TRF-4 ao não considerar agente nocivo diverso nova causa de pedir, estende a eficácia preclusiva a todos os agentes nocivos que poderiam ensejar o reconhecimento da especialidade, .." (fl. 61)
+Aduz que "a causa de pedir próxima são os fundamentos jurídicos que ensejam o pedido, enquanto a causa de pedir remota são os fatos que ensejam a causa de pedir. Na atividade especial, a exposição ao ruído acima do limite ou a agentes químicos são fatos diversos e, em que pese possuam as mesmas consequências jurídicas, tratam-se os agentes nocivos diferentes como causas de pedir remotas distintas" (fl. 62).
+Ao final, requer o provimento do recurso para "Reconhecer a inexistência de coisa julgada em relação as especialidades entre 06/03/1997 a 21/09/2000 e 20/02/2001 a 25/04/2003 por se tratarem de agentes nocivos diversos e determinar o retorno dos autos ao Tribunal de origem para julgamento das atividades especiais" (fl.63) .
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+A irresignação não comporta acolhida.
+Na espécie, o Tribunal de origem, com base no conjunto probatório dos autos, ao solucionar a controvérsia, adotou as seguintes razões de decidir (fls. 44/46):
+A coisa julgada vem definida no artigo 502 do NCPC como a "eficácia, que torna imutável e indiscutível a sentença, não mais sujeita a recurso ordinário ou extraordinário". Dito de outro modo, a coisa julgada consiste na inadmissibilidade de novo exame do assunto e solução diferente a respeito da mesma relação jurídica, seja por outro, seja pelo mesmo juiz que a apreciou, óbice processual que pode ser reconhecido inclusive de ofício pelo magistrado, nos termos do artigo 485, §3º do NCPC. Para a sua configuração, todavia, é necessário que se reproduza a ação anteriormente ajuizada, ou seja, as partes, a causa de pedir e os pedidos têm de ser idênticos (artigo 337, §§ 1º e 2º, do NCPC).
+A parte autora, em suas razões recursais, postula o reconhecimento da especialidade das atividades exercidas nos períodos que restaram indeferidos na sentença, compreendidos:
+- de 06/03/97 a 21/09/00, laborado na empresa Moreflex; e
+- de 20/02/01 a 25/04/03, na empresa JH Ind. de Couros e Peles Ltda.
+Entretanto, tenho que tal pedido não prospera, na medida em que, do exame das peças processuais juntadas a este feito e no anteriormente ajuizado, se constata que caracterizam-se pelas mesmas partes, mesma causa de pedir e mesmo pedido. Ora, presente a coisa julgada, sem alteração na situação de fato (artigo 505, I, do novo CPC), não é possível ao juiz decidir novamente questões já decididas, ainda que sob outros argumentos.
+Com o trânsito em julgado da sentença de mérito na ação anterior, é como se tivessem sido oferecidas e examinadas todas as alegações que poderiam ser objetadas visando o acolhimento do pedido. Bem assim, o disposto no art. 508 do novo CPC, que, de forma similar ao artigo 474 do código anterior: "transitada em julgado a decisão de mérito, considerar-se-ão deduzidas e repelidas todas as alegações e as defesas que a parte poderia opor tanto ao acolhimento quanto à rejeição do pedido".
+Nada obstante os respeitáveis argumentos contidos no voto da ilustre relatora e julgados nesta mesma linha, tenho compreendido que novos agentes nocivos alegados e/ou não examinados para o mesmo período não constituem nova causa de pedir.
+(..)
+No caso em apreço, penso inexistir dúvida de que há identidade de partes, de causa de pedir e de pedido. Logo, já tendo havido pronunciamento judicial com trânsito em julgado em relação à pretensão posta em juízo, a questão não mais pode ser discutida, visto que existente coisa julgada material (inteligência do artigo 5º, inciso XXXVI, da Constituição Federal).
+Nesse contexto, a alteração das conclusões adotadas pela Corte de origem, a fim de afastar a coisa julgada reconhecida pelo Tribunal de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+A propósito, confiram-se:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. COISA JULGADA. CONFIGURAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em
+09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A jurisprudência desta Corte considera deficiente a fundamentação do
+recurso quando os dispositivos apontados como violados não têm comando
+normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+III - O tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, reconheceu a tríplice identidade (partes, pedido e causa de pedir), bem como que já houve o exame da especialidade dos períodos na demanda anteriormente ajuizada (agente nocivo químico e ruído).
+IV - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no REsp n. 1.953.812/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 6/12/2021, DJe de 10/12/2021.)
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. EFEITOS DA COISA JULGADA. INCIDÊNCIA. SÚMULA N. 7/STJ.
+I - Verifica-se que o Tribunal a quo, com base na análise do conjunto fático- probatório, entendeu que houve ofensa à coisa julgada, porquanto a pretensão do autor na presente lide é a mesma formulada no processo anteriormente julgado.
+II - Assim sendo, trata-se de repetição de pedido já apreciado, em caráter definitivo, pelo Poder Judiciário, deduzido novamente pela mesma parte, contra o mesmo réu. É o quanto basta para que se configure a tríplice identidade.
+III - Nos moldes do art. 301 do Código de Processo Civil, verifica-se a coisa julgada sempre que se reproduz uma ação idêntica à outra anteriormente ajuizada, que já foi decidida por sentença da qual não caiba mais recurso.
+IV - Conforme a jurisprudência dessa e. Corte, a análise da ocorrência da coisa julgada importa reexame do conjunto fático-probatório, vedado em recurso especial, ante o teor da Súmula n. 7/STJ. Nesse sentido: AgRg no AREsp 517.605/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 7/8/2014, DJe 9/10/2014 e AgInt no AREsp 669.473/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 22/8/2017, DJe 30/8/2017.
+V - Agravo interno improvido.
+(AgInt no AREsp n. 1.115.126/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 25/9/2018, DJe de 28/9/2018.)
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, § 1º, do RISTJ.
+ANTE O EXPOSTO, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
