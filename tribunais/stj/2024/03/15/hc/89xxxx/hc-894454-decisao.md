@@ -1,0 +1,12 @@
+DECISÃO
+PAULO HENRIQUE DOS SANTOS SILVA, denunciado por roubo majorado e associação criminosa, alega sofrer coação ilegal em face de acórdão do Tribunal a quo, denegatório do pedido de revogação de sua prisão preventiva, o qual reitera a esta Corte, sob o argumento de inexistência dos requisitos para a manutenção da medida na sentença.
+Aponta que o reconhecimento de menor participação do paciente no delito constitui fato novo apto a ensejar a fixação de cautelares do art. 319 do CPP.
+Decido.
+Preso durante toda a instrução criminal, o paciente foi condenado por roubo majorado, duas vezes, a 8 anos, 7 meses e 20 dias de reclusão e 145 dias-multa. O Juiz negou ao "réu o direito de recorrer em liberdade, por entender ainda presentes as razões para a manutenção da prisão preventiva, expostas na decisão que manteve a custódia" (fl. 86).
+É possível o avanço para denegação da ordem, in limine, uma vez que o édito prisional, mantido na sentença, já foi considerado legal por esta Corte.
+A defesa argumenta que o réu teve participação de menor importância, mas o Juiz não declarou essa causa de redução da pena na sentença. Os roubos atribuídos ao postulante foram os mesmos sopesados no RHC n. 180.037/CE, quando o pedido de liberdade foi denegado. Na oportunidade, esta Corte reconheceu a legalidade do édito prisional, pois o Juiz destacou a gravidade em concreto dos crimes (subtração de arma de fogo e munições, com emprego de artefato bélico, concurso de agentes e restrição da liberdade da vítima), motivação apta a evidenciar a periculosidade do suspeito e o risco que sua liberdade representa para a ordem pública. Ainda, ante as apontadas conjunturas do fato, não se mostrou adequada e suficiente a fixação de providências alternativas (art. 282 c/c art. 319 do CPP).
+Assim, como o ato judicial foi ratificado na condenação, nos "termos do art. 210 do RISTJ, o habeas corpus não pode prosseguir quando é reiteração de pedido anterior deduzido em outro writ" (AgRg nos EDcl no HC 722.511/SP, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 29/4/2022).
+Deveras: "Assente nesta eg. Corte que "Não se conhece de habeas corpus que objetiva mera reiteração de pedido analisado em recurso anteriormente interposto" (AgRg no HC n. 403.778/CE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 10/8/2017)" (AgRg no RHC n. 161.259/GO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/3/2023, DJe de 14/3/2023).
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
