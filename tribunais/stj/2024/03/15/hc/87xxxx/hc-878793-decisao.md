@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de DANIEL LOPES contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (Revisão Criminal nº 0001158-80.2023.8.21.7000) assim ementado (e-STJ fl. 689):
+REVISÃO CRIMINAL. CRIMES CONTRA O PATRIMÔNIO. ROUBO DUPLAMENTE MAJORADO. NULIDADES. OFENSA AO PRINCÍPIO DO DEFENSOR PÚBLICO NATURAL. NOMEAÇÃO DE DEFENSOR DATIVO PARA ASSISTIR DENUNCIADO EM AUDIÊNCIA. SÚMULA Nº 523 DO SUPREMO TRIBUNAL FEDERAL. REJEIÇÃO.
+É direito do assistido pela Defensoria Pública do Estado o patrocínio de seus interesses pelo defensor natural, a garantir a imparcialidade na designação e na atuação da defesa. Atuação da Instituição nas demandas em que figure pessoa carente que não se revela de caráter exclusivo, podendo o magistrado nomear dativo quando da impossibilidade de comparecimento do Defensor Público. Eiva não detectada, pois apenas a completa ausência de defesa constituiria causa de nulidade absoluta. Eventual deficiência que, para macular o feito, exigiria demonstrativo de prejuízo concreto, este inocorrente na espécie. Exercício da função de modo eficiente pelo causídico nomeado pelo juízo singular. Inteligência do Enunciado nº 523 das Súmulas do Supremo Tribunal Federal.
+RECONHECIMENTO PESSOAL. ILEGALIDADE. INOBSERVÂNCIA AO ARTIGO 226 DO CÓDIGO DE PROCESSO PENAL. REJEIÇÃO.
+Eventual inobservância das recomendações previstas no artigo 226 do Estatuto Penal Adjetivo que não acarreta a imediata nulidade do ato, especialmente na ausência de qualquer sinal de indução ou influência, como ocorreu no caso em concreto, no qual a ofendida realizou a recognição pessoal do requerente em pretório, afirmando tê-lo identificado sem qualquer dúvida.
+Alteração de entendimento jurisprudencial que não serve à revisão da condenação nos termos pretendidos.
+REVISÃO CRIMINAL JULGADA IMPROCEDENTE.
+UNÂNIME.
+No presente writ, sustenta o impetrante a ocorrência de cerceamento de defesa, uma vez que foi nomeado defensor dativo ao paciente para a audiência de instrução e julgamento.
+Aponta, ainda, que o reconhecimento pessoal realizado não obedeceu as regras estabelecidas no art. 226 do CPP.
+Requer, ao final, seja reconhecidas as nulidades apontadas, devendo o paciente ser absolvido do crime de roubo.
+Com vista dos autos, opinou o Ministério Público Federal pela "denegação do habeas corpus" (e-STJ fls. 716/721).
+É o relatório. Decido.
+Em razão da utilização crescente e sucessiva do habeas corpus, o Superior Tribunal de Justiça passou a acompanhar a orientação do Supremo Tribunal Federal, no sentido de não ser admissível o emprego do writ como sucedâneo de recurso ou revisão criminal, a fim de não se desvirtuar a finalidade dessa garantia constitucional, preservando, assim, sua utilidade e eficácia, e garantindo a celeridade que o seu julgamento requer.
+Oportuno registrar que referido entendimento foi ratificado pela Terceira Seção do Superior Tribunal de Justiça, em 10/6/2020, no julgamento da Questão de Ordem no Habeas Corpus n. 535.063/SP, a qual foi "acolhida, por maioria, para não conhecer do habeas corpus por não ser sucedâneo do recurso ordinário".
+Nessa linha de intelecção, como forma de racionalizar o emprego do habeas corpus e prestigiar o sistema recursal, não se admite a sua impetração em substituição ao recurso próprio. Todavia, em homenagem ao princípio da ampla defesa, tem se admitido o exame da insurgência, para verificar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Nada obstante, na hipótese dos autos, constata-se que a defesa efetivamente interpôs o recurso cabível, qual seja, o AResp-2.509.482/RS, no qual se aponta igualmente as mesmas nulidades aqui discutidas.
+Nesse contexto, tendo a defesa se utilizado simultaneamente do habeas corpus e do recurso apropriado, tem-se manifesta a subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais, o que impede o conhecimento do presente mandamus.
+Com efeito, "a jurisprudência desta Corte não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade". (AgRg no HC n. 823.337/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/8/2023, DJe de 21/8/2023).
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. CONDENAÇÃO MANTIDA EM APELAÇÃO. PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA DE VIOLAÇÃO. MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE. NÃO CONHECIMENTO DA IMPETRAÇÃO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não há falar em violação ao princípio da colegialidade na decisão proferida nos termos do art. 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça - RISTJ que dispõe que cabe ao relator, em decisão monocrática, "não conhecer do recurso ou pedido inadmissível, prejudicado ou daquele que não tiver impugnado especificamente todos os fundamentos da decisão recorrida", lembrando, ainda, a possibilidade de apreciação pelo órgão colegiado por meio da interposição do agravo regimental.
+2. Não se mostra adequada a possibilidade de análise da matéria para eventual concessão da ordem de ofício, haja vista a interposição concomitante de recurso especial perante o Tribunal de origem. Com efeito, nos termos da jurisprudência consolidada nesta Corte Superior, inviável o conhecimento de habeas corpus impetrado concomitantemente com o recurso próprio, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 809.553/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+Ante o exposto, não conheço do mandamus.
+Publique-se.
+EMENTA
