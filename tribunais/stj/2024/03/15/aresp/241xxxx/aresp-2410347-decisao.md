@@ -1,0 +1,22 @@
+DECISÃO
+WELLINGTON SANTOS NASCIMENTO agrava de decisão que inadmitiu seu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios na Apelação Criminal n. 0701810-84.2020.8.07.0005.
+O agravante foi condenado, como incurso no art. 155, § 4º, III e IV, do Código Penal, à sanção de 3 anos, 1 mês e 10 dias de reclusão, em regime fechado, mais 15 dias-multa, o que foi mantido em grau recursal.
+Nas razões do recurso especial, a defesa apontou violação dos arts. 155, § 4º, III e IV, do Código Penal, e 386, VII, do Código de Processo Penal, em síntese, sob o argumento de que são insuficientes as provas usadas para a condenação do recorrente, razão pela qual requereu sua absolvição.
+Apresentadas as contrarrazões, o recurso foi inadmitido na origem, o que deu causa à interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não provimento do agravo em recurso especial, mas pela concessão de habeas corpus de ofício a fim de alterar o regime prisional para o semiaberto (fls. 501-507).
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivos pelos quais comporta conhecimento.
+O especial, por sua vez, não suplanta o juízo de prelibação, haja vista a incidência da Súmula n. 7 do STJ.
+O Tribunal de origem manteve a condenação do acusado pelo crime que lhe foi imputado, sob os seguintes fundamentos (fls. 421-422, grifei):
+Observa-se, portanto, que a vítima obteve êxito em localizar o veículo, na mesma noite em que ocorrido o furto, dentro do Residencial Arapoanga. Além disso, consoante termo de declaração prestado junto à Autoridade Policial, a vítima informou, ainda, que, pouco tempo após o furto, populares lhe passaram a informação de que um indivíduo de alcunha "BARTOLO" teria o modus operandi de furtar veículos próximos ao CENTRO ESPÍRITA CABANA DOS ORIXÁS e conduzi-los até o "FORRÓ DO TRINFO", local em que, de fato, localizou o bem.
+Com base em pesquisa no Banco de Dados da Polícia Civil do Distrito Federal, constatou-se que o apelante WELLINGTON SANTOS NASCIMENTO seria conhecido pela alcunha de "BARTOLO", consoante diversas ocorrências policiais (ID 40906825 - págs. 5/6).
+Além disso, o Laudo de perícia papiloscópica nº 31.128 (ID 40906824 - págs.11/17) identificou fragmentos papiloscópicos do apelante WELLIGTON no espelho retrovisor interno do veículo subtraído, local comumente manuseado pelo motorista, não restando dúvidas de que o ora apelante se encontrava no interior do veículo.
+A vítima, por sua vez, informou que WELLINGTON, assim como o apelado VITOR, não são pessoas de seu convívio social e, portanto, nunca entraram em seu veículo coma sua anuência.
+Nesse viés, deve-se ter em mente que o laudo pericial é prova técnica forte e suficiente para elucidação do crime, principalmente quando não é elidido por outros meios probatórios, estando a negativa de autoria, por parte do apelante, isolada nos autos. Com efeito, o fato de haver impressão digital no espelho retrovisor interno do carro, comprova que o acusado esteve no veículo não apenas como passageiro, mas na condição de condutor, na medida em que precisou ajustar o retrovisor para conduzir o veículo.
+Há que se diferenciar que o caso em tela não se assemelha àqueles em que o bem é furtado e encontrado dias depois, o que poderia ensejar, no mínimo, a dúvida no julgador se a digital encontrada no bem pertenceria ao agente que subtraiu o bem ou ao que o recebeu ilicitamente. Pelo contrário, observa-se que o bem foi localizado momentos após a subtração, com a identificação de fragmento de impressão digital do apelante.
+Dessa forma, constato que as instâncias antecedentes, após minuciosa análise do acervo fático-probatório carreado aos autos, concluíram pela existência de elementos concretos e coesos a ensejar a condenação do recorrente.
+Destaco que o bem foi localizado momentos depois de sua subtração, com a identificação de fragmento de impressão digital do réu, em lugar do carro compatível com a posição de condutor d o veículo - espelho retrovisor interno -, o que foi atestado por laudo pericial.
+Para alterar a conclusão da Corte de origem, com o intuito de absolver o acusado, seria necessária a incursão no conjunto fático-probatório dos autos, procedimento vedado segundo o teor da Súmula n. 7 do STJ.
+À vista do ex posto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
