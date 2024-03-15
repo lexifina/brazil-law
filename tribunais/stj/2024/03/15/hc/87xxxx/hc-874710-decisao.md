@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se  de  habeas  corpus,  sem  pedido  liminar,  impetrado  em  favor  de  JOAO VITOR SILVA DE ARAUJO contra  acórdão  do  Tribunal  de  Justiça  do  Estado  do Rio de Janeiro  proferido  no  julgamento  da  Apelação  Criminal  n.  0874541-94.2022.8.19.0001.
+Consta dos autos que o Paciente foi condenado à pena de 7 (sete) anos de reclusão, em regime inicial semiaberto, mais o pagamento de 20 (vinte) dias-multa, pela prática do crime previsto no art. 157, § 2.º, inciso II, e § 2.º-A, inciso I, do Código Penal.
+Contra a sentença a Defesa interpôs apelação, que não foi provida (fls. 7-22).
+Neste writ, a Parte Impetrante alega que o "acórdão utilizou o concurso de pessoas para aumentar a reprimenda, deslocando-o da terceira fase da metrificação (causa especial de aumento de pena) para a primeira fase (pena-base), violando o critério do artigo 68 do Código Penal" (fl. 5).
+Requer a concessão da ordem para reduzir a pena-base.
+O Ministério Público Federal opinou pelo não conhecimento do writ e, se conhecido, pela denegação da ordem (fls. 63-66).
+É  o  relato  do  necessário.  Decido.
+Consoante consulta realizada no sítio eletrônico do Tribunal de origem, o acórdão impugnado transitou em julgado. Desse modo,  a  presente  impetração  é incabível por  consubstanciar  inadequada  substituição  ao  recurso  a ser dirigido  ao  Superior  Tribunal  de  Justiça (AgRg  no  HC  753.464/SC,  Rel.  Ministra  LAURITA  VAZ,  julgado  em  20/09/2022,  DJe  29/09/2022  e AgRg  no  HC  n.  733.563/RS,  Rel.  Ministro  ROGERIO  SCHIETTI  CRUZ,  SEXTA  TURMA,  julgado  em  10/05/2022,  DJe  16/05/2022;  v.g.).
+Ademais,  o  trânsito  em  julgado  da  causa  principal  em  data  posterior  à  impetração  deste  writ  não  sana  o  vício  de  conhecimento  do  habeas  corpus.  A  coisa  julgada,  que  agora  torna  a  condenação  originária  definitiva,  agrega  ainda  outro  óbice  à  cognição  do  pedido.  Consoante  pacífica  jurisprudência  desta  Corte  " n ão  deve  ser  conhecido  o  writ  que  se  volta  contra  acórdão  já  transitada  em  julgado"  (AgRg  no  HC  n.  751.156/SP,  Rel.  Ministra  LAURITA  VAZ,  SEXTA  TURMA,  julgado  em  09/08/2022,  DJe  18/08/2022;  sem  grifos  no  original),  pois,  nos  termos  do  art.  105,  inciso  I,  alínea  e,  da  Constituição  da  República,  compete  ao  Superior  Tribunal  de  Justiça  decidir,  originariamente,  "as  revisões  criminais  e  as  ações  rescisórias  de  seus  julgados".
+No  mesmo  sentido:  HC  n.  730.555/SC,  Rel.  Ministro  OLINDO  MENEZES  -  Desembargador  Convocado  do  TRF/1.ª  Região  -,  SEXTA  TURMA,  julgado  em  09/08/2022,  DJe  15/08/2022;  AgRg  no  HC  n.  751.137/SP,  Rel.  Ministro  SEBASTIÃO  REIS  JÚNIOR,  SEXTA  TURMA,  julgado  em  02/08/2022,  DJe  04/08/2022  e  AgRg  no  HC  n.  742.237/PR,  Rel.  Ministro  ROGERIO  SCHIETTI  CRUZ,  SEXTA  TURMA,  julgado  em  14/06/2022,  DJe  21/06/2022,  v.g.
+De qualquer forma, não há como reconhecer a presença de manifesta ilegalidade a reclamar a concessão da ordem.
+Ao fixar a pena-base acima do mínimo legal, o Magistrado singular, referendado pela Corte local, destacou o seguinte (fl. 49; sem grifos no original):
+"Atento às diretrizes traçadas pelos artigos 59 e 68 do Código Penal aumento a pena base em 06 (seis) meses de reclusão e em 02 (dois) dias-multa em razão do concurso de agentes, que considero como circunstância judicial, para fixá-la em 04 (quatro) anos e 06 (seis) meses de reclusão e 12 (doze) dias-multa."
+Como se vê, a orientação exposta pelas instâncias de origem não diverge do entendimento desta Corte Superior, segundo o qual "admite-se a utilização das majorantes sobejantes, não empregadas para aumentar a pena na terceira fase da dosimetria, como circunstâncias judiciais desfavoráveis para elevar a pena-base na primeira fase do cálculo" (AgRg no AREsp n. 2.324.309/CE, relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 26/9/2023, DJe de 29/9/2023).
+Com igual conclusão:
+" ..
+5. De acordo com a jurisprudência pacífica desta Corte Superior de Justiça, é legítima a exasperação da pena-base pela existência de majorante sobressalente.
+ ..
+8. Agravo regimental desprovido." (AgRg no HC n. 758.823/SP, relatora Ministra LAURITA VAZ , Sexta Turma, julgado em 11/9/2023, DJe de 14/9/2023; sem grifos no original.)
+Ante o exposto, NÃO CONHEÇO do pedido de habeas corpus.
+Publique -se.  Intimem-se.
+
+EMENTA
+ HABEAS  CORPUS.  WRIT  SUBSTITUTIVO  DE  RECURSO  ESPECIAL,  IMPETRADO  QUANDO  O  PRAZO  PARA  A  INTERPOSIÇÃO  DA  VIA  RECURSAL  CABÍ  VEL  NA  CAUSA  PRINCIPAL  AINDA  NÃO  HAVIA  FLUÍDO.  INADEQUAÇÃO  DO  PRESENTE  REMÉDIO.  PRECEDENTE  S  DA  SEXTA  TURMA  DO  SUPERIOR  TRIBUNAL  DE  JUSTIÇA.  SUPERVENIENTE  TRÂNSITO  EM  JULGADO  DA  CONDENAÇÃO  QUE  AGREGA  ÓBICE  À  COGNIÇÃO  DO  PEDIDO.  ART.  105,  INCISO  I,  ALÍNEA  E,  DA  CONSTITUIÇÃO  DA  REPÚBLICA.  ILEGALIDADE FLAGRANTE NÃO EVIDENCIADA. ROUBO MAJORADO. PENA-BASE ACIMA DO MÍNIMO LEGAL. MAJORANTE SOBRESSALENTE. FUNDAMENTAÇÃO IDÔNEA. PEDIDO  NÃO  CONHECIDO.
