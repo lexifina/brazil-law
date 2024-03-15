@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial, com fundamento na Súmula 83 do STJ.
+Consta dos autos que a agravante foi condenada em primeira instância à pena de 3 anos e 4 meses de reclusão, em regime inicial aberto, e ao pagamento de 334 dias-multa, como incursa no artigo 33, caput e §4º, da Lei n. 11.343/06. A pena privativa de liberdade foi substituída por duas penas restritivas de direitos, consubstanciadas em prestação de serviços à comunidade e prestação pecuniária.
+Em sede de apelação, o Tribunal de origem manteve a pena imposta.
+Inconformada, foi interposto recurso especial, com fulcro na alínea "a" do inciso III do art. 105 da Constituição Federal, o qual não foi admitido na origem.
+Nas razões do especial, aponta a recorrente violação do art. 33, § 4º, da Lei 11.343/06, sustentando que a apreensão de somente 0,710g de maconha e 0,044g de crack não ensejaria a aplicação da fração de 1/3 para a minorante do tráfico privilegiado.
+Requer o provimento do agravo para que seja admitido o recurso especial para, ao final, ser aplicada a fração de máxima da minorante do tráfico privilegiado.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo conhecimento e provimento do agravo para que o recurso especial tenha seguimento.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada.
+Passo, portanto, à análise do mérito.
+Ao julgar a apelação, o Tribunal de origem assim fundamentou o acórdão (e-STJ fls. 632/634):
+Passo, assim, à análise das questões relacionas à dosimetria da pena em relação aos delitos em que condenados os denunciados.
+Como é sabido, cada uma das três etapas de fixação da pena (CP, art. 68) deve ser suficientemente fundamentada pelo juiz sentenciante. Busca-se com tal imposição, além de garantir a sua correta individualização, assegurar ao réu o exercício da ampla defesa, ambos direitos fundamentais de todo cidadão (CF, art. 5º, XLVI e LV).
+Registre-se que o efeito devolutivo da apelação autoriza a Corte estadual, quando instada a se manifestar acerca da dosimetria e do regime inicial de cumprimento depena, a examinar as circunstâncias judiciais e rever a individualização da sanção, seja para manter ou reduzir a reprimenda imposta em primeira instância ou para manter ou abrandar o regime inicial. Orientação pacífica do STF e do STJ.
+ ..
+I) Rosirene Ribeiro Raposo
+I) Crime do art. 33 da Lei n" 11.343/2006
+Na primeira etapa, verifico que a magistrada fixara a pena-base no menor valor previsto em lei para o delito em comento (5 anos de reclusão e 500 dias-multa),considerando favoráveis à recorrentes todas as circunstâncias judiciais elencadas no art. 59 do CP.
+Diante da ausência de circunstâncias agravantes ou atenuantes, assim como de causas de aumento ou de diminuição, aplicando o § 4º do art. 33 da Lei 11.343/2006 em favor da ré Rosirene Ribeiro Rapo, adotando a fração 1/3 (um terço) para a redução, considerando a natureza e a quantidade das drogas apreendidas, alcançou a pena definitiva de 3 (três) anos e 4 (quatro) meses de reclusão, além de 334 (trezentos e trinta e quatro) dias-multa, estabelecendo o regime inicialmente aberto para o cumprimento da sanção privativa de liberdade, a qual, porém, nos termos do art. 44 do CP, substituiu por duas restritivas de direito, consubstanciadas em prestação de serviços à comunidade e prestação pecuniária.
+Sendo assim, e porque não houve insurgência ministerial em seu apelo, relação ao quantum da pena aplicado aos apenados, conclui-se que as sanções estabelecidas estão em consonância com os princípios da proporcionalidade e razoabilidade, bem como com os parâmetros estabelecidos nos preceitos secundários do art. 33 da Lei Antidrogas e art. 29,§ 1º, III da Lei no 9.605/98.
+Desse modo, permanecem como fixadas as penas dos apelantes, pois aplicadas de acordo com os ditames do art. 68 do CP.
+Na espécie, a recorrente foi condenada por manter em depósito 0,710g de maconha e 0,044g de crack - fl. 624, circunstância que denota menor gravidade da conduta delitiva, na linha da orientação jurisprudencial desta Corte, a autorizar tratamento menos rigoroso ao réu primário, devendo a minorante do tráfico privilegiado ser aplicada em seu grau máximo (2/3).
+Entende esta Corte Superior que "a quantidade não relevante e a ausência de circunstâncias adicionais desfavoráveis não ensejam a exasperação da pena-base, a vedação da minorante do tráfico na fração máxima de 2/3, o recrudescimento do regime prisional ou a negativa à substituição das penas" (AgRg no AREsp 1830725/AL, rel. Ministro Antônio Saldanha Palheiro, SEXTA TURMA, julgado em 15/6/2021, DJe 23/6/2021).
+Assim, considerada a primariedade da ré, o quantum de pena aplicado e a não relevante quantidade de entorpecentes, cabível a incidência da minorante do tráfico privilegiado no grau máximo (2/3), a fixação do regime aberto e a substituição da pena privativa de liberdade por penas restritivas de direitos, nos estritos termos dos arts. 33 e 44 do Código Penal.
+Diante disso, mantém-se a pena-base no mínimo legal de 5 anos de reclusão e 500 dias-multa. Ausentes agravantes e atenuantes, aplica-se a minorante do tráfico privilegiado em 2/3, ficando a pena estabelecida em 1 ano e 8 meses de reclusão, em regime aberto, mais 166 dias-multa. Mantida a substituição da pena privativa de liberdade por duas penas restritivas de direitos, consubstanciadas em prestação de serviços à comunidade e prestação pecuniária.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial e fixar a pena da recorrente em 1 ano e 8 meses de reclusão, em regime aberto, mais 166 dias-multa, mantida a substituição da pena privativa de liberdade por duas penas restritivas de direitos nos termos estipulados na sentença .
+Publique-se.
+Intimem-se.
+EMENTA
