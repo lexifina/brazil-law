@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial pelo qual HELIBASE SERVICOS, COMERCIO E MANUTENCAO AERONAUTICA LTDA se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 4.138):
+Ação declaratória de invalidade de ato administrativo cumulada com pedidos cominatórios - Carência de ação, por ilegitimidade ativa - Afastamento - Os interesses/direitos, conforme sejam essencial ou acidentalmente coletivos, deverão sofrer tratamento diferenciado em razão da existência ou não de situação plurisubjetiva unitária - Partes legítimas, interessadas e pedidos juridicamente possíveis - Tutela ao meio ambiente que decorre de direito transindividual - Sentença cassada - Recurso provido para determinar o prosseguimento da ação.
+Os embargos de declaração opostos foram rejeitados (fls. 4.166/4.172).
+Em suas razões recursais, a parte recorrente alega que houve violação aos arts. 6º e 535, II, do Código de Processo Civil de 1973, sustentando que o acórdão recorrido, "ao reformar a r. sentença que havia reconhecido a ilegitimidade ativa da Recorrida, possibilitou a tutela de direito coletivo por particular não legitimado" (fl. 4.202).
+Requer que seja dado provimento ao recurso especial interposto.
+A parte adversa apresentou contrarrazões (fls. 4.242/4.267).
+É o relatório.
+Verifico que inexiste a alegada violação do art. 535 do Código de Processo Civil de 1973, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro, omissão, contradição ou obscuridade.
+Saliento que julgamento diverso do pretendido, como no presente caso, não implica ofensa ao dispositivo de lei invocado.
+Ainda, a alegação de violação do art. 6º do Código de Processo Civil de 1973 não é suficiente para se ter a questão de direito como prequestionada, instituto que, para sua caracterização, exige, além da alegação, a discussão e a apreciação judicial pelo Tribunal de origem.
+A jurisprudência do Superior Tribunal de Justiça (STJ) considera que a ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos do enunciado 211 de sua Súmula.
+A propósito:
+PROCESSUAL CIVIL. TRIBUTÁRIO. CUMPRIMENTO DE SENTENÇA. RESTITUIÇÃO DE VALORES. MANDADO DE SEGURANÇA. DIREITO À COMPENSAÇÃO ENTRE CRÉDITOS NA VIA ADMINISTRATIVA. NÃO VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DO ENUNCIADO DA SÚMULA N. 83/STJ.
+ ..
+II - Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+ ..
+VI - Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+VII - Conforme entendimento desta Corte, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado. Nesse sentido: AgInt no AREsp 1.234.093/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe 3/5/2018; AgInt no AREsp 1.173.531/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2018, DJe 26/3/2018.
+ ..
+XI - Agravo interno improvido.
+(AgInt no AREsp n. 2.268.693/CE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/10/2023, DJe de 11/10/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PRECATÓRIOS. APLICAÇÃO DO CPC/1973. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO EMINENTEMENTE CONSTITUCIONAL. USURPAÇÃO DE COMPETÊNCIA DO STF.
+ ..
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, à luz do Código de Processo Civil de 1973, impede o conhecimento do apelo nobre, segundo o teor da Súmula 211/STJ.
+3. Não há incompatibilidade entre a inexistência de ofensa ao art. 535, II, do CPC/1973 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo Tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado. Precedentes.
+ ..
+5. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.935.860/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 25/9/2023, DJe de 28/9/2023.)
+Ademais, no caso em questão, o Tribunal de origem decidiu que (fls. 4.139/4.142, sem destaques no original):
+Os interesses/direitos, conforme sejam essencial ou acidentalmente coletivos, deverão sofrer tratamento diferenciado em razão da existência ou não de situação plurisubjetiva unitária. Situação essa, que se faz presente no processo trazido ao reexame da Turma.
+ ..
+O exame da distinção proposta pelo parágrafo único do art. 81, do Código de Defesa do Consumidor, em termos de interesses/direitos indivisíveis e divisíveis, indica que o fato distintivo entre os direitos difusos e coletivos stricto sensu e os individuais homogêneos é a unitariedade da situação em que estão envolvidos aqueles e que falta a estes.
+Vale definir, nesta quadra, interesse/direito essencialmente coletivo, à luz de sua similitude com o litisconsórcio unitário: Interesse/direito essencialmente coletivo é instituto de direito processual que visa regular numa só norma jurídica concreta situações pluri-subjetivas unitárias de dimensão coletiva que compreendem um número indeterminado (difusos) ou determinável (coletivos stricto sensu) de pessoas que têm posições jurídicas individuais de tão íntima comunhão em relação a determinado bem, que a solução para a lide deve ser uniforme, do ponto de vista prático, para todos os titulares.
+A unitariedade destas situações pluri-subjetivas admite afirmação no sentido de que a preservação do direito de um dos interessados é a preservação dos demais, a perda do direito de um é a perda dos direitos dos demais ou, ainda, a modificação do direito de um é a modificação dos direitos dos demais. Em outros termos, se a situação fático-jurídica em exame é pluri-subjetiva de natureza unitária, disto resulta que a solução deve ser, não só a mesma para todos, mas deve influir concretamente na situação fático-jurídica de cada indivíduo de modo idêntico.
+ ..
+À vista de tudo isso, cumpre-se aceitar que particulares possam veicular ações com pedido de natureza coletiva. Dessa forma, a r. sentença deve ser cassada, impondo-se o prosseguimento da ação.
+A peça recursal, todavia, não se insurge contra aqueles fundamentos, limitando-se a afirmar, em síntese, que (fls. 4.203/4.205):
+Admitir que a emissora Recorrida possa vir a juízo buscar a tutela de interesse público e coletivo (a anulação de uma licença administrativa validamente concedida, como já atestaram inúmeras e inúmeras decisões judiciais) e, pior, com fulcro no direito PRIVADO de vizinhança (este sim - e apenas este - o verdadeiro mote do SBT), é, com o devido respeito, ADMITIR A SUA LEGITIMAÇÃO EXTRAORDINÁRIA À REVELIA DO SISTEMA PROCESSUAL PÁTRIO; é admitir que o Recorrido, visando proveito exclusivamente próprio e, portanto, privado, atue como "substituto processual" da coletividade para tal escusa finalidade e, ainda, em detrimento dos órgãos que, institucionalmente, detêm - eles sim - tal legitimidade; é fazer pouco, em resumo, do que prevê o art. 6º, do Diploma Processual vigente à época.
+ ..
+Repisa-se, a Recorrida está pleiteando provimento de anulação de licenças ambientais regularmente concedidas, sob o fundamento de supostas irregularidades, o que lhe traria consequências reflexas, já que ela se insere na coletividade situada no entorno do empreendimento da Recorrente. Mas, diante disso, não é a Recorrida legitimada para pleitear em prol da coletividade.
+Caso fosse admitida a interpretação dada pelo E. Tribunal de Justiça a quo, toda e qualquer pessoa (física ou jurídica) afetada reflexamente por questão alheia, afeita à coletividade, poderia intentar demanda ordinária para questioná-la, como se legitimado extraordinário fosse, um absurdo, que contraria frontalmente o sistema processual pátrio.
+Não é possível afastar, assim, a incidência, por analogia, da Súmula 283 do Supremo Tribunal Federal (STF), que estabelece: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido, os seguintes julgados do STJ:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. SISTEMA DE CONTROLE DE PRODUÇÃO DE BEBIDAS - SICOBE. RESSARCIMENTO DO CUSTO DO SISTEMA À CASA DA MOEDA. NATUREZA TRIBUTÁRIA. TAXA. ENRIQUECIMENTO SEM CAUSA. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. FALTA DE PREQUESTIONAMENTO DO ART. 205 DO CÓDIGO CIVIL. INCIDÊNCIA DA SÚMULA N. 211/STJ. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+IV - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 2.101.031/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIÇO DE FORNECIMENTO DE ÁGUA E ESGOTO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ESTAÇÃO DE TRATAMENTO DE ESGOTO. FALHA NA PRESTAÇÃO DE SERVIÇO DECORRENTE DA EMISSÃO DE ODORES PROVENIENTES DA UNIDADE DE TRATAMENTO DE ESGOTO. JUROS DE MORA. TERMO INICIAL. DATA DA CITAÇÃO. REVISÃO DOS HONORÁRIOS. FUNDAMENTO INATACADO. SÚMULA 283/STF. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles (Súmula 283 do STF, por analogia).
+4 . Agravo interno não provido.
+(AgInt no REsp n. 2.094.531/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 27/11/2023, DJe de 30/11/2023.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar a ele provimento.
+Publique-se. Intimações necessárias.
+ EMENTA
