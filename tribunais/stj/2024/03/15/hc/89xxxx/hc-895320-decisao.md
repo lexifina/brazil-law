@@ -1,0 +1,17 @@
+DECISÃO
+CLEBER DE BRITO E SILVA, condenado por porte ilegal de arma de fogo e desobediência, alega ser vítima de constrangimento ilegal, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que deengou a ordem impetrada naquela Corte, na qual pretendia o reconhecimento de ausência de fundamentação na sentença para manter a prisão preventiva, objetivo este reiterado nesta oportunidade.
+Não houve pedido de liminar e não foram prestadas informações. encaminhados os autos ao Ministério Públco Federal, este se manifestou pelo não conhecimento do habeas corpus ou, caso conhecido, por sua denegação, ao argumento de que a decisão que decretou a preventiva se encontra fundamentada na real probabilidade de reiteração delitiva (fls. 40-43).
+Decido.
+A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+Apoiado nessa premissa, observo que muito embora o decreto primevo de impôs a medida coercitiva mais gravosa haja indicado motivação suficiente, consubstanciado, em síntese, na existência de reincidência específica, verifica-se, contudo, que na sentença condenatória, absoltamente nada foi dito pelo Magistrado de primeiro grau, que nem mesmo mera alusão ao referido decisum fez. No particular, restringiu-se a seguinte afirmação: "Não poderá apelar em liberdade" (fl. 22, grifei).
+A despeito de a jusrisprudência desta Corte permitir que na sentença condenatória se faça menção aos fundamentos que ensejaram a decretação da prisão preventiva, nem isso, no caso ocorreu. Não há nem como afirmar que as causas invocadas pelo Juízo singular para manter a ordem de prisão do réu foram insuficientes, porque não houve invocação de absolutamente nada, nenhum dado conreto ou mesmo a decisão que decretou a preventiva.
+Entendo, portanto, que o paciente foi mantido na prisão por ocasião da sentença penal condenatória sem que a decisão constritiva contivesse a devida fundamentação que demonstrasse a exigência cautelar justificadora da custódia antecipada. Assim, diante da ausência de qualquer circunstância que demonstre maior periculosidade do réu ou acentuada reprovabilidade da conduta cometida, impõe-se a concessão da ordem.
+Nesse sentido:
+ ..
+5. Não se mostram suficientes os motivos invocados pelo Juízo singular para embasar a manutenção da prisão do sentenciado, visto que a decisão se baseou exclusivamente no fato de que o réu permaneceu cautelarmente privado de sua liberdade durante a instrução processual e na circunstância de o insurgente haver sido condenado a cumprir a pena em regime compatível com a prisão cautelar, sem indicar nenhum elemento concreto que demonstrasse o risco de reiteração delitiva ou a gravidade da conduta perpetrada.
+ ..
+(HC n. 584.201/SP , relator Ministro Rogerio Schietti, Sexta Turma, julgado em 30/6/2020, DJe 4/8/2020)
+À vista do exposto, concedo o habeas corpus a fim de cassar a sentença na parte que manteve a prisão cautelar imposta ao paciente, de modo que ele possa responder em liberdade processo até o trânsito em julgado, se por al não estiver preso.
+Comunique-se, com urgência, as instãncias ordinárias.
+Publique-se e intimem-se.
+EMENTA
