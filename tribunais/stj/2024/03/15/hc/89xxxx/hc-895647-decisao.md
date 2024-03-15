@@ -1,0 +1,13 @@
+DECISÃO
+BRENER BATISTA MARINHO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1500791-67.2018.8.26.0549.
+Consta dos autos que o paciente foi condenado, em primeiro grau, a 9 anos e 4 meses de reclusão, em regime inicial fechado, mais multa, pela prática dos crimes previstos nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006.
+O Tribunal de origem deu provimento ao recurso da defesa a fim de reduzir a reprimenda imposta e torná-la definitiva em 8 anos de reclusão, em regime fechado, mais multa.
+Pugna a defesa pelo abrandamento do regime de cumprimento da sanção.
+Decido.
+Em relação ao regime, faço lembrar que, uma vez reconhecida, incidentalmente, a inconstitucionalidade do óbice contido no § 1º do art. 2º da Lei n. 8.072/1990 (STF, HC n. 111.840/ES, DJe 17/12/2013), a escolha do regime inicial de cumprimento de pena deve levar em consideração a quantidade da reprimenda imposta, a eventual existência de circunstâncias judiciais desfavoráveis, bem como as demais peculiaridades do caso concreto (como, por exemplo, a quantidade, a natureza e/ou a diversidade de drogas apreendidas), para que, então, seja fixado o regime carcerário que se mostre o mais adequado para a prevenção e a repressão do delito perpetrado, nos termos do art. 33 e parágrafos do Código Penal - com observância também ao disposto no art. 42 da Lei n. 11.343/2006.
+No caso, o Tribunal de origem considerou que seria devida a imposição do regime inicial fechado com base no quantum da pena - 8 anos, de modo que, nos termos do art. 33, § 2º, "b", do Código Penal, é possível a imposição do regime intermediário - e "em razão da natureza de um dos delitos (tráfico), equiparado a hediondo" (fl. 48) - art. 2º, § 1º, da Lei n. 8.072/1990, cuja inconstitucionalidade, aliás, já foi declarada pelo Plenário do Supremo Tribunal Federal há mais de 10 anos anos (HC n. 111.840/ES, julgamento ocorrido em 27/6/2012) -, sem, no entanto, apontar elementos concretos dos autos que, efetivamente, evidenciassem a imprescindibilidade de fixação do modo mais gravoso.
+Assim, uma vez que o paciente era tecnicamente primário ao tempo do delito, possuidor de bons antecedentes, foi condenado a reprimenda igual a 8 anos de reclusão, teve a pena-base estabelecida no mínimo legal, considero ser devida a imposição do regime inicial semiaberto, nos termos do art. 33, § 2º, "b", e § 3º, do CP.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem, para fixar ao paciente o regime inicial semiaberto de cumprimento de pena.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
