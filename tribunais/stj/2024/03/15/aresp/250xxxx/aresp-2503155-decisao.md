@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial, com fundamento na Súmula 7/STJ.
+No recurso especial, a defesa acena com dissídio jurisprudencial, aduzindo "haver inúmeros julgados pelo país acerca da necessidade de demonstração inequívoca do dolo do agente na conduta criminosa para o crime de receptação" (fl. 562).
+Requer o provimento do recurso, a fim de absolver o acusado.
+Contraminuta apresentada. O Ministério Público Federal manifestou-se pelo improvimento do recurso.
+O agravo é tempestivo e infirma as razões da decisão impugnada. Passo à análise do recurso especial.
+Acerca da controvérsia trazida no recurso especial, colhe-se do acórdão recorrido (fls. 539-540):
+O crime de receptação é considerado crime consequente, eis que decorre de um crime precedente. Pelas provas dos autos não restam dúvidas de que o objeto do crime de receptação (notebook) era produto de crime, dado que a proprietária do notebook confirmou que foi roubada, tendo este sido restituído ante a apresentação de nota fiscal.
+ ..
+A respeito do dolo no crime de receptação qualificada, o Superior Tribunal de Justiça entende que ao tipo penal aplica-se tanto o dolo direto quanto o dolo eventual. Vejamos: "o artigo 180, § 1º, do Estatuto Repressivo é constitucional e pode ser aplicado através da utilização da interpretação extensiva, ampliando o significado da expressão deve saber (dolo eventual)". (AgRg no AREsp 1526114/PR, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 15/10/2019).
+Conforme recibo juntado na fase inquisitiva pelo apelante constata-se que este comprou o notebook de Marivaldo na importância de R$300,00 (trezentos) reais, tendo, posteriormente, posto à venda pela quantia de R$500,00 (quinhentos) reais.
+Em que pese alegar que não sabia que o produto era proveito de crime, o fato de aparecer alguém, sem qualquer nota fiscal, oferecendo um notebook com valor abaixo do mercado, o apelante tinha condições de duvidar acerca da procedência do objeto, dado que é comerciante.
+Portanto a conduta do apelante se amolda perfeitamente no crime previsto no art. 180, parágrafos 1º 2º do Código Penal.
+Extrai-se da sentença a seguinte fundamentação (fls. 400-401):
+Analisando o acervo probatório anexado aos autos, o réu como proprietário de um estabelecimento comercial confessou que adquiriu o notebook do réu Marivaldo sem exigir a devida nota fiscal, o que demonstra o intuito de obter vantagem econômica a qualquer custo, eis que posteriormente expôs a venda o objeto através da plataforma
+A vítima Ana Carolina, quando ouvida em Juízo, confirmou que seu notebook foi roubado junto com sua mochila por dois rapazes desconhecidos e o referido bem foi encontrado em poder do réu Jardson, o qual declarou que comprou do denunciado Marivaldo.
+O réu, por sua vez, confessou em Juízo que adquiriu de forma onerosa o notebook. Disse que comprou o aparelho do réu Marivaldo pelo valor de R$300,00 (trezentos reais), sem qualquer recibo e/ou nota fiscal e em seguida expôs a venda o objeto através da Plataforma "OLX". Indagado se sabia da origem ilícita do bem, alegou desconhecê-la.
+O crime de receptação exige como elemento subjetivo o dolo direto para consumação do delito. No caso em tela, o elemento subjetivo pode ser evidenciado com absoluta certeza, haja vista que o acusado confessou que adquiriu o notebook do réu Marivaldo pelo valor de R$300,00 (trezentos reais), porque o mesmo era cliente de seu estabelecimento comercial há bastante tempo.
+Portanto, as circunstâncias de como foi adquirido o bem, ou seja, em estabelecimento comercial e sem qualquer documento de recibo e/ou nota fiscal, revelam que o acusado tinha prévio conhecimento da origem ilícita do notebook. Ademais, o réu na época dos fatos atuava como comerciante e em razão de sua profissão tinha como saber que o preço do valor real do notebook na época dos fatos era desproporcional ao valor pago, qual seja R$300,00 (fls. 12 do IP).
+Vale destacar que no caso em análise não há receptação na modalidade culposa, eis que todas as evidências e provas apontam que o réu não agiu de forma negligente ou imprudente, mas sabia da origem ilícita do bem por ele adquirido, tendo em vista a forma de aquisição e o valor que informou ter recebido o aparelho em sua loja.
+Ainda, não há como acolher a alegação da defesa do réu de desclassificação para o delito de receptação previsto no caput do artigo 180 do CR eis que o próprio réu em sede judicial confessou que adquiriu o notebook e em seguida expôs a venda na plataforma "OLX", pois o referido bem não estava mais tendo utilidade.
+Destarte, entendo estar comprovado que o réu praticou o crime de receptação qualificada, razão pela qual a condenação é medida que se impõe, tendo em vista as circunstâncias do fato já apontadas.
+ ..
+Por todo o exposto, não há como acolher a tese da defesa de absolvição do acusado, por entender inexistir dolo em sua conduta, uma vez que apreendido o bem e tendo o réu confessado em juízo que aceitou comprar o notebook em seu comércio pelo valor de R$300,00, sem a obtenção de nota fiscal, e, ignorando sua procedência, tem-se os requisitos necessários para a caracterização o tipo penal do art. 180, §§1º e 2 2 , do Código Penal.
+Verifica-se que as instâncias de origem, após acurado exame das provas dos autos, concluíram pela configuração do elemento subjetivo do crime imputado (receptação), destacando que "todas as evidências e provas apontam que o réu não agiu de forma negligente ou imprudente, mas sabia da origem ilícita do bem por ele adquirido, tendo em vista a forma de aquisição e o valor que informou ter recebido o aparelho em sua loja".
+Nesse contexto, a revisão do acórdão demandaria reexame do conjunto fático-probatório, o que encontra óbice na Súmula 7/STJ.
+Vale destacar que, "Consoante a jurisprudência do Superior Tribunal de Justiça, em se tratando de crime de receptação, cabe à defesa do acusado flagrado na posse do bem demonstrar a sua origem lícita ou a conduta culposa, sem que esse mister caracterize ilegal inversão do ônus da prova" (AgRg nos EDcl no AREsp n. 2.459.377/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/2/2024, DJe de 8/2/2024.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
