@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GUMERCINDO CARLOS DA SILVA FILHO contra o v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi preso preventivamente pela suposta prática do crime previsto no art. 121, § 2º, II e IV, c/c art. 14, II, ambos do Código Penal.
+Inconformada, a defesa impetrou habeas corpus perante a Corte de origem, que denegou a ordem, nos termos do acórdão de fls. 49-54, assim ementado:
+HABEAS CORPUS - TENTATIVA DE HOMICÍDIO - SUBSISTÊNCIA DOS REQUISITOS PROPULSORES DA PRISÃO PREVENTIVA - FATOS GRAVES E DESVELADORES DA PERSONALIDADE VIOLENTA E PERIGOSA DO PACIENTE - MEDIDA EXTREMA NECESSÁRIA PARA A GARANTIA DA ORDEM PÚBLICA E, TAMBÉM, PARA PRESERVAR A INTEGRIDADE FÍSICA E PSICOLÓGICA DO OFENDIDO - INSUFICIÊNCIA, NA HIPÓTESE, DAS PROVIDÊNCIAS ALTERNATIVAS AO CÁRCERE - PRISÃO DOMICILIAR INCOGITÁVEL, NO MOMENTO - AUSÊNCIA DE CONSTRANGIMENTO ILEGAL A SER SANADO - ORDEM DENEGADA.
+Neste writ, alega o impetrante que o paciente detém diversos problemas de saúde que se agravaram após o encarceramento, de modo que é necessária a substituição da prisão preventiva pela prisão domiciliar, na forma do art. 318, II, do Código de Processo Penal.
+Aponta que o acusado possui predicados pessoais favoráveis, sendo suficiente a aplicação das medidas cautelares diversas da prisão dispostas no art. 319 do Código de Processo Penal.
+Requer, ao final, a revogação da prisão preventiva, ainda que mediante a aplicação de medidas cautelares diversas do cárcere, ou a concessão de prisão domiciliar.
+A liminar foi indeferida (fls. 57-58).
+As informações foram prestadas às fls. 66-83.
+O Ministério Público Federal, às fls. 85-90, manifestou-se nos termos da seguinte ementa:
+PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TENTATIVA DE HOMICÍDIO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DO DELITO. MODUS OPERANDI. FUNDAMENTAÇÃO IDÔNEA. RISCO CONCRETO DE REITERAÇÃO DELITIVA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSENTE FLAGRANTE ILEGALIDADE OU TERATOLOGIA. PARECER PELO NÃO CONHECIMENTO DO MANDAMUS. CASO CONHECIDO, PELA DENEGAÇÃO DO HABEAS CORPUS.
+É o relatório.
+Decido.
+Alega o impetrante que o paciente detém diversos problemas de saúde que se agravaram após o encarceramento, de modo que é necessária a substituição da prisão preventiva pela prisão domiciliar, na forma do art. 318, II, do Código de Processo Penal.
+Aponta que o acusado possui predicados pessoais favoráveis, sendo suficiente a aplicação das medidas cautelares diversas da prisão dispostas no art. 319 do Código de Processo Penal.
+No caso, a prisão preventiva está assim fundamentada (fls. 69-70):
+Vislumbro presentes os requisitos da custódia cautelar.
+Consta dos autos que o denunciado, no dia 26 de janeiro de 2022, por volta das 19h00min, com manifesta intenção homicida, por motivo fútil, mediante recurso que dificultou ou tornou impossível a defesa do ofendido, tentou matar Luiz Fernando Ribeiro Silva, mediante golpes de faca, somente não consumando o delito por circunstâncias alheias à sua vontade.
+Segundo apurado Gumercindo e Luiz se conheciam e inclusive já haviam trabalhado juntos.
+Apurou-se que em data anterior o réu corria atrás da companheira Patrícia Campos Moreira tentando agredi-la, e a vítima presenciando a situação pediu para o denunciado se acalmar.
+Consta que após decorridas aproximadamente duas semanas Gumercindo encontrou com a vítima na rua e ao aproximar dela sacou uma faca e a golpeou no peito, evadindo-se do local sem falar nada.
+Constou que a vítima foi socorrida por pessoa que estava próxima ao local ao Pronto Socorro de Caucaia do Alto, sendo atendida rapidamente por equipe médica e posteriormente removida para o Hospital Regional de Cotia. As lesões que o denunciado causou na vítima foram de natureza grave, ante o inegável risco de morte experimentado e incapacidade para ocupações habituais mais por mais de 30 dias, não vindo a óbito em razão do rápido atendimento médico prestado.
+Os fatos apurados são graves e revelam comportamentos que ultrapassam o grau ordinário de reprovabilidade, cuja periculosidade se evidencia pelas circunstâncias fáticas que envolveram a conduta.
+Observo que os autos versam sobre crime extremamente grave, tentativa de homicídio, por motivo fútil e recurso que dificultou a defesa da vítima.
+A conduta supostamente praticada evidencia a ausência de freios morais e representa intranquilidade para a sociedade, tratando-se de crime de natureza hedionda, de manifesta gravidade.
+No caso em análise, estão presentes os requisitos da prisão preventiva, em especial a garantia da ordem pública, dada a gravidade concreta dos fatos, considerando-se as circunstâncias do crime praticado (artigo 121, § 2º, incisos II e VI, c.c. art. 14, inciso II, do Código Penal), denotando tratar-se de pessoa violenta que se em liberdade poderá vir a atentar contra a integridade física da vítima.
+Preenchida também, a hipótese do art. 313, inciso I, do Código de Processo Penal (será admitida a decretação da prisão preventiva, nos crimes dolosos punidos com pena privativa de liberdade máxima superior a quatro anos), permissiva da prisão cautelar.
+Assim, verifico que estão presentes os requisitos, notadamente a garantia da ordem pública e da aplicação da lei penal, e DECRETO a prisão preventiva de GURMECINDO CARLOS DA SILVA FILHO.
+A prisão cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal. A prisão preventiva, portanto, enquanto medida de natureza cautelar, não pode ser utilizada como instrumento de punição antecipada do indiciado ou do réu, nem permite complementação de sua fundamentação pelas instâncias superiores (v.g. HC n. 93.498/MS, Segunda Turma, Rel. Min. Celso de Mello, DJe de 18/10/2012).
+No caso, o Juízo bem fundamentou a prisão preventiva, lastreando-se na garantia da ordem pública em razão da periculosidade do paciente, evidenciada pelo modus operandi empregado no delito, vale dizer, mediante golpes de faca no peito da vítima.
+A custódia cautelar se impõe pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, revelada no modus operandi do delito, e diante da acentuada periculosidade do acusado, evidenciada na propensão à prática delitiva e conduta violenta. Confiram-se: HC n. 299762/PR - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 2/10/2014; HC n. 169996/PE - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 1º/7/2014; RHC n. 46707/PE - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 18/6/2014.
+No que se refere à pretensão de conversão da custódia preventiva em domiciliar, consta do acórdão impugnado (fls. 53-54):
+Noutro giro, incogitável a prisão domiciliar pretendida, até mesmo porque, diante das peculiaridades acima expostas, não restou cabalmente demonstrado que o paciente esteja inserido em alguma das hipóteses exigidas no artigo 318 do Código de Processo Penal.
+Por via de consequência, analisando o contexto fático e jurídico que sub jaz a irresignação defensiva, não há como acolher a tutela jurisdicional pleiteada, eis que presentes os pressupostos legitimadores da prisão preventiva.
+O art. 318, II, do Código de Processo Penal permite ao juiz substituir a prisão preventiva pela domiciliar quando o agente estiver extremamente debilitado por motivo de doença grave e exista prova idônea dos requisitos estabelecidos no referido artigo.
+No caso, as instâncias ordinárias concluíram, fundamentadamente, pela ausência de comprovação da extrema debilidade por motivo de doença grave ou da impossibilid ade de o acusado receber o tratamento adequado na unidade prisional, razão pela qual a alteração desse entendimento demandaria detido e profundo revolvimento fático-probatório, o que é vedado na estreita via do habeas corpus.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. APREENSÃO DE GRANDE QUANTIDADE DE DROGA DE ALTO PODER VICIANTE E DE VÁRIAS MUNIÇÕES. FUNDAMENTAÇÃO IDÔNEA. SUPOSTA DESPROPORÇÃO ENTRE A PRISÃO CAUTELAR E A PENA DECORRENTE DE EVENTUAL CONDENAÇÃO. IMPOSSIBILIDADE DE AFERIÇÃO. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INSUFICIÊNCIA, NA HIPÓTESE. PRISÃO DOMICILIAR. DOENÇA. NÃO COMPROVAÇÃO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL PROVIDO. RECURSO ORDINÁRIO EM HABEAS CORPUS PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+ ..
+4. Em relação ao pleito de substituição da prisão preventiva pela domiciliar, o Tribunal de origem ressaltou a insuficiência de provas a respeito da debilidade extrema do Acusado. Desse modo, para alterar a conclusão adotada pela Corte estadual seria necessário o amplo revolvimento do conjunto fático-probatório dos autos, providência incabível no âmbito do recurso ordinário em habeas corpus.
+5. Agravo regimental provido para conhecer em parte do recurso ordinário em habeas corpus e, nessa extensão, negar-lhe provimento.
+(AgRg no RHC n. 170.959/RJ, relator Ministro Sebastião Reis Júnior, relatora para acórdão Ministra Laurita Vaz, Sexta Turma, julgado em 14/2/2023, DJe de 22/2/2023.)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
