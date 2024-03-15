@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RICARDO RODRIGUES MARQUES contra decisão que deferiu o provimento urgente do Desembargador Relator do HC n. 5121538-38.2024.8.09.0051, em trâmite no Tribunal de Justiça do Estado de Goiás.
+Consta nos autos que o Paciente foi preso em flagrante no dia 22/02/2024, como incurso nos arts. 12 (posse irregular de arma de fogo de uso permitido) e 16 (posse ou porte de arma de fogo ou munição de uso restrito), ambos da Lei n. 10.826/2003. Narra o auto de prisão que os armamentos ilegais foram encontrados na residência do Paciente, durante o cumprimento de mandado de busca e apreensão oriundo da 11.ª Vara Federal de Goiás.
+Na audiência de custódia, o Magistrado de primeiro grau concedeu liberdade provisória ao Paciente, com fixação de medidas cautelares diversas da prisão, inclusive fiança arbitrada em R$ 30.000,00 (trinta mil reais).
+Neste writ, o Impetrante alega, em suma, que a liberdade provisória concedida foi condicionada a fiança cujo valor viola o princípio da homogeneidade, visto que o Paciente é primário, ostenta condições pessoais favoráveis e caso sobrevenha sentença penal condenatória em eventual processo penal, a sanção penal muito provavelmente será imposta em regime aberto.
+Aduz, assim, que o pagamento da fiança deve ser dispensado, pois as demais medidas cautelares impostas são suficiente e a manutenção da decisão impugnada implicará restrição continuada ao direito de locomoção do Paciente.
+Ao final, requer, em liminar e no mérito, a concessão da liberdade provisória do Paciente, sem o pagamento da fiança.
+É o relatório. Decido.
+O posicionamento firmado pela Suprema Corte e por este Tribunal Superior não admite habeas corpus contra decisão negativa de liminar proferida em outro writ na Instância de origem, sob pena de indevida supressão de instância.
+É o que está sedimentado na Súmula n. 691/STF ("não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar"), aplicável, mutatis mutandis, ao Superior Tribunal de Justiça (AgRg no HC 493.198/SP, Rel. Min. REYNALDO SOARES DA FONSECA, Quinta Turma, DJe de 29/03/2019; AgRg no HC 447.280/SP, Rel. Min. MARIA THEREZA, Sexta Turma, DJe de 01/06/2018; HC 406.428/SP, Rel. Min. NANCY ANDRIGHI, Terceira Turma, DJe 29/09/2017; HC 349.829/SP, Rel. Min. MARIA ISABEL GALLOTTI, Quarta Turma, DJe de 01/08/2016, v.g.).
+A despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, deve preponderar a necessidade de se garantir a efetividade da prestação da tutela jurisdicional de urgência para que flagrante constrangimento ilegal ao direito de liberdade possa ser cessado.
+Consoante a jurisprudência desta Corte Superior, a imposição de medidas cautelares diversas da prisão preventiva, entre elas a liberdade provisória mediante fiança, exige seja declinada fundamentação concreta que demonstre a necessidade da cautelar aplicada para assegurar algum bem ou interesse relativo aos meios ou fins do processo.
+Em juízo de cognição sumária, a decisão impugnada, nos termos do entendimento da primeira instância, justificou o valor arbitrado para a fiança adequadamente, com os seguintes fundamentos (fls. 12-13; grifos diversos no original):
+"Com efeito, conforme entendimento dominante, a concessão de liminar em sede de Habeas Corpus exige a demonstração inequívoca do periculum in mora, ou perigo da demora, quando há probabilidade de dano irreparável, e do fumus boni iuris, ou fumaça do bom direito, quando os elementos da impetração indiquem a existência da ilegalidade.
+Imperiosa, assim, a comprovação, de plano, de nulidade do ato judicial ou de indiscutível abuso de poder da autoridade judiciária impetrada.
+No caso em apreço, consta dos autos que agentes da polícia federal (DELEGACIA DE REPRESSÃO A DROGAS - DRE/DRPJ/SR/PF/GO), em cumprimento a mandado de busca e apreensão oriundo da 11ª Vara Federal de Goiás, fizeram a apreensão de:
+- 01 Rifle Calibre 22, URKO semiautomático, calibre 22, nº 27818;
+- 01 Pistola Calibre 380, Taurus PT, 938 calibre .380 ACP, nº de série AEK796288;
+- 45 Munições não Classificadas, calibre .380; 252 Munições não Classificadas, calibre 22; 04 Carregadores de pistola, sendo 03 (três) para Pistola Taurus PT 938 calibre .380 - e 01 para rifle calibre .22.
+Preso em flagrante, na audiência de custódia, a magistrada singular registrou que Ricardo tem a profissão de empresário/aviador, auferindo renda mensal de R$ 12.000,00(doze mil reais).
+Seguidamente, a autoridade judiciária impetrada homologou o flagrante e concedeu a liberdade provisória ao paciente, vinculada à prestação de fiança e cumprimento de medidas cautelares diversas. Vejamos:
+"À luz do exposto, preenchidos os requisitos necessários para que o(a)(s) autuado(a)(s) aguarde o julgamento do feito em liberdade e não se fazendo, por ora, presentes os motivos ensejadores da prisão preventiva, concedo a liberdade provisória vinculada à prestação de fiança, a qual arbitro em R$ 30.000,00 (trinta mil reais), nos termos do artigo 325, inciso II, do sistema jurídico-processual penal, haja vista a inexistência de comprovação de hipossuficiência e a gravidade das condutas perpetradas, observando-se o cumprimento das seguintes condições, sob pena de revogação do presente benefício.
+a) comparecimento mensal à sede do juízo até o dia 05 (cinco) de cada mês, durante o curso da persecução penal, para informar e justificar suas atividades.
+b) comparecimento a todos os atos do procedimento para os quais seja intimado;
+c) que não frequente casas de tavolagem, de prostituição e outros locais de má fama;
+d) que não mude de residência, sem prévia cientificação da autoridade processante;
+e) que se ausente desta comarca somente com autorização judicial.
+f) que se recolha ao domicílio informado nos presentes autos de processo no período noturno, das 22:00 horas às 06:00 horas do dia seguinte nos dias úteis e em período integral nos dias de folga, fins de semana e feriados;
+g) que não pratique qualquer outro crime ou contravenção.
+h) monitoração eletrônica, pelo período de 90 (noventa) dias da instalação do equipamento. Decorrido o prazo, o equipamento deverá ser retirado independentemente de nova ordem judicial;
+i) ser levado à Unidade Prisional para tomar conhecimento dos requisitos do uso e instalação do aparelho eletrônico;
+j) não ter nenhum tipo de comportamento que possa afetar o normal funcionamento da tornozeleira eletrônica, especialmente atos tendentes a desligá-la ou dificultar a transmissão das informações para a Unidade Gestora de Monitoração Eletrônica, causar estragos ao equipamento ou permitir que outrem o faça;
+k) informar, imediatamente, à Unidade Gestora de Monitoração Eletrônica se detectar falhas no equipamento;
+l) recarregar a tornozeleira, de forma correta, todos os dias, conforme orientação da equipe de instalação;
+m) comparecer, quando convocada, à Unidade Gestora de Monitoração Eletrônica, devendo retornar após, de imediato, ao seu domicílio, local da sua prisão;
+n) atender com rapidez e boa vontade as intimações das autoridades judiciárias e policiais e fornecer todas as informações requisitadas pelos órgãos de fiscalização destas condições;
+o) receber visita da fiscalização pela monitoração eletrônica, responder aos seus contatos e cumprir suas orientações;
+p) portar documento de identidade e cópia desta decisão para exibi-los quando solicitados.
+q) pagamento da fiança arbitrada no valor de R$ 30.000,00 (trinta mil reais)."
+Considerando a quantidade de armamento apreendido e o valor afirmado como salário, bem como a existência de advogado constituído, o contexto da prisão, e a fase atual desse habeas corpus - análise de liminar - momento em que se faz apenas análise perfunctória do processo, não vislumbro a presença do fumus boni juris e do periculum in mora prima facie, razão pela qual INDEFIRO A LIMINAR."
+A decisão impugnada destacou que o Paciente teria condições de efetuar o pagamento da fiança no valor arbitrado, considerando a gravidade das condutas perpetradas, não sendo possível reavaliar questão fática em sede de liminar em habeas corpus.
+Além disso, não há nos autos prova plena acerca das condições financeiras do Paciente para arcar ou não com o valor da fiança arbitrada, sendo esta impetração ajuizada no plantão judiciário, logo após apreciada a liminar, sem que a desproporcionalidade no valor fixado tenha sido apreciada na instância antecedente, o que impede esta Corte Superior de Justiça de se manifestar sob pena de supressão de instância.
+A concessão da tutela de emergência, em juízo de cognição sumária e singular, com superação do enunciado da Súmula n. 691/STF, exige a demonstração concomitante, e em grau bastante satisfatório, da plausibilidade do direito arguido, que não está demonstrado de plano no caso em apreço.
+Conclui -se, assim, que a matéria depende de aprofundamento do próprio mérito do writ, devendo-se reservar primeiramente à Corte impetrada a análise, sendo defeso ao Superior Tribunal de Justiça adiantar-se nesse exame, sobrepujando a competência da instância a quo, mormente porque o mandamus, ao que parece, está sendo regularmente processado.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
