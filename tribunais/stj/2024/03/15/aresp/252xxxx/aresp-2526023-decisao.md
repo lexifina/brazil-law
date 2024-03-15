@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo apresentado por EQUALIZA CONSTRUCOES E COMERCIO LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO. AÇÃO MONITÓRIA. PRESTAÇÃO DE SERVIÇOS. MÚTUO VERBAL.CESSÃO DE CRÉDITO. ENDOSSO TRANSLATIVO. SENTENÇA DE IMPROCEDÊNCIA DAAÇÃO MONITÓRIA EM RAZÃO DO ACOLHIMENTO DOS EMBARGOS. INCONFORMISMODA PARTE AUTORA EMBARGADA. PRELIMINAR DE CERCEAMENTO DE DEFESAPREJUDICADA POR AUSÊNCIA DE PREJUÍZO AOS INTERESSES DA APELANTE.MÉRITO. PROVAS DOCUMENTAIS SEM EFICÁCIA DE TÍTULO EXECUTIVO.DOCUMENTOS QUE ATENDEM AO REQUISITO LEGAL DO 700,CAPUT, DO CÓDIGO DE PROCESSO CIVIL. CONJUNTO DOCUMENTAL QUE DEMONSTRA A EXISTÊNCIA DAOBRIGAÇÃO EM MEIO ESCRITO E A VEROSSIMILHANÇA DAS ALEGAÇÕES.ADMISSIBILIDADE DO EXERCÍCIO DA PRETENSÃO DA PARTE AUTORA POR MEIO DAPRESENTE AÇÃO MONITÓRIA. COMPROVAÇÃO DA EXISTÊNCIA DO CRÉDITO.EMBARGOS MONITÓRIOS REJEITADOS. CONSTITUIÇÃO DE PLENO DIREITO DO TÍTULOEXECUTIVO JUDICIAL, NA FORMA DO ARTIGO 702, §8º, DO CÓDIGO DE PROCESSOCIVIL. VERBAS DE SUCUMBÊNCIA REDISTRIBUÍDAS. SENTENÇA REFORMADA.RECURSO PROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 288 do CC, no que concerne à ausência de documento comprobatório válido, apto a ensejar pedido monitório com origem em cessão de crédito verbal, trazendo a seguinte argumentação:
+Claro nos configura que o Recorrido não juntou aos autos nenhum documento que comprovasse a cessão de crédito, se tratando apenas de um mútuo verbal, o que se torna INEFICAZ.
+Para que se tornasse válida tal cessão de crédito para essa Recorrente (Equaliza), seria necessário a comprovação através de documento escrito, E NÃO MÚTUO VERBAL.
+ ..
+Sendo assim, o Mutuo verbal, perante esta Recorrente, se torna INEFICAZ, pois não se trata de documento de cessão de crédito válido.
+ ..
+Portanto, não pode prevalecer o Venerável Acórdão, pois fere os direitos constitucionais da ação, pois foi cerceado o direito do Recorrente pela ineficácia do documento apresentado como probatório nos autos, por não ter sido feito conforme a legislação (fls. 721-723).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Na dicção do artigo 288 do Código Civil, portanto, entende-se por terceiros aqueles que possuem relações com o cedente, cessionário ou cedido e podem ser prejudicados pela cessão do crédito, o que não é o caso dos autos, definitivamente.
+Nos termos do artigo 290 do Código Civil, a eficácia da cessão de crédito realizada entre Racional (cedente) e Icavi (cessionária) exige conhecimento prévio da Equaliza (cedida)
+ ..
+A validade da cessão de crédito em discussão está demonstrada a partir da manifestação de vontade pelo cedente e cessionário, respectivamente, Racional e Icavi, e o reconhecimento de que a obrigação transmitida não encontra óbice legal quanto à circulação do crédito, o que afasta a alegada irregularidade da comunicação (fl. 130).
+Além de válida, a cessão de crédito é, sobretudo, eficaz em relação à cedida Equaliza, de acordo com a notificação de fls. 16/17, que comunicou a cessionária apelante como titular de parcela do crédito e informou os dados bancários para quitações que, originalmente, seriam em favor da Racional a partir de maio de 2016, como ratificado pela cedente em embargos (fl. 439) (fl. 683).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
