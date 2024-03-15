@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de conflito negativo de competência instaurado entre o Juízo de Direito da Vara Criminal de dom Eliseu/PA, o suscitante, em face do Juízo de Direito da 2ª Vara de Uruacu/GO, o suscitado.
+O núcleo da controvérsia consiste em identificar o Juízo competente para realizar a audiência de custódia de CÉSAR DA SILVA SOUSA, ora interessado, em razão de prisão preventiva pela suposta prática de homicídio qualificado.
+O Juízo suscitado se recusou a realizar a audiência de custódia e declinou da competência aos seguintes fundamentos:
+"Cuida-se de Comunicado de prisão de Cézar da Silva Sousa, já qualificado nos autos, em virtude demandado de prisão preventiva expedida pelo Juízo da Vara Criminal da Comarca de Dom Eliseu-PA.
+Em evento 4, foi proferida decisão autorizando o recambiamento do preso para a Comarca de origem, bem como conferindo ao Juízo do qual originou a prisão a realização da audiência de custódia, haja vista a possibilidade de realização do ato por meio de videoconferência em sala passiva própria da Unidade Prisional desta Comarca.
+Em evento 13, houve juntada de ofício e decisão exarada pelo Juízo da Vara Criminal da Comarca e Dom Eliseu-PA, solicitando a realização da audiência de custódia por este Juízo, ancorado na Resolução 213 do CNJ.
+Em que pese a solicitação contida na decisão acostada no evento 13, pelo Juízo da Vara Criminal da Comarca de Dom Eliseu-PA, para realização da audiência de custódia por este Juízo, importante frisar que o posicionamento deste Magistrado é de que a via adequada para a realização do ato é por meio do Juízo que originou a determinação prisional, isto porque poderá avaliar, além do contexto em que ocorreu a prisão, outros fatores e eventualmente até revogar sua própria decisão, o que não pode ser feito por este Juízo por não ser revisor de decisão de colega de igual hierarquia." (fl. 1150)
+Ainda no que diz respeito à Resolução 213 do Conselho Nacional de Justiça -CNJ, o Juízo suscitado teceu as seguintes considerações:
+"  ..  a competência do CNJ cinge-se à atuação administrativa e financeira dos Tribunais, podendo no máximo, expedir atos regulamentares para o cumprimento dessa finalidade. Entretanto, há muito o CNJ vem extrapolando suas funções e legislando e ninguém questiona. Ora, a audiência de custódia somente passou a ser validamente exigida após a edição de Lei pelo Parlamento! E na Lei de regência trata apenas do Auto de Prisão em Flagrante Delito!
+Assim, em caso de constatação de ilegalidade no cumprimento da ordem prisional, compete ao Juízo que originou o ato o relaxamento ou não, da prisão preventiva."
+De outro lado, o Juízo de Direito da Vara Criminal de dom Eliseu/PA suscitou o presente conflito invocando novamente o teor da Resolução 213 do CNJ, bem como decisão da lavra da ilustre Ministra Laurita Vaz, proferida no CC n. 197.316, DJe de 03/07/2023.
+É o relatório.
+Decido.
+A jurisprudência desta Corte Superior de Justiça firmou o entendimento de que a audiência de custódia, no caso de mandado de prisão cumprido fora do âmbito territorial do Juízo que a determinou, deve ser realizada pelo Juízo da localidade em que ocorreu a prisão.
+A propósito, confira-se:
+CONFLITO DE COMPETÊNCIA. PROCESSUAL PENAL. MANDADO DE PRISÃO PREVENTIVA. CUMPRIMENTO EM UNIDADE JURISDICIONAL DIVERSA. AUDIÊNCIA DE CUSTÓDIA. REALIZAÇÃO. COMPETÊNCIA. JUÍZO DA LOCALIDADE EM QUE EFETIVADA A PRISÃO. REALIZAÇÃO POR MEIO DE VIDEOCONFERÊNCIA PELO JUÍZO ORDENADOR DA PRISÃO. DESCABIMENTO. PREVISÃO LEGAL. INEXISTÊNCIA. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO SUSCITANTE.
+1. A audiência de custódia, no caso de mandado de prisão preventiva cumprido fora do âmbito territorial da jurisdição do Juízo que a determinou, deve ser efetivada por meio da condução do preso à autoridade judicial competente na localidade em que ocorreu a prisão. Não se admite, por ausência de previsão legal, a sua realização por meio de videoconferência, ainda que pelo Juízo que decretou a custódia cautelar.
+2. Conflito conhecido para declarar competente o Juízo Federal da Vara da Seção Judiciária do Paraná, o Suscitante.
+(CC n. 168.522/PR, relatora Ministra Laurita Vaz, Terceira Seção, DJe de 17/12/2019.)
+No mesmo sentido, vejam-se as seguintes decisões monocráticas: CC n. 202.949, Ministro Reynaldo Soares da Fonseca, DJe de 07/03/2024; CC n. 199.264, Ministro Antonio Saldanha Palheiro, DJe de 07/11/2023; CC n. 198.752, de minha relatoria, DJe de 26/09/2023 e CC n. 198.454, Ministro Sebastião Reis Júnior, DJe de 01/08/2023.
+No caso dos autos, é incontroverso que o interessado foi preso na Unidade Prisional Regional de Uruaçu/GO (fl. 11) em cumprimento ao Mandado de Prisão n. 800318-16.2024.8.14.0107.01.0002-26 (fl. 21), expedido pelo Juízo de Direito da Vara Criminal de Dom Eliseu/PA (fl. 6), nos autos da Ação Penal de Competência do Júri n. 0800318-16.2024.08.14.0107 (fl. 15).
+Portanto, considerando-se a jurisprudência acerca do tema, bem como a urgência do caso, com fundamento no art. 34, inciso XXII, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, conheço do conflito para julgar que compete ao Juízo de Direito da 2ª Vara de Uruacu/GO a realização da audiência de custódia, caso ainda não tenha sido efetuada.
+Frise-se que, na hipótese de o custodiado já ter sido transferido para a comarca do Juízo que determinou a prisão, é desnecessário seu retorno para a renovação da audiência de custódia perante o Juízo do local no qual foi efetivada a prisão.
+Comunique-se, com urgência, os Juízos envolvidos no presente incidente.
+Publique-se.
+Intime-se o Ministério Público Federal.
+EMENTA
