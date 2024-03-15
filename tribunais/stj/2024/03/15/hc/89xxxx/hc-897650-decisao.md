@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Guilherme dos Santos - preso preventivamente pela prática, em tese, do crime de tráfico de drogas - contra o ato coator do Tribunal de Justiça do Paraná proferido no Habeas Corpus n. 011439836.2023.8.16.0000. Eis a ementa do acórdão (fl. 25):
+HABEAS CORPUS CRIME. TRÁFICO DE DROGAS. DECRETO DE PRISÃO PREVENTIVA PARA ASSEGURAR A ORDEM PÚBLICA E EVITAR A REITERAÇÃO CRIMINAL. PACIENTE QUE OSTENTA REGISTROS CRIMINAIS, UMA CONDENAÇÃO E ATOS INFRACIONAIS PELO MESMO DELITO. DECISÃO SUFICIENTEMENTE FUNDAMENTADA. PRESSUPOSTOS PARA A SEGREGAÇÃO CAUTELAR EVIDENCIADOS. ARTS. 312 E 313, DO DE OUTRAS MEDIDAS CAUTELARES DIVERSAS DA CPP. FIXAÇÃO PRISÃO. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. ORDEM CONHECIDA E DENEGADA.
+Aqui, busca a impetração a revogação da prisão cautelar imposta ao paciente, ao argumento de ausência dos requisitos autorizadores previstos no art. 312 do CPP; inidoneidade de fundamentação do decreto prisional; e desnecessidade da referida segregação, pois, além das condições pessoais favoráveis e da ínfima quantidade de drogas, o crime não envolve violência ou grave ameaça.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja revogada a prisão preventiva do paciente, fixando, caso entenda necessário, medidas cautelares menos gravosas (art. 319 do CPP).
+Estes autos foram a mim distribuídos por prevenção do HC n. 888.745/PR.
+É o relatório.
+Para a decretação de custódia cautelar, a lei processual penal exige a reunião dos seguintes requisitos: fumus comissi delicti e o periculum in libertatis (art. 312 do CPP).
+No caso, o voto condutor do acórdão impugnado, ao ratificar os termos da decisão do Juízo de Direito de primeiro grau - no sentido de preservar a ordem pública -, considerou adequada a determinação de prisão preventiva em decorrência do histórico criminal do paciente , que, além de reincidente, possui anotações pela prática de atos infracionais análogos ao crime de tráfico de drogas e roubo (fls. 27/30 - grifo nosso):
+ ..
+Com efeito, agiu bem a magistrada singular ao decretar a prisão preventiva do paciente, pois os documentos acostados aos autos principais, notadamente o auto de prisão em flagrante (seq. 1.5), o boletim de ocorrência (seq. 14), o auto de exibição e apreensão (seq. 1.10), os autos de constatações provisórias da cocaína (seq. 1.12) e da maconha (seq. 1.13), e os termos de depoimentos (seqs. 1.7 e 1.9) e interrogatórios (seqs. 1.15 e 1.19), evidenciam a prova da materialidade, os indícios de autoria e a gravidade em concreto do ato em tese praticado.
+Outrossim, o fato de o paciente possuir anotações criminais e uma condenação pelo mesmo delito, além de anotações pela pratica de atos infracionais análogos ao crime de tráfico de drogas e roubo (seq. 27.1 - da ação penal), reforçam a necessidade de se assegurar a ordem pública a fim de se evitar a reiteração delitiva, sendo nesse sentido os precedentes desta Corte, vejam:
+ ..
+Ressalte-se, ainda neste ponto, que como bem apontou o Procurador de Justiça atuante no feito, não obstante os atos infracionais anteriormente praticados pelo paciente não possam configurar maus antecedentes, eles podem ser considerados para justificar a prisão preventiva  .. .
+ ..
+Importante observar, ainda, que ao contrário do que ocorre com o paciente, o corréu RAUL não ostenta qualquer registro criminal (seq. 28.1 - da ação penal), de modo que não há como se acolher a alegação de que houve tratamento desigual aos acusados.
+No caso dos autos, para além dos registros criminais do paciente, o crime pelo qual ele foi indiciado e denunciado (seq. 48.1 - da ação penal) prevê pena privativa de liberdade superior a 04 (quatro) anos, estando presente, portanto, o requisito exigido no inciso I, do artigo 313, do Código de Processo Penal.
+ ..
+Logo, considerando a prova da existência do delito e os indícios de autoria, sendo necessária a garantia da ordem pública em razão da possibilidade de reiteração delitiva, não há que se falar em teratologia ou falta de fundamentação que justifique a concessão da ordem.
+Outrossim, diante do quadro fático apresentado, conclui-se que a fixação de medidas cautelares diversas da prisão não se mostra suficiente, pois se há motivação idônea e compatível com a legislação para manutenção da constrição cautelar do paciente, não se revela razoável substituí-la por medidas diversas, incapazes de resguardar a contento a ordem pública.
+ ..
+Por conseguinte, a custódia está corretamente motivada, isto é, conforme a jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 107.238/GO, Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/2/2019, DJe 12/3/2019) - (AgRg no HC n. 742.806/SP, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 21/10/2022 - grifo nosso).
+Nesse sentido: AgRg no RHC n. 161.712/CE, da minha relatoria, Sexta Turma, DJe 9/5/2022; e AgRg no RHC n. 152.073/CE, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/5/2022.
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+PENAL E PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS . PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLI CA. RISCO DE REITERAÇÃO DELITIVA CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA.
+Writ indeferido liminarmente.
