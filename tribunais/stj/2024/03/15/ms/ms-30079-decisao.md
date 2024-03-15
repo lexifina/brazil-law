@@ -1,0 +1,9 @@
+DECISÃO
+ELLEN STEFANI VIEIRA MOURAD impetra mandado de segurança contra a demora no julgamento do recurso de apelação interposto perante o Tribunal Regional Federal da 4ª Região, no qual pretende a devolução de bem apreendido no bojo de investigação por organização criminosa voltada para o tráfico de drogas.
+Entretanto, conforme dispõe o art. 105, I, "b" da Constituição Federal, compete a este Superior Tribunal de Justiça: I - processar e julgar, originariamente, "os mandados de segurança e os habeas data contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal."
+No caso, este mandado de segurança se volta contra a inércia no julgamento de apelação, a atrair, mutatis mutandis (ato omissivo), a incidência do enunciado contido na Súmula n. 41 do STJ (destaquei): "o Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos".
+Nesse sentido: "Nos termos da Súmula 41/STJ, o Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros Tribunais ou dos respectivos órgãos" (AgRg no MS n. 22.073/RS, Rel. Ministro Nefi Cordeiro, DJe 31/5/2016).
+Registre-se, ainda, que a demora aventada - o recurso estaria paralisado desde 5/12/2023 - não se mostra absurda a ponto de justificar a excepcionalidade do uso do mandado de segurança, mormente se considerarmos que a tramitação da apelação exige a manifestação do Ministério Público e demais interessados no processo.
+Em razão do exposto, nos termos do art. 212 do RISTJ, indefiro, desde logo, o pedido, com a extinção do feito sem apreciação do mérito, nos termos do art. 6º, § 5º, da Lei n. 12.016/2009.
+Publique-se e intimem-se.
+EMENTA
