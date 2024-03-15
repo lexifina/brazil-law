@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de DANIEL MORAES ALVES contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da revisão criminal n. 2210794-62.2023.8.26.0000.
+Consta dos autos que o paciente foi inicialmente condenado pelo Juízo da 31ª Vara Criminal da Comarca de São Paulo, como incurso no artigo 33, caput, da Lei 11.343/06 e artigo 16 , § 1º, inciso IV, da Lei 10.826/03, na forma do artigo 69 do Código Penal, às penas de 12 anos, 04 meses e 15 dias de reclusão, no regime de cumprimento de pena inicial fechado e pagamento de 947dias-multa, nos termos da sentença de fls. 39-56.
+A defesa interpôs apelação criminal ao Tribunal de Justiça, que negou provimento ao recurso, conforme o acórdão de fls. 57-79.
+Operado o trânsito em julgado, foi proposta a revisão criminal n. 2210794-62.2023.8.26.0000 perante a Corte local, que a indeferiu, nos termos do acórdão de fls. 13-21.
+Sobreveio a impetração do presente habeas corpus, objetivando a concessão da ordem de modo a revisar a dosimetria da pena do delito de tráfico de drogas, assim como para reconhecer a incidência da causa especial de diminuição de pena do artigo 33, § 4º, da Lei 11.343/2006.
+É o relatório. DECIDO.
+A controvérsia dos autos gira em torno de possível ilegalidade flagrante no acórdão combatido, consistente na desproporcional exasperação da pena-base, na primeira etapa da dosimetria, e na negativa ao reconhecimento do tráfico privilegiado.
+Para uma melhor análise da controvérsia, transcrevo as razões de decidir da decisão colegiada (fls. 13-21):
+ ..
+"O ponto de irresignação do combativo causídico é, com efeito, relativo à dosimetria da pena da prática do crime de tráfico de entorpecentes.
+A fixação das sanções do crime de tráfico de substância estupefaciente deu, por sua vez, integral atendimento ao sistema trifásico, cumprindo observar que o escarmento acabou sendo devidamente confirmado pelo Ven. Acórdão; o cálculo, como um todo, não merece, assim, qualquer reparo.
+ ..
+Na primeira fase, as penas-base foram corretamente fixadas em 09 anos, 04 meses e 15 dias de reclusão e de 937 dias-multa, sob a seguinte e adequada fundamentação (fls.53):
+Em que pese o inconformismo recursal, não se antevê qualquer ilegalidade na valoração negativa, na medida em que está autorizada pelo artigo 42 da Lei Antidrogas, e calcada em elementos idôneos (significativa quantidade de entorpecentes apreendidos  282,34 quilos de maconha e uma porção de cocaína com 241,1 gramas , com natureza extremamente desfavorável, suficientes a atingirem inúmeros usuários de drogas), devidamente demonstrados pela prova judicializada, que bem justificam a proporcional censurabilidade às condutas.
+Justifica-se o quantum acima lançado, em razão da constatação de ser a quantidade e variedade de entorpecente apreendido expressiva (maconha e cocaína).
+Nos casos de tráfico de entorpecentes (art. 33 da Lei n. 11.343/06) é perfeitamente admissível a elevação da pena-base com lastro na variedade e variedade mais nociva do tóxico apreendido, nos termos do art. 42 da Lei de Tóxicos.
+ ..
+Em que pesem as alegações do Defensor, não era mesmo hipótese de aplicação do redutor previsto no art. 33, §4º, da Lei n. 11.343/2006. Nesse sentido, bem fundamentou a ilustre Desembargadora Relatora (fls. 55): ..  não era mesmo o caso de concessão do redutor especial, previsto no § 4º, do artigo 33, da Lei nº 11.343/06, tal como sopesado monocraticamente, especialmente, em razão das circunstâncias reveladas pela prova judicializada (existência de denúncias sobre o armazenamento de entorpecentes, corroboradas pela apreensão de exagerada quantidade de drogas, com naturezas diversas e extremamente nocivas e destrutivas à saúde pública  282,34 quilos de maconha e uma porção de cocaína com 241,1 gramas , igualmente embaladas e aptas à singularização, além de petrechos vinculados à traficância habitual  balanças de precisão, rádios de comunicação e anotações de contabilidade , sem deslembrar a captura de arma de fogo, de numeração suprimida, acompanhada de munição, no circunstanciamento do tráfico), que demonstraram à saciedade a dedicação dos sentenciados às atividades criminosas (narcotraficância), impedindo, portanto, a concessão da minorante legal.
+Embora se trate de peticionário que preenche boa parte dos requisitos previstos no art. 33, § 4º, da Lei n. 11.343/06, quais sejam, primariedade, bons antecedentes e não participação em organizações criminosas, o conjunto probatório indicou que ele se dedicava à prática dessa atividade criminosa (apreensão de 282,34 quilos (massa líquida) de maconha, 241,1 gramas (massa líquida) de cocaína, 04 balanças de precisão, 02 rádios de comunicação, caderno com anotações do comércio ilícito, uma pistola da marca "Browning", calibre 9 mm, com numeração suprimida, 02 carregadores e 24 cartuchos de munição íntegros, do calibre 380); essa conjuntura, por si só, já afasta a incidência de aludido redutor. Entendimento diverso, além disso, impediria a pena de alcançar seus objetivos, a saber: prevenção e reprovação do delito. Chegou-se a um total intermediário de 09 anos, 04 meses e 15 dias de reclusão e de 937 dias-multa.
+ ..
+O presente writ foi impetrado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO em substituição a recurso próprio, não podendo ser conhecido.
+A Terceira Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Junior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. WRIT NÃO CONHECIDO. CONCESSÃO DA ORDEM DE OFÍCIO. POSSIBILIDADE. DELITOS DE ROUBO EM CONCURSO MATERIAL. CUMULAÇÃO DE CAUSAS DE AUMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO DESPROVIDO.
+1. Conforme consignado na decisão agravada, o presente habeas corpus não merece ser conhecido, pois foi impetrado em substituição a recurso próprio. Contudo, a existência de flagrante ilegalidade justifica a concessão da ordem de ofício.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 738.224/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/12/2023, DJe de 12/12/2023.)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REDUTOR DO ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE E NATUREZA DAS DROGAS ISOLADAMENTE. ELEMENTOS INSUFICIENTES PARA DENOTAR A HABITUALIDADE DELITIVA DA AGENTE. INCIDÊNCIA NA FRAÇÃO MÁXIMA (2/3). REGIME ABERTO. ADEQUADO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AGRAVO NÃO PROVIDO.
+1. Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+ ..
+6. Agravo regimental não provido.
+(AgRg no HC n. 857.913/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/11/2023, DJe de 1/12/2023.)
+De todo modo, não há no acórdão nenhuma ilegalidade flagrante que autorize a concessão da ordem nos termos do artigo 654, § 2º, do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
