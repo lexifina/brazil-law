@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FRANCISCO SALES DA SILVA NETO contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no julgamento da Apelação Criminal n. 1510201-69.2023.8.26.0228.
+Consta nos autos que o Paciente foi condenado à pena de 2 (dois) anos de reclusão, em regime inicial semiaberto, mais o pagamento de 10 (dez) dias-multa, pela prática do crime previsto no art. 155, § 4.º, inciso II, do Código Penal.
+Contra a sentença a Acusação interpôs apelação, que foi provida para estabelecer o regime inicial fechado (fls. 39-43).
+Neste writ, a Impetrante alega que não foi apresentada fundamentação idônea para a fixação do regime inicial fechado.
+Requer, inclusive liminarmente, o restabelecimento do regime inicial semiaberto.
+É o relatório. Decido.
+Inicialmente, cumpre registrar que, consoante consulta realizada no sítio eletrônico do Tribunal de origem, o acórdão impugnado já transitou em julgado. Diante dessa situação, o writ não deve ser conhecido, pois foi manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+De fato, nos termos do art. 105, inciso I, alínea e, da Constituição da República, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados". Sobre a questão, cito os seguintes precedentes das Turmas que compõem a Terceira Seção desta Corte:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. INADEQUAÇÃO. ILEGALIDADE FLAGRANTE NÃO EVIDENCIADA. REPRIMENDA INFERIOR A QUATRO ANOS. PENA-BASE FIXADA EM PATAMAR SUPERIOR AO MÍNIMO LEGAL. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. INAPLICABILIDADE DA SÚMULA N. 440 DESTA CORTE, IN CASU. REGIME MAIS GRAVOSO. POSSIBILIDADE. PRECEDENTES DAS CORTES DE VÉRTICE. SUBSTITUIÇÃO DA SANÇÃO RECLUSIVA POR PENAS RESTRITIVAS DE DIREITOS. PEDIDO NÃO FUNDAMENTADO. PRETENSÃO, ADEMAIS, QUE NÃO SE MOSTRA CABÍVEL. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes de ambas as Turmas que compõem a Terceira Seção deste Sodalício.
+2. Embora o art. 654 § 2.º, do Código de Processo Penal, preveja a possibilidade da concessão de habeas corpus, de ofício, " t al providência não se presta como meio para que a Defesa obtenha pronunciamento judicial sobre o mérito de pedido deduzido em via de impugnação que não ultrapassou os requisitos de admissibilidade" (STJ, AgRg no HC n. 702.446/SC, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 15/03/2022, DJe 22/03/2022).
+ ..
+6. Agravo regimental desprovido." (AgRg no HC n. 815.143/SP, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 29/05/2023, DJe 05/06/2023; sem grifos no original.)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REVISÃO CRIMINAL. ACÓRDÃO TRANSITADO EM JULGADO. USURPAÇÃO DE COMPETÊNCIA. VIOLAÇÃO DO ART. 3º-A DO CPP. EFICÁCIA SUSPENSA PELO STF NA ADI 6299 MC/DF. NULIDADE. INTERROGATÓRIO. PREJUÍZO NÃO DEMOSTRADO. PRECLUSÃO CONSUMATIVA. AGRAVO DESPROVIDO.
+1. O acórdão impugnado transitou em julgado, razão pela qual a utilização do presente habeas corpus com o fim de se desconstituir as decisões proferidas pelas instâncias ordinárias consubstancia pretensão revisional que configura usurpação da competência do Tribunal de origem, nos termos dos arts. 105, inciso I, alínea "e", e 108, inciso I, alínea "b", ambos da Constituição da República
+ ..
+6. Agravo regimental desprovido." (AgRg no HC n. 799.522/SC, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 08/05/2023, DJe 12/05/2023; sem grifos no original.)
+No mesmo sentido, ilustrativamente, as seguintes decisões monocráticas: HC 512.674/CE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 30/05/2019; HC 482.877/SP, Rel. Ministro JORGE MUSSI, DJe 29/03/2019; HC 675.658/PR, Ministro RIBEIRO DANTAS, DJe 04/08/2021; HC 677.684/SP, Ministro ANTONIO SALDANHA PALHEIRO, DJe 02/08/2021; e HC 611.093/RJ, Ministro JOÃO OTÁVIO DE NORONHA, DJe 04/08/2021.
+Igual compreensão é encontrada na jurisprudência do Supremo Tribunal Federal:
+"AGRAVO INTERNO NO HABEAS CORPUS. PENAL E PROCESSUAL PENAL.  ..  INADMISSIBILIDADE NA VIA ELEITA. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. INOVAÇÃO RECURSAL. REITERAÇÃO DAS RAZÕES. AGRAVO INTERNO DESPROVIDO.
+ ..
+5. O writ é impassível de ser manejado como sucedâneo de recurso ou revisão criminal.
+ ..
+9. Agravo interno DESPROVIDO." (HC 222. 003 AgR, Relator LUIZ FUX, Primeira Turma, julgado em 05/12/2022, PROCESSO ELETRÔNICO DJe-254 DIVULG 13/12/2022 PUBLIC 14/12/2022; sem grifos no original.)
+"AGRAVO INTERNO EM HABEAS CORPUS. DECISÃO CONDENATÓRIA TRANSITADA EM JULGADO. UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. AUSÊNCIA DE ILEGALIDADE EVIDENTE. HABEAS CORPUS NÃO CONHECIDO.
+1. O Supremo consagrou sua jurisprudência pela inviabilidade da ação de habeas corpus como sucedâneo de revisão criminal.
+ ..
+4. Agravo interno desprovido." (HC 220361 AgR, Relator(a): NUNES MARQUES, Segunda Turma, julgado em 28/11/2022, PROCESSO ELETRÔNICO DJe-001 DIVULG 09/01/2023 PUBLIC 10/01/2023; sem grifos no original.)
+De qualquer forma, não há como reconhecer a configuração de manifesta ilegalidade, a reclamar a concessão da ordem. O Tribunal de origem fixou o regime inicial fechado nestes termos (fl. 42; grifos diversos do original):
+"A gravidade em concreto da conduta de Francisco, ainda que não tenha influenciado o julgador monocrático na fixação das penas-base, pode e deve ser sopesada para o fim de fixação do regime prisional, no cotejo com reincidência em crime de roubo majorado cuja pena era cumprida pelo recorrente em regime aberto, além de se encontrar-se ele em liberdade provisória deferida em outra ação penal em andamento por crime da mesma espécie (fls. 51, 52/56 e 57/58).
+Portanto, sem que se incida em inobservância dos enunciados das Súmulas 718 e 719 do Excelso Pretório e 440 do Colendo Superior Tribunal de Justiça, impõe-se a alteração do julgado, para ser estabelecido o regime prisional fechado, único suficiente para o atendimento das finalidades de prevenção e reprovação."
+Em que pese tenha sido imposta pena inferior a 4 (quatro) anos de reclusão, com pena-base no mínimo legal, não se verifica manifesta ilegalidade, pois, além da reincidência, foi indicado elemento fático demonstrativo da gravidade concreta da conduta (prática delitiva enquanto cumpria pena por condenação anterior), o que justifica o estabelecimento do regime inicial fechado, consoante precedentes desta Corte Superior:
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. REGIME FECHADO. MOTIVAÇÃO IDÔNEA. REINCIDÊNCIA E GRAVIDADE CONCRETA DO DELITO. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. Na hipótese, apesar de a pena-base do agravante ter sido imposta no piso legal, o estabelecimento de regime mais severo do que o indicado pelo quantum da reprimenda baseou-se na reincidência do réu e na gravidade concreta do delito, e não abstrata, como referido pela defesa, evidenciada pelo seu modus operandi, tudo a exigir resposta estatal superior, dada a maior reprovabilidade da conduta, em atendimento ao princípio da individualização da pena.
+ ..
+4. A aplicação de pena no patamar mínimo previsto no preceito secundário na primeira fase da dosimetria não conduz, obrigatoriamente, à fixação do regime indicado pela quantidade de sanção corporal, sendo lícito ao julgador impor regime mais rigoroso do que o indicado pela regra geral do art. 33, §§ 2º e 3º, do Código Penal, desde que mediante fundamentação idônea, como na hipótese.
+5. Agravo regimental não provido." (AgRg no AREsp n. 2.388.878/SP, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 7/11/2023, DJe de 13/11/2023; sem grifos no original.)
+" ..
+2. Não há se falar em violação do princípio do non bis in idem no caso, porquanto a pena básica foi exasperada pela circunstância de o novo delito ter sido praticado enquanto o Agente gozava do direito de permanecer em regime aberto quanto à condenação em crime anterior, fato distinto do que foi considerado na segunda etapa da dosimetria (reincidência).
+ ..
+4. Agravo regimental desprovido." (AgRg no HC n. 825.510/SP, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 14/8/2023, DJe de 21/8/2023; sem grifos no original.)
+"DIREITO PENAL. HABEAS CORPUS. ART. 16, PARÁGRAFO ÚNICO, IV, DA LEI N. 10.826/2003. REGIME INICIAL FECHADO. PENA INFERIOR A 4 ANOS. ELEMENTOS CONCRETOS E REINCIDÊNCIA. SÚMULA 719 DO STF. ADEQUAÇÃO. O RDEM DENEGADA.
+1. Não obstante a estipulação da reprimenda final em patamar inferior a 4 (quatro) anos de reclusão, encontra-se motivada a sujeição ao regime fechado quando, além da reincidência, há elementos concretos, a despeito desses não terem sido empregados na fixação da pena-base. Na espécie, instâncias de origem destacaram a grave reincidência do paciente, relativa à prática de crime de roubo circunstanciado, bem como invocou elementos concretos - paciente cometeu o presente crime após 28 dias de ter sido beneficiado com o livramento condicional -, o que respalda a fixação do regime mais gravoso (Súmula 719 do STF).
+2. Ordem denegada." (HC n. 429.423/SP, relatora Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 20/2/2018, DJe de 26/2/2018; sem grifos no original.)
+Ante o exposto, NÃO CONHEÇO do pedido de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL E PROCESSUAL PENAL. FURTO QUALIFICADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. INADEQUAÇÃO.  ILEGALIDADE FLAGRANTE NÃO EVIDENCIADA. REGIME INICIAL FECHADO. CABIMENTO. PEDIDO DE HABEAS CORPUS NÃO CONHECIDO.
