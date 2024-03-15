@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por Alexander Martins Lopes contra o acórdão da Quinta Turma do Superior Tribunal de Justiça, relatado pelo Ministro Ribeiro Dantas, assim ementado (fls. 485/489):
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALTA DE IMPUGNAÇÃO ESPECÍFICA À DECISÃO QUE INADMITIU O RECURSO ESPECIAL NA ORIGEM. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO REGIMENTAL DESPROVIDO. 1. Nos termos da Súmula 182/STJ, não pode ser conhecido o agravo em recurso especial, por não ter impugnado de maneira específica todos os fundamentos da decisão de inadmissão do recurso especial na origem.
+2. Agravo regimental desprovido.
+Após o julgamento do agravo interno, foram opostos embargos de declaração. Em acórdão de fls. 526/535, a Quinta Turma do STJ rejeitou os embargos por ausência de vícios previsto nos art. 619 do CPP.
+Nos presentes embargos de divergência, alega o embargante (fls. 542/547) que a inadmissibilidade se baseou na aplicação da Súmula 182 do STJ, ante a não impugnação de todos os fundamentos da decisão recorrida. Contudo, sustenta que apesar dos múltiplos fundamentos presentes na decisão que inadmitiu o recurso especial, cada um, isoladamente, não detém força suficiente para justificar a manutenção da decisão agravada.
+Aduz que, ao não conhecer do recurso, decisão recorrida divergiu do paradigma: EDcl no AREsp n. 405.570/RJ, Ministro Luis Felipe Salomão, Quarta Turma, DJe 22/5/2014.
+Assim, requer o conhecimento e o provimento do recurso.
+É o relatório.
+Os embargos de divergência não ultrapassam o juízo de admissibilidade.
+Mediante exame dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência da Súmula 182 do STJ. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial.
+Além disso, conforme é especificado no voto do Relator:
+Como se afirmou quando do julgamento monocrático, o recursos especial não foi admitido considerando as Súmulas 7, 182 ambas do STJ e deficiência de cotejo analítico. Contudo, a parte no agravo em recurso especial não impugnou adequadamente a deficiência de cotejo analítico.
+A Corte Especial do STJ manteve o entendimento da necessidade de impugnação específica de todos os fundamentos da decisão agravada, sob pena de incidência da Súmula 182/STJ. (fl. 488). (grifo nosso)
+Consoante se observa do acórdão embargado, mostra-se inequívoca a incidência do óbice da Súmula 315/STJ, na medida em que não examinou o mérito do recurso especial no ponto recorrido, a obstar a admissibilidade dos embargos de divergência, porquanto não evidenciada divergência de teses jurídicas, nos termos do art. 266, § 1º, do RISTJ, e do art. 1.043 do Código de Processo Civil. Nesse diapasão: AgInt nos EAREsp n. 1.441.916/SC, Ministro Og Fernandes, Corte Especial, DJe 26/8/2020; AgRg nos EREsp n. 1.803.437/SC, Ministro Herman Benjamin, Corte Especial, DJe 17/6/2020; e AgInt nos EAREsp n. 1.022.112/SP, Ministro Humberto Martins, Corte Especial, DJe 4/4/2018.
+Ademais, o embargante não se desincumbiu do ônus de demonstrar o alegado dissídio jurisprudencial por meio do indispensável cotejo analítico, nos moldes legais e regimentais, vício insanável.
+A mera referência genérica a julgados não atende aos requisitos elementares de admissibilidade dos embargos de divergência, que pressupõe a demonstração da identidade fático-processual entre os casos confrontados, a fim de viabilizar a arguição de aplicação de solução jurídica diversa.
+Não se pode admitir embargos de divergência quando não há a demonstração de controvérsia entre órgãos distintos do STJ (Turmas, Seções, Corte Especial). Ora, a aferição dessa divergência pressupõe efetivo cotejo analítico não resumido a simples transcrição de ementas e capaz de mostrar as similitudes fáticas e jurídicas entre os paradigmas e o acórdão recorrido (AgInt nos EDcl nos EAREsp n. 438.748/BA, Ministro Mauro Campbell Marques, Corte Especial, DJe 11/11/2021).
+Ante o exposto, indefiro liminarmente os embargos de divergência.
+Publique-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. SÚMULA 315/STJ. MERA REFERÊNCIA GENÉRICA A PARADIGMAS NAS RAZÕES RECURSAIS. AUSÊNCIA DE COTEJO ANALÍTICO. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. INADMISSIBILIDADE.
+Embargos de divergência indeferidos liminarmente.
