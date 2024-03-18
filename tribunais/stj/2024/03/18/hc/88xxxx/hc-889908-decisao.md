@@ -1,0 +1,11 @@
+DECISÃO
+MARCELO MARQUES GALANTE DE ANDRADE alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 0007491-25.2023.8.26.0496, em que foi mantida a decisão que, "em razão da preclusão temporal e lógica, indeferiu o pedido de retificação do cálculo de penas para desconsiderar o agravante como reincidente em crimes hediondos" (fl. 25).
+Pleiteou a defesa, perante a Corte de origem, "que o cálculo para fins de progressão ao regime aberto considere o sentenciado como reincidente em crimes comuns" (fl. 25).
+A esse respeito, urge consignar que, "consistindo a reincidência em condição pessoal, uma vez reconhecida, influi sobre o requisito objetivo dos benefícios da execução em relação a todas as condenações" (AgRg no HC n. 608.770/SC, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 20/11/2020).
+Ademais, saliento que, após as alterações promovidas pela Lei n. 13.964/2019, tornaram-se cruciais para a avaliação do lapso de progressão de regime dois fatores além da hediondez - quais sejam, a ocorrência ou não do resultado morte e a primariedade, a reincidência genérica ou, ainda, a reincidência específica do apenado.
+Com efeito, na hipótese, salientou a Corte de origem que, "o crime de tráfico de drogas que ora se executa foi praticado em 01.12.2021 e não houve o decurso do prazo de cinco anos entre tal data e a extinção da pena referente ao crime hediondo anterior (Processo n. 0022750-26.2006.8.26.0506), também por tráfico de drogas (art. 12, caput, Lei n. 6.368/76)" (fl. 27).
+Dessa forma, dado que o paciente é reincidente em crime hediondo, o patamar de progressão, consoante a legislação atual seria de 60% da pena, tendo sido esta corretamente aplicada.
+Consoante já salientado pelo Superior Tribunal de Justiça, " a  Lei 13.914/2019 não exigiu que a reincidência para fins de progressão de regime fosse específica (pela prática do mesmo delito), mas apenas que o condenado fosse reincidente em crime hediondo ou equiparado a hediondo" (AgRg no HC n. 720.555/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 25/3/2022.)
+À vista do exposto, nos termos do art. 34, XX, do RISTJ, denego o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
