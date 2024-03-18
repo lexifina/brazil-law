@@ -1,0 +1,33 @@
+DECISÃO
+RENATO SOARES BOAVENTURA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo, que negou provimento à Apelação Criminal n. 0003098-33.2020.8.08.0021.
+Consta dos autos que o paciente foi condenado à pena de 5 anos de reclusão, em regime inicial aberto, mais multa, pela prática do crime de tráfico de drogas.
+A defesa pleiteia, por meio deste writ, a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas no patamar máximo de 2/3.
+Não houve pedido de liminar.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus e, "caso conhecido, pela concessão da ordem, para aplicar o redutor do art. 33, § 4º, da Lei nº 11.343/06 no patamar de 1/6" (fl. 37).
+Decido.
+Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+No caso, o Tribunal de origem considerou indevida a incidência da referida minorante, com base nos seguintes fundamentos (fls. 9-10):
+No que se refere ao tráfico privilegiado, destaco que o mesmo não fora reconhecido com juridicidade tendo em vista que as circunstâncias da prisão e as peculiaridades do caso concreto evidenciam que o apelante se dedicava a atividades criminosas, não só pelo fato de que responde a outra ação penal - tendo sido implementada condenação a seu desfavor pela prática do delito de posse ilegal de arma de fogo, mas à luz da expressiva quantidade e variedade de drogas apreendidas (cocaína e maconha).
+Como registrado de forma escorreita na sentença impugnada, a causa de diminuição prevista no artigo 33, § 4º da Lei de regência é destinada aos pequenos traficantes que estão por iniciar na prática de referido delito, o que não se configura no caso em comento, haja vista que as peculiaridades do caso revelam que o apelante realmente se dedicava a atividade criminosa denunciada.
+Conforme visto, a instância de origem deixou de reconhecer a aplicação do redutor, com base, essencialmente, em dois fundamentos: a) existência de processo em andamento; b) quantidade e diversidade de drogas apreendidas.
+No tocante ao primeiro argumento, faço lembrar que, em sessão ocorrida no dia 10/8/2022, a Terceira Seção desta Corte Superior de Justiça, por ocasião do julgamento do REsp n. 1.977.027/PR (Rel. Ministra Laurita Vaz) - submetido ao rito dos recursos repetitivos -, fixou a seguinte tese:
+É vedada a utilização de inquéritos e/ou ações penais em curso para impedir a aplicação do art. 33, § 4.º, da Lei n. 11.343/06.
+O Supremo Tribunal Federal também possui idêntica compreensão acerca da matéria. Exemplificativamente, menciono, por todos, o HC n. 173.806/MG, de relatoria do Ministro Marco Aurélio (DJe 9/3/2020), cujo acórdão ficou assim ementado:
+PENA - FIXAÇÃO - ANTECEDENTES - INQUÉRITOS E PROCESSOS EM CURSO - DESINFLUÊNCIA.
+O Pleno do Supremo, no julgamento do recurso extraordinário nº 591.054, de minha relatoria, assentou a neutralidade, na definição dos antecedentes, de inquéritos ou processos em tramitação, considerado o princípio constitucional da não culpabilidade.
+PENA - CAUSA DE DIMINUIÇÃO - ARTIGO 33, § 4º, DA LEI Nº 11.343/2006 - ATIVIDADES CRIMINOSAS - DEDICAÇÃO - PROCESSOS EM CURSO.
+Revela-se inviável concluir pela dedicação do acusado a atividades criminosas, afastando-se a incidência da causa de diminuição prevista no artigo 33, § 4º, da Lei nº 11.343/2006, considerado processo-crime em tramitação.
+Quanto ao segundo argumento invocado pela Corte estadual, registro que, em sessão realizada no dia 9/6/2021, por ocasião do julgamento do REsp n. 1.887.511/SP (Rel. Ministro João Otávio de Noronha, DJe 1º/7/2021), a Terceira Seção desta Corte Superior de Justiça decidiu:
+ ..
+7. A utilização concomitante da natureza e da quantidade da droga apreendida na primeira e na terceira fases da dosimetria, nesta última para descaracterizar o tráfico privilegiado ou modular a fração de diminuição de pena, configura bis in idem, expressamente rechaçado no julgamento do Recurso Extraordinário n. 666.334/AM, submetido ao regime de repercussão geral pelo Supremo Tribunal Federal (Tese de Repercussão Geral n. 712).
+8. A utilização supletiva desses elementos para afastamento do tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa.
+ ..
+No caso, a natureza e a diversidade de drogas apreendidas foram sopesadas com fundamento inidôneo para, em conjunto, levar à conclusão de que o réu se dedicaria a atividades criminosas, motivo pelo qual reputo evidenciado o apontado constrangimento ilegal de que estaria sendo vítima.
+Portanto, à ausência de fundamento suficiente o bastante para justificar o afastamento da causa especial de diminuição prevista no § 4º do art. 33 da Lei de Drogas, deve a ordem ser concedida, a fim de aplicar, em favor do réu, o referido benefício.
+No que tange ao quantum de redução de pena, considero, dentro do livre convencimento motivado, ser suficiente e adequada a redução de pena no patamar máximo de 2/3, pois, não obstante tenham sido apreendidos dois tipos diferentes de substâncias entorpecentes, entendo que a quantidade de drogas não foi excessivamente elevada (145,8g de maconha e 97,7g de cocaína).
+Observada, portanto, a dosimetria da pena feita pelas instâncias de origem, fica a sanção do réu definitivamente estabelecida em 1 ano e 8 meses de reclusão e pagamento de 166 dias-multa.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem, a fim de reconhecer a incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 em favor do acusado, aplicá-la no patamar de 2/3 e, por conseguinte, reduzir a sua reprimenda para 1 ano e 8 meses de reclusão e pagamento de 166 dias-multa.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+EMENTA
