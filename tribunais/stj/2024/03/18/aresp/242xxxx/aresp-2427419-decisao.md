@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por WILLIAN MARCELINO FRANCO. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"RECUPERAÇÃO JUDICIAL CONVOLADA EM FALÊNCIA - HABILITAÇÃO DE CRÉDITO - Atualização do crédito que deve se dar até o decreto de quebra, nos termos do art. 9º, II, da Lei 11.101/2005 - TERMO INICIAL DO VALOR RELATIVO AOS LUCROS CESSANTES E COMISSÃO DE CORRETAGEM - Quanto aos lucros cessantes, estes devem ser computados a partir da data dos vencimentos dos aluguéis. E em relação à comissão de corretagem, a partir da data de celebração do "Compromisso de Compra e Venda", de modo que se mostram corretos os cálculos apresentados pelo Administrador Judicial - Decisão mantida- RECURSO DESPROVIDO NESTE TÓPICO.
+FALÊNCIA HABILITAÇÃO DE CRÉDITO - RESSARCIMENTO DO VALOR RELATIVO AOS JUROS DE OBRA/MEDIÇÃO - Considerando que o valor referente aos juros de obra/medição pagos à Caixa Econômica Federal constou expressamente da decisão condenatória, tais encargos devem ser incluídos nos cálculos, desde a data de sua cobrança até a data de decretação da falência, por força da decisão proferida nos autos da ação indenizatória - Decisão reformada -RECURSO PROVIDO NESTE TÓPICO.
+HABILITAÇÃO DE CRÉDITO - VERBA HONORÁRIA SUCUMBENCIAL FIXADA EM ACÓRDÃO CONDENATÓRIO - LEGITIMIDADE CONCORRENTE - O credor habilitante tem legitimidade concorrente para pleitear a inclusão da verba honorária sucumbencial fixada na decisão condenatório - Crédito concursal - Inteligência do art. 49 da Lei nº 11.101/2005 - A constituição do crédito relativo a honorários advocatícios sucumbenciais se dá no momento e sua fixação - Decisão reformada - RECURSO PROVIDO NESTE TÓPICO" (fls. 274/275 e-STJ).
+Os embargos de declaração foram acolhidos parcialmente (fl. 310 e-STJ).
+Nas razões do recurso especial, o recorrente aponta, além de divergência jurisprudencial, violação dos artigos 1.022 do CPC e 240 e 405 do CC. Defende que seja determinada a incidência dos j uros de mora sobre as condenações que compõem o crédito habilitado.
+Com as contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+O Ministério Público Federal, em seu parecer, opinou pelo desprovimento do agravo (fls. 423/427 e-STJ).
+É o r elatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O recurso não merece prosperar.
+No tocante à alegada negativa de prestação jurisdicional, agiu corretamente o tribunal de origem por inexistir omissão, contradição, obscuridade ou erro material no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA Nº 284/STF. PRINCÍPIO DA NÃO SURPRESA. VIOLAÇÃO. INEXISTÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de aclaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.4. É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de indicar de que forma os dispositivos legais indicados teriam sido violados. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+5. Ausente violação do princípio da não surpresa (art. 10 do CPC/2015) se o acórdão recorrido, adotando fundamentos jurídicos diversos dos apresentados pela parte, aplica a lei aos fatos narrados e às provas submetidas ao contraditório.
+6. Agravo interno não provido" (AgInt no REsp 1711584/TO, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 09/08/2021, DJe 17/08/2021).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS. BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscrita à presença cumulativa dos requisitos da plausibilidade do direito invocado e no perigo de dano irreparável ou de difícil reparação, que não se fazem presentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É possível a atribuição de efeitos infringentes aos embargos de declaração quando a alteração da decisão surgir como consequência lógica da correção da omissão, contradição ou obscuridade.
+4. Agravo interno não provido" (AgInt no AREsp 1.070.607/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 17/8/2017, DJe 25/8/2017).
+Na hipótese dos autos, o tribunal de origem consignou:
+"1. Atualização do crédito.
+O crédito do agravante deve ser atualizado até a data da quebra, em24/08/2017, nos termos do art. 9º, I, da Lei 11.101/05. Embora o agravante alegue que seu crédito não foi atualizado até a data da decretação da falência, extrai-se dos cálculos apresentados pelo Administrador Judicial que todos os valores foram devidamente atualizados até a data da quebra (24/08/2017), devendo a r. decisão ser mantida nesse tópico.
+2. Quanto ao termo inicial dos lucros cessantes, referente aos alugueis que o agravado poderia ter obtido se não tivesse havido atraso na entrega do imóvel, cabe lembrar que no v. acórdão ficou decidido que: "Sendo assim, forçoso reconhecer que a apelada incorreu em mora e deve suportar os seus efeitos, dentre os quais a obrigação de reparar os danos decorrentes do atraso, sobressaindo os lucros cessantes, equivalentes ao montante que o autor poderia auferir caso pudesse desfrutar da unidade desde a data estimada para entrega. Logo, a apelada deve pagar ao apelante o valor pretendido na inicial, estimado em 0,8% por mês sobre o preço do bem, valor equivalente a R$ 1.280,00, durante os 10 meses de atraso (entre maio de 2010 e março de 2011, inclusive)" (fls. 123/124 dos autos de origem).
+Dessa forma, não se há falar em cômputo dos lucros cessantes a partir da citação, conforme pretende o agravante, mas sim a partir da data dos vencimentos dos eventuais alugueis, de modo que corretos se mostram os cálculos apresentados pelo Administrador Judicial" (fls. 277/278 e-STJ).
+Nesse cenário, a revisão do julgado esbarra no óbice da Súmula nº 7/STJ.
+Por fim, consoante iterativa jurisprudência desta Corte, a necessidade de reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Deixa-se de majorar os honorários sucumbenciais, nos termos do artigo 85, § 11, do CPC, tendo em vista que não foram arbitrados na origem.
+Publique-se.
+Intimem-se.
+EMENTA
