@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo manejado por Saneamento de Goiás S/A contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado (fl. 46):
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS NA FASE ADMINISTRATIVA E NA FASE JUDICIAL. LEI LOCAL E CPC, RESPECTIVAMENTE. COBRANÇA EMDUPLICIDADE AFASTADA. 1. O agravo de instrumento é um recurso secundum eventum litis, devendo o juízo ad quem limitar-se ao exame do acerto ou desacerto da decisão atacada, sem adentrar em questões meritórias ou matérias não apreciadas pelo juízo a quo, sob pena de supressão de instância. 2. A legalidade dos honorários advocatícios administrativos na CDA encontram suporte nos incisos do art. 54-A da Lei Complementar nº 71/2016 do Município de Rio Verde. 3. O arbitramento de honorários advocatícios na fase administrativa está devidamente amparado na pertinente lei complementar municipal e não se confunde com os honorários previstos no art. 85 do CPC, que estão vinculados à demanda judicializada, não havendo se falar em duplicidade. 4. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO.
+Opostos embargos declara tórios, foram rejeitados (fls. 71/77 ).
+Nas razões do recurso especial, a parte agravante aponta, além de divergência jurisprudencial, violação aos seguintes dispositivos de lei federal:
+(I) arts. 489, § 1º, e 1.022, II, do CPC, ao argumento de que o Tribunal de origem não se manifestou sobre questão relevante para o deslinde da controvérsia, concernente ao não cabimento da inclusão dos honorários da fase administrativa na dívida ativa;
+(II) art. 202 do CTN; e art. 2º, §§ 5ºe 6º, da Lei n. 6.830/80, porquanto a inscrição de honorários advocatícios administrativos na dívida ativa e na CDA não encontra amparo nas normas aplicáveis ao caso. Ressalta que a cobrança dos honorários da fase administrativa somada aos honorários fixados no processo judicial caracteriza dupla cobrança vedada pelo ordenamento jurídico.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não prospera.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confund ir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Com efeito, sobre o tema tido como olvidado, a Corte Estadual consignou (fl. 43):
+A insurgência diz respeito ao hipotético excesso na inserção indevida de honorários advocatícios administrativos na CDA. Sobre o tema, os incisos I, II, IV e V do art. 54-A da Lei Complementar nº 71/2016 do Município de Rio Verde, assim dispõem:
+(..)
+Como se observa, o arbitramento de honorários advocatícios refentes à fase administrativa está devidamente amparado na pertinente lei complementar municipal e não se confunde com os honorários previstos no art. 85 do CPC, que estão vinculados à demanda judicializada, não havendo se falar em duplicidade.
+Não ficou configurada, pois, a alegada omissão.
+Por outro lado, com relação aos arts. art. 202 do CTN; e art. 2º, §§ 5ºe 6º, da Lei n. 6.830/80, nota-se que o referidos dispositivos legais não contém comando capaz de sustentar a tese recursal e infirmar o juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Por oportuno, destacam-se os seguintes precedentes: AgRg no AREsp 161.567/RJ, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 26/10/2012; REsp 1.163.939/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 8/2/2011.
+Ademais, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+Fica prejudicada, pelos mesmos motivos, a análise do dissídio jurisprudencial.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
