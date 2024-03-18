@@ -1,0 +1,15 @@
+DECISÃO
+VANIL JUNIOR RIZZATO DIAS interpõe agravo contra a decisão do Tribunal de Justiça do Estado de São Paulo que inadmitiu seu recurso especial.
+O condenado por roubo simples argumenta que deduziu razões jurídicas para pedir a redução da pena e a fixação de regime inicial aberto, além da aplicação da detração penal, o que não encontra impedimento nas Súmulas n. 7 e 182 do STJ. Pede o trâmite do recurso.
+O Ministério Público Federal opinou pelo não provimento do agravo.
+Decido.
+O agravo preenche os requisitos para ser conhecido e foi equivocada a inadmissão do recurso especial. A controvérsia é jurídica e está adequadamente delineada pela defesa, que alegou a negativa de vigência ao art. 33, caput, e § 2º, "b", do CP.
+Tem razão a defesa. Quando o regime de cumprimento de pena mais rigoroso é imposto, ele deve ser justificado. O julgador precisa indicar argumentos que esclareçam a opção mais severa. Esse é o entendimento da Súmula n. 719 do STF.
+No caso, apesar do quantum da pena (4 anos), da primariedade do condenado por roubo simples e da falta de registro de circunstâncias do art. 59 do CP desfavoráveis, o Tribunal de Justiça assim motivou o regime semiaberto:
+"mantém-se o estabelecimento do regime prisional intermediário, pois  ..  não se pode descurar que o réu agiu simulando o porte de arma de fogo e abordou a vítima em seu labor, subtraindo valores do estabelecimento comercial"; "o crime foi praticado no local de trabalho do ofendido, da qual é proprietário"; "o sujeito abordado enquanto está trabalhando passa a se sentir inseguro no local em que exerce sua profissão, gerando transtornos muito além do que o tipo penal intencionou punir" (fl. 238).
+Houve destaque à prática do roubo no ambiente de trabalho do ofendido. O evento foi considerado mais grave pelo Tribunal de Justiça, mas é inerente ao tipo penal e não revela a maior seriedade dos fatos.
+Incidem as Súmulas n. 568 e 83 do STJ, uma vez que a Terceira Seção desta Corte já decidiu que "a aplicação de pena no patamar mínimo previsto no preceito secundário na primeira fase da dosimetria não conduz, obrigatoriamente, à fixação do regime indicado pela quantidade de sanção corporal, sendo lícito ao julgador impor regime mais rigoroso do que o indicado pela regra geral do art. 33, §§ 2º e 3º, do Código Penal, desde que apresentados elementos fáticos indicativos da gravidade concreta do crime" (HC n. 361.631/SP, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 14/12/2016, DJe de 2/2/2017), o que não verifico.
+Reconheço a violação federal e fixo ao réu o regime inicial aberto, com fundamento no art. 33, § 2º, "c", do CP, o que prejudica o pedido de detração penal na fase do conhecimento. É mais favorável ao postulante que o tempo de prisão provisória seja computado como pena cumprida pelo Juiz da execução, para cálculo de benefícios.
+À vista do exposto, conheço do agravo para conhecer e dar provimento ao recurso especial, e fixar ao réu o regime inicial aberto, com determinação de observância da detração penal pelo Juízo das Execuções.
+Publique-se e intimem-se.
+EMENTA
