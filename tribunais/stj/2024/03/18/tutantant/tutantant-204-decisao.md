@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de pedido de tutela provisória, apresentado por LIGIA MARIA DINIZ, objetivando a atribuição de efeito suspensivo a recurso especial inadmitido na origem.
+A requerente sustenta, nas suas razões recursais, que o acórdão recorrido teria negado vigência aos artigos 26, §§ 1º, 3º e 8º, 26-A, § 2º, 27, § 2º, da Lei nº 9.514/1997, 166, incisos IV e V, 168, parágrafo único, 169, 1.511, 1.647 e 1.667 do Código Civil.
+Aduz , em síntese, que nem a requerente nem o devedor fiduciante Leandro foram notificados das datas e horários dos leilões, de modo que o procedimento extrajudicial padece de nulidade. Invoca, ainda, dissídio jurisprudencial.
+Embasa o fumus boni iuris na plausibilidade jurídica das alegações postas no recurso especial.
+Quanto ao periculum in mora, o relaciona com o risco de perder o imóvel que lhe serve de moradia.
+Pugna, ao final, pelo deferimento do pedido liminar "a fim de impor efeito suspensivo ao recurso especial, determinando, que Banco-Requerido se abstenha de atos expropriatórios, bem como, torne sem efeito o leilão realizado" (e-STJ fl. 58).
+É o relatório.
+DECIDO.
+Consoante o disposto no art. 1.029, § 5º, inciso I, do Código de Processo Civil de 2015, com a redação dada pela Lei nº 13.256/2016, "o pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido ao tribunal superior respectivo, no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo".
+No caso vertente, considerando que já foi realizado o juízo prévio de admissibilidade do recurso especial, embora negativo, entende-se competir a esta Corte Superior o exame do pedido de atribuição de efeito suspensivo ao recurso.
+Vale ressaltar, a propósito, que este Tribunal Superior, em casos excepcionais, autoriza a concessão de efeito suspensivo a recurso especial ainda que inadmitido na origem, desde que demonstrada, além da presença cumulativa dos requisitos do periculum in mora e do fumus boni juris, a viabilidade de reversão do prévio juízo negativo de admissibilidade, conforme decidido nos seguintes julgados:
+"AGRAVO INTERNO NA PETIÇÃO - PEDIDO DE TUTELA DE URGÊNCIA PARA CONCESSÃO DE EFETIO SUSPENSIVO A RECURSO INADMITIDO NA ORIGEM - DECISÃO MONOCRÁTICA QUE INDEFERIU LIMINARAMENTE O PLEITO.
+1. A concessão da tutela de urgência, para conferir efeito suspensivo a recurso inadmitido na origem, e objeto de agravo (art. 1042 do CPC/15) é excepcional e pressupõe a aferição da existência de decisão teratológica ou manifestamente contrária à jurisprudência deste Superior Tribunal de Justiça, somada à demonstração dos requisitos da viabilidade do apelo nobre e plausibilidade do direito invocado, e do perigo da demora. Precedentes do STJ.
+1.1 Quanto ao fumus boni iuris esse, em princípio, não fora adequadamente demonstrado, pois além da parte se limitar a aduzir que as razões do reclamo especial abonam o pleito de urgência, não elenca fundamentos aptos ao acolhimento do reclamo. Ademais, em análise ao recurso especial (fls. 53-65), evidencia-se que as violações aduzidas pela parte, em tese, não tem chance de prosperar no âmbito desta Corte Superior, haja vista que, em principio, não se verifica a apontada negativa de prestação jurisdicional, dado que a Corte local para o julgamento do caso apresentou os fundamentos que considerava pertinentes ao deslinde da controvérsia, apenas não adotando a tese do insurgente. E ainda, evidencia-se que a parte sustenta violação a dispositivo constitucional em sede de recurso especial, sendo inviável a esta Corte Superior proceder à averiguação de tal insurgência, ainda que para fins de prequestionamento, sob pena de usurpação de competência do Supremo Tribunal Federal. Quanto ao mais, vislumbra-se a incidência do óbice da súmula 283/STF dada a suposta ausência de adequada impugnação aos fundamentos basilares do acórdão recorrido e a aplicação, ao caso, do óbice da súmula 7/STJ, pois para acolher a tese de excesso de execução e violação à coisa julgada, seria imprescindível revolver provas e fatos.
+1.2. No que alude à urgência da medida, o requerente não demonstrou sua existência no caso, visto que a mera deflagração de cumprimento da sentença, não traduz a alegada premência.
+2. Agravo interno desprovido".
+(AgInt na Pet n. 15.063/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 15/8/2022, DJe de 18/8/2022.)
+"PROCESSO CIVIL. AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA. CONCESSÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. DEMONSTRAÇÃO DO PERICULUM IN MORA E DO FUMUS BONI IURIS. NECESSIDADE. PEDIDO DE TUTELA PROVISÓRIA INDEFERIDO.
+1. Ação de indenização securitária, em razão de vícios de construção constatados nos imóveis adquiridos pelo SFH.
+2. Em hipóteses excepcionais, é possível a atribuição de efeito suspensivo a recurso especial inadmitido na origem; para tanto, porém, é necessária a demonstração do periculum in mora e a caracterização do fumus boni iuris.
+3. A ausência do periculum in mora basta para o indeferimento do pedido, sendo, portanto, desnecessário apreciar a questão sob a ótica do fumus boni iuris, que deve se fazer presente cumulativamente.
+4. Agravo interno não provido".
+(AgInt no TP n. 2.274/PE, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/11/2019, DJe de 18/11/2019.)
+No caso em apreço, não é possível visualizar a existência de situação excepcional apta a ensejar o deferimento da medida extrema.
+Isso porque o Tribunal de origem, com base em ampla análise da prova dos autos, foi categórico em afirmar que (i) não se observa nenhuma irregularidade do procedimento de consolidação da propriedade do imóvel; (ii) no contrato de financiamento consta como único comprador/devedor o Sr. Leandro Antonio Mendes, que se declarou como divorciado; (iii) a notificação para constituição em mora foi devidamente recebida pelo devedor; (iv) mes mo após contatada pelo credor na tentativa de recebimento do débito, a requerente não efetuou o pagamento das parcelas vencidas; e (v) a requerente tinha ciência inequívoca da realização dos leilões tanto que requereu na petição inicial a suspensão dos atos expropriatórios (e-STJ fls. 558-559).
+Rever tais conclusões demandaria o reexame de cláusulas contratuais e de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos das Súmulas nº 5 e nº 7 do Superior Tribunal de Justiça.
+Assim, em um exame perfunctório, próprio das liminares, não se constata plausibilidade jurídica da insurgência da requerente.
+Nesse contexto, ausente um dos requisitos autorizadores da concessão da medida urgente, que devem estar necessariamente conjugados, inviável o deferimento do pleito.
+Ante o exposto, indefiro o pedido.
+Publique-se.
+Intimem-se.
+Arquive-se.
+EMENTA
