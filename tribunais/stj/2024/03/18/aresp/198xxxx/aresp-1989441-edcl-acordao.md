@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/03/2024 a 18/03/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. AUSÊNCIA.
+1. Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que não há no acórdão nenhuma situação que dê amparo ao recurso integrativo, porquanto o vício alegado pelo embargante, na realidade, manifesta seu inconformismo com o desprovimento do agravo interno.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por DIRCEU ANDRE SEBBEN e OUTRO contra acórdão que conheceu parcialmente do agravo interno e, nessa extensão, negou-lhe provimento, o qual foi assim ementado (e-STJ fl. 434):
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÕES GENÉRICAS. FUNDAMENTAÇÃO. DEFICIÊNCIA. PREQUESTIONAMENTO FICTO. INEXISTÊNCIA.
+1. Nos termos do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, os fundamentos da decisão combatida, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. A violação do art. 1.022 do CPC/2015 deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado, sob pena de não conhecimento, à luz da Súmula 284 do STF.
+4. Para o prequestionamento ficto, é imprescindível que, além da indicação de ofensa ao art. 1022 do CPC/2015, esta Casa de Justiça reconheça a existência de vício de integração relacionada à matéria que a parte pretende ver apreciada no mérito do recurso especial, o que não ocorreu na presente hipótese.
+5. Agravo interno parcialmente conhecido e desprovido.
+Sustenta a parte embargante que o recurso é contraditório, pois no relatório traz a informação de que houve impugnação das Súmulas 283 e 284 do STF, porém deixa que conhecer do agravo por ausência de combate aos referidos óbices.
+Defende que, no agravo interno, trouxe fragmento de peça do caderno processual em que requereu, ainda na instância ordinária, a inclusão do serviço notarial na lide, não havendo justificativa para entender que não foi devidamente impugnada a necessidade de participação de tabelião no processo.
+Afirma que o acórdão embargado é genérico quanto ao óbice da Súmula 7 do STJ, o qual não se aplica ao feito, porque a inexistência de averbação a evidenciar que o imóvel é terreno de marinha, na hipótese, não demanda revisão de fatos ou provas.
+Alega que o aresto é omisso quanto à tese de que o marco inicial da prescrição e da decadência é o registro da transferência da propriedade na matrícula do imóvel.
+Aduz que a data de transferência está clara no julgado proferido da instância ordinária, o que afasta o óbice da Súmula 7 do STJ, sendo possível compreender a insurgência quanto à base de cálculo, não havendo que falar em incidência da Súmula 284 do STF, bem como que o entendimento do Colegiado de origem é oposto a conclusão alcançada por outro Tribunal Regional.
+Sem impugnação (e-STJ fl. 470).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. AUSÊNCIA.
+1. Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que não há no acórdão nenhuma situação que dê amparo ao recurso integrativo, porquanto o vício alegado pelo embargante, na realidade, manifesta seu inconformismo com o desprovimento do agravo interno.
+3. Embargos de declaração rejeitados.
+VOTO
+Nos termos do art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material na decisão.
+No caso, não ocorreu nenhum dos vícios supracitados.
+O acórdão foi claro ao afirmar que, para combater a incidência das Súmulas 283 e 284 do STF, nas razões do agravo interno, a ora embargante afirmou que (e-STJ fl. 437):
+(..) argumentou pela inclusão do tabelião no evento 29 e requereu a prova oral na e-STJ fl. 83, sendo certo que, "ao indeferir a inclusão do tabelião, houve afronta direta ao art. 114 do CPC/15; quando do indeferimento, não fundamentou suas razões, violando dispositivo legal que considera nula decisão que não atende aos requisitos do §1º do art. 489, especialmente os incisos II, III e IV" (e-STJ fl. 413).
+Entretanto, a decisão monocrática agravada aplicou os referidos óbices sumulares no seguinte capítulo autônomo (e-STJ fl. 439):
+b) ausência de rebate ao fundamento de que a parte teria "pugnado pelo julgamento do feito no estado em que se encontrava, por reputar dispensável a produção probatória" (e-STJ fl. 169), bem como que "suscitou a inclusão de oficial do serviço notarial em petição bem posterior e de forma passageira, além de não ser necessária a presença do tabelião no polo passivo da demanda para "a solução da questão da existência ou não de averbação da condição de terreno de marinha no registro do imóvel" (e-STJ fl. 170), o que atrai o óbice das Súmulas 283 e 284 do STF, além de o Tribunal de origem, ainda que de forma suscinta, ter apontado as razões de seu convencimento para afastar a prova oral, não havendo ausência de fundamentação; (Grifos acrescidos).
+Concluiu-se que as razões do agravo interno não atacam efetivamente os fundamentos que levaram à incidência dos óbices sumulares (destacados na transcrição acima), tendo a parte recorrente trazido alegações genéricas de que requereu a inclusão do tabelião no polo passivo e a produção de prova oral (e-STJ fls. 439/440).
+Registre-se, por oportuno, que o agravo interno não se presta a complementação de argumentos do recurso especial, de modo que a indicação, apenas no referido recurso, de fragmento de peça em que teria requerido a inclusão da serventia notarial na demanda, perante a instância originária, configura inovação recursal, diante da preclusão consumativa.
+Também não há que falar de vício de integração quanto à incidência da Súmula 7 do STJ.
+O referido óbice foi aplicado apenas no terceiro capítulo autônomo da decisão então agravada, ao fundamento de que, "para se entender que era possível presumir que o imóvel era particular, considerando os fragmentos das averbações citadas nas razões do apelo nobre ou para se afastar a conclusão do acórdão de que cabia à parte consultar a situação do imóvel junto a SPU, porque o bem está localizado na beira da praia (e-STJ fl. 171)", seria necessário reexame dos elementos de convicção presentes nos autos (e-STJ fl. 439).
+Todavia, a parte apresentou fundamentos dissociados daqueles que ensejaram a aplicação do referido óbice de conhecimento, deixando de impugnar efetivamente os motivos que levaram à sua aplicação (e-STJ fl. 440), conforme se observa no seguinte trecho (e-STJ fl. 440):
+No que se refere ao capítulo relativo à cobrança de laudêmio, não houve efetiva impugnação à incidência da Súmula 7 do STJ. Isso porque, o referido óbice sumular foi aplicado ao fundamento de que para "se entender que era possível presumir que o imóvel era particular, considerando os fragmentos das averbações citadas nas razões do apelo nobre ou para se afastar a conclusão do acórdão de que cabia à parte consultar a situação do imóvel junto a SPU, porque o bem está localizado na beira da praia" (e-STJ fl. 396) seria necessário o reexame dos elementos de convicção presentes nos autos.
+Entretanto, o agravante apenas alegou que a "inexistência de averbação na matrícula no sentido de que o imóvel se encontra cadastrado como terreno de marinha não demanda reexame de fatos e provas, mas tão somente a leitura das próprias decisões do processo, os quais registram que, de forma incontroversa, não há a regular e devida informação no assentamento imobiliário" (e-STJ fl. 417), argumento dissociado daqueles que ensejaram a aplicação do referido óbice de conhecimento.
+Cumpre observar que para afastar a Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente da análise de fatos e provas, mediante a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e na decisão agravada e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório, o que não ocorreu no caso.
+Com efeito, a conclusão pela ausência de impugnação da Súmula 7 do STJ está bem fundamentada, não sendo genérica, como alega a embargante.
+Cumpre ainda destacar que o referido capítulo autônomo da decisão agravada, referente à possibilidade de cobrança do laudêmio, asseverou que a pretensão encontrava óbice nas Súmulas 83 do STJ e 7 do STJ.
+O acórdão combatido expressamente afirma que incide a Súmula 182 do STJ, quando " ii) não houver a impugnação de todos os fundamentos adotados na análise de determinado capítulo autônomo" (e-STJ fl. 438).
+Nesse passo, se não impugnado adequadamente um dos fundamentos, impedindo o conhecimento do capítulo, não há que falar em omissão quanto à apreciação dos demais argumentos apresentados em relação a outro fundamento do mesmo capítulo.
+Observa-se, ainda, que o julgado embargado foi claro ao afirmar que a decisão monocrática aplicou a Súmula 284 do STF, quanto à base de cálculo, porque o dispositivo apontado como contrariado (art. 27 da Lei n. 13.240/2015) era extremamente genérico (e-STJ fl. 439), porém não houve o devido combate a tal fundamento, pois, nas razões do agravo interno, a insurgente se limitou a apresentar alegações genéricas, "de que não há motivos para desconsiderar a lei vigente, sendo a aplicação do óbice desarrazoada (e-STJ 419)" (e-STJ fl. 441).
+Está expresso também que o dissídio não foi conhecido porque a parte deixou de indicar os dispositivos legais a que se deu interpretação divergente (e-STJ fl. 439) e o agravo interno se limitou a afirmar que "decisão agravada foi omissa quanto aos argumentos que respaldam o dissídio jurisprudencial (e-STJ fls. 419/420)" (e-STJ fl. 441), não combatendo de forma clara, direta e específica, o óbice de conhecimento aplicado.
+Se não conhecido o recurso quanto ao dissídio jurisprudencial por existência de óbice, impossível a apreciação do mérito, a fim de analisar eventual divergência de interpretação.
+Em verdade, nota-se que, ao invocar vícios no acórdão embargado, a parte embargante manifesta o seu inconformismo com o acórdão embargado, sendo que ela repisa argumentos antes suscitados, objetivando a modificação do aludido julgado, desiderato inadmissível em sede de embargos declaratórios.
+Nesse sentido, transcrevo precedente desta Corte Superior:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL. CONFIGURADO. AUSÊNCIA DE OMISSÃO. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso, não se constata a omissão alegada pela parte embargante, que busca rediscutir matéria devidamente examinada na decisão embargada, o que é incabível nos embargos declaratórios.
+3. Embargos de declaração parcialmente acolhidos, para sanar erro material.
+(EDcl no AgInt nos EDcl no AREsp n. 1.960.434/PR, Relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022).
+Por fim, advirto a recorrente de que a oposição de embargos de declaração manifestamente protelatórios pode ensejar a aplicação da multa prevista no § 2º do art. 1.026 do CPC/2015.
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
