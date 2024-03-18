@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de DAYANA CARLOS MATTOS contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Depreende-se dos autos que a Paciente teve a prisão preventiva decretada, pela suposta prática do delito de tráfico de drogas. Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que manteve a decisão do juízo a quo, constando no acórdão hostilizado:
+"Ora, o crime de tráfico possui extrema gravidade, embora não tenha vítima determinada. Seu poder de disseminação facilita o uso de substâncias geradoras de dependência ou entorpecentes e acaba favorecendo a prática de outros crimes.
+Sendo o tráfico de drogas, hodiernamente, o crime de maior preocupação das políticas de segurança pública, existindo nos autos fortes indícios de autoria e estando comprovada a materialidade delitiva, a prisão preventiva, medida de exceção, se faz necessária para garantia da ordem e da saúde pública, mormente diante das circunstâncias em que se deram a prisão em flagrante e a apreensão de imensa quantidade de drogas (aproximadamente 148Kg de maconha)" (fl. 24).
+Neste writ, a Defesa alega, em linhas gerais, a ocorrência de constrangimento ilegal consubstanciado na ausência de fundamentação para a segregação cautelar da Paciente.
+Aduz que "a paciente é PRIMÁRIA e POSSUIDORADE BONS ANTECEDENTES. Além disso, possui residência fixa" (fl. 10).
+Requer a concessão da ordem "para relaxar a prisão da paciente ou conceder medidas cautelares diferentes da prisão" (fls. 11-12).
+Liminar indeferida, às fls. 164-168.
+Informações prestadas, às fls. 174-183 e 184-315. O Ministério Público Federal, às fls. 319-327, opinou pela denegação da ordem, em parecer ementado:
+"HABEAS CORPUS SUBSTITUTIVO. TRÁFICO DEDROGAS. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL DECORRENTE DA AUSÊNCIA DE REQUISITOS PARA A PRISÃO PREVENTIVA. PRESENTES OS REQUISITOS E FUNDAMENTOS PARA A SEGREGAÇÃO CAUTELAR. GRAVIDADE CONCRETA DA CONDUTA. APREENSÃO DE 148,648 KG (CENTO E QUARENTA E OITO QUILOS E SEISCENTOS E QUARENTA E OITO GRAMAS) DE MACONHA, DISTRIBUÍDAS EM 216 (DUZENTOS E DEZESSEIS) TABLETES. PELO NÃO CONHECIMENTO OU, NO MÉRITO, PELA DENEGAÇÃO DA ORDEM" (fl. 319).
+É o relatório. DECIDO.
+In casu, a prisão preventiva da Paciente se encontra devidamente fundamentada, em dados concretos extraídos dos autos, para a garantia da ordem pública; notadamente se considerada a gravidade concreta da conduta supostamente perpetrada, haja vista a quantidade de droga apreendida, no contexto da traficância, (216 tabletes de maconha, totalizando 148,648 kg); a evidenciar um maior desvalor da conduta e a periculosidade da Paciente, justificando a segrega ção cautelar imposta.
+Sobre o tema:
+"Na hipótese, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para garantia da ordem pública, notadamente se considerada a quantidade das drogas apreendidas - 530 gramas de maconha - além da quantia de R$ 2.362, 00, uma balança de precisão, uma faca com resquícios de substância com característica de maconha, uma fita adesiva normalmente usada para embalar a droga, bem como pela confissão de que era o proprietário dos entorpecentes, circunstâncias indicativas de um maior desvalor da conduta em tese perpetrada, bem como da periculosidade concreta do agente, tudo a revelar a indispensabilidade da imposição da medida extrema" (RHC 131.324/MG, Quinta Turma, Rel. Min. Felix Fischer, DJe 06/10/2020).
+"São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente" (AgRg no HC n. 751.585/SP, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 30/9/2022).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos auto s elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+A Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual:
+"o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+ EMENTA
