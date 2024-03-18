@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/03/2024 a 18/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Mauro Campbell Marques votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO AGRAVO EM  RECURSO  ESPECIAL. PREPARO DO RECURSO ESPECIAL. GRU COBRANÇA. IRREGULARIDADE. INTIMAÇÃO PARA RECOLHIMENTO EM DOBRO OU COMPROVAÇÃO DA HIPOSSUFICIÊNCIA ECONÔMICA. NÃO ATENDIMENTO. DESERÇÃO RECONHECIDA. SÚMULA 187/STJ. AGRAVO INTERNO IMPROVIDO.
+1.  Na forma da jurisprudência do STJ, "é considerado deserto o recurso especial no caso em que, constatada a irregularidade no recolhimento do preparo, feito em desacordo com a Resolução 1/2016, vigente à época da interposição do recurso, a qual exigia o pagamento por meio de GRU Cobrança, e regularmente intimada a parte recorrente para sanar referido vício, esta não o fez" (AgInt no REsp 1.861.156/MG, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/10/2020, DJe de 12/11/2020).
+2. A não comprovação do pagamento, em dobro, do preparo recursal ou a comprovação da hipossuficiência econômica, mesmo após a intimação para tanto, inviabiliza o conhecimento do recurso, nos termos da Súmula 187/STJ.
+3. Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  por JOSÉ ADALTO BORINI contra  a  decisão  que  não conheceu  do  recurso  especial,  pela incidência da Súmula 187/STJ.
+Argumenta  a  parte agravante,  em  síntese,  que "o Ministro Presidente não apreciou o pedido de certificação do pagamento ou não pelo setor competente desse Tribunal, onde através da r. decisão de fls. 1783/1784 denegou seguimento, aparentemente, ao Recurso Especial" (e-STJ, fl. 1.791).
+Por fim, a parte pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Impugnação da parte agravada pelo improvimento do recurso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO AGRAVO EM  RECURSO  ESPECIAL. PREPARO DO RECURSO ESPECIAL. GRU COBRANÇA. IRREGULARIDADE. INTIMAÇÃO PARA RECOLHIMENTO EM DOBRO OU COMPROVAÇÃO DA HIPOSSUFICIÊNCIA ECONÔMICA. NÃO ATENDIMENTO. DESERÇÃO RECONHECIDA. SÚMULA 187/STJ. AGRAVO INTERNO IMPROVIDO.
+1.  Na forma da jurisprudência do STJ, "é considerado deserto o recurso especial no caso em que, constatada a irregularidade no recolhimento do preparo, feito em desacordo com a Resolução 1/2016, vigente à época da interposição do recurso, a qual exigia o pagamento por meio de GRU Cobrança, e regularmente intimada a parte recorrente para sanar referido vício, esta não o fez" (AgInt no REsp 1.861.156/MG, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/10/2020, DJe de 12/11/2020).
+2. A não comprovação do pagamento, em dobro, do preparo recursal ou a comprovação da hipossuficiência econômica, mesmo após a intimação para tanto, inviabiliza o conhecimento do recurso, nos termos da Súmula 187/STJ.
+3. Agravo  interno  não  provido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator): Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Nos termos do art. 1.007, § 4º, do CPC/2015, "o recorrente que não comprovar, no ato de interposição do recurso, o recolhimento do preparo, inclusive porte de remessa e de retorno, será intimado, na pessoa de seu advogado, para realizar o recolhimento em dobro, sob pena de deserção".
+No caso, a parte recorrente foi intimada para sanar o vício apontado:
+O preparo do recurso especial foi realizado em desacordo com o disposto na Resolução do STJ vigente à época da interposição do recurso, a qual dispõe que o recolhimento das custas judiciais e do porte de remessa e retorno dos autos será realizado mediante o sistema de GRU Cobrança, emitida após o preenchimento do formulário eletrônico disponível no sítio do Tribunal (http://www. stj. jus. br/). Consta dos autos que o recolhimento do preparo foi efetuado por meio das guias de recolhimento GRU Simples e não das guias de recolhimento GRU Cobrança, como determinado na citada Resolução. Em razão disso, com fundamento na RESOLUÇÃO STJ/GP N. 15 DE 26 DE JUNHO DE 2020, INTIME-SEJOSÉ ADALTO BORINI a realizar, no prazo de 5 dias, o recolhimento em dobro das custas, na forma do § 4º, art, 1.007 do Código de Processo Civil. Brasília, 29 de abril de 2021 (e-STJ, fl. 1.773).
+Contudo, o causídico não cumpriu a determinação, limitando-se a requerer que a Coordenadoria certificasse o pagamento da GRU em questão.
+Na forma da jurisprudência do STJ, é "é considerado deserto o recurso especial no caso em que, constatada a irregularidade no recolhimento do preparo, feito em desacordo com a Resolução 1/2016, vigente à época da interposição do recurso, a qual exigia o pagamento por meio de GRU Cobrança, e regularmente intimada a parte recorrente para sanar referido vício, esta não o fez" (AgInt no REsp 1.861.156/MG, Relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/10/2020, DJe de 12/11/2020).
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. PREPARO. RECOLHIMENTO EM GUIA DIVERSA DA ESPECIFICADA NA RESOLUÇÃO DO STJ. GRU SIMPLES. GRU COBRANÇA. DESERÇÃO. SÚMULA 187/STJ. INCIDÊNCIA.
+1. Em juízo de admissibilidade, a Presidência do Superior Tribunal de Justiça não conheceu do Agravo em Recurso Especial em face da aplicação da Súmula 187 do STJ.
+2. De fato, consta dos autos que o recolhimento do preparo foi efetuado por meio das guias de recolhimento GRU Simples, e não das guias de recolhimento GRU Cobrança, como determinado na citada resolução.
+3. Não se desconhece o entendimento exarado no REsp 1.498.623/RJ, de Relatoria do Ministro Napoleão Nunes Maia Filho, acórdão publicado no DJe de 13.3.2015, em que a Corte Especial entendeu que seria válido o recolhimento do preparo por meio de GRU Simples até a data de 15.8.2014; no entanto, veja-se que o caso dos autos não se enquadra no referido entendimento, uma vez que o Recurso Especial foi interposto posteriormente a essa data.
+4. Agravo Interno não provido (AgInt no AREsp 1.921.915/GO, relator Ministro Herman Benjamin, Segunda Turma, julgado em 7/12/2021, DJe de 17/12/2021).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO RECURSAL. NÃO COMPROVAÇÃO DO PAGAMENTO, NO ATO DE INTERPOSIÇÃO DO RECURSO. INTIMAÇÃO PARA REALIZAR O RECOLHIMENTO. NÃO ATENDIMENTO. DESERÇÃO. SÚMULA 187/STJ. HONORÁRIOS ADVOCATÍCIOS. ART. 85, §11, DO CPC/2015. MAJORAÇÃO NA FASE RECURSAL. CABIMENTO. AUSÊNCIA DE TRABALHO ADICIONAL. PRESCINDIBILIDADE. PRECEDENTES.
+1. No caso, a deserção foi declarada, porquanto o Recurso Especial foi instruído, no momento de sua interposição, com o preparo por meio das guias de recolhimento GRU Simples (GRU judicial), e não das guias de recolhimento GRU Cobrança. Constatada a irregularidade, a parte recorrente foi intimada para realizar a correção do vicio, sob pena de não conhecimento do recurso. Não tendo sido cumprida a determinação, deve ser considerado deserto o Recurso Especial.
+Incidência da Súmula 187/STJ. Precedentes do STJ.
+2. A jurisprudência desta Corte é no sentido de que a interposição de recurso quando da vigência do novo Código de Processo Civil possibilita a majoração dos honorários advocatícios, mesmo quando não apresentadas contrarrazões, nos termos do art. 85, § 11, do CPC/2015. Precedentes.
+3. Agravo interno não provido (AgInt no AREsp 1.645.942/MG, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 22/3/2021, DJe de 25/3/2021).
+Portanto, a não comprovação do pagamento, em dobro, do preparo recursal ou a comprovação da hipossuficiência econômica, mesmo após a intimação para tanto, inviabiliza o conhecimento do recurso, nos termos da Súmula 187/STJ: "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos".
+Isso posto, nego provimento ao recurso .
