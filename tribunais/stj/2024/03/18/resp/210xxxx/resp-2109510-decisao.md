@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por ADRIANA LEITE FIGUEIREDO BACKES COSTA e PEDRO LUIS BACKES COSTA, fundado na alínea a do inciso III do art. 105 da Constituição Federal, desafiando acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 723):
+ADJUDICAÇÃO COMPULSÓRIA- HONORÁRIOS- ABSOLVIÇÃO DE CO-RÉU QUANTO À VERBA - FIXAÇÃO NO ENTRETANTO DIMINUÍDA ANTE A PARCIAL PROCEDÊNCIA - SENTENÇA REFORMADA - APELO DO BANCO ACOLHIDO - RECURSO DA CO-SUPLICADA PROVIDO EM PARTE.
+Nas razões do recurso especial (e-STJ, fls. 727-753), os recorrentes apontam violação aos arts. 85, caput e § 2º, 86, parágrafo único, 489, §1º, inciso IV, e 1.022, II, do CPC/2015, além da existência de divergência jurisprudencial.
+Sustentam, em síntese, que o banco, beneficiário da garantia hipotecária, deve ser condenado ao pagamento de honorários sucumbenciais com base no princípio da causalidade, em razão de julgamento procedente da adjudicação compulsória em favor dos recorrentes.
+Aduzem a existência de critérios objetivos na estipulação da verba honorária, sendo que a apreciação equitativa pelo magistrado somente poderá ser aplicada nas causas de inestimável ou irrisório proveito econômico ou quando o valor da causa for muito baixo, situações não constatadas no caso em apreço.
+Defendem que foram vencedores em maior parte dos pedidos, devendo os recorridos arcar, por inteiro, com as despesas e os honorários sucumbenciais.
+Alegam a ocorrência de omissão no acórdão recorrido por ausência de apreciação do Tribunal de origem quanto à impugnação à justiça gratuita trazida nas contrarrazões, sob o argumento de que a recorrida Esser possui condições de arcar com as custas processuais e que a empresa não apresentou documento idôneo para caracterizar a hipossuficiência financeira, por ter apenas juntado um balanço patrimonial antigo.
+Contrarrazões apresentadas às fls. 857-880 (e-STJ).
+Após o julgamento do Tema 1.076/STJ, sob o rito dos recursos especiais repetitivos, a Segunda Câmara de Direito Privado do Tribunal de Justiça de São Paulo, ao proceder à reapreciação da questão, deu provimento ao recurso do banco e parcial provimento ao apelo da corré, nos termos da seguinte ementa (e-STJ, fl. 906):
+ADJUDICAÇÃO COMPULSÓRIA- HONORÁRIOS- ABSOLVIÇÃO DE CO-RÉU QUANTO À VERBA - FIXAÇÃO NO ENTRETANTO DIMINUÍDA ANTE A PARCIAL PROCEDÊNCIA - SENTENÇA REFORMADA - APELO DO BANCO ACOLHIDO - RECURSO DA CO-SUPLICADA PROVIDO EM PARTE.
+Inconformados, os recorrentes apresentaram novo recurso especial, às fls. 915-933 (e-STJ).
+O Presidente da Seção de Direito Privado do Tribunal de Justiça de São Paulo admitiu o primeiro recurso especial (e-STJ, fls. 727-753) e deixou de conhecer do segundo apelo especial (e-STJ, fls. 915-933).
+Na sequencia, os autos ascenderam a esta Corte.
+Brevemente relatado, decido.
+Nas razões do recurso especial, os recorrentes alegam ofensa aos arts. 489, § 1º, inciso IV, e 1.022, II, do Código de Processo Civil de 2015, sob o argumento de que o Tribunal de origem deixou de analisar a impugnação à gratuidade de justiça deduzida nas contrarrazões da apelação, notadamente por ausência de apresentação de documentação idônea para caracterização da hipossuficiência da empresa ESSER.
+No tocante ao benefício da gratuidade de justiça, o Tribunal de origem assim se manifestou (e-STJ, fl. 724, sem grifo no original):
+Deveras, falha mesmo a R. sentença prolatada pois que manifesto o decaimento de um dos pleitos, e de aí que a correta colocação do dispositivo fôra de procedência parcial assim como aposto no relatório deste pelo que, nesse passo, manifesto o acerto da postulação do Banco requerido.
+Ambos os recursos estão por merecer acatamento; deveras, aquele não dera causa à demanda fixo na posição de regular exercício de um direito reconhecido, e sua resistência não fôra senão no sentido de obter acatamento ao negócio jurídico celebrado com a co-suplicada pelo que deve ser absolvido do pagamento de honorária mesmo porque, ante a hipótese de procedência parcial, verba que tal ficaria dividida.
+Em verdade, quem deveria suportar essa despesa fôra mesmo a Apelante Construtora, manifestamente inadimplente, e provocadora da demanda; porém, como se disse, não seria o caso de fixação nos astronômicos e injustos termos fixados, caracterizadores de enriquecimento sem causa pelo que a honorária fica reduzida para R$-3.000,00 por equidade, porém condicionada à disponibilidade da Apelante, pois que concedida a gratuidade, nos termos da documentação juntada, ante a não oposição de quem de direito.
+Entretanto, nos termos da jurisprudência do Superior Tribunal de Justiça, a pessoa jurídica faz jus à gratuidade judiciária, desde que comprove a insuficiência de recursos financeiros para custeio das despesas processuais.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUSTIÇA GRATUITA. PESSOA JURÍDICA. AUSÊNCIA DE AFRONTA AO ART. 1.022, II, DO CPC/2015. DECISÃO MANTIDA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DOMINANTE DESTA CORTE. SÚMULAS N. 83 E 568 DO STJ. PROVA DA INSUFICIÊNCIA DE RECURSOS. REVISÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022, II, do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Conforme a jurisprudência do STJ, a concessão do benefício de gratuidade da justiça à pessoa jurídica somente é possível quando comprovada a precariedade de sua situação financeira, inexistindo, em seu favor, presunção de insuficiência de recursos.
+3. O direito à gratuidade da justiça da pessoa jurídica depende da demonstração de sua impossibilidade de arcar com os encargos processuais. Precedentes.
+4. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ e é entendimento dominante acerca do tema (Súmulas n. 83 e 568 do STJ).
+5. O recurso especial não comporta exame de questões que impliquem o revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+6. No caso concreto, o Tribunal de origem analisou as provas dos autos para indeferir o pedido de justiça gratuita.
+Alterar tal conclusão é inviável em recurso especial.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.404.028/BA, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 26/2/2024, DJe de 29/2/2024.)
+Destarte, constata-se a necessidade de análise pelo colegiado estadual dos argumentos trazidos pelos recorrentes quanto à impugnação à gratuidade de justiça deduzida nas contrarrazões.
+Ante o exposto, dou provimento ao recurso especial a fim de, reconhecida a violação ao art. 1.022 do CPC/2015, determinar ao Tribunal de origem que realize novo julgamento dos embargos de declaração, devendo se pronunciar, como entender de direito, sobre as objeções apresentadas pelos autores/recorrentes ao deferimento da gratuidade de justiça à corré Esser Alaska.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. ADJUDICAÇÃO COMPULSÓRIA. OBJEÇÃO À CONCESSÃO DA GRATUIDADE DE JUSTIÇA ARGUIDA EM CONTRARRAZÕES DE APELAÇÃO. OMISSÃO CONSTATADA NO ACÓRDÃO RECORRIDO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 CONFIGURADA . DEVOLUÇÃO DOS AUTOS PARA NOVO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL PROVIDO.
