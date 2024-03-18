@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/03/2024 a 18/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO DA DECISÃO DE ADMISSIBILIDADE DO ESPECIAL. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. É inviável a apreciação do agravo que deixa de atacar, especificamente e de forma particularizada, todos os fundamentos da decisão agravada. Incidência, na espécie, da Súmula 182/STJ.
+2. Acerca dessa exigência, JOSÉ ANTONIO SAVARIS e FLÁVIA DA SILVA XAVIER, com precisão, assinalam que "não se pode considerar efetivamente impugnada a decisão quando a parte recorrente limita-se a deduzir razões pelas quais entende deter o direito reivindicado, mas deixa de destinar qualquer argumento que demonstre o desacerto da decisão recorrida" (Manual dos recursos nos juizados especiais federais. 5. ed. Curitiba: Alteridade, 2015, p. 50).
+3. Caso concreto em que a parte agravante não atendeu a esse encargo processual.
+4. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por ENEMIR RAMIRO contra decisão monocrática de lavra da Presidência desta Corte Superior, às fls. 597/598, que não conheceu do agravo em recurso especial, diante da aplicação da Súmula 182/STJ, do art. 932, III, e do CPC e art. 253, parágrafo único, do RISTJ, por ausência de impugnação a todos os fundamentos da decisão de inadmissibilidade do apelo nobre.
+A parte postulante, em suas razões, alega que "impugnou sim os fundamentos utilizados para não admitir o Recurso Especial interposto" (fl. 603).
+Aduz, também, que "o Agravante apontou que embora a súmula 204/STJ preveja sua incidência somente a partir da citação, é certo que o novo Código de Processo Civil expressamente dispõe sobre a incidência dos juros desde o evento de mora, notadamente, em demanda previdenciária, a DER. E Ainda acrescentou que, ainda que haja posicionamento deste C. STJ é certo que a Súmula 83não pode ser um óbice a discussão acerca da manutenção do precedente, frente a novos argumentos, sob pena de imutabilidade dos precedentes (e-STJ Fl.581/582)" (fl. 604).
+Defende, por fim, que "demonstrado que o Agravante impugnou especificamente o fundamento da decisão de admissibilidade, bem como, agora, os fundamentos da decisão agravada, qual seja, violação da Súmula 182/STJ, não há razão para que não seja conhecido o presente agravo interno, reformando a decisão agravada para conhecer do agravo em recurso especial e consequentemente o recurso especial" (fl. 605).
+Sem impugnação (fl. 617).
+É O RELATÓRIO.
+EMENTA
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO DA DECISÃO DE ADMISSIBILIDADE DO ESPECIAL. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. É inviável a apreciação do agravo que deixa de atacar, especificamente e de forma particularizada, todos os fundamentos da decisão agravada. Incidência, na espécie, da Súmula 182/STJ.
+2. Acerca dessa exigência, JOSÉ ANTONIO SAVARIS e FLÁVIA DA SILVA XAVIER, com precisão, assinalam que "não se pode considerar efetivamente impugnada a decisão quando a parte recorrente limita-se a deduzir razões pelas quais entende deter o direito reivindicado, mas deixa de destinar qualquer argumento que demonstre o desacerto da decisão recorrida" (Manual dos recursos nos juizados especiais federais. 5. ed. Curitiba: Alteridade, 2015, p. 50).
+3. Caso concreto em que a parte agravante não atendeu a esse encargo processual.
+4. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida, a fim de afastar a incidência da Súmula 182/STJ.
+Conforme já bem estabelecido no decisum monocrático da Presidência do STJ de fls. 597/598, não houve, no agravo em recurso especial, impugnação específica ao alicerce que consignou a incidência da Súmula 83/STJ ao apelo nobre.
+Ressalta-se que como o recurso foi inadmitido tendo por base também a conformidade do entendimento do Tribunal de origem com o desta Corte Superior, caberia ao recorrente demonstrar, e não apenas mencionar, que o entendimento jurisprudencial não está pacificado no mesmo sentido do acórdão recorrido, ou, ainda, que os precedentes elencados no decisório ora agravado não se aplicariam ao caso dos autos. Nesse sentido: AgInt no REsp 1.396.520/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 13/9/2019.
+Nesse contexto, o agravo em especial apelo realmente não merece ser conhecido, tendo em vista que a parte não infirmou todos os pilares adotados pela decisão ora hostilizada para obstar o trânsito de seu apelo nobre.
+Dessa forma, o insurgente deixou de combater o decisum agravado, o que atrai a incidência da Súmula 182/STJ. No mesmo sentido, destacam-se os seguintes precedentes desta Corte:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO E CONSTITUCIONAL. APELO RARO ORIUNDO DE MANDADO DE SEGURANÇA ORIGINÁRIO DE TRIBUNAL LOCAL. IMPETRAÇÃO CONTRA OMISSÃO DE GOVERNADOR DE ESTADO EM REPASSAR INTEGRALMENTE O DUODÉCIMO À DEFENSORIA PÚBLICA ESTADUAL. DECISÃO AGRAVADA QUE NEGOU PROVIMENTO AO AGRAVO EM RECURSO ESPECIAL POR ENTENDER CABÍVEIS OS ÓBICES DAS SÚMULAS 284 E 280/STF. IRRESIGNAÇÃO QUE ATACA SOMENTE UMA DELAS A ATRAIR SEU NÃO CONHECIMENTO FACE À REDAÇÃO DA SÚMULA 182/STJ. AGRAVO INTERNO DO ESTADO DO RIO GRANDE DO SUL NÃO CONHECIDO.
+1. Este Superior Tribunal de Justiça firmou entendimento de que não é passível de conhecimento o Agravo Interno que deixa de impugnar todos os fundamentos da decisão agravada. Nesse sentido: AgInt no REsp 1.659.082/PB, Rel. Min. GURGEL DE FARIA, DJe 18.12.2020 e AgInt no AREsp 1.461.155/SP, Rel. Min. OG FERNANDES, DJe 09.09.2019, dentre outros.
+2. Agravo Interno do ESTADO DO RIO GRANDE DO SUL não conhecido.
+(AgInt no AREsp 1.091.859/RS, Rel. Ministro MANOEL ERHARDT, DESEMBARGADOR CONVOCADO DO TRF5, PRIMEIRA TURMA, julgado em 12/4/2021, DJe 20/4/2021.)
+ADMINISTRATIVO. PEDIDO DE RECONSIDERAÇÃO ADMITIDO COMO AGRAVO INTERNO NA TUTELA PROVISÓRIA NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. IMPROBIDADE ADMINISTRATIVA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. VIOLAÇÃO AO ART. 1021, § 1º DO CPC/2015. SÚMULA 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Admite-se o recebimento de pedido de reconsideração como agravo interno quando atendidos os pressupostos deste recurso, em destaque a tempestividade, e ausente manifesto erro grosseiro ou má-fé do peticionante.
+2. Na hipótese em análise, a decisão agravada indeferiu o pedido de tutela provisória em razão da ausência de fumus boni iuris, eis que o recurso especial, ainda que em cognição sumária, não merece ser conhecido em razão da ausência de prequestionamento de alguns dispositivos de lei federal indicados como violados, além da inexistente violação ao art. 535 do CPC/1973 e devido à incidência da Súmula 7/STJ.
+3. No presente agravo interno, por sua vez, a parte agravante limitou-se a reiterar os próprios fundamentos da petição de tutela provisória, sem combater a ausência de probabilidade de êxito demonstrada, ainda que sumariamente, na decisão agravada.
+4. A falta de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1021, § 1º, do CPC/2015. Incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." 5. Agravo interno não conhecido.
+(RCD na TutPrv no REsp 1.908.692/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 23/3/2021, DJe 8/4/2021.)
+ANTE O EXPOSTO, nego provimento ao agravo interno.
+É como voto.
