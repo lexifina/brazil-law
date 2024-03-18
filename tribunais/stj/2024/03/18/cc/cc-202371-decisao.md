@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de conflito negativo de competência entre o r. JUÍZO DE DIREITO DA 2.ª VARA CÍVEL DE MANHUAÇU-MG, suscitante, e o r. JUÍZO DE DIREITO DE ITAOCARA-RJ, suscitado.
+Ação: Indenização por Danos Morais e Materiais proposta por ELEILTON GOMES CORREA em face de MINAS INDÚSTRIA E COMÉRCIO LTDA. (fls. 9-18)
+Decisão do juízo suscitado: declinou da competência em favor do juízo suscitante, ao fundamento segundo o qual "(..) a relação jurídica entre as partes não é de consumidor, haja vista a declaração na inicial é de que a prestação do serviço de perfuração de poço artesiano tem como objetivo fomentar as atividades de sua propriedade rural, ou seja, o autor não é consumidor final do produto, tratando-se de atividade meio", além do fato de que as partes elegeram como foro a comarca do Suscitante. (fls. 157-158).
+Decisão do Juízo suscitante: suscitou o presente conflito negativo de competência pois "(..) pela sistemática consumerista que vem se sedimentando no ordenamento jurídico brasileiro, é patente a relação de consumo havida in casu." (fls. 174-176).
+Parecer do Ministério Público Federal: opinou pelo conhecimento do conflito e competência do Juízo suscitado (fls. 187-193).
+É o relatório.
+Decisão.
+1. Inicialmente, destaca-se a competência deste Superior Tribunal de Justiça para o exame do presente incidente, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d" da Constituição Federal.
+2. Sobre o tema, esta Corte firmou o entendimento de que nos casos de demanda proposta pelo consumidor, este pode optar entre o seu domicílio, o do réu, o de eleição ou o do cumprimento da obrigação, ou seja, no juízo que melhor atenda a seus interesses.
+Nestes casos, por se tratar de competência relativa, sua alteração apenas se dará por meio de exceção de incompetência, não cabendo ao Juízo excepcioná-la ex officio, consoante o teor da Súmula 33 do STJ. A respeito, anotem-se os precedentes: AgRg no CC 130.813/DF, Rel. Min. Raul Araújo, DJe 3.8.2016; AgRg no CC 129.294/DF, Rel. Min. Ricardo Villas Bôas Cueva, DJe 1º.10.2014; AgRg no CC 124.351/DF, Segunda Seção, Rel. Min. Raul Araújo, DJe 17.5.2013.
+Ademais, como bem ressaltou o ilustre representante do Ministério Público Federal em seu parecer, "(..) o Autor da ação é pequeno produtor rural (fl.135) (..) e, portanto, deve ser o Autor enquadrado como consumidor", assim sendo, "(..) Na espécie, como se depreende da inicial da ação de indenização por danos materiais e morais ajuizada pelo ora 1ª Interessado contra o ora 2ª Interessada (fls.09/17) foi ajuizada no foro do o domicílio do Autor (ora 1º Interessado). Portanto, afastado o foro de eleição e considerando que o Autor ajuizou a ação perante o Juízo Suscitado, o consumidor simplesmente optou por um dos foros concorrentes que lhe são legalmente facultados." (fls. 191 e 193)
+3 . Do exposto, com fundamento no art. 955, parágrafo único, do NCPC c/c Súmula 568/STJ, conheço do presente conflito e, por conseguinte, declaro a competência do r. JUÍZO DE DIREITO DE ITACOARA-RJ , o suscitado.
+Publique-se. Intimem-se. Oficiem-se.
+EMENTA
