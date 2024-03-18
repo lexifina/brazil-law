@@ -1,0 +1,20 @@
+DECISÃO
+O requerente ARNALDO RAMOS DE OLIVEIRA NETO, por meio de advogados, apresenta peça denominada pela defesa como recurso ordinário constitucional, na qual invoca o teor do art. 105, inciso II, alínea "a", da Constituição Federal - CF (fls. 635/660).
+Aludida peça processual se insurge contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS - TJMG no julgamento do Recurso em Sentido Estrito n. 1.0000.23.281344-4/001.
+Eis o teor da ementa do acórdão impugnado:
+"RECURSO EM SENTIDO ESTRITO - HOMICÍDIO QUALIFICADO PELO MOTIVO TORPE E RECURSO QUE DIFICULTOU A DEFESA DOS OFENDIDOS, NAS MODALIDADES TENTADA E CONSUMA - PRELIMINARES: NULIDADE - VIOLAÇÃO À CADEIA DECUSTÓDIA - NÃO COMPROVAÇÃO - AUSÊNCIA DA DEMONSTRAÇÃO DE PREJUÍZO - EXCESSO DE LINGUAGEM - INOCORRÊNCIA. MÉRITO: DESPRONÚNCIA - IMPOSSIBILIDADE - PROVA DA MATERIALIDADE E INDÍCIOS SUFICIENTES DE AUTORIA -DECOTE DAS QUALIFICADORAS (121, §2º, INCISOS I E IV DO CP) - INVIABILIDADE - MATÉRIAS DE COMPETÊNCIA DO TRIBUNAL DO JÚRI - DIREITO DE RECORRER EM LIBERDADE - NÃO CONCESSÃO.
+1. A cadeia de custódia, se comprovadas a preservação, autenticidade e confiabilidade das provas, há que ser reputada hígida.
+2. A r. Decisão de Pronúncia não padece de Nulidade, por excesso de linguagem, quando indica os requisitos de admissibilidade para a submissão da acusação ao Tribunal do Júri (prova da materialidade e indícios suficientes de autoria), com base nas provas colhidas, sem a manifestação definitiva de culpa ou de juízo de valor a induzir o julgamento pelo Conselho de Sentença.
+3. A Pronúncia, por ser juízo de admissibilidade da acusação para submissão do mérito ao Tribunal do Júri, não exige comprovação inequívoca da autoria do delito, mas tão somente a prova da materialidade do Crime e a presença de indícios suficientes de autoria.
+4. O decote das qualificadoras, na fase de Pronúncia, é inviável se as provas orais e documentais não apontam para a manifesta improcedência, pois compete ao Tribunal do Júri a inteireza da acusação (Súmula/TJMG nº 64).5. A Prisão Preventiva deve ser mantida, negando-se o direito de recorrer em liberdade, quando presentes os requisitos insculpidos no art. 312 e 313 do CPP." (fl. 599)
+Por meio da presente petição, a defesa objetiva, preliminarmente: (i) a anulação do feito a partir do momento em que as supostas filmagens foram encontradas, ao argumento de que houve quebra de cadeia de custódia; e (ii) o reconhecimento de nulidade por ausência de perícia nas supostas filmagens.
+No mérito, pugna pela improcedência da denúncia, bem como pela impronuncia de ARNALDO RAMOS DE OLIVEIRA NETO. Subsidiariamente, requer o decote das qualificadoras.
+É o relatório.
+Decido.
+Primeiramente observa-se que, nos termos do art. 105, inciso II, da Constituição Federal - CF, compete ao Superior Tribunal de Justiça - STJ julgar em recurso ordinário: (a) os habeas corpus decididos em única ou última instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão for denegatória; (b) os mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando denegatória a decisão; e (c) as causas em que forem partes Estado estrangeiro ou organismo internacional, de um lado, e, do outro, Município ou pessoa residente ou domiciliada no País.
+Como se vê, é incabível a interposição de recurso ordinário constitucional contra acórdão de Tribunal Estadual que julga recurso em sentido estrito.
+Com efeito, a insurgência da defesa em face de acórdão proferido em julgamento de recurso em sentido estrito deve ser feita por recurso próprio que possui regras específicas de admissibilidade para seu processamento. Destarte, a presente petição substitutiva de recurso próprio não deve ser processada, por ser manifestamente incabível.
+Ante o exposto, com fundamento no art. 34, XVIII, a, do Regimento Interno do STJ, não conheço do pedido .
+Publique-se.
+Intimem-se.
+EMENTA
