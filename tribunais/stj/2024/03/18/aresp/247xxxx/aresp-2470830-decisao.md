@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por CONCESSIONÁRIA DA RODOVIA PRESIDENTE DUTRA S. A. contra decisão que não admitiu seu recurso especial, este por sua vez, manejado, com fundamento no art. 105, III, a, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 24):
+DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA - Inadmissibilidade no caso concreto- Não demonstrado o preenchimento dos requisitos legais específicos (artigo 50 do CC), mormente por se tratar de medida extrema (artigo 133, § 1º do CPC) - Ausência de provas aptas a caracterizar o abuso de poder, desvio de finalidade e confusão patrimonial, conforme a regra do artigo 134, § 4º, do CPC, que torna inviável a desconsideração - Encerramento irregular e inexistência de patrimônio para honrar as obrigações são insuficientes para a decretação da medida - Precedentes desta Corte e do STJ - Decisão mantida - Recurso de agravo de instrumento desprovido.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 35-38).
+Nas razões do recurso especial (e-STJ, fls. 40-57), a insurgente apontou violação aos arts. 50, 1.052 e 1.080 do Código Civil; e 369 do CPC.
+Sustentou, em síntese, que houve o preenchimento dos requisitos para a desconsideração da personalidade jurídica, ao argumento de que o encerramento irregular da sociedade devedora, bem como o esvaziamento do seu patrimônio, são circunstâncias suficientes para demonstração do abuso da personalidade jurídica.
+O Tribunal de origem não admitiu o recurso especial, o que levou a insurgente à interposição de agravo (e-STJ, fls. 71-93).
+Brevemente relatado, decido.
+Verifica-se que, nos presentes autos, existe debate sobre questão de direito que foi afetada pela Segunda Seção do Superior Tribunal de Justiça como representativa de controvérsia, a ser julgada sob o rito dos recursos especiais repetitivos, conforme previsão dos arts. 1.036 e 1.037 do CPC /2015.
+Com efeito, as decisões de afetação nos autos dos REsp n. 1.873.187/SP e REsp n. 1.873.811/SP, de relatoria do Raul Araújo, julgadas em 15/8/2023, DJe 29/082023, delimitaram o Tema 1.210 da seguinte forma: "cabimento ou não da desconsideração da personalidade jurídica no caso de mera inexistência de bens penhoráveis e/ou eventual encerramento irregular das atividades da empresa".
+Confira-se a respectiva ementa:
+PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. VIABILIDADE DA FIXAÇÃO DE TESE CONCENTRADA E DE EFEITOS VINCULANTE E PARCIALMENTE ERGA OMNES.
+1. Delimitação da controvérsia: Para os efeitos dos arts. 927 e 1.036 do CPC, propõe-se a afetação da tese relativa ao "Cabimento ou não da desconsideração da personalidade jurídica no caso de mera inexistência de bens penhoráveis e/ou eventual encerramento irregular das atividades da empresa".
+2. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 DO CPC/2015.
+Nesse contexto, em observância ao princípio da economia processual e à própria finalidade do CPC/2015, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental n. 24, de 2016, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação dos acórdãos proferidos nos recursos representativos da controvérsia.
+Eis o teor da disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito: I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator; II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Ante o exposto, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS. ENCERRAMENTO IRREGULAR DA SOCIEDADE E AUSÊNCIA DE BENS. MATÉRIA AFETADA AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA 1.210 DO STJ. PENDÊNCIA DE JULGAMENTO. DEVOLUÇÃO DOS AUTOS À ORIGEM.
