@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer dos embargos.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DE VÍCIOS. ALEGAÇÃO DO MÉRITO RECURSAL. INCIDÊNCIA DA SÚMULA 284/STF. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1.Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do CPP.
+2. Conforme assentado pela Corte Especial do Superior Tribunal de Justiça, a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF (EDcl no AgInt nos EAREsp n. 635.459/MG, Corte Especial, Rel. Min. João Otávio de Noronha, DJe de 15/3/2017).
+3. A parte embargante, no presente recurso, limita-se a sustentar o mérito do recurso especial, sem apontar qualquer obscuridade, contradição ou omissão sobre ponto sobre o qual deveria ter se pronunciado o julgador, de modo que a insurgência sequer merece ser conhecida, porquanto encontra óbice na Súmula 284/STF.
+4. É nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+5. Embargos de declaração não conhecidos.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por WANDERSON MATHEUS DE LIMA ALVES (e-STJ fls. 452/469) contra acórdão proferido por esta Corte Superior, cuja ementa é a seguinte (e-STJ fls. 443):
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO. DESCLASSIFICAÇÃO PARA A CONDUTA PREVISTA NO ART. 28 DA LEI Nº 11.343/06. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. CONFISSÃO. SÚMULA 630/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergiram elementos suficientemente idôneos de prova, colhidos na fase inquisitorial e judicial, aptos a manter a condenação do envolvido pelo delito de tráfico. Assim, rever os fundamentos utilizados pela Corte Estadual, para decidir pela desclassificação da conduta para a prevista no art. 28 da Lei n. 11.343/2006, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+2. Nos termos da Súmula n. 630 desta Corte: A incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes exige o reconhecimento da traficância pelo acusado, não bastando a mera admissão da posse ou propriedade para uso próprio. No presente caso, como o acusado não confessou que estaria traficando drogas - mas, tão somente, que as substâncias entorpecentes apreendidas seriam para consumo próprio -, não há que se falar na aplicação da atenuante.
+3. Agravo regimental não provido.
+Sustenta a parte embargante: (i) a possibilidade de efeitos infringentes; (ii) a desclassificação do delito de tráfico para o previsto no art. 28 da Lei n. 11.343/06; (iii) o afastamento da reincidência; (iv) que o patamar de exasperação da pena-base seja 1/6; (v) o reconhecimento da atenuante da confissão; (v) a fixação do regime semiaberto para o cumprimento da pena.
+É o relatório.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DE VÍCIOS. ALEGAÇÃO DO MÉRITO RECURSAL. INCIDÊNCIA DA SÚMULA 284/STF. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1.Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do CPP.
+2. Conforme assentado pela Corte Especial do Superior Tribunal de Justiça, a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF (EDcl no AgInt nos EAREsp n. 635.459/MG, Corte Especial, Rel. Min. João Otávio de Noronha, DJe de 15/3/2017).
+3. A parte embargante, no presente recurso, limita-se a sustentar o mérito do recurso especial, sem apontar qualquer obscuridade, contradição ou omissão sobre ponto sobre o qual deveria ter se pronunciado o julgador, de modo que a insurgência sequer merece ser conhecida, porquanto encontra óbice na Súmula 284/STF.
+4. É nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+5. Embargos de declaração não conhecidos.
+VOTO
+Não existem vícios a serem sanados no acórdão embargado.
+Sabe-se que os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do Código de Processo Penal.
+Conforme assentado pela Corte Especial do Superior Tribunal de Justiça, a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF (EDcl no AgInt nos EAREsp n. 635.459/MG, Corte Especial, Relator Ministro JOÃO OTÁVIO DE NORONHA, DJe de 15/3/2017).
+A parte embargante, no presente recurso, limita-se a sustentar o mérito do recurso especial, sem apontar qualquer obscuridade, contradição ou omissão sobre ponto sobre o qual deveria ter se pronunciado o julgador, de modo que a insurgência sequer merece ser conhecida, porquanto encontra óbice na Súmula n. 284/STF.
+Dessa forma, por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+Com essas considerações, não conheço os embargos de declaração.
+É como voto.
