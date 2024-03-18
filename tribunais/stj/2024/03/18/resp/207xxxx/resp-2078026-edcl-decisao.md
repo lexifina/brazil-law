@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Elza Costa Netto Muniz e outros contra decisão, assim ementada (fl. 1.603):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AÇÃO COLETIVA. COISA JULGADA NA EXECUÇÃO COLETIVA. NÃO OPONIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO. AGRUMENTAÇÃO RECURSAL GENÉRICA. SÚMULAS 283/STF E 284/STF. ACÓRDÃO OBJURGADO ASSENTADO NO CONJUNTO FÁTICO PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DEVOLUÇÃO AO ERÁRIO DE VALORES RECEBIDOS DE BOA-FÉ PELO SERVIDOR PÚBLICO. FUNDAMENTAÇÃO AUTÔNOMA NÃO IMPUGNADA. SÚMULAS 283 E 284 DO STF. INAPLICABILIDADE DO TEMA 1.009/STJ. MODULAÇÃO DOS EFEITOS. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+A parte embargante sustenta que o acórdão contém vício de omissão, porquanto deixou de fixar os honorários recursais, nos termos do art. 85, § 11, do CPC/2015, em seu favor.
+Sem impugnação.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+A Corte Especial do STJ, no julgamento do AgInt nos EAREsp n. 762.075/MT, fixou entendimento de que é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, não se exigindo comprovação do efetivo trabalho adicional realizado pelo advogado da parte recorrida, quando estiverem presentes, simultaneamente, os seguintes requisitos: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou não provido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+A presença de tais requisitos encontra-se evidenciada no caso concreto, sendo, desse modo, cabível a majoração dos honorários advocatícios.
+Constatada a omissão, acolho os embargos de declaração, majorando em 10% os honorários advocatícios fixados anteriormente, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Após, voltem-me os autos conclusos para julgamento do agravo interno apresentado pela Universidade Federal de Santa Catarina às fls. 1.627-1.645.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ÔNUS SUCUMBENCIAIS. VÍCIO DO ARTIGO 1.022 DO CPC/2015 EVIDENCIADO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
