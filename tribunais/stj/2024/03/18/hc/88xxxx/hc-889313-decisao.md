@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ALAN PATRICK DA SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, cuja ementa teve o seguinte teor (fl. 41):
+Habeas Corpus. Execução Penal. Progressão ao regime semiaberto. Paciente condenado a vinte e um anos de reclusão por homicídio qualificado e tráfico de drogas. Cometimento de novo delito enquanto cumpria pena em regime aberto. Elaboração de exame criminológico. Discricionariedade do Juízo das Execuções. Decisão fundamentada. Constrangimento ilegal não configurado. Ordem denegada.
+Narram os autos que as instâncias de origem indeferiram o pedido do paciente de progressão ao regime semiaberto.
+Neste writ, sustenta a defesa, em suma, que "não há nenhum elemento nos autos da execução do Paciente que possa fundamentar suficientemente a realização do exame no presente caso: o Paciente possui bom comportamento carcerário, sem qualquer mácula em seu histórico prisional demonstrando estar pronto à harmônica reintegração social" (fl. 7).
+Requer, liminarmente e no mérito, a concessão da ordem, a fim de que seja deferida ao paciente a progressão ao regime semiaberto, sem a realização de exame criminológico.
+Indeferida a liminar (fls. 50-51) e prestadas as informações (fls. 56-69), o Ministério Público Federal manifestou-se pela extinção do writ sem resolução de mérito ou pela denegação da ordem, nos termos da seguinte ementa (fl. 73):
+HABEAS CORPUS. SUCEDÂNEO RHC. INADMISSIBILIDADE. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. NECESSIDADE DE AFERIÇÃO DO REQUISITO SUBJETIVO. DECISÃO FUNDAMENTADA. COMETIMENTO DE NOVO DELITO ENQUANTO CUMPRIA PENA EM REGIME ABERTO.
+PARECER PELA EXTINÇÃO DO WRIT SEM RESOLUÇÃO DE MÉRITO OU PELA DENEGAÇÃODA ORDEM.
+Consoante relatado, o impetrante sustenta a ilegalidade do julgado, sob a premissa de que o paciente já teria cumprido os requisitos objetivo e subjetivo para progressão de regime, sendo o condicionamento à prévio exame criminológico baseado em argumentos inválidos.
+Sobre o tema, consta do acórdão impugnado (fls. 42-44):
+ ..
+A confecção de exame criminológico se justifica pelas características do caso concreto. Não se nega que a providência em apreço perdeu a obrigatoriedade de outrora, porém, ainda presente no sistema das execuções penais, foi adotada sem que se incorresse em embasamento indevido.
+No caso vertente, a aptidão do reeducando em reconquistar parcela expressiva da liberdade esbarra em dúvida decorrente do fato de estar cumprindo pena de vinte e um anos por homicídio qualificado e tráfico de drogas, tendo cometido o segundo delito enquanto beneficiado com o regime aberto.
+Dessa forma, imprescindível a avaliação por meio de exame criminológico, para que se constate se, de fato, o paciente está apto a se reaproximar das atividades do meio social e se não mais apresenta perigo à sociedade, que precisa ser protegida por meio da atuação jurisdicional, conforme previsão constante da Constituição Federal, que garante ao cidadão o direito à segurança.
+Para que, de um lado não seja a sociedade exposta a risco, ao deferir a progressão do sentenciado a regime mais brando, em que a vigilância é menos intensa, mas, por outro, seja observado o sistema progressivo de regime prisional, impõe-se que especialistas avaliem o mérito à obtenção da benesse.
+Com efeito, após a edição da Lei nº 10.792/03, a submissão do sentenciado a exame criminológico para aferição de seu mérito à concessão do benefício ficou a critério de cada Julgador a quem cabe verificar, no caso concreto, sua necessidade. Assim, por meio de uma avaliação técnica é que se obterá um panorama mais preciso de sua personalidade.
+Nesse sentido, foi editada a Súmula de nº 439 pelo Colendo Superior Tribunal de Justiça: "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+A comissão técnica composta por especialistas está mais habilitada a avaliar a cessação dos riscos que impôs à sociedade quando das práticas delitivas. Portanto, não se vislumbra ilegalidade na determinação de realização de exame criminológico no caso em tela.
+3. Em face do acima exposto, pelo meu voto, denego a ordem.
+Nos termos da jurisprudência desta Corte, desde a Lei n. 10.793/2003, que conferiu nova redação ao art. 112 da Lei de Execução Penal, aboliu-se a obrigatoriedade do exame criminológico como requisito para a concessão da progressão de regime, cumprindo ao julgador verificar, em cada caso, acerca da necessidade ou não de sua realização, podendo dispensar o exame criminológico ou, ao contrário, determinar sua realização, desde que mediante decisão concretamente fundamentada.
+Embora tenha a lei abolido a realização obrigatória do exame criminológico para fins de progressão de regime, não o retirou do ordenamento jurídico, pois consta no art. 8º da Lei de Execução Penal (Lei n. 7.210/1984):
+Art. 8º O condenado ao cumprimento de pena privativa de liberdade, em regime fechado, será submetido a exame criminológico para a obtenção dos elementos necessários a uma adequada classificação e com vistas à individualização da execução.
+Parágrafo único. Ao exame de que trata este artigo poderá ser submetido o condenado ao cumprimento da pena privativa de liberdade em regime semiaberto.
+Nesse sentido a Súmula 439/STJ: "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+No caso, há motivação concreta para determinar a realização do exame criminológico, tendo em vista a situação excepcional do caso concreto, pois "No caso vertente, a aptidão do reeducando em reconquistar parcela expressiva da liberdade esbarra em dúvida decorrente do fato de estar cumprindo pena de vinte e um anos por homicídio qualificado e tráfico de drogas, tendo cometido o segundo delito enquanto beneficiado com o regime aberto" (fl. 43). No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. EXAME CRIMINOLÓGICO. DEMONSTRAÇÃO DE ELEMENTOS CONCRETOS QUE JUSTIFICASSEM A ELABORAÇÃO DA PROVA TÉCNICA. SÚMULA N. 439/STJ E SÚMULA VINCULANTE N. 26. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A despeito de o exame criminológico não ser requisito obrigatório para a progressão do regime prisional, os Tribunais Superiores admitem a sua realização para a aferição do mérito do apenado em hipóteses excepcionais. Súmula n. 439/STJ e Súmula Vinculante n. 26.
+2. Na hipótese, as instâncias de origem lograram fundamentar a negativa da progressão de regime, uma vez que não levaram em conta somente a gravidade em abstrato do delito praticado e a longa pena a cumprir, mas também o fato de o agravante ter voltado a "delinquir durante o livramento condicional".
+3. Agravo regimental desprovido.
+(AgRg no HC n. 876.234/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+Assim, a possibilidade de determinação da realização de exame criminológico, sempre que julgada necessária pelo magistrado competente, ou mesmo pelo Tribunal a quo, como no caso dos autos, é pacificamente reconhecida pela jurisprudência do Superior Tribunal de Justiça, desde que por decisão fundamentada.
+Desse modo, não se verifica, no caso em apreço, nenhuma ilegalidade a ser sanada pela via do habeas corpus, pois a exigência de realização do exame criminológico foi amparada em motivação concreta, como exige a jurisprudência desta Corte.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
