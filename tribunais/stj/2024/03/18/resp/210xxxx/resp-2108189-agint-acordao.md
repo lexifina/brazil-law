@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/03/2024 a 18/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. TAXAS DE ADMINISTRAÇÃO DE LOTEAMENTO. RESPONSABILIDADE PELA DÍVIDA. CABIMENTO REFERENTE AO IMÓVEL. POSSIBILIDADE QUANDO HOUVER ANOTAÇÃO DA UNIDADE IMOBILIÁRIA NO CARTÓRIO DE REGISTRO DE IMÓVEIS. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. Havendo registro do loteamento no cartório de registro de imóveis, é viável a cobrança de taxas de manutenção ou de qualquer outra espécie pela administradora de loteamento ao proprietário de imóvel nele localizado, se esse vínculo foi estabelecido pelo loteador em contrato-padrão levado a registro no respectivo cartório ao qual aderiu o adquirente. Precedentes.
+2. As restrições e obrigações constantes no contrato-padrão depositado em cartório como condição para o registro do projeto de loteamento incorporam-se ao registro e vinculam os posteriores adquirentes, porquanto dotadas de publicidade inerente aos registros públicos.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, porquanto a condenação da parte agravante ao pagamento da aludida multa - a ser analisada em cada caso concreto, em decisão fundamentada - pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que não se verifica na hipótese examinada.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ODUVALDO PREVIDELLI e MARCIA NOGUEIRA PREVIDELLI contra decisão monocrática proferida por este signatário, assim ementada (e-STJ, fls. 1.631-1.635):
+RECURSO ESPECIAL. AÇÃO DE COBRANÇA. TAXAS DE ADMINISTRAÇÃO DE LOTEAMENTO. RESPONSABILIDADE PELA DÍVIDA. CABIMENTO REFERENTE AO IMÓVEL. POSSIBILIDADE QUANDO HOUVER ANOTAÇÃO DA UNIDADE IMOBILIÁRIA NO CARTÓRIO DE REGISTRO DE IMÓVEIS. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
+Irresignados, os agravantes alegam que haveria necessidade de reforma da decisão, tendo em vista que as questões de fato controvertidas teriam sido satisfatoriamente elucidadas pelo Tribunal de Justiça do Estado de São Paulo, não havendo nenhuma questão de fato pendente de esclarecimento que justificasse o retorno dos autos.
+Sustentam que a Corte estadual teria aplicado, corretamente, ao caso as teses fixadas pelo Superior Tribunal de Justiça e Supremo Tribunal Federal em relação à matéria.
+Afirmam que a decisão agravada trouxe que basta o registro do loteamento no cartório de imóveis para que houvesse o dever de pagar as taxas de conservação pleiteadas.
+Argumentam que não é o registro do loteamento ou sua constituição formal em cartório de imóveis que ger a a obrigação do pagamento de taxas de conservação para a associação, mas sim a existência de cláusula no contrato-padrão que determine o pagamento das taxas.
+Impugnação às fls. 1.652-1.674 (e-STJ), com pleito de aplicação da multa do art. 1.021, § 4º, do CPC/2015.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. TAXAS DE ADMINISTRAÇÃO DE LOTEAMENTO. RESPONSABILIDADE PELA DÍVIDA. CABIMENTO REFERENTE AO IMÓVEL. POSSIBILIDADE QUANDO HOUVER ANOTAÇÃO DA UNIDADE IMOBILIÁRIA NO CARTÓRIO DE REGISTRO DE IMÓVEIS. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. Havendo registro do loteamento no cartório de registro de imóveis, é viável a cobrança de taxas de manutenção ou de qualquer outra espécie pela administradora de loteamento ao proprietário de imóvel nele localizado, se esse vínculo foi estabelecido pelo loteador em contrato-padrão levado a registro no respectivo cartório ao qual aderiu o adquirente. Precedentes.
+2. As restrições e obrigações constantes no contrato-padrão depositado em cartório como condição para o registro do projeto de loteamento incorporam-se ao registro e vinculam os posteriores adquirentes, porquanto dotadas de publicidade inerente aos registros públicos.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, porquanto a condenação da parte agravante ao pagamento da aludida multa - a ser analisada em cada caso concreto, em decisão fundamentada - pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que não se verifica na hipótese examinada.
+4. Agravo interno desprovido.
+VOTO
+De fato, a decisão monocrática deve ser mantida.
+Conforme asseverado na decisão agravada, a jurisprudência deste Tribunal Superior se posiciona no sentido de que, "havendo o registro do loteamento no cartório de registro de imóveis, como ora se apresenta, conforme se depreende dos autos, é viável a cobrança de taxas de manutenção ou de qualquer outra espécie pela administradora de loteamento a proprietário de imóvel nele localizado, se esse vínculo foi estabelecido pelo loteador em contrato-padrão levado a registro no respectivo cartório ao qual aderiu o adquirente" (AgInt no REsp 1.796.778/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 23/3/2020, DJe 25/3/2020).
+Sobre o tema:
+AGRAVO INTERNO. LOTEAMENTO FECHADO. TAXA DE MANUTENÇÃO. REPERCUSSÃO GERAL RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL. RE 695.911/SP (TEMA 492/STF). DISTINÇÃO COM A HIPÓTESE DOS AUTOS. COBRANÇA POR ADMINISTRADORA COM BASE EM CONTRATO-PADRÃO DEPOSITADO NO REGISTRO IMOBILIÁRIO. JUÍZO DE RETRATAÇÃO NÃO EXERCIDO. ACÓRDÃO MANTIDO.
+1. No julgamento do RE n. 695.911/SP, o Supremo Tribunal Federal, reconhecendo a repercussão geral da matéria (Tema 492/STF), firmou a tese de ser "inconstitucional a cobrança por parte de associação de taxa de manutenção e conservação de loteamento imobiliário urbano de proprietário não associado até o advento da Lei nº 13.465/17, ou de anterior lei municipal que discipline a questão, a partir da qual se torna possível a cotização dos proprietários de imóveis, titulares de direitos ou moradores em loteamentos de acesso controlado, que i) já possuindo lote, adiram ao ato constitutivo das entidades equiparadas a administradoras de imóveis ou (ii) sendo novos adquirentes de lotes, o ato constitutivo da obrigação esteja registrado no competente Registro de Imóveis".
+2. No caso dos autos, ao contrário da hipótese analisada pelo STF, a cobrança das taxas de manutenção do loteamento fechado é realizada por sociedade empresária mediante anuência formalizada ao contrato-padrão depositado no registro imobiliário do loteamento.
+3. Juízo de retratação não exercido. Acórdão mantido.
+(RE no AgInt no AREsp n. 556.344/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11/4/2023, DJe de 14/4/2023.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. LOTEAMENTO FECHADO. TAXA DE MANUTENÇÃO. POSSIBILIDADE DE COBRANÇA. CONTRATO-PADRÃO. ESPECIFICIDADE DO CASO. AGRAVO INTERNO NÃO PROVIDO.
+1. "É viável a cobrança de taxas de manutenção ou de qualquer outra espécie feita por administradora de loteamento a proprietário de imóvel nele localizado, se esse vínculo foi estabelecido pelo loteador em contrato-padrão levado a registro no respectivo cartório ao qual aderiu o adquirente" (REsp 1.422.859/SP, Relator o Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26/11/2015).
+2. A situação fática é distinta daquela decidida nos Recursos Especiais 1.439.163/SP e 1.280.871/SP, processados sob o rito dos recursos repetitivos, nos quais a Segunda Seção consolidou o entendimento de que "as taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram".
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl nos EDcl no REsp n. 1.725.641/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 7/12/2020, DJe de 1º/2/2021.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE COBRANÇA. TAXAS DE MANUTENÇÃO. ADMINISTRADORA DE LOTEAMENTO URBANO. CONTRATO-PADRÃO LEVADO EM REGISTRO EM CARTÓRIO.
+1. Inaplicabilidade do precedente firmado em sede de recurso especial repetitivo (REsp 1.280.871/SP, 2ª Seção, DJe 22/05/2015), por meio da aplicação da técnica da distinção (distinguishing).
+2. Há julgados no âmbito do Superior Tribunal de Justiça no sentido de ser cabível a cobrança de taxas de manutenção realizada por administradora de loteamento a proprietário de imóvel nele localizado, se esse vínculo foi estabelecido pelo loteador em contrato-padrão levado a registro no respectivo cartório ao qual aderiu o adquirente.
+3. Não apresentação pela parte agravante de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.4.
+AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+(AgInt no REsp n. 1.783.518/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 29/6/2020, DJe de 3/8/2020.)
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. DISTINÇÃO (DISTINGUISHING). RECURSO REPETITIVO E HIPÓTESE DOS AUTOS. OCORRÊNCIA. TAXAS DE MANUTENÇÃO. ADMINISTRADORA DE LOTEAMENTO URBANO. CONTRATO-PADRÃO LEVADO EM REGISTRO EM CARTÓRIO.
+1 - Julgamento sob a égide do CPC/15.
+2 - Inaplicabilidade do precedente firmado em sede de recurso especial repetitivo (REsp 1.280.871/SP, 2ª Seção, DJe 22/05/2015), por meio da aplicação da técnica da distinção (distinguishing).
+3 - É viável a cobrança de taxas de manutenção ou de qualquer outra espécie pela administradora de loteamento a proprietário de imóvel nele localizado, se esse vínculo foi estabelecido pelo loteador em contrato-padrão levado a registro no respectivo cartório ao qual aderiu o adquirente.
+4 - Agravo interno no recurso especial não provido.
+(AgInt no REsp n. 1.696.347/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 5/6/2018, DJe de 12/6/2018.)
+Ademais, ainda nos termos do quanto decidido, "especificamente no que se refere aos adquirentes posteriores, decidiu-se também que, "por força do disposto na lei de loteamento, as restrições e obrigações constantes no contrato-padrão, depositado em cartório como condição para o registro do projeto de loteamento, incorporam-se ao registro e vinculam os posteriores adquirentes, porquanto dotadas de publicidade inerente aos registros públicos"" (REsp 1.422.859/SP, Relator o Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26/11/2015).
+O Tribunal de Justiça do Estado de São Paulo, ao solucionar a questão, se pronunciou sob os seguintes aspectos (e-STJ, fls. 1.043-1.046; sem grifos no original):
+A discussão travada referiu-se à indagação sobre a licitude e a possibilidade da cobrança compulsória de taxas e contribuições a proprietários dos imóveis, realizadas por associação de moradores de condomínio de fato.
+(..)
+Deste modo, a obrigação só pode resultar da lei ou da vontade das partes, não havendo lugar para eventual aceitação tácita quanto às obrigações de pagamento das "taxas condominiais", tal como defendido pelo apelante.
+(..)
+Bem entendido o precedente vinculante, resta aferir se, na espécie, os réus manifestaram vontade de se associar à autora ou se foram de alguma forma alertados que incidiria a obrigação de pagamento de despesas de conservação e de manutenção a partir da aquisição do lote.
+E a resposta é negativa.
+O instrumento contratual assinado pelas partes apenas cita, de forma genérica, que os requeridos estariam obrigados ao pagamento de taxas incidentes sobre o lote a partir da data da aquisição, o que não pode ser interpretado de forma ampliativa para incluir despesas de conservação e manutenção cobradas por associação de moradores.
+Isso porque taxa é instituto de Direito Público, mas especificamente de Direito Tributário, sendo paga em decorrência do exercício do poder de polícia ou da prestação de um serviço público, daí porque não há como ampliar o conceito de taxa nos termos pretendidos pela associação.
+Quanto a isso, a sentença foi precisa: "A escritura de venda e compra menciona apenas o pagamento de taxas de natureza tributária e não em contraprestação aos serviços prestados pela associação".
+Também não é possível afirmar que o instrumento contratual gerou o vínculo associativo, eis que ele apenas menciona que os compradores tomaram ciência da existência da associação, sem contudo constar, de forma explícita, que tais adquirentes se tomariam associados, gerando o dever de pagamento das "taxas" de manutenção.
+No mais, eventual encargo existente sobre o lote adquirido deveria constar na sua correspondente matricula, o que não ocorreu no presente caso.
+Então, na hipótese dos autos, não havendo prova de assunção da obrigação, tem-se que a ação a improcedência deve ser mantida.
+Da análise dos trechos do acórdão da Corte de origem, nota-se que não se negou a existência de taxas administrativas não pagas, ou seja, o fundamento da cobrança, sendo apontada apenas a ausência de responsabilização civil da parte recorrida por não ter com elas anuído.
+Destarte, conforme já consignado, em razão da possibilidade de constituição formal do loteamento em consonância com o quanto admitido pela jurisprudência, não haveria impedimento à eventual cobrança.
+No entanto, diante da inviabilidade de revisão de fatos e provas dos autos nesta seara extraordinária (o que atrairia a incidência da Súmula 7/STJ), foi determinado o retorno dos autos para que o TJSP verifique, nos termos do entendimento acima elencado, o acervo fático-probatório.
+Assim, tendo em vista que as alegações feitas no presente agravo interno não são capazes de modificar o convencimento anteriormente manifestado, permanece inalterada a decisão agravada.
+Noutro vértice, não merece ser acolhido o pedido, formulado pela parte agravada, de aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015, porquanto esta não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação da parte agravante ao pagamento da aludida multa - a ser analisada em cada caso concreto, em decisão fundamentada - pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que não ocorre na hipótese ora examinada.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE RESOLUÇÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. ART. 1.021, § 4º, DO CPC/2015. MULTA. NÃO CABIMENTO. ART. 85, § 11, DO CPC/2015. HONORÁRIOS. MAJORAÇÃO. INVIABILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A Segunda Seção do Superior Tribunal de Justiça decidiu que a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015 não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno.
+4. Não é possível majorar os honorários na hipótese de interposição de recurso no mesmo grau de jurisdição (art. 85, § 11, do CPC/2015).
+5. Agravo interno não provido.
+(AgInt no AREsp 1728999/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 30/08/2021, DJe 03/09/2021)
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
