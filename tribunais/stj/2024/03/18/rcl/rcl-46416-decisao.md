@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de reclamação apresentada pela UNIÃO, contra decisão proferida pelo Juiz Federal da 5ª Vara da Seção Judiciária do Estado do Rio Grande do Norte.
+Narra que a parte autora, em agosto de 2019, ajuizou ação ordinária objetivando a continuidade da participação nas demais fases do concurso público realizado pela Aeronáutica, no qual foi desclassificada na fase de inspeção de saúde por possuir enfermidade na tireoide.
+O Juízo de Primeiro Grau julgou procedente o pedido para assegurar a participação da reclamada nas demais fases do certame. O Tribunal Regional Federal da 5ª Região negou provimento à apelação do ente público, consignado que a previsão no edital de que hipotireoidismo seria hipótese de incapacidade, implicando na desclassificação do candidato, é irrazoável e desproporcional.
+O Recurso Especial n. 2.077.125/RN interposto pela União foi julgado procedente, conforme o seguinte dispositivo:
+Ante o exposto, com esteio no art. 255, § 4º, I e III, do RISTJ, conheço parcialmente do recurso especial para, nessa parte, dar-lhe provimento para declarar a legalidade do ato administrativo que excluiu a candidata do certame por incapacidade atestada em fase própria do concurso, atentando-se às regras próprias do edital e das normas administrativas sobre inspeção de saúde na Aeronáutica.
+A parte ora reclamada opôs embargos de declaração, os quais encontram-se pendentes de julgamento.
+Salienta que, após o provimento do recurso especial da União, a parte reclamada propôs cumprimento provisório de sentença em que restou concedida a antecipação de tutela nos seguintes termos:
+Diante do exposto, defiro o pedido de tutela provisória de urgência para determinar à UNIÃO a suspensão imediata do processo administrativo de baixa de incorporação da autora, devendo aguardar o trânsito em julgado da decisão final a ser proferida nos autos do Recurso Especial nº 2077125 -RN (2023/0189741-3), ainda em trâmite perante o Superior Tribunal de Justiça -STJ.
+Aduz que a decisão reclamada violou a autoridade da decisão proferida no REsp. n. 2.077.125/RN.
+Salienta que a parte autora deu início a cumprimento provisório de sentença, a qual já havia sido desconstituída no âmbito do Superior Tribunal de Justiça.
+Pugna pela concessão de tutela de urgência para suspender os efeitos da decisão proferida pelo Juiz Federal da 5ª Vara da Seção Judiciária do Estado do Rio Grande do Norte.
+Requer, ao final, a procedência da presente reclamação, com o fito de determinar a cassação da decisão reclamada.
+Em contestação, a reclamada alega que a União deu início ao procedimento administrativo de desligamento funcional sem que ocorresse o trânsito em julgado da decisão proferida no REsp. n. 2.077.125/RN. Acrescenta que a União apresentou recurso de agravo de instrumento em face da decisão ora reclamada em que restou indeferido o pedido de efeito suspensivo.
+A medida liminar foi deferida pela decisão de fls. 522-525.
+Solicitadas as informações ao juízo reclamado este quedou-se inerte.
+Instado a se manifestar, o Ministério Público Federal opinou pela procedência da presente reclação.
+É o relatório. Decido.
+A reclamante visa obter provimento jurisdicional para que seja cassada a decisão liminar proferida em cumprimento provisório de sentença que determinou a suspensão imediata do processo administrativo de baixa de incorporação da parte autora, até o trânsito em julgado da decisão que deu provimento ao REsp. n. 2.077.125/RN, a qual encontra-se pendente de julgamento de embargos de declaração.
+O agravo interno interposto pela parte ora interessada nos autos do REsp. n. 2.077.125/RN foi julgado pela Segunda Turma deste Superior Tribunal de Justiça restando o acórdão assim ementado:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO ORDINÁRIA. CONCURSO PÚBLICO. AERONÁUTICA. ENFERMIDADE NA TIREOIDE. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. VIOLAÇÃO DO ART. 20, I, XV, §§ 4º E 5º, DA LEI N. 12.464/2011; DO ART. 10 DA LEI N. 6.880/80 E DO ART. 28, A, DA LEI N. 4.375/1964.
+I - Na origem, trata-se de ação ordinária objetivando a continuidade da participação nas demais fases do concurso público realizado pela Aeronáutica, no qual foi desclassificada na fase de inspeção de saúde por possuir enfermidade na tireoide. Na sentença o pedido foi julgado procedente. No Tribunal a quo, a sentença foi mantida.
+II - Em relação à tese de violação do art. 20, I, XV, §§ 4º e 5º, da Lei n. 12.464/2011, do art. 10 da Lei n. 6.880/80, e do art. 28, a, da Lei n. 4.375/1964, assiste razão ao ente agravado.
+III - Isso porque, conforme consta no próprio acórdão recorrido, a inabilitação da candidata ao cargo almejado deu-se nos estritos termos de normas internas e previsões editalícias, alcançando todos os pretendentes ao cargo de forma equânime.
+IV - Concluir pela falta de razoabilidade de critério previamente estabelecido em edital e em norma institucional regulamentadora da seleção é adentrar ao mérito administrativo, o que não cabe ao Poder judiciário. Nesse sentido: (AgInt no REsp n. 1.806.066/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/9/2019, DJe de 11/10/2019.)
+V - No mesmo sentido de se prestigiar laudo pericial em conformidade com os ditames de edital de concurso público e regulamentação administrativa específica do cargo, os seguintes julgados: AREsp n. 2.279.211/MG, relator Ministro Mauro Campbell Marques, DJe 25/4/2023; AREsp n. 2.230.413/RJ, relator Ministro Herman Benjamin, DJe 2/3/2023; AREsp n. 2.086.971/RJ, relator Ministro Sérgio Kukina, DJe 30/8/2022.
+VI - Correta a decisão que deu provimento ao recurso especial para declarar a legalidade do ato administrativo que excluiu a candidata do certame por incapacidade atestada em fase própria do concurso, atentando-se às regras próprias do edital e das normas administrativas sobre inspeção de saúde na Aeronáutica.
+VII - Agravo interno improvido.
+Desta forma, a Segunda Turma desta Corte confirmou a decisão monocrática que deu provimento ao recurso especial da União para declarar a legalidade do ato administrativo que excluiu a candidata do certame.
+A decisão reclamada foi proferida nos autos de cumprimento provisório de sentença iniciado pela parte autora, mesmo sendo o REsp. n. 2.077.125/RN da União julgado provido, com a consequente improcedência da ação principal. A decisão reclamada deu cumprimento à provimento judicial que não mais existe no mundo jurídico, em razão do provimento do recurso especial da União.
+Logo, a decisão proferida pelo Juiz Federal da 5ª Vara da Seção Judiciária do Estado do Rio Grande do Norte efetivamente desrespeitou a decisão monocrática proferida no REsp. 2.077.125/RN e que foi confirmada pela Segunda Turma do Superior Tribunal de Justiça.
+O Juízo de Primeiro Grau não detém competência jurisdicional para promover a suspensão dos efeitos de decisão proferida em sede de recurso especial pelo Superior Tribunal de Justiça.
+Ante o exposto, confirmo a tutela de urgência deferida e julgo procedente a presente reclamação.
+Publique-se. Intimem-se.
+EMENTA
