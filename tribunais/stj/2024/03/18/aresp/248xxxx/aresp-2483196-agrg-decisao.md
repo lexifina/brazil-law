@@ -1,0 +1,32 @@
+DECISÃO
+HYAGO DE SOUZA DUTRA agrava de decisão que inadmitiu seu recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1506990-11.2022.8.26.0050.
+Às fls. 322-326, a defesa pe de a reconsideração do decisum de fls. 317-318, em que a Presidência desta Corte não conheceu do agravo em recurso especial em razão da incidência da Súmula n. 182 do STJ.
+O Ministério Público Federal manifestou-se apenas pela intimação do MPSP (fl. 340).
+Diante das alegações da defesa, reconsidero a decisão recorrida. Passo ao exame do recurso.
+O agravante foi condenado, como incurso no art. 157, § 2º, II, c/c o art. 29, do Código Penal, à sanção de 5 anos de reclusão, em regime semiaberto, mais 10 dias-multa, o que foi mantido em grau recursal.
+Nas razões do recurso especial, a defesa apontou violação dos arts. 155, 156, caput, e 386, V e VII, do Código de Processo Penal. Alegou que a autoria do fato não foi comprovada. Argumentou que a condenação foi baseada em prova colhida exclusivamente na fase pré-processual. Ressaltou que o crime não foi cometido com violência ou grave ameaça, motiv o pelo qual seria cabível a desclassificação da conduta apurada para furto.
+Apresentadas as contrarrazões, o recurso foi inadmitido na origem, o que deu causa à interposição deste agravo.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivos pelos quais comporta conhecimento. Procedo à análise do recurso especial.
+O Tribunal de origem manteve a condenação nos termos a seguir (fls. 244-248, grifei):
+A vítima de forma segura, coesa e harmônica, relatou o roubo, disse que o acusado que tomou seu celular simulou sim estar armado, razão por que entregou a ele seu celular, dizendo ainda que chegou a dizer à delegada de polícia que tinha condições de fazer o reconhecimento ao menos do indivíduo que tomara seu aparelho celular, porque olhara no rosto dele.
+ ..
+Aliado a isso, tenho que o relato da ofendida foi corroborado pelos testemunhos dos policiais, responsáveis pelas diligências, lograram identificar os dois roubadores e que eles confessaram informalmente a subtração do celular, além de estarem na posse do aparelho celular da vítima.
+Como se observa, as instâncias ordinárias sopesaram as provas, os elementos informativos colhidos extrajudicialmente - confissão dos acusados e apreensão do celular roubado com eles - e a prova obtida em juízo - depoimentos da vítima e dos policiais -, submetida, portanto, ao crivo do contraditório, a fim de concluir pela participação do ora recorrente na empreitada criminosa. Ademais, o emprego de violência ou grave ameaça ficou caracterizado no contexto fático delineado no acórdão.
+Para decidir de modo diverso, seria necessário reexaminar provas e dirimir controvérsia fática, providência não admitida no recurso especial, segundo o teor da Súmula n. 7 do STJ.
+Oportunamente:
+ ..
+2. As instâncias ordinárias sopesaram as provas e os elementos informativos colhidos extrajudicialmente com as demais provas e depoimentos obtidos em juízo, submetidos, portanto, ao crivo do contraditório, a fim de concluir pela participação do réu na empreitada criminosa. Para decidir de modo diverso, é necessário reexaminar provas e dirimir controvérsia fática, providência não admitida no recurso especial, a teor da Súmula n. 7 do STJ.
+ ..
+(AgRg no AREsp n. 1.193.007/SP, Rel. Ministro Rogerio Schietti Cruz, 6ª T., DJe 22/8/2018).
+Ademais, constato que não prospera a alegação de que a condenação se baseou, exclusivamente, em provas inquisitoriais.
+Quanto ao sistema de valoração das provas, no processo penal brasileiro, como dito, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir o mérito da pretensão punitiva, para condenar ou absolver, desde que o faça fundamentadamente.
+Nesse contexto, o legislador ordinário, buscando dar maior efetividade às garantias constitucionais previstas para os acusados em processo penal, estabeleceu, expressamente, a vedação à condenação baseada exclusivamente em provas produzidas no inquérito policial, consoante o disposto no art. 155, caput, do Código de Processo Penal.
+Isso significa que não se admite, no ordenamento jurídico pátrio, a prolação de um decreto condenatório fundamentado unicamente em elementos informativos colhidos durante o inquérito policial, no qual inexiste o devido processo legal (com seus consectários do contraditório e da ampla defesa). O juiz pode deles fazer uso para reforçar seu convencimento, desde que corroborados por provas produzidas durante a instrução processual ou que esses elementos informativos sejam repetidos em juízo, assumindo, tecnicamente, a natureza de prova.
+No caso, diferentemente do alegado, verifico que o Tribunal estadual sopesou as provas e os elementos informativos colhidos extrajudicialmente com as demais provas e depoimentos obtidos em juízo, submetidos, portanto, ao crivo do contraditório, razão pela qual não procedem os argumentos da defesa.
+Aliás, consoante já decidiu este Superior Tribunal, "não se admite a nulidade do édito condenatório sob alegação de estar fundado exclusivamente em prova inquisitorial, quando baseado também em outros elementos de provas levados ao crivo do contraditório e da ampla defesa" (HC n. 155.226/SP, Rel. Ministro Og Fernandes, 6ª T., DJe 1º/8/2012).
+Segundo entendimento desta Corte, a inadmissão ou o não provimento do especial interposto com fundamento no art. 105, III, "a", da Constituição Federal prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, como na espécie.
+Ademais, conforme disposição dos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ, quando o recurso interposto estiver fundado em divergência pretoriana, deve a parte colacionar aos autos cópia dos acórdãos em que se fundamenta a divergência, bem como realizar o devido cotejo analítico, demonstrando de forma clara e objetiva a suposta incompatibilidade de entendimentos e a similitude fática entre as demandas. Neste caso, a defesa não fez o referido procedimento. Dessa forma, inviável o conhecimento do recurso interposto, também, com amparo na alínea "c" do art. 105, III, da Constituição Federal.
+À vista do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se e intimem-se
+EMENTA
