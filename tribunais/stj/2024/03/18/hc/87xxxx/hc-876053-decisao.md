@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de DEYVID SÉRVULO DE DEUS contra o v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado de Minas Gerais.
+Depreende-se dos autos que o paciente foi condenado às penas de 12 anos, 1 mês e 25 dias de recl usão, em regime fechado, e 135 dias-multa, como incurso nas sanções do art. 157, § 2º, inciso I I e §2º-A, I, por quatro vezes, na forma do art. 70, ambos do Código Penal.
+Irresignada, a defesa interpôs recurso de apelação ao Tribunal de origem, que deu parcial provimento para reduzir a pena imposta para 11 anos e 8 meses de reclusão e mais 26 dias-multa, nos termos do acórdão juntado às fls. 93-115, com a seguinte ementa:
+APELAÇÃO CRIMINAL. ROUBO MAJORADO, POR QUATRO VEZES, EM CONCURSO FORMAL PRÓPRIO. ABSOLVIÇÃO POR INSUFICIÊNCIA PROBATÓRIA. IMPOSSIBILIDADE. MATERIALIDADE E AUTORIA COMPROVADAS. CONDENAÇÃO MANTIDA. CAUSA DE AUMENTO REFERENTE AO EMPREGO DE ARMA DE FOGO. MANUTENÇÃO. APRENSÃO E PERÍCIA. DESNECESSIDADE. UTILIZAÇÃO COMPROVADA PELOS ELEMENTOS DE PROVA CONSTANTES DOS AUTOS. GRATUIDADE DE JUSTIÇA. PREJUDICIALIDADE. ISENÇÃO DE CUSTAS DEFERIDA EM PRIMEIRO GRAU. RECURSO PARCIALMENTE PROVIDO. - O conjunto probatório produzido, sobretudo em contraditório judicial, que demonstre com segurança que o réu concorreu para a prática dos quatro crimes de roubo, em concurso formal próprio, legitima a manutenção da condenação proferida em primeiro grau, não havendo espaço para a almejada absolvição por insuficiência de provas. - A apreensão e o exame pericial da arma são dispensáveis ao reconhecimento da majorante do art. 157,§ 2º-A, I, do CP, se extraídos do conjunto probatório elementos de convicção suficientes a demonstrara utilização do artefato na em preitada delitiva. - V.V. - Na ausência de apreensão e perícia ou de demais meios de prova que atestem a utilização e a potencialidade lesiva da arma de fogo supostamente empregada na subtração, deve ser decotada a respectiva causa de aumento. - Como decote do em prego de arm a de fogo, não subsistem o exame negativo das circunstâncias do crime com base em majorante sobejante e as exasperações correspondentes nas penas-bases, ficando a análise do concurso de agentes deslocada para a terceira etapa dosimétrica. - Inviável a concessão da gratuidade de justiça quando deferida a isenção das custas processuais em primeiro grau.
+Os embargos de declaração foram rejeitados na forma da seguinte ementa (fls. 117-121):
+EMENTA: EMBARGOS INFRINGENTES E DE NULIDADE CRIMINAL - DELITO DE ROUBO CIRCUNSTANCIADO - EXASPERANTE RELATIVA AO USO DE ARMA DE FOGO - APREENSÃO E PERÍCIA DO ARTEFATO - PRESCINDIBILIDADE - PALAVRA SEGURA DAS VÍTIMAS - ATO DE INTIMIDAÇÃO CONCRETIZADO - CAUSA DEAUMENTO PERNITENTE.
+1. Constatado que a exasperante relativa ao uso de arma de fogo decorre do expediente mais eficaz empregado pelo agente, para a concretização do delito, consistente em intimidação que mitiga a resistência do ofendido, incide a causa de aumento, ainda que o artefato não tenha sido apreendido e periciado.
+2. Se a palavra das vítimas é segura no sentido de que o agente utilizou arma de fogo para subjugá-la, deve ser ratificado o reconhecimento da exasperante respectiva.
+3. Embargos Infringentes rejeitados.
+v.v. - Na ausência de apreensão e perícia ou de demais meios de prova que atestem a utilização e a potencialidade lesiva da arma de fogo supostamente empregada na subtração, deve ser decotada a respectiva causa de aumento.
+No presente writ, a impetrante sustenta a ilegalidade na terceira fase da dosimetria, sob a premissa de que o aumento da sanção se deu unicamente por critério matemático, em franco descompasso com a orientação sumular n. 443 do STJ.
+Requer, no mérito, que seja limitada a exasperação da pena na terceira fase do cálculo em 1/3.
+As informações foram prestadas às fls. 93-132.
+O Ministério Público Federal, às fls. 70-73, manifestou-se nos termos da seguinte ementa:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. PENAL E PROCESSUAL PENAL. ROUBO MAJORADO (ART. 157, § 2º, II E § 2º-A, I, DO CP). CONDENAÇÃO À PENA DE 11 ANOS E 08 MESES DE RECLUSÃO EM REGIME FECHADO. DOSIMETRIA. 3ª FASE. CAUSAS DE AUMENTO. EXASPERAÇÃO EM 3/8. AUSÊNCIA DE JUSTIFICATIVA IDÔNEA. SIMPLES CRITÉRIO MATEMÁTICO. INOBSERVÂNCIA DA SÚMULA Nº 443/STJ. CONSTRANGIMENTO ILEGAL VERIFICADO. PRECEDENTES. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS, POIS FORMALMENTE INCABÍVEL, MAS PELA CONCESSÃO DA ORDEM DE OFÍCIO, A FIM DE QUE SEJA ADOTADA A FRAÇÃO ÚNICA DE 1/3 PARA AUMENTO DA TERCEIRA ETAPA.
+É o breve relatório.
+Decido.
+A impetrante sustenta a ilegalidade na terceira fase da dosimetria, sob a premissa de que o aumento da sanção se deu unicamente por critério matemático, em franco descompasso com a orientação sumular n. 443 do STJ.
+Sobre a controvérsia, assim se manifestou o Colegiado local, por meio do voto vencedor (fls. 114-115):
+Passo à dosimetria.
+Mantenho as pena-bases nos termos do voto condutor, tal seja, 04 (quatro) anos de reclusão e 10 (dez) dias-multa.
+Em segunda fase, incide a agravante da reincidência, motivo o qual fixo a reprimenda em 04 (quatro) anos e 08 (oito) meses de reclusão e 11 (onze) dias-multa.
+Em terceira fase, presentes as causas de aumento relativas ao concurso de pessoas e ao emprego de arma de fogo, entendo por adequado o recrudescimento, restando a reprimenda concretizada em 09 (anos), 04 (quatro) meses e 21 (vinte e um) dias-multa.
+Reconhecido o concurso formal, tendo o roubo atingido patrimônio de quatro vitimas diferentes, aumento a reprimenda em V., restando concretizada em 11 (onze) anos, 08 (oito) meses e pagamento de 26 (vinte e seis) dias-multa.
+In casu, a exasperação da pena, na terceira fase, foi aumentada em dobro, em virtude da incidência de duas causas de aumento de pena, levando-se em conta apenas o fato do crime ter sido cometido mediante emprego de arma de fogo e em concurso de agentes.
+Diante desse contexto, forçoso reconhecer a ocorrência de flagrante ilegalidade, eis que o quantum de aumento de pena foi aplicado sem que houvesse a devida fundamentação, baseando-se apenas no número de majorantes, em desacordo com a orientação firmada na Súmula 443/STJ: "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+Dessarte, considerando a fundamentação genérica utilizada pelas instâncias ordinária, a justificar a exasperação, impõe-se o aumento, na terceira fase da dosimetria, em seu patamar mínimo, qual seja, 1/3 (um terço).
+Passo ao redimensionamento da pena.
+Fixada a pena provisória em 4 anos e 8 meses de reclusão e 11 dias-multa e presentes a demais causas modificadoras da reprimenda, torno-a definitiva em 7 anos, 9 meses e 10 dias de reclusão e 17 dias-multa.
+Ante o exposto, concedo o habeas corpus para fixar a pena de 7 anos, 9 meses e 10 dias de reclusão, em regime fechado, e 17 dias-multa.
+Comunique-se.
+Publique-se.
+Intimem-se.
+EMENTA
