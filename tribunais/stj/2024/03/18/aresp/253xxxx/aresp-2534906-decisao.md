@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por CLAUDINOR FRANCISCO PEDROSO, com fundamento no art. 105, III, a e c, da Constituição Federal, para impugnar acórdão do Tribunal de Justiça do Estado de Santa Catarina assim ementado (e-STJ, fl. 602):
+APELAÇÃO CÍVEL. SEGURO DE VIDA. SEQUELAS DECORRENTES DE ACIDENTE DE TRÂNSITO. INVALIDEZ PARCIAL DO MEMBRO INFERIOR DIREITO (QUADRIL). PRTENSÃO DE RECEBIMENTO DA INTEGRALIDADE DO CAPITAL SEGURADO. SENTENÇA DE IMPROCEDÊNCIA. RECURSO DO AUTOR.
+LAUDO PERICIAL QUE CONSTATOU A EXISTÊNCIA DE INCAPACIDADE FUNCIONAL DE 50%.
+PROVA TÉCNICA JUDICIAL QUE SE SOBREPÕE AO RELATÓRIO DE AVISO DE SINISTRO SUBSCRITO POR MÉDICO PARTICULAR EM MOMENTO ANTERIOR. QUESTÃO RESOLVIDA PELA PRODUÇÃO DE PROVA DOCUMENTAL E TÉCNICA. INDEFERIMENTO DA PRETENSÃO DE OITIVA DE TESTEMUNHAS QUE, NO CASO, NÃO CONFIGURA CERCEAMENTO DEDEFESA. EXISTÊNCIA DE PREVISÃO CONTRATUAL PARA PAGAMENTO DE INDENIZAÇÃO PROPORCIONAL AO GRAU DE INVALIDEZ APURADO. HIGIDEZ DA CLÁUSULA. QUANTIA PAGA NA ESFERA ADMINISTRATIVA CÔNSONA AO CÁLCULO FEITO PELO EXPERT.
+COMPLEMENTAÇÃO INDEVIDA. SENTENÇA MANTIDA.
+RECURSO CONHECIDO E NÃO PROVIDO.
+Nas razões do recurso especial (e-STJ, fls. 611-620), o ora agravante apontou divergência jurisprudencial e violação dos arts. 757, 772 e 776 do CC; e 6º, III, 30, 31, 36, 46, 47 e 54 do CDC.
+Sustentou cerceamento do seu direito de defesa.
+Aduziu que não lhe foram prestadas as informações necessárias referentes ao inteiro teor da contratação, mormente no que tange às cláusulas limitadoras do direito.
+Destacou que o julgador não deve se ater ao laudo pericial, mas que deve ponderar todas as provas do processo e as peculiaridades do caso. Defendeu, assim, a cobertura total do seguro contratado em virtude da sua incapacidade para o labor de forma total e definitiva.
+Contrarrazões às fls. 626-630 (e-STJ).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+No que tange ao alegado cerceamento do direito de defesa, verifica-se que o recorrente não apontou o dispositivo tido por violado a fim de viabilizar o conhecimento da insurgência a respeito da tese de mérito. Dessa forma, constata-se que a argumentação apresentada no recurso mostra-se deficiente, atraindo, assim, a incidência do verbete n. 284 da Súmula do STF.
+Por outro lado, cumpre observar que a questão relativa ao dever de informação da seguradora não foi objeto de deliberação pelo Colegiado estadual, tampouco foram opostos embargos de declaração a fim de suscitar sua discussão, ressentindo-se o recurso especial, no ponto, do indispensável prequestionamento (Súmulas 282 e 356/STF).
+Quanto à insurgência relativa à quantia devida a título de seguro, confira-se a fundamentação do Tribunal de origem sobre o tema (e-STJ, fls. 603-604, sem grifo no original):
+Defende que "possui incapacidade total, levando em consideração sua idade, instrução escolar e lesão, não mais poderá voltar a laborar, muito menos na função que sempre exerceu de grade esforço físico, situação que deve ser devidamente ponderada", mormente porque precisa utilizar muletas para se locomover e sente dores ao se movimentar.
+Pretende o pagamento da integralidade da indenização securitária.
+Embora o formulário de aviso de sinistro contenha informação de que houve aproximadamente 80% de perda funcional (e16.8), a conclusão do laudo pericial de e69.1 (p. 29,"11"), com data posterior, foi no sentido de que a redução da capacidade funcional do membro inferior direito do apelante foi de 50%.
+O laudo, elaborado por profissional de confiança do juízo, deve se sobrepor ao relatório de aviso de sinistro subscrito por médico particular, pois é mais recente, foi elaborado por profissional imparcial e, após sua confecção, não houve a juntada de documento médico recente e atualizado com informação que contraponha a conclusão obtida no estudo (v. TJSC, Apelação Cível n. 0002710-14.2011.8.24.0050, Rel. Haidée Denise Grin, Sétima Câmara de Direito Civil, j. 05-03-2020).
+Além disso, a oitiva de testemunhas, no caso, seria inútil para o deslinde da questão, pois a opinião de quem simplesmente vê as dificuldades enfrentadas pelo apelante não é hábil e tampouco suficiente para contrapor a conclusão de um laudo pericial.
+Aqui a questão se resolve com prova documental e técnica, como feito.
+Afirmou o perito, no laudo, que "foi levado em consideração suas aptidões, seu processo de senectude, saúde biopsicossocial e análise holística" (e 69.1, p. 27), de modo que, ao contrário do alegado, não se pode dizer que foi ignorado o contexto em que está inserido o recorrente.
+Por isso, deve ser afastada a alegação de cerceamento de defesa pelo indeferimento da produção de prova oral.
+Considerando que as cláusulas gerais do seguro preveem o pagamento de 70% do capital segurado em caso de "perda total do uso de um dos membros inferiores" (e16.7, p. 8), a invalidez funcional parcial, no percentual de 50%, confere ao segurado o direito de receber valor equivalente a 35% do capital segurado.
+Por isso, o fato de ter sido reconhecida a invalidez parcial permanente do autor em razão de sequelas no quadril direito não lhe garante o pagamento da integralidade da indenização, e sim, como bem observado na origem, de indenização proporcional à extensão das sequelas, no percentual de 35% do capital segurado, conforme verificado extrajudicialmente (e16.12) e confirmado pelo perito judicial (e69.1).
+Dito isso, fica mantida a sentença de improcedência.
+Da análise dos fundamentos do recurso e seu cotejo com as razões do acórdão recorrido, percebe-se que o recorrente busca emprestar entendimento diverso, para o tema, daquele que foi adotado pelo Tribunal de origem a partir da análise do conjunto probatório posto à sua disposição.
+Assim sendo, infirmar o entendimento alcançado pelo acórdão recorrido, com base nos elementos de convicção juntados aos autos, fazendo prevalecer a tese de concessão integral de indenização decorrente do contrato de seguro , tal como busca o insurgente, esbarraria no enunciado n. 7 da Súmula desta Corte.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% sobre o valor da causa, suspensa a exigibilidade em razão da gratuidade de justiça deferida ao recorrente.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA. SEQUELAS DECORRENTES DE ACIDENTE DE TRÂNSITO. CERCEAMENTO DO DIREITO DE DEFESA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. SÚMULA 284/STF. DEVER DE INFORMAÇÃO. FALTA DE PREQUESTIONAMENTO DA MATÉRIA OU TESE. SÚMULAS 282 E 356/STF. INVALIDEZ PARCIAL DO MEMBRO INFERIOR DIREITO (QUADRIL). PRETENSÃO DE RECEBIMENTO DA INTEGRALIDADE DO CAPITAL SEGURADO. PEDIDO IMPROCEDENTE. REVISÃO DO JULGADO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
