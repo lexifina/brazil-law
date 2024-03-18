@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo regimental interposto por JOSE GONÇALVES CARDOSO contra decisão de minha lavra assim ementada (fl. 32):
+"HABEAS CORPUS. PROCESSUAL PENAL. FURTO. INEXISTÊNCIA DE INCOMPATIBILIDADE DA CUSTÓDIA CAUTELAR COM O REGIME SEMIABERTO. MANUTENÇÃO DA PRISÃO PREVENTIVA. ORDEM DENEGADA."
+Extrai-se dos autos que o Acusado foi condenado, em primeiro grau, no dia 16/11/2023, pela prática do crime previsto no art. 155, caput, do Código Penal, à pena privativa de liberdade de 1 (um) ano e 2 (dois) meses de reclusão, em regime inicial semiaberto, e ao pagamento de 11 (onze) dias-multa (fls. 12-22), sendo-lhe negado o apelo em liberdade.
+Inconformada, a Defesa interpôs habeas corpus perante a Corte de origem, que não foi conhecido (fls. 23-29). Eis a ementa do acórdão (fl. 24):
+"HABEAS CORPUS Pleito para que o paciente, condenado por furto simples (com basilar nos mínimos legais, mas com reincidência também por crimes contra o patrimônio, incluindo roubo duplamente majorado) possa recorrer em liberdade Não se admite que o remédio constitucional seja utilizado em substituição ao recurso ou ação cabível, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus (STJ) Diversamente, além de descaracterizar a própria natureza do writ (destinado especificamente a conter ato de translúcida ilegalidade ou de manifesto abuso de poder contra a liberdade de locomoção: art. 5º, LXVIII, da CR), estar-se-ia desprezando o âmago do sistema recursal, que contempla exatamente formas específicas de se buscar a reforma de decisões judiciais Aliás, é da impetração que "A defesa técnica irá recorrer da r. sentença" HABEAS CORPUS NÃO CONHECIDO."
+Nas razões do writ, alegou a Defesa incompatibilidade da prisão preventiva com a fixação do regime semiaberto na sentença penal condenatória.
+Esclareceu que "a sentença condenatória que denegou o direito do paciente de recorrer em liberdade não se harmoniza com o regime determinado no título condenatório" (fl. 6; original sem grifos).
+Requereu a revogação da prisão preventiva para que o Acusado pudesse recorrer em liberdade.
+Denegada a ordem de habeas corpus, em decisão monocrática, nas razões do agravo regimental, o Agravante reitera a tese de incompatibilidade da prisão preventiva com a fixação do regime semiaberto na sentença penal condenatória, bem como ressalta a inexistência de qualquer elemento que evidencie a necessidade da prisão preventiva e a ausência de periculum libertatis diante do encerramento da instrução criminal.
+Requer a reconsideração da decisão ora agravada ou a submissão do presente recurso perante julgamento pelo Órgão colegiado.
+É o relatório. Decido.
+O Supremo Tribunal Federal, às fls. 49-61, informa que concedeu a ordem, de oficio, para determinar a substituição da prisão preventiva por medidas cautelares diversas, a serem definidas pelo Juízo da 11ª Vara Criminal da Comarca de São Paulo/SP (processo n. 1524228-57.2023.8.26.0228), acolhendo a tese de impossibilidade de compatibilizar a prisão preventiva ao regime de cumprimento da pena imposta na condenação.
+Ante o exposto, JULGO PREJUDICADO o agravo regimental.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. PROCESSUAL PENAL. FURTO. IMPUGNAÇÃO À PRISÃO PREVENTIVA. TESE DE INCOMPATIBILIDADE DA CUSTÓDIA CAUTELAR COM O REGIME SEMIABERTO. CONCESSÃO DA ORDEM, DE OFÍCIO, PELO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL PREJUDICADO.
