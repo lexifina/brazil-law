@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da inexistência de violação de lei federal e incidência da Súmula n. 7 o STJ (e-STJ fls. 1.107/1.109).
+O acórdão recorrido encontra-se assim ementado (e-STJ fls. 983/984):
+APELAÇÃO - Recurso de ambas as partes - Ação de indenização por danos materiais e morais - Contrato de transporte - Passageiro que sofre acidente de ônibus no itinerário quando de sua descida do veículo - Acidente e modo de ocorrência não controvertidos- - Controvérsia acerca dos danos - Ré que alega nulidade da sentença e cerceamento de defesa ante a necessidade de prova pericial por profissional médico do trabalho - Desnecessidade - Laudo pericial acostado aos autos que concluiu incapacidade para o trabalho desde o dia do acidente não sendo possível estabelecer o período de incapacidade laboral - Cerceamento de defesa não caracterizado - Lucros cessantes - Alegação da ré de duplo pagamento em razão dos pagamentos efetuados quando da concessão da tutela - Inocorrência - Valor fixado na sentença retroativo que não implica em pagamento em dobro, mas sim valor remanescente - Lucros cessantes fixados em R$ 1.400,00 observada a média de salário do autor- Legalidade - Documentos médicos e laudos pericial que concluíram pela necessidade de sessões de fisioterapia - Pretendida requisição por profissionais indicados pela USP - Pedido que se mostra injustificado já que não demonstrado qualquer ilício dos profissionais escolhidos pelo autor - Comprovantes de pagamentos anexados aos autos que também não demonstram qualquer valor exorbitante ou existência de fraude - Alegação de que o autor exerce atividade laborativa - Não demonstração - ônus da prova que incumbia à ré - Dano moral configurado - Indenização devida - Quantum fixado que deve ser majorado a fim de atender aos princípios da razoabilidade e proporcionalidade - Recurso do autor provido em partes, desprovido da ré.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.071/1.075).
+Nas razões do recurso especial (e-STJ fls. 1.077/1.090), interposto com fundamento no art. 105, III, "a", da CF, a parte alegou afronta aos seguintes dispositivos legais:
+(a) art. 401 do CPC/2015, por cerceamento de defesa, destacando que (e-STJ fl. 1.085):
+25. Ora, nobre julgadores, verifica-se que tais indícios apontavam para o fato de que se o Recorrente mantinha a sala comercial onde realizava seus atendimentos como nutricionista o que não condizia com a alegada incapacidade laborativa.
+26 Como não foi possível obter maiores informações quanto ao aluguel da sala comercial, como o histórico de visita, valor da locação, tempo de duração do contrato, etc., foi querido a intimação de terceiro para apresentar documentos com tais informações nos termos do artigo 401 do Código de Processo Civil1.
+27. Ocorre que tal pedido foi indeferido, no entanto, a C. Câmara do Tribunal de Justiça entendeu que não ficou comprova a ausência de incapacidade laborativa.
+(b) arts. 945 do CC/2002 e 14, § 3º, II, do CDC, sustentando, em resumo, a existência de causa excludente de responsabilidade consistente na culpa exclusiva da vítima. Destacou que "o Recorrido desembarcou de forma tardia e sem se atentar ao fechamento das portas, evidentemente encontra-se rompido o nexo de causalidade, devendo ser reconhecida a culpa exclusiva da vítima" (e-STJ fl. 1.088) e
+(c) art. 944 do CC/2002, aduzindo a inexistência de danos morais bem como a excessividade do valor arbitrado.
+No agravo (e-STJ fls. 1.112/1.121), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 1.124/1.128).
+É o relatório.
+Decido.
+Com relação ao alegado cerceamento de defesa, o Tribunal de origem consignou que (e-STJ fls. 987/988):
+Contudo, no caso tal perícia se mostra desnecessária, tendo em vista que não se discute nos autos relação de trabalho, mas sim responsabilidade civil.
+Ainda que assim não o fosse, observa-se que o laudo acostado aos autos chegou ao diagnóstico (Síndrome Dolorosa Regional Complexa), com incapacidade para o trabalho e necessidade de sessões de fisioterapia sem previsão de alta.
+Não é demais lembrar que a jurisprudência entende de forma pacífica que estando o feito instruído com os documentos necessários ao deslinde da causa, desnecessária a dilação probatória (JTACSP 195/184).
+(..)
+Afora isso, a prova pleiteada é de todo desnecessária tendo em vista que contrariamente ao que sustentado pela ré a perícia concluiu que:.."apresenta incapacidade laboral total desde o dia do acidente, 23.08.2016, para qualquer atividade habitual ou não, não sendo possível estabelecer o período de incapacidade laboral pois as lesões ainda estão em tratamento e podem sofrer alterações com o decorrer do tempo"(sic fls. 545)
+(..)
+Por fim quanto a fraude, registre-se que nem mesmo a indicação de e-mail do autor como domínio da Universidade de Santo a fs. 828/829, que indicaria relação de emprego é suficiente para demonstrar que o autor está exercendo atividade laboral, já que aluno também pode ter e-mail da faculdade.
+Diante da negativa do autor, incumbia a ré comprovar que o autor exerce alguma atividade laboral, o que inocorreu.
+A tese de contrariedade ao art. 401 do CPC/2015, segundo a qual seria necessária a intimação de terceiro para apresentar documentos, não foi analisada pela Corte local.
+Caberia à parte alegar ofensa ao art. 1.022 do Código de Processo Civil de 2015, o que não ocorreu. Dessa forma, à falta do indispensável prequestionamento, incide a Súmula n. 211 do Superior Tribunal de Justiça.
+Ainda que assim não fosse, o TJSP reconheceu ser desnecessária a produção de mais provas, visto que "a perícia concluiu que:.."apresenta incapacidade laboral total desde o dia do acidente, 23.08.2016, para qualquer atividade habitual ou não, não sendo possível estabelecer o período de incapacidade laboral pois as lesões ainda estão em tratamento e podem sofrer alterações com o decorrer do tempo"" (e-STJ fl. 987).
+Portanto, modificar o entendimento do acórdão impugnado quanto à inexistência de cerceamento de defesa e à necessidade de dilação probatória, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Quanto aos arts. 945 do CC/2002 e 14, § 3º, II, do CDC, ficou assentado que (e-STJ fl. 987):
+Desde logo observa-se que a ocorrência do acidente é incontroversa, bem como as partes não confrontam as versões trazidas aos autos, cingindo-se a controvérsia apenas acerca dos danos.
+O recurso deve observar o princípio da dialeticidade, ou seja, apresentar os motivos pelos quais a parte recorrente não se conforma com o acórdão proferido pelo Tribunal de origem, a fim de permitir ao órgão colegiado cotejar os fundamentos lançados na decisão judicial com as razões expendidas no recurso.
+No caso, as razões recursais apresentadas encontram-se dissociadas do que foi decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, o óbice da Súmula n. 284/STF.
+Além disso, o conteúdo dos arts. 945 do CC/2002 e 14, § 3º, II, do CDC, da maneira como apresentado nas razões recursais, não foi analisado pela Corte local. Incidente, portanto, a Súmula n. 211/STJ por falta de prequestionamento.
+Não obstante, para acolher as razões recursais e reconhecer a existência de causa excludente de responsabilidade consistente na culpa exclusiva da vítima, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+No que se refere aos danos morais, a Corte local se manifestou no seguinte sentido (e-STJ fl. 990):
+No mais, cumpre analisar o pedido de indenização por dano moral.
+E nesse passo, observa-se que o pedido vem fundado não só no evento em si mas principalmente na extensão dos danos sofridos.
+E, diante da extensa documentação juntada conclui-se que as lesões geradas tiveram reflexos na rotina do autor.
+Diante dos fatos o autor foi diagnosticado com SDCR, cujo prognóstico é difícil de prever e varia bastante com tratamento complexo e geralmente insatisfatório, teve que se afastar da sua rotina de trabalho, necessita de sessões de fisioterapia sem previsão de melhora.
+Nesse cenário, em vista de todas as peculiaridades do caso, sabendo-se que o valor da indenização é fixado por arbitramento judicial, levando-se em conta a condição econômica das partes, a proporção e gravidade do dano e, ainda, a intensidade de culpa do ofensor, tem-se que o valor de R$ 10.000,00 fixado pela r. Sentença é irrisório e incompatível com a extensão do dano, devendo assim ser majorado para R$ 50.000,00(cinquenta mil reais) para o fim de atender aos princípios da razoabilidade e proporcionalidade.
+Para alterar tais fundamentos e reconhecer a inexistência de danos morais, seria preciso reexaminar fatos e provas, inadmissível no âmbito deste Tribunal, de acordo com a Súmula n. 7 do STJ.
+Além disso, apenas em hipóteses excepcionais, quando manifestamente irrisório ou exorbitante o valor da indenização, a jurisprudência desta Corte permite o afastamento do referido óbice, para possibilitar a revisão.
+Portanto, a quantia de R$ 50.000,00 (cinquenta mil reais) não se mostra excessiva, a justificar a reavaliação, em recurso especial, da verba reparatória fixada.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
