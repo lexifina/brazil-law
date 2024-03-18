@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de FELIPE HENRIQUE COSTA DA SILVA contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no Agravo de Execução Penal n. 0011571-14.2023.8.26.0502.
+Consta que o Juízo da Execução Penal, em 04/08/2023, homologou a conclusão da sindicância, que imputou ao Paciente a prática de falta de natureza grave, determinando a regressão de regime e a perda de 1/6 (um sexto) dos dias remidos.
+Irresignado, o Apenado interpôs agravo em execução na Corte estadual, que negou provimento ao recurso nos termos do acórdão assim ementado (fl. 68):
+"AGRAVO EM EXEUÇÃO PENAL - falta disciplinar - mãe do sentenciado que lhe enviou maconha pelos correios - indícios de participação do sentenciado na conduta - negativa que não convence - ausente versão verossímil - perda de dias remidos em um sexto - mantença - NEGADO PROVIMENTO."
+Neste writ, a Parte Impetrante sustenta que o Paciente foi punido exclusivamente por conduta praticada por outrem, porquanto lhe fora atribuída conduta faltosa com base, em tese, no fato de sua genitora enviar substância entorpecente por sedex. Argumenta que " n ão há elementos que permitam concluir que o ato faltoso se deu por provocação ou participação do Paciente" (fl. 8).
+Requer seja afastado o reconhecimento da falta grave.
+Prestadas as informações, o Ministério Público Federal opinou pela concessão da ordem de habeas corpus (fls. 108-111).
+É o relatório. Decido.
+Na espécie, o Juízo da Execução Penal, ao homologar a infração disciplinar, ressaltou o seguinte (fls. 63-64):
+"Na sindicância em tela, foi noticiado o envio de substância entorpecente por meio de sedex constando como remetente a mãe do reeducando, contudo, o sentenciado (fls. 205) declarou que emprestou seu rol de visitas para uma amiga para envio de mantimentos.
+Pois bem, não é crível a versão apresentada pelo sentenciado de que não tivesse conhecimento dos ilícitos que estavam no interior da encomenda, uma vez que afirmou ter fornecido os endereços de seus familiares para uma suposta amiga para que fosse encaminhada a encomenda.
+A materialidade está comprovada pelo laudo pericial da substância entorpecente colacionado às fls. 227-230, que detectou a presença de maconha no material apreendido.
+A jurisprudência do Tribunal de Justiça de São Paulo vem se consolidando no sentido de responsabilizar o executado por atos de seus visitantes cadastrados, conforme se verifica:
+ ..
+E não é só. Também há responsabilização pelo envio/recebimento de entorpecentes (geralmente camuflados em outros itens), enviados por terceiros que possuem relação com o sentenciado."
+O Tribunal estadual, por sua vez, consignou a seguinte fundamentação (fls. 68-72):
+"A conduta imputada ao sentenciado consiste em ter colaborado, de qualquer forma, para a entrega destinada à sua pessoa de substância entorpecente, qual seja, maconha, enviada por meio de correspondência remitida do endereço da sua genitora.
+O auto de apreensão e o laudo toxicológico demonstraram a quantidade de 14 gramas de maconha.
+O sentenciado, ao ser ouvido, negou ter solicitado o entorpecente à sua mãe, alegando que a sua amiga lhe enviou a droga a despeito de ele não ter solicitado o envio. Disse que a remetente anotou o endereço de envio como sendo o da sua mãe.
+No entanto, sua versão não merece guarida, vez que não justificou como a sua amiga lhe mandaria entorpecentes sem a sua solicitação. Além disso, ao ser questionado pelos agentes penitenciários, o sentenciado disse que tinha interesse de receber a encomenda.
+ ..
+Portanto, evidente que o acusado sabia e participou do envio da droga fornecendo os dados para envio -. Ademais, cediço que a conduta de portar a droga caracteriza falta grave por ser crime e não se pune por delito do artigo 28 ou 33, da Lei de Drogas, apenas aquele que possui a droga, mas também sujeito que participe da conduta principal.
+Fosse assim, só haveria responsabilidade para quem praticasse o verbo e os demais sujeitos jamais seriam responsabilidades, o que se afigura um absurdo. Qualquer sujeito que contribui com a causação do resultado e o faz conscientemente responde por ele.
+Portanto, de rigor a mantença da falta grave imputada ao sentenciado.
+Aliás, não seria mesmo necessária a posse do entorpecente pelo condenado, como almeja a defesa, pois, além da falta disciplinar, também seria acusado da prática do crime, sendo correta a determinação do artigo 49, parágrafo único, da LEP, de que "pune-se a tentativa com a sanção correspondente à falta consumada".
+A conduta do sentenciado se amolda a falta prevista no art. 52, da Lei de Execução Pe nal, relacionada a prática de fato previsto como crime doloso.
+Portanto, mantenho esta falta grave imposta ao condenado."
+Como se percebe, cuida-se, na espécie, de reconhecimento de falta grave consistente na tentativa de introdução de entorpecente na unidade prisional, encaminhado ao Paciente, em tese, por sua mãe, via SEDEX.
+Depreende-se, ainda, do comunicado de evento, que o agente de segurança noticiou o seguinte (fl. 22):
+" E nquanto fazia a entrega do SEDEX (registro Correios n.º OV588228880BR), ao detento FELIPE HENRIQUE COSTA DA SILVA, .., questionei se receberia a entrega, este respondeu afirmativamente e assinou a lista para iniciar a entrega dos itens enviados, como de praxe. Enquanto revistava manualmente os itens, notei que dentro do solado do chinelo, havia um volume incomum e ao averiguar logrei êxito em localizar 13 gramas de substância esverdeada análoga a maconha"
+Diante de todo esse contexto, não verifico elementos concretos que indiquem prévia solicitação da encomenda pelo ora Paciente. Assim, o reconhecimento da prática de falta grave em razão da conduta praticada por terceiro que enviou a encomenda via Sedex viola o princípio constitucional da intranscendência penal (art. 5.º, inciso XLV, da Constituição da República), o qual preconiza que ninguém pode ser responsabilizado por ato praticado por terceira pessoa.
+Destarte, pontuo que a tese de "atipicidade por fato de terceiro" encontra ressonância no entendimento deste Sodalício, pois, em respeito ao princípio da intranscendência penal, é inadmissível a imposição de falta grave ao Executado, em situações como a da hipótese em debate, na qual não foram indicados fatos concretos que comprovassem a autoria ou a participação do Reeducando na conduta de terceiro (no caso, sua mãe). Sobre a questão, cito o seguinte julgado:
+"CONSTITUCIONAL. EXECUÇÃO PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. FALTA GRAVE. ART. 50, VII, DA LEP. SEDEX ENVIADO AO APENADO CONTENDO ACESSÓRIOS DE APARELHO CELULAR. AUSÊNCIA DE ELEMENTOS CONCRETOS A COMPROVAR A SOLICITAÇÃO PELO PACIENTE. ATO DE TERCEIRO. PRINCÍPIO DA INTRANSCENDÊNCIA PENAL. CONSTRANGIMENTO ILEGAL CARACTERIZADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1.  ..
+2. In casu, à míngua de elementos concretos, conclui-se que o paciente não praticou a conduta descrita no art. 50, VII, da LEP, uma vez que os acessórios do aparelho celular, conforme consignado no acórdão impugnado, foram remetidos via Sedex. O fato de a irmã constar do rol de visitantes do reeducando e a suspeita de que o apenado é quem teria solicitado o envio dos produtos não são suficientes para afirmar a prática da falta grave.
+3. Esta Corte Superior de Justiça firmou entendimento no sentido de que, em razão do princípio da intranscendência penal, a imposição de falta grave ao executado, por transgressão realizada por terceiro, deve ser afastada quando não comprovada a autoria do reeducando, através de elementos concretos.
+4. Habeas corpus não conhecido. Ordem concedida de ofício, para cassar as decisões das instâncias ordinárias e afastar o cometimento da falta grave e seus consectários legais." (HC 372.850/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 18/04/2017, DJe 25/04/2017; sem grifos no original.)
+Por oportuno, reproduzo o seguinte trecho da manifestação do Parquet federal (fl. 110):
+"Consta que ao Paciente, que cumpre pena em regime fechado, teria sido enviado, por sua genitora, um par de sandálias pelos Correios (Sedex), e no interior de aludido calçado foram encontrados por um agente penitenciário, antes do recebimento pelo Paciente, 14g de maconha.
+Contudo, as instâncias ordinárias não apontaram nenhuma prova cabal (apenas indícios) de que o Paciente tenha aderido à vontade da remetente (sua genitora), que, a propósito, como bem destacado pela Defesa, sequer foi ouvida."
+Ante o exposto, CONCEDO a ordem de habeas corpus para absolver o Paciente da falta grave imputada no PAD n. 385444/2023, nos autos do Processo n. 0010981-08.2021.8.26.0502.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. APREENSÃO DE DROGAS ENVIADAS POR SEDEX AO APENADO. FALTA GRAVE IMPUTADA AO PACIENTE. IMPOSSIBILIDADE. ATO DE TERCEIRO. PRINCÍPIO DA INTRANSCENDÊNCIA PENAL. CONSTRANGIMENTO ILEGAL CARACTERIZADO. PARECER FAVORÁVEL DO MINISTÉRIO PÚBLICO FEDERAL. ORDEM DE HABEAS CORPUS CONCEDIDA.
