@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fl. 487):
+EMENTA: APELAÇÃO CÍVEL -AÇÃO ORDINÁRIA -CONTRATO DE PROMESSA DE PERMUTA -VALIDADE -RECONVENÇÃO -PROCEDÊNCIA -CONTRADITADA DE TESTEMUNHA -PRECLUSÃO -HONORÁRIOS ADVOCATÍCIOS -AUSÊNCIA DE SUCUMBÊNCIA RECÍPROCA. A declaração de nulidade do negócio jurídico é possível apenas quando restar comprovada a ausência dos elementos essenciais para contratação ou a existência de vícios do consentimento. Diante da validade do negócio jurídico firmado entre as partes, deve ser concedida a outorga definitiva da permuta do imóvel permutado. A contradita de testemunha é um direito das partes, contudo, deve ocorrer entre a sua qualificação e a tomada do depoimento em audiência, sob pena de preclusão (art. 457, §1º do CPC). Nos termos do art. 86, do CPC, há sucumbência recíproca quando autor e réu forem em parte vencidos e vencedores, devendo, nessa hipótese, haver a distribuição proporcional das custas e despesas processuais, bem como honorários advocatícios.
+Os embargos de declaração foram rejeitados (e-STJ fls. 520/524).
+Em suas razões (e-STJ fls. 533/555), a parte aponta dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(i) art. 1.022, II, do CPC/2015, porque (e-STJ fl. 545):
+ ..  de forma didática e objetiva, apontou, a recorrente, que o Acórdão se omitiu sobre a afirmação do próprio ex-presidente, que depôs como tes-temunha, Sr. Luigi Ferreira Belli, que teve a autorização anterior expressamente revogada, que sabia da revogação, e resolveu mesmo assim contrariá-la.
+(ii) art. 166, V, do CC/2002, pois (e-STJ fls. 550/553):
+ ..  art. 41 do Estatuto, a alienação do imóvel era permitida com autorização expressa da FENABB e do Banco do Brasil. Essa autorização inexistiu, em 2009, quando celebrada a permuta. A assembleia realizada em 2019, citada pela sentença, de ID 1948115021, consignou expressamente que não havia autorização quando da permuta, e resolveu ratifica-la, NOVAMENTESEM QUAL-QUER AUTORIZAÇÃO DO BANCO DO BRASIL OU DA FENABB.
+56. No interregno entre a permuta (2009), e a dita ratificação (2019), nada aconteceu. Não foram obtidas as autorizações pertinentes do Banco do Brasil e da FENABB. A ratificação ocorrida em 2019 incorreu na mesma irregularidade da per-muta firmada, faltantes as necessárias autorizações. A ratificação, portanto, não tem validade nenhuma, não corrige a ilegalidade praticada, mormente quando praticou a mesma ilegalidade.  ..
+Diante da autonomia conferida às associações, e considerando que não se trata de imposição contrária à letra da lei, vê-se que nenhuma ilegalidade existe na determinação contida no art. 41 do Estatuto Social, no tocante à prévia autorização da FENABB e do Banco do Brasil para alienação de imóvel da AABB.
+Contrarrazões apresentadas (e-STJ fls. 564/583).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à tese, o Tribunal de origem assim se manifestou, analisando o depoimento do Sr. Luigi Ferreira Belli e a ausência de autorização (e-STJ fls. 496/499):
+No caso, as provas constantes nos autos demonstram a inexistência dos vícios acima elencados capazes de invalidar o contrato, a fim de que prepondere a pretendida anulabilidade do negócio jurídico.  ..
+Ainda, verifica-se que tal contrato foi firmado após a aprovação em assembleia geral extraordinária (cód. 29), nos termos do art. 11, §1º, do Estatuto Social da AABB (cód. 03).
+Não bastasse, posteriormente à aprovação da realização do negócio jurídico através da realização de assembleia geral extraordinária, a permuta foi ratificada pela autora/reconvinda em várias ocasiões, como se extrai das atas acostadas aos autos.
+Inclusive, na ata de assembleia geral ordinária realizada no dia 11 de fevereiro e 2019, constou-se todas as tratativas realizadas desde 2005 até o ano de 2019, inclusive fazendo menção à ausência de autorização formal da FENABB e do Banco do Brasil, sendo que, mesmo diante de tal fato, a permuta dos imóveis foi novamente ratificada (cód.11).
+Ademais, o depoimento da testemunha, o Sr. Luigi Ferreira Belli, ex-presidente da AABB João Monlevade/MG, confirma que era do interesse da autora/reconvinda a realização da permuta junto aos réus/reconvintes, principalmente considerando a impossibilidade de manutenção do imóvel em comento pela referida Associação (cód. 80)  ..
+O que, de fato, torna-se nítido é que a autora/reconvinda, ora primeira apelante, apenas anos após a celebração do contrato objeto dos autos, cuja vontade ali expressada foi ratificada por diversas vezes nos anos seguintes, arrependeu-se do negócio jurídico e buscou na ausência de autorização do Banco do Brasil e da FENABB um fundamento para anular o instrumento particular firmado.
+Ora, o Estatuto Social da AABB sequer determinou a necessidade de autorização do Banco do Brasil e da FENABB para a alienação de imóveis da referida associação.
+Na realidade, o art. 41 do Estatuto Social da autora apenas determina que, para a alienação de bens imóveis, deveria haver a aprovação por assembleia geral e mediante manifestação do Banco do Brasil e da FENABB.
+Aliás, os próprios Banco do Brasil e FENABB se manifestaram pela concordância da alienação do imóvel em questão, no ano de 2005.
+Registra-se que a autora/reconvinda não pode utilizar da sua própria torpeza para anular o contrato objeto dos autos, não tendo sido evidenciada a má-fé dos réus/reconvintes quanto à ausência de manifestação formal do BB e da FENABB sobre a realização da permuta, considerando que tal requisito estava disposto no estatuto social da requerente.
+Portanto, tendo sido comprovada a observância de formalidades, não se justifica a anulação do negócio jurídico em comento,  ..
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Ainda, a revisão de tal entendimento - a fim de concluir pela nulidade do negócio jurídico - demandaria o reexame de matéria de prova e nova interpretação do estatuto social da parte agravada, o que é inviável em recurso especial, diante dos óbices das Súmulas n. 5 e 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
