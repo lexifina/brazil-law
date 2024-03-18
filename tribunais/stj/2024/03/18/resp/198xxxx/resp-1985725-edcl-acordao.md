@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/03/2024 a 18/03/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Mauro Campbell Marques votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL  E  ADMINISTRATIVO.  ART.  1.022  DO  CPC/2015.  OMISSÃO.  CONTRADIÇÃO.  OBSCURIDADE.  ERRO  MATERIAL  AUSÊNCIA.  MODIFICAÇÃO  DO  JULGADO.  MERO  INCONFORMISMO.  EMBARGOS  REJEITADOS.
+1.  Nos  termos  do  art.  1.022  do  C P C/2015,  os  embargos  de  declaração  têm  o  objetivo  de  introduzir  o  est ritamente  necessário  para  eliminar  a  obscuridade,  contradição  ou  suprir  a  omissão  existente  no  julgado,  além  de corrigir  erro  material,  não  permitindo  em  seu  bojo  a  rediscussão  da  matéria.
+2.  A  omissão  que  autoriza  a  oposição  dos  embargos  de  declaração  ocorre  quando  o  órgão  julgador  deixa  de  se  manifestar  sobre  algum  ponto  do  pedido  das  partes.  A  contradição,  por  sua  vez,  caracteriza-se  pela  incompatibilidade  havida  entre  a  fundamentação  e  a  parte  conclusiva  da  decisão.  Já  a  obscuridade  existe  quando  o  acórdão  não  propicia  às  partes  o  pleno  entendimento  acerca  das  razões  de  convencimento  expostos  nos  votos  sufragados  pelos  integrantes  da  turma  julgadora.
+3.  Não  constatados  os  vícios  indicados  no  art.  1.022 do CPC/2015,  devem  ser  rejeitados  os  embargos  de  declaração,  por  consistirem  em  mero  inconformismo  da  parte.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em  análise,  embargos  de  declaração  opostos  por MARCONI MEDEIROS MARQUES DE OLIVEIRA  contra  acórdão  da  Segunda  Turma  do  STJ,  assim  ementado  (e-STJ,  fls.  221-222):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS. BASE DE CÁLCULO. HONORÁRIOS DA FASE DE CONHECIMENTO. VALOR NÃO INCLUÍDO NA EXECUÇÃO. IMPOSSIBILIDADE DE INCLUSÃO. ART. 85, § 3º, DO CPC. DISPOSITIVO SEM COMANDO NORMATIVO PARA ALTERAR ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA N. 284/STF. ÓBICE NA SÚMULA N. 211/STJ. AGRAVO NÃO PROVIDO.
+1. O acórdão recorrido estabeleceu a impossibilidade de inclusão dos honorários da fase de conhecimento na base de cálculo dos honorários do cumprimento de sentença, por ausência de inclusão dos primeiros nos cálculos que instruíram a execução. Consignou-se ainda a necessidade de propositura de um novo cumprimento de sentença para a cobrança dos valores relativos aos honorários da fase de conhecimento.
+2. O art. 85, § 3º, do CPC, por sua vez, estabelece a forma de fixação de honorários nas causas em que a Fazenda Pública for parte, em percentuais sobre o valor da condenação ou do proveito econômico.
+3. No que se refere à fase cumprimento de sentença, não há qualquer respaldo, no citado dispositivo legal, para a inclusão de valores, que sequer integram a execução promovida, na base de cálculo dos honorários.
+4. Nesse contexto, conclui-se que o dispositivo legal apontado como violado não possui comando normativo apto a infirmar os fundamentos do acórdão recorrido. Incidência da Súmula n. 284/STF. Precedentes.
+5. A alegada necessidade de haver uma decisão arbitrando o valor dos honorários da fase de conhecimento não foi objeto de exame pelo Tribunal de origem, o que implica a ausência de prequestionamento dessa tese recursal, consoante a Súmula n. 211/STJ.
+6. Agravo interno a que se nega provimento.
+A  parte  embargante  sustenta que há omissão no acórdão proferido quanto ao "artigo 85, §3º, do CPC porque, independente da apresentação ou não de cálculos pelo exequente com a inclusão da referida verba fixada na ação coletiva, restou inobservada pelo juízo a quo a correta base de cálculo dos honorários da fase de cumprimento de sentença, que deve ser sobre o total do valor cobrado, que corresponde ao proveito econômico obtido" (e-STJ, fl. 234). Aduz, ainda, serem inaplicáveis ao caso as Súmulas 211/STJ e 284/STF.
+Não foi apresentada  impugnação  (e-STJ,  fls.  243 e 244).
+É  o  relatório.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL  E  ADMINISTRATIVO.  ART.  1.022  DO  CPC/2015.  OMISSÃO.  CONTRADIÇÃO.  OBSCURIDADE.  ERRO  MATERIAL  AUSÊNCIA.  MODIFICAÇÃO  DO  JULGADO.  MERO  INCONFORMISMO.  EMBARGOS  REJEITADOS.
+1.  Nos  termos  do  art.  1.022  do  C P C/2015,  os  embargos  de  declaração  têm  o  objetivo  de  introduzir  o  est ritamente  necessário  para  eliminar  a  obscuridade,  contradição  ou  suprir  a  omissão  existente  no  julgado,  além  de corrigir  erro  material,  não  permitindo  em  seu  bojo  a  rediscussão  da  matéria.
+2.  A  omissão  que  autoriza  a  oposição  dos  embargos  de  declaração  ocorre  quando  o  órgão  julgador  deixa  de  se  manifestar  sobre  algum  ponto  do  pedido  das  partes.  A  contradição,  por  sua  vez,  caracteriza-se  pela  incompatibilidade  havida  entre  a  fundamentação  e  a  parte  conclusiva  da  decisão.  Já  a  obscuridade  existe  quando  o  acórdão  não  propicia  às  partes  o  pleno  entendimento  acerca  das  razões  de  convencimento  expostos  nos  votos  sufragados  pelos  integrantes  da  turma  julgadora.
+3.  Não  constatados  os  vícios  indicados  no  art.  1.022 do CPC/2015,  devem  ser  rejeitados  os  embargos  de  declaração,  por  consistirem  em  mero  inconformismo  da  parte.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço  dos  embargos,  porquanto  presentes  os  pressupostos  de  admissibilidade.
+O  artigo  1.022  do  Código  de  Processo  Civil  dispõe  o  seguinte:
+Art.  1.022.  Cabem  embargos  de  declaração  contra  qualquer  decisão  judicial  para:
+I  -  esclarecer  obscuridade  ou  eliminar  contradição;
+II  -  suprir  omissão  de  ponto  ou  questão  sobre  o  qual  devia  se  pronunciar  o  juiz  de  ofício  ou  a  requerimento;
+III  -  corrigir  erro  material.
+Parágrafo  único.  Considera-se  omissa  a  decisão  que:
+I  -  deixe  de  se  manifestar  sobre  tese  firmada  em  julgamento  de  casos  repetitivos  ou  em  incidente  de  assunção  de  competência  aplicável  ao  caso  sob  julgamento;
+II  -  incorra  em  qualquer  das  condutas  descritas  no  art.  489,  §  1º.
+Conforme  se  depreende  do  aludido  dispositivo  legal,  os  embargos  de  declaração  não  servem  à  reforma  do  julgado  e  não  permitem  a  rediscussão  da  matéria,  pois  seu  objetivo  é  introduzir  o  estritamente  necessário  para  eliminar  obscuridade,  contradição,  erro  material  e/ou  suprimir  omissão.
+A  omissão  que  autoriza  a  oposição  dos  embargos  de  declaração  ocorre  quando  o  órgão  julgador  deixa  de  se  manifestar  sobre  algum  ponto  do  pedido  das  partes  (realizado  na  minuta  e  contraminuta  recursais).  A  contradição,  por  sua  vez,  caracteriza-se  pela  incompatibilidade  havida  entre  a  fundamentação  e  a  parte  conclusiva  da  decisão.  Já  a  obscuridade  existe  quando  o  acórdão  não  propicia  às  partes  o  pleno  entendimento  acerca  das  razões  de  convencimento  expostos  nos  votos  sufragados  pelos  integrantes  da  turma  julgadora.
+De  se  ver,  então,  serem  limitados  os  efeitos  dos  embargos  declaratórios,  servindo,  precipuamente,  à  correção  de  vícios  formais,  dos  quais  decorra  o  aprimoramento  da  decisão.
+No  caso  dos  autos,  não  se  constata  a  existência  de  vícios,  revelando-se,  em  verdade,  mero  inconformismo  da  parte  embargante,  de  forma  que  é  imperiosa  a  rejeição  dos  embargos  de  declaração.
+Com  efeito,  no  acórdão  embargado  foram  expostas  de  forma  clara  as  razões  pelas  quais  foi desprovido o  agravo  interno,  constando,  expressamente,  que  (e-STJ ,  fls. 225-227):
+Com efeito, o acórdão recorrido estabeleceu a impossibilidade de inclusão dos honorários da fase de conhecimento na base de cálculo dos honorários do cumprimento de sentença, por ausência de inclusão dos primeiros nos cálculos que instruíram a execução. Consignou-se ainda a necessidade de propositura de um novo cumprimento de sentença para a cobrança dos valores relativos aos honorários da fase de conhecimento.
+O art. 85, § 3º, do CPC, por sua vez, estabelece a forma de fixação de honorários nas causas em que a Fazenda Pública for parte, em percentuais sobre o valor da condenação ou do proveito econômico.
+Assim, no que se refere à fase cumprimento de sentença, não há qualquer respaldo, no referido dispositivo legal, para a inclusão de valores, que sequer integram a execução promovida, na base de cálculo dos honorários.
+Nesse contexto, conclui-se que o dispositivo legal apontado como violado não possui comando normativo apto a infirmar os fundamentos do acórdão recorrido.
+Logo, impõe-se a aplicação análoga da Súmula n. 284/STF (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia). (..)
+Por outro lado, a suscitada necessidade de haver uma decisão arbitrando o valor dos honorários da fase de conhecimento não foi objeto de exame pelo Tribunal de origem, o que implica a ausência de prequestionamento dessa tese recursal, consoante a Súmula n. 211/STJ (Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo).
+Destaque-se que a aplicação da Súmula 284/STF inviabiliza o conhecimento do recurso, o que, por consequência, impede a análise do mérito recursal.
+Assim,  não  há  vício  formal  no  aresto,  mas  tão  somente  pretensão  da  parte  embargante  de  rediscutir  matéria  já  decidida,  o  que  não  se  admite,  ante  a  especialidade  da  via  eleita.
+Na  forma  da  jurisprudência  do  STJ,  não  se  pode  confundir  decisão  contrária  ao  interesse  da  parte  com  ausência  de  fundamentação  ou  negativa  de  prestação  jurisdicional.
+ Nesse  sentido:  AgInt  no  AREsp  2.372.143/SP,  relatora  Ministra  Assusete  Magalhães,  Segunda  Turma,  DJe  de  21/11/2023;  EDcl  no  REsp  1.816.457/SP,  relator  Ministro  Herman  Benjamin,  Segunda  Turma,  DJe  de  18/05/2020.
+Isso  posto,  rejeito  os  embargos  de  declaração.
