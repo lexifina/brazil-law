@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto em favor de HENRIQUE PINTO SEPULVEDA LOMANTO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA.
+Depreende-se dos autos que o Recorrente é investigado pela suposta prática das condutas de estelionato e crime contra a economia popular, constando que:
+" .. segundo as investigações, teria lesado cerca de 150 (cento e cinquenta) pessoas, totalizando um valor de cerca de R$ 7.000.000,00 (sete milhões de reais), utilizando-se de uma empresa de sua propriedade, para operar um sistema conhecido como "Pirâmide Financeira", para captar as suas vítimas, as quais tratava como sendo investidores, prometendo altos rendimentos, muito maiores que os oferecidos pelas instituições financeiras" (fl. 105).
+Diante disso, o Ministério Público estadual requereu a custódia provisória do Recorrente, tendo o magistrado de primeiro grau deixado de impor a segregação e estabelecido o cumprimento de medidas cautelares.
+Posteriormente, o Parquet es tadual teria requerido novamente a prisão, ao argumento de que as medidas alternativas impostas havia sido descumpridas. Nesse sentido, com amparo na necessidade de resguardo à ordem pública, sob o argumento de que o representado não havia sido localizado, o Juízo de primeira instância decretou a segregação cautelar do Recorrente (fls. 105-108).
+Inconformada, a Defesa impetrou habeas corpus perante o Tribunal de origem. A ordem foi denegada pela Corte local, que concluiu que a prisão se encontrava devidamente justificada:
+"Vê-se, portanto, que tanto a decisão que decretou a prisão preventiva, quanto a proferida para manter a segregação cautelar do Paciente, estão baseadas em fundamentação jurídica idônea, demonstrando o efetivo preenchimento dos pressupostos e requisitos previstos no artigo 312 do Código de Processo Penal.
+Nessa senda, muito embora o Impetrante argumente que não está presente o requisito do periculum libertatis para a prisão preventiva do Paciente, o Juízo a quo salientou que houve reiteradamente o descumprimento das medidas cautelares impostas em seu desfavor, demonstrando que as medidas cautelares menos gravosas não são adequadas ou tampouco suficientes no presente caso, de maneira que se impõe a segregação cautelar do Paciente para garantir a ordem pública e a ordem econômica, bem como por conveniência da instrução criminal e para a assegurar a aplicação da lei penal.
+Neste particular, insta salientar, como já feito pela própria juíza singular na decisão guerreada, que o § 4º do art. 282 do CPP prevê que, no caso de descumprimento das medidas cautelares impostas, é cabível a decretação da prisão preventiva, senão vejamos" (fl. 240).
+Na hipótese, a Defesa alega a existência de constrangimento ilegal consubstanciado no encarceramento provisório determinado em desfavor do Recorrente, aduzindo ausência de fundamentação concreta para a segregação cautelar.
+Requer a revogação da decisão que decretou a prisão preventiva do Recorrente e, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Liminar indeferida, às fls. 324-327.
+Informações prestadas, às fls. 330-336, 340-349, 350-355 e 358-386. O Ministério Público Federal em parecer, às fls. 388-391, opinou pelo não provimento do recurso ordinário:
+"Recurso ordinário em Habeas corpus. Estelionato e crime contra a economia popular.
+- Prisão preventiva. Decisão devidamente fundamentada. Descumprimento de medidas cautelares anteriormente impostas. Ausência de constrangimento ilegal.
+- Promoção pelo não provimento do recurso" (fl. 388).
+É o relatório. DECIDO.
+In casu, a prisão preventiva do Recorrente se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerado que ele teria descumprido, reiteradamente, medidas cautelares alternativas anteriormente impostas; estando devidamente justificada a medida extrema.
+Sobre o tema:
+""O descumprimento de medida cautelar anteriormente imposta, quando da concessão da liberdade provisória, é motivo legal para a decretação da prisão preventiva. Inteligência dos artigos 312, parágrafo único e 282, § 4º, ambos do Código de Processo Penal" (HC n. 422.646/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 20/2/2018, DJe 27/2/2018). 3. No presenta caso, o paciente não foi localizado para a realização da citação, e o mandado de prisão somente foi cumprido depois de mais de 7 meses da determinação, o que evidencia o descumprimento da medida de comparecimento mensal ao Juízo e enseja a decretação da prisão preventiva para garantir a aplicação da lei penal e para a conveniência da instrução criminal" (AgRg no HC n. 604.788/SP, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 30/4/2021).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
