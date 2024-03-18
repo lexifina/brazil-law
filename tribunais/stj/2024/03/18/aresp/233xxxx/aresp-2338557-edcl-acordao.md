@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/03/2024 a 18/03/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin e Mauro Campbell Marques votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Afrânio Vilela.
+Presidiu o julgamento o Sr. Ministro Francisco Falcão.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO COM RAZÕES INTEIRAMENTE DISSOCIADAS DO ACÓRDÃO EMBARGADO. NÃO CONHECIMENTO DOS EMBARGOS.
+I - A jurisprudência do STJ firmou-se no sentido de que não se conhece dos embargos de declaração cujas razões estão dissociadas da fundamentação do julgado embargado. Nesse sentido: EDcl nos EDcl no AgInt nos EAREsp 499.066/SP, relator Ministro Og Fernandes, Corte Especial, julgado em 7/3/2018, DJe 20/3/2018; EDcl no REsp 1.575.385/ES, relator Ministro Og Fernandes, Segunda Turma, julgado em 8/5/2018, DJe 14/5/2018.
+II - Embargos de declaração não conhecidos.
+RELATÓRIO
+Interposto agravo interno, foi julgado pela Segunda Turma, conforme a seguinte ementa do acórdão:
+PROCESSUAL CIVIL. AMBIENTAL. RECURSO ESPECIAL INTEMPESTIVIDADE. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+I - Mediante análise do recurso especial, a parte recorrente foi intimada do acórdão recorrido em 3/6/2021, sendo o recurso especial interposto somente em 28/6/2021.
+II - Para a aferição da tempestividade do recurso dirigido ao STJ, é indiferente que tenha havido ou não expediente forense nesta Corte, pois o agravo e o recurso especial interpostos são endereçados ao presidente do Tribunal a quo, regendo-se o respectivo prazo, em matéria de recesso forense e feriados, pela legislação local. Nesse sentido, o AgInt nos EDcl no AREsp 1.482.882/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 14/5/2020 e o AgInt no AREsp 1.514.470/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 5/12/2019.
+III - A Corte Especial, no julgamento do AREsp 957.821, em 20/11/2017, chegou à conclusão de que, na vigência do Código de Processo Civil de 2015, não é possível a pretensão de comprovação da tempestividade após a interposição do recurso.
+IV - Recentemente, a mesma Corte Especial decidiu que a regra da impossibilidade de comprovação da tempestividade, posteriormente à interposição do recurso, não deveria ser aplicada no caso em que se trate de feriado de carnaval. O entendimento foi fixado no REsp 1.813.684/SP e, posteriormente, ratificado no julgamento da questão de ordem no mesmo recurso, quando se entendeu que a mesma interpretação não poderia ser estendida para outros feriados, que não fossem o feriado de carnaval.
+V - Assim, em se tratando de interposição de recurso em datas que não se referem ao feriado de carnaval, é aplicável a jurisprudência desta Corte no sentido já indicado acima de impossibilidade de comprovação da tempestividade após a interposição do recurso.
+VI - Agravo interno improvido.
+Foram opostos embargos de declaração.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO COM RAZÕES INTEIRAMENTE DISSOCIADAS DO ACÓRDÃO EMBARGADO. NÃO CONHECIMENTO DOS EMBARGOS.
+I - A jurisprudência do STJ firmou-se no sentido de que não se conhece dos embargos de declaração cujas razões estão dissociadas da fundamentação do julgado embargado. Nesse sentido: EDcl nos EDcl no AgInt nos EAREsp 499.066/SP, relator Ministro Og Fernandes, Corte Especial, julgado em 7/3/2018, DJe 20/3/2018; EDcl no REsp 1.575.385/ES, relator Ministro Og Fernandes, Segunda Turma, julgado em 8/5/2018, DJe 14/5/2018.
+II - Embargos de declaração não conhecidos.
+VOTO
+A jurisprudência do STJ firmou-se no sentido de que não se conhece dos embargos de declaração cujas razões estão dissociadas da fundamentação do julgado embargado. Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. VÍCIOS INEXISTENTES. REDISCUSSÃO DO DECISÓRIO PROFERIDO NOS EMBARGOS DE DIVERGÊNCIA QUE NÃO FORAM CONHECIDOS PORQUE O ARESTO PROLATADO PELA QUINTA TURMA NÃO FIRMARA QUALQUER TESE. RECURSO COM RAZÕES DISSOCIADAS. CARÁTER PROTELATÓRIO. ART. 1.026, § 2º, DO CPC/2015. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS, COM APLICAÇÃO DE MULTA.
+1. No caso, o fundamento suficiente para não conhecimento dos primeiros embargos de declaração opostos se reportou ao fato de que, longe de questionar o aresto prolatado no julgamento do agravo interno, a parte se irresignou com decisórios anteriormente prolatados na demanda.
+2. Nestes segundos embargos de declaração, a parte, novamente, repristina as alegações contidas em peças processuais anteriores e passa a defender que teria cumprido os requisitos para interposição dos embargos de divergência, o que deveria ter feito quando ingressara com o agravo interno. Não cita um vício sequer constante do aresto prolatado nos primeiros embargos de declaração, a título de contradição interna entre a fundamentação e a sua conclusão, omissão sobre aspecto acerca do qual devia ter se pronunciado, ou obscuridade.
+3. Dos argumentos trazidos nestes segundos embargos de declaração, observa-se que a parte, de forma absolutamente protelatória, pretende rediscutir o teor da decisão monocrática que não conhecera dos embargos de divergência, por ausência de similitude fático-jurídica, não sendo mais esse decisório passível de irresignação, pelo princípio da dialeticidade.
+4. A parte embargante não infirmou, em nenhum momento, os fundamentos externados no aresto, ora embargado, que se reporta aos primeiros embargos de declaração. Trata-se de caso típico de apresentação de recurso com razões totalmente dissociadas do aresto contra a qual se insurge, razão pela qual não podem ser conhecidos estes segundos embargos de declaração.
+5. A insurgência revela propósito manifestamente protelatório e a utilização indevida dos aclaratórios, justificando a incidência da sanção prevista no art. 1.026, § 2º, do CPC/2015. Precedentes: EDcl nos EDcl no AgRg no REsp 1.579.413/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 16/6/2016 e EDcl nos EDcl no AgRg no Ag 1.395.899/PR, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 22/6/2016.
+6. Embargos de declaração não conhecidos, com fixação de multa de 2% sobre o valor da causa.
+(EDcl nos EDcl no AgInt nos EAREsp 499.066/SP, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 7/3/2018, DJe 20/3/2018.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. ALEGAÇÃO DE OMISSÃO. ACLARATÓRIOS COM RAZÕES INTEIRAMENTE DISSOCIADAS DO ACÓRDÃO EMBARGADO. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. No caso, a parte embargante deixou de demonstrar a ocorrência de qualquer dos vícios descritos no art. 1.022 do CPC/2015, apresentando argumentos outros, dissociados dos fundamentos que fundamentaram a declaração de prejudicialidade do recurso especial.
+2. É que, na situação em exame, o único recurso especial foi manejado pela União, tendo sido declarada a sua prejudicialidade diante do julgamento conjunto do REsp 1.634.162/ES, descabendo aos embargantes, que sequer interpuseram apelo nobre, a suscitação de questões não aventadas. Sendo assim, os aclaratórios opostos são absolutamente divorciados da questão debatida, pois os fundamentos constantes do aresto embargado reportaram-se à declaração de prejudicialidade decorrente do julgamento conjunto do REsp 1.634.162/ES, considerando que, no aludido feito, foram englobadas todas as questões discutidas, inclusive os pontos suscitados no recurso da União, única insurgente neste processo.
+3. A jurisprudência do STJ firmou-se no sentido de que "não se conhece dos Embargos de Declaração cujas razões estão dissociadas da fundamentação do julgado embargado" (EDcl no AgRg no AREsp 671.379/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 8/9/2015). Precedentes desta Corte Superior na mesma linha: EDcl no AgRg no AREsp 709.402/MS, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 9/12/2015; EDcl no AgRg no REsp 1.464.703/SC, Rel. Ministra Diva Malerbi (Desembargadora Convocada do TRF/3ª Região), Segunda Turma, DJe 1º/3/2016.
+4. Embargos de declaração não conhecidos.
+(EDcl no REsp 1.575.385/ES, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 8/5/2018, DJe 14/5/2018.)
+Ante o exposto, não conheço dos embargos de declaração.
+É o voto.
