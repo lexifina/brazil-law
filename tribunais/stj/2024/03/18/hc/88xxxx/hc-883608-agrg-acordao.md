@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Daniela Teixeira, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. WRIT IMPETRADO MAIS DE DEZ ANOS APÓS O TRÂNSITO EM JULGADO DA CONDENAÇÃO. PRECLUSÃO TEMPORAL. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I - "A jurisprudência do Superior Tribunal de Justiça - STJ, em respeito à segurança jurídica e a lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas, ou qualquer outra falha ocorrida no acórdão impugnado, também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal" (AgRg no HC n. 690.070/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 25/10/2021).
+II - O manejo do habeas corpus muito tempo após a edição do ato atacado demanda o reconhecimento da preclusão, em respeito à coisa julgada e ao princípio da segurança jurídica. Precedentes.
+III - O acórdão impugnado transitou em julgado em 19 de dezembro de 2013 e o presente writ foi impetrado em 16 de janeiro de 2024 (fl. 03), isto é, após mais de 10 (dez) anos do trânsito em julgado.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ANDRE DE MELLO DE OLI VEIRA contra a decisão que não conheceu do habeas corpus impetrado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o agravante foi condenado pelo Juízo da 3ª Vara Criminal do Juízo da Serra, às penas de 10 (dez) anos e 04 (quatro) meses de reclusão e 1.409 (mil quatrocentos e nove) dias-multa, por infração ao artigo 33, caput, c/c artigo 40, VI, e artigo 35, c/c artigo 40, VI, ambos da Lei n. 11.343/2006, bem como no art. 180, do Código Penal, absolvendo-o das demais imputações, com fulcro no artigo 386, III, do Código de Processo Penal, nos termos da sentença de fls. 22-32.
+Interposta apelação criminal pela acusação e pela defesa, o Tribunal de origem, em 02 de dezembro de 2013, deu parcial provimento a ambos os recurso, para absolver o agravante da acusação de infração aos artigos 33, caput, 34 e 35 c/c o artigo 40, VI, todos da Lei n. 11.343/2006, com fundamento no art. 386, VII, do Código de Processo Penal, bem como para condená-lo às penas de 05 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado, e 583 (quinhentos e oitenta e três) dias-multa, por infração ao disposto no art. 33, § 1º, III, da Lei 11.343/2006, conforme o acórdão de fls. 33-41.
+A condenação transitou em julgado na sequência, em 19 de dezembro de 2013.
+No respectivo writ, impetrado nesta Corte, a defesa objetivava concessão da ordem para reconhecer o tráfico privilegiado, bem como para fixar o regime prisional inicial aberto ou o semiaberto.
+O habeas corpus não foi conhecido (fls. 59-62).
+Nas razões de recorrer, o agravante reitera os argumentos de mérito e defende que há ilegalidade flagrante, passível de ser extirpada pela via estreita do habeas corpus.
+Postula, assim, pela reconsideração da decisão, ou que o presente agravo seja submetido à apreciação do Colegiado, pugnando pelo seu conhecimento e total provimento, de modo que seja reconhecida a causa de diminuição de pena prevista no artigo 33, § 4º, da Lei n. 11.343/2006, com a substituição da pena corpórea por restritivas de direitos, e subsidiariamente, a fixação do regime prisional intermediário (fls. 67-71).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. WRIT IMPETRADO MAIS DE DEZ ANOS APÓS O TRÂNSITO EM JULGADO DA CONDENAÇÃO. PRECLUSÃO TEMPORAL. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I - "A jurisprudência do Superior Tribunal de Justiça - STJ, em respeito à segurança jurídica e a lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas, ou qualquer outra falha ocorrida no acórdão impugnado, também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal" (AgRg no HC n. 690.070/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 25/10/2021).
+II - O manejo do habeas corpus muito tempo após a edição do ato atacado demanda o reconhecimento da preclusão, em respeito à coisa julgada e ao princípio da segurança jurídica. Precedentes.
+III - O acórdão impugnado transitou em julgado em 19 de dezembro de 2013 e o presente writ foi impetrado em 16 de janeiro de 2024 (fl. 03), isto é, após mais de 10 (dez) anos do trânsito em julgado.
+Agravo regimental desprovido.
+VOTO
+Como relatado, o agravante sustenta a existência de ilegalidade flagrante, consistente no não conhecimento do habeas corpus. Argumenta que não há óbice ao reconhecimento da causa de diminuição de pena prevista no artigo 33, § 4º, da Lei 11.343/2006, com a consequente substituição da pena corpórea por restritiva de direitos e fixação de regime inicial menos gravoso.
+Assinalo que o acórdão impugnado transitou em julgado em 19 de dezembro de 2013 e o presente writ foi impetrado em 16 de janeiro de 2024 (fl. 03), isto é, após mais de 10 (dez) anos do trânsito em julgado.
+Importante frisar que o Superior Tribunal de Justiça possui entendimento no sentido de que de que o manejo do habeas corpus, muito tempo após a edição do ato atacado, demanda o reconhecimento da preclusão, em respeito à coisa julgada e ao princípio da segurança jurídica.
+"Com efeito, a jurisprudência do Superior Tribunal de Justiça - STJ, em respeito à segurança jurídica e a lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas, ou qualquer outra falha ocorrida no acórdão impugnado, também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal" (AgRg no HC n. 690.070/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 25/10/2021).
+Nesse sentido:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ROUBO MAJORADO. TRÂNSITO EM JULGADO DA CONDENAÇÃO. PRECLUSÃO. RECONHECIMENTO. AUSÊNCIA DE ILEGALIDADE MANIFESTA. AGRAVO REGIMENTAL DESPROVIDO. 1. A decisão agravada deve ser mantida por seus próprios fundamentos.
+2. "Este Superior Tribunal de Justiça possui entendimento de que o manejo do habeas corpus muito tempo após a edição do ato atacado demanda o reconhecimento da preclusão, não havendo se falar, portanto, em ilegalidade manifesta. Na hipótese em exame, a sentença atacada no Tribunal de origem por meio do mandamus originário transitou em julgado em 21 de agosto de 2017, sem que a defesa tenha interposto apelação, recurso apropriado, nos termos do art. 416 do CPP, vindo o recorrente, após passados 3 anos, alegar a ocorrência de constrangimento ilegal" (RHC 97.329/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 14/9/2020).
+3. Na hipótese, a sentença condenatória foi proferida em 1º de fevereiro de 2016. O Tribunal de origem, por sua vez, julgou a apelação em exame no dia 28 de abril de 2017, sendo que somente no dia 15 de dezembro de 2021 foi impetrado o presente habeas corpus. Desse modo, o mandamus não pode ser conhecido em decorrência da preclusão da matéria, uma vez que transcorridos mais de quatro anos desde o trânsito em julgado da condenação, devendo ser observada a coisa julgada e o princípio da segurança jurídica. Precedentes.
+4. Agravo regimental desprovido" (STJ - AgRg no HC n. 713.708/SP Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 04/04/2022, grifei).
+Assim, a decisão monocrática deve ser mantida pelos seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
