@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/03/2024 a 18/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. USO INDEVIDO DE VAGA ESPECIAL. RAZÕES RECURSAIS DISSOCIADAS. INCIDÊNCIA DA SÚMULA 284/STF. DANO MORAL COLETIVO NÃO RECONHECIDO. REFORMA DO ACÓRDÃO RECORRIDO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. É inadmissível o recurso especial que apresente razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência, por analogia, da Súmula 284 do Supremo Tribunal Federal (STF).
+2. A reforma do acórdão recorrido, para concluir que houve o alegado dano moral coletivo, demandaria o reexame de fatos e provas, prática vedada pela Súmula 7 do Superior Tribunal de Justiça (STJ).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO contra a decisão da Presidência do STJ de fls. 429/432 .
+A parte agravante alega, em suma, que: (a) impugnou toda a fundamentação do acórdão recorrido, apresentando razões recursais aptas à sua reforma, demonstrando a ocorrência de dano moral coletivo; (b) não é caso de incidência da Súmula 7/STJ, pois o acolhimento da pretensão recursal demanda a análise de matéria de direito e a revaloração do acervo probatório.
+Requer a reconsideração da decisão agravada ou a apresentação do feito ao órgão colegiado julgador.
+A parte adversa não apresentou impugnação (fl. 453).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. USO INDEVIDO DE VAGA ESPECIAL. RAZÕES RECURSAIS DISSOCIADAS. INCIDÊNCIA DA SÚMULA 284/STF. DANO MORAL COLETIVO NÃO RECONHECIDO. REFORMA DO ACÓRDÃO RECORRIDO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. É inadmissível o recurso especial que apresente razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência, por analogia, da Súmula 284 do Supremo Tribunal Federal (STF).
+2. A reforma do acórdão recorrido, para concluir que houve o alegado dano moral coletivo, demandaria o reexame de fatos e provas, prática vedada pela Súmula 7 do Superior Tribunal de Justiça (STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+Não obstante as alegações da parte agravante, razão não lhe assiste.
+A parte interpôs recurso especial com base na violação do art. 1º, caput, IV, da Lei 7.347/1985, defendendo, em síntese, que deve ser reconhecido o dano moral coletivo em razão da conduta da ora agravada de estacionar o seu veículo de maneira indevida em vaga sinalizada como de uso exclusivo de pessoa portadora de deficiência ou idosa.
+O Tribunal de origem entendeu que a conduta de estacionar em vaga especial, por si só, não é capaz de gerar repercussão social suficiente a configurar dano moral difuso. Além disso, asseverou que, "nos termos propostos pelo autor, seria o conjunto de ações praticadas pelos cidadãos do Município de Ribeirão Preto, no que tange ao uso indevido de vaga reservada a pessoa idosa ou com deficiência, em infração à legislação de trânsito, que constituiria a aventada ofensa a valores sociais, e não a conduta isolada da ré" (fl. 340).
+O Superior Tribunal de Justiça já se manifestou no sentido de ser inadmissível o recurso especial que apresente razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido; como se viu, é o caso dos autos. Por essa razão, incide na hipótese, por analogia, o enunciado 284 da Súmula do Supremo Tribunal Federal (STF), que estabelece: "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". A propósito, cito os seguintes julgados desta Corte Superior, naquilo que interessa:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL  .. . RAZÕES RECURSAIS DISSOCIADAS DO JULGADO. SÚMULA 284/STF.
+ ..
+3. É inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+ ..
+7. Agravo interno conhecido parcialmente para, na parte conhecida, negar-se-lhe provimento. (AgInt nos EDcl no AREsp n. 1.700.429/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/4/2021, DJe de 29/4/2021 - sem destaques no original.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONVÊNIO. MODERNIZAÇÃO DA GUARDA MUNICIPAL. EXECUÇÃO. NÃO COMPROVAÇÃO. RESSARCIMENTO. MUNICÍPIO. INTIMAÇÃO ELETRÔNICA DA SENTENÇA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO. APLICAÇÃO DA SÚMULA N. 284 DO STF.
+ ..
+III - A jurisprudência do Superior Tribunal de Justiça, é firme no sentido de que se o recorrente apresenta razões dissociadas dos fundamentos adotados pelo acórdão recorrido, o recurso especial é deficiente na sua fundamentação, o que atrai a aplicação por analogia da Súmula n. 284 do STF.
+ ..
+VIII - Agravo interno improvido. (AgInt no REsp n. 1.806.873/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 23/11/2020, DJe de 25/11/2020 - sem destaques no original.)
+Ainda que assim não fosse, conforme salientado na decisão agravada, a reforma do acórdão recorrido, para se concluir que houve o alegado dano moral coletivo, demandaria o reexame de fatos e provas, prática vedada pela Súmula 7/STJ.
+Nesse sentido, cito os seguintes julgados deste Tribunal:
+PROCESSUAL CIVIL E ADMINISTRATIVO. TRANSPORTE PÚBLICO. FALHA NA PRESTAÇÃO DO SERVIÇO. DANOS MORAIS COLETIVOS. CONSTATAÇÃO. MATÉRIA DE PROVA. REEXAME. IMPOSSIBILIDADE.
+1. A Corte de origem manteve a condenação da parte recorrente ao pagamento de indenização por danos morais coletivos decorrentes da inadequada prestação do serviço de transporte coletivo, por reconhecer que "a conduta do Apelante acarretou danos que ultrapassaram a esfera patrimonial, afetando a dignidade dos consumidores, razão por que deve ressarci-los."
+2. Revisitar a conclusão do aresto impugnado para admitir que a falha identificada não enseja a indenização postulada a título de danos morais coletivos reclama imperiosa incursão no conjunto fático-probatório, o que é inadmissível na via estreita do recurso especial, ante o óbice da Súmula 7 do STJ. Precedentes.
+3. Agravo interno desprovido. (AgInt no AREsp n. 2.155.273/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/3/2023, DJe de 15/3/2023.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. VAGA DESTINADA A IDOSO E PORTADORES DE NECESSIDADES ESPECIAIS. ESTACIONAMENTO IRREGULAR. ALEGADA VIOLAÇÃO AO ART. 1º, CAPUT E IV, DA LEI 7.347/85. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ART. 1.025 DO CPC/2015. INAPLICABILIDADE, NO CASO. DANO MORAL COLETIVO NÃO CARACTERIZADO. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Agravo em Recurso Especial interposto contra decisum publicado na vigência do CPC/2015.
+II. Trata-se, na origem, de Ação Civil Pública ajuizada pelo Ministério Público do Estado de São Paulo, em desfavor da parte ora agravada, com o objetivo de que haja sua condenação ao pagamento de indenização por dano moral coletivo, em valor não inferior a R$4.000,00 (quatro mil reais), sob o fundamento de que a parte ré estacionou seu veículo em vaga reservada a idoso ou portador de necessidades especiais. O Tribunal de origem manteve a sentença, que julgara improcedente a demanda.
+III. Não tendo o acórdão hostilizado expendido juízo de valor sobre o art. 1º, caput e IV, da Lei 7.347/85, a pretensão recursal esbarra em vício formal intransponível, qual seja, o da ausência de prequestionamento - requisito viabilizador da abertura desta instância especial -, atraindo o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"), na espécie.
+IV. Para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto.
+V. O Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que, "ao motorista infrator, contra o qual sequer é deduzida a reiteração infracional, não pode ser imputada a responsabilidade pela situação de desobediência generalizada das regras de trânsito, nem mesmo tendo em vista o específico interesse na tutela de direitos dos idosos. Não há adequação na relação de causalidade e nem relevância no comportamento infracional de trânsito, do que se extrai a inexistência de ilícito a justificar a pretensão de responsabilização civil". Tal entendimento, firmado pelo Tribunal a quo, no sentido de que não restou caracterizado o dano moral coletivo, não pode ser revisto, pelo Superior Tribunal de Justiça, por exigir o reexame da matéria fático-probatória dos autos. Precedentes do STJ.
+VI. Agravo interno improvido. (AgInt no AREsp n. 1.944.103/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 29/8/2022, DJe de 1º/9/2022.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
