@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de AMANDA CRISTINA BERNARDES contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO na Apelação Criminal n. 1500185-04.2022.8.26.0483.
+Consta que a Paciente e a Corré foram condenadas, em primeiro grau, às penas de 6 (seis) anos, 9 (nove) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, e 680 (seiscentos e oitenta) dias-multa, pela prática do crime previsto no art. 33, caput, c.c. o art. 40, incisos III e V, ambos da Lei n. 11.343/2006, pois "traziam consigo, para fins de tráfico, 51 tijolos de maconha, com peso aproximado de 48,180kg, além de 01 pacote de skunk, com peso aproximado de 760g" (fl. 27).
+O Tribunal de origem negou provimento ao recurso de apelação defensivo.
+Neste writ, a Impetrante sustenta, em síntese, a ausência de fundamentação idônea para o afastamento da causa de diminuição de pena prevista no art. 33, § 4.º, da Lei de Drogas, na dosimetria da pena da Paciente, bem como para a fixação do regime inicial mais gravoso.
+Requer seja (fl. 13):
+" ..  concedida a liminar, determinando o imediato redimensionamento da pena, em consonância com o redutor previsto no § 4º, artigo 33, da Lei 11.343/2006, bem como suas consequências legais, fixando regime menos gravoso para o cumprimento de eventual pena privativa de liberdade, de modo a transferir a paciente para regime aberto para o cumprimento provisório de pena.
+De maneira subsidiária, não entendendo pela aplicação do privilégio, requer-se ao menos a modificação para o regime semiaberto  já que a pena imposta na condenação foi de 06 anos 09 meses e 20 dias ausentes circunstâncias judiciais desfavoráveis."
+À fl. 37, a Paciente, representada pelo Dr. Jorge Luís Galli, requereu "o não conhecimento do presente Writ, ante a ausência de autorização da própria paciente, prosseguindo-se nos autos do Habeas Corpus nº 891.006" (fl. 37).
+É o relatório. Decido.
+Observo que as alegações suscitadas neste writ já foram por mim apreciadas no HC n. 891.006/SP, impetrado em favor da Paciente e da Corré, conforme decisão ementada nos seguintes termos:
+"HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS. DOSIMETRIA. AFASTAMENTO DA CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4.º, DA LEI N. 11.343/2006. VERIFICADO INDEVIDO BIS IN IDEM. CONDIÇÃO DE MULA. CABÍVEL A INCIDÊNCIA DA MINORANTE NA FRAÇÃO MÍNIMA. PRECEDENTES. EXISTÊNCIA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MANTIDO O REGIME INICIAL MAIS GRAVOSO E A NEGATIVA DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. ORDEM PARCIALMENTE CONCEDIDA."
+Portanto, a presente insurgência está prejudicada, em razão da superveniente apreciação das teses nos autos do HC n. 891.006/SP, impetrado pela defesa técnica constituída pela Paciente.
+Vale consignar que, conforme já decidiu o Supremo Tribunal Federal, "  c onsiderando as peculiaridades do caso concreto, não é cabível o manejo da via do habeas corpus por terceiro, mormente se considerado que há defesa técnica constituída e atuante em favor do paciente. Compreensão diversa, além de possibilitar eventual desvio de finalidade do writ constitucional, poderia propiciar o atropelo da estratégia defensiva, consequência que não se compatibiliza com a protetiva destinação constitucional do remédio processual" (HC 159995 AgR, Relator EDSON FACHIN, Segunda Turma, julgado em 24-04-2019, PROCESSO ELETRÔNICO DJe-091 DIVULG 02-05-2019 PUBLIC 03-05-2019).
+Ante o exposto, JULGO PREJUDICADO o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. SUPERVENIENTE EXAME DA PRETENSÃO NOS AUTOS DO HC N. 891.006/SP, IMPETRADO PELA DEFESA CONSTITUÍDA PELA PACIENTE. PREJUDICIALIDADE DAS ALEGAÇÕES. ORDEM PREJUDICADA.
