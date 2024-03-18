@@ -1,0 +1,10 @@
+DECISÃO
+HIAGO DOUGLAS DE ANDRADE alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Goiás na Apelação Criminal n. 0040616-58.2017.8.09.0175.
+Consta dos autos que o paciente foi condenado à pena de 4 anos e 2 meses de reclusão, em regime inicial fechado, mais multa, pela prática do crime de associação para o tráfico de drogas.
+A defesa pleiteia, por meio deste writ, a fixação do regime inicial semiaberto, com amparo na Súmula n. 269 do STJ.
+Decido.
+De plano, verifico que o Tribunal de origem não analisou a tese defensiva, uma vez que o acusado não questionou a pena imposta e o regime prisional na apelação, mas apenas a isenção de custas processuais (fl. 31), o que impede a sua apreciação diretamente por esta Corte Superior de Justiça, sob pena de, se assim o fizer, incidir em indevida supressão de instância.
+Ilustrativamente: "Evidenciado que os temas levantados não foram objeto de debate e decisão por parte de órgão colegiado do Tribunal de origem, sobressai a incompetência desta Corte para o exame das matérias, sob pena de indevida supressão de instância" (HC n. 164.785/MS, Rel. Ministro Gilson Dipp, 5ª T., DJe 8/6/2011).
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
