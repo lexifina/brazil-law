@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Seção, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), Sebastião Reis Júnior, Reynaldo Soares da Fonseca, Joel Ilan Paciornik e Messod Azulay Neto e Teodoro Silva Santos votaram com a Sra. Ministra Relatora.
+Ausentes, justificadamente, os Srs. Ministros Rogerio Schietti Cruz e Ribeiro Dantas.
+Presidiu o julgamento o Sr. Ministro Antonio Saldanha Palheiro.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. art 1.043, § 4º, do Código de Processo Civil de 2015 e no art. 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça. INSTRUÇÃO COMPLETA. CERTIDÕES DE JULGAMENTO. NECESSIDADE. parágrafo único do art. 932 da Lei n. 13.105/2015. INAPLICABILIDADE. AGRAVO REGIMENTAL NÃO proviDO.
+1. "No que diz respeito à cópia do "inteiro teor" dos acórdãos apon tados como paradigmas, a jurisprudência da Corte Especial considera que tal documento compreende o relatório, o voto, a ementa/acórdão e a respectiva certidão de julgamento" (AgInt nos EREsp n. 1.903.273/PR, Corte Especial, Rel. Min. Luis Felipe Salomão, DJe de 16/05/2022 e AgInt nos EAREsp n. 1.858.416/RJ, Corte Especial, Relª. Minª. Laurita Vaz, DJe de 29/8/2023).
+2. A juntada da ementa e voto na íntegra não supre a necessidade de juntada da certidão de julgamento, documento fundamental à aferição temporal dos requisitos formais de julgamento dos Embargos de Divergência.
+3. "Conforme pacífica orientação desta Corte, a ausência de juntada da certidão de julgamento no momento da interposição dos embargos de divergência constitui vício insanável, não se aplicando o art. 932, parágrafo único, do Código de Processo Civil. " (AgRg nos EREsp 1991582 / MG; RELATOR Ministro ANTONIO SALDANHA PALHEIRO, ÓRGÃO JULGADOR TERCEIRA SEÇÃO, DATA DO JULGAMENTO 28/09/2022, DATA DA PUBLICAÇÃO/FONTE DJe 11/11/2022)
+4. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental contra decisão que não conheceu dos Embargos de Divergência.
+A defesa requer a reconsideração da decisão agravada ou o provimento de seu recurso.
+O Ministério Público apresentou contrarrazões, requerendo o não conhecimento ou o desprovimento do agravo.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. art 1.043, § 4º, do Código de Processo Civil de 2015 e no art. 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça. INSTRUÇÃO COMPLETA. CERTIDÕES DE JULGAMENTO. NECESSIDADE. parágrafo único do art. 932 da Lei n. 13.105/2015. INAPLICABILIDADE. AGRAVO REGIMENTAL NÃO proviDO.
+1. "No que diz respeito à cópia do "inteiro teor" dos acórdãos apon tados como paradigmas, a jurisprudência da Corte Especial considera que tal documento compreende o relatório, o voto, a ementa/acórdão e a respectiva certidão de julgamento" (AgInt nos EREsp n. 1.903.273/PR, Corte Especial, Rel. Min. Luis Felipe Salomão, DJe de 16/05/2022 e AgInt nos EAREsp n. 1.858.416/RJ, Corte Especial, Relª. Minª. Laurita Vaz, DJe de 29/8/2023).
+2. A juntada da ementa e voto na íntegra não supre a necessidade de juntada da certidão de julgamento, documento fundamental à aferição temporal dos requisitos formais de julgamento dos Embargos de Divergência.
+3. "Conforme pacífica orientação desta Corte, a ausência de juntada da certidão de julgamento no momento da interposição dos embargos de divergência constitui vício insanável, não se aplicando o art. 932, parágrafo único, do Código de Processo Civil. " (AgRg nos EREsp 1991582 / MG; RELATOR Ministro ANTONIO SALDANHA PALHEIRO, ÓRGÃO JULGADOR TERCEIRA SEÇÃO, DATA DO JULGAMENTO 28/09/2022, DATA DA PUBLICAÇÃO/FONTE DJe 11/11/2022)
+4. Agravo regimental não provido.
+VOTO
+O agravo regimental é tempestivo.
+No entanto, não constato elementos suficientes para reconsiderar o julgamento monocrático, ou prover o presente recurso, uma vez que a decisão agravada assim dispôs:
+"Na hipótese dos autos, o embargante não trouxe o inteiro teor do acórdão paradigma, uma vez que está ausente a certidão/termo de julgamento. Dessa forma, deixou de cumprir regra técnica do presente recurso, o que constitui vício substancial insanável. A propósito: Agint no EAREsp 1416975/SP, Rel. Ministro Jorge Mussi, Corte Especial, DJe 16.08.2021 e Agint nos EDv nos EREsp 1784262/RJ, Rel. Ministro Sérgio Kukina, 1a Seção, DJe 20.08.2021.
+(..)
+Com efeito, a mera menção ao Diário da Justiça em que teriam sido publicados os acórdãos paradigmas trazidos à colação, sem a indicação da respectiva fonte, quando os julgados encontram-se disponíveis na rede mundial de computadores ou Internet, não supre a exigência da citação do repositório oficial ou autorizado de jurisprudência, visto que se trata de órgão de divulgação em que é publicada somente a ementa do acórdão. No mesmo sentido: AgRg nos EAREsp n. 1.399.185/SP, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 24/5/2023, DJe de 26/5/2023. Ademais, ressalte-se que a hipótese dos autos não atrai a incidência do parágrafo único do art. 932 da Lei n. 13.105/2015, uma vez que, nos termos do Enunciado Normativo n. 6: Nos recursos tempestivos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), somente será concedido o prazo previsto no art. 932, parágrafo único c/c o art. 1.029, § 3º, do novo CPC para que a parte sane vício estritamente formal." (e-STJ Fl. 705/706).
+De fato, é remansosa a jurisprudência desta Corte no sentido de que "No que diz respeito à cópia do "inteiro teor" dos acórdãos apontados como paradigmas, a jurisprudência da Corte Especial considera que tal documento compreende o relatório, o voto, a ementa/acórdão e a respectiva certidão de julgamento" (AgInt nos EREsp n. 1.903.273/PR, Corte Especial, Rel. Min. Luis Felipe Salomão, DJe de 16/05/2022 e AgInt nos EAREsp n. 1.858.416/RJ, Corte Especial, Relª. Minª. Laurita Vaz, DJe de 29/8/2023).
+Além disso, ainda na esteira da jurisprudência desta corte, "(..) a ausência de juntada da certidão de julgamento no momento da interposição dos embargos de divergência constitui vício insanável, não se aplicando o art. 932, parágrafo único, do Código de Processo Civil. " (AgRg nos EREsp 1991582 / MG; RELATOR Ministro ANTONIO SALDANHA PALHEIRO, ÓRGÃO JULGADOR TERCEIRA SEÇÃO, DATA DO JULGAMENTO 28/09/2022, DATA DA PUBLICAÇÃO/FONTE DJe 11/11/2022).
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
