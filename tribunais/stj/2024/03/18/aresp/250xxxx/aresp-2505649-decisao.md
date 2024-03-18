@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo interposto por PRINCESA DO AGRESTE VIAGENS E TURISMO LTDA, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de PRINCESA DO AGRESTE VIAGENS E TURISMO LTDA, o recurso especial não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento, diante do pedido de gratuidade de justiça realizado às fls. 643/664.
+A parte foi intimada para comprovar a hipossuficiência econômica ou recolher as custas, nos termos da decisão de fls. 711/712. No caso, juntou documentação às fls. 715/757, porém fora do prazo concedido (fl. 760). Veja que intimada para regularizar o preparo em 6/10/2021 (fl. 713), a parte só se manifestou em 19/10/2021 (fls. 715/717).
+Desse modo, o tribunal de justiça julgou deserto o recurso especial.
+Todavia, tendo em vista pedido de gratuidade de justiça feito na petição de recurso especial, o T ribunal a quo, nos termos do art. 99, § 2º do CPC deve intimar à parte para comprovar a hipossuficiência, e só após, indeferida a gratuidade, se for o caso, abrir prazo para a regularização do preparo em observância ao disposto no art. 99, § 7º e art. 101, § 2º, do CPC.
+Assim, o tribunal de origem, ao ser apresentada a comprovação fora do prazo, deveria ter indeferido a gratuidade e então aberto prazo para regularizar as custas. Como isso não ocorreu, esta Corte deu nova oportunidade de regularização, conforme despacho proferido à fl. 801. Porém, a parte quedou-se inerte (fl. 805).
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Além disso, a parte recorrente foi intimada da decisão agravada em 05/04/2022, sendo o agravo somente interposto em 23/05/2022.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+Cumpre esclarecer que "o prazo em dobro previsto no art. 229 do NCPC, correspondente ao art. 191 do CPC/73, não se aplica para o agravo interposto contra a decisão que nega seguimento a recurso especial, mesmo que haja litisconsortes com procuradores diversos, porquanto somente o autor dessa irresignação possuirá interesse e legitimidade para recorrer". (AgInt no AREsp 1382406/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 10/4/2019).
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
+ EMENTA
