@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/03/2024 a 18/03/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a nor ma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Cuida-se de embargos de declaração opostos por Lotaxi Transportes Urbanos Ltda. desafiando acórdão assim ementado (fl. 321):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURADA. ACÓRDÃO DO TRIBUNAL DE ORIGEM ANCORADO NO SUBSTRATO FÁTICOPROBATÓRIO DO FEITO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Na origem, cuida-se de agravo de instrumento interposto pela parte ora agravante, com o fim de reformar decisão de piso que, em sede de liquidação de sentença, homologou os cálculos concernentes aos valores devidos à exequente a título de indenização pelos danos morais sofridos em acidente que envolveu veículo da agravante.
+2. A alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+A parte embargante aponta omissão no acórdão embargado ao argumento de que não foram apreciados os argumentos concernentes à ofensa ao art. 535 do CPC/73, perpetrada pelo Tribunal de origem, especialmente no que diz respeito aos critérios de apuração dos juros de mora. Aduz, ainda, que "o acórdão recorrido afronta os artigos acima quando fixa o termo inicial dos juros desde sempre, já que os juros devem incidir apenas quando da liquidação do valor indenizatório" (fl. 341). Por fim, discorre sobre os parâmetros que entende aplicáveis na fixação dos juros de mora.
+Requer o acolhimento dos embargos de declaração para que seja sanado o vício apontado e, emprestando-lhes efeitos modificativos, seja provido o recurso especial.
+A parte embargada não apresentou impugnação (fl. 346).
+É o relatório.
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a nor ma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Não prospera a irresignação da parte embargante.
+De acordo com o estatuído no art. 1022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do acórdão atacado e, ainda, para correção de erro material. Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão, pois o aresto embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficou consignada no decisório colegiado embargado a ausência de afronta ao art. 535 do CPC/73, porquanto o Tribunal de origem apreciou o tema relacionado aos juros de mora. Confira-se, quanto ao ponto, trecho da fundamentação do acórdão ora embargado (fl. 325/326):
+No apelo nobre, a parte agravante apontou omissão em relação à "coisa julgada, juros de mora, não comprovação dos lucros cessantes como exigido pela sentença exequenda" (fl. 262);
+Ocorre que a Corte local enfrentou os referidos temas, nestes termos (fls. 158/162):
+De início, impende ressaltar que o recurso não pode ser conhecido no que concerne à matéria relativa aos lucros cessantes e ao termo inicial dos juros de mora. Com efeito, em consulta ao andamento processual dos autos principais no sítio eletrônico deste Tribunal, verifica-se que tais questões já foram dirimidas pelo MM. Juiz a quo na decisão prolatada no dia 26/02/14, disponibilizada no DJe de 06/03/14, nos seguintes termos: Em relação a impugnação apresentada pela parte requerida, cumpre-se destacar que o feito se desenvolve com o intuito de promover a satisfação do julgado, não sendo lícita a inclusão de novos fatos ou argumentos que deveriam ter sido aduzidos na fase de conhecimento (art. 474 do CPC).
+O título exeqüendo, no tocante aos lucros cessantes, possui o seguinte comando: "a pagar lucros cessantes de 18 de agosto de 1990 até a data de sua aposentadoria,- ou seja, em25/09/95". - O título não faz menção a equivaler a diferença entre a remuneração recebida pela autora.
+Entretanto, a parte credora optou com manter a coerência entre a alegação aduzida na inicial, nesta fase de cumprimento de sentença, porquanto afirmou na peça de ingresso que: "a partir de 18 de agosto de 1990, teve reduzida pela metade a sua carga horária (Doc. XXII), sendo certo, ainda, que em 28/07/93foi forçada a abandonar inteiramente sua função de professora" na referida instituição de ensino em decorrência de licença médica (Doc. XXIi1), sucedendo, em 25/09/95, sua aposentadoria precoce por invalidez em conseqüência da lesão (Doc. XXIV)." (fls. 04/05).
+Este tema foi abordado no voto do egrégio TJDFT e reconhecida a possibilidade de cobrança dos lucros cessantes nos termos acima aventados.
+O ofício de fl. 469/471 é claro o suficiente para permitir a feitura dos cálculos e compreender a possibilidade de satisfação da metade da verba salarial entre 18.08.1990 a 28.07.1993 e da integralidade entre 28.07.1993 a 25.09.1995. Portanto, mostra-se devido os valores equivalentes a 50% no período de 18.08.1990 a 28.07.1993, conforme tabela abaixo:
+ ..
+No tocante aos critérios de incidência de encargos de mora sobre os valores devidos a título de lucros cessantes, não vejo como acolher o questionamento apresentado pelo requerido, pois no que atine à incidência da correção monetária, é entendimento pacificado que correção monetária não se constitui em "plus", mas em mera reposição do valor real da moeda, podendo incluir-se na condenação, independentemente de pedido expresso neste sentido (RESP 284157/AL, DJ02.04.2001, Min. Sálvio de Figueiredo Teixeira). Entendimento contrário, redunda em manifesto enriquecimento, em detrimento patrimonial da credora. Em relação aos juros de mora, estes são devidos a partir da constituição em mora do requerido, ou seja, a partir da citação válida no processo de conhecimento (art. 219 do CPC) e não há fundamento para a retardar a sua incidência a partir da liquidação do julgado, seja por ausência de previsão legal, seja para evitar que os mecanismos recursais sejam utilizados para procrastinar a correção do débito.
+Em seguida, o andamento processual revela que a ora agravante apresentou agravo retido. Verifica-se, portanto, que tais matérias se encontram acobertadas pela preclusão, tanto temporal como consumativa e, portanto, em relação a tais temas o vertente recurso não merece ser conhecido.
+E acrescentou (fl. 162):
+Há de se ressaltar que os cálculos homologados pela decisão agravada foram elaborados nos termos da decisão supra, consoante inclusive indicado no cabeçalho do quadro-resumo do cálculo acostado à fl. 108 (fl. 540 dos autos originais), que, como visto acima, determinou a possibilidade de realização dos cálculos, em virtude da coerência da argumentação da credora quanto aos valores que deixou de receber, da coisa julgada acerca da matéria e da possibilidade de realização dos cálculos a partir de oficio enviado pelo órgão empregador da credora, o que afastaria a necessidade da fase de liquidação e permitiria a imediata incidência dos juros de mora, devidos a partir da citação válida na fase de conhecimento.
+Uma vez que a devedora, ora agravante, elegeu a via do agravo retido para impugnar tais parâmetros, inafastável a preclusão consumativa e temporal a acobertar tais matérias, sendo certo ainda que, pelo princípio da unirrecorribilidade, unicidade ou singularidade, a mesma decisão não pode ser objeto de mais de um recurso.
+Não se constata, pois, a afirmada omissão.
+Ora, não podem ser acolhidos embargos declaratórios em que nem sequer foi apontado eventual vício do aresto embargado, traduzindo, na verdade, inconformismo com o decisum tomado, pretendendo rediscutir o que já foi decidido.
+Nesse panorama, inexistente qualquer erro material, obscuridade, contradição ou omissão no julgado embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+A propósito, destacam-se os seguintes julgados:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES JÁ RESOLVIDAS NA DECISÃO EMBARGADA. MERO INCONFORMISMO. PRETENSÃO DE EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Revelam-se improcedentes os embargos declaratórios em que a questão levantada não configura hipótese de cabimento do recurso - omissão, contradição ou obscuridade -, delineadas no art. 535 do CPC.
+2. A remessa dos autos para julgamento do recurso extraordinário no Supremo Tribunal Federal é decorrência lógica da regra insculpida no art. 543, §1º do CPC.
+3. Inexistir qualquer fundamento relevante que justifique a oposição dos presentes embargos ou que venha infirmar as razões contidas na decisão embargada.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp n. 1.471. 797/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 25/11/2014, DJe 2/12/2014.)
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. OMISSÃO NÃO DEMONSTRADA. PRETENSÃO DE REDISCUTIR QUESTÕES DEVIDAMENTE EXAMINADAS E DECIDAS NA DECISÃO EMBARGADA. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 535, incisos I e II, do Código de Processo Civil, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado.
+2. A obtenção de efeitos infringentes, como pretende a Embargante, somente é possível, excepcionalmente, nos casos em que, reconhecida a existência de um dos defeitos elencados nos incisos do mencionado art. 535, a alteração do julgado seja consequência inarredável da correção do referido vício; bem como nas hipóteses de erro material ou equívoco manifesto, que, por si sós, sejam suficientes para a inversão do julgado. Precedentes.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos aclaratórios.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no REsp n. 993.078/SP, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 17/9/2014, DJe 10/10/2014.)
+ANTE O EXPOSTO, rejeitam-se os embarg os declaratórios.
+É o voto.
