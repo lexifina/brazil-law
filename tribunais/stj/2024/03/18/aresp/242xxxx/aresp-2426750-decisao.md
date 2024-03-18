@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto por NASSAL NASCIMENTO E SALES CONSTRUÇÃO LTDA. - EM RECUPERAÇÃO JUDICIAL contra a decisão que inadmitiu o recurso especial.
+O apelo extremo fundamentado no art. 105, inciso III, alíneas "a", da Constituição Federal desafia o acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe assim ementado:
+"APELAÇÕES CÍVEIS DA CONSTRUTORA E DO BANCO FINANCIADOR - CONSUMIDOR - AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS COM PEDIDO DE ANTECIPAÇÃO DE TUTELA DE URGÊNCIA - PRELIMINAR DE ILEGITIMIDADE PASSIVA ARGUIDA PELO BANCO RÉU QUE FICA REJEITADA - PARTES REQUERIDAS QUE SÃO SOLIDARIAMENTE RESPONSÁVEIS, PERANTE A PARTE AUTORA, PELA BAIXA NA HIPOTECA GRAVADA NO REGISTRO DO IMÓVEL POR ELA ADQUIRIDO E JÁ QUITADO APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR - MÉRITO GRAVAME - HIPOTECÁRIO - CONTRATO DE COMPRA E VENDA IMÓVEL GRAVADO DE POR HIPOTECA - PROVA DE QUITAÇÃO DA DÍVIDA - OBRIGAÇÃO FAZER DE CONSISTENTE NA RETIRADA DO GRAVAME HIPOTECÁRIO AMPARADA NOS TERMOS CONTRATUAIS - DANO MORAL CONFIGURADO - ATRASO INJUSTIFICADO NA LIBERAÇÃO DO ÔNUS HIPOTECÁRIO APÓS A QUITA ÇÃO INTEGRAL DAS PRESTAÇÕES DEVIDAS - QUANTUM INDENIZATÓ RIO - REDU ÇÃ O DO IMPORTE INDENIZAT Ó RIO FIXADO PELO JU Í ZO DE ORIGEM EM R$ 5.000,00 (CINCO MIL REAIS) PARA R$ 4.000,00 (QUATRO MIL REAIS) - ASSUNÇÃO PELA CONSTRUTORA DA OBRIGAÇÃ O DE PAGAR O IMPOSTO DE TRANSMISSÃO DE BENS IMÓVEIS (ITBI) E AS TAXAS CARTORÁRIAS - SENTENÇA REFORMADA EM PARTE - RECURSOS CONHECIDOS E PARCIALMENTE PROVIDOS" (fls. 461/463, e-STJ).
+No especial (fls. 474/496, e-STJ), a recorrente aponta violação do artigo 490 do Código Civil.
+Sustenta em síntese, que não cabe à alienante o pagamento de despesas com transmissão do imóvel adquirido pelo autor, portanto, deve ser afastada a condenação da recorrente em promover a baixa do gravame, bem como em suportar as despesas advindas.
+Aponta, ainda que "A esse respeito, transcreve-se jurisprudência, em que os custos com escritura e registro de imóvel foram atribuídas ao comprador, em casos semelhantes ao em baila, havendo, aqui dissenso jurisprudencial" (fl. 483, e-STJ).
+Contrarrazões às fls. 501/512, e-STJ.
+O recurso não foi admitido na origem, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+No que diz respeito à insurgência acerca do gravame, as conclusões do tribunal de origem decorreram inquestionavelmente da análise da interpretação de cláusulas contratuais e do conjunto fático-probatório carreado aos autos, o que se pode aferir da leitura dos fundamentos do julgado atacado, ora colacionados na parte que interessa:
+"Passando ao mérito da questão jurídica debatida nesta sede recursal, extrai-se dos autos que em 27 de setembro de 2017 o Autor celebrou com a Requerida/Apelante Construtora Nassal um contrato particular de compra e venda, tendo como objeto o apartamento 701, bloco Cayo, do Condomínio Grand Belize Residence, localizado na Avenida Pref. Heráclito Rollemberg, nº 3400, bairro Farolândia, nesta Capital.
+Pois bem, não remanescem dúvidas da quitação do contrato em 07 de , conforme se visualiza da ficha financeira de fls. 56/57 Assim, o atraso dezembro de 2017 injustificado na liberação da hipoteca motivou o ajuizamento da presente demanda.
+Ademais, como se infere do Contrato de Compra e Venda, a liberação do gravame hipotecário que recai sobre o imóvel objeto do instrumento contratual somente ocorrerá após o pagamento integral da dívida da unidade imobiliária (cláusula Décima Nona, 19.2.1, alínea "b" - fl. 45). Ressalte-se que o referido Contrato foi pactuado entre o Autor e a construtora Ré, o que de logo também evidencia a responsabilidade da promitente vendedora quanto à baixa no gravame.
+Consectariamente, a hipoteca é instituída para garantir financiamento de empreendimento imobiliário, firmado exclusivamente entre o agente financeiro e a construtora, não podendo prevalecer contra terceiro de boa-fé, que adquiriu a unidade autônoma e honrou integralmente suas obrigações, buscando obter a propriedade de bem livre e desembaraçado.
+O gravame hipotecário, cuja exoneração se pretende, recai sobre o imóvel por força da , não impedindo, vinculação da promitente vendedora ao banco financiador inclusive, o credor hipotecário (banco), na defesa dos seus interesses, executar seu crédito.
+Então, é de se concluir que também constitui ônus da construtora a retirada deste, o que levará, consequentemente, ao reconhecimento da ausência de gravame responsabilidade da Requerente por eventuais débitos acerca do contrato em que o bem fora dado em garantia.
+Por conseguinte, , é ineficaz a garantia hipotecária perante o adquirente sendo legítimo e inafastável seu direito de obter a propriedade plena do imóvel e o cancelamento da hipoteca, conforme a Súmula nº 308 do Egrégio Superior Tribunal de , : " Justiça verbis A hipoteca firmada entre a construtora e o agente financeiro, anterior ou posterior à celebração da promessa de compra e venda, não tem eficácia perante os ". adquirentes do imóvel Sendo assim, efetuada a quitação do contrato referente ao imóvel hipotecado, detinha a construtora Requerida a responsabilidade de efetuar o pagamento do financiamento junto à Instituição Financeira e, como consequência, de promover a baixa hipotecária, de modo a viabilizar o registro imobiliário.
+Acontece que mesmo após a integral quitação do pacto, a parte autora, desde 07 de dezembro de 2017, está impossibilitada de lavrar a escritura do imóvel, diante da existência de hipoteca sobre o bem, o que é inconcebível.
+Nessa planura, com o pagamento do preço pelo adquirente do imóvel, nasce para a construtora a obrigação de eliminar o gravame fiduciário sobre a unidade quitada , para fins de possibilitar ao consumidor o direito de usufruir da plena propriedade do imóvel.
+Destarte, efetuada a quitação do contrato referente ao imóvel hipotecado, detinha a Requerida a responsabilidade de efetuar o pagamento do financiamento, junto à Instituição Financeira e, em consequência, de promover a baixa hipotecária, de modo a viabilizar o registro imobiliário.
+A responsabilidade civil é a violação de um dever jurídico, que quase sempre acarreta dano para outrem, surgindo assim um novo dever jurídico, qual seja, o de reparar o dano. Os pressupostos para existência da responsabilidade civil são três: a) conduta culposa do agente; b) nexo causal; c) dano, violação de direito. O elemento conduta humana tem como característica a vontade do agente, via de regra, analisando a culpa ou o dolo do agente; o dano, pressupõe violação ao bem tutelado (patrimonial ou não), enquanto o nexo de causalidade é o liame, que une a conduta do agente ao dano causado.
+(..)
+Nesse contexto, vislumbra-se o agir ilícito da construtora Demandada, porquanto manteve o gravame indevidamente junto ao registro do imóvel, além do prazo que se entende razoável, . mesmo após a quitação do débito Por conseguinte, restou configurado o desrespeito à pessoa do consumidor em razão da conduta da Ré, tornando dessa forma possível o acolhimento do pedido indenizatório dos danos morais com caráter dissuasório, aplicando-se a responsabilidade civil com o intento de evitar a reiteração da prática abusiva da manutenção da restrição indevidamente, depois da quitação do débito pelo consumidor" (fls. 467/469 e-STJ).
+Nesse contexto, não há como afastar a incidência das Súmulas nºs 5 e 7/STJ, visto que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos e a interpretação de cláusula contratual, procedimentos inviáveis ante a natureza excepcional da via eleita.
+Por fim, anota-se, ainda, que a aplicação da Súmula nº 7/STJ em relação ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial, conforme se colhe da jurisprudência pacífica dessa Corte Superior:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INOVAÇÃO RECURSAL. NÃO CABIMENTO. DANO MORAL. ERRO MÉDICO. FALECIMENTO DE CÔNJUGE E GENITORA. QUANTUM INDENIZATÓRIO. ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. AGRAVO INTERNO DESPROVIDO.
+1. Os pedidos não formulados no recurso especial ou nas suas contrarrazões
+e, portanto, não apreciados na decisão que o julgou não são passíveis de
+conhecimento em agravo interno, em razão da indevida inovação recursal.
+2. A revisão pelo STJ de indenização arbitrada a título de danos morais
+exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de
+razoabilidade. Salvo essas hipóteses, incide a Súmula n. 7 do STJ,
+impedindo o conhecimento do recurso especial.
+3. A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a
+do permissivo constitucional impede o conhecimento do recurso especial
+pela divergência jurisprudencial sobre a mesma questão.
+4. Agravo interno desprovido."
+(AgInt no AREsp 2.398.2 46/SP, relator Ministro João Otávio de Noronha,
+Quarta Turma, julgado em 27/11/2023, DJe de 30/11/2023)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 13% (treze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
