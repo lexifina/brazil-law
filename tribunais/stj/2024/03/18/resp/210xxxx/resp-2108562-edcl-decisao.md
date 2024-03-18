@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MUNICIPIO DE DESTERRO, GUSTAVO BRAGA LOPES à decisão de fls. 259/260, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Porém, a petição do Recurso Especial protocolada pela Parte, Município de Desterro, questiona CLARAMENTE A INAPLICABILIDADE DO JULGAMENTO DA ADPF Nº. 528 PELO STF, que gerou precedente vinculante de aplicação obrigatória e que não foi observado pelo TRF5, tanto que o seu pedido é exclusivo sobre esse tema.
+Sendo assim, está-se diante de caso respaldado pelo permissivo de admissibilidade do INCISO V, DO § 3º, DO ART. 105 DA CF-88: "hipóteses em que o acórdão recorrido contrariar jurisprudência dominante do Superior Tribunal de Justiça."
+O equívoco na constatação feita pela Ministra na r. Decisão fica claro quando se verifica que o Recurso Especial impetrado e protocolado no e-STJ às Fls. 181/191, reforçado pela Petição colacionada no e-STJ às Fls. 239/241, questiona a inaplicabilidade por parte do TRF da 5ª Região aos ditames do que foi determinado na ADPF 528 do STF, senão vejamos a transcrição dos ditos pedidos:
+ ..
+Tanto é assim que a Desembargadora do TRF5, Dra. GERMANA DE OLIVEIRA MORAES, proferiu Decisão admitindo, tanto o REsp quanto o RE protocolados, justamente pelo motivo de contradição ao que ficou estabelecido na ADPF nº 528 (e- STJ Fl.251) (e-STJ Fl.252) (e-STJ Fl.253):
+ ..
+Desta forma, requer-se que seja sanada esta OBSCURIDADE e CONTRADIÇÃO apontada, determinado o regular processamento do Recurso Especial e posteriormente julgado procedente (fls. 267/268).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado expressamente na decisão embargada incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou objeto de divergência jurisprudencial.
+Em outras palavras, para que haja a admissão do recurso especial pela alínea "a" do permissivo constitucional - necessariamente - deve haver a indicação precisa dos dispositivos de lei federal violados e, pela alínea "c" do permissivo constitucional, deve haver a indicação precisa de quais dispositivos legais seriam objeto de dissídio interpretativo, não bastando, para ambos casos, a mera transcrição dos artigos legais.
+Saliente-se que o juízo de admissibilidade do recurso especial é bifásico, ou seja, "a decisão proferida pelo Tribunal de origem não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do recurso especial. Isso porque compete a esta Corte, órgão destinatário do recurso especial, o juízo definitivo de admissibilidade". (AgInt no AREsp 1470001/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 20/9/2019.)
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
+ EMENTA
