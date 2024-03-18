@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/03/2024 a 18/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Não participaram do julgamento os Srs. Ministros Teodoro Silva Santos e Jesuíno Rissato (Desembargador Convocado do TJDFT).
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO DA PRESIDÊNCIA QUE INDEFERIU LIMINARMENTE O HABEAS CORPUS. SÚMULA N. 691 DO STF. TRÁFICO DE DROGAS. NULIDADE. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA CONDENATÓRIA. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. TERATOLOGIA OU FLAGRANTE ILEGALIDADE. INEXISTÊNCIA. JULGAMENTO MERITÓRIO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte Superior é firme na compreensão de que não tem cabimento o habeas corpus para desafiar decisão do relator que indeferiu o pedido liminar. Inteligência do enunciado sumular n. 691 do Supremo Tribunal Federal.
+2. Os rigores do mencionado verbete somente são abrandados nos casos de manifesta teratologia da decisão ou constatação de falta de razoabilidade.
+3. No caso dos autos, a prisão preventiva foi decretada para preservar a ordem pública, tendo em vista que o agravante é reincidente e portador de maus antecedentes, circunstâncias essas que, em uma análise perfunctória e não exauriente, justificam a prisão cautelar e afastam a incidência da causa de diminuição prevista no art. 33, §4º, da Lei n. 11.343/2006.
+4. Não demonstrada de plano a configuração da flagrante ilegalidade, não há como afastar o óbice ao conhecimento do remédio constitucional, devendo-se aguardar o julgamento meritório da impetração perante o Tribunal de origem, sob pena de indevida supressão de instância.
+5. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por VALDOMIRO ALISON PIRES contra decisão da Presidência desta Corte Superior que indeferiu liminarmente o habeas corpus pela aplicação da Súmula n. 691/STF.
+Consta dos autos que o agravante foi condenado às penas de 6 anos, 9 meses e 20 dias de reclusão, no regime inicial fechado, e pagamento de 680 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006, vedado o direito de apelar em liberdade.
+Impetrado habeas corpus na origem, a liminar foi indeferida (e-STJ fls. 353/355).
+Nesta Corte Superior, sustenta a defesa ausência de fundamentação do decreto constritivo, posto que a argumentação para a conversão da prisão em flagrante em preventiva teria se fundado somente na gravidade abstrata do delito.
+Alega que a busca pessoal realizada pelos policiais não teria sido realizada com base em fundada suspeita, e que não haveria provas suficientes da materialidade e autoria delitivas quanto ao réu.
+Defende que ele faria jus à causa de diminuição de pena relativa ao tráfico privilegiado de drogas, o que ensejaria o abrandamento do regime inicial de cumprimento da pena privativa de liberdade, bem como a sua substituição por sanções restritivas de direitos.
+O writ foi indeferido liminarmente pela incidência da Súmula n. 691/STF (e-STJ fls. 359/361).
+No presente agravo regimental, reitera os argumentos antes aduzidos.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO DA PRESIDÊNCIA QUE INDEFERIU LIMINARMENTE O HABEAS CORPUS. SÚMULA N. 691 DO STF. TRÁFICO DE DROGAS. NULIDADE. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA CONDENATÓRIA. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. TERATOLOGIA OU FLAGRANTE ILEGALIDADE. INEXISTÊNCIA. JULGAMENTO MERITÓRIO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte Superior é firme na compreensão de que não tem cabimento o habeas corpus para desafiar decisão do relator que indeferiu o pedido liminar. Inteligência do enunciado sumular n. 691 do Supremo Tribunal Federal.
+2. Os rigores do mencionado verbete somente são abrandados nos casos de manifesta teratologia da decisão ou constatação de falta de razoabilidade.
+3. No caso dos autos, a prisão preventiva foi decretada para preservar a ordem pública, tendo em vista que o agravante é reincidente e portador de maus antecedentes, circunstâncias essas que, em uma análise perfunctória e não exauriente, justificam a prisão cautelar e afastam a incidência da causa de diminuição prevista no art. 33, §4º, da Lei n. 11.343/2006.
+4. Não demonstrada de plano a configuração da flagrante ilegalidade, não há como afastar o óbice ao conhecimento do remédio constitucional, devendo-se aguardar o julgamento meritório da impetração perante o Tribunal de origem, sob pena de indevida supressão de instância.
+5. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso não merece prosperar, tendo em vista a inexistência de argumentos capazes de infirmar os fundamentos da decisão recorrida.
+Como bem destacado pela decisão agravada, a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do Superior Tribunal de Justiça é firme na compreensão de que não tem cabimento o habeas corpus para desafiar decisão do relator que indeferiu o pedido liminar. Essa é a inteligência, inclusive, do enunciado n. 691 da Súmula do Supremo Tribunal Federal, in verbis:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Os rigores do mencionado verbete somente são abrandados nos casos de manifesta teratologia da decisão ou constatação de flagrante constrangimento ilegal, o que não ocorreu na hipótese.
+No caso dos autos, a prisão preventiva foi decretada para preservar a ordem pública, tendo em vista que o recorrente é reincidente e portador de maus antecedentes, circunstâncias essas que, em uma análise perfunctória e não exauriente, justificam a prisão cautelar e afastam a incidência da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Nessa alheta, a matéria aqui discutida somente poderá ser analisada com maior propriedade no julgamento definitivo do writ originário, não havendo como afastar o óbice ao conhecimento do remédio constitucional, especialmente por não haver, ao menos em juízo superficial, nenhuma flagrante ilegalidade na decisão objurgada. Irretorquível, portanto, a referida decisão.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. DECISÃO SUPERVENIENTE DO STF DETERMINANDO QUE O JUÍZO DE PRIMEIRO GRAU VERIFIQUE A EVENTUAL NECESSIDADE DE DETERMINAÇÃO DE MEDIDAS CAUTELARES DIVERSAS. RECURSO PREJUDICADO NO PONTO. MINORANTE DO TRÁFICO PRIVILEGIADO. WRIT IMPETRADO CONTRA DECISÃO LIMINAR. DEFICIÊNCIA NA INSTRUÇÃO. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. INCIDÊNCIA DA SÚMULA 691 DO STF. AGRAVO REGIMENTAL PREJUDICADO EM PARTE E, NO MAIS, DESPROVIDO.
+1. Verifica-se, quanto à insurgência acerca da manutenção da prisão preventiva, que o presente agravo regimental encontra-se prejudicado, tendo em vista a informação, por meio do ofício e documento de e-STJ fls. 114/131, no sentido de que sobreveio decisão proferida pelo Excelentíssimo Senhor Ministro ANDRÉ MENDONÇA, que, nos autos do HC n. 227.340/MG, proferiu decisão em que negou seguimento ao referido habeas corpus, contudo, com fundamento no art. 192 do RISTF, concedeu a ordem, de ofício, para que o Juízo da l a Vara Cível, Criminal e de Execuções Penais da Comarca de Campos Gerais/MG (Processo nº 0001907-47.2022.8.13.0116) verifique a eventual necessidade de determinação de medidas cautelares diversas (e-STJ fl. 130).
+2. Quanto ao mais, no que se refere à irresignação em relação a não aplicação da redutora do tráfico privilegiado, o Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+3. Além do mais, verifica-se que o Tribunal local não se manifestou sobre a matéria. Dessa forma, a análise do tema por esta Corte Superior configuraria indevida supressão de instância. Quanto à insurgência acerca da manutenção da prisão preventiva, constata-se que a defesa não juntou aos autos cópia do decreto prisional mantido na sentença condenatória, peça indispensável para a compreensão da controvérsia, uma vez que o juiz, ao proferir a sentença, consignou que diante da grande quantidade de droga, bem como a pena fixada, o crime é grave no caso concreto e a ordem pública está em risco, pelo que deve ser mantida a segregação cautelar do condenado (e-STJ fl. 30). Ausência de flagrante ilegalidade. Julgados do STJ.
+4. Agravo regimental prejudicado quanto à prisão preventiva e, no mais, desprovido.
+(AgRg no HC n. 817.508/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/6/2023, DJe de 7/6/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SÚMULA N. 691 DO STF. TRÁFICO DE DROGAS E PORTE DE ARMA DE FOGO. INDEFERIMENTO LIMINAR DO WRIT. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA. EXCESSO DE PRAZO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+1. A teor do disposto no enunciado da Súmula n. 691 do Supremo Tribunal Federal, não se admite a utilização de habeas corpus contra decisão que indeferiu liminar em writ impetrado no Tribunal de origem, sob pena de indevida supressão de instância.
+2. Conforme jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (RHC n. 107.238/GO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/3/2019).
+3. A pretensão quanto ao excesso de prazo na duração do processo é questão passível de indeferimento da medida de urgência em habeas corpus, por demandar, inclusive, análise circunstancial dos prazos processuais, não se evidenciando, de plano, constrangimento ilegal..
+4. Não havendo ilegalidade para justificar a mitigação do enunciado da Súmula n. 691 do STF, o writ deve ser indeferido liminarmente.
+5. Agravo regimental improvido.
+(AgRg no HC n. 766.549/BA, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 24/4/2023, DJe de 27/4/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. SÚMULA N. 691 DO STF. SUPERAÇÃO. IMPOSSIBILIDADE. AUSÊNCIA DE ILEGALIDADE MANIFESTA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. De acordo com o explicitado na Constituição Federal (art. 105, I, "c"), não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau.
+2. As teses da defesa de que não houve justa causa para busca pessoal e para o ingresso dos agentes estatais no domicílio do acusado, assim como a de que são ilícitos os elementos de informação obtidos em desfavor do réu, são matérias que serão dirimidas ao longo da instrução criminal, inviável, portanto, de, neste momento processual e na via estreita do habeas corpus - impetrado, aliás, contra indeferimento de liminar em prévio writ (Súmula n. 691 do STF) -, afastar a compreensão inicial do Juiz de primeiro grau de que, em princípio, foi legítima a atuação dos agentes estatais.
+3. O Juiz de primeiro grau salientou que o condutor e a testemunha do flagrante são policiais militares, o que rechaça a alegação de que a prisão realizada por guardas municipais é ilegal, por inobservância ao disposto no art. 144 da CF.
+4. O fato de o réu responder a outros três processos pela suposta prática do crime de tráfico de drogas evidencia a real possibilidade de que, solto, volte a delinquir, a ensejar, por conseguinte, a necessidade de manutenção da sua custódia preventiva para a garantia da ordem pública.
+5. Agravo regimental não provido.
+(AgRg no HC n. 770.450/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/10/2022, DJe de 17/10/2022.)
+Tal o contexto, nego provimento ao presente agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
