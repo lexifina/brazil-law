@@ -1,0 +1,21 @@
+DECISÃO
+Na origem, trata-se de ação ordinário objetivando promoção na carreira militar de forma imediata após cumprir o tempo previsto na legislação, independentemente da existência de vagas. Na sentença, julgou-se o pedido improcedente. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 250.587,10.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO CHI/EL - AÇÃO ORDINÁRIA  PEDIDO DE PROMOÇÃO DE SERVIDOR MILITAR DE FORMA RETROATIVA  ALEGAÇÃO DE ERRO DA ADMINISTRAÇÃO/CORPORAÇÃO  INEXISTÊNCIA  CANDIDATO QUE NÃO PREENCHEU OS REQUISITOS LEGAIS PARA PROMOÇÃO NA ÉPOCA - PARA A PROMOÇÃO OCORRER, NECESSÁRIO SE FAZIA QUE A VAGA NO POSTO SUPERIOR EXISTISSE  NÃO D EMONSTRADO. PROGRESSÃO POR TEMPO DE SERVIÇO DOS SERVIDORES MILITARES DO ESTADO DE SERGIPE INDEPENDENTE DA EXISTÊNCIA DE VAGAS SÓ SE DEU COM LEI COMPLEMENTAR Nº. 277 DE 21 DE NOVEMBRO DE 2016 - MANUTENÇÃO DA SENTENÇA  RECURSO CONHECIDO E IMPROVIDO - UNÂNIME.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Trata o feito de uma Ação Ordinária, na qual o autor alega que possui direito a promoção de forma imediata após cumprir o tempo previsto na legislação, independentemente da existência de vagas.
+ ..
+Assim, para que haja a promoção dentro da carreira militar é necessário o preenchimento dos aludidos requisitos, descritos na legislação supracitada.
+Sustenta o recorrente que houve erro na conduta da Corporação ao não processara promoção no tempo pretendido.
+Ocorre que, como bem disse o magistrado a quo, não houve a promoção do requerente por ausência de preenchimento dos requisitos legais.
+Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ressalte-se ainda que a incidência do enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido: AgInt no AREsp 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
