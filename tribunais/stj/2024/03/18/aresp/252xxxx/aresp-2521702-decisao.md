@@ -1,0 +1,16 @@
+DECISÃO
+FABRICIO SILVA DE CARVALHO JUNIOR agrava da decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 1500604-92.2021.8.26.0213.
+Nas razões do especial, a defesa postula a incidência da minorante do tráfico, o reconhecimento da atenuante da confissão e a fixação de regime inicial menos gravoso.
+Decido.
+Inicialmente, em consulta processual realizada nos assentamentos eletrônicos desta Corte Superior de Justiça, verifico que, contra a condenação objeto deste recurso, também houve a impetração do HC n. 839.493/SP, o qual foi apresentado contra o acórdão proferido na Apelação n. 1500604-92.2021.8.26.0213 e também se buscou a aplicação da minorante e o abrandamento do regime.
+Em decisão publicada em 7/8/2023, o habeas corpus foi denegado, havendo interposição de agravo regimental pela defesa, também não provido.
+Assim, uma que vez que já foram analisadas as questões referentes à aplicação da minorante e regime mais brando suscitadas neste recurso, entendo estar prejudicada a sua apreciação, pela perda superveniente do seu objeto.
+No tocante ao reconhecimento da atenuante da confissão espontânea, constato que o Tribunal de origem afastou a sua incidência, "porquanto sua admissão dos fatos se deu apenas em solo policial, com posterior retratação, afigurando-se, ademais, parcial e qualificada, exarada com o nítido propósito de se isentar da responsabilidade criminal" (fl. 780, grifei).
+Sobre a matéria posta em discussão, este Superior Tribunal possui o entendimento de que, se a confissão do acusado foi utilizada para corroborar o acervo probatório e fundamentar a condenação, deve incidir a atenuante prevista no art. 65, III, "d", do Código Penal, sendo irrelevante o fato de a confissão haver sido espontânea ou não, total ou parcial, ou mesmo que tenha havido posterior retratação. Exemplificativamente: HC n. 358.679/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 31/8/2016.
+Dessa forma, entendo que o recurso deve ser provido nesse ponto, haja vista que a confissão do réu foi utilizada para corroborar o acervo probatório e fundamentar a condenação, devendo incidir a atenuante prevista no art. 65, III, "d", do Código Penal.
+Nesse sentido foi editada a Súmula n. 545 do STJ, verbis: "Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal".
+Procedendo-se, pois, à nova dosimetria da pena, a reprimenda-base foi estabelecida em 5 anos e 10 meses de reclusão e pagamento de 583 dias-multa. Na segunda fase, diminuo a pena em 1/6, diante do reconhecimento da atenuante da confissão. Na terceira etapa, não há causas de aumento ou diminuição, o que torna a pena do acusado definitivamente estabelecida em 5 anos de reclusão e pagamento de 583 dias-multa.
+À vista do exposto, conheço do agravo em recurso especial, para conhecer em parte do recurso especial e, nessa parte, dar-lhe provimento, apenas para reconhecer a atenuante da confissão e reduzir a reprimenda do recorrente para 5 anos de reclusão e pagamento de 583 dias-multa.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+EMENTA
