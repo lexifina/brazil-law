@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da inexistência de violação de lei federal e incidência da Súmula n. 7 do STJ (e-STJ fls. 408/409).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 354):
+Compromisso de compra e venda. Resolução. Inadimplemento da vendedora configurado. Informações prestadas ao consumidor que indicavam confrontação com área verde. Construção, ao invés, de estação elevatória de esgoto nas proximidades. Propaganda enganosa. Devolução integral do sinal e das parcelas. Súmula 543 do STJ. Dano moral configurado e indenização bem arbitrada. Sentença mantida. Recurso desprovido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 383/385).
+Nas razões do recurso especial (e-STJ fls. 362/375), interposto com fundamento no art. 105, III, "a", da CF, a parte alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(a) arts. 355, 357, 469 e 477, §§ 2º e 3º, do CPC/2015, sustentando, em síntese, cerceamento de defesa, por entender que "o indeferimento do pedido de complementação do laudo pericial cumulado com o equivocado julgamento prematuro de parcial procedência da presente ação prejudicou o contraditório, o devido processo legal" (e-STJ fl. 372). Segundo afirma, "a Ré/Recorrente defendeu (e defende) que o laudo pericial foi omisso e/ou contraditório na questão da análise de ruídos; uma vez que não indicou se eventuais ruídos provocados pelo funcionamento da elevatória ultrapassariam os limites legais e normativos permitidos" (e-STJ fl. 370 ) e
+(b) arts. 186, 187, 393, 927, 944, parágrafo único, do CC/2002, aduzindo a inexistência de ato ilícito, destacando que o mero descumprimento contratual não enseja danos morais indenizáveis.
+Busca, em suma, o provimento do recurso para (e-STJ fl. 375):
+a) diante da má aplicação (negativa de vigência), pelo v. acórdão apelação, aos arts. 355, 357, 469 e dos § § 2º e 3º do art. 477, todos do CPC/2015, reformá-lo, reconhecendo-se a nulidade da r. sentença, com a devolução dos autos ao D. Juízo de 1ª instância, para o fim de, com a instrução probatória necessária (complementação da prova pericial), dirimir todos os pontos suscitados pela Ré/Recorrente na petição de fls. 299-303;
+b) diante da má aplicação (negativa de vigência), pelo v. acórdão apelação, ao art. 393 e aos arts. 186, 187, 927, 944 e seu parágrafo único, todos do CC, reformá-lo para o fim de afastar; primeiro, a conclusão de que a rescisão do contrato se deu por culpa da Ré/Recorrente, e, segundo, afastar as indenizações fixadas em favor do Autor, salvo a obrigação de a Requerida promover a devolução das quantias pagas diante da rescisão contratual e do retorno do lote ao estoque da loteadora.
+No agravo (e-STJ fls. 412/428), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 431/436).
+É o relatório.
+Decido.
+Com relação aos arts. 355, 357, 469 e 477, §§ 2º e 3º, do CPC/2015, o TJSP afastou a tese de cerceamento de defesa, decidindo com base nos seguintes fundamentos (e-STJ fls. 431/436):
+De início, não há nulidade pela inconclusividade do laudo pericial, que foi, de fato, objetivo ao destacara discrepância entre o produto oferecido e o efetivamente entregue, como se verá.
+Tampouco se vê nulidade pela ausência de dilação probatória sobre os critérios utilizados pelo perito para aferir os incômodos causados aos moradores pela estação, pois o abalo moral, em casos como o presente, quando se dá, ocorre in re ipsa e cabe ao Juízo avaliar, independentemente das impressões periciais.
+Modificar o entendimento do acórdão impugnado quanto à inexistência de cerceamento de defesa e à desnecessidade de maior dilação probatória, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Quanto aos arts. 186, 187, 393, 927, 944, parágrafo único, do CC/2002, a Corte local reconheceu a existência de inadimplemento contratual da vendedora bem como a configuração de danos morais, conforme se verifica do seguinte excerto (e-STJ fls. 356/360):
+Ao que consta dos autos, houve, sim, propaganda enganosa por parte da ré, pois no compromisso de compra e venda (item 4, fls. 15/16), no respectivo aditamento (cláusula segunda, fls. 25), na ilustração (fls. 55) e na maquete (fls. 59) do empreendimento apresentados ao autor não se previu qualquer estação de esgoto em frente ao seu lote, mas sim área verde. Tal instalação foi fruto de decisão posterior da ré, conforme informado por seu próprio assistente técnico ao perito.
+(..)
+Tampouco releva ao deslinde se a estação emite ruídos ou odores significativos. A mera presença de estação de esgoto em local muito próximo ao lote é, por si só, circunstância não trivial que exige a prestação de adequada informação ao consumidor.
+Eventual indicação da propaganda como meramente ilustrativa não autorizaria a ré a desconsiderar a legítima expectativa por ela gerada no consumidor. Não se pode admitir que o fornecedor se subtraia por ato próprio ao regime consumerista, sabidamente de ordem pública.
+Houve, portanto, frustração das expectativas geradas pela ré no autor quando da contratação, independentemente de eventual impossibilidade de instalação da estação em outro local, ou de mudança de postura do Poder Público Municipal.
+Tal circunstância se insere nos riscos normais da atividade da ré, que não se podem transferir ao consumidor. O fortuito é, destarte, interno.
+(..)
+De outro lado, entende-se também configurado dano moral. Com efeito, não se considera mero dissabor adquirir lote lindeiro ao que se prometeu ser uma área verde, mas ao final encontra ali erigida uma estação de esgoto. Não se trata de mera sensação de incômodo.
+E ainda (e-STJ fl. 385):
+Com efeito, o acórdão embargado foi expresso ao considerar que eventual frustração do projeto de saneamento original do empreendimento, ainda se atribuível ao Município, está inserida nos riscos da atividade da embargante e não pode ser transferida ao consumidor, por constituir fortuito interno. O fato é que se teve empreendimento entregue em desacordo com a publicidade e a oferta da embargante, de modo a frustrar a legítima expectativa do embargado(fls. 358). A responsabilidade da embargante é, ademais, objetiva, na condição de fornecedora.
+Igualmente não se vê omissão quanto à alegação de ausência de dano moral por mero inadimplemento contratual, pois o acórdão foi expresso no sentido de não se cuidar de mero dissabor, lembrando ainda da função dissuasória da indenização moral (fls. 359/360).
+Para alterar tais fundamentos e reconhecer a inexistência de inadimplemento contratual e de configuração dos danos morais, seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
