@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/03/2024 a 18/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO JULGADA PARCIALMENTE PROCEDENTE. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. DEFEITO QUE CONDUZ AO NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL, CONFORME CORRETAMENTE DECIDIDO PELA PRESIDÊNCIA DESTA CORTE. AGRAVO INTERNO DESPROVIDO.
+1. Cabe à parte recorrente, nas razões do agravo em recurso especial, trazer argumentos suficientes para contestar a decisão de inadmissibilidade do apelo especial proferida pelo Tribunal de origem. A ausência de impugnação de todos os fundamentos da decisão agravada, conforme verificado no presente caso, enseja o não conhecimento do agravo em recurso especial. Manutenção da decisão da Presidência desta Corte.
+2. Razões recursais insuficientes para a revisão do julgado.
+3. Agravo interno desprovido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por KA EMPREENDIMENTOS LTDA. (ou KATEDRAL CONSTRUÇÕES LTDA.) contra a decisão de fls. 1.317-1.319 (e-STJ), da Presidência desta Corte, que não conheceu do agravo em recurso especial, com base no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, haja vista a ausência de impugnação a todos os fundamentos da decisão agravada.
+O recurso especial foi deduzido com base no art. 105, III, a e c, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado (e-STJ, fls. 834-835; grifos no original):
+APELAÇÃO CÍVEL E AGRAVO RETIDO. AÇÃO DE REPETIÇÃO DE INDÉBITO. SENTENÇA DE EXTINÇÃO QUANTO AO PEDIDO DE REPETIÇÃO DE INDÉBITO E DE IMPROCEDÊNCIA QUANTO AOS PLEITOS INDENIZATÓRIOS. PRIMEIRO JULGAMENTO QUE NEGOU PROVIMENTO AO APELO DA PARTE AUTORA. INTERPOSIÇÃO DE RECURSO ESPECIAL PELA APELANTE E RETORNO DOS AUTOS A ESTA CORTE. AFASTAMENTO DA PRESCRIÇÃO. OBSERVÂNCIA DO PRAZO DECENAL NA HIPÓTESE. ANÁLISE DO PEDIDO DE DEVOLUÇÃO EM DOBRO DO MONTANTE PAGO INDEVIDAMENTE QUE SE IMPÕE. ALEGADA A COBRANÇA INDEVIDA DE VALORES A TÍTULO DE SINAL PELAS RECORRIDAS. CONTRATO DE FINANCIAMENTO DO IMÓVEL FIRMADO JUNTO À CAIXA ECONÔMICA FEDERAL QUE PREVIA VALOR INFERIOR AO CONSTANTE NA PROMESSA DE COMPRA E VENDA PACTUADA COM AS RÉS. PRETENSÃO ACOLHIDA. PACTUAÇÃO REALIZADA ENTRE AS PARTES QUE SE DEU EM VALOR DIVERSO DAQUELE CONSTANTE NO CONTRATO DE FINANCIAMENTO DO IMÓVEL FIRMADO COM A CEF. IMPOSSIBILIDADE. COBRANÇA DE COMISSÃO DE CORRETAGEM MASCARADA SOB A FORMA DE SINAL. OBSERVÂNCIA DO ENTENDIMENTO FIRMADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA E POR ESTA CORTE. PRECEDENTES. REPETIÇÃO EM DOBRO DO VALOR COBRADO INDEVIDAMENTE QUE SE MOSTRA DEVIDA (ART. 42 DO CÓDIGO DE DEFESA DO CONSUMIDOR). REFORMA DO ACÓRDÃO QUE SE IMPÕE. RECURSO PROVIDO NO PONTO.
+ÔNUS SUCUMBENCIAIS. IMPOSITIVA REDISTRIBUIÇÃO DIANTE DO PARCIAL PROVIMENTO DO APELO.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+O referido acórdão foi proferido após a determinação do Superior Tribunal de Justiça para que o recurso fosse novamente julgado, porquanto dissonante da jurisprudência desta Corte (fls. 928-932, e-STJ).
+Em face desse novo acórdão, a recorrente interpôs recurso especial (fls. 1.210-1.215, e-STJ), no qual alegou, além de dissidio jurisprudencial, violação aos arts. 10, 141 e 492 do Código de Processo Civil de 2015, bem como aos Temas 610 e 938/STJ.
+A insurgente manejou outro recurso especial (fls. 1.210-1.215, e-STJ), do qual não se conheceu, em virtude do princípio da unirrecorribilidade e da ocorrência da preclusão consumativa (fls. 1.251-1.255, e-STJ).
+Sustentou, em suma, a nulidade da decisão recorrida, pelos seguintes fundamentos:
+(i) estar configurada a decisão surpresa e supressão de instância, porquanto a recorrente não foi intimada para contra-arrazoar;
+(ii) vício de julgamento extra petita, uma vez que os recorridos não pleitearam a devolução da comissão de corretagem, mas tão somente o valor de R $ 5.000,00 (cinco mil reais) relativo ao sinal pelo pagamento do imóvel sob análise.
+Em juízo de admissibilidade (fls. 1.247-1.249, e-STJ), a Corte de origem não admitiu o reclamo, pelos seguintes fundamentos: a) aplicação da Súmula 7/STJ para revisão das conclusões do acórdão recorrido, óbice que tornou prejudicada a análise da divergência jurisprudencial apontada; e b) falta de prequestionamento dos Temas 610 e 938/STJ, julgados sob o rito dos recursos especiais repetitivos, apontados como violados pela recorrente.
+Irresignada (fls. 1.269-1.281, e-STJ), aduziu a agravante que o reclamo merecia trânsito, limitando-se a repisar as mesmas razões trazidas no recurso especial inadmitido e a refutar, genericamente, a aplicação da Súmula 7/STJ.
+Contraminuta às fls. 1.286-1.296 (e-STJ).
+O feito ascendeu ao Superior Tribunal de Justiça. Entretanto, a Presidência desta Corte, por decisão monocrática, não conheceu do agravo em recurso especial (e-STJ, fls. 1.317-1.319), uma vez que a agravante não refutou todos os fundamentos da decisão de inadmissibilidade, em desrespeito ao preconizado no art. 932, III, do CPC/2015, ensejando a aplicação da Súmula n. 182/STJ.
+Neste agravo interno (e-STJ, fls. 1.322-1.327) a recorrente afirma a inaplicabilidade do óbice apontado para o não conhecimento de seu recurso afirmando ter impugnado todos os óbices de admissibilidade no agravo em recurso especial manejado.
+Pleiteia, ao final, a reconsideração da decisão agravada ou a submissão do agravo interno ao colegiado.
+Impugnação às fls. 1.331-1.336 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO JULGADA PARCIALMENTE PROCEDENTE. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. DEFEITO QUE CONDUZ AO NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL, CONFORME CORRETAMENTE DECIDIDO PELA PRESIDÊNCIA DESTA CORTE. AGRAVO INTERNO DESPROVIDO.
+1. Cabe à parte recorrente, nas razões do agravo em recurso especial, trazer argumentos suficientes para contestar a decisão de inadmissibilidade do apelo especial proferida pelo Tribunal de origem. A ausência de impugnação de todos os fundamentos da decisão agravada, conforme verificado no presente caso, enseja o não conhecimento do agravo em recurso especial. Manutenção da decisão da Presidência desta Corte.
+2. Razões recursais insuficientes para a revisão do julgado.
+3. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+Com efeito, o Superior Tribunal de Justiça tem entendimento firmado no sentido de que cabe à parte insurgente, nas razões do agravo em recurso especial, trazer argumentos para contestar a decisão do Tribunal de origem que inadmitiu o recurso, justificando, tese a tese, o cabimento do apelo especial, sob pena de incidência do art. 932, III, do CPC/2015.
+Compulsando os autos, percebe-se que a agravante não refutou todos os fundamentos da decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de Justiça do Estado de Santa Catarina.
+No tocante à rejeição do recurso especial pela aplicação da Súmula 211/STJ, por falta de prequestionamento, verifica-se, de plano, que tal fundamento não foi sequer mencionado nas razões do agravo.
+Portanto, à luz do princípio da dialeticidade, a recorrente deveria ter impugnado todos os fundamentos da decisão de inadmissibilidade do recurso especial, sob pena de seu não conhecimento. Assim sendo, como não se desincumbiu de tal ônus em sua insurgência, tem-se que é inadmissível o agravo em recurso especial interposto, não podendo ser apreciado por este Superior Tribunal.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE PRÉVIA. PRERROGATIVA REGIMENTAL DA PRESIDÊNCIA DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA N. 182 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A competência da Presidência do Superior Tribunal de Justiça para não conhecer de recurso que seja inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida está prevista no art. 2 1-E, V, do RISTJ, não havendo falar em nulidade da decisão monocrática proferida antes da distribuição do processo.
+2. Em observância ao princípio da dialeticidade, mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, específica e motivada de todos os fundamentos da decisão que inadmite recurso especial, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.197.850/AP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 5/6/2023, DJe de 7/6/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO CPC. INCIDÊNCIA DA SÚMULA N.º 123 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do CPC, não impugna os fundamentos da respectiva inadmissibilidade (incidência da Súmula n.º 7 do STJ).
+2. Não padece de nulidade a decisão agravada porque lá foram expostas as razões de convencimento do Presidente da Seção de Direito Privado do TJSP, o que possibilitou à VIOBRAS, aqui agravante, inclusive, rebater os seus argumentos. Além disso, ressalte-se que decisão sucinta não se confunde com decisum sem fundamento.
+3. A jurisprudência desta Corte é pacífica quanto a possibilidade de o Tribunal de origem adentrar o mérito do recurso especial, pois o exame de admissibilidade pela alínea a do permissivo constitucional envolve o próprio mérito da controvérsia (AgRg no AREsp n.º 497.819/MG, Rel. Ministro HUMBERTO MARTINS, Segunda Turma, DJe 26/5/2014). Nesse sentido, aliás, é o Enunciado n.º 123 da Súmula do STJ: A decisão que admite, ou não, o recurso especial deve ser fundamentada, com exame dos seus pressupostos gerais e constitucionais.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.077.223/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 29/5/2023, DJe de 31/5/2023.)
+Desse modo, tendo em vista que as alegações feitas no presente agravo interno não são capazes de modificar o convencimento manifestado no aresto recorrido, permanece inalterada a decisão de não conhecimento do agravo em recurso especial.
+Diante do exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
