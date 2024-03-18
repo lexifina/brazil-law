@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social - INSS, com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 701):
+PREVIDENCIÁRIO. APOSENTADORIA. TEMPO ESPECIAL. CUMPRIMENTO DOS REQUISITOS LEGAIS.
+1. Uma vez exercida atividade enquadrável como especial, sob a égide da legislação que a ampara, o segurado adquire o direito ao reconhecimento como tal e ao acréscimo decorrente da sua conversão em tempo de serviço comum no âmbito do Regime Geral de Previdência Social.
+2. Até 28/04/1995 é admissível o reconhecimento da especialidade por categoria profissional ou por sujeição a agentes nocivos, aceitando-se qualquer meio de prova (exceto para ruído); a partir de 29/04/1995 não mais é possível o enquadramento por categoria profissional, devendo existir comprovação da sujeição a agentes nocivos por qualquer meio de prova até05/03/1997 e, a partir de então, por meio de formulário embasado em laudo técnico, ou por meio de perícia técnica.
+3. Havendo mais de 30 (mulher) ou 35 (homem) anos de tempo de serviço/contribuição especial, na DER, a parte autora tem o direito à aposentadoria por tempo de contribuição.
+Opostos embargos de declaração, foram rejeitados (fls. 796/798).
+Aponta o recorrente violação dos arts. 1.022, II, do CPC; 29-C, da lei 8.213/91.
+Sustenta, em síntese: (I) a existência de negativa de prestação jurisdicional, (II) que ".. o artigo 29-C da Lei nº 8.213/91 não se aplica para os benefícios concedidos antes de 03/11/2015 e, por consequência não se aplica ao presente caso, em que a data inicial foi fixada no dia 05/02/2015." (fl. 811).
+Sem contrarrazões.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+O recurso logra êxito, pois constatada negativa de prestação jurisdicional.
+No presente caso, a Autarquia Federal sustentou nas razões dos embargos de declaração, e reite rou no recurso especial, que ".. não foi apreciada a tese de não ser possível a aplicação retroativa do artigo 29-C da Lei 8.213/91, por ferir o artigo 29-C da Lei 8.213/91; artigo 6º da LINDB e artigos 2º; 8º da Lei nº 13.183/2015 e o princípio do tempus regit actum." (fl. 805)
+Entretanto, a Corte regional manteve-se silente no que tange as referidas questões, ao julgar os Embargos Declaratórios. Deve, portanto, integrar sua decisão para contemplar as questões trazidas nos Embargos de Declaração, de modo a tornar pleno o provimento jurisdicional vindicado.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. OFENSA AO ART. 1022, II, DO CPC/2015. AUSÊNCIA DE ANÁLISE DE TESES APRESENTADAS NO AGRAVO DE INSTRUMENTO. INCIDÊNCIA DO ART. 1057 DO CPC/2015 E EXCESSO DE EXECUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OCORRÊNCIA. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA COMPLEMENTAÇÃO DO JULGADO. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência deste Tribunal Superior firmou-se no sentido de que o provimento do recurso especial por contrariedade ao art. 1022 do CPC/2015 pressupõe que sejam demonstrados, fundamentadamente, os seguintes motivos: (a) que a questão supostamente omitida tenha sido invocada na apelação, no agravo ou nas contrarrazões a estes recursos, ou, ainda, que se cuide de matéria de ordem pública a ser examinada de ofício, a qualquer tempo, pelas instâncias ordinárias;
+(b) a oposição de aclaratórios para indicar à Corte local a necessidade de sanar a omissão em relação ao ponto; (c) que a tese omitida seja fundamental à conclusão do julgado e, se examinada, poderá conduzir a anulação ou reforma do julgado; (d) a inexistência de outro fundamento autônomo, suficiente para manter o acórdão.
+2. In casu, o Tribunal de orig em não enfrentou as matérias suscitadas nas razões do agravo de instrumento, mesmo após a oposição de embargos de declaração, em que pese sua relevância para a solução da controvérsia, restando configurada a ofensa ao art. 1022, II, do CPC/2015, por negativa de prestação jurisdicional, devendo os autos serem devolvidos para a complementação do julgado, a fim de que sejam apreciadas a tese de inaplicabilidade do art. 535 do CPC/2015, em razão da regra prevista no art. 1057 do mesmo diploma, bem como sobre a tese de excesso de execução.
+3. Agravo interno não provido.
+(AgInt no REsp 1.913.400/RJ, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 16/9/2021).
+Na espécie, portanto, a pretensão recursal merece acolhida pelo art. 1.022, II, do CPC, porquanto não prestada a jurisdição de forma integral, uma vez que a instância ordinária, mesmo instada a fazê-lo, quedou silente, rejeitando os pertinentes embargos declaratórios, limitando-se apenas a afirmar a inexistência de qualquer omissão quanto à questão apresentada.
+ANTE O EXPOSTO, dou provimento ao recurso especial, a fim de determinar o retorno dos autos ao Tribunal de origem para que, em novo julgamento dos embargos de declaração, manifeste-se sobre a questão levantada pelo INSS, prejudicadas as demais análises.
+Publique-se.
+EMENTA
