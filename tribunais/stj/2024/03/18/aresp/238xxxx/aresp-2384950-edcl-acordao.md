@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/03/2024 a 18/03/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Na presente hipótese, não foi observado quaisquer um dos vícios ensejadores da oposição dos aclaratórios, em particular, a existência de omissão no julgado a ensejar a alteração no acórdão embargado, mas mero inconformismo com os fundamentos adotados no acórdão embargado.
+2. Embargos de declaração nos embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por RAFAEL DIAS CABRAL, contra acórdão proferido em sede de agravo interno, assim ementado:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Os embargos de declaração, a teor do art. 1.022 do CPC, constitui-se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+2. Embargos de declaração rejeitados".
+Nas razões do presente recurso, a parte embargante sustenta não haver fundamentos suficientes para embasar a decisão embargada. Alega que o imóvel foi arrematado por preço vil, de forma a violar o disposto nos arts. 24, parágrafo único, e 27, § 1º, da Lei 9514/97. Se insurge contra as decisões e os acórdãos anteriores ao afirmar que não incidem os óbices de admissibilidade aplicados, bem como de que houve a devida impugnação a estes.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Na presente hipótese, não foi observado quaisquer um dos vícios ensejadores da oposição dos aclaratórios, em particular, a existência de omissão no julgado a ensejar a alteração no acórdão embargado, mas mero inconformismo com os fundamentos adotados no acórdão embargado.
+2. Embargos de declaração nos embargos de declaração rejeitados.
+VOTO
+Inicialmente, constata-se que o artigo 1.022 do CPC/15 não foi violado, porquanto o acórdão que julgou os anteriores embargos declaratórios não contém omissão, contradição ou obscuridade. Neste passo, o acórdão de tratou das questões referentes à ausência de suficiente impugnação dos óbices de admissibilidade, proferindo, a partir da conjuntura então cristalizada, a decisão que lhe pareceu mais coerente.
+Portanto, não há que se falar em ausência de fundamentação do acórdão embargado.
+Nos anteriores embargos declaratórios, a parte alegou que arrematação por preço vil ficou evidenciada. Assim, desnecessária a incursão no acervo fático probatório, diante do entendimento firmado por esta própria Corte. Aduziu que de tão claro e evidente tal questão, com entendimento consolidado, não é razoável e justo considerar que a alegação da embargante ocorreu de forma genérica. Alegou que foram apresentados diversos julgados desta r. Corte demonstrando a consolidação de tal entendimento.
+Por sua vez, o acórdão assim consignou acerca das alegações da parte:
+"Na sua peça de agravo em recurso especial, a parte alega a título de afastamento da Súmula 7/STJ que "Contudo, diferentemente do entendimento acima reproduzido, o reconhecimento do preço vil não demanda reanálise de prova." (e-STJ fl. 396), colacionando, a seguir, ementas de julgados que analisaram controvérsias relativas à nulidade de arrematação tomada por preço vil.
+Nesse sentir, restou claramente consignado no acórdão embargado que a impugnação da parte foi genérica:
+"Especificamente no que diz respeito à alegação de que houve a devida impugnação da Súmula 7/STJ, extrai-se do agravo em recurso especial de fls. (e-STJ) que esta ocorreu de forma genérica, sem demonstrar efetivamente a desnecessidade de incursão no acervo fático probatório. Com efeito, não houve a necessária impugnação ao referido óbice aplicado para a inadmissão do recurso especial que interpusera.
+Especificamente no que diz respeito à alegação que combateu o óbice relativo à divergência jurisprudencial não comprovada, não houve a necessária impugnação ao óbice aplicado para a inadmissão do recurso especial na peça de agravo em recurso especial. Assim, mostra-se insuficiente a alegação da parte agravante nesta oportunidade.
+Imperioso frisar que as razões do agravo interno não se prestam a sanar a deficiência do agravo não conhecido, em razão da preclusão consumativa operada pela interposição do recurso antecedente. Nesse sentido: AgInt no AREsp 936439/SP, 3ª Turma, DJe de 22/03/2017.
+Registre-se, ainda que o afastamento dos óbices deve ocorrer com a devida explicação a cargo da parte agravante do porquê de sua não aplicação de maneira concreta na hipótese em análise.
+Nesse contexto, ressalte-se que o art. 34, XVIII, "a", do RISTJ exige a impugnação específica e consistente a todos os fundamentos da decisão de inadmissibilidade do recurso especial, motivo pelo qual referidos pontos deveriam ter sido combatidos na peça de agravo de e-STJ fls. 390/401." (e-STJ fl. 493 - sem destaque no original)
+Ou seja, restou claro que não basta a mera alegação genérica que a controvérsia dos presentes autos não demanda reanálise de fatos e provas, mas a devida explicação da não aplicação do óbice de maneira concreta na hipótese dos autos.
+Longe de servir a esse propósito, o colacionamento de ementas de outros julgados não se presta para refletir a realidade específica dos presentes autos, ficando a cargo da parte embargante o ônus de demonstrar que os fatos sobre os quais se baseiam as controvérsias foram consignados no acórdão recorrido e são suficientes ao conhecimento da alegação. Inclusive, para esse propósito, uma das ementas colacionadas ainda exara que "Não se adentrou o reexame de provas para a constatação de que o bem foi alienado por preço vil, porquanto, da leitura do voto condutor prolatado na origem, verifica-se que a arrematação do bem ocorreu por menos da metade do valor da avaliação."
+O mesmo raciocínio se aplica para o óbice relativo à não comprovação do dissídio jurisprudencial." (e-STJ fls. 534/535)
+Novamente, na presente hipótese, não foi observado quaisquer um dos vícios ensejadores da oposição dos aclaratórios, em particular, a existência de omissão no julgado a ensejar a alteração no acórdão embargado, mas mero inconformismo com os fundamentos adotados no acórdão embargado.
+Em verdade, das razões dos presentes embargos é possível extrair que a parte pretende a reforma do acórdão embargado por error in judicando. É cediço que a pretensão de mudança da matéria de fundo não enseja a oposição dos embargos de declaração.
+Busca a parte embargante, por meio do presente recurso, efeitos meramente infringenciais, não revelando a intenção de sanar omissão ou contradição, mas de abrir nova discussão a respeito da impugnação de todos os fundamentos de inadmissão já decidida no acórdão, o que desborda dos estreitos limites de cabimento do recurso
+Ademais, quanto aos argumentos meritórios do apelo extremo, promove-se com o manejo do presente remédio processual, um desvirtuamento da natureza do recurso que se presta à correção do julgado e, não à reapreciação ou retomada dos debates acerca das teses, sejam fáticas ou jurídicas, defendidas pelas partes.
+DISPOSITIVO
+Forte nessas razões, REJEITO os embargos de declaração nos embargos de declaração no agravo interno no agravo em recurso especial.
