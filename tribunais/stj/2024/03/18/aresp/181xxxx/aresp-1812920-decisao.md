@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da ausência de violação a dispositivo legal e incidência da Súmula n. 7 do STJ (e-STJ fls. 168/169).
+O acórdão rec orrido encontra-se assim ementado (e-STJ fls. 94/95):
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. SUBROGAÇÃO. DOCUMENTOS ILEGÍVEIS. PAGAMENTOS NÃO COMPROVADOS. RECURSO CONHECIDO E DESPROVIDO. DECISÃO MANTIDA.
+In casu, observa-se do caderno processual e das próprias alegações da agravante que mesmo já dispondo, como afirma, de uma "sub-rogação", tendo em vista a afirmação de que já teria repassado os valores para a locadora, ajuizou a ação em nome da representada, atuando somente como representante processual da mesma. Ora, se já tinha direito ao crédito como alegado, em face da sub-rogação, por qual razão ajuizaria a ação em nome da locadora, de fato, há uma inconsistência, ou até mesmo, um comportamento contraditório, que deve ser melhor esclarecido.
+Noutra linha, embora, de fato, não desconheça a possibilidade de ocorrência da sub-rogação, certo é que, diferentemente do que faz parecer a agravante, não está cabalmente demonstrado que todos os valores foram repassados para a locadora, haja vista que os documentos apresentados, na sua maioria encontram-se ilegíveis, principalmente os comprovantes de transferência para a locadora, o que, mais uma vez, milita em desfavor da concessão da tutela pleiteada.
+Agravo conhecido e não provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 121/128).
+Nas razões do recurso especial (e-STJ fls. 133/142), interposto com fundamento no art. 105, III, "a", da CF, a parte alegou violação dos seguintes dispositivos legais:
+(i) art. 1.022, II, do CPC/2015, pois "o v. acórdão recorrido e que julgou o mérito do agravo de instrumento não se manifestou acerca da real situação trazida à baila pela ora recorrente (existência de momento adequado para aplicação do instituto da sub-rogação)" (e-STJ fl. 139), e
+(ii) art. 346, III, do CC/2002, sob alegação de que "a intenção da recorrente é pura e simplesmente que esse c. STJ se manifeste acerca da existência de momento específico para pedir a aplicação desse instituto. O momento adequado não é definido em lei. A sub-rogação ocorre de pleno direito com o pagamento da dívida por terceiro que poderia ser obrigado a pagá-la" (e-STJ fl. 141).
+Busca o provimento do recurso para "(i) reconhecer a violação ao artigo 1022, inciso II do CPC/15, anular o julgamento do v. acórdão recorrido e determinar a remessa dos autos ao e. TJDFT para que seja proferido novo julgamento com pronunciamento específico do e. TJDFT acerca das questões abordadas nas razões do agravo de instrumento; (ii) no mérito, reconhecer a violação ao artigo artigo 346, inciso III do CC/02, manifestando-se especificamente quanto a existência ou não de momento processual adequado para ocorrência da sucessão processual por meio do instituto da sub-rogação" (e-STJ fl. 142).
+Contrarrazões às fls. 160/164 (e-STJ).
+No agravo (e-STJ fls. 172/181), afirma a presença dos requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo
+Segundo o Tribunal de origem a questão controversa não diz respeito ao momento em que pode haver a sub-rogação, mas sim quanto à prova de que houve, de fato, a sub-rogação. A propósito (e-STJ fl. 98):
+Noutra linha, embora, de fato, não desconheça a possibilidade de ocorrência da sub-rogação, certo é que, diferentemente do que faz parecer a agravante, não está cabalmente demonstrado que todos os valores foram repassados para a locadora, haja vista que os documentos apresentados ao Id. 12758864 - pág. 1 a 27, na sua maioria encontram-se ilegíveis, principalmente os comprovantes de transferência para a locadora, o que, mais uma vez, milita em desfavor da concessão da tutela pleiteada.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Consta nos autos que o Tribunal de origem afirmou ser "mais prudente, a conduta adotada pelo magistrado, qual seja, de chamar ao feito o inventariante ou os legítimos herdeiros, para que todas essas questões possam ser esclarecidas e, se de fato ficar comprovado, que os valores foram repassados e que é a agravante titular do crédito, não veria óbice de fato a sub-rogação postulada" (e-STJ fl. 98).
+Modificar o entendimento do acórdão impugnado quanto à necessidade de instrução do processo para comprovar a sub-rogação, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+ EMENTA
