@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, contra o acórdão proferido pelo TJRJ ementado às fls. 86-88.
+O recorrente alega violação do art. 205 do CC, sob os seguintes argumentos: a) trata-se de recurso de apelação interposto pelo Município de Barra do Piraí contra sentença que extinguiu execução fiscal sob o fundamento de que créditos cobrados consubstanciariam "valor ínfimo", sendo que o acórdão recorrido decidiu pelo provimento parcial do recurso interposto, reconhecendo, equivocadamente, de ofício, a inexigibilidade dos créditos não tributários de tarifa de água e esgoto dos anos de 2012 a 2016, sob o fundamento de ocorrência de prescrição originária; b) o reconhecimento da prescrição dos créditos de tarifa de água e esgoto dos exercícios de 2012 a 2016 se deu ao argumento de aplicação do CTN aos débitos de natureza não tributária, mas aplica-se ao caso prazo decenal; c) os créditos relacionados a tarifa de água e esgoto se revestem de natureza não tributária e, portanto, estão sujeitos, no que tange a prescrição, às regras dispostas no Código Civil de 2022 (art. 205) ou seja, com prazo prescricional decenal; d) a execução fiscal foi distribuída em 20 de dezembro de 2022, objetivando a recuperação dos débitos de natureza não tributária referente a tarifa de água e esgoto dos exercícios fiscais de 2012 a 2021, de modo que houve o ajuizamento da execução fiscal dentro do tempo hábil apto a ordenar a cobrança, não se constatando a ocorrência de prescrição dos créditos não tributários dos exercícios de 2012 a 2016.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 184-191.
+É o relatório. Passo a decidir.
+Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, verifica-se, no que diz respeito ao art. 205 do CC (e à tese a ele vinculada), que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 205 DO CC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. RECURSO ESPECIAL NÃO CONHECIDO.
