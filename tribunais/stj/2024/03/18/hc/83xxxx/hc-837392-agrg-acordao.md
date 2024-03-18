@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/03/2024 a 18/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Não participaram do julgamento os Srs. Ministros Teodoro Silva Santos e Jesuíno Rissato (Desembargador Convocado do TJDFT).
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QAULIFICADO. PRETENSÃO DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. RÉU REINCIDENTE ESPECÍFICO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A despeito do quantum da reprimenda imposta ao réu (2 anos e 4 meses de reclusão) possibilitar a substituição da pena privativa de liberdade por restritiva de direitos, verifica-se, além da existência de diversas recidivas pretéritas (que justificaram a majoração da pena-base) , a ocorrência da reincidência específica em crime doloso, situação que justifica o indeferimento do benefício, conforme orientação desta Corte.
+2. Agravo regimental não provido.
+RELATÓRIO
+DIOGO SOUZA DOS SANTOS interpõe agravo regimental contra a decisão de fls. 329-331, que denegou a ordem, na qual pretendia a defesa a substituição da a reprimenda privativa de liberdade por restritivas de direitos.
+Em suas razões, pretende que seja reformado o decisum, ao argumento de que ele vai de encontro com o aresto proferido no AREsp n. 1.716.664/SP, proferido pela Terceira Seção. Em sua ótica, "resta superado pela tese jurídica acima indicada, visto que tal substituição somente seria inviável caso os crimes fossem idênticos" (fl. 337), isto é, se a reincidência for em relação ao mesmo delito.
+Requer, diante disso, "o conhecimento e provimento do presente recurso para que seja determinado ao tribunal local que analise a possibilidade da substituição da pena corporal por PRD" ou,, subsidiariamente, "que esta Corte faça a análise do cabimento ou não da substituição, nos termos do artigo 44 do CP" (fl. 338).
+,
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QAULIFICADO. PRETENSÃO DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. RÉU REINCIDENTE ESPECÍFICO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A despeito do quantum da reprimenda imposta ao réu (2 anos e 4 meses de reclusão) possibilitar a substituição da pena privativa de liberdade por restritiva de direitos, verifica-se, além da existência de diversas recidivas pretéritas (que justificaram a majoração da pena-base) , a ocorrência da reincidência específica em crime doloso, situação que justifica o indeferimento do benefício, conforme orientação desta Corte.
+2. Agravo regimental não provido.
+VOTO
+A despeito dos argumentos expostos pelo insurgente, a decisão impugnada deve ser mantida pelos seus próprios fundamentos, nestes termos (fls. 329-331, destaques no original):
+DIOGO SOUZA DOS SANTOS, condenado a 2 anos e 4 meses de reclusão por furto qualificado, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, que deu parcial provimento à apelação defensiva, mantendo, contudo, o regime inicial semiaberto para o cumprimento da reprimenda, indeferida a substituição por restritiva de direitos.
+Neste writ, objetiva a defesa, liminarmente, que seja obstada a execução da pena, bem como substituída a reprimenda privativa de liberdade por restritivas de direitos, notadamente porque o paciente trabalha com carteira assinada e exerce a atividade de ministro religioso.
+Indeferida a liminar (fls. 275-276) e prestadas as informações (fls. 321- 325), foram os autos ao Ministério Público Federal, que se manifestou pela denegação da ordem, notadamente porque o regime de cumprimento de pena imposto foi adequado, já que se trata de réu reincidente (fls. 321-325).
+Decido.
+De início registro que a exeução da pena, no caso, embora haja sido determinada logo após o julgamento da apelação, ocorrido ainda em 26/10/2016 (fl. 251) - época em que assim era permitido pela orientação do STF -, atualmente está amparada pelo trânsito em julgado da condenação, situação que justifica a sua continuidade.
+Em relação ao pedido de substituição da pena privativa de liberdade por restritivas de direito, a despeito dos argumentos externados pela defesa, observo que o paciente é reincidente. No particular, destacou o Magistrado de primerio grau (fl. 43, destaquei): "Deixo de substituir a pena privativa de liberdade aplicada por restritivas de direitos, porque não estão preenchidos os requisitos exigidos pelo art. 44 do Código Penal, pois o réu é reincidente específico em crime doloso".
+Tal circunstância foi mantida pelo Tribunal de origem que, ao trratar do regime de cumprimento de pena, assinalou (fl. 265-267, destaquei):
+ ..
+Contudo, da extensa certidão colacionada nas fls. 174/180 e consoante informações atualizadas obtidas junto ao sistema informatizado desta Corte, infere-se que, contra o réu, além deste processo, pesa apenas a sentença condenatória transitada em julgado caracterizadora da reincidência (processo n. 018/2.04.0001510-0);
+ ..  O regime inicial de cumprimento de pena segue inalterado o semiaberto, consoante o disposto no artigo 33, §2Q, b e c, cio Código Penal, e considerando a reincidência do réu.
+Consoante entendimento firmado por esta Corte, "mostra-se insuficiente a substituição da pena privativa de liberdade por restritiva de direitos quando há reincidência e a medida não se mostra recomendável (art. 44, II e § 3º, do CP), tal como ocorre na espécie, em que a condenação anterior do réu, considerada para efeitos de reincidência" (HC n. 599.547/DF, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 21/9/2020).
+Nesse sentido, ainda: "Tendo em vista a reincidência específica de um dos agravantes, não faz jus à substituição da pena privativa de liberdade por restritiva de direitos" (AgRg no HC 586.198 SC, Rel. Ministro Nefi Cordeiro, 6ª T.,DJe 14/9/2020)..
+À vista do exposto, com fulcro no art. 34, XX, do RISTJ, denego o habeas corpus.
+De fato, além da reincidência específica, conforme ficou consignado na decisão impugnada, extrai-se que o insurgente possui outros antecedentes, os quais inclusive serviram para balizar a pena-base acima do mínimo legal, situação que não recomenda a substituição da pena privativa de liberdade por restritiva de direitos. Aliás, no próprio precedente citado pela defesa (AREsp n. 1.716.664/SP) também não foi concedido o referido benefício, visto que não recomendável.
+No particular, já deciciu esta Corte: " r evela-se inviável a substituição da pena privativa de liberdade por restritivas de direitos, nos termos do art. 44, incisos I, II e III, do CP; seja em razão de o quantum da reprimenda ser superior a 4 (quatro) anos, seja em virtude da reincidência ou, ainda, da presença de circunstância judicial desfavorável, o que inclusive ensejou o aumento da pena-base" (AgRg no HC 773381/SP, Rel. Ministro Antonio Saldanha Palheiro, DJe 23/3/2023).
+À vista do exposto, nego provimento ao agravo regimental.
