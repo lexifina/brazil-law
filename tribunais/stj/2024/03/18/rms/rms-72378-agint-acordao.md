@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/03/2024 a 18/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ATO JURISDICIONAL. RECURSO. POSSIBILIDADE. MANDADO DE SEGURANÇA. NÃO CABIMENTO. SÚMULA 267/STF. INCIDÊNCIA. DECISÃO MONOCRÁTICA MANTIDA.
+1. Não há falar em cerceamento de defesa. Tanto a decisão agravada quanto a decisão que julgou os embargos foi explícita quanto a amoldar-se a situação dos autos à prescrição trazida na Súmula n. 267 do STF ("Não cabe mandado de segurança contra ato judicial passível de recurso ou correição"), pois cabível na espécie recurso. A decisão de fls. 429-432 reiterou que: "Nesse sentido, não se observa teratologia, sobretudo porque observado pela decisão recorrida que "o terceiro prejudicado no processo de execução tem legitimidade para opor embargos de terceiro ou interpor recurso contra decisões de constrição que o afetem" (fl. 246)" (fl. 431).
+2. A Súmula n. 202 desta Corte ("A impetração de segurança por terceiro, contra ato judicial, não se condiciona à interposição de recurso"), se aplica apenas ao terceiro que não teve condições de tomar ciência da decisão que o prejudicou, com a consequente impossibilidade de utilizar-se do recurso no prazo legal, situação não verificada no presente caso. Precedentes.
+3. A Lei n. 12.016/2009 dispõe, em seu art. 5º, inciso II, que não se concederá mandado de segurança quando se tratar de decisão judicial da qual caiba recurso com efeito suspensivo. O writ não pode ser utilizado como sucedâneo recursal. Incide, pois, na espécie, como anteriormente enfatizado, insuperável obstáculo jurídico representado pela Súmula n. 267/STF. Precedentes.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interposto por ANTONIO JOSE PRECOMA e MARIA MADALENA ROCCO PRECOMA contra decisão de minha relatoria que negou provimento ao recurso ordinário em mandado de segurança.
+Extrai-se dos autos que a parte agravante interpôs recurso ordinário em mandado de segurança contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 242):
+MANDADO DE SEGURANÇA. COMPETÊNCIA ORIGINÁRIA. Impetrantes que se insurgem contra atos do Juízo, que determinou a penhora, avaliação e designação de leilão de imóveis em copropriedade. NÃO CABIMENTO: Não é cabível mandado de segurança contra ato judicial passível de recurso, cabendo, dessa forma, o indeferimento da inicial, nos termos do artigo 10 da Lei Federal nº 12.016/09 e em consonância com o teor da Súmula nº 267 do E. STF.
+Embargos de declaração acolhidos apenas para sanar erro material, sem alteração do resultado (fls. 302-306).
+No recurso ordinário, expôs a parte recorrente cuidar-se de mandado de segurança repressivo contra ato do Juiz da 4ª Vara Cível do Foro de Campinas, consistente na determinação de penhora, avaliação e designação de leilão de bens imóveis dos quais são coproprietários nos autos da ação de execução de título executivo extrajudicial movida por Petrobras Distribuidora S.A. (atualmente Vibra Energia S.A.) contra o Posto Recanto de Itaici Comércio de Combustíveis Ltda. e outros (autos n. 1008467-75.2015.8.26.0114), em que os recorrentes não figurariam no polo passivo; alegam que não foram intimados dos atos de penhora, avaliação e leilão.
+Pediu, liminarmente, a proibição da designação do leilão dos imóveis objeto das matrículas 23.675, 45.583 e 1.714 enquanto pendente de deliberação judicial final este recurso e, ao final, pelo provimento do recurso com a concessão da segurança para anular os atos de penhora, avaliação e leilão dos imóveis objeto das Matrículas n. 23675, 45.583 e 1.714, e que fosse determinado o retorno dos autos à origem para o regular exercício do contraditório e da ampla defesa dos recorrentes.
+A decisão monocrática ora agravada negou provimento ao recurso ordinário com fundamento na Súmula n. 267 do STF.
+Rejeitados os embargos de declaração opostos (fls. 483-485).
+No agravo interno, alegam os agravantes cerceamento de defesa, pois os "recorrentes requereram expressamente, em sede de recurso de embargos de declaração fosse explicado por que não se aplicou a Súmula 202, do STJ, sendo que eles não mais poderiam usar as vias recursais para combater os atos de constrição e expropriação na origem" (fl. 492).
+Repassam os argumentos do recurso ordinário.
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ATO JURISDICIONAL. RECURSO. POSSIBILIDADE. MANDADO DE SEGURANÇA. NÃO CABIMENTO. SÚMULA 267/STF. INCIDÊNCIA. DECISÃO MONOCRÁTICA MANTIDA.
+1. Não há falar em cerceamento de defesa. Tanto a decisão agravada quanto a decisão que julgou os embargos foi explícita quanto a amoldar-se a situação dos autos à prescrição trazida na Súmula n. 267 do STF ("Não cabe mandado de segurança contra ato judicial passível de recurso ou correição"), pois cabível na espécie recurso. A decisão de fls. 429-432 reiterou que: "Nesse sentido, não se observa teratologia, sobretudo porque observado pela decisão recorrida que "o terceiro prejudicado no processo de execução tem legitimidade para opor embargos de terceiro ou interpor recurso contra decisões de constrição que o afetem" (fl. 246)" (fl. 431).
+2. A Súmula n. 202 desta Corte ("A impetração de segurança por terceiro, contra ato judicial, não se condiciona à interposição de recurso"), se aplica apenas ao terceiro que não teve condições de tomar ciência da decisão que o prejudicou, com a consequente impossibilidade de utilizar-se do recurso no prazo legal, situação não verificada no presente caso. Precedentes.
+3. A Lei n. 12.016/2009 dispõe, em seu art. 5º, inciso II, que não se concederá mandado de segurança quando se tratar de decisão judicial da qual caiba recurso com efeito suspensivo. O writ não pode ser utilizado como sucedâneo recursal. Incide, pois, na espécie, como anteriormente enfatizado, insuperável obstáculo jurídico representado pela Súmula n. 267/STF. Precedentes.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Mantenho a decisão monocrática.
+Tanto a decisão agravada quanto a decisão que julgou os embargos foi explícita quanto a amoldar-se a situação dos autos à prescrição trazida na Súmula n. 267 do STF ("Não cabe mandado de segurança contra ato judicial passível de recurso ou correição"), pois cabível na espécie recurso.
+A decisão de fls. 429-432 reiterou que: "Nesse sentido, não se observa teratologia, sobretudo porque observado pela decisão recorrida que "o terceiro prejudicado no processo de execução tem legitimidade para opor embargos de terceiro ou interpor recurso contra decisões de constrição que o afetem" (fl. 246)" (fl. 431).
+Relembra-se à parte que a Súmula n. 202 desta Corte ("A impetração de segurança por terceiro, contra ato judicial, não se condiciona à interposição de recurso") se aplica apenas ao terceiro que não teve condições de tomar ciência da decisão que o prejudicou, com a consequente impossibilidade de utilizar-se do recurso no prazo legal, situação não verificada no presente caso.
+Isso porque, conforme argumentação e pedido da própria parte agravante em sua inicial, a venda dos imóveis não havia ocorrido quando da propositura do mandado de segurança, o que demonstra ciência da decisão de penhora e leilão e oportunidade de interpor recurso não apenas apto a impugnar o leilão vindouro, mas também passível de pedido de empréstimo de efeito suspensivo.
+Em resumo, o mandado de segurança é a última instância, somente podendo dela fazer uso o terceiro que não teve a chance de impugnar o ato apontado como coator em tempo hábil.
+A propósito, cito:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. DECISÃO JUDICIAL. TERCEIRO INTERESSADO. INTERPOSIÇÃO DE RECURSO. WRIT. DESCABIMENTO.
+1. A impetração de mandado de segurança contra decisão judicial somente é admitida nos casos de manifesta ilegalidade ou abuso de poder. Precedentes.
+2. De acordo com a Súmula 202 desta Corte, "a impetração de segurança por terceiro, contra ato judicial, não se condiciona à interposição de recurso".
+3. A incidência desse verbete contempla "tão somente aquele que não teve condições de tomar ciência da decisão que lhe prejudicou, ficando impossibilitado de se utilizar do recurso cabível" (RMS 42.593/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, julgado em 08/10/2013, DJe 11/10/2013), pois a condição de terceiro pressupõe o desconhecimento e ausência de manifestação no processo (RMS 34.055/SP, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, julgado em 24/05/2011, DJe 31/05/2011).
+4. Hipótese em que o impetrante teve ciência da decisão proferida em sede de medida cautelar que lhe foi desfavorável, inclusive interpondo agravo regimental, conforme consignado no acórdão recorrido, inviabilizando a impetração do writ.
+5. Recurso ordinário desprovido.
+(RMS n. 51.532/CE, relator Ministro Napoleão Nunes Maia Filho, relator para acórdão Ministro Gurgel de Faria, Primeira Turma, julgado em 4/8/2020, DJe de 19/8/2020.)
+AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. WRIT IMPETRADO POR TERCEIRO CONTRA ATO JUDICIAL DO QUAL OBTEVE INEQUÍVOCA CIÊNCIA, A POSSIBILITAR A UTILIZAÇÃO DA VIA RECURSAL ADEQUADA, BEM COMO DE EMBARGOS DE TERCEIRO. IMPETRAÇÃO DE MANDADO DE SEGURANÇA. NÃO CABIMENTO. INTERPRETAÇÃO CONJUGADA DOS ENUNCIADOS N. 267 DA SÚMULA DO STF E N. 202 DA SÚMULA DO STJ. PRECEDENTES. RECURSO ORDINÁRIO IMPROVIDO. AGRAVO INTERNO IMPROVIDO.
+1. O mandamus foi utilizado indevidamente como sucedâneo recursal, notadamente se levado em consideração o fato de que a terceira, ora recorrente, foi devidamente cientificada da decisão reputada ilegal, conferindo-se-lhe a possibilidade de interpor o recurso adequado, na condição de terceiro interessado, bem como se valer de embargos de terceiros, providências, ao que parece, não levadas a efeito.
+2. Sem descurar dos termos do enunciado n. 202 da Súmula do STJ (in verbis: "a impetação de segurança por terceiro, contra ato judicial, não se condiciona a interposição de recurso"), saliente-se que, na esteira da uníssona jurisprudência desta Corte de Justiça, este deve ser conjugado com o teor do enunciado n. 267 da Súmula do STF (in verbis: "não cabe mandado de segurança contra ato judicial passível de recurso ou correição"), permitindo-se que o terceiro se utilize da via mandamental sempre que não tenha obtido condições de tomar ciência do ato judicial que lhe prejudicou, a impossibilitar a utilização do recurso cabível. Precedentes.
+3. Agravo interno improvido.
+(AgInt no RMS n. 50.779/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/2/2019, DJe de 21/2/2019.)
+Portanto, não há falar em cerceamento de defesa.
+Inafastável, portanto, o óbice da Súmula n. 267 do STF: "Não cabe mandado de segurança contra ato judicial passível de recurso ou correição".
+Importante observar que a Lei n. 12.016/2009, que disciplina o mandado de segurança individual e coletivo, dispõe, em seu art. 5º, inciso II, que não se concederá mandado de segurança quando se tratar de decisão judicial da qual caiba recurso com efeito suspensivo. O writ não pode ser utilizado como sucedâneo recursal. Incide, pois, na espécie, como anteriormente enfatizado, insuperável obstáculo jurídico representado pela Súmula n. 267/STF.
+Sobre o tema esta Corte já decidiu:
+AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ATO JUDICIAL. SÚMULA 267 DO STF. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. INEXISTÊNCIA DE ILEGALIDADE, TERATOLOGIA OU CARÁTER ABUSIVO NA DECISÃO COMBATIDA. SÚMULA 267/STF.
+1. É incabível o mandado de segurança quando impetrado contra decisão judicial sujeita a recurso específico ou transitada em julgado, mormente porque tal remédio constitucional não representa panaceia para toda e qualquer situação, nem é sucedâneo do recurso específico ou da ação rescisória. Inteligência da Súmula 267/STF.
+2. O mandado de segurança somente pode ser impetrado contra ato judicial, quando cristalizado o caráter abusivo, a ilegalidade ou a teratologia na decisão combatida, situação que não ocorreu nos autos.
+3. Agravo interno não provido.
+(AgInt no RMS n. 51.888/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/5/2017, DJe de 26/5/2017.)
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ATO JURISDICIONAL PASSÍVEL DE RECURSO. NÃO CABIMENTO DO MANDAMUS. INCIDÊNCIA DAS SÚMULAS N.º 267/STF E N.º 268/STF. ABUSIVIDADE E TERATOLOGIA NÃO EVIDENCIADAS. DECISÃO ATACADA TRANSITADA EM JULGADO. NÃO CABIMENTO DO MANDADO DE SEGURANÇA.
+1. Não cabimento de mandado de segurança contra ato judicial passível de recurso ou correição, nem contra decisão judicial transitada em julgado.
+2. Incabível o mandado de segurança quando não evidenciado o caráter abusivo ou teratológico do ato judicial impugnado.
+3. Aplicação das regras do art. 5º, incisos II e III, da Lei n.º 12.016/2009, à luz das súmulas 267 e 268/STF.
+4. RECURSO ORDINÁRIO DESPROVIDO.
+(RMS n. 53.418/GO, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 25/4/2017, DJe de 2/5/2017.)
+Por essas razões, incabível reconsideração.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
