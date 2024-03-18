@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/03/2024 a 18/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  OMISSÃO  INEXISTENTE.  RECUPERAÇÃO  JUDICIAL.  COTAS  CONDOMINIAIS.  EXTRACONCURSAL.  JURISPRUDÊNCIA  CONSOLIDADA.  DECISÃO  AGRAVADA.  MANUTENÇÃO.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  é  firme  no  sentido  de  que  os  créditos  de  natureza  extraconcursal  provenientes  de  despesas  condominiais  não  se  submetem  aos  efeitos  da  recuperação  judicial,  de  forma  que  não  há  falar  em  suspensão  da  sua  execução  para  a  preservação  da  empresa  em  recuperação.  Precedentes.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  JFE  35  EMPREENDIMENTOS  IMOBILIÁRIOS  LTDA.  -  EM  RECUPERAÇÃO  JUDICIAL  contra  a  decisão  desta  relatoria  que  conheceu  do  seu  agravo  para  conhecer  do  recurso  especial  e  negar-lhe  provimento  (fls.  229-233).
+Em  suas  razões  (fls.  238-249),  a  agravante  apresenta  as  seguintes  argumentações:
+(i)  violação  dos  arts.  489,  §  1º,  IV,  e  1.022,  parágrafo  único,  II,  do  Código  de  Processo  Civil,  argumentando  que  não  foi  enfrentada  a  questão  da  competência  exclusiva  do  juízo  da  recuperação  judicial  para  análise  de  todos  os  atos  constritivos  do  patrimônio  da  agravante,  e
+(ii)  "encontra-se  em  recuperação  judicial,  de  forma  que  compete  ao  juízo  recuperacional  reconhecer  ou  não  o  caráter  extraconcursal  do  bem  suscetível  de  satisfação  da  dívida  exequenda,  consoante  regra  do  artigo  49  da  Lei  11.101/05"  (fl.  245).
+A  parte  contrária  apresentou  impugnação  às  fls.  259-267.
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  OMISSÃO  INEXISTENTE.  RECUPERAÇÃO  JUDICIAL.  COTAS  CONDOMINIAIS.  EXTRACONCURSAL.  JURISPRUDÊNCIA  CONSOLIDADA.  DECISÃO  AGRAVADA.  MANUTENÇÃO.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  é  firme  no  sentido  de  que  os  créditos  de  natureza  extraconcursal  provenientes  de  despesas  condominiais  não  se  submetem  aos  efeitos  da  recuperação  judicial,  de  forma  que  não  há  falar  em  suspensão  da  sua  execução  para  a  preservação  da  empresa  em  recuperação.  Precedentes.
+3.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+No  que  tange  aos  arts.  489,  §  1º,  IV,  e  1.022,  parágrafo  único,  II,  do  Código  de  Processo  Civil,  não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  local,  ainda  que  por  razões  distintas  daquelas  apresentadas  pelas  partes,  adota  fundamentação  suficiente  para  decidir  integralmente  a  controvérsia.
+No  presente  caso,  como  já  asseverado  na  decisão  atacada ,  não  se  vislumbra  a  apontada  omissão  no  acórdão  proferido  pelo  tribunal  de  origem,  que  expressamente  reconheceu  que  o  crédito  condominial  não  está  sujeito  à  recuperação  judicial  e,  por  isso,  com  base  na  jurisprudência  do  Superior  Tribunal  de  Justiça,  manteve  a  decisão  que  indeferiu  o  pedido  de  suspensão  da  execução  individual.
+Assim,  a  Corte  local  enfrentou  a  matéria  posta  em  debate  na  medida  necessária  para  o  deslinde  da  controvérsia.
+Ressalta-se  que  a  omissão  capaz  de  justificar  a  devolução  dos  autos  à  origem  para  sua  apreciação  ou,  ainda,  o  seu  exame  na  instância  a  quo  deve  se  tratar  de  matéria  relevante  ao  deslinde  da  controvérsia,  apta  a  alterar  o  resultado  da  demanda,  o  que  não  é  o  caso  dos  autos.
+A  alegação  de  que  é  competente  o  juízo  da  recuperação  judicial  para  análise  de  todos  os  atos  constritivos  do  patrimônio  da  agravante  não  tem  o  efeito  de  modificar  o  julgado  proferido  pelo  tribunal  de  origem  no  sentido  de  que  o  crédito  condominial,  de  natureza  propter  rem,  não  está  sujeito  à  recuperação  judicial,  conforme  a  jurisprudência  pacífica  do  Superior  Tribunal  de  Justiça.
+Não  há  falar,  portanto,  em  existência  de  omissão  ou  de  deficiência  de  fundamentação  apenas  pelo  fato  de  a  sentença  e  o  acórdão  recorrido  terem  decidido  em  sentido  contrário  à  pretensão  da  parte.
+No  mais,  conforme  já  posto  na  decisão  agravada,  o  tribunal  de  origem  está  em  conformidade  com  a  jurisprudência  do  Superior  Tribunal  de  Justiça,  no  sentido  de  que  o  crédito  condominial  tem  natureza  extraconcursal  e  não  se  submete  aos  efeitos  da  recuperação  judicial,  sendo  inafastável  a  incidência  da  Súmula  nº  568/STJ  ao  presente  caso.
+Confiram-se:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  DIREITO  PROCESSUAL  CIVIL.  EXECUÇÃO  DE  TÍTULO  EXTRAJUDICIAL.  COBRANÇA  DE  COTA  CONDOMINIAL.  CRÉDITO  EXTRACONCURSAL.  NÃO  HÁ  SUSPENSÃO  DO  PROCESSO  NA  HIPÓTESE.  ENTENDIMENTO  DO  STJ.  PRECEDENTES.  SÚMULA  83  DO  STJ.  NÃO  IMPUGNAÇÃO  ESPECÍFICA.  JULGADOS  DIVERSOS.  AGRAVO  INTERNO  NÃO  PROVIDO.
+1.  A  jurisprudência  desta  Corte  firmou-se  no  sentido  de  que  os  créditos  provenientes  de  despesas  condominiais,  por  serem  essenciais  à  manutenção  do  ativo,  possuem  natureza  extraconcursal,  razão  pela  qual  não  se  sujeitam  à  habilitação  de  crédito.  Precedentes.
+2.  O  simples  fato  do  juízo  da  recuperação  judicial  ser  competente  para  controlar  os  atos  constritivos  não  elimina  o  posicionamento  desta  Corte  no  sentido  de  que  as  despesas  condominiais  possuem  natureza  extraconcursal,  não  se  sujeitando,  portanto,  à  suspensão  determinada  pelo  art.  99  da  Lei  de  Falências.
+3.  O  Tribunal  de  origem  seguiu  no  mesmo  posicionamento  desta  Corte,  incidindo,  assim,  no  óbice  da  Súmula  83  do  STJ.
+4.  Não  houve  adequada  impugnação  ao  fundamento  do  juízo  negativo  de  admissibilidade  que  aplicou  a  Súmula  n.  83  desta  Corte,  cuja  impugnação  pressupõe  a  demonstração  por  meio  de  precedentes  atuais  de  que  a  jurisprudência  do  STJ  não  estaria  no  mesmo  sentido  do  acórdão  recorrido,  ou  que  o  caso  dos  autos  seria  distinto  daqueles  veiculados  nos  precedentes  por  meio  de  distinguishing,  o  que  não  ocorreu  na  hipótese.
+5.  Agravo  interno  a  que  se  nega  provimento."
+(AgInt  no  AREsp  2.238.690/RJ,  Relatora  Ministra  MARIA  ISABEL  GALLOTTI,  Quarta  Turma,  julgado  em  16/10/2023,  DJe  de  20/10/2023).
+"PROCESSO  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RECUPERAÇÃO  JUDICIAL.  DESPESAS  CONDOMINIAIS.  CRÉDITO  EXTRACONCURSAL.  SÚMULA  N.  83  DO  STJ.  DECISÃO  MANTIDA.
+1.  "A  jurisprudência  do  Superior  Tribunal  de  Justiça  é  firme  quanto  ao  entendimento  de  que  os  créditos  de  natureza  extraconcursal  provenientes  de  despesas  condominiais  não  se  submetem  aos  efeitos  da  recuperação  judicial,  de  forma  que  não  há  falar  em  suspensão  da  sua  execução  para  a  preservação  da  empresa  em  recuperação"  (AgInt  no  AREsp  n.  1.951.790/RJ,  Relator  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  TERCEIRA  TURMA,  julgado  em  5/9/2022,  DJe  de  19/9/2022).
+2.  Agravo  interno  a  que  se  nega  provimento."
+(AgInt  no  AREsp  2.323.560/RJ,  Relator  Ministro  ANTONIO  CARLOS  FERREIRA,  Quarta  Turma,  julgado  em  16/10/2023,  DJe  de  20/10/2023).
+"PROCESSUAL  CIVIL  E  FALIMENTAR.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO  DE  INSTRUMENTO.  ENCARGOS  CONDOMINIAIS.  DESPESAS  NECESSÁRIAS  À  ADMINISTRAÇÃO  DO  ATIVO.  CARÁTER  EXTRACONCURSAL.  SUSPENSÃO  DA  EXECUÇÃO.  INADMISSIBILIDADE.  FUNDAMENTAÇÃO  DEFICIENTE.  NÃO  INDICAÇÃO  DOS  DISPOSITIVOS  DE  LEI  VIOLADOS.  APLICAÇÃO  DA  SÚMULA  N.º  284  DO  STF,  POR  ANALOGIA.  TEMA  NÃO  DEBATIDO  PELAS  INSTÂNCIAS  ORDINÁRIAS.  INCIDÊNCIA  DA  SÚMULA  Nº  282  DO  STF.  AGRAVO  INTERNO  NÃO  PROVIDO.
+1.  O  encargo  condominial,  ainda  que  anterior  ao  pedido  de  quebra,  enquadra-se  no  conceito  de  despesa  necessária  à  administração  do  ativo,  tratando-se  de  crédito  de  natureza  extraconcursal,  que  não  se  submete  aos  efeitos  da  recuperação  judicial.
+2.  A  ausência  de  expressa  indicação  de  artigos  de  lei  violados  inviabiliza  o  conhecimento  do  recurso  especial,  não  bastando  a  mera  menção  a  dispositivos  legais  ou  a  narrativa  acerca  da  legislação  federal,  aplicando-se  o  disposto  na  Súmula  n.º  284  do  STF.
+3.  A  matéria  referente  ao  enfrentamento  de  todos  os  argumentos  deduzidos  no  processo  não  foi  objeto  de  debate  prévio  nas  instâncias  de  origem.  Ausente,  portanto,  o  devido  prequestionamento  nos  termos  da  Súmula  nº  282  do  STF,  aplicável  por  analogia.
+4.  Agravo  interno  não  provido."
+ (AgInt  no  AREsp  2.348.211/RJ,  Relator  Ministro  MOURA  RIBEIRO,  Terceira  Turma,  julgado  em  16/10/2023,  DJe  de  18/10/2023).
+  As  alegações  postas  no  presente  recurso  não  prosperam  e  são  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
