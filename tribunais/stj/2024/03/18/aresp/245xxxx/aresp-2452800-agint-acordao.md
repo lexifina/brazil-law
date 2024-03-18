@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/03/2024 a 18/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SINDICATO. LEGITIMIDADE. VERBAS INDENIZATÓRIAS. PROVA DO DIREITO. REDISCUSSÃO DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7/STJ. INCIDÊNCIA.
+1. O acolhimento da alegação deduzida, no que tange à comprovação do direito dos substituídos às verbas indenizatórias, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pelo Município de Águas Lindas de Goiás desafiando decisão que negou provimento ao agravo em recurso especial, sob o fundamento de que o acolhimento da alegação deduzida demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em especial apelo, conforme o óbice previsto na Súmula 7/STJ.
+A parte postulante, em suas razões, sustenta não ser o caso de aplicação da Súmula 7/STJ, sob a alegação de que "a revaloração da prova, constitui em atribuir o devido valor jurídico a um fato incontroverso reconhecido nas instâncias ordinárias, ou seja, será inteiramente possível aceitar a tese de que o error in judicando (proveniente de equívoco na valoração das provas) e o error in procedendo (erro no proceder) podem ser objeto de Recurso Especial.  ..  Ademais, ainda que não fosse o permissivo jurisprudencial, há que se consignar que o pedido estampado no recurso especial por si só denota a ausência de revolvimento fático, mas tão somente a análise de questões de direito/processuais" (fl. 378).
+As razões do recurso não foram impugnadas.
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SINDICATO. LEGITIMIDADE. VERBAS INDENIZATÓRIAS. PROVA DO DIREITO. REDISCUSSÃO DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7/STJ. INCIDÊNCIA.
+1. O acolhimento da alegação deduzida, no que tange à comprovação do direito dos substituídos às verbas indenizatórias, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Como asseverado no decisum, colheu-se do acórdão recorrido a seguinte fundamentação (fls. 275/280):
+Na espécie, gravita o mérito da insurgência, em suma, em torno da alegada inépcia da exordial e da condenação do recorrente ao pagamento do 13º (décimo terceiro) salário aos substituídos pelo sindicato apelado, em cujas razões se apresentou suficientemente os motivos de inconformismo, motivo pelo qual não merece acolhida a preliminar arguida, já que não se verifica desrespeito ao princípio da dialeticidade.
+ ..
+Argui o apelante a inépcia da exordial, ao argumento de que o pedido não é certo e determinado, uma vez que não é possível identificar os substituídos pelo sindicato apelado, tampouco se ainda são sindicalizados, ou mesmo o valor supostamente devido a cada um deles.
+A despeito do arrazoado, melhor sorte não assiste ao Município.
+Primeiramente, da análise do Estatuto do Sindicato dos Servidores Públicos Municipais de Águas Lindas de Goiás (movimento 3), verifica-se que sua representação abrange a ampla categoria profissional dos servidores públicos municipais  ..  Ademais, nas suas prerrogativas encontra-se elencada a representação perante autoridades administrativas e judiciárias dos interesses gerais da categoria e dos interesses individuais de seus associados (art. 4º, "a", do Estatuto).
+Nessa intelecção, tem-se que, estatutariamente, o sindicato autor/apelado detém legitimidade para representar todos os trabalhadores municipais, independentemente da natureza do vínculo jurídico que ostentem com o ente público e a despeito da anuência dos associados ou de relação nominal.
+Estabelecidas essas balizas, observa-se que no caso dos autos, o apelado, em substituição processual dos servidores contratados temporariamente do Município de Águas Lindas de Goiás, postulou em juízo o pagamento do 13º salário/gratificação natalina referente ao ano de 2010, o qual supostamente não fora adimplido pela municipalidade à categoria.
+Sem maiores esforços é possível perceber que o pedido é certo e determinado, de maneira que a ausência da relação nominal dos substituídos ou de informação quanto à atualidade da filiação, bem como de indicação do valor devido a cada um deles, não tornam a petição inicial inepta, notadamente por se tratar de demanda de natureza coletiva, cuja individualização dos eventuais beneficiários e do respectivo crédito se dará por ocasião do cumprimento de sentença.
+Dessa feita, não há inépcia na exordial decorrente de suposto pedido genérico, visto que o pleito, tal qual formulado, revela-se adequado à espécie e possibilita ao demandado/apelante a plena defesa de seus interesses.
+Com efeito, no curso da instrução, o magistrado inclusive requestou à Prefeitura que apresentasse nos autos a relação dos servidores temporariamente contratados do ano de 2010, bem como o comprovante de pagamento do 13º (décimo terceiro) salário, o que evidencia estar suficientemente delineado o pedido e a causa de pedir neste feito.
+ ..
+Isso posto, no tocante ao direito perseguido, denota-se que a alegação autoral pauta-se em "fato negativo", isto é, em circunstância que supostamente não ocorreu  o pagamento da gratificação natalina , cujo ônus probante deve levar em consideração essa peculiaridade.
+Assim, diferentemente do que assevera o recorrente, o pedido inicial vem lastreado com prova de verossimilhança do aventado, consubstanciado no despacho proferido pelo Ministério Público de 1º Grau em atuação na 5ª Promotoria de Justiça da Comarca de Águas Linda de Goiás nos autos administrativos nº 201200287530.
+No referido expediente, o representante ministerial expressamente consigna que, após oficiada para se manifestar acerca dos pagamentos não efetivados, "a municipalidade aduziu que em razão de dificuldades financeiras, os salários seriam pagos no decorrer do ano de 2011".
+Diante dessas ponderações, tem-se que incumbe ao réu demonstrar que há fato impeditivo, modificativo ou extintivo do direito autoral, que, no caso epigrafado, seria a comprovação de que houve o pagamento da aludida parcela remuneratória, o que se daria por meio da juntada dos contracheques ou fichas financeiras de 2010 dos servidores temporariamente contratados pelo município, situação não verificada nos autos.
+Nesse cenário, à luz do disposto no artigo 373, II, do Código de Processo Civil, entende-se o requerido/apelante não logrou desconstituir o alegado pelo autor/recorrido.
+Ao contrário, o compulso do caderno processual evidencia que o ente público, na contestação, ventilou somente teses processuais, isto é, em sua defesa direta de mérito sequer refutou a matéria de fato afirmada na exordial.
+ ..
+Ademais, cumpre-se consignar que no curso da instrução processual, após requerimento do sindicato apelado, o julgador primevo instou o recorrente a coligir ao feito os comprovantes de pagamento do 13º (décimo terceiro) salário atinente ao grupo de servidores em questão (movimento 3, fls. 150 e 156), o que não foi atendido.
+Nessa intelecção, alternativa não há senão reconhecer que não fora efetivado o pagamento da verba remuneratória vindicada na exordial relativamente aos servidores municipais do ano de 2010 admitidos via contrato temporário.
+Está correto o decisório ao observar, pois, que o acolhimento da alegação deduzida, no que tange à comprovação do direito dos substituídos às verbas indenizatórias, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
