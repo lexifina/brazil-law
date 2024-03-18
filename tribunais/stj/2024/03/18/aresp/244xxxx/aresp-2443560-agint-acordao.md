@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/03/2024 a 18/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RENOVATÓRIA DE ALUGUEL. VIOLAÇÃO AOS ARTS. 47 E 49 DA LEI N. 11.101/2005. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO ESTADUAL SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+1. Referente aos argumentos recursais concernentes à necessidade de preservação da sociedade empresária e de submissão do crédito da parte recorrida ao plano de recuperação judicial, incide a Súmula 211/STJ, na espécie, pois ausente o prequestionamento.
+2. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do recurso especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por SAN REMO COMÉRCIO DE ROUPAS LTDA. - EM RECUPERAÇÃO JUDICIAL contra decisão monocrática desta relatoria (e-STJ, fls. 1.071-1.074) assim ementada:
+AGRAVO EM RECURSO ESPECIAL. AÇÃO RENOVATÓRIA DE ALUGUEL. VIOLAÇÃO AOS ARTS. 47 E 49 DA LEI N. 11.101/2005. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO ESTADUAL SÚMULA 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões (e-STJ, fls. 1.078-1.090), a insurgente sustenta, em resumo, a inaplicabilidade da Súmula 211/STJ ao caso, sob o argumento de que houve o prequestionamento das questões apresentadas no seu recurso especial.
+Defende, ainda, que é descabida a incidência da Súmula 283/STF, tendo em vista a demonstração da violação aos arts. 47 e 49 da Lei n. 11.101/2005, bem como da divergência jurisprudencial em relação ao tema.
+Impugnação às fls. 1.096-1.105 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RENOVATÓRIA DE ALUGUEL. VIOLAÇÃO AOS ARTS. 47 E 49 DA LEI N. 11.101/2005. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO ESTADUAL SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+1. Referente aos argumentos recursais concernentes à necessidade de preservação da sociedade empresária e de submissão do crédito da parte recorrida ao plano de recuperação judicial, incide a Súmula 211/STJ, na espécie, pois ausente o prequestionamento.
+2. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do recurso especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+3. Agravo interno desprovido.
+VOTO
+Os argumentos trazidos pela insurgente não são capazes de modificar as conclusões da deliberação unipessoal.
+Conforme registrado na decisão ora atacada, o Tribunal de origem consignou expressamente que a sentença proferida pelo magistrado de primeira instância não decidiu sobre questões atinentes à recuperação judicial da ora insurgente, entendendo, assim, pela inviabilidade da análise de tais matérias ante a possibilidade de incorrer em indevida supressão de instância, de acordo com as seguintes justificativas (e-STJ, fls. 871-872 - sem grifo no original):
+Quanto ao mérito da ação renovatória de locação não residencial ajuizada pela apelante, tem-se que celebrou contrato de aluguel com o apelado referente ao espaço comercial n. 2069 do Pantanal Shopping em 14.8.2014, tendo a locação iniciada em 30.11.2014, com encerramento previsto para 29.11.2019 (item 05 do contrato).
+Mencionou que em razão de sua recuperação judicial, os débitos que a antecederam foram nela inscritos, o que fez com que a ação de despejo ajuizada pelo Pantanal Shopping perdesse o objeto; mencionou que negociou os débitos e passou a adimplir os alugueres e buscou, sem sucesso, a renovação amigável da locação, oferecendo como valor a mesma quantia de R$ 10.458,00, com correção contratual e juros de 1% ao mês.
+Todavia, o Magistrado extinguiu a ação renovatória, sem resolução do mérito, com fulcro no art. 485, I, do Código de Processo Civil.
+Pois bem. O magistrado não adentrou especificamente na alegação da recuperanda de que todas as dívidas anteriores ao deferimento da recuperação judicial ficaram sujeitas a esta e, as posteriores, foram inclusas no acordo; o MM. Juiz se limitou aos requisitos para o ajuizamento da ação renovatória.
+Com efeito, inviável a análise da pretensão de mérito da ação renovatória de locação não residencial, sob pena de supressão de instância e ofensa ao duplo grau de jurisdição, visto que, repito, a ação foi extinta, sem resolução de mérito, por ausência de preenchimento dos requisitos legais.
+Nesse passo, o Magistrado é competente para tanto, visto que o entendimento do STJ caminha no sentido que a ação de despejo movida pelo proprietário locador contra sociedade empresária em regime de recuperação judicial e, por corolário lógico a ação renovatória de aluguel, não se submete à competência do juízo universal da recuperação:
+Dessa forma, tal como enfatizado anteriormente, no que diz respeito à alegada violação aos arts. 47 e 49 da Lei n. 11.101/2005, concernentes às teses recursais de necessidade de preservação da sociedade empresária e de submissão do crédito da parte recorrida ao plano de recuperação judicial, nota-se, da leitura dos trechos acima, que os conteúdos normativos dos referidos dispositivos não foram objeto de análise pelo acórdão impugnado, assim como, apesar da oposição dos embargos de declaração, não se prestaram a justificar a conclusão adotada pela Corte local. Desatendido, nesse ponto, o requisito do prequestionamento, nos termos da Súmula 211/STJ.
+Efetivamente, para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre a tese jurídica em torno do dispositivo legal tido por vulnerado, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal, o que não ocorreu na hipótese.
+Ademais, a falta de prequestionamento inviabiliza o recurso especial também pela alínea c do permissivo constitucional, razão pela qual fica prejudicado o exame da divergência jurisprudencial.
+De outra parte, atentando-se aos argumentos trazidos pela parte insurgente e ao fundamento adotado pela Corte estadual acima destacado (no sentido da inviabilidade de exame de questões não apreciadas pela sentença recorrida, sob pena de indevida supressão de instância), verifica-se que este não foi objeto de impugnação específica nas razões do rec urso especial. Logo, a manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+Em arremate, uma vez que as alegações feitas no presente agravo interno não são capazes de modificar o convencimento anteriormente manifestado, permanece inalterada a decisão recorrida.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o voto.
