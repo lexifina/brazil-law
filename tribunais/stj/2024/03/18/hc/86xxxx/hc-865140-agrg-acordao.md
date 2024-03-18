@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/03/2024 a 18/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Não participaram do julgamento os Srs. Ministros Teodoro Silva Santos e Jesuíno Rissato (Desembargador Convocado do TJDFT).
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ACORDO DE NÃO PERSECUÇÃO PENAL. SUPRESSÃO DE INSTÂNCIA APONTADA PELA CORTE ESTADUAL. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na hipótese, consoante destacou a Corte de origem ao obstar o prosseguimento do recurso especial, "quanto ao pedido de aplicação do artigo 28-A do Código de Processo Penal, não foi observado o prequestionamento da matéria, conforme exigência da Corte Superior" (fl. 75). A esse respeito, é oportuno destacar que os embargos opostos contra o julgamento do recurso de apelação se referiam tão-somente à possibilidade de suspensão condicional da pena. Assim, verifica-se ser defeso a esta Corte Superior adentrar o exame da questão aqui suscitada, dada a evidente e insuperável supressão de instância.
+2. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+RICARDO ADRIANO DE LUNA FARIAS agrava da decisão de fls. 566-567, em que indeferi liminarmente o habeas corpus, dada a patente supressão de instância na hipótese.
+Para tanto, assere que, "conforme o Nobre relator pontuou que no (sic) embargos de Declaração não houve o pleito para aplicação do Acordo de Não persecução penal, mas como é Sabido Embargos de Declaração não se mostrava apto (sic) a mudar a decisão do Acórdão e sim através de Recurso Especial, porém ressalta a Impetrante que tanto a 9ª Câmara de Direito Criminal, quanto o Desembargador Relator ALCIDES MALOSSI JUNIOR poderia através do Juízo de Retração remeter o processo para primeira instância para analise do preenchimento dos Requisitos para concessão do Acordo de Não Persecução Penal" (fl. 574).
+Requer, assim, "seja o presente submetido à respectiva Turma para analisar preliminarmente a concessão da medida liminar para suspender a certificação do trânsito em julgado até a analise de mérito por esta Suprema Corte" (fl. 576).
+AgRg no HABEAS CORPUS Nº 865.140 - SP (2023/0392357-9)
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ACORDO DE NÃO PERSECUÇÃO PENAL. SUPRESSÃO DE INSTÂNCIA APONTADA PELA CORTE ESTADUAL. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na hipótese, consoante destacou a Corte de origem ao obstar o prosseguimento do recurso especial, "quanto ao pedido de aplicação do artigo 28-A do Código de Processo Penal, não foi observado o prequestionamento da matéria, conforme exigência da Corte Superior" (fl. 75). A esse respeito, é oportuno destacar que os embargos opostos contra o julgamento do recurso de apelação se referiam tão-somente à possibilidade de suspensão condicional da pena. Assim, verifica-se ser defeso a esta Corte Superior adentrar o exame da questão aqui suscitada, dada a evidente e insuperável supressão de instância.
+2. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Conforme já apontado na decisão vergastada, asseriu a defesa, perante a Corte de origem, que " a o criar uma causa extintiva da punibilidade (art. 28-A, § 13, CPP), o ANPP adquiriu natureza mista de norma processual e norma penal, devendo retroagir para beneficiar o agente (art. 5º, XL, CF) já que é algo mais benéfico do que uma possível condenação criminal.  ..  Nesta senda, entendemos incidir também aos processos criminais em curso, apanhados pelo princípio da obrigatoriedade da ação penal" (fl. 12).
+Todavia, consoante destacou a Corte de origem ao obstar o prosseguimento do recurso especial, "quanto ao pedido de aplicação do artigo 28-A do Código de Processo Penal, não foi observado o prequestionamento da matéria, conforme exigência da Corte Superior" (fl. 75). A esse respeito, é oportuno destacar que os embargos opostos contra o julgamento do recurso de apelação se referiam tão-somente à possibilidade de suspensão condicional da pena.
+Assim, verifica-se ser defeso a esta Corte Superior adentrar o exame da questão aqui suscitada, dada a evidente e insuperável supressão de instância. A esse respeito:
+ ..  nota-se que a Corte originária não analisou as referidas questões. Impossibilidade de análise desses pontos da impetração pelo STJ, sob pena de atuar em indevida supressão de instância, com a consequente ampliação inconstitucional da competência recursal ordinária (CF, art, 105, II)  ..  (HC n. 486.103/MG, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 30/4/2019, grifei).
+ ..  A Corte estadual não analisou a tese ora trazida pela defesa no presente mandamus consubstanciada em nulidade decorrente da falta de manifestação do juízo primevo acerca das teses defensivas apresentadas na resposta à acusação. Limitou-se o Tribunal de origem a concluir que a matéria "é sanável por recurso próprio, do qual o Habeas Corpus não pode funcionar como sucedâneo" (fl. 335). Dessa forma, este Tribunal Superior encontra-se impedido de pronunciar-se a respeito, sob pena de indevida supressão de instância  ..  (RHC n. 86.893/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 7/11/2018, destaquei).
+À vista do exposto, nego provimento ao recurso.
