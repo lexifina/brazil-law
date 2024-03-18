@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo interposto por PACHECO GOMES E GUIMARÃES ADVOGADOS, CAOA MONTADORA DE VEÍCULOS LTDA. e HYUNDAI CAOA DO BRASIL LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que os agravantes interpuseram recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 322):
+APELAÇÃO. Ação condenatória de obrigação de fazer c.c. indenização por danos materiais e morais. Aquisição de veículo zero quilômetro.
+Supostos vícios de qualidade. Sentença de improcedência. Insurgência do autor.- Vícios de qualidade. Inexistência. Prova pericial conclusiva no sentido de que o automóvel não apresenta vícios inerentes ao processo de fabricação, problemas que prejudiquem a estrutura do automóvel ou desvalorização anormal do bem. Apeladas que não podem ser compelidas a reparar o automóvel e a pagar ao apelante indenização a qualquer título.
+Adequado o integral desacolhimento da pretensão autoral. Sentença de improcedência mantida.
+RECURSO DESPROVIDO, com majoração de honorários advocatícios em grau recursal.
+Rejeitados os embargos de declaração opostos (fls. 347-351).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa ao art. 1.022, II, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas no art. 85, § 2º, do CPC, tendo em vista que fixou erroneamente os honorários advocatícios por equidade.
+Aponta divergência jurisprudencial com arestos desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 353-364).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 394/397), o que ensejou a interposição do presente agravo. Apresentada contraminuta do agravo (fls. 412-416).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+De início, inexiste a alegada violação do art. 1.022 do CPC, visto que o Tribunal de origem efetivamente enfrentou a questão levada ao seu conhecimento, qual seja, a fixação dos honorários recursais por equidade.
+E, a propósito do contexto recursal, destacou a origem (fl. 327):
+Finalmente, ante o integral decaimento recursal, em atenção ao que preceitua o artigo 85, §§ 11 e 14, do Código de Processo Civil, os honorários de sucumbência, devidos pelo apelante aos advogados das apeladas, originalmente fixados em R$2.000,00 (dois mil reais), ficam elevados para R$ 2.500,00 (dois mil e quinhentos reais), com destaque de que não houve questionamento em sede recursal acerca da fixação da verba honorária por apreciação equitativa.
+Em embargos de declaração, o Tribunal de origem consignou que a insurgência recursal restou preclusa, uma vez que o critério de equidade adotado não foi alvo de insurgência recursal (fl. 350):
+Nenhum erro material existe no julgado, uma vez que o critério de equidade adotado na fixação dos honorários de sucumbência não foi alvo de insurgência recursal. Conforme constou do acórdão, com todas as letras:
+".. ante o integral decaimento recursal, em atenção ao que preceitua o artigo 85, §§ 11 e 14, do Código de Processo Civil, os honorários de sucumbência, devidos pelo apelante aos advogados das apeladas, originalmente fixados em R$ 2.000,00 (dois mil reais), ficam elevados para R$ 2.500,00 (dois mil e quinhentos reais), com destaque de que não houve questionamento em sede recursal acercada fixação da verba honorária por apreciação equitativa" (fl. 327) - sem destaque no original.
+Observa-se, assim, que as questões recursais foram efetivamente enfrentadas pelo Tribunal de origem, sendo que não se pode ter como omissa ou carente de fundamentação uma decisão tão somente porque suas alegações não foram acolhidas.
+Cumpre reiterar que entendimento contrário não se confunde com omissão no julgado ou com ausência de prestação jurisdicional. A propósito, "Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, relatora Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008" (AgInt nos EDcl no AREsp n. 1.991.299/PI, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 1º/9/2022).
+No mesmo sentido, cito:
+1.1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que a Corte de origem se manifestou de forma fundamentada sobre todas as questões que entendeu necessárias para o deslinde da controvérsia. O simples inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional. (AgInt no AREsp n. 1.774.319/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 17/8/2022.)
+2. A jurisprudência desta Corte é firme no sentido de que "os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura, contraditória ou que incorra em erro material, afirmação que se depreende dos incisos do próprio art. 1.022 do CPC/2015. Portanto, só é admissível essa espécie recursal quando destinada a atacar, especificamente, um desses vícios do ato decisório, e não para que se adeque a decisão ao entendimento dos embargantes, nem para o acolhimento de pretensões que refletem mero inconformismo, e menos ainda para rediscussão de matéria já resolvida" (EDcl no AgRg no AREsp 859.232/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 31/5/2016). Nesse mesmo sentido: EDcl no AgInt no CC 178.307/PR, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe 10/12/2021. (EDcl no AgInt no AREsp n. 1.732.953/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 24/2/2022.)
+Em relação à alegada violação do art. 85, § 2º, do CPC, da leitura do excerto acima colacionado, verifica-se que o Tribunal de origem consignou que o recorrente não se insurgiu quanto ao critério de equidade adotado na fixação dos honorários de sucumbência, de modo que operou a preclusão.
+Assim, o entendimento de origem não merece censura, pois em conformidade com a jurisprudência do STJ:
+1. "Na hipótese de existir decisão anterior acerca da base de cálculo dos honorários advocatícios, opera-se a preclusão consumativa se não houver impugnação no momento processual oportuno. Precedentes" (AgInt no AREsp 1417946/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 19/06/2020).
+ ..
+(AgInt no AREsp n. 2.316.834/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 29/2/2024.)
+3. Consoante orientação do Superior Tribunal de Justiça, "na hipótese de existir decisão anterior acerca da base de cálculo dos honorários advocatícios, opera-se a preclusão consumativa se não houver impugnação no momento processual oportuno" (AgInt no AREsp n. 1.417.946/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/6/2020, DJe de 19/6/2020).
+ ..
+(AgInt no AREsp n. 2.312.518/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 13/9/2023.)
+4. Não poderia o Tribunal, de ofício, debruçar-se sobre a matéria alterando a base de cálculo da condenação sucumbencial.
+(AgInt no AREsp n. 2.307.576/AL, relator Ministro Raul Araújo, Quarta Turma, DJe de 23/6/2023.)
+Dessarte, estando o acórdão recorrido em sintonia com o entendimento dominante deste Tribunal, aplica-se ao caso o entendimento consolidado na Súmula 568/STJ, in verbis : "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
