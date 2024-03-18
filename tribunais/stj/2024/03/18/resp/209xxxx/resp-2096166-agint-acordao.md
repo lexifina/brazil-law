@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/03/2024 a 18/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão e Mauro Campbell Marques votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Afrânio Vilela.
+Presidiu o julgamento o Sr. Ministro Francisco Falcão.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. HONORÁRIOS ADVOCATÍCIOS. ADVOGADO FALECIDO. LEVANTAMENTO PELOS HERDEIROS NOS PRÓPRIOS AUTOS. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO DO TRIBUNAL DE ORIGEM. SÚMULAS 283 E 284/STF.
+1. No enfrentamento da matéria, a decisão agravada demonstra que a tese recursal está dissociada das razões decisórias, a atrair a incidência das Súmulas 283 e 284 do STF, por analogia. Isso porque a parte não contrapõe os fundamentos de que "Da leitura do dispositivo supratranscrito, extrai-se que assegura o recebimento dos honorários advocatícios pelos sucessores ou representantes legais do advogado falecido ou incapacitado civilmente, não fazendo qualquer referência, contudo, à dispensa de inclusão da referida verba em processo de inventário ou partilha de bens. Deveras, os dispositivos previstos no Estatuto da OAB devem ser interpretados de acordo com as previsões contidas no Código Civil, em especial na parte referente ao direito das sucessões, bem como no Código de Processo Civil no capítulo referente ao inventário e partilha", o que caracteriza deficiência na fundamentação.
+2. À luz do princípio da dialeticidade, não basta à parte recorrente expressar seu descontentamento e sua vontade de recorrer; precisa impugnar todos os pontos que sustentam o acórdão recorrido e demonstrar, de maneira discursiva, por que o julgamento proferido merece ser modificado.
+3. Agravo Interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno contra decisão monocrática (fls. 172-175, e-STJ), que não conheceu do Recurso Especial.
+A parte agravante se insurge contra a incidência das Súmulas 283 e 284 do STJ. Aduz:
+Importa aduzir que o recurso especial interposto, foi suficientemente fundamentado, visto que as razões expendidas viabilizam a plena compreensão da controvérsia e atacam os argumentos mencionados, o que afastam a incidência da Súmula nº 284 do STF.
+Requer a reconsideração da decisão agravada ou a submissão do feito a julgamento perante o órgão colegiado.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. HONORÁRIOS ADVOCATÍCIOS. ADVOGADO FALECIDO. LEVANTAMENTO PELOS HERDEIROS NOS PRÓPRIOS AUTOS. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO DO TRIBUNAL DE ORIGEM. SÚMULAS 283 E 284/STF.
+1. No enfrentamento da matéria, a decisão agravada demonstra que a tese recursal está dissociada das razões decisórias, a atrair a incidência das Súmulas 283 e 284 do STF, por analogia. Isso porque a parte não contrapõe os fundamentos de que "Da leitura do dispositivo supratranscrito, extrai-se que assegura o recebimento dos honorários advocatícios pelos sucessores ou representantes legais do advogado falecido ou incapacitado civilmente, não fazendo qualquer referência, contudo, à dispensa de inclusão da referida verba em processo de inventário ou partilha de bens. Deveras, os dispositivos previstos no Estatuto da OAB devem ser interpretados de acordo com as previsões contidas no Código Civil, em especial na parte referente ao direito das sucessões, bem como no Código de Processo Civil no capítulo referente ao inventário e partilha", o que caracteriza deficiência na fundamentação.
+2. À luz do princípio da dialeticidade, não basta à parte recorrente expressar seu descontentamento e sua vontade de recorrer; precisa impugnar todos os pontos que sustentam o acórdão recorrido e demonstrar, de maneira discursiva, por que o julgamento proferido merece ser modificado.
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 20.2.2024.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+No enfrentamento da matéria, a decisão agravada demonstra que a tese recursal está dissociada das razões decisórias, a atrair a incidência das Súmulas 283 e 284 do STF, por analogia. Isso porque a parte não contrapõe os fundamentos de que "Da leitura do dispositivo supratranscrito, extrai-se que assegura o recebimento dos honorários advocatícios pelos sucessores ou representantes legais do advogado falecido ou incapacitado civilmente, não fazendo qualquer referência, contudo, à dispensa de inclusão da referida verba em processo de inventário ou partilha de bens. Deveras, os dispositivos previstos no Estatuto da OAB devem ser interpretados de acordo com as previsões contidas no Código Civil, em especial na parte referente ao direito das sucessões, bem como no Código de Processo Civil no capítulo referente ao inventário e partilha", o que caracteriza deficiência na fundamentação.
+Assim decidiu o Tribunal de origem, conforme destacado na decisão agravada (fls. 62-63, e-STJ, grifei):
+Cinge-se a controvérsia a perscrutar sobre a possibilidade de os honorários advocatícios serem levantados pelos herdeiros do advogado falecido nos próprios autos do cumprimento de sentença previdenciária.
+Como é cediço, não há dúvida quanto ao caráter autônomo do direito do advogado de executar os , honorários sucumbenciais ou fixados por arbitramento na forma do artigo 23 da Lei n. 8.906/1994, o Estatuto da Ordem dos Advogados do Brasil (OAB), que dispõe:
+Art. 23. Os honorários incluídos na condenação, por arbitramento ou sucumbência, pertencem ao advogado, tendo este direito autônomo para executar a sentença nesta parte, podendo requerer que o precatório, quando necessário, seja expedido em seu favor.
+De outra parte, prescreve o § 2º do artigo 24 do aludido Estatuto que "n a hipótese de falecimento ou incapacidade civil do advogado, os honorários de sucumbência, proporcionais ao trabalho realizado, são recebidos por seus sucessores". ou representantes legais.
+Da leitura do dispositivo supratranscrito, extrai-se que assegura o recebimento dos honorários advocatícios pelos sucessores ou representantes legais do advogado falecido ou incapacitado civilmente, não fazendo qualquer referência, contudo, à dispensa de inclusão da referida verba em processo de inventário ou partilha de bens.
+Deveras, os dispositivos previstos no Estatuto da OAB devem ser interpretados de acordo com as previsões contidas no Código Civil, em especial na parte referente ao direito das sucessões, bem como no Código de Processo Civil no capítulo referente ao inventário e partilha.
+Assim, não há como dispensar o procedimento de inventário e partilha em relação aos honorários advocatícios pertencentes ao advogado falecido, sendo competência do Juízo das sucessões analisar o pedido de levantamento dos créditos.
+À luz do princípio da dialeticidade, não basta à parte recorrente expressar seu descontentamento e sua vontade de recorrer; precisa impugnar todos os pontos que sustentam o acórdão recorrido e demonstrar, de maneira discursiva, por que o julgamento proferido merece ser modificado. Incidência das Súmulas 283 e 284 do STF.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes, não há prover o Agravo que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
