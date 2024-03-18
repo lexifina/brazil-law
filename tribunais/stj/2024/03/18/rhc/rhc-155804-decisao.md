@@ -1,0 +1,29 @@
+DECISÃO
+IVANILTON SANTOS DO CARMO alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiç a do Estado da Bahia no Habeas Corpus n. 8021195-55.2021.8.05.0000.
+A defesa sustenta a ausência dos requisitos autorizadores para a prisão preventiva e "a nulidade da decisão que decretou a extração de dados e quebra de sigilo telefônico do recorrente sem que houvesse pedido anterior das partes ou a demonstração inequívoca da necessidade e utilidade da medida" (fl. 152).
+O Ministério Público Federal manifestou-se pelo parcial conhecimento do recurso e, na parte conhecida, pelo seu desprovimento (fls. 173-179).
+Petições às fls. 187-190, em que a parte requer o julgamento do recurso.
+Decido.
+De início, o pedido de reconhecimento de ausência dos requisitos autorizadores para a prisão preventiva está prejudicado, pois, consoante informações do Juízo de primeiro grau, a constrição foi revogada em 11/11/2021 e o paciente está em liberdade (fl. 170).
+O Magistrado da primeira instância, ao deferir a quebra do sigilo telefônico, consignou (fls. 69-72, grifei):
+Trata-se de auto de prisão em flagrante lavrado em desfavor de IVANILTON SANTOS DO CARMO, já qualificado nos autos, realizada em 29 de junho de 2021, cujo auto fora lavrado no mesmo dia, devido à suposta prática dos delitos tipificados no art. 180 do CP. Há ainda pedido de extração dos dados constantes nos telefones celulares apreendidos na posse do flagranteado.
+Instado a se manifestar, o Ministério Público pugnou pela conversão do flagrante em preventiva, como garantia da ordem pública, bem como pelo deferimento do pedido de extração, nos termos do parecer ora anexo.
+ ..
+Passo a analisar o pedido de extração de dados de aparelho telefônico em posse do flagranteado.
+A quebra de sigilo telefônico é medida excepcional disciplinada (por analogia) pela Lei nº 9.296/96, somente sendo passível de deferimento quando se demonstre previamente a estrita necessidade do meio de prova em questão, sob pena de configurar devassa indevida à intimidade das pessoas.
+Infere-se dos autos, que a quebra de sigilo telefônica, no caso, é imprescindível para viabilizar os esclarecimentos dos delitos investigados já que, ante a situação in concreto, não há outros meios de provas capazes de orientar uma linha investigativa de forma eficiente, de modo que é fundamental a rápida e eficiente ação policial, inclusive preventiva.
+A decretação da quebra de sigilo atende aos pressupostos e fundamentos de cautelaridade, além do que, o crime investigado é punido com reclusão, na forma prevista na lei 12.850/2013, apontando-se para a necessidade da medida extrema e a dificuldade para a sua apuração por outros meios, deixando evidente o fumus comissi delicti e e do periculum in mora.
+A devassa dos dados é medida cautelar processual penal, marcada, ontologicamente, pela necessidade e pela brevidade, como tem afirmado, reiteradamente, o Superior Tribunal de Justiça.
+Nota-se a existência dos requisitos autorizadores da medida requerida, quais sejam: 1) presença de indícios razoáveis da autoria e participação em infração penal; 2 ) impossibilidade da produção probatória por meio diverso e 3) o fato investigado constituir infração penal punida com pena de reclusão.
+Observa-se, ainda, que o requerente é legitimado para demanda.
+In casu, a decisão de quebra de sigilo de comunicações telefônicas está baseada em fundamentos idôneos, colhidos a partir dos elementos colhidos pela Policia Civil, com a devida demonstração da necessidade e utilidade da quebra do sigilo telefônico, a fim de aclarar o fato, bem como outros crimes que a esse possam estar relacionados.
+De se ressaltar que as informações contidas no Relatório de Investigação Criminal, corroboram com os fundamentos expostos acima.
+Verifica-se, portanto, a necessidade e imprescindibilidade do deferimento da medida pleiteada, vez que além de possibilitar a investigação, poderá auxiliar na elucidação da autoria do fato criminoso e, no presente caso, tornará eficaz a investigação e eventual pretensão punitiva.
+O Tribunal de origem rechaçou a tese de nulidade do decisum. Confira-se a ementa (fls. 118-119, destaquei):
+PENAL E PROCESSO PENAL. HABEAS CORPUS. RECEPTAÇÃO, ARTIGO 180 DO CÓDIGO PENAL. ALEGAÇÃO DE FALTA DE FUNDAMENTAÇÃO DO DECRETO PRISIONAL. INOCORRÊNCIA. PACIENTE QUE PREENCHE OS REQUISITOS ESTABELECIDOS NO ARTIGO 312 E 313, INCISO I, DO CÓDIGO DE PROCESSO PENAL. GARANTIA DA ORDEM PÚBLICA QUE PRECISA SER MANTIDA. DECISÃO FUNDAMENTADA COM BASE NO CASO CONCRETO E NO MODUS OPERANDI. PLEITO DE NULIDADE DA DECISÃO QUE DETERMINOU A QUEBRA DO SIGILO TELEFÔNICO. INVIABILIDADE. REALIZAÇÕES DE DILIGÊNCIAS PRELIMINARES REALIZADAS PELA AUTORIDADE POLICIAL. INTERCEPTAÇÃO TELEFONICA AUTORIZADA JUDICIALMENTE QUE REVELOU O ENVOLVIMENTO DO PACIENTE COM CRIME DE APROPRIAÇÃO INDÉBITA OCORRIDO NO ESTADO DE MINAS GERAIS. QUALIDADES PESSOAIS, QUE POR SI SÓS, NÃO TEM O CONDÃO DE TORNAR O PACIENTE IMUNE À SEGREGAÇÃO. HABEAS CORPUS CONHECIDO E ORDEM DENEGADA.
+A Corte estadual indicou que o afastamento do sigilo telefônico foi devidamente autorizado e fundamentado. Além disso, ressaltou a razoabilidade e a imprescindibilidade da medida para as investigações.
+Acerca da matéria, "A decisão de quebra de sigilo telefônico não exige fundamentação exaustiva. Assim, pode o magistrado decretar a medida mediante fundamentação concisa e sucinta, desde que demonstre a existência dos requisitos autorizadores da interceptação telefônica" (AgRg no AREsp n. 1.789.984/PR, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 24/5/2021).
+Diante de todas essas considerações, e porque demonstradas a conveniência e a indispensabilidade da medida para a elucidação do fato delituoso sob investigação, fica afastada a apontada nulidade.
+À vista do exposto, conheço em parte do recurso e, nessa extensão, nego-lhe provimento.
+Publique-se e intimem-se.
+EMENTA
