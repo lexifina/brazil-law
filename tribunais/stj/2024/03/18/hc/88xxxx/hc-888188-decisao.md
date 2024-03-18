@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Beatriz Eliane Beraldo da Silva, apontando-se como autoridade coatora o Tribunal de Justiça de Minas Gerais (Apelação Criminal n. 1.0596.18.006437-7/001).
+Consta dos autos que a paciente foi definitivamente condenada (trânsito em julgado no dia 22/7/2022) a 20 anos de reclusão, em regime inicial fechado, e 10 dias-multa, pela prática do crime previsto no art. 157, § 2º, II e V, e § 3º, c/c o art. 14, II, todos do Código Penal (Ação Penal n. 0064377-71.2018.8.13.0596).
+Neste feito, a impetrante alega que a causa de aumento prevista no art. 157, § 2º, II e V, do Código Penal, deve ser afastada, ao argumento de que o crime previsto no art. 157, § 3º, do Código Penal é autônomo, não lhe sendo aplicáveis as causas de aumento descritas no § 2º do art. 157 do Código Penal, porquanto as referidas majorantes somente podem incidir sobre os delitos de roubo próprio e impróprio (fl. 5).
+Requer, inclusive em liminar, a exclusão da causa de aumento de pena prevista no art. 157, § 2º, inciso II e V, do Código Penal, redimensionando a pena imposta, com o devido reconhecimento do redutor da tentativa (aplicada pelo juiz sentenciante) - fl. 12.
+Indeferi o pedido liminar (fls. 114/115).
+Ouvido, o Ministério Público opinou pelo não conhecimento do writ (fls. 120/122).
+É o relatório.
+Como o presente writ se refere à condenação transitada em julgado, ou seja, substitutivo de revisão criminal, forçoso seria reconhecer a incompetência desta Corte Superior para o processamento deste pedido.
+Também seria óbice ao seguimento da impetração o fato de a Corte estadual não ter se pronunciado sobre a matéria aqui trazida.
+No entanto, há ilegalidade flagrante, apta a subsidiar a concessão de habeas corpus de ofício.
+Isso porque esta Corte Superior já se manifestou no sentido de que não é possível a aplicação das majorantes previstas no art. 157, §§ 2º e 2º-A, do Código Penal, quando a conduta estiver tipificada na forma qualificada do art. 157, § 3º, do Código Penal (latrocínio), tendo em vista a localização topográfica das majorantes e qualificadora, além da desproporcionalidade da sanção penal que decorreria da medida.
+Com efeito, as majorantes do crime de roubo somente se aplicam aos roubos próprios e impróprios. Quando diante de roubos qualificados pela lesão corporal grave ou morte (inciso I ou inciso II, do § 3.º do art. 157) estes constituem "tipos derivados do roubo simples (próprio ou impróprio), com cominações particulares de penas mínimas e máximas (7 a 18 anos mais multa e 20 a 30 anos mais multa, respectivamente). Por isso, o Código Penal alocou esses tipos derivados do tipo básico no § 3.º do art. 157, após as majorantes (causas especiais de aumento), previstas no § 2.º do referido artigo. Assim, não há, no Código Penal, a previsão do que seria o "roubo qualificado circunstanciado" (HC n. 554.155/SP, Ministra Laurita Vaz, Sexta Turma, DJe 26/3/2021).
+No mesmo sentido: o AgRg no AREsp n. 1.638.391/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 28/6/2021; e HC n. 714.876/MG, Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), Sexta Turma, DJe 16/9/2022.
+Reconhecida a ilegalidade, passa-se à nova dosimetria penal.
+Mantém-se a pena-base em 22 anos e 6 meses de reclusão, mais o pagamento de 11 dias-multa. Na segunda e tapa, dada a fundamentação acima exposta, não há aumento a ser considerado. Diante da redução de 1/3 pela tentativa, fica a reprimenda definitiva estabelecida em 15 anos de reclusão e pagamento de 7 dias-multa. Ficam mantidos os demais termos da condenação.
+A corré Grazielly Vitor da Costa se encontra em situação fático-processual idêntica, assim há de se estender os efeitos desta decisão também em relação a ela, com base no art. 580 do Código de Processo Penal.
+Dessa forma, mantidos os parâmetros da sentença na primeira fase da dosimetria, a atenuante da confissão na segunda etapa e a redução pela tentativa, tem-se a pena final de 13 anos e 4 meses de reclusão, e pagamento de 6 dias-multa.
+Em face do exposto, não conheço do habeas corpus. De ofício, concedo a ordem para fixar a pena da paciente em 15 anos de reclusão e pagamento de 7 dias-multa. Estendo os efeitos desta decisão à corré Grazielly Vitor da Costa, a quem fixo a reprimenda de 13 anos e 4 meses de reclusão, e pagamento e 6 dias-multa.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO QUALIFICADO PELA LESÃO CORPORAL (LATROCÍNIO TENTADO). UTILIZAÇÃO DO WRIT COMO SUCEDÂNEO DE REVISÃO CRIMINAL. IMPOSSIBILIDADE. EXISTÊNCIA DE ILEGALIDADE FLAGRANTE. INCIDÊNCIA CONCOMITANTE DO AUMENTO PREVISTO NOS INCISOS II E V DO § 2º DO ART. 157 DO CP À FORMA QUALIFICADA DO ROUBO. INVIABILIDADE. PRECEDENTES.
+Writ não conhecido. Ordem concedida de ofício, nos termos do dispositivo, com extensão à corré Grazielly Vitor da Costa.
