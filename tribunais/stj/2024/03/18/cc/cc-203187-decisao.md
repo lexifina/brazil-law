@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo JUÍZO DE DIREITO DA VARA DE EXECUÇÃO PENAL DE PENA DE MULTA DE SARANDI-PR contra o JUÍZO DE DIREITO DA 1ª VARA CRIMINAL DE PRESIDENTE E PITÁCIO - SP, nos autos n. 0006390-67.2023.8.16.0160.
+Consta dos autos que BENTO AMARAL foi condenado à pena privativa de liberdade de 2 (dois) anos, 1 (um) mês e 27 (vinte e sete) dias de reclusão, em regime inicial aberto, sendo a pena substituída por restritivas de direitos, além da pena de multa de 215 (duzentos e quinze) dias-multa (fl. 10).
+Diante da inadimplência, o Ministério Público do Estado de São Paulo ajuizou ação de execução de pena de multa em face do Condenado (fls. 06-09).
+Por se tratar de Executado solto, e diante da informação de que o Réu residia na Comarca de Sarandi/PR, o Juízo Suscitado determinou a redistribuição do feito ao Juízo Suscitante (fls. 11-12). Esse, por sua vez, recebeu os autos e suscitou o presente conflito de competência (fls. 16-18).
+O Ministério Público Federal manifestou-se pelo conhecimento do conflito para que seja declarado competente o Juízo Suscitado, em parecer com a seguinte ementa (fls. 24-33):
+"CONFLITO NEGATIVO DE COMPETÊNCIA ENTRE JUÍZOS DE DIREITO DE UNIDADES FEDERATIVAS DIVERSAS. EXECUÇÃO PENAL. MULTA. NATUREZA PENAL. UNICIDADE. IMPOSSIBILIDADE DE CISÃO DA EXECUÇÃO DAS PENAS. PRECEDENTES DO STJ. PARECER PELO CONHECIMENTO DO CONFLITO, DECLARANDO-SE A COMPETÊNCIA DO JUÍZO DE DIREITO DA 1ª VARA CRIMINAL DE PRESIDENTE EPITÁCIO/SP, O SUSCITADO".
+É o relatório.
+De início, por figurarem, na relação processual em exame, Juízos vinculados a Tribunais diversos, deve ser conhecido o presente conflito, conforme o disposto no art. 105, inciso I, alínea d, da Constituição da República.
+O Juízo Suscitado, ao verificar se tratar de Sentenciado solto e com endereço em Comarca de outro Estado, determinou a redistribuição do feito à Comarca de Sarandi/PR, com os seguintes fundamentos (fls. 11-12):
+"Prevê o artigo 530 das Normas de Serviço da Corregedoria Geral de Justiça que "Sempre que o condenado passar a cumprir pena ou fixar residência em localidades diversas daquele onde teve início a execução, os respectivos autos serão imediatamente remetidos ao juízo competente para o prosseguimento."
+Na hipótese de executado solto, com endereço nos autos, a execução da pena de multa deve tramitar perante a Vara da Execução Criminal de seu atual domicílio. (..)
+Ademais, em virtude de a execução da pena de multa ser regida pela Lei nº 6.830/1980, aplica-se de forma subsidiária o quanto previsto pelo §5º do artigo 46 do Código de Processo Civil. (..)
+Pelo exposto, nos termos do artigo 530 das NSGCJ, artigo 46, §5º, do CPC e Provimento CG nº 04/2020, redistribua-se o presente feito à VEC do local de residência do (a) executado(a) Bento Amaral dos Santos, junto à Comarca de Sarandi-PR".
+O Juízo Suscitante, ao receber o processo, suscitou o presente conflito, com a seguinte decisão (fls. 16-18):
+"1. Versam os autos sobre EXECUÇÃO DE PENA DE MULTA instaurado através do Ministério Público do Estado de São Paulo, em face do sentenciado BENTO AMARAL DOS SANTOS, nos autos sob o nº 0006390-67.2023.8.16.0160.
+O Juízo de Presidente Epitácio/SP declinou da competência a este Foro Regional de Sarandi/PR, sob o argumento de que o executado alterou seu endereço de domicílio para esta urbe (mov. 1.1).
+É o breve relatório. Decido.
+No caso, a competência para execução da pena de multa recai sobre o Juízo da 1ª Vara Criminal da Comarca de Presidente Epitácio/SP, EXPLICO:
+Com base nas certidões e pesquisas aos sistemas Oráculos e SEEU, o executado BENTO AMARAL DOS SANTOS não possui qualquer condenação criminal ou execução penal ativa no estado do Paraná (mov. 6.1).
+Ao que consta, ainda, o agente cumpriu a pena que lhe foi imposta na sentença, perante o Juízo do Estado de São Paulo, sob os autos de nº 0002034-67.2021.8.26.0565.
+Na verdade, denota-se que a presente EXECUÇÃO DA PENA DE MULTA se refere a uma condenação prolatada pelo Juízo da 1ª Vara Criminal de Presidente Epitácio/SP (ação penal nº 0008960-98.2016.8.26.0481 - mov. 1.1, p. 07).
+Logo, é nítido que aquele Juízo é o competente para prosseguir com a execução da pena de multa.
+Isso porque, em regra, a multa é executada perante o JUÍZO DA CONDENAÇÃO e não o Juízo do atual domicílio do sentenciado.
+Segundo dispõe o artigo 26 da Resolução 93/2013 do Egrégio Tribunal de Justiça do Paraná, "a Vara de Execução Penal da Multa funcionará como Anexo do Juízo da Condenação".
+Nessa mesma toada, os artigos 51 do Código Penal e 65 da Lei de Execuções Penais realçam, que: "Art. 51. Transitada em julgado a sentença condenatória, a multa será executada perante o juiz da execução penal e será considerada dívida de valor, aplicáveis as normas relativas à dívida ativa da Fazenda Pública, inclusive no que concerne às causas interruptivas e suspensivas da prescrição" e "art. 65. A execução penal competirá ao Juiz indicado na lei local de organização judiciária e, na sua ausência, ao da sentença.
+Destarte, o Juízo competente para analisar o presente procedimento é a 1ª Vara Criminal da Comarca de Presidente Epitácio/SP, onde foi proferida a sentença condenatória.
+Nesse sentido é o teor da jurisprudência do Superior Tribunal de Justiça:
+(..)
+No mesmo sentido é o entendimento jurisprudencial do Egrégio Tribunal de Justiça do Paraná: (..)
+Ante o exposto, SUSCITO CONFLITO NEGATIVO DE JURISDIÇÃO e REQUEIRO SEJA RECONHECIDA A COMPETÊNCIA DA 1ª VARA CRIMINAL DA COMARCA DE PRESIDENTE EPITÁCIO/SP PARA PROCESSAMENTO E ANÁLISE DA EXECUÇÃO DA PENA DE MULTA, o que faço com fundamento nos, artigos 83, 113, 114, 115, 116, §1º, do Código de Processo Penal e artigo 105, inciso I, inciso "d", da CF."
+A jurisprudência desta Corte Superior é firme no sentido de que a execução da pena cabe ao Juízo da condenação, independentemente da espécie de pena aplicada ou do regime prisional em que o Reeducando se encontre, não implicando deslocamento de competência o fato de o Apenado possuir residência em outra comarca, podendo ser deprecada a fiscalização do cumprimento da pena, caso o Juízo da condenação assim entenda necessário.
+Somado a isso, também é entendimento consolidado deste Egrégio Superior Tribunal de Justiça que não é possível cindir a execução penal.
+Desse modo, considerando a unicidade do processo de execução, e que a sentença condenatória foi proferida pelo Juízo Suscitado, é dele a competência para execução também da pena de multa.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. EXECUÇÃO PENAL. MUDANÇA DE ENDEREÇO. EXPEDIÇÃO DE CARTA PRECATÓRIA PARA FISCALIZAÇÃOE ACOMPANHAMENTO DA PENA IMPOSTA. COMPETÊNCIA DO JUÍZO SUSCITANTE.
+Terceira Seção já pacificou o entendimento no sentido de que a competência para atos decisórios na execução penal continua sendo do juízo que proferiu a condenação, ainda que o condenado venha a mudar de domicílio, cabendo apenas a expedição de precatória para a fiscalização das condições e medidas impostas.
+Agravo regimental desprovido". (AgRg no CC n. 198.819/DF, relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 17/10/2023, DJe de 25/10/2023.)
+"CONFLITO POSITIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR RESTRITIVAS DE DIREITOS. CARTA PRECATÓRIA EXPEDIDA PELO JUÍZO SUSCITANTE. RECUSA DO JUÍZO SUSCITADO QUE AVOCA A EXECUÇÃO. COMPETÊNCIA DO JUÍZO DA CONDENAÇÃO. ART. 65 DA LEI DE EXECUÇÃO PENAL - LEP. SISTEMA ELETRÔNICO DE EXECUÇÃO UNIFICADA (SEEU) IMPLEMENTADO PELO CONSELHO NACIONAL DE JUSTIÇA - CNJ. DECISÃO LIMINAR NA ADIn 6259/2019NO SUPREMO TRIBUNAL FEDERAL - STF. EFICÁCIA DOS ARTS. 2º, 3º, 9º, 12 e 13 DA RESOLUÇÃO CNJ 280/2019 SUSPENSA. COMPETÊNCIA DO JUÍZO SUSCITANTE.
+1. O presente conflito de competência deve ser conhecido, por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos, nos termos do art. 105, inciso I, alínea d, da Constituição Federal - CF.
+2. "A competência para a execução penal cabe ao Juízo da condenação, sendo deprecada ao Juízo do domicílio do apenado somente a supervisão e acompanhamento o cumprimento da pena determinada, inexistindo deslocamento de competência" (CC 113.112/SC, Terceira Seção, Rel Ministro Gilson Dipp, DJe 17/11/2011).  ..
+5. Conflito de competência conhecido para declarar que a execução da pena compete ao Juízo Federal da 9ª Vara Criminal do Rio de Janeiro - SJ/RJ, o suscitante, e que incumbe ao Juízo Federal da 1ª de São Bernardo do Campo- SJ/SP, o suscitado, o cumprimento da carta precatória para acompanhamento e fiscalização da execução das penas restritivas de direitos e da pena de multa." (CC 172.445/RJ, Rel. Ministro JOEL ILANPACIORNIK, TERCEIRA SEÇÃO, julgado em 24/06/2020, DJe 29/06/2020, sem grifos no original.)
+"CONFLITO DE COMPETÊNCIA. EXECUÇÃO PENAL. PENA DE MULTA. COMPETÊNCIA DO JUÍZO DAS EXECUÇÕES PENAIS. UNICIDADE DA EXECUÇÃO. IMPOSSIBILIDADE DE CISÃO DA EXECUÇÃO DAS PENAS. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO SUSCITADO.
+1. A execução penal é una, não sendo possível cindir o processo executivo para que a execução da pena privativa de liberdade seja processada perante o Juízo das Execuções Penais de um estado da federação e a execução da pena de multa imposta na mesma condenação penal seja processada em Juízo de estado diverso.
+2. A execução da pena de multa compete ao mesmo Juízo que executa a pena privativa de liberdade cumulativamente imposta.
+3. Conflito conhecido para declarar competente o JUÍZO DE DIREITO DO1.º JUIZADO DA VARA DE EXECUÇÕES CRIMINAIS DE NOVO HAMBURGO/RS". (CC n. 189.130/SC, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 14/09/2022, DJe de 28/09/2022.) (g. n.)
+Ante o exposto, CONHEÇO do conflito para DECLARAR a competência do JUÍZO DE DIREITO DA 1ª VARA CRIMINAL DE PRESIDENTE EPITÁCIO - SP, o Suscitado.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. PENA DE MULTA. APENADO DOMICILIADO EM COMARCA DIVERSA DAQUELA EM QUE FOI CONDENADO. COMPETÊNCIA DO JUÍZO DA CONDENAÇÃO. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO SUSCITADO.
