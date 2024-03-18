@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/03/2024 a 18/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão e Mauro Campbell Marques votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Afrânio Vilela.
+Presidiu o julgamento o Sr. Ministro Francisco Falcão.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA 283/STF.
+1. O Tribunal a quo consignou que "a Portaria nº 23/1998 certamente invade matéria afeta à lei, ao dispor acerca das hipóteses interruptivas deste prazo de interstício para fins de progressão funcional, nelas incluindo os afastamentos por motivo disciplinar ou preventivo, conferindo efeito mais gravoso à pena de suspensão do que aquele que lhe é atribuído por força da Lei nº 8.112/90. (..) Considerar a pena de suspensão do servidor como causa de interrupção de interstício contado para fins de promoção é punir o mesmo servidor duas vezes pelo mesmo fato, criando punição adicional não prevista no regime jurídico de Direito Administrativo, o que malfere a razoabilidade e a legalidade. Ainda que se cuide de sansão disciplinar, os seus efeitos e alcance só podem s er versados em lei em sentido estrito, não podendo ser imposta pena, ou agravado o caráter de determinada pena imposta a qualquer cidadão, sem lei anterior que assim preconize".
+2. Hipótese em que a parte recorrente deixou de impugnar, nas razões do Recurso Especial, os fundamentos da Corte de origem, o que, por si só, mantém incólume o acórdão recorrido. A não impugnação de fundamento suficiente para manter o acórdão recorrido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do Recurso.
+3. Agravo Interno não provido.
+RELATÓRIO
+Trata-se de Agravo Interno contra decisão que não conheceu do Recurso Especial, ante o óbice da Súmula 283/STF.
+Nas razões do Recurso (fls. 389-396, e-STJ), a parte agravante sustenta que impugnou todos os fundamentos do acórdão.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA 283/STF.
+1. O Tribunal a quo consignou que "a Portaria nº 23/1998 certamente invade matéria afeta à lei, ao dispor acerca das hipóteses interruptivas deste prazo de interstício para fins de progressão funcional, nelas incluindo os afastamentos por motivo disciplinar ou preventivo, conferindo efeito mais gravoso à pena de suspensão do que aquele que lhe é atribuído por força da Lei nº 8.112/90. (..) Considerar a pena de suspensão do servidor como causa de interrupção de interstício contado para fins de promoção é punir o mesmo servidor duas vezes pelo mesmo fato, criando punição adicional não prevista no regime jurídico de Direito Administrativo, o que malfere a razoabilidade e a legalidade. Ainda que se cuide de sansão disciplinar, os seus efeitos e alcance só podem s er versados em lei em sentido estrito, não podendo ser imposta pena, ou agravado o caráter de determinada pena imposta a qualquer cidadão, sem lei anterior que assim preconize".
+2. Hipótese em que a parte recorrente deixou de impugnar, nas razões do Recurso Especial, os fundamentos da Corte de origem, o que, por si só, mantém incólume o acórdão recorrido. A não impugnação de fundamento suficiente para manter o acórdão recorrido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do Recurso.
+3. Agravo Interno não provido.
+VOTO
+Os autos foram recebidos neste Gabinete em 19.12.2023.
+A irresignação não merece prosperar. Como consignado na decisão monocrática, o Tribunal a quo, adotando o entendimento da sentença, afirmou (grifei):
+9. À primeira vista, o Executivo, ao editar o referido Decreto nº 7.014/2009, desempenhou o poder regulamentar, com respaldo no art. 2º, § 1º, da Lei nº 9.266/96, não havendo que se cogitar em ilegalidade do referido instrumento normativo.
+10. Porém, o mesmo não pode ser dito da Portaria nº 23/1998, editada a pretexto de complementar o regulamento, na parte que exemplifica algumas das hipóteses entendidas como provocadoras da interrupção do interstício mínimo de exercício funcional exigido para promoção.
+11. Ora, a Portaria nº 23/1998 certamente invade matéria afeta à lei, ao dispor acerca das hipóteses interruptivas deste prazo de interstício para fins de progressão funcional, nelas incluindo os afastamentos por motivo disciplinar ou preventivo, conferindo efeito mais gravoso à pena de suspensão do que aquele que lhe é atribuído por força da Lei nº 8.112/90.
+(..)
+16. Considerar a pena de suspensão do servidor como causa de interrupção de interstício contado para fins de promoção é punir o mesmo servidor duas vezes pelo mesmo fato, criando punição adicional não prevista no regime jurídico de Direito Administrativo, o que malfere a razoabilidade e a legalidade.
+17. Ainda que se cuide de sansão disciplinar, os seus efeitos e alcance só podem ser versados em lei em sentido estrito, não podendo ser imposta pena, ou agravado o caráter de determinada pena imposta a qualquer cidadão, sem lei anterior que assim preconize.
+18. A olhos vistos, a estranheza da situação é patente e esse enfoque conferido à sanção disciplinar a agrava a ponto de retardar demasiadamente a progressão na carreira, podendo até mesmo gerar preterição entre servidores que estejam em situação similar.
+19. O servidor que trabalhou um período maior até ser punido, ao ter todo o tempo de exercício anterior à punição desconsiderado, será compelido a esperar bem mais pela progressão funcional do que aqueles servidores mais novos e com menos tempo de exercício na data da punição, sendo acarretadas distorções indevidas na carreira.
+20. Com efeito, se determinado servidor for punido logo no começo da contagem do prazo de interstício de cinco anos exigido para acesso da primeira classe à classe especial da carreira, estará em vantagem se comparada a sua situação com a situação de outro servidor que também tenha sido punido, só que após o transcurso de tempo de exercício maior.
+21. Matematicamente falando, se a punição for aplicada e integralmente cumprida no primeiro ano da contagem do interstício para progressão funcional, o recomeço da contagem do prazo a partir de então fará com que o servidor aguarde, ao todo, seis anos pela dita progressão funcional, ao passo que se a punição for cominada após quatro anos de exercício funcional, o recomeço da contagem do prazo de interstício levará ao aguardo de tempo total de nove anos para fins da mesma progressão funcional.
+22. A mácula ao princípio da isonomia é evidente, pois estariam sendo geradas situações deflagrante desigualdade entre servidores de mesma classe na carreira, apenas pelo fato de sofrerem punições em momentos diferentes.
+Com fulcro na leitura do trecho acima transcrito, verifica-se que os argumentos expendidos no aresto recorrido, notadamente quanto à extrapolação do poder de regulamentar, não foram especificamente impugnados no Recurso Especial, o que caracteriza deficiência na fundamentação recursal, a atrair a incidência das Súmulas 283/STF e 284/STF.
+Diante do exposto, nego provimento ao Agravo Interno.
+É como voto.
