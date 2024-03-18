@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de CARLOS EDUARDO MARTINS LOPES, apontando-se como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina (Apelação Criminal n. 5004187-42.2021.8.24.0080/SC).
+Consta dos autos que o paciente foi condenado como incurso no artigo 33, caput, e § 4º, da Lei n. 11.343/06, à pena de 1 ano e 8 meses de reclusão e 332 dias- multa, em regime aberto, a qual foi substituída por duas penas restritivas de direitos, consistentes em prestação de serviços à comunidade e prestação pecuniária.
+Inconformada, a defesa interpôs recurso de apelação perante o Tribunal de origem, ao qual foi negado provimento.
+No presente writ, sustenta a parte impetrante, em síntese, que seria caso de substituição da pena privativa de liberdade por uma restritiva de direitos e multa, tendo em vista ser a opção mais benéfica ao paciente.
+Afirma que " o  Juízo sentenciante optou pela segunda alternativa  substituição por duas restritivas de direito, consistentes em prestação pecuniária e prestação de serviços à comunidade - sem fundamentação concreta" (fl. 5).
+Requer, a concessão da ordem para "para o fim de readequar as penas substitutivas para uma restritiva de direitos e multa, nos termos do § 2.º do art. 44 do Código Penal" (fl. 8).
+Prestadas as informações, o Ministério Público Federal manifestou-se pela denegação da ordem.
+Sobre o objeto da controvérsia, assim se manifestou a Corte local (fls. 459/460):
+A defesa requer, ainda, a substituição das duas penas restritivas de direitos aplicadas na sentença por uma pena restritiva de direito e multa, sob a alegação de que o sentenciante não fundamentou a escolha.
+Novamente sem razão.
+Extrai-se da sentença (evento 79, DOC1) que o apelante foi condenado à pena de 1 (um) ano e 8 (oito) meses de reclusão, a qual foi substituída por duas penas restritivas de direitos, consistentes em prestação de serviços à comunidade e prestação pecuniária, conforme estabelece o art. 44, §2º, do Código Penal.
+E tal escolha não compete ao apenado, mas ao juiz sentenciante, este que, diante da análise dos fatos que lhe são apresentados, deve escolher, dentre as possibilidades elencadas no rol taxativo estabelecido pelo art. 43 do Código Penal, aquela que mais se adequa ao caso concreto.
+ ..
+Nesse compasso, em acolhimento à discricionariedade que se confere ao julgador na escolha da pena ser aplicada, pela motivação acima estabelecida, nega-se o pleito recursal.
+O Tribunal de origem afastou o pedido de substituição das duas penas restritivas de direito por uma de multa e uma restritiva de direito por concluir que a escolha das penas substitutivas é ato discricionário do julgador, não verificando, no caso concreto, ilegalidade na decisão.
+De fato, "A jurisprudência desta Corte entende que não constitui direito subjetivo do réu escolher, no momento da substituição da pena corporal por restritiva de direitos, se prefere a duas penas restritivas de direito ou uma restritiva de direitos e uma multa" (AgRg noHC n. 725.262/SC, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 6/5/2022).
+Mesmo que assim não fosse, consoante jurisprudência do STJ "Se ao tipo penal é cominada pena de multa cumulativa com a pena privativa de liberdade substituída, não se mostra socialmente recomendável a aplicação da multa substitutiva prevista no art. 44, § 2º, 2ª parte do Código Penal" (HC n. 416.530/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 19/12/2017). A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR UMA RESTRITIVA DE DIREITO E MULTA. IMPOSSIBILIDADE. SÚMULA N. 171 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consoante a jurisprudência pacífica desta Corte Superior, não é "socialmente recomendável a substituição da pena privativa de liberdade superior a 1 ano por uma restritiva de direitos e multa, em lugar de duas restritivas de direitos, na hipótese de o preceito secundário do tipo penal cominar pena de multa cumulada com a pena corporal. Essa é a inteligência da Súmula 171/STJ, in verbis: Cominadas cumulativamente, em lei especial, penas privativa de liberdade e pecuniária, é defeso a substituição da prisão por multa" (AgRg no HC n. 721.871/SC, relator Ministro Reynaldo Soares da Fonseca, 5ª T., DJe de 25/3/2022).
+2. Agravo regimental não provido. (AgRg no HC n. 662.331/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 7/6/2022, DJe de 10/6/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. ACORDO DE NÃO PERSECUÇÃO PENAL. RETROATIVIDADE. DENÚNCIA JÁ RECEBIDA. INAPLICABILIDADE. INDIVIDUALIZAÇÃO DA PENA. AUSÊNCIA DE PREJUÍZO AOS RÉUS. CONTINUIDADE DELITIVA. ADOÇÃO DO PATAMAR MÍNIMO PREVISTO NO ART. 71 DO CP. SUBSTITUIÇÃO DAS PENAS POR RESTRITIVA DE DIREITOS E MULTA. SUPRESSÃO DE INSTÂNCIA. FUNDAMENTAÇÃO SUFICIENTE. AGRAVO DESPROVIDO.
+ ..
+5. Conforme o entendimento consolidado desta Corte "na condenação igual ou inferior a um ano, a substituição pode ser feita por multa ou por uma pena restritiva de direitos; se superior a um ano, a pena privativa de liberdade pode ser substituída por uma pena restritiva de direitos e multa ou por duas restritivas de direitos" (CP, art. 44, § 2º). Com efeito, "nos termos da jurisprudência consolidada por esta Corte Superior, não se mostra socialmente recomendável a aplicação de uma nova pena de multa, em caráter substitutivo, no caso de o preceito secundário do tipo penal possuir previsão de multa cumulada com a pena privativa de liberdade" (AgRg no HC n. 480.970/SC, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 6/6/2019, DJe 18/6/2019).
+6. Agravo regimental desprovido. (AgRg no HC n. 633.579/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 23/8/2021.)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
