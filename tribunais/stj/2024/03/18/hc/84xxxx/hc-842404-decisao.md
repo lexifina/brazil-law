@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ALEXANDRE ANTONIO CARDIA DE SOUZA, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Neste writ, a Defesa alega, em linhas gerais, a ocorrência de constrangimento ilegal consubstanciado na ausência de fundamentação para a segregação cautelar do Paciente, aduzindo que a medida constritiva de liberdade é desnecessária.
+Requer a revogação da prisão preventiva e, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Liminar indeferida, às fls. 365-368.
+Informações prestadas, às fls. 373-387. O Ministério Público Federal, às fls. 392-395, manifestou-se pela prejudicialidade e não conhecimento do habeas corpus. Confira-se a ementa do parecer:
+"PENAL. PROCESSO PENAL. HABEAS CORPUSCONTRA ACÓRDÃO TRANSITADO EM JULGADO. NÃO CABIMENTO DO WRIT. TRÁFICO DE DROGAS INTERESTADUAL. APREENSÃO DE 386,4KG DE MACONHA. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA QUE MANTEVE A PRISÃO CAUTELAR AGREGANDO FUNDAMENTAÇÃO AO DECRETO PRISIONAL. PREJUDICIALIDADE DESTE WRIT CONFIGURADA. NÃO CONHECIMENTO.
+1. Os impetrantes pedem a revogação da prisão preventiva do paciente, alegando ausência de fundamentação idônea para a sua manutenção.
+2. O habeas corpus não deve ser conhecido, porque impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo denegatório de writ originário, que já transitou em julgado, em 13/08/2023, conforme informação obtida no site do referido Tribunal, na internet.
+3. No curso do julgamento deste writ, sobreveio sentença condenatória, sendo mantida a segregação do paciente. O magistrado sentenciante, além das razões que fundamentaram a decretação da prisão preventiva, também justificou a sua manutenção em razão da reincidência do réu.
+4. Acrescido novo argumento à manutenção da prisão cautelar, o feito encontra-se prejudicado. Precedente.
+- Parecer pelo não conhecimento do habeas corpus" (fl. 392).
+É o relatório. DECIDO.
+O habeas corpus está prejudicado.
+Conforme informações colhidas no sítio da Corte de origem, (www.tjsp.jus.br), verifica-se que foi proferida sentença, processo n. 1500583-47.2023.8.26.0569/SP, e o Paciente foi condenado à pena de 07 (sete) anos de reclusão, em regime inicial fechado, pela suposta prática do delito previsto no art. 33, caput, c/c. art. 40, inciso V, da Lei 11.343/06.
+Na ocasião, o Juízo de primeiro grau acrescentou novos fundamentos para manter a prisão preventiva em desfavor do Paciente:
+"ANTE O EXPOSTO, julgo procedente a presente ação penal condeno o réu ALEXANDRE ANTONIO CARDIA DE SOUZA, qualificado nos autos, a cumprir a pena de 07 (sete) anos de reclusão, em regime inicial fechado, bem como ao pagamento de 700 (setecentos) dias-multa, no menor valor, corrigidos desde a data do crime, por infração ao art. 33, caput, c.c. art. 40, inciso V, ambos da Lei 11.343/06. Nego ao réu o direito de recorrer em liberdade, por se tratar de crime gravíssimo, envolvendo grande quantidade de droga, por ostentar o réu condenação anterior e por subsistirem os requisitos da prisão preventiva, indicando que a manutenção da prisão é necessária para garantia da ordem pública e futura aplicação da lei penal. Recomende-se o réu na prisão em que se encontra. Após o trânsito em julgado, lance-se o nome do réu no "rol dos culpados" e encaminhe-se o numerário e o veículo apreendidos à SENAD, por se tratarem de produto e instrumento do crime, ora declarados perdidos em favor da União. Custas na forma da lei. Registre-se e comunique-se. Publicada em audiência, saem os presentes intimados." O RÉU E A DEFENSORA SE MANIFESTARÃO QUANTO AO RECURSO DENTRO DO PRAZO LEGAL. Certifico e dou fé que, o arquivo com a gravação da audiência poderá ser visualizado através do Portal e-Saj." Nada mais, lido e achado conforme. Eu, Sofia Vicentini, Assistente Judiciário, digitei" (www.tjsp.jus.br, grifei).
+Portanto, conforme o entendimento sedimentado por esta Corte, o presente feito encontra-se prejudicado, uma vez que se insurge contra decreto prisional que não mais subsiste devido à superveniência de novo título prisional com novos fundamentos.
+A propósito:
+"Pleito de revogação da prisão preventiva ante a alegada ausência de fundamentação do decreto prisional prejudicado pela superveniência da sentença de pronúncia, que constitui novo título, com novos fundamentos para a prisão preventiva, os quais não foram impugnados na presente impetração, tampouco analisados pelo eg. Tribunal de origem" (HC 495.012/SP, Quinta Turma, Rel. Ministro Felix Fischer, DJe 25/06/2019).
+Outrossim, conforme a jurisprudência desta Corte:
+"A superveniência de sentença penal condenatória, na qual se nega ao Acusado o direito de recorrer em liberdade, com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar" (AgRg no HC n. 461.932/SP, Sexta turma, Relª. Minª. Laurita Vaz, DJe de 19/08/2019, grifei).
+Desse modo, forçoso reconhecer a prejudicialidade da presente impetração, ante a perda superveniente de seu objeto.
+Ante o exposto, com fulcro no art. 34, XX, do RISTJ, julgo o presente habeas corpus prejudicado.
+Publique-se. Intime-se.
+EMENTA
