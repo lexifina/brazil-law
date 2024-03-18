@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo de GUILHERME DE SOUZA MOLLO contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal - CF, contra acórdão proferido no julgamento de apelação criminal n. 1500080-60.2021.8.26.0160.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 33, § 4º, da Lei n. 11.343/06 (tráfico privilegiado), à pena de 1 ano e 8 meses de reclusão, em regime inicial aberto, e pagamento de 166 dias-multa, no piso legal (fls. 354/362).
+Foram interpostos recursos de apelação pela defesa e pela acusação. O recurso defensivo foi desprovido, ao passo que ao apelo ministerial foi dado provimento para afastar a minorante do art. 33, § 4º, da Lei de Drogas, agravar o regime inicial de cumprimento da pena e a substituição da pena privativa de liberdade por restritiva de direitos. O acórdão ficou assim ementado:
+"Tráfico - Art. 33, §4º, da Lei 11.343/06 - Recurso do corréu Fábio buscando absolvição - Inviável, pois há robusto conjunto probatório, comprovando autoria e materialidade - Acusados encontrados na posse de 24 porções de cocaína pesando 13,8g, 19 porções de maconha pesando 49,3g e 45 pedras de crack, pesando 13,8g, tendo sido flagrados na venda de entorpecentes para usuária - Versão de que Fábio se tratava de mero usuário foi rebatida pelo depoimento do policial Murilo, bem como da própria confissão do acusado em solo policial, que fora acompanhada de advogado, não sendo crível que ele tenha confessado apenas porque não queria "delatar" o amigo Guilherme - Recurso ministerial para afastar o redutor do tráfico - Possibilidade - A causa de diminuição deve ser concedida em prol daqueles que estão se iniciando no mundo do crime, tendo, por isso, maior chance de serem recuperados e reintegrados ao convívio social, mediante a imposição de sanções penais menos rigorosas - Quantidade e variedade de narcóticos, bem como as circunstâncias da apreensão, tornam evidente a dedicação dos acusados às atividades criminosas, uma vez que são incompatíveis com o tráfico eventual, demonstrando a inserção dos réus na estrutura criminosa e sua dedicação ao comércio espúrio - Sanção majorada - Regime prisional inicial alterado para o fechado, conforme postula o MP - Afastamento da substituição, pois pena restou superior a 4 anos - Pena majorada e regime alterado - Recurso defensivo desprovido e recurso do Ministério Público provido." (fls. 537/538)
+Embargos de declaração opostos pela defesa foram rejeitados. O acórdão ficou assim ementado:
+"EMBARGOS DE DECLARAÇÃO - Inexistência de omissão - Fundamentação suficiente do v. acórdão, que foi claro ao acolher o recurso ministerial, afastando o redutor do art. 33, §4º, da Lei de Drogas e impondo regime inicial de cumprimento fechado Mero prequestionamento Rejeitados os Embargos de Declaração." (fl. 660)
+Em sede de recurso especial (fls. 622/633), a defesa requereu, em síntese, a fixação do regime aberto ao recorrente, o reconhecimento da confissão espontânea e do tráfico privilegiado.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO (fls. 696/697).
+Ao recurso especial foi negado seguimento quanto ao Tema n. 190 do Superior Tribunal de Justiça. Quanto ao mais, foi inadmitido no TJ em razão da deficiência de sua fundamentação (Súmula n. 284 do Supremo Tribunal Federal); de dissídio jurisprudencial não demonstrado; de falta de cotejo analítico; de inadmissibilidade, para ilustração da divergência, de acórdãos proferidos em julgamento de habeas corpus, de recurso ordinário em habeas corpus, de conflito de competência, de mandado de segurança ou de recurso ordinário em mandado de segurança; e da incidência da Súmula n. 7 do Superior Tribunal de Justiça - STJ (fls. 700/702).
+Agravo em recurso especial às fls. 717/719.
+Contraminuta do Ministério Público (fls. 725/732).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo não conhecimento do agravo, e pela extensão dos efeitos do provimento do recurso do corréu (fls. 746/753).
+É o relatório.
+Decido.
+O presente agravo em recurso especial não merece ser conhecido.
+De início, observa-se que o TJ negou seguimento ao apelo nobre quanto ao pedido de fixação da pena aquém do mínimo legal em razão de circunstância atenuante, com lastro no art. 1.030, I, "b", do Código de Processo Civil - CPC, pois a questão já fora decidida no Tema n. 190/STJ.
+Em relação a esse ponto da decisão, caberia à defesa interpor agravo interno na Corte a quo, nos termos do § 2º do mesmo dispositivo legal, o que não foi feito. Desse modo, não conheço do recurso no ponto.
+Ademais, a defesa não impugnou os fundamentos de inadmissão do recurso especial.
+O recurso especial foi inadmitido no TJ em razão da deficiência de sua fundamentação (Súmula n. 284 do Supremo Tribunal Federal); de dissídio jurisprudencial não demonstrado; de falta de cotejo analítico; de inadmissibilidade, para ilustração da divergência, de acórdãos proferidos em julgamento de habeas corpus, de recurso ordinário em habeas corpus, de conflito de competência, de mandado de segurança ou de recurso ordinário em mandado de segurança; e da incidência da Súmula n. 7 do Superior Tribunal de Justiça - STJ (fls. 700/702).
+O agravante, no entanto, olvidou-se em impugnar os referidos fundamentos.
+Dessa forma, faz-se necessária a aplicação dos arts. 932, III e 1.021, § 1º, do Código de Processo Civil de 2015 - CPC e da Súmula n. 182 do STJ, que consideram ser inviável o agravo que deixa de atacar todos os fundamentos da decisão agravada.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O APELO NOBRE. NÃO IMPUGNAÇÃO. SÚMULA 182/STJ. INCIDÊNCIA. AGRAVO NÃO PROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão que não admite o recurso especial impede o conhecimento do agravo, nos termos do que dispõe a Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+ ..
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1716359/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 10/05/2021).
+Ante o exposto, com fundamento no art. 932, inc. III, do Código de Processo Civil, e no art. 253, I, do Regimento Interno do STJ - RISTJ, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
