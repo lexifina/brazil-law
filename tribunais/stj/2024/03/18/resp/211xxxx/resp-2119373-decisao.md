@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de recurso especial interposto por CIDADE VERDE PRUDENTE DE MORAIS EMPREENDIMENTOS IMOBILIÁRIOS S.A. e GRAN VIVER URBANISMO S.A. (CIDADE VERDE e outra), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça de Minas Gerais, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO CONTRATUAL C/C RESSARCIMENTO DE VALORES E INDENIZAÇÃO POR DANOS MORAIS - OBRAS DE INFRAESTRUTURA DO LOTEAMENTO - ATRASO NA ENTREGA -RESCISÃO POR CULPA DA CONSTRUTORA - FATORES EXTERNOS - RISCO DO EMPREENDIMENTO - RESTITUIÇÃO INTEGRAL DOS VALORES PAGOS - POSSIBILIDADE - SÚMULA 543 STJ -DANOS MORAIS - CONFIGURADOS. É entendimento consolidado deste Tribunal de Justiça que fatores externos não se prestam para afastar a responsabilidade da construtora em caso de atraso na entrega de imóvel, pois dizem respeito ao risco do empreendimento, que não pode ser dividido com os consumidores. Por ter o promitente vendedor dado causa à rescisão contratual, a restituição do valor pago pelo promitente comprador deve ser imediata e integral, na forma do Enunciado da Súmula nº 543 do Superior Tribunal de Justiça. A compra de um imóvel não é um negócio jurídico simples e envolve planejamentos de vida e sonhos do prominente comprador, de forma queo atraso injustificado violam, diretamente, os direitos da personalidade, não se resumindo à um mero aborrecimento. Os juros de mora devem incidir a partir da citação, conforme estabelece o art. 405 do CC (e-STJ, fl. 441).
+Nas razões do presente recurso, CIDADE VERDE e outra alegaram, a par de divergência jurisprudencial, a violação aos arts. 186, 421, 422, 475, 884, 927 e 944 do CC, ao sustentarem (1) a inaplicabilidade das normas consumeristas aos contratos de compra e venda de imóvel com pacto adjeto de alienação fiduciária, razão pela qual, rescindido o contrato por culpa imputável, exclusivamente, à adquirente, devem ser observadas as disposições contratuais no tocante ao percentual de restituição de valores; (2) a impossibilidade de inversão da multa contratual; (3) o descabimento da indenização por danos morais na hipótese de mero descumprimento contratual; e (4) a incidência da correção monetária e dos juros de mora a partir do trânsito em julgado da sentença.
+Foram apresentadas contrarrazões (e-STJ, fls. 482/498).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+Trata-se de ação de rescisão de contrato de promessa de compra e venda de imóvel (lote urbano não edificado) cumulada com indenização por danos materiais e morais ajuizada por DAMIANA IVANEIDE DE ALMEIDA contra CIDADE VERDE e outra, alegando descumprimento do prazo de entrega das obras de infraestrutura.
+(1) Da resolução do contrato
+Em relação ao tema, CASA VERDE e outra alegaram a inaplicabilidade das normas consumeristas aos contratos de compra e venda de imóvel com pacto adjeto de alienação fiduciária, razão pela qual, rescindido o contrato por culpa imputável, exclusivamente, à adquirente, devem ser observadas as disposições contratuais no tocante ao percentual de restituição de valores
+Todavia, as disposições da lei atinentes à alienação fiduciária só são aplicáveis à hipótese em que o devedor fiduciante não paga, no todo ou em parte, a dívida, e é constituído em mora, o que não é o caso dos autos, uma vez que, conforme apurado pelas instâncias ordinárias, foi a incorporadora que deixou de entregar o empreendimento no prazo prometido.
+Nesse sentido:
+RECURSO ESPECIAL. DIREITO CIVIL. COMPRA E VENDA. ALIENAÇÃO FIDUCIÁRIA. REGISTRO. ESCRITURA PÚBLICA. COMPETÊNCIA. RELATIVA. DIREITO PESSOAL. DOMICÍLIO. CONSUMIDOR. FACILITAÇÃO. INADIMPLÊNCIA. VENDEDOR. CREDOR FIDUCIÁRIO. DIREITO À RESOLUÇÃO. ESTADO ANTERIOR. RETORNO. PARCELAS PAGAS. DEVOLUÇÃO TOTAL. ARTS. 26 E 27 DA LEI Nº 9.514/1997. INAPLICABILIDADE. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1.  ..
+2. A jurisprudência do Superior Tribunal de Justiça está firmada no sentido de que a facilitação da defesa dos direitos do consumidor em juízo permite a propositura de demanda judicial em seu próprio domicílio.
+3. Em se tratando de discussão que concerne a direitos pessoais, a competência para processar e julgar o feito será relativa, ainda que as obrigações em comento derivem de negócio jurídico sobre bem imóvel.
+4. O registro em cartório de escritura pública de compra e venda com pacto adjeto de alienação fiduciária não obsta o direito à resolução por inadimplemento fundado no artigo 475 do Código Civil.
+5. A existência de cláusula de alienação fiduciária em contrato de compra e venda não permite a aplicação dos procedimentos dos arts. 26 e 27 da Lei nº 9.514/1997 para a hipótese de inadimplemento do vendedor/credor fiduciário.
+6. As razões que levam ao não provimento do recurso especial pela alínea "a" também afetam a análise pela alínea "c" do permissivo constitucional. Precedentes.
+7. Recurso especial conhecido e não provido.
+(REsp n. 1.739.994/DF, relator Ministro RICARDO VILLAS BOAS CUEVA, Terceira Turma, julgado aos 11/5/2021, DJe de 20/5/2021.)
+Incide, à hipótese, o comando da Súmula nº 568 do STJ.
+(2) Da inversão da multa contratual
+Com relação ao tema, a eg. Segunda Seção desta Corte, no julgamento do REsp n.º 1.631.485/DF, julgado sob o rito dos recursos representativos de controvérsia, reconheceu a possibilidade de inversão da cláusula penal em favor dos adquirentes de unidade imobiliária em construção (Tema 971) nos termos da ementa a seguir consignada:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. COMPRA E VENDA DE IMÓVEL NA PLANTA. ATRASO NA ENTREGA. NOVEL LEI N. 13.786/2018. CONTRATO FIRMADO ENTRE AS PARTES ANTERIORMENTE À SUA VIGÊNCIA. NÃO INCIDÊNCIA. CONTRATO DE ADESÃO. OMISSÃO DE MULTA EM BENEFÍCIO DO ADERENTE. INADIMPLEMENTO DA INCORPORADORA. ARBITRAMENTO JUDICIAL DA INDENIZAÇÃO, TOMANDO-SE COMO PARÂMETRO OBJETIVO A MULTA ESTIPULADA EM PROVEITO DE APENAS UMA DAS PARTES, PARA MANUTENÇÃO DO EQUILÍBRIO CONTRATUAL.
+1. A tese a ser firmada, para efeito do art. 1.036 do CPC/2015, é a seguinte: No contrato de adesão firmado entre o comprador e a construtora/incorporadora, havendo previsão de cláusula penal apenas para o inadimplemento do adquirente, deverá ela ser considerada para a fixação da indenização pelo inadimplemento do vendedor. As obrigações heterogêneas (obrigações de fazer e de dar) serão convertidas em dinheiro, por arbitramento judicial.
+2. No caso concreto, recurso especial parcialmente provido.
+(REsp n. 1.631.485/DF, relator Ministro LUIS FELIPE SALOMÃO, Segunda Seção, julgado aos 22/5/2019, DJe de 25/6/2019.)
+No caso, ao entender pela possibilidade da inversão da cláusula penal moratória, em decorrência do atraso na entrega do empreendimento, o TJMG o fez, portanto, em conformidade com a orientação firmada nesta Corte Superior, devendo o acórdão recorrido ser prestigiado no ponto.
+(3) Do dano moral
+Por fim, CIDADE VERDE e outra sustentaram o descabimento da condenação ao pagamento de indenização por danos morais na hipótese de mero descumprimento contratual.
+Com relação ao tema, a eg. Terceira Turma desta Corte, no julgamento do REsp nº 1.642.314/SE, Rel. Ministra NANCY ANDRIGHI, DJe 22/3/2017, firmou as seguintes premissas:
+a) o dano moral pode ser definido como lesões a atributos da pessoa, enquanto ente ético e social que participa da vida em sociedade, estabelecendo relações intersubjetivas em uma ou mais comunidades, ou, em outras palavras, são atentados à parte afetiva e à parte social da personalidade (Precedente: REsp 1.426.710/RS, Terceira Turma, julgado em 25/10/2016, DJe 9/11/2016);
+b) os simples dissabores ou aborrecimentos da vida cotidiana não ensejam abalo moral, conforme se vê dos seguintes precedentes: REsp 202.564/RJ, Quarta Turma, julgado em 2/8/2001, DJ 1º/10/2001; e REsp 1.426.710/RS, Terceira Turma, j. 25/10/2016, DJe 8/11/2016); e
+c) muito embora o simples descumprimento contratual não provoque danos morais indenizáveis, circunstâncias específicas do caso concreto podem configurar a lesão extrapatrimonial. Precedentes: REsp 1.637.627/RJ, Rel. Ministra j. 6/12/2016, DJe 14/12/2016; REsp 1.633.274/SP; j. 8/11/2016, DJe 11/11/2016; AgRg no AREsp 809.935/RS, DJe 11/3/2016; e REsp 1.551.968/SP, Segunda Seção, DJe 6/9/2016.
+Ao examinar a controvérsia, no ponto, confira-se o que anotou o Tribunal estadual:
+Em relação à condenação ao pagamento de indenização por danos morais, melhor sorte não assiste a parte apelante. É certo que o atraso injustificado de quase 04 (quatro) anos na entrega do loteamento extrapola, em muito, o mero dissabor e não pode ser visto como um mero descumprimentocontratual.
+Isso porque a compra de um imóvel não é um negócio jurídico simples e envolve planejamentos de vida e sonhos do prominente comprador, de forma que o atraso injustificado violam, diretamente, os direitos da personalidade, não se resumindo à ummero aborrecimento.
+Assim, averiguada o ato ilícito da construtora (atraso injustificado na entrega do loteamento de sua exclusiva responsabilidade), a lesão aos direitos da personalidade e o nexo causal, resta configurado o dever de indenizar (e-STJ, fl. 450).
+Desse modo, ante a excepcionalidade do caso, tendo em vista o excessivo atraso no prazo de entrega da obra, para se alterar tal entendimento é necessária a reavaliação de fatos e provas constantes dos autos, o que é vedado nesta via excepcional, nos termos da mencionada Súmula nº 7 desta Corte.
+Nesse sentido, respeitadas as bases fáticas de cada caso:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO INJUSTIFICADO NA ENTREGA. DANO MORAL CONFIGURADO. REVISÃO QUE ESBARRA NO ÓBICE DA SÚMULA 7 DO STJ.
+1. O Tribunal de origem constatou, com base nos elementos fático probatórios dos autos que os danos morais foram comprovados. Rever esta conclusão, esbarraria no óbice da Súmula 7 deste Superior Tribunal.
+2. Da mesma forma, inviável o conhecimento do recurso pela alínea "c" do permissivo constitucional, pois a análise do dissenso pretoriano depende do revolvimento de matéria fático-probatória.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.638.702/RO, relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado aos 20/4/2017, DJe de 3/5/2017.)
+(4) Do termo inicial da correção monetária e dos juros de mora
+No ponto, esta Corte Superior possui jurisprudência consolidada de que em caso de rescisão de contrato de compra e venda de imóvel, a correção monetária das parcelas pagas, para efeitos de restituição, incide sobre cada desembolso, e os juros moratórios a partir da citação, em se tratando de inadimplemento contratual por parte da promitente-vendedora, o que ficou evidenciado no caso.
+Confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. CONTRATO DE COMPRA DE IMÓVEL. DESFAZIMENTO. VALOR PAGO. PERCENTUAL DE RETENÇÃO. MATÉRIA FÁTICO-PROBATÓRIA. CLÁUSULAS CONTRATUAIS. REEXAME. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ. CORREÇÃO MONETÁRIA. TERMO INICIAL. DESEMBOLSO.
+ .. .
+4. O termo inicial da correção monetária das parcelas pagas a serem restituídas em virtude da rescisão do contrato de compra e venda é a data de cada desembolso, nos termos da jurisprudência do Superior Tribunal de Justiça.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.791.907/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado aos 8/3/2021, DJe de 12/3/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA. PROMITENTE VENDEDORA. INADIMPLEMENTO. AÇÃO DE INDENIZAÇÃO. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. JUROS DE MORA. RESPONSABILIDADE CONTRATUAL. TERMO INICIAL. MULTA CONTRATUAL. BASE DE CÁLCULO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+1.  ..
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Em caso de responsabilidade contratual, os juros moratórios incidem a partir da citação. Precedentes.
+4. Na hipótese, rever o entendimento firmado pelas instâncias ordinárias para alterar a base de cálculo da multa contratual demanda a análise do contrato, dos fatos e das provas dos autos, procedimento inviável em recurso especial devido aos óbices das Súmulas nºs 5 e 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.666.670/RS, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado aos 29/3/2021, DJe de 7/4/2021.)
+Incidência à hipótese do comando da Súmula nº 83 do STJ.
+Nessas condições, CONHEÇO EM PARTE o recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+MAJORO em 2% o valor dos honorários advocatícios anteriormente fixados em favor da parte recorrida, limitados a 20%, nos termos do art. 85, § 11, do CPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. LOTE URBANO NÃO EDIFICADO. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DO EMPREENDIMENTO. (1) ESCRITURA PÚBLICA COM PACTO ADJETO DE ALIENAÇÃO FIDUCIÁRIA. MORA DA INCORPORADORA. RESOLUÇÃO DO CONTRATO. POSSIBILIDADE. SÚMULA Nº 568 DO STJ. (2) INVERSÃO DA CLÁUSULA PENAL MORATÓRIA EM FAVOR DO CONSUMIDOR. POSSIBILIDADE. TEMA Nº 971 DO STJ. (3) OCORRÊNCIA DE SITUAÇÃO EXCEPCIONAL QUE DEMONSTROU A EXISTÊNCIA DO DANO MORAL VINDICADO. SÚMULA Nº 7 DO STJ. (4) CORREÇÃO MONETÁRIA E JUROS DE MORA. TERMO INICIAL. DATA DO PAGAMENTO E DATA DA CITAÇÃO, RESPECTIVAMENTE. SÚMULA Nº 83 DO STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
