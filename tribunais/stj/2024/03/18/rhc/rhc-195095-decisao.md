@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por EMERSON MARQUES DOS REIS, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, que denegou a ordem orginária e manteve a prisão cautelar do recorrente decretada pela suposta prática do delito tipificado no art. 33, caput, da Lei 11.343/06, assim ementado:
+HABEAS CORPUS - TRÁFICO DE DROGAS - PRISÃO PREVENTIVA -GRAVIDADE CONCRETA DO DELITO - GRANDE QUANTIDADE DE DROGAS - DECISÃO FUNDAMENTADA - PRESENTES OS REQUISITOS DOS ART. 312 E 313 DO CPP - INSUFICIÊNCIA DE OUTRAS MEDIDAS CAUTELARES NÃO PRISIONAIS - ART. 319, CPP - CONSTRANGIMENTO ILEGAL NÃO VERIFICADO - ORDEM DENEGADA.
+- Evidenciado elementos aptos a demonstrar o fumus comissi delicti e o periculum libertatis, a segregação preventiva mostra-se necessária, mormente para garantia da ordem pública.
+- Apreensão de 99 pinos de cocaína, com peso total de 118,40 (cento e dezoito gramas e quarenta centigramas).
+- Paciente contumaz na prática delitiva, ostentando de passagens e condenação.
+- De acordo com posicionamento firmado pelo STJ, "as condições subjetivas favoráveis do recorrente, tais como primariedade, bons antecedentes, residência fixa e trabalho lícito, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva".
+- Ordem denegada.
+Nesta Corte, a defesa afirma, em suma, que não há motivação concreta para a prisão cautelar, uma vez que amparada tão somente na gravidade abstrata do delito.
+Requer a substituirção da prisão preventiva por outras medidas cautelares.
+É o relatório.
+Decido.
+O recurso não comporta provimento.
+A Corte estadual denegou a ordem originária, nos seguintes termos:
+"(..) Durante o monitoramento, visualizamos um homem trajando blusa preta, boné preto e bermuda vermelha de bicicleta tipo barra forte entrando na casa de jorginho e esse homem não trazia nada nas mãos. instantes depois essa pessoa citada acima saiu da referida residência com uma sacola nas mãos, amarrou a sacola na carregadeira da bicicleta e saiu sentido a praça boa vista. de imediato saímos do local de onde a casa doJorginho estava sendo monitorada e abordamos o suspeito em epígrafe na praça boa vista, e na busca pessoal foi encontrado um pino de uma substância esbranquiçada análoga a cocaína e na carregadeira da bicicleta foi encontrado 99 pinos de uma substância análoga a cocaína, que segundo o abordado identificado pelo nome de Emerson marques dos reis, alcunha "neném" relatou que pegou a sacola com Jorginho contendo os pinos de cocaína em troca de drogas, pois é usuário e iria entregar a um rapaz que estava aguardando em uma motocicleta na rodovia, mas segundo ele não sabia quem seria essa pessoa, pois assim que ele chegasse na rodovia esse motociclista iria até ele. relatou ainda que Jorginho realiza a venda de drogas e que cada pino de cocaína é vendido por 10 reais.(..)"
+Eis que, com o paciente foram apreendidos 99 pinos de cocaína, com peso total de 118,40 (cento e dezoito gramas e quarenta centigramas).
+Além de se tratar de quantidade expressiva droga de alto poder nocivo, nota-se pela CAC e FAQ do paciente que esse não é um fato isolado na vida da paciente, eis que contumaz na prática delitiva, ostentando de passagens e condenação.
+Portanto, as circunstâncias fáticas que permeiam o presente processado, sobretudo a expressiva quantidade de entorpecentes e a confissão, evidenciam a periculosidade e o risco social do paciente.
+Quanto ao periculum libertatis, evidencia-se a necessidade da segregação cautelar da paciente para resguardo da ordem pública, entendida esta como sinônimo de paz social.
+De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+No caso, segundo se infere, a custódia cautelar está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, pois o recorrente foi surpreendido na posse de 99 pinos de cocaína (118g), para fins de comércio.
+Esta Corte, inclusive, possui entendimento reiterado de que a quantidade e a diversidade dos entorpecentes encontrados com o agente, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva.
+A propósito:
+" ..  2. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+No caso dos autos, a prisão preventiva foi adequadamente mantida na sentença, a qual indeferiu o direito de recorrer em liberdade com base em elementos concretos, a gravidade concreta da conduta e a periculosidade do agente, evidenciadas pela natureza e elevada quantidade das drogas apreendidas (177 porções de "cocaína", com peso de 40,36g e 01 uma porção de "maconha", com peso de 23,59g), o que denota a necessidade da prisão para resguardar a ordem pública, não havendo falar em existência de evidente flagrante ilegalidade.
+ ..  Habeas corpus não conhecido."
+(HC 393.308/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/3/2018, DJe 6/4/2018).
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO Documento: 110596149 Página 2 de 3 Superior Tribunal de Justiça PREVENTIVA. FUNDAMENTOS. GRAVIDADE CONCRETA. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. A prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível, mediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. No caso, a prisão cautelar foi decretada para a garantia da ordem pública, com base na gravidade concreta do delito, evidenciada pela quantidade e natureza da droga apreendida (170 invólucros plásticos, contendo cocaína, pesando 68,1 g e 20 invólucros plásticos contendo maconha, pesando 40,5 g), aliada às circunstâncias em que se deu a prisão em flagrante.
+3. É consabido que eventuais condições subjetivas favorável ao paciente não são impeditivas à decretação da prisão cautelar, caso estejam presentes, como na hipótese, os requisitos autorizadores da referida segregação.
+4. Ordem denegada."
+(HC 425.704/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 27/2/2018, DJe 8/3/2018).
+Sob tal contexto, é inviável a aplicação de medidas cautelares diversas da prisão, quando a periculosidade do recorrente indica que a ordem pública não estaria acautelada com a sua soltura. Sobre o tema: RHC 91.896/BA, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15/03/2018, DJe 23/03/2018; HC 426.142/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 5/4/2018, DJe 16/4/2018; e HC 400.411/SE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 7/12/2017, DJe 15/12/2017.
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
+EMENTA
