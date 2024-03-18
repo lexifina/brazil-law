@@ -1,0 +1,52 @@
+DECISÃO
+LUCIANO DOS SANTOS RODRIGUES alega sofrer coação ilegal em decorrência de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, na Revisão Criminal n. 0005936-69.2021.8.19.0000.
+Extrai-se dos autos que o paciente foi condenado, em segunda instância, à pena de 14 anos de reclusão, em regime fechado, pela prática do delito descrito no art. 214 c/c os arts. 224, "a", e 226, II, e art. 71, todos do Código Penal. A apelação ministerial foi julgada em 30/7/2019. A condenação transitou em julgado e a defesa ajuizou revisão criminal, que foi julgada improcedente.
+Nas razões desta impetração, a defesa alega a ausência dos requisitos para a prisão preventiva, bem como ilegalidade na condenação do paciente, diante da contradição nos depoimentos das vítimas e testemunhas, além de não haver vestígios de violência ou lesão corporal (violação do art. 158 do Código de Processo Penal).
+Assim, requer:
+1. No mérito, requer-se a concessão da liminar, tendo em vista a ausência de fundamentação idônea para a prisão, e a posterior revogação do mandado de prisão em benefício do Paciente para que ele possa cumprir a pena em liberdade, por ser arrimo de família e trabalhar em casa de família como pedreiro onde o proprietário geralmente deixam suas filhas e esposa e nunca foi acusado de um crime desse porte não rendo nenhuma anotação contra ele
+2. Alternativamente, caso Vossa Excelência entenda por não acolher o pleito acima, que seja a prisão preventiva substituída, aplicando-se uma ou mais dentre as medidas cautelares previstas no artigo 319, do Código de Processo Penal, com preferência para a prisão domiciliar, com ou sem monitoramento eletrônico, como entender este juízo;
+3. - Caso na análise deste, já restou cumprido o mandado de prisão preventiva, que seja de ofício convertido por este juízo o contramandado de prisão em Alvará de soltura em benefício do Paciente, com a consequente expedição do mesmo, tanto em sede liminar como em definitivo, pelas razões fáticas e jurídicas já expostas, caso não substituída a prisão por domiciliar; (fls. 8-9).
+Decido.
+É importante salientar que a condenação do acusado, após o trânsito em julgado, já foi submetida à nova avaliação pela Corte estadual, ocasião em que não se identificou nenhuma das hipóteses que poderiam autorizar a revisão do que decidido pelas instâncias ordinárias: a) sentença condenatória contrária ao texto expresso da lei penal ou à evidência dos autos; b) sentença condenatória fundada em depoimentos, exames ou documentos comprovadamente falsos; c) descoberta, após a sentença, de novas provas de inocência do condenado ou de circunstância que determine ou autorize diminuição especial da pena (art. 621 do Código de Processo Penal).
+A Corte de origem, por ocasião do julgamento da revisão criminal, esclareceu o seguinte:
+Analisados os autos, verifico que o acervo probatório extraído do processo principal demonstra à saciedade o fato narrado na exordial, quanto ao crime perpetrado contra a vítima MAYARA.
+O artigo 621, do CPP, prevê os casos em que se pode admitir a Revisão, in verbis:
+ ..
+No presente caso, entendo que não merece procedência a revisão, pois a decisão condenatória não foi manifestamente contrária à evidência do texto expresso da lei penal.
+O crime em espécie, atentado violento ao pudor, então previsto no art. 214, na forma do art. 224, a, do CP, perpetrado contra a vítima  M.  menor de 14 anos prescinde de prova pericial eis que, em regra, não deixa vestígios. A palavra firme e consistente da ofendida, notadamente no presente caso, corroborada por outras provas, é apta a ensejar o decreto condenatório.
+Para fins de elucidação, colaciono abaixo o depoimento da vítima sobre os fatos.
+"que o Réu é seu padrasto, tendo a depoente sido violentada sexualmente dos oito aos onze anos de idade. Narrou que, quando possuía oito anos, o Réu adentrou em seu quarto e pediu para que ela tivesse reação sexual com ele. A depoente estava dormindo e, sem raciocinar, respondeu que sim. Nesse momento, a depoente falou que era virgem e mandou parar. Contudo, o acusado prosseguiu e forçou o ato sexual, buscando penetrar o pênis em sua vagina e em seu ânus. Narrou que, em outra situação, o acusado adentrou em seu quarto, passou um óleo em sua vagina e esfregou o pênis em sua genital. Nesse momento, a tia da depoente chegou, viu a cena e procurou ajuda. Ocorreram vários outros abusos sexuais anteriores. O Réu levava a depoente para escola e tais atos quase sempre ocorriam nesse contexto.
+Os delitos também aconteceram na laje e dentro da própria casa do Réu. O acusado passava a mão no corpo da depoente, em sua genitália, praticava sexo oral nela e uma única vez tentou a penetração, mas não conseguiu. Quando a depoente tinha onze anos, o Réu ofereceu dinheiro para ela tomar banho com ele.
+Nesse momento, a depoente chorou e gritou, motivo pelo qual um vizinho viu e correu atrás de Edmílson. A depoente não contou nada, porque o Réu ameaçava agredir sua genitora. Por fim, destacou que sua irmã Natália também foi abusada sexualmente por Edmílson. O acusado deixava bilhetes no quintal da casa onde a família morava e chamava Natália para se encontrar com ele. Durante os abusos, Edmílson masturbava-se e ejaculava. Todos os atos contra Natália também ocorriam na laje e dentro da residência. A depoente teve abalos psicológicos e medo de ir à DP e de fazer exames na época dos fatos." (Trecho extraído do Parecer Ministerial - peça 168)
+Além disso, temos as demais provas, notadamente as afirmações da tia da recorrente, sustentando ter visto o sentenciado deitado sem roupas por cima da ofendida. Essas aliadas àquelas constantes da fase de inquérito não deixam dúvidas de que a vítima sofreu os abusos descritos na exordial que foram perpetrados pelo requerente.
+Com efeito, a alegação de que não há prova a sustentar o acórdão impugnado não tem como prosperar.
+Anteriormente nos posicionamos no sentido de que não havia prova quanto à idade da ofendida, mas tal questão restou superada pela decisão do Superior Tribunal de Justiça.
+Temos que a defesa sustenta os mesmos argumentos já apreciados pela 2ª Câmara Criminal deste Tribunal e a Revisão Criminal tem âmbito restrito e não se presta ao reexame de provas sem lastro mínimo que lhe dê credibilidade.
+Desta forma, resta evidente a pretensão trazida na inicial da Revisão Criminal de rediscutir as provas coletadas ao longo da instrução criminal, fugindo totalmente ao âmbito da Revisão.
+Verifica-se que as provas dos autos já foram devidamente examinadas, concluindo-se pelo efetivo cometimento do crime imputado ao requerente.
+Destarte, não há razão para se falar em absolvição sob a alegação de que o Acórdão que deu provimento ao recurso ministerial foi contrário à prova dos autos.
+O requerente trouxe os mesmos argumentos rechaçados, dentro do mesmo contexto fático e jurídico, pretendendo o reexame do conjunto probatório já analisado e julgado perante a 2ª Câmara Criminal do TJRJ.
+Não merece guarida a pretensão do requerente, porque a revisão criminal não está destinada ao reexame do conjunto probatório, nem serve como nova oportunidade para nova análise das teses já sustentadas e apreciadas nas instâncias inferiores. Essa ação pode ser manejada para afastar uma decisão contrária às evidências dos autos, a falsidade das provas e quando surgirem novos elementos probatórios que autorizem a inocência do condenado ou a redução da reprimenda.
+Assim, não há suporte jurídico à pretensão, reportando-se a ora requerente a matérias já amplamente discutidas e analisadas na ação penal e no recurso de apelação (fls. 326-328, grifei).
+Da detida análise dos autos, após a análise das provas que instruíram o feito, produzidas sob o crivo do contraditório, as instâncias antecedentes concluíram pela configuração do delito pelo qual o paciente foi condenado, notadamente com base na prova oral e documental produzidas.
+Para se infirmar tal conclusão é necessário imiscuir-se no exame do acervo probatório, o que evidencia a impossibilidade de este Superior Tribunal apreciar o pedido formulado no writ.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória, como no caso.
+Ilustrativamente:
+ ..
+2. A via estreita do habeas corpus não se presta ao revolvimento da matéria fática, como ocorre quando a decisão é atacada sob alegações de má apreciação das provas e de desclassificação da conduta, devendo a coação ser manifestamente ilegal.
+ ..
+4. Habeas corpus não conhecido, mas ordem concedida de ofício para fixar o regime inicialmente semiaberto para o cumprimento da pena reclusiva.
+(HC n. 270.011/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 22/4/2016).
+Diante de tudo que foi apresentado, considero não haverem sido preenchidos os requisitos previstos no art. 621 do Código de Processo Penal para admissão de eventual revisão criminal formulada pelo recorrente; não há nenhuma violação imputável ao acórdão vergastado, sobretudo a ser sanada nesta via.
+Por fim, noto que o tema aludido à validade da prisão preventiva não foi previamente analisado pela Corte de origem no ato apontado como coator, evidenciando-se a ausência de "causa julgada" a justificar a inauguração da competência do Superior Tribunal de Justiça.
+Não pode esta Corte Superior, portanto, conhecer diretamente da matéria, sob pena de inadmissível supressão de instância.
+Ilustrativamente:
+ ..
+2. Inviável a apreciação, diretamente por esta Corte Superior de Justiça, dada sua incompetência para tanto e sob pena de incidir-se em indevida supressão de instância, das teses de nulidade da sentença por ausência de análise de tese defensiva apresentada nas alegações finais e o consequente excesso de prazo na custódia, tampouco de imposição de regime inicial mais gravoso que o permitido ou de possibilidade de substituição da pena privativa de liberdade por restritiva de direitos, tendo em vista que tais questões não foram analisadas pelo Tribunal impetrado no aresto combatido, em razão da inadequação da via eleita, pendente de julgamento, ainda, apelação já interposta.
+ ..
+8. Habeas corpus não conhecido.
+(HC n. 347.010/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 12/4/2016)
+Ainda que assim não fosse, cumpre lembrar que se trata de prisão-pena, oriunda de condenação transitada em julgado.
+À vista do exposto, denego a ordem, in limine.
+Publique-se e intimem-se.
+EMENTA
