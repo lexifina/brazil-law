@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/03/2024 a 18/03/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE VÍCIOS NO JULGADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+2. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+3. É inviável a apreciação de ofensa a eventual violação de dispositivos e princípios constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal, ainda que para fins de prequestionamento.
+Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de embargos declaratórios opostos por FLUMINENSE FOOTBALL CLUB contra o acórdão de fls. 405-413 assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. 1. Nos termos do art. 1.021, § 1º, do Código de Processo Civil/2015, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada. 2. A ausência de impugnação de fundamentos suficientes para manter o decidido obsta o conhecimento do recurso. Agravo interno não conhecido.
+Em suas razões, a parte embargante sustenta a existência de vícios, defendendo "omissão de pronunciamento sobre a repercussão geral do tema n. 995 com afetação do RE n. 1.075.412 à luz do inc. IX, do art. 5º e art. 220, ambos da Constituição Federal de 1988, sobre a possibilidade de condenar ao pagamento de indenização por danos morais, veículo da imprensa que publica matéria jornalística em que se imputa a prática de ato ilícito a determinada pessoa" (fl. 430).
+Pugna para que "seja exercido o juízo de retratação, de modo a atribuir efeito infringente ao presente embargo de declaração, para dar provimento ao agravo interno no agravo em recurso especial, a fim de admitir, processar e julgar o recurso especial, acolhendo a pretensão condenatória em desfavor dos Embargados" (fl. 430).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE VÍCIOS NO JULGADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+2. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+3. É inviável a apreciação de ofensa a eventual violação de dispositivos e princípios constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal, ainda que para fins de prequestionamento.
+Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Nos termos do art. 1.022 do CPC, os embargos de declaração são um recurso de fundamentação vinculada, destinando-se unicamente a "esclarecer obscuridade ou eliminar contradição"; "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento"; ou "corrigir erro material".
+Trata-se, assim, de recurso destinado a sanar eventuais falhas na estrutura argumentativa da decisão, na concatenação das ideias apresentadas, ou omissões quanto ao substrato fático ou jurídico relevantes ao julgamento do feito.
+Nesse contexto, registre-se que "a omissão apta a ser suprida pelos declaratórios é aquela advinda do próprio julgamento e prejudicial à compreensão da causa, não aquela deduzida com o fito de provocar o rejulgamento da demanda ou modificar o entendimento manifestado pelo julgador" (AgRg no AREsp n. 404.591/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/6/2015, DJe de 4/8/2015).
+No mais, destaca-se que "a obscuridade apta a abrir à parte a via dos embargos de declaração é a interna, ínsita ao decisum embargado, e não aquela resultante do cotejo de provimentos jurisdicionais diversos" (EDcl no AgRg no REsp n. 1.420.870/DF, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 19/4/2016, DJe de 26/4/2016 ).
+Por fim, ressalta-se que "a contradição remediável por embargos de declaração é a interna ao julgado embargado, devido à desarmonia entre a fundamentação e as conclusões da própria decisão, e não aquela externa entre o julgado impugnado e o entendimento das partes, ou entre este e outras decisões judiciais" (AgInt no AREsp n. 2.161.641/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023).
+Na espécie, o v. acórdão recorrido negou provimento ao agravo interno em razão dos seguintes fundamentos (fls. 602-604):
+Conforme demonstrado na decisão agravada, inexiste a alegada violação dos arts. 489 e 1.022 do CPC, visto que o Tribunal de origem efetivamente enfrentou a questão levada ao seu conhecimento. É o que se depreende do seguinte trecho destacado (fl. 213):
+Como bem fundamentou o ilustre juiz de Direito sentenciante, "(..) o certo é que em nenhum momento o jornalista ofendeu o requerente, imputando-lhe a prática de fatos falsos, com a intenção exclusiva de prejudicá-lo, haja vista que seu comentário é tão somente um posicionamento crítico acerca de um fato notório no meio futebolístico, cuja divulgação, acrescida de seu comentário e opinião pessoal sobre o tema, em nada podem agravar a honra do requerente".
+Como se vê, o Tribunal de origem, de modo fundamentado, tratou da questão suscitada, resolvendo, portanto, de forma integral, a controvérsia posta.
+Ademais, nos termos da jurisprudência do STJ, "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022).
+ ..
+Por fim, confira-se novamente o seguinte excerto do acórdão recorrido:
+Essa é justamente a hipótese sub judice. Ainda que contundentes, os comentários foram veiculados nesse contexto jornalístico, em que tais expressões - "picaretagem", "tapetão" não implicam qualquer intenção dolosa ou propósito deliberado de atingir a honra de ninguém.
+Como bem fundamentou o ilustre juiz de Direito sentenciante, "(..) o certo é que em nenhum momento o jornalista ofendeu o requerente, imputando-lhe a prática de fatos falsos, com a intenção exclusivade prejudicá-lo, haja vista que seu comentário é tão somente um posicionamento crítico acerca de um fato notório no meio futebolístico, cuja divulgação, acrescida de seu comentário e opinião pessoal sobre o tema, em nada podem agravar a honra do requerente".
+Em suma, ausente ato ilícito, não há se cogitar da pretendida indenização e tampouco da necessidade de retratação. A r. sentença de improcedência da ação deve ser mantida por seus próprios e jurídicos fundamentos.
+Uma vez constatado, no caso concreto, que a honra do agravante não foi atingida, o conhecimento do recurso especial encontra óbice na Súmula n. 7/STJ, pois necessária a revisão do conteúdo fático-probatório dos autos.
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. 1. AUSÊNCIA DE COMPROVAÇÃO DE ATO ILÍCITO. ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. 2. AGRAVO INTERNO IMPROVIDO.
+1. O Tribunal estadual, ao dirimir a controvérsia, concluiu pela ausência de comprovação de qualquer dano à imagem ou honra do agravante. Reverter a conclusão do Tribunal local para acolher a pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado devido à natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.2. Agravo interno improvido.(AgInt no AREsp 2.052.884/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 8/6/2022.)
+Ante o exposto, nego provimento ao agravo interno."
+Como se observa, não há que se falar em vícios na decisão embargada.
+Dessa forma, não podem ser acolhidos os embargos de declaração, uma vez que, em verdade, a parte embargante, inconformada, busca, ver reexaminada e decidida controvérsia de acordo com sua tese. Contudo, entendimento contrário ao interesse da parte não se confunde com vício no julgado.
+No mais, em relação à única omissão concretamente alegada pela parte embargante, ou seja, de que não fora enfrentada a questão da repercussão geral reconhecida pelo STF no RE 1.075.412, Tema 995, registre-se que "esta Corte Superior entende que constitui indevida inovação recursal a apresentação de tese nos embargos de declaração que não foi alegada anteriormente nas razões do apelo excepcional". (AgInt nos EDcl no REsp n. 1.552.073/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023.)
+Por fim, a jurisprudência desta Corte superior é firme no sentido de que "é inviável a apreciação de ofensa a eventual violação de dispositivos e princípios constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal" (AgInt no AREsp n. 2.312.233/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 21/8/2023, DJe de 24/8/2023 ).
+Ante o exposto, rejeito os embargos de declaração.
+É como penso. É como voto.
