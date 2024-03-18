@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por EQUATORIAL GOIÁS DISTRIBUIDORA DE ENERGIA S.A. (outro nome: CELG DISTRIBUIÇÃO S.A. - CELG D) contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado:
+"AGRAVO INTERNO NA APELAÇÃO CÍVEL. AÇÃO REIVINDICATÓRIA. APELAÇÃO CÍVEL. AÇÃO DE REPETIÇÃO DE INDÉBITO C/C INDENIZATÓRIA DE DANO MATERIAL E MORAL C/C LUCROS CESSANTES. 1. DO ÔNUS DA PROVA. AUSÊNCIA DE DOCUMENTOS PARA ALICERÇAR OS ARGUMENTOS DA PARTE RÉ/APELANTE. Inicialmente, vale destacar que a legislação processual vigente estabelece que é ônus do autor comprovar os fatos que alicerçam sua pretensão, enquanto recai sobre o réu o dever de demonstrar fatos impeditivos, modificativos ou extintivos do direito alegado pela parte adversa, nos termos do art. 373 do CPC. In casu, a parte autora colacionou o "Relatório Técnico Descritivo Interrupção do Fornecimento de Energia Elétrica Interrupção da Medição da Energia Elétrica (Inadequação na Instalação do Medidor)", documento contem expressamente (fls. 3) a verificação de que a empresa requerida realizou ligações de forma direta, sem passar pelo medidor de energia no dia 23/09/19, que perdurou até 23/10/19. Tal documento técnico demonstra que houve cobrança indevida referente à fatura de outubro de 2019 por parte da empresa. Por sua vez, a ré, ora recorrente, deixou de colacionar documentos que comprovassem a legalidade da cobrança. Portanto, a autora se desincumbiu do ônus probatório, enquanto a parte ré deixou de trazer elementos probatórios acerca da extinção, impedimento ou modificação do direito vindicado e comprovado pela requerente. 2. AUSÊNCIA DE ARGUMENTOS NOVOS. É medida imperativa o desprovimento do Agravo Interno quando não se fazem presentes, em suas razões, qualquer novo argumento que justifique a modificação da decisão agravada. AGRAVO INTERNO CONHECIDO MAS DESPROVIDO" (fl. 486 e-STJ).
+No recurso especial, alega-se violação dos arts. 373 do Código de Processo Civil, 186, 188 e 927 do Código Civil, ao fundamento de que o recorrido não faz jus às indenizações pleiteadas, pois há excludente de ilicitude na hipótese, bem como não ficou comprovado o nexo causal entre a conduta e o fato gerador do dano.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No que concerne à obrigação de indenizar, o Tribunal de origem, à luz da prova dos autos, concluiu pela responsabilidade da recorrente pelo evento danoso, conforme se extrai da leitura do voto condutor, merecendo destaque o seguinte trecho:
+"(..)
+Depreende-se que a matéria controvertida neste agravo interno cinge-se à irresignação do agravante com a decisão vergastada, com reprodução dos argumentos lançados anteriormente.
+Assim, tendo em vista que a matéria já foi devidamente abrangida pela Decisão Monocrática, mister a manutenção da fundamentação exaustivamente delineada que exaure a análise dos argumentos do recorrente, in verbis:
+"Conforme relatado, a matéria recursal cinge-se à revisão da sentença que julgou parcialmente procedente a pretensão dos autores em condenar a ré ao pagamento de R$3.113,92 (três mil cento e treze reais e noventa e dois centavos) a título de repetição de indébito, acrescido de correção monetária incidente a partir da cobrança indevida e juros de 1%(um por cento) ao mês a partir da citação.
+(..)
+In casu, a parte autora colacionou o "Relatório Técnico Descritivo Interrupção do Fornecimento de Energia Elétrica Interrupção da Medição da Energia Elétrica (Inadequação na Instalação do Medidor)", documento contem expressamente (fls. 3) a verificação de que a empresa requerida realizou ligações de forma direta, sem passar pelo medidor de energia no dia 23/09/19, que perdurou até 23/10/19.
+Tal documento técnico demonstra que houve cobrança indevida referente à fatura de outubro de 2019 por parte da empresa.
+Por sua vez, a ré, ora recorrente, deixou de colacionar documentos que comprovassem a legalidade da cobrança.
+Portanto, a autora se desincumbiu do ônus probatório, enquanto a parte ré deixou de trazer elementos probatórios acerca da extinção, impedimento ou modificação do direito vindicado e comprovado pela requerente.
+(..)
+Ao teor do exposto, CONHEÇO do recurso de Apelação Cível mas NEGO-LHEPROVIMENTO, mantendo-se incólume a sentença objurgada, por estes e seus próprios fundamentos jurídicos".
+Portanto, os fundamentos embasadores do inconformismo da parte agravante não têm força satisfativa para agasalhar sua pretensão, pois em nada inovaram o feito, até porque a jurisprudência deste Tribunal de Justiça é assente no sentido de afirmar que, para eventual reconsideração da decisão atacada, faz-se mister a superveniência de fatos novos" (fls. 490/492 e-STJ).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 17% (dezessete por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
