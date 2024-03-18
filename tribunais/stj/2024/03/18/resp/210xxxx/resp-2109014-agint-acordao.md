@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 12/03/2024 a 18/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. INCIDENTE DE DESCONSIDERAÇÃO DE PERSONALIDADE JURÍDICA. INCONFORMISMO QUANTO À INCIDÊNCIA DA SÚMULA 7/STJ. NÃO AFASTAMENTO. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. Incidente de desconsideração de personalidade jurídica.
+2. A insurgência da parte agravante quanto à incidência da Súmula 7/STJ, sem a devida demonstração de não aplicação ao caso, obsta o provimento do agravo interno por ela manejado.
+3. Agravo interno não provido.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora): Cuida-se de agravo interno interposto por LBR - LÁCTEOS BRASIL S/A - EM RECUPERAÇÃO JUDICIAL.
+Ação: incidente de desconsideração de personalidade jurídica, requerido por DARLEI ROBERTO FRANTZ, DÉCIO JOSÉ WEIGEL, DERLI REGERT, DIEGO HENRIQUE HAUTH, EDER GUSTAVO KRUEGER, EDO SCHOENINGER, EGON BECKER, EGON PEDRO DORFEY e EDEMAR MARIO RADTKE, em face de LBR - LÁCTEOS BRASIL S/A - EM RECUPERAÇÃO JUDICIAL.
+Decisão interlocutória: acolheu parcialmente o incidente de desconsideração da personalidade jurídica requerido pelos recorridos, a fim de que a execução seja também direcionada à sociedade empresária LBR LÁCTEOS BRASIL S/A, reconhecendo a responsabilidade solidária dela quanto ao pagamento da dívida executada.
+Acórdão: negou provimento ao Agravo de Instrumento interposto pela recorrente, nos termos da seguinte ementa:
+"Agravo de Instrumento - Incidente de desconsideração da personalidade jurídica - Decisão que deferiu a inclusão de outras empresas do mesmo grupo econômico - Aplicação do artigo 50 do Código Civil, recentemente alterado pela Medida Provisória nº 881/2019 - Grupo econômico evidenciado - Empresas que confirmaram fazer parte do mesmo grupo econômico em sede de pedido de recuperação judicial - Abuso da personalidade jurídica (encerramento das atividades empresariais e inexistência de crédito em contas e de bens) e confusão patrimonial (pagamentos realizados por empresa do grupo e transferências recebidas em contraprestação) demonstrados - Encerramento das atividades da empresa sem a quitação dos débitos que inviabiliza a busca, pelo credor, de bens passíveis de constrição judicial para garantir o pagamento da dívida - Desconsideração cabível - Recurso desprovido." (e-STJ fl. 588)
+Recurso especial: alega violação do art. 50, CC, sustentando que: i) a existência de grupo econômico não é causa de responsabilidade subsidiária, muito menos solidária, entre as empresas; e, ii) em nenhum momento os recorridos comprovam a alegada confusão patrimonial e muito menos o suposto desvio de finalidade, isto é, sobre a suposta abusividade da personalidade jurídica; e, iii) a solidariedade apenas pode decorrer da expressa determinação legal ou de anuência entre as partes, de modo que inexiste qualquer estipulação legal nesse sentido, uma vez que o singelo argumento de formação de grupo econômico não enseja ou justifica a desconsideração da personalidade jurídica.
+Decisão monocrática: não conheceu do recurso especial, com fundamento no art. 932, III, do CPC/15.
+Razões do agravo interno: sustenta a inaplicabilidade do óbice sumular apontado na decisão agravada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. INCIDENTE DE DESCONSIDERAÇÃO DE PERSONALIDADE JURÍDICA. INCONFORMISMO QUANTO À INCIDÊNCIA DA SÚMULA 7/STJ. NÃO AFASTAMENTO. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. Incidente de desconsideração de personalidade jurídica.
+2. A insurgência da parte agravante quanto à incidência da Súmula 7/STJ, sem a devida demonstração de não aplicação ao caso, obsta o provimento do agravo interno por ela manejado.
+3. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora): Trata-se de agravo interno interposto por LBR - LÁCTEOS BRASIL S/A - EM RECUPERAÇÃO JUDICIAL, contra decisão monocrática que não conheceu do recurso especial, com fundamento no art. 932, III, do CPC/15.
+Pela análise das razões recursais apresentadas, verifica-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+A parte agravante se insurge contra a incidência da Súmula 7 desta Corte ao caso. Para tanto, aduz que, ao contrário do que restou decidido, não há e nunca houve qualquer tentativa de reexame de provas, mas tão somente que houvesse a revisão da valorização legal das provas que compõem os autos, pois a mera existência de grupo econômico não é causa de responsabilidade subsidiária, muito menos solidária, entre as empresas, sendo vedada a desconsideração da personalidade jurídica amparada tão somente neste sentido, conforme redação do § 4º, do art. 50 do Código Civil.
+Em tese defensiva, ainda, sustenta que a desconsideração da personalidade jurídica é possível somente em casos em que restar configurada confusão patrimonial ou desvio de finalidade. Ausente demonstração de confusão patrimonial ou de desvio de finalidade, como no caso dos autos, não há que se falar em desconsideração da personalidade jurídica, motivo pelo qual o deferimento do pedido de desconsideração se deu em detrimento ao que consta no art. 50 do Código Civil.
+Malgrado o inconformismo da parte agravante, a Corte local consignou que a análise dos autos aponta para efetiva confusão patrimonial das empresas SANTA RITA e LBR LÁCTEOS BRASIL S/A e esta circunstância se evidencia pelo entrelaçamento das empresas, integrantes do mesmo grupo econômico, como por elas mesmas admitido nos autos da recuperação judicial nº 0015595-79.2013.8.26.0100.
+Também, entendeu a Corte local que as demais empresas integrantes do grupo atuam sob o comando gerencial único e centralizado da LBR LÁCTEOS BRASIL S/A.
+Além disso, registrou a Corte local que a confusão patrimonial também está evidente na espécie, em que a empresa LBR LÁCTEOS BRASIL S/A paga as contas da Líder Alimentos, conforme comprovantes de pagamentos de guias processuais em diversos processos dos quais sequer é parte (fls. 8/9).
+Ainda, sustentou a Corte local que o pedido de desconsideração da personalidade jurídica já restou acolhido em outra execução contra o grupo empresarial.
+Por fim, observou a Corte local que a executada Santa Rita Comércio, Indústria e Representações Ltda. tem na sua constituição os sócios Laticínio Bom Gosto S/A, Líder Alimentos do Brasil S/A e Saga Agroindustrial Ltda., cujos sócios são idênticos, em todas elas figurando os mesmos sócios (Jean Marc Benaron e Renato de Andrade), e com idêntico ramo de atividades.
+Assim, cumpre ressaltar que, na hipótese em que pretende impugnar a aplicação da Súmula 7/STJ, deve a parte agravante não apenas mencionar que o referido enunciado deve ser afastado, mas, além disso, também deve demonstrar que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, avaliados pelas instâncias ordinárias, o que não restou configurado.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO do presente agravo interno.
