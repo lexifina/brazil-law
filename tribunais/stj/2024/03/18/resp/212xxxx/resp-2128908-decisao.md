@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOSÉ ELIAS DA SILVA, com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 54):
+PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. VALOR DA CAUSA. DANOS MORAIS. CONTROLE.
+1. Nos termos do julgamento do IAC n.º 5050013-65.2020.4.04.0000, ficou assentada a possibilidade de, em caráter excepcional e em atenção ao princípio da razoabilidade, haver o redimensionamento, de ofício, do valor do pedido de dano moral, como forma de se coibir eventual exorbitância no seu arbitramento.
+2. Em virtude da necessidade de se adotar uma parametrização para fins específicos de definição do valor da causa em ações desta natureza, tendo em vista a competência absoluta e inderrogável do Juizado Especial Federal, deve ser observado o limite de R$ 20.000,00 na atribuição do valor do dano moral, consoante jurisprudência consolidada desta Corte em matéria previdenciária.
+3. No caso concreto, o valor pedido pela parte autora a título de danos morais não se enquadra perfeitamente nos atuais parâmetros fixados por esta Corte, sendo necessário seu decote para R$ 20.000,00 e, diante do valor da causa resultante, a declinação da competência para o JEF.
+Opostos embargos de declaração, foram rejeitados (fls. 82/86).
+Nas razões do apelo especial, aponta o recorrente, além de divergência jurisprudencial, violação dos arts. 66, do CPC; 1º, da Lei 10.259/01 e 2º, da Lei 9.099/95.
+Sustenta, em síntese, que a necessidade de produção de prova pericial, de caráter complexo e indispensável, afasta a competência do juizado especial federal, independentemente do valor atribuído à causa.
+Sem contrarrazões.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+De início, observa-se que o Tribunal de origem não examinou a controvérsia sob a tese agitada no especial, no sentido de que suposta necessidade de produção de prova pericial, de caráter complexo e indispensável, afastaria a competência do juizado especial federal, independentemente do valor atribuído à causa, apesar da oposição de embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo."). Nessa linha de entendimento: AgInt no AgInt no AREsp 1.621.025/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 1º/9/2020.
+Ressalta-se que esta Corte firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 10/4/2017). No mesmo sentido, confiram-se: AgInt no REsp 1.562.190/RS, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 18/12/2020; AgInt no AREsp 1.685.851/GO, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 11/2/2021; e AgInt no AREsp 1.677.739/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 2/12/2020.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+EMENTA
