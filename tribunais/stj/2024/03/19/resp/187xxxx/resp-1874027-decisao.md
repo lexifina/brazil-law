@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por ENY CATARINA DA SILVA, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), no qual se insurge contra o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fls. 380/381):
+ADMINISTRATIVO. PENSÃO POR MORTE. EX-FERROVIÁRIO. FILHA SOLTEIRA. PRINCÍPIO DO TEMPUS REGIT ACTUM. DECRETO 20.465/31. REQUISITOS. NÃO-PERCEPÇÃO DE OUTRA PENSÃO COM BASE NA MESMA LEI. NÃO-PREENCHIDO.
+1. Na esteira do princípio tempus regit actum, a autora deve implementar os requisitos previstos na Lei vigente à época do óbito do instituidor - Decreto nº 20.465/31 - quais sejam: (a) a condição de  lha solteira; (b) a dependência econômica exclusiva do instituidor até o seu falecimento; e (c) a não cumulação de pensões ou aposentadorias a que se refere a lei.
+2. A autora já percebe benefício de pensão por morte, em face do mesmo instituidor, com base na mesma relação jurídica, sendo inviável a percepção de duplo pensionamento.
+Em suas razões recursais, a parte recorrente sustenta a violação dos arts. 31, § 1º, I, 32, parágrafo único, 33, parágrafo único, e 37 do Decreto 20.465/1931; 1º, 3º, II, 5º, II, a, parágrafo único, e 7º, I, da Lei 3.378/1958; 1º da Lei 2.752/1956 e 215 e 219 da Lei 8.112/1990. Argumenta, para tanto:
+(a) "o fato de a Recorrente receber pensão do INSS também em virtude do falecimento do seu pai, não pode afastar o direito à pensão estatutária" (fl.406). Nesse sentido, "na data do óbito do seu pai, a Recorrente era menor de idade, presumindo-se que via sob a dependência exclusiva do mesmo" (fl. 406), bem como "ainda que a Recorrente não pudesse cumular a pensão do INSS com a estatutária, objeto da presente demanda, teria o direito de optar pela mais benéfica, deduzindo-se, obviamente, os valores percebidos da mesma origem. Todavia, nem mesmo isso seria necessário, uma vez que em se tratando de pensão de ex-ferroviário, possível a cumulação ou a chamada dupla aposentadoria" (fl. 407);
+(b) "O benefício em favor da Peticionária deverá ter como marco inicial o dia do óbito do pai 06.07.1943, respeitada a prescrição quinquenal a partir da apresentação do requerimento administrativo. Dessa forma, embora a Recorrente só tenha requerido a pensão em 06.08.2010, a pensão paga pela União Federal é devida desde 06.08.2005" (fl. 416).
+A parte adversa apresentou contrarrazões (fls. 424/441).
+O recurso foi admitido na origem (fls. 446/447).
+É o relatório.
+De início, verifico que os arts. 7º, I, da Lei 3.378/1958, 1º da Lei 2.752/1956 e 215 e 219 da Lei 8.112/1990 não foram apreciados pelo Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida.
+A ausência de enfrentamento no acórdão recorrido da matéria impugnada, objeto do recurso, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incide no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Quanto ao mais, registro que o Superior Tribunal de Justiça (STJ) possui o entendimento de que eventual direito à pensão por morte deve ser examinado à luz da legislação vigente ao tempo do óbito de seu instituidor, consoante o princípio tempus regit actum. Cito os seguintes julgados deste Tribunal:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENSÃO POR MORTE. TEMPUS REGIT ACTUM. REVERSÃO DE COTA. PREVISÃO LEGAL. IMPOSSIBILIDADE.
+AGRAVO REGIMENTAL DESPROVIDO.
+1. Consoante precedentes do STJ, a lei aplicável à concessão de pensão previdenciária por morte é a vigente na data do óbito do segurado (tempus regit actum).
+2. No caso dos autos, o instituidor da pensão faleceu em 1979, quando já vigente a Lei 5.890/73, que excluíra a possibilidade de extensão das vantagens estabelecidas aos Servidores Civis da União, expressas da Lei 3.373/58, aos Servidores de Autarquias Federais.
+3. Agravo Regimental que se nega provimento. (AgRg no REsp n. 1.321.225/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 16/8/2016.)
+ADMINISTRATIVO. AGRAVO INTERNO DO RECURSO EM MANDADO DE SEGURANÇA. PENSÃO DE EX-GOVERNADOR. LEI ESTADUAL N. 2.460/2011 QUE REVOGOU O BENEFÍCIO. CONTINUIDADE DE PAGAMENTO AO EX-GOVERNADOR QUANDO VIVO. PENSIONAMENTO VITALÍCIO À VIÚVA. AUSÊNCIA DE AMPARO LEGAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Segundo o princípio do tempus regit actum, a lei aplicável à concessão de pensão por morte é a vigente na data do óbito do instituidor, momento no qual devem estar comprovados todos os requisitos legais. Precedentes.
+2. Tendo a morte do ex-governador ocorrido após a revogação da pensão por morte prevista na Lei Estadual n. 2.460/2011, a viúva não faz jus ao benefício.
+3. Agravo interno não provido. (AgInt no RMS n. 51.618/RO, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 6/6/2017, DJe de 12/6/2017.)
+Nos termos do acórdão recorrido, o Tribunal de origem assim se manifestou sobre a controvérsia (fl. 386):
+Com efeito, na esteira do princípio tempus regit actum, a autora deve implementar os requisitos previstos na Lei vigente à época do óbito do instituidor - Decreto nº 20.465/31 - quais sejam: (a) a condição de filha solteira; (b) a dependência econômica exclusiva do instituidor até o seu falecimento; e (c) a não cumulação de pensões ou aposentadorias a que se refere a lei.
+Da documentação juntada aos autos, tem-se que a mãe da autora percebeu pensão previdenciária, na qualidade de viúva do servidor (PROCADM6, p. 12-13, ev. 1 do processo originário), e a autora já percebe benefício de pensão por morte, em face do mesmo instituidor, desde 10/02/1980 (PROCADM8, p. 8/9, ev. 1 do processo originário).
+Assim, considerando que a autora já percebe pensão com base na mesma relação jurídic a, inviável a percepção de duplo pensionamento.
+Verifico, portanto, nos termos da jurisprudência do STJ, que os requisitos necessários à concessão de pensão por morte previstos na legislação vigente à época do instituidor não foram preenchidos, porquanto a parte recorrente "já percebe benefício de pensão por morte, em face do mesmo instituidor, desde 10/02/1980" (fl. 386), o que afasta a pretensão recursal.
+Ante o exposto, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimações necessárias.
+EMENTA
