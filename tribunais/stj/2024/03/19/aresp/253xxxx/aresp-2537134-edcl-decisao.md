@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ODILA MARQUES DE CAMPOS contra decisão desta relatoria (e-STJ, fls. 1.024-1.028), que conheceu do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Nas razões dos aclaratórios (e-STJ, fls. 1.031-1.034), aponta a ocorrência de erro material quanto ao nome da agravante, ora embargante, e suscita-se a existência de obscuridade, uma vez que o TJMT violou os arts. 9º e 10 do CPC/2015, ao lhe negar a oportunidade de comprovar a sua atual situação financeira e, consequentemente, negou-lhe o benefício da justiça gratuita.
+Foi apresentada impugnação (e-STJ, fls. 1.039-1.043).
+É o relatório.
+Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+No caso, a razão assiste à Embargante no que se refere ao erro material, tendo em vista que constou o nome da agravante como Odilon Marques de Campos, quando o correto é ODILA MARQUES DE CAMPOS.
+Por outro lado, os embargos de declaração tem como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Na hipótese, não se verifica qualquer omissão ou contradição no julgado.
+Como se observa dos fundamentos do acórdão recorrido, o benefício da justiça gratuita foi negado nos seguintes termos (e-STJ, fl. 806):
+Com efeito, em exame cuidadoso do feito, verifica-se que antes mesmo da promoção do Cumprimento de Sentença dos Honorários Advocatícios, houve a venda de um imóvel do qual a agravante, a princípio, é meeira, pelo valor de R$ 30.000.000,00, circunstância que alterou a sua condição de hipossuficiente anteriormente reconhecida.
+Vale dizer, quando da promoção do Cumprimento de Sentença, a agravante de há muito estava ciente desta situação, e sobre ela nada manifestou quando da Impugnação, nem mesmo apresentou argumentos quanto a eventual e atual condição de hipossuficiência, oque afasta, por certo, a alegação de decisão surpresa, nos termos dispostos nos artigos 9º e 10do CPC.
+em sentido contrário.
+Tão pouco favorece a agravante a alegação de que com o valor recebido teria quitado débitos que recaiam sobre o imóvel, bem assim outros credores. Ora, não há prova de que tenha sido a única responsável, dentro de sua cota parte, pela quitação de débitos existentes em nome do Espólio de José Francisco de Campos ou ainda outros gravados no imóvel.
+Nesse contexto, o comprovante de pagamento de hipoteca ou mesma a relação de credores colacionada, não tem a força de indicar a suposta incapacidade financeira ou, em particular, a manutenção da condição de hipossuficiente da agravante.
+Verdade é que não há realmente comprovação de que o valor recebido coma venda do imóvel, ainda que rateado com os herdeiros, não possa fazer cobro as despesas da agravante, cujos comprovantes, muitos deles, se apresentam aleatórios.
+Na hipótese, verifica-se que o Tribunal de origem concluiu pela inexistência da alegada hipossuficiência. A alteração de tal entendimento demandaria o reexame do contexto fático-probatório dos autos. Incidência da Súmula n. 7/STJ.
+Nesse contexto, constata-se que o egrégio Tribunal de origem, após o exame acurado do acervo fático-probatório dos autos, concluiu pela inexistência da alegada hipossuficiência, por constatar que "houve a venda de um imóvel do qual a agravante, a princípio, é meeira, pelo valor de R$ 30.000.000,00, circunstância que alterou a sua condição de hipossuficiente anteriormente reconhecida" (e-STJ, fl. 806).
+Ante o exposto, acolho os embargos de declaração tão somente para corrigir erro material com relação ao nome da parte, nos moldes consignados.
+Publique-se.
+EMENTA
