@@ -1,0 +1,52 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por BANCO DO BRASIL SA, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 07/02/2023.
+Concluso ao gabinete em: 21/07/2023.
+Ação: de execução de títulos extrajudicial movida pelo BANCO DO BRASIL S.A. em face dos agravados, consubstanciada em cédula de crédito comercial.
+Sentença: acolheu a exceção de pré-executividade apresentada pelos executados (excipientes), extinguindo o feito com fundamento no art. 485, IV, do CPC.
+Embargos de declaração: opostos pelos agravante foram rejeitados (e-STJ, fls. 385-386).
+Acórdão: negou provimento ao recurso de apelação da agravante, nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - SENTENÇA QUE ACOLHEU A EXCEÇÃO DE PRÉ-EXECUTIVIDADE E JULGOU EXTINTO O FEITO - IRRESIGNAÇÃO DA PARTE EXEQUENTE - PRELIMINAR DE INOVAÇÃO RECURSAL SUSCITADA EM CONTRARRAZÕES - ACOLHIMENTO - ALEGAÇÃO RECURSAL DE AUSÊNCIA DE COISA JULGADA EM RELAÇÃO À SENTENÇA QUE JULGARA A AÇÃO REVISIONAL, QUE ESTARIA SUPOSTAMENTE LASTREADA EM CONTRATO DIVERSO DO TÍTULO EXEQUENDO - MATÉRIA QUE NÃO FOI INVOCADA NA OPORTUNIDADE QUE A EXEQUENTE TEVE DE FALAR NOS AUTOS E, PORTANTO, NÃO SUBMETIDA À APRECIAÇÃO DO JUÍZO SINGULAR ANTES DA SENTENÇA - INOVAÇÃO RECURSAL CONFIGURADA - RECURSO NÃO CONHECIDO, NESTE TÓPICO - PEDIDO SUBSIDIÁRIO - REDUÇÃO DO VALOR FIXADO AOS HONORÁRIOS - INAPLICABILIDADE DO ARBITRAMENTO POR EQUIDADE, EIS QUE O CASO DOS AUTOS NÃO SE INSERE NAS HIPÓTESES DO ART. 85, §8º, DO CPC/2015 - INEXISTÊNCIA DE ÓBICE À FIXAÇÃO COM BASE NO VALOR ATUALIZADO DA CAUSA, QUE NA ESPÉCIE CORRESPONDE AO PROVEITO ECONÔMICO EFETIVAMENTE AUFERIDO - RECURSO PARCIALMENTE CONHECIDO E DESPROVIDO." (e-STJ, fls. 541).
+Embargos de Declaração: opostos pelo agravante foram rejeitados (e-STJ, fls. 385-386).
+Recurso especial: alega violação dos seguintes dispositivos legais, com as respectivas insurgências:
+i) art. 1.022 do Código de Processo Civil - por negativa de prestação jurisdicional. Aduz que, os embargos opostos na origem tiveram o objetivo de prequestionamento;
+ii) art. 1.013, § 1º, do CPC - defendendo a ausência de inovação recursal, sob o argumento de que os embargos de declaração opostos pelo recorrido em face da sentença, apreciou a matéria atinente à diversidade dos contratos;
+iii) art. 502 e 505 do CPC - por ofensa à coisa julgada;
+iv) art. 85, § 8º, do CPC - devido a necessidade de fixação de honorários por equidade. Segundo afirma, a demanda é de baixa complexidade, tendo tramitado em curto espaço de tempo. Assim, não se mostra coerente a condenação do agravante ao pagamento de honorários advocatícios fixados em 10% (dez por cento) sobre o valor da causa, o qual se mostra excessivo e oneroso, dando ensejo ao enriquecimento ilícito.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da controvérsia, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 502 e 505 do CPC, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de provas
+Demais disso, o acórdão reconheceu a existência de inovação recursal, consoante extrai-se da seguinte fundamentação:
+" ..  a matéria foi trazida aos autos apenas em sede recursal, primeiramente com os embargos de declaração e, na sequência, nesta apelação, o que impede o seu conhecimento por manifesta e inviável tentativa de inovação recursal.
+Registre-se, ademais, que sequer há que se falar em possibilidade de conhecimento do tema neste grau recursal pois não se trata de matérias de ordem pública, como pretende fazer crer a parte Apelante em sua manifestação neste grau recursal de mov. 21.1.
+De qualquer forma, ainda que se observasse aqui o princípio da prevalência da decisão de mérito, melhor sorte não assistiria à Apelante, já que é evidente a inserção da Cédula de Crédito Comercial exequenda no objeto na lide revisional.
+ ..
+Ora, não é preciso muito esforço para se inferir o alcance daquela r. sentença, notadamente de que se reconhecera a ilegalidade do vencimento antecipado dos contratos indicados na inicial, entre eles a Cédula de Crédito Comercial nº 400091, inclusive com determinação expressa do afastamento de todo encargo moratório, porque somente não foram pagas as prestações em razão da indevida ausência de renovação ou prorrogação do contrato de desconto de títulos, cujo cumprimento propiciava o adimplemento das parcelas dos demais contratos.
+Seja como for, constituindo-se indevida inovação recursal, não se conhece do recurso, neste tópico, sob pena de supressão de instância".
+Portanto, alterar o decidido no acórdão impugnado, no que se refere a alegada ausência de inovação recursal, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da Súmula 568 do STJ.
+A Corte de origem, ao julgar o recurso de apelação interposto pelo recorrente, concluiu o seguinte sobre os honorários advocatícios:
+"No caso, o ilustre Magistrado singular arbitrou os honorários de sucumbência ao procurador da parte Apelada em 10% do valor atualizado da causa, nos termos do art. 85, §§ 1º e 2º do CPC, atendendo fielmente o que determina a lei processual, já que ausente qualquer das hipóteses previstas no §8º do citado art. 85 do CPC.
+Ressalta-se que os princípios da proporcionalidade e da razoabilidade foram fielmente observados, no caso concreto, com a fixação dos honorários no percentual mínimo estabelecido pela lei processual (10%).
+Oportuno destacar que a Segunda Seção do Superior Tribunal de Justiça já teve oportunidade de se debruçar especificamente sobre esse tema, ratificando esse entendimento de que a fixação dos honorários advocatícios por equidade deve ocorrer de forma subsidiária, apenas quando não for possível o arbitramento pela regra geral ou quando inestimável ou irrisório o valor da causa" (e-STJ, fls. 549).
+Registra-se que, na espécie, o recorrente atribuiu o valor de R$ 197.228,99 (cento e noventa e sete mil, duzentos e vinte e oito reais e noventa e nove centavos).
+Portanto, a decisão proferida pelo Tribunal de local, ao fixar o percentual de honorários sucumbenciais em 10% sobre o valor da causa está de acordo com a jurisprudência do STJ que, no julgamento do REsp 1.746.072/PR, uniformizou o entendimento desta Corte acerca da fixação dos honorários advocatícios sucumbenciais, consignando que a regra geral a ser aplicada aos honorários advocatícios é a prevista no §2º, do art. 85, do CPC/2015, que estabelece uma ordem de preferência para o arbitramento: (i) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, §2º); (ii) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (ii.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (ii.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º).
+Assim, com fundamento na Súmula 568/STJ, o recurso deve ser desprovido, mantido o acórdão recorrido, no ponto.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% (dez por cento) sobre o valor da condenação (e-STJ fls. 549) para 12%, (doze por cento) observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ACOLHIMENTO. EXTINÇÃO DO FEITO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. VIOLAÇÃO DO ART. 1.022 DO CPC. INOCORRÊNCIA. INOVAÇÃO RECURSAL. REEXAME DE FATOS E PROVAS. HONORÁRIOS. ORDEM DE PREFERÊNCIA. SÚMULA 568/STJ
+1. Ação de execução de título extrajudicial. Sentença que acolheu a exceção de pré-executividade e extinguiu a demanda.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. A 2ª Seção do STJ, que, no julgamento do REsp 1.746.072/PR, uniformizou o entendimento desta Corte acerca da fixação dos honorários advocatícios sucumbenciais, consignando que a regra geral a ser aplicada aos honorários advocatícios é a prevista no § 2º, do art. 85, do CPC/2015, que estabelece uma ordem de preferência para o arbitramento: (i) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (ii) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (ii.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (ii.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º).
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não conhecido.
