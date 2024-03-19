@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se  de  agravo  nos  próprios  autos  interposto  contra  decisão  publicada  na  vigência  do  CPC/2015,  que  inadmitiu  o  recurso  especial  em  razão  da  incidência  da  Súmula n. 211/STJ  (e-STJ  fls.  306/309).
+O  acórdão  recorrido  encontra-se  assim  ementado  (e-STJ  fl.  205):
+APELAÇÃO CÍVEL EM EMBARGOS MONITÓRIOS. SENTENÇA DE ACOLHIMENTO DOS EMBARGOS E DE IMPROCEDÊNCIA DA AÇÃOMONITÓRIA. CONTRATO DE CESSÃO DE CRÉDITO, DE PRESTAÇÃO DE AVAL E OUTRAS AVENÇAS. AQUISIÇÃO DE RECEBÍVEIS REALIZADA POR SECURITIZADORA. ATIVIDADE QUE NÃO SE CONFUNDE COM OPERAÇÃO DE FACTORING. CLÁUSULA CONTRATUAL EXPRESSA ESTABELECENDO A RESPONSABILIDADE DA CEDENTE PELO INADIMPLEMENTO DOS CRÉDITOS VENDIDOS. EMBARGOS MONITÓRIOS REJEITADOS DADA A AUSÊNCIA DE DEMONSTRAÇÃO DE FATOS IMPEDITIVOS, MODIFICATIVOS OU EXTINTIVOS DA SECURITIZADORA. AÇÃO MONITÓRIA QUE PREENCHE OS REQUISITOS DO ART. 700 DO CPC. CONSTITUIÇÃO DE PLENO DIREITO DO TÍTULO EXECUTIVO JUDICIAL. RETORNO DOS AUTOS À ORIGEM PARA PROSSEGUIMENTO DA EXECUÇÃO. INTELIGÊNCIA, DO PARÁGRAFO 8º DO ART. 702, DO CPC. RECURSO CONHECIDO E PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 238/247).
+Nas  razões  do  recurso  especial  (e  - STJ  fls.  157/168),  interposto  com  fundamento  no  art.  105,  III,  "a" e "c",  da  CF,  a  parte  alegou  violação  dos  artigos  104, 113, 421, 425 e 884 do Código Civil, além de divergência jurisprudencial.
+  Asseverou,  para  tanto,  que  "o Exmo. Des. Relator ao entender que a operação realizada entre as partes se trata de uma securitização de recebíveis, acaba por desconstituir a natureza jurídica do contrato, além de desvirtuar a intenção das partes na operação firmada, que foi claramente de factoring, indo de encontro com os princípios da boa-fé, função social do contrato e validade do negócio jurídico, violando os arts. 104, 113, 421 e 425 do Código Civil"  (e-STJ  fl.  265).
+Aduziu  que "no caso em tela não resta evidenciado nenhuma das hipóteses que autorização o direito de regresso da Embargada aos Embargantes, muito menos a necessidade de responsabilidade solidaria daqueles que atuaram como avalista da operação, justificando a imediata reforma do acórdão recorrido"  (e-STJ  fl.  270).
+  No  agravo  (e-STJ  fls.  310/318),  afirma  a  presença  dos  requisitos  de  admissibilidade  do  especial.
+Não foi  oferecida  contraminuta  (e-STJ  fl.  330).
+  É  o  relatório.
+Decido.
+Relativamente à caracterização do contrato como de securitização de recebíveis e à validade da cláusula de regresso, o acórdão recorrido asseverou que (e-STJ fls. 207/210 - grifei):
+A operação realizada trata-se de uma securitização de recebíveis em que a PLASTSPUMA BAHIA INDÚSTRIA E COMÉRCIO DE COLCHÕES vendeu, por intermédio de uma cessão de créditos, parcela de seus ativos para uma empresa de securitização e não para uma empresa de factoring, sendo válida, portanto, a cláusula de regresso.
+(..)
+Inclusive, as cláusulas 1ª e 5ª do CONTRATO DE CESSÃO DE CRÉDITO, DE PRESTAÇÃO DE AVAL E OUTRAS AVENÇAS Nº 1382, evidenciam que a PLASTSPUMA BAHIA INDÚSTRIA E COMÉRCIO DE COLCHÕES, nos termos dos artigos 295/296 e 914 do Código Civil e da legislação cambiária, assumiu "toda e qualquer responsabilidade relativa à existência e solvência do(s) crédito(s) que venha(m) a ser cedido(s), inclusive aqueles relacionados a casos fortuitos ou de força maior."
+(..)
+Da norma predita, extrai-se que, apesar de na cessão de crédito não ser regra a responsabilidade do cedente pela insolvência do título, permite-se a este que estipule cláusula se responsabilizando pelo prejuízo, o que no caso foi feito.
+Registro, ademais que, além da responsabilidade acima assumida, aPLASTSPUMA BAHIA INDÚSTRIA E COMÉRCIO DE COLCHÕES, pactuou na Cláusula 8ª, arecompra dos recebíveis em caso de vícios nos títulos ou quaisquer outras exceções existentes.
+Esse CONTRATO DE CESSÃO DE CRÉDITO, DE PRESTAÇÃO DE AVAL E OUTRAS AVENÇAS Nº 1382 está assinado pela FUN SECURITIZADORA S/A, pela PLASTSPUMA BAHIA INDÚSTRIA E COMÉRCIO DE COLCHÕES, como também pelos avalistas CARLOS ALBERTO DE OLIVEIRA, JOSEFINA CHRISTIAN PELLICER DE OLIVEIRA, respectivos cônjuges e duas testemunhas.
+Portanto, a PLASTSPUMA BAHIA INDÚSTRIA E COMÉRCIO DE COLCHÕES de forma livre, bilateral e em igualdade de condições, cedeu os créditos, inexistindo fundamento jurídico que conduza à interpretação no sentido de tratar-se de uma operaçã o de factoring.
+Nesse segmento, não sendo a FUN SECURITIZADORA S/A uma factoring e não lhe sendo obstado o direito de regresso, não vislumbro acerto no julgado que acolheu os embargosmonitórios, fundamentado na impossibilidade da cobrança dos recebíveis, dada a ausência de provas daprévia ciência da insolvabilidade do devedor.
+  Desse  modo, para se acolher a alegação de ofensa aos artigos 104, 113, 421, 425 e 884 do Código Civil e  modificar o  entendimento  do  acórdão impugnado de que a operação realizada consiste em uma securitização de recebíveis e não um contrato de factoring, bem como de que existe cláusula contratual que possibilita o direito de regresso, seria imprescindível reexaminar o conjunto fático-probatório dos autos e interpretar as cláusulas contratuais, providências não admitidas no âmbito desta Corte, a teor da Súmula n. 5 e 7 do STJ.
+Por fim, cumpre asseverar que o referido óbice se aplica ao recurso especial interposto por ambas as alíneas do permissivo constitucional.
+Ante  o  exposto,  NEGO  PROVIMENTO  ao  agravo.
+Publique-se  e  intimem-se.
+ EMENTA
