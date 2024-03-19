@@ -1,0 +1,16 @@
+DECISÃO
+PASCOALINA ZIRPOLI DA SILVA opõe embargos declaratórios à decisão de fls. 525-526, que determinou a restituição dos autos ao Tribunal de origem a fim de que fique sobrestado até o julgamento definitivo da matéria submetida à sistemática dos recursos repetitivos (Tema n. 1033) e eventual retratação prevista nos arts. 1.040, II, e 1.041 do CPC.
+Alega a parte embargante que a decisão incorreu em erro material ao não observar que o recurso especial foi admitido apenas parcialmente na origem e somente em relação a matéria não vinculada à controvérsia pendente de julgamento sob o rito dos recursos repetitivos.
+Requer o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+Contrarrazões pelo desprovimento do recurso com aplicação da multa prevista no art. 1.026, § 2º, do CPC (fls. 134-135).
+É o relatório. Decid o.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a aclarar obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado.
+No caso em análise, não há inexatidão material a ser reconhecida.
+Conforme consignado na decisão embargada, o recurso especial possui como objeto questão submetida a julgamento afetado à sistemática dos recursos repetitivos em que se busca definir a "interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude do ajuizamento de ação de protesto ou de execução coletiva por legitimado para propor demandas coletivas" (Tema 1.033 do STJ).
+Quanto à alegação da parte embargante de que o recurso especial foi admitido parcialmente na origem em relação a matéria distinta da vinculada à controvérsia pendente de julgamento sob o rito dos recursos repetitivos, registre-se que, consoante a pacífica jurisprudência do Superior Tribunal de Justiça, o juízo de admissibilidade está sujeito a duplo controle e a admissão parcial do recurso especial pelo Tribunal a quo não prejudica o conhecimento dos demais fundamentos pelo STJ. Assim, respeitados os limites legais, haverá nova análise quanto à admissibilidade recursal, mesmo quanto à parte inadmitida na origem. Aplicação analógica das Súmulas 292 e 528 do STF (AgInt no REsp n. 1.652.784/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 24/8/2020, DJe de 31/8/2020; REsp n. 1.844/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/2/2020, DJe de 3/3/2020; AgRg no REsp n. 1.124.692/SE, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 3/9/2015, DJe de 23/9/2015).
+Dessa forma, não há irregularidade sanável por meio dos presentes embargos.
+Por fim, quanto ao pedido de aplicação da multa do art. 1.026, § 2º, do CPC, formulado na impugnação aos embargos de declaração, registre-se que a simples oposição de embargos, ainda que não configurada nenhuma das hipóteses de cabimento, não enseja a incidência da penalidade quando não há a intenção protelatória (EDcl no AgInt nos EAREsp n. 2.157.279/RS, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 14/11/2023, DJe de 17/11/2023).
+No caso, apesar da rejeição dos embargos de declaração, não está configurado, por ora, o intuito protelatório, razão pela qual é incabível a aplicação de multa.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
