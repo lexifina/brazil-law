@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/03/2024 a 19/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PROVA TESTEMUNHAL QUE NÃO SE MOSTRA NECESSÁRIA PARA O DESLINDE DA CONTROVÉRSIA. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de outras provas. Cabe ao juiz decidir sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias. Precedentes.
+2. Estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ, pelas alíneas "a" e "c" do permissivo constitucional.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno (fls. 232-247, e-STJ) interposto por ANNY PIRES BUENO e RAFAEL GIORI PREZOTO contra decisão (fls. 225-227, e-STJ), proferida por esta relatoria, que conheceu do agravo para não conhecer do recurso especial, por incidência, pelas alíneas "a" e "c" do permissivo constitucional, da Súmula 7/STJ (arts. 7º e 370, parágrafo único, do Código de Processo Civil de 2015).
+Nas razões do agravo interno, alega-se, em síntese, que "Não se pode confundir, dessa maneira, revaloração de provas - conforme vedado pela súmula 07 -, com a verificação do direito com base em elementos de fato dos autos, até mesmo porque não se faz prova de direito, que é conhecido pelo magistrado (iuria novit curia) mas ele é sim extraído dos fatos que a ele se subsomem. Nesse sentido, não se pode considerar, com a devida vênia, a negativa de seguimento pela referida súmula 07 e suposta necessidade de reanálise fática no que se refere à alínea "c", do art. 105, da CF, porquanto foram cumpridos os requisitos necessários para admissibilidade recursal, e o julgamento prescinde de análise probatória" (fl. 237, e-STJ).
+Ao final, pleiteia-se a reconsideração da decisão agravada ou, se mantida, seja o presente feito levado a julgamento perante a eg. Quarta Turma.
+Impugnação não apresentada, conforme certidão de fl. 251 , e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PROVA TESTEMUNHAL QUE NÃO SE MOSTRA NECESSÁRIA PARA O DESLINDE DA CONTROVÉRSIA. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de outras provas. Cabe ao juiz decidir sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias. Precedentes.
+2. Estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ, pelas alíneas "a" e "c" do permissivo constitucional.
+3. Agravo interno desprovido.
+VOTO
+Quanto ao alegado cerceamento de defesa, a irresignação não merece prosperar, devendo a decisão ser mantida por seus próprios fundamentos.
+A parte agravante, sob alegada ofensa aos arts. 7º e 370, parágrafo único, do CPC/2015, defende que o indeferimento da prova testemunhal traduz inegável cerceamento ao direito de defesa, tendo em vista sua necessidade para a comprovação do ponto controvertido.
+Por sua vez, o Tribunal de Justiça de São Paulo, rejeitando a referida tese, dirimiu a controvérsia nestes termos (fl. 138, e-STJ):
+Segue que, por ora, não há espaço para deferimento da prova oral, na medida em que a controvérsia está restrita, basicamente, ao reconhecimento da má prestação de serviços realizados pela agravada, exigindo reparos realizados por empresa contratada pelos agravantes.
+Neste cenário, em princípio, a prova pericial, direta ou indireta, é que trará melhores elementos elucidativos dessa questão e, considerando o que for apurado, caso a situação não fique cabalmente esclarecida, em tese, se abrirá a possibilidade de, a critério do D. Juiz "a quo", admitir ou não a prova oral, nos termos dos artigos 370 e 371, do Código de Processo Civil.
+Antes disso, como bem colocado pelo julgador, o caso exige análise eminentemente técnica, de modo que, neste momento, a prova oral é inoportuna.
+Por outro lado, oportuno o deferimento da produção da prova pericial, cabendo ao perito avaliar a situação apresentando suas conclusões a respeito da controvérsia técnica presente nos autos.
+Do exame dos autos principais verifica-se que foi a agravada quem, de fato, pediu a produção da prova pericial, cf. fls. 101/104 e 105/106, de forma que é quem deverá antecipar o pagamento das despesas com sua produção.
+Como se vê, o Tribunal de Justiça afastou a existência de cerceamento de defesa, declarando a prescindibilidade da produção de prova oral, bastando, para o deslinde da controvérsia, a prova pericial deferida. A livre apreciação da prova e o livre convencimento motivado do juiz são princípios basilares do sistema processual civil brasileiro. Nesse sentido, os seguintes julgados:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1. CONTRATO BANCÁRIO. CONSIGNAÇÃO EM PAGAMENTO. PERÍCIA TÉCNICA. DESNECESSIDADE. 2. LIMITAÇÃO DO VALOR. 30% DO SALÁRIO E COMPENSAÇÃO DE VERBA HONORÁRIA. INOVAÇÃO RECURSAL. INVIABILIDADE. PRECLUSÃO CONSUMATIVA. 3. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não caracteriza cerceamento de defesa o julgamento da demanda sem a realização de prova pericial, quando o seu destinatário entender que o feito está adequadamente instruído, com provas suficientes para seu convencimento.
+2. O intuito de debater novos temas por meio de agravo regimental, não trazidos inicialmente no recurso especial, se reveste de indevida inovação recursal, não sendo viável, portanto, a sua análise, porquanto imprescindível a prévia irresignação no momento oportuno e o efetivo debate sobre os temas.
+3. Agravo regimental a que se nega provimento." (AgRg no AREsp 566.307/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/09/2014, DJe de 26/09/2014)
+"PROCESSUAL CIVIL E ADMINISTRATIVO. RESCISÃO CONTRATUAL. SALDO DEVEDOR. REALIZAÇÃO DE NOVA PERÍCIA. DESNECESSIDADE. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO.REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Cumpre ao magistrado, destinatário da prova, valorar sua necessidade, conforme o princípio do livre convencimento motivado, previsto no art. 131 do CPC. Assim, não há cerceamento de defesa quando, em decisão fundamentada, o juiz indefere produção de provas, seja ela testemunhal, pericial ou documental.
+2. No caso, a alteração das conclusões adotadas pela Corte de origem, de que não houve cerceamento de defesa com o indeferimento de nova prova pericial, tal como postulada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento." (AgRg no AREsp 336.893/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/09/2013, DJe de 25/09/2013)
+Assim, encontrando-se o aresto estadual em consonância com a jurisprudência desta Corte Superior, é imperiosa a incidência da Súmula 83 do STJ, que incide pelas alíneas "a" e "c" do permissivo constitucional.
+Ainda que assim não fosse, a modificação de tais entendimentos lançados no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, medida inviável na via estreita do recurso especial, a teor do que dispõe a Súmula 7 do Superior Tribunal de Justiça.
+A propósito:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO (ART. 1042 DO CPC/15) - AÇÃO DECLARATÓRIA DE RESCISÃO CONTRATUAL C/C DESPEJO, ARBITRAMENTO E COBRANÇA DE ALUGUEL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DOS RÉUS.
+1. A jurisprudência do STJ se firmou no sentido de que a impugnação, no agravo, de capítulos autônomos da decisão recorrida apenas induz a preclusão das matérias não impugnadas.
+2. As conclusões adotadas pelo órgão julgador no sentido de competir ao juiz decidir sobre a produção de provas necessárias, ou indeferir aquelas que tenha como inúteis ou protelatórias, não implicando em cerceamento de defesa o indeferimento da dilação probatória, estão em consonância com a jurisprudência desta Corte Superior, atraindo a aplicação da Súmula 83 do STJ.
+3. O Tribunal local, após análise do conjunto probatório constante dos autos, considerou que se insere no poder de livre apreciação da prova do magistrado decidir sobre a possibilidade de julgamento antecipado da lide, sendo que a pretensão recursal exige o revolvimento de fatos e provas, procedimento vedado por esta Corte Superior, a teor da Súmula 7 do STJ. 4. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 1.080.264/GO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 05/06/2018, DJe de 12/06/2018)
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
