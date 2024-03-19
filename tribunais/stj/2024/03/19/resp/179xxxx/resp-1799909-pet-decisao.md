@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de petição autuada como expediente avulso (fls. 2/12), na qual a requerente MARIA DA CONCEICAO VIANA SILVA comunica o falecimento, no dia 4/5/2021, de seu advogado, o Senhor Wilson Miguel, afirmando ser o único advogado legalmente habilitado nos autos.
+Requer a aplicação do art. 313, I, do Código de Processo Civil (CPC), mediante reconhecimento da suspensão do processo, com anulação dos atos praticados após a data do óbito, e regularização processual do presente feito.
+É o breve relatório.
+A norma processual expressa no art. 313, I, do CPC tem o intuito de evitar a ocorrência de prejuízo à parte em virtude do falecimento de seu patrono, prejuízo esse que não se verifica na hipótese.
+No presente caso, a decisão de fls. 638/639, da relatoria do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região), publicada em 28/10/2021, após a morte do patrono da causa, determinou a devolução dos autos ao Tribunal de origem para sobrestamento do processo até o julgamento do Tema 1.105 pelo Superior Tribunal de Justiça.
+Conforme entendimento desta Corte Superior de Justiça, o ato que determina a devolução dos autos ao Tribunal de origem para sobrestamento do feito a fim de se aguardar o julgamento de recurso repetitivo não é capaz de gerar nenhum prejuízo às partes, por tratar-se de ato despido de conteúdo decisório, motivo pelo qual é irrecorrível. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. MORTE ANTERIOR DO EXEQUENTE. ATOS PRATICADOS PELO ADVOGADO. INEXISTÊNCIA DE PREJUÍZO. VALIDADE. HABILITAÇÃO DOS HERDEIROS.
+1. São válidos os atos processuais praticados pelo advogado no curso da execução, ainda que ocorrida a morte do representado antes do seu início, salvo comprovada má-fé.
+2. O reconhecimento da nulidade, por aplicação do princípio pas de nullité sans grief, depende de demonstração do prejuízo.
+3. A suspensão do processo, nos termos dos arts. 265, I, do CPC/1973 e 313, I, do CPC/2015, tem por objetivo proteger os interesses do falecido, de modo que poderão ser anulados os atos que causem prejuízo aos sucessores. Precedentes.
+4. Na hipótese, o cumprimento de sentença foi iniciado no interesse do de cujus. Além disso, solução distinta estaria em contradição com os princípios da instrumentalidade da formas, da economia e da celeridade, porque daria azo à desnecessária reabertura daquela fase processual.
+5. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.361.093/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 20/4/2021, DJe de 27/4/2021.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO INTERPOSTO EM FACE DE DECISÃO QUE DETERMINA O RETORNO DOS AUTOS. RECONHECIMENTO DE REPERCUSSÃO GERAL PELO SUPREMO TRIBUNAL FEDERAL. TEMA 1.199. DESPACHO QUE DETERMINA A BAIXA DOS AUTOS AO TRIBUNAL DE ORIGEM, PARA AGUARDAR JULGAMENTO DA MATÉRIA, PELO STF. IRRECORRIBILIDADE. JULGADOS DO STJ. INADEQUAÇÃO DA VIA RECURSAL ELEITA. AGRAVO INTERNO NÃO CONHECIDO.
+1. "Não cabe, em princípio, recurso contra a decisão que se limita a determinar o sobrestamento dos autos  .. , por tratar-se de ato despido de conteúdo decisório e que não gera prejuízo às partes" (AgInt nos EREsp 1533927/MG, Rel. Ministro Napoleão Nunes Maia Filho, Corte Especial, DJe 27/11/2018). No mesmo sentido: AgInt no REsp 1825093/SC, Rel. Ministro Og Fernandes, 2ª Turma, DJe 05/11/2021; AgInt no REsp n. 1.936.190/RJ, Rel. Ministra Regina Helena Costa, 1ª Turma, DJe de 8/10/2021; AgInt no AREsp n. 1.942.191/PE, Rel. Ministra Nancy Andrighi, 3ª Turma, DJe de 27/4/2022; AgInt no REsp n. 1.957.889/SP, Rel. Ministro Marco Buzzi, 4ª Turma, DJe de 6/4/2022.
+2.Considerando os arts. 1.036 a 1.041 do CPC/2015, impõe-se a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, a fim de que o exame do recurso especial ocorra após exercido o juízo de retratação ou declarado prejudicado o recurso extraordinário.
+3. Agravo interno não conhecido. (AgInt na PET no AREsp n. 2.068.839/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+Ante o exposto, indefiro o pedido de restituição do prazo recursal.
+Considerando que os autos já foram baixados, encaminhe-se cópia deste expediente à origem, inclusive com cópia desta decisão, para ciência.
+Publique-se. Intimem-se. Arquive-se.
+EMENTA
