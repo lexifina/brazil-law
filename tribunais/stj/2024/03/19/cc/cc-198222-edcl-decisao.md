@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Banco John Deere S.A. à decisão monocrática proferida por este relator, que deferiu a liminar pleiteada por Thiago Garcia Braga (em recuperação judicial), para "determinar a imediata suspensão de qualquer ato constritivo dos bens de capital, a princípio essenciais à atividade empresarial da recuperanda, proferido no bojo da Ação de Busca e Apreensão n. 0800068-92.2023.8.12.0003, em trâmite perante o Juízo de Direito da 1ª Vara Cível de Bela Vista - MT, ficando designado o Juízo de Direito da 4ª Vara Cível de Rondonópolis - MT para dirimir, em caráter provisório, a respeito das medidas constritivas porventura efetivadas sobre os possíveis bens de capital, bem como a respeito das demais questões urgentes" (e-STJ, fls. 206-207).
+Em suas razões (e-STJ, fls. 212-222), a embargante aponta a existência de erro material e omissão no julgado.
+Reconhece a existência de recuperação judicial, mas argumenta que não teria havido decisão judicial acerca de essencialidade dos bens objetos da ação de busca e apreensão nos autos da ação de soerguimento.
+Alega que o suscitante "não teria comprovado que os bens es tão efetivamente sendo usados nas atividades rotineiras da empresa, não tendo como este relator fundamentar sua decisão à luz do caso concreto" (e-STJ, fls. 216/217).
+Conclui que este relator não poderia "determinar a suspensão de qualquer ato constritivo dos bens de capital da atividade empresarial da recuperanda, visto que isto seria, de certa forma, reconhecer de forma automática a essencialidade dos bens, a qual demanda uma análise mais aprofundada e a partir do caso concreto, incumbência esta do juízo de Recuperação Judicial em primeiro grau" (e-STJ, fl. 221).
+Impugnação às fls. 267-273 (e-STJ).
+Brevemente relatado, decido.
+O julgado não padece do vício de julgamento indicado pela parte embargante.
+De início, vale ressaltar que a decisão ora embargada apenas apreciou o pedido liminar formulado no conflito de competência, logo, a análise feita tomou como base apenas um exame perfunctório dos autos, razão pela qual não era mesmo necessário o exame de todas as questões discutidas, o que será feito por ocasião do julgamento de mérito.
+Conforme consignado na monocrática, na hipótese, a despeito da inexistência de manifestação prévia do Juízo da recuperação, depreende-se, em juízo de cognição sumária, a essencialidade dos bens alienados fiduciariamente, consistentes em dois tratores e dois pulverizadores, que, consabidamente, são muito utilizados na atividade de cultivo de grãos desempenhada pelo suscitante, segundo se infere da Certidão Simplificada emitida pela Junta Comercial do Estado de Mato Grosso (e-STJ, fl. 147) e do comprovante de inscrição e de situação cadastral retirado do sítio eletrônico da Receita Federal do Brasil (e-STJ, fl. 148).
+A aparente essencialidade dos bens, e m cognição perfunctória, se mostrou necessária tão somente para a análise do pedido liminar, não dispensando a manifestação do Juízo da recuperação, sobretudo para o exame do mérito do presente incidente.
+Portanto, o julgado embargado não se ressente de omissão ou erro material, como aduz a embargante.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. OMISSÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
