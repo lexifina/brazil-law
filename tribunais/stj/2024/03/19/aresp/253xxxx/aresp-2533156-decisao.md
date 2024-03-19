@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por TELEFÔNICA BRASIL S.A em face de decisão proferida pelo Tribunal de Justiça do Estado de São Paulo, que negou admissibilidade a recurso especial manejado contra acórdão assim ementado:
+APELAÇÃO CÍVEL. Liquidação de sentença. Interrupção dos serviços de telefonia fixa no município de São Miguel Arcanjo a partir de 20/09/2012. Ação Civil Pública que reconheceu a obrigação da empresa Telefônica quanto à indenização por danos morais coletivos fixados em um milhão de reais, bem como indenizar os assinantes-consumidores pelos danos morais sofridos através de liquidação do julgado a ser promovido pelas vítimas. Hipótese dos autos que demonstra a qualidade de consumidor e da efetiva interrupção dos serviços no período de 20/09/2012 a 02/10/2012; reembolsado através de crédito na fatura. Dever de indenização extrapatrimonial caracterizado. Valor da condenação reduzido a R$6.000,00. Precedentes desta C. Câmara. Honorários readequados a R$ 1.200,00, na forma do art. 85, §8º do Código de Processo Civil. Recurso parcialmente provido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente aponta violação dos arts. 502, 509, § 4º, 1.008 e 1.022, II, do CPC, e 944, caput, do Código Civil.
+Em síntese, aduz que: a) o Tribunal de origem incorreu em omissão ao não apreciar matéria de ordem pública suscitada pela ora recorrente (violação à coisa julgada; b) a condenação se baseou em fato a respeito do qual a recorrente foi exonerada de responsabilidade no título executivo, configurando ofensa à coisa julgada; c) o valor fixado a título de indenização pelo dano moral é desproporcional e exorbitante, sobretudo ponderada a multiplicidade de centenas de liquidações idênticas.
+A inadmissão do recurso especial se fez à consideração de que: i) não houve a suposta violação ao art. 1.022 do CPC, porquanto houve clara e devida fundamentação no acórdão recorrido; ii) incide na espécie o óbice da Súmula 7 do STJ.
+Nas razões de agravo, postula o processamento do recurso especial haja vista ter cumprido todos os requisitos necessários à sua admissão.
+É o relatório. Passo a decidir.
+Presentes os pressupostos de admissibilidade do agravo, passo à análise do especial.
+A pretensão não merece acolhida.
+Isso porque sem razão a parte recorrente quanto à alegada violação ao arts. 1.022 do CPC/2015, sob a alegação de que o Tribunal de origem não se manifestou sobre questões suscitadas nos aclaratórios.
+Cumpre asseverar que as proposições poderão ou não ser explicitamente dissecadas pelo magistrado, cabendo-lhe decidir a questão com seu livre convencimento, baseando-se nos aspectos pertinentes à hipótese e na legislação que entender aplicável ao caso concreto, não estando obrigado a rebater um a um os argumentos apresentados pela parte quando já encontrou fundamento suficiente para decidir a controvérsia.
+A propósito, os seguintes trechos do acórdão embargado a corroborar referida fundamentação (fls. 564/566 e-STJ) :
+(..)
+Não há omissão, contradição ou obscuridade no v. acórdão.
+Primeiramente, a alegação acerca da violação da coisa julgada, sequer pode ser conhecida, considerando a flagrante inovação recursal e inexistência de qualquer questão de ordem pública. E tal fato constou expressamente no v. Acórdão e de forma clara:
+"Inicialmente, quanto à petição de fls. 412/416, não há qualquer matéria de ordem pública a ser tratada, tampouco revelou-se a ocorrência de julgamento extra petita. A sentença recorrida sequer trata de eventual ocorrência de caso fortuito. Veja-se: "No presente caso, a discussão acercada existência de danos morais já restou exaurida na Ação Civil Pública ora liquidada, dispensando, neste momento, a análise de sua comprovação, de modo que resta tão apenas apurar o valor devido ao assinante consumidor."
+Pelo que se vê, se abstém de analisar o mérito já definido pela ACP, e apenas verifica a ocorrência do dano moral individual a partir da repercussão do ocorrido na esfera individual do autor.
+Trata a manifestação de verdadeiro aditamento das razões recursais de forma intempestiva, razão pela qual seu conteúdo não pode sequer ser conhecido, sob pena de surpresa à parte contrária. Ainda que se conhecesse de tal matéria, deve-se observar que a interrupção do serviço implicou em ausência de informação adequada, o que está descrito na peça vestibular, portanto, não há falar em causa de pedir inadequada, vez que o autor se embasa na falta de informação adequada."
+(..)
+Restaram claramente explicitados os motivos pelos quais foi dado parcial provimento ao recurso e não há qualquer esclarecimento a ser feito nesse sentido.
+Assim, não há qualquer omissão a ser sanada.
+Registra-se que o Poder Judiciário não está obrigado a emitir expresso juízo de valor a respeito de todas as teses e artigos de lei invocados pelas partes, bastando para fundamentar o decidido fazer uso de argumentação adequada, ainda que não espelhe quaisquer das linhas de argumentação invocadas.
+Assim, não havendo no acórdão recorrido a existência de vício que caracterize ausência de prestação jurisdicional, e estando fundamentada a decisão, não fica caracterizada ofensa ao citado dispositivo.
+Ademais, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame do conjunto fático-probatório dos autos, inviável nos termos da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C RESTITUIÇÃO DOS VALORES PAGOS A TÍTULO DE IMPLANTAÇÃO/EXPANSÃO DO SISTEMA DE TELEFONIA. COISA JULGADA. INEXISTÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. PRESCRIÇÃO. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+2. No caso, o Tribunal de origem afastou a alegada ofensa à coisa julgada afirmando que o consumidor não foi abrangido pelo dispositivo da sentença proferida na ação civil pública de n. 001.96.0025111-8, não participou, como parte, da ação declaratória n. 001.98.021145-4, e, por não haver influência do acórdão exarado na ação coletiva de n. 0018011-36.2001.8.12.0001 (2008.001154-0), com o presente feito. Alterar esse entendimento demandaria nova análise de elementos fáticos dos autos, inviável em recurso especial.
+3. O STJ possui entendimento firmado de que o prazo prescricional é de vinte anos, para ações propostas contra sociedade de economia mista, concessionária de serviço público, ou de dez anos, observando-se a regra de transição estabelecida no artigo 2.028 do Novo Código Civil. Incidência da Súmula n. 83/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 915.920/MS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 19/6/2018, DJe de 29/6/2018.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. RESPONSABILIDADE CIVIL CONFIGURADA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. REDUÇÃO DO VALOR DA INDENIZAÇÃO POR DANOS MORAIS. MONTANTE FIXADO EM HARMONIA COM OS PARÂMETROS DA RAZOABILIDADE E DA PROPORCIONALIDADE. REEXAME. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Modificar o entendimento do Tribunal local, acerca da responsabilidade civil da insurgente e do valor da indenização por danos morais, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido ao óbice da Súmula 7/STJ.
+3. Agravo interno improvido.
+(AgInt no AREsp n. 2.428.907/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, percentual esse justificado pelo tempo decorrido entre a interposição do recurso e julgamento, e a complexidade da causa, nos termos do art. 85,
+§ 11, do Código de Processo Civil.
+Os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal devem ser observados.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. SERVIÇO PÚBLICO DE TELEFONIA. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. ALEGAÇÃO DE VIOLAÇÃO DA COISA JULGADA E PEDIDO DE REDUÇÃO DO VALOR. ACÓRDÃO BASEADO NOS FATOS E PROVAS DOS AUTOS. REVISÃO. SÚMULA 7 DO STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR PROVIMENTO.
