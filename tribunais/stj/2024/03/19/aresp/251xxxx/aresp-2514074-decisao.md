@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto pelo MINISTÉRIO PÚBLICO DO MATO GROSSO DO SUL, com fundamento na alínea "a"" do permissivo constitucional, em oposição a acórdão proferido pelo Tribunal de Justiça da respectiva unidade da federação (e-STJ, fls. 337-348).
+Em suas razões recursais, a parte recorrente aponta violação do art. 59 do Código Penal e do art. 42 da Lei 11.343/2006.
+Argumenta que o Tribunal de origem incorreu em violação aos referidos dispositivos legais, ao afastar a exasperação da pena base operada pelo juiz sentenciante, referente à quantidade de entorpecente apreendido (1,45Kg de maconha). Pontua que "levando em conta as balizas traçadas pelas penas mínima e máxima abstratamente cominadas ao crime de tráfico de drogas, verifica-se que a exasperação promovida pelo magistrado singular, considerando negativa as circunstâncias do crime, diante da elevada quantidade de droga apreendida, se deu com base em parâmetros legais, estando em sintonia aos critérios da razoabilidade e proporcionalidade."
+Com contrarrazões (e-STJ, fls. 373-380), o recurso especial foi inadmitido na origem (e-STJ, fls. 384-389), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do recurso (e-STJ, fls. 454-460).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+O Tribunal de origem deu parcial provimento ao apelo defensivo, decotando a valoração negativa das "circunstâncias do crime" pelos seguintes fundamentos:
+"Sobre a circunstância do crime, penso que não merece ser considerada como grave, ante a quantidade módica de substância entorpecente transportada pelo acusado, ou seja, 1,450 (um quilo quatrocentos e cinquenta gramas) de "maconha", o que não justifica, a meu sentir, a negativação da vetorial." (e-STJ, fl. 343).
+A individualização da pena é uma atividade vinculada a parâmetros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+Adotado o sistema trifásico pelo legislador pátrio, na primeira etapa do cálculo, a pena-base será fixada conforme a análise das circunstâncias do art. 59 do Código Penal. Tratando-se de condenado por delitos previstos na Lei de Drogas, o art. 42 da referida norma estabelece a preponderância dos vetores referentes a quantidade e a natureza da droga, assim como a personalidade e a conduta social do agente sobre as demais elencadas no art. 59 do Código Penal.
+No caso, observa-se que o juiz sentenciante atento ao disposto no art. 42 da Lei de Drogas, sopesou a expressiva quantidade de droga apreendida (quase 1,5Kg de maconha) para aumentar a pena-base dos ora recorridos.
+Não obstante, o Tribunal de origem afastou a referida exasperação, por não considerar que a quantidade de entorpecente justificasse a negativação da vetorial.
+Todavia, em que pese haver certa discricionariedade na realização da dosimetria pena, constato haver desproporcionalidade no caso concreto, tendo em vista que a apreensão de 1,45Kg de maconha mostra-se relevante o suficiente a justificar o incremento da pena base, sobretudo por se tratar de circunstância elencada legalmente como preponderante.
+Nesse sentido:
+REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO. DOSIMETRIA. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. ELEVADA QUANTIDADE DO ENTORPECENTE APREENDIDO. POSSIBILIDADE. AUMENTO PROPORCIONAL.
+1. Na fixação da pena-base de crimes previstos na Lei n. 11.343/2006, como ocorre na espécie, deve-se considerar, com preponderância sobre o previsto no artigo 59 do Código Penal, a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente, consoante o disposto no artigo 42 da Lei de Drogas.
+2. Na espécie, a reprimenda de piso acima do mínimo legal, em razão da natureza e a excessiva quantidade do estupefaciente apreendido, encontra-se devidamente justificada e proporcional às especificidades do caso versado.
+ ..
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 585.375/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 16/3/2017, DJe 27/3/2017);
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. CONDENAÇÃO. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO. NATUREZA E QUANTIDADE DA DROGA; FUNDAMENTAÇÃO IDÔNEA. MINORANTE DO TRÁFICO PRIVILEGIADO. APLICAÇÃO EM 1/6. VÍNCULO COM ORGANIZAÇÃO CRIMINOSA. LEGALIDADE. CONDIÇÃO DE MULA. NÃO APLICAÇÃO DA CAUSA DE DIMINUIÇÃO. IMPOSSIBILIDADE. NE REFORMATIO IN PEJUS. REGIME MAIS GRAVOSO. POSSIBILIDADE. AGRAVO PROVIDO PARA CONHECER DO AGRAVO E NEGAR-LHE PROVIMENTO.
+1. A quantidade e a natureza da droga apreendida constituem fundamentos aptos a ensejar a exasperação da pena-base, por demonstrar maior reprovabilidade da conduta.
+ ..
+5. Agravo regimental improvido.
+(AgRg no AREsp 674.735/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 13/12/2016, DJe 19/12/2016).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. ANÁLISE DAS PROVAS DOS AUTOS. NÃO OCORRÊNCIA. DOSIMETRIA. PENA-BASE. CIRCUNSTÂNCIA JUDICIAL DAS CIRCUNSTÂNCIAS DO CRIME. ELEMENTOS CONCRETOS. BIS IN IDEM. NÃO OCORRÊNCIA. CIRCUNSTÂNCIAS FÁTICAS DISTINTAS EM MOMENTOS DIVERSOS DA DOSIMETRIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A revaloração dos elementos probatórios constantes da denúncia, sentença e do acórdão recorridos, não implicam revolvimento das provas dos autos, sendo admissível na via do especial para fins de fixação da interpretação da legislação federal. Precedentes.
+2. Mostra-se plenamente possível a valoração negativa das circunstâncias do delito quando a fundamentação está calcada em elementos concretos, oriundos do caso em apreço, assim como na espécie, onde se observa que a agravada praticava o tráfico de drogas em sua própria residência, local também habitado por seus filhos menores, que presenciavam a prática delituosa, elementos estes que refletem um alto grau de reprovabilidade na conduta do agente, e, portanto, autorizam o incremento da reprimenda corporal da acusada em sua primeira fase.
+3. Se a pena-base foi fixada acima do mínimo legal tendo em vista os elementos concretos, extraídos dos autos, que revelaram o alto grau de reprovabilidade da conduta da agente e o quantum de redução na terceira etapa da dosimetria foi determinado em 1/6 (um sexto) em razão da quantidade e natureza das drogas apreendidas, não há que se falar em bis in idem, vez que não foram utilizadas as mesmas circunstâncias fáticas em momentos distintos da dosimetria.
+4. Agravo regimental a que se nega provimento.
+(AgInt no AREsp 1.025.266/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 21/02/2017, DJe 02/03/2017)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "c", do RISTJ, conheço do agravo para dar provimento ao recurso especial, a fim de restabelecer a valoração da negativa da vetorial "circunstâncias do crime", ante a quantidade de entorpecentes apreendido. Determino o retorno dos autos à origem, para refazimento da dosimetria da penas dos ora recorridos.
+Publique-se. Intimem-se.
+EMENTA
