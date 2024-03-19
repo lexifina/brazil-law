@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de ação rescisória ajuizada por JESSICA DE SOUSA RODRIGUES, com fundamento no art. 966, VIII, do Código de Processo Civil (CPC), objetivando a desconstituição da decisão monocrática proferida pelo Ministro Humberto Martins no Recurso Especial 1.592.077/PI, DJe 29/4/2016, na qual ficou consignado que: "no caso nos termos da Jurisprudência desta Corte Superior não é possível interpretação extensiva da norma da Lei n. 12.711/2012 para admitir a participação de estudante que cursou o ensino médio em instituição privada de ensino no processo seletivo para preenchimento de vagas reservadas a estudantes oriundos de escolas públicas".
+A parte autora aponta que nessa decisão ocorreu erro de fato, afirmando que não cursou o ensino médio em instituição de ensino filantrópica, e conclui: "tendo  ..  estudado o ensino médio em escola pública, é de se concluir que a jurisprudência do Superior Tribunal de Justiça impunha o indeferimento do especial e que, agora, impõe a correção do rumo dado ao feito naquela ocasião" (fl. 3).
+Foi deferida a gratuidade da justiça (fl. 313).
+A parte ré apresentou contestação (fls . 334/340).
+Foram apresentadas razões finais por ambas as partes (fls. 348/353 e 362/368).
+O Ministério Público Federal opinou pela improcedência do pedido (fls. 382/385).
+É o relatório.
+Busca a parte autora o reconhecimento do seu direito de se matricular na Universidade Federal do Piauí pelo sistema de cotas, uma vez que, preenchendo os requisitos do edital d o certame, demonstrou ter estudado em escola pública.
+Mesmo que se admita ter a decisão rescindenda incorrido em erro de fato ao fixar que a parte autora "cursou o ensino médio em instituição privada de ensino" (fl. 297), o pleito rescisório não merece ser acolhido.
+Isso porque, não obstante o esclarecimento feito na petição inicial de que a parte autora não cursou o ensino médio em instituição de ensino filantrópica, reconhece ela ter "cursado a segunda metade do ensino fundamental, ou seja, da 5â à 8â série, em escola filantrópica mantida por fundação de direito privado ligada a um grande banco de varejo" (fl. 1).
+Essa circunstância impede o acolhimento do pedido rescisório, uma vez que esta Corte "já consignou que não se pode interpretar extensivamente norma que impõe como critério a realização do ensino fundamental e médio exclusivamente em escola pública para abarcar instituições de ensino de outra espécie, sob pena de inviabilizar o fim buscado por meio da ação afirmativa" (REsp 1.206.619/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 6/12/2011, DJe de 13/12/2011).
+No mesmo sentido cito os seguintes julgados deste Tribunal :
+PROCESSUAL CIVIL E ADMINISTRATIVO. MATRÍCULA EM CURSO SUPERIOR. VAGAS DESTINADAS AO SISTEMA DE COTAS. TOTALIDADE DO ENSINO MÉDIO CURSADO EM ESCOLA CENECISTA. NÃO PREENCHIMENTO DOS REQUISITOS PARA INGRESSO PELO SISTEMA COTAS. SÚMULA 83/STJ.
+1. O STJ tem entendimento no sentido de não ser possível conferir interpretação extensiva de norma que estabelece como critério a conclusão do ensino fundamental e médio exclusivamente em escola pública para abranger instituições de ensino de outra espécie, sob pena de frustrar o escopo da ação afirmativa em comento.
+2. Agravo Interno não provido. (AgInt no REsp n. 1.890.210/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/2/2021, DJe de 1/3/2021 - sem destaques no original.)
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÕES AFIRMATIVAS. POLÍTICA DE COTAS. AUTONOMIA UNIVERSITÁRIA. FIXAÇÃO DE CRITÉRIOS OBJETIVOS LEGAIS. IMPOSSIBILIDADE DO PODER JUDICIÁRIO CRIAR EXCEÇÕES SUBJETIVAS. PRECEDENTES.
+1. A jurisprudência desta Corte firmou o entendimento segundo o qual não é possível a interpretação extensiva da norma que estabeleceu o sistema de cotas para o ingresso em instituições de ensino superior para alunos que cursaram o ensino fundamental e médio integralmente em escolas públicas, a fim de englobar as instituições particulares de ensino, diante do risco de inviabilizar o fim buscado por meio desta ação afirmativa. A propósito: AgInt no AREsp 1.162.664/RS, Rel. Min. Gurgel de Faria, Primeira Turma, DJe de 8/8/2018; AgInt no REsp 1.695.072/PE, Rel. Min. Regina Helena Costa, Primeira Turma, DJe de 15/12/2017 e REsp 1.670.577/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 12/9/2017.
+2. Agravo interno não provido. (AgInt no REsp n. 1.521.338/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 5/2/2019, DJe de 8/2/2019 - sem destaques no original.)
+Ante o exposto, julgo improcedente o pedido.
+Fixo os honorários advocatícios em 10% (dez por cento) sobre o valor da causa, nos termos do art. 85, §§ 2º e 3º, I, do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
