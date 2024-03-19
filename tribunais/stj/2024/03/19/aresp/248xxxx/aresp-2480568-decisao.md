@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que não admitiu o recurso especial interposto com fundamento no art. 105, inc. III, alínea a, da Constituição da República, para impugnar o acórdão assim ementado (fl. 294):
+APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. ABSOLVIÇÃO. INEXISTÊNCIA OU INSUFICIÊNCIA DE PROVAS. INVIABILIDADE. MATERIALIDADE E AUTORIA COMPROVADAS. CONJUNTO PROBATÓRIO SUFICIENTE. PALAVRA DOS POLICIAIS. FILMAGENS. DOSIMETRIA. PENA-BASE. ARTIGO 42 DA LAD. QUANTIDADE E NATUREZA DA DROGA. ANÁLISE CONJUNTA. TRÁFICO PRIVILEGIADO. FRAÇÃO REDUTORA. AUSÊNCIA DE FUNDAMENTAÇÃO HÁBIL. DEDICAÇÃO A ATIVIDADES CRIMINOSAS NÃO COMPROVADAS. AÇÕES PENAIS EM CURSO. PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. "QUANTUM" MÁXIMO DE REDUÇÃO. RECURSO PARCIALMENTE PROVIDO.
+1. Não há falar em absolvição se os depoimentos das testemunhas policiais, além de harmônicos e coerentes, encontram-se em consonância com os demais elementos de prova acostados aos autos, em especial com as mídias acostadas aos autos que revelam que o réu realizou duas operações de vendas de drogas.
+2. A análise negativa da circunstância especial do artigo 42 da Lei n.º 11.343/2006 deve ser decotada, pois, embora se trate de droga altamente nociva e devastadora, a natureza do entorpecente deve ser analisada de forma conjunta com a quantidade, de modo que a comercialização de 5g (cinco gramas) de "crack" não justifica o incremento da pena-base.
+3. Inquéritos ou ações penais em curso não constituem fundamentos idôneos para afastar ou modular a fração de diminuição de pena do tráfico privilegiado, sob pena de violação do princípio constitucional da presunção de inocência.
+4. Recurso parcialmente provido.
+O Tribunal de origem manteve a condenação pela prática do crime de tráfico de drogas (art. 33, caput, da Lei n. 11.343/2006), e deu parcial provimento ao recurso de apelação, apenas para reduzir a pena, fixando-a em 1 ano e 8 meses de reclusão, e pagamento de 166 dias-multa, além de substituir a pena privativa de liberdade por duas restritivas de direitos.
+No recurso especial é apontada a ofensa ao art. 33 da Lei 11.343/2006 e art. 386, inc. VII, do Código de Processo Penal (CPP), sustentando a absolvição por falta de provas aptas a amparar o decreto condenatório. Entretanto, esse recurso não foi admitido, haja vista o óbice do enunciado n. 7 da Súmula do STJ.
+Portanto, pretende-se o provimento do agravo, a fim de ser conhecido o recurso especial.
+É o relatório.
+Decido.
+O recurso especial não foi admitido, pois o Tribunal de origem entendeu (fls. 354-355):
+ ..
+II - O recurso é tempestivo, o preparo é regular, as partes são legítimas e está presente o interesse em recorrer.
+Passo ao exame dos pressupostos constitucionais de admissibilidade.
+O apelo especial não reúne condições de prosseguir em relação à indicada violação dos artigos 33 da Lei 11.343/2006 e 386 do CPP. Isso porque, segundo remansoso entendimento da Corte Superior, "Alterar a conclusão a que chegaram as instâncias ordinárias e decidir pela absolvição do agravante demandaria, necessariamente, revolvimento do acervo fático-probatório delineado nos autos, procedimento que encontra óbice na Súmula 7/STJ (AgRg no AREsp n. 1.773.536/AM, Ministro Ribeiro Dantas, Quinta Turma, DJe de 17/8/2021).  ..  Concluindo o Tribunal de origem pela autoria e materialidade delitiva, a alteração do julgado, para fins de absolvição, demandaria revolvimento fático-probatório, o que não se admite a teor da Súmula 7/STJ" (REsp n. 1.805.173/MT, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/10/2022, DJe de 14/10/2022).
+Outrossim, "A condenação do recorrente foi mantida em razão da apuração probatória realizada no curso do processo. Assim, para se concluir de modo diverso, pela absolvição ou atipicidade da conduta, seria necessário o revolvimento fático-probatório, vedado conforme Súmula n. 7 do SUPERIOR TRIBUNAL DE JUSTIÇA - STJ" (AgRg no AgRg no AREsp n. 2.168.389/AL, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/3/2023, DJe de 9/3/2023).
+III - Ante o exposto, INADMITO o recurso especial.
+O recurso especial não foi admitido, pois nele pretende-se rediscutir fatos e provas, a fim de absolver o agravante, o que encontra óbice no enunciado n. 7 da Súmula desta Corte Superior, porque, para reformar o entendimento das instâncias ordinárias, é necessário reexaminar as provas dos autos, a fim de aferir se houve ou não a traficância.
+Na petição de agravo de fls. 360-381 não se demonstrou, eficientemente, como seria possível acolher os argumentos do recorrente sem o reexame de fatos e provas, haja vista que a defesa técnica, no geral, repetiu argumentos já expostos na petição de recurso especial de fls. 326-342.
+A ausência de impugnação adequada aos fundamentos apresentados pelo Tribunal de origem para não admitir o recurso especial, nos termos do art. 932, inc. III do Código de Processo Civil (CPC), obsta o conhecimento do agravo, porque o propósito desse recurso é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso anterior, por meio de impugnação específica de cada um deles.
+Incumbe ao agravante demonstrar o equívoco da decisão agravada, sendo imprescindível que impugne todos os óbices por ela apontados de maneira específica e suficientemente demonstrada (art. 932, III, do CPC, c/c art. 3º do CPP). E, por isso, no presente caso, aplica-se o óbice do enunciado n. 182 da Súmula do STJ.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
