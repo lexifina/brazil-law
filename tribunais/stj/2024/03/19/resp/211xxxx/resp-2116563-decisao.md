@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a" e "c", da CF, contra acórdão do TJSP assim ementado (e-STJ fl. 251):
+APELAÇÃO. VENDA E COMPRA DE BEM IMÓVEL. LOTE PARA CONSTRUÇÃO. AÇÃO DE RESTITUIÇÃO DE VALORES PAGOS. CONTRATO REGIDO PELA LEI  9.514/97 RELAÇÃO DE CONSUMO. CONFIGURAÇÃO. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR (CDC). SENTENÇA DE PARCIAL PROCEDÊNCIA.HONORÁRIOS ADVOCATÍCIOS. ARGUIÇÃO DEFENSIVA DA EXCEPTIO NON ADIMPLETI CONTRACTUS (EXCEÇÃO DO CONTRATO NÃO CUMPRIDO). INTELECÇÃO DO ART. 53 DO CÓDIGO DE DEFESA DO CONSUMIDOR (CDC). PREVALÊNCIA DA SÚMULA  543 DO C. SUPERIOR TRIBUNAL DE JUSTIÇA (STJ). SENTENÇA DE PROCEDÊNCIA MANTIDA. RECURSO IMPROVIDO.
+1- Resultou demonstrada a inexecução contratual sua rescisão foi causada pela parte autora.
+2- Ainda que tenha ocorrido por culpa dos compradores, estes têm direito a restituição parcial dos valores pagos, conforme disposto na Súmula 543 do C. STJ. Logo, improcede a pretensão de retenção integral dos valores desembolsados.
+Nas razões apresentadas (e-STJ fls. 261/271), a parte recorrente aponta dissídio jurisprudencial e ofensa aos arts. 22, caput, e § 1º, 26 e 27, §§ 4º e 5º, da Lei n. 9.514/1997 e à Súmula n. 543/STJ, afirmando que, na hipótese de rescisão do compromisso de compra e venda com cláusula de alienação fiduciária, a restituição de eventual saldo em favor da parte recorrida deveria observar as disposições da Lei de Alienação Fiduciária, em detrimento do CDC.
+Foram ofertadas contrarrazões (e-STJ fls. 330/338).
+O recurso foi admitido na origem (e-STJ fls. 339/341).
+É o relatório.
+Decido.
+A jurisprudência da Segunda Seção do STJ, firmada na sistemática dos recursos repetitivos, é no sentido de que, "em contrato de compra e venda de imóvel com garantia de alienação fiduciária devidamente registrado em cartório, a resolução do pacto, na hipótese de inadimplemento do devedor, devidamente constituído em mora, deverá observar a forma prevista na Lei nº 9.514/97, por se tratar de legislação específica, afastando-se, por conseguinte, a aplicação do Código de Defesa do Consumidor" (Recursos Especiais n. 1.891.498/SP e 1.894.504/SP, Relator Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 26/10/2022, DJe 19/12/2022).
+Entretanto, o acórdão recorrido contrariou tal entendimento ao aplicar a regra prevista no art. 53 do CDC e determinar que a parte recorrente devolvesse 80% (oitenta por cento) sobre os valores pagos pelos adquirentes. Confira-se o seguinte trecho (e-STJ fls. 253/258):
+Assinale-se, no caso, ser incontroverso que a rescisão do contrato se deu por culpa da parte compradora, que alegou não ter adimplido as parcelas em razão das dificuldades financeiras. Por isso, o ajuizamento da ação de repetição dos valores pagos.
+A jurisprudência se consolidou no sentido de que o comprador tem direito a rescindir o negócio, independentemente da existência de vício no contrato ou de inadimplemento da parte contrária, caso em que terá direito à devolução de parte dos valores pagos. Nesse sentido o verbete da Súmula nº 543 do Colendo Superior Tribunal de Justiça enuncia que:
+(..)
+E, uma vez rescindido o contrato por culpa da parte compradora (autora), de rigor que lhe seja restituído percentual dos valores que foram pagos à vendedora (ré), autorizando- se a retenção pelas despesas administrativas havidas por esta que, segundo jurisprudência do Colendo Superior Tribunal de Justiça (STJ), pode chegar até 25% dos valores pagos.
+(..)
+Outrossim, na fundamentação da sentença, o ilustre Juiz consigna:
+Inicialmente, deve-se reconhecer a aplicabilidade do Código de Defesa do Consumir na relação jurídica de direito material trazida para os autos, a qual traz a ré como fornecedora e os autores como consumidores.
+Os autores pleiteiam a rescisão do contrato de venda e compra de terreno, com retenção em favor da ré de apenas 10% do valor pago.
+A ré, por sua vez, disse que os autores não têm direito à devolução de qualquer valor e que não houve a venda do imóvel em leilão. Vale observar que o contrato de venda e compra com pacto de alienação fiduciária foi firmado em 13/02/2017 (fls. 23/40).
+É certo que o contrato prevê a alienação fiduciária do imóvel em favor da ré. Esta possui a propriedade resolúvel do imóvel, de acordo com o contrato, não havendo assim óbice ao pedido de rescisão.
+A lei 9.514/97 não deve ser aplicada ao caso, em que pese o contrato tenha sido registrado e o imóvel tenha sido reto mado. Tratando-se de relação de consumo, deve-se aplicar ao caso o Código de Defesa do Consumidor, o qual prevê em seu artigo 53 que "Nos contratos de compra e venda de móveis ou imóveis mediante pagamento em prestações, bem como nas alienações fiduciárias em garantia, consideram-se nulas de p leno direito as cláusulas que estabeleçam a perda total das prestações pagas em benefício do credor que, em razão do inadimplemento, pleitear a resolução do contrato e a retomada do produto alienado.
+Aos autores assistem direito à devolução de parte do valor que pagou, mas não de forma integral. Nesse sentido a súmula 01 do TJ/SP:
+Ante o exposto, DOU PROVIMENTO ao recurso especial, a fim de julgar improcedente o pedido autoral de rescisão do compromisso de compra e venda imobiliário com base no Código de Defesa do Consumidor e, por conseguinte, determinar a aplicação da Lei n. 9.514/1997 no procedimento de rescisão contratual.
+Em face da sucumbência, arcarão os recorridos com as custas e despesas processuais, além dos honorários advocatícios que fixo em 10% (dez por cento) do valor atualizado atribuído à causa, nos termos do art. 85, § 2º, do CPC/2015, observando-se, se for o caso, o benefício da gratuidade de justiça.
+Publique-se e intimem-se.
+EMENTA
