@@ -1,0 +1,24 @@
+DECISÃO
+Em análise, conflito negativo de competência suscitado pelo JUIZ DE DIREITO DA 2A VARA CÍVEL, CRIMINAL E DE EXECUÇÕES PENAIS DE CARANGOLA - MG em face do JUIZ DE DIREITO DA 1A VARA DE ÓRFÃOES E SUCESSÕES DE VILA VELHA - ES nos autos da ação movida por GIBRAN TEIXEIRA RODRIGUES em que postula expedição de alvará judicial para levantamento de valores depositados a título de FGTS.
+O feito versa sobre pedido de expedição de alvará judicial para levantamento de valores depositados na conta do FGTS de titularidade do falecido SEBASTIÃO RODRIGUES PEREIRA, em favor de seu filho GIBRAN TEIXEIRA RODRIGUES.
+Inicialmente, o pedido foi distribuído perante a Justiça Estadual do Espírito Santo. O suscitado declinou de sua competência ao fundamento de "o de cujus residia no município de CARANGOLA/MG e não nesta comarca", asseverando que a sucessão deve ser aberta no último domicílio do falecido e "Embora fixada segundo o critério territorial, deve-se entender absoluta a competência para o inventário, definida na previsão do art. 48 do CPC"".
+O juiz suscitante, por sua vez, assevera que "a lei processual não prevê a competência para a ação de alvará judicial - que não se confunde em hipótese alguma com ação de inventário -, de sorte que, com fulcro no art. 723, parágrafo único, do Código de Processo Civil, e no princípio de acesso à justiça, consagrado no inciso XXXV do artigo 5º da Constituição Federal, a competência deve ser a do foro do domicílio do requerente.. a competência não se sujeita à regra contida no art. 48 do CPC, que determina que o foro do domicílio do autor da herança será o competente para julgar os inventários, já que a lei especial não contém previsão expressa sobre a competência para julgamento do Alvará Judicial em casos como o presente".
+Em seu parecer, o Ministério público Federal opina pela declaração de competência do juiz suscitado.
+É o breve relatório. Decido.
+Conheço do conflito, porquanto suscitado entre juízos vinculados a tribunais diversos, nos termos do art. 105, I, d, da Constituição Federal.
+No caso concreto, tratando-se de hipótese de procedimento de jurisdição voluntária objetivando o levantamento de valores deixados pelo genitor falecido da parte requerente junto à Caixa Econômica Federal, deve ser aplicada a norma disposta no art. 48 do CPC/2015, in verbis:
+Art. 48. O foro de domicílio do autor da herança, no Brasil, é o competente para o inventário, a partilha, a arrecadação, o cumprimento de disposições de última vontade, a impugnação ou anulação de partilha extrajudicial e para todas as ações em que o espólio for réu, ainda que o óbito tenha ocorrido no estrangeiro.
+Parágrafo único. Se o autor da herança não possuía domicílio certo, é competente:
+I - o foro de situação dos bens imóveis;
+II - havendo bens imóveis em foros diferentes, qualquer destes;
+III - não havendo bens imóveis, o foro do local de qualquer dos bens do espólio.
+No entanto, é assente que a competência a que alude o caput desse dispositivo legal é de natureza relativa, o que atrai a incidência da Súmula nº 33 desta Corte, no sentido de que a incompetência relativa não pode ser declarada de ofício. Nesse sentido:
+COMPETÊNCIA. CONFLITO. CPC, ART. 96. FORO COMPETENTE. INVENTÁRIO. COMPETÊNCIA TERRITORIAL. NATUREZA RELATIVA. IMPOSSIBILIDADE DE DECLINAÇÃO DE OFÍCIO. ENUNCIADO Nº 33 DA SÚMULA/STJ. FALTA DE ATENÇÃO. CONFLITO CONHECIDO.
+I - Cuidando-se de competência territorial, cuja natureza relativa comporta prorrogação, não é dado ao juiz declarar-se incompetente de ofício, incidindo, no ponto, o enunciado nº 33 da sumula deste Tribunal. II - Nos termos do art. 96, CPC, é competente para processar o inventário o foro do domicílio do autor da herança, somente havendo superfície para outras considerações a esse respeito quando ele não tenha tido domicílio certo.
+III - Sem embargo do habitual e desumano excesso de serviço na Justiça, não se justifica que, em casos como o dos autos, não se dê a devida atenção à espécie, tornando ainda mais difícil, para o cidadão, a prestação jurisdicional. (CC 19.334/MG, Rel. Ministro SÁLVIO DE FIGUEIREDO TEIXEIRA, 2ª SEÇÃO, DJ de 25/2/2002).
+Ainda, sobre o tema: CC 102.965/BA, 1ª SEÇÃO, Rel. Ministro BENEDITO GONÇALVES, DJ de 06/04/2009; e CC 52.781/PR, 1ª SEÇÃO, Rel. Ministra ELIANA CALMON, DJ de 12/12/2005.
+No mesmo sentido, são as seguintes decisões monocráticas: CC 199.416/PB, Ministra NANCY ANDRIGHI, DJe de 06/09/2023; e CC 172.691/SP, Ministro SÉRGIO KUKINA, DJe de 30/09/2020.
+Dessa forma, é vedado ao órgão julgador declarar-se incompetente de ofício, ficando prorrogada a competência do Juízo a quem foi distribuído o feito.
+Isso posto, conheço do conflito para declarar competente o JUIZ DE DIREITO DA 1A VARA DE ÓRFÃOES E SUCESSÕES DE VILA VELHA - ES, suscitado.
+Intimem-se. Publique-se.
+EMENTA
