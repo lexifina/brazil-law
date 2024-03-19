@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 13/03/2024 a 19/03/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+CONSTITUCIONAL. RECLAMAÇÃO. CUMPRIMENTO DE ACÓRDÃO DO STJ CONSIDERADO DESRESPEITADO. PERDA DE OBJETO DO AGRAVO INTERNO.
+1. Nos termos do art. 105, I, f, da CF, c/c o art. 988 do CPC de 2015, e do art. 187 do RISTJ, cabe reclamação da parte interessada para garantir a autoridade das decisões do STJ.
+2. Quando o STJ conclui que houve ofensa à autoridade de decisão sua, reconhece a validade de cláusula de eleição e determina a remessa dos autos ao juízo competente e o juízo reclamado cumpre a determinação dada em reclamação, não há interesse da parte em preservar hipotética competência de outro juízo.
+3. Cumprida decisão monocrática em reclamação, esgota-se o objeto da ação.
+4. Agravo interno não conhecido. Litigância de má-fé reconhecida. Fixação de multa e de indenização à parte contrária.
+RELATÓRIO
+COMPANHIA DE GÁS DO AMAZONAS (CIGÁS) formula "pedido de reconsideração" da decisão de fls. 833-838, que rejeitou embargos de declaração opostos à decisão monocrática de fls. 559-564. Caso não reconsiderada a decisão, pleiteia que se receba como agravo interno a peça contra a referida decisão.
+Alega, primeiramente, que a decisão agravada feriu o princípio da colegialidade, porquanto o permissivo paradigma citado na decisão monocrática diz respeito a conflito de competência, e não a reclamação, o que afastaria sua aplicação (art. 489, § 1º, V, do CPC).
+Esta reclamação se originou do descumprimento da decisão do Superior Tribunal de Justiça proferida no AREsp n. 1.166.401/AM. Nela, foi acatada a exceção de incompetência do Juízo reclamado, bem como reconhecida a validade da cláusula de eleição de foro no contrato de fornecimento de gás com o fim de fixar a competência da Circunscrição Judiciária de Brasília (DF) para processar a execução provisória (Processo n. 0616259-11.2015.8.04.0001).
+Na decisão de fls. 559-564, julguei procedente a reclamação para garantir a autoridade do acórdão proferido pela Quarta Turma do STJ no AREsp n. 1.166.401/AM, determinando ao Juízo reclamado, em 48 horas, a remessa dos Processos n. 0651540-52.2020.8.04.0001, 0200312-74.2018.8.04.0001, 0651540-52.2020.8.04.0001 e demais incidentes à Circunscrição Judiciária de Brasília, ficando-lhe vedada a prolação de qualquer decisão nos citados autos.
+Houve oposição de embargos, devidamente rejeitados (fls. 833-838).
+Em petição anômala, a agravante pede que seja reconsiderada a decisão nos embargos ou que o pedido de reconsideração seja considerado como agravo interno.
+É o relatório.
+EMENTA
+CONSTITUCIONAL. RECLAMAÇÃO. CUMPRIMENTO DE ACÓRDÃO DO STJ CONSIDERADO DESRESPEITADO. PERDA DE OBJETO DO AGRAVO INTERNO.
+1. Nos termos do art. 105, I, f, da CF, c/c o art. 988 do CPC de 2015, e do art. 187 do RISTJ, cabe reclamação da parte interessada para garantir a autoridade das decisões do STJ.
+2. Quando o STJ conclui que houve ofensa à autoridade de decisão sua, reconhece a validade de cláusula de eleição e determina a remessa dos autos ao juízo competente e o juízo reclamado cumpre a determinação dada em reclamação, não há interesse da parte em preservar hipotética competência de outro juízo.
+3. Cumprida decisão monocrática em reclamação, esgota-se o objeto da ação.
+4. Agravo interno não conhecido. Litigância de má-fé reconhecida. Fixação de multa e de indenização à parte contrária.
+VOTO
+Em primeiro lugar, não há o que reconsiderar na decisão em embargos ora atacada. Com efeito, reconhecida a ofensa à autoridade da decisão do STJ e cumprida a reclamação pelo juiz, não há sequer interesse da parte em preservar a hipotética e esdrúxula competência do Juízo de Manaus. Além disso, não seria este agravo o instrumento adequado para rescindir o decidido no AREsp n. 1.166.401/AM.
+Registre-se que os embargos de declaração foram opostos a decisão monocrática de minha relatoria. O órgão competente para integrá-la é o próprio relator, e não o colegiado. O conhecimento deste agravo interno representaria a dilação indevida do prazo para agravo interno da decisão de fls. 559-564.
+Ainda que viável este recurso, nenhuma alegação prosperaria. Primeiramente, a decisão agravada não feriu o princípio da colegialidade. Trata-se de argumento protelatório, pois o relator está devidamente autorizado pelo art. 34, XVIII, a e b, do RISTJ e pela jurisprudência do STJ a proferir decisão monocrática no caso: " ..  a previsão do recurso de agravo interno contra as decisões monocráticas proferidas pelo relator, conforme o disposto no art. 259 do RISTJ, garante o princípio da colegialidade e, por isso, afasta a nulidade da decisão impugnada, haja vista a ausência de prejuízo para a parte (AgRg na Rcl n. 28.125/DF, relatora Ministra Laurita Vaz, Corte Especial, julgado em 16/12/2015, DJe de 24/2/2016).
+No mérito, o Juízo da 2ª Vara de Fazenda Pública de Manaus atendeu à decisão prolatada nesta reclamação e remeteu o processo ao Juízo competente, conforme o § 3º do art. 64 do CPC, tendo os autos sido distribuídos à 4ª Vara Cível do Tribunal de Justiça do Distrito Federal.
+Todas as demais alegações pretendem justificar a não remessa dos autos pelo Juízo de Manaus, o que não está mais em questão, pois não se reabre, neste processo, o mérito da própria incompetência daquele Juízo. Com efeito, o objeto desta reclamação não é a competência, já decidida, mas o desrespeito ao acórdão do STJ que, de modo definitivo, resolveu essa questão.
+Dessa maneira, a presente reclamação perdeu seu objeto, porquanto uma das razões para sua propositura era justamente a recalcitrância do Juízo em cumprir a decisão do STJ.
+Ante o exposto, não conheço do agravo interno pelos múltiplos fundamentos desenvolvidos neste voto.
+Diante do manifesto intuit o protelatório e emulativo deste agravo e do óbvio não cabimento do recurso, por repetir argumentos preclusos, indevidos nesta reclamação, provocando renovadas manifestações judiciais de modo abusivo, caracterizada está a má-fé na atuação da parte agravante, razão pela qual lhe imponho a pena de multa de 10% sobre o valor atualizado da causa e a condeno a ressarcir as despesas da reclamante, que arbitro em R$ 50 mil, nos termos dos arts. 80, VII, e 81, § 3º, do CPC.
