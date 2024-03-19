@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CAIXA BENEFICENTE DA POLICIA MILITAR DO ESTADO contra decisão de fls. 117/119, que não conheceu do recurso.
+Em suas razões, sustenta a parte embargante que:
+A decisão ora embargada não conheceu recurso do ente público, aplicando a Súmula 284/STF analogicamente, sob o argumento de que não teria sido indicado precisamente o dispositivo legal apontado como violado.
+Ao assim decidir, a decisão incorreu em omissão. Isso porque tanto o AREsp, como o REsp evidenciam, precisamente, o dispositivo violado pelo acórdão estadual: o art. 46 da Lei Federal nº 8.451/92.
+O AREsp indica tal violação na e-STJ Fl. 81 e, em seguida, dedica tópico específico do recurso(e-STJ Fl. 83-87), denominado "Violação ao artigo 46 da Lei Federal nº 8.541/92",a demonstrar a infringência ao dispositivo, inclusive ressaltando que o acórdão estadual diverge da jurisprudência do STJ(citando acórdão da 2ª Turma nos autos do AgInt no REsp 1.859.001/PR, Rel. Min. MAURO CAMPBELL MARQUES, j. em 19.10.2020).
+Por sua vez, o REsp também indica violação ao referido dispositivo em tópico específico (e-STJ Fl. 56-59), no qual evidencia a violação ao art. 46 da Lei Federal nº 8.541/92, também ressaltando que o acórdão paulista diverge da jurisprudência do STJ (RMS 31.784/CE, 2ª Turma, Rel. Min. CASTRO MEIRA, j. em 28.09.2010) - fl. 123.
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado expressamente na decisão embargada incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou objeto de divergência jurisprudencial.
+Em outras palavras, para que haja a admissão do recurso especial pela alínea "a" do permissivo constitucional - necessariamente - deve haver a indicação precisa dos dispositivos de lei federal violados e, pela alínea "c" do permissivo constitucional, deve haver a indicação precisa de quais dispositivos legais seriam objeto de dissídio interpretativo, não bastando, para ambos casos, a mera transcrição dos artigos legais.
+Neste ponto, impende salientar que a parte ora embargante, na petição do recurso especial, menciona genericamente alguns artigos sem, contudo, apontar especificamente se aqueles eram os artigos que considerava violado ou em que medida teria ocorrido a suposta violação.
+Por fim, consigne-se que não prosperam os argumentos do embargante quanto à indicação dos artigos de lei violados na petição de agravo em recurso especial, pois se mostra inviável a indicação posterior do dispositivo de lei federal violado, na medida em que os requisitos do recurso especial necessariamente devem ser preenchidos em concomitância com a sua interposição.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
+ EMENTA
