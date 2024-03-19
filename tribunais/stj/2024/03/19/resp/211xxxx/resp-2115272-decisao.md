@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por GLAUCIA POLIANA DE FARIAS FERNANDES, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), no qual se insurge contra o acórdão proferido pelo Tribunal Regional Federal da 5ª Região assim ementado (fl. 216):
+Administrativo. Ação ordinária promovida por Agente Penitenciário Fe deral, em regime de plantão, postulando a manutenção do Adicional Noturno em períodos de afastamentos previstos no art. 102 da Lei 8.112/90. O Adicional Noturno resulta em compensação financeira para o período de trabalho em condições especiais. Reforma da sentença. Precedente da 2ª Turma em sua composição ampliada. Inversão do ônus da sucumbência. Apelação provida.
+1. Trata-se de apelação ante sentença que julgou procedente o pedido para condenar a União a pagar à parte autora, Agente Federal de Execução Penal , as parcelas vencidas e vincendas do adicional noturno, nos períodos de férias, licenças para capacitação, tratamento de saúde e demais afastamentos da parte demandante tidos como de efetivo exercício pelo art. 102 da Lei 8.112/90.
+2. A discussão reside no fato de que , quando do afastamento do servidor, em situações consideradas de efetivo serviço, a parcela de Adicional Noturno deixaria de ser paga.
+3. Do conjunto probatório, verifico que, de acordo com as fichas financeiras, o trabalho do autor é exercido em escala de plantão, vinte e quatro horas de trabalho por setenta e duas horas de descanso, fazendo, portanto, jus ao pagamento do adicional noturno em relação ao período compreendido de vinte e duas horas de um dia às cinco horas do dia seguinte, demonstrando, assim, o caráter habitual ao recebimento da referida verba.
+4. A União afirma que, nos termos do art. 143, da Lei 11.907/09, o pagamento do adicional noturno, por tratar-se de vantagem transitória, somente seria devido, enquanto o servidor estivesse efetivamente exercendo o trabalho noturno.
+5. Com razão a União. Mesmo considerando a habitualidade no recebimento do Adicional Noturno, referida verba apresenta caráter isto é, é apenas devida enquanto o servidor estiver propter laborem, exercendo suas atividades sob condições específicas, dependendo da produtividade de cada agente.
+6. Precedente firmado na 2ª Turma desta Corte, em sua composição ampliada  0801540-90.2020.4.05.8401 - Apelação Cível - rel. des. Paulo Machado Cordeiro, julgado em 17 de maio de 2021
+7. Inversão do ônus da sucumbência.
+8. Apelação provida.
+Os embargos de declaração opostos foram rejeitados (fls. 256/258).
+Em suas razões recursais, a parte recorrente sustenta, além da ocorrência de divergência jurisprudencial, ofensa aos arts. 75 e 102 da Lei 8.112/1990. Alega, em síntese, que " é  evidente que o adicional noturno deve ser pago quando da fruição de licenças e em situações de afastamento temporário, haja vista que são períodos que se integram legalmente no tempo de serviço" (fl. 284).
+A parte adversa apresentou contrarrazões (fls. 297/305).
+O recurso foi admitido na origem (fl. 312 ).
+É o relatório.
+Em relação à controvérsia de que trata o recurso ora examinado, verifico que o Tribunal de origem adotou a orientação do Superior Tribunal de Justiça (STJ) segundo a qual o adicional noturno possui natureza propter laborem, motivo pelo qual, nos períodos de afastamento, o servidor não faz jus a ele.
+Nessa linha, inclusive, colaciono os seguintes julgados:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUPOSTA OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ADICIONAL NOTURNO SUPRIMIDO DA REMUNERAÇÃO NOS PERÍODOS DE AFASTAMENTO. NATUREZA PROPTER LABOREM. AGRAVO INTERNO NÃO PROVIDO.
+1. Quanto à alegada ofensa aos arts. 489 e 1.022 do CPC/2015, depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou da questão suscitada, portanto, de modo integral a controvérsia posta.
+2. O adicional noturno tem natureza propter laborem, pois são devidos aos servidores enquanto exercerem atividades no período noturno, ou seja, interrompida a atividade em condição especial, não mais se justifica o pagamento do referido adicional. Assim, nos períodos de afastamento, ainda que considerados como de efetivo exercício, não há razão para o pagamento do referido adicional.
+3. Agravo interno não provido. (AgInt no REsp n. 2.089.998/RN, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 27/11/2023, DJe de 30/11/2023.)
+PROCESSUAL CIVIL. ADICIONAL NOTURNO SUPRIMIDO DA REMUNERAÇÃO NOS PERÍODOS DE AFASTAMENTO. NATUREZA PROPTER LABOREM DE VIDA ENQUANTO EXERCIDAS ATIVIDADES NO PERÍODO NOTURNO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação objetivando o pagamento de parcelas vencidas e vincendas de adicional noturno, o qual é suprimido da remuneração nos períodos de férias, licença para capacitação, tratamento de saúde e demais afastamentos tidos como de efetivo exercício. Na sentença o pedido foi julgado procedente. No Tribunal a quo, a sentença foi mantida.
+II - O adicional noturno tem natureza propter laborem, pois são devidos aos servidores enquanto exercerem atividades no período noturno, ou seja, interrompida a atividade em condição especial, não mais se justifica o pagamento do referido adicional.
+III - Assim, nos períodos de afastamento, ainda que considerados como de efetivo exercício, não há razão para o pagamento do referido adicional.
+IV - Nesse sentido, mutatis mutandis: AgInt no REsp n. 1.815.875/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 28/10/2019, DJe 4/11/2019; REsp n. 1.400.637/RS, relator Ministro Humberto Martins, Segunda Turma, julgado em 17/11/2015, DJe 24/11/2015; REsp n. 504.343/RS, relatora Ministra Laurita Vaz, Quinta Turma, julgado em 14/6/2007, DJ 6/8/2007, p. 603.
+V - Agravo interno improvido. (AgInt no REsp n. 1.956.086/RN, relator Ministro Francisco Falcão, Segunda Turma, julgado em 11/4/2022, DJe de 18/4/2022.)
+Cito ainda as seguintes decisões monocráticas: REsp 2115644, Ministro BENEDITO GONÇALVES, DJe 21/02/2024; REsp 2113338, Ministro GURGEL DE FARIA, DJe 04/03/2024; REsp 2114473, Ministro SÉRGIO KUKINA, DJe 06/03/2024 e REsp 2115275, Ministra REGINA HELENA COSTA, DJe 08/02/2024.
+Ante o exposto, nego provimento ao recurso especial.
+Por fim, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimações necessárias.
+EMENTA
