@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de CELSO LUIZ DA SILVA JUNIOR contra o v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente teve o pedido de indulto indeferido pelo Juízo da execução por não preencher os requisitos do Decreto Presidencial n. 11.302/22.
+Irresignada, a defesa interpôs agravo em execução perante o Tribunal de origem, que negou provimento ao recurso, nos termos do acórdão juntado às fls. 60-63.
+No presente writ, o impetrante sustenta que faz jus ao indulto, ao argumento de que os crimes sujeitos ao indulto, quais sejam, receptação e furto, não foram cometidos em concurso com o crime impeditivo.
+Ressalta, ainda, que "o entendimento recentíssimo deste Superior Tribunal de Justiça é no sentido de que "apenas no caso de crime impeditivo cometido em concurso com crime não impeditivo que se exige o cumprimento integral da reprimenda dos delitos da primeira espécie. Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não há de se exigir o cumprimento integral da pena pelos crimes impeditivos." (HC AgRg no HC n. 856.053/SC)." - fl. 4.
+Requer, ao final, a concessão da ordem, para "determinar ao juízo das execuções criminais análise novamente o pedido de indulto com base no decreto 11.302/2022 de acordo com a jurisprudência atual deste Superior Tribunal, ou seja, analisando-se as execuções separadamente, em especial as que não foram cometidas em concurso material com crimes impeditivos." - fl. 7.
+A liminar foi indeferida (fls. 69-70).
+As informações foram prestadas às fls. 75-83.
+O Ministério Público Federal, às fls. 87-92, manifestou-se nos termos da seguinte ementa:
+EXECUÇÃO PENAL E PROCESSUAL PENAL. HABEAS CORPUS UTILIZADO COMO SUCEDÂNEO DE RECURSO PRÓPRIO. PEDIDO DE CONCESSÃO DO INDULTO NATALINO. DECRETO PRESIDENCIAL N. 11.302/22. NÃO PREENCHIMENTO DO REQUISITO DE ORDEM OBJETIVA. PENDENTE O CUMPRIMENTO INTEGRAL DAS PENAS DOS CRIMES IMPEDITIVOS. AUSÊNCIA DE MANIFESTA ILEGALIDADE. PELO NÃO CONHECIMENTO DO WRIT E, CASO CONHECIDO, PELA DENEGAÇÃO DA ORDEM DE HABEAS CORPUS.
+1 - Incabível a impetração de habeas corpus em substituição ao recurso legalmente previsto, ressalvadas as hipóteses de flagrante ilegalidade no ato judicial impugnado, razão pela qual o não conhecimento da impetração é medida que se impõe;
+2 - O Paciente não faz jus ao benefício do indulto natalino de que trata o art. 5º do Decreto Presidencial n. 11.302/2022, ao crime indutável, uma vez que ainda se encontra cumprindo pena pelo delito impeditivo, não preenchendo o requisito do parágrafo único do art. 11 do aludido Decreto;
+PARECER PELO NÃO CONHECIMENTO DO WRIT E, SE CONHECIDO, PELA DENEGAÇÃO DA ORDEM DE HABEAS CORPUS.
+É o breve relatório.
+Decido.
+O impetrante sustenta que faz jus ao indulto, ao argumento de que os crimes sujeitos ao indulto, quais sejam, receptação e furto, não foram cometidos em concurso com o crime impeditivo.
+Ressalta, ainda, que "o entendimento recentíssimo deste Superior Tribunal de Justiça é no sentido de que "apenas no caso de crime impeditivo cometido em concurso com crime não impeditivo que se exige o cumprimento integral da reprimenda dos delitos da primeira espécie. Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não há de se exigir o cumprimento integral da pena pelos crimes impeditivos." (HC AgRg no HC n. 856.053/SC)." - fl. 4.
+Acerca da controvérsia, colhe-se do acórdão impetrado (fls. 61-63):
+O recurso não deve ser provido.
+O indeferimento do pedido de indulto formulado em favor do ora agravante teve como fundamento o disposto no artigo 11, parágrafo único do Decreto Presidencial nº 11.302/2022, que assim dispõe:
+ ..
+Constata-se que o agravante cumpre pena privativa de liberdade total de cento e setenta e oito anos, sete meses e vinte e seis dias, tendo cumprido doze anos, nove meses e vinte e seis dias, observados a remição de um mês e seis dias e o seu início em 1º de janeiro de 2004. A pena a descontar monta dezessete anos e vinte e oito dias e seu término está previsto para 13 de janeiro de 2089 (fls. 04/28).
+As condenações em relação às quais ele postula o reconhecimento do indulto são objetos de condenações por crimes de furto (artigo 155, caput, do Código Penal) e receptação (artigo 180, caput, do Código Penal), delitos que tem seu preceito secundário em abstrato estabelecido com penas máximas inferiores a cinco anos.
+Ocorre que as condenações com pena a cumprir pelo agravante decorrem de doze execuções penais unificadas, inclusive por crimes praticados mediante violência ou grave ameaça de natureza impeditiva, consoante certidão de fls. 53, nos termos do artigo 7º, inciso II, c.c. o artigo 11, parágrafo único do referido Decreto Presidencial. Há, também condenações a cumprir por delitos com pena máxima em abstrato superior a cinco anos, impeditivos da benesse, portanto, consoante disposto no artigo 5º do Decreto Presidencial.
+O adimplemento do prazo para a obtenção do indulto previsto pelo Decreto Presidencial de 2022, conforme cálculos elaborados, dar-se-á em 12 de novembro de 2045 (fls. 53).
+ ..
+Por tal quadro, a decisão que indeferiu o indulto não comporta alteração.
+Ante o exposto, pelo meu voto, nega-se provimento ao agravo em execução.
+No caso, o paciente teve o pedido de indulto indeferido pelo Juízo da execução por não preencher os requisitos do Decreto Presidencial n. 11.302/22.
+O Tribunal de origem, por sua vez, manteve o indeferimento da benesse com fundamento no art. 11, parágrafo único do referido decreto presidencial consignando que "as condenações com pena a cumprir pelo agravante decorrem de doze execuções penais unificadas, inclusive por crimes praticados mediante violência ou grave ameaça de natureza impeditiva, consoante certidão de fls. 53, nos termos do artigo 7º, inciso II, c.c. o artigo 11, parágrafo único do referido Decreto Presidencial." e "Há, também condenações a cumprir por delitos compena máxima em abstrato superior a cinco anos, impeditivos da benesse, portanto, consoante disposto no artigo 5º do Decreto Presidencial.".
+A motivação acima se encontra em contraste com o entendimento desta Corte, pois, no julgamento do HC n. 856.053/SC, a Terceira Seção firmou a compreensão de que "Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não há de se exigir o cumprimento integral da pena pelos crimes impeditivos", o que possibilita a concessão de indulto para os crimes que preenchem os requisitos previstos no decreto em apreço, quando cometidos em contextos fáticos distintos.
+Da análise das informações prestadas pelo juízo de primeiro grau (fl. 75), verifica-se que o agravante foi condenado em duas oportunidades pelos crimes previstos nos 157, §1º, §2º, I e II; art. 157, §2º, I e II, do Código Penal e uma condenação pela prática de furto e outra pela prática de receptação, sendo somente os delitos de roubo majorados, impeditivos da concessão do indulto, na forma do art. 7º, II, do Decreto n. 11.302/2022.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO NATALINO (DECRETO PRESIDENCIAL N. 11.302/2022). INTERPRETAÇÃO RESTRITIVA. ART. 11, PARÁGRAFO ÚNICO, DO REFERIDO DECRETO. CONDENAÇÃO POR CRIME IMPEDITIVO E CRIME NÃO IMPEDITIVO. CONCURSO NÃO CARACTERIZADO. POSSIBILIDADE DE INDULTO. PRECEDENTE.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, o decreto de indulto deve ser interpretado restritivamente, sob pena de invasão do Poder Judiciário na competência exclusiva da Presidência da República, conforme art. 84, XII, da Constituição Federal.
+2. Para fins do referido decreto, apenas no caso de crime impeditivo cometido em concurso com crime não impeditivo que se exige o cumprimento integral da reprimenda dos delitos da primeira espécie. Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não há de se exigir o cumprimento integral da pena pelos crimes impeditivos.
+3. Agravo regimental improvido.(AgRg no HC n. 856.053/SC, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 8/11/2023, DJe de 14/11/2023.)
+Ante o exposto, concedo o habeas corpus, determinando o retorno dos autos ao juízo da execução, para nova análise, afastando-se o impedimento referente à existência de concurso de crimes.
+Publique-se.
+Intimem-se.
+EMENTA
