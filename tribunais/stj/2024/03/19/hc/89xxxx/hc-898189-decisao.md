@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de PAULO HENRIQUE LIMA MONTEIRO, condenado pela prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006, à pena de 5 anos de reclusão, no regime inicial fechado, bem como ao pagamento de 500 dias-multa (Processo n. 1500550-79.2023.8.26.0594, da 3ª Vara Criminal da comarca de Bauru/SP).
+Aponta-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO, que, em 8/32/2024, negou provimento à apelação defensiva.
+Requer-se, em liminar, seja o paciente posto em liberdade até o julgamento do mérito do writ. Ao final, busca-se a concessão da ordem para aplicar a causa redutora de pena nos moldes do art. 33, § 4º, da Lei n. 11.343/2006, fixar o regime inicial aberto ou, ao menos, o semiaberto e substituir a pena corporal por restritiva de direitos.
+É o relatório.
+A ilegalidade passível de justificar a impetração de habeas corpus substitutivo de recurso especial deve ser manifesta, de constatação evidente e que não demande o revolvimento do contexto fático-probatório da ação penal, o que, na espécie, não ocorre.
+No caso, pela leitura do acórdão impugnado, percebe-se que a questão referente ao reconhecimento do tráfico privilegiado esbarra inevitavelmente no inadmissível reexame de fatos e de provas, providência descabida na via eleita. Neste âmbito, não há como concluir que o paciente é pequeno traficante ou traficante eventual, não envolvido com organização criminosa, destinatário da benesse legal, e assim afastar o entendimento das instâncias ordinárias de que ele se dedicava à atividade criminosa. Situação, aliás, confirmada pelo próprio réu em juízo.
+Ora, é incabível, neste âmbito, o reexame de testemunhos ou de qualquer outra prova para se chegar a conclusão diferente da consignada pelo Juiz e pelo Tribunal local.
+A propósito, AgRg no HC n. 745.106/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 9/8/2022; e AgRg no HC n. 871.524/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 11/12/2023.
+No que diz respeito ao regime de cumprimento da reprimenda, não obstante o quantum final da pena, houve o reconhecimento de circunstância judicial desfavorável na primeira fase da dosimetria da pena.
+Ora, conforme nossos precedentes, apesar de o montante da sanção, superior a 4 e inferior a 8 anos permitir, em tese, a fixação do regime prisional intermediário, deve ser mantido o regime prisional inicial mais gravoso, ante a existência de circunstância judicial negativa, tanto que a pena-base foi fixada acima do mínimo legal, o que, segundo a jurisprudência desta Corte, é condição apta a recrudescer o regime prisional, nos moldes do art. 33, § 3º, do Código Penal e art. 42 da Lei de Drogas (AgRg no HC n. 871.668/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 15/12/2023).
+A substituição da reprimenda não tem cabimento por falta dos pressupostos objetivos.
+Pelo exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se .
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESCABIMENTO. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. REDUTOR PREVISTO NO § 4º DO ART. 33 DA LEI N. 11.343/2006. IMPOSSIBILIDADE. DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS. REVOLVIMENTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. ALTERAÇÃO DO REGIME PRISIONAL E SUBSTITUIÇÃO DA PENA. AUSÊNCIA DOS PRESSUPOSTOS LEGAIS. MONTANTE DA PENA E CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL.
+Writ indeferido liminarmente.
