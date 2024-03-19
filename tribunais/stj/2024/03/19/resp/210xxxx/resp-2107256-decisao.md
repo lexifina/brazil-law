@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por ADMIR BEIRA FAVERO (ADMIR), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça de Mato Grosso, assim ementado:
+RECURSO DE APELAÇÃO CÍVEL - AÇÃO DE REINTEGRAÇÃO DE POSSE - EVENTUAL SUSPEIÇÃO E CERCEAMENTO DO DIREITO À AMPLA DEFESA - PRELIMINARES REJEITADAS - CONJUNTO PROBATÓRIO QUE DEMONSTRA A POSSE ANTERIOR DOS REQUERENTES, ORA APELADOS - PREENCHIMENTO DOS REQUISITOS DO ARTIGO 561 DO CÓDIGO DE PROCESSO CIVIL - SENTENÇA MANTIDA - RECURSO NÃO PROVIDO.
+1. A suspeição de magistrados está estabelecida nos artigos 145 e 146 do Código de Processo Civil, que, conforme simples leitura dos referidos artigos não contempla a alegação de "eventual suspeição".
+2. Diferentemente do que tenta fazer crer o requerido, ora apelante, o indeferimento da oitiva da testemunha por ele arrolada somente ocorreu pela sua própria desídia, haja vista que, descumprindo o disposto no § 1º do artigo 455 do Código de Processo Civil, não trouxe aos autos o comprovante do aviso de recebimento acerca da correspondência de intimação da sua testemunha.
+3. Comprovado que os requisitos elencados no artigo 561 do Código de Processo Civil foram preenchidos pelos requerentes, ora apelados, o inconformismo do requerido, ora apelante, não encontra o mínimo fundamento para a reforma da sentença recorrida (e-STJ, fl. 994).
+Os embargos de declaração opostos por ADMIR foram rejeitados (e-STJ, fls. 1.047/1.053).
+Nas razões do presente recurso, ADMIR alegou, a par de divergência jursprudencial, a violação aos arts. 455, § 1º, 489, § 1º, IV e VI, e 1.022, I e II, do CPC, ao sustentar (1) omissão do acórdão recorrido acerca da alegação de que, configura formalismo exacerbado o indeferimento de produção da prova oral, tendo em vista que a comprovação da intimação da testemunha foi feita pessoalmente, por meio de carta convite juntada aos autos com antecedência do prazo legal d e 3 (três) dias, em vez de carta com aviso de recebimento; e (2) a ocorrência de cerceamento de defesa pelo inferimento da oitiva da testemunha indicada pelo ora recorrente, tendo em vista que que a intimação por carta com aviso de recebimento, assim como exigiram as instâncias ordinárias, não é obrigatória.
+Foram apresentadas contrarrazões (e-STJ, fls. 1.126/1.137).
+É o relatório.
+Decido.
+O recurso merece prosperar, em parte.
+Trata-se de ação de reintegração de posse ajuizada por GUSTAVO SCHENFELDER SALGUEIRO e CARLOS ALBERTO ALMEIDA DE OLIVEIRA contra ADMIR, tendo por objeto 2 (dois) lotes urbanos localizados no bairro Jardim Buenos Aires, na cidade de Várzea Grande-MT, sob a alegação de que os réus teriam edificado um muro que ultrapassou os limites dos seus imóveis.
+Em primeira instância, o pedido foi julgado procedente, para reintegrar os autores na posse dos bens imóveis indicados na petição inicial, tendo sido a sentença confirmada, em todos os seus termos, pelo TJMT, em grau recursal.
+(1) Da violação dos arts. 489, § 1º, IV e VI, e 1.022, I e II, do CPC
+No caso, o TJMT manteve o indeferimento da oitiva da testemunha indicada pelo réu, ora insurgente, ao fundamento de que a negativa decorreu da sua própria desídia, haja vista que, descumprindo o disposto no § 1º do art. 455 do CPC, o demandado não trouxe aos autos o comprovante do aviso de recebimento acerca da correspondência de intimação da sua testemunha.
+Nas razões do recurso especial, ADMIR indicou, preliminarmente, omissão do acórdão estadual acerca da alegação de que, configura formalismo exacerbado o indeferimento de produção da prova oral, tendo em vista que a comprovação da intimação da testemunha foi feita pessoalmente, por meio de carta convite juntada aos autos com antecedência do prazo legal de 3 (três) dias, em vez de carta com aviso de recebimento.
+Da análise dos autos, constata-se que o ponto suscitado não foI alvo de manifestação por parte do acórdão recorrido, o que impede que o STJ examine a matéria, por envolver juízo de valor acerca de questão fática, a impedir a aplicação do prequestionamento ficto, nos termos do que dispõe o art. 1.025 do CPC.
+Assim, tendo sido o recurso especial interposto por ofensa ao art. 1.022 do CPC e, em face da relevância da questão suscitada, revela-se necessário o debate acerca do ponto acima destacado, de modo que a prestação jurisdicional seja dada de forma completa ao recorrente.
+Nesse sentido, confiram-se os seguintes precedentes desta egrégia Corte Superior:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL E NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. PLANO DE SAÚDE. IMPUGNAÇÃO DA DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182.INCIDÊNCIA. RESCISÃO CONTRATUAL. MUDANÇA DE FAIXA ETÁRIA. ART. ART. 1.022 DO CPC/2015. OMISSÃO. OFENSA CONFIGURADA.
+1. Não merece conhecimento o agravo que não impugna, especificamente, todos os fundamentos da decisão denegatória de seguimento ao recurso especial.
+2. Há ofensa ao art. 1022 do CPC quando o Tribunal de origem deixa de se manifestar expressamente sobre questão suscitada nos autos e relevante para o julgamento da causa.
+3. Agravo interno no agravo em recurso especial não provido para manter o não conhecimento do agravo em recurso especial de LUIZ CARLOS STOCKER e o conhecimento e provimento do recurso especial de COMPANHIA DE SEGUROS ALIANÇA DO BRASIL.
+(AgInt no REsp n. 1.711.626/RS, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado aos 2/8/2018, DJe de 10/8/2018 - sem destaque no original.)
+AGRAVO INTERNO. RECURSO ESPECIAL. CONTRATO DE HONORÁRIOS ADVOCATÍCIOS. RESCISÃO DO CONTRATO.ARBITRAMENTO JUDICIAL. HONORÁRIOS DE SUCUMBÊNCIA.DANOS MORAIS. EXORBITÂNCIA. AUSÊNCIA DE EXAME. ARTIGO 1.022 DO CPC/2015.
+1. Presente um dos vícios elencados no artigo 1.022 do Código de Processo Civil, é devida a devolução dos autos à origem para rejulgamento dos embargos de declaração e completa prestação jurisdicional.
+2. Agravo interno provido para dar parcial provimento ao recurso especial.
+(AgInt no REsp n. 1.708.003/BA, relator Ministro LÁZARO GUIMARÃES, relator p/ acórdão Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado aos 7/8/2018, DJe de 21/8/2018 - sem destaque no original.)
+É condição sine qua non ao conhecimento do especial que as questões de direito e de fato ventiladas nas razões de recurso tenham sido analisadas pelo acórdão objurgado.
+É medida de rigor, portanto, o retorno dos autos à Corte estadual para que seja sanada a omissão apontada, ficando prejudicada a análise da questão de fundo.
+Nessas condições, DOU PARCIAL PROVIMENTO ao recurso especial para, reconhecida a ofensa ao art. 1.022 do CPC, determinar o retorno dos autos ao TJMT para que analise a questão trazida nos embargos de declaração, como entender de direito.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. PRODUÇÃO DE PROVA TESTEMUNHAL. VIOLAÇÃO DO ART. 1.022 DO CPC. OCORRÊNCIA. ALEGAÇÃO DE OMISSÃO DO ACÓRDÃO RECORRIDO ENVOLVENDO QUESTÃO RELEVANTE LEVANTADA NOS ACLARATÓRIOS. RECUSA DE ENFRENTAMENTO DO TEMA. NEGATIVA DA COMPLETA PRESTAÇÃO JURISDICIONAL. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
