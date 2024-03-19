@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo interposto contra a decisão que inadmitiu o recurso especial de SÉRGIO PAULO GROTTI no qual se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), contra a decisão de intempestividade do recurso especial.
+De acordo com a decisão de fl. 595, o Tribunal de origem constatou o seguinte: "Analisando os autos, verifica-se que a interposição do recurso ocorreu após o prazo estabelecido no art. 1.003, § 5º, do Código de Processo Civil, conforme certidão lançada pela Subsecretaria no ID 274220412, sendo, portanto, intempestivo".
+A parte agravante defende a tempestividade do recurso especial ao argumento de que "a certidão expedida no id. 274220412, a qual indica que o Recurso Especial manejado pelo agravante fora interposto fora do prazo, a mesma está equivocada por não considerar, na contagem do prazo recursal, os feriados da Semana Santa (5, 6 e 7 de Abril) e Tiradentes (21 de abril), feriados estes onde o E. TRF 3ª Região não houve expediente" (fls. 599/600).
+Requer o provimento do recurso.
+A parte adversa não apresentou contraminuta, conforme certidão de fl. 631.
+É o relatório.
+O prazo do recurso especial é de 15 (quinze) dias úteis, a teor do disposto nos arts. 219, caput, e 1.003, § 5º, do Código de Processo Civil (CPC) de 2015.
+A intimação do acórdão foi disponibilizada no DJe em 27/3/2023 (fl. 584), considerando-se a data da publicação o primeiro dia útil subsequente, 28/3/2023.
+Por conseguinte, o período para a interposição do recurso especial iniciou-se em 29/3/2023 (quarta-feira) e encerrou-se em 24/4/2023 (segunda-feira), considerando a suspensão dos prazos processuais nos dias 5, 6 e 7/4/2023 (Semana Santa) e 21/4/2023 (Tiradentes), comprovada às fls. 587/588.
+O recurso foi interposto no dia 24/4/2023 (fl. 562), de modo que é de rigor afastar a intempestividade do recurso especial pelos fundamentos aqui enumerados.
+Sendo assim, acolho os argumentos do agravante para afastar a intempestividade do recurso especial e passo à sua análise.
+Trata-se de recurso especial interposto por SÉRGIO PAULO GROTTI, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF) de 1988, no qual se insurge contra o acórdão proferido pelo Tribunal Regional Federal da 3ª Região assim ementado (fl. 548) :
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. PRINCÍPIO DA CAUSALIDADE. HONORÁRIOS ADVOCATÍCIOS INCABÍVEIS. APELAÇÃO NÃO PROVIDA.
+1. A execução foi regularmente proposta para cobrança dos créditos constantes da CDA, portanto, foi a executada que, em última análise, deu causa à inscrição dos débitos em dívida ativa e ao ajuizamento da presente execução fiscal.
+2. Conquanto a prescrição intercorrente tenha sido declarada pelo transcurso do lapso prescricional quinquenal, fato é que o responsável pelo ajuizamento do presente feito é o executado, o qual deixou de pagar o débito no prazo legal e, ajuizada a execução fiscal, deixou de indicar bens para quitação do crédito tributário ou indicou bens para a satisfação de tal valor.
+3. Deste modo, por aplicação do princípio da causalidade, que estabelece a responsabilidade pelo pagamento dos honorários advocatícios e das despesas processuais àquele que deu causa à instauração do processo, não há como condenar a exequente aos honorários advocatícios na espécie, em que reconhecida a prescrição intercorrente.
+4. Apelação não provida.
+A questão debatida nos autos, qual seja, "definir se é cabível a condenação ao pagamento de honorários advocatícios na exceção de pré-executividade acolhida para extinguir a execução fiscal, ante o reconhecimento da prescrição intercorrente, prevista no art. 40 da Lei n. 6.830/1980", encontra-se afetada à Primeira Seção desta Corte Superior aguardando o julgamento final dos Recursos Especiais 2.046.269/PR, 2.050.597/RO e 2.076.321/SP, de relatoria do Ministro Gurgel de Faria, sob o rito dos recursos repetitivos (Tema 1.229 do Superior Tribunal de Justiça - STJ).
+Nos termos do art. 34, XXIV, c/c o art. 256 -L, I, ambos do Regimento Interno do Superior Tribunal de Justiça (RISTJ), a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC, após a publicação do acórdão dos recursos excepcionais representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC.
+Publique-se. Intimações necessárias.
+ EMENTA
