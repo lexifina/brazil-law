@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão assim ementado (fls. 29-31):
+PROCESSUAL PENAL - HABEAS CORPUS - CRIME DE ROUBO MAJORADO (ART. 157, § 2º, INCISOS I, II, DO CÓDIGO PENAL, POR 14 VEZES, EM CONCURSO FORMAL - ARTIGO 70 DO CP) - ALEGAÇÃO DE VÍCIO DA CITAÇÃO POR EDITAL ANTE O NÃO ESGOTAMENTO DOS MEIOS DISPONÍVEIS -CUMPRIMENTO ORDINÁRIO DE DILIGÊNCIAS - AUSÊNCIA DE NULIDADE - PACIENTE DEVIDAMENTE ASSISTIDO PELA DEFESA - PELA DENEGAÇÃO DA ORDEM  DECISÃO UNÂNIME.
+1. Ação Penal em trâmite na origem em desfavor do ora paciente. Condenação pela prática do crime do art. 157, §2º, I e II, do CP, por 14 vezes, em concurso formal, na modalidade do art. 70 do CP;
+2. Citação por edital. Instituto que objetiva não refrear a marcha processual nas hipóteses que a parte não é localizada para compor a lide, enaltecendo-se com isso o mandamento constitucional da razoável duração do processo;
+3. Empreendidos atos tendentes a ultimar a citação do ora paciente, de modo a angularizar a relação processual, não sendo exitosa por circunstâncias que não recaíram sobre a atuação do aparato do Poder Judiciário;
+4. Defesa que não logrou êxito em demonstrar o efetivo prejuízo suportado pelo paciente. Assistência jurídica integral ofertada ao paciente durante o curso do processo. Ausência de nulidade;
+5. Ordem denegada, à unanimidade.
+Consta dos autos que o paciente foi condenado pela prática do delito previsto no art. 157, § 2º, incisos I e II, do Código Penal, por 14 vezes, em concurso formal, à pena de 12 anos de reclusão e 28 dias-multa, a ser cumprida em regime inicial fechado.
+No presente writ, a defesa sustenta nulidade decorrente de cerceamento de defesa, ao argumento de que não foram esgotados todos os meios possíveis para que o acusado fosse localizado e tivesse comparecido à audiência, o que lhe gerou prejuízo.
+Argumenta que, face aos predicativos favoráveis, a prisão preventiva pode ser substituída por medidas cautelares menos gravosas.
+Requer, liminarmente e no mérito, a concessão da ordem, a fim de revogar a prisão preventiva, expedindo-se o competente alvará de soltura, ainda que com a imposição de medidas cautelares previstas no art. 319 do Código de Processo Penal, bem como a decretação da nulidade absoluta, por não ter sido esgotado todos os meios para a localização do paciente.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pela denegação da ordem.
+De início, verifica-se que a tese relativa à possibilidade de substituição da prisão cautelar por medidas alternativas não foi apreciada pela Corte de origem, o que obsta a apreciação da questão por esta Corte Superior, sob pena de se incorrer em indevida supressão de instância.
+Não debatido o pleito pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC n. 126.604/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/12/2020, DJe 16/12/2020).
+Noutro ponto, quanto ao pedido de reconhecimento da nulidade absoluta do feito, em virtude do não esgotamento dos meios possíveis para que o acusado fosse localizado, consta do acórdão impugnado:
+ ..  Sob esse norte, o Parecer lançado pela Procuradoria de Justiça consignou:
+"(..) Restando infrutífera, entretanto, a tentativa de sua localização nos endereços constantes dos autos (".. justamente porque não foi encontrado nos endereços indicados nos autos para fins de intimação, conforme certidões de fls. 237, 323 e 327", consoante ressaltou a d. Representante do Parquet, acima) e sendo necessário imprimir-se andamento à marcha da ação penal, o legislador ordinário previu a utilização da chamada citação (ou intimação, quanto à sentença, no caso particular) por edital, a fim de que o processo não fique paralisado à mercê do encontro da parte ré.
+Dessa forma, em deferência à garantia da ampla defesa, entende-se, pacificamente, que se deve proceder à tal modalidade de comunicação dos atos processuais, sempre que, esgotadas as providências disponíveis, capazes de viabilizar o achado do réu.
+Obtempere-se, todavia, que se constitui exigência absoluta para o desiderato, que se proceda a uma pesquisa nos cadastros de todos os órgãos onde o acusado possa ter declinado suas informações pessoais.
+Em consulta ao Sistema de Controle Processual do Egrégio Tribunal de Justiça de Sergipe, nos autos do Processo de Origem nº 201690090145, entende-se que foram cumpridas as ordinárias diligências visando à citação, assim como, intimação do Réu quanto à sentença penal condenatória, e que não lograram êxito, não por fatos, entretanto, atribuíveis a Órgão judiciário.
+Assim, não procede a alegação de nulidade decantada pela Defesa, em que pesem os argumentos tecidos".(Destacado)
+Percuciente concluir que foram empreendidos atos tendentes a ultimar a citação do ora paciente, de modo a angularizar a relação processual, não sendo exitosa por circunstâncias que não recaíram sobre a atuação do aparato do Poder Judiciário.
+Exsurge mencionar também que para a declaração de nulidade, imperiosa a observância ao que preconiza no art. 563 do CPP: Nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa.
+Com efeito, em que pese o esforço argumentativo projetado, a defesa não logrou êxito em demonstrar o efetivo prejuízo suportado pelo paciente.
+Ao revés, deflui-se dos autos que o réu Tiago de Jesus Lima não ficou indefeso e usufruiu de integral assistência jurídica durante o curso do feito.
+"A Lei Processual Penal em vigor adota, nas nulidades processuais, o princípio pas de nullité sans grief, segundo o qual somente há de se declarar a nulidade se, alegada em tempo oportuno, houver demonstração ou comprovação de efetivo prejuízo para a parte" (AgRg no REsp n. 1.873.507/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 25/8/2020, DJe de 4/9/2020.)
+No caso, o acórdão destaca que a defesa não logrou demonstrar o prejuízo suportado, pois o paciente "usufruiu de integral assistência jurídica durante o curso do feito", de modo que, estando o acórdão em consonância com a jurisprudência desta Corte, não se verifi ca a apontada ilegalidade.
+Consoante o entendimento desta Corte Superior, depois de efetuadas várias diligências para localização do ora recorrente, é cabível sua citação por edital, como na hipótese.
+Tendo a Corte local consignado que todos os meios disponíveis para localização do acusado foram utilizados, a inversão do acórdão demandaria reexame das provas dos autos, incabível na via estreita do habeas corpus. Confira-se:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO MAJORADO. APRESENTAÇÃO DE RAZÕES DO RECURSO DE APELAÇÃO POR DEFENSOR NOMEADO. INÉRCIA DO ADVOGADO ANTERIOR. PRÉVIA INTIMAÇÃO DO RÉU. LOCAL DESCONHECIDO. INTIMAÇÃO EDITALÍCIA. FLAGRANTE ILEGALIDADE. AUSÊNCIA. AGRAVO DESPROVIDO.
+1. Não se verifica flagrante ilegalidade decorrente da apresentação de razões de recurso por defensor nomeado quando o réu não é localizado no endereço indicado e é intimado via edital, permanecendo inerte no prazo concedido.
+2. Não se acolhe a alegação de nulidade unicamente pela ausência de requisição de informações a esse ou àquele órgão público específico que a defesa julgue pertinente, pois não há exigência legal nesse sentido, sequer sendo o habeas corpus via apta para analisar se foram ou não esgotados todos os meios cabíveis para a localização do acusado.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 839.895/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/10/2023, DJe de 19/10/2023.)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
