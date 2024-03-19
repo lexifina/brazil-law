@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO ITAUCARD S.A. contra decisão que inadmitiu recurso especial com fundamento nas Súmulas n. 83 do STJ e 284 do STF.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado do Ceará em Apelação Cível n. 0251293-48.2021.8.06.0001, nos autos de ação de busca apreensão.
+O julgado foi assim ementado (fls. 129-130):
+APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. AUSÊNCIA DE COMPROVAÇÃO DA MORA POR QUALQUER DOS MEIOS ADMITIDOS EM LEI. INTIMAÇÃO DO BANCO AUTOR PARA SANAR O VÍCIO, SOB PENA DE INDEFERIMENTO DA INICIAL. INÉRCIA. SENTENÇA DE EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO. RECURSO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA.
+1- O cerne da questão reside na possibilidade de extinção do feito, sem resolução do mérito, quando o autor, mesmo intimado para sanar defeitos e irregularidades capazes de dificultar o julgamento do feito, continua inerte, incorrendo no que preceitua o art. 485, I, CPC/15.
+2 - O Decreto-Lei nº 911/69, ao disciplinar o instituto da alienação fiduciária, no § 2º do art. 2º, estabeleceu a forma extrajudicial de comprovação da mora.
+3 - No caso dos autos, o autor não comprovou a constituição da mora por nenhuma das possibilidades permitidas no ordenamento jurídico vigente, vez que limitou-se a juntar o documento de notificação (fls. 21/23) sem o comprovante de entrega na residência do devedor fiduciário.
+3 - Verifico que a Instituição Bancária foi devidamente intimada para sanar o vício, conforme despacho de fl. 73 e publicação no DJE de fl. 75, ficando inerte. Conforme decisão interlocutória inserta à fl. 98.
+4 - Assim, correta é a sentença de primeiro grau que indeferiu a petição inicial e extinguiu o processo, sem julgamento do mérito.
+5 - Recurso conhecido e improvido. Sentença mantida.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, o ora agravante aponta violação dos arts. 2º, § 2º, e 3º do Decreto-Lei n. 911/1969, posto que a notificação expedida para o endereço constante do contrato é válida para a constituição da devedora em mora, porquanto fornecido pela própria agravada.
+Sustenta ainda que não pode ser imputada ao ora agravante a desídia da agravada, posto não se encontrar no endereço informado em contrato, frustrando a comunicação encaminhada (fl. 147).
+Argumenta que a inicial de busca e apreensão preencheu todos os requisitos para o seu regular prosseguimento (fl. 149).
+Requer a reforma do acórdão combatido para considerar válida a notificação expedida no endereço constante do contrato e ser considerado o recorrido regularmente constituído em mora, com o afastamento da extinção da demanda, permitindo seu regular prosseguimento.
+É o relatório. Decido.
+O recurso merece prosperar.
+Para os contratos garantidos por alienação fiduciária, embasados pelo Decreto-Lei n. 911/1969, o Superior Tribunal de Justiça firmou o entendimento de que a mora se configura automaticamente, quando vencido o prazo para o pagamento - mora ex re -, isto é, decorre do não pagamento dentro do prazo. Ou seja, o devedor estará em mora quando deixar de efetuar o pagamento no tempo, lugar e forma contratados (arts. 394 e 396 do Código Civil).
+Portanto, incumbe ao credor comprovar tão somente o envio da carta registrada com aviso de recebimento ao endereço indicado no contrato, não sendo necessária a demonstração do efetivo recebimento, quer seja pelo próprio destinatário, quer seja por terceiros.
+Registre-se que a Segunda Seção desta Corte, em julgamento de recurso repetitivo (Tema n. 1.132), fixou entendimento no sentido de que, para a comprovação da mora nos contratos garantidos por alienação fiduciária, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros. Veja-se:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. AFETAÇÃO AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA N. 1.132. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA COM GARANTIA. COMPROVAÇÃO DA MORA. NOTIFICAÇÃO EXTRAJUDICIAL COM AVISO DE RECEBIMENTO. PROVA DE REMESSA AO ENDEREÇO CONSTANTE DO CONTRATO. COMPROVANTE DE ENTREGA. EFETIVO RECEBIMENTO. DESNECESSIDADE.
+1. Para fins do art. 1.036 e seguintes do CPC, fixa-se a seguinte tese: Em ação de busca e apreensão fundada em contratos garantidos com alienação fiduciária (art. 2º, § 2º, do Decreto-Lei n. 911/1969), para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros.
+2. Caso concreto: Evidenciado, no caso concreto, que a notificação extrajudicial foi enviada ao devedor no endereço constante do contrato, é caso de provimento do apelo para determinar a devolução dos autos à origem a fim de que se processe a ação de busca e apreensão.
+3. Recurso especial provido. (REsp n. 1.951.662/RS, relator para o acórdão Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/8/2023.)
+Essa conclusão aplica-se a situações diversas, por exemplo, quando a notificação enviada ao endereço do devedor retorna com aviso de "ausente", de "mudou-se", de "insuficiência do endereço do devedor" ou de "extravio do aviso de recebimento", reconhecendo-se que cumpre ao credor comprovar tão somente o envio da notificação com aviso de recebimento ao endereço do devedor indicado no contrato, sendo irrelevante a prova do recebimento (REsp n. 1.951.662/RS e REsp n. 1.951.888/RS, submet idos ao rito dos repetitivos).
+No caso, o Tribunal de origem manteve a sentença que extinguira a ação de busca e apreensão ao fundamento de não ter sido demonstrada a regular constituição do devedor em mora, porquanto não entregue a notificação no endereço declinado pelo fiduciante. Confira-se (fls. 134-135, destaquei):
+ ..
+Posteriormente, como bem defendeu o Banco apelante, com a vigência da Lei nº 13.043/2014, que alterou parte do Decreto Lei nº 911/69, foi facultado que a notificação do devedor fosse realizada por simples carta registrada (AR), não necessitando, ainda, que a assinatura de recebimento fosse do devedor, contanto que comprovada a entrega do documento em sua residência.
+Vejamos:
+ ..
+Ocorre que, no caso dos autos, embora o autor tenha defendido esta tese, no ato da propositura da ação, não comprovou a constituição da mora por nenhuma das possibilidades permitidas no ordenamento jurídico vigente, vez que limitou-se a juntar o documento de notificação (fls. 21/23) sem comprovante válido, haja vista que consta a informação de "ausente", sendo assim insuficiente a comprovação da mora do devedor fiduciário.
+Em aclaratórios, o Tribunal de origem reforçou que, ao analisar a questão ora embargada, entendeu que, embora a notificação tenha sido enviada ao endereço da parte acionada, nem sequer foi recebida por qualquer pessoa, não havendo a constituição da devedora em mora (fls. 173-174).
+Observa-se que o Tribunal a quo afirmou que não houve a constituição em mora do devedor por falta de comprovação nos autos de que a notificação fora efetivamente entregue no endereço indicado no contrato.
+Esse entendimento diverge da jurisprudência do STJ, uma vez que o Tribunal de origem não considerou válida a notificação enviada ao endereço constante do contrato, apta a configurar a mora mesmo sem a comprovação de recebimento pelo devedor ou por terceiro.
+Ante o exposto, conheço do agravo em recurso especial para, conhecendo do recurso especial, dar-lhe provimento para determinar o prosseguimento do feito na origem, diante da regular constituição em mora do devedor.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+ EMENTA
