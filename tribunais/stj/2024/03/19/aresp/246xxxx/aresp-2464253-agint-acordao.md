@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/03/2024 a 19/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RITO COMUM. RESPONSABILIDADE CIVIL. DANOS MORAIS. FABRICAÇÃO DE FERTILIZANTES E EMISSÃO DE ODOR. PEDIDO DE COMPLEMENTAÇÃO DE PERÍCIA. INDEFERIMENTO. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. "A jurisprudência desta Corte Superior é assente no sentido de que não há cerceamento de defesa quando o julgador considera desnecessária a produção de prova ou suficientes as já produzidas, mediante a existência nos autos de elementos suficientes para a formação de seu convencimento" (AgInt no AREsp 2.120.272/CE, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 10/10/2022, DJe de 18/10/2022).
+2. Na espécie, para o Tribunal de origem, " a nalisando detidamente as provas constantes dos autos, vê-se que se mostraram suficientes a formar o livre convencimento motivado do julgador, tornando-se desnecessária a produção de outras provas, estando os autos com toca a documentação necessária para a análise dos pontos controvertidos". A reforma desse entendimento demandaria o reexame das provas dos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ERIK DA CRUZ PRÁTIS em face de decisão da Presidência do STJ, que conheceu do agravo para negar conhecimento ao recurso especial.
+O agravante insiste na tese de cerceamento de defesa e defende que o conhecimento da matéria não implica a revisão das provas dos autos, motivo pelo qual deve ser afastada a Súmula 7/STJ.
+Requer, ao final, a reconsideração da decisão agravada ou sua reforma pelo Órgão Colegiado competente (fls. 1.538/1.551).
+Impugnação às fls. 1.556/1.568.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RITO COMUM. RESPONSABILIDADE CIVIL. DANOS MORAIS. FABRICAÇÃO DE FERTILIZANTES E EMISSÃO DE ODOR. PEDIDO DE COMPLEMENTAÇÃO DE PERÍCIA. INDEFERIMENTO. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. "A jurisprudência desta Corte Superior é assente no sentido de que não há cerceamento de defesa quando o julgador considera desnecessária a produção de prova ou suficientes as já produzidas, mediante a existência nos autos de elementos suficientes para a formação de seu convencimento" (AgInt no AREsp 2.120.272/CE, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 10/10/2022, DJe de 18/10/2022).
+2. Na espécie, para o Tribunal de origem, " a nalisando detidamente as provas constantes dos autos, vê-se que se mostraram suficientes a formar o livre convencimento motivado do julgador, tornando-se desnecessária a produção de outras provas, estando os autos com toca a documentação necessária para a análise dos pontos controvertidos". A reforma desse entendimento demandaria o reexame das provas dos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. Agravo interno improvido.
+VOTO
+Nas razões do apelo especial, o recorrente apontou ofensa ao art. 369 do CPC/2015, pois o indeferimento do pedido de complementação do laudo pericial (ou de nova perícia) ensejou cerceamento de defesa. Segundo o recorrente:
+"(..) é forçoso que se observe um procedimento adequado (medições em todas as direções a partir da empresa recorrida), por uma questão de lógica, devem ser procedidas a medições para coleta de dados e todas as direções a partir da sede da recorrida. No caso, a coleta parcial de dados comprometeu as conclusões emitidas pelo laudo, em vista de a extensão do dano depender da ação da natureza (direção e intensidade dos ventos).
+Outra razão para que se avance na produção da prova é o fato de o laudo, além de inconclusivo, levantar a hipótese de o mau cheiro na região ter origem em outros empreendimentos com potencial de emitir poluição dessa natureza, sem determinar qual a origem ou a base para comprovação dessa argumentação." (fl. 1.533)
+Para o Tribunal de origem, contudo:
+"Analisando detidamente as provas constantes dos autos, vê-se que se mostraram suficientes a formar o livre convencimento motivado do julgador, tornando- se desnecessária a produção de outras provas, estando os autos com toca a documentação necessária para a análise dos pontos controvertidos." (fl. 1.439)
+Diante disso, merece destaque o entendimento desta Corte Superior de que, uma vez formada a convicção do magistrado sobre controvérsia de fato, ele não é obrigado a determinar novas provas acerca do ponto controvertido, pois seria inútil para o desfecho da demanda. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE EMPRÉSTIMO CONSIGNADO C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS. NÃO CABIMENTO DO AGRAVO EM RECURSO ESPECIAL CONTRA A DECISÃO FUNDADA NO ART. 1.030, I, B, DO CPC/2015. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. DESNECESSIDADE DE PRODUÇÃO DE PERÍCIA GRAFOTÉCNICA. SÚMULA 7/STJ. LITIGÂNCIA DE MÁ-FÉ. REVISÃO. SÚMULA 7/STJ. REVALORAÇÃO DA PROVA. AFASTAMENTO. AGRAVO INTERNO IMPROVIDO.
+1. Nos termos do art. 1.030, I, b, do CPC/2015, não cabe a interposição de recurso ao Superior Tribunal de Justiça para impugnar ato decisório que denega seguimento ao recurso especial, sob o fundamento de estar o acórdão recorrido em consonância com o entendimento firmado em julgamento processado pelo regime de recursos repetitivos.
+2. A jurisprudência desta Corte Superior é assente no sentido de que não há cerceamento de defesa quando o julgador considera desnecessária a produção de prova ou suficientes as já produzidas, mediante a existência nos autos de elementos suficientes para a formação de seu convencimento.
+2.1 Por outro lado, infirmar o entendimento alcançado pelo acórdão recorrido, com base nos elementos de convicção juntados aos autos, a fim de se concluir pela imprescindibilidade da produção de perícia grafotécnica, tal como busca a insurgente, esbarraria no enunciado n. 7 da Súmula do Superior Tribunal de Justiça, sendo inviável a revaloração jurídica.
+3. Acolher o inconformismo da parte insurgente, com vista a desconstituir a convicção alcançada no aresto recorrido, reconhecendo a ocorrência de litigância de má-fé, demandaria o reexame do contexto fático-probatório dos autos, o que não se admite no âmbito do recurso especial, ante o óbice disposto na Súmula 7/STJ, não sendo caso, também, de revaloração da prova produzida.
+4. Agravo interno improvido.
+(AgInt no AREsp n. 2.120.272/CE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/10/2022, DJe de 18/10/2022.)
+Ademais, consoante corretamente anotado na decisão agravada, a reforma da conclusão do eg. TJMS - acerca da suficiência do material probatório para formar a convicção do magistrado - demandaria novo exame das provas dos autos, providência vedada pela Súmula 7/STJ.
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
