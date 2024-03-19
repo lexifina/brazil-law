@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ALAN RODRIGO WINGESTER ALVES à decisão de fls. 566/567, que não conheceu do recurso.
+Sustenta a parte embargante que:
+No caso dos autos, houve no ato da interposição do recurso especial pedido de justiça gratuita, razão pela qual, nos termos do art. 97, §2º do Código de Processo Civil, dispensou-se o recolhimento do preparo recursal.
+Ocorre que, posteriormente, o embargante foi intimado a comprovar o pedido justiça gratuita, contudo naquele momento houve por bem auferir empréstimo para fazer o recolhimento espontâneo de forma simples do preparo recursal, visando a celeridade processual, assim o recurso foi remetido ao Superior Tribunal de Justiça para julgamento.
+ ..
+Todavia, em que pese o entendimento exarado na r. decisão embargada, infere-se nos autos que, houve devidamente o recolhimento do preparo recursal.
+Nesse sentido, dispõe o art. 99 do Código de Processo Civil:
+ ..
+Ora, o embargante realizou o recolhimento do preparo recursal de forma simples, pois houve pedido de justiça gratuita no ato da interposição do recurso, deste modo não se justifica a pena de deserção imposta ao apelo recursal, pois houve o recolhimento.
+Assim, apenas no caso em que o requerente não recolhe o preparo no ato da interposição do recurso, sem que tenha havido o pedido de gratuidade de justiça, o juiz determinará o recolhimento em dobro, sob pena de deserção (art. 1.007, 4º, do CPC/2015) (fls. 57/572).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cabe aqui pontuar as situações distintas tratadas nos artigos 98 e seguintes do CPC, e 1.007 do mesmo diploma.
+A gratuidade de justiça tem o rito regulado no artigo 98 e seguintes do CPC. A parte deve comprovar o estado de miséria juntamente com o seu requerimento. No caso dos autos, uma vez que o pedido veio desacompanhado dessa prova, foi facultada a sua apresentação, conforme despacho de fl. 508.
+Todavia, ao invés de cumprir a determinação do tribunal, a parte desistiu do seu pedido, conclusão a que se chegou porque ela optou pelo recolhimento do preparo, conforme petição apresentada às fls. 511/513.
+A jurisprudência desta Corte Superior é no sentido de que o pagamento de uma das despesas do preparo afasta a presunção relativa de hipossuficiência e constitui renúncia à isenção, sobretudo considerando serem vedados comportamentos contraditórios em nosso ordenamento jurídico (AgInt no AREsp n. 1.410.995/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 26/8/2019, DJe de 30/8/2019.)
+Assim, a partir desse momento, ou seja, do recolhimento, não se aplicam mais os dispositivos da gratuidade de justiça, pois a parte desistiu do pedido quando praticou o ato incompatível. Desse modo, passamos à aplicação do art. 1.007 do CPC, ou seja, como no ato da interposição do recurso, a parte não recolheu as custas, posteriormente, deve recolher, em dobro (§4º).
+Assim, tendo a parte efetuado o recolhimento simples, esta Corte Superior oportunizou a complementação das custas (§2º), nos termos da certidão de fl. 559, mas o recorrente, conforme certificado à fl. 563, quedou-se inerte. Desse modo, correta a decisão que não conheceu do recurso por sua deserção.
+Registre-se que a única forma de recolher as custas simples após a interposição do recurso especial, é quando há pedido de gratuidade de justiça na petição e este é indeferido pelo tribunal de origem, uma vez que deverá ser dada oportunidade à parte para efetuar o recolhimento nos termos do artigo 99, § 7, do Código de Processo Civil em razão do principio da não-surpresa. (EDcl no AgInt no AREsp n. 1.317.073/MS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 16/8/2021, DJe de 24/8/2021.).
+Porém, no caso dos autos, é importante frisar que a pretensão à gratuidade de justiça sequer foi analisada, em razão da prática de ato incompatível com o pedido de gratuidade. Portanto, a hipótese é diversa da tratada pelo §7º do art. 99 do CPC, porque não houve julgamento pelo indeferimento da benesse.
+Entender de modo diverso atenta contra os princípio da boa-fé processual e da isonomia, na medida em que a parte, obrigada a comprovar o recolhimento do preparo no ato interposição do recurso ou devendo fazê-lo em dobro, ao deixar de fazê-lo, socorre-se do pedido da gratuidade de justiça, para se furtar ao cumprimento da norma procedimental. E diante do menor obstáculo, recolhe o preparo, ato incompatível com a presunção de hipossuficiência de que trata o texto normativo (art. 99, §3º, CPC).
+Logo, conclui-se que a renúncia à pretensão de conseguir a benesse enseja no dever de recolher o preparo em dobro, na forma do art. 1.007, §4º, do CPC, uma vez que a comprovação do preparo deve ser simultânea à interposição do recurso.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
