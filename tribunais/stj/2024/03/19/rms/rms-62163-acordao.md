@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma, por unanimidade, julgar prejudicado o recurso ordinário em mandado de segurança, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Humberto Martins e Marco Aurélio Bellizze.
+EMENTA
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. EMPRESARIAL. RECUPERAÇÃO JUDICIAL. STAY PERIOD. EFEITOS. EXTENSÃO. TERCEIRO.
+1. Com a aprovação do plano de recuperação judicial, o presente recurso, no qual se discute a possibilidade de extensão dos efeitos do stay period à sociedade empresária que não está em recuperação judicial, perdeu o seu objeto.
+2. Recurso ordinário em mandado de segurança prejudicado.
+RELATÓRIO
+Trata-se de recurso ordinário em mandado de segurança interposto por BANCO COMERCIAL PORTUGUÊS S.A. contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro.
+Colhe-se dos autos que o recorrente ajuizou ação de execução contra NewsPrinter Participações Ltda. e Editora O Dia S.A. - Em Recuperação Judicial. Os executados opuseram embargos à execução, os quais foram julgados improcedentes, decisão contra a qual foi interposta apelação.
+A Décima Sétima Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, em questão de ordem, decidiu suspender a execução e o próprio julgamento da apelação pelo prazo de 180 (cento e oitenta) dias, ato contra o qual foi impetrado o mandado de segurança na origem.
+Às fls. 38/39 (e-STJ), foram prestadas informações pela autoridade coatora.
+O Órgão Especial do Tribunal de Justiça do Estado do Rio de Janeiro denegou a segurança em acórdão assim ementado:
+"Mandado de segurança.
+Apelação em embargos à execução cujo julgamento fora suspenso pelo órgão impetrado por cento e oitenta dias, contados da publicação da decisão que deferira o processamento de recuperação judicial, requerida por uma das embargantes/apelantes.
+Preliminares.
+Decisão colegiada não sujeita a recursos ou correição.
+Mandado de segurança.
+Cabimento, tanto mais porque, irrecorrível, jamais se sujeitaria ao trânsito em julgado pela não interposição de recursos "incabíveis." Além disso, de conteúdo puramente processual o V. Acórdão vergastado, da Egrégia 17ª. Câmara Cível desta Corte, não se havia pretendê-lo "transitado em julgado", à vista, exatamente, dessa sua própria natureza e dos termos enfáticos do artigo 502 do CPC.
+Perda do interesse de agir.
+Inocorrência por isso que "o mero decurso do prazo de 180 dias previsto no art. 6º, §4º da LFRE não é bastante para, isoladamente, autorizar a retomada das demandas movidas contra o devedor, uma vez que a suspensão também encontra fundamento nos arts. 47 e 49 daquele diploma legal, cujo objetivo é garantir a preservação da empresa e a manutenção dos bens de capital essenciais à atividade na posse da recuperanda" (REsp 1.660.893/MG).
+Mérito.
+"A recuperação judicial tem por objetivo viabilizar a superação da situação de crise econômico-financeira do devedor, a fim de permitir a manutenção da fonte produtora, do emprego dos trabalhadores e dos interesses dos credores, promovendo, assim, a preservação da empresa, sua função social e o estímulo à atividade econômica" -art. 47da Lei 11.101/2005.
+As normas que estabelecem o stay period - arts. 6º e 52, III, da Lei 11.101/05 -intentam prestigiar os princípios da preservação da empresa, da função social e do estímulo à atividade econômica, ao ensejar ao devedor em crise negociar de forma conjunta com todos os credores e, a um só tempo, preservar seu patrimônio liberto, naquele lapso de tempo, de eventuais constrições de bens imprescindíveis à continuidade da atividade empresarial, e cumprir o plano de recuperação.
+De outro modo, à míngua de razoabilidade, em tese, tal proteção não se estende aos devedores solidários ou coobrigados da sociedade em recuperação judicial, consoante o disposto no §1º do art. 49 da Lei 11.101/05.
+Distinguishing.
+Na espécie, a Editora O Dia e a Newsprinter Participações (executadas/embargantes) são garantidoras hipotecárias em contrato de mútuo firmado entre o banco impetrante (exequente) e uma terceira sociedade empresária (que é, em verdade, a devedora principal), estranha à execução de que se tem notícia.
+Assim, além de a recuperanda não ser a devedora principal, a hipótese ora analisada é dotada de peculiaridade que a distingue da que decidida no REsp 1.333.349/SP, sob o rito dos recursos repetitivos (tema 885), e que não pode ser ignorada em prestígio aos princípios que norteiam a Lei 11.101/05.
+Malgrado apenas a editora esteja em recuperação judicial, há a considerar que o seu parque gráfico, do qual depende a continuação de suas atividades, está localizado no imóvel de propriedade da Newsprinter Participações Ltda. e que ambas integram o mesmo grupo econômico em complexa rede organizacional, de modo que o prosseguimento dos embargos e, por consequência o do processo executivo, poderia mesmo comprometer o plano de recuperação.
+Na linha da orientação do E. STJ, é da competência do juízo recuperacional deliberar acerca da essencialidade do bem que se intenta excutir, olhos postos no plano de recuperação aprovado pela assembleia de credores. Precedentes do STJ. Informações prestadas pelo juízo da 6ª Vara Empresarial em que tramita o processo de recuperação judicial, a indicarem a essencialidade do bem executado para o soerguimento da editora recuperanda.
+Aplicação, por analogia, do disposto no §3º do art. 49 da Lei 11.101/05, verbis: "Tratando-se de credor titular da posição de proprietário fiduciário de bens móveis ou imóveis, de arrendador mercantil, de proprietário ou promitente vendedor de imóvel cujos respectivos contratos contenham cláusula de irrevogabilidade ou irretratabilidade, inclusive em incorporações imobiliárias, ou de proprietário em contrato de venda com reserva de domínio, seu crédito não se submeterá aos efeitos da recuperação judicial e prevalecerão os direitos de propriedade sobre a coisa e as condições contratuais, observada a legislação respectiva, não se permitindo, contudo, durante o prazo de suspensão a que se refere o § 4o do art. 6o desta Lei, a venda ou a retirada do estabelecimento do devedor dos bens de capital essenciais a sua atividade empresarial" (grifo nosso).
+"Para efeito de aplicação do § 3º do art. 49, "bem de capital", ali referido, há de ser compreendido como o bem utilizado no processo produtivo da empresa recuperanda, cujas características essenciais são: bem corpóreo (móvel ou imóvel), que se encontra na posse direta do devedor, e, sobretudo, que não seja perecível nem consumível (..)" -REsp 1758746/GO.
+Desse modo, não se cuida de simplesmente estender de forma automática e injustificada um benefício excepcional de que gozam as sociedades em recuperação judicial a coobrigados e devedores solidários, mas de sensível e acurada análise do caso concreto que é complexo e dotado de peculiaridades suficientes a afastar, por ausência de similitude fática, o entendimento firmado no REsp 1.333.349/SP (tema 885).
+Todas essas considerações impedem se qualifique a solução adotada pelo V. Acórdão impugnado  de que não é revisor, muito menos censor, este Órgão Especial-de teratológica ou abusiva, em ordem a ensejar o manejo desta via contra decisão judicial.
+Ordem denegada" (fl. 296, e-STJ - grifos no original).
+Em suas razões recursais, o recorrente alega, em síntese, que (i) o acórdão recorrido viola a Súmula nº 581/STJ; (ii) não é possível a extensão do stay period à sociedade que não se encontra em recuperação judicial; (iii) o imóvel da coobrigada foi reconhecido como essencial ao soerguimento da Editora O Dia sem que houvesse manifestação do Juízo da recuperação judicial acerca do tema; (iv) o Juízo da recuperação judicial não tem competência sobre imóvel de terceiro, de modo que não pode obstar a sua alienação por meio de leilão judicial; (v) o contrato de gaveta firmado entre a Editora O Dia e a Newsprinter não impede a livre disposição do bem, e (vi) a manutenção do ato impugnado premia a inadimplência de sociedade empresária que não está em recuperação judicial.
+Afirma que tem direito líquido e certo de prosseguir com a execução contra a Newsprinter, sociedade que não se encontra em recuperação judicial.
+Requer o provimento do recurso para fazer cessar o ato impugnado.
+Pela decisão de fls. 530/537 (e-STJ), foi indeferido o pedido liminar.
+A Subprocuradoria-Geral da República opinou pelo não provimento do presente recurso, estando o parecer assim sintetizado:
+"Recurso ordinário em mandado de segurança. Recuperação judicial. Suspensão de execução ajuizada contra coobrigados do devedor principal. Excepcionalidade. Bem essencial. Preservação da empresa recuperanda. Ausência de ilegalidade ou teratologia. Precedentes. Parecer pelo não provimento do recurso ordinário" (fl. 547, e-STJ).
+É o relatório.
+EMENTA
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. EMPRESARIAL. RECUPERAÇÃO JUDICIAL. STAY PERIOD. EFEITOS. EXTENSÃO. TERCEIRO.
+1. Com a aprovação do plano de recuperação judicial, o presente recurso, no qual se discute a possibilidade de extensão dos efeitos do stay period à sociedade empresária que não está em recuperação judicial, perdeu o seu objeto.
+2. Recurso ordinário em mandado de segurança prejudicado.
+VOTO
+O presente recurso ordinário está prejudicado.
+Com efeito, o ato impugnado, qual seja, a decisão que suspendeu a execução e o julgamento da AC nº 0108905-04.2017.8.19.0001 pelo prazo de 180 (cento e oitenta) dias, teve como fundamento o artigo 6º, § 4º, da Lei nº 11.101/2005, que trata do stay period.
+Ocorre que o plano de recuperação judicial da Editora O Dia já foi homologado, conforme se verifica da consulta ao processo em primeiro grau (Processo nº 0028677-11.2018.8.19.0000), de modo que o stay period já se encerrou. Assim, o fundamento que amparava o ato coator não mais subsiste.
+Verifica-se, inclusive, que foi proferida nova decisão nos autos da AC nº 0108905-04.2017.8.19.0001, tendo sido mantida a suspensão em virtude da pendência de julgamento do presente recurso, bem como do REsp nº 2.100.859/RJ nesta Corte:
+"(..)
+Pois bem. Tendo em vista a existência de dois recursos pendentes de julgamento junto ao STJ, sendo certo que um deles referente à inexistência do crédito, mantém-se a suspensão do feito, competindo às partes, em observância ao postulado da cooperação, peticionar nestes autos quando encerrados ambos os julgamentos".
+Ademais, em consulta ao AI nº 0030824-73.2019.8.19.0000, citado no aresto recorrido, observa-se que o plano de recuperação judicial previu a incorporação da NewsPrinter pela recuperanda, questão que é objeto de recurso interposto pelo banco recorrente. Vale destacar, no ponto, o seguinte trecho do acórdão proferido no mencionado agravo de instrumento:
+"(..)
+11. Com efeito, o plano de recuperação judicial da agravada já foi homologado judicialmente no Juízo de Direito da 6ª Vara Empresarial da Comarca da Capital, aos 09/12/2020, com prévia aprovação da grande maioria dos credores presentes à Assembleia Geral de Credores.
+12. Ora.. na medida em que a operação societária de incorporação implica em meio de reestruturação do ativo da recuperanda, e, como bem salientou o próprio agravante, as decisões da A.G.C. no âmbito do procedimento de recuperação judicial são soberanas, não havia como deixar de ser decidido que cessara o objeto do instrumental.
+13. Ademais, cumpre notar que o ora agravante já interpôs agravo de instrumento (n.º 0006635-60.2021.8.19.0000) contra a decisão judicial que homologou o plano recuperatório da ora agravada, de modo que eventual êxito no julgamento daquele recurso suprirá a discussão sobre a operação societária de incorporação de empresa" (fl. 363, e-STJ - grifou-se).
+Verifica-se, portanto, que as alterações ocorridas no quadro fático trazido à análise desta Corte tornaram obsoleto o julgamento do presente recurso ordinário em mandado de segurança, o qual discute a possibilidade de extensão do stay period à sociedade empresária que não está em recuperação judicial.
+É preciso consignar também que o agravo de instrumento interposto contra decisão que homologou o plano de recuperação judicial (AI nº 006635-60.2021.8.19.0000) não foi provido pelo Tribunal de Justiça do Estado do Rio de Janeiro, tendo a recorrente interposto recurso especial que está em fase de processamento. Assim, a matéria virá à análise desta Corte.
+Ante o exposto, julgo prejudicado o presente recurso ordinário em mandado de segurança diante da perda superveniente de seu objeto.
+É o voto.
