@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em benefício de MARCELINO DA CONCEIÇÃO PEREIRA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO proferido no AGRAVO DE EXECUÇÃO PENAL n. 5009292-68.2023.8.19.0500.
+Consta dos autos que o paciente foi condenado como incurso nas sanções do art. 140, § 3º, do Código Penal (injúria racial) a 1 ano e 2 meses de reclusão, e requereu ao Juízo da Execução o reconhecimento da prescrição.
+Com o indeferimento desse pleito, houve a interposição de agravo, o qual foi desprovido por aresto assim ementado:
+"AGRAVO EM EXECUÇÃO PENAL. RECURSO DA DEFESA EM FACE DA DECISÃO QUE DEIXOU DE RECONHECER A PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. - CRIME DE INJÚRIA RACIAL QUE REÚNE TODOS OS ELEMENTOS NECESSÁRIOS À SUA CARACTERIZAÇÃO COMO UMA DAS ESPÉCIES DE RACISMO. PRECEDENTES DO E. STF. - POR SER ESPÉCIE DO GÊNERO RACISMO, O CRIME DE INJÚRIA RACIAL É IMPRESCRITÍVEL. - DESPROVIMENTO DO AGRAVO EM EXECUÇÃO PENAL." (fl. 17)
+A defesa busca o reconhecimento da prescrição, ao argumento de que a decisão do Supremo Tribunal Federal não pode retroagir para ser aplicada a fato típico ocorrido antes da sua publicação.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+O que, todavia, não é a hipótese dos autos, pois o crime em discussão é imprescritível, conforme jurisprudência desta Corte e do Supremo Tribunal Federal, a qual já assentara m que "com o advento da Lei n. 9.459/97, introduzindo a denominada injúria racial, criou-se mais um delito no cenário do racismo, portanto, imprescritível, inafiançável e sujeito à pena de reclusão (AgRg no AREsp n. 686.965/DF, Ministro Ericson Maranho (Desembargador Convocado do TJ/SP), Sexta Turma, julgado em 18/8/2015, DJe 31/8/2015)" (AgRg no AREsp n. 734.236/DF, Ministro Nefi Cordeiro, Sexta Turma, DJe 8/3/2018).
+No mesmo sentido, vem decidindo a Suprema Corte que "o crime de injúria racial reúne todos os elementos necessários à sua caracterização como uma das espécies de racismo, seja diante da definição constante do voto condutor do julgamento do HC 82.424/RS, seja diante do conceito de discriminação racial previsto na Convenção Internacional Sobre a Eliminação de Todas as Formas de Discriminação Racial. 3. A simples distinção topológica entre os crimes previstos na Lei 7.716/1989 e o art. 140, § 3º, do Código Penal não tem o condão de fazer deste uma conduta delituosa diversa do racismo, até porque o rol previsto na legislação extravagante não é exaustivo. 4. Por ser espécie do gênero racismo, o crime de injúria racial é imprescritível" (HC 154248, Relator Ministro Edson Fachin, julgado em 28/10/2021, DJe de 23/02/2022).
+Assim, inexiste flagrante ilegalidade a justificar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
