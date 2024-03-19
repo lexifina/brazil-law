@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de BRUNO ROBERTO ROCHA contra o v. acórdão prolatado peloeg. Tribunal de Justiça do Estado do Rio Grande do Sul.
+Depreende-se dos autos que o juiz de primeiro grau julgou improcedente o pedido formulado na denúncia e absolveu o paciente.
+Irresignado, o Ministério Público interpôs recurso de apelação ao Tribunal de origem, que deu provimento ao recurso para condenar o réu a pena de 7 anos de reclusão, em regime fechado, e mais 700 dias-multa pela prática do crime descrito no art. 33, caput, da Lei n. 11.343/2006, nos termos do acórdão juntado às fls. 35-56, com a seguinte ementa:
+TRÁFICO DE ENTORPECENTES. PROVA. PALAVRA DO POLICIAL. VALOR. CONDENAÇÃO IMPOSTA. Os depoimentos dos policiais envolvidos nas diligências que culminaram com a acusação da prática de um crime por parte do apelante devem ser analisados como os de qualquer outra pessoa. E, por uma questão lógica e racional, eles preponderam sobre a declaração de quem é acusado de um delito, porque, geralmente, este tenta fugir de sua responsabilidade penal pelo fato. Não se imagina que, sendo o policial uma pessoa idônea e sem qualquer animosidade específica contra o agente, vá a juízo mentir, acusando falsamente um inocente. Assim, sua declaração, como a de todas as outras testemunhas e vítimas, deve ser examinada apenas pelos elementos que ela contém. Confrontar-se-á com as outras provas obtidas na instrução e até com a qualidade da pessoa que depôs. Se a prova sobrevive após esta análise, ela é forte para a condenação, não importando quem a trouxe. Aqui, em prova convincente, os policiais militares informaram que, desconfiando do apelante que estava em local usado pelos traficantes e, ao avistá-los, fugiu, conseguiram detê-lo. E com ele encontraram dezenove buchas de cocaína que, pelas circunstâncias apuradas no processo, eram destinadas ao comércio. DECISÃO: Apelo ministerial provido, por maioria.
+Contra o julgado a defesa interpôs embargos infringentes, os quais foram rejeitados.
+No presente writ, o impetrante sustenta que é caso de restabelecimento da decisão juízo que absolveu o paciente, em razão da ausência de elementos comprobatórios capazes de sustentar a condenação, uma vez que apreendida ínfima quantidade de drogas na residência do Paciente, além que não há qualquer relato de mercancia pelo Paciente no momento do suposto flagrante, de modo que a apreensão de droga, por si só, jamais pode ensejar decreto condenatório pela inocorrência no crime de tráfico ilícito de drogas."
+Subsidiariamente, alega que a pena-base do paciente foi fixada acima do mínimo legal sem fundamentação idônea.
+Aduz, ainda, que a redutora prevista no art. 33, § 4º, da Lei 11.343/2006 foi afastada sem fundamentação válida ao argumento de que foi utilizada condenação sem trânsito em julgado.
+Requer, no mérito, o restabelecimento da sentença do juízo de primeiro grau ou, subsidiariamente, reduzir a pena-base ao mínimo legal e, ainda, reconhecer a incidência da redutora prevista no §4º, do art. 33 da Lei de drogas com seus consectários legais.
+O pedido liminar foi indeferido (fls. 69-71).
+As informações foram prestadas às fls. 76-138.
+O Ministério Público Federal, às fls. 169-176, manifestou-se nos termos da seguinte ementa:
+HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. TRÁFICO DE DROGAS. ACÓRDÃO TRANSITADO EM JULGADO HÁ MAIS DE SEIS ANOS. INDEVIDA DUPLA SUPRESSÃO DE INSTÂNCIA. NÃO PREENCHIMENTO DOS REQUISITOS DO ART. 621 DO CPP. ALEGAÇÃO DE INSUFICIÊNCIA DE PROVAS DA AUTORIA EM ATERIALIDADE DELITIVAS. SUPOSTO CONSTRANGIMENTO ILEGAL NÃO RECONHECIDO DE OFÍCIO. PELO NÃO CONHECIMENTO DO WRIT.
+É o relatório.
+Decido.
+O impetrante sustenta que é caso de restabelecimento da decisão juízo que absolveu o paciente, em razão da ausência de elementos comprobatórios capazes de sustentar a condenação, uma vez que apreendida ínfima quantidade de drogas na residência do Paciente, além que não há qualquer relato de mercancia pelo Paciente no momento do suposto flagrante, de modo que a apreensão de droga, por si só, jamais pode ensejar decreto condenatório pela inocorrência no crime de tráfico ilícito de drogas."
+Subsidiariamente, alega que a pena-base do paciente foi fixada acima do mínimo legal sem fundamentação idônea.
+Aduz, ainda, que a redutora prevista no art. 33, § 4º, da Lei 11.343/2006 foi afastada sem fundamentação válida ao argumento de que foi utilizada condenação sem trânsito em julgado.
+Quanto aos punctum saliens, uma vez que o eg. Tribunal de origem não se pronunciou sobre os temas aventados na presente impetração, eis que sequer foram arguidos oportunamente na origem, esta Corte fica impedida de se manifestar diretamente sobre a matéria, sob pena de incorrer em indevida supressão de instância.
+É inviável o conhecimento do writ que pretende a desconstituição de acórdão já transitado em julgado, vale dizer, olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência desta Corte acerca da controvérsia.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
