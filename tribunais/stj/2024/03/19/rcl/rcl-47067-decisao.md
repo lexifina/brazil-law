@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de reclamação com pedido liminar ajuizada por MARIA DE FATIMA EVANGELISTA contra o acórdão da TURMA NACIONAL DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA (TNU) assim ementado (fl. 134):
+AGRAVO INTERNO. PEDIDO DE SUSPENSÃO DO FEITO. SENTENÇA TRABALHISTA. INÍCIODE PROVA MATERIAL. O JULGAMENTO DO TEMA 1.188 NÃO TERÁ O CONDÃO DE ALCANÇAR A DISCUSSÃO PRESENTE NO PEDIDO DE UNIFORMIZAÇÃO EM QUE A TURMA RECURSAL JÁ CONSIDEROU A SENTENÇA COMO INÍCIO DE PROVA MATERIAL, A QUAL, ENTRETANTO, NÃO FOI CORROBORADA POR OUTROS ELEMENTOS DE PROVA. NEGADO PROVIMENTO AO AGRAVO INTERNO.
+Nas razões da presente reclamação, a reclamante aduz que (fls. 4/5):
+ ..  durante o curso do processo na TNU, essa Corte determinou a suspensão de todos os feitos em que envolvem as anotações em ctps decorrentes de decisões trabalhistas para apaziguar as discussões em torno desse assunto (Tema 1.188 do STJ).
+7) Prontamente, a requerente requereu a suspensão do seu processo na TNU até o julgamento final do Tema 1.188 nessa Corte.
+8) Mas a TNU, em total contrariedade à determinação dessa Corte, disse que não é caso de suspensão do feito porque ela já teria julgado o caso em apreço (não transitado em julgado), afastando-se a tese ainda a ser definida por essa Corte, e que a decisão a ser tomada nessa Corte não altera o já decidido no caso da requerente, até porque, na espécie, teria sido reconhecido as anotações em ctps como início de prova material, mas não se reconheceu o vínculo de emprego como doméstica, como decidido pelo juízo trabalhista, enfim, o juízo previdenciário teria julgado matéria de competência do juízo trabalhista (vínculo de emprego).
+ ..
+15) Daí a reclamação em apreço para preservar à autoridade das decisões dessa Corte, que mandou suspender TODOS os processos que dizem respeito aos efeitos jurídicos das anotações em ctps por decisões trabalhistas, e não somente a questão do início de prova material, como aventado pela TNU.
+Requer, por fim, que "seja recebida e processada a presente reclamação, com a concessão de liminar par suspender o andamento do feito na TNU (Proc. 0001084-30.2018.4.03.6323), sob pena de causar insegurança jurídica e prejudicar a defesa da requente, julgando-se, ao final procedente esta reclamação, para confirmar a liminar de suspensão concedida, ou concedê-la, a fim de que o feito da TNU aguarde o julgamento da tese a ser definida por essa Corte no Tema 1.188, intimando-se, no mais, o INSS e à TNU, a fim de que, querendo, prestem as informações pertinentes" (fl. 6).
+É o relatório.
+Inicialmente, cumpre destacar que, conforme prevê o art. 105, I, f, da Constituição Federal, c/c os arts. 988 do Código de Processo Civil (CPC) e 187 do Regimento Interno do Superior Tribunal de Justiça, cabe reclamação da parte interessada a fim de preservar a competência do Superior Tribunal de Justiça (STJ) e garantir a autoridade de suas decisões, bem como para "garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência" (art. 988, IV, CPC).
+A parte reclamante ajuizou a presente reclamação contra acórdão da Turma Nacional de Uniformização (TNU), alegando descumprimento de decisão desta Corte Superior que havia determinado a suspensão de processos cuja questão controvertida dizia respeito ao Tema 1.188, afetado ao rito dos recursos repetitivos.
+Conforme entendimento deste Tribunal Superior, é inviável a utilização da reclamação constitucional para examinar descumprimento de decisão que determina o sobrestamento de processos em virtude da afetação de matéria à sistemática dos recursos repetitivos.
+Nesse sentido:
+AGRAVO INTERNO NA RECLAMAÇÃO. PROCESSUAL CIVIL. PRETENSÃO DE SOBRESTAMENTO DO FEITO ORIGINÁRIO COM BASE EM DECISÃO DE SUSPENSÃO NACIONAL. NÃO CABIMENTO DO PLEITO.
+1. A jurisprudência desta Corte Superior se firmou no sentido de ser incabível o acolhimento de reclamação em razão de descumprimento da ordem de sobrestamento de matéria, em face de recurso repetitivo, mormente se não houve o exaurimento da instância ordinária acerca da decisão do juiz que, entre outras questões, rejeitou exceção de pré-executividade e deferiu o redirecionamento da execução fiscal.
+2. Agravo interno a que se nega provimento.
+(AgInt na Rcl n. 41.275/SC, relator Ministro Og Fernandes, Primeira Seção, julgado em 18/5/2021, DJe de 7/6/2021, destaquei.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. SOBRESTAMENTO DO PROCESSO NA ORIGEM. AFETAÇÃO DE TEMA AO RITO DOS RECURSOS REPETITIVOS. TEMA N. 1.085. DESCUMPRIMENTO. AUSÊNCIA DE PREVISÃO LEGAL EXPRESSA. INADEQUAÇÃO DA VIA ELEITA. INICIAL INDEFERIDA. ENTENDIMENTO JURISPRUDENCIAL DO STJ.
+1. A jurisprudência do STJ é pacífica no sentido de que é incabível a propositura de reclamação constitucional contra decisão que descumpre ordem de sobrestamento dos processos em razão de afetação de matérias sob o rito dos recursos repetitivos, face a ausência de expressa previsão legal.
+2. Agravo interno a que se nega provimento.
+(AgInt na Rcl n. 44.234/SP, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 17/10/2023, DJe de 19/10/2023, destaquei.)
+Ante o exposto não conheço da reclamação. Prejudicado o exame do pedido liminar.
+Publique-se. Intimações necessárias.
+EMENTA
