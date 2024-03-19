@@ -1,0 +1,10 @@
+DECISÃO
+FREDERICK HENRY alega sofrer coação ilegal em decorrência de acórdão proferido pela Corte local.
+A defesa pretende "seja declarada a nulidade dos atos processuais posteriores à intimação realizada, notadamente o julgamento do Tribunal do Júri", bem como a revogação da prisão preventiva do recorrente - condenado a 30 anos de reclusão como incurso nos arts. 121, §2º, I, III e IV (duas vezes), e 129, "caput", todos do Código Penal" - , sob o argumento de que "violação ao direito de presença do acusado, bem como ao direito de autodefesa", visto que o oficial de justiça errou o endereço da casa indicada nos autos.
+Decido.
+A defesa narra que "o oficial de justiça responsável apresentou a certidão do ID 413703719, onde atesta que esteve no endereço informado, oportunidade na qual não localizou o réu, sendo que esta informação teria sido confirmada por uma pessoa de nome Maria dos Santos", todavia, "todos aqueles que residem e possuem domicílio do endereço do réu atestam que naquele imóvel não há, tampouco jamais residiu, qualquer pessoa de nome "Maria dos Santos" (fl. 442).
+O acórdão impugnado, ao afastar a tese defensiva, afirmou que "a tentativa de intimação é válida, pois a oficiala compareceu no mesmo endereço que consta nos autos, conforme resta demonstrado diante do comparativo da referida Certidão, do mandado e do comprovante de residência do paciente  .. , onde a impetrante confirma que o endereço era aquele acima sublinhado", concluindo, "não  haver  que se falar em não comparecimento da oficiala, haja vista que, conforme comprovante, o cumprimento do ato processual mencionado, se deu no mesmo endereço do comprovante de residência, juntado pela defesa". (fl. 410).
+Como visto, a demanda defensiva - ao infirmar as conclusões da Corte local quanto à correção do trabalho da oficial de justiça - exige vedado revolvimento de fatos, motivo pelo qual revela-se inviável o conhecimento do writ.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
