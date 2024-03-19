@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CORRUPÇÃO PASSIVA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. DESPROVIMENTO.
+1. De início, cumpre ressaltar a possibilidade de o relator julgar monocraticamente o recurso especial quando houver entendimento dominante sobre o tema nesta Corte, como é o caso dos autos, em que foram colacionados precedentes no mesmo sentido do acórdão recorrido, o que legitima a aplicação da Súmula n. 568/STJ, não ocorrendo, assim, a nulidade apontada.
+2. In casu, o Tribunal local invocou fundamentos idôneos para indeferir a substituição das penas, pois demonstrado que "as circunstâncias e consequências do crime, como apontado pelo Magistrado, também extrapolam ao tipo penal, haja vista que o não pagamento da propina ensejava - dificuldades no cumprimento de ordens judiciais e o fato trouxe inegável prejuízo a administração da Justiça e irreparável desgaste à imagem do TJMG", não havendo falar-se em ofensa ao art. 44 do CP, diante de expressa previsão legal. Precedentes.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão que negou provimento aos recursos especiais.
+O agravante foi condenado a 4 anos de reclusão, no regime aberto, e 30 dias-multa, nos termos do art. 317, caput, do Código Penal.
+Nas razões deste recurso, reitera a defesa o argumento de que a pena "foi fixada em quatro anos, não foi cometido com violência, tampouco grave ameaça, não tendo sido o Recorrente condenado em outro feito, de maneira a possuir, ainda, todas as circunstâncias pessoais favoráveis para tanto, tendo residência fixa, possuindo família, não havendo de se falar em inviabilidade da substituição da pena por restritivas de direito" (fl. 849), requerendo, ao final, o seu provimento.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CORRUPÇÃO PASSIVA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. DESPROVIMENTO.
+1. De início, cumpre ressaltar a possibilidade de o relator julgar monocraticamente o recurso especial quando houver entendimento dominante sobre o tema nesta Corte, como é o caso dos autos, em que foram colacionados precedentes no mesmo sentido do acórdão recorrido, o que legitima a aplicação da Súmula n. 568/STJ, não ocorrendo, assim, a nulidade apontada.
+2. In casu, o Tribunal local invocou fundamentos idôneos para indeferir a substituição das penas, pois demonstrado que "as circunstâncias e consequências do crime, como apontado pelo Magistrado, também extrapolam ao tipo penal, haja vista que o não pagamento da propina ensejava - dificuldades no cumprimento de ordens judiciais e o fato trouxe inegável prejuízo a administração da Justiça e irreparável desgaste à imagem do TJMG", não havendo falar-se em ofensa ao art. 44 do CP, diante de expressa previsão legal. Precedentes.
+3. Agravo regimental desprovido.
+VOTO
+A decisão agravada deve ser mantida por seus próprios fundamentos, extraindo-se desta, no que interessa (fls. 828-832):
+ ..  O eg. Tribunal a quo assim se manifestou sobre o ponto, ao julgar os apelos (fls. 702-709 - grifei:
+MÉRITO
+A materialidade encontra-se demonstrada pelo BO de fls. 08/17, autos de apreensão de fls. 30/31 e 100, mandados de busca de apreensão de fls. 64 e 67/68 e pelos documentos de fls. 44, 73, 70/72 e 109/115 e cópia dos autos em apenso 0024.17.59992-6, bem como pela prova oral produzida.
+Da mesma forma, a autoria dos acusados restou devidamente comprovada, em que pese a negativa dos réus.
+Senão vejamos.
+A corrupção, tanto passiva quanto a ativa, é um dos principais delitos que atingem diretamente os pilares da Administração Pública, principalmente no que diz respeito à moralidade administrativa. Assim, o desperdício de recursos públicos e a impunidade dos agentes infratores demonstram a necessidade de medidas mais enérgicas no combate à corrupção.
+Pois bem.
+Extrai-se dos autos que a operação denominada "Mutatis Mutandis" investigou um esquema ilícito de redistribuição de mandados, com o pagamento indevido de vantagem econômica para a realização do cumprimento destes pelos oficiais de justiça.
+Extrai-se ainda do caderno processual que, no dia 9 de agosto de 2017, na Avenida Olegário Maciel, nº 2.144, bairro Santo Agostinho, nesta Capital, o denunciado Marlon Davis Lacerda Parreiras ofereceu vantagem indevida, consistente na quantia de R$ 300,00 (trezentos reais) em moeda nacional corrente, ao denunciado William Rezende Meio, funcionário público, ocupante do cargo de Oficial de Justiça, para determiná-lo a praticar ato de oficio, inerente à sua função, qual seja, a apreensão do veículo VOLVOIXC90, placas JQV-4329, determinada nos autos da ação 0024.17.5019926.
+ ..
+Sob o crivo do contraditório (Mídia de fl. 350), Marlon confirmou ter efetuado o pagamento da quantia de R$300,00 (trezentos reais) para Willian realizar a diligência de apreensão do veículo supracitado, alegando que esse lhe fez a exigência de maneira indireta, - sendo que o mesmo era conhecido pela cobrança de valores para realizar atos de ofício, nos termos ainda da conversa captada às fls. 98/100.
+ ..
+Corroborando a tese acusatória, o delegado de polícia Luiz Flávio Cortat em juízo (Mídia de fl. 350) confirmou o inquérito, acrescentando ter restado comprovado que Willian condicionava o cumprimento do mandado de busca e apreensão ao pagamento de propina e prática do delito em tela, mormente diante da interceptação transcrita em fI. 129.
+Atestou ainda que Willian tinha riqueza incompatível com o cargo por ele ocupado. Vale ressaltar também o depoimento judicial do Delegado Geral de Polícia Reinaldo Felício Lima (Mídia de fI. 350), em que afirma terem sido fundamentais para a comprovação dos crimes em tela as interceptações telefônicas entre os réus, sendo que Marlon confessou o pagamento de propina para Willian praticar ato de ofício.
+ ..
+Desta forma, o édito condenatório deve ser integralmente mantido, não merecendo maiores considerações as alegações defensivas.
+Ultrapassado isto, quanto ás penas fixadas, entendo que comportam alterações, vejamos.
+ ..
+II - Willian Rezende Meio
+Na primeira fase, a pena base foi fixada em 05 (cinco) anos de reclusão e 40 (quarenta) dias multa, diante da análise desfavorável da culpabilidade do acusado e das circunstâncias e consequências do crime.
+Contudo, entendo que a culpabilidade diz respeito à censurabilidade/reprovabilidade da conduta, devendo ser entendida e concretamente fundamentada na reprovação social que o crime e o autor do fato merecem. No caso em apreço, vejo que a censurabilidade da conduta é inerente ao tipo penal, não sendo o caso de aumentar a pena-base diante da censurabilidade de sua conduta.
+Lado outro, as circunstâncias e consequências do crime, como apontado pelo i. Magistrado, também extrapolam ao tipo penal, haja vista que o não pagamento da propina ensejava dificuldades no cumprimento de ordens judiciais e o fato trouxe inegável prejuízo a administração da Justiça e irreparável desgaste à imagem do TJMG.
+Ainda, registro que o processo de dosirnetria da pena não se cinge a um balizamento estritamente aritmético, em que a reprimenda é aumentada tão-somente com base no número de circunstâncias judiciais desfavoráveis, devendo o julgador proceder a uma análise de caso a caso, sempre se valendo dos princípios da proporcionalidade e razoabilidade, com o escopo de alcançar a pena justa.
+Assim, fixo a pena base em 04 anos de reclusão e 30 dias multa.
+Ausentes atenuantes, agravantes e causas outras, a reprimenda resta concretizada em 04 anos de reclusão e 30 dias multa.
+Fixo o regime aberto e a inviabilidade da substituição de pena por restritivas de direitos, nos termos do art. 44, III, do Código Penal.
+Por sua vez, ao acolher parcialmente os embargos aviados pela defesa, assim dispôs o acórdão recorrido (fls. 732-733 - grifei):
+ ..
+Por fim, no concernente à possibilidade de substituição da pena privativa de liberdade por restritiva em relação ao embargante William, igualmente não padece de qualquer contradição o acórdão, conforme supratranscrito, inviável a substituição, pois em desacordo com legislação, uma vez que presentes duas balizas negativas; (..) as circunstâncias e consequências do crime, como apontado pelo. Magistrado, também extrapolam ao tipo penal, haja vista que o não pagamento da propina ensejava - dificuldades no cumprimento de ordens judiciais e o fato trouxe inegável prejuízo a administração da Justiça e irreparável desgaste à imagem do TJMG (..).
+ ..
+Da análise dos excertos colacionados, verifica-se que a Corte de origem invocou fundamentos para denegar a pretensão de substituição da pena privativa de liberdade por restritiva de direitos, em relação ao recorrente Willian, que não comportam qualquer censura por este Tribunal, na medida em que restou demonstrada com base em elementos concretos a comprovar a insuficiência da substituição pois, como bem observado pela Corte de origem, "as circunstâncias e consequências do crime, como apontado pelo. Magistrado, também extrapolam ao tipo penal, haja vista que o não pagamento da propina ensejava - dificuldades no cumprimento de ordens judiciais e o fato trouxe inegável prejuízo a administração da Justiça e irreparável desgaste à imagem do TJMG" (fl. 736). ..
+In casu, como visto da transcrição acima, demonstrou-se, idoneamente, a insuficiência da substituição das penas, uma vez que, como motivado pelo Tribunal local, "inviável a substituição, pois em desacordo com legislação, uma vez que presentes duas balizas negativas; (..) as circunstâncias e consequências do crime, como apontado pelo. Magistrado, também extrapolam ao tipo penal, haja vista que o não pagamento da propina ensejava - dificuldades no cumprimento de ordens judiciais e o fato trouxe inegável prejuízo a administração da Justiça e irreparável desgaste à imagem do TJMG".
+Ademais, respectiva negativa decorre de expressa previsão legal - art. 44, III, do CP -, conforme entendimento uníssono desta Corte, não havendo falar-se em ausência de jurisprudência dominante sobre o tema.
+"No tocante à substituição da pena privativa de liberdade por restritiva de direitos, verifica-se, efetivamente, não ser o caso, diante do expresso teor do art. 44, III, do CP." (AgRg no HC n. 869.169/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024.)
+"Pela mesma razão, inviável a substituição da pena privativa de liberdade por penas restritivas de direito, ante o não cumprimento do requisito subjetivo contido no art. 44, III, do Código Penal." (AgRg no AREsp n. 2.317.966/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/8/2023, DJe de 25/8/2023.)
+"Ademais, tendo as instâncias ordinárias, diante da discricionariedade motivada, concluído que a substituição da pena corporal por restritiva de direitos não se mostra socialmente recomendável, a inversão desse demandaria o reexame do conteúdo fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ." (AgRg no AREsp n. 2.440.999/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 28/11/2023, DJe de 1º/12/2023. )
+Ante o exposto, nego provimento ao agravo regimental, mantendo incólume a decisão agravada.
+É o voto.
