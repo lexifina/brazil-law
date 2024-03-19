@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial, com fundamento na impossibilidade de analisar, na via eleita, violação a norma infralegal.
+Alega que a defesa que as instâncias de origem, ao negarem ao apenado benefício do indulto presidencial (art. 5º do Decreto n. 11.302/2022), em relação à prática dos delitos de invasão de domicílio (art. 150, caput, do Código Penal), porte irregular de arma de fogo de uso permitido (art. 14, caput, da Lei nº 10.826/03) e disparo de arma de fogo (art. 15, caput, da Lei nº 10.826/03), negaram vigência ao referido dispositivo.
+Requer o provimento do recurso, a fim de determinar a concessão do indulto natalino ao apenado, com base no art. 5º do Decreto Presidencial n. 11.302/2022, com a consequente extinção de sua punibilidade.
+Contraminuta apresentada. O Ministério Público Federal manifestou-se pelo improvimento do recurso.
+O agravo é tempestivo e infirma as razões da decisão impugnada. Passo à análise do recurso especial.
+Acerca da controvérsia trazida no recurso especial, colhe-se do acórdão recorrido (fls. 1820-1830):
+Vê-se que o recorrente foi condenado pela prática dos delitos de invasão de domicílio (art. 150, caput, do Código Penal), porte irregular de arma de fogo de uso permitido (art. 14, caput, da Lei nº 10.826/03) e disparo de arma de fogo (art. 15, caput, da Lei nº 10.826/03), cujas penas privativas de liberdade máximas culminadas em abstrato não são superiores a 05 anos - e, portanto, teoricamente estariam abrangidos pela norma do art. 5º do Decreto nº 11.302/22.
+No entanto, também ostenta condenações por outros crimes, entre eles o de latrocínio, considerado impeditivo pelo referido decreto em razão da sua natureza hedionda.
+ ..
+À vista disso, levando-se em conta que até o dia 25 de dezembro de 2022 o recorrente ainda não havia cumprido a integralidade da pena referente ao crime impeditivo, resta inviabilizada a concessão do benefício pleiteado, em virtude do inadimplemento do requisito objetivo exigido pelo art. 11, parágrafo único, do Decreto Presidencial nº 11.302/2022.
+No caso, a defesa pleiteia a concessão de indulto ao paciente em relação à prática dos delitos de invasão de domicílio (art. 150, caput, do Código Penal), porte irregular de arma de fogo de uso permitido (art. 14, caput, da Lei nº 10.826/03) e disparo de arma de fogo (art. 15, caput, da Lei nº 10.826/03), com base no Decreto Presidencial n. 11.302/2022.
+O art. 5º do Decreto n. 11.302/2022 prevê a concessão do indulto natalino aos condenados por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos.
+Ademais, a Terceira Seção dessa Corte, no julgamento do AgRg no HC n. 856.053/SC, de relatoria do Ministro Sebastião Reis Júnior, firmou o entendimento de que "apenas no caso de crime impeditivo cometido em concurso com crime não impeditivo que se exige o cumprimento integral da reprimenda dos delitos da primeira espécie. Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não há de se exigir o cumprimento integral da pena pelos crimes impeditivos". Confira-se:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO NATALINO (DECRETO PRESIDENCIAL N. 11.302/2022). INTERPRETAÇÃO RESTRITIVA. ART. 11, PARÁGRAFO ÚNICO, DO REFERIDO DECRETO. CONDENAÇÃO POR CRIME IMPEDITIVO E CRIME NÃO IMPEDITIVO. CONCURSO NÃO CARACTERIZADO. POSSIBILIDADE DE INDULTO. PRECEDENTE. ALEGAÇÃO DE INCONSTITUCIONALIDADE DO ART. 5º DO DECRETO N. 11.302/2022. INOVAÇÃO EM AGRAVO REGIMENTAL. IMPOSSIBILIDADE.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, o decreto de indulto deve ser interpretado restritivamente, sob pena de invasão do Poder Judiciário na competência exclusiva da Presidência da República, conforme art. 84, XII, da Constituição Federal.
+2. Para fins do referido decreto, apenas no caso de crime impeditivo cometido em concurso com crime não impeditivo que se exige o cumprimento integral da reprimenda dos delitos da primeira espécie.
+Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não há de se exigir o cumprimento integral da pena pelos crimes impeditivos.
+3. Agravo regimental improvido.
+(AgRg no HC n. 856.053/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+No caso, não há óbice para a concessão do indulto ao condenado, porquanto os crimes não foram cometidos em concurso com crime impeditivo.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial a fim de determinar ao Juízo de primeiro grau que conceda o indulto natalino ao recorrente em relação à prática dos delitos de invasão de domicílio (art. 150, caput, do Código Penal), porte irregular de arma de fogo de uso permitido (art. 14, caput, da Lei nº 10.826/03) e disparo de arma de fogo (art. 15, caput, da Lei nº 10.826/03), oriundos das ações penais nº 0002710-84.2009.8.11.0037 e nº 0002069-28.2011.8.11.0037.
+Publique-se.
+Intimem-se.
+EMENTA
