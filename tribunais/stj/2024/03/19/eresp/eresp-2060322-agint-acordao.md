@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 13/03/2024 a 19/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PLANO DE SAÚDE. TRATAMENTO DE CÂNCER. MEDICAMENTO. COBERTURA. SÚMULA N. 168/STJ. AUSÊNCIA DE CONFRONTO ANALÍTICO. DECISÃO MANTIDA.
+1. O acórdão embargado está em conformidade com a atual orientação desta Corte Superior. Incidente, portanto, a Súmula n. 168 do STJ, segundo a qual "não cabem embargos de divergência, quando a jurisprudência do tribunal se firmou no mesmo sentido do acórdão embargado".
+2. Indispensável para o conhecimento dos embargos de divergência a realização do confronto analítico, mediante a transcrição e a comparação entre trechos dos votos proferidos no acórdão embargado e no precedente, em conformidade com os arts. 1.043, § 4º, do CPC e 266, § 4º, do RISTJ. Requisito não atendido.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão desta relatoria, que indeferiu liminarmente embargos de divergência, os quais visavam à reforma de acórdão da TERCEIRA TURMA, Relatora Ministra NANCY ANDRIGHI, assim ementado (e-STJ fl. 539):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. FORNECIMENTO DE MEDICAMENTO. MEDICAMENTO REGISTRADO NA ANVISA. TRATAMENTO DE CÂNCER. RECUSA DE COBERTURA INDEVIDA.
+1. Ação de obrigação de fazer, visando o fornecimento de medicamento para tratamento de câncer.
+2. Segundo a jurisprudência do STJ, "é abusiva a recusa da operadora do plano de saúde de custear a cobertura do medicamento registrado na ANVISA e prescrito pelo médico do paciente, ainda que se trate de fármaco off-label, ou utilizado em caráter experimental" (AgInt no AREsp 1.653.706/SP, Terceira Turma, julgado em 19/10/2020, DJe 26/10/2020; AgInt no AREsp 1.677.613/SP, Terceira Turma, julgado em 28/09/2020, DJe 07/10/2020; AgInt no REsp 1.680.415/CE, Quarta Turma, julgado em 31/08/2020, DJe 11/09/2020; AgInt no AREsp 1.536.948/SP, Quarta Turma, julgado em 25/05/2020, DJe 28/05/2020), especialmente na hipótese em que se mostra imprescindível à conservação da vida e saúde do beneficiário.
+3. Agravo interno no recurso especial não provido.
+Em suas razões, a parte agravante sustenta que "se demonstrou a existência de divergência entre a 3ª Turma e a 4ª Turma do Superior Tribunal de Justiça em relação à matéria discutida nos autos. A 3ª Turma sustenta a visão de que o Rol da ANS é exemplificativo no que diz respeito a tratamentos off-label ou experimentais, obrigando assim a operadora a fornecer tratamento mesmo que não esteja no Rol. Por outro lado, a 4ª Turma interpreta que o Rol da ANS é taxativo, independentemente da condição do paciente e especialmente para tratamentos experimentais e off-label.  .. . Ambas as decisões em análise tratam da interpretação dos artigos 10 e 12 da Lei nº 9.656 de 1998, relacionados ao Rol da ANS, especialmente no contexto de tratamentos experimentais e "off-label". No entanto, elas chegaram a conclusões divergentes. O acórdão recorrido alega que o Rol da ANS tem natureza exemplificativa para tratamentos experimentais e off-label, enquanto o acórdão paradigma defende que é taxativo, especialmente quando o tratamento solicitado é experimental e off-label. Essa discrepância deve ser dirimida pelo Superior Tribunal de Justiça, conforme preconiza o artigo 926 do Código de Processo Civil, a fim de manter uma interpretação clara e uniforme sobre o tema, conforme estabelecido pelos Embargos de Divergência em Recursos Especiais (EREsps) nºs 1.886.929/SP e 1.889.704/SP da Seção Especial do Superior Tribunal de Justiça" (e-STJ fls. 1.084/1.085).
+Por fim, ratifica as razões de mérito para a reforma do acórdão embargado e requer o provimento do recurso (e-STJ fl. 1.085).
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PLANO DE SAÚDE. TRATAMENTO DE CÂNCER. MEDICAMENTO. COBERTURA. SÚMULA N. 168/STJ. AUSÊNCIA DE CONFRONTO ANALÍTICO. DECISÃO MANTIDA.
+1. O acórdão embargado está em conformidade com a atual orientação desta Corte Superior. Incidente, portanto, a Súmula n. 168 do STJ, segundo a qual "não cabem embargos de divergência, quando a jurisprudência do tribunal se firmou no mesmo sentido do acórdão embargado".
+2. Indispensável para o conhecimento dos embargos de divergência a realização do confronto analítico, mediante a transcrição e a comparação entre trechos dos votos proferidos no acórdão embargado e no precedente, em conformidade com os arts. 1.043, § 4º, do CPC e 266, § 4º, do RISTJ. Requisito não atendido.
+3. Agravo interno a que se nega provimento.
+VOTO
+A parte agravante não desenvolveu nenhum argumento apto à modificação da decisão agravada, a qual deve ser mantida.
+Os embargos de divergência foram indeferidos liminarmente sob os seguintes fundamentos (e-STJ fls. 1.076/1.078):
+Trata-se de embargos de divergência em recurso especial interpostos contra acórdão da TERCEIRA TURMA, Relatora Ministra NANCY ANDRIGHI, assim ementado (e-STJ fl. 539):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. FORNECIMENTO DE MEDICAMENTO. MEDICAMENTO REGISTRADO NA ANVISA. TRATAMENTO DE CÂNCER. RECUSA DE COBERTURA INDEVIDA.
+1. Ação de obrigação de fazer, visando o fornecimento de medicamento para tratamento de câncer.
+2. Segundo a jurisprudência do STJ, "é abusiva a recusa da operadora do plano de saúde de custear a cobertura do medicamento registrado na ANVISA e prescrito pelo médico do paciente, ainda que se trate de fármaco off-label, ou utilizado em caráter experimental" (AgInt no AREsp 1.653.706/SP, Terceira Turma, julgado em 19/10/2020, DJe 26/10/2020; AgInt no AREsp 1.677.613/SP, Terceira Turma, julgado em 28/09/2020, DJe 07/10/2020; AgInt no REsp 1.680.415/CE, Quarta Turma, julgado em 31/08/2020, DJe 11/09/2020; AgInt no AREsp 1.536.948/SP, Quarta Turma, julgado em 25/05/2020, DJe 28/05/2020), especialmente na hipótese em que se mostra imprescindível à conservação da vida e saúde do beneficiário.
+3. Agravo interno no recurso especial não provido.
+A parte embargante defende que o acórdão recorrido contrariou os seguintes julgados:
+(a) REsp n. 1.733.013/PR, QUARTA TURMA, Rel. Ministro LUIS FELIPE SALOMÃO, DJe de 20/02/2020,
+(b) EREsp n. 1.886.929/SP, SEGUNDA SEÇÃO, Relator Ministro LUIS FELIPE SALOMÃO, DJe de 03/08/2022,
+(c) EREsp n. 1.889.704/SP, SEGUNDA SEÇÃO, Rel. Ministro LUIS FELIPE SALOMÃO, DJe de 03/08/2022.
+Salienta que o "Superior Tribunal de Justiça com base no art. 10, I, da Lei nº 9.656/1998 já decidiu que "estão excluídos das exigências mínimas de cobertura assistencial a ser oferecida pelas operadoras de planos de saúde os procedimentos clínicos experimentais".  ..  Quando a operadora de planos de saúde cumpre devidamente o contrato e fornece todos os tratamentos elencados no rol da ANS e mesmo assim é compelida a fornecer tratamentos outros que não aqueles contratualmente estabelecidos, ocorre o desequilíbrio contratual e o risco considerável de desestabilizar a saúde financeira da operadora de planos de saúde. Desta forma, se há desequilíbrio contratual e abusividade contratual não é da operadora de planos de saúde face ao consumidor, mas sim inversamente, uma vez que o consumidor recebe um produto pelo qual não pagou" (e-STJ fl. 567).
+Pede a reforma do acórdão embargado (e-STJ fls. 575/576).
+É o relatório.
+Decido.
+Passo à análise dos embargos de divergência com relação ao pretenso conflito entre o aresto recorrido, da TERCEIRA TURMA e o REsp n. 1.733.013/PR, QUARTA TURMA, Rel. Ministro LUIS FELIPE SALOMÃO, DJe de 20/02/2020.
+O acórdão embargado está em conformidade com a atual orientação desta Corte Superior, no sentido de que "a natureza taxativa ou exemplificativa do rol da ANS é irrelevante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução normativa" (AgInt no REsp n. 2.004.990/SP, relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 13/3/2023, DJe de 16/3/2023).
+Nesse sentido:
+ ..
+Em tal contexto, ausente atual divergência entre acórdãos da TERCEIRA e da QUARTA TURMAS, incide a orientação da Súmula n. 168 do STJ, segundo a qual "não cabem embargos de divergência, quando a jurisprudência do tribunal se firmou no mesmo sentido do acórdão embargado".
+Doravante, procedo à análise dos embargos de divergência com relação ao pretenso conflito do aresto recorrido, da TERCEIRA TURMA, com os EREsp n. 1.886.929/SP, SEGUNDA SEÇÃO, Relator Ministro LUIS FELIPE SALOMÃO, DJe de 03/08/2022, e com os EREsp n. 1.889.704/SP, SEGUNDA SEÇÃO, Rel. Ministro LUIS FELIPE SALOMÃO, DJe de 03/08/2022.
+No que se refere a tais paradigmas, a parte embargante se limitou a colacionar as cópias respectivas, sem realizar o indispensável confronto analítico mediante a transcrição e a comparação entre trechos dos votos proferidos no acórdão embargado e nos precedentes, o que é suficiente para afastar o cabimento dos embargos, nos termos dos arts. 1.043, § 4º, do CPC e 266, § 4º, do RISTJ.
+Ante o exposto, com fundamento no art. 266-C do RISTJ, INDEFIRO LIMINARMENTE os embargos de divergência.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+Como aludido, os embargos foram inadmitidos em razão da conformidade do acórdão embargado com a atual orientação desta Corte, especificamente quanto ao tratamento de câncer, aplicada a Súmula n. 168/STJ.
+No que se refere aos demais paradigmas (EREsp n. 1.886.929/SP, SEGUNDA SEÇÃO, Relator Ministro LUIS FELIPE SALOMÃO, DJe de 03/08/2022, e EREsp n. 1.889.704/SP, SEGUNDA SEÇÃO, Rel. Ministro LUIS FELIPE SALOMÃO, DJe de 03/08/2022), a parte embargante se lim itou a juntar os documentos mencionados, sem realizar o indispensável confronto analítico mediante a transcrição e a comparação de trechos dos votos proferidos no acórdão embargado e nos precedentes, o que é suficiente para afastar o cabimento dos embargos, nos termos dos arts. 1.043, § 4º, do CPC e 266, § 4º, do RISTJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
