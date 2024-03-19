@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido de liminar, interposto por DIEGO DA SILVA ARAÚJO em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE (Autos nº 202300340290).
+O habeas corpus apresentado pela defesa foi denegado por meio de acórdão assim ementado (e-STJ fl. 125):
+HABEAS CORPUS - PACIENTE PRESO PREVENTIVAMENTE PELO SUPOSTO COMETIMENTO DO CRIME PREVISTO NO ARTIGO 14 DA LEI Nº 10.826/03 E ART. 33, CAPUT, DA LEI Nº 11.343/06 C/C ARTIGO 69 DO CP - PEDIDO DE REALIZAÇÃO P R O V A PAPISLOSCÓPICA NO INVÓLUCRO DA DROGA, BALANÇA DE PRECISÃO E BOLSA DE CALÇA JEANS QUE ENVOLVIA A D R O G A - MAGISTRADO DESTINATÁRIO DA P R O V A - INDEFERIMENTO EM CASO DE P R O V A DESPICIENDA OU PROTELATÓRIA - DECISÃO LIMINAR MANTIDA - ORDEM CONHECIDA E DENEGADA.
+A defesa alega, em síntese, cerceamento de defesa.
+Requer, liminar e definitivamente, o deferimento da ordem para garantia da produção da prova.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que configurada flagrante ilegalidade apta a gerar constrangimento ilegal, sendo possível a concessão da ordem de ofício. Veja-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. GENITOR. IMPRESCINDIBILIDADE DE CUIDADOS AO FILHO MENOR NÃO DEMONSTRADA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. RECURSO DESPROVIDO.
+I - A Primeira Turma do Supremo Tribunal Federal firmou orientação no sentido de não admitir a impetração de habeas corpus substitutivo ante a previsão legal de cabimento de recurso pertinente. Precedentes.
+II - O art. 318, inciso VI, do Código de Processo Penal dispõe que o magistrado poderá substituir a prisão preventiva pela domiciliar quando o agente for homem, caso seja o único responsável pelos cuidados do filho de até 12 (doze) anos de idade incompletos.
+III - No caso dos autos, conforme consignado pelo Tribunal a quo a defesa não se desincumbiu do ônus de demonstrar a imprescindibilidade do ora agravante aos cuidados de seus filhos.
+IV - Para desconstruir as conclusões alcançadas na origem seria necessário o revolvimento da matéria fático-probatória do caso em apreço, providência que é vedada em sede de habeas corpus.
+Agravo regimental desprovido.
+(AgRg no HC n. 764.589/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024.). Grifos acrescidos.
+O entendimento é de elevada importância, porquanto deve-se utilizá-lo com fito de preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+Para conhecer da controvérsia apresentada neste writ, contudo, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com a estreita via do habeas corpus.
+Além disso, a concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que não se verifica de plano na hipótese dos autos, conforme se obtém da fundamentação lançada na origem (e-STJ fls. 129-130):
+É regra comezinha que o magistrado é o destinatário direto da prova e valendo-se do princípio do livre convencimento motivado, este pode afastar requerimentos e negar a produção de provas e diligências que entender desnecessárias ou protelatórias, conforme fundamentei quando do indeferimento da liminar.
+A ampla defesa não pode ser estendida ao absurdo de impor ao Juiz colher provas que em nada poderão alterar o deslinde da demanda, postergando inadequadamente a solução da lide.
+(..)
+Ora, de fato, ao paciente recai a suposta conduta de ter em depósito um tablete de maconha, o que, em tese, seria desnecessária a prova papiloscópica para o deslinde da demanda.
+De fato, é pacífica a jurisprudência desta corte no sentido de que "Segundo a lei, compete ao órgão julgador indeferir a produção de provas consideradas irrelevantes, impertinentes ou protelatórias. Esse poder de polícia funciona como corolário lógico do princípio do impulso oficial, cabendo ao órgão judicante velar pela observância da marcha procedimental. Não se pode descurar que a produção probatória se destina ao convencimento do magistrado. As provas que se pretenda produzir devem, portanto, ser requeridas oportunamente e ter alguma relevância para o deslinde da causa. Desse modo, imperioso que as diligências requeridas pelas partes guardem pertinência e utilidade para o objeto da ação penal. O indeferimento de produção de prova, assim, desde que veiculado em decisão suficientemente fundamentada, não viola o devido processo legal. Compete ao órgão julgador, visando sempre o bom andamento do feito e o justo julgamento do processo, avaliar a necessidade e conveniência da produção de determinada prova, justificando sua conclusão de modo a permitir aos interessados confrontar a decisão.
+Tal o quadro, para que seja reconhecido o cerceamento do direito de defesa, imperioso à parte demonstrar a imprescindibilidade da diligência cuja produção foi indeferida ou a arbitrariedade do órgão julgador." (REsp 2049643 / DF, RELATOR Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DATA DO JULGAMENTO 12/09/2023, DATA DA PUBLICAÇÃO/FONTE DJe 29/09/2023)
+No presente feito, as diligências probatórias requeridas foram indeferidas fundamentadamente, apontando-se de forma satisfatória o motivo de sua imprestabilidade, motivo pelo qual não se mostra viável o acolhimento do argumento defensivo sem o amplo revolvimento probatório, providência incompatível com o "writ".
+Ante o exposto, nego provimento ao presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
