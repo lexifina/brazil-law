@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/03/2024 a 19/03/2024, por unanimidade, dar parcial provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. MERO APONTAMENTO DO TÍTULO PARA PROTESTO. INSCRIÇÃO DO NOME DO AUTOR EM CADASTRO DE RESTRIÇÃO AO CRÉDITO. NÃO OCORRÊNCIA. DANO MORAL. INEXISTÊNCIA. AGRAVO INTERNO PROVIDO. DECISÃO RECONSIDERADA. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. A Corte estadual, com base nos elementos fático-probatórios dos autos, consignou que houve mero apontamento dos títulos para protesto, bem como mero requerimento de inscrição da parte recorrida no cadastro de inadimplentes, sem que essa se efetivasse.
+2. Nos termos da jurisprudência do STJ, o simples apontamento do título, sem o efetivo registro do protesto, ainda que de forma indevida, é incapaz de gerar dano moral a quem quer que seja. Precedentes.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em novo julgamento, conhecer do agravo para dar parcial provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo interno, interposto por FTA DESENVOLVIMENTO IMOBILIÁRIO, contra decisão desta Relatoria que conheceu do agravo para negar provimento ao recurso especial.
+A agravante, em suas razões recursais, alega que "o recurso especial está suportado na inexistência de protesto ou inserção indevida em cadastro de inadimplentes, e a decisão não enfrentou o tema" (fl. 426), sendo incabível, portanto, a condenação a título de danos morais.
+Não houve impugnação da parte agravada (fl. 433).
+É o relatório.
+EMENTA
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. MERO APONTAMENTO DO TÍTULO PARA PROTESTO. INSCRIÇÃO DO NOME DO AUTOR EM CADASTRO DE RESTRIÇÃO AO CRÉDITO. NÃO OCORRÊNCIA. DANO MORAL. INEXISTÊNCIA. AGRAVO INTERNO PROVIDO. DECISÃO RECONSIDERADA. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. A Corte estadual, com base nos elementos fático-probatórios dos autos, consignou que houve mero apontamento dos títulos para protesto, bem como mero requerimento de inscrição da parte recorrida no cadastro de inadimplentes, sem que essa se efetivasse.
+2. Nos termos da jurisprudência do STJ, o simples apontamento do título, sem o efetivo registro do protesto, ainda que de forma indevida, é incapaz de gerar dano moral a quem quer que seja. Precedentes.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em novo julgamento, conhecer do agravo para dar parcial provimento ao recurso especial.
+VOTO
+Assiste razão à parte agravante.
+Quanto à configuração dos danos morais, a Corte de origem, com base no lastro probatório dos autos, verificou que houve apontamento do título para protesto, bem como o requerimento da inclusão do nome da autora perante cadastro de proteção ao crédito, como se verifica no trecho do acórdão a seguir (fls. 276/277):
+"Indevido o valor da corretagem, também indevido o apontamento do protesto da nota promissória que representava esse valor, ilícito por si só que já admitia a caracterização do dano moral e a responsabilização correspondente. Além disso, após a concessão da liminar de sustação de protesto, a Ré requereu junto à Associação Comercial e Industrial de Campinas - ACIC - a inclusão do nome da Autora perante o cadastro de proteção ao crédito (fls. 54/55).
+(..)
+Nesse caso, levando em consideração a gravidade e extensão do dano, bem como a culpa da Ré, a indenização por danos morais sofridos pela Autora deve ser fixada em R$ 3.000,00, pois o valor deve ser o suficiente para inibir a Apelada da prática de atos dessa natureza, capazes de macular a honra e o sentimento alheio e, de outro lado, não importar enriquecimento sem causa da ofendida."
+No entanto, pelas provas constantes dos autos, não foi demonstrado o efetivo protesto indevido - mas mero apontamento - bem como a inclusão do nome da recorrida nos serviços de proteção ao crédito, mas simples requerimento.
+Quanto ao tema, esta Corte de Justiça interpreta que "o simples apontamento do título, sem o efetivo registro do protesto, ainda que de forma indevida, é incapaz de gerar dano moral a quem quer que seja" (AgRg no REsp 1.385.395/SP, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 24/9/2013, DJe de 27/9/2013; AgRg no AgRg no REsp 1.098.020/RJ, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 9/10/2018, DJe de 24/10/2018).
+Do mesmo modo, no caso concreto, também não houve inscrição do nome da parte nos serviços de proteção ao crédito, não havendo publicidade, de modo que não houve, portanto, a consequente ofensa a direito da personalidade. Sobre o tema, confira-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITOS. RESTITUIÇÃO DE VALORES E INDENIZAÇÃO POR DANOS MORAIS. DESCONTO INDEVIDO. VALOR ÍNFIMO. DANO MORAL INEXISTENTE. MERO ABORRECIMENTO. CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. RECURSO DESPROVIDO.
+1. Esta Corte Superior entende que "a caracterização do dano moral exige que a comprovação do dano repercuta na esfera dos direitos da personalidade. A fraude bancária, nessa perspectiva, não pode ser considerada suficiente, por si só, para a caracterização do dano moral" (AgInt nos EDcl no AREsp 1.669.683/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/11/2020, DJe de 30/11/2020).
+2. O Tribunal de origem concluiu que o desconto indevido de R$ 70,00 (setenta reais) no benefício previdenciário da agravante não acarretou danos morais, considerando que foi determinada a restituição do valor, que a instituição financeira também foi vítima de fraude e que não houve inscrição do nome da agravante em cadastros de proteção ao crédito, de modo que ficou configurado mero aborrecimento.
+3. "A jurisprudência desta Corte entende que, quando a situação experimentada não tem o condão de expor a parte a dor, vexame, sofrimento ou constrangimento perante terceiros, não há falar em dano moral, uma vez que se trata de mero aborrecimento ou dissabor, mormente quando a falha na prestação de serviços, embora tenha acarretado aborrecimentos, não gerou maiores danos ao recorrente, como ocorreu na presente hipótese" (AgInt no AREsp 1.354.773/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 02/04/2019, DJe de 24/04/2019).
+4. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 1.948.000/SP, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 23/5/2022, DJe de 23/6/2022.)
+Ante o exposto, dou provimento ao agravo interno para, em novo julgamento, conhecer do agravo para dar parcial provimento ao recurso especial, a fim de afastar a condenação da ora agravante ao pagamento de indenização a título de danos morais.
+É como voto.
