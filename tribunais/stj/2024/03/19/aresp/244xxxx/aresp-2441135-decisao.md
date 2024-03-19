@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo, interposto contra decisão que negou seguimento ao recurso especial, com fundamento na Súmula 284/STF.
+Por bem lançado, adota-se o relatório do parecer do MPF (fl. 892):
+Trata-se de agravo interposto contra decisão do Tribunal de Justiça a quo que, em juízo de prelibação, inadmitiu o recurso subjacente ante a deficiência na fundamentação do recurso (súmula 284/STF) - (e-STJ, fls. 855/856).
+No apelo nobre, interposto com fulcro na alínea "a", do permissivo constitucional, o recorrente aponta genericamente violação aos artigos 59, 180 e 330, todos do CP, além do artigo 386, incisos VI e VII do CPP, aduzindo para tanto a insuficiência do cabedal probatório para a manutenção da condenação proferida em seu desfavor. Postula, o provimento do recurso para que ocorra a sua absolvição, ou subsidiariamente, a revisão na dosimetria da pena(e-STJ, fls. 819/842).
+Nesta sede, o agravante defende, em suma, a viabilidade do agravo em recurso especial (e-STJ, fls. 859/870).
+Requer que o recurso especial seja destrancado.
+Contraminuta apresentada, manifestou-se o Ministério Público Federal pelo não conhecimento do agravo.
+No caso, a despeito das razões apresentadas, o agravante deixou de rebater, especificamente, o óbice contido na Súmula 284/STF.
+Com efeito, a defesa não infirmou, de maneira adequada e suficiente, todas as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a impossibilidade de incidência dos óbices apontados.
+Isto é, a impugnação à decisão deve ser clara e suficiente a demonstrar o equívoco na sua negativa, pois não basta deduzir a inaplicabilidade dos óbices sumulares, devendo ser esclarecida a efetiva desnecessidade de reexame factual para deslinde da controvérsia.
+Mais precisamente, não só o referido obstáculo sumular não foi devidamente rebatido como, de fato, no recurso especial, fundado na alínea c, não houve a indicação e demonstração dos artigos de lei federal supostamente violados, situação que atrai o óbice do enunciado sumular n. 284, do Supremo Tribunal Federal.
+Quanto ao tema, confiram-se:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. ART. 180, CAPUT, DO CP. ART. 99, §§ 2º E 3º, DO CPC. FALTA DE PREQUESTIONAMENTO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL OBJETO DE INTERPRETAÇÃO DIVERGENTE. INCIDÊNCIA DA SÚMULA 284/STF. DESCLASSIFICAÇÃO PARA CONDUTA CULPOSA. PLEITO QUE DEMANDA REVOLVIMENTO DE FATOS E PROVAS. ÓBICE DA SÚMULA 7/STJ. REGIME INICIAL E NEGATIVA DE SUBSTITUIÇÃO DE PENA. FUNDAMENTO INATACADO. SÚMULA 283/STF. MOTIVAÇÃO IDÔNEA. PRECEDENTES..
+1. A Corte de origem não emitiu nenhum juízo de valor acerca da questão jurídica levantada em torno do art. 99, §§ 2º e 3º, do Código de Processo Civil, e não houve sequer a oposição de embargos de declaração com o fim de forçar a sua análise, o que atrai, por consequência, a incidência das Súmulas 282 e 356/STF, ante a ausência do indispensável prequestionamento.
+2. No tocante à alegação de que há dissídio pretoriano quanto à incidência do princípio da insignificância, incide a Súmula 284/STF, porquanto a ausência da indicação do dispositivo de lei federal para o qual os julgados - recorrido e paradigma - tenham conferido interpretação divergente é óbice à análise do apelo nobre fundamentado na alínea c do permissivo constitucional.
+3. A teor da jurisprudência desta Corte, em se tratando de crime de receptação, cabe ao acusado flagrado na posse do bem demonstrar a sua origem lícita ou a conduta culposa, nos termos do art. 156 do Código de Processo Penal, não havendo falar em inversão do ônus da prova. Precedentes.
+4. A Corte de origem concluiu, a partir dos elementos de prova carreados aos autos originários, que o agravante tinha ciência da origem ilícita do bem, razão pela qual o pleito de desclassificação do crime demandaria o reexame dos elementos fático-probatórios dos autos, o que é defeso no âmbito do recurso especial.
+5. Quanto ao regime inicial e à substituição da pena privativa de liberdade por restritiva de direitos, o agravante não rebateu os fundamentos referentes à ausência do requisito subjetivo elencado no art. 44, II, do Código Penal e de correção da estipulação do regime prisional semiaberto, tendo em conta a reincidência e os maus antecedentes ostentados pelo agente. Incidência do óbice da Súmula n. 283 do Supremo Tribunal Federal.
+6. A reincidência e a presença de circunstância judicial desfavorável (antecedentes) inviabilizam o estabelecimento do regime inicial aberto, de modo que inexiste ilegalidade no resgate da reprimenda no regime inicial semiaberto, nos termos do art. 33, §§ 2º e 3º, do Código Penal e da Súmula 269/STJ. Pela mesma razão, inviável a substituição da pena privativa de liberdade por penas restritivas de direito, ante o não cumprimento do requisito subjetivo contido no art. 44, III, do Código Penal.
+7. Agravo regimental improvido.
+(AgRg no AREsp n. 2.317.966/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/8/2023, DJe de 25/8/2023.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. FURTO. ART. 155, CAPUT, C/C O ART. 71, CAPUT, DO CP. DECISÃO DA PRESIDÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL QUE SUPOSTAMENTE TERIA SIDO OBJETO DE DISSÍDIO INTERPRETATIVO. INCIDÊNCIA DA SÚMULA N. 284/STF. PRECEDENTES.
+1. A parte agravante não apontou o dispositivo de lei federal que teria sido objeto de interpretação divergente, situação que atrai o óbice previsto na Súmula n. 284/STF. Isso, porque, mesmo quando o recurso especial é interposto com fundamento na alínea "c" do permissivo constitucional, é necessária a indicação do dispositivo da legislação infraconstitucional federal sobre o qual recai a divergência, o que não foi realizado, sob pena de atração da Súmula n. 284 do Supremo Tribunal Federal, por analogia (fundamentação deficiente) - (AgRg no REsp n. 1.538.296/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 5/10/2016).
+2. A complementação da fundamentação deficiente em sede de agravo regimental não tem o condão de sanar o vício contido nas razões do recurso especial em decorrência da inovação recursal vedada em razão da preclusão consumativa (AgRg no AREsp n. 1.393.027/PR, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 26/9/2019).
+3. Agravo regimental improvido.
+(AgRg no AREsp n. 2.128.153/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/8/2023, DJe de 18/8/2023.)
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Ao recorrente, incumbe demonstrar o equívoco da decisão agravada, sendo imprescindível que impugne todos os óbices por ela apontados de maneira específica e suficientemente demonstrada, nos termos do art. 932, III, do CPC, c/c art. 3º do CPP.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. SÚMULA 182/STJ. AGRAVO REGIMENTAL DESPROVIDO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. A falta de impugnação específica aos fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia.
+2. Presente flagrante ilegalidade a autorizar a concessão de habeas corpus de ofício.
+3. A agravante genérica da calamidade pública, na segunda fase da dosimetria da pena, pressupõe situação concreta de que o agente se prevaleceu da pandemia para a prática delitiva.
+4. Agravo regimental desprovido, mas habeas corpus concedido, de ofício, para excluir a agravante do art. 61, II, j, do Código Penal, com o redimensionamento da pena.
+(AgRg no AREsp n. 2.225.453/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC. INSURGÊNCIA DESPROVIDA .
+1. A decisão que não admitiu o recurso especial assentou que estaria prejudicado o apelo nobre diante do julgamento do HC 690.320/SP. No entanto, no agravo em recurso especial, a defesa não refutou o referido fundamento.
+2. Deixando a parte agravante de impugnar específica e concretamente os fundamentos da decisão agravada, é de se aplicar o art. 932, III, do Código de Processo Civil e o art. 253, I, do RISTJ.
+3. Agravo desprovido.
+(AgRg no AREsp n. 2.156.001/SP, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 14/2/2023, DJe de 17/2/2023.)
+Incide, no caso e por analogia, a Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
