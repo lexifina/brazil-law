@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial, com fundamento nas Súmulas 7 e 182 do STJ.
+No recurso especial, sustenta a defesa violação do art. 299 do CP, aduzindo, em síntese, atipicidade da conduta imputada.
+Requer o provimento do recurso, a fim de absolver o recorrente.
+Contraminuta apresentada. O Ministério Público Federal manifestou-se pelo improvimento do recurso.
+O agravo é tempestivo e infirma as razões da decisão impugnada. Passo à análise do recurso especial.
+Acerca da controvérsia trazida no recurso especial, colhe-se do acórdão recorrido (fls. 753-756):
+ ..  a prova dos autos apurou, de maneira segura, que o acusado Vagner falsificou selo público de tabelião, e que a corré Delvair concorreu para a falsificação.
+A acusada Delvair, viúva de Antenor Justiniano Benedito de Oliveira, com a intenção de transferir o veículo de seu falecido companheiro, para posterior venda a terceiro, furtando-se do inventário, procurou o acusado Vagner, despachante, que recebeu dela certa quantia em dinheiro para providenciar a transferência fraudulenta do bem.
+O acusado Vagner, por sua vez, após reunir a documentação necessária, providenciou a transferência fraudulenta do veículo de Antenor Justiniano Benedito de Oliveira, então já falecido, para Delvair, mediante a utilização, no certificado de registro do veículo, de falsa etiqueta de reconhecimento de firma, com carimbos e assinaturas não condizentes com os padrões adotados pelo 2º Tabelionato de Notas da Comarca de Piracicaba/SP.
+De acordo com o depoimento da testemunha Jennifer, escrevente do 2º Tabelião de Notas de Piracicaba, ao visualizar o "selo" de autenticidade utilizado, de imediato notou que se tratava de um selo reutilizado. Aquele "selo" foi originalmente utilizado para o reconhecimento de firma de outra pessoa, identificada como "Francisco Sérgio do Nascimento", sendo, assim, usado de forma fraudulenta para reconhecer a firma do então falecido Antenor Justiniano Benedito de Oliveira.
+Destaco que também foi possível notar que a etiqueta utilizada não pertencia ao cartório, pois o endereço nela indicado como sendo do 2º Tabelião não era o correto. Além disso, a etiqueta trazia o nome do antigo Tabelião titular, sr. Antônio Bortoletto, e o nome de Angêla Marcia de Souza Figueiredo, a qual havia sido funcionária do Tabelião, mas não trabalhava no local há mais de três anos.
+Não bastasse isso, o proprietário do veículo, Antenor Justiniano Benedito de Oliveira, faleceu em 15/11/2017 e as assinaturas e o reconhecimento de firma para transferência da propriedade do veículo são datados de 21.11.2017 (fls. 54).
+A mera alegação de que a ré não possuía a instrução necessária para a transferência do veículo, e por isso agiu com ausência de dolo, é insuficiente a obstar o reconhecimento de sua responsabilidade penal.
+Da mesma forma, restou configurado o delito previsto no artigo 299,caput, do Código Penal, pelo acusado Vagner.
+O acusado, com a intenção de transferir o veículo de propriedade de Antenor Justiniano Benedito de Oliveira para o nome da acusada Delvair, com o registro do bem no cartório da Comarca de São Pedro, elaborou declaração particular e inseriu a informação falsa de que Delvair residia na Rua Dr. Sebastião Cabotto Carretta nº 1307,sendo este, na verdade, o endereço dele próprio.
+Ao emitir declaração, com inserção de endereço falso, a fim de apresentá-la ao Tabelião de Notas da Comarca de São Pedro, Vagner agiu com o propósito de alterar a verdade sobre fato juridicamente relevante, consubstanciado na transferência e no registro do automóvel de propriedade de Antenor Justiniano Benedito de Oliveira.
+Sua conduta está tipificada no artigo 299, caput, do Código Penal: "Omitir, em documento público ou particular, declaração que dele devia constar, ou nele inserir ou fazer inserir declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação ou alterar a verdade sobre fato juridicamente relevante".
+Verifica-se que a Corte de origem, após acurado exame do conjunto de provas dos autos, concluiu pela autoria e materialidade do delito do art. 299 do CP, concluindo pela tipicidade do fato.
+Destacou o acórdão que "o acusado Vagner falsificou selo público de tabelião, e que a corré Delvair concorreu para a falsificação". Conforme a prova amealhada, "o acusado, com a intenção de transferir o veículo de propriedade de Antenor Justiniano Benedito de Oliveira para o nome da acusada Delvair, com o registro do bem no cartório da Comarca de São Pedro, elaborou declaração particular e inseriu a informação falsa de que Delvair residia na Rua Dr. Sebastião Cabotto Carretta nº 1307, sendo este, na verdade, o endereço dele próprio.
+Ao emitir declaração, com inserção de endereço falso, a fim de apresentá-la ao Tabelião de Notas da Comarca de São Pedro, Vagner agiu com o propósito de alterar a verdade sobre fato juridicamente relevante, consubstanciado na transferência e no registro do automóvel de propriedade de Antenor Justiniano Benedito de Oliveira.
+Nesse contexto, a inversão do julgado, de modo a reconhecer a atipicidade da conduta, demandaria revolvimento fático-probatório, incabível na via do recurso especial (Súmula 7/STJ).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
