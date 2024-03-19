@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por CARLOS ALBERTO DE SOUZA MELO contra acórdão do Tribunal de Justiça do Estado de Goiás assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO INTERCORRENTE. INÉRCIA DOEXEQUENTE NÃO CONSTATADA. NULIDADE DA CITAÇÃO POR EDITAL. AFASTADA.
+Opostos embargos de declaração, foram rejeitados.
+A parte recorrente alega, em síntese (fls. 128/136):
+O presente recurso especial a atacar o acórdão proferido pelo Tribunal de Justiça goiano que, desconsiderando os termos dos artigos 256, § 3º, do Código de Processo Civil  ..  não houve citação pessoal do recorrente, tendo o magistrado singular, nos autos principais, confirmado que as duas citações foram para o mesmo endereço, ou seja, as diligências necessárias não foram observadas, como por exemplo, a busca por endereços apontados nos sistemas judiciários. É cediço que a citação editalícia somente é autorizada quando as tentativas de localização forem infrutíferas, nos termos do artigo 256, §3º do Código de Processo Civil, ou seja, é a ultima ratio para intimação, dispositivo que foi gravemente violado pelo Tribunal de Justiça do Estado de Goiás
+Com contrarrazões da parte contrária, o recurso não foi admitido porque seu conhecimento encontraria óbice nas Súmulas 7 e 83 do STJ e porque inexistente violação do art. 1.022 do CPC/2015, o que deu ensejo à interposição do Agravo em Recurso Especial, no qual a parte defende a necessidade de conhecimento do especial.
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+O Supremo Tribunal Federal, ao apreciar Questão de Ordem no AI 791.292/PE, firmou tese segundo a qual "o art. 93, IX, da Constituição Federal exige que o acórdão ou a decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas". Não obstante, os órgãos judiciais estão obrigados a enfrentar, de forma adequada, coerente e suficiente, as questões relevantes suscitadas para a solução das controvérsias que lhes são submetidas a julgamento, assim considerados os argumentos capazes de, em tese, infirmar a conclusão adotada pelo julgador.
+Nessa linha, não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+No caso dos autos, não se verifica violação dos referidos dispositivos, na medida em que a fundamentação adotada pelo órgão julgador torna desnecessária a integração pedida nos aclaratórios (fls. 47/48). Não obstante, chama atenção o fato de a execução fiscal ter sido ajuizada para a cobrança de R$ 300,00.
+De outro lado, consideradas as premissas fáticas descritas pelo órgão julgador a quo, segundo as quais o oficial de justiça não localizou a parte executada no endereço do cadastro municipal e que foram esgotados os meios de localização, não há como se revisar a conclusão do acórdão recorrido sem reexame fático-probatório, providência inadequada na via do especial, consoante enuncia a Súmula 7 do STJ.
+Além disso, observa-se a conformidade do acórdão recorrido com a orientação jurisprudencial deste Tribunal Superior; vide:
+PROCESSO CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. CITAÇÃO POR EDITAL. CONDIÇÃO DE CABIMENTO: FRUSTRAÇÃO DAS DEMAIS MODALIDADES DE CITAÇÃO (POR CORREIO E POR OFICIAL DE JUSTIÇA). LEI 6830/80, ART. 8º.
+1. Segundo o art. 8º da Lei 6.830/30, a citação por edital, na execução fiscal, somente é cabível quando não exitosas as outras modalidades de citação ali previstas: a citação por correio e a citação por Oficial de Justiça. Precedentes de ambas as Turmas do STJ.
+2. Recurso especial improvido. Acórdão sujeito ao regime do art. 543-C do CPC e da Resolução STJ 08/08.
+(REsp n. 1.103.050/BA, relator Ministro Teori Albino Zavascki, Primeira Seção, julgado em 25/3/2009, DJe de 6/4/2009)
+No mesmo sentido, entre outros: AgInt no REsp n. 1.815.333/BA, relator Ministro Og Fernandes, Segunda Turma, julgado em 11/4/2022, DJe de 19/4/2022; AgRg no REsp n. 1.565.872/MG, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 16/8/2016, DJe de 26/8/2016.
+Ante o exposto, conheço do agravo para conhecer, em parte, do recurso especial e nego-lhe provimento.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E NÃO PROVIDO.
