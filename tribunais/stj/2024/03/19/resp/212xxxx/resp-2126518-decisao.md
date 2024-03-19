@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a" e "c", da CF, contra acórdão do TJSP assim ementado (e-STJ fl. 288):
+RESCISÃO CONTRATUAL E DEVOLUÇÃO DE QUANTIAS PAGAS - Compra e venda de imóvel - Parcial procedência - Insurgência das corrés - Alegação de que: i) a incorporadora é parte ilegítima; ii) o contrato é irrevogável e irretratável; iii) a culpa pelo insucesso do negócio é dos coautores; iv) não devem devolver o que foi pago a título de arras; v) inviável a devolução de 90% dos valores pagos; vi) o termo inicial dos juros de mora está incorreto; vii) os encargos do imóvel devem ser pagos pelos coautores até o trânsito em julgado da sentença; viii) cabe remuneração pela fruição; ix) a Lei de Distrato deve ser aplicada - Parcial cabimento - Contrato celebrado em fevereiro de 2014 e ação ajuizada em dezembro de 2022 - Inaplicabilidade da Lei de Distrato, que entrou em vigor no ano de 2018 - Incidência do CDC - Vulnerabilidade dos compradores - Própria corré empreendedora que afirma que a corré incorporadora é sua sócia - Cadeia de fornecimento demonstrada - Legitimidade passiva das corrés configurada - Possibilidade de rescisão do contrato irrevogável e irretratável - Incidência da Súmula nº 1 desta Corte - Devolução limitada a 50% do valor amortizado que é evidentemente abusiva, nos termos do art. 51, IV, do CDC - Juros de mora em favor dos coautores que só incidirão a partir do trânsito em julgado, pois eles foram culpados pela rescisão - A responsabilidade pelo pagamento de IPTU e "taxas" associativas deve encerrar-se a partir da citação, momento em que as corrés tomaram ciência da vontade inequívoca dos coautores rescindirem o contrato - Não existe previsão contratual do pagamento de arras - Retenção que deve ser majorada para 20% dos valores pagos - "Taxa" de fruição - Possibilidade - Incidência mesmo sobre lote sobre o qual não se erigiu acessão alguma - RECURSO PARCIALMENTE PROVIDO.
+Nas razões apresentadas (e-STJ fls. 297/315), os recorrentes apontam dissídio jurisprudencial e ofensa aos arts. 51, II, IV e XV, § 1º, I e III, e 53 do CDC e 413 e 884 do CC/2002, defendendo que seria indevido condená-los ao pagamento de taxa de fruição de lote não edificado.
+Foram apresentadas contrarrazões (e-STJ fls. 344/353).
+O recurso foi admitido na origem (e-STJ fls. 354/355).
+É o relatório.
+Decido.
+Segundo a jurisprudência desta Corte Superior, "não há enriquecimento sem causa no caso de terreno não edificado, pois o comprador não pode residir no imóvel, devendo ser afastada a cobrança da taxa de ocupação do bem" (AgInt no REsp n. 1.896.690/SP, de minha relatoria, QUARTA TURMA, julgado em 23/8/2021, DJe 26/8/2021).
+No mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. IRRESIGNAÇÃO SUBMETIDA AO NCPC. COMPRA E VENDA DE TERRENO VAZIO EM LOTEAMENTO. DESFAZIMENTO CONTRATUAL DIANTE DA INADIMPLÊNCIA DO ADQUIRENTE. TAXA DE FRUIÇÃO/OCUPAÇÃO. AUSÊNCIA DE PROVEITO COM A CESSÃO DE SEU USO. DESCABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A Terceira Turma desta Corte firmou entendimento no sentido de que, na hipótese de desfazimento de contrato de promessa de compra e venda de terreno não edificado por interesse exclusivo dos adquirentes, é indevida a condenação dos consumidores ao pagamento de taxa de ocupação/fruição.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.941.068/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/9/2021, DJe 29/9/2021.)
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. TERRENO SEM EDIFICAÇÃO. VALORES PAGOS PELOS ADQUIRENTES. TERRENO PARA EDIFICAÇÃO. TAXA DE OCUPAÇÃO/FRUIÇÃO. HIPÓTESE CONCRETA. AUSÊNCIA. REEXAME FÁTICO PROBATÓRIO. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. DECISÃO MANTIDA.
+1. Ação de rescisão contratual com pedido de devolução de quantias pagas.
+2. O desfazimento do negócio jurídico de compra e venda de imóvel motiva o retorno das partes ao estado anterior à celebração do contrato, podendo sujeitar o promissário comprador ao pagamento da taxa de ocupação pelo tempo que ocupou o imóvel.
+3. A taxa de ocupação evita que o comprador se beneficie da situação do rompimento contratual em prejuízo do vendedor, se relacionando, pois, à vedação ao enriquecimento sem causa. Precedentes.
+4. São requisitos do nascimento da obrigação em decorrência da vedação ao enriquecimento sem causa: a) enriquecimento de alguém; b) empobrecimento correspondente de outrem; c) relação de causalidade entre ambos. Precedente da Corte Especial.
+5. No contrato de compra e venda de imóveis residenciais, o enriquecimento sem causa do comprador é identificado pela utilização do bem para sua moradia, a qual deveria ser objeto de contraprestação mediante o pagamento de aluguéis ao vendedor pelo tempo de permanência.
+6. Na presente hipótese, o terreno não está edificado, de modo que não existe possibilidade segura e concreta, diante dos fatores anteriores ao momento da contratação e sem qualquer outra nova interferência causal, de que a recorrente auferiria proveito com a cessão de seu uso e posse a terceiros, se não o tivesse concedido à recorrida, estando, pois, ausente o requisito de seu empobrecimento;
+tampouco seria possível o enriquecimento da compradora, que não pode residir no terreno não edificado.
+(..)
+11. Agravo interno em Recurso especial não provido.
+(AgInt no REsp n. 1.943.713/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/09/2021, DJe 22/09/2021.)
+A Corte local concluiu que a parte recorrida faria jus à indenização pela suposta fruição de lote não edificado pelos compradores, nos seguintes termos (e-STJ fls. 294/295):
+Em que pese tratar-se de um lote sem edificação, a posse direta foi transmitida aos coautores no momento da venda, no ano de 2014, e durante todo esse tempo até o ajuizamento da ação, o imóvel ficou indisponível para a parte ré, que poderia, inclusive, colocá-lo novamente à venda no comércio. Diante de tais circunstâncias, de rigor o reconhecimento de tal direito.
+(..)
+O tempo de posse exercido pelos adquirentes, no caso em tela, deve ser levado em consideração. Destarte, acolho a pretensão recursal relativa ao abatimento da "taxa" de fruição, no percentual reduzido de 0,3% ao mês, durante o mesmo período em que a sentença permitiu a compensação/abatimento dos valores devidos a título de IPTU e "taxas".
+Em tais condições, impõe-se a reforma do aresto impugnado, a fim de excluir o dever dos compradores de indenizar taxa de fruição de lote não edificado às recorridas.
+Ante o exposto, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, a fim de excluir a condenação dos recorrentes ao pagamento de taxa de fruição do imóvel sobre lote não edificado.
+Honorários advocatícios sucumbenciais para os advogados dos autores, ora recorrentes, fixados em 10% (dez por cento) do valor da condenação, nos termos do art. 85, § 2º, do CPC/2015.
+Verba honorária para os causídicos das rés, ora recorridas, arbitrada em 10% (dez por cento) do valor do proveito econômico obtido (CPC/2015, art. 85, § 2º).
+Configurada a sucumbência recíproca (art. 86 do CPC/2015), as custas deverão ser suportadas na proporção do decaimento das partes.
+Os valores de todos os encargos sucumbenciais deverão ser apurados em liquidação de sentença.
+Publique-se e intimem-se.
+EMENTA
