@@ -1,0 +1,9 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Jose Adilson Santos de Jesus, condenado por falsidade ideológica e uso de documento falso a 2 anos de reclusão, em regime semiaberto, e 40 dias-multa - atacando-se o acórdão proferido pelo Tribunal Regional Federal da 5ª Região (fls. 30/33 - HC n. 0800063-73.2024.4.05.0000) que manteve a medida cautelar de monitoração eletrônica, imposta na sentença condenatória (fls. 38/55 - Ação Penal n. 0801665-47.2023.4.05.8500, da 3ª Vara Federal da Seção Judiciária de Sergipe) -, não comporta processamento.
+Com efeito, busca a impetração a revogação da medida cautelar de monitoração eletrônica, ao argumento deficiência de fundamentação, assentando que o monitoramento eletrônico tem impedido o exercício de regular atividade profissional de caminhoneiro, mediante a qual o paciente obterá o sustento próprio e de sua família (fl. 11).
+Da atenta análise dos autos observa-se que não se verifica constrangimento quanto à fundamentação da medida cautelar diversa da prisão, pois demonstrado o receio de perigo gerado pelo estado de liberdade à ordem pública e à futura aplicação da lei penal, ressaltando a reiteração criminosa do paciente e a fuga - a lista extensa de delitos graves já praticados pelo acusado ou por quais ainda responde judicialmente, somada ao fato de ter permanecido por anos foragido, maculam o réu como portador de maus antecedentes e configuram sua reincidência (fl. 53) -, apresentando, assim, fundamento apto a consubstanciar a medida.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. FALSIDADE IDEOLÓGICA E USO DE DOCUMENTO FALSO. MEDIDA CAUTELAR. MONITORAÇÃO ELETRÔNICA. RISCO DO ESTADO DE LIBERDADE PARA A ORDEM PÚBLICA E FUTURA APLICAÇÃO DA LEI PENAL. REITERAÇÃO CRIMINOSA E FUGA. FUNDAMENTAÇÃO IDÔNEA. CAUTELAR MANTIDA.
+Inicial indeferida liminarmente.
