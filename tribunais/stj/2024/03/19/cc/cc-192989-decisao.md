@@ -1,0 +1,24 @@
+DECISÃO
+Em análise, Conflito de Competência suscitado pelo JUIZ FEDERAL DO JUIZADO ESPECIAL CÍVEL E CRIMINAL ADJUNTO À 2A VARA DE FEIRA DE SANTANA - SJ/BA em face do TRIBUNAL REGIONAL DO TRABALHO DA 5A REGIÃO, nos autos da ação ajuizada por RAIMUNDO NONATO DE CASTRO em face da CAIXA ECONÔMICA FEDERAL em que postula a expedição de alvará para movimentação de conta do FGTS.
+Inicialmente, a ação foi proposta perante o Juiz da Vara do Trabalho de Euclides da Cunha - BA, tendo o mesmo julgado procedente o pedido. No julgamento do recurso ordinário interposto pela CEF, o TRT da 5ª Região declarou a incompetência absoluta da Justiça do Trabalho sob o argumento de que "(..) o pedido foi direcionado pelo Demandante apenas contra a Caixa Econômica Federal, na condição de Órgão Gestor do Fundo, com o objetivo de obrigá-la a autorizar o levantamento dos valores depositados em sua conta vinculada, não guardando qualquer correspondência com o vínculo de emprego envolvendo empregado e empregador, não se aplicando a disposição do inciso IX do mencionado art. 114 da Constituição da República", e determinou a remessa dos autos à Justiça Federal.
+O Juiz Federal do Juizado Especial Cível e Criminal Adjunto à 2ª Vara de Feira de Santana - SJ/BA, ao suscitar o conflito, alegou que não se trata de depósito de FGTS em conta fundiária, mas sim de levantamento de depósito efetuado em razão de ação trabalhista, com necessidade de autorização da Justiça do Trabalho.
+O Ministério Público Federal, em seu parecer, opinou pela declaração de competência da Justiça Federal, suscitante.
+É o breve relatório. Decido.
+Com fundamento na orientação contida na Súmula 568/STJ, estou em proceder ao julgamento monocrático do presente conflito, tendo em vista a existência de precedentes acerca da questão ora discutida e a necessidade de desbastarem-se as pautas já bastante numerosas da Colenda 1ª Seção.
+É assente nesta Corte Superior que, em regra, os feitos que visam à obtenção de alvarás judiciais para levantamento de importâncias relativas a FGTS tem natureza de jurisdição voluntária, sendo, portanto, a competência para julgá-los da Justiça Estadual. Contudo, havendo resistência da CEF, como é o caso dos autos, a competência para processar e julgar a causa é da Justiça Federal. Nesse sentido:
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. PEDIDO DE ALVARÁ JUDICIAL. LEVANTAMENTO DE VERBAS DO FGTS. RESISTÊNCIA DA CEF. JURISDIÇÃO CONTENCIOSA. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. A jurisprudência da Primeira Seção do STJ firmou-se no sentido de que, sendo, em regra, de jurisdição voluntária a natureza dos feitos que visam à obtenção de alvarás judiciais para levantamento de importâncias relativas a FGTS, PIS/PASEP, seguro-desemprego e benefícios previdenciários, a competência para julgá-los é da Justiça Estadual.
+2. Por outro lado, havendo resistência da CEF, competente para processar e julgar a causa é a Justiça Federal, tendo em vista o disposto no art. 109, I, da CF/1988.
+3. In casu, verifico que houve obstáculo por parte da Caixa Econômica Federal quanto ao levantamento do FGTS requerido pelo autor, o que evidencia a competência da Justiça Federal para o julgamento da demanda, nos termos do art. 109, I, da Constituição da República.
+4. Constatada a competência de um terceiro Juízo, estranho aos autos, admite-se-lhe a remessa do feito.
+5. Conflito conhecido para declarar competente a Justiça Federal de Santos/SP, apesar de não integrar o presente conflito.
+(CC 105.206/SP, Rel. Ministro Herman Benjamin, 1ª Seção, DJe de 28/8/2009)
+PROCESSUAL CIVIL. CONFLITO (NEGATIVO) DE COMPETÊNCIA. FGTS. ALVARÁ JUDICIAL. PROCEDIMENTO DE JURISDIÇÃO VOLUNTÁRIA. INEXISTÊNCIA DE CONFLITO DE INTERESSES. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+1. A orientação da Primeira Seção desta Corte firmou-se no sentido de que, não havendo conflito de interesses, compete à Justiça Estadual autorizar o levantamento dos valores relativos ao FGTS e PIS/PASEP nos procedimentos de jurisdição voluntária. Aplica-se, analogicamente, o disposto na Súmula 161/STJ: "É da competência da Justiça Estadual autorizar o levantamento dos valores relativos ao PIS/PASEP e FGTS, em decorrência do falecimento do titular da conta."
+2. Conflito conhecido para declarar a competência do Juízo de Direito da 1ª Vara de Andradina, o suscitado.
+(CC 92.053/SP, Rel. Ministra Denise Arruda, 1ª Seção, DJe de 4/8/2008)
+A propósito, em hipóteses análogas, cite-se as seguintes decisões monocráticas: STJ, CC 191.749/SC, Ministro HERMAN BENJAMIN, DJe de 30/09/2022; e CC 187.735/PI, Ministro LUIS FELIPE SALOMÃO, DJe de 03/05/2022.
+Isso posto, conheço do presente Conflito de Competência para declarar competente o JUIZ JUIZ FEDERAL DO JUIZADO ESPECIAL CÍVEL E CRIMINAL ADJUNTO À 2A VARA DE FEIR A DE SANTANA - SJ/BA.
+Comunique-se o juízo suscitante e suscitado acerca da presente decisão.
+Publique-se. Intimem-se.
+EMENTA
