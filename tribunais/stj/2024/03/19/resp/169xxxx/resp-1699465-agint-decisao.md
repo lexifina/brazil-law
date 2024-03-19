@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interno interposto por YOLANDA SILVA DE CONSUEGRA contra a decisão de minha relatoria de fls. 924/928.
+A parte agravante sustenta, em síntese, que "a execução referente a presente demanda, transitada em julgado, JÁ HAVIA SE INICIADO e, NÃO ABARCA o mesmo período do processo nº 2004.50.01.000076-9" (fls. 940/941), o que foi expressamente destacado no acórdão recorrido. Alega que a decisão agravada não observou que já existia execução entre o período de 1991 a 1998 na presente ação e que na demanda posterior apurou-se apenas o período de 1999 a 2000, devendo ser afastada a tese de violação à coisa julgada arguida pela União.
+Às fls. 952/956 foi apresentada a impugnação.
+É o relatório.
+Diante das alegações da parte agravante, reconsidero a decisão agravada e passo ao exame do recurso especial.
+Discute-se nos autos sobre a ocorrência ou não de conflito entre duas coisas julgadas.
+O Tribunal de origem, ao decidir sobre a questão, apresentou estes fundamentos:
+Conforme destacado, o Superior Tribunal de Justiça vem entendendo pela prevalência da segunda coisa julgada em casos de pronunciamentos judiciais antagônicos. Assim, por exemplo, caso, numa primeira demanda, seja proferida sentença de procedência, vindo a sentença a transitar em julgado e, posteriormente, em processo idêntico, seja proferida uma sentença de improcedência, sem observar a coisa julgada formada na primeira demanda, não será possível a execução do primeiro título executivo formado.
+Esta, contudo, não é a situação dos autos. Em ambos os feitos foi reconhecido o direito do Autor, embora, no segundo processo, a sentença tenha ressalvado eventuais valores vencidos há mais de 5 (cinco) anos contados do ajuizamento da ação. Assim, conforme exposto pela magistrada de primeiro grau, embora não seja possível a execução destes valores nos autos do processo nº 2004.50.01.00076-9, inexiste qualquer óbice à execução das quantias no presente feito, tempestivamente ajuizado.
+Ademais, como bem salientado na r. decisão ora recorrida, a execução de cada um dos feitos se refere a períodos distintos, não havendo que se falar em pagamento em duplicidade (fl. 854).
+Não se desconhece a jurisprudência desta Corte de que, havendo conflito entre duas coisas julgadas, prevalecerá a que se formou por último enquanto não desconstituída mediante ação rescisória.
+Todavia, no caso dos autos não se constata o suposto conflito entre as coisas julgadas. O Tribunal de origem reconheceu expressamente que " e m ambos os feitos foi reconhecido o direito do Autor, embora, no segundo processo, a sentença tenha ressalvado eventuais valores vencidos há mais de 5 (cinco) anos contados do ajuizamento da ação. Assim, conforme exposto pela magistrada de primeiro grau, embora não seja possível a execução destes valores nos autos do processo nº 2004.50.01.00076-9, inexiste qualquer óbice à execução das quantias no presente feito, tempestivamente ajuizado. Ademais, como bem salientado na r. decisão ora recorrida, a execução de cada um dos feitos se refere a períodos distintos, não havendo que se falar em pagamento em duplicidade" (fl. 854).
+Logo, não se tratando de valores referentes ao mesmo período, não há falar em conflito entre as coisas julgadas ora questionadas.
+Ante o exposto, reconsiderando a decisão de fls. 924/928, nego provimento ao recurso especial da União.
+Publique-se. Intimem-se.
+EMENTA
