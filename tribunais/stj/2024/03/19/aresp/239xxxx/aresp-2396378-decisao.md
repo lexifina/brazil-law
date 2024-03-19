@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que não admitiu o recurso especial do INSTITUTO NACIONAL DO SEGURO SOCIAL no qual se insurgira contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+A questão debatida nos autos, qual seja, "Definir se a sentença trabalhista homologatória de acordo, assim como a anotação na CTPS e demais documentos dela decorrentes constituem início de prova material para fins de reconhecimento de tempo de serviço", encontra-se afetada à Primeira Seção desta Corte Superior, aguardando o julgamento, sob o rito dos recursos repetitivos, do Recurso Especial 1.938.265/MG, de relatoria do Ministro Benedito Gonçalves (Tema 1.188/STJ).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Pelo exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil, após a publicação do acórdão do recurso representativo da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo código.
+Publique-se. Intimações necessárias.
+EMENTA
