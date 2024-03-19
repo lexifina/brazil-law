@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PIAUÍ, com fundamento na alínea "a" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ, assim ementado (e-STJ, fls. 1.026-1.048):
+"PENAL E PROCESSUAL PENAL - APELAÇÃO CRIMINAL - LESÃO CORPORAL GRAVE (ART. 129, §1º, II, DO CÓDIGO PENAL) - RECURSO MINISTERIAL - PRELIMINAR DE ERRO NA QUESITAÇÃO - REJEITADA - RECURSO DEFENSIVO - REDIMENSIONAMENTO DA PENA-BASE AO MÍNIMO LEGAL - IMPOSSIBILIDADE - RECURSOS CONHECIDOS, PORÉM, IMPROVIDOS".
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 14, II, e 15 do CP; bem como dos arts. 483, § 5º, 564, III, "k", 571, VIII, 593, III, "a", e 619 do CPP;. Aduz para tanto, em síntese, que os quesitos foram apresentados ao júri fora da ordem legal, "posto que o quesito acerca da tentativa/dolo homicida deveria ter sido formulado após o quesito de autoria e não depois da quesitação genérica de absolvição" (e-STJ, fl. 1.143). Afirma que seria contraditório o acolhimento da tese de desistência voluntária pelos jurados, quando estes já tinham entendido pela ocorrência da tentativa.
+O recurso especial foi admitido na origem (e-STJ, fls. 1.150-1.153).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo provimento do recurso (e-STJ, fls. 1.168-1.176).
+É o relatório.
+Decido.
+Inicialmente, não conheço da alegada violação do art. 619 do CPP, porque a parte recorrente não indicou quais seriam os pontos sobre os quais o Tribunal local deveria ter se manifestado, limitando-se a meramente citar o dispositivo legal. Tal circunstância configura grave deficiência na fundamentação recursal e atrai a incidência da Súmula 284/STF, como mostram os julgados a seguir:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. POSSE ILEGAL DE MUNIÇÃO DE USO RESTRITO. ART. 16 DA LEI N.º 10.826/2003. VIOLAÇÃO DO ART. 619 DO CPP. SÚMULA 284/STF. PRINCÍPIO DA INSIGNIFICÂNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. ATIPICIDADE. NÃO CONFIGURAÇÃO. DELITO DE PERIGO ABSTRATO. PRESCINDIBILIDADE DO EXAME PERICIAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Quanto à alegada violação do art. 619 do CPP, o acusado faz argumentações genéricas, deixando de especificar quais teses o acórdão recorrido deixou de analisar. Assim, incide a Súmula n. 284/STF, já que as razões recursais, no ponto, são deficientes e impedem a exata compreensão da controvérsia.
+ ..
+5. Agravo regimental não provido".
+(AgRg no AREsp 1647247/ES, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 05/05/2020, DJe 13/05/2020; grifei)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DIREITO PENAL E PROCESSO PENAL. CRIME CONTRA O SISTEMA FINANCEIRO NACIONAL. OPERAÇÃO OURO VERDE. EVASÃO DE DIVISAS. VIOLAÇÃO DO ART. 619 DO CPP. RECORRENTE QUE NÃO APONTA AS OMISSÕES. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA 284/STF. NORMA PENAL EM BRANCO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. NULIDADES. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DOSIMETRIA. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. A alegação genérica de que o Tribunal a quo eximiu-se de fazer menção explícita aos dispositivos suscitados, sem a indicação clara e precisa dos pontos supostamente omissos, não permite o exame da alegada violação ao art. 619 do Código de Processo Penal. Incidência da Súmula n.º 284/STF.
+ ..
+8. Agravo regimental desprovido".
+(AgRg no REsp 1493636/RS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 03/09/2019, DJe 17/09/2019)
+Quanto à questão de fundo, o Tribunal local destacou que o Ministério Público impugnou os quesitos e sua ordem somente após a votação pelos jurados, e não antes, quando os quesitos foram lidos pela juíza (e-STJ, fl. 1.032):
+"Na hipótese, ao se analisar detidamente a mídia referente à Sessão do Júri, constata-se que os quesitos foram devidamente explicados e esclarecidos aos jurados. Ademais, a acusação impugnou a quesitação somente após a votação pelos jurados, conforme registrado em Termo de Assentada".
+A ata da sessão de julgamento em primeira instância corrobora a conclusão do TJ/PI, pois narra que a juíza leu os quesitos, sem registro de nenhuma impugnação (e-STJ, fl. 855), e que só depois do final da votação é que o Ministério Público resolveu suscitar as questões que ora aborda (fl. 877). Com isso, a nulidade ora levantada pelo Parquet tornou-se preclusa, à luz do art. 571, VIII, do CPP.
+Afinal, os vícios ocorridos durante a sessão de julgamento devem ser apontados pela parte interessada logo quando acontecem - o que, no caso dos autos, teria ocorrido com a leitura dos quesitos pelo juíza -, e não somente após a votação desfavorável aos seus interesses. Como o que a acusação questiona é a ordem de apresentação dos quesitos ao júri, o MP/PI poderia ter desde logo apresentado sua impugnação, quando a juíza leu os quesitos, mas não o fez. Isso porque o Ministério Público somente se manifestou quando já estava encerrada a votação - isto é, depois de o júri adotar uma conclusão contrária aos interesses da acusação. Inviável, dessarte, o reconhecimento da nulidade suscitada de maneira tardia, tendo o Parquet deixado de fazê-lo no momento adequado para apontar o vício somente quando o júri se manifestou contra a tese de mérito da acusação:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+ ..
+4. Ainda que assim não fosse, na forma do artigo 571, inciso VIII, do CPP, nos crimes dolosos contra a vida, a parte interessada no reconhecimento de alguma nulidade ocorrida no plenário do Tribunal do Júri deve suscitá-la logo depois que ocorrer, devendo haver registro na ata da sessão de julgamento, sob pena de preclusão. Na espécie, consoante asseverado pela Corte local, a alegação atinente a eventuais irregularidades não constou na ata de julgamento, operando-se a preclusão quanto à matéria, por não ter sido impugnada no momento processual oportuno. Precedentes.
+ ..
+6. Agravo regimental não conhecido".
+(AgRg no AREsp n. 2.016.489/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/6/2022, DJe de 13/6/2022.)
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. NULIDADE. AUSÊNCIA ENTREGA DE CÓPIA DO LIBELO-CRIME ACUSATÓRIO AOS CORRÉUS. NÃO OCORRÊNCIA. QUESITAÇÃO NO JÚRI. IRREGULARIDADES. IMPUGNAÇÃO IMEDIATA. PRECLUSÃO. ALEGAÇÃO DE DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. IMPOSSIBILIDADE NA VIA ELEITA.
+ .. 3. Segundo a dicção do art. 484 do Código de Processo Penal, após formular os quesitos o juiz-presidente os lerá, indagando às partes se têm qualquer objeção a fazer, o que deverá constar obrigatoriamente em ata. E, nos termos do art. 571, VIII, do diploma alhures mencionado, as nulidades deverão ser arguidas, no caso de julgamento em plenário, tão logo ocorram.
+4. "Não se anula julgamento proferido pelo Tribunal do Júri por eventual fragilidade das provas, mas tão-somente quando os jurados decidem sem nenhum lastro nas provas dos autos, o que não se verifica na espécie" (HC n. 259.353/SP, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 11/11/2014, DJe 1º/12/2014).
+5. Agravo regimental desprovido".
+(AgRg no HC n. 123.330/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/11/2019, DJe de 2/12/2019.)
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do Regimento Interno do STJ, conheço em parte do recurso especial e, nesta extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
