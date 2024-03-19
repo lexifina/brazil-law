@@ -1,0 +1,61 @@
+DECISÃO
+Cuida-se de agravo interno interposto por AUTO VIAÇÃO ESTILO EIRELI contra decisão monocrática de minha relatoria que não conheceu de seu recurso especial (fls. 466-470).
+Extrai-se dos autos que o recurso especial foi interposto com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 302):
+RESPONSABILIDADE CIVIL. Venda e compra de veículos automotores. Cobrança do preço, em procedimento monitório. Procedência de embargos. Ausência de prova de quitação da dívida. Apelo da autora. Provimento, para julgar improcedentes embargos monitórios, convalidando-se o crédito.
+Rejeitados os embargos de declaração opostos na origem (fls. 322-324).
+Nas razões do recurso interno, a agravante alega que a inaplicabilidade das Súmula n. 211/STJ à hipótese, visto que a alegação de violação ao art. 489 do CPC visa suprir a ausência de prestação jurisdicional, evidenciada pela ausência de análise das teses recursais.
+Acresce quanto à incorreta aplicação da Súmula n. 7/STJ à espécie, oportunidade em que reitera alegações de afronta aos arts. 320, parágrafo único, e 324, parágrafo único, 394, 396 e 397 do CC e aos arts. 489 e 700 do CPC.
+Pugna, por fim, pelo provimento do recurso.
+A agravada apresentou contrarrazões (fls. 489-495).
+É, no essencial, o relatório.
+Da melhor detida análise dos autos, merece guarida a alegação de afronta ao art. 489, § 1º, do CPC.
+Consoante se infere dos autos, a agravada ajuizou ação monitória em face da agravante sob a alegação de que (fl. 130):
+ ..  em 18 de julho de 2014 vendeu à ré os veículos de placas LKG 9884, LOZ 1705 e KUS 4403, pelo valor de R$ 80.000,00 cada. Reclama que embora tenha transferido a propriedade, a ré deixou de adimplir com os pagamentos. Assim, embasando-se nas notas fiscais do negócio jurídico havido entre as partes, busca a procedência da ação a fim de receber o montante referente à venda dos veículos.
+A agravante opôs embargos monitórios, no que adveio sentença acolhendo-os e, consequentemente, julgando improcedente a ação monitória (fl. 130-132).
+O entendimento sentencial foi reformado no Tribunal, pois entendeu o colegiado que as alegações de que o negócio entabulado fora quitado vieram desacompanhadas de documentação probante. Vejamos:
+Negócio de venda e compra de veículos automotores, a formalização de documento de transferência não faz presumir o recebimento do preço, na circunstância, a configurar situações jurídicas distintas, à compradora sendo necessário comprovar o que lhe cabia suprir, ou seja, o efetivo pagamento do preço acordado, exibindo prova de quitação, direta, mediante recibo subscrito pela vendedora, minimamente por meio de depósito bancário, em favor da alienante (artigo 320, do Código Civil).
+Ausente prova de pagamento, há que julgar improcedentes os embargos, convalidando-se o crédito, tal como aparelhado, doravante com força executiva.
+Sem afastar as premissas fáticas da origem de que o agravante não fez prova de seu direito, é relevante destacar que o julgamento no juízo lhe fora totalmente procedente, de modo que, com a reversão do julgado, caberia ao Tribunal uma análise completa das questões suscitadas nos embargos monitórios, os quais bem resumiu o juízo de piso: "a ré apresentou embargos monitórios às fls. 51/69 alegando, em suma, a ocorrência de decadência, a presunção de quitação e a impossibilidade jurídica do pedido ante a falta de prova escrita" (fl. 130).
+Com efeito, observa-se que o Tribunal de origem, ao julgar os embargos de declaração, deixou de analisar as alegações oportunamente suscitadas pela agravante, de modo que caberia ao tribunal manifestar-se sobre as referidas questões, pois somente com o julgamento da apelação e seu provimento é que surge o interesse no julgamento das demais teses aduzidas nos embargos monitórios.
+A Segunda Turma, no julgamento do REsp n. 831.454/PE, relatoria do Ministro Mauro Campbell Marques (julgado em 17/6/2010, DJe de 30/6/2010), assim se manifestou sobre o interesse recursal:
+Dentre as condições recursais desponta, neste caso, a relevância do interesse recursal, cuja definição é muito próxima da do interesse de agir. Para ser conhecido, o recorrente deve preencher o referido pressuposto, demonstrando possuir a sua irresignação utilidade para alcançar a providência desejada, bem como necessidade do recurso para conquistá-la.
+Esses aspectos são bem esclarecidos por José Carlos Barbosa Moreira, que ensina:
+A construção de um conceito unitário do interesse de recorrer, ao que parece, exige a adoção de uma óptica antes prospectiva que retrospectiva: a ênfase incidirá mais sobre o que é possível ao recorrente esperar que se decida, no novo julgamento, do que sobre o teor daquilo que se decidiu, no julgamento impugnado. Daí preferirmos aludir à utilidade, como outros aludem, como fórmula afim, ao proveito ou ao benefício que a futura decisão seja capaz de proporcionar ao recorrente.
+ ..
+Deve aferir-se ao ângulo prático a ocorrência da utilidade, isto é, a relevância do proveito ou vantagem cuja possibilidade configura o interesse em recorrer.
+ ..
+Do mesmo modo que o interesse em agir, como condição de legítimo exercício da ação, se liga à ocorrência de uma situação em que se torna necessário o ingresso em juízo, por não haver outro remédio eficaz para a (suposta) ameaça ou lesão ao (alegado) direito, assim também o interesse em recorrer, como requisito da admissibilidade do recurso, pressupõe a necessidade deste para o atingimento do resultado prático que o recorrente tem em vista (in Comentários ao Código de Processo Civil, vol. V: arts. 476 a 565. Rio de Janeiro: Forense, 2009, p. 298-307).
+No mesmo sentido: "É de sabença que o interesse em recorrer é instituto ontologicamente semelhante ao interesse de agir como condição da ação, e é mensurado à luz do benefício prático que o recurso pode proporcionar ao recorrente. Amaral Santos, in "Primeiras Linhas de Direito Processual Civil", 4.ª ed., v. IV, n.º 697, verbis: "O que justifica o recurso é o prejuízo, ou gravame, que a parte sofreu com a sentença"" (EDcl no AgRg nos EDcl no REsp 907.417/PR, relator Ministro Luiz Fux, Primeira Turma, DJe 25.3.2010).
+Com efeito, depreende-se o Tribunal nada se manifestou sobre as questões que, em tese, conduziriam ao acolhimento dos embargos monitórios, ou na eventual redução dos valores cobrados, menos ainda nos embargos de declaração, a evidenciar a deficiência na prestação jurisdicional.
+O dever de fundamentação tem assento constitucional, devendo ser fundamentadas todas as decisões judiciais, sob pena de nulidade, a teor do disposto no art. 93, IX, da Constituição Federal.
+Na elaboração do Código de Processo Civil de 2015, o legislador demonstrou enorme preocupação com o tema, a ponto de elencar situações específicas nas quais a lei considera não fundamentada a decisão judicial (art. 489, § 1º):
+ ..
+§ 1º Não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que:
+I - se limitar à indicação, à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida;
+II - empregar conceitos jurídicos indeterminados, sem explicar o motivo concreto de sua incidência no caso;
+III - invocar motivos que se prestariam a justificar qualquer outra decisão;
+IV - não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador;
+V - se limitar a invocar precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos;
+VI - deixar de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Assim, "configurada a agressão ao disposto no art. 489, § 1º, do CPC/2015, por ausência da necessária fundamentação, impõe-se a decretação de nulidade do acórdão da origem que apreciou os embargos declaratórios, com o retorno dos autos ao Tribunal de Justiça, a fim de que o argumento relevante invocado, carente de apreciação, seja devidamente enfrentado" (EDcl no AgInt no AREsp nº 1.348.888/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 24/9/2019).
+A título de reforço, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA - DECISÃO MONOCRÁTICA QUE RECONHECEU A NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INSURGÊNCIA RECURSAL DO AUTOR.
+1. Configurada a ocorrência de negativa de prestação jurisdicional, impõe-se o reconhecimento da ofensa ao artigo 489, §1º, IV, do CPC/2015, com anulação do acórdão proferido no julgamento dos embargos de declaração, determinando-se o retorno dos autos ao Tribunal de origem, para que sejam sanados os vícios apontados. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 1.877.486/TO, relator Ministro Marco Buzzi, Quarta Turma, DJe de 24/11/2021.)
+RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE COMPENSAÇÃO POR DANOS MATERIAIS E MORAIS. SERVIÇOS ADVOCATÍCIOS. ADVOGADO CREDENCIADO A SINDICATO. ATUAÇÃO NEGLIGENTE. DISCUSSÃO SOBRE A POSSIBILIDADE DE RESPONSABILIZAÇÃO SOLIDÁRIA DO CAUSÍDICO E DA ENTIDADE SINDICAL. OMISSÃO. EXISTÊNCIA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA NOVO JULGAMENTO.
+1. No recurso em julgamento, a controvérsia reside sobre a possibilidade de responsabilizar o sindicato, solidariamente com o advogado a ele credenciado, por ato negligente praticado pelo causídico.
+2. É verdade que, nos termos da jurisprudência do STJ, "é admitido ao Tribunal de origem, no julgamento da apelação, utilizar, como razões de decidir, os fundamentos delineados na sentença (fundamentação per relationem), medida que  por si só  não implica negativa de prestação jurisdicional" (AgInt no AREsp 1779343/DF, Terceira Turma, DJe 15/04/2021; AgInt no AREsp 855.179/SP, Quarta Turma, DJe 05/06/2019). Entretanto, restará configurada a negativa de prestação jurisdicional, se o órgão julgador "não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador" (art. 489, IV, do CPC/2015).
+3. No caso dos autos, o Tribunal de origem deixou de se manifestar sobre alegações fundamentais ao deslinde da controvérsia, sendo imperativa a cassação do acórdão recorrido.
+4. Recurso especial conhecido e provido, com o retorno dos autos à Corte de origem.
+(REsp n. 1.908.213/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 20/5/2021.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. SEGURO DE VIDA EM GRUPO. RESCISÃO DO CONTRATO. INVALIDEZ ALEGADAMENTE ORIGINADA AO TEMPO DA VIGÊNCIA DO CONTRATO. QUESTÃO RELEVANTE. AUSÊNCIA DE FUNDAMENTAÇÃO. ART. 489, § 1º, DO CPC/2015. NULIDADE DO ACÓRDÃO DOS EMBARGOS DE DECLARAÇÃO. DEVOLUÇÃO DOS AUTOS À ORIGEM. AGRAVO NÃO PROVIDO.
+ ..
+2. "Configurada a agressão ao disposto no art. 489, § 1º, do CPC/2015, por ausência da necessária fundamentação, impõe-se a decretação de nulidade do acórdão da origem que apreciou os embargos declaratórios, com o retorno dos autos ao Tribunal de Justiça, a fim de que o argumento relevante invocado, carente de apreciação, seja devidamente enfrentado" (EDcl no AgInt no AREsp 1.348.888/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 19/09/2019, DJe de 24/09/2019).
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 1.684.098/SC, relator Ministro Raul Araújo, Quarta Turma, DJe de 14/12/2020.)
+Portanto, ausente manifestação do Tribunal a quo nesse sentido, intransponível o óbice para o conhecimento da matéria na via estrita do especial, em razão da ausência de prequestionamento e, sobretudo, sob pena de supressão de instância.
+Nessa toada, tendo a recorrente interposto o presente recurso por ofensa ao art. 489, § 1º, do CPC e em face das questões suscitadas, tenho como necessário o debate acerca de tais pontos.
+Ante o exposto, em juízo de retratação, torno sem efeitos a decisão de fls. 466-470, para dar provimento ao recurso especial de AUTO VIAÇÃO ESTILO EIRELI., a fim de que os autos retornem ao Tribunal a quo para julgamento completo dos embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
