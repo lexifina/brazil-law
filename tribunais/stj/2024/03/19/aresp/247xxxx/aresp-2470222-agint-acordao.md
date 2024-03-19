@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/03/2024 a 19/03/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO E INTERPOSIÇÃO DE RECURSO ESPECIAL, CONCOMITANTEMENTE, PELA MESMA PARTE E CONTRA O MESMO ACÓRDÃO. IMPOSSIBILIDADE. PRINCÍPIO DA UNICIDADE RECURSAL. NÃO CONHECIMENTO DO PROTOCOLADO POR ÚLTIMO. RECURSO DESPROVIDO.
+1. À luz do princípio da unicidade recursal, a interposição de dois recursos pela mesma parte e contra a mesma decisão inviabiliza o exame daquele protocolado por último, ante a preclusão consumativa. Caso concreto no qual embargos de declaração e recurso especial foram manejados pel a mesma parte, motivo pelo qual é inviável o conhecimento do recurso especial interposto na pendência de julgamento dos aclaratórios. Inaplicabilidade da Súmula 579/STJ. Precedentes.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por NOTRE DAME INTERMÉDICA SAÚDE S/A contra decisão monocrática proferida pela Presidência desta Corte de Justiça, que não conheceu do recurso especial interposto ante a preclusão consumativa (fl. 400).
+Em suas razões recursais (fls. 405/409), a parte agravante, em síntese, aduz que os embargos de declaração opostos não possuem caráter protelatório, nem ofendem o princípio da unirrecorribilidade.
+Requer, ao final, a reconsideração da decisão agravada ou sua reforma pela Turma Julgadora.
+A parte agravada apresentou impugnação às fls. 413/422.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO E INTERPOSIÇÃO DE RECURSO ESPECIAL, CONCOMITANTEMENTE, PELA MESMA PARTE E CONTRA O MESMO ACÓRDÃO. IMPOSSIBILIDADE. PRINCÍPIO DA UNICIDADE RECURSAL. NÃO CONHECIMENTO DO PROTOCOLADO POR ÚLTIMO. RECURSO DESPROVIDO.
+1. À luz do princípio da unicidade recursal, a interposição de dois recursos pela mesma parte e contra a mesma decisão inviabiliza o exame daquele protocolado por último, ante a preclusão consumativa. Caso concreto no qual embargos de declaração e recurso especial foram manejados pel a mesma parte, motivo pelo qual é inviável o conhecimento do recurso especial interposto na pendência de julgamento dos aclaratórios. Inaplicabilidade da Súmula 579/STJ. Precedentes.
+2. Agravo interno desprovido.
+VOTO
+A irresignação não merece prosperar, devendo a decisão ora agravada ser confirmada.
+Com efeito, é entendimento desta Corte Superior que a interposição de dois recursos pela mesma parte e contra a mesma decisão impede o exame do que tenha sido protocolado por último, haja vista a preclusão consumativa e a observância ao princípio da unirrecorribilidade das decisões.
+Nesse sentido:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ERRO MATERIAL DO ACÓRDÃO EMBARGADO. OCORRÊNCIA. TEMPESTIVIDADE DO RECURSO ESPECIAL. NOVO EXAME. INTERPOSIÇÃO DE DOIS RECURSOS PELA MESMA PARTE, CONTRA A MESMA DECISÃO. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA. PREJUDICIALIDADE. PERDA DE OBJETO DO ESPECIAL. DECLARATÓRIOS ACOLHIDOS. EFEITO MODIFICATIVO. CORREÇÃO DE ERRO MATERIAL. NÃO CONHECIMENTO DO RECURSO, POR OUTRO FUNDAMENTO. (..)
+2. À luz do princípio da unicidade recursal, a interposição de dois recursos pela mesma parte contra a mesma decisão inviabiliza o exame daquele protocolado por último, ante a preclusão consumativa. Caso concreto no qual embargos de declaração e recurso especial foram manejados pela mesma parte, motivo pelo qual é inviável o conhecimento do recurso especial interposto na pendência de julgamento dos aclaratórios. Inaplicabilidade da Súmula 579/STJ.
+3. Embargos de declaração acolhidos, a fim de corrigir o erro material do acórdão embargado, e, em novo julgamento, não conhecer do recurso especial, por fundamento distinto."
+(EDcl no AgInt no AREsp n. 2.071.905/RJ, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/8/2023, DJe de 1/9/2023)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRESENTAÇÃO DE EMBARGOS DE DECLARAÇÃO E RECURSO ESPECIAL PELA MESMA PARTE CONTRA A MESMA DECISÃO. IMPOSSIBILIDADE. PRINCÍPIO DA UNICIDADE RECURSAL. SÚMULA N. 579/STJ. INAPLICABILIDADE. MULTA PROCESSUAL. NÃO CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. Conforme a jurisprudência consolidada no âmbito desta Corte Superior, a interposição de dois recursos pela mesma parte contra a mesma decisão impede o exame do que tenha sido protocolizado por último, haja vista a preclusão consumativa e a observância ao princípio da unirrecorribilidade das decisões.
+2. A jurisprudência deste Superior Tribunal é no sentido de que "é incabível a aplicação do entendimento da Súmula n. 579 do Superior Tribunal de Justiça - STJ, segundo a qual "não é necessário ratificar o recurso especial interposto na pendência do julgamento dos embargos de declaração, quando inalterado o resultado anterior", pois ambos os recursos - embargos de declaração e recurso especial - foram interpostos contra o acórdão da Corte a quo pela mesma parte, ou seja, os aclaratórios que se encontravam pendentes de julgamento no momento da interposição do recurso especial foram opostos pelos próprios agravantes, e não pela parte contrária" (AgRg no AREsp n. 2.091.933/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/12/2022, DJe de 13/12/2022). (..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.228.875/PR, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 29/5/2023, DJe de 1/6/2023)
+"AGRAVO DE INSTRUMENTO. INTEGRALIDADE DE PENSÃO. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. ALEGAÇÃO DE EQUÍVOCO NO CÁLCULO. VALOR APONTADO PELA PRÓPRIA PARTE. PRECLUSÃO LÓGICA CONFIGURADA. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. DECISÃO QUE INDEFERIU LIMINARMENTE OS EMBARGOS. INEXISTÊNCIA DE TESES A CONFRONTAR.
+I - Cuida-se de Embargos de divergência em recurso especial interpostos por Noema dos Santos com fulcro no art. 1.043 do Código de Processo Civil.
+II - A parte embargante insurge-se contra o acórdão embargado em razão da divergência com o AgInt no AREsp n. 1.430.742/RJ, proferido pela Quarta Turma, que reconheceu a existência de violação aos artigos 489, §1º, III e IV, e 1.022, II, do Código de Processo Civil de 2015, ao fundamento de que o Colegiado Estadual, instado a se manifestar sobre temas essenciais ao deslinde da controvérsia, não os enfrentou de forma suficiente e fundamentada. Aponta, a título de reforço argumentativo, outros julgados deta Corte.
+III - Os embargos foram liminarmente indeferidos conforme o seguinte dispositivo: "Ante o exposto, com fundamento no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, c/c o art. 266-C do mesmo diploma legal, indefiro liminarmente os embargos de divergência."
+IV - No caso de interposição de dois recursos pela mesma parte e contra a mesma decisão, apenas o primeiro poderá ser submetido à análise, em face da preclusão consumativa e do princípio da unicidade recursal, que proíbe a interposição simultânea de mais de um recurso contra a mesma decisão judicial.
+V - Agravo interno não conhecido."
+(AgInt nos EDcl nos EREsp n. 1.862.217/RS, Relator Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 10/8/2021, DJe de 17/8/2021)
+"AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. DOIS RECURSOS CONTRA A MESMA DECISÃO. PRINCÍPIO DA UNICIDADE RECURSAL. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA N. 182/STJ.
+1. A interposição de mais de um recurso pela mesma parte e contra a mesma decisão, apenas o primeiro poderá ser submetido à análise, em face da preclusão consumativa e do princípio da unicidade recursal, que proíbe a interposição simultânea de mais de um recurso contra a mesma decisão judicial. (AgInt no REsp n. 1.820.624/MG, relator Ministro Francisco Falcão, Segunda Turma, DJe de 11/5/2020).
+2. É inviável o conhecimento do agravo regimental que não impugna, especificamente, todos os fundamentos da decisão agravada.
+Agravos não conhecidos."
+(AgInt no RE nos EDcl nos EREsp n. 1.768.552/PE, Relator Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 28/4/2021, DJe de 3/5/2021)
+Dessa forma, considerando que, inicialmente, foram opostos embargos de declaração e, posteriormente, recurso especial contra o mesmo acórdão, é imperiosa a manutenção da decisão agravada, porquanto, em conformidade com a jurisprudência do Superior Tribunal de Justiça, deve o segundo recurso não ser conhecido.
+Ante todo o exposto, nego provimento ao agravo interno.
+É como voto.
