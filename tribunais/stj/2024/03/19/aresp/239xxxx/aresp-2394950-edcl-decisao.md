@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelas Rodovias do Tietê S.A. - em recuperação judicial, contra decisão às fls. 865-867, que determinou a devolução dos autos ao Tribunal de origem para aguardar o julgamento do Tema 1.255/STF.
+A parte embargante aponta obscuridade no julgado, sob o argumento de que na decisão embargada não foram apreciadas, em sua completude, as teses abordadas no recurso da concessionária, pois foram abordadas outras matérias além da possibilidade de fixação de honorários advocatícios sucumbenciais por equidade, a saber "(i) conversão do julgamento em diligência e de suposta ausência de comprovação do cumprimento tempestivo de obrigação, (ii) não cometimento de infração contratual e nova comunicação de verificação de inconformidade, (iii) recálculo do valor da multa em observância do item 2.6, do anexo 11, do edital de licitação)" (fl. 875).
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Analisando as razões apresentadas pela embargante, nota-se inexistir qualquer vício a ser sanado no julgado embargado.
+Conforme destacado na decisão embargada, após a publicação do acórdão a ser proferido pelo Supremo Tribunal Federal (Tema 1.255/STF), em observância aos artigos 1.039, 1.040, I e II, e 1.041 do CPC/2015, e após novo pronunciamento da Corte a quo, o recurso deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as demais questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal de origem, buscando, essa medida, evitar, também, o desmembramento do agravo e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou unicidade recursal.
+Assim, diante da ausência de demonstração das hipóteses de cabimento, a rejeição dos embargos de declaração é medida que se impõe.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DEVOLUÇÃO DO RECURSO À ORIGEM PARA FUTURO JUÍZO DE ADEQUAÇÃO AO TEMA 1.255/STF. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS REJEITADOS.
