@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALINE CRISTINA FUSATO com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo de Instrumento n. 2152609-31.2023.8.26.0000) assim ementado (fl. 16):
+AGRAVO DE INSTRUMENTO AÇÃO CIVIL PÚBLICA - EXPURGOSINFLACIONÁRIOSPLANOVERÃO - Atualização do débito até efetivo pagamento e disponibilização. Aplicação imediata do Tema nº 677 do STJ Não cabimento. Caso em que o acórdão referente à tese firmada no Tema nº 677,do STJ foi contrastado por embargos declaratórios, ensejando-se manifestação do embargado, de acordo com a regra de processamento prevista no § 2º, do art. 1.023, do CPC, para eventual possibilidade infringente, estando ainda aludidos embargos pendentes de análise Suspensão da aplicação do acórdão paradigma relativo ao Tema 677 que permanecerá até o momento em que houver julgamento dos embargos declaratórios interpostos contra a decisão proferida no REsp nº 1820963/SP.
+Agravo desprovido.
+No recurso especial (fls. 14-40), a parte recorrente  aponta violação dos arts. 926 e 927, III, do CPC por ter o acórdão recorrido negado a aplicação do Tema n. 677 do Superior Tribunal de Justiça, para declarar que os cálculos da dívida não podem ser amortizados pelos depósitos realizados a título de penhora ou auto de arrematação, devendo ser procedida a amortização tão somente quando os numerários foram efetivamente levantados pelo credor.
+Requer o regresso dos autos ao Tribunal de origem para adequação do julgado a nova redação do Tema n. 677 do STJ.
+Sem contrarrazões (fl. 127).
+É  o  relatório.  Decido.
+O  recurso  não  conhecimento.
+No que se refere à contrariedade aos arts. 926 e 927, III, do CPC, verifica-se que os referidos dispositivos legais não foram objeto de análise pelo Tribunal a quo sob o viés pretendido, de modo que não houve o indispensável prequestionamento.
+Caso,  pois,  de  aplicação  das  Súmulas  n.  282  do  STF  e  211  do  STJ.
+De  acordo  com  a  orientação desta Corte,  "para  que  se  tenha  por  prequestionada  determinada  matéria,  faz-se  necessário  que  a  questão  tenha  sido  objeto  de  debate,  à  luz  da  legislação  federal  indicada,  com  a  imprescindível  manifestação  pelo  Tribunal  de  origem,  o  qual  deverá  emitir  juízo  de  valor  acerca  dos  dispositivos  legais,  ao  decidir  pela  sua  aplicação  ou  seu  afastamento  em  relação  a  cada  caso  concreto"  (AgInt  nos  EDcl  no  AREsp  n.  1.801.606/SP,  relator  Ministro  Herman  Benjamin,  Segunda  Turma,  julgado  em  21/3/2022,  DJe  de  25/3/2022).
+Confiram-se precedentes:
+TRIBUTÁRIO. PROCESSO CIVIL. PREQUESTIONAMENTO. INEXISTÊNCIA. SÚMULA 356/STF. PREQUESTIONAMENTO FICTO. NECESSIDADE DE INDICAÇÃO DE AFRONTA AO ART. 1.022 DO CPC. RECURSO ESPECIAL. OFENSA A SÚMULA DO STJ. APRECIAÇÃO. IMPOSSIBILIDADE. VIOLAÇÃO A VERBETE SUMULAR. DESCABIMENTO. SÚMULA 518/STJ. TAXA SISCOMEX. MAJORAÇÃO. MATÉRIA CONSTITUCIONAL.
+1. A matéria pertinente aos arts. 926 e 927 do CPC não foi apreciada pela instância judicante de origem, tampouco constou dos embargos declaratórios opostos para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 356/STF.
+2. O Superior Tribunal de Justiça firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 10/4/2017).
+ ..
+5. Agravo interno não provido. (AgInt no REsp n. 2.015.915/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 28/8/2023, DJe de 31/8/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL. LOCAÇÃO COMERCIAL. BENFEITORIAS E ACESSÕES REALIZADAS. INCORPORAÇÃO AO VALOR PATRIMONIAL DO IMÓVEL LOCADO. SÚMULA N. 83 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 DO STF E 211 DO STJ. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. NÃO CABIMENTO. SÚMULAS N. 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. Incidem as Súmulas n. 282 do STF e 211 do STJ quando a questão discutida no recurso não foi objeto de prequestionamento pela instância ordinária, não obstante a oposição de embargos de declaração.
+ ..
+4. Agravo interno desprovido. (AgInt no REsp n. 2.060.898/SC, de minha relatoria, Quarta Turma, julgado em 4/9/2023, DJe de 6/9/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANOS MATERIAIS. 1. AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVO OU TESE. SÚMULAS N. 282 DO STF E 211 DO STJ. 2. VÍCIOS DE CONSTRUÇÃO. PRAZO DECADENCIAL. INAPLICABILIDADE. PRECEDENTES. SÚMULA 83/STJ. 3. PRAZO PRESCRICIONAL NÃO IMPLEMENTADO. REVISÃO. SÚMULA 7/STJ. 4. AGRAVO INTERNO IMPROVIDO.
+1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial - Súmulas n. 282/STF e 211/STJ. Também não é o caso de se considerar a ocorrência do prequestionamento implícito.
+ ..
+4. Agravo interno improvido. (AgInt no AREsp n. 2.327.251/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023.)
+A falta de prequestionamento impede também o conhecimento do recurso pela alínea c do permissivo constitucional. Afinal, não se pode falar em interpretação divergente de lei federal se o acórdão recorrido nem sequer faz alusão ao dispositivo legal sobre o qual se alega o dissídio. Conforme decidido no julgamento do REsp n. 146.834/SP (relator o Ministro Adhemar Maciel, DJ de 2.2.1998), "o prequestionamento também é necessário quando o recurso especial é aviado pela alínea "c", pois só haverá divergência jurisprudencial se o aresto recorrido solucionar uma mesma questão federal em dissonância com precedente de outra Corte".
+Ante o exposto, não conheço do recurso especial .
+Deixo de majorar os honorários sucumbenciais nos termos do § 11 do art. 85 do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória, no qual não houve prévia fixação de honorários.
+Publique-se.  Intimem-se.
+EMENTA
