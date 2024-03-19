@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MANOEL DOMINGUES DA SILVA, MARIA CERINA DOS SANTOS SILVA à decisão de fls. 235/236, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Note que a decisão embargada consigna que o Recurso Especial restou deserto pela falta de comprovação dos benefícios de justiça gratuita in casu. Contudo, além da decisão em anexo, que concedeu a gratuidade aos Embargantes, todas as peças recursais foram informadas o número do processo de origem e as fls. da sentença com concessão a tal benefício.
+Veja que às fls.2 dos presentes autos, na interposição do Agravo de Instrumento, consta a menção da decisão e fls. do benefício da justiça gratuita:
+ ..
+Na interposição do Recurso Especial, os Embargantes apresentaram as fls.104 desses autos, a menção da concessão da justiça gratuita concedida a eles nos autos de origem: (fl. 240).
+ ..
+Ademais, o acordão de fls.183/185 relativo a admissibilidade do Recurso Especial, em nada fala sobre falta de preparo, ou eventual intimação para comprovação do recolhimento. Ao revés, apenas trata da admissibilidade do Recurso Especial, isso porque a justiça gratuita já havia sido expressa nas peças recursais e o Agravo de Instrumento já tramitava pelo benefício.
+Assim, pugnam os Embargantes pelo acolhimento do presente para suprir eventual contradição do v.acórdão, inclusive com a juntada da decisão que concedeu a eles o benefício da justiça gratuita desde o inicio do Agravo de Instrumento: (fl. 241).
+ ..
+Considerando que a justiça gratuita é matéria de ordem pública, o Recurso Especial já era oponível com a justiça gratuita, até porque o Agravo de Instrumento, que busca reforma pelo Recurso Especial, já havia sido acolhido com os benefícios da justiça gratuita aos Embargantes, sem necessidade de se juntar as peças da decisão da concessão, com base no artigo 1017 do CPC, em especial parágrafo 5º que dispensa das peças referidas nos incisos I e II do caput, quando os autos do processo forem eletrônicos.
+Razão pela qual, pugna pela reconsideração do v.acordão para acolher justiça gratuita dos Recorrentes, e consequente apreciação do Agravo em Recurso Especial, eis que tal propositura não dependia de preparo e já tinha menção do feito com número do processo de origem, as página da concessão do benefício (fls.132/133) (fl. 242).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Consta da decisão embargada que o recurso especial não foi instruído com a guia de custas e respectivo comprovante de pagamento, tampouco houve a comprovação, no momento da interposição, de que a parte litiga sob os efeitos da gratuidade de justiça.
+A mera alegação da parte, na petição recursal, de que é beneficiária da assistência judiciária gratuita não é suficiente para o afastamento da deserção, isto é, deve haver a comprovação dessa condição no ato da interposição do recurso, ou quando da intimação para regularização do vício. Nesse sentido: AgInt no AREsp 1545172/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 5/6/2020.
+No caso, mesmo após a intimação da parte para sanear o vício, não houve a devida regularização, uma vez que deixou o prazo transcorrer in albis.
+Somente agora, em sede destes aclaratórios a parte trouxe a comprovação da gratuidade de justiça com o fim de regularizar o preparo, no entanto, não podem ser aceitos, em razão da preclusão. (AgInt no AREsp 1399586/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 3/12/2019; e AgInt nos EDcl nos EREsp 1454030/SP, relator Ministro Francisco Falcão, Corte Especial, DJe de 26/11/2019.)
+Portanto, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+Ademais, v eja-se que o juízo de admissibilidade do recurso especial é bifásico, ou seja, "a decisão proferida pelo Tribunal de origem não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do recurso especial. Isso porque compete a esta Corte, órgão destinatário do recurso especial, o juízo definitivo de admissibilidade". (AgInt no AREsp 1470001/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 20/9/2019.)
+Registre-se que a dispensa prevista no art. 1017, § 5º, do CPC se aplica à interposição do agravo de instrumento para o Tribunal de Justiça, ou seja, a dispensa está voltada ao primeiro e ao segundo graus de jurisdição, tendo em vista que, a princípio, compartilhariam o mesmo sistema eletrônico.
+Nesse sentido, o AgInt no REsp 1869850/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 17/02/2021; AgInt no AREsp 1691791/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 20/11/2020; AgInt no AREsp 1504387/RJ, relator Ministro Og Fernandes, Segunda Turma, Dje de 27/02/2020.
+Portanto, conclui-se que, a referida dispensa não se estende ao STJ, cabendo à parte providenciar a juntada da comprovação da gratuidade de justiça, quando da interposição de recurso a esta Corte.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
