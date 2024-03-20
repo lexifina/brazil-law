@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar, impetrado em favor de ADRIANA PEREIRA SIQUEIRA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Autos nº 2022582-23.2024.8.26.0000).
+O habeas corpus apresentado pela defesa foi denegado por meio de acórdão assim ementado (e-STJ fl. 22):
+Habeas Corpus Homicídio qualificado Pretensão de declaração de nulidade do processo ab initio.
+Alegação de violação do direito ao silêncio Paciente que, quando interrogada pela Autoridade Policial e em juízo, foi devidamente advertida da garantia constitucional de permanecer silente. Entrevista informal dos Policiais que não pode ser considerada interrogatório extrajudicial Não se vislumbra, em cognição sumária, a nulidade apontada.
+Alegação de ilicitude do ingresso dos Policiais na residência da Paciente consta do boletim de ocorrência a menção de autorização realizada pela Paciente.
+Questões referentes ao mérito, tais como divergências nas versões trazidas pelas partes, não são passíveis de análise através da estreita via do Habeas Corpus.
+Outrossim, eventuais irregularidades no Inquérito Policial não contaminam a Ação Penal.
+Não vislumbradas as nulidades apontadas.
+Ordem denegada.
+A defesa alega, em síntese, a existência de nulidade no meio de prova empregado.
+Requer, liminar e definitivamente, o deferimento da ordem para obter o reconhecimento da nulidade da confissão e das demais provas dela decorrentes.
+É o relatório.
+Decido.
+Para conhecer da controvérsia apresentada neste writ, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com a estreita via do habeas corpus.
+Além disso, a concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que não se verifica de plano na hipótese dos autos, conforme se obtém da fundamentação lançada na origem (e-STJ fls. 28-31):
+Salienta-se, ademais, que a entrevista policial não constitui interrogatório formal e, dessa forma, não deve ser tratada como tal.
+Outrossim, importante ressaltar que, de acordo com o termo de interrogatório da Paciente no Distrito Policial (fls. 08/10 dos autos principais), a acusada fora "cientificada pela Autoridade Policial quanto aos seus direitos individuais constitucionalmente previstos, em especial os de receber assistência de familiares ou de advogado que indicar, de não ser identificado criminalmente senão nas hipóteses legais, de ter respeitadas suas integridades física e moral, de manter- se em silêncio e/ou declinar informações que reputar úteis à sua autodefesa, de conhecer a identidade do autor de sua prisão e, se admitida, prestar fiança, se o caso for". Além disso, a Paciente prestou tal depoimento na presença de sua filha, que contava com 20 anos de idade, e na presença de sua irmã, que contava com 41 anos de idade, sendo certo que ambas assinaram o termo de interrogatório juntamente com a Paciente.
+(..)
+Outrossim, insta salientar que eventuais irregularidades do inquérito policial não se transmitem à ação penal, na qual a prova é repetida, sob o crivo do contraditório, sendo certo que a Paciente esteve assistida por Defensores em todos os atos processuais.
+É cediço que "O entendimento jurisprudencial desta Corte de Justiça há muito se firmou no sentido de que a declaração de nulidade exige a comprovação de prejuízo, em consonância com o princípio pas de nullite sans grief, consagrado no art. 563 do Código de Processo Penal." (AgRg no RHC 158254 / RJ, RELATOR Ministro MESSOD AZULAY NETO, QUINTA TURMA, DATA DO JULGAMENTO 04/03/2024, DATA DA PUBLICAÇÃO/FONTE DJe 08/03/2024).
+Ademais, "Na esteira da jurisprudência desta Corte Superior, eventuais nulidades ocorridas na fase inquisitorial não se comunicam com a subsequente ação penal, bem como o inquérito policial, notadamente por se tratar de peça de caráter meramente informativo, de cunho inquisitorial, não acompanha o mesmo rigor para a fixação de competência para o processamento e julgamento de uma ação penal, motivo pelo qual, no caso, a pretensão de nulidade em razão do auto de prisão em flagrante e do inquérito policial terem sido lavrados em cidade diversa da prática do crime deve ser rejeitada." (AgRg no HC 814692 / SP, RELATOR Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DATA DO JULGAMENTO 22/08/2023, DATA DA PUBLICAÇÃO/FONTE DJe 28/08/2023)
+A análise do quadro desenhado nos autos à luz da jurisprudência desta corte não indica qualquer tipo de divergência entre o que decidido no Tribunal de origem e o que se tem por remansoso nesta corte.
+De fato, mesmo que comprovadas, as supostas ilações extraídas da prova extrajudicial inquinariam apenas um ato praticado no inquérito, qual seja o momento da prisão em flagrante, sem que, contudo, se cogite da contaminação de outros atos havidos na fase policial e, muito menos, na fase judicial.
+Ademais, certo é que, à míngua de julgamento pelo Supremo Tribunal Federal do RE nº 1.177.984, em regime de repercussão geral, a Quinta Turma desta corte vem se posicionando no sentido de que "Relevante registrar, outrossim, que a falta de informação ao direito ao silêncio na fase do inquérito policial constitui nulidade relativa, a qual, além de necessidade de alegação oportuna, necessita da demonstração de efetivo prejuízo, o qual não foi evidenciado na espécie." (AgRg no HC 872775 / GO, RELATOR Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DATA DO JULGAMENTO 06/02/2024, DATA DA PUBLICAÇÃO/FONTE DJe 14/02/2024)
+Ou seja, mesmo que dado por nula confissão extrajudicial, certo é que, como destacou a corte de origem, a paciente confessou a autoria em sede policial e judicial, inexistindo, "in casu", indicação de qualquer prejuízo que o ato que se pretende ver nulificado tenha causado à defesa.
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
