@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo interposto por JATOBÁ EMPREENDIMENTOS IMOBILIÁRIOS E PARTICIPAÇÕES LTDA. e SAN MARCO II RIBEIRAO PRETO INCORPORADORA IMOBILIARIA SPE LTDA. contra decisão que não admitiu seu recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, por sua vez manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO nos termos da seguinte ementa (fl. 418):
+Apelação Compra e venda de imóvel Cobrança de valores em desacordo com o previsto contratualmente Obrigação de restituir sob pena de configurar enriquecimento sem causa Sentença mantida Recurso a que se nega provimento.
+Nas razões do recurso especial (fls. 424-431), aponta a parte recorrente ofensa ao disposto nos arts. 421, 422 e 423 do Código Civil e 47 do Código de Defesa do Consumidor, sustentando que o compromisso de compra e venda firmado entre as partes refletiu a exata condição de pagamento solicitada pelos recorridos, devendo ser considerada sua livre manifestação de vontade e a boa-fé objetiva.
+Oferecidas contrarrazões (fls. 436-443), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 444-445), o que ensejou a interposição do presente agravo (fls. 448-454).
+Sem contraminutas do agravo (fl. 456).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+O Tribunal de origem concluiu que a cobrança de valores está em desacordo com o previsto contratualmente, baseado no contrato celebrado entre as partes, assim como nos fatos e provas existentes nos autos, conforme o seguinte trecho do acórdão (fls. 419-420):
+2. As partes firmaram o Instrumento Particular de Compra e Venda de Imóvel c/c cláusula de alienação fiduciária em garantia, tendo por o objeto o lote 07 da quadra 13 do Loteamento San Marco II, no município de Ribeirão Preto, pelo preço de R$ 108.689,21 (cláusula 4A; fl. 22), com entrada de R$ 30.727,13 e saldo devedor de R$ 77.962,08 para pagamento em 84 parcelas de R$1.541,76. (conferir fl. 23)
+No entanto, os cálculos do demonstrativo juntado com a inicial (fls.78/79) demonstram que o valor correto da mensalidade, com os juros previstos no contrato, seria de R$ 1.350,81,ratificado nesta data através do sistema de cálculo no endereço eletrônicohttp://drcalc.net/price.asp it=5&ml.
+De acordo com o artigo 423 do Código Civil: "Quando houver no contrato de adesão cláusulas ambíguas ou contraditórias, dever-se-á adotar a interpretação mais favorável ao aderente".
+Portanto, a alegação da ré de equívoco do sistema na geração do saldo do financiamento em R$ 77.972,089,quando o correto seria R$ 88.982,83 não pode ser aceita.
+Por outro lado, o Código de Defesa ao Consumidor estabelece no artigo 47:"As cláusulas contratuais serão interpretadas de maneira mais favorável ao consumidor".
+Como analisou o magistrado de primeiro grau: "Acontece que não restou comprovado pelos demandados que os autores efetivamente sabiam do erro formal que maculava o contrato e, mesmo tendo adimplido as parcelas no valor de R$ 1.541,76, não há, por este simples ato, uma convalidação do erro por eles cometido."
+Rever tal entendimento, conforme pretendido, implica a interpretação das cláusulas contratuais e o reexame do contexto fático-probatório dos autos. Sendo assim, incidem as Súmulas n. 5/STJ ("A simples interpretação de cláusula contratual não enseja recurso especial") e 7/STJ ("A pretensão de simples reexame de prova não enseja recurso especial").
+Confiram-se os seguintes julgados: AgInt no AREsp n. 2.231.244/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/5/2023, DJe de 12/5/2023; AgInt no REsp n. 2.025.468/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/5/2023, DJe de 10/5/2023; AgInt no REsp n. 2.029.671/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/5/2023, DJe de 8/5/2023.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Caso existam nos autos honorários advocatícios fixados pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça, suspendendo-se, nesse caso, a exigibilidade dos honorários.
+Publique-se. Intimem-se.
+EMENTA
