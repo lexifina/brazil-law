@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por Jackelyne da Silva Borges, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios na Apelação Criminal n. 0004783-65.2020.8.07.0001, assim ementado (fls. 388/389):
+APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. ABSOLVIÇÃO. PRINCÍPIO DA DIGNIDADE DA PESSOA HUMANA. EXCLUDENTES DO ESTADO DE NECESSIDADE E INEXIGIBILIDADE DE CONDUTA DIVERSA. NÃO CONFIGURADAS. CONDENAÇÃO MANTIDA. DOSIMETRIA. CAUSA DE AUMENTO. PRAÇA PÚBLICA. CONSTATAÇÃO.
+I- Inviável a absolvição sob o fundamento de respeito à dignidade da pessoa humana, que se confunde com as excludentes do estado de necessidade e inexigibilidade de conduta diversa, quando não comprovado o suposto perigo atual ou a inviabilidade de agir com observância ao ordenamento jurídico pátrio, sendo certo que a alegação de dificuldades financeiras não pode ser utilizada para a prática criminosa. II-O rol descrito no art. 40, III, da Lei nº 11.343/2006 não é taxativo, ficando comprovada a causa de aumento quando o delito é cometido em praça pública, constituindo circunstância objetiva, que dispensa a prova quanto ao alcance do público que frequenta o local, visto que o risco se presume, ou seja, o perigo é abstrato. III -Recurso conhecido e desprovido.
+No recurso especial, a defesa aponta violação do art. 40, III, da Lei n. 11.343/2006, sob a tese de que, diversamente do que foi aduzido no acórdão recorrido, evidencia-se que o rol disposto no inciso III do art. 40 da Lei 11.343/2003 é TAXATIVO, portanto, a prática do crime de tráfico de drogas em praças públicas, não atrai a incidência da causa de aumento, uma vez que, não estando prevista em lei, proíbe-se, portanto, a analogia in malam partem (fl. 411).
+Ao final da peça recursal, requer o provimento da insurgência, a fim de afastar a majorante prevista no art. 40, III, da Lei n. 11.343/2006.
+Oferecidas contrarrazões (fls. 422/424), o recurso especial foi admitido na origem (fls. 427/428).
+O Ministério Público Federal opina pelo provimento da insurgência, nos termos da seguinte ementa (fl. 442):
+RECURSO ESPECIAL. PENAL. TRÁFICO DE ENTORPECENTES. CONDENAÇÃO. DOSIMETRIA DA PENA. PRETENSÃO VOLTADA PARA O AFASTAMENTO DE MAJORANTE. COMETIMENTO DA INFRAÇÃO EM PRAÇA PÚBLICA. AUSÊNCIA DE PREVISÃO NO ROL TAXATIVO DO ART. 40, III, DA LEI DE DROGAS. VEDAÇÃO AO EMPREGO DA ANALOGIA IN MALAM PARTEM. PRECEDENTE.
+Pelo provimento do recurso especial para que seja afastada da aplicação da pena a majorante inscrita no art. 40, III, da Lei n. 11.343/2006.
+É o relatório.
+No que se refere à incidência da majorante prevista no art. 40, III, da Lei n. 11.343/2006, o Tribunal de origem consignou o seguinte (fls. 393/394 - grifo nosso):
+ ..  Como se verifica dos autos, o tráfico ocorreu em uma praça pública, em frente à residência da ré, disso não havendo qualquer dúvida, notadamente porque a própria apelante confessou na Delegacia que vendeu entorpecentes na "praça da QR 313", o que foi confirmado pelos policiais ouvidos em Juízo. O artigo 40, inciso III, da Lei nº 11.343/2006 determina que as penas previstas no artigo 33 da mesma norma serão aumentadas de um sexto a dois terços, se:
+ ..
+Trata-se de circunstância objetiva, que se configura pela mera prática do delito nas situações listadas na norma, cujo rol não é taxativo, não havendo necessidade de comprovação de que a conduta visava ou atingiu quaisquer frequentadores de referidos locais. O perigo é abstrato e de mera conduta.
+ ..
+Com efeito, verifica-se que o entendimento do Tribunal a quo se encontra em dissonância com a jurisprudência desta Corte, segundo a qual o rol do art. 40, III, da Lei de Drogas é taxativo. Por conseguinte, inviável a aplicação da majorante ao tráfico de drogas praticado em praça pública não associada aos locais indicados no referido dispositivo (dependências ou imediações de estabelecimentos prisionais, de ensino ou hospitalares, de sedes de entidades estudantis, sociais, culturais, recreativas, esportivas, ou beneficentes, de locais de trabalho coletivo, de recintos onde se realizem espetáculos ou diversões de qualquer natureza, de serviços de tratamento de dependentes de drogas ou de reinserção social, de unidades militares ou policiais ou em transportes públicos).
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. NÃO CONHECIMENTO. MATÉRIA PREQUESTIONADA NA ORIGEM. RECONSIDERAÇÃO. MAJORANTE PREVISTA NO ART. 40, III, DA LEI 11.343/06. PRAÇA PÚBLICA. ROL TAXATIVO. AUSÊNCIA DE PREVISÃO EM LEI. AGRAVO PROVIDO.
+1. Prequestionada a matéria perante o Tribunal de origem, deve ser conhecido o recurso especial.
+2. A prática de crime de tráfico de drogas em praça pública, por si só, não atrai a incidência da majorante prevista no art. 40, III, da Lei 11.343/06, porquanto não prevista em lei, sendo vedado o uso da analogia in malam partem.
+3. Agravo regimental provido para conhecer do agravo em recurso especial e dar-lhe provimento a fim de reduzir a pena para 6 anos, 9 meses e 20 dias de reclusão e 680 dias-multa, mantido o regime fechado.
+(AgRg no AREsp n. 1.495.549/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 27/2/2020 - grifo nosso).
+Nesse contexto, de rigor o decote da majorante e o redimensionamento da pena da recorrente para 1 ano e 8 meses de reclusão, e 166 dias-multa.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial para afastar a majorante do art. 40, III, da Lei n. 11.343/2006, e redimensionar a pena da recorrente para 1 ano e 8 meses de reclusão, e 166 dias-multa.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS. VIOLAÇÃO DO ART. 40, III, DA LEI N. 11.343/2006. DELITO PRATICADO EM PRAÇA PÚBLICA. LOCAL NÃO PREVISTO NA NORMA. ROL TAXATIVO. DECOTE DA MAJORANTE DE RIGOR.
+Recurso especial provido nos termos do dispositivo.
