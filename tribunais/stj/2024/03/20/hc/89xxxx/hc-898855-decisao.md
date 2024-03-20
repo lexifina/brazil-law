@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CAMILA ALVES PINTO contra acórdão proferido pelo Tribunal de Justiça do Mato Grosso (HC n. 1013003-22.2023.8.11.0000).
+Consta dos autos que a paciente foi presa em flagrante, no dia 31/8/2022, custódia convertida em preventiva, pela suposta prática dos delitos previstos nos arts. 33, caput, c/c o art. 40, VI, da Lei n. 11.343/2006 e 2º, § 4º, I, da Lei n. 12.850/2013.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos da seguinte ementa (e-STJ fl. 34):
+HABEAS CORPUS - INTEGRACÃO A ORGANIZAÇÃO CRIMINOSA COM PARTICIPAÇÃO DE ADOLESCENTE  ART. 2º, §§ 3º E 4º, INCISO I, DA LEI N. 12.850/2013  E TRÁFICO DE DROGAS ENVOLVENDO ADOLESCENTE  ART. 33, CAPUT, C/C ART. 40, INCISO VI, AMBOS DA LEI N. 11.343/2006  - PRISÃO PREVENTIVA DECRETADA COM BASE NO RISCO DE REITERAÇÃO DELITIVA E NA GRAVIDADE CONCRETA DA CONDUTA - FILHOS MENORES DE 12  DOZE  ANOS QUE NÃO RESIDEM COM A PACIENTE - PRESCINDIBILIDADE DOS CUIDADOS MATERNOS - ORDEM DENEGADA, EM CONSONÂNCIA COM O PARECER MINISTERIAL.
+É necessária a decretação da segregação cautelar para garantia da ordem pública em razão da contumácia delitiva da paciente, que responde ações penais e ostenta outras passagens pelo cometimento crimes, afigurando-se insuficiente a fixação de cautelares diversas  art. 319, CPP .
+Demonstrado, pela própria declaração da paciente, que seus filhos menores residem na companhia dos seus respectivos genitores, não se afiguram imprescindíveis os cuidados maternos, sendo descabida a conversão da prisão preventiva em domiciliar, mormente quando a residência dela era utilizada como ponto de distribuição e comercialização de entorpecentes. Precedentes.
+Na presente oportunidade, a defesa alega ofensa ao princípio da presunção de inocência "ao afirmar que a Paciente é "contumaz na pratica de crime", mesmo sem possui condenação transitada em julgado." (e-STJ fl. 7).
+Insiste que a paciente possui três filhos menores de idade, com 5, 10 e 14 anos de idade, fazendo jus à prisão domiciliar, nos termos do art. 318 do Código de Processo Penal.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva preventiva da paciente ou, subsidiariamente, a sua substituição por medidas cautelares diversas ou por prisão domiciliar.
+É o relatório, decido.
+A presente impetração é mera reiteração do HC n. 840.796/MT - apresenta as mesmas partes, causa de pedir e pedido, bem como foi interposto contra o mesmo ato coator, o HC n. 1013003-22.2023.8.11.0000, o qual em decisão monocrática por mim proferida em 21/9/2023, não foi conhecido.
+Com efeito, " ..  revela-se manifestamente incabível o habeas corpus que veicula pedido idêntico ao formulado em pleito anterior, que tramita nesta Corte" (AgRg no HC n. 253.038/SP, Rel. Ministra ALDERITA RAMOS DE OLIVEIRA (Desembargadora convocada do TJ/PE), Sexta Turma, julgado em 11/4/2013, DJe 23/4/2013).
+Em outras palavras, "é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 531.227/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 10/9/2019, DJe 18/9/2019).
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
+EMENTA
