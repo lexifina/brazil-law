@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MOZER ALVES MOREIRA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu o recurso especial.
+Consta dos autos que o MM. Juízo de primeiro grau condenou o ora recorrente como incurso nas sanções do art. 180, caput, do Código Penal, à pena de 1 ano e 4 meses de reclusão, no regime inicial fechado, mais 13 dias-multa (fls. 197-205).
+O Tribunal de origem, em decisão unânime, deu parcial provimento ao recurso de apelação criminal ali interposto pela Defesa, "para reduzir a pena do réu para um ano, dois meses e doze dias de reclusão, em regime prisional inicial semiaberto, mais pagamento de doze dias-multa, no piso" (fls. 252-260, grifos no original).
+Opostos embargos de declaração, pela combativa Defesa, foram eles rejeitados, à unanimidade de votos (fls. 279-285).
+Sobreveio recurso especial, interposto com fulcro no artigo 105, III, "a", da Constituição Federal, no qual se alega, em síntese, que houve violação ao art. 180, § 3º, ao art. 33, § 2º, e ao art. 44, todos do Código Penal (fls. 294-303).
+Para tanto, menciona que "nada nos autos indica que o réu sabia que o motociclo, era produto de crime. Em verdade, e no máximo, não teve a cautela necessária ao averiguar se o carro seria produto de crime ou não" (fl. 298).
+Aduz, outrossim, que "na espécie a pena imposta é inferior a 04 (quatro) anos. Assim, cabível será o regime inicial aberto de cumprimento de pena, nos termos do nos termos do art. 33, §2º, "c", do Código Penal" (fl. 299).
+Diz, também, que "Frise-se que as circunstâncias judicias previstas no art. 59, do Código Penal, as quais incluem aquelas previstas no art. 44, inciso III, do mesmo diploma legal, deveram ser consideradas favoráveis" (fl. 302).
+Requer, ao final, o provime nto do recurso para (fls. 302-303):
+"(i) Art. 180, §3º, do Código Penal - para desclassificar a conduta do recorrente para a receptação na modalidade culposa; (ii) Art. 33, §2º, c, do Código Penal - para que seja fixado regime inicial aberto para cumprimento da pena, mesmo que reincidente em homenagem ao princípio da proporcionalidade; e por fim; (iii) Art. 44, §3º, do Código Penal, para que seja substituída a pena corporal por restritivas de direitos, apesar da reincidência, visto que tal medida é a mais socialmente adequada ao caso em concreto."
+Apresentadas as contrarrazões (fls. 306-315), o especial foi inadmitido na origem pela pelos seguintes fundamentos, quais sejam: a) aplicação da Súmula n. 283/STF; b) incidência da Súmula n. 7/STJ; c) aplicação da Súmula n. 269/STJ; e d) pela incidência da Súmula n. 83/STJ (fls. 317-319).
+Daí a interposição do presente agravo (fls. 325-334), no qual se requer o provimento do recurso especial.
+Apresentada a contraminuta (fls. 337-340), manifestou-se o Ministério Público Federal pelo não conhecimento do agravo (fls. 354-358).
+No caso, a despeito das razões apresentadas, o agravante deixou de rebater, especificamente, o óbice contido na Súmula 83/STJ.
+Com efeito, o agravante não infirmou, de maneira adequada e suficiente, todas as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a impossibilidade de incidência do referido óbice apontado.
+Quanto ao óbice do Enunciado Sumular n. 83/STJ, caberia ao agravante comprovar, por meio da indicação de precedentes contemporâneos ou supervenientes desta Corte Superior de Justiça, a desarmonia do julgado com a jurisprudência sedimentada, evidenciando, assim, a inaplicabilidade do embaraço indicado pelo Tribunal a quo (AgRg no HC n. 731.937/SP, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 2/5/2022, grifei), o que não ocorreu no caso dos autos.
+Como cediço, nos termos da jurisprudência deste Superior Tribunal, "Para se afastar o óbice contido na Súmula 83/STJ, não basta que se mencione um único julgado, devendo "ser trazidos à colação julgados do Superior Tribunal de Justiça, atuais em relação à decisão agravada, que demonstrem ter o acórdão recorrido adotado entendimento contrário à posição dominante da jurisprudência desta Corte Superior" (AgRg no AREsp n. 1.712.720/TO, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 20/10/2020, DJe de 26/10/2020.).
+Conforme ressaltado pelo d. representante do Ministério Público Federal, em seu parecer (fl. 355):
+"O agravo em recurso especial não merece conhecimento, nos termos da Súmula 182/STJ, porque a parte agravante se limitou a negar a incidência dos óbices que serviram de fundamentos para negar seguimento ao seu recurso especial, reiterando os argumentos suscitados nas razões do recurso inadmitido, sem trazer qualquer argumento válido e suficiente para afastar a conclusão do decisum que o inadmitiu."
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Ao recorrente, incumbe demonstrar o equívoco da decisão agravada, sendo imprescindível que impugne todos os óbices por ela apontados de maneira específica e suficientemente demonstrada, nos termos do art. 932, III, do CPC, c/c art. 3º do CPP.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. SÚMULA 182/STJ. AGRAVO REGIMENTAL DESPROVIDO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. A falta de impugnação específica aos fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia.
+2. Presente flagrante ilegalidade a autorizar a concessão de habeas corpus de ofício.
+3. A agravante genérica da calamidade pública, na segunda fase da dosimetria da pena, pressupõe situação concreta de que o agente se prevaleceu da pandemia para a prática delitiva.
+4. Agravo regimental desprovido, mas habeas corpus concedido, de ofício, para excluir a agravante do art. 61, II, j, do Código Penal, com o redimensionamento da pena. (AgRg no AREsp n. 2.225.453/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC. INSURGÊNCIA DESPROVIDA .
+1. A decisão que não admitiu o recurso especial assentou que estaria prejudicado o apelo nobre diante do julgamento do HC 690.320/SP. No entanto, no agravo em recurso especial, a defesa não refutou o referido fundamento.
+2. Deixando a parte agravante de impugnar específica e concretamente os fundamentos da decisão agravada, é de se aplicar o art. 932, III, do Código de Processo Civil e o art. 253, I, do RISTJ.
+3. Agravo desprovido. (AgRg no AREsp n. 2.156.001/SP, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 14/2/2023, DJe de 17/2/2023.)
+Incide, no caso e por analogia, a Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
