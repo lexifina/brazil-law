@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto por JOSE VANDERLEY PEREIRA DA SILVA de decisão que inadmitiu na origem seu recurso especial, manifestado com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Alagoas, assim ementado (fl. 342):
+APELAÇÃOCÍVEL. DIREITOADMINISTRATIVO. POLICIALMILITAR. PRAÇ. RESERVA REMUNERADA. ILEGITIMIDADE PASSIVA DO ALAGOAS PREVIDÊNCIA. RECONHECIMENTO EX OFFICIO. PRESCRIÇÃO DE FUNDO DE DIREITO. NÃO OCORRÊNCIA. PROMOÇÃO POR RESSARCIMENTO. INEXISTÊNCIA DE PRETERIÇÃO. LEI Nº6.514/04. INTERSTÍCIO MÍNIMO QUE NÃO SE CONFIGURA COMO CONDIÇÃO DETERMINANTE PARA PROMOÇÃO. ORDEM DO QUADRO DE ACESSO QUE DEVE SER OBSERVADA. CONJUGAÇÃO DOS REQUISITOS PREVISTOS EM LEI. AUSÊNCIA DE VAGAS. LIMITES DE ASCENSÃO PRÓPRIOS DA CADEIA DE COMANDO MILITAR. ESTRUTURA HIERÁRQUICA. PRIMADOS QUE SUSTENTAMA INSTITUIÇÃO CASTRENSE. HONORÁRIOS SUCUMBENCIAIS MAJORADOS. RECURSO CONHECIDO E NÃO PROVIDO.
+No recurso inadmitido, além de dissídio jurisprudencial, sustenta o agravante ofensa aos arts. 8º, caput, e 373, § 1º, do CPC. A tanto, tece considerações a respeito da legislação local de regência, aduzindo fazer jus às promoções pleiteadas.
+Já nas razões do agravo, afirma que os pressupostos de admissibilidade do apelo nobre encontram-se presentes, reprisando os argumentos nele expendidos.
+Contraminuta às fls. 448/458.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Preenchidos os pressupostos de admissibilidade do agravo, examino o próprio recurso especial.
+Dito isto, verifica-se que a Corte estadual não emitiu nenhum juízo de valor a respeito dos arts. 8º e 373, § 1º, do CPC, restando ausente seu necessário prequestionamento, nos termos da Súmula 282/STF.
+Acrescente-se, outrossim, que a parte recorrente não se desincumbiu-se de demonstrar, de forma clara, precisa e congruente, em que consistiria a suposta ofensa a tais dispositivos legais. Isso porque, nas razões do apelo especial, limitou-se a tecer considerações a respeito da legislação estadual de regência.
+Logo, também incide na espécie a Súmula 284/STF.
+Impende ressaltar que, para se rever as conclusões firmadas no acórdão recorrido no sentido de que o autor, ora recorrente, não teria preenchido os requisitos legais contidos na legislação estadual aplicável ao caso, para fins de obtenção das promoções militares almejadas, demandaria o reexame de lei local, o que esbarra na vedação da Súmula 280/STF.
+Por fim, a teor do Enunciado Administrativo n. 7 do Superior Tribunal de Justiça, "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários recursais, na forma do art. 85, § 11, do novo CPC".
+Logo, considerando-se que o acórdão recorrido foi prolatado já na vigência do CPC/2015 e, outrossim, tendo em vista o não acolhimento da pretensão recursal da parte ora recorrente, é cabível a condenação desta em honorários advocatícios recursais, na forma do art. 85, § 11, do CPC/2015.
+ANTE O EXPOSTO, conheço do agravo para não conhecer do recurso especial. Condeno a parte recorrente ao pagamento de honorários advocatícios recursais arbitrados, nos termos do art. 85, § 11, do CPC, em 20% sobre a verba honorária fixada nas instâncias ordinárias, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+EMENTA
