@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por LUIZ CARLOS SILVA FIGUEIRA em face da decisão que não conheceu do recurso de embargos de divergência em razão da deserção .
+Em suas razões, sustenta a parte embargante que a decisão merece reparo, uma vez que "o feriado de carnaval foi do dia 12 ao dia 14, por certo que o prazo de apresentação se dá no dia 16/02/2024. E ainda é importante frisar que as custas foram pagas no dia 15/02/2024, comprovante já anexado. E ainda o recorrente é o terceiro interessado, não sendo necessário recolher a remessa em dobro" (e-STJ fl. 1.028)..
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer que, no ato de interposição da petição de embargos de divergência perante a Secretaria deste Tribunal, a parte deve anexar a guia de recolhimento das custas devidamente preenchida, bem como o respectivo comprovante de pagamento, ambos de forma visível e legível.
+Conforme explicitado na decisão embargada, o recurso de embargos de divergência foi instruído sem a guia de custas do STJ e o respectivo comprovante de pagamento. Assim, a parte foi intimada para realizar o recolhimento em dobro do preparo, conforme estabelece o § 4º do art. 1.007 do CPC/2015. No entanto, manifestou-se após o prazo de 5 (cinco) dias, além de ter realizado apenas o recolhimento simples das custas judiciais, quando devido em dobro (e-STJ fls. 1.018/1.019).
+Veja-se que no âmbito do Superior Tribunal de Justiça, apenas os dias 12 e 13 de fevereiro de 2024 foram feriados, conforme Portaria STJ/GP n. 2 de 04 de janeiro de 2024, publicada no DJe de 10 de janeiro de 2024. O dia 14 de fevereiro de 2024 foi dia útil, com expediente a partir das 14 horas. Os prazos processuais observaram os termos do artigos 219, 224 e 231 do Código de Processo Civil de 2015, portanto tendo a parte sido intimada no dia 06/02/2024, o prazo iniciou-se no dia 07 de fevereiro e findou-se no dia 15 de fevereiro, portanto a manifestação no dia 16 de fevereiro foi intempestiva.
+Dessa forma, o recurso de embargos de divergência não foi devida e oportunamente preparado, o que levou à deserção do recurso.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PREPARO. IRREGULARIDADE. INTIMAÇÃO PARA REGULARIZAÇÃO. APRESENTAÇÃO DE DOCUMENTOS DIVERSOS. PRECLUSÃO CONSUMATIVA. COMPROVAÇÃO EXTEMPORÂNEA DO RECOLHIMENTO. DESERÇÃO. JUÍZO DE ADMISSIBILIDADE. DUPLO CONTROLE.
+1. Ação de obrigação de fazer.
+2. É deserto o recurso quando a parte recorrente, intimada a efetuar a regularização do preparo, não cumpre a diligência no prazo fixado. Ademais, não é possível a juntada extemporânea dos documentos aptos a comprovar a realização do preparo, tendo em vista a incidência do instituto da preclusão consumativa.
+3. A aferição da regularidade formal do recurso pela instância a quo não vincula o Superior Tribunal de Justiça, já que se trata de juízo provisório, recaindo o juízo definitivo sobre este Sodalício, quanto aos requisitos de admissibilidade e em relação ao mérito. Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp 2436336/MA, Rel Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/03/2024, DJe 06/03/2024)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IRREGULARIDADE NA COMPROVAÇÃO DO PREPARO QUANDO DA INTERPOSIÇÃO DO RECURSO ESPECIAL. JUNTADA DO COMPROVANTE DE AGENDAMENTO DE PAGAMENTO. INADMISSIBILIDADE. ART. 1.007, § 4º, CPC/215. INTIMAÇÃO PARA PAGAMENTO EM DOBRO. NÃO OBSERVÂNCIA DA COMPLEMENTAÇÃO DO PREPARO. DESERÇÃO CARACTERIZADA. SÚMULA 187/STJ.
+1. A jurisprudência desta Corte Superior firmou-se no sentido de que a juntada de comprovante de agendamento bancário não é documento apto a comprovar que o preparo foi devidamente recolhido. Precedentes.
+2. Não havendo a demonstração do recolhimento do preparo no ato de interposição do recurso, por meio de documento idôneo, a parte é intimada para efetuar o recolhimento em dobro ou a comprovar o efetivo pagamento, com a complementação devida, uma vez que devido em dobro, tudo nos termos do § 4º do art. 1.007 do CPC/2015.
+3. Na espécie, a agravante, após intimação para saneamento da ausência de comprovação do preparo, apresentou o comprovante de pagamento do anterior recolhimento simples das custas, mas não comprovou a complementação do referido preparo, devido em dobro. Deserção reconhecida. Aplicação da Súmula 187/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1806437/SP, Rel Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 21/06/2021, DJe 26/06/2021)
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
+ EMENTA
