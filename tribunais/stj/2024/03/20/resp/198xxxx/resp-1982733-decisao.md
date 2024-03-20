@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de recurso especial interposto por MURILO APARECIDO ROMÃO BONINI e AMANDA BAGAIOLO SOFFNER, com fundamento no art. 105, inciso III, alínea "a" , da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que julgou demanda relativa a ônus sucumbenciais.
+O julgado deu negou provimento ao recurso de apelação da parte recorrente nos termos da seguinte ementa (fl. 420):
+AÇÃO DE CONHECIMENTO. Pretensão de indenização por danos materiais e danos morais em razão de vícios construtivos. Parcial procedência. Inconformismo de ambas as partes. Perícia técnica que confirmou falhas de construção. Obrigação de reparar os danos que se impõe. Autores que deverão responder pelas custas judiciais, despesas processuais e honorários de advogado da empresa ré, por conta do reconhecimento de sua ilegitimidade de parte. Extinção do feito em relação a ela que só ocorreu por ocasião da prolação da r. sentença. Demandantes sucumbentes na maior parte de seu pedido no tocante aos demais requeridos e que por isso, arcarão com 70% das custas, despesas processuais e verba honorária, exceto quanto aos honorários periciais, que deverão ser pagos pelos requeridos, ante a resistência ao pedido,na proporção de 70%. Inteligência dos artigos 85, §§ 2º e 86, do CPC. Sentença reformada.
+RECURSO DOS AUTORES DESPROVIDO.
+RECURSO ADESIVO DOS RÉUS PROVIDO EM PARTE.
+Rejeitados os embargos de declaração opostos (fls. 482-485).
+No presente recurso especial, a parte recorrente alega que o acórdão estadual contrariou as disposições contidas nos arts. 502, 505, 486, § 1º, e 337, §§ 1º e 4º, do CPC.
+Argumenta que a decisão interlocutória que reconheceu a ilegitimidade da Avelar Couto Empreendimento Ltda. transitou em julgado sem que tenham sido fixados honorários de sucumbência, sem nenhuma oposição. Assevera que não poderia o Juízo, em embargos de declaração da sentença, modificar parte da decisão transitada e impor ônus de sucumbência.
+Apresentadas as contrarrazões (fls. 506-516), sobreveio o juízo de admissibilidade negativo da instância de origem (fls. 520-521).
+O ministro relator, Paulo de Tarso Sanseverino, houve por bem dar provimento ao agravo em recurso especial, para determinar sua conversão em recurso especial (fl. 560).
+É, no essencial, o relatório.
+Cuida-se, na origem, de ação indenizatória movida pelos recorrentes MURILO APARECIDO ROMÃO BONINI e AMANDA BAGAIOLO SOFFNER em desfavor da parte recorrida, AVELAR COUTO EMPREENDIMENTOS LTDA., MERCIA AVELAR LOPES e PAULO JOSÉ AVELAR LOPES, em decorrência de vícios construtivos.
+Em decisão interlocutória, declarou-se a ilegitimidade de AVELAR COUTO EMPREENDIMENTOS LTDA. sem, contudo, fixar honorários advocatícios.
+A parte ora declarada ilegítima interpôs, na origem, embargos de declaração após sentença, os quais foram acolhidos no sentido declarar extinto o feito e de fixar os honorários advocatícios em 10% sobre o valor da causa.
+Irresignados, os recorrentes alegaram que não seria cabível a fixação de honorários em embargos de declaração da sentença para modificar parte da decisão transitada e impor ônus de sucumbência.
+Quanto ao ponto, assim decidiu a origem (fls. 423-424):
+Com relação à demandada "Avelar Couto Empreendimentos Ltda.", muito embora tenha sido reconhecida a sua ilegitimidade de parte na r. decisão proferida em 27.04.2018, há de se anotar que houve decreto de extinção do feito, nos termos do artigo 485, inciso VI, do CPC/2015, somente por ocasião do julgamento dos embargos de declaração, sendo pertinente a atribuição dos ônus de sucumbência aos autores.
+Com efeito, da análise do acordão recorrido, observa-se que o Tribunal de origem, ao negar provimento à apelação, limitou-se a manter os honorários fixados na origem, sem abordar a questão da ocorrência ou não da preclusão ou coisa julgada.
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente, a despeito da oposição dos embargos de declaração.
+Assim, incide no caso o enunciado da Súmula n. 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+Nesse sentido, cito:
+5. A simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 do STF e 211 do STJ. (AgInt nos EDcl no REsp n. 1.993.188/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 17/10/2022.)
+2. A ausência de debate em torno dos dispositivos tidos como violados impede o conhecimento do recurso especial, a despeito da oposição de embargos de declaração. Súmula nº 211/STJ.
+(AgInt no AREsp n. 1.994.278/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 10/10/2022.)
+1. O conhecimento do recurso especial exige que a tese recursal e o conteúdo normativo apontado como violado tenham sido objeto de efetivo pronunciamento por parte do Tribunal de origem, ainda que em embargos de declaração, o que não ocorreu no caso em tela (Súmula n. 211/STJ).
+1.1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Sua ocorrência se dá quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, situação não verificada na hipótese dos autos.
+(AgInt no AREsp n. 2.131.426/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 18/10/2022.)
+Acrescente-se que, se o recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação do art. 1.022 do CPC quando da interposição do recurso especial com fundamento na alínea "a" do inciso III do art. 105 da Constituição Federal, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Nesse sentido, cito:
+II - A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+III - No caso, malgrado a oposição de embargos declaratórios, o tribunal de origem não analisou, ainda que implicitamente, a tese suscitada.
+IV - Cabe ao Recorrente alegar nas razões de recurso especial afronta ao art. 1.022, do Código de Processo Civil, de forma fundamentada, caso entenda persistir omissão, contradição ou obscuridade no acórdão impugnado, possibilitando, assim, a análise de eventual negativa de prestação jurisdicional, sob pena de não conhecimento da matéria por ausência de prequestionamento, como ocorreu no presente caso.
+(AgInt no REsp n. 2.002.305/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 30/11/2022.)
+1. O Tribunal a quo não emitiu juízo de valor sobre a tese referente à inversão dos ônus sucumbenciais. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados na instância de origem, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ. Caberia à parte, em seu Apelo Nobre, alegar violação do art. 1.022 do CPC/2015, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado, o que não foi feito.
+(AgInt no AREsp n. 2.104.649/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 30/9/2022.)
+Ante o exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados pelo Tribunal de origem para 12%, sobre o valor atualizado da causa, observada a concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
