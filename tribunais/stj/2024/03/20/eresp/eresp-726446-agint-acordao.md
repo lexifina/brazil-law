@@ -1,0 +1,87 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Corte Especial do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Sebastião Reis Júnior, Sérgio Kukina, Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins e Herman Benjamin votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Mauro Campbell Marques, Benedito Gonçalves e Ricardo Villas Bôas Cueva.
+Convocado o Sr. Ministro Sérgio Kukina.
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. SUFICIÊNCIA DA FUNDAMENTAÇÃO DO JULGADO RECORRIDO. CONFORMIDADE COM O TEMA N. 339/STF. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. IMPOSSIBILIDADE DE DEBATE OU SUPERAÇÃO. TEMA N. 181/STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339 do STF, QO no Ag n. 791.292/PE).
+2. Existente a fundamentação, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, mesmo que a parte não a repute adequada ou completa, conforme a conclusão firmada no Tema n. 339 do STF, tese de observância obrigatória (CPC, art. 927, III).
+3. Quanto às demais alegações, em caso de não conhecimento do recurso anterior por ausência de algum de seus requisitos, as razões do recurso extraordinário, sejam voltadas ao óbice aplicado ou à matéria de fundo, demandariam a reapreciação da conclusão que não conheceu do recurso.
+4. A Corte Suprema definiu, sob o regime da repercussão geral, que a questão relativa a pressupostos de admissibilidade de recurso da competência de outros tribunais não possui repercussão geral (Tema n. 181 do STF).
+5. Nos termos do art. 1.030, I, a, do Código de Processo Civil, não é possível a remessa do recurso extraordinário ao STF nos casos em que definida a ausência de repercussão geral.
+6. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto contra a decisão que negou seguimento ao recurso extraordinário de fls. 6.896-6.911 assim ementada (fl. 7.183):
+RECURSO EXTRAORDINÁRIO. SUFICIÊNCIA DA FUNDAMENTAÇÃO DO JULGADO RECORRIDO. CONFORMIDADE COM O TEMA N. 339/STF. PRESSUPOSTOS DE ADMISSIBILIDADE DO RECURSO DE COMPETÊNCIA DO STJ. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 181/STF. NEGATIVA DE SEGUIMENTO.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339/STF, QO no Ag n. 791.292/PE).
+2. Existente a fundamentação, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, mesmo que a parte não a repute adequada ou completa, conforme a conclusão firmada no Tema n. 339/STF, tese de observância obrigatória (CPC, art. 927, III).
+3. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+4. Incide a tese fixada no Tema n. 181/STF, conquanto se queira, no recurso extraordinário, discutir o mérito da causa ou as razões impeditivas do conhecimento do recurso.
+5. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
+A parte agravante reitera a alegação de existência de repercussão geral da matéria debatida e a ocorrência de violação dos arts. 5º, XXXV, LIII e LV, 93, IX, 108, II, e 109, I, da Constituição Federal.
+Afirma que pretende, com a interposição do recurso extraordinário, o pronunciamento da Corte Suprema acerca da competência da Justiça Federal para o julgamento de processos em que a União tenha atuado em sucessivas ocasiões.
+Nesse sentido, sustenta a inaplicabilidade, de forma isolada, do Tema n. 181 do STF ao caso, argumentando que a aplicação do referido tema deveria se dar em consonância com o Tema n. 775 do STF, a fim de que prevaleça a competência da Justiça Federal.
+Acrescenta que (fl. 7.290):
+ ..  apesar da interposição de embargos declaratórios não houve apreciação exame do fato de que a União interveio no processo por vezes reiteradas, tendo apresentado manifestações e interposto recursos. Desse modo, impunha-se o deslocamento de competência, em linha com o Tema 775, o que não aconteceu. O Tema 339 deve ser aplicado em conformidade com o 775!
+Requer a reconsideração da decisão recorrida ou o provimento do agravo para que o recurso extraordinário seja admitido e remetido ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. SUFICIÊNCIA DA FUNDAMENTAÇÃO DO JULGADO RECORRIDO. CONFORMIDADE COM O TEMA N. 339/STF. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. IMPOSSIBILIDADE DE DEBATE OU SUPERAÇÃO. TEMA N. 181/STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339 do STF, QO no Ag n. 791.292/PE).
+2. Existente a fundamentação, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, mesmo que a parte não a repute adequada ou completa, conforme a conclusão firmada no Tema n. 339 do STF, tese de observância obrigatória (CPC, art. 927, III).
+3. Quanto às demais alegações, em caso de não conhecimento do recurso anterior por ausência de algum de seus requisitos, as razões do recurso extraordinário, sejam voltadas ao óbice aplicado ou à matéria de fundo, demandariam a reapreciação da conclusão que não conheceu do recurso.
+4. A Corte Suprema definiu, sob o regime da repercussão geral, que a questão relativa a pressupostos de admissibilidade de recurso da competência de outros tribunais não possui repercussão geral (Tema n. 181 do STF).
+5. Nos termos do art. 1.030, I, a, do Código de Processo Civil, não é possível a remessa do recurso extraordinário ao STF nos casos em que definida a ausência de repercussão geral.
+6. Agravo interno a que se nega provimento.
+VOTO
+Inicialmente, destaca-se que a parte recorrente interpôs dois recursos extraordinários, um (fls. 5.515-5.593 e fls. 6.896-6.911) contra acórdão da Segunda Turma (fls. 4.617-4.711) e outro contra o acórdão da Corte Especial (fls. 6.827-6.839).
+O recurso extraordinário apresentado contra o julgado da Segunda Turma foi inadmitido às fls. 5.515-5.593, devido aos óbices das Súmulas n. 279 e 454 do STF (impossibilidade de reexame de matéria fática e de cláusulas contratuais), bem como em virtude de a apontada contrariedade ao art. 97 da Constituição depender da análise de dispositivos da legislação infraconstitucional federal.
+Diante da inadmissão do primeiro recurso, a parte agravante interpôs, com amparo nos arts. 1.030, § 1º, e 1.042 do Código de Processo Civil, agravo em recurso extraordinário (fls. 7.255-7.276), ainda pendente de apreciação, cuja remessa ao STF ocorrerá após a finalização do recurso ainda em análise.
+Já o segundo extraordinário, interposto contra acórdão da Corte Especial do Superior Tribunal de Justiça que manteve o indeferimento liminar dos embargos de divergência, o qual ensejou a presente irresignação, teve seu seguimento negado com fundamento no art. 1.030, I, a, do Código de Processo Civil em razão da ausência de repercussão geral na discussão sobre os requisitos de admissibilidade de recursos de competência de outros tribunais, conforme Tema n. 181 do STF.
+Posto isso, passo a analisar a presente insurgência, voltada apenas contra os fundamentos da decisão que negou seguimento ao recurso extraordinário interposto contra o acórdão que não conheceu dos embargos de divergência.
+Quanto à questão da adequada fundamentação das decisões judiciais, o STF, ao apreciar o Tema n. 339 de repercussão geral, firmou a seguinte tese vinculante: "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas."
+O respectivo acórdão recebeu a ementa que segue transcrita:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º).
+2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência.
+3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+Nessa linha, a existência de motivação suficiente para o deslinde da causa afasta a ocorrência de nulidade do provimento questionado, a despeito de a parte recorrente reputar as razões de decidir incorretas, incompletas ou demasiadamente sucintas.
+No caso, foram declinados, de forma suficiente, os motivos pelos quais foi mantida a decisão que entendeu não haver identidade fática entre os acórdãos colacionados, valendo destacar os seguintes trechos do voto condutor do julgado impugnado (fls. 6.837-6.838):
+Entretanto, como já mencionado, não se vislumbra a necessária identidade fática entre os acórdãos colacionados, indispensável para o processamento dos embargos de divergência, uma vez que, na hipótese, a Segunda Turma concluiu por afastar a incidência da Lei 9.469/97, ao fundamento de que a União já havia manifestado, expressamente, não possuir interesse na demanda, o que ocasionou o encaminhamento dos autos à Justiça estadual, decisão esta que transitou em julgado.
+As particularidades fáticas do subjacente recurso especial não permitem compor dissenso com o paradigma indicado, tampouco é possível trazer a debate novamente a questão relativa à preclusão, a fim de aferir se houve, ou não, o trânsito em julgado do mencionado decisum, no qual ocorreu o deslocamento da competência.  ..
+No entanto, a mera repetição do conteúdo dos acórdãos paradigmas, ou mesmo a afirmativa de que são adotados como seus os fundamentos ali explicitados, não é suficiente para que se considere cumprida a exigência prevista nos arts. 266, § 4º, do RISTJ e 1.043, § 4º, do CPC, segundo os quais cabe ao embargante realizar o cotejo analítico dos arestos confrontados, com a indicação clara das circunstâncias que os identifiquem ou assemelhem.
+Da mesma maneira, foram apresentados fundamentos para a rejeição dos embargos de declaração opostos na sequência, o que vale repisar (fls. 6.886-6.888):
+Com efeito, ficaram devidamente consignadas no aresto hostilizado as razões pelas quais a decisão que indeferiu liminarmente os embargos de divergência foi mantida no Colegiado.
+Na hipótese, a indicada correspondência com o REsp 117.525/PE foi rejeitada porque a particularidade do caso, qual seja, a União já havia manifestado, expressamente, não possuir interesse na demanda, o que ocasionou o encaminhamento dos autos à Justiça estadual, decisão esta que transitou em julgado, impedia a incidência da Lei 9.469/97.
+ ..
+Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de alegada omissão no julgado, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente qualquer vício no acórdão embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição do pleito integrativo.
+De fato, demonstrada a realização da prestação jurisdicional constitucionalmente adequada, ainda quando não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339 do STF, de observância obrigatória (CPC, art. 927, III).
+Quanto ao mais, como asseverado na decisão agravada, no acórdão impugnado, concluiu-se pelo não preenchimento dos pressupostos de admissibilidade do recurso de embargos de divergência, porque não ocorreu o necessário cotejo analítico entre os julgados confrontados e não foi demonstrada a similitude fática.
+Por isso, qualquer alegação que conste do recurso extraordinário demandaria, inicialmente, a reapreciação dos pressupostos de admissibilidade de recurso que não é da competência do Supremo Tribunal Federal, uma vez que o órgão competente para apreciar tal recurso entendeu pela impossibilidade de conhecê-lo.
+Contudo, a Corte Suprema definiu que a discussão veiculada em recurso extraordinário que envolva o conhecimento de recurso anterior não possui repercussão geral, fixando a seguinte tese:
+Tema n. 181 do STF: A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010.)
+Essa conclusão, adotada sob o regime da repercussão geral e de obrigatória aplicação, nos termos do disposto no art. 1.030, I, a, do Código de Processo Civil, impõe a negativa de seguimento ao recurso extraordinário.
+Assim, se as razões do recurso extraordinário se direcionam contra o não conhecimento do recurso anterior, é inviável a remessa do extraordinário ao Supremo Tribunal Federal, como exemplifica o julgado a seguir (destaques acrescidos):
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO CONTRA ACÓRDÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA  .. . PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DE TRIBUNAL DIVERSO: INEXISTÊNCIA DE REPERCUSSÃO GERAL. TEMA 181. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+(ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021.)
+Tal desfecho não se modifica quando as razões do extraordinário se relacionam à matéria de fundo do recurso do qual não se conheceu, conforme exemplifica o seguinte acórdão (destaques acrescidos):
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. IMPOSSIBILIDADE DE APRECIAÇÃO DO MÉRITO DO RECURSO NÃO ANALISADO NO TSE. RECURSO ESPECIAL ELEITORAL NÃO ADMITIDO POR AUSÊNCIA DE PREQUESTIONAMENTO. REQUISITO DE ADMISSIBILIDADE DE RECURSO DE CORTE DIVERSA. AUSÊNCIA DE REPERCUSSÃO GERAL. ALEGAÇÃO DE OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, AMPLA DEFESA E DEVIDO PROCESSO LEGAL POR ALEGADA INOBSERVÂNCIA LEGAL. OFENSA REFLEXA. DESCABIMENTO DO EXTRAORDINÁRIO.
+1. Carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas (Tema 181 - RE 598.365).
+ ..
+3. Agravo regimental a que se nega provimento.
+(ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.)
+Vale anotar que, também nos casos em que se aponta ofensa ao art. 105, III, da Constituição da República, o recurso não comporta seguimento (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Acrescento por fim que, nos autos do EREsp n. 1.366.295, foi julgado o agravo interno interposto pela parte ora agravante contra a decisão que negou seguimento ao recurso extraordinário em razão da incidência do Tema n. 181 do STF, em situação análoga, tendo o acórdão sido publicado em 26/10/2023. A propósito, transcrevo a ementa do referido julgado:
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181 do STF).
+2. Aplica-se de forma vinculante o Tema n. 181 do STF quando o recurso extraordinário queira discutir: i) os fundamentos que impediram o conhecimento do recurso anteriormente julgado; ii) os fundamentos que impediriam esse conhecimento; ou iii) o mérito da causa, quando a insurgência anterior não ultrapassou
+a barreira da admissibilidade.
+3. Agravo interno a que se nega provimento.
+Por fim, incabível a aplicação da multa requerida em contrarrazões, porquanto não se verifica o caráter protelatório do recurso.
+Ante o exposto, nego provimento ao agravo interno.
+Advirto que a formalização de embargos de declaração com intuito manifestamente protelatório poderá ser sancionada com a multa prevista no art. 1.026, § 2º, do Código de Processo Civil.
+É como voto.
