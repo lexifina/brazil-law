@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo JUÍZO DE DIREITO DA 33ª VARA CÍVEL DE FORTALEZA - CE em face do JUÍZO FEDERAL DA 14ª VARA DE FORTALEZA - SJ/CE, nos autos da ação movida por ANTONIA MARIA SOUSA NOGUEIRA contra o INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, objetivando a revisão de pensão por morte.
+A demanda foi originalmente proposta no juízo da 14ª Vara Federal da Seção Judiciária do Ceará (JEF), que extinguiu o feito sem resolução do mérito, por incompetência absoluta, entendendo que a Justiça Estadual era o órgão competente para analisar o feito, ante a necessária ingerência na alegação de acidente de trabalho.
+Após novo ajuizamento, o feito foi distribuído para o juízo da 33ª Vara Cível da Comarca de Fortaleza/CE, o qual, reconhecendo-se incompetente ante a desnecessidade de se imiscuir no fato do acidente de trabalho, suscitou o conflito negativo de competência, com fulcro nos princípios da celeridade e economicidade processuais, determinando a remessa dos autos ao TRF da 5ª Região para resolução do incidente processual, que, por sua vez, remeteu-os a este Tribunal Superior.
+Parecer do Ministério Público Federal pela competência da Justiça Federal nos termos da seguinte ementa (fl. 120):
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL E JUSTIÇA FEDERAL. PREVIDENCIÁRIO. PEDIDO DE PENSÃO PORMORTE.
+No caso dos autos, a parte autora postula a concessão do benefício de pensão por morte em virtude do falecimento de seu marido José Arimateia Evangelista Nogueira, ocorrido em 20/3/2011.
+Na inicial, a parte autora alega que o esposo morreu em virtude de acidente de moto, trabalhando como mototaxista.
+O Superior Tribunal de Justiça possui jurisprudência no sentido de que compete à Justiça Federal processar e julgar as ações objetivando a concessão ou revisão dos benefícios de pensão por morte, ainda que decorrentes de acidente de trabalho (CC 166.107/BA, relator Ministro Herman Benjamin, Primeira Seção, julgado em 28/8/2019, DJe de 18/10/2019).
+PARECER NO SENTIDO DE QUE SEJADECLARADA A COMPETÊNCIA DO JUÍZO FEDERAL DA 14ª VARA DE FORTALEZA/SJCE, OSUSCITADO.
+É o relatório. Decido.
+A Primeira Seção do Superior Tribunal de Justiça concluiu pela competência da Justiça Federal tanto para a concessão quanto para a revisão de pensão por morte, independentemente das circunstâncias do falecimento do segurado.
+Dessarte, nos casos de pedido de pensão por morte, ainda que o falecimento decorra de acidente de trabalho, a competência, tanto para a concessão quanto para a revisão, será da Justiça Federal, mostrando-se irrelevante a causa mortis.
+Confiram-se, in verbis:
+CONFLITO DE COMPETÊNCIA. BENEFÍCIO PREVIDENCIÁRIO. PENSÃO POR MORTE. FALECIMENTO DECORRENTE DE ACIDENTE DE TRABALHO. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. Conforme entendimento jurisprudencial consagrado pelo Superior Tribunal de Justiça, compete à Justiça Federal processar e julgar as ações objetivando a concessão ou revisão dos benefícios de pensão por morte, ainda que decorrentes de acidente de trabalho. A propósito: AgRg no CC 113.675/SP, Rel. Ministra Assusete Magalhães, Terceira Seção, DJe 18/12/2012; CC 119.921/AM, Rel. Ministra Marilza Maynard (Desembargadora Convocada do TJ/SE), Terceira Seção, DJe de 19/10/2012; AgRg no CC 108.477/MS, Rel. Min. Maria Thereza de Assis Moura, DJe de 10/12/2010; AgRg no CC 107.796/SP, Rel. Min. Arnaldo Esteves Lima, DJe de 7/5/2010; CC 89.282/RS, Rel. Min. Jane Silva (Desembargadora Convocada do TJ/MG, DJ de 18/10/2007; AgRg no CC 139.399/RJ, Rel. Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), Primeira Seção, DJe 2/3/2016; AgRg no CC 112.710/MS, Rel. Min. Og Fernandes, DJe de 7/10/2011.
+2. Conflito de Competência conhecido para determinar a competência do Juízo suscitado, qual seja, a 2ª Vara do Juizado Especial Federal de Vitória da Conquista/BA.
+(CC n. 166.107/BA, relator Ministro Herman Benjamin, Primeira Seção, julgado em 28/8/2019, DJe de 18/10/2019.)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. PENSÃO POR MORTE DECORRENTE DE ACIDENTE DE TRABALHO.COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. O Ministério Público Federal defende seja aplicado o entendimento que teria sido firmado pelo Supremo Tribunal Federal, segundo o qual a competência para julgar benefícios derivados de acidente do trabalho seria da Justiça estadual.
+2. A tese defendida pelo digno Parquet foi utilizada pelo Ministro Sérgio Kukina como fundamento de seu voto, no julgamento do CC 166.107/BA. Entretanto, prevaleceu o voto do Relator, Ministro Herman Benjamin, firmando-se a seguinte tese: "Conforme entendimento jurisprudencial consagrado pelo Superior Tribunal de Justiça, compete à Justiça Federal processar e julgar as ações objetivando a concessão ou revisão dos benefícios de pensão por morte, ainda que decorrentes de acidente de trabalho."
+3. Agravo interno a que se nega provimento.
+(AgInt no CC n. 170.390/SP, rel. Ministro Og Fernandes, Primeira S eção, julgado em 18/08/2020, DJe de 24/08/2020.)
+Ante o exposto, com fundamento no art. 34, XXII, do RISTJ, conheço do conflito negativo de competência suscitado, a fim de declarar competente, para o processamento e julgamento da causa, o JUÍZO FEDERAL DA 14ª VARA DE FORTALEZA - SJ/CE .
+Publique-se. Intimem-se.
+EMENTA
