@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de FLAVIO HENRIQUE PORTO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Habeas Corpus Criminal nº 2005153-43.2024.8.26.0000).
+Consta dos autos que, segundo o alegado, o paciente cumpriria pena em período de prova do livramento condicional, com término previsto para 8/2/2023. Ocorre que teria cometido outro delito e foi preso novamente, tendo sido sustado o livramento condicional apenas em 15/2/2024.
+Daí o presente writ, no qual a defesa alega que o paciente obteve o livramento condicional e que o término do período de prova teria ocorrido em data anterior à sustação do benefício.
+Aduz a necessidade de se declarar extinta a pena privativa de liberdade pelo decurso do prazo.
+Requer a concessão da ordem, inclusive liminarmente, para que seja suspenso o decidido a quo. No mérito, seja declarada extinta a pena privativa de liberdade pelo seu integral cumprimento.
+É o relatório. DECIDO.
+Conforme consta, a defesa afirma que o crime praticado durante o período de prova não afastou o livramento condicional antes concedido, pois não teria ensejado sequer a suspensão do benefício em tempo hábil.
+Nesse contexto, ela espera que a extinção da punibilidade seja declarada.
+Nesse diapasão, impõe-se registrar que o livramento condicional ostenta a particularidade especial de ser um benefício que, conquanto submetido à disciplina regular da execução penal, é fruído integralmente fora do sistema prisional, circunstância que determina tratamento específico e conforme às suas características.
+Dessa forma, ao livramento condicional, deve-se aplicar apenas o regramento que lhe é próprio. Aqui, como até mesmo explicado no acórdão, a matéria é complexa e exige, ao menos, prova cabal do alegado pré-constituída.
+No caso, não consta dos autos a prova certeira, em especial, das datas informadas e da inexistência de demais circunstâncias que pudessem afastar o pleiteado.
+Assim, o presente habeas corpus não comporta conhecimento, tendo em vista que a petição inicial não veio acompanhada da instrução minimamente necessária.
+Corroborando:
+"Conforme julgado desta Corte, "Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória" (AgRg no RHC n. 160.277/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/9/2022, DJe de 19/9/2022)" (EDcl no HC n. 829.062/RJ, Sexta Turma, Rel. Min. Jesuíno Rissato, Des. Convocado do TJDFT, DJe de 18/8/2023).
+Com efeito, assente nesta Corte que a instrução inadequada da ação mandamental conduz ao não conhecimento da impetração:
+"(..) em razão da celeridade do rito do habeas corpus, incumbe ao impetrante apresentar prova pré-constituída do direito alegado, sob pena de não conhecimento da impetração, não sendo atribuição desta Corte Superior a instrução do feito, ainda que por meio de consulta ao site do Tribunal de origem" (AgRg nos EDcl no HC n. 704.066/RJ, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 15/2/2022, grifei).
+Isso porque a jurisprudência entende que o habeas corpus, por constituir ação mandamental cuja principal característica é a sumariedade, não possui fase instrutória, vale dizer:
+"A adequada instrução do habeas corpus, ação de rito sumário e de limitado espectro de cognoscibilidade, é ônus do impetrante, sendo imprescindível que o mandamus venha aparelhado com provas documentais pré-constituídas, as quais devem viabilizar o exame das alegações veiculadas no writ" (STF, HC 197.833-AgR, Rel. Ministro LUIZ FUX - Presidente -, TRIBUNAL PLENO, julgado em 19/04/2021, DJe 12/05/2021). Assim, ao não zelar pela devida instrução do habeas corpus, a Defesa impede a apreciação do fundo da controvérsia. Exige-se que as cópias dos documentos essenciais à análise da controvérsia sejam acostadas aos autos pela Parte Impetrante, para que possam ser cote jados com as alegações defensivas - exame imprescindível para o reconhecimento, ou não, de que o direito invocado está constituído. Ademais, não pode ser transferido ao Superior Tribunal de Justiça o ônus de formar adequadamente os autos, como na verdade pretende o Recorrente" (EDcl no AgRg no HC n. 797.698/SC, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 29/6/2023).
+No mesmo sentido: AgRg no HC n. 811.753/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 26/5/2023; e AgRg no HC n. 793.318/SP, Sexta Turma, Rel. Min. Jesuíno Rissato, Des. Convocado do TJDFT, DJe de 10/5/2023.
+Precedentes do Supremo Tribunal Federal: EDcl no AgRg no HC n. 213.797, Segunda Turma, Rel. Min. Nunes Marques, DJe de 26/10/2022; e AgRg no HC n. 223.487, Primeira Turma, Relª. Minª. Carmen Lúcia, DJe de 22/3/2023.
+Ante o exposto, não conheço do presente writ.
+Publique-se. Intime-se.
+EMENTA
