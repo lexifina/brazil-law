@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial manejado por Clóvis Renato Silveira Caldas com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 335):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. INTERESSE DE AGIR. TEMPO ESPECIAL. PROVA DEFICIENTE. NECESSIDADE DE PRODUÇÃO DE PROVA PERICIAL. SENTENÇA ANULADA. REABERTURA DA INSTRUÇÃO PROCESSUAL.
+1. Mantida a sentença no tocante à carência de ação, por ausência de interesse de agir, quanto à parte dos períodos, por não ter havido pedido a respeito, sendo inexigível, no caso concreto, qualquer espécie de presunção quanto à especialidade, ante os elementos de que dispunha a autarquia.
+2. Constatado que a instrução probatória foi insuficiente, não restando demonstrada a nocividade ou não das atividades desenvolvidas pela parte, resultando em deficiência na fundamentação da sentença, impõe-se a decretação de sua nulidade, restabelecendo-se a fase instrutória.
+Opostos embargos declaratórios, foram rejeitados (fls. 361/367).
+A parte recorrente aponta, além de dissídio jurisprudencial, violação aos arts. 88 da Lei 8.213/1991, e 29 da Lei 9.784/1999. Sustenta ter apresentado requerimento administrativo perante a autarquia previdenciária e afirma não ser possível "Exigir apenas do segurado - parte hipossuficiente da relação previdenciária - que instrua o procedimento administrativo com provas cabais é retirar do INSS a obrigação legal que tem de impulsionar o procedimento e esclarecer aos segurados como podem exercer da melhor forma possível (ou apenas exercer) seu direito; com todas as vênias, mais do que aceitar o descumprimento das Leis, seria legitimá-lo" (fls. 378/379).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O Tribunal de origem, ao reconhecer a ausência de interesse do autor nos pleitos de cômputo do tempo de serviço militar obrigatório e atividade especial laborada entre 01/04/1999 e 23/06/2000, assim se pronunciou (fl. 330):
+Com efeito, em relação ao período de serviço militar obrigatório a parte autora somente requereu o cômputo e juntou a comprovação na esfera judicial, enquanto que para o período de 01/04/1999 a 23/06/2000, somente juntou o PPP na esfera judicial, mesmo tendo sido emitido em data anterior ao requerimento administrativo. No processo administrativo foi juntada somente a cópia da CTPS, sendo que a função de operador em terraplanagem não traz necessariamente a exposição a agentes nocivos. Na petição apresentada no processo administrativo, no qual foi representado pelos mesmos advogados deixou de requerer os períodos ora referidos.
+A exigência de prévio requerimento administrativo para a configuração de interesse processual para a segurado do INSS pleitear judicialmente benefício previdenciário foi apreciado, com repercussão geral, pelo Supremo Tribunal Federal, no Tema 350 (RE 631.340-RG).
+Assim, ultimada a solução da controvérsia com base em tese firmada em repercussão geral, não compete a esta Corte avaliar a adequação do acórdão recorrido ou a necessidade de realizar eventual distinguishing.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+EMENTA
