@@ -1,0 +1,38 @@
+DECISÃO
+Em virtude das razões expostas na petição de fls. 767-788, e-STJ, verifico que os fundamentos da decisão de admissibilidade realizado na Corte de origem foram rebatidos, reconsidero a decisão de fls. 763-764, e-STJ, proferida pela Presidência desta Corte Superior. Passo à nova análise do agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. SEGUROS. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. RESPONSABILIDADE PROFISSIONAL. IMPLEMENTAÇÃO DA PRESCRIÇÃO ÂNUA. ART. 206, §1º, II, "B" DO CÓDIGO CIVIL. HONORÁRIOS RECURSAIS.
+1. Pretende a parte autora o afastamento do reconhecimento da prescrição no caso concreto. Para tanto, a demandante insurge-se quanto à data correspondente à ciência do lato gerador da cobertura reconhecida em sentença, bem como quanto à data de fim da suspensão do prazo prescricional reconhecida pelo Juízo de Origem.
+2. Em se tratando de ação de cobrança relativa a contrato securitário, c aplicável à espécie a prescrição anual prevista no artigo 206, § 1º, II, "a" e "b", do Código Civil.
+3. Considerando que o prazo prescricional fluiu a partir da ciência do fato gerador (24/07/2019) até o efetivo pedido administrativo (21/10/2019), ficando suspenso até a decisão pela seguradora (21/01/2020) e retornando a contar a partir da decisão administrativa até o ajuizamento da ação (24/06/2021), resta implementado o prazo prescricional.
+4. Pedidos de reanálise do processo administrativo não possuem o condão de suspenderem o prazo prescricional, o qual retoma a transcorrer a partir da decisão administrativa originária da seguradora.
+5. Assim, impõe-se a manutenção da sentença, assentando-se o reconhecimento da prescrição.
+6. Majoração dos honorários advocatícios, em conformidade com o que preconiza o artigo 85, §11, do CPC.
+APELAÇÃO DESPROVIDA.
+Opostos embargos de declaração, esses foram rejeitados na origem.
+Nas razões do especial, aponta a agravante existência de dissídio jurisprudencial, além de violação dos artigos 191 e 206 do Código Civil.
+Afirma que sua pretensão de indenização securitária não está prescrita, dado a suspensão do prazo pelo requerimento administrativo, bem como que houve renuncia à prescrição inicial pela parte adversa ao informar nova data a ser considerada como marco inicial do direito vindicado.
+Assim delimitada a controvérsia, passo a decidir.
+É orientação pacífica nesta Corte Superior que "O pedido administrativo de pagamento do seguro à seguradora suspende o prazo prescricional se formulado ainda dentro desse prazo" (AgInt nos EDcl no AREsp n. 2.220.148/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 10/5/2023).
+No caso dos autos, o Tribunal de origem ratificou os fundamentos da sentença, reconhecendo a ocorrência da prescrição do pleito autoral, nos seguintes termos (fls. 462-464, e-STJ):
+Segundo os documentos acostados pela própria empresa segurada, o aviso de sinistro e encaminhamento para abertura de regulação junto à seguradora ocorreu em 21/10/2019, por meio da corretora de seguros da segurada (Evento 1, doe. 24, Processo originário). Ou seja, transcorreu entre o termo inicial da prescrição e a suspensão do prazo pelo protocolo de pedido administrativo 89 (oitenta e nove) dias (dois meses e vinte e oito dias).
+Por sua vez, a ciência da parte segurada acerca do aceite administrativo para pagamento de R$ 15.443,39 em 21/01/2020, consoante é comprovado pela carta de conclusão do processo administrativo de regulação (Evento 1, doc. 29, Processo originário) e pelo Aviso de Recebimento acostado aos autos (Evento 12, doc. 8, Processo originário). Dessa forma, havendo ciência do segurado da decisão administrativa em 21/01/2020, nesta data ocorreu o fim da suspensão do prazo prescricional.
+Considerando que o prazo prescricional fluiu a partir da ciência do fato gerador (24/07/2019) até o efetivo pedido administrativo (21/10/2019), ficando suspenso até a decisão pela seguradora (21/01/2020) e retornando a contar a partir da decisão administrativa até o ajuizamento da ação (24/06/2021), resta implementado o prazo prescricional.
+(..)
+Imperioso observar que a parte segurada comprovou ter encaminhado à seguradora pedidos de reanálise da regulação do sinistro (Evento 1, doc. 30, Processo originário), os quais foram encerrados em 08/04/2021, nos termos do documento acostado pela parte autora (Evento 1, doc. 36, Processo originário). Contudo, pedidos de reanálise do processo administrativo não possuem o condão de suspenderem o prazo prescricional, o qual retorna a transcorrer a partir da decisão administrativa originária da seguradora. Nesse sentido:
+(..)
+Ainda quanto ao tópico, imperioso observar que o encerramento e negativa do pedido de reanálise administrativa (reconsideração) não se confunde com renúncia tácita da prescrição, disposta no art. 191 do Código Civil. Aliás, sequer caberia considerar eventual decisão sobre o pedido de reconsideração como documento idôneo no feito, uma vez que encaminhado por terceiro (corretora representante da segurada) e sem qualquer autenticação de que foi originada pela seguradora.
+Diante dessas peculiaridades, no presente caso, não vislumbro a existência elementos que permitam trilhar um deslinde diverso da controvérsia, sendo imperiosa a manutenção da r. sentença, assentando-se o reconhecimento da prescrição.
+Verifico da leitura do excerto supracitado, que as conclusões alcançadas pela Corte local, para reconhecer o marco inicial para a contagem da prescrição, bem como para afastar a renúncia da prescrição alegada, foram baseadas em cuidadosa análise do material fático-probatório dos autos, cuja revisão é vedada, em sede de recurso especial, ante o óbice da Súmula 7 do Superior Tribunal de Justiça.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL DE 1973. APELAÇÃO CÍVEL. PRESCRIÇÃO. AÇÃO INDENIZATÓRIA POR PERDAS E DANOS. DETERMINAÇÃO DO TERMO INICIAL DE CONTAGEM DA PRESCRIÇÃO TRIENAL. DATA DA EFETIVA CIÊNCIA DAS LESÕES. PRINCÍPIO DA ACTIO NATA. PRECEDENTES. MODIFICAÇÃO DO MARCO TEMPORAL. INADMISSIBILIDADE. APLICAÇÃO DO ÓBICE DA SÚMULA 7 DO STJ. ACÓRDÃO RECORRIDO. RESPONSABILIDADE CIVIL RECONHECIDA. ENTENDIMENTO DIVERSO. IMPOSSIBILIDADE. INCIDÊNCIA DO IMPEDIMENTO DA SÚMULA 7/STJ. PELO PRINCÍPIO DA PERSUASÃO RACIONAL, FRANQUEIA-SE AO JUIZ A LIVRE ANÁLISE DO CONJUNTO PROBATÓRIO CARREADO AOS AUTOS PARA FORMAR SUA CONVICÇÃO E DECIDIR OS CONFLITOS DE INTERESSES TRAZIDOS A JULGAMENTO. EMBARGOS PROTELATÓRIOS. APLICAÇÃO DE MULTA. REEXAME. SÚMULA 7 DO STJ.
+AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp n. 1.490.600/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 21/9/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO DPVAT. TERMO INICIAL DA PRESCRIÇÃO. CIÊNCIA DA INVALIDEZ. SÚMULAS 278 E 573, DO STJ. MARCOS TEMPORAIS. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ. NÃO PROVIMENTO.
+1. O cômputo do prazo prescricional, nas ações de cobrança envolvendo seguro obrigatório (DPVAT), tem por termo inicial a data da inequívoca ciência da invalidez pelo segurado. Súmulas 278 e 573, do STJ.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.782.651/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 13/8/2019)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Intimem-se.
+EMENTA
