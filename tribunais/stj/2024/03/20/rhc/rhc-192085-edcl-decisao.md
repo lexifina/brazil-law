@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos por OSNI SCHUCH contra decisão na qual neguei provimento ao recurso ordinário em habeas corpus interposto pelo ora embargante.
+Em suas razões, a defesa alega, em síntese, que há omissão na decisão embargada quanto aos seguintes tópicos: (a) "a demonstração fático-probatória incontroversa de que os supostos delitos cessaram no ano de 2016" (e-STJ fl. 152); e (b) a "natureza dos delitos imputados ao paciente, vale dizer, não se trata de delitos permanentes, mas sim de crimes instantâneos de efeitos permanentes, ou seja, de consumação instantânea, por isto não se protraem no tempo" (e-STJ fl. 154).
+Assim, requer o provimento do recurso, com efeitos infringentes.
+É o relatório.
+Decido.
+Consoante disposição do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a sanar possível ambiguidade, obscuridade, contradição ou omissão nas razões delineadas no corpo da decisão, em face das pretensões deduzidas e demais elementos constantes do processo. Portanto, os embargos declaratórios constituem um instrumento de colaboração no processo, ou seja, um mecanismo de efetivo aperfeiçoamento da tutela jurisdicional.
+Todavia, não há na decisão embargada nenhuma situação que dê amparo ao recurso integrativo, porquanto o vício alegado, na realidade, manifesta o inconformismo do embargante com o julgamento.
+Inicialmente, destacou-se na decisão embargada que "o entendimento firmado no acórdão alinha-se à jurisprudência desta Corte no sentido de que o crime ambiental, considerado crime permanente enquanto não cessar a agressão, não pode ter aferido o termo inicial do prazo da prescrição da pretensão punitiva enquanto durar a violação do bem jurídico tutelado, de forma que a contagem do prazo prescricional só tem início com a cessação da permanência" (e-STJ fls. 143/144).
+No caso dos autos, embora a defesa alegue que os crimes previstos nos artigos 38 e 38-A da Lei n. 9.605/1998 têm natureza instantânea de efeitos permanentes, o ora embargante também foi denunciado pela suposta prática de ao menos dois delitos considerados de natureza permanente pela jurisprudência desta Corte Superior, quai s sejam, as condutas tipificadas nos arts. 48 e 60 da mesma Lei.
+Nesse contexto, consoante ressaltado na decisão embargada com base nas premissas fixadas pelo Tribunal de origem , tendo em vista que, "no presente momento processual, ainda não é possível precisar a data em que cessaram os supostos crimes permanentes que foram imputados ao acusado", "para se averiguar a efetiva consumação da prescrição da pretensão punitiva e a alegada ausência de justa causa para o recebimento da denúncia e o prosseguimento da ação penal, seria imprescindível maior incursão no suporte fático-probatório dos autos, providência obstada na seara do writ" (e-STJ fl. 144).
+Portanto , inexiste o vício da omissão na decisão objurgada. Percebe-se, isso sim, uma insatisfação da parte com o resultado do julgamento e a pretensão de modificá-lo por meio de instrumento processual nitidamente inábil à finalidade almejada.
+Ante o exposto, rejeito os embargos declaratórios.
+Publique-se. Intimem-se.
+EMENTA
