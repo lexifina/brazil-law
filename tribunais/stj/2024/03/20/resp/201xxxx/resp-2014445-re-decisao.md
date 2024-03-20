@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça assim ementado:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 22 E 28 DA LINDB. INEXISTÊNCIA DE COMANDO NORMATIVO CAPAZ DE INFIRMAR AS CONCLUSÕES DO ACÓRDÃO RECORRIDO. SÚMULA 284/STF. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. Interposto Agravo interno com razões que não impugnam, especificamente, os fundamentos da decisão agravada - nos pontos relativos à incidência das Súmulas 282/STF, 356/STF, 284/STF e 7/STJ -, não prospera o inconformismo, quanto ao ponto, em face da Súmula 182 desta Corte.
+III. Não há falar, na hipótese, em violação aos arts. 489 e 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do aresto proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+IV. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+Os embargos de declaração opostos na sequência foram rejeitados.
+A parte recorrente sustenta a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, ao art. 93, IX, da Constituição Federal.
+Em suas razões, alega ter incorrido o acórdão impugnado em negativa de prestação jurisdicional ao desconsiderar as razões suscitadas em seu agravo interno, destinadas a demonstrar a viabilidade do conhecimento do recurso especial.
+Nesse contexto, argumenta não ter havido deficiência na fundamentação da insurgência dirigida a esta Corte Superior, pela qual teriam sido suscitadas questões eminentemente legais e não fáticas. Ademais, em que pese a conclusão acerca da ausência de prequestionamento de alguns dos dispositivos apontados no recurso especial como violados, aduz ser possível o seu conhecimento parcial, por conter "argumentação suficiente - e independente - para a rescisão pretendida" (fl. 1.878).
+Requer, ao final, a admissão do recurso, bem como a remessa dos autos ao Supremo Tribunal Federal.
+É o relatório.
+Quanto à questão da adequada fundamentação das decisões judiciais, a Suprema Corte, ao apreciar o Tema n. 339, sob o regime da repercussão geral, firmou a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessário que tenham sido apreciadas todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da CF não está relacionada ao acerto ou desacerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma suficiente, os fundamentos da conclusão alcançada no julgado recorrido, que não conheceu do recurso dirigido a este Tribunal Superior, o que inviabiliza o exame pretendido pela parte recorrente, relacionado à correta aplicação de óbices processuais pelo STJ.
+Portanto, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+Por fim, registro a existência de publicação produzida pela Secretaria de Comunicação Social do Superior Tribunal de Justiça sobre a análise dos recursos extraordinários interpostos contra julgados do STJ, conteúdo de eventual interesse das partes, disponível para acesso por meio do QR Code a seguir:
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Observando os princípios da cooperação e da celeridade, registro que contra decisões que negam seguimento a recurso extraordinário não é cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC), conforme disposto no § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339/STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
