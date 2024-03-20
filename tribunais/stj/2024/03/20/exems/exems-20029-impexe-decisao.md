@@ -1,0 +1,42 @@
+DECISÃO
+Encontra-se preclusa a discussão quanto à validade da portaria de anistia, porquanto a decisão de fls. 2.177-2.180, de lavra do então Vice-Presidente desta Corte Superior, não admitiu o recurso extraordinário interposto pela UNIÃO versando sobre a matéria.
+Por esse motivo, prevalece a decisão de fls. 954-958 que, reconhecendo a higidez do ato anistiador, acolheu, com efeitos infringentes, os embargos de declaração opostos pelo exequente, para afastar a preliminar de inexigibilidade do título judicial arguida pela UNIÃO e, ato contínuo, determinar a expedição do precatório de valor incontroverso, nos termos do art. 535, § 4º, do CPC.
+Nesse sentido, passo à apreciação da impugnação de fls. 872-883 no que toca à parcela controvertida do crédito.
+A executada apontou excesso, aduzindo que "os juros moratórios foram majorados, uma vez que foram aplicados no percentual de 1% a.m. até jun/09, e de 0,5% a.m. após jul/09; quando deveriam ser no percentual aplicado à caderneta de poupança, simples, contados a partir da notificação inicial (abr/13)".
+Pediu a procedência da impugnação, com a condenação do exequente ao pagamento de honorários advocatícios sucumbenciais.
+O exequente (fls. 886-890) refutou a alegação, asseverando: (a) o valor do débito "foi devidamente corrigido monetariamente e acrescido de juros legais, nos termos do art. 1º-F da Lei n. 9.494/1997, desde a data da portaria (14/07/2004) até setembro/2019"; (b) em atenção ao principio da eventualidade, deve ser adotado como termo inicial dos juros de mora "o 61º (sexagésimo primeiro) dia após a data da Portaria nº 1.886/2004 (14/07/2004)".
+A decisão de fls. 954-958 determinou a expedição de precatório do valor incontroverso com destaque de honorários advocatícios contratuais, se fosse o caso.
+Na sequência, foi expedido o Prc 8419/DF (certidão de fl. 981). a impugnou o termo inicial e os índices dos juros de mora aplicados, o que será examinado nos tópicos a seguir.
+DO TERMO INICIAL DOS JUROS DE MORA
+Verifica-se que o exequente fez incidir os juros moratórios a partir de 14/7/2004 - que vem a ser a data da portaria anistiadora (Portaria nº 1.886, de 14/7/2004, do Ministro de Estado da Justiça, DOU de 19/7/2004) (fl. 858). Em caráter subsidiário, pediu seja considerado "o 61º (sexagésimo primeiro) dia após a data da Portaria nº 1.886/2004".
+Já a UNIÃO utilizou como termo inicial a data de notificação da autoridade coatora (abril/2013) (fls. 881-882).
+Entretanto, ao contrário do que defende a UNIÃO, os juros de mora, assim como a correção monetária, devem incidir a partir do sexagésimo primeiro dia após a edição da portaria de anistia (no caso concreto, a publicação ocorreu no DOU de 19/7/2004), o que encontra amparo, inclusive, na disposição contida no art. 12, § 4º, da Lei nº 10.559/2002.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. REPARAÇÃO ECONÔMICA. ANISTIA DE MILITAR. PARCELAS PRETÉRITAS. MINISTRO DE ESTADO DA DEFESA. LEGITIMIDADE. ADEQUAÇÃO DA VIA ELEITA. DECADÊNCIA NÃO CONFIGURADA. INAPLICABILIDADE DA PRESCRIÇÃO. MERA SOLICITAÇÃO DE CASSAÇÃO DO ATO CONCESSIVO. INSUFICIÊNCIA PARA MODIFICAR A SUJEIÇÃO PASSIVA E AFASTAR A EXISTÊNCIA DO DIREITO LÍQUIDO E CERTO. DISPONIBILIDADE ORÇAMENTÁRIA. DESCUMPRIMENTO DO PRAZO ESTABELECIDO NA LEI 10.559/2002. JUROS E CORREÇÃO MONETÁRIA. INCIDÊNCIA. PARCIAL CONCESSÃO DA ORDEM.
+(..)
+12. Conforme entendimento da Seção de Direito Público do STJ, apurada a ofensa ao direito líquido e certo do impetrante, que no caso é o reconhecimento da omissão no dever de providenciar o pagamento do montante concernente aos retroativos, conforme valor nominal estabelecido no ato administrativo, devem incidir juros e correção monetária, a partir do sexagésimo primeiro dia após a edição da Portaria concessiva da anistia.
+13. Mandado de Segurança parcialmente concedido, nos termos acima referidos, com a ressalva de que, revogada a anistia concedida, cessam os efeitos desta ordem.
+(MS 21.447/DF, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 27/09/2017, DJe 17/10/2017) (grifou-se)
+Logo, com razão o exequente ao defender a tese subsidiária.
+DOS ÍNDICES DOS JUROS DE MORA
+O exequente entende que os juros de mora devem incidir no percentual de 1% (um por cento) até junho/2009 e de 0,5% a partir de julho/2009 (fl. 858).
+De seu turno, a executada sustenta que deveria ser utilizado o percentual aplicado à caderneta de poupança a partir da notificação do impetrado (abril/2013) (fls. 881-882).
+No julgamento de agravos internos interpostos no bojo das ExeMS 15.697/DF, ExeMS 17.852/DF e ExeMS 17.418/DF, a Primeira Seção adotou o entendimento segundo o qual para as reparações econômicas de caráter indenizatório devidas a anistiados políticos devem ser aplicados os mesmos índices utilizados para as condenações judiciais referentes a servidores e empregados públicos, nos moldes da orientação já adotada por ocasião do julgamento dos REsp 1.495.146/MG, REsp 1.492.221/PR e REsp 1.495.144/RS (Tema 905), submetidos à sistemática dos recursos repetitivos, ou seja:
+(a) até julho/2001: juros de mora: 1% ao mês (capitalização simples); correção monetária: índices previstos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro/2001;
+(b) agosto/2001 a junho/2009: juros de mora: 0,5% ao mês; correção monetária: IPCA-E;
+(c) a partir de julho/2009: juros de mora: remuneração oficial da caderneta de poupança; correção monetária: IPCA-E.
+Assim, considerando o 61º dia contados da publicação da portaria anistiadora como termo inicial dos juros de mora, devem ser aplicados ao caso concreto os seguintes índices: até junho/2009, 0,5% (meio por cento) ao mês; a partir de julho/2009 até a data da EC nº 113/2021 (8/12/2021), a remuneração oficial da caderneta de poupança. A partir da data de publicação da aludida emenda (9/12/2021), deve incidir a taxa SELIC, sem a incidência cumulativa de qualquer outro fator, uma vez que tal taxa desempenha, simultaneamente, os papéis de taxa de juros e de correção monetária.
+Portanto, improcedem as alegações das partes, apenas assistindo razão à UNIÃO ao ter defendido a aplicação da remuneração oficial da caderneta de poupança em período posterior a julho/2009.
+Ante o exposto, julgo parcialmente procedente a impugnação oposta pela UNIÃO para determinar que o cálculo dos valores devidos ao exequente seja liquidado da seguinte forma:
+Base de Cálculo do Principal: Valor nominal estabelecido na Portaria nº 1.886, de 14/7/2004, do Ministro de Estado da Justiça, devendo ser deduzida, ainda, a parcela incontroversa, referente ao Prc 8419/DF (R$ 645.069,54 (seiscentos e quarenta e cinco mil, sessenta e nove reais e cinquenta e quatro centavos).
+Índice de Correção Monetária a ser aplicada: IPCA-E (Tema 905/STJ e Tema 810/STF); a partir da data de publicação da EC nº 113/2021 (9/12/2021), taxa SELIC.
+Termo Inicial da Correção Monetária: 61º dia contados da publicação da portaria anistiadora.
+Termo Final da Correção Monetária: Efetivo pagamento do precatório.
+Índice de Juros a serem aplicados: 0,5% a.m., simples, até junho/2009; de julho/2009 até a data da EC nº 113/2021 (8/12/2021), conforme a remuneração oficial da caderneta de poupança. A partir da data de publicação da referida emenda (9/12/2021), taxa SELIC.
+Termo Inicial dos Juros: 61º dia contados da publicação da portaria anistiadora.
+Termo final dos Juros: Expedição do precatório.
+Em face da sucumbência recíproca, condeno as partes ao pagamento de honorários fixados em 10% (dez por cento) sobre o montante em que cada uma efetivamente sucumbiu (que, no caso da UNIÃO, corresponde ao valor executado, tendo em vista que impugnou a execução como um todo com base na alegada inexigibilidade do título judicial). Em relação ao exequente, é suspensa a exigibilidade dessa verba em razão da gratuidade de justiça deferida à fl. 105, nos termos do art. 98, § 3º, do CPC.
+Encaminhem-se os autos à Coordenadoria de Processamento de Feitos em Execução Judicial para elaboração de cálculos atualizados, devendo atentar-se aos critérios acima fixados.
+Após, as partes deverão ser intimadas acerca das informações prestadas pela CEJU, independentemente de nova conclusão. Havendo concordância, tácita ou expressa das partes, expeça-se o requisitório complementar em nome do espólio, com destaque de honorários advocatícios contratuais, se for o caso.
+Publique-se. Intimem-se.
+EMENTA
