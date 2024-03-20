@@ -1,0 +1,39 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por TIM S A, contra decisão que negou seguimento a recurso especial fundamentado, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 07/11/2023.
+Concluso ao gabinete em: 16/02/2024.
+Ação: de cobrança ajuizada por MARIA DE LOURDES CARDOSO em desfavor da agravante, em razão de ausência de pagamento de comissão de contrato de parceria e de prestação de serviço entre as partes.
+Decisão monocrática: negou provimento ao agravo de instrumento da agravante, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. INSURGÊNCIACONTRA DECISÃO QUE AFASTOU A PRELIMINAR DE INCOMPETÊNCIATERRITORIAL. INSTRUMENTO PARTICULAR DE CONTRATO DEPRESTAÇÃO DE SERVIÇOS E OUTRAS AVENÇAS - RETAIL. CLÁUSULADE ELEIÇÃO DE FORO. COMARCA DA CAPITAL DE SÃO PAULO.
+VALIDADE DA CLÁUSULA, DESDE QUE NÃO VERIFICADAABUSIVIDADE. HIPOSSUFICIÊNCIA DA DEMANDANTE, PESSOA FÍSICA,EM FACE DA RENOMADA EMPRESA RÉ. DIFICULDADE DO ACESSO ÀJUSTIÇA. MANUTENÇÃO DO TRÂMITE DA AÇÃO NA COMARCA DECANOAS/RS. DECISÃO MANTIDA. RECURSO DESPROVIDO. (e-STJ Fl. 85)
+Acórdão: negou provimento ao agravo interno da parte recorrente, nos termos da seguinte ementa:
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. AÇÃO DECOBRANÇA. INSURGÊNCIA CONTRA DECISÃO MONOCRÁTICA QUEMANTEVE O AFASTAMENTO DA PRELIMINAR DE INCOMPETÊNCIATERRITORIAL. CLÁUSULA DE ELEIÇÃO DE FORO. ABUSIVIDADE. HIPOSSUFICIÊNCIA DA PARTE AUTORA FRENTE À EMPRESA RÉ. AUSÊNCIA DE FATOS NOVOS APTOS A MODIFICAR O TEORDO DECISUM.RECURSO DESPROVIDO. (e-STJ Fl. 139)
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 63, caput, 489, § 1º, IV e 1.022, II, todos do CPC. Além de omissão e negativa de prestação jurisdicional, sustenta que na hipótese dos autos não foram preenchidos os requisitos necessários para o afastamento da cláusula de eleição de foro. Defende a necessidade de melhor análise da hipossuficiência, inviabilidade ou dificuldade excessiva de acesso ao Judiciário para alteração do referido foro. Aponta que a mera desigualdade financeira entre as partes não demonstra de forma inequívoca sua hipossuficiência. Requer, assim, a reforma do acórdão recorrido para acolhimento da preliminar de incompetência territorial.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação dos arts. 489 e 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+Na hipótese dos autos, verifica-se que o acórdão recorrido decidiu de forma fundamentada e expressa acerca do afastamento da cláusula de eleição de foro no caso de constatada a hipossuficiência da parte. Dessa maneira, os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Convém ressaltar, que conforme o entendimento desta Corte, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, DJe 21/6/2016). No mesmo sentido: AgInt nos EDcl no AREsp 1547208/SP, TERCEIRA TURMA, DJe 19/12/2019 e AgInt no AREsp 1480314/RJ, QUARTA TURMA, DJe 19/12/2019.
+Ademais, devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há violação dos arts. 489 e 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da fundamentação deficiente
+Constata-se que os argumentos invocados pela agravante não demonstram de forma efetiva como o acórdão recorrido violou o art. 63, caput, do CPC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+Assim, para a admissibilidade de um recurso especial é necessário que a parte recorrente comprove de maneira clara e objetiva que o acórdão recorrido violou dispositivo de lei federal, evidenciando as razões que justifiquem a alegada violação e relacionando efetivamente com a tese recursal, que no particular, insurge-se contra o afastamento da cláusula de foro de eleição por hipossuficiência da parte.
+- Do reexame de fatos e provas
+Além disso, o Tribunal de origem, após analisar o acervo fático-probatório dos autos, concluiu que:
+"(..) Por pertinente, transcrevo os fundamentos proferidos por ocasião do desprovimento do Agravo de Instrumento:
+(..) Na hipótese dos autos, verifica-se que as partes celebraram Instrumento Particular de Contrato de Prestação de Serviços e Outras Avenças - Retail (evento 6 - CONTR10 do originário) através do qual a contratada (TIM S/A) contratou os serviços da contratada (MARIA DE LOURDES CARSOSO para fins de negociação de seus serviços e produtos, conforme cláusula primeira. Veja-se, pois, que se trata de contrato de adesão e, como tal, se considera válida a cláusula de eleição de foro quando não verifica situação de abusividade. E, neste liame, entendo que a demandante, pessoa física, se revela hipossuficiente frente à renomada empresa ré, de modo que a remessa dos autos para a Comarca de São Paulo poderia inviabilizar o acesso à justiça para a autora. (..)
+Dito isto, apenas acresço que, apesar da autora ter firmado o Instrumento Particular com a TIM S/A na condição de pessoa jurídica (evento 6, CONTR10 e evento 6, CONTR11), atualmente o CNPJ encontra-se extinto (evento 1, CONTRSOCIAL7), o que corrobora a condição de hipossuficiência da demandante pessoa física frente à empresa ré de alcance nacional. Portanto, não merece reparos o afastamento da cláusula de eleição de foro, com a consequente rejeição da preliminar de contestação de incompetência territorial, inclusive conforme entendimento desta Egrégia Câmara: " (e-STJ Fls.136/137), grifos nossos.
+Diante disso, alterar o decidido no acórdão impugnado, notadamente quanto a verificação de hipossuficiência da recorrida, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC/2015, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS.INADMISSIBILIDADE.
+1. Ação de cobrança de honorários advocatícios.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração. 3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
