@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Daniela Teixeira e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. REGIME SEMIABERTO. RÉU PRIMÁRIO COM CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. PENA INFERIOR A OITO ANOS DE RECLUSÃO. AGRAVO REGIMENTAL MINISTERIAL DESPROVIDO.
+1. Tratando-se de réu primário, ao qual foi imposta pena superior a 4 anos e inferior a 8 anos de reclusão e cujas circunstâncias judiciais foram favoravelmente valoradas, deve a reprimenda ser cumprida, desde logo, em regime semiaberto, nos termos do art. 33, §§ 2º, alínea "b", e 3º, do Código Penal.
+2. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, contra a decisão de fls. 4817-4822 (e-STJ), que conheceu do agravo para dar parcial provimento ao recurso especial, a fim de fixar o regime inicial semiaberto.
+O agravante alega, em suma, que as circunstâncias fáticas do caso concreto são suficientes a indicar a necessidade de manutenção do regime fechado. Nesse sentido, destaca os seguintes pontos:
+"I) A polícia apurou informações no sentido de que o ora agravado estaria guardando entorpecentes em sua residência, em colaboração com outro traficante, motivo pelo qual foi requerido pela autoridade policial a expedição do mandado de busca e apreensão no imóvel em questão;
+II) Após o acolhimento de tal requerimento pelo Magistrado a quo, houve o cumprimento do mandado de busca e apreensão na residência do agravado, oportunidade em que foi procedida sua prisão e a apreensão da droga;
+III) No local, foram encontrados dois tabletes de cocaína (2.050g) em seu quarto e outros cinco tabletes de cocaína(4.750g) ocultados sob o forro do banheiro, além de outros três invólucros da mesma substância ilícita (730g), totalizando mais de 07 quilogramas de cocaína, ou seja, uma quantidade elevadíssima de droga;
+IV) Além da droga, foi apreendida uma balança de precisão eletrônica na residência do agravado, junto com os dois primeiros tabletes encontrados em seu quarto."
+Argumenta que "embora o agravado seja primário e tenha sido imposta pena privativa de liberdade entre os patamares de 04 e 08 anos de reclusão com a valoração favorável das circunstâncias judiciais, não há que se falar em fixação de regime inicial semiaberto -como sustentado na decisão monocrática -especialmente em razão das circunstâncias fáticas gravosas acima apontadas".
+Requer, ao final, a reconsideração da decisão agravada ou a submissão do presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. REGIME SEMIABERTO. RÉU PRIMÁRIO COM CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. PENA INFERIOR A OITO ANOS DE RECLUSÃO. AGRAVO REGIMENTAL MINISTERIAL DESPROVIDO.
+1. Tratando-se de réu primário, ao qual foi imposta pena superior a 4 anos e inferior a 8 anos de reclusão e cujas circunstâncias judiciais foram favoravelmente valoradas, deve a reprimenda ser cumprida, desde logo, em regime semiaberto, nos termos do art. 33, §§ 2º, alínea "b", e 3º, do Código Penal.
+2. Agravo regimental não provido.
+VOTO
+O agravante não trouxe argumentos aptos a infirmar o decisum impugnado, o qual deve ser mantido pelos seus próprios fundamentos.
+Conforme afirmado no julgamento monocrático, tratando-se de réu primário, ao qual foi imposta pena superior a 4 anos e inferior a 8 anos de reclusão e cujas circunstâncias judiciais foram favoravelmente valoradas, deve a reprimenda ser cumprida, desde logo, em regime semiaberto, nos termos do art. 33, §§ 2º, alínea "b", e 3º, do Código Penal.
+Corroboram:
+"HABEAS CORPUS. PROCESSUAL PENAL. ROUBO QUALIFICADO. REGIME PRISIONAL MAIS GRAVOSO IMPOSTO PELO TRIBUNAL DE ORIGEM. FUNDAMENTAÇÃO INIDÔNEA. CONDIÇÕES JUDICIAIS FAVORÁVEIS. PACIENTE PRIMÁRIO. PENA APLICADA INFERIOR A 8 ANOS. GRAVIDADE ABSTRATA DO DELITO. INCIDÊNCIA DA SÚMULA N. 440/STJ. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ORDEM DE HABEAS CORPUS CONCEDIDA PARA ALTERAR O REGIME INICIAL DO CUMPRIMENTO DA PENA.
+1. A Corte de origem não utilizou fundamentação idônea capaz de justificar a imposição do regime mais rigoroso ao Paciente, já que a atuação com outro comparsa não demonstra, por si só, no caso dos autos, maior reprovabilidade da conduta e a violência não exacerbada, apontada pelo Tribunal a quo, constitui tão somente uma elementar do crime de roubo. Ressalta-se, ainda, que foi reconhecida a primariedade do Acusado pelo Juízo sentenciante, sendo-lhe atribuídas condições judiciais favoráveis, razão pela qual a pena-base foi fixada no patamar mínimo para o delito.
+2. In casu, incide a Súmula n. 440 desta Corte Superior, que consigna, in verbis: "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito".
+3. Ordem de habeas corpus concedida para fixar o regime inicial semiaberto."
+(HC 490.412/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 16/05/2019, DJe 30/05/2019, grifou-se).
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. VIA INADEQUADA. NÃO CONHECIMENTO. ROUBO DUPLAMENTE MAJORADO. PLEITO DE ABSOLVIÇÃO. AUSÊNCIA DE RECONHECIMENTO PESSOAL DOS ACUSADOS. INVIÁVEL REEXAME FÁTICO-PROBATÓRIO. DOSIMETRIA. PENA-BASE. CIRCUNSTÂNCIAS DO CRIME. EMPREGO DE MOTOCICLETA. FUNDAMENTAÇÃO INIDÔNEA. ELEMENTO QUE NÃO DESBORDA DO ORDINÁRIO DO TIPO DE ROUBO. REDUÇÃO DAS REPRIMENDAS. TERCEIRA FASE. CAUSAS DE AUMENTO. FRAÇÃO DE INCREMENTO PUNITIVO. SÚMULA 443/STJ. FALTA DE MOTIVAÇÃO CONCRETA PARA A ELEVAÇÃO DA PENA EM PATAMAR SUPERIOR AO MÍNIMO LEGAL, DE 1/3. REGIME INICIAL DE CUMPRIMENTO. UM DOS PACIENTES É PRIMÁRIO, COM AS VETORIAIS FAVORÁVEIS E PENA FINAL SUPERIOR A 4 ANOS E INFERIOR A 8 ANOS. REGIME FECHADO IMPOSTO COM BASE NA GRAVIDADE ABSTRATA DO DELITO. REGIME INICIALMENTE SEMIABERTO MAIS ADEQUADO. CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+ ..
+- Essa Corte Superior firmou o entendimento de que o critério para a exasperação da reprimenda, em razão das causas de aumento no crime de roubo, não deve ser apenas matemático, mas subjetivo, a ser evidenciado pelas circunstâncias do caso concreto (Súmula 443/STJ).
+- A instância de origem exasperou as penas dos pacientes, na terceira fase da calibragem, em fração superior a 1/3, considerando apenas a quantidade de majorantes imputadas, deixando de evidenciar de que forma as condutas dos pacientes desbordaram para um comportamento mais grave.
+- É cediço que a jurisprudência desta Corte firmou-se no sentido de que é necessária, para a fixação de regime mais gravoso, a apresentação de motivação concreta, fundada nas circunstâncias judiciais previstas no art. 59, do Código Penal, na reincidência do acusado ou na gravidade concreta do delito, evidenciada esta última por um modus operandi que desborde dos elementos normais do tipo penal violado. Súmulas 440/STJ, 718/STF e 719/STF.
+- Assim, considerando a primariedade do paciente PATRICK, a análise favorável dos vetores do art. 59, do CP, e o fato de a pena privativa de liberdade aplicada ser superior a 4 e não excedente a 8 anos, entendo que, nos termos do disposto no art. 33, § § 2º e 3º, do Código Penal, o regime inicial semiaberto é o que se amolda ao caso em tela, para a prevenção e repressão do delito. Ante a reincidência do acusado DANIEL, mantém-se o regime inicial fechado, nos termos do art. 33, § § 2º e 3º, do CP.
+- Habeas corpus não conhecido.
+- Ordem concedida, de ofício, para reduzir as penas do paciente PATRICK MARIANO DOS ANJOS PINHEIRO ao patamar de 5 anos e 4 meses de reclusão, em regime inicialmente semiaberto, e 13 dias-multa, e as de DANIEL ASSIS SILVA ao montante de 7 anos, 3 meses e 3 dias de reclusão, em regime inicialmente fechado, e 16 dias-multa, mantidos os demais termos da condenação."
+(HC 484.534/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 07/02/2019, DJe 15/02/2019, com destaque).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
