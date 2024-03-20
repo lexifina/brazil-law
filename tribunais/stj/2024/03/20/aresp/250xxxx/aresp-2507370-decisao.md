@@ -1,0 +1,43 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por WILSON GIACOMELLI - ESPÓLIO, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 01/06/2023.
+Concluso ao gabinete em: 11/03/2024.
+Ação: de inventário dos bens deixados por Mário Leite.
+Durante o trâmite processual, parte dos herdeiros pleiteou, nos próprios autos do inventário, a redução das disposições testamentárias, sob o fundamento de que doações anteriores deveriam ser conferidas, uma vez que, somadas às disposições do testamento, ultrapassariam a parte disponível dos bens.
+Decisão interlocutória: deferiu o processamento de redução das disposições testamentárias, nos próprios autos do inventário, e determinou que as partes especificassem as provas que pretendiam produzir.
+Acórdão: negou provimento ao recurso de agravo de instrumento interposto pela parte ora agravante, nos termos da seguinte ementa (e-STJ, fl. 309):
+"AGRAVO DE INSTRUMENTO. INVENTÁRIO. REDUÇÃO DAS DISPOSIÇÕES TESTAMENTÁRIAS. Decisão que deferiu processamento de redução das disposições testamentárias, nos próprios autos da ação de inventário. Insurgência. Pretensão de apreciação da questão em ação própria. Inviabilidade. Acórdão desteE. Tribunal de Justiça que reconheceu como prejudicialidades externas as ações anulatórias de testamento e de doação. Inexistência de qualquer outro óbice à análise das questões referentes aos limites dos atos dispositivos e eventual redução das disposições testamentárias. Apuração no bojo desta ação de inventário, em consonância com o decidido nos autos do agravo de instrumento nº 0454879-43.2010.8.26.0000, julgado anteriormente. Decisão mantida. RECURSO DESPROVIDO."
+Embargos de Declaração: opostos pelo ora agravante foram rejeitados.
+Recurso especial: alega violação dos arts. 489, II, e §1º, I e II, 612, 1.022, II, do CPC, além da existência de dissídio jurisprudencial, sustentando que: (i) a Corte de origem teria sido omissa e incorrido em negativa de prestação jurisdicional ao deixar de se manifestar sobre as omissões apontadas nos embargos de declaração opostos; (ii) a questão da redução das disposições testamentárias não poderia ser analisada nos autos do inventário, tendo em vista que necessitaria de dilação probatória.
+Parecer do MPF: da lavra do I. Subprocurador-Geral Antonio Carlos Martins Soares, opina pelo desprovimento do agravo em recurso especial.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente que a matéria discutida nos autos não pode ser considerada de "alta indagação" e que podem "as disposições testamentárias serem reduzidas nos próprios autos do inventário" (e-STJ fl. 312), de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar e m violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Do exame do acórdão recorrido, constata-se que as questões de mérito foram devidamente analisadas e discutidas, de modo que a prestação jurisdicional foi esgotada.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Logo, não há contrariedade ao art. 489 do CPC, pois o Tribunal de origem decidiu de modo claro e fundamentado.
+No mesmo sentido: AgInt nos EDcl no AREsp 1547208/SP, TERCEIRA TURMA, DJe 19/12/2019 e AgInt no AREsp 1480314/RJ, QUARTA TURMA, DJe 19/12/2019.
+- Do reexame de fatos e provas
+O TJ/SP ao analisar o recurso interposto pela parte ora agravante, concluiu o seguinte (e-STJ fl. 312):
+"Verifica-se que, no julgamento do referido agravo de instrumento (nº 0454879-43.2010.8.26.0000), ficou expressamente decidido que a matéria discutida nestes autos não pode ser considerada de alta indagação, pois, uma vez verificado que as liberalidades foram realizadas além da metade disponível, não fica sem efeito todo o testamento, mas o excesso é "decotado", garantindo-se a intangibilidade da legítima dos herdeiros necessários, podendo as disposições testamentárias serem reduzidas nos próprios autos do inventário.
+E, conforme consignado na r. decisão recorrida, "v. acórdão entendeu que a discussão sobre validade do testamento inviabilizava a apreciação de questões relativas à redução de cláusulas testamentárias, porque diretamente relacionadas ao testamento que estava com sua validade questionada judicialmente, não opondo qualquer outro óbice à análise das questões referentes aos limites dos atos dispositivos e eventual redução das disposições testamentárias" (fl. 21).
+Logo, considerando que, no mencionado agravo de instrumento, foram reconhecidas como prejudicialidades externas as ações anulatória de testamento e de doação e, restando superadas tais questões, inexiste qualquer outro óbice à apreciação dos limites dos atos dispositivos e eventual redução das disposições testamentárias, que deve ocorrer no bojo desta ação.
+Ademais, a existência de disposições testamentárias que violam a legítima enseja a mera redução dessas disposições, a ser requerida, em tese, nos autos do inventário, e não por meio de ação autônoma." (grifou-se)
+Da análise da decisão da Corte de origem, nota-se que alterar o decidido no acórdão impugnado, no que se refere à discussão de se a questão da redução das disposições testamentárias poderia ser analisada nos autos do inventário  por tratar-se ou não de questão de alta indagação  , exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ (Nesse sentido: AgInt no AREsp 1.745.070/SP, Terceira Turma, DJe de 19/08/2021; AgInt no Aresp 750.918/RS, Terceira Turma, DJe de 21/06/2017).
+- Da divergência jurisprudencial
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Isso porque, a demonstração da divergência não pode estar fundamentada em questões de fato, mas apenas na interpretação do dispositivo legal. Nesse sentido: AgInt no AREsp n. 1.974.371/RJ, Terceira Turma, DJe de 22/11/2023 e REsp n. 1.907.171/RJ, Quarta Turma, DJe de 11/1/2024.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INVENTÁRIO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIO PREJUDICADO.
+1. Ação de inventário.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. Alterar o decidido no acórdão impugnado, no que se refere à discussão de se a questão da redução das disposições testamentárias demandaria ou não "alta indagação", podendo ser analisada nos autos do inventário, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+5. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
