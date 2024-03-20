@@ -1,0 +1,65 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+6ª Turma Cível
+Processo N.EMBARGOS DE DECLARAÇÃO CÍVEL 0724505-39.2023.8.07.0001EMBARGANTE(S)SA CORREIO BRAZILIENSEEMBARGADO(S)PETERSON GUSTAVO PAIMRelatorDesembargador LEONARDO ROSCOE BESSA
+ Acórdão Nº1836356
+
+EMENTA
+
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. PROCESSUAL CIVIL. CONTRADIÇÃO. INEXISTENTE. AUSÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. INCONFORMISMO. ENFRENTAMENTO DA QUESTÃO JURÍDICA DISCUTIDA NOS AUTOS. EMBARGOS DE DECLARAÇÃO CONHECIDOS E REJEITADO.
+
+1. Cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição ou suprir omissão de ponto sobre o qual o juiz deveria se pronunciar, de ofício ou a requerimento, e para corrigir erro material (art. 1.022 do Código de Processo Civil – CPC).
+
+2. O vício de contradição é relativo à análise interna do acórdão. Ocorre quando há uma desarmonia entre as partes que integraram a decisão colegiada: fundamentação, dispositivo e ementa. O acórdão fica carente de lógica intrínseca, de sorte a dificultar sua compreensão.
+
+3. No caso, o acórdão foi claro – até didático – quanto à necessidade de compensação por danos morais – desnecessária transcrição aqui.
+
+4 O mero inconformismo da parte não autoriza a integração do julgado. A reforma do acórdão deve ser pleiteada por meio do recurso cabível para essa finalidade, direcionado aos tribunais superiores.
+
+5. Embargos de declaração conhecidos e rejeitados.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 6ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, LEONARDO ROSCOE BESSA - Relator, ARQUIBALDO CARNEIRO - 1º Vogal e SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO - 2º Vogal, sob a Presidência da Senhora Desembargadora VERA ANDRIGHI, em proferir a seguinte decisão: CONHECIDOS. REJEITADOS. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 01 de Abril de 2024
+
+Desembargador LEONARDO ROSCOE BESSARelator
+
+RELATÓRIO
+
+p{text-align: justify;}Trata-se de embargos de declaração opostos por SA CORREIO BRAZILIENSE contra acórdão desta Sexta Turma Cível que deu provimento à apelação interposta pelo embargado (ID 54244996).
+O acórdão restou assim ementado:
+APELAÇÃO CÍVEL. DIREITO CIVIL. DIREITOS DA PERSONALIDADE. VIOLAÇÃO AOS DIREITOS À IMAGEM E À HONRA. PUBLICAÇÕES DE VEÍCULO DE IMPRENSA NAINTERNET. CENSURA. VEDAÇÃO. ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL Nº 130 (ADPF Nº 130). DIVULGAÇÃO DE SENTENÇA DE NATUREZA CÍVEL COMO CONDENAÇÃO CRIMINAL. IMPUTAÇÃO DE CRIME DE VIOLAÇÃO DE DIREITO AUTORAL. ERRO INJUSTIFICÁVEL. CONSTATAÇÃO. DIREITO À HONRA OBJETIVA. HONRA PROFISISONAL. DEVERES DE CUIDADO E DE VERACIDADE DAS INFORMAÇÕES DIVULGADAS. VIOLAÇÃO. ATECNIA DA NOTÍCIA DIVULGADA. IRRELEVÂNCIA. CONHECIMENTO TÉCNICO-JURÍDICO. DESNECESSIDADE. VERIFICAÇÃO DA INFORMAÇÃO. POSSIBILIDADE. LIBERDADE DE EXPRESSÃO E INFORMAÇÃO. ABUSIVIDADE. OBRIGAÇÃO DE FAZER. RECONHECIMENTO. IMPOSIÇÃO. EXCLUSÃO DA MATÉRIA OFENSIVA. MULTA DIÁRIA. DANO MORAL. OCORRÊNCIA. EXTENSÃO DO DANO. RESPEITABILIDADE PROFISSIONAL. ABALO. PREJUÍZO NO EXERCÍCIO DA PROFISSÃO. POTENCIALIDADE. ARBITRAMENTO. LIMITES. RAZOABILIDADE. PROPORCIONALIDADE. SÚMULA 326 DO STJ. JUROS DE MORA. CORREÇÃO MONETÁRIA. INCIDÊNCIA. SÚMULAS 54 E 362 DO STJ. 1. A Constituição Federal (CF) estabelece, em seu art. 220, a ampla liberdade de expressão: "A manifestação do pensamento, a criação, a expressão e a informação, sob qualquer forma, processo ou veículo não sofrerão qualquer restrição, observado o disposto nesta Constituição." Também há proteção explícita aos denominados direitos da personalidade, entre os quais o direito à honra, imagem, privacidade (CF, art. 5°, inciso X). Invariavelmente, no plano abstrato, tais direitos permanecem em situação de tensão - iminente conflito - com outros valores constitucionais. 2. O Supremo Tribunal Federal (STF), no julgamento de arguição de descumprimento de preceito fundamental (ADPF nº 130), proibiu a censura de publicações jornalísticas. Registrou que é excepcional qualquer intervenção do Estado na divulgação de notícias e de opiniões. Acrescentou, neste e em julgados ulteriores, que a reação da pessoa - lesada, em tese - de ocorrer, preferencialmente, por outros meios que não a limitação do direito de informar ou de livre expressão: retificação, direito de resposta, indenização etc. 3. Em possível colisão ou tensão entre o direito à honra - ou outro direito da personalidade - e a liberdade de expressão, deve-se, a priori, prestigiar a ampla possibilidade de manifestação. É possível, porém, em situações especiais, a prevalência desses direitos individuais, previstos no art. 5º da Constituição Federal, especialmente nos casos em que seja possível constatar evidente abuso do direito de informação e de liberdade de expressão. 4. É certo que matérias jornalísticas dessa natureza causam, invariavelmente, certo constrangimento às pessoas envolvidas no fato. Apesar disso, se as informações são de relevância pública, o os alvos das notícias devem suportá-las. Contudo, o direito à liberdade de expressão e a liberdade de imprensa não são absolutos – devem se pautar, necessariamente, pela ética, boa-fé e com o intuito informativo. A divulgação de informações que possam implicar prejuízo a direitos da personalidade (vida privada, intimidade, honra, imagem etc.) é lícita desde que o veículo de informação adote o mínimo de diligências necessárias para verificar a veracidade das informações que pretende veicular. Caso contrário, se a conduta vier a ser declarada abusiva, por extrapolar o direito de informação, a liberdade de imprensa não prevalece sobre o direito fundamental previsto no art. 5, X, da Constituição Federal. Jurisprudência do Superior Tribunal de Justiça – STJ. 5. Em princípio, é lícita a divulgação da existência de um processo cível, de caráter público e de cunho estritamente indenizatório. Contudo, a matéria tem potencial de induzir o público em erro, ao afirmar que existe crime previsto no art. 22 da Lei 9.610/1998 (Lei de Direito Autoral – LDA), norma se limita a afirmar que há direitos civis do autor, patrimoniais e morais, sobre a obra que criou. 6. Mesmo ciente do teor normativo citado na reportagem, de natureza cível, a apelada imputou a prática de crime de violação de direito autoral que, notoriamente, está previsto no art. 184 do Código Penal. De forma injustificável, sem o cuidado mínimo exigível antes da divulgação da matéria, a apelada imputou ao agravante a prática de crime de violação de direito autoral. A inexistência de prática criminosa é evidente. Bastava, tão somente, a consulta dos dispositivos reproduzidos na sentença e uma leitura minimamente atenta do seu teor, para que se chagasse a conclusão de que não se tratava de apuração de crime. A decisão refere apenas à condenação do apelante por dano moral, mediante pagamento de indenização compensatória. Essa análise tampouco exige conhecimento técnico jurídico pelo veículo de imprensa, de modo que não há que se falar em mera atecnia da matéria jornalística. 7. A divulgação de condenação de natureza civil como suposta prática de crime de ação penal pública, implica violação ao direito à honra objetiva (profissional) do apelante. Por consequência, deve-se determinar à apelada que retire de circulação as reportagens publicadas no seu sítio eletrônico. 8. No tocante ao dano moral, há, em sede doutrinária, três posições: 1) dor psíquica; 2) violação a direitos da personalidade e 3) ofensa à cláusula geral da dignidade da pessoa humana. A posição mais adequada combina as duas primeiras correntes. Dano moral decorre de ofensa a direitos da personalidade. Todavia, entre as espécies já reconhecidas dos direitos da personalidade, está o direito à integridade psíquica (dor) cuja violação pode ocorrer de modo isolado ou cumulado com outros direitos existenciais e/ou materiais. 9. Constatado o abuso de direito de liberdade de expressão e de informação (liberdade de imprensa), houve ofensa à honra objetiva do apelante. O expediente adotado pela empresa de comunicação é ilegal: a apelada incorreu em exercício abusivo do seu direito de liberdade de expressão e de informação. Prevalece, na hipótese, o direito fundamental à honra profissional, violado mediante injustificável imputação de crime e violação de direito autoral na rede mundial de computadores. Precedentes do STJ. 10. A quantificação da verba compensatória, por sua vez, deve ser pautada nos princípios da proporcionalidade e da razoabilidade, com a compensação do mal injusto experimentado pela vítima. Ponderam-se o direito violado, a gravidade da lesão (extensão do dano), as circunstâncias e consequências do fato. O valor, ademais, não pode configurar enriquecimento exagerado da vítima. É pacífico na jurisprudência o caráter punitivo e pedagógico da condenação por dano moral, o que enseja análise da situação financeira do autor da lesão. 11. Na hipótese, o apelante, autor foi negativamente qualificado e exposto pela apelante na internet, perante número indeterminado de pessoas que visualizaram a matéria que lhe imputou equivocadamente a prática de crime de violação de direito autoral. A ofensa de seu em razão do exercício da profissão, já que a matéria se refere ao fato de o apelante ser diretor e produtor cinematográfico. A reportagem abalou a respeitabilidade profissional do apelante, ao mencionar expressamente de que foi condenado por crime relacionado ao seu exercício. Não há dúvida de que violação à honra profissional tem o potencial de prejudicar o exercício de sua profissão e de impedir novas oportunidades de crescimento no mercado de trabalho. 12. Nos termos do art. 85, § 2º do CPC, os honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa. Portanto, se há condenação da apelada, ré, ao pagamento de danos morais, sobre este valor deve ser fixado o percentual dos honorários. 13. Apelação conhecida em parte e provido. Honorários advocatícios invertidos. Multa diária fixada.
+Em suas razões (ID 54989697), o embargante afirma que o acórdão foi contraditório.
+Sustenta que: 1) o decisum reconhece a liberdade de imprensa como princípio basilar constitucional, mas, em contraponto, o condena ao pagamento de danos morais; 2) não há nos autos elementos capazes de comprovar a existência dos danos supostamente sofridos pelo embargado; 3) a reportagem publicada, em seu sítio eletrônico, não possuía o intuito de expor a imagem do embargado, mas, tão somente, divulgar informações fidedignas constantes do processo que fora movido em seu desfavor; 4) apenas exerceu o seu legítimo direito de informação.
+Requer, ao final, o acolhimento dos embargos de declaração para que sejam sanados os vícios apontados.
+Contrarrazões apresentadas (ID 55602053).
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador LEONARDO ROSCOE BESSA - Relatorp{text-align: justify;}1. CONHECIMENTO
+Presentes os pressupostos de admissibilidade, conheço do recurso.
+
+2. MÉRITO
+Cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição ou suprir omissão de ponto sobre o qual o juiz deveria se pronunciar, de ofício ou a requerimento, e para corrigir erro material (art. 1.022 do Código de Processo Civil – CPC.)
+O recurso não merece provimento – não há qualquer vício a ser sanado.
+O vício de contradição é relativo à análise interna do acórdão. Ocorre quando há uma desarmonia entre as partes que integraram a decisão colegiada: fundamentação, dispositivo e ementa. O acórdão fica carente de lógica intrínseca, de sorte a dificultar sua compreensão.
+Portanto, no julgamento dos embargos de declaração, não se admite a reforma do acórdão recorrido ante a suposta existência de contradição entre a fundamentação do decisum e o entendimento da parte. A rediscussão, no que tange à melhor interpretação jurídica, deve ser suscitada por meio de recurso próprio.
+No caso, o acórdão foi claro – até didático – quanto à necessidade de compensação por danos morais – desnecessária transcrição aqui.
+O embargante pretende a reapreciação da matéria, a fim de modificar o resultado do julgamento, em que pese alegar existência de vício.
+Todavia, tal propósito é vedado nos embargos de declaração, que visa somente o esclarecimento do julgado.
+O mero inconformismo da parte não autoriza a integração do julgado. A reforma do acórdão deve ser pleiteada por meio do recurso cabível para essa finalidade, direcionado aos tribunais superiores.
+Evidente, portanto, que os embargos de declaração trazem questionamentos desvinculados das hipóteses do art. 1.022 do CPC.
+Não é o caso de acolhimento do recurso.
+
+3. DISPOSITIVO
+CONHEÇO do recurso e REJEITO os embargos de declaração.
+É como voto.
+O Senhor Desembargador ARQUIBALDO CARNEIRO - 1º Vogal Com o relatorA Senhora Desembargadora SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDOS. REJEITADOS. UNÂNIME.
