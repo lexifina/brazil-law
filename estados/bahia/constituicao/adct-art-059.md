@@ -1,0 +1,1 @@
+Art. 59 - Fica determinada a realização de consulta plebiscitária, no prazo de até cento e oitenta dias após a data de promulgação desta Constituição, nos distritos de Bandeira do Colônia, Município de Itapetinga, e São José do Colônia, Município de Itambé, para incorporarem-se ao Município de Itororó.

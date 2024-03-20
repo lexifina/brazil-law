@@ -1,0 +1,3 @@
+Art. 104-A - Cessada a investidura no cargo de Governador do Estado, quem o tiver exercido pelo tempo mínimo de 4 (quatro) anos ininterruptos ou 5 (cinco) intercalados fará jus, a título de pensão especial, a um subsídio mensal e vitalício igual à remuneração do cargo, desde que tenha contribuído para a previdência oficial por, no mínimo, 30 (trinta) anos.
+§ 1º - Caso o beneficiário venha a exercer mandato eletivo, ser-lhe-á assegurado, durante o exercício, o direito de opção pela percepção da pensão especial ou do subsídio do mandato.
+§ 2º - Lei de iniciativa da Assembleia Legislativa estabelecerá uma estrutura de apoio para os ex-Governadores que façam jus ao benefício previsto no caput deste artigo.

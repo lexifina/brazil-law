@@ -1,0 +1,1 @@
+Art. 37 - O Estado deverá elaborar, no prazo de dois anos a partir da data da promulgação desta Constituição, o zoneamento, com base nas peculiaridades do solo e do clima, delimitando as áreas apropriadas à produção de alimentos.

@@ -1,0 +1,1 @@
+Art. 6º - Enquanto não forem instalados os Tribunais de Alçada, o cargo de Desembargador será provido mediante promoção dos Juízes de Direito da entrância especial, na forma prevista nesta Constituição.

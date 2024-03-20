@@ -1,0 +1,1 @@
+Art. 31 - O orçamento anual consignará, obrigatoriamente, os recursos necessários à efetivação dos compromissos já assumidos pelo Estado em operações de crédito realizadas para a execução do seu programa de eletrificação.

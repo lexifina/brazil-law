@@ -1,0 +1,1 @@
+Art. 12 - Os servidores públicos estaduais, estáveis, em desvio de função, serão enquadrados no cargo correspondente à atividade que de fato venham exercendo há mais de dois anos, até a promulgação desta Constituição, desde que tenham qualificação, inclusive diploma, quando necessário para o exercício do mesmo.

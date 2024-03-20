@@ -1,0 +1,1 @@
+Art. 23 - Ficam criadas a Universidade do extremo sul, com sede em Itamarajú, e a do São Francisco, englobando as unidades de ensino superior nas respectivas regiões, com prazo de até seis anos para suas instalações.

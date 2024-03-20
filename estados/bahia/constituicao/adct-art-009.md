@@ -1,0 +1,1 @@
+Art. 9º - Os docentes e servidores que, na data da Lei nº 4.816, de 28 de dezembro de 1988, eram empregados da Fundação Santa Cruz e Federações das Escolas Superiores de Ilhéus e Itabuna, passarão a constituir quadro especial da Fundação Santa Cruz, que se extinguirá à proporção que vagarem os respectivos cargos, após a doação pela Fundação de todo o seu patrimônio.

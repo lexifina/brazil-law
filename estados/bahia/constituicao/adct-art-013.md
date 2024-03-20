@@ -1,0 +1,1 @@
+Art. 13 - Fica assegurado, para os profissionais de saúde sem incompatibilidade de horário, o exercício cumulativo de dois cargos ou empregos privativos da área de saúde, que estejam sendo exercidos na administração pública direta ou indireta.

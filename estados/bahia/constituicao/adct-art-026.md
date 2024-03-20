@@ -1,0 +1,1 @@
+Art. 26 - O Poder Executivo constituirá, no prazo máximo de trinta dias após a promulgação desta Carta, uma comissão paritária com o Sindicato dos Servidores do órgão para que, no prazo máximo de cento e vinte dias após sua constituição, elabore e envie projeto de lei orgânica do Fisco, para aprovação da Assembléia Legislativa.

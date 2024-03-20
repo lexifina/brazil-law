@@ -1,0 +1,2 @@
+Art. 3º - Ficam mantidas as Procuradorias Jurídicas e órgãos assemelhados das autarquias e das fundações estaduais, a cujos Procuradores autárquicos e fundacionais e servidores estáveis, bacharéis em direito, que ali exerçam atribuições de natureza jurídica, na data da promulgação desta Constituição, é garantida, sempre, isonomia de vencimentos e vantagens com os Procuradores do Estado.
+Parágrafo único -

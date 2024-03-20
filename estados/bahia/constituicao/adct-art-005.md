@@ -1,0 +1,1 @@
+Art. 5º - Ao servidor público aposentado, antes da vigência da Lei nº 4.794, de 11 de Agosto de 1988, fica assegurada a percepção de proventos calculados sobre a letra e referência do cargo que, na nova estrutura administrativa, a ele corresponda.

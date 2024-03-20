@@ -1,0 +1,1 @@
+Art. 44 - O Estado formulará, no prazo de um ano a partir da data da promulgação desta Constituição, uma política de desenvolvimento florestal, com base nos princípios de preservação e conservação dos recursos naturais, e promoverá os meios necessários para sua execução, concorrentemente com a União.

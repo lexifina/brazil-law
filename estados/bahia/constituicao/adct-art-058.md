@@ -1,0 +1,2 @@
+Art. 58 - Será criada uma comissão, dentro de cento e vinte dias após a promulgação desta Constituição, integrada de dez membros, indicados dois pela Assembléia Legislativa, dois pelo Poder Executivo Estadual, três pelo Município do Salvador e três pelo Município de Lauro de Freitas, para proceder à fixação dos limites demarcatórios entre os dois Municípios.
+Parágrafo único - Decorrido o prazo de um ano, se os trabalhos não estiverem concluídos, por acordo ou arbitrariamente, caberá ao Estado determinar os limites das áreas litigiosas.

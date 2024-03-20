@@ -1,0 +1,3 @@
+# CONSTITUIÇÃO DO ESTADO DA BAHIA DE 05 DE OUTUBRO DE 1989
+PREÂMBULO
+Nós, Deputados Estaduais Constituintes, investidos no pleno exercício dos poderes conferidos pela Constituição da República Federativa do Brasil, sob a proteção de Deus e com o apoio do povo baiano, unidos indissoluvelmente pelos mais elevados propósitos de preservar o Estado de Direito, o culto perene à liberdade e a igualdade de todos perante a lei, intransigentes no combate a toda forma de opressão, preconceito, exploração do homem pelo homem e velando pela Paz e Justiça sociais, promulgamos a Constituição do Estado da Bahia.

@@ -1,0 +1,1 @@
+Art. 47 - Ficam considerados cumpridos e quitados os contratos do programa de habitação do Estado, administrado diretamente pela URBIS, quando os respectivos mutuários tenham cumprido inteiramente o pagamento das parcelas constantes do contrato celebrado.

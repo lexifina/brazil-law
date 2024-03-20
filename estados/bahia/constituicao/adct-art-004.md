@@ -1,0 +1,1 @@
+Art. 4º - Ao policial-militar da ativa é proibido o exercício cumulativo de dois cargos ou empregos públicos, ressalvada a situação do médico policial-militar que, até 05 de outubro de 1988, já estivesse acumulando dois cargos públicos, privativos de médico, na administração direta ou indireta, respeitada a compatibilidade de horários.

@@ -1,0 +1,1 @@
+Art. 52 - O Estado reconhecerá a cidade de Cachoeira como centro da resistência histórica da luta pela Independência da Bahia, decorrendo disso compromissos prioritários de preservação do seu patrimônio histórico, cultural, arquitetônico e paisagístico.

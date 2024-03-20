@@ -1,0 +1,1 @@
+Art. 8º - Aplica-se aos peritos criminalísticos e médico-legais, do quadro da Secretaria de Segurança Pública, o princípio do Art. 41, inciso XXIV, relativo às carreiras disciplinadas no Capítulo IV do Título IV desta Constituição.

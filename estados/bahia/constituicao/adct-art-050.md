@@ -1,0 +1,1 @@
+Art. 50 - O Estado promoverá, no prazo máximo de doze meses a contar da data da promulgação desta Constituição, as ações necessárias à legalização dos terrenos onde se situam os templos das religiões afro-brasileiras, por iniciativa da competente Federação.

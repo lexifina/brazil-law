@@ -1,0 +1,1 @@
+Art. 56 - Nos Municípios onde a Lei Orgânica estabelecer a ampliação do número de Vereadores, o Presidente da Câmara Municipal convocará e dará posse aos suplentes respectivos, no primeiro dia de sessão ordinária, depois da promulgação, obedecida a legislação eleitoral vigente.

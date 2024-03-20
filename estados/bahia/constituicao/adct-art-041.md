@@ -1,0 +1,1 @@
+Art. 41 - A Assembléia Legislativa examinará, no prazo máximo de seis meses da promulgação desta Constituição, a forma da aquisição de todas as glebas de terra do litoral norte do Estado, destinadas ao reflorestamento, para a identificação de irregularidades e a promoção das medidas jurídicas cabíveis.

@@ -1,0 +1,1 @@
+Art. 16 - Os Procuradores do Município de Salvador exercerão a representação judicial e a consultoria jurídica do Município, organizados em carreira na qual o ingresso dependerá de concurso público de provas e títulos, com as mesmas atribuições e responsabilidades dos Procuradores do Estado.

@@ -1,0 +1,1 @@
+Art. 18 - Aplica-se aos delegados de polícia, bacharéis em direito, que exercem função de carreira, o princípio determinado no Art. 135 da Constituição Federal, submetendo-os a concurso público, a ser realizado no prazo de sessenta dias da promulgação desta Constituição, para assegurar-lhes isonomia constitucional.

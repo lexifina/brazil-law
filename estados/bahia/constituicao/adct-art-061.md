@@ -1,0 +1,2 @@
+Art. 61 - Será editada, dentro de trinta dias da promulgação desta Constituição, lei complementar, que determinará a criação da região Metropolitana de Itabuna, composta pelos Municípios de Itabuna, Lomanto Júnior, Itapé, Ibicaraí, Floresta Azul, Firmino Alves, Santa Cruz da Vitória, Coaraci, Almadina, Itapitanga, Buerarema, Jussari, Santa Luzia, Arataca, Pau Brasil, Camacã, Itaju do Colônia e Itajuípe.
+Parágrafo único - Lei determinará a criação, constituição e funcionamento dos seus Conselhos Consultivo e Deliberativo.

@@ -1,0 +1,1 @@
+Art. 14 - Fica assegurado aos servidores públicos do Estado, com mais de cinco anos de efetivo exercício, bacharéis em direito, exercentes de cargo ou função de Defensor Público, até a data da instalação da Assembléia Estadual Constituinte, tratamento isonômico com os mesmos.

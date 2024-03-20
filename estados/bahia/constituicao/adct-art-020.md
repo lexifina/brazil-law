@@ -1,0 +1,1 @@
+Art. 20 - É assegurada isonomia salarial entre professores com licenciatura plena e professores não licenciados, com titulação de nível superior, enquadrando-se os salários de acordo com a mesma escala constante do plano de carreira do magistério.

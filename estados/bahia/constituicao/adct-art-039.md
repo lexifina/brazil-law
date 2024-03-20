@@ -1,0 +1,1 @@
+Art. 39 - A Assembléia Legislativa procederá, no prazo máximo de dezoito meses, a partir da promulgação desta Constituição, à revisão de todos os processos de concessão de uso, doação ou alienação de terras públicas, efetuadas pelo Estado, para identificação de irregularidades e promoção da ação judicial cabível, visando a reversão do ato.

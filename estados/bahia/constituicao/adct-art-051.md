@@ -1,0 +1,1 @@
+Art. 51 - O Estado executará, no prazo de um ano após a promulgação desta Constituição, a identificação, discriminação e titulação das suas terras ocupadas pelos remanescentes das comunidades dos quilombos.

@@ -1,0 +1,1 @@
+Art. 30 - Durante dez anos, o Estado aplicará, anualmente, quarenta por cento dos recursos destinados a despesas de capital em obras de combate à seca, na região do semi-árido, e dez por cento para o desenvolvimento da bacia do São Francisco.

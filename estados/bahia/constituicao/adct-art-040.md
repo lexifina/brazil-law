@@ -1,0 +1,1 @@
+Art. 40 - O Poder Executivo encaminhará à Assembléia Legislativa, até seis meses após a promulgação desta Constituição, projeto de lei sobre o controle da produção, manipulação, comercialização e uso de agrotóxicos e outros biocidas.
