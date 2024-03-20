@@ -1,0 +1,102 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+1ª Turma Cível
+Processo N.APELAÇÃO CÍVEL 0721701-98.2023.8.07.0001APELANTE(S)FRANCISCO ALVES BEZERRA NETOAPELADO(S)WALTER FLORES DE MELO JUNIORRelatoraDesembargadora DIVA LUCY DE FARIA PEREIRA
+ Acórdão Nº1838696
+
+EMENTA
+
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. RÉU/REVEL. CITAÇÃO REALIZADA PELO CORREIO. CARTA DE CITAÇÃO COM AVISO DE RECEBIMENTO ASSINADO POR TERCEIRO. PRESUNÇÃO RELATIVA DE VERACIDADE DO ATO CITATÓRIO AFASTADA. PROVA INEXISTENTE DE QUE A MISSIVA TENHA SIDO RECEBIDA E ASSINADO O AVISO DE RECEBIMENTO PELO PORTEIRO OU EMPREGADO DO CONDOMÍNIO ONDE RESIDIRIA O CITANDO. PROVA AFIRMATIVA DE QUE O RÉU NÃO MAIS RESIDIA DO LOCAL PARA ONDE ENCAMINHADO O MANDADO DE CITAÇÃO. CHAMAMENTO NULO. NULIDADE RECONHECIDA DO PROCESSO DESDE A CITAÇÃO. SENTENÇA CASSADA. RECURSO CONHECIDO E PROVIDO.
+
+1. Nos termos do art. 248, § 2º, do CPC, nos “condomínios edilícios ou nos loteamentos com controle de acesso, será válida a entrega do mandado a funcionário da portaria responsável pelo recebimento de correspondência, que, entretanto, poderá recusar o recebimento, se declarar, por escrito, sob as penas da lei, que o destinatário da correspondência está ausente”. Já o § 4º desse mesmo dispositivo legal valida a citação realizada por entrega da correspondência citatória ao porteiro.
+
+2. Todavia, para efetivo reconhecimento da validade da citação feita pelo correio em condomínios edilícios ou loteamentos com controle de acesso é mister verificar se ao tempo em que realizado esse chamamento inicial ao processo o citando residia no local, isso porque a norma visa a assegurar maior efetividade aos atos processuais sem, contudo, por qualquer modo, prejudicar a parte ré impossibilitando-lhe, a exemplo, o exercício do contraditório e da ampla defesa.
+
+3. Evidenciado pelo conjunto probatório que o réu não residia no local para onde encaminhada a citação por carta com AR, é de ser decretada a nulidade da citação e de todos os subsequentes atos praticados no processo. Sentença cassada.
+
+4. Recurso conhecido e provido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 1ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, DIVA LUCY DE FARIA PEREIRA - Relatora, CARLOS PIRES SOARES NETO - 1º Vogal e CARLOS ALBERTO MARTINS FILHO - 2º Vogal, sob a Presidência da Senhora Desembargadora DIVA LUCY DE FARIA PEREIRA, em proferir a seguinte decisão: CONHECER DO RECURSO E DAR-LHE PROVIMENTO PARA CASSAR A SENTENÇA. DECISÃO UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 05 de Abril de 2024
+
+Desembargadora DIVA LUCY DE FARIA PEREIRAPresidente e Relatora
+
+RELATÓRIO
+
+Trata-se de apelação cível interposta por Francisco Alves Bezerra Neto contra sentença (Id 50498804) proferida pelo juízo da 10ª Vara Cível de Brasília na ação de cobrança ajuizada por Walter Flores de Melo Junior em desfavor do ora apelante.
+
+Na inicial, o autor/apelado sustentou ter firmado Instrumento Particular de Promessa de Compra e Venda de Direitos e Obrigações relativamente ao imóvel situado na QRSW 02, Bloco A-10, Apartamento 204, Setor Sudoeste, Brasília/DF, registrado no Cartório do 1º Ofício de Registro de Imóveis de Brasília/DF, sob a matrícula n. 95.760. Disse que o réu/apelante não cumpriu as obrigações ajustadas pelo não pagamento de prestações pecuniárias devidas para os meses de 05/2018 a 08/2018, bem como pela falta de quitação do IPTU/TLP. Informa que, configurado o inadimplemento, ingressou com a presente ação de cobrança, em que requer a condenação do adquirente ao pagamento da quantia de R$ 111.980,84 (cento e onze mil novecentos e oitenta reais e oitenta e quatro centavos).
+
+Na sentença, o juízo reconheceu a revelia do réu/apelante e julgou procedentes os pedidos formulados na petição inicial para "condenar a parte requerida ao pagamento das parcelas inadimplidas do contrato, corrigidas monetariamente pelo INPC e acrescidas de juros de mora de 1% ao mês a partir dos respectivos vencimentos. Sobre o montante devido deverá incidir a multa contratual de 10%. Condeno o réu, ainda, a arcar com o pagamento dos débitos relativos ao IPTU/TLP do imóvel". Diante da sucumbência, condenou o réu/revel ao pagamento das custas processuais e honorários advocatícios, fixados em 10% sobre o valor da condenação, na forma do artigo 85, caput e § 2º, do CPC.
+
+Em razões recursais (Id 50498807), o apelante, após apresentar sua narrativa dos fatos, sustenta, em suma, a nulidade da citação. Afirma que teve ciência da sentença de forma fortuita ao realizar pesquisas na internet. Declara que não ter sido citado. Esclarece que sua patrona, ao verificar os autos, observou ter sido juntado AR recebido por pessoa desconhecida do ora apelante. Alega que o endereço de entrega do AR não corresponde ao local de sua residência. Informa não residir mais no condomínio ali indicado desde outubro de 2018. Aduz ser nula a citação. Invoca o art. 280 do CPC. Alega prejuízo com a citação entregue a terceiros, pois não teve ciência do ato que o chamava a se defender em tempo hábil.
+
+Ao final, requer o conhecimento e provimento do recurso “para que seja, nula r. sentença de primeira instancia, anulando todos os atos da ação de cobrança, tornando improcedente os pedidos do autor, caso não seja o entendimento dos Nobres Desembargadores deste Egrégio Tribunal, seja concedido a nulidade da citação referida, reabrindo-se o prazo para contestação”.
+
+Os documentos de Ids 50498810 ao 50498812 instruem a peça recursal.
+
+Preparo recolhido (Ids 50498809).
+
+Contrarrazões pelo desprovimento da apelação (Id 50498815).
+
+É o relatório.
+
+VOTOS
+
+A Senhora Desembargadora DIVA LUCY DE FARIA PEREIRA - Relatora
+
+Conheço da apelação, porque os requisitos de admissibilidade estão atendidos. Recebo-a nos efeitos devolutivo e suspensivo, com fundamento nos artigos 1.012, caput, e 1.013 do Código de Processo Civil.
+
+Inexistindo questão preliminar, passo ao exame do mérito recursal.
+
+O apelante sustenta, em suma, a nulidade da citação. Afirma ter tido ciência da sentença de forma fortuita, ao realizar pesquisas na internet. Diz não ter sido citado. Denuncia ter sido o AR da citação que lhe fora destinada recebido por pessoa desconhecida, porquanto desde outubro de 2018 não reside no endereço para o qual encaminhada a missiva.
+
+Assim, a controvérsia está em aferir a validade da citação do réu, ora apelante, para responder à lide consubstanciada no presente feito.
+
+O artigo 248 do CPC estabelece que, deferida a citação pelo correio, o escrivão ou o chefe de secretaria remeterá ao citando cópias da petição inicial e do despacho do juiz e comunicará o prazo para resposta, o endereço do juízo e o respectivo cartório.
+
+Tratando-se de condomínio edilício, o § 4º prevê a validade da entrega do mandado de citação por carta ao empregado que trabalhe na portaria do condomínio e que seja responsável pelo recebimento de correspondência, que, entretanto, poderá recusar o recebimento, se declarar, por escrito, sob as penas da lei, que o destinatário da correspondência está ausente.
+
+Conforme entendimento jurisprudencial, há presunção relativa de veracidade do ato de citação realizado pelo recebimento sem ressalvas da carta de citação por AR pelo empregado da portaria. Quer isso significar que dita presunção poderá ser afastada por prova em sentido contrário. Confira-se:
+
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CITAÇÃO. FORMA PRESCRITA EM LEI. ART. 248, §4º DO CPC. MUDANÇA DE DOMICÍLIO À ÉPOCA DO CUMPRIMENTO. COMPROVADA. NULIDADE RECONHECIDA. RECURSO CONHECIDO E PROVIDO.   1. No que tange a citação pelos correios, entregue em condomínio edilício, dispõe o art. 248, §4º do NCPC: "Nos condomínios edilícios ou nos loteamentos com controle de acesso, será válida a entrega do mandado a funcionário da portaria responsável pelo recebimento de correspondência, que, entretanto, poderá recusar o recebimento, se declarar, por escrito, sob as penas da lei, que o destinatário da correspondência está ausente". 2. Tal presunção de validade da citação é relativa e pode ser desconstituída mediante prova inequívoca de que o ato não tenha se aperfeiçoado. 3. A partir do conjunto probatório acostado aos autos, verifica-se que a correspondência foi recebida na portaria do condomínio, onde os réus não mais residiam antes do cumprimento, assim, declara-se a nulidade do processo a partir daquele ato processual inclusive, de modo a assegurar o direito constitucional a ampla defesa e ao contraditório (art. 293, §1º c/c art. 280, CPC). 4. RECURSO CONHECIDO E PROVIDO.  (Acórdão 1602081, 07053179720228070000, Relator: LUÍS GUSTAVO B. DE OLIVEIRA,  3ª Turma Cível, data de julgamento: 4/8/2022, publicado no DJE: 24/8/2022. Pág.:  Sem Página Cadastrada.)
+
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. INADIMPLÊNCIA. CITAÇÃO. AR. RECEBIMENTO POR TERCEIRO. ART. 248, § 4º DO CPC/2015. CONDOMÍNIO EDILÍCIO. FUNCIONÁRIO DA PORTARIA. PROVA. AUSÊNCIA. INTERPRETAÇÃO MITIGADA. PERIGO DE DANO. 1. A citação, em regra, deve ser realizada por carta, sendo excepcionada nos casos de ações de estado, endereço não atendido pelos correios, requerimento justificado pelo autor, bem como na hipóteses em que figurem em um dos polos pessoa de direito público ou incapaz (art. 247, incisos do CPC/2015). 2. O § 4º do art. 248 do CPC/2015 possibilita a entrega de mandado de citação a funcionário da portaria responsável pelo recebimento de correspondência, quando esta for realizada em condomínios edilícios ou em loteamentos com controle de acesso. 3. No caso, ausente prova de que o AR foi, de fato, firmado por "funcionário da portaria responsável pelo recebimento de correspondência", conforme determina o § 4º do art. 248 do CPC/2015, inviável a validação do ato citatório. 4. Interpreta-se de forma mitigada o teor do § 4º do art. 248 do CPC/2015 quando tratar-se de citação em processo executivo, dada a possibilidade de constrição de bens, geradora de perigo de dano grave ou de difícil reparação. 5. Agravo conhecido e desprovido. (Acórdão 1016886, 20160020462235AGI, Relator: DIAULAS COSTA RIBEIRO,  8ª TURMA CÍVEL, data de julgamento: 11/5/2017, publicado no DJE: 22/5/2017. Pág.: 920/930)
+
+No caso, o contrato firmado entre as partes (Id 50498793) e o AR (Id 50498803) indicam residir o réu/apelante em condomínio edilício, situado na DF 140, Km 6, Condomínio Residencial Reserva Santa Mônica, Rua Travessa Itiquira, Casa 2, Jardim Botânico, Brasília/DF, CEP: 71684-674.
+
+O AR para lá encaminhado foi recebido em 12 de junho de 2023 e assinado por Thainá S. Cruz, pessoa que afirma o réu/apelante desconhecer. No endereço diligenciado alegou e comprovou não mais residir desde outubro de 2018 não mais residir. Demonstrou, ainda, não frequentar nem ter acesso ao local onde antes residiu, qual seja: Condomínio Residencial Reserva Santa Mônica, localizado Rua Travessa Itiquira, Casa 2, Jardim Botânico, Brasília/DF, CEP: 71684-59; prova essa trazida por  declaração emitida pela Gerente Administrativa da Associação Dos Proprietários do Residencial Santa Mônica e juntada aos autos com o recurso de apelação (Id 50498807).
+
+Pois bem, conquanto o § 4º do art. 248 do CPC valide a citação realizada por entrega da correspondência citatória ao porteiro do condomínio edilício, é mister verificar se ao tempo de efetivação desse ato o citando residia no local. Afinal, a norma visa a assegurar maior efetividade aos atos processuais sem, todavia, por qualquer modo prejudicar a parte ré impossibilitando-lhe, a exemplo, o exercício do contraditório e da ampla defesa.
+
+No caso, em sede de contrarrazões, o apelado não impugnou a declaração apresentada pelo apelante para comprovar que ao tempo em que citado pelo correio, via carta com AR, não mais residia no local. Também não consta dos autos prova de que a pessoa que assinou o AR tenha algum vínculo com o condomínio edilício no qual foi entregue a citação.
+
+Deve, portanto, ser afastada a presunção de validade do ato citatório, diante da dúvida razoável se a correspondência encaminhada para endereço no qual o réu não mais residia foi-lhe efetivamente entregue.
+
+Nesse sentido, é o entendimento do Superior Tribunal de Justiça:
+
+RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CITAÇÃO. NULIDADE. FUNCIONÁRIO DA PORTARIA. ENTREGA. DOCUMENTO ESCRITO. PRESUNÇÃO RELATIVA. PROVA EM CONTRÁRIO. ADMITIDA. 1. Ação de cobrança ajuizada em 30/06/2016, da qual foi extraído o presente recurso especial, interposto em 08/08/2022 e concluso ao gabinete em 10/05/2023. 2. O propósito recursal é decidir se é absoluta a presunção de validade da citação entregue a funcionário da portaria do condomínio sem declaração por escrito que o citando está ausente. 3. O art. 248, §4º, do CPC determina que nos condomínios edilícios ou nos loteamentos com controle de acesso, será válida a entrega do mandado a funcionário da portaria responsável pelo recebimento de correspondência, que, entretanto, poderá recusar o recebimento, se declarar, por escrito, sob as penas da lei, que o destinatário da correspondência está ausente. 4. A jurisprudência deste STJ é assente no sentido de que a expedição da carta, mandato ou edital é apenas parte da citação, que somente irá se perfazer quando o demandado efetivamente receber a informação. 5. Presume-se relativamente válida a citação entregue sem ressalvas ao funcionário da portaria, de forma a possibilitar ao réu alegar e comprovar sua ausência ao tempo da entrega da carta no condomínio, na primeira oportunidade que lhe couber manifestar-se nos autos, sob pena de preclusão (art. 278 do CPC). 6. Na espécie, a citação foi entregue a funcionário da portaria sem ressalvas, contudo, um oficial de justiça já havia afirmado que o réu não residia naquele endereço antes mesmo do ajuizamento da presente ação. Dessa forma, afasta-se a presunção de validade da citação. 7. Recurso especial conhecido e provido. (REsp n. 2.069.123/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 3/10/2023, DJe de 9/10/2023.) grifo nosso
+
+No mesmo sentido, é o entendimento deste Tribunal de Justiça:
+
+APELAÇÃO CÍVEL. PROCESSUAL CIVIL. CITAÇÃO. IMPOSSIBILIDADE DE LOCALIZAÇÃO NO ENDEREÇO. CIRCUNSTÂNCIA CONHECIDA PELA PARTE AUTORA E NÃO INFORMADA NA PETIÇÃO INICIAL. PRINCÍPIO DA BOA FÉ E COOPERAÇÃO. INOBSERVÂNCIA. CITAÇÃO POSTAL. SUPERVENIENTE DECRETAÇÃO DA REVELIA. PRESUNÇÃO DE RECEBIMENTO DA CARTA. CERCEAMENTO DE DEFESA. NULIDADE VERIFICADA. APELAÇÃO CONHECIDA E PROVIDA. SENTENÇA CASSADA - A citação por via postal está disciplinada no art. 248, do Código de Processo Civil. Considera-se válida a diligência quando, em se tratando de condomínio edilício, o mandado for entregue ao funcionário da portaria responsável pelo recebimento de correspondência. - O Código de Processo Civil, de forma expressa, impõe aos sujeitos do processo devem se comportar de acordo com a boa-fé, assim como cooperar na busca da razoável duração do processo e sua efetividade (artigos 5º e 6º do CPC). - Constitui deslealdade processual o comportamento da parte que, ao ajuizar a ação, indica endereço para citação do réu sabendo que o endereço deixou de figurar como seu domicílio, mas ainda assim deixa de informar essa circunstância ou requerer a citação pessoal por oficial de justiça, e silencia quando decretada a revelia por força da presunção legal decorrente da entrega da carta pelos Correios. - Constatado que a conduta da autora ensejou o cerceamento da defesa, por violação ao princípio do contraditório, impõe-se o reconhecimento da nulidade de todos os atos processuais praticados após a citação do réu. - RECURSO CONHECIDO E PROVIDO. SENTENÇA CASSADA. (Acórdão 1767730, 07201761820228070001, Relator: LUÍS GUSTAVO B. DE OLIVEIRA,  3ª Turma Cível, data de julgamento: 11/10/2023, publicado no DJE: 19/10/2023.) grifo nosso
+
+PROCESSUAL CIVIL. AÇÃO DE DESPEJO CUMULADA COM COBRANÇA DE ALUGUERES E ACESSÓRIOS LOCATÍCIOS. FIADOR. CITAÇÃO PELA VIA POSTAL. REVELIA. RECONHECIMENTO. COMPARECIMENTO ESPONTÂNEO DO RÉU APÓS A PUBLICAÇÃO DA SENTENÇA. NULIDADE DE CITAÇÃO. ARGUIÇÃO. DOMICÍLIO INDICADO APÓS PESQUISA NO SISTEMA E-RIDF. ENDEREÇO INCORRETO. AVISO DE RECEBIMENTO ASSINADO POR TERCEIRO NÃO LEGITIMADO. NULIDADE. ACOLHIMENTO. ATOS SUBSEQUENTES À CITAÇÃO NULA. REPERCUSSÃO. DESCONSTITUIÇÃO DA SENTENÇA. IMPERATIVO LEGAL (CPC, ART. 281). RETOMADA DO FLUXO PROCESSUAL. VÍCIO INSANÁVEL. PRAZO PARA O OFERECIMENTO DE RESPOSTA DEFENSIVA. IMPERATIVO LEGAL. FÓRMULA DE RESTABELECIMENTO DO DEVIDO PROCESSO LEGAL. APELO PROVIDO. SENTENÇA CASSADA.  1. A citação, destinando-se a cientificar o réu das imputações que lhe são direcionadas e da pretensão manifestada em seu desfavor, assegurando-lhe o exercício do amplo direito de defesa e ao contraditório que lhe são resguardados, preservando-se o devido processo legal, se qualifica como o ato que está impregnado na gênese do processo e sem o qual não se aperfeiçoa a relação processual, invibializando a caracterização da lide, revestindo-se, ante a sua relevância, de forma especial sem cuja observância não se perfaz de forma eficaz (CPC, arts. 239, 250 e 334).   2. Consumada a citação pela via postal em endereço obtido pela via eletrônica, não tendo o aviso de recebimento sido firmado pelo citando, que, ademais, evidenciara que não guarda nenhum liame com o recebedor do mandado e não reside no endereço no qual fora entregue, denotando que não fora eficazmente cientificado da ação que lhe é promovida, o ato citatório assim aperfeiçoado não se reveste dos contornos formais e materiais indispensáveis à sua eficácia, determinando sua invalidação, com reflexo nos atos subsequentes, inclusive com a desconstituição da sentença, de forma a ser restabelecido o devido processo legal.  3. Ressoando impassível a constatação da nulidade da citação postal do réu, pois possuía endereço certo, e, contudo, não fora devidamente citado no local de seu domicílio, comprometendo, assim, a higidez do devido processo legal, pois culminara com a afirmação da revelia e o acolhimento da pretensão autoral que fora deduzida em seu desfavor, restando obstado o exercício do direito de defesa que lhe é assegurado constitucionalmente, deve o vício ser saneado, mediante desconstituição dos atos processuais posteriores ao ato nulo.   4. Conquanto não encerre postura afinada com os primados éticos e com o princípio da cooperação trasmudado em vetor do moderno processo civil, a postura do patrono que, conquanto detentor de mandato outorgado pela parte ré, acompanha a marcha processual, acessando o processo pelas facilidades que o sistema eletrônico permite, mas sem ingressar formalmente nos autos, expectando o trânsito processual e deixando para alegar o vício havido somente em recurso, ao invés de denunciá-lo antes do advento da sentença, essa vigília, não tendo se transformado em comparecimento formal, não supre a nulidade em que incidira o processo por ter transcorrido à revelia do patrocinado citado, via AR, em endereço que não corresponde ao seu atual domicílio.  5. Apelação conhecida e provida. Sentença cassada. Unânime. (Acórdão 1426377, 07033931920208070001, Relator: TEÓFILO CAETANO,  1ª Turma Cível, data de julgamento: 25/5/2022, publicado no DJE: 15/6/2022. Pág.:  Sem Página Cadastrada.)
+
+Assim, comprovado nos autos que o réu não mais residia no endereço em que o AR foi recebido na portaria do condomínio, o recurso deve ser provido para cassar a sentença e determinar o retorno dos autos à origem, para permitir a contestação e instrução do processo.
+
+Com essas considerações, conheço do recurso e a ele DOU PROVIMENTO para decretar a nulidade da citação feita por via postal (carta com AR) e, por conseguinte, de todos os atos processuais subsequentemente praticados nos autos do processo de origem.
+
+Em razão disso, casso a sentença recorrida e determino retome o processo seu curso a contar da intimação a ser feita ao réu/apelante, por publicação, para, querendo, contestar o pedido inicial, no prazo legal. Assim estabeleço porque o comparecimento espontâneo do demandado ao processo torna desnecessária determinação para que seja repetido seu chamamento ao feito para oferecer defesa.
+
+É como voto.
+
+O Senhor Desembargador CARLOS PIRES SOARES NETO - 1º Vogal Com o relatorO Senhor Desembargador CARLOS ALBERTO MARTINS FILHO - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER DO RECURSO E DAR-LHE PROVIMENTO PARA CASSAR A SENTENÇA. DECISÃO UNÂNIME
