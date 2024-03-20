@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo manejado pela COMPANHIA DE TRANSPORTES SOBRE TRILHOS DO ESTADO DO RIO DE JANEIRO - RIOTRILHOS contra decisão do Presidente do Tribunal de Justiça do Estado do Rio de Janeiro que inadmitiu o apelo especial ante a ausência de prequestionamento dos artigos 1º-F da Lei nº 9.494/97 combinado com art. 2º da LC 101 de 2000.
+A agravante, em síntese, alega que deve ser reconhecido o prequestionamento implícito, na medida "a questão jurídica de que tratam os dispositivos legais apontados como violados por meio do Recurso Especial foi devidamente apreciada nos acórdãos de fls. 37/40 e 78/81." (fls. 326/327).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois a parte agravante não impugnou o motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial, pois no agravo em recurso especial, a parte agravante cuidou apenas de sustentar, de modo genérico, ter havido o prequestionamento das questões agitadas no especial apelo, sem colacionar trecho do aresto recorrido em que, efetivamente, tenha havido o indispensável debate da matéria federal.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Registre-se que a Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP (Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/09/2018, DJe 30/11/2018), reforçou a compreensão de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo, por aplicação da Súmula 182.
+ANTE O EXPOSTO, não conheço do agravo.
+EMENTA
