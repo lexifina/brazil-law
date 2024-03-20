@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por LAURI SCHOENHERR contra decisão oriunda do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA que negou seguimento ao recurso especial.
+Ao se manifestar nos autos, o Ministério Público Federal elaborou o relatório a seguir transcrito (e-STJ fls. 553/555):
+Consta dos autos que o Ministério Público interpôs ação penal pública em face da ora Agravante, imputando-lhe a prática do ilícito penal previsto no art. 10, da Lei nº 7347/85, tendo o juízo de piso julgado improcedente a pretensão veiculada na ação para absolver o acusado do delito que lhe foi imputado.
+Em face da r. sentença absolutória, o Parquet Estadual manejou o competente recurso de apelação, ao qual foi dado provimento pelo Tribunal a quo, nos termos da seguinte ementa:
+APELAÇÃO CRIMINAL. CRIME DE RECUSA,RETARDAMENTO E OMISSÃO NO ENVIO DE DADOSTÉCNICOS REQUISITADOS PELO MINISTÉRIO PÚBLICO(ART. 10 DA LEI N. 7.347/85). ABSOLVIÇÃO EMPRIMEIRO GRAU. RECURSO DA ACUSAÇÃO. PRELIMINAR: INTEMPESTIVIDADE APRESENTADANAS CONTRARRAZÕES. INOCORRÊNCIA. SÚMULA 418DO SUPERIOR TRIBUNAL DE JUSTIÇA APLICÁVELQUANDO PROVIDO OS EMBARGOS DE DECLARAÇÃOCOM EFEITO MODIFICATIVO DA SENTENÇA. RECURSODE APELAÇÃO TEMPESTIVO. PRECEDENTES DESTE TRIBUNAL E DO SUPERIOR TRIBUNAL DE JUSTIÇA." ..  a única interpretação cabível para o enunciado da Súmula418 do STJ é aquela que prevê o ônus da ratificação do recurso interposto na pendência de embargos declaratórios apenas quando houver alteração na conclusão do julgamento anterior.7. Questão de ordem aprovada para o fim de reconhecer a tempestividade do recurso de apelação interposto no processo de origem. (REsp 1129215/DF, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 16/09/2015, D Je03/11/2015)".
+MÉRITO: PLEITO PARA CONDENAÇÃO DO RÉU NOSTERMOS DA EXORDIAL ACUSATÓRIA. RECUSA DOFORNECIMENTO DOS CONTRATOS E NOTAS FISCAISPARTICULARES DO RÉU COM TERCEIROS QUE ERAMRELATIVOS A CONTRATO COM ENTE PÚBLICO. DOCUMENTOS INEXISTENTES NO PROCESSO DEDISPENSA DE LICITAÇÃO. REQUISIÇÃO DOMINISTÉRIO PÚBLICO POR MEIO DE OFÍCIO QUEMENCIONAVA SEREM OS DOCUMENTOSINDISPENSÁVEIS AO AJUIZAMENTO DA AÇÃO CIVILPÚBLICA. CLARA RECUSA DO RÉU NOFORNECIMENTO. RESPOSTAS DO RÉU QUE NÃO OEXIMEM DA RESPONSABILIDADE DE APRESENTAR OSDOCUMENTOS REQUISITADOS. DOCUMENTOS QUE SEENCAIXAM NO CONCEITO DE DADOS TÉCNICOS, POISAPENAS A PRÓPRIA EMPRESA MANTINHA A GUARDADE TAIS INFORMAÇÕES, QUE NÃO PODERIAM SERACESSADAS DE OUTRO MODO. DELITO DO ARTIGO 10DA LEI N. 7.347/85.
+RECURSO CONHECIDO E PROVIDO.
+Opostos embargos de declaração pela defesa, os mesmos foram rejeitados (fls. 424/430).5.
+Em sede de recurso especial, manejado com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, a defesa aponta contrariedade ao art. 10 da Lei nº 7.347/85 e ao art. 8º, inciso 2, letra "G" da Convenção Americana Sobre Direitos Humanos (Pacto de San José da Costa Rica), requerendo o provimento do presente recurso para que o recorrente seja absolvido.
+Todavia, a decisão ora agravada negou seguimento ao apelo nobre com esteio nas Súmulas nº 7 e 83 do STJ e nas Súmulas nº282, 283 e356 do STF.7.
+Adveio o presente agravo de fls. 473/483, em cujas razões o Agravante alega, preliminarmente, a prescrição da pretensão punitiva do crime lhe foi imputado, além da não incidência dos óbices sumulares apontados.
+Apresentada a contraminuta às fls. 487/495, os autos subiram a esse C. Superior Tribunal de Justiça e vieram com vista ao Ministério Público Federal.
+Ao final, emitiu parecer pelo desprovimento do recurso.
+É, em síntese, o relatório.
+De início, esclareço, na linha do Parquet, que o recurso especial é admissível.
+No mais, verifico que a presente insurgência perdeu seu objeto, pois a pena aplicada ao agravante foi de 1 ano reclusão. Assim, nos t ermos o art. 109, V, do Código Penal, o prazo prescricional é de 4 anos. E, no caso, o último marco interruptivo foi o julgamento dos embargos de declaração opostos contra o acórdão condenatório, cuja sessão ocorreu no dia 30/8/2018.
+Ante o exposto, julgo prejudicado o recurso e declaro extinta a punibilidade do agravante.
+Publique-se. Intimem-se.
+EMENTA
