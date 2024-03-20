@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+Prestação de serviços - Indeferimento da inicial com extinção da ação afastados - Administração do negócio que deveria ocorrer conjuntamente pelos dois sócios - Procuração ad judicia outorgada por apenas um dos sócios - Irrelevância - Inexigência de subscrição de procuração para o ajuizamento desta ação por todos os representantes que seriam obrigatórios para atos negociais - Extinção afastada - Necessidade de retorno dos autos ao primeiro grau para saneamento, análise e produção de provas, bem assim ulterior julgamento de mérito - Provimento.
+Opostos embargos de declaração, esses foram rejeitados na origem.
+Nas razões do especial, aponta a agravante violação dos artigos 9º, 10, 104, 223, 502, 503, 505, 507, 508, 933 e 1.022 do Código de Processo Civil; 381, 942, 1.014, 1.015, 1.018, 1.022 e 1.060 do Código Civil, alegando a ocorrência de negativa de prestação jurisdicional com a rejeição dos embargos de declaração sem suprimento de omissão relativa à preclusão quanto à ausência de regularização de representação no prazo legal pela parte adversa, além do necessário saneamento de tal vício para o prosseguimento do feito.
+Alega que houve violação do princípio da não surpresa, dada a incongruência entre as razões do recurso e os fundamentos adotados no acórdão estadual.
+Defende que a representação judicial deve ser outorgada pelos dois sócios, haja vista que o título judicial formado em ação anterior não admitiu a exclusão de um deles.
+Aduz a preclusão da matéria, haja vista a parte adversa não ter se manifestado no prazo legal.
+Da análise dos autos, observo que suas alegações de ofensa à lei federal não merecem prosperar.
+De início, no tocante à preliminar, não observo omissão no acórdão, senão julgamento contrário aos interesses da agravante, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência.
+Esclareça-se que não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento. Para tanto, basta o pronunciamento acerca dos fatos controvertidos, o que se observa no presente caso, havendo fundamentação acerca da inexigência de representação por ambos os sócios para mera outorga de procuração, bem como da interpretação do título judicial formado por ação anterior, revelando que os motivos da decisão encontram-se objetivamente fixados nas razões do acórdão recorrido.
+De modo que não há se falar em decisão surpresa, até porque "não constitui julgamento surpresa o lastreado em fundamentos jurídicos, ainda que diversos dos apresentados pelas partes, desde que embasados em provas submetidas ao contraditório" (Enunciado nº 6 aprovado no Seminário "O Poder Judiciário e o Novo Código de Processo Civil", realizado pela Escola Nacional de Formação e Aperfeiçoamento de Magistrados - ENFAM).
+Confiram-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CIVIL. AÇÃO COLETIVA. SEGURO DE VIDA EM GRUPO. SEGURADORA. NÃO RENOVAÇÃO. ABUSIVIDADE. AUSÊNCIA. NATUREZA DO CONTRATO (MUTUALISMO E TEMPORARIEDADE). CLÁUSULA CONTRATUAL. EXISTÊNCIA. PRAZO RAZOÁVEL. SEGURADO. NOTIFICAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A Segunda Seção do Superior Tribunal de Justiça firmou o entendimento de não ser abusiva a cláusula contratual que prevê a possibilidade de não renovação automática do seguro de vida em grupo por qualquer dos contratantes desde que haja prévia notificação em prazo razoável.
+3. O exercício do direito de não renovação do seguro de vida em grupo pela seguradora não fere o princípio da boa-fé objetiva e independe de comprovação do desequilíbrio atuarial-financeiro, mesmo porque o mutualismo e a temporariedade são ínsitos a essa espécie de contrato. Precedentes.
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1805239/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 18/3/2021)
+EMBARGOS DE DECLARAÇÃO. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA. PRINCÍPIO DA NÃO SURPRESA. AUSÊNCIA DE OFENSA. EFEITOS MODIFICATIVOS. USO DE EMBARGOS DECLARATÓRIOS PARA CONFORMAÇÃO A JULGAMENTO EM REPETITIVO. APLICAÇÃO RESTRITIVA.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. O "fundamento" ao qual se refere o art. 10 do CPC/2015 é o fundamento jurídico - circunstância de fato qualificada pelo direito, em que se baseia a pretensão ou a defesa, ou que possa ter influência no julgamento, mesmo que superveniente ao ajuizamento da ação - não se confundindo com o fundamento legal (dispositivo de lei regente da matéria). A aplicação do princípio da não surpresa não impõe, portanto, ao julgador que informe previamente às partes quais os dispositivos legais passíveis de aplicação para o exame da causa.
+O conhecimento geral da lei é presunção jure et de jure.
+3. O acolhimento dos embargos de declaração com efeitos modificativos para fim de adequação a precedente julgado em recurso repetitivo tem como pressuposto que a tese repetitiva seja anterior ao julgado embargado. Somente assim se poderia considerar que o acórdão embargado tivesse se omitido na consideração da orientação firmada no recurso repetitivo. Precedente da Corte Especial: EAg 1.014.027/RJ, rel. Ministro Jorge Mussi, DJe 26.10.2016.
+4. Ademais, tal efeito modificativo somente se justificaria, de forma excepcional, se se cuidasse da mesma matéria julgada no repetitivo. Os embargos de declaração não se prestam à aplicação analógica de tese repetitiva, o que deve ser buscado na via processual adequada.
+5. Embargos de declaração rejeitados.
+(EDcl no REsp 1280825/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 1º/8/2017)
+Quanto ao mérito do presente recurso, a Corte estadual, ao analisar as circunstâncias fáticas e o conjunto probatório produzido, assim decidiu (fls. 713-714, e-STJ):
+Respeitado, porém, o convencimento do i. magistrado sentenciante, no que tange à representação processual decorrente de simples outorga de procuração ad judicia, tenho que não se exige a subscrição de todos os representantes que seriam obrigatórios para atos negociais, onde caberia perquirir sobre a administração em conjunto.
+Note-se que a exigência de outorga também por Daniel seria, inclusive, incompatível com a pretensão inicial, que alega concorrência desleal da sociedade ré mediante participação de Daniel, então sócio da autora.
+De rigor, portanto, afastar-se a extinção e o indeferimento da inicial, para que o procedimento siga o regular curso, com o saneamento do feito e abertura da instrução processual.
+De fato, a decisão de fls. 517/520 deixou clara a imaturidade do feito para julgamento. Houve a especificação de provas a fls. 525/541, mas a decisão de fls. 542/544, antes da análise dos requerimentos de provas e do próprio saneamento, voltou-se a determinação sobre a regularização da representação processual da autora, que culminou com a sentença extintiva de fls. 619/620, aqui reformada.
+E diante dos requerimentos formulados em primeiro grau, cabível a análise e produção das provas pertinentes pretendidas pelas partes, para posterior decisão de mérito.
+Dessa forma, ao contrário do alegado neste recurso especial, o Tribunal de origem, após minudente análise do conjunto fático-probatório, concluiu pela nulidade da prestação jurisdicional do Juízo sentenciante, considerando existir vício sanável, além de determinar a retomada da instrução probatória.
+A revisão do entendimento destes pontos, nos moldes das questões factuais, demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é vedado, em sede de recurso especial, ante o óbice da Súmula 7 do Superior Tribunal de Justiça.
+No mesmo sentido:
+CIVIL E PROCESSO CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL.
+AÇÃO INDENIZATÓRIA. VIOLAÇÃO DOS ARTS. 165 e 458, II, 515 e 535 DO CPC/73. APLICAÇÃO DA SÚMULA N. 284/STF. LEGITIMIDADE ATIVA. DANOS MORAIS. JULGAMENTO ANTECIPADO. IMPOSSIBILIDADE. DILAÇÃO PROBATÓRIA DETERMINADA NA ORIGEM. REVISÃO. SÚMULA N. 7/STJ 1. Aplica-se a Súmula n. 284 do STF quando, em prejuízo da compreensão da controvérsia, a parte não demonstra, com clareza e precisão, a necessidade de reforma do acórdão recorrido no que se refere à alegada ofensa ao art. 535 do CPC/73.
+2. Inviável rever o entendimento firmado na origem se a análise demandar a incursão no acervo fático-probatório dos autos.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 321.866/SP, relator Ministro João Otávio de Noronha, Terceira Turma, DJe de 30/6/2016)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
+EMENTA
