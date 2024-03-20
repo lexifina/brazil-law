@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JOS  PUPIN E VERA LÚCIA CAMARGO PUPIN contra decisão que, corrigindo erro material e sob novos fundamentos, negou provimento ao recurso especial por eles interposto (e-STJ, fls. 600/605).
+Sustenta a parte embargante que houve omissão quanto à alegação de que a parte embargada não cumpriu com seu ônus de propor a ação principal no prazo legal.
+Afirmam que "tratou-se de ação cautelar ajuizada pelo Embargado em 30/09/2015, ou seja, ainda na vigência da lei processual antiga. Importa dizer que a própria decisão que deferiu a liminar também foi proferida na vigência do CPC de 1973" (e-STJ, fl. 612).
+Argumentam que "nos termos do que dispunha o artigo 806 do pretérito diploma, o requerente da ação cautelar tinha o dever de ingressar com a ação principal em um prazo máximo de 30 (trinta) dias contados da concessão da liminar, uma vez que a ação cautelar é a garantia do cumprimento de uma retenção jurisdicional a ser posteriormente requerida, sendo necessária existência dessa para que aquela se consolide, sendo certo que a consequência do não cumprimento do previsto pelo artigo 806 era positivada pelo artigo 808, inciso I, do mesmo Código, o que acarretava na perda da liminar conferida e consequente extinção da demanda cautelar" (e-STJ, fl. 613).
+Aduzem que, "em que pese o Tribunal a quo ter verificado que foi o autor, ora embargado, quem deixou de cumprir com seu mister processual, a conclusão foi completamente equivocada e ilógica ao condenar os requeridos, ora embargantes, ao pagamento de todos os ônus sucumbenciais" (e-STJ, fl. 614).
+Asseveram que "a tese adotada no julgamento do Recurso Especial foi de que o Tribunal a quo estava correto em sua análise, uma vez que não divergia dos precedentes do STJ em relação ao princípio da causalidade, porém, o cerne da questão se dá não apenas no fato de que, supostamente, foram os autores quem deram causa à demanda, mas também que o Embargado não cumpriu com o disposto em lei e não ajuizou a ação principal dentro do prazo legal de 30 dias" (e-STJ, fl. 615).
+Requerem "a apreciação dos argumentos lançados pelos recorrentes em relação a inversão do ônus sucumbencial, haja vista ser fato incontroverso que foi a autora, ora embargada, quem não cumpriu com a sua obrigação de apresentar a ação principal dentro do prazo de 30 dias" (e-STJ, fl. 615).
+Impugnação não foi apresentada conforme certidão à fl. 623.
+Assim delimitada a questão, passo a decidir.
+A decisão embargada enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e suficiente, razão pela qual não merece reparo algum, conforme se depreende de seus próprios fundamentos, a seguir transcritos (e-STJ, fls. 603/604):
+(..)
+No caso dos autos, Basf S/A ajuizou a presente medida cautelar de arresto preparatória para ação de execução por quantia certa contra José Pupin e Vera Lúcia Camargo Pupin, buscando a constrição de bens de propriedade dos demandados a fim de assegurar a efetividade de uma futura execução por quantia certa.
+A sentença acolheu pedido de extinção do feito e condenou os réus ao pagamento das custas e despesas processuais, bem como em honorários advocatícios, estes fixados em 10% sobre o valor da causa.
+O Tribunal de origem entendeu não ser possível acolher a tese dos recorrentes de que devem ser excluídos da condenação ao pagamento da verba honorária, porquanto foi a parte ré quem deu causa à demanda, de forma que deve arcar com o ônus de sucumbência em caso de extinção da ação. Cumpre transcrever a fundamentação do acórdão recorrido (e-STJ, fls. 265/267):
+Conforme relatado cuida-se de Apelação Civil interposta por JOSÉ PUPIN e VERA LÚCIA CAMARGO PUPIN, em face de sentença que, nos autos de Medida Cautelar de Arresto Preparatório para Ação de Execução por Quantia Certa nº 0000891-69.2015.811.0048, Código: 28194, proposta por BASF S/A, ACOLHENDO pedido de extinção do feito, EXTINGUIU a ação e CONDENOU o Requerido/Apelante ao pagamento das custas e despesas processuais bem como em honorários advocatícios, estes fixados em 10% sobre o valor da causa.
+Verifica-se que a questão que envolve o feito consiste em analisar e dirimir se está ou não correta a sentença, no que tange à condenação ao pagamento de custas e despesas processuais, bem como honorários advocatícios, a serem pagos pelo Requerido, ora Apelante.
+Pois bem.
+De acordo com o princípio da causalidade, quem deve arcar com o ônus de sucumbência, em caso de extinção da ação, em que não há condenação, é quem deu causa à demanda, no caso, os Requeridos, ora Apelantes, tanto que, inclusive, foi deferido o pleito liminar, o qual, posteriormente, ficou sem efeito, pois a ação principal não foi proposta no prazo legal.
+Entretanto, mesmo o autor da Cautelar não tendo se desincumbido de seu mister, qual seja, de apresentar a peça principal - isso, por si só, não exime os requeridos do pagamento da verba de sucumbência, com base no princípio da causalidade.
+Nesse sentido:
+(..)
+Na hipótese, a conclusão adotada pelo acórdão recorrido não diverge do entendimento desta Corte, segundo o qual, em razão do princípio da causalidade, nas hipóteses de extinção do processo sem resolução do mérito, a parte que deu causa à instauração do processo deverá ser responsável pelo pagamento das custas e dos honorários advocatícios. A propósito:
+(..)
+Em face do exposto, acolho os embargos de declaração, para, atribuindo- lhes efeitos modificativos, anular a decisão de fls. 571/574 e negar provimento ao recurso especial interposto pelos réus José Pupin e Vera Lúcia Camargo Pupin.
+Com efeito, nas razões do recurso especial, a parte recorrente pretende afastar a condenação ao pagamento dos honorários advocatícios sucumbenciais, argumentando que não poderia ser responsabilizada pela perda de objeto da ação cautelar, extinta em razão da desídia da parte recorrida, visto que não ingressou com a ação principal no prazo previsto pela lei processual.
+A decisão embargada consignou que a conclusão adotada pelo acórdão recorrido não diverge do entendimento desta Corte, incidindo o óbice da Súmula 83/STJ, uma vez que nas hipóteses de extinção do processo sem resolução do mérito, a parte que deu causa à instauração do processo deverá ser responsável pelo pagamento das custas e dos honorários advocatícios.
+Ademais, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos encontra-se objetivamente fixado nas razões da decisão embargada, motivo pelo qual rejeito a alegação de omissão no julgado. A propósito, confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.
+ ..
+3. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 15/6/2016, DJe 3/8/2016)
+Assim, não demonstrada efetivamente a existência de nenhum dos vícios previstos no art. 1.022 do CPC/2015, conclui-se que a pretensão da parte embargante é unicamente o rejulgamento da causa, finalidade à qual não se presta a via eleita.
+Nesse sentido, veja-se o seguinte precedente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. MERO INTUITO DE REJULGAMENTO DA LIDE. AUSÊNCIA DA OMISSÃO QUE ENSEJARIA A INTERPOSIÇÃO DO RECURSO INTEGRATIVO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, já que não são cabíveis para provocar novo julgamento da lide.
+2. Não há que se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação. Precedentes.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1.213.226/SC, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 24/10/2016, DJe 22/11/2016)
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
