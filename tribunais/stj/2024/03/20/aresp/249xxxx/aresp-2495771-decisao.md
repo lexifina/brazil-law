@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO INTERNO - AGRAVO DE INSTRUMENTO NÃO CONHECIDO - AUSÊNCIA DE JUNTADA DE DOCUMENTOS ESSENCIAIS À APRECIAÇÃO DO FEITO - REGIMENTAL MANIFESTAMENTE IMPROCEDENTE - APLICAÇÃO DE MULTA.
+-O rol do art. 1.015, do CPC, é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação.
+- "É dever da parte instruir o agravo de instrumento (..). com todas as peças essenciais, bem como com aquelas que forem necessárias à compreensão da controvérsia, sob pena de não conhecimento do recurso" (STJ - Aglnt no AREsp 510.026/RJ).
+- É devida aplicação de multa prevista no art. 1.021, §4º, do CPC/2015, quando o Agravo Interno se revela manifestamente improcedente.
+- Nos termos do Enunciado nº 03, da Escola Nacional de Aperfeiçoamento da Magistratura (Enfam), "é desnecessário ouvir as partes quando a manifestação não puder influenciar na solução da causa".
+Opostos embargos de declaração pela ora agravante, esses foram rejeitados com aplicação de multa.
+Nas razões do especial, aponta a parte agravante existência de dissídio jurisprudencial, além de violação do artigo 1.017 do Código de Processo Civil.
+Argumenta que cumpriu integralmente a determinação de juntada dos documentos obrigatórios e essenciais à instrução do agravo de instrumento interposto na origem, não sendo possível exigências indiscriminadas e desnecessárias.
+Assim delimitada a controvérsia, passo a decidir.
+No caso dos autos, a Corte local concluiu pelo não conhecimento do agravo de instrumento, em razão da não observância de determinação legal, como se depreende da leitura do seguinte trecho (fls. 1.670-1.672, e-STJ):
+Conforme consignei na Decisão de cód. 40, daquele Recurso, ao analisar o Instrumento interposto, realcei que a controvérsia recursal reside em apurar o cabimento, ou não, do "Decisum" que ordenou a penhora do crédito perquirido pela Exequente/Recorrida, afastando a pretensa declaração de concursalidade do importe pleiteado, sendo que aquele Agravo, protocolizado eletronicamente, não foi acompanhado da cópia integral da demanda originária, havendo, ainda, sido instruído com diversas peças ilegíveis, cuja análise entendi ser essencial para a completa compreensão do litígio, notadamente diante da alegação de que o d. Juízo de origem desconsiderou as cláusulas do Ajuste entabulado entre as partes, cujo teor foi carreado sob o cód. 09, do sequencial /001.
+Ocorre que, regularmente intimada e advertida que o eventual descumprimento da ordem acarretaria o não conhecimento do Recurso (cód. 22), a Recorrente respondeu à intimação carreando ao feito apenas parte dos autos de primeira instância, ainda havendo protocolizado diversas peças que, novamente, se encontravam absolutamente carentes de nitidez suficiente para serem apreciadas (códs. 24/39).
+Então, em virtude de que houve a devida cientificação da Agravante, inclusive tendo sido destacada a consequência do eventual descumprimento da determinação, é indubitável que a ausência de peças fundamentais para a compreensão da lide impõe o não conhecimento daquele Agravo.
+(..)
+Por sua vez, anoto que, no presente Regimental (cód. 01), novamente, a Recorrente não apresentou as razões e os fundamentos segundo os quais seria viável a reforma do "decisum" rechaçado, notadamente em virtude de que as teses recursais apenas aduzem que os arquivos que instruíram o feito seriam suficientes para a apreciação daquele Agravo, o que, contudo, foi cabalmente afastado no pronunciamento objurgado.
+Considerando a moldura fática delineada pelo Tribunal de origem, verifico que o acórdão recorrido se encontra em harmonia com a orientação desta Corte Superior, cuja dicção é no sentido de ser "Havendo possibilidade, deve-se oportunizar à parte emendar a inicial que fora apresentada desprovida de documentos essenciais à propositura da demanda, limitando-se, assim, a extinção do processo sem resolução do mérito apenas para a hipótese de não atendimento à determinação de regularizar a exordial" (AgInt no REsp n. 1.955.949/MT, relator Ministro Marco Buzzi, Quarta Turma, DJe de 16/12/2021).
+De igual teor:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. OMISSÃO DA PARTE INTIMADA PARA JUNTAR TÍTULO ORIGINAL OU CÓPIA AUTENTICADA POR ÓRGÃO PÚBLICO OFICIAL. EXTINÇÃO DO PROCESSO EXECUTIVO. CONSONÂNCIA DO ACÓRDÃO ESTADUAL COM O ENTENDIMENTO DESTE SODALÍCIO.
+1. "A jurisprudência desta Corte Superior é firme no sentido de que cabe ao Juízo, quando a parte instrui a inicial com cópia autenticada do título executivo, abrir prazo para que emende a inicial juntando o título original. Tendo o demandante deixado transcorrer in albis o prazo para colacionar a via original da cédula de crédito, é cabível ao magistrado, então, julgar extinto o feito" (AgRg no AREsp 605.423/SC, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 03/09/2015, DJe de 1º/10/2015).
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.524.003/RN, relator Ministro Raul Araújo, Quarta Turma, DJe de 29/4/2021)
+Ademais, o acolhimento das razões do recurso acerca da não essencialidade das peças processuais requeridas demandaria inevitável reexame de matéria fática, procedimento que encontra óbice no verbete 7 da Súmula desta Corte.
+Confira-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO (ART. 522 DO CPC/73). TRASLADO INCOMPLETO DE PEÇA OBRIGATÓRIA. DECISÃO AGRAVADA. AFERIÇÃO DA ESSENCIALIDADE DA FOLHA FALTANTE. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. De acordo com a jurisprudência do STJ, a formação do agravo de instrumento é de responsabilidade do agravante (art. 525 do CPC/73), devendo nele constar todas as peças obrigatórias e essenciais ao exame da controvérsia, sob pena de não conhecimento do recurso.
+2. O Tribunal de origem concluiu não ser possível compreender a controvérsia posta em agravo de instrumento (art. 522 do CPC/73) em virtude do traslado incompleto da decisão agravada. Nesse contexto, a verificação da essencialidade ou não da folha faltante para a compreensão da controvérsia demanda, necessariamente, o reexame do acervo fático-probatório dos autos, providência que esbarra no óbice da Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 822.194/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/8/2016)
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
