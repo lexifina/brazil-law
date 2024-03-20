@@ -1,0 +1,79 @@
+DECISÃO
+Cuida-se de agravo interposto por CONDOMINIO YACAMIM RESERVA & RESIDENCIAL contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 2945):
+Ação de obrigação de fazer. Supostos vícios construtivos. Prescrição. Estabelecimento, em sede de agravo de instrumento, do prazo quinquenal para a espécie dos autos (AI 2270000-85.2015.8.26.0000, Rei. Marcia Dalla Déa Barone). Prazo de 5 (cinco) anos, no caso, decorrido entre a entrega da obra e o ajuizamento da presente ação. Fato incontroverso nos autos. Período de tratativas para uma composição amigável entre as partes, no entanto, que não se equipara à condição suspensiva prevista no art. 199, inciso 1, do Código Civil. Doutrina. Preliminar de prescrição acolhida, com a extinção da ação, com resolução de mérito, nos termos do disposto no artigo 487, inciso 1, do CPC. Apelo do condomínio autor, prejudicado. APELO DA RÉ PROVIDO, PREJUDICADO O RECURSO DO CONDOMINIO AUTOR.
+Rejeitados os embargos de declaração opostos (fls. 2969 - 2975).
+No recurso especial, alega a parte recorrente, preliminarmente, ofensa aos arts. 1.022 e 489 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas: "(i) artigo 199, inciso I, do Código Civil (condição suspensiva), em especial por não se considerar a data de efetivo conhecimento dos vícios construtivos e a data do HABITE-SE, para fins de consideração do prazo prescricional; (ii) artigo 27 do CDC, na medida em que, em se tratando a presente ação de relação de consumo, e por serem os vícios construtivos de natureza técnica, haveria que se observar a data de produção do Laudo Técnico, e não a data de entrega provisória do empreendimento, ou ainda, a data de emissão do HABITE-SE; (iii) artigo 618, § único, do Código Civil para delimitação do prazo prescricional de ajuizamento da ação no prazo previsto no artigo 205 do Código Civil (prazo decenal), (iv) artigos 373, I, II, e seus parágrafos do CPC, na medida em que se fez prova da data do conhecimento dos vícios construtivos para fins de delimitação do termo inicial da prescrição".
+Foram oferecidas contrarrazões ao recurso especial (fls. 3.028-3.046).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 3.048-3.050), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 3.075-3.094).
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Cuida-se, na origem, de ação indenizatória movida pelo agravante CONDOMINIO YACAMIM RESERVA & RESIDENCIAL em desfavor do agravado OR EMPREENDIMENTOS IMOBILIARIOS E PARTICIPAÇÕ ES S.A. em decorrência de vícios construtivos.
+O Tribunal a quo declarou a prescrição da pretensão do agravante e afastou a alegação da condição suspensiva e, ainda, fez constar nos autos que "incontroverso o prazo quinquenal a ser aplicado à espécie dos autos."
+Quanto ao ponto, transcrevo parte do acórdão (fl. 2.949-2.951):
+Esta Câmara, no Agravo de Instrumento n. 2270000-85.2015.8.26.0000, Relatora Márcia Dalla Déa Barone, deixou assentado que "..configurada a relação de consumo, o prazo prescricional aplicada à hipótese é quinquenal, com amparo no artigo 27 do Código de Defesa do Consumidor, a contar do conhecimento pelos autores dos defeitos construtivos alegados".
+Restou, portanto, incontroverso o prazo quinquenal a ser aplicado a espécie dos autos.
+ ..
+O empreendimento, é dos autos, foi entregue em 2009 e a demanda foi ajuizada em 30 de janeiro de 2015.
+ ..
+Com efeito.
+Dispõe o artigo 199 do Código Civil: "Não corre igualmente a prescrição: I- pendendo condição suspensiva". Inexistia, no caso, a pendência de qualquer condição suspensiva.
+ ..
+No caso dos autos, no entanto, não pendia qualquer condição suspensiva.
+Não havia a dependência de qualquer evento futuro e incerto, á tampouco termo fixado. As tratativas extrajudiciais para uma composição amigável entre as partes, nem de longe, constituem uma condição suspensiva que impedia o condomínio autor de exercer o seu direito de ação contra a requerida.
+Nada, absolutamente nada, obstava que o condomínio autor exigisse o cumprimento da obrigação objeto desta lide. Cabe aqui, pela pertinência, a doutrina de CÂMARA LEAL, trazida à colação por Tepedino, Barboza e Bodin de Moraes: "Assim, não corre a prescrição, tendo em vista que não há que se falar em negligência por parte do titular do direito, quando a sua inércia é motivada por uma causa que o impossibilita de exigir o cumprimento da obrigação" (!ri Código Civil Interpretado Conforme a Constituição da República, Volume 1, Parte Geral e Obrigações, 28 Edição Revista e Atualizada, Renovar, pag. 379).
+A inércia do condomínio autor, como visto, não decorreu de qualquer causa que o impossibilitava de acionar a requerida. Ademais, não pode ficar sem registro o excessivo tempo em que as partes permaneceram em tratativas, mais de 4 (quatro) anos (de maio de 2010 a agosto de 2014, fls. 2419), período que escapa à mínima razoabilidade para se firmar um acordo. Essa longa espera por um acordo revela, no fundo, uma injustificável inércia do condomínio autor que, como visto, não pode ser interpretada como causa suspensiva da prescrição, sem dizer, ainda, que, por parte do condomínio autor, jamais existiu ou manifestou qualquer dúvida quanto à ocorrência dos vícios e a certeza de que tocava à requerida repará-los. Ao submeter-se a uma longa negociação, o condomínio autor assumiu o risco da verificação da prescrição, o que, como visto, acabou ocorrendo.
+Assim, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem, ao negar provimento à apelação, constatou, com base nos elementos de prova contidos nos autos, que :
+O empreendimento, é dos autos, foi entregue em 2009 e a demanda foi ajuizada em 30 de janeiro de 2015.
+O transcurso do prazo quinquenal, por seu lado, também é matéria incontroversa, conferindo-se, pela pertinência, as contrarrazões recursais do condomínio autor (fls. 2687), que não impugna a fruição dos cinco anos entre a entrega do empreendimento, época do conhecimento dos " alegados defeitos construtivos, e o ajuizamento da ação.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+A propósito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/ STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANO MORAL. SUSPENSÃO DO FORNECIMENTO DO SERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NO RESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INDENIZAR. REQUISITOS PARA A RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.
+2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022 - grifo nosso.)
+Assim, considerando que o prazo prescricional à espécie é o quinquenal, o qual começou a fluir a partir da lesão do direito, e que o Juízo de origem observou que não houve condição suspensiva ao caso, rever tais premissas demanda a necessária incursão na seara fático-probatória, o que é vedado pelo óbice da Súmula n. 7/STJ
+A propósito, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. À luz das Súmulas 7 do STJ e 280 do STF, não se conhece de recurso especial na hipótese em que a pretensão recursal depende do exame de provas ou da interpretação de legislação municipal ou estadual.
+3. No caso dos autos, o órgão julgador a quo, atento ao decreto estadual regulamentador do parcelamento, verificou que os honorários advocatícios, parcelados, só poderiam ser fixados no percentual de 5%, na hipótese de haver quitação do parcelamento do crédito tributário; por isso, a pretensão executória da verba honorária só se iniciaria após a quitação do parcelamento do débito tributário, uma vez que, antes, o montante não era definitivo.
+4. No contexto, considerada a premissa fático-jurídica estabelecida pelo tribunal de origem, não há como se acolher a pretensão recursal, pois, enquanto pendente condição suspensiva (quitação do crédito parcelado), não se inicia o prazo da prescrição da pretensão executória da parcela dos honorários enquanto ela não se realizar.
+Entendimento contrário dependeria do reexame do acervo probatório e da análise da legislação estadual normatizadora do parcelamento.
+Observância das Súmulas 7 do STJ e 280 do STF.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.966.878/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 28/3/2022, DJe de 30/3/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. PRESCRIÇÃO. ART. 205, §5º, I, DO CÓDIGO CIVIL. CAUSA SUSPENSIVA. NÃO OCORRÊNCIA. PRELIMINAR AFASTADA. CONTRATO PARTICULAR DE PROMESSA DE COMPRA E VENDA. SÚMULAS 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO. 1. Não é cabível o provimento do especial para reconhecer a inadimplência dos agravados, haja vista o disposto nas Súmulas nºs 5 e 7 do Superior Tribunal de Justiça, pois o negócio jurídico firmado entre as partes contem cláusula com contendo condição suspensiva da dívida. 2.
+Alterar o momento em que considerados exigíveis os valores objetos da cobrança e, por consequência, o marco inicial da prescrição, exigiria o vedado reexame de provas e de interpretação de cláusulas contratuais.
+3. A análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula 7/STJ. Isso porque não é possível encontrar similitude fática entre o aresto combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em razão de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.386.774/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 2/4/2019, DJe de 8/4/2019.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. COMPRA E VENDA. AÇÃO DE COBRANÇA. RESCISÃO DO NEGÓCIO. TRATATIVAS EXTRAJUDICIAIS. SUSPENSÃO DO PRAZO PRESCRICIONAL. DEVOLUÇÃO DE VALORES. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. TEORIA DA ACTIO NATA.
+1. A reforma do julgado que entendeu pela suspensão do prazo prescricional para devolução do valor em função de tratativas extrajudiciais documentadas demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+2. Por aplicação da teoria da actio nata, o lapso do prazo prescricional somente começa com a ciência da efetiva lesão do direito tutelado, inexistindo, ainda, qualquer condição que impeça o exercício do direito de ação. Precedentes.
+3. Agravo interno não provido."
+(AgInt no AREsp 982.198/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 14/02/2017, DJe 21/02/2017)
+PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. CIVIL. PROCESSO CIVIL. AÇÃO MONITÓRIA. PRESCRIÇÃO QUINQUENAL. ART. 206 DO CÓDIGO CIVIL DE 2002. REEXAME DE PROVA. SÚMULA 7/STJ.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+2. O Tribunal de origem consignou que a recorrente deixou de apresentar os comprovantes de requisição das referidas passagens pela ré apelada, sob o argumento de terem sido extraviados, tendo juntado aos autos apenas as respectivas faturas.
+3. In casu, aplica-se a prescrição quinquenal, prevista no art. 206, parágrafo 5o, inciso I, do CPC, portanto, quando do ajuizamento da presente ação (14/9/2012), já se encontravam prescritas as passagens emitidas até 14/9/2007.
+4. Ainda que as partes tenham realizado tratativas extrajudiciais para solução da questão até o ano de 2009, fato apontado pela autora como causa interruptiva do prazo prescricional, como bem ressaltado na r. sentença," ..o fato de as partes terem discutido valores ora cobrados em momento algum se confunde com ato inequívoco que importe reconhecimento do direito pelo devedor (Código Civil, artigo 202, VI, do CPC)."
+5. A instância de origem decidiu a controvérsia com fundamento no suporte fático-probatório dos autos. Desse modo, verifica-se que a análise da controvérsia demanda o reexame do contexto fático-probatório, o que é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+6. Agravo Interno não provido.
+(AgInt no AgInt no AREsp n. 883.004/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/12/2016, DJe de 13/12/2016.)
+Ademais, considerando a teoria da actio nata, adotada por esta Corte Superior, o prazo prescricional começa a fluir a partir da lesão ao direito, o que, no caso, foi no momento em que os autores tomaram a posse do bem.
+Assim, a decisão de origem não merece reparos, pois em consonância com o entendimento desta Corte Superior.
+Quanto à alegação de que o prazo prescricional seria o previsto no art. 205 do Código Civil, nota-se que não houve o devido debate da questão na instância ordinária, de forma a obstruir o conhecimento da questão por esta Corte, nos termos da Súmula n. 211/STJ "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Ao contrário, a Corte p aulista afirmou que o prazo aplicado foi o quinquenal e que as partes não se insurgiram contra esse aspecto, conforme acima transcrito.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados pelo Tribunal de origem para 12%, sobre o valor atualizado da causa, observada a concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
