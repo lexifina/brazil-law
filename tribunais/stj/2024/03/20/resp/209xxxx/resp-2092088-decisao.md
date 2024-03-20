@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de recurso especial interposto por PRIOTTO & CIA LTDA. E FILIAIS , com fundamento no art. 105, inciso III, alíneas a e c, da CF/1988 contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO.
+A questão debatida nos autos, qual seja, a "possibilidade de creditamento, no âmbito do regime não-cumulativo das contribuições ao PIS e COFINS, dos valores que o contribuinte, na condição de substituído tributário, paga ao contribuinte substituto a título de reembolso pelo recolhimento do ICMS-substituição (ICMS-ST)", encontra-se afetada à Primeira Seção desta Corte Superior aguardando o julgamento dos EREsp 1.959.571/RS, do REsp 2.075.758/ES e do REsp 2.072.621/SC, de relatoria do Ministro Mauro Campbell Marques, vinculado ao Tema 1.231.
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Pelo exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil, após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC
+Publique-se. Intimações necessárias.
+EMENTA
