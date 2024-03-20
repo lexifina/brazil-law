@@ -1,0 +1,61 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Segunda Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0705729-34.2023.8.07.0019RECORRENTE(S)IGOR JUNIO DE SOUZA RIBEIRORECORRIDO(S)BANCO C6 S.A.RelatorJuiz EDILSON ENEDINO DAS CHAGAS
+ Acórdão Nº1831243
+
+EMENTA
+
+ JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. RECURSO INOMINADO. PRELIMINAR DE CERCEAMENTO DE DEFESA. REJEITADA. INSTITUIÇÃO BANCÁRIA. PERDA DE CARTÃO PELO CONSUMIDOR. COMPRA EFETUADA POR TERCEIRO MEDIANTE SENHA. FATO EXCLUSIVO DO CONSUMIDOR. CAUSA EXCLUDENTE DE RESPONSABILIDADE. RESPONSABILIDADE CIVIL AFASTADA. DEVER DE INDENIZAR NÃO CONFIGURADO. DANO MORAL NÃO CARACTERIZADO. SENTENÇA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+
+I. Trata-se de recurso inominado interposto pela parte autora em face de sentença proferida pelo Juízo do Juizado Especial Cível e Criminal do Recanto das Emas que julgou improcedentes os pedidos formulados na exordial. Em suas razões (ID 53982246), o recorrente sustenta, preliminarmente, que houve cerceamento de defesa, alegando que, apesar de ter solicitado em réplica que a recorrida fosse intimada para juntar ao processo áudios de conversa realizada entre as partes, não houve intimação pelo Juízo da instituição financeira para fazê-lo. No mérito, sustenta que as instituições financeiras têm responsabilidade objetiva pelos prejuízos advindos aos seus clientes. Defende que a prática de ato de terceiro não afasta, automaticamente, a responsabilidade do banco. Afirma que os fatos narrados nos autos indicam a ocorrência de fortuito interno. Aduz que o banco recorrido não se prestou a adotar as medidas de segurança básicas e, assim, afirma que sofreu danos que ultrapassam o mero dissabor do dia a dia. Pugna pelo conhecimento e provimento do recurso, acolhendo-se a preliminar defendida, com a consequente nulidade da sentença. Subsidiariamente, requer a procedência dos pedidos elencados no mérito recursal, a fim de reformar a sentença combatida, para condenar o recorrido ao ressarcimento dos valores, bem como ao pagamento de danos morais.
+
+II. Narra o autor/recorrente, em petição inicial, que em 18/06/2023 perdeu seu cartão de débito e que, após, foram realizadas três tentativas de compras por terceiro, utilizando o cartão. Relata que, diante de tal cenário, tentou bloquear o cartão, mas uma compra no valor de R$ 550,00 foi autorizada pelo banco réu. Afirma que entrou em contato com a instituição financeira solicitando o ressarcimento dos valores, mas que o réu se nega a fazê-lo. Por fim, na exordial, pugna pela condenação da parte ré em R$ 550,00 a título de ressarcimento, e em R$ 8.000,00 a título de danos morais.
+
+III. Recurso próprio, tempestivo e dispensado de preparo, ante a gratuidade de justiça concedida (ID 54392786). Contrarrazões apresentadas (ID 53982253).
+
+IV. A controvérsia deve ser solucionada sob o prisma do sistema jurídico autônomo instituído pelo Código de Defesa do Consumidor, que por sua vez regulamenta o direito fundamental de proteção do consumidor (CF, art. 5º, XXXII).
+
+V. Preliminar. Os argumentos do recorrente não merecem amparo. O juiz é livre para apreciar todos os elementos do processo e, assim, formar seu convencimento, com base no acervo probatório contido nos autos. O Magistrado, como presidente do processo e o destinatário da prova, tem o dever de determinar a realização de provas de acordo com a relevância e a necessidade/utilidade para a instrução do processo e consequente deslinde da causa. No caso sob análise, o Juízo de origem analisou as teses jurídicas sustentadas e decidiu de forma fundamentada, emitindo juízo de valor sobre as questões relevantes para o julgamento da matéria. Houve fundamentação suficiente na sentença, analisando os argumentos e as provas colacionadas para esclarecer a conclusão proferida. Com base no exposto, o recorrente não logrou comprovar que houve o alegado cerceamento de defesa. Preliminar rejeitada.
+
+VI. Ressalte-se que os documentos acostados pelo recorrente à sua peça recursal (IDs 53982248, 53982249, 53982250 e 53982251) não devem ser conhecidos ou apreciados, visto que é incabível que a parte junte documentos quando bem entenda. Indevida a juntada de documentos após a sentença, salvo quando se tratar de documentos novos, isto é, referentes a fato ocorrido posteriormente ou, ainda, quando aquele se tornar conhecido, acessível ou disponível apenas após a petição inicial ou contestação, devendo a parte comprovar os motivos que lhe impediram de juntá-los anteriormente, nos termos do art. 435, caput e parágrafo único do CPC. Na espécie, os e-mails juntados em sede recursal não se referem a fatos novos, uma vez que foram recebidos pelo recorrente em 19 de junho, 20 de junho e 5 de julho de 2023. Assim, o recorrente não logrou êxito em comprovar justa causa que lhe impediu de juntar tais documentos anteriormente. Precedente: Acórdão 1647448, 07092565820228070009, Relator: SILVANA DA SILVA CHAVES,  Segunda Turma Recursal, data de julgamento: 7/12/2022, publicado no DJE: 15/12/2022. Pág.:  Sem Página Cadastrada.
+
+VII. A questão trazida ao conhecimento desta Turma Recursal cinge-se na existência de responsabilidade objetiva da instituição financeira em relação aos fatos ocorridos. Nos termos do art. 14 do Código de Defesa do Consumidor, as instituições financeiras respondem, independentemente da existência de culpa, pela reparação dos danos causados ao consumidor por defeitos relativos à prestação do serviço. Esse também é o entendimento do STJ conforme Súmula 479, uniformizando que as instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias. No entanto, a responsabilidade da instituição financeira pode ser afastada quando ficar comprovado a existência de fatos que rompem o nexo causal, tal qual a culpa exclusiva do consumidor ou de terceiros, nos termos do art. §3º, I e II do CDC.
+
+VIII. No presente caso, o recorrente narra que perdeu o seu cartão de débito e que ao perceber que terceiro estava fazendo tentativas de compras utilizando o referido cartão, tentou bloqueá-lo, entretanto, houve autorização pelo recorrido de uma das compras no montante de R$ 550,00.
+
+IX. Do compulsar dos autos, constata-se, conforme documento juntado pelo banco requerido, que a transação impugnada pelo recorrente foi realizada mediante emprego do cartão, o qual contém chip, e com a aposição de senha. Ademais, tem-se que o recorrente não juntou nenhum documento que comprove que tenha feito a alegada comunicação ao recorrido acerca da perda do cartão e que tenha solicitado o seu cancelamento. Ao contrário do que afirma em seu recurso, os IDs 164026420, 164026419, 164026400 e 164026425 não demonstram o contato realizado entre recorrente e recorrido a fim de cancelar o cartão e obter a devolução dos valores. Em verdade, os documentos citados consistem em mensagens de texto enviadas pelo banco ao recorrente, informando acerca de transações bancárias; imagem de tela constando informação sobre compra no valor de R$ 550,00; relatório de extrato periódico; e comprovante de residência, respectivamente.
+
+X. Nesse contexto, cabe destacar que o cartão magnético e a respectiva senha são de uso exclusivo e pessoal do correntista, o qual deve tomar as medidas cabíveis a fim de assegurar o sigilo da senha para impedir a ação fraudulenta de terceiros. Nesse sentido, o Superior Tribunal de Justiça (STJ) tem ponderado que, em se tratando de compra realizada mediante o uso do cartão e utilização de senha pessoal para concluir a transação, há o afastamento da responsabilidade do fornecedor, à luz do artigo 14, § 3º, I, do Código de Defesa do Consumidor: "Se as transações contestadas forem feitas com o cartão original e mediante uso de senha pessoal do correntista, passa a ser do consumidor a incumbência de comprovar que a instituição financeira agiu com negligência, imprudência ou imperícia ao efetivar a entrega de numerário a terceiros" (REsp: 1.995.458/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 09/08/2022, DJe 18/08/2022). Ademais, ainda de acordo com o STJ, não há como atribuir responsabilidade à instituição financeira em caso de transações realizadas com a apresentação do cartão físico com chip e a senha pessoal do correntista, sem indícios de fraude (REsp n. 1.898.812/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 15/8/2023, DJe de 1/9/2023).
+
+XI. No caso, o recorrido se desincumbiu do ônus que lhe competia, a teor do art. 373, II, do CPC, c/c art. 14, § 3º, do CDC, de comprovar a excludente de sua responsabilidade, uma vez que demonstrou que a transação questionada foi realizada com o emprego do cartão e com o uso da senha. Por outro lado, o recorrente deixou de apresentar provas no sentido de ter comunicado ao banco a perda do cartão e de ter solicitado o seu cancelamento ou contestado as compras. Não juntou aos autos, por exemplo, os números de protocolo das alegadas ligações realizadas a fim de bloquear o cartão.
+
+XII. Diante do exposto, não havendo nexo causal entre a conduta do recorrido e os danos suportados pelo recorrente, exclui-se a responsabilidade da parte ré (art. 14, § 3º, do CDC) e o dever de indenizar. Logo, o pleito recursal não merece acolhimento, pois conforme a dinâmica dos fatos relatados pelo próprio recorrente, o qual narra que perdeu o referido cartão, fica evidente que a compra realizada ocorreu em razão de sua conduta desidiosa, uma vez que se descuidou do cartão, sem que a empresa requerida tivesse contribuído para a ocorrência do fato. Incontroverso, assim, que houve o rompimento do nexo de causalidade entre a conduta da ré e os danos alegados pelo autor, na medida em que os danos somente ocorreram porque o autor não tomou as cautelas necessárias exigidas pela situação, configurando conduta negligente, corroborada com a de terceiros, afastando, assim, o dever de indenizar pela ré. Desse modo, restou demonstrado que o dano não decorreu de falha na prestação de serviços pela instituição, mas por culpa exclusiva do consumidor e de terceiro, não havendo que se falar em fortuito interno e responsabilização da instituição financeira recorrida em arcar com os danos suportados pelo recorrente. Assim, não há dano material a indenizar. Ademais, não havendo ato ilícito praticado, não há que se falar em condenação por danos morais. Portanto, a manutenção da sentença é medida que se impõe.
+
+XIII. Nesse sentido: Acórdão 1720426, 07093882720228070006, Relator: MARILIA DE AVILA E SILVA SAMPAIO,  Segunda Turma Recursal, data de julgamento: 26/6/2023, publicado no DJE: 5/7/2023. Pág.:  Sem Página Cadastrada; Acórdão 1618482, 07055343420228070003, Relator: AISTON HENRIQUE DE SOUSA,  Primeira Turma Recursal, data de julgamento: 16/9/2022, publicado no DJE: 6/10/2022. Pág.:  Sem Página Cadastrada.
+
+XIV. Recurso CONHECIDO e NÃO PROVIDO. Sentença mantida. Condeno a parte recorrente vencida ao pagamento das custas e dos honorários advocatícios que fixo em 10% do valor corrigido da causa, contudo, suspendo a exigibilidade na forma do art. 98, § 3º, do CPC.
+
+XV. A súmula de julgamento servirá de acórdão, consoante disposto no artigo 46 da Lei nº 9.099/95.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Segunda Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, EDILSON ENEDINO DAS CHAGAS - Relator, MARILIA DE AVILA E SILVA SAMPAIO - 1º Vogal e GISELLE ROCHA RAPOSO - 2º Vogal, sob a Presidência da Senhora Juiza GISELLE ROCHA RAPOSO, em proferir a seguinte decisão: RECURSO CONHECIDO E NÃO PROVIDO. UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 20 de Março de 2024
+
+Juiz EDILSON ENEDINO DAS CHAGASRelator
+
+RELATÓRIO
+
+Dispensado, nos termos do art. 46 da Lei n. 9.099/95.
+
+VOTOS
+
+O Senhor Juiz EDILSON ENEDINO DAS CHAGAS - RelatorDispensado, nos termos do art. 46 da Lei n. 9.099/95.
+A Senhora Juíza MARILIA DE AVILA E SILVA SAMPAIO - 1º Vogal Com o relatorA Senhora Juíza GISELLE ROCHA RAPOSO - 2º Vogal Com o relator
+
+DECISÃO
+
+RECURSO CONHECIDO E NÃO PROVIDO. UNÂNIME
