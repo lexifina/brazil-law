@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por LUIZ FERNANDO BATISTA (LUIZ), com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado:
+PROCESSUAL CIVIL. EXCLUSÃO DE LITISCONSORTE. DECLÍNIO DE COMPETÊNCIA. RECURSO CABÍVEL. ERRO GROSSEIRO.
+Equivocada a interposição de apelo contra decisão que exclui uma das partes do polo passivo e determina a continuidade em relação à litisconsorte passiva remanescente. Hipótese de decisão interlocutória (art. 203 do CPC), impugnável por agravo (art. 1.015, VII, do CPC). Erro grosseiro, pois inexiste dúvida objetiva sobre o recurso cabível, de modo que não é aplicável o princípio da fungibilidade. Recurso não conhecido (e-STJ, fl. 355).
+Os embargos de declaração opostos por LUIZ foram rejeitados (e-STJ, fls. 382/385).
+Nas razões do presente recurso, LUIZ alegou a violação aos arts. 4º, 6º, 9º, 10, 114, 203, §§ 1º e 2º, 277, 356, 487, I, 932, parágrafo único, 1.013 e 1.017 do CPC, ao sustentar o cabimento da interposição do recurso de apelação, no caso, contra a decisão que excluiu a litisconsorte passiva da lide, com a consequente declinação da competência para a Justiça Estadual, em observância ao princípio da fungibilidade.
+Foram apresentadas contrarrazões (e-STJ, fls. 431/436).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+Cabimento da apelação
+Trata-se de ação de rescisão de contrato de promessa de compra e venda de imóvel cumulada com indenização por danos materiais e morais ajuizada por LUIZ contra JCV INCORPORAÇÕES E CONSTRUÇÕES LTDA. e CAIXA ECONÔMICA FEDERAL (CEF), em decorrência de vícios construtivos no empreendimento.
+Em primeira instância, o processo foi extinto sem julgamento do mérito, com base no art. 485, VI, do CPC, em relação à CEF, ante o reconhecimento de sua ilegitimidade passiva, com a consequente declinação da competência para a Justiça Estadual, para o prosseguimento da demanda em relação à incorporadora.
+Irresignado, LUIZ interpôs apelação, que não foi conhecida pelo TJRJ, ao entendimento de que a decisão recorrida não pôs fim ao processo, não se subsumindo, portanto, ao conceito de sentença, mas, de decisão interlocutória, impugnável por agravo de instrumento, não sendo admissível a aplicação do princípio da fungibilidade. Confira-se:
+A decisão que exclui uma ou algumas das partes do pólo passivo da relação processual, ainda que implique, como no caso, a modificação da competência para processar e julgar a causa, tem natureza jurídica de decisão interlocutória, uma vez que não extingue o processo, nem "põe fim à fase cognitiva do procedimento comum", na literalidade do art. 203, §§ 1º e 2º, do CPC. O juízo extinguiu o feito em relação à CEF, sem resolução do mérito, por ilegitimidade passiva ad causam (art. 485, VI, do CPC). Considerou que a atuação da ré se limitou à de mero agente financeiro, sem responsabilidade direta pela construção, pois o imóvel foi adquirido diretamente de pessoa física (Evento 1, OUT5), dois anos depois de pronto (a expedição do "habite-se" ocorreu em 2015, e o contrato foi celebrado em 2017), e o mutuário não se enquadrava nas faixas I e II do programa destinado à moradia popular (renda mensal comprovadaà época de R$ 6.126,66).
+O ato judicial que exclui uma das partes do pólo passivo da relação processual e declina da competência para a Justiça Estadual é decisão interlocutória, e deve ser impugnada por meio de agravo de instrumento, nos termos do art. 1.015, VII, do Código de Processo Civil, e não por apelação. Não é o caso, por outro lado, de aplicação do princípio da fungibilidade.
+É condição de aplicabilidade do princípio da fungibilidade recursal a verificação de três requisitos, a saber: (i) dúvida objetiva sobre qual o recurso cabível; (ii) inexistência de erro grosseiro; e (iii) a interposição no prazo aplicável ao recurso que seria correto.
+Apesar de atendido o requisito temporal, não há dúvida sobre o recurso cabível e a hipótese é de erro grosseiro. O tema é tranquilo, há disposição legal expressa e a jurisprudência do Superior Tribunal de Justiça, tanto na vigência do CPC anterior quanto do atual, é pacífica quanto ao recurso cabível na hipótese (e-STJ, fl. 352).
+Com efeito, a Jurisprudência desta Corte orienta que os pronunciamentos judiciais que excluem litisconsortes passivos constituem decisões interlocutórias impugnáveis por agravo de instrumento. Destaca, outrossim, que não é possível aplicar o princípio da fungibilidade recursal, para a admitir a interposição de apelação nessas situações, por constituir erro grosseiro.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. PREQUESTIONAMENTO. AUSÊNCIA. LITISCONSORTE. EXCLUSÃO. DECISÃO INTERLOCUTÓRIA. CABIMENTO. AGRAVO DE INSTRUMENTO. ART. 1.015, VII, DO CPC/2015. APELAÇÃO. ERRO GROSSEIRO. FUNGIBILIDADE RECURSAL. NÃO APLICAÇÃO.
+ ..
+6. É cabível agravo de instrumento - e não apelação - contra decisão que exclui litisconsorte passivo da lide, com extinção parcial do processo.
+7. A aplicação do princípio da fungibilidade recursal é cabível na hipótese em que exista dúvida objetiva, fundada em divergência doutrinária ou mesmo jurisprudencial acerca do recurso a ser contra a decisão judicial a qual se pretende impugnar.
+8. Agravo interno não provido.
+(AgInt no AREsp n. 1.632.625/PR, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe de 12/3/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO QUE EXCLUIU UM DOS LITISCONSORTES DA RELAÇÃO PROCESSUAL, SEM EXTINÇÃO DO PROCESSO. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO DE APELAÇÃO. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE. INAPLICABILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. A exclusão de um dos litisconsortes do polo passivo, por ilegitimidade, prosseguindo-se com o processo perante os demais, não configura extinção da totalidade do feito, caracterizando decisão interlocutória - ato pelo qual o juiz, no curso do processo, resolve questão incidente -, pelo que é recorrível mediante agravo de instrumento. Precedentes.
+2. A aplicação do princípio da fungibilidade recursal é cabível na hipótese em que exista dúvida objetiva, fundada em divergência doutrinária ou mesmo jurisprudencial acerca do recurso a ser manejado em face da decisão judicial a qual se pretende impugnar.
+3. O entendimento pacífico do STJ é de que constitui erro grosseiro, não amparado pelo princípio da fungibilidade recursal, por ausência de dúvida objetiva, a interposição de recurso de apelação quando não houve a extinção total do feito - caso dos autos - ou seu inverso, quando a parte interpõe agravo de instrumento contra sentença que extinguiu totalmente o feito. Súmula 83/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 936.622/MG, relator Ministro RAUL ARAÚJO, Quarta Turma, DJe de 19/9/2019.)
+Desse modo, é de se reconhecer que a apelação era mesmo incabível.
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. VÍCIOS CONSTRUTIVOS. EXCLUSÃO DE LISTISCONSORTE COM DECLINAÇÃO DE COMPETÊNCIA. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO DE APELAÇÃO QUE CONFIGURA ERRO GROSSEIRO. RECURSO ESPECIAL NÃO PROVIDO.
