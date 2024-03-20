@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto pela Companhia de Saneamento do Paraná - Sanepar contra decisão da Corte de origem que não admitiu o recurso especial. O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 646):
+INDENIZAÇÃO POR DANOS MORAIS. ESTAÇÃO DE TRATAMENTO DE ESGOTO GUARAITUBA. EMISSÃO DE MAU CHEIRO. RESPONSABILIDADE OBJETIVA. TEORIA DO RISCO INTEGRAL. POLUIÇÃO ATMOSFÉRICA VERIFICADA. PARTE AUTORA QUE COMPROVOU QUE FOI ATINGIDA PELO ODOR DESAGRADÁVEL, POIS RESIDIA PRÓXIMO À ETE NA ÉPOCA DE SEU FUNCIONAMENTO. REDUÇÃO DA QUALIDADE DE VIDA. DANOS MORAIS CONFIGURADOS. SENTENÇA REFORMADA. APELAÇÃO PROVIDA.
+A parte recorrente alega que há contradição sobre o termo inicial do evento danoso ser a data do comprovante de endereço, não a data de instalação da ETE, em março de1998, sob o argumento de que o autor sequer era nascido na data do evento danoso, em contraponto ao que decidiu o acórdão recorrido para fins de aplicação dos juros de mora.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+Dito isso, destaco que a Primeira Seção afetou sob o rito dos recursos repetitivos o Tema n. 1221, que cuida da controvérsia ora transcrita (REsp n. 2.090.538/PR e REsp n. 2.094.611/PR):
+Definição do termo inicial dos juros moratórios no caso de demanda em que se pleiteia reparação moral decorrente de mau cheiro oriundo da atividade de prestadora de serviço público no tratamento de esgoto.
+Nesses casos, de acordo com o art. 1.041, § 2º, do CPC, se no recurso especial é suscitada controvérsia pendente de julgamento sob o rito dos recursos repetitivos, isso constitui óbice à análise das demais questões veiculadas no apelo nobre, pois não há como proceder a um julgamento parcial da insurgência.
+Na mesma linha, não é possível proceder à cisão de julgamento, quando também há recurso especial da parte adversa, ainda que não contenha controvérsia submetida ao rito dos recursos repetitivos ou quando há relação de prejudicialidade entre os recursos. Nessas hipóteses, devem os autos permanecer suspensos na origem até a publicação de julgamento do tema afetado, após o qual, se for o caso, serão remetidos a esta Corte para julgamento das demais questões.
+Assim, em observância ao princípio da economia processual e à própria finalidade do CPC, é de rigor determinar o retorno dos autos à origem, onde deverão ficar sobrestados até a publicação do acórdão paradigma do tema repetitivo.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, nos termos do art. 256-L, II, do RISTJ, para que, após a publicação do acórdão proferido sob a sistemática dos recursos repetitivos, seja realizado o juízo de adequação quanto ao Tema n. 1221/STJ, e em observância aos arts. 1.030 e 1.040 do CPC: a) negue seguimento ao recurso especial se o acórdão recorrido estiver em conformidade com o entendimento do STJ; b) encaminhe os autos ao órgão julgador para realização do juízo de retratação se o acórdão recorrido divergir do entendimento do STJ.
+Publique-se. Intimem-se.
+EMENTA
