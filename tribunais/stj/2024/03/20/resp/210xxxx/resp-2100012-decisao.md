@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 46):
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. SERVIDOR FALECIDO ANTES DO AJUIZAMENTO DA EXECUÇÃO COLETIVA. SUBSTITUIÇÃO PROCESSUAL. HIPÓTESES DE CABIMENTO.
+A legitimação extraordinária dos sindicatos, conforme a jurisprudência do Supremo Tribunal Federal, confere a estes ampla legitimidade para estar em juízo em nome dos integrantes da categoria, substituindo-os.
+No entanto, o sindicato não é legítimo para litigar em nome daqueles que não compõem a categoria, como são os sucessores, quando o falecimento do servidor ocorreu antes do ajuizamento da ação ou execução, eis que não há se falar em substituição post mortem.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo 1022 do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto a questão de fundo, sustenta ofensa aos arts. 4º e 6º do CPC/2015, 240 da Lei n. 8.112/1990 e 3º da Lei n. 8.073/1990, ao argumento de que é "ampla legitimidade extraordinária do Sindicato para defender em juízo os direitos e interesses coletivos ou individuais dos integrantes da categoria que representam, consoante previsto no artigo 240 da Lei nº 8.112/90 e no artigo 3º da Lei nº 8.073/90, contemplando os servidores falecidos no que diz respeito aos valores devidos enquanto ainda estavam vivos" (fls. 111-112) e quanto ao "pedido para declarar que as habilitações dos herdeiros sejam realizadas somente quando indispensável, ou seja, somente quando ocorrer à expedição das requisições de pagamento" (fl. 112).
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 163-164.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+De início, afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022 do CPC/2015.
+Quanto a questão de fundo do apelo especial, com razão a parte recorrente.
+Este eg. sTJ firmou compreensão no sentido de que "o sindicato possui legitimidade ativa para substituir os sucessores de servidores falecidos, independentemente de o óbito ter ocorrido antes do ajuizamento da execução" (AgInt no AREsp 1.882.584/PE, rel. Ministro Og Fernandes, Segunda Turma, DJe de 02/06/2022).
+No mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSO CIVIL. EXECUÇÃO. SINDICATO. ÓBITO DO SUBSTITUÍDO. HABILITAÇÃO DE SUCESSORES. POSSIBILIDADE. LEGITIMIDADE ATIVA. ANÁLISE. NECESSIDADE DO REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. "O sindicato possui legitimidade ativa para substituir os sucessores de servidores falecidos, independentemente de o óbito ter ocorrido antes do ajuizamento da execução. Nesse sentido: REsp 1.864.315/PE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 25/6/2020; AgRg no REsp 1.224.482/PR, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 15/10/2015" (AgInt no REsp 1881628/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 23/11/2020, DJe 1º/12/2020).
+2. Em relação à arguição de que a morte ocorreu antes de haver o fenômeno da substituição processual, acrescente-se que a alteração das conclusões adotadas pela Corte de origem, firmada no sentido de que "Não prospera a alegação da agravante de que inexiste capacidade, porque, quando do ajuizamento da ação coletiva, o sindicato também representava a pensionista" (fl. 266), tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no REsp n. 2.026.557/PE,  Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 23/3/2023). (sem grifo no original).
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. VENCIMENTO. SERVIDOR PÚBLICO. LEGITIMIDADE. ENTIDADE SINDICAL. MORTE DO AUTOR ANTES DO PROCESSO. HABILITAÇÃO DE SUCESSORES.
+I - Na origem trata-se de agravo de instrumento contra decisão que acolheu parcialmente a impugnação ao cumprimento de sentença contra a Fazenda Pública, referente a diferenças vencimentais de servidor público. No Tribunal a quo deu-se provimento ao recurso.
+II - O Acórdão proferido na Corte de origem, contraria a jurisprudência desta Corte.
+III - Conforme entendimento pacífico, o sindicato pode substituir "tanto o servidor como seus dependentes no início da execução de título judicial" (AgInt no REsp 1.744.661/RS, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe 03/10/2018).
+IV - Conforme a jurisprudência do STJ, a morte do autor antes do processo de execução autoriza a habilitação dos sucessores, reconhecendo-se, salvo comprovada má-fé, a validade dos atos praticados pelo mandatário. Nesse sentido: AgInt no REsp 1.361.093/RS, Rel. Ministro OG FERNAN-DES, SEGUNDA TURMA, julgado em 20/04/2021, DJe 27/04/2021; AgInt no AREsp 983.278/PR, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 16/03/2020, DJe 23/03/2020.
+V - Recurso especial conhecido e provido. (REsp n. 1.879.770/RS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 31/8/2022). (sem grifo no original).
+Ainda no mesmo sentido, as seguintes decisões monocráticas proferidas em casos semelhantes: REsp 2.085.952/PR, Rel. Ministro Gurgel de Faria, DJe 3/8/2023; REsp 2.100.830/PR, Rel. Ministro Gurgel de Faria, DJe 31/10/2023 e REsp 2066683/PR, Rel. Ministro Francisco Falcão, DJe 15/6/2023.
+Ante o exposto, dou provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA COLETIVA CONTRA A FAZENDA PÚBLICA. FALECIMENTO DO SUBSTITUÍDO ANTES DO AJUIZAMENTO DA EXECUÇÃO. SUBSTITUIÇÃO PROCESSUAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. HABILITAÇÃO DOS SUCESSORES. LEGITIMIDADE EXTRAORDINÁRIA. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
