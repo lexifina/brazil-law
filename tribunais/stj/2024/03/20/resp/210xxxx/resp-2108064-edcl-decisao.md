@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão, às fls. 1.014-1.018, assim ementada:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ACÓRDÃO RECORRIDO FUNDADO EM LEGISLAÇÃO LOCAL. SÚMULA 280/STF. AUSÊNCIA DE COMANDO NORMATIVO NOS DISPOSITIVOS INDICADOS. SÚMULA 284/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+Em suas razões, a parte embargante aponta, à fl. 1.024, que a r. decisão revela-se omissa ou, até mesmo, contraditória, na medida em que, embora reconheça em seu relatório (fl. 1014) todas as violações arguidas pela Recorrente, emitiu juízode valor apenas no tocante à negativa de vigência aos arts. 489, §1º, IV e 1.022, II,do CPC e à violação ao disposto no art. 2º, parágrafo único, VI, da Lei n. 9.784/1999 e no art. 5º do Decreto-Lei n. 4.657/1942, para fundamentar o óbice das Súmulas 280 e 284/STF. Ao assim proceder, a r. decisão não se pronunciou acerca da violação aoart. 39 do Decreto-Lei n. 288/1967, aoart. 105, I, do Decreto-Lei n. 37/1966e ao art. 23, caput, e § 1º, do Decreto-Lei n. 1.455/1976 (tópico IV.2do recurso especial -Fls. 946/949), isto é, não se manifestou acerca da ausência de previsão legal para aplicação da pena de perdimento e da impossibilidade de enquadramento da infração por analogia.
+Sem impugnação.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sob esse enfoque, destaca-se que a contradição que autoriza o manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado. A propósito: AgInt no REsp 1.348.521/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 23/9/2016; EDcl no REsp 1.537.597/MA, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 14/3/2016; EDcl nos EDcl no AgRg no REsp 1.319.666/MG, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 26/2/2016.
+No caso, o recurso especial foi conhecido parcialmente para, nessa extensão, negar-lhe provimento, pelos seguintes fundamentos (fls. 1.015-1.018):
+ ..
+Afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso dos autos, evidencia-se que o tribunal de origem assim se pronunciou a respeito das alegadas omissões (fls. 857-863, com grifo no original):
+ ..
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022 do CPC/2015.
+Igualmente, não há falar em ofensa ao art. 489 do CPC/15, pois o acórdão impugnado ampara-se em fundamentação jurídica suficiente, que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido. A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional. Sublinha-se que não se pode confundir decisão contrária.
+Ademais, a questão controvertida dos autos foi solucionada, pelo Tribunal de origem, com fundamento na interpretação de legislação local (art. 696 do Decreto n. 6.759/2009 -Regulameto Aduaneiro). Logo, a revisão do aresto, na via eleita, encontra óbice na Súmula 280 do STF.
+Nesse sentido:
+ ..
+Por fim, não é possível conhecer do recurso especial que apresenta suposta violação dos arts. 2º, §único, VI, da Lei n. 9.784/1999 e 5º do Decreto-Lei n. 4.657/1942, pois os dispositivos indicados não contém comando normativo capaz de infirmar o juízo formulado no acórdão recorrido. Aplica-se à hipótese a Súmula 284/STF.
+Como se vê, acerca da suposta omissão referente a ausência de previsão legal para aplicação da pena de perdimento e da impossibilidade de enquadramento da infração por analogia, a decisão embargada é clara ao afirmar que a questão controvertida dos autos foi solucionada, pelo Tribunal de origem, com fundamento na interpretação de legislação local (art. 696 do Decreto n. 6.759/2009 -Regulameto Aduaneiro). Logo, a revisão do aresto, na via eleita, encontra óbice na Súmula 280 do STF.
+Ademais, como o ora embargante descreve razões inerentes ao mérito da causa, fica clara sua intenção de rediscussão por via transversa da matéria decidida, subvertendo o propósito do presente instrumento recursal.
+Assim, evidenciando-se não haver falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido, devem os embargos serem rejeitados.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
