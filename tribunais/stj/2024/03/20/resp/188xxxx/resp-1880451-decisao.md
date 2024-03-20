@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO, com fundamento na alínea a do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 5ª Região, proferido com a seguinte ementa:
+Processual Civil. FUNDEF. Execução de sentença proposta pelo município de Feira Grande - AL. Inocorrência de exceção de execução. Retenção dos honorários advocatícios. Possibilidade. Honorários de sucumbência.
+1. Cuida-se de apelações interposta contra sentença que julgou parcialmente procedente embargos à execução ofertados pela União sob alegação de que discorda dos cálculos apresentados, entendendo haver excesso na execução a partir dos índices utilizados no cálculo dos juros moratórios e da correção monetária, requerendo ainda a vinculação do eventual crédito do precatório à Fundo destinado à promoção da educação e a impossibilidade de destaque dos honorários advocatícios.
+2. Em relação à retenção dos honorários advocatícios, cuidando-se de verbas decorrentes de execução contra a Fazenda Pública, a rubrica orçamentária que vai suportar o pagamento dessas verbas já não se refere a valores do FUNDEF propriamente e sim à execução contra a Fazenda Pública. Possibilidade.
+3. Em relação aos juros de mora e à correção monetária, a sentença impugnada ajusta-se ao entendimento adotado por este Tribunal a partir do julgamento dos Embargos Infringentes n.º 0800212-05.2013.4.05.8100.
+4. Honorários advocatícios estipulados em favor do Município no valor de R$ 2.000,00.
+5. Apelo da União improvido e apelo do Município provido.
+Opostos embargos de declaração, foram eles rejeitados.
+Alega a recorrente, de início, ofensa ao art. 1.022 do Código de Processo Civil, reputando omisso o acórdão recorrido, não obstante a oposição dos aclaratórios.
+No mérito, aponta contrariedade aos arts. 485, V, 783, 803, I, 917, § 2º, I, 924, II do CPC, defendendo a configuração de indevida duplicidade/ excesso de execução/ litispendência, em razão dos valores postulados a título de diferenças do FUNDEF já serem objeto de execução anterior, em que teria sido computado o redutor da Portaria 745/2005-MEC (exercício de maio/2005).
+Aduz violação dos arts. 1º, 2º, 3º e 6º da Lei 9.424/1996; 8º da Lei Complementar 101/2000; 1º, 2º, 4º, 5º, 21, 22, 23 e 46 da Lei 11.494/2007, sustentando a impossibilidade de retenção dos honorários advocatícios derivados de execução de repasses do FUNDEF.
+Indica, ainda, infringência ao art. 1º-F da Lei 9.494/1997, questionando os critérios de correção monetária.
+Contrarrazões às fls. 771/796.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao recurso quanto à questão atinente ao art. 1º-F da Lei 9.494/1997, admitindo-o quanto aos demais pontos.
+É o relatório.
+Verifico dos autos que a alegada ofensa ao art. 1.022 do Código de Processo Civil tem por base suposta omissão do acórdão recorrido, dentre outros pontos, quanto à pretensão de ver reconhecida indevida cobrança em duplicidade dos descontos de maio/2005, caracterizando bis in idem.
+Do acórdão recorrido verifico que o Tribunal de origem se limitou a apreciar as questões relativas à litispendência, continência e impossibilidade de retenção dos honorários advocatícios. Após oposição dos sucessivos aclaratórios, o ponto tido por omitido não foi analisado.
+Conforme o entendimento do Superior Tribunal de Justiça, presente algum dos vícios - omissão, contradição ou obscuridade -, e apontada a violação do art. 1.022 do CPC no recurso especial, deve ser anulado o acórdão proferido pelo Tribunal de origem ao examinar os embargos de declaração lá opostos, retornando-se os autos à origem para nova apreciação dos aclaratórios. A propósito, confiram-se estes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 CONFIGURADA. ACÓRDÃO ESTADUAL OMISSO QUANTO A PONTO ESSENCIAL AO DESLINDE DA CONTROVÉRSIA. AGRAVO DESPROVIDO.
+1. Decisão atacada que deu provimento ao recurso especial da parte ora agravada para, reconhecendo violação ao art. 1.022 do CPC/2015, anular o acórdão que julgou os aclaratórios e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando a omissão reconhecida.
+2. Fica configurada a ofensa ao art. 1.022 do CPC/2015 quando o Tribunal a quo, apesar de devidamente provocado nos embargos de declaração, não se manifesta sobre tema essencial ao deslinde da controvérsia.
+3. Agravo interno desprovido. (AgInt no REsp n. 1.914.275/PB, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/6/2021, DJe de 9/8/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. VIOLAÇÃO AO ART. 535 DO CPC/73 CONFIGURADA. OCORRÊNCIA DE OMISSÃO DE TEMA ESSENCIAL PARA DESLINDE DA CONTROVÉRSIA. AGRAVO INTERNO PROVIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. Na hipótese de o eg. Tribunal local deixar de examinar questão nevrálgica ao desate do litígio, fica caracterizada a violação ao art. 535 do CPC/73.
+2. Reconhecida a existência de omissão essencial para o deslinde da controvérsia, deve-se determinar o retorno dos autos ao eg. Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando os vícios ora reconhecidos.
+3. Acolhida a alegada ofensa ao art. 535 do CPC/73, fica prejudicada a análise das demais teses trazidas no apelo nobre.
+4. Agravo interno provido para reconsiderar a decisão agravada e dar parcial provimento ao recurso especial e, reconhecendo a violação ao art. 535, II, do CPC/73, anular o v. acórdão de fls. 201/203, determinando o retorno dos autos ao eg. Tribunal a quo para promover novo julgamento dos embargos de declaração, como entender de direito. (AgInt no AREsp n. 218.092/RJ, relator Ministro Lázaro Guimarães - Desembargador Convocado do TRF da 5ª Região, Quarta Turma, julgado em 2/8/2018, DJe de 8/8/2018.)
+Ante o exposto, dou provimento ao recurso especial para, reconhecendo o vício de omissão do acórdão prolatado em aclaratórios, anular o julgado e determinar o retorno dos autos à origem para novo exame dos embargos de declaração. Fica prejudicado o exame do recurso especial do Município.
+Publique-se. Intimem-se.
+EMENTA
