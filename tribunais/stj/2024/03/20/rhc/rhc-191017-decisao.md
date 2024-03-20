@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por Diego Roberto Silva Santos contra o acórdão do Tribunal de Justiça do Piauí que denegou a ordem no HC n. 0758159-14.2023.8.18.0000 (fls. 81/89).
+Consta dos autos que o recorrente foi preso em flagrante, juntamente com os outros dois corréus, em 15/7/2023, co nvertida a prisão em preventiva, e denunciado pela suposta práti ca do crime tipificado no art. 157, §§ 2º, incisos II e VII, e § 2º-A, inciso I, do Código Penal, nos Autos n. 0837038-03.2023.8.1 8.0140, da 4ª Vara Criminal da comarca de Teresina/PI .
+No presente recurso, a defesa sustenta ausência de fundamentação concreta para a decretação da prisão preventiva, nos termos do art. 312 do CPP, e ressalta a suficiência das medidas cautelar es alternativas.
+Requer, ao final, a revogação da prisão preventiva.
+O Ministério Público Federal se manifestou pelo desprovimento do recurso (fls. 123/124).
+Em consulta à ação penal na página eletrônica do Tribunal local, houve audiência de instrução realizada em 19/2/2024, mas a in strução ainda não foi encerrada .
+É o relatório.
+O recurso não merece prosperar.
+O Magistrado decretou a prisão preventiva para a garantia da ordem pública porque A gravidade concreta das condutas restam demonstradas no "modus operandi" com que praticou os delitos, quais sejam: o crime foi praticado em concurso de três agentes (adota-se a teoria monista), com emprego de arma branca, uso de exacerbada violência e grave ameaça. Tais circunstâncias denotam uma extrema periculosidade dos autuados pelo excesso de violência/grave ameaça quando da prática do crime (fl. 48 - grifo nosso ).
+O Tribunal de origem, por sua vez, manteve o decreto da custódia cautelar, ratificando que a prisão preventiva está adequadamente motivada com base em elementos concretos extraídos dos autos, para garantia da ordem pública, diante do modus operandi da suposta conduta criminosa, indicando a periculosidade da paciente que, em concurso de agentes e mediante grave ameaça perpetrada com emprego de arma branca, teria subtraído pertences de diversas vítimas, realizando o denominado "arrastão", em uma parada de ônibus.(fl. 87 ).
+Real mente, verifica-se que a custódia cautelar está fundamentada em elementos concretos, tirados das circunstâncias do crime, reveladores da gravidade real da conduta do recorrente, que, na companhia de outros dois corréus, mediante violência e grave ameaça exercida com e mprego de a rma de fogo, subtraiu pertences de diversas vítimas em uma parada de ônibus, realizando o denominado "arrastão". Tais fatores demonstram o risco ao meio social e a necessidade da prisão preventiva para a garantia da ord em pública.
+Nesse sentido, a jurisprudência desta Corte Superior já se manifestou em caso análogo assim: A prisão preventiva escorada no modus operandi, delineado em roubo por "arrastão", com emprego de violência real - consistente em socos no rosto da vítima -, na companhia de adolescente em conflito com a lei, demonstra a gravidade concreta da conduta que transborda do modelo típico do crime de roubo majorado e autoriza, assim, o acautelamento da coletividade (HC n. 500.985/SP, Ministra Laurita Vaz, Sexta Turma, DJe 24/5/2019.
+A propósito, confira-se também o AgRg no HC n. 862.007/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 11/12/2023.
+Afora isso, é entendimento desta Casa que as condições favoráveis do recorrente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada; e que é inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Não é outra a opinião do M inistério Público Federal pela leitura do bem-lançado parecer escrito pelo Subprocurador-Geral da República Luciano Mariz Maia (fls. 123/124), o qual também adoto como razão de decidir.
+Ante o exposto, com base na jurisprudência e no parecer, nego provimento ao recurso em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HAB EAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DO CRIME. MODUS OPERANDI. GARANTIA DA ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. PARECER ACOLHIDO. INEVIDENTE ILEGALIDADE.
+Recurso em habeas corpus improvido.
