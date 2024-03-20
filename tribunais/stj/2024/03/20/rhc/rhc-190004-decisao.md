@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por RICHARD GOMES ROQUE SANTOS contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná.
+Consta dos autos que o recorrente encontra-se preso preventivamente sob a imputação da suposta prática do crime previsto no art. 171, §4º, do Código Penal.
+Inconformada com o decreto constritivo, a defesa impetrou habeas corpus perante a Corte de origem. A ordem, contudo, foi denegada, recebendo o acórdão a seguinte ementa (e-STJ fl. 185):
+HABEAS CORPUS - ESTELIONATO (ART. 171, CAPUT, DO CÓDIGO PENAL) - GOLPE DO "BILHETE PREMIADO" - PRISÃO PREVENTIVA - FUNDAMENTAÇÃO ADEQUADA - PRESENÇA DOS PRESSUPOSTOS E REQUISITOS DO ART. 312 DO CÓDIGO DE PROCESSO PENAL - PROVA DA MATERIALIDADE DELITIVA E INDÍCIOS SUFICIENTES DA AUTORIA - INVIABILIDADE DA DISCUSSÃO APROFUNDADA, NA VIA ESTREITA DO HABEAS CORPUS, SOBRE A PARTICIPAÇÃO DO PACIENTE NO CRIME - GARANTIA DA ORDEM PÚBLICA E CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL - PACIENTE, EM TESE, RESPONSÁVEL POR FORNECER CONTA BANCÁRIA EM SEU NOME PARA DEPÓSITO DO PRODUTO DO CRIME (R$ 58.750,00) - ACUSADO QUE NÃO POSSUI DOMICÍLIO NO DISTRITO DA CULPA - INSUFICIÊNCIA E INADEQUAÇÃO DAS MEDIDAS CAUTELARES DIVERSAS DA PRISÃO DISPOSTAS NO ART. 319 DO CÓDIGO DE PROCESSO PENAL - EVENTUAIS CONDIÇÕES PESSOAIS FAVORÁVEIS QUE, POR SI SÓS, NÃO OBSTAM A DECRETAÇÃO DA PRISÃO PREVENTIVA - INVIABILIDADE DE PROJEÇÃO, NA VIA ESTREITA DO HABEAS CORPUS, DA PENA QUE SERÁ APLICADA OU DO REGIME INICIAL PARA SEU CUMPRIMENTO EM CASO DE EVENTUAL PROLAÇÃO DE SENTENÇA CONDENATÓRIA. HABEAS CORPUS DENEGADO.
+No presente recurso, a defesa sustenta, em síntese, a ilegalidade da segregação cautelar, ante a inexistência de fundamentação idônea para a prisão preventiva, inclusive sem considerar a possibilidade de aplicação de medidas cautelares alternativas, cuja suposta inadequação no caso concreto não estaria devidamente demonstrada pelas decisões precedentes.
+Sublinha, ainda, que o recorrente sequer foi denunciado por associação criminosa, não se podendo ignorar a presença de condições pessoais favoráveis, como primariedade, residência fixa (ainda que em outro estado da federação), ocupação lícita e família constituída, o que enfraquece, inclusive, a suposta existência de periculum libertatis.
+Diante disso, requer, em liminar e no mérito, a substituição da prisão preventiva por medidas cautelares alternativas.
+O pleito urgente foi indeferido (e-STJ fls. 232/234).
+Prestadas as informações (e-STJ fls. 240/260), o Ministério Público Federal manifestou-se pelo não conhecimento do recurso (e-STJ fls. 262/263).
+É o relatório. Decido.
+Consoante informações colhidas do site do Tribunal de origem, inclusive corroboradas pelo parecer ministerial, em 9/11/2023 foi revogada a prisão preventiva do réu, ora recorrente, momento em que foi determinada a expedição de alvará de soltura em seu favor (e-STJ fls. 262/263).
+Assim, fica sem objeto o pedido contido na inicial, em que a defesa se insurgia contra a custódia cautelar do recorrente.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Intimem-se.
+EMENTA
