@@ -1,0 +1,12 @@
+DECISÃO
+O paciente alega sofrer coação ilegal em face de acórdão do Tribunalal a quo. Busca o direito à progressão de regime, por considerar que estão caracterizados os seus requisitos legais.
+Decido.
+O Juiz da VEC indeferiu a progressão de regime por falta de requisito subjetivo, pois, em várias oportunidades em que esteve em liberdade provisória,  o sentenciado  incorreu em prática delitiva grave". Ainda, "possui 3 processos pelos crimes de homicídios". O Magistrado considerou trechos do parecer psicológico para concluir que o sentenciado avalia "o período de encarceramento em razão das suas próprias perdas (afastamento social e familiar), omitindo-se com relação aos atos causados às vítimas e a seus familiares afastados por seus atos" (fl. 110).
+O Tribunal manteve a decisão.
+Conforme o entendimento desta Corte, o Magistrado não é mero órgão chancelador de atestado emitido pela direção prisional, início de prova do bom comportamento. A execução é jurisdicionalizada e o Magistrado pode discordar do documento, desde que indique dados pertinentes ao período do encarceramento que denotem a probabilidade de o indivíduo cometer novos delitos e sua incapacidade de se reintegrar às regras da sociedade de forma positiva.
+O condenado por homicídio, roubo majorado e porte de arma, reiterou a prática de crimes violentos (homicídios) nas oportunidades em que foi posto em liberdade provisória. Com lastro em trechos do laudo psicológico, o Magistrado registrou a ausência de elaboração de crítica adequada sobre o comportamento ilícito, o que é relevante o processo de ressocialização. O preso não compreendeu seu comportamento sob a ótica das vítimas e de seus familiares. Apenas avaliou suas próprias perdas (afastamento social e familiar).
+O Magistrado não está vinculado às conclusões do exame criminológico, podendo dele divergir, desde que o faça de maneira fundamentada, com base no princípio do livre convencimento motivado.
+As "instâncias ordinárias extraíram trechos desfavoráveis do exame criminológico para fundamentar o indeferimento da progressão de regime por ausência do requisito subjetivo. Tal providência encontra respaldo na jurisprudência desta Corte Superior. Precedentes. 3. Desconstituir os fundamentos firmados  ..  implica em revolvimento fático-probatório, providência vedada na via eleita" (AgRg no HC n. 749.522/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
