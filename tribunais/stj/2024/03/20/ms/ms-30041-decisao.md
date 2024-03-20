@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de mandado de segurança impetrado por DOUGLAS SANTANNA DE SOUZA contra ato da MINISTRA DA GESTÃO E DA INOVAÇÃO EM SERVIÇOS PÚBLICOS consistente na impossibilidade de o impetrante realizar a sua inscrição no Concurso Nacional Unificado por dificuldades de acesso ao portal GOV.BR.
+Alega o impetrante que "desde às 20 horas do dia 09/02/2024 o impetrante tentou fazer seu login no portal GOV.BR para efetuar a sua inscrição no Concurso Nacional Unificado, mas este solicitava um código de acesso que não chegava em seu telefone celular" (fl. 4).
+Aduz que entrou em contato com o suporte virtual, destacando que precisava solucionar o problema até às 23h59, e foi orientado a fazer um requerimento relatando o problema, sem que lhe fosse oferecida uma solução imediata. Afirma que preencheu o requerimento, aguardando a solução do problema, que só ocorreu no dia seguinte.
+Argumenta que teve prejudicado o seu direito de concorrer a uma das vagas do certame por um problema apresentado no portal do Governo Federal, única forma de efetivar a sua inscrição.
+Pede a antecipação dos efeitos da tutela para que seja determinada a sua imediata inscrição no certame.
+É o relatório.
+A irresignação não merece prosperar.
+No presente caso, o ato apontado como coator é um série de documentos extraídos da página de suporte do site GOV.BR sobre chamado aberto pelo impetrante para a exclusão de sua conta na plataforma de autenticação daquele site e um e-mail enviado para a "Cesgranrio", organizadora do concurso, solicitando uma solução para realizar a sua inscrição.
+Conforme o disposto no art. 6º, § 3º, da Lei 12.016/2009, a autoridade coatora é aquela "que tenha praticado o ato impugnado ou da qual emane a ordem para a sua prática".
+No presente caso, não constato a prática de nenhum ato da autoridade apontada como coatora, tampouco constato que ela seria a autoridade que poderia determinar a inscrição do impetrante no Concurso Nacional Unificado, não tendo o impetrante apresentado documentação que comprove a prática de ato ilegal pela autoridade apontada. Nesse sentido:
+AGRAVO REGIMENTAL NO MANDADO DE SEGURANÇA. INSCRIÇÃO NO FIES. ILEGITIMIDADE PASSIVA DO MINISTRO DA EDUCAÇÃO. AUSÊNCIA DE COMPROVAÇÃO DE ATO LESIVO OU OMISSIVO DE DIREITO LÍQUIDO E CERTO. AGRAVO NÃO PROVIDO.
+1. A competência originária do Superior Tribunal de Justiça estabelecida no art. 105, I, b, da Constituição Federal, para conhecer e julgar mandado de segurança, é de interpretação restrita, limitando-se aos casos em que houver ato omissivo ou comissivo praticado por Ministro de Estado, por Comandantes da Marinha, do Exército e da Aeronáutica ou pelo próprio Tribunal, que seja lesivo a direito líquido e certo do impetrante.
+2. Para fins de mandado de segurança, autoridade coatora é aquela que pratica, ordena ou omite a prática do ato impugnado e tem poderes para refazê-lo.
+3. No presente caso, o impetrante se insurge exclusivamente contra a impossibilidade de realizar sua inscrição no sítio eletrônico do Ministério da Educação para concorrer a uma vaga no FIES. Entretanto, não trouxe nenhuma prova pré-constituída comprovando que o Ministro de Estado da Educação tenha praticado, ou deixado de praticar algum ato ilegal ou abusivo violador de seu direito líquido e certo.
+4. Agravo não provido. (AgRg no MS 15.852/DF, relator Ministro Arnaldo Esteves Lima, Primeira Seção, DJe 6/6/2012.)
+Ademais, o impetrante não trouxe nenhum elemento apto a demonstrar que a MINISTRA DA GESTÃO E DA INOVAÇÃO EM SERVIÇOS PÚBLICOS tenha praticado, ou deixado de praticar, ato ilegal e abusivo, violador de seu direito líquido e certo, tendo apenas juntado aos autos documentos referentes às tentativas de realização da inscrição no Concurso Nacional Unificado e de acesso ao portal GOV.BR, no último dia do prazo para inscrição, e próximo ao final do dia. Não há, portanto, prova pré-constituída do suposto ato ilegal, noticiado na petição inicial, o que torna incabível o presente writ.
+Ante o exposto, indefiro liminarmente a petição inicial do mandado de segurança, com fundamento nos arts. 10 da Lei 12.016/2009 e 212 do Regimento Interno desta Corte e nos termos do art. 109, VIII, da Constituição da República.
+Prejudicado o pedido liminar.
+Publique-se. Intimações necessárias.
+EMENTA
