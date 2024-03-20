@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por HEISA MARIANE SANTOS SILVA contra decisão de fls. 2221/2222, que não conheceu do recurso.
+Em suas razões, sustenta a parte embargante que:
+Data maxima venia, existem contradições e omissões no V. Acórdão embargado, passíveis de serem sanadas através dos presentes Embargos de Declaração. Para assim decidir o v. aresto agravado fundou- se em erro material manifesto ou, no mínimo, em obscuridade, a justificar a oposição destes embargos. Isso porque há, sim, no agravo diversas passagens em que o ora Embargante explicitamente apontou lei federal para o caso concreto.
+Deixou o acórdão de apreciar os argumentos trazidos pelo ora Embargante no que tange a escorreita fundamentação do seu Apelo Especial, pois não houve análise acerca dos dispositivos legais mencionados, quais sejam, art. 10 e 11, todos da Lei 8.429/92, em fls. e- STJ 2.114, 2.116, 2.119 e outras, além da ofensa ao Código de Processo Civil, o qual dispões que o marco inicial para contagem do prazo prescricional é o trânsito em julgado, conforme fls. E-STJ 2.110, vejamos:
+ ..
+A Agravante apontou, de forma expressa, na fundamentação jurídica empregada na elaboração no Recurso Especial, as razões pelas quais as soluções das questões legais foram ofertadas pelo Tribunal de origem com equívocos e absolutamente injustas diante do direito e, em especial, da Lei em sentido estrito (fl. 2226/2229).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado expressamente na decisão embargada incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou objeto de divergência jurisprudencial.
+Em outras palavras, para que haja a admissão do recurso especial pela alínea "a" do permissivo constitucional - necessariamente - deve haver a indicação precisa dos dispositivos de lei federal violados e, pela alínea "c" do permissivo constitucional, deve haver a indicação precisa de quais dispositivos legais seriam objeto de dissídio interpretativo, não bastando, para ambos casos, a mera transcrição dos artigos legais.
+Neste ponto, impende salientar que a parte ora embargante, na petição do recurso especial, menciona genericamente alguns artigos sem, contudo, apontar especificamente se aqueles eram os artigos que considerava violado ou em que medida teria ocorrido a suposta violação.
+Por fim, consigne-se que não prosperam os argumentos do embargante quanto à indicação dos artigos de lei violados, uma vez que foram mencionados somente na petição de agravo em recurso especial. Com efeito, saliente-se que se mostra inviável a indicação posterior do dispositivo violado na medida em que os requisitos do recurso especial necessariamente devem ser preenchidos em concomitância com a sua interposição.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
+ EMENTA
