@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por IMOBILIÁRIA E CONSTRUTORA CONTINENTAL LTDA em face da decisão acostada às fls. 77-79 e-STJ, que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pelo ora agravante.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 44-47, assim ementado:
+Agravo de Instrumento - Agravante que, devidamente intimada, não providenciou o recolhimento da taxa para intimação postal dos agravados nos termos do art. 1.019, II do CPC - Ausência de regularidade formal do recurso que impede a instauração do contraditório Inadmissibilidade evidenciada Recurso não conhecido.
+Opostos embargos declaratórios, restaram desacolhidos na origem (fls. 54-56 e-STJ).
+Nas razões de recurso especial (fls.58-70 e-STJ), alegou o insurgente que o acórdão recorrido violou os seguintes dispositivos de lei federal: (i) artigo 489, § 1º, IV do CPC, sustentando que v. acórdão deixou de observar os argumentos apresentados pela recorrente relativo ao mérito do recurso interposto bem como ao fato de que os recorridos estavam representado nos autos; e, (ii) artigo 270 do CPC, que estabelece que "as intimações realizam-se, sempre que possível, por meio eletrônico, na forma da lei".
+Contrarrazões não apresentadas (fls. 76 e-STJ).
+Em juízo prévio de admissibilidade (fls. 77-79 e-STJ), a Corte de origem inadmitiu o apelo nobre pela inexistência de omissão no julgado e por aplicação da Súmula 7/STJ.
+Inconformado, interpôs o presente agravo (art. 1.042 do CPC/15), às fls. 82-103 e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Contraminuta não apresentada (fls. 113 e-STJ).
+É o relatório.
+Decide-se.
+A pretensão recursal não merece prosperar.
+1. De início, afasta-se a alegação de negativa de prestação jurisdicional.
+Não se verifica ofensa aos artigos 489 e 1.022 do CPC/15 quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito.
+Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+Nesse sentido, citam-se os seguintes precedentes deste Superior Tribunal de Justiça: AgInt no REsp 1750080/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 10/08/2020, DJe 21/08/2020; AgInt no AREsp 1507690/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/06/2020, DJe 01/07/2020.
+Alegou a recorrente que o acórdão impugnado restou omisso pois deixou de observar os argumentos apresentados pela recorrente relativo ao mérito do recurso interposto bem como ao fato de que os recorridos estavam representado nos autos. (..)
+Todavia, conforme trecho a seguir citado, o Tribunal local tratou expressamente (fls. 53-56 e-STJ):
+De acordo com o novo Código de Processo Civil, os limites traçados para oposição de embargos encontram-se definidos no art. 1.022, assentando que visam: I) esclarecer obscuridade ou eliminar contradição; II) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; III) corrigir erro material.
+Acrescenta o parágrafo único deste dispositivo legal, por sua vez, que: "Considera-se omissa a decisão que: I) deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento; II) incorra em qualquer das condutas descritas no art. 489, § 1º".
+No caso vertente, vê-se que os presentes embargos de declaração não observam tais lindes, pretendendo, na verdade, consoante se infere das alegações da embargante, discutir a fundamentação do acórdão embargado, visando o reexame da causa, o que é descabido em sede deste recurso.
+A fundamentação do acórdão embargado, de resto, aponta claramente os motivos pelos quais houve por bem não conhecer o recurso interposto pela ora embargante, em razão de não ter sido providenciado no prazo determinado de cinco dias o recolhimento da taxa postal para intimação dos agravados que não estavam representados nos autos, conforme determinado às fls. 33, inexistindo qualquer omissão a ser suprida pelas razões que aponta. Sua fundamentação, de resto, afigura-se suficiente para responder, direta ou indiretamente, todas as questões mencionadas pela embargante, ainda que não tenham sido expressamente apontadas em referido aresto.
+O recolhimento tardio da taxa de intimação não afasta o entendimento adotado, não tendo sido apresentada nenhuma justificativa para o descumprimento da determinação no prazo concedido.
+Dessa forma, como se infere dos termos da fundamentação do acórdão embargado, todas as questões levantadas pela ora embargante nos presentes embargos foram devidamente consideradas quando do julgamento do agravo de instrumento, não se prestando a presente via recursal como mecanismo para possibilitar o conhecimento do recurso.
+Ademais, conforme já se decidiu, "o juiz não está obrigado a responder todas as alegações das partes, quando já tenha encontrado motivo suficiente para fundar a decisão, nem se obriga a ater-se aos fundamentos indicados por elas e tampouco a responder um a um todos os seus argumentos" (RJTJESP 115/207). Por isso, resta infundada a alegação da embargante no tocante à falta de análise dos seus argumentos.
+Como visto, as teses da insurgente foram apreciadas pelo Tribunal a quo, que as afastou, de forma fundamentada.
+Não há falar, portanto, em omissão, sendo certo que os embargos de declaração não se constituem via própria para rejulgamento da causa, não havendo espaço para análise de inconformismo quanto ao entendimento adotado.
+Nesse sentido: AgInt no AgInt no AREsp 1539179/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/02/2020, DJe 19/02/2020; EDcl no AgInt no AREsp 698.731/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 11/05/2020, DJe 14/05/2020.
+Afasta-se, portanto, a alegada afronta aos artigos 489 e 1.022 do CPC/15.
+2. Quanto à suposta afronta ao art. 270 do CPC, observa-se que tal dispositivo não foi objeto de análise pela Corte de origem, porque sequer suscitado pelo insurgente nas razões do agravo de instrumento ou dos embargos declaração por ele opostos.
+Desse modo, sobreleva notar que, nos termos da jurisprudência deste Tribunal Superior, "para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal" (AgRg no AREsp 519.518/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 03/05/2018, DJe 25/05/2018).
+No mesmo sentido, citam-se: AgInt no REsp 1668409/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/05/2018, DJe 24/05/2018; AgInt no REsp 1599354/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/11/2016, DJe 30/11/2016; AgInt no AREsp 1081236/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/08/2017, DJe 05/09/2017.
+Assim, uma vez que o Tribunal de origem não proferiu decisão a respeito da controvérsia trazida a esta Corte Superior, não havendo, sequer, é inviável conhecer o recurso especial, uma vez ausente o requisito do prequestionamento, conforme óbice das súmulas 282/STF e 211/STJ.
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para negar provimento ao recurso especial. Deixa-se de majorar os honorários advocatícios (art. 85, § 11 do CPC) porque não fixados na origem.
+Publique-se.
+Intimem-se.
+EMENTA
