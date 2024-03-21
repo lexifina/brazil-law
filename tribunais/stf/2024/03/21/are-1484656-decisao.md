@@ -1,0 +1,51 @@
+Decisão:
+
+    Vistos.
+
+    O Ministério Público do Estado do Rio Grande do Sul interpõe agravo contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao art. 5º, incisos II, XXXV, LIV e LV, bem como aos artigos 102, caput, e 129, inciso I, todos da Constituição Federal,
+
+    Insurge-se, no apelo extremo, contra acórdão proferido pela Sexta Turma do Superior Tribunal de Justiça, assim ementado:
+
+    “AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. FALTA GRAVE. TEMA SUBMETIDO À REPERCUSSÃO GERAL DO STF. SOBRESTAMENTO. SUSPENSÃO DO LAPSO PRESCRICIONAL. AUSÊNCIA DE PREVISÃO LEGAL. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. PREQUESTIONAMENTO. VIA INADEQUADA. RECURSO DESPROVIDO.
+
+    1. O art. 1.030, III, do Código de Processo Civil prevê a possibilidade de o relator sobrestar o recurso que versar sobre controvérsia de carácter repetitivo. Contudo, nada dispõe acerca da possibilidade de suspensão do prazo prescricional nos casos em que reconhecida a repercussão geral do tema.
+
+    2. Assim, em razão da omissão legal, não há como aplicar de forma extensiva e prejudicial ao recorrido o que preceitua o art. 1.035, § 5º, do CPC, no que tange à suspensão do prazo prescricional, não sendo admissível a analogia in malam partem.
+
+    3. É incabível a pretensão de forçar o pronunciamento desta Corte sobre eventual ofensa a matéria constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada à Corte Suprema.
+
+    4. Agravo regimental desprovido.”(e-doc. 85)
+
+    Em síntese, alega o recorrente que:
+
+    “(...) na ausência de previsão expressa quanto à suspensão do prazo prescricional no âmbito de processos penais sobrestados em razão do reconhecimento de repercussão geral (nos termos do artigo 1.030, III, do CPC), impositiva a realização de interpretação conforme a Constituição do artigo 116, inciso I, do Código Penal, na esteira na mesma ratio decidendi já utilizada pelo Supremo Tribunal Federal na Questão de Ordem no RE 966.177/RS, no qual se entendeu ser a suspensão do prazo prescricional consequência automática da determinação de suspensão nacional de todos os processos pendentes pelo Relator no STF (nos termos do artigo 1.035,§5º, do CPC)”(doc. 92)
+
+    Examinados os autos, decido.
+
+    Verifica-se que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram objeto dos embargos de declaração opostos para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte. Nesse sentido, destaca-se:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AJUDA DE CUSTO. MILITAR. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. SÚMULA 636 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO. I Ausência de prequestionamento. Incidência da Súmula 282 do STF. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. II Esta Corte entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). III Agravo regimental a que se nega provimento” (ARE nº 800.777/RS-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 29/5/14).
+
+    Ademais, é imperioso concluir que o Tribunal a quo, ao dirimir a questão posta no apelo extremo, ateve-se ao exame da legislação infraconstitucional. Portanto, a violação à Constituição, se ocorresse, seria indireta ou reflexa, o que não enseja recurso extraordinário, sendo certo, ainda, que superar a conclusão adotada pela Corte de origem, como pretendido, demandaria um reexame aprofundado do contexto fático probatório dos autos, o que é inviável na via eleita. Incidência, portanto, da Súmula nº 279/STF.
+
+    Anota-se:
+
+    “DIREITO PENAL E PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. ALEGAÇÃO DE OFENSA AOS ARTS. 5º, XXXVIII, “D”, 93, IX, E 105, III, “A”, DA CONSTITUIÇÃO DA REPÚBLICA. DEFICIÊNCIA NA DEMONSTRAÇÃO DA REPERCUSSÃO GERAL. INOBSERVÂNCIA DO ART. 1.035, §§ 1º E 2º, DO CPC/2015. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 93, IX, DA CONSTITUIÇÃO DA REPÚBLICA. NULIDADE. INEXISTÊNCIA. EXAME DA CORREÇÃO DA DECISÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA EM RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA AO ART. 105, III, DA CONSTITUIÇÃO DA REPÚBLICA. VIOLAÇÃO INOCORRENTE. TRIBUNAL DO JÚRI. HOMICÍDIO SIMPLES. DOLO EVENTUAL. RESTABELECIMENTO DA SENTENÇA DE PRONÚNCIA. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. Deficiência na fundamentação da repercussão geral no recurso extraordinário interposto sob a égide do CPC/2015. Inobservância do art. 1.035, §§ 1º e 2º, do CPC/2015. 2. Não existe violação do art. 93, IX, da Constituição Federal. A jurisprudência do Supremo Tribunal Federal é no sentido de que o referido dispositivo constitucional exige a explicitação, pelo órgão jurisdicional, das razões do seu convencimento. Enfrentadas todas as causas de pedir veiculadas pela parte capazes de, em tese, influenciar o resultado da demanda, fica dispensado o exame detalhado de cada argumento suscitado, considerada a compatibilidade entre o que alegado e o entendimento fixado pelo órgão julgador. 3. A controvérsia, nos termos do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, bem como a reelaboração da moldura fática, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, conforme a remansosa jurisprudência desta Suprema Corte. 4. Na esteira da jurisprudência do Supremo Tribunal Federal, incabível o recurso extraordinário fundado em violação do art. 105, III, da Lei Maior para o exame da correção da decisão do Superior Tribunal de Justiça, salvo se o julgamento emanado da Corte Superior apoiar-se em premissas que conflitem diretamente com o disposto no permissivo constitucional, hipótese não verificada no caso concreto. Precedentes. 5. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, principalmente no que se refere à ausência de ofensa a preceito da Constituição da República. 6. Agravo interno conhecido e não provido.” (ARE nº 1.217.953-AgR/MG, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 25/9/19) (Grifos nossos);
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CRIMINAL. ART. 5°, XXXVIII, d, DA CF. REAPRECIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos. Óbice da Súmula 279/STF. IV - Agravo regimental a que se nega provimento. (ARE nº 1.106.179-AgR/MG, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 30/4/18).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CRIMINAL. ART. 5°, LVII, DA CF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. REAPRECIAÇÃO DE NORMA INFRACONSTITUCIONAL E DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279/STF. SENTENÇA DE PRONÚNCIA. PRINCÍPIO IN DUBIO PRO SOCIETATE. VIOLAÇÃO DO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - Ausência de prequestionamento do art. 5°, LVII, da Constituição Federal CF. Os embargos declaratórios não foram opostos. Incidência das Súmulas 282 e 356/STF. II - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, bem como a interpretação de legislação infraconstitucional aplicável ao caso. Óbice da Súmula 279/STF. III - O acórdão recorrido se encontra consentâneo com o entendimento desta Corte, no sentido de que na sentença de pronúncia deve prevalecer o princípio in dubio pro societate, não existindo nesse ato qualquer ofensa ao princípio da presunção de inocência, porquanto tem por objetivo a garantia da competência constitucional do Tribunal do Júri. IV - Agravo regimental a que se nega provimento.” (ARE nº 986.566/SE-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJ de 30/8/17).
+
+    “Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Ofensa reflexa à Constituição. Precedentes. Pretendida desclassificação da conduta delituosa. Reexame de fatos e provas, inviável na via extraordinária, a teor da Súmula nº 279. Agravo não provido. 1. A jurisprudência da Suprema Corte é assente no sentido de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, não configura ofensa direta e frontal à Constituição da República. 2. Pressupõe o reexame de fatos e provas, não admitido na via extraordinária, a teor da Súmula nº 279/STF, avançar na análise da pretendida desclassificação do crime de peculato para o de apropriação indébita. 3. Agravo regimental a que se nega provimento.” (ARE nº 827.045/DF-AgR, Segunda Turma,de minha relatoria, DJe de 13/4/16)
+
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Publique-se.
+
+    Brasília, 21 de março de 2024.
+
+Ministro DIAS TOFFOLI
+
+Relator
+
+Documento assinado digitalmente
