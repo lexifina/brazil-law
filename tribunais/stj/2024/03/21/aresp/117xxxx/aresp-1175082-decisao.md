@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da ausência de violação a dispositivo legal e aplicação da Súmula n. 7 do STJ (e-STJ fls. 556/569).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 336):
+APELAÇÃO CÍVEL. AÇÃO REGRESSIVA C/C COM INDENIZAÇÃO. DÉBITOS TRIBUTÁRIOS DE ISS PAGOS PELO TOMADOR DO SERVIÇO/RESPONSÁVEL TRIBUTÁRIO. FALTA DE RETENÇÃO E RECOLHIMENTO DO ISS. RESPONSABILIZAÇÃO PELO PAGAMENTO DO TRIBUTO, NA CONDIÇÃO DE SUBSTITUTA TRIBUTÁRIA. DIREITO DE REGRESSO. PEDIDO DE RESSARCIMENTO AO CONTRIBUINTE/PRESTADOR DO SERVIÇO, ORA APELANTE, QUE DEVE DESEMBOLSAR O VALOR DO ISS INCIDENTE SOBRE A ATIVIDADE POR ELA DESENVOLVIDA. MANUTENÇÃO DA DECISÃO.
+RECURSO NÃO PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 363/366).
+Nas razões do recurso especial (e-STJ fls. 370/403), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(ii) arts. 330, I, e 333, II, do CPC/1973, "ante a impossibilidade da ré/recorrente produzir prova de que acordou com a autora/recorrida que o pagamento do ISS caberia integralmente a esta" (e-STJ fl. 379). Aduz que "a ré/recorrente ficou impossibilitada de produzir prova testemunhal para comprovar a existência de acordo dispondo a quem caberia a responsabilidade do pagamento do tributo (ISS) em razão do julgamento antecipado da lide, sendo tal prova de extrema relevância" (e-STJ fl. 379),
+(i) arts. 515 e 535, I e II, do CPC/1973, "em razão da ausência/omissão de análise quanto à questões fáticas relevantes ao deslinde do feito, devidamente suscitadas no apelo e embargos declaratórios junto ao TJ/PR" (e-STJ fl. 379). Afirma que deve "ser acolhido o presente recurso para que o acórdão impugnado seja anulado por este E. STJ, a fim de que o E. Tribunal local manifeste-se a respeito da impossibilidade de prévia discussão tanto sobre a existência de acordo prevendo quem deveria pagar o tributo, bem como, sobre a base de cálculo deste, visto que a autora/recorrida errou ao ter notificado a ré/recorrente somente após já ter aderido ao parcelamento" (e-STJ fl. 384), e
+(iii) art. 6º, § 1º, da LC n. 116/2003, "quanto aos encargos moratórios, nos termos da r. sentença que não pode ser reformada para pior ante a aplicação do princípio da proibição da "Reformatio in pejus"" (e-STJ fl. 379).
+No agravo (e-STJ fls. 556/569), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 589/614).
+É o relatório.
+Decido.
+Na origem, CEMED CARE - EMPRESA DE ATENDIMENTO CLÍNICO GERAL, ora agravada, ajuizou ação regressiva com pedido de indenização, "objetivando a condenação da ré apelante ao ressarcimento dos valores que pagou ao Fisco Municipal, a título de ISS, honorários e custas processuais, nos autos de execução fiscal n. 3833/2011, da 22ª Vara da Fazenda Pública desta Capital, de vez que, apesar de ser responsável tributária, não havia retido o imposto no momento do pagamento do serviço prestado, bem como a condenação em danos morais" (e-STJ fl. 338).
+O Juízo de primeira instância, em julgamento antecipado, decidiu pela parcial procedência do "pedido de CEMED CARE - EMPRESA DE ATENDIMENTO CLÍNICOGERAL LTDA. em face de DAMIENI SOLUÇÕES DE ENGENHARIA LTDA. para o fim de condenar a requerida ao ressarcimento dos valores pagos pela autora a título de ISS, honorários advocatícios e custas processuais da ação executiva" (e-STJ fl. 225), pelos seguintes fundamentos (e-STJ fl. 224 - grifei):
+Assim, considerando que o prestador de serviços é o contribuinte do imposto Sobre Serviços, cabendo o tomador de serviços efetuar seu recolhimento e pagamento do imposto, considerando que não há elemento mínimo que demonstre existência de acordo em que a autora assumiria o ônus do tributo e, considerando que esta efetuou o pagamento ante o não recolhimento pela requerida, a procedência do pedido de ressarcimento se impõe.
+No recurso de apelação, a ré afirmou que "não obstante o pedido de produção de provas feito ao Juízo tempestivamente (8.175), a ré/apelante ficou impossibilitada de produzir as provas requeridas para comprovar fato modificativo/extintivo do direito da autora ante o julgamento antecipado da lide" (e-STJ fl. 254).
+Por sua vez, ao julgar o recurso, o Tribunal de origem afastou o cerceamento de defesa, "pois, sendo o magistrado o destinatário final das provas, cabe a este deferir as necessárias para a boa resolução da demanda, podendo julgar antecipadamente a lide, se entender que as provas requeridas em nada contribuiriam para sua convicção" (e-STJ fl. 338).
+Contudo, o acórdão recorrido encontra-se em dissonância com a jurisprudência desta Corte, segundo a qual há cerceamento de defesa quando o magistrado indefere a produção da prova oportunamente requerida e decide o mérito com base na ausência de comprovação do direito. Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. IRREGULARIDADE NA INTIMAÇÃO. NULIDADE. NÃO OCORRÊNCIA. IMPUGNAÇÃO AOS EMBARGOS DE DIVERGÊNCIA APRESENTADA. DECISÃO POSTERIOR. VIOLAÇÃO AO CONTRADITÓRIO E AMPLA DEFESA. AUSÊNCIA. AÇÃO DE EMBARGOS À EXECUÇÃO. PEDIDO DE PRODUÇÃO DE PROVAS NA INICIAL. JULGAMENTO ANTECIPADO DA LIDE. JULGAMENTO DESFAVORÁVEL POR AUSÊNCIA DE PROVAS. CERCEAMENTO DE DEFESA. CONFIGURAÇÃO. DIVERGÊNCIA ENTRE OS ACÓRDÃOS CONFRONTADOS VERIFICADA.
+ ..
+3. Cabe ao Juízo, como destinatário final da prova, dirigir a instrução e deferir a produção probatória que considerar necessária à formação do seu convencimento.
+4. No entanto, conforme a jurisprudência consolidada do STJ, há cerceamento de defesa quando o Juízo indefere a produção das provas requeridas oportunamente pela parte, mas profere julgamento que lhe é desfavorável por ausência de provas.
+ ..
+6. Agravo interno desprovido.
+(AgInt nos EDcl nos EAREsp n. 1.790.144/GO, relatora Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 29/11/2022, DJe de 1/12/2022.)
+Diante do indeferimento da produção de prova, a ré foi impedida de comprovar a existência de acordo em que a autora assumiria o ônus do pagamento do tributo.
+Assim, por contrariar a jurisprudência desta Corte, é de rigor a alteração do julgado, de modo a permitir que a parte agravante realize a prova pretendida.
+As demais alegações apresentadas no recurso ficam prejudicadas, haja vista que a sentença será anulada.
+Em face do exposto, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial, a fim de anular a sentença proferida, para que se conceda à agravante a oportunidade de produzir a prova requerida.
+Publique-se e intimem-se.
+ EMENTA
