@@ -1,0 +1,15 @@
+DECISÃO
+Daniel Luiz Araujo de Souza ingressa com agravo regimental inconformado com a decisão de fls. 64/66, pela qual foi indeferido liminarmente o habeas corpus.
+Insiste no pedido de revogação da prisão preventiva.
+Às fls. 125/139, o agravante junta a cópia do acórdão denegatório do writ originário (HC n. 22133070320238260000):
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO (ARTIGO 121, § 2º, INCISOS I E IV, DO CÓDIGO PENAL). REVOGAÇÃO DA PRISÃO PREVENTIVA. IMPOSSIBILIDADE. PRESENTES OS REQUISITOS PREVISTOS NO ARTIGO 312, DO CÓDIGO DE PROCESSO PENAL. PROVA DA MATERIALIDADE E INDÍCIOS SUFICIENTES DE AUTORIA. PRESENÇA DO PERICULUM LIBERTATIS. ELEVADA REPROVABILIDADE DA CONDUTA IMPUTADA AO PACIENTE NA DENÚNCIA. PERICULOSIDADE DEMONSTRADA. NECESSIDADE DE MANUTENÇÃO DA PRISÃO PREVENTIVA TAMBÉM PARA SE PRESERVAR A INSTRUÇÃO PROBATÓRIA, EVITANDO-SE CONSTRANGIMENTO ÀS TESTEMUNHAS.
+PACIENTE REINCIDENTE. AUSÊNCIA DE OFENSA AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. NECESSIDADE DE SE RESGUARDAR A ORDEM PÚBLICA E A INSTRUÇÃO PROCESSUAL. CIRCUNSTÂNCIAS DO CRIME QUE RECOMENDAM, POR ORA, A MANUTENÇÃO DA PRISÃO PREVENTIVA DECRETADA. DECISÃO BEM FUNDAMENTADA.
+CONSTRANGIMENTO ILEGAL INEXISTENTE. ORDEM DENEGADA.
+É o relatório.
+O agravo regimental perdeu o objeto.
+Em consulta ao sítio eletrônico do Tribunal de origem, verifiquei que, após a pronúncia do ora agravante, o Magistrado de primeiro grau concedeu ao acusado a liberdade provisória, cumulada com medidas cautelares.
+Ante o exposto, julgo prejudicado o agravo regimental.
+Publique-se.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO (ART. 121, § 2º, INCISOS I E IV, DO CÓDIGO PENAL). PRISÃO PREVENTIVA. LIBERDADE PROVISÓRIA CONCEDIDA NA ORIGEM.
+Agravo regimental prejudicado.
