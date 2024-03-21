@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por PERFECT NATURE COMERCIO E DISTRIBUICAO DE PRODUTOS NATURAIS LTDA contra decisão de fls. 454/455, que não conheceu do recurso.
+Em suas razões, sustenta a parte embargante que:
+No caso em testilha, não se busca retardar o andamento do processo e sim que o mesmo seja efetivo, não prejudicando ampla defesa e contraditório, bem como sendo entregue ao Recorrente a efetiva prestação jurisdicional, visto que até o presente momento não entendeu por que foi reconhecida uma revelia de uma empresa que não foi sequer citada dos autos do processo e sim tão somente seus sócios.
+Nesse passo, não se trata os presentes embargos de protelatórios e sim de remédio processual adequado à eliminação e erro material e omissão existentes na decisão proferida, visto que o Embargante indicou os dispositivos legais violados, quais sejam: artigo 2º, 6º, 18ºda Lei das Duplicatas (5.474/68), artigo 206, § 3º,VII Ido Código Civil, artigo 3º inciso IV, § 3º, do Código Civil, artigo 487, II do Código de Processo Civil, artigo 586 do Código de Processo Civil, artigo 389 do Código Civil (fl. 460).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado expressamente na decisão embargada incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou objeto de divergência jurisprudencial.
+Em outras palavras, para que haja a admissão do recurso especial pela alínea "a" do permissivo constitucional - necessariamente - deve haver a indicação precisa dos dispositivos de lei federal violados e, pela alínea "c" do permissivo constitucional, deve haver a indicação precisa de quais dispositivos legais seriam objeto de dissídio interpretativo, não bastando, para ambos casos, a mera transcrição dos artigos legais.
+Neste ponto, impende salientar que a parte ora embargante, na petição do recurso especial, menciona genericamente alguns artigos sem, contudo, apontar especificamente se aqueles eram os artigos que considerava violado ou em que medida teria ocorrido a suposta violação.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
+ EMENTA
