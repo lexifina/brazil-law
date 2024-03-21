@@ -1,0 +1,36 @@
+ESTADO DE MATO GROSSO
+
+PODER JUDICIÁRIO
+
+PRIMEIRA TURMA RECURSAL
+
+Número Único
+:
+
+0004987-63.2018.8.11.0003
+Classe:
+
+APELAÇÃO CRIMINAL (417)
+Assunto:
+
+[Crimes contra o Meio Ambiente e o Patrimônio Genético]
+Relator:
+Des(a).
+WALTER PEREIRA DE SOUZA
+
+Turma Julgadora:
+
+[DES(A). WALTER PEREIRA DE SOUZA, DES(A). GONCALO ANTUNES DE BARROS NETO, DES(A). LUIS APARECIDO BORTOLUSSI JUNIOR]
+
+Parte(s):
+
+[TOLEDO INDUSTRIA COMERCIO DE MADEIRAS E TRANSPORTES LTDA - CNPJ: 05.296.237/0001-85 (APELANTE), DEFENSORIA PUBLICA DO ESTADO DE MATO GROSSO - CNPJ: 02.528.193/0001-83 (REPRESENTANTE), ESTADO DE MATO GROSSO - CNPJ: 03.507.415/0001-44 (APELADO), ESTADO DE MATO GROSSO - CNPJ: 03.507.415/0003-06 (REPRESENTANTE), MINISTERIO PUBLICO DO ESTADO DE MATO GROSSO - CNPJ: 14.921.092/0001-57 (APELADO), MINISTERIO PUBLICO DO ESTADO DE MATO GROSSO - CNPJ: 14.921.092/0001-57 (REPRESENTANTE), O MEIO AMBIENTE (VÍTIMA), Guilherme de Miranda e Figueiredo (ASSISTENTE), Demilson Pereira Borges (ASSISTENTE), Edson Fernandes dos Santos (ASSISTENTE)]
+
+A C Ó R D Ã O
+Vistos, relatados e discutidos os autos em epígrafe, a PRIMEIRA TURMA RECURSAL do Tribunal de Justiça do Estado de Mato Grosso, sob a Presidência Des(a).
+
+LUIS APARECIDO BORTOLUSSI JUNIOR, por meio da Turma Julgadora, proferiu a seguinte decisão:
+POR UNANIMIDADE CONHECEU DO RECURSO E NEGOU-LHE PROVIMENTO. Ministério Público: A Dra. Márcia Furlan, promotora de Justiça manifestou-se para que seja ratificado o parecer ministerial.
+
+Data da sessão:
+Cuiabá-MT, 21/03/2024
