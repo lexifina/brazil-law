@@ -11,3 +11,5 @@ IX - cooperativismo e associativismo;
 X - educação, capacitação e profissionalização;
 XI - negócios e serviços rurais não agrícolas;
 XII - agroindustrialização.
+XIII -modernização e desenvolvimento sustentáveis;
+XIV - inovação e desenvolvimento tecnológicos.
