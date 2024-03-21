@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Município do Rio de Janeiro contra acórdão do Tribunal de Justiça do Rio de Janeiro, assim ementado (e-STJ fls. 274/275):
+EMBARGOS DODEVEDOR EM EXECUÇÃOCONTRA AFAZENDA PÚBLICA -DÉBITO EXEQUENDOQUE DEVERÁ SER CORRIGIDO, A PARTIR DE 30 DE JUNHO DE 2009, PELO IPCA-E, NOS TERMOS DEFINIDOS PELO EXCELSO SUPREMO TRIBUNAL FEDERAL, POR OCASIÃO DO JULGAMENTO DO RECURSO EXTRAORDINÁRIO Nº 870.947/SE E À LUZ DA TESE FIRMADA NO TEMA Nº 810 -DESCABIMENTO DE DESCONTO SOBRE O MONTANTE INDENIZATÓRIO,POR SE TRATAR DE CASO DE DESAPROPRIAÇÃO INDIRETA, NAQUAL INOCORREU O DESAPOSSAMENTO E A INCORPORAÇÃO DO BEM AO PATRIMÔNIO PÚBLICO, MAS MERO ESVAZIAMENTO ECONÔMICO DO VALOR DO IMÓVEL, EM VIRTUDE DO ADVENTO DA LEI MUNICIPAL Nº 1.579/1990, QUE DECLAROU COMONON EDIFICANDIAS ÁREAS DOS LOTES DE TERRENO, IMPEDINDO A CONCRETIZAÇÃO DO EMPREENDIMENTO IMOBILIÁRIO PROJETADO E LICENCIADO PARA O LOCAL -PROVIMENTO PARCIAL DO RECURSO.
+Rejeitados os aclaratórios opostos contra o referido julgado.
+Sustenta a parte recorrente, em resumo, que o "acórdão recorrido violou flagrantemente lei federal, no tocante ao art. 1022, art. 496 e art. 525, §12, todos do CPC e art. 15-A do DL 3.365/41".
+Contrarrazões (e-STJ fls. 338/344).
+É o relatório.
+Inicialmente, verifico ser inexistente o alegado vício referente ao art. 1.022, II, do CPC.
+O Município do Rio de Janeiro "opôs embargos de declaração requerendo a reforma do acórdão tendo em vista que, após decisão do STF em controle concentrado de constitucionalidade, os juros compensatórios aplicáveis seriam de 6%, e não mais de 12%, podendo tal modificação ser feita de ofício" (e-STJ fl. 321).
+Acontece que esse ponto foi expressamente tratado no acórdão recorrido, no trecho em que se alega que "eventual decisão da Corte Constitucional em sentido contrário à da estabelecida nos autos somente pode ser considerada quando proferida antes do trânsito em julgado da decisão exequenda, o que não se verifica" (e-STJ fl. 306).
+Ou seja, o ponto indicado nos embargos de declaração foi diretamente enfrentado, sendo que o que pretendia a Fazenda, na realidade, era rediscutir o mérito da decisão que lhe foi desfavorável, não se prestando aquele recurso para tal função.
+No mérito propriamente dito, o acórdão da origem está alinhado com a orientação pacífica do STJ no sentido de que "a constitucionalidade do art. 15-A do Decreto-Lei 3.365/1941, declarada no julgamento da ADI 2.332/DF, posteriormente ao trânsito em julgado, não impõe a alteração no percentual dos juros compensatórios. Precedentes: REsp 1.975.455/PR, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 7.4.2022; AgInt no AREsp 929.166/GO, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 9.8.2019; e REsp 1.896.374/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 23.11.2020." (AgInt no REsp n. 2.018.888/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/10/2023, DJe de 18/12/2023).
+Aplico, portanto, a Súmula 83 desta Corte de Justiça.
+Ante o exposto, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se e intimem-se.
+EMENTA
