@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar, impetrado em favor de JOAO JARDEL BIRNKMANN, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Apelação Criminal n. 5005577-76.2023.8.24.0080).
+Consta dos autos que o paciente foi condenado à pena de 1 ano, 4 meses e 10 dias de reclusão, em regime inicial semiaberto, e ao pagamento de 14 dias-multa, em razão da prática do crime previsto no art. 155, caput, do Código Penal, haja vista ter subtraído para si uma bicicleta marca GTS, avaliada em R$ 899,00.
+A apelação interposta pela defesa foi desprovida por meio de acórdão de e-STJ fls. 76/77.
+A defesa alega, em síntese, que a confissão do paciente, mesmo sendo parcial ou qualificada, deveria ser compensada integralmente com a agravante da reincidência, de acordo com precedentes do Superior Tribunal de Justiça.
+Requer, liminar e definitivamente, o deferimento da ordem para reconhecer a atenuante da confissão espontânea extrajudicial e compensá-la integralmente com a agravante da reincidência, nos termos do art. 67 do Código Penal.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal. Veja-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. GENITOR. IMPRESCINDIBILIDADE DE CUIDADOS AO FILHO MENOR NÃO DEMONSTRADA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. RECURSO DESPROVIDO.
+I - A Primeira Turma do Supremo Tribunal Federal firmou orientação no sentido de não admitir a impetração de habeas corpus substitutivo ante a previsão legal de cabimento de recurso pertinente. Precedentes.
+II - O art. 318, inciso VI, do Código de Processo Penal dispõe que o magistrado poderá substituir a prisão preventiva pela domiciliar quando o agente for homem, caso seja o único responsável pelos cuidados do filho de até 12 (doze) anos de idade incompletos.
+III - No caso dos autos, conforme consignado pelo Tribunal a quo a defesa não se desincumbiu do ônus de demonstrar a imprescindibilidade do ora agravante aos cuidados de seus filhos.
+IV - Para desconstruir as conclusões alcançadas na origem seria necessário o revolvimento da matéria fático-probatória do caso em apreço, providência que é vedada em sede de habeas corpus.
+Agravo regimental desprovido.
+(AgRg no HC n. 764.589/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024). Grifos acrescidos.
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que não se verifica de plano na hipótese dos autos.
+O Tribunal de origem, quanto ao tema, assim consignou (e-STJ fls. 72/73):
+Na segunda fase da dosimetria, o acusado pugna pelo reconhecimento da atenuante da confissão espontânea, porquanto admitiu er se apoderado da bicicleta.
+Razão não lhe assiste.
+Colhe-se dos autos que o réu, ouvido somente na Delegacia de Polícia, limitou-se a declarar que achou a bicicleta próximo a sua casa e achou que era abandonada. Na fase judicial, o acusado exerceu seu direito constitucional de permanecer em silêncio.
+Dito isso, percebe-se que o apelante não confessou a prática delitiva pela qual foi denunciado. Em verdade, apenas admitiu que estava em posse da bicicleta furtada, mas que teria a encontrado na rua e pegou para si.
+ .. .
+Ademais, a confissão do réu sobre estar em posse da res furtiva não foi utilizada pelo juízo como elemento de convicção, estando sua decisão fundamentada nos demais elementos de prova constantes nos autos, o que torna inviável o reconhecimento da circunstância atenuante
+O recente entendimento firmado por este Tribunal Superior estabelece que, independente se a confissão do réu é utilizada como fundamento para sua condenação, é imperativa a consideração da atenuante correspondente. Isso se aplica ainda que a confissão tenha sido feita de forma espontânea ou não, ser completa ou parcial, ou mesmo se ocorreu exclusivamente durante a investigação policial e houve retratação em sede judicial.
+Nesse sentido:
+PROCESSUAL PENAL E PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. ROUBO. CONFISSÃO PARCIAL OU QUALIFICADA. POSSIBILIDADE DE RECONHECIMENTO DA RESPECTIVA ATENUANTE. RÉU QUE REGISTRA APENAS UMA CONDENAÇÃO ANTERIOR. POSSIBILIDADE DE COMPENSAÇÃO ENTRE AGRAVANTE DA REINCIDÊNCIA E A ATENUANTE DA CONFISSÃO ESPONTÂNEA. AGRAVO MINISTERIAL DESPROVIDO.
+1. A respeito da dosimetria da reprimenda, vale anotar que sua individualização é uma atividade vinculada a parâmetros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+2. No tocante à segunda fase da dosimetria, verifica-se que as instâncias ordinárias não reconheceram a incidência da atenuante da confissão espontânea. No entanto, depreende-se do acórdão impugnado que o réu admitiu, em Juízo, a subtração dos bens da vítima, tendo permanecido em silêncio quanto à prática da ameaças, estando configurada, portanto , a confissão parcial/qualificada.
+3. Em recente julgamento do REsp 1.972.098/SC, de minha Relatoria, esta Quinta Turma do Superior Tribunal de Justiça, ao examinar a correta interpretação do art. 65, III, "d", do CP, em conjunto com a Súmula 545/STJ, adotou a seguinte tese: "o réu fará jus à atenuante do art. 65, III, "d", do CP quando houver admitido a autoria do crime perante a autoridade, independentemente de a confissão ser utilizada pelo juiz como um dos fundamentos da sentença condenatória, e mesmo que seja ela parcial, qualificada, extrajudicial ou retratada".
+4. Ademais, no julgamento do Recurso Especial Representativo de Controvérsia n. 1.341.370/MT, em 10/4/2013, a Terceira Seção firmou o entendimento de que, observadas as especificidades do caso concreto, "é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência".
+5. Agravo regimental desprovido.
+(AgRg no REsp n. 2.069.827/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/9/2023, DJe de 14/9/2023.)
+No entanto, na hipótese dos autos, como visto, consoante firmado pelo Tribunal de origem, o paciente não confessou a prática delitiva, sequer de forma parcial. As informações colhidas demonstram que, durante seu depoimento na delegacia, o paciente apenas mencionou ter encontrado a bicicleta perto de sua residência, acreditando que o objeto estivesse abandonado. Já no decorrer do processo judicial, optou pelo exercício de seu direito constitucional de se manter em silêncio, sem fazer quaisquer admissões adicionais sobre o ato imputado. Portanto, a sua declaração limitou-se à posse da bicicleta, sem, contudo, admitir a autoria ou a prática do furto.
+Ademais, entender de forma diversa, no sentido do propugnado na presente impetração, exigi ria, necessariamente, o revolvimento do conteúdo de fatos e provas, circunstância vidada na sede eleita.
+Pelo exposto, não conheço do habeas corpus e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+ EMENTA
