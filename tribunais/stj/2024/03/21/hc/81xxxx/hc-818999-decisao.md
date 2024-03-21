@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar, impetrado em favor de FRANKLIN PEREIRA DOS SANTOS, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo de Execução Penal nº 0006508-42.2022.8.26.0502).
+O Juízo da Unidade Regional de Departamento Estadual de Execução Criminal da Comarca de Campinas - DEECRIM 4ª RAJ promoveu o paciente ao regime aberto (e-STJ fls. 55/56).
+Irresignado, o Ministério Público do Estado de São Paulo interpôs agravo em execução perante o Tribunal de origem, o qual deu provimento ao recurso para cassar a decisão que deferiu a progressão de regime, determinando o retorno do paciente ao regime anterior e a realização do exame criminológico (e-STJ fls. 29/32, acórdão sem ementa).
+No presente writ, o impetrante alega, em síntese, que: a) "com a nova redação dada ao art. 112 da LEP com o advento da Lei n. 10.792/03, restou afastada a exigência da realização de exame criminológico para aferir o implemento dos requisitos subjetivos ao apenado que postula a progressão de regime, bem como o livramento condicional" (e-STJ fls. 6/7); b) "o Boletim Informativo juntado (anexo) dá condições claras e cristalinas sobre o preenchimento do requisito subjetivo, eis que apresenta ótimo comportamento carcerário, atestado pelo diretor do estabelecimento prisional, e não conta com qualquer falta disciplinar" (e-STJ fl. 7); c) "reputa-se desnecessária a realização da perícia determinada pelos Ilmos. Desembargadores, porquanto, ao que consta, os autos trazem subsídios suficientes ao juízo para a aferição das condições subjetivas do postulante" (e-STJ fl. 7); d) "o paciente se encontra "solto" em regime aberto há 10 meses, não havendo qualquer notícia que voltou a delinquir, pelo contrário, encontra-se trabalhando com vínculo formal, devidamente registrado em sua C.T.P.S desde 01/07/2023, ou seja 9 meses, inclusive por sua dedicação e esforço, em dezembro de 2023 foi promovido de ajudante geral para o cargo de salgadeiro" (e-STJ fl. 7); e) "o paciente hoje convive na companhia de sua companheira e seus dois filhos menores, que dependem única e exclusivamente do salário auferido pelo paciente a regressão de regime, fará com que o paciente volte ao cárcere e perca seu emprego" (e-STJ fl. 8). e f) "a justificativa da gravidade do fato, por si só, não abona a submissão do paciente à perícia, sendo que inexistem nos autos elementos outros que recomendem a medida pretendida pelo Tribunal" (e-STJ fl. 8).
+Por isso, requer, inclusive liminarmente, a concessão da ordem para manter/progredir o paciente no/ao regime aberto.
+Liminar indeferida (e-STJ fls. 411/412).
+Informações prestadas (e-STJ fls. 418/421 e 422/429).
+Parecer do Ministério Público Federal pela denegação da ordem (e-STJ fls. 433/435).
+É o relatório.
+Decido.
+Em consulta realizada na  página  eletrônica  do Tribunal de origem, verifica-se que, no dia 06/11/2023, o Juízo da Unidade Regional de Departamento Estadual de Execução Criminal da Comarca de Campinas - DEECRIM 4ª RAJ, nos autos do Processo nº 0005597-26.2020.8.26.0041, após a realização do exame criminológico, promoveu o paciente ao regime aberto.
+Essa circunstância evidencia a perda do objeto do presente writ.
+Ante  o  exposto,  julgo  prejudicado  o  habeas corpus.
+Publique-se . Intimem-se.
+ EMENTA
