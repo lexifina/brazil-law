@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANTÔNIO BERNARDO DA SILVA, ANTÔNIO DE CAMARGO, ANTÔNIO SÉRGIO PRONESTI, CLAUDIR CAPELI e HENRIQUE VICENTE DA SILVA, com respaldo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (e-STJ fl. 793):
+SEGURO HABITACIONAL - Cerceamento de defesa não configurado - Juiz como destinatário final da prova - Causa que estava madura para julgamento - Contrato vinculado a financiamento para aquisição de imóvel, no âmbito do SFH - Autores que reconhecem que os danos são oriundos de vícios de construção - Apólice que exclui expressamente a indenização nessa hipótese - Fiscalização da construção que não pode ser atribuída à seguradora - Abusividade não configurada - Precedentes - Recurso desprovido.
+Em suas razões, os recorrentes apontam, além de dissídio jurisprudencial, violação dos arts. 6º, IV e V, 47 e 51 do CDC, argumentando que as cláusulas do contrato de seguro "devem ser analisadas sob a luz do código do consumidor, dando interpretação mais benéfica ao consumidor parte mais frágil da relação estabelecida, portanto o disposto na clausula terceira item 3.1, "e", da apólice securitária deve ser considerada compreendendo a cobertura dos vícios construtivos, afastando-se a incidência do item 3.2 da mesma apólice" (e-STJ fl. 804).
+Contrarrazões às e-STJ fls. 829/841.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 872/873.
+Passo a decidir.
+Verifico que a pretensão recursal não merece prosperar.
+Não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido:
+PROCESSO CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. ÍNDICE DE CORREÇÃO MONETÁRIA. IPCA-E. INCONSTITUCIONALIDADE DA TR. TEMA N. 810 DO STF. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DA TESE RECURSAL. SÚMULA N. 211 DO STJ. ACÓRDÃO PROFERIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA N. 284 DO STJ. AGRAVO INTERNO. DECISÃO MANTIDA.
+ ..
+III - Não há prequestionamento da tese recursal quando a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente. Nesse sentido: O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017).
+ ..
+VIII - Agravo interno improvido. (AgInt no AREsp n. 1.946.228/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/4/2022.).
+Não bastasse isso, observa-se que os referidos dispositivos legais não possuem comando normativo suficiente para embasar a pretensão recursal, tampouco para infirmar o fundamento adotado no acórdão recorrido, circunstância que atrai, por analogia, a aplicação da Súmula 284 do STF.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO DE SENTENÇA. AUSÊNCIA DE PEÇA OBRIGATÓRIA NO AGRAVO DE INSTRUMENTO. FUNDAMENTO IMPUGNADO. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 282/STF EM SUBSTITUIÇÃO À SÚMULA N. 283/STF. EXECUÇÃO PROVISÓRIA DE MANDADO DE SEGURANÇA. POSSIBILIDADE. SÚMULA 83/STJ. INCIDÊNCIA. LEVANTAMENTO DOS VALORES. CONFIRMAÇÃO DA SENTENÇA CONCESSIVA DA SEGURANÇA. TRÂNSITO EM JULGADO ANTES DO EXAURIMENTO DA PRESTAÇÃO JURISDICIONAL NO TRIBUNAL DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211/STJ. DESNECESSIDADE DE LIQUIDAÇÃO. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+VI - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+VII - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+ ..
+IX - Agravo Interno improvido. (AgInt no REsp 1290187/ES, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 15/08/2017, DJe 11/09/2017).
+Por fim, "a inadmissão do recurso especial interposto com fundamento no art. 105, III, "a" , da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Precedentes" (AgInt nos EDcl no REsp 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
