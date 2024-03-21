@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Paulo de Tarso Almeida Motta (ou Paulo de Tarso Almeida Mota) - preso preventivamente e pronunciado pela prática, em tese, do crime de homicídio qualificado tentado (por duas vezes) -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Recurso em Sentido Estrito n. 1501475-10.2022.8.26.0530).
+Alega o impetrante constrangimento ilegal na decretação e manutenção da prisão cautelar imposta ao paciente pelo Juízo de Direito do plantão judicial da comarca de Ribeirão Preto/SP, ao argumento de que a decisão do Magistrado de primeiro grau e do Tribunal "a quo" que indeferiu o pedido de revogação da prisão preventiva do paciente são carentes de fundamentos jurídicos, pois não cita em nenhum momento fundamentos concretos como determina o art. 315, § 2º, inciso I, II, III, IV e VI, do CPP (fl. 10).
+Postula, então, a concessão liminar da ordem para que seja revogada a prisão preventiva imposta ou substituída por medidas alternativas.
+Em 22/6/2023, deferi o pedido liminar para substituir a prisão preventiva imposta ao paciente, por medidas alternativas à prisão (fls. 223/225).
+Prestadas as informações (fls. 228/252), o Ministério Público Federal opinou pela denegação da ordem (fls. 261/264):
+HABEAS CORPUS. DUPLA TENTATIVA DE HOMICÍDIOQUALIFICADO. PRISÃO PREVENTIVA DEVIDAMENTEFUNDAMENTADA.
+1. No caso, as decisões das instâncias ordinárias estão devidamente fundamentadas em elementos concretos do caso. A prisão preventiva foi mantida pelo juízo de primeiro grau, ao pronunciar o paciente, com fundamento na persistência dos motivos ensejadores da prisão cautelar (garantia da ordem pública, em razão da periculosidade do paciente) e devido à possibilidade de fuga. O paciente, supostamente, desferiu duas facadas em sua ex-companheira e mãe de seu filho de 10 anos de idade, no braço e no seio, bem como duas facadas no tórax do marido de sua ex-companheira.
+- Parecer pela denegação da ordem.
+É o relatório.
+Confiram-se, no que interessa, trechos da decisão que converteu a prisão em flagrante em preventiva (fl. 89):
+ ..
+O delito apurado é punido com pena máxima superior a 4 anos de reclusão, pelo que está presente o requisito objetivo estabelecido no art. 313, I, do CPP, para a decretação da aludida espécie de prisão provisória.
+E também estão presentes os fundamentos da custódia cautelar, previstas no art. 312do CPP.
+Com efeito, o fato concretamente cometido, considerado hediondo, evidencia, ao menos neste momento inicial, a periculosidade do seu autor e, consequentemente, a necessidade de sua prisão para a salvaguarda da ordem pública, especialmente em considerando a culpabilidade, também a princípio, do averiguado, pois, conforme a prova até o momento presente nos autos, ele, por duas vezes, desferiu facadas, inclusive em áreas vitais, o que demonstra o animus necandi e torna maior a reprovabilidade social de sua conduta.
+Salienta-se que o restabelecimento da ordem pública e a pacificação social são finalidades precípuas do processo criminal, de modo que a prisão provisória decretada com base nos fundamentos explicitamente expostos acima, é dotada de caráter eminentemente cautelar, pois visa justamente a assegurar o resultado útil do processo criminal.
+ ..
+A decisão de pronúncia manteve os referidos argumentos e fez referência à possibilidade de fuga, sem apontar elemento concreto nesse sentido (fl. 174).
+Ocorre que, além de não constar dos autos informação a respeito de tentativa de fuga, também não se tem notícia da intenção do pronunciado em atrapalhar a ação penal. Além de que ele foi preso nas dependências da delegacia policial, ao registrar boletim de ocorrência em razão dos fatos ocorridos contra as vítimas.
+De toda a narrativa apresentada no auto de prisão em flagrante, na denúncia e decisão de pronúncia, denota-se que se trata de uma briga entre casais em razão de desavenças relativas à guarda e ao exercício do direito de visitas de uma criança de 10 anos, sendo recíprocas as lesões, embora tenha sido atribuída ao paciente a prática das lesões mediante o uso de uma arma branca.
+Acrescente-se a isso o fato de que a liminar foi deferida no presente writ em 22/6/2023 para substituir a segregação cautelar por medidas alternativas, e não há notícia do descumprimento das medidas restritivas impostas ou reiteração delitiva. Ao contrário, em consulta à página eletrônica do TJ/SP, observa-se que o Magistrado singular tem flexibilizado as cautelares para autorizar o acusado a se ausentar da comarca de sua residência, além de o Júri ter sido designado apenas para 20/10/2025.
+Assim, proporcional a manutenção das seguintes medidas: a) comparecimento mensal em juízo para informar e justificar suas atividades; b) proibição de se aproximar das vítimas e testemunhas de acusação da ação penal, bem como manter qualquer tipo de contato com essas; c) proibição de se ausentar da comarca sem autorização judicial; e d) monitoramento eletrônico.
+Em face do exposto, concedo a ordem impetrada, confirmando a medida liminar para substituir a prisão preventiva imposta ao paciente pelas medidas alternativas à prisão previstas no art. 319, I, III, IV e IX, do Código de Processo Penal, a serem implementadas e fiscalizadas pelo Magistrado singular.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. NARRATIVA QUE, ALIADA ÀS CONDIÇÕES PESSOAIS DO ACUSADO, DEMONSTRA A SUFICIÊNCIA DE MEDIDAS ALTERNATIVAS. LIMINAR DEFERIDA EM JUNHO DE 2023. AUSÊNCIA DE NOTÍCIA DO DESCUMPRIMENTO DAS CAUTELARES OU REITERAÇÃO DELITIVA. DECISÃO DO MAGISTRADO SINGULAR FLEXIBILIZANDO DETERMINADAS MEDIDAS, A DENOTAR A FALTA DE SUBSISTÊNCIA DE ELEMENTOS QUE DEMONSTREM A NECESSIDADE DA MEDIDA EXTREMA. CONFIRMAÇÃO DA LIMINAR QUE SE IMPÕE.
+Ordem concedida.
