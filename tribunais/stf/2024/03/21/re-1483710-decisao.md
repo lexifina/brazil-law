@@ -1,0 +1,27 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+
+    “SERVIDOR PÚBLICO MUNICIPAL. DIFERENÇAS SALARIAIS. Servidor contratado por prazo determinado, de acordo com o art. 37, IX, da CF. Regime jurídico administrativo que deve observar a lei municipal de regência. Lei Municipal no 43/2007. Legislação local omissa quanto as férias, adicional de férias e 13° salário. Verbas devidas aos servidores temporários conforme entendimento firmado pelo Supremo Tribunal Federal. Inteligência do artigo 7°, VIII e XVII e 39, § 3 11 da Constituição Federal. Sentença mantida. Recurso improvido.” (documento eletrônico 1, p. 144)
+
+    O recorrente, fundado no art. 102, III, a, da Constituição Federal, alega, em suma, violação dos arts. 2°, 37, caput e IX, e 39, § 3°, da mesma Carta, sob o argumento de que os servidores temporários não têm direito ao pagamento de férias e décimo terceiro salário.
+
+    Em razão do julgamento do RE 1.066.677 RG/MG (Tema 551 da Repercussão Geral), redator do acórdão o Ministro Alexandre de Moraes, a Presidência do Supremo Tribunal Federal determinou o envio destes autos ao Tribunal de Justiça do Estado de São Paulo para cumprimento do disposto no art. 1.030, III, do Código de Processo Civil. Na sequência, o órgão prolator do acórdão recorrido recusou-se a se retratar nos seguintes termos:
+
+    “Ementa: RECURSO EXTRAORDINÁRIO. Juízo de retratação. Art. 1.036 e 1 .040 do NCPC. Servidor Temporário. Direito ao décimo terceiro e férias acrescidas de um terço constitucional. Julgamento RE n° 1.066 .677/SP, Tema n° 551 do STF, DJe 01 .07.2020. Devolução dos autos à Turma Julgadora, para eventual adequação. Os servidores temporários não fazem jus a décimo terceiro salário e férias remuneradas acrescidas do terço constitucional, salvo previsão legal e/ou contratual em sentido contrário, ou comprovado desvirtuamento da contratação temporária pela Administração Pública, em razão de sucessivas e reiteradas renovações e/ou prorrogações. Caso dos autos, cuja contratação temporária do autor equipara-se ao regime jurídico estatutário, nos termos da LCM n° 59/08. Acórdão mantido. Devolução à Eg. Presidência de Direito Público.” (documento eletrônico 5, p. 2)
+
+    O recurso merece acolhida.
+
+    Isso porque o acórdão recorrido está em dissonância com o entendimento do Supremo Tribunal Federal firmado no julgamento do RE 1.066.677 RG/MG (Tema 551 da Repercussão Geral), redator do acórdão o Ministro Alexandre de Moraes, no sentido de que os servidores temporários não fazem jus a décimo terceiro salário e férias remuneradas acrescidas do terço constitucional, salvo expressa previsão legal e/ou contratual em sentido contrário ou comprovado desvirtuamento da contratação temporária pela Administração Pública, em razão de sucessivas e reiteradas renovações e/ou prorrogações. O acórdão do referido precedente porta a seguinte ementa:
+
+    “RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO. CONTRATAÇÃO TEMPORÁRIA. DIREITO A DÉCIMO TERCEIRO SALÁRIO E FÉRIAS REMUNERADAS, ACRESCIDAS DO TERÇO CONSTITUCIONAL. 1. A contratação de servidores públicos por tempo determinado, para atender a necessidade temporária de excepcional interesse público, prevista no art. 37, IX, da Constituição, submete-se ao regime jurídico-administrativo, e não à Consolidação das Leis do Trabalho. 2. O direito a décimo terceiro salário e a férias remuneradas, acrescidas do terço constitucional, não decorre automaticamente da contratação temporária, demandando previsão legal ou contratual expressa a respeito. 3. No caso concreto, o vínculo do servidor temporário perdurou de 10 de dezembro de 2003 a 23 de março de 2009. 4. Trata-se de notório desvirtuamento da finalidade da contratação temporária, que tem por consequência o reconhecimento do direito ao 13º salário e às férias remuneradas, acrescidas do terço. 5. Recurso extraordinário a que se nega provimento. Tese de repercussão geral: ´Servidores temporários não fazem jus a décimo terceiro salário e férias remuneradas acrescidas do terço constitucional, salvo (I) expressa previsão legal e/ou contratual em sentido contrário, ou (II) comprovado desvirtuamento da contratação temporária pela Administração Pública, em razão de sucessivas e reiteradas renovações e/ou prorrogações´.” (DJe 1°/7/2020)
+
+    No caso em exame, consoante se extrai do acórdão impugnado, não há previsão no contrato e nas normas locais de pagamento de décimo terceiro salário e férias a servidor contratado temporariamente, tampouco foi demonstrado o desvirtuamento da contratação temporária mediante sucessivas e reiteradas renovações contratuais, o que inviabiliza a pretensão autoral. Com esse entendimento, cito ainda as seguintes decisões: ARE 1.423.397 AgR/RJ, de minha relatoria, DJe 24/8/2023; ARE 1.277.431/SP, Rel. Min. Gilmar Mendes, DJe 25/9/2020; ARE 1.316.734 ED/AC, Rel. Min. Alexandre de Moraes, DJe 26/5/2021; e ARE 1.346.875/RJ, Rel. Min. Cármen Lúcia, DJe 26/10/2021.
+
+    Posto isso, conheço do recurso extraordinário dou-lhe provimento para julgar improcedente o pedido autoral de pagamento de férias e décimo terceiro salário (art. 932 do CPC), consoante entendimento firmado no julgamento do Tema 551 da Repercussão Geral. Fixo os honorários advocatícios em 10% (dez por cento) sobre o valor atualizado da causa.
+
+    Publique-se.
+
+    Brasília, 21 de março de 2024.
+
+Ministro Cristiano Zanin
+
+Relator
