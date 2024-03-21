@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por HOME CENTER INCORPORADORA LTDA, EDUARDO PAIVA FAGUNDES à decisão de fls. 1806/1807, que não conheceu do recurso.
+Sustenta a parte embargante que:
+O r. Acórdão omite sobre a existência de feriados nacionais de 1º e 2 de novembro, conforme art. 62, inc. IV, da Lei n. 5.010/1966 (LEI FEDERAL), e de acordo com a PORTARIA STJ/GP N. 1 de 02 de janeiro de 2023.
+O r. acórdão também contradiz, haja vista que o feriado nacional não é objeto de comprovação para fins de tempestividade de Recurso Especial.
+ ..
+Conforme apontado no próprio Acórdão os EMBARGANTES foram intimados da decisão recorrida por meio do Diário da Diário da Justiça Eletrônico nº 3815, do dia 19/10/2023.
+Considerados os feriados nacionais de 1º e 2 de novembro, conforme art. 62, inc. IV, da Lei n. 5.010/1966 (LEI FEDERAL), e de acordo com a PORTARIA STJ/GP N. 1 de 02 de janeiro de 2023, o Recurso Especial proposta é tempestivo, pois seu prazo fatal não era dia 10/11/2023 (sexta-feira), mas sim 13/11/2023 (segunda-feira).
+ ..
+Dia 19/10/2023 correspondeu a uma quinta-feira. Assim, o dia útil seguinte foi a sexta-feira dia 20/10/2023. Do prazo, são desconsiderados os dias não úteis, a saber, sábados, domingos e os feriados do dia 1º/11/2023 e 02/11/2023 (constantes do art. 62, inc. IV, da Lei n. 5.010, de 30 de maio de 1966, e de acordo com a PORTARIA STJ/GP N. 1 de 02 de janeiro de 2023 - que não depende de prova).
+Restaram excluídos os dias não úteis: sábado 21/10/2023, domingo 22/10/2023, sábado 28/10/2023, domingo 29/10/2023, os feriados da lei federal indicada de 1º/11/2023 e 02/11/2023, o sábado 04/11/2023, o domingo 05/11/2023, o sábado 11/11/2023 e o domingo 12/11/2023.
+Segue print do calendário para esclarecimentos, tendo como 1º dia do prazo o dia 20/10/2023 e o 15º dia do prazo o dia 13/11/2023, uma segunda-feira.
+ ..
+Relacionando, para fins de esclarecimento, os dias úteis do prazo processual, que começa a contar do dia útil seguinte ao da publicação (19/10/2023):
+ ..
+Assim sendo, à luz da lei processual civil - CPC/2015 e da Lei Federal do art. 62, inc. IV, da Lei n. 5.010/1966, e de acordo com a PORTARIA STJ/GP N. 1 de 02 de janeiro de 2023 o recurso foi protocolado em seu 15º dia útil, sendo plenamente tempestivo, e essa contagem não considerou feriados locais (fls.1811/1815).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp n. 2.227.508/BA, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/5/2023, DJe de 27/6/2023; AgInt nos EDcl no AREsp n. 2.270.942/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 5/6/2023, DJe de 7/6/2023; e AgInt no AREsp n. 2.280.536/BA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/5/2023, DJe de 24/5/2023.
+Registre-se que o feriado nacional de 2/1/2023 não precisa ser comprovado. Porém, o dia 1º/1/2023 é supostamente feriado local, razão pela qual deveria ter sido comprovado no momento da interposição do recurso.
+Ressalta-se que "A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que o feriado do Dia de Todos os Santos (1º de novembro) é considerado local, impondo-se ao recorrente sua comprovação, por meio de documento idôneo, no ato de interposição do recurso especial. Precedentes."(AgInt no AREsp 2366000/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 25/09/2023, DJe 27/09/2023).
+Cumpre esclarecer que as disposições da Lei n. 5.010/66, usada pelo ora embargante como fundamento para justificar a suspensão do prazo não o socorrem, uma vez que a referida lei somente diz respeito à Justiça Federal e aos Tribunais Superiores, não se aplicando as suas disposições aos tribunais de justiça estaduais. (AgInt no AREsp 1576616/SP, relatora Ministra Assusete Magalhães, DJe de 26/5/2020.)
+Além do mais, para a aferição da tempestividade do recurso dirigido ao STJ, é indiferente que tenha havido ou não expediente forense nesta Corte, pois o agravo e o recurso especial interpostos são endereçados ao presidente do tribunal a quo, regendo-se o respectivo prazo, em matéria de recesso forense e feriados, pela legislação local. Nesse sentido, o AgInt nos EDcl no AREsp 1482882/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 14/5/2020 e o AgInt no AREsp 1514470/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 5/12/2019.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
