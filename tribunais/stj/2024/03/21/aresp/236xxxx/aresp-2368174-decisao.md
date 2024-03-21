@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo interposto por DHZ CONSTRUÇÕES LTDA. contra a decisão que inadmitiu o recurso especial em virtude do reconhecimento da deserção.
+Nas razões do presente recurso, o agravante sustenta que "o comprovante juntado é o documento original emitido pela instituição financeira, bem como não é print de tela" (fl. 700, e-STJ).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+A orientação jurisprudencial desta Corte Superior é firme no sentido de que as Guias de Recolhimento da União e os respectivos comprovantes de pagamento do preparo são essenciais para a regularidade recursal, devendo ser comprovado o correto recolhimento no ato de interposição do recurso, sob pena de deserção.
+Ademais, o art. 1.007 do Código de Processo Civil prevê que:
+"Art. 1.007. No ato de interposição do recurso, o recorrente comprovará, quando exigido pela legislação pertinente, o respectivo preparo, inclusive porte de remessa e de retorno, sob pena de deserção.
+(..)
+§ 2º A insuficiência no valor do preparo, inclusive porte de remessa e de retorno, implicará deserção se o recorrente, intimado na pessoa de seu advogado, não vier a supri-lo no prazo de 5 (cinco) dias.
+(..)
+§ 4º O recorrente que não comprovar, no ato de interposição do recurso, o recolhimento do preparo, inclusive porte de remessa e de retorno, será intimado, na pessoa de seu advogado, para realizar o recolhimento em dobro, sob pena de deserção.
+§ 5º É vedada a complementação se houver insuficiência parcial do preparo, inclusive porte de remessa e de retorno, no recolhimento realizado na forma do § 4º."
+Na hipótese dos autos, o Tribunal de origem assim se manifestou:
+"A parte recorrente efetuou o recolhimento do preparo em valor insuficiente. Isso porque, de acordo com a Instrução Normativa STJ/GP N. 2 de 16 de janeiro de 2023, com vigência a partir de 01 de fevereiro de 2023, que atualizou o Anexo da Resolução STJ/GP n. 2/2017, o valor das custas judiciais do recurso especial passou a ser de R$ 236,23 e a recorrente efetuou o recolhimento no valor de R$ 223,30.
+Foi facultado prazo de cinco dias para a complementação do valor do preparo, nos termos do §2º do art. 1.007 do Código de Processo Civil.
+Todavia a parte recorrente não atendeu à determinação judicial, uma vez que no recibo juntado não consta a autenticação bancária que valida a transação realizada, não sendo possível, portanto, aferir a regularidade do preparo. Por isso, conclui-se que houve o descumprimento da regra contida no caput do art. 1007 do CPC/2015" (fl. 676, e-STJ - grifou-se).
+Verifica-se, portanto, no comprovante apresentado, não constou a necessária autenticaç ão bancária, elemento indispensável nos termos da jurisprudência do STJ.
+Com efeito, o recurso especial é deserto quando, apesar de ter sido intimada a corrigir o vício na autenticação bancária do preparo, a parte não o faz.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIROS. GUIAS DE RECOLHIMENTO SEM AUTENTICAÇÃO BANCÁRIA. DESERÇÃO CONFIGURADA. SÚMULA 187/STJ. INCIDÊNCIA.
+1. Embargos de terceiros.
+2. É consolidado o entendimento no sentido de que é deserto o recurso cujo preparo não foi tempestivamente recolhido, ou sanado vício em sua autenticação bancária. Precedentes.
+3. Agravo interno no agravo em recurso especial não provido" (AgInt no AREsp 2.221.474/SP, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 3/4/2023, DJe de 10/4/2023 - grifou-se).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. DESERÇÃO. AUSÊNCIA DE GUIA DE RECOLHIMENTO. NOVO RECOLHIMENTO. APRESENTAÇÃO DE COMPROVANTE DE PAGAMENTO SEM AUTENTICAÇÃO BANCÁRIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. A ausência da guia de recolhimento do preparo ou a sua juntada sem a observância dos requisitos exigidos é suficiente para interditar o conhecimento do apelo nobre, porque constitui ônus do recorrente fazer juntar aos autos, em tempo oportuno, o comprovante de recolhimento de preparo e a guia de recolhimento, sob pena de deserção, caso não atendida a intimação para sua regularização.
+2. No caso dos autos, o comprovante de pagamento das custas devidas ao STJ não continha autenticação bancária, dado essencial para verificação da efetiva quitação da obrigação.
+3. Agravo interno não provido" (AgInt no AREsp 2.206.950/RS, Relator Ministro Moura Ribeiro, Terceira Turma, julgado em 12/6/2023, DJe de 14/6/2023 - grifou-se).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO NA VIGÊNCIA DO CPC/2015. PREPARO RECURSAL. AUSÊNCIA DA EFETIVA COMPROVAÇÃO DO PAGAMENTO DA GUIA DE RECOLHIMENTO DAS CUSTAS (GRU). DOCUMENTO APRESENTADO QUE NÃO POSSUI AUTENTICAÇÃO BANCÁRIA. INTIMAÇÃO PARA SANAR O VÍCIO, EM CINCO DIAS. NÃO ATENDIMENTO, NO PRAZO. DESERÇÃO. SÚMULA 187/STJ. PRECEDENTES DO STJ. MAJORAÇÃO DOS HONORÁRIOS, NOS TERMOS DO ART. 85, § 11, DO NOVO CPC. CABIMENTO. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara deserto recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Segundo a jurisprudência do STJ, "é deserto o recurso especial, na hipótese em que a parte recorrente, mesmo após intimada a regularizar o preparo, não o faz devidamente (art. 1.007, § 7º, do CPC/2015), não havendo se falar, ainda, em aproveitamento dos atos realizados, porquanto não atendidos sequer os pressupostos processuais do apelo extremo" (STJ, AgInt no REsp 1.694.039/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 18/05/2018). No mesmo sentido: STJ, AgInt no AREsp 1.147.348/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 17/05/2018.
+III. No caso, a parte recorrente protocolou o Recurso Especial, na origem, sem comprovar o efetivo pagamento do preparo. Intimada a regularizar o vício, no prazo de cinco dias, deixou a agravante de fazê-lo, limitando-se a apresentar comprovante de pagamento inválido a comprovação do recolhimento do preparo.
+IV. Na forma da jurisprudência do STJ, a comprovação do preparo exige que no documento apresentado pela parte, quando da interposição do recurso, conste a devida autenticação bancária, sem a qual não se evidencia a efetiva quitação do preparo (STJ, AgInt no REsp 2.018.373/TO, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 24/03/2023; AgInt no AREsp 2.213.700/SC, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 15/03/2023; AgInt no AREsp 2.017.752/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 07/04/2022).
+V. Aplica-se, ao caso, o entendimento consolidado na Súmula 187 desta Corte, no sentido de que "é deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos".
+VI. Tendo em vista que se trata de Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015, mostra-se cabível a majoração da verba honorária, determinada, na decisão agravada, "no importe de 15% do valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil". Incidência do Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+VII. Agravo interno improvido" (AgInt no AREsp 2.233.608/PA, Relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 23/5/2023, DJe de 26/5/2023 - grifou-se).
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. DESERÇÃO. APRESENTAÇÃO DE COMPROVANTE DE PAGAMENTO SEM AUTENTICAÇÃO BANCÁRIA. DETERMINAÇÃO DE INTIMAÇÃO PARA RECOLHIMENTO DAS CUSTAS NO PRAZO DE 5 DIAS. ART. 1.007, § 2º, DO NCPC. INÉRCIA DA PARTE. NÃO COMPROVAÇÃO. JUNTADA POSTERIOR DO COMPROVANTE DE PAGAMENTO AUTENTICADO. PRECLUSÃO CONSUMATIVA. DESERÇÃO. SÚMULA N.º 187 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. A insuficiência no valor do preparo, inclusive porte de remessa e de retorno, implicará deserção se o recorrente, intimado na pessoa de seu advogado, não vier a supri-lo no prazo de 5 (cinco) dias, nos termos do art. 1.007, § 2º, do NCPC.
+2. No caso dos autos, o comprovante de pagamento das custas devidas ao STJ não continha autenticação bancária, dado essencial para verificação da efetiva quitação da obrigação.
+3. A jurisprudência do STJ é pacífica no sentido de que, para a comprovação do preparo recursal, não basta o pagamento das custas processuais, impõe-se a juntada dos respectivos comprovantes e guia de recolhimento no ato de interposição dele, sob pena de deserção e também não é possível a juntada extemporânea dos documentos aptos a comprovar a realização do preparo, tendo em vista a incidência do instituto da preclusão consumativa.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido" (AgInt nos EDcl no AREsp 2.215.581/RJ, Relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/6/2023, DJe de 7/6/2023 - grifou-se).
+"PROCESSUAL CIVIL. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. PREPARO. NÃO COMPROVAÇÃO DO RECOLHIMENTO EM DOBRO. CÓDIGO DE AUTENTICAÇÃO BANCÁRIA. JURISPRUDÊNCIA PACÍFICA.
+(..)
+III - A jurisprudência deste STJ é pacífica pela necessidade de se comprovar o preparo, inclusive pela apresentação da autenticação bancária. Nesse sentido, confira-se: AgInt no REsp n. 1.856.622/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 15/6/2020, DJe de 24/6/2020; AgInt nos EDcl no RMS n. 63.694/MG, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 19/4/2021, DJe de 27/4/2021.
+IV - Agravo interno improvido" (AgInt no REsp 2.018.373/TO, Relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2023, DJe de 24/3/2023 - grifou-se).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, os honorários sucumbenciais fixados pelas instâncias ordinárias, devidos pela ora recorrente, devem ser majorados para R$ 5.800,00 (cinco mil e oitocentos reais), atualizados desde o arbitramento na origem, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
