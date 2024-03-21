@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por KAREN KEITHY MORAIS FERREIRA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO proferido no julgamento do HC n. 5004102-78.2023.8.08.0000.
+Extrai-se dos autos que a recorrente foi pronunciada como incursa nas sanções do art. 121, § 2º, II e III, e do art. 121, 2º, II e III, c/c art. 14, II, na forma do art. 70, todos do Código Penal (homicídio qualificado e homicídio qualificado tentado), mantida a custódia preventiva na sentença.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão de fls. 279/289, que restou assim ementado:
+"HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO. QUESTÃO DE ORDEM. NOVO TÍTULO JUDICIAL. SUPERVENIÊNCIA DA DECISÃO DE PRONÚNCIA. PREJUDICIALIDADE NÃO VERIFICADA. MÉRITO. REQUISITOS DA PRISÃO PREVENTIVA CONFIGURADOS. PROVA DA MATERIALIDADE E INDÍCIOS SUFICIENTES DE AUTORIA. PERICULOSIDADE EM CONCRETO DO AGENTE. ORDEM DENEGADA.
+1. Questão de ordem. Apesar da superveniência de decisão de pronúncia, a prisão provisória foi mantida pelos mesmos fundamentos até então consignados pela autoridade coatora. Desse modo, uma vez que somente há novo título prisional quando se trazem novos motivos para a manutenção da custódia cautelar, não há que se falar na prejudicialidade do writ.
+2. Mérito. O caso é permeado por uma gravidade que extrapola aquela que é própria do tipo penal, tendo em vista que a conduta atribuída à paciente é dotada de especial audácia, reveladora de crueldade acentuada, sendo importante consignar que, no acidente de trânsito, além de ter batido na motocicleta na contramão, a paciente, em tese, dirigiu seu carro por uma distância considerável, arrastando o veículo e, com ele, as vítimas. Diante do exposto, reveladas nuances de uma personalidade temerária, há nos autos elementos suficientes para concluir que, se colocada em liberdade, a paciente terá o potencial de perturbar a ordem pública.
+3. Condições subjetivas favoráveis do paciente, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória. Precedentes.
+4. Habeas Corpus denegado." (fls. 279/287).
+No presente recurso (fls. 317/325), em síntese, a defesa se insurge contra a prisão preventiva. Pondera que a custodiada apresenta condições pessoais favoráveis e argumenta a suficiência das medidas cautelares menos gravosas.
+Requer, em liminar, a expedição de alvará de soltura cumulada com a aplicação de medidas cautelares alternativas. No mérito, pugna pela revogação da prisão ou por sua substituição definitiva por cautelares diversas do cárcere.
+O Ministério Público do Estado do Espírito Santo manifestou-se pelo não conhecimento ou pelo desprovimento do recurso.
+É o relatório.
+Decido.
+O recurso não merece conhecimento.
+Além da intempestividade referida pelo Ministério Público, cumpre assinalar que no Habeas Corpus 876.107/ES, de minha relatoria, impetrado em 8/12/2023, foi formulada pretensão análoga em favor da ora recorrente, também desafiando o acórdão do HC n. 5004102-78.2023.8.08.000 julgado pelo TJES.
+Ainda que o recurso ordinário constitucional seja a via adequada para apreciar o aventado constrangimento ilegal, não se admite, nesta Corte, o processamento de mais de um habeas corpus (ou de seu recurso) em desfavor do mesmo ato coator, sob pena de violação ao princípio da unirrecorribilidade. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ART. 218-A DO CÓDIGO PENAL. INTERPOSIÇÃO DE RECURSO ESPECIAL CONTRA O MESMO ACÓRDÃO ORA IMPUGNADO. AUSÊNCIA DE SOLUÇÃO DEFINITIVA NA VIA RECURSAL. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. ILEGALIDADE FLAGRANTE NÃO EVIDENCIADA. PLEITO ABSOLUTÓRIO. REVOLVIMENTO FÁTICO-PROBATÓRIO, INCABÍVEL NA VIA ELEITA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. RECURSO DESPROVIDO.
+1. A jurisprudência desta Corte não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade.
+2. Embora o art. 654, § 2.º, do Código de Processo Penal preveja a possibilidade de concessão de habeas corpus, de ofício, " t al providência não se presta como meio para que a Defesa obtenha pronunciamento judicial sobre o mérito de pedido deduzido em via de impugnação que não ultrapassou os requisitos de admissibilidade" (AgRg no HC n. 702.446/SC, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 15/03/2022, DJe 22/03/2022).
+3. As instâncias ordinárias, soberanas na análise do conjunto probatório, entenderam devidamente demonstrada a prática do delito tipificado no art. 218-A do Código Penal - e assim o fizeram a partir da valoração do depoimento da vítima e de testemunhas -, razão pela qual, para acolher o pleito absolutório seria necessário revolvimento fático-probatório, incabível na via eleita.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 860.872/PB, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/12/2023, DJe de 15/12/2023).
+Incide, por conseguinte, a compreensão de que " a  interposição de dois recursos pela mesma parte contra o mesmo ato judicial inviabiliza a análise do protocolizado por último, por força do princípio da unirrecorribilidade e da preclusão consumativa" (AgRg no RHC n. 155.623/PR, relator Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, DJe de 31/3/2022).
+Ante o exposto, com fulcro no art. 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso ordinário em habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
