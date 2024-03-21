@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo interposto por MELNICK EVEN CASTANHEIRA EMPREENDIMENTO IMOBILIARIO SPE LTDA. contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÃO CÍVEL. PROMESSA DE COMPRA E VENDA. IMÓVEL VENDIDO NA PLANTA. FRAÇÃO IDEAL DE UNIDADE HOTELEIRA (SUÍTE). AQUISIÇÃO PARA INVESTIMENTO. NAO INCIDÊNCIA DO CDC, NO CASO. AUSÊNCIA DE ELEMENTOS CAPAZES DE AUTORIZAR A MITIGAÇÃO DA TEORIA FINALISTA. PRECEDENTE. PRETENSÃO DE RESCISÃO. CONTRATO CUJO QUADRO GERAL NÃO CONTEMPLA AS CONDIÇÕES DE CORREÇÃO MONETÁRIA. ART. 35-A, V, § 1º, DA LEI N. 4.591/1964. RESCISÃO POR CULPA DA PROMITENTE VENDEDORA. CABÍVEL. AFASTAMENTO DA TESE DE IRRETRATABILIDADE DO CONTRATO. CABIMENTO DA REDUÇÃO DA MULTA, NOS TERMOS POSTULADOS NA INICIAL. CORREÇÃO MONETÁRIA DA CONDENAÇÃO PELO IGP-M. JUROS DE MORA DESDE A CITAÇÃO. APELO DA PARTE AUTORA PROVIDO. APELO DA PARTE RÉ DESPROVIDO" (fl. 481 e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, alega-se, além de divergência jurisprudencial, violação dos seguintes dispositivos legais com as respectivas teses:
+(i) arts. 489, II, e § 1º, e 1.022, I e II, e parágrafo único, II, do Código de Processo Civil - o acórdão combatido incorreu em vício na prestação jurisdicional ao não apreciar aspectos relevantes da demanda suscitados nos embargos declaratórios;
+(ii) arts. 104, 389, 413 e 421 do Código Civil - o contrato firmado entre as partes deve ser cumprido em sua integralidade, inclusive em relação ao índice de correção monetária, devendo ser utilizado o INCC, conforme pactuado, e não o IGP-M;
+(iii) arts. 141 e 492 do Código de Processo Civil - a questão da rescisão do contrato por justa causa não foi objeto da inicial, surgindo apenas na apelação, o que constitui evidente e indevida inovação recursal, e
+(iv) arts. 67-A da Lei nº 4.591/1964 (incluído pela Lei nº 13.786/2018) e 421, 421-A e 422 do Código Civil - a multa compensatória deve incidir nos exatos termos contratados, ou seja, em 50% (cinquenta por cento) dos valores pagos, pois a incorporação imobiliária está submetida ao patrimônio de afetação.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar .
+O argumento de que o acórdão atacado teria incorrido em negativa de prestação jurisdicional é improcedente.
+De fato, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS. BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscrita à presença cumulativa dos requisitos da plausibilidade do direito invocado e no perigo de dano irreparável ou de difícil reparação, que não se fazem presentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É possível a atribuição de efeitos infringentes aos embargos de declaração quando a alteração da decisão surgir como consequência lógica da correção da omissão, contradição ou obscuridade.
+4. Agravo interno não provido" (AgInt no AREsp 1.070.607/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 25/8/2017 - grifou-se).
+No mais, as conclusões do tribunal de origem decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode facilmente aferir a partir da leitura dos fundamentos dos julgados da apelação e dos embargos de declaração, que ora se colaciona, nas partes que interessam:
+"(..)
+Inversamente do defendido pela parte ré em sua preliminar contrarrecursal, não verifico inovação recursal no caso dos autos. A parte autora defende a incidência do Código do Consumidor no caso dos autos. Refere que é pessoa física e adquiriu fração ideal de imóvel (25% de uma suíte) em empreendimento comercial hoteleiro. Referiu estar em posição de exagerada desvantagem com relação à parte credora. Ainda na petição inicial, refere que a multa rescisória de 50% do valor pago pelo promitente comprador, consiste do limite máximo previsto no art. 67-A da Lei nº. 4.591/64. Argumenta que esse não é um valor estanque e pode ser minorado, sobretudo em razão de não ter havido esclarecimento, ao consumidor, acerca dos termos em que se daria a correção monetária.
+Em contestação, a parte ré defendeu, além da irretratabilidade do contrato, a incidência da Lei n. 4.591/64, o afastamento da aplicabilidade do CDC, bem como a regularidade da multa de 50% do valor pago pelo promitente comprador, em caso de rescisão unilateral injustificada.
+Na réplica, a parte autora contra-argumentou que, em caso de aplicação da referida Lei, deveria haver observância das exigências do art. 35-A e de suas exigências, bem como invocou a possibilidade de distrato por força do § 1º do referido dispositivo. Destaco que, tendo havido narrativa dos fatos e fundamentos do pedido (abusividade dos termos em que aplicada a correção monetária, sem clara previsão contratual à respeito), a referência ao direito aplicável seria até mesmo dispensável, não havendo falar em inovação, quanto ao ponto.
+De todo o modo, ao contrário do alegado pela ré em contrarrazões, a matéria soerguida no apelo foi discutida em primeira instância, e que não houve inovação recursal, apenas resposta aos argumentos de defesa e aos fundamentos da sentença.
+Assim, vai afastada a preliminar contrarrecursal.
+(..)
+Todavia, assiste razão à parte autora, no que pertine à alegação de irregularidade do contrato, em razão da ausência de clareza com relação à correção monetária. Confira-se os termos da Lei n. :
+(..)
+No caso, o quadro geral do contrato não contém quaisquer informações acerca da correção monetária das parcelas previstas no item 5, "preço e condições de pagamento" (evento 1, DOC6).
+Destarte, ao contrário do referido pela parte ré, independente da existência de cláusula de irretratabilidade, cabível a rescisão contratual "justificada", prevista no contrato no item 9.2.2 do contrato (evento 1, DOC7).
+Aduza-se que, para o caso de rescisão há incidência de multa de 50% dos valores pagos pelo promitente comprador (evento 1, DOC7):
+(..)
+Veja-se que há disparidade injustificada no valor da multa, que se reduz por metade, em caso de rescisão por iniciativa da promitente vendedora. Ao par disso, em que pese a admissão do percentual de até 50% prevista em Lei, não há amparo para a incidência de penalidade em tais patamares, sobretudo considerado o fato de que se tem rescisão justificada, por culpa do promitente vendedor, nos termos da legislação exposta acima.
+Em verdade, ter-se-ia cabível o completo afastamento da multa que, todavia, não foi postulado pela parte autora. Assim, é de ser provido o pedido de redução da multa para 25% do valor pago pelo consumidor, com restituição imediata do percentual de 75%.
+Destaco que não há previsão contratual do índice de correção monetária aplicável ao valor a ser restituído ao promitente comprador, em caso de rescisão" (fls. 476/479 e-STJ).
+"(..)
+Veja-se, então, que o acórdão foi claro e expresso, ao aplicar, no caso, o art. 35, caput, da citada Lei, segundo o qual deve haver expressa previsão dos índices de correção monetária no quadro resumo do contrato, o que não ocorreu no instrumento ora sob análise. Em verdade, o quadro resumo sequer informa acerca da incidência de correção monetária no contrato, tanto menos o índice aplicável.
+Destarte, tem-se que a argumentação de que havia cláusula, nas condições gerais do contrato, contendo previsão de correção monetária não consiste de apontamento de omissão, contradição, obscuridade ou erro material no acórdão, mas de mera irresignação com o caso concreto.
+Não é demais referir, todavia, que a cláusula contratual invocada pela parte apelante não é clara. Em verdade, embora o caput da cláusula (item 3.2) preveja a incidência de INCC em caso de pagamento anterior à expedição do habite-se e de IPCA em caso de pagamento posterior (além de haver previsão, nos itens subsequentes, de adoção de índices substitutivos, em caso de extinção dos originariametne contratados), há disposição potestativa, na cláusula 3.2.1.2, que autoriza a promitente vendedora a adotar (a seu critério), índice que melhor reflita a variação do custo de construção e/ou a desvalorização da moeda corrente.
+Confira-se (evento 1, DOC7):
+(..)
+Ora, tal disposição denota que a ausência de indicação de um índice de correção no quadro resumo do contrato não caracterizou mero descumprimento de formalidade, no caso. Cuida-se de previsão da possibilidade de adoção de índice incerto que, no caso, como já dito na decisão embargada, autoriza a rescisão do contrato por justa causa.
+Como visto, as peculiaridades do caso concreto, que autorizam a rescisão do contrato (independente da cláusula de irrevogabilidade e irretratabilidade), por culpa da promitente vendedora (que não se confunde com mera desistência de contrato irretratável, como quer a embargante) foram apreciadas, e as alegações de omissão e obscuridade são, em verdade, manifestação da irresignação da parte ré com os termos da decisão.
+Quanto à minoração da multa contratual, reitero que o fundamento do acórdão foi a incidência de culpa da vendedora na rescisão do contrato. A limitação da multa se deu nos limites do pedido apresentado pela parte autora, ora embargada.
+A mera alusão à disparidade do valor da multa previsto em hipótese na qual a promitente vendedora infringisse o contrato em nada descaracteriza o fundamento da redução da multa que, no caso, foi a culpa da promitente vendedora.
+Destaco, ainda, que a irregularidade contratual se verificou com base na legislação aplicável ao caso concreto, a Lei de Incorporações, e não com base no CDC" (fls. 549/551 e-STJ).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor dos enunciados das Súmulas nºs 5 e 7 deste Superior Tribunal.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 18% (dezoito por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 20% (vinte por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
