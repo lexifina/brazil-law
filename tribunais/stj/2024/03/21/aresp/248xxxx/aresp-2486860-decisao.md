@@ -1,0 +1,23 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Tocantins, assim ementado:
+AGRAVO EM EXECUÇÃO PENAL. TRANSFERÊNCIADE UNIDADE DE PEQUENO PORTE PARA UNIDADE DE MAIORSEGURANÇA. VÍNCULOS DO REEDUCANDO COM FACÇÃOCRIMINOSA. POSSIBILIDADE.
+- Nos termos do art. 86, § 3º, da LEP, o direito do agravante em cumprir sua pena em local próximo ao de seus familiares não detém natureza absoluta, uma vez que cede espaço à preponderância do interesse social, da aplicação da lei penal e da ordem pública.
+- No caso, restou constatado que o estabelecimento penal em que se encontravam os reeducandos não era compatível com a periculosidade dos mesmos, por estarem envolvidos com a Organização Criminosa denominada "PCC", o que gerou a necessidade das transferências de uma unidade de pequeno porte para Unidade de Tratamento Penal Barra da Grota, localizada no município de Araguaína.
+- Recurso conhecido e improvido. (e-STJ fl. 67)
+A defesa aponta a violação do art. 103 da LEP, alegando, em síntese, que o contato com familiares é primordial para é primordial a ressocialização do preso e reinserção à sociedade, razão pela qual a transferência de unidade prisional não se justifica. Assevera que "não consta nos autos da execução penal procedimento administrativo com provas que corrobore a afirmação de que os recorrentes pertençam à organização criminosa ou ainda que seja de alta periculosidade, ou seja, não há nada que associe os pleiteantes a colocar em risco a segurança da unidade prisional." (e-STJ fl. 86)
+Contrarrazões às e-STJ fls. 95/100.
+Manifestação do Ministério Público Federal pelo não conhecimento do recurso às e-STJ fls. 155/157.
+É o relatório. Decido.
+A irresignação não prospera.
+Extrai-se dos autos que o TJTO negou provimento ao agravo em execução penal interposto pela defesa e manteve a decisão proferida pela Juíza da 3ª Vara Criminal da Comarca de Araguaína/TO que julgou procedente pedido de transferência dos custodiados.
+Esses são os fundamentos do acórdão:
+Da análise dos fundamentos recursais, verifica-se que o objeto jurídico discutido nos autos é a transferência dos reeducandos para estabelecimento penal diverso daquele em que se cumpria a pena.
+In casu, conforme se extrai dos autos, a magistrada anuiu com as transferências dos reeducandos, uma vez que o Diretor da Cadeia Pública de Colinas apontou que o estabelecimento penal em que se encontravam não era compatível com periculosidade dos apenados, sendo os mesmos envolvidos com a Organização Criminosa denominada "PCC", e tampouco com as necessidades médicas de Reginaldo Gomes, o que gerou a necessidade das transferências daquela unidade de pequeno porte para a Unidade de Tratamento Penal Barra da Grota, localizada no município de Araguaína.
+De início, importa ressaltar que, embora a execução deva ocorrer, preferencialmente, no local da residência do apenado, inclusive para facilitar o exercício do direito à assistência familiar, pressuposto da ressocialização, tal princípio de execução penal não possui caráter absoluto, cedendo espaço à preponderância do interesse social, da aplicação da lei penal, ou da ordem pública.
+É o que se depreende da dicção do artigo 86, da LEP, em que se lê que "as penas privativas de liberdade aplicadas pela Justiça de uma Unidade Federativa podem ser executadas em outra unidade, em estabelecimento local ou da União", acrescendo o § 3º que "Caberá ao juiz competente, a requerimento da autoridade administrativa definir o estabelecimento prisional adequado para abrigar o preso provisório ou condenado, em atenção ao regime e aos requisitos estabelecidos". (e-STJ fl. 61)
+A decisão vergastada está de acordo com a jurisprudência desta Corte Superior de Justiça, consolidada no se ntido de que a transferência do preso para estabelecimento prisional situado próximo ao local onde reside sua família não é norma absoluta, cabendo ao Juízo de Execuções Penais avaliar a conveniência da medida (ut, AgRg no HC n. 462.085/SP, Quinta Turma, Rel. Min. Felix Fischer, DJe de 9/10/2018).
+No caso concreto, a periculosidade dos apenados e as necessidades médicas de um deles ensejaram a transferência de unidade prisional, não havendo que se falar em ausência de fundamentação.
+Maiores digressões acerca do tema demandariam reexame minucioso do conjunto fático-probatório, o que é defeso em sede de recurso especial ante o óbice do enunciado n. 7 da Súmula do STJ.
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
