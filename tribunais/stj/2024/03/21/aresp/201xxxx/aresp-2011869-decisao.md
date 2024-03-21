@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da inexistência de violação dos dispositivos legais apontados e da incidência da Súmula n. 7 do STJ (e-STJ fls. 337/340).
+O acórdão recorrido está assim ementado (e-STJ fl. 203):
+CONTRATO DE ABERTURA DE CRÉDITO FIXO PROVIDO COM RECURSOS DO FINAME/BNDES. Ação monitória julgada procedente para declarar constituído, de pleno direito, o título executivo judicial em favor do autor, no valor de R$ 179.276,27 (cento e setenta e nove mil, duzentos e setenta e seis reais e vinte e sete centavos). Apelo dos embargantes. Aplicação da pena de deserção à coapelante Distribuidora de Produtos Alimentícios e Bebidas Scatena Ltda., não beneficiária da assistência judiciária gratuita, diante da ausência de recolhimento de preparo, após intimada. Interposição de recurso pelos litisconsortes, beneficiários da assistência judiciária gratuita, que aproveita ao outro litisconsorte, contudo. Inteligência do artigo 1.005, "caput", do Código de Processo Civil. Alegação de cerceamento de defesa. Inocorrência. Relação de consumo inexistente. Ausência de demonstração de abusividade da previsão contratual de vencimento antecipado da dívida. Possibilidade de financiamento do IOF. Não comprovação da alegada cobrança abusiva de multa ou de juros moratórios, bem como ausência de demonstração de cobrança de taxa de juros remuneratórios a destoar da taxa média de mercado para mesma modalidade e época da contratação. Não demonstrada a pactuação acerca da capitalização dos juros, a ser inadmissível sua incidência, conforme orientação da súmula 539 do Colendo Superior Tribunal de Justiça. Comissão de permanência prevista contratualmente à taxa de mercado do dia do pagamento. Cobrança que deve ser adequada conforme orientação da súmula 472, do Colendo Superior Tribunal de Justiça, limitada aos percentuais FACP aplicados, se inferiores. Recurso parcialmente provido para afastar a capitalização de juros, bem como para adequar a cobrança de comissão de permanência conforme orientação da súmula 472, do Colendo Superior Tribunal de Justiça, limitada aos percentuais FACP aplicados, se inferiores.
+Os embargos de declaração foram rejeitados (e-STJ fls. 307/312).
+No recurso especial (e-STJ fls. 215/257), fundamentado no art. 105, III, "a" e "c", da CF, os recorrentes alegaram violação dos arts. 335, I, 369 e 370 do CPC/2015, porque não teria sido realizada a prova pericial requerida, configurando cerceamento de defesa.
+Defenderam serem aplicáveis as regras dispostas no CDC.
+Sustentaram a tese de ofensa aos arts. 6º, V, e 51, I, IV e X, do CDC e 122, 166, VII, e 168, parágrafo único, do CC/2002.
+No agravo (e-STJ fls. 343/355), declaram a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Primeiramente, quanto à alegada aplicação do CDC, a parte recorrente não indicou o dispositivo legal que teria sido desrespeitado, atraindo a incidência da Súmula n. 284/STF.
+Além disso, mesmo que superado o referido óbice, não merece prosperar a irresignação da parte recorrente. Quanto à aplicação do CDC, assim decidiu o Tribunal de origem (e-STJ fls. 206/207):
+Inaplicável o Código de Defesa do Consumidor à hipótese. A devedora principal é pessoa jurídica e utilizou os créditos bancários para o incremento de sua atividade lucrativa, inexistente prova em sentido contrário. Diante da utilização do serviço como insumo na atividade empresarial, a coapelante não é qualificada como consumidora (artigo 2º, do Código de Defesa do Consumidor). Não há se falar em inversão do ônus da prova.
+Para alterar o acórdão recorrido e reconhecer que a parte agravante é consumidora, seria indispensável a apreciação das provas, hipótese vedada pela Súmula n. 7/STJ.
+Em relação ao cerceamento de defesa, o TJSP consignou que (e-STJ fl. 206):
+Não ocorre cerceamento de defesa. O contexto era suficiente para o deslinde da causa, a tornar desnecessária realização de outras provas.
+O destinatário da prova é o juiz. Se encontrar elementos para a formação de seu convencimento, deve conhecer diretamente do pedido. Não há se falar em realização obrigatória de provas, mesmo quando postuladas:
+Desconstituir o entendimento da Corte local e decidir pela essencialidade da prova pericial necessitaria de análise do conjunto fático-probatório da lide, incidindo novamente a Súmula n. 7/STJ.
+No que se refere à existência de cláusulas contratuais abusivas, o Tribunal estadual estabeleceu que (e-STJ fls. 207/208):
+Inadmissível irresignação contra a cláusula 7ª, página 38, que estabelece vencimento antecipado, uma vez não demonstrada abusividade pelos apelantes.
+Além disso, plenamente admissível a cobrança de IOF, inclusive seu financiamento, conforme tese fixada pelo Colendo Superior Tribunal de Justiça no julgamento do recurso repetitivo nº 1.251.331/RS, relatora Ministra Maria Isabel Gallotti, Segunda Seção, em 28.8.2013:
+(..)
+Cumpre observar inexistir demonstração de cobrança de multa ou de juros moratórios (páginas 67/70), observado que os apelantes não demonstraram que a taxa de juros anual pactuada em 3% (página 40, cláusula nona encargos financeiros) destoe da taxa média de mercado praticada para mesma modalidade e época da contratação.
+Para desconstituir o acórdão recorrido, a fim de reconhecer a abusividade das cláusulas contratuais, seria indispensável reapreciar as provas e reinterpretar as disposições do contrato , incabível no âmbito desta Corte, a teor das Súmulas n. 5 e 7 do STJ.
+Em face do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
