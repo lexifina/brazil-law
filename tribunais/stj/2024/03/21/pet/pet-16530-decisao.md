@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de Petição apresentada por FERNANDA CRISTINA ROSA através da qual se insurge contra o perdimento da caminhonete VW/Amarok, placa QJW7F65, de sua propriedade, nos autos da Ação Penal n. 5002358-48.2022.8.24.0126 instaurada contra Marcelo Alves de Souza, e da qual não é parte e, sim, terceira de boa-fé.
+Requer a procedência do pedido, a fim de que seja declarada sem efeito a decisão que determinou a perda do veículo VW/Amarok, placa QJW7F65 de sua propriedade.
+O Ministério Público opinou pelo não conhecimento ou pelo desprovimento da petição (e-STJ, fls. 183-185) .
+É o relatório.
+Decido.
+Observa-se da petição inicial que, embora autuado como Petição, a parte requerente ingressou perante esta Corte com embargos de terceiro, recurso pertinente contra a sentença de perdimento e bens, que deveria, no entanto, ter sido interposto perante a instância de origem, o que não foi feito.
+Com efeito, nos termos do art. 105 da Constituição da República, este Superior Tribunal não tem competência para processar e julgar, originariamente, embargos de terceiro.
+E ainda que fosse possível superar o erro grosseiro consistente no ajuizamento dos embargos diretamente nesta Corte Superior, a questão demandaria incursão em conteúdo fático-probatório dos autos, "peculiar ao processo de conhecimento" (e-STJ, fl. 185), e inviável no âmbito do Superior Tribunal de Justiça.
+O Tribunal de Justiça de Santa Catarina, no julgamento da Apelação n. 5002358-48.2022.8.24.0126/SC, afastou a possibilidade de restituição dos bens apreendidos como um todo, sem ressalva quanto ao veículo VW/Amarok, placa QJW7F65:
+No entanto, conforme precedentes do Superior Tribunal de Justiça, a restituição de coisa apreendida está condicionada (i) à ausência de dúvida de que o requerente é seu legítimo proprietário; (ii) à demonstração da licitude de sua origem; e (iii) à demonstração de que não foi usada como instrumento do crime, conforme exigências postas nos arts. 120, 121e 124 do Código de Processo Penal, c/c art. 91, II, do Código Penal (STJ, RMS nº56.799/MT, rel. Min. Reynaldo Soares da Fonseca, j. em 12.6.2018; AgRg no AR Esp nº1.407.471/RR, rel. Min. Ribeiro Dantas, j. em 16.5.2019).
+In casu, resta plenamente demonstrado que o automóvel e a propriedade foram utilizados na prática ilícita (cultivo e transporte dos entorpecentes), devendo aplicar-se então a determinação do Supremo Tribunal Federal, que firmou, em sede de repercussão geral (Tema 647), tese no sentido de que "é possível o confisco de todo e qualquer bem de valor econômico apreendido em decorrência do tráfico de drogas, sem a necessidade de se perquirira habitualidade, reiteração do uso do bem para tal finalidade, a sua modificação para dificultar a descoberta do local do acondicionamento da droga ou qualquer outro requisito além daqueles previstos expressamente no art. 243, parágrafo único, da Constituição Federal"(STF, RE 638.491/PR, rel. Min. Luiz Fux, j. em 17.5.2017).
+Portanto, o recurso deve também ser desprovido nesse tocante. (e-STJ, fl. 69)
+E conforme registrado no acórdão a quo, " c omo regra geral, a restituição das coisas apreendidas, mesmo após o trânsito em julgado da ação penal, está condicionada tanto à ausência de dúvida de que o requerente é seu legítimo proprietário, quanto à licitude de sua origem e à demonstração de que não foi usado como instrumento do crime, conforme as exigências postas nos arts. 120, 121 e 124 do Código de Processo Penal c/c o art. 91, II, do Código Penal" (RMS n. 61.879/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/12/2019, DJe de 19/12/2019).
+Sendo assim, mostra-se inviável o conhecimento da presente petição.
+Diante do exposto, não conheço do pedido.
+Publique-se. Intime-se.
+EMENTA
