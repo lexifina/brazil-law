@@ -1,0 +1,66 @@
+DECISÃO
+Cuida-se de agravo de DIEGO SOUZA LEITE contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido no julgamento de agravo em execução penal n. 5714159-24.2022.8.09.0000.
+Consta dos autos que o Juízo da Vara de Execução de Penas e Medidas Alternativas de Goiânia/GO indeferiu o pedido de reconhecimento de continuidade delitiva entre fato praticado em 21/6/2020 (art. 155, § 4º, I e IV, c/c art. 14, II e art. 61, II, j, ambos do Código Penal - CP), pelo qual o recorrente foi condenado à pena de 8 meses de reclusão; e fato praticado em 7/11/2020 (art. 155, caput, c/c art. 14, II, ambos do CP), pelo qual o recorrente foi condenado à pena de 1 ano de reclusão. O indeferimento ocorreu em razão do não preenchimento dos requisitos da continuidade delitiva, considerando o transcurso de lapso temporal, entre um crime e outro, muito superior ao determinado pela doutrina e jurisprudência (fl. 251).
+Agravo em execução penal interposto pela defesa foi desprovido (fl.361). O acórdão ficou assim ementado:
+"AGRAVO EM EXECUÇÃO PENAL. CONTINUIDADE DELITIVA. LAPSO TEMPORAL SUPERIOR A 30 DIAS ENTRE O COMETIMENTO DOS DELITOS.
+1. Embora seja possível, no caso concreto, reconhecer o instituto jurídico da continuidade delitiva entre crimes praticados em período superior a 30 (trinta) dias, na situação dos autos, pelo expressivo lapso temporal decorrido (mais de 04meses), inviável aplicar a referida ficção jurídica, pois, em verdade, resta caracterizada mera reiteração delitiva.
+2. Agravo em Execução Penal conhecido e desprovido" (fl. 357).
+Em recurso especial (fls. 368/373), a defesa apontou violação ao art. 71 do CP, porque o Tribunal de Justiça - TJ deixou de reconhecer a continuidade delitiva entre crimes da mesma espécie (furtos tentados), praticados do mesmo modo (mediante concurso de agentes com rompimento de obstáculo para adentrar em imóvel alheio) e em mesmo local de execução (Goiânia/GO), pelo simples fato de terem sido cometidos em intervalo superior a 30 dias. Argumentou que lapso temporal pouco superior a 30 dias não afasta necessariamente a regra da continuidade, preenchidos os demais requisitos, conforme entendimento desta Corte Superior.
+Requereu a reforma do acórdão recorrido.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS (fls. 381/387).
+O recurso especial foi inadmitido no TJ em razão da incidência do óbice da Súmula n. 7 do Superior Tribunal de Justiça - STJ (fls. 391/393).
+Em agravo em recurso especial, a defesa impugnou o referido óbice (fls. 398/404).
+Contraminuta do Ministério Público (fls. 409/410).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo conhecimento do agravo para negar provimento ao recurso especial (fls. 421/423).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS afastou a hipótese de continuidade delitiva, nos seguintes termos do voto do relator:
+"De acordo com o art. 71, do Código Penal Brasileiro, há crime continuado quando o agente, mediante mais de uma ação ou omissão, pratica dois ou mais crimes da mesma espécie, nas mesmas condições de tempo, lugar e modus operandi (conexão temporal, espacial, modal e ocasional), devendo os delitos subsequentes serem postos como continuação do primeiro.
+ ..
+Sendo assim, para reconhecer a continuidade delitiva, se faz necessário averiguar se estão presentes, cumulativamente, os requisitos objetivos (idênticas condições de tempo, lugar e modo de execução) e subjetivo (unidade de desígnios).
+No que diz respeito às condições de espaço, a jurisprudência entende que o cometimento das infrações deve ocorrer em localidades próximas - ficando a cargo do julgador definir o que venha a ser tal proximidade. Quanto à forma de execução, deve-se considerar os métodos utilizados pelo agente, de modo que seja possível estabelecer um padrão entre as condutas.
+Concernente ao liame subjetivo, o Superior Tribunal de Justiça conclui ser necessário evidenciar que os atos criminosos estão entrelaçados, sendo imprescindível que as infrações resultem de plano previamente elaborado pelo agente, constituindo a conduta posterior um desdobramento da anterior (STJ, AgRg no HC nº754.222/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 28/11/22, DJe de 02/12/22).
+Por fim, o requisito temporal visa indicar uma certa periodicidade entre as ações sucessivas. Destarte, a despeito da lei não fixar nenhum hiato máximo entre o primeiro e o último delito da cadeia, como regra geral a jurisprudência estabelece o período de trinta dias, conforme se vê:
+ ..
+No caso sob análise, tem-se que, no dia 21/06/20, o agravante, em unidade de desígnios com terceira pessoa não identificada, rompeu o portão da seguradora MAPFRE, com o intuito de lá adentrar e subtrair coisas alheias móveis. Todavia, policiais militares foram informados sobre o arrombamento e se deslocaram até o local, conseguindo obstar a empreitada delitiva. Na ocasião, o sentenciado tentou empreender fuga, porém, foi detido pelos agentes de segurança pública.
+Verifica-se, ainda, que, no dia 07/11/2020, o agravante, na companhia de duas outras pessoas não identificadas, pulou o muro de um imóvel e, após retirar partes do telhado, adentrou em residência alheia através da janela, objetivando subtrair uma televisão. Durante a ação, contudo, fugiu sem levar nada, em razão de o proprietário da casa ter aparecido.
+Compulsando os autos, nota-se que, de fato, se trata de delitos de mesma natureza (furto tentado), praticados nas mesmas circunstâncias de lugar (Goiânia), sendo utilizada a mesma maneira de execução (concurso de agentes, com rompimento de obstáculo para adentrar em imóvel alheio). Todavia, verifica-se que, entre a data do primeiro (21/06/20) e do último (07/11/22) crime, transcorreu-se período muito superior a 30 (trinta) dias, perfazendo o total de 139 (cento e trinta e nove) dias entre as infrações.
+Nesse ponto, impende salientar que, embora seja possível, no caso concreto, reconhecer o instituto jurídico da continuidade delitiva entre crimes praticados em período superior a 30 (trinta) dias, na situação dos autos, pelo expressivo lapso temporal decorrido (mais de 04 meses), inviável aplicar a referida ficção jurídica, pois, em verdade, resta caracterizada mera reiteração delitiva.
+A propósito, o Superior Tribunal de Justiça já decidiu:
+ ..
+Assim, diante do não preenchimento do requisito temporal, porquanto transcorreu lapso muito superior a trinta dias entre as infrações, resta inviável aplicar o instituto jurídico da continuidade delitiva" (fls. 359/361).
+Verifica-se, dos trechos acima, que o TJ avaliou que os crimes praticados representavam mera reiteração delitiva e não continuidade, tendo em vista o decurso de mais de 4 meses entre as ações criminosas.
+A compreensão da Corte estadual mostra-se correta, na medida em que é assente o entendimento desta Corte sobre o não reconhecimento da continuidade delitiva cujo lapso temporal entre os delitos seja superior a 30 (trinta) dias, salvo, excepcionalmente, quando as instâncias ordinárias reconhecem outros fatores que evidenciem a presença da continuidade no caso concreto (integração entre os delitos), o que não ocorreu no caso concreto.
+Nessa lógica, os seguintes precedentes:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE DESCAMINHO. RECONHECIMENTO DA CONTINUIDADE DELITIVA. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem concluiu pela inviabilidade do reconhecimento da continuidade delitiva, pois os delitos foram praticados de forma autônoma, separados entre si por vários meses.
+2. "Apesar de o legislador não ter delimitado expressamente o intervalo de tempo necessário ao reconhecimento da continuidade delitiva, esta Corte entende não ser possível a aplicação da regra quando os delitos tiverem sido praticados em período superior a 30 dias" (AgRg no HC 696.934/GO, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 15/2/2022).
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.297.039/MS, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 27/6/2023, DJe de 3/7/2023).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. ROUBOS MAJORADOS. CONTINUIDADE DELITIVA. NÃO INCIDÊNCIA. INTERVALO TEMPORAL SUPERIOR A 30 DIAS. CIRCUNSTÂNCIA REVELADORA DE REITERAÇÃO CRIMINOSA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não se aplica a continuidade delitiva quando os crimes, em número expressivo, forem praticados em intervalo de tempo superior a 30 dias, circunstância objetiva que sinaliza a reiteração delitiva, e não a prática de delitos em continuação, a partir de um mesmo propósito originário.
+2. Incabível a flexibilização do lapso temporal, no caso concreto, pois não reconhecida, pelas instâncias ordinárias, a integração entre os ilícitos. Sem prova inequívoca de que as subtrações decorreram do mesmo plano inicial do agente, projetado para execução em várias etapas, é impossível reconhecer a unidade naturalista imprescindível à aplicação do art. 71, parágrafo único, do CP.
+3. Agravo regimental não provido.
+(AgRg no HC n. 784.960/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/3/2023, DJe de 3/4/2023).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBOS. RECONHECIMENTO DA CONTINUIDADE DELITIVA. EXAME APROFUNDADO DE PROVAS. VIA INADEQUADA.
+1. A jurisprudência desta Corte Superior firmou entendimento no sentido de que a caracterização da continuidade delitiva pressupõe a existência de ações praticadas em idênticas condições de tempo, lugar e modo de execução (requisitos objetivos), além de um liame a indicar a unidade de desígnios (requisito subjetivo).
+2. E, apesar de o legislador não ter delimitado expressamente o intervalo de tempo necessário ao reconhecimento da continuidade delitiva, esta Corte entende não ser possível a aplicação da regra quando os delitos tiverem sido praticados em período superior a 30 dias.
+3. No caso, em que pese os crimes serem da mesma espécie, não foram cometidos nas mesmas condições de tempo, na medida em que o 1º e 2º fato foram praticados em 12/3/2019, ao passo que o terceiro ocorreu em 16/1/2019.
+4. Ademais, as instâncias ordinárias foram enfáticas em afastar a regra da continuidade delitiva. Chegar a entendimento diverso, implica em exame aprofundado de provas, vedado na via sumária do habeas corpus.
+5. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 696.934/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/2/2022, DJe de 15/2/2022).
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTINUIDADE DELITIVA. LAPSO TEMPORAL SUPERIOR A TRINTA DIAS. EXCEPCIONALIDADE JUSTIFICADA. MANTIDA A CONTINUIDADE DELITIVA. RECURSO PROVIDO.
+1. Embora para reconhecimento da continuidade delitiva se exija o não distanciamento temporal das condutas, em regra no período não superior a trinta dias, conforme precedentes da Corte, excepcional vinculação entre as condutas permite maior elastério no tempo.
+2. Tendo o Tribunal local demonstrado que a prática delitiva se deu em três blocos distintos de condutas cujo intervalo de tempo entre eles foi de aproximadamente três meses, mas consignado que todas elas foram praticadas em ritmo contínuo e em contexto da sua ocorrência que refugia ao total controle dos réus, justificado está a excepcional admissão do favor da continuidade delitiva.
+3. Agravo regimental provido para manter a continuidade delitiva nos termos reconhecidos pelo Tribunal local, mantidos os demais termos da decisão agravada.
+(AgRg no REsp n. 1.345.274/SC, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 20/3/2018, DJe de 12/4/2018.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PECULATO. REQUISITOS DA CONTINUIDADE DELITIVA. SÚMULA 7/STJ. FLEXIBILIZAÇÃO DO LAPSO TEMPORAL DE 30 DIAS. POSSIBILIDADE, EXCEPCIONALMENTE. ENTENDIMENTO DA CORTE ESPECIAL DESTE STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Afastar a continuidade delitiva reconhecida na origem exigiria novo exame sobre os pressupostos objetivos e subjetivos do crime continuado, medida que esbarra na Súmula 7/STJ. Precedentes.
+2. "Diante da ausência de previsão legal sobre o tempo a ser considerado para o reconhecimento da continuidade delitiva, a jurisprudência do Superior Tribunal de Justiça tem decidido pela flexibilização do período de trinta dias entre as condutas para o fim de admissão da ficção jurídica, quando outros fatores indicarem a presença da continuidade no caso concreto" (APn n. 847/DF, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 16/6/2021, DJe de 30/9/2021).
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 2.064.514/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/8/2023, DJe de 16/8/2023).
+Irretocável, pois, o acórdão recorrido.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e, com fundamento na Súmula n. 568 do STJ, negar-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
