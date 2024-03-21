@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ANELI SOLIGO ZUBLER contra decisão que inadmitiu o recurso especial com fundamento na Súmula n. 284 do STF.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado de Mato Grosso (Apelação Cível n. 1001845-47.2022.8.11.0018) assim ementado (fl. 580):
+RECURSO DE APELAÇÃO CÍVEL - AÇÃO DE REINTEGRAÇÃO DE POSSE - REVELIA DO RÉU - SENTENÇA DE PROCEDÊNCIA - AUSÊNCIA DE CITAÇÃO DA PARTE - VÍCIO NÃO SUPRIDO PELA INTERPOSIÇÃO DE RECURSO DE AGRAVO DE INSTRUMENTO POR ADVOGADO SEM PODERES PARA RECEBER CITAÇÃO - NECESSIDADE DE EFETIVA CITAÇÃO DA PARTE PARA APRESENTAÇÃO DE DEFESA - SENTENÇA ANULADA - RECURSO PROVIDO.
+O STJ firmou posicionamento no sentido de que "em regra, o peticionamento nos autos por advogado destituído de poderes especiais para receber citação não configura comparecimento espontâneo apto a suprir tal necessidade" (EREsp 1.709.915/CE, Corte Especial, DJe 09/08/2018). A ratio decidendi está assentada, essencialmente, na importância do ato citatório sob a ótica do réu, de modo que a inobservância da forma prevista em lei e a eventual dúvida acerca da higidez e da efetiva ciência inequívoca do réu sobre a existência da ação podem gerar consequências gravíssimas à parte, como no caso concreto, em que a parte não foi efetivamente citada, e deparou-se com sentença impeditiva da sua posse.
+Nas razões do recurso especial, a ora agravante alega negativa de vigência dos arts. 344 e 239, § 1º, do Código de Processo Civil. Aduz que o comparecimento espontâneo do réu aos autos demonstrou sua ciência inequívoca acerca da demanda e, assim, supriu a falta de citação.
+Requer o conhecimento e o provimento do recurso para que seja mantida a sentença, que decretou a revelia do agravado.
+Contrarrazões às fls. 660-674.
+É o relatório. Decido.
+O recurso não merece prosperar.
+No caso, o Tribunal de origem, por maioria, afastou a tese de que o comparecimento espontâneo do réu aos autos supriria a ausência de citação com base no seguinte fundamento (fl. 587):
+No presente caso, embora a parte requerida tenha, realmente, interposto recurso de agravo de instrumento após a juntada de procuração nos autos, a forma como as coisas aconteceram foi extremamente prejudicial ao apelante, e não há como dizer que houve garantia à ampla defesa, já que, logo após a interposição do Recurso de Agravo de Instrumento n. 1021846-10.2022.8.11.0000, sobreveio decisão de não conhecimento, que foi proferida sob o fundamento de que tornou-se "desnecessária a apreciação do mérito do recurso ante a perda do seu objeto" (cf. Id. n. 153470655 daqueles autos), ou seja, o único meio de defesa empregado pelo apelante, que não foi efetivamente citado, e deparou-se com decisão impeditiva da sua posse, foi inteiramente desconsiderado e, no final das contas, a parte sofreu as tais consequências gravíssimas que a exigência de efetiva citação tanto busca evitar.
+No caso, o requerido, sem ser ouvido, perdeu qualquer oportunidade que tinha de provar que era seu o direito de posse sobre a área.
+Contudo, a recorrente não impugnou esse fundamento do acórdão recorrido, o que atrai o óbice da Súmula n. 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ante o exposto, nego provimento ao agravo .
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
