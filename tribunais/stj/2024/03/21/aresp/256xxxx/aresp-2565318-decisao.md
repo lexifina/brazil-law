@@ -1,0 +1,15 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ANGELICA MEDEIROS, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a" da Constituição Federal.
+Ação: de reintegração de posse ajuizada por INACIO APRIGIO DA SILVA - Espólio contra a ora agravante.
+Acórdão: negou provimento à apelação interposta pela parte agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE REINTEGRAÇÃO DE POSSE. ESPÓLIO QUE ALEGA TER SIDO PRIVADO DA POSSE DE IMÓVEL INTEGRANTE DO ACERVO HEREDITÁRIO. SENTENÇA DE PROCEDÊNCIA. RECURSO DA RÉ. PRELIMINAR DE INADEQUAÇÃO DA VIA ELEITA. REJEIÇÃO. CONTRATO VERBAL DE LOCAÇÃO, CUJA EXISTÊNCIA NÃO RESTOU PROVADA. POSSE ANTERIOR QUE DECORREDO PRINCÍPIO DA SAISINE (ARTIGO 1.784, DO CÓDIGO CIVIL). TRANSMISSÃO DA POSSE COM A MORTE DO AUTOR DA HERANÇA (ARTIGO 1.206 DO CÓDIGO CIVIL). RECURSO DESPROVIDO.
+Decisão de admissibilidade do TJ/RJ: inadmitiu o recurso especial em razão dos segui ntes fundamentos: i) ausência de violação do art. 489 do CPC (Súmula 83/STJ); ii) ausência de violação do art. 1.022 do CPC (Súmula 83/STJ); e iii) incidência da Súmula 7 do STJ.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que: i) "é cristalino que o caso em tela não se confunde com o precedente apontado como expressão do Enunciado 83 da Súmula de Jurisprudência dessa Corte Superior" (e-STJ fl. 415) e que ii) "é clarividente que a Agravante, de forma alguma, pretende a revisão de matéria de fato, porquanto ciente está do óbice da aludida Súmula. É preciso salientar que essa Egrégia Corte Superior distingue reexame de revaloração das provas, admitindo francamente a possibilidade de realizar a revaloração das provas contidas nos autos" (e-STJ fl. 416).
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: i) ausência de violação do art. 489 do CPC (Súmula 83/STJ); ii) ausência de violação do art. 1.022 do CPC (Súmula 83/STJ); e iii) incidência da Súmula 7 do STJ.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários em 5%, observada eventual concessão de justiça gratuita.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
