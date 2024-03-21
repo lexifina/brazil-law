@@ -1,0 +1,47 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de fl. 52 (e-STJ):
+"Trata-se de habeas corpus com pedido de liminar impetrado em favor de NILSA FERREIRA FURTADO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (Apelação Criminal 0003365-28.2018.8.16.0061).
+A paciente foi condenada à pena de 4 anos, 10 meses e 10 dias de reclusão em regime semiaberto, além do pagamento de 485 dias-multa, pela prática do crime previsto no art. 33, caput, c/c art. 40, V, da Lei 11.343/2006.
+O Tribunal local deu provimento à apelação interposta pelo Ministério Público, a fim de excluir a causa de diminuição de pena prevista no art. 33, § 4º, da Lei de Drogas, o que resultou no redimensionamento da pena ao patamar de 5 anos e 10 meses de reclusão em regime fechado.
+A defesa alega inidoneidade da fundamentação que afastou a causa de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006, pois preenchidos os requisitos legais.
+Requer, liminar e definitivamente, deferimento da ordem para que seja aplicada a referida redutora penal, em seu patamar máximo."
+A liminar foi indeferida pelo Ministro João Batista Moreira (e-STJ fls. 52-53). As informações foram prestadas às e-STJ fls. 59-66 e 81-94.
+O Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ fls. 98-99).
+Intimada para se manifestar, a defesa noticia que remanesce o interesse no julgamento desta impetração (e-STJ fls. 107-113).
+É o relatório.
+Decido.
+A controvérsia posta em julgamento é se a quantidade de drogas apreendida é elemento suficiente para negar a aplicação da causa de diminuição de pena do §4º do art. 33 da Lei nº 11.343/06.
+A respeito da utilização da quantidade da droga apreendida como circunstância para inferir a dedicação à atividade criminosa e ao pertencimento à organização criminosa, a jurisprudência deste col. STJ é pacífica no sentido de que não é elemento suficiente.
+Além disso, nos termos do entendimento desta Corte, a condição de "mula" justifica a incidência do redutor em seu mínimo legal. Com efeito, embora tal condição, por si só, não afaste a incidência do art. 33, § 4º, da Lei n. 11.343/2006, pode autorizar a aplicação da causa de diminuição em 1/6, pois, mesmo como transportadora, no caso concreto a paciente se deixou cooptar pelo tráfico.
+Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS (20 KG DE MACONHA). CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. NÃO RECONHECIMENTO PELAS INSTÂNCIAS ORDINÁRIAS. QUANTIDADE DO ENTORPECENTE APREENDIDO. IMPOSSIBILIDADE DE, ISOLADAMENTE CONSIDERADA, TER O CONDÃO DE AFASTAR A MINORANTE. RECONHECIMENTO QUE SE IMPÕE. RETORNO DOS AUTOS PARA ESCOLHA DO PATAMAR DE REDUÇÃO APLICÁVEL AO CASO.
+ .. .
+3. A jurisprudência desta Corte Superior é no sentido de que isoladamente consideradas, a natureza e a quantidade do entorpecente apreendido, por si sós, não são suficientes para embasar conclusão acerca da presença das referidas condições obstativas e, assim, afastar o reconhecimento da minorante do tráfico privilegiado (AgRg no REsp n. 1.687.969/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 26/3/2018) - (AgRg no AREsp n. 1.480.074/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/7/2019).
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 2.071.188/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/12/2023, DJe de 20/12/2023 - grifos acrescidos.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. QUANTIDADE DE ENTORPECENTES. CIRCUNSTÂNCIAS DO DELITO. MOTIVAÇÃO VÁLIDA. ACRÉSCIMO PROPORCIONAL. CONDIÇÃO DE MULA. REDUTOR PREVISTO NO ART. 33, § 4.º, DA LEI N. 11.343/2006. APLICAÇÃO NA FRAÇÃO DE 1/6 (UM SEXTO). AUSÊNCIA DE ILEGALIDADE. MAJORANTE DO ART. 40, INCISO V, DA LEI N. 11.343/2006. FRAÇÃO JUSTIFICADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Hipótese em que o aumento de 2 (dois) anos e 6 (seis) meses efetivado na primeira fase da dosimetria revela-se proporcional e fundamentado, considerando-se a motivação apresentada (valoração de duas circunstâncias judiciais negativas - art. 42 da Lei n. 11.343/2006 e as circunstâncias do delito, as quais envolveram o transporte do entorpecente previamente oculto em uma carga de madeira) e a pena abstratamente cominada para o crime: cinco a quinze anos de reclusão.
+2. Nos termos da orientação firmada nesta Corte Superior de Justiça, o fato de o Acusado ostentar a condição de "mula" do tráfico justifica a aplicação da fração mínima (1/6 - um sexto) do redutor previsto no art. 33, § 4.º, da Lei de Drogas, dada a maior gravidade da conduta decorrente do exercício dessa função de transporte.
+3. A aplicação da causa de aumento do art. 40, inciso V, em sua fração de 2/3 (dois terços), no caso, encontra amparo na orientação deste Tribunal, fixada no sentido de que, " u ma vez caracterizado o tráfico entre estados da Federação ou entre estes e o Distrito Federal - circunstância que atrai a incidência da majorante prevista no inciso V do art. 40 -, a distância percorrida e/ou o número de fronteiras ultrapassadas pelo agente podem lastrear a escolha da fração de aumento de pena decorrente da interestadualidade do delito" (AgRg no HC 588.019/SP, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 06/04/2021, DJe de 14/04/2021).
+4. Agravo regimental desprovido.
+(AgRg no HC n. 782.526/RS, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024 - grifos acrescidos.)
+No caso, o acórdão afastou a aplicação da causa de diminuição de pena com a seguinte fundamentação (e-STJ fl. 23):
+"Contudo, as rés não fazem jus à aplicação da causa de diminuição de pena relativa ao tráfico privilegiado.
+O §4º do artigo 33 da Lei nº 11.343/06, que visa a punir de forma mais branda o "traficante de primeira viagem", disciplina que:"§ 4º. Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa." A intenção do legislador, ao criar o benefício do §4º do artigo 33 da Lei 11.343/06, foi de minorara pena do traficante eventual.
+Por isso, a lei expressamente excluiu a possibilidade de a regra favorecer quem exerce a traficância habitualmente, seja por se dedicar a atividades ilícitas, seja por integrar organização criminosa.
+No caso concreto, conforme as provas produzidas, as rés transportavam droga de elevado valor, consistente em 2,130kg (dois quilogramas e cento e trinta gramas) de "cocaína", de Mundo Novo/MS com destino a Soledade/RS (fato confessado pelas rés em Juízo).
+Somente isso é suficiente para revelar que as rés se dedicam a atividades criminosas, pois é notório que o transporte de droga de tão elevado valor não é confiado a quem exerce traficância eventualmente.
+Em outras palavras, as circunstâncias do caso concreto revelam a dedicação das rés à prática de atividades criminosas, porque foram abordadas quando efetuavam o transporte interestadual de droga com significativo conteúdo econômico, o que revela que desempenhavam importante papel na logística do transporte e posterior distribuição do entorpecente.
+E a dedicação das rés a atividades criminosas, repita-se, impede a concessão do benefício."
+Extrai-se, portanto, que o Tribunal de origem entendeu pelo afastamento da aplicação do § 4º, única e exclusivamente, em razão da quantidade de drogas apreendidas e de circunstâncias relacionadas ao transporte de drogas, o que é argumento inidôneo para tal. Sendo assim, aplico o redutor do §4º do art. 33 da Lei nº 11.343/06 e, a partir do reconhecimento da condição de mula, faço em seu patamar máximo de 1/6.
+Passo a redimensionar a pena.
+Tem-se que a pena-base do crime de tráfico de drogas ficou estabelecida em 06 (seis) anos de reclusão e 600 (seiscentos) dias-multa em razão da quantidade de drogas apreendidas (e-STJ fl. 35).
+Na segunda fase, reconhecida a confissão, a pena foi reduzida para 05(cinco) anos de reclusão e 500 (quinhentos) dias-multa (e-STJ fl. 35).
+Na terceira etapa, pelo acima exposto, verificadas as condições para aplicação do § 4º do art. 33 da Lei nº 11.343/06, no patamar de 1/6, torno definitivo o quantum de 4 anos, 2 meses de reclusão, além do pagamento de 417 dias-multa.
+Não observando circunstâncias dignas de nota além daquelas já consideradas na dosimetria da pena, estabeleço o regime semiaberto como inicial de cumprimento de pena, nos termos do art. 33, §2º , b, do CP.
+Ante o exposto, concedo a ordem de habeas corpus em parte para aplicar a causa de diminuição de pena do §4º do art. 33 da Lei 11.343/06 e redimensionar a pena da Paciente para 4 anos, 2 meses de reclusão em regime semiaberto, além do pagamento de 417 dias-multa.
+Por fim, tendo em vista as particularidades do caso, principalmente o tempo transcorrido desde a sentença, na qual se reconheceu a detração, determino que o cálculo atualizado da detração seja realizado pelo juízo da execução.
+Comunique-se, com urgência, o teor desta decisão ao Tribunal de origem e ao respectivo juízo de primeiro grau.
+Após, ciência ao Ministério Público Federal.
+Publique-se. Intime-se.
+ EMENTA
