@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso interposto por Matheus Oliveira Pessoa contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no HC n. 2333846-95.2023.8.26.0000, lavrado nos termos desta ementa (fl. 52):
+HABEAS CORPUS ROUBO MAJORADO: pleito visando a concessão da liberdade provisória, ou, subsidiariamente, a substituição da prisão preventiva por medidas cautelares alternativas ao cárcere, em face de presentes condições pessoais favoráveis, tratar-se de um fato isolado em decorrência do vício do paciente, ausência dos requisitos ensejadores da segregação cautelar e cabível a aplicação de medidas cautelares alternativas ao cárcere - afastamento - custódia preventiva necessária para acautelar a ordem pública - ausência de constrangimento ilegal.
+ORDEM DENEGADA.
+O recorrente repisa a argumentação feita na inicial do writ, sustentando que faltam os pressupostos necessários para a manutenção da segregação preventiva, alicerçada que está na gravidade em abstrato do crime.
+Menciona que é primário, tem bons antecedentes, residência fixa e trabalho lícito.
+Requer a imediata expedição de alvará de soltura e, ao final, a reforma do acórdão e o provimento do recurso, reconhecendo-se a ilegalidade da prisão cautelar.
+Contrarrazões às fls. 81/86.
+Indeferida a liminar, prestadas as informações de praxe, foi noticiado que, em 29/2/2024, foi proferida sentença condenando o recorrente como incurso no delito do art. 157, § 2º, inciso VII, do Código Penal, à pena de 5 (cinco) anos e 4 (quatro) meses de reclusão, em regime inicial fechado, mantida a prisão cautelar do paciente, tal qual a avaliação de fls. 173/174 (102).
+O Ministério Público Federal opinou, pelas palavras da Subprocuradora-Geral da República Elizeta Maria de Paiva Ramos, pelo não conhecimento e, no mérito, pelo desprovimento do recurso (fls. 110/118).
+É o relatório.
+Ora, como na sentença condenatória foi mantida a custódia preventiva pelos mesmos fundamentos aqui impugnados, esse novo título não acarreta a prejudicialidade do presente recurso.
+Pois bem. No caso dos autos, há referência, na origem, à gravidade concreta da conduta.
+Vejamos, no ponto, o que consta do acórdão impugnado (fl. 57 - grifo nosso): in casu, forçoso admitir que Matheus foi preso por situação que faz presumi-lo ser autor do crime de roubo majorado, cujos elementos concretos extraídos dos autos, evidenciado no modus operandi do ato criminoso, denotam periculosidade em concreto, assim como a gravidade sensível do delito e maior reprovabilidade da conduta, justificando a necessidade de custódia preventiva para acautelar a ordem pública, vislumbrando, igualmente, que outras medidas cautelares alternativas ao cárcere se mostram ineficazes ao caso em tela. Nem se olvide as diversas passagens do paciente pela prática de atos infracionais pela Vara da Infância e da Juventude (fl. 161 - grifo nosso).
+Com efeito, a custódia está corretamente motivada, isto é, conforme a jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 107.238/GO, Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/2/2019, DJe 12/3/2019) - (AgRg no HC n. 742.806/SP, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 21/10/2022 - grifo nosso).
+Nesse sentido: AgRg no RHC n. 161.712/CE, da minha relatoria, Sexta Turma, DJe 9/5/2022.
+Ademais, com razão a nobre parecerista, quando deixou consignado que a perigosidade social do recorrente está consubstanciada na gravidade em concreto dos fatos que lhe foram imputados, revelada pelo modus operandi utilizado na empreitada criminosa, consistente na perpetração do crime de roubo majorado, mediante grave ameaça exercida com o emprego de arma branca, além do agente ostentar diversas anotações por atos infracionais (fl. 113).
+Ante o exposto, à vista do parecer e dos precedentes, nego provimento ao recurso em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. CUSTÓDIA MANTIDA COM OS MESMOS FUNDAMENTOS. AUSÊNCIA DE PREJUDICIALIDADE. PRISÃO FUNDAMENTADA. MODUS OPERANDI E HISTÓRICO DE ATOS INFRACIONAIS. PARECER ACOLHIDO.
+Recurso improvido.
