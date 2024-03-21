@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de conflito negativo de competência suscitado pelo MM. Juízo de Direito da 28ª Vara Cível de Goiânia/GO e o r. Juízo da 16ª Vara do Trabalho de Goiânia/GO.
+Em síntese, na origem, a interessada Núbia Daniele Magalhães Leme ajuizou, em face de Rápido Marajó Ltda e Outros, demanda na qual alegou a existência de contratação, para a prestação de serviços de arquitetura, entre as partes litigantes. Aventou, dentre outros argumentos, que exerceu sua atividade não tendo logrado, segundo afirma, a integralidade de remuneração devida pelas rés.
+O r. juízo suscitado declinou da competência porquanto compreendeu que a demanda possui natureza cível. (fl. 941), por sua vez, o r. juízo suscitante expressa entendimento segundo o qual a origem da demanda é de cunho trabalhista, dando ensejo, portanto, ao presente conflito de competência. (fls. 3/5).
+O MPF ofertou parecer no sentido da competência do r. juízo trabalhista. (fls. 975/979)
+É o relatório.
+Decisão.
+A matéria subjacente ao presente incidente encontra-se pacificada no âmbito deste Superior Tribunal de Justiça, de modo a atrair a incidência da Súmula 568/STJ e a possibilidade do exame unipessoal da questão. (ut. CC 179.787/PE, Rel. Min. Paulo de Tarso Sanseverino, Dje de 25/05/2021; CC 169.970/SP, Rel. Min. Antonio Carlos Ferreira, Dje de 30/03/2020)
+1. Destaca-se a competência deste Superior Tribunal de Justiça para o exame do presente incidente, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. É cediço que a competência para o julgamento da demanda é fixada em razão da natureza da causa, que é definida pelo pedido e pela causa de pedir deduzidos na exordial.
+Nessa linha cognitiva, são diversos os precedentes da Casa, a saber: AgInt no AgInt nos EDcl no CC 181166/SP, Rel. Min. Ricardo Villas Bôas Cueva, DJe de 05/05/2023; CC 184525/DF, Rel. Min. Humberto Martins, Dje de 04/05/2023; AgInt no CC 190259/SP, Rel. Min. Nancy Andrighi, DJe de 14/04/2023; AgInt no AgInt no CC 176677/SP, Rel. Min. Antonio Carlos Ferreira, DJe de 27/09/2022; AgInt no AgInt no CC 181877/SC, Rel. Min. Og Fernandes, Corte Especial, DJe de 31/08/2022; CC 179662/DF, Rel. Min. Benedito Gonçalves, DJe de 29/08/2022; CC 182211/DF, Rel. Min. João Otávio de Noronha, DJe de 23/08/2022.
+Nos termos da jurisprudência supracitada, a prestação de serviços não gera os mesmos efeitos que o contrato de natureza trabalhista, de sorte que, na hipótese dos autos, a origem da demanda subjaz debate acerca da devida remuneração em favor da interessada por serviços prestados em favor das rés, de sorte que, nessa ordem de ideias, ressaí a competência para o julgamento da lide - o qual não envolve pedidos de natureza trabalhista (fls. 950/952) - da Justiça Comum Estadual.
+2. Do exposto, conheço do presente conflito e, por conseguinte, declaro a competência do r. juízo da 28ª Vara Cível de Goiânia/GO, para processar e julgar a ação ordinária proposta por Núbia Daniele Magalhães Leme em face de Rápido Marajó Ltda e Outros.
+Publique-se. Intimem-se. Oficiem-se aos r. juízos suscitados.
+EMENTA
