@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DE MINAS GERAIS e pelo INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES DO ESTADO DE MINAS GERAIS contra acórdão do TJMG que assegurou à parte recorrida o direito à repetição de indébito da contribuição de custeio à saúde que foi descontada no período compreendido entre 14/04/2010 e 05/05/2010.
+Nas suas razões, os entes públicos recorrentes, apontando violação do art. 884 do Código Cívil, sustentam a inexistência do reconhecido direito à repetição de indébito, porquanto os serviços permaneceram a disposição, e o servidor aquiesceu com a sua permanência no plano após 14/04/2010.
+Sem contrarrazões.
+O Tribunal de origem admitiu o apelo raro, determinando a subida dos autos.
+Passo a decidir.
+Na origem, cuidam os autos de ação de repetição de indébito da contribuição de custeio à saúde descontada da parte autora.
+Em sede de remessa necessária, o TJMG, por maioria de votos, reformou parcialmente a sentença para "determinar que restituição fique limitada ao período compreendido entre 14/04/2010 e 05/05/2021", com a seguinte motivação:
+Em 20 de maio de 2015, o Tribunal Pleno do Pretório Excelso apreciou os embargos de declaração manejados na ADI nº 3.1 06/MG e decidiu, à unanimidade, pela modulação dos efeitos da declaração da inconstitucionalidade do ad. 85 da Lei Complementar Estadual nº 64/2002, que instituiu a compulsoriedade da contribuição para o custeio da assistência médica, hospitalar, odontológica e farmacêutica. O acórdão restou assim ementado:
+ ..
+Assim, em observância o termo inicial do pedido de repetição firmado pelo c. STF, a apelada faz jus à devolução dos descontos indevidamente realizados no período compreendido entre 14 de abril e 5 de maio, data que marca a vigência da Instrução Normativa nº 02, quando foi dada ao servidor a possibilidade de optar pela adesão ao serviço de saúde.
+Sob esse prisma, não se questionaria a condenação dos apelantes à restituição dos valores referentes à contribuição de custeio à saúde, de forma proporcional, no período de 14 de abril de 2010 a 5 de maio de 2010, em toda em qualquer hipótese. Entretanto, após a modulação dos efeitos pelo Pretório Excelso, foi o col. Superior Tribunal de Justiça que impôs mais uma limitação para a repetição da contribuição do custeio-saúde. Peço licença para transcrever, no que importa, trecho do judicioso voto proferido pelo Mm. HERMAN BENJAMIN, no REsp nº 1348679/MG:
+ ..
+Foi, portanto, reconhecida a natureza contratual da relação firmada entre os servidores do Estado de Minas e o IPSEMG a que alude o art. 85 da LC estadual n. 62/2002 a partir de 14/4/2010, o que garantiu a restituição de indébito somente àqueles que, após essa data, não tenham aderido expressa ou tacitamente aos serviços de saúde, caracterizada essa última hipótese por ocasião da utilização espontânea dos serviços de saúde ou pelo pedido de manutenção dos serviços de saúde na inicial.
+Na peça de ingresso, distribuída em 07/11/2013, sequer foi formulado pedido de manutenção dos serviços assistenciais oferecidos. Além disso, compulsada toda a documentação acostada, inexiste qualquer tipo de prova capaz de demonstrar o uso dos serviços de saúde disponibilizados pelo IPSEMG no período compreendido entre 14/04/2010 e 05/05/2010.
+Pois bem.
+Como cediço, esta Corte Superior, ao julgar o Recurso Especial repetitivo 1.348.679/MG (Tema 588 do STJ), firmou a tese de que, "observadas as características da boa-fé, da voluntariedade e o aspecto sinalagmático dos contratos, a manifestação de vontade do servidor em aderir ao serviço ofertado pelo Estado ou o usufruto da respectiva da prestação de saúde geram, em regra, automático direito à contraprestação pecuniária, assim como à repetição de indébito das cobranças nos períodos em que não haja manifestação de vontade do servidor".
+No presente caso, o voto condutor do acórdão recorrido assentou que a petição inicial e a prova existente nos autos não permitem concluir pela existência de interesse da parte autora de permanecer voluntariamente no plano de assistência à saúde administrado pela autarquia recorrente.
+De fato, além de inexistir pedido expresso de continuar usufruindo dos serviços, a argumentação desenvolvida na exordial aponta para o descontentamento da parte autora contra a filiação obrigatória ao plano de assistência à saúde. É o que se retira das seguintes passagem:
+Cumpre ressaltar que não era concedido ao servidor o direito de optar pela filiação ou não ao plano complementar de assistência médica. A contribuição a este plano, conforme a lei que o instituiu, era obrigatória.
+ ..
+Deste modo, resta prejudicada a possibilidade da cobrança da contribuição promovida pela Administração Pública sem o prévio e expresso consentimento do servidor, que ainda faz jus à restituição dos valores pagos à sua i-evelia, desfazendo-se assim os efeitos produzidos pela norma declarada inconstitucional.
+A par disso, a revisão da premissa assentada no acórdão recorrido de que não há prova documental que revele adesão tácita mediante efetiva utilização dos serviços pressupõe reexame de prova, o que é inviável no âmbito do recurso especial, nos termos da Súmula 7 do STJ.
+Ante o exposto, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Publique-se. Intimem-se.
+EMENTA
