@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se  de  agravo  interno  interposto  por  AFONSO DE MEDEIROS VALINHOS E OUTROS contra  a  decisão  que  deu  provimento  ao  recurso  especial  da CTEEP - COMPANHIA DE TRANSMISSÃO DE ENERGIA ELÉTRICA PAULISTA  a  fim  de  reconhecer  sua  ilegitimidade  passiva  para  figurar  no  presente  feito  (e-STJ  fls.  1.798/1.800).
+Em  suas  razões  (e-STJ  fls.  1.805/1.808),  os  agravantes  alegam  que
+"a responsabilidade solidária da CTEEP foi reconhecida pelas instâncias ordinárias sob o fundamento de que as provas constantes nos autos demonstraram que ambas as rés da ação originária (Fundação CESP e CTEEP) tiveram participação nos descontos discutidos na demanda, uma processando os pagamentos e as retenções e a outra aportando os recursos necessários ao pagamento dos benefícios, com abatimento dos valores recolhidos a título de contribuição" (e-STJ fl. 1.806).
+Aduz  que, dessa forma, apesar do disposto no Tema nº 936/STJ, na hipótese específica dos autos, a alteração do decidido nas instâncias ordinárias demandaria o reexame de provas, inviável devido o óbice da Súmula nº 7/STJ.
+A  parte  contrária  apresentou  impugnação  às  fls.  1.830/1.841 (e-STJ).
+É  o  relatório.
+DECIDO.
+A  decisão agravada merece ser reconsiderada a fim  de  que seja alterado  o  fundamento  utilizado  para  dar  provimento  ao  recurso  especial  da  CTEEP - Companhia de Transmissão de Energia Elétrica Paulista.
+Consta  nos  autos  que  o s autores,  ora  agravantes,  obtiveram  na  Justiça  trabalhista  o  reconhecimento  judicial  de  horas  extras  trabalhadas  e  buscam  os  reflexos  da  complementação  de  aposentadoria  que  recebe m da  Fundação CESP.
+Assim,  pretenderam,  com  a  presente  demanda , o  reconhecimento  de  que  o  patrocinador e a Fundação CESP  são  responsáveis  pelo pagamento das diferenças de complementação de aposentadoria que deveriam ter integrado o cálculo para a fixação dos benefícios.
+A  decisão  recorrida  deu  provimento  ao  recurso  especial  da  patrocinadora  sob  o  fundamento  de  ilegitimidade  passiva  para  responder  em  ações  nas  quais  é  discutido  o  valor  do  benefício  de  complementação  de  aposentadoria,  mesmo  nas  hipóteses  em  que  pretendida  sua  majoração  com  base  em  verbas  trabalhistas  não  pagas  durante  o  contrato  de  trabalho  e  que,  por  isso,  não  foram  levadas  em  consideração  para  efeito  de  cálculo  das  contribuições.
+Quanto  ao  tema,  o  Supremo  Tribunal  Federal,  no  julgamento  do  RE  1.265.564/SC,  em  repercussão  G eral,  reconheceu  a  incompetência  da  Justiça  Comum  para  processar  os  feitos  em  que  se  pretende  a  condenação  do  patrocinador  ao  aumento  do  benefício  previdenciário  com  base  em  verbas  trabalhistas  não  pagas  durante  o  contrato  de  trabalho.
+Esta  Corte,  por  sua  vez,  embora  a  princípio  reconhecesse  a  ilegitimidade  do  patrocinador  para  figurar  no  polo  passivo  em  razão  de  sua  personalidade  jurídica  autônoma,  assegurava  o  direito  de  ressarcimento,  na  justiça  competente,  por  ato  ilícito  cometido  pelo  empregador.
+Tal  questão,  inclusive,  já  foi  esclarecida  quando  do  julgamento  dos  EDcl  no  EAREsp  1.975.132/DF,  nos  termos  da  seguinte  ementa:
+"EMBARGOS  DE  DECLARAÇÃO  NOS  EMBARGOS  DE  DIVERGÊNCIA  NO  RECURSO  ESPECIAL.  ERRO  MATERIAL.  EXISTÊNCIA.  CORREÇÃO.
+1.  A  leitura  do  inteiro  teor  do  acórdão  revela  que  a  única  questão  decidida  no  julgamento  dos  embargos  de  divergência  foi  o  reconhecimento,  de  ofício,  da  incompetência  da  Justiça  Comum  para  processar  e  julgar  a  demanda,  por  força  do  tema  1.166/STF,  e  que  não  foi  examinado  o  mérito  dos  embargos  de  divergência,  que  trata  da  legitimidade  passiva  da  instituição  financeira.
+2.  Embargos  de  declaração  acolhidos  para  corrigir  erro  material"  (EDcl  nos  EAREsp  1.975.132/DF,  Relatora  Ministra  NANCY  ANDRIGHI,  Segunda  Seção,  julgado  em  20/6/2023,  DJe  de  22/6/2023  ).
+Ante  o  exposto,  mantém-se o  provimento  do  recurso  da CTEEP - Companhia de Transmissão de Energia Elétrica Paulista para  excluí-la  da  presente  lide  em  razão  da  incompetência  da  Justiça  Comum,  devendo  sua  legitimidade  ser  aferida  perante  o  juízo  competente  no  caso  de  ser  demandada  pelo  agravante.  Mantida  a  sucumbência  fixada  à s fls.  1.798/1.800  (e-STJ).
+Publique-se.
+Intimem-se.
+EMENTA
