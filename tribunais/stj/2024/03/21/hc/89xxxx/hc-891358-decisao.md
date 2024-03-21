@@ -1,0 +1,18 @@
+DECISÃO
+VITAL MARIA BELFORT CAMPOS FILHO alega sofrer constrangimento ilegal no seu direito de locomoção em decorrência de acórdãos prolatados pelo Tribunal de Justiça do Estado de Pernambuco no Recurso em Sentido Estrito n. 000056 2-92.2022.8.17.00 00 e nos Embargos de declaração posteriormente opostos.
+A defesa postula "o decote da qualificadora objetiva do inciso IV, Art.121, parágrafo 2º do CPB" em favor do paciente - pronunciado pelo crime de homicídio qualificado -, sob o argumento de "não haver simetria desta imposição na pronúncia, com a levada a efeito em descrição fática da denúncia".
+Entretanto, em pesquisa feita no sistema eletrônico desta Corte Superior, constatou-se a anterior impetração do HC n. 824.065/PE, no qual o ora paciente se insurgiu contra os mesmos atos aqui apontados como coatores e, dentre outros pedidos, requereu o afastamento da qualificadora acima mencionada.
+Por meio de decisão monocrática, deneguei a ordem no mandamus mencionado, ocasião na qual asseverei (fls. 201-202 daqueles autos):
+II. Primeira fase do procedimento especial do Tribunal do Júri
+A Constituição Federal determinou ao Tribunal do Júri a competência para julgar os crimes dolosos contra a vida e os delitos a eles conexos, conferindo- lhe a soberania de seus vereditos.
+Entretanto, a fim de reduzir o erro judiciário (art. 5º, LXXV, CF), seja para absolver, seja para condenar, exige-se uma prévia instrução, sob o crivo do contraditório e com a garantia da ampla defesa, perante o juiz togado, com a finalidade de submeter a julgamento no Tribunal do Júri somente os casos em que se verifiquem a comprovação da materialidade e a existência de indícios suficientes de autoria, nos termos do art. 413, § 1º, do CPP, que encerra a primeira etapa do procedimento previsto no Código de Processo Penal.
+Assim, tem essa fase inicial do procedimento bifásico do Tribunal do Júri o objetivo de avaliar a suficiência ou não de razões (justa causa) para levar o acusado ao seu juízo natural. O juízo da acusação (judicium accusationis) funciona como um filtro pelo qual apenas passam as acusações fundadas, viáveis, plausíveis e idôneas a serem objeto de decisão pelo juízo da causa (judicium causae).
+Na hipótese, verifico que as instâncias ordinárias apresentaram lastro probatório judicializado que autoriza a submissão do paciente ao julgamento pelo Tribunal Popular pelo homicídio qualificado.
+Nesse contexto, juízo de primeiro grau consignou "haver indícios de que a vítima foi surpreendida pela ação delitiva, sem possibilidade de reação eficaz de defesa" (fl. 26), e a Corte estadual asseriu que há "indícios de que a vítima foi pega de surpresa e de modo inesperado, uma vez que não tinha razões para esperar a agressão".
+Não cabe às instâncias ordinárias, tampouco a esta Corte Superior, valorar as provas dos autos e decidir pela tese prevalente, sob pena de violação da competência constitucional conferida ao Conselho de Sentença. É adequado, tão somente, averiguar se a pronúncia encontra respaldo no caderno probatório, o que ficou demonstrado no caso em exame.
+Com efeito, incumbe aos jurados, no exercício da sua soberana função constitucional, cotejar as provas produzidas e decidir acerca da existência de autoria e materialidade delitivas, nos termos do art. 5º, XXXVIII, "d", da CF.
+A decisão monocrática foi confirmada pela Sexta Turma e o acórdão proferido em embargos de declaração opostos contra acórdão que negou provimento ao agravo regimental transitou em julgado em 5/2/2024.
+Constatado, portanto, que este writ é mera reiteração de pedido já examinado por esta Corte Superior, dele não se pode conhecer.
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
