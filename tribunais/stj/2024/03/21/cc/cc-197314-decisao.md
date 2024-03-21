@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de conflito de competência suscitado proposto pela CMDR INCORPORAÇÕES IMOBILIÁRIAS S.A., em recuperação judicial, (CMDR), apontando como suscitados o JUÍZO DA 5ª VARA EMPRESARIAL DA COMARCA DA CAPITAL DO ESTADO DO RIO DE JANEIRO/RJ, Recuperação Judicial nº 0070460-77.2018.8.19.0001 (JUIZO DA RECUPERAÇÃO), e o da JUÍZO DA 9ª VARA CÍVEL DO FORO REGIONAL I - SANTANA, DA COMARCA DE SÃO PAULO/SP, Cumprimento de Sentença nº 0001238-56.2020.8.26.0001 (JUÍZO CÍVEL).
+Informou que com o deferimento do seu pedido de recuperação judicial, as ações e execuções contra ele ajuizadas foram suspensas, atraindo todas as questões referentes ao pagamento dos seus débitos ao juízo universal.
+Porém, o JUÍZO CÍVEL, reconheceu a possibilidade de compensação de crédito em favor da CDMR, decorrente do Processo nº 1024590-02.2015, com o valor devido para PRISCILA RODRIGUES PORTO (PRISCILA), apurado na Ação nº 1049074-46.2013.8.26.0100, em trâmite no Juízo da 36ª Vara Cível do Foro Central da Comarca de São Paulo/SP.
+O pedido de concessão da medida liminar foi deferido (e-STJ, fls. 329/240).
+As informações foram prestadas às e-STJ, fls. 253/260.
+O Ministério Público Federal, em manifestação do Subprocurador-Geral da República, ANTONIO CARLOS MARTINS SOARES, deixou de apresentar parecer diante da natureza da lide, da qualidade das partes e da ausência de interesse público (e-STJ, fls. 278/282).
+É o relatório.
+DECIDO.
+A recuperação judicial visa criar condições de negociação para a superação da crise econômica da empresa, a fim de permitir a manutenção da fonte produtora, do emprego dos trabalhadores e dos interesses dos credores, promovendo, assim, a preservação da empresa, sua função social e o estímulo à atividade econômica (art. 47 da Lei nº 11.101/2005).
+De acordo com o art. 6º, I e II, da Lei nº 11.101/05, a decretação da falência ou o deferimento da recuperação judicial (1) suspende o curso de todas as ações e execuções ajuizadas contra o devedor; e (2) proíbe qualquer forma de retenção, arresto, penhora, sequestro, busca e apreensão e constrição judicial ou extrajudicial sobre os bens do devedor, oriunda de demandas judiciais ou extrajudiciais cujos créditos ou obrigações sujeitem-se à recuperação judicial ou à falência.
+Esta norma consagra o princípio da universalidade do juízo da falência e da recuperação judicial, pelo qual todas as ações de interesse da massa falida ou da empresa em recuperação judicial são atraídas pelo juízo universal.
+A concentração de ações no juízo universal ocorre para preservar o plano de recuperação ou o procedimento de falência da empresa, cabendo àquele juízo distribuir os créditos de modo a respeitar as classes de credores e possibilitar a continuidade da atividade empresarial ou a preservação e otimização do uso produtivo do patrimônio da empresa falida, conforme previsto nos arts. 47 e 75 da Lei nº 11.101/051.
+Os incisos II e III 2 do artigo 6º, o art. 49, art. 2º 3 e o artigo 168 da Lei 11.101/05, prevêem a proibição da compensação de valores pelo fato de configurar vantagem indevida ao credor concursal, com o objetivo de que seja dado tratamento paritário a todos os credores.
+A compensação de um crédito concursal afetará o cumprimento do plano de soerguimento pela empresa recuperanda, com a indevida configuração de vantagem desse credor em face dos demais, invadindo a seara de competência do juízo universal da recuperação judicial.
+Nessas condições, CONHEÇO do conflito e declaro competente o JUÍZO DA 5ª VARA EMPRESARIAL DA COMARCA DA CAPITAL DO ESTADO DO RIO DE JANEIRO/RJ para decidir sobre as questões concernentes ao patrimônio da recuperanda.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. PRINCÍPIO DA PRESERVAÇÃO DA EMPRESA. CONFLITO CONHECIDO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
