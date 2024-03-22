@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por SERGIO HENRIQUE VILLELA FIALHO contra julgado do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Habeas Corpus Criminal nº 0105942-16.2023.8.19.0000).
+Consta dos autos que o recorrente teve indeferido o pleito de autorização para trabalho extramuros e visita ao lar, nestes termos (fl. 29):
+"A concessão do benefício no atual momento, portanto, em consonância com a jurisprudência colacionada, mostrar-se-ia prematura e não contribuiria para a mencionada reinserção social mansa, pacífica e segura, já que o apenado condenado por crimes praticados com violência e extrema brutalidade, teve a progressão ao semiaberto há 01 mês, sendo certo que ainda permanecerá nesse regime por mais 03 anos e possui término depena previsto apenas para 2031, sendo necessário observar, nesse espectro, maior cautela e observação acercado senso de autodisciplina e responsabilidade do apenado para aferir a compatibilidade do benefício com os objetivos da pena.
+Pelo exposto, INDEFIRO, por ora, o pleito de concessão do benefício de saída temporária, na modalidade visita periódica ao lar - VPL por ausência de requisito subjetivo (art. 123, III da LEP).
+(..)
+Em concreto, verifica-se que o apenado restou condenado a pena total de 12 anos, pelo crime de tortura crime de feminicídio, efetuado com extrema brutalidade, restando ainda o quantum de 7 anos e 1 mês para término de cumprimento da pena. Nesse sentido, com maior razão deve-se entender, pelo menos por ora, que não cumpre requisito subjetivo previsto no Artigo 1º c/c 37 da LEP.
+(..)
+Pelo exposto, INDEFIRO, por ora, o pleito de trabalho externo."
+No presente recurso, a defesa aduz que o recorrente sofre constrangimento ilegal, uma vez que a devida análise do seu pleito, para visitação familiar e trabalho extramuros, seria de seu direito, sendo essencial para o seu processo de ressocialização.
+Requer, inclusive liminarmente, "reformar a decisão recorrida, para os fins de conceder a ordem assegurando ao Recorrente o direito à saída temporária para visitação familiar bem como de trabalho extramuros, para o qual conta com carta de emprego, a ser deferida em sede liminar, diante da presença dos requisitos do periculum in mora (Recorrente em vias de ser beneficiado com o regime aberto sem ter usufruído do direito à visitação familiar) bem como do fumus boni juris (adequação à norma), confirmando-a no mérito" (fl. 76).
+É o relatório. DECIDO.
+Não conheço do recurso, pela supressão de instância da matéria.
+In casu, da leitura do ato apontado como coator, constata-se, ao fim, que questão fundamental apresentada a esta Corte Superior não foi analisada pelo Tribunal de origem.
+Ora, tem-se que a questão de direito deveria ter sido apreciada, mas não foi, pois, mesmo provocado, o Tribunal sequer se manifestou acerca do mérito ventilado na impetração, ficando impedida esta Corte Superior de proceder à sua análise - sob pena de incorrer em supressão de instância (HC 393.684/MG, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 16/8/2017; AgRg no HC 382.949/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 24/5/2017; AgRg no HC n. 764.710/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 21/12/2022; e AgRg no HC n. 830.929/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/8/2023).
+Verifica-se, portanto, que a ausência de manifestação do Tribunal a quo configurou indevida negativa de prestação jurisdicional.
+Com efeito, é consabido que a via estreita do writ e do seu recurso ordinário não se presta para análise de temas que comportem recurso próprio, mas é fundamental que a ilegalidade, prima facie, seja afastada em decisão fundamentada.
+Isso, diante da possibilidade de se evidenciar flagrante ilegalidade no caso concreto, de modo que o Tribunal de origem deve não somente analisar a questão, bem como, eventualmente, cassar a(s) decisão(ões), se em desacordo com o ordenamento jurídico pátrio.
+Tratando-se de questão relevante, devidamente suscitada na origem e que não demanda, em tese, o revolvimento fático-probatório, devem os autos retornar para o Tribunal, a fim de que se manifeste (AgRg no RHC n. 170.642/RJ, Sexta Turma, Rel. Min. Antônio Saldanha Palheiro, DJe de 15/12/2022).
+Ante o exposto, não conheço do recurso. Concedo, de ofício, a ordem de habeas de corpus para anular o julgamento constante do HC nº 0105942-16.2023.8.19.0000, determinando sejam apreciadas pelo Tribunal a quo, no prazo de 30 (trinta) dias, como entender de direito, as questões ali deduzidas, com recomendação de celeridade.
+Intime-se, com urgência, a origem para cumprimento.
+Publique-se. Intime-se.
+EMENTA
