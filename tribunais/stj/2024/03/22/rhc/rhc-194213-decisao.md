@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por JACKSON MACIEL DA SILVA LUNA contra acórdão do Tribunal de Justiça do Estado do Ceará (HC 0638133-20.2023.8.06.0000).
+Extrai-se dos autos que o acusado foi preso, preventivamente, em 25/5/2020, em decorrência da suposta prática do crime previsto no art. 121, § 2º, I e IV, por duas vezes, na forma do art. 69, ambos do Código Penal, por fatos ocorridos em 23/5/2020. Sobreveio a prolação de decisão de pronúncia em desfavor do réu.
+A defesa impetrou prévio writ, perante o Tribunal de origem, que denegou a ordem, com recomendação ao Juízo processante que envidasse esforços para a realização da sessão do Tribunal do Júri (e-STJ, fls. 987-996).
+Nesta Corte, relata a defesa que houve a necessidade de julgar conflito de competência entre a Vara Única da Comarca de Saboeiro - CE e a Vara de Delitos de Organizações Criminosas da Comarca de Fortaleza - CE, suscitado por esta última (e-STJ ,fl. 124). Após, foi realizada a primeira audiência de instrução e julgamento em 30/8/2021, seguida de outra, ocorrida em 13/9/2021. Apresentadas as alegações finais pelas partes e não cumpridas diversas cartas precatórias para a ouvida de testemunhas da acusação, sobreveio a decisão de pronúncia, negado o direito ao recurso em liberdade (e-STJ, fls. 124-126).
+Anota que " s obreveio nova decisão nos autos (fls. 702/706), determinando nova remessa do processo ao Tribunal de Justiça do Estado do Ceará para processamento e julgamento do pedido de desaforamento, com a determinação da suspensão da sessão de julgamento outrora designada para 25/07/2022, decisão exarada em 06/07/2022" (e-STJ, fl. 127).
+Destaca que "a sessão do Tribunal do Júri designada para o dia 11 de março de 2023", mas "não se sabe se a sessão de julgamento vai ser realizada, uma vez que foi requerido o desmembramento do julgamento" (e-STJ, fl. 127).
+Requer, inclusive liminarmente, a suspensão da sessão de julgamento pelo Tribunal Popular do Júri da 3ª Vara do Júri da Comarca de Fortaleza previsto para o dia 11/3/2024, às 9 h, "em relação única e exclusivamente ao réu JACKSON MACIEL DA SILVA LUNA, devendo nossa sessão ser designada a posterior do julgamento do presente recurso" (e-STJ, fl. 132). Subsidiariamente, requer a aplicação de medida cautelar diversa da prisão.
+O pedido de liminar foi indeferido à fl. 140 (e-STJ).
+Prestadas as informações (e-STJ, fls. 145-150), o Ministério Público Federal manifesta-se pelo desprovimento do recurso ordinário (e-STJ, fls. 153-157).
+É o relatório.
+Decido.
+É manifesta a perda superveniente do objeto do presente pedido deste habeas corpus, pois, conforme informações prestadas pelo Juízo da 3ª Vara do Júri da Comarca de Fortaleza - CE, "foi realizada a Sessão de Julgamento do Tribunal do Júri do paciente e dos corréus no dia 11/03/2024, ocasião em que o paciente foi absolvido pelo Conselho de Sentença por ter sido reconhecida a tese de negativa de autoria, conforme sentença às fls. 1068/1069. Conforme informação do oficio às fls. 1109, o paciente foi posto em liberdade no dia 13/03/2024" (e-STJ, fls. 163-165).
+Ante o exposto, julgo prejudicado o pedido deste habeas corpus, nos termos do art. 34, XI, do RISTJ.
+Publique-se. Intimem-se.
+ EMENTA
