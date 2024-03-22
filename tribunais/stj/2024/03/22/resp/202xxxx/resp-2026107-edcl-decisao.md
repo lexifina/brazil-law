@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JOSÉ EMÍLIO NUNES PINTO contra decisão por mim proferida às e-STJ fl. 1.453/1.460, em que dei parcial provimento ao recurso especial da FAZENDA NACIONAL para restabelecer a decisão que rejeitou a exceção de pré-executividade.
+Sustenta, em resumo, que a decisão embargada padece de contradição e obscuridade, uma vez que parte da premissa equivocada de que o ora embargante seria sócio do polo passivo da execução fiscal.
+Defende que nunca foi sócio, diretor ou gerente da empresa executada e argumenta que "o presente caso não trata de "sócio" incluído na execução fiscal, mas sim de mero advogado "mandatário" de sócias estrangeiras da empresa executada, que, no exercício de sua profissão, assinou alterações do contrato social, aprovadas diretamente pelas r. sócias estrangeiras." (e-STJ fl. 1.466)
+Diz, ainda, contraditório e obscuro quanto ao meio de produção de provas e afirma que essa comprovação deveria ser feita pela Fazenda, em sede de Execução Fiscal, por ocasião da apresentação do pedido de redirecionamento da ação.
+Reforça que "a r. decisão embargada se mostra contraditória e obscura, pois considera que o ente fazendário deveria fazer prova de suas alegações em sede de Embargos à Execução Fiscal, que é o meio legítimo de defesa do contribuinte executado" (e-STJ fl. 1.469)
+Requer o reconhecimento de sua ilegitimidade passiva, visto que a Fazenda Nacional não cumpriu com seu dever probatório nos momentos processuais oportunos.
+Sem apresentação de resposta.
+Passo a decidir.
+Nos termos do art. 1022 do CPC, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material na decisão.
+No caso, assiste razão ao embargante quanto à alegação de erro material no seguinte tópico: "opostos embargos declaratórios pelo particular, esses foram acolhidos para excluir o sócio do polo passivo da execução fiscal, sob os seguintes fundamentos (e-STJ fls. 1.290/1.301)".
+Assim, retifica-se a proposição supracitada para que conste a seguinte redação: "opostos embargos declaratórios pelo particular, esses foram acolhidos, sob os seguintes fundamentos (e-STJ fls. 1.290/1.301)"
+No mais, mantém-se inalterada a decisão embargada.
+Cumpre registrar que o recurso especial da Fazenda Nacional foi provido para restabelecer a decisão que rejeitou a exceção de pré-executividade, uma vez que esse meio processual é cabível apenas para discutir de temas em que não se faz necessária a dilação probatória ou de questões que possam ser conhecidas de ofício pelo magistrado, como as condições da ação, os pressupostos processuais, a decadência, a prescrição, entre outras.
+Destacou-se a aplicação da Súmula 393 do STJ, segundo a qual "a exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória".
+Consignou-se que, se o ônus de provar as hipóteses do art. 135 do CTN é do ente fazendário, como explicita a Corte regional, deve ser dada a ela a oportunidade de produzir as provas que entender adequadas para se desincumbir do encargo probatório que lhe cabe, o que deve ser arguido em embargos à execução fiscal, sendo inapropriada a via da exceção de pré-executividade, nos termos da jurisprudência consolidada desta Corte superior.
+Vale acrescentar, por oportuno, que os próprios argumentos trazidos pelo embargante, em suas razões, evidenciam a necessidade de dilação probatória, ao defender que "o presente caso não trata de "sócio" incluído na execução fiscal, mas sim de mero advogado "mandatário" de sócias estrangeiras da empresa executada, que, no exercício de sua profissão, assinou alterações do contrato social, aprovadas diretamente pelas r. sócias estrangeiras" (e-STJ fl. 1.466), argumento que ampara sua pretensão de exclusão do polo passivo da execução fiscal.
+Ante o exposto, ACOLHO PARCIALMENTE os embargos declaratórios apenas para corrigir o erro material apontado, mantendo, na íntegra, os demais termos da decisão embargada .
+Publique-se. Intimem-se.
+EMENTA
