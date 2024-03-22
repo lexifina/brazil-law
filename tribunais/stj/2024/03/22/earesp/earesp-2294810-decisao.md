@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de embargos de divergência apresentados por GISLENE APARECIDA DE ALMEIDA SANTOS e CIBELE CARVALHO BRAGA contra acórdão proferido pela Segunda Turma do Superior Tribunal de Justiça assim ementado (fls. 348-349):
+PROCESSUAL CIVIL. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE INADMITIU RECURSO ESPECIAL. FUNDAMENTO INATACADO. SÚMULA 182/STJ.
+1. A decisão monocrática da presidência do STJ assentou: "Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta a dispositivo legal, Súmula 7/STJ e ausência de indicação dos acórdãos paradigmas para ilustrar a divergência - Súmula 284/STF. Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 7/STJ e ausência de indicação dos acórdãos paradigmas para ilustrar a divergência - Súmula 284/STF." (fl. 311, e-STJ).
+2. Do exame das razões vertidas no presente Recurso, percebe-se que a parte agravante deixou de impugnar especificamente a decisão agravada, já que não aponta como o Agravo em Recurso Especial teria combatido todos os fundamentos da decisão negativa de admissibilidade do Recurso Especial proferida pelo Tribunal a quo.
+3. A iterativa jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se conhece de Agravo contra decisão monocrática que não ataca especificamente os fundamentos da decisão recorrida, de forma a demonstrar que o entendimento esposado merece modificação.
+4. Dessa forma, a ausência de impugnação especificada faz incidir na espécie a Súmula 182/STJ, que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+5. Agravo Interno não conhecido.
+As partes embargantes alegam que haveria divergência de entendimento entre o acórdão embargado e outro que teria sido proferido nos autos do REsp n. 1.424.404/SP.
+Defendem, ao final, o provimento dos embargos "para anular o V. aresto divergente então embragado, aplicando as soluções jurídicas adotadas nos julgados paradigmas", requerendo, ainda, a "declaração de inconstitucionalidade das Sumulas 182 e 315 desta Corte" (fl. 370).
+É o relatório.
+Analisando os autos, observo que não foi cumprida a determinação legal do § 4º do art. 1.043 do Código de Processo Civil, reverberada pelo § 4º do art. 266 do RISTJ, segundo a qual:
+Art. 1.043  .. .
+§ 4º O recorrente provará a divergência com certidão, cópia ou citação de repositório oficial ou credenciado de jurisprudência, inclusive em mídia eletrônica, onde foi publicado o acórdão divergente, ou com a reprodução de julgado disponível na rede mundial de computadores, indicando a respectiva fonte.
+Não foi juntada aos autos, assim, a "certidão de julgamento" do paradigma indicado, certidão que não se confunde com a "certidão de trânsito e termo de baixa" juntada à fl. 372.
+Nesse contexto, não acostada a íntegra do acórdão paradigma, a parte recorrente não se desincumbiu do ônus processual de fazer prova da divergência alegada, configurando-se vício substancial e insanável, impeditivo do conhecimento do pedido.
+Esse é o sentido da pacífica jurisprudência do Superior Tribunal de Justiça a seguir representada (destaques acrescidos):
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO PARADIGMA. INTEIRO TEOR. AUSÊNCIA. MERA INDICAÇÃO DO DIÁRIO DA JUSTIÇA EM QUE PUBLICADO. INSUFICIÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. A comprovação da divergência deve observar os termos do § 4º do art. 1.043 do CPC de 2015 e do § 4º do art. 266 do RISTJ.
+2. A mera indicação do Diário da Justiça em que publicado o acórdão paradigma não atende à exigência de citação do repositório oficial ou autorizado de jurisprudência, uma vez que consiste apenas em órgão de divulgação no qual somente é publicada a ementa do acórdão e não seu inteiro teor.
+3. A juntada tão somente da ementa, relatório e voto do acórdão paradigma, sem a respectiva certidão de julgamento, configura vício substancial e afasta a aplicação do parágrafo único do art. 932 do CPC de 2015.
+4. Agravo interno desprovido.
+(AgInt nos EAREsp n. 1.935.286/RJ, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 11/10/2022, DJe de 21/10/2022.)
+Vale registrar, a propósito, que é igualmente pacífico o entendimento de que a juntada deve ser feita no momento da interposição do recurso, afigurando-se inviável a abertura de prazo ou nova oportunidade para a supressão da falha. Nesse sentido (destaques acrescidos):
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. INDEFERIMENTO LIMINAR. AUSÊNCIA DE JUNTADA DOS ACÓRDÃOS PARADIGMAS. COMPROVAÇÃO DO DISSÍDIO EM MOMENTO POSTERIOR. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Na esteira da jurisprudência deste Superior Tribunal de Justiça, configura pressuposto indispensável para a comprovação ou configuração da divergência jurisprudencial a adoção pela parte recorrente, na petição dos embargos de divergência, de uma das seguintes providências, quanto aos paradigmas indicados: (a) a juntada de certidões; (b) apresentação de cópias do inteiro teor dos acórdãos apontados; (c) a citação do repositório oficial, autorizado ou credenciado nos quais eles se achem publicados, inclusive em mídia eletrônica; e (d) a reprodução de julgado disponível na rede mundial de computadores, com a indicação da respectiva fonte na Internet.
+2. Na hipótese em exame, a parte agravante deixou de instruir os embargos de divergência com o inteiro teor dos acórdãos indicados como paradigmas, pretendendo demonstrar o dissídio em momento posterior à interposição do referido recurso.
+3. Ocorre que, consoante entendimento firmado nesta Corte, não há como se admitir a comprovação posterior da divergência, uma vez que a análise dos pressupostos processuais deve ser realizada no momento da interposição do recurso.
+4. Nesse contexto, a ausência de demonstração do dissídio alegado no recurso uniformizador - nos moldes exigidos pelo artigo 1.043, § 4º, do CPC e pelo artigo 266, § 4º, do RISTJ - constitui vício substancial, resultante da inobservância do rigor técnico exigido na interposição dos embargos de divergência, apresentando-se, pois, descabida a incidência do parágrafo único do artigo 932 do CPC, para complementação de fundamentação.
+5. Agravo interno desprovido.
+(AgInt nos EDcl nos EAREsp n. 1.299.296/PR, relator Ministro Jorge Mussi, Corte Especial, julgado em 26/10/2021, DJe de 28/10/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. COMPROVAÇÃO DA DIVERGÊNCIA. ACÓRDÃO PARADIGMA. INTEIRO TEOR. AUSÊNCIA. MERA INDICAÇÃO DO DIÁRIO DA JUSTIÇA EM QUE PUBLICADO. INSUFICIÊNCIA. JUNTADA POSTERIOR. NÃO CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. A comprovação da divergência deve observar os termos do § 4º do art. 1.043 do CPC de 2015 e do § 4º do art. 266 do RISTJ.
+2. A mera indicação do Diário da Justiça em que publicados os acórdãos paradigma não é suficiente para comprovação da divergência, pois não se constitui em repositório oficial de jurisprudência previsto no § 3º do art. 255 do RISTJ nem contempla o inteiro teor do acórdão.
+3. A comprovação da divergência deve ser feita no ato de interposição do recurso, não sendo facultada a juntada do inteiro teor do acórdão paradigma com o agravo interno.
+4. Agravo interno desprovido.
+(AgInt nos EAREsp n. 1.809.343/PR, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 27/9/2022, DJe de 6/10/2022.)
+Ante o exposto, com fundamento no art. 932, III, do Código de Processo Civil, nos termos do disposto no art. 266-C do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente os embargos de divergência.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como os efeitos de eventual concessão da gratuidade da justiça.
+Em atenção ao princípio da cooperação (art. 6º do CPC), anoto que a interposição de agravo que venha a ser declarado manifestamente inadmissível ou improcedente poderá ensejar a aplicação de multa, nos termos do § 4º do art. 1.021 do CPC.
+Publique-se. Intimem-se.
+ EMENTA
