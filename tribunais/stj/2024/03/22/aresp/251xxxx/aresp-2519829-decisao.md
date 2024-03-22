@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto por ADEZAN INDÚSTRIA DE EMBALAGENS E SERVIÇOS LTDA. contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Agravo de instrumento Cumprimento provisório de sentença Decisão que indeferiu o pedido de levantamento dos depósitos feitos pela executada, no valor de R$ 1.011.708,01 Necessidade de caução suficiente e idônea, em conformidade como art. 520, inciso IV, do CPC Apólice de seguro apresentada pela exequente limitando a cobertura ao trânsito em julgado e prevendo prazo determinado de vigência, que se encerrará em pouco mais de um ano Ausência de suficiente grau de idoneidade, sobretudo em razão das condições pactuadas e do elevado valor que se busca levantar Decisão mantida. Recurso improvido" (fl. 117).
+Os embargos de declaração opostos foram rejeitados (fl. 131).
+No recurso especial, a recorrente alega violação dos seguintes dispositivos legais com as respectivas teses:
+(i) arts. 489, §1º, IV e VI, e 1.022, II, do CPC por defender que houve omissão quanto: (i) a previsão do art. 3º, inciso VI, alínea "a" da Portaria nº 164/2014 da Procuradoria Geral da Fazenda Nacional; e (ii) os precedentes sobre a vigência da carta fiança não representar qualquer óbice para a sua idoneidade; e
+(ii) art. 520, inciso IV, do CPC por sustentar que o prazo de validade não prejudica a idoneidade da garantia apresentada.
+Após as contrarrazões (fls. 163/169), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+A irresignação não merece a prosperar.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de Justiça manifestou-se expressamente quanto à ato normativo, conforme se verifica do seguinte trecho do acórdão:
+"Com efeito, o v. acórdão enfrentou expressamente a questão do prazo de vigência da apólice, acrescentando, ainda, que o pagamento do seguro está limitado à ocorrência do trânsito em julgado da decisão, questões essas que, somadas, resultam na ausência de suficiente graude idoneidade da caução ofertada, independentemente do que prevê o ato normativo da PGFN mencionado pela embargante, o qual, aliás, diz respeito às execuções fiscais.
+Ademais, desnecessário afastar, uma a uma, as jurisprudências trazidas pela embargante, que teriam decidido em sentido aparentemente contrário; isso porque, respeitados os entendimentos ali adotados, as r. decisões proferidas servem para nortear a convicção do julgador, eis que não possuem efeito vinculante. Consigne-se que no v. acórdão também foram mencionados julgados proferidos por este E. Tribunal em sentido convergente com o aqui decidido (fls. 120/121)" (fl. 133).
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento" (AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido" (AgInt nos EDcl no AREsp 2.135.800/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se).
+No que se refere à idoneidade da garantia, o Tribunal de origem decidiu que:
+"E, muito embora a agravante tenha firmado apólice de seguro para garantia do montante que almeja levantar (fls. 116/126 dos autos de origem), sobressai o fato de que a sua vigência está limitada à data de 05/07/2024.
+Dessa forma, resta pouco mais de um ano de cobertura securitária e, apesar da possibilidade de sua renovação, reforço ou substituição, chance também há de que sobrevenha um cenário de desamparo, acaso o seguro perca vigência e a quantia já tenha sido levanda, sobretudo em razão do significativo montante a ser garantido, o que enseja redobrada prudência no cumprimento provisório em apreço.
+Ademais, a avença limita o pagamento do seguro à ocorrência do trânsito em julgado de decisão (fl. 120, item 1.2, e fl. 122, item1.2).
+Com efeito, mesmo que aparentemente suficiente, tenho que, na hipótese específica dos autos, a caução ofertada não se afigura acobertada por satisfatório grau de idoneidade" (fls. 119/120).
+Assim, rever a conclusão do tribunal local acerca da idoneidade da garantia demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, consoante disposto na Súmula nº 7/STJ.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. EXPURGOS INFLACIONÁRIOS. CADERNETA DE POUPANÇA. LEVANTAMENTO. CAUÇÃO. IDONEIDADE. REEXAME. SÚMULA N. 7 DO STJ. SUSPENSÃO. INAPLICABILIDADE. NÃO PROVIMENTO.
+1. A conclusão do Tribunal de origem quanto à idoneidade da caução prestada é imune ao crivo do recurso especial, haja vista as disposições do verbete n. 7 da Súmula desta Casa.
+2. "O julgamento de matérias de cunho processual, ainda que a discussão de mérito no processo seja o pagamento das diferenças de correção monetária em depósitos de caderneta de poupança, decorrentes de expurgos inflacionários, não vai de encontro às determinações de suspensão dos processos, pelo Supremo Tribunal Federal, feitas nos Recursos Extraordinários 626.307 e 591.797. Precedentes. Súmula n. 83/STJ" (AgRg no AREsp 463.596/RO, Relator Ministro Sidnei Beneti, Terceira Turma, julgado em 19/8/2014, DJe 1º/9/2014).
+3. Agravo interno a que se nega provimento" (AgRg no AREsp 412.104/SP, Rel. Min. Maria Isabel Gallotti, Quarta Turma, julgado em 07/06/2016, DJe 15/06/2016, grifou-se).
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
