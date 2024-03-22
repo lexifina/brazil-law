@@ -1,0 +1,126 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5005132-58.2023.8.08.0030
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: ANA MARIA CORREA BRANDAO
+RECORRIDO: SERVICO AUTONOMO DE AGUA E ESGOTO DE LINHARES
+RELATOR(A):
+RAFAEL FRACALOSSI MENEZES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 3ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+ESTADO DO ESPÍRITO SANTO
+
+PODER JUDICIÁRIO
+
+COLÉGIO RECURSAL DOS JUIZADOS ESPECIAIS
+
+TERCEIRA TURMA RECURSAL
+
+PJE - EMBARGOS DE DECLARAÇÃO Nº 5005132-58.2023.8.08.0030
+
+EMBARGANTE:
+ANA MARIA CORREA BRANDAO
+
+EMBARGADO:
+SERVICO AUTONOMO DE AGUA E ESGOTO DE LINHARES
+
+EMENTA: EMBARGOS DE DECLARAÇÃO PROVIDO PARA DEFERIR A GRATUIDADE DA JUSTIÇA. RECURSO INOMINADO CONHECIDO. AUSÊNCIA DE CERCEIO DE DEFESA. DIREITO DO CONSUMIDOR. FALHA NA PRESTAÇÃO DE SERVIÇO. RESPONSABILIDADE PELO ARTIGO 22, CDC. PRINCÍPIO DA CONTINUIDADE DO SERVIÇO. ÁGUA COMO ELEMENTO ESSENCIAL. ÔNUS DA PROVA DA FORNECEDORA NÃO CUMPRIDO. LONGO PERÍODO. SENTENÇA MODIFICADA. RECURSO PROVIDO. DANOS MORAIS ESTABELECIDOS EM R$ 1.000,00.
+
+V O T O
+
+Tratam-se de Embargos de Declaração em face da Decisão proferida no ID 6411419 em que a gratuidade foi negada à recorrente, posto que não preencheu os requisitos legais da gratuidade pleiteada.
+
+A autora no ID 6506971, opôs embargos de declaração alegando omissão na referida Decisão, tendo em vista o comprovante de isenção de imposto de renda no ID 6167713.
+
+Preliminarmente, o juízo de admissibilidade é positivo, pois os presentes embargos declaratórios preenchem seus requisitos de admissibilidade intrínsecos e extrínsecos, assim, conheço do presente recurso.
+
+Os embargos de declaração, admissíveis em face da sentença, do acórdão ou mesmo de decisão interlocutória, excepcionalmente proferida no Sistema dos Juizados Especiais, seguem basicamente o critério adotado pelo CPC (art. 1.022 e seguintes), sendo cabíveis quando,
+“na sentença ou acórdão, houver obscuridade, contradição, omissão ou dúvida”
+, nos termos do art. 48, da Lei 9.099/95.
+
+Em análise detida dos autos, compreendo que assiste razão ao embargante. Assim, dou provimento aos embargos para reconhecer o direito de gratuidade à autora, que defiro neste momento.
+
+Respaldado pelo princípio da primazia do mérito, superado o pressuposto de admissibilidade, preparo recursal, conheço do recurso inominado, apenas no seu efeito devolutivo na forma do art. 42 e 43 da Lei 9099/95.
+
+Em síntese, aduz a parte autora que teve o fornecimento de água interrompido em sua residência no período de 29/11/2022 à 06/12/2022 (08 dias), alegando que sofreu diversos constrangimentos e requerendo a condenação por danos morais.
+
+O juízo
+a quo
+julgou improcedente considerando que a interrupção do fornecimento de água se deu em decorrência das fortes chuvas que incidiram sobre o município de Linhares.
+
+Nas razões recursais, a parte autora sustentou cerceamento de defesa e no mérito requereu a reforma da r. sentença, sustentando que a interrupção do fornecimento de água se deu em decorrência de falha na prestação de serviço da requerida.
+
+Preliminarmente, entendo que a tese de cerceamento de defesa alegada no presente Recurso Inominado não merece prosperar. Isso porque foram devidamente analisadas as provas trazidas aos autos, as quais corroboraram com as alegações feitas pelo Recorrido.
+
+Além disso, o conjunto probatório colacionado aos autos é suficiente para a formação do convencimento do juízo, sendo, portanto, desnecessária a produção de outras provas, o que está em consonância com a Magna Carta (art. 5º, LXXVIII da CRFB/88), respeitados, inclusive, os princípios essenciais dos Juizados Especiais, preconizados no artigo 2º, da Lei 9099/95.
+
+Ademais, o julgador detém as prerrogativas para julgar necessário quais provas são necessárias para o deslinde da lide, podendo indeferir as que julgar inútil, conforme disposição do artigo 370 do CPC, podendo julgar o mérito antecipadamente, nos termos do artigo 355, I, do mesmo diploma normativo.
+
+Assim, rejeito a preliminar arguida.
+
+Analisando detidamente os argumentos aduzidos em sede recursal em conjunto com o acervo fático-probatório dos autos, entendo que as razões recursais merecem prosperar.
+
+No tocante a preliminar de cerceamento de defesa, indefiro, tendo em vista que o juiz é destinatário da prova e cabe ao mesmo decidir sobre quais provas são necessárias para a fundamentação de seu livre convencimento.
+
+Nos termos do artigo 371 do Código de Processo Civil:
+
+Art. 371. O juiz apreciará a prova constante dos autos, independentemente do sujeito que a tiver promovido, e indicará na decisão as razões da formação de seu convencimento.
+
+Desta forma, verifico que o conjunto probatório constante nos autos, que as provas documentais são suficientes para a apreciação da lide.
+
+No mérito, considerando que a relação jurídica de direito material vertida nos autos é nitidamente de consumo, o fornecedor é responsável pela má prestação de serviço, independentemente da existência de culpa.
+
+Em igual sentido, caberá à empresa fornecedora, conforme disposto no art. 6º, inciso VIII, do Código de Defesa do Consumidor, a comprovação de que o serviço foi devidamente prestado à consumidora.
+
+Vale ressaltar que os serviços públicos essenciais, como o fornecimento de água, devem ser contínuos e prestados de forma eficaz e adequada, nos termos do artigo 6º, X, do Código de Defesa do consumidor, observando o Princípio da Continuidade previsto no artigo 22.
+
+Neste sentido, verifico que a aludida empresa requerida não traz aos autos elementos comprobatórios que justifiquem a interrupção do fornecimento de água, considerando que nos termos do artigo 373, I do Código de Processo Civil a parte recorrente comprovou que residia no bairro Interlagos à época dos fatos, conforme comprovante de residência anexo à inicial (ID 6130328), e que a interrupção do fornecimento se deu em decorrência de um vazamento e não das chuvas, fato amplamente divulgado pela mídia, desta forma não há o que se falar em caso fortuito ou força maior que justifiquem a interrupção do fornecimento de água.
+
+Assim, considerando que o fornecimento de água é essencial e deve ser prestado de forma contínua, verifico que se trata de evidente falha na prestação de serviços do requerido.
+
+Neste sentido é a jurisprudência:
+
+EMENTA: APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO - INTERRUPÇÃO DO FORNECIMENTO DE ÁGUA - DANOS MORAIS - CARACTERIZAÇÃO - MANUTENÇÃO - SENTENÇA MANTIDA. 1. O fornecimento de serviço público essencial deve ser prestado de forma contínua, eficiente e segura, somente podendo ser admitida sua interrupção em caso de emergência ou por força maior e desde que motivada por razões de ordem técnica ou de segurança das instalações. 2. A interrupção injustificada do fornecimento de água constitui falha na prestação do serviço, causando transtornos aos consumidores, sendo incontestável a ocorrência do dano. 3. Dano moral caracterizado.
+
+(TJ-MG - AC: 10145130066445001 MG, Relator: Rinaldo Kennedy Silva (JD Convocado), Data de Julgamento: 15/09/0019, Data de Publicação: 20/09/2019)
+
+Por fim, configurado dano moral
+in re ipsa
+, ante o abalo na integridade psicológica e emocional sofrido pela consumidora. Fixo a indenização por danos morais no patamar de R$ 1.000,00 (mil reais), levando em conta os danos suportados pela recorrente, o caráter punitivo para a prestadora de serviços e a jurisprudência deste Egrégio Tribunal.
+
+Pelo exposto, entendo pela procedência do pedido autoral para condenar a requerida ao pagamento de indenização por danos morais no patamar de R$ 1.000,00 (mil) reais.
+
+DISPOSITIVO
+
+Por todo exposto,
+CONHEÇO
+do recurso interposto e
+DOU-LHE PARCIAL PROVIMENTO,
+reformando a sentença recorrida para
+JULGAR PARCIALMENTE PROCEDENTE
+o pedido indenizatório formulado pela recorrente e condenar a recorrida ao pagamento de indenização por danos morais no patamar de 1.000,00 (mil reais), atualizado monetariamente a partir do arbitramento (súmula 362 do STJ).
+
+Sem condenação em custas e honorários advocatícios em face da recorrente, ante o provimento recursal, nos termos do art. 55 da Lei nº 9099/95.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
