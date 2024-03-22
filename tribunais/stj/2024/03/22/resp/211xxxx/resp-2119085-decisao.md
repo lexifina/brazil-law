@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de recurso especial interposto por EQUATORIAL PIAUÍ DISTRIBUIDORA DE ENERGIA S.A, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado do Piauí, assim ementado (fls. 106-107, e-STJ):
+CIVIL E PROCESSO CIVIL. APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. PROVA PERICIAL. DESNECESSIDADE. REVISÃO CONTRATUAL. NÃO CABIMENTO. FATURA DE ENERGIA ELÉTRICA. DOCUMENTO HÁBIL. PARCELAMENTO. POSSIBILIDADE. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. PRESCRIÇÃO DECENAL. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1 - O Superior Tribunal de Justiça - STJ fixou, no julgamento do Resp 1.117.903/RS, que é vintenário o prazo prescricional da pretensão executiva atinente à tarifa por prestação de serviços de água e esgoto, cujo vencimento, na data da entrada em vigor do Código Civil de 2002,era superior a dez anos. Ao revés, cuidar-se-á de prazo prescricional decenal.
+2 - Portanto, nos termos do art. 205 c/c 2.028 ambos do Código Civil, e amparado no Resp 1.117.903/RS, aplica-se ao caso a prescrição decenal aos valores cobrados pela concessionária,(data do ajuizamento da ação em 20/04/2017).
+Opostos embargos declaratórios (fls. 121-129 e-STJ), restaram desacolhidos na origem (fls. 157-163, e-STJ).
+Nas razões do especial (fls. 131-141 e 172, e-STJ), a insurgente alega violação aos seguintes dispositivos de lei federal: artigos 3º. inciso I, da Lei nº 9.427/1996; 323 do CPC/2015; e 314 do CC.
+Sustenta, em síntese: (i) a possibilidade de interrupção do fornecimento de energia elétrica, por inadimplemento dos débitos, tendo em vista ser da competência da ANEEL a regulação das disposições acerca do fornecimento de energia elétrica; (ii) a possibilidade de inclusão das parcelas vencidas durante o curso do processo; e (ii) inexistir obrigatoriedade ao credor de recebimento de valores inadimplidos de forma parcelada. Subsidiariamente, requer a redução do número de parcelas bem como que englobe o valor total do débito com as parcelas vincendas.
+Sem contrarrazões.
+Após juízo de admissibilidade positivo (fls. 175-177, e-STJ), ascenderam os autos à esta Corte Superior.
+É o relatório.
+Decide-se.
+A pretensão recursal não merece prosperar.
+1. De fato, verifica-se, das razões recursais, que o conteúdo normativo dos artigos 3º. inciso I, da Lei nº 9.427/1996; 323 do CPC/2015; e 314 do CC, não foi objeto de apreciação pelo Tribunal estadual.
+Cumpre destacar que a Corte de origem, a despeito dos embargos de declaração suscitados, não se manifestou expressamente sobre o referido artigo.
+Portanto, ausente o prequestionamento, entendido como a necessidade de ter o tema objeto do recurso sido examinado na decisão atacada, o que atrai a incidência da Súmula n. 211 do STJ.
+Ressalta-se, ainda, que o prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial.
+Ademais, sua ocorrência se dá quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, situação não verificada na presente hipótese.
+Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EMBARGOS À EXECUÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. INCIDÊNCIA DA SÚMULA Nº 211 DO STJ. GRATUIDADE DA JUSTIÇA. INDEFERIMENTO. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA NOS MOLDES LEGAIS. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O recurso especial não deve ser conhecido quando ausente o prequestionamento da questão federal nele ventilada, por incidência da Súmula nº 211 do STJ.
+3. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+4. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea c do art. 105, III, da CF.
+5. Agravo interno não provido.
+(AgInt no AREsp 1570272/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 18/05/2020, DJe 20/05/2020) grifou-se
+AGRAVO INTERNO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA. DESCUMPRIMENTO DE ORDEM JUDICIAL. MANUTENÇÃO DO NOME DA PARTE AUTORA NOS CADASTROS DE PROTEÇÃO DO CRÉDITO. DANO MORAL NÃO CARACTERIZADO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA 284 DO STF. VIOLAÇÃO DE LEI FEDERAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DO ACÓRDÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211 DO STJ. CONFIGURAÇÃO DE DANOS MORAIS EM PROCESSO JUDICIAL DIVERSO. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que se falar em nulidade do acórdão por vício de contradição sem deduzir de que modo o acórdão recorrido teria incorrido em aludida deficiência ou demonstrar impacto no deslinde da causa. Súmula 284/STF.
+2. Para que se configure o prequestionamento da matéria, ainda que implícito, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal (Súm. 211/STJ).
+3. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+4. O reexame de fatos e provas sobre o preenchimento dos requisitos para responsabilidade civil por danos morais decorrente da inclusão indevida da inscrição em cadastros de inadimplência, em evento considerado apto a gerar o dever sucessivo de reparar, demandaria o revolvimento das premissas fático-probatórias estabelecidas nas instâncias ordinárias, remetendo até mesmo a processo judicial distinto, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7/STJ. Dissídio jurisprudencial prejudicado.
+5. Agravo interno não provido.
+(AgInt no REsp 1817645/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/06/2020, DJe 30/06/2020) grifou-se
+Importante assinalar, ainda, que o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, o recorrente suscitar a violação ao art. 1.022 do mesmo diploma, porquanto somente dessa forma é que o órgão julgador poderá verificar a existência do vício e proceder à supressão de grau. Contudo, não houve alegação de violação do art. 1.022 do CPC/2015 no recurso especial apresentado.
+2. Do exposto, com amparo no artigo 932, inciso III, do CPC/2015, não conheço do recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do Código de Processo Civil, visto que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve fixação de honorários.
+Publique-se. Intimem-se.
+EMENTA
