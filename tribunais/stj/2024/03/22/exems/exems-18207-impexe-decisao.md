@@ -1,0 +1,11 @@
+DECISÃO
+Consoante certidão de fl. 118, encontram-se preclusas as vias impugnativas no tocante à possibilidade de habilitação do espólio (admitida e deferida pela decisão de fls. 75-78).
+Em razão disso, passo à análise da outra preliminar aventada pela UNIÃO, de inexigibilidade do título judicial, em vista da possibilidade de anulação da portaria anistiadora. A esse respeito, o mesmo decisum de fls. 75-78 determinou a intimação da executada para comprovar a notificação do espólio exequente do procedimento revisional instaurado.
+Contudo, o e nte público deixou transcorrer em branco o prazo assinalado para esse fim (certidão de fl. 98), não permitindo, assim, o sobrestamento do feito executivo pleiteado às fls. 20-49. Ademais, consultando o link de acesso externo (https://tinyurl.com/yys3l8ml), constata-se que os respectivos autos encontram-se paralisados desde 12/11/2020, sem qualquer justificativa plausível para tanto.
+Como a portaria de anistia objeto da presente execução permanece válida, a situação versada nos autos autoriza, portanto, a rejeição da preliminar de inexigibilidade do título judicial suscitada pela UNIÃO.
+Por fim, considerando que não foi apontado excesso de execução, e não remanescendo outra matéria de defesa, o caso é de improcedência da impugnação oposta pela executada.
+Ante o exposto, julgo improcedente a impugnação oposta pela UNIÃO, bem como homologo o cálculo exequendo no valor de R$ 1.271.755,93 (um milhão, duzentos e setenta e um mil, setecentos e cinquenta e cinco reais e noventa e três centavos), e determino a expedição da requisição de pagamento, nos termos do art. 535, § 3º, do CPC, com destaque de honorários advocatícios contratuais, se for o caso.
+Em consonância com os limites e critérios previstos nos §§ 2º e 3º do art. 85 do CPC, condeno a executada ao pagamento de honorários advocatícios sucumbenciais fixados em 10% (dez por cento) sobre a parcela a qual sucumbiu (que, no caso, corresponde ao valor executado, tendo em vista que impugnou a execução como um todo com base nas alegadas ilegitimidade ativa/inexistência de título judicial e inexigibilidade do título judicial).
+Atestado o cumprimento dos requisitórios, incluindo o referente aos honorários advocatícios sucumbenciais, voltem-me conclusos para extinção da execução.
+Publique-se. Intimem-se.
+EMENTA
