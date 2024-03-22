@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que negou seguimento ao recurso especial pelos seguintes fundamentos: (a) suficiente fundamentação do acórdão recorrido, e (b) incidência das Sú mulas n. 211 do STJ e 283 do STF (e-STJ fls. 1.217/1.228).
+O acórdão recorrido está assim ementa do (e-STJ fl. 1.105):
+APELAÇÃO CÍVEL. PREVIDÊNCIA PRIVADA. REVISÃO DE BENEFÍCIO COMPLEMENTAR. FUNDAÇÃO CEEE. BENEFÍCIO PERCEBIDO PELO AUTOR EM MONTANTE INFERIOR AO DEVIDO. QUARTA FAIXA DE CONTRIBUIÇÃO INTRODUZIDA PELO REGULAMENTO DE 1994. DEMANDADA QUE LIMITOU A REMUNERAÇÃO DO AUTOR EFEITO À DE TERCEIRA CÁLCULO FAIXA, TANTO PARA O DA COMPLEMENTAÇÃO TEMPORÁRIA DE PROVENTOS (CTP) QUANTO PARA AS CONTRIBUIÇÕES DESTINADAS A CUSTEAR O BENEFÍCIO DEFINITIVO. CASO PECULIAR. COISA JULGADA. DIREITO DO AUTOR RECONHECIDO EM PROCESSO TRABALHISTA QUE DE FATO RECONHECEU AS DIFERENÇAS DE CTP PELA APLICAÇÃO DO MAIOR TETO DE CONTRIBUIÇÃO (QUARTA FAIXA), DESCONTADAS AS DIFERENÇAS DE CONTRIBUIÇÕES DEVIDAS. SENTENÇA REFORMADA PARA CONDENAR A RECORRIDA, AO PAGAMENTO DAS DIFERENÇAS DE COMPLEMENTAÇÃO DE APOSENTADORIA, PARA EFEITOS DE DETERMINAÇÃO DO SEU VALOR, DOS SALÁRIOS-REAIS-DE-CONTRIBUIÇÃO SOBRE OS QUAIS O AUTOR EFETIVAMENTE CONTRIBUIU NOS AUTOS DO PROCESSO 01240.027/01-0, EM PRESTAÇÕES VENCIDAS DESDE 03/06/2010 E VINCENDAS, VALOR A SER APURADO EM LIQUIDAÇÃO DE SENTENÇA, COM CORREÇÃO MONETÁRIA PELO IGP-M DESDE ENTÃO E JUROS DE MORA DE 1% AO MÊS, DESDE A CITAÇÃO. HONORÁRIOS SUCUMBENCIAIS REDIMENSIONADOS. APLICAÇÃO DA SÚMULA 111, DO STJ. DERAM PROVIMENTO AO RECURSO. UNÂNIME.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.155/1.163).
+No recurso especial (e-STJ fls. 1.168/1.186), fundamentado no art. 105, III, "a", da CF, a recorrente alegou ofensa aos arts. 1.022, II, do CPC e 1º, 18, § 3º, e 19 da LC n. 109/2001, sustentando: (a) negativa de prestação jurisdicional, e (b) ausência de custeio prévio para o recálculo do benefício, resultando em quebra do equilíbrio atuarial do plano de previdência complementar.
+Foram oferecidas contrarrazões (e-STJ fls. 1.200/1.212).
+No agravo (e-STJ fls. 1.235/1.251), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+O Tribunal a quo decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da agravante, explicitando, no julgamento dos embargos de declaração, a motivação necessária para afastar as alegações de necessidade de retirada do autor da quarta faixa de contribuição da associação e de falta de custeio ao plano, nos seguintes termos (e-STJ fls. 1.158/1.159):
+Argumenta a parte embargante que a decisão se mostra omissa quanto ao argumento de que por meio de ação intentada pela Associação dos Engenheiros da CEEE, foi requerida a exclusão de todos os associados da 4ª. faixa de contribuição da referida associação, sendo tal procedimento observado pela Fundação quando da apuração do benefício do embargado.
+Contudo, tal tese não foi utilizada nas contrarrazões recursais, não havendo, portanto, omissão a ser sanada no ponto.
+Ademais, tem-se que o autor ajuizou ação de forma individual, requerendo a sua inclusão na quarta faixa de contribuição, tendo reconhecido o direito a diferenças de complementação temporária de proventos pela justiça do Trabalho.
+Como já mencionado no decisium, o direito do autor a contribuir pela quarta faixa já foi reconhecido nos autos do processo de n. 01240.027/01-0, sendo, inclusive, feito o custeio e existente coisa julgada.
+Desta sorte, como já devidamente esclarecido, às diferenças ora postuladas na presente ação já foram efetivamente custeadas, conforme demonstram os quesitos apresentados pelo perito em seu laudo, não havendo que se falar em ausência de fonte de custeio ou desequilíbrio ao Plano.
+Ressalte-se que a adoção de posicionamento contrário aos interesses da parte não se confunde com obscuridade, contradição, omissão ou negativa de prestação jurisdicional.
+Desse modo, quanto à alegada afronta ao art. 1.022, II, do CPC, não assiste razão à parte.
+Nada obstante, com relação à suposta ofensa aos arts. 1º, 18, § 3º, e 19 da LC n. 109/2001, observa-se que as matérias versadas nos dispositivos em questão não foram enfrentadas pelo acórdão recorrido.
+A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pela decisão recorrida, impede o conhecimento do recurso especial, por falta de prequestionamento. A insurgência encontra óbice na Súmula n. 211/STJ.
+Ademais, no especial, a ora agravante não apresentou argumentos aptos a impugnar todos os fundamentos transcritos, nada mencionando a respeito da existência de coisa julgada e do reconhecimento do efetivo custeio, cingindo-se a alegar, de forma genérica, a possibilidade de quebra do equilíbrio atuarial, de modo que a insurgência encontra óbice na Súmula n. 283 do STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
