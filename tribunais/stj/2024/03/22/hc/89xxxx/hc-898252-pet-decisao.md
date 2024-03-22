@@ -1,0 +1,24 @@
+DECISÃO
+MOISES GENTIL PINHEIRO requer a reconsideração da decisão de fls. 82-83, em que indeferi liminarmente o writ, diante da insuficiência da instrução.
+Juntada a peça faltante, reconsidero o referido decisum e passo ao exame do pedido.
+A defesa assere que o paciente cumpriu o requisito objetivo, de modo que a progressão de regime dever ser efetuada sem a obrigatoriedade de realização de exame criminológico.
+Requer, assim, a concessão da ordem, a fim de que seja a apenada inserido no regime aberto, dada a violação da Súmula n. 439 do STJ.
+Decido.
+O Juízo das execuções assim indeferiu o pedido de progressão, com exigência da produção de exame criminológico:
+Para melhor apreciar o pedido converto o julgamento em diligência para que sejam trazidos aos autos elementos atinentes à personalidade do agente, uma vez que o postulante ostenta diversas condenações criminais, indicando possível personalidade voltada à reiterada prática de delitos, com considerável pena a cumprir (TCP 2036), além de registrar 3 (três) faltas disciplinares cometidas durante o cumprimento da pena, exigindo do Estado-juiz maior rigor na verificação da presença do requisito de ordem subjetiva para concessão da benesse reclamada.
+Por oportuno, anoto que o exame em questão não foi abolido com reforma da Lei de Execução Penal - e sim restringido àqueles casos onde o simples atestado de conduta carcerária não se mostra suficiente para formação da convicção do magistrado acerca da satisfação do requisito de ordem subjetiva. Por tais razões, reputo indispensável a realização de exame criminológico a fim de verificar se reúne condições para o cumprimento da pena em regime menos rigoroso (fl. 88).
+A Corte de origem, manteve a decisão do Juízo de primeiro grau, que indeferiu o pedido de progressão e pediu a realização de exame criminológico, sob a seguinte argumentação:
+O que se pode constatar aqui é que, formulado o pedido de progressão ao regime aberto, optou o Magistrado a quo por apurar, antes de analisar o pleito, se o paciente possui mérito para obter o benefício, através de exame criminológico.
+Consoante constou da r. decisão recorrida, "o postulante ostenta diversas condenações criminais, indicando possível personalidade voltada à reiterada prática de delitos, com considerável pena a cumprir (TCP 2036), além de registrar 3 (três) faltas disciplinares cometidas durante o cumprimento da pena, exigindo do Estado-juiz maior rigor na verificação da presença do requisito de ordem subjetiva para concessão da benesse reclamada" 1 .
+Essa fundamentação se apresenta razoável, tendo em vista que o crime cometido, as faltas disciplinares e a extensão da reprimenda exigem maior cautela do Juízo.
+A possiblidade de determinação de exame criminológico para aferição do mérito necessário à progressão é consagrada pela Súmula Vinculante no. 26 do E.
+Supremo Tribunal Federal (fl. 47, grifei).
+A respeito da matéria suscitada, esta Corte Superior possui o entendimento de que "com as alterações trazidas pela Lei n. 10.792/2003, o exame criminológico deixa de ser requisito obrigatório para a progressão de regime, podendo, todavia, ser determinado de maneira fundamentada pelo Juízo da execução penal, de acordo com as peculiaridades do caso" (HC n. 122.486/MT, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/4/2011).
+Vale dizer, embora não mais se exija, de plano, a realização de exame criminológico, o Juízo da execução penal ou mesmo o Tribunal de Justiça estadual podem, de forma devidamente fundamentada e diante das peculiaridades do caso concreto, determinar a realização do referido exame para a formação do seu convencimento acerca do implemento do requisito subjetivo.
+Nesse sentido, foi editada a Súmula n. 439 do STJ: "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+Dessa forma, o que se verifica é que foi determinada a elaboração de laudo pericial sem a devida fundamentação, com fulcro apenas em considerações abstratas acerca dos delitos cometidos pelo reeducando, a impor-lhe patente constrangimento ilegal, sem a demonstração de prática de falta grave recente. A última foi praticada foi cometida em 6/7/2018, reabilitada em 6/1/2019 (fl. 29).
+Sobre a matéria suscitada, o entendimento desta Corte Superior é firme no sentido de que " a  decisão que retarda a concessão do livramento condicional ao paciente, condicionando a benesse à realização de exame complementar, com laudo psiquiátrico, configura constrangimento ilegal, sobretudo porque existe no exame já realizado, parecer favorável. Precedentes" (HC n. 399.139/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 30/10/2017, sublinhei).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo, in limine, a ordem postulada, a fim de deferir ao paciente a progressão ao regime menos gravoso.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+EMENTA
