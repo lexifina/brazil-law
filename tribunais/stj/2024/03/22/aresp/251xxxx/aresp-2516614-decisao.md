@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo (art. 1.042, do CPC/15), interposto por LACY MARIA TAVARES COSTA, contra decisão que não admitiu recurso especial.
+O apelo nobre, amparado na alínea "a" do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fls. 432/436, e-STJ):
+Apelação Cível. Ação de Reintegração de Posse proposta por Espólio em face de comodatária. Sentença de procedência. Inconformismo da ré.
+A herança transmite-se aos herdeiros por força do princípio da saisine, e com ela o domínio e a posse sobre os bens que compõem o acervo hereditário. Artigo 1.784 do Código Civil.
+Não é possível reconhecer a prescrição aquisitiva, como pretende a apelante, pois nunca exerceu a posse com animus domini sobre o imóvel, tendo em vista o comodato verbal firmado com o de cujus, o que foi confirmado pela demandada em audiência.
+Presença dos requisitos estabelecidos no artigo 561 do Código de Processo Civil, tendo o autor o direito de ser reintegrado na posse, conforme estabelecem os artigos 1.210 do Código Civil e 558, parágrafo único do Código de Processo Civil. Manutenção da Sentença. Desprovimento da Apelação.
+Embargos declaratórios rejeitados, nos termos do aresto de fls. 465/467 (e-STJ).
+Em suas razões de recurso especial (fls. 478/491, e-STJ), a recorrente aponta ofensa ao art. 1.022, II, do CPC/15.
+Sustenta, em síntese, negativa de prestação jurisdicional. Assevera que apesar de instada, teria a instância de origem deixado de se pronunciar sobre questão essencial para o julgamento do feito, qual seja, a extinção do comodato verbal em razão do falecimento do genitor da parte adversa.
+Contrarrazões às fls. 505/520 (e-STJ).
+Inadmitido o apelo nobre na origem (fls. 522/525, e-STJ), sobreveio o presente recurso de agravo, buscando destrancar o processamento daquela insurgência (fls. 538/547, e-STJ).
+Contraminuta às fls. 553/558 (e-STJ).
+É o relatório.
+Decido.
+A irresignação não merece acolhimento.
+1. Insurge-se a recorrente, apontando negativa de prestação jurisdicional, sustentando ausência de pronunciamento sobre questão essencial para o deslinde da controvérsia, qual seja, extinção de contrato de comodato verbal em razão do óbito do genitor da parte adversa.
+Todavia, em uma análise detida dos fundamentos que embasaram o aresto recorrido, observa-se que a apontada ofensa não se configura, na medida em que a Corte Estadual, ao apreciar os recursos interpostos pela parte, dirimiu a controvérsia e decidiu as questões postas à apreciação de forma ampla e fundamentada, sem omissões, expondo os motivos para o desprovimento do recurso.
+É o que se extrai dos seguintes trechos do julgado recorrido (fls. 434/435, e-STJ):
+A Sentença julgou procedente o pedido inicial para reintegrar a parte autora na posse do imóvel e condenar a ré ao pagamento das despesas processuais e dos honorários advocatícios.
+O artigo 561 do Código de Processo Civil estabelece que, para a procedência da Ação de Reintegração de Posse, deve o autor provar a sua posse, o esbulho praticado pela parte ré, a data do esbulho e a perda da posse.
+E o artigo 1.784 do Código Civil determina que a herança se transmite aos herdeiros, por força do princípio da saisine, e com ela o domínio e a posse sobre os bens que compõem o acervo hereditário.
+O falecimento da pessoa, para o Direito Sucessório, é o marco inicial para a transmissão dos bens aos herdeiros.
+Saliente-se que a transmissão da herança abrange tanto a propriedade quanto a posse dos bens, de forma que o espólio possui legitimidade para propositura de ação possessória, estando comprovada a posse anterior.
+E, na presente hipótese, a proprietária do imóvel sempre manteve a posse indireta do bem que estava cedido por comodato verbal à família da ré, uma vez que a relação locatícia não ficou comprovada nos autos, sendo certo que o Espólio requereu a intimação dos ocupantes dos imóveis que integram o acervo hereditário para esclarecer a que título ocupavam os bens, inclusive a demandada (fl. 24-indexador 23).
+E o pedido autoral não está fundado em relação locatícia.
+Por outro lado, não é possível reconhecer a prescrição aquisitiva, como pretende a apelante, pois nunca exerceu a posse com animus domini sobre o imóvel, tendo em vista o comodato verbal firmado com o de cujus, o que foi afirmado pela própria demandada em audiência, quando confirmou que a Sra. Eponina permitiu que a família morasse no local porque tinha muita amizade com seus genitores.
+Saliente-se que foi remetida notificação extrajudicial à apelante (indexador43) que, por sua vez, se recusou a deixar o bem, caracterizando, então o esbulho possessório.
+Ressalte-se que a transmissão ocorre ope legis, não sendo necessário o exercício de fato da posse para exercer o direito a proteção possessória do imóvel esbulhado.
+Dessa forma, os requisitos do artigo 561 do Código de Processo Civil estão satisfeitos, tendo o autor o direito de ser restituído na posse, conforme estabelecem os artigos 1.210 do Código Civil e 558, parágrafo único do Código de Processo Civil.  grifou-se
+Como se vê, o órgão julgador apreciou as teses apresentadas pelas partes, inclusive a apontada como omissa nas razões recursais, em conjunto com o acervo probatório dos autos, em decisão suficientemente fundamentada, porém em sentido contrário ao pretendido pela recorrente, o que não configura negativa de prestação jurisdicional ou deficiência de fundamentação.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO E OMISSÃO NÃO CONSTATADAS. 2. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. 3. CARÁTER PROTELATÓRIO DOS EMBARGOS DE DECLARAÇÃO. APLICAÇÃO DE MULTA DO ART. 1.026, § 2º, DO CPC/2015 PELO TRIBUNAL LOCAL. POSSIBILIDADE. SÚMULA 83/STJ. 4. AGRAVO IMPROVIDO. 1. Não ficou caracterizada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.  ..  4. Agravo interno a que se nega provimento. (AgInt no AREsp 1.263.748/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 07/08/2018, DJe 13/08/2018)  grifou-se
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA DEMANDADA. 1. As questões trazidas à discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla, fundamentada e sem omissões ou contradições, portanto, deve ser afastada a alegada violação ao artigo 1.022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota para a resolução da causa fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta, como ocorre na hipótese. Precedentes.  ..  3. Agravo interno desprovido. (AgInt no REsp 1.669.141/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/06/2018, DJe 01/08/2018)  grifou-se
+Não é demais lembrar, a orientação desta Corte, no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+Ressalta-se que não há falar em deficiência de fundamentação do julgado quando não acolhida a tese ventilada pela recorrente, mormente se o acórdão abordar todos os pontos relevantes ao deslinde da controvérsia, como ocorre na hipótese, em que o Tribunal de origem formou seu entendimento acerca do marco inicial da transmissão dos bens aos herdeiros, à luz do princípio da saisine.
+Inexiste, portanto, violação ao artigo 1.022, II, do CPC/15, visto que as questões foram apreciadas pelo Tribunal de origem, cuja fundamentação foi clara e suficiente para o deslinde da controvérsia.
+2. Do exposto, com amparo no artigo 932 do NCPC c/c a súmula 568/STJ, conheço do agravo (art. 1.042, do CPC/15) para, de pronto, negar provimento ao recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
