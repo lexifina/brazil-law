@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de RITA NEVES CORREIA DEL RIO em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+EMBARGOS INFRINGENTES E DE NULIDADE. EXECUÇÃO PENAL. INDULTO NATALINO. APENADO REINCIDENTE. NÃO PREENCHIMENTO DO REQUISITO PREVISTO NO ART. 12 DO DECRETO PRESIDENCIAL Nº 11.302/22.
+1. O Decreto Presidencial nº 11.302/22, em seu art. 12, restringiu o indulto às hipóteses de "condenação primária" (O indulto natalino de que trata este Decreto será concedido pelo juízo do processo de conhecimento, quando se tratar de condenação primária, desde que não haja recurso da sentença interposto pela acusação).
+2. No caso, verifica-se que o agravante é reincidente, não preenchendo o requisito objeto previsto no art. 12 do Decreto Presidencial nº 11.302/22.
+3. Embargos infringentes e de nulidade desprovidos.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, uma vez que a paciente preenche os requisitos necessários para ser b eneficiada pelo indulto, consoante disposições previstas no Decreto Presidencial n. 11.302/2022.
+Alega que tem direito ao Indulto da pena que antes era restritiva de direitos, porquanto foi convertida em privativa de liberdade antes da edição do decreto.
+Requer, em suma, a concessão do indulto.
+É, no essencial, o relatório. Decido.
+Segundo o entendimento firmado pela Terceira Seção do STJ no julgamento do HC n. 482.549/SP, havendo a simultânea interposição de recurso próprio ou o ajuizamento de ação autônoma de impugnação na origem e a impetração de habeas corpus nesta Corte versando sobre os mesmos temas, inexiste ilegalidade em se reservar a análise das questões para o momento do julgamento do re curso ou da ação, salvo se o writ for destinado à tutela direta e imediata da liberdade de locomoção, o que não é o caso dos autos (Relator ministro Rogerio Schietti Cruz, DJe 3/4/2020).
+Ainda nesse sentido: AgRg no HC n. 801.494/AP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 17/8/2023; AgRg no HC n. 809.553/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16/8/2023; AgRg no HC n. 825.071/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 6/6/2023, DJe de 13/6/2023; HC n. 684.361/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 16/5/2023, DJe de 23/5/2023; AgRg no HC n. 782.869/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 30/3/2023; AgRg no HC n. 794.580/PI, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/3/2023, DJe de 30/3/2023; AgRg no HC n. 786.205/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/3/2023, DJe de 23/3/2023; AgRg no HC n. 788.403/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 7/2/2023, DJe de 14/2/2023; AgRg no HC n. 740.031/SP, relator Ministro Jorge Mussi, Quinta Turma, julgado em 6/12/2022, DJe de 15/12/2022; AgRg no HC n. 783.642/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJe de 28/4/2023; AgRg no HC n. 802.740/SE, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 20/4/2023.
+Na espécie, tramitam simultaneamente o recurso de AREsp 2527495/PR, nesta corte e o presente habeas corpus com o mesmo objeto, em clara ofensa ao princípio da unirrecorribilidade.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
