@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado:
+DIREITO ADMINISTRATIVO. LEI 8112. SERVIDOR PÚBLICO. APOSENTADORIA. ALEGAÇÃO DE DEMORA PARA ANALISAR O PEDIDO DE APOSENTADORIA. ALEGAÇÃO DE DANO.
+REQUERIMENTO DE INDENIZAÇÃO. NÃO CONFIGURAÇÃO DE DANO QUE JUSTIFIQUE INDENIZAÇÃO. RECURSO PROVIDO.
+1 - A parte autora autora, em síntese que: "mesmo já tendo adquirido o direito de se aposentar, continuar laborando de maneira compulsória, ferindo, desta forma, seu direito constitucional de descanso por tempo de serviço".
+2 - Desta forma, afirma que a conduta causou o enriquecimento indevido da UNIÃO. Requereu, então, a condenação da ré ao pagamento de indenização referente aos meses trabalhados de maneira compulsória, após já ter direito à concessão de aposentadoria.
+3 - Ocorre que, no caso concreto, não se vislumbra qualquer ato comissivo ou omissivo da União que demontre que de fato foi a causadora de dano relevante à parte autora.
+4 - Ademais, é sabido que diversas órgãos públicos têm passado por dificuldades em razão da quantidade de servidores aquém do necessário. Com isso, alguns atos e decisões podem eventualmente demorar mais do que o esperado. Todavia, por si só, tal fato não enseja indenização por parte da União.
+5 - Neste sentido, bem expressou a União que: "Insta salientar, por oportuno, que a Sentença não consigna expressamente em qual medida ocorreu a omissão da UNIÃO e sua culpa. Com efeito, a jurisprudência e a doutrina sedimentou entendimento de que a responsabilidade por ato omissivo é subjetiva. Para configurar responsabilidade civil do Estado exige-se a ocorrência dos seguintes requisitos: ocorrência do dano, ação ou omissão da administração, existência de nexo causal ente o dano e ação ou omissão administrativa e ausência de causa excludente de responsabilidade estatal.
+Portanto, na falta de um destes requisitos, não há o que falar em responsabilidade civil do Estado. Não tendo feito prova sequer dessa questão fundamental, descabe alegar que a Administração teria praticado alguma conduta ilícita ou violado algum dever de agir em relação a ele. Ademais, sem a comprovação do dano alegado, sem quaisquer provas a sustentar, tal tese torna-se infundada, sem qualquer indicativo de dano moral.
+6 - Deve-se levar em conta, ainda, que a responsabilidade civil do Estado em caso de omissão, como no caso em análise, é subjetiva. Isto é, depende da comprovação de dolo ou culpa da administração, não bastando que alegue um suposto prejuízo suportado pelo particular.
+7 - Assim sendo, a sentença de primeiro grau deve ser reformada em sua integralidade, de acordo com os fatos supramencionados, para julgar improcedentes os pedidos autorais em sua integralidade.
+8 - Recurso provido. Ônus de sucumbência invertidos.
+Embargos de declaração rejeitados.
+Em suas razões, a parte recorrente aponta violação dos arts. 489, § 1º, III, IV, V e VI e 1.022 do CPC/2015, 106 da Lei n. 8.112/1990 e 48 e 49, da Lei n. 9.784/1999, defendendo, além de negativa de prestação jurisdicional, "desídia da Administração em cumprir as regras incidentes sobre seu processo administrativo, ocasionou, como visto, lesão ao direto da Autora, que se viu obrigada a continuar trabalhando, mesmo quando já adquirido seu direito à aposentadoria, ao mesmo tempo em que gerou um enriquecimento sem causa à Administração Pública, fazendo-se, portanto, mister a indenização da Autora pelo dano material sofrido".
+Contrarrazões apresentadas.
+Passo a decidir.
+Aplica-se o óbice da Súmula 284 do STF quando a suposta negativa de prestação jurisdicional se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso.
+Quanto ao argumento de enriquecimento ilícito da administração, infere-se das razões do apelo nobre que não foi apontado dispositivo de lei supostamente violado, incidindo o óbice da Súmula 284 do STF.
+Em o utra quadra, infirmar o entendimento alcançado pela Corte de origem - sem comprovação do dano alegado e sem prova - , a fim de acolher os argumentos da parte recorrente - desídia da administração e lesão ao direito -, esbarra no óbice da Súmula 7 do STJ.
+Por fim, a inadmissão do recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Precedentes. (AgInt nos EDcl no REsp n. 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023.)
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Publique-se. Intimem-se
+EMENTA
