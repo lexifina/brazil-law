@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de MARCELO ANDRADE ARAUJO no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1500069-30.2020.8.26.0592).
+Depreende-se nos autos que o paciente foi denunciado como incurso no art. 33, caput, da Lei n. 11.343/2006.
+Em primeiro grau, foi absolvido, com fundamento no art. 386, VII, do Código de Processo Penal.
+Irresignado, o Ministério Público estadual interpôs recurso de apelação, que foi parcialmente provido pelo Tribunal de origem, para condenar o paciente à pena de 6 (seis) anos, 9 (nove) meses e 20 (vinte) dias de reclusão, em regime inicial fechado. O acórdão está assim ementado (e-STJ fl.49):
+APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - Sentença absolutória - Recurso ministerial que busca a condenação do réu nos termos da denúncia - Autoria e materialidade do delito comprovadas - Depoimentos dos policiais ouvidos em juízo firmes, coerentes e sem desmentidos, corroborados pelo depoimento do usuário comprador - Ausência de motivos para dúvidas acerca da veracidade de suas palavras - Condenação devida - Estabelecido o regime inicial fechado para a expiação - Apelado com maus antecedentes e reincidente específico - Recurso parcialmente provido.
+Nesta impetração, destaca a defesa a fragilidade do acervo probatório, pugnando pelo restabelecimento da sentença absolutória.
+Além disso, afirma que a defesa técnica do acusado foi deficiente, pois não foi interposto o cabível recurso especial pelo defensor dativo que à época patrocinava a defesa da causa.
+É, em síntese, o relatório. Decido.
+Esta Corte, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais, mas da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nessa linha, o Superior Tribunal de Justiça, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+Nesse mesmo sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO TENTADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ILEGALIDADE FLAGRANTE NÃO DEMONSTRADA. REPRIMENDA INFERIOR A QUATRO ANOS. PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME MAIS GRAVOSO. POSSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA EVIDENCIADA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. EFEITO DEVOLUTIVO AMPLO DO RECURSO DE APELAÇÃO. BIS IN IDEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS. ACÓRDÃO TRANSITADO EM JULGADO. DOSIMETRIA. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. AUMENTO DA PENA-BASE. ELEVADA QUANTIDADE DE DROGAS. PROPORCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+(AgRg no HC n. 751.137/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/8/2022, DJe de 4/8/2022, grifei.)
+Assim, não se deve conhecer do writ que pretende a desconstituição de condenação transitada em julgado, olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência desta Corte acerca da controvérsia.
+No caso, ademais, verifica-se, pela leitura do acórdão impugnado, que a condenação foi imposta ao paciente com fundamento em provas produzidas em juízo, notadamente a versão apresentada pelos policiais, corroborada pelo depoimento de Leandro, que confirmou ter adquirido a droga do paciente.
+Portanto, não se se vislumbra cenário de flagrante ilegalidade que justifique a concessão da ordem.
+Além disso, vale destacar que esta Corte Superior é firme na compreensão de que não se presta o remédio heroico à revisão da condenação estabelecida pelas instâncias ordinárias, uma vez que a mudança de tal conclusão exigiria o reexame das provas, o que é vedado na via do habeas corpus.
+Por fim, constato não ser o caso de se reconhecer o alegado cerceamento à defesa do paciente, pois, como informado pelo próprio impetrante, durante todo o feito a defesa técnica do réu foi exercida por profissional legalmente habilitado que desempenhou sua função de forma diligente.
+Vale ressaltar que a não interposição de recurso especial pelo advogado que havia então assumido a causa não implica, por si só, que sua atuação tenha sido deficiente, uma vez que o manejo de recursos de índole extraordinária, por requerer o preenchimento de específicos requisitos de admissibilidade, nem sempre é parte da estratégia defensiva.
+Assim, conforme já decidiu esta Corte, "tem-se que a falta de interposição de recurso, por si só, não caracteriza deficiência da defesa técnica, pois vige no sistema processual pátrio o princípio da voluntariedade recursal" (AgRg no HC n. 780.317/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022).
+Ante o exposto, indefiro a ordem liminarmente.
+Publique-se. Intimem-se.
+EMENTA
