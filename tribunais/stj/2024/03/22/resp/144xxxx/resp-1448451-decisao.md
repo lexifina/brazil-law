@@ -1,0 +1,15 @@
+DECISÃO
+Em análise, recurso especial interposto por FRIDA TAITELBAUM DA FONSECA, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ, fl. 145):
+PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. DIREITO ADQUIRIDO À CONTRIBUIÇÃO COM BASE NO EQUIVALENTE A 20 SALÁRIOS MÍNIMOS. LEI 6.950/81.
+A revisão nos moldes almejados exige que a parte interessada demonstre o preenchimento dos requisitos para aposentadoria por tempo de serviço em 31-05-89, último dia de vigência da Lei 6.950-81, atentando para o que consta no artigo supratranscrito, ou seja, o tempo mínimo exigido para aposentação era de 30 anos, tanto para o homem, quanto para a mulher.
+No recurso especial, interposto com fun damento no art. 105, III, "a" e "c", da Constituição Federal, a recorrente sustenta que "antes do início da vigência da Lei nº 7.787/89, a parte autora já tinha tempo de serviço suficiente para aposentadoria proporcional nas regras anteriores, considerando-se os salários de contribuição no teto de 20 salários mínimos, flagrando-se para ela o direito adquirido à realização do cálculo de sua renda mensal inicial em data imediatamente anterior à edição da nova Lei, sem a limitação trazida pela nova disposição legal, eis que já possuía tempo de serviço suficiente quando vigorava a limitação da Lei nº 6.950/81" (e-STJ, fl. 173).
+O recurso especial foi admitido pelo Tribunal de origem (e-STJ, fl. 224).
+Vieram-me conclusos os autos em 11/12/2023 (e-STJ, fl. 268).
+É o relatório. Decido.
+O recurso especial não merece ser conhecido.
+Com efeito, a admissibilidade do recurso especial, tanto pela alínea "a", quanto pela alínea "c" do permissivo constitucional, exige a clareza na indicação dos dispositivos de lei federal supostamente violados, assim como a demonstração efetiva da alegada contrariedade, sob pena de incidência da Súmula 284 do STF. Nesse sentido: AgRg no REsp n. 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, julgado em 18/12/2013, DJe de 17/3/2014; AgInt no AREsp n. 1.656.469/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 19/10/2020, DJe de 26/10/2020; AgInt no AREsp n. 1.664.525/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/10/2020, DJe de 14/12/2020.
+Cumpre destacar, ainda, que "a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do Recurso Especial, não supre a exigência de fundamentação adequada do apelo especial" (AgInt no AREsp n. 1.738.090/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/2/2021, DJe de 1/3/2021). Nesse sentido: REsp n. 775.021/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/8/2009, DJe de 27/8/2009.
+No caso, a parte recorrente deixou de indicar quais os dispositivos de lei federal teriam sido violados ou objeto de interpretação divergente pelos acórdãos confrontados, motivo pelo qual é o caso de incidência do óbice da Súmula 284/STF.
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+I.
+EMENTA
