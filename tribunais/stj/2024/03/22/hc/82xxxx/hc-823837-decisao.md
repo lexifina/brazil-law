@@ -1,0 +1,32 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de fl. 267 (e-STJ):
+"Trata-se de habeas corpus com pedido de liminar imp etrado em favor de EMANUEL GERALDO CAMPOS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal 1500475-44.2021.8.26.0583).
+O paciente foi condenado à pena de 5 anos de reclusão em regime semiaberto, além do pagamento de 500 dias-multa, por infração ao art. 33, caput, da Lei 11.343/2006.
+O recurso de apelação interposto pela defesa foi desprovido pelo Tribunal de origem.
+O impetrante alega: a) insuficiência probatória, principalmente quanto à individualização das condutas; b) preenchimento dos requisitos necessários para a aplicação do tráfico privilegiado; e c) possibilidade de desclassificação para o art. 28 da Lei de Drogas.
+Requer liminar para que seja expedido contramandado de prisão e, definitivamente, deferimento da ordem para absolvição do paciente. Subsidiariamente, desclassificação da conduta para o art. 28 da Lei de Drogas ou reconhecimento do tráfico privilegiado."
+A liminar foi indeferida pelo Min. João Batista Moreira (Desembargador Convocado do TRF1) (e-STJ fls. 267-269).
+As informações foram prestadas às e-STJ fls. 276-287 e 288-326.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ ou pela denegação da ordem (e-STJ fls. 328-333).
+Intimada para se manifestar, a defesa notícia que remanesce o interesse no julgamento desta impetração (e-STJ fls. 348-355).
+É o relatório.
+Decido.
+De acordo com as informações prestadas, em 27/03/2023 houve o trânsito em julgado do acórdão combatido (e-STJ fl. 279), razão pela qual o presente writ é substitutivo de revisão criminal e não pode ser conhecido, nos termos da jurisprudência desta Corte.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. WRIT IMPETRADO CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. AUSÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. TEMAS NÃO DEBATIDOS PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. TEMAS DEBATIDOS EM CONSONÂNCIA COM O ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE.
+1. Não deve ser conhecido o writ que se volta contra sentença condenatória já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte Superior. Nos termos do art. 105, I, e, da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, as revisões criminais e as ações rescisórias de seus julgados. Precedentes.
+2. A Jurisprudência do Superior Tribunal de Justiça "é pacífica no sentido de que, ainda que se trate de matéria de ordem pública, é imprescindível o seu prévio debate na instância de origem para que possa ser examinada por este Tribunal Superior (AgRg no HC 530.904/PR, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 24/9/2019, DJe de 10/10/2019) - (AgRg no HC n. 726.326/CE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 28/3/2022).
+ ..
+3. Agravo regimental improvido.
+(AgRg no HC n. 842.953/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/2/2024, DJe de 8/2/2024 - grifos acrescidos).
+O entendimento é de elevada importância, porquanto deve-se utilizá-lo com fito de preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+Por fim, anoto que a concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que não se verifica de plano na hipótese dos autos, conforme se obtém da fundamentação lançada na origem sobre a controvérsia (e-STJ fls. 76-78):
+"Assim, vê-se que não apenas a natureza, a quantidade considerável de droga e a forma como estava embalada (mais de 400g de maconha em um tijolo e mais um pedaço), os firmes e coesos depoimentos dos policiais, tudo somado ao contexto da abordagem que se deu após informação de populares sobre a prática de tráfico de drogas pelo réu Júlio César, que abastecia a biqueira local com a droga que era armazenada por Emanuel em sua residência, o flagrante do recebimento da sacola com o entorpecente por Júlio César, que tentou devolver o pacote, jogando-o para dentro do veículo do visitante, que confessou o crime na polícia em comparsaria com Júlio aquele, embora tenha se retratado em juízo, justificam o reconhecimento da prática delitiva por ambos.
+Para configuração do crime de narcotráfico imputado aos acusados, não se exige qualquer ato de mercancia, bastando que o agente traga consigo, tenha em depósito ou guarde a substância entorpecente, não se exigindo a traditio, para consumação do delito, salientando que eventual condição de usuário não afasta, por si só, a de traficante.
+Pondere-se, ainda, que instaurado incidentes de dependência química, constatou-se que os réus não apresentavam quaisquer transtornos ou dependência a drogas, e são plenamente capazes.
+Desta forma, a responsabilidade deles está comprovada pela robustez do conjunto probatório carreado aos autos e nenhum elemento trazido foi capaz de amparar suas defesas, de modo a macular a certeza da demonstração das condutas ilícitas, caracterizadoras do crime do art. 33, caput, da Lei 11.343/06, e a condenação era mesmo de rigor, afastando-se os pleitos absolutório e de desclassificação do delito.
+ ..
+Não era mesmo hipótese de aplicar-se o redutor do § 4º do art. 33 da Lei nº 11.343/06, que é facultativo e não obrigatório, cabendo a magistrada ponderar o comportamento do réu para sua aplicação. No caso presente, nenhum dos dois acusados preenchem os requisitos legais. Guardavam quantidade considerável de maconha e por diversas vezes foram apontados pelos usuários de drogas como os responsáveis pelo abastecimento da biqueira, demonstrando que não era um neófito na prática delitiva. Além disso, Júlio César é reincidente, não preenchendo os requisitos legais."
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
