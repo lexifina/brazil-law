@@ -1,0 +1,9 @@
+DECISÃO
+ALESSANDRO PEREIRA DA SILVA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 0104003-98.2023.8.19.0000, em que foi mantida sua prisão preventiva.
+Depreende-se dos autos que o paciente foi "denunciado pela afirmada infração ao artigo 155, caput, do CP,  e  estaria preso desde setembro de 2023" (fl. 37).
+Asseriu a defesa, perante a Corte de origem, "ser o paciente analfabeto, que não se poderia afirmar que no momento de sua liberdade, tenha o mesmo tido ciência inequívoca das condições, portanto, não poderia suportar uma prisão injusta; que haveria vícios nas tentativas de sua intimação para que este viesse em juízo justificar o descumprimento do livramento condicional, o que acarretou seu não comparecimento para justificativa daquele descumprimento" (fl. 37).
+Sobre o ponto, salienta a Corte de origem que "se tem que, na forma da certidão em fls. 230, atestando que o Paciente teria cumprido a medida até novembro de 2020, de se verificar que o Paciente cumpriu a determinação judicial por período de tempo (de julho a novembro de 2020), o que permite entender que o Paciente, ainda que analfabeto, teria tido ciência das suas obrigações quanto o modo e local de cumprimento da medida cautelar imposta pela d. autoridade apontada como coatora" (fl. 40, destaquei).
+A esse respeito, compreende o Superior Tribunal de Justiça que " o s arts. 282, § 4.º e 312, § 1.º, ambos do Código de Processo Penal, autorizam a prisão preventiva em caso de descumprimento de quaisquer das obrigações impostas por força de outras medidas cautelares" (AgRg no RHC n. 177.112/MA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 22/6/2023.)
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
