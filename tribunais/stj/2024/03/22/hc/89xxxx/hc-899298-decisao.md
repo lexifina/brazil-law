@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUIS HENRIQUE DA SILVA MESSIAS em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado por infração ao artigo 33, caput, da Lei nº 11.343/06, às penas de 05 (cinco) anos de reclusão, em regime inicial semiaberto, e 500 (quinhentos) dias-multa.
+Irresignadas, a defesa e a acusação interpuseram recurso de apelação ao Tribunal de origem, que deu provimento somente ao apelo ministerial, para fixar o regime fechado, para o início de cumprimento da pena.
+No presente writ, o impetrante sustenta a ilegalidade na dosimetria da pena, sob a alegação de que não houve fundamentação idônea a justificar a não aplicação da redutora capitulada no parágrafo 4º, do art. 33 da Lei n. 11.343/06.
+Requer, ao final, a concessão da liminar, para incidir o privilégio descrito no parágrafo 4º, do art. 33 da Lei n. 11.343/06, bem como a readequação do regime prisional.
+É o relatório.
+Decido.
+As disposições previstas nos arts. 64, III, e 202, do Regimento Interno do Superior Tribunal de Justiça assentam a faculdade ao Relator de decidir liminarmente a pretensão que se conforme com súmula ou com a jurisprudência consolidada dos Tribunais Superiores.
+O impetrante sustenta a ilegalidade na dosimetria da pena, sob a alegação de que não houve fundamentação idônea a justificar a não aplicação da redutora capitulada no parágrafo 4º, do art. 33 da Lei n. 11.343/06.
+Quanto aos punctum saliens, o Tribunal de origem, quando do julgamento do recurso de apelação, assim se pronunciou, in verbis:
+Na primeira fase, a pena-base foi fixada no piso legal, ou seja, 5 anos de reclusão e 500 dias-multa.
+Na segunda fase, embora presente a atenuante da confissão, a pena não pode baixar aquém do mínimo legal, a teor da Súmula 231 do E. Superior Tribunal de Justiça.
+Na derradeira etapa, inalterada a sanção, à míngua de causas de aumento ou diminuição.
+Por fim, o apelante, conforme bem decidido, não faz jus à minorante do artigo 33, § 4º, da Lei nº. 11.343/06.
+À aplicação do redutor, exige o dispositivo legal apontado que o agente, cumulativamente, seja primário, ostente bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa.
+Não é o caso de Luis Henrique.
+De fato, como bem anotado pela r. sentença, a expressiva quantidade do entorpecente apreendido - 1.290 porções de maconha, com peso líquido de 2.344,46gramas, 19 porções de cocaína, com peso líquido de 14,18 gramas, e 37 porções de cocaína sob a forma de crack, com peso líquido de 13,2 gramas -, de si, aponta para a intensa dedicação do apelante às atividades criminosas, o que obsta a incidência do redutor do artigo 33, § 4º, da Lei nº. 11.343/2006.
+Não é Luis Henrique, à toda evidência, o traficante principiante, a quem se destina o apenamento mais brando.
+O parágrafo 4º, do art. 33, da Lei n. 11.343/06, dispõe que as penas do crime de tráfico de drogas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+Na ausência de indicação pelo legislador das balizas para o percentual de redução previsto no art. 33, § 4º, da Lei n. 11.343/06, as circunstâncias da apreensão das drogas ou da prisão em flagrante, podem ser utilizadas na definição de tal índice ou, até mesmo, no impedimento da incidência da minorante, quando evidenciarem a dedicação do agente ao tráfico de entorpecentes.
+In casu, forçoso reconhecer a ocorrência de flagrante ilegalidade, eis que a não aplicação da redutora capitulada no parágrafo 4º, do art. 33 da Lei n. 11.343/06 foi estabelecida sem a devida fundamentação, pois a exarada apreensão de grande quantidade de entorpecentes, sem remissão às peculiaridades do caso em comento, não demonstra que o paciente se dedicava às atividades criminosas, nem que integrava organização criminosa.
+A grande quantidade de entorpecentes apreendidos somente pode ser considerada para o afastamento da minorante do tráfico privilegiado se houver a indicação de elementos concretos adicionais. Inadmitido, portanto, conjecturas e suposições acerca da dedicação ou integração com organização criminosa.
+A propósito: A conclusão do Tribunal a quo de que o paciente se dedica à atividade criminosa está alicerçada, precipuamente, na quantidade de droga apreendida, elemento que, por si só, não é capaz de obstar a aplicação do § 4º do art. 33 da Lei de Drogas. (AgRg no HC n. 823.740/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/10/2023, DJe de 27/10/2023.)
+Desse modo, forçoso reconhecer a possibilidade de aplicação da causa especial de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/06 no patamar de 1/5 (um quinto), ante a grande quantidade de drogas apreendidas.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. AÇÃO MANDAMENTAL DESPROVIDA DE EFEITO DEVOLUTIVO. TUTELA DO DIREITO DE LOCOMOÇÃO. MINORANTE. INCIDÊNCIA NO PATAMAR MÁXIMO. POSSIBILIDADE. BIS IN IDEM CONFIGURADO. EXCLUSÃO DO AUMENTO DA PENA-BASE. AUSÊNCIA DE ILEGALIDADE. INTELIGÊNCIA DO ART. 42 DA LEI N. 11.343/2006. AGRAVO REGIMENTAL DESPROVIDO.
+1. O habeas corpus não goza de efeito devolutivo, próprio de recursos, como a apelação, sendo possível a este Tribunal, nos limites da atribuição constitucional para julgar o writ, apenas identificar ilegalidades ou abusos de poder que molestem ou ameacem molestar o direito de locomoção no âmbito de ação penal, inquérito policial ou procedimento de investigação criminal.
+2. As instâncias ordinárias incorreram em bis in idem ao valorar a natureza e a quantidade de drogas tanto na primeira quanto na terceira fases da dosimetria da pena, cabendo a este juízo apenas corrigir a distorção largamente apontada tanto pela jurisprudência do Supremo Tribunal Federal quanto desta Corte.
+3. Não é possível atender o pleito ministerial de decotar o aumento promovido na pena-base, pois não há qualquer ilegalidade no recrudescimento da basilar pela natureza e quantidade de drogas, haja vista o previsto no art. 42, da Lei n. 11.343/2006. Imperioso, pois, reconhecer a minorante do tráfico de drogas na sua fração máxima, a míngua de outros fundamentos que impedissem a sua incidência.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 866.521/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+No que tange ao regime inicial de cumprimento de pena, cumpre registrar que o Plenário do col. Supremo Tribunal Federal declarou inconstitucional o art. 2º, § 1º, da Lei n. 8.072/90 - com redação dada pela Lei n. 11.464/07, não sendo mais possível, portanto, a fixação de regime prisional inicialmente fechado com base no mencionado dispositivo. Para tanto, devem ser observados os preceitos constantes dos arts. 33 e 59, ambos do Código Penal
+Nesse compasso, considerando a primariedade e o quantum de pena estabelecido, o paciente faz jus ao regime aberto para início de cumprimento de pena, ex vi do art. 33, § 2º, alínea c, e § 3º, do Estatuto Penal, bem como de acordo com o entendimento constante das Súmulas n. 718 e n. 719 do Supremo Tribunal Federal e da Súmula n. 440 desta Corte Superior.
+Preenchidos os requisitos do art. 44 do Código Penal, quais sejam, pena não superior a 4 (quatro) anos, o crime não foi cometido com violência ou grave ameaça à pessoa, réu não reincidente e circunstâncias judiciais favoráveis, o paciente faz jus à substituição da pena privativa de liberdade por restritivas de direitos, em moldes a serem especificados pelo Juízo da Execução Penal.
+Ante o exposto, concedo o habeas corpus, para estabelecer a sanção em 04 anos de reclusão e 400 dias-multa, bem como fixar o regime prisional aberto, para o início do cumprimento da pena e determinar a conversão da pena privativa de liberdade por restritivas de direitos, nos moldes do artigo 44 do Código Penal, a ser estabelecida pelo Juízo a quo.
+Comunique-se.
+Publique-se.
+Intimem-se.
+EMENTA
