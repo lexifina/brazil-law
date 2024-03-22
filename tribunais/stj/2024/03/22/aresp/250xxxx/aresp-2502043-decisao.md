@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por ausência de demonstração da afronta aos arts. 489, §1º, IV e 1.022 do CPC/2015 e incidência das Súmulas n. 5 e 7 do STJ e 284 do STF (e-STJ fls. 395/398).
+O acórdão recorrido está assim ementado (e-STJ fls. 290/299):
+DIREITO PROCESSUAL CIVIL E DIREITO CIVIL. CONTRATO LISTA TELEFÔNICA QUE SE PRETENDE ANULAR. APLICAÇÃO DA TEORIA DA APARÊNCIA. APELAÇÃO NÃO PROVIDA. - Alegou a apelante que o Sr. Jair Antônio não estava investido com poderes para representá-la, pugnando pela anulação do instrumento contratual, mas não é o que se verifica das provas anexadas aos autos. - Isto porque, para comprovar suas alegações, a LISTEL juntou contrato anterior, assinado pelo próprio Sr. Jair Antônio, o qual teria sido cumprido integralmente por ambas as partes no que diz à prestação do serviço e ao pagamento. - Indiscutível que o serviço foi prestado. Ademais, a primeira parcela do pagamento foi devidamente paga, o que demonstra a aceitação do contrato pela parte contratante. - Tem-se por ilação que, de fato, como bem destacado pelo juízo de primeiro grau, trata-se de um caso de aplicação da TEORIA DA APARÊNCIA. - O contrato que se pretende anular foi assinado por pessoa que se apresentou como gerente do estabelecimento e que já tinha celebrado contrato anterior, não havendo que se falar em reforma da decisão do juízo a quo. - Negado provimento ao recurso, com a manutenção da sentença objurgada em todos os seus termos.
+Os embargos de declaração foram rejeitados (e-STJ fls. 334/339).
+No recurso especial (e-STJ fls. 345/360), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente apontou dissídio jurisprudencial e alegou ofensa aos arts. 489, § 1º, IV e 1.022 do CPC/2015, alegando omissão no acórdão recorrido acerca das informações prestadas pela testemunha na audiência de instrução e julgamento. Nesse contexto, defende o seguinte (e-STJ fl. 354):
+(..) se o depoimento fosse devidamente analisado, tanto a sentença quanto o acórdão teriam resultados completamente distintos.
+Argumentou que seria do conhecimento da própria recorrida que o contrato foi firmado por um preposto que não possuía poderes para assiná-lo, sendo informada de que o contrato poderia ser rescindido a qualquer momento. Sustentou que, logo após o pagamento da primeira parcela do contrato, enviou uma notificação extrajudicial à recorrida, demonstrando sua vontade de rescindi-lo.
+Não foram apresentadas contrarrazões (e-STJ fl. 384).
+No agravo (e-STJ fls. 401/412), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 419).
+É o relatório.
+Decido.
+Inexiste afronta aos arts. 489, §1º, IV e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à tese, o Tribunal de origem assim se manifestou (e-STJ fls. 297/298):
+Analisando os autos, constata-se que o contrato que se pretende anular, fls. 44 da Ação Anulatória, foi assinado em nome da CHURRASCARIA DALLAS LTDA pelo Sr. JAIR ANTÔNIO KONRAD, que se apresentou como GERENTE desta empresa, na data de 06 de outubro de 2000.
+Em que pese a Churrascaria informe que o Sr. Jair Antônio não estava investido com poderes para representá-la, pugnando pela anulação do instrumento contratual, não é o que se verifica das provas anexadas aos autos.
+Isto porque, para comprovar suas alegações, a LISTEL juntou, às fls. 53, contrato anterior, assinado pelo próprio Sr. Jair Antônio Konrad, em 31/05/2000, o qual teria sido cumprido integralmente por ambas as partes no que diz à prestação do serviço e ao pagamento.
+Indiscutível que o serviço foi prestado. Ademais, a primeira parcela do pagamento foi devidamente paga, o que demonstra a aceitação do contrato pela parte contratante.
+Tem-se por ilação que, de fato, como bem destacado pelo juízo de primeiro grau, trata-se de um caso de aplicação da TEORIA DA APARÊNCIA.
+Ora, o contrato que se pretende anular foi assinado por pessoa que se apresentou como gerente do estabelecimento e que já tinha celebrado contrato anterior, não havendo que se falar em reforma da decisão do juízo a quo.
+Extrai-se ainda do acórdão que julgou os embargos de declaração (e-STJ fl. 336):
+Nota-se que todas as matérias levantadas no recurso de apelação foram tratadas ao longo do voto e do acórdão embargado, em especial, quando se decidiu sobre a legitimidade do contrato celebrado entre as partes e, obrigações decorrentes do negócio jurídico.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em nenhum dos vícios previstos nos arts. 489 e 1.022 do CPC/2015.
+Modificar o entendimento do acórdão impugnado quanto à validade do contrato celebrado, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Outrossim, para o conhecimento do recurso especial com base na alínea "c" do permissivo constitucional, seria indispensável demonstrar, por meio de cotejo analítico, que as soluções encontradas tanto na decisão recorrida quanto nos paradigmas tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. Contudo, a parte não se desobrigou desse ônus, nos termos do art. 1.029, § 1º, do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial. Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
