@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por VALMET CELULOSE, PAPEL E ENERGIA LTDA. e de recurso especial interposto pela FAZENDA NACIONAL contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado:
+TAXA DE UTILIZAÇÃO DO SISCOMEX. PORTARIA MF Nº 257, DE2011. REAJUSTE DE VALORES. EXCESSO.
+É excessivo o reajuste aplicado aos valores da taxa de utilização do SISCOMEX pela Portaria MF nº 257, de 2011, cabendo a glosa de tal excesso (fl. 318).
+Em 13/8/2019, o então relator Ministro Napoleão Nunes Maia Filho homologou o pedido de desistência do recurso especial interposto pela Fazenda Nacional. Foi certificado o trânsito em julgado da decisão em 10/10/2019 (fl. 533).
+Ato contínuo, o Supremo Tribunal Federal negou provimento ao recurso extraordinário interposto pela empresa contribuinte, determinando a devolução dos autos ao Superior Tribunal de Justiça para o julgamento do recurso extraordinário como especial, nos termos do art. 1.033 do Código de Processo Civil (fls. 572/576).
+Ocorre que, em que pese à decisão do Supremo Tribunal Federal proferida em 2019, aquela Corte, posteriormente, em 2020, reviu o seu entendimento sobre a questão a ponto de criar um precedente vinculante no julgamento do RE 1.258.934, em repercussão geral (Tema 1.085), relator Ministro Dias Toffoli, ficando definida a seguinte tese: "A inconstitucionalidade de majoração excessiva de taxa tributária fixada em ato infralegal a partir de delegação legislativa defeituosa não conduz à invalidade do tributo nem impede que o Poder Executivo atualize os valores previamente fixados em lei de acordo com percentual não superior aos índices oficiais de correção monetária".
+Em razão disso, não parece ser o caso de cumprir-se a providência do art. 1.033 do Código de Processo Civil (CPC), mas de analisar a matéria na forma apresentada pela parte recorrente em seu recurso extraordinário, o que permite a aplicação do art. 1.040 do Código de Processo Civil (CPC) e a consequente restituição d os autos à origem para que seja realizado o juízo de conformação com o precedente do Supremo Tribunal Federal.
+Ante o exposto, determino a baixa dos autos ao Tribunal de origem para que seja realizado o juízo de conformação.
+Publique-se. Intimem-se.
+EMENTA
