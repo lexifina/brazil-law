@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos em face de decisão monocrática, de minha relatoria, cuja ementa é a seguinte:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. JUROS MORATÓRIOS. LEI 11.960/2009. NATUREZA PROCESSUAL. APLICAÇÃO AOS PROCESSOS EM CURSO. AUSÊNCIA DE VIOLAÇÃO À COISA JULGADA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+A parte embargante suscita questão de ordem afirmando que houve juízo de retratação na origem, que resultou na admissibilidade do recurso especial dos ora embargantes na origem. Aduz que o seu recurso especial se encontra sobrestado na origem, em razão do julgamento do Tema 1170/STF e foi equivocadamente apreciado no STJ.
+Requer o acolhimento dos embargos.
+Sem impugnação. É o relatório.
+Nos termos da Lei, cabem embargos de declaração contra qualquer decisão judicial para: I - esclarecer obscuridade ou eliminar contradição; II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; III - corrigir erro material (art. 1.022 do CPC/2015).
+Obscura a decisão quando imprecisa, de difícil ou impossível compreensão. Contraditória quando contém, em si, afirmações ou fundamentos que estão em oposição ou que levam a resultados distintos ou inversos. Omissa quando faltar pronunciamento sobre ponto ou questão, isso é, ainda que não tenham controvertido as partes (questão), mas apenas uma delas tenha suscitado o fundamento (ponto), ou a respeito do qual deva o órgão jurisdicional pronunciar-se de ofício, ou em razão de requerimento da parte (cf. MEDINA, José Miguel Garcia. Curso de Direito Processual Civil Moderno  livro eletrônico . 4 ed. São Paulo: Revista dos Tribunais, 2018).
+De fato, observo existir decisão na origem que, em novo exame da admissibilidade recursal, julgou prejudicados o agravo interno e agravo em recurso especial da parte ora embargante (fl. e-STJ 334/335). Ato contínuo, determinou o sobrestamento, na origem, do recurso especial até o julgamento do Tema 1170/STF.
+Ante o exposto, acolho os embargos de declaração para, em juízo de retratação, tornar sem efeito a decisão embargada de fls. e-STJ 363/366 e, após transitar em julgado o recurso da parte contrária, determinar o retorno dos autos à origem a fim de possibilitar, se for o caso, o juízo de conformidade previsto no inciso II do art. 1.040, do CPC, quanto ao recurso especial da parte ora embargante.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. SERVIDOR PÚBLICO. TEMA 1170/STF. RECURSO ESPECIAL SOBRESTADO NA ORIGEM. EMBARGOS ACOLHIDOS PARA TORNAR SEM EFEITO A DECISÃO EMBARGADA E DETERMINAR O RETORNO DOS AUTOS À ORIGEM.
