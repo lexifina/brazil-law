@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto por MARCOS VINÍCIUS ALVES DA SILVA contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+"Ação rescisória. Cumprimento de sentença em ação de cobrança de cotas condominiais. Impugnação ao cumprimento parcialmente acolhida para afastar parte do valor apresentado. Agravo interposto pelo devedor provido em parte apenas para determinar a impossibilidade de compensação das custas e honorários advocatícios devidos em caso de sucumbência recíproca, conforme preconiza o art.85, §14 do CPC. Autor alega violação manifesta de normas jurídicas (artigo 966, V, do CPC) pelo v. acórdão do agravo de instrumento. Assistência judiciária deferida na fase de conhecimento que se estende a todas as instâncias e a todos os atos do processo, sendo desnecessária a renovação do pedido. Prejudicado o pedido de atribuição de efeito suspensivo, em razão do julgamento ora realizado. Alegação de violação manifesta de normas jurídicas (artigo 966, V, do CPC). Autor que apenas busca rediscutir questões que foram decididas. Ausência de interesse, na modalidade adequação, que leva à extinção do pedido sem análise do mérito. Indeferimento da inicial e consequente extinção do processo sem resolução do mérito. Art. 330, III e art. 485, I, ambos do CPC" (e-STJ fl. 1.325).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 1.345/1.350).
+No recurso especial, o recorrente alega, além de divergência jurisprudencial, violação do arts. 330, III, 489, § 1º, IV, 932, parágrafo único, 966, V, 968, § 3º, 970, 973 e do Código de Processo Civil, e 24 da Lei nº 4.591/1964, sustentando: (i) omissão do acórdão quanto à necessidade de apresentação das atas assembleares para demonstração da exigência das cotas condominiais; (ii) impossibilidade de indeferimento da inicial da rescisória mediante a análise do mérito da ação, e (iii) que a ausência das atas das assembleias do condomínio retira a exigibilidade da cobrança das cotas.
+Assinala que
+"(..) as Atas das Assembleias constituem-se em lastreadoras dos valores cobrados e sem elas torna-se impossível averiguar a regularidade ou a abusividade das cobranças, emergindo daí a conclusão óbvia adotada pelo Superior Tribunal de Justiça, de que a ausência de suas apresentações com a petição inicial da ação de cobrança ou mesmo no Cumprimento de Sentença, obsta o desenvolvimento válido e regular do processo" (e-STJ fl. 1.396)
+Sem as contrarrazões (e-STJ fl. 1.427), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de Justiça manifestou-se expressamente quanto à apresentação das atas, conforme se verifica do seguinte trecho do acórdão:
+"No mais, é pacífica a jurisprudência no sentido de ser dispensável a apresentação de ata de assembleia com a aprovação do valor da taxa condominial para o ajuizamento de demandas que envolvam cobrança e/ou execução de condomínio. E tal entendimento se justifica pela necessidade de favorecer a coletividade condominial e considerando o dever legal do condômino de concorrer no rateio das despesas condominiais, que faz presumir a princípio, legítima sua cobrança, cabendo ao condômino o ônus de comprovar a irregularidade das despesas" (e-STJ fls. 1.329/1.330).
+Não há falar, portanto, em omissão ou violação dos arts. 489 e 1.022 do CPC.
+No que diz respeito ao indeferimento da rescisória, a Corte local assim se manifestou:
+"Apesar de o autor invocar o inciso V do dispositivo legal, arguindo que o v. acórdão deve ser rescindido por violar manifestamente normas jurídicas, na verdade, o que se verifica é a pretensão do autor em rediscutir as questões decididas no v. acórdão rescindendo, além das decisões pretéritas, proferidas nos autos da ação de cobrança da qual decorre o cumprimento de sentença.
+Nesses termos, apresenta-se o pedido rescisório como sucedâneo de recurso, ainda que já esgotada completamente a via recursal, o que não é da natureza e vocação da ação rescisória, porque aqui não cabe fazer qualquer juízo de valor sobre os termos do que foi julgado, limitando-se o exame do pedido rescisório à verificação objetiva das hipóteses apontadas no artigo 966 do Código de Processo Civil.
+E, de fato, não está presente nenhuma das hipóteses taxativas do citado artigo.
+A ação rescisória, conforme já destacado, não pode servir como um sucedâneo recursal para rediscutir o mérito da decisão, muito menos servir como via alternativa para rediscutir o mérito quando esgotados os recursos competentes.
+Deve-se sempre ter em mente que a ação rescisória quebra com um dos pressupostos básicos da própria Constituição Federal, a segurança jurídica, rompendo com a coisa julgada material, devendo sua análise ser a mais criteriosa necessária" (e-STJ fl. 1.329).
+Como se observa, o julgado do Tribunal local está em consonância com a jurisprudência desta Corte, a saber:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO RESCISÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DO AUTOR.
+1. Não há falar em ofensa aos arts. 489 e 1022 do CPC/15, porquanto o Tribunal a quo foi claro ao se manifestar sobre cabimento da ação rescisória, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. Inexiste violação ao princípio da não-surpresa, porquanto as questões relativas à análise dos pressupostos processuais e das condições da ação constituem decorrência lógica da propositura da demanda inicial, que são analisados à luz da teoria da asserção, a partir da narrativa da petição inicial.
+2.1. Consoante entendimento desta Corte, "admite-se o indeferimento liminar da petição inicial de ação rescisória quando constatado o descabimento de plano, a exemplo da flagrante inexistência de violação manifesta de dispositivo legal." (AgInt no AREsp n. 2.106.266/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022.).
+3. A ação rescisória fundada no 966, V, do CPC/15 "pressupõe violação, frontal e direta, da literalidade da norma jurídica, de forma que seja possível extrair a ofensa literal da norma do próprio conteúdo do julgado que se pretende rescindir, entendimento mantido por esta Corte Superior sob a égide do atual Código de Processo Civil" (AgInt na AR 6.562/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 11/12/2019, DJe 16/12/2019), não podendo a ação autônoma de impugnação ser utilizada como sucedâneo recursal.
+Precedentes.
+4. Agravo interno desprovido" (AgInt no AREsp n. 2.250.065/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/10/2023, DJe de 25/10/2023).
+Por fim, no que concerne à necessidade de juntada de atas, verifica-se que o artigo apontado como violado apenas prescreve a necessidade de realização de assembleias nos condomínios, não amparando a pretensão do recorrente, de exigir a juntada das cópias das atas na ação de cobrança das cotas, o que atrai o óbice da Súmula nº 284/STF.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. INTELIGÊNCIA DA SÚMULA 284/STF. VIOLAÇÃO DE DISPOSITIVO DE REGIMENTO INTERNO. DESCABIMENTO. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO ANTECIPADO DA LIDE. SUFICIÊNCIA PROBATÓRIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Embargos à execução.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Não se conhece do recurso especial quando o dispositivo legal indicado como violado é incapaz de amparar a pretensão posta, configurando ausência de comando normativo. Inteligência da Súmula 284/STF.
+4. A interposição de recurso especial não é cabível quando ocorre alegação de violação de dispositivo de regimento interno ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+5. A jurisprudência do STJ é no sentido de que, sendo o juiz o destinatário da prova, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, o entendimento pelo julgamento antecipado da lide não acarreta cerceamento de defesa.
+Precedentes.
+6. Modificar a conclusão do Tribunal de origem no sentido de que é desnecessária a produção de outras provas para o julgamento da lide implica reexame de fatos e provas.
+7. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial é inadmissível.
+8. Agravo interno não provido" (AgInt no AREsp n. 1.801.653/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 26/2/2024, DJe de 28/2/2024).
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa parte, negar-lhe provimento.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, d o Código de Processo Civil, pois não houve fixação na origem (e-STJ fl. 1.330).
+Publique-se.
+Intimem-se.
+ EMENTA
