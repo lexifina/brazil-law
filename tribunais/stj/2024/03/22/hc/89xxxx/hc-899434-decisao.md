@@ -1,0 +1,15 @@
+DECISÃO
+Buscando a alteração do regime inicial e a substituição da privativa de liberdade por restritivas de direitos da reprimenda aplicada a Lucimere Oliveira Santos Teixeira, decorrente da condenação havida pela prática do crime de tráfico de drogas, o impetrante requer, inclusive em caráter liminar, que a paciente inicie o cumprimento da pena de 2 anos e 6 meses de reclusão, em regime aberto, com a correspondente substituição da privativa de liberdade por restritivas de direitos (Processo n. 1500700-18.2019.8.26.0621, da 2ª Vara Judicial de Aparecida/SP).
+Esta impetração volta-se contra o acórdão proferido pelo Tribunal de Justiça de São Paulo no julgamento do apelo defensivo.
+Depreende-se do AREsp n. 2.523.037/SP que a condenação transitou em julgado no dia 5/3/2024 - não conhecido pela Presidência desta Casa.
+É o relatório.
+Além de o writ ser substitutivo de revisão criminal, nã o enxergo flagrante ilegalidade na fixação do regime mais gravoso para o início do cumprimento da pena imposta à paciente, uma vez que amparado em fundamento concreto, decorrente da existência de circunstância judicial valorada negativamente (natureza da droga apreendida (cocaína) e grande quantidade (5,93 kg) - fl. 40.
+De igual modo, fora negada a substituição da pena privativa de liberdade por restritivas de direitos (fls. 40/41): as condições em que o crime foi cometido não permitem a conversa da pena privativa de liberdade por restritivas de direitos, considerando a natureza e quantidade de droga apreendida.
+A conclusão a que chegaram as instâncias antecedentes não destoa do entendimento do Superior Tribunal de Justiça de que, verificada a existência de circunstância judicial negativa, revela-se idônea a fixação do regime inicial semiaberto, ainda que a pena final imposta tenha sido inferior a 4 anos de reclusão, nos termos do art. 33, § 3º, c/c o art. 59, ambos do Código Penal, e da Súmula 440/STJ (AgRg no AREsp n. 1.805.975/SP, Ministra Laurita Vaz, Sexta Turma, DJe 19/10/2021).
+Assim, presente circunstância judicial desfavorável, inviável o abrandamento do regime inicial semiaberto para o aberto, bem como não há ilegalidade na negativa de substituição da pena privativa de liberdade por restritiva de direitos, nos termos do disposto nos arts. 33, § 3º, e 44, III, do Código Penal (HC n. 394.410/SC, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 9/6/2017).
+No mesmo sentido, AgRg no HC n. 856.541/MS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 29/2/2024; AgRg no AREsp n. 2.147.922/GO, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 30/6/2023; e AgRg no AREsp n. 2.117.362/SP, Ministra Laurita Vaz, Sexta Turma, DJe 27/6/2023.
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO PRIVILEGIADO. CONDENAÇÃO DEFINITIVA. WRIT SUCEDÂNEO DE REVISÃO CRIMINAL. INVIABILIDADE. PENA-BASE ACIMA DO MÍNIMO LEGAL. REGIME PRISIONAL MAIS GRAVOSO. SEMIABERTO. ADEQUAÇÃO. SUBSTITUIÇÃO DA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. INVIABILIDADE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ não conhecido.
