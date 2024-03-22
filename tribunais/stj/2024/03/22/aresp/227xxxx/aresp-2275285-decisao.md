@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da ausência de demonstração da ofensa ao dispositivos legais. Além d isso, houve incidência da Súmula n. 7 do STJ, bem como ausência de similitude fática (e-STJ fls. 389/391).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 298):
+APELAÇÃO - PLANO DE SAÚDE OBRIGAÇÃO DE FAZER - AÇÃO JULGADA PARCIALMENTE PROCEDENTE - VALOR ATRIBUÍDO À CAUSA QUE CORRESPONDE À PRETENSÃO A TÍTULO DE DANO MORAL - IMPUGNAÇÃO REJEITADA - AUTORA COM ADENOCARCINOMA OBSTRUTIVO DE COLON - INDICAÇÃO MÉDICA PARA REALIZAÇÃO DE CIRURGIA COM ONCOLOGISTA ESPECIALIZADO EM CÓLON E RETO - SOLICITAÇÃO DE MÉDICA CREDENCIADA - ENCAMINHAMENTO COM EXTREMA URGÊNCIA, EM 29/01/2021 - ALEGAÇÃO DA AUTORA DE INEXISTÊNCIA DE MÉDICO ESPECIALIZADO E LOCAL PARA REALIZAÇÃO DA CIRURGIA - PRETENSÃO DE COMPELIR O PLANO DE SAÚDE A CUSTEAR CIRURGIA NO HOSPITAL A. C. CAMARGO, NÃO CREDENCIADO - PLANO DE SAÚDE, INTIMADO, INDICOU CIRURGIÃO ONCOLOGISTA E HOSPITAL CREDENCIADO, SEM COMPROVAR AGENDAMENTO DA CIRURGIA - AUSÊNCIA DE PROVA DE QUE O MÉDICO SERIA ESPECIALISTA EM CIRURGIA DE CÓLON E RETO, CONFORME INDICAÇÃO MÉDICA - PLANO DE SAÚDE QUE INFORMA NA APELAÇÃO QUE ATÉ A PRESENTE DATA A CIRURGIA NÃO SE REALIZOU, POR CAUSA DE REALIZAÇÃO DE EXAMES PRÉ-OPERATÓRIOS - URGÊNCIA NÃO OBSERVADA - AÇÃO AJUIZADA EM JANEIRO DE 2021, SEM NOTÍCIA DE AGENDAMENTO DE CIRURGIA - COBERTURA OBRIGATÓRIA - PRECEDENTES DESTA CORTE - INTELIGÊNCIA DO ART. 35-F DA LEI 9.656/98 - DEVER DE CUSTEIO EM HOSPITAL PARTICULAR, DE FORMA INTEGRAL, DIANTE DA FALTA DE INDICAÇÃO DE ESPECIALISTA DA REDE CREDENCIADA - DANO MORAL - OCORRÊNCIA - CIRURGIA INDICADA COM EXTREMA URGÊNCIA, SEM NOTÍCIA DE SEU AGENDAMENTO ATÉ A PRESENTE DATA - INDENIZAÇÃO ARBITRADA EM R$10.000,00 - MANUTENÇÃO - VALOR QUE NÃO CABE REDUÇÃO OU MAJORAÇÃO - SENTENÇA MANTIDA - NEGADO PROVIMENTO AOS RECURSOS
+Nas razões do recurso especial (e-STJ fls. 307/329), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte alegou violação dos seguintes dispositivos legais:
+(i) arts. 4º da Lei n. 9.961/2000 e 1º, § 1º, "b", 12, VI, 17-A e 35-C da Lei n. 9.656/1998, porque (e-STJ fls. 313/316):
+ ..  não pode a recorrente ser obrigada a custear procedimentos fora da rede credenciada estabelecida em contrato, visto que, existem profissionais na rede credenciada capazes de realizar o procedimento requerido pela Recorrida, de modo que ao obrigar a Operadora a custear procedimento realizado de forma particular é criada evidente violação as normas legais e contratuais  ..
+para que o reembolso de tratamento realizado em estabelecimento particular seja integral, é de rigor que se comprove a urgência ou emergência, bem como a falta de disponibilidade de rede credenciada, o que certamente não foi observado pelo v. acórdão  ..
+(ii) arts. 104, 138, 166 e 422 do CC/2002, pois (e-STJ fl. 318):
+ ..  constata-se o princípio pacta sunt servanda que, em linhas gerais, consiste em uma obrigação firmada em contrato que deve ser cumprida pelas partes.
+ ..  O que se discute na presente ação é a possibilidade ou não de a recorrente ser compelida a custear procedimento em estabelecimento fora da rede credenciada, sendo que o contrato, assinado, sem qualquer vício de consentimento quando da celebração já previa de forma clara os procedimentos cobertos e excluídos, bem como aqueles cujo custeio seria limitado a rede credenciada.
+(iii) arts. 186 e 927 do CC/2002, tendo em vista que (e-STJ fls. 321/322):
+Não houve danos à imagem, âmago ou moral da Recorrida, não cabendo arbitração de danos morais, uma vez que em momento algum a Recorrente perpetrou negativa de autorizar e custear o tratamento médico necessário, somente foram observadas as limitações contratuais quanto a área de cobertura.  ..
+Ademais, ainda que se decida por existir a obrigação da recorrente em custear procedimento realizado fora da rede credenciada, em nenhum omento foi comprovado qualquer dano a saúde ou imagem da Recorrida, de modo que não existe nada a ser indenizado,  ..
+No agravo (e-STJ fls. 394/410), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 414/419 (e-STJ).
+É o relatório.
+Decido.
+Consta nos autos que o Tribunal de origem assim entendeu (e-STj fl. 303):
+Assim, o plano de saúde não demonstrou a existênciade médico oncologista especialista em cólon e reto, que pudesse realizara cirurgia indicada.
+Ora, se a operadora está obrigada a prestação do serviço e não tem o serviço, ou não indica profissional apto para realizar o procedimento cirúrgico, a conclusão é que deve arcar com as despesas do tratamento na sua integralidade.
+Modificar o entendimento do acórdão impugnado quanto à ausência de médico especializado para realizar o atendimento na rede credenciada, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Conforme o entendimento desta Corte Superior, "a negativa administrativa ilegítima de cobertura para tratamento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente" (AgInt no REsp n. 1.973.706/SP, relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/6/2022, DJe de 15/6/2022).
+Do mesmo modo:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO C/C PEDIDO DE REEMBOLSO. PLANO DE SAÚDE. NEGATIVA DE COBERTURA PARA REALIZAÇÃO DE EXAME PET-SCAN. ÍNDOLE ABUSIVA. DANO MORAL CONFIGURADO. QUANTUM INDENIZATÓRIO RAZOÁVEL. AGRAVO INTERNO DESPROVIDO.
+(..)
+2. Nas hipóteses em que há recusa injustificada, por parte da operadora do plano de saúde, de cobertura para tratamento do segurado, com abalo emocional reconhecido, justificadamente, pela instância ordinária, como no presente caso, a orientação desta Corte é assente quanto à caracterização de dano moral, não se tratando apenas de mero aborrecimento. Precedentes.
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.962.572/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/2/2022, DJe de 14/3/2022.)
+O Tribunal de origem, soberano na análise do conjunto fático-probatório dos autos, assentou que a recusa da cobertura médica provocou abalos morais na parte recorrida, pois a situação a que foi exposta ultrapassou o mero dissabor, ante o agravamento da sua aflição psicológica e de sua angústia, razão pela qual admitiu a incidência de indenização sob esse título (e-STJ fls. 304/305).
+Rever o entendimento da Corte local, quanto às circunstâncias específicas que originaram os danos morais, demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial, a teor da Súmula n. 7/STJ.
+Inalteradas tais premissas fáticas, verifica-se que o aresto impugnado está conforme a jurisprudência assente nesta Corte Superior, motivo por que incide a Súmula n. 568/STJ, que se aplica tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Deixo de majorar os honorários em favor da parte recorrida, nos termos do art. 85, § 11, do CPC/2015, pois na origem a verba honorária foi estabelecida no percentual legal máximo (e-STJ fl. 305).
+Publique-se. Intimem-se.
+EMENTA
