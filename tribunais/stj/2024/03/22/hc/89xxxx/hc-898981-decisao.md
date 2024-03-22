@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de YAN FELIPE AMARAL no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.24.038265-5/000).
+Depreende-se dos autos que o paciente encontra-se em execução de pena em regime fechado, de forma ininterrupta, pela prática dos delitos tipificados nos arts. 121, § 2º, do Código Penal; 2º, caput, da Lei n. 12.850/2013; 35, caput, da Lei n. 11 343/2006; e 63, parágrafo único, inciso III, do Código Penal..
+Impetrado habeas corpus na origem, a ordem foi denegada em acórdão assim ementado (e-STJ fl. 7):
+HABEAS CORPUS - EXECUÇÃO - RETIFICAÇÃO DA GUIA - DEFERIDO PARCIALMENTE PELO JUÍZO SINGULAR - PROGRESSÃO DE REGIME - INADEQUAÇÃO DA VIA ELEITA - VIA ESTREITA DO WRIT - PRINCÍPIO DA UNIRRECORRIBILIDADE - INTERPOSTO AGRAVO EM EXECUÇÃO - NÃO CONHECIMENTO.
+- Malgrado entenda ser possível o manejo do writ sempre que houver lesão ou perigo de lesão ao direito ambulatorial do paciente, mesmo em caso de execução penal, desde que não seja necessário, evidentemente, o exame aprofundado do conjunto fático-probatório.
+Neste writ, a defesa alega que (e-STJ fls. 3/4):
+O paciente cumpre pena em regime fechado na penitenciaria de Patrocínio, e segundo analise aos autos, a fração para progressão de regime está equivocada. Uma vez que como sustentado pela defesa em pedido de seq. 300, no crime de homicídio qualificado ( guia nº 0038233-33.2012.8.13.0470- Transito em julgado 15/04/2015, Pena de 18a6m0d - Art. 121, § 2º, Lei 2848/40 - Código Penal), o paciente era primário, pois não ostentava contra si nenhuma ação com transito em julgado.
+Em decisão de seq 312.1 o MM Juiz, julgou improcedente o pedido de retificação quanto ao percentual para progressão de regime, de 50% para 2/5.
+Contudo, em que pese a alegação de que a reincidência é uma circunstância pessoal do sentenciado, isso não pode ser levado em conta na primeira condenação. Diferente da decisão do MM Juiz, pede-se retificação não da guia de seq 54.1 e sim da guia de seq. 1.1 ( 0038233-33.2012.8.13.0470). Onde o paciente era primário e como foi cometido em 2012, ou seja antes do pacote anti crime faz jus a retificação para 2/5 .
+E por ser mais favorável ao sentenciado deve ser fixado a fração de 2/5 para fins de progressão de regime.
+Em decisão denegatória o Tribunal não reconheceu o habeas corpus, sob alegação de não ser a via eleita para tal. Contudo, quando há manifesta ilegalidade , é possível ser sanada de oficio.
+Requer portanto, seja deferido o pedido em comento.
+Dessa forma, pleiteia, liminarmente e no mérito, a retificação da fração para 2/5, na Guia n. 0038233-33.2012.8.13.0470, para fins de progressão de regime,
+É o relatório.
+Decido.
+A liminar em habeas corpus, bem como em seu recurso ordinário, não possui previsão legal, tratando-se de criação jurisprudencial que visa a minorar os efeitos de eventual ilegalidade que se revele de pronto.
+Na espécie, o colegiado estadual não conheceu da ordem e assim se manifestou (e-STJ fls. 10/11):
+Considerando que a análise de questões da execução, em sede de Habeas Corpus, deve ser feita excepcionalmente, sendo necessário que o constrangimento ilegal seja patente, não creio seja possível fazê-lo baseado nos documentos acostados, não se podendo verificar, de pronto, o alegado constrangimento ilegal.
+Ademais, em respeito ao princípio da unirrecorribilidade das decisões judiciais, o habeas corpus não se configura como instrumento adequado ao exame de incidentes de execução, os quais devem ser pleiteados diretamente ao juízo competente e, em caso de irresignação, debatidos por meio do recurso próprio, qual seja, o agravo em execução, elencado no art. 197 da LEP, sendo incabível o manejo do habeas corpus, quando admissível recurso próprio, pois o remédio heroico não pode ser utilizado como sucedâneo recursal. ..
+Por outro lado, o Juiz da Execução Penal detém competência para examinar a viabilidade da concessão de benefícios, nos termos do artigo 66 da Lei de Execuções Penais, pois é ele quem está a par das condições do reeducando, que deve preencher requisitos objetivos e subjetivos para tal, situação de impossível análise no âmbito estreito do HC.
+Ademais, de acordo com as informações prestadas, o pedido foi analisado e acolhido em parte, tendo sido retificado o atestado de pena do paciente com relação à data-base para o alcance de benefícios no curso da execução (ord. 05).
+Em consulta ao SEEU, verifiquei, também, já ter sido interposto o recurso adequado para os questionamentos acerca da execução penal. (Grifei.)
+Vê-se, da transcrição acima, que, além de o pedido ter sido analisado e acolhido em parte, com a retificação do atestado de pena do paciente, no que tange à data-base, para fins da concessão de benefícios, a defesa interpôs recurso que se encontra pendente de julgamento pelo Tribunal local.
+Portanto, pendente o julgamento do recurso pelo Tribunal a quo, fica esta Corte impedida de analisar o mérito do pedido de readequação da dosimetria, sob pena de indevida supressão de instância.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DE RELATOR QUE INDEFERIU LIMINARMENTE HABEAS CORPUS IMPETRADO NO TRIBUNAL DE JUSTIÇA. DECISÃO COATORA IMPUGNADA, NA SEGUNDA INSTÂNCIA, POR AGRAVO REGIMENTAL AINDA PENDENTE DE JULGAMENTO. PLEITO DE CONCESSÃO DE INDULTO NÃO FORMULADO PERANTE O JUÍZO DE EXECUÇÃO. SUPRESSÃO DE INSTÂNCIA. PEDIDO ALTERNATIVO DE CONCESSÃO DE PRISÃO DOMICILIAR QUE DEPENDE DO EXAME DE OUTRO ATO COATOR. IMPOSSIBILIDADE DE IMPETRAÇÃO DE UM ÚNICO WRIT PARA IMPUGNAR DOIS ATOS COATORES DISTINTOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência pacífica desta Corte tem se orientado no sentido de que a competência do STJ para examinar habeas corpus, na forma do art. 105, I, "c", da CF, somente é inaugurada quando a decisão judicial atacada tiver sido proferida por tribunal, o que implica na exigência de exaurimento prévio da instância ordinária, com manifestação do órgão colegiado. No caso concreto, ainda pende de julgamento o agravo regimental interposto pela defesa contra a decisão monocrática apontada como coatora.
+2. Uma vez que o pleito de concessão de indulto não foi submetido à prévia apreciação do Juízo de Execução, tampouco tendo o Tribunal de Justiça se manifestado sobre o tema, é inviável o exame da questão por esta Corte, nesta fase do processo, sob pena de indevida supressão de instância.
+ ..
+4. Agravo regimental desprovido. (AgRg no HC n. 821.253/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/6/2023, DJe de 15/6/2023, grifei.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
