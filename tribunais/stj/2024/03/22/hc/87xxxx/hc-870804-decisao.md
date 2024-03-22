@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de YGOR NUNES RODRIGUES CARDOSO contra o v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o Juízo da Vara de Execuções Penais indeferiu o pedido de remissão de pena pela aprovação no ENCCEJA formulado pela defesa.
+Irresignada, a defesa interpôs agravo à execução ao Tribunal de origem, que negou provimento ao agravo, nos termos do acórdão juntado às fls. 49-53, com a seguinte ementa:
+AGRAVO DE EXECUÇÃO PENAL - REMIÇÃO DE PENAS - EXAME NACIONAL PARA CERTIFICAÇÃO DE COMPETÊNCIA DE JOVENS E ADULTOS - ENCCEJA - AUSÊNCIA DOS REQUISITOS LEGAIS - RECURSO NÃO PROVIDO.
+No presente writ, a impetrante sustenta, em síntese, que o paciente faz jus à remição de pena em decorrência do ENCCEJA ainda que o preso estude por conta própria.
+Requer, ao final, a concessão da ordem, para reconhecer o direito do paciente à remição de pena pela aprovação no ECCEJA.
+As informações foram prestadas às fls. 70-93.
+O Ministério Público Federal, às fls. 97-102, manifestou-se nos termos da seguinte ementa:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. EXECUÇÃO PENAL. REMIÇÃO DA PENA. APROVAÇÃO AUTODIDATA NO EXAME NACIONAL PARA CERTIFICAÇÃO DE COMPETÊNCIAS DE JOVENS E ADULTOS. ENCCEJA. PACIENTE QUE NÃO OBTEVE O BENEFÍCIO POR AUSÊNCIA DE COMPROVAÇÃO DE HORAS EFETIVAS DE ESTUDO OU DE VÍNCULO COM INSTITUIÇÃO DE ENSINO. PRINCÍPIOS DA DIGNIDADE DA PESSOA HUMANA E RESSOCIALIZAÇÃO DO APENADO. PRECEDENTES. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+PARECER DO MPF PELA INADMISSIBILIDADE DO HABEAS CORPUS E, SE ADMITIDO, PELA CONCESSÃO PARCIAL DA ORDEM.
+É o breve relatório.
+Decido.
+A impetrante sustenta, em síntese, o paciente faz jus à remição de pena em decorrência do ENCCEJA ainda que o preso estude por conta própria.
+No que se refere ao tema, consta do acórdão impugnado (fls. 50-53):
+Pretende o agravante o reconhecimento de dias remidos em relação à participação no Encceja Exame Nacional para Certificação de Competência de Jovens e Adultos.
+Sem razão, contudo.
+Como é sabido, ao reeducando que cumpre pena em regime fechado ou semiaberto, é assegurada a possibilidade de remir, por trabalho ou estudo, parte do tempo da pena, conforme dispõe o artigo 126, § 1º, inciso I, e § 5º, da Lei de Execução Penal:
+ ..
+No caso dos autos, verifica-se que o documento de fls. 10 apenas se refere à aprovação no Encceja.
+Ocorre que a mera aprovação na prova, sem qualquer demonstração da frequência regular a atividades de estudo, não tem amparo no artigo 126 da LEP, nem na Resolução CNJ nº 391/2021, o que afasta a concessão do benefício.
+Conforme bem observado pela douta Procuradoria Geral de Justiça, o agravante restringiu-se a juntar o certificado com notas do ENCCEJA referente ao nível médio, sem qualquer documento comprobatório de que concluiu o ensino fundamental ou médio durante o cumprimento da pena (fls. 21). Os mencionados documentos comprovam apenas que o sentenciado prestou o ENCCEJA 2020, nada sendo comprovado quanto às horas efetivas de estudo ou mesmo a conclusão de nível de ensino.
+É certo que a Lei de Execuções Penais prevê a remição pelo estudo ou trabalho de parte da pena ao condenado que cumpre sanção em regime fechado ou semiaberto.
+Entrementes, a Resolução nº 391/2021 do Conselho Nacional de Justiça, que revogou a Recomendação nº 44/2013, em seu artigo 3º, parágrafo único, estabelece que a aprovação nos exames que certificam a conclusão do ensino fundamental ou médio (Encceja ou outros) e a aprovação no Exame Nacional do Ensino Médio Enem, pode ser considerada para cálculo da remição, desde que o reeducando não esteja vinculado a atividades regulares de ensino no interior da unidade prisional e realize estudos por conta própria, ou com acompanhamento pedagógico não-escolar, o que não se verifica na hipótese dos autos, tendo em vista que não há comprovação nos autos.
+Não se olvide que a remição da pena em razão do estudo é um direito do preso, todavia, imprescindível que o estudo tenha sido realizado dentro dos critérios previstos nas normas e recomendações que regem o tema, a fim de se evitar eventuais concessões de benefícios a sentenciados que não tenham efetivamente se dedicado ao estudo durante o cumprimento da pena e contribuído para sua ressocialização (Agravo de Execução Penal nº 0001689-39.2022.8.26.0154).
+Desta forma, sob qualquer prisma que se vislumbre, inviável, por ausência de amparo legal, o reconhecimento da remição pretendida.
+Não se olvida que, "Afere-se, portanto, que não há dúvida de que o benefício da remição deve ser aplicado no caso dos autos, tendo em vista que a aprovação do paciente no ENCCEJA configura aproveitamento dos estudos realizados durante a execução da pena, conforme dispõem o art. 126 da LEP e a Recomendação n. 44/2013 do CNJ." (HC n. 542.047/SC, relator Ministro Leopoldo de Arruda Raposo (Desembargador Convocado do TJ/PE), Quinta Turma, julgado em 19/11/2019, DJe de 26/11/2019.).
+Não obstante, conforme consideraram as instâncias ordinárias, a documentação acostada aos autos pela defesa do paciente não é apta a comprovar a aprovação, ainda que parcial, no referido Exame, contexto em que a alteração do julgado, com vistas à remição da pena, demandaria dilação probatória, incabível na via estreita do habeas corpus.
+Confira-se:
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL NÃO CONHECIDO. EXECUÇÃO PENAL. REMIÇÃO DE PENA. APROVAÇÃO PARCIAL NO EXAME NACIONAL DE CERTIFICAÇÃO DE COMPETÊNCIAS DE JOVENS E ADULTOS (ENCCEJA). FALTA DE PROVA PRÉ-CONSTITUÍDA. INSTRUÇÃO DEFICIENTE DO PEDIDO. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE. PARECER ACOLHIDO.
+1. Diz a jurisprudência do Superior Tribunal de Justiça que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos que evidenciem a pretensão aduzida, a existência do aventado constrangimento ilegal suportado pelo paciente, ônus do qual não se desincumbiu o impetrante.
+2. Não é possível a dilação probatória no rito do habeas corpus, os fatos alegados devem estar demonstrados de plano com a impetração.
+3. No caso, o contido na fl. 19 não parece ser um documento do Ministério da Educação, mas, como exposto pelo Tribunal de Justiça, um simples print da internet. Vale lembrar que é possível obter a certificação parcial ou declaração de proficiência após a liberação dos resultados do Encceja Nacional. Tal documento, oficial, é que seria apto a comprovar as alegações a fim viabilizar a pretendida remição na origem e aqui. Sem a devida instrução, não poderia mesmo a Corte estadual examinar a questão, tampouco o Superior Tribunal de Justiça.
+4. Agravo regimental improvido.
+(AgRg no HC n. 626.329/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 28/9/2021, DJe de 30/9/2021.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DA PENA. REMIÇÃO PELO ESTUDO À DISTÂNCIA. COMPROVAÇÃO DAS HORAS ESTUDADAS. NECESSIDADE DE REVOLVIMENTO DA PROVA. IMPOSSIBILIDADE. SÚMULA 7/STJ. ENTIDADE EDUCACIONAL. NECESSIDADE DE CREDENCIAMENTO JUNTO AO "SISTEC" DO MINISTÉRIO DA EDUCAÇÃO E CONVÊNIO COM A UNIDADE PRISIONAL. ENTENDIMENTO FIRMADO NESTE TRIBUNAL SUPERIOR. SÚMULA 83/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte tem entendido que a remição de pena em virtude de estudo à distância demanda, entre outros requisitos previstos na Lei de Execução Penal, na Recomendação n. 44/2013, do Conselho Nacional de Justiça, bem como na Resolução n. 391, de 2021: (a) comprovação de horas de estudo, que, dada a sistemática da Lei de Execução Penal, encontrando-se o apenado sob a custódia do Estado, deve preceder de fiscalização e autenticidade do cumprimento dos requisitos legais; e (b) demonstração da integração do curso à distância realizado ao projeto político-pedagógico (PPP) da unidade ou do sistema prisional.
+2. No caso, a documentação apresentada pelo reeducando se mostrou insuficiente para atender aos referidos requisitos. Não se mostra plausível, portanto, nova análise do contexto probatório por parte desta Corte Superior, a qual não pode ser considerada uma terceira instância recursal. A referida vedação encontra respaldo no enunciado n. 7 da Súmula do STJ.
+3. O certificado de conclusão comprova apenas as horas totais do curso, mas não há documento que comprove a carga horária diária, controlada e fiscalizada efetivamente pela unidade prisional. Não há, tampouco, evidência de que a entidade, emissora do certificado do curso profissionalizante emitido por CBT/EAD, seja credenciada junto ao Sistema Nacional de Informações da Educação Profissional e Tecnológica (SISTEC) do Ministério da Educação para ofertar o curso em questão, pelo que não há como se aferir se a certificação possui respaldo das autoridades educacionais competentes, na forma do art. 129 da LEP.
+4. Na mesma linha, não há prova nos autos de que a entidade emissora do certificado seja conveniada com a unidade penitenciária.
+5. A pretensão recursal, portanto, não há de prosperar, uma vez que incidente na espécie a Súmula n. 83/STJ, de possível aplicação tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional, de acordo com a jurisprudência do STJ.
+6. Agravo regimental não provido.
+(AgRg no AREsp n. 2.315.491/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/6/2023, DJe de 26/6/2023.)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
