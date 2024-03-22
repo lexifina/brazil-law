@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, apontando-se como autoridade coatora o Tribunal de Justiça do Rio de Janeiro.
+O paciente foi preso preventivamente e denunciado nos termos do art. 14, art. 16, caput, e art. 16, §1º, IV, c/c art. 20, I, da Lei n. 10.826/03, em concurso formal.
+A defesa aduz negativa de autoria. Assegura que, no curso da instrução processual, comprovou que as armas não lhe pertenciam, tampouco estavam sob sua guarda, pois "foi a esposa do Paciente que recolheu aquele material da casa de sua mãe e deixou em seu carro a fim de entregar na Delegacia mais próxima" (fl. 4).
+Indica condições pessoais favoráveis e rechaça o periculum libertatis, entendendo que a custódia "se revela desproporcional e despida de cautelaridade" (fl. 10).
+Busca a imediata revogação da custódia.
+Indeferida a liminar, prestadas as informações, manifestou-se o MPF pela denegação da ordem.
+É o relatório.
+DECIDO.
+Quanto à alegação de negativa de autoria, ao argumento de que o paciente não teria qualquer ingerência ou responsabilidade sobre o armamento encontrado, na medida em que contrária às premissas fáticas assentadas na origem, como já assinalado, não pode ser infirmada na estreita via do writ, dada a necessidade de revolvimento fático-probatório, razão pela qual não serão conhecidas.
+Tampouco a desproporcionalidade do regime em que cumprida a prisão não pode ser aferida antes da dosimetria da pena pela (futura) sentença, não cabendo, nesta eleita, a antecipação dessa análise.
+A ausência de contemporaneidade, por sua vez, uma vez não examinada no Tribunal a quo, não pode ser conhecida por esta Corte, sob pena de indevida supressão de instância.
+É firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC n. 126.604/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 16/12/2020).
+Por fim, quanto aos requisitos ensejadores da custódia preventiva, assim decidiu a 2ª Vara Criminal da Comarca de Duque de Caxias/RJ (fl. 89):
+Em que pesem as alegações da defesa no sentido da desnecessidade da conversão da prisão em flagrante em prisão preventiva, verifica-se dos termos do RO de documento nº 2 e do auto de apreensão de documento nº 11, bem como da decisão do flagrante de documento nº 18, que foram apreendidos em poder do custodiado três pistolas calibre 9mm,uma pistola calibre 380, dois carregadores calibre .40, cinco carregadores calibre 9mm, 6 carregadores calibre 580, 35munições calibre 9mm, 25 munições calibre .40 e 30 munições calibre 380, de forma que, no entender deste juízo, os fat os em análise extrapolam a gravidade normal do tipo penal imputado ao custodiado, considerando a quantidade de armas, munições e acessórios e a sua diversidade.
+Assim, entendo que a concessão da liberdade provisória ao custodiado resta por vulnerar a ordem pública, nos termos do artigo 312 do CPP.
+Por outro lado, a conduta imputada ao custodiado restou tipificada no artigo 16, §1º, inciso IX da Lei 10.826/03,conforme nota de culpa de documento nº 07, o que autoriza a incidência do artigo 313, I do CPP.
+Como se vê, o decreto apresenta fundamentação válida, tendo destacado que "os os fatos em análise extrapolam a gravidade normal do tipo penal imputado ao custodiado, considerando a quantidade de armas, munições e acessórios e a sua diversidade".
+"A gravidade concreta do crime como fundamento para a decretação ou manutenção da prisão preventiva deve ser aferida, como no caso, a partir de dados colhidos da conduta delituosa praticada pelo agente, que revelem, a priori, o desvalor da conduta e uma periculosidade apta a ensejar uma atuação do Estado cerceando sua liberdade para garantia da ordem pública, nos termos do art. 312 do Código de Processo Penal" (AgRg no HC n. 805.583/TO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/3/2023).
+No mesmo sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS. PERICULOSIDADE INDICADA PELA NATUREZA DAS ARMAS APREENDIDAS, A QUANTIDADE DE MUNIÇÕES ENCONTRADAS E O FATO DE O IMPUTADO CONSTAR COMO INVESTIGADO EM OUTRO PROCEDIMENTO POR CRIMES GRAVES (TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O MESMO FIM E PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA). CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+1. Deve ser mantida a decisão monocrática na qual se indefere liminarmente a inicial, quando não evidenciado constrangimento ilegal decorrente da decisão que decretou a prisão preventiva do acusado.
+2. Hipótese em que o Magistrado singular indicou elementos concretos que denotam a periculosidade concreta do investigado, evidenciada pelo fato de que o imputado não só guardava em sua residência 1 (uma) pistola Glock 9mm, municiada, modificada com adição de seletor para disparos por rajada, (dois) carregadores de arma de fogo e 56 munições 9mm (fl. 168), como remunerava outro investigado para que guardasse 1 (uma) pistola 9mm Taurus; b) 2 (dois) carregadores; c) 36 (trinta e seis) munições 9mm; d) 4 munições .38 (fl. 168), além de constar como investigado em inquérito policial que apura a prática dos crimes de tráfico de drogas, associação para o mesmo fim e participação em organização criminosa.
+3. Agravo regimental improvido. (AgRg no HC n. 862,104/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 27/11/2023, DJe de 29/11/2023).
+Ante o exposto, denego a ordem.
+Publique-se.
+Intimem-se.
+EMENTA
