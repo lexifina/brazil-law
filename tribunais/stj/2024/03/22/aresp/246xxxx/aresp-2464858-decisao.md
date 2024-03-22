@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO PARANÁ, contra decisão que inadmitiu recurso especial manejado em face de acórdão do TRIBUNAL DE JUSTIÇA DAQUELE ESTADO.
+Consoante se extrai dos autos, o agravado foi condenado pela prática dos delitos descritos nos arts. 303, §§ 1º e 2º e 303, § 1º, ambos da Lei 9.503/1997, às penas de 3 (três) anos, 1 (um) mês e 10 (dez) dias de reclusão e suspensão de obter a permissão ou a habilitação para dirigir veículo automotor por 6 (seis) meses (fls. 327-337), o que foi mantido pelo Tribunal local no julgamento da apelação (fls. 432-440).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea "a", da Constituição Federal, o recorrente alegou violação dos arts. 363, 366, 367 e 370 do Código de Processo Penal, sustentando a nulidade do feito pela ausência de intimação pessoal ou via edital do réu.
+Apresentadas contrarrazões (fls. 497-502), sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula nº 83, STJ, sob argumento de que o acórdão recorrido está em sintonia com a jurisprudência desta Corte Superior (fls. 512-515).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 525-534).
+O Ministério Público Federal apresentou parecer pelo desprovimento do agravo em recurso especial (fls. 568-573).
+É o relatório. DEC IDO.
+A parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo Tribunal de origem para inadmitir o recurso especial.
+O Tribunal de origem asseverou que se aplica ao caso o disposto na Súmula nº 83, STJ (fls. 512-515).
+Contudo, o agravante, às fls. 529-534, nas razões apresentadas, em suma, quanto a incidência da Súmula nº 83, STJ, alegou que o recurso especial foi interposto com base na alínea "a" do permissivo constitucional, bem como apontou que inexiste orientação firme desta Corte Superior quanto ao tema.
+Entretanto, caberia ao agravante comprovar, por meio da indicação de precedentes desta Corte Superior, a desarmonia do julgado ou a ausência de entendimento pacificado sobre a matéria, por exemplo, evidenciando, assim, a inaplicabilidade do embaraço indicado pelo Tribunal a quo, o que não ocorreu no caso do autos.
+A propósito:
+"para impugnar a incidência da Súmula n. 83 do STJ, é necessária a efetiva demonstração de que o julgado apontado na decisão de inadmissão do recurso especial é inaplicável ao caso ou foi superado pela jurisprudência desta Corte, colacionando-se precedentes contemporâneos ou supervenientes, ou de que exista distinção entre a matéria versada nos autos e aquela utilizada para justificar a aplicação da referida súmula" (AgInt no AREsp n. 2.224.460/DF, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 6/3/2023, DJe de 9/3/2023)" (AgRg no AREsp n. 2.223.178/BA, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/6/2023)
+No caso, verifico que o agravante não apresentou para exame, na petição do agravo em recurso especial, nenhum julgado desta Corte Superior que atendesse a exigência citada no precedente acima referido.
+Cumpre referir, ainda, ser "pacífico o entendimento neste Pretório no sentido de que o Enunciado n. 83 da Súmula do STJ se aplica aos recursos especiais interpostos tanto pela alínea "c" quanto pela alínea "a" do permissivo constitucional" (AgRg no AREsp 1.241.318/PR, Quinta Turma, Rel . Min. Joel Ilan Paciornik, DJe 25/04/2018).
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação espe cífica de cada um deles.
+Nesse sentido: AgRg no REsp n. 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/11/2022; e AgRg no AREsp 1.682. 769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020.
+Diante do exposto, nos termos do art. 253, parágrafo único inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. LESÃO CORPORAL CULPOSA COMETIDA NA DIREÇÃO DE VEÍCULO AUTOMOTOR AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
