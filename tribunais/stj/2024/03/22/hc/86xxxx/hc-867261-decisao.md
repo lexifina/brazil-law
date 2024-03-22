@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de NICOLLY AMARAL DE PAIVA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA proferido no julgamento do HC n. 5061631-11.2023.8.24.0000.
+Extrai-se dos autos que a paciente foi presa em flagrante, em 10/10/2023, por ter supostamente praticado o delito tipificado no art. 33 da Lei n. 11.343/2006 (tráfico de entorpecentes). Referida custódia foi convertida em prisão preventiva pelo Juízo da 2ª Vara Criminal da Comarca de Joinville/SC.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, cuja 1ª Câmara Criminal decidiu, por unanimidade, denegar a ordem nos termos do acórdão de fls. 288/295, que restou assim ementado:
+"HABEAS CORPUS. TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI 11.343/06). INSURGÊNCIA CONTRA DECISÃO QUE CONVERTEU O FLAGRANTE EM PRISÃO PREVENTIVA.
+ADUZIDA AUSÊNCIA DOS REQUISITOS AUTORIZADORES DA PRISÃO CAUTELAR. INSUBSISTÊNCIA. POLICIAIS RODOVIÁRIOS FEDERAIS QUE, A PARTIR DE INFORMAÇÃO DA CENTRAL, REALIZARAM DILIGÊNCIAS PARA ABORDAR VEÍCULO SUSPEITO, QUE EMPREENDEU FUGA AO RECEBER ORDEM DE PARADA. ÊXITO NA ABORDAGEM DO AUTOMÓVEL QUE CULMINOU NA APREENSÃO DE 101,5 KG DE MACONHA E 1 KG DE HAXIXE, ALÉM DE MAIS 24 UNIDADES DE CIGARRO ELETRÔNICO, ACONDICIONADOS EM FARDOS DISPOSTOS NO BANCO TRASEIRO E PORTA-MALAS. AUTOMÓVEL UTILIZADO QUE SERIA CLONADO, COM PLACAS ADULTERADAS PARA OCULTAR A ORIGEM ILÍCITA DO BEM, OBJETO DE FURTO NA CIDADE DE FLORIANÓPOLIS/SC. OUTRO INVESTIGADO, POSSIVELMENTE COMPANHEIRO DA PACIENTE, QUE JÁ RESPONDE À AÇÃO PENAL PELA SUPOSTA PRÁTICA DO TRÁFICO, APESAR DE HÁ POUCO TER ATINGIDO A MAIORIDADE. SEGREGAÇÃO NECESSÁRIA PARA ACAUTELAR A ORDEM PÚBLICA, CONSIDERANDO A GRAVIDADE CONCRETA DA CONDUTA E PERICULOSIDADE DOS AGENTES. ADEMAIS, PACIENTE NATURAL DO ESTADO DO RIO GRANDE DO SUL E QUE NÃO INDICOU ENDEREÇO CERTO, ONDE RESIDIRIA COM UMA AMIGA. CUSTÓDIA CAUTELAR INDICADA PARA APLICAÇÃO DA LEI PENAL. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO QUE NÃO SE MOSTRAM ADEQUADAS AO CASO. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. BONS PREDICADOS QUE NÃO IMPEDEM A MANUTENÇÃO DA PREVENTIVA E AUSÊNCIA DE VIOLAÇÃO AOS PRINCÍPIOS DA PRESUNÇÃO DE INOCÊNCIA E DA HOMOGENEIDADE.
+WRIT CONHECIDO. ORDEM DENEGADA." (fl. 294).
+No presente writ a Defensoria Pública do Estado de Santa Catarina se insurge contra a prisão preventiva alegando a inidoneidade da fundamentação adotada para justificar a medida extrema, pois teriam sido considerados, tão somente, a gravidade abstrata do crime de tráfico de drogas, o fato da paciente não indicar endereço completo à autoridade, a indicação de transporte interestadual de entorpecentes e a utilização, em tese, de veículo clonado na conduta.
+Relata que a paciente é primária e assere que a quantidade de entorpecentes apreendida não sustenta a prisão preventiva.
+Pondera a suficiência de medidas cautelares alternativas previstas no art. 319 do Código de Processo Penal - CPP.
+Requer, em liminar e no mérito, a revogação da prisão preventiva ou o reconhecimento da nulidade do decreto prisional, com a aplicação subsidiária de medidas cautelares menos gravosas.
+Indeferido o pedido liminar (fls. 303/305), foram prestadas as informações (fls. 312/316 e 320/345), e o Ministério Público Federal opinou pelo não conhecimento do writ (fls. 347/350).
+É o relatório.
+Decido.
+O presente habeas corpus está prejudicado.
+Isso porque, das informações obtidas na página eletrônica da Justiça Federal - Seção Judiciária de Santa Catarina -, verificou-se que nos autos n. 5023366-56.2023.4.04.7201/SC foi proferida decisão que recebeu a denúncia e concedeu liberdade provisória à paciente mediante fiança.
+Assim, não há como negar a perda superveniente do objeto deste habeas corpus, tendo em vista ter cessado as circunstâncias determinantes da impetração.
+Ante o exposto, com fundamento no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o habeas corpus.
+Publique-se. Intime-se.
+ EMENTA
