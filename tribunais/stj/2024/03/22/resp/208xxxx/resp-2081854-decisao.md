@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por HACO ETIQUETAS DO NORDESTE LTDA., com base na alínea "a" do permissivo constitucional, mediante o qual se impugna acórdão proferido pelo Tribunal Regional Federal da 5ª Região assim ementado (e-STJ fl. 300):
+CONSTITUCIONAL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. EXCLUSÃO DA CPRB DE SUA PRÓPRIA BASE DE CÁLCULO. IMPOSSIBILIDADE. APELAÇÃO. DESPROVIMENTO.
+1. Trata-se de Apelação interposta pela particular em face de sentença que, em sede de mandado de segurança, julgou improcedente a pretensão, consistente na exclusão da contribuição previdenciária sobre a Receita Bruta de sua própria base de cálculo, além da repetição de indébito tributário dos valores indevidamente recolhidos a tal título.
+2. O cerne da lide consiste em perquirir se deve haver a exclusão da CPRB sobre a própria base de cálculo.
+3. Em suas razões recursais, a particular alega que há ilegalidade e inconstitucionalidade na incidência em questão.
+4. Em suma, não há razão para acolhimento do pleito da parte ora apelante. Explica-se.
+5. Este TRF5 vem se manifestando pela impossibilidade de exclusão da CPRB de suas próprias bases de cálculo, sob os fundamentos de que (i) não é possível se estender, por analogia, o entendimento firmado pelo STF no RE nº 574.706/PR, vez que a Suprema Corte tratou especificamente sobre a exclusão do ICMS das bases de cálculo do PIS e da COFINS, de modo que o distinguishing é a medida necessária; (ii) a partir da edição da Lei nº 12.546/2011, permitiu-se que as empresas, de acordo com sua conveniência, podem optar por pelo recolhimento da contribuição previdenciária patronal sobre a receita bruta, com o escopo de desoneração de sua folha de salários, permitindo, assim, a geração de mais empregos. Nesse diapasão, não se configura qualquer violação ao art. 195, I, b, da CF/88, além de que não há qualquer norma que autorize a exclusão da CPRB de sua própria base de cálculo; (iii) a contribuição patronal sobre a receita bruta se consubstancia como verdadeiro incentivo fiscal, de modo que deve ser interpretada de forma restritiva, com fulcro no art. 111 do CTN: "Art. 111. Interpreta-se literalmente a legislação tributária que disponha sobre: I - suspensão ou exclusão do crédito tributário; II - outorga de isenção; III - dispensa do cumprimento de obrigações tributárias acessórias.".
+6. Seguem precedentes desta egrégia Corte Regional: PROCESSO: 08166539620204058300, APELAÇÃO CÍVEL, DESEMBARGADOR FEDERAL ROGÉRIO DE MENESES FIALHO MOREIRA, 3ª TURMA, JULGAMENTO: 11/03/2021; PROCESSO: 08063399120204058300, APELAÇÃO/REMESSA NECESSÁRIA, DESEMBARGADOR FEDERAL ROGÉRIO DE MENESES FIALHO MOREIRA, 3ª TURMA, JULGAMENTO: 11/03/2021; PROCESSO: 08025266520204058200, APELAÇÃO CÍVEL, DESEMBARGADOR FEDERAL LEONARDO HENRIQUE DE CAVALCANTE CARVALHO, 2ª TURMA, JULGAMENTO: 22/03/2022; PROCESSO: 08067197820194058000, APELAÇÃO CÍVEL, DESEMBARGADOR FEDERAL ROBERTO WANDERLEY NOGUEIRA, 1ª TURMA, JULGAMENTO: 09/12/2021.
+7. Por fim, tratando-se de mandado de segurança, deixa-se de realizar a condenação em honorários recursais (art. 85, §11, do CPC/2015), diante do regramento específico do art. 25 da Lei do mandamus.
+8. Apelação desprovida.
+Embargos de declaração rejeitados (e-STJ fls. 343/348).
+Nas razões de seu recurso especial, a parte aponta ofensa aos arts. 7º, 8º e 9º, § 7º, da Lei n. 12.546/2011 e ao art. 110 do CTN.
+Afirma, preliminarmente, que o acórdão recorrido padeceria de omissão, porquanto não teriam sido analisados todos os dispositivos legais suscitados pela parte.
+No mérito, sustenta que "ao eleger como base de cálculo da nova contribuição patronal a RECEITA BRUTA, sem conceituar ou delimitar o termo, desbordou (os arts. 7º e 6º da Lei n. 12.715/2011) do permissivo constitucional (art. 195, inciso I, alínea "b" e parágrafo 13 da CF/88), porquanto acresceu ao dispositivo constitucional um conceito não previsto no texto original" (e-STJ fl. 385).
+Argumenta, ainda, que, "como bem ressaltou o eminente magistrado, bem como pela Corte Suprema no julgamento da repercussão geral de tema nº 69, o ICMS não é receita da empresa, igualmente segue este mesmo conceito a CPRB. Ora, o contribuinte apenas repassa aos cofres estatais o montante tributário incidente sobre a operação realizada. Não é dinheiro seu, é do Estado-membro, do Distrito Federal ou dos Municípios. Não é faturamento nem receita, é repasse" (e-STJ fl. 392).
+Contrarrazões às e-STJ fls. 428/448.
+Recurso especial admitido (e-STJ fl. 477).
+Recurso extraordinário admitido (e-STJ fl. 477).
+Passo a decidir.
+Na origem, cuida-se de mandado de segurança impetrado com o objetivo precípuo de "obstar a inclusão da Contribuição Previdenciária sobre a Receita Bruta (CPRB) na base de cálculo da própria Contribuição Previdenciária sobre a Receita Bruta (CPRB), nos termos da fundamentação, devendo ser aplicado por analogia o entendimento fixado nos autos do Recurso Extraordinário nº 574.706, obstando que a Autoridade Coatora inclua tais contribuições no conceito de receita bruta" (e-STJ fl. 18).
+Segurança denegada por sentença.
+Apelação desprovida.
+A irresignação não merece prosperar.
+Não há omissão no julgado.
+Ao afirmar o cabimento da inclusão da CPRB na sua própria base de cálculo, assim se manifestou, de forma clara e completa, o Tribunal de origem (e-STJ fls. 297/299):
+O cerne da lide consiste em perquirir se deve haver a exclusão da CPRB sobre a própria base de cálculo.
+Em suma, não há razão para acolhimento do pleito da parte ora apelante. Explica-se.
+Este TRF5 vem se manifestando pela impossibilidade de exclusão da CPRB de suas próprias bases de cálculo, sob os fundamentos de que (i) não é possível se estender, por analogia, o entendimento firmado pelo STF no RE nº 574.706/PR, vez que a Suprema Corte tratou especificamente sobre a exclusão do ICMS das bases de cálculo do PIS e da COFINS, de modo que o distinguishing é a medida necessária; (ii) a partir da edição da Lei nº 12.546/2011, permitiu-se que as empresas, de acordo com sua conveniência, podem optar por pelo recolhimento da contribuição previdenciária patronal sobre a receita bruta, com o escopo de desoneração de sua folha de salários, permitindo, assim, a geração de mais empregos. Nesse diapasão, não se configura qualquer violação ao art.195, I, b, da CF/88, além de que não há qualquer norma que autorize a exclusão da CPRB de sua própria base de cálculo; (iii) a contribuição patronal sobre a receita bruta se consubstancia como verdadeiro incentivo fiscal, de modo que deve ser interpretada de forma restritiva, com fulcro no art. 111 do CTN: "Art. 111. Interpreta-se literalmente a legislação tributária que disponha sobre: I - suspensão ou exclusão do crédito tributário; II - outorga de isenção; III - dispensa do cumprimento de obrigações tributárias acessórias.".
+Seguem precedentes desta egrégia Corte Regional:
+(..)
+Por fim, tratando-se de mandado de segurança, deixa-se de realizar a condenação em honorários recursais (art. 85, §11, do CPC/2015), diante do regramento específico do art. 25 da Lei do mandamus.
+Conforme se observa, a fundamentação do julgado foi eminentemente constitucional, pelo que incabível, nesse ponto, o recurso especial.
+Aliás, da leitura da petição de recurso, nota-se que a própria fundamentação da parte também é constitucional, pois repousa na afirmação central de que, "ao eleger como base de cálculo da nova contribuição patronal a RECEITA BRUTA, sem conceituar ou delimitar o termo, desbordou (os arts. 7º e 6º da Lei n. 12.715/2011) do permissivo constitucional (art. 195, inciso I, alínea "b" e parágrafo 13 da CF/88), porquanto acresceu ao dispositivo constitucional um conceito não previsto no texto original " (e-STJ fl. 385).
+Não é outro o entendimento deste STJ:
+TRIBUTÁRIO. PROCESSUAL CIVIL. PIS E COFINS SOBRE SUAS PRÓPRIAS BASES DE CÁLCULO. CONCEITO DE FATURAMENTO E RECEITA BRUTA. MATÉRIA DE ÍNDOLE EMINENTEMENTE CONSTITUCIONAL.
+1. Esta Corte já reconheceu que a discussão quanto ao conceito de faturamento e receita bruta no que se refere à definição de base cálculo implica análise de matéria constitucional, o que é vedado ao STJ, sob pena de usurpação da competência do Supremo Tribunal Federal. Precedentes.
+2. Agravo interno a que se nega provimento.
+(STJ, AgInt no REsp 1.825.532/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 12/12/2019).
+Registre-se, por fim, que a alegação de malferimento do art. 110 do CTN i gualmente não autoriza a interposição de recurso especial.
+Assim é porque a verificação de suposta violação demandaria sindicar possível confronto de validade entre legislação ordinária (no caso, a estabelecer o fato gerador do tributo) e legislação complementar (no caso, a estabelecer a impossibilidade de alteração, para fins tributários, de conceitos usados no direito privado), matéria, mais uma vez, de fundo constitucional.
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, CONHEÇO EM PARTE do recurso especial e, nessa extensão , NEGO-LHE PROVIMENTO.
+Sem fixação de honorários recursais, por tratar-se de recurso interposto em autos de mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
