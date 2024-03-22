@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. DESPROVIMENTO.
+1. A parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas na decisão de inadmissibilidade do recurso especial com relação à incidência da Súmula n. 7/STJ.
+2. É entendimento desta Corte que, "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, rel. Min. Og Fernandes, DJe de 18/11/2016).
+3. Ainda que assim não fosse, o apelo nobre não comportaria sequer conhecimento, diante da incidência, por analogia, da Súmula n. 284/STF, uma vez que a defesa nem sequer indicou os dispositivos de lei federal supostamente violados.
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial.
+No regimental, sustenta o agravante que houve a devida impugnação do óbice da Súmula 7/STJ, alegando ainda que indicou, no apelo raro não admitido, os dispositivos de lei federal supostamente violados, o que afastaria a incidência, por analogia, da Súmula n. 284/STF.
+Pugna, ao final, pela reconsideração da decisão impugnada ou, subsidiariamente, pela apresentação do recurso ao colegiado.
+O Ministério Público de Minas Gerais manifestou-se pelo não conhecimento ou desprovimento do agravo (fls. 868-871).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. DESPROVIMENTO.
+1. A parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas na decisão de inadmissibilidade do recurso especial com relação à incidência da Súmula n. 7/STJ.
+2. É entendimento desta Corte que, "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, rel. Min. Og Fernandes, DJe de 18/11/2016).
+3. Ainda que assim não fosse, o apelo nobre não comportaria sequer conhecimento, diante da incidência, por analogia, da Súmula n. 284/STF, uma vez que a defesa nem sequer indicou os dispositivos de lei federal supostamente violados.
+4. Agravo regimental desprovido.
+VOTO
+A despeito dos argumentos aqui trazidos, a decisão agravada deve ser mantida por seus próprios fundamentos.
+In casu, não conheci do agravo, porquanto não infirmado o fundamento empregado pelo Tribunal de origem, para inadmitir o recurso especial, qual seja, a Súmula n. 7/STJ (fls. 837-840).
+Em relação à inadmissão quanto à aplicação da Súmula n. 7/STJ, a defesa limitou-se a referenciar, de forma genérica, trecho do agravo, no sentido de que, "diferentemente do que assevera o Tribunal a quo, o que se almeja com este recurso é a revaloração dos critérios jurídicos utilizados para concluir que sendo o correu absolvido do delito de associação, deve ser mantida a condenação do agravante, devendo, portanto, ser invalidada" (fl. 803), para, depois, repisar os fundamentos do apelo raro não admitido.
+No entanto, deveria a parte agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão recorrido, o que não aconteceu.
+É entendimento desta Corte que, "inadmitido o recurso especial com base na Súmula n. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, rel. Min. Og Fernandes, DJe de 18/11/2016).
+Deve-se ressaltar ainda que cabe ao agravante demonstrar o equívoco da decisão contra a qual se insurge, sendo imprescindível a impugnação específica a todos os óbices por ela apontados, obrigação da qual não se desincumbiu.
+Este é o teor do art. 932, III, do CPC, que autoriza o relator a não conhecer de recurso que tenha deixado de impugnar os fundamentos da decisão recorrida. Igualmente, o art. 253, I, do Regimento Interno do Superior Tribunal de Justiça, com redação dada pela Emenda Regimental n. 22/2016, autoriza o relator a não conhecer do agravo que descumpra a tarefa de infirmar as razões de decidir que levaram ao trancamento do recurso especial.
+Ainda que assim não fosse, o apelo nobre nem sequer comportaria conhecimento, diante da incidência, por analogia, da Súmula n. 284/STF, uma vez que a defesa não indicou sequer os dispositivos de lei federal supostamente violados, pois, ao contrário do afirmado na presente insurgência, não ocorreu no recurso especial (fls. 764-779), sendo certo que a mera referência a dispositivos, como ocorreu em relação ao art. 240 do CPC, não tem o condão de abrir a instância especial, diante da utilização do recurso como se fosse dirigido às instâncias ordinárias. A propósito:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PLEITO DE FIXAÇÃO DE REGIME INICIAL DE PENA MAIS BRANDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+I - O agravante deixou de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial, especificamente não enfrentou de maneira adequada a incidência da Súmula 284 do STF.
+II - A ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles, o que não ocorreu na presente
+hipótese.
+Agravo regimental desprovido (AgInt no AREsp n. 1.140.814/SP, Quinta Turma, Rel. Min. Felix Fischer, DJe de 16/02/2018.)
+PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 83/STJ. RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO RECORRIDA. NECESSIDADE. ALEGAÇÕES GENÉRICAS E REITERAÇÃO DOS ARGUMENTOS REFERENTES AO MÉRITO DA CONTROVÉRSIA. INSUFICIÊNCIA. PRECEDENTES. RECURSO DESPROVIDO.
+1. O insurgente não refutou a Súmula n. 83 do STJ, limitando-se a reiterar, genericamente, os termos constantes do AREsp.
+2. Os "recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia" (AgRg no HC n. 624.133/SP, Rel. Min. João Otávio de Noronha, DJe 14/12/2021)
+3. Não é cabível o enfrentamento de teses de mérito se não suplantado o juízo de inadmissibilidade recursal e "diante da ocorrência de preclusão consumativa, mostra-se inviável buscar, no agravo regimental, suprir as deficiências existentes na fundamentação das razões do agravo em recurso especial" (AgRg no AREsp n. 2.032.402/SP, Rel. Min. Laurita Vaz, 6ª Turma, DJe 06/05/2022).
+4. Na hipótese dos autos, verifica-se que a decisão que previamente inadmitiu o recurso especial considerou a ausência de prequestionamento e Súmula 83/STJ.
+5. Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos. Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial. Precedente.
+6. Em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+7. Agravo regimental desprovido. (AgRg no AREsp n. 2.094.944/MG, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe de 26/8/2022.)
+Ademais, rechaçar as argumentações utilizadas pela decisão que inadmitiu o apelo extremo, na via do regimental, como pretende o agravante, é inadequado, porquanto tal impugnação deveria ter sido ventilada justamente no agravo anterior, sob pena de indevida inovação recursal.
+Ante o exposto, nego provimento ao agravo regimental, mantendo incólume a decisão agravada.
+É o voto.
