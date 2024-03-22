@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JONAS GABRIEL DOS SANTOS contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que denegou a ordem de habeas corpus.
+O impetrante afirma que o paciente está sofrendo constrangimento ilegal, pois foi condenado em primeira instância pelo crime de roubo com base em reconhecimento pessoal que não cumpriu com os requisitos do art. 226 do CPP, bem como porque a Magistrada de primeira instância teria auxiliado a vítima durante o procedimento de reconhecimento (e-STJ fls. 3-22). Requer, liminarmente, a suspensão da sentença condenatória e, no mérito, a absolvição do paciente.
+É o relatório.
+Decido.
+O presente habeas corpus foi impetrado contra acórdão que denegou outro habeas corpus, razão pela qual é substitutivo de recurso ordinário e, enquanto tal, não deve ser conhecido, de acordo com a jurisprudência desta Corte.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO E HOMICÍDIO QUALIFICADO TENTADO EM CONTEXTO DE ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. ALEGAÇÃO DE EXCESSO DE PRAZO. INOCORRÊNCIA. PRISÃO REAVALIADA. FUNDAMENTAÇÃO. PERICULOSIDADE DO AGENTE. GRAVIDADE CONCRETA. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+ ..
+8. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 869.549/CE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/3/2024, DJe de 7/3/2024 - grifos acrescidos).
+Ademais, o habeas corpus impetrado perante o Tribunal de Justiça, por sua vez, foi substitutivo da apelação já interposta pelo paciente, de modo que, ao analisá-lo, o Tribunal não adentrou no mérito sobre a licitude ou ilicitude do reconhecimento fotográfico e, muito menos, sobre a presença ou ausência de provas para o édito condenatório.
+Sendo assim, o exame da discussão ora apresentada, como pretende o impetrante, representaria supressão de instância, pois o Tribunal não a analisou no acórdão coator, bem como porque ainda pende de julgamento um recurso ordinário, no bojo do qual o mesmo Tribunal ainda analisará a questão.
+Conforme afirmou o próprio Tribunal no acórdão: "Isso não significa que em sede de apelação tal posição quanto à validade do reconhecimento não possa ser revista" (e-STJ fl. 336).
+Por fim, não há que se falar em negativa de prestação jurisdicional, como alega o impetrante. O Tribunal de origem assim se manifestou a respeito do pedido formulado pelo impetrante:
+ .. . Insta consignar que sendo estritos os limites do Habeas Corpus, não pode ser utilizado como sucedâneo do recurso ordinário ou quando houver instrumento processual próprio para a impugnação de atos, sob pena de desvirtuamento de sua função constitucional, ressalvados os casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício. No caso dos autos, observa-se da r. sentença copiada às fls. 232/240 que o Juízo a quo afastou o pleito de nulidade do reconhecimento fotográfico arguido pela Defesa do paciente., sob os argumentos de que a prova é válida e que as formalidades previstas no artigo 226, inciso II do Código de Processo Penal são meras recomendações, cuja inobservância não constitui nulidade processual.
+Por outro lado, a participação do paciente no crime veio corroborada por outras provas coletadas nos autos, como pormenorizado na r. sentença..
+no caso dos autos não se divisa a existência de ilegalidade capaz de justificar a anulação do feito, com a consequente absolvição do paciente, na estreita via da ação constitucional  ..  (e-STJ fls. 334-335).
+Extrai-se do trecho acima que o Tribunal fez o correto exame do habeas corpus, não existindo qualquer negativa de prestação jurisdicional, pois corretamente apontou que o habeas corpus era substitutivo de recurso de apelação e que, no exame de ofício, somente uma flagrante ilegalidade permitiria a concessão da ordem, a qual entendeu não estar presente.
+Ante todo o exposto, não conheço do habeas corpus.
+EMENTA
