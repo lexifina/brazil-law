@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de VALDINEI TONIATO NUNES contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da apelação criminal n. 0055663-51.2018.8.26.0050.
+Consta dos autos que o Juízo da 27ª Vara Criminal da Comarca de São Paulo, desclassificou a conduta descrita na denúncia para aquela capitulada no artigo 28, da Lei 11.343/2006, e determinou a remessa dos autos ao Juizado Especial Criminal para julgamento do feito (fls. 24-27).
+A acusação interpôs apelação criminal ao Tribunal de Justiça, que deu parcial provimento ao recurso, para condenar o paciente à pena de 5 anos de reclusão, em regime inicial fechado, e ao pagamento de 500 dias-multa, como incurso no artigo 33, caput, da Lei 11.343/06, conforme o acórdão de fls. 28-40.
+Interposto recurso especial, restou inadmitido na origem. Aviado agravo em recuso especial, tombado no Superior Tribunal de Justiça como AREsp n. 1.825.364 - SP, foi conhecido para não conhecer do recurso especial, com trânsito em julgado em 17/03/2021 (folha 373, do AREsp n. 1.825.364 - SP).
+Sobreveio a impetração do presente habeas corpus, objetivando a concessão da ordem, de modo a restabelecer a sentença (fls. 24-27) e, subsidiariamente, reconhecer a causa especial de diminuição de pena do § 4º artigo 33 da Lei 11.343/2006.
+É o relatório. DECIDO.
+A controvérsia dos autos gira em torno de possível ilegalidade flagrante, consistente na negativa à desclassificação da conduta do paciente para a aquela capitulada no artigo 28, da Lei 11.343/2006, e na negativa à causa especial de diminuição de pena do § 4º artigo 33 da Lei 11.343/2006.
+Para uma melhor análise da controvérsia, transcrevo as razões de decidir da decisão colegiada (fls. 20-40):
+ ..
+"Nesse contexto, respeitado o entendimento da e. Magistrada, o acervo coligido evidenciou que as porções de cocaína e maconha que o recorrido trazia consigo e guardava no banheiro do estabelecimento onde trabalhava destinavam-se efetivamente ao tráfico ilícito e não ao mero uso.
+Ressalte-se que a atividade lícita que exercia ("chapa") não impedia a dedicação à traficância, pois executada em via pública, com livre acesso a terceiros, consoante, aliás, presenciaram os agentes da lei.
+E, embora o apelado tenha se declarado dependente de cocaína em decorrência do prolongado expediente de trabalho, certo é que essa condição não o exime de responsabilização criminal, até porque, se o porte de entorpecentes para o uso e o respectivo comércio forem praticados no mesmo contexto fático, a primeira conduta resultaria absorvida pela mais grave(tráfico ilícito).
+ ..
+A quantidade ínfima de droga é perfeitamente justificável. Se pessoas se aproximavam do apelante para levarem droga, ele estava com aquilo que sobrou de sua atividade ilícita, já tendo alienado o suficiente. Escondeu o dinheiro obtido ou o gastou, pois não se tratavam de um grande fornecedor de drogas, agia no "varejo" da distribuição.
+Não é por isso que a atividade é de somenos recriminação.
+Portanto, imperiosa a condenação do recorrido pela prática do delito de tráfico ilícito.
+ ..
+Na terceira fase, não se aplica a minorante do § 4º, do artigo 33, da Lei nº 11.343/06, porque as circunstâncias do caso concreto, em especial, o fato de o apelado ter sido flagrado sendo procurado por terceiros e em poder de substâncias entorpecentes diversificadas (cocaína e maconha), evidenciam que não era principiante nessa atividade ilícita, ao contrário, tinha experiência e era conhecido como traficante que agia naquela região.
+O benefício em questão é reservado para casos específicos em que o crime não é organizado e seja episódio na vida de alguém, sob pena de ser mera válvula de impunidade e de incentivo ao crime. O que não é o caso dos autos."
+ ..
+O presente writ foi impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo já transitado em julgado. Diante dessa situação, não deve ser conhecido, porquanto manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+Consoante o artigo 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados".
+Nesse sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO SUBSTITUTIVO DE REVISÃO CRIMINAL. INEXISTÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. FUNDAMENTO SUBSIDIÁRIO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. TEMA NÃO ANALISADO NA ORIGEM. INDEVIDA SUPRESSÃO DE INSTÂNCIA.
+Agravo regimental improvido.
+(AgRg no HC 561.185/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 10/03/2020, DJe 16/03/2020)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O NARCOTRÁFICO. DOSIMETRIA DE PENA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. QUANTUM DE AUMENTO. DISCRICIONARIEDADE DO JULGADOR. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. CONDENAÇÃO PELO ART. 35 DA LEI DE DROGAS. SENTENÇA TRANSITADA EM JULGADO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE NA APLICAÇÃO DA REPRIMENDA. HIPÓTESE DE NÃO CONHECIMENTO DO MANDAMUS. MANUTENÇÃO DA DECISÃO POR SEUS PRÓPRIOS FUNDAMENTOS.AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. Tratando-se de impetração que se destina a atacar acórdão proferido em sede de apelação criminal, já transitado em julgado, contra o qual seria cabível a interposição de revisão criminal, depara-se com flagrante utilização inadequada da via eleita, circunstância que impede o seu conhecimento.
+ ..
+6. Agravo regimental improvido.
+(AgRg no HC 486.185/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 23/04/2019, DJe 07/05/2019)
+ ..
+Entrementes, verifico, de plano, ilegalidade flagrante no acórdão impugnado que autoriza a concessão da ordem nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal.
+Segundo se extrai da moldura fática da instância originária, o paciente foi preso em flagrante no dia 21/06/2018, ocasião em que trazia consigo 04 invólucros plásticos contendo cocaína, com peso aproximado de 3,5g, e 01 invólucro plástico contendo maconha, com peso aproximado de 134,1g (folha 24).
+Como ressaltado no acórdão (folha 33), os dois policiais civis que efetuaram a prisão em flagrante, prestaram depoimento em juízo uníssono, comprovando ter presenciado o paciente, na data dos fatos, traficando entorpecentes. Merece especial destaque que a abordagem policial se deu de forma aleatória, durante diligências não vinculadas à pessoa do paciente (folha 25).
+Nesse contexto, constato que o afastamento da causa especial de diminuição de pena do artigo 33, § 4º, da Lei 11.343/2006, se deu a partir de fundamentação abstratamente considerada, não havendo nos autos nenhum elemento concreto que demonstre que o paciente não ostente os requisitos cumulativos do referido dispositivo legal, quais são: (i) primariedade; (ii) bons antecedentes; e (iii) não dedicação a atividades criminosas, nem integração à organização criminosa.
+A jurisprudência do Superior Tribunal de Justiça é no sentido de que para o afastamento da redutora do tráfico privilegiado é imprescindível a indicação de outros elementos ou circunstâncias capazes a demonstrar a dedicação do réu à prática de atividades ilícitas ou a sua participação em organização criminosa.
+Portanto, concedo a ordem, nos termos do artigo 654, § 2º, do Código de Processo Penal, para reconhecer a incidência da causa especial de diminuição de pena do artigo 33, § 4º, da Lei 11.343/2006, em sua fração máxima de 2/3.
+Corroborando tal posicionamento, cito os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE APLICAÇÃO DA FRAÇÃO MÍNIMA DE REDUÇÃO. IMPOSSIBILIDADE. PEQUENA QUANTIDADE DE DROGA APREENDIDA NÃO JUSTIFICA A INCIDÊNCIA DE 1/6. ORDEM CONCEDIDA DE OFÍCIO PARA APLICAR O REDUTOR NA FRAÇÃO MÁXIMA DE 2/3. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. A Corte de origem não apresentou fundamentação idônea para aplicação da causa especial de diminuição da pena na fração mínima de 1/6, justificada apenas pela apreensão de 400g de maconha. Assim, se faz cogente a aplicação da fração máxima de redução em 2/3.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 815.566/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/6/2023, DJe de 29/6/2023.)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. PEQUENO TRAFICANTE. APLICAÇÃO DO REDUTOR EM 2/3. REGIME ABERTO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. POSSIBILIDADE. RECURSO NÃO PROVIDO.
+1. A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+2. Esta Corte e o Supremo Tribunal Federal tem entendimento de que "a quantidade de droga apreendida, por si só, não justifica o afastamento do redutor do tráfico privilegiado, sendo necessário, para tanto, a indicação de outros elementos ou circunstâncias capazes de demonstrar a dedicação do réu à prática de atividades ilícitas ou a sua participação em organização criminosa" ( AgRg no REsp 1.866.691/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 29/5/2020) ( AgRg no HC 656.477/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 26/10/2021, DJe 3/11/2021).
+3. No caso, observa-se que a instância ordinária concluiu pela habitualidade delitiva do paciente com base em meras presunções, na medida em que destacou apenas a quantidade de drogas que ele adquiriu do corréu, qual seja, 400g de maconha. Dessa forma, certificada a primariedade e os bons antecedentes do réu, é de rigor a aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006 na fração de 2/3.
+4. Estabelecida a pena definitiva em patamar inferior a 4 anos de reclusão, o regime aberto é o adequado à prevenção e à reparação do delito, diante da primariedade do réu e da análise favorável das circunstâncias judiciais, nos termos do art. 33, § 2º, c, e § 3º, do Código Penal.
+5. Na hipótese, é cabível a substituição da pena privativa de liberdade por restritivas de direito, a ser definida pelo Juízo de Execução, valendo-se anotar que esta Corte e o Supremo Tribunal Federal entendem que não existe óbice na Lei de Drogas para a concessão do citado benefício, quando preenchidos os requisitos legais do art. 44 do Código Penal.
+6. Agravo regimental não provido.
+(AgRg no HC n. 748540-MS, Data de Julgamento: 02/08/2022, QUINTA TURMA, DJ-e de 10/08/2022)
+Passo, portanto, à dosimetria da pena.
+1ª etapa: mantidos os parâmetros da instância originária, fica preservada a pena-base, no mínimo legal, de 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa.
+2ª etapa: preservados os parâmetros da instância originária, que não reconheceu a presença de agravantes, nem atenuantes, a pena intermediária fica em 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa.
+3ª etapa: reconhecida a incidência da causa especial de diminuição de pena do artigo 33, § 4º, da Lei 11.343/2006, em sua fração máxima de 2/3, estabeleço a pena definitiva em 01 (um) ano e 08 (oito) meses de reclusão, e multa pecuniária de 166 (cento e sessenta e seis) dias-multa.
+Atento aos termos da Súmula Vinculante n. 59, fixo o regime inicial aberto e substituo a pena privativa de liberdade por restritiva de direitos, porquanto ausentes vetores negativos na primeira fase da dosimetria e atendidos os requisitos do artigo 33, § 2º, alínea "c", e artigo 44, do Código Penal.
+Assim, uma vez verificado que a matéria trazida no presente writ é objeto de jurisprudência consolidada no Superior Tribunal de Justiça, não há nenhum óbice à concessão da ordem liminarmente.
+Na verdade, a ciência posterior do Parquet, longe de suplantar sua prerrogativa institucional, homenageia o princípio da celeridade processual e inviabiliza a tramitação de ações cujo desfecho, em princípio, já é conhecido (EDcl no AgRg no HC 324.401/SP, Relator Ministro GURGEL DE FARIA, 5ª Turma, DJ-e 23/2/2016).
+Em suma, para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica (AgRg no HC 514.048/RS, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 6/8/2019, DJe 13/8/2019).
+Ante o exposto, não conheço do writ, mas concedo parcialmente, de ofício, a ordem em favor de VALDINEI TONIATO NUNES para fixar a pena em 01 (um) ano e 08 (oito) meses de reclusão, e pagamento de multa pecuniária equivalente a 166 (cento e sessenta e seis) dias-multa, no regime inicial aberto, substituída a pena privativa de liberdade por duas penas restritivas de direitos a serem definidas pelo juízo da execução penal.
+Comunique-se com urgência a autoridade coatora e o juízo de primeiro grau.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
