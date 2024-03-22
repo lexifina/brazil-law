@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de DOUGLAS MARCEL SILVA no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina (HC n. 5069329-68.2023.8.24.0000).
+Depreende-se dos autos que o paciente encontra-se preso preventivamente pela suposta prática dos delitos tipificados nos arts. 157, §§ 2º, II, e 2º-A, I; 180, caput; e 311, caput , todos do Código Penal.
+Impetrado habeas corpus na origem, a ordem foi denegada.
+Neste writ, a defesa alega a ausência de fundamentação do decreto prisional e dos requisitos autorizadores da custódia.
+Pontua que "o paciente não possui qualquer envolvimento na prática criminosa apontada, sendo que está sendo vinculado ao crime, em linhas gerais, por ter locado o imóvel a um dos suspeitos" (e-STJ fl. 6).
+Destaca, por fim, as suas condições pessoais favoráveis.
+Dessa forma, requer, liminarmente e no mérito, a expedição do salvo-conduto em benefício do acusado.
+Indeferida a liminar e prestadas as informações, opinou o Ministério Público Federal pelo não conhecimento da ordem.
+É o relatório.
+Insta consignar que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+No caso, são estes os fundamentos invocados para a decretação da prisão preventiva (e-STJ fls. 48/49):
+Nesse panorama, a conjugação dos elementos obtidos pelos policiais da Divisão de Investigação Criminal de Tubarão permite concluir por indícios su cientes de autoria dos representados Edmar Medeiros Nogueira, Erick de Oliveira Marega, Douglas Marcel Silva, Guilherme Felipe Guimarães e Thiago Rodrigues Fernandes, pelo menos no nível exigível nesta fase embrionária da persecução criminal.
+Consigne que, quanto aos representados Edmar e Erick os elementos são muito mais abundantes que aos demais, entretanto, resta comprovado o ligamento entre eles, que por ora é o necessário a justificar a medida.
+Os representados Douglas, Guilherme e Thiago vêem-se envoltos na prática delitiva Presente, portanto, o fumus commissi delicti, o segundo requisito .
+Por fim, o terceiro requisito, qual seja, o periculum libertatis , fundamenta-se na garantia da ordem pública local, diante da gravidade em concreto do crime e da possibilidade de reiteração delitiva.
+Sobreleva a gravidade do crime os fatos terem ocorrido em dia (02/10/2023 - segunda- feira), em horário (aproximadamente às 9h50min) e em local de intensa movimentação do bairro Oficinas, considerando, ainda, que o estabelecimento vítima está localizado ao lado Policlínica Central de Tubarão e próximo a igrejas, a lanchonetes e a estabelecimentos comerciais diversos.
+Ademais, também deve ser levado em consideração na análise da gravidade em concreto do crime as seguintes circunstâncias: uma das funcionárias do estabelecimento vítima ter passado mal; Leoni Boneti, proprietário do estabelecimento vítima, ter sido golpeado na parte de trás da cabeça por duas vezes e o executor que estava de capacete ter atirado duas vezes para cima para o outro executor fugir com ele na moto vermelha usada no roubo (evento 1, INQ2).
+A prisão preventiva dos representados Edmar Medeiros Nogueira, Erick de Oliveira Marega, Douglas Marcel Silva, Guilherme Felipe Guimarães e Thiago Rodrigues Fernandes também é necessária para acautelar a ordem pública em razão da possibilidade de reiteração delitiva.
+ ..
+Embora o representado Douglas Marcel Silva responda a apenas dois processos criminais na Comarca de Tubarão ( evento 2, CERTANTCRIM1 ) e os representados Guilherme Felipe Guimarães e Thiago Rodrigues Fernandes não respondam a processos criminais (evento 3, CERTANTCRIM1 e evento 4, CERTANTCRIM1 ), a dinâmica dos fatos sintetizada no relatório de investigação juntado no evento 1, REL_MISSAO_POLIC66 e complementada no evento 1, REL_MISSAO_POLIC65, leva a crer que também há perigo no estado de liberdade desses representados, os quais, em tese, concorreram para o roubo executado por Edmar Medeiros Nogueira e de Erick de Oliveira Marega.
+Diante desse panorama, nenhuma medida cautelar que não seja a prisão preventiva será suficiente para acautelar a ordem pública. (Grifei.)
+Vê-se que a prisão foi decretada em decorrência do modus operandi empregado na conduta delitiva, revelador da periculosidade do paciente, consistente na prática, em tese, de crime de roubo majorado pelo concurso de agentes, uso de arma de fogo e emprego de ameaça e violência contra as vítimas. Ademais, o paciente responde a dois processos criminais.
+Tais circunstâncias, como já destacado, evidenciam a gravidade concreta da conduta, porquanto extrapolam a mera descrição dos elementos próprios do tipo de roubo. Assim, por conseguinte, a segregação cautelar faz-se necessária como forma de acautelar a ordem pública.
+Nesse sentido:
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. ROUBO MAJORADO. SENTENÇA CONDENATÓRIA. DIREITO DE RECORRER EM LIBERDADE. INDEFERIMENTO. FUNDAMENTAÇÃO CONCRETA. MODUS OPERANDI. ILEGALIDADE. AUSÊNCIA. EXCESSO DE PRAZO. SÚMULA 52/STJ. HABEAS CORPUS DENEGADO.
+1. Apresentada fundamentação concreta pela sentença condenatória para indeferir o direito de recorrer em liberdade, evidenciada no modus operandi do delito, pois foram três os roubos cometidos contra o mesmo supermercado, indicando ousadia especial, não há ilegalidade.
+ ..
+3. Habeas corpus denegado. (HC n. 441.161/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 5/6/2018, DJe 11/6/2018.)
+PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ROUBO MAJORADO. PLEITO DE NULIDADE. INOBSERVÂNCIA DA ORDEM DE INQUIRIÇÃO PREVISTA NO ART. 400 DO CÓDIGO DE PROCESSO PENAL. INVERSÃO DA ORDEM DE OUVIDA DE TESTEMUNHAS. POSSIBILIDADE. ATO REALIZADO POR CARTA PRECATÓRIA, QUE NÃO SUSPENDEU O CURSO DA INSTRUÇÃO CRIMINAL. VIOLAÇÃO DO DIREITO DE PRESENÇA DO RÉU EM AUDIÊNCIA. NÃO DEMONSTRAÇÃO DE PREJUÍZO. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. EXCESSO DE PRAZO PREJUDICADO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. MODUS OPERANDI. GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+10. A sentença penal condenatória superveniente, que não permite ao réu recorrer em liberdade, somente prejudica o exame do habeas corpus quando contiver fundamentos diversos daqueles utilizados na decisão que decretou a prisão preventiva, o que não ocorreu no caso dos autos.
+11. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+12. A prisão preventiva está adequadamente motivada com base em elementos concretos extraídos dos autos, para garantia da ordem pública, diante do modus operandi da suposta conduta criminosa, indicando a periculosidade do paciente que, em concurso de pessoas e mediante grave ameaça exercida com emprego de arma de fogo e violência, adentrou estabelecimento comercial, local onde a vítima foi subjugada com tapas, e subtraiu roupas no valor total de R$ 1.525,00 (mil quinhentos e vinte e cinco reais) e pequena quantia em dinheiro.
+13. Segundo reiterada jurisprudência desta Corte, a periculosidade do agente, evidenciada no modus operandi do delito, é fundamento idôneo para justificar a prisão preventiva, tendo como escopo o resguardo da ordem pública, como ocorreu na espécie.
+14. Habeas corpus não conhecido. (HC n. 461.002/SP, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 23/10/2018, DJe 31/10/2018.)
+No mais, frise-se que as condições subjetivas favoráveis do acusado, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória. Nesse sentido:
+ ..  2. Condições pessoais favoráveis do recorrente não têm, em princípio, o condão de, isoladamente, ensejar a revogação da prisão preventiva, se há nos autos elementos suficientes a demonstrar a necessidade da custódia cautelar.
+3. Recurso em habeas corpus improvido. (RHC n. 64.879/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 21/3/2016.)
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
