@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por Emerson Carvalho Diniz contra a decisão do Tribunal de Justiça do Maranhão que, em juízo de admissibilidade, inadmitiu o recurso especial por ele apresentado contra o acórdão proferido na Apelação Criminal n. 6.489/2020 (fls. 240/245):
+APELAÇÃO CRIMINAL. ROUBO QUALIFICADO. SENTENÇA CONDENATÓRIA. ABSOLVIÇÃO. IMPOSSIBILIDADE. NÃO HÁ COMO ABSOLVER O APELANTE, POIS EXISTEM ELEMENTOS INDENES DE DÚVIDA ACERCA DA EFETIVA PARTICIPAÇÃO DO APELANTE. PENA CORRIGIDA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+No recurso especial, o agravante indica a violação dos arts. 59 e 68, ambos do Código Penal, a fim de na primeira etapa da dosimetria, afastar a valoração negativa das circunstâncias judiciais: culpabilidade, conduta social, personalidade e consequências do crime valoradas de forma inidôneas.  ..  Na segunda etapa da Dosimetria, conhecer da atenuante da confissão (art. 65, III, d, do CP) - (fls. 259/260).
+Decorrido o prazo sem o oferecimento de contrarrazões (fl. 399), o Tribunal de origem não admitiu o recurso com suporte na Súmula 7/STJ (fls. 400/401).
+Contra essa decisão a defesa interpõe o presente agravo (fls. 409/413).
+Instado a se manifestar, o Ministério Público Federal opinou pelo conhecimento do agravo para dar parcial provimento ao recurso especial (fls. 435/438).
+AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. DOSIMETRIA. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. CULPABILIDADE. AUDÁCIA. FUNDAMENTAÇÃO IDÔNEA. CONDUTA SOCIAL E PERSONALIDADE. ANTECEDENTES CRIMINAIS. INIDONEIDADE DA FUNDAMENTAÇÃO. CONSEQUÊNCIAS DO CRIME. AUSÊNCIA DE RECUPERAÇÃO DOS VALORES. MOTIVAÇÃO ADEQUADA. PARECER PELO CONHECIMENTO DO AGRAVO, PARA QUE SEJA DADO PARCIAL PROVIMENTO AO RECURSO ESPECIAL, DECOTANDO-SE AS VETORIAIS NEGATIVADAS DA CONDUTA SOCIAL E DA PERSONALIDADE, MANTENDO-SE, CONTUDO, A PENA DO ORA AGRAVANTE.
+É o relatório.
+O agravo preenche os requisitos de admissibilidade. Quanto ao recurso especial em si, tenho que prosperam, em parte, as teses apresentadas pelo agravante.
+Da leitura dos fundamentos colacionados pelas instâncias ordinárias, na valoração da pena-base, fls. 165 e 244, verifico que, somente quanto à culpabilidade (audácia), houve a colação de fundamentação apta a justificar a exasperação.
+Nesse sentido: AgRg no AgRg no AREsp n. 2.349.525/PA, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 29/9/2023.
+Quanto aos demais vetores - conduta social, personalidade e consequências -, a jurisprudência desta Corte Superior tem orientação diversa, sendo imperioso, então, o decote da valoração negativa.
+No que se refere ao pedido de reconhecimento da atenuante da confissão, a matéria não avaliada pelo Tribunal de origem, o que implica no reconhecimento da ausência de prequestionamento.
+Pelo quanto provido, preservados os demais termos da dosimetria da pena disposta pela Corte de origem, redimensiono a reprimenda do agravante a 5 anos e 8 meses de reclusão, mais pagamento de 16 dias-multa.
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a, b, c, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, dar-lhe parcial provimento, para excluir a valoração negativa dos vetores judiciais da conduta social, da personalidade e das consequências do crime, redimensionando as penas privativa de liberdade e pecuniária do agravante, nos termos da presente decisão. Ficam preservadas as demais determinações do combatido aresto.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. ROUBO MAJORADO. VIOLAÇÃO DOS ARTS. 59 E 68, AMBOS DO CP. PLEITO DE REDUÇÃO DA PENA-BASE. PARCIAL PROCEDÊNCIA. VALORAÇÃO INIDÔNEA DOS VETORES JUDICIAIS DA CONDUTA SOCIAL, DA PERSONALIDADE E DAS CONSEQUÊNCIAS DO CRIME. EXCLUSÃO QUE SE IMPÕE. PRESERVAÇÃO DO DESVALOR DA CULPABILIDADE. MODUS OPERANDI. AUDÁCIA. JURISPRUDÊNCIA DO STJ. PLEITO DE RECONHECIMENTO DA CONFISSÃO. MATÉRIA NÃO AVALIADA PELA CORTE DE ORIGEM. CARÊNCIA DE PREQUESTIONAMENTO.
+Agravo conhecido para conhecer parcialmente do recurso especial e, nos termos do dispositivo, dar-lhe parcial provimento.
