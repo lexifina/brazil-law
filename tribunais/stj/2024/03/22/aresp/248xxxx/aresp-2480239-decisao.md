@@ -1,0 +1,60 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por ORGANIZAÇÕES BORGES LTDA. e ESTHER GONÇALVES BORGES em face da decisão acostada às fls. 313/316 e-STJ e-STJ que, em juízo prévio de admissibilidade, inadmitiu o seu recurso especial.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 263/266 e-STJ, proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+Apelação. Ação de locupletamento. Notas promissórias. Ação ajuizada dentro do prazo de três anos, que tem início a partir da data da prescrição dos títulos. Precedentes do STJ. REsp 1323468/DF. Responsabilização solidária da sócia avalista mesmo após a prescrição da ação cambial. Jurisprudência da Corte Superior. Sentença mantida. Recurso desprovido.
+Opostos embargos de declaração, foram rejeitados (fls. 276/277 e-STJ).
+Nas razões de recurso especial (fls. 285/294 e-STJ), alegou-se que o acórdão recorrido violou os artigos 44, 53, 70 e 77 do Decreto nº 57.663/63; 50 do CC e 133 a 137 do CPC, com base nos seguintes fundamentos:
+(i) a autora não cumpriu o requisito de protesto das notas promissórias, de modo que perdeu o direito de ação contra o devedor principal e o endossante;
+(ii) evidencia-se a ocorrência da prescrição trienal, contada da data de vencimento de cada uma das promissórias;
+(iii) em relação à sócia avalista, o prazo prescricional é de um ano, computado a partir da data de protesto de cada promissória, o que sequer ocorreu na hipótese;
+(iv) implementada a prescrição em face do devedor principal, ocorre a extinção automática da relação cambial, com a perda da eficácia do aval;
+(v) pretende a autora, na realidade, que a sócia avalista responda pelo pagamento das notas promissórias com seus bens particulares, sem demonstrar os requisitos necessários à desconsideração da personalidade jurídica.
+Contrarrazões às fls. 308/311 e-STJ.
+Em juízo prévio de admissibilidade (fls. 313/316 e-STJ), a Corte de origem inadmitiu o apelo nobre pela aplicação da Súmula 7/STJ.
+Inconformada, a parte interpôs o presente agravo em recurso especial (fls. 327/331 e-STJ), por meio do qual impugnou o referido óbice.
+Contraminuta ao agravo às fls. 335/338 e-STJ.
+É o relatório.
+Decide-se.
+A irresignação não merece prosperar.
+1. O Tribunal de origem dirimiu as questões atinentes à prescrição para a cobrança do crédito lastreado nas notas promissórias e à responsabilidade da sócia avalista nos seguintes termos (fls. 264/265 e-STJ):
+Consoante esclarece Marlon Tomazettei, "a LUG prevê apenas um meio para buscar o recebimento do crédito, qual seja: a ação cambial, em relação a qual são estabelecidos prazos rígidos de prescrição. Todavia, o Brasil adotou a reserva prevista no art. 15 do Anexo II da Convenção de Genebra, pelo qual se poderia admitir uma segunda ação para se buscar o recebimento do título de crédito, quando perdido o prazo prescricional. Assim sendo, no direito brasileiro, além da ação cambial, existe uma segunda forma de buscar o recebimento dos títulos de crédito, a chamada ação de locupletamento sem causa, prevista no art. 48 do Decreto nº 2.044/1908." (Títulos de Crédito. v. 2. 8ª edição. Pag. 252).
+Como afirma a Corte Superior, "considerando que o art. 48 do Decreto n. 2.044/1908 não prevê prazo específico para a ação de locupletamento amparada em letra de câmbio ou nota promissória, utiliza-se o prazo de 3 (três) anos previsto no art. 206, § 3º, IV, do Código Civil, contado do dia em que se consumar a prescrição da ação executiva." (REsp 1323468/DF. Rel. Min. João Otávio de Noronha)
+A presente ação foi ajuizada em 07.04.2021, e o  prazo  prescricional somente teria início no momento em que não fosse possível o ajuizamento da ação cambial, o que, de acordo com as notas promissórias acostadas às fls. 21, ocorreria respectivamente em 02.11.2022, 02.04.2023, e 02.05.2023.
+De modo conclusivo, portanto, o prazo para a ação de locupletamento não foi ultrapassado.
+Por se tratar de título de crédito, vigora o princípio da autonomia, segundo o qual a emissão da cártula constitui direito desvinculado da relação que lhe deu origem. Assim, a prova se baseia exclusivamente nas notas promissórias, sendo desnecessária a explicitação da causa debendi.
+Caberia à ré demonstrar o pagamento, o que não ocorreu. A justificativa trazida diz respeito à "grave crise financeira", e, concretamente, não afasta a responsabilidade.
+"Na linha dos precedentes desta Corte, prescrito o cheque, desaparece a relação cambial e, em consequência o aval. Dessa forma, o avalista só responde pela dívida se provado o seu locupletamento. A mesma orientação deve ser aplicada ao avalista de nota promissória prescrita."(AgRg no REsp 849.102/SP. Rel. Min. Sidnei Beneti)
+No caso concreto, como bem observado na sentença, "verifica-se que a emissão das notas promissórias ocorreu em 01.11.2016, estando a 2ª ré na sociedade da empresa, pois como pode ser constatado pela vigésima sétima alteração contratual da sociedade empresária da 1ª ré, às fls. 22-32, esta somente ocorreu em 03.04.2017, o que demonstra que a 2ª ré, na qualidade de sócia empresarial, se beneficiou do valor emprestado pela parte autora."(fls. 197)
+Denota-se que os artigos indicados como violados nas razões do apelo nobre não foram objeto de análise no acórdão recorrido, nem mesmo implicitamente, tampouco foram ventilados nos embargos declaratórios opostos pelos recorrentes. Carecem, portanto, do necessário prequestionamento.
+Com efeito, as instâncias inferiores dirimiram a controvérsia levando em conta tratar-se de propositura de ação ordinária de locupletamento, tratada no art. 48 do Decreto 2.044/1908, e não ação de execução de notas promissórias, cujos prazos, conceitos e regras são tratados no Decreto nº 57.663/1963.
+Por igual, não foi enfrentada a tese de que a responsabilidade da sócia avalista representaria uma espécie de desconsideração da personalidade jurídica sem observância dos requisitos legais exigidos para tanto.
+Nessa toada, ausente o debate acerca do conteúdo dos aludidos dispositivos legais pela Corte local, incide o óbice da Súmula 211/STJ, impedindo o conhecimento do reclamo.
+1.1. Ademais, em relação à prescrição, a parte insurgente deixou de impugnar fundamento apto a, por si só, manter a conclusão alcançada, consistente na afirmação de que o prazo prescricional somente teria início no momento em que não fosse possível o ajuizamento da ação cambial. Há, no ponto, deficiência de fundamentação, a atrair a aplicação da Súmula 283/STF, por analogia.
+1.2. Verifica-se, ainda, que a conclusão adotada pelo Tribunal está em conformidade com o entendimento desta Corte Superior no sentido de que: (i) uma vez prescrita a nota promissória, o art. 48 do Decreto n. 2.044/1908 prevê o cabimento da ação de locupletamento, dispositivo aplicável às notas promissórias por força do art. 56 do mesmo diploma legal; e (ii) como o art. 48 do Decreto n. 2.044/1908 não prevê prazo específico para a ação de locupletamento amparada em letra de câmbio ou nota promissória, utiliza-se o prazo de três anos previsto no art. 206, § 3º, IV, do CC, o qual só se inicia após exaurida a prescrição da ação executiva, que, para a nota promissória, finda-se em três anos.
+A respeito, confira-se:
+RECURSO ESPECIAL. AÇÃO DE LOCUPLETAMENTO. NOTA PROMISSÓRIA PRESCRITA. DÚVIDA QUANTO AO FUNDAMENTO DA AÇÃO: ART. 884 DO CÓDIGO CIVIL OU ART. 48 DO DECRETO N. 2.044/1908. BROCARDO DA MIHI FACTUM DABO TIBI IUS. APLICAÇÃO DO SEGUNDO DISPOSITIVO LEGAL. AUSÊNCIA DE PRESCRIÇÃO. DESNECESSIDADE DE COMPROVAÇÃO DO NEGÓCIO JURÍDICO SUBJACENTE. PRESUNÇÃO JURIS TANTUM DO LOCUPLETAMENTO PELA SÓ APRESENTAÇÃO DO TÍTULO, ACOMPANHADO DO PROTESTO PELA FALTA DE PAGAMENTO. VIOLAÇÃO DO ART. 333, I, DO CPC RECONHECIDA.
+1. O juiz não está adstrito aos nomes jurídicos nem a artigos de lei indicados pelas partes, devendo atribuir aos fatos apresentados o enquadramento jurídico adequado. Aplicação do brocardo da mihi factum dabo tibi ius.
+2. A existência de ação de locupletamento amparada em nota promissória prescrita, prevista no art. 48 do Decreto n. 2.044/1908 (aplicável às notas promissórias por força do art. 56 do mesmo diploma legal), desautoriza o cabimento da ação de enriquecimento sem causa amparada no art. 884 do Código Civil, por força do art. 886 seguinte.
+3. Considerando que o art. 48 do Decreto n. 2.044/1908 não prevê prazo específico para a ação de locupletamento amparada em letra de câmbio ou nota promissória, utiliza-se o prazo de 3 (três) anos previsto no art. 206, § 3º, IV, do Código Civil, contado do dia em que se consumar a prescrição da ação executiva.
+4. Na ação de locupletamento prevista na legislação de regência dos títulos de crédito, a só apresentação da cártula prescrita já é suficiente para embasar a ação, visto que a posse do título não pago pelo portador gera a presunção juris tantum de locupletamento do emitente, nada obstante assegurada a amplitude de defesa ao réu.
+5. Recurso especial conhecido e parcialmente provido.
+(REsp n. 1.323.468/DF, relator Ministro João Otávio de Noronha, Terceira Turma, julgado em 17/3/2016, DJe de 28/3/2016.)
+Igualmente, quanto à legitimidade/responsabilidade da sócia avalista, o aresto também se coaduna com a jurisprudência do STJ, segundo a qual "prescrita a ação cambiária, perde eficácia o aval prestado ao título de crédito, de modo que responde apenas o devedor principal pela obrigação, salvo na hipótese de locupletamento do avalista." (AgInt no AREsp n. 1.520.570/SP, relatora Min. MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 30/3/2020, DJe de 2/4/2020).
+Na mesma direção:
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. TÍTULO PRESCRITO. ILEGITIMIDADE PASSIVA AD CAUSAM DOS AVALISTAS. SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do STJ é firme quanto à ilegitimidade de o avalista responder por dívida inscrita em título de crédito prescrito, salvo quando comprovado seu locupletamento ilícito, circunstância afastada no presente caso. Manutenção da Súmula 83/STJ.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 1.763.758/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/6/2021, DJe de 5/8/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À AÇÃO MONITÓRIA. CÉDULA DE CRÉDITO BANCÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. LEGITIMIDADE PASSIVA DOS AVALISTAS. LOCUPLETAMENTO. REVISÃO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. RECUPERAÇÃO JUDICIAL. NOVAÇÃO. INEXISTÊNCIA. INVIÁVEL A SUSPENSÃO DA PRETENSÃO EXECUTÓRIA EM RELAÇÃO AOS COOBRIGADOS. SÚMULA 83/STJ. JUROS REMUNERATÓRIOS ABUSIVOS. CUMULAÇÃO DE ENCARGOS. ANÁLISE QUE DEMANDA O REEXAME DE PROVAS E CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. AUSÊNCIA DE CONSTATAÇÃO. AGRAVO INTERNO DESPROVIDO.
+(..)
+2. A jurisprudência desta Corte é firme quanto à ilegitimidade do avalista para responder por dívida inscrita em título de crédito prescrito, salvo quando comprovado seu locupletamento ilícito, circunstância aventada no caso.
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.029.572/SP, relator Min. MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/6/2017, DJe de 2/8/2017.)
+Dessa forma, considerando que o entendimento adotado pelo Tribunal de origem está em consonância com a jurisprudência desta Corte Superior, impõe-se o óbice da Súmula n. 83 do STJ.
+1.3. Outrossim, na hipótese, as instâncias inferiores concluíram que a avalista, na qualidade de sócia empresarial de sociedade familiar, se beneficiou do valor emprestado pela parte autora/recorrida. Desse modo, para derruir essa conclusão, seria necessário revisitar o acervo fático-probatório dos autos, providência incabível nesta via, diante do óbice da Súmula 7/STJ.
+2. Do exposto, com fulcro no artigo 932 do CPC c/c a Súmula 568 do STJ, conheço do agravo para não conhecer do recurso especial.
+Com base no art. 85, §11, do CPC, majoram-se os honorários sucumbenciais em 10% (dez por cento), incidentes sobre o valor já arbitrado pela origem, em favor da parte recorrida.
+Publique-se.
+Intimem-se.
+EMENTA
