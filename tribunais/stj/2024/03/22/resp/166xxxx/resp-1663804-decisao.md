@@ -1,0 +1,9 @@
+DECISÃO
+O patrono de WELLINGTON BAESSO DE LIMA, o Dr. Yuri Moraes da Motta, às fls. 336/344, informou o falecimento de WELLINGTON BAESSO DE LIMA.
+Analisando os autos, verifico que na inicial da ação ordinária o autor, ora recorrente, requereu a condenação da União "a regularizar o vínculo empregatício do Autor junto ao MT/DNIT, vinculado ao Ministério dos Transportes, conforme preceitua o Art. 109, parágrafo único da Lei 10.233/2001, bem como de maneira isonômica ao deferido aos companheiros da extinta Petrobrás, que trabalhavam e atualmente trabalham no DNIT/MT junto com este requerente" (fls. 27/28).
+Considerando que o vínculo empregatício é oriundo de contrato de trabalho, que é personalíssimo, o direito pleiteado por WELLINGTON BAESSO DE LIMA não é passível de transmissão.
+A morte do autor, ora recorrente, acarreta a extinção do mandato conferido a seus antigos patronos, do que decorre, então, o ônus processual aos sucessores do de cujus de se habilitarem no processo e de procederem à outorga de nova procuração ad judicia a profissionais habilitados à advocacia.
+Conforme noticiado às fls. 336/344, a sucessora do falecido recorrente foi cientificada pelo antigo patrono da causa acerca dos ônus processuais a ele imposto, não sobrevindo, a partir de tal cientificação, qualquer iniciativa de regularização da representação processual.
+Ante o exposto, reconsidero a decisão de fls. 345/351 e determino à Coordenadoria de Processamento de Feitos de Direito Público que promova a exclusão do antigo patrono dos registros processuais, pois o mandato a ele outorgado está extinto, e, como não houve a regularização do polo ativo, determino o prosseguimento do feito independentemente de novas intimações à parte recorrente, certificando-se, então, oportunamente, o trânsito em julgado do decreto de extinção do processo sem resolução do mérito.
+Publique-se. Intimem-se.
+EMENTA
