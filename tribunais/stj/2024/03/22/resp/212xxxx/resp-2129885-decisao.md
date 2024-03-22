@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Município de Diadema com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 39):
+Agravo de Instrumento - Civil Pública Apresentação de AVCB de escola municipal - Decisão que rejeitou a impugnação ao cumprimento de sentença Astreintes Trânsito em julgado de sentença Rediscussão Impossibilidade Pandemia não pode servir de justificativa para o não cumprimento de decisão judicial Liminar proferida em 2018 Decisão mantida Agravo não provido.
+Opostos embargos declaratórios, foram rejeitados (fls. 80/83).
+A parte recorrente aponta violação aos seguintes dispositivos de lei federal:
+(I) art. 272, §§ 2º e 5º, do CPC, ao argumento de que o processo está eivado de nulidade "pelo fato de que não houve intimação da decisão que negou monocraticamente o seguimento do recurso extraordinário interposto pelo Município de Diadema antes do início da fase de execução." (fl. 545);
+(II) arts. 393 do CC e 22 da LIND, pois se verifica a superveniência da pandemia da COVID-19 constituiu motivo de força maior que impediu o cumprimento da obrigação no prazo assinado no título exequendo. Ressalta que, diante do cenário de calamidade na saúde pública, caberia ao magistrado levar em consideração as dificuldades impostas ao administrador, de modo que "era necessário que, no mínimo, fosse ampliado o prazo para entrega do auto de vistoria ou que fosse deixada de ser aplicada a multa, sob pena de desrespeito ao ideário da legislação acima suscitada e inclusive do princípio constitucional da reserva do possível." (fl. 57);
+e (III) art. 537, § 1º, do CPC, porquanto, na hipótese, verificou-se o cumprimento parcial da obrigação "uma vez que foram realizadas diversas obras" (fl. 58), circunstância que autoriza o afastamento da multa ou a concessão de novo prazo para a entrega do Auto de Vistoria do Corpo de Bombeiros (AVCB).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não prospera.
+A matéria pertinente ao art. art. 272, §§ 2º e 5º, do CPC não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Quanto ao mais, a Corte Estadual consignou (fls. 40 /41):
+Como já afirmado no Acórdão proferido na Apelação Cível nº 1013915-77.2018.8.26.0161, não há controvérsia em relação à necessidade imperiosa do Auto de Vistoria do Corpo de Bombeiros nas 56 escolas municipais da cidade de Diadema (fl. 20).
+Não há que se falar em dificuldades enfrentadas em razão da pandemia, uma vez que a liminar para a apresentação do AVCB pela Agravante foi deferida em24.10.2018, há mais de 3 anos, e em período em que não existia a pandemia.
+Como bem observado na decisão agravada, o Município de Diadema não comprovou ter sequer apresentado o projeto técnico ao corpo de bombeiros,
+A decisão exequenda transitou em julgado em 28.10.2021 (fl. 254 a.o.), não cabendo mais a discussão acerca da exclusão da multa ou a sua redução.
+(..)
+A superveniência dos Decretos Municipais que declararam estado de calamidade pública no município não têm o condão de excluir a multa diária aplicada, uma vez que, como já afirmado e reafirmado, a liminar para o cumprimento da obrigação de fazer foi deferida em 24.10.2018, tendo a Agravante permanecido inerte sem qualquer justificativa plausível.
+No presente caso, o recurso especial não impugnou fundamentos basilares que amparam o acórdão recorrido, quais sejam: (I) "A decisão exequenda transitou em julgado em 28.10.2021 (fl. 254 a.o.), não cabendo mais a discussão acerca da exclusão da multa ou a sua redução."; e (II) "a liminar para o cumprimento da obrigação de fazer foi deferida em 24.10.2018, tendo a Agravante permanecido inerte sem qualquer justificativa plausível." (fl. 41), de modo que a insurgência esbarra no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema: AgInt no REsp 1711262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no AREsp 1679006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+Ademais, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de aferir se é cabível ou não a redução da multa ou a fixação de novo prazo para o cumprimento da obrigação, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE MEDICAMENTOS. ASTREINTES. REVISÃO DO VALOR ARBITRADO E DO PRAZO ESTIPULADO PARA CUMPRIMENTO DE DECISÃO JUDICIAL. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A jurisprudência desta Corte trilha no sentido de que na via especial não é cabível, em regra, a revisão do valor estabelecido pelas instâncias ordinárias a título de multa diária por descumprimento da obrigação de fazer, ante a impossibilidade de análise de fatos e provas, conforme a disposição contida na Súmula 7/STJ.
+2. Contudo, admite-se, em caráter excepcional, que o quantum arbitrado seja alterado, caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade, o que não ocorreu na espécie.
+3. A alteração das conclusões da instância de origem, a fim de aferir se o prazo para cumprimento da obrigação se mostra inadequado, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, de acordo com o óbice previsto na Súmula 7/STJ.
+4 . Agravo interno não provido.
+( AgInt no AREsp n. 2.236.938/RJ , relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/5/2023, DJe de 25/5/2023.)
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+EMENTA
