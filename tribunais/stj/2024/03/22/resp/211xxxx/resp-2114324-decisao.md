@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por SÔNIA MARIA RAMOS MOREIRA (ESPOLIO), fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal contra acórdão proferido pelo Tribunal de Justiça do Estado de Sâo Paulo assim ementado:
+"APELAÇÃO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO E COMPENSAÇÃO POR DANOS MORAIS. SENTENÇA DE PROCEDÊNCIA,COM A CONDENAÇÃO DO RÉU NA RESTITUIÇÃO EM DOBRO DOS VALORES DESCONTADOS E NA COMPENSAÇÃO POR DANOS MORAIS FIXADA EM R$ 5.000,00 (CINCO MIL REAIS). DETERMINAÇÃO À AUTORA DE RESTITUIR AO BANCO OS VALORES CREDITADOS EM SUA CONTA. RECURSOS DE AMBAS AS PARTES. LAUDO PERICIAL QUE CONCLUIU PELA FALSIDADE DA ASSINATURA DA AUTORA NO INSTRUMENTO DE CONFISSÃO DE DÍVIDA APRESENTADO PELO BANCO. RECURSO DA AUTORA SOB A ALEGAÇÃO DE QUE A SENTENÇA ESTÁ FUNDAMENTADA EM FATOS EQUIVOCADOS, POIS NÃO PEDIU A DEVOLUÇÃO DE VALORES NEM RECEBEU QUALQUER QUANTIA DO BANCO EM SUA CONTA. NULIDADE DA SENTENÇA CONFIGURADA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. PETIÇÃO INICIAL AMPARADA APENAS NO QUESTIONAMENTO DE NEGATIVAÇÃO EM NOME DA AUTORA. AFASTAMENTO DA CONDENAÇÃO DAS PARTES NA DEVOLUÇÃO DE VALORES. NEGATIVAÇÃO INDEVIDA. DANO MORAL. NÃO OCORRÊNCIA. PREEXISTÊNCIA DE INSCRIÇÃO APARENTEMENTE LEGÍTIMA. A NÃO DEMONSTRAÇÃO PELA AUTORA DA ILICITUDE DAS NEGATIVAÇÕES PREEXISTENTES E CONCOMITANTES AFASTA O DEVER DE COMPENSAÇÃO POR DANOS MORAIS POR APONTAMENTO INDEVIDO EM ÓRGÃOS DE PROTEÇÃO AO CRÉDITO (SÚMULA Nº 385, STJ). RECURSO DO BANCO PROVIDO E DA AUTORA, PARCIALMENTE PROVIDO" (fl. 329, e-STJ).
+Nas razões do recurso, a recorrente aponta, além de divergência jurisprudencial, violação dos arts. 186 e 927 do CC, 373, I, do CPC. Defende, em síntese, que o pedido de indenização por danos morais seja julgado procedente, sob a alegação de que todas as negativações em nome da recorrente são indevidas.
+Aduz que Súmula nº 385/STJ é clara no sentido de negar indenização a título de dano moral se, e somente se, preexistente negativação indevida, que não é o caso dos presentes autos.
+Sem contrarrazões, o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+Na hipótese dos autos, o Tribunal de Justiça consignou:
+"A autora pede a condenação por danos morais decorrentes da inscrição indevida do débito junto aos órgãos de proteção ao crédito.
+Conforme extrato de apontamentos em nome da autora juntado pelo Serasa em atendimento ao ofício do DD. Juízo a quo, constata-se a existência de protestos realizados em seu nome no ano de 2015 (fls. 26), portanto, antes da negativação ora discutida, realizada em 27.05.2016 (fls.25).
+Pessoalmente comungo do entendimento exarado no voto da Ministra Relatora Nancy Andrighi, que, por ocasião do julgamento do Resp. nº 1061134/RS, nesta parte vencida, no qual entendeu que "as anotações anteriores, todavia, devem ser levadas em conta pelo Juiz no momento da fixação do quantum indenizatório". Afirmando, ainda, que "não há sentido em condicionar a análise da existência ou não de dano moral à comprovação de que o consumidor é ou não honesto. O que se discute é a licitude da inscrição, o que está em análise é a conduta do órgão mantenedor do cadastro do consumidor".
+Contudo, esse entendimento ficou suplantado tanto pela Súmula nº 385, como pela prolação dos julgamentos referidos com efeito de recurso repetitivo (art. 543-C, CPC/73; art. 1.036, CPC/15).
+Súmula 385: Da anotação irregular em cadastro de proteção ao crédito, não cabe indenização por dano moral, quando preexistente legítima inscrição, ressalvado o direito ao cancelamento.
+Pelo exposto, a condenação na compensação por danos morais deve ser afastada, assim como fica afastado o dever das partes de restituir valores, mantida a declaração de inexistência do débito" (fls. 334/334, e-STJ - grifou-se).
+Nesse cenário, a revisão do julgado esbarra no óbice da Súmula nº 7/STJ.
+Ademais, verifica-se que a decisão da Corte estadual encontra-se em harmonia com a jurisprudência do Superior Tribunal de Justiça, em julgamento submetido ao rito dos recursos especiais repetitivos (REsp 1.386.423/MG - Tema 922, no sentido de que a existência de inscrições legítimas preexistentes descaracterizam o dano moral, consoante observa-se da ementa do julgado:
+"RECURSO ESPECIAL. OMISSÃO. NÃO OCORRÊNCIA. COMANDADA DANO MORAL. NÃO CARACTERIZADO. INSCRIÇÃO INDEVIDA PELO SUPOSTO CREDOR. ANOTAÇÕES ANTERIORES. SÚMULA 385/STJ.
+(..)
+. 2. "Da anotação irregular em cadastro de proteção ao crédito, não cabe indenização por dano moral, quando preexistente legítima inscrição, ressalvado o direito ao cancelamento" (Súmula 385/STJ).
+3. Embora os precedentes da referida súmula tenham sido acórdãos em que a indenização era buscada contra cadastros restritivos de crédito, o seu fundamento - "quem já é registrado como mau pagador não pode se sentir moralmente c fendido por mais uma inscrição do nome como inadimplente em cadastros de proteção ao crédito", cf. REáp 1.002.985-RS, rel. Ministro Ari Pargendler - aplica-se também às ações voltadas contra o suposto credor que efetivou a inscrição irregular.
+4. Hipótese em que a inscrição indevida coexistiu com quatorze outras anotações que as instâncias ordinárias ver ficaram constar em nome do autor em cadastro de inadimplentes. 5. Recurso especial a que se nega provimento" (REsp 1.386.424/MG, Rel. Paulo de Tarso Sanseverino, Rel. p/ o acórdão a Min. Maria Isabel Gallotti, Segunda Seção, DJe 16/05/2016).
+Nesse mesmo sentido:
+"AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO CPC/15) - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO AUTOR.
+1. Adequada a deliberação monocrática no que concerne ao não acolhimento da tese de negativa de prestação jurisdicional, pois inexistentes quaisquer vícios no acórdão proferido pelo Tribunal a quo, ficando afastada a alegada violação ao artigo 1.022 do CPC/15.
+2. Na hipótese, o Tribunal de origem concluiu pela ausência de dano moral, ante a existência de inscrições prévias em cadastros de restrição ao crédito. 2.1. A ocorrência de inscrições pretéritas em cadastro de inadimplentes obsta a concessão de indenização por dano moral em virtude de inscrição posterior, ainda que esta seja irregular.
+Súmula 385 do STJ. 2.2. Acórdão recorrido em consonância com a jurisprudência desta Corte, a atrair a incidência da Súmula 83 do STJ, aplicável para ambas as alíneas do permissivo constitucional.
+2.3. A falta de comprovação de irregularidade nas inscrições anteriores, conforme concluiu o Tribunal a quo, não pode ser revista em sede de recurso especial, por demandar reexame de provas. Súmula 7/STJ. Precedentes.
+3. Agravo interno desprovido" (AgInt no AREsp 1.186.109/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/5/2018, DJe 30/5/2018).
+Incide, na espécie, a Súmula nº 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 10% do valor da causa, ficando a recorrente responsável pelo pagamento de metade desse valor, em razão da sucumbência recíproca.
+Assim, em observância ao art. 85, § 11, do CPC, majoro os honorários em 15% sobre o valor da causa, em favor do patrono da parte re corrida, observado o benefício da justiça gratuita, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
