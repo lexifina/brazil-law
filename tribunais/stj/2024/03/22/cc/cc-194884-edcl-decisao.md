@@ -1,0 +1,22 @@
+DECISÃO
+Em análise, embargos de declaração opostos pelo ESTADO DE SANTA CATARINA, contra decisão da lavra do Ministro Humberto Martins, que conheceu do conflito para declarar competente o suscitado.
+A parte embargante sustenta, em síntese, omissão da decisão ora embargada quanto a incidência da Súmula 224/STJ, ao argumento de que "na situação dos autos, afigura-se descabido o conflito de competência. Cabe ao juízo federal simplesmente decidir acerca de sua competência ou não e, se for o caso, restituir os autos ao juízo estadual".
+Ao final, requer o acolhimento dos declaratórios, atribuindo-lhes efeitos infringentes.
+Transcorreu in albis o prazo para apresentar impugnação aos embargos de declaração (fl. 208, e-STJ).
+Os embargos de declaração devem ser rejeitados.
+Nos rígidos limites estabelecidos pelo artigo 1.022 do CPC, os embargos de declaração destinam-se apenas a esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento, corrigir erro material eventualmente existente no julgado. Excepcionalmente, podem ter efeitos infringentes, quando algum desses vícios for reconhecido.
+No caso, não há a configuração, na decisão ora embargada, de omissão, contradição, obscuridade ou erro material que permita a oposição dos embargos.
+Com efeito, na decisão embargada foi exposto de forma clara o motivo pelo qual o conflito foi conhecido para atribuir ao suscitado a competência para julgar o feito.
+Conforme expressamente consignado pelo Juiz suscitado, trata-se de "ação de obrigação de fazer movida por Evaldo de Souza contra o Município de Criciúma e o Estado de Santa Catarina, por meio da qual postula, em síntese, a condenação da parte requerida ao fornecimento de medicação não padronizada e não incorporada nas políticas públicas" (fl. 34e).
+Esclareça-se, outrossim, que "a questão referente ao mérito da decisão do Juízo Federal, que reconheceu a ilegitimidade passiva da União, deveria ter sido impugnada na via recursal própria, sendo inviável o seu exame, no presente Conflito de Competência. Assim, não se lhe pode atribuir qualquer vício, quanto à matéria de fundo, que, por óbvio, não poderia ter sido apreciada, não havendo, portanto, qualquer omissão quanto ao pretendido pronunciamento do STJ sobre as disposições legais e constitucionais relacionadas ao mérito da controvérsia" (EDcl no AgInt no CC n. 193.753/RS, relatora Ministra Assusete Magalhães, Primeira Seção, julgado em 15/8/2023, DJe de 21/8/2023).
+Ademais, a controvérsia objeto do RE 1.366.243/SC - Tema 1234 do STF - não impede o julgamento do presente Conflito de Competência, já que a suspensão ali determinada é dirigida aos recursos especiais e recursos extraordinários.
+Sobre o tema, a jurisprudência:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE VÍCIOS NO JULGADO. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. IMPOSSIBILIDADE.
+1. Os embargos de declaração não servem para que se adeque a decisão ao entendimento da parte embargante, nem para o acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, pa ra rediscussão de matéria já resolvida. Precedentes.
+2. Embargos de declaração rejeitados (EDcl nos EDcl no AgInt nos EDcl no AREsp n. 1.824.718/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 14/3/2022, DJe de 17/3/2022).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE. 1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC. 2. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito. 3. Embargos de Declaração rejeitados. (EDcl nos EDcl no AgInt no REsp n. 1.721.713/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/2/2022, DJe de 15/3/2022).
+Isso posto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. PROCESSUAL CIVIL. ADMINISTRATIVO. FORNECIMENTO DE MEDICAMENTOS REGISTRADOS NA ANVISA E NÃO INCORPORADOS AO RENAME/SUS. CARÁTER SOLIDÁRIO DA OBRIGAÇÃO. COMPETÊNCIA CONCORRENTE DE TODOS OS ENTES FEDERADOS. TESE FIRMADA NO IAC 14/STJ. COMPETÊNCIA DA JUSTIÇA ESTADUAL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1022/CPC. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. INVIABILIDADE.
+EMBARGOS REJEITADOS.
