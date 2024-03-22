@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo de STELLA MARIS MOREIRA FUAO da decisão que inadmitiu recurso especial interposto com fundamento na alínea "a" do permissivo constitucional contra acórdão do Tribunal Regional Federal da 1ª Região assim ementado (e-STJ fl. 254) :
+PROCESSUAL CIVIL E TRIBUTÁRIO. AÇÃO ANULATÓRIA. CDA NA QUAL CONSTA O NOME DO CORRESPONSÁVEL. INCLUSÃO DO SÓCIO NO POLO PASSIVO DA EXECUÇÃO.
+1. O egrégio Superior Tribunal de Justiça reconheceu que: "Conforme assentado em precedentes da Seção, inclusive sob o regime do art. 543-C (REsp 1104900, Min. Denise Arruda, sessão de 25.03.09) não cabe exceção de pré-executividade em execução fiscal promovida contra sócio que figura como responsável na Certidão de Dívida Ativa  CDA. É que a presunção de legitimidade assegurada à CDA impõe ao executado que figura no títu lo executivo o ônus de demonstrar a inexistência de sua responsabilidade tributária, demonstração essa que, por demandar prova, deve ser promovida no âmbito dos embargos à execução" (REsp 1110925/SP, Rel. Ministro TEORI ALBINO ZAVASKI, PRIMEIRA SEÇÃO, julgado em 22/04/2009, Dje de 04/05/2009.
+2. No mesmo sentido, em decisão reafirmando o entendimento adotado, cumpre destacar que: "O Superior Tribunal de Justiça tem entendido, pacificamente, que "a) se o nome dos corresponsáveis não estiver incluído na CDA, cabe ao ente público credor a prova da ocorrência de uma das hipóteses listadas no art. 135 do CTN; b) constando o nome na COA, prevalece a presunção de legitimidade de que esta goza, invertendo-se o ônus probatório (orientação reafirmada no julgamento do REsp 1.04.9001/ES, sob o rito dos recursos repetitivos)" (AgRg nos EDcl no AREsp 419.648/ES, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 25/02/2014, DJe 19/3/2014. 2. Não tendo a ora recorrente se desincumbido do ônus probandi com o fito de afastar as hipóteses previstas no art. 135 CTN que autorizam a responsabilidade pessoal 410 do sócio em executivo fiscal, o entendimento firmado na origem não pode aqui ser revisto ante o óbice da Súmula 7/STJ.  .. . Agravo Regimental improvido" (AgRg no AREsp 708.225/DF, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 20/018/2015, DJe 01/09/2015).
+3. Na hipótese, o nome da corresponsável consta da CDA, não havendo elementos que afastem a presunção de legitimidade e certeza do título executivo em comento.
+4. Alegações genéricas, sem apontar e demonstrar especificamente os motivos para desconstituição do crédito tributário, não afastam a presunção de certeza e liquidez do titulo executivo.
+5. Apelação não provida
+Os embargos de declaração foram rejeitados.
+Em suas razões, a agravante aponta violação dos arts. 1.022, II, do CPC/2015 e 135 do CTN, sustentando, em síntese, "a possibilidade de discutir, por meio de exceção de pré-executividade, vícios formais e objetivos nas certidões de dívida e o reconhecimento de nulidade de tais títulos" (e-STJ fl. 274).
+Argumenta que "nos processos administrativos anexos, que se busca anular, pode-se verificar que a Fazenda nunca teve a preocupação de produzir prova: apenas lançou o nome da autora como co-responsável tributária, com a expectativa de conivência do Poder Judiciário, em manifesta violação ao devido processo legal e à ampla defesa, motivo pelo Qual devem ser declarados nulos os processos administrativos, no tocante à designação da autora como co-responsável tributária" (e-STJ fl. 279)
+Contrarrazões apresentadas às e-STJ fls. 285/296.
+A Corte a quo inadmitiu o recurso especial ante a incidência das Súmulas 7 e 83 do STJ, fundamento com o qual não concorda a parte agravante.
+Sem apresentação de contraminuta.
+Passo a decidir.
+Quanto ao tema referente ao cabimento da exceção de pré-executividade, o recurso em apreço é incabível.
+Do que se observa, o fundamento condutor adotado na decisão agravada é o de que o acórdão recorrido está em sintonia com precedente obrigatório desta Corte Superior, segundo o qual "a exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória. " (REsp n. 1.104.900/ES).
+Constata-se, ainda, que, na espécie, a aplicação das Súmulas 83 e 7 do STJ pela decisão a quo também guarda relação com o capítulo relativo ao cabimento da exceção de pré-executividade.
+Ocorre que, de acordo com o disposto no art. 1.030, § 2º, do CPC/2015, é cabível agravo interno contra a decisão que nega seguimento a recurso especial interposto contra acórdão que está em conformidade com o entendimento do STJ exarado no julgamento de recursos repetitivos.
+Confira-se:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+ ..
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+Esse agravo interno é a sede própria para se demonstrar eventual falha na aplicação de tese firmada no paradigma repetitivo em face da realidade do processo.
+Em razão dessa previsão normativa, é firme o entendimento desta Corte no sentido de que é incabível o agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo, publicada a partir de 18 de março de 2016, quando entrou em vigor o CPC/2015.
+Frise-se que, no contexto dos autos, a menção na decisão a quo sobre existência de outro óbice à admissibilidade do recurso especial, referente às Súmulas 83 e 7 do STJ, porquanto relacionada com o mesmo capítulo do recurso especial ao qual foi negado seguimento com fundamento em aresto repetitivo, não guarda autonomia a justificar o cabimento do agravo dirigido para esta Corte Superior.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
