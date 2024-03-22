@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus impetrado em favor de GUILHERME SILVA INOCENCIO FIGUEIREDO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido no julgamento do HC n. 2311172-26.2023.8.26.0000.
+Consta dos autos que o Juízo da Execução Penal indeferiu o pedido de indulto pleiteado pela defesa com base no art. 5º do Decreto Presidencial n. 11.302/2022, por considerar que o apenado não preenche o requisito formal, visto que foi condenado como incurso no art. 33, § 4º, da Lei 11.343/06.
+O Tribunal a quo manteve a decisão de primeiro grau em acórdão assim ementado:
+"Habeas Corpus. Indeferimento de concessão de indulto da pena com fundamento no Decreto nº 11.302/2022. Condenação por delito equiparado a hediondo tráfico de drogas privilegiado. Impossibilidade de concessão de indulto. Inteligência do art. 5º, inciso XLIII, da CRFB/88, e artigo 44, da Lei 11.343/06. Constrangimento ilegal não configurado. Ordem denegada" (fl. 1.323).
+A defesa alega, em síntese, que o art. 7º do Decreto n. 11.302/2022 admite a concessão do indulto natalino aos condenados pelo §4º do art. 33 da Lei 11.343/06 e que o recorrente preenche todos os requisitos para tanto.
+Requer o provimento do recurso nesse sentido.
+É o relatório.
+Decido.
+No caso, as instâncias ordinárias indeferiram o pedido de indulto apresentando a seguinte fundamentação:
+Decisão:
+" ..
+Em que pese a possibilidade, em tese, de aplicação do indulto ao crime de tráfico quando aplicada a redutora do art. 33, §4º, da Lei de Drogas, o decreto dispõe em seu art. 5º que, para aplicação da benesse, é necessário que a pena em abstrato do crime seja inferior a 05 anos.
+No caso, a redutora foi aplicada no patamar de 1/3 (fls. 631), o que ensejaria a redução da pena máxima em abstrato de 15 anos para 10 anos, ou seja, não preenchido requisito objetivo do decreto" (fls. 9/10).
+Acórdão:
+" ..
+No entanto, não é o caso de concessão do benefício, vez que apesar do delito de tráfico, com a diminuição prevista no artigo 33, § 4º, da Lei de Drogas, deve esse dispositivo ser interpretado em conjunto com o art. 5º do Decreto nº 11.302/2022, o qual estabelece limite de pena do delito em abstrato.
+Ademais, o tráfico ilícito de entorpecentes, ainda que aplicada a causa de diminuição de pena, não afasta a hediondez do delito, conforme anotado na Constituição Federal, em seu artigo 5º, inciso XLIII, que veda os benefícios de indulto e comutação aos sentenciados por crimes hediondos ou equiparados" (fl. 1.325).
+O acórdão impugnado está em dissonância com a jurisprudência desta Corte, a qual entende que o menor grau de reprovabilidade do crime de tráfico de drogas na forma privilegiada permite a concessão do benefício do indulto a condenados por tal infração penal.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. INDULTO. DECRETO N. 11.302/2022. CONDENADO POR TRÁFICO PRIVILEGIADO. POSSIBILIDADE. INTERPRETAÇÃO DOS ARTS. 5º E 7º DO ATO PRESIDENCIAL.
+1. O Decreto n. 11.302/2022 concede indulto natalino: (a) aos acometidos por por paraplegia, tetraplegia ou cegueira, doença grave permanente, que imponha severa limitação de atividade e exija cuidados contínuos que não possam ser prestados no estabelecimento penal, como neoplasia maligna ou síndrome da deficiência imunológica adquirida (aids), em estágio terminal; (b) aos agentes públicos que compõem o Sistema Único de Segurança Pública condenados por excesso culposo, por crime culposo; (c) aos militares das Forças Armadas, em operações de Garantia da Lei e da Ordem, condenados por excesso culposo; (d) aos maiores de 70 anos de idade que tenham cumprido pelo menos 1/3 da pena e (e) aos condenados por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos.
+2. De acordo com o art. 7º do ato Presidencial, o indulto natalino não abrange os crimes tipificados no caput e no § 1º do art. 33, exceto na hipótese prevista no § 4º do referido artigo, no art. 34 e no art. 36 da Lei n. 11343/2006. E o art. 5º, caput, estabelece que " s erá concedido indulto natalino às pessoas condenadas por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos".
+3. Referidos dispositivos devem ser interpretados no sentido de que o art. 7º, VI, parte final, do Decreto n. 11.302/2022 excepciona a regra geral estabelecida no art. 5º do referido ato. Não faria sentido que o decreto excetuasse a vedação do benefício ao tráfico privilegiado e, contraditoriamente, obstasse sua aplicação com base na pena abstrata do tráfico simples. Se assim fosse, toda e qualquer condenação por crime de tráfico, com ou sem aplicação do redutor, não seria passível da concessão de indulto, fazendo letra morta ao dispositivo acima invocado.
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 818.978/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 28/9/2023; sem grifos no original.)
+EXECUÇÃO PENAL. HABEAS CORPUS. SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. TRÁFICO DE DROGAS. MODALIDADE PRIVILEGIADA DO DELITO. ART. 33, § 4º, DA LEI N. 11.343/2006. ENTENDIMENTO DO COL. SUPREMO TRIBUNAL FEDERAL. AFASTAMENTO DA HEDIONDEZ. INDULTO. DECRETO N. 9.246/2017. FLAGRANTE ILEGALIDADE NO INDEFERIMENTO DO BENEFÍCIO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+I - (..)
+II - O STF, em decisão oriunda do Tribunal Pleno, no HC n. 118.533, afastou o caráter hediondo dos delitos de tráfico ilícito de entorpecentes em que houvesse a incidência da causa especial de diminuição de pena prevista no § 4º, do art. 33, da Lei n. 11.343/2006.
+III - A Terceira Seção desta Corte Superior, ao julgar a Petição n. 11.796/DF, adotou o posicionamento da excelsa Suprema Corte e firmou a tese segundo a qual "o tráfico ilícito de drogas na sua forma privilegiada (art. 33, § 4º, da Lei n. 11.343/2006) não é crime equiparado a hediondo, com o consequente cancelamento do enunciado 512 da Súmula deste Superior Tribunal de Justiça".
+IV - No caso, está configurado o constrangimento ilegal, uma vez que as instâncias de origem indeferiram o indulto ao paciente com base no Decreto n. 9.246/2017, não obstante tenha sido condenado pelo delito de tráfico de entorpecentes na sua forma privilegiada.
+Habeas corpus não conhecido. Ordem concedida, de ofício, para determinar que o d. Juízo das execuções analise o pedido de indulto, com base no Decreto n. 9.246/2017, afastando o caráter hediondo do tráfico privilegiado, para todos os fins.
+(HC n. 556.273/SP, relator Ministro Leopoldo de Arruda Raposo (Desembargador Convocado do TJ/PE), Quinta Turma, DJe de 3/3/2020; sem grifos no original.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. EXECUÇÃO PENAL. INDULTO. DECRETO N. 8.615/15. TRÁFICO PRIVILEGIADO. POSSIBILIDADE. PRECEDENTES. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. (..)
+2. O acórdão impugnado está em dissonância com o entendimento desta Corte que o menor grau de reprovabilidade do crime de tráfico de drogas na forma privilegiada permite a concessão do benefício do indulto a condenados por tal infração penal.
+3. Habeas corpus não conhecido, mas concedida a ordem, de ofício, para determinar que o Juízo das Execuções Criminais examine o pedido da paciente consoante disciplina o Decreto Presidencial n. 8.615/15 e a jurisprudência desta Corte.
+(HC n. 522.037/SP, de minha Relatoria, Quinta Turma, DJe de 26/8/2019; sem grifos no original.)
+EXECUÇÃO PENAL. HABEAS CORPUS. SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. TRÁFICO DE DROGAS. MODALIDADE PRIVILEGIADA DO DELITO. ART. 33, § 4º, DA LEI N. 11.343/06. ENTENDIMENTO DO COL. SUPREMO TRIBUNAL FEDERAL. AFASTAMENTO DA HEDIONDEZ. INDULTO PLENO. DECRETO N. 8.615/2015. FLAGRANTE ILEGALIDADE NA CASSAÇÃO DO BENEFÍCIO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus substitutivo de recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício, em homenagem ao princípio da ampla defesa.
+II - O STF, em decisão oriunda do Tribunal Pleno, no HC n. 118.533, afastou o caráter hediondo dos delitos de tráfico ilícito de entorpecentes em que houvesse a incidência da causa especial de diminuição de pena prevista no § 4º, do art. 33, da Lei n. 11.343/06.
+III - A Terceira Seção desta Corte Superior, ao julgar a Petição n. 11.796/DF, adotou o posicionamento da excelsa Suprema Corte e firmou a tese segundo a qual "o tráfico ilícito de drogas na sua forma privilegiada (art. 33, § 4º, da Lei n. 11.343/2006) não é crime equiparado a hediondo, com o consequente cancelamento do enunciado 512 da Súmula deste Superior Tribunal de Justiça".
+IV - No caso, está configurado o constrangimento ilegal, uma vez que o eg. Tribunal a quo cassou o indulto concedido ao paciente com base no Decreto Presidencial n. 8.615/2015, não obstante tenha sido condenado pelo delito de tráfico de entorpecentes na sua forma privilegiada.
+Habeas corpus não conhecido. Ordem concedida de ofício para, confirmando a liminar, afastar o caráter hediondo do tráfico privilegiado, para todos os fins, e restabelecer a decisão do Juiz da Execução, concessiva de indulto.
+(HC n. 477.280/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 26/2/2019; sem grifos no original.)
+Ante o exposto, com fundamento no art. 34, XVIII, "c", do Regimento Interno do Superior Tribunal de Justiça, dou provimento ao recurso para determinar que o Juízo da Execução reaprecie o pedido de indulto da defesa nos termos acima estabelecidos.
+Publique-se.
+Intimem-se.
+EMENTA
