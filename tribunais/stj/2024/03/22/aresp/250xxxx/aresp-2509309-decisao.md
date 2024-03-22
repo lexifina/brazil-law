@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por FACEBOOK SERVICOS ONLINE DO BRASIL LTDA. contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AÇÃO DE OBRIGAÇÃO DE FAZER C. C. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS.
+Indevida desativação da conta (página), em razão de não ter sido demonstrado que utilizada em desacordo com os "Termos de Serviços" da plataforma utilizada. Ausência de qualquer prévio aviso e oportunidade de ampla defesa e contraditório, preceitos constitucionalmente garantidos. Cancelamento do serviço indevido. Disposições dos arts. 497 e 498 do Código de Processo Civil (Lei 13.105/15) permitem ao juiz impor multa diária, em caso de descumprimento de determinação judicial. Danos morais caracterizados na espécie. Autor que se utilizava das redes sociais também para divulgar seu trabalho. Fixação em R$ 10.000,00 adequada para o caso concreto, em observância aos princípios da razoabilidade e proporcionalidade. Majoração da verba honorária de sucumbência, em cumprimento ao disposto no art. 85, §11, do CPC. Recurso improvido" (fl. 621 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 650-654 e-STJ).
+No recurso especial, o recorrente alega, além de divergência jurisprudencial, violação dos artigos 489, §1º, IV e VI, e 1.022, parágrafo único, II, do Código de Processo Civil.
+Sustenta a tese de negativa de prestação jurisdicional ao argumento de que o Tribunal de origem não se manifestou acerca do "documento probatório anexado nos autos principais, que trata das violações do Recorrido aos termos e políticas do serviço Instagram, questão relevante conforme delineado nos próprios vv. acórdãos recorridos" (fl. 634 e-STJ).
+Com as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No tocante às omissões apontadas no acórdão estadual, o tribunal de origem ao decidir os embargos de declaração, concluiu que a parte ora agravante não comprovou a conduta violadora da parte contrária. É o que se extrai da seguinte passagem:
+"A respeito da insurgência da parte embargante, fato é que, mesmo em sede judicial, não trouxe qualquer justificativa a respeito da suposta conduta violadora do usuário que pudesse ensejar o banimento do seu perfil.
+Nesse sentido, constou expressamente do v. acórdão o seguinte: "consta que o autor é empresário do setor de educação do marketing digital e proprietário de escola virtual. Afirma que, antes de sua conta ser desativada, possuía mais de 30.000 (trinta mil) alunos e o seu perfil na rede social Instagram continha 956.618 seguidores.
+Pois bem, restou incontroverso nos autos que, em 08/06/2021, o autor recebeu a mensagem de que a conta havia sido desativada, de forma sumária, sem qualquer aviso ou advertência e, ao solicitar a reativação, foi informado que a plataforma teria tomado referida providência, diante de conduta contrária aos "termos de uso". Assim, ficou impossibilitado de acessá-la, de modo que nenhum seguidor poderia mais vê-la, tampouco seria possível restaurar referida conta por esse tipo de violação (págs. 40/65).
+Com efeito, no caso "subjudice", não se demonstrou/comprovou que o autor utilizou sua página em desacordo comos "Termos de Serviços" da plataforma.
+Não é razoável que a página do autor fosse banida sem qualquer prévio aviso e oportunidade de ampla defesa e contraditório, preceitos constitucionalmente garantidos.
+O repentino banimento da página (perfil do autor) se mostrou indevido, haja vista que, não obstante a existência de cláusula permitindo a interrupção do serviço na hipótese de usuário que viola a política de uso do Instagram, é certo que se deixou de prestar as informações necessárias a fim de possibilitar ao autor o conhecimento da conduta supostamente violada e assegurar-lhe a ampla defesa.
+Ademais, ao longo de toda instrução, o réu sequer descreveu e muito menos provou, qual teria sido a conduta "incompatível" do autor com o que os Termos de Uso aceitam serem veiculados no serviço.
+A propósito, conforme constou da r. sentença de primeiro grau: "Vale ressaltar que, ainda que o conteúdo da postagem realizada pelo autor tenha supostamente violado os Termos de Uso do Facebook, fato que seria suficiente para afastar o direito do autor, o réu não produziu nenhuma prova nesse sentido. Com efeito, caberia ao réu demonstrar o conteúdo da publicação do autor que supostamente teria levado a exclusão do perfil da mencionada rede social, para que pudesse se aferir de forma segura se o conteúdo era capaz de violar os Termos de Uso do Site Facebook.
+Contudo, a suposta publicação abusiva não consta dos autos. Também não há nos autos prova concreta de que o autor tenha sido previamente notificado sobre postagens abusivas, ao revés, há notícia tão somente do bloqueio integral da página, de forma unilateral, e sem qualquer especificação do por quê a publicação seria abusiva, com menção genérica à desconformidade ao Termo de Uso (págs. 442).
+Diante da sonegação de informações mínimas a respeito da regra que teria sido violada, já que o Facebook e suas políticas não estão acima das leis brasileiras, não resta alternativa senão reconhecer a injustiça e ilegalidade da conduta do réu" (págs. 622/624).
+Na espécie, a questão jurídica trazida à discussão nesta segunda instância foi efetivamente analisada pelo v. acórdão embargado, de maneira clara, restando expressas as razões do convencimento da Turma Julgadora, pelo que omissão também não há.
+Assim, o que pretende a embargante é rediscutir a matéria, insatisfeita com o deslinde da controvérsia. Mas, nessa situação, como se sabe, a via adequada é outra" (fls. 652-653 e-STJ - grifou-se).
+Nesse contexto, no que diz respeito à alegada negativa de prestação jurisdicional - violação do artigo 1.022 do CPC -, agiu corretamente o tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição, obscuridade ou erro material no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DEVOLUÇÃO DE PARCELAS PREVIDENCIÁRIAS. PREVIDÊNCIA PRIVADA. ENCERRAMENTO DO PLANO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DO ART. 489 DO CPC/2015. INOCORRÊNCIA. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7/STJ. DECISÃO MANTIDA.
+1. Ação de devolução de parcelas previdenciárias.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, inexiste a violação do art. 489 do CPC/15.
+4. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A incidência das Súmulas 5 e 7/STJ prejudicam a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo interno não provido."
+(AgInt no AREsp 2.183.495/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022. - grifou-se)
+Registra-se que, mesmo à luz do art. 489 do CPC, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV). A motivação contrária ao interesse da parte, ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador, não autoriza o acolhimento dos embargos declaratórios.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
