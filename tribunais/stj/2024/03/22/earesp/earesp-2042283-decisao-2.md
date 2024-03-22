@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por FUNDAÇÃO CORSAN DOS FUNCIONÁRIOS DA COMPANHIA RIOGRANDESE DE SANEAMENTO CORSAN contra decisão que negou seguimento ao recurso especial sob o fundamento de ausência de omissão, contradição ou obscuridade no acórdão (e-STJ fls. 472/479).
+O acórdão recorrido está assim ementado (e-STJ fls. 310/311):
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO REVISIONAL. CONTRATO DE MÚTUO CELEBRADO COM ENTIDADE FECHADA DE PREVIDÊNCIA COMPLEMENTAR. FUNCORSAN.
+PRELIMINAR CONTRARRECURSAL DE AUSÊNCIA DE INTERESSE PROCESSUAL. CAPITALIZAÇÃO DE JUROS. A presente ação revisional é via necessária e útil para a parte-autora resolver sua pretensão, razão pela qual preenchido o requisito do interesse processual. Preliminar rejeitada.
+PRESCRIÇÃO. A pretensão revisional de contrato bancário cumulada com repetição do indébito prescreve nos prazos previstos no artigo 177 do CC/1916 e nos artigos 205 e 2.028 do CC/2002. Continuidade negocial. Ainda que fosse possível cogitar-se de "continuidade negocial" pelas sucessivas renegociações realizadas entre as partes, o termo inicial do prazo prescricional aplicável permanece inalterado (data de assinatura de cada um dos contratos, isoladamente considerados). Trata-se de concreção do princípio da actio nata , segundo o qual o prazo prescricional tem início com a lesão do direito.
+REVISÃO JUDICIAL DO CONTRATO. Amparada em preceitos constitucionais e nas regras de direito comum, a revisão judicial dos contratos firmados é juridicamente possível, sem acarretar ofensa ao princípio do pacta sunt servanda.
+JUROS REMUNERATÓRIOS. LIMITAÇÃO. Não se aplicam as normas protetivas do Código de Defesa do Consumidor nem as disposições legais que regem os contratos regulados pelas instituições financeiras às entidades fechadas de previdência complementar, motivo pelo qual não podem estipular juros livremente, limitando-se aos critérios definidos pela Lei de Usura (art. 1º do Decreto n. 22.626/1933) e pelo Código Civil (art. 406 da Lei n. 10.406/2002).
+CAPITALIZAÇÃO DE JUROS. Destinando-se o mútuo a fins econômicos, presumem-se devidos juros, os quais, sob pena de redução, não poderão exceder a taxa a que se refere o art. 406, permitida a capitalização anual (art. 591 CC), desde que expressamente pactuada. No caso, inexistindo cláusula contratual clara, precisa e ostensiva estabelecendo a expressa pactuação da capitalização de juros, resulta vedada a capitalização em qualquer periodicidade.
+TAXA DE ADMINISTRAÇÃO. Resulta viável a cobrança da taxa de administração pela entidade, haja vista que constitui a devida contraprestação pelos serviços fornecidos ao mutuário. No caso concreto, configurada a cobrança da taxa de administração em valor superior ao contratado, impõe-se o acolhimento da irresignação para reconhecer o direito à devolução dos valores cobrados em excesso do mutuário.
+REPETIÇÃO DO INDÉBITO OU COMPENSAÇÃO. A repetição do indébito ou a compensação deve ser admitida quando houver o reconhecimento de abusividade.
+REDIMENSIONAMENTO DA SUCUMBÊNCIA. Na hipótese de sucumbência recíproca, serão proporcionalmente distribuídas entre os litigantes as despesas processuais. a fixação dos honorários advocatícios deve observar o grau de zelo do profissional, o lugar da prestação do serviço, além da natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+APELAÇÃO DA RÉ DESPROVIDA. APELAÇÃO DO AUTOR PARCIALMENTE PROVIDA.
+Os embargos de declaração foram rejeitados (e-STJ fls. 350/356).
+No especial (e-STJ fls. 361/367), fundamentado no art. 105, inciso III, alínea "a", da CF, a recorrente apontou ofensa ao art. 1.022, I e II, d o CPC/2015, sustentando, em síntese, negativa de prestação jurisdicional.
+No seu entender, o acórdão "não apreciou fundamentais questões jurídicas (aplicabilidade da Resolução nº 3.792/2009/BACEN e dispositivos da LC nº 109/2001 à espécie) inerentes ao efetivo deslinde do pleito judicial em exame, tampouco na sede integrativa, incorrendo em manifesta e importante omissão no ponto destacado" (e-STJ fl. 364).
+Foram oferecidas contrarrazões (e-STJ fls. 450/453).
+No agravo (e-STJ fls. 484/492), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+O Tribunal a quo decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da agravante, explicitando a motivação necessária para proceder a revisão dos contratos e afastar a alegação de que tal revisão implicaria desequilíbrio atuarial.
+Com efeito, conforme constou do acórdão dos embargos de declaração (e- STJ fl. 351):
+A decisão não contém omissão quanto aos empréstimos concedidos por entidade fechada de previdência complementar em relação aos juros incidentes no contrato, na medida em que o acórdão expressamente declarou que restou "incontroverso o fato de que a demandada FUNDAÇÃO CORSAN DOS FUNCIONÁRIOS DA COMPANHIA RIOGRANDENSE DE SANEAMENTO - FUNCORSAN - é uma "Entidade Fechada de Previdência Complementar Multipatrocinada" (art. 1º do Estatuto da referida Fundação - Evento 12 - Estatuto 4), motivo pelo qual não se aplicam as normas protetivas do Código de Defesa do Consumidor nem as disposições legais que regem os contratos regulados pelas instituições financeiras, na medida em que não podem auferir lucro das contribuições vertidas pelos participantes" (Evento 20).
+A decisão transcrevou a Súmula n. 563 do STJ, segundo a qual o "Código de Defesa do Consumidor é aplicável às entidades abertas de previdência complementar, não incidindo nos contratos previdenciários celebrados com entidades fechadas".
+Nota-se também a transcrição e destaque do REsp n. 1.536.786, do Ministro Luis Felipe Salomão, do seguinte trecho (Evento 20):
+(..)
+Assim, considerando a aplicabilidade do Direito Civil aos participantes e/ou assistidos de planos de benefícios e entidades de previdência complementar fechadas, esta 19ª Câmara Cível limita os juros remuneratórios em 12% ao ano no contrato de mútuo concedido.
+A alegada "manutenção do equilíbrio atuarial da carteira de empréstimos administrada pelo embargante" não impede a revisão dos contratos pelo Poder Judiciário de eventual abusividade praticada pela entidade fechada de previdência complementar.
+Ressalte-se que, a adoção de posicionamento contrário aos interesses da parte não se confunde com obscuridade, contradição, omissão ou negativa de prestação jurisdicional.
+Desse modo, quanto à alegada afronta ao art. 1.022, I e II, do CPC/2015, não assiste razão à parte.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos t ermos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se o s limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
+EMENTA
