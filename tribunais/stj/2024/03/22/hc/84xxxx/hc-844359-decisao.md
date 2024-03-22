@@ -1,0 +1,21 @@
+DECISÃO
+RODRIGO DA SILVA LEAL alega sofrer coação ilegal em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (HabeasCorpus n.º 51665226-59.2023.8.21.7000/RS).
+O paciente cumpre 7 meses de detenção, no regime semiaberto, por incursão no art. 331 do Código Penal (desacato). As instâncias ordinárias indeferiram seu pedido de indulto do Decreto n. 11.302/2022. A defesa assinala que a interpretação quanto à reincidência não é contemplada pelo decreto presidencial, pois o impedimento é restrito ao juízo de conhecimento.
+O Ministério Público Federal opinou pela concessão da ordem.
+Decido.
+O Tribunal de Justiça, ao manter o indeferimento do indulto, consignou que o art. 12 do Decreto n. 11.302/2022 "não se limita a estabelecer as hipóteses de concessão do indulto pelo Juízo do processo de conhecimento, mas revela a vedação aos reincidentes como critério geral".
+O dispositivo em apreço estabelece:
+O indulto natalino de que trata este Decreto será concedido pelo juízo do processo de conhecimento, quando se tratar de condenação primária, desde que não haja recurso da sentença interposto pela acusação.
+A condenação primária se refere à primeira transitada em julgado contra um indivíduo. Patente, assim, que a concessão do perdão ao reincidente, quando haja recurso da sentença interposto pelo réu, encontra óbice no art. 12 do Decreto 11.302/2022.
+A redação do dispositivo gera dúvidas quando à aplicação do benefício durante a fase de execução.
+A presença de contradições no decreto podem levar à aplicação desigual da lei em casos semelhantes. Todavia, a parte não pode ser prejudicada por legislação elaborada de forma descuidada. Em situações de eventual obscuridade na redação do decreto de indulto, esta Corte privilegia a interpretação que mais beneficia o apenado. Prevalece a compreensão de que as exceções ao benefício não admitem aplicação ampliativa, por analogia ou interpretação in malan partem.
+O paciente, reincidente, foi condenado a 7 meses de detenção, por incursão no art. 331, do CP. Esse é o único crime objeto da execução. O art. 12 do Decreto n. 11.302/2022, da forma em que está redigido, vedava ao Juiz do processo de conhecimento a declaração do indulto quando ainda não esgotadas as vias recursais para a defesa.
+Não se verifica a reprodução do mesmo óbice durante a fase da execução. É impossível compreender as razões para a disparidade de tratamento, mas, por disposição do decreto, em situação de várias condenações e de unificação do art. 111 da LEP, será cabível o indulto e, para tanto, o Juiz deverá considerar a pena em abstrato relativa a cada delito.
+Confira-se:
+Art. 5º Será concedido indulto natalino às pessoas condenadas por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos. Parágrafo único. Para fins do disposto no caput, na hipótese de concurso de crimes, será considerada, individualmente, a pena privativa de liberdade máxima em abstrato relativa a cada infração penal  .. .
+ .. Art. 11. Para fins do disposto neste Decreto, as penas correspondentes a infrações diversas serão unificadas ou somadas até 25 de dezembro de 2022  ..
+Parágrafo único. Não será concedido indulto natalino correspondente a crime não impeditivo enquanto a pessoa condenada não cumprir a pena pelo crime impeditivo do benefício, na hipótese de haver concurso com os crimes a que se refere o art. 7º, ressalvada a concessão fundamentada no inciso III do caput do art. 1º.
+Mesmo quando existem várias condenações (sentenças diversas e não apenas uma única, primária), a Terceira Seção fixou a interpretação de que é cabível o indulto "em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal),  quando  não há de se exigir o cumprimento integral da pena pelos crimes impeditivos" (AgRg no HC n. 856.053/SC, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 8/11/2023, DJe de 14/11/2023).
+À vista do exposto, concedo o habeas corpus para determinar ao Juiz da VEC que, em nova decisão, reexamine o pedido de indulto, sem aplicar na fase da execução o requisito da condenação primária, previsto no art. 12 do decreto de regência.
+Publique-se e intimem-se.
+EMENTA
