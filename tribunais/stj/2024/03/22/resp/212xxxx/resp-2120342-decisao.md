@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por PAULO FERREIRA DE SOUZA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Apelação n. 1.0000.23.075906-0/001).
+Extrai-se dos autos que o recorrente foi condenado, como incurso no art. 157, caput, do Código Penal, às penas de 5 anos e 10 meses de reclusão, em regime inicial fechado.
+Irresignada, a defesa interpôs apelação perante o Tribunal de origem, o qual deu parcial provimento ao recurso, em decisão assim ementada (e-STJ fl. 280):
+EMENTA: APELAÇÃO CRIMINAL - ROUBO - CULPABILIDADE - DECOTE - CIRCUNSTÂNCIAS DO CRIME - SIMULACRO DE ARMA DE FOGO - MANUTENÇÃO - ALTERAÇÃO DOS FUNDAMENTOS DA COMINAÇÃO DE PENA - MANUTENÇÃO DO QUANTUM DE PENA - POSSÍVEL - REFORMATIO IN PEJUS - NÃO OCORRÊNCIA - PENA DE MULTA - CORRELAÇÃO COM A PENA CORPÓREA.
+1. Para o cálculo da primeira fase da dosimetria, a culpabilidade deve ser compreendida como o juízo de reprovabilidade da conduta, apontando maior ou menor grau de censura da conduta do réu. Em dosimetria não se analisa a ocorrência ou não dos elementos da culpabilidade, parte do conceito do crime, mas sim, do grau de reprovação penal da conduta do agente, diante demonstração de elementos concretos para tal avaliação nos autos. 2. A utilização de simulacro de arma de fogo é suficiente para se macular a pena com fulcro nas circunstâncias do crime (art. 59 do CP), uma vez que agrava o modus operandi para além daquele previsto no tipo penal de Roubo. 3. Não há "reformatio in pejus" quando somente se altera os fundamentos da pena exarados pelo d. Magistrado, mantendo-se a pena inalterada, respeitando-se o art. 617 do CPP. 4. É necessário manter a correlação entre o aumento e diminuição da pena corpórea e a pena de multa. 5. Deram parcial provimento ao recurso e, de ofício, redimensionaram a pena de multa.
+No presente recurso, a defesa sustenta que o afastamento de um vetor negativo no cálculo da pena-base deve reverberar no quantum final de pena. Pondera que a manutenção no mesmo patamar fixado pelo Magistrado de piso implica reformatio in pejus.
+Aduz, ainda, que é inidônea a fundamentação utilizada para negativar a vetorial das circunstâncias do crime.
+Requer a readequação da pena.
+É o relatório.
+Decido.
+De início, cumpre ressaltar que, na esteira da orientação jurisprudencial do Superior Tribunal de Justiça, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão, nesta instância extraordinária, apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de reexame do acervo fático- probatório dos autos.
+Quanto à dosimetria, assentou o Tribunal de origem, in verbis (e-STJ fls. 286/288):
+Justificou o d. Magistrado a mácula da pena pelas circunstâncias do crime nos seguintes termos:
+"(..) quanto às circunstâncias do crime, estas lhe desfavorecem, vez que fora utilizado um simulacro na prática delitiva, caracterizando conduta altamente reprovável que extrapola a grave ameaça própria do roubo (..)" Não se olvida do entendimento de que a mácula da pena-base com fulcro na utilização de simulacro de arma de fogo seja suficiente apenas para a configuração da grave ameaça da qual já é tratada no "caput" do art. 157 do CP. Entretanto, não coaduno com esse posicionamento.
+A utilização de simulacro de arma de fogo para atemorizar a vítima é mais gravosa que a mera ameaça. Há mais um elemento de convencimento da vítima, que não sabendo ser real ou não o objeto fatal apresentado, passa a temer não só por sua integridade física, mas como também, por sua vida.
+ ..
+Apesar do decote da circunstância judicial, entendo que não é necessária a redução da pena. O art. 617 do CPP estabelece apenas que não poderá ser prejudicada a pena cominada ao réu em razão de recurso exclusivo da defesa  .. .
+Como se vê, o Tribunal de origem afastou a culpabilidade e manteve como desfavoráveis as circunstâncias do crime e os antecedentes, mas conservou o mesmo patamar de aumento realizado pela sentença condenatória.
+Todavia, tal procedimento encontra-se  em  dissonância  com  a  jurisprudência  firmada  nesta Corte Superior, segundo a qual,  "em  recurso  exclusivo  da  defesa,  havendo  a  exclusão  de  circunstâncias  judiciais  desfavoráveis  pelo  Tribunal,  imperiosa  a  correspondente  redução  da  pena  básica,  sob  pena  de  infringência  ao  princípio  da  non  reformatio  in  pejus"  (AgRg  no  HC  n.  440.227/RS,  relatora  Ministra  Maria  Thereza  de  Assis  Moura,  Sexta  Turma,  julgado  em  21/8/2018,  DJe  29/8/2018).
+No  mesmo  sentido:
+AGRAVO  REGIMENTAL  EM  AGRAVO  EM  RECURSO  ESPECIAL.  DECISÃO  AGRAVADA  QUE  EXCLUIU  A  VALORAÇÃO  NEGATIVA  DA  PERSONALIDADE  E  DA  CONDUTA  SOCIAL.  PEDIDO  DE  MANUTENÇÃO  DO  QUANTUM  DA  PENA,  COM  BASE  NA  VALORAÇÃO  NEGATIVA  DOS  ANTECEDENTES.  IMPOSSIBILIDADE.  EXCLUSÃO  DE  CIRCUNSTÂNCIAS  JUDICIAIS  DESFAVORÁVEIS.  REDUÇÃO  DA  PENA-BASE.  OBRIGATORIEDADE.  PRECEDENTES.
+Agravo  regimental  improvido. (AgRg  no  AREsp  1438997/DF,  Rel.  Ministro  SEBASTIÃO  REIS  JÚNIOR,  SEXTA  TURMA,  julgado  em  18/2/2020,  DJe  2/3/2020, grifei.)
+PROCESSUAL  PENAL.  PENAL.  RECURSO  ESPECIAL.  DISPARO  DE  ARMA  DE  FOGO.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  INOCORRÊNCIA.  REVISÃO  DA  PENA-BASE.  FUNDAMENTAÇÃO  IDÔNEA.  RECURSO  EXCLUSIVO  DA  DEFESA.  EXCLUSÃO  DE  VETORIAL  DESFAVORÁVEL.  REDUÇÃO  DA  PENA-BASE.  CONFISSÃO  ESPONTÂNEA.  ASSUNÇÃO  DE  FATO  DIVERSO  DO  QUE  O  IMPUTADO.  IMPOSSIBILIDADE.  RECURSO  ESPECIAL  PARCIALMENTE  PROVIDO.
+1.  Não  há  que  se  falar  em  negativa  de  prestação  jurisdicional,  se,  a  despeito  de  analisados  todos  os  pontos  relevantes  ao  deslinde  da  controvérsia,  a  origem  adotar  solução  jurídica  contrária  aos  interesses  da  parte.
+2.  Correta  a  exasperação  da  pena-base  com  esteio  em  elementos  concretos  que  desbordam  do  comum  à  espécie  delitiva.
+3.  Na  esteira  de  precedentes  desta  Corte  Superior,  se  o  Tribunal,  em  recurso  exclusivo  da  defesa,  exclui  alguma  circunstância  judicial  negativada  pelo  julgador  de  primeiro  grau,  mostra-se  necessária  a  redução  da  pena-base,  sob  pena  de  reformatio  in  pejus.  AgRg  no  AREsp  1022779/ES,  Rel.  Ministro  SEBASTIÃO  REIS  JÚNIOR,  SEXTA  TURMA,  julgado  em  30/03/2017,  DJe  07/04/2017
+4.  Não  cabendo  revaloração  da  prova  na  via  do  recurso  especial,  é  de  ser  mantida  a  compreensão  da  Corte  local  de  que  não  confessou  o  acusado  elementares  do  crime  de  disparo  de  arma  de  fogo,  pois  teria  o  réu  afirmado  em  verdade  não  ser  verdadeira  a  imputação  que  lhe  é  feita  e  que,  no  momento  em  que  entrou  em  luta  corporal  com  a  vítima  e  um  irmão  dela,  a  arma  disparou.  Sem  confissão  mesmo  parcial,  é  indevida  a  incidência  da  atenuante.
+5.  Não  transcorrido  entre  os  marcos  interruptivos  lapso  temporal  suficiente  para  a  extinção  da  punibilidade,  pela  prescrição.
+6.  Recurso  especial  parcialmente  provido  para  reduzir  as  penas  do  recorrente  para  2  anos  e  2  meses  de  reclusão.  (REsp  1678484/PB,  Rel.  Ministro  NEFI  CORDEIRO,  SEXTA  TURMA,  julgado  em  17/8/2017,  DJe  29/8/2017, grifei.)
+Outrossim, de acordo com a jurisprudência desta Corte, a grave ameaça exercida mediante simulação de porte de arma é circunstância que está englobada pela elementar do tipo em tela e não extrapola a reprovabilidade já ínsita ao delito de roubo.
+Nesse mesmo sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ROUBO E EXTORSÃO. CORRUPÇÃO D MENOR. DOSIMETRIA. CIRCUNSTÂNCIAS DO CRIME. CARÊNCIA DE MOTIVAÇÃO CONCRETA. CONFISSÃO ESPONTÂNEA PARCIAL. INCIDÊNCIA DA ATENUANTE. OFENSA À SUMULA 443/STJ NÃO CARACTERIZADA. WRIT NÃO CONHECIDO E ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+3. No caso, a pena-base foi estabelecida acima do mínimo legal a título de circunstâncias do crime, sem que tenha sido declinado elemento concreto da conduta a demonstrar a sua maior gravidade e, por consectário, a necessidade de resposta penal mais severa, baseando-se, exclusivamente, no emprego de simulacro de arma de fogo na senda criminosa. Por certo, a simulação de arma de fogo foi valorada para a tipificação da conduta como crime de roubo, caracterizando a elementar da grave ameaça, não podendo ser, pois, novamente utilizada para exasperar a pena-base, tendo o acórdão ora impugnado incorrido em indevido bis in idem.
+ ..
+(HC 547.898/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 9/6/2020, DJe 15/6/2020.)
+Tomando as considerações alhures, passo ao redimensionamento da pena relativa ao delito de roubo.
+Na primeira fase, mantida a negativação do vetorial antecedentes, fixo a pena-base em 4 anos e 4 meses de reclusão.
+Na segunda fase, a reprimenda não se altera.
+Na terceira fase, ausentes minorantes ou majorantes, torno a sanção definitiva de cada crime em 4 anos e 4 meses de reclusão.
+Aplicado, ainda, o concurso formal, na fração de 1/6, a sanção definitiva fica em 5 anos e 20 dias de reclusão.
+Mantido, no mais, o acórdão recorrido.
+Ante o exposto, dou provimento ao recurso especial, nos termos acima deduzidos.
+Publique-se. Intimem-se.
+ EMENTA
