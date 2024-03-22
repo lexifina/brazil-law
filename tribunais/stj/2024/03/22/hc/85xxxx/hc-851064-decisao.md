@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JUNIOR OLIVEIRA SIQUEIRA e DAVID DA SILVA ANDRADE contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido no julgamento da Apelação Criminal n. 1500775-74.2019.8.26.0583.
+Extrai-se dos autos que os pacientes foram condenados em primeiro grau como incursos no art. 33, caput, c/c art. 40, III, ambos da Lei n. 11.343/06, às penas de 12 anos, 5 meses e 9 dias de reclusão, em regime inicial fechado, e pagamento de 1.243 dias-multa (David), e 10 anos, 1 mês e 9 dias de reclusão, em regime inicial fechado, e pagamento de 1.010 dias-multa (Junior).
+Irresignada, a defesa interpôs apelação perante o Tribunal de origem, o qual deu parcial provimento ao recurso para reduzir a pena dos pacientes para 7 anos, 11 meses e 8 dias de reclusão e pagamento de 793 dias-multa (David), e 8 anos, 2 meses de reclusão e pagamento de 816 dias-multa (Junior), nos termos da seguinte ementa:
+"APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS MAJORADO. ESTABELECIMENTO PRISIONAL. USO DE DOCUMENTO FALSO. Artigo 33, caput, c.c. o 40, inciso III, ambos da Lei n. 11.343/06 e artigo 304 c.c. o 297, os dois do Código Penal. Preliminar. Alegada a inépcia formal e material da denúncia. Inviabilidade do reconhecimento da nulidade se a petição inicial expõe fatos que caracterizam em tese as autorias e materialidade do crime imputado, apoiada em suporte indiciário mínimo para a legitimação da persecução penal. Mérito. Recursos objetivando a absolvição por insuficiência das provas e o redimensionamento das penas. Autorias e materialidade demonstradas. Conjunto probatório que infirma a tese absolutória. Prisão em flagrante. Testemunhos coerentes e em consonância com os demais elementos de convicção. Tipicidade das condutas. Condenações mantidas. Penas privativas de liberdade redimensionadas. Condições pessoais das corrés Ruama e Ana Paula compatíveis com o regime semiaberto. Artigo 33, §2º, alínea b, do Código Penal. Mantido o meio mais gravoso aos sentenciados portadores de maus antecedentes e reincidentes em crimes dolosos. Sentença reformada em parte. PRELIMINAR REJEITADA. RECURSOS PARCIALMENTE PROVIDOS." (fl. 26)
+No presente writ, a Defensoria Pública sustenta a atipicidade da conduta dos pacientes, argumentando que "a conduta do agente que está preso e solicita que lhe sejam levadas drogas não configura início de iter criminis, mas, no máximo, ato preparatório impunível, sobretudo quando não há a concretização da entrega em razão da apreensão da droga na revista que antecede o ingresso do visitante no estabelecimento prisional, tal como ocorreu no presente caso" (fl. 7).
+Requer, assim, a concessão da ordem para absolver os pacientes em razão da atipicidade da conduta que lhes foi imputada.
+O Ministério Público Federal - MPF opinou pelo não conhecimento da impetração ou, caso conhecida, pela denegação da ordem, conforme parecer de fls. 56/60.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ.
+Ademais, a possibilidade de análise da matéria para eventual concessão da ordem de ofício não se mostra adequada ao presente caso.
+Da atenta leitura do acórdão impugnado, verifica-se que o Tribunal de origem não se manifestou expressamente sobre a tese de que a conduta imputada ao paciente seria apenas ato preparatório e, portanto, impunível .
+Desse modo, resta afastada a competência desta Corte Superior para conhecimento do feito, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. ESPECIAL GRAVIDADE DA CONDUTA. GARANTIA DA ORDEM PÚBLICA. RÉU FORAGIDO. APLICAÇÃO DA LEI PENAL. ALEGAÇÃO DE AUSÊNCIA DE CONTEMPORANEIDADE. NÃO OCORRÊNCIA. TESE DE VÍCIO NO RECONHECIMENTO. MATÉRIA NÃO ANALISADA PELA CORTE LOCAL. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A prisão preventiva foi devidamente justificada em razão da gravidade concreta do delito, evidenciada pelo modus operandi empregado: a conduta praticada envolveu a participação de 4 (quatro) indivíduos, que atraíram a Vítima, que é pessoa idosa, ao local do sequestro, sob o pretexto de prestar serviço de guincho. A Vítima foi mantida em cativeiro, acorrentada nos pés e nas mãos, sendo constantemente agredida com chutes e pauladas, "sem contar que, dos sete dias em que permaneceu confinado, recebeu água e comida só até o segundo dia, o que lhe acarretou quadro grave de desidratação".
+Tais circunstâncias demonstram a periculosidade do Acusado e revelam a necessidade da prisão para garantia da ordem pública.
+2. As instâncias ordinárias consignaram, ainda, que o Agravante se encontra foragido, o que também justifica a segregação cautelar para aplicação da lei penal.
+3. Quando a fuga constitui um dos fundamentos de cautelaridade, a alegação de ausência de contemporaneidade não tem o condão de revogar a segregação provisória.
+4. O Tribunal local não se manifestou sobre o suposto vício no reconhecimento do Agravante, o que impede a manifestação desta Corte Superior, sob pena de indevida supressão de instância.
+5. Agravo regimental desprovido.
+(AgRg no HC 685.324/SC, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 6/10/2021.)
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço da presente impetração.
+Publique-se.
+Intimem-se.
+EMENTA
