@@ -1,0 +1,26 @@
+DECISÃO
+Em análise, conflito negativo de competência suscitado por ARIANE SILVA FARIA em face do JUIZ DE DIREITO DA 1A UNIDADE JURISDICIONAL DE UBERLÂNDIA - MG e do JUIZ FEDERAL DA 4A VARA DO JUIZDO ESPECIAL CÍVEL E CRIMINAL DE UBERLÂNDIA - SJ/MG.
+Extrai-se dos autos que ARIANE SILVA FARIA ajuizou, incialmente, ação revisional c/c indenização por danos materiais e morais (nº 1005240-58.2019.4.01.3803) perante a Justiça Federal da SSJ de Uberlândia - MG, tendo sido reconhecida a ilegitimidade passiva da União Federal, determinando sua exclusão do processo e declinando de sua competência para a Justiça Comum Estadual.
+Recebidos os autos pelo Juiz de Direito da 1ª Unidade Jurisdicional de Uberlândia - MG, foi, de ofício, reconhecida a incompetência do Juizado Especial para processar e julgar a causa, sendo extinto o feito na forma do art. 51, II, da Lei 9.099/95.
+Posteriormente, Ariane Silva Faria suscitou o presente conflito de competência aduzindo que "porquanto dois juízos, sendo eles o Federal e o Estadual, se declararam incompetentes para o julgamento da demanda. Ainda, o último declinou a competência à Justiça do Trabalho."
+O Ministério Público Federal, em seu parecer, opina pelo não conhecimento do conflito, haja vista estarem ausentes as hipóteses previstas no art. 66 do CPC/2015, argumentando que "o Juizado Especial Estadual, ao receber os autos em devolução do Juízo Federal, com a já consumada exclusão da União do polo passivo da subjacente lide, não se limitou a também averbar a sua incompetência - o que ensejaria o conhecimento do presente conflito -, mas concluiu por extinguir a ação sem resolução de mérito, nos termos do art. 51, II, da Lei n. 9.099/95, cuja decisão não pode ser desafiada por meio do conflito de competência, mas sim por intermédio de recurso próprio, a ser decidido pela competente Turma Recursal Estadual - medida, inclusive, já adotada pela parte, consoante revela a consulta realizada no endereço eletrônico do TJMG" (e-STJ, fls. 111/112).
+É o breve relatório. Decido.
+O presente incidente não comporta conhecimento, na medida em que não se afigura caracterizado o conflito negativo de competência.
+Nos termos da uníssona jurisprudência desta Corte de Justiça, a configuração do conflito negativo de competência pressupõe a manifestação expressa dos dois juízos suscitados considerando-se incompetentes para processar e julgar a mesma demanda, do que não se cogita na hipótese dos autos.
+Nesse sentido, destacam-se os seguintes julgados do STJ:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA - JUÍZO DE DIREITO E JUÍZO TRABALHISTA - RECUPERAÇÃO JUDICIAL ENCERRADA - SENTENÇA TRANSITADA EM JULGADO - AUSÊNCIA DE CONFLITO - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO INCIDENTE. INSURGÊNCIA DO SUSCITANTE.
+1. Nos termos do art. 66 do CPC, o conflito de competência se configura quando dois ou mais juízes declaram-se competentes ou consideram-se incompetentes para o processamento e julgamento de uma mesma demanda ou quando existir controvérsia acerca da união ou separação de processos entre duas ou mais autoridades, o que não se verificou nos presentes autos.
+1.1. Na hipótese dos autos, não há conflito a ser dirimido por este STJ porquanto a recuperação judicial da agravante foi encerrada por meio de sentença com o respectivo trânsito em julgado. Precedentes.
+2. A gravo interno desprovido.
+(AgInt nos EDcl no CC n. 196.689/MT, relator Ministro Marco Buzzi, Segunda Seção, julgado em 31/10/2023, DJe de 6/11/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. AUSÊNCIA DE MANIFESTAÇÃO EXPRESSA DE DOIS OU MAIS JUÍZOS EM UMA MESMA DEMANDA ACERCA DE SUA COMPETÊNCIA OU DE SUA INCOMPETÊNCIA. ART. 66 DO CPC. DESCABIMENTO. UTILIZAÇÃO DO CONFLITO COMO SUCEDÂNEO RECURSAL.
+1. Impossível conhecer do presente feito, porquanto ausentes as hipóteses descritas no art. 66 do CPC/2015. Não existe manifestação de dois ou mais juízos de esferas diferentes que se declarem competentes ou incompetentes para apreciar o mesmo feito, nem há controvérsia entre eles acerca da reunião ou da separação de processos.
+2. No caso em exame, impetrou-se mandamus no juízo de direito da 1ª Vara Cível de Barretos, que julgou improcedente o feito para anular a eleição de diretoria do sindicato. O Tribunal de Justiça conheceu em parte da Apelação e, nessa parte, negou-lhe provimento.
+Inexistente, portanto, o Conflito de Competência. Não há como conhecer deste feito, utilizado como sucedâneo recursal.
+3. Agravo Interno não provido.
+(AgInt no CC n. 192.595/SP, relator Ministro Herman Benjamin, Primeira Seção, julgado em 20/6/2023, DJe de 27/6/2023.)
+De tal forma, não se configurando a simultânea declaração de competência ou incompetência para julgar a mesma causa, emanada de dois ou mais juízos, tendo sido extinto o processo sem julgamento do mérito pelo Juizado Especial Estadual, inexiste conflito de competência, o qual, repise-se, não pode ser utilizado como sucedâneo recursal.
+Assim, não há que se falar em conflito de competência, pois não foi verificada controvérsia quanto à competência entre as autoridades judiciárias para o julgamento da causa.
+Isso posto, não conheço do presente conflito de competência.
+Publique-se. Intimem-se.
+EMENTA
