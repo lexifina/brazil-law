@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CAIXA SEGURADORA S/A contra decisum singular que não conheceu do agravo em recurso especial, em razão da incidência da Súmula 182/STJ.
+Em suas razões, a parte embargante aduz, em resumo, que: (I) "sendo a competência matéria prejudicial ao regular processamento do feito, é o caso de se determinar nova devolução destes autos ao Tribunal a quo, para os fins colimados (art. 1.040 e seguintes do CPC/15) à luz solução dada à controvérsia pelo Pretório Excelso em torno do Tema 1.011 da Repercussão Geral (Recurso Extraordinário 827.996/PR)" (fl. 1.696) e (II) "o fundamento de que é impossível admitir o apelo nobre por suposta violação a dispositivo constitucional - utilizado pelo 3º Vice-Presidente do TJSC para inadmitir o recurso especial - deve ser desconsiderado, porquanto natimorto, dado que fundado em equivocada premissa" (fl. 1.972).
+Requer, ao final, o acolhimento dos aclaratórios, com atribuição de efeitos infringentes, para que seja sanado o vício apontado.
+A parte embargada apresentou impugnação às fls. 1.979/1.982.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do decisum atacado ou, ainda, para corrigir erro material.
+Contudo, não se verifica a existência de qualquer das deficiências em questão, pois a decisão embargada decidiu, de forma clara e fundamentada, toda a controvérsia posta no recurso.
+Com efeito, restou devidamente consignado que não houve impugnação específica a nenhum dos fundamentos adotados pela decisão que negara trânsito ao apelo nobre. Assim, a hipótese, atrai, de fato, a incidência da Súmula 182/STJ, uma vez que, nos termos da jurisprudência firmada pela Corte Especial do STJ, incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmite o processamento do recurso especial.
+Quanto ao mais, nota-se que o Tribunal de origem já realizou o juízo de adequação frente ao que restou decidido pelo Supremo Tribunal Federal por ocasião do julgamento do Tema 1.011. Veja-se (fl. 1.550):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE SEGURO HABITACIONAL. IMÓVEIS FINANCIADOS PELO SISTEMA FINANCEIRO DA HABITAÇÃO. PROCEDIMENTO DOS ARTS. 1.030, II E 1.040, II, DO CPC/15 (ART. 543-C, § 7º, II, DO CPC/73).
+REJEIÇÃO PELO ARESTO INTERVENÇÃO DA CAIXA ECONÔMICA FEDERAL COMO RÉ OU ASSISTENTE.
+NULIDADE EX OFFICIO. ENFRENTAMENTO PELO COLEGIADO DE INSURGÊNCIAS NÃO APRESENTADAS PELA RECORRENTE. PRECLUSÃO PRO JUDICATO. IMPOSSIBILIDADE DE REVISITAR MATÉRIAS ANTES DECIDIDAS. INTELIGÊNCIA DO ART. 417, DO CÓDIGO DE PROCESSO CIVIL 1973, APLICÁVEL AO CASO.
+"Embora o pressuposto oljetivo inerente à tempestividade recursal qualifique-se como matéria de ordem pública, mostrando-se suscetível de conhecimento, "ex officio", pelos Juízes e Tribunais, independentemente de qualquer provação formal das partes (..), cumpre advertir que o reconhecimento de tal circunstância não se revelará processualmente lícito, se e quando já se achar configurada a predusão "pro judicato", como se registra na espécie ora em exame, considerados, sob tal perspectiva, os próprios precedentes ora invocados (R 2J 88/307-310, rel. Min. XAVIER DE ALBUQUERQUE -- RE 92.826/AL, rel. Min. MOREIRA ALVES). "(RE n. 348978 ED / RS, rel. Min. Celso de Mello, j. em 30.03.2004).
+APLICABILIDADE DO TEMA 1.011, DO SUPREMO TRIBUNAL FEDERAL. DEMANDA AJUIZADA E JULGADA, EM AMBOS OS GRAUS DE JURISDIÇÃO, EM DATA ANTERIOR AO ADVENTO DA MEDIDA PROVISÓRIA N. 513/2010 (26.11.2010). COMPETÊNCIA DA JUSTIÇA COMUM ATÉ O DESENLACE DO CUMPRIMENTO DE SENTENÇA. IMPOSSIBILIDADE DE INTERVENÇÃO DA CAIXA ECONÔMICA FEDERAL ANTE A PRECLUSÃO.
+JUIZO DE RETRATAÇÃO NEGATIVO.
+.
+Ato contínuo, a 3ª Vice-Presidência da Instância ordinária, por ocasião de novo juízo de admissibilidade do recurso especial, decidiu pela negativa de seguimento do recurso no tópico relativo ao interesse jurídico da CEF nas ações que envolvem seguros de mútuo habitacional no âmbito do Sistema Financeiro de Habitação. Desse modo, tampouco merece prosperar o pedido de nova remessa dos autos ao Tribunal de origem, uma vez que a matéria se encontra definitivamente exaurida.
+Dessarte, não podem ser acolhidos embargos de declaração que, a pretexto de alegados vícios no julgado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+Nesse panorama, inexistente qualquer obscuridade, contradição ou omissão no decisum embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição dos presentes embargos de declaração. A propósito, confira-se:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. RECURSO REPRESENTATIVO DE CONTROVÉRSIA REPETITIVA. TEMA 1.115/STJ. EMBARGOS DE DECLARAÇÃO MANEJADOS PELO IBDP (AMICUS CURIAE). INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. PRETENSÃO DE AMPLIAÇÃO DA TESE FIXADA. IMPOSSIBILIDADE. REJEIÇÃO DOS ACLARATÓRIOS.
+1. Consigna-se, de início, que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual aos recursos interpostos com fundamento no Código de Processo Civil - CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+3. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+4. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissão e obscuridade no julgado combatido, traduzem, na verdade, a pretensão de ampliação da tese delimitada ao ensejo da afetação da controvérsia ao rito dos recursos repetitivos. Portanto, não há falar em omissão ou obscuridade.
+5. Embargos de declaração do Instituto Brasileiro de Direito Previdenciário - IBDP rejeitados.
+(EDcl no REsp n. 1.947.404/RS, relator Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 19/12/2023, DJe de 6/2/2024.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. RECURSO REJEITADO.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil. Não há na decisão embargada vício de omissão, contradição ou obscuridade, ou erro material, não se prestando os aclaratórios para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Não identificada a presença de vício que justifique esclarecimento, complemento ou eventual integração do que foi decidido, a rejeição dos aclaratórios é medida que se impõe.
+3. A interposição do agravo do art. 1.042 do CPC para atacar o capítulo da decisão que nega seguimento ao recurso especial constitui erro grosseiro, em razão da previsão expressa do recurso cabível, qual seja, o agravo interno.
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial, ainda que autônomos, impede o conhecimento do respectivo agravo consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do CPC e a Súmula 182 do STJ, aplicável por analogia.
+5. Constata-se que a parte embargante pretende renovar a discussão sobre questão que já foi decidida de maneira fundamentada, o que não é possível por meio dos embargos de declaração.
+6. Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+7. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no AREsp n. 1.878.917/SP, relator Ministro PAULO SÉRGIO DOMINGUES, PRIMEIRA TURMA, julgado em 28/8/2023, DJe de 30/8/2023.)
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
