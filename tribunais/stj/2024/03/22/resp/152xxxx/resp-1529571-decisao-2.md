@@ -1,0 +1,15 @@
+DECISÃO
+Em exame, recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, contra acórdão do Tribunal Regional Federal da 5ª Região (e-STJ fls. 637-644).
+Nas razões do Recurso Especial, a parte recorrente aponta ofensa aos seguintes dispositivos: a) art. 535 do CPC/73, ao fundamento de que "a(s) questão(s) referente(s) à fixação de juros de mora e de correção monetária, nos termos do que preceitua o art. 1º-F, da Lei nº 9.494/97 (Lei 11.960/09), vale dizer, segundo os índices da caderneta de poupança, não foi(ram) objeto de decisão pelo acórdão recorrido, persistindo a omissão quando do julgamento dos Embargos de Declaração opostos pelo IINSS, porque o E. Tribunal de origem sequer chegou a tratar da matéria discutida. Enfim, faz-se-ia imprescindível para a plena defesa do INSS que o v. acórdão regional enfrentasse diretamente tal aspecto controvertido, para se atender ao exigido prequestionamento explícito, situação esta inocorrente na espécie" (e-STJ, fl. 676); b) art. 1º-F da Lei 9.494/97, pois "a decisão recorrida merece ser reformada quanto à questão relativa à fixação dos juros de mora e da correção monetária, nos termos do que preceitua o art. 1º-F, da Lei nº. 9.494/97, a partir da vigência da Lei n. 11.960/09, uma vez que consoante já aduzido a declaração de inconstitucional idade foi restrita aos Precatórios de natureza tributária não se aplicando ao caso em questão" (e-STJ, fl. 679).
+Apresentadas as contrarrazões (e-STJ, fls. 743-775), o recurso especial foi admitido pelo Tribunal de origem (e-STJ, fls. 868-869).
+Em razão da pendência de julgamento do Tema 905/STJ, relativo à aplicabilidade do art. 1º-F da Lei 11.60/2009, foi determinada a devolução dos autos ao Tribunal de origem, para que, após a publicação do acórdão representativo da controvérsia, realizasse um novo juízo de admissibilidade, nos termos do art. 1.040 do CPC/2015 (e-STJ, fls. 884-886).
+Após julgamento da matéria repetitiva, o Tribunal Regional Federal da 5ª Região, em juízo de retratação, deu provimento aos embargos de declaração do INSS, com efeitos infringentes, para determinar a fixação dos juros de mora, nos termos do art. 1º-F da Lei 9.494/97, com a redação dada pela Lei 11.960/09 (e-STJ, fls. 1.018-1.026).
+A decisão de fl. 1.033 e-STJ admitiu o recurso especial da autarquia.
+Vieram-me conclusos os autos em 25/11/2023 (e-STJ, fl. 183).
+É o relatório.
+Passo a decidir.
+Verifica-se que o recurso especial interposto pelo INSS discute apenas a questão relativa à fixação dos juros e da correção monetária, inclusive na parte em que alega ofensa ao art. 535 do CPC/73.
+Observa-se, ainda, que referida matéria foi analisada pelo Tribunal de origem, em juízo de retratação, com o provimento dos embargos de declaração, para determinar a fixação dos juros de mora, nos termos do art. 1º-F da Lei 9.494/97, com a redação dada pela Lei 11.960/09 (e-STJ, fls. 1.018-1.026), não havendo mais matéria pendente de julgamento por esta instância superior.
+Isso posto julgo prejudicado o presente recurso especial.
+Intimem-se.
+EMENTA
