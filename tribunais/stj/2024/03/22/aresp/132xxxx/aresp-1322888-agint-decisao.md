@@ -1,0 +1,27 @@
+DECISÃO
+1. Trata-se de agravo interno autuado em expediente avulso, interposto por RENINA MARÍLIA PRADO MANSSUR e ANTÔNIO MANSSUR em face da decisão de fls. 1.827/1.829, deste relator, não conheceu de embargos de declaração intempestivos.
+Preliminarmente, os agravantes sustentam a tempestividade do presente agravo interno, argumentando que "os Embargos de Declaração de fls.1757/1765 e fls.1796/1802, apontaram, de forma objetiva e minudenciosa os vícios contidos nos vv. Acórdão embargados (contradição interna, obscuridade, contradição e erro material), o que justificou sua oposição, demonstrando, de forma cabal, o desajuste de seu não conhecimento" (Av1, fl. 2).
+Quanto ao mérito, afirmam que "que todas questões abordadas nos Embargos de Declaração de fls.1757/1765 e fls.1796/1802, ainda permanecem sem a devida manifestação e aclaramento, conforme se verifica do v. Acórdão agravado" (Av1, fl. 3), requerendo, ao final, o provimento do agravo para que sejam conhecidos e acolhidos os embargos de declaração opostos da decisão de fls. 1.749/1.754).
+Intimada, a parte agravada apresentou impugnação, defendendo o não conhecimento do agravo interno (Av1, fls. 22/40).
+É o relatório. Decido
+2. Compulsando os autos, verifica-se que o presente recurso foi interposto contra a decisão de fls. 1.827/1.827, que não conheceu de embargos de declaração e determinou a baixa dos autos ao juízo de origem, nos seguintes termos:
+"Nos termos da jurisprudência firmada pela col. Corte Especial deste Tribunal, a oposição de embargos de declaração não é capaz de interromper o prazo recursal quando os embargos forem intempestivos ou incabíveis ou quando deixarem de indicar os vícios próprios de embargabilidade (omissão, contradição, obscuridade ou erro material). Nesse sentido os seguintes julgados:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO MANIFESTAMENTE INADMISSÍVEIS E NÃO CONHECIDOS. NÃO INTERRUPÇÃO DO PRAZO RECURSAL. AGRAVO DESPROVIDO.
+1. Nos termos da jurisprudência consagrada no âmbito da Corte Especial, a oposição de embargos de declaração não é capaz de interromper o prazo recursal quando os embargos forem intempestivos ou incabíveis ou quando deixarem de indicar os vícios próprios de embargabilidade (omissão, contradição, obscuridade ou erro material). Precedentes.
+2. "Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão recorrido" (Súmula 168/STJ).
+3. Agravo regimental desprovido.
+(AgRg nos EDcl nos EREsp n. 1.961.507/PR, relator Ministro RAUL ARAÚJO, Corte Especial, julgado em 24/10/2023, DJe de 31/10/2023)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PRÉVIA OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO MANIFESTAMENTE INADMISSÍVEIS E NÃO CONHECIDOS. INOCORRÊNCIA DE INTERRUPÇÃO DO PRAZO RECURSAL. EMBARGOS DE DIVERGÊNCIA INTEMPESTIVOS. PRECEDENTES. AGRAVO IMPROVIDO.
+1. Segundo a firme jurisprudência deste Superior Tribunal de Justiça, o recurso de embargos de declaração, quando não conhecido por ser manifestamente incabível, intempestivo, ou por almejar atribuir efeitos infringentes sem a indicação, na peça de interposição, de vício próprio de embargabilidade, não possui a aptidão de interromper o prazo para a interposição de novos recursos.
+2. Na hipótese dos autos, os embargos de declaração opostos pelo recorrente eram manifestamente incabíveis, seja porque não indicavam os pressupostos de embargabilidade dispostos pelo art. 619 do CPP, seja porque possuíam nítida pretensão de obter o rejulgamento do feito, em situação não comportada pelo ordenamento.
+3. O não conhecimento dos embargos de declaração obstou o efeito interruptivo do prazo recursal, repercutindo sobre os embargos de divergência, opostos intempestivamente.
+4. Agravo regimental não provido, com imediata certificação do trânsito em julgado.
+(AgRg nos EAREsp n. 2.216.810/SP, relator Ministro MAURO CAMPBELL MARQUES, Corte Especial, julgado em 27/6/2023, DJe de 3/7/2023)
+No caso, verifica-se que os presentes embargos de declaração foram opostos de decisão deste relator que não conhecera anteriores embargos de declaração da mesma parte, em razão da ausência de indicação de qualquer um dos vícios do art. 1.022 do CPC/2015, nos termos do previsto no art. 1.023, fine, do mesmo Código, circunstância que, conforme já assinalado, obsta a suspensão ou interrupção do prazo para a interposição de novo recurso.
+Diante disso, constata-se a intempestividade dos presentes embargos de declaração, opostos em 01/11/2023 (e-STJ, fl. 1.796), uma vez que, na hipótese, diante do não conhecimento dos anteriores aclaratórios, o termo inicial para a contagem do prazo recursal é a publicação da decisão de fls. 1.740/1.754, ocorrida em 02/10/2023, consoante certidão de fls. 1.755.
+Ante o exposto, não conheço dos embargos de declaração, determinando seja certificado o trânsito em julgado da decisão que acolhera os embargos de declaração dos ora embargados (e-STJ, fls. 1.740/1.754), com baixa dos autos ao juízo de origem."
+Nesse cenário, não se pode conhecer do presente agravo interno.
+Com efeito, certificado o trânsito em julgado da decisão de fls. 1.740/1.754 (Certidão de fls. 1.832), tem-se por encerrada a prestação jurisdicional por esta Corte, nada havendo a prover no que tange à Petição AGINT OO116542/2024.
+Por tais razões, determina-se a baixa dos autos à origem.
+Publique-se. Arquive-se.
+EMENTA
