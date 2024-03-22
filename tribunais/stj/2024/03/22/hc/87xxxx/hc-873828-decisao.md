@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de JOSE HITALO LOPES DA SILVA NOBERTO, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do HC n. 2291341-89.2023.8.26.0000.
+Extrai-se dos autos que foi decretada a prisão temporária do paciente em 13/7/2022, em razão da suposta prática dos crimes tipificados nos arts. 157, § 2º e § 2º-A (roubo majorado), e 158 (extorsão), ambos do Código Penal - CP. O paciente foi capturado e preso apenas em 8/10/23 (fls. 64/65).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS ROUBO CIRCUNSTANCIADO E EXTORSÃO PRISÃO TEMPORÁRIA- Impetração visando o reconhecimento de constrangimento ilegal, com a consequente soltura do acusado - Presença dos requisitos legais da custódia - Motivação per relationem considerada válida pela jurisprudência pátria - Segregação recentemente prorrogada, com escopo nas mesmas nuances - Ordem denegada" (fl. 85).
+No presente writ (fls. 3/28), a defesa aduz que a prisão temporária do paciente encontra-se despida dos requisitos previstos na Lei n. 7.960/1989, porquanto não houve qualquer indicação concreta de que sua liberdade representaria risco às investigações. Afirma que a existência de meros indícios do envolvimento do paciente na prática delitiva é insuficiente para a decretação da prisão. Ainda, argumenta que a vítima não reconheceu o acusado como um dos coautores do crime e que são frágeis os elementos em seu desfavor.
+Alega, de outro lado, que o tempo transcorrido entre a decretação da prisão temporária e o seu efetivo cumprimento - mais de 1 ano - demonstra a desnecessidade da medida.
+Requer, em liminar, a imediata soltura do paciente ou a determinação de sua prisão domiciliar. No mérito, requer a revogação definitiva da prisão temporária.
+Indeferida a liminar (fls. 91/92) e informações prestadas (fls. 98/122), o Ministério Público Federal opinou pelo não conhecimento do writ ou pela denegação da ordem (fls. 124/127).
+É o relatório.
+Decido.
+Inicialmente, das informações prestadas pelo Juízo de origem (fls. 119/122), verificou-se que na decisão que recebeu a denúncia em desfavor do paciente, sua prisão temporária foi convertida em preventiva em 5/12/2023. Consta, ainda, que em 18/3/2024, foi proferida decisão que indeferiu o pedido de liberdade provisória formulado pela defesa do paciente.
+Este Superior Tribunal de Justiça possui firme jurisprudência no sentido de que a superveniência do decreto de prisão preventiva torna prejudicado o habeas corpus que impugna a prisão temporária, porquanto configurado novo título judicial apto a justificar a constrição.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. HOMICÍDIO QUALIFICADO. EXCESSO DE PRAZO NA PRISÃO TEMPORÁRIA. PRISÃO PREVENTIVA SUPERVENIENTE. AGRAVO REGIMENTAL IMPROVIDO.
+1. Caso em que o habeas corpus foi impetrado contra decisão liminar que manteve o decreto de prisão temporária. Contudo, segundo informações prestadas pelo Juízo de primeiro grau, no dia 21/2/2019 a denúncia foi recebida e decretada a prisão preventiva dos réus, estando superada a alegação de constrangimento ilegal em razão da decretação da prisão temporária. Precedentes.
+2. Agravo regimental improvido. (AgInt no HC 500.315/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/04/2019, DJe 06/05/2019)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO ILÍCITO DE DROGAS. TESE DE NULIDADE DA PRISÃO TEMPORÁRIA. SUPERVENIÊNCIA DE CONVERSÃO EM PRISÃO PREVENTIVA E DE SENTENÇA CONDENATÓRIA. PREJUDICIALIDADE. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE EM CONCRETO. QUANTIDADE SUBSTANCIAL DE DROGAS. FUNDAMENTAÇÃO IDÔNEA. RECURSO DESPROVIDO.
+1. Superada a tese de nulidade da prisão temporária diante da superveniência de sua conversão em preventiva e, ainda, de sentença penal condenatória. Precedente.
+2. A negativa do direito de recorrer em liberdade encontra-se fundamentada na gravidade concreta dos fatos, mormente diante das informações de que o Sentenciado integraria organização criminosa, bem como seria um dos principais responsáveis pela distribuição de armas de fogo na capital mineira, a evidenciar a necessidade da segregação provisória para garantia da ordem pública. Precedente.
+3. Ademais, o Juízo de primeiro grau justificou a necessidade da custódia diante da grande quantidade de substância entorpecente apreendida - cerca de 34.698,0 gramas de maconha, acondicionados em 72 (setenta e duas) embalagens plásticas, e 19.255,0 gramas de maconha, acondicionados em 52 (cinquenta e duas) barras -, o que, segundo a jurisprudência desta Corte, constitui motivação idônea para a manutenção da prisão cautelar. Precedentes.
+4. Aplicável, à espécie, o entendimento de que, "permanecendo os fundamentos da prisão cautelar, revela-se um contrassenso conferir ao réu, que foi mantido custodiado durante a instrução, o direito de aguardar em liberdade o trânsito em julgado da condenação" (RHC n.º 117.802, Rel. Ministro RICARDO LEWANDOWSKI, SEGUNDA TURMA, DJe de 01/7/2014).
+5. Recurso desprovido.
+(RHC 99.648/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 09/10/2018, DJe 26/10/2018).
+Ante o exposto, nos termos do art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
