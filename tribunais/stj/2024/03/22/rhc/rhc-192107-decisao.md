@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto em favor de ALEXANDRA DO NASCIMENTO, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA.
+Consta dos autos que o recorrente encontra-se preso preventivamente como incurso no artigo 157, § 3º, II, do Código Penal.
+Sustenta o recorrente, em síntese, a ilegalidade da prisão preventiva, bem como a ausência de fatos novos que justifiquem a sua manutenção.
+Requer, liminarmente e no mérito, que seja revogada a prisão preventiva, com a expedição do respectivo alvará de soltura.
+A liminar foi indeferida. Foi apresentado pedido de reconsideração que, entretanto, não foi examinado, tendo sido postergado pela Vice-Presidência em virtude das férias coletivas.
+O Ministério Público Federal opinou pelo conhecimento e desprovimento do recurso.
+É o relatório.
+Decido.
+Conforme acórdão do Tribunal de origem, o decreto prisional não foi juntado ao writ, o que impossibilitou a análise da prisão. Nesse sentido, pontuou o Tribunal que (fls. 140):
+"(..) a via estreita do Habeas Corpus não comporta dilação probatória, motivo pelo qual o referido mandamus deve estar munido de prova pré-constituída que permita ao julgador avaliar, de plano, a ilegalidade combatida.
+Entrementes, da análise dos autos não se extraem elementos capazes de atestar o suposto constrangimento ilegal sofrido pela Paciente, isso porque, in hipotesis, o Impetrante não acostou a decisão que decretou a prisão preventiva da Paciente."
+Em suma, diante da instrução deficitária, considerando a ausência da decisão que decretou a prisão cautelar, o Tribunal a quo ficou impossibilitado de avaliar a existência do constrangimento ilegal alegado.
+A competência deste Superior Tribunal de Justiça está expressamente prevista no art. 105 e incisos da Constituição Federal, exigindo, para conhecimento da matéria trazida em caso de habeas corpus, a existência de ato coator de Tribunal sujeito à sua jurisdição ou de quaisquer das outras autoridades elencadas no inciso I, alíneas "b" e "c", da CF/88, o que não se vislumbra ocorrer na hipótese, pois as alegações deduzidas na inicial sequer foram alvo de deliberação pelo Tribunal de origem, a indicar a atuação deste Sodalício em indevida supressão de instância.
+A propósito, confiram-se:
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL EM HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. PROVA PRÉ-CONSTITUÍDA. NECESSIDADE. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL E NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, pois, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração.
+2. A inicial do writ não veio acompanhada da cópia do acórdão proferido por ocasião do julgamento da apelação, o que prejudica a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal.
+3. Pedido de reconsideração recebido como agravo regimental. Agravo não provido.
+(PET no HC n. 584.863/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 9/6/2020, DJe de 17/6/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ROUBO TRIPLAMENTE MAJORADO. RESTRIÇÃO DA LIBERDADE DA VÍTIMA. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. NÃO COMPROVAÇÃO. PRISÃO DOMICILIAR (GENITORA DE UMA MENOR DE 7 ANOS DE IDADE). IMPOSSIBILIDADE. CONDUTA ENVOLVENDO VIOLÊNCIA OU GRAVE AMEAÇA. AGRAVO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. "É cabível a substituição da constrição cautelar pela domiciliar, com ou sem imposição das medidas alternativas previstas no art. 319 do CPP ou somente destas, para toda mulher presa, gestante, puérpera, ou mãe de criança e deficiente sob sua guarda, enquanto perdurar tal condição, excetuados os casos de crimes praticados por elas mediante violência ou grave ameaça, contra seus descendentes ou, ainda, em situações excepcionalíssimas, as quais deverão ser devidamente fundamentadas pelos juízes que denegarem o benefício, conforme entendimento da Segunda Turma do Supremo Tribunal Federal, no julgamento do HC coletivo n. 143.641/SP. Foram inseridas, no diploma processual penal, normas consentâneas com o referido entendimento jurisprudencial (arts. 318-A e 318-B do CPP)" (HC n. 538.842/RS, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/11/2019, DJe 02/12/2019).
+2. Na hipótese, as instâncias ordinárias evidenciaram, de forma concreta e alinhada ao entendimento desta Corte, que o crime em apuração não permite a concessão da prisão domiciliar (roubo promovido por intermédio do emprego de violência física e grave ameaça exercida com arma de fogo, com restrição da liberdade da Vítima).
+3. Sob pena de supressão de instância, o STJ não pode conhecer das teses que sustentam que a mãe da Agravante não teria condições para cuidar da neta (menor de 12 anos de idade) nem que a sua participação na empreitada criminosa não teria envolvido violência.
+4. É vedada a apreciação per saltum da pretensão defensiva, sob pena de supressão de instância, uma vez que compete ao Superior Tribunal de Justiça, na via processual do habeas corpus, apreciar ato de um dos Tribunais Regionais Federais ou dos Tribunais de Justiça estaduais (art. 105, inciso II, alínea a, da Constituição da República).
+5. Na hipótese, não se verifica o excesso de prazo sustentado pela Defesa, mormente se considerada a pena abstrata do delito imputado na denúncia (art. 157, §§ 2.º, incisos II e V, e 2.º-A, inciso I, do Código Penal) ante o tempo concreto de prisão cautelar (cerca de sete meses) e as peculiaridades do caso consubstanciadas, por exemplo, na pluralidade de réus.
+6. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido.
+(AgRg no HC n. 776.547/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/2/2023, DJe de 17/2/2023.)
+Ante o exposto, não conheço do recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
