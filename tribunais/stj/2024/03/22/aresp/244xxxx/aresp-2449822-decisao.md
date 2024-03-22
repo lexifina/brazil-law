@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo manejado por RESOLUÇÃO APOIO ADMINISTRATIVO LTDA. contra decisão que inadmitiu recurso especial, interposto com apoio no permissivo constitucional, o qual desafia acórdão proferido pelo TRF4, assim ementado (e-STJ fl. 228):
+CONSIGNAÇÃO EM PAGAMENTO. CRF. REFIS. RESOLUÇÃO DO CFF Nº 533/10. DEPÓSITO INFERIOR AO MONTANTE DO DÉBITO. AÇÃO JULGADA IMPROCEDENTE.
+1. Conforme se extrai da resolução que estabeleceu o REFIS, a adesão ao parcelamento implicaria no pagamento da dívida principal, que no caso dos autos é aquela decorrente do auto de infração nº 40105, com a dedução dos percentual de 99% do montante da multa e dos juros incidentes sobre o débito principal (a respectiva multa administrativa).
+2. Assim, não encontra respaldo na Resolução do CFF nº 533/10 a pretensão do apelante de ver deduzido o percentual de 99% sobre o valor do crédito principal, referente à própria multa administrativa imposta.
+3. Em ação consignatória, constatando-se que o valor depositado pelo devedor é insuficiente para saldar a integralidade da dívida, deve ser julgado improcedente o pedido, pois o pagamento parcial da dívida não extingue o vínculo obrigacional.
+Os embargos de declaração opostos foram rejeitados (e-STJ fl. 253).
+No especial obstaculizado, o ora agravante sustentou que o decisum recorrido afronta o disposto no art. 1.022 do CPC/2015, além dos arts. 111 e 181, do Código Tributário Nacional.
+Apresentadas as contrarrazões (e-STJ fls. 285/288), o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal (e-STJ fls. 291/297), o que foi infirmado pela agravante (e-STJ fls. 304/311).
+Passo a decidir.
+De logo, observo que o Superior Tribunal de Justiça firmou o entendimento de que não há violação dos arts. 489 e 1.022 do CPC/2015, muito menos negativa de prestação jurisdicional, quando o acórdão "adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, para decidir de modo integral a controvérsia posta" (AgRg no REsp 1.340.652/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 13/11/2015).
+Acerca do tema, conferir ainda: REsp 1.388.789/RJ, Rel. Ministro BENEDITO GONÇALVES, Primeira Turma, DJe 04/03/2016; AgRg no REsp 1.545.862/RJ, Rel. Ministro OG FERNANDES, Segunda Turma, DJe 18/11/2015.
+No caso, no julgado recorrido, o Tribunal a quo decidiu de forma suficientemente fundamentada sobre o tema apontado como olvidado, ao asseverar que "não encontra respaldo na Resolução do CFF n. 533/10 a pretensão do apelante de ver deduzido o percentual de 99% sobre o valor do crédito principal, referente à própria multa administrativa imposta" (e-STJ fl. 233).
+Por outro lado, observo que a controvérsia foi resolvida à luz da interpretação dada à Resolução n. 533/2010 do Conselho Federal de Farmácia.
+Nesse sentido, consigno que a via especial não é meio adequado para apreciar atos normativos, com a resolução mencionada, por não se enquadrar no conceito de lei federal a que faz alusão o permissivo constitucional.
+A propósito, cit o:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. INTERPRETAÇÃO DE RESOLUÇÃO DA ANTT. ATO NORMATIVO NÃO ENQUADRADO NO CONCEITO DE LEI FEDERAL. PRECEDENTES. RECURSO NÃO PROVIDO.
+1. Preliminarmente, constato que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. A Corte regional, ao decidir a controvérsia, assim consignou (fl. 161, e-STJ):  Como se vê, ao contrário do que sustenta a parte recorrente, a autuação administrativa foi lavrada em 01-01-2015 e não em janeiro de 2017, não sendo aplicável, portanto, o Regulamento aprovado pela Resolução ANTT 5.083/2016. Assim, deve ser mantida a sentença, que analisou a questão à luz da Resolução 442/2004 da ANTT, nos seguintes termos: (..) .
+3. Como se observa, o Tribunal a quo apreciou o tema a partir da interpretação conferida à Resolução n. 442/2004 da ANTT, norma de natureza infralegal, cuja análise não coaduna com a competência atribuída a este egrégio Superior Tribunal de Justiça pelo art. 105 da CF/1988, que expressamente se refere a lei federal.
+4. Assim, eventual violação de lei federal seria meramente indireta e reflexa, pois exigiria juízo anterior de norma infralegal, o que refoge à competência do STJ. Precedentes: REsp. 1.650.108/PR, Rel. Min. Herman Benjamin, Segunda Turma, DJe 2.5.2017; AgInt no AREsp 1.175.028/RS , Rel. Min. Francisco Falcão, Segunda Turma, DJe 29.11.2017; e AgInt no REsp 1.716.772/RS , Rel. Min. Assusete Magalhães, Segunda Turma, DJe 21.5.2018.
+5. Agravo Interno não provido.
+(AgInt no REsp n. 1.950.199/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/11/2021, DJe de 16/12/2021.)
+Por fim, cabe destacar que "o não conhecimento do especial pelo conduto da alínea a do permissivo constitucional inviabiliza, por conseguinte, a análise do alegado dissídio pretoriano" (AgInt no REsp 1.601.154/PR, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 27/02/2018, DJe 06/04/2018).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
