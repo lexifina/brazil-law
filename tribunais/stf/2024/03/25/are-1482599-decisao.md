@@ -1,0 +1,49 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário, interposto em face de acórdão do Tribunal de Justiça do Estado do Espírito Santo, assim ementado (eDOC 10, p. 10-11):
+
+    “APELAÇÃO CÍVEL – PEDIDO DE REVOGAÇÃO DA GRATUIDADE DA JUSTIÇA EM SEDE DE CONTRARRAZÕES RECURSAIS – REJEIÇÃO – ILEGALIDADE NA REPROVAÇÃO EM DUAS DISCIPLINAS – DEMONSTRAÇÃO – DANOS MORAIS – EXISTÊNCIA – DANOS MATERIAIS COM FULCRO NA TEORIA DA PERDA DE UMA CHANCE – NÃO COMPROVAÇÃO – RECURSO PARCIALMENTE PROVIDO. 1. A pretensão de revogação do benefício da gratuidade da justiça, formulada em sede de contrarrazões ao recurso, não pode ser acolhida por força da preclusão, uma vez que a alegação deveria ter sido formulada logo quando da oferta da contestação, quando já havia a notícia nos autos de que o beneficiário é servidor público; 2. Não há nulidade na r. sentença por dito vício de fundamentação, posto que “o julgador não é obrigado a se manifestar acerca de todos os pontos levantados pelas partes, mas apenas quanto àqueles que foram suficientes para a formação de seu juízo de convencimento” (STJ, EDcl no REsp n. 1.318.851/BA, Rel. Min. Humberto Martins, Segunda Turma, j. 19/08/2014, p. 26/08/2014); 3. Também não há que se falar em nulidade da r. sentença quando, para tanto, se indica um suposto error in judicando; 4. Mostrou-se clara a incoerência na reprovação em duas disciplinas, por faltas, quando houve um aparente vício na realização de uma atividade, a qual integra apenas uma delas; 5. De fato, a universidade possui autonomia didático-científica (CRFB, art. 2072). Isso não significa, porém, que possa agir de modo arbitrário a partir da formulação de exigência a qual não comprovou ser de prévio conhecimento do aluno ora apelante; 6. Como o apelante preenchia todos os requisitos para ser aprovado nas cadeiras, revelase ilegal a conduta da universidade apelada, de forma que o apelante faz jus à anulação do lançamento de faltas nas disciplinas de Prática Jurídica I e Pratica Jurídica II, com o aproveitamento das notas lançadas nas referidas matérias, seguido da expedição de certificado de conclusão de curso e/ou documento necessário para o efetivo registro do diploma de graduação; 7. Os danos morais são manifestos, dado que o apelante deveria ter colado grau por volta de 2018, e até o presente momento não o fez, já que precisou responder a uma sindicância administrativa junto à instituição apelada – a qual durou por volta de 1 (um) ano e 8 (oito) meses –, e posteriormente ingressar com a presente demanda judicial; 8. A fim de reparar tal dano, é suficiente e proporcional a condenação ao pagamento da quantia de R$ 8.000,00 (oito mil reais), que não implicará enriquecimento sem causa; 9. Em razão de a responsabilidade civil ter natureza contratual, ante a prévia existência do contrato de prestação de serviço de ensino, o valor da indenização por dano moral deve ser acrescido de juros moratórios, desde a citação (CC, art. 405), com base na taxa SELIC (CC, art. 406). Não deve ser arbitrada a correção monetária sob pena de bis in idem. Precedente do c. STJ; 10. No que toca os danos materiais, para a incidência da teoria da perda de uma chance, “ deve ficar demonstrado que a chance perdida é séria e real, não sendo suficiente a mera esperança ou expectativa da ocorrência do resultado para que o dano seja indenizado” (TJES, Apelação Cível n. 035190037404, Rel. Des. ANNIBAL DE REZENDE LIMA, PRIMEIRA CÂMARA CÍVEL, j. 24/11/2020, p. 13/01/2021). Tais requisitos não foram preenchidos neste caso; 11. Recurso conhecido e parcialmente provido.”
+
+    Os embargos de declaração foram rejeitados (eDOC 12).
+
+    No recurso extraordinário, com fundamento no artigo 102, III, a, do permissivo constitucional, aduz-se afronta ao art. 109, I, da Constituição da República, bem como ao entendimento firmado no julgamento do RE 1.304.964-RG, Tema 1.154 da repercussão geral. Alega-se, em suma, que (eDOC 16, p. 14; 15-16):
+
+    “O acórdão recorrido contrariou a literalidade do artigo 109, I, da CF, eis que a participação da União no polo passivo é obrigatória haja vista que as instituições privadas de ensino superior, se sujeitam ao Sistema Federal de Ensino, sendo reguladas pela Lei de Diretrizes e Bases da Educação (Lei nº. 9.394/96). Nota-se que a União é competente para legislar sobre diretrizes e bases da educação, logo não há como negar a competência da justiça federal para o julgamento deste processo.
+
+    No caso, persiste a ausência de pressuposto processual concerne à competência do Juízo para processo e julgamento, isso porque a alegada causa de pedir da demanda diz respeito à questão de ordem eminentemente institucional em relação a violação das normas regimentais da Instituição de Ensino Superior e não contratuais, ato jurídico esse que, por certo, é realizado por delegação do Poder Público Federal.
+
+    (...)
+
+    Além disso, a causa de pedir funda-se em atos de natureza institucional, consubstanciado na observância das regras regimentais. Assim, a Justiça Estadual seria competente para processar e julgar questões de cunho consumerista e não institucional, como se apresenta o presente caso. Interessa notar, que o próprio demandante compreende a natureza jurídica do ato de sua reprovação por falta, sustentando que o ato administrativo do órgão acadêmico da universidade deveria ser sindicado pelo Poder Judiciário observadas as próprias normas internas do NUPRAJUR (órgão acadêmico do curso de direito) e do Regimento Geral da Universidade, culminando com a seguinte pretensão donde há pedido expresso e escrito de expedição de diploma, que consubstancia a pretensão do demandante, tal como se afere da petição inicial”.
+
+    A Vice-Presidência do TJES inadmitiu o recurso por entender inaplicável o Tema 1.154 da repercussão geral e pelo óbice da Súmula 279 do STF (eDOC 20)
+
+    É o relatório. Decido.
+
+    Para melhor compreensão da controvérsia, destaco seguinte trecho do voto condutor quando do julgamento dos embargos de declaração (eDOC 14, p. 3-4):
+
+    “Como visto, alega o embargante, em suas razões recursais, que o v. acórdão é omisso quanto ao Tema de Repercussão Geral n. 1.154, em que o e. Supremo Tribunal Federal fixou a seguinte tese: “Compete à Justiça Federal processar e julgar feitos em que se discuta controvérsia relativa à expedição de diploma de conclusão de curso superior realizado em instituição privada de ensino que integre o Sistema Federal de Ensino, mesmo que a pretensão se limite ao pagamento de indenização” (STF, RE 1.304.964/SP, Rel. Min. Presidente Luiz Fux, Plenário, j. 24/06/2021) (id. 3572443).
+
+    Sem maiores delongas, tal como decidiu o d. Juízo a quo em sua r. sentença, não há que se falar em competência da Justiça Federal no presente caso, notadamente porque o pedido formulado pelo apelante embargado não é de expedição/registro de diploma, mas sim de apreciação de ilegalidades ocorridas no ato de reprovação em duas disciplinas.
+
+     Tanto é que não houve, no v. acórdão combatido, ordem para expedição/registro de diploma. Notemos: “Pelo exposto, CONHEÇO do recurso e DOU-LHE PARCIAL PROVIMENTO, a fim de reformar a r. sentença e, consequentemente: (i) anular o lançamento de faltas nas disciplinas de Prática Jurídica I e Pratica Jurídica II, com o aproveitamento das notas lançadas nas referidas matérias; (ii) determinar a expedição de certificado de conclusão de curso e/ou documento necessário para o efetivo registro do diploma de graduação; e (iii) condenar a apelada ao pagamento da quantia de R$ 8.000,00 (oito mil reais) ao apelante, a títulos de danos morais”.
+
+    Ao contrário do alegado pela Recorrente, sendo o caso dos autos limitado a tratar de irregularidades acerca de critérios de aprovação em disciplinas de curso superior de instituição de ensino privada, em momento anterior à expedição de diploma, cuja discussão não alcança questão referente ao Sistema Federal de Ensino, afasta a incidência do Tema 1.154 da repercussão geral ao caso.
+
+    No julgamento do Recurso Extraordinário 1.304.964, leading case do Tema 1.154 da Repercussão Geral, de relatoria do Min. Luiz Fux, Presidente, em reafirmação de jurisprudência, o Plenário desta Corte assentou a seguinte tese: “Compete à Justiça Federal processar e julgar feitos em que se discuta controvérsia relativa à expedição de diploma de conclusão de curso superior realizado em instituição privada de ensino que integre o Sistema Federal de Ensino, mesmo que a pretensão se limite ao pagamento de indenização.” O acórdão ficou assim ementado:
+
+    RECURSO EXTRAORDINÁRIO. REPRESENTATIVO DA CONTROVÉRSIA. CONSTITUCIONAL. COMPETÊNCIA. INSTITUIÇÃO DE ENSINO SUPERIOR. SISTEMA FEDERAL DE ENSINO. CONTROVÉRSIA RELATIVA À EXPEDIÇÃO DE DIPLOMA DE CONCLUSÃO DE CURSO SUPERIOR. INTERESSE DA UNIÃO. COMPETÊNCIA DA JUSTIÇA FEDERAL. ARTIGO 109, I, DA CONSTITUIÇÃO FEDERAL. PRECEDENTES. ACÓRDÃO RECORRIDO DIVERGE DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. MULTIPLICIDADE DE RECURSOS EXTRAORDINÁRIOS. CONTROVÉRSIA CONSTITUCIONAL DOTADA DE REPERCUSSÃO GERAL. REAFIRMAÇÃO DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO PROVIDO.
+
+    Conforme se depreende dos fundamentos que constam da ementa do acórdão recorrido e dos segmentos do voto anteriormente transcritos, conclui-se que é inaplicável, à espécie, o Tema 1.154 da Repercussão Geral - RE 1.304.964 RG.
+
+    Diante do exposto, nego provimento ao recurso extraordinário com agravo, nos termos do art. 932, IV, b, do CPC e art. 21, § 1º, do RISTF.
+
+    Nos termos do artigo 85, § 11, do CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+
+    Publique-se.
+
+    Brasília, 25 de março de 2024.
+
+Ministro EDSON FACHIN
+
+Relator
+
+Documento assinado digitalmente
