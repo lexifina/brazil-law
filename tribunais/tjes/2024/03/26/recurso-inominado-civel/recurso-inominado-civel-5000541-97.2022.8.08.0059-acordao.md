@@ -1,0 +1,50 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5000541-97.2022.8.08.0059
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: BANCO BRADESCO S.A.
+RECORRIDO: LUIZ CARLOS SCAQUETTI
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer em parte o recurso, e, nesta parte, dar-lhe provimento, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5000541-97.2022.808.0059
+
+Recorrente: BANCO BRADESCO S.A.
+
+Recorrido: LUIZ CARLOS SCAQUETTI
+
+Relator: SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+
+VOTOS
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+–
+RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA C/C INDENIZAÇÃO POR DANOS MORAIS. FRAUDE BANCÁRIA. EMPRÉSTIMO NÃO CONTRATADO. DIVERGÊNCIA MANIFESTA DA GRAFIA. NARRA O AUTOR QUE FOI SURPREENDIDO COM INCLUSÃO DE SEU NOME/CPF JUNTO AOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO, POR DÉBITO QUE ALEGA DESCONHECER. RELATA, AINDA, QUE JAMAIS FIRMOU CONTRATO COM A REQUERIDA. EM CONTESTAÇÃO, RÉ ALEGA LEGALIDADE DA CONTRATAÇÃO. SENTENÇA DE PARCIAL PROCEDÊNCIA QUE TORNOU DEFINITIVA A TUTELA ANTECIPADA, ORDENOU A BAIXA NA NEGATIVAÇÃO DO NOME/CPF DO AUTOR E CONDENOU A PARTE RÉ AO PAGAMENTO DE R$5.000,00 (CINCO MIL REAIS) A TÍTULO DE DANOS MORAIS. RESTITUIÇÃO EM DOBRO DE TODAS AS PARCELAS DESCONTADAS. DEMANDADA QUE, EM SEDE DE RECURSO, ALEGA A EXISTÊNCIA E VALIDADE DO INSTRUMENTO CONTRATUAL, JUNTANDO AOS AUTOS, EM CONTESTAÇÃO, CONTRATO SUPOSTAMENTE CELEBRADO ENTRE AS PARTES, CONSTANDO A ASSINATURA DA CONTRATANTE. AFIRMAÇÃO, EM RÉPLICA, DE QUE MENCIONADA ASSINATURA SERIA OBJETO DE FALSIDADE MATERIAL. NECESSIDADE DE PRODUÇÃO DE PROVA PERICIAL COMPLEXA, A FIM DE IDENTIFICAR A TITULARIDADE DA ASSINATURA CONSTANTE NO CONTRATO APRESENTADO PELO RECORRENTE. PERÍCIA DATILOSCÓPICA PERTINENTE. DIVERGÊNCIA ENTRE A ASSINATURA EXISTENTE NO INSTRUMENTO DE PROCURAÇÃO, CONTRATO BANCÁRIO E DOCUMENTO DE IDENTIDADE DA PARTE AUTORA. IMPOSSIBILIDADE DE EXTRAIR ILAÇÕES POR ANÁLISE VISUAL LEIGA. PROVA PERICIAL COMPLEXA. INCOMPETÊNCIA DOS JUIZADOS ESPECIAIS CÍVEIS. EXTINÇÃO QUE SE FAZ NECESSÁRIA. DEMANDA A SER AVIADA NAS INSTÂNCIAS CÍVEIS ORDINÁRIAS. RECONHECIMENTO DE OFÍCIO DE NULIDADE DA SENTENÇA E INCOMPETÊNCIA DO JUÍZO. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. SEM CUSTAS E HONORÁRIOS.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
