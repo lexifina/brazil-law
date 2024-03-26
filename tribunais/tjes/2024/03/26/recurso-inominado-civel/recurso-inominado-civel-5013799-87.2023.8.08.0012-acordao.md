@@ -1,0 +1,97 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5013799-87.2023.8.08.0012
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: DIVINA CAETANO
+RECORRIDO: BANCO BMG SA
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nº
+5013799-87.2023.8.08.0012
+
+Recorrente:
+DIVINA CAETANO
+
+Recorrido:
+BANCO BMG SA
+
+V O T O S
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Concedo o benefício da justiça gratuita à parte Recorrente.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR.
+CARTÃO DE CRÉDITO
+CONSIGNADO
+.
+ERRO DE FINANCIAMENTO DE DÍVIDA RECONHECIDO PELA INSTITUIÇÃO FINANCEIRA. CORREÇÃO E RESTITUIÇÃO EM FATURA SEGUINTE. IRRESIGNAÇÃO QUANTO À MANUTENÇÃO DA COBRANÇA DE ENCARGOS FINANCEIROS. SENTENÇA QUE JULGOU IMPROCEDENTES OS PEDIDOS. RECURSO DA PARTE AUTORA QUE VISA A RESTITUIÇÃO DE COBRANÇA QUE REPUTA INDEVIDA E SE AMPARA NOS CÁLCULOS APRESENTADOS PELO PROCON.
+
+PRELIMINAR DE
+OFENSA AO PRINCÍPIO DA DIALETICIDADE RECURSAL
+.
+RESTANDO EVIDENCIADO QUE AS RAZÕES RECURSAIS APRESENTAM MOTIVOS QUE CONDUZEM O PEDIDO DE REFORMA, CONTROVERTENDO, INCLUSIVE, FUNDAMENTOS UTILIZADOS PELO JULGADOR
+A QUO
+PARA DAR SUPORTE À R. SENTENÇA OBJURGADA, MERECE CONHECIMENTO O RECURSO. PRELIMINAR REJEITADA.
+
+QUANTO AOS ENCARGOS FINANCEIROS POR MORA E IOF ROTATIVO INSERIDOS NA FATURA DO MÊS DE MAIO DE 2023, QUE FORAM DESTACADOS EM RECURSO, NÃO HOUVE DEMONSTRAÇÃO DE QUE SÃO RELATIVOS APENAS AO ERRO COMETIDO PELO BANCO, TENDO EM VISTA QUE HOUVE ATRASO NO PAGAMENTO DAS FATURAS DOS MESES ANTERIORES, INCLUSIVE DE JANEIRO, FEVEREIRO, MARÇO E ABRIL DE 2023, CUJA MORA ENSEJA A COBRANÇA DE
+CUSTOS CONTRATUAIS.
+ALÉM DISSO,
+N
+OS CÁLCULOS REALIZADOS PELO PROCON
+CONTÉM REVISÃO DE TAXAS DESDE O INÍCIO DA CONTRATAÇÃO, EM 2016, CHEGANDO A UMA DIFERENÇA INDICADA NA INICIAL DE CERCA DE R$ 2.000,00, EM 2023,
+O
+QUE EXTRAPOLA A CAUSA DE PEDIR, ESTA VINCULADA APENAS AO ERRO DO BANCO COMETIDO EM ABRIL/2023.
+NO QUE TOCA AOS DEMAIS ARGUMENTOS RELATIVOS AO DEVER DE INFORMAÇÃO E ALTERAÇÃO UNILATERAL DA FORMA DE PAGAMENTO, ESTES CONFIGURAM INOVAÇÃO RECURSAL, VISTO QUE NÃO DISPOSTOS NA INICIAL.
+AUSENTE PROVA DO ATO ILÍCITO CAPAZ DE SUBSIDIAR A PRETENDIDA INDENIZAÇÃO POR DANOS MORAIS, O PEDIDO INDENIZATÓRIO NÃO MERECE ACOLHIMENTO.
+
+SENTENÇA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS
+, NA FORMA DO ART. 46, DA LEI Nº 9099/95, ENUNCIADO 11 DA TURMA DE UNIFORMIZAÇÃO DO ESPÍRITO SANTO E TEMA Nº 451, DAS TESES DE REPERCUSSÃO GERAL DO STF
+1
+. POR FORÇA DA SUCUMBÊNCIA RECURSAL (ART. 55 DA LEI 9.099/95), CONDENA-SE A PARTE RECORRENTE NO PAGAMENTO DAS CUSTAS, ASSIM COMO NOS HONORÁRIOS ADVOCATÍCIOS, SENDO ESTES FIXADOS NO IMPORTE DE 10% SOBRE “O VALOR DE CONDENAÇÃO OU, NÃO HAVENDO CONDENAÇÃO, DO VALOR CORRIGIDO DA CAUSA”. SUSPENDE-SE, NO ENTANTO, A EXIGIBILIDADE DA VERBA SUCUMBENCIAL (CUSTAS E HONORÁRIOS ADVOCATÍCIOS), ANTE A CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA EM FAVOR DA PARTE AUTORA.
+
+1. ENUNCIADO 11: A SENTENÇA PODERÁ SER MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS, A TEOR DO QUE DISPÕE O ARTIGO 46 DA LEI 9099/95, SEM A NECESSIDADE DE NOVA FUNDAMENTAÇÃO JURÍDICA.
+
+Tema n.º 451 das Teses de Repercussão Geral: “Não afronta a exigência constitucional de motivação dos atos decisórios a decisão de Turma Recursal de Juizados Especiais que, em consonância com a Lei 9.099/1995, adota como razões de decidir os fundamentos contidos na sentença recorrida.
+
+É como voto.
+
+Na sequência, assim se manifestaram os demais Julgadores:
+
+O Senhor Juiz de Direito Dr.
+GUSTAVO HENRIQUE PROCÓPIO SILVA
+– Acompanho o voto do Relator.
+
+A Senhora Juíza de Direito Dra. ANNA FLÁVIA MELO
+– Acompanho o voto do Relator.
+
+DECISÃO COLEGIADA
+
+Por unanimidade de votos, conhecer do recurso inominado e LHE NEGAR PROVIMENTO, nos termos do voto do Relator.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
