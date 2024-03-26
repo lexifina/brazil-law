@@ -1,0 +1,52 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5000191-71.2022.8.08.0007
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: SAMSUNG ELETRONICA DA AMAZONIA LTDA
+RECORRIDO: FABRICIO BENICIO DE BRITO
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5000191-71.2022.8.08.0007
+
+Recorrente: SAMSUNG ELETRONICA DA AMAZONIA LTDA
+
+Recorrido: FABRICIO BENICIO DE BRITO
+
+Relator: SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+
+VOTOS
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+–
+RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. NARRA A PARTE AUTORA QUE FEZ A COMPRA DE UM APARELHO CELULAR DA MARCA DA REQUERIDA, NO VALOR DE R$6.960,00 (SEIS MIL, NOVECENTOS E SESSENTA REAIS). PASSADOS ALGUNS MESES, O APARELHO APRESENTOU DEFEITO, SENDO ENVIADO PARA A ASSISTÊNCIA TÉCNICA AUTORIZADA. ALEGA QUE O APARELHO FOI DEVOLVIDO, CONTUDO, O DEFEITO CONTINUOU, SENDO ENVIADO NOVAMENTE PARA ASSISTÊNCIA. APARELHO RESTITUÍDO SOMENTE APÓS A PROPOSITURA DA AÇÃO. TENTATIVA DE SOLUÇÃO VIA PROCON. SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTES OS PEDIDOS INICIAIS, CONDENANDO A REQUERIDA À RESTITUIÇÃO DO VALOR PELO PRODUTO DEFEITUOSO NO IMPORTE DE R$6.960,00 (SEIS MIL, NOVECENTOS E SESSENTA REAIS). CONDENOU AINDA AO PAGAMENTO DE R$2.000,00 (DOIS MIL REAIS) A TÍTULO DE DANOS MORAIS. DETERMINOU QUE O AUTOR QUE DEVOLVA À RÉ O PRODUTO VICIADO, ACOMPANHADO DE TODOS OS SEUS ACESSÓRIOS, DEVENDO A PARTE RÉ LHE FORNECER CÓDIGO DE POSTAGEM PARA TANTO.
+RECURSO DA PARTE DEMANDADA, PEDINDO A REFORMA DA SENTENÇA, PARA JULGAR IMPROCEDENTES OS PEDIDOS INICIAIS OU, EVENTUALMENTE, A REDUÇÃO DO QUANTUM FIXADO A TÍTULO DE DANOS MORAIS.
+RECURSO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS MOLDES DO ART. 46 DA LEI Nº 9.099/95, ENUNCIADO 11 DA TURMA DE UNIFORMIZAÇÃO DO ESPÍRITO SANTO E TEMA Nº 451, DAS TESES DE REPERCUSSÃO GERAL DO STF. POR FORÇA DA SUCUMBÊNCIA RECURSAL (ART. 55, DA LEI 9.099/95) CONDENA-SE A PARTE RECORRENTE NO PAGAMENTO DE CUSTAS E HONORÁRIOS ADVOCATÍCIOS FIXADOS NO IMPORTE DE 10% SOBRE “O VALOR DA CONDENAÇÃO, OU NÃO HAVENDO CONDENAÇÃO, DO VALOR CORRIGIDO DA CAUSA”.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
