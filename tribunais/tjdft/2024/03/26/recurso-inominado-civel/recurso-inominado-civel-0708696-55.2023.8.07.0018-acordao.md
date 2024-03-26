@@ -1,0 +1,49 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Primeira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0708696-55.2023.8.07.0018RECORRENTE(S)FABIO OLIVEIRA DOS SANTOSRECORRIDO(S)DISTRITO FEDERALRelatorJuiz FLÁVIO FERNANDO ALMEIDA DA FONSECA
+ Acórdão Nº1838878
+
+EMENTA
+
+ JUIZADO ESPECIAL. ADMINISTRATIVO. PRELIMINARES DE CERCEAMENTO DE DEFESA E DE NULIDADE POR AUSÊNCIA DE FUNDAMENTAÇÃO. REJEITADAS. NOMEAÇÃO EM CONCURSO PÚBLICO. CARGO DE MONITOR DE GESTÃO EDUCACIONAL. SUPOSTA “RECLASSIFICAÇÃO” DENTRO DAS VAGAS. INEXISTÊNCIA. AUSÊNCIA DE ILEGALIDADE. RECURSO CONHECIDO. PRELIMINARES REJEITADAS E NÃO PROVIDO.
+
+I. Trata-se de recurso interposto pela parte autora contra sentença que julgou improcedente o pedido para determinar que a parte ré promovesse a sua nomeação no concurso para o cargo de Monitor de Gestão Educacional. Em seu recurso aduz preliminar de cerceamento de defesa face o julgamento antecipado sem a possibilidade de produção de provas, bem como face as provas não apreciadas, ressaltando “a indispensabilidade da prova requerida nas petições ID 175592345, 178603413”. Também defende a nulidade da sentença por ausência de fundamentação. Para tanto, defende que a decisão foi amparada tão somente na tese de que não foi aprovado dentro do número de vagas, desconsiderando a alegação de que foi “reclassificado” dentro das vagas existentes. No mérito, ressalta que foram convocados os candidatos aprovados até a posição nº 2682, sendo que dentre os convocados ocorreu um total de 1194 desistências, de modo que o direito de reclassificação deveria abranger os candidatos aprovados até a posição nº 3876. Assim, alega que há comprovação dos cargos vagos, de modo que deve ocorrer a sua nomeação, eis que o autor foi classificado na posição nº 3327. Defende que a situação é diversa daquela apreciada pelo STF visto que, em decorrência das “desistências, duplicidades e descumprimentos” é possível apurar que em sede de reclassificação o autor passou a constar dentro do número de vagas existentes para o cargo, o que assegura o direito subjetivo à sua nomeação.
+
+II. Recurso próprio, tempestivo e dispensado de preparo ante a concessão da gratuidade de justiça. Contrarrazões apresentadas.
+
+III. Não prospera a preliminar de cerceamento de defesa diante do pedido da parte autora para a expedição de ofício requisitando que o Distrito Federal informasse o número de candidatos que não assumiram o cargo quando da última convocação do concurso, tampouco pela alegada não apreciação das provas. Isso porque cabe ao juiz, como destinatário da prova, avaliar a necessidade de sua produção, de modo a formar o seu convencimento, sobretudo quando as provas constantes dos autos são suficientes ao deslinde da controvérsia, como no caso concreto. De todo modo, destaca-se que a indicação do número de candidatos convocados que não entraram em exercício após a derradeira convocação do certame não teria o condão de alterar o pronunciamento de mérito, conforme será elucidado na análise da pretensão recursal. Preliminar rejeitada.
+
+IV. Cabe ao julgador elencar na sentença a fundamentação com base nos elementos probatórios que entendeu como suficientes para alcançar a sua conclusão. Eventual sentença em sentido contrário ao que a parte entende como adequado não configura a alegada nulidade, cabendo à parte apresentar discordância em face daquela decisão pela via recursal, o que foi efetuado pela para autora. Preliminar de nulidade rejeitada.
+
+V. Em síntese, a parte recorrente alega que foi preterida no concurso para o cargo de Monitor de Gestão Educacional. Na espécie, o Edital de Abertura trouxe a previsão de 80 vagas para o referido cargo, sendo que durante a validade do certame foram realizadas nomeações para o cargo. Assinala que foi aprovado na posição 3327, enquanto que o concurso teve um total de 2682 nomeações e 1194 desistências. Desse modo, conclui que há reclassificação em virtude das desistências, o que enseja a nomeação dos candidatos aprovados até a posição nº 3876 (decorrente da soma de 2682 com 1194), o que atesta o direito subjetivo à sua nomeação.
+
+VI. Os candidatos aprovados fora do número de vagas detêm mera expectativa de direito, "ressalvadas as hipóteses de preterição arbitrária e imotivada por parte da administração, caracterizadas por comportamento tácito ou expresso do Poder Público capaz de revelar a inequívoca necessidade de nomeação do aprovado durante o período de validade do certame, a ser demonstrada de forma cabal pelo candidato" (RE 837.311, DJe de 15/04/2016). Na hipótese dos autos a parte autora foi aprovada fora das vagas, eis que o certame possuía 80 vagas, sendo o postulante aprovado em 3327. Não prospera a tese de “reclassificação” do autor dentro do número de vagas, eis que inexiste elemento jurídico a subsidiar suposta “reclassificação” em concursos quando das desistências, vacâncias e outros.
+
+VII. De todo modo, sequer existe coerência a subsidiar a tese matemática de que as desistências do certame deveriam assegurar a nomeação dos candidatos aprovados até a posição 3876. Isso porque o concurso possuía apenas 80 vagas. Ocorre que na penúltima nomeação do certame, em março de 2023, foram convocados 1861 candidatos, alcançando os aprovados até a posição nº 2176. Ainda que a parte autora junte aos autos matéria jornalística indicando que 901 convocados não teriam exercido o cargo por ocasião daquela nomeação (ID 55794465), constata-se que ocorreu uma posterior nomeação de outros 500 candidatos, a alcançar o candidato aprovado na posição nº 2682. Desse modo, ainda que fosse admitida a convocação de outros 401 candidatos (901 – 500), somente seriam chamados os aprovados até a posição 3083, enquanto que o autor foi aprovado em 3327. De todo modo, ainda que a posição do autor fosse englobada no referido cálculo matemático, relembra-se que a última nomeação de 500 candidatos ocorreu após aquela significativa nomeação de outros 1861 aprovados sendo que, somente após identificar todos os convocados que tomaram posse e entraram em exercício, o Distrito Federal efetuou a derradeira convocação de 500 candidatos, não existindo obrigatoriedade para a convocação de outros candidatos para suprir eventuais desistências após a última convocação, como pretende a parte autora (sendo desnecessária a expedição do ofício pleiteado pela parte autora ao suscitar preliminar de cerceamento de defesa). Ademais, convém salientar que não cabe ao Poder Judiciário intervir no mérito do ato administrativo, visto que a escolha do número de vagas a serem preenchidas por concurso é ato discricionário, praticado segundo critérios de conveniência e oportunidade, após análise minuciosa de condicionantes diversos (disponibilidade financeiro-orçamentária, necessidade iminente ou dilatória de preenchimento, dentre outros). A Administração Pública possui discricionariedade para prover os cargos vagos da maneira que melhor convier para o interesse da coletividade (RE 837311, Relator(a): Min. Luiz Fux, Tribunal Pleno, julgado em 09/12/2015, Repercussão Geral - DJe-072 15/04/2016). Portanto, constata-se que a situação não se enquadra nas possibilidades estabelecidas pelo STF para a nomeação do candidato (tema 784 de repercussão geral – “O surgimento de novas vagas ou a abertura de novo concurso para o mesmo cargo, durante o prazo de validade do certame anterior, não gera automaticamente o direito à nomeação dos candidatos aprovados fora das vagas previstas no edital, ressalvadas as hipóteses de preterição arbitrária e imotivada por parte da administração, caracterizada por comportamento tácito ou expresso do Poder Público capaz de revelar a inequívoca necessidade de nomeação do aprovado durante o período de validade do certame, a ser demonstrada de forma cabal pelo candidato. Assim, o direito subjetivo à nomeação do candidato aprovado em concurso público exsurge nas seguintes hipóteses: I – Quando a aprovação ocorrer dentro do número de vagas dentro do edital; II – Quando houver preterição na nomeação por não observância da ordem de classificação; III – Quando surgirem novas vagas, ou for aberto novo concurso durante a validade do certame anterior, e ocorrer a preterição de candidatos de forma arbitrária e imotivada por parte da administração nos termos acima”).
+
+VIII. RECURSO CONHECIDO. PRELIMINARES REJEITADAS E NÃO PROVIDO. Sentença mantida. Condeno a parte recorrente ao pagamento das custas processuais e dos honorários advocatícios, que fixo, face o irrisório valor da causa, em R$ 500,00 (quinhentos reais), cuja exigibilidade fica suspensa por ser beneficiária de gratuidade de justiça.
+
+IX. A ementa servirá de acórdão, conforme art. 46 da Lei n. 9.099/95.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Primeira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, FLÁVIO FERNANDO ALMEIDA DA FONSECA - Relator, RITA DE CASSIA DE CERQUEIRA LIMA ROCHA - 1º Vogal e LUIS EDUARDO YATSUDA ARIMA - 2º Vogal, sob a Presidência da Senhora Juiza RITA DE CASSIA DE CERQUEIRA LIMA ROCHA, em proferir a seguinte decisão: CONHECIDO. PRELIMINARES REJEITADAS. NAO PROVIDO. UNANIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 05 de Abril de 2024
+
+Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECARelator
+
+RELATÓRIO
+
+A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+VOTOS
+
+O Senhor Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECA - RelatorA ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+A Senhora Juíza RITA DE CASSIA DE CERQUEIRA LIMA ROCHA - 1º Vogal Com o relatorO Senhor Juiz LUIS EDUARDO YATSUDA ARIMA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. PRELIMINARES REJEITADAS. NAO PROVIDO. UNANIME.
