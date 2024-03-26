@@ -1,0 +1,32 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5007772-86.2022.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: MULTIMARCAS ADMINISTRADORA DE CONSORCIOS LTDA e outros (2)
+RECORRIDO: ELVIS MAIKE CESAR DOS SANTOS
+RELATOR(A):
+PAULO ABIGUENEM ABIB
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+
+EMENTA: EMBARGOS DE DECLARAÇÃO. RECLAMAÇÃO. DIREITO PROCESSUAL CIVIL. REDISCUSSÃO DE MATÉRIA. INADMISSIBILIDADE. RECURSOS NÃO PROVIDOS.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: .
+Órgão julgador vencedor
+: 1ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+REFAZER
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
