@@ -1,0 +1,65 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5011341-77.2022.8.08.0030
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: ESTADO DO ESPIRITO SANTO e outros
+RECORRIDO: ALAERCE VIEIRA SANDIS
+RELATOR(A):
+GUSTAVO HENRIQUE PROCOPIO SILVA
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5011341-77.2022.8.08.0030
+
+Recorrente: ESTADO DO ESPÍRITO SANTO;
+
+MUNICÍPIO DE LINHARES
+
+Recorrido: ALAERCE VIEIRA SANDIS
+
+RELATOR: DR. GUSTAVO HENRIQUE PROCÓPIO SILVA
+
+VOTOS
+
+DR. GUSTAVO HENRIQUE PROCÓPIO SILVA – RELATOR
+
+(Minuta elaborada em conformidade com a Resolução TJES nº 12/2020)
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA
+: RECURSO INOMINADO. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER NA QUAL A PARTE AUTORA PLEITEOU A CONDENAÇÃO DO PODER PÚBLICO ESTADUAL E MUNICIPAL A FORNECER TRATAMENTO COM FONOAUDIÓLOGO DOMICILIAR 3 VEZES POR SEMANA, BEM COMO ARCAR COM TODO E QUALQUER MEDICAMENTO/UTENSÍLIO/TRATAMENTO/EXAME/CIRURGIA QUE POSSUA NEXO CAUSAL COM O ATUAL QUADRO CLÍNICO DO AUTOR, AO ARGUMENTO DE QUE SOFRE DE SEQUELA DE TRAUMATISMO CRANIANO, DISFAGIA, AFONIA. ESTADO QUE CONTESTA ARGUINDO A COMPETÊNCIA DO MUNICÍPIO EM RELAÇÃO AO ACOMPANHAMENTO DE FONOAUDIÓLOGO, POR SE TRATAR DE SERVIÇO DE ATENÇÃO BÁSICA. PLEITEOU A IMPROCEDÊNCIA DO PEDIDO AUTORAL, E, SUBSIDIARIAMENTE, SEJA DIRECIONADA A OBRIGAÇÃO AO MUNICÍPIO, COM A INDENIZAÇÃO DO MUNICÍPIO AO ESTADO EM CASO DE CUMPRIMENTO DA OBRIGAÇÃO POR ESTE. JUÍZO DE PISO QUE ENTENDEU PELA PROCEDÊNCIA DA AÇÃO ANTE A NECESSIDADE URGENTE QUE CONFIGURA O QUADRO DE SAÚDE DA PARTE AUTORA, FUNDAMENTANDO AINDA QUE NÃO CABE AO PODER JUDICIÁRIO DEFINIR QUAL SERIA O MELHOR TRATAMENTO PARA A PACIENTE QUANDO, NA HIPÓTESE, HÁ A DEVIDA PRESCRIÇÃO PARA O PROCEDIMENTO, SENDO QUE AFRONTA A RAZOABILIDADE E A DIGNIDADE DA PESSOA HUMANA NEGAR O TRATAMENTO CAPAZ DE LHE PROPORCIONAR UMA MELHORA DO QUADRO CLÍNICO. ENTENDEU AINDA QUE POR TER O ESTADO DO ESPÍRITO SANTO ASSUMIDO O FORNECIMENTO DO TRATAMENTO, A OBRIGAÇÃO DO MUNICÍPIO RESTOU SUBSIDIÁRIA. A CONSULTA AO NATJUS, REQUERIDA PELO ESTADO, TAMBÉM FOI DISPENSADA AO ARGUMENTO DE QUE AS PROVAS DOS AUTOS SERIAM SUFICIENTES AO DESLINDE DA DEMANDA, ALÉM DO QUE TAL ÓRGÃO DEVE SER INVOCADO PARA SANAR DÚVIDAS DOS MAGISTRADOS, O QUE NÃO SE MOSTROU NECESSÁRIO NO CASO CONCRETO.
+RECURSO CONHECIDO E IMPROVIDO
+.
+SENTENÇA MANTIDA INCÓLUME, PELOS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46, DA LEI Nº 9099/95
+. CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS DESPESAS DO PROCESSO E HONORÁRIOS ADVOCATÍCIOS ARBITRADOS EM 10% SOBRE O VALOR DA CAUSA.
+
+FABIANO CUZINI SCARPINI
+
+JUIZ LEIGO
+
+O Sr. Juiz de Direito Relator Dr. GUSTAVO HENRIQUE PROCÓPIO SILVA – Nos termos da Resolução TJES nº 12/2020, HOMOLOGO a minuta de voto elaborada pelo Ilmo. Juiz Leigo e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
