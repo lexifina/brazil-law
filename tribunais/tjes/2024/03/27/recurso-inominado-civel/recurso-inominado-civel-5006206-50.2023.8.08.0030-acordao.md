@@ -1,0 +1,123 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5006206-50.2023.8.08.0030
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: PEDRO FELIX SCARDUA JUNIOR
+RECORRIDO: ESTADO DO ESPIRITO SANTO
+RELATOR(A):
+GUSTAVO HENRIQUE PROCOPIO SILVA
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+PROCESSO nº 5006206-50.2023.8.08.0030
+ORIGEM:
+Juízo de Linhares - Juizado Especial Criminal e Fazenda Pública
+RECORRENTE:
+PEDRO FELIX SCARDUA JUNIOR
+RECORRIDO:
+ESTADO DO ESPÍRITO SANTO
+
+DATA DA SESSÃO DE JULGAMENTO
+, conforme intimação prévia.
+
+-
+VOTO
+-
+
+Relator
+: Dr. Gustavo Henrique Procópio Silva
+
+Relatório dispensado (Enunciado 92 do FONAJE) e voto com fundamentação sucinta, na forma de ementa (Lei 9.099/95, art. 46).
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+VOTO/EMENTA:
+RECURSO INOMINADO. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. AÇÃO INDENIZATÓRIA E DE OBRIGAÇÃO DE FAZER. AÇÃO MANEJADA POR SERVIDOR PÚBLICO CONTRA O ESTADO. POLICIAL MILITAR. INDENIZAÇÃO SUPLEMENTAR DE ESCALA OPERACIONAL - ISEO. PRETENSÃO DE RECEBIMENTO DE VERBAS POR SERVIÇOS EXTRAORDINÁRIOS. PRETENSÃO DE RESSARCIMENTO DO VALORES RECOLHIDOS A TÍTULO DE IMPOSTO DE RENDA. IMPROCEDÊNCIA DOS PEDIDOS. SENTENÇA MANTIDA. RECURSO CONHECIDO E IMPROVIDO.
+
+(1).
+Alega a parte autora, em síntese, que é servidor público estadual, atuando como Policial Militar e que além da sua jornada ordinária e da escala especial, também foi convocada para cumprir escalas extraordinárias de 6 horas, 8 horas ou 12 horas, desde 2018 até a propositura da demanda, perfazendo o somatório de 161 (cento e sessenta e uma) horas extras que, segundo ela, nunca lhe foram pagas pelo Estado. Acrescenta que o Estado deve ressarcir o valor de imposto de renda recolhido sobre a ISEO, uma vez que possui natureza indenizatória. Requer a condenação do Estado ao pagamento de valores devidos a título de horas extraordinárias, bem como a devolução dos valores descontados a título de imposto de renda da ISEO.
+
+(2).
+A sentença objurgada julgou improcedentes os pedidos autorais. Inconformada com o ato sentencial, a parte autora interpôs recurso inominado a fim de desafiá-lo. Contrarrazões da parte ré no sentido de manutenção da sentença.
+
+(3).
+
+Da questão processual.
+A parte autora pugna pela gratuidade de justiça por não possuir condições de arcar com as custas processuais. Em contrarrazões, a ré impugna o pleito em destaque, sob o argumento central de não ter sido demonstrada a situação financeira da postulante do benefício da justiça gratuita. Sobre o tema, imperioso ressaltar a regra contida no §§ 2º e 3º, ambos do art. 99 do CPC,
+in verbis
+: “
+§ 2º. O juiz somente poderá indeferir o pedido se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão de gratuidade, devendo, antes de indeferir o pedido, determinar à parte a comprovação do preenchimento dos referidos pressupostos. § 3º. Presume-se verdadeira a alegação de insuficiência deduzida exclusivamente por pessoa natural.
+” Com isso, a jurisprudência do C. Superior Tribunal de Justiça é firme em orientar que a simples declaração de pobreza tem presunção
+juris tantum
+, bastando, por tal razão, o simples requerimento para a concessão da assistência judiciária gratuita, o que, por óbvio, não impede o indeferimento do pleito, mormente quando o magistrado se convencer, com base nos elementos dos autos, de que não se trata de hipótese de miserabilidade jurídica (AgInt no AREsp n. 1.716.192/SC, Relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 30/11/2020, DJe 18/12/2020). No caso dos autos, nota-se que inexiste elemento a evidenciar a falta dos pressupostos legais para a concessão da gratuidade. Por tais motivos, rejeita-se a preliminar em apreciação e, em consequência, reconhece-se que a parte autora faz jus aos beneplácitos da justiça gratuita.
+
+(4).
+Do mérito.
+
+Após análise do conteúdo probatório, nota-se que a controvérsia diz respeito a três pilares: i) a remuneração de horas extraordinárias supostamente realizadas pela parte autora, ii) a natureza jurídica da verba denominada “ISEO” (Indenização Suplementar de Escala Operacional) e iii) a restituição dos valores deduzidos a título de imposto de renda sobre a verba “ISEO”.
+
+(5).
+Em relação às horas extraordinárias, não obstante o Supremo Tribunal Federal tenha pacificado o entendimento de que a remuneração pelo serviço extraordinário com acréscimo de 50%, no mínimo, aplica-se imediatamente aos servidores públicos, por se tratar de norma autoaplicável, esta não tem aplicação no caso concreto. A natureza da atividade desempenhada pela parte autora, em verdade, não se confunde com serviços extraordinários, inclusive por expressa vedação legal. Com efeito, o art. 5º da Lei Complementar Estadual nº 622/12 definiu que o referido valor não é acumulável,
+in verbis
+: “
+O recebimento da ISEO é incompatível com o de diárias, ajuda de custo, escala especial ou remuneração por trabalho extraordinário em virtude da mesma operação
+.” Além disso, o art. 1º, § 1º, da Lei Estadual em comento assevera que a ISEO
+“possui natureza jurídica diversa do serviço extraordinário previsto no art. 101 da Lei Complementar nº 46, de 31 de janeiro de 1994, e de toda e qualquer escala especial ou extraordinária de serviços prevista nas leis específicas da carreira militar, policiais civis e dos inspetores penitenciários
+”.
+
+(6).
+Não obstante a literalidade da norma e a obrigatoriedade de se observar o princípio da estrita legalidade, a discussão sobre a natureza jurídica de tais pagamentos foi recentemente enfrentada no âmbito do Supremo Tribunal Federal (ADI 7.356/PE). Apesar da nomenclatura diversa, em situação fática idêntica ao presente caso, o Min. Luiz Roberto Barroso proferiu voto vencedor no sentido de que o “Programa Jornada Extra de Segurança”, estabelecido em prol dos policiais militares do estado de Pernambuco, não detém a natureza de serviço extraordinário, de maneira a não se sujeitar à incidência do acréscimo de 50% previsto no art. 7º, XVI da CF. Destaca-se que o excelso pretório entendeu que a referida remuneração, paga em valor fixo e de adesão voluntária a um específico regime de trabalho, não tem reflexo algum na vida funcional do servidor, tratando-se de um “prêmio ou incentivo”. A tal respeito, eis trecho esclarecedor do voto vencedor: “
+Vale dizer, o regime especial de trabalho decorrente do Programa Jornada Extra de Segurança – PJES não afronta o direito dos policiais civis à percepção de horas extras, uma vez que a adesão ao serviço é voluntária, de modo que o servidor se compromete à prestação de serviço em período pré-definido e com valor de retribuição previamente estipulado
+.” A tese, então, restou assim fixada: “
+Não viola o art. 7º, XVI, da CF, o estabelecimento de programa de jornada extra de segurança com prestação de serviço em período pré-determinado e com contraprestação pecuniária em valor previamente estipulado, desde que a adesão seja voluntária
+”. Ainda sobre a remuneração em comento, cujas bases são idênticas à ISEO estabelecida no âmbito do Espírito Santo, o Programa Jornada Extra de Segurança (PJES), na forma destacada pelo Min. Alexandre de Moraes, é “(...)
+um regime especial de trabalho, com condições preestabelecidas, de natureza suplementar e facultativa, ao qual o servidor policial pode simplesmente não aderir
+”. A partir da definição do tema em ação direta de inconstitucionalidade, de imperiosa observância por todo o Judiciário (CPC, art. 927, inciso I), tem-se que a voluntariedade pelo servidor militar, civil ou penal ao regime especial de trabalho ofertado pelo estado é suficiente para a não configuração de serviço extraordinário.
+
+(7).
+Vale ressaltar, ainda, que o serviço extraordinário regulado pelo art. 101 da Lei Complementar Estadual nº 46/94 não foi substituído pela ISEO, o que, sob tal ótica, poderia configurar a ilegalidade, mas, na forma já descrita, a situação dos autos envolve um regime próprio de remuneração facultativo suplementar, coexistindo com as demais remunerações previstas no ordenamento de cada uma das carreiras.
+Na própria ficha financeira da part
+e postulante, por sinal, há
+a indicação de que esta recebeu a gratificação de horas extraordinárias, demonstrando cabalmente a coexistência dos regimes de remuneração. Por tais razões, o pleito de recebimento de indenização por horas extraordinárias não deve ser acolhido.
+
+(8).
+Por sua vez, no que se refere à incidência tributária ou não sobre tais valores, é preciso estabelecer a se natureza jurídica possui cunho remuneratório ou indenizatório. Sabe-se, com efeito, que a simples nomenclatura da verba (“indenização”) não é suficiente para indicar a sua natureza, tanto que, justamente no caso do imposto de renda, há previsão expressa em tais termos,
+in verbis
+: “
+A incidência do imposto independe da denominação da receita ou do rendimento, da localização, condição jurídica ou nacionalidade da fonte, da origem e da forma de percepção.
+” (CTN, art. 43, § 1º). É preciso reconhecer que o tema em si produz profícuo debate jurídico, mas, em relação à situação dos autos, resta evidenciado que se trata de um regime específico de
+remuneração
+correspondente à contraprestação do exercício regular e voluntário da atividade, configurando, dessa forma, a hipótese de incidência tributária constante no mencionado art. 43 do Código Tributário Nacional. Por tais motivos, é justo estabelecer a natureza
+remuneratória
+da verba recebida a título de ISEO, devendo haver a correspondente incidência do imposto de renda, de modo a se concluir pela improcedência do pleito de ressarcimento dos descontos ocorridos para o imposto de renda.
+
+(9).
+Da conclusão.
+RECURSO CONHECIDO E IMPROVIDO
+.
+S
+entença mantida por seus próprios fundamentos, nos termos do art. 46 da Lei 9.099/95.
+
+(10).
+
+Por força da sucumbência recursal (art. 55 da Lei 9.099/95), condena-se a parte autora/recorrente no pagamento das custas, assim como nos honorários advocatícios, sendo estes fixados no importe de 10% sobre “o valor de condenação ou, não havendo condenação, do valor corrigido da causa”. Suspende-se, no entanto, a exigibilidade da verba sucumbencial (custas e honorários advocatícios), ante a concessão do benefício da justiça gratuita em favor da parte autora.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
