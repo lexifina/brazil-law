@@ -1,0 +1,76 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5009819-35.2023.8.08.0012
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: BANCO ORIGINAL S/A
+RECORRIDO: MARA LUCIA DOS SANTOS
+RELATOR(A):
+GUSTAVO HENRIQUE PROCOPIO SILVA
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+PROCESSO Nº 5009819-35.2023.8.08.0012
+Origem
+: Juízo de Cariacica - Comarca da Capital - 4º Juizado Especial Cível
+RECORRENTE
+: BANCO ORIGINAL S/A
+RECORRIDO
+: MARA LUCIA DOS SANTOS
+DATA DA SESSÃO DE JULGAMENTO
+, conforme intimação prévia.
+
+-
+VOTO
+-
+
+Relator
+: Dr. Gustavo Henrique Procópio Silva
+
+Relatório dispensado (Enunciado 92 do FONAJE) e voto com fundamentação sucinta, na forma de ementa (Lei 9.099/95, art. 46).
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+VOTO/EMENTA.
+RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. NEGATIVAÇÃO INDEVIDA. CONTRATO SUPOSTAMENTE NUNCA CELEBRADO JUNTO À RÉ. PUGNA A PARTE AUTORA PELA EXCLUSÃO DE SEU NOME DO ROL DE INADIMPLENTES, BEM COMO SEJA RÉ CONDENADA AO PAGAMENTO DE DANOS MORAIS.
+SENTENÇA DE PARCIAL PROCEDÊNCIA
+. RECURSO INOMINADO INTERPOSTO PELA PARTE RÉ.
+DO MÉRITO. A SENTENÇA DEVE SER MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS MOLDES DO ART. 46 DA LEI N.º 9.099/95, DE MODO QUE SÃO ADOTADAS AS SUAS RAZÕES DE DECIDIR (STF, Tema n.º 451 das Teses de Repercussão Geral: “
+Não afronta a exigência constitucional de motivação dos atos decisórios a decisão de Turma Recursal de Juizados Especiais que, em consonância com a Lei 9.099/1995, adota como razões de decidir os fundamentos contidos na sentença recorrida
+”).
+CONFIRMAM-SE AS RAZÕES DE DECIDIR DO MM. JUÍZO DA ORIGEM, ESPECIFICAMENTE QUANTO À ILEGALIDADE DA NEGATIVAÇÃO INDEVIDA.
+A
+RÉ ALEGA TER INSERIDO O NOME DO AUTOR NOS CADASTROS DE INADIMPLENTES POR DÍVIDA DECORRENTE DE SERVIÇO CONTRATADO PELA AUTORA (ABERTURA DE CONTA; CRÉDITO PESSOAL; CARTÃO DE CRÉDITO; LIMITE DE CHEQUE ESPECIAL). NO ENTANTO, A PARTE RÉ NÃO COMPROVA QUE A PARTE AUTORA, EFETIVAMENTE, TENHA CONTRATADO OS REFERIDOS SERVIÇOS, NA MEDIDA EM QUE NÃO FOI APRESENTADO AOS AUTOS CONTRATO DEVIDAMENTE ASSINADO PELA AUTORA OU GRAVAÇÃO DE SOLICITAÇÃO DOS SERVIÇOS VIA LIGAÇÃO TELEFÔNICA, MAS TÃO SOMENTE IMAGENS SISTÊMICAS, UMA SELFIE DA AUTORA E FOTO DE SUA CNH . É NECESSÁRIO RESSALTAR QUE AS IMAGENS SISTÊMICAS NÃO COMPROVAM A CONTRATAÇÃO DO SERVIÇO, NA MEDIDA EM QUE SÃO INFORMAÇÕES PRODUZIDAS UNILATERALMENTE PELA RÉ, DE MODO QUE NÃO SE DEVE PRESUMIR A EXISTÊNCIA DE RELAÇÃO CONTRATUAL ENTRE AS PARTES. EVIDENCIADA, NESTES TERMOS, A FALHA NA PRESTAÇÃO DO SERVIÇO, BEM COMO DO ÔNUS DA PARTE RÉ QUANTO À EXISTÊNCIA DE FATO IMPEDITIVO, MODIFICATIVO OU EXTINTIVO DO DIREITO DO AUTOR (CPC, ART. 373, INCISO II), DE MODO QUE RESTA DEMONSTRADA A PRÁTICA DO ATO ILÍCITO PELA RÉ AO INSERIR OS DADOS DO AUTOR NOS CADASTROS DE INADIMPLENTES.
+
+POR FIM,
+RESTA CONFIGURADO O DANO MORAL
+IN RE IPSA
+, VISTO QUE É PRESUMIDO E DECORRE DA PRÓPRIA ILICITUDE DO FATO, CONFORME ENTENDIMENTO CONSOLIDADO DO STJ (AG 1.379.761). POR TAIS SINGELAS RAZÕES, DEVE SER MANTIDA A CONDENAÇÃO A TÍTULO DE DANO MORAL NO VALOR DE R$ 2.000,00 (DOIS MIL REAIS), O QUAL SE ENCONTRA ARBITRADO DE ACORDO COM OS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE.
+DA CONCLUSÃO.
+RECURSO INOMINADO CONHECIDO E DESPROVIDO
+,
+MANTENDO-SE INALTERADA A R. SENTENÇA PROFERIDA NA ORIGEM
+. POR FORÇA DA SUCUMBÊNCIA RECURSAL (ART. 55, 2ª PARTE, DA LEI 9.099/95),
+CONDENA-SE
+A PARTE RÉ/RECORRENTE NO PAGAMENTO DAS CUSTAS PROCESSUAIS, ASSIM COMO
+EM HONORÁRIOS ADVOCATÍCIOS FIXADOS EM 10% (DEZ POR CENTO) SOBRE O VALOR DA CONDENAÇÃO OU, NÃO HAVENDO CONDENAÇÃO, DO VALOR CORRIGIDO DA CAUSA
+.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
