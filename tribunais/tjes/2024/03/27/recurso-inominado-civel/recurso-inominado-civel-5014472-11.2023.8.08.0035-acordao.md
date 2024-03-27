@@ -1,0 +1,65 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5014472-11.2023.8.08.0035
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: INSTITUTO DE ATENDIMENTO SOCIO-EDUCATIVO DO ESPIRITO SA
+RECORRIDO: LUCIO SOARES DA SILVA
+RELATOR(A):
+GUSTAVO HENRIQUE PROCOPIO SILVA
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5014472-11.2023.8.08.0035
+
+Recorrente: INSTITUTO DE ATENDIMENTO SOCIOEDUCATIVO DO ESPÍRITO SA;
+
+Recorrido: LÚCIO SOARES DA SILVA;
+
+RELATOR: DR. GUSTAVO HENRIQUE PROCÓPIO SILVA
+
+VOTOS
+
+DR. GUSTAVO HENRIQUE PROCÓPIO SILVA – RELATOR
+
+(Minuta elaborada em conformidade com a Resolução TJES nº 12/2020)
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA
+: RECURSO INOMINADO. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. RECURSO INOMINADO. AÇÃO ANULATÓRIA C/C COBRANÇA DE FUNDO DE GARANTIA POR TEMPO DE SERVIÇO (FGTS). CONTRATOS TEMPORÁRIOS DE TRABALHO. PEDIDO DE NULIDADE CONTRATUAL. PARTE AUTORA QUE LABOROU EM CARGO DESIGNADO PARA TRABALHADOR TEMPORÁRIO NOS PERÍODOS 22/03/2010 A 22/03/2012 (VÍNCULO 1), 12/04/2012 A 10/04/2014 (VÍNCULO 2), 03/04/2017 A 14/02/2018 (VÍNCULO 3), 01/03/2018 A 11/02/2020 (VÍNCULO 4), 11/02/2020 A 10/12/2021 (VÍNCULO 5). ALEGAÇÃO DE NECESSIDADE EXCEPCIONAL QUE NÃO SE SUSTENTA. HABITUALIDADE E PRORROGAÇÕES SUCESSIVAS CARACTERIZADAS. RECONHECIDA A PRESCRIÇÃO QUINQUENAL, RESTANDO ASSIM PRESCRITAS AS OBRIGAÇÕES ANTERIORES A 23/05/2018. APLICAÇÃO DO ART. 19-A DA LEI Nº 8.036/90. EXEGESE DA SÚMULA N° 22 DO TJES. SENTENÇA QUE JULGOU PROCEDENTE EM PARTE O PEDIDO AUTORAL, RECONHECEU A PRESCRIÇÃO QUINQUENAL E DECLAROU NULOS OS CONTRATOS FIRMADOS ENTRE A PARTE AUTORA E O IASES, ALÉM DE TER CONSIGNADO QUE A CONDENAÇÃO IMPOSTA DEVERIA SER ATUALIZADA COM A INCIDÊNCIA DE CORREÇÃO MONETÁRIA, APLICANDO-SE O ÍNDICE DE PREÇOS AO CONSUMIDOR AMPLO ESPECIAL (IPCA-E), E DE JUROS DE MORA A PARTIR DA CITAÇÃO, UTILIZANDO-SE O ÍNDICE DE REMUNERAÇÃO DA POUPANÇA, PREVISTO NO ART. 1º-F, DA LEI Nº 9.494/1997, COM REDAÇÃO DADA PELA LEI Nº 11.960/2009. ENTRETANTO A PARTIR DA DATA DA PUBLICAÇÃO DA EMENDA CONSTITUCIONAL NO. 113/21 (09/12/2021), TENDO EM VISTA O DISPOSTO NO ART. 3O, DEVERÁ INCIDIR A TAXA SELIC.
+
+RECURSO DO PODER PÚBLICO EM RELAÇÃO AO FATOR DE CORREÇÃO MONETÁRIA DETERMINADO DO PELO JUÍZO DE PISO. DEFENDE QUE DE ACORDO COM O ARTIGO 22 DA LEI Nº 8.036/90, COM REDAÇÃO DADA PELA LEI Nº 9.964/2000, O ÍNDICE A SER APLICADO É A TR. COM RAZÃO A RECORRENTE.
+RECURSO CONHECIDO E PROVIDO EM PARTE
+PARA
+DETERMINAR QUE OS VALORES DA CONDENAÇÃO DEVEM SER ACRESCIDOS DE JUROS DE MORA A PARTIR DA CITAÇÃO E CORREÇÃO MONETÁRIA A PARTIR DO VENCIMENTO DE CADA DEPÓSITO, A SEREM CALCULADOS COM BASE NA TAXA REFERENCIAL (TR), NOS TERMOS DO ARTIGO 22 DA LEI 8.036/90
+. SEM CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS, ANTE O PROVIMENTO DO RECURSO.
+
+FABIANO CUZINI SCARPINI
+
+JUIZ LEIGO
+
+O Sr. Juiz de Direito Relator Dr. GUSTAVO HENRIQUE PROCÓPIO SILVA – Nos termos da Resolução TJES nº 12/2020, HOMOLOGO a minuta de voto elaborada pelo Ilmo. Juiz Leigo e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
