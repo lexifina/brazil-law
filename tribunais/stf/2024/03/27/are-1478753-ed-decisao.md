@@ -1,0 +1,121 @@
+DECISÃO:
+
+    1. Trata-se de embargos de declaração opostos contra decisão monocrática assim fundamentada:
+
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    “CONSTITUCIONAL, ADMINISTRATIVO E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. PRELIMINAR DE FALTA DE INTERESSE REFUTADA. SERVIDOR PÚBLICO. MUNICÍPIO DE BREJO DA MADRE DE DEUS. VERBAS SALARIAIS NÃO ADIMPLIDAS. RECURSO DESPROVIDO. DECISÃO UNÂNIME.
+
+    1. É sabido que o ordenamento constitucional consagra o princípio da inafastabilidade da jurisdição, de tal sorte que não se pode condicionar o ingresso ao judiciário ao prévio requerimento administrativo. Ademais, o simples fato de o ente Público apresentar recurso quanto à concessão das verbas requestadas já é suficiente para demonstrar que existe resistência à pretensão autoral. Provada, assim, a necessidade e utilidade da tutela jurisdicional ora pleiteada.
+
+    2. Devidamente comprovada a relação laboral com o ente público, faz jus o servidor, ou empregado público, ao recebimento das verbas salariais não pagas como contraprestação dos serviços prestados.
+
+    3. O não pagamento importa em evidente afronta aos princípios da dignidade da pessoa humana e da moralidade administrativa, e não possui qualquer respaldo no ordenamento jurídico.
+
+    4. Cabe ao município apontado como inadimplente, demonstrar nos autos o pagamento do valor cobrado, a fim de se desincumbir da obrigação. Vale dizer, a teor do art. 373, II, do CPC/2015 é ônus do réu constituir prova dos fatos impeditivos, modificativos e extintivos do direito do autor, e, não o tendo feito, deve arcar com o pagamento da remuneração reclamada.
+
+    5. Assim sendo, a ficha financeira não constitui prova suficiente para comprovar o adimplemento da verba cobrada, vez que se trata de documento produzido unilateralmente pela municipalidade, que serve tão somente para demonstrar o seu lançamento no sistema informatizado da edilidade, não tendo o condão de atestar que o recorrente se desincumbiu do ônus probatório que lhe é inerente.
+
+    6. O reconhecimento nesta ocasião acerca da inexistência de pagamento das verbas pleiteadas na exordial, não afasta a possibilidade de a fazenda pública antes mesmo do trânsito em julgado, comprovar o efetivo pagamento das verbas mediante os instrumentos aqui referidos de modo a evitar eventual pagamento em duplicidade.
+
+    7. A atividade do hermeneuta no arbitramento dos honorários sucumbenciais deve pautar-se sempre pela observância dos princípios constitucionais da razoabilidade e da proporcionalidade, para o fim de estabelecer um quantum que, ao passo que valores a dignidade do trabalho do advogado, não consubstancie causa de enriquecimento desmedido. Tendo em vista os argumentos apresentados pelas partes, a natureza da demanda e os demais critérios estabelecidos no art. 85, §§ 2º, 3º e 4º, mostra-se razoável a fixação de honorários sucumbenciais no patamar de 15% (quinze por cento) sobre proveito econômico obtido, conforme decidido pelo magistrado processante.
+
+    8. Apelação cível desprovida por unanimidade dos votos.”
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 19, II, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se a deficiência na fundamentação da repercussão geral. Não basta a simples afirmação genérica de que o tema tem repercussão geral; faz-se necessária a fundamentação adequada que supra as exigências do disposto no artigo 1.035, § 2º, do Código de Processo Civil e no artigo 327, § 1º, do Regimento Interno do STF.
+
+    No caso, a parte recorrente não demonstrou a existência de questões relevantes do ponto de vista econômico, político, social ou jurídico que ultrapassem os interesses subjetivos da causa.
+
+    O Supremo Tribunal Federal, ao julgar a Questão de Ordem no Agravo de Instrumento 664.567, Rel. Min. Sepúlveda Pertence, DJ de 06/09/2007, fixou o seguinte entendimento:
+
+    “I. Questão de ordem. Recurso extraordinário, em matéria criminal e a exigência constitucional da repercussão geral.
+
+    (...)
+
+    II. Recurso extraordinário: repercussão geral: juízo de admissibilidade: competência.
+
+    1. Inclui-se no âmbito do juízo de admissibilidade - seja na origem, seja no Supremo Tribunal - verificar se o recorrente, em preliminar do recurso extraordinário, desenvolveu fundamentação especificamente voltada para a demonstração, no caso concreto, da existência de repercussão geral (C.Pr.Civil, art. 543-A, § 2º; RISTF, art. 327).
+
+    2. Cuida-se de requisito formal, ônus do recorrente, que, se dele não se desincumbir, impede a análise da efetiva existência da repercussão geral, esta sim sujeita ‘à apreciação exclusiva do Supremo Tribunal Federal’ (Art. 543-A, § 2º).
+
+    III. Recurso extraordinário: exigência de demonstração, na petição do RE, da repercussão geral da questão constitucional: termo inicial.
+
+    (...)
+
+    4. Assim sendo, a exigência da demonstração formal e fundamentada, no recurso extraordinário, da repercussão geral das questões constitucionais discutidas só incide quando a intimação do acórdão recorrido tenha ocorrido a partir de 03 de maio de 2007, data da publicação da Emenda Regimental n. 21, de 30 de abril de 2007.”
+
+    Cabe ressaltar que a intimação do acórdão ora recorrido deu-se, no caso em exame, em data posterior à fixada no citado julgamento.
+
+    Demais disso, cabe salientar que a jurisprudência do STF firmou-se no sentido de que é exigível a demonstração de repercussão geral, devidamente fundamentada, mesmo na hipótese da existência de repercussão geral presumida. Nesse sentido:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. REPERCUSSÃO GERAL DAS QUESTÕES CONSTITUCIONAIS. AUSÊNCIA DE PRELIMINAR. AGRAVO A QUE SE NEGA PROVIMENTO.
+
+    I - Nos termos do art. 327, caput, do Regimento Interno do STF, com a redação dada pela Emenda Regimental 21/2007, os recursos que não apresentem preliminar de repercussão geral serão recusados. Exigência que também se aplica às hipóteses de repercussão geral presumida ou já reconhecida pelo Supremo Tribunal Federal. Precedentes.
+
+    II - Agravo regimental a que se nega provimento.”(ARE 791.424-AgR, Rel. Min. Ricardo Lewandowski, Plenário, DJe de 18/11/2014).
+
+    Citem-se, ainda, os seguintes julgados: RE nº 569.476/SC-AgR, Tribunal Pleno, Rel. Min. Ellen Gracie, DJe de 25/04/2008; ARE nº 1.163.658/AP-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 14/12/2018; ARE nº 1.138.998/PE-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 06/12/2018; ARE nº 1.166.618/ES-AgR, Rel. Min. Luís Roberto Barroso, DJe de 07/12/2018.
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    2. A parte embargante sustenta que: (i) é contraditória a decisão que consigna a ausência de repercussão geral, apesar da existência de tópico específico; (ii) verificando-se tratar de repercussão geral, além de estarem presentes os demais requisitos para a interposição do Recuso Extraordinário, deve o mesmo passar à análise meritória.
+
+    3. O recurso não merece acolhida, tendo em vista a inexistência de obscuridade, contradição, omissão ou erro material na decisão embargada, o que afasta a presença dos pressupostos de embargabilidade, conforme o art. 1.022 do CPC/2015.
+
+    4. Estes embargos veiculam pretensão meramente infringentes. E os embargos não podem conduzir à renovação de um julgamento que não ressente de nenhum vício e, muito menos, à modificação do julgado.
+
+    5. O STF já firmou o entendimento de que não se revelam cabíveis embargos de declaração quando, a pretexto de esclarecer uma inexistente situação de obscuridade, omissão ou contradição, vêm a ser opostos com o inadmissível objeto de infringir o julgado, em ordem a viabilizar um indevido reexame da causa (AI 177.313-AgR-ED, Rel. Min. Celso de Mello).
+
+    6. Restou claro na decisão embargada que a parte recorrente não demonstrou a existência de questões relevantes do ponto de vista econômico, político, social ou jurídico que ultrapassem os interesses subjetivos da causa.
+
+    7. O Supremo Tribunal Federal, ao julgar a Questão de Ordem no Agravo de Instrumento 664.567, Rel. Min. Sepúlveda Pertence, DJ de 06/09/2007, fixou o seguinte entendimento:
+
+    “I. Questão de ordem. Recurso extraordinário, em matéria criminal e a exigência constitucional da repercussão geral.
+
+    (...)
+
+    II. Recurso extraordinário: repercussão geral: juízo de admissibilidade: competência.
+
+    1. Inclui-se no âmbito do juízo de admissibilidade - seja na origem, seja no Supremo Tribunal - verificar se o recorrente, em preliminar do recurso extraordinário, desenvolveu fundamentação especificamente voltada para a demonstração, no caso concreto, da existência de repercussão geral (C.Pr.Civil, art. 543-A, § 2º; RISTF, art. 327).
+
+    2. Cuida-se de requisito formal, ônus do recorrente, que, se dele não se desincumbir, impede a análise da efetiva existência da repercussão geral, esta sim sujeita ‘à apreciação exclusiva do Supremo Tribunal Federal’ (Art. 543-A, § 2º).
+
+    III. Recurso extraordinário: exigência de demonstração, na petição do RE, da repercussão geral da questão constitucional: termo inicial.
+
+    (...)
+
+    4. Assim sendo, a exigência da demonstração formal e fundamentada, no recurso extraordinário, da repercussão geral das questões constitucionais discutidas só incide quando a intimação do acórdão recorrido tenha ocorrido a partir de 03 de maio de 2007, data da publicação da Emenda Regimental n. 21, de 30 de abril de 2007.”
+
+    8. Cabe ressaltar que a intimação do acórdão ora recorrido deu-se, no caso em exame, em data posterior à fixada no citado julgamento.
+
+    9. Demais disso, cabe salientar que a jurisprudência do STF firmou-se no sentido de que é exigível a demonstração de repercussão geral, devidamente fundamentada, mesmo na hipótese da existência de repercussão geral presumida. Nesse sentido:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. REPERCUSSÃO GERAL DAS QUESTÕES CONSTITUCIONAIS. AUSÊNCIA DE PRELIMINAR. AGRAVO A QUE SE NEGA PROVIMENTO.
+
+    I - Nos termos do art. 327, caput, do Regimento Interno do STF, com a redação dada pela Emenda Regimental 21/2007, os recursos que não apresentem preliminar de repercussão geral serão recusados. Exigência que também se aplica às hipóteses de repercussão geral presumida ou já reconhecida pelo Supremo Tribunal Federal. Precedentes.
+
+    II - Agravo regimental a que se nega provimento.”(ARE 791.424-AgR, Rel. Min. Ricardo Lewandowski, Plenário, DJe de 18/11/2014).
+
+    10. Citem-se, ainda, os seguintes julgados: RE nº 569.476/SC-AgR, Tribunal Pleno, Rel. Min. Ellen Gracie, DJe de 25/04/2008; ARE nº 1.163.658/AP-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 14/12/2018; ARE nº 1.138.998/PE-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 06/12/2018; ARE nº 1.166.618/ES-AgR, Rel. Min. Luís Roberto Barroso, DJe de 07/12/2018.
+
+    11. Diante do exposto, com base no art. 21, § 1º, do RI/STF, rejeito os embargos de declaração.
+
+    Publique-se.
+
+    Brasília, 27 de março de 2024.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
