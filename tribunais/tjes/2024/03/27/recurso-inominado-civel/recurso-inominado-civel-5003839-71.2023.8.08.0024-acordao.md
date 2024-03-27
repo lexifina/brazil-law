@@ -1,0 +1,62 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5003839-71.2023.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: ESTADO DO ESPIRITO SANTO
+RECORRIDO: EDIANO RODRIGUES FILHO
+RELATOR(A):
+GUSTAVO HENRIQUE PROCOPIO SILVA
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5003839-71.2023.8.08.0024
+
+Recorrente: ESTADO DO ESPÍRITO SANTO;
+
+Recorrido: EDIANO RODRIGUES FILHO;
+
+RELATOR: DR. GUSTAVO HENRIQUE PROCÓPIO SILVA
+
+VOTOS
+
+DR. GUSTAVO HENRIQUE PROCÓPIO SILVA – RELATOR
+
+(Minuta elaborada em conformidade com a Resolução TJES nº 12/2020)
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+VOTO/EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. SERVIDOR PÚBLICO. PAGAMENTO DE REMUNERAÇÃO BLOQUEADO POR NÃO TER SIDO REALIZADO O CENSO 2022 PELO SERVIDOR. PODER PÚBLICO QUE DEFENDEU A REGULARIDADE DA CONDUTA, ADUZINDO QUE O CENSO BIANUAL É ESSENCIAL PARA ATUALIZAÇÃO DOS DADOS DO SISTEMA INTEGRADO DE ADMINISTRAÇÃO DE RECURSOS HUMANOS E PARA A GESTÃO DO PAGAMENTO DE PESSOAL E CUMPRIMENTO DAS OBRIGAÇÕES FISCAIS E PREVIDENCIÁRIAS, E QUE O BLOQUEIO TERIA SIDO EFETUADO CORRETAMENTE, NOS TERMOS DA PORTARIA 22-R, de 28/12/2017, DA SEGER. JUÍZO DE ORIGEM QUE RECONHECEU A IRREGULARIDADE DA CONDUTA DO SERVIDOR, AO NÃO TER REALIZADO O CENSO PREVISTO EM NORMA REGULAMENTAR. NÃO OBSTANTE, ENTENDEU PELA ILEGALIDADE DO TIPO DE PENALIDADE (RETENÇÃO DO PAGAMENTO), PREVISTO NO ARTIGO 10 DA PORTARIA 22-R, de 28/12/2017, DA SEGER. ENTENDEU ASSIM PELA DESPROPORCIONALIDADE DA PUNIÇÃO, QUE SÓ TERIA RAZÃO DE SER SE O SERVIDOR FOSSE EFETIVAMENTE IMPEDIDO DE TRABALHAR EM RAZÃO DA IRREGULARIDADE. UMA VEZ PRESTADO O SERVIÇO, NÃO É RAZOÁVEL RETER O PAGAMENTO. CONCLUIU AINDA PELA AUSÊNCIA DE PROCESSO ADMINISTRATIVO QUE RESPEITASSE OS PARÂMETROS PREVISTOS NO ARTIGO 5º, LIV, DA CF/88. JULGOU DETERMINOU O AFASTAMENTO DA APLICAÇÃO DO ARTIGO DA REFERIDA PORTARIA, CONDENANDO A ADMINISTRAÇÃO A RETORNAR COM OS PAGAMENTOS, ALÉM DE CONDENAR A FAZENDA PÚBLICA AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS NO IMPORTE DE R$ 2.000,00.
+
+RECURSO INTERPOSTO PELO ESTADO PEDINDO PELA REFORMA DA SENTENÇA, SUSTENTANDO QUE O BLOQUEIO DOS VALORES TEM AMPARO LEGAL, ALÉM DE ADUZIR A INEXISTÊNCIA DE DANOS MORAIS, PEDINDO SUBSIDIARIAMENTE PELA REDUÇÃO DO VALOR ARBITRADO. JULGADO QUE NÃO MERECE REPAROS.
+RECURSO CONHECIDO E IMPROVIDO
+. SENTENÇA MANTIDA INCÓLUME, PELOS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46, DA LEI Nº 9099/95. CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS DESPESAS DO PROCESSO E HONORÁRIOS ADVOCATÍCIOS ARBITRADOS EM 10% SOBRE O VALOR DA CONDENAÇÃO.
+
+FABIANO CUZINI SCARPINI
+
+JUIZ LEIGO
+
+O Sr. Juiz de Direito Relator Dr. GUSTAVO HENRIQUE PROCÓPIO SILVA – Nos termos da Resolução TJES nº 12/2020, HOMOLOGO a minuta de voto elaborada pelo Ilmo. Juiz Leigo e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
