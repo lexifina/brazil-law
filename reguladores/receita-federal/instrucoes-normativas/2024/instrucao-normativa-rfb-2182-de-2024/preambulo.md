@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2182, de 28 de março de 2024
+Altera a Instrução Normativa RFB nº 2.022, de 16 de abril de 2021, que dispõe sobre a entrega de documentos e a interação eletrônica em processos digitais no âmbito da Secretaria Especial da Receita Federal do Brasil.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no Decreto nº 9.094, de 14 de julho de 2017, resolve:
