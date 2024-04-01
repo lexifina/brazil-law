@@ -1,0 +1,125 @@
+DECISÃO
+
+RECURSO ORDINÁRIO EM HABEAS CORPUS. CONSTITUCIONAL. PENAL. PROCESSO PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRETENDIDA ABSOLVIÇÃO: INCABÍVEL REVOLVIMENTO DE FATOS E PROVAS EM HABEAS CORPUS. RECURSO ORDINÁRIO EM HABEAS CORPUS AO QUAL SE NEGA SEGUIMENTO.
+
+Relatório
+
+    1. Recurso ordinário em habeas corpus, sem requerimento de medida liminar, interposto por Paulo Cesar da Silva Soares contra acórdão da Quinta Turma do Superior Tribunal de Justiça, que, em 21.11.2023, negou provimento ao Agravo Regimental no Habeas Corpus n. 741.156/RS.
+
+O caso
+
+    2. Consta do processo que o juízo da Vara Criminal da comarca de Alegrete/RS, em 29.1.2016, absolveu o recorrente “Paulo César da Silva Soares das imputações que lhe foram feitas, com fundamento no artigo 388, VII, do Código de Processo Penal”, e condenou corréus (e-doc. 13).
+
+    3. Em 10.3.2022, no julgamento da Apelação Criminal n. 0242089-88.2016.8.21.7000/RS, interposta pelo Ministério Público do Rio Grande do Sul, a Primeira Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul, por unanimidade, deu provimento ao recurso ministerial, para “condenar o apelado Paulo, pelos crimes de tráfico de drogas e associação para o tráfico de entorpecentes, aplicando-lhe as seguintes penas: dez anos e seis meses, regime fechado, e mil e duzentos dias-multa”. O acórdão tem a seguinte ementa:
+
+    “APELAÇÃO. TRÁFICO DE ENTORPECENTES, ASSOCIAÇÃO PARA O TRÁFICO E CORRUPÇÃO DE MENORES. CRIMES E AUTORIA COMPROVADOS. PROVA. PALAVRA DO POLICIAL. VALOR. CONDENAÇÃO IMPOSTA.
+
+    Os depoimentos dos policiais envolvidos nas diligências que culminaram com a acusação da prática de crimes por parte do apelado devem ser analisados como os de qualquer outra pessoa. Não se imagina que, sendo o policial uma pessoa idônea e sem qualquer animosidade específica contra os agentes, vá a juízo mentir, acusando falsamente inocentes.
+
+    Aqui, em prova convincente, os policiais informaram que, depois de investigações realizadas, comprovaram que o apelado estava associado com os outros acusados e com adolescentes para o cometimento do crime de tráfico de entorpecentes. E foi flagrado fragmentando drogas que vieram de outra cidade com o intuito de vendê-las e o faziam com os menores e outro.
+
+    Apelo provido” (fl. 1, e-doc. 4).
+
+    4. Em 11.5.2022, apontando como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul, no julgamento da Apelação Criminal n. 0242089-88.2016.8.21.7000/RS, foi impetrado em favor do recorrente o Habeas Corpus n. 741.156/RS no Superior Tribunal de Justiça. O recorrente requereu medida liminar e pediu a concessão do “habeas corpus para o fim de cassar o acórdão proferido pela 1ª Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul, para restabelecer a decisão de absolvição do primeiro grau. Subsidiariamente, mantida a condenação pelo tráfico de drogas, postula o reconhecimento da privilegiadora, nos termos acima delineados” (e-doc. 3).
+
+    Em 15.8.2022, em decisão monocrática, o Relator, Desembargador Jesuíno Rissato, convocado pelo Superior Tribunal de Justiça, não conheceu do habeas corpus (e-doc. 37).
+
+    Em 21.11.2023, a Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negou provimento ao agravo regimental interposto contra aquela decisão, em acórdão com a seguinte ementa:
+
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. VIA INADEQUADA. APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI 11.343/2006. MATÉRIA NÃO EXAMINADA PELO TRIBUNAL LOCAL. SUPRESSÃO DE INSTÂNCIA. MANUTENÇÃO DA DECISÃO AGRAVADA. DESPROVIMENTO DO AGRAVO. 1. A tese absolutória demanda aprofundado exame do conjunto probatório, providência vedada na via estreita do remédio constitucional. 2. A matéria relativa à aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006, não foi apreciada no acórdão da origem, o que impede manifestação deste Tribunal, sob pena de supressão de instância. 3. Agravo regimental desprovido” (fl. 1, e-doc. 61).
+
+    5. Esse acórdão é objeto do presente recurso ordinário em habeas corpus. O recorrente alega ter sido “absolvido na origem após cognição exauriente que conduziu à certeza quanto à insuficiência probatória, não havendo o que sustente a reforma dessa decisão pelo TJRS, com a condenação do réu pela prática dos delitos de tráfico e associação para o tráfico e a aplicação de uma pena de 10 anos e 6 meses de reclusão (aplicada a majorante prevista no art. 40, VI, da Lei de Drogas)” (fl. 3, e-doc. 70).
+
+    Argumenta que “o juízo de origem concluiu pela diferença radical entre a situação do Paciente e a dos demais réus, ao ponto de absolvê-lo por insuficiência probatória, enquanto a estes assegurou a condenação” (fls. 3-4, e-doc. 70).
+
+    Assevera que “o fato de ter sido o réu surpreendido num contexto de comercialização de drogas não faz dele traficante, como bem pontuou o Magistrado, muito menos alguém que se possa concluir como associado de forma duradoura e permanente para o cometimento desta prática” (fl. 4, e-doc. 70).
+
+    Defende que, “se não restabelecida integralmente a absolvição, que ao menos se assegure ao Paciente o restabelecimento do decreto absolutório quanto ao delito de associação para o tráfico, dada a absoluta ausência de provas que possam sustentar uma condenação por essa prática” (fl. 6, e-doc. 70).
+
+    Este o pedido:
+
+    “Pelo exposto, pugna-se seja o presente recurso provido – nos termos acima requeridos –, para que seja integralmente restabelecida a sentença absolutória de primeiro grau ou, ao menos, que seja o Paciente absolvido da imputação de associação para o tráfico” (fl. 6, e-doc. 70).
+
+    O Ministério Público do Rio Grande do Sul apresenta contrarrazões e pede o não provimento do recurso ordinário em habeas corpus (e-doc. 83).
+
+    A Procuradoria-Geral da República manifesta-se pelo não provimento do recurso (e-doc. 95).
+
+    Examinada a matéria posta à apreciação, DECIDO.
+
+    6. O exame dos elementos constantes do processo conduz à conclusão de que razão jurídica não assiste ao recorrente.
+
+    7. Busca-se, no presente recurso ordinário em habeas corpus, a absolvição do recorrente. O argumento seria o de insuficiência probatória para fundamentar a condenação em tráfico e associação para o tráfico (arts. 33 e 35 da Lei n. 11.343/2006).
+
+    8. Sobre a pretensão de absolvição por falta de provas, no acórdão objeto deste recurso, no Habeas Corpus n. 741.156/RS, a Quinta Turma do Superior Tribunal de Justiça ratificou a decisão monocrática e negou provimento ao agravo regimental, concluindo ser incabível em habeas corpus o revolvimento de fatos e provas. Confiram-se trechos do voto condutor do julgamento, com citação do acórdão condenatório:
+
+    “A insurgência é tempestiva. A Defensoria Pública foi intimada eletronicamente da decisão agravada em 29/08/2022 (e-STJ fl. 932) e o agravo foi interposto em 08/09/2022 (e-STJ fl. 938), ou seja, em observância ao prazo legal em dobro, conforme art. 44, I, da LC 80/1994 e art. 798 do CPP, c/c art. 258, caput, do RISTJ.
+
+    Não obstante as razões declinadas no agravo, a decisão monocrática deve ser mantida, pois está de acordo com a orientação jurisprudencial desta Corte. Confiram-se os seguintes excertos da decisão agravada, proferida pelo Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT - e-STJ fls. 910- 924):
+
+    Quanto ao pleito de absolvição das condutas imputadas ao paciente na acusação, ressalta-se que o habeas corpus é ação autônoma de impugnação, de natureza constitucional, voltada à tutela da liberdade de locomoção, cujos limites cognitivos estreitos não admitem dilação probatória, somente se permitindo a análise de provas pré-constituídas que demonstrem ,de maneira inequívoca, o alegado constrangimento ilegal, razão pela qual está assentado nesta Corte Superior que as premissas fáticas firmadas nas instâncias ordinárias não podem ser modificadas na via estreita do mandamus ou de seu recurso ordinário. (...)
+
+    Com efeito, cabe asseverar, ainda, que o habeas corpus não se presta para a apreciação de alegações que buscam absolvição ou desclassificação de condutas imputadas, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita.
+
+    A propósito do tema, trago à colação os seguintes julgados desta Quinta Turma: (...)
+
+    Verifica-se que, ao contrário do quanto afirmado pela defesa, as instâncias ordinárias, após exauriente reexame do delineamento fático e probatório coligido aos autos no decorrer da instrução criminal, concluíram pela existência de elementos suficientes a fundamentar a condenação do paciente, pelos crimes de tráfico de drogas e associação para o tráfico.
+
+    Dessarte, entender de modo contrário ao estabelecido pelo Tribunal a quo, como pretende o impetrantes, ante a alegação de não terem sido suficientemente demonstradas, a responsabilidade do paciente pelo crime de tráfico de drogas, bem como a estabilidade e a permanência da associação criminosa imputada aos agentes, demandaria o revolvimento, no presente habeas corpus, do material fático-probatório dos autos, o que é de todo inviável na via eleita, ensejando o não conhecimento da impetração, no punctum saliens, na esteira dos seguintes precedentes dessa Corte Superior: (...)
+
+      Quanto ao pleito de aplicação da causa de diminuição da pena prevista no art. 33, § 4º da Lei n. 11.343/2006, o habeas corpus não comporta conhecimento. Isso porque, da análise do v. acórdão objurgado, verifica-se que as matérias ora suscitadas sequer foram analisadas pela eg. Corte a quo, nos autos do recurso de apelação n. 0242089-88.2016.8.21.7000, objeto da presente impetração, de maneira que sua análise diretamente por esta Corte Superior fica impossibilitada, sob pena de indevida supressão de instância. Nesse sentido: (...)
+
+    Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem, ainda que de ofício. Dessa feita, tratando-se o presente habeas corpus de substitutivo de recurso ordinário e estando o v. acórdão prolatado pelo eg. Tribunal a quo em conformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso, o enunciado da Súmula n. 568/STJ, in verbis: ‘O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema’.
+
+    A pretensão de revisão do acórdão estadual destinada à absolvição do paciente por insuficiência de provas demandaria dilação probatória, providência incabível no writ.
+
+    O Tribunal de origem concluiu que (e-STJ fls. 20-23):
+
+    Quanto ao delito de associação, tenho destacado em meus votos que, para a tipificação do crime do artigo 35, a lei não exige tempo de durabilidade desta associação, mas apenas a constatação desta hipótese. Afirma-se: ‘associarem-se duas ou mais pessoas para o fim de praticar, reiteradamente ou não, qualquer dos crimes previstos nos arts. 33, caput e § 1º, e 34 desta Lei.’ Ou seja, para a existência do delito em comento basta que os agentes estejam associados, não exigindo, em termos de prova, quanto tempo estão nesta situação. Embora a lei crie outro tipo penal para o fato, em verdade, como se vê de sua redação acima, o legislador tem o objetivo de punir com mais rigor quem está praticando o tráfico em concurso de outros agentes, como se faz, por exemplo, no roubo e no furto. A lei se preocupa com o concurso e não com uma eventual quadrilha ou bando que, sim, exige, além da quantidade mínima de pessoas, a estabilidade.
+
+    Na hipótese, a prova demonstrou tal situação, como bem destacou o ilustre Procurador de Justiça, Dr. Ivan Melgaré, em seu parecer:
+
+    Referentemente ao crime de associação para o tráfico de drogas, segundo a decisão atacada, não teriam sido comprovados os requisitos de tal crime, em especial de que o vínculo entre os acusados era permanente e duradouro para o tráfico de drogas.‘
+
+    Todavia, conforme apurado nas investigações realizadas e relatado pelos policiais responsáveis (Delegado Adriano e agentes Alessandro e Joel), a ré Suelen e seu companheiro Taurino, recolhido no sistema prisional, comandavam o mais forte ponto de tráfico da Cidade de Alegrete. Logo abaixo deles, estava Alisson, responsável pela venda direta da droga e Paulo César, o qual era o responsável por ‘desovar’ os entorpecentes, distribuindo-os para outros traficantes de menor porte.
+
+    E, segundo o relato uníssono dos policiais que participaram do cumprimento dos mandados de busca e apreensão, na noite da prisão em flagrante, os acusados Paulo César e Alisson estavam em volta de uma mesa, juntamente com os adolescentes Ângelo, Milene e Ana Carolina, fracionando e pesando o entorpecente trazido por Ângelo momentos antes. Todavia, com a chegada dos policiais, Alisson colocou a droga em uma mochila e tentou empreender fuga, sendo seguido por Paulo e Ângelo, momento em que foram presos em flagrante. (...)
+
+    Ainda segundo a adolescente Milene, os acusados Alisson e Paulo César frequentavam a residência de Suelen, sendo que o primeiro ia mais seguidamente que o segundo. Não se trata, portanto, de concurso eventual ou esporádico de agentes, mas de colaboração efetiva e contínua no tráfico de drogas, inclusive com divisão de tarefas, o que evidencia a organização do grupo e a dedicação dos envolvidos ao comércio ilícito de entorpecentes.
+
+    Portanto, devidamente comprovada a prática do crime de associação para o tráfico pelos acusados Suelen, Alisson e Paulo César, deve ser reformada a sentença.
+
+    Ficou demonstrada a associação do recorrido com os demais acusados e adolescentes para a prática do crime de tráfico de entorpecentes. Com relação ao crime de tráfico de entorpecentes, a prova também é robusta ao demonstrar que o apelado cometia o delito citado. Os depoimentos dos policiais envolvidos na investigação, as escutas telefônicas, a apreensão das drogas, etc., confirmam que os acusados traficavam entorpecentes e Paulo continuou a fazê-lo. Para tanto transcrevo a sentença no apurado a respeito:
+
+    O Delegado de Polícia Adriano, testemunha (...) enfatizou que a interceptação telefônica demonstrou que a ré Suelen e o acusado Alisson estavam consorciados para a prática do crime de tráfico de drogas; que o acusado Paulo Cesar apareceu posteriormente como sendo o encarregado de ‘desovar’ o entorpecente (...) acrescentou que Paulo César, depois que teve sua prisão preventiva revogada, continuava na traficância (mídia digital da fl. 234).
+
+    O policial civil Alessandro, testemunha (...) asseverou que, por ocasião do cumprimento do mandado de busca e apreensão, notou que o réu Paulo, o Alisson, o adolescente de Uruguaiana, e as duas meninas, uma filha e a outra sobrinha da ré Suelen, estavam em volta da droga que estava em cima de uma mesa, realizando o fracionamento e pesagem do entorpecente. Que somente a Suelen não estava em volta da mesa porque ela se encontrava no pátio da casa. Aduziu que, quando eles perceberam a presença dos policiais, o réu Alisson apoderou-se da droga, colocou-a numa mochila e tentou disparar para os fundos da residência; que o réu Paulo César e o adolescente também tentaram acompanhar Alisson na fuga, todos sem êxito, no entanto (...) falou que o envolvimento do réu Paulo ficou claro depois de sua prisão, porquanto as interceptações deram conta de evidenciar que ele tinha participação ativa na traficância (mídia digital da fl. 234).
+
+    Com efeito, em casos similares, esta Corte assentou que o ‘habeas corpus não é o meio juridicamente adequado para veicular demandas relacionadas a absolvição ou readequação típica, tendo em vista a necessidade de reingresso na seara fático probatória para reverter as conclusões das instâncias antecedentes a respeito da responsabilidade criminal do paciente’ (AgRg no HC 787.367/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/12/2022, DJe de 14/12/2022).
+
+    A propósito: (...)
+
+    Por fim, a matéria relativa à aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006 não foi apreciada no acórdão impugnado. Assim, para não incorrer em supressão de instância, esta Corte não pode conhecer do tema. Nesse sentido: (...)
+
+    Ante o exposto, nego provimento ao agravo regimental. É o voto” (fls. 2-8, e-doc. 62).
+
+    9. Na espécie, o Superior Tribunal de Justiça afastou a pretensão de absolvição por ausência de provas, pela necessidade de reexame de fatos e provas, pois, além de o ato praticado pelo recorrente ter sido presenciado pelas testemunhas policiais, o Tribunal de Justiça do Rio Grande do Sul fundamentou a condenação no conjunto probatório constante do processo.
+
+    A decisão da instância antecedente harmoniza-se com a jurisprudência consolidada deste Supremo Tribunal. Para rever o julgado das instâncias judiciais, seria necessário o reexame dos fatos e das provas dos autos de origem, ao que não se presta o habeas corpus. Assim, por exemplo:
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTE. CONDENAÇÃO TRANSITADA EM JULGADO. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL: IMPOSSIBILIDADE. PRETENDIDA ABSOLVIÇÃO. MATÉRIA NÃO EXAMINADA NO ACÓRDÃO IMPUGNADO. AGRAVAMENTO DA PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE TERATOLOGIA. AGRAVO REGIMENTAL DESPROVIDO” (HC n. 219.902-AgR, de minha relatoria, Primeira Turma, DJe 7.11.2022).
+
+    “Penal e processual penal. Agravo regimental em recurso ordinário em habeas corpus. Tráfico de drogas. Absolvição ou desclassificação. Fatos e provas. Regime inicial de cumprimento de pena. Jurisprudência do Supremo Tribunal Federal. 1. A orientação jurisprudencial do Supremo Tribunal Federal (STF) é no sentido de que ‘o habeas corpus não é, considerado o seu rito estreito, a via processual adequada ao reexame de fatos e provas para chegar-se à absolvição’ (HC 107.550, Rel. Min. Luiz Fux). Precedentes. 2. A pretensão de desclassificação do delito previsto no art. 33 da Lei 11.343/2006 para o tipificado no art. 28 da mesma Lei demanda o reexame dos fatos e das provas dos autos, ao que não se presta o habeas corpus (HC 169.647, Relª. Minª. Cármen Lúcia). 3. A ‘imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea’ (Súmula 719/STF). Hipótese dos autos em que o regime inicial fechado foi fixado com apoio em dados empíricos idôneos, extraídos da prova judicialmente colhida, notadamente ao se considerar a natureza da droga apreendida e a circunstâncias judiciais desfavoráveis em relação ao paciente. Precedentes. 4. Agravo regimental a que se nega provimento” (RHC n. 200.103-AgR, Relator o Ministro Luís Roberto Barroso, Primeira Turma, DJe 26.5.2021).
+
+    Na espécie vertente, descabe cogitar-se de ilegalidade manifesta ou flagrante teratologia no acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul.
+
+    10. Este Supremo Tribunal firmou jurisprudência no sentido de que “pode o Relator, com fundamento no art. 21, § 1º, do Regimento Interno, negar seguimento ao habeas corpus manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante, embora sujeita a decisão a agravo regimental” (HC n. 96.883-AgR, de minha relatoria, DJe 1º.2.2011).
+
+    11. Pelo exposto, nego seguimento ao recurso ordinário em habeas corpus (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 1º de abril de 2024.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
