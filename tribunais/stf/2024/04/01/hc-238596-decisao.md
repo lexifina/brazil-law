@@ -1,0 +1,109 @@
+DECISÃO
+
+HABEAS CORPUS. DECISÃO INDIVIDUAL DE MINISTRO DO STJ. SUBSTITUTIVO DE AGRAVO REGIMENTAL. CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. PEDIDO DE DESCLASSIFICAÇÃO PARA O CRIME DO ART. 28 DA LEI DE DROGAS. REEXAME DE FATOS E PROVAS: INVIABILIDADE. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI Nº 11.343, DE 2006. DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS. ILEGALIDADE MANIFESTA: AUSÊNCIA. NEGATIVA DE SEGUIMENTO. PEDIDO LIMINAR PREJUDICADO.
+
+    1. Trata-se de habeas corpus impetrado contra decisão, proferida no Superior Tribunal de Justiça, mediante a qual o Ministro Relator concedeu parcialmente a ordem no Habeas Corpus nº 860.097/SP, apenas para modificar o regime inicial de cumprimento da pena (e-doc. 4).
+
+    2. Colhe-se dos autos que o paciente foi condenado, em 1ª instância, à pena de 5 anos de reclusão, no regime inicial fechado, e ao pagamento de 500 dias-multa ante a prática do crime do art. 33, caput, da Lei nº 11.343, de 2006 (tráfico de drogas) (e-doc. 2). Interposto recurso em sentido estrito, não foi dado provimento pelo Tribunal de Justiça, considerada a intempestividade, conforme consulta ao sítio eletrônico daquela Corte estadual. Apelação foi julgada igualmente intempestiva, com certificação do trânsito em julgado.
+
+    3. Inconformada, a defesa formalizou habeas corpus perante o Tribunal de Justiça, que denegou a ordem (e-doc. 3). Na sequência, formalizou-se a citada impetração no STJ.
+
+    4. Neste habeas corpus, o impetrante diz amoldar-se a conduta do paciente ao disposto no art. 28 da Lei nº 11.343, de 2006. Argumenta inexistirem provas de que praticava o tráfico de drogas no local. Alega, de qualquer forma, preenchidos os requisitos para aplicação da minorante prevista no art. 33, § 4º, da citada Lei. Destaca a pequena quantidade de única espécie de entorpecente apreendido — 61,52 gramas de maconha, não acondicionada de forma fracionada.
+
+    5. Requer, no âmbito liminar, a suspensão dos efeitos da condenação. No mérito, a desclassificação da conduta para o tipo previsto no art. 28 da Lei nº 11.343, de 2006, ou, caso assim não se entenda, a aplicação do redutor previsto no § 4º do art. 33 da mencionada Lei, com fixação do regime aberto e a substituição.
+
+    É o relatório.
+
+    Decido.
+
+    6. Este habeas corpus volta-se contra decisão individual de Ministro do Superior Tribunal de Justiça. Inexistindo pronunciamento colegiado do STJ, não compete ao Supremo Tribunal Federal examinar a questão de direito versada na impetração (CRFB, art. 102, inc. I, al. “i”). O caso é de habeas corpus substitutivo de agravo regimental, cabível na origem. Nesse sentido: HC nº 115.659/PR, Rel. Min. Luiz Fux, Primeira Turma, j. 02/04/2013, p. 25/04/2013; HC nº 197.645-AgR/RJ, Rel. Min. Roberto Barroso, Primeira Turma, j. 08/04/2021, p. 16/04/2021; e HC nº 199.029-AgR/MA, Rel. Min. Edson Fachin, Segunda Turma, j. 19/04/2021, p. 29/04/2021.
+
+    7. Ademais, verifica-se que a condenação transitou em julgado em 04/07/2023, conforme pesquisa ao andamento processual no site do TJSP, sendo formalizada a impetração apenas em 07/03/2024. A jurisprudência do Supremo Tribunal Federal consolidou-se no sentido da inviabilidade de utilização do habeas corpus como sucedâneo de revisão criminal, ressalvados os casos de manifesta ilegalidade (RHC nº 203.506-AgR/ES, Rel. Min. Cármen Lúcia, Primeira Turma, j. 23/08/2021, p. 25/08/2021; HC nº 154.106-ED/MS, Rel. Min. Roberto Barroso, Primeira Turma, j. 29/06/2018, p. 06/08/2018; HC nº 135.239-AgR/SP, Rel. Min. Celso de Mello, Segunda Turma, j. 07/08/2018, p. 17/09/2018; e HC nº 161.656-AgR/SP, Rel. Min. Ricardo Lewandowski, Segunda Turma, j. 23/10/2018, p. 31/10/2018).
+
+    8. Verificada a inadequação da via eleita, a concessão da ordem de ofício é providência excepcional, a ser implementada somente quando constatada flagrante ilegalidade, abuso de poder ou mesmo teratologia na decisão impugnada. Da análise das peças que instruem a impetração, no entanto, não vislumbro situação a autorizá-la.
+
+    9. Quanto à pretendida desclassificação da conduta para o crime do art. 28 da Lei de Drogas, após a regular tramitação do processo nas instâncias ordinárias, as quais compete o amplo exame de fatos e provas, ficaram comprovadas a materialidade e a autoria delitivas relativas ao tráfico, com base, especialmente, na apreensão de haxixe e maconha, balança de precisão e na prova oral produzida. Destaco, a esse respeito, o seguinte trecho do pronunciamento do Ministro Relator no ato apontado coator:
+
+    “O Tribunal a quo, ao apreciar a condenação do paciente, assim consignou (e-STJ fls. 55/58):
+
+    “(...) Também pelos mesmos motivos, não tem o réu o direito de apelar em liberdade, tendo em vista estarem presentes os requisitos da custódia cautelar, notadamente a garantia da ordem pública, ante a gravidade do delito em questão, tráfico ilícito de maconha e haxixe, droga com altíssimo poder de adição, acondicionados em diversos invólucros, a denotar que os réus faziam do tráfico seu meio de vida, comercializando drogas reiteradamente, repassando-as a terceiros, com auxílio de fornecedores, atuando em sistema de entrega, de nefastas consequências para a sociedade, a qual, assim, deve ser preservada.
+
+    (...)
+
+    Ficou demonstrado na ação penal que o paciente prestava um serviço de delivery com entrega de maconha e haxixe.
+
+    (...)
+
+    No caso dos autos, as instâncias ordinárias consideraram que o acervo probatório é firme para subsidiar a condenação por tráfico. Para tanto, fundamentaram-se no depoimento das testemunhas de acusação, as quais foram firmes e coesas ao detalharem as circunstâncias de apreensão em flagrante da paciente, após investigação prévia que levou à expedição de mandado de busca e apreensão; na interceptação telefônica do réu, que dava conta do seu envolvimento, juntamente com o corréu, com a narcotraficância em sistema de entrega; na natureza, quantidade e forma de armazenamento da droga apreendida; e na presença de petrechos que corroboram a traficância (faca, fitas e balanças de precisão).
+
+    Destaco, por oportuno, que o Superior Tribunal de Justiça entende que "o depoimento dos policiais prestado em Juízo constitui meio de prova idôneo a resultar na condenação do réu, notadamente quando ausente qualquer dúvida sobre a imparcialidade dos agentes, cabendo à defesa o ônus de demonstrar a imprestabilidade da prova" (AgRg no HC n. 672.359/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/6/2021, DJe 28/6/2021). (e-doc. 4, p. 2-3; grifos nossos).
+
+    10. Ademais, a providência buscada pelo impetrante exige incursão profunda no conjunto fático-probatório, o que é inviável na presente via. Nesse sentido, o Ministro Relator, no STJ, ao ressaltar a inviabilidade de reexame do conjunto fático-probatório em sede de habeas corpus não destoou da firme jurisprudência desta Suprema Corte. Destaco o trecho a seguir:
+
+    “Ademais, esta Corte é firme na compreensão de que não se presta o remédio heroico à revisão da condenação estabelecida e confirmada pelas instâncias ordinárias, uma vez que a mudança de tal conclusão exigiria o reexame das provas, o que é vedado na via do habeas corpus. Nesse sentido: (...)” (e-doc. 4, p. 4).
+
+    11. A esse respeito, colaciono os seguintes precedentes:
+
+    “Agravo regimental no habeas corpus. 2. Absolvição, desclassificação ou revisão de regime. Impossibilidade. Condenação estabelecida com base nos elementos probatórios. Divergência da conclusão a que chegaram as instâncias ordinárias, no sentido de que se exigiria o reexame de fatos e provas, inviável em sede de habeas corpus. 3. Agravo improvido.”
+
+    (HC nº 217.258-AgR/SP, Rel. Min. Gilmar Mendes, Segunda Turma, j. 22/08/2022, p. 25/08/2022; grifos nossos).
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. MATÉRIA CRIMINAL. DECISÃO MONOCRÁTICA. ARTS. 21, §1º, E 192, CAPUT, RISTF. INEXISTÊNCIA DE ARGUMENTAÇÃO APTA A MODIFICÁ-LA. SUCEDÂNEO DE REVISÃO CRIMINAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO. PEDIDO DE ABSOLVIÇÃO. REVOLVIMENTO DE FATOS E PROVAS. AFASTAMENTO DO REDUTOR DO ART. 33, § 4º, DA LEI 11.343/06. FUNDAMENTAÇÃO IDÔNEA. MANUTENÇÃO DO DECISUM. AGRAVO REGIMENTAL DESPROVIDO. 1. A atuação monocrática, com observância das balizas estabelecidas nos arts. 21, § 1°, e 192, caput, do RISTF, não traduz violação ao princípio da colegialidade, especialmente na hipótese em que a decisão reproduz compreensão consolidada da Corte. Precedentes. 2. O habeas corpus não merece conhecimento na medida em que funciona como sucedâneo de revisão criminal. Precedentes. 3. Não há ilegalidade evidente ou teratologia a justificar a excepcionalíssima concessão da ordem de ofício. 4. O acolhimento do pedido de absolvição implicaria o reexame de fatos e provas, providência incompatível com a estreita via do habeas corpus. 5. A causa de diminuição prevista no § 4º do art. 33 da Lei 11.343/2006 é aplicada desde que o agente seja primário, possua bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa. Em se tratando de requisitos negativos a serem avaliados pelas instâncias próprias segundo as particularidades de cada caso, não há ilegalidade na decisão que não aplica a minorante com respaldo em evidências de que o agravante se dedica a atividades criminosas. 6. Agravo regimental desprovido.”
+
+    (RHC nº 206.305-AgR/PR, Rel. Min. Edson Fachin, Segunda Turma, j. 08/02/2022, p. 10/03/2022; grifos nossos).
+
+    “Processual penal. Recurso ordinário em habeas corpus. Roubo majorado e extorsão mediante sequestro. Supressão de instância. Ausência de ilegalidade flagrante ou abuso de poder. Fatos e provas. Jurisprudência do Supremo Tribunal Federal. 1. A matéria trazida pela defesa não foi apreciada pelo instância antecedente, o que impede o imediato exame pelo Supremo Tribunal Federal , sob pena de supressão de instância. 2. A orientação desta Corte é no sentido de que ‘o habeas corpus não é, considerado o seu rito estreito, a via processual adequada ao reexame de fatos e provas para chegar-se à absolvição’ (HC 107.550, Rel. Min. Luiz Fux). No mesmo sentido: HC 124.479, Rel. Min. Luiz Fux; RHC 122.183 e HC 122.436, Rel. Min. Dias Toffoli). 3. Agravo regimental a que se nega provimento.”
+
+    (RHC nº 219.977-AgR/SP, Rel. Min. Roberto Barroso, Primeira Turma, j. 03/11/2022, p. 21/11/2022; grifos nossos).
+
+    “AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PEDIDO DE ABSOLVIÇÃO. REVOLVIMENTO DE FATOS E PROVAS. INVIABILIDADE. DOSIMETRIA DA PENA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. 1. As instâncias antecedentes concluíram pela suficiência de provas que embasaram a condenação. Qualquer conclusão desta CORTE em sentido contrário, ou seja, de que as teses defensivas são consentâneas com as provas produzidas durante a instrução criminal, demandaria minuciosa reanálise das questões fáticas suscitadas pela defesa, providência incompatível por esta via processual. 2. Do exame das instâncias ordinárias, soberanas na apreciação do conteúdo fático-probatório, depreende-se que a fixação da pena foi devidamente fundamentada com base nos elementos colhidos sob o crivo do contraditório, dentro da margem de discricionariedade prevista em lei, o que se presta a justificar a valoração efetuada. 3. Agravo Regimental a que se nega provimento.”
+
+    (RHC nº 219.144-AgR/RJ, Rel. Min. Alexandre de Moraes, Primeira Turma, j. 26/09/2022, p. 30/09/2022; grifos nossos).
+
+    12. Conforme o art. 33, § 4º, da Lei de Drogas, é viável a diminuição da pena, de 1/6 a 2/3, para o agente primário, sem antecedentes, que não se dedica a atividades delituosas nem integra organização criminosa. A minorante dirige-se ao pequeno traficante, aquele não envolvido com a criminalidade, para o qual o tráfico de entorpecente é um fato episódico e ocasional.
+
+    13. O STJ, no ato apontado como coator, manteve o entendimento adotado pelas instâncias antecedentes, salientando que a quantidade e a natureza da droga apreendida não foram os únicos fundamentos que respaldaram a conclusão no sentido da dedicação a atividades criminosas:
+
+    “De acordo com o aludido art. 33, § 4º, da Lei de Drogas, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja, cumulativamente, primário e portador de bons antecedentes e não se dedique às atividades criminosas nem integre organização criminosa.
+
+    Não é o caso dos autos. Com efeito, conforme bem destacado pelo Magistrado sentenciante, "[...] a quantidade e diversidade de droga apreendida, o encontro de petrechos relacionados ao tráfico, bem como estarem os réus trabalhando em ação coordenada, recebendo droga de terceiros para revenda em sistema de entrega, em verdadeira divisão de trabalho, apontam que os réus estariam a fazer do tráfico seu meio de vida, trabalhando e sobrevivendo a partir desta ilegal e nefasta atividade" (e-STJ fl. 49). Nesse sentido: (...)” (e-doc. 4, p. 4, grifos nossos).
+
+    14. Os contornos do delito, da forma como retratados nas instâncias ordinárias — a quantidade e a diversidade de droga apreendida, o encontro de petrechos relacionados ao tráfico, bem como estarem os réus trabalhando em ação coordenada, recebendo entorpecente de terceiros para revenda em sistema de entrega, em verdadeira divisão de trabalho —, revelam não se tratar de traficante ocasional, mostrando-se imprópria a aplicação da minorante. As premissas estão em consonância com a jurisprudência do Supremo Tribunal Federal:
+
+    “(...) 7. Segundo o STF, a “causa de diminuição prevista no § 4º do art. 33 da Lei nº 11.343/2006 é aplicada desde que o agente seja primário, possua bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa. Em observância aos princípios da individualização da pena e da fundamentação das decisões judiciais, o afastamento do benefício deve ser embasado em elementos concretos que indiquem o não preenchimento dos requisitos legais” (HC 203.235-AgR, Rel. Min. Edson Fachin). 8. Hipótese de paciente definitivamente condenado a 9 anos, 4 meses e 15 dias de reclusão, pelo tráfico interestadual de entorpecentes. Em que pese a primariedade do acionante, as instâncias de origem fixaram a pena-base em patamar acima do mínimo legal em razão da quantidade da droga apreendida (580 kg de maconha e 21,500 kg de cocaína). Da mesma forma, deixaram de aplicar a minorante do art. 33, § 4º, da Lei nº 11.343/2006, com base em dados objetivos da causa, especialmente porque “ficou demonstrado que o acusado está envolvido com organização criminosa, uma vez que o modus operandi indica o envolvimento de grupo especializado no transporte de drogas da região de fronteira do Mato Grosso do Sul para outros Estados do país”. 9. Eventual acolhimento da tese defensiva no sentido de que o paciente não se dedica a atividades criminosas demandaria o revolvimento do conjunto fático-probatório, inviável em sede de habeas corpus. 10. Agravo regimental a que se nega provimento.”
+
+    (HC nº 222.084-AgR/MS, Rel. Min. Roberto Barroso, Primeira Turma, j. 19/12/2022, p. 06/02/2023; grifos nossos).
+
+    “Agravo regimental em habeas corpus. Penal. Condenação. Tráfico de drogas (art. 33 da Lei nº 11.343/06). Impetração dirigida contra decisão monocrática por meio da qual o relator do habeas corpus no Superior Tribunal de Justiça não conheceu do writ. Não exaurimento da instância antecedente. Apreciação per saltum. Impossibilidade. Afastamento da causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei de Drogas, ainda que desconsiderada condenação por idêntico delito não transitada em julgado, com base no reconhecimento da dedicação do agravante a atividades criminosas relacionadas ao tráfico de drogas. Natureza e quantidade da droga apreendida (442 g de maconha) associadas a outras circunstâncias (ausência de vínculo empregatício, envolvimento desde a menoridade em atos ilícitos, habitualidade do crime como modo de vida, agraciado com liberdade provisória voltou a delinquir, anterior reconhecimento em outro processo da benesse do redutor). Necessidade de incursão em fatos e provas para se divergir da conclusão das instâncias ordinárias. Abrandamento de regime de prisão. Impossibilidade. Quantidade e natureza da droga apreendida. Motivação idônea para justificar a imposição do regime inicial mais gravoso. Violação do princípio da colegialidade. Não ocorrência. Legitimidade da atuação do relator na forma regimental (RISTF, art. 21, § 1º). Precedentes. Agravo regimental não provido.”
+
+    (HC nº 208.727-AgR/SP, Rel. Min. Dias Toffoli, Primeira Turma, j. 28/03/2022, p. 29/04/2022; grifos nossos).
+
+    “AGRAVO INTERNO EM HABEAS CORPUS. TRÁFICO PRIVILEGIADO AFASTADO COM FUNDAMENTO NA DEDICAÇÃO A ATIVIDADE CRIMINOSA. NECESSÁRIO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE DA VIA ELEITA. REGIME FECHADO IDONEAMENTE FUNDAMENTADO. HABEAS CORPUS INDEFERIDO. 1. A conduta social, os maus antecedentes, a reincidência, o concurso de agentes, as circunstâncias da apreensão e a quantidade de drogas são elementos aptos a indicar a dedicação do agente a atividade criminosa, que, por sua vez, é fundamento idôneo para afastar a minorante do tráfico privilegiado. 2. É inadmissível, na via estreita do habeas corpus, a qual não comporta dilação probatória, o reexame, com vistas ao acolhimento da tese defensiva – reconhecimento do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006) –, do conjunto fático-probatório que levou o Tribunal de origem a concluir pela “efetiva dedicação do acusado ao comércio ilegal”. 3. A natureza e a quantidade de substância entorpecente apreendida são fundamentos idôneos para a imposição de regime mais gravoso. 4. Agravo interno desprovido.”
+
+    (HC nº 205.432-AgR/SP, Rel. Min. Nunes Marques, Segunda Turma, j. 04/11/2021, p. 08/02/2022; grifos nossos).
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSO PENAL. EXECUÇÃO PROVISÓRIA DA PENA. PREJUÍZO. IMPETRAÇÃO FORMALIZADA CONTRA DECISÃO MONOCRÁTICA DE INDEFERIMENTO LIMINAR EM HABEAS CORPUSENDEREÇADO A TRIBUNAL SUPERIOR. APLICAÇÃO DA SÚMULA 691/STF. NÃO CONHECIMENTO. INEXISTÊNCIA DE ILEGALIDADE EVIDENTE OU TERATOLOGIA. DESCABIMENTO DE SUPERAÇÃO SUMULAR. TRÁFICO DE DROGAS. MINORANTE. DEDICAÇÃO DO AGRAVANTE A ATIVIDADES CRIMINOSAS. REFORMATIO IN PEJUS. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO. 1. Ordem concedida pelo STJ para conferir ao ora paciente o direito de recorrer em liberdade até o trânsito em julgado da sentença penal condenatória. Prejuízo. 2. A teor da Súmula 691/STF, é inadmissível a impetração de habeas corpus contra decisão denegatória de liminar, salvo em hipóteses excepcionais, em que o impetrante demonstre a existência de flagrante ilegalidade, abuso de poder ou teratologia na decisão hostilizada. 3. Inocorrência das hipóteses de excepcional superação do verbete sumular. 4. A causa de diminuição prevista no § 4º do art. 33 da Lei 11.343/2006 é aplicada desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa. 5. Em se tratando de requisitos negativos a serem avaliados pelas instâncias próprias segundo as particularidades de cada caso, não há ilegalidade na decisão que não aplica a minorante com respaldo em evidências de se dedicar o agravante a atividades criminosas. 6. Reformatio in pejus. Inexistência. Precedentes. 7. Agravo regimental prejudicado quanto às alegações sobre a execução provisória da pena, e desprovido, no mais.”
+
+    (HC nº 154.090-AgR/SP, Rel. Min. Edson Fachin, Segunda Turma, j. 14/02/2022, p. 08/04/2022; grifos nossos).
+
+    15. Além disso, assentada pelas instâncias antecedentes a dedicação do paciente a atividades criminosas, a partir de dados concretos, alcançar conclusão diversa demandaria o reexame do acervo fático-probatório, incabível na via estreita do habeas corpus. A propósito, confiram-se:
+
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. CONSTITUCIONAL. TRÁFICO DE ENTORPECENTE. CAUSA DE DIMINUIÇÃO DO § 4º DO ART. 33 DA LEI N. 11.343/2006: DEDICAÇÃO DO AGRAVANTE A ATIVIDADES CRIMINOSAS. NECESSIDADE DE REEXAME DE FATOS E PROVAS. REGIME INICIAL FECHADO IMPOSTO COM FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+
+    (HC nº 209.574-AgR/MG, Rel. Min. Cármen Lúcia, Primeira Turma, j. 14/02/2022, p. 17/02/2022; grifos nossos).
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. SENTENÇA CONDENATÓRIA TRANSITADA EM JULGADO. UTILIZAÇÃO DE HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. INVIABILIDADE. TRÁFICO PRIVILEGIADO AFASTADO COM FUNDAMENTO NA DEDICAÇÃO A ATIVIDADE CRIMINOSA. NECESSÁRIO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE DA VIA ELEITA. HABEAS CORPUS NÃO CONHECIDO. 1. É inviável a utilização de habeas corpus como sucedâneo de revisão criminal. 2. A existência de ações penais em curso constitui premissa idônea e válida a evidenciar a dedicação a atividade criminosa e justificar o afastamento do tráfico privilegiado. 3. É inadmissível, na via estreita do habeas corpus, a qual não comporta dilação probatória, o reexame, com vistas ao acolhimento da tese defensiva – aplicação do tráfico privilegiado (Lei n. 11.343/2006, art. 33, § 4º) –, do conjunto fático-probatório produzido nas instâncias ordinárias, que as levou a concluir pela “dedicação às atividades criminosas como verdadeiro meio de vida”. 4. Agravo interno desprovido.”
+
+    (HC nº 201.617-AgR/AM, Rel. Min. Nunes Marques, Segunda Turma, j. 23/11/2021, p. 17/12/2021; grifos nossos).
+
+    16. Tendo em vista a jurisprudência do Supremo Tribunal Federal, o processo deve ser extinto sem resolução de mérito.
+
+    17. Ante o exposto, nego seguimento ao habeas corpus, com fundamento no art. 21, § 1º, do RISTF, ficando prejudicado o pedido liminar.
+
+    Publique-se.
+
+    Brasília, 1º de abril de 2024.
+
+Ministro ANDRÉ MENDONÇA
+
+Relator
