@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2183, de 28 de março de 2024
+Altera a Instrução Normativa RFB nº 2.057, de 9 de dezembro de 2021, e a Instrução Normativa RFB nº 2.058, de 9 de dezembro de 2021, para excluir a previsão de formulação de consulta por meio de assinatura manual digitalizada no âmbito da Secretaria Especial da Receita Federal do Brasil.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXIV do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto nos arts. 48 a 50 da Lei nº 9.430, de 27 de dezembro de 1996, resolve:
