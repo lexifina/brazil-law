@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de agravo e m recurso especial, interposto por LUIZ ANTONIO BUENO COSTA e RICARDO NUNES GERIN, contra decisão que inadmitiu seu recurso especial, fundamentado nas alíneas "a" e "c", do permissivo constitucional contra v. acórdão do eg. Tribunal de Justiça de São Paulo, assim ementado:
+"Mediação. Ação de cobrança. Comissão referente à intermediação de venda de imóvel. Instrumento particular de compromisso de compra e venda firmado entre as partes. R. sentença de extinção, com fulcro no art. 485, VI, do CPC, reconhecida a ilegitimidade passiva. Apelo só dos autores.
+Inocorrência de cerceamento de defesa. Presente a legitimidade passiva dos requeridos. Anulação do r.
+decisum que se impõe. Apreciação do mérito com fundamento no art. 1013, § 3º, do CPC. Desistência do negócio justificada, eis que demonstrada a alteração de domicilio do corréu a trabalho.
+Improcedência que se impõe. Dá-se parcial provimento ao recurso dos acionantes, e isso a fim de anular a r. sentença atacada e. por consequência, julga- se improcedente a ação por eles ajuizada." (Fl. 358).
+Embargos de declaração rejeitados às fls. 377/384.
+Nas razões do recurso especial, a parte ora agravante aponta, além de divergência jurisprudencial, violação dos arts. 725 do Código Civil; arts. 7º, 9º, 350, 489, §1º, IV, e 1.022, I e II, parágrafo único, II, do Código de Processo Civil.
+Sustenta haver negativa de prestação jurisdicional porque o Tribunal a quo "não eliminou a contradição quanto ao fato de ter julgado improcedente o pedido dos recorrentes com base no argumento de que eles não se desvencilharam de seu ônus de provar o fato constitutivo de seu direito enquanto não se viabilizou a impugnação à contestação e a produção de contraprova." (fl. 397).
+Afirma que a falta de intimação para oferecimento de réplica à contestação viola o contraditório e a ampla defesa.
+Defende que "a remuneração é devida ao corretor uma vez que tenha conseguido o resultado previsto no contrato de mediação, e, no caso, o resultado da mediação é justamente o contrato de compromisso de compra e venda irrevogável e irretratável" (fl. 404).
+Contrarrazões às fls. 417/425.
+É o relatório.
+Decido.
+Quanto à suposta negativa de prestação jurisdicional, tendo em vista as omissões alegadas, não assiste razão à parte recorrente.
+Com efeito, da análise acurada dos autos, verifica-se que o Tribunal a quo apreciou toda a matéria levada à sua análise.
+Na espécie, o Tribunal de Justiça afastou a tese de cerceamento de defesa, concluindo que a ausência de oportunização de réplica à contestação não prejudicou o exercício do contraditório, nos termos da seguinte fundamentação, in verbis:
+"Fica afasta a preliminar aventada no recurso.
+Não há que se falar em cerceamento de defesa pela ausência de oportunização de réplica, já que tal peça apresentar-se-ia como reiteração do que fora pleiteado na inicial.
+Além disso, os autores se manifestaram nos autos em diversas oportunidades após a apresentação da contestação e antes da prolação da sentença." (Fl. 359).
+Assim, realmente, não prospera a alegada ofensa aos arts. 489 e 1.022 do CPC/2015, na medida em que a eg. Corte de origem fundamentou consistentemente o acórdão recorrido e as questões de mérito foram devidamente analisadas e discutidas de modo a esgotar a prestação jurisdicional, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+É indevido conjecturar-se acerca da deficiência de fundamentação ou da existência de omissão, de obscuridade ou de contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+No mesmo sentido, podem ser mencionados os seguintes julgados: AgInt no REsp n. 2.009.408/AM, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 3/4/2023; AgInt no AgInt no AgInt no REsp n. 1.963.364/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 29/3/2023; AgInt no AgInt no AREsp n. 2.040.618/RJ, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 23/3/2023; AgInt no REsp n. 1.896.188/AM, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe de 23/3/2023; e AgInt no AREsp n. 2.121.287/PR, Relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, DJe de 16/3/2023.
+Avançando, consoante a jurisprudência desta Corte Superior, não configura cerceamento de defesa o julgamento antecipado da lide nas hipóteses em que o Tribunal de origem considera o feito devidamente instruído, reputando desnecessária a produção de provas para a decisão por se tratar de matéria eminentemente de direito ou de fato já comprovado documentalmente, como é o caso dos autos. A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA. EMPRÉSTIMO CONSIGNADO EM BENEFÍCIO PREVIDENCIÁRIO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. SUFICIÊNCIA DAS PROVAS. PRINCÍPIO DA PERSUASÃO RACIONAL. SÚMULA 7/STJ. LITIGÂNCIA DE MÁ-FÉ. AFASTAMENTO DA MULTA APLICADA. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere o pedido de produção de prova pericial grafotécnica. Cabe ao juiz decidir sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias, motivadamente.
+2. No caso, para se concluir que a prova cuja produção fora requerida pela parte é ou não indispensável à solução da controvérsia, seria necessário se proceder ao reexame do conjunto fático-probatório, inviável em recurso especial, nos termos da Súmula 7/STJ.
+3. É vedado à parte inovar suas razões recursais em sede de agravo interno, trazendo novas questões não suscitadas oportunamente em sede de recurso especial, tendo em vista a configuração da preclusão consumativa.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.310.892/CE, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 4/9/2023, DJe de 8/9/2023)
+Importa ressaltar que o caso dos autos não trata da hipótese na qual o juiz indefere a realização de prova requerida oportuna e justificadamente pela parte com o objetivo de comprovar suas alegações, para em seguida julgar improcedente o pedido em razão ausência de comprovação das alegações. Ao contrário, o Juízo de piso considerou desnecessária a produção de provas adicionais por considerar que as provas dos autos eram suficientes ao deslinde da controvérsia, o que, de fato, não configura cerceamento de defesa.
+Acerca do cabimento da comissão de corretagem, o Tribunal a quo entendeu não ser devida, nos termos da seguinte fundamentação:
+"Prosseguindo na apreciação da questão por estar madura a causa, aplica-se o disposto no art. 1.013, § 3º, IV, do CPC, sendo improcedente a demanda.
+O contrato de intermediação imobiliária entre as partes restou incontroverso.
+Por outro lado, verifica-se que, embora os requeridos tenham assinado o instrumento particular de compromisso de venda e compra em 25.07.13, fls. 13/17, desistiram justificadamente da negociação, ou seja, a venda não foi concretizada. Ficou demonstrado que o corréu André foi transferido a trabalho para a cidade de Londrina - PR, fl. 206, não constando sequer que teria sido aprovado o financiamento imobiliário previsto na cláusula terceira, item.
+Mesmo que tenha havido aproximação entre as partes através dos autores, fato é que o negócio não foi finalizado, o que, em tese, acarretaria a condenação à comissão.
+Também, informaram os demandados que o imóvel em Campinas foi adquirido só pelo corréu André, em 23.12.13, após ter se desligado de sua antiga empregadora (NZA Engenharia), e não lograram êxito os acionantes em demonstrar fato constitutivo de seu direito, nos termos do art. cc1- L1J 373, I do CPC." (Fl. 360).
+Depreende-se do trecho supratranscrito que o Tribunal a quo reconheceu o efetivo exercício da intermediação para a venda do imóvel, mas entendeu haver desistência justificada dos compradores, concluindo pela improcedência do pedido de cobrança da comissão de corretagem.
+O acórdão recorrido destoa da jurisprudência do STJ, assente no sentido de que "a aproximação das partes e a assinatura da promessa de compra e venda é resultado apto a ensejar o pagamento da comissão de corretagem, ainda que sobrevenha distrato, desde que não por culpa do corretor" (AgInt no AgInt no AREsp n. 1.128.381/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 14/3/2022, DJe de 21/3/2022). A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COMISSÃO CORRETAGEM. VENDA DE COTAS SOCIAIS. INTERMEDIAÇÃO REALIZADA COM SUCESSO. COMISSÃO DEVIDA. IRRELEVÂNCIA DO DESFAZIMENTO DO NEGÓCIO JURÍDICO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. "A jurisprudência do Superior Tribunal de Justiça já firmou entendimento no sentido de que a aproximação das partes e a assinatura da promessa de compra e venda é resultado apto a ensejar o pagamento da comissão de corretagem, ainda que sobrevenha distrato, desde que não por culpa do corretor." (AgInt no AgInt no AREsp n. 1.128.381/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 14/3/2022, DJe de 21/3/2022).
+2. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.112.498/PR, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/9/2022, DJe de 4/10/2022.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE COMISSÃO DE CORRETAGEM. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. COMPRA E VENDA DE IMÓVEL. DESISTÊNCIA DO COMPRADOR APÓS ASSINATURA DE PROMESSA DE COMPRA E VENDA E PAGAMENTO DE SINAL. COMISSÃO DEVIDA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação de cobrança de comissão de corretagem.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. É devida a comissão de corretagem se os trabalhos de aproximação realizados pelo corretor resultarem efetivamente no aperfeiçoamento do negócio imobiliário, ainda que este não se efetive em virtude do arrependimento imotivado das partes.
+Precedentes.
+6. Agravo interno no agravo em recurso especial não provido."
+(AgInt nos EDcl no AgInt no AREsp n. 1.928.461/CE, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 21/2/2022, DJe de 24/2/2022.)
+"DIREITO CIVIL. AÇÃO DE COBRANÇA. COMPRA E VENDA DE IMÓVEL. COMISSÃO DE CORRETAGEM. ASSINATURA DA PROMESSA DE COMPRA E VENDA. RESULTADO ÚTIL DA MEDIAÇÃO ATINGIDO. DESISTÊNCIA DA COMPRADORA. ARREPENDIMENTO NÃO MOTIVADO. COMISSÃO DEVIDA.
+1. Ação de cobrança por meio da qual se objetiva o pagamento de comissão de corretagem, em razão de intermediação na venda de imóvel.
+2. Ação ajuizada em 05/05/2016. Recurso especial concluso ao gabinete em 24/08/2018. Julgamento: CPC/2015.
+3. O propósito recursal é definir se é devida a comissão de corretagem na hipótese em que houve superveniente desistência imotivada quanto à celebração do contrato de compra e venda de imóvel.
+4. A remuneração do corretor é devida quando este conseguir o resultado previsto no contrato de mediação, ainda que este não se efetive em virtude do arrependimento das partes, como mesmo preceitua o art. 725 do CC/02.
+5. O arrependimento de quaisquer dos contratantes não afetará na comissão devida ao corretor, desde que o mesmo se dê por causa estranha à sua atividade.
+6. Na espécie, as partes contratantes assinaram o instrumento de promessa de compra e venda, tendo havido a atuação efetiva das corretoras para tanto. Deve-se reconhecer, portanto, que o resultado útil da mediação foi atingido.
+7. O negócio foi posteriormente desfeito, sem qualquer contribuição das corretoras para a não consolidação do negócio, isto é, o arrependimento da contratante deu-se por fatores alheios à atividade das intermediadoras. Destarte, a comissão de corretagem é devida, na espécie.
+10. Recurso especial conhecido e provido."
+(REsp n. 1.783.074/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 12/11/2019, DJe de 21/11/2019.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO INTERPOSTO PELA PARTE ADVERSA. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. Negativa de prestação jurisdicional não configurada. É clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia, revelando-se desnecessário ao magistrado rebater cada um dos argumentos declinados pela parte.
+2. "O art. 725 do CC, ao estabelecer que a remuneração é devida ao corretor uma vez que tenha conseguido o resultado previsto no contrato de mediação, ou ainda que este não se efetive em virtude de arrependimento das partes, demanda harmonização com os arts. 723 do Diploma civilista; 6º, III, IV e VI, do CDC; e 20, I e VIII, da Lei n. 6.530/1978. Com efeito, em caso de desistência do negócio antes da assinatura da escritura, é possível fazer recair sobre aquele que voluntariosamente rompeu o compromisso de compra e venda a obrigação de pagar a comissão, não incidindo, todavia, nas hipóteses em que o arrependimento é motivado."
+(REsp 1364574/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/10/2017, DJe 30/11/2017).
+2.1. No caso sub judice, conforme o acórdão recorrido, foi celebrada a promessa de compra e venda, muito embora não se tenha confeccionado a escritura, por simples desistência da recorrida, sem qualquer culpa dos corretores. Verifica-se, portanto, que a aproximação das partes e o resultado útil ocorreram, sendo devida a comissão de corretagem.
+3. Agravo interno desprovido."
+(AgInt no AREsp n. 1.168.989/RS, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/9/2019, DJe de 4/10/2019)
+Desse modo, diante do entendimento desta Corte Superior, é de rigor o provimento do recurso especial, a fim de adequar o julgamento do caso concreto ao entendimento do Superior Tribunal de Justiça.
+Com esses fundamentos, conheço do agravo para dar provimento ao recurso especial a fim de determinar o retorno dos autos ao Tribunal de origem para que proceda a um novo julgamento da causa à luz da jurisprudência desta Corte.
+Publique-se.
+EMENTA
