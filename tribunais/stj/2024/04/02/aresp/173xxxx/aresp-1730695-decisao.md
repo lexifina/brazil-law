@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo e m recurso especial, interposto por SÔNIA MARIA PIZZATO ZAMMATARO e ROBERTO ZAMMATARO, contra decisão que inadmitiu seu recurso especial, fundamentado na alínea "a", do permissivo constitucional contra v. acórdão do eg. Tribunal de Justiça de São Paulo, assim ementado:
+"INTERESSE DE AGIR Pedido de declaração de eficácia de compra e venda de imóvel e "exclusão" de registro imobiliário de ineficácia do referido negócio jurídico Inadequação - Impossibilidade de se desfazer ato originado de decisão judicial proferida em outro processo - Desnecessidade da intervenção judicial para o pretendido registro de doação, bastando cumprir a nota de devolução do Registrador solicitando a apresentação de ciência, pelos donatários, da referida averbação - Questionamento quanto a isso que deve ser direcionado ao Juiz Corregedor - Hipótese em que fraude à execução não desfaz o ato jurídico, mas o torna apenas ineficaz para o exequente Indeferimento da inicial mantido - Recurso desprovido." (Fl. 237).
+Embargos de declaração rejeitados às fls. 284/287.
+Nas razões do recurso especial, a parte ora agravante aponta violação aos arts.19, I, 489, §1º, IV e 1.022, II, do Código de Processo Civil, sustentando, em síntese, a) haver negativa de prestação jurisdicional quanto ao exame "da interpretação acerca da abrangência do artigo 19, I, do CPC" (fl. 247); e b) a presença de interesse de agir.
+Contrarrazões às fls. 292/300.
+É o relatório.
+Decido.
+Quanto à suposta negativa de prestação jurisdicional, tendo em vista as omissões alegadas, não assiste razão à parte recorrente.
+Com efeito, da análise acurada dos autos, verifica-se que o Tribunal a quo apreciou toda a matéria levada à sua análise, inclusive aquela relativa ao interesse de agir, in verbis:
+"Trata-se de apelação interposta contra sentença que indeferiu a inicial da ação proposta pelos ora apelantes objetivando a declaração de eficácia de compra e venda de terça parte de imóvel de matrícula nº 3.795, do 13º Cartório de Registro de Imóveis, e exclusão de averbação de ineficácia do negócio jurídico na matrícula, extinguindo o processo sem resolução do mérito, sem condenação na sucumbência, eis que não formada a relação jurídica processual.
+Sustentam, os autores, que não pretendem a exclusão de uma averbação ou o registro de uma doação, mas sim que se declare a eficácia de um negócio jurídico, pois consta da matrícula imobiliária a informação de ineficácia desse mesmo negócio, o que não corresponde à realidade e diminui o valor de mercado do imóvel, criando embaraço desnecessário. Alegam que o venda de uma terça parte ideal do imóvel de Américo Monteiro (vendedor) para Afonso Pizzatto (comprador) é eficaz, pois não houve a fraude à execução, e que ainda que se reconheça a fraude à execução, os motivos que a ensejaram já cessaram, sendo necessária a restauração da sua eficácia plena, para o que necessita da intervenção do Poder Judiciário.
+O apelo não prospera.
+Isto porque a autora, ora apelante, não ofereceu argumento algum capaz de alterar os fundamentos da decisão recorrida, razão pela qual são adotados como razão de decidir, nos seus exatos termos, in verbis:
+"A inicial deve ser indeferida, por ausência de interesse processual.
+Com efeito, para exclusão de averbação de fraude à execução quanto à alienação de determinado bem, deve a parte formular pedido ao Juízo que a determinou, pois não tem este Juízo competência para desfazer ato decorrente da decisão judicial originada da 20ªVara Cível deste Foro Central (nº 0109321-02.1979.8.26.0100).
+No mais, observa-se, não há utilidade na pretensão, pois, para o registro da doação, não é necessária intervenção judicial, bastando cumprir a nota de devolução do Registrador (item "10", fls. 138), ou seja, apresentar ciência da averbação da execução originada da 20ª Vara Cível deste Foro Central, aos donatários.
+Não bastasse, havendo discordância do conteúdo da nota de devolução, cabível questionamento perante o Juízo Corregedor do Cartório de Registro de Imóveis.
+Por fim, o pedido de "restauração da averbação", formulado a fls. 21, item "c", não decorre logicamente dos fatos da inicial, pois a fraude à execução não desfaz o ato jurídico, mas o torna apenas ineficaz para o exequente (Av.
+14-3795, fls. 45), o que é expresso no atual Código de Processo Civil, art. 792 § 1º, em consonância com o entendimento há muito sedimentado.
+Ante o exposto, INDEFERE-SE a inicial e EXTINGUE-SE o processo, sem resolução do mérito, com fundamento no art. 330, III e art. 485, I, do Código de Processo Civil."
+(..)
+Isto posto, NEGA-SE PROVIMENTO ao apelo, com condenação dos apelantes na sucumbência." (Fls. 238/237).
+Ao julgar os embargos de declaração opostos, o Tribunal acrescentou o seguinte:
+"Ressalta-se que o acórdão embargado sequer chegou a apreciar o mérito do pedido, mas apenas as condições da ação, pressuposto para o exercício desse direito, concluindo- o o_ = se pela falta de um deles e pela manutenção da extinção do E processo, pelo que restaram prejudicadas as alegações de o mérito trazidas pelos embargantes." (Fl. 286)
+Assim, realmente, não prospera a alegada ofensa aos arts. 489 e 1.022 do CPC/2015, na medida em que a eg. Corte de origem fundamentou consistentemente o acórdão recorrido e as questões de mérito foram devidamente analisadas e discutidas de modo a esgotar a prestação jurisdicional, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+É indevido conjecturar-se acerca da deficiência de fundamentação ou da existência de omissão, de obscuridade ou de contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+No mesmo sentido, podem ser mencionados os seguintes julgados: AgInt no REsp n. 2.009.408/AM, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 3/4/2023; AgInt no AgInt no AgInt no REsp n. 1.963.364/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 29/3/2023; AgInt no AgInt no AREsp n. 2.040.618/RJ, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 23/3/2023; AgInt no REsp n. 1.896.188/AM, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe de 23/3/2023; e AgInt no AREsp n. 2.121.287/PR, Relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, DJe de 16/3/2023.
+Quanto ao interesse de agir, o Tribunal de origem manteve a sentença que extinguiu o feito sem resolução do mérito, com base nos seguintes fundamentos: i) a competência para exclusão de averbação de fraude à execução é do juízo que a determinou; ii) é desnecessária a intervenção judicial para o registro de doação; e iii) o reconhecimento de fraude à execução não desfaz o ato jurídico, apenas o torna ineficaz, razão pela qual não há respaldo para o pedido de "restauração da averbação".
+Dessa forma, há de se concluir que as razões recursais são dissociadas do conteúdo do acórdão recorrido e não têm o poder de infirmá-lo, porquanto os fundamentos autônomos e suficientes à manutenção do aresto, no ponto, mantiveram-se inatacados e incólumes nas razões do recurso especial, convocando, na hipótese, a incidência das Súmulas 283 e 284 do STF. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO INDENIZATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO. INSURGÊNCIA DA PARTE REQUERIDA.
+(..)
+2. A subsistência de fundamento inatacado apto a manter a conclusão do acórdão impugnado, impõe o desprovimento do apelo. Incidência da Súmula 283 do STF. (..)
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 2.174.114/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/3/2023, DJe de 10/3/2023)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. JUROS MORATÓRIOS. LIMITAÇÃO A 1% AO MÊS. SÚMULA 379/STJ. LEGALIDADE DA COBRANÇA DA TARIFA DE CESTA DE SERVIÇOS. SÚMULAS 283 E 284/STF. AGRAVO DESPROVIDO. (..)
+2. A ausência de impugnação, nas razões do recurso especial, de fundamentos suficientes à manutenção do acórdão estadual atrai a incidência das Súmulas 283 e 284 do STF.
+3. Agravo interno a que se nega provimento." (AgInt no AREsp 2.066.687/AL, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 1º.7.2022)
+Por todo o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se
+EMENTA
