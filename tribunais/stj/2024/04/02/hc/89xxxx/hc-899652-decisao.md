@@ -1,0 +1,15 @@
+DECISÃO
+DANIEL NEPOMUCENO FELBERG alega sofrer coação ilegal em decorrência de acórdão da Corte local que, ao denegar a ordem, manteve a sua prisão preventiva.
+A defesa pretende a soltura do paciente - "387 unidades de droga sintética (Ecstasy), uma sacola contendo 70 gramas de substância análoga a maconha, dois pés de maconha plantados em vaso de plástico, 15 gramas de sustância análoga a HAXIXE" -, sob o argumento de ausência do preenchimento dos requisitos da prisão cautelar.
+Decido.
+O Juízo de Direito, ao decretar a constrição cautelar, ofereceu os seguintes fundamentos:
+ ..
+Verifica-se, pelos depoimentos colhidos, que o autuado é conhecido no meio policial pela reiterada prática da venda de entorpecentes e que se utiliza, para tanto, das facilidades de seu comércio regular, o "Rei do Wisky". A informação é corroborada pela existência demandado de busca e apreensão nos endereços do flagrado, o que confirma a existência de investigação prévia sobre a sua inserção na criminalidade. Além disso, chama a atenção a grande quantidade e a variedade de entorpecentes apreendidos, dentre eles, 387 (trezentos e oitenta e sete) comprimidos de ecstay, além de maconha e haxixi. Não bastasse, também foi apreendida uma balança de precisão, o que reforça ainda mais a prática do crime de tráfico de drogas de modo reiterado e habitual. Desta feita, fica claro que somente a prisão servirá para afastar o autuado da prática de novos ilícitos. Assim, DECRETO A PRISÃO PREVENTIVA DE DANIEL NEPOMUCENO FELBERG.  ..  (fl. 62)
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do ora paciente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, o Ju iz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para decretar a prisão preventiva, ao salientar a "grande quantidade e a variedade de entorpecentes apreendidos, dentre eles, 387 (trezentos e oitenta e sete) comprimidos de ecstay, além de maconha e haxixi".
+Como visto, o acórdão ora impugnado vai ao encontro da jurisprudência do Superior Tribunal de Justiça, que possui "entendimento reiterado de que a quantidade e a diversidade dos entorpecentes encontrados com o agente, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva" (AgRg no RHC n. 178.504/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/6/2023, DJe de 16/6/2023).
+Em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+À vista do exposto, denego a ordem in limine.
+Publique-se. Intimem-se.
+EMENTA
