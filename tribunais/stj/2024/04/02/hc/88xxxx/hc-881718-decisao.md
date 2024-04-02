@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Vitor da Silva Costa, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Habeas Corpus n. 2240347-57.2023.8.26.0000).
+Extrai-se dos auto s que o paciente teve a liberdade provisória concedida, em 17/6/2022, e foi denunciado, juntamente com corré, em 14/9/2022, como incurso nos arts. 33 e 35 da Lei n. 11.343/2006 (Ação Penal n. 1501027-47.2022.8.26.0559, da 4ª Vara Criminal da comarca de São José do Rio Preto/SP).
+Ocorre que, em 20/9/2022, determinou-se a notificação do paciente, que não foi encontrado para citação. Assim, diante do descumprimento das condições do benefício anteriormente concedido, em 2/2/2023, decretou-se novamente a prisão preventiva, tendo sido o mandado de prisão cumprido em 16/6/2023.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, nos termos do acórdão acostado às fls. 45/59 .
+Aqui, sustenta a aus ência de fundamentação na decretação da prisão cautelar imposta, tendo em vista que não houve cometimento de outro delito durante o período em que esteve solto, entendendo suficiente a fixação de medidas cautelares alternativas, até decisão definitiva. Ressalta as condições pessoais favoráveis.
+Req uer, liminarmente e no mérito, a expedição de alvará de soltura.
+A liminar foi indeferida pela Presidente desta Corte, Ministra Maria Thereza de Assis Moura (fls. 78/79);
+As informações foram prestadas (fls. 85/88 e 89/116);
+O Ministério Público Federal opinou pela denegação da ordem (fls. 120/126).
+Em consu l ta à ação p enal, aguarda-se audiência de instrução e julgamento designada para o dia 1º/7/2024.
+É o relatório.
+O writ não merece p rosperar.
+De acordo com as reiteradas decisões desta Corte Superior, as prisões cautelares são me didas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade da restrição ao direito constitucional à liberdade de locomoção.
+Ao que se tem dos autos, a prisão preventiva foi novamente decretada pelo Juízo de origem em razão de que a conduta dos acusados revela a necessidade da prisão, pois indica serem pessoas resistentes ao estado de legalidade normal e posto terem deixado a cidade, demonstrando descaso com a Justiça e a intenção de não responderem pelas condutas em análise (fl. 60 - grifo nosso).
+O Trib unal de origem, por sua vez, manteve a decretação da custódia, salientando que a decretação da custódia decorreu da necessidade de acautelamento da ordem pública, fundamento caracterizado pela permanência da situação de gravidade concreta da conduta perpetrada, principalmente, pelo iminente risco à conveniência da instrução criminal e asseguramento da aplicação da lei penal, uma vez que descumpriu as condições impostas em sua soltura anterior (fl. 49 - grifo nosso).
+Realmente, há motivação idônea e suficiente a amparar a prisão preventiva, qual seja, o risco co ncreto de reiteração delitiva, pelo fato de que o paciente estava em gozo de liberdade provisória e descumpriu a medida cautelar de proibição de ausentar-se da comarca, mudando-se de endereço sem informar o juízo, pois não foi encontrado para ser citado, tendo sido o mandado de prisão cumprido após quatro meses do novo decreto de prisão. Ademais, consta do acórdão impugnado que o paciente possui extensa ficha criminal e condenações com trânsito em julgado por delitos análogos (fl. 51).
+Nesse sentido, o Superior Tribunal de Justiça já se manifestou: O descumprimento de medida cautelar anteriormente imposta, quando da concessão da liberdade provisória, é motivo legal para a decretação da prisão preventiva. Inteligência dos artigos 312, parágrafo único e 282, § 4º, ambos do Código de Processo Penal" (AgRg no HC n. 699.265/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 21/3/2022 - grifo nosso ). A propósito, confira-se também o AgRg no RHC n. 166.013/PB, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/8/2022.
+Afora isso, é entendimento desta Casa que as condições favoráveis do paciente, por si s ós, não i mpedem a manutenção da prisão cautelar quando devidamente fundament ada; e que é i naplicável medida cautelar alternativa quando as circunstâncias evidenc iam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Não é outra a opinião do Ministério Público Federal, pela leitura do bem-lançado parecer escrito pelo Subprocurador-Geral da República José Elaeres Marques Teixeira (fls. 120/126), o q ual ta mb ém a doto como razão de decidir.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. RISCO REAL DE REI TERAÇÃO DELITIVA. DESCUMPRIMENTO DE MEDIDAS CAUTELARES. FUNDAMENTAÇÃO IDÔNEA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊ NCIA. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER MINISTERIAL ACOLHIDO.
+Ordem denegada.
