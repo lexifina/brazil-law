@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 1ª Região assim ementado (e-STJ fl. 297):
+ADMINISTRATIVO. CONSTITUCIONAL. PROCESSO SELETIVO. MILITAR. CURSO DE ESPECIALIZAÇÃO DE SOLDADOS. TESTE DE APTIDÃO E CONDICIONAMENTO FÍSICO. INOBSERVÂNCIA DO EDITAL. APTIDÃO DO CANDIDATO COMPROVADA.
+1. Cuida-se de apelação interposta pela União em face de sentença que julgou parcialmente procedente o pedido inicial, reconhecendo o direito do candidato de inscrever-se no Curso de Especialização de Soldados da Força Aérea Brasileira - FAB de 2019, sendo utilizado o resultado do último Teste de Avaliação de Condicionamento Físico (TACF), conforme o edital do certame.
+2. Considerando-se as especificidades exigidas dos que pretendem exercer certos cargos e atribuições, é possível a adoção de critérios limitadores de participação, como no caso das Forças Armadas, nas quais a aptidão física é de salutar importância para o desenvolvimento das atividades.
+3. A jurisprudência é unânime no sentido de que o edital é a lei do concurso, o qual vincula tanto a Administração Pública quanto os candidatos à sua estrita observância.
+4. No caso, os organizadores do certame, após a publicação do edital, determinaram que no processo seletivo seriam considerados os resultados do 2º TACF do ano anterior, em clara discrepância com as normas editalícias. Assim, mostra-se ilegal o ato que indeferiu a matrícula de militar que apresentou resultado "apto" no último TACF realizado, conforme exigência da alínea "P" do item 2.8.3.1 do edital, devendo ser mantida a sentença.
+5. Honorários de advogado majorados em um ponto percentual sobre o valor arbitrado na origem, conforme previsão do art. 85, §11, do CPC.
+6. Apelação desprovida.
+Rejeitados os aclaratórios (e-STJ fls. 319/325).
+Nas suas razões, a parte recorrente aponta violação dos arts. 373, I, 489, 1.022 do CPC/2015, 10 e 11 da Lei n. 6880/1980, sustentando negativa de prestação jurisdicional, ausência de comprovação de aptidão da parte adversa no último teste de avaliação e condicionamento físico realizado e possibilidade de restrição de acesso às Forças Armadas de candidato com patologia incompatível com as atividades a serem realizadas.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 340/341.
+Passo a decidir.
+Em relação aos arts. 489 e 1.022 do CPC/2015, esta Corte tem entendido que se aplica o óbice da Súmula 284 do STF quando a alegação de ofensa se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro (AgRg no AREsp 719.983/PE, rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 19/04/2016, DJe 26/04/2016, e AgRg no AREsp 811.706/P R, rel. Ministra DIVA MALERBI, desembargadora convocada do TRF da 3a Região, Segunda Turma, julgado em 07/04/2016, DJe 15/04/2016).
+Quanto ao mais, a matéria foi solvida pela Corte de origem com espeque nos elementos de convicção dos autos, notadamente as disposições do edital regente do processo seletivo (e-STJ fl. 295 ):
+No caso, os organizadores do certame, após a publicação do edital, determinaram que no processo seletivo seriam considerados os resultados do 2º TACF do ano anterior, em clara discrepância com as normas editalícias.
+Assim, mostra-se ilegal o ato que indeferiu a matrícula de militar que apresentou resultado "apto" no último TACF realizado, conforme exigência da alínea "P" do item 2.8.3.1 do edital, devendo ser mantida a sentença.
+Ressalte-se, ainda, que o autor é militar ativo que desempenha suas atividades normalmente, demonstrando, assim, que se encontra totalmente adaptado às condições exigidas pela rotina castrense, não havendo óbice à participação em curso e à posterior promoção, caso aprovado e classificado.
+Assim, verifica-se no acórdão recorrido que o Tribunal de origem decidiu a questão ora ventilada com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
