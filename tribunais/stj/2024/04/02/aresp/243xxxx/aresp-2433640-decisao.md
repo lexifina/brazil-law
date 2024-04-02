@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial interposto por EDUARDO AFONSO SOBRAL SANTOS TAVARES, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão assim ementado (e-STJ, fls. 330-331):
+APELAÇÃO CÍVEL  EMBARGOS DE TERCEIRO  PENHORA DE IMÓVEL  AUSÊNCIA DE CONDUTA DETERMINANTE DO RECORRENTE PARA A CONSTRIÇÃO INDEVIDA DO BEM  ATO ANTERIOR À AQUISIÇÃO DA PROPRIEDADE POR MEIO DE SENTENÇA EM AÇÃO DE USUCAPIÃO  CERTIDÃO DE INTEIRO TEOR DO IMÓVEL QUE APONTAVA O DEVEDOR DO RECORRENTE COMO PROPRIETÁRIO  IMPOSSIBILIDADE D E CONDENAÇÃO EM RAZÃO DA CAUSALIDADE. EXISTÊNCIA, TODAVIA, DE SUCUMBÊNCIA, NA MEDIDA EM QUE HOUVE RESISTÊNCIA AO PEDIDO DE LEVANTAMENTO DA PENHORA  DE CABIMENTO CONDENAÇÃO EM HONORÁRIOS ADVOCATíCIOS RECURSO CONHECIDO EDESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 338-343).
+Nas razões do recurso especial (e-STJ, fls. 345-379), o ora agravante alegou ofensa aos arts. 489, 494 e 1.022 do Código de Processo Civil de 2015; e à Súmula 303/STJ, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, a ausência de prestação jurisdicional e de fundamentação; e que, nos embargos de terceiro, o dever de arcar com os honorários advocatícios é de quem deu causa à constrição indevida.
+É o relatório. Decido.
+Inicialmente, rejeita-se a alegada violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o eg. TJ-SE analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação.
+Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. DIREITO DE SUCESSÕES. AÇÃO ANULATÓRIA DE PARTILHA EM INVENTÁRIO DOS BENS DEIXADOS PELA ESPOSA DO FALECIDO COMPANHEIRO DA DEMANDANTE. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO. SÚMULA 7 DO STJ. RAZÕES DE RECURSO ESPECIAL DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 284 DO STF. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO ESPECÍFICO E CENTRAL DO ACÓRDÃO. SÚMULA 283 DO STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. SÚMULA 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que falar em violação aos arts. 489 e 1022 Código de Processo Civil quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido diverso à pretensão da parte agravante.
+2. O exame da pretensão recursal exigiria a alteração das premissas fático-probatórias estabelecidas pelo v. acórdão, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+3. As razões do recurso especial encontram-se dissociadas dos fundamentos do acórdão recorrido, circunstância que faz incidir a Súmula 284 do STF.
+4. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF. Aplicação analógica.
+5. Não havendo adequada demonstração do dissídio jurisprudencial apresentado, o cenário atrai a inadmissibilidade do recurso especial com fundamento a alínea "c" do inciso III do art. 105 da Constituição Federal. Súmula 284 do STF.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.701.665/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/8/2022, DJe de 26/9/2022.)
+O Tribunal de origem, ao analisar a apelação, concluiu que (e-STJ, fl. 332):
+O apelo versa sobre o tema causalidade, e sobre ele a súmula nº 303 do Superior Tribunal deque "Em embargos de terceiro, quem deu causa à constrição indevida deve arcar com os honorários Justiça dispõe advocatícios".
+Nesse sentido, analisando o processo de conhecimento n.º 201211500689, vejo que eram partes Eduardo Afonso Sobral Santos Tavares e Associação Beneficente dos Servidores Militares, respectivamente, requerente e requerido, este condenado ao pagamento de pecúlio óbito e danos morais.
+Iniciada a fase de Cumprimento de Sentença, o credor requereu a penhora do imóvel registrado sob amatrícula 15.823 e, ao tempo do pleito, a certidão de inteiro teor apontava como proprietário a Caixa Beneficente do Pessoalda Polícia Militar do Estado de Sergipe.
+A constrição foi levada a efeito e a ora apelada ingressou com Embargos de Terceiro aduzindo ser proprietária do bem penhorado, elemento apto a autorizar o levantamento da penhora.
+De fato, conquanto tenha o apelante pleiteado a penhora de imóvel de terceiro, tal fato lhe era desconhecido, afinal somente após a constrição do bem em 30/12/2014 é que a recorrida logrou êxito em adquirir a propriedade do imóvel através da sentença proferida em 19/02/2019 na ação de usucapião n.º 201410101343.
+Destarte, não houve conduta determinante do Apelante para que a constrição indevida fosse realizada pois, ao contrário, no cartório de Registro de Imóveis o bem pertencia ao seu credor, a Associação Beneficente dos Servidores Militares, sendo descabido imputar ao recorrente a condenação em honorários advocatícios à luz do princípio da causalidade.
+No entanto, a condenação ao pagamento da verba honorária também deve observar a sucumbência e esta, na hipótese, se aplica, uma vez que houve resistência do embargado/recorrente ao pleito de levantamento da penhora, daí porque cabível a condenação em honorários. (Sem grifo no original).
+Na hipótese, o Tribunal de origem entendeu que houve resistência do recorrente ao pleito de levantamento da penhora.
+Nesse contexto, o Tribunal de Justiça decidiu em conformidade com a jurisprudência desta Corte, conforme se depreende dos seguintes precedentes:
+PROCESSO CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA FUNDADA EM ERRO DE FATO. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. PRETENSÃO RESISTIDA POR PARTE DO EXEQUENTE. PRINCÍPIO DA CAUSALIDADE. CONCLUSÕES DO ACÓRDÃO RECORRIDO. SÚMULA Nº 7/STJ. DECISÃO EM HARMONIA COM O ENTEN DIMENTO DESTA CORTE SUPERIOR. INCIDÊNCIA DA SÚMULA Nº 83/STJ. AGRAVO INTERNO NEGADO PROVIMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O entendimento consolidado no âmbito deste Tribunal Superior é no sentido de que a decisão que estabelece a obrigação de suportar as despesas do processo - inclusos os honorários advocatícios - deve pautar-se pelos princípios da sucumbência e da causalidade. In casu, o Tribunal estadual concluiu que a apelante tentou a solução amigável da penhora indevida, entretanto o apelado quitou-se silente, mesmo consciente dos prejuízos suportados pela apelante diante da penhora indevida. Incide a Súmula nº 83/STJ quanto à aplicação do princípio da causalidade no caso concreto.
+3. Revisar a conclusão do Tribunal estadual acerca da fixação dos honorários sucumbenciais, feita com base no princípio da causalidade, encontra óbice na Súmula nº 7/STJ.
+4. Agravo interno negado provimento.
+(AgInt no AREsp n. 1.974.334/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 13/3/2023, DJe de 15/3/2023 - sem grifo no original.)
+Assim, estando a decisão em consonância a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ, pelas alíneas a e c do permissivo constitucional.
+Além disso, a pretensão de modificar a conclusão do Tribunal de origem, em relação à ocorrência de pretensão resistida, demandaria o revolvimento do acervo fático-probatório, o que é inviável em recurso especial, nos termos da Súmula 7/STJ.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial, e nesta extensão, negar-lhe provimento.
+Em observância ao art. 85, § 11, do CPC, majoro os honorários advocatícios sucumbenciais de 12% para 17% sobre o valor da causa.
+Publique-se.
+EMENTA
