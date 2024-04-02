@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial interposto pelo PATRÍCIA LEAL DE ALMEIDA, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL E EMPRESARIAL. INTERVENÇÃO JUDICIAL EM EMPRESA PARTICULAR. ALEGAÇÃO DE FRAUDE COM O INTUITO DE REDUZIR A MEAÇÃO A QUE TERIA DIREITO A RECORRENTE, EX-ESPOSA DE UM DOS AGRAVADOS. INDEFERIMENTO. Com efeito, a intervenção judicial em empresa privada é medida de caráter excepcional, que deve ser determinada tão somente diante de prova inequívoca de administração ruinosa e/ou temerária. Nesse sentido, por ser medida drástica e excepcional, só poderá haver o afastamento de sócio da função de administrador de sociedade quando houver prova suficiente e hábil a demonstrar a malversação dos interesses sociais e financeiros, decorrente da má-gestão ou incompetência deste gerenciamento. As razões recursais relacionam-se com o temor da recorrente quanto à possibilidade de diluição em seu patrimônio por ocasião da partilha de bens oriundos da sua relação com um dos agravados. A intervenção judicial excepciona a autonomia da pessoa jurídica e por isso não admite analogia ou int erpretação extensiva. Decisão bem fundamentada que não merece censura. Necessidade de dilação probatória.
+RECURSO DESPROVIDO." (fl. 121).
+Opostos embargos de declaração, restaram rejeitados (e-STJ, fls. 181/186)
+A parte recorrente aponta ofensa aos arts.489 e 1.022, do CPC/15; e 166 e 1.011, do CC, afirmando isto: a) negativa de prestação jurisdicional; e b) a necessidade "nomeação cautelar interventor ou administrador judicial do GRUPO CORRETA, diante das fraudes cometidas pelos recorridos na administração das empresas recorridas." (e-STJ, fl. 224)
+É o relatório. Passo a decidir.
+Não prospera a alegada ofensa aos arts. 489 e 1.022 do CPC/2015, tendo em vista que o v. acórdão recorrido adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+Conforme já enfatizado por esta Corte, "A função judicial é prática, só lhe importando as teses discutidas no processo enquanto necessárias ao julgamento da causa. Nessa linha, o juiz não precisa, ao julgar procedente a ação, examinar-lhe todos os fundamentos. Se um deles é suficiente para esse resultado, não está obrigado ao exame dos demais" (EDcl no REsp 15.450/SP, Rel. Ministro ARI PARGENDLER, SEGUNDA TURMA, DJe de 6/5/1996).
+Com efeito, nos termos da jurisprudência consolidada do Superior Tribunal de Justiça, "Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução" (REsp 1.814.271/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 1º/7/2019).
+A propósito, é entendimento pacífico deste Superior Tribunal que o magistrado não é obrigado a responder a todas as alegações das partes se já tiver encontrado motivo suficiente para fundamentar a decisão, nem é obrigado a se ater aos fundamentos por elas indicados.
+Nesse sentido, confira-se:
+CIVIL. PROCESSUAL CIVIL. AÇÃO COMINATÓRIA. VÍCIOS DE CONSTRUÇÃO. OBRIGAÇÃO DE FAZER. EMBARGOS DE DECLARAÇÃO OPOSTOS CONTRA O ACÓRDÃO RECORRIDO. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO, OU OBSCURIDADE. AUSÊNCIA DE VIOLAÇÃO DO ARTIGO 535 DO CPC. FALTA DE INTIMAÇÃO PARA ACOMPANHAR VISTORIA. ART. 431-A DO CPC. PREJUÍZO NÃO DEMONSTRADO. NULIDADE. AUSÊNCIA. DECADÊNCIA. PRAZO. TERMO INICIAL. ART. 618, PARÁGRAFO ÚNICO, DO CÓDIGO CIVIL. NÃO OCORRÊNCIA.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+ ..
+(REsp 1.296.849/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 14/02/2017, DJe de 20/02/2017)
+Avançando, o eg. Tribunal de origem, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, bem como mediante análise soberana do contexto fático-probatório dos autos, concluiu desnecessidade de intervenção judicial, consignando:
+"Com efeito, a intervenção judicial em empresa privada é medida de caráter excepcional, que deve ser determinada tão somente diante de prova inequívoca de administração ruinosa e/ou temerária.
+Nesse sentido, por ser medida drástica e excepcional, só poderá haver o afastamento de sócio da função de administrador de sociedade quando houver prova suficiente e hábil a demonstrar a malversação dos interesses sociais e financeiros, decorrente da má-gestão ou incompetência deste gerenciamento.
+Ausentes esses requisitos, o indeferimento se impõe.
+No caso em exame, a recorrente não demonstrou inequivocamente a existência de atos ruinosos ou temerários a justificar a intervenção judicial, neste momento, na administração das empresas.
+(..)
+Portanto, à ausência de fundamentação concreta para a medida e, também, de prova da verossimilhança da alegação de mau exercício da atividade empresarial, deve ser mantida a decisão.
+Saliente-se que as razões recursais se relacionam com o temor da recorrente quanto à possibilidade de diluição em seu patrimônio por ocasião da partilha de bens oriundos da sua relação com o agravado Gilson.
+A intervenção judicial excepciona a autonomia da pessoa jurídica e por isso não admite analogia ou interpretação extensiva, como lembra o Professor Flávio Tartuce:
+(..)
+Ao Poder Público é dado regular e intervir na ordem econômica, mas não na administração do agente econômico. A esse é dado escolher seus administradores, pois são eles que escolherão as estratégias de mercado que conduzam ao resultado almejado, suportando igualmente eventuais prejuízos por suas decisões.
+Conforme se denota da decisão alvejada, foram satisfatoriamente elencadas as razões pelas quais não foi vislumbrada a prática de atos que autorizassem medida tão gravosa. Em especial, a seguinte transcrição:"( e-STJ, 125/126)
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido para aferir a necessidade de intervenção judicial demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
