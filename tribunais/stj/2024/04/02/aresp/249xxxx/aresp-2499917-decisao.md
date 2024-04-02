@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRAISL - PREVI contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AÇÃO RESCISÓRIA. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. LIQUIDAÇÃO DE SENTENÇA. AJUIZAMENTO COM BASE NO ARTIGO 966, IV E V DO CPC/15. ALEGAÇÃO DE OFENSA À COISA JULGADA E VIOLAÇÃO LITERAL DE DISPOSIÇÃO DE LEI. PROCEDÊNCIA PARCIAL DO PEDIDO.
+Decadência Ultrapassado o prazo de dois anos para exercício da rescisória, previsto no artigo 975 do Código de Processo Civil, a petição inicial deve ser indeferida. No caso, a alegação da ré de decadência não procede, na medida em que a última decisão proferida no processo transitou em julgado em 26-10-2018 e a ação rescisória foi ajuizada em 31-08-2020.
+Mérito O acórdão rescindendo ofende dispositivo de lei e coisa julgada material ao incluir no cálculo de liquidação de sentença valor relativo a contrato suplementar de financiamento, que não foi objeto da ação revisional. Violação de literal disposição de lei e à coisa julgada demonstrada (art. 966, IV e V, do CPC/15) Em relação ao suposto contrato quitado e hipoteca liberada desde 2014, a matéria está preclusa, na medida em que extrapola a observação da questão de cálculos quanto aos critérios delimitados na ação revisional.
+Sucumbência redimensionada.
+AÇÃO RESCISÓRIA JULGADA PARCIALMENTE PROCEDENTE. UNANIME.
+Os embargos de declaração opostos foram rejeitados (fls. 987 - 991 e 1.027 - 1.032, e-STJ).
+Nas razões de recurso especial, alega a parte agravante, em suma, violação ao artigo 1.022 do Código de Processo Civil de 2015.
+Sustenta a nulidade do acórdão por omissão, destacando que: "Em que pese não se desconheça a circunstância de que não está o julgador obrigado a refutar, um a um, todos os argumentos deduzidos pelas partes, necessária a oposição dos aclaratórios, a estabelecer corretamente premissas incidentes à espécie e visando a prestação jurisdicional completa, de modo a afastar a violação ao art. 1.022, II, CPC, perpetrada no caso em exame, especialmente a demonstrar os equívocos no acórdão a mudar o transcurso da lide" - e-STJ, fl. 1.082.
+Apresentadas contrarrazões (e-STJ fls. 1.095 - 1.117), pugnando o não provimento do recurso.
+O recurso não foi admitido na origem, nos termos da decisão de fls. 1.122 - 1.133, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada após a entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Não assiste razão à parte agravante.
+Quanto à alegada violação do artigo 1.022 do CPC de 2015, cumpre ressaltar que os embargos de declaração, ainda que opostos para prequestionamento, são cabíveis quando o provimento jurisdicional padece de omissão, contradição ou obscuridade, bem como para sanar erro material, vícios inexistentes na espécie.
+Observo que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia. Registre-se, a propósito, que o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas sobre os considerados suficientes para fundamentar sua decisão, o que foi feito. Nesse sentido: Edcl no AgRg no Ag nº 492.969/RS, Relator Ministro Herman Benjamin, Segunda Turma, DJ de 14.2.2007; AgRg no Ag nº 776.179/SP, Relator Ministro José Delgado, Primeira Turma, DJ de 12.2.2007; e REsp 523.659/MG, Relator Ministro João Otávio de Noronha, Segunda Turma , DJ de 7.2.2007.
+No ponto, verifica-se nítida a deficiência de fundamentação das razões do recurso especial, uma vez que a parte se limita a reproduzir o corpo do recurso de embargos de declaração, sem particularizar nenhuma tese ou artigo de lei sobre o qual a corte de origem deveria se pronunciar e não o fez, tampouco elucida os motivos pelos quais a Corte local deveria se pronunciar acerca dos temas sobre os quais a parte entende haver omissão. Aplica-se a Súmula 284/STF.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
