@@ -1,0 +1,10 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Henrick da Silva Cunha, atacando-se o acórdão proferido pelo Tribunal de Justiça de Sergipe (HC n. 202300365356 - fls. 54/72), não comporta processamento.
+Com efeito, busca a impetração a revogação da prisão cautelar imposta ao paciente (fls. 85/86 - Autos n. 0045249-95.2023.8.25.0001, da 1ª Vara Criminal da comarca de Aracaju/SE), em 17/10/2023, pela prática, em tese, dos crimes de estelionato simples, integrar organização criminosa e lavagem de dinheiro, aos argumentos de deficiência de fundamentação e excesso de prazo para a formação da culpa.
+Inicialmente, não se conhece da alegação de deficiência de fundamentação, uma vez que é objeto do HC n. 897. 402/SE , impetrado em nome do ora paciente e hostilizando idêntico do decreto preventivo (Autos n. 0045249-95.2023.8.25.0001), o que configura reiteração de pedido já apreciado.
+Ademais, não se verifica o alegado excesso de prazo para a formação da culpa, porque, no trâmite processual não se verificou de plano violação dos princípios da razoabilidade e da proporcionalidade, balizas de aferição da razoável duração do processo, inexiste culpa do Judiciário na eventual mora processual, uma vez que, nos termos do acórdão hostilizado, são várias condutas e vítimas, de sorte que não se vislumbra demora atribuível ao Judiciário que justificaria o constrangimento ilegal por eventual excesso de prazo. Ao contrário, verifico que nas investigações foram promovidas várias medidas que estão francamente em andamento para que a denúncia venha a ser formulada (fl. 70).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. ESTELIONATO SIMPLES, INTEGRAR ORGANIZAÇÃO CRIMINOSA E LAVAGEM DE DINHEIRO. PRISÃO PREVENTIVA. ALEGAÇÃO DE DEFICIÊNCIA DE FUNDAMENTAÇÃO. NÃO CONHECIMENTO. ANTERIOR IMPETRAÇÃO DO HC N. 897.402/SE. REITERAÇÃO DE PEDIDOS. ALEGAÇÃO DE EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. NÃO VERIFICAÇÃO. AUSÊNCIA DE DESÍDIA OU INÉRCIA DO MAGISTRADO SINGULAR. PRISÃO MANTIDA.
+Inicial indeferida liminarmente.
