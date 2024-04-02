@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial pelo qual a FAZENDA NACIONAL se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO assim ementado (fl. 429):
+PROCESSUAL CIVIL. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO DE SENTENÇA. ALEGAÇÃO EXCESSO. IMPOSTO DE RENDA. OBRIGAÇÕES NÃO SALDADAS EM ÉPOCA PRÓPRIA. PAGAMENTO ÚNICO AGLOMERADO. APLICAÇÃO DO ART. 12-A DA LEI N. 7.713/88. TITULO JUDICIAL DETERMINOU A APLICAÇÃO DO REGIME DE COMPETÊNCIA. COISA JULGADA. OFENSA. NÃO OCORRÊNCIA.
+1. O art. 12 da Lei nº 7.713/88 constou expressamente da sentença e do acórdão transitado em julgado, tendo o feito sido julgado favoravelmente ao contribuinte, em sua integralidade e sem qualquer ressalva, com fundamento na jurisprudência dos tribunais, amparando a aplicação da atual redação do art. 12-A da Lei nº 7.713/88, que nada mais é do que o reconhecimento, ainda que tardio, pelo Poder Legislativo, do entendimento jurisprudencial firmado e mantido ao longo de muitos anos. Precedentes: Temas 368 do STF (RE 614406) e 351 do STJ (REsp 1118429).
+2. Não há que se falar em qualquer ofensa à coisa julgada na aplicação da metodologia do art. 12-A da Lei n. 7.713/88 (regime de competência) aos cálculos, sendo devida a homologação da conta apresentada pelos exequentes, ressalvadas posteriores atualizações.
+3. Apelação não provida.
+Os embargos de declaração opostos foram rejeitados (fls. 451/457).
+Em suas razões recursais, a parte recorrente alega que houve violação aos arts. 504 e 1.022 do Código de Processo Civil (CPC), sustentando (fl. 466):
+ ..  sendo certo que a execução há que se limitar objetivamente pelo titulo judicial transitado em julgado, e não pelo pedido formulado na demanda de origem, a decisão ora recorrida representa excesso de execução, e violação à coisa julgada (art. 504 do NCPC), na medida em que expressamente homologa cálculo elaborado segundo a sistemática prevista no art. 12-A da Lei nº 7.713/88, e não pelo regime de competência (mês a mês).
+Requer que seja dado provimento ao recurso especial interposto.
+A parte adversa apresentou contrarrazões (fls. 469/477).
+Às fls. 507/509, a Presidência do STJ não conheceu do agravo (art. 1.042 do CPC), ante a ausência de impugnação aos fundamentos da decisão de inadmissibilidade.
+O Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região), verificando que houve o ataque à fundamentação adotada para inadmissão do recurso, tornou sem efeito o julgado agravado (fls. 529/530).
+É o relatório.
+Verifico que inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+O Tribunal de origem expressamente consignou (fls. 419/425, sem destaques no original):
+Assim, conforme precedentes jurisprudenciais citados acima, em que pese ser o dispositivo que faça coisa julgada material, "abarca o pedido e a causa de pedir, tal qual expressos na petição inicial e adotados na fundamentação do decisum, compondo a res judicata".
+Não fosse isso suficiente, do título judicial transitado em julgado, constata-se que a tese defendida pela FN não tem qualquer sustentação.
+Isso porque, não bastasse o pedido de incidência do art. 12-A da Lei nº 7.713/88 ter constado expressamente do pedido inicial, o qual foi julgado integralmente procedente, sem qualquer ressalva, a interpretação do acórdão transitado em julgado, leva ao inegável reconhecimento de que houve expressa manifestação em relação aos termos da legislação citada tanto na sentença, quanto no acórdão proferido por esta Corte.
+Apenas para que não pairem dúvidas, transcrevo, no que interessa, as peças que integraram o julgado principal e que originou o cumprimento de sentença ora em análise (autos 22862-96.2011.4.01.3400):
+ ..
+No mais, o posicionamento jurisprudencial a respeito da questão é firme, já tendo sido objeto de recurso repetitivo, oportunidade em que o Superior Tribunal de Justiça se firmou a tese (Tema 351 do STJ) de que "o Imposto de Renda incidente sobre os benefícios previdenciários atrasados pagos acumuladamente deve ser calculado de acordo com as tabelas e alíquotas vigentes à época em que os valores deveriam ter sido adimplidos, observando a renda auferida mês a mês pelo segurado, não sendo legítima a cobrança de IR com parâmetro no montante global pago extemporaneamente".
+Dessa forma, o cálculo do imposto de renda incidente sobre os benefícios pagos acumuladamente deve ser efetuado conforme as regras vigentes à época. Veja-se a ementa do julgado:
+ ..
+Desse modo, em que pese o esforço argumentativo da FN, o art. 12 da Lei nº 7.713/88 constou expressamente da sentença e do acórdão transitado em julgado, tendo o feito sido julgado favoravelmente ao contribuinte, em sua integralidade e sem qualquer ressalva, com fundamento na jurisprudência dos tribunais, amparando a aplicação da atual redação do art. 12-A da Lei nº 7.713/88, que nada mais é do que o reconhecimento, ainda que tardio, pelo Poder Legislativo, do entendimento jurisprudencial firmado e mantido ao longo de muitos anos.
+Nesse contexto, não há que se falar em qualquer ofensa à coisa julgada na aplicação da metodologia do art. 12-A da Lei n. 7.713/88 (regime de competência) aos cálculos, sendo devida a homologação da conta apresentada pelos exequentes, ressalvadas posteriores atualizações.
+Ressalto que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+No que diz respeito à alegada violação à coisa julgada, entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito os seguintes julgados deste Tribunal:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EMPRÉSTIMO COMPULSÓRIO DE ENERGIA ELÉTRICA. JUROS REMUNERATÓRIOS. INCIDÊNCIA ATÉ A DATA DA CONVERSÃO EM AÇÕES. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA.
+ ..
+IV - O argumento relativo a tratar-se de cumprimento de sentença de título executivo transitado em julgado - dessume-se de violação da coisa julgada - não pode ser analisado pela via especial, porque demandaria interpretação do conteúdo do título. Com efeito, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), quando a pretensão recursal consiste no reconhecimento da violação da coisa julgada por meio da revisão da interpretação do teor do título executivo judicial realizada pela Corte de origem, o que demanda o reexame do acervo fático-probatório juntado aos autos. Nesse sentido: AgInt no AREsp n. 1.238.744/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 6/3/2023, DJe de 9/3/2023 e EDcl no AgInt no AREsp n. 1.459.702/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/12/2022, DJe de 13/12/2022.
+ ..
+VII - Agravo interno improvido.
+(AgInt nos EDcl no REsp n. 1.898.107/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 22/5/2023, DJe de 24/5/2023.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. ALEGAÇÃO DE OFENSA AOS ARTS. 489, § 1º, e 1.022 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. VIOLAÇÃO À COISA JULGADA. AVERIGUAÇÃO. SÚMULA 7/STJ. NULIDADE DA CDA E DO ATO DE LANÇAMENTO. REEXAME DE PROVA. IMPOSSIBILIDADE. FUNDAMENTO BASILAR INATACADO. SÚMULA 283/STF. CERCEAMENTO DE DEFESA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. CDA. REQUISITOS. DEMONSTRATIVO DE DÉBITO. DESNECESSIDADE. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+ ..
+3. A alteração das conclusões adotadas pela Corte de origem acerca dos limites do título executivo judicial transitado em julgado, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ ..
+9. Agravo interno conhecido em parte e, na parte conhecida, não provido.
+(AgInt no AREsp n. 1.998.702/RO, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 23/5/2022, DJe de 27/5/2022.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar a ele provimento.
+Publique-se. Intimações necessárias.
+ EMENTA
