@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de VITOR PEREIRA DE MENESES BORGES contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido na Apelação n. 0056715-82.2018.8.26.0050.
+Consta dos autos que o paciente foi condenado, em primeiro grau, pela prática do crime previsto no art. 157, § 3º, parte final, c/c art. 14, II, ambos do Código Penal (latrocínio tentado), a 20 anos, 8 meses e 26 dias de reclusão, no regime inicial fechado.
+O Tribunal a quo manteve a sentença penal condenatória, em acórdão assim ementado:
+"Apelação criminal  Latrocínio- Tentativa  Sentença condenatória pelo art. 157, § 3º, parte final, c.c. 14-11, do Código Penal, em regime inicial fechado.
+Recurso Defensivo de Pablo - preliminar de cerceamento de defesa. No mérito, busca absolvição, por falta de provas, ou desclassificação do delito para roubo agravado pela lesão grave, com tese de desistência voluntária, aplicação de fração de maior de redução da pena pela tentativa e regime prisional mais brando.
+Recurso Defensivo de Vitor  pleito de desclassificação para o delito de "furto tentado" ou para o delito de "roubo agravado pela lesão corporal", reconhecimento da participação de menor importância, redução máxima da pena pela tentativa, e fixação de regime mais brando.
+Recurso Defensivo de Marcel  pleito de desclassificação para "furto tentado" ou "roubo tentado", ou a redução da pena e direito de recorrer em liberdade.
+Preliminar - Recurso em liberdade não cabimento. Bem justificada a manutenção da prisão.
+Preliminar  cerceamento de defesa  não ocorrência. Defesa que providenciou o exame pericial que pleiteada, o qual foi analisado no conjunto probatório para a prolação da r. sentença. Ademais, agente reconhecido pela vítima  inteligência do art. 400, § 1º, do CPP.
+Autoria e materialidade comprovadas  laudo pericial de local que constatou vestígios de sangue na casa do idoso e um pedaço de sua orelha. Laudo de exame de corpo de delito que comprovou lesão corporal gravíssima no idoso, com necessidade de cirurgia na região cervical, além de perda de parte da orelha direita, cicatrizes de ferimentos pérfuro-contusos em ambos os antebraços com ferimentos transfixantes, com perigo de vida e deformidade estética permanente. Denunciados que, mediante grave ameaça com arma de fogo, tentaram subtrair dinheiro e joias da vítima idosa (82 anos), com tentativa de matá-la, não ocorrendo morte em razão de rápida e eficaz intervenção médica. Réu Marcel que negou a autoria em delegacia, e a admitiu parcialmente em juízo, delatando o corréu Vitor. Réu Vitor que admitiu parcialmente a acusação, dizendo que ajudou Marcel a planejar um "furto" na casa do avô da ex-namorada dele, atribuindo a terceiro a execução direta do delito. Réu Pablo que negou a acusação, dizendo ser cunhado de Vitor e não conhecer Marcel. Vítima que, em ambas as fases processuais, reconheceu o réu Pablo com certeza como sendo quem tentou matá-lo, bem como reconheceu Marcel como certeza como mandante do crime e ex-companheiro de sua neta. Narrou com detalhes a prática do delito, sendo que ficou internado e passou por cirurgia. Policiais Civis que relataram como se deram as investigações e a apuração das autorias, confirmando que o ofendido reconheceu Pablo como executor direto, dentre os vários sujeitos perfilados. Prova que demonstrou que Marcel e Vitor admitiram que planejaram o crime patrimonial para se vingar do ofendido que se opunha ao relacionamento de Marcel e a neta do ofendido, e o roubo se transformou em latrocínio porque o .
+ofendido foi alvejado com arma de fogo, gerando perigo devida.
+Impossibilidade de desclassificação para o crime de furto ou de roubo. Tese de desistência voluntária afastada. Manutenção da condenação que que se faz de rigor.
+Tese de participação de menor importância  não acolhimento  delito que foi detalhadamente planejado pelos réus, inclusive com o executor direto usando uniforme de carteiro para que a vítima lhe abrisse a porta e o ameaçasse com arma de fogo, e desferindo- lhe disparos.
+Latrocínio, na forma tentada, e que restou configurado  dolo direto quanto ao roubo e eventual quanto à morte da vítima (idoso), que somente não ocorreu por circunstâncias alheias à vontade do agente.
+Dosimetria  Penas-base de todos os acusados fixadas acima do mínimo legal, justificadamente  Na segunda fase, consideração da confissão de Marcel e Vitor, bem como das agravantes do motivo torpe e idade da vítima (idoso). Circunstâncias compensadas parcialmente, para os réus Marcel e Vitor, exasperando-se a pena em fração mínima, e exasperação em fração adequada para Pablo.
+Na terceira fase, redução, pela tentativa, em fração adequada ao "iter criminis" percorrido.
+Regime inicial fechado mantido  fundamentado e mais adequado.
+Preliminares rejeitadas.
+Recursos das Defesas improvidos" (fls. 35/36).
+No presente writ, a impetrante sustenta, em síntese, que a pena-base foi exasperada de forma desproporcional (1/3).
+Requer, assim, a redução da reprimenda.
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+A controvérsia refere-se ao quantum de exasperação da pena-base.
+Inicialmente, confira-se a fundamentação apresentada pelo Tribunal a quo:
+" ..
+Na primeira fase, nos termos do art. 59, do Código Penal, a r. sentença bem ponderou as consequências do delito, que justificam a exasperação da pena-base. Foi observado que o ofendido, além das intervenções cirúrgicas a que foi submetido, com internação hospitalar, decorrente dos disparos de arma de fogo recebidos, também teve amputada parte de sua orelha por mordedura do agente. Assim sendo, foi justificadamente exasperada a pena-base de cada réu em 1/3 sobre o mínimo legal, ou seja, 26 anos e 08 meses de reclusão, e 13 dias-multa" (fl. 61).
+"A exasperação da pena-base não se dá por critério objetivo ou matemático, uma vez que é admissível certa discricionariedade do órgão julgador, desde que vinculada aos elementos concretos dos autos" (AgInt no HC 352.885/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 09/06/2016).
+Ademais, é possível que "o magistrado fixe a pena-base no máximo legal, ainda que tenha valorado tão somente uma circunstância judicial, desde que haja fundamentação idônea e bastante para tanto" (AgRg no REsp 143.071/AM, Rel. Min. MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 06/05/2015).
+Na hipótese, as instâncias ordinárias destacaram que , além de ter que passar por cirurgia e internação hospitalar, a vítima teve parte de sua orelha amputada por mordedura do agente. Considerando a gravidade concreta do delito, mostra-se adequada a fixação da pena-base no quantum indicado - 1/3 - pelas graves consequências do delito.
+A propósito:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. VIA INADEQUADA. HOMICÍDIOS DUPLAMENTE QUALIFICADOS. CONCURSO MATERIAL. DOSIMETRIA. PRIMEIRA FASE. PERSONALIDADE. FUNDAMENTAÇÃO IDÔNEA PARA O DESFAVORECIMENTO. LAUDOS MÉDICOS. MOTIVAÇÃO E CIRCUNSTÂNCIAS DO CRIME. SOBREPOSIÇÃO À DESCRIÇÃO DAS QUALIFICADORAS DO ART. 121, § 2.º, INCISOS I E IV, DO CP. POSSIBILIDADE DE UTILIZAÇÃO DE CIRCUNSTÂNCIA QUALIFICADORA PARA EXASPERAR A PENA-BASE, QUANDO SOBEJAR OUTRA PARA QUALIFICAR O DELITO. DESLOCAMENTO SIMULTÂNEO DAS QUALIFICADORAS PARA A PRIMEIRA ETAPA DA DOSIMETRIA. ILEGALIDADE. BIS IN IDEM CONFIGURADO. REDUÇÃO PROPORCIONAL DA PENA-BASE. SEGUNDA FASE. CONCURSO ENTRE ATENUANTE E AGRAVANTE. CONFISSÃO ESPONTÂNEA. CIRCUNSTÂNCIA PREPONDERANTE. ART. 67, DO CP. QUANTUM DE REDUÇÃO READEQUADO PARA A FRAÇÃO DE 1/12. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+ ..
+- A análise das circunstâncias judiciais do art. 59, do Código Penal, não atribui pesos absolutos para cada uma delas, a ponto de ensejar uma operação aritmética dentro das penas máximas e mínimas cominadas ao delito. Assim, é possível que "o magistrado fixe a pena-base no máximo legal, ainda que tenha valorado tão somente uma circunstância judicial, desde que haja fundamentação idônea e bastante para tanto" (AgRg no REsp 143.071/AM, Rel. Min. MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 06/05/2015).
+ ..
+Habeas corpus não conhecido.
+Ordem concedida, de ofício, para reduzir a reprimenda do paciente ao novo patamar de 49 anos, 8 meses e 12 dias de reclusão, mantidos os demais termos da condenação.
+(HC 473.777/PE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 22/11/2018).
+Ante o exposto, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
