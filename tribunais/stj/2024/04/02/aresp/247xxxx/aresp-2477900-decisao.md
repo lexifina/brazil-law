@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA DA CONCEIÇÃO GOMES LAGO SILVA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 18):
+AGRAVO DE INSTRUMENTO - AÇÃO ACIDENTÁRIA CONCESSÃO DO AUXÍLIO-ACIDENTE A PARTIR DA JUNTADA DO LAUDO PERICIAL IMPOSSIBILIDADE DE SE ALTERAR QUESTÃO ANTERIORMENTE DECIDIDA, SOB PENA DE AFRONTA À COISA JULGADA INTELIGÊNCIA DOS ARTIGOS 5º, XXXVI, DA CONSTITUIÇÃO FEDERAL E 503, DO CÓDIGO DE PROCESSO CIVIL DECISÃO MANTIDA. Recurso desprovido.
+Embargos de declaração rejeitados (e-STJ fls. 29/32).
+No recurso especial obstaculizado, a parte recorrente apontou, além de dissídio pretoriano, violação dos arts. 23 e 86, § 2º, da Lei n. 8.213/1991, sustentando, em síntese, que o termo inicial do auxílio-acidente deve ser fixado no dia seguinte ao da cessação do benefício anterior que lhe deu origem.
+Sustentou que a instância ordinária, em fase de execução, acolheu os cálculos da autarquia, ratificados pela contadoria, em que apresentou como data de início do benefício deferido a juntada do laudo pericial aos autos, apesar de haver decisão judicial determinando a aplicação do Tema 862 do STJ na fase de conhecimento.
+Afirmou, ainda, ser inaplicável à espécie a Súmula 576 do STJ, porquanto o marco inicial do benefício não poderia ser fixado a partir da citação, uma vez que houve requerimento administrativo.
+Por fim, ressaltou que o laudo pericial apenas norteia o livre convencimento do juiz, não representando o marco inicial da incapacidade, devendo o termo inicial do benefício ser fixado a partir da cessação do benefício anterior ou do requerimento administrativo, ocorrido em 08/02/2019 (e-STJ fl. 39).
+Sem contrarrazões.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+A pretensão recursal não pode ser conhecida, pois a parte autora não impugnou todos os fundamentos do acórdão recorrido.
+A propósito, destaco os fundamentos que deram suporte ao acórdão recorrido (e-STJ fl. 19):
+O recurso não comporta provimento.
+Extrai-se dos autos que o acórdão de fls. 08/13 - apenso condenou a autarquia ao pagamento do auxílio-acidente à autora, a partir da juntada do laudo pericial, ante a ausência de afastamentos decorrentes da patologia constatada e, também, porque somente nesta oportunidade é que se pode constatar a definitividade da moléstia discutida nos autos.
+Ora, transitado em julgado o referido acórdão, não é possível na fase executiva, cujo objetivo exclusivo é o cumprimento do título, que a matéria será rediscutida por total inadequação da via judicial, além do flagrante desrespeito à segurança jurídica, uma vez que referido título executivo está acobertado pelo manto da coisa julgada, passível de alteração somente pelas vias processuais adequadas, sob pena de afronta ao disposto nos artigos 5º, XXXVI, da Constituição Federal e 503, do Código de Processo Civil. (Grifos acrescidos).
+No recurso especial, por sua vez, a parte autora limitou-se a defender a fixação do termo inicial do benefício de auxílio-acidente a partir da cessação do benefício anterior ou do requerimento administrativo, sem nada discorrer quanto à ocorrência da coisa julgada no presente caso, a evidenciar, pelo cotejo entre as razões do recurso e do acórdão, o desencontro entre o que foi decidido e a pretensão recursal deduzida.
+A falta de pertinência entre as razões do recurso especial e a decisão questionada revela-se apta a atrair o óbice contido na Súmula 284 do STF ("é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"), pois não é possível conhecer de recurso especial que invoca como violado dispositivo de lei federal que não possui comando normativo apto a infirmar a tese adotada pelo acórdão recorrido.
+Nesse sentido:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. AGRAVO REGIMENTAL. DECISÃO MONOCRÁTICA. INDEFERIMENTO LIMINAR DA AÇÃO. INCOMPETÊNCIA DO STJ PARA CONHECER ORIGINARIAMENTE DO WRIT. VEICULAÇÃO DE RAZÕES DISSOCIADAS. APLICAÇÃO DA SÚMULA 284/STF. PRECEDENTES DO STJ. AGRAVO REGIMENTAL DO IMPETRANTE NÃO CONHECIDO.
+1. Aplica-se o óbice da Súmula 284/STF quando o recurso veicular razões dissociadas dos fundamentos da decisão recorrida.
+2. No caso, a decisão agravada apenas reconheceu a incompetência do STJ, por não se configurar a hipótese do art. 105, I, b da CF/88, matéria não recorrida.
+3. Agravo Regimental do Impetrante não conhecido. (AgRg no MS 19.557/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 14/12/2016, DJe 2/2/2017).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284 DO STF.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. O acolhimento de recurso especial por violação ao art. 535 do CPC/1973 pressupõe a demonstração de que a Corte de origem, mesmo depois de provocada mediante embargos de declaração, deixou de sanar vício de integração contido em seu julgado, o que não ocorreu na espécie.
+3. Não é possível conhecer de recurso especial que invoca como violado dispositivo de lei federal que não possui comando normativo apto a infirmar a tese adotada pelo acórdão recorrido. Inteligência da Súmula 284 do STF.
+4. Agravo interno desprovido. (AgInt no AREsp 290.622/MG, de minha relatoria, PRIMEIRA TURMA, julgado em 02/05/2017, DJe 20/06/2017).
+Além disso, "(..) como a fundamentação supra é apta, por si só, para manter o decisum combatido, e não houve contraposição recursal ao ponto, aplica-se na espécie, por analogia, o óbice da Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."" (REsp 1.666.566/RJ, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 06/06/2017, DJe 19/06/2017).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Sem majoração da verba honorária em razão de se tratar de ação acidentária (art. 129, parágrafo único, da Lei n. 8.213/1991) e tendo em vista que o recurso especial se origina de agravo de instrumento..
+Publique-se. Intimem-se.
+EMENTA
