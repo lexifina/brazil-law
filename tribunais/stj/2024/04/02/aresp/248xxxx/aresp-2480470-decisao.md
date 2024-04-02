@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. contra decisão que inadmitiu o recurso especial com fundamento na ausência de violação dos arts. 1.022 e 355 e 369 do CPC e na incidência da Súmula n. 7 do STJ.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo em apelação.
+O julgado foi assim ementado (fl. 672):
+Apelação cível. Plano de saúde. Obrigação de fazer c/c indenização por danos morais. Sentença de procedência. Negativa de cobertura para tratamento na coluna. Preliminar de cerceamento de defesa. Inocorrência. Negativa de insumos considerados desnecessários por junta médica. Inadmissibilidade. Comprovada necessidade do tratamento, a necessidade da cirurgia e dos materiais, não cabe à operadora escolher o tipo de procedimento ou material a ser utilizado na cirurgia, mas ao corpo clínico responsável pelo tratamento. Abusividade configurada. Obrigação de custeio. O plano de saúde não pode limitar is meios curativos. Aplicação das Súmulas 96, 100 e 102 deste TJSP. Consoante o artigo 10, inciso VII, da Lei nº 9.656/98 somente pode ser excluída cobertura com relação ao fornecimento de próteses, órteses e seus acessórios quando não ligados ao tratamento ou ao ato cirúrgico, o que não é o caso. Danos morais. Não configuração. Inexistência de ofensa a atributos da personalidade da autora, ou mesmo sofrimento intenso, que caracterize o dano de ordem extrapatrimonial, não tendo o descumprimento contratual a magnitude apta a ferir sua dignidade humana. Recurso parcialmente provido.
+Nas razões do recurso especial, a ora agravante aponta violação do art. 1.022 do CPC. Sustenta omissão do Tribunal a quo acerca da ocorrência de cerceamento de defesa.
+Indica ainda violação dos arts. 355, I, e 369, do CPC, também ao argumento de cerceamento de defesa diante do indeferimento de produção de prova pericial, que era essencial para atestar a necessidade do procedimento cirúrgico.
+Requer o conhecimento e o provimento do recurso especial.
+É o relatório. Decido.
+A irresignação não deve prosperar.
+Afasta-se a alegada ofensa ao art. 1.022 do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+A despeito das reiteradas alegações de omissão acerca da caracterização do cerceamento de defesa, verifica-se que a Corte estadual tratou da desnecessidade da mais provas para o julgamento da lide, ponderando o seguinte (fl. 673, destaquei):
+2. Por primeiro, rejeita-se a preliminar arguida no apelo, porquanto o julgamento antecipado do pedido, ao contrário do alegado, não implicou em cerceamento de defesa.
+ ..
+No caso em análise, não havia necessidade de dilação probatória para a comprovação dos fatos alegados, pois as provas documentais juntadas aos autos são suficientes ao equacionamento da lide, dispensado corretamente a realização de prova técnica.
+Assim, correto o julgamento antecipado da lide, em observância ao artigo 355 do Código de Processo Civil.
+Portanto, inexistente omissão.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Quanto à violação dos arts. 355, I, e 396 CPC e à tese de caracterização do cerceamento de defesa, conforme entendimento do Superior Tribunal de Justiça, não subsiste a alegação de cerceamento de defesa quando, no julgamento antecipado da lide, o tribunal a quo reconhece estar o feito devidamente instruído e refuta a produção de provas adicionais, que considera desnecessárias por se tratar de matérias de fato ou de direito já comprovadas documentalmente (AgInt no AREsp n. 1.718.417/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/10/2021, DJe de 17/11/2021; AgInt nos EDcl no AREsp 1.173.801/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 28/8/2018, DJe de 4/9/2018; e AgInt no AREsp n. 1.133.717/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 24/4/2018, DJe de 2/5/2018).
+O Tribunal de origem, com base na análise dos elementos dos autos, manifestou-se pelo indeferimento da produção de novas provas ante a efetiva comprovação da necessidade do tratamento por meio das provas documentais acostadas. Veja-se (fl. 673, destaquei):
+2. Por primeiro, rejeita-se a preliminar arguida no apelo, porquanto o julgamento antecipado do pedido, ao contrário do alegado, não implicou em cerceamento de defesa.
+ ..
+No caso em análise, não havia necessidade de dilação probatória para a comprovação dos fatos alegados, pois as provas documentais juntadas aos autos são suficientes ao equacionamento da lide, dispensado corretamente a realização de prova técnica.
+Assim, correto o julgamento antecipado da lide, em observância ao artigo 355 do Código de Processo Civil.
+Assim, acolher o pleito da parte a fim de reconhecer a necessidade de produção de provas e a caracterização do cerceamento de defesa demandaria incursão no acervo fático-probatório dos autos, providência vedada na instância especial, em razão do óbice da Súmula n. 7 do STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
