@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto por JOSÉ PEREIRA DE SOUZA contra acórdão do Eg. Tribunal de Justiça do Estado do Mato Grosso, assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - SEGURO DPVAT - PEDIDO ADMINISTRATIVO NÃO RECEBIDO - ALEGAÇÃO DE DANO MORAL - NÃO CABIMENTO - LITIGÂNCIA DE MÁ-FÉ DA SEGURADORA - FATOS QUE NÃO CONDIZEM COM AS HIPÓTESES DO ART. 80 DO CPC - ARGUMENTAÇÃO INFUNDADA - PENALIDADE NÃO APLICADA - PEDIDO DE REPREENSÃO DAS INCURSÕES DA RÉ NA RESIDÊNCIA DOS SEGURADOS - INEXISTÊNCIA DE PROVA - ARGUIÇÃO DESPROPOSITADA - RAZÕES DISSOCIADAS DO CASO CONCRETO - AUSÊNCIA DE INTERESSE RECURSAL DA PARTE VENCEDORA DA DEMANDA - SUBTERFÚGIO PARA AFASTAR A INCIDÊNCIA DO §5º DO ART. 99 DO CPC - UTILIZAÇÃO DA LIDE PARA CONSEGUIR OBJETIVO ILEGAL (ART. 80, INCISO III DO CPC) - DESLEALDADE PROCESSUAL CARACTERIZADA - MULTA - APLICAÇÃO DE OFÍCIO - RECURSO NÃO CONHECIDO.
+Quando a negativa em receber o requerimento administrativo não acarreta prejuízo ao ingresso judicial, não pode ser considerada como ato ilícito passível de indenização, pois não extrapola por si só os contratempos normais do cotidiano, de modo que não é cabível a alegação de dano moral.
+Se o pedido para condenação da apelada nas penas de litigância de má-fé contém razões dissociadas do caso concreto, é inviável o seu conhecimento.
+Não tem nenhum amparo legal a pretensão do autor para que o Judiciário reprima condutas da seguradora, que estaria se dirigindo às residências de outras pessoas com o intuito de convencê-las a desistir da Ação, se a lide já foi julgada procedente. Ademais, não cabe nesta via determinação de qualquer repreensão à parte ré.
+A arguição de teses recursais manifestamente infundadas e improcedentes como claro subterfúgio para afastar a incidência do §5º do art. 99 do CPC representa abuso do direito processual destinado a conseguir objetivo ilegal, o que impõe a aplicação de multa por litigância de má-fé." (e-STJ, fls. 396/397)
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 438/452)
+Nas razões do recurso especial, o recorrente aponta, além de divergência jurisprudencial, negativa de vigência aos arts. 77, § 2º; 80, II, 932, e 1.007, §4º, do CPC.
+Aduz a parte recorrente que o Tribunal de origem, sem qualquer fundamento, multou o respectivo patrono, não obstante o fato de o recurso de apelação não ter sido interposto com o fim de protelar o andamento do processo originário.
+Argumenta que "o acórdão ora atacado é um verdadeiro disparate, pois sem fundamento e ainda interpreta de forma completamente equivocada a redação do art. 1007, §4.º, do Código de Processo Civil vigente, o qual não autoriza a Relator a aplicar multa sem o mínimo de plausibilidade" (fls. 470).
+É o relatório. Passo a decidir.
+De início, no que tange à alegada violação dos dispositivos citados (arts. 156 e 942 do CPC/15), tem-se, no ponto, inviável o debate. Isso porque não se vislumbra o efetivo prequestionamento do teor dos dispositivos legais citados, o que inviabiliza a apreciação da tese recursal apresentada, sob pena de supressão de instâncias. Frise-se que ao STJ cabe julgar, em sede de recurso especial, conforme dicção constitucional, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e dos Territórios. Observa-se a incidência, pois, por analogia, dos óbices das Súmulas 282 e 356 do STF.
+Avançando, a celeuma cinge a possibilidade ou não de condenação do advogado, com poderes outorgados pelo ora recorrente, ao pagamento de multa por litigância de má-fé, determinada quando do julgamento da apelação interposta na origem.
+O Tribunal de origem, ao impor tal multa, fundamentou a decisão da seguinte forma (fls. 401/404, g.n ):
+"Dessa forma, seu pedido é infundado.
+Também postula futura repreensão pelas incursões realizadas à residência dos segurados, a fim de que os prepostos da seguradora se abstenham de fazê-lo.
+Primeiro, essa situação não ficou comprovada nos autos; segundo, não é atribuição do Judiciário, nesta via, tomar qualquer tipo de atitude para repreender a alegada conduta da apelada. Portanto a pretensão é totalmente despropositada, e nem sequer o fato se concretizou com o apelante.
+Os atos da apelada não extrapolaram o regular exercício do direito de defesa e não prejudicaram o apelante, que trouxe quantidade reduzida de peças processuais e documentos e mesmo assim foram suficientes para o resultado favorável na lide.
+Isso corrobora a conclusão de que os pedidos do autor são despropositados neste caso.
+Importante mencionar que o interesse de agir representa a necessidade de requerer a prestação da tutela jurisdicional com a finalidade de obter uma posição de vantagem (uma utilidade) que de outro modo não seria possível alcançar. Toma como base, portanto, o binômio necessidade-utilidade.
+Contudo, a interposição deste Recurso serviria hipoteticamente para o apelante auferir maior ganho econômico. Porém, as penalidades processuais servem antes para coibir comportamentos reprováveis, pois têm caráter pedagógico, e não ressarcitório.
+Não existindo mínimos indícios de litigância de má-fé ou ato ilícito praticado passível de reparação pela seguradora, falta interesse recursal ao apelante.
+Um dos requisitos para a admissibilidade do Recurso é que o recorrente tenha, no primeiro grau de jurisdição, sofrido gravame em sua situação processual, o que não é a hipótese, até mesmo porque a recusa em questão não gera danos morais ou condenação em multa.
+Tendo em vista que o apelante não é sucumbente, não há interesse recursal, porquanto a argumentação jurídica que utilizou não legitima a pretensão aqui formulada.
+(..)
+Posto isso, essa tese é manifestamente descabida e está sendo empregada pelo representante do vencedor da Ação de Cobrança do Seguro DPVAT como pretexto para simular seu interesse em majorar os honorários e assim se esquivar do art. 99, §5º, do CPC.
+Essa inovação inserida no Código de Processo Civil buscou resolver o debate jurisprudencial anteriormente existente sobre a legitimidade da parte para ingressar nesta instância visando exclusivamente a majoração dos honorários de seu advogado.
+A redação desse dispositivo legal é a seguinte:
+(..)
+A mera leitura da norma deixa clara a intenção do legislador de retirar o direito do beneficiário da justiça gratuita e vencedor na demanda de recorrer quando a matéria a ser debatida tratar apenas sobre honorários sucumbenciais, os quais são sabidamente de interesse privativo do seu advogado particular.
+Isso evidencia ainda mais a manobra processual aqui usada.
+(..)
+A interposição de tese indiscutivelmente infundada e improcedente, com o objetivo único de provocar a majoração de honorários sucumbenciais sem a devida realização do preparo pelo advogado, representa abuso do direito processual destinado a conseguir objetivo ilegal, o que impõe a aplicação de multa por litigância de má-fé (art. 80, inciso III, e art. 81 do CPC/2015).
+Pelo exposto, com amparo no art. 932, inciso III, do Código de Processo Civil, não conheço do Recurso e condeno o advogado do apelante ao pagamento de multa de 5% sobre o valor corrigido da causa por litigância de má-fé, bem como inverto em favor da ré os honorários advocatícios estipulados na sentença."
+À luz da jurisprudência do STJ, as penas por litigância de má-fé, previstas nos artigos 79 e 80 do CPC de 2015, são endereçadas às partes, não podendo ser estendidas ao advogado que atuou na causa, o qual deve ser responsabilizado em ação própria, consoante o artigo 32 da Lei 8.906/1994. Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ALEGADA AUSÊNCIA DE INTIMAÇÃO. REEXAME DE PROVAS. SÚMULA N. 7/STJ. CONDENAÇÃO DO ADVOGADO POR LITIGÂNCIA DE MÁ-FÉ. IMPOSSIBILIDADE. PARCIAL PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. As penas por litigância de má-fé, previstas nos artigos 79 e 80 do CPC de 2015, são endereçadas às partes, não podendo ser estendidas ao advogado que atuou na causa, o qual deve ser responsabilizado em ação própria, consoante o artigo 32 da Lei 8.906/1994. Precedentes.
+3. Agravo interno parcialmente provido.
+(AgInt no AREsp n. 1.722.332/MT, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 13/6/2022, DJe de 21/6/2022.)
+PROCESSUAL CIVIL. RECURSO EM MANDADO DE SEGURANÇA. ATO JUDICIAL. IMPETRAÇÃO. EXCEPCIONAL CABIMENTO. ILEGALIDADE, TERATOLOGIA OU ABUSO DE PODER. ADVOGADO. TERCEIRO INTERESSADO. SÚMULA N. 202/STJ. LITIGÂNCIA DE MÁ-FÉ. IMPOSIÇÃO DE MULTA AO PROFISSIONAL. IMPOSSIBILIDADE. RECURSO PROVIDO.
+1. É excepcional o cabimento de mandado de segurança contra ato judicial impugnável por recurso em relação ao qual se faz possível atribuir efeito suspensivo. A impetração, nessa hipótese, somente é admitida em casos de flagrante ilegalidade, teratologia ou abuso de poder.
+2. Os advogados, públicos ou privados, e os membros da Defensoria Pública e do Ministério Público não estão sujeitos à aplicação de pena por litigância de má-fé em razão de sua atuação profissional. Eventual responsabilidade disciplinar decorrente de atos praticados no exercício de suas funções deverá ser apurada pelo respectivo órgão de classe ou corregedoria, a quem o magistrado oficiará. Aplicação do art. 77, § 6º, do CPC/2015. Precedentes do STJ.
+3. A contrariedade direta ao dispositivo legal antes referido e à jurisprudência consolidada desta Corte Superior evidencia flagrante ilegalidade e autoriza o ajuizamento do mandado de segurança, em caráter excepcional.
+4. "A impetração de segurança por terceiro, contra ato judicial, não se condiciona à interposição de recurso" (Súmula n. 202/STJ). O advogado, representante judicial de seu constituinte, é terceiro interessado na causa originária em que praticado o ato coator, e, nessa condição, tem legitimidade para impetrar mandado de segurança para defender interesse próprio.
+5. Recurso provido.
+(RMS 59.322/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 14/2/2019)
+AGRAVO INTERNO. RECURSO ESPECIAL. SUBSCRIÇÃO DE AÇÕES. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. AQUISIÇÃO DE LINHA TELEFÔNICA. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. LITIGÂNCIA DE MÁ-FÉ. CERCEAMENTO DE DEFESA. REEXAME DE MATÉRIA FÁTICA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CONDENAÇÃO SOLIDÁRIA DO ADVOGADO POR LITIGÂNCIA DE MÁ-FÉ. IMPOSSIBILIDADE.
+1. Se o Tribunal de origem dirimiu a controvérsia de forma suficientemente ampla, fundamentada e sem omissões, obscuridades, contradições ou erros materiais, deve ser rejeitada a alegação de ofensa ao artigo 535 do Código de Processo Civil (CPC) de 1973.
+2. Inviável o recurso especial cuja análise impõe reexame do contexto fático-probatório da lide. Incide a Súmula 7 do Superior Tribunal de Justiça (STJ).
+3. As penas por litigância de má-fé, previstas nos artigos 14 e 16 do CPC de 1973, são endereçadas às partes, não podendo ser estendidas ao advogado que atuou na causa, o qual deve ser responsabilizado em ação própria, consoante o artigo 32 da Lei 8.906/1994. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1590698/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 11/5/2017)
+Por conseguinte, o acórdão recorrido deve ser reformado, para adequar-se à jurisprudência do STJ no ponto.
+Ante o exposto, conheço do agravo para dar parcial provimento ao recurso especial, a fim de afastar a condenação do advogado às multas por litigância de má-fé.
+Publique-se.
+EMENTA
