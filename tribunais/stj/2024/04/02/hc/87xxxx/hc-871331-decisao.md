@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOSE LAMENHA LINS e GILBERTO LAMENHA LINS contra acórdão proferido pelo TR IBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS, cuja ementa teve o seguinte teor (fl. 119-120):
+PENAL E PROCESSO PENAL. HOMICÍDIO QUALIFICADO. APELAÇÃO CRIMINAL RECÍPROCA. RECURSO INTERPOSTO PELOS RÉUS CONDENADOS. ALEGAÇÃO DE EQUÍVOCO NA DOSIMETRIA DAS PENAS-BASES. REPRIMENDAS INAUGURAIS ESTABELECIDAS NO MÍNIMO LEGAL. AUSÊNCIA DE INTERESSE RECURAL. ARGUMENTO NÃO CONHECIDO. ALEGAÇÃO DE DECISÃO MANIFESTAMENTE CONTRÁRIA ÀS PROVAS DOS AUTOS. SUPOSTA AUSÊNCIA DE LASTRO PROBATÓRIO DE AUTORIA. ACOLHIMENTO. CONDENAÇÃO AMPARADA, EXCLUSIVAMENTE, EM TESTEMUNHOS INDIRETOS. INEXISTÊNCIA DE OUTRAS PROVAS DE AUTORIA DELITIVA. INSUFICIÊNCIA PROBATÓRIA VERIFICADA. PRECEDENTES DO STJ E DESTA CÂMARA CRIMINAL. JULGAMENTO ANULADO. NECESSIDADE DE SUBMISSÃO DOS APELANTES A UM NOVO SINÉDRIO POPULAR. ANÁLISE DAS DEMAIS TESES RECURSAIS PREJUDICADAS. APELO DEFENSIVO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PARCIALMENTE PROVIDO. RECURSO DO MINISTÉRIO PÚBLICO ESTADUAL. PRETENSA MODIFICAÇÃO DAS PENAS. IRRESIGNAÇÃO MINISTERIAL PREJUDICADA PELA ANULAÇÃO DO VEREDICTO CONDENATÓRIO.
+Consta dos autos que os pacientes foram condenados à pena de 14 (quatorze) anos de reclusão como incursos no crime de homicídio.
+Inconformada, a defesa interpôs recurso de apelação perante o Tribunal de origem, que foi conhecido em parte e, nessa extensão, parcialmente provido.
+Sustenta a impetrante, em síntese, que a "DECISÃO DE PRONÚNCIA E CONDENAÇÃO SUBSEQUENTE  foram  LASTREADAS UNICAMENTE EM INDÍCIOS "DE OUVIR DIZER" (fl.6), bem como alega que o acórdão estadual declarou a nulidade do veredito condenatório, porém "DEVERIA TER RECHAÇADO, DE PLANO, A PRÓPRIA PRONÚNCIA" (fl. 6).
+Defende a "INIDONEIDADE DO INVOCADO "PRINCÍPIO" IN DUBIO PRO SOCIETATE" (fl. 6). Além disso, aduz que há FUNDADO RISCO DE CONDENAÇÃO DEFINITIVA DO s  PACIENTE s  NO SEGUNDO JULGAMENTO PELO TRIBUNAL DO JÚRI, À REVELIA DO REGRAMENTO LEGAL" (fl. 6).
+Requer, liminarmente, que seja o processo retirado da pauta do Tribunal do Juri e, no mérito, a despronúncia dos pacientes.
+Todavia, assim como demonstrado pelo Ministério Público Federal, "em consulta ao sítio eletrônico do Tribunal de Justiça do Estado de Alagoas, constatou-se que, em 23.11.2023, os pacientes foram submetidos a novo julgamento perante o Tribunal do Júri e foram absolvidos." (fl. 149), razão pela qual a pretensão posta neste writ encontra-se superada.
+Ante o exposto, com fundamento no artigo 34, inciso XI, do RISTJ, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
