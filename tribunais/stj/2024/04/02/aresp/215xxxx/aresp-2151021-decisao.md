@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo (art. 1.042, do CPC/15), interposto por THAIS GUIMARAES FERREIRA , contra decisão proferida pela instância de origem (fls.72/73 e-STJ), que não admitiu recurso especial por considerá-lo intempestivo, nos seguintes termos:
+Verifica-se que a parte não comprovou, no ato da interposição do recurso, conforme dispõe o artigo 1.003, § 6º, do Código de Processo Civil, a suspensão do expediente nas repartições judiciárias do Estado do Paraná no dia 14.04.2022 (quinta-feira santa), prevista no artigo 2º do Decreto Judiciário nº 717/2021. Portanto, a petição recursal juntada em 20.04.2022 está intempestiva.
+O Superior Tribunal de Justiça firmou entendimento no sentido de que "(..) a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende que dele conheça este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a " (AgInt no REsp 1.686.469/AM, Rel. Min. Mauro apresentação de documento não dotado de fé pública. Campbell Marques, DJe 27.3.2018).
+Em suas razões de agravo (fls. 77/83, e-STJ), buscando destrancar o processamento do apelo nobre, a insurgente afirma que o recurso especial interposto é tempestivo, pois o prazo foi devidamente certificado pelo sistema PROJUDI.
+Contraminuta às fls. 94/99 (e-STJ).
+É o relatório. Decido.
+A irresignação não merece acolhimento.
+1. A insurgente defende que o recurso especial foi interposto dentro do prazo processual indicado pelo Sistema PROJUDI.
+Todavia, conquanto intrinsicamente relacionado, o objeto da questão controvertida não se volta especificamente contra a inobservância do prazo processual à luz do consignado no mencionado Sistema PROJUDI, mas contra a ausência de comprovação, no ato da interposição do apelo nobre, de documentos oficiais que atestem a suspensão dos prazos processuais perante a instância de origem. No caso presente, o feriado local do dia 14/04/2022 (quinta-feira santa).
+Segundo preceitua a regra prevista no § 6º do art.1.003 do CPC/2015, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+A partir da redação do referido dispositivo legal, conclui-se que eventual documento idôneo apto a comprovar a ocorrência de feriado local, para fins de aferição da tempestividade do recurso, deve ser colacionado aos autos no momento de sua interposição (art. 1.003, § 6º, CPC/15).
+Esse foi o entendimento firmado pela Corte Especial, no julgamento do AgInt no AREsp n. 957.821/MS, realizado no dia 20/11/2017, cuja ementa a seguir se transcreve:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo".
+4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido. (AgInt no AREsp 957.821/MS, Rel. Ministro RAUL ARAÚJO, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 20/11/2017, DJe 19/12/2017)
+Ademais, conforme reiterada jurisprudência desta Corte, a simples menção, no bojo das razões recursais, da ocorrência do feriado local não é suficiente para a comprovação da suspensão do prazo processual, a teor do art. 1.003, § 6º, do CPC/15.
+Para tal comprovação, exige-se a apresentação de documento idôneo, consoante precedente desta Corte, a saber:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DE ADMISSIBILIDADE. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+PRECEDENTE DA CORTE ESPECIAL. MODULAÇÃO DOS EFEITOS. VÍCIO NÃO SANADO ATÉ A INTERPOSIÇÃO DO AGRAVO INTERNO. PRECLUSÃO CONSUMATIVA.
+1. A Corte Especial do Superior Tribunal de Justiça, no julgamento do recurso especial nº 1.813.684/SP (DJe 18/11/2019), manteve o entendimento no sentido de que, sob a vigência do CPC/2015, é necessária a comprovação de feriado local, por meio de documento idôneo, no ato de interposição do recurso, bem como modulou os efeitos dessa decisão para permitir a comprovação posterior, nos recursos interpostos antes da referida publicação.
+2. No caso dos autos, a parte recorrente, quando da interposição do agravo interno, deixou, novamente, de comprovar a tempestividade do recurso especial, ensejando, portanto, a ocorrência da preclusão consumativa.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp 1555594/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 01/06/2020, DJe 05/06/2020)
+Ademais, não há nos autos documento hábil a provar que o equívoco quanto à tempestividade do apelo foi induzido pelo sistema do Tribunal local. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. SISTEMA ELETRÔNICO. INFORMAÇÃO EQUIVOCADA. AUSÊNCIA DE COMPROVAÇÃO IDÔNEA NOS AUTOS. PROVIMENTO NEGADO.
+1. A parte agravante foi intimada do acórdão recorrido em 8/10/2021, sendo o recurso especial interposto somente em 3/11/2021, quando já esgotado o prazo recursal de 15 dias úteis. Assim, é manifesta a intempestividade do recurso segundo disposição contida no art. 994, VI, c/c os arts. 1.003, § 5º, 1.029 e 219, caput, todos do Código de Processo Civil (CPC).
+2. Não se desconhece a jurisprudência do Superior Tribunal de Justiça no sentido de que "a falha induzida por informação equivocada prestada por sistema eletrônico de tribunal deve ser levada em consideração, em homenagem aos princípios da boa-fé e da confiança, para a aferição da tempestividade do recurso" (EAREsp 1.759.860/PI, relatora Ministra Laurita Vaz, Corte Especial, julgado em 16/3/2022, DJe 21/3/2022).
+3. Todavia, para demonstrar a possível indução a erro na contagem do prazo processual é indispensável que haja nos autos documento que comprove a alegação da parte. A apresentação de prints de tela ou a imagem de página extraída da internet e inserida na petição do recurso não são suficientes para se concluir que houve falha na prestação da informação pelo Tribunal.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.146.308/RN, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 11/3/2024, DJe de 14/3/2024.)
+Assim, não tendo a parte recorrente logrado comprovar, por meio de documento idôneo, no ato da interposição do recurso especial, a suspensão dos prazos processuais por ocasião de feriados locais ou, ainda, em decorrência de ato normativo expedido pelo Tribunal de origem, é de rigor a manutenção da decisão agravada.
+2. Do exposto, nego provimento ao agravo.
+Publique-se.
+EMENTA
