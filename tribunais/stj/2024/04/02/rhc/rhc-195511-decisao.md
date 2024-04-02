@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto contra acórdão assim ementado (fl. 407):
+HABEAS CORPUS. PENAL E PROCESSO PENAL. ESTELIONATO. SUPOSTA NECESSIDADE DE REPRESENTAÇÃO DA VÍTIMA. ART. 171, § 5º, DO CÓDIGO PENAL. NORMA DE NATUREZA MISTA. DENÚNCIA OFERECIDA ANTES DO PACOTE ANTICRIME. IRRETROATIVIDADE. CONSERVAÇÃO DA NATUREZA PÚBLICA INCONDICIONADA DA AÇÃO. REJEIÇÃO DO PEDIDO. PLEITO DE REMESSA DOS AUTOS AO MINISTÉRIO PÚBLICO PARA APLICAÇÃO DA SUSPENSÃO CONDICIONAL DO PROCESSO. REJEITADO. NÃO CABIMENTO DO SURSIS. APLICAÇÃO DA FRAÇÃO INERENTE AO CRIME CONTINUADO QUE EXASPERA A PENA E A AFASTA DO MÍNIMO LEGAL DE 01 (UM) ANO. INTELIGÊNCIA DOS ARTIGOS 89 E 71 DO CP. NÃO CABIMENTO DE ACORDO DE NÃO PERSECUÇÃO PENAL. RETROATIVIDADE LIMITADA AO RECEBIMENTO DA DENÚNCIA. HABEAS CORPUS ADMITIDO. ORDEM DENEGADA.
+Consta dos autos que o recorrente foi denunciado como incurso no art. 171, caput, do CP.
+No presente recurso, alega a defesa que "o paciente sofre as agruras de uma ação penal que tramita desde 2011, ação penal essa que já poderia ter sido encerrada há tempos, seja através da SUSPENSÃO CONDICIONAL DO PROCESSO, como proposto inicialmente, seja através de ANPP que conforme decidido pelo STF pode retroagir, inclusive em processos com trânsito em julgado e ainda pela FALTA DE PROCEDIBILIDADE, em que não consta nos autos a representação formal da vítima em desfavor do autor, ora paciente" (fl. 423).
+Assevera ser "fundamental que essa posição seja revista, e concedida a ordem para que os autos sejam enviados para o Ministério Público para que este oferte o Acordo de Não Persecução Penal, já que preenchido todos os requisitos" (fl. 432).
+Requer, assim, liminarmente, a suspensão do andamento da ação penal. No mérito pugna que o juízo de primeiro grau "intime a vítima para que se manifeste formalmente a cerca da representação criminal ou não do paciente pelo crime tipificado no art. 171,CP;  ..  superado e/ou havendo a representação formal em desfavor do paciente, que seja o Ministério Público intimado para que realize a proposta de Acordo de Não Persecução Penal" (fl. 433).
+Em consulta ao sistema processual eletrônico desta Corte, verificou-se tratar- se o presente recurso de mera reiteração do Habeas Corpus n.º 894.057/AL, conexo a este, em que o pedido liminar foi indeferido em 4/3/2024, DJe de 6/3/2024.
+Ante o exposto, não conheço do recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
