@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ALVARO DE CARVALHO RODRIGUES e NEMER MALAVOLTA JUNIOR contra decisão que inadmitiu seu recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), assim ementado:
+"EXECUÇÃO POR TÍTULO EXTRAJUDICIAL Exceção de pre-executividade Alegação de ilegitimidade passiva, em razão da ausência de preenchimento dos requisitos para desconsideração da personalidade jurídica da empresa executada - Diligências que não restaram frutíferas quanto à localização de bens penhoráveis - Fortes indícios da intenção de prejudicar os credores - Decisão mantida Recurso não provido." (fl. 448)
+Os embargos de declaração opostos foram rejeitados (fls. 488/490).
+Nas razões do recurso especial, a parte recorrente alega ofensa aos arts. 11, 489, II e § 1º, e 1.022 do CPC/2015; e 50 do CC/2002; e divergência jurisprudencial, sustentando, em síntese, que:
+(a) que o eg. TJ-SP não sanou os vícios suscitados nos embargos de declaração, essenciais ao julgamento da lide;
+(b) a desconsideração da personalidade jurídica somente pode ser deferida para atingir o patrimônio dos sócios quando preenchidos os requisitos do art. 50 do CC/2002, quando for evidente a caracterização de desvio de finalidade ou confusão patrimonial, o que não ocorreu no caso, uma vez que o Juízo a quo fundamentou a medida no simples fato de existirem diversas execuções contra a empresa e por não terem sido localizados bens penhoráveis para a satisfação do débito exequendo.
+Não foram apresentadas contrarrazões (fl. 534).
+É o relatório. Decido.
+O presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Inicialmente, observa-se que não se viabiliza o recurso especial pela indicada violação dos arts. 11, 489, II e § 1º, e 1.022 do CPC/2015, uma vez que, embora rejeitados os embargos de declaração, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela recorrente, decidindo de modo integral a controvérsia posta, não sendo possível
+confundir o julgamento em desconformidade com os interesses da parte com negativa de prestação jurisdicional. A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA RÉ.
+1. Em relação à violação aos artigos 489, § 1º e 1.022 do Código de Processo Civil, ante a alegada negativa de prestação jurisdicional, não assiste razão à parte recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia.
+2. O acórdão recorrido está em harmonia com a jurisprudência desta Corte, segundo a qual as taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram. Incidência da Súmula n. 83 do STJ.
+3. Agravo interno desprovido."
+(AgInt no REsp n. 2.027.254/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 5/6/2023, DJe de 14/6/2023, g.n.)
+Por sua vez, no que tange à desconsideração da personalidade jurídica, assiste razão aos recorrentes.
+Com efeito, esta Corte Superior entende que a desconsideração da personalidade jurídica é medida excepcional, por meio da qual se levanta o véu da sociedade empresária, qualquer que seja seu tipo societário, para alcançar o sócio ou administrador que efetivamente atuou de forma ilícita, por meio de desvio de finalidade ou confusão patrimonial. A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. SÓCIO MINORITÁRIO. PODERES DE GERÊNCIA OU ADMINISTRAÇÃO. AUSÊNCIA DE ATOS FRAUDULENTOS. RESPONSABILIDADE. EXCLUSÃO. AGRAVO INTERNO DESPROVIDO.
+1. "A desconsideração da personalidade jurídica é medida de caráter excepcional que somente pode ser decretada após a análise, no caso concreto, da existência de vícios que configurem abuso de direito, caracterizado por desvio de finalidade ou confusão patrimonial, requisitos que não se presumem em casos de dissolução irregular ou de insolvência. Precedentes" (AgInt no REsp 1.812.292/RO, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 18/5/2020, DJe de 21/5/2020).
+2. Em regra, a desconsideração da personalidade jurídica alcança somente os sócios administradores e aqueles que comprovadamente contribuíram para a prática dos atos caracterizadores do abuso ou fraude.
+3. No caso dos autos, deve ser afastada a responsabilidade do sócio minoritário, sem poderes de administração, porquanto não se extrai do v. Acórdão recorrido quaisquer elementos que corroborem ter o citado sócio contribuído para a prática de atos fraudulentos.
+4. Agravo interno desprovido."
+(AgInt no REsp n. 2.070.566/TO, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/9/2023, DJe de 14/9/2023, g.n.)
+RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CUMPRIMENTO DE SENTENÇA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. HERDEIRA. SÓCIO MINORITÁRIO. PODERES DE GERÊNCIA OU ADMINISTRAÇÃO. ATOS FRAUDULENTOS. CONTRIBUIÇÃO. AUSÊNCIA. RESPONSABILIDADE. EXCLUSÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cuida-se, na origem, de ação de indenização por danos morais e materiais na fase de cumprimento de sentença.
+3. A questão central a ser dirimida no presente recurso consiste em saber se a herdeira do sócio minoritário que não teve participação na prática dos atos de abuso ou fraude deve ser incluída no polo passivo da execução.
+4. A desconsideração da personalidade jurídica, em regra, deve atingir somente os sócios administradores ou que comprovadamente contribuíram para a prática dos atos caracterizadores do abuso da personalidade jurídica.
+5. No caso dos autos, deve ser afastada a responsabilidade da herdeira do sócio minoritário, sem poderes de administração, que não contribuiu para a prática dos atos fraudulentos.
+6. Recurso especial não provido."
+(REsp n. 1.861.306/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 2/2/2021, DJe de 8/2/2021, g.n.)
+Ainda sobre a questão, o STJ entende que os requisitos para desconsideração da personalidade jurídica não se presumem em caso de dissolução irregular ou insolvência da sociedade. A propósito:
+"AGRAVO INTERNO. RECURSO ESPECIAL. CIVIL, COMERCIAL E PROCESSUAL CIVIL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS. INSOLVÊNCIA. ENCERRAMENTO IRREGULAR DA EMPRESA. NÃO CONFIGURA ABUSO DE DIREITO OU DESVIO DE FINALIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. A desconsideração da personalidade jurídica é medida de caráter excepcional que somente pode ser decretada após a análise, no caso concreto, da existência de vícios que configurem abuso de direito, caracterizado por desvio de finalidade ou confusão patrimonial, requisitos que não se presumem em casos de dissolução irregular ou de insolvência. Precedentes.
+2. A inexistência ou não localização de bens da pessoa jurídica não é condição para a instauração do procedimento que objetiva a desconsideração, por não ser sequer requisito para aquela declaração, já que imprescindível a demonstração específica da prática objetiva de desvio de finalidade ou de confusão patrimonial.
+3. Agravo interno não provido."
+(AgInt no REsp n. 1.812.292/RO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 18/5/2020, DJe de 21/5/2020, g.n.)
+No caso ora em exame, todavia, as instâncias ordinárias fundamentaram a desconsideração da personalidade jurídica da sociedade empresária executada unicamente na insolvência e em indícios de dissolução irregular, conforme se infere do seguinte trecho do v. acórdão recorrido:
+"Compulsando-se os autos, verifica-se que a agravada ajuizou execução de título extrajudicial em face da Construtora e Engenharia Modulus Ltda. (fls. 63/66), a fim de satisfazer crédito no valor histórico de R$ 34.576,60.
+A empresa executada nomeou à penhora o imóvel de matrícula 70.887 do 1º Cartório de Registro de Imóveis de Araraquara/SP(fl.89), que foi aceito pela exequente (fls. 103), tendo sido determinada a avaliação do imóvel (fls. 112).
+A empresa Bergamim, terceira estranha à lide, apresentou manifestação aduzindo preferência sobre eventual venda do imóvel, em razão da anterioridade de sua penhora (fls.218/223), tendo sido, na sequência, informado nos autos que tal imóvel havia sido arrematado perante a Vara do Trabalho da comarca de Cravinhos/SP, que informou a inexistência de valores para satisfazer a débito da agravada.
+Ato seguinte, a agravada requereu a desconsideração da personalidade jurídica da empresa executada, o que foi deferido pelo MM. juízo "a quo".
+O entendimento do MM. juízo "a quo" deve prosperar, uma vez que dos elementos dos autos se verifica a dificuldade da agravada em reaver seu crédito, evidenciando que a pessoa jurídica está despojada de condições para o pagamento da obrigação, panorama típico de evidente má gestão de responsabilidade de seus sócios em fraude ao credor, sendo fortes os indícios de dissolução irregular." (fls. 450/451, g.n.)
+Estando o acórdão recorrido em confronto com a jurisprudência desta Corte, merece reparo o acórdão estadual para afastar a desconsideração da personalidade jurídica, por falta de preenchimento dos requisitos legais exigidos.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, "c", do RIST, conheço do agravo para dar parcial provimento ao recurso especial, a fim de afastar a desconsideração da personalidade jurídica.
+Publique-se.
+EMENTA
