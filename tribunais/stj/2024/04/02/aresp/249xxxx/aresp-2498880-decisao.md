@@ -1,0 +1,21 @@
+DECISÃO
+Trata -se de agravo (art. 1.042 do CPC/15), interposto por ASSOCIACAO DO PLANO DE SAUDE DA SANTA CASA DE SANTOS, contra decisão que negou seguimento ao recurso especial.
+O apelo nobre, fundamentado na alínea "a" do permissivo constitucional, visa reformar o acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 286, e-STJ):
+Plano de Saúde. Ação de Obrigação de Fazer. Pretensão à cobertura de cirurgia bariátrica. Sentença de improcedência. Negativa de cobertura fundada na alegação de doençapreexistente. Descabimento. Comprovação daexistência de doença preexistente que deve serrealizada com a apresentação de examemédico admissional à época da contratação - É dever da operadora de saúde, quando dacontratação do plano de saúde, realizarexames para constatar doenças preexistentes, o que não foi feito - Súmula 105 do TJSP. Determinado à apelada realizar a cirurgiaprescrita à apelante, em 20 dias, sob pena de multa diária. Dano moral caracterizado. Negativa de cobertura do tratamento médicoobjeto desta ação ocasionou preocupação e constrangimentos que atingiram a esferaíntima da parte beneficiária do plano de saúde. Recurso parcialmente provido
+Os embargos de declaração opostos foram rejeitados pelo acórdão de fls. 317-320, e-STJ.
+Nas razões do recurso especial (fls. 330-345, e-STJ), a agravante aponta violação dos arts. 1º, §1º; 11º; 35 - C da Lei 9656/98, 186, 188, I, 927 e 944 do CC e Súmula nº 609 do STJ. Sustenta, em síntese, a inexistência de dano moral, subsidiariamente, pleitea a redução do valor arbitrado.
+Contrarrazões às fls. 356-364, e-STJ.
+Em juízo de admissibilidade (fls. 365-367, e-STJ), negou-se seguimento ao recurso, dando ensejo na interposição do agravo previsto no artigo 1.042, CPC/15 (fls. 370-376, e-STJ), no qual a insurgente pretende a reforma da decisão impugnada.
+Contraminuta às fls. 380-390, e-STJ.
+É o relatório.
+O inconformismo não merece prosperar.
+1. Da leitura do acórdão recorrido, nota-se que o Tribunal local, à luz dos elementos de prova que instruem os autos, consignou que o ilícito contratual afetou a esfera da personalidade da ora recorrida, a ensejar dano moral, no valor de R$ 10.000,00. Veja-se (fl. 289-290, e-STJ):
+No mais, observe-se que, em princípio, a relação jurídica firmada entre as partes restringe-se ao campo patrimonial, sendo regida pelas normas do direito contratual. Contudo, a negativa de cobertura do tratamento médico objeto desta ação, sem dúvida, ocasionou preocupação e constrangimentos que atingiram a esfera íntima da parte beneficiária do plano de saúde, o que se deu em razão da desídia da operadora do plano que deixou de observar as normas que regem a matéria e sua própria sistemática administrativa. Assim, comprovada a conduta ilícita e apta a gerar a responsabilidade pelos danos extrapatrimoniais.
+A indenização, por sua vez, deve ser fixada de maneiraequitativa e moderada, observando as peculiaridades de cada caso, para que não se tenha a dor como instrumento de captação de vantagem. Outrossim, deve proporcionar ao ofendido uma compensação pelo dano sofrido e ao ofensor uma punição, para que a ofensa não se repita.
+Em casos como este, tem-se concedido indenização com observância aos princípios da proporcionalidade e razoabilidade. Com base nisso, analisadas as circunstâncias do caso concreto, essa verba é fixada em R$ 10.000,00, quantia que se mostra adequada e proporcional, a ser corrigida a partir da publicação deste acórdão e acrescida de juros de mora legais desde a citação.
+Nesse contexto, entende-se que o acolhimento da pretensão recursal com relação à existência e valor do dano moral demandaria a revisão da premissa acima disposta. Para tanto, todavia, é imprescindível o revolvimento de matéria probatória, providência vedada na presente instância recursal, nos termos da Súmula 7/STJ.
+Assim, inviável o acolhimento da pretensão recursal.
+2. Ante o exposto, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial. Por conseguinte, nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) o valor dos honorários advocatícios arbitrados na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC/2015.
+Publique-se.
+Intimem-se.
+EMENTA
