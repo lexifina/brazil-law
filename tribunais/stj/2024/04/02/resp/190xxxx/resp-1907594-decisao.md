@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por PAULO MARCOS DA COSTA com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"AGRAVO INTERNO - DECISÃO MONOCRÁTICA - RECURSO DE APELAÇÃO - PRODUÇÃO ANTECIPADA DE PROVAS - INDEFERIMENTO DA INICIAL - DECISÃO NÃO PASSÍVEL DE RECURSO. A decisão que indefere a inicial da ação d produção antecipada de provas não desafia qualquer recurso, haja vista que tal decisão não se enquadra na previsão expressa do art. 381, § 4º do Código de Processo Civil de 2015.
+V.V. AGRAVO INTERNO EM APELAÇÃO - AÇÃO DE PRODUÇÃO ANTECIPADA DE PROVA - INDEFERIMENTO DA INICIAL - RECURSO - CABIMENTO - DECISÃO DE INADMISSIBILIDADE TOTAL DA PROVA - EXCEÇÃO DO ART. 382, §4º, DO CPC. 1. Nos termos do §4º, do art.
+382, do CPC, no procedimento probatório autônomo não se admitirá defesa ou recurso, salvo contra decisão que indeferir totalmente a produção da prova pleiteada pelo requerente originário. 2. A sentença de indeferimento da inicial, em razão de ausência de interesse processual, acarreta, por consequência lógica, a inadmissibilidade total da prova requerida, logo, cabível o recurso de apelação." (e-STJ, fl. 253)
+Em suas razões recursais, o recorrente aponta violação aos arts. 20 do Código de Processo Civil de 1973, 381, 382, §4º, 396 do Código de Processo Civil de 2015 e divergência jurisprudencial, sustentando, em síntese, (a) que a decisão que indefere a produção antecipada de provas e indefere a petição inicial é recorrível, (b) que houve procedimento extrajudicial em que se requereu da parte adversa a entrega de documentos cujo acesso é restrito, restando configurados o direito de se obter os referidos documentos e a pretensão resistida e (c) que os ônus da sucumbência devem recair sobre a parte agravada.
+Opostos embargos de declaração, os mesmos foram rejeitados (e-STJ, fls. 293/299).
+É o relatório. Passo a decidir.
+Conforma consta na sentença proferida nos autos, a ação em que se pretendia a produção antecipada de prova foi indeferida em razão da constatação de ausência dos requisitos legais (fundado risco do documento, impossibilidade de obtenção incidental e ausência de requerimento na esfera administrativa) e falta de interesse processual, in verbis:
+"Quer o autor através da presente ação a que nomeia de Produção Antecipada de Prova a exibição de cópia do procedimento administrativo que deu origem ao recebimento do seguro DPVAT, justificando a necessidade e utilidade da medida na possibilidade de se ajuizar ação para receber o seguro, para obter auxílio previdenciário ou para simplesmente guardá-lo.
+(..)
+Mas, é óbvio que in casu esse risco não existe, já que a exibição do documento pode se dar incidentalmente, nos termos do artigo 396 e seguintes do mesmo código.
+Nesse caso o pedido está fundado nos incisos II e III.
+Sim, porque é óbvio que in casu tanto o risco do documento se perder não existe, como não se pode ver a utilidade de possibilitar a autocomposição ou justificar o ajuizamento da ação se a exibição do documento pode se dar incidentalmente e se a documentação está mantida sob a guarda de do réu.
+Para se pretendê-la de modo autônomo ou antecedente é preciso satisfazer aqueles requisitos. E sem a mais tênue indicação de contenciosidade e sem que houvesse demonstração da utilidade do provimento ele não pode ser albergado judicialmente Por fim, o requerimento feito na esfera administrativa subscrito por advogado (ID nº 58077360), a quem deveriam ser encaminhados e sem a correspondente procuração pública não se presta sequer a provar a relação de causalidade a justificar o presente pedido ou a autorizar a condenação da parte em honorários sucumbenciais, se os documentos solicitados, por conterem informações médicas, estão sob proteção do sigilo.
+Falecendo, pois, ao autor o interesse processual, INDEFIRO A PETIÇÃO INICIAL, com fundamento no artigo 330, inciso III do Código de Processo Civil.
+Custas pela parte autora, ficando isenta do recolhimento por deferir-lhe o benefício da Justiça Gratuita." (e-STJ, fls. 28/30)".
+Desse modo, tem-se que o conteúdo da sentença implicou no indeferimento do pedido de produção antecipada de provas por ausência dos requisitos legais.
+Nesse ponto, a decisão está em contrariedade ao entendimento desta Corte Superior, no sentido de que é cabível a interposição de recurso quando a decisão proferida denegar o pleito formulada em procedimento de produção antecipada de prova.
+Nesse sentido:
+RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO DE PRODUÇÃO ANTECIPADA DE PROVAS. RECORRIBILIDADE. DIREITO À PRODUÇÃO DA PROVA. ART. 382, § 4º, DO CPC. CONTRADITÓRIO. VULNERAÇÃO. RECURSO ESPECIAL PROVIDO.
+1. A questão controvertida consiste em definir se seria possível, em interpretação sistemática do Código de Processo Civil, admitir o contraditório no procedimento de produção antecipada de prova, a despeito da literalidade do art. 382, § 4º, do CPC segundo o qual "neste procedimento, não se admitirá defesa ou recurso, salvo contra decisão que indeferir totalmente a produção da prova pleiteada pelo requerente originário".
+2. A melhor interpretação do dispositivo é aquela que não veda em absoluto a resistência à decisão que defere a produção antecipada de provas, admitindo-se o afastamento da limitação de recorribilidade na hipótese em que a parte em face da qual é deferida a produção de provas pretende questionar a própria presença dos requisitos que autorizam a propositura da referida ação.
+3. Recurso especial conhecido e provido.
+(REsp n. 2.043.440/RJ, relatora Ministra MARIA ISABEL GALLOTTI, QUARTA Turma, julgado em 29/11/2023, DJe de 23/1/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRODUÇÃO ANTECIPADA DE PROVAS. DEFERIMENTO. AGRAVO DE INSTRUMENTO. NÃO CABIMENTO. FUNDAMENTO NÃO ATACADO. SÚMULA Nº 283/STF.
+1. Não pode ser conhecido o recurso especial que não traz impugnação específica dos fundamentos suficientes do acórdão recorrido, atraindo a incidência, por analogia, da Súmula nº 283/STF.
+2. Na hipótese, o acórdão recorrido está alinhado com o entendimento do Superior Tribunal de Justiça no sentido de que, em procedimento de produção antecipada de prova, somente é cabível a interposição de recurso quando a decisão proferida denegar o pleito formulado. Precedentes.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.123.951/MG, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 16/10/2023, DJe de 19/10/2023.)
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para, determinar o retorno dos autos para apreciação do recurso interposto pela recorrente na origem.
+Publique-se.
+EMENTA
