@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJMG assim ementado (e-STJ fl. 1.263):
+EMENTA: EMENTA: APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER - INOVAÇÃO RECURSAL - PRODUÇÃO PROVA - PRECLUSÃO - PLANO DE SAÚDE - FORNECIMENTO DE MEDICAMENTO - DERMATITE ATÓPICA - NEGATIVA DE COBERTURA - ROL DA ANS - PRESCRIÇÃO POR MÉDICO CREDENCIADO - EQUILÍBRIO CONTRATUAL - DIGNIDADE DA PESSOA.
+Nos termos dos artigos 1.013, § 1º e 1.014 do CPC, compete ao Tribunal analisar, ressalvada ocorrência de fato superveniente ou motivo de força maior, apenas as questões suscitadas e discutidas no curso da lide, sob pena de se consumar inovação em sede recursal, bem como violação ao duplo grau de jurisdição e ampla defesa. Se a parte é intimada para especificar e justificar as provas que pretende produzir e pugna pelo julgamento antecipado, submete-se aos efeitos da preclusão lógica e consumativa.
+Os embargos de declaração foram rejeitados com imposição de multa (e-STJ fls. 1.313/1.328).
+Nas razões do especial (e-STJ fls. 1.331/1.354), fundamentado no art. 105, III, "a" e "c", da CF/1988, a parte recorrente aponta dissídio jurisprudencial e ofensa:
+(i) ao art. 10 do CPC/2015, argumentando que "a nota técnica em que se baseou o acórdão não havia sido previamente juntada aos autos, sendo mencionada pelo Magistrado apenas no voto condutor. Assim, o Julgador não deu às partes oportunidade de se manifestar previamente acerca do documento, o que viola o princípio da não surpresa" (e-STJ fl. 1.349),
+(ii) ao art. 1.026, § 2º, do CPC/2015, porque os aclaratórios de segunda instância visariam sanar omissões, bem como prequestionar a matéria, não sendo, por isso, protelatórios, motivo por que seria devido afastar a multa aplicada, e
+(iii) ao arts. 10, caput, VI, § 4º, e 35-G da Lei n. 9.656/1998 e 6º da LINDB, afirmando ser possível limitar o custeio do remédio - de uso domiciliar - descrito na exordial, sendo descabido aplicar retroativamente a Lei n. 14.454/2022, a fim de justificar tal condenação.
+Contrarrazões às fls. 1.374/1.392 (e-STJ).
+Decisão pela admissibilidade do recurso às fls. 1.533/1.536 (e-STJ).
+É o relatório.
+Decido.
+Conforme o entendimento desta Corte Superior, "é lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da Agência Nacional de Saúde Suplementar (ANS) para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN-ANS nº 338/2013 (atual art. 17, parágrafo único, VI, da RN-ANS nº 465/2021)" (AgInt nos EREsp 1.895.659/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 29/11/2022, DJe de 9/12/2022).
+Do mesmo modo:
+DIREITO CIVIL E CONSUMIDOR. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. DIABETES MELLITUS TIPO 1. BOMBA INFUSORA DE INSULINA. USO DOMICILIAR. AUTOADMINISTRAÇÃO. EXCLUSÃO DE COBERTURA. POSSIBILIDADE. NEGATIVA LEGÍTIMA. AGRAVO INTERNO PROVIDO.
+1. "É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da Agência Nacional de Saúde Suplementar (ANS) para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN-ANS nº 338/2013 (atual art. 17, parágrafo único, VI, da RN-ANS nº 465/2021)" (AgInt nos EREsp 1.895.659/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 29/11/2022, DJe de 9/12/2022).
+2. Conforme entendimento de ambas as Turmas que compõem a Segunda Seção do STJ, não há obrigatoriedade de cobertura de bomba infusora de insulina (e insumos), por se tratar de equipamento de uso domiciliar.
+3. Agravo interno provido.
+(AgInt no REsp n. 1.933.209/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/6/2023, DJe de 19/6/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. MEDICAMENTO PARA USO DOMICILIAR. EXCLUSÃO DE COBERTURA LÍCITA. INTERPRETAÇÃO DE CLÁUSULAS DO CONTRATO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Conforme entendimento do Superior Tribunal de Justiça, "é lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no Rol da ANS para esse fim" (REsp 1692938/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/4/2021, DJe 4/5/2021).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.124.296/GO, relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 12/6/2023, DJe de 15/6/2023.)
+O TJMG dissentiu de tal entendimento, porque condenou a recorrente ao custeio do medicamento - de uso domiciliar - descrito na exordial. Confira-se o seguinte trecho (e-STJ fl. 1.275):
+De igual forma não merece prosperar a alegação de que o medicamento é de uso domiciliar e que, portanto, não há obrigatoriedade no seu fornecimento. Conforme já mencionado, embora os planos de saúde possam, por expressa disposição contratual, restringir as enfermidades a serem cobertas, não podem limitar os tratamentos a serem realizados. Com efeito, a operadora de saúde deve arcar com a cobertura de medicamento prescrito pelo médico para o tratamento do beneficiário, sendo ele "off label", de uso domiciliar ou não, previsto no rol da ANS, mormente em se tratando de médico credenciado pela própria operadora.
+Com efeito, por se tratar de medicamento apontado pelo médico como essencial ao tratamento da paciente, o simples fato de não constar do rol da ANS ou ser de uso domiciliar não exime o plano de saúde de autorizar e promover a cobertura pleiteada. Ademais, o tratamento domiciliar sugere mais econômico para o recorrente e mais humano para a paciente.
+Em tais condições, impõe-se a reforma do aresto impugnado, a fim de excluir o dever de a recorrente custear o fármaco mencionado.
+A multa do art. 1.026, § 2º, do CPC/2015 (CPC/1973, art. 538) deve ser afastada.
+Da nova análise da petição dos embargos de declaração opostos às fls. 1.287/1.293 (e-STJ), verifica-se que o intu ito da embargante era, manifestamente, prequestionar as teses que seriam apresentadas no recurso especial.
+Sendo assim, incide a Súmula n. 98/STJ.
+Prejudicada a análise da alegada ofensa ao art. 10 do CPC/2015, à luz do que orienta o art. 282, § 2º, do NCPC.
+Ante o exposto, DOU PROVIMENTO ao recurso especial, a fim de afastar a multa do art. 1.026, § 2º, do CPC/2015, assim como para excluir o dever de a recorrente custear o medicamento descrito na exordial e, por consequência, julgar improcedente a demanda autoral.
+Condeno a parte recorrida no pagamento das custas e dos honorários advocatícios, os quais fixo em 10% (dez por cento) do valor atualizado da causa, com fundamento no art. 85, § 2º, do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
