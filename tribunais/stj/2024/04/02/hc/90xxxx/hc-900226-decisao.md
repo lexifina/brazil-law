@@ -1,0 +1,54 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de LUCAS ROCHA BATISTA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - TJSP no julgamento da apelação criminal n. 1509365-96.2023.8.26.0228.
+Conta dos autos que o paciente foi condenado pela prática do delito tipificado no art. 155, § 4º, IV, c/c. art. 14, II, ambos do Código Penal - CP (furto qualificado tentado), às penas de 1 ano, 2 meses e 12 dias de reclusão, em regime inicial fechado, e 6 dias-multa, à razão mínima (fl. 16).
+Recurso de apelação interposto pela defesa foi desprovido, em acórdão assim ementado:
+"FURTO QUALIFICADO TENTADO. Autoria e materialidade demonstradas. Réu com múltipla reincidência, inclusive em furto qualificado.
+Condenação e penas mantidas. Desprovimento do apelo defensivo." (fls. 20/22).
+No presente writ (fls. 3/9), a defesa aduz que "a r. sentença condenatória fixou o regime prisional fechado para o desconto inicial da reprimenda, em clara violação ao disposto no art. 33, §2º, e art. 59, ambos do Código Penal". Alega que o paciente faz jus ao regime inicial semiaberto, pois teve sua pena fixada em patamar inferior a 4 anos e não foram reconhecidas circunstâncias judiciais negativas. Afirma que tão só o fato de ser multirreincidente não autoriza a aplicação do regime fechado.
+Requer, em liminar e no mérito, a fixação do regime inicial semiaberto.
+É o relatório. Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+No tocante ao regime prisional, o Tribunal de Justiça registrou:
+"A base foi fixada no mínimo legal.
+Na segunda etapa foi reconhecida a atenuante da confissão espontânea e compensada parcialmente com a múltipla reincidência (duas condenações definitivas, por furto qualificado e tráfico de drogas, certificadas nos autos a fls. 66/67), elevando-se a pena em1/5.
+Na última fase, a pena foi reduzida em1/2pelatentativa, justificando-se a fração escolhida pela proximidade de consumação do delito, visto que os réus já tinham quebrado o vidro do veículo, apenas não o subtraindo porque populares perceberam a ação.
+Fica mantido o regime inicial fechado diante da múltipla reincidência, inclusive por furto qualificado, o que afasta a aplicação da Súmula nº 269 do C. STJ." (fl. 21).
+Na sentença, por sua vez, constou o seguinte:
+"Na primeira fase de dosimetria, as circunstâncias judiciais não se revelaram desfavoráveis no caso concreto, motivo pelo qual fixo a pena-base no mínimo legal em02 anos de reclusão e 10 dias-multa.
+Na segunda fase de dosimetria, verifico pelo menos outras duas condenações configuradoras de reincidência  .. . Por outro lado, presente a atenuante da confissão espontânea.
+Não acolho o pedido defensivo de compensação integral, ante o entendimento do Superior Tribunal de Justiça, que no julgamento do REsp 1.931.145 revisa e atualiza o Tema 585 (Resp.Repetitivo 1.341.370-MT) para adequar o texto à hipótese de multirreincidência, como a presente, estabelecendo que "nos casos de multirreincidência, deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade". Assim, compenso uma das certidões configuradoras de reincidência com a atenuante da confissão espontânea, remanescendo uma segunda, razão pela qual agravo a pena em 1/5, atingindo 02 anos, 04 meses e 24 dias de reclusão e 12 dias-multa.
+Na terceira fase de dosimetria, não há causas de aumento. Reconhecida na fundamentação a tentativa, diminuo a pena no patamar intermediário de  , considerando o iter criminis percorrido, perfazendo pena definitiva em 01 ano, 02 meses e 12 dias de reclusão e 06 dias-multa.
+Fixo os dias-multa no mínimo legal.
+Considerando a multirreincidência do réu, fixo o regime fechado para início de cumprimento de pena, único adequado ao caso concreto, especialmente ante a evidência de reiteração delitiva" (fls. 14/15).
+Extrai-se, dos trechos acima, que o regime inicial fechado foi justificado apenas em face da multirreincidência do paciente, muito embora tenha sido condenado à pena de reclusão inferior a 4 anos e, na primeira fase da dosimetria, não tenha sido reconhecida qualquer circunstância judicial negativa.
+De fato, tem razão a defesa.
+Nos termos da Súmula n. 269 deste Sodalício, " é  admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais". A multirreincidência, por si só, não afasta o referido enunciado sumular, consoante precedentes desta Corte:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO QUALIFICADO PELO ROMPIMENTO DE OBSTÁCULO. BAIXO VALOR FURTADO. RESTITUIÇÃO INTEGRAL À VÍTIMA. MULTIRREINCIDÊNCIA EM DELITOS PATRIMONIAIS. PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE.
+1. Mesmo que o baixo valor furtado tenha sido restituído à vítima, verifica-se maior reprovabilidade da conduta quando o furto é praticado mediante rompimento de obstáculo, ainda mais quando o agente é multirreincidente em delitos patrimoniais.
+2. Trata-se de furto qualificado e, embora se trate da subtração de R$ 102,00 em espécie, quantia inferior a 10% do salário mínimo à época, a multirreincidência, cujas condenações anteriores foram de três furtos qualificados e um simples, constitui fundamento idôneo a afastar a aplicação do princípio da insignificância.
+3. Ainda que a pena imposta seja inferior a 4 anos de reclusão, a reincidência é fundamento idôneo para justificar a fixação do regime inicial semiaberto.
+4. Agravo regimental improvido.
+(AgRg no HC n. 690.832/SC, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 23/11/2021, DJe de 1/12/2021.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EFEITO DEVOLUTIVO DA APELAÇÃO. SITUAÇÃO DO RÉU NÃO AGRAVADA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. MULTIRREINCIDÊNCIA. COMPENSAÇÃO INTEGRAL ENTRE CONFISSÃO E REINCIDÊNCIA. NÃO CABIMENTO. SÚMULA N. 269 DO STJ. REGIME PRISIONAL SEMIABERTO. MULTIRREINCIDÊNCIA. JURISPRUDÊNCIA DO STJ.
+1. O efeito devolutivo do recurso de apelação possibilita ao tribunal de origem, mesmo em recurso exclusivo da defesa, revisar a dosimetria das penas impostas e o regime prisional, desde que não agrave a situação final do réu, hipótese em que não há reformatio in pejus.
+2. Constatada a multirreincidência, não é cabível a compensação integral entre a atenuante da confissão e a agravante da reincidência.
+3. "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais" Súmula n. 269 do STJ).
+4. Sendo favoráveis as circunstâncias judiciais e tendo a pena-base sido fixada no mínimo, é cabível a fixação do regime semiaberto, inclusive quando constatada a multirreincidência do acusado.
+5. Agravo regimental parcialmente provido.
+(AgRg no HC n. 580.942/SC, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 20/10/2020, DJe de 22/10/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESACATO. MULTIRREINCIDÊNCIA QUE JUSTIFICA O RECRUDESCIMENTO DO REGIME E IMPEDE A SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. BIS IS IDEM. INOCORRÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Segundo o enunciado n. 440 da Súmula desta Corte, fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito. Na mesma esteira, as Súmulas n. 718 e 719 do Supremo Tribunal Federal.
+2. No caso dos autos, não obstante a pena-base tenha sido fixada no mínimo legal e esteja abaixo do patamar de 4 anos de reclusão, a multirreincidência do recorrente é elemento apto a justificar a fixação de regime mais gravoso, no caso o semiaberto, do mesmo modo que também pode operar como óbice à substituição da pena restritiva de liberdade por restritiva de direitos.
+3. A fixação do regime prisional segue as regras do artigo 33 do Código Penal. A dosimetria da pena, por sua vez, respeita os critérios definidos pelos arts. 59 e 68 do Código Penal. Assim, inexiste bis in idem quando a reincidência é utilizada para agravar a pena, na segunda fase da dosimetria da pena, e, novamente, para fundamentar o regime mais gravoso.
+4. Agravo regimental não provido.
+(AgRg no HC n. 615.513/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/10/2020, DJe de 15/10/2020.)
+AGRAVO REGIMENTAL NOS EMBARGOS DECLARATÓRIOS NO HABEAS CORPUS. CRIME DE POSSE ILEGAL DE MUNIÇÃO DE USO PERMITIDO. CRIME DE PERIGO ABSTRATO. 3 CARTUCHOS CALIBRE 9MM. AGENTE CONTUMAZ NA PRÁTICA DE DELITOS. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO APLICAÇÃO. MULTIRREINCIDÊNCIA. CONFISSÃO. COMPENSAÇÃO PARCIAL. REGIME INICIAL SEMIABERTO. FUNDAMENTAÇÃO CONCRETA. REINCIDÊNCIA E CIRCUNSTÂNCIA DESFAVORÁVEL. ATIPICIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O princípio da insignificância é parâmetro utilizado para interpretação da norma penal incriminadora, buscando evitar que o instrumento repressivo estatal persiga condutas que gerem lesões inexpressivas ao bem jurídico tutelado ou, ainda, sequer lhe causem ameaça.
+2. Nos termos da jurisprudência desta Casa, a reiteração delitiva pode impedir a incidência do princípio da insignifícância, visto que o referido postulado não busca resguardar condutas habituais juridicamente desvirtuadas, mas sim impedir que desvios de conduta irrisórios e manifestamente irrelevantes sejam alcançados pelo Direito Penal.
+3. Tratando-se de réu multirreincidente, cabível a compensação parcial da atenuante da confissão espontânea com a agravante da reincidência, bem como a fixação de regime inicial imediatamente mais gravoso, o semiaberto.
+4. Agravo regimental improvido.
+(AgRg nos EDcl no HC n. 569.254/SC, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 8/9/2020, DJe de 14/9/2020.)
+Dessa forma, uma vez que o réu foi condenado à pena de 1 ano, 2 meses e 12 dias de reclusão, bem como sua pena-base foi fixada no mínimo legal em razão da inexistência de circunstâncias judiciais negativas, deve ser fixado o regime inicial semiaberto, a despeito da multirreincidência.
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, defiro liminarmente, de ofício, a ordem de habeas corpus para fixar o regime semiaberto para início do cumprimento de pena pelo paciente.
+Publique-se. Intimem-se.
+EMENTA
