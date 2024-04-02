@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO BRADESCO S/A com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado do Acre assim ementado:
+"DIREITO EMPRESARIAL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. CONCESSÃO. REGULARIDADE TRIBUTÁRIA. PLANO DE REESTRUTURAÇÃO. VIABILIDADE ECONÔMICO-FINANCEIRA. JUROS DE u e as MORA. GARANTIAS REAIS. SUPRESSÃO. CONTROLE DE LEGALIDADE PELO JUDICIÁRIO.
+1. O controle de legalidade que o Judiciário pode empreender sobre o plano de recuperação é restrito, o que implica se limitar à observância de eventual abuso de direito ou de fraude à lei, sem avançar para a própria investigação sobre a viabilidade econômico-financeira do que foi decidido pela assembleia de credores.
+2. A regularidade fiscal não constitui requisito intransponível para a concessão da recuperação judicial.
+3. Recurso conhecido e desprovido." (e-STJ,fl. 100)
+Em suas razões recursais, a recorrente aponta violação dos arts. 49, § 1º, 59 da lei 11.101/2005 e Sumula 581/STJ, e divergência jurisprudencial, sustentando, em síntese, que muito embora o plano de recuperação judicial opere a novação das dívidas a ele submetidas, as garantias reais ou fidejussórias prestadas por terceiros em favor do devedor são preservadas, o que possibilita ao credor exercer (ou continuar exercendo) seus direitos contra os garantidores e impõe a manutenção das ações e execuções aforadas em face de fiadores, avalistas ou coobrigados em geral.
+Defende que a decisão do juízo de piso diverge do entendimento deste Egrégio Superior Tribunal de Justiça, requerendo a anulação excluir dos efeitos da recuperação judicial aos coobrigados e garantidores.
+É o relatório. Passo a decidir.
+Como visto, o recorrente defende , em síntese, que a novação das dívidas submetidas ao plano de recuperação judicial não alcança as ações e execuções aforadas em face de fiadores, avalistas ou coobrigados em geral.
+Ocorre que, no caso dos autos, ao contrário do que alega o recorrente, a Corte de origem não reconheceu que teriam sido atingidas pela novação as ações e execuções aforadas em face de fiadores, avalistas ou coobrigados em geral, mas sim que o recorrente não demonstrou que o seu crédito é dotado de garantia real, senão vejamos:
+"No mais, o agravante não demonstrou que o seu crédito é dotado de garantia real, de modo que a supressão de garantias de tal natureza nenhum prejuízo é capaz de ocasionar o à sua esfera jurídica." (e-STJ fls. 110)
+Assim, tem-se que as razões expostas no recurso especial encontravam-se dissociadas do que fora decidido pela Corte de origem.
+É assente nesta Corte que é inadmissível o recurso especial quanto à questão que não foi apreciada pelo Tribunal de origem, incidindo na espécie as Súmulas n. 282 e 356/STF.
+Ademais, no presente caso, incide também a Súmula n. 284/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia ". Neste sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA PARA CIRURGIA EM HOSPITAL CREDENCIADO. ENFERMIDADE COBERTA PELO PLANO. ILEGALIDADE COMPROVADA. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO. APLICAÇÃO DA SÚMULA 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO NÃO PROVIDO.
+1. Consoante a jurisprudência do STJ, é abusiva a exclusão do custeio dos meios e materiais necessários ao melhor desempenho do tratamento clinico ou do procedimento cirúrgico relativos a doença coberta pelo contrato de plano de saúde, hipótese na qual o ressarcimento dos gastos realizados pelo beneficiário deve ser integral. Precedentes.
+2. A Corte de origem, analisando o acervo fático-probatório dos autos, concluiu que o estabelecimento médico pelo qual optou a autora era conveniado à rede credenciada da requerida e dispunha de condições para a realização do procedimento médico em questão. Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. É inadmissível o inconformismo por deficiência na sua fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284 do Supremo Tribunal Federal.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1809822/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 05/09/2019, DJe 25/09/2019) (grifei)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DO RÉU.
+1. Não há que cogitar nulidade da decisão monocrática, por suposta ofensa ao princípio da colegialidade. Isso porque a jurisprudência dominante do STJ autoriza o improvimento do recurso especial por meio de decisão monocrática, estando o princípio da colegialidade preservado ante a possibilidade de submissão da decisão singular ao controle recursal dos órgãos colegiados.
+2. O julgador não fica obrigado a se manifestar sobre todas as alegações das partes, nem a se ater aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, tampouco mencionar expressamente cada um dos artigos de lei invocados, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu no caso em apreço.
+3. Evidente a deficiência na fundamentação do apelo extremo, pois apresenta razões dissociadas do que foi decidido pelo acórdão recorrido, circunstância atrativa da Súmula 284/STF.
+4. O Tribunal fixou o valor da indenização, de acordo com as peculiaridades do caso em concreto, seguindo os princípios da razoabilidade e proporcionalidade. Para que se possa rever tal quantia, se faz necessário o reexame dos fatos e provas constantes dos autos, medida defesa em recurso especial por incidência da Súmula 7/STJ.
+5. Consoante iterativa jurisprudência desta Corte, a incidência do referido óbice impede a admissão do recurso especial tanto pela alínea a quanto pela alínea c do inciso III do art. 105 da Constituição Federal. Precedentes.
+6. Agravo interno desprovido.
+(AgInt no AREsp 1172964/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/05/2019, DJe 04/06/2019) (grifei)
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
