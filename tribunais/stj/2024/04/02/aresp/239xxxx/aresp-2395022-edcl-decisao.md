@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de embargos de declaração (fls. 844-850) opostos por ESPACIAL DESENVOLVIMENTO IMOBILIÁRIO LTDA contra decisão (fls. 838-841), desta relatoria, que conheceu do agravo para negar provimento ao recurso especial, aos seguintes fundamentos:.
+a) inexistência de violação aos arts. 489 e 1.022 do CPC/15, uma vez que o eg. TJ-RN analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação; e
+b) a remansosa jurisprudência deste Tribunal firmou-se no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante.
+Nas razões recursais, ESPACIAL DESENVOLVIMENTO IMOBILIÁRIO LTDA aponta a existência de omissão, afirmando, em síntese, que "(..) a ora Embargante explicitou 8 (oito) vícios de fundamentação, entre eles, diversas premissas fáticas equivocadas e omissões incorridas pelo Tribunal a quo que, sem dúvidas, possuíam o condão de levar ao provimento do Recurso interposto" (fls. 846 - destaques no original).
+Aduz, também, que "(..) ao deixar de apreciar cada uma das omissões e dos erros apontados, resumindo-se anegar provimento ao Recurso Especial fundando-se na apertada conclusão de que o Tribunal a quo havia, supostamente, "fundamentado adequadamente" o Acórdão recorrido, esta douta Relatoria deixou de enfrentar a integralidade dos argumentos invocados pela parte Embargante/Recorrente que, sem sombra de dúvidas, levariam ao provimento do Recurso interposto" (fls. 847 - destaques no original).
+Não foi oferecida impugnação (vide certidão à fl. 854).
+É o relatório. Passo a decidir.
+Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição ou omissão no julgado (CPC/15, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+No caso, inexiste vício na decisão vergastada, a qual possui clara fundamentação, conhecendo do agravo para conhecer em parte do recurso especial, e na parte conhecida, rejeitar a alegada violação aos arts. 489 e 1.022 do CPC/15. É o que se infere da leitura do seguinte trecho da decisão embargada (fls. 839-840):
+"No caso, deve ser rejeitada a alegada violação aos arts. 489 e 1.022 do CPC/15, uma vez que o eg. TJ-RN analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação, como se infere da leitura do seguinte trecho do v. acórdão estadual (fls. 691-695):
+"21. A questão trazida ao debate nos autos concerne à rescisão contratual sob alegação de descumprimento no prazo de entrega de unidade imobiliária, com a consequente restituição integral dos valores pagos, além de danos morais.
+22. Com efeito, as partes celebraram contrato de promessa de compra e venda de bem imóvel denominado Lote 080-B, Via 02 do "Condomínio Residencial Vila dos Ventos" situado na Avenida Mario Negócio(antiga Estrada Municipal e antiga Estrada para Japecanga), bairro de Nova Esperança, Parnamirim/RN, no valor de R$ 80.000,00 (oitenta mil reais).
+23. Ocorre que a parte autora, ora apelante/apelado, tomou conhecimento que a licença ambiental para autorizar a construção do seu imóvel expirou em 11/05/2013, ou seja antes da celebração do contrato de compra e venda celebrado no ano de 2016.
+24. Com efeito, a documentação acostada evidencia a má-fé da empresa ao realizar a venda e um lote para construção de imóvel com licença ambiental vencida, motivo que justifica a rescisão contratual, não sendo qualquer cabível retenção pela parte demandada, ora apelante/apelado.
+25. Trata-se de descumprimento contratual da construtora por não está com a documentação em dia na venda de um empreendimento, que, decerto, causa ao promitente comprador abalos morais pela expectativa frustrada.
+26. Portanto, a construtora deixou de adimplir com obrigação contratual que lhe competia, concedendo, com isso, a possibilidade, sim, do consumidor optar por desfazer o negócio, rescindindo o contrato por culpa exclusiva da construtora, ora recorrente.
+27. Neste desiderato, a pretensão de condenação em dano moral merece ser estabelecida, uma vez que infundado atraso em disponibilizar a infraestrutura adequada no empreendimento fz inevitavelmente surgir o dever de reparar os danos sofridos pelo autor, ora apelante/apelado, decorrente da impossibilidade de uso do bem, quer seja para moradia, para locação ou mesmo para especulação por meio de posterior comercialização do bem.
+28. Nessa conjectura, o posicionamento linearmente adotado por esta Corte é de reconhecer, nos termos dos arts. 475 e 927, ambos do Código Civil, o dever de indenizar da construtora que descumpre obrigação de fazer, injustificadamente atrasando a entrega de imóvel, violando assim a boa-fé objetiva e agindo com abuso de direito na relação contratual, gerando ao promitente comprador abalos de ordem material.
+29. Nesse sentido, destaco a jurisprudência deste Tribunal de Justiça:
+(..)
+30. No caso concreto, pois, há que se falar em modificação da sentença quanto à condenação por danos morais, sobretudo porque decorreu por culpa da construtora.
+(..)
+34. Em relação ao indenizatório por danos quantum morais, há que se utilizar dos princípios da razoabilidade e proporcionalidade, uma vez que não existem critérios taxativos que fixem os parâmetros da indenização, deve ser fixado o montante de R$ 6.000,00 ( mil reais) seis considerando as peculiaridades do caso explanadas na sentença.
+35. Diante do exposto, voto pelo conhecimento e desprovimento da apelação cível interposta por ESPECIAL DESENVOLVIMENTO IMOBILIÁRIO LTDA e, voto pelo conhecimento e provimento do recurso interposto por CLAUDIO DIAS FERREIRA para restituir de forma integral do valor pago pelo contrato celebrado, bem como ao pagamento da indenização por danos morais no valor de R$ 6.000,00 (seis mil reais), acrescidos de juros de mora e correção monetária." (g. n)
+Importante salientar, ainda, que esta Corte é pacífica no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante. Nesse sentido, colhem-se os recentes julgados:
+(..)"
+(destaques no original)
+Nesse contexto, tem-se que as razões apresentadas nos embargos de declaração não evidenciam a existência de nenhum dos vícios previstos no art. 1.022 do CPC/15.
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
