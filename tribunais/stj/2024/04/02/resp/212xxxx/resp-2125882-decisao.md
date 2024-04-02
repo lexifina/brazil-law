@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por SERGIO SOBREIRA PEREIRA com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA C/C REPETIÇÃO DO INDÉBITO E INDENIZATÓRIA POR DANO MORAL. AUTOR ALEGA QUE VEM SOFRENDO DESCONTOS INDEVIDOS EM SEUS PROVENTOS DE APOSENTADORIA REFERENTES A EMPRÉSTIMO QUE NÃO TERIA CONTRATADO. SENTENÇA DE PROCEDÊNCIA DECLARANDO A INEXISTÊNCIA DE RELAÇÃO JURÍDICA E CONDENANDO A RÉ A RESTITUIR EM DOBRO OS VALORES DESCONTADOS INDEVIDAMENTE, BEM COMO A APAGAR INDENIZAÇÃO POR DANO MORAL. RECURSO DA RÉ. RELAÇÃO DE CONSUMO. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. RESPONSABILIDADE CIVIL OBJETIVA QUE SOMENTE É AFASTADA SE COMPROVADA A EXISTÊNCIA DE ALGUMA CAUSA EXCLUDENTE DO NEXO CAUSAL PREVISTA NO ARTIGO 14, §3º, DO CDC. PROVA PERICIAL DEMONSTRANDO A FALSIDADE DA ASSINATURA ATRIBUÍDA AO AUTOR. HIPÓTESE QUE NÃO CONFIGURA CULPA EXCLUSIVA DE TERCEIRO. TEORIA DO RISCO DO EMPREENDIMENTO. FORTUITO INTERNO. REPETIÇÃO DO INDÉBITO EM DOBRO, NOS TERMOS DO ARTIGO 42, PARÁGRAFO ÚNICO, DO CDC. AUSÊNCIA DE ENGANO JUSTIFICÁVEL. DANO MORAL NÃO CONFIGURADO. AUSÊNCIA DE NOTÍCIA DE QUE OS DESCONTOS TERIAM COMPROMETIDO A SUBSISTÊNCIA DO AUTOR. INEXISTÊNCIA DE LESÃO A DIREITO DA PERSONALIDADE. PROVIMENTO PARCIAL DO RECURSO
+Nas razões do recurso especial, a parte recorrente alega, além de dissídio jurisprudencial, ofensa ao art. 6º, VIII, do CDC. Sustenta, em síntese, que faz jus aos danos morais pleiteados, haja vista os descontos indevidos por fraude bancária.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+O Tribunal de origem, analisando as circunstâncias do caso, afastou a condenação por danos morais, como se vê do trecho abaixo transcrito:
+Entretanto, assiste razão ao recorrente no que se refere à inexistência de dano moral, uma vez que a questão não extrapola a esfera patrimonial, considerando a ausência de qualquer informação no sentido de que os descontos indevidos tenham comprometido a subsistência do autor.
+Não se desconsidera que o desconto indevido de valores em folha de pagamento, somado ao fato de ter que acionar o Judiciário para ver resguardado o seu direito gere desgaste e aborrecimento, porém tais fatos, por si sós, não possuem o condão de causar qualquer ofensa a direitos decorrentes da personalidade humana, como honra, imagem, intimidade, nome etc.
+Diante do exposto, voto pelo conhecimento e parcial provimento do recurso, para julgar improcedente o pedido de indenização por dano moral.
+Sobre o tema, tem-se que a jurisprudência desta Corte se firmou no sentido de que a fraude bancária, ensejadora da contratação de empréstimo consignado, por si só, não é suficiente para configurar o dano moral, havendo necessidade de estar aliada a circunstâncias agravantes.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITOS CUMULADA COM DANOS MORAIS. DESCONTO INDEVIDO. BENEFÍCIO PREVIDENCIÁRIO. DANO MORAL INEXISTENTE. MERO ABORRECIMENTO. SÚMULA 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A caracterização do dano moral exige a repercussão na esfera dos direitos da personalidade.
+2. Nessa perspectiva, a fraude bancária, ensejadora da contratação de empréstimo consignado, por si só, não é suficiente para configurar o dano moral, havendo necessidade de estar aliada a circunstâncias agravantes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.157.547/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/12/2022, DJe de 14/12/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. INDENIZAÇÃO. FRAUDE BANCÁRIA. CONTRATAÇÃO DE EMPRÉSTIMOS. ALEGAÇÃO DE OFENSA À SÚMULA N. 479 DO STJ. SÚMULA N. 518 DO STJ. INCIDÊNCIA. DESCONTO INDEVIDO EM CONTA BANCÁRIA. NÃO OCORRÊNCIA. DANO MORAL. NECESSIDADE DE COMPROVAÇÃO DO DANO SOFRIDO. PRESSUPOSTOS. REVISÃO. IMPOSSIBILIDADE. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. FALTA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS N. 211 DO STJ E 282 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. O recurso especial não é a via adequada para apreciar ofensa a enunciado de súmula, que não se insere no conceito de lei federal previsto no art. 105, III, a, da Constituição Federal (Súmula n. 518 do STJ).
+2. "A fraude bancária, ensejadora da contratação de empréstimo consignado, por si só, não é suficiente para configurar o dano moral, havendo necessidade de estar aliada a circunstâncias agravantes" (AgInt no AREsp n. 2.157.547/SC, Quarta Turma).
+3. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+4. A ausência de debate acerca dos dispositivos legais tidos por violados, a despeito da oposição de embargos declaratórios, inviabiliza o conhecimento da matéria na instância extraordinária, por falta de prequestionamento. Incidência das Súmulas n. 211 do STJ e 282 do STF.
+5. Apenas a indevida rejeição dos embargos de declaração opostos ao acórdão recorrido para provocar o debate da corte de origem acerca de dispositivos de lei considerados violados que versam sobre temas indispensáveis à solução da controvérsia permite o conhecimento do recurso especial em virtude do prequestionamento ficto (art. 1.025 do CPC), desde que, no apelo extremo, seja arguida violação do art. 1.022 do CPC.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.409.085/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 11/12/2023, DJe de 15/12/2023.)
+Estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ, que incide pelas alíneas "a" e "c" do permissivo constitucional.
+Ademais, a pretensão de modificar o entendimento firmado, quanto à ausência de danos morais, demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, nego provimento ao recurso especial
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios de 15% para 16% do valor estabelecido na origem, em desfavor do recorrente, observando eventual gratuidade de justiça, nos termos do art. 98, § 3º, do CPC/2015.
+Publique-se.
+EMENTA
