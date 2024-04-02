@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, impetrado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, cuja ementa teve o seguinte teor (fl. 47):
+APELAÇÃO CRIMINAL. CRIME CONTRA A SAÚDE PÚBLICA. TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI N. 11.343/2006). SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA.
+MATERIALIDADE E AUTORIA INCONTROVERSAS. RECURSO LIMITADO À REVISÃO DA DOSIMETRIA. ALMEJADA A CONCESSÃO DO TRÁFICO PRIVILEGIADO (ART. 33, § 4º, DA LEI N. 11.343/2006). BENEFÍCIO NEGADO EM PRIMEIRA INSTÂNCIA EM RAZÃO DA HABITUALIDADE CRIMINOSA. CRIME COMETIDO ENQUANTO O ACUSADO RESPONDIA EM LIBERDADE PROVISÓRIA, EM OUTRO PROCESSO, PELA SUPOSTA PRÁTICA DO CRIME DE TRÁFICO DE DROGAS. RECENTE ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA SOBRE A MATÉRIA. TEMA N. 1139. IMPOSSIBILIDADE DE UTILIZAÇÃO DE INQUÉRITOS OU AÇÕES PENAIS EM CURSO PARA IMPEDIR A APLICAÇÃO DO ART. 33, § 4.º, DA LEI N. 11.343/06. INEXISTÊNCIA, POR CONSEQUÊNCIA, DE PROVAS DA HABITUALIDADE DELITIVA. ABORDAGEM OCASIONAL. AUSÊNCIA DE PRÉVIA INVESTIGAÇÃO. NECESSIDADE DE CONCESSÃO DO BENEFÍCIO. FRAÇÃO DE 2/3 (DOIS TERÇOS) QUE SE MOSTRA ADEQUADA, DIANTE DA ÍNFIMA QUANTIDADE DE CRACK APREENDIDO (4,2G).
+REGIME DE CUMPRIMENTO DE PENA. ALTERAÇÃO PARA O ABERTO. INTELIGÊNCIA DO ART. 33, § 2º, "C", DO CÓDIGO PENAL. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. PREENCHIMENTO DOS REQUISITOS ESTABELECIDOS NO ART. 44 DO CÓDIGO PENAL.
+RECURSO CONHECIDO E PROVIDO.
+Consta dos autos que o paciente foi condenado à pena de 5 anos de reclusão, em regime inicial semiaberto, além do pagamento de 500 dias-multa, pela prática do delito de tráfico de drogas (no art. 33, caput, da Lei n. 11.343/2006).
+Inconformada, a combativa defesa interpôs recurso de apelação perante o Tribunal de origem, que por unanimidade de votos, deu provimento ao recurso, concedendo o benefício do tráfico privilegiado, mitigando à pena a 1 ano e 8 meses de reclusão, no regime aberto, além do pagamento de 167 dias-multa, substituindo a pena de prisão por 2 penas de prestação de serviços à comunidade.
+O impetrante aduz que opôs embargos de declaração para que o Tribunal de origem se manifestasse a respeito de ter deixado de converter o julgamento em diligência, a fim de intimar o Ministério Público na origem para propor de acordo de não persecução penal, os embargos foram conhecidos e rejeitados.
+Requer, liminarmente e no mérito, a concessão do presente writ, reconhecendo a ilegalidade do acórdão, suspender os efeitos da condenação até o julgamento final do habeas corpus e converter o julgamento em diligência, a fim de determinar a intimação do Parquet para oferecer acordo de não persecução penal ao paciente.
+Indeferida a liminar (fls. 263/264) e prestadas as informações (fls. 303/307), o Ministério Público Federal manifestou-se pela denegação da ordem (fl. 308/314).
+É o relatório.
+Decido.
+O Tribunal de origem assim dispôs sobre o não oferecimento do ANPP e sobre o reconhecimento da qualificadora impugnada (fls. 71/73):
+Preconiza o referido texto legal:
+Art. 28-A. Não sendo caso de arquivamento e tendo o investigado confessado formal e circunstancialmente a prática de infração penal sem violência ou grave ameaça e com pena mínima inferior a 4 (quatro) anos, o Ministério Público poderá propor acordo de não persecução penal, desde que necessário e suficiente para reprovação e prevenção do crime, mediante as seguintes condições ajustadas cumulativa e alternativamente:  ..
+É que a possibilidade de acordo de não persecução criminal só existe se a denúncia não houver sido recebida.
+In casu, o instituto não tem aplicação porque já recebida a vestibular delatória, com a prestação da tutela jurisdicional, inclusive em segundo grau, não cabendo, assim, o acordo de não persecução penal.
+No que diz respeito ao não oferecimento do ANPP, o Tribunal de origem entendeu que o acordo seria possível se a denúncia não tivesse sido recebida, ademais, conforme bem observado no parecer ministerial, "Em consulta ao andamento da apelação criminal, constatou-se que o acórdão transitou em julgado em 6/12/2023" (fl. 310).
+Com efeito, de fato, consta nas informações que a denúncia foi recebida em 14/06/2023 (fl. 271), ademais, foi certificado o trânsito e expedida guia de recolhimento provisória do paciente, o que denota o encerramento da prestação jurisdicional.
+Nesse contexto, "entende esta Corte que a retroatividade do art. 28-A do CPP, introduzido pela Lei n. 13.964/2019, revela-se incompatível com o propósito do instituto quando já recebida a denúncia e encerrada a prestação jurisdicional nas instâncias ordinárias, como ocorreu no presente feito (AgRg no AREsp 1.983.450/DF, Ministro Olindo Menezes, Desembargador convocado do TRF/1ª Região, Sexta Turma, DJe de 24/6/2022) - (REsp 1.874.525/SC, Ministro Sebastião Reis Junior, Sexta Turma, DJe 13/2/2023) (AgRg no REsp 2.011.688/SC, de minha relatoria, Sexta Turma, DJe 2/5/2023)." (AgRg no AgRg no REsp 2024168/RJ, Relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe 6/3/2024).
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
