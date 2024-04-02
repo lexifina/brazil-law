@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de MARCOS MATHEUS CANDIDA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Extrai-se dos autos que o paciente foi condenado à pena de 4 anos, 5 meses e 10 dias de reclusão, além do pagamento de 10 dias-multa, como incurso no art. 157, §§ 2º, inciso II, e 2º-A, inciso I, na forma do art. 14, inciso II, do Código Penal, em regime inicial fechado.
+A defesa interpôs recurso de apelação perante o Tribunal de origem, que negou provimento ao recurso, nos termos do acórdão de fls. 39-57 (e-STJ).
+Neste writ, a defesa alega, em síntese, alega ausência de fundamentação adequada para a imposição do regime prisional mais gravoso, ressaltando que o referido regime foi fixado com base na gravidade abstrata da conduta, que não justifica o seu agravamento, sob pena de ofensa ao disposto nas Súmulas 440/STJ e 718 e 719/STF.
+Aduz que, além de a pena-base ter sido fixada no mínimo legal, com todas as circunstâncias judiciais favoráveis, a quantidade da pena final imposta ao paciente é compatível com o regime prisional semiaberto.
+Requer a concessão da ordem para que seja fixado o regime semmiaberto.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+No caso dos autos, o regime inicial foi fixado na sentença e mantido no acórdão impugnado de acordo com a seguinte fundamentação, respectivamente:
+" ..
+Quanto ao regime inicial de cumprimento das penas, para o crime de roubo, mantém-se o fechado, por tratar-se de ilícito penal grave, que toda vez que é perpetrado fomenta ainda mais a crescente intranquilidade social. Outrossim, a periculosidade concreta dosapelantes, em perpetrar grave crime de roubo, em concurso de agentes e com emprego de arma de fogo, em plena via pública, reclama punição mais severa e efetiva.
+ .. " (e-STJ, fls. 56)
+De acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito".
+De igual modo, as Súmulas 718 e 719 do STF, prelecionam, respectivamente, que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+Na hipótese, os fundamentos utilizados para justificar o regime imposto ao paciente amparam-se na gravidade abstrata do delito e, portanto, não constituem motivação suficiente para justificar a imposição de regime prisional mais gravoso que o estabelecido em lei (art. 33, §§ 2º e 3º, do Código Penal), não tendo sido observado o teor da Súmula 440/STJ, bem como dos verbetes sumulares 718 e 719 do Supremo Tribunal Federal.
+Embora tenham sido mencionados no acórdão elementos concretos do fato, tais como uso de simulacro de arma de fogo, o concurso de agentes e a prática em via pública, tais circunstâncias não evidenciam, por si sós, uma gravidade concreta superior à inerente aos crimes de roubo.
+Desse modo, tratando-se de réus primários, sendo as circunstâncias judiciais favoráveis e tendo a pena final se estabelecido em patamar inferior a 8 anos de reclusão, deve o cumprimento da pena se iniciar no regime semiaberto.
+Nesse sentido:
+"AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. FIXAÇÃO DE REGIME MAIS GRAVOSO. GRAVIDADE ABSTRATA DO DELITO. FUNDAMENTAÇÃO INIDÔNEA. SÚMULA 718 E 719/STF E 440/STJ. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - A fixação de regime mais gravoso pressupõe a análise do quantum da pena, bem como das circunstâncias judiciais previstas no artigo 59 do mesmo diploma legal.
+II - Na hipótese, o regime fechado foi fixado com base em considerações vagas e genéricas relativas à gravidade abstrata do crime, em clara violação aos enunciados das Súmulas n. 718 e n. 719 do Supremo Tribunal Federal e Súmula n. 440 desta Corte Superior, configurando-se, assim, o constrangimento ilegal .
+III - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. Precedentes.
+Agravo Regimental desprovido." (AgRg no AgRg no HC n. 707.093/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 26/4/2022, DJe de 3/5/2022.);
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. FIXAÇÃO DO REGIME PRISIONAL MAIS GRAVOSO. PENA-BASE NO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. AUSÊNCIA DE MOTIVAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, o julgador deverá observar a quantidade da reprimenda aplicada, bem como a eventual existência de circunstâncias judiciais desfavoráveis (art. 59 do Código Penal). Ademais, na esteira da jurisprudência desta Corte, admite-se a imposição de regime prisional mais gravoso do que aquele que permite a pena aplicada, quando apontados elementos fáticos demonstrativos da gravidade concreta do delito, o que não ocorreu no caso em apreço.
+2. Da análise da fundamentação deduzida pela Corte estadual, verifica-se que o regime inicial fechado foi fixado com alicerce apenas nas elementares do tipo penal e na gravidade em abstrato do delito de roubo circunstanciado, sem indicar elementos concretos dos autos que demonstrassem a real necessidade de imposição de regime prisional mais gravoso, o que vai de encontro ao teor dos enunciados das Súmulas n. 718 e 719 do Supremo Tribunal Federal, bem como do enunciado da Súmula n. 440 desta Corte.
+3. Agravo regimental desprovido." (AgRg no HC n. 694.425/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/3/2022, DJe de 4/4/2022.).
+Ante o exposto, não conheço do writ, mas concedo a ordem, de ofício, para fixar o regime inicial semiaberto ao paciente.
+Publique-se.
+Intime-se
+EMENTA
