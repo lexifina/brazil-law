@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial manejado contra acórdão assim ementado:
+APELAÇÃO CÍVEL. CONCURSO PÚBLICO. PETROBRAS. ALEGAÇÃO DE NULIDADE. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. PRETERIÇÃO NÃO CONFIGURADA.
+Deve ser rechaçada a alegação de nulidade por violação ao princípio da ampla defesa e do contraditório. Apesar da ausência de abertura de vista ao Autor, os documentos juntados pela Ré já eram de conhecimento do Autor, não ocorrendo a violação do art. 10 do CPC. Autor que foi aprovado para o cadastro de reservas para as vagas de ampla concorrência na 4ª classificação para o cargo de Técnico de Manutenção Júnior-Automação. A simples existência de contratos firmados pela Petrobrás com empresas de engenharia não comprova a existência de preterição capaz de transformar a mera expectativa de direito em direito subjetivo à nomeação. Tema 784 do STF. Contratos juntados aos autos que possuem finalidade específica com o desenvolvimento de diversas atividades. Ademais, os contratos mencionados são todos anteriores ao concurso e, ainda que prorrogados, não é possível constatar seu reflexo na necessidade de contratação efetiva pela Apelada. DESPROVIMENTO DO RECURSO.
+Embargos de declaração rejeitados.
+No recurso especial obstaculizado, a parte recorrente apontou violação dos arts. 373, §§ 1º e 3º, II, 489, § 1º, IV e parágrafo único, inciso II, e 1.022, II, do CPC/2015, defendendo que houve, além de negativa de prestação jurisdicional, ofensa a o contraditório e ampla defesa. Isso porque pretendia demonstrar a preterição sofrida por meio de documentos, "com a elucidação da identidade das atividades desempenhadas pelos terceirizados e empregados próprios e, em sendo necessário, iria requerer a produção de prova pericial, para evidenciar a similitude entre as atividades prestadas pelos terceirizados e aquelas desenvolvidas pelos Técnicos de Manutenção Júnior - Automação (cargo para o qual foi aprovado no concurso)".
+Contrarrazões apresentadas.
+Passo a decidir.
+Inexiste ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+ ..
+(REsp 1.671.609/DF, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 30/06/2017).
+Extrai-se do aresto combatido:
+Inicialmente, apesar de o Juízo a quo não ter agido com a melhor técnica, os documentos pleiteados pelo Autor não acrescentam muito a elucidação da matéria.
+Da mesma forma, os documentos faltantes não se revelam essenciais para o julgamento da demanda, que já se encontrava madura para apreciação.
+Além disso, inexiste o fator surpresa dos documentos que foram pleiteados pelo próprio Apelante, não havendo, portanto, a violação ao art. 10 do CPC.
+Neste passo, antes de adentrar ao exame do mérito propriamente dito, deve ser rechaçada a alegação de nulidade por violação ao princípio da ampla defesa e do contraditório.
+Como se verifica, o processo teve seu desenvolvimento natural, tendo sido oportunizado ao Autor a fase de produção de provas.
+Ainda, é digno de registro os fundamentos do julgado integrativo:
+Como restou consignado no acórdão, apesar de o Juízo a quo não ter agido com a melhor técnica, não se verificou concretamente a violação aos princípios do devido processo legal, da ampla defesa e do contraditório.
+De fato, a questão trazida ao juízo já foi amplamente debatida pelos Tribunais Superiores, que inúmeras vezes confirmaram que a terceirização, por si só, não caracteriza a preterição.
+Neste contexto, os contratos apresentados (Index 000225/ss) têm objeto específico, que envolvem o desenvolvimento de diversas atividades que não correspondem necessariamente às atribuições do cargo mencionado.
+Ademais, os contratos mencionados são todos anteriores ao concurso e, ainda que prorrogados, não é possível constatar seu reflexo na necessidade de contratação efetiva pela Apelada.
+Dos excertos colacionados, conclui-se que infirmar as conclusões do Tribunal de origem, a fim de acolher os argumentos da parte recorrente - ofensa do contraditório e ampla defesa - encontra óbice na Súmula 7 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
