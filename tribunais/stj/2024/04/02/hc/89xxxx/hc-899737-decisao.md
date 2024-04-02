@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Gabriel Paulino dos Santos, no qual se aponta como autoridade coatora o Tribunal de Justiça do Ceará (HC n. 0620378-46.2024.8.06.0000).
+Consta dos autos que o paciente foi preso em flagrante, juntamente com outros, acusado da prática de tráfico ilícito de entorpecentes, sendo, posteriormente, a prisão convertida em preventiva (Processo n. 0281184-46.2023.8.06.0001).
+Impetrado o writ no Tribunal de origem, a ordem foi denegada.
+Nesta instância superior, reitera a defesa o pleito de revogação da prisão preventiva, argumentando que não restou demonstrado o periculum libertatis.
+É o relatório.
+Conforme relatado, busca a defesa a revogação da prisão por ausência de fundamentação válida.
+O Juízo singular fundamentou a preventiva, asseverando que todos os flagranteados são confessos usuários de drogas, já respondem a outros procedimentos criminais por crimes graves, inclusive tráfico de drogas, conforme atestam certidões de antecedentes acostadas aos autos, o que comprova a sua periculosidade e a possibilidade concreta de reiteração delitiva, sendo necessária a decretação de sua prisão preventiva, para garantia da ordem pública, inclusive com esteio na Súmula n. 52 do eg. TJCE (fl. 127).
+O Tribunal a quo, ao confirmar a legalidade da prisão, aduziu que, sobre o periculum libertatis, tem-se, do exame da certidão de antecedentes criminais (fls. 61/62 da ação penal originária), que o paciente responde a outra ação penal em curso (autos n. 0237951-04.2020.8.06.0001), pela suposta prática da infração penal de tráfico de entorpecentes (fl. 182), acrescentando que a despeito da quantidade não grandiosa de entorpecentes apreendida 5 g (cinco gramas) de cocaína, 10 g (dez gramas) de crack e, aproximadamente, 1 g (um grama) de maconha (vide Auto de Apresentação e Apreensão de fl. 20), resta inadequada e insuficiente, para fins de garantia da ordem pública, a aplicação de medidas cautelares alternativas à prisão, ante o risco de reiteração delitiva (fl. 183 - grifo nosso).
+Pois bem, com o advento da Lei n. 12.403/2011, a prisão preventiva passou a ser a mais excepcional das medidas cautelares, devendo ser aplicada somente quando comprovada a sua inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto.
+No caso, não obstante o decreto prisional ter apresentado os indícios de autoria e prova de materialidade, não ficou demonstrado o periculum libertatis do paciente, especialmente se consideradas as demais circunstâncias do caso.
+Com efeito, mesmo se considerada a existência de anotações criminais, mostra-se desproporcional a imposição da medida extrema no caso, uma vez que o crime foi praticado sem violência ou grave ameaça à pessoa, que o réu é tecnicamente primário e que a quantidade de droga apreendida não se mostra exorbitante (5 g de cocaína, 10 g de crack e, aproximadamente, 1 g de maconha).
+Assim, tem-se que a aplicação das medidas cautelares diversas da prisão se mostra suficiente e adequada para garantir a ordem pública, a conveniência da instrução criminal e a aplicação da lei penal.
+Sobre o tema, confira-se: HC n. 741.470/RS, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/6/2022, DJe 20/6/2022.
+Ante o exposto, concedo a ordem para substituir a prisão do paciente por medidas cautelares previstas no art. 319 do Código de Processo Penal, a serem definidas pelo Juízo de primeiro grau, a quem incumbirá a fiscalização e também a possível decretação de nova prisão, em caso de descumprimento de qualquer uma das obrigações impostas ou por superveniência de motivos novos e concretos para tanto, nos termos do art. 312 do Código de Processo Penal.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS (5 G DE COCAÍNA, 10 G DE CRACK E 1 G DE MACONHA). GARANTIA DA ORDEM PÚBLICA. PRISÃO PREVENTIVA. PACIENTE PRIMÁRIO COM ANOTAÇÕES NA FOLHA DE ANTECEDENTES CRIMINAIS. CRIME COMETIDO SEM VIOLÊNCIA OU GRAVE AMEAÇA. MEDIDAS CAUTELARES AL TERNATIVAS. ADEQUAÇÃO E SUFICIÊNCIA. COAÇÃO ILEGAL DEMONSTRADA.
+Ordem concedida nos termos do dispositivo.
