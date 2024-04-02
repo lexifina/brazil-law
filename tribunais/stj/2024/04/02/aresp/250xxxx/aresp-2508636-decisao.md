@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo apresentado por HUGO ENEAS SALOMONE contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - MULTA POR INFRAÇÃO À LEGISLAÇÃO DE POSTURAS MUNICIPAIS DOS EXERCÍCIOS DE 2015 E 2016 - EXCEÇÃO DE PRÉ-EXECUTIVIDADE REJEITADA - PRETENSÃO DE EXTINÇÃO DA EXECUÇÃO - IMPOSSIBILIDADE - NECESSIDADE DE DILAÇÃO PROBATÓRIA PARA COMPROVAÇÃO DA ILEGITIMIDADE PASSIVA E APURAÇÃO DO RESPONSÁVEL PELA PRÁTICA DOS ATOS QUE RESULTARAM NA APLICAÇÃO DAS SANÇÕES - ALEGAÇÕES NÃO COMPROVADAS DE PLANO - INCIDÊNCIA DA SÚMULA 393 DO COL. SUPERIOR TRIBUNAL DE JUSTIÇA - NÃO AFASTADA A PRESUNÇÃO LEGAL DE LEGITIMIDADE, VERACIDADE E LEGALIDADE DOS TÍTULOS EXECUTIVOS - PRECEDENTES - DECISÃO MANTIDA - RECURSO NÃO PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, o recorrente alega violação dos arts. 783 e 803, I, parágrafo único, do CPC, no que concerne à necessidade de se reconhecer que a ilegitimidade é matéria de ordem pública e não demanda dilação probatória, sendo cabível, assim, a presente exceção de pré-executividade, com provas pré-constituídas que demonstram não se tratar do real infrator. Foi apresentada a seguinte argumentação:
+14. O E. Tribunal a quo houve por bem negar provimento ao agravo de instrumento em que se discute a ilegitimidade passiva do Recorrente para responder por multas aplicadas em razão de infrações praticadas pelo possuidor e atual proprietário do imóvel.
+15. O v. acórdão entendeu que a matéria de demandaria dilação probatória e, portanto, deveria ser objeto de embargos à execução fiscal, tendo anotado que:
+ ..
+16. Com a devida vênia, a matéria submetida à análise pelo E. Tribunal a quo trata exclusivamente de matéria de ordem pública e que não demanda dilação probatória, uma vez que com a simples análise do documento juntado aos autos, seria possível reconhecer a ilegitimidade passiva do Recorrente para responder por tais multas, já que elas possuem natureza pessoal e devem ser aplicadas em face do real infrator, em observância ao princípio da intranscendência da pena disposto no artigo 5º, XLV, da Constituição Federal:
+ ..
+17. Os artigos 485, VI, §3º, 783 e 803, I, parágrafo único, do CPC preveem expressamente a possibilidade de análise de ofício ou a requerimento acerca de tais matérias, independentemente da oposição de embargos à execução:
+ ..
+18. Isto porque, não há qualquer documento necessário a ser juntado pelo Recorrente para que a matéria possa ser analisada.
+19. Esse C. STJ, inclusive, tem jurisprudência pacífica no sentido de que a ilegitimidade passiva é matéria afeta às condições da ação e, portanto, pode ser apreciada em sede de exceção de pré-executividade, a teor do quanto disposto ainda na Súmula nº 393:
+ ..
+20. Como se vê, no presente caso não há óbice para análise da ilegitimidade passiva a partir dos documentos juntados aos autos, eis que, se verificada a data do compromisso de compra e venda e os períodos das multas aplicadas, é possível concluir que o Recorrente já não estava na posse do imóvel, o que, a toda evidência, comprova a ausência de responsabilidade pelas penalidades aplicadas.
+21. Assim, não resta dúvidas que o v. acórdão merece reforma em razão da afronta aos artigos 783 e 803, I, parágrafo único, do CPC.
+(fls. 67-69).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Com efeito, a Certidão de Dívida Ativa goza de presunção legal de certeza e liquidez, que só pode ser afastada por prova inequívoca (LEF, art. 3º, Parágrafo único).
+ ..
+Na espécie, conforme consignado na r. decisão impugnada, o agravante não logrou trazer aos autos prova inequívoca de sua ilegitimidade passiva.
+ ..
+No mais, a agravante também não demonstrou que o compromisso de compra e venda de fls. 22/28 (autos de origem) tenha sido registrado na matrícula do imóvel, ensejando a transmissão da propriedade ao adquirente, de modo que o agravante ainda constaria como proprietário do bem.
+Com efeito, embora a alegação de ilegitimidade passiva possa ser conhecida por meio de exceção de pré- executividade, é necessário de que a objeção processual venha adequadamente instruída a fim de que não seja necessária dilação probatória, o que, contudo, não ocorreu no caso dos autos.
+Sendo assim, à míngua de prova efetiva de suas alegações, a questão posta nos autos permanece controvertida e demanda a abertura de amplo contraditório com vistas à demonstração do direito alegado pelo recorrente, o que atrai a incidência da súmula 393 do Col. STJ.
+(fls. 54-56).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Por fim, considerando o trecho supracitado do acórdão, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
