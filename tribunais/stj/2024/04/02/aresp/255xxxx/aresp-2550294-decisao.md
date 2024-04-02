@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial pelo qual DULCE MARIA NOGUEIRA MACEDO se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO assim ementado (fl. 266):
+AGRAVO INTERNO. EXECUÇÃO INDIVIDUAL DE SENTENÇA RELATIVA A AÇÃO COLETIVA AJUIZADA PELO SINTSEP. SERVIDOR ESTADUAL DE CATEGORIA COM SINDICATO PRÓPRIO. ILEGITIMIDADE ATIVA. MANTIDA DECISÃO MONOCRÁTICA.
+I. A questão gira em torno de se averiguar a legitimidade ativa da Agravante para iniciar a execução do título judicial formado nos autos da Ação Coletiva n.º 6542/2005, proposta pelo Sindicato dos Trabalhadores do Serviço Público do Estado do Maranhão - SINTSEP, na qual reconheceu o direito à implantação do índice referente a URV sobre a remuneração dos servidores integrantes da categoria beneficiada.
+II. A Agravante ocupa cargo representado por sindicato específico (SINPROESEMMA), não estando, portanto, assistidos pelo Sindicato Autor da Ação Ordinária Coletiva, da qual gerou o título judicial objeto da presente execução. Precedentes.
+III. Agravo Interno conhecido e não provido.
+Os embargos de declaração opostos foram rejeitados (fls. 304/306).
+Em suas razões recursais, a parte recorrente aponta violação aos arts. 1.022, II e 489, §1º, ambos do Código de Processo Civil (CPC). Em síntese, sustenta que o Tribunal de origem foi omisso em relação à matéria discutida.
+A parte adversa apresentou contrarrazões (fls.335/344).
+É o relatório.
+Preenchidos os requisitos de admissibilidade do agravo, passo à análise do recurso especial.
+No que importa à controvérsia travada no presente recurso, confira-se o seguinte trecho do acórdão (fls. 267/270):
+No caso, a questão gira em torno de se averiguar a legitimidade ativa da Agravante para iniciar a execução do título judicial formado nos autos da Ação Coletiva n.º 6542/2005, proposta pelo Sindicato dos Trabalhadores do Serviço Público do Estado do Maranhão - SINTSEP, na qual reconheceu o direito a implantação ao índice referente a URV sobre a remuneração dos servidores integrantes da categoria beneficiada.
+Na espécie, o título executivo judicial que ora se pretende cumprir é uma sentença coletiva oriunda de uma ação coletiva ajuizada pelo "SINTSEP - Sindicato dos Trabalhadores no Serviço Público do Estado do Maranhão", cuja legitimação extraordinária se restringe à categoria, grupo ou carreira por ele substituída no processo, conforme dispõe o art. 8º, inciso III, da CF.
+Ressalto que a categoria ou carreira da qual faz parte a servidora apenas pode estar vinculada a um único sindicato no âmbito do Estado do Maranhão, sendo esta vinculação, ao contrário da filiação, automática, pois decorre diretamente da lei, não podendo um indivíduo optar por ser vinculado a sindicato diverso do qual representa a sua carreira.
+O SINTSEP abrange todos os servidores públicos estaduais que não integram um sindicato específico. É o caso dos servidores da Administração em Geral, por exemplo, que não possuem um sindicato próprio.
+Em contrapartida, a Agravante pertence a carreira vinculada a um sindicato específico, qual seja, o SINPROESEMMA - Sindicato dos Trabalhadores em Educação Básica das Redes Públicas Estadual e Municipais do Estado do Maranhão.
+Assim, consoante o princípio constitucional da unicidade sindical, é juridicamente impossível que a Agravante seja representada ao mesmo tempo pelo SINPROESEMMA e pelo SINTSEP, razão pela qual prevalece a representação do sindicato específico da categoria, qual seja, o SINPROESEMMA.
+ ..
+Saliento, por fim, que a questão discutida não é a legitimidade do SINTSEP, sindicato Autor da Ação Coletiva n.º 37012/2009, mas sim a ilegitimidade dos Agravantes, Autores da Execução de Título Judicial, que não eram substituídos pelo referido sindicato, em razão da vinculação a Sindicato diverso (SINPROESEMMA), e que, portanto, não foram abrangidos pela coisa julgada.
+A parte ora recorrente opôs embargos de declaração a fim de provocar a Corte de origem a se manifestar sobre os seguintes argumentos: (i) "consta dos autos que a parte exerce cargo de AUXILIAR DE SERVIÇOS GERAIS/FAXINEIRA, logo não pode ser representado pelo sindicato dos professores" (fl. 283) e (ii) a ocorrência de preclusão para aferir a legitimidade do servidor nesse momento processual haja vista que a decisão que individualizou e homologou os cálculos transitou em julgado.
+Entretanto, o Tribunal a quo rejeitou os declaratórios sem apreciar o questionamento a ele feito.
+Verifico a existência de omissão no julgado, nos termos do art. 1.022 do Código de Processo Civil, pois não se manifestou acerca da tese de que os servidores não poderiam pertencer ao SINPROESEMMA em razão da função desempenhada.
+Dessa forma, é imperioso o acolhimento da pretensão recursal ante a ocorrência de violação ao art. 1.022 do CPC, devendo os autos retornar à origem para que seja sanado o vício apontado no recurso integrativo por meio de novo julgamento dos embargos de declaração, com manifestação expressa a respeito da questão não apreciada.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial para anular o acórdão proferido em embargos de declaração; determino a devolução dos autos ao Tribunal de origem para que seja proferido novo julgamento com o saneamento do vício apontado.
+Publique-se. Intimações necessárias
+EMENTA
