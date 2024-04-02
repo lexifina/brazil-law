@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por CTEEP - COMPANHIA DE TRANSMISSAO DE ENERGIA ELETRICA PAULISTA contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional e desafia acórdão assim ementado (e-STJ fl. 221):
+Agravo de Instrumento - Exceção de pré-executividade rejeitada - Multa - Exercício de 2001 - Ausência de consumação do lustro prescricional - Ação intentada anteriormente à LC 118/05 - Demora na citação não atribuível à exequente - Precedentes Jurisprudenciais - RECURSO DESPROVIDO.
+No recurso especial (e-STJ fls. 227/238), o recorrente aponta violação do art. 174, parágrafo único, I, do CTN, vigente à época da distribuição da execução fiscal, bem como dissídio jurisprudencial a respeito da interpretação desse dispositivo, dizendo que o julgado diverge do que foi decidido por esta Corte no REsp 999.901/RS, julgado como recurso repetitivo. Em síntese, defende a prescrição do crédito tributário alegando que, "se o despacho foi proferido antes da LC n. 118/2005, o próprio despacho não interrompe a prescrição" (e-STJ fl. 235). Afirma, ainda, que "é completamente desrazoável atribuir apenas ao Poder Judiciário a demora na citação, enquanto a própria Recorrida quedou-se inerte por aproximadamente dez anos sem qualquer manifestação" (e-STJ fl. 235). Subsidiariamente, defende a prescrição intercorrente, dizendo que "a demora na citação e no requerimento de providências ocorreu por culpa da exequente" (e-STJ fl. 237).
+As contrarrazões foram oferecidas.
+O Tribunal de origem negou seguimento em parte ao recurso especial com base em orientação firmada em recurso repetitivo (Tema 179 do STJ). No mais, não admitiu o apelo extremo, entendendo suficiente a fundamentação do acórdão recorrido e ausente violação às normas legais, aplicando a Súmula 7 do STJ e reputando inadequada a demonstração do dissídio jurisprudencial (e-STJ fls. 278/281).
+No agravo em recurso especial (e-STJ fls. 284/292), o agravante impugna os fundamentos da decisão agravada e reitera as razões do recurso.
+A contraminuta foi apresentada.
+Passo a decidir.
+Verifica-se que o recurso especial baseia-se apenas em uma tese recursal, relacionada a orientação firmada em recurso repetitivo.
+Da mesma forma, o fundamento condutor adotado na decisão a quo é o de que o acórdão recorrido está em sintonia com precedente obrigatório desta Corte Superior, segundo o qual "A perda da preten são executiva tributária pelo decurso de tempo é consequência da inércia do credor, que não se verifica quando a demora na citação do executado decorre unicamente do aparelho judiciário" (Tema n. 179 do STJ), sendo certo que os outros óbices à admissibilidade do especial também se referem à mesma questão.
+Ocorre que, de acordo com o disposto no art. 1.030, § 2º, do CPC/2015, é cabível agravo interno contra a decisão que nega seguimento a recurso especial interposto contra acórdão que está em conformidade com o entendimento do STJ exarado no julgamento de recursos repetitivos. Confira-se:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+ ..
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+Esse agravo interno é a sede própria para demonstrar eventual falha na aplicação de tese firmada no paradigma repetitivo em face da realidade do processo.
+Em razão dessa previsão normativa, é firme o entendimento desta Corte no sentido de que é incabível o agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo, publicada a partir de 18 de março de 2016, quando entrou em vigor o CPC/2015.
+Frise-se que, no contexto dos autos, a menção na decisão a quo da existência de outros óbices à admissibilidade do recurso especial, porquanto relacionadas com o mesmo capítulo do recurso especial ao qual foi negado seguimento com fundamento em aresto repetitivo, não guardam autonomia a justificar o cabimento do agravo dirigido a esta Corte Superior.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
