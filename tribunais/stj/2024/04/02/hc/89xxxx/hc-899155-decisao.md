@@ -1,0 +1,25 @@
+DECISÃO
+PEDRO GERALDO ANTUNES DIAS alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (Apelação Criminal n. 1.0056.20.003724-2/001).
+Consta dos autos que o paciente foi condenado à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, mais multa, pela prática do crime de tráfico de drogas.
+A defesa pleiteia, por meio deste writ, a incidência do redutor descrito no art. 33, § 4º, da Lei de Drogas, a fixação do regime inicial mais brando e a substituição da reprimenda privativa de liberdade por restritivas de direitos.
+Decido.
+I. Minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006
+Para a aplicação da minorante prevista no art. 33, § 4º, da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser dessa causa especial de diminuição de pena é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+No caso, as instâncias de origem - dentro do seu livre convencimento motivado - apontaram elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades criminosas (notadamente ao tráfico de drogas).
+Para tanto, salientou o Juiz sentenciante que ficou "provado à saciedade que vinha o denunciado há anos vendendo drogas no seu comércio, tendo criado inclusive um código para identificação da mercadoria: "muda", termo que era utilizado pelos usuários quando chegavam no estabelecimento, indicado que queriam maconha e não a mercadoria oferecida ao público em geral, restando provado que vinha se dedicando à atividade criminosa" (fl. 58).
+Na mesma linha argumentativa, destacou a Corte estadual que "As provas coligidas ao processo evidenciaram que o acusado se dedicava à atividade criminosa. Veja-se que o réu já era monitorado por suposto envolvimento na traficância, tanto que foi expedido mandado de busca e apreensão em seu desfavor. Ademais, a testemunha Marcos Roberto Grossi, tanto em inquérito, quanto em Juízo, foi enfática ao narrar que era usuário e adquiria entorpecentes de Pedro há mais de cinco anos, sendo certo que o réu se valia de seu comércio para repassar a droga" (fl. 69).
+Fez menção, ainda, ao depoimento prestado por uma das testemunhas no sentido de que "disse ter trabalhado por cerca de um mês na floricultura do ora apelante, período em que presenciou bastante movimentação suspeita no local, a incluir um cliente que, de forma expressa, disse que queria comprar maconha" (fl. 70).
+Assim, porque foi concretamente fundamentada a impossibilidade de incidência da referida minorante, não identifico o apontado constrangimento ilegal de que estaria sendo vítima o paciente.
+Ademais, não há como se olvidar que, para entender de modo diverso, afastando-se a conclusão de que o acusado não se dedicaria a atividades delituosas, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência, como cediço, vedada na via estreita do habeas corpus.
+II. Regime inicial de cumprimento de pena
+No que tange ao regime de cumprimento de pena, verifico que o Tribunal de origem assim fundamentou a manutenção do modo inicial mais gravoso (fl. 71):
+Quanto ao regime prisional, in casu, considerando o quantum da pena fixada, aliado aos vetores previstos no artigo 42 da LD, não entendo ser apropriada a fixação de regime menos gravoso, sobretudo porque tal medida obstaria o alcance das finalidades da pena, insertas no art. 59 do Código Penal, quais sejam, a ressocialização do agente e a reprovação do crime na espécie.
+No entanto, uma vez que o réu foi definitivamente condenado a reprimenda inferior a 4 e superior a 8 anos de reclusão, era tecnicamente primário ao tempo do crime, possuidor de bons antecedentes e teve a pena-base fixada no mínimo legal, considero ser devida a fixação do regime inicial semiaberto, nos termos do art. 33, § 2º, "b", e § 3º, do CP.
+III. Substituição da pena por restritivas de direitos
+Por fim, diante do insucesso da tese defensiva que poderia levar à redução da reprimenda, fica mantida também a negativa de substituição da reprimenda privativa de liberdade por restritivas de direitos, por ausência de cumprimento do requisito objetivo previsto no art. 44, I, do CP.
+IV. Dispositivo
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo, in limine, a ordem de habeas corpus, somente para fixar ao paciente o regime inicial semiaberto de cumprimento de pena.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+EMENTA
