@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto por NOTRE DAME INTERMÉDICA SAÚDE em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, "a" e "c", da Constituição, interposto em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Ação indenizatória visando ao reembolso de quantia despendida em internação médica realizada de forma particular - Procedência em primeiro grau - Recusa fundamentada no caráter eletivo da internação, não possuindo cobertura contratual no hospital em que foi realizada - Incontroverso caráter de urgência do procedimento confirmado por relatório médico - Inexistência de demonstração em sentido contrário pela ré, aliada ao expresso desinteresse na produção de provas - Comprovação, ademais, de que a cobertura no hospital abrange internações eletivas - Informação constante do website do nosocômio, que atua em conjunto com operadora - Informação que obrigou a fornecedora a prestar o serviço, art. 30 do Código de Defesa do Consumidor - Sentença mantida - Recurso não provido." (fl. 196)
+A recorrente aponta ofensa aos arts. 12, 35-C da Lei n. 9.656/98 e 104 do Código Civil, sustentando, em síntese, que "o Recorrido solicitou um procedimento eletivo, logo, não havia este requisito. Assim, o atendimento só deixaria de ser eletivo em caso de urgência ou emergência, o que não se enquadrava ao presente caso" (fl. 208).
+Contrarrazões às fls. 244/260.
+É o relatório.
+Segundo o Tribunal de origem, "inexiste controvérsia a respeito do fato de que a realização do procedimento se deu em caráter de urgência, já que constou do relatório médico que a internação para tratamento cirúrgico urgente decorreu do quadro infeccioso apresentado pelo apelado, com riscos de evolução para sepse, inexistente impugnação específica da ré com a demonstração de que a hipótese envolveu tratamento eletivo, observado, ainda, o expresso desinteresse na produção de provas, pág.142, ônus do interessado com as consequências daí inerentes, caracterizado o dever de cobertura" (fl. 196).
+A reforma dessa conclusão, contudo, demandaria investigar novamente o conteúdo das provas dos autos, sobretudo do relatório médico emitido quando da internação do paciente, a fim de atestar se o quadro de saúde do beneficiário do plano era ou não urgente.
+Incidente, pois, o óbice da Súmula n. 7/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários devidos ao advogado da recorrida de 15% sobre o valor da condenação.
+Publique-se.
+EMENTA
