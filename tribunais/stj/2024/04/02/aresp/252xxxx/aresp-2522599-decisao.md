@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por SPE AMERICAS PROJETO 02 EMPREENDIMENTOS IMOBILIARIOS LTDA. - EM RECUPERACAO JUDICIAL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER. PEDIDO DE BAIXA NA HIPOTECA DO IMÓVEL. SENTENÇA DE PROCEDÊNCIA. RECURSO DO RÉU. ESCONFORMISMO QUE NÃO MERECE PROSPERAR.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 291 e 292, II e § 3º, do CPC, no que concerne à indevida manutenção do valor integral do contrato de compra e venda como valor da causa, eis que tal quantia não corresponde ao conteúdo patrimonial discutido na demanda, cabendo correção de ofício, trazendo a seguinte argumentação:
+17. Considerando que a recorrida pretende, tão somente, a liberação da hipoteca que grava o seu imóvel, não há dúvida de que o valor da causa deve ser fixado de acordo com o proveito econômico da demanda, que no caso não é possível apurar, por se tratar de mera baixa de gravame.
+18. Logo, não há como prevalecer o valor da causa atribuído (valor do contrato de compra e venda do imóvel), pois o valor da causa é meramente estimativo.
+19. Desta forma, diante da impossibilidade de determinação exata da expressão econômica da demanda, considerando que na certidão de ônus reais do imóvel há apenas averbação do gravame (fl. 32, AV - 3), o valor deve ser corrigido e fixado por estimativa, estando sujeito a posterior adequação ao valor apurado na sentença ou no procedimento de liquidação.
+ ..
+21. Assim, conclui-se que, ao manter o valor da causa ao valor integral do contrato de compra e venda, contraria-se o disposto no artigo 291 e 292, II, § 3º, do CPC, pois tal quantia não corresponde ao conteúdo patrimonial discutido nesta demanda (fls. 425-427).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+No ponto, vale notar que a existência do gravame indevidamente mantido, na prática, retira do autor um dos principais atributos da propriedade, a disponibilidade total do imóvel em questão.
+Assim, considero que o valor atribuído à causa não merece qualquer reparo, na medida em que corresponde ao valor do imóvel (fl. 417, grifo meu).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
