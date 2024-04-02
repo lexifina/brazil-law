@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto por ITAU UNIBANCO S.A, BANCO BRADESCO S/A, BANCO VOTORANTIM S.A., BANCO ABC BRASIL S.A, BANCO BS2 S.A., BANCO FIBRA SA, BANCO PINE S/A, BANCO SANTANDER (BRASIL) S.A., BANCO TRICURY S/A, BANCOLOMBIA S A, CHINA CONSTRUCTION BANK (BRASIL)  BANCO MÚLTIPLO S.A, RURAL INTERNATIONAL BANK LIMITED contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"EXECUÇÃO. Contrato de empréstimo. Determinação da lavratura de termo de penhora de imóveis de propriedade dos fiadores coexecutados. Alegada ofensa ao art. 620, do Código de Processo Civil. Inocorrência. Reconhecimento, todavia, da qualidade de bem de família de um dos imóveis, que não deverá ser penhorado. Recurso provido em parte para esse fim" (fl. 2.542 e-STJ - grifou-se).
+Os embargos de declaração (e-STJ fls. 2.553-2.563) opostos foram rejeitados (fls. 3.767-3.772 e-STJ).
+No recurso especial, os recorrentes alegam, além de divergência jurisprudencial, violação dos seguintes dispositivos legais com as respectivas teses:
+(i) art. 489 do Código de Processo Civil - haja vista a nulidade do acórdão recorrido por deficiência de fundamentação;
+(ii) art. 1.022 do Código de Processo Civil - porque o acórdão combatido teria incorrido em negativa de prestação jurisdicional ao não apreciar aspectos relevantes da demanda suscitados nos embargos declaratórios;
+(iii) art. 504 do Código de Processo Civil de 1973 tendo em vista a ausência de conteúdo decisório do despacho atacado por agravo de instrumento, que acabou tendo seu mérito julgado.
+(iv) arts. 1º e 5º, parágrafo único, da Lei nº 8.009/1990, a fim de permitir a penhora do bem de família, ainda que luxuoso. Sustenta que os recorridos possuem inúmeros bem imóveis e que
+"a finalidade da impenhorabilidade do bem de família consiste em assegurar moradia digna para o devedor e sua família - compatível com o padrão médio de vida das entidades familiares -, não servindo, contudo, para eximi-lo de sua obrigação, com a proteção de bens extremamente luxuosos, enquanto os credores se veem frustrados na tentativa de satisfação do seu crédito" (e-STJ fls. 3.216-3.218).
+Sem as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Registra-se que o tribunal de origem se pronunciou acerca dos pontos levantados pela recorrente, mesmo que de modo breve, afastando os argumentos deduzidos que, em tese, seriam capazes de infirmar a conclusão adotada. Não há, portanto, violação dos artigos 1.022 e 489 do CPC.
+Como se sabe, cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declarando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, o não acolhimento das teses ventiladas pela parte recorrente não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDENTE PROCESSUAL. DECISÃO QUE DEFERIU O PEDIDO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA EMPRESA EXECUTADA. PRECLUSÃO. OCORRÊNCIA. REVISÃO. SÚMULA N. 7/STJ. TEORIA MENOR. OBSTÁCULO AO RESSARCIMENTO DOS DANOS CAUSADOS AOS CONSUMIDORES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. SÚMULA 83/STJ. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS CONSTATADOS. REVISÃO. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. PENHORA SOBRE SALDO DE PLANOS DE PREVIDÊNCIA PRIVADA. POSSIBILIDADE. NÃO UTILIZAÇÃO PARA FINS ALIMENTARES. REVISÃO. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. ANÁLISE CASUÍSTICA. NÃO OCORRÊNCIA, NA ESPÉCIE. AGRAVO INTERNO IMPROVIDO.
+1. Não ocorre negativa de prestação jurisdicional quando o Tribunal de origem examina, de forma fundamentada, todas as questões que lhe foram submetidas, ainda que tenha decidido contrariamente à pretensão da parte. Nesse contexto, esta Corte já se manifestou no sentido de que não há se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+2.(..)"
+(AgInt no AREsp 2.205.438/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+De fato, a jurisprudência do Superior Tribunal de Justiça preleciona que os despachos de mero expediente são irrecorríveis por visarem unicamente ao impulso da marcha processual, não gerando danos ou prejuízos às partes.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. IMPENHORABILIDADE DO BEM. MATÉRIA DE ORDEM PÚBLICA TAMBÉM EXIGE O NECESSÁRIO PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF APLICADAS POR ANALOGIA. DESPACHO SEM CONTEÚDO. DECISÕES NÃO ADMITEM INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. AGRAVO DESPROVIDO.
+1. Conforme entendimento pacífico do Superior Tribunal de Justiça, há exigência de prequestionamento inclusive para as questões de ordem pública. Precedentes.
+2. O despacho que determina a citação e penhora não possui natureza de decisão interlocutória, motivo pelo qual não admite a interposição de agravo de instrumento.
+3. Agravo interno a que se nega provimento" (AgInt no AREsp n. 145.827/DF, relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), Quarta Turma, julgado em 17/4/2018, DJe de 23/4/2018 - grifou-se).
+"PROCESSO CIVIL. DESPACHO QUE DETERMINA A CITAÇÃO NOS AUTOS DO PROCESSO DE EXECUÇÃO. NATUREZA JURÍDICA DO ATO. DESPACHO DE MERO EXPEDIENTE. AUSÊNCIA DE CARGA DECISÓRIA. IRRECORRIBILIDADE.
+O despacho que determina a citação do devedor, em sede de execução, não é um ato que, no curso do processo, resolve uma questão incidente, conforme determina o artigo 162, § 2º, do Código de Processo Civil, sendo, portanto, irrecorrível pela via do agravo de instrumento. Precedentes.
+Recurso especial conhecido e provido" (REsp n. 693.074/RJ, relator Ministro Ari Pargendler, relator para acórdão Ministro Castro Filho, Terceira Turma, julgado em 28/6/2006, DJ de 18/9/2006, p. 311 - grifou-se).
+Todavia, não é esse o caso dos autos, cujo teor decisório da decisão impugnada é manifesta na medida em que prejudica os executados e, portanto, tem conteúdo apto a ensejar recurso. Na hipótese, o Tribunal local adentrou no mérito recursal por reputar que o ato ordinatório seria altamente prejudicial ao executado, esclarecendo em embargos de declaração que:
+"(..) Ao revés do que entendem os ora embargantes, o mencionado despacho, que determinou a penhora de bens do executado, apesar de dispensar maiores fundamentações, na medida em que os atos de excussão de bens do executado e a consequente satisfação do crédito exequendo se inserem nos objetivos próprios da execução, causou inegável prejuízo à parte, pois determinou a penhora de seus bens, inclusive daquele que teve reconhecido como de família. Portanto, se do ato resultou lesividade à parte, tratava-se mesmo de decisão agravável, não sendo aplicável na hipótese o artigo 504 do CPC/73" (e-STJ fl. 3.770 - grifou-se).
+Portanto, não incide o teor do art. 504 do CPC/1973, já que a Corte local assentou que a decisão lesou o recorrido, motivo pelo qual plenamente agravável.
+No mais, nos termos do acórdão recorrido "há farta documentação demonstrativa de que o coexecutado Salim reside no imóvel matriculado sob o n.º 66.184 do 13º Cartório de Registro de Imóveis da Comarca de São Paulo", consistente em contas de consumo de gás, energia elétrica, TV a cabo e taxa condominial, desde o ano de 2009 até os dias atuais, não tendo, por outro lado, ficado minimamente demonstrada a utilização dos outros imóveis de menor valor como residência do executado (e-STJ fl. 2.545 e fl. 3.772).
+De qualquer modo, é irrelevante para a proteção do bem de família a aferição de seu padrão, se de luxo ou não, como se afere da jurisprudência dessa Corte:
+"PROCESSO CIVIL. DIREITO CIVIL. AGRAVO REGIMENTAL. LEI N. 8009/1990. IMPENHORABILIDADE DE BEM IMÓVEL DE LUXO.
+1. A Lei nº 8.009/90 não estabelece qualquer restrição à garantia do imóvel como bem de família no que toca a seu valor nem prevê regimes jurídicos diversos em relação à impenhorabilidade, descabendo ao intérprete fazer distinção onde a lei não o fez. Precedentes.
+2. agravo regimental não provido" (AgRg no REsp n. 1.397.552/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 20/11/2014, DJe de 27/11/2014.)
+"AGRAVO REGIMENTAL - RECURSO ESPECIAL - DIREITO CIVIL E PROCESSUAL CIVIL - BEM DE FAMÍLIA - IMÓVEL DE LUXO.
+1.- Os imóveis residenciais de alto padrão ou de luxo não estão excluídos, em razão do seu valor econômico, da proteção conferida pela Lei 8.0009/90 aos bens de família. Precedentes.
+2.- Agravo Regimental improvido" (AgRg no REsp n. 1.294.441/SP, relator Ministro Sidnei Beneti, Terceira Turma, julgado em 19/6/2012, DJe de 28/6/2012.)
+A circunstância fática posta no acórdão é de que o bem imóvel luxuoso é o único imóvel residencial utilizado para moradia pelos executados, circunstância insindicável nesta instância especial. É que acolher a tese pleiteada pelos agravantes exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e cláusulas contratuais, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ, aplicáveis a ambas as alíneas do permissivo constitucional.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+ EMENTA
