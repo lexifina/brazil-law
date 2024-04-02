@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo nos próprios autos contra decisão que negou seguimento ao recurso especial, porque ausente ofensa ao art. 1.022 do CPC/2015 e por incidência da Súmula n. 7 do STJ (e-STJ fls. 594/596).
+O acórdão recorrido está assim ementado (e-STJ fls. 513/514):
+Ação de indenização por danos materiais julgada parcialmente procedente - Apelo da autora - Comissão de corretagem - Irresignação no tocante à rejeição do pleito concernente a lucros cessantes - Diz a apelante que a rescisão abrupta e inesperada do contrato pela ré lhe ensejou danos, a título de lucros cessantes.- Cerceamento de defesa - Inocorrência - Mérito - Contrariamente ao alegado pela apelante a rescisão do contrato havido entre as partes não foi abrupta e inesperada. Com efeito, o conjunto probatório coligido aos autos dá conta de que as partes há muito, ou seja, desde 2016, já vinham cuidando da rescisão gradativa do acordo ou contrato entre elas firmado. Logo, inadmissível a alegação de rescisão abrupta. Realmente, máxime tendo em conta que a troca de correspondência eletrônica havida entre as partes, constante dos autos, indica que a autora apelante anuiu, sim, à rescisão paulatina ou gradual. Outrossim, inteira razão assiste ao Juízo a quo ao asseverar que cabia a autora apresentar prova pré- constituída do que efetivamente intermediou e dos valores a ela cabentes, o que não aconteceu. De fato, acompanhando a inicial, vieram apenas planilhas de cunho unilateral, por óbvio, e uma relação contendo número de apólice, número de fatura, nome do segurado e data de emissão. Todavia, não foi estabelecida qualquer correlação entre a relação e as planilhas apresentadas. Lucros cessantes não se presumem, constituindo sua comprovação pressuposto da obrigação de indenizar. Iterativa jurisprudência, em exegese do art. 402, do CC, já firmou o entendimento de que o direito à indenização por lucros cessantes não tem por base o lucro imaginário ou hipotético que seria apenas a conseqüência indireta ou mediata do ato ilícito, mas, sim, o ressarcimento do que o lesado perdeu ou razoavelmente deixou de ganhar em atividade real e lesão em concreto. Em outras palavras, não basta a simples possibilidade de realização do lucro, devendo existir uma probabilidade objetiva e circunstâncias concretas de que estes teriam se verificado sem a interferência do evento danoso. Tal probabilidade não foi demonstrada séria e concludentemente pela autora. Recurso improvido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 538/554).
+No recurso especial (e-STJ fls. 556/565), fundamentado no art. 105, III, "a", da CF, a parte recorrente aponta ofensa ao art. 1.022, I e II, do CPC/2015, ante a existência de contradição no acórdão recorrido, porque manteve o julgamento antecipado da lide e, ao mesmo tempo, indeferiu o pedido de lucros cessantes por ausência de prova. Afirma que as instâncias de origem não lhe deram oportunidade para apresentação de provas.
+Suscita ofensa ao mesmo dispositivo legal, alegando que o Tribunal de origem foi omisso e contraditório porque não examinou os documentos juntados aos autos.
+Indica violação do art. 85, § 8º, do CPC/2015 em virtude da majoração da verba honorária.
+No agravo (e-STJ fls. 599/611), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 614/629).
+É o relatório.
+Decido.
+Ausente ofensa ao art. 1.022 do CPC/2015.
+Não se verifica contradição no acórdão recorrido que verificou que a prova pericial pretendida não era necessária e que constam dos autos todos os elementos probatórios necessários para o julgamento da lide.
+Os lucros cessantes foram indeferidos de acordo com entendimento desta Corte, de que "devem ser efetivamente comprovados, não se admitindo lucros presumidos ou hipotéticos" (AgInt no AREsp n. 2.330.681/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/8/2023, DJe de 1º/9/2023).
+Examinado a prova dos autos, inclusive os documentos mencionados pela parte no recurso especial, concluiu-se que não há elementos processo que apontem que a recorrente tenha deixado de ganhar o valor que pleiteia como lucros cessantes.
+Confira-se o seguinte excerto (e-STJ fls. 522/523):
+Do exposto, forçoso convir que inteira razão assiste à I. Julgadora de Primeiro Grau, quando assevera, embora com outras palavras, que cabia à autora apresentar prova pré-constituída do que efetivamente intermediou e dos valores a ela cabentes, o que não aconteceu.
+De fato, acompanhando a inicial, vieram apenas planilhas de cunho unilateral (fls. 38/41 e fls. 94/145), por óbvio, e uma relação contendo número de apólice, número de fatura, nome do segurado e data de emissão (fls. 42/93).
+Todavia, não foi estabelecida qualquer correlação entre a relação de fls. 42/93 e as planilhas apresentadas.
+Ou seja, não se pode dizer que as comissões referidas nas planilhas decorram da relação apresentada a fls. 42/93.
+O lucro cessante, por força do que dispõe o art. 402, do Código Civil, está inserido no conceito de perdas e danos.
+Porém, o lucro cessante não se presume, constituindo sua comprovação pressuposto da obrigação de indenizar.
+Em outras palavras, lucros cessantes devem ser tidos como aquilo que a pessoa razoavelmente deixou de perceber, devendo ser sopesados com cautela, uma vez que lucro cessante não quer dizer lucro imaginário.
+O simples fato de a Corte estadual não ter acolhido as teses defendidas pela parte não configura ofensa ao dispositivo processual invocado.
+Em relação ao art. 85, § 8º, do CPC/2015, a parte não apresentou argumentos para demonstrar de que forma o acórdão recorrido teria negado vigência a tal dispositivo, pois apenas mencionou que o acórdão majorou os honorários de 10% para 10,20% e a existência de recurso especial repetitivo afetado. Dessa forma, incide a Súmula n. 284 do STF.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
