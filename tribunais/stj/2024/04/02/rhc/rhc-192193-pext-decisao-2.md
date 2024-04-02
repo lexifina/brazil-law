@@ -1,0 +1,30 @@
+DECISÃO
+VITORIA DAVID DA COSTA pleiteia a extensão do benefício deferido ao recorrente, Lucas David da Costa (fls. 368-396).
+Decido.
+Expõem os autos que o Juízo singular converteu em constrição preventiva os flagrantes dos investigados, sob estes motivos (fls. 210-211, grifei):
+Há indícios suficientes de autoria e prova da materialidade. Os flagrados foram presos em flagrante delito pela prática, em tese, do previsto no artigo 121, §2º, inciso VII, c/c art. 14, ambos do Código Penal, e artigo 33 da Lei 11.343/06.  ..  No caso dos autos, considerando que o auto de prisão está formalmente correto, não há o que se falar em relaxamento de prisão, bastando meros indícios que demonstrem a probabilidade dos flagrados terem sido os autores do fato delituoso.
+Ademais, imputa-se aos flagrados Wellington Lopes Ramos e Wendell Gonçalves Reis a prática de delito de homicídio na modalidade tentada e, em primeira análise, fica difícil retirar os agentes do contexto dos fatos, o que torna as solturas prematuras.
+Ainda, observo que prevalece a necessidade de ser resguardada a ordem pública, em especial, para evitar que os flagranteados voltem a delinquir, colocando em risco novos bens jurídicos, o que traduz na presença do periculum in libertatis.
+ ..
+Importante salientar ainda que, conforme entendimento firmado pelos Tribunais Superiores, as condições pessoais favoráveis  ..  não têm o condão de, por si sós, desconstituir a custódia processual, caso estejam presentes outros requisitos que autorizem a decretação da medida extrema.
+ ..
+Quanto ao pedido de liberdade provisória e/ou concessão de prisão domiciliar da autuada Vitoria David da Costa pelo fato da mesma possuir filho menor de 12 anos que depende de seus cuidados, cumpre ressaltar que se estivesse pensado na criança, teria tido um comportamento totalmente contrário e não estaria na situação em que se encontra, não podendo de escudar na maternidade para se eximir da responsabilidade pelo ato praticado, devendo agora suportar as consequências de suas atitudes, razão pela qual, indefiro o pedido aviado.
+Salienta-se, ainda, que o flagranteado Wellington Lopes Ramos trata-se  sic  de pessoa contumaz na prática delitiva, eis que emerge de sua certidão de antecedentes criminais processos em fase de instrução de n.  .. , inquérito de n.  ..  e sentenciado nos autos de n.  .. .
+Em face de todo o exposto, nos termos do artigo 310, II, do CPP, indefiro os pedidos de liberdade provisória aviados e converto as prisões em flagrante de Wellington Lopes Ramos, Vitoria David da Costa, Lucas David da Costa e Wendell Gonçalves Reis, em prisões preventivas, registrando que no caso, as demais medidas cautelares previstas no artigo 319 e 320 do CPP se revelam incompatíveis.
+Ao que se vê, muito embora o Magistrado de primeiro grau cite os "antecedentes do coacusado WELLINGTON LOPES RAMOS, o decreto prisional não se refere a razão alguma que ampare a custódia provisória" do recorrente LUCAS DAVID DA COSTA (fl. 329, destaquei), tampouco menciona os motivos que dão ensejo à manutenção da segregação cautelar de VITORIA DAVID DA COSTA.
+Ao revés, o decisum traz a lume a condição de mãe de criança com menos de 12 anos de idade, mas deixa de aplicar à corré as previsões legislativas contidas nos arts. 318, V, e 318-A, ambos do CPP.
+Sem embargo, a linha dos Tribunais Superiores sempre foi a de prestigiar a excepcionalidade do cárcere ante tempus, principalmente aos presos primários, não violentos e responsáveis por criança menor de 12 anos de idade - fatores que se adequam ao caso em comento, porquanto, em princípio, a coacusada é primária, o crime a ela imputado não foi cometido com violência ou grave ameaça, nem mesmo contra o filho.
+Aliás, firmou-se esta Corte no sentido de que o exercício de tráfico de drogas, por si só, não serve de empecilho à concessão da prisão domiciliar, diante da significativa modificação no Código de Processo Penal determinada pelas Leis n. 13.257/2016 e 13.769/2018.
+Aos mesmos ditames:
+ ..  Convém ainda registrar que a jurisprudência da Sexta Turma desta Corte Superior, ao interpretar a hipótese de prisão domiciliar prevista no art. 318, inciso V, do Código de Processo Penal, firmou-se no sentido de que a indispensabilidade dos cuidados maternos para o filho menor de 12 (doze) anos é legalmente presumida.  ..
+(AgRg no HC n. 747.260/SC, excerto do voto da Rel. Ministra Laurita Vaz, 6ª T., DJe 1º/7/2022.)
+ ..  2. Conforme art. 318, V, do CPP, a concessão de prisão domiciliar às genitoras de menores de até 12 anos incompletos não está condicionada à comprovação da imprescindibilidade dos cuidados maternos, que é legalmente presumida.  ..
+4. Agravo regimental provido para conceder a ordem de ofício.
+(AgRg no HC n. 731.648/SC, Rel. para acórdão Ministro João Otávio de Noronha, 5ª T., DJe 23/6/2022.)
+ ..  a agente faz jus à prisão domiciliar, nos termos do art. 318-A do CPP, uma vez que o crime imputado a ela não envolve violência ou grave ameaça a pessoa e não foi cometido contra os filhos. Ademais, o fato de as crianças estarem sob os cuidados da avó enquanto a genitora estava presa não é motivo que, por si só, indica a prescindibilidade dos cuidados maternos.  ..
+(AgRg no HC n. 723.139/RS, trecho do voto do Rel. Ministro Rogerio Schietti, 6ª T., DJe 1º/4/2022.)
+Vislumbro, que o decreto prisional "não aponta reprovabilidade nas atitudes de LUCAS DAVID DA COSTA" ou de VITORIA DAVID DA COSTA, "então descritas, a ponto de respaldar a continuidade do seu cárcere preventivo", sequer "narra as condutas eventualmente cometidas" por eles (fl. 329, grifei).
+À vista do exposto, defiro o pedido, para estender o decisum de fls. 328-330 à ora requerente e revogar a sua prisão processual, imposta na demanda de origem, se não estiver custodiada por motivo diverso - "sem prejuízo de outro decisum, em que o prudente arbítrio do Juízo natural da causa decrete nova(s) providência(s) cautelar(es)" à agente, "desde que por ato legitimamente fundamentado" (fl. 330, destaques no original).
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+EMENTA
