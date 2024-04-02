@@ -1,0 +1,12 @@
+DECISÃO
+CRISTIANO MORAES DA SILVEIRA opõe embargos de declaração contra a decisão em que, ao denegar a ordem, afastei a tese de excesso de prazo para o julgamento da apelação.
+A defesa afirma que não foi analisada a violação do art. 316 do CPP, a alegada ausência de atualidade do periculum libertatis, bem como a "plausibilidade de provimento das preliminares suscitadas na apelação em virtude de outras nulidades absolutas - ainda não enfrentadas (razões de inconformidade protocolizadas dia 20.10.2023)".
+Requer o acolhimento dos embargos, para que seja determinada a imediata soltura do paciente.
+Decido.
+Convém esclarecer que os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, a reapreciação do caso.
+Apenas excepcionalmente, se constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de se emprestarem efeitos infringentes aos aclaratórios.
+No caso, embora assista razão à defesa no que tange à ausência de análise dos temas elencados no relatório, forçoso salientar - diante da inexistência de julgamento da apelação ou de eventual habeas corpus - que o único elemento dos autos capaz de tornar a Corte local autoridade coatora é a alegação de excesso de prazo para o julgamento da apelação, motivo pelo qual essa relatoria entendeu que tais teses fossem causas de pedir deduzidas em reforço à tese de excesso de prazo para o julgamento da apelação.
+Como tal ilação revelou-se descabida, é o caso de consignar que, como a Corte local não analisou as teses de violação do art. 316 do CPP, a alegada ausência de atualidade do periculum libertatis, bem como a "plausibilidade de provimento das preliminares suscitadas na apelação em virtude de outras nulidades absolutas - ainda não enfrentadas (razões de inconformidade protocolizadas dia 20.10.2023)", evidencia-se a impossibilidade de conhecer-se dos referidos temas, sob pena de vedada supressão de instância.
+À vista do exposto, acolho os embargos de declaração, sem efeitos infringentes.
+Publique-se e intime-se.
+EMENTA
