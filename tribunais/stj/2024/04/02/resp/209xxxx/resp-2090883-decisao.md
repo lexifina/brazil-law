@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de recurso especial interposto por CONRAD COMBUSTIVEIS LTDA e OUTROS em que discute a existência do direito a créditos da contribuição ao PIS e da COFINS, na hipótese em que o substituto tributário recolhe o ICMS referente a mercadorias adquiridas para revenda.
+É o relatório. Decido.
+A Primeira Seção deste Tribunal Superior decidiu afetar o EREsp 1.879.952/RS, o EREsp 1.959.571/RS, o REsp 2.072.621/SC e o REsp 2.075.758/ES à sistemática dos recursos repetitivos com o fim de definir tese a respeito da "possibilidade de creditamento, no âmbito do regime não-cumulativo das contribuições ao PIS e COFINS, dos valores que o contribuinte, na condição de substituído tributário, paga ao contribuinte substituto a título de reembolso pelo recolhimento do ICMS-substituição (ICMS-ST)" (tema 1231).
+Nesse contexto, a decisão agravada deve ser reconsiderada e os autos devem retornar ao Tribunal Regional Federal para que o recurso fique sobrestado até o exercício do juízo de conformação pelo órgão julgador a quo com a tese a ser definida pela Primeira Seção nos precedentes qualificados.
+Ante o exposto, determino a devolução dos autos ao Tribunal Regional Federal, com a respectiva baixa, para que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia, o recurso especial: a) tenha seguimento negado, na hipótese de o acórdão recorrido coincidir com a tese definida pela Primeira Seção; ou b) seja, novamente, examinado, caso dela divirja (arts. 1039, 1040, incs. I e II, e 1041 do CPC/2015). Fica prejudicado o recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. CONTRIBUIÇÃO AO PIS E COFINS. REGIME NÃO CUMULATIVO. APURAÇÃO DE CRÉDITOS QUANTO AO ICMS-ST. TEMA A SER DEFINIDO PELA PRIMEIRA SEÇÃO NA SISTEMÁTICA DOS RECURSOS REPETITIVOS. SOBRESTAMENTO. DEVOLUÇÃO. RECURSO ESPECIAL PREJUDICADO.
