@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos pela BRF S.A. contra decisão monocrática de minha relatoria que conheceu do agravo para não conhecer do recurso especial, em decorrência do óbice da Súmula n. 187/STJ (fls. 926-930).
+A embargante alega que "A decisão embargada restou omissa quanto ao fato de que, após intimada a regularizar a com provação do preparo, a BRF demonstrou às fls. 833/835que o comprovante por ela anexado possui todas as informações necessárias para comprovar que houve o devido recolhimento do preparo recursal: o número de identificação, o CÓDIGO DE AUTENTICIDADE BANCÁRIA, os dados do beneficiário (STJ), a instituição financeira qual foi realizada a operação, a data de pagamento, valor da guia, bem como correspondência entre o número do código de barras da guia de recolhimento e o comprovante bancário. " (fl. 936)
+A parte embargada, instada a manifestar-se, não apresentou impugnação (fl. 947)
+É, no essencial, o relatório.
+Nos termos do art. 1.022 do CPC, os e mbargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+No caso em exame, inexistem vícios no julgado.
+Verifica-se que na própria decisão de admissibilidade realizada pelo Tribunal de origem, há expressa manifestação sobre a irregularidade na comprovação do pagamento das custas, conforme abaixo transcrito:
+Com efeito, a decisão que intimou a recorrente a regularizar o preparo recursal foi expressa ao consignar: " ..  Com relação à recorrente BRF - BRASIL FOODS S/A, verifica-se que o comprovante de pagamento não possui código de autenticidade, não sendo possível, portanto, aferir a regularidade do preparo. Por isso, conclui-se que houve o descumprimento da regra contida no caput do art. 1007 do CPC/2015. (..) Esclareço que, uma vez comprovada a efetiva quitação da operação atinente ao documento de protocolo nº 2021/1.532.274-2, restará à parte recorrente BRF -BRASIL FOODS S/A tão somente a complementação do valor do preparo, mediante novo recolhimento em seu valor simples, de modo a atender ao comando determinado".
+Verifica-se que no ato de interposição do recurso, a parte recorrente deixou de comprovar o pagamento das custas judiciais.
+Foi facultada a regularização do preparo, no prazo de cinco dias, nos termos do § 4º do artigo 1.007 do Código de Processo Civil.
+Todavia, no prazo estipulado, a parte recorrente limitou-se a acostar petição afirmando ter comprovado o preparo, nada trazendo de novo. A toda evidência, os termos da petição acostada não se prestam a comprovar o efetivo recolhimento do preparo. Isso porque o "comprovante de transação bancária "anexado, como dito anteriormente, não se reveste das formalidades de um comprovante de pagamento, porque estás em o código de autenticidade, não sendo possível, portanto, aferir a sua regularidade.
+Não é demais lembrar, o Superior Tribunal de Justiça já se manifestou no sentido de que não basta a mera transcrição de dados para comprovar o recolhimento do preparo recursal, sendo necessária a juntada do documento original emitido pela instituição financeira, com os requisitos necessários.
+ ..
+Registra-se que, a teor do § 5º do art. 1.007 do CPC, descabe nova intimação para regularização.
+Nesse contexto, revela-se desatendida a regra contida no artigo 1.007 do Código de Processo Civil e, conforme a jurisprudência do Superior Tribunal de Justiça, o reconhecimento da deserção do recurso é medida se impõe: (fls. 849-853)
+Ante o exposto, rejeito os embargos de declaração e, de pronto, advirto à embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
+ EMENTA
