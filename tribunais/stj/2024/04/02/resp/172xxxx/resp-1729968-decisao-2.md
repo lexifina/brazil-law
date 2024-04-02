@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial, fundado no art. 105, III, "a" e "c", da Constituição, interposto por JOÃO BATISTA DE SOUZA em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Ação declaratória de nulidade de cláusulas contratuais com pedido de repetição do indébito. Contratos bancários. Improcedência. Apelo. Possibilidade da capitalização dos juros e da cobrança de comissão de permanência. Aplicabilidade da Lei de Usura. Medida provisória 2.170-36 declarada constitucional. Legalidade da MP frente a Lei Complementar 95/98. Sentença mantida. Recurso desprovido." (fl. 321)
+Sob a alegação de ofensa ao art. 359 do CPC/73 e de dissídio jurisprudencial, o recorrente sustenta, em síntese, que, em ação de revisão de contrato bancário, a omissão da instituição financeira em apresentar os extratos da conta bancária, a fim de aferir, em perícia, a existência de encargos apontados abusivos, enseja a presunção de veracidade das alegações de fato formuladas pelo autor.
+Contrarrazões às fls. 790/804.
+É o relatório.
+O eg. TJSP rejeitou a aplicação da sanção processual prevista no art. 359 do CPC/73, anotando que a juntada de extratos para subsidiar a elaboração da perícia, na espécie, era dever do autor, e não do réu. Cita-se do aresto:
+"(i) não há qualquer omissão ou contradição em relação ao valor da condenação imposta, com base no laudo pericial de fls. 211/227, porque o autor não trouxe aos autos os extratos do período mencionado e não é responsabilidade do banco guardar esses documentos por tão longo período, conforme fls. 188/191. Inviável, portanto, a aplicação do artigo 359 do Código de Processo Civil, no caso, porque era responsabilidade do autor, na hipótese específica sob análise, a apresentação dos documentos necessários para comprovar o seu direito, conforme determina o artigo 333 do Código de Processo Civil;" (fls. 442/443)
+O acórdão merece reforma.
+No pedido de exibição incidental de documentos, a omissão da parte adversa em juntá-los aos autos atrai a presunção indicada no art. 359 do CPC/73. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DOS EMBARGANTES.
+1. Conforme entendimento desta Corte "em exibição incidental de documentos, cabe a presunção relativa de veracidade dos fatos que a parte adversa pretendia comprovar com a juntada dos documentos solicitados, nos termos do art. 359 do CPC/1973 (atual art. 400 do CPC/2015), sendo certo que, no julgamento da lide, as consequências dessa veracidade serão avaliadas, pelo Juízo de origem, em conjunto com as demais provas produzidas nos autos" (AgInt no AREsp 1.646.587/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/08/2020, DJe de 15/09/2020).
+2. Para alterar a conclusão da Corte local da certeza, liquidez e exigibilidade do título executivo , seria necessário promover o reexame do acervo fático-probatório dos autos, providência vedada na via eleita, a teor do óbice da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.102.423/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 21/8/2023, DJe de 24/8/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE ADIMPLEMENTO CONRATUAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. Segundo a reiterada jurisprudência deste Superior Tribunal de Justiça, não há que se confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação. Precedentes.
+2. A alteração do entendimento sedimentado nas instâncias ordinárias acerca da legitimidade ativa, da ora agravada, demandaria o revolvimento dos elementos de fatos e reexame de provas, providência vedada em sede de recurso especial, a teor da Súmula 7 do STJ.
+3. Rever o entendimento da Corte local quanto à comprovação do interesse de agir e da relação jurídica entre as partes e acolher a pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+4. Em ação de exibição incidental de documentos, ante a não apresentação de documento, é possível presumir a veracidade ficta do fato que se pretendia comprovar, a teor do art. 359 do CPC.
+5. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes 6. Agravo interno desprovido.
+(AgInt no REsp n. 1.923.856/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/5/2022, DJe de 13/5/2022.)
+Nada obstante, é inviável, nesta sede, verificar desde logo as consequências da aplicação do art. 359 do CPC/73 à causa, tendo em vista que aferir quais alegações de fato seriam presumidamente verdadeiras, na espécie, demandaria juízo fático incompatível com o recurso especial.
+Ante o exposto, dou provimento ao recurso especial para reformar o acórdão recorrido, determinando o retorno dos autos ao eg. TJSP a fim de, segundo sua livre convicção, julgar novamente o recurso de apelação, fazendo incidir, na espécie, a presunção legal disposta no art. 359 do CPC/73.
+Publique-se.
+EMENTA
