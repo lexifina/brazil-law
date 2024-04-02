@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo interposto por CONDOMÍNIO VOLUNTÁRIO DO SUBCONDOMÍNIO SHOPPING CENTER IGUATEMI ALPHAVILLE contra decisão que não admitiu seu recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, por sua vez manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO nos termos da seguinte ementa (fl. 404):
+LOCAÇÃO EM SHOPPING CENTER Rescisão do contrato em razão dos efeitos negativos da pandemia da Covid-19 Pretensão julgada parcialmente procedente, com redução de 50% do valor dos alugueis devidos entre março e agosto de 2020, e isenção da multa contratual Solução relacionada à redução dos alugueis que se mostra adequada Multa contratual pela rescisão antecipada do contrato que, entretanto, não pode ser afastada integralmente Efeitos negativos da pandemia que atingiu ambas as partes Réu locador que adotou medidas, concedendo descontos e isenções por determinado período, no intuito de viabilizar a manutenção dos contratos de locação dos lojistas Divisão dos prejuízos Multa contratual devida, com redução de 50% do valor previsto no contrato Redistribuição dos ônus da sucumbência Apelação provida em parte.
+Rejeitados os embargos de declaração opostos (fls. 419-421).
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto no art. 54 da Lei n. 8.245/1991, sustentando que (fl. 430):
+Conforme amplamente demonstrado nos autos, o Shopping Recorrente ofertou inúmeros descontos e isenções aos seus lojistas, incluindo a Recorrida, no tocante ao pagamento do aluguel mínimo mensal, fundo de promoção e condomínio, durante toda a locação exercida entre as partes no contexto pandêmico.
+O Shopping Recorrente agiu de boa-fé durante toda a execução do contrato na pandemia, sendo que a Recorrida optou deliberadamente por encerrar sua operação, ainda que tenham sido ofertados inúmeros descontos e isenções a ela.
+Por óbvio que o Recorrente está no direito de cobrar a multa contratualmente estabelecida pela rescisão antecipada.
+Oferecidas contrarrazões (fls. 516-529), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 530-531), o que ensejou a interposição do presente agravo (fls. 537-544).
+Apresentadas contraminutas do agravo (fls. 577-584).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+O Tribunal de origem concluiu que há isenção parcial da multa contratual, baseado no contrato celebrado entre as partes, assim como nos fatos e nas provas existentes nos autos, conforme o seguinte trecho do acórdão (fl. 408):
+Com relação à multa pela rescisão antecipada do contrato, entretanto, entendo que não pode subsistir a isenção total reconhecida na r. sentença, justamente em razão do fato de que ambas as partes foram atingidas pela pandemia, bem como porque nenhuma delas deu causa diretamente à situação que acarretou a inviabilidade de manutenção do contrato, destacando-se que o apelante envidou esforços no âmbito extrajudicial com o fim de viabilizar a manutenção dos contratos dos lojistas, não se mostrando justo que suporte exclusivamente o prejuízo decorrente da rescisão do contrato firmado com a apelada.
+Rever tal entendimento, conforme pretendido, implica a interpretação das cláusulas contratuais e o reexame do contexto fático-probatório dos autos. Sendo assim, incidem as Súmulas n. 5/STJ ("A simples interpretação de cláusula contratual não enseja recurso especial") e 7/STJ ("A pretensão de simples reexame de prova não enseja recurso especial").
+Confiram-se precedentes : AgInt no AREsp n. 2.231.244/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/5/2023, DJe de 12/5/2023; AgInt no REsp n. 2.025.468/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/5/2023, DJe de 10/5/2023; AgInt no REsp n. 2.029.671/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/5/2023, DJe de 8/5/2023.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados pelo Tribunal de origem para 12% sobre o valor atualizado da causa, observada a concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
