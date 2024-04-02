@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de PAULO GIANI GONCALVES, em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o paciente foi preso preventivamente e pronunciado pela suposta prática do crime previsto no art. 121, §2º, incisos I, c.c. art. 14, II, ambos do Código Penal (fls. 560-563). Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que manteve os fundamentos da prisão preventiva ao fundamento de que - "a soltura do paciente representaria perigo à ordem pública e ao bom andamento da instrução processual penal, mister, considerando que permaneceu por mais de 20 anos foragido" - fl. 18 e denegou a ordem, em acórdão de fls. 15-21.
+No presente writ, postula a defesa, em síntese, a revogação da prisão preventiva decretada em desfavor do ora paciente em razão do excesso de prazo na formação da culpa, da ausência dos requisitos ensejadores da prisão preventiva. Aduz que, em caso de condenação, terá direito a regime diverso do fechado.
+A liminar foi indeferida às fls. 575-576.
+As informações foram prestadas às fls. 581-607.
+O Ministério Público Federal, à fl. 611, manifestou pelo "não conhecimento do presente habeas corpus" em parecer não ementado.
+É o relatório. DECIDO.
+No que tange ao excesso de prazo na formação da culpa, constata-se das informações acostadas ao autos, bem como em consulta ao sitio do Tribunal de origem(www.tjsp.jus.br) que o paciente estava foragido há 20 anos. Trata-se de processo em que se apura crime de tentativa de homicidio duplamente qualificado. Ressalte-se que a ação penal tramita com regularidade sem qualquer elemento que evidencie a desídia do aparelho judiciário na condução do feito, o que não permite a conclusão, ao menos por ora, da configuração de constrangimento ilegal passível de ser sanado pela presente via.
+Cumpre ressaltar, que o término da instrução processual não possui características de fatalidade e de improrrogabilidade, não se ponderando mera soma aritmética de tempo para os atos processuais. A propósito, esta Corte, firmou jurisprudência no sentido de se considerar o juízo de razoabilidade para eventual constatação de constrangimento ilegal ao direito de locomoção decorrente de excesso de prazo, levando-se em consideração a quantidade de delitos, a pluralidade de réus, bem como a quantidade de advogados e defensores envolvidos.
+Sobre o tema:
+"Eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional." (AgRg no RHC n. 176.377/SE, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 13/3/2023).
+Ademais, a fuga constitui fundamento do juízo de cautelaridade:
+"não há que se falar em constrangimento ilegal por excesso de prazo, pois esta Corte Superior de Justiça possui entendimento de que tal condição afasta a aludida coação". (AgRg no RHC n. 181.862/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/8/2023, DJe de 18/8/2023.)
+Quanto a prisão preventiva, in casu, extrai-se da decisão de pronúncia:
+"Mantenho a prisão cautelar, pois, como verificado anteriormente (páginas 316 e 318), o acusado permaneceu foragido e, somente diante da prisão por outro feito, foi possível assegurar a instrução criminal na presente ação penal e a futura aplicação da lei penal" - fl. 563.
+A Jurisprudência desta Corte se firmou no sentido de que a devida caracterização da fuga do distrito da culpa enseja motivo suficiente a embasar a manutenção da constrição cautelar decretada.
+Acerca do tema:
+"a fuga do distrito da culpa, comprovadamente demonstrada nos autos e que perdura, é fundamentação suficiente a embasar a manutenção da custódia preventiva, que revela-se imprescindível para o fim de se assegurar o cumprimento de eventual condenação, pois nítida a intenção do réu de obstaculizar o andamento da ação criminal e de evitar a ação da Justiça" (AgRg no HC n. 761.012/MG, Quinta Turma, relator Ministro Joel Ilan Paciornik, DJe de 22/12/2022.)
+Quanto a alegação de que em caso de condenação terá direito a regime diverso do fechado, é consoante a jurisprudência desse Superior Tribunal de Justiça que:
+"Não é possível afirmar que a medida excepcional se mostra desproporcional em relação à eventual condenação que o paciente venha sofrer no fim do processo, porquanto, em recurso em habeas corpus, é inviável concluir a quantidade de pena que poderá ser imposta, tampouco se iniciarão o resgate da reprimenda em regime diverso do fechado" (AgRg no RHC n. 172.351/SC, Quinta Turma, relator Ministro Joel Ilan Paciornik, DJe de 16/3/2023.)
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, denego a ordem.
+Publique-se. Intime-se.
+EMENTA
