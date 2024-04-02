@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo de JOSÉ CARLOS ALMEIDA contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Tocantins, assim ementado:
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPUGNAÇÃO À AVALIAÇÃO DO OFICIAL DE JUSTIÇA. MANIFESTAÇÃO INTEMPESTIVA. PRECLUSÃO. HIPÓTESES DO ART. 873, CPC. NÃO DEMONSTRAÇÃO. RECURSO IMPROVIDO.
+1. Constatado que o prazo para impugnação teve início na data de 15/02/2022, se encerrou na data de 21/02/2022, e somente em 27/04/2022 o agravante impugnou a avaliação do bem, é de justo considerá-la intempestiva, 2 . Admite-se nova avaliação do bem penhorado quando: houver alegação fundamentada de erro na avaliação ou dolo do avaliador;
+houver majoração ou diminuição do valor do bem ou o juiz tiver dúvida sobre o valor da primeira avaliação, nos termos do art. 873 do CPC.
+3. No caso, o laudo acostado nos autos, ainda que sucinto, informou que a avaliação do imóvel levou em consideração as benfeitorias feitas no imóvel, bem como a grande valorização de imóveis rurais no município de Taguatinga/TO. Além disso, o agravante não trouxe aos autos qualquer elemento que denotasse erro na avaliação feita pelo Oficial de Justiça.
+4. Recurso conhecido e improvido." (e-STJ fl. 622)
+Os embargos de declaração opostos foram rejeitados (e-STJ fl. 664/665)
+Nas razões do recurso especial, o agravante alega violação dos artigos 870, parágrafo único, e 873, incisos I a III, ambos do Código de Processo Civil, sustentando que o imóvel em questão foi avaliado em outro processo, por outro oficial de justiça, com uma divergência de mais de 50% entre as duas avaliações, e que houve a juntada de laudo particular que se aproxima da avaliação do imóvel naquele feito, de modo que, diante de tal disparidade, impõe-se a necessidade de uma nova avaliação.
+É o relatório. Decido.
+Quanto à necessidade de nova avaliação do imóvel em questão, o Tribunal de origem expressamente consignou o seguinte:
+"Anota-se, ainda, que o pedido de nova avaliação deve ser fundamentado e demonstrar fundada dúvida em relação ao valor do bem.
+No caso em tela, o laudo acostado nos autos, ainda que sucinto, informou que a avaliação do imóvel levou em consideração as benfeitorias feitas no imóvel, bem como a grande valorização de imóveis rurais no município de Taguatinga/TO.
+Além disso, veri ca-se que o agravante não trouxe aos autos qualquer elemento que denotasse erro na avaliação feita pelo O cial de Justiça.
+Logo, não restando caracterizada nenhuma das hipóteses elencadas no art. 873 do CPC, não se pode determinar nova avaliação, sobretudo porque aquela feita pelo O cial de Justiça goza de presunção de veracidade, imparcialidade e fé pública." (e-STJ fl. 616)
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Neste sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. AUSÊNCIA. HASTA PÚBLICA. SUBAVALIÇÃO DO BEM. DESNECESSIDADE DE NOVA AVALIAÇÃO. DEMONSTRAÇÃO DA NECESSIDADE. REEXAME. SUMULA 7/STJ. OFENSA AO PRINCÍPIO DA MENOR ONEROSIDADE. REEXAME. SÚMULA 7/STJ.
+1. No que tange à admissibilidade do presente recurso por violação aos arts. 489 e 1.022, ambos do CPC, verifica-se que, no ponto, não houve negativa de prestação jurisdicional, máxime porque a Corte de origem analisou de maneira adequada e suficiente as questões deduzidas pelos recorrentes.
+2. Derruir a conclusão a que chegou o Tribunal a quo no sentido de que não houve a suficiência do suporte fático previsto no art. 873 do CPC, notadamente porque inexiste comprovação de eventual subavaliação do bem, demandaria o revolvimento do arcabouço fático-probatório dos autos, o que é vedado pelo enunciado da Súmula 7 do STJ.
+3. Esta Corte Superior perfilha o entendimento de que a reavaliação de bem penhorado depende da existência de elementos capazes de demonstrar a sua efetiva necessidade.
+4. Alterar a conclusão a que chegou o Tribunal a quo no sentido de que não houve a comprovação da necessidade de reavaliação do bem, demandaria o revolvimento de fatos e provas, o que é vedado ante o enunciado da Súmula 7 do STJ.
+5. Derruir a conclusão a que chegou o Tribunal a quo no sentido de que os agravantes não lograram êxito em comprovar a alegada ofensa ao princípio da menor onerosidade, demandaria o revolvimento do arcabouço fático-probatório colacionado aos autos, o que é vedado pelo enunciado da Súmula 7 do STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.736.385/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/11/2020, DJe de 2/12/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BENS IMÓVEIS PENHORADOS. CRITÉRIO DE AVALIAÇÃO. ACORDO FORMULADO ENTRE AS PARTES HOMOLOGADO JUDICIALMENTE. ALTERAÇÃO POSTERIOR. IMPOSSIBILIDADE. QUESTÃO PRECLUSA. REEXAME DAS CIRCUNSTÂNCIAS FÁTICO-PROBATÓRIAS DA CAUSA. DESCABIMENTO. SÚMULA 7/STJ. INOVAÇÃO DE ARGUMENTO. IMPOSSIBILIDADE. RECURSO DESPROVIDO.
+1. Consoante dispõe o art. 873 do CPC/2015, admite-se nova avaliação quando: i) qualquer das partes arguir, fundamentadamente, a ocorrência de erro na avaliação ou dolo do avaliador; ii) se verificar, posteriormente à avaliação, que houve majoração ou diminuição no valor do bem; e iii) o juiz tiver fundada dúvida sobre o valor atribuído ao bem na primeira avaliação.
+2. Todavia, a possibilidade de nova avaliação, ato a ser realizado em regra por oficial de justiça ou por perito avaliador, não se confunde com o critério a ser utilizado, o qual, no presente caso, conforme anotou o acórdão recorrido, decorreu de prévia estipulação entre as partes, devidamente assistidas por seus advogados, e homologada por decisão judicial, estando a questão, por esse motivo, sujeita aos efeitos da preclusão.
+3. Nesse contexto, a revisão do julgado, com o consequente acolhimento da pretensão recursal - no que se refere à natureza do acordo realizado entre as partes e à inadequação do critério de avaliação para aferir o verdadeiro preço de mercado do imóvel -, não prescindiria do reexame do acervo fático-probatório da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula 7 deste Tribunal.
+4. A alegação, em agravo interno, de controvérsia que não foi suscitada nas razões do recurso especial, configura inovação de argumento, incompatível com a via eleita.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.625.439/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/8/2020, DJe de 1/9/2020.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
