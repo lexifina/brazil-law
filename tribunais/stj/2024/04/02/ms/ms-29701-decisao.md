@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de mandado de segurança com pedido de liminar impetrado por JOSÉ MARCO VIEIRA DOS SANTOS e LUCIANA BRAGA DE OLIVEIRA DOS SANTOS contra "ATO EMANDO pela Exma. DESEMBARGADORA DO E. TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - E. 34ª CÂMARA DE DIREITO PRIVADO, Gabinete Exma. Doutora CRISTINA ZUCHI" (fl. 4).
+Informam os impetrantes que o presente mandado de segurança tem como escopo a "agressão da admissão recursal - especificamente quanto à ausência de impedimento (negativa de prestação jurisdicional) no Agravo em Despacho Denegatório de REsp - Recurso Especial interposto pelos Impetrantes perante a E. 34ª Câmara de Direito Privado "a Qua". Recurso contra despacho denegatório que teve sua nascente para visar o regular processamento e o recebimento do Recurso Especial" (fl. 5)
+Relatam que foi interposto recurso especial numa ação rescisória e, após decisão de inadmissão do referido recurso, apresentaram agravo em recurso especial, que não teve trâmite, faltando a determinação de remessa dos autos ao STJ.
+Aduzem que a admissibilidade do recurso especial é da competência do STJ e que a Corte estadual não poderia ter obstaculizado o trâmite do agravo em recurso especial.
+Discorrem acerca das questões deduzidas na ação rescisória, entre elas o que entendem constituir erro de fato. Destacam que há duas ações tramitando com a mesma causa de pedir - uma utilizada para o despejo e outra para a cobrança de aluguéis - e que eventual procedência do pedido rescisório teria consequências para ambos os feitos.
+Ressaltam que, apesar de se tratar de bem de família, já houve a arrematação do imóvel por terceiro, estando na iminência de expedição de mandado de imissão de posse. Informam que não eram sequer proprietários do imóvel, já que fora adquirido mediante contrato de financiamento com alienação fiduciária.
+Diante disso, entendem presentes a verossimilhança do direito e o perigo de demora e requerem a concessão de liminar a fim de que seja determinado o sobrestamento da arrematação e suas consequências (expropriação e imissão do arrematante na posse do bem). No mérito, pleiteiam a concessão da ordem para que seja feita a análise da admissibilidade do recurso especial pelo Superior Tribunal de Justiça.
+Às fls. 66-68, foi indeferido o pedido de liminar ao fundamento de que os impetrantes não comprovaram que eventual agravo em recurso especial tinha sido "trancado" na origem.
+Os impetrantes opuseram embargos declaratórios à decisão, afirmando que não foi comprovado o trancamento do agravo em recurso especial justamente porque sobre ele não houve decisão. Dos embargos não se conheceu conforme a decisão de fls. 81-83.
+Parecer do MPF pelo indeferimento da inicial (fls. 144-146).
+É o relatório. Decido.
+Conforme consta da petição inicial, o mandado de segurança visa seja avocado o julgamento do agravo em recurso especial interposto pelos impetrantes (fl. 3), ou seja, não há um ato que tenha sido praticado pela autoridade indicada como coatora, desembargadora do Tribunal de Justiça do Estado de São Paulo.
+O art. 105, I, b, da Constituição Federal estabelece a competência originária do Superior Tribunal de Justiça para processar e julgar mandado de segurança nas hipóteses de ato omissivo ou comissivo praticado por ministro de Estado, por comandantes da Marinha, do Exército e da Aeronáutica ou pelo próprio Tribunal e lesivo a direito líquido e certo da parte impetrante.
+Fica evidente, portanto, a manifesta incompetência desta Corte para examinar a presente ação constitucional, consoante o entendimento consolidado na Súmula n. 41: "O Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra atos de outros Tribunais ou dos seus respectivos órgãos".
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. ATO DE DESEMBARGADOR DE TRIBUNAL DE JUSTIÇA. STJ. INCOMPETÊNCIA.
+1. Segundo o disposto no art. 105, I, "b", da Carta Política de 1988, compete ao Superior Tribunal de Justiça o processamento e o julgamento de mandados de segurança impetrados contra atos da própria Corte, de Ministros de Estado, de Comandantes da Marinha, do Exército e da Aeronáutica.
+2. Hipótese em que o mandamus ataca decisão proferida por Desembargadora do Tribunal de Justiça/RS, autoridade não compreendida no rol do permissivo constitucional acima citado, circunstância que atrai a incidência da Súmula 41 do STJ.
+3. Agravo interno desprovido. (AgInt no MS 28.974/RS, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 2/5/2023, DJe de 9/5/2023.)
+Pleiteiam também os impetrantes obter o sobrestamento da expropriação judicial no processo em trâmite na origem. Contudo, o mandado de segurança é ação constitucional voltada para a proteção de direito líquido e certo contra ato abusivo ou ilegal de autoridade pública ou de agente de pessoa jurídica no exercício de atribuições do Poder Público (CF, art. 5º, LXIX), não podendo, em regra, ser utilizado como sucedâneo recursal.
+Ante o exposto, nos do art. 10 da Lei n. 12.016/2009, indefiro a inicial.
+Sem honorários advocatícios nos moldes do art. 25 da Lei n. 12.016/2009.
+Advirto a parte de que a oposição de incidentes manifestamente improcedentes e protelatórios dará ensejo à aplicação das penalidades legalmente previstas.
+Publique-se. Intimem-se.
+EMENTA
