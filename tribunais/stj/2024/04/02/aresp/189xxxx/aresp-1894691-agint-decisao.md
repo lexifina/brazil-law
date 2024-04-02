@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo MUNICÍPIO DE SÃO PAULO contra decisão monocrática proferida pela Presidência do Superior Tribunal de Justiça que conheceu do agravo para não conhecer do recurso especial.
+A questão debatida nos autos, qual seja, "definir se há responsabilidade tributária solidária e legitimidade passiva do credor fiduciário na execução fiscal em que se cobra IPTU de imóvel objeto de contrato de alienação fiduciária", encontra-se afetada à Primeira Seção desta Corte Superior aguardando o julgamento dos Recursos Especiais 1.949.182/SP, 1.959.212/SP, 1.982.001/SP, sob o rito dos recursos repetitivos (Tema 1.158 do Superior Tribunal de Justiça).
+A admissão de recurso especial como representativo da controvérsia impõe o sobrestamento dos processos em que foram interpostos recursos na origem cuja matéria se identifique com o tema afetado, para que, concluído o julgamento no Superior Tribunal de Justiça, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do Código de Processo Civil.
+Diante do exposto, reconsidero a decisão agravada e determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após o julgamento do Tema 1.158 , a Corte de origem proceda nos termos do art. 1.040 e seguinte do CPC.
+Publique-se. Intimações necessárias.
+EMENTA
