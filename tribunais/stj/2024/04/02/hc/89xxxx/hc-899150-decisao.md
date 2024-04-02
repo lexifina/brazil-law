@@ -1,0 +1,10 @@
+DECISÃO
+LUCAS ALVES ORLANDO alega sofrer coação ilegal em face de acórdão prolatado pelo Tribunal a quo (Habeas Corpus n. 2019743-25.2024.8.26.0000).
+A defesa assinala o excesso de prazo para análise do pedido de progressão do apenado ao regime aberto. Requer a imediata concessão da prisão domiciliar ante a demora na confecção de cálculos.
+Decido.
+O Paciente está preso na Penitenciária de Pacaembu, em regime fechado. O total das penas alcança 48 anos e 3 meses de reclusão, com término de execução previsto para 14/10/2052. A defesa pleitou a "progressão ao regime semiaberto" (fl. 5), em 4/12/2023, e a petição tramita por prazo que, ao menos por agora, não se considera irrazoável, pois existem complexidades que explicam a tramitação mais lenta do requerimento (recesso, digitalização do processo e divergências nos cálculos).
+Além das festividades de fim de ano, verifica-se o registro de intimação do Ministério Público, seguida de manifestação da defesa e de prolação de despacho para atualização dos cálculos, ante a existência de divergência. Desde o dia 08/01/2024, foi iniciada a digitalização do acervo dos processos de competência da Execução Criminal, o que alterou a rotina cartorária.
+Assim, não se verifica paralisação indevida do feito ou desídia do Poder Judiciário. O "constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto" (AgRg no RHC n. 183.369/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/8/2023, DJe de 22/8/2023).
+À vista do exposto, denego o habeas corpus. Recomendo ao Juiz da Vara de Execuções que realize esforços para a análise urgente do pedido de progressão de regime e solicite ao cartório, com prioridade, providências cabíveis para elaboração dos cálculos penais e as demais medidas pertinentes à análise do benefício.
+Publique-se e intimem-se.
+EMENTA
