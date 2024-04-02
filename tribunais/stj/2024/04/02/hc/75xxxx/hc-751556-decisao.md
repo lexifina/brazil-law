@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de EDER RAMOS OLIVEIRA, RAFAEL DE SOUZA JERONIMO e KESSY FERNANDO PEDROSO RAINEL, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Apelação n. 5063946-95.2020.8.21.0001).
+Consta dos autos que os pacientes, denunciados pela suposta prática dos delitos de homicídio qualificado e associação para o tráfico majorada, foram impronunciados pelo delito de homicídio. Contudo, como o Tribunal de origem deu provimento ao apelo Ministerial, restaram também pronunciados pelo delito contra a vida.
+No presente writ, o impetrante sustenta a ocorrência de constrangimento ilegal, consubstanciado na pronúncia dos pacientes, por entender que foi fundamentada exclusivamente em provas colhidas na investigação policial, negando vigência ao art. 155 do Código de Processo Penal.
+Requer, ao final, a concessão da ordem para anular os acórdãos da apelação criminal e dos embargos infringentes.
+A liminar foi indeferida, às fls. 1234-1235.
+As informações foram prestadas, às fls. 1239-1332.
+O Ministério Público Federal, às fls. 1334-1338, manifestou-se pelo não conhecimento do writ ou pela denegação da ordem.
+O Ministério Público do Estado do Rio Grande do Sul também opinou no mesmo sentido, às fls. 1340-1345.
+É o relatório. DECIDO.
+Conforme consta, a defesa espera despronunciar os pacientes por falta de provas judicializadas da autoria.
+No Tribunal de origem, no julgamento do apelo ministerial n. 5063946-95.2020.8.21.0001, foi decidido por pronunciar os pacientes pelas seguintes razões (fls. 1097-1098):
+"Na espécie, a impronúncia foi embasada em insuficiência probatória quanto à autoria delitiva, pois uma das testemunhas alterou a versão, dada na fase policial, quando inquirida em juízo, além de os policiais narrarem fatos trazidos por populares, não presenciados pessoalmente.
+Com o devido respeito ao entendimento manifestado pelo Julgador Singular, entendo que não há como deixar de submeter o feito ao Tribunal do Júri.
+Isso porque, como já dito, neste primeiro momento do processo cabe apenas a avaliação da viabilidade acusatória, a qual está presente, pois a alteração de versão da testemunha Tiago tem assento em grau de proximidade com os réus Vinícius e Éder, pois é padrasto deles, com nítido interesse na sorte dos enteados.
+Além disso, os dizeres dos policiais são relevantes, mesmo que não tenham presenciado o homicídio, na medida em que, ao atenderem a ocorrência, tiveram contato com populares, no calor do momento, obtendo informações que nortearam a investigação.
+Ora, a dinâmica dos fatos e as apurações ocorridas durante a tramitação do feito evidenciam que os delitos têm ligação com facções criminosas e disputa por pontos de tráfico.
+Nessa medida, todas as nuances devem ser equalizadas e não se pode olvidar que os jurados são livres para a apreciação do feito, inclusive, para valoração apenas da prova inquisitorial, na íntima convicção. (..)
+Imperativa, assim, a reforma da sentença, modo a garantir a submissão dos fatos ao Conselho de Sentença."
+Contudo, a defesa, concomitantemente ao presente habeas corpus, também interpôs o REsp n. 2.028.633/RS, o qual está atualmente pendente de julgamento neste gabinete e cujo objeto recursal seria o seguinte (fls. 1189-1233 dos respectivos autos resumidas à fl. 1280 pelo MPF):
+"Com fundamento no art. 105, III, "a" e "c", da CR, aparte recorrente alegou ofensa aos arts. 155, 413 e 414 do Código de Processo Pena, argumentando que não há provas da autoria delitiva e que a pronúncia se lastreou somente em elementos indiciários."
+Dessarte, inviável a análise do presente writ, em razão do entendimento firmado nesta Corte Superior no sentido de que:
+"A jurisprudência desta Corte não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade" (AgRg no HC n. 823.337/SP, Sexta Turma, Relª. Min.ª Laurita Vaz, DJe de 21/8/2023).
+A corroborar tal entendimento, os seguintes precedentes desta Corte Superior:
+"A jurisprudência desta Corte não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade. (..) Nos recursos de índole extraordinária, a Defesa alega diversas nulidades, além de postular também, quanto ao mérito, a redução das penas e a absolvição do ora Agravante. É nítida, portanto, a relação de prejudicialidade havida entre os recursos e o presente writ, pois no caso de acolhimento do pleito absolutório, ficaria absolutamente prejudicada qualquer deliberação quanto as penas aplicadas pela Jurisdição Ordinária. Diante desse cenário fático-processual, "qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado  pelo  impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e o alargamento inconstitucional de sua competência para julgamento de habeas corpus" (AgRg no HC 733.563/RS, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 10/05/2022, DJe 16/05/2022)" (AgRg no HC n. 831.891/PB, Sexta Turma, Rel. Min. Teodoro Silva Santos, DJe de 15/12/2023).
+"O habeas corpus foi liminarmente indeferido em virtude da constatação da interposição concomitante, mediante idênticos fundamentos, de recurso especial pela defesa contra o mesmo acórdão proferido pelo Tribunal de Justiça. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais" (AgRg no HC n. 833.593/RS, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 12/12/2023).
+"A jurisprudência desta Corte não admite a tramitação concomitante de recurso especial e habeas corpus manejados contra o mesmo acórdão e com o mesmo objeto, sob pena de subversão ao sistema recursal e violação do princípio da unirrecorribilidade" (AgRg no HC n. 841.352/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 29/9/2023).
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intime-se.
+ EMENTA
