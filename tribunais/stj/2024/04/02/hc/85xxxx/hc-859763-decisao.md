@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de habeas corpus, substitutivo de recurso próprio, sem pedido liminar, impetrado em benefício de TIAGO ANTONIO DE SOUZA DANTAS, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, proferido no julgamento do HC n. 1.0000.22.203901-8/000.
+Extrai-se dos autos que o paciente, no bojo da "Operação After", desdobramento da "Operação Balada", foi denunciado como incurso nas sanções dos artigos 33, 35, ambos da Lei n. 11.343/2006; artigo 2º, §§ 2º e 4º, inciso IV, da Lei n. 12.850/2013; e artigo 1º, § 4º da Lei n. 9.613/1998 (tráfico de drogas, associação para o tráfico, integrar organização criminosa armada e la vagem de dinheiro).
+A defesa do corréu RAFAEL MIRANDA MOTA impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS" - ORGANIZAÇÃO CRIMINOSA - ASSOCIAÇÃO PARA O TRÁFICO - ALEGAÇÃO DE NULIDADE INCOMPETÊNCIA DO JUÍZO - INOCORRENCIA - ORDEM DENEGADA." (fl. 19).
+No presente writ, a defesa se insurge contra acórdão do TJ/MG que denegou a ordem em habeas corpus impetrado pela defesa do corréu RAFAEL MIRANDA MOTA, alegando que o referido corréu teve contra si medidas cautelares decretadas pelo Juízo da 4ª Vara Criminal da Comarca de Uberlândia, todavia, era autoridade judiciária manifestamente incompetente.
+Alega que o paciente foi alvo de busca e apreensão em 2016 e que também é réu na Operação Balada iniciada em 2020, igualmente como o corréu RAFAEL MIRANDA MOTA. Afirma que a atitude da autoridade policial em direcionar o Juízo da 4ª Vara Criminal de Uberlândia violou o princípio do juiz natural, pois alega que deveria a representação em 2020 ser distribuída no Fórum de Uberlândia para que houvesse o sorteio entre as 5 varas criminais da comarca.
+Sustenta que se aplica ao caso o disposto no artigo 580 do Código de Processo Penal - CPP, pois o HC n. 786.924/MG impetrado pela defesa do referido corréu está no STJ, devendo a decisão ser estendida ao paciente.
+Requer, assim, a concessão de ordem de habeas corpus, para reconhecer a nulidade de todos os atos decisórios do processo originário, por incompetência do juízo, especialmente as medidas cautelares pré-processuais, determinando-se, na origem, a sua redistribuição por sorteio entre as cinco varas criminais comuns da comarca de Uberlândia.
+Não houve pedido de liminar.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 4.019/4.023).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Passo à análise das alegações expostas na inicial tão somente para verificar se existe flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Conforme relatado, busca-se no presente writ, o reconhecimento de nulidade de todos os atos decisórios do processo originário, por incompetência do Juízo a quo.
+Da análise dos autos, verifica-se que a defesa do paciente se insurge contra acórdão do TJ/MG proferido no HC n. 1.0000.22.203901-8/000 em que figura como paciente o corréu RAFAEL MIRANDA MOTA. Dessa forma, ausente a legitimidade da defesa do paciente para arguir suposta nulidade referente à competência do Juízo de primeiro grau que aplicou medidas cautelares no bojo da ação penal. Apesar de o paciente ser parte no processo, não é paciente no acórdão impugnado.
+Assim, não tendo sido analisada pela Corte estadual a fundamentação trazida na inicial do habeas corpus referente ao paciente, esta Corte Superior fica impedida de analisar referida tese sob pena de se incorrer em indevida supressão de instância.
+Noutro ponto, não há falar em extensão dos efeitos do decidido no HC 786.924/MG, com fundamento no art. 580 do CPP, porquanto é firme o entendimento nesta Corte Superior segundo o qual o pedido de extensão deve ser formulado nos autos do processo no qual fora prolatada a decisão cujos efeitos se pretende estender, o que não ocorre no presente caso.
+Ilustrativamente, confira-se julgado desta Corte Superior de Justiça:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. PORTE IRREGULAR DE ARMA DE FOGO DE USO RESTRITO E OUTRA COM NUMERAÇÃO SUPRIMIDA. SENTENÇA CONDENATÓRIA. NEGADO O DIREITO A RECORRER EM LIBERDADE. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE DO AGENTE. QUANTIDADE E VARIEDADE DE DROGA E ARMAMENTO APREENDIDOS. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO DO PROCESSO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PEDIDO DE EXTENSÃO. SITUAÇÃO FÁTICO-PROCESSUAL DIVERSA. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+7. Sedimentado nesta Corte Superior o entendimento segundo o qual o pedido de extensão deve ser formulado nos autos do processo no qual foi prolatada a decisão cujos efeitos se pretende estender, o que não se verifica na presente hipótese.
+8. Em esforço comparativo entre a situação do ora paciente e do corréu beneficiado com a liberdade provisória, não foi verificada a indispensável similitude fática-processual, razão pela qual se mostra inviável pretendida extensão de efeitos. Saliente-se que o corréu obteve a benesse no curso da instrução probatória e o paciente buscou a extensão apenas após ter sido condenado, inclusive à pena substancialmente superior.
+Habeas corpus não conhecido.
+(HC 424.399/SP, de minha relatoria, QUINTA TURMA, DJe 04/09/2018)
+Ademais, o HC 786.924/MG impetrado contra a decisão do Tribunal de origem em favor do corréu Rafael Miranda não teve seu mérito julgado por est a Corte Superior até o presente momento, e o pedido liminar foi indeferido, de modo que ausente o interesse de agir do paciente.
+Ante o exposto, nos termos do art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
