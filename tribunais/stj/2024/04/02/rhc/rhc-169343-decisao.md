@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por BREDSON PATRICK DA SILVA, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Habeas Corpus Criminal nº 2053917-31.2022.8.26.0000).
+Consta dos autos que o recorrente foi denunciado pela prática, em tese, do delito tipificado no art. 33, caput, da Lei n. 11.343/2006. Ele foi sentenciado e a sua condenação, reformada pela Corte de origem, restou fixada em um ano e oito meses de reclusão, em regime aberto, mais o pagamento de cento e sessenta e seis dias-multa. A pena privativa de liberdade foi substituída.
+A condenação já transitou em julgado e o recorrente está em liberdade.
+No presente recurso ordinário, a defesa alega que o recorrente estaria sofrendo constrangimento ilegal, em razão da suposta ausência de citação do recorrente e de intimação do advogado constituído para a audiência de instrução.
+Sustenta que o juízo de primeiro grau decretou a revelia do recorrente, nomeando defensor para atuar na audiência sem que tivesse citado o réu - o que entende configurar cerceamento de defesa.
+Aduz que o defensor constituído do recorrente foi informado da audiência de instrução por meio de ligação telefônica ocorrida apenas alguns minutos antes de sua realização.
+Afirma que a tentativa de citação do recorrente ocorreu no seu endereço residencial quando estava preso, e que os seus familiares estavam todos fora da residência por estarem em horário de trabalho.
+Assevera que o recorrente sequer foi citado antes da declaração de sua revelia.
+Requer, ao final, o provimento do recurso para que seja reconhecida a nulidade de diversos atos processuais, em especial, da audiência de instrução, ante a ausência de citação e de intimação do recorrente e de sua defesa constituída para participação na audiência de instrução.
+O Ministério Público Federal, às fls. 126-129, manifestou-se pelo não conhecimento do recurso, em parecer.
+É o relatório. DECIDO.
+Conforme consta, a defesa invoca nulidades processuais, decorrentes da alegada ausência de citação do recorrente e de intimação em geral para a realização de audiência de instrução. Desde já, adianto que a alegação de ausência de citação e intimação do não procede.
+O acórdão do writ originário ressalta que tanto o ora recorrente quanto seu defensor constituído estavam plenamente cientes da data de realização da audiência de instrução no momento da revogação da prisão preventiva do recorrente (fls. 80-83):
+"Registro que, no decorrer da instrução, foi impetrado anterior habeas corpus pelo Impetrante, Dr. Marco Antônio alegando excesso de prazo na formação da culpa.
+A ementa do acórdão é a seguir transcrita:
+Habeas corpus. Excesso de prazo na formação da culpa. Tráfico e associação para o tráfico de entorpecentes. Alegação de excesso de prazo na segregação cautelar. Prisão processual que perdura por mais de 01 ano. Demora excessiva a que o paciente não deu causa. Primariedade. Custódia cautelar que, até a audiência de instrução designada (fevereiro/2022) ultrapassará 14 meses. Delito sem violência ou grave ameaça à pessoa. Desproporcionalidade. Ordem concedida para autorizar que o paciente aguarde em liberdade até o trânsito em julgado, contudo, mediante cumprimento da medida cautelar constante no art. 319, IV, do CPP e comparecimento a todos os atos processuais (grifo nosso).
+Restou fundamentado no inteiro teor do referido aresto, através dos elementos trazidos pelo próprio Defensor, que, até a audiência designada, o paciente estaria preso por período desproporcional, sendo, então colocado em liberdade mediante condições:
+"(..) E, ademais, destaca-se que a audiência de instrução e julgamento é prevista apenas para 14 de fevereiro de 2022, às 15h45, tudo a indicar que o paciente, primário, suportará tempo de custódia cautelar bem maior do que 01 (um ano).
+Portanto, de fato, conforme demonstrado pela d. Impetrante, evidente a demora excessiva na formação da culpa.
+(..) Ante o exposto, CONCEDERAM A ORDEM para reconhecer o excesso de prazo na manutenção da custódia cautelar, autorizando-se ao paciente que aguarde em liberdade até o trânsito em julgado.
+Contudo, deverá o paciente cumprir a medida cautelar prevista no art. 319, inciso IV, do Código de Processo Penal, bem como comparecer a todos os atos processuais, notadamente à audiência já designada perante o juízo a quo. Expeça-se alvará de soltura" (grifo nosso).
+Expediu-se alvará de soltura na origem em favor do paciente, consignando as medidas cautelares ora impostas, bem como outras pelo juízo a quo, conforme consulta aos autos digitais.
+Sucedeu que, quando da realização da audiência designada, nem o paciente nem seu defensor compareceu ao ato.
+A certidão do oficial de Justiça encontra- se a fls. 76:
+CERTIFICO eu, Oficial de Justiça, que em cumprimento ao mandado nº 400.2022/000255-2 dirigi-me ao endereço constante, diversas vezes, sempre encontrando a casa fechada. O imóvel está em construção, na fase de pintura, está sem interfone e nas vezes em que estive na casa não encontrei trabalhadores ou moradores. Não consegui nenhuma informação com vizinhos. Sendo assim, NÃO TIVE ÊXITO em INTIMAR o Sr. BREDSON PATRICK DA SILVA.
+Ocorre que a autoridade impetrada, então, decretou a revelia do paciente nos termos do art. 367 do CPP, que prevê o prosseguimento do processo "sem a presença do acusado que, citado ou intimado pessoalmente para qualquer ato, deixar de comparecer sem motivo justificado, ou, no caso de mudança de residência, não comunicar o novo endereço ao juízo". Consequentemente, afastou a nulidade aqui arguida  .. .
+Portanto, veja-se que, o paciente, embora notificado pessoalmente, tanto para apresentação de defesa prévia quanto também na ocasião da assinatura de seu alvará de soltura que constou as medidas cautelares fixadas, dentre elas da proibição de se ausentar da comarca sem autorização do juízo, não foi localizado no endereço por ele informado nos autos.
+ ..
+Diante desse quadro, forçoso concluir que não há ilegalidade ou constrangimento ilegal a ser reparado pela via do writ, ressaltando ter sido decretada a revelia após tentativas frustradas do oficial de justiça, descrevendo que o imóvel estaria em fase final de construção e sempre fechado, sem moradores ou vizinhos, conforme se infere da certidão de fls. 76.
+Houve, assim, tentativa de citação/intimação do acusado no endereço por ele declinado (fl. 97).
+Embora não tenha sido localizado, constituiu, desde o início, advogado, apresentando Defesa Previa nos autos com amplos poderes, o que demonstra que conhecia da imputação contra ele dirigida.
+Não há que se falar, ainda, em qualquer prejuízo ao acusado, eis que este foi acompanhado por advogado nomeado ad hoc pelo juízo quando da audiência, que aliás, era o defensor inicialmente constituído.
+O juízo, ademais, sequer determinou a prisão do paciente em decorrência do descumprimento de medidas cautelares (foi intimado pessoalmente quando da expedição do alvará de soltura). De fato, não suportado prejuízo a ensejar a concessão da ordem (..).
+Ainda mais remoto é o cabimento da alegação de nulidade em decorrência da ausência de intimação o impetrante para a audiência de instrução e julgamento.
+Ora, no presente caso, trata-se de defensor constituído, de forma que regular sua intimação através da imprensa oficial, o que ocorreu no habeas corpus cuja decisão destacou a imposição de compromisso de comparecimento à "audiência designada no juízo" (..)." (grifei).
+Portanto, não há que se falar em ausência de citação do recorrente, nem mesmo em um alegado desconhecimento da data da audiência.
+O recorrente foi preso em flagrante e permaneceu preso preventivamente por cerca de um ano em razão do delito que lhe foi imputado na ação penal originária (de dezembro de 2020 até dezembro de 2021, confo rme consulta ao site), contrariando a alegação defensiva.
+Ademais, em consulta ao sítio eletrônico do Tribunal de origem, verifico que sobreveio sentença condenatória em desfavor do recorrente, em 11/4/2022 (publicada em 19/4/2022), portanto cerca de quatro meses antes do recebimento do presente recurso ordinário. A condenação foi reformada pela Corte de origem no julgamento do recurso de apelação, e fixada em um ano e oito meses de reclusão em regime aberto, mais o pagamento de cento e sessenta e seis dias-multa. A pena privativa de liberdade foi substituída (fl. 611 da ação penal originária), verbis:
+"(..) por uma restritiva de direitos, consistente em prestação de serviços à comunidade, e uma multa, no importe de 10 (dez) diárias, no piso".
+Ao fim, a condenação transitou em julgado e o recorrente está em liberdade.
+Ante o exposto, não constatada a flagrante ilegalidade, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intime-se.
+ EMENTA
