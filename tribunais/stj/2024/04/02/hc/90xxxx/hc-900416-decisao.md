@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de BRULAINE SILVA DOS SANTOS, contra indeferimento de decisão na Apelação Criminal n. 0439713-50.2016.8.19.0001, do Desembargador Relator da Terceira Câmara Criminal do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (fls. 74-76; 83-84).
+No presente writ, a Defesa alega a existência de constrangimento ilegal consubstanciado no encarceramento provisório da Paciente, aduzindo ausência de fundamentação para a segregação cautelar.
+Argumenta que "A ação penal atinente à MC impugnada está em grau de apelação. E, em18/03/2024, o relaxamento foi indeferido em termos que demonstram a convicção da autoridade acerca do recurso pendente. Os autos foram conclusos à r. des(a). revisora, que pediu dia para julgamento e o próprio ato vergastado contém determinação de inclusão na primeira pauta disponível. Ao contrário do que consta no ato combatido; não há revisão de preventiva desvencilhada do mérito da apelação, se a paciente respondeu ao processo presa. Assim; há periculum, pois a não concessão da ordem pode implicar no prolongamento da custódia ilegal até o provimento de apelo extremo." (fl. 4)
+Requer a concessão da ordem liminarmente, com o fim de relaxamento da prisão da paciente .
+É o relatório. DECIDO.
+Os autos não versam sobre hipótese que admite a pretendida valoração antecipada da matéria, pois, pela análise da quaestio trazida à baila na exordial, verifica-se que o habeas corpus investe contra decisão monocrática de Desembargador Relator. De fato, ressalvadas hipóteses excepcionais descabe o instrumento heroico em situação como a presente, sob pena de ensejar supressão de instância.
+Com efeito, a jurisdição desta Corte Superior é inaugurada com o esgotamento da via ordinária, o que não ocorreu no caso, porquanto impetrado mandamus contra decisão monocrática, inexistindo deliberação pelo órgão colegiado.
+Nesse sentido:
+"1. A jurisprudência desta Corte é firme na compreensão de que não tem cabimento o habeas corpus para desafiar decisão singular de Desembargador não submetida ao colegiado. 2. A provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente. Se o agravo regimental interposto na origem ainda não foi apreciado pelo órgão colegiado competente, não se inaugurou a competência deste Tribunal Superior" (AgRg no HC n. 566.967/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/6/2020, DJe de 25/6/2020)
+Ante o exposto, com fulcro no art. 34, inciso XX, e art. 210, ambos do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
