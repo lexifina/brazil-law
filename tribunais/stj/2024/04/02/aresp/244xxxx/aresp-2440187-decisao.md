@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo manejado por Cooperativa de Crédito, Poupança e Investimento do Sudoeste MT/PA - SICREDI Sudoeste MT/PA contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso, assim ementado (fl. 393/394):
+APELAÇÃO CÍVEL - AÇÃO ANULATÓRIA - IMPROCEDENTE - MULTA PROCON - VIOLAÇÃO AO CÓDIGO DE DEFESA DO CONSUMIDOR CONSTATADA - POSSIBILIDADE DE APLICAÇÃO DE MULTA - PROCESSO ADMINISTRATIVO - AUSÊNCIA DE ILEGALIDADE - AMPLA DEFESA E CONTRADITÓRIO - OBSERVADOS - VALOR DA MULTA - RAZOABILIDADE E PROPORCIONALIDADE - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+1. Verificado os princípios da ampla defesa e do contraditório e, não constatada a existência de vícios, deve ser mantido o processo administrativo que resultou na aplicação de multa por desrespeito ao Código de Defesa do Consumidor (CDC).
+2. Conforme a Edição n. 083 da Jurisprudência em Teses do STJ: "as cooperativas de crédito são equiparadas às instituições financeiras, aplicando-lhes o Código de Defesa do Consumidor, nos termos da Súmula 297/STJ"
+3. Não há que falar em minoração do valor da penalidade aplicada, ante a observância dos parâmetros estabelecidos no art. 57 do Código de Defesa do Consumidor, bem como dos princípios da proporcionalidade e da razoabilidade. (Ap 1005529-62.2017.811.0015, DES. MARIO ROBERTO KONO DE OLIVEIRA, Segunda Câmara de Direito Público e Coletivo, julgado em 31/08/2021, publicado no DJE 28/09/2021).
+4. Sentença Mantida, Recurso Desprovido.
+Opostos embargos declaratórios, foram rejeitados (fls. 445/453).
+Nas razões do recurso especial, a parte agravante aponta, além de dissídio jurisprudencial, violação aos arts: (I) 11, 489, e 1.022, do CPC, por omissão no acórdão recorrido de questão relevante ao melhor deslinde da controvérsia e (II) 79, parágrafo único, da Lei n. 5.764/71, porquanto a Súmula 297/STJ não é aplicável aos atos administrativos realizados entre a cooperativa e seus cooperados.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 11, 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No que diz respeito ao art. 79, parágrafo único, da Lei n. 5.764/71, depreende-se do acórdão recorrido que a conclusão no sentido de ser aplicável ao caso dos autos a Súmula 297/STJ deu-se em razão dos fatos e provas próprias da demanda, quais sejam, multa aplicada pelo PROCON pelo atraso excessivo de atendimento a consumidor.
+Assim, além do citado dispositivo não conter comando normativo suficiente para sustentar a tese elaborada pela parte - a de que atos administrativos entre cooperados não poderiam ensejar a aplicação da legislação consumerista -, o que atrai a incidência da Súmula 284/STF, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CÉDULA DE PRODUTO RURAL.
+1. COOPERATIVA EQUIPARADA A ESTABELECIMENTO COMERCIAL E INSTITUIÇÃO FINANCEIRA. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. SÚMULAS N. 7 e 83/STJ.
+2. AGRAVO INTERNO IMPROVIDO.
+1. Consoante entendimento do Superior Tribunal de Justiça, na hipótese em que a atividade da cooperativa se equipara àquelas típicas das instituições financeiras, são aplicáveis as regras do Código de Defesa do Consumidor. Súmula n. 83/STJ. Rever o entendimento do acórdão recorrido acerca da atuação da pessoa jurídica como cooperativa exigiria o necessário revolvimento do conjunto fático-probatório dos autos, medida defesa em recurso especial, ante o óbice da Súmula n. 7/STJ.
+2. Agravo interno improvido.
+(AgInt no AREsp n. 1.775.164/MS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/12/2021, DJe de 15/12/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. MONOCRÁTICA AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. PRECLUSÃO.
+2. COOPERATIVA E COOPERADO. ATO ATÍPICO. RECONHECIMENTO. REVISÃO EM RECURSO ESPECIAL. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ.
+3. COOPERATIVA AGRÍCOLA. EMPRÉSTIMO A COOPERADO. INCIDÊNCIA DO CDC. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. Não impugnada a aplicação das Súmulas n. 282 e 356 do STF, está preclusa a discussão a respeito de os recorridos serem destinatários finais do valor objeto do empréstimo.
+2. O especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ. O Tribunal de origem, ao manter a incidência do Código de Defesa do Consumidor, concluiu que o empréstimo contratado ultrapassou as atividades típicas de cooperado e cooperativa, "envolvendo, também, relações nitidamente bancárias". Alterar esse entendimento demandaria o reexame das provas, o que é vedado neste recurso.
+3. "A orientação jurisprudencial do Superior Tribunal de Justiça é no sentido de se admitir a aplicação das disposições do Código de Defesa do Consumidor às relações travadas entre cooperados e cooperativas quando estas desenvolvem atividades equiparadas às instituições financeiras" (AgInt nos EAREsp n. 1.302.248/PR, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 20/10/2020, DJe de 29/10/2020). Aplicação da Súmula n. 83 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.172.183/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 29/5/2023, DJe de 2/6/2023.)
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, § 1º, do RISTJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 10% (dez por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+EMENTA
