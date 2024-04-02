@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo regimental interposto por Jean Vinicius Ribeiro de Oliveira contra a decisão, por mim proferida, na qual deneguei a ordem de habeas corpus, conforme esta ementa (fl. 312):
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. RISCO CONCRETO DE REITERAÇÃO DELITIVA. REINCIDÊNCIA ESPECÍFICA. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
+Em suma, a defesa do agravante reitera a ausência de fundamentos concretos para manutenção da prisão preventiva, porquanto justificada em argumentos genéricos que poderiam ser utilizados em quaisquer outros casos.
+Pondera que, não obstante a decisão monocrática impugnada tenha destacado a necessidade da custódia cautelar para evitar a reiteração criminosa, uma vez que o agravante é reincidente específico, foi apreendida ínfima quantidade de droga - 5,4 g de cocaína -, o delito imputado é destituído de violência ou grave ameaça à pessoa e não há notícias de envolvimento do réu com organização criminosa.
+Ressalta que a reincidência, por si só, é insuficiente para justificar a segregação cautelar.
+Afirma que, não sendo concedida a ordem de habeas corpus ao agravante, necessário realizar distinguishing de todas as decisões citadas neste agravo regimental.
+Ao final, pleiteia o recebimento do agravo regimental e a revogação ou substituição da prisão preventiva por medidas cautelares diversas, expedindo-se o competente alvará de soltura.
+Intimado para apresentar contrarrazões, o Ministério Público Estadual quedou-se inerte.
+É o relatório.
+Razão assiste ao agravante, e a decisão deve ser reconsiderada.
+Por oportuno, ao denegar a ordem de habeas corpus, declarei o seguinte (fl. 315 - grifo nosso):
+ ..
+Ora, observa-se da análise dos trechos acima que a manutenção da constrição cautelar está devidamente fundamentada, sobretudo na necessidade de se assegurar a ordem pública, vulnerada em razão do risco de reiteração delitiva, uma vez que o paciente é reincidente específico, conforme se nota pela certidão de fls. 63/68 e, ainda, de acordo com o relatório de investigação produzido nos Autos n. 1500092-37.2023.8.26.0279, rotineiramente aportam denúncias contra o investigado J., dando conta de que continua atuando na mercancia ilegal de drogas (fl. 39 - grifo nosso). Circunstâncias essas que conferem lastro de legitimidade à manutenção da medida extrema.
+Vale lembrar ainda que a jurisprudência desta Corte de Justiça é firme ao asseverar que a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (HC n. 559.796/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 11/5/2020).
+Por fim, eventuais condições pessoais favoráveis da paciente não têm o condão de, por si sós, garantir a revogação da prisão preventiva. Há nos autos elementos hábeis a recomendar a manutenção de sua custódia preventiva, não se mostrando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+ ..
+Contudo, em consulta ao site do Tribunal de origem, verificou-se que, em 8/8/2023, nos Autos n. 1500310-65.2023.8.26.0279, o Juiz da 1ª Vara da comarca de Itararé/SP condenou o ora agravante impondo a pena de 7 anos de reclusão, em regime inicial fechado, negando-lhe o recurso em liberdade com base em fundamentos genéricos e inidôneos.
+São estes, no que interessa, os termos da sentença do Juiz de primeira instância (grifo nosso):
+ ..
+Os acusados JEAN VINÍCIUS RIBEIRO DE OLIVEIRA e LUIZ FELIPE DE OLIVEIRA SANTOS BATISTA não têm direito de apelar em liberdade.
+Nos termos do art. 387, §1º do Código de Processo Penal, mantenho a prisão preventiva do acusado, pois as circunstâncias do caso concreto demonstram a periculosidade do agente, justificando-se então sua prisão como resguardo da ordem pública e garantia da aplicação da lei penal. Ainda, considerando-se a quantidade de pena imposta nesta sentença, confirmada está a necessidade da manutenção da custódia do acusado.
+É pacífico na jurisprudência que o direito de recorrer da sentença penal condenatória em liberdade não se aplica ao acusado já preso em decorrência de flagrante ou de prisão preventiva, que assim permaneceu durante todo o curso da instrução criminal. Confira-se, a respeito, o posicionamento do Egrégio Tribunal de Justiça do Estado de São Paulo: "Habeas Corpus. Tráfico ilícito de drogas. Sentença condenatória. Pedido de apelo em liberdade. Inadmissibilidade. Paciente permaneceu sob custódia do Estado durante a instrução processual. Ordem denegada" (HC nº 0276546-35.2011.8.26.0000, Rel. Des. Walter de Almeida Guilherme, j. 16/02/2012, V. U.)."HABEAS CORPUS. Tráfico de Entorpecentes. Regime inicial fechado. Fixado de acordo com a legislação vigente. Apelo em liberdade vedado. Acusado que permaneceu preso durante o processo. Não ofensa à garantia constitucional da presunção de inocência. Ordem denegada." (HC nº 0181659-59.2011.8.26.0000, Rel. Des. Miguel Marques e Silva, j. 12/04/2012, V. U.).
+O Colendo Superior Tribunal de Justiça também já se manifestou a respeito, afirmando: "A despeito do princípio da presunção de inocência, não tem direito de recorrer em liberdade o acusado que permaneceu justificadamente preso durante toda a instrução criminal" (RHC nº 23.319 MG, Rel. Min. Laurita Vaz, j. 12/08/2008, Habeas Corpus nº 0193431-48.2013.8.26.0000 - Voto nº 4.4555).
+Deveras, não haveria qualquer lógica em manter o acusado preso durante a instrução e, sobrevindo condenação, ainda que não transitada em julgado, soltá-lo para aguardar o julgamento da apelação interposta.
+Ao contrário, a prolação de sentença condenatória reforça e ratifica o cabimento da prisão. Assim, não se caracteriza, aqui, medida desproporcional que revele o alegado constrangimento do acusado, ainda mais porque lhe aplicado regime prisional de segregação rigorosa.
+Recomendo os acusados Jean e Luiz na prisão onde se encontram.
+ ..
+Ora, da análise da sentença condenatória observa-se que o Juízo primevo se limitou a afirmar que o sentenciado permaneceu preso durante a instrução criminal, em dissonância à expressa disposição legal do art. 387, § 1º, do Código de Processo Penal.
+Ademais, observo que o crime foi cometido sem violência ou grave ameaça à pessoa e a quantidade de droga apreendida não pode ser tida como exacerbada - 5,4 g de cocaína (fl. 37) -, além de não haver indicativos relevantes de que o agente integre organização criminosa.
+Nesse sentido, já tive a oportunidade de decidir:
+PROCESSUAL PENAL. HABEAS CORPUS. LATROCÍNIO TENTADO. SENTENÇA. MANUTENÇÃO DA PRISÃO PREVENTIVA. ALEGAÇÃO DE NEGATIVA DE AUTORIA. CONHECIMENTO. IMPOSSIBILIDADE NA VIA ESTREITA DO WRIT. FUNDAMENTAÇÃO PARA A NEGATIVA DE RECORRER EM LIBERDADE. AUSÊNCIA. INOBSERVÂNCIA DO DISPOSTO NOS ARTS. 312 E 387, § 1º, DO CPP. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. A tese de negativa de autoria é afeta ao recurso de apelação, até porque demanda reexame fático-probatório, inviável na via estreita do writ.
+2. O Juiz, ao proferir sentença condenatória:  ..  decidirá, fundamentadamente, sobre a manutenção ou, se for o caso, a imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento de apelação que vier a ser interposta. (Art. 387, §1º, CPP).
+3. Hipótese em que o Juízo de primeiro grau, ao manter a segregação cautelar na sentença, sequer faz menção à subsistência dos fundamentos que ensejaram a decretação da segregação cautelar anteriormente, limitando-se a se apegar ao fato de que os acusados responderam a ação penal custodiados. Nessas hipóteses, esta Corte tem reconhecido o constrangimento ilegal, por inobservância ao mandamento previsto no art. 387, § 1º, do Código de Processo Penal.
+Precedente.
+4. Existindo corréu em situação fático-processual idêntica, devem ser estendidos os efeitos da presente decisão, nos termos do art. 580 do Código de Processo Penal.
+5. Ordem concedida, confirmando a medida liminar, para revogar a prisão cautelar imposta ao paciente, podendo o Magistrado singular a decretar novamente ou aplicar medidas alternativas, desde que com fundamento em elementos concretos. Os efeitos desta decisão devem ser estendidos ao corréu Carlos Daniel.
+(HC n. 727.473/PR, de minha Relatoria, Sexta Turma, DJe 14/10/2022 - grifo nosso).
+Ante o exposto, dou provimento ao agravo regimental para reconsiderar a decisão de fls. 312/316 e conceder a ordem para assegurar ao agravante o direito de recorrer em liberdade, podendo o Magistrado singular impor medidas cautelares diversas da prisão.
+Comunique-se, com urgência, ao Juízo competente.
+Publique-se.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PENAL E PROCESSUAL PENAL. RECONSIDERAÇÃO DA DECISÃO DE HABEAS CORPUS. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. SENTENÇA CONDENATÓRIA SUPERVENIENTE. NEGATIVA DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO. AUSÊNCIA. INOBSERVÂNCIA DO DISPOSTO NO ART. 387, § 1º, DO CPP. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Agravo regimental provido para reconsiderar a decisão de fls. 312/316 e conceder a ordem nos termos do dispositivo.
