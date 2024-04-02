@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+SISTEMA FINANCEIRO IMOBILIÁRIO. LEI Nº 9.514/97. REGULARIDADE NA EXECUÇÃO EXTRAJUDICIAL. NOTIFICAÇÃO PESSOAL LEILÃO. DESNECESSIDADE.
+- Inicialmente, cumpre esclarecer que o contrato de compra e venda do imóvel em questão está regido pela Lei nº 9.514/97, que dispõe sobre o sistema de financiamento imobiliário e institui a alienação fiduciária de coisa imóvel, e não pelo Decreto-lei nº 70/66, que trata dos contratos de empréstimo com garantia hipotecária.
+- O artigo 27, da Lei nº 9.514/97, prevê que o leilão público do imóvel, objeto da alienação fiduciária, só poderá ser realizado após a consolidação da propriedade em nome do credor fiduciário, e esta só ocorre quando, notificado pessoalmente, ou através de edital, o devedor fiduciante deixar de purgar a mora.
+- No caso dos autos, observa-se que foram observadas as formalidades legais relativas à notificação pessoal dos mutuários para constituição em mora, conforme certidão do Oficial do Cartório do 1º Ofício de São Gonçalo.
+- Diante da inexistência de qualquer vício no procedimento de execução extrajudicial apresentado em Juízo, a carta de arrematação do imóvel em discussão apresenta-se perfeitamente hígida a produzir os efeitos a ela inerentes.
+- Apelação desprovida.
+Nas razões de recurso especial, a parte recorrente alega violação dos artigos 31 a 38 do Decreto-Lei 70/66, além de divergência jurisprudencial. Afirma a necessidade de intimação pessoal também para os leilões.
+Da análise dos autos, verifico que não merece prosperar o recurso interposto, uma vez que o acórdão recorrido está em consonância com a recente jurisprudência desta Corte sobre o assunto.
+Com efeito, analisando a necessidade de intimação do devedor fiduciante da data do leilão do imóvel por ele dado em garantia de alienação fiduciária, anoto que a Quarta da Turma deste Tribunal, no julgamento do REsp 1.733.777/SP, firmou entendimento no sentido de que, até a entrada em vigor da Lei 13.465/2017, não era necessária a sua intimação do referido ato, haja vista que, no momento da sua realização, como a propriedade já estava consolidada em nome do credor, o bem já não lhe pertencia.
+A partir da Lei 13.465/2017, contudo, tornou-se necessária a intimação do devedor fiduciante da data do leilão, devido à expressa determinação legal, passando também a ser assegurado ao devedor fiduciante, até a data da realização do segundo leilão, o direito de preferência para adquirir o imóvel por preço correspondente ao valor da dívida, somado aos encargos e despesas relativos à consolidação da propriedade fiduciária no patrimônio do credor fiduciário e às despesas inerentes ao procedimento de cobrança e leilão (§§ 2º-A e 2º-B do art. 27). Confira-se, abaixo, a ementa do julgado acima mencionado:
+RECURSO ESPECIAL. CONTRATO DE FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL. LEI Nº 9.514/97.
+INTIMAÇÃO PESSOAL DO DEVEDOR FIDUCIANTE PARA PURGAR A MORA FRUSTRADA. RECUSA INJUSTIFICADA DE RECEBER INTIMAÇÃO. INTIMAÇÃO POR EDITAL QUE SE JUSTIFICA. INTIMAÇÃO DO DEVEDOR DA DATA DO LEILÃO. DESNECESSIDADE. DEMAIS VIOLAÇÕES A DISPOSITIVOS LEGAIS NÃO CONFIGURADAS.
+1. Se o devedor fiduciante se escusa, por diversas vezes, de receber as intimações para purgar a mora em seu endereço comercial, conforme expressamente indicado no contrato de alienação fiduciária de imóvel, induzindo os Correios a erro ao indicar possível mudança de domicílio que nunca existiu, não há óbice à sua intimação por edital.
+2. Em se tratando de contrato com garantia de alienação fiduciária de imóvel, até 12/07/2017, quando entrou em vigor a Lei 13.465/2017, não era necessária a intimação do devedor fiduciante da data da realização do leilão, haja vista que, no momento da realização do ato, o bem já não mais pertencia ao devedor fiduciante. 3. Apenas a partir da Lei 13.465/2017, tornou-se necessária a intimação do devedor fiduciante da data do leilão, devido à expressa determinação legal.
+4. No caso, como o procedimento de execução extrajudicial é anterior à data de entrada em vigor da Lei 13.645/2017, não há que se falar em nulidade devido à falta de intimação dos devedores da data de realização do leilão.
+5. Recurso especial a que se nega provimento.
+(REsp 1.733.777/SP, Quarta Turma, relatora Ministra Maria Isabel Gallotti, julgado em 17/10/2023, DJe 23/10/2023.)
+No caso, como o procedimento de execução extrajudicial é anterior à data de entrada em vigor da Lei 13.645/2017 (2008-2009), não há que se falar em nulidade por suposta falta de intimação do recorrente da data de realização do leilão do imóvel dado em garantia de alienação fiduciária.
+Dessa forma, por estar o acórdão recorrido em conformidade com a jurisprudência desta Corte e com a Lei 9.514/97, na redação vigente à época dos fatos, não há como prosperar o recurso interposto.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
