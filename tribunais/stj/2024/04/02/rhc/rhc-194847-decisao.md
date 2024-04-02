@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto em favor de CLEVERTON NASCIMENTO RIBEIRO contra decisão prolatada pelo Tribunal de Justiça do Estado do Acre.
+Depreende-se dos autos que o Juízo das execuções regrediu o paciente ao regime fechado, em razão da quebra do perímetro de monitoramento eletrônico.
+Irresignada, a defesa impetrou habeas corpus ao Tribunal de origem, que não conheceu do writ.
+No presente recurso, sustenta a defesa, em síntese, que a medida é desproporcional, uma vez que o recorrente não quebrou o perímetro para a prática de novos atos delituosos, mas sim para buscar trabalho, sendo suficiente, para o caso, a pena de advertência concedendo, assim, uma segunda chance ao apenado.
+Requer, no mérito, a reforma do acórdão, "a revogação da prisão para regime do semiaberto, aplicando uma advertência, como a apresentação periódica em juízo, o recolhimento domiciliar noturno e o monitoramento eletrônico." fl. 29.
+O Ministério Público Federal, às fls. 54-57, manifestou-se nos termos da seguinte ementa:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. DIREITO PROCESSUAL PENAL. INSURGÊNCIA CONTRA DECISÃO DO JUÍZO DAS EXECUÇÕES PENAIS. SUPRESSÃO DE INSTÂNCIA. QUESTÃO NÃO CONHECIDA PELA CORTE DE ORIGEM. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CONCESSÃO DA ORDEM, DE OFÍCIO, PARA QUEO TRIBUNAL A QUO SE PRONUNCIE SOBRE AS QUESTÕES.
+1. Conforme a jurisprudência do STJ, não é possível conhecer de questões não suscitadas e examinadas pela instância antecedente, sob pena de indevida supressão de instância.
+2. "A não manifestação do eg. Tribunal a quo sobre o mérito da impetração, na hipótese, configurou indevida negativa de prestação jurisdicional. Tratando-se de questão relevante, devidamente suscitada no writ originário, e não apreciada, devem os autos ser remetidos à eg. Corte estadual para que se pronuncie acerca da quaestio." (STJ: HC398690/SC, rel. Min. FELIX FISCHER, QUINTA TURMA, D Je 10/8/2017).
+3. Parecer pela concessão da ordem, de ofício, para que o Tribunal a quo se pronuncie efetivamente sobre as questões suscitadas no writ originário .
+É o breve relatório.
+Decido.
+Sustenta a defesa, em síntese, que a medida é desproporcional uma vez que o paciente não quebrou o perímetro para a prática de novos atos delituosos, mas sim para buscar trabalho, sendo suficiente, para o caso, a pena de advertência concedendo, assim, uma segunda chance ao apenado.
+No caso, inviável o conhecimento do presente mandamus, uma vez que se insurge contra decisão monocrática proferida por Desembargador do eg. Tribunal de origem.
+Observa-se também que não houve a interposição de agravo regimental, de modo a oportunizar o debate do tema pelo respectivo órgão Colegiado e viabilizar a impetração da ordem perante esta Corte Superior.
+Com efeito, segundo disposição do art. 105, II, "a", da Constituição Federal, este Superior Tribunal de Justiça é competente para conhecer do recurso em habeas corpus na existência de ato proferido por Tribunal sujeito à sua jurisdição.
+Vale dizer, falece co mpetência a este Superior Tribunal de Justiça, a teor do art. 105, II, "a", da Constituição Federal, para julgar recurso ordinário em habeas corpus interposto contra decisão monocrática, proferida por Desembargador Relator, que indeferiu a petição inicial de habeas corpus na origem.
+Dessa forma, em creditamento às instâncias ordinárias, que primeiro devem conhecer da controvérsia, para então ser inaugurada a competência do Superior Tribunal de Justiça, fica inviabilizado o conhecimento deste recurso em habeas corpus.
+Sobre o tema, destaco os seguintes precedentes:
+AGRAVO REGIMENTAL. HABEAS CORPUS. NÃO CONHECIMENTO. INSURGÊNCIA CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR DO TRIBUNAL DE ORIGEM. NECESSIDADE DE INTERPOSIÇÃO DE AGRAVO REGIMENTAL. MANDAMUS NÃO INSTRUÍDO COM CÓPIA DO PROVIMENTO JUDICIAL QUESTIONADO. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. COAÇÃO ILEGAL NÃO CONFIGURADA.
+1. É inviável o conhecimento do habeas corpus, uma vez que a defesa se insurge contra decisão singular de Desembargador do Tribunal de origem, contra a qual seria cabível agravo regimental, que não foi interposto. Precedentes do STJ e do STF.
+ ..
+4. Agravo regimental desprovido." (AgInt no HC 409.060/RN, Quinta Turma, Rel. Min. Jorge Mussi, DJe 28/02/2018, grifei)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. AUSÊNCIA DE REALIZAÇÃO DA AUDIÊNCIA DE CUSTÓDIA. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR RELATOR QUE NEGOU SEGUIMENTO LIMINAR AO WRIT. SUPRESSÃO DE INSTÂNCIA. INADMISSIBILIDADE DE ANÁLISE DO MÉRITO DA IMPETRAÇÃO NESSA CORTE. NULIDADE NÃO ANALISADA PELO TRIBUNAL A QUO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+1. Por se tratar de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo a atual orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+2. A questão referente à nulidade decorrente da ausência de realização de audiência de custódia não foi submetida à análise do órgão colegiado do Tribunal de origem, considerando que não houve a interposição do devido agravo regimental contra a decisão monocrática do relator que negou seguimento liminar ao writ sem análise do mérito. Assim, não compete a esta Corte Superior, o debate da tese levantada pela defesa, sob pena de se incorrer em indevida supressão de instância.
+3. Não tendo sido individualizada a situação prisional de cada réu, mostra-se inviável a verificação coletiva da questão relativa à não realização da audiência de custódia, uma vez que não é possível saber para quais acusados o tema ficou superado em virtude da decretação de prisão preventiva. Habeas corpus não conhecido." (HC 385.063/SP, Quinta Turma, Rel. Min. Joel Ilan Pacionik, DJe 14/11/2017, grifei)
+PROCESSUAL PENAL. HABEAS CORPUS NO TRIBUNAL DE ORIGEM. DECISÃO UNIPESSOAL DE DESEMBARGADOR NÃO CONHECENDO DO WRIT. FALTA DE ESGOTAMENTO DA INSTÂNCIA. NÃO CONHECIMENTO DA SÚPLICA NESTE STJ. PRECEDENTES. PRONÚNCIA. RECURSO EM SENTIDO ESTRITO. JUÍZO DE RETRATAÇÃO. FUNDAMENTAÇÃO INSUFICIENTE. NULIDADE. AUSÊNCIA.
+1 - Em que pese ser o habeas corpus via impugnativa e autônoma, tem suas hipóteses de cabimento na Constituição Federal, de modo que esta Corte Superior não tem competência para todo e qualquer pedido de constrangimento ilegal apresentado por meio do writ. Decisão singular de desembargador não se enquadra como ato coator de "tribunal". É preciso esgotar a instância ordinária por meio de agravo regimental.
+2 - A decisão proferida em sede de juízo de retratação, por ocasião da interposição do recurso em sentido estrito, não necessita ser minuciosamente fundamentada, não existindo nulidade no caso em análise. Precedentes deste Superior Tribunal de Justiça.
+3 - Agravo regimental não provido." (AgRg no HC 401.079/SP, Sexta Turma, Rel. Min. Maria Thereza de Assis Moura, DJe 12/12/2017, grifei)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. DECISÃO MONOCRÁTICA QUE INDEFERIU LIMINARMENTE O WRIT NA ORIGEM. AGRAVO REGIMENTAL NÃO INTERPOSTO. MATÉRIA NÃO SUBMETIDA AO COLEGIADO DO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O inconformismo dirigido contra decisão de Desembargador que, ao analisar o habeas corpus, indefere liminarmente o writ, deve ser o recurso de agravo regimental para oportunizar o debate do tema pelo respectivo órgão colegiado e posterior impetração da ordem perante esta Corte Superior.
+2. Em creditamento às instâncias ordinárias, que primeiro devem conhecer da controvérsia, para, então, ser inaugurada a competência do Superior Tribunal de Justiça, fica inviabilizado o conhecimento deste mandamus.
+3. Agravo regimental não provido." (AgRg no HC 399.172/MA, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 01/08/2017)
+Ante o exposto, não conheço do recurso em habeas corpus.
+Publique-se.
+Intimem-se
+EMENTA
