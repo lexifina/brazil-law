@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por T-GRÃO CARGO TERMINAL DE GRANEIS S/A.
+O apelo nobre, fundamentado na alínea "a", do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA - Execução por título extrajudicial - Indeferimento do pleito de desconsideração da personalidade jurídica da executada e inclusão de outras empresas integrantes do mesmo grupo econômico da pessoa jurídica executada, no polo passivo da execução - Ausência de provas acerca da confusão patrimonial - Requisitos do artigo 50, § 4º, do Código Civil não preenchidos - Precedentes desta Corte Recurso improvido" (fl. 1.910 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 2.064/2.068 e -STJ).
+No especial (fls. 2.019/2.048 e-STJ), a parte recorrente aponta negativa de vigência dos artigos 489, § 1º, e 1.022, II, do Código de Processo Civil e 50 do Código Civil.
+Sustenta, em síntese, a nulidade do acórdão por não suprir a omissão apontada nos embargos de declaração.
+No ponto, aduz que há omissão, quanto à demonstração da confusão patrimonial entre as empresas do grupo do embargado, o desvio e a dilapidação patrimonial.
+No mérito, aduz que foram preenchidos os requisitos autorizadores da desconsideração da personalidade jurídica.
+Apresentadas as contrarrazões (fls. 2.072/2.086 e-STJ), o recurso não foi admitido na origem, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece acolhida.
+Quanto à assertiva de negativa de prestação jurisdicional, não merece prosperar.
+Acerca do preenchimento dos requisitos para a desconsideração da personalidade jurídica, o aresto atacado assim se pronunciou:
+"(..) ainda que exista o grupo econômico mencionado pela agravante, o que, diga-se de passagem, não foi negado pelas agravadas, não se comprovou o abuso de personalidade jurídica caraterizado pelo desvio de finalidade ou confusão patrimonial (art. 50 do Código Civil).
+Exige-se para que a personalidade jurídica seja desconsiderada prova inequívoca de que houve fraude praticada pelas empresas formadoras do grupo econômico, não bastando, portanto, a simples insolvência da sociedade empresária executada. Se não houve fraude na utilização do capital utilizado para a constituição da empresa, devem vigorar as regras legais de limitação de responsabilidade dos sócios, que, no vertente caso, é limitada ao capital integralizado.
+Vale dizer, por se tratar de medida excepcional, cujo desvirtuamento pode, inclusive, desestimular a livre iniciativa e a atividade empresarial (garantidas pela Constituição Federal), o instituto da desconsideração da personalidade jurídica e, consequentemente, de formação de grupo econômico, somente pode ser utilizado e aplicado quando ficar comprovado o mau uso da pessoa jurídica, o que não se verificou na espécie.
+Nesse sentido, a r. decisão reprochada corretamente indeferiu o pedido formulado pela exequente, uma vez que não comprovada a ocorrência de fraude ou seja, desvio de finalidade ou confusão patrimonial.
+(..)
+Ao final da instrução processual, procedida à luz do contraditório e da ampla defesa, não é possível reconhecer ter a exequente se desincumbido de seu ônus da prova do fato constitutivo do direito alegado, a saber, da existência de confusão patrimonial entre as empresas participantes do grupo econômico de modo a esvaziar o patrimônio da executada tornando inviável o pagamento do crédito reclamado em execução, na forma do artigo 50, § 2º, II, do Código Civil.
+Tal conduta não está caracterizada uma vez inexistir nos autos qualquer indício da existência de confusão patrimonial com transferências de bens imóveis e ativos financeiros da executada às requeridas deste incidente, empresas integrantes do grupo econômico. O "Relatório de Busca de Ativos" de fls.1.157/1.233: a) comprova a inexistência de bens da executada; e b) não demonstra a existência de confusão patrimonial com transferências de bens imóveis ou ativos financeiros da executada às requeridas deste incidente.
+(..)
+No entanto, o "Relatório de Busca de Ativos" e as demais provas produzidas nos autos não evidenciam a dilapidação do patrimônio da executada por meio de transferências para outras empresas do mesmo grupo, com indícios concretos de confusão patrimonial.
+Não há prova nos autos de que a executada tenha transferido dinheiro ou imóveis às demais integrantes do grupo econômico ora requeridas.
+A transferência imobiliária entre integrantes do grupo econômico comprovada nos autos foi da requerida CANTAGALO GENERAL GRAINS S. A. à executada, conforme documentos de fls.1.188/1.192.
+Portanto, sempre respeitado o entendimento diverso manifestado pelos zelosos e combativos Advogados da exequente, a verdade é que, mesmo oportunizada a produção de provas à comprovação do fato constitutivo do direito afirmado na inicial, não há nos autos provas de que a executada "está se utilizando da configuração de grupo econômico para permanecer concentrando os passivos financeiros nessa empresa, ao passo que a movimentação de capital está sendo transferida para as demais", ou, ainda, de que "os resultados infrutíferos das pesquisas de bens realizadas até o momento resultam da má-fé da Executada, que busca a todo custo se eximir do cumprimento de suas obrigações com o respaldo das demais empresas do seu grupo econômico, já que estão, inclusive, sob o mesmo controle". " (fls. 1.778/1.792 dos autos originários)" (fls. 1.911/1.916 e-STJ).
+Registra-se que o tribunal de origem se pronunciou acerca dos pontos levantados pela recorrente, afastando os argumentos deduzidos que, em tese, seriam capazes de infirmar a conclusão adotada.
+Com efeito, cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declarando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, o não acolhimento das teses ventiladas pela parte recorrente não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDENTE PROCESSUAL. DECISÃO QUE DEFERIU O PEDIDO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA EMPRESA EXECUTADA. PRECLUSÃO. OCORRÊNCIA. REVISÃO. SÚMULA N. 7/STJ. TEORIA MENOR. OBSTÁCULO AO RESSARCIMENTO DOS DANOS CAUSADOS AOS CONSUMIDORES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. SÚMULA 83/STJ. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS CONSTATADOS. REVISÃO. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. PENHORA SOBRE SALDO DE PLANOS DE PREVIDÊNCIA PRIVADA. POSSIBILIDADE. NÃO UTILIZAÇÃO PARA FINS ALIMENTARES. REVISÃO. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. ANÁLISE CASUÍSTICA. NÃO OCORRÊNCIA, NA ESPÉCIE. AGRAVO INTERNO IMPROVIDO.
+1. Não ocorre negativa de prestação jurisdicional quando o Tribunal de origem examina, de forma fundamentada, todas as questões que lhe foram submetidas, ainda que tenha decidido contrariamente à pretensão da parte. Nesse contexto, esta Corte já se manifestou no sentido de que não há se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+2.(..)" (AgInt no AREsp 2.205.438/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 ).
+Além disso, as conclusões do tribunal de origem acerca do mérito da demanda decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode aferir da leitura dos fundamentos do julgado atacado, supratranscritos
+Nesse contexto, o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, conforme dispõe a Súmula nº 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. ART. 50 DO CÓDIGO CIVIL. REQUISITOS. AUSÊNCIA. REEXAME. FUNDAMENTOS. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O entendimento do Superior Tribunal de Justiça é no sentido de que a desconsideração da personalidade jurídica a partir da Teoria Maior (art. 50 do Código Civil) exige a comprovação de abuso, caracterizado pelo desvio de finalidade ou pela confusão patrimonial, pelo que a mera inexistência de bens penhoráveis ou eventual encerramento irregular das atividades da empresa não justifica o deferimento de tal medida excepcional. Precedentes.
+3. Na hipótese, rever as conclusões das instâncias ordinárias quanto ao preenchimento dos requisitos para a desconsideração da personalidade jurídica da empresa demandaria a análise dos fatos e das provas da causa, o que atrai a incidência da Súmula nº 7/STJ.
+4. Agravo interno não provido" (AgInt no AREsp n. 1.852.233/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/12/2021, DJe de 16/12/2021- grifou-se).
+Ante o exposto, conheço em parte do recurso especial para, nessa extensão, negar-lhe provimento.
+Não cabe, na hipótese, a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil , pois o recurso tem origem em sede de agravo de instrumento sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
