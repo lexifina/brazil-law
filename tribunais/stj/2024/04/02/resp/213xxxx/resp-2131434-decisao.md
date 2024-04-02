@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto por ÍCONE EMPREENDIMENTOS IMOBILIÁRIOS LTDA. (ÍCONE), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Tocantins, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE RESCISÃOCONTRATUAL C/C RESTITUIÇÃO DE VALORES EINDENIZAÇÃO. COMPRA E VENDA DE IMÓVEL. LOTEAMENTO. PUBLICIDADE DE LOCALIZAÇÃOPRIVILEGIADA. CONSTRUÇÃO DE CASAS POPULARES. FRUSTRAÇÃO DE EXPECTATIVA DA AUTORA. RESTITUIÇÃODE VALORES DEVIDA. JUROS DE MORA. RESPONSABILIDADE CONTRATUAL. TERMO INICIAL. CITAÇÃO. DANO MORAL NÃO CONFIGURADO. RECURSO DAAUTORA CONHECIDO E PARCIALMENTE PROVIDO. RECURSODA REQUERIDA CONHECIDO E IMPROVIDO.
+1. Patente a frustração da autora com a construção de casaspopulares no loteamento, que, na publicidade, constava como delocalização privilegiada.
+2. Cabível a rescisão contratual e consequente restituição devalores se houve inadimplemento por parte da empresa. Juros demora incidentes a partir da citação (art. 405 do CC).
+3. O dano moral não se presume. Deriva de constrangimento, abalopsicológico, situação vexatória que não foram demonstrados nocaso dos autos.
+4. Recurso da autora conhecido e parcialmente provido. Recurso da requerida conhecido e improvido (e-STJ, fls. 1.193).
+Os embargos de declaração opostos por ÍCONE foram rejeitados (e-STJ, fls. 1.297/1.302).
+Nas razões do presente recurso, ÍCONE apontou a violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC, ao sustentar omissão do acórdão recorrido acerca do fato de que, na data da aquisição do imóvel, por meio de cessão de direitos realizada aos 17/12/2015, a autora já tinha conhecimento da construção de casas populares no loteamento, razão pela qual não poderia alegar que foi induzida a erro, com o objetivo de rescindir o contrato originário de promessa de compra e venda de terreno, que lhe foi cedido.
+Foram apresentadas contrarrazões (e-STJ, fls. 1.401/1.404).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+Da violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC
+Nas razões do recurso especial, ÍCONE alegou que o Tribunal estadual deixou de se pronunciar sobre o fato de que, na data da aquisição do imóvel, por meio de cessão de direitos realizada aos 17/12/2015, a autora já tinha conhecimento da construção de casas populares no loteamento, razão pela qual não poderia alegar que foi induzida a erro, com o objetivo de rescindir o contrato originário de promessa de compra e venda de terreno, que lhe foi cedido.
+Contudo, sem razão.
+Sobre o tema, ao julgar o recurso de apelação interposto pela ora insurgente, o TJTO assim consignou:
+A procedência da ação partiu da premissa de que, após a aquisição do terreno pela parte autora, diante das circunstâncias supervenientes que envolveram o negócio, notadamente pela publicidade indicativa de que o Residencial Campo Bello se tratava de excelente investimento com localização privilegiada, de fácil acesso, vizinha da universidade e próxima ao aeroporto de Gurupi-TO, no local, ao invés do residencial, emergiu-se mais de 1.000 (mil) casas populares que predominam no local, fruto de venda de terrenos para osprogramas habitacionais do governo, frustrando a expectativa de valorizaçãodo imóvel adquirido.
+Sem embargo da importância dos programas de moradia do governo, evidente que a mudança do perfil socio econômico do público-alvo implicou na diminuição dos valores dos terrenos daquela localidade. A matéria colocada a exame não é nova, ao revés, há precedentes desta Corte de Justiça com relação ao mesmo assunto no mesmo Loteamento.
+Nessa senda, constato que as expectativas de valorização do imóvel não decorreu de mera promessa da autora, mas das circunstâncias que envolveram a divulgação do terreno como empreendimento destinado à classe social diferente daquela que de fato se instalou no local.
+Quando se adquire terrenos em novo loteamento leva-se em conta invariavelmente uma série de fatores, tais como: localização, infraestrutura, perfil econômico da região e dos possíveis adquirentes, formadores do novo bairro, e, sobretudo, expectativa de valorização, já que a grande maioria de compradores de lançamentos são investidores.
+No caso em questão, a região nova em localização privilegiada, próximo ao Campus da Universidade Unirg e aeroporto, somado a geografia do local, de fato, indicava a todos que seria investimento com retorno garantido, fato que sofreu significativa modificação após a vizinhança se instalar em casas populares.
+Diante de tais circunstâncias, além de incontroversa a transformação do local, o requerido não se desincumbiu de demonstrar que o local ainda possuía expectativas idênticas às da venda, tornando-se evidente sua desvalorização comercial.
+Com efeito, se houvesse indicativos de que, naquele loteamento,fossem erguidas casas do programa de moradia do governo federal,certamente a publicidade e as negociações dos terrenos não teriam percorrido o caminho traçado pela sentença, qual seja: de que os lotes não valem mais aquilo pelo qual se pagou.
+ ..
+A desvalorização é evidente e encontra-se ratificada na referida prova pericial. O perito oficiante ratifica que a empresa não cumpriu a oferta conforme a publicidade apresentada no lançamento do loteamento, e mais, que houve desvalorização mercadológica do bem adquirido pela autora, decorrente da construção das casas populares, ante o "baixo padrão construtivo dos imóveis do programa Minha Casa Minha Vida".
+Ao contrário do quer fazer crer a demandada, o fato do imóvel adquirido pela autora ter se valorizado monetariamente entre a data do contrato e a data da lide, não altera a conclusão de que houve infração contratual, posto que o bem, não fosse a implementação do programa habitacional, estaria valendo mais do que se encontrava no momento da perícia, o que indica que, realmente, houve quebra de expectativa não somente pessoal, mas financeira, ambas decorrentes diretamente da destinação diversa empreendida pela recorrida.
+Por tais razões, não merece guarida o recurso interposto pela empresa requerida (Ícone Empreendimentos Imobiliários Ltda.), razão pela qual deve ser improvido.
+Assim sendo, andou bem o sentenciante de instância singela ao julgar procedentes em parte os pedidos, para declarar rescindidos os contratos e condenar a requerida a restituir a autora todos os valores pagos relativos à aquisição do terreno, devidamente corrigidos (e-STJ, fls. 1.178/1.181).
+Não há falar, portanto, em negativa de prestação jurisdicional, pois, a pretexto da alegação de ofensa aos arts. 489 e 1.022 do CPC, o que busca ÍCONE é apenas manifestar o seu inconformismo com o resultado do julgamento que lhe foi desfavorável, não se prestando a estreita via dos embargos de declaração a promover o rejulgamento da causa, já que inexistentes quaisquer dos vícios elencados nos referidos dispositivos da lei adjetiva civil.
+A jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE VEÍCULO. AÇÃO DE INDENIZAÇÃO. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. DANOS MORAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. LIMITAÇÃO DE COBERTURA. REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. Verifica-se que o Tribunal estadual analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+3. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n.
+283 e 284 da Súmula do Supremo Tribunal Federal.
+4. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento das cláusulas contratuais e do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice disposto nas Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.500.162/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado aos 25/11/2019, DJe de 29/11/2019 - sem destaque no original)
+Não se verifica, assim, a apontada ofensa à lei processual.
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+MAJORO em 2% o valor dos honorários advocatícios anteriormente fixados em favor da parte recorrida, limitados a 20%, nos termos do art. 85, § 11, do CPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PROPAGANDA ENGANOSA. ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. RECURSO ESPECIAL NÃO PROVIDO.
