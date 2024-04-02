@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial adesivo, interposto por CLÁUDIO BATISTA ROCHA, fundado no art. 105, III, alíneas "a" e "c" da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+ACIDENTE DE TRÂNSITO Pretensão indenizatória julgada parcialmente procedente Colisão entre ônibus e motocicleta em cruzamento, acarretando lesões no motociclista Julgamento que deve observar o que foi decidido pelo STF no RE nº 591.874, submetido ao regime do artigo 543-A, § 1º, do CPC (repercussão geral), no sentido de que as concessionárias ou permissionárias do serviço de transporte coletivo respondem objetivamente pelos danos causados a terceiros não usuários do serviço, conforme artigo 37, § 6º, da Constituição Federal Exoneração ou redução da responsabilidade da empresa do ônibus que, por isso, só se dá no caso de culpa exclusiva ou concorrente da vítima, situação não demonstrada ao longo da instrução Lucro cessante durante o período da convalescença representado pela remuneração integral percebida pelo autor ao tempo do acidente, sem desconto do benefício previdenciário eventualmente percebido Remuneração correspondente a R$ 3.600,00, por mês, conforme anotação na CTPS Pensão mensal devida depois de ce ssada a convalescença, proporcional ao grau da incapacidade conforme resultar apurado em liquidação da sentença por arbitramento Limitação da obrigação até que o autor complete 70 anos de vida ou faleça antes disso que deve prevalecer na espécie Danos moral e estético corretamente reconhecidos, fixadas as indenizações em R$ 55.000,00 e R$ 25.000,00, respectivamente, sem espaço para majoração ou redução Desconto da indenização do seguro obrigatório DPVAT, no caso, condicionado a prova do seu recebimento - Súmula nº 246, do STJ Solidariedade entre segurada e seguradora corretamente reconhecida Decote dos encargos moratórios por conta da liquidação extrajudicial da seguradora denunciada a ser objeto de solução nos autos da liquidação Apelação do autor parcialmente provida, não providas a da ré e da seguradora.
+Opostos embargos de declaração, restaram rejeitados às fls. 1.333/1.338.
+Nas razões do recurso especial, a agravante aduz que o valor das indenizações arbitradas a título de danos morais e estéticos devem ser majoradas, pois insuficientes.
+Foram apresentadas contrarrazões às fls. 1.412/1.416 e 1.418 e 1.430.
+É o relatório.
+Nesta data, esta relatoria negou provimento ao agravo em recurso especial das agravadas. Dessa forma, a análise das questões do presente recurso adesivo fica prejudicada, nos termos do art. 997, § 2º, do CPC/2015 (CPC/1973, art. 500).
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RECURSO ADESIVO. INADMISSÃO DO RECURSO PRINCIPAL. PREJUDICIALIDADE. ART. 500, III, DO CPC/73. RECURSO NÃO PROVIDO.
+1. De acordo com a pacífica jurisprudência desta Corte, o recurso adesivo segue a sorte do principal, a teor do art. 500, III, do Código de Processo Civil/73. No caso, o recurso especial principal não foi admitido na origem, tampouco o agravo contra a inadmissão foi provido por esta Corte. Logo, o exame do recurso adesivo fica prejudicado, uma vez que o recurso especial principal não será conhecido. Precedentes.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 995.008/DF, Relstor Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/3/2017, DJe 20/3/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DO PRINCÍPIO DA DIALETICIDADE. AGRAVO IMPROVIDO.1. O recurso adesivo fica subordinado à sorte do principal. Assim, se o recurso especial principal não é admitido (seja qual for a causa), também não se conhece do recurso especial adesivo (art. 500, III, CPC/1973) 2.
+Agravo interno improvido.
+(AgInt no AREsp n. 919.719/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 6/10/2016, DJe 20/10/2016.)
+PROCESSUAL CIVIL. INADMISSÃO DE RECURSO ESPECIAL E DE RECURSO ESPECIAL ADESIVO. AGRAVO DO RECURSO ESPECIAL PRINCIPAL NÃO PROVIDO. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL ADESIVO. IMPROVIMENTO DO AGRAVO REGIMENTAL DO RECORRENTE ADESIVO.
+1. Se o recurso especial principal não é admitido, também não se conhece do recurso especial adesivo (art. 500, III - CPC). A mesma sistemática (principal e acessório) se aplica ao agravo contra a decisão de inadmissão de ambos os recursos.
+2. Se o agravo do recurso especial principal não é provido, não se deve conhecer do agravo do recurso especial adesivo, dada a mesma relação de acessoriedade que impediu a admissão do recurso especial adesivo.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 500.565/DF, Relator Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), PRIMEIRA TURMA, julgado em 23/2/2016, DJe 2/3/2016.)
+Diante do exposto, não conheço do agravo.
+Publique-se
+EMENTA
