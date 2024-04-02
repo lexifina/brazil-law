@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar, impetrado em favor de FLAVIO JOSENILDO DA SILVA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Autos nº 1529912-31.2021.8.26.0228).
+O recurso apresentado pela defesa foi parcialmente provido por meio de acórdão assim ementado (e-STJ fl. 56):
+Apelação. Tráfico de drogas. Art. 33, caput, da Lei nº 11.343/06. Receptação. Art. I 80, caput, do CP. Preliminar de nulidade da r. sentença por não ter apreciado todas as teses defensivas. Inocorrência. A r. sentença fundamentou devidamente as condenações, apreciando as provas e motivando sua decisão. Nulidade relativa não configurada. Defesa do réu Flávio não apontou os prejuízos. Autoria e materialidade devidamente comprovadas. Impossibilidade de absolvição. Ação criminosa devidamente desvendada pelas equipes policiais que atuaram na ocorrência, havendo interligação entre os acusados. Penas-base exasperadas em exagero. Necessidade de redução para a fração de 1/3, devido à quantidade de drogas (maconha) apreendidas. Afastamento da agravante da calamidade pública. Reconhecimento da confissão espontânea da ré Jenniffer, com a consequente redução de pena. Não é viável a aplicação do redutor do artigo 33, §4º, da Lei Antidrogas. Regime inicial fechado de rigor, bem como impossibilidade de substituição da pena privativa de liberdade por restritivas de direitos. Não é possível a concessão de prisão domiciliar para a corre, haja vista não ter sido estabelecido regime inicial aberto.
+A defesa alega, em síntese, equívoco na dosimetria.
+Consta dos autos que a paciente está presa.
+Requer, liminar e definitivamente, o deferimento da ordem para obter a aplicação do privilégio relativo ao delito de tráfico.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que configurada flagrante ilegalidade apta a gerar constrangimento ilegal, sendo possível a concessão da ordem de ofício. Veja-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. GENITOR. IMPRESCINDIBILIDADE DE CUIDADOS AO FILHO MENOR NÃO DEMONSTRADA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. RECURSO DESPROVIDO.
+I - A Primeira Turma do Supremo Tribunal Federal firmou orientação no sentido de não admitir a impetração de habeas corpus substitutivo ante a previsão legal de cabimento de recurso pertinente. Precedentes.
+II - O art. 318, inciso VI, do Código de Processo Penal dispõe que o magistrado poderá substituir a prisão preventiva pela domiciliar quando o agente for homem, caso seja o único responsável pelos cuidados do filho de até 12 (doze) anos de idade incompletos.
+III - No caso dos autos, conforme consignado pelo Tribunal a quo a defesa não se desincumbiu do ônus de demonstrar a imprescindibilidade do ora agravante aos cuidados de seus filhos.
+IV - Para desconstruir as conclusões alcançadas na origem seria necessário o revolvimento da matéria fático-probatória do caso em apreço, providência que é vedada em sede de habeas corpus.
+Agravo regimental desprovido.
+(AgRg no HC n. 764.589/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024.). Grifos acrescidos.
+O entendimento é de elevada importância, porquanto deve-se utilizá-lo com fito de preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+Para conhecer da controvérsia apresentada neste writ, contudo, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com a estreita via do habeas corpus.
+Além disso, a concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que não se verifica de plano na hipótese dos autos, conforme se obtém da fundamentação lançada na origem (e-STJ fls. 55-70):
+(..) previamente ajustados e com unidade de desígnios, associados entre si, traziam consigo e transportavam, entre Estados da Federação, para consumo de terceiros, cerca de 289.494 gramas (duzentos e oitenta e nove mil, quatrocentos e noventa e quatro gramas) de maconha, sem autorização e em desacordo com determinação legal ou regulamentar.
+(..)
+Não foi aplicado o redutor do artigo 33, §4º, da Lei Antidrogas, devido à enorme quantidade de drogas apreendidas no tocante à JENNIFFER e FLÁVIO e também diante da reincidência de LUIZ. Cumpre observar que tal causa de diminuição de pena não foi instituída pelo legislador para atuar com automaticidade, senão com o escopo de disponibilizar ao julgador espectro mais amplo de opções no momento de individualizar as penas correspondentes ao delito, considerando especialmente as circunstâncias previstas no art. 42 da Lei Antidrogas, sendo natural que o redutor previsto no § 4" do aludido art. 33 fique reservado a situações de menor ofensividade (..)
+Observa-se, portanto, que a aplicação do art. 33, § 4º da Lei Antidrogas não foi vedada a paciente única e exclusivamente com base na "expressiva quantidade de droga", mas, além disso, porque a traficância se deu em concurso com outros agentes, elementos que permitiram à corte de origem aferir indícios de dedicação às atividades criminosas.
+Alterar o quadro formado no Tribunal de origem demanda inviável dilação probatória no "writ".
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
