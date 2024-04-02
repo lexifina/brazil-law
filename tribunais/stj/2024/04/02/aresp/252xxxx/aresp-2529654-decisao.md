@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 735 do STF (e-STJ fls. 2.558/2.561).
+O acórdão recorrido encontra-se assim ementado (e-STJ fls. 2.282/2.283):
+AGRAVO DE INSTRUMENTO. PROCESSO CIVIL E DIREITO DO CONSUMIDOR. AÇÃO CIVIL PÚBLICA. PRELIMINAR DE EXTINÇÃO DO PROCESSO, SEM RESOLUÇÃO DO MÉRITO. REJEIÇÃO. TUTELA DOS DIREITOS COLETIVOS E INDIVIDUAIS HOMOGÊNEOS - LEGITIMIDADE ATIVA DO MINISTÉRIO PÚBLICO DO ESTADO DA BAHIA CONFIGURADA. PRELIMINAR DE INSUFICIÊNCIA DE PROVAS. PREFACIAL QUE SE CONFUNDE COM O MÉRITO DO RECURSO. REJEIÇÃO. PEDIDO DE DECLINAÇÃO DECOMPETÊNCIA. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO. PARTE CONHECIDA - MÉRITO. DESCUMPRIMENTO DE TAC. QUEIXAS DOS CONSUMIDORES E DE ASSOCIAÇÃO COMO ARCABOUÇO PROBATÓRIO. BOA-FÉ OBJETIVA DOS VULNERÁVEIS. INQUÉRITO CIVIL COMO PROCEDIMENTO ADMINISTRATIVO VOLTADO PARA A COLHEITA DE PROVAS DURANTE A INSTRUÇÃO. ILEGALIDADE DOS DESCONTOS REALIZADOS ACIMA DO RAZOÁVEL. SUPERENDIVIDAMENTO DOS CONSUMIDORES. FORNECIMENTO DE CARTÃO DECRÉDITO SEM A ANUÊNCIA DO CONSUMIDOR. PRÁTICA ABUSIVA. SÚMULA Nº 532 DO SUPERIOR TRIBUNAL DE JUSTIÇA. CANCELAMENTO IMEDIATO DEVIDO. DIREITO DE LIQUIDAÇÃO ANTECIPADA DO DÉBITO, TOTAL OU PARCIALMENTE, MEDIANTE REDUÇÃO PROPORCIONAL DOS JUROS E DEMAIS ACRÉSCIMOS. LIGAÇÕES REITERADAS E DESRESPEITO À LEI GERAL DE PROTEÇÃO DE DADOS. DESCUMPRIMENTO DE DEVERES DE INFORMAÇÃO E SEGURANÇA. PRESENÇA DOS REQUISITOS AUTORIZADORES DA TUTELA DE URGÊNCIA. CONSTATAÇÃO DE FUMUS BONI IURIS E PERICULUM IN MORA. DECISÃO INTERLOCUTÓRIA DE PRIMEIRO GRAU REFORMADA. AGRAVO DE INSTRUMENTO PROVIDO EM PARTE. RECURSO DE AGRAVO INTERNO PREJUDICADO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 2.388/2.394).
+Nas razões do recurso especial (e-STJ fls. 2.468/2.487), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte alega ofensa aos seguintes dispositivos legais:
+(i) art. 81, parágrafo único, III, do CDC pela inadequação da ação civil pública para o caso porque "simples leitura do acórdão e das ordens nele contidas para se constatar que não há homogeneidade nos direitos veiculados e nem mesmo nas relações jurídicas versadas" (e-STJ fl. 2.471),
+(ii) art. 5º da Lei n. 14.133/2021, pois (e-STJ fl. 2.480):
+ ..  os direitos de exploração do programa foram conferidos, pelas normas do edital, com exclusividade, ao comprador da EBA Le/ou àquele credenciado face à transferência do direito de exploração comercial, sendo impossível, portanto, pelas características de vinculação às regras do edital, a sua inclusão em programa de portabilidade, o que violaria frontalmente as regras do art. 5ºda Lei n.º 14.133/2021, que impõe, em contratos de licitação, a vinculação estrita ao edital.
+(iii) art. 128 do CPC/2015, porque teria havido decisão extra petita considerando que (e-STJ fl. 2.463):
+ ..  o objeto da Ação Civil Pública se restringe à discussão acerca do Cartão Credcesta oferecido pelo Banco Master, atual denominação do Banco Máxima, para os servidores públicos ativos, servidores aposentados e pensionistas, através de Convênios específicos firmados com cada ente público pagador.
+(iv) art. 1.022 do CPC/2015, pois o Tribunal de origem "não obstante tenha sido provocada mediante a apresentação de embargos de declaração, não emitiu tese explicita sobre o critério da especialidade das normas, positivado no art. 2º, §2º, do Decreto-Lei nº 4.657/1942" (e-STJ fl. 2.483).
+No agravo (e-STJ fls. 2.565/2.576), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 2.623/2.653).
+É o relatório.
+Decido.
+Na verdade, a parte busca a reforma da decisão interlocutória que deferiu a tutela de urgência.
+No entanto, a jurisprudência do STJ não admite a interposição de recurso especial cujo objetivo seja discutir a correção das decisões das instâncias de origem que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado da Súmula n. 735 do STF.
+Isso porque a alteração das conclusões adotadas pela Corte de origem, no sentido de asseverar se estão presentes os requisitos autorizadores da tutela de urgência, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme óbice previsto na Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
