@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOAO PEDRO BARBOSA MARRA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, cuja ementa teve o seguinte teor (fl. 9):
+HABEAS CORPUS. SUPOSTA PRÁTICA DO CRIME DE TRÁFICO DE DROGAS. ARTIGO 33, DA LEI N. 11.343/2006. PEDIDO PARA CAPUT, TRANCAMENTO DA AÇÃO PENAL. NÃO PROVIDO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. JUSTA CAUSA CONFIGURADA. ALEGAÇÃO DE ILICITUDE NA BUSCA PESSOAL E DOMICILIAR. APROFUNDAMENTO DA ANÁLISE DE PROVAS. INADEQUAÇÃO DO . NECESSIDADE DE HABEAS CORPUS INSTRUÇÃO DO FEITO. DECISÃO MANTIDA. ORDEM DENEGADA.
+Consta dos autos que o paciente responde pela prática do crime tipificado no art. 33 da Lei 11.343/2006.
+Inconformada, a defesa impetrou habeas corpus perante o Tribunal de origem, que foi denegado.
+Sustenta o impetrante, em síntese, que haveria nulidade de provas, diante de invasão de domicílio, sem que a entrada tenha sido franqueada ou que existissem fundadas razões.
+Requer, liminarmente e no mérito, que seja trancada a ação penal.
+Indeferida a liminar e prestadas as informações, o Ministério Público manifestou-se pelo não conhecimento.
+Acerca da entrada domiciliar, consta do acórdão (fls. 10/11):
+ ..  Nada obstante as alegações do impetrante quanto à ilicitude das provas obtidas com base em busca pessoal e domiciliar feitas pela equipe policial que efetuou a sua prisão em flagrante, não há motivos para o trancamento da ação penal, uma vez que esta medida somente é admissível, em quando habeas corpus, existir, inequivocamente, a atipicidade da conduta, a incidência de causa de extinção da punibilidade, a ausência de indícios de autoria ou prova da materialidade do delito.
+ ..
+Ademais, a tese de violação de domicílio não é cabível pela estreita via do habeas corpus, porquanto será matéria de oportuna análise pelo juízo de primeiro grau, como ponderado pela Procuradoria de Justiça em seu parecer de mov. 19.1: "ainda que possam existir indícios de ilegalidade na abordagem e no ingresso do domicílio, entretanto, o Habeas Corpus, por sua natureza, requer prova pré-constituída, não comportando revolvimento aprofundado de mérito - o que se faz necessário no presente caso e só será possível durante o desenrolar da instrução processual para a apuração real dos fatos", o qual agrego às minhas razões de decidir.
+Em suma, por existir prova da materialidade e indícios de autoria do cometimento do crime de tráfico de drogas pelo paciente, é inviável o trancamento da ação penal sem que, ao menos, seja feita a instrução processual para a apurar a prática delitiva
+Como se vê, a matéria relativa à invasão de domicílio não foi apreciada pela Corte de origem ao argumento de inadequação da via processual eleita, por exigir instrução processual e prova pré-constituída, razão pela qual não poderá ser conhecido, nesta parte, por indevida supressão de instância. Nesse sentido: HC 360.484/BA, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 19/06/2018, DJe 28/06/2018; AgRg no Resp 1716705/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/04/2018, DJe 09/04/2018.
+Todavia, não se pode subtrair do Tribunal Estadual a verificação quanto à existência de ilegalidade flagrante, caso em que deverá conceder habeas corpus de ofício.
+Assim, configurado constrangimento ilegal diante da negativa de prestação jurisdicional, uma vez que o acórdão impugnado não examinou a matéria essencial do writ. Nesse sentido: AgRg no HC 592.647/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 1/10/2020; AgRg no HC 560.395/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 25/05/2020; EDcl no HC 516.808/SP, Rel. Ministro Nefi Cordeiro, Sexta Turma, DJe 11/10/2019; RHC 93.944/GO, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 23/05/2019; HC 334.762/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 26/02/2016; RHC 55.949/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe 20/05/2015.
+Ante o exposto, concedo o habeas corpus para determinar que o Tribunal de origem faça o exame, como entender de direito, do pleito formulado pelo impetrante, notadamente a respeito das nulidades da busca e apreensão.
+Comunique-se.
+Publique-se.
+Intimem-se.
+EMENTA
