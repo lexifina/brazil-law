@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo regimental interposto por LINDOMAR DE OLIVEIRA BRANT contra decisão monocrática da presidência desta Corte que indeferiu liminarmente o habeas corpus impetrado em seu favor, em que se pleiteou a concessão do benefício da visita periódica ao lar (e-STJ fls. 272/276).
+Neste recurso, a defesa alega que a decisão agravada se limitou em asseverar que a decisão coatora estaria acompanhada de fundamentação jurídica concreta; contudo, não fundamenta as razões pelas quais chegara a este entendimento.
+Aduz, no mais, que a r. decisão agravada indeferiu liminarmente o writ com embasamento genérico do artigo 210 do RISTJ, mas referido artigo do Regimento Interno dessa Corte Superior não é aplicável ao caso.
+Sustenta não ser atribuição do Presidente desta Corte proferir decisão na causa, tendo em vista não estarmos diante de nenhuma das hipóteses permissivas do artigo 21, XIII, RI-STJ, em especial, alínea ""c"", porque a inicial não fora impetrada durante o recesso do Tribunal.
+Fundamenta que a gravidade abstrata dos delitos e a recente promoção ao regime semiaberto não são fundamentos idôneos para se negar o benefício, em especial quando já preenchidos os requisitos para a progressão ao regime aberto.
+Em vista do exposto, requer a reconsideração da decisão agravada ou que o feito seja submetido a julgamento perante a Quinta Turma desta Corte (conhecimento e provimento).
+É o relatório. Decido.
+O agravo regimental é tempestivo e rechaçou os fundamentos da decisão combatida, razões pelas quais merece conhecimento.
+Quanto ao mérito, constato elementos suficientes para reconsiderar a decisão da presidência desta Corte.
+Estes foram os fundamentos adotados na decisão agravada, em essencial (e-STJ, fls. 274/275):
+ ..
+A concessão do benefício da saída temporária, cuida-se, consoante dispõe a Lei de Execução Penal, de faculdade do Juízo da Execução e reclama a presença cumulativa dos requisitos objetivos e subjetivos do art. 123 da LEP, dentre eles uma condição favorável relativa à compatibilidade do benefício com os objetivos da pena, segundo dispõe seu inciso III, não sendo suficiente para sua obtenção somente o lapso temporal e o bom comportamento carcerários, previstos em seus incisos I e II.
+Por outro lado, há entendimento firmado nesta Corte de que deve ser gradual o contato do apenado com a sociedade, a fim de não frustrar os objetivos da execução, e de que o a progressão ao regime semiaberto não assegura automaticamente o direito à visitação periódica ao lar.
+Por fim, o benefício não pode ser indeferido tão somente em razão da gravidade abstrata do crime praticado, na longa pena a cumprir e na necessidade de vivenciar primeiro o regime intermediário.
+Nessa linha, os seguintes julgados:
+ ..
+Na espécie, o acórdão impugnado concluiu que a concessão do benefício de visita periódica ao lar, neste momento, não se compatibilizaria com os objetivos da pena, trazendo elementos concretos da execução penal, estando assim em conformidade com a orientação desta Corte.
+Ademais, a reforma do julgado demandaria a incursão no contexto fático-probatório dos autos, providência incabível na via eleita.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Assiste razão a defesa.
+De fato, da leitura da decisão de e-STJ fls. 72/78 e do voto condutor do acórdão de e-STJ fls. 19/29, verifica-se que as instâncias de origem deram especial ênfase à gravidade dos delitos cometidos e à recente promoção ao regime semiaberto, o que não se coaduna com a jurisprudência desta Corte.
+Nesse sentido:
+HABEAS CORPUS. EXECUÇÃO PENAL. SAÍDA TEMPORÁRIA. VISITA PERIÓDICA À FAMÍLIA INDEFERIDA PELAS INSTÂNCIAS ORDINÁRIAS. NÃO OBSERVÂNCIA DO DEVER CONSTITUCIONAL DE FUNDAMENTAÇÃO. AUSÊNCIA DE APRECIAÇÃO DO PLEITO EM ELEMENTOS CONCRETOS A RESPEITO DA COMPATIBILIDADE DA BENESSE COM OS OBJETIVOS DA PENA. DETERMINAÇÃO DE NOVO EXAME PELO JUÍZO DE PRIMEIRO GRAU. ORDEM PARCIALMENTE CONCEDIDA.
+1. As instâncias ordinárias entenderam que, no caso, impõe-se maior cautela para a concessão de saídas extramuros, porque ausente a demonstração do requisito subjetivo pelo Paciente, previsto no art. 123, inciso III, da Lei n. 7.210/1984.
+2. O art. 123 da Lei de Execução Penal estabelece como requisitos para a concessão de saídas temporárias o comportamento adequado do apenado, o cumprimento de 1/6 da pena, para o réu primário, e de 1/4, caso seja reincidente, bem como a compatibilidade do benefício com os objetivos da pena.
+3. No caso em exame, verifica-se que as instâncias ordinárias utilizaram fundamentação genérica para negar o benefício de saída temporária, porquanto ressaltados, tão somente, e de forma vaga, que o Reeducando iniciou o cumprimento da pena no regime intermediário há pouco tempo; a longa pena a cumprir; a ausência de registros de atividade laborativa e/ou educacional na unidade prisional; e a gravidade dos delitos cometidos (latrocínio e ocultação de cadáver).
+Nada foi dito sobre a compatibilidade, em concreto, da visita periódica ao lar pleiteada pela Defesa, que tem por escopo propiciar a reinserção gradual do Apenado à sociedade.
+4. Hipótese em que não foi observado o dever constitucional de demonstrar a inadequação da saída temporária proposta pela Defesa com os objetivos da reprimenda, especialmente porque o Apenado, primário, sem registro de falta disciplinar, e com comportamento classificado como excepcional, está no cumprimento da pena desde 13/10/2010, ou seja, já resgatou mais de 44% (quarenta e quatro por cento) do tempo.
+5. Ordem de habeas corpus parcialmente concedida.
+(HC n. 723.272/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 28/6/2022, DJe de 1/7/2022.)
+Embora também tenham apontado que o apenado é chefe do tráfico em Itaboraí e classificado no SIPEN como de altíssima periculosidade, não há qualquer observação negativa nesse sentido no relatório da situação processual executória, sendo que esse fator foi extraído pelo Juízo junto ao Sistema de Identificação Penitenciária (SIPEN); no entanto, tal documento não é apto a avaliar o atual comportamento do executado na execução atual.
+O Tribunal ainda apontou que o recorrente praticou novo delito, em 31/1/2018, ensejando a CES n. 0029683-81.2018.8.19.0023, em que restou condenado a pena de 21 anos, 10 meses e 20 dias de reclusão. Contudo, esse incidente de falta grave não consta também do relatório da situação processual executória.
+Assim, considerando esse relatório (e-STJ fls. 124/139), verifico que não há faltas graves, nem observações negativas. Aliás, foram concedidas diversas vezes a remição da pena, demonstrando que o executado tem interesse à ressocialização da pena.
+Por fim, sua companheira declarou estar apta a receber o executado em sua residência (e-STJ fl. 41).
+Assim, não vislumbro empecilho à visita, tendo em vista o fim específico, o bom comportamento na execução, lapso temporal implementado e o caráter ressocializador da pena.
+Nesse sentido:
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO AO RECURSO PREVISTO NO ORDENAMENTO JURÍDICO. 1. NÃO CABIMENTO. MODIFICAÇÃO DE ENTENDIMENTO JURISPRUDENCIAL. RESTRIÇÃO DO REMÉDIO CONSTITUCIONAL. EXAME EXCEPCIONAL QUE VISA PRIVILEGIAR A AMPLA DEFESA E O DEVIDO PROCESSO LEGAL. 2. EXECUÇÃO PENAL. VISITAS PERIÓDICAS AO LAR. BENEFÍCIO CONCEDIDO PELO JUIZ DE PRIMEIRO GRAU. REFORMA DO ENTENDIMENTO PELO TRIBUNAL A QUO COM BASE EM CONSIDERAÇÕES ABSTRATAS SOBRE OS OBJETIVOS DA SANÇÃO E A LONGA PENA A CUMPRIR. 3. ACÓRDÃO QUE REGISTRA BOM COMPORTAMENTO DO PACIENTE E IMINÊNCIA DE PROGREDIR AO REGIME ABERTO. CONSTRANGIMENTO ILEGAL CONFIGURADO. 4. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. A jurisprudência do Superior Tribunal de Justiça, buscando a racionalidade do ordenamento jurídico e a funcionalidade do sistema recursal, vinha se firmando, mais recentemente, no sentido de ser imperiosa a restrição do cabimento do remédio constitucional às hipóteses previstas na Constituição Federal e no Código de Processo Penal. Nessa linha de evolução hermenêutica, o Supremo Tribunal Federal passou a não mais admitir habeas corpus que tenha por objetivo substituir o recurso ordinariamente cabível para a espécie.
+Precedentes. Contudo, devem ser analisadas as questões suscitadas na inicial no intuito de verificar a existência de constrangimento ilegal evidente, a ser sanado mediante a concessão de habeas corpus de ofício, evitando-se prejuízos à ampla defesa e ao devido processo legal.
+2. Para a concessão das saídas temporárias, a Lei de Execução Penal exige: o comportamento adequado do condenado, o cumprimento de 1/6 da pena, se for primário, e de 1/4, se reincidente, bem como a compatibilidade do benefício com os objetivos da reprimenda. Aqui, o pleito de autorização de visitas periódicas ao lar foi negado pelo Tribunal a quo com base em elementos abstratos quanto à sanção penal, a gravidade dos delitos e a longa pena a cumprir.
+3. Acórdão que identificou bom comportamento do paciente, bem como sua iminência de progredir para o regime aberto.
+4. Habeas corpus não conhecido. Ordem concedida, de ofício, para restabelecer a autoridade da decisão de fls. 73/74.
+(HC n. 276.772/RJ, relator Ministro Marco Aurélio Bellizze, Quinta Turma, julgado em 8/10/2013, DJe de 14/10/2013.)
+Ante o exposto, em juízo de retratação, próprio do agravo regimental, reconsidero a decisão agravada, para conced er a ordem de ofício, a fim de determinar que Juízo das Execuções Criminais reaprecie o pedido de visita periódica ao lar, com base em elementos concretos da execução da pena, extraídos, portanto, do relatório da situação processual executória ou outro documento relativo ao cumprimento da pena.
+Comunique-se esta decisão, com urgência, ao Juízo executório e ao Tribunal coator.
+Intimem-se.
+EMENTA
