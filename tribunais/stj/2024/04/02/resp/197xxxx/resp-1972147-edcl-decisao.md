@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo Município do Recife, contra a decisão de fls. 222/226 que negou provimento ao agravo, com fundamento na ausência de violação do art. 1.013 do CPC, por ter a Corte de origem resolvido o conflito posto nos autos a partir da intepretação lógico-sistemática de todo o conjunto de razões apresentadas, não havendo falar em devolução meramente parcial da matéria abordada em sentença.
+Em suas razões, o embargante alega ter havido vício de erro material no decisum, por ter esta relatoria partido de premissa fática equivocada, qual seja, de que a Caixa teria fundamentado suas razões de apelação no argumento de revelia, o que não ocorreu.
+Acrescenta, ainda, que o próprio Tribunal Regional ressaltou que a Caixa não suscitou nulidade do processo administrativo em suas razões de apelo.
+Requer, desse modo, o provimento dos embargos, com atribuição de efeitos modificativos, para que seja sanado o vício apontado.
+Intimada, a parte contrária deixou transcorrer o prazo para impugnação (fl. 238).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não há falar na existência de erro material na decisão embargada, tendo sido destacado o trecho do acórdão recorrido do qual decorreu a conclusão sobre a efetiva devolução da matéria à Corte de Segundo Grau, fazendo referência ao pedido da parte para exclusão da multa e que não fosse considerada revel nos autos administrativos, daí a conclusão de devolução da matéria. Assim, destaca-se (fl. 225):
+Irresignada, a Caixa interpôs apelação, buscando "afastar totalmente ou, alternativamente, reduzir o valor arbitrado a título de "multa, com base nos Princípios da Razoabilidade e Proporcionalidade.
+Feitas tais considerações, observo que, diferentemente do que afirmado na sentença, na inicial, a Caixa se insurgiu expressamente contra as supostas irregularidades que motivaram a aplicação da multa. .. Ressalte-se, por oportuno, que embora, nas razões recursais, a Caixa não tenha suscitado a nulidade do processo administrativo, entendo que tal questão foi devolvida ao Tribunal, na medida em que a recorrente defendeu que deveria ser excluída a multa aplicada. Destaque-se que já na inicial a Caixa alegou que seria indevida a alegação de que foi revel no processo administrativo, motivo pelo qual aplica-se o disposto no §1º do art. 1.013 do CPC, segundo o qual "Serão, porém, objeto de apreciação e julgamento pelo tribunal todas as questões suscitadas e discutidas no processo, ainda que não tenham sido solucionadas, desde que relativas ao capítulo impugnado.".
+Nesse contexto, tendo a pretensão recursal de apelação se embasado tanto nos princípios da razoabilidade e da proporcionalidade como no fato de que não houve revelia de sua parte no processo administrativo sancionatório, toda a matéria a respeito da regularidade da multa (aí considerado o processo que lhe antecedeu) foi devolvida à Corte Regional.
+Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exigido pelo artigo 1.022 do CPC, impõe-se a rejeição dos presentes aclaratórios.
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publiq ue-se.
+EMENTA
