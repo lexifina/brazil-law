@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por RAFAEL RODRIGUES DA SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Habeas Corpus n. 1.0000.23.326583-4/000).
+Infere-se dos autos que o paciente foi denunciado como incurso no art. 33 da Lei 11.343/2006 e art.16, § 1º, IV, da Lei 10.826/2003, porque, em 27/7/2023, conduzia o veículo Fiat/Palio Weekend, no qual em seu interior foi apreendido um revólver calibre .38, com número de série suprimido, municiado com cinco cartuchos do mesmo calibre, bem como uma sacola contendo 115 porções de cocaína, 9 porções de maconha, um celular e a quantia de R$150,00 (cento e cinquenta reais).
+Impetrado habeas corpus na origem, a ordem foi assim denegada (e-STJ fl. 1.664):
+EMENTA: HABEAS CORPUS -TRÁFICO DE ENTORPECENTES -NULIDADE DO APFD - IRRELEVÂNCIA - PRISÃO PREVENTIVA -IDONEIDADE DA FUNDAMENTAÇÃO - PRISÃO NECESSÁRIA PARA A TUTELA DA ORDEM PÚBLICA - RISCO DE REITERAÇÃO DELITIVA -PACIENTE COM CONDENAÇÃO ANTERIOR PELA PRÁTICA DE CRIME GRAVE - NEGATIVA DE AUTORIA - VIA IMPRÓPRIA - MEDIDAS CAUTELARES ALTERNATIVAS -INSUFICIÊNCIA. 1. Eventuais vícios existentes no APFD restam superados com a superveniência de decisão que converte a prisão em preventiva, devendo os fundamentos dessa serem atacados. 2. A decretação da prisão preventiva se sustenta diante da idoneidade da fundamentação da decisão judicial, que se mostra legítima e suficiente. 3. A prisão preventiva no caso dos autos é necessária para a manutenção da ordem pública, considerando o risco de reiteração delitiva, tratando-se de paciente reincidente, com condenação anterior pela prática de crime grave. 4. A negativa de autoria por parte do paciente envolve revolvimento pormenorizado do conjunto probatório e dilação probatória, pelo que se torna inviável a análise de tal tese na via estreita do habeas corpus. 5. Incabível a substituição da prisão por alguma outra medida cautelar, quando demonstrados os requisitos da restrição da liberdade e circunstâncias que evidenciam a insuficiência de tais medidas.
+Nas razões do presente recurso, alega a defesa ser nulo o auto de prisão em flagrante delito, porque foi ouvida apenas uma testemunha de apresentação, não sendo observado o disposto no art. 304, § 2º do CPP.
+Afirma que o paciente encontra-se preso desde 27/ 7/2023 e que deve incidir, na hipótese, o princípio do in dubio pro reo.
+O pedido liminar foi indeferido.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso.
+É o relatório.
+Decido.
+Preliminarmente, tem-se que a conversão do flagrante em prisão preventiva torna prejudicada eventual irregularidade do inquérito policial, tendo em vista o entendimento há muito consolidado por esta Corte de que, "com a superveniência de decretação da prisão preventiva, ficam prejudicadas as alegações de ilegalidade da segregação em flagrante, tendo em vista a formação de novo título ensejador da custódia cautelar" (HC n. 429.366/PR, de minha relatoria, Quinta Turma, DJe de 16/11/2018).
+Ainda que assim não fosse, verifico que a prisão preventiva foi revogada por decisão de 28/2/2024. Assim, patente a perda superveniente de objeto.
+Ante o exposto, com base no art. 34, XI, do Regimento Interno desta Corte, julgo prejudicado o presente recurso.
+Publique-se. Intimem-se.
+ EMENTA
