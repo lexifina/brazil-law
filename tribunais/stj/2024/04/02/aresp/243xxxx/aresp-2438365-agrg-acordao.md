@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. PENAL. PROCESSO PENAL. TRÁFICO DE DROGAS. PRETENSÃO DE DESCLASSIFICAÇÃO. TRIBUNAL AFIRMA A EXISTÊNCIA DE PROVAS PARA MANTER A CONDENAÇÃO. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Rogerio Geraldo da Silva contra a decisão monocrática da Presidência desta Corte que conheceu do agravo para não conhecer do recurso especial, ante a necessidade de revolvimento do substrato fático-probatório (Súmula 7/STJ).
+Alega o agravante que ao contrário do entendimento adotado na decisão agravada, para rever os fundamentos utilizados pela Corte a quo e assim decidir pela desclassificação para uso próprio conforme demonstrado durante a instrução processual e no recurso especial aviado pelo réu, em nenhum momento importa revolvimento de matéria fático-probatória, não sendo necessário a incursão no contexto fático probatório dos autos (fl. 956).
+Reitera as alegações do especial, repisando os argumentos apresentados na peça recursal.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. PENAL. PROCESSO PENAL. TRÁFICO DE DROGAS. PRETENSÃO DE DESCLASSIFICAÇÃO. TRIBUNAL AFIRMA A EXISTÊNCIA DE PROVAS PARA MANTER A CONDENAÇÃO. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+Agravo regimental improvido.
+VOTO
+A decisão impugnada deve ser mantida pelo que nela se contém, tendo em conta que o agravante não logrou desconstituir seu fundamento, motivo pelo qual o trago ao Colegiado para ser confirmado.
+De acordo com o afirmado anteriormente, acolher a pretensão da defesa no tocante à desclassificação do crime de tráfico para o porte de drogas para consumo pessoal, por não estar comprovada a traficância, exige um profundo revolvimento probatório, vedado no âmbito do apelo nobre .
+Com efeito, o Tribunal de origem se manifestou acerca da controvérsia posta no apelo nobre nos seguintes termos (fls. 885/859):
+Quanto à autoria, a mesma restou comprovada, tão somente, em relação ao apelado Rogério Geraldo da Silva, o qual, apesar de se declarar usuário de entorpecente, confessou na fase policial a propriedade de 100 gramas de cocaína, que mantinha em depósito em sua residência.
+ ..
+Por fim, restou comprovado que o apelado Rogério mantinha em depósito 100 gramas de cocaína em sua residência, com intuito de disseminá-las, restando sua versão isolada nos autos.
+ ..
+No caso em estudo, não foi refutado o fato de que a droga foi encontrada na residência de Rogério e que este assumiu sua propriedade quando interrogado perante a autoridade policial, fato corroborado pelos depoimentos dos policiais que participaram do flagrante.
+Além disso, a quantidade de droga não é compatível com a figura delitiva do uso, porquanto trata-se de quantia exacerbada, 100 gramas de cocaína, o que denota a intenção de mercancia da droga.
+ ..
+Acrescente-se que não há razão para negar crédito aos depoimentos judiciais dos policiais, mormente quando submetidos ao necessário contraditório e corroborados pelas demais provas colhidas e pelas circunstâncias em que ocorreu o delito, tal como se dá na espécie em exame.
+Nessa ordem, restam evidenciados elementos probatórios razoáveis e concretos aptos a formar um juízo de convencimento no sentido de que o apelante Rogério Geraldo da Silva mantinha em depósito a droga apreendida para fins de mercancia.
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial") quanto ao pleito de desclassificação da conduta para aquela prevista no art. 28 da Lei n. 11.343/2006, uma vez que para dissentir da conclusão do Tribunal de origem seria necessária a incursão no conjunto fático-probatório carreado aos autos.
+Nesse sentido: "O pleito de desclassificação do delito de tráfico de drogas para porte destinado ao consumo pessoal restou afastado pela Corte a quo em razão da demonstração da finalidade mercantil dos entorpecentes apreendidos, sobretudo pela quantidade e variedade, bem como pelo confisco de razoável quantia em espécie de origem injustificada. A revisão deste entendimento encontra óbice na Súmula n. 7 desta Corte." (AgRg no AREsp n. 2.144.993/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 24/3/2023.)
+De igual sorte: "As instâncias de origem reconheceram a existência de elementos de prova suficientes para embasar o decreto condenatório pela prática do crime de tráfico de drogas. Assim, a mudança da conclusão alcançada no acórdão impugnado, de modo a desclassificar a conduta para o art. 28 da Lei n. 11.343/2006, exigiria o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmula n. 7/STJ e Súmula n. 279/STF)." (AgRg no AREsp n. 2.245.299/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 14/6/2023.)
+No mesmo sentido: "Nesse contexto, tendo o Tribunal a quo reputado farto o conjunto fático-probatório constante dos autos, a corroborar a condenação do recorrente pela prática de tráfico de drogas, afastando a absolvição e a postulada desclassificação para o art. 28, da Lei n. 11.343/2006, inviável, no caso em tela, entender de modo diverso, dada a necessidade de reexame de elementos fático-probatórios, providência vedada em sede de recurso especial. Incidência do óbice da Súmula n. 7/STJ." (AgRg no AREsp n. 2.175.205/CE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+Confira-se, ainda, os seguintes julgados: AgRg no AREsp n. 2.203.507/TO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 2/5/2023; AgRg no AREsp n. 2.295.406/TO, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 24/4/2023; AgRg no AREsp n. 2.162.920/MA, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 19/5/2023; AgRg no REsp n. 2.022.975/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 29/5/2023, DJe de 31/5/2023; AgRg no AgRg no AREsp n. 2.222.297/SE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/3/2023, DJe de 17/3/2023.
+Ante o exposto, nego provimento ao agravo regimental.
