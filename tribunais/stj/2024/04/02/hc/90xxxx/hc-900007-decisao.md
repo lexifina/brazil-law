@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de habeas corpus, impetrado em favor de ADRIEL DA SILVA ALVES, em que se aponta como ato coator a decisão monocrática de desembargadora do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, que denegou o pedido de liminar formulado no HC n. 1005813-83.2024.4.01.0000
+Consta dos autos a prisão preventiva do paciente, decorrente de suposta prática dos delitos capitulados nos arts. 171, § 3º, e 288, ambos do Código Penal.
+Em suas razões, sustentam os impetrantes, inicialmente, que não está evidenciado, no caso, o risco de reiteração delitiva. Alegam, ainda, excesso de prazo para a conclusão do inquérito. Asserem que o paciente não é líder de organização criminosa. Destacam as condições pessoais favoráveis do paciente e aduzem que se mostram adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do CPP.
+Requerem, assim, liminarmente e no mérito, o relaxamento da prisão cautelar ou sua revogação, ainda que mediante a aplicação de medidas cautelares alternativas não prisionais.
+É, no essencial, o relatório. Decido.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA n. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2.  ..
+3.  ..
+4. A demora ilegal não resulta de um critério aritmético, mas de aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo injustificado na prestação jurisdicional.
+5.  ..
+6. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+In casu, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, as decisões de origem não se revelam teratológicas.
+Isso porque, compulsando os autos, verifica-se que o decreto de prisão preventiva e a decisão que indeferiu o pedido de sua revogação invocam fatos que, em um juízo preliminar, podem indicar a necessidade da custódia para garantia da ordem pública. Transcrevo, por oportuno, os seguintes trechos:
+Com efeito, a medida pleiteada é necessária e adequada ao caso concreto. Existem indícios no sentido de que a prática de crimes contra a previdência social é reiterada e implica grave dano ao patrimônio público; sendo que a prisão preventiva se apresenta como o único meio disponível para se fazer encerrar a prática criminosa. Ora, como se trata de infrações penais praticadas mediante o uso de tecnologia de informação, a fixação de medidas cautelares diversas da prisão, em ordem de impedir eventual acesso, seriam inócuas, em razão da impossibilidade controle estatal.
+Demais disso, verifica-se que o investigado Ariel praticou conduta de ameaça, mediante uso de armamento, em desfavor de testemunha. Logo, é necessário e adequado proteger a pessoa de eventual ato de violência; bem como proteger a importante fonte de prova. (fl. 50)
+As evidências retiradas do aparelho telefônico de Robson de Castro Martins; bem como, as evidências colhidas na residência de Adriel da Silva Alves são concordantes quando à existência de uma associação criminosa destinada a praticar fraudes previdenciárias em prejuízo ao patrimônio público.
+E, além disso, observa-se o refinamento do empreendimento criminoso, uma vez que se tem acesso aos sistemas internos da Administração Previdênciária.
+A análise perfunctória dos dispositivos eletrônicos apreendido na residência de Adriel  ID2009360185, PAB Crim 1000652-32.2024  são no sentido de que o acusado movimentaria, em data posterior à sua prisão preventiva, quantia de cerca de R$ 4.576.034,25.
+Dado o número de benefícios previdenciários fraudados, a existência de meios técnicos refinados na prática do delito de estelionato previdenciário, os valores monetários envolvidos, com grave dano ao patrimônio público, e aparente existência de uma associação criminosa cuja finalidade é praticar delitos dessa natureza; entendo que a manutenção da prisão preventiva é medida necessária e adequada ao caso concreto, com a finalidade de proteger a ordem pública e a ordem econômica dos fundos previdenciários. (fls. 318-319)
+Quanto à alegação de excesso de prazo, sua análise não resulta de um critério aritmético, mas de juízo de razoabilidade sobre a marcha investigatória ou processual, feito a partir das circunstâncias do caso concreto, como a complexidade da causa e quaisquer outros fatores que possam influir na tramitação da ação penal ou do inquérito, e não só do tempo da prisão cautelar  AgRg no HC n. 750.520/MG, relator Ministro Messod Azulay Neto, Quinta Turma, DJe de 2/3/2023; AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 9/3/2023; AgRg no RHC n. 172.681/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 9/3/2023; AgRg no HC n. 692.428/MG, relator Ministro Olindo Menezes (Desembargador convocado do Tribunal Regional Federal da 1ª Região), Sexta Turma, DJe de 11/10/2021 .
+Trata-se, por conseguinte, de matéria sensível, a exigir maior reflexão e exame aprofundado dos autos, sendo prudente aguardar o julgamento definitivo do habeas corpus impetrado no tribunal de origem antes de eventual intervenção desta Corte Superior.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
