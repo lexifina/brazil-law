@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Messod Azulay Neto, Daniela Teixeira, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE VÍCIOS. INTEMPESTIVIDADE. ART. 39 DA LEI N. 8.038/1990. SUPERVENIÊNCIA DA LEI N. 13.105/15. MANUTENÇÃO DO PRAZO DE 5 DIAS PARA INTERPOSIÇÃO DE AGRAVO REGIMENTAL NO PROCESSO PENAL. AUSÊNCIA DE CONTRADIÇÃO. EMBARGOS REJEITADOS.
+1. Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade do decisum embargado, o que não se vislumbra na hipótese.
+2. O prazo para interposição de agravo regimental, em matéria penal, é de 5 dias, mesmo após a entrada em vigor do novo CPC - Lei n. 13.105/2015 -, art. 39 da Lei n. 8.038/90. Este Superior Tribunal de Justiça já consolidou o entendimento de que "o agravo contra decisão monocrática de Relator, em controvérsias que versam sobre matéria penal ou processual penal, nos tribunais superiores, não obedece às regras do novo CPC referentes à contagem dos prazos em dias úteis (art. 219, Lei 13.105/2015) e ao estabelecimento de prazo de 15 (quinze) dias para todos os recursos, com exceção dos embargos de declaração (art. 1.003, § 5º, Lei 13.105/2015)" (AgRg na Rcl n. 30.714/PB, Rel. Ministro Reynaldo Soares da Fonseca, 3ª S., DJe 4/5/2016).
+3. Cumpre considerar que a contradição que enseja a interposição dos embargos de declaração é interna do julgado, entre fundamentos e conclusões, o que não se verifica no caso.
+4 . Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos em face do acórdão proferido pela Quinta Turma desta Corte Superior que, por unanimidade, não conheceu do agravo regimental do ora embargante, ante a sua intempestividade (fls. 1283/1284). O acórdão embargado ficou assim ementado:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. PRAZO DE 5 DIAS CONTÍNUOS. INTEMPESTIVIDADE. AGRAVO NÃO CONHECIDO.
+1. É intempestivo o agravo regimental que não observa o prazo de interposição de 5 dias contínuos, conforme art. 39 da Lei n. 8.038/1990 e art. 258 do Regimento Interno do Superior Tribunal de Justiça - RISTJ.
+2. Na hipótese, verifica-se que a publicação da decisão agravada ocorreu no dia 20/4/2023. O prazo para a interposição do agravo regimental teve início em 24/4/2023 (segunda-feira) e término em 28/4/2023 (sexta-feira). Todavia, o presente recurso foi interposto somente em 2/5/2023, sendo manifesta a sua intempestividade.
+3. Agravo regimental não conhecido." (fl. 1282)
+Nos presentes embargos, a Defesa alega a existência de contradição no acórdão, uma vez que, após a vigência do CPC/2015, é de 15 dias o prazo para a interposição de qualquer agravo, nos termos do artigo 1.003, § 5º, do CPC, aplicável aos processos criminais nos termos do art. 3º do CPP. Afirma que "A aplicação do Regimento (RISTJ) e da Lei antiga (8.038), portanto, representa contradição com o que dispõe a sistemática recursal prevista no Código de Processo Civil, cuja aplicação é subsidiária ao Processo Penal" (fl. 1291).
+Requer seja reconhecida a contradição para que, considerada a tempestividade recursal, seja conhecido e provido o agravo regimental interposto pelo embargante.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE VÍCIOS. INTEMPESTIVIDADE. ART. 39 DA LEI N. 8.038/1990. SUPERVENIÊNCIA DA LEI N. 13.105/15. MANUTENÇÃO DO PRAZO DE 5 DIAS PARA INTERPOSIÇÃO DE AGRAVO REGIMENTAL NO PROCESSO PENAL. AUSÊNCIA DE CONTRADIÇÃO. EMBARGOS REJEITADOS.
+1. Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade do decisum embargado, o que não se vislumbra na hipótese.
+2. O prazo para interposição de agravo regimental, em matéria penal, é de 5 dias, mesmo após a entrada em vigor do novo CPC - Lei n. 13.105/2015 -, art. 39 da Lei n. 8.038/90. Este Superior Tribunal de Justiça já consolidou o entendimento de que "o agravo contra decisão monocrática de Relator, em controvérsias que versam sobre matéria penal ou processual penal, nos tribunais superiores, não obedece às regras do novo CPC referentes à contagem dos prazos em dias úteis (art. 219, Lei 13.105/2015) e ao estabelecimento de prazo de 15 (quinze) dias para todos os recursos, com exceção dos embargos de declaração (art. 1.003, § 5º, Lei 13.105/2015)" (AgRg na Rcl n. 30.714/PB, Rel. Ministro Reynaldo Soares da Fonseca, 3ª S., DJe 4/5/2016).
+3. Cumpre considerar que a contradição que enseja a interposição dos embargos de declaração é interna do julgado, entre fundamentos e conclusões, o que não se verifica no caso.
+4 . Embargos de declaração rejeitados.
+VOTO
+Os aclaratórios não merecem acolhida.
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no decisum.
+Na espécie, o acórdão embargado não ostenta nenhum dos aludidos vícios, tendo sido explícito que, nos termos dos art. 39 da Lei n. 8.038/90 e 258 do Regimento Interno do Superior Tribunal de Justiça - RISTJ, é de 5 (cinco) dias o prazo para a interposição de agravo regimental, mesmo após a entrada em vigor do novo CPC - Lei n. 13.105/15.
+Conforme consignado no acórdão embargado, este Superior Tribunal de Justiça já consolidou o entendimento de que "o agravo contra decisão monocrática de Relator, em controvérsias que versam sobre matéria penal ou processual penal, nos tribunais superiores, não obedece às regras do novo CPC referentes à contagem dos prazos em dias úteis (art. 219, Lei 13.105/2015) e ao estabelecimento de prazo de 15 (quinze) dias para todos os recursos, com exceção dos embargos de declaração (art. 1.003, § 5º, Lei 13.105/2015)" (AgRg na Rcl n. 30.714/PB, Rel. Ministro Reynaldo Soares da Fonseca, 3ª S., DJe 4/5/2016). No sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. ART. 39 DA LEI N. 8.038/1990. SUPERVENIÊNCIA DA LEI N. 13.105/2015. MANUTENÇÃO DO PRAZO DE 5 DIAS. SUSTENTAÇÃO ORAL. IMPOSSIBILIDADE. FEITO APRESENTADO EM MESA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O prazo para interposição de agravo regimental, em processo penal, é de 5 dias, de acordo com os arts. 39 da Lei n. 8.038/1990 e 258 do RISTJ.
+2. Mesmo após a entrada em vigor da Lei n. 13.105/2015, o prazo para a interposição de agravo regimental continuou sendo regido pelo art. 38 da Lei n. 8.038/1990.
+3. Na espécie, é intempestivo o agravo regimental interposto após o lapso de 5 dias.
+4. Consoante jurisprudência firmada pela Terceira Seção desta Corte, nos termos dos arts. 159, IV e 258 do RISTJ, o feito relativo ao agravo regimental em matéria penal será apresentado em mesa para julgamento e não cabe sustentação oral das razões do recurso pelo patrono da parte.
+5. Agravo regimental não conhecido.
+(AgRg no AREsp 1583792/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 22/3/2022).
+Cumpre observar, ainda, que a contradição que enseja a interposição dos embargos de declaração é interna do julgado, entre fundamentos e conclusões, o que não se verifica no caso.
+Ante o exposto, voto no sentido de rejeitar os embargos declaratórios.
