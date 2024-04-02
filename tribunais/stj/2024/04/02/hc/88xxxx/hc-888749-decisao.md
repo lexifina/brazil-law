@@ -1,0 +1,44 @@
+DECISÃO
+MOISES DA SILVA SOUZA aponta constrangimento ilegal decorrente de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2226707-84.2023.8.26.0000, em que foi mantida sua prisão preventiva.
+A defesa busca a revogação da custódia provisória, decretada em razão de suposta prática do delito do art. 121, § 2º, IV do CP, com a imposição de cautelares diversas, por considerar que os requisitos do art. 312 do CPP não foram preenchidos. Reputa carente de fundamentação idônea o decreto preventivo, pela ausência de contemporaneidade diante de fatos praticados há 25 anos. Ressalta os predicados subjetivos favoráveis do paciente e seu comprometimento com a instrução processual ao constituir defesa técnica.
+As informações foram prestadas pelas instâncias originárias (fls. 77-80).
+O Ministério Público Federal opinou pelo não conhecimento do writ e, no mérito, pela denegação da ordem (fls. 83-88).
+Decido.
+Consta dos autos que o paciente teve sua prisão preventiva decretada após requerimento da autoridade policial e do Ministério Público, em 29/4/1998 (fl. 61). Após o cumprimento do mandado em 19/7/2023, o Juízo de primeiro grau reavaliou a necessidade da segregação, com base nos seguintes fundamentos (fls. 24-25, grifei):
+Como bem salientado pelo Ministério Público, cujos fundamentos adoto como razão de decidir, o risco à ordem pública ainda se sustenta, considerando-se a gravidade concretado crime em comento, em especial a motivação, qual seja, não aceitar o término do relacionamento.
+De mais, evidente ainda a necessidade de assegurar a aplicação da lei penal, dado o demasiadamente alongado período de evasão do réu, por mais de duas décadas, critério que prevalece neste momento.
+O crime, em tese, foi cometido mediante recurso que dificultou a defesa da vítima, impossibilitando qualquer reação de defesa.
+Por todo o exposto, patente a necessidade de salvaguarda da ordem pública e a conveniência da instrução criminal.
+Inconformada, a defesa impetrou habeas corpus perante o Tribunal de segundo grau, que denegou a ordem, nos termos a seguir (fls. 38-39, destaquei):
+ ..
+Não se vislumbrou nesta instância o apontado constrangimento ilegal, porque as decisões que determinaram a custódia cautelar do paciente (fls. 68/69 e 214), e aquela que indeferiu pedido de concessão de liberdade provisória (fls. 430/431), revestem-se de fundamentação legítima, pautada pelos termos do artigo 93, inciso IX da Constituição Federal, com substrato nos indícios de autoria e prova da materialidade e pela gravidade dos fatos praticados por ele.
+Ressaltou-se, ainda, que o acusado buscou furtar-se à aplicação da lei penal, pois fugiu do distrito da culpa, logo após a prática do crime.
+Necessária, ainda, sua prisão, para garantia da ordem pública.
+Por fim, indeferiu-se pedido de concessão da liberdade provisória ou substituição da prisão por medidas cautelares distintas do cárcere, pois, decorridos mais de vinte e cinco anos da prática criminosa, o paciente foi preso em 19/07/2023, da distante cidade de Canaã dos Carajás, após inúmeras diligências com afinalidade de encontrá-lo, demonstrando que mudou de endereço diversas vezes.
+Demais disso, o risco à ordem pública ainda se sustenta, considerando-se a gravidade concreta do crime em comento, em especial a motivação, qual seja, não aceitar o término do relacionamento.
+Outrossim, evidente a necessidadede assegurar a aplicação da lei penal, dado o demasiadamente alongado período de evasão do réu, por mais de duas décadas, critério que prevalece nesse momento.
+ ..
+Não há falar em ausência de contemporaneidade da medida, tendo em vista que o paciente teve decretada a prisão preventiva, logo após os fatos, na oportunidade emque recebida a denúncia, diante da gravidade dos fatos e porque ele deixou o distrito da culpa logo após a prática do homicídio.
+ ..
+A concessão da liberdade provisória, ou a imposição de outras medidas cautelares diversas da prisão, nesse momento, não impedirão que o paciente fuja novamente, sendo, assim, temerária a sua colocação em liberdade.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Tomando por base essa premissa, verifico que se mostram suficientes as razões invocadas nas instâncias ordinárias para justificar a ordem de prisão do ora paciente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, a instância ordinária registrou que a prisão é necessária para a garantia da ordem pública, em virtude da gravidade concreta dos fatos e do modus operandi da conduta. Ademais, explicitou a conveniência para a instrução criminal, diante da evasão do paciente do distrito da culpa, e o risco à aplicação da lei penal .
+Além disso, destaco que também já asseverou o Superior Tribunal de Justiça que " o  mandado de prisão não foi cumprido, encontrando-se os agravantes foragidos, sendo certo que ""a fuga constitui o fundamento da cautelaridade, em juízo prospectivo, razão pela qual a alegação de ausência de contemporaneidade não tem o condão de revogar a segregação provisória "" (AgRg no RHC 133.180/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 24/8/2021)" (AgRg no HC n. 721.578/ES, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe de 6/5/2022, grifei).
+A propósito:
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO POR MOTIVO TORPE. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PACIENTE QUE PERMANECEU FORAGIDO DURANTE LONGO LAPSO TEMPORAL. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONTEMPORANEIDADE. NÃO CONFIGURAÇÃO. MEDIDAS CAUTELARES. INVIABILIDADE. GRAVIDADE DO ESTADO DE SAÚDE DO ACUSADO. NÃO COMPROVAÇÃO NOS AUTOS. ORDEM DENEGADA.
+1. Insta consignar que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+2. Consta dos autos que o acusado ceifou a vida da vítima, sua ex-companheira, com 16 anos de idade, por motivo de ciúmes, além de tê-la agredido, anteriormente, por diversas vezes, consoante registro de ocorrência confeccionado em seu desfavor.
+Posteriormente aos fatos, ele empreendeu fuga, permanecendo foragido. O decreto prisional foi expedido em 28/11/2016 e cumprido, apenas, em 11/5/2023, quando o paciente deu entrada na emergência de um hospital público, acometido de AVC.
+3. A "contemporaneidade diz com os motivos ensejadores da prisão preventiva e não o momento da prática supostamente criminosa em si, ou seja, é desimportante que o fato ilícito tenha sido praticado há lapso temporal longínquo, sendo necessária, no entanto, a efetiva demonstração de que, mesmo com o transcurso de tal período, continuam presentes os requisitos (i) do risco à ordem pública ou (ii) à ordem econômica, (iii) da conveniência da instrução ou, ainda, (iv) da necessidade de assegurar a aplicação da lei penal" (STF, HC n. 185.893 AgR, relatora Ministra ROSA WEBER, PRIMEIRA TURMA, julgado em 19/4/2021, DJe 26/4/2021).
+Nos moldes da orientação desta Casa, "a fuga constitui o fundamento da cautelaridade, em juízo prospectivo, razão pela qual a alegação de ausência de contemporaneidade não tem o condão de revogar a segregação provisória" (AgRg no RHC n. 133.180/SP, relatora a Ministra LAURITA VAZ, SEXTA TURMA, DJe 24/8/2021).
+4. As circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal não surtiriam o efeito almejado para a proteção da ordem pública.
+5. Quanto à fragilidade do estado de saúde do paciente, os documentos constantes dos autos não comprovam a alegada gravidade ou a impossibilidade de tratamento e cuidados médico na unidade prisional em que se encontra.
+6. Ordem denegada.
+(HC n. 861.032/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/12/2023, DJe de 12/12/2023.)
+Concluo, então, haver sido demonstrada a exigência cautelar justificadora da manutenção da prisão preventiva do acusado, a despeito de sua primariedade e dos demais predicativos pessoais favoráveis.
+Por idênticos fundamentos (art. 282, I, do Código de Processo Penal), a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais (HC n. 542.455/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 27/2/2020).
+Diante do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
