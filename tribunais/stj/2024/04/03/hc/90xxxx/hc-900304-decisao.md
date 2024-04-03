@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JOSÉ MIQUÉIAS DA SILVA apontando como autoridade coatora o Tribunal de Justiça do Estado do Ceará no julgamento da Apelação Criminal n. 0253286-63.2020.8.06.0001, cujo acórdão ficou assim ementado (e-STJ fl. 53):
+APELAÇÕES. DIREITO PENAL E PROCESSUAL PENAL. ORGANI-ZAÇÃO CRIMINOSA ARMADA. DELITO PLENAMENTE COMPROVADO. ATIVI-DADE COLABORATIVA DOS RÉUS EM FACÇÃO CRIMINOSA ARMADA. DOSI-METRIA DAS PENAS BEM FORMULADA, DENTRO DA RAZOÁVEL MARGEM DE DISCRICIONARIEDADE QUE A LEI CONFERE AO JULGADOR. RECURSOS CONHECIDOS, PORÉM IMPROVIDOS. SENTENÇA PRESERVADA.1. Impossível acolher o pleito recursal para absolvição dos apelantes em relação ao delito de organização criminosa armada. Os policiais que depuseram em juízo deixaram plenamente provado que os réus integram ativamente facção criminosa armada.2. Sedimentado o entendimento de que os depoimentos de policiais, mesmo quando atuando no cumprimento de seus misteres profissionais, são valiosos elementos de formação da convicção do julgador.3. Observa-se que as penas aplicadas pelo juízo a quo encontram-se dentro da margem de discricionariedade que a lei confere ao magistrado na imposição da reprimenda, não se detectando exasperações injustificadas, desmerecendo provimento, pois, também o pleito recursal neste sentido.4. Recursos conhecidos, porém improvidos. Sentença Hígida.
+Neste writ, sustentou a defesa ilegalidade na dosimetria, ante a cumulação das causas de aumento relativas ao crime de organização criminosa sem a devida fundamentação.
+Requereu, liminarmente e no mérito, o refazimento da dosimetria.
+É, em síntese, o relatório.
+Decido.
+O Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais, mas da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nessa linha, esta Corte, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+Nesse mesmo sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO TENTADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ILEGALIDADE FLAGRANTE NÃO DEMONSTRADA. REPRIMENDA INFERIOR A QUATRO ANOS. PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME MAIS GRAVOSO. POSSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA EVIDENCIADA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. EFEITO DEVOLUTIVO AMPLO DO RECURSO DE APELAÇÃO. BIS IN IDEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS. ACÓRDÃO TRANSITADO EM JULGADO. DOSIMETRIA. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. AUMENTO DA PENA-BASE. ELEVADA QUANTIDADE DE DROGAS. PROPORCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+(AgRg no HC n. 751.137/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/8/2022, DJe de 4/8/2022, grifei.)
+Assim, não se deve conhecer do writ que pretende a desconstituição de condenação definitiva, olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência desta Corte acerca da controvérsia.
+Verifico, todavia, flagrante ilegalidade na dosimetria, a atrair a concessão da ordem de ofício. Senão vejamos.
+De fato, na terceira fase, compreendo que não há fundamentação idônea para a majoração da pena em vista da presença das duas causas de aumento de pena previstas no art. 2º, §§ 2º e 4º, I, da Lei n. 12.850/2013, valendo ressaltar que, "optando o magistrado sentenciante pela incidência cumulativa de causas de aumento da parte especial, a escolha deverá ser devidamente fundamentada, lastreada em elementos concretos dos autos, a evidenciar  ..  maior grau de reprovação da conduta e, portanto, a necessidade de sanção mais rigorosa" (AgRg no REsp n. 1.890.184/AC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 3/11/2020, DJe de 19/11/2020).
+Na espécie, tenho que não houve a devida fundamentação para a operação de cumulação das majorantes contidas no art. 2º, §§ 2º e 4º, I, da Lei n. 12.850/2013, o que impõe o afastamento de uma das majorantes, conforme preconiza a jurisprudência desta Corte a respeito da controvérsia.
+Valho-me, aliás, mais uma vez, do precedente da Sexta Turma já citado anteriormente em que, no ponto, assim se decidiu:
+ ..
+7. Na situação dos autos, não houve nenhuma justificativa concreta para a aplicação cumulativa das causas de aumento previstas no § 2.º e no § 4.º, inciso I, ambos do art. 2.º da Lei n. 12.850/2013, tendo o Julgador singular afirmado, inclusive, que a participação de criança ou adolescente na organização nada fugia "ao extraordinário" e que, por essa razão, fixava no patamar mínimo de 1/6 (um) a exasperação por essa majorante.
+8. Ausente a fundamentação concreta para a aplicação cumulativa, pela regra do art. 68, parágrafo único, do Código Penal, deve prevalecer a causa de aumento pela qual se fez maior exasperação da pena que, no caso, é a referente ao emprego de arma de fogo.
+ ..
+(REsp n. 1.893.760/AC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 21/9/2021, DJe de 30/9/2021, grifei.)
+Portanto, considerado apenas o aumento em 1/2 na terceira fase da dosimetria, consolido a pena do paciente em 9 anos, 3 meses e 10 dias de reclusão.
+Mantenho , no mais, o acórdão impetrado.
+Ante o exposto, indefiro liminarmente o habeas corpus, mas concedo a ordem de ofício, nos termos ora delineados.
+Publique-se. Intimem-se.
+EMENTA
