@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por TELEFÔNICA BRASIL S/A contra decisão unipessoal que conheceu e deu provimento ao recurso especial interposto por JOSÉ DONISETE DE ARAÚJO, nos termos da seguinte ementa:
+DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PRESCRIÇÃO DA PRETENSÃO. INSTITUTO DE DIREITO MATERIAL. DEFINIÇÃO. PLANO DA EFICÁCIA. PRINCÍPIO DA INDIFERENÇA DAS VIAS. PRESCRIÇÃO QUE NÃO ATINGE O DIREITO SUBJETIVO. COBRANÇA EXTRAJUDICIAL DE DÍVIDA PRESCRITA. IMPOSSIBILIDADE.
+1. Ação declaratória de inexigibilidade de débito cumulada com indenização por danos morais.
+2. A jurisprudência desta Corte é no sentido de que o reconhecimento da prescrição impede tanto a cobrança judicial quanto a cobrança extrajudicial da dívida, não importando a via ou o instrumento utilizado para a realização da cobrança, uma vez que a pretensão se encontra praticamente inutilizada pela prescrição.
+3. Recurso especial conhecido e provido para declarar a inexigibilidade do débito prescrito.
+(e-STJ fls. 417-419)
+Nas razões do presente recurso, o embargante aduz, em síntese, vício na premissa fática da decisão embargada. Refere que restou assentado o caráter informativo do portal do Serasa, sendo ausente seu viés de cobrança. Requer a reforma do decisum a fim de que seja sanado o vício apontado.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do cabimento dos embargos de declaração
+Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão ou erro material no julgado (art. 1022 do CPC/15), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, mormente porque não são cabíveis para provocar novo julgamento da lide.
+Segundo a jurisprudência desta Corte, a omissão justificadora de suprimento no julgado embargado é aquela concernente a ponto suscitado pela parte e sobre o qual o órgão julgador deveria se manifestar, por ser fundamental ao pleno desfecho da controvérsia (EDcl no AgInt no AREsp 1.694.301/PE, 3ª Turma, DJe 3/3/2021).
+Na presente hipótese, o vício supramencionado não se mostra presente.
+A decisão não alterou as premissas fáticas do julgado, apenas consignou que, em conformidade com a recente jurisprudência desta Corte, o reconhecimento da prescrição impede tanto a cobrança judicial quanto a cobrança extrajudicial da dívida, não importando a via ou o instrumento utilizado para a realização da cobrança, uma vez que a pretensão se encontra praticamente inutilizada pela prescrição (REsp n. 2.088.100/SP, Terceira Turma, julgado em 17/10/2023, DJe de 23/10/2023).
+Como consequência, declarou-se a inexigibilidade do débito prescrito e determinou-se que o embargante se abstenha de realizar cobranças judiciais ou extrajudiciais da referida dívida. Na decisão monocrática embargada, destarte, nada se decidiu quanto à "natureza e finalidade da plataforma" Serasa.
+Por oportuno, acrescente-se trechos do recurso especial supramencionado (REsp n. 2.088.100/SP, Terceira Turma, julgado em 17/10/2023, DJe de 2 3/10/2023), que discutiu semelhante questão:
+"39. A partir da fundamentação apresentada, extraem-se as seguintes consequências práticas: não é lícito ao credor efetuar qualquer cobrança extrajudicial da dívida prescrita, seja por meio de telefonemas, e-mail, mensagens de texto de celular (SMS e Whatsapp), seja por meio da inscrição do nome do devedor em cadastro de inadimplentes com o consequente impacto no seu score de crédito.
+40. Acrescente-se que o chamado "Serasa Limpa Nome" consiste em uma plataforma na qual credores conveniados informam dívidas - prescritas ou não - passíveis de transação com o objetivo de facilitar a negociação e a quitação de débitos pendentes, normalmente com substanciosos descontos. Não se trata, portanto, de cadastro negativo, não impactando no score de crédito do consumidor e acessível somente ao credor e ao devedor mediante login e senha próprios (https://www.serasa.com.br/limpa-nome-online/b log/o-que-e-serasa-limpa-nome/).
+41. Nesse contexto,  ..  é oportuno destacar que eventual inclusão ou permanência do nome do devedor no "Serasa Limpa Nome", em razão de dívida prescrita, não pode acarretar - ainda que indiretamente - cobrança extrajudicial, tampouco impactar no score do consumidor."
+Logo, não há vício a ser sanado na decisão embargada, sendo certo que o mero descontentamento da parte não torna cabível o recurso de embargos de declaração, que servem ao aprimoramento do julgado, mas não à sua modificação, apenas excepcionalmente admitida.
+Forte nessas razões, REJEITO os embargos de declaração no recurso especial.
+Previno o embargante que a oposição de novos embargos, se declarados manifestamente protelatórios, acarretará condenação em multa, nos termos do art. 1.026, § 2º, do CPC.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ERRO DE PREMISSA FÁTICA. AUSÊNCIA. REDISCUSSÃO DA MATÉRIA PREVIAMENTE ANALISADA. IMPOSSIBILIDADE.
+1. Os embargos de declaração, a teor do art. 1.022 do CPC, constituem recurso de natureza integrativa destinado a sanar os seguintes vícios: obscuridade, contradição, omissão ou erro material. Descabe seu acolhimento quando a parte embargante pretende, essencialmente, reformar o decidido.
+2. Embargos de declaração rejeitados.
