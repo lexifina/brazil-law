@@ -1,0 +1,13 @@
+DECISÃO
+Em atenção ao despacho de fl. 170, a UNIÃO (fls. 174-176) aludiu à necessidade de maior prazo para reformular e concluir os procedimentos de revisão instaurados, "diante da complexidade da matéria, da necessidade de instrução probatória e da multiplicidade de casos". Nesse sentido, pugnou pela manutenção da suspensão da execução por mais no mínimo 180 (cento e oitenta) dias para apresentação da documentação pertinente.
+De seu turno, o exequente (fls. 177-184) requereu o prosseguimento do feito por gozar de prioridade legal em razão de sua idade, 78 (setenta e oito) anos.
+É o relatório. Decido.
+Em consulta por meio do link de acesso externo (https://tinyurl.com/y2bhfthc), verifica-se que o procedimento revisional foi incluído em pauta para análise em sessão no dia 23/8/2022, mas logo depois retirado. Atualmente, encontra-se paralisado desde o dia 30/8/2022, sem qualquer justificativa plausível para tanto. Chegando a esse estágio, e já transcorrido quase 1 (um) ano e 6 (seis) meses, revela-se inadmissível que a revisão ainda não tenha desfecho, concluindo a Administração pela validade ou não do ato anistiador.
+Enfim, a argumentação apresentada mostra-se evasiva, não autorizando que se suspenda, ainda mais, a execução.
+Como a portaria de anistia objeto da presente execução permanece válida, a situação versada nos autos autoriza, portanto, a rejeição da preliminar de inexigibilidade do título judicial suscitada pela UNIÃO (como, aliás, já havia sido determinado pela decisão de fls. 104-106) .
+Por fim, considerando que não foi apontado excesso de execução - visto que houve concordância com os cálculos apresentados pelo exequente, consoante visto às fls. 21-22 -, e não remanescendo outra matéria de defesa, o caso é de improcedência da impugnação oposta pela executada.
+Ante o exposto, julgo improcedente a impugnação oposta pela UNIÃO, bem como homologo o cálculo exequendo no valor de R$ 1.179.240,64 (um milhão, cento e setenta e nove mil, duzentos e quarenta reais e sessenta e quatro centavos), e determino a expedição da requisição de pagamento, nos termos do art. 535, § 3º, do CPC, com destaque de honorários advocatícios contratuais, se for o caso.
+Em consonância com os limites e critérios previstos nos §§ 2º e 3º do art. 85 do CPC, condeno a executada ao pagamento de honorários advocatícios sucumbenciais fixados em 10% (dez por cento) sobre a parcela a qual sucumbiu (que, no caso, corresponde ao valor executado, tendo em vista que impugnou a execução como um todo com base na alegada inexigibilidade do título judicial).
+Atestado o cumprimento dos requisitórios, incluindo o referente aos honorários advocatícios sucumbenciais, voltem-me conclusos para extinção da execução.
+Publique-se. Intimem-se.
+EMENTA
