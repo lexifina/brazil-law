@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio impetrado em benefício de GUILHERME DE MOURA SHAFFER, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO (Apelação Criminal n. 0000254-39.2022.8.08.0022).
+Extrai-se dos autos que o Juízo de primeiro grau condenou o paciente a 3 anos de reclusão, inicialmente no regime semiaberto, como incurso no art. 14, caput, da Lei n. 10.826/2003 (porte ilegal de munição).
+Interposta apelação, pela defesa, o Tribunal a quo negou provimento ao recurso, em julgamento assim resumido (fl. 21/22):
+"PENAL. PROCESSO PENAL. PORTE IRREGULAR DE MUNIÇÃO. CRIME DEPERIGO ABSTRATO. INSIGNIFICÂNCIA. NÃO RECONHECIMENTO. DOSIMETRIA. REDUÇÃO DA PENA-BASE NO MÍNIMO LEGAL. NÃO CABIMENTO. DECISÃOFUNDAMENTADA. RECURSO DESPROVIDO.
+1. A posse irregular ou porte ilegal de munição são crimes de perigo abstrato, bastando, para sua caracterização, o simples ato de possuir ou carregar as munições, mesmo que sem acesso imediato à arma de fogo ou realização de exame de potencialidade lesiva.
+2. Entretanto, o Superior Tribunal de Justiça tem entendido que o simples fato de os cartuchos apreendidos estarem desacompanhados da respectiva arma de fogo não implica, por si só, a atipicidade da conduta, de maneira que as peculiaridades do caso concreto devem ser analisadas a fim de se aferir: a) a mínima ofensividade da conduta do agente; b) a ausência de periculosidade social da ação; c) o reduzido grau de reprovabilidade do comportamento; e d) a inexpressividade da lesão jurídica provocada.
+3. No caso dos autos, não é possível a incidência do princípio da bagatela, porquanto não evidenciado o reduzidíssimo grau de reprovabilidade do comportamento, tendo em vista a reiteração delitiva e o contexto da apreensão das munições.
+4. A pena-base do acusado foi exasperada com base nas circunstâncias judiciais do artigo 59 do Código Penal, sendo que . A valoração das circunstâncias judiciais negativas não obedece a critérios aritméticos, tendo o julgador poder discricionário na mensuração.
+5. Não incorre em ilegalidade o julgamento de apelação em que o tribunal - no exercício de sua jurisdição, obrigado, por imposição constitucional, a indicar as razões de sua convicção (art. 93, IX, da C. R.), e no âmbito da devolutividade plena inerente ao recurso em apreço - melhor explicita as circunstâncias judiciais reconhecidas de modo mais sucinto na sentença impugnada exclusivamente pela defesa, respeitados o limite da pena fixada em primeiro grau e o espectro fático-jurídico sobre o qual se assentou a decisão recorrida, afim de, ao final, manter a pena aplicada em sentença. Precedentes.
+6. Recurso conhecido e não provido."
+No presente writ a Defensoria Pública pugna pelo reconhecimento da atipicidade material da conduta, ante a incidência do princípio da insignificância. Aponta que o porte de apenas três munições, desacompanhadas do respectivo armamento, constitui conduta incapaz de colocar em risco o bem jurídico tutelado.
+Requer, pois, a concessão da ordem, para "ABSOLVER O PACIENTE DO CRIME DO ART. 14 DA LEI 10.826/03, NOS TERMOS DO ART. 386, III DO CPP" (fl. 14).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+A irresignação da defesa foi refutada no voto condutor do acórdão recorrido sob o fundamento de que "o recorrente respondia a outras ações penais, estando uma, inclusive com trânsito em julgado (Ação Penal n. 0000351-10.2020.8.08.0022), o que o torna reincidente" (fl. 24).
+No mesmo sentido, trago à colação os seguintes julgados:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. POSSE DE MUNIÇÃO DE USO RESTRITO. PRISÃO PREVENTIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva, nos termos do art. 312 do CPP, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria e de perigo gerado pelo estado de liberdade do acusado.
+2. In casu, a custódia cautelar está suficientemente fundamentada na necessidade de garantia da ordem pública, como forma de evitar a reiteração delitiva, pois o ora agravante, preso em flagrante portando ilegalmente muniçao de arma de fogo de uso restrito, é multirreincidente, já tendo sido condenado por porte ilegal de arma de fogo de uso restrito, receptação, tráfico de drogas, associação para o tráfico etc. Quando da nova prisão em flagrante, estava em cumprimento de pena em regime semiaberto.
+3. É inviável a aplicação de medidas cautelares diversas da prisão, porquanto a periculosidade do agravante indica que a ordem pública não estaria acautelada com a sua soltura.
+4. É possível a incidência do princípio da insignificância na hipótese da posse de pequena quantidade de munição, desacompanhada de armamento hábil a deflagrá-la, desde que as circunstâncias do flagrante permitam verificar a total ausência de lesividade da conduta, o que não ocorre, por exemplo, quando a apreensão está atrelada à prática de outros delitos, como ocorreu na espécie.
+5. Esta Quinta Turma reconhece que o princípio da insignificância não tem aplicabilidade em casos de reiteração da conduta delitiva.
+6 . Agravo regimental não provido.
+(AgRg no HC n. 810.622/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 29/5/2023, DJe de 2/6/2023.)
+DIREITO PENAL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CRIME DE POSSE ILEGAL DE MUNIÇÃO DE USO PERMITIDO. TIPICIDADE DA CONDUTA. CRIME DE PERIGO ABSTRATO. INEXIBILIDADE DE RESULTADO NATURALÍSTICO. QUANTIDADE APREENDIDA. IRRELEVÂNCIA. CONDENADO POR TRÁFICO DE DROGAS. PRINCÍPIO DA INSIGNIFICÂNCIA. AFASTAMENTO. PECULIARIDADES DO CASO. ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE. EMBARGOS ACOLHIDOS.
+1. A conclusão do aresto impugnado está em sintonia com a orientação jurisprudencial desta Corte quanto à tipicidade da conduta de porte ilegal de munição desacompanhada de arma de fogo. Irrelevância em relação à quantidade de munições apreendidas. Reincidência genérica do acusado que demonstra desprezo reiterado ao ordenamento jurídico.
+Peculiaridades que afastam a aplicação do princípio da insignificância. Precedentes. Súmula n. 83 do Superior Tribunal de Justiça - STJ.
+2. Embargos de divergência acolhidos, para reformar o acórdão embargado e dar provimento ao agravo regimental, para afastar a aplicação do princípio da insignificância e reconhecer a tipicidade do crime de posse ilegal de munição, restabelecendo a r. sentença.
+(EREsp n. 1.853.920/SC, de minha Relatoria, Terceira Seção, DJe de 14/12/2020.)
+Desse modo, inexiste flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
