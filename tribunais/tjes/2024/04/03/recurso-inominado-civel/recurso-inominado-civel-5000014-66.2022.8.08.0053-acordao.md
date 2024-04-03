@@ -1,0 +1,94 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5000014-66.2022.8.08.0053
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: ROSANE IZIDORIO DE ASSIS
+RECORRIDO: SEGURADORA LIDER DO CONSORCIO DO SEGURO DPVAT SA
+RELATOR(A):
+FELIPE LEITAO GOMES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5000014-66.2022.8.08.0053
+
+Recorrente: ROSANE IZIDORIO DE ASSIS
+
+Recorrida: SEGURADORA LÍDER DE CONSÓRCIOS DO SEGURO DPVAT S/A
+
+Relator: DR. FELIPE LEITÃO GOMES
+
+VOTO
+
+DR. FELIPE LEITÃO GOMES - RELATOR
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Defiro à recorrente os benefícios da gratuidade de justiça, nos termos do art. 98 do CPC/15.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO (DPVAT). (1). TESE AUTORAL.
+LIDE QUE PLEITEIA AÇÃO DE COBRANÇA DE COBERTURA SECURITÁRIA ALUSIVA AO DPVAT. A AUTORA ADUZ QUE SOFREU ACIDENTE DE TRÂNSITO E QUE POSSUI SEQUELAS. EXPÕE QUE NA DATA DE 10/09/2021 FOI EXAMINADA PELO SERVIÇO MÉDICO LEGAL PELO QUAL FOI EMITIDO LAUDO QUE CONSTATOU “invalidez parcial incompleta do membro inferior direito de
+intensidade moderada.
+”
+
+RELATA QUE RECEBEU INDENIZAÇÃO DE R$ 2.531,25 (DOIS MIL, QUINHENTOS E TRINTA E UM REAIS E VINTE E CINCO CENTAVOS) E ASSENTA TER DIREITO À VALOR COMPLEMENTAR. CONSTAM NOS AUTOS DOCUMENTOS HOSPITALARES, BOLETIM DE OCORRÊNCIA E LAUDO DO SERVIÇO MÉDICO LEGAL.
+(2). DISPOSITIVO DA SENTENÇA.
+“Ante o exposto, JULGO EXTINTO o presente processo, sem apreciação do mérito, nos termos do artigo 51, inciso II c/c artigo 3º, caput, ambos da Lei 9.099/95.”
+(3). RECURSO DA PARTE AUTORA.
+PRELIMINARMENTE, REQUER SEJA CASSADA/ANULADA A R. SENTENÇA, EIVADA PELA OMISSÃO DO JUÍZO SENTENCIANTE, PARA QUE HAJA MANIFESTAÇÃO ACERCA DO LAUDO DO IML ANEXADO, NÃO HAVENDO QUE SE FALAR EM COMPLEXIDADE DO JULGAMENTO DA CAUSA E NECESSIDADE DE NOVA PERÍCIA. NO MÉRITO, PUGNA A REFORMA DA SUPRA DECISÃO PARA JULGAR PROCEDENTE OS PEDIDOS DA INICIAL.
+(4). CONTRARRAZÕES DA PARTE RÉ.
+ALMEJA, EM SUMA, A MANUTENÇÃO DO ATO SENTENCIAL OBJURGADO.
+(5). DA QUESTÃO PROCESSUAL.
+COM A DEVIDA VÊNIA DO D. COLEGA, ENTENDO PELA ANULAÇÃO DA R. SENTENÇA EXTINTIVA PROFERIDA, VEZ QUE O FEITO ENCONTRA-SE SUFICIENTEMENTE MADURO PARA JULGAMENTO. O JUÍZO É COMPETENTE PARA APRECIAR A DEMANDA, SENDO AS PROVAS PRODUZIDAS NOS AUTOS, MORMENTE O LAUDO PERICIAL, SUFICIENTES PARA A SOLUÇÃO DO CONFLITO.
+ASSIM, PELAS RAZÕES EXPOSTAS, A SITUAÇÃO DOS AUTOS É DE ANULAÇÃO DO R. ATO SENTENCIAL. FEITAS TAIS CONSIDERAÇÕES, EM RAZÃO DA TEORIA DA CAUSA MADURA (ART. 1.013, § 3º DO CPC)
+PASSO AO ENFRENTAMENTO DA MATÉRIA DE FUNDO DEBATIDA NO PRESENTE FEITO.
+(6). DO MÉRITO.
+TRATA-SE DE LIDE DE AÇÃO DE COBERTURA SECURITÁRIA ALUSIVA AO DPVAT, PELA QUAL A AUTORA PLEITEIA VALOR COMPLEMENTAR À INDENIZAÇÃO PERCEBIDA. O CERNE DA QUESTÃO CINGE-SE EM APURAR SE O VALOR PAGO ESTÁ DE ACORDO COM OS PERCENTUAIS DA LESÃO SOFRIDA. PRIMEIRAMENTE, O LAUDO MÉDICO ELABORADO PELO DEPARTAMENTO MÉDICO LEGAL (ID. 7154833), É CLARO AO DESTACAR QUE A LESÃO DA RECORRENTE INDICA INVALIDEZ PARCIAL INCOMPLETA DO MEMBRO INFERIOR DIREITO DE INTENSIDADE MODERADA. NO ENTANTO, A RECORRENTE AFIRMA QUE O VALOR OUTRORA RECEBIDO DA SEGURADORA RECORRIDA ESTÁ EM DESCONFORMIDADE COM OS VALORES DA TABELA ANEXA À LEI 6.194/74. NA SENTENÇA PROFERIDA O JUÍZO
+A QUO
+ENTENDEU PELA EXTINÇÃO DO FEITO SEM RESOLUÇÃO DE MÉRITO, EM RAZÃO DA NECESSIDADE DE PROVA PERICIAL NO CASO EM APREÇO. POIS BEM, IMPERIOSO MENCIONAR O TEXTO DA LEI 6.194/74, MAIS ESPECIFICAMENTE EM SEU ARTIGO 3°, §1°- II, QUE TRAZ:
+“quando se tratar de invalidez permanente parcial incompleta, será efetuado o enquadramento da perda anatômica ou funcional na forma prevista no inciso I deste parágrafo, procedendo-se, em seguida, à redução proporcional da indenização que corresponderá a 75% (setenta e cinco por cento) para as perdas de repercussão intensa,
+50% (cinquenta por cento) para as de média repercussão
+, 25% (vinte e cinco por cento) para as de leve repercussão, adotando-se ainda o percentual de 10% (dez por cento), nos casos de sequelas residuais. (Incluído pela Lei nº 11.945, de 2009).”
+ASSIM, CONSIDERANDO QUE NO LAUDO ESTÁ APONTADO QUE A REPERCUSSÃO DE FUNCIONAMENTO DO MEMBRO INFERIOR DA AUTORA É MÉDIA/MODERADA, O CÁLCULO DEMONSTRA NECESSIDADE DE COMPLEMENTAR A INDENIZAÇÃO: R$ 13.500,00 X 70% (MEMBRO INFERIOR) X 50% (REPERCUSSÃO MÉDIA) = R$ 4.725,00. ATO CONTÍNUO, R$ 4.725,00 - R$ 2.193,75 (VALOR PAGO) = R$ 2.193,75. ISTO POSTO, TENHO QUE A AUTORA LOGROU ÊXITO EM DEMONSTRAR QUE ASSISTE DIREITO AO RECEBIMENTO DE VALOR COMPLEMENTAR DO REFERIDO SEGURO.
+(7).
+RECURSO CONHECIDO E PROVIDO
+.
+
+SENTENÇA ANULADA
+. JULGO PROCEDENTE O PEDIDO, RESOLVENDO O MÉRITO DO PROCESSO, E CONDENO A RÉ A PAGAR À AUTORA O VALOR DE R$ 2.193,75 (DOIS MIL, CENTO E NOVENTA E TRÊS REAIS SETENTA E CINCO CENTAVOS), A SER ACRESCIDO DE CORREÇÃO MONETÁRIA DESDE A DATA DO PAGAMENTO PARCIAL E DE JUROS DE MORA DESDE A DATA DA CITAÇÃO.
+(8).
+
+SEM CUSTAS RECURSAIS E HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS À PARTE RECORRENTE, PORQUANTO SAGROU-SE VENCEDORA EM SEU PLEITO
+.
+
+SALÉZIA TEIXEIRA DOS SANTOS
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+FELIPE LEITÃO GOMES
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
