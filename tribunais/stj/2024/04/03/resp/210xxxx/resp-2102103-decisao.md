@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO TOCANTINS, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Tocantins, assim ementado (fl. 217):
+APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. CRÉDITO NÃO TRIBUTÁRIO. REMUNERAÇÃO PAGA INDEVIDAMENTE A SERVIDOR PÚBLICO. INSCRIÇÃO EM DÍVIDA ATIVA. INDEVIDA. RECURSO CONHECIDO ENÃO PROVIDO.
+1. Os créditos referentes a valores recebidos indevidamente, por serem provenientes de pagamentos indevidos, carecem da liquidez e certeza necessárias para a inscrição em dívida ativa, revelando-se, portanto, inviável a cobrança de tais valores por meio de execução fiscal, pois, é certo que, em se tratando de ressarcimento de eventuais prejuízos sofridos pela Administração Pública, o caso deve submeter-se à via ordinária, tendo em vista a incerteza da dívida demanda prévia análise judicial para, somente após o pronunciamento favorável que reconheça a obrigação de pagar quantia certa, obter-se um título judicial.
+2. Desse modo, inviável a inscrição em dívida ativa de valores supostamente pagos indevidamente e, por consequência, a sua cobrança por meio de execução fiscal, ainda que a Lei n.º 6.830/80 admita também a exigência de dívidas não tributárias.
+3. Uma vez que a Certidão de Dívida Ativa, objeto da presente execução, não preenche os requisitos de certeza e liquidez, essenciais ao título executivo, configura-se, portanto, a sua nulidade, nos termos em que decidido na sentença apelada.
+4. Recurso conhecido e não provido.
+Sustenta o recorrente, em preliminar, ofensa aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC, uma vez que a despeito da oposição de embargos de declaração a Corte de origem deixou de se pronunciar a respeito do art. 43, § 1º, da Lei Estadual n. 1.818/2007, que autoriza a inscrição em dívida ativa das verbas pagadas indevidamente aos servidores.
+No mérito, além de dissídio jurisprudencial, violação ao art. 39, § 2º, da Lei 4.320/1964 c/c os arts. 2º e 3º da Lei n. 6.830/1980 e 803, I, do CPC, ao argumento de que "o STJ decidiu que valores decorrentes de reposição ao erário (determinação de que o servidor público restitua o valor recebido indevidamente a título de verba salarial) podem ser inscritos em dívida ativa" (fl. 233).
+Requer, assim, o provimento do recurso especial.
+Sem contrarrazões (fl. 247).
+Recurso admitido na origem (fls. 254/259).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+De início, considerando-se que contra o acórdão recorrido a parte ora recorrente não opôs embargos declaratórios, a tese de ofensa aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC não guarda pertinência com o caso dos autos, o que atrai o óbice da Súmula 284/STF.
+Quanto ao mérito, extrai-se do acórdão recorrido que a Corte estadual decidiu a controvérsia a partir de fundamentos de natureza constitucional e infraconstitucional. Senão vejamos (fls. 206/207):
+Cinge-se a controvérsia em averiguar se deve ser reformada a sentença que extinguiu a Execução Fiscal, sem exame de mérito.
+Conforme relatado, a origem do crédito objeto da CDA consiste em cobrança de débito oriundo de recebimento indevido de remuneração, o qual possui como referência o mês de junho de 2015.
+Assim, a Fazenda Pública Estadual promoveu execução fiscal em desfavor do apelado sob o fundamento de ser credora de R$121.369,05 (cento e vinte um mil, trezentos e sessenta e nove reais e cinco centavos),representada pela CDA nº J-1280/2019.
+Com efeito, revela-se inadequada a via eleita pela Fazenda Pública para recebimento de seu suposto crédito, porquanto a jurisprudência dos tribunais e do colendo STJ, deixam claro que o ressarcimento ao erário de valores recebidos indevidamente por servidor público, não pode ser admitida pela inscrição em dívida ativa, o que viola o princípio constitucional do devido processo legal (art. 5º, inciso LIV, da CF/88), tornando-se necessário, desta forma, o ajuizamento da ação ordinária por parte da Fazenda Pública, através do processo de conhecimento, assegurado ao devedor o contraditório e a ampla defesa.
+E ainda (fls. 209/210):
+Neste contexto, tem-se que a inscrição do valor cobrado em dívidaativa exsurge como ato administrativo irregular e desprovido de substratojurídico ou fático ou mesmo de origem, uma vez que a exequente não dispunhada certeza da dívida, ou de sua liquidez.
+Isso porque o débito reclamado não tem natureza fiscal e apretensão de ver restituídos valores de vencimentos, que se alega terem sidopagos indevidamente, deve ser exercida por meio de ação própria, que obrigauma fase de conhecimento e dilação probatória.
+Nesta esteira, cumpre destacar que o conceito de dívida ativa não tributária não autoriza a Fazenda Pública a tornar-se credora de todo e qualquer débito, envolvendo apenas os créditos certos e líquidos, conforme disposição dos arts. 2º e 3º da Lei n 6.830/80, e art. 39, § 2º, da Lei n.º4.320/64. Confira-se:
+ ..
+Com efeito, os créditos referentes a valores recebidos indevidamente, por serem provenientes de pagamentos indevidos, carecem da liquidez e certeza necessárias para a inscrição em dívida ativa, revelando-se, portanto, inviável a cobrança de tais valores por meio de execução fiscal, pois, é certo que, em se tratando de ressarcimento de eventuais prejuízos sofridos pela Administração Pública, o caso deve submeter-se à via ordinária, tendo em vista a incerteza da dívida demanda prévia análise judicial para, somente após o pronunciamento favorável que reconheça a obrigação de pagar quantia certa, obter-se um título judicial. Desse modo, inviável a inscrição em dívida ativa de valores supostamente pagos indevidamente e, por consequência, a sua cobrança por meio de execução fiscal, ainda que a Lei n.º 6.830/80 admita também a exigência de dívidas não tributárias.
+ ..
+Sucede que contra o fundamento constitucional não houve a interposição de recurso extraordinário, o que atrai o óbice da Súmula 126/STJ.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+EMENTA
