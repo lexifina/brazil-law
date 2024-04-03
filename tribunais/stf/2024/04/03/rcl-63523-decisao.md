@@ -1,0 +1,67 @@
+RECLAMAÇÃO. EXECUÇÃO. DIRECIONAMENTO A EMPRESA QUE NÃO CONSTOU DA FASE DE CONHECIMENTO. ALEGAÇÃO DE OFENSA À ORDEM DE SUSPENSÃO NACIONAL DE PROCESSOS PROFERIDA NO RE 1.387.795 - TEMA 1.232 DA REPERCUSSÃO GERAL. DESCABIMENTO. AUSÊNCIA DE ESTRITA ADERÊNCIA ENTRE O CASO CONCRETO E O PARADIGMA. DECISÃO DE ORIGEM QUE RECONHECE FRAUDE TRABALHISTA NA SUCESSÃO EMPRESARIAL. RECLAMAÇÃO A QUE SE NEGA SEGUIMENTO.
+
+    DECISÃO: Trata-se de reclamação ajuizada por TBT Indústria de Alimentos Ltda. contra decisão proferida pelo Juízo da 2ª Vara do Trabalho de São Leopoldo, nos autos do Processo nº 0020749- 52.2018.5.04.0331, sob a alegação de inobservância da ordem de suspensão nacional de processos determinada no RE 1.387.795 - Tema 1.232 da sistemática da repercussão geral.
+
+    Narra a parte reclamante que figura como executada nos autos da reclamação trabalhista em referência, sem ter participado da fase de conhecimento, em razão de o juízo reclamado ter reconhecido a ocorrência de sucessão empresarial fraudulenta.
+
+    Aduz que houve ofensa à determinação de suspensão nacional proferida no Recurso Extraordinário 1.387.795, Tema 1.232 da repercussão geral, ao incluir na fase de execução empresa não participante da fase de conhecimento de reclamação trabalhista, apontando que “o pedido formulado pelo autor da ação trabalhista é claro e não deixa margem a interpretação, no que se infere claramente a caracterização de responsabilidade da ora reclamante por suposta formação de grupo econômico com as demais rés daquela demanda”.
+
+    Requer, por estes fundamentos, a concessão de medida liminar, para suspender a decisão reclamada e, no mérito, pugna pela procedência da reclamação para suspender o andamento do Processo nº 0020749- 52.2018.5.04.0331, até o julgamento do Tema 1.232 da repercussão geral.
+
+    Devidamente citada, a parte beneficiária apresentou contestação, alegando, em síntese, que o juízo reclamado reconheceu a ocorrência de fraude na sucessão empresarial com base no acervo probatório acostado aos autos (doc. 27).
+
+    É o relatório. DECIDO.
+
+    Ab initio, pontuo que a reclamação, por expressa determinação constitucional, destina-se a preservar a competência desta Suprema Corte e a garantir a autoridade de suas decisões, ex vi do artigo 102, inciso I, alínea l, além de salvaguardar a estrita observância de preceito constante em enunciado de Súmula Vinculante, nos termos do artigo 103-A, § 3º, ambos da Constituição Federal.
+
+    Nada obstante já encontrasse previsão na legislação anterior, a reclamação adquiriu especial relevo no atual Código de Processo Civil, enquanto meio assecuratório da observância da jurisprudência vinculante dos Tribunais Superiores e no afã da criação de um sistema de precedentes no processo civil brasileiro. Nesse sentido, o Código passou a prever, além das hipóteses diretamente depreendidas do texto constitucional (art. 988, I, II e III), o cabimento da reclamação para a garantia da “observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência” (artigo 988, IV).
+
+    Embora tenha sistematizado a disciplina jurídica da reclamação e ampliado em alguma medida seu âmbito de aplicação, o novo diploma processual não alterou a natureza eminentemente excepcional do instituto. Deveras, a excepcionalidade no manejo da reclamação é depreendida a todo tempo da redação do novo CPC, seja pela vedação de sua utilização como sucedâneo de ação rescisória (art. 988, §5º, I), seja pela exigência de prévio esgotamento das instâncias ordinárias, no caso de reclamação fundada na inobservância de tese fixada em recurso extraordinário com repercussão geral reconhecida (art. 988, §5º, II).
+
+    A propósito, a jurisprudência desta Suprema Corte fixou diversas condições para a utilização da via reclamatória, de sorte a manter a logicidade do sistema recursal previsto no CPC e evitar o desvirtuamento do objetivo precípuo do Código, de racionalização e diminuição da litigiosidade em massa pela criação do microssistema de julgamento de casos repetitivos. Afirma-se, destarte, por exemplo, (i) a inviabilidade da reclamação para o revolvimento de fatos e provas adjacentes aos processos de origem, (ii) a necessidade de existência de estrita aderência entre a decisão reclamada e o conteúdo do paradigma invocado e (iii) a necessidade de demonstração de teratologia na aplicação de tese firmada sob a sistemática da repercussão geral. Neste sentido, os seguintes precedentes da Primeira Turma da Corte:
+
+    “Agravo regimental em reclamação. Alegação de violação do entendimento firmado na ADPF nº 828/DF-MC. Reclamação que objetiva o reexame de decisão fundamentada no conjunto fático-probatório dos autos. Sucedâneo recursal. Impossibilidade. Agravo regimental não provido. 1. Por atribuição constitucional, presta-se a reclamação para preservar a competência do STF e garantir a autoridade de suas decisões (art. 102, inciso I, alínea l, da CF/88), bem como para resguardar a correta aplicação das súmulas vinculantes (art. 103-A, § 3º, da CF/88). 2. A reclamação não pode ser utilizada como sucedâneo de recurso ou de ações judiciais em geral, tampouco para reanálise de fatos e provas. Precedentes. 3. Agravo regimental não provido”. (Rcl 50.238 AgR, Primeira Turma, Rel. Min. Dias Toffoli, DJe24/05/2022, grifei).
+
+    “DIREITO CONSTITUCIONAL E DIREITO TRABALHISTA. AGRAVO INTERNO EM RECLAMAÇÃO. COMPETÊNCIA. CAUSA INSTAURADA ENTRE O PODER PÚBLICO E SERVIDOR. VÍNCULO CELETISTA. LEI FEDERAL Nº 11.350/2006. AGENTE COMUNITÁRIO DE SAÚDE E AGENTE DE COMBATE ÀS ENDEMIAS. ALEGADA AFRONTA À ADI 3.395. AUSÊNCIA DE ESTRITA ADERÊNCIA. 1. Agravo interno em reclamação ajuizado em face de decisão que afirmou a competência da Justiça do Trabalho, sob o fundamento de inexistir lei local inserindo os agentes comunitários de saúde no regime estatutário, na forma do art. 8º da Lei nº 11.350/2006. Alegação de violação à ADI 3.395. 2. A decisão da ADI 3.395 refere-se a causas envolvendo o Poder Público e seus servidores públicos, vinculados por relação estatutária ou de caráter jurídico-administrativo. Desse modo, não há relação de estrita aderência entre o ato reclamado e o paradigma invocado, requisito indispensável à propositura da reclamação. 3. Agravo interno a que se nega provimento”. (Rcl 54.159 AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe15/09/2022, grifei).
+
+    “CONSTITUCIONAL, TRABALHISTA E PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. SUPOSTA AFRONTA AO TEMA 932 DA REPERCUSSÃO GERAL. AUSÊNCIA DE TERATOLOGIA. UTILIZAÇÃO DA RECLAMAÇÃO COMO SUBSTITUTIVO DE RECURSOS DE NATUREZA ORDINÁRIA OU EXTRAORDINÁRIA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO. 1. O Tribunal reclamado decidiu em consonância com as diretrizes fixadas pelo Tema 932, pois assentou que em se tratando de embarcações que operam em alto mar, não pode ser considerada como imprevisível, dado o fato de que faz parte, da prática da navegação, a rotina de manter contato com a Capitania dos Portos, que desempenha a função de manter as embarcações avisadas a respeito dos fenômenos climáticos em curso. Nesse sentido, se a embarcação estava realmente equipada com instrumentos de salvamento, estes deveriam ter sido acionados, não havendo prova nos autos nesse sentido. Logo, caracterizado o risco da atividade a ensejar a responsabilização objetiva da reclamada, a esta incumbe responder pela reparação dos danos havidos. 2. Desse modo, cotejando a decisão reclamada com o paradigma de confronto apontado, e respeitado o âmbito cognitivo deste instrumental, não se constata teratologia no ato judicial que se alega afrontar o precedente deste TRIBUNAL. 3. Dessa forma, a postulação não passa de simples pedido de revisão do entendimento aplicado na origem, o que confirma a inviabilidade desta ação. Esta CORTE já teve a oportunidade de afirmar que a reclamação tem escopo bastante específico, não se prestando ao papel de simples substituto de recursos de natureza ordinária ou extraordinária (Rcl 6.880-AgR, Rel. Min. CELSO DE MELLO, Plenário, DJe de 22/2/2013). 4. Recurso de agravo a que se nega provimento”. (Rcl 54.142 AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe23/08/2022, grifei).
+
+    Fixadas as premissas, verifico que a presente reclamação tem como fundamento a alegação de desobediência à ordem de suspensão proferida nos autos do RE 1.387.795, de relatoria do Eminente Ministro Dias Toffoli. Com efeito o Plenário desta Corte reconheceu a existência de repercussão geral na matéria constitucional objeto do Tema 1.232, que trata da “possibilidade de inclusão no polo passivo da lide, na fase de execução trabalhista, de empresa integrante de grupo econômico que não participou do processo de conhecimento”. Eis o inteiro teor da ementa:
+
+    “RECURSO EXTRAORDINÁRIO. REPRESENTATIVO DA CONTROVÉRSIA. DIREITO PROCESSUAL CIVIL E TRABALHISTA. EXECUÇÃO. INCLUSÃO DE EMPRESA INTEGRANTE DO MESMO GRUPO ECONÔMICO NO POLO PASSIVO. RESPONSABILIDADE SOLIDÁRIA. EMPRESA QUE NÃO PARTICIPOU DA FASE DE CONHECIMENTO. PROCEDIMENTO PREVISTO NO ARTIGO 513, § 5º, DO CÓDIGO DE PROCESSO CIVIL. ALEGADA OFENSA À SÚMULA VINCULANTE 10 E AOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. MULTIPLICIDADE DE RECURSOS EXTRAORDINÁRIOS. PAPEL UNIFORMIZADOR DO SUPREMO TRIBUNAL FEDERAL. RELEVÂNCIA DA QUESTÃO CONSTITUCIONAL. MANIFESTAÇÃO PELA EXISTÊNCIA DE REPERCUSSÃO GERAL.”
+
+    Após o reconhecimento da repercussão geral da matéria, o Ministro Dias Toffoli determinou, em 25/05/2023, “a suspensão nacional do processamento de todas as execuções trabalhistas que versem sobre a questão controvertida no Tema nº 1.232 da Gestão por Temas da Repercussão Geral, até o julgamento definitivo deste recurso extraordinário”.
+
+    Pois bem. O cotejo analítico entre o paradigma e a decisão reclamada revela de plano a carência do requisito da estrita aderência entre a controvérsia de origem e o paradigma invocado. Isto porque o fundamento da responsabilidade no caso dos autos não se fundou na configuração de grupo econômico, mas, antes, na ocorrência de fraude trabalhista na sucessão empresarial ocorrida entre as executadas, conforme se observa das informações prestadas pelo Juízo da 2º Vara do Trabalho de São Leopoldo (doc. 15) e do seguinte excerto da decisão ora reclamada (doc. 8, p. 1 e 2):
+
+    “De início, é importante esclarecer que os institutos do grupo econômico e da sucessão empresarial não se confundem e, ademais, têm consequências diversas para a responsabilização trabalhista.
+
+    Cabe destacar que o STF reconheceu a existência de repercussão geral sobre a ‘possibilidade de inclusão no polo passivo da lide, na fase de execução trabalhista, de empresa integrante de grupo econômico que não participou do processo de conhecimento’ (Tema n° 1.232), determinando a suspensão nacional do processamento de todas as execuções trabalhistas que versem sobre a questão controvertida até o julgamento definitivo da matéria.
+
+    No caso concreto, o exequente, em um primeiro momento, afirma apenas a ocorrência de sucessão empresarial, o que restaria configurado em virtude de licença concedida pela executada para o uso da marca ‘Bressani’, conforme manifestação de ID. dc68b23.
+
+    Em momento posterior, a parte requer, genericamente, "… o reconhecimento do grupo econômico e sucessão empresarial das empresas a serem incluídas na presente execução" (ID. 5252a0e), reportando-se às decisões judiciais e aos documentos juntados aos autos do processo n° 0020780-63.2018.5.04.0304.
+
+    Apesar do nomen iuris dado pelo exequente (grupo econômico), constato, a partir dos documentos apresentados e da manifestação de ID. 5305fdf, que o pedido formulado é baseado em possível sucessão e fraude, caracterizando-se o distinguishing quanto ao Tema n° 1.232 da Repercussão Geral.
+
+    Por fim, concluo que os documentos juntados aos autos corroboram a tese do exequente, reportando-me à análise da prova realizada de forma pormenorizada na decisão juntada em cópia sob o ID. f8f56bd (fls. 927 a 934).
+
+    Diante do acima exposto, incluam-se, no polo passivo da demanda, as seguintes pessoas jurídicas:
+
+    TBT INDUSTRIA DE ALIMENTOS LTDA, CNPJ 37.893.307/0001-79. Endereço: Karl Schmidt, n° 393, Loja 02 - Bairro Canudos, Novo Hamburgo/RS - CEP 93546-570;
+
+    BUFON INDUSTRIA DE ALIMENTOS LTDA, a.amaral@sinos.net, CNPJ 34.986.428/0001-77. Endereço: Karl Schmidt, n° 393, Loja 02 - Bairro Canudos, Novo Hamburgo/RS - CEP 93546-570.”
+
+    Ante a ausência de estrita aderência entre o caso concreto e o paradigma invocado, revela-se incabível a presente reclamação, visto ser este instrumento via de cognição estreita e que não se presta ao papel de sucedâneo recursal.
+
+    Ex positis, NEGO SEGUIMENTO à presente reclamação, nos termos dos artigos 932, inciso VIII, do Código de Processo Civil, combinado com o artigo 161, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, prejudicada a análise do pedido liminar.
+
+    Publique-se.
+
+    Brasília, 3 de abril de 2024.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
