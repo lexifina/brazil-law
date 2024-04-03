@@ -1,0 +1,79 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5011359-82.2023.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: UNIMED VITORIA COOPERATIVA DE TRABALHO MEDICO
+RECORRIDO: SARAH DUTRA STEIN
+RELATOR(A):
+FELIPE LEITAO GOMES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: A unanimidade, nao conhecer o recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+PROCESSO Nº 5011359-82.2023.8.08.0024
+
+RECORRENTE: UNIMED VITORIA COOPERATIVA DE TRABALHO MEDICO
+
+RECORRIDO: SARAH DUTRA STEIN
+
+VOTO
+
+DR. FELIPE LEITÃO GOMES - RELATOR
+
+EMENTA.
+
+RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. RELAÇÃO DE CONSUMO. PLANO DE SAÚDE. RESSARCIMENTO D DESPESAS MÉDICAS. RAZÕES RECURSAIS QUE NÃO SE VOLTAM CONTRA OS FUNDAMENTOS DA SENTENÇA. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE RECURSAL.AÇÃO ORDINÁRIA DE COBRANÇA E INDENIZAÇÃO POR DANOS MORAIS.
+
+(1). TESE AUTORAL.
+TRATA-SE DE AÇÃO NA QUAL É OBJETIVADO O RESSARCIMENTO DE VALORES GATOS COM TRATAMENTO MÉDICO APÓS NEGATIVA DA SEGURADORA EM ARCAR COM O TRATAMENTO PRESCRITO PELO MÉDICO, BEM COMO INDENIZAÇÃO POR DANO MORAL.
+(2) DISPOSITIVO DA SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTES OS PEDIDOS AUTORAIS PARA:
+
+“[...]
+Ante o exposto, ACOLHO os pedidos iniciais, resolvendo o mérito nos termos do art. 487, I, do CPC, e CONDENO a UNIMED VITÓRIA – COOPERATIVA DE TRABALHO MÉDICO S/A a pagar a SARAH DUTRA STEIN o valor de: R$ 10.961,00 (dez mil, novecentos e sessenta e um reais) a título de reembolso pelas despesas médicas, com correção monetária desde o desembolso, em 28/02/2023 (Súmula 43, STJ), e juros de mora, contados a partir da citação (art. 397, parágrafo único c/cart. 405, CC), ambos pelos índices da Corregedoria local. R$ 2.000,00 (dois mil reais) a título de danos morais, com correção monetária, desde o arbitramento (súmula 362, STJ), e juros de mora, a contar da citação (art. 397, parágrafo único c/c art. 405, do CC), ambos pelos índices da Corregedoria local..
+[...]
+”
+.
+(3)
+RECURSO
+UNIMED VITORIA COOPERATIVA DE TRABALHO MEDICO
+.
+
+RAZÕES RECURSAIS. DIFERENÇA ENTRE EXPLANTE DE PRÓTESE MAMÁRIA EM BLOCO OU CAPSULA DO MESMO E CORREÇÃO CIRÚRGICA DE ASSIMETRIA MAMÁRIA. Da LEGALIDADE DOS ATOS PRATICADOS PELA UNIMED VITÓRIA DA LIMITAÇÃO DA OBRIGAÇÃO DAS OPERADORAS DE PLANO DE SAÚDE DO ROL DA ANS. DA AUSÊNCIA DE DIREITO AO REEMBOLSO PRETENDIDO. AD ARGUMENTANDUM: DO VALOR DE TABELA. DA INOCORRÊNCIA DE DANOS MORAIS.
+(4). CONTRARRAZÕES AUTOR.
+EM SUMA, SEJA MANTIDA INALTERADA A SENTENÇA RECORRIDA.
+(5). DA ADMISSIBILIDADE RECURSAL. DIALETICIDADE RECURSAL.
+AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS E FATOS DA R. DECISÃO OBJURGADA. MERA REPETIÇÃO DA CONTESTAÇÃO. A APRESENTAÇÃO DOS FUNDAMENTOS DE FATO E DE DIREITO A SUSTENTAREM O PEDIDO DE REFORMA DO JULGADO MOSTRA-SE COMO UM DOS REQUISITOS PARA ADMISSÃO E CONHECIMENTO DO RECURSO, ISTO EM RAZÃO DO CARÁTER DIALÉTICO DO PROCESSO. À PARTE RECORRENTE CABE ATACAR, PRECISAMENTE, OS FUNDAMENTOS UTILIZADOS NO ATO SENTENCIAL RECORRIDO, E NÃO, COMODAMENTE, UTILIZAR-SE DE FUNDAMENTAÇÃO GENÉRICA, A FIM DE REFORMAR A R. DECISÃO. UMA LEITURA INTEGRAL DAS RAZÕES RECURSAIS OBSERVA-SE QUE ESTA EM NENHUM MOMENTO ATACOU, DE FORMA DETALHADA, OS ARGUMENTOS DE FATO QUE LEVARAM À CONCLUSÃO DA MAGISTRADA, LIMITA-SE A PARTE RECORRENTE A REALIZAR ARGUMENTAÇÕES GENÉRICAS, EM REPETIÇÃO LITERAL AO QUE JÁ CONSTAVA EM SUA CONTESTAÇÃO. A MERA INTERPOSIÇÃO DE RECURSO GENÉRICO, QUE NÃO ESPECIFIQUE QUAIS PONTOS DA SENTENÇA PRETENDE VER AFASTADOS OU CORRIGIDOS, NÃO ATENDE AO PRINCÍPIO DA DIALETICIDADE, CONFIGURANDO-SE INEPTA A PETIÇÃO DE RECURSO QUE DEIXA DE IMPUGNAR DE MANEIRA DIRETA E ESPECÍFICA OS FUNDAMENTOS DA SENTENÇA, EM VIOLAÇÃO AOS ARTS. 932, INCISO III E 1.010 DO CPC.
+(6). RECURSO NÃO CONHECIDO.
+SENTENÇA DE PISO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46 DA LEI Nº 9.099/95. (7). CONDENO A PARTE RECORRENTE AO PAGAMENTO DE CUSTAS E HONORÁRIOS ADVOCATÍCIOS NO IMPORTE DE 10% SOBRE O VALOR DA CONDENAÇÃO, NA FORMA DO ARTIGO 55 DA LEI 9.099/95.
+
+LEONARDO FEITAL DELGADO
+
+JUIZ LEIGO
+
+O Sr. Juiz de Direito Relator Dr.
+FELIPE LEITÃO GOMES
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pelo Ilmo. Juiz Leigo e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
