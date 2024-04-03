@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por ANTONIA DELFINA NATH em face de decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que negou admissibilidade a recurso contra acórdão assim ementado:
+Embargos de declaração. Re julgamento dos aclaratórios. Revisão do julgado. Determinação do STJ de retorno dos autos para sanar a omissão apontada pela recorrente. O advogado é titular do direito sobre a verba de sucumbência, conforme o art. 23 da Lei nº 8.906/94 e o art. 85, § 14, do Código de Processo Civil. Embargos parcialmente acolhidos, sem modificação de resultado.
+Embargos de declaração rejeitados:
+Embargos de declaração. Inexistência de omissão, contradição, obscuridade ou erro material. Embargos de declaração com nítido caráter infringente. Acórdão mantido. Embargos rejeitados.
+No especial, argumenta-se que "inconteste a violação e negativa de vigência flagrante do art. 23 do EOAB (Lei Federal 8.906/1994)", pois
+a presença desses 2 (dois) Autores (coexequentes) causou, data maxima venia, evidente confusão por parte do MM. Juízo a quo, que foi induzido a erro após incessantes manifestações do MUNICÍPIO Recorrido aduzindo, sem qualquer fundamento, que a advogada agravante faria jus apenas e tão somente -- notem-se a ilegalidade!! -- aos honorários provenientes desses 02 (dois) Autores.
+Alega-se, ainda, que "não haveria revisão a posição da Turma Julgadora no presente caso, mas sim  ..  aplicação do próprio direito consubstanciado em matéria estritamente federal".
+Após juízo negativo de admissibilidade sobreveio o presente agravo.
+É o relatório. Decido.
+A pretensão recursal não merece guarida.
+O conhecimento do tema esbarra no óbice da Súmula nº 7/STJ - "a pretensão de simples reexame de prova não enseja recurso especial" -, uma vez que não se trata aqui de discussão sobre o resultado jurídico da aplicação de normas federais (quaestio iuris), senão da revisão das premissas subjacentes (quaestio facti).
+Cediço é que "o chamado erro na valoração ou valorização das provas somente pode ser o erro de direito quanto ao valor da prova abstratamente considerado." Se "o julgado local, apreciando o poder de convicção  da prova , conclua (bem ou mal) sobre estar provado, ou não, um fato, aí não se tem ofensa ao direito federal: pode ocorrer ofensa (se mal jugada a causa) ao direito da parte" (cf. RE 84699, Rel. p/ Acórdão RODRIGUES ALCKMIN, Primeira Turma, DJ 03/06/1977, pp 3645).
+O pedido de revaloração, em caso tal, deve conter, necessariamente, a demonstração de duas coisas: (a) o quadro fático, tal como delineado no decisum objurgado (ou seja, a apresentação da quaestio facti tal como interpretada, bem ou mal, pela Corte a quo); (b) o resultado jurídico resultante de má aplicação do direito federal (a apresentação da quaestio iuris). O pedido genérico de valoração das provas (ou de simples afastamento da Súmula nº 7/STJ - "a pretensão de simples reexame de prova não enseja recurso especial") constitui defeito grave de fundamentação recursal, que leva ao não conhecimento da matéria arguida.
+Esta Corte Superior não pode ser transformada em terceira instância recursal, para que se faça a melhor Justiça do caso, tanto em razão do que expressamente prevê a Constituição Federal como competência deste Superior Tribunal de Justiça (cf. AgInt nos EAREsp 702.591/DF, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, DJe 04/11/2016), como em razão de que, em assim agindo, pouca seria a contribuição para a efetiva Justiça, máxime no tocante à duração razoável do processo (cf. ASSIS, Araken de. Manual dos recursos  livro eletrônico . 10. ed. São Paulo: Revista dos Tribunais, 2021).
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. REVISÃO DAS PREMISSAS DA CAUSA. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. AGRAVO EM RECURSO ESPECIAL NÃO PROVIDO.
