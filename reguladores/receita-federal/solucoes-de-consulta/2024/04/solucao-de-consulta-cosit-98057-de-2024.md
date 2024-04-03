@@ -1,0 +1,5 @@
+Solução de Consulta Cosit nº 98057, de 25 de março de 2024
+Assunto: Classificação de Mercadorias
+Código NCM 9018.90.69
+Mercadoria: Equipamento para monitoração de pressão arterial e batimentos cardíacos, alimentado a pilha, com função de detecção de fibrilação atrial, destinado a ser utilizado pelo paciente, de forma ininterrupta, composto de uma braçadeira (inflada durante as medições de pressão arterial, realizadas a intervalos regulares ou quando o paciente assim o deseje) e de um monitor conectado à braçadeira que processa os dados recebidos e mostra os resultados de cada medição num visor de LCD. O equipamento tem conectividade a computador via cabo USB, que é utilizado para sua configuração e emissão do relatório.
+Dispositivos Legais: RGI 1 (Nota 3 do Capítulo 90 e Nota 3 da Seção XVI), RGI 6 e RGC 1 da NCM constante da TEC, aprovada pela Res. Gecex nº 272, de 2021, e da Tipi, aprovada pelo Dec. nº 11.158, de 2022; com subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 2.169, de 2023.
