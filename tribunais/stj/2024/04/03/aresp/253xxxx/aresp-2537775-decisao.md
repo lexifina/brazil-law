@@ -1,0 +1,19 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por QUALICORP ADMINISTRADORA DE BENEFICIOS S.A., SUL AMERICA SERVICOS DE SAUDE S/A, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: de obrigação de fazer, ajuizada por CRISTIANE BOMFILHO MANZIONE, em face da agravante e de QUALICORP ADMINISTRADORA DE BENEFICIOS S.A., em razão de negativa de custeio de internação em caráter de urgência por força da doença a qual está acometida (câncer de ovário), afirmando que o nosocômio não consta da rede credenciada do novo plano contratado.
+Acórdão: negou provimento às apelações interpostas por SUL AMERICA e QUALICORP, nos termos da seguinte ementa:
+OBRIGAÇÃO DE FAZER Plano de assistência à saúde Autora que se submeteu a internação de urgência por conta de enfermidade oncológica (câncer de ovário) Operadora que negou a internação no Hospital em que estava a paciente, ao argumento que houve redução da classe do plano da titular, não se inserindo o estabelecimento dentro da respectiva rede credenciada Ação julgada procedente Insurgência das requeridas Preliminar de perda do objeto da ação em razão do falecimento da autora Rejeição Objeto da ação que diz respeito à cobertura de internação da titular do plano, o que não se esvazia com seu óbito, tendo seu espólio assumido o polo ativo Preliminar de ilegitimidade passiva da administradora/correquerida Rejeição Condição que a insere dentro da relação de consumo em análise Mérito Alegação que a própria parte postulou por um downgrade que reduziu sua rede credenciada Descabimento Desconto que, alegadamente, foi de apenas R$ 50,00, fato não impugnado pelas requeridas, não se tratando de valor que pareça ser a diferença entre uma classe de plano e outra, mas apenas, como argumentado pela autora, um desconto postulado pela titular Ausência de prova de que a operadora informou que eventual mudança no valor acarretaria alteração da rede credenciada Alegação que a negativa se deu em período inferior à internação Questão que deverá ser objeto de liquidação Sentença mantida RECURSOS DESPROVIDOS.
+Decisão de admissibilidade do TJ/SP: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i) não foi demonstrada a violação dos dispositivos arrolados (art. 421 do CC);
+ii) incidência da Súmula 7 do STJ.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que "o recurso especial interposto pela agravante demonstrou de forma clara a violação aos artigos arrolados e, ainda, a divergência jurisprudencial acerca do tema" (e-STJ, fls. 435). Traz, ainda, cópia das razões do apelo especial.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices:
+i) não foi demonstrada a violação dos dispositivos arrolados (art. 421 do CC);
+ii) incidência da Súmula 7 do STJ.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite máximo previsto no art. 85, § 2º, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
