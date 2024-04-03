@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de KARINA KEILA (nome social) contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que deu provimento ao agravo em execução para anular a decisão de primeira instância, que concedeu a progressão ao regime semiaberto, e determinou que a paciente seja submetida a exame criminológico para, posteriormente, reapreciar o pedido de progressão.
+A impetrante argumenta que a paciente está sofrendo constrangimento ilegal em sua liberdade, uma vez que cumpre todos os requisitos, objetivos e subjetivos, para a concessão da progressão de regime e o acórdão obstou tal progressão com a exigência de um requisito não disposto em lei, que é a realização do exame criminológico. Requer, liminar e definitivamente, a concessão da progressão de regime independentemente de exame criminológico (e-STJ fls. 3-30).
+É o relatório.
+Decido.
+O presente habeas corpus foi impetrado contra acórdão que julgou agravo em execução, razão pela qual é substitutivo de recurso especial e, enquanto tal, não deve ser conhecido, de acordo com a jurisprudência desta Corte.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO E HOMICÍDIO QUALIFICADO TENTADO EM CONTEXTO DE ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. ALEGAÇÃO DE EXCESSO DE PRAZO. INOCORRÊNCIA. PRISÃO REAVALIADA. FUNDAMENTAÇÃO. PERICULOSIDADE DO AGENTE. GRAVIDADE CONCRETA. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+ ..
+8. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 869.549/CE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/3/2024, DJe de 7/3/2024 - grifos acrescidos).
+No exame de ofício, por outro lado, vislumbro flagrante ilegalidade capaz de justificar a concessão da ordem.
+A exigência do exame criminológico já não encontra base legal, de modo que o requisito subjetivo para fins de progressão de regime é preenchido tão somente pelo atestado de bom comportamento carcerário.
+Esta Corte firmou entendimento, fixado no enunciado sumular n. 439, de que "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada". Ademais, esta Corte também já destacou que a gravidade do crime e a longa pena a cumprir não são argumentos idôneos para fundamentar a exigência do exame criminológico.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME PRISIONAL. EXIGÊNCIA DE EXAME CRIMINOLÓGICO PRÉVIO PARA AVALIAÇÃO DO REQUISITO SUBJETIVO. FUNDAMENTAÇÃO INIDÔNEA. GRAVIDADE ABSTRATA DO DELITO E LONGA PENA A CUMPRIR. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO DESPROVIDO.
+1. De acordo com a Súmula 439/STJ, "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+2. No caso dos autos, a Corte de origem determinou a submissão do reeducando ao exame criminológico sem a indicação de fundamento idôneo, na medida em que se limitou a tecer considerações a respeito da gravidade dos delitos praticados e da longa pena a cumprir, o que consubstancia o alegado constrangimento ilegal, especialmente ao se considerar o atestado de bom comportamento carcerário do reeducando.
+3. Mantida a decisão que concedeu a ordem, de ofício, para restabelecer a decisão de primeiro grau, que havia deferido a progressão do paciente ao regime aberto, na modalidade prisão domiciliar especial.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 860.682/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/12/2023, DJe de 18/12/2023 - grifos acrescidos)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. EXAME CRIMINOLÓGICO. DEMONSTRAÇÃO DE ELEMENTOS CONCRETOS QUE JUSTIFICASSEM A ELABORAÇÃO DA PROVA TÉCNICA. SÚMULA N. 439/STJ E SÚMULA VINCULANTE N. 26. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A despeito de o exame criminológico não ser requisito obrigatório para a progressão do regime prisional, os Tribunais Superiores admitem a sua realização para a aferição do mérito do apenado em hipóteses excepcionais. Súmula n. 439/STJ e Súmula Vinculante n. 26.
+2. Na hipótese, as instâncias de origem lograram fundamentar a negativa da progressão de regime, uma vez que não levaram em conta somente a gravidade em abstrato do delito praticado e a longa pena a cumprir, mas também o fato de o agravante ter voltado a "delinquir durante o livramento condicional".
+3. Agravo regimental desprovido.
+(AgRg no HC n. 876.234/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024 - grifos acrescidos).
+No caso, após o Magistrado de primeira instância conceder a progressão de regime à paciente, sob o argumento de que "considerando a prova dos autos e a situação prisional do sentenciado, ausentes elementos concretos desfavoráveis ao sentenciado" (e-STJ fl. 62), o acórdão entendeu pela necessidade do exame criminológico valendo-se do argumento de que a paciente praticou diversos crimes de furto e estelionato e que, em algumas oportunidades em que teve liberdade provisória, acabou praticando crimes patrimoniais posteriormente (e-STJ fls. 101-103).
+Assim argumentou o Tribunal de origem:
+ .. . Ao que consta dos autos, a Agravada iniciou sua vida criminosa no dia 17.04.2006, por ter praticado crime de furto qualificado, sendo condenada à pena de 02 anos de reclusão, substituída por pena restritiva de direitos (Processo Crime nº 0044790-12.2006.8.26.0050 24" Vara da Comarca de São Paulo fls. 16).
+Aos 14.08.2007 foi presa em flagrante delito pela prática de crime de estelionato, todavia, foi absolvida (Processo Crime nº 0062253-30. 2007.8.26.0050 5" Vara da Comarca de São Paulo fls. 13).
+No dia 11.02.2009 foi beneficiada com "liberdade plena".
+Houve prisão em flagrante delito em 11.05.2013, pela prática de crime de furto qualificado, o que lhe gerou a condenação à pena de 03 anos, 09 meses e 18 dias de reclusão, substituída por prestação de serviços à comunidade (Processo Crime nº 0042245-22.2013.8.26.0050 31 Vara da Comarca de São Paulo fls. 16).
+Aos 28.05.2013 foi beneficiada com liberdade provisória.
+Em 31.01.2014 ocorreu nova prisão em flagrante delito, pela prática de crime de furto qualificado, sendo condenada à pena de 02 anos e 01 mês de reclusão (Processo Crime nº 0010068-68.2014.8.26. 0050 14" Vara da Comarca de São Paulo fls. 14).
+No dia 10.02.2014 houve concessão de liberdade provisória e, aos 18.03.2015 foi presa preventivamente.
+Praticou o crime de furto qualificado em 15.02.2018, que lhe gerou condenação à pena de 02 anos e 04 meses de reclusão (Processo Crime nº 1501160-50.2019.8.26.0024 1" Vara da Comarca de Andradina fls. 15).
+Aos 21.03.2018 praticou estelionato, sendo o crime de condenada à pena de 02 anos e 04 meses de reclusão (Processo Crime nº 1501159-65.2019.8.26.0024 i a Vara da Comarca de Andradina fls. 14).
+Houve condenação à pena de 02 anos de reclusão, por ter praticado o crime de furto qualificado em 26.03.2018 (Processo Crime nº 0003703-37.2018.8.26.0024 1" Vara da Comarca de Andradina fls. 15).
+Ainda, também no o crime de dia 26.03.2018 praticou estelionato, sendo condenada à pena de 01 ano e 02 meses de reclusão, substituída por pena restritiva de direitos (Processo Crime nº 1501797-98.2019.8. 26.0024 i a Vara da Comarca de Andradina fls. 15).
+Em 27.03.2018 foi condenada à pena de 02 anos e 04 meses de reclusão, pela prática do crime de estelionato (Processo Crime nº 0007145-11.2028.8.26.0024 1" Vara da Comarca de Andradina fls. 14).
+Por fim, aos 03.02.2019, praticou crime de furto, que lhe gerou condenação à pena de 02 anos e 04 meses de reclusão (Processo Crime nº 1501535-51.2019.8.26.0024 2 Vara da Comarca de Andradina fls. 14).
+Creio, seja o suficiente.
+São situações tais que, como excepcionalíssimas, exigem seja a condenada submetida a exame criminológico para aferição de seu índice de recuperação, de aptidão a regime mais brando, de condições de retorno ao convívio social  ..
+Ocorre que mencionada argumentação não é idônea para fundamentar a exigência de exame criminológico. Apontou-se tão somente fatos pretéritos pelos quais a paciente foi condenada e cumpre pena. Não houve qualquer fundamentação a respeito da necessidade concreta de realização de exame criminológico.
+Não se apontou qualquer indicativo fático de que a paciente, após o último fato em 2019, não tenha se recuperado e se adaptado a regime mais brando. Ao contrário, a única notícia que se tem nos autos é do bom comportamento carcerário. Portanto, trata-se de exigência baseada tão somente na quantidade de crimes praticados, o que se assemelha ao inidôneo argumento da longevidade da pena.
+Ressalte-se, por fim, que o Magistrado de primeira instância corretamente afirmou: ".. o sentenciado já cumpriu período substancial de sua pena, cujo TCP se acha previsto para 02.06.2038. Assim, entendo que, concedendo-lhe a progressão ao regime semiaberto, ainda sob a vigilância do sistema penitenciário, terá nova oportunidade de demonstrar se, de fato, encontra-se em processo de ressocialização" (e-STJ fl. 60). Ou seja, muito mais válido do que presumir que a paciente não tem condições com base em fatos ocorridos há anos e exigir exame que não está disposto em lei, é conceder a progressão de regime para verificar aquilo que quer o acórdão: "índice de recuperação, aptidão a regime mais brando, condições de retorno ao convívio social".
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem de ofício para, nos termos da decisão de primeira instância, determinar a progressão de regime da paciente ao semiaberto sem prévia realização de exame criminológico.
+Publique-se. Intime-se.
+EMENTA
