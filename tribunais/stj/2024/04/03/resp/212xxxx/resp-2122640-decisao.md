@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO em que se decidiu que "o período em que o segurado está em aviso prévio indenizado integra o tempo de contribuição, exceto como tempo de atividade especial".
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, a autarquia sustenta, em síntese, que o determinar o cômputo do aviso prévio indenizado como tempo de contribuição com fundamento no art. 487, §1º, da CLT, o acórdão recorrido violou o disposto no art. 28, §9º, alínea e, da Lei 8.212/91 e no art. 55 da Lei 8.213/91, merecendo, portanto, ser reformado.
+Sem contrarrazões ao recurso especial foi admitido
+É o relatório. Decido.
+A Primeira Seção acolheu a proposta de afetação dos REsps n. 2.068.311/RS, 2.069.623/SC e 2.070.015/RS ao rito dos recursos repetitivos, a fim de uniformizar o entendimento a respeito da seguinte controvérsia: "decidir sobre a possibilidade de cômputo do aviso prévio indenizado como tempo de serviço para fins previdenciários".
+Registre-se, que há determinação de suspensão dos recursos especiais ou agravos em recursos especiais em segunda instância e/ou no STJ fundada em idêntica questão de direito (observada a orientação do art. 256-L do RISTJ).
+A admissão de recurso especial como representativo da controvérsia impõe que os recursos interpostos (na Corte de origem), que tratem da mesma questão central, fiquem suspensos até o pronunciamento definitivo deste Tribunal. Posteriormente, tais recursos devem ser apreciados na forma prevista no art. 1.040 do CPC/2015.
+Ante o exposto, com fulcro no art. 1.021, § 2º, do CPC/2015 c/c o art. 259 do RISTJ, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após publicado o acórdão relativo ao recurso representativo da controvérsia (Tema 1238 /STJ), o recurso especial: 1) tenha seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça; ou 2) seja novamente examinado pelo Tribunal de origem, na hipótese de o acórdão recorrido divergir da orientação do Superior Tribunal de Justiça.
+Publique-se. Intimem-se
+EMENTA
+PREVIDENCIÁRIO. AVISO PRÉVIO INDENIZADO. CÔMPUTO COMO TEMPO DE SERVIÇO. MATÉRIA SUBMETIDA AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA 1238. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
