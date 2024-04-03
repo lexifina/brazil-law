@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial interposto por PAULO RAMOS DE OLIVEIRA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, nos termos da seguinte ementa:
+Avaliação de bem - O cerne da controvérsia gira em torno da alegada ausência de conhecimentos técnicos do Oficial de Justiça para avaliação do imóvel penhorado, aduzindo a agravante que o valor estimado é bastante inferior ao de imóveis adjacentes e com metragem similar - Contudo, nenhuma das hipóteses acima aludidas restou demonstrada pela executada, que, mediante singela manifestação fundada na disparidade entre os valores estimados pelo Oficial de Justiça, pretende desqualificar a avaliação realizada pelo auxiliar da Justiça - Nesse quadro, os documentos acostados aos autos não autorizam nova avaliação, pois, como bem anotado pelo Juízo, não trouxe a executada prova mínima, como a juntada de avaliações extrajudiciais atuais, que pudessem legitimar o acolhimento da pretensão - Recurso improvido.
+Os embargos declaratórios opostos foram rejeitados.
+Nas razões do recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 870, parágrafo único, 872 e 873 do CPC/2015, insurgindo-se contra a manutenção da avaliação do bem penhorado pelo oficial de justiça. Assevera (e-STJ, fls. 227/228):
+No entanto, a violação aos arts. 870, p. único, 872 e 873, inciso II, todos do CPC está presente, pois o v. acórdão desconsiderou que a avaliação realizada pelo Oficial de Justiça apenas indicou o valor estimado do imóvel objeto da matrícula 25.910, não trazendo qualquer especificação quanto às características e estado do imóvel, tampouco apresentou os critérios técnicos e métodos comparativos utilizados para justificar a quantia.
+Embora conste da avaliação que a baliza para se chegar ao valor estimado de 50% do imóvel em R$ 3 12.980,23 (trezentos e doze mil, novecentos e oitenta reais e vinte e três centavos) tenha sido o ITBI e o espelho do IPTU de 2019, o Recorrente juntou aos autos três laudos particulares, elaborados por profissionais devidamente habilitados, que avaliaram os 50% em mais de R$ 450.000,00 (quatrocentos e cinquenta mil reais).
+Logo, não obstante o v. acórdão entenda que "(..) não há elementos para desqualificar a avaliação do oficial de justiça ou que possam indicar a necessidade de conhecimentos específicos, tampouco percebem-se indícios de irregularidades no seu laudo" (fls. 10 do incidente nº 2133974-70.2021.8.26.0000/50001), tem-se que a diferença existente entre os valores permite concluir pela ocorrência de eventual diminuição do valor do imóvel por parte do Oficial de Justiça, o que, por si só, demandaria a realização de nova avaliação, nos termos do art. 873, I do CPC3.
+Não bastasse isso, é importante ressaltar que, embora entenda o v. acórdão recorrido que "(..) também é necessário salientar que a avaliação feita pelo oficial de Justiça goza de fé-pública e a sua desconstituição exige a comprovação de erro ou dolo do servidor o que não se deu in casu", a fé pública de que goza as declarações dos oficiais de justiça prevalecem até que se produza prova em sentido contrário.
+Ademais, a presunção de legitimidade e veracidade dizem respeito, no caso concreto, à autoridade para a elaboração do documento, e não quanto ao seu mérito, ao seu conteúdo material.
+Nesse sentido, inclusive, a simples impugnação do seu conteúdo quando da manifestação do ora Recorrente, em especial quanto aos aspectos finalísticos do ato exarado - leia-se a "avalição do bem"-, tem-se que a referida presunção deixa de existir. A presunção existe até que ela seja discutida, como no caso o foi ao ser tratado a irrisoriedade da avaliação.
+Ademais, repisa-se, houve a juntada de avaliações em valores superiores ao que foi apurado pelo oficial, situação esta que possui o condão de, minimamente, contraditar a avaliação do meirinho e, por consequência, permitir a realização de nova avaliação por perito de confiança do Juízo. Ou seja, a presunção de veracidade e legitimidade deixa de prevalecer, já que houve a indicação de uma dúvida séria quanto à sua validade.
+Foram apresentadas contrarrazões às fls. 239/243 (e-STJ).
+O Tribunal de origem inadmitiu o recurso especial por óbice da Súmula n. 7/STJ.
+O agravo em recurso especial impugnou todos os fundamentos da decisão de inadmissibilidade.
+O Ministério Público Federal, no parecer de fls. 280/283 (e-STJ), opina pelo não conhecimento do agravo em recurso especial.
+É o relatório.
+Passo a decidir.
+O caso dos autos versa sobre ação civil pública por ato de improbidade administrativa em fase de cumprimento de sentença, na qual foi determinada a penhora de bem imóvel com avaliação pelo oficial de justiça.
+Ao reconhecer a regularidade da avaliação realizada pelo meirinho, o Tribunal de origem assim se manifestou (e-STJ, fls. 196/197):
+O cerne da controvérsia gira em torno da alegada ausência de conhecimentos técnicos do Oficial de Justiça para avaliação do imóvel penhorado, aduzindo a agravante que o valor estimado é bastante inferior ao de imóveis adjacentes e com metragem similar.
+Nos termos art. 873 do Código de Processo Civil, é admitida nova avaliação quando:
+"I - qualquer das partes arguir, fundamentadamente, a ocorrência de erro na avaliação ou dolo do avaliador;
+II - se verificar, posteriormente à avaliação, que houve majoração ou diminuição no valor do bem;
+III - o juiz tiver fundada dúvida sobre o valor atribuído ao bem na primeira avaliação."
+Contudo, nenhuma das hipóteses acima aludidas restou demonstrada pela executada, que, mediante singela manifestação fundada na disparidade entre os valores estimados pelo Oficial de Justiça, pretende desqualificara avaliação realizada pelo auxiliar da Justiça.
+(..)
+Nesse quadro, os documentos acostados aos autos não autorizam nova avaliação, pois, como bem anotado pelo Juízo, não trouxe a executada prova mínima, como a juntada de avaliações extrajudiciais atuais, que pudessem legitimar o acolhimento da pretensão.
+Nesse contexto, a modificação das conclusões do acórdão recorrido demandaria o revolvimento do acervo fático-probatório dos autos, consubstanciado na verificação, no caso concreto, de documentos e provas relacionadas à possibilidade de realização de nova avaliação . Nesse contexto, inadmissível o recurso especial por óbice da Súmula n. 7/STJ.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. AVALIAÇÃO DE BEM PENHORADO POR OFICIAL DE JUSTIÇA. PRETENSÃO DE AFASTAMENTO. REEXAME DE MATÉRIA DE FATO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
