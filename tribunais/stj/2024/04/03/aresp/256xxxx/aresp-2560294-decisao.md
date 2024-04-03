@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial fundado na alínea "a" do permissivo constitu cional interposto contra acórdão do Tribunal de Justiça do Estado da Bahia, assim ementado:
+APELAÇÃO CÍVEL. DIREITO CONSTITUCIONAL E ADMINISTRATIVO. POLICIAL MILITAR. CURSO DE FORMAÇÃO DE OFICIAIS AUXILIARES DA POLÍCIA MILITAR. PRETERIÇÃO RECONHECIDA EM PROCESSO JUDICIAL TRANSITADO EM JULGADO. DIREITO À PROMOÇÃO PELO CRITÉRIO DE RESSARCIMENTO DE PRETERIÇÃO. EFICÁCIA RETROATIVA À DATA NA QUAL PODERIA TER SIDO PROMOVIDO. INTELIGÊNCIA DO ART. 126, § 5º DA LEI ESTADUAL Nº 7.990/2001. RECURSO IMPROVIDO. SENTENÇA MANTIDA.
+1. A questão trazida a acertamento revela-se de singelo desate, cingindo-se pois à definição do marco temporal a partir do qual devem retroagir os efeitos financeiros da promoção do Recorrido em ressarcimento de preterição.
+2. Nestes termos, malgrado alegue o ente estatal que devem os efeitos retroagirem à data de trânsito em julgado da ação de mandado de segurança no bojo da qual reconheceu-se a ilegalidade da preterição referenciada, tal não merece prosperar.
+3. Com efeito, nos termos do art. 126, V, § 5º, b, da Lei Estadual nº 7.990/01, quando um policial militar é preterido em sua promoção, e, posteriormente, reconhece-se a ilegalidade do referido ato, pela conclusão do processo administrativo ou judicial, possui o mesmo o direito subjetivo de obtê-la pelo critério de ressarcimento de preterição, com todos os direitos garantidos desde a data na qual poderia ter sido promovido, e não do trânsito em julgado do feito, judicial ou administrativo.
+4. O princípio da legalidade estabelece à Administração Pública a sujeição não apenas às leis compreendidas pelo Poder Legislativo, mas a todos os preceitos fundamentais que norteiam o ordenamento jurídico, representando, assim, uma garantia para os administrados, pois, qualquer ato do ente público somente terá validade se respaldado em lei, em sua acepção ampla.
+5. Nesse contexto, não carece de reparos a sentença que, aplicando o disposto no art. 126, V, § 5º, b, da Lei Estadual nº 7.990/01, determinou a efetivação da promoção em ressarcimento por preterição segundo os critérios de antiguidade e merecimento, como se o policial houvesse sido promovido na época devida. 6. Recurso conhecido e improvido. Sentença mantida.
+Os embargos de declaração foram rejeitados.
+No recurso especial, a parte recorrente aponta violação dos arts. 140 e 1.022, II, ambos do CPC, aduzindo, em síntese, que ".. se caracterizadas as circunstâncias acima delineadas e, opostos os embargos declaratórios, ocorrer a rejeição, infere-se a renitência do Judiciário de não apreciar a matéria de lei federal argüida, caracterizando negativa de prestação jurisdicional por violação às matérias disciplinadas pelos arts. 140 e 1.022, inciso II, todos do Código de Processo Civil, ensejando argüição desta preliminar de nulidade.." (fl. 298 e-STJ)
+Sobreveio juízo negativo de admissibilidade fundada na inexistência de ofensa ao art. 1.022 do CPC.
+Insurge a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial reúne condições de ser processado.
+É o relatório. Passo a decidir.
+Conheço do agravo, porquanto refutada a motivação utilizada no juízo de admissibilidade.
+A insurgência não prospera.
+A alegada ofensa ao art 1.022 do CPC não merece prosperar, eis que o Tribunal de origem já havia se manifestado de forma clara e fundamentada sobre alegação a insurgência da recorrente.
+Ademais, a bem da verdade, cabe ao magistrado decidir a questão de acordo com o seu livre convencimento, não estando obrigado a rebater, um a um, os argumentos apresentados pela parte quando já encontrou fundamento suficiente para decidir a controvérsia (EDcl no AgRg no AREsp 195.246/BA, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 04/02/2014).
+O Tribunal de origem, ao analisar a controvérsia, assentou que:
+Com efeito, nos termos do art. 126, V, § 5º, b, da Lei Estadual nº 7.990/01 , quando um policial militar é preterido em sua promoção, e, posteriormente, reconhece-se a ilegalidade do referido ato, pela conclusão do processo administrativo ou judicial, possui o mesmo o direito subjetivo de obtê-la pelo critério de ressarcimento de preterição, com todos os direitos garantidos desde a data na qual poderia ter sido promovido, e não do trânsito em julgado do feito, judicial ou administrativo.
+Verifica-se que a controvérsia dos autos foi dirimida à luz de interpretação de lei local (Lei Estadual n. 7.990/01), a pretensão é incabível na presente via recursal, ante a incidência da Súmula 280/STF.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PRETENSÃO DE EFEITOS INFRINGENTES. ACLARATÓRIOS RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. ACÓRDÃO EMBASADO EM NORMA DE DIREITO LOCAL. ART. 86 DA LEI ESTADUAL N. 7.990/01. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 280/STF. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF.
+I - Não cabe ao Superior Tribunal de Justiça, no Recurso Especial, rever acórdão que demanda interpretação de direito local, à luz do óbice contido na Súmula n. 280 do Supremo Tribunal Federal.
+II - A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem.
+Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+III - Embargos de declaração recebidos como agravo legal, tendo em vista o princípio da fungibilidade, o teor da impugnação, bem assim a observância do prazo previsto no art. 557, § 1º, do Código de Processo Civil.
+IV - Embargos de declaração recebidos como Agravo Regimental e improvido.
+(EDcl no AREsp n. 757.068/BA, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 23/2/2016, DJe de 29/2/2016.)
+A nte o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. OFENSA AO ART. 1.022 DO CPC/2015. NÃO CONFIGURAÇ ÃO. POLICIAL MILITAR. PROMOÇÃO. LEI ESTADUAL N. 7.990/01. INTERPRETAÇÃO DE LEI LOCAL. SÚMULA 280/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECU RSO ESPECIAL.
