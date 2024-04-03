@@ -1,0 +1,116 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5003571-42.2023.8.08.0048
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: MEDCLASS BENEFICIOS LTDA e outros
+RECORRIDO: DIEGO CORREA NEVES
+RELATOR(A):
+FELIPE LEITAO GOMES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: Por maioria, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5003571-42.2023.8.08.0048
+
+Recorrente: MEDCLASS BENEFÍCIOS LTDA; HAPVIDA ASSISTÊNCIA MÉDICA LTDA
+
+Recorrido: DIEGO CORREA NEVES
+
+Relator: DR. FELIPE LEITÃO GOMES.
+
+VOTO
+
+DR. FELIPE LEITÃO GOMES - RELATOR
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO INDENIZATÓRIA. PLANO DE SAÚDE. (1). TESE AUTORAL.
+NARRA O DEMANDANTE, EM SÍNTESE, QUE POSSUÍA UM PLANO DE SAÚDE E QUE, EM 04/06/2021, FIRMOU CONTRATO PARA REALIZAÇÃO DE PORTABILIDADE PARA O PLANO DE SAÚDE DA REQUERIDA
+MEDCLASS BENEFICIOS LTDA
+, COM A PROMESSA DE ABRANGÊNCIA NO MUNICÍPIO DE RESIDÊNCIA DO AUTOR E EM GRANDE PARTE DOS HOSPITAIS E CLÍNICAS. CONTUDO, NO ANO DE 2022, AO TENTAR UTILIZAR O PLANO DE SAÚDE EM COMENTO, ENFRENTOU ENORME DIFICULDADE PARA ENCONTRAR ATENDIMENTO CONVENIADO, VINDO A DESCOBRIR QUE A REFERIDA EMPRESA, SEM QUALQUER AVISO PRÉVIO, HAVIA TRANSFERIDO OS SEUS SERVIÇOS PARA A CORRÉ HAPVIDA ASSISTENCIA MEDICA LTDA, SENDO QUE OS BOLETOS PERMANECEM COM O TÍTULO DA PRIMEIRA SUPLICADA. ACRESCENTA QUE NÃO LOGROU ÊXITO EM OBTER ATENDIMENTO NO NOVO PLANO DE SAÚDE, MOTIVANDO O AUTOR A REQUERER A RESCISÃO DO CONTRATO E A CONSEQUENTE PERDA DA CARÊNCIA. POR FIM, RELATA QUE SOLICITOU A DEVOLUÇÃO DOS VALORES PAGOS A TÍTULO DE MENSALIDADE DO PLANO DE SAÚDE APÓS A MUDANÇA PARA A NOVA OPERADORA, TODAVIA, NÃO LHE FOI RESTITUÍDO QUALQUER VALOR, TAMPOUCO LHE FOI INFORMADA A DATA DA MIGRAÇÃO. DIANTE DO EXPOSTO, REQUER O AUTOR A CONDENAÇÃO DAS DEMANDADAS À RESTITUIÇÃO DO VALOR DE R$ 3.600,00 (TRÊS MIL E SEISCENTOS REAIS), REFERENTE A 12 (DOZE) MESES DE PAGAMENTO DO PLANO, VEZ QUE AS REQUERIDAS OMITIRAM A INFORMAÇÃO RELATIVA A DATA DE MIGRAÇÃO E QUANDO O PLANO DEIXOU DE ATENDER NO ESTADO, A PAR DO PAGAMENTO DE R$ 15.000,00 (QUINZE MIL REAIS), A TÍTULO DE INDENIZAÇÃO POR DANOS MORAIS.
+(2). ANTÍTESE
+MEDCLASS
+.
+APRESENTOU SUA DEFESA, ARGUINDO, PRELIMINARMENTE, A SUA ILEGITIMIDADE PASSIVA. NO MÉRITO, SUSTENTA A AUSÊNCIA DE PROVA MÍNIMA QUANTO À COMPROVAÇÃO DO ILÍCITO ALEGADO E NÃO CARACTERIZAÇÃO DE DANO MORAL INDENIZÁVEL. ROGA, ASSIM, PELO ACOLHIMENTO DA PRELIMINAR SUSCITADA OU, CASO SUPERADA, SEJAM JULGADOS IMPROCEDENTES OS PEDIDOS FORMULADOS NA PETIÇÃO INICIAL.
+(2.1). ANTÍTESE
+HAPVIDA ASSISTÊNCIA MÉDICA LTDA.
+
+APRESENTOU CONTESTAÇÃO ALEGANDO AUSÊNCIA DE COMPROVAÇÃO DE ATO ILÍCITO, A PAR DA IMPOSSIBILIDADE DE RESTITUIÇÃO DE VALORES OU MESMO DE CONDENAÇÃO POR DANO MORAL. ANTE O EXPOSTO, REQUER A IMPROCEDÊNCIA INTEGRAL DA AÇÃO.
+PRELIMINAR REJEITADA.
+
+(3). DISPOSITIVO DA SENTENÇA.
+
+“Ante todo o exposto, JULGO PARCIALMENTE PROCEDENTE a pretensão autoral, para condenar as suplicadas, solidariamente, ao pagamento do valor de R$ 4.000,00 (quatro mil reais), a título de danos morais, importância essa que deverá ser corrigida monetariamente, a partir desta sentença (Súmula 362 do Col. STJ), e acrescida de juros moratórios, desde o ato citatório. Declaro extinta essa relação jurídica processual, com resolução de mérito, na forma do art. 487, inciso I, do CPC/15. Sem custas processuais e sem honorários advocatícios nesta fase, conforme previsto no caput do art. 55 da Lei nº 9.099/95. ’’.
+
+(4). RECURSO
+MEDCLASS ADMINISTRADORA DE BENEFÍCIOS.
+ILEGITIMIDADE PASSIVA DA ADMINISTRADORA DE BENEFÍCIOS PROMOVIDA.
+AUSÊNCIA DE ILÍCITO PRATICADO PELA ADMINISTRADORA RÉ - DEVER DE INFORMAÇÃO DEVIDAMENTE PRESTADO. AUSÊNCIA DE DANOS MORAIS – ENTENDIMENTO CONSOLIDADO NO SUPERIOR TRIBUNAL DE JUSTIÇA. PLEITO DE REFORMA DA SENTENÇA PARA JULGAR IMPROCEDENTES OS PEDIDOS INICIAIS. SUBSIDIARIAMENTE, REQUERIMENDO DE MINORAÇÃO DO VALOR ARBITRADO, DE MODO QUE A QUANTIA NÃO SEJA SUPERIOR AO VALOR DE R$ 1.000,00 (MIL REAIS).
+(5). CONTRARRAZÕES DO AUTOR.
+EM SUMA, REQUER QUE SEJA NEGADO PROVIMENTO AO RECURSO INOMINADO, MANTENDO INTEGRALMENTE A SENTENÇA PROLATADA NO JUÍZO DE ORIGEM.
+(6). MÉRITO RECURSAL.
+O CONTRATO ENTRE AS PARTES FOI FIRMADO SOB A ÉGIDE DO CÓDIGO DE DEFESA DO CONSUMIDOR (LEI N° 8.078/90), QUE INCIDE SOBRE OS CONTRATOS DE PLANO DE SAÚDE, CONFORME A SÚMULA N° 469 DO STJ. O CERNE DA PRESENTE DEMANDA CONSISTE EM ANALISAR SE HOUVE FALHA NA PRESTAÇÃO DE SERVIÇO DA RECORRENTE DEVIDO A SUPOSTA MIGRAÇÃO OCORRIDA SEM A DEVIDA CIENTIFICAÇÃO DO AUTOR, BEM COMO SE OS PERCALÇOS POR ELE ENFRENTADOS ENSEJAM A REPARAÇÃO EXTRAPATRIMONIAL PRETENDIDA.
+POIS BEM.
+COMO PONTUADO PELO DOUTO COLEGA, ANTE A AUSENTE COMPROVAÇÃO DA EXISTÊNCIA DE REDE CREDENCIADA NO MUNICÍPIO DO AUTOR POR PARTE DAS RÉS, NÃO HÁ COMO AFASTAR A RESPONSABILIDADE DAS MESMAS PELA INEFICIÊNCIA DO SERVIÇO POR ELAS PRESTADOS, VISTO QUE O AUTOR DESINCUMBIU DO SEU ÔNUS PROBATÓRIO, COMPROVANDO TER ENFRENTADO DIFICULDADES EM OBTER O ATENDIMENTO CONVENIADO. NOUTRO GIRO, NOTO QUE NA SENTENÇA, O MAGISTRADO EXPÕE A IMPOSSIBILIDADE DE RESTITUIÇÃO DOS VALORES PAGOS,TENDO EM VISTA QUE O SERVIÇO FOI COLOCADO À DISPOSIÇÃO DO AUTOR, AINDA QUE DE MODO INSUFICIENTE, O QUE CONCORDO. NESTA TOADA, TENHO QUE O CASO EM APREÇO DESTOA DOS CASOS COMUMENTE ANALISADOS POR ESTA TURMA QUANDO
+EM REGRA
+, CONFIGURADA TÃO E SOMENTE A FALHA NA PRESTAÇÃO DOS SERVIÇOS POR PARTE DAS PRESTADORAS, O DANO MORAL ACABA NÃO SENDO CABÍVEL. DIGO ISTO POIS NO CASO VERTENTE, O AUTOR COMPROVOU POR MEIO DE PRINTS E E-MAILS QUE, EXAUSTIVAMENTE, TENTOU OBTER INFORMAÇÕES E USUFRUIR DOS SERVIÇOS DOS QUAIS NECESSITAVA, NÃO OBTENDO ÊXITO. PORTANTO, CONCLUO POR BEM MANTER A CONDENAÇÃO DA PARTE REQUERIDA EM DANOS MORAIS,
+PORÉM,
+A MEU VER, O VALOR ARBITRADO NA ORIGEM MOSTRA-SE IRRAZOÁVEL. ASSIM, RESOLVO ACOLHER PARCIALMENTE O PEDIDO EXPOSTO EM SEDE RECURSAL, REDUZINDO O VALOR DA INDENIZAÇÃO POR DANOS EXTRAPATRIMONIAIS PARA A MONTA DE R$ 1.000,00 (MIL REAIS), O QUE ENTENDO RAZOÁVEL AO CASO CONCRETO.
+DANO MORAL CONFIGURADO E MINORADO
+.
+(7).
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO
+. SENTENÇA DE PISO MERECE SER REFORMADA, TÃO E SOMENTE, PARA QUE SEJA MINORADA A CONDENAÇÃO A TÍTULO DE DANOS MORAIS, PARA O VALOR DE
+R$ 1.000,00 (HUM MIL REAIS)
+(8). SEM CONDENAÇÃO EM CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS, POSTO QUE A PARTE RECORRENTE LOGROU ÊXITO EM AO MENOS PARTE DO SEU PLEITO.
+
+SALÉZIA TEIXEIRA DOS SANTOS
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+FELIPE LEITÃO GOMES
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
+O SR. JUIZ DE DIREITO VLADSON COUTO BITTENCOURT:-
+
+Eminente Relator,
+
+Peço vênia para divergir do entendimento de Vossa Excelência, por entender que a sentença merece ser mantida. Explico:
+
+O valor da condenação a título de danos morais deve ser fixado pelo prudente arbítrio do Juiz, devendo este se atentar aos princípios da proporcionalidade e da razoabilidade, não se afastando, ainda, do caráter punitivo-pedagógico da condenação, tampouco do postulado da vedação ao enriquecimento sem causa.
+
+Em razão disso, não se pode arbitrar como indenização uma soma vultosa e exagerada de forma a ensejar o enriquecimento sem causa da parte lesada, como também não se pode fixar um valor irrisório de forma que o causador do dano não sofra qualquer diminuição em seu patrimônio capaz de dissuadi-lo de repetir a prática.
+
+Enfrentando o conjunto fático dos autos, e considerando a reprovabilidade da conduta, a duração e intensidade do sofrimento da vítima e, igualmente, a capacidade econômica do responsável pela conduta lesiva e pelas condições pessoais do ofendido, em respeito ao artigo 5º, inciso V, da CRFB/88, entendo que o
+quantum
+indenizatório fixado está em conformidade com a situação vivenciada.
+
+Ante o exposto, conheço do recurso inominado interposto, mas nego-lhe provimento, para manter a sentença objurgada.
+
+Condeno a parte recorrente ao pagamento de honorários sucumbenciais, que fixo em 20% sobre o valor da condenação.
+
+É como voto.
