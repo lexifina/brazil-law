@@ -1,0 +1,50 @@
+DECISÃO
+ALEXSSANDRO RAMOS alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 1501344-90.2019.8.26.0481.
+Consta dos autos que o paciente foi condenado, em primeiro grau, a 4 anos, 8 meses e 20 dias de reclusão, em regime inicial semiaberto, mais multa, pela prática do delito previsto no art. 33, caput, e § 4º, da Lei n. 11.343/2006.
+O Tribunal de origem deu provimento ao recurso do Ministério Público a fim de afastar a incidência da minorante do tráfico e tornar a reprimenda definitiva em 5 anos, 8 meses e 1 dia de reclusão, em regime fechado, mais multa.
+Pleiteia a defesa a aplicação da minorante prevista no art. 33, § 4º, da Lei de Drogas e o abrandamento do regime, observando-se a detração.
+Decido.
+I. Aplicação da minorante
+O Tribunal de origem considerou indevida a aplicação do redutor previsto no art. 33, § 4º, da Lei de Drogas, nos seguintes termos (fl. 28, grifei):
+Impossível, ainda, a aplicação da causa de diminuição prevista no artigo 33, § 4º, da Lei 11.343/06. As circunstâncias da prisão, a afirmação de acusado que receberia U$ 1.000,00 (mil dólares) pelo transporte e, principalmente, a quantidade de entorpecentes, permitem concluir, com a certeza necessária, que o acusado se dedicava ao comércio espúrio, elemento que vedará a benesse.
+Para a aplicação da minorante em comento, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+Conforme visto, a Corte estadual entenderam indevida a aplicação do redutor em questão, com fundamento, resumidamente, no encargo assumido pelo réu, que receberia U$ 1.000,00 pelo transporte de 5 kg de cocaína.
+De fato, a contratação de agente para transportar relevante quantidade de drogas evidencia a estruturação da organização criminosa que a comercializa. Contudo, não ficou comprovado nos autos que o réu, efetivamente, integre a referida organização criminosa.
+Ao contrário, pelos elementos dos autos , a evidência é de que ela desempenhou apenas papel de "mula" no transporte de entorpecentes.
+Assim, não ficou demonstrado ser o transporte de entorpecentes algo perene na vida do réu. Ademais, a apreensão de drogas não decorreu de prévia investigação que vinculasse o acusado à organização criminosa.
+A jurisprudência atual desta Corte Superior é firme em reconhecer a aplicabilidade da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 a pessoa - primária e de bons antecedentes - que transporta entorpecentes na condição de "mula", quando ausentes outros elementos que indiquem que ela integra organização criminosa.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DECISÃO AGRAVADA QUE APLICOU A REDUTORA DO TRÁFICO PRIVILEGIADO NA FRAÇÃO DE 1/6. IRRESIGNAÇÃO MINISTERIAL. CONCLUSÃO DE QUE O ACUSADO SE DEDICAVA A ATIVIDADES CRIMINOSAS BASEADA EXCLUSIVAMENTE NA QUANTIDADE DE ENTORPECENTE APREENDIDO. PACIENTE PRIMÁRIO E SEM MAUS ANTECEDENTES. FUNÇÃO DE "MULA". CIRCUNSTÂNCIA QUE NÃO EVIDENCIA, POR SI SÓ, QUE O ACUSADO INTEGRAVA GRUPO CRIMINOSO. FUNDAMENTO INIDÔNEO. DECISÃO MONOCRÁTICA MANTIDA. AGRAVO NÃO PROVIDO.
+1. Agravo regimental interposto pelo Ministério Público Federal contra decisão que concedeu a ordem, de ofício, para aplicar o redutor do tráfico privilegiado na fração de 1/6.
+2. Esta Corte vem se manifestando no sentido de que isoladamente consideradas, a natureza e a quantidade do entorpecente apreendido, por si sós, não são suficientes para embasar conclusão acerca da presença das referidas condições obstativas e, assim, afastar o reconhecimento da minorante do tráfico privilegiado (AgR g no REsp n. 1.687.969/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 26/3/2018).
+3. Nessa linha, precedentes deste Corte e do Supremo Tribunal Federal firmam a possibilidade de concessão do benefício do tráfico privilegiado, a despeito da apreensão de grande quantidade de droga, quando estiver caracterizada a condição de "mula" do tráfico, como no caso dos autos.
+3. Agravo regimental não provido.
+(AgRg no HC n. 811.100/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe de 29/6/2023, grifei)
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CONDIÇÃO DE "MULA". INCIDÊNCIA DA MINORANTE PREVISTA NA LEI N. 11.343/2006. ESPORADICIDADE AFASTADA. HABITUALIDADE. DEDICAÇÃO AO ILÍCITO. ELEVADA QUANTIDADE DE DROGA.
+1. Entende esta Corte que a condição de "mula do tráfico", por si só, não afasta a incidência do art. 33, § 4º, da Lei n. 11.343/2006, podendo, contudo, modular a sua aplicação, uma vez que, mesmo como transportadores e premidos de necessidade, os acusados, esporadicamente, se deixaram cooptar pelo ilícito.
+2. Concluindo o Tribunal local que o apelante, ora agravado, além da quantidade expressiva de droga que transportava - "1.085,000 quilos de maconha" -, não se tratava de uma simples ""mula", mas de elo indispensável de uma grande organização criminosa, ramificada em diversos níveis de atuação e competência, seja na compra, transporte, guarda, divisão, entrega, venda e recebimento das importâncias devidas", de fato, tal desfecho obsta a incidência da minorante em apreço, uma vez que afasta o requisito da esporadicidade, do casual, tornando-se habitual a prática do delito.
+Precedentes.
+3. Para se acolher a tese de que o réu, ora agravado, não se dedica, de modo habitual, a atividades criminosas, imprescindível seria o reexame probatório, procedimento sabidamente inviável na instância especial.
+4. Agravo regimental provido. Habeas corpus denegado. Restabelecido o acórdão proferido pela 2ª Câmara Criminal do TJMS (Apelação nº 0000614-53.2020.8.12.0047).
+(AgRg no AgRg no HC n. 724.453/MS, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 6ª T., DJe de 19/6/2023, destaquei)
+Em relação à quantidade de drogas apreendida com o réu, faço o registro de que, em sessão realizada no dia 9/6/2021, por ocasião do julgamento do REsp n. 1.887.511/SP (Rel. Ministro João Otávio de Noronha, DJe 1º/7/2021), a Terceira Seção desta Corte Superior de Justiça decidiu que:
+ ..
+7. A utilização concomitante da natureza e da quantidade da droga
+apreendida na primeira e na terceira fases da dosimetria, nesta última para descaracterizar o tráfico privilegiado ou modular a fração de diminuição de pena, configura bis in idem, expressamente rechaçado no julgamento do Recurso Extraordinário n. 666.334/AM, submetido ao regime de repercussão geral pelo Supremo Tribunal Federal (Tese de Repercussão Geral n. 712).
+8. A utilização supletiva desses elementos para afastamento do tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa.
+Consequentemente, à ausência de fundamento suficiente o bastante para justificar o afastamento da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006, deve a ordem ser concedida ao ora paciente, a fim de restabelecer a dosimetria da pena imposta em sentença.
+II. Regime e detração
+Não há modificação cabível quanto ao regime de cumprimento da pena.
+Transitada em julgado a condenação, a detração penal é matéria da competência do Juízo da Execução, quem, nos termos do art. 66, "c", da LEP, tem a atribuição de computar na pena privativa de liberdade o tempo de prisão provisória do sentenciado.
+Deveras, não há necessidade de rescindir a condenação, pois as alterações trazidas pelo art. 387, § 2º, do CPP, "não afastaram a competência concorrente do Juízo das Execuções para a detração, nos termos do art. 66 da Lei n. 7.210/1984, sempre que o Magistrado sentenciante não houver adotado tal providência" (AgRg no HC n. 778.674/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe de 2/12/2022).
+Ilustrativamente:
+ ..  3. Também em conformidade com a jurisprudência desta Corte Superior, "As alterações trazidas pelo diploma legal supramencionado não afastaram a competência concorrente do Juízo das Execuções para a detração, nos termos do art. 66 da Lei n. 7.210/1984, sempre que o Magistrado sentenciante não houver adotado tal providência. Tratando-se de decreto condenatório já transitado em julgado, deve o Juízo das Execuções verificar a possibilidade de fixação de regime de cumprimento da pena em regime mais brando" (HC n. 381.997/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 5/4/2017).
+ ..
+(AgRg no HC n. 661.750/SP, Rel. Ministro Rogerio Schietti Cruz, 6ª T., DJe de 28/6/2021)
+De mais a mais, a aplicação da detração em nada alteraria a determinação do regime prisional. Considerada a pena imposta (4 anos, 8 meses e 20 dias), as circunstâncias judiciais desfavoráveis - tanto que a pena-base foi fixada acima do mínimo legal -, mesmo com o desconto da reprimenda cumprida, é impositiva a fixação do modo inicial semiaberto de resgate da reprimenda.
+III. Dispositivo
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo em parte a ordem, a fim de reconhecer a incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 em favor do acusado e restabelecer a dosimetria da pena imposta em sentença.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
