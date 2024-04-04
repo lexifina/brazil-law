@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de recurso especial interposto por TIAGO ALEXANDRE BELTRAME e HUMBERTO LODI CHAVES, com fundamento no art. 105, III, a e c, da Constituição Federal, visando a reforma do acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-STJ, fl. 82):
+AGRAVO DE INSTRUMENTO. BRASIL TELECOM. PEDIDO DE CUMPRIMENTO DE SENTENÇA. RECUPERAÇÃO JUDICIAL. PEDIDO CONTRARRECURSAL:SUSPENSÃO DO FEITO. NOVA RECUPERAÇÃO JUDICIAL. SUPRESSÃO DE INSTÂNCIA.
+Deixo de analisar o pedido de suspensão do feito devido à nova recuperação judicial da empresa ré, tendo em vista que até a decisão agravada, o Juízo originário não havia se pronunciado sobre essa possibilidade. Logo, a fim de evitar supressão de instância, não conheço do pedido contrarrecursal.
+MÉRITO:
+INCLUSÃO DE MULTA E HONORÁRIOS ADVOCATÍCIOS.
+Verificado que aparte credora ingressou com o pedido de cumprimento de sentença após 20.06.2016,descabe a inclusão no débito dos consectários previstos no art. 523, § 1º, do CPC no débito, pois a empresa recuperanda não pode adimplir espontaneamente a obrigação, tendo em vista que está em recuperação judicial, conforme aviso aos credores expedido pelo juiz da 7ª Vara Empresarial da Comarca do Rio de Janeiro (orientação contida no Ofício nº 613/2018, enviado ao TJ-RS).
+PEDIDO CONTRARRECURSAL NÃO CONHECIDO E AGRAVO DE INSTRUMENTO DESPROVIDO POR UNANIMIDADE.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 107-110).
+Nas razões do recurso especial (e-STJ, fls. 124-134), os insurgentes apontam, além de dissídio jurisprudencial, violação ao art. 1.022, I e II, do CPC.
+Sustentam, em síntese, a ocorrência de negativa de prestação jurisdicional por parte do acórdão recorrido, ao argumento de que o julgado não analisou suas alegações a respeito da natureza extraconcursal do crédito objeto do cumprimento de sentença, o que, segundo afirmou, ensejaria a possibilidade de incidência das penalidades previstas no art. 523, § 1º, do CPC; e quanto à ausência de apresentação de impugnação ou recurso contra a decisão que deferiu a aplicação das sanções do aludido dispositivo de lei.
+Contrarrazões às fls. 168-182 (e-STJ).
+O Tribunal de origem admitiu o recurso especial (e-STJ, fls. 185-188), ascendendo os autos a esta Corte de Justiça.
+Brevemente relatado, decido.
+No caso em estudo, o Tribunal de origem confirmou a decisão interlocutória que, nos autos do cumprimento de sentença, afastou a incidência da multa e dos honorários advocatícios previstos no art. 523, § 1º, do CPC, de acordo com as seguintes justificativas (e-STJ, fls. 79-80):
+MÉRITO:
+INCLUSÃO DE MULTA E HONORÁRIOS ADVOCATÍCIOS.
+O agravo não merece provimento, senão vejamos.
+Após a aprovação do plano de recuperação judicial da OI/S.A., ocorrida em 08.01.2018, o juiz da recuperação judicial emitiu aviso aos credores, com as seguintes orientações, conforme Ofício nº 613/2018 enviado ao TJ-RS:
+AVISO SOBRE OS CRÉDITOS DETIDOS CONTRA O GRUPO OI/TELEMAR1.
+Com a realização da Assembleia Geral de Credores em 19.12.2017, os processos em que as empresas do Grupo OI/TELEMAR são parte poderão seguir dois trâmites distintos, a depender se o objeto da demanda diz respeito a créditos concursais (fato gerador constituído antes de 20.06.2016 e, por isso, sujeito à Recuperação Judicial) ou a créditos extraconcursais (fato gerador constituído após 20.06.2016 e, por isso, não sujeito à Recuperação Judicial).
+2. Os processos que tiverem por objeto créditos concursais devem prosseguir até a liquidação do valor do crédito, que deve ser atualizado até 20.06.2016. Com o crédito líquido, e após o trânsito em julgado de eventual impugnação ou embargos, o Juízo de origem deverá emitir a respectiva certidão de crédito e extinguir o processo para que o credor concursal possa se habilitar nos autos da recuperação judicial e o crédito respectivo ser pago na forma do Plano de Recuperação Judicial, restando vedada, portanto, a prática de quaisquer atos de constrição pelos Juízos de origem.
+3. Os processos que tiverem por objeto créditos extraconcursais devem prosseguir até a liquidação do valor do crédito. Com o crédito líquido, e após o trânsito em julgado de eventual impugnação ou embargos, o Juízo de origem expedirá ofício ao Juízo da Recuperação Judicial comunicando a necessidade de pagamento do crédito."
+Como se vê, a decisão de origem não observou corretamente a orientação do item "2",determinando a intimação da parte devedora para pagamento dos valores, sob pena de multa e honorários advocatícios no montante de 10% sobre o valor da condenação, sob pena de penhora de tantos bens quantos bens bastem para a satisfação da dívida.
+Nesse contexto, razão não assiste à parte agravante, ao requerer a inclusão dos consectários previstos no art. 523, § 1º, do CPC, tendo em vista que a parte exequente ingressou com o pedido de cumprimento de sentença após 20.06.2016 (24.03.2020 - Evento 1, INIC1).
+A então parte embargante, por sua vez, nas razões dos declaratórios, apontou a ocorrência de omissão no julgado acima referido, ao argumento de que o acórdão impugnado não analisou suas alegações a respeito da natureza extraconcursal do crédito objeto do cumprimento de sentença, o que possibilitaria a incidência das penalidades previstas no art. 523, § 1º, do CPC (e-STJ, fls. 93-94):
+(..)
+De início, cabe informar que os Embargantes postularam o pagamento dos honorários advocatícios de sucumbência, por se tratar de crédito de natureza EXTRACONCURSAL, pois constituídos após o dia 20.06.2016, uma vez que os honorários advocatícios da fase de conhecimento foram estabelecidos em 05.05.2020 - Evento 4, portanto, as sanções do artigo 523, §1º, do Código de Processo Civil de 2015 incidem sobre os honorários advocatícios de natureza EXTRACONCURSAL.
+ ..  são plenamente aplicáveis as sanções previstas no artigo 523, §1º do Código de Processo Civil de 2015 sobre o crédito de natureza EXTRACONCURSAL, pois, conforme já exposto, o fato da Embargada estar em recuperação judicial não impede o cumprimento voluntário da obrigação para àqueles créditos constituídos APÓS 20.06.2016 (data do ajuizamento da recuperação judicial)
+No julgamento dos aclaratórios, o colegiado local, reconhecendo inexistirem vícios no julgado embargado concernentes à matéria, limitou-se a reiterar a conclusão vertida no acórdão combatido (e-STJ, fls. 107-110).
+Verifica-se que a matéria suscitada pelo então embargante é, de fato, relevante para o deslinde da controvérsia, visto que o Superior Tribunal de Justiça já reconheceu que crédito extraconcursal devido por empresa em recuperação judicial, objeto de cumprimento de sentença em curso, pode ser acrescido das penalidades previstas no art. 523, § 1º, do CPC.
+Confira-se:
+RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CRÉDITO EXTRACONCURSAL. CUMPRIMENTO DE SENTENÇA. ART. 523, § 1º, DO CPC/15. INCIDÊNCIA. NECESSIDADE, NO PARTICULAR, DE AUTORIZAÇÃO DO JUÍZO DA RECUPERAÇÃO PARA INÍCIO DA FLUÊNCIA DO PRAZO. MOMENTO A PARTIR DO QUAL EVENTUAL RECUSA AO ADIMPLEMENTO SERÁ CONSIDERADA VOLUNTÁRIA.
+1. Ação ajuizada em 14/5/2019. Recurso especial interposto em 27/1/2021. Autos conclusos ao gabinete da Relatora em 26/7/2021.
+2. O propósito recursal consiste em definir se crédito extraconcursal devido por empresa em recuperação judicial, objeto de cumprimento de sentença em curso, pode ser acrescido das penalidades previstas no art. 523, § 1º, do CPC/15.
+3. A multa e os honorários advocatícios previstos no art. 523, § 1º, do CPC/15 somente incidem sobre o valor da condenação nas hipóteses em que o executado não paga voluntariamente a quantia devida estampada no título judicial no prazo de 15 dias.
+4. A recuperanda não está impedida, pelo texto da Lei 11.101/05, de satisfazer voluntariamente créditos extraconcursais perseguidos em execuções individuais, de modo que as consequências jurídicas previstas na norma do dispositivo precitado devem incidir quando não pago o montante devido.
+5. Hipótese concreta em que o juízo da recuperação judicial estabeleceu critérios que devem ser observados para o pagamento dos créditos extraconcursais: expedição de ofício pelo juízo da execução singular, seguido de comunicação à recuperanda para depósito do valor devido.
+6. Não sendo, portanto, defeso à recuperanda dispor de seu acervo patrimonial para pagamento de créditos extraconcursais (observada a exceção do art. 66 da LFRE), uma vez recebida a comunicação do juízo do soerguimento para depósito da quantia objeto da execução, deve passar a correr o prazo de 15 dias estabelecido no art. 523, caput, do CPC/15.
+RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+(REsp n. 1.953.197/GO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 5/10/2021, DJe de 8/10/2021.)
+Desse modo, tendo em vista que o referido tema foi oportunamente suscitado pela parte recorrente, o Tribunal local deveria ter examinado as alegações que, a esse respeito, foram-lhe submetidas. Nesse contexto, a persistência na omissão, diante da rejeição dos embargos de declaração sem apreciação de questões jurídicas relevantes, deu azo à violação do art. 1.022 do CPC/2015.
+Impõe-se, assim, o retorno dos autos para que o órgão competente realize novo julgamento dos embargos de d eclaração, com a devida apreciação da referida questão alegada pela parte então embargante.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. VIOLAÇÃO AOS ARTIGOS 489 E 1.022 DO CPC. OMISSÃO CARACTERIZADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. MULTA. ARTIGO 1.021, § 4º, DO CPC. CABIMENTO.
+1. Ação de reintegração de posse.
+2. Não havendo o Tribunal de origem apreciado as matérias suscitadas nos embargos de declaração opostos pela parte ora agravada, configurada está a ofensa ao artigo 1.022 do CPC, a impor o retorno dos autos à origem para complementar a devida prestação jurisdicional.
+3. Agravo interno nos embargos de declaração no agravo em recurso especial não provido, com aplicação de multa, nos termos do artigo 1.021, § 4º, do CPC.
+(AgInt nos EDcl no AREsp n. 2.403.997/BA, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. EXISTÊNCIA.
+1. Não havendo o Tribunal de origem apreciado as matérias suscitadas nos embargos de declaração opostos pela ora embargante, configurada está a ofensa ao artigo 1.022 do Código de Processo Civil, a impor o retorno dos autos à origem para complementar a devida prestação jurisdicional.
+2. Embargos de declaração acolhidos com efeitos modificativos. Decisão e acórdão proferidos por esta Corte anulados.
+(EDcl no AgInt no AREsp 1.624.710/MS, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 07/06/2021, DJe 09/06/2021)
+Ante o exposto, dou provimento ao recurso especial a fim de, reconhecida a violação do art. 1.022 do CPC/2015, determinar ao Tribunal de origem que realize novo julgamento dos embargos de declaração, devendo se pronunciar, como entender de direito, sobre a relevantes questões que lhe foram submetidas pela parte embargante.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ART. 523, § 1º, DO CPC. ALEGADA NATUREZA EXTRACONCURSAL DO CRÉDITO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA. RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO DOS DECLARATÓRIOS. RECURSO ESPECIAL PROVIDO.
