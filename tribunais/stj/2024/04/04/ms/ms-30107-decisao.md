@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de mandado de segurança impetrado por MARCUS VINICIUS LOPES CIRQUEIRA contra ato da MINISTRA DA GESTÃO E DA INOVAÇÃO EM SERVIÇOS PÚBLICOS consistente na impossibilidade de o impetrante realizar a sua inscrição no Concurso Nacional Unificado (Edital 04/2024), para o cargo de auditor-fiscal do trabalho, por dificuldades de acesso ao portal GOV.BR.
+Alega o impetrante que, ao tentar acessar a área destinada à inscrição do concurso, via aplicativo GOV.BR, não obteve êxito em razão da necessidade de verificação em duas etapas por meio do envio de um código para o celular cadastrado.
+Aduz que, ao buscar a solução para o problema no próprio aplicativo, encontrou a "informação de que em caso de impossibilidade de acesso por meio do celular cadastrado seria necessário preencher e enviar um formulário de atendimento disponível no sistema" (fl. 4).
+Refere que, em 1/2/2024, preencheu o formulário informando o problema, não tendo recebido qualquer e-mail com orientações para solução do seu problema de acesso ao aplicativo, não conseguindo realizar a inscrição para o concurso público, cujo prazo para inscrição se encerrou em 9/2/2024.
+Informa que tentou novamente solucionar o problema de acesso, recebendo apenas no dia 12/2/2024 e-mail informando que a sua conta havia sido excluída, mesmo não tendo solicitado tal medida.
+Em razão do problema de acesso ao aplicativo, o impetrante alega que a não efetivação da inscrição em razão de falha que não pode ser atribuída ao impetrante.
+Argumenta que teve prejudicado o seu direito de concorrer a uma das vagas do certame por um problema apresentado no portal do Governo Federal, única forma de efetivar a sua inscrição, não tendo a autoridade coatora garantido o amplo acesso aos interessados em concorrer ao certame, violando o seu direito fundamental à igualdade.
+Afirma que "a tentativa de acesso ao sistema e a busca pela solução do problema ocorreu de forma tempestiva, tendo em vista que o formulário foi enviado no dia 01/02/2024 e as inscrições para o concurso tiveram fim no dia 09/02/2024" (fl. 10).
+Pede a antecipação dos efeitos da tutela para que seja determinada a sua imediata inscrição no certame.
+É o relatório.
+A irresignação não merece prosperar.
+No presente caso, o ato apontado c omo coator é uma série de documentos extraídos da página de suporte do site GOV.BR sobre chamado aberto pelo impetrante para solucionar problema de acesso a sua conta na plataforma de autenticação daquele site para realizar a sua inscrição.
+Conforme o disposto no art. 6º, § 3º, da Lei 12.016/2009, a autoridade coatora é aquela "que tenha praticado o ato impugnado ou da qual emane a ordem para a sua prática".
+No presente caso, não constato a prática de nenhum ato da autoridade apontada como coatora, tampouco constato que ela seria a autoridade que poderia determinar a inscrição do impetrante no Concurso Nacional Unificado, não tendo o impetrante apresentado documentação que comprove a prática de ato ilegal pela autoridade apontada. Nesse sentido:
+AGRAVO REGIMENTAL NO MANDADO DE SEGURANÇA. INSCRIÇÃO NO FIES. ILEGITIMIDADE PASSIVA DO MINISTRO DA EDUCAÇÃO. AUSÊNCIA DE COMPROVAÇÃO DE ATO LESIVO OU OMISSIVO DE DIREITO LÍQUIDO E CERTO. AGRAVO NÃO PROVIDO.
+1. A competência originária do Superior Tribunal de Justiça estabelecida no art. 105, I, b, da Constituição Federal, para conhecer e julgar mandado de segurança, é de interpretação restrita, limitando-se aos casos em que houver ato omissivo ou comissivo praticado por Ministro de Estado, por Comandantes da Marinha, do Exército e da Aeronáutica ou pelo próprio Tribunal, que seja lesivo a direito líquido e certo do impetrante.
+2. Para fins de mandado de segurança, autoridade coatora é aquela que pratica, ordena ou omite a prática do ato impugnado e tem poderes para refazê-lo.
+3. No presente caso, o impetrante se insurge exclusivamente contra a impossibilidade de realizar sua inscrição no sítio eletrônico do Ministério da Educação para concorrer a uma vaga no FIES. Entretanto, não trouxe nenhuma prova pré-constituída comprovando que o Ministro de Estado da Educação tenha praticado, ou deixado de praticar algum ato ilegal ou abusivo violador de seu direito líquido e certo.
+4. Agravo não provido. (AgRg no MS 15.852/DF, relator Ministro Arnaldo Esteves Lima, Primeira Seção, DJe 6/6/2012.)
+Ademais, o impetrante não trouxe nenhum elemento apto a demonstrar que a MINISTRA DA GESTÃO E DA INOVAÇÃO EM SERVIÇOS PÚBLICOS tenha praticado, ou deixado de praticar, ato ilegal e abusivo, violador de seu direito líquido e certo, tendo apenas juntado aos autos documentos referentes às tentativas de realização da inscrição no Concurso Nacional Unificado e de acesso ao portal GOV.BR. Não há, portanto, prova pré-constituída do suposto ato ilegal, noticiado na petição inicial, o que torna incabível o presente writ.
+Ante o exposto, indefiro liminarmente a petição inicial do mandado de segurança, com fundamento nos arts. 10 da Lei 12.016/2009 e 212 do Regimento Interno desta Corte e nos termos do art. 109, VIII, da Constituição da República.
+Prejudicado o pedido liminar.
+Publique-se. Intimações necessárias.
+EMENTA
