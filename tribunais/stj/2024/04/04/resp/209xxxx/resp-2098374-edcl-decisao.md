@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão, assim ementada: (fl. 419)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. OMISSÃO DO ACÓRDÃO RECORRIDO SOBRE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADEDE EXAMENA VIA ESPECIAL. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL. RECURSO ESPECIAL NÃO CONHECIDO.
+O embargante sustenta que existe contradição na decisão embargada, tendo em vista que "nos fundamentos jurídicos do Recurso, de forma específica, tratou minuciosamente a clara violação ao art. 110 do Código Tributário Nacional, trazendo a conclusão de que o FUNRURAL não possui natureza de faturamento ou receita, e por assim, dizer, os valores referentes a está contribuição devem ser excluídos da base de cálculo do PIS e COFINS, disposta nas Leis 9.718/1998, 10.637/2002, 10.833/2003, e alterações promovidas pela Lie nº 12.973/2014." (fls. 427-428)
+É o relatório. Decido.
+De início, afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Verifica-se que a decisão embargada assim consignou: (fl. 422)
+"Dessa forma, observa-se que a controvérsia relativa à legalidade da inclusão do FUNRURAL na base de cálculo das contribuições do PIS e da COFINS foi dirimida com fundamento constitucional, especificamente com base no princípio da capacidade contributiva, prevista no artigo 145, § 1º, da CF/88, além do artigo 150 da Constituição Federal, de modo que o recurso especial se apresenta inviável quanto ao ponto, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal."
+Destaca-se que a contradição que autoriza o manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado. A propósito: AgInt no REsp 1.348.521/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 23/9/2016; EDcl no REsp 1.537.597/MA, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 14/3/2016; EDcl nos EDcl no AgRg no REsp 1.319.666/MG, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 26/2/2016.
+À margem do alegado pelo embargante, não se vislumbra qualquer omissão, contradição, obscuridade ou erro material. Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022 do CPC/2015.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
