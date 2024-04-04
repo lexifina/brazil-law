@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECLAMAÇÃO. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Reclamação (art. 105, I, f, da Constituição da República) se destina a tornar efetivas as decisões proferidas, no caso concreto, em que o Reclamante tenha figurado como parte, não servindo para a preservação da jurisprudência desta Corte ou, ainda, como sucedâneo recursal.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+Os embargos de declaração opostos foram rejeitados.
+As partes recorrentes alegam a ocorrência de violação do art. 5º, XXXVI, da Constituição Federal e aduzem haver repercussão geral da matéria.
+Sustentam que a incidência dos juros moratórios no caso dos autos está acobertada p ela coisa julgada, que determinou a sua aplicação até o efetivo pagamento.
+Requerem, ao final, a admissão do recurso e a remessa dos autos ao Supremo Tribunal Federal.
+É o relatório.
+Verifica-se que o presente recurso foi interposto contra acórdão do STJ que concluiu que " ..  a incidência dos juros de mora está limitada ao período de atraso da Fazenda Pública, situação a qual não se vislumbra a partir da expedição do primeiro precatório, na linha de orientação do Supremo Tribunal Federal  .. ".
+Ao assim decidir, constata-se que esta Corte Superior de Justiça acompanhou a jurisprudência do Supremo Tribunal Federal, que é firme em que, "durante o período previsto no parágrafo 1º do artigo 100 da Constituição, não incidem juros de mora sobre os precatórios que nele sejam pagos " (Súmula Vinculante n. 17).
+A propósito:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. TÍTULO EXECUTIVO JUDICIAL. INCIDÊNCIA DE JUROS MORATÓRIOS DESDE O TRÂNSITO EM JULGADO ATÉ O PAGAMENTO INTEGRAL. TEMAS 132 E 1037 DA REPERCUSSÃO GERAL. INCIDÊNCIA. COISA JULGADA QUE NÃO IMPEDE A APLICAÇÃO DA JURISPRUDÊNCIA DO STF.
+1. Insurge-se o INSS contra o acórdão do Tribunal de origem, que, não obstante o teor da Súmula Vinculante 17 e do art. 100, §5º, da CF/1988, negou provimento ao Agravo de Instrumento para manter a incidência dos juros de mora desde o trânsito em julgado da decisão até o pagamento integral do precatório. Para tanto, aduziu que tal determinação constou expressamente do título executivo judicial, devendo ser observada a coisa julgada.
+2. Assiste razão à autarquia previdenciária. No julgamento do Tema 132 (RE 590.751-RG, Rel. Min. RICARDO LEWANDOWSKI), a seguinte tese de repercussão geral foi consolidada por este SUPREMO TRIBUNAL FEDERAL: "O art. 78 do Ato das Disposições Constitucionais Transitórias possui a mesma mens legis que o art. 33 desse Ato, razão pela qual, uma vez calculado o precatório pelo valor real do débito, acrescido de juros legais, não há mais falar em incidência desses nas parcelas anuais, iguais e sucessivas em que é fracionado, desde que adimplidas a tempo e corrigidas monetariamente."
+3. Esta SUPREMA CORTE, no julgamento do RE 1.169.289-RG (Tema 1037, Relator Min. MARCO AURÉLIO, Redator do Acórdão Min. ALEXANDRE DE MORAES, DJe de 1º/7/2020), fixou, ainda, a seguinte tese: "O enunciado da Súmula Vinculante 17 não foi afetado pela superveniência da Emenda Constitucional 62/2009, de modo que não incidem juros de mora no período de que trata o § 5º do art. 100 da Constituição. Havendo o inadimplemento pelo ente público devedor, a fluência dos juros inicia-se após o "período de graça"."
+4. Além disso, esta CORTE já decidiu que a imposição de juros moratórios firmada na sentença com trânsito em julgado não impede a incidência da jurisprudência do SUPREMO TRIBUNAL FEDERAL, que afastou a caracterização da mora no prazo constitucional para pagamento de precatórios.
+5. Agravo Interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final).
+(ARE n. 1.415.991 AgR, relator Ministro Alexandre de Moraes, Primeira Turma, julgado em 13/3/2023, DJe de 15/3/2023.)
+Desse modo, estando o acórdão recorrido na mesma direção da jurisprudência firmada pela Suprema Corte, é impossível a admissão desta insurgência.
+Por fim, registro a existência de publicação produzida pela Secretaria de Comunicação Social do Superior Tribunal de Justiça sobre a análise dos recursos extraordinários interpostos contra julgados desta Corte Superior, conteúdo de eventual interesse das partes, disponível para acesso por meio do QR Code a seguir:
+Ante o exposto, nos termos do art. 1.030, V, do Código de Processo Civil, não admito o recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO CONSTITUCIONAL. JUROS DE MORA. INCIDÊNCIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO NÃO ADMITIDO.
