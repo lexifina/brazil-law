@@ -1,0 +1,21 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO FEDERAL interpõe agravo regimental contra a decisão de fls. 104-106, por meio da qual concedi a ordem de habeas corpus.
+Em suas razões, o Parquet defende que a correta interpretação do Decreto n. 11.302/2022 obsta a aplicação do entendimento adotado por esta Corte Superior a partir do julgamento do AgRg no HC n. 856.053/SC, pois "é possível constatar que, nas hipóteses em que o Chefe do Poder Executivo Federal quis fazer menção expressa ao instituto do "concurso de crimes", ele efetivamente o fez" (fl. 121).
+Aduz que a expressão "concurso", contida no parágrafo único do art. 11 do Decreto Presidencial n. 11.302/2022, "deve ser interpretada como "concorrência de penas" ou "concomitância de penas", sem desconsiderar a parte inicial do parágrafo único do art. 11" (fl. 121). E conclui que, após a unificação das penas, "não será concedido indulto natalino a crime não impeditivo enquanto a pessoa condenada não cumprir a sanção corporal pelo delito impeditivo do benefício" (fl. 121).
+Menciona julgados do Supremo Tribunal Federal no sentido de sua tese.
+Requer a reconsideração da decisão impugnada e, subsidiariamente, o provimento do agravo regimental, a fim de que seja cassado o decisum que concedeu a ordem de habeas corpus.
+Decido.
+Exerço o juízo de reconsideração.
+Nos autos da SL n. 1.698/RS, em julgamento realizado aos 21/2/2024, o Plenário do Supremo Tribunal Federal, por unanimidade, determinou a
+suspensão imediata das ordens concedidas pelo STJ nos habeas corpus n. 870.883, 872.808, 875.168 e 875.774, nos termos do voto do Relator, Ministro Luís Roberto Barroso.
+No intuito de preservar a segurança jurídica em torno da interpretação dada ao art. 11, parágrafo único, do Decreto n. 11.302/2022, o órgão de instância máxima decidiu que deve prevalecer a compreensão no sentido da impossibilidade da concessão do indulto quando, realizada a unificação de penas, remanescer o cumprimento da reprimenda referente aos crimes impeditivos para a concessão do benefício, listados no art. 7º do referido decreto.
+O paciente cumpre pena total de 17 anos e 20 dias de reclusão, em razão de quatro condenações criminais distintas, todas por crimes patrimoniais, sendo três delitos de roubo e um de furto.
+O Magistrado de origem indeferiu o benefício pleiteado pela defesa do reeducando, pois, "o sentenciado não cumpriu a pena do crime impeditivo pelo qual é condenado, o que obsta a declaração da benesse" (fl. 14).
+O Tribunal ratificou o entendimento supra.
+O entendimento adotado pelas instâncias ordinárias está em consonância com o precedente do Pleno do STF e suas razões de decidir, razão pela qual é incabível a concessão da ordem.
+O art. 5º, XLVI, da CF estabelece que a lei regulará a individualização da pena, o que também ocorre na fase da execução, para fins de declaração do indulto e de outros benefícios. Nos termos do art. 11, parágrafo único, do Decreto Presidencial n. 11.302/2022: não será concedido indulto natalino correspondente a crime não impeditivo enquanto a pessoa condenada não cumprir a pena pelo crime impeditivo do benefício, na hipótese de haver concurso com os crimes a que se refere o art. 7º, ressalvada a concessão fundamentada no inciso III do caput do art. 1º.
+O art. 69 do CP assinala que, quando o agente pratica dois ou mais crimes, aplicam-se cumulativamente as penas. Não existem as exigências de mesmo contexto fático, unidade de desígnios ou similares condições de tempo em lugar. Assim como ocorre na continuidade delitiva, não é necessária a afirmação fática na sentença. Também na fase de execução, a prática de vários crimes pelo mesmo agente pode ser verificada, com a unificação das penas, caracterizada a situação do concurso material de crimes.
+Portanto, observada a interpretação do Plenário do STF, restabeleço a minha antiga compreensão, anterior ao julgamento do AgRg no HC n. 856.053/SC, de que, em caso de condenações em processos diversos, é imprescindível o integral cumprimento das penas dos crimes impeditivos para se permitir o indulto das reprimendas relativas aos demais.
+À vista de exposto, em juízo de reconsideração, torno sem efeito a decisão agravada e denego o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
