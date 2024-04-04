@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ALAN RONALDO DAS CHAGAS COSTA contra decisão de Desembargador do Tribunal de Justiça do Estado do Pará, proferida nos autos do habeas corpus n. 0803561-95.2024.8.14.0000.
+Consta dos autos: (i) que a prisão preventiva do ora paciente foi inicialmente requerida pela autoridade policial, no ano de 2013, em função do aparente cometimento de um latrocínio consumado, como o executor material dos disparos de arma de fogo que ceifaram a vida da vítima, associado à imediata evasão do então suspeito do distrito da culpa; (ii) que a medida cautelar extrema foi mantida pelo juízo de primeira instância ao fundamento de que não havia falar em ofensa ao art. 226 do CPP, tampouco em desaparecimento do risco à ordem pública; e (iii) que o relator do feito na instância originária indeferiu o pedido liminar, considerando que as informações constantes dos autos não permitiriam a plena compreensão da controvérsia.
+Nesta oportunidade, a defesa afirma a insuficiência dos indícios relativos ao fumus comissi delicti e ao periculum libertatis, enfatizando que se trata de réu primário, com residência fixa e ocupação lícita, e de fatos ocorridos há mais de dez anos.
+Diante disso, em liminar e no mérito, pede que o cárcere seja relaxado.
+É o relatório. Decido.
+A jurisprudência do Superior Tribunal de Justiça, na esteira da Súmula 691 do Supremo Tribunal Federal, aplicável por analogia, entende que não cabe habeas corpus contra decisão que indefere liminar na instância de origem: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+No caso destes autos, trata-se de prisão preventiva imposta em função de latrocínio consumado e de réu que, além de supostamente ter fugido do distrito da culpa logo após realizar os disparos de arma de fogo que ceifaram a vida da vítima, seria "filiado a uma gangue que possui envolvimento com outros crimes", circunstância que também teria sido mencionada por testemunhas que expressaram receio em prestar declaração incriminadora (e-STJ fl. 37).
+Diante desse resumo, não há falar em teratologia ou manifesta insuficiência da fundamentação relativa ao fumus comissi delicti ou ao periculum libertatis, não sendo o caso de superação da Súmula n. 691 do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
+EMENTA
