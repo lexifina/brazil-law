@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar, impetrado em favor de KEVIN HENRIQUE DOS SANTOS, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2015439-80.2024.8.26.0000 ).
+Consta dos autos que o paciente foi preso preventivamente em razão da suposta prática do crime de tentativa de homicídio por motivo fútil.
+O habeas corpus apresentado pela defesa foi denegado por meio de acórdão assim ementado (e-STJ fl. 28):
+HABEAS CORPUS HOMICÍDIO QUALIFICADO: pleito visando a revogação da prisão preventiva, mediante a aplicação de medidas cautelares alternativas ao cárcere, se o caso, em face da ausência dos requisitos autorizadores da segregação cautelar e inidoneidade na fundamentação da decisão que decretou a constrição cautelar máxima afastamento decisum devidamente fundamentado - custódia preventiva necessária para garantir a ordem pública e aplicação da lei penal ausência de constrangimento ilegal ORDEM DENEGADA.
+A defesa alega, em síntese, ausência de fundamentação para a prisão preventiva do paciente. Destaca não estarem presentes os requisitos necessários para a imposição da medida extrema, previstos no art. 312 do CPP. Ressalta a existência de condições pessoais favoráveis e a suficiência das medidas cautelares alternativas à prisão.
+Requer, liminar e definitivamente, o deferimento da ordem para que seja revogada a prisão preventiva do paciente, com ou sem a imposição das medidas cautelares alternativas.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal. Veja-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. GENITOR. IMPRESCINDIBILIDADE DE CUIDADOS AO FILHO MENOR NÃO DEMONSTRADA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. RECURSO DESPROVIDO.
+I - A Primeira Turma do Supremo Tribunal Federal firmou orientação no sentido de não admitir a impetração de habeas corpus substitutivo ante a previsão legal de cabimento de recurso pertinente. Precedentes.
+II - O art. 318, inciso VI, do Código de Processo Penal dispõe que o magistrado poderá substituir a prisão preventiva pela domiciliar quando o agente for homem, caso seja o único responsável pelos cuidados do filho de até 12 (doze) anos de idade incompletos.
+III - No caso dos autos, conforme consignado pelo Tribunal a quo a defesa não se desincumbiu do ônus de demonstrar a imprescindibilidade do ora agravante aos cuidados de seus filhos.
+IV - Para desconstruir as conclusões alcançadas na origem seria necessário o revolvimento da matéria fático-probatória do caso em apreço, providência que é vedada em sede de habeas corpus.
+Agravo regimental desprovido.
+(AgRg no HC n. 764.589/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024). Grifos acrescidos.
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que não se verifica de plano na hipótese dos autos.
+Do voto condutor do acórdão atacado extraem-se os seguintes trechos de relevo, cujos pontos ora destacados passam a integrar a presente fundamentação:
+In casu, forçoso admitir que Kevin teve a prisão preventiva decretada por situação que faz presumi-lo ser autor do crime de homicídio qualificado, na forma tentada, cujos elementos concretos extraídos dos autos, evidenciado no modus operandi do ato criminoso, denotam a gravidade sensível do delito, periculosidade em concreto, maior reprovabilidade da conduta, justificando a necessidade de custódia preventiva para acautelar a ordem pública, vislumbrando, igualmente, que outras medidas cautelares alternativas ao cárcere se mostram ineficazes ao caso em tela. Sem olvidar que se trata de paciente reincidente em crime doloso (tráfico de drogas privilegiado, fl. 287).
+Não só, o fato de o paciente ter se evadido após os fatos, mantendo-se em local incerto e não sabido, justificam a decretação da prisão preventiva para assegurar a aplicação da lei penal, restando claro risco de fuga do distrito da culpa.
+No caso dos autos, verifico que a prisão preventiva foi adequadamente motivada, a fim de coibir a reiteração delitiva, tendo em vista que, conforme destacado pelo Tribunal de origem, trata-se de réu reincidente.
+Verifica-se, ainda, a necessidade da custódia a fim de assegurar a aplicação da lei penal, uma vez que, consoante firmado no acórdão impugnado, o recorrente está foragido.
+Nesse contexto, forçoso concluir que a prisão processual está devidamente fundamentada na garantia da ordem pública e da aplicação da lei penal, não havendo falar, portanto, em existência de evidente flagrante ilegalidade capaz de justificar a sua revogação e tampouco em aplicação de medida cautelar alternativa.
+A propósito, vejam-se o seguintes precedente:
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. FUNDAMENTOS DA PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA AÇÃO DELITUOSA. MODUS OPERANDI. PERICULOSIDADE SOCIAL. RÉU REINCIDENTE ESPECÍFICO. GARANTIA DA ORDEM PÚBLICA. PRISÃO TEMPORÁRIA NÃO CUMPRIDA. INVESTIGADO FORAGIDO. NECESSIDADE DE ASSEGURAR A APLICAÇÃO DA LEI PENAL. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Diz a jurisprudência do Superior Tribunal de Justiça que toda prisão imposta ou mantida antes do trânsito em julgado de sentença penal condenatória, por ser medida de índole excepcional, deve vir sempre baseada em fundamentação concreta, isto é, em elementos vinculados à realidade.
+2. No caso, a custódia cautelar está devidamente fundamentada na garantia da ordem pública, dada a gravidade concreta do crime (modus operandi) e a periculosidade do agente, aferível a partir da sua reiteração na prática delitiva (reincidente específico); além da necessidade de garantir a aplicação da lei penal, tendo em vista a condição de foragido do acusado.
+3. Agravo regimental improvido.
+(AgRg no RHC n. 161.964/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 19/4/2022, DJe de 25/4/2022.)
+Destaca-se, ainda, que "o fato de o acusado possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento do Superior Tribunal de Justiça" (AgRg no HC n. 865.097/SE, Rel. Min. Ribeiro Dantas, Quinta Turma, j. em 18/12/2023, DJe de 20/12/2023).
+Pelo exposto, não conheço do habeas corpus e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+ EMENTA
