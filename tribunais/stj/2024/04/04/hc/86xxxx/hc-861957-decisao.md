@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 13):
+APELAÇÃO CRIMINAL - ABANDONO DE INCAPAZ (ART. 133, § 2º, II DO CÓDIGO PENAL) - RECURSO EXCLUSIVO DA DEFESA - PLEITO ABSOLUTÓRIO FUNDADO EM ALEGAÇÃO DE INSUFICIÊNCIA PROBATÓRIA - MATERIALIDADE E AUTORIA DELITIVAS COMPROVADAS - GENITORA QUE DEIXOU DUAS CRIANÇASDE 02 (DOIS) E 06 (SEIS) ANOS DE IDADE SOZINHAS DURANTE O DIA PARA INGERIR BEBIDA ALCÓOLICA - SITUAÇÃO DE PERIGO DEVIDAMENTE TESTIFICADA NOS AUTOS - DEPOIMENTOS DAS TESTEMUNHAS COERENTES COMO RESTANTE DO ACERVO PROBATÓRIO COLACIONADO AO IN FOLIO - MANUTENÇÃO DA CONDENAÇÃO - RECURSO CONHECIDO E IMPROVIDO.
+Consta dos autos que a paciente foi condenada como incursa no artigo 133, § 3º, II, do Código Penal, por duas vezes em concurso formal, à pena de 9 meses e 10 dias de detenção, em regime inicial aberto, substituída por uma pena restritiva de direitos, consistente na prestação de serviços à comunidade.
+A impetrante alega flagrante ilegalidade diante da ausência de fundamentação idônea para justificar a condenação, pois que não restou configurado o perigo concreto ou risco à saúde ou à vida das crianças menores.
+Requer a concessão da ordem para a absolvição da paciente.
+A liminar foi indeferida, a autoridade coatora prestou as informações, e o Ministério Público Federal manifestou-se pela denegação da ordem.
+É o relatório.
+Decido.
+No tocante à prática do delito de abandono de incapaz, a sentença condenatória está fundamentada (fls. 70-80):
+Diante da prova oral produzida, verifica-se que os policiais militares, ao chegarem no local, encontraram as crianças sozinhas em casa, sujas, pedindo alimentação, sendo que a situação ocorreu desde cedo da manhã e, mesmo com a presença do Conselho Tutelar e da Polícia Militar, a genitora sequer apareceu ao local onde estavam as crianças. Ademais, percebe-se que as declarações de Jair Batista Celestinho e Manniel Luiz Teles Aguiar estão em consonância ao que anteriormente relataram perante a Autoridade Policial ainda na fase pré-processual (pp. 12/13 e 15/16), o que dá maior robustez nas declarações prestadas.
+Acrescenta-se ainda que na escuta especializada (pp. 36/37), realizada em fase investigativa, consta que "(..) Laís afirma que sua mãe as vezes deixava as duas sozinhas, quando Laís chegava da escola ficava tomando conta da sua irmã junto com sua avó (materna) essa que trazia quentinha e colocava o almoço de Laís e a mamadeira de sua irmã (..)".
+Por sua vez, a Defesa argui que não houve abandono, já que estavam sob o amparo de familiares (tio, avó). Apesar do esforço da argumentação, tal tese não deve ser acolhida, pois a testemunha Manoel Luiz Teles Aguiar relatou que o apontado tio das crianças sequer possuía cópia da chave da casa, o que demonstra claramente que a acusada não deixou as infantes sob os cuidados daquele.
+Portanto, configurada está a materialidade e autoria delitiva do crime de abandono de incapaz, já que as crianças foram abandonadas na residência sem qualquer vigilância de um adulto e ainda incapazes de defender-se dos riscos daquela situação.
+Por sua vez, quanto à pretensão de absolvição da paciente, o Tribunal de origem negou provimento ao apelo defensivo, sob o seguinte entendimento (fls. 13/18):
+Na hipótese, a materialidade e a autoria delitivas restaram devidamente comprovadas nos autos, não obstante a acusada tenha negado o abandono das filhas.
+(..)
+Acrescenta-se ainda que na escuta especializada (pp. 36/37), realizada em fase investigativa, consta que "(..) Laís afirma que sua mãe as vezes deixava as duas sozinhas, quando Laís chegava da escola ficava tomando conta da sua irmã junto com sua avó (materna) essa que trazia quentinha e colocava o almoço de Laís e a mamadeira de sua irmã (..)".
+Na espécie, verifica-se que as provas coligidas demonstraram, quantum satis, atipicidade da conduta e a responsabilidade criminal da Ré, pois é irrefutável que omitiu a assistência devida às suas filhas, menores e incapazes de se defenderem dos riscos resultantes de tal conduta.
+Frise-se que a testemunha Manoel Luiz Teles Aguiar relatou que "o apontado tio das crianças sequer possuía cópia da chave da casa, o que demonstra claramente que a acusada não deixou as infantes sob os cuidados daquele".
+(..)
+Somado a isso, há de se ressaltar ainda que após consulta ao acervo probatório anexado aos autos, constata-se que há sentença de mérito prolatada nos autos de nº 202111600626, que decreta a suspensão do poder familiar da ré em relação às vítimas, com a concessão da guarda definitiva das ofendidas ao irmão materno Leonardo Luiz Santos Silva. Ademais, de acordo com o Termo de Audiência de fl. 231, decretou-se a revelia da ré, ora Recorrente.
+Como se vê, as instâncias ordinárias trouxeram fundamentação idônea para a manutenção da condenação da paciente, porquanto, ficou suficientemente evidenciado a autoria e a materialidade na prática do crime de abandono de incapaz, ressaltando-se que os policiais encontraram as crianças sozinhas em casa, sujas, pedindo alimentação, sendo que a situação ocorreu desde cedo da manhã e, mesmo com a presença do Conselho Tutelar e da Polícia Militar, a genitora sequer apareceu ao local onde estavam as crianças.
+Desse modo, não se constata ilegalidade flagrante que justifique a concessão da ordem.
+No que diz respeito à tese defensiva da ausência de demonstração de perigo concreto ou da situação de risco às crianças, constata-se que o tema não foi examinado pelo Tribunal de origem, não devendo ser apreciada diretamente por esta Corte para não se incorrer em indevida supressão de instância. Ademais, para analisar esse argumento, seria necessária dilação probatória, o que não se admite na via do habeas corpus, conforme jurisprudência desta C orte Superior.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
