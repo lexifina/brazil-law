@@ -1,0 +1,23 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por OI MÓVEL S.A. - EM RECUPERAÇÃO JUDICIAL, contra decisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu o Recurso Especial manejado em face de acórdão assim ementado:
+EMENTA: CONSTITUCIONAL E ADMINISTRATIVO. INSTALAÇÃO DE ESTAÇÃO RÁDIO-BASE. COMPETÊNCIA LEGISLATIVA. EXIGÊNCIA DE COMPENSAÇÃO AMBIENTAL. PLANTIO DE VINTE ESPÉCIMES ARBÓREOS. ADMISSIBILIDADE. RAZOABILIDADE. INTERESSE LOCAL. SENTENÇA CONFIRMADA. APELO DESPROVIDO.
+- A despeito da competência privativa da União em legislar sobre telecomunicações, é da competência do Município legislar sobre assuntos de interesse local, suplementar a legislação federal e estadual, no que couber, promover adequado ordenamento territorial, mediante planejamento e controle do uso, do parcelamento e da ocupação do solo urbano, bem como proteger o meio ambiente (arts. 23, VI, 30, 1, II, VIII, CF).
+- Assim, se as normas locais que regulamentam a instalação de estações rádio-base (ERBs) preveem compensações ambientais, dentro de um critério de razoabilidade e observado o interesse local, não há como afastar a obrigação de fazer exigida pelo Município da concessionária de telefonia móvel e que consiste no plantio de vinte espécimes arbóreos ou fornecer materiais/bens que contribuam para o melhor aproveitamento das áreas verdes municipais" (fl. 1.073e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 1.087/1.116), os quais restaram rejeitados (fls. 1.283/1.299).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte recorrente aponta violação aos seguintes dispositivos legais: a) arts. 1º, 8º e 19 da Lei 9.472/1997, b) arts. 7º, 9º, XIV e 13 da Lei Complementar 140/2011, c) arts. 4º, II , 9º e 18 da Lei Federal 13.116/2015 e d) art. 4º da Lei Federal 11.934/09, além dos julgamentos das ADI"s 2.902, 3.110 e ADPF"s 731 e 732 pelo STF.
+A parte recorrente afirma que o município de Belo Horizonte é incompetente para instituir e/ou exigir licenciamento ambiental para as atividades de telefonia móvel, e consequentemente, para editar legislação local ou exigir condicionantes para o licenciamento. Alega que apenas a União pode instituir os parâmetros e exigências para fins de licenciamento das antenas de telecomunicações.
+Acrescenta que, embora o acórdão recorrido tenha fundamentado a possibilidade doe ente municipal instituir procedimento próprio de licenciamento e fiscalização de Estações Rádio Base com fulcro na existência de interesse local (artigo 30 da Constituição Federal, tal entendimento ofende a Lei Complementar 140/2011 e também os artigos 4º, II, 9º e 18 da Lei Federal 13.116/2015, bem como a Lei Federal 11.934/09.
+Contrarrazões a fls. 1.447/1.450.
+O Recurso Especial foi inadmitido, na origem (fls. 1.457/1.461), com base no enfoque eminentemente constitucional da controvérsia, o que ensejou a interposição do presente agravo (fls. 1.470/1.485).
+Contraminuta a fls. 1.509/1.518.
+Ultrapassados os requisitos de admissibilidade do Agravo, passa-se à análise do próprio Recurso Especial.
+Conforme se pode extrair da fundamentação do acórdão recorrido, a controvérsia foi dirimida, pelo Tribunal de origem, sob enfoque eminentemente constitucional, competindo ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal.
+Destaco ser inviável o exame da insurgência, tal como posta, em sede de Recurso Especial, visto que esta Corte Superior volta-se à uniformização da legislação infraconstitucional. Ilustrativamente:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. REAJUSTE DE VANTAGEM PESSOAL INCORPORADA JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL. INVIABILIDADE DO APELO NOBRE.
+1. Não ocorre julgamento extra petita quando o juiz aplica o direito ao caso concreto com base em fundamentos diversos dos apresentados pela parte. Não há falar, assim, em violação dos arts. 128 e 460 do CPC/1973.
+2. O Tribunal de origem decidiu a controvérsia à luz de fundamento eminentemente constitucional (art. 37, XIII, da Constituição Federal), circunstância que torna inviável o exame da matéria em sede de recurso especial.
+3. Agravo interno não provido (STJ, AgInt no REsp 1.478.367/CE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 14/03/2018).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+Deixo de majorar os honorários advocatícios anteriormente fixados em virtude sua fixação em patamar máximo.
+Intimem-se.
+EMENTA
