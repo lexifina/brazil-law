@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto contra o acórdão assim ementado (fls. 427-441):
+HABEAS CORPUS. FURTO QUALIFICADO. AUSÊNCIA DE FUNDAMENTAÇÃO. PRISÃO PREVENTIVA. DECISÃO CONTRÁRIA À MANIFESTAÇÃO MINISTERIAL. PRISÃO DE OFÍCIO. INOCORRÊNCIA. PRINCÍPIO DA PROPORCIONALIDADE E RAZOABILIDADE. NÃO OFENSA. PREDICADOS PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA.
+1. A segregação cautelar foi preservada pelo Juízo a quo para garantia da ordem pública e para assegurar a aplicação da lei penal, vez que evidenciada a provável autoria e materialidade e considerando o modus operandi e a não comprovação em absoluto do local de sua residência, de forma que a decisão encontra-se fundamentada em dados concretos e há preenchimento dos pressupostos e requisitos previstos no artigo 312 do Código de Processo Penal.
+2. A decisão que decretou a prisão preventiva do paciente foi precedida da necessária e prévia provocação do Ministério Público, formalmente dirigida ao Poder Judiciário. No entanto, a douta magistrada singular decidiu pela cautelar máxima, por entender que apenas medidas alternativas seriam insuficientes para garantia da ordem pública. Segundo a jurisprudência das Cortes Superiores, a determinação do magistrado, em sentido diverso do requerido pelo Ministério Público, pela autoridade policial ou pelo ofendido, não pode ser considerada como atuação ex offício, uma vez que lhe é permitido atuar conforme os ditames legais, desde que previamente provocado, no exercício de sua jurisdição  Precedentes, STF- HC 217770 / MG - MINAS GERAIS, HABEAS CORPUS, Relator(a): Min. GILMAR MENDES, Julgamento: 16/11/2022, Publicação: 18/11/2022; STJ - AgRg no HC n. 846.420/AL, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/10/2023, DJe de 5/10/2023; AgRg no HC n. 783.929/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 19/9/2023, DJe de 25/9/2023.
+3. A alegação de que o paciente é primário e que eventual reprimenda futura implicará, quando muito e se existente, regime semiaberto ao paciente, que mantê-lo preso afronta o princípio da razoabilidade e proporcionalidade, razão não assiste ao impetrante, vez que, não cabe a esta Corte proceder com juízo intuitivo e de probabilidade para aferir eventual pena a ser aplicada, tampouco para concluir pela possibilidade de fixação de regime diverso do fechado e substituição da reprimenda corporal, tarefas essas próprias do Juízo de primeiro grau por ocasião do julgamento de mérito da ação penal.
+4. É iterativa a jurisprudência do Supremo Tribunal Federal e Superior Tribunal de Justiça no sentido de as condições subjetivas favoráveis, tais como o emprego lícito, residência fixa e família constituída, não obstam a segregação cautelar.
+5. O monitoramento eletrônico não impede o trânsito e a possibilidade de permanecer cometendo crimes, de forma a demonstrar que as cautelares diversas da prisão não são suficientes para o caso em questão. Assim, indevida a imposição de medidas cautelares diversas da prisão quando a constrição legal se encontra justificada e mostra-se imprescindível.
+HABEAS CORPUS CONHECIDO E DENEGADO.
+O recorrente, em 18/1/2024, foi preso em flagrante pela prática do crime tipificado no art. 155, §§1º e 4º, inciso IV (furto qualificado praticado durante repouso noturno e concurso de pessoas) do Código Penal.
+Argumenta a ilegalidade da prisão preventiva por ausência de fundamento válido, e que são suficientes as medidas diversas da custódia.
+Portanto, requer, liminarmente a soltura com a imposição de medidas cautelares diversas de prisão.
+É o relatório.
+Decido.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+A prisão preventiva foi decretada pelos seguintes fundamentos (fls. 375-382):
+ ..
+Compulsando, detidamente, o opúsculo objurgado extraio como impossível o restabelecimento do ius libertatis de Evandro da Silveira Souza, Layon Martins Rocha e Yander Costa dos Santos.
+Verifica-se que a prisão processual, por ora, é medida imprescindível. A necessidade da custódia preventiva é notória e, ademais, encontram-se satisfeitos nos autos os pressupostos que lhe outorgam legalidade e legitimidade.
+Em consulta à certidão de antecedentes criminais jungida no movimento nº 06, 07 e 08, extraio que :
+  Evandro da Silveira Souza: ostenta execução em trâmite perante a Vara de Execução em Meio Aberto de Goiânia-GO (autos nº 0046578-61.2008.09.0051 - SEEU - por furto), sendo reincidente.
+  Layon Martins Rocha: responde a outro(s) procedimento(s) em trâmite na 1ª Vara dos Crimes Punidos com Reclusão e Detenção de Goiânia-GO (autos nº 5569300- 53.2022.8.09.0051 - por furto qualificado), 9ª Vara dos Crimes Punidos com Reclusão e Detenção de Goiânia-GO (autos nº 5472107-38.2022.8.09.0051 - por furto qualificado), sendo primário.
+  Yander Costa dos Santos: é primário.
+Os artigos 312 e 313 do ordenamento jurídico processual penal enunciam algumas situações de legalidade da segregação provisória nominada de prisão preventiva, a saber:
+ ..
+Para a decretação da prisão preventiva, a lei exige a comprovação do fumus commisi delicti (pressuposto da prisão preventiva), do periculum libertatis (fundamento da prisão preventiva) e a presença das condições de sua admissibilidade esculpidas no artigo 312 do ordenamento jurídico-processual penal.
+Exige o sistema normativo a prova de existência do crime e de indícios suficientes de que o(a) autuado(a) seja o autor(a) da conduta (art. 312, seg. parte, CPP), em outras palavras, o fumus commisi delicti, calcado na prova do crime e em indícios suficientes de sua autoria.
+Extrai-se dos autos, consoante declaração efetivada pela testemunha Wanderson da Silva Freire (Policial Militar), a saber:
+ ..
+No caso sub judice, vergando-me ao acervo probatório carreado ao feito e em consonância com o sistema normativo processual penal pátrio, deve ser decretada a segregação preventiva do(a) autuado(a) em face da garantia da ordem pública, por conveniência da instrução criminal e visando a futura aplicação da lei penal (artigo 312 CPP), bem como pelo fato da reprimenda em abstrato ser superior a 04 (quatro) anos (artigo 313, inciso I, CPP).
+Nesse contexto, o entendimento do e. Tribunal de Justiça do Estado de Goiás, litteris:
+ ..
+A necessidade de manutenção do autuado no cárcere em que se encontra visa a conveniência da instrução criminal e da garantia de aplicação da lei penal, haja vista que não comprovou exercício de atividade laboral lícita antes de sua segregação, tampouco residência fixa no distrito da culpa. Nenhum expediente foi acostado ao feito com tais finalidades.
+Desse modo, resta clara a necessidade de acautelamento do meio social.
+Apenas os predicados pessoais considerados, não têm o condão de autorizar o decreto de outorga de liberdade provisória, conforme entendimento jurisprudencial abaixo:
+ ..
+Subsumindo minha conduta ao entendimento pretoriano sereno de nosso país tenho que a ausência de circunstâncias pessoais favoráveis, tais como ocupação lícita e residência fixa, acrescenta os motivos ensejadores do decreto prisional, existindo nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+Ex positis, consoante o disposto nos artigos 312 e 313 do Código de Ritos em vigor, converto a segregação flagrancial em preventiva, tutelando a garantia da ordem pública, a conveniência da instrução criminal e visando a futura aplicação da lei penal.
+Consta nos autos a prática de furto qualificado pratico em concurso de três agentes e durante o período noturno do veículo FIAT/PALIO/FIRE, cor prata, placas JIS-4877 de Brasília-DF, de propriedade da empresa LUMA AUTO LOCADORA LTDA, veículo que possui rastreador.
+O decreto prisional tem fundamento válido, pois indica a necessidade da custódia para evitar a reiteração delitiva, haja vista que o recorrente ostenta execução em trâmite perante a Vara de Execução em Meio Aberto de Goiânia-GO (autos nº 0046578-61.2008.09.0051 - SEEU - por furto), sendo reincidente.
+Esta Corte tem compreendido que a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
