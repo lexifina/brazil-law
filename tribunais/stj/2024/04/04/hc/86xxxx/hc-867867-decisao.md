@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado (fl. 271):
+APELAÇÃO - ROUBO MAJORADO - RECURSO DEFENSIVO - Pleito de absolvição da ré GABRIELE por insuficiência probatória e de redução das reprimendas - Autoria, dolo e materialidade nitidamente demonstrados - Penas e regime prisional bem fixados, não comportando alteração nesta Sede - Recurso desprovido.
+Consta dos autos que os pacientes foram condenados, em sentença confirmada pela Corte local, às penas individuais de 7 anos, 1 mês e 10 dias de reclusão, em regime inicial fechado, além de 17 dias-multa (JOABE); e de 6 anos, 2 meses e 20 dias de reclusão, em regime inicial fechado, além de 14 dias-multa (GABRIELE), como incursos no art. 157, § 2º, II, do Código Penal.
+Neste writ, requer a Defensoria Pública estadual a readequação da pena-base de ambos os pacientes, sob a alegação de que exasperadas a partir de fundamentação genérica e ínsita ao tipo penal.
+Alega que o regime prisional fechado imposto à paciente Gabriele foi fixado com base em fundamento inerente ao delito de roubo.
+Requer, liminarmente e no mérito, o redimensionamento das penas básicas e o abrandamento do regime prisional da paciente Gabriele.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do writ.
+Relativamente à dosimetria das penas, o voto condutor foi assim entabulado (fls. 279-283):
+As penas também não comportam reparo, eis que calculadas mediante boa ponderação dos critérios legais.
+Na primeira fase, a pena-base de GABRIELE foi fixada em 1/6 acima do piso legal (04 anos e 08 meses de reclusão e 11 dias-multa), tendo em vista a especial intensidade do dolo com que atuaram, revelada pelo fato de terem abordado a vítima em plena via pública e terem empreendido fuga em alta velocidade, o que indica maior destemor e periculosidade. No tocante ao réu JOABE, sua pena-base restou fixada em 1/3 acima do piso (05 anos e 04 meses de reclusão e 13 dias-multa), tendo em vista, também, os seus maus antecedentes (fls. 58/61).
+Cabe realçar, nesse ponto, que não implica "bis in idem" a exasperação da pena com base nos "maus antecedentes" e na "reincidência", circunstâncias modificativas sopesadas em fases diversas da dosimetria e decorrentes de condenações penais distintas.
+Nesse sentido é o entendimento do C. STJ, conforme se extrai do seguinte julgado:
+ ..
+Na segunda etapa, JOABE foi beneficiado com a compensação integral entre a atenuante da confissão espontânea e a agravante da reincidência (v. certidão de fls. 58/61), permanecendo inalterada a sua reprimenda.
+Na terceira etapa, as penas foram corretamente majoradas em 1/3 por força do concurso de agentes (art. 157, § 2º, II, CP), ficando definitivamente estabelecidas nos montantes de 07 anos, 01 mês e 10 dias de reclusão e 17 dias-multa (JOABE) e 06 anos, 02 meses e 20 dias de reclusão e 14 dias-multa (GABRIELE).
+Por fim, não há reparos ao regime inicial fixado para o início do desconto das reprimendas corporais, o fechado, por ser o único que se amolda à gravidade concreta da conduta praticada (roubo praticado em concurso de agentes, seguido de fuga com a motocicleta roubada em alta velocidade por vias públicas), além da personalidade do réu JOABE, que é reincidente (v. supra).
+De fato, os regimes mais brandos (semiaberto e aberto) seriam claramente insuficientes para cumprir as exigências preventivas da pena, considerado o excepcional grau de reprovabilidade do delito de roubo, cuja prática revela do agente profundo desprezo pelos bens jurídicos tutelados pelo respectivo tipo penal(patrimônio, liberdade individual e incolumidade física).
+Daí mostrar-se impossível a reinserção do réu no convívio social sem que, antes, ele permaneça enclausurado durante tempo maior, apenas merecendo a liberdade quando satisfizer os requisitos correspondentes demonstrar que assimilou a terapêutica penal.
+Cabe registrar que o legislador, ao criar o § 3º, do artigo 33, do Código Penal, reservou ao Juiz margem para, à luz do caso concreto, dosar a pena e fixar o regime prisional mais adequado para atendimento dos fins de reprovação e prevenção do crime.
+Além disso, trata-se de crime cuja especial reprovação não se discute, atual causador de grande inquietação na sociedade como um todo, hoje até mesmo em cidades de menor porte, desvelando, de resto, a elevada periculosidade de seus agentes, tudo a exigir resposta estatal agravada, inclusive quanto ao regime prisional:
+ ..
+Considerando-se, enfim, que havia lastro probatório suficiente para embasar a condenação, e porque o r. juízo "a quo" aplicou reprimendas bem ajustadas à espécie, fixando regime inicial adequado, deve ser repelido o inconformismo da defesa.
+Ante o exposto, NEGO PROVIMENTO ao recurso, mantendo-se a r. sentença na íntegra.
+Já se manifestou essa Corte no sentido de que a fuga realizada em alta velocidade extrapola as elementares do delito de roubo, tendo em vista a maior exposição a perigo da coletividade que casualmente estiver nas imediações do fato. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. DECISÃO AGRAVADA QUE REDUZIU AS PENAS DO RÉU. IRRESIGNAÇÃO MINISTERIAL. PENA-BASE. NEGATIVAÇÃO DA CULPABILIDADE, ADOÇÃO DE AUMENTO SUPERIOR A 1/6 POR VETORIAL NEGATIVADA, E FIXAÇÃO DE ACRÉSCIMO SUPERIOR AO MÍNIMO LEGAL PELO CONCURSO DE AGENTES. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. DECISÃO MONOCRÁTICA MANTIDA. AGRAVO NÃO PROVIDO.
+1. Agravo regimental interposto pelo Ministério Público do Estado de Goiás contra decisão que concedeu a ordem, de ofício, para reduzir as penas do paciente.
+2. No caso dos autos, não obstante a prática delitiva tenha extrapolado os limites da normalidade, a descrição empregada melhor se amolda apenas aos vetores circunstâncias do delito (consubstanciada no fato de ter sido o crime praticado em estabelecimento comercial, na presença de clientes) e consequências do crime (com fundamento no abalo psicológico ocasionado às vítimas que, além de terem a sua liberdade restringida, foram amedrontadas pelos golpes no simulacro de arma de fogo - tendo uma delas chegado a desfalecer -, bem como na exposição ao perigo de várias pessoas durante a fuga realizada em alta velocidade). Com isso, resta afastado o maior desvalor conferido à culpabilidade do agente.
+3. Não se verifica, na hipótese, a existência de fundamentação apta a justificar o afastamento do parâmetro prudencial de 1/6 para cada circunstância judicial negativada na pena-base.
+4. O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes. No caso dos autos, não se vislumbra a presença de elementos que justifiquem a adoção da fração de 3/8 na terceira fase dosimétrica dos crimes de roubo, uma vez que incidente apenas o concurso de agentes. Assim, não se mostra necessária a exasperação da sanção em fração superior ao mínimo de 1/3.
+5. Agravo regimental não provido.
+(AgRg no HC n. 749.138/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022.)
+Com relação a Joabe, ainda pesam-lhe os maus antecedentes, de modo que a elevação da pena-base em 1/3, em decorrência de duas vetoriais negativas, está em total consonância com a jurisprudência dessa Corte.
+Assim, tendo a pena-base de ambos os pacientes afastado-se do mínimo legal e superado 4 anos de reclusão, o regime fechado é o único que se revela cabível, haja vista expressa disposição constante do art. 33, § 3º, do CP.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
