@@ -1,0 +1,28 @@
+DECISÃO
+JONAS ANDRE KURTZ alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul na Apelação Criminal n. 5000926-08.2014.8.21.0142.
+Consta dos autos que o paciente foi condenado à pena de 3 anos e 4 meses de reclusão, em regime inicial aberto, mais multa, pela prática do crime previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+A defesa aduz, inicialmente, a nulidade da decretação da revelia do acusado, uma vez que não houve intimação regular dele para a audiência de instrução.
+No mérito, sustenta a inexistência de provas suficientes para a condenação por tráfico e, subsidiariamente, a ausência de fundamentação idônea para modular a fração da minorante.
+Deferida a liminar (fls. 290-292), o Ministério Público Federal opinou pela concessão da ordem (fls. 299-301).
+Decido.
+O Juízo singular afastou a nulidade aventada pela defesa nos seguintes termos (fl. 255):
+Em que pese a insurgência defensiva, não há falar em reabertura da instrução processual para colher o interrogatório do acusado Jonas, tendo em vista que a Oficial de Justiça compareceu no endereço declarado pelo réu quando da apresentação da defesa prévia, ou seja, "Rua Nicolau Mentiz, nº 85, Vila Nova, em Igrejinha" (fl. 84 evento 3, PROCJUDIC2), consoante se denota do mandado da fl. 140 (evento 3, PROCJUDIC4). Outrossim, a intimação, da forma em que realizada, foi considerada válida, conforme consignado na ata da audiência, não tendo havido insurgência da defesa no momento oportuno.
+Assim, decreto a revelia do réu Jonas, nos moldes do art. 367 do CPP.
+A Corte estadual, por sua vez, assim manteve a decisão de primeiro grau (fl. 280):
+A combativa defesa alega preliminarmente a nulidade da decisão que decretou a revelia do réu. Ocorre que tal circunstância decorre de expressa previsão legal, pois ao modificar seu endereço sem comunicá-lo ao juízo ou não comparecer na audiência, o processo deveria efetivamente seguir sem sua presença, nos exatos termos estabelecidos pelo art. 367 do CPP.
+No presente feito, o réu foi devidamente citado e intimado no último endereço fornecido por ele situado na Av. Nicolau Mentz, 085, bairro Vila Nova, Igrejinha/RS (evento 3, PROCJUDIC3 fl. 39 e evento 3, PROCJUDIC2 fl. 34) documentos este juntados aos autos quando do oferecimento da defesa prévia, tendo sido devidamente intimado conforme certidão da Oficial de Justiça. Ainda, referida preliminar foi levantada em audiência pelo juízo de origem a qual considerou válida a intimação do acusado que não compareceu em audiência. Assim, não há qualquer ilegalidade a ser reconhecida quanto à revelia decretada.
+Na hipótese, depreende-se dos autos que o paciente não foi interrogado em juízo porque foi decretada sua revelia; entretanto, ele não foi pessoalmente intimado da audiência de instrução. Veja-se, a propósito, o teor da certidão de fl. 182:
+CERTIFICO E DOU FÉ que, em cumprimento ao presente mandado, me dirigi até o endereço indicado, onde procedi a INTIMAÇÃO de JONAS ANDRÉ KURTZ, na forma do art. 274, § único, do NCPC e Enunciado 5º do FONAJE, deixando contrafé no local.
+Com efeito, o art. 274, parágrafo único, do CPC, diz respeito à intimação realizada de forma presumida, não pessoal, como exige o art. 367 do CPP: "Art. 367. O processo seguirá sem a presença do acusado que, citado ou intimado pessoalmente para qualquer ato, deixar de comparecer sem motivo justificado, ou, no caso de mudança de residência, não comunicar o novo endereço ao juízo".
+Ademais, não consta formalmente na certidão que tenha havido mudança de endereço do acusado, tampouco há a informação de quem recebeu a intimação em nome dele.
+Assim, não houve intimação pessoal válida nem constatação adequada sobre a mudança de endereço do acusado para justificar a decretação da revelia dele.
+Destaco, nesse sentido, a manifestação favorável do Ministério Público Federal (fl. 301, grifei):
+Embora no acórdão conste que o oficial de justiça se dirigiu ao endereço fornecido pelo paciente quando notificado para apresentar defesa prévia, o fato é que a certidão confeccionada pelo oficial de justiça (e-STJ, fls. 181-182) não fundamenta de forma idônea que houve mudança de endereço.
+Para a resolução da questão suscitada pela defesa, o Tribunal de origem se limitou a afirmar que o paciente foi intimado no endereço fornecido e que ele mudou de endereço, portanto incidiu a aplicação do art. 367 do CPP.
+Porém não houve indicação de como o oficial de justiça chegou a essa conclusão, haja vista que o acórdão não fornece nenhum detalhe sobre a pessoa que informou a mudança de endereço do paciente ou mesmo outras informações que assegurem a ocorrência do fato.
+Não se desconhece que o oficial de justiça detém fé pública, mas isso não o desincumbe de motivar seus atos, externando de modo objetivo como chegou à conclusão deque o paciente mudou de endereço.
+A simples alegação de que houve mudança de endereço sem especificar as circunstâncias fáticas que o levaram a concluir dessa forma impede o exercício da defesa. Portanto, há evidente nulidade no ato de intimação e consequente prejuízo ao paciente, tendo em vista que foi considerado revel e a audiência de instrução e julgamento prosseguiu sem que pudesse exercer a autodefesa.
+À vista do exposto, concedo a ordem para confirmar a liminar deferida, anular a condenação imposta ao réu no Processo n. 5000926-08.2014.8.21.0142 e determinar a reabertura da instrução, a fim de que, expedida nova intimação pessoal ao acusado, ele tenha a oportunidade de ser interrogado.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+EMENTA
