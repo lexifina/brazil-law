@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de tutela cautelar antecedente por meio da qual NÁDIA MARIA BERTOZZI BORGES pretende a concessão de efeito suspensivo a agravo em recurso especial, para que seja restabelecido o pagamento da complementação de aposentadoria devida à requerente.
+Em suas razões, a requerente assim relatou os fatos:
+(i) A Sra. Nadia Maria ajuizou a demanda originária objetivando o reconhecimento judicial de sua condição de ferroviária na data anterior à sua aposentadoria e a condenação dos Requeridos ao pagamento da complementação de aposentadoria a que faz jus, nos termos das Leis nº. 8.186/1991 e 10.478/2002;
+(ii) A Sra. Nadia Maria ingressou nos quadros da RFFSA em 1979, tendo sido transferida à Companhia Brasileira de Trens Urbanos (CBTU) em 1985, por sucessão trabalhista, e, em 1994, passou a integrar os quadros da Companhia Paulista de Trens Metropolitanos (CPTM), empresa que assumiu o controle do transporte ferroviário coletivo de passageiros, urbano e suburbano do Estado de São Paulo, tendo se aposentado em 24.9.2009;
+(iii) A r. sentença julgou integralmente procedente a demanda originária, "para declarar o direito da  Requerente  ao recebimento da complementação de sua aposentadoria por tempo de contribuição, nos termos da Lei nº. 8.186/91 e 10.478/02" (id. 90561441, grifou-se);
+(iv) Contra a referida sentença, apenas a Requerente interpôs recurso de Apelação, requerendo a inclusão, no cálculo da complementação a que faz jus, dos montantes devidos a título de gratificação adicional por tempo de serviço (anuênios), restando silente a União;
+(v) Ato contínuo, foi proferida a r. decisão monocrática de id. 165395998, que não conheceu da remessa necessária da União, bem como negou provimento à Apelação da Requerente;
+(vi) Após ambas as partes terem oposto Embargos de Declaração, os quais foram rejeitados pela r. decisão monocrática de id. 259589164, foram interpostos os Agravos Internos de id. 267872889 e 268212240, respectivamente, pela União e pela Sr. Nadia Maria;
+(vii) O v. acórdão de id. 274266890reconsiderou a r. decisão monocrática de id. 274266890para conhecer da remessa necessária e lhe dar provimento, julgando improcedente a demanda originária, restando prejudicados os Agravos Internos interpostos por ambas as partes;
+(viii) Contra o referido v. acórdão, a Sra. Nadia Maria opôs Embargos de Declaração, os quais foram genericamente rejeitados pelo Eg. TRF-3, de modo que não restou alternativa à Requerente que não a interposição do Recurso Especial de id. 281717993;
+(ix) A Vice-Presidência do Eg. TRF-3 inadmitiu equivocadamente o Recurso Especial da Sra. Nadia Maria e indeferiu o pedido de efeito suspensivo pleiteado; e
+(x) A Sra. Nadia Maria interpôs Agravo em Recurso Especial e pleiteia, perante esse Eg. STJ, a atribuição de efeito suspensivo ao seu recurso.
+O recurso especial inadmitido foi interposto em face do acórdão assim ementado:
+PREVIDENCIÁRIO. REMESSA OFICIAL CONHECIDA. COMPLEMENTAÇÃO DE APOSENTADORIA. FERROVIÁRIO DA EXTINTA RFFSA. INCABÍVEL PARIDADE COM PROVENTOS DA CPTM.
+- Está sujeita ao duplo grau de jurisdição, não produzindo efeito, senão depois de confirmada pelo Tribunal, a sentença proferida contra a União (artigo 496 do CPC). Trata-se de norma de aplicação obrigatória pelo magistrado, não se sujeitando à preclusão, consoante se depreende da Súmula 423 do STF.
+- Não cabe a dispensa do reexame necessário quando se tratar de sentenças ilíquidas(Súmula 490 do STJ). Decisão monocrática reconsiderada para conhecer da remessa oficial.
+- Na exata dicção do artigo 118, § 1º, da Lei n. 10.233/2001, o montante da complementação de aposentadoria, cujo encargo foi transferido à União, terá como parâmetro, exclusivamente, os valores relativos ao plano de cargos e salários da extinta RFFSA, não se aplicando o padrão remuneratório dos empregados da ativa das empresas para as quais os ex-ferroviários foram transferidos.
+- Não há respaldo normativo a autorizar a equiparação do complemento das aposentadorias dos trabalhadores da ferrovia ao valor percebido pelo pessoal da ativada CPTM, porquanto o paradigma que rege a benesse deve ser o vencimento do quadro de pessoal da extinta RFFSA e, a partir do encerramento total de suas atividades, o regramento aplicável aos benefícios do RGPS. Precedentes.
+- Inversão da sucumbência. Condenação da parte autora ao pagamento de custas processuais e honorários de advogado, arbitrados em 10% (dez por cento) sobre o valor atualizado da causa, conforme critérios do artigo 85 do CPC.
+- Decisão monocrática reconsiderada.
+- Remessa oficial conhecida e provida, para julgar improcedente o pedido.
+- Apelação da parte autora e agravos internos prejudicados. Tutela provisória revogada.
+É o relatório. Decido.
+O Superior Tribunal de Justiça tem admitido, apenas excepcionalmente, a concessão de efeito suspensivo a recurso, exigindo a demonstração do periculum in mora, bem como do fumus boni juris, consistente na plausibilidade do direito alegado e na probabilidade de provimento do recurso ao qual se pretende dar efeito suspensivo.
+No caso, não se verifica a presença do fumus boni iuris, na medida em que a própria requerente afirma que ajuizou ação ordinária visando a condenação dos requeridos ao pagamento da complementação de aposentadoria a que faz jus, nos termos das Leis nº. 8.186/1991 e 10.478/2002 (fl. 7), o que denota que a requerente jamais recebeu a referida complementação de aposentadoria.
+O próprio acórdão recorrido asseverou à fl. 103 que a requerente não recebe a complementação de aposentadoria:
+No caso em apreço, a segurada celebrou originalmente contrato de trabalho com a Rede Ferroviária Federal S/A (RFFSA) em 26/9/1979, consoante Carteira de Trabalho e Previdência Social (CTPS) acostada aos autos. Em 1985 foi transferida, por sucessão trabalhista, à Companhia Brasileira de Trens Urbanos (CBTU)e, em 1994, passou a integrar os quadros da Companhia Paulista de Trens Metropolitanos (CPTM), empresa que assumiu o controle do transporte ferroviário coletivo de passageiros, urbano e suburbano do Estado de São Paulo. Aposentou-se em 24/9/2009.
+Assim, como ex-ferroviária, percebe os proventos de aposentadoria à contado Regime Geral de Previdência Social (RGPS), mas não a complementação nos moldes propostos.
+Também não se sustenta a alegação do periculum in mora, uma vez que, caso o recurso especial da requerente seja provido, esta poderá receber os valores retroativos devidos a título de complementação de aposentadoria devida aos ex-ferroviários da RFFSA.
+Ante o exposto, indefiro o pedido de atribuição de efeito suspensivo.
+Publique-se. Intimem-se.
+EMENTA
