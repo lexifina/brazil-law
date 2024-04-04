@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de reclamação, com pedido liminar, ajuizada por RAFAEL FERNANDO TEIXEIRA MOREIRA com o fim de garantir a autoridade de decisão desta Corte, proferida no HC n. 806.762/SP, a qual determinou que o juízo da execução reapreciasse o pedido de progressão de regime com base nos fatos ocorridos no curso da execução da pena do apenado.
+O reclamante afirma, em síntese, que o Juízo da 1ª Vara das Execuções Criminais de Presidente Prudente, nos autos da Execução n. 7000480-18.2015.8.26.0361, indeferiu, em 11/1/2024, a progressão ao regime semiaberto, com base na gravidade abstrata dos delitos e na longevidade da pena, em desrespeito à decisão proferida por esta Corte no referido habeas corpus.
+Requer, em liminar e no mérito, que seja determinado o deferimento da progressão ao regime semiaberto.
+É o relatório.
+Decido.
+O art. 105, I, "f", da Constituição Federal estabelece que compete ao Superior Tribunal de Justiça "processar e julgar, originariamente, a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões".
+No mesmo sentido, o art. 187 do Regimento Interno desta Corte.
+No caso, a decisão proferida, em 25/5/2023, no HC n. 806.762/SP, determinou que o juízo da execução reapreciasse o pedido de progressão de regime com base nos fatos ocorridos no curso da execução da pena do apenado, conforme se extrai do seguinte trecho:
+" ..  O pedido de progressão de regime foi indeferido, em 21/11/2022, nos seguintes termos:
+"Idêntico pedido de progressão ao regime semiaberto foi indeferido em 02.05.2022 nos autos da Petição digital 1027716-62.2021.8.26.0482, por ausência de méritos subjetivos do sentenciado. Houve interposição de recurso de agravo (0005434-13.2022.8.26.0482), sendo negado provimento em 08.07.2022 em votação unânime.
+Como já foi dito, o sentenciado não reúne méritos subjetivos para a progressão ao regime semiaberto, com longa pena a cumprir pela prática de roubos qualificados, sendo indispensável permanecer por maior período no regime fechado, visando a necessária e adequada reeducação penal.
+Assim, permanecem inalteradas a realidade dos fatos e a situação processual relativamente ao sentenciado.
+Posto isto, não conheço o pedido." (fl. 27)
+A longevidade da pena e a gravidade dos delitos não constituem fundamentação idônea no indeferido do pedido de progressão de regime prisional (cf. AgRg no REsp n. 2.002.906/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022).
+Nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. LONGA PENA A CUMPRIR E GRAVIDADE ABSTRATA DOS DELITOS. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+2. A longevidade da pena e a gravidade abstrata dos delitos praticados, por si sós, não servem como fundamentos para impedir a progressão de regime prisional, devendo ser levados em consideração, para esse fim, os fatos ocorridos no curso da execução penal.
+3. Habeas corpus não conhecido. Ordem concedida, de ofício, para determinar que o Juízo das Execuções Criminais reaprecie o pedido de progressão de regime com base nos fatos ocorridos no curso da execução da pena do paciente.
+(HC n. 699.815/SP, de minha relatoria, Quinta Turma, julgado em 7/12/2021, DJe de 10/12/2021.)
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem, de ofício, em consonância com o parecer do Ministério Público Federal, para determinar que o Juízo das Execuções Criminais reaprecie o pedido de progressão de regime com base nos fatos ocorridos no curso da execução da pena do paciente." (fls. 21/24)
+Na origem, após a realização de exame criminológico, o juízo da execução penal indeferiu, em 11/1/2024, a progressão do ora reclamante ao regime semiaberto, com base, principalmente, no referido exame, mencionando, ao final, o seu inconformismo com a determinação desta Corte, in verbis:
+" ..  Com efeito, o livre convencimento fundamentado está escorado na constatação de que o sentenciado com o cometimento de 07 crimes sequenciais em curto espaço de tempo (no período de 22.07.2013 a 06.08.2013) com utilização de violência e/ou grave ameaça contra a pessoa (roubos qualificados) persiste com potencial lesivo à sociedade.
+Destaco o parecer técnico psicológico:
+""Demonstra processo reflexivo devido ao sofrimento interno e pelas consequências punitivas da prisão. Atualmente procura direcionar sua energia a fins positivos. Assume os delitos, apresenta crítica em construção vislumbrando a extensão negativa de seus atos"" (grifo não consta do original - fls. 82).
+O interessado não demonstra de forma clara e objetiva que tenha assimilado à terapêutica penal e alcançado o senso de responsabilidade necessário para vivenciar regime mais brando.
+Ao que parece a aparente e ainda em construção submissão à terapêutica penal (.. ""processo reflexivo devido ao sofrimento interno e pelas consequências punitivas da prisão"") está ainda sendo estruturada e condicionada tão somente às experiências vivenciadas pelo sentenciado no cárcere (.. Apresenta crítica em construção"").
+Vale dizer o sentenciado mantém comportamento egóico e com a crítica em formação com relação à extensão negativa de seus atos.
+Não há lógica ao ver do Juízo, concluir que em caso de concessão da benesse, o sentenciado não volte a delinquir. Não há segurança alguma nesse sentido. Ademais, a prática criminosa de forma sequencial se deu em ato de agressão e grave ameaça, do que resulta a certeza de sua periculosidade.
+Há mais. Dispõe o art. 589 do CPP:
+""Art. 589 - com a resposta do recorrido ou sem ela, será o recurso concluso ao juiz, que, dentro de dois dias, reformará ou sustentará o seu despacho, mandando instruir o recurso com os traslados que lhe parecerem necessários.
+Parágrafo único.
+Se o juiz reformar o despacho recorrido, a parte contrária, por simples petição, poderá recorrer da nova decisão, se couber recurso, não sendo mais lícito ao juiz modificá-la. Neste caso, independentemente de novos arrazoados, subirá o recurso nos próprios autos ou em traslado. ""
+Como se constata, esgotada a Jurisdição, defeso ao Juízo reformar sua decisão ou exarar outra em conflito com a primeira. Para isso o sistema recursal brasileiro dispôs sobre o duplo grau de Jurisdição, justamente para que a Superior Instância reforme as decisões submetidas aos recursos em geral.
+Nada autoriza concluir, nesta seara, ser possível criar balizas ao julgador de primeiro grau de modo a que refaça suas decisões mediante limites e nortes estabelecidos pela Instância Superior. Haveria assim tumulto processual, com possível implicação no direito recursal do Ministério Público, entre outros obstáculos a semelhante proceder.
+Não é exagero afirmar, ademais, que com tantas travas, limites e observações impostas pelo V Acórdão do Eg. STJ, estaria sendo alijado o julgador de primeiro grau de sua prerrogativa de livre decidir, conforme a interpretação das provas dos autos e seu convencimento, em verdadeira supressão de Instância. Sem dúvida, o caminho escolhido pelo Eg. Superior Tribunal de Justiça convoca à reflexão: se os limites e condicionantes são todas impostos e delimitados pela superior instância, já não é mais o Juiz natural de primeiro grau quem estará julgando, mas a Instância Superior em verdadeiro exercício de "Ghostwriter". A perplexidade não se esgota nesta constatação. Vai além. Que papel terá o recurso neste contexto, que de antemão enfrenta uma decisãode primeiro grau "ditada" pela superior instância  Por qualquer ângulo que se analise a questão, esbarra-se nesses obstáculos intransponíveis.
+Isto posto, com as escusas e respeito à Superior Instância, indefiro a progressão almejada por RAFAEL FERNANDO TEIXEIRA MOREIRA, Matrícula 833.712 atualmente custodiado na Penitenciária de Martinópolis." (fls. 50/52)
+Nesse contexto, não há falar em descumprimento da decisão proferida no HC n. 806.762/SP, visto que o novo indeferimento da progressão de regime, por ausência do requisito subjetivo, está amparado na interpretação dada pelo magistrado ao exame criminológico, cujo mérito deve ser submetido à análise do Tribunal de Justiça do Estado de São Paulo, para que esta Corte Superior possa apreciá-lo.
+Ante o exposto, indefiro liminarmente a reclamação, com fundamento no art. 34, XVIII, "a", do RISTJ.
+Publique-se.
+Intimem-se.
+EMENTA
