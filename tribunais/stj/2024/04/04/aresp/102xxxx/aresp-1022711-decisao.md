@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de agravo interposto por NORCON SOCIEDADE NORDESTINA DE CONSTRUÇÕES S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE cuja ementa guarda os seguintes termos (fls. 323-324):
+CIVIL - Compra de apartamento na planta - Atraso na entregada obra -Prazo: de tolerância - Legalidade - Multa contratual moratória - Cumulação da penalidade contratual com dano materiais e morais - Possibilidade - Precedentes do TJSE e do STJ - Inclusão de taxa de condomínio e IPTU nos danos materiais - Verba devida - Redução da quantia fixada como danos mofais - Apelo dos Autores - Sucumbência imputada por inteiro às Requeridas - Apeio da NORCON e apelação adesiva dos Autores conhecidos e providos parcialmente - Decisão por maioria.
+- Nos termos da jurisprudência deste Tribunal e do STJ, a mora na execução do contrato de compra e venda, consubstanciada no atraso de entrega do imóvel na data acordada, acarreta, além da indenização correspondente à cláusula penal moratória, o pagamento de indenização por lucros cessantes pela não fruição do imóvel durante o tempo da mora da promitente vendedora, danos materiais e danos moral, conforme o caso concreto. Tal entendimento decorre da Súmula 12 deste Tribunal: "E devido o dano moral quando houver atraso na entrega de imóvel superior ao prazo de tolerância previsto no contrato, salvo prova de caso fortuito e força maior, ainda que haja cláusula contratual prevendo a multa moratória, devendo a casuística ser verificada na sua quantificação; quanto aos lucros cessantes devem ser comprovados em cada caso."
+- Existem vários processos pleiteando danos morais e materiais no caso de atraso de obra. O contexto econômico repercute, com grande vigor, na construção civil. Assim, os danos morais devem ser fixados de forma a permitir que haja o pagamento para todos os clientes e não inviabilize a atividade econômica da empresa.
+- Danos morais fixados em R$ 4.000,00 para cada Autor.
+- A sucumbência deve ser imputada totalmente às Requeridas porque os Autores foram vencedores da demanda no que se refere aos danos materiais e morais pleiteados.
+Sem embargos de declaração.
+Nas razões do recurso especial, a recorrente alegou violação dos arts. 186, 410, 411 e 416 do CC, sob a alegação de impossibilidade de acumulação da penalidade contratual e lucros cessantes. Argumentou ainda quanto ao descabimento de danos morais. Acenou com dissídio jurisprudencial.
+Oferecidas contrarrazões (fls. 365-378), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 380-384), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fl. 397), subiram os autos ao STJ, advindo decisão do então relator, Ministro Paulo de Tarso Sanseverino, que determinou o retorno dos autos à origem para aguardar o julgamento do Tema n. 970/STJ.
+Em juízo de conformação, o Tribunal de origem promoveu nova análise da apelação para "ser afastada a condenação em lucros cessantes/aluguel ante a impossibilidade de cumulação com cláusula penal, nos termos do citado tema e considerada a aplicação de cláusula penal pelo juízo de primeiro grau", no que destacou a necessidade de retorno dos autos ao STJ para análise de questão residual (fl. 421):
+Convém lembrar que STJ devolveu os autos à origem para aplicação do tema 971 que trata da possibilidade ou não de inversão, em desfavor da construtora (fornecedor), da cláusula penal estipulada exclusivamente para o adquirente (consumidor), nos casos de inadimplemento da construtora em virtude de atraso na entrega de imóvel em construção objeto de contrato ou de promessa de compra e venda"; não havendo manifestação da Corte Superior (REsp nº 1.661.491 - SE) quanto as demais matérias elencadas no Recurso Especial interposto: o não cabimento do dano moral, faz-se necessário o reenvio do Recurso para o Tribunal superior para a devida análise.
+É, no essencial, o relatório.
+Consoante relatado, cabível a análise tão somente da questão residual relativa aos danos morais, até porque, quanto aos lucros cessantes, não existe mais interesse recursal.
+No ponto, o Superior Tribunal de Justiça possui entendimento no sentido de que o mero inadimplemento contratual não causa, por si só, abalo moral indenizável, mas o excessivo atraso na entrega de unidade imobiliária enseja compensação por dano extrapatrimonial.
+Nesse sentido, cito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. A jurisprudência desta Corte Superior é no sentido de que o simples inadimplemento contratual, em regra, não configura dano moral indenizável, devendo haver consequências fáticas capazes de ensejar o sofrimento psicológico.
+1.1. No caso sub judice, o Tribunal de origem consignou expressamente estar comprovada a demora em quase um ano na entrega de imóvel já quitado e assim a presença dos requisitos necessários à responsabilização da construtora ao pagamento dos danos morais decorrentes do atraso na entrega do imóvel.
+1.2. Para rever tal conclusão seria imprescindível a incursão na seara probatória dos autos, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ.
+ ..
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.042.388/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 30/6/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. IMÓVEL. PROMESSA DE COMPRA E VENDA. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. ATRASO NA ENTREGA DA OBRA SUPERIOR A 4 (QUATRO) ANOS. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 2. MULTAS PREVISTAS NOS ARTS. 1.021 § 4º, E 1.026, § 2º, DO CPC/2015. INAPLICABILIDADE. 3. RAZÕES RECURSAIS INSUFICIENTES. 4. AGRAVO IMPROVIDO.
+1. A Corte de origem concluiu que não seria hipótese de mero dissabor ou simples descumprimento contratual, mas sim ato ilícito causador de danos morais, em razão do atraso excessivo (mais de 4 anos) na entrega do imóvel.
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.285.750/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 14/6/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZATÓRIA. ATRASO EXCESSIVO NA ENTREGA DE IMÓVEL. DANOS MORAIS CONFIGURADOS. QUANTUM INDENIZATÓRIO. RAZOABILIDADE E PROPORCIONALIDADE. AGRAVO INTERNO DESPROVIDO.
+1. O simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas caracterizadoras de lesão extrapatrimonial.
+2. Na hipótese, o atraso de mais de 22 meses, após o período de tolerância, na entrega do imóvel, supera o mero inadimplemento contratual, devendo ser mantida a indenização por danos morais. Precedentes.
+3. No caso, mostra-se razoável o quantum fixado pela instância ordinária, a título de danos morais, correspondente a R$ 5.000,00 (cinco mil reais). Não há que se falar em condenação desproporcional com relação à extensão dos danos sofridos pela parte recorrida, em razão do atraso de mais de 22 (vinte e dois) meses na entrega do imóvel em questão.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.917.023/RJ, relator Ministro Raul Araújo, Quarta Turma, DJe de 7/6/2023.)
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO POR LONGO PERÍODO NA ENTREGA DA OBRA. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAI S. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ. DANOS MORAIS. CONFIGURAÇÃO. SÚMULAS 7 E 568 DO STJ. ALTERAÇÃO DO VALOR DA COMPENSAÇÃO POR DANO MORAL PELO STJ. EXCEPCIONALIDADE NÃO VERIFICADA NA HIPÓTESE. DECISÃO MANTIDA.
+1. Ação de indenização por danos materiais, compensação por danos morais e obrigação de fazer.
+2. O reexame de fatos e provas e a a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+3. A conclusão acerca de que o longo período de atraso na entrega do imóvel objeto do contrato ultrapassou o mero dissabor, gerando dano moral a ser compensado, alinhou-se ao entendimento do STJ quanto à matéria. Súmulas 7 e 568/STJ.
+4. A intervenção do STJ, para alterar valor fixado a título de danos morais, é sempre excepcional e justifica-se tão-somente nas hipóteses em que o quantum seja ínfimo ou exorbitante, diante do quadro delimitado pelas instâncias ordinárias, o que não está caracterizado na hipótese.
+5. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.158.472/MG, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 14/12/2022.)
+No caso dos autos, o Tribunal expressamente consignou que houve atraso na entrega, com destaque no voto vencido que mantinha o valor dos danos morais no patamar fixado na sentença (o voto vencedor minorou o valor fixado) que "há atraso de mais de três anos e meio, devendo ser mantido o valor da indenização por dano moral fixado pelo juízo a quo" (fl. 336).
+A excessiva demora destacada pela Corte de origem é caracterizadora do dano moral, consoante já destacado nos precedentes acima delineados.
+D essarte, estando o acórdão recorrido em sintonia com o entendimento dominante deste Tribunal, aplica-se ao caso o entendimento consolidado na Súmula 568/STJ, in verbis: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que a sentença foi prolatada sob a égide do CPC/1973, o que torna inviável a aplicação de preceitos do art. 85 do CPC/2015, ainda que o especial tenha sido manejado sob a regência do novo código (e xegese dos EAREsp n. 1.255.986/PR, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 6/5/2019).
+Publique-se. Intimem-se.
+ EMENTA
