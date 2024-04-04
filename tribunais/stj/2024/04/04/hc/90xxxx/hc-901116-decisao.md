@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de LEONARDO DOS SANTOS ALTAO apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2068566-30.2024.8.26.0000).
+Depreende-se dos autos que o réu foi condenado à pena de 6 anos, 9 meses e 20 dias de reclusão, no regime inicialmente fechado, pela prática do crime de tráfico de drogas (art. 33, caput, c/c o art. 40, inciso VI, ambos da Lei n. 11.343/2006, e-STJ fl. 42/52).
+Interposta apelação, o Tribunal de origem negou provimento ao recurso (e-STJ fls. 23/41).
+Impetrado posteriormente habeas corpus perante a mesma Corte a quo, a ordem não foi conhecida (e-STJ fls. 19/22).
+Daí o presente writ, no qual sustenta a defesa fazer jus o réu à aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006. Alega, para tanto, ser "evidente a ilegalidade da sentença, na medida em que à época dos fatos, em 28 de abril de 2022, o acusado mantinha sua condição de primariedade, não tendo sido condenado em definitivo por qualquer infração penal. Tal assertiva é corroborada pela documentação constante nos autos, notadamente a certidão de antecedentes penais, a qual revela a existência tão somente de uma denúncia em trâmite no processo nº 1500382-02.2022.8.26.0210" (e-STJ fl. 8).
+Requer, liminarmente e no mérito (e-STJ fl. 17):
+ ..  em sede de liminar e em definitivo, a concessão da ordem em favor do paciente a fim de aplicar a causa especial de diminuição de pena do § 4.º do art. 33 da Lei 11.343/06 em favor do Paciente, de modo que a reduzir a sua pena no patamar de 2/3 na terceira fase da dosimetria penal.
+Como consequência, deve ser abrandado o regime inicial de pena para o regime aberto e determinada a substituição da pena de reclusão por multa e uma restritiva de direitos.
+Subsidiariamente, requer-se determinação ao Tribunal de Justiça do Estado de São Paulo que prossiga no julgamento do HC n. 2068566-30.2024.8.26.0000 e análise, concretamente e de maneira devidamente fundamentada, a eventual ocorrência de ilegalidade manifesta no ato lá apontado como coator.
+É o relatório.
+Decido.
+De saída, é cediço que o Superior Tribunal de Justiça não pode conhecer da questão suscitada no presente habeas corpus, diante da falta de manifestação do Tribunal de origem sobre o tema.
+Nessa alheta, fica impossibilitado o pronunciamento deste Sodalício, sobrepujando a competência da Corte estadual, sob pena de configuração do chamado habeas corpus per saltum, a ensejar supressão de instância e violação dos princípios do duplo grau de jurisdição e do devido processo legal substancial.
+Adequado à espécie, nessa perspectiva, o ensinamento de Renato Brasileiro, que, ao apreciar a matéria, destacou a inviabilidade do "pedido de julgamento de habeas corpus per saltum, ou seja, do julgamento do remédio heroico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único. 4. ed. rev. ampl. e atual. Salvador: JusPodivm, 2016, p. 2.470).
+Nesse mesmo caminhar:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. NULIDADE POR VIOLAÇÃO DE DOMICÍLIO. SUPRESSÃO DE INSTÂNCIA. APLICAÇÃO DA PENA. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO § 4.º DO ART. 33 DA LEI N. 11.343/2006. QUANTIDADE DO ENTORPECENTE E OUTRAS CIRCUNSTÂNCIAS DO CASO CONCRETO. FUNDAMENTAÇÃO IDÔNEA. IMPOSSIBILIDADE DE REVOLVIMENTO FÁTICO PROBATÓRIO. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO DESPROVIDO.
+1. A Corte local não examinou a tese defensiva relativa à alegação de que houve nulidade decorrente da violação de domicílio pelos policiais responsáveis pela prisão. Assim, mostra-se inviável a análise da matéria de forma originária por esta Corte Superior de Justiça, sob pena de indevida supressão de instância.
+2. Como se sabe, "até mesmo matéria de ordem pública pressupõe seu prévio exame, na origem, para que possa ser analisada por esta Corte" (AgRg no HC n. 643.018/ES, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 14/06/2022, DJe 21/06/2022; sem grifos no original).
+ ..
+6. Agravo regimental desprovido.
+(AgRg nos EDcl no HC n. 822.235/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/8/2023, DJe de 21/8/2023.)
+Ademais, consta da sentença que o redutor previsto no § 4º do art. 33 da Lei de Drogas foi afastado "em razão da presença de condenação anterior irrecorrível por tráfico de drogas  .. " - e-STJ fl. 49. No particular, infirmar o referido fundamento, no sentido de considerar "que, à época dos fatos, em 28 de abril de 2022, o acusado mantinha sua condição de primariedade, não tendo sido condenado em definitivo por qualquer infração penal" (e-STJ fl. 8), implica revolver o material fático probatório, expediente defeso na angusta via do habeas corpus.
+Frise-se, outrossim, que o aludido argumento defensivo não foi aventado em embargos de declaração, tampouco no recurso de apelação posteriormente interposto, tendo sido aviado tão somente em ulterior impetração substitutiva de revisão criminal.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBOS TRIPLAMENTE MAJORADOS. DOSIMETRIA DA PENA. EXASPERAÇÃO DA PENA-BASE. PREMEDITAÇÃO, ELEVADO PREJUÍZO ÀS VÍTIMAS, USO DE VIOLÊNCIA REAL E CRIMES COMETIDOS NO INTERIOR DE DIVERSAS CASAS, INTEGRANTES DE UM CONDOMÍNIO. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS DEVIDAMENTE VALORADAS. PRECEDENTES. CRIME ÚNICO. IMPOSSIBILIDADE. CONCURSO FORMAL. DIVERSOS PATRIMÔNIOS ATINGIDOS. PRECEDENTES. REINCIDÊNCIA. AFASTAMENTO NÃO DEMONSTRADO PELA DEFESA. APREENSÃO DA ARMA DE FOGO. UTILIZAÇÃO COMPROVADA PELA PALAVRA DAS VÍTIMAS. RESTRIÇÃO DA LIBERDADE DAS VÍTIMAS POR EXCESSIVO PERÍODO DE TEMPO. REVISÃO QUE IMPLICA INCURSÃO EM MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE NESTA VIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+3. Acerca do afastamento da reincidência do paciente, a defesa não juntou aos autos prova acerca do alegado, de forma que aplica-se ao caso o entendimento no sentido de que, havendo a Corte de origem firmado o seu entendimento, após a análise da documentação acostada aos autos, no sentido de que existiria anotação criminal idônea para a caracterização dos maus antecedentes, a reforma desse juízo de fato, nesta via estreita, dependeria da prova líquida do contrário, que não foi acostada ao habeas corpus (HC 535.030/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/10/2019, DJe 25/10/2019).
+ ..
+6. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 789.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/11/2023, DJe de 13/11/2023, grifei.)
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
