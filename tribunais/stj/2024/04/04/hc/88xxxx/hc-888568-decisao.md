@@ -1,0 +1,31 @@
+DECISÃO
+ALLEF SILVA LIMA alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2335749-68.2023.8.26.0000.
+A defesa pretende a revogação da prisão preventiva do paciente, ainda que com a imposição de cautelares alternativas, ao argumento, em síntese, de que não estariam presentes os requisitos necessários para a imposição da medida extrema.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+Infere-se dos autos que o paciente foi preso em flagrante, em 8/12/2023, pela suposta prática do delito tipificado no art. 121, § 2º, I e IV, c/c os arts. 61, II, "e", e 14, II, todos do CP. O Magistrado de origem homologou o flagrante e converteu a prisão preventiva, para a garantia da ordem pública, considerando a gravidade concreta do crime.
+Formulado pedido de revogação da custódia provisória, este foi indeferido, pois "remanescem os motivos que levaram à decretação da prisão preventiva" (fl. 59). Idêntico pleito foi apresentado com a resposta à acusação, que foi novamente negado, por ausência de modificação do contexto já apresentado.
+O Tribunal estadual ratificou as decisões mencionadas.
+Em consulta à página eletrônica do Tribunal estadual, colheu-se a informação de que novo pedido de revogação do encarceramento ante tempus do réu foi indeferido pelo Juiz de primeiro grau, em 8/3/2024. A audiência de instrução e julgamento está designada para o dia 3/4/2024.
+Feitas tais considerações, passo à análise do pleito defensivo.
+Sobre a matéria posta em discussão, faço lembrar que a prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Na hipótese, as instâncias de origem apontaram, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal e indicaram motivação suficiente e concreta para decretar/manter a cautelar máxima, sobretudo em razão da gravidade concreta do delito, com destaque para o modus operandi empregado na empreitada criminosa, que evidencia a periculosidade do agente - a vítima, após cessada discussão com seu irmão (o acusado) dirigiu-se ao quarto, onde foi golpeado com uma faca no tórax, "região extremamente sensível, e que, ao menos em cognição sumária indica a intenção de matar a vítima" (fl. 45). Destacou-se, ainda, que o ofensor e seu irmão (ofendido), são envolvidos com uso de drogas e ingestão de bebidas alcoólicas, com episódios constantes de desentendimentos.
+Ressalto que o modus operandi do delito também é circunstância apta a justificar a medida extrema, por evidenciar a periculosidade do agente, tal como na espécie. Confira-se: "O Superior Tribunal de Justiça possui entendimento consolidado no sentido de que não há constrangimento ilegal quando a prisão preventiva é decretada em razão da gravidade concreta da conduta delituosa, evidenciada pelo modus operandi com que o crime fora praticado" (HC n. 417.217/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 14/12/2017).
+Ilustrativamente:
+ ..
+1. A custódia cautelar está devidamente fundamentada na garantia da ordem pública, dada a gravidade concreta do crime, a periculosidade do agente e o modus operandi empregado na ação delituosa.
+2. Narram os autos que o autuado, motorista de aplicativo, desferiu múltiplos disparos contra a vítima somente em razão de ela ter discordado do trajeto efetuado durante uma corrida.
+3. Agravo regimental improvido.
+(AgRg no RHC n. 192.966/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/3/2024, DJe de 14/3/2024)
+ ..
+2. Em conformidade com a jurisprudência deste Tribunal, " a  prisão preventiva é cabível mediante decisão devidamente fundamentada e com base em dados concretos quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal. Na hipótese, a custódia cautelar está devidamente fundamentada na garantia da ordem pública, dada a gravidade concreta dos crimes, a periculosidade do agente e o modus operandi." (RHC n. 158.318/ES, relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 29/03/2022, DJe 04/04/2022).
+3. Demonstrada pelas instâncias originárias, com expressa menção às peculiaridades do caso concreto, a necessidade da imposição da prisão preventiva, não se mostra suficiente a aplicação de quaisquer das medidas cautelares alternativas à prisão, elencadas no art. 319 do Código de Processo Penal, mormente se considerado que o crime investigado envolveu violência.
+4. A alegação acerca de eventual ausência de contemporaneidade da prisão preventiva não comporta conhecimento, seja por supressão de instância ou porque, no âmbito do agravo regimental, não se admite que a Parte, pretendendo a análise de teses anteriormente omitidas, amplie objetivamente as causas de pedir formuladas na petição inicial ou no recurso.
+5. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido.
+(AgRg no RHC n. 187.140/ES, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024)
+Concluo, então, haver sido demonstrada a exigência cautelar justificadora da manutenção da prisão preventiva do acusado.
+Por fim, em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais. Nessa perspectiva: "Adequada fundamentação do decisum a quo demonstrando a real possibilidade de reiteração das condutas delitivas, portanto, não se faz viável a substituição da custódia por medidas cautelares diversas da prisão, em razão dos múltiplos riscos à ordem pública" (AgRg na PET no RHC n. 90.040/RJ, Rel. Ministro Felix Fischer, 5ª T., DJe 13/4/2018).
+Diante do exposto, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
+EMENTA
