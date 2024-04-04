@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra decisão do Desembargador do writ originário, que indeferiu o pedido liminar.
+Sustenta a defesa, em suma, que "o Juízo de 1º grau, acolhendo o pleito do diretor do estabelecimento penal, determinou a transferência do Paciente para o RDD, localizado no Conjunto Penal de Serrinha/BA, objetivando supostamente prevenir a ocorrência de infrações penais no interior da instituição prisional" (fl. 4).
+Aduz que "A decisão da 1ª Vara Criminal de Santo Antônio de Jesus/BA endossou, sem individualização, a representação do Diretor do CPV, baseando-se em alegações genéricas sobre desordens no pavilhão A, atribuídas coletivamente aos presos, incluindo Elson Francisco, ora Paciente, sem especificar suas condutas individuais" (fl. 4).
+Afirma que "A flagrante ilegalidade emerge quando a decisão de instância superior endossa, implicitamente, a falta de fundamentação específica ao não abordar criticamente a alegação de que a decisão original se baseou em uma mera citação literal de provimento, sem a análise detalhada das razões que justificariam a aplicação do RDD ao paciente" (fl. 7).
+Segue afirmando que, "No caso de Elson, tal audiência de justificação não ocorreu, tampouco houve intimação para que a defesa pudesse se manifestar em um PAD, o que fere princípios basilares do ordenamento jurídico e compromete a integridade do processo" (fl. 9).
+Requer, liminarmente e no mérito, a concessão da ordem, a fim de que seja anulada a decisão que transferiu o paciente para o regime disciplinar diferenciado.
+Nos termos da Súmula 691 do Supremo Tribunal Federal, em regra, não se admite a impetração de habeas corpus contra decisão que indefere a liminar na origem, sob pena de indevida supressão de instância, ressalvadas as hipóteses em que evidenciada decisão teratológica ou desprovida de fundamentação.
+A decisão que indeferiu a liminar na origem foi fundamentada nos seguintes termos (fl. 13):
+Como se sabe, a concessão de liminar, em sede de habeas corpus, pressupõe a comprovação imediata de ilegalidade cerceadora do status libertatis do indivíduo.
+Nesta linha de raciocínio, faz-se imperioso destacar que, por ser criação jurisprudencial, esta concessão tem "caráter excepcional", advertindo, nesse passo, Ada Pellegrini Grinover1, que, "embora não prevista em lei para o remédio aqui analisado, a concessão de liminar vem sendo admitida pela jurisprudência, em caráter excepcional, sempre que presentes os requisitos das medidas cautelares em geral.
+"Em uma análise preliminar, infere-se dos autos que, em 14.03.2024, a apontada autoridade coatora atendendo ao pedido do Diretor do Presídio de Valença/BA, através do Of. 043/2004, determinou a transferência do Paciente e demais internos para o Conjunto Penal de Serrinha/BA, com o objetivo de evitar a prática de infrações penais dentro da unidade prisional, em decorrência das razões expostas no respectivo ofício.
+Sem qualquer adiantamento do mérito da demanda, não vislumbro, ao menos neste momento, a presença de pressuposto autorizador da tutela de urgência pretendida, mormente porque o fumus boni juris não restou demonstrado, na medida que os documentos juntados aos autos não comprovam, de plano, a pontuada ilegalidade da coação.
+Por fim, imprescindível, pois, aguardar os informes de estilo a fim de melhor analisar a pretensão do presente writ, porquanto o pedido liminar esgota-se no próprio mérito da ação.
+Dessa forma, INDEFIRO o pedido de liminar, remetendo-se, por prudência, em homenagem ao princípio do Colegiado, a apreciação do mérito da matéria à Primeira Câmara Criminal deste Tribunal, para que, em futura análise mais aprofundada, possa, quando do julgamento final deste Habeas Corpus, decidir sobre a ilegalidade, ou não, da medida constritiva combatida.
+Requisitem-se informações junto à autoridade apontada como coatora, a fim de esclarecer o quanto alegado na peça inaugural.
+Após o cumprimento da diligência, encaminhem-se os autos à douta Procuradoria de Justiça, para os devidos fins.
+Como se vê, o relator do Tribunal de origem não verificou de imediato, diante do exame sumário dos elementos que instruem o writ, a presença dos requisitos necessários à concessão da medida urgente, sobretudo o fumus boni iuris, reputando necessárias maiores informações, concluindo, assim, que a matéria de mérito da impetração - transferência do paciente para o regime disciplinar diferenciado - deve ser examinada quando da apreciação e julgamento definitivo do writ.
+Assim, tendo em vista que a decisão que indeferiu o pedido de liminar encontra-se fundamentada, não se constata teratologia ou ilegalidade flagrante apta a autorizar a mitigação da Súmula 691/STF, cabendo ao Tribunal de origem a análise da matéria meritória.
+Outrossim, o processamento do presente writ implicaria inevitavelmente supressão de instância.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
