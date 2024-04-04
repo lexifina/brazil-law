@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado por SILAS GABRIEL MORAIS COSTA e FABRÍCIO DE MORAIS COSTA, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que os pacientes foram presos em flagrante delito, pela suposta prática do crime tipificado no art. 33 e 35, caput, da Lei 11.343/2006. Em audiência de custódia, as prisões foram convertidas em preventivas.
+Sustenta a defesa, em síntese, que a fundamentação para decretação da prisão preventiva do acusado baseia-se no perigo em abstrato do delito de tráfico de drogas. Aduz ausência dos requisitos da custódia cautelar.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja revogada a custódia cautelar, com ou sem a aplicação de medidas cautelares alternativas.
+O Tribunal de Justiça do Estado de São Paulo denegou o writ originário.
+Não havendo divergência da matéria no órgão julgador, cabível seu exame, in limine, pelo relator, nos termos do art. 34, XVIII e XX do RISTJ.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A decisão que converteu a prisão em flagrante em prisão preventiva dos pacientes teve a seguinte fundamentação (fls. 19 e 21):
+Dessa forma, ante a gravidade concreta da infração, a ordem pública estaria gravemente comprometida com a colocação dos autuados em liberdade, demonstrando a insuficiência e inadequação para o caso concreto e aos autuados das medidas cautelares diversas da prisão previstas no art. 319 do CPP, em observância ao inciso II, do art. 282 do CPP.
+Igualmente, as circunstâncias identificam a prática da traficância, considerando a alta lesividade à sociedade em razão da grande e variada quantidade de drogas apreendidas, notadamente 25kg de maconha em 28 tijolos; 500 porções individuais de maconha; um tijolo contendo 500g de cocaína; 200g de crack; além de 3 balanças de precisão; centenas de saquinhos comumente utilizados na embalagem de drogas; R$ 482,00 em dinheiro; circunstâncias que indicam a existência de uma organização criminosa estruturada para esse fim. Desta maneira, ao menos inicialmente, os elementos indicam o envolvimento de Silas e de Fabrício com o tráfico de drogas.
+ ..
+Considerando a gravidade em concreto do crime e as circunstâncias fáticas, demonstrada a periculosidade, entendo plenamente justificada pelas razões apresentadas, a manutenção da custódia cautelar.
+Ante o exposto, presentes os pressupostos e requisitos, com fundamento nos artigos 310, II, 312 e 313, I, do Código de Processo Penal, para garantia da ordem pública, conveniência da instrução criminal e correta aplicação da lei penal, CONVERTO A PRISÃO EM FLAGRANTE EM PREVENTIVA em desfavor de FABRÍCIO DE MORAIS COSTA e SILAS GABRIEL MORAIS COSTA.
+Conforme se observa, o decreto apresenta fundamentação idônea, baseada na garantia da ordem pública, eis que evidenciada a grande quantidade de entorpecentes apreendidas com os pacientes: "25 kg de maconha; meio quilo de cocaína, 200 gramas de crack; dezenas de buchas de maconha, que juntas pesaram meio quilo; 03 balanças de precisão e R$ 480,00 em dinheiro." (fl. 17).
+É entendimento pacífico nesta Corte Superior de que, embora não sirvam fundamentos genéricos (do dano social gerado por tráfico, crime hediondo, ou da necessidade de resposta judicial) para a prisão, podem a periculosidade e riscos sociais justificar a custódia cautelar no caso de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade das drogas apreendidas. Nesse sentido: AgRg no HC n. 786.689/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/2/2023, DJe de 15/2/2023; AgRg no HC n. 776.330/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/2/2023, DJe de 16/2/2023; AgRg no RHC n. 173.924/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 7/2/2023, DJe de 14/2/2023.
+Tais argumentos são suficientes para rechaçar o alegado constrangimento ilegal de que estaria sendo vítima o recorrente, não configurando, portanto, hipótese de substituição da segregação cautelar por medidas cautelares alternativas.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
