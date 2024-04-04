@@ -1,0 +1,19 @@
+DECISÃO
+Na origem, trata-se de agravo de instrumento contra decisão que colheu os embargos declaratórios opostos pela ora agravante para fins de acolher a exceção de pré-executividade, reconhecendo sua ilegitimidade passiva, julgando extinto sem resolução do mérito a execução fiscal. No Tribunal a quo, negou-se provimento ao recurso.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL contra acórdão com o seguinte resumo de ementa:
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. DECISÃO MONOCRÁTICA. RECONSIDERAÇÃO. RECONSIDERO A DECISÃO ATACADA E RECEBO O RECURSO DE AGRAVO DE INSTRUMENTO.
+Ausente impugnação ao crédito tributário, porquanto a ora agravante simplesmente buscou sua exclusão do polo passivo, por ilegitimidade passiva, ao fundamento de que não era sócia administradora da empresa executada à época dos fatos geradores, perfeitamente possível o arbitramento da verba honorária por apreciação equitativa do juiz, forte no artigo 85, § 8º, CPC/15, de acordo com orientação consolidada do Superior Tribunal de Justiça, tendo em vista que o acolhimento da pretensão deduzida não tem correlação com o valor da causa, inviável, assim, estimar o proveito econômico obtido, não deixando de se ajustar a hipótese em apreço, por conseguinte, ao definido quanto ao Tema 1.076, STJ.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Isso porque, na hipótese em apreço, não houve impugnação ao crédito tributário, tendo a ora agravante simplesmente buscado sua exclusão do polo passivo, por ilegitimidade passiva, uma vez que não era sócia administradora da empresa executada à época dos fatos geradores.
+Em tal situação, o Superior Tribunal de Justiça tem entendido ser perfeitamente possível o arbitramento da verba honorária por apreciação equitativa do juiz, forte no artigo 85, § 8º,CPC/15, porquanto o acolhimento da pretensão deduzida não tem correlação com o valor da causa, inviável, assim, estimar o proveito econômico obtido.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ressalte-se ainda que a incidência do enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido: AgInt no AREsp 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
