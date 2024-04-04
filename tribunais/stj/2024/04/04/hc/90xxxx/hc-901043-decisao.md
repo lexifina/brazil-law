@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de FLÁVIO EDUARDO DE SOUZA GOMES contra decisão de Desembargador do Tribunal de Justiça do Estado de Goiás, proferida nos autos do habeas corpus n. 5130019-87.2024.8.09.0051.
+Consta dos autos que o ora paciente foi preso em flagrante pelo aparente cometimento do crime de tráfico de drogas ilícitas, na posse de 977g de maconha, 2.432 comprimidos de MDMA, uma porção e 155 comprimidos de LSD aparentemente destinados ao comércio proscrito, e que sua prisão preventiva foi decretada com ênfase na circunstância de que ostenta condenação penal transitada em julgado e não indicou atividade lícita, tampouco residência fixa.
+Nesta oportunidade, a defesa afirma que os condutores da prisão flagrancial teriam chegado ao ora paciente após devassa ilegítima do telefone celular de outro investigado, evidenciando-se a nulidade das provas então obtidas, bem como a insuficiência dos indícios relativos ao fumus comissi delicti e ao periculum libertatis, enfatizando que se trata de pessoa com residência fixa e trabalho lícito.
+Diante disso, em liminar e no mérito, pede que o cárcere seja relaxado.
+É o relatório. Decido.
+A jurisprudência do Superior Tribunal de Justiça, na esteira da Súmula 691 do Supremo Tribunal Federal, aplicável por analogia, entende que não cabe habeas corpus contra decisão que indefere liminar na instância de origem: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+No caso destes autos, trata-se de prisão preventiva imposta diante da apreensão de quantidade variada de tóxicos proscritos, aparentemente destinados à venda, na posse de pessoa que estava cumprindo pena por condenação transitada em julgado, o que efetivamente pode, ao menos em tese, justificar o receio quanto à reiteração delitiva.
+Quanto à alegada nulidade da prisão em flagrante, a defesa se refere a elementos que não constam da decisão que impôs sua prisão preventiva, tampouco do ato ora apontado como coator, tendo sido extraídos exclusivamente da versão de coinvestigado perante a autoridade policial, de modo que esse ponto específico demandaria dilação probatória interditada nesta via jurisdicional.
+Diante desse resumo, não há falar em teratologia ou manifesta insuficiência da fundamentação relativa ao fumus comissi delicti ou ao periculum libertatis, não sendo o caso de superação da Súmula n. 691 do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
+EMENTA
