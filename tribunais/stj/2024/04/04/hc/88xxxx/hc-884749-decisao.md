@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de EMELINE GASSNER, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (HC N. 50582084320238240000) - fl. 73:
+HABEAS CORPUS. ILEGALIDADE DOS ELEMENTOS INFORMATIVOS. BUSCA VEICULAR E DOMICILIAR. MATÉRIA NÃO SUBMETIDA AO JUÍZO A QUO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE MÁCULA FLAGRANTE. NÃO CONHECIMENTO.
+"A prestação jurisdicional de segundo grau cinge-se apenas aos comandos decisórios que tenham sido examinados, de sorte que a matéria não discutida em primeira instância não pode ser analisada, sob pena de se configurar a supressão de instância" (TJSC, Habeas Corpus n. 5017907-59.2020.8.24.0000, rel. Des. Luiz Antônio Zanini Fornerolli, Quarta Câmara Criminal, j. em 23/7/2020).
+PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. EXIGÊNCIAS DO ART. 312 DO CÓDIGO DE PROCESSO PENAL PREENCHIDAS. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DO DELITO. INDICATIVOS DE HABITUALIDADE E ENVOLVIMENTO COM ORGANIZAÇÃO CRIMINOSA. RISCO DE REITERAÇÃO DELITUOSA. FALTA DE CONTEMPORANEIDADE.
+INOCORRÊNCIA.
+1. A gravidade concreta do delito supostamente perpetrado, evidenciada pelas suas circunstâncias, que sugerem habitualidade e envolvimento com organização criminosa, revela a necessidade da prisão preventiva para salvaguardar a ordem pública e a insuficiência das medidas cautelares mais brandas.
+2. Os predicados positivos da paciente, malgrado importem para aquilatar a medida cautelar mais adequada, não bastam, por si sós, para afastar a imprescindibilidade da segregação.
+3. Como a prisão preventiva foi decretada no limiar dos acontecimentos, mediante a conversão da prisão em flagrante, e a necessidade de sua manutenção foi alicerçada na persistência do risco à ordem pública, não se pode falar em falta de contemporaneidade, que deve ser examinada tanto com base no tempo entre os fatos e o decreto prisional, como também pela permanência da cautelaridade.
+CONCESSÃO DA PRISÃO DOMICILIAR. MULHER COM FILHO MENOR DE 12 (DOZE) ANOS.
+PARÂMETROS DOS ARTS. 318 E 318-A, AMBOS DO CÓDIGO DE PROCESSO PENAL E FIXADOS PELO SUPREMO TRIBUNAL FEDERAL NO HC COLETIVO N. 143.641/SR NECESSIDADE DE ANÁLISE DAS CIRCUNSTÂNCIAS DO CASO CONCRETO. PRESENÇA DE SITUAÇÃO EXCEPCIONALÍSSIMA QUE OBSTA A SUBSTITUIÇÃO.
+A substituição da prisão preventiva da mulher com filho menor de 12 (doze) anos por prisão domiciliar não é automática, porquanto pressupõe a análise das circunstâncias do caso concreto, de acordo com os parâmetros dos arts. 318 e 318-A do Código de Processo Penal e fixados pelo Supremo Tribunal Federal no HC n. 143.641/SP, não sendo cabível quando (a) cometido crime mediante violência ou grave ameaça, (b) perpetrado crime contra os descendentes ou (c) em situações excepcionalíssimas, devidamente fundamentadas.
+PEDIDO DE ORDEM CONHECIDO PARCIALMENTE E, NA EXTENSÃO, DENEGADO.
+Consta dos autos que a paciente foi presa em flagrante, em 20/9/2023, pela suposta prática das condutas descritas nos arts. 33, caput, e 35 da Lei n. 11.343/2006, prisão que foi convertida em preventiva na audiência de custódia.
+O impetrante sustenta que a paciente é mãe de uma criança de 5 anos de idade que necessita de seus cuidados, postulando, em síntese, que seja deferida a excepcional prisão domiciliar.
+Assevera que, conforme a corrente jurisprudencial colacionada, a gravidade em concreto da conduta não pode servir de óbice à substituição da prisão preventiva por domiciliar (fl. 9).
+Requer, liminarmente e no mérito, a substituição da prisão pela medida cautelar de prisão domiciliar.
+A liminar foi indeferida (fls. 84/85).
+Informações prestadas (fls. 92/130).
+Parecer do Ministério Público Federal pela denegação da ordem (fl. 134):
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE ENTORPECENTES. CONVERSÃO DA PRISÃO PREVENTIVA EM DOMICILIAR.
+IMPOSSIBILIDADE. SITUAÇÃO EXCEPCIONAL PREVISTA NO JULGAMENTO DO HC COLETIVO N. 143.641/SP, PELO SUPREMO TRIBUNAL FEDERAL. DECISÃO FUNDAMENTADA. ART. 318- A, DO CPP. INAPLICABILIDADE.
+CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS E, CASO CONHECIDO, PELA DENEGAÇÃO DA ORDEM.
+É o relatório.
+Primeiramente, os fundamentos da prisão cautelar foram objeto de exame no HC n. 886.908/SC, no qual já foi denegada a ordem, por estar devidamente justificada a determinação de prisão, inclusive com a informação de que a paciente teria assumido o tráfico de drogas, na modalidade tele-entrega, depois da prisão do consorte Jackson Brasil, e de monitoramento.
+Limita-se o presente writ, portanto, ao pedido de prisão domiciliar, em razão de ser a paciente mãe de filha menor de 12 anos de idade.
+Não visualizo a presença do alegado constrangimento.
+O Tribunal estadual, com ampla e suficiente fundamentação, demonstrou a inviabilidade, no caso, da concessão da prisão domiciliar, enfatizando o trabalho policial desenvolvido e a posição assumida pela paciente na organização criminosa, após a prisão do seu consorte. Destacadas, ainda, as particularidades da conduta criminosa, em que as drogas eram guardadas dentro da própria residência, o que implicaria risco à própria integridade da menor. Confira- se (fls. 70/71 - grifo nosso):
+Na espécie, demonstrou a impetrante que a paciente possui 1 (uma) filha menor de 12 (doze) anos (Evento 1, CERTNASC5).
+Ocorre que, conforme demonstrado anteriormente, a paciente estaria envolvida no desenvolvimento reiterado e habitual do tráfico de drogas, promovido depois da prisão do consorte, ocorrida no bojo de grande operação policial (Hórus), dirigida à proteção das fronteiras e ao combate do crime organizado, assumindo a posição que este ocupava.
+Na bastasse, como bem destacou o d. Procurador de Justiça, a paciente guardava a droga e petrechos na residência em que morava com a filha. Aliás, segundo os policiais, as drogas encontrados no veículo estavam escondidas dentro de uma pantufa infantil.
+ ..  É certo que a imprescindibilidade materna não constitui pressuposto para a concessão da benesse, mas se encontra no caso em tela situação excepcionalíssima, dada a flagrante incapacidade das medidas diversas da segregação e da prisão domiciliar obstar a reiteração criminosa.
+Na mesma linha o parecer do Ministério Público Federal, inclusive com a transcrição de precedente desta Corte (fls. 138/140):
+Conforme decidido no Habeas Corpus Coletivo n. 143.641/SP, pelo Supremo Tribunal Federal, restou consolidado o entendimento de que é possível a substituição da segregação cautelar pela prisão domiciliar, sem prejuízo da aplicação concomitante de medidas cautelares previstas no art. 319, do CPP, para mulheres presas, gestantes, puérperas ou mães de crianças menor de 12 (doze) anos sob sua guarda, enquanto perdurar a condição.
+Todavia, o próprio decisum em referência excepcionou os seguintes casos: I) em que a mulher houver praticado o crime mediante violência ou grave ameaça; II) se houver praticado o crime contra seus descendentes; ou III) em outras situações excepcionais, devidamente fundamentadas.
+No caso concreto, o pedido de prisão domiciliar foi indeferido com fundamentação idônea, considerando que a paciente estaria envolvida de forma reiterada e habitual com o tráfico de drogas, após a prisão do companheiro, ocorrida no bojo da operação policial denominada Hórus, dirigida a proteção das fronteiras e ao combate ao crime organizado, vindo a assumir a posição que antes era ocupada pelo companheiro preso.
+Como se não bastasse, a paciente guardava a droga e petrechos do tráfico na residência que morava com a filha, sendo pertinente dizer que as drogas encontradas no veículo pelos policiais estavam escondidas em uma pantufa infantil.
+No acórdão combatido, o Tribunal a quo demonstrou a situação excepcional de flagrante incapacidade das outras medidas cautelares e, até mesmo, da prisão domiciliar para obstar a reiteração delitiva.
+Em mesmo sentido, esse Superior Tribunal de Justiça reconheceu, no precedente em destaque, situação concreta excepcional semelhante apta a revelar a inadequação da prisão domiciliar e que colocaria também em risco a preservação do bem-estar da menor de idade.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA EM DOMICILIAR. IMPOSSIBILIDADE. SITUAÇÃO EXCEPCIONAL PREVISTA NO HC COLETIVO N. 143.641/SP, PELO SUPREMO TRIBUNAL FEDERAL. DECISÃO FUNDAMENTADA. GRAVIDADE CONCRETA DO DELITO EVIDENCIADA PELAS SUAS CIRCUNSTÂNCIAS, QUE DEMONSTRAM HABITUALIDADE E ENVOLVIMENTO COM ORGANIZAÇÃO CRIMINOSA, ALÉM DA PRÁTICA DELITUOSA OCORRER DENTRO DA PRÓPRIA RESIDÊNCIA, COLOCANDO EM RISCO A INTEGRIDADE DA MENOR. ART. 318-A DO CPP. INAPLICABILIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. Ordem denegada.
