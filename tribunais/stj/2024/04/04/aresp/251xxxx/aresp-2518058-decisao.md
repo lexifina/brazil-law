@@ -1,0 +1,32 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por RODIVALDO OTAVIO ALQUIMIN contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 23/08/2023.
+Concluso ao gabinete em: 22/03/2024.
+Ação: Impugnação ao cumprimento de sentença interposto por RODIVALDO OTAVIO ALQUIMIN em face da parte agravada, visando o pagamento de multa pelo descumprimento do acordo firmado entre as partes.
+Sentença: julgou procedente o pedido do impugnante para extinguir o cumprimento de sentença, sob o fundamento de tratar-se de obrigação inexigível.
+Acórdão: deu provimento ao recurso de apelação da parte agravada para reformar a sentença, bem como rejeitar a impugnação, determinando o retorno dos autos à origem para o regular cumprimento de sentença.
+É o que se extrai da seguinte ementa (e-STJ, fls. 188):
+"CUMPRIMENTO DE SENTENÇA Ação de adjudicação compulsória Permuta de imóveis - Acordo homologado por sentença Alegação de descumprimento da obrigação de outorga de escritura pelo executado, com pretensão ao recebimento da multa contratual Caracterização Entraves burocráticos que causaram o atraso do registro da carta de arrematação do imóvel adquirido pelo impugnante Situações previsíveis e já esperadas ao tempo do acordo entabulado Ausente caracterização de ocorrência de força maior ou caso fortuito Condições apontadas a revelar falta de regular previsão Mora caracterizada Eventual descumprimento da exequente na entrega das unidades permutadas que não é objeto do acordo, pois já prevista indenização respectiva para a hipótese no contrato de permuta entabulado entre as partes - Impugnação rejeitada Prosseguimento da execução - Sentença reformada - RECURSO PROVIDO."
+Embargos de Declaração: opostos pelo agravante foram rejeitados.
+Recurso especial: alega violação dos arts. 422, 476, 477, 884, 1.224, 1.225, 1.227 e 1.228 do Código Civil e 537, § 1º, do Código de Processo Civil, bem como dissídio jurisprudencial. Sustenta, em síntese, que o acórdão recorrido não observou: i) a relação contratual firmada entre as partes; ii) a boa-fé dos negociantes; iii) a possibilidade de rescisão do contrato não cumprido. iv) o risco à propriedade do recorrente, dando ensejo ao enriquecimento sem causa da parte recorrida.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+Os argumentos invocados pelo agravante não demonstram como o acórdão recorrido violou os arts. 422, 476, 477, 884, 1.224, 1.225. 1.227 e 1.228 do CC e 537, § 1º, do CPC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+Para a admissibilidade de um recurso especial é necessário que o recorrente demonstre a existência de violação ao dispositivo de lei federal invocado no recurso. O agravante, portanto, deverá comprovar que o acórdão recorrido violou dispositivo de lei federal, relacionando-o diretamente aos artigos mencionados. Caso contrário, o recurso será inadmitido.
+- Do reexame de fatos e provas
+O TJ/SP ao analisar o recurso interposto pelo agravante, concluiu o seguinte (e-STJ fls. 189-190):
+"Em face do descumprimento da obrigação de outorga de escritura no prazo contratual estabelecido 28/02/2022, pretende a exequente a condenação do executado à multa moratória lá estipulada, de 10% sobre o valor do compromisso, além da multa compensatória diária de R$ 1.000,00 (mil reais).
+No caso dos autos, evidente, por simples análise da documentação encartada, a mora do réu que, não obstante ter assumido prazo certo para outorga da escritura, não respeitou a condição, sendo que não ficou caracterizada nenhuma ocorrência de força maior ou reconhecimento de caso fortuito que justificassem os atrasos, pois os problemas apontados já eram previsíveis ao tempo do acordo firmado, considerando-se que os mesmo problemas já acompanhavam o decorrer do processo judicial de nº 1015014-65.2021.8.26.0068, e o réu aceitou, mesmo assim, indicar uma data final para o cumprimento de sua obrigação, a revelar, em realidade, falta de regular previsão.
+Também não assiste razão ao impugnante a alegação de que a exequente também não cumpriu a sua parte de entrega das unidades permutadas, uma vez que o acordo cuida apenas da responsabilidade e obrigação do executado na outorga da escritura, pois, para o inadimplemento da obrigação pela exequente, já estava prevista uma indenização justa em prol do impugnante, a ser arcada pela construtora anuente, isentando o exequente quanto a eventual mora na entrega das unidades do empreendimento Condomínio Hotel Andrômeda Alphaville (cláusulas 11.7 e 11.8 fls. 10), bastando ao impugnante a execução do contrato de permuta quanto à indenização lá estipulada em seu favor.
+Também não subsiste a pretensão de redução da multa contratual, pois as partes acordaram valor proporcional ao descumprimento da obrigação de cada parte, considerando-se que a indenização prevista no contrato de permuta em prol do impugnante para a hipótese de descumprimento da obrigação pela construtora anuente também é bem elevada, não havendo que se falar em redução da multa contratual do acordo."
+Desse modo, alterar o decidido no acórdão impugnado, quanto ao ponto, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA. PERMUTA DE IMÓVEIS. ACORDO HOMOLOGADO POR SENTEÇA. OUTORGA DA ESCRITURA. DESCUMPRIMENTO DA OBRIGAÇÃO. PREVISÃO DE MULTA CONTRATUAL. CARACTERIZAÇÃO. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Impugnação ao cumprimento de sentença. Descumprimento de obrigação.
+2. O recurso especial não pode ser conhecido quando a alegação de ofensa à lei for genérica.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo conhecido. Recurso especial não conhecido.
