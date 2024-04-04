@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de CÁSSIA DE ALMEIDA ROCHA RIBEIRO contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina.
+Consta dos autos que a paciente encontra-se presa cautelarmente, sendo imputada a suposta prática do crime previsto no artigo 33, caput, da Lei n. 11.343/2006.
+Inconformada com a constrição de liberdade, a defesa impetrou habeas corpus perante a Corte de origem. A ordem, contudo, foi denegada, recebendo o acórdão a seguinte ementa (e-STJ fl. 103):
+HABEAS CORPUS. SUPOSTA PRÁTICA DO CRIME DE TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI N. 11.343/06). INSURGÊNCIA CONTRA A DECISÃO QUE DECRETOU E MANTEVE A PRISÃO TEMPORÁRIA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO E DOS REQUISITOS PREVISTOS NA LEI N. 7.960/89. INOCORRÊNCIA. SEGREGAÇÃO DECRETADA ANTE A POSSIBILIDADE DE ENVOLVIMENTO DA PACIENTE NO CRIME DE TRÁFICO DE DROGAS. ELEMENTOS QUE INDICAM A IMPRESCINDIBILIDADE DA MEDIDA. PRISÃO CAUTELAR SUFICIENTEMENTE MOTIVADA. PRESENÇA DOS REQUISITOS DO ART. 1º, I E III, "N", DA LEI N. 7.960/89. PLEITO DE SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS DA PRISÃO OU POR PRISÃO DOMICILIAR. INCOMPATIBILIDADE COM O CÁRCERE TEMPORÁRIO. BONS PREDICADOS PESSOAIS QUE NÃO OBSTAM A MANUTENÇÃO DA PRISÃO TEMPORÁRIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM DENEGADA.
+1. Estando presentes a demonstração concreta da imprescindibilidade da medida extrema para as investigações do inquérito, bem como as fundadas razões do envolvimento dos pacientes nos crimes previstos dentre o rol do inciso III do art. 1º da Lei 7.960/1989, o juiz está autorizado a decretar a prisão temporária.
+2. Inexiste ilegalidade na segregação quando a autoridade dita como coatora explicita suficiente e fundamentadamente as razões fáticas e jurídicas pelas quais determina a prisão temporária.
+3. Os predicados subjetivos do paciente não constituem óbice à manutenção da sua segregação cautelar, desde que presentes os requisitos da prisão temporária.
+Na presente oportunidade, a defesa sustenta, em síntese, a ilegalidade da segregação cautelar, ante a inexistência de fundamentação idônea, apta a demonstrar a imprescindibilidade da custódia, ressaltando, ainda, a possibilidade de deferimento da prisão domiciliar, nos termos da lei, uma vez que se trata de mulher com 2 filhos com idade inferior a 12 anos (sendo um dos infantes portador de deficiência), além de ser detentora de condições pessoais favoráveis, como primariedade, bons antecedentes, residência fixa e ocupação lícita.
+Sublinha, por fim, a possibilidade de aplicação de medidas cautelares alternativas, cuja suposta inadequação no caso vertente não teria sido demonstrada de forma concreta e individualizada pelas decisões precedentes.
+Diante disso, requer, em liminar e no mérito, a substituição da prisão preventiva pela prisão domiciliar ou pelas medidas cautelares previstas no art. 319 do CPP.
+O pleito urgente foi indeferido (e-STJ fls. 107/110).
+Prestadas as informações (e-STJ fls. 116/118 e 121/123), o Ministério Público Federal manifestou-se pela prejudicialidade da impetração, ante a perda de objeto (e-STJ fl. 169).
+É o relatório. Decido.
+Consoante informações prestadas pelo Juízo de origem, corroboradas também pelo parecer ministerial (e-STJ fl. 169) , foi concedida a liberdade provisória na ação penal originária, em favor da ora paciente e de outros acusados, mediante aplicação de algumas medidas cautelares diversas da prisão, momento em que foi determinada a expedição de alvará de soltura.
+Assim, fica sem objeto o pedido contido na inicial, em que a defesa se insurgia contra a custódia cautelar da paciente.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Intimem-se.
+EMENTA
