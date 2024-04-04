@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MARCIO APARECIDO ALVES contra decisão proferida por Desembargador do Tribunal de Justiça do Estado de São Paulo (HC n. 2074122-13.2024.8.26.0000).
+Consta dos autos que o paciente foi preso em flagrante (convertida a custódia em prisão preventiva) pela suposta prática do crime descrito no artigo 302, § 3º, da Lei nº 9503/97.
+Inconformada com o decreto constritivo, a defesa impetrou habeas corpus perante a Corte de origem. A liminar requerida, todavia, foi indeferida pelo Desembargador Relator (e-STJ fls. 32/35).
+Na presente oportunidade, a impetrante sustenta, em síntese, a ilegalidade da segregação cautelar, ante a inexistência de fundamentação idônea para a prisão preventiva e dos motivos autorizadores previstos no art. 312 do Código de Processo Penal, ressaltando a ausência de efetiva demonstração da necessidade da custódia, devidamente amparada em elementos concretos e individualizados nos autos.
+Sublinha a presença de condições pessoais favoráveis ao paciente, como primariedade, bons antecedentes, residência fixa e ocupação lícita, o que, aliado ao fato de tratar-se, em tese, de crime culposo, reforça a possibilidade de aplicação de medidas cautelares diversas da prisão, a teor do disposto no art. 319 do CPP.
+Diante disso, requer, em liminar e no mérito, a substituição da prisão preventiva por medidas cautelares alternativas, com a expedição do respectivo alvará de soltura.
+É o relatório. Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+No caso, colhe-se da decisão de primeiro grau, no que interessa (e-STJ fl. 21):
+Assentado o fumus comissi delicti, debruço-me sobre o periculum in libertatis.
+Como bem salientado pela autoridade policial em sua representação e pela manifestação ministerial colhida em audiência, trata-se de fato grave, em que o indiciado embriagado, com habilitação vencida e veículo desregular, transitava em alta velocidade e arrastou a vítima por mais de 20 metros, ceifando a sua vida. Ora, se não estamos diante de um dolo eventual, aproximamo -nos do dolo direto, diante das circunstancias do caso concreto, interpretação que ficará a cargo do promotor e juízo natural, porém nesse momento, outra alternativa não há se não a preservação da ordem pública e garantia da aplicação da lei penal. Em que pese o indiciado ter declarado endereço fixo e atividade laboral remunerada, o crime cometido é gravíssimo. O indiciado estava conduzindo o veículo em alta velocidade, embriagado, e causou o acidente que vitimou fatalmente José Carlos.
+Assim, em que pese a insurgência da defesa, verifica-se que o decisum apresenta fundamentação suficiente e idônea a afastar a alegação, neste momento, de manifesta ilegalidade, a qual supostamente justificaria a superação do enunciado sumular acima referido.
+Com efeito, a questão posta em exame demanda averiguação mais profunda pelo Tribunal estadual, no momento adequado.
+Entendo, portanto, não ser o caso de superação do enunciado nº 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
+EMENTA
