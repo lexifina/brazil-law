@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar, impetrado em favor de JOSÉ ANCELMO SILVA HOLANDA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA (Autos nº 0001455-51.2010.8.15.0391).
+O paciente foi condenado pela prática do crime de homicídio, na forma tentada, por duas vezes (art. 121, caput, c/c art. 14, II, do CP). Nos termos do artigo 69 do Código Penal, a pena restou definitivamente fixada em 8 anos, 7 meses e 8 dias de reclusão, em regime inicialmente fechado.
+O recurso de apelação apresentado pela defesa foi desprovido por meio de acórdão assim ementado (e-STJ fl. 502):
+APELAÇÃO CRIMINAL. CRIMES CONTRA A VIDA. TENTATIVA DE HOMICÍDIO CONTRA DUAS VÍTIMAS. ART. 121, CAPUT, C/C ART. 14, DO CÓDIGO PENAL. ACUSADO SUBMETIDO A JULGAMENTO PELO JÚRI POPULAR. CONDENAÇÃO. IRRESIGNAÇÃO DEFENSIVA. PLEITO DE NOVO JULGAMENTO POPULAR E MINORAÇÃO DA PENA APLICADA. NÃO ACOLHIMENTO. CORRETA FUNDAMENTAÇÃO E APLICAÇÃO DA REPRIMENDA. MANUTENÇÃO DA SENTENÇA. DESPROVIMENTO DO APELO.
+- "No Júri, a soberania dos veredictos é princípio constitucional absoluto, só sendo possível seu afastamento quando a decisão do Sinédrio Popular não encontra qualquer respaldo nas provas colhidas no processo. No presente caso, a decisão do Júri encontra-se embasada no conjunto probatório."
+- "Por não constituir uma operação aritmética, sem critérios rígidos e pré-definidos, a fixação da pena se insere na órbita de convencimento do magistrado, no livre exercício do seu poder discricionário (vinculado) de decidir, mas, para tanto, deve observar os comandos dos arts. 59 e 68 do Código Penal e os limites postos pela lei e pela jurisprudência, bem como as especificidades de cada caso concreto. 2. Diante disso, o juiz se encontra resguardado, ao sopesar a situação sócio delitiva do agente contida nos autos, quanto à quantidade da punição que julga ser justa e necessária para a reprovação e prevenção do crime e a retributividade da sanção."
+- Recurso conhecido e desprovido.
+Os embargos de declaração opostos na origem foram rejeitados (e-STJ fls. 542-545).
+A defesa requer, em sede liminar, que seja expedido salvo conduto e efetivado o sobrestamento do feito até o julgamento definitivo da impetração. No mérito, pugna pelo reconhecimento da nulidade processual por cerceamento de defesa, pois os argumentos apresentados na origem não teriam sido apreciados.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal. Veja-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. GENITOR. IMPRESCINDIBILIDADE DE CUIDADOS AO FILHO MENOR NÃO DEMONSTRADA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. RECURSO DESPROVIDO.
+I - A Primeira Turma do Supremo Tribunal Federal firmou orientação no sentido de não admitir a impetração de habeas corpus substitutivo ante a previsão legal de cabimento de recurso pertinente. Precedentes.
+II - O art. 318, inciso VI, do Código de Processo Penal dispõe que o magistrado poderá substituir a prisão preventiva pela domiciliar quando o agente for homem, caso seja o único responsável pelos cuidados do filho de até 12 (doze) anos de idade incompletos.
+III - No caso dos autos, conforme consignado pelo Tribunal a quo a defesa não se desincumbiu do ônus de demonstrar a imprescindibilidade do ora agravante aos cuidados de seus filhos.
+IV - Para desconstruir as conclusões alcançadas na origem seria necessário o revolvimento da matéria fático-probatória do caso em apreço, providência que é vedada em sede de habeas corpus.
+Agravo regimental desprovido.
+(AgRg no HC n. 764.589/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024). Grifos acrescidos.
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que não se verifica de plano na hipótese dos autos.
+Do voto condutor do acórdão atacado extraem-se os seguintes trechos de relevo:
+Analisando as razões do apelante e atento às provas dos autos, observa-se que a sua pretensão por novo julgamento não prospera.
+Ressaltar, primeiramente, que, para que se decida pela nulidade do veredicto do Tribunal Popular do Júri, sob a assertiva de ser este manifestamente contrário à prova dos autos, faz-se indispensável que o conjunto probatório dos autos aponte, de forma irrefutável, que a decisão adotada acha-se divorciada, por inteiro, das provas colhidas.
+Ademais, a decisão oriunda dos juízes populares prevista na Constituição Federal (art. 5º, XXXVIII), é soberana. Esta é a razão de ser da instituição do Júri, pois de pouco valeria o legislador constituinte confiar o julgamento aos pares do acusado e ao mesmo tempo permitir que os juízes togados limitassem seus critérios de decidir.
+Vê-se, pois, que somente a decisão do júri que não tenha amparo nos elementos de convicção colhidos no decorrer da instrução processual, é que pode dar ensejo a um novo julgamento, exigindo-se, assim, para a anulação sob tal fundamento, que haja um completo afastamento entre a decisão e a realidade fática produzida.
+(..)
+Quanto ao pleito de minoração da pena aplicada, igualmente não merece guarida.
+Neste contexto, observa-se que o julgador primevo, ao analisar a dosimetria, após aferimento das circunstâncias judicias e, levando em consideração os crimes cometidos em relação às vítimas Edinaldo e José Herculano, fixou a pena base em 07 anos e 09 meses de reclusão para cada delito que, posteriormente foi atenuada em 1/6, em virtude da confissão, atingindo o patamar de 06 anos, 05 meses e 14 dias de reclusão. Ato contínuo, observando que o delito deu-se na forma tentada, a reprimenda foi diminuída em 1/3, estabelecendo a pena definitiva de 04 anos, 03 meses e 19 dias de reclusão para cada crime.
+Em seguida, observando o disposto no art. 69 do Código Penal (concurso material), as penas individuais foram somadas, fixando a pena definitiva em 08 (oito) anos, 07 (sete) meses e 08 (oito) dias de reclusão.
+Assim, ao perlustrar a dosimetria aferida, percebe-se que a sentença não merece reparos, pois o juízo sentenciante justificou, a contento, cada item das circunstâncias judiciais, tendo extraído, dentre elas, as moduladoras que entendeu serem neutras, favoráveis e desfavoráveis ao acusado, não havendo qualquer modificação a ser feita, já que agiu com a discricionariedade que lhe é outorgada e dentro dos padrões legislativos.
+(..)
+Destarte, diante das circunstâncias fáticas apuradas nos autos, não vislumbro motivos ensejadores para modificação da sentença proferida pelo juízo de primeiro grau, devendo a decisão objurgada permanecer intacta.
+Ademais , para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, seria imprescindível a reanálise do acervo fático-probatório, o que impede a atuação excepcional desta instância, sobretudo na estreita via do habeas corpus.
+Pelo exposto, não conheço do habeas corpus e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+EMENTA
