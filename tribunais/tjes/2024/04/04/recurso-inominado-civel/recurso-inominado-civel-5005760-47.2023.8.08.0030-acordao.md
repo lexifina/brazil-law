@@ -1,0 +1,88 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5005760-47.2023.8.08.0030
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: ITAU UNIBANCO HOLDING S.A.
+RECORRIDO: VIRGINIA RAVANI PESSOTI FERREIRA
+RELATOR(A):
+FELIPE LEITAO GOMES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+PROCESSO Nº 5005760-47.2023.8.08.0030
+
+RECORRENTE: ITAÚ UNIBANCO HOLDING S.A.
+
+RECORRIDO: VIRGINIA RAVANI PESSOTI FERREIRA
+
+VOTO
+
+DR. FELIPE LEITÃO GOMES - RELATOR
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA.
+
+RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. RELAÇÃO DE CONSUMO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO E INDENIZAÇÃO POR DANOS MORAIS.
+
+(1). TESE AUTORAL.
+TRATA-SE DE AÇÃO NA QUAL É OBJETIVADO A DECLARAÇÃO DE INEXISTÊNCIA DE DÉBITOS, VEZ QUE NUNCA CELEBROU QUALQUER TIPO DE CONTRATO COM A RÉ E MESMO ASSIM RECEBEU DESCONTOS EM SUA CONTA BANCÁRIA POR SUPOSTO EMPRÉSTIMO INEXISTENTE, BEM COMO INDENIZAÇÃO POR DANO MORAL EM VIRTUDE DE NEGATIVAÇÃO INDEVIDA.
+(2) DISPOSITIVO DA SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTES OS PEDIDOS AUTORAIS PARA:
+
+“[...]
+STO POSTO, JULGO PROCEDENTE, o pedido inicial, pelo que, RATIFICO A LIMINAR DO ID n 26535273, como OBRIGAÇÃO DE FAZER, determinando, ainda, que a parte requerida proceda o cancelamento definitivo dos contratos, se ainda não fez, retirando todos os encargos e juros decorrentes dos contratos debatidos nesta demanda, sob pena de multa, conforme já registradas na decisão liminar acima ratificada. CONDENO, por fim, a parte requerida, a pagar, para a parte autora, o valor de R$ 15.000,00 (Quinze mil reais), a título de danos morais, devidamente atualizado com juros de 1% ao mês e correção monetária (índice da Corregedoria Geral de Justiça do Estado do Espírito Santo), desde a presente data.
+[...]
+”
+.
+(3)
+RECURSO
+ITAU UNIBANCO HOLDING S.A..
+DA REGULARIZAÇÃO E BOA-FÉ NA SOLUÇÃO DO PROBLEMA. DA INEXISTÊNCIA DE DANO MORAL. SUBSIDIARIAMENTE, PUGNA O RÉU RECORRENTE PELA REDUÇÃO DO VALOR FIXADO.
+(4). CONTRARRAZÕES DA AUTORA.
+EM SUMA, SEJA MANTIDA INALTERADA A SENTENÇA RECORRIDA.
+(5) MÉRITO RECURSAL.
+A PARTE AUTORA BUSCOU A REQUERIDA PARA REALIZAÇÃO DE EMPRÉSTIMO, CONTUDO, MESMO SEM REALIZAÇÃO DE DEPÓSITO NA CONTA DA PARTE AUTORA, A REQUERIDA RECORRENTE INICIOU DESCONTOS EM CARTÃO DE CRÉDITO DA PARTE AUTORA, REFERENTE PARCELA DO EMPRÉSTIMO QUE NÃO FOI REALIZADO. AINDA, A REQUERIDA NEGATIVOU O NOME DA PARTE AUTORA, POR CONTA DO EMPRÉSTIMO NÃO REALIZADO. NA ORIGEM O MAGISTRADO ENTENDEU PELA PROCEDÊNCIA DOS PLEITOS AUTORAIS, TENDO CONDENADO A RÉ RECORRENTE AO PAGAMENTO DE DANOS MORAIS, ARBITRADOS NA MONTA DE R$ 15.000,00 (QUINZE MIL REAIS). POIS BEM, DE ANÁLISE DOS AUTOS VERIFICO SER INCONTROVERSO A FALHA NA PRESTAÇÃO DOS SERVIÇOS OCORRIDA, SENDO DEVIDO NO CASO REPARAÇÃO POR DANOS MORAIS, COMO ACERTADAMENTE CONSIGNADO EM SENTENÇA. DESTACO QUE NÃO OBSTANTE A RECORRENTE SUSTENTE QUE POR BOA-FÉ BUSCOU REGULARIZAR RAPIDAMENTE O OCORRIDO, NÃO É ARGUMENTO SUFICIENTE PARA AFASTAR A RESPONSABILIDADE, NA MEDIDA QUE O FORTUITO INTERNO LEVOU A PARTE AUTORA A SUPORTAR COBRANÇAS INDEVIDAS, BEM COMO TEVE SEU NOME NEGATIVADO POR ESTE FATOS, CIRCUNSTÂNCIAS QUE, POR SI SÓ, ENSEJAM REPARAÇÃO EXTRAPATRIMONIAL
+IN RE IPSA
+. TODAVIA, ENTENDO QUE O VALOR ARBITRADO SE REVELA EXCESSIVO DIANTE DAS PARTICULARIDADES DO CASO CONCRETO. NESSE SENTIDO, EM QUE PESE A COBRANÇA E NEGATIVAÇÃO INDEVIDAS, A REPARAÇÃO NÃO PODE LEVAR A VÍTIMA A UM ENRIQUECIMENTO ILÍCITO, DEVENDO EXISTIR UMA JUSTA MEDIDA NA FIXAÇÃO DO
+QUANTUM
+. ASSIM, PARA FINS DE FIXAÇÃO DO MONTANTE INDENIZATÓRIO DEVE SE CONSIDERAR AS VÁRIAS FACETAS DO INSTITUTO, QUAIS SEJAM REPARATÓRIA, PEDAGÓGICA E PUNITIVA. AINDA, É PRECISO CONSIDERAR A NATUREZA DO DANO QUE, NO CASO, REPUTO COMO SENDO MÉDIO. DIANTE DE TAIS PARÂMETROS, FIXO O VALOR DA INDENIZAÇÃO EM R$ 5.000,00 (CINCO MIL REAIS).
+(7)
+RECURSO RÉ CONHECIDO E PARCIALMENTE PROVIDO.
+PARCIAL REFORMA DA SENTENÇA OBJURGADA,
+TÃO E SOMENTE,
+PARA QUE SEJA O MONTANTE DA CONDENAÇÃO A TÍTULO DE DANOS MORAIS ARBITRADO EM R$ 5.000,00 (CINCO MIL REAIS).
+(8).
+SEM CUSTAS PROCESSUAIS E HONORÁRIOS.
+
+LEONARDO FEITAL DELGADO
+
+JUIZ LEIGO
+
+O Sr. Juiz de Direito Relator Dr.
+FELIPE LEITÃO GOMES
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pelo Ilmo. Juiz Leigo e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
