@@ -1,0 +1,31 @@
+DECISÃO
+MANOEL DOS SANTOS DE SOUZA alega sofrer coação ilegal pelo Tribunal de Justiça do Estado de Alagoas (HC n. 805981-43.2023.8.02.0000).
+Nesta Corte, sustenta a defesa o tempo demasiado de processamento do feito, pela suposta prática do crime tipificado no art. 121, IV, do Código Penal. Afirma que o inquérito policial foi instaurado e relatado em 2012, no entanto a custódia processual somente foi decretada em 8/2/2022 e cumprida e 20/1/2023. Suscita a falta de contemporaneidade entre os fatos e a medida cautelar. Assevera que não se cumpriu o prazo nonagesimal previsto no art. 316, parágrafo único, do CPP. Aduz que o "Magistrado deixou de considerar importantes requisitos que demonstram a desnecessidade da prisão preventiva" (fl. 4). Assegura que a constrição provisória é desproporcional e que o acusado não representa risco à sociedade (fls. 18-20).
+Requer, liminarmente e no mérito, a expedição de alvará de soltura ou a fixação de medidas alternativas.
+Em momento posterior, ressaltou a impetrante que, na oportunidade do delito, o agente não tinha capacidade de entendimento e determinação, conforme o laudo de insanidade mental exarado (fls. 70-71). Também noticiou a proposta de emprego recebida pelo réu e a residência onde ele se estabelecerá até o fim do processo (fls. 75-79).
+Indeferida a liminar e prestadas as informações, opinou o Parquet Federal pelo não conhecimento do mandamus (fls. 48-49, 56-58; 81-91).
+Decido.
+De início, sublinho que, em consulta ao sítio eletrônico do Tribunal a quo, verificou o gabinete que o acesso aos andamentos processuais depende de senha, não compartilhada nos autos.
+A propósito da fundamentação e proporcionalidade do decreto prisional, cumpre consignar que a matéria já foi examinada pelo RHC n. 181.670/AL, oferecido previamente. Posto isso, no particular, não reconheço motivos para o processamento do writ, por se tratar de mera reiteração de pedido anterior.
+A respeito da revisão nonagesimal da segregação preventiva, prevista no art. 316, parágrafo único, do CPP, observo que o acórdão impugnado não tratou do tema. Assim, eventual análise da questão por esta Corte de Justiça ensejaria a indevida supressão de instância.
+Quanto ao mais, neste Superior Tribunal, "há farta jurisprudência dizendo que a condição de foragido afasta a alegação de constrangimento ilegal, seja pela dita ausência de contemporaneidade, seja pelo apregoado excesso de prazo para encerramento da instrução criminal" (RHC n. 174.115/PI, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 23/3/2023, DJe de 29/3/2023)" (AgRg no HC n. 848.542/GO, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe de 5/10/2023, grifei).
+In casu, de acordo com as informações, o agente não foi localizado, foi citado por edital, a ação penal ficou suspensa, aos ditames do art. 366 do CPP, ele permaneceu foragido por quase 9 anos e foi surpreendido pela autoridade policial em outro Estado da Federação (fls. 56-57).
+Tampouco desprezo a reprimenda cominada em abstrato para o delito atribuído ao acusado. Não olvido, ademais, que foi instaurado, na demanda de origem, incidente de insanidade mental, sequer o fato de que o procedimento bifásico a que se sujeitam os crimes contra a vida, naturalmente, exige período mais extenso para o trâmite processual, nem mesmo a circunstância de que "o réu ostenta novas imputações na seara penal após a prática do delito por esse caderno processual perseguido" (fls. 57-58).
+Dessarte, não identifico, ao menos por ora, coação ilegal evidente, que dê ensejo à intervenção imediata desta Corte.
+Nesse sentido:
+ ..  "Consoante a jurisprudência do Superior Tribunal de Justiça",  a  condição de foragido do agravante afasta a alegação de constrangimento ilegal por excesso de prazo. Precedentes" (AgRg no HC n. 737.815/GO, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 20/6/2022).
+ ..
+9. Agravo regimental desprovido.
+(AgRg no HC n. 772.087/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/5/2023, DJe de 18/5/2023.)
+ ..  1. A fuga do distrito da culpa, como constatado pelas instâncias ordinárias, demonstra a indispensabilidade da custódia cautelar para garantir a aplicação da lei penal, não havendo manifesta ilegalidade.
+ ..
+3. Não se verifica ilegalidade por excesso de prazo se o feito esteve em constante movimentação, seguindo a sua marcha regular, no qual, apesar de o acusado ter ficado foragido por longo período e ter sido realizado incidente de insanidade mental, já foi realizada parte da instrução processual, estando o prazo processual razoavelmente compatível com as particularidades da causa e com as atuais circunstâncias diante da pandemia mundial da Covid-19.
+3. Agravo regimental improvido.
+(AgRg no RHC n. 164.660/SE, relator Ministro Jesuíno Rissato, Sexta Turma, julgado em 7/2/2023, DJe de 10/2/2023.)
+ ..  3. O Juízo de primeiro grau indica que o anterior mandado de prisão temporária expedido em desfavor do Agravante não foi cumprido, porque o Agente está foragido. Verificada essa situação, entende-se que "a fuga do distrito da culpa, comprovadamente demonstrada nos autos e que perdura, é fundamentação suficiente a embasar a manutenção da custódia preventiva, que revela-se imprescindível para o fim de se assegurar o cumprimento de eventual condenação, pois nítida a intenção do réu de obstaculizar o andamento da ação criminal e de evitar a ação da Justiça" (HC 336.881/PR, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 2/2/2016).
+4. O alegado excesso de prazo para a revisão nonagesimal da prisão preventiva (art. 316, parágrafo único, do Código de Processo Penal) e a ausência de contemporaneidade dos fundamentos da segregação são matérias que não foram analisadas pelo Tribunal de origem. Assim, fica impedida esta Corte de apreciar as questões, sob pena de indevida supressão de instância (AgRg no HC 645.390/PE, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 08/02/2022, DJe 15/02/2022).
+5. Agravo regimental desprovido.
+(AgRg no HC n. 727.071/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 5/4/2022, DJe de 8/4/2022.)
+À vista do exposto, conheço em parte do mandamus e, nessa extensão, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
