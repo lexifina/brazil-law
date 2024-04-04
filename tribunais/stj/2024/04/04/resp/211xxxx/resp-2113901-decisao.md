@@ -1,0 +1,17 @@
+DECISÃO
+Na origem, trata-se de ação que objetiva a percepção de indenização por danos morais, em decorrência de reiteradas falhas no fornecimento de energia elétrica, com valor da causa fixado em R$ 8.000,00 (oito mil reais). Na sentença, julgou-se improcedente o pedido. No Tribunal de Justiça do Estado de Santa Catarina, a sentença foi mantida, conforme a seguinte ementa do acórdão (fl. 195):
+AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA DE IMPROCEDÊNCIA. INSURGÊNCIA DA PARTE DEMANDANTE. INTERRUPÇÃO RECORRENTE DE FORNECIMENTO DE ENERGIA ELÉTRICA. ALEGADA A RESPONSABILIDADE CIVIL DA CELESC. INDENIZAÇÃO POR DANOS MORAIS. INSUBSISTÊNCIA. INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR E INVERSÃO DOÔNUS DA PROVA QUE NÃO EXIMEM O CONSUMIDOR DE COMPROVAR MINIMAMENTE O DIREITO ALEGADO (SÚMULA N. 55 DO TJSC). LIAME ETIOLÓGICO ENTRE O ATO IMPUTÁVEL À CONCESSIONÁRIA E OS SUPOSTOS DANOS NÃO CONFIGURADO. AUTORA QUE PUGNOU O JULGAMENTO ANTECIPADO DO FEITO E NÃO COMPROVOU A OCORRÊNCIA DE SITUAÇÃO A ULTRAPASSAR O MERO DISSABOR. PROVAS PRODUZIDAS PELA DEMANDANTE QUE NÃO SE PRESTAM AO DESIDERATO ACOIMADO. DEVER DE INDENIZAR NÃO CARACTERIZADO. SENTENÇA MANTIDA.
+"A interrupção do fornecimento de energia elétrica não é capaz de gerar danos de ordem moral aos consumidores, sem a devida prova nesse sentido, configurando, apenas, transtornos inerentes a situação, cujo ressarcimento dos danos materiais é suficiente para resolver a controvérsia". (TJSC, Apelação Cível n. 0300401-48.2014.8.24.0047, de Papanduva, rel. Des. João Batista Góes Ulysséa, Segunda Câmara de Direito Civil, j. 10-08-2017).
+RECURSO CONHECIDO E DESPROVIDO.
+Interposto recurso especial, não foi conhecido (fls. 300-305).
+Em embargos de declaração, aponta a parte embargante omissão na majoração dos honorários advocatícios.
+Intimada, a parte embargada não apresentou contrarrazões (fl. 315).
+É o relatório. Decido.
+Os embargos merecem acolhimento.
+Consoante o Enunciado Administrativo n. 3/STJ, aprovado pelo Plenário do STJ, na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+De igual modo, o enunciado n. 7 da Súmula Administrativa do STJ dispõe que, "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+Por sua vez, nos termos do § 11 do art. 85 do Código de Processo Civil de 2015: "O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento."
+Na sentença, fixaram-se os honorários advocatícios em 10% do valor atribuído causa (fl. 148). No acórdão, os honorários foram majorados de 10% para 15% sobre o valor atualizado da causa (fl. 199).
+Ante o exposto, considerando o trabalho adicional realizado, com a apresentação de contrarrazões ao recurso especial, e os critérios previstos nos §§ 2º a 6º do art. 85 do Código de Processo Civil de 2015, acolho os embargos de declaração, para integrar a decisão embargada, fazendo constar a majoração dos honorários advocatícios em 1% (um por cento).
+Publique-se. Intimem-se.
+EMENTA
