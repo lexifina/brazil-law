@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de recurso especial interposto por RAQUEL DA CRUZ LOBATO, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL que julgou demanda relativa à penhora de imóvel gravado com alienação fiduciária.
+O julgado negou provimento ao recurso de agravo de instrumento da recorrente nos termos da seguinte ementa (fls. 68):
+AGRAVOINTERNO. AÇÃO DE EXECUÇÃO DE TÍTULOEXTRAJUDICIAL. COTAS CONDOMINIAIS. CUMPRIMENTO DE SENTENÇA. OBRIGAÇÃO PROPTER REM. PENHORA DO IMÓVEL ALIENADO FIDUCIARIAMENTE. POSSIBILIDADE. REAFIRMAÇÃO DA DECISÃO DO RELATOR.
+Inexistem razões de fato e de direito que justifiquem o pedido de novo pronunciamento. Decisão do Relator reafirmada pela Câmara.
+AGRAVO INTERNO DESPROVIDO.
+Sem embargos de declaração opostos.
+No presente recurso especial, o recorrente alega que o acórdão recorrido negou vigência ao art. 1.361 e 1.369-B do Código Civil, sob o argumento de que não se admite que a penhora recaia sobre a integralidade do imóvel objeto da alienação fiduciária, pois quem detém a propriedade do bem é o credor fiduciário e não o devedor.
+Aponta divergência jurisprudencial com julgados do STJ.
+Contrarrazões apresentadas (fls. 102-104), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 107-110).
+É, no essencial, o relatório.
+O recurso tem êxito.
+A controvérsia dos autos está em definir se é possível a penhora de imóvel gravado de alienação fiduciária, em ação de execução de despesas condominiais de responsabilidade do devedor fiduciante.
+O acórdão recorrido assim consignou sobre a possibilidade de penhora de imóvel alienado fiduciariamente (fls.65-66):
+Em primeiro lugar, reconheço o critério da decisão do juízo competente, que está bem fundamentada e tem apoio em julgados esparsos do STJ, porém, na ausência de precedente vinculante, prefere-se julgar de acordo com a jurisprudência dominante acerca da matéria, proveniente do TJRS e do próprio STJ, que a Câmara perfilha, no sentido de que, tratando-se de execução de débito oriundo de cotas condominiais, é cabível a penhora do bem imóvel que deu origem à dívida, independentemente de estar ele gravado por alienação fiduciária, ante a natureza propter rem da obrigação condominial.
+Relaciono ementas de julgados da Câmara no mesmo sentido:
+(..)
+Aplica-se, por analogia, a Súmula n.º 478 do STJ: "na execução de crédito relativo a cotas condominiais, este tem preferência sobre o hipotecário".
+Independentemente da preferência legal do crédito condominial sobre o crédito garantido por alienação fiduciária ou vice-versa, a obrigação do condômino frente ao condomínio acompanha o imóvel e se exige de quem esteja com a coisa. O direito do credor fiduciário não se sobrepõe ao direito do condomínio à alienação do imóvel para a satisfação do crédito garantido por penhora, caso dos autos, se não se predispuser à quitação das contribuições condominiais, informando como o fará.
+Em verdade, tanto faz penhorar a coisa e reconhecer e ressalvar direitos e ações do credor fiduciário e do devedor fiduciante ou penhorar direitos e ações do devedor que incidem sobre o imóvel que gera o débito condominial a ser satisfeito com alienação da coisa, ressalvado o direito do credor fiduciário, cuja intimação se exige para que exerça a pretensão que tiver.
+Assim, as circunstâncias justificam o provimento do agravo de instrumento para que se admita a penhora sobre o imóvel.
+A conclusão do acórdão recorrido está dissonante do entendimento da Terceira Turma desta Corte, no sentido de que, em se tratando de bem alienado fiduciariamente, não se admite a penhora do imóvel, ainda que para satisfação de taxas condominiais, sendo possível apenas a penhora de direitos do devedor sobre o contrato com pacto de alienação fiduciária.
+Neste sentido, confira-se os seguinte julgado:
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE EMBARGOS À EXECUÇÃO. ALEGAÇÃO DE VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE. TESES DE EXCESSO DE EXECUÇÃO E PRECLUSÃO. SÚMULAS 283 E 284 DO STF. EXECUÇÃO DE DESPESAS CONDOMINIAIS. IMÓVEL ALIENADO FIDUCIARIAMENTE. RESPONSABILIDADE DO DEVEDOR FIDUCIANTE. ARTS. 27, § 8º, DA LEI Nº 9.514/1997 E 1.368-B, PARÁGRAFO ÚNICO, DO CC/2002. PENHORA DO IMÓVEL. IMPOSSIBILIDADE. BEM QUE NÃO INTEGRA O PATRIMÔNIO DO DEVEDOR FIDUCIANTE. PENHORA DO DIREITO REAL DE AQUISIÇÃO. POSSIBILIDADE. ARTS. 1.368-B, CAPUT, DO CC/2002, C/C O ART. 835, XII, DO CPC/2015.
+1. Ação de embargos à execução, ajuizada em 11/5/2021, da qual foi extraído o presente recurso especial, interposto em 26/8/2022 e concluso ao gabinete em 27/10/2022.
+2. O propósito recursal é definir se é possível a penhora de imóvel alienado fiduciariamente, em ação de execução de despesas condominiais de responsabilidade do devedor fiduciante.  ..
+6. A natureza ambulatória (ou propter rem) dos débitos condominiais é extraída do art. 1.345 do CC/2002, segundo o qual "o adquirente de unidade responde pelos débitos do alienante, em relação ao condomínio, inclusive multas e juros moratórios".
+7. Apesar de o art. 1.345 do CC/2002 atribuir, como regra geral, o caráter ambulatório (ou propter rem) ao débito condominial, essa regra foi excepcionada expressamente, na hipótese de imóvel alienado fiduciariamente, pelos arts. 27, § 8º, da Lei nº 9.514/1997 e 1.368-B, parágrafo único, do CC/2002, que atribuem a responsabilidade pelo pagamento das despesas condominiais ao devedor fiduciante, enquanto estiver na posse direta do imóvel. Precedentes.
+8. No direito brasileiro, afirmar que determinado sujeito tem a responsabilidade pelo pagamento de um débito, significa dizer, no âmbito processual, que o seu patrimônio pode ser usado para satisfazer o direito substancial do credor, na forma do art. 789 do CPC/2015.
+9. Ao prever que a responsabilidade pelas despesas condominiais é do devedor fiduciante, a norma estabelece, por consequência, que o seu patrimônio é que será usado para a satisfação do referido crédito, não incluindo, portanto, o imóvel alienado fiduciariamente, que integra o patrimônio do credor fiduciário.
+10. Assim, não é possível a penhora do imóvel alienado fiduciariamente em execução de despesas condominiais de responsabilidade do devedor fiduciante, na forma dos arts. 27, § 8º, da Lei nº 9.514/1997 e 1.368-B, parágrafo único, do CC/2002, uma vez que o bem não integra o seu patrimônio, mas sim o do credor fiduciário, admitindo-se, contudo, a penhora do direito real de aquisição derivado da alienação fiduciária, de acordo com os arts. 1.368-B, caput, do CC/2002, c/c o art. 835, XII, do CPC/2015.
+11. Hipótese em que o Tribunal de origem decidiu pela possibilidade da penhora do imóvel, apesar de estar alienado fiduciariamente, em razão da natureza propter rem do débito condominial positivado no art. 1.345 do CC/2002.
+12. Recurso especial parcialmente conhecido e, nessa extensão, provido, para julgar parcialmente procedentes os pedidos formulados na inicial dos embargos à execução, a fim de declarar a impenhorabilidade do imóvel na espécie, por estar alienado fiduciariamente, ficando ressalvada a possibilidade de penhora do direito real de aquisição.
+(REsp n. 2.036.289/RS, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado aos 18/4/2023, DJe de 20/4/2023 - sem destaque no original.)
+Ante o exposto, dou provimento ao recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
