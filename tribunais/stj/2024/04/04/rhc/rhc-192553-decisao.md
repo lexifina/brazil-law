@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto contra acórdão assim ementado (fls. 179/189):
+HABEAS CORPUS. TRÁFICO DE DROGAS EASSOCIAÇÃO E POSSE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. AUSÊNCIA DOS REQUISITOSAUTORIZADORES. INOCORRÊNCIA. DECISUM COMFUNDAMENTAÇÃO SUFICIENTE. NÃOEVIDENCIADO CONSTRANGIMENTO ILEGAL. DENEGAÇÃO DA ORDEM.
+- Existindo prova da materialidade do crime e indícios suficientes de autoria, bem como estando a decisão segregatória suficientemente fundamentada, com indicação efetiva da necessidade da custódia, não há que se falar em constrangimento ilegal.
+- Existindo prova da materialidade do crime e indícios suficientes de autoria, bem como estando a decisão segregatória suficientemente fundamentada, com indicação efetiva da necessidade da custódia, não há que se falar em constrangimento ilegal.
+Consta dos autos que o recorrente foi preso preventivamente pela prática dos crimes previstos nos artigos 33 e 35 da Lei n. 11.343/2006; e 16, § 1º, I, da Lei n. 10.826/2003.
+A defesa do recorrente alega que a prisão preventiva é desnecessária e que não estão presentes os requisitos para a sua decretação.
+Sustenta que a decisão de prisão preventiva possui fundamentação genérica e inidônea.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, sem prejuízo da aplicação de medidas cautelares diversas.
+O pedido liminar foi indeferido (fls. 226/227).
+A autoridade coatora prestou as informações, e o Ministério Público Federal manifestou-se pelo não provimento do recurso.
+É o relatório.
+Decido.
+No tocante aos motivos da prisão cautelar, a decisão que converteu a prisão em flagrante em preventiva está assim fundamentada (fls. 25/31):
+No que tange ao fundamento, a prisão se justifica para a assegurar a garantia da ordem pública, porquanto demonstrado a gravidade em concreto da conduta, eis que se trata de crime de tráfico interestadual de grande quantidade de drogas (5kg de maconha) e porte de arma de fogo de uso restrito, bem como o perigo de reiteração criminosa pois a lista de antecedentes demonstram que ambos os requeridos respondem uma série de ações penais.
+(..)
+Desse modo, necessária a custódia preventiva para evitar a reiteração criminosa, sendo insuficientes as demais medidas cautelares previstas pelo diploma processual penal, ainda que tenha sido formalmente imputada aos indiciados apenas uma conduta, porém de grande gravidade concreta - o que demonstra sua periculosidade, mesmo quando não há notícias de reiteração delituosa.
+Consta no decreto prisional fundamentação que deve ser considerada idônea, revelada na expressiva quantidade de droga apreendia, ou seja, 5 kg de maconha, e pelo porte de arma de fogo, bem como pelo registro de antecedentes criminais.
+Embora não sirvam fundamentos genéricos, seja referente ao dano social gerado por tráfico, por ser crime hediondo, ou da necessidade de resposta judicial à sociedade, para a prisão, podem a periculosidade e riscos sociais justificar a custódia cautelar no caso de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade da droga. Nesse sentido: HC 291125/BA - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 3/6/2014; AgRg no RHC 45009/MS - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 27/5/2014; HC 287055/SP - 5ª T. - unânime - Rel. Min. Moura Ribeiro - DJe 23/5/2014; RHC n. 42935/MG - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 28/5/2014.
+Entende esta Corte também que o porte de arma ou munição, no contexto de tráfico de drogas, poderá justificar a manutenção da prisão, por evidenciar a periculosidade do acusado e a necessidade da segregação como forma de acautelar a ordem pública (nesse sentido: RHC 137.054/CE, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/04/2021, DJe 27/04/2021).
+Justifica-se, ainda, a imposição da prisão preventiva do agente pois, conforme sedimentado na jurisprudência desta Corte, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública. No mesmo sentido: AgRg no HC 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023; AgRg no RHC 175.527/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no HC 780.490/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 28/2/2023, DJe de 3/3/2023; AgRg no RHC 164.793/RS, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 22/11/2022, DJe de 25/11/2022.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
