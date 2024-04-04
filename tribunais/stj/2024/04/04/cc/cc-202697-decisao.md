@@ -1,0 +1,22 @@
+DECISÃO
+Examina-se conflito negativo de competência instaurado entre o JUÍZO DA 7ª VARA CÍVEL DE BRASÍLIA - DF, suscitante, e o JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE COMODORO - MT, suscitado.
+Ação: cumprimento provisório de sentença proferida em ação civil pública (autos nº 0008465-28.1994.4.01.3400) promovido por IRINEU MARCOS PARMEGGIANI em desfavor do BANCO DO BRASIL. O processo foi, inicialmente, distribuído perante a Justiça Federal do Distrito Federal, cujo juízo declinou da competência em favor da Justiça Comum Estadual, tendo em vista a ausência de ente público no polo passivo da demanda, e determinou a remessa dos autos para o foro do domicílio da parte autora, situado em Comodoro - MT.
+Manifestação do Juízo de Comodoro - MT: afirmou que o exequente requereu a remessa dos autos para o foro da sede da instituição financeira executada, em Brasília, e declinou da competência, com fundamento no art. 516, parágrafo único, do CPC.
+Manifestação do Juízo de Brasília - DF: suscitou o presente conflito de competência, argumentando que, "em que pese a faculdade do Código de Defesa do Consumidor para escolha de foro diverso de seu domicílio, esta liberdade de escolha não pode implicar em escolha irrestrita ou aleatória, devendo o autor ater-se ao foro de seu domicílio ou, no máximo, ao foro de domicílio da agência bancária que praticou os atos indicados na petição inicial" (e-STJ, fl. 247).
+Parecer do MPF: deixou de opinar .
+RELATADO O PROCESSO, DECIDO.
+Inicialmente, conheço do conflito, porquanto envolve juízos vinculados a Tribunais diversos, nos moldes delineados pelo art. 105, I, "d", da Constituição Federal.
+Consoante o entendimento desta Corte Superior, firmado também no âmbito das ações coletivas, em se tratando de relações de consumo, é permitido ao consumidor optar pelo foro que facilite sua atuação em juízo, desde que a escolha não seja aleatória.
+A propósito:
+AGRAVO INTERNO EM CONFLITO DE COMPETÊNCIA. AÇÃO COLETIVA. EXPURGOS INFLACIONÁRIOS. AÇÃO CIVIL PÚBLICA. POSSIBILIDADE DE AJUIZAMENTO DA EXECUÇÃO COLETIVA EM FORO DIVERSO AO FORO DO JUÍZO SENTENCIANTE. ALCANCE OBJETIVO E SUBJETIVO DOS EFEITOS DA SENTENÇA COLETIVA. LIMITAÇÃO TERRITORIAL. IMPROPRIEDADE. TEMAS REPETITIVOS 480 E 481. ESCOLHA NÃO ALEATÓRIA DE FORO. FORO DE DOMICÍLIO DO AUTOR. AGRAVO INTERNO NÃO PROVIDO.
+1. Na forma da jurisprudência desta Corte, a execução de sentença proferida em ação civil pública não segue as regras comuns de competência prevista no art. 516 do CPC/2015, pois ausente interesse apto a justificar a prevenção do Juízo que julgou a ação de conhecimento.
+2. A facilitação da defesa dos direitos do consumidor em juízo mitiga o rigor da regra de competência funcional entre o juízo da execução e o da condenação, sendo, porém, vedada a escolha aleatória de foro que não seja nem o do domicílio do consumidor, nem o do réu, tampouco o de eleição ou mesmo o do local de cumprimento da obrigação.
+3. Caso em que a execução coletiva de sentença condenatória favorável a grupo de consumidores foi ajuizada no foro do domicílio do executado, local em que também domiciliado parte dos beneficiados, não havendo cogitar-se do denominado forum non conveniens.
+4. Agravo interno não provido. (AgInt nos EDcl no CC n. 186.202/DF, Segunda Seção, DJe de 30/8/2022 - sem grifo no original.)
+Na hipótese em exame, o consumidor optou, após firmada a competência da Justiça Comum Estadual, pelo processamento da demanda - cumprimento provisório de sentença proferida em ação civil pública - no foro do domicílio do réu, um dos foros concorrentes que lhe são legalmente facultados, sem que tenha sido argui da a incompetência relativa, impondo-se, portanto, o reconhecimento da competência do juízo suscitante.
+Forte nessas razões, CONHEÇO do conflito para estabelecer a competência do JUÍZO DE DIREITO DA 7ª VARA CÍVEL DE BRASÍLIA - DF.
+Publique-se. Intime-se. Oficiem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. CUMPRIMENTO PROVISÓRIO DE SENTENÇA PROFERIDA EM AÇÃO CIVIL PÚBLICA PROPOSTO EM DESFAVOR DO BANCO DO BRASIL. DIREITO DO CONSUMIDOR. FORO DO DOMICÍLIO DO RÉU. POSSIBILIDADE.
+1. Consoante o entendimento desta Corte Superior, firmado também no âmbito das ações coletivas, em se tratando de relações de consumo, é permitido ao consumidor optar pelo foro que facilite sua atuação em juízo, desde que a escolha não seja aleatória.
+2. Conflito conhecido. Declarada a competência do JUÍZO DE DIREITO DA 7ª VARA CÍVEL DE BRASÍLIA - DF.
