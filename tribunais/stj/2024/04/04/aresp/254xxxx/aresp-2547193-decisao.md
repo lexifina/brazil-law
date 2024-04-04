@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo interposto por MARIO RUBIANO FILHO e OUTRO, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de MARIO RUBIANO FILHO e OUTRO, a petição de recurso especial foi protocolada, na origem, sem o comprovante de pagamento das custas, em razão do pedido de gratuidade de justiça.
+O tribunal de origem determinou, então, a intimação da parte para comprovar o preenchimento dos requisitos para concessão do benefício, porém, a parte resolveu recolher as custas, abrindo mão do pedido e afastando, assim, a presunção de sua hipossuficiência. O recolhimento foi efetuado de modo simples.
+Todavia, nesse contexto, em que as custas não foram recolhidas no ato da interposição do recurso especial, bem como a renúncia ao pedido de gratuidade, imperiosa a observância do art. 1.007, § 4º do CPC, com o recolhimento em dobro.
+Ademais, percebeu-se no STJ haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, deixou o prazo transcorrer in albis.
+Ressalte-se que a petição de fls. 603/607 trazida aos autos em razão da certidão oportunizando a regularização do feito, não pode ser conhecida para os fins a que se destina, uma vez que protocolizada fora do prazo assinalado, ocorrendo a preclusão temporal da prática do ato.
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Além disso, a parte recorrente foi intimada da decisão agravada em 04/07/2023, sendo o agravo somente interposto em 04/09/2023.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+Segundo a orientação jurisprudencial desta Corte Superior, a interposição de recurso manifestamente incabível não interrompe o prazo recursal. Na espécie, os embargos de declaração opostos em face da decisão que inadmitiu o recurso especial não são o recurso adequado ou cabível à espécie. Nesse sentido, o AgInt no AREsp 1526806/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 13/4/2020.
+Ainda, a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes à subscritora do recurso especial, Dra. Fernanda Barbosa Simplício.
+Outrossim, percebeu-se, no Tribunal de origem, haver irregularidade na representação processual do recurso (fl. 441). A parte, embora regularmente intimada para sanar referido vício, deixou o prazo transcorrer in albis (fl. 456).
+Registre-se que, como o Tribunal de origem já havia intimado a parte recorrente para regularizar a representação do recurso especial e esta não providenciou o saneamento, não há previsão legal para que uma nova intimação seja realizada, devendo ser aplicado ao caso o disposto no art. 76, §2º, I do CPC. Portanto, não cabia ao Tribunal de origem assinalar nova oportunidade à parte para regularizar o vício, pois preclusa a oportunidade.
+Dessa forma, o re curso não foi devida e oportunamente regularizado, incidindo, na espécie, o disposto na Súmula n. 115/STJ.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
+ EMENTA
