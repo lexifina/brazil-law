@@ -1,0 +1,105 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+
+    “EMBARGOS A EXECUÇAO — Pretensão, exercida pela Fazenda do Estado , no sentido de que seja reconhecido excesso configurado no pagamento de juros compensatórios a maior - Laudo pericial que não prestigia, entretanto, a tese da embargante, demonstrando, de maneira analítica e pormenorizada, que os exequentes nada têm a devolver à executada - Apelação dos autores que, a despeito dos termos do laudo pericial, reconheceu crédito em favor deles, que nestes termos não pode ser provida, porque os Embargos à Execução não têm natureza dúplice - Recursos, da embargante e dos embargados, parcialmente providos” (eDOC 16 – ID: f471c9f2, p. 2)
+
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, LV; 93, IX; e 100, do texto constitucional.
+
+    Nas razões recursais, narra-se que o debate cinge-se à verificação de equivocada incidência de juros compensatórios entre 1962 e 1974, ao arrepio da decisão judicial na desapropriação indireta, o que gerou enriquecimento sem causa do exequente que pretende obter dezenas de milhões de reais ao passo que o Estado sustenta não dever nenhum centavo (eDOC 24 – ID: 69decb29, p. 3).
+
+    Alega-se a nulidade do acórdão impugnado, posto que teriam sido apresentadas provas conclusivas acerca da não incidência de juros compensatórios sobre o débito.
+
+    Aduz-se a carência de amparo pericial para saber se houve ou não incidência (e pagamento) de juros compensatórios entre 1962 e 1974, inverteu o ônus da prova no processo (já que na execução é o credor quem deve apontar com certeza o quantum debeaturj e conduziu a decisão, na dúvida, contra o executado Estado de São Paulo (eDOC 24 – ID: 69decb29, p. 4).
+
+    Sustenta-se, ainda, que o acórdão impugnado não observou o que fixado pelo Supremo Tribunal Federal no julgamento a modulação de efeitos realizada no julgamento das ADIs n° 4.357 e 4.425, assim como contrariado o teor da Súmula Vinculante nº 17.
+
+    Argumenta-seque não se pretende com o presente recurso que o SUPREMO TRIBUNAL FEDERAL reaprecie os cálculos e critérios homologados pelo tribunal recorrido, mas SOMENTE QUE RECONHEÇA A NULIDADE DO JULGADO E A OFENSA AOS DISPOSITIVOS CONSTITUCIONAIS ACIMA INVOCADOS PARA, REFORMANDO AS DECISÕES AQUI IMPUGNADAS, DETERMINAR A CONVERSÃO DO JULGAMENTO DOS EMBARGOS A EXECUÇÃO EM DILIGENCIA PARA QUE SEJA DIRIMIDA A QUESTÃO APONTADA PELO ASSISTENTE TÉCNICO DA FAZENDA DO ESTADO ACERCA DO QUANTUM DEBEATUR (eDOC 24 – ID: 69decb29, p. 9).
+
+    Em juízo de retratação, o órgão julgador manteve a decisão anterior, em acórdão que restou assim ementado:
+
+    “EMBARGOS À EXECUÇÃO. Apossamento administrativo. Devolução dos autos em cumprimento à regra do artigo 1.040, II, do CPC REsp. n° 1.492.221/PR (Tema 905) no qual o STJ entendeu que nas condenações judiciais referentes a desapropriações diretas e indiretas existem regras específicas no que concerne aos juros moratórios e compensatórios, razão pela qual não se justifica a incidência do art. 1°-F da Lei 9.494197 (com redação dada pela Lei n. 11.960/2009), nem para compensação da mora nem para remuneração do capital. O Supremo Tribunal Federal, no julgamento do RE 870.947 (Tema 810), não trata especificamente das ações de desapropriação de imóveis, razão por que prevalece o entendimento firmado no julgamento do Tema 905. Acórdão que, no julgamento do recurso de apelação, revelou-se em conformidade com os paradigmas, pelo que fica mantido. Recurso restituído à Egrégia Presidência da Seção de Direito Público, nos termos do art.1.041, caput, do CPC” (eDOC 36 – ID: 97941eba, p. 2)
+
+    Em novo juízo de retratação, o Tribunal de origem consignou que o acórdão impugnado não destoa dos precedentes do Supremo Tribunal Federal, em acórdão assim ementado:
+
+    “Desapropriação - Devolução dos autos em cumprimento à regra do artigo 1040, II, do CPC - Julgamento do Recurso Extraordinário n° 1169289/SC (Tema 1037), no qual o Supremo Tribunal Federal, ao cuidar da Súmula Vinculante 17 e da superveniência da Emenda Constitucional 62/2009, decidiu que não incidem juros de mora no período de que trata a regra do artigo 100, § 5º, da Constituição Federal - Acórdão que, ao julgar o Agravo de Instrumento, não se revelou em desconformidade com o paradigma do STF - Recurso restituído à Egrégia Presidência da Seção de Direito Público, nos termos do art. 1.041, caput, do CPC” (eDOC 40 – ID: 15456809, p. 2)
+
+    É o relatório.
+
+    Decido.
+
+    A irresignação não merece prosperar.
+
+    Inicialmente, rememoro que o caso em análise remonta a ato de desapropriação de bem particular, tendo sido fixado valor certo de indenização, restando remanescente a discussão apenas quanto aos encargos incidentes sobre o débito fazendário.
+
+    Em suas manifestações, o ente público estadual sustenta, em síntese, não ser cabível a incidência de juros moratórios e compensatórios durante o prazo previsto para o pagamento do débito.
+
+    Pois bem.
+
+    Anoto que, no julgamento do RE-RG 590.751, Rel. Min. Ricardo Lewandowski, DJe 4.4.2011, paradigma do tema 132 do Plenário Virtual, esta Suprema Corte assentou que não incidem juros durante o período de parcelamento previsto no Ato das Disposições Constitucionais, como se percebe da leitura de sua ementa:
+
+    “CONSTITUCIONAL. PRECATÓRIO. ART. 78 DO ADCT, INTRODUZIDO PELA EC 30/2000. INCIDÊNCIA DE JUROS COMPENSATÓRIOS E MORATÓRIOS NAS PARCELAS SUCESSIVAS. INADMISSIBILIDADE. ART 5º, XXIV E XXXVI, DA CONSTITUIÇÃO. OFENSA AO PRINCÍPIO DA JUSTA INDENIZAÇÃO. NECESSIDADE DE REEXAME DE PROVA. OFENSA REFLEXA. INCIDÊNCIA DA SÚMULA 279 DO STF. RE PARCIALMENTE PROVIDO. I - O art. 78 do ADC possui a mesma mens legis que o art. 33 deste Ato, razão pela qual, uma vez calculado o precatório pelo valor real do débito, acrescido de juros legais, não há mais falar em incidência destes nas parcelas anuais, iguais e sucessivas em que é fracionado, desde que adimplidas a tempo e corrigidas monetariamente. II – Não se mostra possível, em sede de recurso extraordinário, examinar a alegação de ofensa ao princípio da justa indenização, abrigado no art. 5º, XXIV, da Constituição Federal, diante do que dispõe a Súmula 279 do STF. III - A discussão acerca dos limites objetivos da coisa julgada, ademais, constitui matéria de legislação ordinária, que não dá ensejo à abertura da via extraordinária. IV - Recurso extraordinário parcialmente provido” (RE 590751, Rel. Min. Ricardo Lewandowski, Tribunal Pleno, DJe 04.04.2011)
+
+    Registro ainda que esta Corte, ao apreciar o tema 1.037 da repercussão geral, cujo paradigma é o RE 1169289, assentou que o enunciado da Súmula Vinculante nº 17 não foi afetado pela superveniência da Emenda Constitucional 62/2009, de modo que não incidem juros de mora no período de que trata o § 5º do art. 100 da Constituição. Anotou-se também que, no inadimplemento pelo ente público devedor, a fluência dos juros inicia-se após o período de graça. Nesse sentido, confira-se a ementa do precedente:
+
+    “RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. TEMA 1037. CONSTITUCIONAL. ADMINISTRATIVO. JUROS DE MORA. INCIDÊNCIA NO PERÍODO COMPREENDIDO ENTRE A DATA DA EXPEDIÇÃO DO PRECATÓRIO OU DA REQUISIÇÃO DE PEQUENO VALOR (RPV) E O EFETIVO PAGAMENTO. IMPOSSIBILIDADE. 1. Em 10/11/2009, a jurisprudência do SUPREMO TRIBUNAL FEDERAL no sentido de que, “durante o período previsto no parágrafo 1º do artigo 100 da Constituição, não incidem juros de mora sobre os precatórios que nele sejam pagos” atingiu o mais elevado grau de consolidação, consubstanciando o Enunciado 17 da Súmula Vinculante desta CORTE. 2. Pouco após, em 9/12/2009, foi promulgada a Emenda Constitucional 62, que promoveu ampla reformulação no art. 100 da Constituição, o qual versa sobre o regime de precatórios. 3. Não obstante a norma à qual se refere a SV 17 tenha sido deslocada do parágrafo 1º para o parágrafo 5º do art. 100, tal modificação não altera o sentido do enunciado sumular - que, aliás, não foi afetado por qualquer disposição da Emenda 62. 4. O período previsto no art. 100, parágrafo 5º, da Constituição (precatórios apresentados até 1º de julho, devendo ser pagos até o final do exercício seguinte) costuma ser chamado de “período de graça constitucional”. 5. Nesse interregno, não cabe a imposição de juros de mora, pois o ente público não está inadimplente. 6. Caso não haja o pagamento integral dentro deste prazo, os juros de mora passam a correr apenas a partir do término do “período de graça”. 7. Recurso extraordinário a que se nega provimento. Tese de repercussão geral: "O enunciado da Súmula Vinculante 17 não foi afetado pela superveniência da Emenda Constitucional 62/2009, de modo que não incidem juros de mora no período de que trata o § 5º do art. 100 da Constituição. Havendo o inadimplemento pelo ente público devedor, a fluência dos juros inicia-se após o 'período de graça'" (RE 1169289, Rel. Min. Marco Aurélio, Rel. p/ Acórdão Min. Alexandre de Moraes, Tribunal Pleno, DJe 01.07.2020 – grifo nosso)
+
+    Na espécie, contudo, a orientação seguida pelo Tribunal de origem, notadamente no que se refere à inexistência de excesso no valor a ser pago pelo Estado de São Paulo, subsidia-se em laudo pericial que, a despeito de não ter ratificado a incidência de juros compensatórios, confirmou que o pagamento realizado pelo ente público teria sido inferior ao valor homologado judicialmente. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+
+    “Neste aspecto, razoável a interpretação dos apelantes, Espólio e viúva, no sentido de que os juros compensatórios são a substância mesma da execução ora embargada, razão por que não se lhes aplicam as disposições da EC n° 62/09, particularmente a nova regra do artigo 100, § 12, da Constituição Federal. Mais não fosse, ajusta-se aqui a regra dos artigos 60, § 4°, e 5º, XXXVI, ambas do texto constitucional, não se podendo investir contra aquilo que dispôs o título judicial.
+
+    (...)
+
+    No concernente à aplicação do artigo 33 do ADCT, também mencionada na r. sentença, veja-se que não se justifica, porquanto inexistia precatório judicial pendente de pagamento na data da promulgação da Constituição de 1988, pressuposto daquela moratória. De fato, o precatório foi expedido em 1991, conforme Ofício ES 8423 (Autos do Processo n° 1515/91).
+
+    Diga-se mais, a ser verdade - o que se admite apenas a título de argumento que - o precatório estava sujeito à moratória instituída pelo artigo 33 do ADCT, inaplicável seria a norma do artigo 78 do ADCT, objeto da Emenda Constitucional n° 30, de 13/09/2000. Sucede que esta moratória de dez anos - e isto as partes não discutem - foi efetivamente aplicada. E a Fazenda do Estado, a partir de 1997 até dezembro de 2009, não depositou um centavo que fosse a título de juros compensatórios (fls. 508 a 512). A questão dos juros moratórios, como já se disse, foi resolvida em outro processo, e aqui, portanto, não está sendo discutida.
+
+    Resta saber se efetivamente foram computados juros compensatórios, relativos ao período de 1962 a março de 1974, em descumprimento ao que fora determinado no título judicial (vale dizer, no REsp. 5.632-0 e na sentença proferida em sede de liquidação, confirmada na superior instância).
+
+    É certo que se apurou na carta de sentença, a quantia de Cr$ 64.147.687,45, valor que embutia juros compensatórios de R$ 44.940.833,31 (fls. 505 e 528). É inegável, também, que a Fazenda do Estado realizou, em 30/12/93, o primeiro depósito, no valor de R$ 1.897.833,47, a título de juros compensatórios, supostamente relativos ao período decorrido entre 04/07/62 a 03/7/90 (fls. 506 a 528), seguindo-se ofício do juízo, somente em 09/11/96, no qual solicitou a exclusão dos referidos juros compensatórios do precatório (fls. 506), cujo termo inicial apenas se definiu em dezembro de 1999, seis anos depois do depósito realizado pela Fazenda do Estado, portanto.
+
+    Entretanto, a perícia realizada mostrou-se inconclusiva no que diz respeito ao valor efetivamente pago pela Fazenda do Estado a título de juros compensatórios, relativo a período anterior a abril de 1974 (data esta em que se tornaram devidos), pois a executada não trouxe aos autos o cálculo na base do qual chegou aos valores depositados em 30/12/93 (Cr$ 1.897.833,47) e em 15/8/95 (R$ 11.268,39). De qualquer forma, concluiu o perito que os depósitos realizados pela Fazenda do Estado são inferiores à dívida homologada pelo juizo.
+
+    Enfim, tratou o perito de considerar os únicos depósitos feitos a título de juros compensatórios (fls. 508 e 512) - precisamente aqueles acima apontados -, procedendo à apuração do quanto era efetivamente devido e do que foi pago, o que lhe permitiu chegar, por inferência, à conclusão de que a tese da Embargante não se sustenta (fls. 513 a 526), havendo de se dizer, a propósito, que tampouco colhe a argumentação no sentido de que os juros compensatórios, embora relativos ao período que se seguiu a março de 1974, somente seriam devidos a partir de dezembro de 1999, pois o pronunciamento do juízo, em fase de liquidação, implica reconhecimento do termo inicial daqueles juros, e não constituição deles.
+
+    E o acerto dos cálculos, tanto quanto dos critérios dos quais se valeu, é indubitável, havendo de se consignar que, embora não se questione, nos presentes Embargos à Execução, o cálculo dos juros de mora, atribuindo-se o alegado excesso na execução, exclusivamente, aos juros compensatórios indevidamente pagos por doze anos (julho de 1962 a março de 1974), certo é que, diante da omissão, por parte da Fazenda do Estado, no que toca aos cálculos na base dos quais chegou ao valor depositado a título de juros compensatórios (tal qual apontada linhas atrás), houve por bem o expert aplicar a metodologia exposta no item IV do laudo de fls . 508 a 509), atualizando todos os valores devidos, bem como descontando os valores pagos, na base dos mesmos parâmetros de correção monetária , o que lhe permitiu concluir sobre a existência de saldo em favor do autor, da ordem de R$ 1.442.038,85 (isto antes do parcelamento objeto da EC n° 30/00, diante do qual a executada não mais pagou juros de mora, nem juros compensatórios, que se consolidaram - fls. 408 a 413), tudo objeto da Tabela 6-G (fls. 513 a 516), quantia esta que, incidentes juros compensatórios e juros moratórios (respectivamente de 12% e 6% a.a.), já finda a moratória, chegou à monta, aplicada a correção monetária, de R$ 2.598.818,68, valor devido pela Fazenda do Estado de São Paulo conforme Tabela 9 (fls. 527).
+
+    E, considerando a expressiva diferença apontada (isto em favor dos exequentes), eventual erro no momento em que se fez a conversão do padrão monetário (fls. 553) não teria repercussão na sorte dos presentes Embargos à Execução.
+
+    Em outros termos, os Embargos à Execução são destituídos de fundamento , com o que longe se está de afirmar que, no julgamento deles, haja lugar para reconhecer o débito apontado pelo perito, o que implicaria dar aos Embargos à Execução natureza dúplice (que eles não têm), violando -se, assim, os limites objetivos da exceção oposta.
+
+    Em resumo, trata-se apenas de dizer que subsiste a pretensão dos exequentes, tal como formulada nos autos da execução, por força da rejeição dos presentes Embargos à Execução, o que implica parcial procedência do recurso fazendário (resultante do afastamento da condenação no "principal") e parcial procedência do recurso dos executados (que pedem a condenação da Fazenda em juros compensatórios, juros moratórios e honorários advocatícios — fls. 577), compensando-se a condenação nas verbas de sucumbência.” (eDOC 16 – ID: f471c9f2, p. 8-15)
+
+    Assim, verifica-se que o acórdão se encontra devidamente sustentado em laudo pericial detalhado que delimitou especificamente o valor do débito remanescente, bem como que assentou a responsabilidade do Estado de São Paulo na não apresentação de documentação essencial para subsidiar os cálculos realizados pelo perito, a fim de definir ao certo se houve incidência de juros compensatórios durante o período para pagamento.
+
+    No que se refere ao índice de correção monetária, vale registrar, inicialmente, que a matéria discutida nos autos não guarda correspondência com a debatida nas ADIs 4.357 e 4.425 ou, ainda, com o tema 810 da repercussão geral.
+
+    Isso porque, nas ADIs 4.357 e 4.425, declarou-se a inconstitucionalidade da TR como índice de correção monetária e fora deferida a modulação de efeitos para assegurar a sua incidência aos débitos cujos respectivos precatórios já tivessem sido expedidos à época do julgamento das ações de controle concentrado de constitucionalidade.
+
+    Por sua vez, no RE 870.947, paradigma do tema 810 da repercussão geral, também se declarou a inconstitucionalidade da TR e rechaçou-se a modulação de efeitos pleiteada, de maneira a determinar o imediato afastamento da TR como índice de correção monetária desde o ano de 2009 até 2015, incide nas hipóteses em que não tenha sido expedido o precatório correspondente.
+
+    Assim, em ambos os precedentes se discutiu a constitucionalidade dos índices de correção monetária e de juros de mora definidos pelo art. 1º-F, da Lei nº 9.494/1997.
+
+    Na espécie, contudo, não se discute a aplicabilidade dos índices do art. 1º-F, da Lei nº 9.494/1997, especialmente a forma de cálculo dos juros de mora, à luz da constitucionalidade das metodologias, mas ante a determinação de incidência de juros conforme as disposições constantes em legislação específica que regulamenta os procedimentos de desapropriação.
+
+    Efetivamente, o feito movido na origem consiste em embargos à execução em ação de desapropriação, portanto, submetida ao regramento do Decreto-lei nº 3.365/1941. O embargante/recorrente pleiteia a incidência imediata dos juros moratórios previstos no art. 1º-F, da Lei nº 9.494/1997, por lhe serem favoráveis, em detrimento dos juros dispostos na legislação específica.
+
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, tendo em vista remeter à integração das normas ante o aparente conflito normativo apontado, tendo em vista o Decreto-lei nº 3.365/1941 conter disposição específica quanto aos índices incidentes à espécie. Desse modo, a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, tendo em vista a necessidade de analisar os termos da laudo pericial produzido nos autos, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+
+    Nesse sentido, confiram-se os seguintes precedentes:
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 20.2.2018. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. DESAPROPRIAÇÃO. JUROS DE MORA. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. IMPOSSIBILIDADE. OFENSA REFLEXA. REEXAME DE PROVAS. SÚMULA 279 DO STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. Para divergir da conclusão adotada pelo Tribunal a quo, em relação ao pagamento da indenização na desapropriação por utilidade pública, necessário seria o revolvimento dos fatos e provas constantes dos autos, além do reexame de legislação infraconstitucional pertinente ao caso (Decreto-Lei 3.365/41), de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que torna inviável o processamento do apelo extremo. Incide, ainda, no caso a Súmula 279 do Supremo Tribunal Federal.2. Agravo regimental a que se nega provimento, com aplicação de multa de 5% (cinco por cento) sobre o valor da causa, nos termos do art. 1.021, § 4º, do CPC” (ARE 1081145 AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe 07.02.2020 – grifo nosso)
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. DESAPROPRIAÇÃO POR UTILIDADE PÚBLICA. REFORMA AGRÁRIA. JUSTA INDENIZAÇÃO. JUROS MORATÓRIOS. ANÁLISE DE NORMA INFRACONSTITUCIONAL. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279 DO STF. LIMITES DA COISA JULGADA. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 748.371. TEMA 660.AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. AGRAVO INTERNO DESPROVIDO” (ARE 1188857 AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 01.08.2019 – grifo nosso)
+
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+
+    Publique-se.
+
+    Brasília, 4 de abril de 2024.
+
+Ministro GILMAR MENDES
+
+Relator
+
+Documento assinado digitalmente
