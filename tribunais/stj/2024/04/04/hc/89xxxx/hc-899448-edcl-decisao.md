@@ -1,0 +1,18 @@
+DECISÃO
+JULIANO HENRIQUE DA PAES opõe embargos de declaração à decisão de fls. 50-51, em que indeferi liminarmente o habeas corpus e, por conseguinte, mantive inalterada a reprimenda a ele imposta.
+A defesa alega que o decisum embargado foi contraditório, porque, ao contrário do que afirmado, "o réu não possuía condenação anterior, somente respondeu este processo nº 0025500-81.2018.8.16.0013, em toda sua vida" (fl. 55).
+Requer, assim, "seja sanada esta contradição, dando provimento ao presente embargos, porque o réu não possuía condenação anterior, sendo aplicado o art. 33, § 4º, lei 11.343/2006, porque ao tempo do crime o paciente era primário (atestado de pena em anexo)" (fl. 56).
+Decido.
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso,
+ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+Na espécie dos autos, verifico que o decisum embargado não foi contraditório, porquanto delineou, de maneira clara e concretamente fundamentada, os motivos pelos quais não poderia ser reconhecida, em favor do réu, a minorante prevista no § 4º do art. 33 da Lei de Drogas.
+Na ocasião, salientou que o réu possui condenação anterior pela prática do crime previsto no art. 16 da Lei n. 10.826/2003, nos Autos n. 0022918-89.2010.8.16.0013, da 4ª Vara Criminal de Curitiba, em que houve a concessão de indulto e extinção da sua punibilidade em 27/3/2017 (Processo de Execução Penal n. 0003690-60.2012.8.16.0013).
+E, consoante o enunciado na Súmula n. 631 do STJ: "O indulto extingue os efeitos primários da condenação (pretensão executória), mas não atinge os efeitos secundários, penais ou extrapenais".
+Ademais, embora a defesa afirme, em seus embargos de declaração, que "o réu possui apenas um processo em toda sua vida informado acima, onde foi condenado pelo art. 33, caput, lei 11.343/2006 e art. 12 lei 10.826/2003, não existindo condenação anterior como narrado na decisão de (fls. 50/51)" (fl. 56), certo é que a documentação colacionada aos autos não é suficiente para afastar a alegação da instância de origem de que o paciente ostenta condenação anterior nos autos do referido processo, visto que não foi trazida à colação cópia da referida certidão de mov. 205.1 dos autos de execução penal n. 0003690- 60.2012.8.16.0013.
+Nesse sentido, menciono: "Na hipótese, o impetrante não trouxe aos autos a folha de antecedentes criminais do paciente, documento indispensável para infirmar o entendimento das instâncias ordinárias, consistente na existência de maus antecedentes pelo paciente." (HC n. 395.548/SC, Rel. Ministro Felix Fischer, 5ª T., DJe 12/9/2017).
+Ainda: " ..  a deficiente instrução do writ inviabiliza o enfrentamento da alegação de que teriam sido utilizadas condenações sem trânsito em julgado a título de maus antecedentes" (HC n. 141.587/SP, Rel. Ministro Og Fernandes, 6ª T., DJe 14/2/2011).
+Ressalto que a afirmação feita pela Corte estadual - de que o paciente era reincidente ao tempo do crime - presume-se como verdadeira (presunção juris tantum), cabendo à defesa o ônus de infirmar tal alegação, o que, no entanto, não ocorreu.
+Assim, o que se percebe, na verdade, é que a irresignação do embargante se resume a mero inconformismo com o resultado do julgado, que lhe foi desfavorável, não havendo nenhum fundamento que justifique a oposição de embargos de declaração.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
