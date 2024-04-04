@@ -1,0 +1,91 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de FELIPE DE OLIVEIRA DA SILVA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Apelação n. 5119396-86.2021.8.21.0001).
+Depreende-se dos autos que o réu foi condenado a 7 anos e 6 meses de reclusão, no regime inicialmente fechado, por ter sido flagrado em posse de 6g (seis gramas) de crack (e-STJ fl. 12).
+A defesa interpôs apelação perante o Tribunal estadual, que negou provimento ao recurso, em acórdão assim ementado (e-STJ fl. 33):
+APELAÇÃO CRIME. TRÁFICO DE DROGAS. CONDENAÇÃO. APELO DEFENSIVO. MANUTENÇÃO DO JUÍZO CONDENATÓRIO.
+Após empreender fuga apenas por visualizar a aproximação da guarnição, que estava em patrulhamento em conhecido ponto de tráfico de drogas, palco de guerra entre facções criminosas, o réu foi detido e preso em flagrante na posse de grande quantidade de crack e de dinheiro, incompatível com a alegação de posse para uso exclusivo pessoal.
+APENAMENTO. REDUÇÃO. ABRANDAMENTO DO REGIME CARCERÁRIO. IMPOSSIBILIDADE.
+Apelo improvido.
+Nesta instância, a defesa postula a absolvição do paciente, argumentando não ter sido comprovada a finalidade de mercancia da droga apreendida (e-STJ fl. 4).
+Acrescenta ser ilegal a abordagem sem justificativa suficiente (e-STJ fl. 5).
+Daí o presente writ, no qual pretende a absolvição ou a desclassificação do delito para o de porte de drogas para o uso (e-STJ fl. 11).
+Liminar deferida às e-STJ fls. 269/270.
+Informações acostadas às e-STJ fls. 274/309 e 310/316.
+O Ministério Público Federal opinou pelo não conhecimento da ordem (e-STJ fls. 137/141).
+É o relatório.
+Decido.
+Destaco, preliminarmente, não se admitir em habeas corpus que se proceda ao revolvimento do material fático-probatório, visto que se trata de via incompatível com a realização de dilação probatória. Não por outra razão, advertiu o Supremo Tribunal Federal que "pedido de absolvição não cabe no âmbito do processo de habeas corpus, quando dependa de reexame da prova" (RHC n. 83.231/SP, relator Ministro Cezar Peluso, Segunda Turma, julgado em 2/6/2009, DJe-118, divulgado em 25/6/2009, publicado em 26/6/2009, EMENT VOL-02366-01 PP-00148, negritos aditados).
+Ainda nesse sentido:
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. SUBSTITUIÇÃO POR CAUTELARES DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO. EXCESSO DE PRAZO PARA O ENCERRAMENTO DO FEITO. NÃO OCORRÊNCIA. ORDEM DENEGADA.
+1. Não é possível, na via estreita do habeas corpus, examinar a tese defensiva de ausência de elementos indicativos do envolvimento do paciente na conduta ilícita, por demandar ampla dilação probatória, pois o decisum proferido pelo Juízo de primeiro grau relata atuação conjunta entre o acusado e o adolescente.
+ ..
+5. Ordem denegada.
+(HC 500.438/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 16/5/2019, DJe 27/5/2019.)
+Entretanto, tal vedação não implica a impossibilidade de se examinar a fundamentação contida no ato decisório. E, uma vez constatado que não foram indicados elementos suficientes para a imposição de um decreto condenatório, não há empecilho, mas, ao contrário, exige-se, neste caso, que seja anulado o ato jurisdicional combatido.
+Trago, nessa linha, acórdão emanado da Sexta Turma do Superior Tribunal de Justiça, de minha relatoria, em que foi afastada a condenação em habeas corpus, tendo em vista a fundamentação deficiente do decreto condenatório:
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. ART. 155 DO CÓDIGO DE PROCESSO PENAL. NULIDADE DA SENTENÇA. CONDENAÇÃO FUNDADA APENAS NO DEPOIMENTO DE CORRÉU PRESTADO NA FASE POLICIAL. AUSÊNCIA DE CONFIRMAÇÃO EM JUÍZO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. O art. 155 do Código de Processo Penal não vedou, de forma absoluta, a utilização das informações coletadas na fase policial na formação do convencimento do juiz. Ao contrário, permite que elementos informativos possam servir de fundamento à decisão condenatória, desde que existam, também, provas produzidas em contraditório judicial. Assim, para concluir acerca da veracidade dos fatos narrados na denúncia, o sentenciante pode utilizar tanto os elementos de prova - produzidos em contraditório - como os de informação, coletados durante a investigação. Apenas lhe é vedado valer-se exclusivamente dos dados informativos obtidos durante a fase policial. Precedentes.
+2. Na espécie, da análise da fundamentação apresentada pelas instâncias de origem, é possível concluir que a condenação do paciente se lastreou exclusivamente em elementos colhidos na fase policial, tendo em vista que o único dado a apontar a participação do paciente no crime descrito na denúncia é o depoimento extrajudicial do corréu, morto em confronto com a polícia antes de realizada a audiência de instrução, debates e julgamento. Os demais elementos apresentados pelas instâncias ordinárias são insuficientes a embasar o édito condenatório, pois as vítimas e testemunhas arroladas no processo não reconheceram o paciente como autor do crime patrimonial. Embora os depoimentos prestados em contraditório assinalem que o delito fora praticado por dois agentes, nenhum deles confirmou a participação do paciente na empreitada criminosa. Em conclusão, não há menção expressa na sentença condenatória de depoimentos colhidos em juízo que confirmaram a efetiva participação do paciente nos fatos descritos na incoativa.
+3. Ordem concedida para reconhecer a nulidade da sentença condenatória, porquanto lastreada apenas em elementos informativos, com a consequente absolvição do paciente, na forma do art. 386, inciso VII, do Código de Processo Penal.
+(HC 430.813/SP, de minha relatoria, SEXTA TURMA, julgado em 23/8/2018, DJe 4/9/2018.)
+Em outras palavras, o exame da configuração do constrangimento ilegal suscitado pela impetrante, desde que não reclame incursão no acervo probatório, é autorizado na via angusta do habeas corpus.
+Como visto, objetiva a defesa a absolvição do paciente em relação ao delito de tráfico de entorpecentes, previsto no art. 33, ou a desclassificação para o delito de uso e porte de entorpecentes, previsto no art. 28, ambos da Lei n. 11.343/2006.
+No caso, o Tribunal de origem, mantendo a condenação, assim consignou (e-STJ fls. 28/31, grifei):
+No dia 08.10.2021, por volta de 11h, policiais militares estavam realizando patrulhamento na Rua Campinas do Sul, proximidades do nº 242, via pública, Bairro Lomba do Pinheiro, nesta Capital, quando avistaram o réu, em conhecido ponto de tráfico de drogas da região.
+Felipe carregava 01 mochila.
+Ao perceber a aproximação da guarnição policial, o réu correu em direção de um pátio.
+Em razão disso, realizada a abordagem de rotina.
+Nesta mochila e na posse direta de Felipe foram apreendidos 36 pedras de "crack", pesando aproximadamente 6,4g; R$ 728,00; 02 facas e 03 peças de roupas camufladas do exército brasileiro.
+Diante do estado de flagrante delito, o réu foi preso e conduzido à Delegacia de Polícia.
+A traficância restou demonstrada pela forma como se encontravam acondicionados os entorpecentes, ou seja: já fracionados e acondicionados em pedras ("crack"), prontos para venda e fornecimento a consumidores.
+Ainda, a quantia de R$ 728,00, certamente proveniente do comércio ilegal, robustece a traficância empreendida por Felipe, especialmente pelo fato de que não comprovada a origem lícita desse expressivo valor.
+Também apreendida farda camuflada do exército, vestimenta comumente utilizada pelos traficantes daquela específica região em casos de fugas, quando se escondem no mato existente na localidade Lomba do Pinheiro, peculiaridade esclarecida pela prova testemunhal.
+Aliás, há informação nos autos que indicam que entre as paradas 13 e 15 existe uma divisão de territórios, dominados por facções rivais, que estavam em conflito/disputa de pontos de traficância.
+Exatamente por este motivo o réu foi preso na posse de drogas, próximo de uma rota de fuga e com a farda camuflada, para tentar se esconder em caso de confronto.
+Esse contexto fático analisado, anterior à abordagem, permitiu aos policiais concluírem que estava havendo o cometimento de delito, levando à necessária e urgente atuação de força da segurança pública, a confirmar a suspeita dos elementos de probabilidade delitiva.
+Desta forma, presentes fundadas razões para a realização da abordagem policial, em via pública, em local conhecido como ponto de tráfico, daquele bairro Lomba do Pinheiro.
+Em memoriais, a Defesa suscitou a insuficiência probatória como fator a ensejar a absolvição do réu. Aduziu que os relatos dos policiais, por si só, não são capazes de formar juízo condenatório. Também, foi alegado o "enxerto" das drogas pelos policiais.
+Entretanto, afastáveis tais teses.
+A prática criminosa pelo réu resultou incontroversa diante de todo o contexto probatório particular ao presente feito - e examinado -, em que inseridos os depoimentos dos policiais militares, mas não unicamente com base nessa prova testemunhal.
+Inobstante a isso, o réu negou a acusação.
+Sobre a alegação de que a droga e a farda camuflada foram enxertadas pelos servidores públicos, e após verificarem seus antecedentes criminais, não restou minimamente comprovada na instrução.
+Ora, cabia ao réu demonstrar ao Juízo que os fatos ocorreram na forma como suscitou. É o que disciplina o art. 156 do Código de Processo Penal.
+Não foi o que ocorreu.
+As teses da defesa são unicamente no sentido de imputar fatos inverídicos aos policiais, para descredibilizar a atuação desses servidores.
+Ocorre que as declarações em Juízo dos agentes públicos são no mesmo sentido das versões por eles apresentadas durante a autuação em flagrante do réu, quando os acontecimentos ainda eram cristalinos e presentes em suas memórias.
+Note-se que os policiais foram firmes em descrever que Felipe estava em via pública carregando uma mochila. Ao avistar a aproximação da guarnição policial, correu, chamando a atenção dos servidores públicos.
+Ainda, quanto à alegação de Felipe, de que estava se deslocando à casa da locadora do imóvel onde residia para pagar o aluguel, não merece credibilidade.
+Note-se que o próprio denunciado afirmou que, naquela oportunidade, saiu da casa do seu pai (localizada na Rua Ana Terra) para pagar o aluguel. A locadora do imóvel residia em frente da casa do seu pai, mas Felipe foi preso na posse das drogas, dinheiro e roupas camufladas em rua diversa da moradia do genitor (Rua Campinas).
+Aliás, sequer veio aos autos demonstração de que Felipe alugasse uma casa, o que facilmente poderia ser comprovado por meio de documento de contrato de locação ou depoimento pessoal da locadora do imóvel, ônus que cabia à defesa, que não o fez.
+Logo, a variante defensiva de "enxerto" pelos policiais não merece credibilidade, pois absolutamente inverossímil e isolada nos autos.
+ ..
+Sobre "atos de comércio" no delito de tráfico de drogas, não se exigem atos próprios da mercancia para caracterizar o narcotráfico. O autuado não precisa estar comercializando a substância entorpecente (repassando a terceiro com o recebimento do dinheiro) para configurar o crime em tela, pois o simples trazer consigo as drogas já constitui o delito de tráfico.
+O tipo penal em tela caracteriza-se pela previsão de diversas condutas, sendo 18 os verbos constantes no "caput" do art. 33 da Lei nº 11.343/2006, dentre eles o de "trazer consigo" para fins de venda e fornecimento a consumidores, no qual restou enquadrada a conduta do acusado na denúncia.
+ ..
+Como visto, após empreender fuga apenas por visualizar a aproximação da guarnição, que estava em patrulhamento em conhecido ponto de tráfico de drogas, palco de guerra entre facções criminosas, o réu foi detido e preso em flagrante na posse de grande quantidade de crack e de dinheiro, incompatível com a alegação de posse para uso exclusivo pessoal.
+A leitura do acórdão recorrido permite-me concluir que assiste razão à defesa quanto ao seu pleito desclassificatório.
+Vê-se que o único elemento utilizado para justificar a condenação, além da apreensão da droga e uma quantia em dinheiro em poder do paciente, foi o depoimento prestado em juízo pelos policiais que efetuaram a prisão em flagrante.
+A apreensão da droga, por si só, insta consignar, não indica a realização do tipo inserto no art. 33 da referida lei, notadamente se considerada a quantidade que foi encontrada - 6,40g (seis gramas e quarenta miligramas) de crack.
+Vê-se, a toda evidência, que o paciente afirmou que tinha em sua posse apenas o dinheiro que serviria ao pagamento do aluguel, negando a posse das drogas e da faca, bem como a roupa camuflada. Não obstante, por ser o local ponto de venda de drogas, concluiu-se pela prática do crime de tráfico de drogas, muito embora não tenham sido encontrados apetrechos comuns à traficância (balança de precisão, calculadora, material para embalar a droga, etc.).
+Desse modo, tenho que é insuficiente para a demonstração da configuração do tipo inserto no art. 33 da Lei n. 11.343/2006 invocar tão somente ser o local ponto de tráfico de drogas, notadamente se considerada a pouca quantidade apreendida e a versão apresentada por ele.
+Nesse sentido, confira-se o seguinte precedente:
+RECURSO ESPECIAL. TRÁFICO DE DROGAS. PLEITO DESCLASSIFICATÓRIO. DESNECESSÁRIO REVOLVIMENTO DE PROVAS. ALEGADA POSSE DE DROGAS PARA CONSUMO PRÓPRIO. AUSÊNCIA DE PROVA DA TRAFICÂNCIA PELO MINISTÉRIO PÚBLICO. ÔNUS DA PROVA NO PROCESSO PENAL. REGRA PROBATÓRIA DECORRENTE DA PRESUNÇÃO DE INOCÊNCIA. RECURSO PROVIDO.
+1. Não se desconhece o entendimento pacífico da jurisprudência - tanto deste Superior Tribunal quanto do Supremo Tribunal Federal - de que a pretensão de desclassificação de um delito exige, em regra, o revolvimento do conjunto fático-probatório produzido nos autos, providência incabível, em princípio, em sede de recurso especial.
+2. Todavia, a moldura fática delineada na sentença e no acórdão não demonstrou o fim de mercancia, nem afastou de forma inconteste a afirmação do réu de que a droga apreendida destinava-se ao seu consumo pessoal.
+3. A Lei n. 11.343/2006 não determina parâmetros seguros de diferenciação entre as figuras do usuário e a do pequeno, médio ou grande traficante, questão essa, aliás, que já era problemática na lei anterior (n. 6.368/1976) - e que continua na legislação atual
+.4. Não por outro motivo, a prática tem evidenciado que a concepção expansiva da figura de quem é traficante acaba levando à inclusão, nesse conceito, de cessões altruístas, de consumo compartilhado, de aquisição de drogas em conjunto para consumo próprio e, por vezes, até de administração de substâncias entorpecentes para fins medicinais.
+5. A atual (embora não recente) crise do sistema penitenciário brasileiro e o fato de o Brasil possuir, hoje, a terceira maior população carcerária do mundo - segundo o Centro Internacional de Estudos Prisionais - ICPS (International Centre for Prision Studies) - recomendam não desconsiderar as ponderações feitas neste caso concreto de que efetivamente é temerária, também sob essa perspectiva, a condenação do acusado pelo crime de tráfico de drogas.
+6. A conduta imputada pelo Ministério Público - dentre as várias previstas no art. 33, caput, da Lei n. 11.343/2006 (que é de conteúdo múltiplo) - foi a de trazer consigo "11 (onze) pedras de crack, divididas em papelotes individuais e escondidas em suas partes íntimas". Em nenhum momento, o acusado foi visto vendendo, expondo à venda ou oferecendo entorpecentes a terceiros.
+7. Não foram mencionados elementos que demonstrem, de modo satisfatório, a destinação comercial do entorpecente localizado com o recorrente. Com efeito, não houve campana policial para averiguação da conduta do recorrente, mas tão somente uma abordagem pessoal em virtude do fato de o coacusado - que conduzia a motocicleta - ter se evadido ao avistar a autoridade policial.
+8. O Ministério Público - sobre quem pesa o ônus da prova dos fatos alegados na acusação - não comprovou a ocorrência de mercancia ilícita da droga encontrada em poder do recorrente, ou que a tanto se destinava, de modo que remanesce somente a conduta de trazer consigo a droga, para consumo pessoal, prevista no tipo do caput do art. 28 da Lei n. 11.343/2006.
+9. Dada a primariedade do recorrente (conforme reconhecido na sentença), a reprimenda prevista para o delito de posse de drogas para consumo próprio - prestação de serviços à comunidade ou medida educativa de comparecimento a programa ou curso educativo - não pode superar o prazo de 5 meses (art. 28, § 3º, da Lei n. 11.343/2006).
+10. Entretanto, o acusado respondeu ao processo cautelarmente privado de sua liberdade (desde sua prisão em flagrante, em 6/3/2017), e sua custódia preventiva foi mantida na sentença condenatória.
+11. Como ele está preso a um lapso temporal superior ao da reprimenda que lhe seria imposta, deve ser reconhecida a extinção de sua punibilidade.
+12. Recurso provido para desclassificar a conduta imputada ao réu para o crime previsto no art. 28 da Lei n. 11.343/2006 e, já cumprido o prazo máximo da sanção cabível - de modo até mais oneroso -, julgar extinta sua punibilidade.
+(REsp 1769822/PA, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 27/11/2018, DJe 13/12/2018.)
+Cumpre assinalar que a condenação pressupõe prova robusta, que indique, sem espaço para dúvida, a existência do crime e a prova de autoria, situação que não ocorre na espécie, em que o Juízo condenatório apoiou-se em uma presunção.
+Conforme já advertiu esta Corte Superior, "a avaliação do acervo probatório deve ser realizada balizada pelo princípio do favor rei. Ou seja, remanescendo dúvida sobre a responsabilidade penal do acusado, imperiosa será a sua absolvição, tendo em vista que sobre a acusação recai o inafastável ônus de provar o que foi veiculado na denúncia" (HC n. 497.023/ES, de minha relatoria, Sexta Turma, julgado em 11/6/2019, DJe 21/6/2019).
+Assim, necessária a desclassificação para a figura prevista no art. 28 da Lei n. 11.343/2006.
+Ante o exposto, concedo em parte a ordem para desclassificar a conduta para o tipo descrito no art. 28 da Lei n. 11.343/2006, e, em seguida, declarar extinta a punibilidade do paciente.
+Publique-se. Intimem-se.
+EMENTA
