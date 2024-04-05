@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo apresentado por LENILDA DO PRADO CORREIA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE, assim resumido:
+AGRAVO DE INSTRUMENTO - EMBARGOS À EXECUÇÃO GRATUIDADE DEFERIDA NO JUÍZO DE ORIGEM - A PRESUNÇÃO DE VERACIDADE DA ALEGAÇÃO DE INSUFICIÊNCIA (ART. 99, § 3O, DO CPC) É RELATIVA, ADMITINDO-SE, PORTANTO. PROVA EM CONTRÁRIO - DOCUMENTAÇÃO JUNTADA AOS AUTOS QUE DEMONSTRA QUE A AGRAVADA DISPÕE DE CONDIÇÕES DE ARCAR COM OS ENCARGOS PROCESSUAIS - REVOGAÇÃO DA GRATUIDADE DE JUSTIÇA PRECEDENTES DESTA CORTE - RECURSO CONHECIDO E PROVIDO.
+Quanto à primeira controvérsia, a parte recorrente alega violação do art. 99, § 3º, do CPC, no que concerne à necessidade de deferimento da benesse da gratuidade de justiça à parte recorrente, haja vista que a presunção relativa de veracidade da declaração de hipossuficiência firmada por pessoa física, não foi elidida por elementos capazes de evidenciar a falta de pressupostos, trazendo a seguinte argumentação:
+Nota-se que o Tribunal de Justiça do Estado de Sergipe concluiu que não houve comprovação da insuficiência financeira.
+ ..
+Com efeito, pela própria previsão legal, o indeferimento deve ocorrer, somente, quando houver nos autos elementos que evidenciem a falta dos pressupostos.
+In casu, os documentos apresentados pelo recorrido, na tentativa de afastar a gratuidade judiciária, datam do ano de 2017 e 2018 e, por isso, não são capazes de evidenciar a realidade financeira atual.
+Ora, em se tratando de impugnação à gratuidade judiciária, o próprio E. Tribunal de Justiça de Sergipe já fixou o entendimento de que a declaração de pessoa natural quanto a sua incapacidade financeira para arcar com as custas do processo presume-se verdadeira devendo ser elidida por prova em contrário.
+ ..
+E, no caso em apreço, não foram apresentadas provas aptas a elidir a gratuidade, pois os documentos apresentados são extemporâneos (fls. 112-113).
+Quanto à segunda controvérsia, a parte recorrente alega violação dos arts. 98, §§ 1º e 2º, e 99, § 1º, do CPC, no que concerne à necessidade de deferimento da benesse da gratuidade de justiça à parte recorrente, eis que, conforme documentos anexados aos autos, não possui condições de arcar com as despesas decorrentes do processo, trazendo a seguinte argumentação:
+Por sua vez, a recorrente foi capaz de evidenciar suas despesas mensais atuais, a exemplo de plano de saúde no valor de R$ 2.046,84 (dois mil, quarenta e seis reais e oitenta e quatro centavos), aluguel no importe de R$ 1.650,00, além de despesas de água e energia.
+Portanto, fora evidenciado que a recorrente, idosa, possui gastos elevados que impedem o seu acesso à Justiça, sem comprometer seu sustento.
+ ..
+No caso versado as evidências demonstraram a necessidade, por isso a declaração expressa de insuficiência financeira (fls. 114-115).
+É, no essencial, o relató rio. Decido.
+Quanto à primeira e à segunda controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Calha mencionar, porém, que a presunção disposta pelo dispositivo em testilha é relativa (juris tantum), porquanto se demonstrado, já após a concessão da gratuidade, que a parte beneficiária dispõe de condições de arcar com os encargos processuais, nada impede que a benesse seja revogada, seja de ofício, seja a requerimento das partes.
+Em perlustre dos autos, observo que o agravante, mediante a documentação juntada aos autos, conseguiu comprovar que não mais subsiste a presunção que ensejou a concessão do mencionado benefício.
+Nessa trilha, vislumbra-se o documento de fl. 64, por meio do qual se denota que a agravada possui rendimentos tributáveis de R$ 139.711,73, valor este, portanto, condizente com a possibilidade de custeamento das despesas processuais. A esta conjuntura, acrescenta-se ainda o fato de que a recorrida percebe, a título de benefício previdenciário, um significativo valor de 11.440,00 (fl. 68).
+Ainda que a documentação ora mencionada se refira aos rendimentos da agravada no ano de 2017, caberia a ela demonstrar que, desde então, a sua situação econômico-financeira sofreu modificação; em suas contrarrazões, porém, a parte recorrida se limitou a afirmar que possui despesas mensais elevadas, de sorte que não conseguiu impugnar, com êxito, os documentos juntados pelo agravante (fl. 99).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
