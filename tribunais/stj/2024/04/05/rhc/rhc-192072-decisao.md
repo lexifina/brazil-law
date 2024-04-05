@@ -1,0 +1,24 @@
+DECISÃO
+O recorrente, acusado por tentativa de homicídio qualificado, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de origem, que denegou a ordem impetrada naquela Corte, na qual pretendia a revogação da sua prisão preventiva, objetivo este reiterado nesta oportunidade.
+A defesa assinala, nas razões de pedir, a ausência de fundamentação idônea da decisão que decretou a medida. Explica eu o réu tem endereço fixo, emprego e é pessoa conhecida na cidade, sem histórico agressivo. Além disso, constituiu advogado para responder ao processo.
+Requer a concessão de alvará de soltura.
+O Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+O paciente foi denunciado por infringência ao art. 121,§ 2º, I e VI, c/c art. 14, ambos do CP (em relação à ex-companheira) e art. 121, § 2º, inciso I, c/c art. 14, ambos do CP (em relação a Carlos Daniel Vieira dos Santos), uma vez que, em tese, "por não aceitar o término do relacionamento, a pretexto de visitar os seus filhos, dirigiu-se até a residência da vítima Rosângela, apossando-sede uma faca tipo peixeira, passando a esfaqueá-la e, em seguida, seu o seu enteado Carlos Daniel, atingido no abdômen, ficando com as vísceras expostas necessitando de intervenção cirúrgica" (fl. 71).
+Nesse contexto, o Juiz assim deliberou (fls. 34-35, destaquei):
+ ..  mostra-se evidente que o representado  está  foragido do distrito da culpa, com o fito de se esquivar da aplicação da lei penal.
+ ..
+Ademais, os fatos narrados nas peças, revestem-se de gravidade concreta, sugerindo de que o cometimento de tentativa de feminicídio se deu apenas em razão de uma discussão com a ex-companheira, o que afronta à ordem constituída, principalmente em se tratando de delitos que ferem os direitos e garantias que a Lei nº. 11.343/2006 visa resguardar, fato este que, neste momento, desaconselham a concessão de liberdade provisória, como forma de garantir a ordem pública.
+Segundo o Magistrado, "a gravidade do crime em questão precisa ser tratada com a mesma veemência da sua prática. Por consequência, só se pode concluir pela gravidade do crime, o qual, em liberdade, significará perigo para a ordem pública, devendo, assim, ser atendido o pedido de prisão preventiva" (fl. 35).
+Não verifico a pretensa ilegalidado do ato judicial.
+A prisão preventiva é compatível com a presunção de não culpabilidade, desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado. Deve apoiar-se em motivos concretos, dos quais se possa extrair o perigo atual que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal.
+Também a teor dos julgados desta Corte, a gravidade concreta do delito, com modus operandi revelador da periculosidade social, justifica o risco que a liberdade do acusado representa para a ordem pública.
+No caso, trata-se de réu denunciado por tentativa de feminicídio e de homicídio do seu enteado e, segundo o Juiz, a dinâmica do crime denota agressividade, pois os fatos, em tese, ocorreram em razão de discussão com a ex-companheira.
+Para a escolha da cautelar mais adequada ao caso concreto, o julgador deve examinar a seriedade do ilícito e a gravidade de suas circunstância, e não somente as condições pessoais do réu. Segundo os vetores do art. 282, II, do CPP, não é desproporcional a conclusão do Juiz, pela necessidade da medida extrema.
+O acórdão recorrido observou a jurisprudência desta Corte, pois a "custódia preventiva está adequadamente motivada em elementos concretos extraídos dos autos, que indicam a necessidade de se resguardar a ordem pública, pois a periculosidade social do agravante está evidenciada no modus operandi do ato criminoso" (AgRg no RHC n. 188.224/CE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/12/2023, DJe de 18/12/2023).
+Considerada a gravidade do crime e das suas circunstâncias, em juízo de proporcionalidade, não se mostra adequada a substituição da prisão preventiva por medidas a ela alternativas (art. 282, c/c o art. 319, do CPP).
+A teor dos julgados desta Corte, " d emonstrada pelas instâncias ordinárias, com expressa menção à situação concreta, a presença dos pressupostos da prisão preventiva, não se mostra suficiente a aplicação de quaisquer das medidas cautelares alternativas à prisão, elencadas no art. 319 do Código de Processo Penal" (AgRg no HC n. 685.539/PE, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 25/10/2022, DJe de 3/11/2022).
+Além disso, apesar da contração de advogado, a "fuga constitui o fundamento do juízo de cautelaridade, em juízo prospectivo" (AgRg no HC n. 876.061/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024).
+À vista do exposto, nego provimento ao recurso em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
