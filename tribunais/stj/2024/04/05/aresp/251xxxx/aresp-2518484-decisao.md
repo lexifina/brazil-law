@@ -1,0 +1,15 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ANDERSON DOS SANTOS SOUZA, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: de rescisão contratual cumulada com compensação por dano moral, ajuizada pelo agravante, em face da agravada, na qual alega ter sido enganado pela agravada, eis que assinou contrato de consórcio acreditando que o mesmo se tratava de contrato de financiamento bancário para aquisição de veículo. Pleiteia seja declarada a rescisão do contrato descrito na inicial, assim como compensação por danos morais.
+Acórdão: negou provimento à apelação interposta pela parte agravante, nos termos da seguinte ementa:
+RECURSO DE APELAÇÃO. AÇÃO DE RESCISÃO CONTRATUAL C.C. DEVOLUÇÃO DA QUANTIA PAGA E INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. SENTENÇA DE IMPROCEDÊNCIA. RECURSO DO AUTOR. INEXISTÊNCIA DE CERCEAMENTO DE DEFESA. AUTOR QUE ALEGA VÍCIO DE CONSENTIMENTO, POIS ACREDITAVA TER GARANTIA DE CONTEMPLAÇÃO IMEDIATA. PORÉM É NOTÓRIO QUE O CONSÓRCIO NÃO TEM PREVISÃO CERTA DE CONTEMPLAÇÃO. ADEMAIS, DOCUMENTOS DEMONSTRAM CIÊNCIA DO AUTOR EM RELAÇÃO À NÃO VENDA DE COTAS CONTEMPLADAS. OUTROSSIM, CASO O AUTOR TENHA SIDO ENGANADO, O DIREITO NÃO PODE DAR GUARIDA À SUA PRETENSÃO POIS ISSOS ERIA PRIVILEGIAR A PRÓPRIA TORPEZA. SENTENÇA MANTIDA. RECURSO NÃO PROVIDO. (e-STJ Fl. 285)
+Decisão de admissibilidade do TJ/SP: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) inadmissibilidade de recurso especial fundamentado em violação de dispositivo constitucional; ii) incidência da Súmula 7 do STJ, e iii) deficiência na demonstração do dissídio jurisprudencial.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante reitera os termos do apelo especial, asseverando a ocorrência de cerceamento de defesa à espécie.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: i) inadmissibilidade de recurso especial fundamentado em violação de dispositivo constitucional; ii) incidência da Súmula 7 do STJ, e iii) deficiência na demonstração do dissídio jurisprudencial.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados anteriormente para 20% sobre o valor atualizado da causa, observada a concessão de justiça gratuita.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
