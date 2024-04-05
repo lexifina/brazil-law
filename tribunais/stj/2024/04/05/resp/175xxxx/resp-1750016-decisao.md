@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARIRISIA GOBBO MIRANDA (MARIRISIA), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, de relatoria do Des. Henrique Nelson Calandra, assim ementado:
+AGRAVO DE INSTRUMENTO. Ação Civil Pública. Expurgos Inflacionários. Liquidação de sentença transitada em julgado. Prevençãodesta C. Câmara para apreciação dos recursos oriundos do processo nº 0403263-60.1993.8.26.0053, que tramitou perante a 6ª Vara da Fazenda Pública da Comarca da Capital. Adoção do índice de 42,72% para cálculoda diferença não creditada quando da edição do Plano Verão em relaçãoàs cadernetas com aniversário na primeira quinzena de janeiro de 1989. Após a dedução do índice efetivamente aplicado à época, o poupador fazjus ao recebimento da diferença de 20,3609%.
+Suspensão do andamento da execução. Determinação com fulcro nos Recursos Especiais nº 1.391.198-RS, e nº 1.370.899-SP, e RecursoExtraordinário nº 573232. Irrazoabilidade. Feito que deve prosseguir na origem.
+Efeitos da sentença e foro da ação. O poupador pode habilitar-se para o cumprimento da r. sentença, que tem efeito "erga omnes", no foro de seu domicílio.
+Filiação ao IDEC/Legitimidade ativa. Desnecessidade de comprovaçãode filiação do poupador ao IDEC. Precedentes do STJ e desta Corte.
+Custas iniciais. Necessidade de recolhimento. Possibilidade de diferimento nos termos do artigo 5º da Lei Estadual nº 11.608/2003, que não possui rol taxativo. Entendimento majoritário desta Câmara.
+Prescrição da execução individual. O prazo prescricional para execuçãoindividual em Ação Civil Pública é de 5 (cinco) anos, contados do trânsito em julgado da r. sentença.
+Título executivo judicial. Execução lastreada em sentença condenatóriagenérica proferida em Ação Civil Pública que transitou em julgado. Desnecessidade de liquidação por artigos ou arbitramento, bastando a apresentação de simples cálculos aritméticos para a apuração do valordevido, nos termos dispostos no art. 475-B do CPC.
+Juros remuneratórios. Cabimento. Necessidade de plena recomposição do saldo em caderneta de poupança. Cômputo à razão de 0,5% ao mês, de forma capitalizada, a partir de fevereiro de 1989 até a data do efetivo pagamento.
+Correção monetária. Atualização devida para preservação do valorintrínseco da moeda. Utilização dos índices da Tabela Prática do Tribunal de Justiça do Estado de São Paulo, desde fevereiro de 1989 até efetivo pagamento.
+Juros moratórios. Cabimento. Ainda que existam divergências sobre o termo inicial dos juros moratórios, esta Câmara entende que são devidosa partir da citação da execução individual. Incidência, de forma simples,da citação do Banco-executado na fase de cumprimento de sentença até efetivo pagamento.
+Cumulação entre juros remuneratórios, moratórios e correção monetária. Possibilidade. A jurisprudência dominante desta Corte permite a cumulação de juros remuneratórios, moratórios e correção monetária pelaTabela Prática.
+Liquidação do débito. Desnecessidade de liquidação por artigos ou arbitramento. Mero cálculo aritmético, nos termos do art. 475-B do CPC,cujo rito garante celeridade ao trâmite desta fase processual. Inexistênciade complexidade na apuração do débito. Honorários advocatícios. Verba devida em sede de execução de sentençanas hipóteses de não pagamento espontâneo do débito pelo Banco. Apresentação de impugnação que caracteriza verdadeiro contraditório.
+Ainda que a impugnação seja parcialmente acolhida, a verba honoráriadeve ser arbitrada em favor do poupador, no importe de 10% sobre o proveito econômico por ele obtido.
+Valor incontroverso da condenação. Caberá ao MM. Juízo a quo determinar o levantamento do valor incontroverso, a pedido do poupador,oportunamente.
+Recurso provido em parte. (e-STJ, fls. 97/98 - grifo nosso).
+Os embargos de declaração opostos por MARIRISIA foram rejeitados (e-STJ, fls. 123/126).
+Irresignado, MARIRISIA interpôs recurso especial, apontando violação dos arts. 219 e 475-J do CPC/73 e 405 do CC/02, ao sustentar (1) que o termo inicial dos juros de mora devem ser contados a partir da citação para o processo de liquidação
+Não foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+O recurso merece prosperar.
+(1) Do termo inicial dos juros de mora
+MARIRISIA defende que o termo inicial dos juros de mora deve ser a citação na fase de conhecidmento da ação civil pública, uma vez que o acórdão recorrido determinou sua incidência a contar da execução individual.
+A pretensão encontra amparo na jurisprudência desta Corte.
+No que tange ao termo inicial de incidência dos juros de mora, o acórdão recorrido está em dissonância com o entendimento firmado por esta Corte Superior, por ocasião do julgamento do REsp nº 1.361.800/SP, proferido sob o rito do art. 543-C do CPC, segundo o qual a contagem se dá partir da citação do devedor na fase de conhecimento da ação civil pública, quando esta se fundar em responsabilidade contratual, salvo a configuração da mora em momento anterior.
+Eis a ementado do aludido aresto:
+AÇÃO CIVIL PÚBLICA - CADERNETA DE POUPANÇA - PLANOS ECONÔMICOS - EXECUÇÃO - JUROS MORATÓRIOS A PARTIR DA DATA DA CITAÇÃO PARA A AÇÃO COLETIVA - VALIDADE - PRETENSÃO A CONTAGEM DESDE A DATA DE CADA CITAÇÃO PARA CADA EXECUÇÃO INDIVIDUAL - RECURSO ESPECIAL IMPROVIDO.
+1.- Admite-se, no sistema de julgamento de Recursos Repetitivos (CPC, art. 543-C, e Resolução STJ 08/98), a definição de tese uniforme, para casos idênticos, da mesma natureza, estabelecendo as mesmas consequências jurídicas, como ocorre relativamente à data de início da fluência de juros moratórios incidentes sobre indenização por perdas em Cadernetas de Poupança, em decorrência de Planos Econômicos.
+2.- A sentença de procedência da Ação Civil Pública de natureza condenatória, condenando o estabelecimento bancário depositário de Cadernetas de Poupança a indenizar perdas decorrentes de Planos Econômicos, estabelece os limites da obrigação, cujo cumprimento, relativamente a cada um dos titulares individuais das contas bancárias,
+visa tão-somente a adequar a condenação a idênticas situações jurídicas específicas, não interferindo, portando, na data de início da incidência de juros moratórios, que correm a partir da data da citação para a Ação Civil Pública.
+3.- Dispositivos legais que visam à facilitação da defesa de direitos individuais homogêneos, propiciada pelos instrumentos de tutela coletiva, inclusive assegurando a execução individual de condenação em Ação Coletiva, não podem ser interpretados em prejuízo da realização material desses direitos e, ainda, em detrimento da própria finalidade da Ação Coletiva, que é prescindir do ajuizamento individual, e contra a confiança na efetividade da Ação Civil Pública, O que levaria ao incentivo à opção pelo ajuizamento individual e pela judicialização multitudinária, que é de rigor evitar.
+3.- Para fins de julgamento de Recurso Representativo de Controvérsia (CPC, art. 543-C, com a redação dada pela Lei 11.418, de 19.12.2006), declara-se consolidada a tese seguinte: "Os juros de mora incidem a partir da citação do devedor na fase de conhecimento da Ação Civil Pública, quando esta se fundar em responsabilidade contratual, se que haja configuração da mora em momento anterior."
+4.- Recurso Especial improvido
+(REsp nº 1.361.800/SP, Corte Especial, Relator o Ministro RAUL ARAÚJO, Rel. p/ acórdão Ministro SIDNEI BENETI, DJe de 14/10/2014).
+Nessas condições, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para fixar a citação do devedor na fase de conhecimento da ação civil pública como termo inicial dos juros de mora.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. CUMPRIMENTO INDIVIDUAL DE SENTENÇA. TERMO INICIAL DOS JUROS DE MORA. AÇÃO CIVIL PÚBLICA. A PARTIR DA CITAÇÃO DO DEVEDOR NA FASE DE CONHECIMENTO. RECURSO ESPECIAL CONHECIDO E PROVIDO.
