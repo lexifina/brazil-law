@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por C. R. FERREIRA DA SILVA PESCADOS - EIRELI contra decisão que inadmitiu o recurso especial pelas seguintes razões: ausência de afronta aos arts. 489 e 1.022 do CPC e incidência das Súmulas n. 7 e 211 do STJ.
+A parte agravante alega que houve ofenda aos arts. 489 e 1.022 do CPC, pois não enfrentou duas alegações de nulidade do Contrato de Cessão, quais sejam, ausência de atendimento à solenidade legal e pactuação de objeto impossível.
+Sustenta que a análise do recurso especial não demanda reexame de provas, uma vez que pretende "corrigir a interpretação e a aplicação equivocada de normas federais ao caso concreto, bem como a uniformização da jurisprudência, na medida em que a decisão se deu em sentido contrário ao entendimento do TJSP" (fl. 635).
+Afirma que apontou violação dos arts 489 e 1.022 do CPC e 166 do CC e que todas a matérias foram prequestionadas. Defende que "o bem objeto de Contrato de Cessão não poderia ser objeto de venda entre particulares visto que se trata de bem público, integrante do Museu de Arte do Rio Grande do Sul  MARGS" (fl. 638).
+Aponta divergência jurisprudencial com o entendimento proferido no julgamento do recurso de apelação n. 0119511-71.2009.8.26.0100.
+Requer seja provido o agravo em recurso especial, a fim de anular o acórdão recorrido ou instrumento particular de cessão onerosa de bens e direitos sobre o ponto comercial.
+As contrarrazões foram apresentadas às fls. 651-661.
+É o relatório. Decido.
+Mediante análise dos autos, verifica-se que a parte agravante deixou de impugnar especificamente a Súmula n. 7 do STJ.
+Como é cediço, não se conhece do agravo em recurso especial que não tenha refutado especificamente todos os fundamentos da decisão recorrida.
+Caberia à parte agravante demonstrar que a tese jurídica (nulidade do contrato) não demanda reexame de provas, o que não ocorreu.
+Para afastar a incidência da Súmula n. 7 do STJ, não basta a parte sustentar que a análise de seu apelo extremo demanda apenas apreciação de normas legais e prescinde do reexame de provas, necessária a demonstração de que a tese jurídica desenvolvida (impossibilidade de credores do executado concorrerem com a recorrente) não demandaria reexame de provas, o que não ocorreu.
+Ressalte-se que "a alegação genérica de que o tema discutido no recurso especial representa matéria de direito (incluídas aí as hipóteses de qualificação jurídica dos fatos e valoração jurídica das provas), e não fático-probatória, não é apta a impugnar, de modo específico, o fundamento da decisão atacada. Ao revés, deve a parte agravante refutar o citado óbice mediante a exposição da tese jurídica desenvolvida no recurso especial e a demonstração da adoção dos fatos tais quais postos nas instâncias ordinárias" (AgInt no AREsp n. 1.969.273/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/12/2021, DJe de 16/12/2021).
+No mesmo sentido: AgInt no AREsp n. 2.072.074/BA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/6/2022, DJe de 2/8/2022; e AgInt no REsp n. 1.890.825/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 15/12/2020, DJe de 18/12/2020.
+Assim, tendo em vista que, no julgamento dos EAREsp n. 746.775/PR, em 19/9/2018, a Corte Especial do Superior Tribunal assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a incidência, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Ante o exposto, não conheço do agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
