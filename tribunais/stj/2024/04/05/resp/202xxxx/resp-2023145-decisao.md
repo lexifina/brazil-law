@@ -1,0 +1,51 @@
+DECISÃO
+Originariamente, cuida-se de AGRAVOS DE INSTRUMENTO, um interposto por João Batista Pacheco (0055379-41.2019.8.16.0000) e outro, por Vilson Pedro Farina (0055377-71.2019.8.16.0000), contra a decisão interlocutória proferida na ação de improbidade administrativa ajuizada pelo Ministério Público do Estado do Paraná em desfavor dos ora agravantes e de outros seis réus - a saber, Kelly Cristina Pacheco, Paulo Arantes Medeiros, Gessyca Vanessa Dias Correia, Paulo Vinicius Bortolani Milani, Claudio Martins ME e Município De Nova Olímpia -, por meio da qual foi deferido o pedido de indisponibilidade de seus bens no valor de R$ 54.900,00 (cinquenta e quatro mil e novecentos reais).
+Proferida decisão acerca dos recursos interpostos (fls. 120-128), julgou-se
+Interposto embargos declaratórios por MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ, foram integralmente rejeitados (fls. 180-186).
+Irresignado, o Ministério Público do Estado do Paraná interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a" da Constituição Federal (fls.195-203). Sustenta a ocorrência de ofensa ao artigo 7º da Lei nº 8.429/92, uma vez que "se a medida de indisponibilidade de bens objetiva garantir futura execução, é necessário que abranja todo o valor a ser futuramente revertido ao erário, ou seja, também a multa civil, enquanto sanção autônoma, para se assegurar o valor total da condenação".
+Em juízo de admissibilidade, o Tribunal de Justiça do Estado do Paraná admitiu o recurso especial interposto (fls. 226-228).
+O Ministério Público Federal, na condição de custos legis, emitiu parecer pela prejudicialidade do recurso especial (fls. 273-275), nos seguintes termos:
+RECURSO ESPECIAL. AÇÃO POR ATO DE IMPROBIDADE ADMINISTRATIVA. INDISPONIBILIDADE DE BENS. ABRANGÊNCIA DO VALOR DE EVENTUAL MULTA CIVIL. AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE ACORDO DE NÃO PERSECUÇÃO CIVIL. HOMOLOGAÇÃO JUDICIAL. EXTINÇÃO DO FEITO. PERDA DO OBJETO. RECURSO PREJUDICADO.
+1. A superveniência de homologação judicial de acordo de não persecução civil, com a extinção da ação de improbidade administrativa, acarreta a perda de objeto do recurso que buscava reformar acórdão referente à decisão que não excluiu o valor de eventual multa civil do decreto de indisponibilidade de bens, no âmbito de agravo de instrumento.
+2. Parecer pela prejudicialidade do recurso especial.
+É o relatório. Decido.
+Alega o Parquet a existência de ofensa ao artigo 7º da Lei nº 8.429/92, uma vez que "se a medida de indisponibilidade de bens objetiva garantir futura execução, é necessário que abranja todo o valor a ser futuramente revertido ao erário, ou seja, também a multa civil, enquanto sanção autônoma, para se assegurar o valor total da condenação".
+São aplicáveis ao presente caso os artigos 34, XVIII, a, e 255, § 4º, I, do Regimento Interno do Superior Tribunal de Justiça.
+Em consulta ao sítio eletrônico do Tribunal de Justiça do Estado do Paraná, verifica-se que sobreveio homologação judicial de acordo de não persecução civil, tendo o feito sido julgado extinto anteriormente ao encaminhamento do feito, inclusive, a emissão de parecer ministerial. 1
+Por consequência, o recurso especial resta prejudicado.
+Conforme entendimento pacificado pelo Superior Tribunal de Justiça, configura-se a perda do objeto do agravo de instrumento contra decisão concessiva ou denegatória de liminar ou tutela antecipada, com a superveniência da prolação de sentença, já que esta absorve os efeitos do provimento liminar, em sede de cognição exauriente.
+A propósito do tema, veja-se precedente desta Corte em caso similar:
+QUESTÃO DE ORDEM QUESTÃO DE ORDEM. RECURSO ESPECIAL. ACÓRDÃO JUDICIAL HOMOLOGADO. PERDA SUPERVENIENTE DE OBJETO.
+1. Questão de Ordem suscitada em virtude de pedido de reconhecimento da perda de objeto formulado pela parte recorrente, tendo em vista a celebração de acordo judicial nos autos originários.
+2. O presente Recurso Especial discute a regularidade formal de perícia homologada judicialmente no âmbito de execução de sentença ilíquida proferida em detrimento de sociedade de economia mista integrante da Administração Pública Federal Indireta. Estimou-se a oneração do patrimônio da empresa recorrente em valor próximo a R$ 100.000.000,00 (cem milhões de reais).
+3. Proferiu-se Voto dando provimento ao Recurso Especial da Companhia Energética do Piauí, para assegurar a fidelidade da perícia, realizada na fase de liquidação por arbitramento, ao julgado que a determinou, sem dependência, aproveitamento ou utilização de ato anteriormente declarado nulo por decisão judicial da qual já não cabe Recurso.
+4. O eminente Ministro Og Fernandes apresentou judicioso Voto-Vista, expondo posição divergente, para conhecer parcialmente do Recurso Especial e, nessa extensão, dar-lhe parcial provimento, apenas para afastar a multa aplicada com fulcro no art. 538, parágrafo único, do CPC/1973.
+5. Após pedido de vista regimental, a parte recorrente informou que foi privatizada, sendo adquirida pela empresa Equatorial Energia S/A (petição às fls. 9.804-9.809, e-STJ).
+6. Às fls. 9.827-9.883, e-STJ, a Companhia Energética do Piauí - Cepisa informa que houve celebração de acordo nos autos originários visando à extinção do feito. Solicita o reconhecimento da perda de objeto do presente Recurso Especial.
+7. A cópia integral do acordo judicial está juntada às fls. 9.880-9.883, e-STJ, prevendo o pagamento aos exequentes do valor remanescente de R$ 18.000.000,00 (dezoito milhões de reais).
+8. A cláusula 10 do referido acordo prevê: "10. O acordo ora noticiado extingue todas as obrigações decorrentes da relação e dos fatos discutidos nestes autos e recursos dele provenientes, dentre os quais, mas não se limitando ao Recurso Especial de nº 1671987/PI (2015/0216510-6) de Relatoria do Min. Herman Benjamin (STJ) e Recurso Especial de nº 1737500/PI (2018/0096773-4) de Relatoria do Min. Marco Buzzi (STJ), motivo pelo qual as partes desde já outorgam entre si ampla, geral, recíproca e irrevogável quitação, para nada mais discutir e/ou exigir, no presente ou no futuro, quanto ao mérito dos processos ou seus respectivos incidentes ou recursos".
+9. O juízo da 2ª Vara Cível da Comarca de Teresina/PI homologou o acordo (cópia da decisão à fl. 9.889, e-STJ), nos seguintes termos:
+"Desta feita, HOMOLOGO, COM RESSALVAS, a transação objeto do termo retro, celebrada nestes autos pelas partes acima nominadas, todas devidamente qualificadas e representadas, para que produza seus jurídicos e legais efeitos, com exceção do crédito da parte autora, na importância de R$ 3.423.008,81 (três milhões, quatrocentos e vinte e três mil, oito reais e oitenta e um centavos) que deverá ser pago mediante depósito judicial vinculado a este juízo, até que seja feito um levantamento, pelo cartório, quanto às penhoras no rosto dos autos".
+10. A decisão foi retificada pelo juízo de origem (cópia do despacho às fls. 9.891-9.893, e-STJ), "para determinar à COMPANHIA ENERGÉTICA DO PIAUÍ que efetue o pagamento diretamente à credora, na conta bancária por ela informada na minuta de acordo".
+11. A União manifestou-se à fl. 9.902, e-STJ, no sentido de que, "(. ..) por ora, opõe-se a homologação do requerimento de desistência formulado pela parte recorrida, bem como requer que seja determinado ao Juízo da 2ª Vara Cível da Comarca de Teresina acerca dos termos do acordo celebrados pelas partes, sob pena de nulidade".
+12. A recorrente aduz (fls. 9.906-9.909, e-STJ) que a celebração do acordo ocorreu após a transferência das ações da Cepisa, detidas pelas Centrais Elétricas Brasileiras S/A - Eletrobras, à Equatorial Energia S/A, não subsistindo interesse da União na lide.
+13. Posteriormente, a União retorna aos autos, para informar que, após diligências promovidas no Ministério de Minas e Energia e no Ministério da Economia, reconheceu-se que a privatização preexistente, acima noticiada, retirou seu interesse no feito, assim como excluiu-se qualquer responsabilidade, sua ou da Eletrobras, pelo conteúdo do ajuste celebrado entre as pessoas jurídicas de Direito Privado, motivo pelo qual anuiu à desistência manifestada pela recorrente e recorrida (fls. 9.935-9.949, e-STJ).
+14. Houve perda superveniente do objeto do presente Recurso Especial, nos termos do art. 493 do CPC/2015.
+15. O art. 998 do CPC/2015 prevê que a recorrente poderá, a qualquer tempo, sem a anuência do recorrido ou dos litisconsortes, desistir do Recurso.
+16. Questão de ordem no sentido de julgar prejudicado o Recurso Especial, em virtude da perda superveniente de objeto.
+(..)
+Da narrativa acima, observa-se que houve perda superveniente do objeto do presente Recurso Especial, nos termos do art. 493 do CPC/2015:
+Art. 493. Se, depois da propositura da ação, algum fato constitutivo, modificativo ou extintivo do direito influir no julgamento do mérito, caberá ao juiz tomá-lo em consideração, de ofício ou a requerimento da parte, no momento de proferir a decisão.
+Parágrafo único. Se constatar de ofício o fato novo, o juiz ouvirá as partes sobre ele antes de decidir.
+Acrescente-se que o art. 998 do CPC/2015 prevê que o recorrente poderá, a qualquer tempo, sem a anuência do recorrido ou dos litisconsortes, desistir do Recurso, verbis:
+Art. 998. O recorrente poderá, a qualquer tempo, sem a anuência do recorrido ou dos litisconsortes, desistir do recurso.
+Parágrafo único. A desistência do recurso não impede a análise de questão cuja repercussão geral já tenha sido reconhecida e daquela objeto de julgamento de recursos extraordinários ou especiais repetitivos.
+Diante do exposto, submeto a presente Questão de Ordem para propor que o presente Recurso Especial seja julgado prejudicado, em virtude da perda superveniente de objeto.
+É como voto.
+(REsp n. 1.671.987/PI, relator Ministro Herman Benjamin, Segunda Turma, julgado em 2/8/2022, DJe de 5/12/2022.)
+Ante o exposto, com fundamento nos artigos 34, XVIII, a, e 255, § 4º, I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente recurso especial, por reputá-lo prejudicado.
+Publique-se. Intimem-se.
+ 1  consulta.tjpr.jus.br/projudi_consulta/arquivo.do
+_tj=8a6c53f8698c7ff7e57a8effb7e25219959e769f79979ca29a1c9bd00d8b84f7e9dd0
+b0b975d50f7
+EMENTA
