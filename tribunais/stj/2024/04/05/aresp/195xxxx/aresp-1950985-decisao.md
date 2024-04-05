@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial pelo qual o MUNICÍPIO DE NATAL se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal (CF), contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE assim ementado (fls. 256/262):
+TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ACOLHIMENTO. FATO GERADOR OCORRIDO NO PERÍODO DE 2001 A 2003. INCIDÊNCIA DE ISSQN A PARTIR DA ENTRADA EM VIGOR DA LEI COMPLEMENTAR Nº 116/2003 EM 1º/01/2014. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. MANUTENÇÃO DA SENTENÇA QUE SE IMPÕE. CONHECIMENTO E DESPROVIMENTO DO RECURSO.
+Os embargos de declaração opostos foram rejeitados (fls. 281/289).
+Em suas razões recursais, a parte recorrente alega, além de divergência jurisprudencial, violação do art. 1.022 do Código de Processo Civil (CPC) e do art. 3º da Lei 6.830/1980, argumentando, em síntese, que o acórdão recorrido foi omisso quanto à inadequação da exceção de pré-executividade para a análise de questões que demandem dilação probatória.
+A parte adversa apresentou contrarrazões (fls. 329/338).
+É o relatório.
+A irresignação merece prosperar.
+No que importa à controvérsia travada no presente recurso, confira-se o seguinte trecho do acórdão (fl. 258):
+Com a edição da Lei Complementar 116/2003, no entanto, está expressamente prevista a incidência do ISSQN sobre franquia (franchising), no item 17.08 da lista de serviços anexa à lei complementar mencionada. Desse modo, com a previsão expressa do item relativo à incidência daquele tributo sobre franquia, o assunto não comporta maiores digressões no âmbito desta Corte de Justiça, a quem cabe zelar pelo cumprimento da legislação infraconstitucional.
+A parte ora recorrente opôs embargos de declaração a fim de provocar a Corte de origem a se manifestar sobre o seguinte:
+Com as devidas vênias, Nobres Julgadores. esta Fazenda Municipal necessita apontar que o julgado ora embargado incorre em flagrante omissão ao não aplicar a Súmula 393/STJ nem o precedente jurisprudencial da mesma Corte Superior. firmado através da sistemática dos recursos repetitivos - RESP nº 1.101.900/ES.
+Segundo a jurisprudência iterativa do SUPERIOR TRIBUNAL DE JUSTIÇA. a exceção de pré-executividade é cabível quando atendidos simultaneamente dois requisitos, um de ordem material e outro de ordem formal, quais sejam: (a) a matéria invocada deve ser suscetível de conhecimento de ofício pelo juiz: e (b) é indispensável que a decisão possa ser tomada sem necessidade de dilação probatória (fl. 265).
+Entretanto, o Tribunal a quo rejeitou os embargos de declaração sem apreciar o questionamento a ele feito.
+Verifico a existência de omissão no julgado, nos termos do art. 1.022 do Código de Processo Civil, notadamente em razão da regência legal da matéria e da jurisprudência desta Corte Superior. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. INSTRUMENTO PARTICULAR DE COMPRA E VENDA DE FUNDO DE COMÉRCIO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. LIQUIDEZ. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL DESPROVIDO.
+1. A jurisprudência desta Corte entende que a exceção de pré-executividade pode ser utilizada quando desnecessária a dilação probatória e para discussão de questões de ordem pública, passíveis de conhecimento de ofício pelo julgador, sendo cabível em qualquer tempo e grau de jurisdição.
+2. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+3. Agravo interno provido para reconsiderar a decisão agravada, e, em novo exame, conhecer do agravo para negar provimento ao recurso especial. (AgInt no AREsp n. 2.363.142/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 2/10/2023, DJe de 5/10/2023.)
+Dessa forma, é imperioso o acolhimento da pretensão recursal ante a ocorrência de violação ao art. 1.022 do CPC, devendo os autos retornar à origem para que seja sanado o vício apontado no recurso integrativo por meio de novo julgamento dos embargos de declaração, com manifestação expressa a respeito da questão não apreciada.
+Ante o exposto, dou provimento ao recurso especial para anular o acórdão proferido em embargos de declaração; determino a devolução dos autos ao Tribunal de origem para que seja proferido novo julgamento com o saneamento do vício apontado.
+Publique-se. Intime-se.
+ EMENTA
