@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interno interposto por PAULO EVANGELISTA DA CRUZ (PAULO) contra decisão de relatoria do Ministro Presidente desta Corte, que não conheceu do agravo em recurso especial anteriormente manejado em virtude da intempestividade do apelo nobre.
+Opostos embargos de declaração, foram estes rejeitados pela decisão de e-STJ, fls. 402/403.
+Nas razões do presente inconformismo, defendeu que (1) o recurso especial é tempestivo, haja vista a suspensão do prazo recursal no dia 09/07/2021 (feriado da Data Magna do Estado de São Paulo), conforme comprovado no ato de interposição; e, (2) antes de declarar intempestivo o recurso, cabia a intimação do recorrente para comprovar o feriado local, na forma do art. 932, parágrafo único, do CPC.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+Da reconsideração do decisum agravado
+Considerando as razões apresentadas no presente agravo interno e, notadamente, o entendimento firmado pela Corte Especial do STJ no julgamento do EAREsp n. 1.927.268/RJ, RECONSIDERO as decisões de e-STJ, fls. 390/391 e 402/403 e passo a novo exame do agravo em recurso especial interposto.
+Do agravo em recurso especial
+O recurso não merece ser conhecido.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Na espécie, o Tribunal de Justiça do Estado de São Paulo negou seguimento ao apelo nobre em virtude da (a) ausência de violação dos arts. 11, 489 e 1.022 do CPC; (b) ausência de demonstração da alegada violação dos arts. 17, IV, da Lei n.º 6.530/78, 76, § 1º, II, 110 e 314 do CPC; (c) incidência da Súmula n.º 7 do STJ; e, (d) ausência de realização do cotejo analítico e da demonstração da similitude fática entre os arestos apontados como divergentes.
+Da leitura do agravo em recurso especial, todavia, verifica-se que o inconformismo não se dirigiu de forma específica contra todos os fundamentos da decisão agravada pois PAULO nada argumentou acerca da (a) incidência da Súmula n.º 7 do STJ, e (b) ausência de realização do cotejo analítico e da demonstração da similitude fática entre os arestos apontados como divergentes.
+E isso não fez porque somente alegou, nas razões do seu agravo em recurso especial, que houve usurpação de competência desta Corte, para além de reiterar a suposta violação dos arts. 76, § 1º, II, 110, 314, 489, 1.022 do CPC e 17, IV, da Lei n.º 6.530/78.
+Assim, como não houve o adequado enfrentamento dos fundamentos adotados na decisão do Tribunal a quo, o presente agravo não deve ser admitido.
+Nessa linha de intelecção, veja-se o seguinte julgado:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Nessas condições, DOU PROVIMENTO ao agravo interno para reconsiderar a decisão agravada e, em nova análise, NÃO CONHECER do agravo em recurso especial interposto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, §4º, ou 1.026, §2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE. RECONSIDERAÇÃO. AGRAVO QUE NÃO INFIRMA TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O APELO NOBRE NA ORIGEM. INCIDÊNCIA DO ART. 932, III, DO CPC. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
