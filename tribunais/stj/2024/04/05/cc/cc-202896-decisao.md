@@ -1,0 +1,20 @@
+DECISÃO
+Examina-se conflito positivo de competência, com pedido liminar, suscitado por VERDE TRANSPORTES LTDA. - EM RECUPERAÇÃO JUDICIAL em face do JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE CUIABA - MT e do JUÍZO DA VARA DO TRABALHO DE SÃO LUÍS DE MONTES BELOS - GO.
+Ação em trâmite no Juízo Estadual: recuperação judicial da suscitante.
+Ação em trâmite no Juízo do Trabalho: reclamatória trabalhista n. 0010184-62.2022.5.18.0181, movida por JARBAS ALVES DA COSTA.
+Conflito de competência: alega, em síntese, que execução de créditos da recuperanda, independente da sua natureza, deve prosseguir no Juízo universal, o qual compete exercer o controle sobre atos constitutivos de patrimônio da devedora (e-STJ, fl. 10). Defende, assim, que o juízo trabalhista não tem competência para determinar o prosseguimento da execução em relação as custas e contribuições previdenciárias.
+Tutela antecipada: indeferida às fls. 104/105, e-STJ.
+Parecer do MPF: manifestou-se pelo não conhecimento do conflito.
+RELATADO O PROCESSO, DECIDE-SE.
+Esta Corte Superior de Justiça, em observância às alterações trazidas com o advento da Lei 14.112/20, em especial a previsão do art. 6º, § 7º-B, da Lei 11.101/2005, assentou o entendimento de que, em hipóteses envolvendo execuções fiscais contra empresa em recuperação judicial, "a caracterização de conflito de competência perante esta Corte de Justiça pressupõe a materialização da oposição concreta do Juízo da execução fiscal à efetiva deliberação do Juízo da recuperação judicial a respeito do ato constritivo" (CC 181.190, Segunda Seção, DJe 7/12/2021).
+Deveras, o aludido dispositivo - 6º, § 7º-B, da Lei 11.101/2005, introduzido pela Lei 14.112/20 - estabelece que as execuções fiscais não se suspendem em razão do deferimento da recuperação judicial da devedora, reconhecendo, entretanto, a competência do juízo universal para determinar a substituição dos atos constritivos realizados na execução fiscal que recaiam sobre bem de capital essencial às atividades da recuperanda.
+Tal proposição, a luz do § 11 do mesmo artigo, também se aplica, no que couber "às execuções de ofício que se enquadrem respectivamente nos incisos VII e VIII do caput do art. 114 da Constituição Federal", os quais, por sua vez, delimitam, no que importa aos autos, a competência da Justiça do Trabalho para processar e julgar as execuções, de ofício, das contribuições sociais e seus acréscimos legais, decorrentes das sentenças que proferir.
+Em outras palavras, é permitido ao juízo laboral dar prosseguimento às execuções das suas sentenças proferidas em face de empresa em recuperação judicial, quanto às contribuições previdenciárias, cabendo ao juízo recuperacional interferir nessa execução somente se houver a necessidade de substituição de eventual constrição que recaia sobre bem de capital essencial à manutenção da atividade empresarial.
+Na hipótese dos autos, contudo, verifica-se que o Juízo Laboral apenas determinou o prosseguimento da execução das contribuições previdenciárias e custas decorrentes da condenação trabalhista (execução de ofício), situação que, por si só, não enseja a invasão da competência do juízo universal.
+Diante desse contexto, não se observa a existência de decisões conflitantes entre o Juízo Laboral e o Juízo Universal, inexistindo, portanto, conflito a ser dirimido.
+Forte nessas razões, NÃO CONHEÇO do conflito de competência.
+Publique-se. Intimem-se. Comunique-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL E EXECUÇÃO TRABALHISTA. PROSSEGUIMENTO DA EXECUÇÃO QUANTO ÀS CONTRIBUIÇÕES PREVIDENCIÁRIAS E CUSTAS. AUSÊNCIA DE DECISÕES CONFLITANTES ENTRE JUÍZOS DISTINTOS. CONFLITO NÃO CONHECIDO.
+1. Consoante a jurisprudência do STJ, nas hipóteses envolvendo execuções fiscais contra empresa em recuperação judicial, "a caracterização do conflito de competência perante esta Corte de Justiça pressupõe a materialização da oposição concreta do Juízo da execução fiscal à efetiva deliberação do Juízo da recuperação judicial a respeito do ato constritivo" (CC 181.190, Segunda Seção, DJe 17/12/2021), situação não verificada na hipótese.
+2. Conflito de competência não conhecido.
