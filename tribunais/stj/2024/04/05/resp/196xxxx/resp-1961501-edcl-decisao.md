@@ -1,0 +1,23 @@
+DECISÃO
+E. H. F. S., representado por A. A. S. S., opõe embargos de declaração à decisão de fls. 802-810, que reconsiderou as decisões de fls. 615-616 e 620-628 para não conhecer dos recursos especiais de ambas as partes, mantendo o acórdão do Tribunal de origem.
+Em suas razões, o embargante sustenta violação dos arts. 1.022 e 489, § 1º, do CPC por existência de contradição e omissão na decisão embargada.
+Pondera que, ao ser afastada a obrigação da operadora de saúde de indenizar o autor por danos morais decorrentes da negativa ilegal de custeio do tratamento necessário, não teriam sido considerados os transtornos sofridos e a proteção aos bens maiores: saúde e vida.
+Aponta omissão nestes termos (fl. 821):
+ ..  não arbitrando o valor da indenização por danos morais e materiais (devidamente comprovados) a ser pago as demandantes, deixou de seguir a farta jurisprudência existente para essa matéria de direito, de tribunais de todo o país, sem demonstrar distinção com o caso em julgamento ou a superação do entendimento apresentado nas diversas decisões colacionadas, o que redunda em considerar não fundamentada a sentença proferida por V. Exa, na forma do artigo 489, III, § 1º, VI.
+Requer o conhecimento e o provimento dos embargos com efeitos infringentes, para que sejam sanados os vícios e fixados danos morais e materiais no valor de R$ 5.940,00.
+Não foram apresentadas contrarrazões (fl. 828).
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a aclarar obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado, o que não se verifica na espécie.
+No presente caso, a parte não aponta omissão ou outro vício passível de ser sanado pelo STJ em embargos de declaração. Apenas demonstra seu interesse na reanálise da questão referente ao dano moral indenizável e ao dano material em decorrência de recusa de cobertura de tratamento pela operadora de saúde.
+Eis o que consta da decisão embargada (fl. 809, destaquei):
+Acerca do pedido de revisão da questão relativa à ocorrência de danos morais, vale destacar que o Tribunal de origem, com base nos elementos fático-probatórios dos autos, afastou a caracterização dos referidos danos, concluindo pela inexistência de sofrimento desmedido imposto à parte  ..
+Dessa forma, acolher o pleito da parte recorrente e rever o entendimento adotado na origem demandaria necessária revisão dos elementos dos autos, providência vedada pelo óbice da Súmula n. 7 do STJ.
+No mais, obstam o conhecimento do recurso especial a falta de indicação do dispositivo legal considerado violado e a deficiência de fundamentação que impeça aferir os motivos em que se fundou a irresignação veiculada no especial, inviabilizando a compreensão da controvérsia.
+No presente caso, no que tange à discussão sobre os danos materiais e o reembolso dos tratamentos pleiteados, verifica-se que a parte indica, de forma genérica e apenas nas razões do agravo interno, a abusividade da negativa de reembolso, sem refutar os fundamentos da decisão recorrida, havendo manifesta deficiência de fundamentação quanto ao ponto. Assim, incide na espécie a Súmula n. 284 do STF.
+Como visto, a decisão embargada foi clara ao consignar que, conforme apurado na origem, não ficaram caracterizados os danos morais; assim, rever tal entendimento demandaria revolvimento fático-probatório dos autos, o que é inviável na via do recurso especial, ante o óbice da Súmula 7 do STJ. Quanto aos danos materiais, consta da decisão embargada que a parte ora embargante, n o recurso especial, apresentou fundamentação deficiente e genérica, o que atrai o óbice da Súmula n. 284 do STF.
+Ressalte-se que a mera irresignação da parte embargante com o entendimento adotado no julgamento do agravo em recurso especial não viabiliza a oposição dos aclaratórios (EDcl no AgInt nos EAREsp n. 1.623.529/DF, relator Ministro Og Fernandes, Corte Especial, julgado em 1º/12/2021, DJe de 15/12/2021).
+A propósito, segundo orientação firmada pela Corte Especial do STJ, "o recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa" (EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 25/8/2020, DJe de 28/8/2020).
+Dessa forma, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo a decisão recorrida de vícios que autorizariam sua oposição (ambiguidade, obscuridade, contradição e omissão).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
