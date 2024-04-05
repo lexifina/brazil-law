@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS em face da decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que:
+ ..  embora apontada a presença de possível omissão quanto ao exame do art. 311, do CPC, a Corte de Apelação se limitou a reproduzir questões periféricas, sem esclarecimento do ponto.
+Tal omissão, nessa linha, foi objeto de questionamento no recurso especial, onde se reafirmou a possível violação ao art. 311, do CPC, posto que a cautelar vindicada na origem se encontra fundada em tutela de evidência, sendo despicienda a demonstração do periculum in mora.
+Nos termos do que dispõe o art. 1.025, do CPC, consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade.
+Houve, destarte, prequestionamento pela via dos embargos.
+Nesse cenário, entende-se que, permissa máxima vênia, há possível obscuridade na decisão monocrática, eis que houve enfrentamento direto da questão federal (art. 311, do CPC), o que foi desconsiderado na emissão do juízo decisório.
+Noutro ponto, e com redobrada vênia, afigura-se a presença de nova obscuridade no julgado, sobretudo em relação ao apontado óbice contido na Súmula 7, do STJ.
+Não há, sob qualquer perspectiva, espaço para análise da matéria fático-probatória, na presente discussão, eis que, conforme apontado no recuso especial e nos embargos, a pretensão recursal se assenta na inconstitucionalidade manifesta de uma norma municipal (Lei Complementar nº 554/94 do Município de Rio Novo/MG), que criou forma anômala de provimento em cargo público, a chamada "ascensão", permitindo-se que a servidora recorrida fosse "promovida" do cargo de auxiliar de secretaria escolar, para o cargo de assessor técnico administrativo, sem a realização de concurso público.
+Exsurge, pois, que o a questão em debate se relaciona à validação de um ato administrativo flagrantemente nulo (ascensão ou promoção vertical sem concurso), gerador de repercussão financeira deletéria para o erário.
+Não se visualiza, pois, a presença insofismável do óbice contido na Súmula 7, desse venerável Sodalício, que possa impedir a apreciação jurídica da matéria de direito
+(fls. 1614-1616).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Registre-se que "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Relatora Ministra Eliana Calmon, DJ de 13.8.2007; e REsp 855.073/SC, Primeira Turma, Relator Ministro Teori Albino Zavascki, DJ de 28.6.2007". (EDcl nos EDcl no REsp 1642531/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 22/4/2019.)
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
+ EMENTA
