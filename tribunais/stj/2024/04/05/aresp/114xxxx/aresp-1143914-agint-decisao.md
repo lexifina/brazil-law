@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo interno interposto por FEDERAL DE SEGUROS S.A. EM LIQUIDAÇÃO EXTRAJUDICIAL contra decisão que conheceu do agravo para não conhecer do recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fls. 971-978):
+AGRAVO DE INSTRUMENTO - ART. 1.015 DO CPC -HIPÓTESES TAXATIVAS DE CABIMENTO - DECISÃO COMBATIDA QUE, EMBORA FORMALMENTE ÚNICA, CONTÉM MAIS DE UM CAPÍTULO - TÓPICO DECISÓRIO INAGRAVÁVEL - MATÉRIAS VEICULADAS NAS RAZÕES RECURSAIS QUE NÃO FORAM ANALISADAS PELO JUÍZO "A QUO" - SUPRESSÃO DE INSTÂNCIA - JUSTIÇA GRATUITA - PESSOA JURÍDICA - ART. 98 DO CPC - NECESSIDADE DE COMPROVAÇÃO, MEDIANTE DOCUMENTOS CONTÁBEIS OU FISCAIS IDÔNEOS, DA IMPOSSIBILIDADE DE ARCAR COM AS DESPESAS PROCESSUAIS - DEFERIMENTO - RECURSO A QUE, NA EXTENSÃO ADMITIDA, DÁ-SE PROVIMENTO.
+- O novo Código de Processo Civil, instituído pela Lei 13.105/15, prevê, em seu art. 1.105, hipóteses taxativas de cabimento do agravo de instrumento. De sorte que não são todas as decisões interlocutórias que podem ser atacadas por este recurso.
+- A decisão combatida, em que pese ser formalmente única, é substancialmente complexa, pois contém mais de um capítulo decisório. Se algum deles não se amolda ao índice do art. 1.015 do CPC, nem às hipóteses previstas em disposições legais esparsas, é ele inagravável, isto é, não pode ser atacado pelo recurso de agravo de instrumento.
+- A instância revisora não pode se pronunciar sobre questão que não tenha sido eriçada e, portanto, analisada e decidida pelo julgador de primeira instância, sob pena de clara supressão de instância.
+- Interpretando o art. 5º, LXXIV, da CR/88, a jurisprudência vinha se posicionando, sob a égide do Código de Processo Civil de 1973, no sentido de que os benefícios da justiça gratuita podiam ser deferidos também às pessoas jurídicas, desde que estas comprovassem cabalmente a situação inviabilizadora da assunção dos encargos financeiros de um processo, mediante a juntada de documentos idóneos.
+- O novo Código de Processo Civil, que, ao lado da Lei 1.060/50,disciplina o direito à gratuidade da justiça, tratou de dogmatizar, de certa forma, referido entendimento, em seu art. 98, que inaugura a seção que trata sobre o tema.
+- Se a agravante comprovou a alegada hipossuficiência financeira para arcar com o ônus do processo, juntando relatórios e balancetes analíticos que revelam que ela teve, em julho de 2014, a liquidação extrajudicial decretada pela SUSEP, diante da acumulação de vultuosos prejuízos, na ordem de R$ 86.139.510,35, encontrando-se em estado de absoluta insolvência, tendo sido encerradas suas atividades, deve-lhe ser concedida a gratuidade judiciária, a fim de desonera-la do recolhimento das despesas previstas no art. 98, § 1º, do CPC.
+- Recurso a que, na extensão admitida, dá-se provimento.
+Não foram opostos embargos de declaração.
+No recurso especial (fls. 1.056-1.002), a parte recorrente aduz, no mérito, que houve violação do art. 10 da Lei n. 12.409/2011, sustentando ser parte ilegítima para integrar o polo passivo da ação por se tratar de discussão que envolve recursos oriundos do FCVS, bem como a competência da Justiça Federal para julgamento da lide.
+Os recorridos não ofereceram contrarrazões ao recurso especial.
+Sobreveio o juízo de admissibilidade negativo da instância de origem (fls. 1.163-1.164), o que ensejou a interposição do presente agravo.
+A parte agravada apresentou contraminuta ao agravo (fls. 1.200-1.223).
+Em decisão monocrática de relatoria do Ministro Paulo de Tarso Sanseverino, o recurso especial não foi conhecido pelo óbice das Súmulas n. 356/STF, 283/STF e 284/STF (fls. 1.247-1.253), o que ensejou o manejo de agravo interno (fls. 1.257-1.274).
+É, no essencial, o relatório.
+Entre as questões debatidas no recurso especial, discute-se a legitimidade da Caixa Econômica Federal e a competência da Justiça Federal no que concerne a contratos vinculados ao Sistema Financeiro da Habitação - SFH e eventual comprometimento do Fundo de Compensação de Variações Salariais - FCVS.
+No Conflito de Competência n. 148.188/DF, foi confirmada a competência das Turmas que compõem a Primeira Seção desta egrégia Corte para julgamento da controvérsia exposta no presente recurso especial.
+A propósito, confira-se :
+PROCESSO CIVIL. CONFLITO NEGATIVO INTERNO DE COMPETÊNCIA. CONTRATO DE MÚTUO HABITACIONAL. COMPROMETIMENTO DO FCVS. APÓLICE PÚBLICA (RAMO 66).
+1. Já se manifestou a Corte Especial do STJ no sentido de que, nos processos em que possa haver comprometimento dos recursos do Fundo de Compensação das Variações Salariais - FCVS, a competência para julgamento é da Primeira Seção. Precedentes: CC n. 121.499/DF, Rel. Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 23/4/2012, DJe de 10/5/2012; CC n. 36.647/SP, Rel. Ministro Felix Fischer, Corte Especial, DJ de 22/3/2004, p. 186.
+2. As próprias Turmas da Primeira Seção reiteradamente já declararam sua competência para o julgamento de questões que envolvem os contratos de mútuo habitacional que impliquem comprometimento do FCVS. REsp n. 1.607.242/PR, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 15/9/2016, DJe de 11/10/2016;
+AgInt no REsp n. 1.584.571/RS, Rel. Min. Relatora Diva Malerbi (Desembargadora convocada TRF 3ª Região), Segunda Turma, julgado em 7/6/2016, DJe de 13/6/2016; AgRg no AREsp n. 469.407/PE, Rel. Min. Humberto Martins, Segunda Turma, julgado em 15/9/2015, DJe de 23/9/2015.
+Conflito de competência conhecido para declarar competente a Primeira Seção.
+(CC n. 148.188/DF, relator Ministro Humberto Martins, Corte Especial, julgado em 4/10/2023, DJe de 16/10/2023.)
+Nesse contexto, em obediência ao entendimento consolidado no referido acórdão, os autos devem ser encaminhados à Secretaria Judiciária para redistribuição.
+Ante o exposto, declino da competência e determino a devolução dos autos à Secretaria Judiciária para redistribuição a uma das Turmas que integram a Primeira Seção desta Corte, bem como torno sem efeito a decisão de fls. 1.247-1.253 e julgo prejudicado o agravo interno de fls. 1.257-1.274.
+Publique-se. Intimem-se
+ EMENTA
