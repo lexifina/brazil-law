@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo interposto por RIO PARANÁ COMPANHIA SECURITIZADORA DE CRÉDITOS FINANCEIROS contra a decisão que inadmitiu o recurso especial. O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Paraná assim ementado:
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DECISÃO AGRAVADA RECONHECEU A IMPENHORABILIDADE DE PEQUENA PROPRIEDADE RURAL. INSURGÊNCIA DO EXEQUENTE.
+1. Para fins de proteção, o artigo 833, inciso VIII, do Código de Processo Civil, exige dois requisitos para negar constrição à pequena propriedade rural: i) que a área seja qualificada como pequena, nos termos legais; e ii) que a propriedade seja trabalhada pela família.
+2. É ônus do pequeno proprietário, executado, a comprovação de que o seu imóvel se enquadra nas dimensões da pequena propriedade rural. No entanto, no tocante à exigência da prova de que a referida propriedade é trabalhada pela família, há uma presunção de que esta, enquadrando-se como diminuta, nos termos da lei, será explorada pelo ente familiar, sendo decorrência natural do que normalmente se espera que aconteça no mundo real, inclusive, das regras de experiência (CPC, art. 375).
+4. Em razão da presunção juris tantum em favor do pequeno proprietário rural, transfere-se ao exequente o encargo de demonstrar que não há exploração familiar da terra, para afastar a proteção da pequena propriedade rural.
+5. Pela análise do conjunto probatório nos autos, comprova-se que a propriedade é utilizada como trabalho pela família, conforme pode- se observar por meio dos documentos colacionados, quais sejam: 1) As certidões negativas dão conta de que o devedor não possui outros imóveis nesta comarca ou na comarca contígua; 2) as fotos trazidas pelo devedor dão conta do uso da propriedade para agricultura; 3) a certidão emitida pelo oficial de justiça quando do cumprimento do mandado de constatação, verificando que o imóvel é utilizado para moradia do devedor e de seus familiares, utilizando-o como fonte de subsistência.
+6. Atos do oficial de justiça gozam de fé pública e, até prova inquestionável e inequívoca em contrário, devem ser admitidos como verdadeiros. Meras alegações da parte não se revelam aptas a descaracterizar o conteúdo de veracidade que se presume existente nesses atos processuais.
+Recurso conhecido e desprovido" (fls. 104-105 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 140-143 e-STJ).
+O recurso especial (fls. 146-161 e-STJ) aponta violação dos seguintes dispositivos legais, com suas respectivas teses:
+i) arts. 1.022, I e II, e 489, § 1º, IV e VI, do Código de Processo Civil - tendo em vista a omissão referente às alegações de que o executado tem o ônus de comprovar que a propriedade rural é trabalhada pela família, à ausência de impugnação dos fatos incontroversos, ao exame das provas que contradizem as conclusões do oficial de justiça e à existência de pedido subsidiário, requerendo que o oficial de justiça preste esclarecimentos;
+ii) arts. 373, I, e 833, VIII, do Código de Processo Civil - porquanto os recorridos não se desincumbiram do ônus probatório, considerando que não demonstraram suficientemente o trabalho familiar no imóvel em questão, conforme entendimento do STJ;
+iii) arts. 223 e 341 do Código de Processo Civil - visto que vários fundamentos apresentados pela recorrente não foram impugnados e, por isso, devem ser tidos como verdadeiros.
+Contrarrazões às fls. 171-181 (e-STJ).
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência merece prosperar.
+Com efeito, o art. 1.022, parágrafo único, II, do Código de Processo Civil, remetendo-se ao art. 489, § 1º, IV, determina que é omissa a decisão que "(..) não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador".
+Na espécie, o acórdão recorrido decidiu o agravo de instrumento nos seguintes termos:
+"(..)
+Assim sendo, o reconhecimento da impenhorabilidade necessita o preenchimento de apenas dois requisitos: (a) tratar-se de pequena propriedade rural; e (b) desde que trabalhada pela família.
+O primeiro requisito está preenchido, uma vez que o imóvel rural de matrícula de n.º 10.974 do 1º CRI de União da Vitória se enquadra como pequena , estando dentro do limite máximo propriedade rural, pois possui 35.177,25 m2 - 3,5 hectares de 4 módulos fiscais do Município da Bituruna/PR em que 4 módulos fiscais representam 96 hectares. (https://www.sistemafaep.org.br/veja-o-modulo-fiscal-na-sua-cidade/).
+Pela análise do conjunto probatório nos autos, comprova-se que a propriedade é utilizada como trabalho pela família, conforme pode-se observar por meio dos documentos colacionados, quais sejam: 1) As certidões negativas dos movs. 184.2 e 184.3 dão conta de que o devedor não possui outros imóveis nesta comarca ou na comarca contígua; 2) as fotos trazidas pelo devedor dão conta do uso da propriedade para agricultura;
+3) a certidão emitida pelo oficial de justiça quando do cumprimento do mandado de constatação, verificando que o imóvel é utilizado para moradia do devedor e de seus familiares, utilizando-o como fonte de subsistência (mov. 207.1).
+(..)
+Pela análise das alegações recursais, denota-se que não possuem condão para afastar a proteção da presente pequena propriedade rural, pois não representam prova idônea de que o imóvel é utilizado como lazer pelo executado e que não há exploração familiar da terra.
+É importante ressaltar que os atos do oficial de justiça gozam de fé pública e, até prova inquestionável e inequívoca em contrário, devem ser admitidos como verdadeiros. Meras alegações da parte não se revelam aptas a descaracterizar o conteúdo de veracidade que se presume existente nesses atos processuais.
+Portanto, não merece provimento o presente agravo de instrumento" (fls. 108-110 e-STJ - grifou-se).
+A recorrente opôs os embargos de declaração de fls. 130-136 (e-STJ), alegando omissão do acórdão recorrido quanto ao não enfrentamento dos seguintes fatos:
+i) o STJ, atualmente, posiciona-se no sentido de que o executado tem o ônus de provar que a propriedade rural é trabalhada pela família;
+ii) os executados não cumpriram seu encargo probatório, visto que inexiste prova de que o imóvel era trabalhado pela família;
+iii) deve ser considerada verídica a matéria fática e jurídica sustentada pelo recorrente que não foi rebatida pelos recorridos;
+iv) inúmeras provas produzidas ao longo do feito contradizem aquilo que foi certificado pelo oficial de justiça;
+v) não só existe pedido principal de manutenção da penhora, como também pedido subsidiário, requerendo que o Oficial de Justiça preste esclarecimentos.
+O Tribunal de origem, todavia, não analisou a matéria dos itens iii, iv e v, limitando-se a afirmar que:
+"(..)
+De início, importante ponderar, que os embargos de declaração só são cabíveis nos casos enumerados no artigo 1.022 do Código de Processo Civil, ou seja, quando existir em qualquer decisão judicial obscuridade ou contradição (inciso I), quando for omitido ponto ou questão sobre o qual devia pronunciar-se o juiz de ofício ou a requerimento (inciso II), ou ainda quando houver erro material a ser corrigido (inciso III).
+Nesse contexto, não assiste razão à Embargante, porquanto os fundamentos que amparam o Acórdão recorrido se mostram claros e nítidos, não havendo falar em vícios a justificar o acolhimento dos presentes aclaratórios.
+Verifica-se que o Acórdão recorrido encontra-se fundamentado de forma coerente, na medida em que demonstrou os motivos que formaram a convicção do Colegiado, notadamente em relação aos argumentos trazidos nos presentes embargos.
+Aliás, sequer indicou o embargante qualquer omissão, contradição ou obscuridade efetivamente presente no acórdão, sendo certo que os embargos de declaração não se prestam ao "aprimoramento" da decisão que já se encontra devidamente motivada de acordo com o acervo probatório presente nos autos e fundamentada de acordo com a legislação aplicável sobre o tema e precedentes do Superior Tribunal de Justiça em situações análogas.
+Em verdade, o fundamento tomado pelo colegiado não agrada o embargante, constatando-se que nestes termos se mostra tão somente inconformado com a solução dada ao caso concreto e, não concordando com os fundamentos esposados e entendendo que o caso reclama desfecho diverso, deve levar a sua insurgência, por intermédio de recurso pertinente, à Instância Superior, uma vez que este Órgão Julgador já encerrou seu ofício jurisdicional.
+Pronunciar-se sobre o acerto ou desacerto do entendimento esposado no acórdão não pode ser discutido nos estreitos limites dos embargos declaratórios, mesmo porque, como já decidiu o Colendo Supremo Tribunal Federal, os embargos de declaração têm pressupostos certos, não se prestando a corrigir . error in judicando Ante todo o exposto, voto pelo dos conhecimento e não-acolhimento Embargos de Declaração" (fls. 142-143 e-STJ).
+Com efeito, o  art.  1.022,  parágrafo  único,  II,  do  Código  de  Processo  Civil,  remetendo-se  ao  art.  489,  §  1º,  IV,  determina  que  é  omissa  a  decisão  que  "(..) não  enfrentar  todos  os  argumentos  deduzidos  no  processo  capazes  de,  em  tese,  infirmar  a  conclusão  adotada  pelo  julgador".
+Assim,  é  reiterado  o  entendimento  desta  Corte  Superior  no sentido de que  viola  o  art.  1.022  do  CPC,  por  deficiência  na  prestação  jurisdicional,  o  acórdão  que  deixa  de  emitir  pronunciamento  suficientemente fundamentado acerca  de  questões  imprescindíveis  à  solução  do  litígio  devolvidas  ao  Tribunal,  apesar  da  oposição  de  embargos  declaratórios.
+Consoante  o  princípio  da  devolutividade  dos  recursos,  incumbe  ao  Tribunal  local  manifestar-se  acerca  das  matérias  necessárias  ao  deslinde  da  controvérsia  e  que  tenham  sido  submetidas  à  sua  apreciação, notadamente quando, em tese, o entendimento adotado no acórdão recorrido está em confronto com a jurisprudência do STJ.
+Dessa forma,  é  imperioso  o  retorno  dos  autos  à  origem.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial para determinar a devolução dos autos ao Tribunal de origem, a fim de que realize novo julgamento dos embargos de declaração de fls. 116-124 (e-STJ), sanando os vícios neles apontados.
+Publique-se.
+Intimem-se.
+EMENTA
