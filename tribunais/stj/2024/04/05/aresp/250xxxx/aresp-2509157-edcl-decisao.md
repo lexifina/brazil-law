@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ADELIANE LINO DE CARVALHO SANTOS à decisão de fls. 655/656, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Data vênia conforme Vossa Excelência aduz que a Embargante fora intimada da decisão Agravada em 23/01/2023, ocorre que nesse meio tempo, a Embargante interpôs Agravo Interno de nº. 202300104989, o que consequentemente, suspendeu o prazo para interposição do Agravo em recurso Especial (fl. 660).
+ ..
+Conforme o que se infere dos autos, a recorrente foi intimada da decisão aos em 19 de julho de 2023 respeitando o prazo de 15 dias previsto em lei (art. 1.003, §5º, do Código de Processo Civil).
+A decisão fora publica em 19/07/2023 e disponibilizada no Diário da Justiça Eletrônico do Estado de Sergipe no dia 20/07/2023.
+Pois bem! Conforme o exposto, o prazo final para a presente interposição do Recurso Especial finda em 10/08/2023 (Quarta-Feira).
+ ..
+Diante do exposto, resta claro que não há intempestividade, visto que contra a decisão que inadmitiu o Recurso Especial foi interposto Agravo Interno, gerando assim a suspensão do prazo para interposição do Agravo em recurso Especial (fl. 661).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Quanto à tempestividade do recurso, impende esclarecer que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada sob a égide do novo codex Processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Observe-se que houve a disponibilização da decisão de admissibilidade do recurso especial em 11/1/2023, considerando-se publicada em 12/1/2023 o dia seguinte à disponibilização (§ 2º do art. 224 do CPC). No entanto, conforme ditame do art. 220 do CPC, a contagem dos prazos fica suspensa até o dia 20/1/2023. Dessa forma, o primeiro dia da contagem do prazo se deu no dia 23/1/2023, tendo como o 15º dia útil o dia 10/2/2023.
+Dessa forma, o prazo recursal de 15 (quinze) dias úteis, nos termos art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil, terminou no dia 10/2/2023, sendo que o agravo em recurso especial foi interposto somente em 8/8/2023, fora do prazo.
+Cumpre esclarecer que o agravo interno não é o recurso cabível contra a decisão do Tribunal de origem em juízo de admissibilidade de recursos especiais não submetidos ao rito dos repetitivos. Assim, sua interposição equivocada não interrompe nem suspende o prazo para a apresentação do recurso cabível, que, no caso, é o agravo previsto no art. 1.042 do CPC. Nesse sentido, o AgInt no AREsp 1549441/MS, relator Ministro Gurgel De Faria, Primeira Turma, DJe de 12/3/2020; e AgInt no AREsp 1508918/MT, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 28/2/2020.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
