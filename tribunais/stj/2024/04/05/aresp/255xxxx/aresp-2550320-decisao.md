@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo interposto por KERLAC INDUSTRIA E COMERCIO DE LATICINIOS LTDA e OUTROS, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de KERLAC INDUSTRIA E COMERCIO DE LATICINIOS LTDA e OUTROS, a petição de recurso especial foi protocolada, na origem, sem o comprovante de pagamento das custas, em razão do pedido de gratuidade de justiça.
+O tribunal de origem determinou, então, a intimação da parte para comprovar o preenchimento dos requisitos para concessão do benefício, facultando o recolhimento do preparo.
+A parte resolveu recolher as custas, de modo simples, e assim abriu mão do pedido, afastando, a presunção de sua hipossuficiência.
+Todavia, nesse contexto, em que as custas não foram recolhidas no ato da interposição do recurso especial, bem como a renúncia ao pedido de gratuidade, imperiosa a observância do art. 1.007, § 4º do CPC, com o recolhimento em dobro.
+Ademais, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, deixou o prazo transcorrer in albis.
+Ressalte-se que a petição de fls. 786/787 trazida aos autos em razão da certidão oportunizando a regularização do feito, não pode ser conhecida para os fins a que se destina, uma vez que protocolizada fora do prazo assinalado, ocorrendo a preclusão temporal da prática do ato.
+Cumpri registrar que a única forma de recolher as custas simples após a interposição do recurso especial, é quando há pedido de gratuidade de justiça na petição e este é indeferido pelo tribunal de origem, uma vez que deverá ser dada oportunidade à parte para efetuar o recolhimento nos termos do artigo 99, § 7, do Código de Processo Civil em razão do principio da não-surpresa. (EDcl no AgInt no AREsp n. 1.317.073/MS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 16/8/2021, DJe de 24/8/2021.).
+Porém, no caso dos autos, é importante frisar que a pretensão à gratuidade de justiça sequer foi analisada, em razão da prática de ato incompatível com o pedido de gratuidade. Portanto, a hipótese é diversa da tratada pelo §7º do art. 99 do CPC, porque não houve julgamento pelo indeferimento da benesse.
+Logo, conclui-se que a renúncia à pretensão de conseguir a benesse enseja no dever de recolher o preparo em dobro, na forma do art. 1.007, §4º, do CPC, uma vez que a comprovação do preparo deve ser simultânea à interposição do recurso.
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
+ EMENTA
