@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto contra acórdão assim ementado (fl. 370):
+PROCESSO PENAL - HABEAS CORPUS - AGRAVO REGIMENTAL - PEDIDO DE EXTENSÃO DOS EFEITOS DE DECISÃO CONCESSIVA A CORRÉU - NÃO CONHECIMENTO. 1) Não cabe agravo regimental contra decisão do relator que, em habeas corpus, defere ou indefere, de forma fundamentada, o pedido liminar. Precedentes STF/STJ. 2) Agravo regimental não conhecido.
+Consta dos autos que a recorrente foi presa preventivamente pela prática dos crimes tipificados nos arts. 33 e 35, c/c o art. 40, V, da Lei n. 11.343/2006 e art. 2º, §2º, da Lei n. 12.850/2013.
+Narra a defesa que o Tribunal local concedeu ordem de habeas corpus ao corréu para substituir a prisão preventiva por medidas cautelares alternativas ao cárcere. A recorrente requereu a extensão dos efeitos benéficos da decisão nos autos do writ impetrado em favor do corréu, mas o respectivo desembargador relator o indeferiu monocraticamente, ao fundamento de que as condições fático-processuais de Brenda e do corréu seriam diferentes.
+Interposto agravo regimental contra a referida decisão monocrática, não foi o recurso conhecido pela Corte de origem, nos termos da ementa supra.
+Daí o presente recurso, em que suscita a defesa de Brenda negativa de prestação jurisdicional, dado o fato de não ter o Tribunal local adentrado ao mérito do pedido de extensão no julgamento do agravo regimental.
+Outrossim, pleiteia que essa Corte conceda a Brenda a extensão dos efeitos da decisão que beneficiou RAMON CARDOSO DA SILVA, em virtude de se encontrarem na mesma situação processual.
+Requer, "a) in limine litis, diante da ausência de pronunciamento da Corte estadual configuradora de indevida prestação jurisdicional, requer-se o conhecimento e provimento do presente recurso ordinário, in limine litis, a fim de que os autos sejam remetidos para o respectivo órgão fracionário do Tribunal de origem e se manifestem de forma colegiada ao pedido de extensão; ou, alternativamente, b) no mérito, seja concedido extensão dos efeitos da decisão que beneficiou RAMON CARDOSO DA SILVA a BRENDA FONSECA DAS NEVES, em virtude de se encontrarem na mesma situação processual" (fl. 392).
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Ao não conhecer do agravo regimental interposto pela defesa da ora recorrente, o Tribunal local assim fundamentou (fls. 372-375):
+Nos termos do entendimento consolidado pelo Supremo Tribunal Federal, não se admite agravo regimental contra decisão do Ministro Relator que, motivadamente, defere ou indefere liminar em habeas corpus (STF. 2ª Turma. HC 157.604/RJ, Rel. Min. Gilmar Mendes, julgado em 4/9/2018 (Info 914). Vejamos:
+ ..
+O Superior Tribunal de Justiça, na mesma linha de entendimento do STF, assegura não ser possível recorrer, através de agravo regimental, contra decisão monocrática que indefere liminar em habeas corpus, in verbis:
+ ..
+Assim, ausente possibilidade de regular processamento e julgamento do agravo regimental, por se tratar de recurso incabível à espécie.
+Posto isto, e por tudo o mais que dos autos consta, não conheço do agravo regimental.
+Tal qual a Corte local, o Superior Tribunal de Justiça possui o entendimento de que "Não cabe recurso contra a decisão do relator que, em habeas corpus, defere ou indefere a liminar, de forma motivada" (RCD no HC n. 682.986/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 5/10/2021, DJe de 11/10/2021.)
+Assim, não se observa a suscitada negativa de prestação jurisdicional, uma vez que o entendimento prevalente na jurisprudência é o de que o (in)deferimento motivado de decisão liminar em habeas corpus de fato é irrecorrível.
+E mais, não havendo, ainda, sido proferida decisão terminativa nos autos do habeas corpus originário, não há sequer de se falar em negativa de prestação jurisdicional.
+Por fim, está sedimentado nesta Corte Superior o entendimento segundo o qual o pedido de extensão deve ser formulado nos autos do processo no qual foi prolatada a decisão cujos efeitos se pretende estender, o que não ocorre no presente caso. Neste sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. PORTE IRREGULAR DE ARMA DE FOGO DE USO RESTRITO E OUTRA COM NUMERAÇÃO SUPRIMIDA. SENTENÇA CONDENATÓRIA. NEGADO O DIREITO A RECORRER EM LIBERDADE. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE DO AGENTE. QUANTIDADE E VARIEDADE DE DROGA E ARMAMENTO APREENDIDOS. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO DO PROCESSO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PEDIDO DE EXTENSÃO. SITUAÇÃO FÁTICO-PROCESSUAL DIVERSA. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+7. Sedimentado nesta Corte Superior o entendimento segundo o qual o pedido de extensão deve ser formulado nos autos do processo no qual foi prolatada a decisão cujos efeitos se pretende estender, o que não se verifica na presente hipótese.
+8. Em esforço comparativo entre a situação do ora paciente e do corréu beneficiado com a liberdade provisória, não foi verificada a indispensável similitude fática-processual, razão pela qual se mostra inviável pretendida extensão de efeitos. Saliente-se que o corréu obteve a benesse no curso da instrução probatória e o paciente buscou a extensão apenas após ter sido condenado, inclusive à pena substancialmente superior. Habeas corpus não conhecido. (HC 424.399/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/08/2018, DJe 04/09/2018)
+Não cabe , portanto, a essa Corte Superior, desde já, reconhecer a extensão pleiteada, notadamente porque o órgão colegiado do Tribunal local ainda não se manifestou de maneira terminativa sobre a questão.
+Ademais, entende o STJ que o pedido de extensão só pode ser formulado nos autos do processo no qual foi prolatada a decisão cujos efeitos se pretende estender, o que não ocorre no presente caso.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
