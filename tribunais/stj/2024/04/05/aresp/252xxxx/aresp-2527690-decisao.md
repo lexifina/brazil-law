@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por BENEDITO CLÁUDIO FAUSTINO, contra decisão que não admitiu recurso especial, com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 914):
+PREVIDENCIÁRIO. APOSENTADORIA PROPORCIONAL POR TEMPO DE CONTRIBUIÇÃO. ARTIGO 9º DA EC nº 20/98. ATIVIDADES EM CONDIÇÕES ESPECIAIS COMPROVADAS EMPARTE.1. A concessão da aposentadoria por tempo de serviço, hoje tempo de contribuição, estácondicionada ao preenchimento dos requisitos previstos nos artigos 52 e 53 da Lei nº 8.213/91. A par do tempo de serviço/contribuição, deve também o segurado comprovar o cumprimento dacarência, nos termos do artigo 25, inciso II, da Lei nº 8.213/91.2. Logo, devem ser considerados como especiais os períodos: 13/12/1973 a 11/09/1975,07/02/1983 a 23/03/1983, 03/10/1983 a 31/01/1985, 19/08/1985 a 30/04/1986 e 15/09/1993 a17/12/1993.3. Desse modo, computando-se os períodos especiais, ora reconhecidos, acrescidos dosperíodos incontroversos, constantes da CTPS e do CNIS, até a data do requerimentoadministrativo, perfazem-se aproximadamente, 33 (trinta e três) anos, 04 (quatro) meses decontribuição, conforme planilha anexa, os quais são pertinentes ao tempo de serviço exigívelnos artigos 52 e 53, ambos da Lei nº 8.213/91, com o acréscimo de 40% (quarenta por cento),previsto no artigo 9º da EC nº 20/98, para a aposentadoria proporcional por tempo de serviço.
+O valor da renda mensal inicial do benefício deve ser fixado de acordo com o artigo 9º,parágrafo 1º, inciso II, da EC nº 20/98.4. Assim, reconhece-se o direito da parte autora à concessão da aposentadoria proporcionalpor tempo de serviço/contribuição, incluído o abono anual, a ser implantada a partir dorequerimento administrativo (15/04/2019), data em que o réu tomou conhecimento dapretensão.5. Matéria preliminar rejeitada. Apelação do INSS e da parte autora providas em parte.
+Opostos embargos de declaração, foram rejeitados (fls. 976/983).
+Nas razões do recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos arts. 6º, 355, 369, 370, 371 e 372 do CPC e sustenta, em síntese, o cerceamento de seu direito de defesa, porque não lhe teria sido permitido a produção de prova documental suplementar que seria imprescindível para a comprovação do direito alegado.
+Contrarrazões não apresentadas.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O recurso não prospera.
+Isto porque, de acordo com a jurisprudência consagrada nesta Corte, é faculdade do julgador o indeferimento de produção probatória que julgar desnecessária para o regular trâmite do processo, sob o pálio da prerrogativa do livre convencimento, seja ela testemunhal, seja pericial ou documental, cabendo-lhe, apenas, expor fundamentadamente o motivo de sua decisão.
+Nesse sentido, sobressaem precedentes:
+PROCESSUAL. ADMINISTRATIVO. NECESSIDADE DE PRODUÇÃO DEPROVAS. INDEFERIMENTO. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. REVISÃO.SÚMULA 07/STJ.
+1. O acórdão recorrido concluiu: o juízo a quo é o destinatário da prova e cabe a ele avaliar sobre a necessidade de sua produção, indeferindo as diligências inúteis e protelatórias. No caso, o indeferimento está devidamente fundamentado, pois os documentos cuja requisição foi pretendida ou já constam dos autos ou não têm relação direta com a lide. Além disso, foi conferida ao ora agravante a oportunidade de demonstrar o contrário, ônus do qual não se desincumbiu (e-STJ fls. 1.707-1.712).
+2. O magistrado, com base no livre convencimento motivado, pode indeferira produção de provas que julgar impertinentes, irrelevantes ou protelatórias para o regular andamento do processo, o que não configura, em regra, cerceamento de defesa. Precedentes.
+3. Rever a orientação adotada pelo Tribunal a quo para acolher-se a tese da recorrente de que no caso a produção de provas seria imprescindível para a solução da lide exige análise de fatos e provas, o que inviabiliza a realização de tal procedimento pelo STJ na via do recurso especial, nos termos da Súmula 07/STJ.
+4. Agravo regimental não provido.
+(AgRg no AREsp 87.393/AM, Rel. Ministro Castro Meira, Segunda Turma,
+DJe 5/3/2012).
+A propósito, também é oportuno ressaltar que é "inviável no âmbito do recurso especial dissentir da conclusão alvitrada na origem acerca da desnecessidade de dilação probatória, em face do óbice contido na Súmula 7 deste Tribunal" (AgInt no AREsp 237.594/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 23/06/2016, DJe 18/08/2016).
+E, no caso concreto, o Tribunal de origem firmou seu entendimento no sentido da análise da prova existente nos autos, nos seguintes termos (fl. 906):
+Ainda, de início, verifico que não merece prosperar a matéria preliminar de cerceamento de defesa econsequente nulidade da sentença, em virtude da não realização da perícia técnica, tendo em vista que asprovas produzidas durante a instrução forem suficientes ao livre convencimento do magistrado.
+Ademais, em nosso sistema jurídico, o juiz é, por excelência, o destinatário da prova, cabendo a ele, deofício ou a requerimento da parte, determinar as provas necessárias à instrução do processo, indeferindoas diligências inúteis ou, meramente, protelatórias (art. 130 do CPC/1973, atual 370 do CPC/2015).
+Desta maneira, nota-se que a revisão das conclusões adotadas pela Corte de
+origem, tal como colocada nas presentes razões recursais demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto na Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. SERVIÇO PÚBLICO. FORNECIMENTO DE ENERGIA ELÉTRICA. PROVA PERICIAL. INDEFERIMENTO. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. INVIABILIDADE NA VIA RECURSAL ELEITA. INCIDÊNCIA DO ENUNCIADO SUMULAR N. 7/STJ.
+1. Conforme reiteradamente decidido pelo Superior Tribunal de Justiça, a análise da necessidade ou não de produção de prova, qualquer que seja o momento processual ou o motivo que leve a tanto, é atribuição da instância ordinária.
+2. Eventual reforma desta decisão importaria em reexame do conjunto fático-probatório, o que é vedado para este magistrado pela Súmula n.7deste Tribunal. Precedentes.3. Agravo regimental não provido.
+(AgRg no REsp 1.355.378/MA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 4/6/2013)
+ANTE O EXPOSTO, nego provimento ao agravo em recurso especial.
+Publique-se.
+EMENTA
