@@ -1,0 +1,25 @@
+DECISÃO
+Na origem, trata-se de agravo de instrumento contra decisão que rejeitou a exceção de pré executividade. No Tribunal a quo, negou-se provimento ao recurso. O valor da causa foi fixado em R$ 7.869,59.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ contra acórdão com o seguinte resumo de ementa:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. ICMS. EXCEÇÃO DE PRÉ EXECUTIVIDADE. DECISÃO QUE REJEITOU A EXCEÇÃO.
+1. DISCUSSÃO QUANTO A OFENSA DO PRINCÍPIO DA NÃOCUMULATIVIDADE, PELO NÃO CREDITAMENTO DE VALORES ADVINDOS DEPRODUTOS INTERMEDIÁRIOS. IMPOSSIBILIDADE DE ANÁLISE DO TEMA VIAEXCEÇÃO DE PRÉ EXECUTIVIDADE. AGRAVANTE QUE JUNTOU ALGUMASCÓPIAS DA EXECUÇÃO FISCAL E QUE NÃO SÃO APTAS A DEMONSTRAÇÃODO ALEGADO. NECESSIDADE DE DILAÇÃO PROBATÓRIA, INCOMPATÍVELCOM A PRESENTE EXCEÇÃO. INTELIGÊNCIA DA SÚMULA N.º 393, DO STJ.
+2. NULIDADE DA CDA EXECUTADA. INOCORRÊNCIA. OFENSA AOSREQUISITOS CONTIDOS NO ART. 202, DO CTN E NO ART. 2º, § 5º DA LEF QUENÃO FORAM COMPROVAD OS. EXISTÊNCIA DE TODOS OS ELEMENTOSENSEJADORES DA CDA PARA A EXECUÇÃO DO CRÉDITO TRIBUTÁRIO.
+DESNECESSIDADE DE ABERTURA DE PROCEDIMENTO ADMINISTRATIVOFORMAL. ICMS. LANÇAMENTO POR HOMOLOGAÇÃO, APÓS OLANÇAMENTO DAS INFORMAÇÕES NO SISTEMA PELO PRÓPRIOCONTRIBUINTE. JURISPRUDÊNCIA DESTA 2ª CÂMARA CIVEL.
+DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A leitura do acórdão recorrido se deu no dia 1/6/2023, sendo seu termo final o dia 22/6/2023. A Corte Especial, no julgamento do AREsp 957.821, em 20/11/2017, chegou à conclusão de que, na vigência do Código de Processo Civil de 2015, não é possível a pretensão de comprovação da tempestividade após a interposição do recurso, conforme se confere da ementa do acórdão:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo".
+4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido.
+Recentemente, a mesma Corte Especial decidiu que a regra da impossibilidade de comprovação da tempestividade, posteriormente à interposição do recurso, não deveria ser aplicada no caso em que se trate de feriado de carnaval. O entendimento foi fixado no REsp 1.813.684/SP e, posteriormente, ratificado no julgamento da questão de ordem no mesmo recurso, quando se entendeu que a mesma interpretação não poderia ser estendida para outros feriados, que não fossem o feriado de carnaval.
+Ainda, com relação ao feriado de segunda-feira de carnaval, modulou-se os efeitos do julgado para que somente se aplicasse aos recursos destinados à Corte, interpostos até a data da publicação do acórdão (18/11/2019). Nesse sentido: AgInt nos EDcl no AREsp n. 2.277.983/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 25/9/2023, DJe de 27/9/2023; AgInt nos EDcl no AREsp n. 2.279.188/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/10/2023, DJe de 11/10/2023; AgInt nos EDcl no AREsp n. 2.306.267/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/10/2023, DJe de 19/10/2023. Considerando-se que o agravo em recurso especial foi interposto após a referida data, o recuro é intempestivo.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
