@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. PENSÃO POR MORTE. TERMO INICIAL. DATA DA CITAÇÃO. ACÓRDÃO RECORRIDO QUE ENTENDEU PELA NÃO CONFIGURAÇÃO DA MORA EM MOMENTO ANTERIOR À CITAÇÃO. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO INTERNO IMPROVIDO.
+1. A parte agravante, em seu recurso especial, não impugna aos fundamentos do acórdão recorrido, no tocante ao argumento de que a ação ajuizada anteriormente não teve por objeto a concessão do benefício previdenciário em discussão, o que atrai o óbice da Súmula 283/STF.
+2. Não atende à exigência contida nos arts. 1.029, § 1º, do CPC/2015; e 255, § 1º, do RISTJ, a alegação de divergência jurisprudencial desprovida do efetivo cotejo analítico e da demonstração da similitude fática e jurídica entre as decisões paradigmas e a recorrida.
+3. Agravo interno improvido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em análise, agravo interno interposto por GISLENE DOMENICHELI DA COSTA DE OLIVEIRA contra a decisão que não conheceu do recurso especial, com base na Súmula 283/STF, bem como pela ausência de comprovação do dissídio jurisprudencial.
+O agravante sustenta, em síntese, que "o recurso especial interposto pela agravante debateu acerca do termo inicial dos juros de mora, qual devem incidir da ação originária e não do mandado de segurança mencionado, ou seja, o termo inicial dos juros de mora deve se dar desde a ação nº 0009539-94.2010.403.6183, eis que adimplidos os requeridos à concessão da benesse previdenciária à demanda em comento" (e-STJ, fl. 514).
+Alega ter restado demonstrada a divergência jurisprudencial, vez que "o v. acórdão recorrido aponta a impossibilidade do termo inicial dos juros ser fixado na citação da demanda originária, bem como se manteve omissa quanto a interrupção da prescrição quinquenal. Já o paradigma entende que a ação mandamental interrompe o prazo prescricional, assim como o termo inicial dos juros de mora deve ser desde a ação originária" (e-STJ, fl. 516).
+Ao final, requer a reconsideração da decisão agravada ou a submissão do recurso ao Colegiado da Segunda Turma.
+A parte agravada não apresentou impugnação ao agravo interno.
+É o relatório.
+EMENTA
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. PENSÃO POR MORTE. TERMO INICIAL. DATA DA CITAÇÃO. ACÓRDÃO RECORRIDO QUE ENTENDEU PELA NÃO CONFIGURAÇÃO DA MORA EM MOMENTO ANTERIOR À CITAÇÃO. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO INTERNO IMPROVIDO.
+1. A parte agravante, em seu recurso especial, não impugna aos fundamentos do acórdão recorrido, no tocante ao argumento de que a ação ajuizada anteriormente não teve por objeto a concessão do benefício previdenciário em discussão, o que atrai o óbice da Súmula 283/STF.
+2. Não atende à exigência contida nos arts. 1.029, § 1º, do CPC/2015; e 255, § 1º, do RISTJ, a alegação de divergência jurisprudencial desprovida do efetivo cotejo analítico e da demonstração da similitude fática e jurídica entre as decisões paradigmas e a recorrida.
+3. Agravo interno improvido.
+VOTO
+MINISTRO AFRÂNIO VILELA: Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Na hipótese, o Tribunal a quo decidiu a questão com a seguinte fundamentação (e-STJ, fl. 443):
+Com efeito, como bem ponderado no julgado de primeiro grau,  ..  não merece acolhimento o pedido formulado pelo autor, no sentido de que os juros "incidam desde a citação do réu nos autos 0009539-94.2010.4.03.618", vez que na referida ação não se concedeu o benefício previdenciário em testilha, "exercício de atividade remunerada pelo apenas houve o reconhecimento do falecido até 14/05/2007, com a manutenção da qualidade de segurado na datado óbito, na condição de contribuinte individual, ressalvada a possibilidade de se exigir o adimplemento das contribuições previdenciárias em atraso no âmbito administrativo para efeito de concessão do benefício de pensão por morte".
+Verifica-se, pois, que os juros de mora não foram afastados em virtude da ocorrência da prescrição, mas por não estar em mora o INSS antes da notificação no Mandado de Segurança.
+O agravante, em seu recurso especial, refutando o acórdão recorrido, alegou a não incidência da prescrição quinquenal, pois (e-STJ, fl. 463) ,
+a recorrente, após realizar o requerimento administrativo da benesse, em 26.02.2008, necessitou ajuizar ação visando obter autorização para regularização pos mortem das contribuições previdenciária do de cujos, a qual tramitou sob o nº 0009539-94.2010.403.6183.
+Após a devida regularização, a recorrente requereu novamente a concessão da benesse, em 29.04.2014 e, em razão da mora da autarquia na análise do procedimento administrativo, impetrou o mandado de segurando sob o nº 0011560-59.2014.403.6100, sendo, após essa data, efetivamente implantado o benefício devido.
+Assim, diante do ajuizamento das referidas demandas, em 2010 e, posteriormente em 2014, houve a interrupção do instituto da prescrição quinquenal.
+Nesse contexto, é possível constatar que a parte agravante sequer impugna aos fundamentos do acórdão recorrido, no tocante ao argumento de que a ação ajuizada anteriormente não teve por objeto a concessão do benefício previdenciário em discussão, o que atrai o óbice da Súmula 283/STF.
+Ademais, acertada a decisão agravada no que tange ao dissídio jurisprudencial, pois, de fato, não foi satisfatoriamente comprovado e demonstrado, conforme estabelecido nos arts. 1.029, § 1º, do CPC; e 255, § 1º, do RISTJ.
+Verifica-se que a parte agravante deixou de realizar o necessário cotejo analítico entre as decisões tidas por paradigmas.
+É indispensável que a parte recorrente demonstre, de forma analítica, de que maneira o aresto paradigma apreciou matéria idêntica à dos autos, à luz da mesma legislação federal analisada pelo acórdão recorrido, dando-lhe solução distinta para que se tenha por configurada a divergência jurisprudencial, o que não se verificou no presente caso. Não basta a mera diagramação lado a lado dos acórdãos para se atender aos requisitos legais e regimentais.
+No mesmo sentido, se encontram os precedentes transcritos abaixo:
+PROCESSUAL CIVIL. DIREITO AMBIENTAL. AUSÊNCIA DE OMISSÃO. ART. 535, II, DO CPC. FALTA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. AÇÃO CIVIL PÚBLICA. CUMPRIMENTO DE SENTENÇA. IMÓVEL RURAL. RESERVA LEGAL EXTRAMUROS. COMPENSAÇÃO EM BACIA HIDROGRÁFICA DIVERSA.
+ ..
+2. A apontada divergência deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial com base na alínea "c", III, do art. 105 da Constituição Federal.
+ ..
+4. Recurso Especial parcialmente conhecido e, nessa parte, não provido (REsp n. 1.533.258/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/6/2016, DJe de 20/8/2020).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUXÍLIO-ACIDENTE E/OU APOSENTADORIA POR INVALIDEZ. DOENÇA DO TRABALHO. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. RECURSO ESPECIAL COM FUNDAMENTO NA ALÍNEA A. AUSÊNCIA DE ARGUMENTAÇÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVAÇÃO. AUSÊNCIA DE COTEJO ANALÍTICO. NÃO COMPROVAÇÃO DA SIMILITUDE FÁTICA E JURÍDICA DOS ACÓRDÃOS CONFRONTADOS. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+ ..
+2. A divergência jurisprudencial deve estar amparada no necessário cotejo analítico entre acórdãos confrontados e na comprovação da similitude fática, de forma apta a permitir o exame do recurso especial com base no dissídio pretoriano. A falta do cotejo analítico e a ausência da similitude fática, requisitos indispensáveis à demonstração da divergência, inviabilizam a análise do dissídio, porquanto violam o disposto no art. 1.029, § 1º, do CPC/2015.
+ ..
+4. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e conhecer do agravo nos próprios autos para não conhecer do recurso especial (AgInt no AREsp n. 1.595.312/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 18/5/2020, DJe de 20/5/2020).
+Isso posto, nego provimento ao agravo interno.
