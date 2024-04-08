@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão assim ementado (fl. 66):
+HABEAS CORPUS - ROUBO MAJORADO - EXCESSO DE PRAZO - NÃO CONFIGURAÇÃO - TRANSCURSO REGULAR - INSTRUÇÃO FINDA - EXCESSO DE PRAZO NA REVISÃO DO CÁRCERE - MERA IRREGULARIDADE CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. - Os prazos designados para a instrução criminal servem somente como parâmetros gerais. O reconhecimento do constrangimento ilegal por excesso de prazo deve sempre ser norteado pelo princípio da razoabilidade. - Verificado o transcurso regular do processo, não há que se cogitar a ocorrência do aventado constrangimento ilegal por excesso de prazo. - Encerrada a instrução criminal em lapso temporal razoável, resta superada a alegação de excesso de prazo na formação da culpa. - A superação do prazo legal de revisão judicial da prisão preventiva previsto no artigo 316, parágrafo único, do Código de Processo Penal, não configura ilegalidade suscetível de relaxamento da prisão, mas sim, mera irregularidade, devendo a questão ser analisada, ainda, à luz dos princípios da razoabilidade e da proporcionalidade e levando-se em conta as peculiaridades do caso concreto.
+Consta dos autos que o Paciente foi preso em flagrante em 28/1/2023, convertido em prisão preventiva, sendo denunciado como incurso no crime previsto no art. 157, § 2º, II, IV, V e § 2º-A, I, do CP.
+Alega o Impetrante, em suma, constrangimento ilegal, por excesso de prazo para a formação da culpa, bem como porquanto não reanalisada a prisão preventiva há mais de 120 dias.
+Requer, assim, liminarmente, o relaxamento da prisão, com a aplicação de medidas a cautelares diversas e, no mérito, a revogação da prisão, porquanto o paciente "encontra-se preso há mais de 1 ano, sem o devido cumprimento da Lei em reavaliar a necessidade da prisão preventiva há mais de 120 dias, como determina a Lei" (fl. 12).
+Indeferida a liminar e prestadas informações, o Ministério Público Federal manifestou-se pel a prejudicialidade do pedido.
+Como bem observado pelo MPF, "a teor das informações prestadas (e-STJ, fl. 98), após a impetração do presente habeas corpus foi prolatada sentença penal, em que o magistrado singular julgou procedente a denúncia para, assim, condenar o paciente nas sanções dos arts. 157, § 2º, II, IV,V e § 2º-A, I, do Código Penal, fixar o regime inicial fechado e negar o direito ao réu de recorrer em liberdade, mantendo-se a prisão preventiva".
+Nesse contexto, ficam superadas as alegações de excesso de prazo e necessidade de reavaliação do cárcere, a evidenciar a perda superveniente do objeto.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
