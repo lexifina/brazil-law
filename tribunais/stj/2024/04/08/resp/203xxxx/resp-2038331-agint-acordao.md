@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. ENTENDIMENTO DA CORTE ESPECIAL.
+1. A Corte Especial, ao julgar os EREsp 1.424.404/SP (Rel. Ministro LUIS FELIPE SALOMÃO, DJe 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, aplicar-se-á o óbice encartado na Súmula 182/STJ quando a parte agravante: a) deixar de empreender combate ao único ou a todos os capítulos autônomos da decisão agravada; b) deixar de refutar a todos os fundamentos empregados no capítulo autônomo por ela impugnado.
+2. Caso concreto em que a parte agravante incorreu nas situações antes descritas.
+3. Agravo interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA: Trata-se de agravo interno manejado pelo Distrito Federal desafiando decisão que conheceu em parte do recurso especial e, nessa extensão, negou-lhe provimento, sob os fundamentos de que: (I) prejudicado o exame do apelo nobre no tocante às teses recursais de que o aresto recorrido não teria observado o entendimento do STF no Tema 1.093/STF nem a modulação de efeitos no referido representativo da controvérsia; bem como quanto ao cabimento da via mandamental para discussão de direito à compensação de indébito tributário, visto que o Sodalício de origem, ao solucionar a contenda, pautou-se pelo posicionamento consolidado pelo STF (Tema 1.093/STF) e pelo STJ (Tema 118/STJ); (II) em relação à indicada afronta aos arts. 489 e 1.022 do CPC, por um lado, tendo em vista que se indicou genericamente omissão acerca de determinados artigos de lei, aplicável o óbice da Súmula 284/STF ante a deficiência de fundamentação recursal; por outro, no que tange às teses tidas por olvidadas a respeito da necessidade de comprovação do repasse do tributo, bem assim aos efeitos pretéritos do mandamus, não há falar em negativa de prestação jurisdicional, tendo o Tribunal de origem expressamente tratado dos aludidos temas; (III) em relação à alegada ofensa ao art. 166 do CTN, o apelo nobre esbarra na Súmula 283/STF; e (IV) ao reconhecer o mandado de segurança como instrumento adequado para declarar o direito à compensação, em sede administrativa, de indébito recolhido em período anterior à impetração, o aresto local mostra-se alinhado à jurisprudência do STJ.
+O agravante, em suas razões, sustenta que foi "demonstrada a violação ao disposto no art. 927, incisos I e III, do CPC e no art. 27 da Lei 9.868/99, devendo o presente recurso e o RESP serem providos para que o acórdão do TJDFT seja reformado para e adequar à decisão proferida pelo STF, decretando-se a denegação da segurança" (fl. 998). Insiste que "o mandado de segurança aqui tratado foi impetrado em 02.03.2021, conforme expressamente reconhecido no acórdão recorrido,  pelo que  é evidente que a declaração de inconstitucionalidade não atinge a impetrante, sendo absolutamente possível a cobrança do DIFAL-ICMS indevidamente obstada" (fl. 997).
+Transcorreu in albis o prazo para impugnação (fl. 1.004).
+É O RELATÓRIO.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. ENTENDIMENTO DA CORTE ESPECIAL.
+1. A Corte Especial, ao julgar os EREsp 1.424.404/SP (Rel. Ministro LUIS FELIPE SALOMÃO, DJe 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, aplicar-se-á o óbice encartado na Súmula 182/STJ quando a parte agravante: a) deixar de empreender combate ao único ou a todos os capítulos autônomos da decisão agravada; b) deixar de refutar a todos os fundamentos empregados no capítulo autônomo por ela impugnado.
+2. Caso concreto em que a parte agravante incorreu nas situações antes descritas.
+3. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (RELATOR): A irresignação não merece conhecimento.
+De acordo com o art. 1.021, § 1º, do CPC, constitui ônus da parte agravante impugnar especificamente os fundamentos da decisão combatida, isto é, deve deixar evidente o desacerto do decisum, com a consequente desconstituição das razões de decidir adotadas no julgamento singular.
+Esse é o teor da Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+A Corte Especial, ao julgar os EREsp 1.424.404/SP (Rel. Ministro LUIS FELIPE SALOMÃO, DJe 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, aplicar-se-á o óbice encartado na Súmula 182/STJ quando a parte agravante: a) deixar de empreender combate ao único ou a todos os capítulos autônomos da decisão agravada; b) deixar de refutar a todos os fundamentos empregados no capítulo autônomo por ela impugnado.
+Na espécie, a parte postulante cingiu-se a tratar, unicamente, do mérito relativo à indicada ofensa aos arts. 927, I, III, do CPC; e 27 da Lei n. 9.868/99 (tese recursal de que o aresto recorrido não teria observado o entendimento do STF no Tema 1.093/STF nem a modulação de efeitos no referido representativo da controvérsia), passando, pois, ao largo do alicerce esposado no decisório alvejado para não conhecer do recurso raro no particular, reitere-se, o de que prejudicado o exame da questão, visto que o Sodalício de origem, ao solucionar a contenda, pautou-se pelo posicionamento consolidado pelo STF (Tema 1.093/STF), consoante a dicção do art. 1.039 do CPC ("Decididos os recursos afetados, os órgãos colegiados declararão prejudicados os demais recursos versando sobre idêntica controvérsia ou os decidirão aplicando a tese firmada.").
+Logo, remanescem hígidos, porque inatacados, todos os capítulos do decisum objurgado.
+Nesse contexto, incide a Súmula 182/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO. CLÁUSULA DE EXCLUSÃO. DESTAQUE. AUSÊNCIA. REEXAME. SÚMULAS N. 5 E 7/STJ. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. ART. 1.021, § 1º, DO CPC. SÚMULA N. 182/STJ. NÃO CONHECIMENTO.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+(AgInt no AREsp 1.861.630/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 14/3/2022, DJe 22/3/2022. )
+ANTE O EXPOSTO, não conheço do agravo interno.
+É como voto.
