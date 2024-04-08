@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. RECURSO NÃO CONHECIDO.
+1. A ausência de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1.021, § 1º, do Código de Processo Civil (CPC). Incidência da Súmula 182 do Superior Tribunal de Justiça (STJ): "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por JANDYRA CAVALCANTI FINIZOLA contra a decisão de minha relatoria que não conheceu do recurso especial (fls. 335/337).
+A parte agravante alega o seguinte: "Para os aposentados pensionistas mais antigos, também titulares de paridade remuneratória, mas que não receberam a gratificação por 5 (cinco) anos - o Instituto Nacional do Seguro Social - INSS insiste no pagamento de apenas 50 (cinqüenta) pontos. Desconsidera, assim, que o artigo 11 deve prevalecer sobre o artigo 16 da Lei nº 10.855/2004, inclusive por ser mais recente" (fl. 344).
+Requer a reconsideração da decisão agravada ou a submissão do feito à turma julgadora.
+Sem impugnação conforme a certidão de fl. 354.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. RECURSO NÃO CONHECIDO.
+1. A ausência de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1.021, § 1º, do Código de Processo Civil (CPC). Incidência da Súmula 182 do Superior Tribunal de Justiça (STJ): "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+2. Agravo interno não conhecido.
+VOTO
+Do agravo interno não é possível conhecer.
+A decisão agravada não conheceu do recurso especial da parte agravante em razão da incidência da Súmula 283 do Supremo Tribunal Federal (STF) nos seguintes termos (fl. 337):
+O Tribunal de origem decidiu que, "no caso dos autos, a parte autora não faz jus a incorporação da Gratificação de Desempenhos asseguradas pela lei, haja vista ter se aposentado voluntariamente antes da Lei no 13.324/2016 e da Lei no 13.326/2016, ou seja, antes de completar os requisitos previstos nas referidas normas para a incorporação da respectiva gratificação, dentre eles, a percepção de, no mínimo, 60 (sessenta) meses da Gratificação de Desempenho" (fl. 167).
+A peça recursal, todavia, não se insurge contra esse fundamento. Limita-se a parte a afirmar que a modificação normativa operada pela Lei 13.324/2016, ao garantir que todos os servidores ativos recebam a gratificação no valor correspondente ao mínimo de 70 (setenta) pontos, impôs à parcela em comento natureza genérica, invariável e impessoal, de modo que, segundo entende, esse patamar de 70 (setenta) pontos deve ser assegurado aos aposentados e pensionistas com direito à paridade remuneratória.
+Inafastável, assim, a incidência, por analogia, da Súmula 283/STF, que estabelece: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Em seu agravo interno, a parte recorrente limita-se a afirmar que: "Para os aposentados pensionistas mais antigos, também titulares de paridade remuneratória, mas que não receberam a gratificação por 5 (cinco) anos - o Instituto Nacional do Seguro Social - INSS insiste no pagamento de apenas 50 (cinqüenta) pontos. Desconsidera, assim, que o artigo 11 deve prevalecer sobre o artigo 16 da Lei nº 10.855/2004, inclusive por ser mais recente" (fl. 344). Deixou, assim, de combater a incidência da Súmula 283 do Supremo Tribunal Federal (STF).
+Desse modo, ausente a impugnação específica do fundamento da decisão agravada, é imperioso o não conhecimento do agravo interno, por força do óbice contido na Súmula 182 do Superior Tribunal de Justiça (STJ) e do disposto no art. 1.021, § 1º, do Código de Processo Civil (CPC). Nesse sentido, cito estes recentes julgados:
+PROCES SUAL CIVIL. ADMINISTRATIVO. EXECUÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. AGRAVO INTERNO NÃO CONHECIDO.
+1. A decisão ora recorrida deu provimento ao recurso especial da parte contrária aplicando entendimento consolidado nesta Corte Superior acerca da possibilidade de alegação, a qualquer momento, de matéria de ordem pública, neste caso, a impenhorabilidade de bem de família.
+2. Neste recurso, a parte agravante não rebate as razões expostas na decisão que visa a impugnar, limitando-se a afirmar a impossibilidade de conhecimento do recurso especial, não se referindo ao tema de mérito.
+3. Aplicável ao caso em questão a Súmula 182 do STJ, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+4. Agravo interno não conhecido. (AgInt no AREsp n. 1.560.781/SE, de minha relatoria, Primeira Turma, julgado em 26/6/2023, DJe de 29/6/2023.)
+ADMINISTRATIVO. AGRAVO INTERNO NA TUTELA PROVISÓRIA NO RECURSO EM MANDADO DE SEGURANÇA. ENUNCIADO ADMINISTRATIVO 3/STJ. CONCURSO PARA OFICIAL DA POLÍCIA MILITAR. EDITAL QUE ESTABELECIA LIMITE DE IDADE, NOS TERMOS DA LEI 3.363/2000. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. VIOLAÇÃO AO ART. 1021, § 1º DO CPC/2015. SÚMULA 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Na hipótese em análise, a decisão agravada deferiu o pedido de tutela provisória em razão da existência da fumaça do bom direito e do periculum in mora, eis que o recurso em mandado de segurança, ainda que em cognição sumária, merece ser conhecido haja vista que há jurisprudência do Superior Tribunal de Justiça firmada no sentido de que o prazo para impetração de mandado de segurança deve ser contado a partir da ocorrência do ato lesivo e não do advento do edital. Além disso, à época do concurso em exame, parece haver uma espécie de vazio legislativo quanto à idade máxima para ingresso na Polícia Militar, por meio de concurso público, à luz do requisito de expressa previsão legal firmado pelo Supremo Tribunal Federal ao julgar a repercussão geral no RE 678.112 (Tema 646).
+3. No presente agravo interno, por sua vez, a parte agravante limitou-se a apresentar argumentação dissociada, sem combater a os fundamentos da decisão agravada.
+4. A falta de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1021, § 1º, do CPC/2015. Incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+5. Agravo interno não conhecido. (AgInt na TP n. 3.879/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 30/5/2022, DJe de 2/6/2022.)
+Pelas considerações expostas, não conheço do agravo interno.
+É o voto.
