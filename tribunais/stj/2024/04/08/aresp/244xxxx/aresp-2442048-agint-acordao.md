@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. DÍVIDA ATIVA. EXECUÇÃO FISCAL. PENHORA. ILEGALIDADE. NULIDADE. DEPÓSITO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 284 DO STF. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de embargos à execução fiscal objetivando, em suma, o reconhecimento da ilegalidade da penhora e seus acessórios, bem como do depósito do bem. Na sentença o pedido foi julgado parcialmente procedente. No Tribunal a quo, a sentença foi reformada.
+II - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso espe cial".
+III - Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados. A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais, tidos como violados, caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+IV - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que julgou agravo em recurso especial interposto por Metalúrgica Semeato Ltda. - em recuperação judicial contra decisão que inadmitiu recurso especial com fundamento no art. 105, III, a, da Constituição Federal.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Do excerto, constata-se que o cerne das razões de decidir delineadas do acórdão reside na não indicação pelas então Apelantes de bens que pudessem ser penhorados em detrimento do estabelecimento industrial.
+Cientes disso, as Agravantes suscitaram eu seu Recurso Especial a excepcionalidade da possibilidade de penhora do imóvel industrial, conforme decidido por este Superior Tribunal de Justiça no Tema Repetitivo nº 287 (REsp 1.114.767/RS).
+Ademais, apontaram que era de conhecimento tanto da União quanto do juízo a quo a existência outros bens imóveis passíveis de penhora, pois haviam sido indicados pela própria Fazenda Nacional.
+Diante disto, conclui-se que o caso em tela não se adequa à excepcionalidade da medida imposta, pois a então Exequente tinha plena ciência de outros imóveis que poderiam ter sido penhorados.
+Por conseguinte, é evidente o diálogo direto entre as razões recursais e o acórdão proferido pelo TRF-4, na medida que tratam, ambos dos requisitos para penhorabilidade de imóvel industrial. Logo, não incide no caso a Súmula nº 284/STF.
+ ..
+Conforme apontado no tópico anterior, a tese submetida pelas Agravantes a este STJ diz respeito tão somente aos requisitos para penhorabilidade de imóvel industrial, haja vista esta Corte ter firmado entendimento no Tema Repetitivo nº 287 segundo o qual a planta industrial apenas seria penhorável na hipótese excepcional de não haver outros bens passíveis de penhora.
+Nessa toada, as então Recorrentes suscitaram tão somente um fato incontroverso nestes autos, qual seja: a União, quando requereu a penhora do imóvel industrial aqui sob debate, apontou a existência de 15 outros imóveis passíveis de penhora.
+Trata-se, portanto, de um fato inconteste, de modo que ser requer apenas a sua revaloração jurídica, sob a ótica do Tema Repetitivo nº 287/STJ.
+Logo, não há óbice ao conhecimento do recurso pela Súmula nº 07/STJ, pois não se está a demandar que esta Corte reconheça a existência de um fato controverso, mas apenas que valore este fato de acordo com sua jurisprudência.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. DÍVIDA ATIVA. EXECUÇÃO FISCAL. PENHORA. ILEGALIDADE. NULIDADE. DEPÓSITO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 284 DO STF. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de embargos à execução fiscal objetivando, em suma, o reconhecimento da ilegalidade da penhora e seus acessórios, bem como do depósito do bem. Na sentença o pedido foi julgado parcialmente procedente. No Tribunal a quo, a sentença foi reformada.
+II - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso espe cial".
+III - Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados. A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais, tidos como violados, caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A Corte a quo analisou as alegações da parte com os seguintes fundamentos:
+A apelante sustenta que o imóvel onde é a sede da empresa(matrícula n.º 1.046 - CRI de Butiá/RS) é impenhorável.
+O juízo monocrático resolveu a questão de acordo com o entendimento pacífico do Superior Tribunal de Justiça - STJ, solidificado no enunciado n.º 451 da sua súmula: "É legítima a penhora da sede do estabelecimento comercial". Vejamos, in verbis:
+ ..
+Demais disso, verifica-se que, nos autos da EF nº 5004567-09.2016.404.7104 (E13), foi a própria Apelante quem ofertou o imóvel em questão à penhora.
+Outrossim, no caso dos autos, a Apelante não indicou bens que pudessem ser penhorados em detrimento de seu estabelecimento comercial.
+Assim sendo, é legítima a penhora, como bem decidiu o juízo monocrático, haja vista que era ônus da ora Apelante comprovar a existência de outros bens aptos a sanar a dívida. Por fim, salienta-se a preponderância dos imóveis sobre os demais bens da empresa executada, em consonância com o art. 11 da LEF.
+Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais, tidos como violados, caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
