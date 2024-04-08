@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA REQUERIDA.
+1. O Superior Tribunal de Justiça, no julgamento do REsp 1850512/SP, apreciado sob a sistemática dos recursos repetitivos (Tema 1076), fixou a seguinte tese quanto à fixação de honorários advocatícios sucumbenciais: "i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo".
+2. Hipótese em que se afigura descabida a minoração dos honorários advocatícios sucumbenciais a partir do uso de equidade.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por HAPVIDA ASSISTÊNCIA MÉDICA S.A., em face da decisão de fls. 605-608, e-STJ, da lavra da Presidência desta Corte, que negou provimento ao recurso especial manejado pela ora agravante.
+O apelo nobre, de sua vez, fundamentado na alínea "a" do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de Pernambuco, assim ementado (fls. 496-502, e-STJ):
+EMENTA: PLANO DE SAÚDE. BUCOMAXILO. NEGATIVA DE COBERTURA. TRATAMENTO REQUISITADO PELO MÉDICO ASSISTENTE. PROCEDIMENTODE COBERTURA LEGAL. FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS POREQUIDADE. POSSIBILIDADE. RECURSO NÃO PROVIDO. 1. O aludido caso versa sobre a possibilidade de cobertura do plano de saúde para realização do procedimento de correção da comunicação buco sinusal apresentada após extração de dentes. 2. Conquanto houve autorização pelas partes rés para realização dos primeiros procedimentos de extração dentária, o quadro clínico foi direta e comprovadamente agravado, de modo que se fazia mister a continuidade do tratamento. Conforme laudo apresentado, indicou-se a cirurgia de correção da comunicação buco sinusal. 3. Resta patente que houve ilícito pelas demandadas quando negou seguimento ao procedimento indicado. 4. Resultando em valor irrisório o proveito econômico obtido pela parte, a fixação dos honorários sucumbenciais rege-se pelo critério de equidade, conforme parâmetros do artigo 85, § 2º, do Código de Processo Civil.
+Nas razões do recurso especial (fls. 511-521, e-STJ), a recorrente, além de dissídio jurisprudencial, aponta violação seguintes artigos:
+(i) 85, §§ 2º e 8º, do CPC/2015, ao argumento de que os honorários deveriam ser fixados com base em juízo de equidade;
+Sem contrarrazões (fls. 549-550, e-STJ).
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, o que deu ensejo a agravo.
+Às fls. 605-608, e-STJ, negou-se provimento ao reclamo, com amparo na Súmula 7/STJ.
+Irresignada, a sucumbente maneja o presente agravo interno (fls. 612-618, e-STJ), no qual sustentam, em suma, a inaplicabilidade dos supracitados óbices.
+Impugnação às fls. 872-886, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA REQUERIDA.
+1. O Superior Tribunal de Justiça, no julgamento do REsp 1850512/SP, apreciado sob a sistemática dos recursos repetitivos (Tema 1076), fixou a seguinte tese quanto à fixação de honorários advocatícios sucumbenciais: "i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo".
+2. Hipótese em que se afigura descabida a minoração dos honorários advocatícios sucumbenciais a partir do uso de equidade.
+3. Agravo interno desprovido.
+VOTO
+O agravo interno não merece acolhida, na medida em que os argumentos apresentados pela parte não infirmam a decisão atacada.
+1. O Superior Tribunal de Justiça, no julgamento do REsp 1850512/SP, apreciados sob a sistemática dos recursos repetitivos (Tema 1076), fixou a seguinte tese quanto à fixação de honorários advocatícios sucumbenciais: "i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo".
+No caso em tela, verifica-se que a Corte local, após reputar que o proveito econômico e a condenação seriam irrisórios, valeu-se do parâmetro do valor da causa na fixação da verba honorária. Veja-se (fl. 499, e-STJ):
+A sentença de primeiro grau atribuiu as sucumbências com base no valor da causa que foi de R$ 50.182,28 (cinquenta mil, cento e oitenta e dois reais e vinte e oito centavos), correspondente a soma do valor de indenização por danos morais mais danos materiais. A despeito de ter negado responsabilização por danos morais, a magistrada manteve o valor da causa como parâmetro para as verbas sucumbenciais.
+Dessa forma, restou condenada às partes o pagamento de honorários no valor de R$ 5.018,22 (10% do valor da causa), por entender irrisório o valor da condenação. Afixação de honorários por equidade é uma possibilidade subjetiva atribuída ao juiz, de modo que não se afigura qualquer ilícito no valor estimado.
+Em que pese a Corte local faça referência ao uso da equidade em tal fixação, nota-se que, efetivamente, o juízo de primeiro grau valeu-se da ordem de preferência de parâmetros dispostos no art. 85, § 2º, do CPC/2015, na medida em que se utilizou do valor da causa para o arbitramento, por considerar que o montante do proveito econômico ou da condenação conduziriam a honorários irrisórios.
+Descabido, portanto, o pleito de redução dos aludidos honorários, a partir do emprego do disposto no art. 85, § 8º, do CPC/2015, como pretende a insurgente.
+Nesse contexto, tem-se que o acórdão recorrido alinha-se a jurisprudência do STJ, motivo pelo qual deve ser mantido.
+2. Do exposto, nego provimento ao agravo interno.
+É como voto.
