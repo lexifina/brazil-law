@@ -1,0 +1,25 @@
+DECISÃO
+Em análise, agravo em recurso especial (fls. 448-461) interposto pelo Município de Resende em face da decisão, prolatada pelo Terceiro Vice-Presidente do Tribunal de Justiça do Estado do Rio de Janeiro, que inadmitiu seu recurso especial, por incidir na espécie o óbice da Súmula 7 do STJ.
+O acórdão recorrido, lavrado pela Segunda Câmara de Direito Público, afastou a tese da coisa julgada, por entender que a gratidão debatida não possui a natureza de verba transitória, mas tem caráter permanente e que os efeitos da inconstitucionalidade da Lei 2.347/02 não atinge os pedidos deduzidos na inicial dessa ação.
+O agravante argumenta que o acórdão negou vigência ao art. 520 do CPC, no que tange ao reconhecimento da coisa julgada e que "no recurso especial não se pretende análise de quaisquer provas, tão somente interpretação dos dispositivos legais que dão sentido jurídico adequado à celeuma". Sustenta inaplicável o óbice da Súmula 7 ao caso, uma vez que "há necessidade de análise apenas sobre o v. Acórdão e o dispositivo legal prequestionado, sendo suficiente a ventilação sobre a matéria de mérito já indicada no v. Acórdão".
+Requer, ainda, a "análise do pedido de efeito suspensivo ao recurso, pelos fundamentos já exarados às fls. 345-354".
+Foi apresentada contraminuta (fls. 491-497).
+É o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do Recurso Especial, que, de fato, não comporta conhecimento.
+O Recurso Especial foi fundamentado no art. 105, III, a, da Constituição Federal. O Tribunal de origem, ao monocraticamente inadmiti-lo, assentou o seguinte (fls. 418-422):
+O exame das razões recursais revela que o recorrente, ao alegar violação à coisa julgada pretende, por via transversa, a revisão de matéria de fato, apreciada e julgada com base nas provas produzidas nos autos, que não perfaz questão de direito, mas, tão somente, reanálise fático-probatória, inadequada para a interposição de recurso especial.
+(..)
+Pelo que se depreende da leitura do acórdão recorrido, verifica-se que eventual modificação da conclusão do Colegiado passaria pela seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, de modo que não merece trânsito o recurso especial, em face do óbice do Enunciado nº 7 da Súmula do Superior Tribunal de Justiça, já acima transcrito.
+De fato, embora o agravante argumente ser desnecessária a reanálise do conjunto fático-probatório dos autos, expressamente reconhece, em suas razões, que o "o acórdão vergastado revela incorreção quando laborou na subsunção dos fatos à norma aplicada concernente a coisa julgada", isto é, o enfrentamento da sua alegação de violação ao art. 520 do CPC demanda necessária subsunção dos fatos à norma invocada.
+Nesse sentido, mesmo que se considerando haver premissas fáticas incontroversas, a verificação acerca da (in)ocorrência da coisa julgada implica análise dos autos quanto às questões tratadas em ambas as ações, atraindo o óbice da Súmula 7 do STJ. É como se tem decidido nesta Turma:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.
+COISA JULGADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PRESCRIÇÃO. TEMA 880/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Quanto à alegada ofensa ao art. 1.022 do CPC/2015, depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou da questão suscitada, portanto, de modo integral a controvérsia posta.
+2. Não cabe rediscutir as nuances que envolvem dilação probatória fundamentadas no contexto fático dos autos. Neste quadro, é inviável analisar a tese defendida no Recurso Especial, a qual busca afastar as premissas fáticas estabelecidas pelo acórdão recorrido, em razão da incidência do enunciado da Súmula 7 do STJ.
+3. A Primeira Seção acolheu parcialmente os embargos de declaração dos autores, com efeitos modificativos, a fim de modular a referida questão nos seguintes termos: "para as decisões transitadas em julgado até 17/3/2016 (quando ainda em vigor o CPC/1973) e que estejam dependendo, para ingressar com o pedido de cumprimento de sentença, do fornecimento pelo executado de documentos ou fichas financeiras (tenha tal providência sido deferida, ou não, pelo juiz ou esteja, ou não, completa a documentação), o prazo prescricional de 5 anos para propositura da execução ou cumprimento de sentença conta-se a partir de 30/6/2017" (EDcl no REsp 1.336.026/PE, Rel. Ministro Og Fernandes, Primeira Seção, DJe 22/6/2018).
+4. Agravo interno não provido.
+Isso posto, conheço do agravo para não conhecer do Recurso Especial.
+Fica prejudicada a análise do pedido de antecipação de tutela recursal.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
