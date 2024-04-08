@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. TRIBUNAL DE ORIGEM QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA AUSÊNCIA DE RESPONSABILIDADE CIVIL DA MUNICIPALIDADE POR INEXISTÊNCIA DE ATO ILÍCITO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1.  Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7/STJ.
+2.  Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  por RODOLFO GALVANI JÚNIOR contra  a  decisão  que  conheceu  do  agravo  em  recurso  especial  para não conhecer do recurso especial, pela aplicação da Súmula 7/STJ.
+Argumenta  a  parte agravante,  em  síntese,  que "não se busca um reexame das provas, mas sim, uma nova valoração das provas já especificadas e delineadas na decisão recorrida, cuja qual assentou o V. Acórdão objurgado". Defende, ainda, que "a incorreção caracterizadora da contrariedade à legislação federal e legitimadora da reforma do acórdão vergastado reside no fato de ter havido o reconhecimento, pelo Tribunal a quo, da prática de um conjunto de condutas pelo município agravado, denominado tumultuado e disfuncional e, ainda assim, não o considerar para fins de caracterização do ato ilícito" (e-STJ, fl. 3.010).
+Por fim, a parte pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. TRIBUNAL DE ORIGEM QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA AUSÊNCIA DE RESPONSABILIDADE CIVIL DA MUNICIPALIDADE POR INEXISTÊNCIA DE ATO ILÍCITO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1.  Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7/STJ.
+2.  Agravo  interno  não  provido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA  (Relator):  Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Em relação à responsabilização civil do município, o aresto de origem consignou o seguinte:
+A controvérsia gira em torno da suposta responsabilidade municipal pela indenização de investimentos em limpeza e preparo de canteiro de obras, bem como início de obras de fundação (fls. 2.688), iniciadas em abril de 2016, enquanto vigente alvará de execução da edificação.
+Como consta dos autos, embora tenha a Municipalidade conferido ao requente alvará de edificação em 2010, e renovado o mesmo pela expedição do Alvará de Execução nº 592/12 em 27/04/2012, em 20 de dezembro de 2013, o Município constatou irregularidades na concessão do alvará, tornando-o nulo, por infringência a disposições da Lei Federal nº6.766/79, quanto à transformação de gleba em lotes.
+Assim, o Autor, já em dezembro de 2013 teria tido inequívoca ciência da ilegalidade de seu alvará de execução, sendo de sua inteira responsabilidade e correndo por sua conta e risco obras iniciadas em 2016, quando ele já sabia ser temerário dar início às parciais fundações, por inviabilidade da conversão da área da gleba em lotes.
+A anulação do referido alvará de execução decorreu do poder de autotutela conferido à Administração Pública, que, nos termos da Súmula 473 do STF, "pode anular seus próprios atos, quando eivados de vício que os tornem ilegais, porque deles não se originam direitos, ou revogá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos, e ressalvada, em todos os casos, a apreciação judicial". Portanto, em caso de equívoco ou ilegalidade, o ente público está adstrito ao dever legal de rever ex officio seus atos. Portanto, não há que se falar na prática de ato ilícito a gerar responsabilização do ente público por ter anulado alvará de execução por irregularidades em sua concessão.
+Ao contrário, a Administração agiu no estrito cumprimento da lei ao regularizar o uso, parcelamento e ocupação do solo. Além disso, na altura do ato anulatório, não havia qualquer comprovação de qualquer dano sofrido pelo autor, pois as obras iniciais da etapa preliminar de fundações, apenas se teriam iniciado em abril de 2016, segundo consta dos autos.
+O Município tem o dever, e não somente a faculdade, de regularizar o uso, o parcelamento e a ocupação do solo, assegurando o respeito aos padrões urbanísticos e o bem-estar da população, interesse público primário e fim precípuo da atuação administrativa. Portanto, no exercício de autotutela, a municipalidade pode obstar a implantação de loteamentos irregulares, não previstos.
+Não age ilicitamente a Administração quando lança mão do poder de autotutela, que lhe confere a prerrogativa de rever seus próprios atos, em observância ao princípio da legalidade.
+ ..
+Reitere-se que o Município requerido nada mais fez do que agir no seu poder dever de fiscalizar e obstar a constituição de lotes irregulares, não tendo cometido qualquer ilícito civil que pudesse ensejar sua responsabilidade civil, por supostos investimentos em obras sabidamente irregulares. Se o Autor, em 2016, iniciou a limpeza do canteiro e as primeiras fundações, o fez assumindo os riscos do negócio, pois tinha conhecimento das irregularidades do primeiro alvará concedido e sua renovação, ante a declaração de nulidade publicada em dezembro de 2013 (fls. 2.935-2.937).
+A alteração da conclusão do Tribunal a quo, acerca da ausência de responsabilidade civil do município por inexistência de ato ilícito na revogação do alvará de construção, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7/STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Isso posto, nego provimento ao recurso.
