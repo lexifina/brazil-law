@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. IRREDUTIBILIDADE DE VENCIMENTOS. ALEGADA VIOLAÇÃO AO ART. 373, II, DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. PROVIMENTO NEGADO.
+1. O dispositivo de lei tido por violado (art. 373, II, do Código de Processo Civil) não foi apreciado pelo Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida.
+2. A ausência de enfrentamento pelo Tribunal de origem da matéria impugnada no recurso impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+3. Para que se configure o prequestionamento implícito não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não ao caso concreto.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por WALDETE CANDIDA DA SILVA contra a decisão da Presidência do Superior Tribunal de Justiça que conheceu do agravo para não conhecer do recurso especial (fls. 771/774).
+Em suas razões recursais, a parte agravante alega (fls. 780/781):
+ ..  o acórdão proferido pela Quarta Turma Julgadora da Sexta Câmara Cível do Egrégio Tribunal de Justiça de Goiás proferiu entendimento diametralmente diverso do consolidado, vez que presumiu que a s  Leis Municipais nº 2.523 de 15.06.2004, 2.553 de 12.05.2005, 2.584 de 09.12.2005, 2.591de 09.12.2005, 2.632 de 09.11.2006 e 2.642 de 14.12.2006 reestruturaram o vencimento da servidora pública, ao mesmo tempo, faz confusão entre os institutos da reestruturação e reajuste/recomposição salarial. Destaca-se, que cópia da referida lei sequer fora anexada aos autos; igualmente não foi citado os artigos de lei que reestruturavam a remuneração do servidor, ou seja, existente tão somente a vaga e genérica alegação do poder modificador da referida legislação estadual, no que tange os soldos de salário do servidor estadual.
+Defende, em síntese, a ocorrência de prequestionamento implícito, pois, não obstante a ausência de manifestação expressa por parte do Tribunal de origem sobre o dispositivo de lei tido por violado, a questão foi devidamente enfrentada no acórdão recorrido.
+Requer a reconsideração da decisão agravada ou a apresentação do feito ao órgão colegiado competente.
+Não foi apresentada impugnação segundo a certidão de fl. 789.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. IRREDUTIBILIDADE DE VENCIMENTOS. ALEGADA VIOLAÇÃO AO ART. 373, II, DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. PROVIMENTO NEGADO.
+1. O dispositivo de lei tido por violado (art. 373, II, do Código de Processo Civil) não foi apreciado pelo Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida.
+2. A ausência de enfrentamento pelo Tribunal de origem da matéria impugnada no recurso impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+3. Para que se configure o prequestionamento implícito não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não ao caso concreto.
+4. Agravo interno a que se nega provimento.
+VOTO
+A despeito das alegações da parte agravante, razão não lhe assiste.
+Na hipótese dos autos, a parte agravante alega que o fato extintivo do seu direito não foi devidamente comprovado no processo, bastando a mera alegação da parte adversa para o julgamento do mérito pelo Tribunal de origem, o que caracterizou afronta ao previsto no inciso II do art. 373 do Código de Processo Civil.
+Todavia, da análise pormenorizada do acórdão recorrido, constato que o tema não foi abordado e nem debatido pelo Tribunal de origem, que se limitou a analisar a prescrição da pretensão da parte autora tendo em vista o decurso de quase 12 anos entre a proposição da ação de cobrança e a edição da lei que dispunha sobre o regime de subsídio dos servidores públicos municipais.
+Verifico, portanto, que o dispositivo tido por violado não foi apreciado pelo Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida.
+A ausência de enfrentamento pelo Tribunal de origem da matéria impugnada no recurso impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incide no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Destaco que, para que se configure o prequestionamento implícito, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal apontado e a tese recursal a ele vinculada, sendo indispensável a interpretação acerca de sua incidência ou não ao caso concreto.
+Nesse contexto, por simples cotejo das razões recursais com os fundamentos do acórdão, percebo que a tese recursal vinculada ao dispositivo tido por violado não foi examinada pela Corte a quo, nem mesmo implicitamente.
+A propósito:
+ADMINISTRATIVO. CONSUMIDOR. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO ART. 2º DA LEI N. 9.427/1996. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. PREQUESTIONAMENTO IMPLÍCITO NÃO CARACTERIZADO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. PEDIDO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO. PREJUDICIALIDADE. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 282 do Supremo Tribunal Federal.
+III - Para a configuração do prequestionamento não basta que a parte indique os dispositivos tidos por violados e fundamente a insurgência, sendo indispensável que o tribunal a quo se manifeste expressamente sobre a tese defendida no recurso especial, ainda que se trate de questão de ordem pública.
+IV - O prequestionamento implícito caracteriza-se pela manifestação expressa do tribunal de origem sobre a tese trazida no recurso especial, a despeito da não indicação explícita dos dispositivos legais em que se fundou a decisão recorrida. Hipótese ausente no caso em análise.
+V - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VI - Consoante a orientação desta Corte, ocorre a carência superveniente de interesse processual, do pedido de atribuição de efeito suspensivo, quando julgado o recurso no qual aquele foi formulado.
+VII - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VIII - Agravo Interno improvido e prejudicado o pedido de efeito suspensivo.
+(AgInt no AREsp n. 2.082.856/GO, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 3/10/2022, DJe de 5/10/2022.)
+Pelas considerações expostas, n ego provimento ao agravo interno.
+É como voto.
