@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto contra acórdão assim ementado (fls. 199-200):
+HABEAS CORPUS. EXECUÇÃO PENAL. INSURGÊNCIA EM RELAÇÃO À DECISÃO QUE DETERMINOU A MANUTENÇÃO DO PACIENTE EM SISTEMA PENITENCIÁRIO FEDERAL. HC IMPETRADO POSTERIORMENTE À INTERPOSIÇÃO DE AGRAVO EM EXECUÇÃO, JÁ JULGADO, COM O MESMO OBJETO. NÃO CONHECIMENTO DO WRIT.
+Em que pese o inconformismo dos nobres impetrantes, a hipótese é de não conhecimento do writ.
+Como ação de natureza constitucional, destinada a coibir qualquer ilegalidade ou abuso de poder contra a liberdade de locomoção, o habeas corpus não se mostra como a via própria para o exame da matéria impugnada.
+Com efeito, as questões suscitadas no presente writ devem ser impugnadas mediante Agravo, nos termos do disposto no artigo 197 da Lei de Execuções Penais.
+Precedentes jurisprudenciais.
+Na hipótese vertente, o decisum atacado pelos impetrantes, proferida em 12/11/2021, já foi objeto de impugnação por meio de Agravo em Execução, nos autos do processo nº 5002414-64.2022.8.19.0500. No v. Acórdão, essa Colenda Câmara Criminal decidiu pelo desprovimento do recurso, eis que devidamente motivada e fundamentada a decisão que prorrogou o prazo de segregação do paciente no sistema penitenciário federal, restando justificada, no caso concreto, a excepcionalidade da medida.
+Destarte, considerando que a decisão vergastada já foi exaustivamente analisada em sede de cognição mais ampla e profunda proporcionada pela interposição do Agravo em Execução, resta claramente configurada a coisa julgada, no caso concreto.
+A análise das razões expendidas na exordial por meio do presente Habeas Corpus, tal qual requerida pelos impetrantes, somente se mostraria plausível na hipótese de flagrante ilegalidade, com repercussão no direito de liberdade do paciente, o que não se verifica no caso dos autos.
+Frise-se, ainda, que, recentemente, nos autos do Habeas Corpus nº 0053705-39.2022.8.19.0000, que também buscava impugnar o decisum ora atacado, este Órgão Colegiado, em sede de Agravo Regimental, se manifestou pela manutenção da decisão monocrática que não conheceu o writ.
+Com efeito, tratando-se de mera repetição de pedidos, e estando ausentes elementos novos, no presente Habeas Corpus, que apontem qualquer ilegalidade na decisão vergastada, o não conhecimento do writ é medida que se impõe.
+NÃO CONHECIMENTO DO WRIT.
+Consta dos autos que o recorrente teve sua permanência no sistema penitenciário federal prorrogado por decisão do juízo da execução criminal, mantida pela Corte de origem ao negar provimento ao agravo em execução e não conhecer de habeas corpus impetrado com o mesmo objeto.
+No presente recurso, sustenta, em síntese, que está submetido a constrangimento ilegal, seja em virtude da sua permanência por longos anos no sistema penitenciário federal, em que pese a alegada inexistência dos motivos que ensejaram sua inclusão no atual momento, seja em razão da manifesta inconstitucionalidade do art. 10, § 1º, da Lei n. 11.671/2008.
+Acrescenta que, no caso, o que deveria ser excepcional, permanência no sistema federal, transmudou-se em regra permanente, asseverando que "as sucessivas renovações do recorrente no cárcere federal sem nenhum plus de excepcionalidade, o regime penitenciário federal que primitivamente foi concebido para custodiar o preso de forma provisória e excepcional, transformou-se em regime de cumprimento de pena definitiva" (fl. 302).
+Invoca o princípio da dignidade da pessoa humana, trazendo considerações quanto ao seu estado de saúde, fragilizado pelas severas condições em que cumpre a pena há vários anos no sistema penitenciário federal, além de tecer considerações quanto à inexistência dos motivos que ensejaram a inclusão do apenado no sistema penitenciário federal, embasada unicamente em relatório da inteligência da polícia civil estadual.
+Requer, liminarmente e no mérito, que seja determinada a sua exclusão do sistema penitenciário federal, com a sua transferência para o estadual.
+No caso em apreço, verifica-se que o Tribunal de origem não conheceu das matérias que foram submetidas à sua apreciação, porque o habeas corpus não pode ser utilizado como sucedâneo recursal. Em função disso, esta Corte mostra-se obstada de conhecer o mérito da questão suscitada pela parte impetrante, sob pena de supressão de instância.
+Cumpre ressaltar, outrossim, que não se verifica negativa de prestação jurisdicional no presente caso, uma vez que a decisão que prorrogou a permanência do recorrente no sistema penitenciário foi objeto de agravo em execução, devidamente julgado pelo Tribunal de origem.
+Por fim, "não prospera o pleito de reforma da decisão atacada para que "o Órgão Fracionário desta Colenda Corte Superior possa analisar a arguição de inconstitucionalidade da norma que instituiu a autoridade coatora originária", por se tratar de pretensão descabida na ação constitucional do habeas corpus" (AgRg no AgRg no HC n. 701.437/AL, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023).
+Ante o exposto, não conheço o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
