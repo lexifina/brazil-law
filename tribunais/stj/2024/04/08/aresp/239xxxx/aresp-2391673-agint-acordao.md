@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO DE REENQUADRAMENTO DE SERVIDOR INATIVO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA ENUNCIADO N. 7 DA SÚMULA DO STJ. INCIDÊNCIA ENUNCIADO N. 280 DA SÚMULA DO STF. AUSÊNCIA DE PREQUESTIONAMENTO.
+I - Na origem, trata-se de ação de reenquadramento de servidor inativo. Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi mantida.
+II - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+IV - Ademais, verifica-se que o Tribunal de origem, ao julgar o recurso de apelação, solucionou a questão com base em legislação local. Assim, o exame da matéria demanda análise de direito local, razão por que incide, por analogia, a Súmula 280 do STF: "Por ofensa a direito local não cabe recurso extraordinário."
+V - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, visando reformar acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim resumido:
+DIREITO PROCESSUAL CIVIL JUÍZO DE RETRATAÇÃO SERVIDORES PÚBLICOS INATIVOS  INDENIZAÇÃO POR INÉRCIA LEGISLATIVA QUANTO À REVISÃO GERAL ANUAL DE VENCIMENTOS  INADMISSIBILIDADE  ENTENDIMENTO SUFRAGADO PELO E SUPREMO TRIBUNAL FEDERAL NO RECURSO EXTRAORDINÁRIO N 565089SP (TEMA N 19)  ADEQUAÇÃO NO TÓPICO DO JULGAMENTO JUÍZO DE RETRATAÇÃO EXERCIDO PARA REFORMAR A DECISÃO COLEGIADA. " O não encaminhamento de projeto de lei de revisão anual dos vencimentos dos servidores públicos, previsto no inciso X do art. 37 da CF/1988, não gera direito subjetivo a indenização. Deve o Poder Executivo, no entanto, pronunciar-se de forma (Tese firmada no fundamentada acerca das razões pelas quais não propôs a revisão ""RE 565.089/SP, Relator MARCO AURÉLIO, Relator p/ Acórdão ROBERTOBARROSO, Tribunal Pleno, J. 25/09/2019, REPERCUSSÃO GERAL - MÉRITO, DJe27/04/2020).
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+A r. decisão singular ora agravada necessita de revisão, vez que não considerou que a única matéria alvo do recurso especial é a violação ao artigo 1026,§2º, do CPC, devido à aplicada indevida de multa ali capitulada, e ao artigo 1022, devido à não supressão da omissão apontada.
+O douto Ministro Relator fala que o TJPR analisou fatos e provas; cita artigos que sequer são impugnados no REsp (art. 487, III, do CPC; 193 do CC); fala em falta de prequestionamento; e diz que a solução foi dada com base na lei local.
+Todos os argumentos não se sustentam pois desconsideram o que foi postulado no REsp e também destacado no AREsp. Vale dizer, que é cabível o recurso para afastar a multa indevida aplicada e para reconhecer a ausência de saneamento da omissão declinada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO DE REENQUADRAMENTO DE SERVIDOR INATIVO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA ENUNCIADO N. 7 DA SÚMULA DO STJ. INCIDÊNCIA ENUNCIADO N. 280 DA SÚMULA DO STF. AUSÊNCIA DE PREQUESTIONAMENTO.
+I - Na origem, trata-se de ação de reenquadramento de servidor inativo. Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi mantida.
+II - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+IV - Ademais, verifica-se que o Tribunal de origem, ao julgar o recurso de apelação, solucionou a questão com base em legislação local. Assim, o exame da matéria demanda análise de direito local, razão por que incide, por analogia, a Súmula 280 do STF: "Por ofensa a direito local não cabe recurso extraordinário."
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+(..)
+revela-se imprescindível a realização do juízo de retratação, a fim de, em conformidade com o decisum paradigma, afastar o direito dos Autores à aludida indenização por perdas e danos - ante, repita-se, a inércia legislativa quanto à revisão geral anual de vencimento dos servidores públicos.
+Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Ademais, verifica-se que o Tribunal de origem, ao julgar o recurso de apelação, solucionou a questão com base em legislação local. Assim, o exame da matéria demanda análise de direito local, razão por que incide, por analogia, a Súmula 280 do STF: "Por ofensa a direito local não cabe recurso extraordinário".
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
