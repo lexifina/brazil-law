@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL E CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXPURGOS INFLACIONÁRIOS. CUMPRIMENTO DE SENTENÇA. 1. VIOLAÇÃO DOS ARTS. 489 e 1.022 DO CPC. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. 2. COMPETÊNCIA TERRITORIAL. QUESTÃO DECIDIDA ANTERIORMENTE. FUNDAMENTO NÃO ATACADO. INCIDÊNCIA DA SÚMULA Nº 283 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em omissão, falta de fundamentação e/ou negativa de prestação jurisdicional, na medida em que o Tribunal estadual dirimiu, fundamentadamente, a questão que lhe foi submetida, apreciando a controvérsia posta nos autos.
+2. Tendo em vista que o banco não impugnou especificamente o argumento de que a Quinta Câmara Cível do TJ/MA já tinha se manifestado anteriormente sobre a possibilidade de o beneficiário escolher o foro para execução de título executivo exarado de ação coletiva, incide a Súmula nº 283 do STF.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por BANCO DO BRASIL S.A. (BANCO DO BRASIL) contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL E CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. EXPURGOS INFLACIONÁRIOS. CUMPRIMENTO DE SENTENÇA. 1. VIOLAÇÃO DOS ARTS. 489 e 1.022 DO CPC. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. 2. COMPETÊNCIA TERRITORIAL. QUESTÃO DECIDIDA ANTERIORMENTE. FUNDAMENTO NÃO ATACADO. INCIDÊNCIA DA SÚMULA Nº 283 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, NÃO PROVIDO. (e-STJ, fls. 832/836).
+Nas razões do presente inconformismo, defendeu que (1) houve omissão e negativa de prestação jurisdicional; (2) não incide no caso os óbices da Súmula nº 283 do STF; (3) os beneficiários da sentença coletiva não possuem domicílio no Estado do Maranhão e nem o INCPP tem filial em São Mateus, não sendo possível a escolha aleatória do foro para a propositura do cumprimento de sentença; (4) a tese de incompetência territorial é matéria de ordem pública e pode ser alegada a qualquer tempo; (5) o juízo competente deve ser o foro de Brasília ou o domicílio dos beneficiários da sentença coletiva, mas não o foro do substituto processual; (6) o interessado não poderá escolher livremente em qual Estado irá propor a demanda, sob pena de ofensa ao princípio do juiz natural.
+Foi apresentada contraminuta (e-STJ, fls. 871/876).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXPURGOS INFLACIONÁRIOS. CUMPRIMENTO DE SENTENÇA. 1. VIOLAÇÃO DOS ARTS. 489 e 1.022 DO CPC. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. 2. COMPETÊNCIA TERRITORIAL. QUESTÃO DECIDIDA ANTERIORMENTE. FUNDAMENTO NÃO ATACADO. INCIDÊNCIA DA SÚMULA Nº 283 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em omissão, falta de fundamentação e/ou negativa de prestação jurisdicional, na medida em que o Tribunal estadual dirimiu, fundamentadamente, a questão que lhe foi submetida, apreciando a controvérsia posta nos autos.
+2. Tendo em vista que o banco não impugnou especificamente o argumento de que a Quinta Câmara Cível do TJ/MA já tinha se manifestado anteriormente sobre a possibilidade de o beneficiário escolher o foro para execução de título executivo exarado de ação coletiva, incide a Súmula nº 283 do STF.
+3. Agravo interno não provido.
+VOTO
+(1) Da omissão e da negativa de prestação jurisdicional
+Nas razões do seu recurso, BANCO DO BRASIL alegou a violação dos arts. 489 e 1.022 do CPC, em virtude da ausência de manifestação sobre o argumento de que não há beneficiários domiciliados no estado do Estado do Maranhão e nem filial do INCPP em São Mateus.
+Contudo, verifica-se que o TJMA se pronunciou sobre os temas consignando expressamente no julgamento dos embargos de declaração o seguinte:
+Sobre a alegada adequação fática arguida pelo Embargante, observo que não houve omissões ou quaisquer vícios no acórdão embargado, mas ao contrário, restou suficientemente claro que o INCPP possui sede no local onde fora proposta a ação de execução, à luz do entendimento do Superior Tribunal de Justiça (e-STJ, fls. 570/571).
+Assim, inexistem os vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se novo precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. OMISSÃO. OFENSA AOS ARTS. 489 E 1.022 DO CPC. NÃO VERIFICAÇÃO. INDENIZAÇÃO. DANOS MORAIS. ROMPIMENTO DE CABO DE ENERGIA. NECESSIDADE DE VERIFICAÇÃO DAS PROVAS DOS AUTOS. QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 489 e 1.022 do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+3. A revisão pelo STJ da indenização arbitrada a título de danos morais e de danos estéticos exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso especial.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.261.529/RJ, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 24/4/2023, DJe de 26/4/2023 - sem destaque no original)
+Afasta-se, portanto, a alegada violação.
+(2) Da competência territorial
+BANCO DO BRASIL afirmou que os beneficiários da sentença coletiva não possuem domicílio no Estado do Maranhão e nem o INCPP tem filial em São Mateus, não sendo possível a escolha aleatória do foro para a propositura do cumprimento de sentença.
+O Tribunal de Justiça do Maranhão acolheu os embargos de declaração opostos pelo INSTITUTO NACIONAL DOS INVESTIDORES EM CADERNETA DE POUPANÇA E PREVIDÊNCIA (INCPP) para declarar competente o foro de São Mateus para o processamento do cumprimento de sentença, nos seguintes termos:
+Assim sendo, analisando detidamente o acórdão embargado, constatei que esta Colenda Quinta Câmara Cível já havia se manifestado anteriormente sobre a questão no sentido de reconhecer possível a escolha pelo beneficiário para a execução de título executivo decorrente de Ação Coletiva nos termos do entendimento exarado no REsp 1392245/DF, conforme de depreende do Agravo de Instrumento nº. 0806083-19.2018.8.10.0000 (e-STJ, fl. 525).
+Tendo em vista que o BANCO DO BRASIL não impugnou especificamente o argumento de que a Quinta Câmara Cível do TJ/MA já tinha se manifestado anteriormente sobre a possibilidade de o beneficiário escolher o foro para execução de título executivo exarado de ação coletiva, incide a Súmula nº 283 do STF, que dispõe o seguinte: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Nesse sentido, o precedente abaixo ilustra o tópico:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INEXISTÊNCIA. RESPONSABILIDADE CIVIL. MATÉRIA JORNALÍSTICA. VIOLAÇÃO A DIREITO DA PERSONALIDADE. LEGITIMIDADE ATIVA. TEORIA DA ASSERÇÃO. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. ATO ILÍCITO. DANO MORAL. REVISÃO. SÚMULA 7/STJ. VALOR DA CONDENAÇÃO. REEXAME. EXORBITÂNCIA NÃO CONSTATADA. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Segundo orientação jurisprudencial vigente no Superior Tribunal de Justiça, não há falar em omissão, contradição, obscuridade ou erro material, nem em deficiência na fundamentação quando a decisão recorrida está adequadamente motivada com base na aplicação do direito considerado cabível ao caso concreto.
+2. Nos termos da orientação jurisprudencial do Superior Tribunal de Justiça, "a falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso. Inteligência da Súmula nº 283 do STF, aplicável, por analogia, ao recurso especial" (AgInt no AREsp 1.940.620/PR, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 29/11/2021, DJe 01/12/2021).
+3. Para desconstituir o entendimento contido no aresto recorrido, concluindo pela inexistência de violação a direito da personalidade apta a ensejar a reparação moral, seria indispensável a incursão na seara fático-probatória dos autos, procedimento que se encontra obstado pelo verbete sumular n. 7 desta Corte.
+4. A revisão da conclusão do colegiado originário, a fim de acolher a pretensão recursal, referente ao afastamento da indenização por danos morais e ao valor arbitrado para a indenização, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+5. Agravo interno improvido.
+(AgInt no AREsp n. 1.955.096/PR, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 14/2/2022, DJe de 21/2/2022 - sem destaque no original )
+Assim, como a tese adotada pelo Tribunal estadual, de que já havia se manifestado anteriormente sobre a possibilidade de escolha do foro pelo beneficiário do título é apta para, por si só, manter o acórdão, não há como conhecer da referida irresignação.
+Desse modo, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
