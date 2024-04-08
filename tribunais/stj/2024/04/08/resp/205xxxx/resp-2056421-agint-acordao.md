@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  PLANO  DE  SAÚDE.  NEGATIVA  DE  COBERTURA.  MEDICAMENTO  ANTINEOPLÁSICO.  TRATAMENTO  DE  CÂNCER.  RECUSA  ABUSIVA.  ROL  DA  ANS.  NATUREZA.  IRRELEVÂNCIA.  CUSTEIO.  OPERADORA.
+1.  É  lícita  a  exclusão,  na  Saúde  Suplementar,  do  fornecimento  de  medicamentos  para  tratamento  domiciliar,  isto  é,  aqueles  prescritos  pelo  médico  assistente  para  administração  em  ambiente  externo  ao  de  unidade  de  saúde,  salvo  os  antineoplásicos  orais  (e  correlacionados),  a  medicação  assistida  (home  care)  e  os  incluídos  no  Rol  da  ANS  para  esse  fim.
+2.  É  obrigatório  o  custeio  pelo  plano  de  saúde  de  medicamento  antineoplásico  para  tratamento  de  câncer,  sendo  irrelevante  o  questionamento  acerca  da  natureza  taxativa  ou  exemplificativa  do  Rol  da  ANS.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  FUNDAÇÃO  LIBERTAS  DE  SEGURIDADE  SOCIAL  contra  a  decisão  que  negou  provimento  ao  recurso  especial  ( fls.  579/583  e-STJ ).
+Naquela  oportunidade,  conclui-se  pela  obrigatoriedade  do  fornecimento  do  medicamento  antineoplásico  oral  pelo  plano  de  saúde.
+Nas  presentes razões ,  a  agravante  sustenta  que  "a  negativa  dos  medicamentos  se  deu  em  razão  de  cobertura  contratual  e  da  legislação  em  vigor,  seja  pela  própria  Lei  nº  9656/98,  seja  pelos  seus  normativos  frequentemente  atualizados"  (fl.  589  e-STJ).
+Acrescenta  que  a decisão  merece  reforma  quanto  à  configuração  dos  danos  morais.
+Ao  final,  requer  o  provimento  do  recurso.
+Impugnação  às  fls.  607/616  (e-STJ ).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  PLANO  DE  SAÚDE.  NEGATIVA  DE  COBERTURA.  MEDICAMENTO  ANTINEOPLÁSICO.  TRATAMENTO  DE  CÂNCER.  RECUSA  ABUSIVA.  ROL  DA  ANS.  NATUREZA.  IRRELEVÂNCIA.  CUSTEIO.  OPERADORA.
+1.  É  lícita  a  exclusão,  na  Saúde  Suplementar,  do  fornecimento  de  medicamentos  para  tratamento  domiciliar,  isto  é,  aqueles  prescritos  pelo  médico  assistente  para  administração  em  ambiente  externo  ao  de  unidade  de  saúde,  salvo  os  antineoplásicos  orais  (e  correlacionados),  a  medicação  assistida  (home  care)  e  os  incluídos  no  Rol  da  ANS  para  esse  fim.
+2.  É  obrigatório  o  custeio  pelo  plano  de  saúde  de  medicamento  antineoplásico  para  tratamento  de  câncer,  sendo  irrelevante  o  questionamento  acerca  da  natureza  taxativa  ou  exemplificativa  do  Rol  da  ANS.
+3.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+A  jurisprudência  dominante  e  mais  recente  do  Superior  Tribunal  de  Justiça  é  no  sentido  de  que  a  natureza  taxativa  ou  exemplificativa  do  Rol  da  ANS  não  tem  relevância  quando  se  tratar  da  análise  do  dever  de  cobertura  de  medicamentos  para  o  tratamento  de  câncer,  em  relação  aos  quais  há  apenas  uma  diretriz  na  resolução  normativa:
+"AGRAVO  INTERNO  NOS  EMBARGOS  DE  DIVERGÊNCIA  NO  RECURSO  ESPECIAL.  AÇÃO  DE  OBRIGAÇÃO  DE  FAZER.  PLANO  DE  SAÚDE.  MEDICAMENTO  PRESCRITO  PARA  TRATAMENTO  DE  CÂNCER  NÃO  LISTADO  NO  ROL  DA  ANS.  NEGATIVA  DE  COBERTURA.  ABUSIVIDADE.  HARMONIA  ENTRE  O  ACÓRDÃO  EMBARGADO  E  A  JURISPRUDÊNCIA  ATUAL  DO  STJ.  SÚMULA  Nº  168/STJ.
+1.  Ação  de  obrigação  de  fazer,  em  virtude  de  negativa  de  cobertura  de  medicamento  prescrito  para  tratamento  de  câncer.
+2.  A  natureza  taxativa  ou  exemplificativa  do  rol  da  ANS  é  desimportante  à  análise  do  dever  de  cobertura  de  medicamentos  para  o  tratamento  de  câncer,  em  relação  aos  quais  há  apenas  uma  diretriz  na  resolução  normativa.  Precedentes.
+3.  Não  cabem  embargos  de  divergência,  quando  a  jurisprudência  do  Tribunal  se  firmou  no  mesmo  sentido  do  acórdão  embargado  (Súmula  nº168/STJ).
+4.  Agravo  interno  não  provido"  (AgInt  nos  EREsp  2.001.192/SP,  Rel.  Ministra  NANCY  ANDRIGHI,  Segunda  Seção,  julgado  em  2/5/2023,  DJe  de  4/5/2023).
+"AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  PLANO  DE  SAÚDE.  RECUSA  DE  COBERTURA  DE  MEDICAMENTO.  PACIENTE  EM  TRATAMENTO  DE  CÂNCER.  RECUSA  ABUSIVA.  PRECEDENTES  DO  STJ.  HONORÁRIOS  ADVOCATÍCIOS  FIXADOS  ENTRE  10  E  20  POR  CENTO  DO  VALOR  DA  CAUSA.  DECISÃO  DE  ACORDO  COM  A  JURISPRUDÊNCIA  DO  STJ.  INCIDÊNCIA  DA  SÚMULA  Nº  83/STJ.  AGRAVO  DESPROVIDO.
+1.  Por  ocasião  do  julgamento  do  REsp  1.733.013/PR,  "fez-se  expressa  ressalva  de  que  a  natureza  taxativa  ou  exemplificativa  do  aludido  rol  seria  desimportante  à  análise  do  dever  de  cobertura  de  medicamentos  para  o  tratamento  de  câncer,  em  relação  aos  quais  há  apenas  uma  diretriz  na  resolução  da  ANS"  (AgInt  no  REsp  1.949.270/SP,  Rel.  Ministro  MARCO  BUZZI,  QUARTA  TURMA,  julgado  em  21/2/2022,  DJe  de  24/2/2022).
+2.  No  caso,  trata-se  de  medicamento  vinculado  a  tratamento  de  câncer,  hipótese  em  que  a  jurisprudência  é  assente  no  sentido  de  que  a  cobertura  é  obrigatória.  Nesse  sentido:  AgInt  no  REsp  1.911.407/SP,  Rel.  Ministro  PAULO  DE  TARSO  SANSEVERINO,  TERCEIRA  TURMA,  julgado  em  18/5/2021,  DJe  de  24/5/2021;  AgInt  no  AREsp  1.002.710/SP,  Rel.  Ministro  MARCO  BUZZI,  QUARTA  TURMA,  julgado  em  4/5/2020,  DJe  de  7/5/2020;  AgInt  no  AREsp  1.584.526/SP,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  julgado  em  10/3/2020,  DJe  de  17/3/2020.
+3.  A  Corte  Especial,  no  julgamento  do  Tema  Repetitivo  1.076  (Relator  Ministro  Og  Fernandes,  DJe  de  31/5/2022),  firmou  entendimento  de  que  "apenas  se  admite  arbitramento  de  honorários  por  equidade  quando,  havendo  ou  não  condenação:  (a)  o  proveito  econômico  obtido  pelo  vencedor  for  inestimável  ou  irrisório;  ou  (b)  o  valor  da  causa  for  muito  baixo",  hipóteses  que  não  se  configuram  na  espécie.
+4.  No  caso,  sendo  o  proveito  econômico  inestimável,  os  honorários  advocatícios  devem  ser  fixados  com  base  no  valor  da  causa,  afastando  a  incidência  do  art.  85,  §  8º,  do  CPC/2015.
+5.  Estando  a  decisão  de  acordo  com  a  jurisprudência  desta  Corte,  o  recurso  encontra  óbice  na  Súmula  83/STJ.
+6.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  no  REsp  2.053.152/SP,  Rel.  Ministro  RAUL  ARAÚJO,  Quarta  Turma,  julgado  em  19/6/2023,  DJe  de  23/6/2023).
+"CIVIL.  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  AÇÃO  DE  REPARAÇÃO  POR  DANOS  MATERIAIS.  CONTRATO  DE  PLANO  DE  SAÚDE.  TRATAMENTO  DE  CÂNCER.  FORNECIMENTO  DE  MEDICAMENTO  PRESCRITO  POR  MÉDICO  ASSISTENTE.  ROL  DE  PROCEDIMENTOS  DA  ANS.  DESIMPORTÂNCIA.  DECISÃO  MANTIDA.  AGRAVO  INTERNO  NÃO  PROVIDO.
+1.  Nos  termos  da  jurisprudência  deste  Corte,  a  natureza  taxativa  ou  exemplificativa  do  rol  da  ANS  é  desimportante  à  análise  do  dever  de  cobertura  de  medicamentos  para  o  tratamento  de  câncer,  em  relação  aos  quais  há  apenas  uma  diretriz  na  resolução  normativa.
+Precedentes.
+2.  Não  sendo  a  linha  argumentativa  apresentada  capaz  de  evidenciar  a  inadequação  dos  fundamentos  invocados  pela  decisão  agravada,  o  presente  agravo  não  se  revela  apto  a  alterar  o  conteúdo  do  julgado  impugnado,  devendo  ele  ser  integralmente  mantido  em  seus  próprios  termos.
+3.  Agravo  interno  não  provido"  (AgInt  no  REsp  2.057.814/SP,  Rel.  Ministro  MOURA  RIBEIRO,  Terceira  Turma,  julgado  em  29/5/2023,  DJe  de  31/5/2023).
+"AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  AÇÃO  DE  OBRIGAÇÃO  DE  FAZER.  NEGATIVA  DE  COBERTURA.  TRATAMENTO  CONTRA  O  CÂNCER.  COBERTURA  EXCEPCIONAL.  POSSIBILIDADE.  APLICAÇÃO  DE  PRECEDENTE  DA  SEGUNDA  SEÇÃO.  HONORÁRIOS  SUCUMBÊNCIAIS.  SÚMULA  Nº  7/STJ.  AGRAVO  INTERNO  DESPROVIDO.
+1.  A  jurisprudência  desta  Corte  reconhece  que  a  natureza  taxativa  ou  exemplificativa  do  rol  da  ANS  é  desimportante  quando  se  tratar  da  análise  do  dever  de  cobertura  de  medicamentos  para  o  tratamento  de  câncer,  em  relação  aos  quais  há  apenas  uma  diretriz  na  resolução  normativa.
+2.  Em  relação  à  revisão  dos  honorários  sucumbenciais,  convém  ressaltar  que,  de  acordo  com  a  orientação  deste  Tribunal  de  Uniformização,  em  virtude  do  quantitativo  da  verba  honorária  decorrer  de  uma  análise  específica  dos  fatos  ocorridos  durante  a  marcha  processual,  na  qual  o  julgador  avalia  o  trabalho  desenvolvido  pelo  patrono  e  a  complexidade  da  causa,  a  fim  de  fixar  o  percentual  que  considera  correto,  não  cabe  ao  Superior  Tribunal  de  Justiça  revisar  a  quantia  estabelecida,  exceto  quando  constatada  sua  manifesta  insignificância  ou  excessividade  apta  a  afastar  o  óbice  da  Súmula  nº  7/STJ.
+3.  Agravo  interno  desprovido"  (AgInt  no  REsp  1.914.870/SP,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  20/3/2023,  DJe  de  22/3/2023).
+Assim,  diante  da  necessidade  da  parte  recorrida  do  fornecimento  do  medicamento  antineoplásico ,  fato  incontroverso  nos  autos,  mostra-se  obrigatório  o  suprimento  pelo  plano  de  saúde.
+Desse  modo,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
