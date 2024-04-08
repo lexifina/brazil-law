@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de WELTON CLAUDIO DOS SANTOS DOMINGOS, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no julgamento da apelação criminal n. 1506576-84.2022.8.26.0576.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, como incurso nas penas do artigo 157, § 2º, inciso II, e § 2º-A, inciso I, por duas vezes, na forma do artigo 70, ambos do Código Penal, às penas de 09 (nove) anos e 04 (quatro) meses de reclusão, mais o pagamento de 23 (vinte e três) dias-multa. (fls. 29-34).
+Inconformado, a defesa interpôs recurso de apelação perante o Tribunal de origem, que, por unanimidade, deu parcial provimento ao recurso defensivo para redimensionar a pena do paciente para 7 anos, 9 meses e 10 dias de reclusão, consoante voto condutor do acórdão de fls. 29-34.
+Dai o presente writ, onde a impetrante aponta constrangimento ilegal na negativa de afastamento da causa majorante relativa ao emprego de arma de fogo (art. 157, § 2º-A, inciso I, do Código Penal.
+Para tanto, sustenta que " ..  não se pode majorar a pena pelo emprego de arma de fogo sem a apreensão e a realização de perícia para se determinar que o instrumento utilizado pelo Paciente, de fato, era uma arma de fogo, circunstância apta a ensejar o maior rigor punitivo." (fl. 8).
+Requer, assim, em caráter liminar e no mérito, a concessão da ordem para seja " ..  reformado a decisão do Tribunal "a quo" no sentido de afastar o aumento de pena constante no artigo 157 § 2º-A, inciso I, do Código Penal." (fl. 10).
+É o relatório. DECIDO.
+Como relatado, busca-se na presente impetração o afastamento da majorando do emprego de arma de fogo, descrita no artigo 157, §2º-A, inciso I, do Código Penal.
+Inicialmente, cumpre asseverar que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, "o entendimento deste Tribunal firmou-se no sentido de que, em sede de habeas corpus, não cabe qualquer análise mais acurada sobre a dosimetria da reprimenda imposta nas instâncias inferiores, se não evidenciada flagrante ilegalidade, tendo em vista a impropriedade da via eleita" (HC n. 39.030/SP, Quinta Turma, Rel. Min. Arnaldo Esteves, DJU de 11/4/2005).
+Na hipótese, o Tribunal local entendeu que é prescindível, para o reconhecimento da majorante do emprego da arma de fogo que a arma utilizada seja apreendida e periciada, desde que comprovado o seu uso no roubo por outros meios, como teria ocorrido no caso, no qual a prova apurou que o acusado atuou em comparsaria com outro indivíduo e fez uso de uma arma de fogo para ameaçar as vítimas. (e-STJ fl. 32).
+Esse entendimento está em harmonia com a jurisprudência deste Superior Tribunal de Justiça:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO MAJORADO. EMPREGO DE ARMA DE FOGO. AUSÊNCIA DE APREENSÃO E PERÍCIA DA ARMA DE FOGO. PRESCINDIBILIDADE. COMPROVAÇÃO POR OUTROS MEIOS DE PROVA. POSSIBILIDADE. REVALORAÇÃO JURÍDICA DE MOLDURA FÁTICA EXPRESSAMENTE DELINEADA NO ACÓRDÃO. SÚMULA N. 7/STJ. NÃO INCIDÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Terceira Seção deste Tribunal Superior, no julgamento do EREsp n. 961.863/RS, consolidou o entendimento de que a configuração da majorante atinente ao emprego de arma de fogo prescinde de apreensão da arma utilizada no crime e de realização de exame pericial para atestar a sua potencialidade lesiva, quando presentes outros elementos probatórios que atestem o seu efetivo emprego na prática delitiva, tal como na hipótese dos autos, em que o uso do artefato foi evidenciado pela palavra da vítima.
+ ..
+3. Agravo regimental não provido. (AgRg no REsp 1.916.225/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 15/6/2021, DJe 21/6/2021, grifei).
+Portanto, na espécie, a pretensão formulada pela impetrante encontra óbice na jurisprudência consolidada do Superior Tribunal de Justiça, revelando-se, assim, manifestamente improcedente.
+Ante o exposto, denego a ordem de habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
