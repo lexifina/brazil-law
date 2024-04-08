@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL . NÃO CONHECIMENTO DO AGRAVO. PRODUÇÃO DE PROVA TESTEMUNHAL E CERCEAMENTO DE DEFESA. DESCABIMENTO DA ANÁLISE DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DECISÃO  MANTIDA.
+1.  Mantém-se  a  decisão  que não  conheceu do agravo em  recurso  especial,  diante  da ausência de impugnação específica quanto à incidência do óbice da Súmula 7/STJ, porque descabida a análise do contexto fático-probatório na espécie.
+2.  Agravo  interno  desprovido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em análise, agravo interno interposto por CARLOS HENRIQUE RIBEIRO FURTADO representado pela Defensoria Pública do Estado do Rio de Janeiro, contra a decisão (e-STJ, fls. 2.141-2.142) que não conheceu do agravo em recurso especial, uma vez que incidente, à espécie, o óbice da Súmula 7/STJ e ausente omissão no acórdão do Tribunal (violação ao art. 1.022, do CPC).
+Argumenta a parte agravante que "foi realizada a impugnação específica dos fundamentos da decisão que inadmitiu o Recurso Especial" (e-STJ, fl. 2.153), quanto à violação ao art. 1.022, II, do CPC e à não incidência da Súmula 7/STJ. Alega, ainda, que "o cerne da questão recursal era a demonstração de que a realização de prova testemunhal não tem apenas o escopo de demonstrar a realidade dos fatos, mas, sim, de garantir o pleno exercício do direito de ampla defesa" (e-STJ, fl. 2.155), e que a análise do cerceamento de defesa quando da não realização da prova testemunhal não demanda análise do contexto fático-probatório dos autos.
+Apresentada contraminuta pelo ESTADO DO RIO DE JANEIRO (e-STJ, fls. 2.163-2.164).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL . NÃO CONHECIMENTO DO AGRAVO. PRODUÇÃO DE PROVA TESTEMUNHAL E CERCEAMENTO DE DEFESA. DESCABIMENTO DA ANÁLISE DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DECISÃO  MANTIDA.
+1.  Mantém-se  a  decisão  que não  conheceu do agravo em  recurso  especial,  diante  da ausência de impugnação específica quanto à incidência do óbice da Súmula 7/STJ, porque descabida a análise do contexto fático-probatório na espécie.
+2.  Agravo  interno  desprovido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço do recurso, presentes os seus pressupostos de admissibilidade.
+A decisão agravada, de lavra do Ministro Og Fernandes, que não conheceu do agravo em recurso especial, com base no seguinte fundamento, em suma (e-STJ, fl. 2.141):
+O agravante não impugnou, especificamente, os fundamentos referentes à impossibilidade de violação de súmulas e à Súmula n. 7/STJ, haja vista que apenas aduz afirmações abstratas e genéricas, omitindo-se em apontar, em sua completude e em cotejo à tese subjacente, quais seriam as premissas fáticas incontroversas passíveis de revaloração ou de que outra forma o pleito não revolveria fatos e provas, o que acarreta o não conhecimento do agravo.
+De fato, embora sucinta a referida decisão, e não obstante tenha a parte ora agravante trazido, neste momento processual, impugnação mais específica quanto ao óbice da Súmula 7/STJ, de sua petição, do AREsp (e-STJ, fls. 2.101-2.110), extrai-se o argumento, sobretudo, de inobservância ao art. 1.022, c do CPC no acórdão. O que a agravante devolveu no AREsp, portanto, não permitiu sua admissão, ao passo que demandou do julgador a análise do contexto fático-probatório dos autos de origem.
+Ademais, quanto à alegação de que, "durante a instrução do processo não foi oportunizado ao Agravante, embora requerido em suas manifestações, a produção de provas cruciais para o adequado entendimento dos fatos ocorridos" (e-STJ, fl. 2.107), a verificação da necessidade, ou não, da referida prova também demandaria análise do que presente nos autos como prova, incluindo-se seu teor e pertinência ao caso concreto, o que atrai mesmo o óbice da Sumula 7/STJ.
+Nesse sentido, aliás, já se decidiu nesta Corte:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. INDEFERIMENTO DE PRODUÇÃO DE PROVA TESTEMUNHAL. DISCRICIONARIEDADE DO JULGADOR. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+2. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova testemunhal. Cabe ao juiz decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias.
+3. Consoante entendimento desta Corte, "a apuração da necessidade de produção da prova testemunhal ou a ocorrência de cerceamento de defesa decorrente da falta daquela demandam reexame de aspectos fático-probatórios, o que encontra óbice na Súmula 7 do STJ" (STJ, REsp 1.791.024/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 23/04/2019).
+4. Agravo interno não provido (AgInt no AREsp n. 1.604.351/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 14/6/2022, DJe de 20/6/2022).
+Assim, evidente que a agravante não trouxe qualquer alegação apta a afastar a incidência da Súmula 7/STJ ao caso concreto. De fato, mesmo que para análise de ocorrência, ou não, de cerceamento de defesa, necessário faria-se a apreciação do contexto fático-probatório nesta ação anulatória, o que, como visto, já devidamente realizado pelo Tribunal competente e impassível de reanálise neste momento processual.
+Isso posto, nego provimento ao a gravo Interno.
