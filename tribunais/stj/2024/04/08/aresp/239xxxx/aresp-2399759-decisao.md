@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de agravo interposto por CRISTIANE MARTHA FERNANDES DE OLIVEIRA AMARAL LOPES contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO cuja ementa guarda os seguintes termos (fl. 757):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. PREVIDÊNCIA PRIVADA. PREVI. SUPERÁVIT. DISTRIBUIÇÃO DA RESERVA ESPECIAL. RESOLUÇÃO CGPC Nº 26/2008. BENEFÍCIO ESPECIAL TEMPORÁRIO - BET - EM FAVOR DA PATROCINADORA. LEGALIDADE. SENTENÇA DE IMPROCEDÊNCIA. IRRESIGNAÇÃO DA AUTORA.
+Autora que suscita ilegalidade na Resolução CGPC nº 26/2008, que possibilitou a suspensão temporária da cobrança de contribuições e o pagamento de um Benefício Especial Temporário (BET) ao patrocinador, participantes e assistidos do plano de benefícios nº 1 da PREVI. Reside a controvérsia quanto à legalidade de ser a patrocinadora uma das beneficiárias. Ocorre que não há ilegalidade nas alterações do regulamento do plano de previdência, sendo certo que estas foram devidamente aprovadas pelo Conselho Deliberativo do qual fazem parte representantes de todas as classes, inclusive a que representa a recorrente. Reversão do superávit que se mostra legítima. Precedentes Jurisprudenciais. Sentença que merece singelo reparo para reconhecer a ilegitimidade passiva da primeira apelada. DESPROVIMENTO DO RECURSO.
+Rejeitados os embargos de declaração opostos (fls. 841-847).
+Nas razões do recurso especial, a recorrente alega ofensa aos arts. 19 e 20, caput e §§ 1º, 2º e 3º, e 21, § 3º, da Lei Complementar n. 109/2001. Argumenta, em síntese, que a reversão de valores, em caso de superávit, só se mostra juridicamente possível aos participantes, de modo que qualquer norma regulamentar que permita a reversão de valores ao patrocinador é ilegal.
+Acena com dissídio jurisprudencial.
+Oferecidas contrarrazões (fls. 967-995 e 996-1.019), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1.022-1.029), o que ensejou a interposição do presente agravo.
+Apresentadas contraminutas do agravo (fls. 1.073-1.093 e 1.094-1.102).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A Segunda Seção do STJ, no julgamento do REsp n. 1.564.070/MG, relator Ministro Luis Felipe Salomão, decidiu, sob o rito dos recursos repetitivos, que o superávit pode ser utilizado das mais diversas formas, consoante decisão do Conselho Deliberativo da entidade previdenciária, inclusive com sua distribuição em favor do patrocinador.
+A título de reforço, cito precedentes da Segunda Seção:
+2. O acórdão embargado está em consonância com a jurisprudência atual do STJ no sentido de que o superávit pode ser utilizado das mais diversas formas consoante decisão do Conselho Deliberativo da entidade previdenciária, conforme julgamento da Segunda Seção sob o rito dos recursos repetitivos (REsp 1.564.070/MG, Rel. Ministro LUIS FELIPE SALOMÃO, DJe 18/4/2017).
+ ..
+(AgInt nos EREsp n. 1.882.590/DF, relator Ministro Moura Ribeiro, Segunda Seção, DJe de 31/8/2023.)
+3. A jurisprudência atual das Turmas de Direito Privado do STJ é no sentido da possibilidade de reversão de valores do superávit em favor do patrocinador, como na espécie em julgamento. Precedentes.
+(AgInt nos EREsp n. 1.915.394/DF, relatora Ministra Nancy Andrighi, Segunda Seção, DJe de 27/10/2022.)
+1.1. A Segunda Seção desta Corte, unificando posicionamento a respeito do tema, quando do julgamento sob o rito dos recursos repetitivos (REsp 1.564.070/MG, Rel. Ministro Luis Felipe Salomão, DJe 18/04/2017) decidiu que o superávit pode ser utilizado das mais diversas formas consoante deliberação decidido pelo Conselho Deliberativo da entidade previdenciária. Precedentes: AgInt no REsp 1.877.995/DF, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 29/11/2021, DJe 01/12/2021; AgInt no REsp 1915394/DF, Rel. Ministro MARCO BUZZI, Quarta Turma, julgado em 27/09/2021, DJe 01/10/2021; AgInt no REsp 1710115/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, julgado em 30/08/2021, DJe 02/09/2021; AgInt no REsp 1914871/DF, Rel. Ministro MOURA RIBEIRO, Terceira Turma, julgado em 22/06/2021, DJe 25/06/2021; AgInt nos EREsp n. 1.885.360/DF, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 23/2/2022, DJe de 3/3/2022.
+ ..
+(AgInt nos EREsp n. 1.820.044/DF, relator Ministro Marco Buzzi, Segunda Seção, DJe de 1/9/2022.)
+Das Turmas, citam-se estes precedentes:
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. PREVIDÊNCIA PRIVADA. OMISSÃO NO ACÓRDÃO ESTADUAL. INEXISTÊNCIA. SUPERÁVIT. FORMA DE UTILIZAÇÃO. REVERSÃO EM FAVOR DO PATROCINADOR. POSSIBILIDADE. PRESCRIÇÃO QUINQUENAL. PRECEDENTES.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+3. "A Segunda Seção desta Corte, unificando posicionamento a respeito do tema, quando do julgamento sob o rito dos recursos repetitivos (REsp 1.564.070/MG, Rel. Ministro Luis Felipe Salomão, DJe 18/04/2017) decidiu que o superávit pode ser utilizado das mais diversas formas consoante deliberação decidido pelo Conselho Deliberativo da entidade previdenciária" (AgInt nos EREsp n. 1.820.044/DF, relator Ministro Marco Buzzi, Segunda Seção, DJe de 1º/9/2022.) 4. Nos termos da jurisprudência do STJ, "a pretensão de restituição de superávit destinado ao patrocinador é regida pela prescrição quinquenal prevista no art. 75 da Lei Complementar n.º 109/2001" (AgInt no AREsp n. 1.355.503/DF, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 17/8/2022).
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.933.181/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 9/6/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE ATO JURÍDICO C/C OBRIGAÇÃO DE PAGAR QUANTIA CERTA. PREVIDÊNCIA PR IVADA COMPLEMENTAR. RESULTADO SUPERAVITÁRIO. REVERSÃO AO PATROCINADOR. POSSIBILIDADE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. MULTA DO ART. 1.021, §4º, DO CPC. INAPLICABILIDADE.
+1. Ação declaratória de nulidade de ato jurídico c/c obrigação de pagar quantia certa, fundada na alegação de ilegalidade da forma de distribuição do resultado superavitário.
+2. A Segunda Seção do STJ, por ocasião do julgamento do REsp 1.564.070/MG (DJe de 18/04/2017), sob o rito dos recursos repetitivos, pontuou que o superávit pode ser utilizado das mais diversas formas que acaso delibere o Conselho Deliberativo da entidade previdenciária.
+3. A jurisprudência das Turmas de Direito Privado do STJ é no sentido da possibilidade de reversão de valores do superávit em favor do patrocinador, como na hipótese em julgamento. Precedentes.
+4. Quanto à multa estabelecida no § 4º do art. 1.021 do CPC, a Segunda Seção deste STJ definiu que sua aplicação "pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória" (AgInt nos EREsp 1.120.356/RS, 2ª Seção, DJe de 29/08/2016), o que não se verifica na hipótese.
+5. Agravo interno não provido.
+(AgInt no REsp n. 2.008.900/DF, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 7/12/2022.)
+Dessarte, estando o acórdão recorrido em sintonia com o entendimento dominante deste Tribunal, aplica-se ao caso o entendimento consolidado na Súmula 568/STJ, in verbis: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados pelo Tribunal de origem para 15% sobre o valor atualizado da causa, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
