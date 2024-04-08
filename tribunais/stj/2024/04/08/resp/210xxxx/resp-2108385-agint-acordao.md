@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. COISA JULGADA. VIOLAÇÃO. REDISCUSSÃO DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7/STJ. INCIDÊNCIA.
+1. O acolhimento da alegação deduzida, no que tange à verificação de violação à coisa julgada, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pelo Estado do Tocantins desafiando decisão que negou provimento ao recurso especial, sob o fundamento de que o acolhimento da alegação deduzida no tocante à verificação de violação à coisa julgada demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em especial apelo, conforme o óbice previsto na Súmula 7/STJ.
+A parte recorrente, em suas razões, sustenta não ser o caso de aplicação da Súmula 7/STJ, sob a alegação de que "constata-se facilmente que o Estado agravante, nos Tópicos "4. DOS FUNDAMENTOS DA DECISÃO RECORRIDA - SÚMULA 283 DO SUPREMO TRIBUNAL FEDERAL 4.1 Violação do 505 e art. 509, § 4º, ambos do Código de Processo Civil e ao 1.022, § único, II, c/c 489, § 1º, IV, do Código de Processo Civil. 4.2 Da violação ao art. 14, § 4º, da Lei 12.016/2009, refutou todos os fundamentos do acórdão recorrido, de forma minuciosa e suficiente, e demonstrou o desacerto do decisum proferido pelo Colegiado de piso, por estar em desacordo com a lei federal como também se revela dissonante com a jurisprudência dominante do Superior Tribunal de Justiça, tornando cabível, assim, determinação de processamento do recurso pela via excepcional. No caso dos autos, conforme exaustivamente frisado em sede de recurso especial (fls. 861-873, e-STJ), o tema primordial do reclamo não demanda revolvimento de fatos e provas, mas tão somente análise de matéria de direito, pois o que se questiona é a ofensa aos arts. 14, § 4º, da Lei nº 12.016/2009, 492, §3º, II, 489, § 1º, IV, 505, 509, § 4º, 1.022, § único, II, do CPC"" (fls. 919/920).
+As razões do recurso não foram impugnadas.
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. COISA JULGADA. VIOLAÇÃO. REDISCUSSÃO DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7/STJ. INCIDÊNCIA.
+1. O acolhimento da alegação deduzida, no que tange à verificação de violação à coisa julgada, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Como asseverado no decisum, colheu-se do acórdão recorrido a seguinte fundamentação (fls. 784/788):
+Como bem apontado na decisão liminar, é vedado no Mandado de Segurança a cobrança de valores pretéritos ao ajuizamento da ação, conforme determina as súmulas 269 e 271 do Supremo Tribunal Federal:  .. .
+Ocorre que, que por ocasião do julgamento do referido mandamus, os componentes do Tribunal Pleno, à unanimidade, encamparam o voto-vista apresentado pela Desa. JACQUELINE ADORNO, no sentido de conceder a mandamental pretendida, por entender que os filiados da impetrante que trabalham no período compreendido entrem às 22 horas e 05 horas fazem jus ao adicional, noturno, consoante lhes assegura a Constituição Federal, levando-se em conta a prescrição quinquenal.
+No bojo do voto-vista, a nobre Desa. JACQUELINE ADORNO foi esclarecedora ao consignar que " ..  analisando os autos verifica-se que razão assiste ao relator em conceder a ordem pleiteada, entretanto, deve ser levado em conta a prescrição das parcelas vencidas antes do quinquídio anterior a propositura da ação. Assim, vez que ação foi proposta em 23/02/2013, encontram-se prescritas as parcelas anteriores a 23/02/2009.  .. ". (destaquei) Frise-se que referido Acórdão transitou em julgado em 11/06/2014 (evento 78) sem que houvesse qualquer irresignação dos impetrados e/ou da Procuradoria- Geral do Estado do Tocantins quanto ao que restou decidido pelo Colendo Tribunal Pleno.
+Desta feita, em que pese o equivocado entendimento de que a ordem concedida deveria levar em conta a prescrição quinquenal, tal como pleiteado pela impetrante na exordial, o qual vai de encontro ao disposto no art. 14, § 4º, da Lei nº 12.016/2009 e às Súmulas 269 e 271 do STF, dúvidas não restam quanto ao fato de que o decisum não mais pode ser objeto de modificação, na medida em que acobertado pelo manto da coisa julgada material, a qual tornou imutável e indiscutível a decisão demérito, nos moldes como estabelecia o art.
+467 do CPC/1973, vigente ao tempo do trânsito em julgado do Acórdão exequendo (correspondente ao art.502 do CPC/2015).
+Logo, transitado em julgado a ordem do Mandado de Segurança, não é mais possível a alteração dos critérios nela definidos, sob pena de ofensa ao instituto da coisa julgada.
+Está correto o decisório ao observar, pois, que o acolhimento da alegação deduzida, no que tange à verificação de violação à coisa julgada, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+No mesmo sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DISPOSITIVOS LEGAIS TIDOS POR VIOLADOS. INDICAÇÃO. AUSÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. DEMONSTRAÇÃO. INEXISTÊNCIA. COISA JULGADA. ANÁLISE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. Não se conhece de recurso especial que não aponta o dispositivo legal violado no acórdão recorrido, incidindo na hipótese, por analogia, a Súmula 284 do Supremo Tribunal Federal.
+2. Ressalvado o entendimento do relator, idêntica compreensão é aplicada ao apelo nobre interposto com fundamento em divergência pretoriana, na esteira do posicionamento da Corte Especial (AgRg no REsp n. 1.346.588/DF, relator Min. ARNALDO ESTEVES LIMA, Corte Especial, DJe 17/03/2014).
+3. Ainda que superada a ausência de demonstração da divergência, o especial não ultrapassaria o âmbito do conhecimento, uma vez que o acórdão recorrido extraiu sua convicção do acervo probatório dos autos para decidir pela ocorrência da coisa julgada, sem delinear o quadro fático de forma a permitir a verificação da identidade entre pedido e causa de pedir. Incidência da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.501.224/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 1º/7/2019, DJe 2/8/2019.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
