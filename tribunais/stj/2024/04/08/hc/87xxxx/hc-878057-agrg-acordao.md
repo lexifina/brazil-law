@@ -1,0 +1,23 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA DA PENA. MATÉRIA NÃO SUSCITADA PERANTE A CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O pleito de redimensionamento da pena imposta na sentença condenatória não foi sequer suscitado perante a Corte de origem, a sublinhar a impossibilidade de análise do pedido pelo Superior Tribunal de Justiça, sob pena de incorrer em indevida supressão de instância.
+2. Agravo regimental não provido.
+RELATÓRIO
+WAGNER MOREIRA DE JESUS agrava da decisão de fls. 985-986, em que indeferi liminarmente o habeas corpus, dada a patente supressão de instância.
+Para tanto, assere que "a superação do óbice da supressão de instância pode ocorrer nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências) - o que se constata na espécie" (fl. 996).
+Requer, assim, "seja reconsiderada a r. decisão monocrática de fls. 985/986, ou provido o presente Agravo Regimental e, consequentemente, concedida a ordem em sua integralidade para rever a pena-base fixada em desfavor do Paciente, conduzindo-a no patamar mínimo" (fl. 998).
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA DA PENA. MATÉRIA NÃO SUSCITADA PERANTE A CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O pleito de redimensionamento da pena imposta na sentença condenatória não foi sequer suscitado perante a Corte de origem, a sublinhar a impossibilidade de análise do pedido pelo Superior Tribunal de Justiça, sob pena de incorrer em indevida supressão de instância.
+2. Agravo regimental não provido.
+VOTO
+Conforme já apontado na decisão vergastada, o agravante alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo na Apelação n. 0000413-66.2018.8.26.0621, em que, mantida sua condenação como incurso no art. 157, § 2º, II, e § 2º-A, I, do Código Penal, foi dado parcial provimento ao recurso defensivo "para afastar a nota de reincidência e reduzir a pena dele e dos corréus  ..  para 6 anos e 8 meses de reclusão, em regime fechado, e 16 dias-multa, de valor unitário mínimo" (fl. 827).
+Irresignada, assere a defesa que " a  pena-base do paciente foi aumentada em 1/6 em razão dos seus maus antecedentes, que seriam verificáveis a partir da certidão de objeto e pé de fls. 540-542. Ocorre que, analisando tal documento, infere-se que nenhuma das ações penais que tramitavam contra o paciente na data da prolação da sentença possuíam trânsito em julgado para a defesa certificado" (fl. 6).
+Todavia, urge consignar que o pleito de afastamento dos antecedentes não foi sequer suscitado perante a Corte de origem, já que "Wagner  limitou-se a pedir  o afastamento da nota de reincidência" (fl. 829). Assim, verifica-se ser defeso a esta Corte Superior adentrar o exame da questão aqui suscitada, dada a evidente e insuperável supressão de instância. A esse respeito:
+ ..  nota-se que a Corte originária não analisou as referidas questões. Impossibilidade de análise desses pontos da impetração pelo STJ, sob pena de atuar em indevida supressão de instância, com a consequente ampliação inconstitucional da competência recursal ordinária (CF, art, 105, II)  ..  (HC n. 486.103/MG, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 30/4/2019, grifei).
+ ..  A Corte estadual não analisou a tese ora trazida pela defesa no presente mandamus consubstanciada em nulidade decorrente da falta de manifestação do juízo primevo acerca das teses defensivas apresentadas na resposta à acusação. Limitou-se o Tribunal de origem a concluir que a matéria "é sanável por recurso próprio, do qual o Habeas Corpus não pode funcionar como sucedâneo" (fl. 335). Dessa forma, este Tribunal Superior encontra-se impedido de pronunciar-se a respeito, sob pena de indevida supressão de instância  ..  (RHC n. 86.893/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 7/11/2018, destaquei).
+À vista do exposto, nego provimento ao recurso.
