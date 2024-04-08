@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por JHONATHAN ARAUJO DA SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA  (Ação Penal nº 0805473-32.2023.8.15.0131).
+O recorrente está preso preventivamente pela suposta prática do crime de supostas condutas incursas nos arts. 33, da Lei n.º 11.343/06 e art. 12, da Lei n.º 10.826/03, tendo sido apreendido consigo, no momento da prisão em flagrante, arma de fogo Taurus calibre .38, numeração 1654318, com 6 munições intactas, enquanto o Paciente trazia consigo 13 trouxinhas de cocaína e 01 trouxinha de maconha (e-STJ fl. 167).
+O habeas corpus impetrado foi conhecido e denegado por meio de acórdão assim ementado (e-STJ fl. 128):
+HABEAS CORPUS. TRÁFICO DE DROGAS. IRRESIGNAÇÃO DEFENSIVA. 1. PLEITO DE REVOGAÇÃO DAPRISÃO PREVENTIVA EM RAZÃO DO EXCESSO DE PRAZO PARA OFERECIMENTOAPRESENTAÇÃO E RECEBIMENTO DA PEÇA ACUSATÓRIA.
+DA DENÚNCIA. SUPERVENIENTE PERDA DO OBJETO. 2.
+PREJUDICIALIDADE DO MANDAMUS, COMRECOMENDAÇÃO DE CELERIDADE AO JUÍZO A QUO.1. Sobrevindo o oferecimento da inicial acusatória, prejudicado resta o exame da questão do excesso de prazo à conclusão do inquérito e oferecimento da denúncia, sob este enfoque, não podendo ser olvidado que os prazos processuais, para efeito de caracterizar eventual excesso, são contados englobadamente, e não de forma individualizada.2. Habeas corpus julgado prejudicado, com recomendação de celeridade ao juízo de origem .
+A defesa alega, em síntese, excesso de prazo para o oferecimento da denúncia.
+Requer, liminar e definitivamente, provimento do recurso para dispensar ou reduzir o valor da fiança arbitrado pelo juízo de origem, com a expedição imediata de alvará de soltura em favor do recorrente.
+É o relatório.
+Decido.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, j. em 02/08/2022, DJe de 10/08/2022).
+Verifica-se que não está caracterizada manifesta ilegalidade suficiente para superar o óbice do referido enunciado sumular.
+A autoridade impetrada consignou (e-STJ fls. ##-##):
+"Inicialmente, para a concessão da ordem de , é imperioso que o paciente esteja sofrendo ou ameaçado de sofrer habeas corpus violência ou coação em sua liberdade de locomoção.
+No que diz respeito à concessão de pelo , a jurisprudência do Superior Tribunal de Justiça é no habeas corpus excesso de prazo sentido de que a caracterização do excesso, apto a autorizar o relaxamento da prisão cautelar, deve ser analisado à luz do princípio da razoabilidade e da proporcionalidade, observando-se sobretudo a complexidade da causa e a atuação das partes (RHC101.444/AL, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/10/2018, DJe 16/10/2018; RHC 99.336/GO, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/10/2018, DJe 11/10/2018).
+Lado outro, em consulta ao Sistema Pje 1º grau, do cotejo dos autos do Processo nº 0805473-32.2023.8.15.0131, foi oferecida denúncia, aos 06/02/2024, pelo Representante do Ministério Público.
+Assim, com o ,a pretensão veiculada na inicial desta ação constitucional perdeu seu objeto, oferecimento da peça acusatória conduzindo ao julgamento prejudicado do pedido, consoante prevê a parte inicial do art. 257, do Regimento Interno deste Egrégio Tribunal, que diz:
+"Verificada a cessação de violência ou coação ilegal, o será julgado prejudicado, podendo, porém, o Tribunal habeas corpus declarar a ilegalidade do ato e tomar as providências cabíveis para punição do responsável".
+Desta forma, o objeto do presente mandamus restou esvaziado, acarretando a prejudicialidade da ordem.
+Nos mesmos termos, julgados desta Corte de Justiça, in verbis:
+HABEAS CORPUS Prisão Alegado excesso de prazo PARA O OFERECIMENTO DA INICIAL ACUSATÓRIA. Denúncia OFERTADA. Argumento prejudicado.- Lastreado o pedido de soltura em alegação de excesso de prazo para o oferecimento da denúncia, resta prejudicado o pleito diante da notícia de que a exordial acusatória já foi (HABEAS CORPUS Nº 0806315-27.2017.8.15.0000, Rel. Des. Carlos Martins Beltrão ofertada. Filho, HABEAS CORPUS, Câmara Criminal, juntado em 05/02/2018). CRIME, EM TESE, DE TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃOHABEAS CORPUSPARA ESTES FINS. PRISÃO DOMICILIAR DECRETADA PELO JUÍZO DE CUSTÓDIA. ALEGADO EXCESSO DE PRAZO PARA O OFERECIMENTO DA EXORDIALACUSATÓRIA. DENÚNCIA OFERECIDA E RECEBIDA. PERDA SUPERVENIENTE DO
+Julga-se prejudicado pedido de , quando restou OBJETO. WRIT PREJUDICADO. habeas corpus demonstrado no caderno processual já haver cessado a violência ou coação, supostamente alegada.(Habeas corpus 0801522-11.2018.8.15.0000, Rel. Des. João Benedito da Silva, HABEAS CORPUS, Câmara Criminal, juntado em 27/04/2018)
+Ressalto ser possível ao relator decidir monocraticamente o nas hipóteses autorizadas pelo Regimento Interno, sem habeas corpus que configure violação ao princípio da colegialidade. Nesse sentido: STF. 1ª Turma. HC 137265 AgR, Rel. Min. Roberto Barroso, julgado em 07/03/2017; STF. 2ª Turma. HC 131550 AgR, Rel. Min. Gilmar Mendes, julgado em 15/12/2015.
+Ante o exposto e nos termos do art. 127, XXX, do RITJPB,1 julgo prejudicada a ordem.
+Todavia, recomendo ao Juízo de origem que imprima maior celeridade ao julgamento do feito, a fim de se evitar futura configuração de constrangimento ilegal."
+Não se constata, então, vício na negativa do pleito liminar em sede monocrática, sendo certo que o revolvimento das questões sustentadas no habeas corpus acarretaria supressão de instância, pois serão alvo de exame na Corte de origem quando do julgamento final.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
