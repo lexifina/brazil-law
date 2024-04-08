@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. NEGATIVA DE SEGUIMENTO AO RECURSO ESPECIAL. INTERPOSIÇÃO DE AGRAVO. RECURSO MANIFESTAMENTE INCABÍVEL. AUSÊNCIA DE IMPUGNAÇÃO À TOTALIDADE DOS FUNDAMENTOS ADOTADOS PELA DECISÃO QUE NÃO ADMITE RECURSO ESPECIAL. SÚMULA 182/STJ. INCIDÊNCIA.
+1. Na forma do artigo 1.030, § 2º, do CPC, o recurso cabível contra a decisão que nega seguimento a apelo nobre com base no art. 1.030, I, b, do mesmo Código Processual é o agravo interno, não cabendo falar na possibilidade de interposição de agravo em recurso especial.
+2. A Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, a totalidade do conteúdo da decisão que não admitiu o processamento do recurso especial, sob pena de incidir o óbice contido na Súmula 182/STJ. Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC e EAREsp 831.326/SP).
+3 . Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por Geni Ferreira Rodrigues contra decisão da Presidência da Corte, que não conheceu do agravo em razão de a parte recorrente não ter interposto agravo interno contra capítulo fundado em recurso repetitivo e por não ter rebatido, de forma específica, todos os fundamentos adotados pelo decisório que não admitiu o recurso especial, atraindo a incidência da Súmula 182/STJ.
+Inconformada, a parte agravante rebate o referido teor sumular, sublinhando que "a argumentação jurídica utilizada foi dialética e implicou em impugnação efetiva, concreta e pormenorizada, tendo o agravante explicitado e detalhado que a interposição do Especial ocorreu com expressa indicação de violação ao artigo 3º, do Decreto Federal nº 20.910/1932 com referência identificativa ao entendimento da Súmula 85, do STJ para aumentar e facilitar o entendimento da matéria pelo Tribunal "ad quem"" (fl. 1.734).
+Ausente impugnação.
+É O RELATÓRIO.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. NEGATIVA DE SEGUIMENTO AO RECURSO ESPECIAL. INTERPOSIÇÃO DE AGRAVO. RECURSO MANIFESTAMENTE INCABÍVEL. AUSÊNCIA DE IMPUGNAÇÃO À TOTALIDADE DOS FUNDAMENTOS ADOTADOS PELA DECISÃO QUE NÃO ADMITE RECURSO ESPECIAL. SÚMULA 182/STJ. INCIDÊNCIA.
+1. Na forma do artigo 1.030, § 2º, do CPC, o recurso cabível contra a decisão que nega seguimento a apelo nobre com base no art. 1.030, I, b, do mesmo Código Processual é o agravo interno, não cabendo falar na possibilidade de interposição de agravo em recurso especial.
+2. A Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, a totalidade do conteúdo da decisão que não admitiu o processamento do recurso especial, sob pena de incidir o óbice contido na Súmula 182/STJ. Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC e EAREsp 831.326/SP).
+3 . Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não procede.
+Embora assista razão à parte agravante quanto a ter interposto agravo interno da decisão que não admitiu o recurso especial com base no Tema 911 (fls. 1.388/1540), o tema referente à alegada má aplicação da tese firmada no recurso paradigmático não pode ser apreciado por esta Corte na via eleita, pois, conforme consolidado em nossa jurisprudência, na forma do artigo 1.030, § 2º, do CPC, o recurso cabível contra a decisão que nega seguimento a apelo nobre com base no art. 1.030, I, b, do mesmo Código Processual é o agravo interno, não cabendo falar na possibilidade de interposição de agravo em recurso especial.
+Neste sentido, destaca-se:
+EXECUÇÃO FISCAL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ACÓRDÃO EM CONSONÂNCIA COM O ENTENDIMENTO FIRMADO EM RECURSO REPETITIVO. INADMISSÃO COM BASE NO ART. 1.030, I, B , DO CÓDIGO DE PROCESSO CIVIL DE 2015. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. IMPOSSIBILIDADE. DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DOS ARTS. 932, III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. PEDIDO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO. PREJUDICIALIDADE. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Revela-se manifestamente inadmissível a interposição de Agravo em Recurso Especial para impugnar decisão mediante a qual o Recurso Especial teve seguimento negado (art. 1.030, I, b, do CPC/2015) porque o acórdão recorrido estaria em consonância com o entendimento fixado em recurso repetitivo, porquanto cabível agravo interno.
+III - É inviável a determinação de retorno dos autos ao tribunal de origem, para que o agravo em recurso especial interposto seja apreciado como agravo interno, porquanto na sistemática vigente deixou de existir dúvida objetiva acerca do recurso cabível.
+Precedentes das Turmas componentes da 1ª, 2ª e 3ª Seções desta Corte.
+IV - Razões de agravo interno nas quais não impugnados especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus da Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, combinado com o art. 1.021, § 1º, todos do Código de Processo Civil de 2015.
+V - Consoante a orientação desta Corte, ocorre a carência superveniente de interesse processual, do pedido de atribuição de efeito suspensivo, quando julgado o recurso no qual aquele foi formulado.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero não conhecimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno não conhecido e pedido de atribuição de efeito suspensivo prejudicado.
+(AgInt no AREsp 1.875.330/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 16/11/2021, DJe 19/11/2021.)
+Em relação ao segundo fundamento, vê-se que o agravo em especial apelo realmente não rebateu, de modo específico, todos os pilares da decisão de inadmissibilidade, deixando de impugnar a incidência concreta da Súmula 518 do STJ.
+Diante disso, mostra-se correta a aplicação do anteparo sumular 182/STJ pela Presidência deste Superior Tribunal.
+Nessa mesma linha, convém ressaltar que a Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, a totalidade do conteúdo do decisum que não admitiu o processamento do recurso especial, sob pena de incidir o referido óbice contido na Súmula 182/STJ. Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC e EAREsp 831.326/SP).
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
