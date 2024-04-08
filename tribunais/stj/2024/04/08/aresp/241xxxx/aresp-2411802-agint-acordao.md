@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. PREQUESTIONAMENTO. AUSÊNCIA.
+1. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7 do STJ).
+3. Não enfrentada no julgado impugnado tese respeitante a artigo de lei federal apontado no recurso especial, há falta do prequestionamento, nos termos da Súmula 282 do STF.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por LSI - LOGÍSTICA S.A. contra decisão de minha lavra, integrada por embargos de declaração, em que conheci do agravo para, com fundamento nas Súmulas 7 do STJ e 282 do STF, na ausência de vício de integração, conhecer em parte do recurso especial para negar-lhe provimento.
+A parte agravante alega, em síntese, que o vício de integração decorrente da contradição do acórdão decorre da má interpretação dos fatos descritos pelo Tribunal a quo uma vez que "o fato da locação de bens móveis não constar na nota fiscal COMPROVA a segregação entre prestação de serviço e a locação de bens imóveis" e que "a prova pericial reconheceu o direito da Agravante, no sentido de que HOUVE SEGREGAÇÃO entre prestação de serviço e locação de bens móveis, o que viabiliza o cancelamento da exigência fiscal em relação à locação".
+Aduz que inaplicável o óbice da Súmula 7 do STJ uma vez que "as provas e os fatos já estão bem delineados desde as instâncias inferiores, INCLUSIVE COM LAUDO PERICIAL FAVORÁVEL, sendo que este E. STJ admite expressamente a valoração das provas já delineadas nos autos em sede de Recurso Especial".
+Por fim, defende a inaplicabilidade do óbice da Súmula 282 do STF uma vez que a questão da violação do art. 142 do CTN pela alteração judicial dos fundamentos do lançamento tributário foi objeto de embargos de declaração, sendo necessária a observância do art. 1.025 do CPC/2015.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. PREQUESTIONAMENTO. AUSÊNCIA.
+1. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7 do STJ).
+3. Não enfrentada no julgado impugnado tese respeitante a artigo de lei federal apontado no recurso especial, há falta do prequestionamento, nos termos da Súmula 282 do STF.
+4. Agravo interno desprovido.
+VOTO
+Os argumentos ora ventilados não convencem.
+Como assinalado na decisão agravada, o apelo nobre se origina de embargos à execução de crédito de ISSQN lançado pelo MUNICIPIO DE CATALÃO - GO após autuação por ausência de recolhimento do tributo em determinadas prestações de serviço.
+No  primeiro  grau  de  jurisdição,  a ação foi julgada improcedente ao argumento de que não há excesso na exação, tratando-se de operações mistas de locação de bens móveis e prestação de mão de obra para operá-los "mesmo porque as notas fiscais e medições mensais apresentadas não discriminam, de per si, os valores relativos à mão de obra e dos equipamentos locados, por conseguinte não há que se falar em segmentação da locação de bens móveis da prestação de serviços".
+O Tribunal goiano negou provimento à apelação do contribuinte afirmando que, havendo contratação de locação de maquinário e disponibilização de mão de obra para operá-lo, a perícia produzida nos autos indica que "todas as notas fiscais foram emitidas constando a prestação de serviço como natureza da obrigação, bem como as medições mensais apresentadas não discriminam os valores relativos à mão de obra e dos equipamentos locados, não podendo se falar em segmentação da locação de bens móveis da prestação de serviços".
+Opostos embargos de declaração, foram eles rejeitados.
+No  especial,  o particular  alega  violação  dos  arts. 334, 371, 373, 479, 489 e 1.022 do CPC/2015 e do art. 142 do CTN.
+ Sustenta,  em  síntese, a existência de vício de integração no acórdão que teria incorrido em omissão e contradição ao desconsiderar as afirmações expressas feitas pelo perito do juízo em laudo acerca da inclusão segregada nas notas fiscais do valor relativo à locação de bens móveis.
+No juízo de reforma, pretende o reconhecimento da impossibilidade de lançamento de ISSQN sobre a locação de bens móveis nas operações mistas, na forma da jurisprudência firmada pelos tribunais superiores, alegando ser incontroverso nos autos a existência de segregação nas notas fiscais entre prestação de serviço e locação de bens móveis.
+Por fim, sustenta que o auto de infração foi lavrado expressamente em razão de suposta irregularidade no recolhimento do ISSQN sobre a locação de bens móveis, não podendo o judiciário indicar outro fundamento para a autuação e lançamento tributário.
+Como afirmado na monocrática agravada, verifica-se que o Tribunal de origem se manifestou, de maneira clara e fundamentada, acerca de todas as questões relevantes para a solução da controvérsia.
+Como relatado, a Corte estadual consignou expressamente que a autuação é escorreita, uma vez que, nas notas fiscais expedidas pelo contribuinte, não havia a identificação do valor relativo à locação de bens móveis e a segmentação dos valores relativos à prestação do serviço de mão de obra, transcrevendo-se, inclusive, respostas do perito que informam que os valores constantes nas notas fiscais eram relativos exclusivamente à prestação de mão de obra (e-STJ fl. 1.865):
+Quesito 9. Pode o Sr. Perito informar se os objetos de locação de bens móveis e de prestação de serviços forma devidamente separados nas notas fiscais Resposta: Os valores referentes a locação não foram incluídos nas notas emitidas para a Contratante.
+Já com relação à alegada contradição relativa à conclusão do acórdão com o que consta na perícia técnica produzida no bojo da ação, a contradição apontada não tem natureza interna, não podendo ser acolhida.
+O vício de contradição só se caracteriza quando a conclusão da decisão judicial não guardar correlação com a fundamentação utilizada para lhe dar respaldo ou nela houver fundamentos não compatíveis entre si, o que não é o caso.
+Frise-se que eventual equívoco na compreensão das provas produzidas não caracteriza vício de integração (error in procedendo), a infirmar a validade do julgado, mas erro de julgamento (error in judicando), insuscetível de revisão pela via dos embargos de declaração, e, por conseguinte, de declaração de nulidade do acórdão embargado por suposta ofensa ao art. 1.022 do CPC/2015.
+Dessa forma, inexiste vício de integração no acórdão a ensejar violação do art. 1.022 do CPC/2015.
+No concernente ao juízo de reforma, reitero que o recurso especial não merece conhecimento.
+Contrariamente ao afirmado pelo agravante, não é incontroverso nos autos a existência de segregação nas notas fiscais entre prestação de serviço e locação de bens móveis.
+Pelo contrário, a Corte goiana afirma exatamente o contrário, com base em trechos transcritos do laudo pericial, que afirmariam que os valores constantes nas notas fiscais autuadas eram relativos exclusivamente à prestação de mão de obra.
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal a quo sobre a questão demanda o reexame dos fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula 7 do STJ.
+No mais, em relação ao art. 142 do CTN, ressente-se o recurso especial do devido prequestionamento, já que sobre essa norma e a tese a ela vinculada (relativa a impossibilidade de o judiciário mudar o fundamento da autuação fiscal) não houve emissão de juízo pelo acórdão recorrido, fazendo incidir o óbice constante na Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Nesse ponto, em atenção à alegação da agravante, cumpre anotar que o art. 1.025 do CPC/2015 dispõe que se "consideram incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existente erro, omissão, contradição ou obscuridade".
+A regra processual, portanto, exige o reconhecimento da violação do art. 1.022 do CPC/2015 para o fim de admissão do prequestionamento ficto.
+Nesse sentido, dentre outros: AgInt no AREsp 1224882/MA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 07/06/2018, DJe 19/06/2018; AgInt no REsp 1707780/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 17/05/2018, DJe 23/05/2018; AgInt no REsp 1669746/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 15/05/2018, DJe 18/05/2018; AgInt no REsp 1650256/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 03/04/2018, DJe 09/05/2018.
+Após nova análise processual, provocada pela interposição do agravo interno, observo que a decisão combatida deve ser mantida.
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
