@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL. AUSÊNCIA DE VÍCIOS. MULTA DO ARTIGO 1.021, § 4º, DO CPC. CARÁTER PROTELATÓRIO DO AGRAVO INTERNO. MANTIDA A APLICABILIDADE.
+1. Os embargos de declaração, a teor do artigo 1.022 do CPC, constituem-se em recurso de natureza integrativa destinado a sanar vício de obscuridade, contradição, omissão ou erro material, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido. Precedentes.
+2. A Segunda Seção desta Corte firmou tese, quanto à aplicação da multa do artigo 1.021, § 4º, do CPC, no sentido de que " ..  pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória  .. " (AgInt nos EREsp n. 1.120.356/RS, Segunda Seção, DJe de 29/8/2016). Nesse contexto, verifica-se irretocável a imposição da referida multa, quando do julgamento do agravo interno, em virtude de seu caráter protelatório.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se embargos de declaração opostos por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL contra acórdão proferido em sede de agravo interno que, por unanimidade, a ele negou provimento, com aplicação de multa, nos termo s do artigo 1.021, § 4º, do CPC (e-STJ fls. 1.415/1.420), e cuja ementa transcrevo (e-STJ fl. 1.415):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. ARTIGO 932, III, DO CPC. SÚMULA N. 182/STJ. APLICAÇÃO POR ANALOGIA. MULTA. ARTIGO 1.021, § 4º, DO CPC. CABIMENTO.
+1. Cumprimento de sentença.
+2. Não merece conhecimento o agravo que não impugna, especificamente, todos os fundamentos da decisão denegatória de seguimento ao recurso especial.
+3. Agravo interno no agravo em recurso especial não provido, com aplicação de multa, nos termos do artigo 1.021, § 4º, do CPC.
+Sustenta, em síntese, que o acórdão padece de omissão, visto que a " ..  Terceira Turma apenas aplicou a multa no dispositivo do acórdão sem apresentar qualquer fundamentação para tanto  .. ", pois a " ..  mera improcedência, à unanimidade, do Agravo Interno não gera a aplicação automática de multa, o que não foi analisado pelo acórdão embargado  .. " (e-STJ fl. 1.429).
+Impugnação às fls. 1.434/1.443 (e-STJ).
+Os embargos foram opostos tempestivamente.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL. AUSÊNCIA DE VÍCIOS. MULTA DO ARTIGO 1.021, § 4º, DO CPC. CARÁTER PROTELATÓRIO DO AGRAVO INTERNO. MANTIDA A APLICABILIDADE.
+1. Os embargos de declaração, a teor do artigo 1.022 do CPC, constituem-se em recurso de natureza integrativa destinado a sanar vício de obscuridade, contradição, omissão ou erro material, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido. Precedentes.
+2. A Segunda Seção desta Corte firmou tese, quanto à aplicação da multa do artigo 1.021, § 4º, do CPC, no sentido de que " ..  pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória  .. " (AgInt nos EREsp n. 1.120.356/RS, Segunda Seção, DJe de 29/8/2016). Nesse contexto, verifica-se irretocável a imposição da referida multa, quando do julgamento do agravo interno, em virtude de seu caráter protelatório.
+2. Embargos de declaração rejeitados.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A parte embargante, inicialmente, aduz que há omissão a ser sanada, nos termos do artigo 1.022, II, do CPC.
+Consoante o artigo 1.022 do CPC, cabe a oposição de embargos de declaração para: (i) esclarecer obscuridade ou eliminar contradição; (ii) suprir omissão de ponto ou questão sobre qual devia se pronunciar o juiz de ofício ou a requerimento; e (iii) corrigir erro material.
+Sobreleva notar que o inciso IV do artigo 489 do CPC impõe a necessidade de enfrentamento, pelo julgador, dos argumentos que possuam aptidão, em tese, para infirmar a fundamentação do julgado embargado. Esposando tal entendimento, a Corte Especial do Superior Tribunal de Justiça entende que o " ..  julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida (EDcl no MS 21.315/DF, Rel. Ministra Diva Malerbi (desembargadora Convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016)  .. " (AgInt no MS n. 24.320/DF, Corte Especial, DJe de 23/5/2019).
+Da análise dos autos, o acórdão embargado enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e suficiente, razão pela qual não merece reparo algum, conforme se depreende de seus fundamentos, a seguir transcritos (e-STJ fls. 1.419/1.420):
+ ..
+Verifica-se que a parte agravante, efetivamente, não combateu o fundamento da decisão de admissibilidade relativo à incidência do verbete sumular n. 83 desta Corte Superior, porquanto não demonstrado que o entendimento não está pacificado no mesmo sentido do acórdão recorrido, ou que os precedentes utilizados não se aplicariam ao caso sob exame.
+Esclareça-se que, em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica de todos os pontos analisados na decisão recorrida, sob pena de não conhecimento, por ausência de cumprimento dos requisitos exigidos nos artigos 932, III, e 1.021, § 1º, do CPC, segundo o qual, não se conhece do agravo que não ataca especificamente todos os fundamentos da decisão agravada.
+A propósito, ratificou o referido entendimento o recente precedente desta Corte Especial, firmado por ocasião do julgamento dos EAREsp n. 746.775/PR, do qual foi relator para acórdão o eminente Ministro Luis Felipe Salomão.
+Na ocasião, o Colegiado, por maioria, decidiu que não há possibilidade de impugnação parcial da decisão que deixa de admitir o recurso especial, uma vez que implicaria exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em manifestar-se no momento oportuno, pois o conhecimento do agravo obriga esta Corte Superior a conhecer de todos os fundamentos do recurso especial.
+Assim sendo, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+ ..
+Desse modo, totalmente destituída de pertinência mencionada formulação, uma vez que não se ajusta aos estritos limites de atuação dos embargos, os quais se destinam, exclusivamente, à correção de eventual omissão, contradição, obscuridade ou erro material do julgado.
+Conclui-se, portanto, que a pretensão da parte embargante é unicamente o rejulgamento da causa, finalidade à qual não se presta a via eleita.
+Nesse sentido, o seguinte precedente desta Corte Superior: EDcl no AgRg nos EREsp n. 1.213.226/SC, Corte Especial, DJe de 22/11/2016).
+No que se refere à aplicação da multa do artigo 1.021, § 4º, do CPC, a Segunda Seção desta Corte Superior definiu que sua aplicação " ..  pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória  .. " (AgInt nos EREsp n. 1.120.356/RS, Segunda Seção, DJe de 29/8/2016).
+Com efeito, observa-se que a parte ora embargante, nas razões do agravo interno (e-STJ fls. 1.381/1.388), limitou-se a repisar as alegações do recurso especial e do agravo em recurso especial, bem como insistiu na alegação protelatória da inaplicabilidade do fundamento referente à aplicação, por analogia, do verbete sumular n. 182 desta Corte Superior.
+Ademais, a parte ora embargante foi informada, quando da decisão singular, que a " ..  interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15  .. " (e-STJ fls. 1.376/1.377).
+Nesse contexto, verifica-se irretocável a imposição da multa do artigo 1.021, § 4º, do CPC, quando do julgamento do agravo interno, pelos fundamentos supracitados.
+DISPOSITIVO
+Forte nessas razões, REJEITO os embargos de declaração.
