@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto contra o Tribunal de Justiça de Minas Gerais.
+O recorrente "foi preso em Flagrante, no dia 11/01/2024, em razão da suposta prática do Crime de Tráfico de Drogas" (fl. 96).
+Nas razões de seu recurso, argumenta, em suma, com a ausência dos requisitos do art. 312 do CPP, além da ilegalidade na busca pessoal, requerendo, liminarmente e no mérito, a revogação da prisão preventiva ou a sua substituição pelas medidas cautelares previstas no art. 319 da mesma lei processual.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+De início, o tema relativo à ilegalidade da busca pessoal não foi efetivamente analisado pelo Tribunal local, expondo aquela Corte, no acórdão recorrido, tão somente a dinâmica dos fatos em que ocorreu a prisão em flagrante (fl. 96).
+Ademais, "em relação à alegação de desproporcionalidade da prisão em cotejo à futura pena a ser aplicada, trata-se de prognóstico que somente será confirmado após a conclusão do julgamento da ação penal, não sendo possível inferir, nesse momento processual e na estreita via ora adotada, o eventual regime prisional a ser fixado em caso de condenação (e consequente violação do princípio da homogeneidade)." (AgRg no HC n. 887.338/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+No mais, não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A decisão que decretou a prisão preventiva teve a seguinte fundamentação (fls. 43-44):
+ ..  Conforme depoimento do condutor do APF, foram realizadas buscas no veículo do autuado quando encontraram três barras de substância semelhante a Skunk embaixo do capô do FIAT/PALIO.
+Segundo apurado, os policiais receberam informes no sentido de o autuado estava realizando tráfico de drogas.
+Por fim, que dialogaram com autuado e ele informou que a droga seria transportada a pedido de um indivíduo conhecido como "MT".
+Em seu depoimento em sede policial, o autuado informou que foi contatado para fazer uma encomenda, tendo conhecimento de que a encomenda se tratava de drogas, noticiando ainda que receberia o importe de R$ 600,00 (seiscentos) reais pelo serviço.
+No caso dos autos, não obstante a nova sistemática, entendo que a prisão em flagrante do autuado deverá ser convertida em prisão preventiva, para a garantia da ordem pública, já que, embora seja primário, como visto, foi encontrada grande quantidade de drogas com o indiciado, versando-se ainda de tóxicos de alto poder estupefaciente.
+Por oportuno, no exame preliminar de drogas (ID.10148613651) concluiu-se que "Realizadas as análises preliminares constatou-se que o material COMPORTOU-SE como o vegetal Cannabis sativa L., popularmente conhecido como MACONHA."
+Assim, diante de um juízo de probabilidade, leva-se à conclusão da possibilidade de reiteração da prática criminosa, a qual se deve coibir.
+ ..
+Registre-se que a tráfico de drogas é crime que assola a sociedade e traz diversos outros contornos, especialmente o outros crimes.
+E, no caso dos autos, como relatado acima, trata-se de indivíduo que havia informações do tráfico, em investigação preliminar e estava transportando significativa quantidade de drogas, mais forte que maconha, escondida no veículo. Ademais, atualmente, "as chamadas mulas" fazem papel de suma importância para o tráfico e ainda blindam outras pessoas ligadas. ..
+In casu, verifica-se a presença de fundamentos idôneos à manutenção da prisão cautelar, a bem da ordem pública, diante da gravidade concreta da conduta, pois apontado que o ora recorrente "estava transportando significativa quantidade de drogas, mais forte que maconha, escondida no veículo", qual seja, "1,569kg de maconha, na variação "skunk"" (fl. 98).
+"Embora não sirvam fundamentos genéricos, seja referente ao dano social gerado por tráfico, por ser crime hediondo, ou da necessidade de resposta judicial à sociedade, para a prisão, podem a periculosidade e os riscos sociais justificarem a custódia cautelar no caso de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade da droga e, no caso sob análise, foram apreendidos 185,39g de cocaína, 70,55g de crack e 567,71g de maconha, o que evidencia fundamentação idônea para a prisão preventiva." (AgRg no HC n. 860.918/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 18/3/2024, DJe de 21/3/2024).
+Por fim, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, porquanto insuficientes para resguardar a ordem pública. A esse respeito: AgRg no HC n. 801.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
