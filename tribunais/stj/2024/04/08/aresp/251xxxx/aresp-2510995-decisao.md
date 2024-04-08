@@ -1,0 +1,20 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por KENDSON HONORINO BANDEIRA, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: rescisão contratual ajuizada pelo agravante, em face de CIRO VERNER DE PAULA NUNES, em virtude de instrumento particular de compra e venda de imóvel firmado entre as partes.
+Sentença: julgou improcedente o pedido inicial e julgou procedentes os pedidos reconvencionais para condenar o agravante/reconvindo ao pagamento de 10% sobre o valor atualizado da causa, bem como ao pagamento dos prejuízos suportados pelo agravado.
+Acórdão: negou provimento à apelação interposta pelo agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. PRELIMINARES CORRELATAS A AUSÊNCIA DE CONEXÃO E NULIDADE. REJEIÇÃO. CONTRATO DE COMPRA E VENDA COM CLÁUSULA DE IRRETRATABILIDADE E IRREVOGABILIDADE. IMPOSSIBILIDADE DE DESISTÊNCIA DO PACTO PELOS CONTRATANTES. IMPROCEDÊNCIA DO PEDIDO DE RESCISÃO.
+- Tratando-se de ações cujas matérias são correlatas e afetas à mesma relação de compra e venda e causa de desistência, cumpre manter o reconhecimento da conexão, a fim de evitar decisões conflitantes.
+- Não havendo decisão além do pedido e havendo previsão em lei de aplicação de multa por litigância de má fé independente do pedido, cumpre rejeitar a preliminar de nulidade da condenação da multa por ocorrência de decisão ultra petita.
+- Não cabe à parte sair em defesa de direito de terceiros, ainda que por decorrência de possível nulidade a lhes afetarem, a teor do disposto no artigo 18 do Código de Processo Civil.
+- Tratando-se de contrato de compra e venda de imóvel, com cláusula de irretratabilidade e irrevogabilidade, não é possível ao vendedor proceder com a rescisão por simples vontade de resistência posterior ao negócio. (fl. 267, e-STJ)
+Decisão de admissibilidade do TJ/MG: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) ausência de prequestionamento dos arts. 114 e 115 do Código de Processo Civil; ii) necessidade de reexame de fatos e provas (Súmula 7/STJ).
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que: i) "não há que se falar em necessidade de reexame das provas e fatos dos autos para reforma do acórdão recorrido, visto que se trata de questão exclusivamente de direito"; ii) "conforme demonstrado no Recurso Especial interposto, essa questão foi sim discutida pelas instâncias ordinárias que, entretanto, deixaram de aplicar os dispositivos legais mencionados"; iii) "não restam dúvidas, portanto, que os artigos 114 e 115 do CPC foram prequestionados. Entretanto, mesmo que assim não se entenda, o que se admite apenas em virtude do princípio da eventualidade, impositiva a admissão do recurso especial por violação ao artigo 506 do CPC."
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice: i) ausência de prequestionamento dos arts. 114 e 115 do Código de Processo Civil.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro para 17% os honorários fixados anteriormente, ressalvada eventual concessão da gratuidade da justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
