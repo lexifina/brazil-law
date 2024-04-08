@@ -1,0 +1,90 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Moura Ribeiro.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  DIREITO  CIVIL.  PROCESSO  CIVIL.  CONTRATO  DE  DISTRIBUIÇÃO.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  INEXISTÊNCIA.  INCOMPETÊNCIA  TERRITORIAL.  REEXAME  FÁTICO-PROBATÓRIO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.  TUTELA  DE  URGÊNCIA.  INDEFERIMENTO.  SÚMULA  Nº  735/STF.  MATÉRIA  FÁTICO-PROBATÓRIA.  IMPOSSIBILIDADE.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda  que  de  forma  sucinta,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2.  É  inviável  rever  o  entendimento  firmado  pelas  instâncias  ordinárias  sem  a  análise  dos  fatos  e  das  provas  da  causa,  o  que  atrai  a  incidência  da  Súmula  nº  7/STJ.
+3.  O  Superior  Tribunal  de  Justiça  entende  que,  em  regra,  não  é  cabível  recurso  especial  para  reexaminar  decisão  que  defere  ou  indefere  liminar  ou  antecipação  de  tutela , tendo em vista a  natureza  precária  da  decisão,  sujeita  à  modificação  a  qualquer  tempo  (Súmula  nº  735/STF).
+4.  No  caso,  o  acolhimento  da  pretensão  recursal  demandaria  o  revolvimento  do  acervo  fático-probatório  dos  autos,  procedimento  inviável  ante  a  natureza  excepcional  da  via  eleita,  conforme  dispõe  a  Súmula  nº  7/STJ.
+5.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  SPAL  INDÚSTRIA  BRASILEIRA  DE  BEBIDAS  S.A.  contra  a  decisão  desta  relatoria  que  conheceu  do  agravo  para  conhecer  parcialmente  do  recurso  especial  e,  nessa  extensão,  negar-lhe  provimento devido aos  seguintes  fundamentos:
+a)  inexistência  de  negativa  de  prestação  jurisdicional;
+b)  incidência  do  óbice  da  Súmula  nº  7/STJ  em  relação  à  preliminar  de  incompetência  territorial;
+c)  aplicação  da  Súmula  nº  735/STF,  e
+d)  incidência  do  Súmula  nº  7/STJ  acerca  do  mérito  da  demanda  e  da  demonstração  da  probabilidade  do  direito  e  do  perigo  da  demora  (fls.  768-773  e-STJ).
+Em  suas  razões  (fls.  777-796  e-STJ),  a  recorrente  reitera  a  tese  de  negativa  de  prestação  jurisdicional  ao  argumento  de  que  o  tribunal  de  origem  não  se  manifestou  acerca  de  pontos  imprescindíveis  para  o  deslinde  da  controvérsia.
+Afirma  que desnecessária a análise  de  fatos  e  provas  em  relação  ao  foro  de  eleição.
+Alega  que  a  hipótese  não  atrai  a  aplicação  da  Súmula  nº  735/STF,  por  estar suficientemente  demonstrado  o  não  preenchimento  dos  requisitos  autorizadores  da  tutela  de  urgência.
+Sustenta  que  não  pode
+"(..)  ser  compelida  por  determinação  judicial  a  manter  um  contrato  contra  a  sua  vontade  e  a  suportar  graves  prejuízos  e  impactos  operacionais  decorrentes  do  contrato  que  foi  encerrado  legalmente  pelo  decurso  do  prazo  avençado  entre  as  partes"  (fl.  793  e-STJ).
+Aduz  ser  incontroverso  que  "(..)  o  contrato  firmado  entre  as  partes  contém  cláusula  resolutiva  expressa  de  vigência  limitada  no  tempo,  cláusula  essa  que por  10  (dez  anos)  contou  com  a  aquiescência  da  Agravada"  (fl.  793  e-STJ).
+A  parte  contrária  apresentou  impugnação  às  fls.  800-807  (e-STJ).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  DIREITO  CIVIL.  PROCESSO  CIVIL.  CONTRATO  DE  DISTRIBUIÇÃO.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  INEXISTÊNCIA.  INCOMPETÊNCIA  TERRITORIAL.  REEXAME  FÁTICO-PROBATÓRIO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.  TUTELA  DE  URGÊNCIA.  INDEFERIMENTO.  SÚMULA  Nº  735/STF.  MATÉRIA  FÁTICO-PROBATÓRIA.  IMPOSSIBILIDADE.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda  que  de  forma  sucinta,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2.  É  inviável  rever  o  entendimento  firmado  pelas  instâncias  ordinárias  sem  a  análise  dos  fatos  e  das  provas  da  causa,  o  que  atrai  a  incidência  da  Súmula  nº  7/STJ.
+3.  O  Superior  Tribunal  de  Justiça  entende  que,  em  regra,  não  é  cabível  recurso  especial  para  reexaminar  decisão  que  defere  ou  indefere  liminar  ou  antecipação  de  tutela , tendo em vista a  natureza  precária  da  decisão,  sujeita  à  modificação  a  qualquer  tempo  (Súmula  nº  735/STF).
+4.  No  caso,  o  acolhimento  da  pretensão  recursal  demandaria  o  revolvimento  do  acervo  fático-probatório  dos  autos,  procedimento  inviável  ante  a  natureza  excepcional  da  via  eleita,  conforme  dispõe  a  Súmula  nº  7/STJ.
+5.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Como  já  asseverado  na  decisão  atacada,  inexiste  a  alegada  negativa  de  prestação  jurisdicional,  pois  o  tribunal  de  origem  motivou  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entendeu  cabível  à  hipótese.
+Não  há  falar,  portanto,  em  existência  de  omissão  apenas  pelo  fato  de  o  julgado  recorrido  ter  decidido  em  sentido  contrário  à  pretensão  da  parte.
+A  propósito:
+"PROCESSUAL  CIVIL.  EMBARGOS  DE  DECLARAÇÃO.  OFENSA  AO  ART.  1.022  DO  CPC/2015.  MANIFESTO  CARÁTER  INFRINGENTE.  IMPOSSIBILIDADE.
+1.  Os  Embargos  de  Declaração  não  merecem  prosperar,  pois  manifestam  nítido  caráter  infringente,  não  apontando  quaisquer  das  hipóteses  do  art.  1022  do  CPC/2015.
+2.  A  controvérsia  foi  correta  e  integralmente  solucionada,  com  fundamento  suficiente  e  em  consonância  com  entendimento  deste  Tribunal,  razão  por  que  não  se  configura  erro  material,  omissão,  contradição  ou  obscuridade,  tampouco  negativa  de  prestação  jurisdicional.
+3.  Embargos  de  Declaração  rejeitados"
+(EDcl  no  AgRg  no  AREsp  840.702/SP,  Rel.  Ministro  HERMAN  BENJAMIN,  Segunda  Turma,  julgado  em  9/8/2016,  DJe  8/9/2016).
+Ademais,  a  preliminar  de  incompetência  territorial  foi  rejeitada  pelo  tribunal  de  origem  com  base  nos  seguintes  fundamentos:
+"(..)
+A  agravante  suscitou  preliminar  de  incompetência  do  juízo  a  quo  para  apreciação  do  pedido  de  tutela  formulado  pela  agravada.  Argumentou,  para  tanto,  haver  cláusula  de  eleição  de  foro  no  contrato  firmado  entre  as  partes,  com  previsão  de  que  o  foro  eleito  é  o  da  Comarca  de  Belo  Horizonte.  Alegou,  ainda,  não  incidir  o  CDC  no  caso  em  tela.
+Verifica-se  que  o  contrato  de  distribuição  firmado  entre  as  litigantes  contém  cláusula  de  eleição  de  foro.  Em  referida  cláusula,  está  estatuído  que  o  foro  de  eleição  para  dirimir  dúvidas  provenientes  do  pacto  é  o  da  Comarca  de  Belo  Horizonte.
+A  possibilidade  de  estipulação  da  cláusula  de  eleição  de  foro  está  prevista  no  art.  63,  in  fine,  do  Código  de  Processo  Civil.
+Em  regra,  tratando-se  de  livre  pactuação,  deve  ser  considerada  válida  a  cláusula  de  eleição  de  foro  prevista  no  contrato  celebrado.  Entretanto,  há  que  se  ter  em  mente  que  tal  preceito  não  é  absoluto,  comportando  exceções  a  depender  do  caso  concreto,  podendo  ser  a  competência  modificada  quando  referida  cláusula,  contida  em  contrato  de  adesão  ou  oriunda  de  relação  de  consumo,  apresentar-se  manifestamente  abusiva  em  relação  a  uma  das  partes.
+Sobre  o  tema,  adverte  Daniel  Amorim  Assumpção  Neves,  in  verbis:
+(..)
+Conquanto  a  regra  contemple,  em  um  primeiro  momento,  a  tutela  dos  interesses  da  parte  ré,  à  luz  da  isonomia  e  da  igualdade  de  tratamento  das  partes  em  juízo  (art.  139,  inciso  I,  do  Código  de  Processo  Civil),  há  de  se  aplicá-lo  em  favor  da  parte  autora,  se  a  prevalência  da  eleição  de  foro  resultar  inviabilidade  ou  especial  dificuldade  de  seu  acesso  ao  Poder  Judiciário.
+A  questão  referente  à  aplicação  do  CDC  ao  caso  em  tela  deverá  ser  apreciada  pelo  juízo  a  quo  oportunamente,  sob  pena  de  supressão  de  instância.  De  igual  forma,  o  direito  ou  não  da  parte  autora  ao  ressarcimento  dos  danos  que  afirma  ter  sofrido  deverá  ser  apreciado  oportunamente  pelo  juízo  a  quo.
+Tem-se,  todavia,  que  o  instrumento  contratual  firmado  entre  as  partes  se  caracteriza  como  de  adesão,  já  que  à  agravada  cabia  aceitar  o  contrato  de  distribuição  com  a  cláusula  de  eleição  de  foro  já  estabelecida  ou  optar  por  não  firmar  o  negócio.
+Na  espécie  em  apreço,  resta  evidente  a  situação  de  hipossuficiência  da  agravada  quando  comparada  à  distribuidora  de  bebias  de  renomadas  marcas  no  mercado,  notadamente  se  observado  o  porte  econômico  das  duas  empresas.
+Ademais,  a  remessa  dos  autos  para  a  Comarca  de  Belo  Horizonte  causaria  manifesto  prejuízo  à  agravada  no  tocante  ao  acesso  à  Justiça,  tendo  em  vista  que  ela  teria  que  arcar  com  todos  os  custos  de  locomoção,  assim  como  os  decorrentes  da  contratação  de  advogados  na  capital.  Não  há  como  prevalecer  o  foro  de  eleição  estipulado  em  contrato  assinado  por  pessoas  jurídicas  se  a  aderente  não  pôde  discutir  a  referida  cláusula  por  se  tratar  de  instrumento  de  adesão,  que  beneficia  somente  um  dos  contratantes.
+Dessa  forma,  suficientemente  caracterizada,  in  casu,  a  hipossuficiência  da  agravada  em  face  da  agravante,  bem  como  o  prejuízo  da  recorrida  no  seu  acesso  à  Justiça,  deve  ser  afastada  a  cláusula  de  eleição  de  foro,  rejeitando-se,  por  consequência,  a  preliminar  de  incompetência  territorial"  (fls.  566-568  e-STJ).
+Assim,  rever  o  entendimento  firmado  pelas  instâncias  ordinárias,  de  que  a  hipótese  é  de  contrato  de  adesão  e  que  a  manutenção  da  cláusula  de  eleição  de  foro  comprometeria  o  acesso  da agravada à  justiça,  demandaria  a  análise  de  fatos  e  de  provas  dos  autos,  providência inviável  no  recurso  especial  devido ao  óbice  da  Súmula  nº  7/STJ.
+Confiram-se:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  AGRAVO  DE  INSTRUMENTO.  CLÁUSULA  DE  ELEIÇÃO  DE  FORO.  NÃO  OCORRÊNCIA  DE  VIOLAÇÃO  AO  ART.  63  DO  CPC/2015.  ACÓRDÃO  ESTADUAL  EM  CONSONÂNCIA  COM  JURISPRUDÊNCIA  DO  STJ.  SÚMULA  83/STJ.  REINTERPRETAÇÃO  DE  CLÁUSULAS  CONTRATUAIS  E  REVOLVIMENTO  DE  MATÉRIA  FÁTICO-PROBATÓRIA.  INCIDÊNCIA  DAS  SÚMULAS  5  E  7.  AGRAVO  DESPROVIDO.
+1.  A  jurisprudência  desta  Corte  é  no  sentido  de  que  "a  cláusula  de  eleição  de  foro  prevista  em  contrato  de  adesão  pode  ser  afastada,  quando  comprovada  a  hipossuficiência  da  parte  e  a  dificuldade  de  acesso  à  Justiça,  como  forma  de  manter  o  equilíbrio  contratual".  Precedentes.
+2.  No  caso,  o  Tribunal  de  Justiça,  com  arrimo  no  acervo  fático-probatório  carreado  aos  autos,  concluiu  que  a  manutenção  do  foro  de  eleição  comprometeria  ou  impediria  o  acesso  à  justiça  por  parte  da  ora  agravada.
+3.  Estando  o  acórdão  recorrido  em  consonância  com  a  jurisprudência  do  STJ,  o  apelo  nobre  encontra  óbice  na  Súmula  83/STJ,  aplicável  ao  recurso  especial  tanto  pela  alínea  a  como  pela  alínea  c  do  permissivo  constitucional.
+4.  Agravo  interno  a  que  se  nega  provimento"
+(AgInt  no  AREsp  2.250.384/BA,  Relator  Ministro  RAUL  ARAÚJO,  Quarta  Turma,  julgado  em  29/5/2023,  DJe  de  7/6/2023).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL  -  AUTOS  DE  AGRAVO  DE  INSTRUMENTO  -  DECISÃO  MONOCRÁTICA  QUE  NEGOU  PROVIMENTO  AO  APELO.  INSURGÊNCIA  DA  PARTE  AGRAVADA.
+1.  As  questões  postas  em  discussão  foram  dirimidas  pelo  Tribunal  de  origem  de  forma  suficiente,  fundamentada  e  sem  omissões,  devendo  ser  afastada  a  alegada  violação  aos  artigos  489  e  1.022  do  CPC/15.
+2.  A  ausência  de  enfrentamento  da  matéria  inserta  no  dispositivo  apontado  como  violado  pelo  Tribunal  de  origem  impede  o  acesso  à  instância  especial,  porquanto  não  preenchido  o  requisito  constitucional  do  prequestionamento.  Incidência  das  Súmulas  211  do  STJ  e  282  do  STF.
+3.  A  jurisprudência  deste  Tribunal  Superior  considera  possível  o  afastamento  da  cláusula  de  eleição  de  foro  estipulada  em  contrato  de  adesão  a  fim  de  que  se  mantenha  o  equilíbrio  contratual,  quando  evidenciada  a  hipossuficiência  da  parte  e  a  dificuldade  de  acesso  à  Justiça.  Súmula  83/STJ.
+3.1.  A  reforma  do  acórdão  atacado,  no  ponto,  ensejaria  em  rediscussão  de  matéria  fática  e  reapreciação  de  cláusulas  contratuais,  incidindo,  na  espécie,  o  óbice  das  Súmulas  5  e  7  do  STJ.
+4.  Agravo  interno  desprovido"
+(AgInt  no  AREsp  2.214.857/CE,  Relator  Ministro  MARCO  BUZZI,  Quarta  Turma,  julgado  em  6/3/2023,  DJe  de  10/3/2023).
+De  fato,  verifica-se  que  o  recurso  especial  é  originário  de  agravo  de  instrumento  interposto  contra  a  decisão  que  deferiu  a  antecipação  de  tutela  requerida,  para  determinar  a  manutenção  do  Contrato  de  Distribuição  firmado  entre  as  partes.
+A  questão  foi  dirimida  nos seguintes  termos:
+"(..)
+Sopesada  a  amplitude  do  pleito  inicial,  a  controvérsia  não  abarca  tão  somente  discussão  quanto  à  regularidade  do  encerramento  do  contrato  litigioso,  mas  os  efeitos  daí  decorrentes  e  os  supostos  prejuízos  provocados  à  agravada.
+A  boa-fé  da  recorrente,  o  direito  da  parte  recorrida  ao  ressarcimento,  o  montante  por  ela  investido  e  a  suficiência  do  prazo  contratual  para  obtenção  de  retorno  financeiro  são  questões  afetas  ao  mérito  da  tutela  jurisdicional  definitiva.
+Nesse  contexto,  a  produção  dos  efeitos  atinentes  ao  encerramento  do  contrato  de  distribuição  mantido  ao  longo  vários  anos  entre  as  partes  ou  até  mesmo  a  alteração  de  suas  cláusulas  segundo  parâmetros  que,  segundo  a  recorrida,  seriam  abusivos,  mostra-se  por  demais  gravoso  e  precipitado.
+Ademais,  ao  que  tudo  indica,  a  agravada  mantém  a  contento  a  prestação  do  serviço  de  distribuição,  inclusive  porque  a  recorrente  não  buscou  o  encerramento  do  contrato  de  distribuição  por  motivo  de  inadimplemento  da  recorrida,  fato  que  reforça  a  compreensão  de  que  não  haverá  prejuízo  reverso  com  a  manutenção  da  liminar  concedida.
+Demonstrado,  pela  parte  autora,  ora  recorrida,  a  probabilidade  do  direito  que  se  busca  tutelar  e  o  perigo  da  demora,  a  manutenção  da  decisão  que  concedeu  a  medida  liminar  postulada  é  medida  que  se  impõe"  (fl.  570  e-STJ  -  grifou-se).
+Com  efeito,  a  jurisprudência  desta  Corte,  em  atendimento  ao  disposto  na  Súmula  nº  735/STF,  entende  que,  em  regra,  não  é  cabível  recurso  especial  para  reexaminar  decisão  que  defere  ou  indefere  liminar  ou  antecipação  de  tutela,  haja  vista  a  natureza  precária  da  decisão,  sujeita  à  modificação  a  qualquer  tempo:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  AUTÔNOMA  DE  ANULAÇÃO  DE  ARREMATAÇÃO  C/C  ANULAÇÃO  DE  HIPOTECA.  PEDIDOS  DE  SUSPENSÃO  TEMPORÁRIA  DOS  EFEITOS  DA  ARREMATAÇÃO,  DE  REINTEGRAÇÃO  DE  POSSE  NO  IMÓVEL  E  DE  AVERBAÇÃO  DA  AÇÃO  NA  MATRÍCULA  DO  BEM.  MEDIDA  CAUTELAR  DEFERIDA.  REFORMA  EM  AGRAVO  DE  INSTRUMENTO.  RECURSO  ESPECIAL  CONTRA  DECISÃO  LIMINAR.  NÃO  CABIMENTO.  APLICAÇÃO  DA  SÚMULA  N.  735  DO  STF  POR  ANALOGIA.  AGRAVO  INTERNO  DESPROVIDO.
+1.  Em  razão  da  natureza  precária  da  decisão  que  defere  ou  indefere  liminar  ou  daquela  que  julga  a  antecipação  da  tutela,  é  inadequada  a  interposição  de  recurso  especial  que  tenha  por  objetivo  rediscutir  a  correção  do  mérito  das  referidas  decisões,  por  não  se  tratar  de  pronunciamento  definitivo  do  tribunal  de  origem,  atraindo,  por  analogia,  a  incidência  da  Súmula  n.  735  do  STF.
+2.  O  Superior  Tribunal  de  Justiça,  excepcionalmente,  admite  a  interposição  de  recurso  especial  contra  acórdão  que  decide  sobre  pedido  de  antecipação  da  tutela,  para  tão  somente  discutir  eventual  ofensa  aos  próprios  dispositivos  legais  que  disciplinam  a  matéria  da  tutela  provisória  descrita  no  art.  300  do  CPC.
+3.  Agravo  interno  provido"
+(AgInt  no  AREsp  2.177.076/MT,  Relator  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  Quarta  Turma,  julgado  em  16/5/2023,  REPDJe  de  15/6/2023,  DJe  de  14/6/2023).
+Além  disso,  verifica-se  que  as  conclusões  do  tribunal  de  origem  acerca  do  mérito  da  demanda  e  da  demonstração  da  probabilidade  do  direito  e  do  perigo  da  demora  decorreram  inquestionavelmente  da  análise  do  conjunto  fático-probatório  carreado  aos  autos,  o  que  se  mostra  inviável  ante  a  natureza  excepcional  da  via  eleita,  conforme  dispõe  a  Súmula  nº  7/STJ.
+Assim,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
