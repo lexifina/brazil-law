@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento na alínea "a" do permissivo constitucional.
+O recorrente foi condenado como incurso no art. 171, § 3º, do Código Penal, a 1 ano e 4 meses de reclusão, em regime aberto, e 10 dias-multa, substituída a pena privativa de liberdade por duas restritivas de direitos.
+Em suas razões recursais, aponta a defesa violação do art. 65, inc. III, d, do CP, ao argumento de que a atenuante da confissão espontânea deveria ter sido aplicada na dosimetria, ainda que reduzida a pena aquém do mínimo legal, com a superação do enunciado n. 231/STJ, cuja discussão inclusive foi objeto de afetação perante a Terceira Seção/STJ.
+Requer o provimento do recurso especial para, ao final, ser reduzida a pena ou, de forma subsidiária, seja determinado o sobrestamento do feito até o julgamento do recurso especial repetitivo pela Terceira Seção/STJ.
+Apresentadas as contrarrazões, o Ministério Público Federal manifestou-se pelo não conhecimento do recurso especial.
+Acerca da pretensão aqui trazida, o Tribunal estadual assim se manifestou (fl. 632):
+ ..  Na primeira e na segunda etapas da dosimetria, foi fixada pena privativa de liberdade no mínimo legal, correspondente a 01 (um) ano de reclusão. Tratando-se de recurso exclusivo da defesa, fica assim mantida apena nessas etapas.
+Inviável a atenuação da pena abaixo do mínimo legal, como requer a defesa, mesmo em face da confissão. O pedido recursal é contrário ao entendimento consignado pelo Superior Tribunal de Justiça na Súmula nº 231 de sua jurisprudência ("a incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal"). A confissão não excepciona o entendimento sumulado, mas, ao invés, constitui uma das hipóteses que originou sua formulação (v. g., STJ, REsp nº 146.056, Quinta Turma, Rel. Ministro Felix Fischer, julgado em 07/10/1997, item III da ementa). ..
+Como visto, ressaltou o Tribunal local que " o  pedido recursal é contrário ao entendimento consignado pelo Superior Tribunal de Justiça na Súmula nº 231 de sua jurisprudência ("a incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal"). A confissão não excepciona o entendimento sumulado, mas, ao invés, constitui uma das hipóteses que originou sua formulação", entendimento esse que vai ao encontro da jurisprudência desta Corte. A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESCAMINHO. DOSIMETRIA. ATENUANTE DA CONFISSÃO ESPONTÂNEA. REDUÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL. IMPOSSIBILIDADE. SÚMULA N. 231/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A incidência de circunstância atenuante, como a confissão espontânea, não pode conduzir à redução da pena para aquém do mínimo legal, conforme dispõe a Súmula n. 231 deste Tribunal Superior.
+2. "A incidência do verbete n. 231/STJ permanece firme na jurisprudência desta Corte e o Agravante não trouxe argumento idôneo que, em tese, poderia justificar uma modificação do entendimento acerca do tema (overruling)" (AgRg no AREsp n. 2.243.342/PA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/5/2023, DJe de 9/5/2023).
+3. Agravo regimental desprovido. (AgRg no REsp n. 2.094.324/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+Por fim, " c onquanto a Sexta Turma tenha aprovado a proposta de revisão da jurisprudência consolidada na Súmula n. 231/STJ, remetendo, assim, os autos dos Recursos Especiais n.s 2.057.181/SE, 2.052.085/TO e 1.869.764/MS à Terceira Seção, até o momento, não houve determinação de sobrestamento dos feitos pelo então relator, Ministro Rogerio Schietti Cruz, como permitido no § 1º do art. 125 do Regimento Interno do Superior Tribunal de Justiça. Desta feita, não há óbice para o julgamento do presente feito (AgRg no HC n. 862.440/RS, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 12/12/2023)." (AgRg no HC n. 844.900/ES, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 4/3/2024, DJe de 11/3/2024).
+Incide, in casu, o enunciado da Súmula n. 83/STJ.
+Ante o exposto, não conheço o recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
