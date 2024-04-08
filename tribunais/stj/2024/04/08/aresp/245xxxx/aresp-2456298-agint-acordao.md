@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. DÍVIDA ATIVA. AGRAVO DE INSTRUMENTO. SUSPENSÃO DA EXECUÇÃO FISCAL. AUSÊNCIA DE PREQUESTIONAMENTO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento objetivando a suspensão da tramitação da execução fiscal. No Tribunal a quo, negou-se provimento ao agravo de instrumento.
+II - Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+III - Conforme entendimento desta Corte, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado. Nesse sentido: AgInt no AREsp 1.234.093/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe 3/5/2018; AgInt no AREsp 1.173.531/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2018, DJe 26/3/2018.
+IV - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que julgou agravo em recurso especial interposto por Vida Bela Gestao Patrimonial Ltda. contra decisão que inadmitiu recurso especial com fundamento no art. 105, III, a, da Constituição Federal.
+A decisão recorrida tem o seguin te dispositivo: "Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Ou seja, o que se deve avaliar, muito além da mera menção expressa a um dispositivo de lei federal, é se o Tribunal a quo se debruçou sobre a tese de fundo que se está submetendo a este STJ.
+In casu, a tese subjacente do Agravo de Instrumento que culminou neste Agravo Interno em REsp é a necessidade de manutenção da suspensão da execução até o trânsito em julgado da decisão que apreciou o incidente de desconsideração da personalidade jurídica.
+Nesse sentido, a ora Agravante submeteu sua tese ao TRF-4 sustentando seu pleito na ausência de certeza do título constituído com base no IDPJ, bem como na regra esculpida no art. 134, § 3º, do CPC, que determina expressamente a manutenção da suspensão do feito executivo -precisamente em razão da falta de certeza do título executivo(fls . 06-09).
+Apreciando a matéria, a 1ª Turma do TRF-4 negou provimento ao pleito, dando outra leitura à tese subjacente, ao entender que não deveria ser mantida a suspensão até o trânsito em julgado porque o agravo de instrumento cabível contra a decisão que julga o IDPJ careceria de efeito suspensivo automático, conforme se depreende do voto proferido pelo Desembargador Relator Alexandre Rossato Ávila (fls. XX):
+ ..
+Há, portanto, um diálogo fundamentado entre a parte então Agravante e o Tribunal a quo, acerca de uma mesma tese subjacente: necessidade de manutenção da suspensão até o trânsito em julgado da decisão que aprecia o IDPJ.
+O tão mero fato de os Desembargadores do Tribunal a quo darem outra leitura à tese subjacente do feito não ilide de qualquer modo o prequestionamento da matéria.
+ ..
+Esposando este entendimento acerca do prequestionamento, tanto esta Corte Superior quanto o Supremo Tribunal Federal já prolataram decisões asseverando que o requisito do prequestionamento exige apenas a manifestação no acórdão quanto às matérias que se entende pertinentes ao pleito, conforme se observa:
+ ..
+Conquanto os julgadores colacionados digam respeito ao "prequestionamento implícito", denotam claramente que o requisito para conhecimento de recurso nas Instâncias Excepcionais é tão somente a apreciação da matéria de fundo pelo Tribunal a quo, o que inequivocamente ocorreu no caso em tela, pois, inclusive, os artigos de lei federal tidos por afrontados foram expressamente suscitados no acórdão impugnado.
+Por fim, há de se salientar que o quanto decidido pela 2ª Turma desta Corte no AgInt no AREsp nº 1.582.679/DF -suscitado pela Ministra Relatora -não se amolda ao caso em tela.
+Veja-se, naquela oportunidade foi reconhecida a ausência de prequestionamento porque o pleito da parte recorrente tratava-se de verdadeira inovação recursal, ou seja, fora submetido a este STJ um argumento novo não apreciado no acórdão recorrido.
+ ..
+Distingue-se, portanto, do caso em tela porque nestes autos há tão somente uma única tese subjacente, que foi devidamente apreciada pelo TRF-4, conquanto sob uma ótica equivocada, o que se pretendever corrigido por este STJ.
+Logo, foi suficientemente atendido o requisito do prequestionamento, pois a matéria carreada no Recurso Especial da ora Agravante não consubstancia inovação recursal, mas sim mera devolução da matéria objeto de debate no âmbito do TRF-4.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. DÍVIDA ATIVA. AGRAVO DE INSTRUMENTO. SUSPENSÃO DA EXECUÇÃO FISCAL. AUSÊNCIA DE PREQUESTIONAMENTO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento objetivando a suspensão da tramitação da execução fiscal. No Tribunal a quo, negou-se provimento ao agravo de instrumento.
+II - Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+III - Conforme entendimento desta Corte, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado. Nesse sentido: AgInt no AREsp 1.234.093/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe 3/5/2018; AgInt no AREsp 1.173.531/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2018, DJe 26/3/2018.
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Conforme entendimento desta Corte, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado. Nesse sentido: AgInt no AREsp 1.234.093/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe 3/5/2018; AgInt no AREsp 1.173.531/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2018, DJe 26/3/2018.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
