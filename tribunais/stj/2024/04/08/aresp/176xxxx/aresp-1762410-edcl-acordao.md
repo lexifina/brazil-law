@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  OMISSÃO  NÃO  VERIFICADA.  SEGUNDOS  EMBARGOS  DE  DECLARAÇÃO.  CARÁTER  PROTELATÓRIO.  MULTA.  ART.  1.026,  §  2º,  DO  CÓDIGO  DE  PROCESSO  CIVIL.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  sanar  omissão,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Evidenciado  o  caráter  manifestamente  protelatório,  ante  a  reiteração  em  novos  declaratórios  de  questões  já  apreciadas,  impõe-se  a  aplicação  da  multa  prevista  no  art.  1.026,  §  2º,  do  Código  de  Processo  Civil.
+3.  Embargos  de  declaração  rejeitados  com  aplicação  de  multa  de  1%  (um  por  cento)  sobre  o  valor  atualizado  da  causa.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  ZONA  SUL  DIAGNÓSTICOS  EIRELI  e  PAULO  SÉRGIO  MOREIRA  MUNIZ  ao  acórdão  assim  ementado:
+"EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  ART.  1.022  DO  CÓDIGO  DE  PROCESSO  CIVIL.  OMISSÃO.  INEXISTÊNCIA.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  declaratórios,  afigura-se  patente  o  intuito  infringente  da  irresignação,  que  objetiva  não  suprimir  omissão,  afastar  obscuridade,  eliminar  contradição  ou  sanar  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Embargos  de  declaração  rejeitados"  (e-STJ  fl.  1.651).
+Nas  presentes  razões  (e-STJ  fls.  1.658/1.668),  os  embargantes  insistem  na  tese  de  que  houve  omissão  quanto  à  litispendência  existente  e  sustentam a ocorrência  de  prequestionamento  ficto  e  implícito  do  art.  966,  V,  do  Código  de  Processo  Civil,  de  modo  que  as  Súmulas  nºs  7  e  211/STJ  devem  ser  afastadas  no  presente  caso.
+Afirmam  que  o  julgado  embargado  carece  de  fundamentação,  visto  que  a  motivação  per  relationem,  conquanto  não  proibida,  exige,  ainda  que  de  forma  mínima,  fundamentação  própria,  o  que  não  foi  observado  no  caso  dos  autos  com  a  rejeição  dos  declaratórios  anteriormente  opostos.
+Alegam  que  o  aresto  embargado  não  enfrentou  todos  os  pontos  suscitados  quanto  à  ocorrência  de  prequestionamento  implícito  e  ficto  do  art.  966,  V,  do  CPC,  não  havendo  falar  que  a  indicação  de  ofensa  ao  art.  1.022  do  CPC ,  no  recurso  especial,  ocorreu  de  forma  genérica.
+Aduz  em  que  a  litispendência  entre  o  feito  executivo  e  monitório  está  devidamente  demonstrada,  pois  as  dívidas  cobradas  em  ambas  são  oriundas  de  um  mesmo  contrato  firmado  entre  as  partes  ora  litigantes.
+Defendem  que  o  não  reconhecimento  da  litispendência  ensejará  posterior  ajuizamento  de  ação  rescisória.
+Discorrem  acerca  da  possibilidade  de  revaloração  jurídica  das  provas,  o  que  não  se  confunde  com  o  seu  reexame,  motivo  pelo qual  a  Súmula  nº  7/STJ  não  se  aplica  à  hipótese  em  apreço.
+Ao  final,  requerem  o  acolhimento  do  recurso.
+Devidamente  intimada,  a  parte  contrária  não  ofereceu  impugnação  (e-STJ  fl.  1.673).
+É  o  relatório.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  OMISSÃO  NÃO  VERIFICADA.  SEGUNDOS  EMBARGOS  DE  DECLARAÇÃO.  CARÁTER  PROTELATÓRIO.  MULTA.  ART.  1.026,  §  2º,  DO  CÓDIGO  DE  PROCESSO  CIVIL.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  sanar  omissão,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Evidenciado  o  caráter  manifestamente  protelatório,  ante  a  reiteração  em  novos  declaratórios  de  questões  já  apreciadas,  impõe-se  a  aplicação  da  multa  prevista  no  art.  1.026,  §  2º,  do  Código  de  Processo  Civil.
+3.  Embargos  de  declaração  rejeitados  com  aplicação  de  multa  de  1%  (um  por  cento)  sobre  o  valor  atualizado  da  causa.
+VOTO
+Não  prospera  a  inconformidade  veiculada  nos  presentes  aclaratórios.
+A  decisão  embargada  não  padece  de  nenhum  dos  vícios  ensejadores  dos  declaratórios  enumerados  no  art.  1.022  do  Código  de  Processo  Civil:  obscuridade,  contradição,  omissão  ou  erro  material.
+De  início,  esclareça-se  que  a  utilização  da  técnica  da  motivação  per  relationem  -  ou  por  remissão  -  para  os  fins  do  disposto  no  art.  93,  IX,  da  Constituição  Federal  e  no  art.  489  do  CPC  revela-se  legítima  à  luz  da  jurisprudência  desta  Corte  e  do  Supremo  Tribunal  Federal,  de  modo  que  não  se  pode  confundir  negativa  de  prestação  jurisdicional  ou  ausência  de  fundamentação  com  decisão  contrária  aos  interesses  da  parte.
+No  caso  dos  autos,  consoante  exaustivamente  já  relatado  em  decisões  anteriores,  restou  esclarecido  que  a  violação  do  art.  966,  V,  do  CPC  não  foi  objeto  de  exame  nas  instâncias  ordinárias,  nem sequer  de  modo  implícito  e,  ao  contrário  do  mencionado  pelos  embargantes,  no  recurso  especial  tal  questão  foi  disposta  de  forma  genérica  no  tópico  referente  à  ofensa  ao  artigo  1.022  do  CPC,  o  que  impede  o  reconhecimento  de  prequestionamento  ficto.
+Além disso,  o  art.  1.025  do  CPC  exige  que  o  tribunal  superior  reconheça  a  existência  de  algum  dos  vícios  elencados  no  art.  1.022  da  mesma  norma  para  reconhecer  o  prequestionamento  ficto,  o  que  não é o  caso  dos  autos.
+Com  efeito,  se  a  questão  da  existência,  ou  não  , de  litispendência  poderá  ser  melhor  elucidada  pelo  juiz  natural,  conforme  disposto  no  acórdão  proferido  na  origem,  não  seria  mesmo  o  caso  de  se  examinar,  neste  instante  processual,  matéria  atinente  à  ação  rescisória.
+Conforme  consignado  no  aresto  atacado,  o  tribunal  local  reconheceu  que, a partir do  exame  do  acervo  fático-probatório  ora  encartado  nos  autos,  não  há  elementos  que  demonstrem  a  existência  de  identidade  de  pedido  e  causa  de  pedir  entre  os  feitos  monitório  e  executivo  a  justificar  o  reconhecimento  de  litispendência.
+Nesse  cenário,  a  revisão  do  julgado  esbarra  no  óbice  da  Súmula  nº  7/STJ.
+Como  sabido,  a  errônea  valoração  da  prova  que  enseja  a  incursão  desta  Corte  na  questão  é  a  de  direito,  ou  seja,  quando  decorre  de  má  aplicação  de  regra  ou  princípio  no  campo  probatório,  e  não  que  se  colham  novas  conclusões  acerca  dos  elementos  informativos  do  processo.
+Nesse  contexto,  ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  sanar  omissão ,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+Estando  o  acórdão  impugnado  devidamente  fundamentado,  inadmissível  a  oposição  de  novos  embargos  de  declaração.
+Acrescenta-se,  ainda,  que,  evidenciado  o  caráter  manifestamente  protelatório,  ante  a  reiteração  em  novos  declaratórios  de  questões  já  apreciadas,  impõe-se  a  aplicação  da  multa  prevista  no  art.  1.026,  §  2º,  do  Código  de  Processo  Civil.
+A  propósito:
+"EMBARGOS  DE  DECLARAÇÃO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NOS  EMBARGOS  DE  DIVERGÊNCIA  NO  AGRAVO  NO  RECURSO  ESPECIAL.  AUSÊNCIA  DE  OMISSÃO,  CONTRADIÇÃO,  OBSCURIDADE  OU  ERRO  MATERIAL.  CARÁTER  PROTELATÓRIO.  MULTA.  APLICAÇÃO.  EMBARGOS  REJEITADOS.
+1.  Os  embargos  de  declaração  têm  como  objetivo  sanar  eventual  existência  de  obscuridade,  contradição,  omissão  ou  erro  material  (CPC/2015,  art.  1.022),  sendo  inadmissível  a  sua  oposição  para  rediscutir  questões  tratadas  e  devidamente  fundamentadas  na  decisão  embargada,  já  que  não  são  cabíveis  para  provocar  novo  julgamento  da  lide.
+2.  A  reiteração  de  argumentos,  nos  segundos  embargos  de  declaração,  já  repelidos  no  acórdão  anteriormente  proferido,  por  meio  de  fundamentos  claros  e  coerentes,  destoa  dos  deveres  de  lealdade  e  cooperação  que  norteiam  o  processo,  a  ensejar  a  imposição  da  multa  prevista  no  art.  1.026,  §  2º,  do  CPC  de  2015.
+3.  Embargos  de  declaração  rejeitados,  com  aplicação  de  multa"  (EDcl  nos  EDcl  no  AgInt  nos  EAREsp  1.621.423/PR,  Rel.  Ministro  RAUL  ARAÚJO,  Corte  Especial,  julgado  em  10/10/2023,  DJe  de  18/10/2023).
+Ante  o  exposto,  rejeito  os  embargos  de  declaração  e  condeno  os  embargantes  a  pagarem  ao  embargado  multa  de  1%  (um  por  cento)  sobre  o  valor  atualizado  da  causa,  nos  termos  do  art.  1.026,  §  2º,  do  Código  de  Processo  Civil,  advertindo-se  que,  na  reiteração  de  embargos  protelatórios,  esse  percentual  deverá  ser  elevado  ao  patamar  de  até  10%  (dez  por  cento).
+É  o  voto.
