@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  ART.  220  DO  CÓDIGO  DE  PROCESSO  CIVIL.  PUBLICAÇÃO.  POSSIBILIDADE.  PRAZO  RECURSAL.  CONTAGEM.  INTEMPESTIVIDADE.
+1.  O  art.  220  do  Código  de  Processo  Civil estabelece que,  entre  os  dias  20  de  dezembro  e  20  de  janeiro,  os  prazos  processuais  serão  suspensos,  o  que  não  obsta  a  prática  de  atos  processuais,  como,  por  exemplo,  a  intimação/publicação.
+2.  É  intempestivo  o  recurso  especial  protocolizado  após  o  prazo  de  15  (quinze)  dias,  de  acordo  com  o  art.  1.003,  §  5º,  c/c  art.  219,  caput,  do  CPC.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  ESTER  BRAZ  DE  OLIVEIRA  contra  a  decisão  da  Presidência  do  Superior  Tribunal  de  Justiça  que  não  conheceu  do  agravo  em  recurso  especial porque  intempestivo  (e-STJ  fls.  390/391).
+Nas  presentes  razões  (e-STJ  fls.  394/399),  a  agravante  alega  que  a  suspensão  do  expediente  prevista  no  art.  220  do  Código  de  Processo  Civil  não  precisa  ser  comprovada,  de  modo  que  a  tempestividade  do  agravo  prescinde  da  comprovação  de  feriado  local.
+Sustenta  que,  tendo  a  decisão  agravada  sido  publicada  no  dia  12/1/2023,  a  contagem  do  prazo  iniciou-se  dia  23/1/2023  (segunda-feira)  e  findou-se  dia  13/2/2023  (segunda-feira),  sendo  tempestivo  o  agravo  interposto  em  11/2/2023.
+Ao  final,  requer  o  provimento  do  recurso.
+A  parte  contrária  ofereceu  impugnação  (e-STJ  fls.  402/411).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  ART.  220  DO  CÓDIGO  DE  PROCESSO  CIVIL.  PUBLICAÇÃO.  POSSIBILIDADE.  PRAZO  RECURSAL.  CONTAGEM.  INTEMPESTIVIDADE.
+1.  O  art.  220  do  Código  de  Processo  Civil estabelece que,  entre  os  dias  20  de  dezembro  e  20  de  janeiro,  os  prazos  processuais  serão  suspensos,  o  que  não  obsta  a  prática  de  atos  processuais,  como,  por  exemplo,  a  intimação/publicação.
+2.  É  intempestivo  o  recurso  especial  protocolizado  após  o  prazo  de  15  (quinze)  dias,  de  acordo  com  o  art.  1.003,  §  5º,  c/c  art.  219,  caput,  do  CPC.
+3.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+A  jurisprudência  desta  Corte  Superior  é  no  sentido  de  que,  nos  termos  do  art.  220  do  Código  de  Processo  Civil,  a  suspensão  dos  prazos  processuais  durante  o  período  de  20  de  dezembro  a  20  de  janeiro  não  impede  a  publicação  dos  atos  processuais,  hipótese  em  que  a  contagem  do  prazo  recursal  se  inicia  no  primeiro  dia  útil  subsequente  ao  fim  do  recesso  forense.
+A  propósito:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RECESSO  FORENSE  DE  FINAL  DE  ANO.  SUSPENSÃO  DOS  PRAZOS  NO  PERÍODO  DE  20  DE  DEZEMBRO  A  20  DE  JANEIRO.  CÔMPUTO  DO  PRAZO  PROCESSUAL.  INÍCIO.  PRIMEIRO  DIA  ÚTIL  SUBSEQUENTE  AO  TÉRMINO  DA  SUSPENSÃO.  RECURSO  INTEMPESTIVO.  TERMO  FINAL  SUGERIDO  PELO  SISTEMA  QUE  NÃO  DISPENSA  CONFIRMAÇÃO.  AGRAVO  INTERNO  IMPROVIDO.
+1.  Nos  termos  do  art.  219,  c/c  o  art.  1.003,  §  5º,  ambos  do  Código  de  Processo  Civil  de  2015,  é  intempestivo  o  recurso  interposto  com  fundamento  na  respectiva  lei  adjetiva  após  escoado  o  prazo  de  15  (quinze)  dias  úteis.
+2.  Nos  termos  do  art.  220  do  CPC/2015,  para  fins  de  aferição  de  tempestividade,  suspende-se  o  curso  do  prazo  processual  no  interregno  de  20  de  dezembro  a  20  de  janeiro,  inclusive,  o  que  não  impede  que  publicações  sejam  realizadas,  não  sendo  possível  considerar  esse  período  como  dia  não  útil.  Precedentes.
+2.1.  Dessa  forma,  intimada  a  parte  recorrente  em  25/12/2020,  o  termo  inicial  para  o  cômputo  do  prazo  processual  recai  no  primeiro  dia  útil  seguinte  ao  dia  20  de  janeiro  (no  caso,  o  dia  21/1/2021).  Nesse  passo,  o  termo  final  para  a  interposição  do  agravo  em  recurso  especial  foi  o  dia  10/2/2021,  revelando-se  intempestivo  o  recurso  somente  interposto  em  11/2/2021.
+3.  Com  efeito,  de  acordo  com  a  jurisprudência  do  Superior  Tribunal  de  Justiça,  "o  prazo  sugerido  pelo  sistema  do  PJE  não  tem  o  condão  de  eximir  o  interessado  de  interpor  o  recurso  no  lapso  legal,  não  vinculando  o  termo  final  à  data  sugerida  nem  dispensando  a  parte  recorrente  da  confirmação"  (AgInt  no  AREsp  1.881.500/DF,  Rel.  Ministro  Og  Fernandes,  Segunda  Turma,  julgado  em  19/10/2021,  DJe  26/10/2021).
+4.  Agravo  interno  improvido"  (AgInt  no  AREsp  1.915.873/PR,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  TERCEIRA  TURMA,  julgado  em  15/8/2022,  DJe  de  17/8/2022  -  grifou-se).
+"AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  COBRANÇA.  CONTRATO  DE  ABERTURA  DE  CRÉDITO.  INTEMPESTIVIDADE  DO  AGRAVO  EM  RECURSO  ESPECIAL.  INTERPOSIÇÃO  FORA  DO  PRAZO  RECURSAL.
+1.  As  disposições  do  NCPC,  no  que  se  refere  aos  requisitos  de  admissibilidade  dos  recursos,  são  aplicáveis  ao  caso  concreto  ante  os  termos  do  Enunciado  Administrativo  nº  3,  aprovado  pelo  Plenário  do  STJ  na  sessão  de  9/3/2016.
+2.  O  curso  do  prazo  processual  fica  suspenso  durante  o  período  de  20  de  dezembro  a  20  de  janeiro,  mas  isso  não  impede  que  a  publicação  de  atos  processuais  ocorra  nesse  período.
+3.  Dessa  forma,  nas  hipóteses  em  que  a  intimação  da  decisão  judicial  ocorrer  durante  o  recesso  forense,  o  termo  a  quo  para  a  contagem  do  prazo  recursal  é  o  primeiro  dia  útil  subsequente  a  20  de  janeiro.  Inteligência  do  art.  220  do  CPC.
+4.  Conforme  orientação  jurisprudencial  desta  Corte  Superior,  informações  extraídas  de  páginas  da  internet  não  são  suficientes  para  prorrogar  o  prazo  processual,  sendo  necessário,  para  tanto,  a  exibição  de  documento  idôneo.
+5.  Na  hipótese  dos  autos,  como  a  fluência  do  prazo  recursal  para  a  interposição  do  recurso  especial  se  iniciou  aos  21/1/2019  (segunda-feira),  com  término  aos  8/2/2019  (sexta-feira),  e  o  agravo  em  recurso  especial  somente  foi  protocolado  aos  11/2/2019  (e-STJ,  fl.  984),  deve  ser  reconhecida  a  sua  intempestividade,  já  que  interposto  fora  do  prazo  de  15  dias  úteis,  nos  termos  dos  arts.  219,  caput,  e  1.003,  §  5º,  do  NCPC,  sem  a  demonstração  da  suspensão  do  expediente  forense  em  outra  data  além  do  período  de  20  de  dezembro  a  20  de  janeiro,  no  momento  oportuno  e  por  documento  idôneo,  como  necessário.
+6.  Agravo  interno  não  provido"  (AgInt  nos  EDcl  no  AREsp  1.538.433/PR,  Rel.  Ministro  MOURA  RIBEIRO,  TERCEIRA  TURMA,  julgado  em  16/8/2021,  DJe  de  18/8/2021  -  grifou-se).
+O  Conselho  Nacional  de  Justiça,  do  mesmo  modo,  interpretando  o  disposto  no  art.  220  do  Código  de  Processo  Civil,  editou  a  Resolução  nº  244/2016,  segundo  a  qual,  no  período  compreendido  entre  os  dias  7  e  20  de  janeiro,  o  expediente  forense  será  executado  normalmente,  ou  seja,  serão  considerados  dias  úteis  para  todos  os  efeitos,  inclusive,  para  realizar  publicação  e/ou  intimação.  Contudo,  a  contagem  dos  prazos  ficará  suspensa.
+No  caso  concreto,  observa-se  que  a  recorrente  foi  intimada  da  decisão  agravada  em  13/1/2023  (sexta-feira)  e  publicada  no  primeiro  dia  útil  seguinte,  no  caso,  20/1/2023  (sexta-feira).
+Assim,  iniciada  a  contagem  do  prazo  recursal  em  23/1/2023  (segunda-feira)  e  encerrada  no  dia  10/2/2023  (sexta-feira),  revela-se  intempestivo  o  agravo  em  recurso  especial  apresentado  somente  no  dia  11/2/2021  (sábado).
+Nesse  contexto,  não  tendo  sido  demonstrada  a  tempestividade  do  recurso  no  momento  de  sua  interposição,  e  tendo  deixado  a  parte  de  comprovar  eventual  suspensão  do  expediente  forense  no  âmbito  da  Corte  local  em  período  distinto  do  previsto  no  art.  220  do  CPC,  não  há  como  se  afastar  a  intempestividade  do  recurso  destacada  pela  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
