@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO ESPECI AL. SERVIDOR PÚBLICO. LICENÇA-PRÊMIO NÃO USUFRUÍDA. BASE DE CÁLCULO. DECISÃO MONOCRÁTICA EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ.
+1. A decisão monocrática agravada aplicou ao caso a Súmula 83/STJ, uma vez que a jurisprudência do STJ é firme no sentido de que as rubricas que compõem a remuneração do servidor deverão ser incluídas na base de cálculo da conversão da licença-prêmio em pecúnia; entre elas estão o auxílio-alimentação e o abono de permanência.
+2. No Agravo Interno, a União se limita a afirmar, de modo genérico, que os valores ora discutidos não são vantagens permanentes e que, por isso, devem ser excluídos da base de cálculo da licença-prêmio convertida em pecúnia. Não reúne, entretanto, decisões contemporâneas ou posteriores àquelas mencionadas na decisão ora combatida para demonstrar eventual superação do entendimento aplicado, tampouco faz análise pormenorizada a fim de comprovar que a situação sob análise difere de forma substancial daquelas retratadas nos precedentes citados.
+3. Nos termos da jurisprudência do STJ, a incid ência da Súmula 83/STJ ("Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida") impõe à parte insurgente que comprove o desacerto do enquadramento do caso à jurisprudência apontada. Isso somente se faz: i) comprovando-se distinção entre o caso vertente e os paradigmas; ii) evidenciando-se não ser a compreensão coetânea da Corte aquela indicada nos paradigmas; iii) pela demonstração expressa e objetiva da existência de argumentos efetivamente novos e aptos a alterar a compreensão atual; e iv) pela prova de insubsistência do entendimento pretoriano, à luz de circunstâncias fáticas, sociais, econômicas ou jurídicas supervenientes.
+4. Agravo Interno não conhecido.
+RELATÓRIO
+Trata-se de Agravo Interno contra decisão que não conheceu do Recurso Especial, ante a incidência das Súmulas 284/STF e 83/STJ.
+Nas razões recursais (fls. 276-282, e-STJ), defende a exclusão do auxílio-alimentação e do abono de permanência da base de cálculo da licença-prêmio convertida em pecúnia.
+Impugnação às fls. 285-293, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO ESPECI AL. SERVIDOR PÚBLICO. LICENÇA-PRÊMIO NÃO USUFRUÍDA. BASE DE CÁLCULO. DECISÃO MONOCRÁTICA EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ.
+1. A decisão monocrática agravada aplicou ao caso a Súmula 83/STJ, uma vez que a jurisprudência do STJ é firme no sentido de que as rubricas que compõem a remuneração do servidor deverão ser incluídas na base de cálculo da conversão da licença-prêmio em pecúnia; entre elas estão o auxílio-alimentação e o abono de permanência.
+2. No Agravo Interno, a União se limita a afirmar, de modo genérico, que os valores ora discutidos não são vantagens permanentes e que, por isso, devem ser excluídos da base de cálculo da licença-prêmio convertida em pecúnia. Não reúne, entretanto, decisões contemporâneas ou posteriores àquelas mencionadas na decisão ora combatida para demonstrar eventual superação do entendimento aplicado, tampouco faz análise pormenorizada a fim de comprovar que a situação sob análise difere de forma substancial daquelas retratadas nos precedentes citados.
+3. Nos termos da jurisprudência do STJ, a incid ência da Súmula 83/STJ ("Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida") impõe à parte insurgente que comprove o desacerto do enquadramento do caso à jurisprudência apontada. Isso somente se faz: i) comprovando-se distinção entre o caso vertente e os paradigmas; ii) evidenciando-se não ser a compreensão coetânea da Corte aquela indicada nos paradigmas; iii) pela demonstração expressa e objetiva da existência de argumentos efetivamente novos e aptos a alterar a compreensão atual; e iv) pela prova de insubsistência do entendimento pretoriano, à luz de circunstâncias fáticas, sociais, econômicas ou jurídicas supervenientes.
+4. Agravo Interno não conhecido.
+VOTO
+Os autos foram recebidos neste Gabinete em 19.2.2024.
+Nos termos da jurisprudência desta Corte Superior, a incidência da Súmula 83/STJ ("Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida") impõe à parte insurgente a demonstração do desacerto do enquadramento do caso à jurisprudência apontada.
+Isso somente se faz: i) comprovando-se a distinção entre o caso vertente e os paradigmas; ii) evidenciando-se não ser a compreensão coetânea da Corte aquela indicada nos paradigmas; iii) pela demonstração expressa e objetiva da existência de argumentos efetivamente novos e aptos a alterar a compreensão atual; e iv) pela prova de insubsistência do entendimento pretoriano, à luz de circunstâncias fáticas, sociais, econômicas ou jurídicas supervenientes.
+O Agravo Interno não atendeu essas diretrizes, o que impede seu conhecimento. Nessa linha :
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMU LA 182/STJ.
+(..) 4. Consoante jurisprudência desta Corte, não é suficiente, para afastar o óbice da Súmula n. 83/STJ, a alegação genérica de que o acórdão recorrido não diverge da jurisprudência do STJ. Deve o agravante, sob pena de não conhecimento do recurso, demonstrar que os precedentes indicados na decisão agravada são inaplicáveis ao caso ou colacionar precedentes contemporâneos ou supervenientes aos indicados no decisum, de forma a demonstrar que outra é a orientação jurisprudencial, o que não ocorreu na espécie.
+5. À luz do artigo 1.021, § 1º, do CPC/2015 e conforme entendimento sedimentado na Súmula 182 do STJ, não se conhece do agravo interno quando ausente impugnação específica aos fundamentos da decisão agravada.
+6. Agravo interno não conhecido.
+(AgInt no REsp n. 1.967.538/RS, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 19/4/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+(..) 3. Inadmitido o recurso em razão da aplicação das Súmulas n. 83/STJ ou 568/STJ, o entendimento desta Corte é no sentido de que cabe ao recorrente indicar julgados contemporâneos ou supervenientes ao precedente utilizado na decisão agravada, de modo a demonstrar que a matéria não seria pacífica naquele momento ou que estaria superada, ou ainda que, de fato, existe a propalada distinção entre a matéria versada nos autos e aquela utilizada para justificar a aplicação do óbice, o que não aconteceu no presente caso.
+4. A ausência de impugnação do fundamento para não conhecimento do recurso especial faz incidir na espécie os preceitos da Súmula n. 182/STJ e do art. 1.021, § 1º, do CPC. Precedentes.
+Agravo interno não conhecido.
+(AgInt no AREsp n. 2.156.364/SP, Rel. Min. Humberto Martins, Terceira Turma, DJe de 6/12/2023)
+Ante o exposto, não conheço do Agravo Interno.
+É como voto.
