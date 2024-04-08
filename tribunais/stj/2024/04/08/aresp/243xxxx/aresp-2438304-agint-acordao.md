@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. ART. 489, § 1º, IV, DO CPC. CARÊNCIA DE FUNDAMENTAÇÃO DA SENTENÇA. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 DO STF E 211 DO STJ. RESPONSABILIDADE PELO ACIDENTE. CONDUTOR DO VEÍCULO AUTOMOTOR. NEGLIGÊNCIA. CULPA EXCLUSIVA DA VÍTIMA. COMPROVAÇÃO. IMPOSSIBILIDADE. REEXAME DAS PROVAS DOS AUTOS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de debate acerca do dispositivo legal tido por violado, a despeito da oposição de embargos declaratórios, inviabiliza o conhecimento da matéria na instância extraordinária, por falta de prequestionamento. Incidência das Súmulas n. 211 do STJ e 282 do STF.
+2. Rever o entendimento do tribunal de origem acerca da negligência do condutor do veículo automotor afim de averiguar a existência de culpa exclusiva da vítima demanda o reexame do suporte fático-probatório dos autos, o que é vedado em recurso especial, ante a incidência da Súmula n. 7 do STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra julgado da Presidência que, com amparo no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheceu do agravo para não conhecer do recurso especial, em razão da incidência da Súmula n. 211 do STJ para a alegada afronta ao art. 489, § 1º, IV, do CPC, e aplicação da Súmula n. 7 do STJ no tocante ao debate a respeito da aplicação do art. 371, I, do CPC.
+Nas razões do presente recurso, o agravante sustenta que opôs, na origem, embargos de declaração a respeito da falta de fundamentação da sentença sobre as provas dos autos que apontam objetivamente a culpa do recorrente.
+Alega que o magistrado não apontou qual a prova que motivou a fundamentação da sentença que o condenou pela suposta negligência que teria ocasionado o acidente de trânsito.
+Afirma que buscou resolver toda a matéria na instância de origem, de maneira que não há que se falar em ausência de prequestionamento.
+Aduz que não é caso de aplicação da Súmula n. 7 do STJ ao caso, porquanto trata-se de matéria unicamente de direito. Argumenta que o recurso versa sobre a inexistência de prova e não de seu reexame.
+Reitera, ademais, as matérias apresentadas no recurso especial.
+Requer, assim, seja reconsiderada a decisão agravada ou seja o agravo julgado pelo colegiado.
+As contrarrazões não foram apresentadas, conforme certidão de fl. 358.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. ART. 489, § 1º, IV, DO CPC. CARÊNCIA DE FUNDAMENTAÇÃO DA SENTENÇA. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 DO STF E 211 DO STJ. RESPONSABILIDADE PELO ACIDENTE. CONDUTOR DO VEÍCULO AUTOMOTOR. NEGLIGÊNCIA. CULPA EXCLUSIVA DA VÍTIMA. COMPROVAÇÃO. IMPOSSIBILIDADE. REEXAME DAS PROVAS DOS AUTOS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de debate acerca do dispositivo legal tido por violado, a despeito da oposição de embargos declaratórios, inviabiliza o conhecimento da matéria na instância extraordinária, por falta de prequestionamento. Incidência das Súmulas n. 211 do STJ e 282 do STF.
+2. Rever o entendimento do tribunal de origem acerca da negligência do condutor do veículo automotor afim de averiguar a existência de culpa exclusiva da vítima demanda o reexame do suporte fático-probatório dos autos, o que é vedado em recurso especial, ante a incidência da Súmula n. 7 do STJ.
+3. Agravo interno desprovido.
+VOTO
+A irresignação não reúne condições de prosperar.
+Em relação à alegada violação do art. 489, § 1º, IV, do CPC, o recurso especial não reúne condições de conhecimento, pois o referido dispositivo não foi objeto de análise do acórdão recorrido na parte em que examinou a pretensão recursal dos agravantes.
+O prequestionamento significa a prévia manifestação do tribunal de origem, com emissão de juízo de valor, acerca da matéria referente ao dispositivo de lei federal apontado como violado. Trata-se de pressuposto recursal indispensável para o acesso à instância especial.
+A falta de enfrentamento da questão objeto da controvérsia impede o acesso à instância especial e o conhecimento do recurso especial, nos termos da Súmula n. 282 do STF ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada") e da Súmula n. 356 do STF ("O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento").
+Com efeito, esta Corte considera preenchido o requisito do prequestionamento quando o tribunal a quo efetivamente debate acerca da matéria inserta no dispositivo de lei federal, ainda que não mencione explicitamente seu número (AgInt no AREsp n. 1.767.078/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022; e AgInt no AREsp n. 2.010.772/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/9/2022, DJe de 19/9/2022).
+Trata-se do chamado prequestionamento implícito.
+No caso, após detida análise dos autos, em especial dos acórdãos de apelação e dos embargos de declaração, não se verifica o preenchimento do requisito do prequestionamento da tese recursal sob o viés da apontada violação do dispositivo acima indicado, ainda que de forma implícita.
+Inexistindo referido debate na instância antecedente, é de rigor a incidência, por analogia, da Súmula n. 282 do STF.
+Ademais, somente a indevida rejeição dos embargos de declaração opostos ao acórdão recorrido para provocar o debate da corte de origem acerca de dispositivos de lei considerados violados que versam sobre temas indispensáveis à solução da controvérsia permite o conhecimento do recurso especial em virtude do prequestionamento ficto, previsto no art. 1.025 do CPC, desde que, no apelo extremo, seja arguida violação do art. 1.022 do CPC, situação que autoriza o STJ a reconhecer o vício e, superando a supressão de instância, analisar o pedido.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. PEDIDO DE DEVOLUÇÃO DE CAPITAL APORTADO EM EMPRESA AO ARGUMENTO DE FRAUDE. OFENSA ATRAVÉS DE MENSAGENS PARTICULAR DE WHATSAPP PARA OUTREM. ÔNUS DA PROVA. ART. 373, I DO CPC/2015. DANOS NÃO PROVADOS. FALTA DE PREQUESTIONAMENTO. ART. 1.025 DO CPC/2015. PREQUESTIONAMENTO FICTO NÃO CONFIGURADO. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo" (Súmula 211 do STJ).
+2. ""A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 4.4.2017, DJe 10.4.2017).
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória. Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.989.881/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA CONHECER EM PARTE DO APELO EXTREMO E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO. INSURGÊNCIA DA PARTE RÉ.
+1. Nos termos da jurisprudência deste Corte, a natureza taxativa ou exemplificativa do rol da ANS é desimportante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução normativa.
+Precedentes.
+2.A ausência de enfrentamento da matéria inserta nos dispositivos apontados como violados pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 282 do STF.
+2.1. O prequestionamento ficto, invocado pela agravante, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, a parte recorrente suscitar a violação ao art. 1.022 do mesmo diploma, pois somente dessa forma o órgão julgador poderá verificar a existência do vício e proceder à supressão de grau.
+3. Agravo interno desprovido. (AgInt no AREsp n. 1.767.078/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022.)
+No caso, a ausência de debate da matéria relativa ao dispositivo legal apontado como violado, a despeito da oposição de embargos declaratórios, obsta o conhecimento do apelo extremo devido à falta de prequestionamento. Incidem na espécie as Súmulas n. 211 do STJ e 282 do STF.
+Ressalte-se, nessa hipótese, que, para viabilizar o conhecimento do recurso especial, caberia à parte recorrente alegar ofensa ao art. 1.022 do CPC.
+Da mesma maneira, o recurso especial também não merece conhecimento quanto à apontada violação do art. 373, I, do CPC, porque não há como afastar a incidência da Súmula n. 7 do STJ, quanto ao ponto.
+A parte ora agravante, nas razões do recurso especial, alegou vulneração ao referido dispositivo legal ao argumento de que inexistem provas de sua negligência na condução do veículo o que levaria à improcedência da ação indenizatória. Afirmou também que o acidente aconteceu por culpa exclusiva da vítima.
+Com efeito, o Tribunal de origem, soberano na análise do acervo fático-probatório dos autos, concluiu pela culpa do ora agravante em razão da comprovação de sua conduta ilícita - negligência - na condução do veículo automotor, sendo, por isso, responsável pelo acidente ocorrido.
+Confira-se, a propósito, o seguinte excerto do acórdão recorrido (fls. 259-260, destaquei):
+A dinâmica do acidente é corroborada pelos documentos dos autos.
+Na audiência de instrução, o autor arrolou sua namorada (Giovanna K. de Lima), à época, dos fatos, e que estava "na garupa" da motocicleta, como testemunha, o que foi contraditada pelo advogado do réu, igualmente, as testemunhas do réu que presenciaram o acidente e eram amigos daquele foram contraditas pela advogada do autor.
+O d. Juiz de Primeiro Grau acatou as contraditas, não ouvindo qualquer testemunha e determinando que os autos retornassem para o proferimento da r. sentença.
+Houve conduta ilícita do requerido que interceptou a trajetória do autor, ao virar à esquerda, colocando-se à frente da motocicleta, fazendo com que esta viesse ao chão.
+Como bem delineou o i. Magistrado a quo "o sinistro ocorreu porque o requerido não adotou as precauções devidas. Se ele houvesse agido com vagar e prudência, não passaria adiante da motocicleta. A manobra foi realizada de forma impensada e sem a atenção necessária. A colisão somente aconteceu porque o demandado não teve o zelo exigido na situação" (fls. 218).
+Comprovada a culpa do requerido, resta analisar as indenizações postuladas pelo autor.
+Revisar a referida conclusão, notadamente para averiguar a alegação apresentada nas razões do recurso especial no sentido de que "o recorrido não se desincumbiu de comprovar suas alegações" (fl. 284), assim como avaliar a existência de culpa exclusiva do recorrido, demandaria, de fato, a incursão no acervo fático-probatório dos autos, a atrair a aplicação da Súmula n. 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Nos termos do artigo 102 da Constituição Federal, reserva-se ao Supremo Tribunal Federal a competência para apreciar ofensas a dispositivos constitucionais. Desse modo, sob pena de usurpação, não pode o Superior Tribunal de Justiça analisar alegadas violações a dispositivos constitucionais.
+2. Não se verifica ofensa aos artigos 489 e 1.022, do CPC, quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+3. Nos termos da jurisprudência desta Corte Superior, admite-se a utilização da técnica da fundamentação per relationem, em que o magistrado adota trechos de decisão anterior ou de parecer ministerial como razão de decidir, não havendo que se falar em ofensa ao art. 1.021, § 3º, do CPC, o que atrai a incidência das Súmulas 83 e 568/STJ.
+4. Na hipótese, rever as conclusões das instâncias ordinárias quanto à ocorrência de culpa exclusiva da vítima, demandaria o reexame do contexto fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+5. Agravo interno desprovido. (AgInt no REsp n. 2.048.955/MA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 18/12/2023, DJe de 21/12/2023, destaquei.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. CULPA CONCORRENTE. DANOS MORAIS. VALOR. REVISÃO. HIPÓTESE. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. DISSÍDIO PREJUDICADO. MULTA. MÁ-FÉ. HONORÁRIOS RECURSAIS.
+1. No caso, rever o entendimento do julgado para concluir pela ocorrência de culpa exclusiva da vítima esbarra no óbice da Súmula nº 7/STJ.
+2. A aplicação da Súmula nº 7/STJ em relação ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial.
+3. O Superior Tribunal de Justiça firmou entendimento no sentido de que o exame da quantia fixada a título de danos morais somente é admissível em hipóteses excepcionais, quando for verificada a sua exorbitância ou irrisoriedade, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade, circunstâncias inexistentes no presente caso. Aplicação da Súmula nº 7/STJ.
+4. A Segunda Seção do Superior Tribunal de Justiça já decidiu que a aplicação da multa por litigância de má-fé não é automática, tendo em vista não se tratar de mera decorrência lógica da rejeição do agravo interno.
+5. A jurisprudência do Superior Tribunal de Justiça firmou o entendimento de ser incabível a majoração dos honorários recursais no julgamento do agravo interno e dos embargos de declaração oferecidos pela parte que teve seu recurso integralmente não conhecido ou não provido.
+6. Agravo interno não provido. (AgInt no AREsp n. 2.307.171/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/12/2023, DJe de 20/12/2023, destaquei.)
+Portanto, a parte agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+Ante o exposto, nego provimento ao agravo interno .
+É o voto .
