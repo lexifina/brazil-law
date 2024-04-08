@@ -1,0 +1,79 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial, em razão da incidência das Súmulas 7 e 83 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fls. 631-632):
+AÇÃO ORDINÁRIA. ADUANEIRO E ADMINISTRATIVO. AUTO DE INFRAÇÃO. PRESTAÇÃO INTEMPESTIVA DE INFORMAÇÕES. MULTA. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA. DUPLO GRAU DE JURISDIÇÃO. OBSERVÂNCIA. APELAÇÃO PARCIALMENTE PROVIDA. RETORNO DOS AUTOS À ORIGEM PARA ANÁLISE DAS DEMAIS QUESTÕES SUSCITADAS NA PEÇA INICIAL E PROLAÇÃO DE NOVA SENTENÇA.
+1. A presente ação foi ajuizada com o escopo de anulação de débito fiscal oriundo de auto de infração consubstanciado no Processo Administrativo Fiscal - P. A. F nº11128.733279/2013-14.
+2. Compulsando os autos, verifica-se que a autora, ora apelada, foi autuada com fulcro no artigo 107, inc. IV, alínea "e", do Decreto-Lei nº 37/66 (com redação dada pelo artigo77 da Lei nº 10.833/03), por "não prestação de informação sobre veículo ou carga transportada, ou sobre operações que executar", sendo-lhe imposta a penalidade de multa pela autoridade fiscal.
+3. O MM. Juízo de origem julgou procedente o pedido da autora ao entendimento da ocorrência de prescrição da pretensão punitiva da infração guerreada.
+4. De início, cumpre mencionar que o cerne da controvérsia objeto de discussão nessa via recursal cinge-se à aferição da ocorrência ou não da prescrição da pretensão punitiva no tocante à infração apontada nestes autos.
+5. Nesse aspecto, urge salientar que o Decreto nº 70.232/72, que regulamenta o processo administrativo fiscal, não prevê hipótese de prescrição intercorrente, e tampouco estabelece um prazo específico para a conclusão do processo. E na ausência de previsão legal, não há base para o reconhecimento da prescrição intercorrente administrativa.
+6. A hipótese de prescrição intercorrente administrativa prevista na Lei nº 9.873/99 não se aplica ao contencioso administrativo de natureza fiscal, por conta do princípio da especialidade.
+7. Por oportuno, vale mencionar que o prazo consignado pelo art. 24, da Lei nº11.457/07 também não prevê como consequência para a sua inobservância a extinção do crédito em exame.
+8. Ademais, conforme já se manifestou o E. Superior Tribunal de Justiça, o tempo decorrente entre a notificação do lançamento fiscal e a decisão final da impugnação ou do recurso administrativo corre contra o contribuinte, que, mantida a exigência fazendária, responderá pelo débito originário acrescido de juros e de correção monetária.
+9. Assim, não obstante o crédito tributário esteja constituído, apresentada impugnação na via administrativa, o crédito não pode ser cobrado, ficando com a exigibilidade suspensa (art. 151, inc. III, do CTN) até decisão final na via administrativa, razão pela qual também não se pode cogitar na ocorrência da prescrição intercorrente.
+10. Portanto, não obstante o entendimento exarado na r. sentença recorrida, não se observa a ocorrência da prescrição da pretensão punitiva no caso em exame.
+11. Desse modo, de rigor a nulidade da r. sentença recorrida, com o retorno dos autos à origem para que outra decisão seja proferida com a análise efetiva do pedido da autora, ora apelada, considerando demais questões suscitadas na peça inicial e a documentação acostada, bem como em observância ao princípio do duplo grau de jurisdição.
+12. Apelação parcialmente provida. Retorno dos autos à origem para prolação de nova sentença.
+Embargos de declaração rejeitados.
+No recurso especial, a recorrente sustenta ofensa ao artigo 1º, §1º,da Lei n.º 9.873/1999 e dissídio jurisprudencial, aos seguintes argumentos: (a) a prescrição intercorrente, prevista no artigo 1º, §1º, da Lei 9.873/1999, aplica-se ao caso concreto, porque paralisado o processo administrativo instaurado em face da recorrente por mais de 3 anos; (b) a sanção imposta tem natureza administrativa, decorrente do poder de polícia, e não tributária, embora seja oriunda de eventual descumprimento da legislação aduaneira; (c) há recente decisão proferida pela Primeira Turma do Superior Tribunal de Justiça sobre o mesmo tema, no bojo no REsp 1.999.532/RJ.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+A pretensão merece prosperar.
+De início, destaca-se que o descumprimento da obrigação legal prevista no artigo 107, IV, "e", do Decreto-Lei 37/1966, acarreta a aplicação da pena de multa.
+Veja-se:
+Art. 107. Aplicam-se ainda as seguintes multas:
+ ..
+IV - de R$ 5.000,00 (cinco mil reais):
+ ..
+e) por deixar de prestar informação sobre veículo ou carga nele transportada, ou sobre as operações que execute, na forma e no prazo estabelecidos pela Secretaria da Receita Federal, aplicada à empresa de transporte internacional, inclusive a prestadora de serviços de transporte internacional expresso porta-a-porta, ou ao agente de carga.
+Em razão de suposta violação do referido dispositivo, foi expedido em face da recorrente o Auto de Infração nº 0817800/06440/13, constante do Processo Administrativo Fiscal nº 11128.733279/2013-14.
+Convém registrar que tal obrigação, em tese tida como descumprida, tem natureza administrativa, sobretudo por ser direcionada genericamente às transportadoras aduaneiras, de forma dissociada do pagamento de qualquer tributo, por ser originária do poder de polícia administrativo.
+Aqui, inclusive, o entendimento doutrinário, acerca da possibilidade de o poder de polícia aduaneiro atuar de forma dissociada da atuação tributária estatal (com grifos apostos):
+Com efeito, o conjunto normativo traduzido no contexto do Direito Aduaneiro enseja o estabelecimento de relações jurídicas algo diferenciadas entre si, de acordo com o seu objeto.
+Como anota José Lence Carluci, "os sujeitos da relação aduaneira são o Estado e outra pessoa pública ou privada e seu objeto são as coisas, mercantis ou não".
+Pensamos que tais relações jurídicas, assim estabelecidas entre os sujeitos apontados, sejam classificáveis em dois grandes grupos: de um lado, aquelas decorrentes do exercício de função puramente administrativa; de outro, as consequentes do exercício de função administrativo-fiscal.
+Imperioso, desse modo, dissertarmos brevemente a respeito de ambas.
+A função administrativa, na clássica lição de Seabra Fagundes, consiste em "aplicar a lei, de ofício, visando a satisfação do interesse público".
+ ..
+Constituem o núcleo das atividades aduaneiras o controle e a fiscalização do tráfego de pessoas e bens por determinado território, daí por que as relações jurídicas decorrentes do desempenho dessas funções envolvem, necessariamente, o exercício de Polícia Administrativa, o único dos poderes outorgados à Administração Pública cujos atos interferem diretamente na esfera jurídica dos administrados. Por outro lado, temos as relações jurídicas decorrentes do exercício de função administrativa voltada para fins tributários.
+ ..
+O Direito Aduaneiro, evidentemente, não compreende as normas concernentes à instituição de tributos, não dizendo respeito ao exercício da competência tributária, que está demarcada no plano constitucional, sendo viabilizada pela lei infraconstitucional. O Direito Aduaneiro abrange, tão-somente, as relações jurídicas concernentes à arrecadação e fiscalização do recolhimento dos tributos incidentes sobre o comércio exterior.
+ ..
+Forçoso reconhecer, por outro lado, que o Direito Aduaneiro traduz-se numa especialização do Direito Administrativo, sendo sua essência a atividade administrativa, realizada pelo Estado, consistente na gestão dos serviços aduaneiros. (Notas sobre a existência de um Direito Aduaneiro. In: FREITAS, Vladimir Passos de (Coord.). Importação e Exportação no Direito Brasileiro. 2ª Ed. São Paulo: Revista dos Tribunais, 2007, pp. 19-38).
+Com efeito, diante da natureza administrativa e não tributária da referida multa, é aplicável, ao caso, não a Súmula 11 do CARF: "Não se aplica a prescrição intercorrente ao processo administrativo fiscal", mas o artigo 1º, §1º,da Lei n.º 9.873/1999, que a ora recorrente aponta como violado.
+Veja-se (com grifos apostos):
+Art.1º Prescreve em cinco anos a ação punitiva da Administração Pública Federal, direta e indireta, no exercício do poder de polícia, objetivando apurar infração à legislação em vigor, contados da data da prática do ato ou, no caso de infração permanente ou continuada, do dia em que tiver cessado.
+§1º Incide a prescrição no procedimento administrativo paralisado por mais de três anos, pendente de julgamento ou despacho, cujos autos serão arquivados de ofício ou mediante requerimento da parte interessada, sem prejuízo da apuração da responsabilidade funcional decorrente da paralisação, se for o caso.
+Nesse sentido, o recente entendimento desta Corte, em caso análogo (com grifos apostos):
+PROCESSUAL CIVIL. ADUANEIRO E TRIBUTÁRIO. RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE OFENSA AOS ART. 489, § 1º, IV, E 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. ARTS. 37 DO DECRETO-LEI N. 37/1966 E 37 DA INSTRUÇÃO NORMATIVA SRF N. 28/1994. NATUREZA JURÍDICA DO DEVER DE PRESTAR INFORMAÇÕES SOBRE MERCADORIAS EMBARCADAS AO EXTERIOR POR EMPRESAS DE TRANSPORTE INTERNACIONAL. OBRIGAÇÃO QUE NÃO DETÉM ÍNDOLE TRIBUTÁRIA. EXEGESE DO ART. 113, § 2º, DO CÓDIGO TRIBUTÁRIO NACIONAL. APLICABILIDADE DA PRESCRIÇÃO INTERCORRENTE AO PROCESSO ADMINISTRATIVO DE APURAÇÃO DA PENALIDADE PREVISTA NO ART. 107, IV, E, DO DECRETO-LEI N. 37/1996. INTELIGÊNCIA DO ART. 1º, § 1º, DA LEI N. 9.873/1999. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Revela-se deficiente a fundamentação quando a arguição de ofensa aos arts. 489, § 1º, IV, e 1.022 do CPC/2015 é genérica, sem demonstração efetiva da suscitada contrariedade, aplicando-se, por analogia, o entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+III - Não obstante o cumprimento de exigências pelos exportadores e transportadores durante o despacho aduaneiro tenha por finalidade verificar o atendimento às normas relativas ao comércio exterior - detendo, portanto, cariz eminentemente administrativo -, a observância de parte dessas regras facilita, de maneira mediata, a fiscalização do recolhimento dos tributos, razão pela qual o exame do escopo das obrigações fixadas pela legislação consiste em elemento essencial para esquadrinhar sua natureza jurídica.
+IV - Deflui do § 2º do art. 113 do Código Tributário Nacional que a obrigação acessória decorre da legislação tributária, reservando, desse modo, o caráter fiscal às normas imediatamente instituídas no interesse da arrecadação ou da fiscalização dos tributos e afastando, por conseguinte, a atribuição de semelhante qualificação a regras cuja incidência, apenas a título reflexo, atinjam as finalidades previstas no dispositivo em exame.
+V - O dever de registrar informações a respeito das mercadorias embarcadas no SISCOMEX, atribuído às empresas de transporte internacional pelos arts. 37 do Decreto-Lei n. 37/1966 e 37 da Instrução Normativa SRF nº 28/1994, não possui perfil tributário, porquanto, a par de posterior ao desembaraço aduaneiro, a confirmação do recolhimento do Imposto de Exportação antecede a autorização de embarque, razão pela qual a penalidade prevista no art. 107, IV, e, do Decreto-Lei n. 37/1966, decorrente de seu descumprimento, não guarda relação imediata com a fiscalização ou a arrecadação de tributos incidentes na operação de exportação, mas, sim, com o controle da saída de bens econômicos do território nacional.
+VI - As Turmas integrantes da 1ª Seção desta Corte firmaram orientação segundo a qual incide a prescrição intercorrente prevista no art. 1º, § 1º, da Lei n. 9.873/1999 quando paralisado o processo administrativo de apuração de infrações de índole não tributária por mais de 03 (três) anos e ausente a prática de atos de impulsionamento do procedimento punitivo. Precedentes.
+VII - Recurso Especial parcialmente conhecido e, nessa extensão, improvido. ( REsp n. 1.999.532/RJ, Rel. Min. Regina Helena Costa, Primeira Turma, julgado em 9/5/2023, DJe de 15/5/2023 .)
+No caso concreto, como bem destacado pelo Juízo a quo, o processo administrativo envolvendo a recorrente restou paralisado por mais de 3 anos (fl. 526):
+Na hipótese em análise, verifico dos autos do Processo Administrativo Fiscal nº 11128.733279/2013-14 que o Auto de Infração n. 0817800/06440/13 foi lavrado em 31/10/2013, imputando fatos ocorridos em 20/04/2009 ou seja, dentro do quinquênio legal (art. 1º, caput, da Lei nº 9.873/99).
+Contudo, apresentada defesa (em 05/12/2013), o procedimento permaneceu paralisado até 11/12/2019, quando foi encaminhado para apreciação da impugnação, que ocorreu apenas em 19/02/2020, ou seja, em prazo muito superior aos três anos fixados pela legislação (id 98431682 - p. 129/144).
+Sendo assim, ao contrário do decidido pelo Tribunal de origem, a incidência da prescrição intercorrente in casu é medida imperiosa, nos termos fixados pela sentença, às fls. 521-527.
+Corroborando:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO INTERCORRENTE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+ ..
+2. De acordo com a jurisprudência desta Corte, incide a prescrição intercorrente quando, instaurado o procedimento administrativo para apurar o fato passível de punição, este permanece paralisado por mais de três anos, sem atos que denotem impulsionamento do processo, nos termos do art. 1º, § 1º, da Lei n. 9.873/1999.
+ ..
+4. Agravo interno desprovido. (AgInt no REsp n. 1.857.798/PE, Rel. Min. Gurgel De Faria, Primeira Turma, julgado em 24/8/2020, DJe de 1º/9/2020.)
+PROCESSUAL CIVIL. PRESCRIÇÃO INTERCORRENTE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. Caso em que a sentença, confirmada no julgamento da Apelação, julgou improcedente o pedido da autora para que fosse desconstituído o auto de infração, lavrado pelo IBAMA, com a seguinte descrição:
+ ..
+3. O STJ entende que incide a prescrição intercorrente quando o procedimento administrativo instaurado para apurar o fato passível de punição permanece paralisado por mais de três anos, sem atos que denotem impulsionamento do processo, nos termos do art. 1º, § 1º, da Lei 9.873/1999, o que, conforme exposto pelo acórdão recorrido, não ocorreu.
+ ..
+5. Agravo Interno não provido. (AgInt no AREsp n. 1.719.352/ES, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 7/12/2020, DJe de 15/12/2020.)
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, com a reforma do acórdão impugnado e o restabelecimento da sentença proferida em primeiro grau de jurisdição, que havia reconhecido a prescrição intercorrente em favor da ora recorrente.
+Inverto os ônus sucumbenciais.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA. MULTA ADMINISTRATIVA. PROCESSO ADMINISTRATIVO DE APURAÇÃO DA PENALIDADE PREVISTA NO ART. 107, IV, E, DO DECRETO-LEI N. 37/1996. PRESCRIÇÃO INTERCORRENTE. APLICABILIDADE. INTELIGÊNCIA DO ART. 1º, § 1º, DA LEI N. 9.873/1999. CONHEÇO DO AGRAVO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
