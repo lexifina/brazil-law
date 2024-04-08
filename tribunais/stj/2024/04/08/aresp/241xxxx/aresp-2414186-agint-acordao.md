@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. TAXA DE JUROS E CORREÇÃO MONETÁRIA. RE 579.431 (TEMA 96). TERMO FINAL PARA INCIDÊNCIA DE JUROS DE MORA. AUSÊNCIA DE INTERESSE DE AGIR. RECURSO QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO VERGASTADA. SÚMULA 182/STJ. ART. 932, III, DO CPC.
+1. Na hipótese dos autos, nota-se que a Corte de origem não admitiu o Recurso Especial sob o fundamento de que, quanto ao termo final dos juros moratórios, o acórdão recorrido determinou sua incidência no período entre a data da conta de liquidação e a data de expedição do precatório, motivo pelo qual a pretensão do recorrente, no sentido de que se reconheça a incidência de tais juros, até referido marco, carece de interesse de agir.
+2. Nas razões do Agravo, verifica-se que a parte agravante deixou de impugnar específica e integralmente a decisão recorrida, limitando-se a afirmar não incidir, in casu, os óbices da s Súmulas 7, 83 e 204/STJ. Dessarte, percebe-se que não houve manifestação da parte quanto à ausência de interesse de agir.
+3. Incide, por analogia, a Súmula 182/STJ, assim como o art. 932, III, do CPC/2015, porquanto a parte agravante não atacou especificamente todos os fundamentos da decisão agravada.
+4. Agravo Interno não provido.
+RELATÓRIO
+Cuida-se de Agravo Interno contra decisão que não conheceu do Agravo em Recurso Especial.
+A parte agravante sustenta, em suma:
+(..)
+O Agravo apresentado pela parte autora contra a decisão que não admitiu o Recurso Especial interposto, não foi conhecido sob o argumento de que não houve a impugnação específica de um dos fundamentos utilizados na decisão que não admitiu recurso especial.
+No entanto, em que pesem os argumentos utilizados pela Douta Ministra Relatora, cumpre ao Agravante informar que impugnou todos os fundamentos utilizados na decisão que não admitiu o Recurso Especial, não sendo o caso de incidência da Súmula 182 do STJ.
+Extrai-se do agravo de Fls. (e-STJ Fl. 687/692) que a parte autora, ao contrário da decisão, ora atacada, impugnou a inadmissão do recurso especial de forma específica, demonstrando que não cabia aplicação das Súmulas aplicadas.
+Quanto ao impedimento de interposição de recurso especial com base na alínea "c", por óbice à Súmula 7/STJ, o Agravante esclareceu que a discussão de suficiência/insuficiência de provas, restou claro que o interesse recursal fora na revaloração de provas e não em sua análise, eis que todas foram delineadas nos autos.
+E quanto ao critério de fixação de honorários, deve-se à obediência ao código de processo civil vigente na sentença que o determinou, conseguintemente, a determinação de incidência do Tema 1105/STJ.
+Quanto aos juros de mora (Súmula 204 e 83 do STJ), o Agravante apontou que embora a súmula 204/STJ preveja sua incidência somente a partir da citação, é certo que o novo Código de Processo Civil expressamente dispõe sobre a incidência dos juros desde o evento de mora, notadamente, em demanda previdenciária, a DER. E Ainda acrescentou que, ainda que haja posicionamento deste C. STJ é certo que a Súmula 83 não pode ser um óbice a discussão acerca da manutenção do precedente, frente a novos argumentos, sob pena de imutabilidade dos precedentes Ou seja, ao contrário da fundamentação da decisão, ora agravada, a parte agravante, atacou de forma específica a inadmissão do seu recurso especial, atacando expressamente as Súmulas aplicadas, em especial, a Súmula 7, 204 e 83/STJ, bem como esclarecendo quanto a matéria constitucional, portanto a Súmula 182/STJ é inaplicável ao caso.
+(..)
+Pleiteia a reconsideração do decisum agravado ou a submissão do recurso à Turma.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TAXA DE JUROS E CORREÇÃO MONETÁRIA. RE 579.431 (TEMA 96). TERMO FINAL PARA INCIDÊNCIA DE JUROS DE MORA. AUSÊNCIA DE INTERESSE DE AGIR. RECURSO QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO VERGASTADA. SÚMULA 182/STJ. ART. 932, III, DO CPC.
+1. Na hipótese dos autos, nota-se que a Corte de origem não admitiu o Recurso Especial sob o fundamento de que, quanto ao termo final dos juros moratórios, o acórdão recorrido determinou sua incidência no período entre a data da conta de liquidação e a data de expedição do precatório, motivo pelo qual a pretensão do recorrente, no sentido de que se reconheça a incidência de tais juros, até referido marco, carece de interesse de agir.
+2. Nas razões do Agravo, verifica-se que a parte agravante deixou de impugnar específica e integralmente a decisão recorrida, limitando-se a afirmar não incidir, in casu, os óbices da s Súmulas 7, 83 e 204/STJ. Dessarte, percebe-se que não houve manifestação da parte quanto à ausência de interesse de agir.
+3. Incide, por analogia, a Súmula 182/STJ, assim como o art. 932, III, do CPC/2015, porquanto a parte agravante não atacou especificamente todos os fundamentos da decisão agravada.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN: Os autos foram recebidos neste Gabinete em 19.2.2024.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Na hipótese dos autos, o Tribunal de origem, ao inadmitir o Recurso Especial, consignou:
+(..)
+Em prosseguimento, não cabe admitir o recurso tampouco naquilo em que pleiteada a condenação do INSS, por juros de mora, desde a data do requerimento administrativo.
+No ponto, o acórdão recorrido, ao fixar os juros de mora a partir da data da citação, nos termos do Manual de Cálculos da Justiça Federal, seguiu a orientação jurisprudencial predominante no âmbito do STJ, tal como sintetizada no enunciado da Súmula 204/STJ: "Os juros de mora nas ações relativas a benefícios previdenciários incidem a partir da citação válida".
+Quanto ao termo final dos juros moratórios, o acórdão recorrido determinou sua incidência no período entre a data da conta de liquidação e a data expedição do precatório, razão pela qual a pretensão do recorrente para que se reconheça a incidência de tais juros, até referido marco, carece de interesse de agir.
+No que se refere à pretensão de incidência de juros de mora entre a data da expedição do precatório e a do efetivo pagamento, o acórdão resolveu a controvérsia pautando-se por fundamento de índole eminentemente constitucional, interpretando-se diretamente a norma contida no art. 100 da Carta Magna.
+Dessa forma, não se admite seja conferido trânsito ao especial, por não ser da competência do STJ reexaminar a interpretação conferida pelas instâncias ordinárias a dispositivos constitucionais.
+(..)
+Nota-se que a Corte de origem não admitiu o Recurso Especial sob o fundamento de que, quanto ao termo final dos juros moratórios, o acórdão recorrido determinou sua incidência no período entre a data da conta de liquidação e a data da expedição do precatório, motivo pelo qual a pretensão do recorrente, no sentido de que se reconheça a incidência de tais juros, até referido marco, carece de interesse de agir.
+Nas razões do Agravo, verifica-se que a parte agravante deixou de impugnar específica e integralmente a decisão recorrida, limitando-se a afirmar não incidir, in casu, os óbices das Súmulas 7, 83 e 204/STJ. Dessarte, percebe-se que não houve manifestação da parte quanto à ausência de interesse de agir.
+Incide, por analogia, a Súmula 182/STJ, assim como o art. 932, III, do CPC/2015, porquanto a parte agravante não atacou especificamente todos os fundamentos da decisão agravada.
+Registre-se que tal entendimento foi recentemente mantido, pela Corte Especial do STJ, em 19.9.2018, no julgamento dos EAREsp 701.404/SC, EAREsp 746.775/PR e EAREsp 831.326/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, DJe de 30.11.2018. Se a lei estabelece pressupostos ou requisitos para a admissibilidade do recurso - no particular, tanto o art. 544, § 4º, I, do CPC/1973 quanto o art. 932, III, do CPC/2015 determinam a necessidade de impugnação específica dos fundamentos da decisão de inadmissibilidade -, cabe à parte proceder em estrito cumprimento às determinações legais. Isso porque, admitindo-se que a não impugnação específica de um dos pontos pudesse ensejar o conhecimento dos demais controvertidos, incorrer-se-ia no julgamento, posteriormente, no REsp, de questão contra a qual não houve irresignação (preclusa, portanto). Com efeito, "o acesso à Justiça se dá na forma disciplinada pelas leis e pela jurisprudência consolidada nos tribunais. Por isso, o cumprimento dos requisitos de admissibilidade do recurso se impõe; não por simples formalismo, mas por observância das normas legais" (AgRg no AgRg no Ag 900.380/RJ, Rel. Ministro VASCO DELLA GIUSTINA (Desembargador convocado do TJ/RS), TERCEIRA TURMA, DJe de 18.5.2009).
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
