@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. MANDADO DE INJUNÇÃO. ADICIONAL NOTURNO. EXECUÇÃO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. O Tribunal de origem reconheceu que já tinha sido "exaustivamente demonstrado nos autos que o marco inicial correto da exigibilidade do pagamento do pagamento do adicional noturno pleiteado será a partir de 23.11.2018, ou seja, após o decurso do prazo concedido de 180 (cento e oitenta) dias do trânsito em julgado do acórdão (23.05.2018 - mov. 21 dos autos originários, sob o n. 0118994.05.2016.8.09.0000)". O exame da pretensão recursal exige, necessariamente, incursão no acervo fático-probatório dos autos, o que é inviável em recurso especial de acordo com a Súmula 7 do Superior Tribunal de Justiça (STJ).
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo ESTADO DE GOIAS contra a decisão de minha relatoria que conheceu do agravo para não conhecer do recurso especial.
+A parte agravante afirma que "o enfrentamento da quaestio iuris apresentada a essa Corte prescinde de reexame fático-probatório, pois se discute, apenas, o marco inicial da exigibilidade do pagamento de adicional noturno, à vista dos arts. 8º, II e 9º da Lei n. 13.300/16" (fl. 348).
+Requer a reconsideração da decisão agravada ou a submissão do feito ao órgão julgador competente.
+Com impugnação às fls. 355/369.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. MANDADO DE INJUNÇÃO. ADICIONAL NOTURNO. EXECUÇÃO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. O Tribunal de origem reconheceu que já tinha sido "exaustivamente demonstrado nos autos que o marco inicial correto da exigibilidade do pagamento do pagamento do adicional noturno pleiteado será a partir de 23.11.2018, ou seja, após o decurso do prazo concedido de 180 (cento e oitenta) dias do trânsito em julgado do acórdão (23.05.2018 - mov. 21 dos autos originários, sob o n. 0118994.05.2016.8.09.0000)". O exame da pretensão recursal exige, necessariamente, incursão no acervo fático-probatório dos autos, o que é inviável em recurso especial de acordo com a Súmula 7 do Superior Tribunal de Justiça (STJ).
+2. Agravo interno a que se nega provimento.
+VOTO
+Não obstante as alegações da parte agravante, razão não lhe assiste.
+Nos exatos termos do acórdão recorrido, o Tribunal de origem assim se manifestou sobre a controvérsia (fl. 239):
+ ..  o Estado de Goiás interpõe agravo interno contra a decisão inserida na mov. 19, que acolheu em parte a impugnação, por ele, oposta para: fixar a exigibilidade do pagamento do débito pleiteado a partir de 23.11.2018; indeferir o pedido de desmembramento dos honorários contratuais e condená-lo ao pagamento de honorários advocatícios, no percentual de 10% (dez por cento), sobre o valor remanescente da execução, nos termos do artigo 85, § 3º, inciso I, c/c artigo 86, parágrafo único, ambos do Código de Processo Civil.
+De pronto, verifico que os argumentos trazidos na irresignação são insuficientes, inábeis à alteração do posicionamento contra o qual se rebela o agravante.
+Com efeito, já restou exaustivamente demonstrado nos autos que o marco inicial correto da exigibilidade do pagamento do pagamento do adicional noturno pleiteado será a partir de 23.11.2018, ou seja, após o decurso do prazo concedido de 180 (cento e oitenta) dias do trânsito em julgado do acórdão (23.05.2018 - mov. 21 dos autos originários, sob o n. 0118994.05.2016.8.09.0000), conforme restou consignado na decisão agravada.
+Porquanto, depreende-se que, no caso vertente, o acórdão executado adotou a posição concretista intermediária, declarando a omissão legislativa do direito dos servidores públicos representados pelo impetrante de receberem o adicional noturno, previsto no artigo 7º, IX, c/c artigo 39, §3º, ambos da CF/88 e art. 95, VI, da Constituição Estadual. E, ainda, estipulou o prazo de 180 (cento e oitenta) dias para que a norma regulamentadora fosse editada, sob pena de se permitir ao impetrante usufruir de seu direito constitucional, obstado pela falta de regulamentação.
+Assim, findo este prazo estipulado pelo julgador, para a edição da norma, e permanecendo a inércia do órgão, o direito pleiteado foi concretizado.
+Conforme consignado na decisão agravada, o Tribunal de origem reconheceu que já tinha sido "exaustivamente demonstrado nos autos que o marco inicial correto da exigibilidade do pagamento do pagamento do adicional noturno pleiteado será a partir de 23.11.2018, ou seja, após o decurso do prazo concedido de 180 (cento e oitenta) dias do trânsito em julgado do acórdão (23.05.2018 - mov. 21 dos autos originários, sob o n. 0118994.05.2016.8.09.0000)" (fl. 239).
+A confirmação da alegação de que haveria decisão proferida pelo Presidente do Tribunal de Justiça do Estado de Goiás prorrogando o marco inicial da exigibilidade do adicional noturno para 22/7/2019 implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Ressalto que "" a  errônea valoração da prova que enseja a incursão desta Corte na questão é a de direito, ou seja, quando decorre de má aplicação de regra ou princípio no campo probatório e não para que se colham novas conclusões sobre os elementos informativos do processo" (AgInt no AREsp 970.049/RO, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 04/05/2017, DJe de 09/05/2017)" (AgInt no AREsp 2.020.073/PR, relator Ministro Humberto Martins, Segunda Turma, julgado em 29/5/2023, DJe de 31/5/2023).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
