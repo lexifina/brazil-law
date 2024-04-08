@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. TAXA DE OCUPAÇÃO DE TERRENOS DE MARINHA. REAJUSTE. PRÉVIA INTIMAÇÃO DO INTERESSADO . NECESSIDADE. PROVIMENTO NEGADO.
+1. A Primeira Seção desta Corte, no julgamento dos EREsp 1.241.464/SC (relator Ministro Benedito Gonçalves, DJe de 4/11/2013), concluiu ser necessária a intimação pessoal do interessado no caso de reajuste da taxa de ocupação com base na valorização mercadológica do imóvel situado em terreno da marinha. No mesmo sentido: AgInt nos EREsp 1.405.041/SC, relator Ministro Benedito Gonçalves, Primeira Seção, DJe de 16/8/2017.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pela UNIÃO contra a decisão de minha relatoria que conheceu do agravo de Luiz Manuel Jesus Ferreira e Outros para dar provimento ao recurso especial (fls. 1.153/1.158).
+A parte agravante alega, em síntese, que o reajuste da taxa de ocupação dos terr enos de marinha independe de prévio aviso.
+Requer a reconsideração da decisão agravada ou a apresentação do feito ao órgão colegiado julgador.
+A parte adversa apresentou impugnação (fl. 1.171/1.180).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. TAXA DE OCUPAÇÃO DE TERRENOS DE MARINHA. REAJUSTE. PRÉVIA INTIMAÇÃO DO INTERESSADO . NECESSIDADE. PROVIMENTO NEGADO.
+1. A Primeira Seção desta Corte, no julgamento dos EREsp 1.241.464/SC (relator Ministro Benedito Gonçalves, DJe de 4/11/2013), concluiu ser necessária a intimação pessoal do interessado no caso de reajuste da taxa de ocupação com base na valorização mercadológica do imóvel situado em terreno da marinha. No mesmo sentido: AgInt nos EREsp 1.405.041/SC, relator Ministro Benedito Gonçalves, Primeira Seção, DJe de 16/8/2017.
+2. Agravo interno a que se nega provimento.
+VOTO
+Não obstante os argumentos da parte agravante, razão não lhe assiste.
+A Primeira Seção desta Corte, no julgamento dos EREsp 1.241.464/SC (relator Ministro Benedito Gonçalves, DJe de 4/11/2013), concluiu ser necessária a intimação pessoal do interessado no caso de reajuste da taxa de ocupação com base na valorização mercadológica do imóvel situado em terreno da marinha. No mesmo sentido: AgInt nos EREsp 1.405.041/SC, relator Ministro Benedito Gonçalves, Primeira Seção, DJe de 16/8/2017.
+Nessa mesma linha de entendimento, cito os seguintes julgados:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO RESCISÓRIA. VIOLAÇÃO FLAGRANTE DE DISPOSITIVO LEGAL. AUSÊNCIA. TERRENO DE MARINHA. TAXA DE OCUPAÇÃO. BASE DE CÁLCULO. MODIFICAÇÃO. DOMÍNIO PLENO DO IMÓVEL. VALOR DE MERCADO. INTIMAÇÃO DOS INTERESSADOS. NECESSIDADE.
+1. A procedência da ação rescisória por violação de literal disposição de lei exige que a interpretação dada pelo juízo rescindendo deve configurar violação clara e evidente de dispositivo legal em sua literalidade. Precedentes.
+2. Se o julgado rescindendo elege uma dentre as interpretações cabíveis, ainda que não seja a melhor, a ação rescisória não merece prosperar, sob pena de tornar-se um mero "recurso" com prazo de "interposição" de dois anos (AgInt nos EDcl na AR 6.230/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, julgado em 01/06/2021, DJe 04/06/2021).
+3. Hipótese em que a parte autora defende a aplicação do REsp 1.150.579/SC, representativo de controvérsia, no qual foi firmado o entendimento de que o reajuste das taxas de ocupação, mediante a atualização do valor venal do imóvel, não configura imposição ou mesmo agravamento de um dever, mas sim recomposição de patrimônio.
+4. No julgamento dos Embargos de Divergência em Recurso Especial 1.241.464/SC, foi esclarecido que o aludido paradigma (REsp 1.150.579/SC) dispensou a intimação prévia dos interessados tão somente na hipótese de reajuste da taxa de ocupação decorrente da atualização monetária do valor venal do imóvel.
+5. No caso, segundo constou no acórdão rescindendo, não ocorreu mera correção monetária do valor do imóvel, mas revisão do valor do domínio pleno, o que reclama a intimação do interessado.
+6. Improcedência do pedido. (AR 5.323/SC, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 28/9/2022, DJe de 4/11/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. TERRENO DE MARINHA. TAXA DE OCUPAÇÃO. REAJUSTE. MODIFICAÇÃO DA BASE DE CÁLCULO. VALOR DE MERCADO DO DOMÍNIO PLENO DO IMÓVEL. INTIMAÇÃO DOS INTERESSADOS. NECESSIDADE.
+1. No REsp n. 1.150.579/SC, submetido ao rito do art. 543-C do CPC/1973, firmou-se entendimento de que o reajuste das taxas de ocupação, mediante a atualização do valor venal do imóvel, não configura imposição ou mesmo agravamento de um dever, mas sim recomposição de patrimônio.
+2. Posteriormente, a Primeira Seção desta Corte de Justiça, ao julgar os EREsps n. 1.241.464/SC, esclareceu que, no Recurso Especial repetitivo n. 1.150.579/SC, dispensou-se a intimação prévia dos interessados tão somente na hipótese de reajuste da taxa de ocupação decorrente da atualização monetária do valor venal do imóvel.
+3. "A reavaliação do valor de mercado do imóvel qualificado como terreno de marinha, embora esteja contida na primeira parte do art. 1º do DL n. 2.398/1987 ("calculada sobre o valor do domínio pleno do terreno") e até seja uma obrigação legal (v.g.: artigos 3º-A, inciso V, 12, 24 da Lei n. 9.636/1988), não pode implicar imediata exigência de novo valor de taxa de ocupação, sem o prévio conhecimento daqueles que irão suportar esse ônus" (Eresp 1241464/SC, Relator Ministro Benedito Gonçalves, Dje 04/11/2013).
+4. A atualização do domínio pleno do imóvel, para a cobrança da taxa de ocupação, é autorizada pelos arts. 1º do Decreto-Lei n. 2.398/1987 e 101 do Decreto-Lei n. 9.760/1946, mediante reavaliação do valor de mercado do imóvel, com a ressalva de que, havendo a alteração da base de cálculo, há a necessidade de intimação prévia dos interessados, o que é dispensável tão somente nos casos de mera atualização monetária.
+5. Hipótese em que a Secretaria de Patrimônio da União procedeu à atualização da base cadastral do imóvel sem a efetiva intimação do interessado, publicando o ato de reajuste por meio de jornais locais, circunstância que invalida o procedimento administrativo.
+6. Agravo interno desprovido. (AgInt no AREsp 1.931.834/RN, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 4/4/2022, DJe de 12/4/2022.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC. TERRENO DE MARINHA. TAXA DE OCUPAÇÃO. VALORIZAÇÃO IMOBILIÁRIA. REAJUSTE. NOTIFICAÇÃO PESSOAL.
+1. Conforme exposto no aresto ora embargado, a Primeira Seção do Superior Tribunal de Justiça, no julgamento do REsp 1.150.579/SC, submetido ao rito dos Recursos Especiais repetitivos, firmou o entendimento de que o reajuste das taxas de ocupação, mediante a atualização do valor venal do imóvel, não configura imposição ou mesmo agravamento de um dever, mas sim recomposição de patrimônio. Sendo assim, dispensa-se o procedimento administrativo prévio, com o contraditório e a ampla defesa, ficando assegurados aos administrados, contudo, os recursos necessários após a divulgação dos novos valores.
+2. Ocorre que, posteriormente, ao julgar os Embargos de Divergência em Recurso Especial 1.241.464/SC, foi esclarecido que o aludido paradigma (REsp 1.150.579/SC) dispensou a intimação prévia dos interessados tão somente na hipótese de reajuste da taxa de ocupação decorrente da atualização monetária do valor venal do imóvel.
+3. Assim, "a reavaliação do valor de mercado do imóvel qualificado como terreno de marinha, embora esteja contida na primeira parte do art. 1º do DL n. 2.398/1987 ("calculada sobre o valor do domínio pleno do terreno") e até seja uma obrigação legal (v.g.: artigos 3º-A, inciso V, 12, 24 da Lei n. 9.636/1988), não pode implicar imediata exigência de novo valor de taxa de ocupação, sem o prévio conhecimento daqueles que irão suportar esse ônus" (EREsp 1.241.464/SC, Relator Ministro Benedito Gonçalves, Primeira Seção, DJe 4/11/2013).
+4. Da leitura dos autos se extrai que não houve mero reajuste monetário da taxa de ocupação, mas estipulação de novo valor de mercado, para adequação à valorização imobiliária do local.
+5. Embargos de Declaração acolhidos, com efeitos infringentes, para dar parcial provimento ao Recurso Especial dos particulares. (EDcl no REsp 1.758.068/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/4/2019, DJe de 29/5/2019.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
