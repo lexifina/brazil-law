@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. TRIBUNAL DE ORIGEM QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA ILEGITIMIDADE DA AGRAVANTE PARA EXECUTAR TÍTULO JUDICIAL FORMADO EM MANDADO DE SEGURANÇA COLETIVO. LIMITES SUBJETIVOS. COISA JULGADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1.  Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7 do STJ.
+2.  Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  por ADILCE SOARES MARTINS contra  a  decisão  que  conheceu  do  agravo  em  recurso  especial,  para não conhecer do recurso especial, pela aplicação da Súmula 7/STJ.
+Argumenta  a  parte agravante,  em  síntese,  que os "fatos lançados no acórdão do TRF 2 são por si só suficientes para deixar claro que não houve delimitação no título coletivo quanto a determinada categoria de servidores presentes em listas, associados, ou mesmo vinculados a determinada gerência, pois essa vinculação foi afastada, e, dessa forma, aplica-se o entendimento pacificado do STJ no sentido da ampla substituição processual dos sindicatos, nas coisas julgadas em que não há delimitação expressa, superando-se o óbice da súmula 7 do STJ, pois a coisa julgada no mandamus, narrada no acórdão do TRF 2, com riqueza de detalhes, permite que o recurso especial seja conhecido e provido, sem necessidade de revolvimento de matéria fática" (e-STJ, fl. 635).
+Defende, ainda, que "os efeitos do título transitado em julgado de mandado de segurança coletivo impetrado por sindicato são regidos pelo art. 22 da Lei nº 12.016/2009, que dispõe que a coisa julgada, nesses casos, opera efeitos em relação a toda a categoria substituída processualmente" (e-STJ, fl. 635).
+Por fim, pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. TRIBUNAL DE ORIGEM QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA ILEGITIMIDADE DA AGRAVANTE PARA EXECUTAR TÍTULO JUDICIAL FORMADO EM MANDADO DE SEGURANÇA COLETIVO. LIMITES SUBJETIVOS. COISA JULGADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1.  Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7 do STJ.
+2.  Agravo  interno  não  provido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA  (Relator):  Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Em relação à legitimidade para execução do título formado em mandado de segurança coletivo, o aresto de origem consignou o seguinte (e-STJ, fls. 488/490):
+Ocorre que o mandado de segurança coletivo foi ajuizado pelo SINDISPREV-RJ, "contra ato da CHEFIA DA SECÇÃO DE RECURSOS HUMANOS DA GERÊNCIA EXECUTIVA DO INSS NORTE/RJ " (Evento 1 - ANEXO2 - fl. 2 do pdf), na qualidade de substituto processual dos "servidores públicos federais aposentados proporcionalmente e vinculados à demandada, lotados na Gerência Executiva Norte", in verbis:
+"I - DA SUBSTITUIÇÃO PROCESSUAL
+O Sindicato - Autor atua no presente feito, na qualidade de substituto processual da categoria de servidores públicos federais aposentados proporcionalmente e vinculados à demandada, lotados na Gerência Executiva Norte, todos regidos pelas disposições da Lei m º 8.112/90 (RJU), pelos preceitos constitucionais e legislação específica aplicável."
+(Evento 1 - ANEXO2 - fl.3 do pdf).
+Observa-se que, embora os sindicatos ostentem legitimação extraordinária, na qualidade de substitutos processuais para a defesa dos direitos e interesses coletivos ou individuais da categoria que representam (art. 8º, III, da CF), nesse caso, o SINDISPREV-RJ optou pelo ajuizamento de um mandado de segurança coletivo para cada Gerência Executiva do INSS. A título de exemplo, o mandado de segurança coletivo nº 2008.51.01.00849-0, contra ato da Gerência Executiva Centro/RJ, que foi extinto sem resolução do mérito.
+A sentença coletiva, por sua vez, concedeu a segurança "para determinar que a parte impetrada se abstenha de reduzir os valores recebidos pelos impetrantes a título de Gratificação de Desempenho de Atividade do Seguro Social - GDASS e da Gratificação Específica Previdenciária - GEP, com base na proporcionalização de suas aposentadorias, nos termos acima expendidos, limitando seus efeitos aos substituídos com domicílio sob abrangência da Subseção do Rio de Janeiro" - g.n. (Evento 222 - fl. 9 do pdf - mandado de segurança coletivo).
+No Tribunal, foi negado provimento à remessa necessária e à apelação do INSS, mantendo-se a condenação que determinou a extensão dos efeitos aos substituídos com domicílio na Seção Judiciária do Rio de Janeiro e esclarecendo, em suas razões de decidir, que a competência da Seção Judiciária abrange todo o Estado do Rio de Janeiro, e não somente a cidade do Rio de Janeiro (Evento 223 - fl. 9 do pdf - mandado de segurança coletivo).
+Em sede de execução coletiva, o Juízo da 6ª Vara Federal do Rio de Janeiro, ao ressaltar que o objeto da execução era a obrigação de não fazer imposta ao INSS, assentou que a execução referente a obrigação de pagar as parcelas indevidamente suprimidas, seria individual e de livre distribuição (Evento 6 - OUT1 - autos originários), destacando que:
+"( )
+Veja que a sentença, mantida pelos acórdãos, estendeu seus efeitos aos substituídos com domicílio no Estado do Rio de Janeiro, mas desde que vinculados à GERÊNCIA EXECUTIVA DO INSS NORTE/RJ, uma vez que é esta a autoridade coatora
+Sendo assim, a sentença abrange os servidores substituídos vinculados à GERÊNCIA NORTE DO RIO DE JANEIRO, com domicílio em todo o Estado do Rio de Janeiro.
+(..)."
+Nesse contexto, pode-se afirmar que o título executivo alcança os substituídos "(servidores públicos federais aposentados proporcionalmente e vinculados à demandada, lotados na Gerência Executiva Norte) " com domicílio em todo o Estado do Rio de Janeiro, de modo que ex-servidor vinculado a outra gerência não teria legitimidade para executá-lo, embora tais servidores também fossem integrantes do SINDISPREV-RJ
+ ..
+In casu, a exequente, ora agravada, é servidora aposentada vinculada ao quadro de pessoal da Gerência Executiva do INSS do Centro/RJ (Evento 1 - Anexo 39 - autos originários), e não à Gerência Executiva do INSS Norte/RJ.
+Dessa forma, é possível concluir que a Agravada não possui legitimidade para executar o título judicial formado nos autos do Mandado de Segurança Coletivo n.º 0005726-05.2008.4.02.5101, cujos substituídos foram tão somente os servidores aposentados vinculados à GERÊNCIA EXECUTIVA DO INSS NORTE / RJ, razão pela qual deve ser reformada a decisão recorrida para extinguir o processo originário sem resolução do mérito).
+A alteração da conclusão do Tribunal a quo, vez que a pretensão recursal consiste no reconhecimento da violação à coisa julgada por meio da revisão da interpretação do teor do título executivo judicial realizada pela Corte de origem, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido, a jurisprudência do STJ firmou entendimento de que "esta Corte Superior de Justiça firmou orientação no sentido de não ser possível, em recurso especial, rever o posicionamento adotado pelo Tribunal de origem quanto ao teor do título em execução, a fim de verificar-se possível ofensa à coisa julgada, aplicando o enunciado da Súmula 7/STJ" (AgInt no AREsp 770.444/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 15/3/2019).
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE TÍTULO FORMADO EM AÇÃO COLETIVA. LIMITES SUBJETIVOS DO TÍTULO. COISA JULGADA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. O acórdão recorrido está em consonância com a jurisprudência dominante desta Corte segundo a qual no caso de expressa limitação no título executivo quanto aos beneficiários da ação coletiva é indevida a inclusão de servidor que não integrou a listagem, sob pena de ofensa à coisa julgada. Precedentes.
+2. Rever o teor do título executivo para desconstituir a conclusão do Tribunal de origem, nos termos pretendidos no recurso, é providência que esbarra no óbice contido na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento (AgInt no AREsp n. 2.257.270/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 4/9/2023, DJe de 8/9/2023).
+Isso posto, nego provimento ao recurso.
