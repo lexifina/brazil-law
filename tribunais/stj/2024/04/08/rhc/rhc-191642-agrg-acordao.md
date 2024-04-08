@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. LAVAGEM DE CAPITAIS. TRANCAMENTO DA AÇÃO PENAL. ATIPICIDADE DA CONDUTA. CRIME ANTECEDENTE. QUESTÃO NÃO ANALISADA PERANTE A CORTE A QUO. ANÁLISE FÁTICO-PROBATÓRIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Questões aqui trazidas que não foram alvo de cognição pela Corte estadual que entendeu que sua análise demandaria incursão em conteúdo fático-probatório dos autos. O Tribunal de Justiça do Rio Grande do Sul destacou a impropriedade da via eleita para análise do pleito da defesa, entendendo que a questão deve ser objeto de apuração durante a instrução processual. Tal situação obsta o exame da matéria diretamente por este Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+2. "O crime de lavagem de capitais é delito autônomo em relação à infração penal antecedente. Assim, a falta de identificação da autoria ou da comprovação da materialidade do crime antecedente não prejudica a imputação de lavagem de ativos, sendo de se exigir apenas a demonstração da ilicitude da origem dos ativos "(AgRg no REsp n. 1.875.233/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), relator para acórdão Ministro João Otávio de Noronha, Quinta Turma, julgado em 7/6/2022, DJe de 23/6/2022).
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por DANIEL TEVAH, EDUARDO TEVAH e ISRAEL MARINS TEVAH contra decisão que rejeitou os embargos de declaração opostos contrariamente ao decisum que não conheceu do recurso em habeas corpus.
+Em seu arrazoado, os agravantes repetem as alegações apresentadas no recurso ordinário e nos embargos de declaração.
+Requerem a reconsideração da decisão a fim de se trancar parcialmente a ação penal.
+Subsidiariamente, pedem que seja determinado ao Tribunal a quo que analise a questão suscitada no habeas corpus originário.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. LAVAGEM DE CAPITAIS. TRANCAMENTO DA AÇÃO PENAL. ATIPICIDADE DA CONDUTA. CRIME ANTECEDENTE. QUESTÃO NÃO ANALISADA PERANTE A CORTE A QUO. ANÁLISE FÁTICO-PROBATÓRIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Questões aqui trazidas que não foram alvo de cognição pela Corte estadual que entendeu que sua análise demandaria incursão em conteúdo fático-probatório dos autos. O Tribunal de Justiça do Rio Grande do Sul destacou a impropriedade da via eleita para análise do pleito da defesa, entendendo que a questão deve ser objeto de apuração durante a instrução processual. Tal situação obsta o exame da matéria diretamente por este Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+2. "O crime de lavagem de capitais é delito autônomo em relação à infração penal antecedente. Assim, a falta de identificação da autoria ou da comprovação da materialidade do crime antecedente não prejudica a imputação de lavagem de ativos, sendo de se exigir apenas a demonstração da ilicitude da origem dos ativos "(AgRg no REsp n. 1.875.233/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), relator para acórdão Ministro João Otávio de Noronha, Quinta Turma, julgado em 7/6/2022, DJe de 23/6/2022).
+3. Agravo regimental desprovido.
+VOTO
+O agravo não comporta provimento.
+Os agravantes insistem em alegar que a apreciação do presente recurso não demanda dilação probatória, "porque já constam documentos, inclusive referenciados pelo agravado na denúncia, confirmando a tese defensiva, isto é, atestando a atipicidade do delito de lavagem, por ausência de crime antecedente (sonegação fiscal)." (e-STJ, fl. 143). Afirmam ainda que a ausência do delito antecedente emerge da própria denúncia.
+No entanto, conforme explicitado, as questões aqui trazidas não foram alvo de cognição pela Corte estadual que entendeu que sua análise demandaria incursão em conteúdo fático-probatório dos autos. O Tribunal de Justiça do Rio Grande do Sul destacou a impropriedade da via eleita para análise do pleito da defesa, entendendo que a questão deve ser objeto de apuração durante a instrução processual. Tal situação obsta o exame da matéria diretamente por este Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Ademais, como já dito, " o  crime de lavagem de capitais é delito autônomo em relação à infração penal antecedente. Assim, a falta de identificação da autoria ou da comprovação da materialidade do crime antecedente não prejudica a imputação de lavagem de ativos, sendo de se exigir apenas a demonstração da ilicitude da origem dos ativos "(AgRg no REsp n. 1.875.233/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), relator para acórdão Ministro João Otávio de Noronha, Quinta Turma, julgado em 7/6/2022, DJe de 23/6/2022).
+Diante do exposto, nego provimento ao agravo regimental.
+É como voto.
