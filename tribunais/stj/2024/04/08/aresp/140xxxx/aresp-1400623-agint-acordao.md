@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  PLANO  DE  SAÚDE  COLETIVO.  MENSALIDADES.  REAJUSTE.  SINISTRALIDADE.  PERCENTUAIS.  AUSÊNCIA  DE  COMPROVAÇÃO.  ABUSIVIDADE.  CONJUNTO  FÁTICO-PROBATÓRIO.  CLÁUSULAS  CONTRATUAIS.  REEXAME.  IMPOSSIBILIDADE.  SÚMULAS  NºS  5  E  7/STJ.
+1.  Discute-se  nos  autos  acerca  da  abusividade  do  reajuste  da  mensalidade  aplicado  pelo  plano  de  saúde  com  base  na  sinistralidade.
+2.  Na  hipótese,  acolher  a  tese  pleiteada  pela  agravante  exigiria  exceder  os  fundamentos  do  acórdão  impugnado  e  adentrar  no  exame  das  provas  e  cláusulas  contratuais,  procedimentos  vedados  em  recurso  especial,  a  teor  das  Súmulas  nºs  5  e  7/STJ.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  BRADESCO  SEGUROS  S.A.  contra  a  decisão  que  conheceu  do  agravo  para  não  conhecer  do  recurso  especial  devido à  incidência  das  Súmulas  nºs  5  e  7/STJ  (fls.  787/789  e-STJ).
+Nas presentes  razões  (fls.  794/814  e-STJ),  a  agravante  postula  a  reforma  da  decisão  atacada  argumentando  não  ser  o  caso  de  aplicação  das  Súmulas  nºs  5  e  7/STJ.
+Sustenta  não haver
+"(..)  dúvidas  de  que  o  entendimento  esposado  pelo  e.  Tribunal  a  quo,  neste  ponto,  viola  supinamente  o  entendimento  desse  e.  STJ  no  caso  paradigma,  onde  se  entendeu  que  o  ônus  de  comprovar  eventual  abusividade  no  reajuste  por  sinistralidade  -  cuja  licitude  sequer  foi  negada  em  abstrato  pelo  v.  acórdão  recorrido,  diga-se  -  cabe  à  parte  autora,  aqui  agravada,  por  se  tratar  de  fato  constitutivo  de  seu  direito"  (fl.  799  e-STJ).
+Impugnação  às  fls.  818/831  ( e-STJ).
+É  o  relatório.
+EMENTA
+  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  PLANO  DE  SAÚDE  COLETIVO.  MENSALIDADES.  REAJUSTE.  SINISTRALIDADE.  PERCENTUAIS.  AUSÊNCIA  DE  COMPROVAÇÃO.  ABUSIVIDADE.  CONJUNTO  FÁTICO-PROBATÓRIO.  CLÁUSULAS  CONTRATUAIS.  REEXAME.  IMPOSSIBILIDADE.  SÚMULAS  NºS  5  E  7/STJ.
+1.  Discute-se  nos  autos  acerca  da  abusividade  do  reajuste  da  mensalidade  aplicado  pelo  plano  de  saúde  com  base  na  sinistralidade.
+2.  Na  hipótese,  acolher  a  tese  pleiteada  pela  agravante  exigiria  exceder  os  fundamentos  do  acórdão  impugnado  e  adentrar  no  exame  das  provas  e  cláusulas  contratuais,  procedimentos  vedados  em  recurso  especial,  a  teor  das  Súmulas  nºs  5  e  7/STJ.
+3.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+No  apelo  nobre,  a  agravante  sustentou  a  licitude  do  reajuste  por  sinistralidade  aplicado  ao  plano  de  saúde  coletivo  empresarial,  porquanto  previsto  expressamente  no  contrato  e  devidamente  demonstrada  a  metodologia  de  cálculo,  não  se  submetendo  aos  limites  de  reajustes  impostos  pela  Agência Nacional de Saúde Suplementar.
+Entretanto,  a  Corte  local  dirimiu  a  controvérsia  aos  seguintes  fundamentos:
+"(..)  tem-se  que  o  consumidor,  atualmente  com  61  anos  de  idade  (nascido  em12/09/1955  fls.  30),  é  beneficiário  do  plano  de  assistência  médica  coletivo  por  adesão,  oferecido  pela  Bradesco  e  administrado  pela  Qualicorp  (fls.  32).
+Ocorre  que,  ao  completar  59  anos  de  idade,  fora  surpreendido  com  um  reajuste  expressivo  na  mensalidade  do  aludido  seguro-saúde,  cujo  valor  saltou  de  R$1.745,15  para  R$  3.074,94  razão  pela  qual  ingressou  com  a  presente  ação  visando  a  a  declaração  de  nulidade  da  cláusula  contratual  que  determina  o  reajuste  de  faixa  etária  e  a  aplicação,  tão  somente,  dos  reajustes  autorizados  pela  ANS,  bem  como  restituição  dos  reajustes  pagos  a  maior  e  a  declaração  de  nulidade  dos  reajustes  anuais  e  por  sinistralidade  aplicados  também  de  forma  abusiva.
+Do  álbum  documental,  verifica-se  que  as  partes  convencionaram  o  reajuste  do  prêmio  mensal  por  mudança  de  faixa  etária  (cláusula  14.3,  fls.  119).
+Como  cediço,  os  reajustes  por  idade  encontram  permissivo  legal  no  art.  15  da  Lei  nº  9.656/98.
+Destarte,  é  possível  a  variação  do  valor  das  mensalidades  em  virtude  do  avanço  da  idade  do  beneficiário,  desde  que  haja  expressa  previsão  no  contrato,  que  se  observem  os  limites  impostos  pela  Lei  9.656/98  e  que  não  se  estabeleçam  índices  extremamente  onerosos  e  desarrazoados.
+Quanto  à  apontada  incompatibilidade  entre  o  reajuste  por  mudança  de  faixa  etária  e  o  CDC,  a  decisão  paradigmática  proferida  pelo  C.  Superior  Tribunal  de  Justiça  no  julgamento  do  Recurso  Especial  nº  1568244/RJ,  declarou  a  ausência  de  abusividade  em  tal  modalidade  de  reajuste,  o  qual  equilibra  a  repartição  dos  riscos  com  o  critério  da  solidariedade  intergeracional,  verbis:
+(..)
+No  caso  em  exame,  restara  evidente  que  o  reajuste  implementado  pela  operadora  de  saúde  (76,20%)  onerou  demasiadamente  o  consumidor,  cuja  mensalidade,  repita-se  saltara  de  R$  1.745,15  para  R$  3.074,94.
+Além  disso,  constata-se  que  os  aludidos  parâmetros  não  foram  observados,  sobretudo  porque  o  percentual  de  reajuste  aplicado  ao  seguro  saúde  do  conveniado  não  se  coaduna  às  regras  estabelecidas  pelo  artigo  3º,  I  e  II,  da  Resolução  Normativa  nº  63/2003  da  ANS,  que  dispõe,  verbis
+(..)
+Infere-se  da  referida  planilha  que  a  variação  acumulada  entre  a  sétima  e  a  décima  faixas  soma  130,21%,  ao  passo  que  a  variação  entre  a  primeira  e  a  sétima  faixas  é  de  97,88%,  a  evidenciar  que  aquele  valor  é,  indevidamente,  superior  a  este.
+Dessa  maneira,  é  de  rigor  reduzir  o  percentual  do  reajuste  da  faixa  acima  dos  59  anos  para  patamar  compatível  com  as  normas  da  ANS  e  com  a  legislação  aplicável  à  espécie,  garantindo  o  equilíbrio  econômico  da  avença"  (fls.  567/571  e-STJ).
+Diante  das  premissas  fáticas  estabelecidas  no  acórdão,  verifica-se  inviável  o  afastamento  dos  óbices  das  Súmulas  nºs  5  e  7/STJ.
+Alterar as  conclusões  do  acórdão  para  afastar  os  entendimentos  de  que  "(..)  a  ré  não  logrou  justificar  contabilmente  nem  tampouco  documentalmente  os  índices  que  foram  aplicados  à  mensalidade"  e  de que  "(..)  a  ré  não  indicou  qualquer  circunstância  excepcional  da  carteira  em  questão  a  justificar  tamanha  discrepância"  demandaria  a  interpretação  de  cláusulas  contratuais  e  a  incursão  no  conjunto  fático-probatório  dos  autos,  providências  vedadas  em  recurso  especial.
+Nesse  sentido:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PLANO  DE  SAÚDE  COLETIVO.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.  REAJUSTE  ANUAL.  SINISTRALIDADE.  POSSIBILIDADE.  PRECEDENTES.  FALTA  DE  DEMONSTRAÇÃO  DOS  CRITÉRIOS  PARA  ALCANÇAR  O  ÍNDICE  DE  REAJUSTE  PRETENDIDO.  AUSÊNCIA  DE  ELEMENTOS  PARA  AFERIR  A  SUA  REGULARIDADE.  ALTERAÇÃO  DAS  CONCLUSÕES  DO  ACÓRDÃO  RECORRIDO.  SÚMULAS  5  E  7/STJ  AGRAVO  INTERNO  DESPROVIDO.
+1.  Devidamente  analisadas  e  discutidas  as  questões  de  mérito,  e  fundamentado  corretamente  o  acórdão  recorrido,  de  modo  a  esgotar  a  prestação  jurisdicional,  não  há  falar  em  violação  dos  arts.  489  e  1.022  do  CPC/2015.
+2.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  caminha  no  sentido  de  que  "não  é  abusiva  a  cláusula  que  prevê  a  possibilidade  de  reajuste  do  plano  de  saúde,  seja  por  variação  de  custos  ou  por  aumento  de  sinistralidade"  (AgInt  no  AREsp  1400251/SP,  Rel.  Ministro  RAUL  ARAÚJO,  QUARTA  TURMA,  julgado  em  7/12/2020,  DJe  1º/2/2021).
+3.  Inviável  desconstituir  o  entendimento  delineado  no  acórdão  impugnado  quanto  à  abusividade  do  reajuste  e  ausência  de  justificativa  para  a  majoração  dos  valores  cobrados,  sem  que  se  proceda  ao  reexame  dos  fatos  e  das  provas  dos  autos  e  à  análise  do  contrato  firmado  entre  as  partes,  o  que  não  se  admite  nesta  instância  extraordinária,  em  decorrência  do  disposto  nas  Súmulas  5  e  7/STJ.
+4.  Agravo  interno  desprovido"  (AgInt  no  AREsp  2.354.490/SP,  Relator  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  23/10/2023,  DJe  de  25/10/2023).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  PLANO  DE  SAÚDE.  MENSALIDADES.  REAJUSTE.  OMISSÃO.  NÃO  OCORRÊNCIA.  ADEQUAÇÃO  DOS  REAJUSTES.  FUNDAMENTO  NÃO  ATACADO.  SÚMULA  Nº  283/STF.  SINISTRALIDADE.  AUMENTO.  ABUSIVIDADE.  INVERSÃO  DO  JULGADO.  IMPOS  SIBILIDADE.  SÚMULAS  NºS  5  E  7/STJ.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2.  Não  pode  ser  conhecido  o  recurso  especial  que  não  traz  impugnação  específica  dos  fundamentos  suficientes  do  acórdão  recorrido,  atraindo  a  incidência,  por  analogia,  da  Súmula  nº  283/STF.
+3.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  é  firme  no  sentido  de  ser  possível  o  reajuste  de  contratos  de  saúde  coletivos  sempre  que  a  mensalidade  do  seguro  ficar  cara  ou  se  tornar  inviável  para  os  padrões  da  empresa  contratante,  seja  por  variação  de  custos  ou  por  aumento  de  sinistralidade.
+4.  Na  hipótese,  rever  o  entendimento  da  instância  ordinária,  que  concluiu  pela  abusividade  do  reajuste,  demanda  o  reexame  de  cláusulas  do  contrato  e  das  provas  constantes  dos  autos,  procedimentos  obstados  pelas  Súmulas  nºs  5  e  7/STJ.
+5.  Agravo  interno  não  provido"  (AgInt  no  AREsp  2.236.520/RJ,  Relator  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  Terceira  Turma,  julgado  em  19/6/2023,  DJe  de  23/6/2023).
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
