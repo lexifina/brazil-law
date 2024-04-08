@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO COM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. NÃO CABIMENTO DO RECURSO ESPECIAL . PROVIMENTO NEGADO.
+1. O Tribunal de origem afastou a pretensão autoral fundamentado na interpretação do art. 225, § 1º, inciso IV, da Constituição Federal. Dessa forma, é forçoso reconhecer que, possuindo o acórdão recorrido fundamento eminentemente constitucional, revela-se descabida sua revisão pela via do recurso especial, sob pena de usurpação de competência do Supremo Tribunal Federal (STF), prevista no art. 102 da Constituição Federal.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por LNG INDUSTRIA E COMERCIO DE MADEIRAS LTDA contra a decisão da Presidência do Superior Tribunal de Justiça (STJ) de fls. 663/665.
+A parte agravante alega, em síntese, que, apesar de o acórdão recorrido citar o art. 225, § 1º, IV, da Constituição Federal (CF), há apenas violação indireta, considerando que o dispositivo legal diretamente contrariado foi o art. 8º da Lei Federal 6.938/1981.
+Requer a reconsideração da decisão agravada ou a apresentação do feito ao órgão colegiado julgador.
+A parte adversa não apresentou impugnação (fl. 694).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO COM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. NÃO CABIMENTO DO RECURSO ESPECIAL . PROVIMENTO NEGADO.
+1. O Tribunal de origem afastou a pretensão autoral fundamentado na interpretação do art. 225, § 1º, inciso IV, da Constituição Federal. Dessa forma, é forçoso reconhecer que, possuindo o acórdão recorrido fundamento eminentemente constitucional, revela-se descabida sua revisão pela via do recurso especial, sob pena de usurpação de competência do Supremo Tribunal Federal (STF), prevista no art. 102 da Constituição Federal.
+2. Agravo interno a que se nega provimento.
+VOTO
+Não obstante as alegações da parte agravante, razão não lhe assiste.
+A parte interpôs recurso especial indicando a violação do art. 8º, II, da Lei 6.938/1981, defendendo, em síntese, que a atividade praticada não causava impacto significativo ao meio ambiente, logo, era desnecessária a elaboração do EIA (Estudo de Impacto Ambiental) e do RIMA (Relatório de Impacto Ambiental).
+Nos exatos termos do acórdão recorrido, o Tribunal de origem assim se manifestou (fls. 485/486):
+No caso dos autos, a apelante sustenta que está obedecendo todos os passos preconizados na legislação ambiental para o licenciamento da serraria que pretende implementar no imóvel rural que adquiriu no Município de Belterra, bem como para posterior construção de um porto no local. Aduziu, também, que requereu todas as licenças ambientais necessárias para o desenvolvimento do mencionado empreendimento e que é indevida a exigência da elaboração de Estudos de Impacto Ambiental.
+Compulsando a documentação acostada ao processo, constatei que a Secretaria de Gestão do Meio Ambiente e Turismo do Município de Belterra emitiu um relatório, constante às fls. 10/21, após uma inspeção in loco de uma equipe técnica da referida secretaria realizada no local onde a apelante pretende implementar seu empreendimento, no qual ficou constatado que se tratava de uma área de proteção ambiental e que as obras de instalação da serraria já haviam sido iniciadas sem licença prévia expedida pela Secretaria de Meio Ambiente do Estado do Pará. Além disso, o mencionado relatório atestou que o empreendimento da apelante era gerador de significativos impactos ambientais.
+Outrossim, tendo o empreendimento da apelante capacidade de causar degradação ambiental, é necessário sim a elaboração de um estudo de impacto ambiental, conforme preceitua o art. 225, §1º, inciso IV, da Constituição Federal, in verbis:
+ ..
+Não há dúvida de que a intenção do legislador constitucional é prevenir todo e qualquer possível dano ao meio ambiente. E, se há qualquer possibilidade, por menor que seja, de que a atividade ou a obra a ser realizada possa degradar o meio ambiente, tem o Poder Público o dever de interferir.
+Destaca-se, portanto, a importância do Estudo de Impacto Ambiental para assegurar o equilíbrio ecológico do meio ambiente, tal qual nos é expressamente garantido no corpo da Carta Magna.
+Por conseguinte, como bem ressaltou a eminente representante do Parquet em seu judicioso parecer, sendo o empreendimento da apelante gerador de relevantes e significativos impactos ambientais, conforme demonstrou o relatório supramencionado elaborado pela Secretaria Municipal da Gestão do Meio Ambiente e Turismo do Município de Belterra, é imprescindível a elaboração de um Estudo de Impacto Ambiental objetivando resguardar o meio ambiente de uma possível degradação da empresa recorrente.
+A Corte local, ao decidir que era necessário elaborar o Estudo de Impacto Ambiental e, consequentemente, concluir pelo significativo impacto ambiental da atividade realizada pela parte agravante, valeu-se de fundamento eminentemente constitucional.
+Assim, a Presidência do STJ não conheceu do recurso, já que a jurisprudência desta Corte Superior é firme no sentido de que, possuindo o acórdão recorrido fundamento eminentemente constitucional, revela-se descabida sua revisão pela via do recurso especial, sob pena de usurpação de competência do Supremo Tribunal Federal (STF), prevista no art. 102 da Constituição Federal.
+Nesse sentido, cito os seguintes julgados do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ICMS. BASE DE CÁLCULO. PIS E COFINS. NÃO INCIDÊNCIA. FORMA DE CÁLCULO. ICMS DESTACADO NAS NOTAS FISCAIS VERSUS ICMS A RECOLHER NA COMPETÊNCIA. ACÓRDÃO RECORRIDO FUNDADO EM PRECEDENTE DO SUPREMO TRIBUNAL FEDERAL EM REPERCUSSÃO GERAL. AGRAVO INTERNO DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+ ..
+2. O Tribunal de origem apenas interpretou o precedente do Supremo Tribunal Federal em repercussão geral para aplicá-lo ao caso concreto, razão pela qual não cabe ao Superior Tribunal de Justiça dirimir a controvérsia em sede de Recurso Especial no pertinente à interpretação constitucional do referido RE 574.706 RG/PR, sob pena de usurpação da competência do Supremo Tribunal Federal prevista no art. 102 da Constituição Federal.
+3. Agravo Interno da FAZENDA NACIONAL a que se nega provimento. (AgInt no AREsp n. 1.578.077/SP, Ministro Manoel Erhardt -Desembargador Convocado do TRF da 5ª Região -, Primeira Turma, julgado em 19/4/2021, DJe de 29/4/2021 - sem destaque no original.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PENSÃO MILITAR. FILHA. REQUISITOS DO ART. 7º DA LEI 3.765/60 C/C LEI 8.216/91. ALEGADA OMISSÃO ACERCA DE VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. AFERIÇÃO. IMPOSSIBILIDADE DE ANÁLISE, EM SEDE DE RECURSO ESPECIAL. ALEGADA OFENSA AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE DAQUELA FIRMADA POR OUTROS TRIBUNAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. IMPOSSIBILIDADE DE APRECIAÇÃO DE MATÉRIA CONSTITUCIONAL, EM SEDE DE RECURSO ESPECIAL, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+V. Do exame do julgado combatido e das razões recursais, verifica-se que a solução da controvérsia possui enfoque eminentemente constitucional. Dessa forma, compete ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, no mérito, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal. Precedentes do STJ (AgRg no AREsp 584.240/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 03/12/2014; AgRg no REsp 1.473.025/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 03/12/2014).
+VI. Agravo interno improvido. (AgInt no REsp n. 1.377.313/CE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 18/4/2017, DJe de 26/4/2017 - sem destaque no original.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
