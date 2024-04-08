@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+TRIBUTÁRIO. AGENTE MARÍTIMO. RESPONSABILIDADE TRIBUTÁRIA. OBRIGAÇÃO DEVIDA PELO TRANSPORTADOR. INVIABILIDADE.
+1. E sta Corte firmou o entendimento segundo o qual o agente marítimo não deve ser responsabilizado por penalidade cometida pela inobservância de dever legal imposto ao transportador. Precedentes.
+2. O recurso especial, no caso, encontra óbice na Súmula 83 do STJ, porquanto o acórdão recorrido está em conformidade com a orientação jurisprudencial deste Tribunal Superior.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pela FAZENDA NACIONAL contra decisão em que não conheci do recurso especial, por incidência da Súmula 83 do STJ.
+Em suas razões, a parte sustenta que não é caso de aplicação do verbete sumular 83 do STJ.
+Para tanto, aduz que "o fundamento para imposição da multa está expresso em lei. A lei, in casu, os arts. 32 e 107, IV, "c" e "e", do DL 37/1966, atribuem ao agente marítimo a responsabilidade solidária pelo pagamento do imposto de importação, bem como pela prestação de informações à Receita Federal nos prazos legais. Essa responsabilidade decorre do texto expresso da lei e, não, da caracterização do agente como efetivo transportador" (e-STJ fl. 757).
+Pleiteia a reconsideração do julgado ou a sua submissão ao Órgão colegiado.
+Impugnação às e-STJ fls. 763/782.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. AGENTE MARÍTIMO. RESPONSABILIDADE TRIBUTÁRIA. OBRIGAÇÃO DEVIDA PELO TRANSPORTADOR. INVIABILIDADE.
+1. E sta Corte firmou o entendimento segundo o qual o agente marítimo não deve ser responsabilizado por penalidade cometida pela inobservância de dever legal imposto ao transportador. Precedentes.
+2. O recurso especial, no caso, encontra óbice na Súmula 83 do STJ, porquanto o acórdão recorrido está em conformidade com a orientação jurisprudencial deste Tribunal Superior.
+3. Agravo interno desprovido.
+VOTO
+Não obstante as razões apresentadas, a decisão recorrida não merece reforma.
+Consoante registrado no julgado ora impugnado, o apelo nobre se origina de ação anulatória de débito fiscal julgada procedente, visando à cobrança de crédito relativo à multa aplicada por meio de auto de infração, ante a não prestação de informações relativas à carga transportada.
+Em sede de apelação, o Tribunal de origem negou provimento ao recurso da Fazenda. No que interessa, veja o que está consignado no voto condutor do acórdão recorrido (e-STJ fl. 647 e seguintes):
+No que concerne ao dever de informação do transportador nas atividades alfandegárias, o artigo 37 do Decreto-Lei n. 37/1966 atribui ao transportador o dever de prestar à Secretaria da Receita Federal, na forma e no prazo por ela estabelecidos, as informações sobre as cargas transportadas, bem como sobre a chegada de veículo procedente do exterior ou a ele destinado. O §1º do dispositivo legal dispõe que também devem prestar as informações sobre as operações que executem e respectivas cargas (i) o agente de carga, assim considerada qualquer pessoa que, em nome do importador ou do exportador, contrate o transporte de mercadoria, consolide ou desconsolide cargas e preste serviços conexos, e (ii) o operador portuário, pessoa jurídica pré-qualificada para exercer as atividades de movimentação de passageiros ou movimentação e armazenagem de mercadorias. Veja-se o teor do dispositivo legal:
+(..)
+Por outro lado, o art. 107, inciso IV, alínea "e", do Decreto-lei 37/66 dispõe que a empresa de transporte internacional, inclusive a prestadora de serviços de transporte internacional expresso porta-a-porta, e/ou o agente de carga estão sujeitos à sanção pecuniária no montante de R$ 5.000,00 (cinco mil reais) se deixarem de prestar informação sobre veículo ou carga nele transportada, ou sobre as operações que execute, na forma e no prazo estabelecidos pela Secretaria da Receita Federal. Veja-se:
+(..)
+Portanto, a legislação tributária atribui ao transportador, ao agente de carga e operador portuário o dever instrumental de prestar à Secretaria da Receita Federal, na forma e no prazo por ela estabelecidos, as informações sobre as cargas transportadas, bem como sobre a chegada de veículo procedente do exterior ou a ele destinado, sujeitando-o à sanção pecuniária de R$ 5.000,00 (cinco mil reais), caso deixe de prestar informação sobre veículo ou carga nele transportada, ou sobre as operações que execute, na forma e no prazo estabelecidos pela Secretaria da Receita Federal.
+Ocorre que a parte autora é uma empresa de agenciamentos marítimos (agência marítima, também conhecida como agência de navegação), à qual incumbe a representação dos interesses de seus afretadores. Por ser uma agência marítima, atua na liberação de navios, visita a autoridades portuárias, realiza a comunicação de dados relativos à embarcação, dentre outras atividades do ramo, atuando por conta e ordem do armador estrangeiro como mero representante local de seus interesses. O agente marítimo atua, portanto, como representante do armador perante determinado porto, sendo a relação jurídica firmada entre ambos de um contrato de mandato, regulado pelo Código Civil de 2002.
+Não cabe, desta forma, imputar-lhe qualquer responsabilidade por infração ocorrida no interior da embarcação, uma vez que tenha agido estritamente dentro de suas atribuições. Assim, é de se assentir que, na qualidade de representante do armador, verdadeiro mandatário mercantil, o agenciador não está obrigado a assumir, em nome próprio, as obrigações vinculadas ao mandante (transportador).
+Nesses termos, a responsabilidade que se pretende atribuir à Agência Marítima, além de ultrapassar os limites da representação que lhe fora atribuída, fere o princípio da legalidade, por consistir em imposição de solidariedade/responsabilidade sem previsão legal.
+Veja-se que a figura do agente de carga (freight forwarder) não se confunde com a do agente marítimo/agente de navegação (shipping agent). O agente de carga é o responsável por agenciar a carga transportada, sendo contratado para, dentre outras atividades, realizar a consolidação, transporte e desconsolidação da mercadoria, bem como prestar serviços conexos. Já o agente marítimo é o profissional ou empresa que, representando o transportador marítimo efetivo, contrata, em nome deste, serviços e facilidades portuárias ou age em nome daquele perante as autoridades competentes ou perante os usuários de serviços.
+A jurisprudência vem afirmando a possibilidade de imposição da sanção pecuniária prevista no art. 107, inciso IV, alínea "e", do Decreto-lei 37/66 ao agente de carga que descumpra a obrigação acessória de prestar informação sobre o veículo ou carga nele transportada, ou sobre as operações que execute.
+Sobre o tema:
+(..)
+No que se refere ao agente marítimo, o Superior Tribunal de Justiça e os Tribunais Regionais Federais vêm se manifestando no sentido de que não se pode imputar responsabilidade tributária por infração (art. 107, inciso IV, alínea "e", do Decreto-lei 37/66) às agências marítimas em razão do descumprimento da obrigação acessória de prestar informação (art. 37 do Decreto-Lei n. 37/1966) pelo armador/transportador. Nesse sentido:
+(..)
+Com efeito, se não há equiparação entre ambas as figuras para fins tributários, tampouco se deve admitir a equiparação para fins de responsabilização do agente marítimo por infração administrativa cometida pelo descumprimento de dever que a lei impôs ao armador/transportador, ao agente de carga e ao operador portuário.
+Assim, é certo que as infrações apuradas nas embarcações referidas na inicial não podem ser imputadas ao seu agente marítimo, eis que inexistente qualquer norma legal de imputação de responsabilidade tributária à agência marítima pelo atraso na prestação de informações referentes ao veículo ou carga nele transportada, ou sobre as operações que execute.
+Ocorre que esse entendimento, como assentado na decisão ora combatida, não destoa da jurisprudência do Superior Tribunal de Justiça a respeito do tema, no sentido do afastamento da responsabilidade tributária do agente marítimo por obrigação devida pelo transportador.
+A título ilustrativo, os seguintes julgados:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO ORDINÁRIA. ART. 37, § 1º, DO DECRETO-LEI N. 37/1966. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. JURISPRUDÊNCIA PACIFICADA. AGENTE MARÍTIMO.
+INCIDÊNCIA ENUNCIADO N. 7 DA SÚMULA DO STJ. IMPEDIMENTO DE EXAME DO DISSÍDIO. CONSONÂNCIA COM A JUSRISPRUDÊNCIA. INCIDÊNCIA DO ENUNCIADO N. 83 DA SÚMULA DO STJ.
+I - Na origem, trata-se de ação ordinária objetivando a declaração de inexigibilidade da multa imposta no processo administrativo, bem como a restituição do montante indevidamente recolhido. Na sentença o pedido foi julgado improcedente. No Tribunal a quo, a sentença foi mantida.
+II - A jurisprudência do Superior Tribunal de Justiça encontra-se pacificada no sentido do afastamento do agente marítimo como responsável tributário por obrigação devida pelo transportador, situação diversa da aqui apresentada.
+III - Na hipótese dos autos, trata-se de equiparação do agente marítimo ao agente de carga, a teor da previsão contida no art. 37, § 1º, do Decreto-Lei n. 37/1966.
+IV - Conforme observado no acórdão recorrido, a responsabilidade da ora requerente advém da interpretação da legislação pertinente, a indicar, em conjunto com as circunstâncias factuais da infração, a alteração da imputação administrativa, trazendo a legitimidade do agente para responder pela autuação fiscal.
+V - Nesse panorama, verifica-se que tal convicção, adstrita à prova dos autos, implica a inviabilidade do exame dos dispositivos legais indicados como violados, em face da proibição de examinar, na estreita via do recurso especial, o conjunto probatório constante dos autos, atraindo assim o comando da Súmula n. 7/STJ.
+VI - Quanto à alegada divergência jurisprudencial, verifico que a incidência do Óbice Sumular n. 7/STJ impede o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados.
+Nesse sentido: AgInt no AREsp n. 1.518.728/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/11/2019, DJe 22/11/2019; AgInt no AREsp n. 1.546.739/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 18/5/2020, DJe 20/5/2020.
+VII - Ressalte-se, por fim, que o julgado está em consonância com a jurisprudência do Superior Tribunal de Justiça, no sentido de que, não obstante a alteração promovida pela Lei n. 12.350/2010, a denúncia espontânea não se aplica aos casos de descumprimento de obrigação acessória autônoma. Nesse sentido: AgInt no REsp n. 1.867.756/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 19/10/2020, DJe 23/10/2020; AgInt no AREsp n. 1.706.512/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/2/2021, DJe 26/2/2021.
+VIII - Dessa forma, aplica-se, à espécie, o enunciado da Súmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+IX - Agravo interno improvido.
+(AgInt nos EDcl no AREsp 2.020.904/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2023, DJe de 24/3/2023) (Grifos acrescidos).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARCAÇÃO ESTRANGEIRA. AFASTADA A RESPONSABILIDADE DO AGENTE MARÍTIMO. PENALIDADE. PRINCÍPIO DA LEGALIDADE.
+1. A jurisprudência desta Corte firmou o entendimento segundo o qual o agente marítimo não deve ser responsabilizado por penalidade cometida pela inobservância de dever legal imposto ao armador.
+2. Agravo interno não provido.
+(AgInt no REsp 1.473.814/PR, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 06/03/2018, DJe 16/03/2018).
+O recurso especial, então, encontra óbice na Súmula 83 do STJ, porquanto o acórdão recorrido está em conformidade com a orientação jurisprudencial deste Tribunal Superior.
+Por fim, embora não merecedor de acolhimento, entendo que o presente inconformismo não representa interposição de agravo interno manifestamente inadmissível ou improcedente a ensejar a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
