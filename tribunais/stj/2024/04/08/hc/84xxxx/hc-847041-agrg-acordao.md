@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. REITERAÇÃO DE PEDIDO. INSUFICIÊNCIA PROBATÓRIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+1. A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+2. No caso, não se deve conhecer do presente habeas corpus, por se tratar de mera reiteração do HC n. 710.463/SP.
+3. A tese de insuficiência probatória para a condenação não foi apreciada pelo Tribunal de Justiça de origem. Assim, não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância" (RHC n. 126.604/MT, rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/12/2020, DJe 16/12/2020).
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto em favor de Alex de Paiva Clemente contra a decisão que não conheceu do habeas corpus impetrado contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+No presente agravo, a defesa repisa os argumentos de mérito do habeas corpus, sustentando a ausência dos requisitos ensejadores da prisão preventiva. Ressalta que não é o caso de reiteração de pedido uma vez que "a matéria objeto da impetração se volta contra a decisão que DENEGOU O DIREITO DE APELO EM LIBERDADE, ao passo que a matéria debatida nos autos do HC n.º 710.463/SP cingiu-se apenas ao decreto de prisão preventiva ao longo da tramitação do feito em primeira instância." (fl. 1.453.)
+Aduz "a ausência de concreta fundamentação da sentença condenatória na denegação ao direito de recorrer em liberdade e na mantença da prisão cautelar em virtude da ulterior sentença penal condenatória recorrível" (fl. 1.454).
+Reitera também a tese de insuficiência probatória uma vez que "O caso em análise encontra-se dentro dos parâmetros estabelecidos em referidas decisões do Colendo Superior Tribunal de Justiça, eis que o artigo 157, do Código de Processo Penal, estatui que são inadmissíveis, no processo penal, as provas ilícitas, assim entendidas as obtidas em violação a normas constitucionais ou legais, e as provas delas derivadas, salvo quando não evidenciado o nexo causal entre umas e outras ou quando as derivadas puderem ser obtidas por fonte independente." (fl. 1.470.)
+Postula, assim, a reconsideração da decisão, ou que o presente agravo seja submetido à apreciação do colegiado, pugnando pelo provimento.
+Por manter a decisão agravada, submeto o feito à Sexta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. REITERAÇÃO DE PEDIDO. INSUFICIÊNCIA PROBATÓRIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+1. A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+2. No caso, não se deve conhecer do presente habeas corpus, por se tratar de mera reiteração do HC n. 710.463/SP.
+3. A tese de insuficiência probatória para a condenação não foi apreciada pelo Tribunal de Justiça de origem. Assim, não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância" (RHC n. 126.604/MT, rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/12/2020, DJe 16/12/2020).
+4. Agravo regimental desprovido.
+VOTO
+A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+A defesa repisa os argumentos de mérito do habeas corpus, sustentando a ausência dos requisitos ensejadores da prisão preventiva. Ressalta que não é o caso de reiteração de pedido uma vez que "a matéria objeto da impetração se volta contra a decisão que DENEGOU O DIREITO DE APELO EM LIBERDADE, ao passo que a matéria debatida nos autos do HC n.º 710.463/SP cingiu-se apenas ao decreto de prisão preventiva ao longo da tramitação do feito em primeira instância." (fl. 1.453.)
+Aduz "a ausência de concreta fundamentação da sentença condenatória na denegação ao direito de recorrer em liberdade e na mantença da prisão cautelar em virtude da ulterior sentença penal condenatória recorrível" (fl. 1.454).
+Reitera também a tese de insuficiência probatória uma vez que "O caso em análise encontra-se dentro dos parâmetros estabelecidos em referidas decisões do Colendo Superio r Tribunal de Justiça, eis que o artigo 157, do Código de Processo Penal, estatui que são inadmissíveis, no processo penal, as provas ilícitas, assim entendidas as obtidas em violação a normas constitucionais ou legais, e as provas delas derivadas, salvo quando não evidenciado o nexo causal entre umas e outras ou quando as derivadas puderem ser obtidas por fonte independente." (fl. 1.470.)
+Como consta na decisão agravada, quanto aos fundamentos e requisitos da prisão preventiva, verifica-se que a matéria já foi alvo de impugnação nesta Corte Superior, no HC 710.463-SP, conexo a este, motivo pelo qual referido tema não merece conhecimento.
+Assim sendo, no particular, não se deve conhecer do presente habeas corpus, por se tratar de mera reiteração do HC 710.463/SP.
+Por outro lado, constata-se que a tese de insuficiência probatória para a condenação não foi apreciada pelo Tribunal de Justiça de origem. Assim, não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância" (RHC 126.604/MT, rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/ 12/2020, DJe 16/12/2020).
+Ante o exposto, nego provimento ao agravo regimental, mantendo a decisão agravada por seus próprios fundamentos.
+É o voto.
