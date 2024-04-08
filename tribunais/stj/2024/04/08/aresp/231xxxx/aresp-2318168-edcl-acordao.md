@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NÃO CONHECEU DO RECLAMO ANTE A APLICAÇÃO DA SÚMULA 182 DO STJ. IRRESIGNAÇÃO DA AGRAVANTE.
+1. Nos termos do artigo 1.022 do CPC/15, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+2. Na hipótese dos autos, o acórdão proferido por este órgão fracionário encontra-se devida e suficientemente fundamentado, apenas decidindo de forma contrária aos interesses dos embargantes, o que, à evidência, não consubstancia vício passível de correção por meio de embargos de declaração, mas sim pretensão meramente infringente.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ABEL PASSOS, CLAUDETE OLIVEIRA PASSOS e REAL ALIMENTOS INDÚSTRIA E COMÉRCIO LTDA em face de acórdão da Quarta Turma desta Corte, assim ementado:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO.INSURGÊNCIA DA PARTE AGRAVANTE.
+1. Consoante expressa previsão contida nos artigos 932, III, do CPC/15 e 253, I, do RISTJ e em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que inadmitiu o apelo extremo, o que não aconteceu na hipótese. Incidência da Súmula 182 do STJ.
+2. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte autora, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada. Precedentes.
+3. Agravo interno desprovido.
+Nos presentes aclaratórios (fls. 315/320, e-STJ), a parte embargante repisa a tese de preenchimento dos requisitos de admissão do recurso especial. Em síntese, aduz ter demonstrado "categoricamente e especificamente os fundamentos que atacavam especificamente o óbice ao seguimento do recurso especial" (fl. 318, e-STJ).
+Requerem, assim, a concessão de efeitos infringentes ao acórdão embargado, a fim de conhecer e dar provimento ao agravo em recurso especial.
+Impugnação às fls. 324/327, e-STJ.
+É o relatório.
+Decido.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NÃO CONHECEU DO RECLAMO ANTE A APLICAÇÃO DA SÚMULA 182 DO STJ. IRRESIGNAÇÃO DA AGRAVANTE.
+1. Nos termos do artigo 1.022 do CPC/15, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+2. Na hipótese dos autos, o acórdão proferido por este órgão fracionário encontra-se devida e suficientemente fundamentado, apenas decidindo de forma contrária aos interesses dos embargantes, o que, à evidência, não consubstancia vício passível de correção por meio de embargos de declaração, mas sim pretensão meramente infringente.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Os embargos de declaração não merecem acolhida, pois não demonstram a existência de qualquer vício a macular o acórdão embargado.
+1. Consoante preceitua o artigo 1.022 do CPC/15, os embargos de declaração se prestam, apenas, a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+Nesse sentido, precedente:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA AO ART. 1.021, § 3º, DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE OMISSÃO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Consoante julgado proferido pela colenda Corte Especial do STJ, "a vedação constante do art. 1.021, § 3º, do CPC não pode ser interpretada no sentido de se exigir que o julgador tenha de refazer o texto da decisão agravada com os mesmos fundamentos, mas outras palavras, mesmo não havendo nenhum fundamento novo trazido pela agravante na peça recursal" (EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 15/06/2016, DJe de 03/08/2016).
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp 1397216/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 20/02/2018, DJe 27/02/2018)
+No caso, as razões dos embargos revelam tão somente o intuito de reapreciação da causa e a sua insatisfação com o resultado do julgado, o que não se admite com a objetividade do recurso manejado.
+É o que se depreende de trechos dos embargos opostos (fl. 318, e-STJ):
+Analisando detalhadamente o agravo interno, o embargante demonstrou categoricamente e especificamente os fundamentos que atacavam especificamente o óbice ao seguimento do recurso especial.
+O recurso especial não foi conhecido sob ofensa à súmula 7 do STJ, revolvimento fático probatório, contudo o agravo interno demonstrou que com base na ofensa alegada, art. 833, inciso V do CPC, o que por si só, não trata de revolvimento fático probatório, alegando a impenhorabilidade dos bens móveis, sob o argumento de que os mesmo são úteis à atividade da empresa.
+Já o Agravo em Resp trata da inexistência de ofensa à súmula 7 do STJ, trazendo vasta fundamentação sobre a inaplicabilidade de tal súmula no óbice ao seguimento do Resp, tendo sido negado seu provimento, o que vai de encontro ao entendimento das súmulas.
+À pretexto da existência de omissão, na verdade, a parte embargante pretende a modificação do acórdão, cuja via processual é inadequada.
+Diante disso, por inexistir qualquer das máculas prevista no artigo 1.022 do Código de Processo Civil de 2015, não há razão para modificar o decisum embargado.
+2. Advirta-se, por derradeiro, que eventual interposição de recurso manifestamente inadmissível ou de caráter protelatório poderá ensejar, conforme o caso, a aplicação de multa (arts. 1.021, § 4º e/ou 1.026, § 2º, CPC/15).
+3. Do exposto, rejeito os pre sentes embargos de declaração.
+É como voto.
