@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NOS ARTS. 489 E 1.022 DO CPC/2015. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando a decisão recorrida pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca rediscutir matérias devidamente examinadas e rejeitadas na decisão embargada, o que é incabível nos embargos declaratórios.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração (e-STJ fls. 1.239/1.245) opostos a acórdão desta relatoria que julgou agravo interno nos termos da seguinte ementa (e-STJ fl. 1.216):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRODUÇÃO ANTECIPADA DE PROVA. DEFESA E RECURSO. POSSIBILIDADE. AMPLA DEFESA E CONTRADITÓRIOS LIMITADOS. RECURSO PROVIDO.
+1. A melhor interpretação para o comando do art. 382, § 4º, do CPC/2015, à luz dos princípios da ampla defesa e do contraditório, não é a literal, senão aquela que permite a manifestação e a irresignação da parte requerida, sobretudo para se contrapor à produção de prova desnecessária ou descabida na espécie, bem assim para questionar, por meio de recurso, os atos praticados durante o trâmite processual.
+2. No âmbito da ação cautelar de produção antecipada de provas, as impugnações deduzidas pelo requerido devem compatibilizar-se com o rito procedimental, limitando-se às questões de ordem pública como a legitimidade, interesse de agir, cabimento da medida e de eventual contraprova, e temas correlatos. Não se haverá, todavia, de admitir o contraditório amplo, antecipando a controvérsia jurídica de ulterior procedimento judicial para solução do litígio, que se espera seja evitado com resultado da prova.
+3. Agravo interno provido para dar provimento ao recurso especial, determinando o retorno dos autos à origem para que prossiga no exame do mérito do agravo de instrumento interposto contra decisão que deferiu a produção antecipada de provas.
+Em suas razões, a embargante aponta omissão quanto ao argumento, suscitado nas contrarrazões ao especial e na contraminuta ao agravo nos p róprios autos, de que "o eg. Tribunal a quo efetivamente analisou o teor da defesa apresentada pela embargada e identificou que as respectivas alegações extrapolavam os limites acima referidos, vez que tratavam de temáticas relativas à relação contratual existente entre as partes" (e-STJ fl. 1.244).
+Nesse contexto, defende que, "se subsiste hígido um dos fundamentos empregados no v. acórdão recorrido, então não pode prevalecer a determinação de devolução dos autos para análise do agravo de instrumento" (e-STJ fl. 1.244).
+Ao final, requer o acolhimento dos aclaratórios, para que seja sanado o vício apontado.
+A parte embargada apresentou impugnação (e-STJ fls. 1.249/1.255).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NOS ARTS. 489 E 1.022 DO CPC/2015. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando a decisão recorrida pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca rediscutir matérias devidamente examinadas e rejeitadas na decisão embargada, o que é incabível nos embargos declaratórios.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não permitem rediscussão de temas anteriormente decididos, sendo certo que o efeito modificativo do recurso é possível apenas em hipóteses excepcionais, uma vez constatada a existência de algum dos vícios indicados nos arts. 489 e 1.022 do CPC/2015, o que não se evidencia no caso em exame.
+A pretexto de sanar suposta omissão, a parte embargante repisou as mesmas alegações relativas ao mérito, no intuito de reverter a decisão que proveu motivadamente o agravo interno da embargada.
+O juízo embargado apontou claramente os motivos pelos quais é cabível recurso contra a decisão que defere a produção antecipada de provas, motivo pelo qual determinou o retorno dos autos à origem para novo julgamento do agravo de instrumento. Confira-se o seguinte trecho (e-STJ fls. 1.234/1.235):
+RETIFICAÇÃO DE VOTO (grifos originais)
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Ante as relevantes ponderações deduzidas pelo em. Ministro Raul Araújo em seu voto-vista, adiro às suas razões e RETIFICO meu voto para DAR PROVIMENTO ao agravo interno e, sucessivamente, ao recurso especial de BUNGE ALIMENTOS S. A., determinando o retorno dos autos ao TJMG para que prossiga no exame do mérito do agravo de instrumento interposto contra a decisão que deferiu a produção antecipada das provas.
+Com efeito, em que pese a jurisprudência ate então consolidada sobre o tema - v., p. ex., Aglnt no AREsp n. 2.123.951/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/10/2023, DJe de 19/10/2023; Aglnt nos EDcl no AREsp n. 2.176.372/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/2/2023, DJe de 24/2/2023; Aglnt no AREsp n. 2.107.878/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/12/2022, DJe de 7/12/2022; Aglnt no AREsp n. 2.144.353/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 14/11/2022, DJe de 21/11/2022; dentre outros -, a melhor interpretação para o comando do art. 382, § 4º, do CPC/2015, à luz dos princípios da ampla defesa e do contraditório, não é a literal, senão aquela que permite a manifestação e a irresignação da parte requerida, sobretudo para se contrapor à produção de p rova desnecessária ou descabida na espécie, bem assim para questionar, por meio de recurso, os atos praticados durante o trâmite processual.
+Esses questionamentos, obviamente, devem compatibilizar-se com o rito procedimental da produção antecipada, centrando-se, como bem observado pelo Ministro Raul Araújo em seu voto, nas questões de ordem pública como a legitimidade, interesse de agir, cabimento da medida e de eventual contraprova, e correlatos. Não se haverá, todavia, de admitir o contraditório amplo, antecipando a controvérsia jurídica de ulterior procedimento judicial para solução do litígio, que se espera seja evitado com resultado da prova.
+Com efeito, competirá à Corte de apelação avaliar quais teses recursais são passíveis de exame, à luz dos parâme tros fixados pela QUARTA TURMA desta Corte Superior.
+Logo, não há falar em omissão.
+Em face do exposto, REJEITO os embargos de declaração.
+É como voto.
