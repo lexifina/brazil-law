@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+INSURGÊNCIA DA AGRAVANTE.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 1.022 do CPC/15.
+2. A revisão do aresto impugnado no sentido pretendido pela parte recorrente exigiria derruir a convicção formada nas instâncias ordinárias sobre o efetivo descumprimento de decisão judicial e a proporcionalidade do valor fixado a título de astreintes. Incidência da Súmula 7/STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A. em face da decisão acostada às fls. 152/156, e-STJ, da lavra deste relator, que conheceu do agravo par anegar provimento ao recurso especial.
+O apelo extremo, fundamentado no artigo 105, III, alínea "a" do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 73, e-STJ):
+PLANO DE SAÚDE - DECISÃO QUE DEFERIU PROSSEGUIMENTO DO CUMPRIMENTO PROVISÓRIO DE SENTENÇA - COBRANÇA DA MULTA DIÁRIA IMPOSTA À OPERADORA DE PLANO DE SAÚDE - RECALCITRÂNCIA DA RÉ NO CUMPRIMENTO DA ORDEM JUDICIAL - DECISÃO MANTIDA - AGRAVO DESPROVIDO.
+Opostos embargos declaratórios (fls. 78/85 e-STJ), restaram desacolhidos na origem (fls. 88/90 e-STJ).
+Nas razões de recurso especial (fls. 92/106, e-STJ), alegou o insurgente que o acórdão recorrido violou os seguintes dispositivos de lei federal:
+(i) art. 1022 do CPC/15, ante a omissão por parte do Tribunal local a respeito da alegação da " necessária revisão das astreintes, sob pena de violação aos artigos 537, § 1º, do Código de Processo Civil e artigo 884 do Código Civil, uma vez que elas se demonstram desproporcionais ao caso em tela, isto porque houve o cumprimento de obrigação conforme demonstrado nos autos e em todas as oportunidades que a parte recorrente pode se manifestar"; e
+(ii) arts. 537, §1º, I e II do CPC e 884 do CC, por ser o valor da multa por suposto descumprimento exagerado, podendo ser revisto, sob pena de enriquecimento ilícito.
+Contrarrazões às fls. 111/115, e-STJ.
+Em juízo prévio de admissibilidade, a Corte de origem inadmitiu o apelo nobre indicando insuficiência de fundamentação recursal e por aplicação da Súmula 7/STJ.
+Inconformada, interpôs o agravo (art. 1.042 do CPC/15), cuja minuta está acostada às fls. 121/127, e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Sem contraminuta.
+Em decisão monocráctica, da lavra deste signatário, fls. 152/156, afastou-se a alegada ofensa ao art. 1022 do CPC/15 e aplicou-se a Súmula 7 do STJ, no que se refere ao descumprimento de decisão e valor da multa diária fixada.
+Em sede de agravo interno, a ora agravante repisa a negativa de prestação jurisdicional ante a violação do art. 1022 do CPC/15 e alega a desnecessidade de exame de fatos e provas.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+INSURGÊNCIA DA AGRAVANTE.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 1.022 do CPC/15.
+2. A revisão do aresto impugnado no sentido pretendido pela parte recorrente exigiria derruir a convicção formada nas instâncias ordinárias sobre o efetivo descumprimento de decisão judicial e a proporcionalidade do valor fixado a título de astreintes. Incidência da Súmula 7/STJ.
+3. Agravo interno desprovido.
+VOTO
+O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte recorrente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida, por seus próprios fundamentos.
+1. De início, Afasta-se, de início, a alegação de negativa de prestação jurisdicional. Não se verifica ofensa ao artigo 1.022, inc. II, do CPC/15 quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+Nesse sentido, citam-se os seguintes precedentes deste Superior Tribunal de Justiça: AgInt no AREsp 1254843/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/05/2018, DJe 01/06/2018; AgInt no AREsp 1015125/AC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 17/04/2018, DJe 24/04/2018;
+AgInt nos EDcl no REsp 1647017/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/03/2018, DJe 02/04/2018 .
+Alegou a recorrente que o acórdão impugnado restou omisso, isto porque a multa seria desproporcional ao caso em tela, porquanto teria havido o cumprimento de obrigação conforme demonstrado nos autos e em todas as oportunidades que a parte recorrente pode se manifestar Todavia, conforme trecho a seguir citado, o Tribunal local tratou expressamente (fls 89):
+Deferida a liminar pleiteada na inicial, a requerida, ora embargante, foi intimada e não cumpriu integralmente a ordem judicial no prazo que lhe fora concedido.
+O autor, ora embargado, é menor, sofre de moléstia grave e necessita com urgência do tratamento médico que lhe fora prescrito para que tenha digna condição de vida e não sofra pioras no seu quadro de saúde.
+Diante da evidente recalcitrância da ré no cumprimento da ordem judicial não há qualquer omissão no julgado na fixação das astreintes, devendo ser afastada a absurda alegação de que o autor, ora embargado, mantém-se inerte porque tem a intenção de se enriquecer indevidamente às custas do plano de saúde.
+Feitas essas considerações, não padecendo o v. acórdão embargado de quaisquer dos vícios previstos no art. 1.022 do CPC, o desacolhimento da pretensão recursal é medida que se impõe.
+Como visto, as teses da insurgente foram apreciadas pelo Tribunal a quo, que as afastou apontando os fundamentos jurídicos para tal.
+Não há que se falar, portanto, em omissão, sendo certo que os embargos de declaração não se constituem via própria para rejulgamento da causa, não havendo espaço para análise de inconformismo quanto ao entendimento adotado.
+Nesse sentido: REsp 1432879/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/10/2018, DJe 19/10/2018; EDcl nos EDcl no REsp 1641575/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 25/09/2018, DJe 01/10/2018; EDcl no AgInt no REsp 1666792/ES, Rel.
+Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/04/2018, DJe 22/05/2018; AgInt no AREsp 1179480/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/02/2018, DJe 06/03/2018; AgInt no REsp 1598364/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/08/2017, DJe 22/08/2017; EDcl no AgInt no AREsp 471.597/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 06/06/2017, DJe 20/06/2017.
+Afasta-se, portanto, a alegada violação ao artigo 1.022, inc. II, do CPC/15.
+2. Segundo os autos, a Corte de origem manteve o valor das astreintes arbitrado em decisão que deferiu o prosseguimento do cumprimento provisório de sentença e manteve a multa diária fixada inicialmente no importe de R$ 1.000,00 e após majorada para o valor de R$ 5.000,00, tendo o quantum devido atingido o patamar de R$ 100.000,00, nos seguintes termos: (fls. 73/74, e-STJ)
+Como já decidido anteriormente, "O agravado ajuizou ação de obrigação de fazer pretendendo que a operadora de planos de saúde custeasse todas as despesas atinentes aos tratamentos de psicologia (10 horas semanais), terapia ocupacional (01 hora por semana), fonoaudiologia (01 hora por semana), fisioterapia motora (02 horas semanais), equoterapia (de 30 a 40 minutos por semana) e hidroterapia (01 hora por semana) indicados por seu médico, considerados indispensáveis ao tratamento da Encefalopatia não-Evolutiva com Paralisia Cerebral, Deficiência Mental e Transtorno do Espectro Autista - TEA (CID 10 G 80/ F 79/ F 84) que o acometem (fls. 01/21 dos autos principais).
+"Foi deferida a tutela antecipada para determinar à requerida, ora agravante, a fornecer todos os tratamentos indicados ao autor, sem limite de sessões, junto às clínicas indicadas, a partir do 5º dia da intimação do decisum, sob pena de multa diária de R$ 1.000,00 para a hipótese de descumprimento.
+"A requerida foi intimada em 22.12.2020, vencendo-se o prazo para o cumprimento da ordem judicial em 27.12.2020, incidindo a partir do dia 28.12.2020 a multa diária de R$ 1.000,00.
+"Em que pese a agravante alegue ter disponibilizado os tratamentos em 09.02.2021, ela mesma requereu, em 22.02.2021, dilação de prazo para atender à ordem judicial, tendo o MM. Juiz singular majorado a multa diária para R$ 5.000,00, conforme decisão de fls. 339, publicada no DJE em 04.03.2021 (fls.
+344 dos autos principais).
+"Em 22.04.2021, o autor peticionou noticiando que, até aquela data, ou seja, passados 4 meses da concessão da tutela antecipada, ainda não havia autorização para o tratamento de equoterapia".
+Ora, considerando que até aquele momento - 116 dias 1 após a intimação para o cumprimento da tutela antecipada - a requerida, ora agravante, não se desincumbiu do ônus de provar o atendimento integral da ordem judicial, evidente sua recalcitrância, inexistindo óbice ao prosseguimento do cumprimento provisório de sentença para a cobrança da multa, que atingiu o limite máximo de R$ 100.000,00.
+Como se vê, diante do conteúdo fático-probatório constante dos autos, o órgão julgador concluiu ter a ora agravante, efetivamente, descumprido a decisão liminar. Ademais, em relação ao valor das astreintes, considerou o mesmo adequado ao caso.
+Derruir estas conclusões e acolher a pretensão recursal ensejaria o necessário revolvimento das provas constantes dos autos, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7/STJ.
+Neste sentido, vejam-se os precedentes desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DESCUMPRIMENTO DE OBRIGAÇÃO DE FAZER. FORNECIMENTO DE MEDICAMENTO. ASTREINTES. RAZOABILIDADE E PROPORCIONALIDADE. AGRAVO INTERNO DESPROVIDO.
+1. O eg. Superior Tribunal de Justiça firmou orientação de que o valor atribuído às astreintes pode ser revisto, quando constatada a exorbitância ou a insuficiência da importância arbitrada em relação à obrigação principal, de fazer ou de não fazer, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade.
+2. Na hipótese, a recorrente não cumpriu, de forma reiterada, a ordem judicial, consistente em fornecer medicamento imprescindível à vida da autora, que sofria de doença gravíssima - câncer na medula óssea -, vindo, inclusive, a falecer.
+Ademais, o fármaco, além de possuir registro na ANVISA, foi solicitado para garantir sobrevida à paciente internada, enquanto esperava encontrar doador de medula óssea compatível. Desse modo, a negativa em fornecer medicamento prescrito pelo médico, para tratamento de doença coberta pelo plano de saúde, constituiu ato manifestamente abusivo e ilegal, de modo que a majoração da multa diária, com valor total limitado a R$100.000,00 (cem mil reais), não se mostra desproporcional ou exorbitante, dadas as circunstâncias do caso concreto.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.246.925/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 5/6/2023, DJe de 13/6/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA. CONTRATO DE PLANO DE SAÚDE. DECISÃO INTERLOCUTÓRIA. AGRAVO DE INSTRUMENTO. ASTREINTES. REVISÃO DO VALOR. SÚMULA 7/STJ. AUSÊNCIA DE MANIFESTA EXORBITÂNCIA.
+1. Ação cominatória em fase de cumprimento de sentença.
+2. Consoante jurisprudência desta Corte Superior, a verificação da existência de exorbitância da multa cominatória por descumprimento de decisão judicial não pode ser direcionada apenas à comparação entre a quantia total da penalidade e o valor da obrigação principal, devendo ser analisado o valor estabelecido diariamente como multa à parte recalcitrante.
+3. A alteração da conclusão dos juízos de origem e o consequente acolhimento da tese recursal que pleiteia a redução do valor das astreintes demandariam o reexame dos fatos e das provas dos autos, providência vedada na via estreita do recurso especial, ante o teor da Súmula 7/STJ. Tal óbice, conforme assentado por esta Corte Superior, somente comporta temperamentos quando se trata de valor manifestamente irrisório ou exorbitante, o que não se verifica no particular.
+4. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.211.019/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+3. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
