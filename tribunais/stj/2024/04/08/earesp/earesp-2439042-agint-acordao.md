@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Impedida a Sra. Ministra Nancy Andrighi.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CONTRATO DE MÚTUO. PRAZO PRESCRICIONAL. TERMO INICIAL. VENCIMENTO ANTECIPADO. FACULDADE DO CREDOR. DATA DE VENCIMENTO DA ÚLTIMA PARCELA. PRECEDENTES DO STJ. APLICAÇÃO DA SÚMULA N.º 83 DO STJ CONFIRMADA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte se firmou no sentido de que o contrato de mútuo feneratício, por não contemplar obrigação de trato sucessivo, que se renova em parcelas singulares, mas de pagamento da dívida de forma diferida, tem o vencimento da última delas como termo inicial do prazo prescricional. Precedentes do STJ.
+2. Ainda segundo o entendimento desta Corte, "o vencimento antecipado da dívida não enseja a alteração do termo inicial do prazo de prescrição, que é contado da data do vencimento da última parcela" (AgInt no REsp 1.408.664/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 30/4/2018).
+3 . Agravo interno não provido.
+RELATÓRIO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que HELOISA MARIA FERREIRA ESPESCHIT ARANTES (HELOISA) ofereceu embargos à ação de execução por quantia certa movida por BANCO SANTANDER BRASIL S.A. (SANTANDER).
+No curso da ação executiva, o d. Juízo de primeira instância rejeitou preliminar de prescrição.
+Contra essa decisão interlocutória HELOISA interpôs agravo de instrumento, que foi desprovido pelo Tribunal de Justiça do Estado de Minas Gerais, em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. PREJUDICIAL DE MÉRITO. PRESCRIÇÃO. TÍTULO EXECUTIVO EXTRAJUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO. LEI UNIFOME DE GENEBRA. TERMO INICIAL. VENCIMENTO DA ÚLTIMA PARCELA. DECISÃO MANTIDA.1. Tratando-se de título executivo Cédula de Crédito Bancário, aplica-se o prazo prescricional trienal do art. 70 da Lei Uniforme de Genebra, conforme estabelece o artigo 44 da Lei nº 10.931/04.2. Segundo entendimento do Superior Tribunal de Justiça, o vencimento antecipado da dívida não altera o início da fluência do prazo prescricional, prevalecendo para tal fim o termo ordinariamente indicado no contrato, que é o dia do vencimento da última parcela. (AgInt no REsp 1850690/SP).3. Recurso conhecido e não provido. (e-STJ, fl. 329).
+Inconformada, HELOISA manifestou recurso especial, com fundamento no art. 105, alíneas a e c, da CF, alegando dissídio e violação dos arts. 189, II, 206 do CC/02; 70 da Lei Uniforme de Genebra; e 44 da Lei n.º 10.931/04, bem como divergência jurisprudencial, sob o argumento de que o marco inicial do prazo prescricional seria a data do vencimento antecipado da dívida, e não do vencimento da última prestação do contrato de mútuo firmado ente as partes.
+Em juízo de admissibilidade, a Presidência do Tribunal mineiro não admitiu o referido apelo nobre (e-STJ, fls. 392/396).
+Conheci do agravo para negar provimento ao recurso especial, com base na Súmula n.º 83 do STJ, em decisão monocrática de minha relatoria, assim ementada:
+CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. PRESCRIÇÃO. NÃO OCORRÊNCIA. TERMO INICIAL. VENCIMENTO DA ÚLTIMA PARCELA PACTUADA, AINDA QUE OCORRA O VENCIMENTO ANTECIPADO. INCIDÊNCIA DA SÚMULA N.º 83 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO. (e-STJ, fl. 436).
+Nas razões do presente agravo interno, HELOISA sustenta que deve ser considerado como marco inicial da prescrição a cláusula prevendo o vencimento antecipado da dívida, sob pena de afronta ao dispositivos legais apontados. Defende que a jurisprudência não se encontra pacificada e, para tanto, aponta o AREsp 353.702/DF, julgado pela Quarta Turma em maio de 2014, em sentido contrário.
+Não foi apresentada impugnação (e-STJ, fl. 469).
+É o relatório.
+EMENTA
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CONTRATO DE MÚTUO. PRAZO PRESCRICIONAL. TERMO INICIAL. VENCIMENTO ANTECIPADO. FACULDADE DO CREDOR. DATA DE VENCIMENTO DA ÚLTIMA PARCELA. PRECEDENTES DO STJ. APLICAÇÃO DA SÚMULA N.º 83 DO STJ CONFIRMADA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte se firmou no sentido de que o contrato de mútuo feneratício, por não contemplar obrigação de trato sucessivo, que se renova em parcelas singulares, mas de pagamento da dívida de forma diferida, tem o vencimento da última delas como termo inicial do prazo prescricional. Precedentes do STJ.
+2. Ainda segundo o entendimento desta Corte, "o vencimento antecipado da dívida não enseja a alteração do termo inicial do prazo de prescrição, que é contado da data do vencimento da última parcela" (AgInt no REsp 1.408.664/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 30/4/2018).
+3 . Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões adotadas pela decisão agravada.
+Conforme consta da decisão ora agravada, o acórdão recorrido encontra respaldo na jurisprudência desta Corte acerca do termo inicial do prazo prescricional do mútuo feneratício, que é a data de vencimento da última parcela da dívida objeto de contrato firmado entre as partes.
+Esta orientação tem por fundamento a circunstância de que o contrato celebrado entre as partes consiste em mútuo feneratício, cujo débito deve ser pago em prestações, consecutivas e mensais, de modo que o ajuste não contempla obrigação de trato sucessivo, que se renova em parcelas singulares, mas de pagamento da dívida de forma diferida, com cláusula de pagamento antecipado em determinadas hipóteses, disposição incapaz de alterar previsão legal, como o lapso prescricional.
+Nesse contexto, em que pese o reforço argumentativo de HELOISA, este Tribunal Superior já se posicionou no sentido de adotar como marco inaugural do prazo prescricional a data de pagamento da última prestação do financiamento, conforme se extrai de diversos precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÉDULA DE CRÉDITO BANCÁRIO. PRESCRIÇÃO TRIENAL CONTADO DO VENCIMENTO DA ÚLTIMA PARCELA. ENTENDIMENTO ESTADUAL DE ACORDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O acórdão combatido guarda consonância com a orientação jurisprudencial desta Corte Superior de Justiça, no sentido de que o transcurso do prazo prescricional, em hipóteses como a dos autos, inicia-se a partir do vencimento da última prestação, e não do vencimento antecipado da dívida. Incidência da Súmula 83/STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1.534.625/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 18/11/2019, DJe 21/11/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. CONTRATO BANCÁRIO. INADIMPLEMENTO. PRESCRIÇÃO. TERMO INICIAL. ÚLTIMA PRESTAÇÃO. DATA DE VENCIMENTO. TRATO SUCESSIVO. DESCARACTERIZAÇÃO. OBRIGAÇÃO ÚNICA. DESDOBRAMENTO EM PARCELAS. PAGAMENTOS DE VALORES. REEXAME DE PROVA. SÚMULA Nº 7/STJ.
+1.  ..
+2. O prazo para o adimplemento da obrigação é comumente estipulado em benefício do devedor, sobretudo nos contratos de execução continuada ou de execução diferida, não podendo o credor exigir o cumprimento da prestação antes do seu vencimento (art. 939 do Código Civil). A dívida vence, ordinariamente, no termo previsto contratualmente.
+3. Por se tratar de obrigação única (pagamento do valor emprestado), que somente se desdobrou em prestações repetidas para facilitar o adimplemento do devedor, o termo inicial do prazo prescricional também é um só: o dia em que se tornou exigível o cumprimento integral da obrigação, isto é, o dia de pagamento da última parcela (princípio da actio nata - art. 189 do CC). Descaracterização da prescrição de trato sucessivo.
+4.  ..
+5. Agravo interno não provido.
+(AgInt no AREsp 1.033.260/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 22/10/2018, DJe 26/10/2018)
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 03/STJ. TERMO DE CONFISSÃO DE DÍVIDA. INADIMPLEMENTO. ANTECIPAÇÃO DO VENCIMENTO. PRAZO PRESCRICIONAL. TERMO INICIAL. ÚLTIMA PRESTAÇÃO. DATA DO VENCIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1.  ..
+2. "Esta Corte pacificou entendimento no sentido de que, mesmo diante do vencimento antecipado da dívida, subsiste inalterado o termo inicial do prazo de prescrição - no caso, o dia do vencimento da última parcela. Precedentes." (AgRg nos EDcl no AREsp 522.138/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/12/2015, DJe 01/02/2016).
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1.236.270/RS, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, j. 7/6/2018, DJe 13/6/2018)
+Lembro, ademais, o entendimento desta Corte no sentido de que "o vencimento antecipado da dívida não enseja a alteração do termo inicial do prazo de prescrição, que é contado da data do vencimento da última parcela" (AgInt no REsp 1.408.664/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/4/2018, DJe de 30/4/2018).
+A jurisprudência deste Superior Tribunal orienta que a cláusula de vencimento antecipado é uma faculdade do credor, que, se não exercida, não influencia o marco inicial do prazo prescricional.
+Nesse sentido:
+RECURSO ESPECIAL. CIVIL. CONTRATO DE ASSUNÇÃO PARCIAL DE DÍVIDAS. INADIMPLEMENTO. EXECUÇÃO JUDICIAL. PRESCRIÇÃO. TERMO INICIAL. DATA DE VENCIMENTO DA ÚLTIMA PRESTAÇÃO. TRATO SUCESSIVO. DESCARACTERIZAÇÃO. OBRIGAÇÃO ÚNICA DESDOBRADA EM PARCELAS. VENCIMENTO ANTECIPADO DA DÍVIDA. FACULDADE DO CREDOR. MECANISMO DE GARANTIA DO CRÉDITO. TERMO A QUO DO PRAZO PRESCRICIONAL INALTERADO.
+1. A questão controvertida na presente via recursal consiste em definir qual é o termo inicial do prazo de prescrição da pretensão de cobrança (ou de execução) fundada em contrato de mútuo (ou em contratos de renegociação) nas hipóteses em que, em virtude do inadimplemento do devedor, opera-se o vencimento antecipado da dívida.
+2. O prazo para o adimplemento da obrigação é comumente estipulado em benefício do devedor, sobretudo nos contratos de execução continuada ou de execução diferida, não podendo o credor exigir o cumprimento da prestação antes do seu vencimento (art. 939 do CC).
+Aliás, como cediço, a dívida vence, ordinariamente, no termo previsto contratualmente.
+3. É possível aos contratantes, com amparo no princípio da autonomia da vontade, estipular o vencimento antecipado, como costuma ocorrer nos mútuos feneratícios, em que o inadimplemento de determinado número de parcelas acarretará o vencimento extraordinário de todas as subsequentes, ou seja, a integralidade da dívida poderá ser exigida antes de seu termo.
+4. O vencimento antecipado da dívida, ao possibilitar ao credor a cobrança de seu crédito antes do vencimento normalmente contratado, objetiva protegê-lo de maiores prejuízos que poderão advir da mora do devedor, sendo um instrumento garantidor das boas relações creditórias, revestindo-se de uma finalidade social. É, portanto, uma faculdade do credor e não uma obrigação, de modo que pode se valer ou não de tal instrumento para cobrar seu crédito por inteiro antes do advento do termo ordinariamente avençado, sendo possível, inclusive, sua renúncia no caso do afastamento voluntário da impontualidade pelo devedor (arts. 401, I, e 1.425, III, do CC). 5.
+O vencimento antecipado da dívida livremente pactuado entre as partes, por não ser uma imposição, mas apenas uma garantia renunciável, não modifica o início da fluência do prazo prescricional, prevalecendo, para tal fim, o termo indicado no contrato (arts. 192 e 199, II, do CC). Precedentes.
+6. Por se tratar de obrigação única (pagamento do valor emprestado), que somente se desdobrou em prestações repetidas para facilitar o adimplemento do devedor, o termo inicial do prazo prescricional também é um só: o dia em que se tornou exigível o cumprimento integral da obrigação, isto é, o dia de pagamento da última parcela (princípio da actio nata - art. 189 do CC). Descaracterização da prescrição de trato sucessivo.
+7. Recurso especial provido.
+(REsp n. 1.523.661/SE, relator Ministro Paulo de Tarso Sanseverino, relator para acórdão Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/6/2018, DJe de 6/9/2018)
+Saliente-se, por fim, que o precedente apontado por HELOISA encontra-se superado, pois muito anterior aos julgados apontados na decisão agravada.
+Deve ser confirmada, portanto, a aplicação da Súmula n.º 83 do STJ ao caso.
+Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
