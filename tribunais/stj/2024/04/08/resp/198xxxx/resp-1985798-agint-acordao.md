@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO TEMPESTIVO. SUSPENSÃO DO EXPEDIENTE FORENSE DEVIDAMENTE COMPROVADA. CERTIDÃO DO PRÓPRIO TRIBUNAL. JUNTADA NO MESMO DIA DA INTERPOSIÇÃO DO RECURSO. INDICAÇÃO PRECISA DAS DATAS REFERENTES AO FERIADO, AO PONTO FACULTATIVO E AO ATO NORMATIVO QUE DETERMINOU A SUSPENSÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. A Corte Especial do Superior Tribunal de Justiça, chamada à interpretação do art. 1.003, § 6.º, do CPC/2015, consolidou o entendimento de que a comprovação da tempestividade do recurso deve ocorrer no ato de interposição, inclusive quanto aos eventuais feriados locais, pena de não conhecimento, não admitindo atuação corretiva posterior da parte. Inteligência do AREsp 957.821/MS, relatora para o acórdão a Em. Ministra Nancy Andrighi.
+2. No caso dos autos, foi juntada certidão expedida pelo Tribunal de Justiça do Estado do Mato Grosso, no mesmo dia da interposição do recurso especial (fl. 331), dando conta da data em que o acórdão recorrido foi disponibilizado no DJe, da data de sua publicação e das datas em que houve suspensão do expediente forense (feriado de Corpus Christi e ponto facultativo), bem como a indicação do ato normativo que determinou a aludida suspensão, sendo, portanto, perfeitamente possível aferir a tempestividade do recurso especial.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo Estado de Mato Grosso contra a decisão de fls. 388-389 que, reconhecendo a tempestividade do recurso especial interposto por Eudes Tarciso de Aguiar, reconsiderou a decisão anteriormente proferida pela Presidência desta Corte e determinou a remessa dos autos para manifestação do Ministério Público Federal sobre o mérito da demanda.
+Alega o agravante, em síntese, que o recorrente não teria comprovado a tempestividade do recurso, ônus que competia a ele, já que não teria demonstrado, mediante a juntada, no momento exato da interposição do recurso, de documentos que comprovassem a ocorrência de feriado local e de ponto facultativo, não servindo a esse propósito, na sua visão, a certidão do Tribunal a quo.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO TEMPESTIVO. SUSPENSÃO DO EXPEDIENTE FORENSE DEVIDAMENTE COMPROVADA. CERTIDÃO DO PRÓPRIO TRIBUNAL. JUNTADA NO MESMO DIA DA INTERPOSIÇÃO DO RECURSO. INDICAÇÃO PRECISA DAS DATAS REFERENTES AO FERIADO, AO PONTO FACULTATIVO E AO ATO NORMATIVO QUE DETERMINOU A SUSPENSÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. A Corte Especial do Superior Tribunal de Justiça, chamada à interpretação do art. 1.003, § 6.º, do CPC/2015, consolidou o entendimento de que a comprovação da tempestividade do recurso deve ocorrer no ato de interposição, inclusive quanto aos eventuais feriados locais, pena de não conhecimento, não admitindo atuação corretiva posterior da parte. Inteligência do AREsp 957.821/MS, relatora para o acórdão a Em. Ministra Nancy Andrighi.
+2. No caso dos autos, foi juntada certidão expedida pelo Tribunal de Justiça do Estado do Mato Grosso, no mesmo dia da interposição do recurso especial (fl. 331), dando conta da data em que o acórdão recorrido foi disponibilizado no DJe, da data de sua publicação e das datas em que houve suspensão do expediente forense (feriado de Corpus Christi e ponto facultativo), bem como a indicação do ato normativo que determinou a aludida suspensão, sendo, portanto, perfeitamente possível aferir a tempestividade do recurso especial.
+3. Agravo interno não provido.
+VOTO
+As razões do agravo interno são improcedentes.
+No tocante à questão da intempestividade a Corte Especial do Superior Tribunal de Justiça, chamada à interpretação do art. 1.003, § 6.º, do CPC/2015, consolidou o entendimento de que a comprovação da tempestividade do recurso deve ocorrer no ato de interposição, inclusive quanto aos eventuais feriados locais, pena de não conhecimento, não admitindo atuação corretiva posterior da parte.
+Segundo se verifica do julgamento referido, proferido em 20/11/2017 no AREsp 957.821/MS, a Em. Ministra Nancy Andrighi liderou a divergência no sentido aludido, a especial qualidade do precedente, com esteio nos arts. 926, "caput", e 927, inciso V, do CPC/2015, obrigando-nos a todos ao dever de manter a nossa jurisprudência estável, íntegra e coerente.
+É bastante conferir o teor da ementa do julgado referido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo".
+4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido.
+(AgInt no AREsp 957.821/MS, Rel. Ministro RAUL ARAÚJO, Rel. p/ Acórdão
+Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 20/11/2017, DJe 19/12/2017)
+O argumento do feriado local, é bom que se diga, refere-se a todos os eventos dos quais surja, por algum motivo, a interrupção do serviço judiciário na localidade, de sorte a incluir a atuação do Tribunal para a suspensão das atividades ou a suspensão dos prazos processuais .
+No caso dos autos, todavia, a suspensão do expediente decorrente da ocorrência de feriado (Corpus Christi) e de ponto facultativo foi efetivamente comprovada pela juntada, na mesma data de interposição do recurso especial, de certidão expedida pelo Tribunal de Justiça do Estado do Mato Grosso onde é possível aferir a data em que o acórdão recorrido foi disponibilizado no DJe, a data de sua publicação e as datas em que houve suspensão do expediente forense (feriado de Corpus Christi e ponto facultativo), bem como a indicação do ato normativo que determinou a aludida suspensão, de modo que não há falar em intempestividade do recurso especial.
+Dessa forma, NEGO PROVIMENTO ao agravo interno.
+É o voto.
