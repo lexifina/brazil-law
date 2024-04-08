@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRADO. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o agravo interno.
+II - A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+III - É entendimento pacífico dessa Corte que o Recurso Especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, ante a ausência de similitude fática entre os julgados confrontados.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto por SORAYA VIEIRA MOREIRA DIAS, contra a decisão monocrática de minha lavra que, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a e b, e 255, I e II, do RISTJ, não conheceu do Recurso Especial.
+Sustenta a Agravante, em síntese, o seguinte (fl. 456e):
+Por isso é que se afirma, sem quaisquer receios, que as razões do recurso especial encontram perfeita consonância com o que foi decidido pelo Tribunal de origem, na conformidade do artigo 105, III, "a" e "c", da Constituição Federal, c/c os artigos 1.029 e ss. do CPC.
+No que toca ao alegado dissenso jurisprudencial, pode-se perceber facilmente ao se proceder ao confronto entre o decisum atacado e o v. acórdão paradigma: afirma o acórdão atacado que a eventual ilegitimidade ativa ad causam seria motivo bastante à extinção do processo, sem qualquer possibilidade de suprimento do vício; por sua vez, o paradigma se posiciona em sentido diametralmente oposto, a saber: a possível ilegitimidade ativa ad causam pode ser perfeitamente suprida, ainda que já ofertada a defesa, e desde que não se altere o pedido ou a causa de pedir de origem.
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada e determinado o processamento do Recurso Especial ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Transcorreu in albis o prazo para impugnação (certidão de fl. 464e).
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRADO. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o agravo interno.
+II - A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+III - É entendimento pacífico dessa Corte que o Recurso Especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, ante a ausência de similitude fática entre os julgados confrontados.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+VOTO
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+- Das razões dissociadas
+O Tribunal de origem compreendeu que " ..  à época da propositura da ação, a apelante não detinha, de fato, a legitimidade ativa para propor a ação ordinária, nem o juízo tinha obrigação legal de dar oportunidade à parte para corrigir o que a autora entende como vício sanável, sabendo-se que não existe no ordenamento jurídico brasileiro a "legitimidade ativa superveniente"" (fl. 375e).
+A Recorrente, por sua vez, defende o direito de emendar a petição inicial com vistas à modificação das partes, mesmo após a contestação, desde que não haja alteração do pedido ou da causa de pedir.
+Desse modo, verifica-se que as razões recursais apresentadas se encontram dissociadas daquilo que restou decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, os óbices das Súmulas 283 e 284, do Supremo Tribunal Federal, as quais dispõem, respectivamente: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"; e "é inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO MOVIDA CONTRA ESTADO. CHAMAMENTO DA UNIÃO AO PROCESSO. PRODUÇÃO DE PROVA PERICIAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. RAZÕES DOS EMBARGOS DISSOCIADAS DO FUNDAMENTO DO ACÓRDÃO EMBARGADO. SÚMULAS 283 E 284 DO STF. SUSPENSÃO EM RAZÃO DE RESP ADMITIDO COMO REPRESENTATIVO DE CONTROVÉRSIA. DESCABIMENTO. TEMA ESPECÍFICO.
+(..)
+3. A alegação de omissão do acórdão embargado por ter a ora embargante impugnando os fundamentos da decisão do Tribunal a quo atrai a incidência, por analogia, das Súmulas 283 e 284 do STF, uma vez que não houve menção na decisão monocrática nem no acórdão em agravo regimental sobre tal ponto, de modo que restam dissociadas as razões dos embargos de declaração com relação ao constante nos autos.
+4. Quanto à suspensão do recurso especial, tendo em vista a admissão do REsp n. 1.144.382/AL como representativo de controvérsia, tem-se que este recurso trata da solidariedade passiva da União, dos Estados e dos Municípios tão somente, e não, como no caso em exame, sobre eventual chamamento ao processo de um dos entes.
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no Ag 1.309.607/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 16/08/2012, DJe 22/08/2012).
+TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. CONCURSO DE PREFERÊNCIA. VIOLAÇÃO AO ART. 535 NÃO CONFIGURADA. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF.
+1. Constata-se que não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+2. Na leitura do acórdão recorrido, verifica-se que o Tribunal local não olvidou o fato de possivelmente existir concurso de preferência. Apenas foi consignado que a competência para análise de tal instituto seria do Juízo da Execução. Logo, não merece respaldo a tese da agravante de que foi "inobservada a existência de concursus fiscalis entre a Fazenda Nacional e Fazenda Estadual" (fl. 861, e-STJ). Nesse sentido, verifica-se que as razões recursais mostram-se dissociadas da motivação perfilhada no acórdão recorrido e que não houve impugnação de fundamento autônomo do aresto impugnado. Incidem, portanto, os óbices das súmulas 283 e 284/STF.
+3. Agravo Regimental não provido.
+(AgRg no AREsp 254.814/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/02/2013, DJe 15/02/2013).
+- Da divergência jurisprudencial
+Nesse cenário impõe-se a prejudicialidade do exame da divergência jurisprudencial.
+De fato, os óbices os quais impedem a análise do recurso pela alínea a prejudicam o exame do especial manejado pela alínea c do permissivo constitucional para questionar a mesma matéria.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO NÃO IMPUGNADOS. RAZÕES RECURSAIS DISSOCIADAS. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. TITULARIDADE DOS CRÉDITOS EXECUTADOS. ACÓRDÃO EMBASADO EM PREMISSAS FÁTICAS E NA INTERPRETAÇÃO DE CLÁUSULAS CLÁUSULAS CONTRATUAIS. REVISÃO. SÚMULAS N. 05 E 07/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 282 do Supremo Tribunal Federal.
+III - Revela-se deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem, bem como quando a arguição de ofensa ao dispositivo de lei federal é genérica ou não aponta o dispositivo de lei federal violado. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+IV - In casu, rever o entendimento do Tribunal de origem acerca da titularidade dos créditos executados demandaria interpretação de cláusula contratual e revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz dos óbices contidos nas Súmulas n. 05 e 07/STJ.
+V - Os óbices que impedem o exame do especial pela alínea a prejudicam a análise do recurso interposto pela alínea c do permissivo constitucional para discutir a mesma matéria.
+Precedentes.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no REsp 1883971/PR, de minha relatoria, PRIMEIRA TURMA, julgado em 05/10/2020, DJe 08/10/2020)
+Ademais, não há similitude fático/jurídica entre os julgados confrontados. Isso porque o julgado paradigma discutiu a possibilidade de a inicial ser emendada para modificar as partes, após a contestação, desde que não haja alteração do pedido ou da causa de pedir.
+No acórdão recorrido, contudo, questiona-se o ingresso no feito, no curso do processo, de quem não detinha legitimidade ativa na data em que a ação foi proposta.
+Para a comprovação da divergência jurisprudencial e viabilizar a via do recurso especial com fundamento na alínea c do permissivo constitucional, impõe-se que os julgados confrontados tenham examinado matéria fático/jurídica idênticas, à luz da mesma legislação federal, dando-lhes, contudo, soluções distintas.(1ª T. AgInt nos EDcl no AgInt nos EDcl no REsp n. 1.928.274/SC, de minha relatoria, j. 25/9/2023, DJe de 28/9/2023)
+- Da multa
+No que se refere à aplicação do art. 1.021, § 4º, do Código de Processo Civil de 2015, a orientação desta Corte é de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO. JUÍZO DE ADMISSIBILIDADE. ACÓRDÃOS PARADIGMAS. JUÍZO DE MÉRITO. INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. NEGADO SEGUIMENTO AOS EMBARGOS DE DIVERGÊNCIA. MULTA E HONORÁRIOS ADVOCATÍCIOS RECURSAIS. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+IV. O mero inconformismo com a decisão agravada não enseja a necessária imposição da multa, prevista no § 4º do art. 1.021 do CPC/2015, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do colegiado.
+V. Agravo Regimental improvido.
+(AgInt nos EREsp 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 14/09/2016, DJe 27/09/2016).
+Apesar do improvimento do recurso, não restou configurada a manifesta inadmissibilidade, razão pela qual afasto a apontada multa.
+Posto isso, NEGO PROVIMENTO ao Agravo Intern o.
