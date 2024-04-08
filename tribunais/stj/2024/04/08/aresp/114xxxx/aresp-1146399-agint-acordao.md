@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL . VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. NULIDADE DA CDA. CONTROVÉRSIA RESOLVIDA PELO TRIBUNAL A QUO À LUZ DO CONTEXTO PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. inexiste a alegada violação do art. 1.022 do Código de Processo Civil (CPC), pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+2. O Tribunal de origem reconheceu que a certidão de dívida ativa (CDA) era nula. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, o que impede o conhecimento do recurso especial. Incidência da Súmula 7 do Superior Tribunal de Justiça (STJ).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Cuida-se de agravo interno interposto pelo MUNICÍPIO DE PORTO ALEGRE contra a decisão de minha relatoria na qual conheci de seu agravo para não conhecer do recurso especial com base na ausência de violação ao art. 1.022 do CPC e na incidência da Súmula 7/STJ para rever o posicionamento do Tribunal de origem sobre a nulidade do título executivo.
+Em suas razões (fls. 500/506), a parte agravante reitera a ocorrência de omissão e contradição no acórdão do Tribunal de origem pois o contribuinte não teria produzido provas que demonstrassem a não incidência do ISS (Imposto Sobre Serviços) e que não incide a Súmula 7/STJ no presente caso pois os fatos incontroversos estão no acórdão, permitindo a percepção da violação aos dispositivos legais invocados.
+Não foi apresentada impugnação conforme a certidão de fl. 512.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL . VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. NULIDADE DA CDA. CONTROVÉRSIA RESOLVIDA PELO TRIBUNAL A QUO À LUZ DO CONTEXTO PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. inexiste a alegada violação do art. 1.022 do Código de Processo Civil (CPC), pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+2. O Tribunal de origem reconheceu que a certidão de dívida ativa (CDA) era nula. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, o que impede o conhecimento do recurso especial. Incidência da Súmula 7 do Superior Tribunal de Justiça (STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+A despeito das alegações da parte agravante, razão não lhe assiste.
+Como exposto na decisão agravada, as razões de decidir do Tribunal de origem, que concluiu pela nulidade do título executivo, se basearam nas provas e nos fatos constantes dos autos. A propósito:
+Na hipótese, a certidão de dívida ativa que instrui a execução fiscal - cujo objeto é a cobrança ISS incidente sobre operações bancárias no período de 2000 a 2004 - não traz qualquer identificação dos serviços tributados. Há, tão somente, referência genérica à incidência de ISS sobre receita bruta (fI. 03 do processo apenso).
+Já no auto de lançamento - juntado apenas em sede de embargos à execução - consta que o contribuinte "recolheu a menor o imposto sobre serviços de qualquer natureza (ISSQN), incidente sobre as receitas auferidas com a prestação de serviços bancários"(fl.88). Novamente, inexiste precisa identificação dos serviços prestados pela instituição financeira e que, de acordo com o entendimento do Fisco, são passíveis de tributação.
+A referência genérica aos itens 95 e 96 da lista anexa à Lei Complementar 116/2003 (ou itens 15.02, 15.05, 15.06, 15.07, 15.08, 15.10,15.11, 15.12, 15.14, 15.16 e 15.17 a partir de 01/01/2004), constante do auto, não supre tal exigência, notadamente porque não permite sejam identificados os fatos geradores que deram origem à obrigação tributária.
+O demonstrativo de crédito juntado pela parte embargada, do mesmo modo, não traz os valores referentes a cada serviço ou, sequer, quais rubricas compõem a cobrança. Há tão somente indicação dos valores devidos mês a mês, sem qualquer referência a sua origem (fls. 91/92).
+De acordo com os artigos retro transcritos, a certidão de dívida deve ativa indicar precisamente a origem e a natureza do crédito, sob pena de nulidade.
+ ..
+Ora, ausente indicação do fato gerador, não há, por conseguinte, a necessária verificação de sua ocorrência, tal qual determina a legislação de regência.
+Por outro lado, não individualizado o montante devido por rubricas, tampouco identificado o serviço cuja prestação deu causa à incidência tributária, há inequívoco prejuízo à defesa e ao próprio julgamento da pretensão.
+Conquanto a CDA seja dotada de presunção de certeza e liquidez, no caso, não há como o contribuinte ter ciência das operações bancárias que foram objeto da exação, configurando-se manifesto cerceamento de sua defesa (fls. 211/212).
+Deve ser afastada a alegação de ofensa do art. 1.022 do Código de Processo Civil porque todas as questões necessárias ao deslinde da controvérsia foram analisadas e decididas suficientemente no acórdão recorrido, inexistindo erro material, omissão, contradição ou obscuridade.
+Ademais, diante das razões expendidas pela Corte a quo, ressalto que demandaria, necessariamente, o reexame do acervo fático-probatório acolher a pretensão recursal a fim de modificar o entendimento firmado no acórdão recorrido quanto ao reconhecimento da nulidade do título executivo e da ausência de fato imponível de ISS , sendo inviável essa discussão na via eleita ante o óbice contido na Súmula 7/STJ. A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. EXECUÇÃO FISCAL. PROCESSO ADMINISTRATIVO. JUNTADA. DESNECESSIDADE. CDA. REQUISITOS. REEXAME DE PROVA. IMPOSSIBILIDADE.
+1. Não há violação do art. 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+2. O art. 6º, § 1º, da LEF indica como documento obrigatório para o ajuizamento da execução fiscal apenas a respectiva Certidão de Dívida Ativa (CDA), que goza de presunção de certeza e liquidez, sendo, portanto, desnecessária a juntada pelo fisco da cópia do processo administrativo que deu origem ao título executivo, competindo ao devedor essa providência. Precedentes.
+3. Hipótese em que o agravante não apresentou embargos à execução, tendo solicitado a cópia do processo administrativo à Receita Federal e à Caixa Econômica Federal somente cinco anos após sua citação válida, quando já precluso o seu direito de apresentar defesa, notadamente de alegar eventual nulidade da CDA.
+4. A modificação do acórdão recorrido, para aferir eventuais vícios na certidão de dívida ativa, pressupõe reexame de matéria fática, inviável no âmbito do recurso especial, nos termos da Súmula 7 do STJ.
+5. Agravo interno desprovido. (AgInt no AREsp n. 1.737.184/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/9/2023, DJe de 15/9/2023 - sem destaque no original.)
+PROCESSUAL CIVIL. TRIBUTÁRIO. FALTA DO NÚMERO DO PROCESSO ADMINISTRATIVO. NULIDADE DA CDA. AFASTAMENTO. INCIDÊNCIA DA SÚMULA 7/STJ. INEXISTÊNCIA DE PREJUÍZO. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. HIGIDEZ DO TÍTULO. MANUTENÇÃO.
+I - O questionamento acerca da liquidez e certeza da CDA, dentre eles a falta de numeração do processo administrativo, implica em reexame do conjunto probatório, o que encontra óbice na súmula 7/STJ. Precedentes: AgInt no AREsp n. 792.785/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 14/2/2017, DJe de 21/2/2017 e AgInt no AREsp n. 920.331/RO, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 2/8/2016, DJe de 17/8/2016.
+II - Mesmo que afastado o óbice processual, verifica-se que o Tribunal a quo agiu com acerto ao manter a higidez da CDA, com a convicção de que a irregularidade formal não gerou. Precedentes: AgInt no AREsp n. 520.705/SC, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 22/9/2016, DJe de 6/10/2016 e AgInt no AREsp n. 1.791.585/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 23/8/2021, DJe de 27/8/2021.
+III - Agravo interno improvido. (AgInt no AREsp n. 1.537.329/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 8/8/2023, DJe de 15/8/2023 - sem destaque no original.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
