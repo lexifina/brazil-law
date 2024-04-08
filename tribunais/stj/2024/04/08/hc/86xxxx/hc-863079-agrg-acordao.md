@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. BUSCA PESSOAL. ATITUDE SUSPEITA. CONDUTA INESPECÍFICA. AUSÊNCIA DE FUNDADAS RAZÕES. NULIDADE DA PROVA. 2. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Não estão presentes, na hipótese dos autos, fundadas razões para a busca pessoal, uma vez que não há referência a denúncia específica, tampouco investigação prévia. Ademais, o fato de o paciente "se portar estranho" reflete atitude suspeita inespecífica, o que por si só, não constitui subsídio legal para a busca pessoal.
+2. Agravo regimental a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão monocrática, da minha lavra, que não conheceu do mandamus, porém concedeu a ordem de ofício para reconhecer a nulidade da busca pessoal, com a consequente absolvição do paciente.
+Consta dos autos que o paciente foi condenado como incurso no art. 33, caput, da Lei n. 11.343/2006, à pena de 5 anos de reclusão, em regime semiaberto, e à multa de 500 dias-multa, porque trazia consigo 24 pinos de cocaína (16g), 178 pedrinhas de crack (29g), e 16 porções de maconha (17g) (e-STJ fl. 19). Irresignada, a defesa interpôs recurso de apelação, o qual foi julgado, nos termos da seguinte ementa (e-STJ fl. 15):
+APELAÇÃO-CRIME. TRÁFICO ILÍCITO DE DROGAS. SENTENÇA CONDENATÓRIA. RECURSO DEFENSIVO.
+Preliminar de ilicitude da busca pessoal. Presentes as fundadas razões a justificar a ação policial, nos termos do art. 244 do Código de Processo Penal, com o que não há falar em ilicitude da prova obtida. Importante destacar que o crime de tráfico de entorpecentes possui natureza permanente no qual o estado de flagrância prolonga-se no tempo. Preliminar afastada.
+Mérito. Tráfico de drogas. Apreensão de 24 pinos de cocaína (16g),178 pedrinhas de crack (29g), e 16 porções de maconha (17g). Prova produzida que demonstra, de forma segura e estreme de dúvidas, a posse das drogas e a tipicidade da conduta, de modo que inviável modificar o desfecho condenatório. Sentença condenatória mantida.
+Desacolhido o pleito defensivo referente a isenção da pena de multa.
+APELO DEFENSIVO DESPROVIDO.
+No mandamus, a defesa aduziu, em síntese, que a busca pessoal seria ilícita, porquanto realizada sem fundadas razões, apenas "com base no fato do paciente estar em local conhecido como ponto de tráfico e de ficar estranho ao avistar a guarnição policial, ambas circunstâncias consideradas inidôneas para justificar a abordagem pessoal". Pugnou, assim, pela nulidade das provas, com a consequente absolvição do paciente.
+Verificada a ilegalidade, a ordem foi concedida de ofício.
+No presente agravo regimental, o Ministério Público Federal afirma que havia "fundadas razões a autorizar a busca pessoal no paciente. Efetivamente, havia prévia operação da Polícia Militar em ponto de tráfico, ocasião na qual o paciente foi abordado em atitude suspeita".
+Pede, dessa forma, o provimento do agravo regimental.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. BUSCA PESSOAL. ATITUDE SUSPEITA. CONDUTA INESPECÍFICA. AUSÊNCIA DE FUNDADAS RAZÕES. NULIDADE DA PROVA. 2. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Não estão presentes, na hipótese dos autos, fundadas razões para a busca pessoal, uma vez que não há referência a denúncia específica, tampouco investigação prévia. Ademais, o fato de o paciente "se portar estranho" reflete atitude suspeita inespecífica, o que por si só, não constitui subsídio legal para a busca pessoal.
+2. Agravo regimental a que se nega provimento.
+VOTO
+A insurgência não merece prosperar.
+Com efeito, conforme explicitado na decisão monocrática, a jurisprudência desta Corte Superior tem entendido que a revista pessoal sem autorização judicial prévia somente pode ser realizada diante de fundadas suspeitas de que a pessoa oculte consigo arma proibida, coisas achadas ou obtidas por meios criminosos, instrumentos de falsificação ou de contrafação e objetos falsificados ou contrafeitos; ou objetos necessários à prova de infração, na forma do disposto no § 2º do art. 240 e no art. 244, ambos do Código de Processo Penal.
+Nessa linha de entendimento, "não satisfazem a exigência legal, por si sós  para a realização de busca pessoal/veicular , meras informações de fonte não identificada (e. g. denúncias anônimas) ou intuições e impressões subjetivas, intangíveis e não demonstráveis de maneira clara e concreta, apoiadas, por exemplo, exclusivamente, no tirocínio policial. Ante a ausência de descrição concreta e precisa, pautada em elementos objetivos, a classificação subjetiva de determinada atitude ou aparência como suspeita, ou de certa reação ou expressão corporal como nervosa, não preenche o standard probatório de "fundada suspeita" exigido pelo art. 244 do CPP" (RHC n. 158.580/BA, Relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 19/4/2022, DJe 25/4/2022).
+Na hipótese dos autos, a Corte local assentou que "os policiais militares envolvidos na incursão, estavam em patrulhamento de rotina, em local conflagrado pelo tráfico de entorpecentes, oportunidade em que visualizaram um indivíduo em atitude suspeita - "ele quando viu a viatura assim ele se portou estranho, deu um sinal de travar, de querer voltar", motivo pelo qual procederam na abordagem" (e-STJ fl. 21).
+Apresentado o contexto fático e o entendimento do Tribunal local, concluiu-se não estarem presentes fundadas razões para a busca pessoal, uma vez que não há referência a denúncia específica, tampouco investigação prévia. Ademais, o fato de o paciente "se portar estranho" reflete atitude suspeita inespecífica, o que por si só, não constitui subsídio legal para a busca pessoal.
+Nesse sentido, destaco os seguintes julgados do STJ:
+HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL. INEXISTÊNCIA DE FUNDADA SUSPEITA. PROVA ILÍCITA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ABSOLVIÇÃO. ORDEM CONCEDIDA.
+1. Nos termos do art. 240, § 2º, do CPP, para a realização de busca pessoal pela autoridade policial, é necessária a presença de fundada suspeita no sentido de que a pessoa abordada esteja na posse de drogas, objetos ou papéis que constituam corpo de delito.
+2. No caso, os policiais estavam em patrulhamento em local conhecido como ponto de tráfico de drogas, quando visualizaram o recorrente em via pública, sentado numa calçada, tendo os agentes procedido à busca pessoal, seguindo-se a apreensão do entorpecente - "55 (cinquenta e cinco) unidades de crack e 01(um) invólucro contendo cocaína". Entretanto, padece de razoabilidade e de concretude a abordagem de indivíduo tão somente pelo subjetivo argumento de estar em "atitude suspeita" ou em local conhecido como ponto de tráfico.
+Precedentes.
+3. Ordem concedida para reconhecer a ilegalidade da busca pessoal e absolver o paciente do delito previsto no art. 33, caput, da Lei n. 11.343/2006, determinando sua imediata soltura, se por outro motivo não estiver preso.
+(HC n. 858.293/PE, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 6/2/2024, DJe de 8/2/2024.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. BUSCA PESSOAL E DOMICILIAR. RÉU ABORDADO EM VIA PÚBLICA SEM A INDICAÇÃO DE FUNDADA SUSPEITA DE ESTAR NA POSSE DE OBJETO ILÍCITO. ILEGALIDADE DA MEDIDA. CONTAMINAÇÃO DAS PROVAS DERIVADAS . ABSOLVIÇÃO. FALTA DE COMPROVAÇÃO DA MATERIALIDADE DELITIVA. RECURSO NÃO PROVIDO.
+1. De acordo com o art. 244 do Código de Processo Penal, a busca pessoal poderá ser realizada, independente de mandado judicial, nas hipóteses de prisão em flagrante ou quando houver suspeita de que o agente esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito.
+2. No caso, observa-se que a atuação dos policiais militares se deu claramente de forma especulativa, sem indício mínimo de que o réu estivesse na posse de material objeto de ilícito. Já de início, constata-se que a revista pessoal foi justificada somente na suposta "atitude suspeita" do acusado, desacompanha de qualquer dado concreto que autorizasse a medida invasiva, momento em que com ele foi apreendido uma pequena porção de maconha. Na sequência, foi procedida a busca domiciliar, onde encontrado o restante da droga.
+3. Portanto, sendo ilegal a atividade policial efetivada sem justo motivo, é de rigor a declaração de nulidade da condenação porque amparada em prova ilícita, uma vez que todo o contexto fático posterior à busca pessoal, por óbvio, também está viciado (busca domiciliar).
+4. Agravo não provido.
+(AgRg no HC n. 863.412/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+Assim, em que pese o esforço argumentativo da combativa defesa, não foram apresentados argumentos aptos a reverter as conclusões trazidas na decisão agravada, motivo pelo qual esta se mantém por seus próprios e jurídicos fundamentos.
+Pelo exposto, nego provimento ao agravo regimental.
+É como voto.
