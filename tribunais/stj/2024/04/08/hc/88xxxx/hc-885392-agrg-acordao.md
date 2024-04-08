@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA INOBSERVÂNCIA DAS REGRAS PREVISTAS NO ART. 226 DO CPP. OUTROS ELEMENTOS INDICIÁRIOS DE AUTORIA. RÉU COM OUTRA AÇÃO PENAL EM ANDAMENTO. MANUTENÇÃO DA CAUTELAR. EXCESSO DE PRAZO NÃO VERIFICADO. AGRAVO DESPROVIDO.
+1. Não se acolhe a pretensão defensiva de nulidade decorrente da inobservância do artigo 226 do Código de Processo Penal quando a possível autoria do acusado está baseada também em outros elementos indiciários de autoria, como a posse do bem subtraído da vítima no momento do flagrante.
+2. Existência de outra ação penal em curso contra o acusado é fundamento idôneo para justificar a prisão preventiva no processo atual em que se apura novo delito.
+3. Inviável acolhimento da tese de excesso de prazo quando verificada a regularidade do trâmite processual, instaurado há menos de quatro meses.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por CRISTHIAN LUCAS DOS SANTOS ARAUJO contra a decisão de fls. 448-458, e-STJ, que não conheceu do habeas corpus.
+Nas presentes razões, a defesa sustenta a tese de ilegalidade da prisão preventiva do agravante pela inidoneidade da fundamentação do decreto. Renova a alegação de que o único indício de autoria do acusado está maculado pela inobservância do procedimento legal de reconhecimento de pessoas (art. 226 do Código de Processo Penal). Reitera a primariedade do agravante e o excesso de prazo por estar custodiado há mais de 90 dias.
+Requer, assim, a reconsideração da decisão agravada ou a submissão deste agravo regimental ao Órgão colegiado para que seja concedida a ordem, nos termos pleiteados.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA INOBSERVÂNCIA DAS REGRAS PREVISTAS NO ART. 226 DO CPP. OUTROS ELEMENTOS INDICIÁRIOS DE AUTORIA. RÉU COM OUTRA AÇÃO PENAL EM ANDAMENTO. MANUTENÇÃO DA CAUTELAR. EXCESSO DE PRAZO NÃO VERIFICADO. AGRAVO DESPROVIDO.
+1. Não se acolhe a pretensão defensiva de nulidade decorrente da inobservância do artigo 226 do Código de Processo Penal quando a possível autoria do acusado está baseada também em outros elementos indiciários de autoria, como a posse do bem subtraído da vítima no momento do flagrante.
+2. Existência de outra ação penal em curso contra o acusado é fundamento idôneo para justificar a prisão preventiva no processo atual em que se apura novo delito.
+3. Inviável acolhimento da tese de excesso de prazo quando verificada a regularidade do trâmite processual, instaurado há menos de quatro meses.
+3. Agravo regimental desprovido.
+VOTO
+A irresignação não merece guarida, pois a decisão ora guerreada foi proferida em consonância à orientação jurisprudencial desta Corte Superior.
+Acerca do reconhecimento pessoal, imperioso ressaltar que não esse foi o único elemento indiciário de autoria utilizado para a decretação da prisão preventiva do agravante. Conforme adiantado na decisão anterior, o acusado foi preso em flagrante com o celular subtraído da vítima, juntamente com outros dois investigados, sendo, na sequência, todos os três reconhecidos como os responsáveis pelo assalto sofrido. Nesse ponto, esclareceu a vítima que alguns populares correram atrás dos autores do delito após o assalto, ocasião em que conseguiram contê-los até a chegada da polícia (e-STJ, fl. 23). A propósito, a veracidade da referida informação é questão a ser debatida e confrontada pela defesa durante a instrução processual e não em sede de habeas corpus.
+Logo, diante da existência de outras possíveis provas independentes, não acolho a pretensão defensiva, haja vista a necessidade de exame pelo Juízo processante dos elementos probatórios em conjunto para o deslinde do feito.
+Nesse sentido:
+Agravo regimental no habeas corpus. 2. Reconhecimento de pessoas. Caso inteiramente distinto daquele travado no RHC 206.846. 3. Condenação baseada em provas independentes. 4. Necessidade de nova instrução. Procedimento inexistente no rito do habeas corpus. 5. Agravo improvido.
+(STF, HC 220.700 AgR, relator Ministro Gilmar Mendes, Segunda Turma, julgado em 13/4/2023, DJe 20/4/2023.)
+AGRAVO REGIMENTAL EM AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO MAJORADO. VIOLAÇÃO DO ART. 226 DO CPP. TESE DE NULIDADE. INOBSERVÂNCIA DO PROCEDIMENTO DE RECONHECIMENTO PESSOAL. EXISTÊNCIA DE OUTROS ELEMENTOS DE PROVA VÁLIDOS E INDEPENDENTES. PRECEDENTE.
+1. Para a jurisprudência desta Corte Superior, o reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto para identificar o réu e fixar a autoria delitiva quando observadas as formalidades previstas no art. 226 do Código de Processo Penal (HC n. 598.886/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 18/12/2020).
+2. O art. 226, antes de descrever o procedimento de reconhecimento de pessoa, diz em seu caput que o rito terá lugar "quando houver necessidade", ou seja, o reconhecimento de pessoas deve seguir o procedimento previsto quando há dúvida sobre a identificação do suposto autor. A prova de autoria não é tarifada pelo Código de Processo Penal.
+4. Antes, esta Corte dizia que o procedimento não era vinculante;
+agora, evoluiu no sentido de exigir sua observância, o que não significa que a prova de autoria deverá sempre observar o procedimento do art. 226 do Código de Processo Penal. O reconhecimento de pessoa continua tendo espaço quando há necessidade, ou seja, dúvida quanto à individualização do suposto autor do fato. Trata-se do método legalmente previsto para, juridicamente, sanar dúvida quanto à autoria. Se a vítima é capaz de individualizar o agente, não é necessário instaurar a metodologia legal.
+5. A nova orientação buscou afastar a prática recorrente dos agentes de segurança pública de apresentar fotografias às vítimas antes da realização do procedimento de reconhecimento de pessoas, induzindo determinada conclusão.
+6. A condenação não se amparou, exclusivamente, no reconhecimento pessoal realizado na fase do inquérito policial, destacando-se, sobretudo, que uma das vítimas reconheceu o agravante em Juízo, descrevendo a negociação e a abordagem. A identificação do perfil na rede social facebook foi apenas uma das circunstâncias do fato, tendo em conta que a negociação deu-se por essa rede social.
+7. Agravo regimental improvido.
+(AgRg no AgRg no HC n. 721.963/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 19/4/2022, DJe de 13/6/2022; grifou-se.)
+Concernente à prisão preventiva, tem-se que o agravante foi preso em flagrante enquanto gozava de liberdade provisória concedido em outro feito que responde pela suposta prática do delito de tráfico de drogas. Independentemente da ausência de condenação no outro processo, é suficiente para a decretação da prisão preventiva a existência de ações penais em curso em desfavor em acusado. No mesmo sentido:
+Conforme sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública. Precedentes. (AgRg no RHC n. 175.669/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+Justifica-se a imposição da prisão preventiva do agente pois, como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma (AgRg no HC n. 824.179/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+Por fim, inviável acolhimento da tese de excesso de prazo. Afinal, com base nas informações prestadas pelo Juízo processante, o agravante foi preso em 28/11/2023, a denúncia foi oferecida em 3/1/2024, aguardando o feito atualmente o recebimento das respostas à acusação dos três denunciados. Nesse contexto, tem-se que a Ação Penal n. 0722795-44.2023.8.13.0024 segue seu curso normal, longe de se vislumbrar o excesso de prazo suscitado pela defesa.
+Por tais razões, a decisão merece ser mantida pelos seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
