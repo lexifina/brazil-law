@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. RESPONSABILIDADE OBJETIVA. FALHA NA PRESTAÇÃO DE SERVIÇO HOSPITALAR. NEXO CAUSAL. NECESSIDADE DE VERIFICAÇÃO DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. As instituições hospitalares respondem, direta e objetivamente, pelos defeitos nos serviços prestados, compreendidos como o fornecimento de recursos materiais e humanos auxiliares adequados à prestação dos serviços médicos e à supervisão do paciente.
+2. Não se admite a revisão do entendimento do tribunal de origem quando a situação de mérito demandar o reexame do acervo fático-probatório dos autos, tendo em vista o óbice da Súmula n. 7 do STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+LUCIANA MOREIRA interpõe agravo interno contra a decisão de fls. 1.126-1.132, que negou provimento ao agravo em recurso especial em razão da incidência da Súmula n. 7 do STJ.
+No presente recurso, a agravante, defendendo não ser aplicável à espécie o óbice da Súmula n. 7 do STJ, afirma que busca apenas a adequada valoração das provas em relação à comprovação da falha na prestação do serviço hospitalar.
+Insiste na tese de que faz jus à indenização por danos materiais e morais.
+Requer, assim, seja reconsiderada a decisão agravada ou seja o agravo julgado pelo colegiado para desprovimento do recurso especial.
+A parte agravada apresentou impugnação às fls. 1.164-1.177.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. RESPONSABILIDADE OBJETIVA. FALHA NA PRESTAÇÃO DE SERVIÇO HOSPITALAR. NEXO CAUSAL. NECESSIDADE DE VERIFICAÇÃO DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. As instituições hospitalares respondem, direta e objetivamente, pelos defeitos nos serviços prestados, compreendidos como o fornecimento de recursos materiais e humanos auxiliares adequados à prestação dos serviços médicos e à supervisão do paciente.
+2. Não se admite a revisão do entendimento do tribunal de origem quando a situação de mérito demandar o reexame do acervo fático-probatório dos autos, tendo em vista o óbice da Súmula n. 7 do STJ.
+3. Agravo interno desprovido.
+VOTO
+A decisão agravada deve ser mantida por seus próprios fundamentos.
+O Tribunal de origem manteve a sentença - que concluíra pela ausência de comprovação na falha na prestação de serviços do hospital -, afastando a pretendida indenização por danos materiais e morais nos seguintes termos (fls . 984-987, destaquei):
+Aplica-se ao presente caso o Código de Defesa do Consumidor, diante da caracterização das figuras processuais como destinatária e prestador de serviços, assim como descritos nos artigos 2º e 3º da Lei 9078/90.
+Prevê referida lei a responsabilidade objetivado prestador de serviços quando se dá sua má prestação, presumindo-se, destarte, sua culpa por dano que veio a causar ao consumidor.
+Mas, tal regra deve ser aplicada em casos nos quais primeiro, houve dano e segundo, que ele decorreu da defeituosa ou má prestação do serviço.
+No caso em tela, a autora, portadora de comorbidades como a hepatite C (15 anos) e diabetes melittus, sofria, outrossim, de grave problema cardíaco que determinou, dezenove anos antes do atendimento apontado como defeituoso, que fosse instalado em seu tórax um aparelho de marca passo para regularização do trabalho cardíaco.
+Tal prótese já havia sido objeto de intervenção cirúrgica, em dezembro de 2011, para troca de gerador e, em 25/04/2012, à troca da "loja" do aparelho, conforme relatado ao perito em anamnese.
+Em 11/06/2012, foi atendida no hospital recorrido, diante de mal-estar que determinou nova cirurgia (18/06/2012) para retirada da prótese, que foi reimplantada em 04/07/2012, recebendo alta em 06/07/2012, continuando o atendimento em home care.
+Quando da cirurgia de remoção do aparelho, constatou-se que importante infecção por microrganismos o atingia, sendo que o cirurgião determinou aos demais atendentes que o aparelho fosse remetido ao laboratório para exame de cultura para identificar especificamente qual seria ele e, assim, aplicar-se o apropriado antibiótico, providência que não foi tomada pelo "staff" e que a recorrente denuncia como a falha na prestação do serviço, que veio a lhe causar longo período de tratamento com antibiótico de amplo espectro, repita-se, não específico ao caso.
+Tal período veio a causar-lhe um AVC e um aneurisma, males que vieram a reduzir-lhe a mobilidade e dano estético com paralização lateral de seu corpo e necessidade da ajuda de terceiros para se locomover.
+A r. sentença recorrida deu pela improcedência da ação após a produção de prova pericial (fls. 764/784 e 810/811), elaborada por profissional do IMESC que afastou o nexo entre os males declarados na inicial e o atendimento médico-hospitalar prestado pelo réu, acrescendo-se que o facultativo que a assistiu era particular.
+Bate-se a recorrente pela ausência de exame laboratorial pela equipe hospitalar, mesmo quando determinada pelo cirurgião e que tal omissão fê-la submeter-se a desgastante período de combate à infecção com medicação específica e que, em tal período, sofreu o AVC e o aneurisma.
+Ficou evidente que tais episódios, pelo que foi exaustivamente explorado pelo perito judicial, não guardaram ligação ou causaram aqueles incidentes, não havendo nexo causal.
+mais específico, representou opção válida destinada aos mesmos fins, ou seja, debelar a infecção que não é tão incomum nos locais que alojam os marca passos.
+A opção, portanto, de corpo clínico por medicamento que teria finalidade única não revela falha na prestação do serviço porque, com ou sem exame laboratorial da peça retirada da paciente, a infecção existia e deveria, de imediato, ser combatida mesmo porque haveria demora de dias para identificação da bactéria.
+Assim, extrai-se que a r. decisão de primeiro grau foi acertada ao afastar a obrigação indenizatória pelo hospital recorrido.
+Assim, o Tribunal de origem decidiu em consonância com a atual jurisprudência do STJ, no sentido de que "a responsabilidade das sociedades empresárias hospitalares por dano causado ao paciente-consumidor pode ser assim sintetizada: (i) as obrigações assumidas diretamente pelo complexo hospitalar limitam-se ao fornecimento de recursos materiais e humanos auxiliares adequados à prestação dos serviços médicos e à supervisão do paciente, hipótese em que a responsabilidade objetiva da instituição (por ato próprio) exsurge somente em decorrência de defeito no serviço prestado (artigo 14, caput, do CDC); (ii) os atos técnicos praticados pelos médicos sem vínculo de emprego ou subordinação com o hospital são imputados ao profissional pessoalmente, eximindo-se a entidade hospitalar de qualquer responsabilidade (art. 14, § 4, do CDC), se não concorreu para a ocorrência do dano; (iii) quanto aos atos técnicos praticados de forma defeituosa pelos profissionais da saúde vinculados de alguma forma ao hospital, respondem solidariamente a instituição hospitalar e o profissional responsável, apurada a sua culpa profissional. Nesse caso, o hospital é responsabilizado indiretamente por ato de terceiro, cuja culpa deve ser comprovada pela vítima de modo a fazer emergir o dever de indenizar da instituição, de natureza absoluta (artigos 932 e 933 do Código Civil), sendo cabível ao juiz, demonstrada a hipossuficiência do paciente, determinar a inversão do ônus da prova (artigo 6º, inciso VIII, do CDC)" (REsp n. 1.145.728/MG, relator para o acórdão Ministro Luis Felipe Salomão, Quarta Turma, julgado em 28/6/2011, DJe de 8/9/2011, destaquei).
+Na espécie, a Corte a quo entendeu que não ficou demonstrado o nexo causal entre a alegada omissão do nosocômio ao não realizar o exame e os danos suportados pela paciente, afastando a responsabilidade civil da recorrida.
+Assim, para concluir em sentido contrário e verificar a ocorrência dos pressupostos para a concessão da indenização, é necessário o reexame do conjunto probatório dos autos, procedimento vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ERRO MÉDICO VERIFICADO. RESPONSABILIDADE SOLIDÁRIA DIANTE DA EXISTÊNCIA DE VÍNCULO ENTRE MÉDICO E HOSPITAL. QUANTUM INDENIZATÓRIO. MODIFICAÇÃO DO ACÓRDÃO QUE DEMANDA REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE A TEOR DA SÚMULA 7 DO STJ.
+1. Da leitura dos autos, verifica-se que a Corte estadual julgou fundamentadamente a matéria, expondo as razões que levaram às suas conclusões. Portanto, a pretensão ora deduzida, em verdade, traduz-se em mero inconformismo com a decisão posta, o que não revela, por si só, a existência de qualquer vício nesta.
+2. A Corte estadual, com base nas provas dos autos, reconheceu a responsabilidade civil do hospital, sinalizando a existência de vínculo do médico responsável pelo ato cirúrgico com o nosocômio.
+Logo, a alteração desse entendimento, a fim de excluir a responsabilidade da entidade hospitalar, demandaria o revolvimento de matéria fático-probatória, inviável em recurso especial.
+Incidência da Súmula 7/STJ.
+3. Montante indenizatório pelos danos morais estabelecido pelo Tribunal de origem que não se mostra excessivo, a justificar sua reavaliação em recurso especial. Incidência da Súmula 7/STJ.
+4. Agravo interno não provido. (AgInt no AREsp n. 2.162.928/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 28/11/2022, DJe de 13/12/2022, destaquei.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER, C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. 1. AUSÊNCIA DE COMPROVAÇÃO DE ATO ILÍCITO. ALTERAÇÃO. SÚMULA N. 7/STJ. 2. AGRAVO INTERNO IMPROVIDO.
+1. Reverter a conclusão do Tribunal local para acolher a pretensão recursal, quanto à inexistência de ato ilícito praticado pelos agravados, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado devido à natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+2. Agravo interno improvido. (AgInt no AREsp n. 2.064.124/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/8/2022, DJe de 18/8/2022, destaquei.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA RÉ.
+1. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+2. Rever a conclusão do Tribunal de origem quanto à inexistência de fato de terceiro apto a afastar a responsabilidade da recorrente, bem assim quanto aos elementos ensejadores do dever de indenizar por danos morais, exigiria a incursão na seara probatória dos autos, o que não é permitido nesta instância especial, nos termos da Súmula 7/STJ.
+3. É possível a inversão da cláusula penal moratória em favor do consumidor, na hipótese de inadimplemento do promitente-vendedor, consubstanciado no atraso na entrega do imóvel. Incidência da Súmula 83/STJ.
+4. Nos termos da jurisprudência desta Corte, entende-se por decisão extra petita aquela em que o julgador, ao apreciar o pedido, decide de forma diferente do postulado pelo autor na peça inicial. No entanto, o pedido da parte não corresponde apenas ao que foi requerido ao final da petição inicial, mas aquele que se extrai da interpretação lógico-sistemática da inicial como um todo.
+Precedentes.
+5. Agravo interno desprovido. (AgInt no AREsp n. 2.077.259/BA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 22/8/2022, DJe de 26/8/2022, destaquei.)
+Portanto, a agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
