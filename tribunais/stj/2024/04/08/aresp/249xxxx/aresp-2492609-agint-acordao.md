@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Herman Benjamin.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO CONTRA DECISÃO DA PRESIDÊNCIA DO STJ. IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO QUE INADMITE RECURSO ESPECIAL. AUSÊNCIA.
+1. Trata-se de Agravo Interno contra decisão da Presidência do STJ que não conheceu do Agravo, ante a ausência de impugnação específica de dois fundamentos do juízo de inadmissão do Recurso Especial: Súmula 280/STF e divergência não comprovada (Súmula 284/STF).
+2. Ao contrário do que afirma o agravante, o Tribunal a quo invocou a Súmula 280/STF para inadmitir o Recurso Especial, in verbis (fl. 624, e-STJ): "Quanto à suposta ofensa ao art. 8º do Código de Processo Civil e à tese defendida acercada razoabilidade e proporcionalidade da exigência de teste de aptidão física para a vaga de Oficial Dentista da Polícia Militar de Santa Catarina, o reclamo não reúne condições de ascender, porquanto a análise das razões recursais, tais como postas, e a reversão do acórdão recorrido demandariam necessariamente a revisão dos elementos probatórios que fundamentaram a conclusão alcançada pela Câmara Julgadora, bem como a interpretação da legislação estadual de regência e das normas editalícias do Edital n. 001/CESIP/2012. Tais circunstancias atraem a incidência das Súmulas 5 e 7 do STJ ("A simples interpretação de clausula contratual não enseja. recurso especial" e "A pretensão de simples reexame de prova não enseja Recurso Especial") e, por analogia, da Súmula 280 do STF ("Por ofensa a direito local não cabe recurso extraordinário")."
+3. Ademais, a parte agravante nada disse a respeito do segundo fundamento utilizado pela Presidência do STJ para não conhecer do Agravo: o de que não houve impugnação do fundamento referente à não comprovação da divergência jurisprudencial.
+4. Agravo Interno parcialmente conhecido e não provido.
+RELATÓRIO
+Trata-se de Agravo Interno contra decisão da Presidência do STJ que não conheceu do Agravo, ante a ausência de impugnação específica de dois fundamentos do juízo de inadmissão do Recurso Especial: Súmula 280/STF e divergência não comprovada (Súmula 284/STF).
+Nas razões recursais (fls. 668-6721, e-STJ), a parte agravante alega:
+Reitera-se que a Súmula 280 do STF não foi utilizada como ratio decidendi da decisão agravada, pois o recurso especial não busca discutir direito local. As normas apontadas no recurso normas apontadas no recurso especial como violadas são apenas o art. 8 2 e o art. 1.022, II c/c art. 489, § 1º, IV, todos do CPC, como se observa:
+(..)
+Impugnação às fls. 675-680, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO CONTRA DECISÃO DA PRESIDÊNCIA DO STJ. IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO QUE INADMITE RECURSO ESPECIAL. AUSÊNCIA.
+1. Trata-se de Agravo Interno contra decisão da Presidência do STJ que não conheceu do Agravo, ante a ausência de impugnação específica de dois fundamentos do juízo de inadmissão do Recurso Especial: Súmula 280/STF e divergência não comprovada (Súmula 284/STF).
+2. Ao contrário do que afirma o agravante, o Tribunal a quo invocou a Súmula 280/STF para inadmitir o Recurso Especial, in verbis (fl. 624, e-STJ): "Quanto à suposta ofensa ao art. 8º do Código de Processo Civil e à tese defendida acercada razoabilidade e proporcionalidade da exigência de teste de aptidão física para a vaga de Oficial Dentista da Polícia Militar de Santa Catarina, o reclamo não reúne condições de ascender, porquanto a análise das razões recursais, tais como postas, e a reversão do acórdão recorrido demandariam necessariamente a revisão dos elementos probatórios que fundamentaram a conclusão alcançada pela Câmara Julgadora, bem como a interpretação da legislação estadual de regência e das normas editalícias do Edital n. 001/CESIP/2012. Tais circunstancias atraem a incidência das Súmulas 5 e 7 do STJ ("A simples interpretação de clausula contratual não enseja. recurso especial" e "A pretensão de simples reexame de prova não enseja Recurso Especial") e, por analogia, da Súmula 280 do STF ("Por ofensa a direito local não cabe recurso extraordinário")."
+3. Ademais, a parte agravante nada disse a respeito do segundo fundamento utilizado pela Presidência do STJ para não conhecer do Agravo: o de que não houve impugnação do fundamento referente à não comprovação da divergência jurisprudencial.
+4. Agravo Interno parcialmente conhecido e não provido.
+VOTO
+Os autos foram recebidos neste Gabinete em 15.2.2024.
+Ao contrário do que afirma o agravante, o Tribunal a quo invocou a Súmula 280/STF para inadmitir o Recurso Especial (fl. 624, e-STJ, grifei):
+2.4 Da aplicação das Súmulas 5 e 7 do STJ e, por analogia, da Súmula 280 do STF
+Quanto à suposta ofensa ao art. 8º do Código de Processo Civil e à tese defendida acercada razoabilidade e proporcionalidade da exigência de teste de aptidão física para a vaga de Oficial Dentista da Polícia Militar de Santa Catarina, o reclamo não reúne condições de ascender, porquanto a análise das razões recursais, tais como postas, e a reversão do acórdão recorrido demandariam necessariamente a revisão dos elementos probatórios que fundamentaram a conclusão alcançada pela Câmara Julgadora, bem como a interpretação da legislação estadual de regência e das normas editalícias do Edital n. 001/CESIP/2012.
+Tais circunstancias atraem a incidência das Súmulas 5 e 7 do STJ ("A simples interpretação de clausula contratual não enseja. recurso especial" e "A pretensão de simples reexame de prova não enseja Recurso Especial") e, por analogia, da Súmula 280 do STF ("Por ofensa a direito local não cabe recurso extraordinário").
+Ademais, a parte agravante nada disse a respeito do segundo fundamento utilizado pela Presidência do STJ para não conhecer do Agravo: o de que não houve impugnação do fundamento referente à não comprovação da divergência jurisprudencial.
+Diante do exposto, conheço em parte do Agravo Interno e, nessa extensão, nego-lhe provimento.
+É como voto.
