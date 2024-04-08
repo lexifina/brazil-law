@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOÃO PEDRO ADÃO MENEZES contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, no julgamento do Recurso em Sentido Estrito n. 0003379-51.2023.8.16.0153.
+Depreende-se dos autos que o Juízo da Vara Criminal da Comarca de Santo Antônio/PR pronunciou o paciente, nos autos da ação penal n. 0002033-02.2022.8.16.0153, juntamento com outras pessoas, pela prática, em tese, dos crimes previstos arts. 121, § 2º, incisos I, III e IV, e 211, ambos do Código Penal, para o fim de levá-los a julgamento perante o Conselho de Sentença (e-STJ fls. 32/44).
+Inconformados com a prestação jurisdicional entregue, o paciente e os corréus BHAGAVAN RAMANA CERQUEIRA MAIA, LUIZ GUSTAVO DA SILVA, DENILSON RODRIGUES ANTONIO, LEONARDO FRANCISCO DA COSTA, MAICON CANDIDO DA SILVA e RODRIGO LUCIO PORTO manejaram recursos em sentido estrito.
+No entanto, em sessão de julgamento realizada no dia 19/10/2023, a Primeira Câmara Criminal do Tribunal de Justiça do Estado do Paraná, por unanimidade de votos, negou provimento aos recursos, com exceção daquele manejado por DENILSON RODRIGUES ANTONIO, em acórdão assim ementado (e-STJ fls. 12/13):
+RECURSOS EM SENTIDO ESTRITO. HOMICÍDIO QUALIFICADO E OCULTAÇÃO DE CADÁVER (ARTS. 121, § 2.º, I, III e IV, E 211, AMBOS DO CP).
+INCONFORMISMO DOS DENUNCIADOS QUANTO A SENTENÇA DE PRONÚNCIA.
+1. ADUZIDA NULIDADE. NÃO CONHECIMENTO. PEDIDO ABSTRATO, DESACOMPANHADO DE QUALQUER FUNDAMENTO TÉCNICO.
+2. ARGUIÇÃO DE INÉPCIA DA INICIAL. REJEIÇÃO. PRESENÇA DOS REQUISITOS DO ART. 41, DO CPP.
+3. RECURSOS ALMEJANDO ABSOLVIÇÃO SUMÁRIA OU IMPRONÚNCIA. NÃO ACOLHIMENTO. CONJUNTO PROBATÓRIO SUFICIENTE PARA O MOMENTO PROCESSUAL. MATERIALIDADE DEMONSTRADA. PROVA SEMIPLENA DE AUTORIA.
+4. AFASTAMENTO DAS QUALIFICADORAS. IMPOSSIBILIDADE.
+EXCLUSÃO QUE SOMENTE DEVE OCORRER NA HIPÓTESE DE SEREM MANIFESTAMENTE DISSONANTES DAS PROVAS COLIGIDAS DURANTE O JUDICIUM ACCUSATIONIS, O QUE NÃO SE AFIGURA IN CASU.
+5. PLEITOS DE REVOGAÇÃO DA PRISÃO PREVENTIVA OU SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS. INDEFERIMENTO. PERMANÊNCIA DOS FUNDAMENTOS DA PRISÃO CAUTELAR. JURISPRUDÊNCIA DA CORTE PACIFICADORA QUE É REMANSOSA NO SENTIDO DE SER INVIÁVEL A SUBSTITUIÇÃO QUANDO PRESENTES OS PRESSUPOSTOS INSCULPIDOS NOS ARTIGOS 312 E 313 DO CPP.
+6. REQUERIMENTO DE DESMEMBRAMENTO DO FEITO. DESACOLHIMENTO. CONTEXTO FÁTICO QUE ORIENTA A NECESSIDADE DE TRÂMITE UNIFICADO.
+7. ALEGAÇÃO DE INIMPUTABILIDADE DO RÉU RODRIGO. AFASTAMENTO. TESE QUE NÃO FOI A ÚNICA MANEJADA PELA DEFESA (ART. 415, § ÚNICO, DO CPP). PRECEDENTES DO STJ. ADEMAIS, APARENTE QUADRO DE COMPATIBILIDADE COM A TEORIA ACTIO LIBERA IN CAUSA.
+RECURSO DO RÉU DENILSON PARCIALMENTE CONHECIDO E DESPROVIDO.
+DEMAIS RECURSOS CONHECIDOS E DESPROVIDOS.
+Daí o presen te habeas corpus substitutivo de recurso próprio, no qual a defesa sustenta que o paciente foi pronunciado com base unicamente em elementos da fase policial, que não foram confirmados na fase do contraditório judicial, violando o art. 155 do CPP.
+Segundo a inicial, "A pronúncia não pode se fundamentar exclusivamente em elementos colhidos durante o inquérito policial, sem que estes tenham sido confirmados em juízo, tampouco em depoimento de ouvir dizer, ou até mesmo basear-sea prisão em pessoais que não quiseram se identificar" (e-STJ fl. 6).
+Ao final, "requer que seja concedida a liminar, determinando-se a imediata expedição de alvará de soltura em favor do paciente, fazendo-se cessar o constrangimento ilegal a que estão sendo submetidos. No mérito, despronuncia do paciente, revogando da sua prisão preventiva, razão pela qual as provas utilizadas na nas decisõesforam exclusivamentedo inquérito policial, visto que as provas produzidas em juízo não confirmaram as produzidas na faze inquisitória" (e-STJ fl. 11).
+É o relatório. Decido.
+De plano, destaco que o presente habeas corpus não comporta prosseguimento.
+Como é de conhecimento, o art. 210 do Regimento Interno do STJ dispõe que: quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente.
+Na hipótese, verifica-se que o tema ora suscitado (nulidade da decisão de pronúncia, ante a violação ao art. 155 do CPP) não foi efetivamente debatido pela Corte local, visto que não constou das razões recursais do paciente, nada mencionado sobre a eventual violação ao dispositivo ora mencionado, tampouco dos corréus.
+Ora, O conhecimento do recurso em sentido estrito é limitado ao que fora deduzido nas razões recursais ou nas contrarrazões. Por esse motivo, nos habeas corpus impetrados nesta Corte, não se pode apreciar pretensão não ventilada oportunamente nas instâncias antecedentes, sob pena de indevida supressão de instância (AgRg no HC n. 774.881/SC, Relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 28/11/2022, DJe de 2/12/2022).
+Assim, se o tema não foi efetivamente debatido pelo Tribunal de origem, esta Corte Superior fica impedida de se antecipar à matéria, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal.
+Inclusive, ressalta-se que: Esta Corte Superior de Justiça já se manifestou no sentido de que, mesmo eventual nulidade absoluta, não pode ser declarada em supressão de instância (AgRg no HC n. 770.752/ES, Relator Ministro MESSOD AZULAY NETO, Quinta Turma, julgado em 30/5/2023, DJe de 2/6/2023).
+Em situações semelhantes à hipótese dos autos, destaco os seguintes julgados do Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TESES DE FALTA DE DEFESA, ILEGALIDADE DO RECONHECIMENTO FOTOGRÁFICO E REVISÃO DA DOSIMETRIA. NÃO CONHECIMENTO. MATÉRIAS JÁ ANALISADAS EM OUTRO HABEAS CORPUS. VIOLAÇÃO DO ART. 155 DO CPP. SUPRESSÃO DE INSTÂNCIA. REVOGAÇÃO DA PRISÃO PREVENTIVA. NÃO CONHECIMENTO.
+1. As alegações trazidas pela defesa quanto à nulidade por falta de defesa e de reconhecimento fotográfico, além da revisão da dosimetria, já foram apreciadas no HC 643260/SP, não se credenciando ao conhecimento.
+2. A violação ao art. 155 do CPP não foi examinada pelo Tribunal de origem, circunstância que impede o conhecimento da tese perante esta Corte superior, sob pena de indevida supressão de instância.
+3. Sem razão a pretensão de revogação da prisão preventiva, haja vista que já se trata de prisão-pena, dado que a sentença já passou em julgado.
+4. Agravo regimental improvido.(AgRg no RHC n. 160.525/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 10/5/2022, DJe de 13/5/2022) - negritei.
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. IMPETRAÇÃO SUBSTITUTIVA DO RECURSO PRÓPRIO. NÃO CABIMENTO. HOMICÍDIO QUALIFICADO. ALEGADA NEGATIVA DE VIGÊNCIA AO ART. 155 DO CPP. MATÉRIA NÃO DEBATIDA NA CORTE DE ORIGEM. IMPOSSIBILIDADE DE EXAME NESTA CORTE SUPERIOR. MOTIVO FÚTIL. PLEITO DE AFASTAMENTO DA QUALIFICADORA. IMPOSSIBILIDADE. EXAME PELO TRIBUNAL DO JÚRI. HABEAS CORPUS NÃO CONHECIDO.
+1. A Primeira Turma do Supremo Tribunal Federal e as Turmas que compõem a Terceira Seção do Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+2. No caso, os pacientes foram pronunciados pelo crime de homicídio qualificado. A alegação de negativa de vigência ao art. 155 do Código de Processo Penal não foi examinada pela Corte de origem, o que impede a apreciação direta do tema pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+3. A exclusão de qualificadora constante na pronúncia somente pode ocorrer quando manifestamente improcedente, sob pena de usurpação da competência do tribunal do júri, juiz natural para julgar os crimes dolosos contra a vida.
+4. Habeas corpus do qual não se conhece.
+(HC n. 496.718/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2019, DJe de 16/4/2019) - negritei.
+Ademais, ainda que a matéria tenha sido efetivamente trazida pela defesa em suas razões recursais, consta dos autos que não houve a oposição de embargos de declaração contra o acórdão ora impugnado, a fim de sanar eventual omissão da Corte local, motivo pelo qual esta Corte Superior encontra-se impossibilitada de examinar diretamente a matéria.
+Nesse sentido, confira-se o seguinte precedente do STJ:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. JÚRI. PRONÚNCIA. SUPOSTA NULIDADE DO ACÓRDÃO EXARADO NO JULGAMENTO DO RECURSO EM SENTIDO ESTRITO, POR OMISSÃO. IMPROCEDÊNCIA. AUSÊNCIA DE OPOSIÇÃO DE ACLARATÓRIOS. PRECLUSÃO. VIOLAÇÃO DO ART. 155 DO CPP. INADMISSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. FUNDAMENTO SUBSIDIÁRIO. MANIFESTA IMPROCEDÊNCIA. PRONÚNCIA CALCADA EM PROVA COLHIDA SOB O CRIVO DO CONTRADITÓRIO. POSSIBILIDADE DE PRONÚNCIA CALCADA EM ELEMENTOS COLHIDOS EM SEDE INQUISITIVA. PRECEDENTES DESTA CORTE.
+Agravo regimental improvido.
+(AgRg no HC n. 591.755/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/8/2020, DJe de 24/8/2020)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
+EMENTA
