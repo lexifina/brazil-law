@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS, MATERIAIS E PERDA DE UMA CHANCE. REPORTAGEM EM MEIOS DE COMUNICAÇÃO. DIREITO DE PETIÇÃO CONSTITUCIONALMENTE ASSEGURADO. ATO ILÍCITO AFASTADO. DANO MORAL. INEXISTENTE. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO DO TRIBUNAL DE ORIGEM. ALEGAÇÃO GENÉRICA DE OFENSA AOS ARTS. 489 e 1.022 do CPC. SÚMULA 284/STF.
+1. No caso dos autos, o Tribunal de origem, em reforma à sentença, deu provimento à apelação do ora agravado para afastar a condenação em danos morais a ele imposta.
+2. Alegação genérica de ofensa aos arts. 489 e 1.022 do Código de Processo Civil atrai a incidência da Súmula 284/STF por deficiência de fundamentação.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por MURILLO LOBO ADVOGADOS ASSOCIADOS S/S e OUTRO contra decisão monocrática por mim proferida, por meio da qual conheci do agravo para não conhecer do recurso especial dos ora agravantes, em razão da incidência, por analogia, da Súmula 284/STF, considerando a deficiência de fundamentação da alegada ofensa aos arts. 489 e 1.022 do Código de Processo Civil (fls. 1444-1447).
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS cuja ementa guarda os seguintes termos (fls. 1112-1113):
+DUPLA APELAÇÃO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS, MATERIAIS E PERDA DE UMA CHANCE. REPORTAGEM EM MEIOS DE COMUNICAÇÃO. PRELIMINARES DE ILEGITIMIDADE ATIVA E PASSIVA. AFASTADAS. DIREITO DE PETIÇÃO CONSTITUCIONALMENTE ASSEGURADO. ATO ILÍCITO AFASTADO. DANO MORAL. INEXISTENTE. AUSÊNCIA DE INDENIZAÇÃO.
+I -Com relação às preliminares arguidas de ilegitimidades ativa e passiva, pelos fatos e contexto probatório dos autos, verifica-se que os elementos juntados apontam o primeiro apelante como autor de supostas ofensas ao segundo apelante. Daí a legitimidades das partes. Preliminares afastadas.
+II - Ressai-se dos autos que o jornal "O Globo" do Rio de Janeiro publicou uma matéria genérica, não especificadamente ao Estado de Goiás, que estaria ao correndo em alguns Estados, uma prática ilícita denominada "KITCONCORDATA".
+III- III- Em visita ao Poder Judiciário do Estado de Goiás, o Ministro Humberto Martins do CNJ, convocou uma reunião com servidores e advogados, tendo o primeiro apelante, FÁBIO CARRARO, sido convocado para essa reunião, Ao que parece teria relatado que aqui no Estado de Goiás ocorria uma prática ilícita envolvendo juiz, liquidantes e advogados.
+IV - Não há como concluir que o ato de representar qualquer magistrado, servidores e escritórios de advocacia, ao CNJ, com fundamento em notícias circuladas em imprensa local, possa causar, por si própria, a configuração de danos morais indenizáveis, pois o direito de petição é um direito constitucionalmente garantido e as atividades apontadas, por sua natureza pública, estão constantemente sujeitas a críticas e controles.
+V - Tendo o primeiro apelante exercido o seu direito assegurado pela Carta Magna e por ser norma de eficácia plena, deixou de praticar ato ilícito, o que afasta o dano moral e a obrigação de indenizar.
+APELAÇÕES CÍVEIS CONHECIDAS, PROVIDA A PRIMEIRA APELAÇÃO E DESPROVIDA A SEGUNDA. SENTENÇA REFORMADA.
+Embargos de declaração rejeitados (fls. 1150-1154, 1157-1168 e 1191-1204).
+No presente agravo interno, alegam os agravantes a improcedência da Súmula 284/STF, ao defenderem que demonstraram, de forma clara e precisa, quais teriam sido os vícios do julgado, não havendo falar em deficiência de fundamentação, ao tempo em que reiteram a alegação do recurso especial de omissão no acórdão recorrido, em ofensa aos arts. 489 e 1.022, II, do Código de Processo Civil, em que ficou configurado o dano moral em questão, porquanto, na decisão de primeiro grau, estão todos os elementos de prova no sentido de que o recorrido havia cometido dano moral, em virtude de ter lançado "acusações graves, com base em ilações" para veículos de mídia escrita e falada "antes de aguardar os pronunciamentos das instituições competentes, o Poder Judiciário, o Ministério Público, a OAB/GO e o CNJ".
+Pugnam, por fim, pelo encaminhamento do feito à apreciação da Turma e pelo seu provimento.
+A parte agravada, instada a manifestar-se, apresentou contrarrazões (fls. 1465-1467).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS, MATERIAIS E PERDA DE UMA CHANCE. REPORTAGEM EM MEIOS DE COMUNICAÇÃO. DIREITO DE PETIÇÃO CONSTITUCIONALMENTE ASSEGURADO. ATO ILÍCITO AFASTADO. DANO MORAL. INEXISTENTE. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO DO TRIBUNAL DE ORIGEM. ALEGAÇÃO GENÉRICA DE OFENSA AOS ARTS. 489 e 1.022 do CPC. SÚMULA 284/STF.
+1. No caso dos autos, o Tribunal de origem, em reforma à sentença, deu provimento à apelação do ora agravado para afastar a condenação em danos morais a ele imposta.
+2. Alegação genérica de ofensa aos arts. 489 e 1.022 do Código de Processo Civil atrai a incidência da Súmula 284/STF por deficiência de fundamentação.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+No caso dos autos, insurgem-se os agravantes contra o entendimento do Tribunal de origem, em reforma à sentença, que deu provimento à apelação do ora agravado para afastar a condenação em danos morais a ele imposta.
+Consoante relatado, por meio da decisão agravada, o agravo em recurso especial foi conhecido para não se conhecer do recurso especial, em razão da incidência, por analogia, da Súmula 284/STF, considerando a deficiência de fundamentação da alegada ofensa aos arts. 489 e 1.022 do Código de Processo Civil.
+Reitera a ora agravante a alegação de existência de omissão no acórdão recorrido e de configuração do dano moral em questão.
+Não merece prosperar o recurso.
+Conforme assentado na decisão agravada, verifica-se que, no caso, não comporta conhecimento a alegada ofensa aos arts. 489 e 1.022 do CPC, uma vez que deficiente a fundamentação, quando os recorrentes, ora agravantes, limitaram-se a alegar, genericamente, ofensa ao referido dispositivo legal, sem explicitar os pontos em que o acórdão recorrido teria sido omisso, contraditório ou obscuro, bem como a relevância do enfrentamento da legislação e das teses recursais não analisadas.
+Com efeito, não apontam efetivas omissões no acórdão recorrido, mas apenas insurgiram-se contra o entendimento do Tribunal de origem que, em reforma à sentença, deu provimento à apelação do ora agravado para afastar a condenação em danos morais a ele imposta.
+Consignou-se, ainda, que esta Corte não pode e não deve decidir tateando no escuro, tentando identificar as supostas máculas do acórdão recorrido e os dispositivos tidos por violados. Apontar eventuais máculas é tarefa dos recorrentes que não se desincumbem dela pelo fato isolado de apontarem malferimento de dispositivos legais.
+As razões do recurso especial devem exprimir, com transparência e objetividade, os motivos pelos quais a agravante visa reformar o decisum. Ausente tal diretriz, incide o óbice da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, cito:
+1. Quanto à alegada violação do art. 1.022 do CPC/2015, a parte recorrente não logrou êxito em demonstrar objetivamente os pontos omitidos pelo acórdão combatido, individualizando o erro, a obscuridade, a contradição ou a omissão que supostamente teriam ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos. Tal circunstância atrai, portanto, a incidência da Súmula n. 284/STF: "Inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+(AgInt no REsp n. 1.684.404/SC, relator Ministro Og Fernandes, Segunda Turma, DJe de 27/6/2022.)
+V - Ademais, quanto à alegação de negativa de prestação jurisdicional, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente, além de ter apontado violação genérica do art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), sem especificar quais os incisos foram contrariados, não demonstrou especificamente quais os vícios do aresto vergastado e/ou a sua relevância para a solução da controvérsia. Nesse sentido, o Superior Tribunal de Justiça já decidiu que: "É deficiente a fundamentação do recurso especial em que a alegada ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 se faz sem a demonstração objetiva dos pontos omitidos pelo acórdão recorrido, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos. Incidência da Súmula 284/STF" (REsp n. 1.653.926/PR, relator Ministro Og Fernandes, Segunda Turma, DJe de 26/9/2018.)
+ ..
+(AgInt no AREsp n. 1.985.639/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 22/6/2022.)
+Não tendo a parte agravante trazido fundamento ou fato novo a ensejar a alteração do referido entendimento, a negativa de provimento ao presente recurso é medida que se impõe.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
