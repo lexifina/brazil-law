@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, a Corte local concluiu que não há dano moral a ser reparado. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 1.987/1.996) interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+Em suas razões, a parte agravante alega ser inaplicável a Súmula n. 7 do STJ, haja vista que, "ao contrário do exposto na respeitável decisão monocrática, verifique-se que a reforma do Acórdão proferido pelo Tribunal a quo demandaria tão somente a revaloração da prova já admitida pelo Tribunal recorrido, o que é plenamente aceito na espécie. Conforme entendimento esposado em diversas decisões desse Egrégio Superior Tribunal de Justiça, há casos em que a revaloração da prova ou de dados explicitamente admitidos e delineados na decisão recorrida não implicam em reexame de provas e fatos. Ocorrendo esta particularidade, afastada estará a aplicação da Súmula 7 desse Sodalício. Trata-se da exata hipótese dos autos, em que necessário tão somente o reexame valorativo da prova, esta admitida explicitamente no Acórdão recorrido, e não do material cognitivo" (e-STJ fl. 1.990).
+Defende o seguinte (e-STJ fls. 1.992/1.993):
+4) - O Acórdão ora recorrido manteve o entendimento exarado na sentença sob o seguinte fundamento: ".. Como bem afirmado na sentença, os inquéritos policiais foram arquivados por ausência de provas, não havendo nenhum juízo acerca da materialidade delitiva ou da autoria. Não há, efetivamente, prova do dolo na conduta dos réus consistente em requerer a instauração de procedimentos investigatórios em face do autor" (fls. 09 do acórdão).
+4.1) (..) os elementos constantes dos autos indicam o abuso no direito de petição. Houve, sim, calúnia e difamação, valendo notar que o exercício regular de um direito exige responsabilidade. Não se pode admitir que um grupo de pessoas assine dois requerimentos de investigação criminal com o apontamento de crimes gravíssimos e, depois de acionados, digam em Juízo que sequer sabiam o que estavam assinando. Isso não reflete o direito de petição constitucionalmente assegurado aos cidadãos e cidadãs desta nação.
+4.2) - Em Juízo, todos os Recorridos admitiram que jamais possuíram qualquer prova contra o Recorrente. Logo, sabiam que as imputações eram falsas e Guilherme Corrêa Filho inocente. Ouvidos sob contraditório, os Recorridos, sem exceção, confirmaram que o Autor é íntegro e que desconheciam sua participação em quadrilhas. Sabiam, portanto, que Guilherme Corrêa Filho era inocente das acusações formuladas.
+Nesse contexto, o agravante afirma que cumpriu o ônus probatório inerente ao nexo causal descrito. Portanto, a Súmula n. 7/STJ "não se aplica a qualquer dos fundamentos explicitados no recurso especial, notadamente porque nítido, da simples leitura do acórdão, que incorreu o decisório em contrariedade ao disposto no artigo 188, inciso I, e negativa de vigência aos artigos 186 e 187, todos do Código Civil" (e-STJ fl. 1.993).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Não foi oferecida impugnação (e-STJ fls. 2.003/2.007).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, a Corte local concluiu que não há dano moral a ser reparado. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece ser acolhida.
+A parte agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 1.979/1.981):
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por inexistência de violação de lei federal e incidência da Súmula n. 7/STJ.
+O acórdão recorrido está assim ementado (e-STJ fl. 1.834):
+Indenizatória - Alegação de danos morais em virtude da instauração de inquérito policial - Prazo prescricional que somente passou a fluir da data do arquivamento do aludido procedimento - Exegese do art. 200 do CC Precedentes do C. STJ Prescrição afastada. Indenização por dano moral - Instauração de inquérito policial para apuração de crimes, inclusive associação à organização criminosa - Noticia criminis que reflete exercício regular de direito - ausência de dolo ou má-fé dos demandados Mero aborrecimento, que não enseja reparação - Danos morais não configurados - Precedente desta E. Câmara - Sentença mantida Apelo desprovido.
+Nas razões do recurso especial (e-STJ fls. 1.842/1.863), interposto com base no art. 105, III, "a", da CF, a parte recorrente apontou violação dos arts. 186, 187 e 188, I, do CC/2002, alegando o seguinte (e-STJ fl. 1.853):
+(..) Não se pretende, aqui, reanálise das provas produzidas, eminentes Ministros, até porque o dano moral pretendido nesta ação exibe natureza jurídica "in re ipsa", ou seja, é vinculado à própria existência do fato ilícito, cujos resultados são presumidos. Conforme dito acima, a incidência da excludente da ilicitude aplicada pelo Acórdão beneficia a torpeza dos Recorridos, constatada pelo promotor que pediu o arquivamento dos inquéritos policiais após apontar a falta de veracidade nas alegações levadas à Polícia Judiciária pelos últimos. Na verdade, já na velha Roma, vigorava um pragmático enunciado: "Ninguém pode se beneficiar da própria torpeza". Paralelamente à falta de boa-fé objetiva, os Recorridos não respeitaram princípios fundamentais básicos ao acusar criminalmente o Recorrente sem provas ou indícios. As peças processuais assinadas pelos Requeridos imputaram, objetivamente, a Guilherme Corrêa Filho a pecha de membro do "PCC". Todos assinaram as duas petições objeto da ação e confirmaram isso em Juízo. Todos sabiam que as acusações eram mendazes e sem fundamento, conforme declararam em depoimento pessoal. São confessos! Dai o inequívoco abuso no direito de petição.
+Em suma, são estes os pedidos recursais (e-STJ fls. 1.862/1.863):
+Três são os pedidos do recurso especial: a)  reforma do Acórdão por negativa de vigência ao artigo 186 do Código Civil, julgando-se procedente a demanda; b)  reforma do Acórdão por negativa de vigência ao artigo 187 do Código Civil, julgando-se procedente a pretensão reparatória; c)  reconhecimento da contrariedade ao conteúdo do inciso I do artigo 188 do Código Civil, afastando-se a excludente da ilicitude firmada no acórdão.
+É impossível ao Poder Judiciário, em última análise, chancelar a alcunha de "criminoso", de "membro do PCC", de "incendiário de veículos à moda da mancha escarlate tatuada a ferro nos ombros dos perseguidos na Idade Média. Certamente, não é  e não pode ser  o Recorrente imune a críticas. Mas o extravasamento do direito de petição assegura, igualmente, em posição oposta, o direito à indenização por danos morais. Mais não é preciso dizer.
+Aguarda-se provimento ao Recurso Especial, condenando-se os Recorridos ao pagamento de quantia adequada aos danos morais provocados ao Recorrente pelo insuportável constrangimento que sofreu e sofre, além de custas e honorários advocatícios, nos exatos termos da inicial. Guilherme Correa Filho não merece as ofensas que foram lançadas irresponsavelmente e sem suporte probatório mínimo, fato que merece a devida reflexão de todos. Aliás, recentemente, foi noticiado que o Ministro Alexandre de Moraes teve pretensão a danos morais julgada procedente porque foi falsamente acusado de advogar para o PCC enquanto defendia os interesses da TRANSCOOPER então presidida pelo Recorrente. A mentira não pode ser premiada com a excludente da ilicitude aplicada pelo Acórdão ora impugnado. Tal fato jurídico merece a reflexão desta Egrégia Corte.
+Foram oferecidas contrarrazões (e-STJ fls. 1.872/1.880).
+No agravo (e-STJ fls. 1.886/1.908), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 1.913/1.952).
+O Ministério Público Federal opinou pelo não provimento do recurso (e-STJ fls. 1.974/1.976).
+É o relatório.
+Decido.
+O TJSP, ao analisar as provas e as particularidades do caso, entendeu que (e-STJ fls. 1.836/1.839):
+Como bem afirmado na sentença, os inquéritos policiais foram arquivados por ausência de provas, não havendo nenhum juizo acerca da materialidade delitiva ou da autoria.
+Não há efetivamente, prova do dolo na conduta dos réus consistente em requerer a instauração de procedimentos investigatórios em face do autor.
+Preconiza o artigo 188, inciso I, do Código Civil, que não constitui ato ilícito o exercício regular de direito, o que é o caso destes autos.
+(..)
+Em suma, não se demonstrou qualquer intenção, por parte dos demandados, de denegrir a imagem do autor ou causar-lhes constrangimentos, não tendo agido de forma excessiva ou abusiva, mas sim, em exercício regular de seu direito, não se vislumbrando no caso destes autos, o dever de indenizar.
+De outro lado e consoante o bem apreendido pelo e juizo, não há nenhum elemento que indique que os requeridos divulgaram a existência de investigação policial em face do autor.
+Em verdade, o depoimento da testemunha Paulo no sentido de que havia comentários acerca da denúncia do envolvimento do presidente da cooperativa em "um monte de coisas" e referindo aos nomes de Everaldino e Salustiano, ficou isolado no contexto dos autos. Efetivamente, tal testemunho não se presta a confirmar que os requeridos teriam propagado notícias acerca da aludida investigação.
+A Corte local concluiu que não há dano moral a ser reparado. A alteração do decidido pelo Colegiado implicaria inadequada reavaliação do suporte fático-probatório constante dos autos, atraindo a Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Deixo de majorar os honorários advocatícios (artigo 85, § 11, do CPC/2015) por causa da fixação anterior no patamar máximo permitido em lei.
+Publique-se e intimem-se.
+O Tribunal de origem entendeu que não ficou caracterizado o dano moral com base nos elementos de prova dos autos, pois "não se demonstrou qualquer intenção, por parte dos demandados, de denegrir a imagem do autor ou causar-lhes constrangimentos, não tendo agido de forma excessiva ou abusiva, mas sim, em exercício regular de seu direito, não se vislumbrando no caso destes autos, o dever de indenizar" (e-STJ fl. 1.838).
+Para que se acolha a pretensão, seria necessário o revolvimento do contexto fático-probatório dos autos, o que é inviável no âmbito do especial. Inafastável a Súmula n. 7/STJ.
+Assim, não prospe ram as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
