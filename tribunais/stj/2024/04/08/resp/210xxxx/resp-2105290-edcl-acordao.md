@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. EMBARGOS DE DECLARAÇÃO. OMISSÃO. AUSÊNCIA DE VÍCIOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissão e obscuridade no julgado combatido, traduzem, na verdade, a pretensão de ampliação da tese delimitada ao ensejo da afetação da controvérsia ao rito dos recursos repetitivo. Portanto, não há falar em omissão ou obscuridade.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de Embargos de Declaração opostos por Braslux Indústria de Auto Peças Ltda, contra acórdão proferido pelo Superior Tribunal de Justiça, cuja ementa assim se estabeleceu, in verbis:
+TRIBUTÁRIO E PROCESSO CIVIL. RECURSO ESPECIAL. OFENSA AOS ARTIGOS 489 E 1.022, DO CPC/2015. NÃO CARACTERIZAÇÃO. JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA (SELIC). REPETIÇÃO DE INDÉBITO TRIBUTÁRIO. PIS/COFINS. BASE DE CÁLCULO. INCLUSÃO. PRECEDENTES. RECURSO ESPECIAL CONHECIDO PARA LHE DAR PARCIAL PROVIMENTO.
+1. Deveras, a preliminar concernente a ofensa aos artigos 489 e 1.022, ambos do CPC/2015, a tese não merece prosperar. Com efeito, é firme a jurisprudência do Superior Tribunal de Justiça no sentido de que não há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação; ainda que de forma diversa daquela pretendida pela parte. No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca dos pontos supostamente omissos, de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+2. Quanto ao mérito, a Fazenda Nacional defende que a "receita", base de cálculo da contribuição para o PIS e a COFINS na sistemática não-cumulativa, compreende o ingresso de qualquer recurso financeiro ao patrimônio da empresa, inclusive a taxa Selic providente de repetição de indébito.
+3. A tese merece prosperar, uma vez que a jurisprudência da Primeira e da Segunda Turma converge no sentido de que incide PIS e COFINS sobre os valores decorrentes da aplicação da taxa SELIC no levantamento de depósitos judiciais e na restituição de indébito tributário.
+4. Recurso Especial conhecido para lhe dar parcial provimento.
+Nas razões recursais, a embargante alude a existência da necessidade de prequestionamento explícito dos seguintes artigos 145, § 1º e art. 195, inciso I, alínea "b", ambos da Constituição Federal.
+Não houve a apresentação de impugnação aos aclaratórios.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. EMBARGOS DE DECLARAÇÃO. OMISSÃO. AUSÊNCIA DE VÍCIOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissão e obscuridade no julgado combatido, traduzem, na verdade, a pretensão de ampliação da tese delimitada ao ensejo da afetação da controvérsia ao rito dos recursos repetitivo. Portanto, não há falar em omissão ou obscuridade.
+4. Embargos de declaração rejeitados.
+VOTO
+Consoante a literalidade do artigo 1.022 do Código de Processo Civil, os Embargos de Declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual deveria se pronunciar o juiz, de ofício ou a requerimento, e/ou corrigir erro material.
+Na hipótese dos autos, contudo, não se verifica a existência de omissão ou contradição no julgado. A pretexto de omissão, a irresignação objetiva a revisão da própria pretensão recursal, clara e exaustivamente apreciada no acórdão recorrido, embora em adversidade aos interesses da parte. O órgão julgador não fica obrigado a responder um a um os questionamentos da parte se já encontrou motivação suficiente para fundamentar a decisão.
+De acordo com a jurisprudência desta Corte, o recurso integrativo não se presta a corrigir eventual desconformidade entre a decisão embargada e a prova dos autos, ato normativo, acórdão proferido pelo tribunal de origem em outro processo, o entendimento da parte, outras decisões deste Tribunal, bem como não se revela instrumento processual vocacionado para sanar eventual error in judicando.
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO E CONTRADIÇÃO. NÃO CARACTERIZAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. (..) 4. Ademais, nos termos da jurisprudência do Superior Tribunal de Justiça, a contradição sanável por meio dos embargos de declaração é aquela interna ao julgado embargado - por exemplo, a incompatibilidade entre a fundamentação e o dispositivo da própria decisão. No caso em exame, o dispositivo do acórdão embargado está em perfeita consonância com a fundamentação que lhe antecede, não havendo contradição interna a ser sanada. 5. Embargos de declaração rejeitados. (EDcl no AgRg no AREsp 308.455/PB, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 03/09/2013, DJe 10/09/2013).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 535, INCS. I E II, DO CPC. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. (..) 3. A contradição que autoriza os embargos de declaração é a interna do acórdão, e não aquela em que o fundamento do voto colidiria com a jurisprudência em caso análogo - error in judicando. 4. Embargos de declaração rejeitados. (EDcl no AgRg no AREsp 438.306/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 24/04/2014, DJe 20/05/2014).
+Desse modo, totalmente destituída de pertinência mencionada formulação, uma vez que não se ajusta aos estritos limites de atuação dos embargos, os quais se destinam, exclusivamente, à correção de eventual omissão, contradição, obscuridade ou erro material do julgado.
+Ante o exposto, rejeito os embargos de declaração.
+Advirto à parte que a reiteração de aclaratórios sem fundamento jurídico enseja a aplicação da multa prevista no artigo 1.026 do CPC/2015.
+É como voto.
