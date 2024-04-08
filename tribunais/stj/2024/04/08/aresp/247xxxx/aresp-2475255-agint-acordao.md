@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. AUSÊNCIA DE COMANDO NORMATIVO APTO A SUSTENTAR A TESE RECURSAL. FUNDAMENTAÇÃO DEFICIENTE. ÓBICE DA SÚMULA 284/STF. ACÓRDÃO RECORRIDO BASEADO EM NORMA LOCAL. ÓBICE DA SÚMULA 280/STF (POR ANALOGIA).
+1. "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" (Súmula 284/STF). Nesse sentido: AgInt no AREsp 1953083/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 28/03/2022, DJe 31/03/2022.
+2. Por ofensa a direito local não cabe recurso especial (Súmula 280/STF, por analogia).
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno (fls. 579/601) apresentado contra decisão monocrática sintetizada na seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. AUSÊNCIA DE COMANDO NORMATIVO APTO A SUSTENTAR A TESE RECURSAL. FUNDAMENTAÇÃO DEFICIENTE. ÓBICE DA SÚMULA 284/STF. ACÓRDÃO RECORRIDO BASEADO NO EXAME DA LEGISLAÇÃO LOCAL. ÓBICE DA SÚMULA 280/STF (POR ANALOGIA). AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+O agravante sustenta que:
+ ..
+não houve comprovação de que os bens objetos do ICMS diferencial de alíquotas seriam de utilização direta e exclusiva no processo produtivo (essa comprovação é base do próprio direito pleiteado pela parte adversa, então a falta de comprovação levaria necessariamente à improcedência da ação)e de que a decisão viola os princípios constitucionais do devido processo legal, contraditório e/ou ampla defesa contraditório, pois, no caso sob análise, a Lei Complementar Estadual n 19/97 não prevê suspensão de exigibilidade quando do vencimento da Notificação, como quer a Recorrida, sem que isto implique em violação aos referidos princípios constitucionais em âmbito administrativo (frisou-se que a LC 19/97 não prevê suspensão de exigibilidade quando do vencimento da Notificação, como quer a Recorrida, sem que isto implique em violação aos princípios constitucionais do devido processo legal, contraditório e/ou da ampla defesa), sendo então imprescindível o adequado enfrentamento desse ponto pelo TJAM.
+ ..
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. AUSÊNCIA DE COMANDO NORMATIVO APTO A SUSTENTAR A TESE RECURSAL. FUNDAMENTAÇÃO DEFICIENTE. ÓBICE DA SÚMULA 284/STF. ACÓRDÃO RECORRIDO BASEADO EM NORMA LOCAL. ÓBICE DA SÚMULA 280/STF (POR ANALOGIA).
+1. "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" (Súmula 284/STF). Nesse sentido: AgInt no AREsp 1953083/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 28/03/2022, DJe 31/03/2022.
+2. Por ofensa a direito local não cabe recurso especial (Súmula 280/STF, por analogia).
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+O recurso não merece prosperar.
+Observou-se que não houve indicação clara e precisa acerca de qual dispositivo de lei federal foi violado no acórdão recorrido, razão pela qual se mostra deficiente a fundamentação recursal, conforme bem observado na decisão ora agravada.
+Ademais, não obstante os argumentos do agravante, verificou-se que incide o óbice da Súmula n. 284 do STF em razão da ausência de comando normativo do dispositivo apontado como violado, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+No mais, a Corte a quo entendeu que (fls. 396-401 e-STJ):
+No caso sob exame, o cerne da questão é a hipótese de incidência do ICMS, que não se verifica no caso dos autos. No acórdão objeto dos aclaratórios, foi aplicado o entendimento emanado do STF, sob a sistemática da Repercussão Geral e, portanto, de observância obrigatória, no sentido de que não incide ICMS no deslocamento de bens de um estabelecimento para outro do mesmo contribuinte, visto não haver a transferência da titularidade ou a realização de ato de mercância.
+Esse precedente de observância obrigatória, cujo julgamento ocorreu em 14.08.2020, após, portanto, o início de vigência da Lei Complementar Estadual n. 19/1997, supera a redação dos artigos de lei invocados pelo Embargante, pois o entendimento emanado do Supremo Tribunal Federal espelha a questão constitucional tributária referente a não incidência do ICMS no deslocamento de bens de um estabelecimento para outro, pertencentes ao mesmo contribuinte.
+Segundo a jurisprudência do STJ, o óbice de ausência de comando normativo do artigo de lei federal apontado como violado ou como objeto de divergência jurisprudencial incide nas seguintes situações: quando não tem correlação com a controvérsia recursal, por versar sobre tema diverso; e quando sua indicação não é apta, por si só, para sustentar a tese recursal, seja porque o dispositivo legal tem caráter genérico, seja porque, embora consigne em seu texto comando específico, exigiria a combinação com outros dispositivos legais.
+Ressalte-se, por oportuno, que a indicação genérica do artigo de lei que teria sido contrariado induz à compreensão de que a violação alegada é somente de seu caput, pois a ofensa aos seus desdobramentos também deve ser indicada expressamente. (..) Confiram-se ainda os seguintes julgados: REsp n. 1.798.903/RJ, relator para o acórdão Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe de 30/10/2019; AgInt no REsp n. 1.844.441/RN, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 14/8/2020; AgInt no AREsp n. 1.524.220/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020; AgRg no AREsp n. 1.280.513/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 27/5/2019; AgRg no REsp n. 1.754.394/MT, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 17/9/2018; AgInt no REsp n. 1.503.675/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 27/3/2018; AgInt no REsp n. 1.846.655/PR, Terceira Turma, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 23/4/2020; AgInt nos EDcl no REsp n. 1.709.059/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 18/12/2020; e AgInt no REsp n. 1.790.501/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/03/2021.
+No mais, evidencia-se que é incabível a análise sob a ótica da Lei Complementar Estadual nº 19/1997, razão por que o recurso especial não deve ser conhecido nesta Corte Superior por demandar interpretação de normativo estranho à legislação federal. Aplica-se ao caso a Súmula 280/STF.
+Cumpre esclarecer que a decisão agravada contém fundamentação adequada e analisa a controvérsia levando em consideração as peculiaridades do caso concreto.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
