@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. OFENSA AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. ISS. INCIDÊNCIA SOBRE OS SERVIÇOS BANCÁRIOS CONGÊNERES. LEGITIMIDADE. VERIFICAÇÃO DO CORRETO ENQUADRAMENTO DA ATIVIDADE DESEMPENHADA NA LISTA DE SERVIÇOS. QUESTÃO ATRELADA AO REEXAME DA MATÉRIA FÁTICA. LEGALIDADE DA COBRANÇA DO ISS. AUTOS DE INFRAÇÃO E NOTIFICAÇÕES E CDAS FORMALMENTE EM ORDEM. JULGAMENTO CITRA PETITA NÃO OCORRÊNCIA. CONTEXTO FÁTICO E PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ
+1. A Corte local expressamente separou o juízo de admissibilidade em tópicos: "Desta forma, quanto à questão decidida em sede de recurso repetitivo, com base no que dispõe no art. 1.030, inc. I, alínea "b", do Código de Processo Civil, nego seguimento ao recurso no pertinente a esta questão e inadmito-o no que diz respeito ao mais, com fulcro no art. 1.030, inciso V do mesmo Diploma Legal." (fl. 613, e-STJ).
+2. Observa-se que a parte interpôs Agravo Interno em relação às matérias julgadas pela sistemática dos Recursos Repetitivos (Tema 132 do STJ), sobre as quais o Tribunal de origem é soberano na aplicação da tese repetitiva ao caso concreto. Prejudicada, portanto, a reiteração do debate no que se refere a tal Tema.
+3. A irresignação não merece prosperar.
+4. Conforme constou na decisão monocrática, não se configurou ofensa aos arts. 489 e 1.022 do Código de Processo Civil, uma vez que o Colegiado originário julgou integralmente a lide e solucionou a controvérsia. Não há vícios de omissão ou contradição, pois ele apreciou e decidiu, fundamentadamente, as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+5. Embora a jurisprudência do Superior Tribunal de Justiça admita a leitura extensiva dos itens da lista de serviços anexa à Lei Complementar, à luz do entendimento firmado no REsp 1.111.234, julgado sob a sistemática dos Recursos Repetitivos, a alteração da conclusão acerca do correto enquadramento do serviço prestado, para fins de incidência de ISS, exige revolvimento do acervo fático-probatório dos autos, o que é inviável na via eleita ante a incidência da Súmula 7/STJ.
+6. O acórdão recorrido concluiu pela legalidade da cobrança do ISS, ou seja, os autos de infração e notificação e as CDAs estavam formalmente em ordem.
+7. Não houve julgamento citra petita. Conforme constou na decisão monocrática, o Recurso Especial não pretendia auferir a interpretação das normas legais, mas reanalisar o conjunto fático-probatório dos autos, como se depreende do trecho acima transcrito.
+8. Agravo Interno não provido.
+RELATÓRIO
+Cuida-se de Agravo Interno interpo sto de decisão que conhece do Agravo para conhecer parcialmente do Recurso Especial, tão somente quanto à violação dos arts. 489 e 1.022 do CPC/2015, e, nessa extensão, negou-lhe provimento.
+A parte agravante sustenta, em suma: a) a desistência expressa da impugnação da decisão em relação à divergência jurisprudencial quanto ao artigo 110 do CTN c/c art. 9º do Decreto-lei 406/68; b) julgamento citra petita, tendo em vista a ausência de análise da violação dos artigos 141, 374, III e 492 do CPC; c) ausência de análise da violação ao artigo 4º da Lei 9.249/95; d) ofensa aos artigos 489, § 1º, e 1.022, ii e parágrafo único, do Código de Processo Civil e e) inaplicabilidade da Súmula 7/STJ.
+Pleiteia a reconsideração do decisum agravado ou a submissão do recurso à Turma.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. OFENSA AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. ISS. INCIDÊNCIA SOBRE OS SERVIÇOS BANCÁRIOS CONGÊNERES. LEGITIMIDADE. VERIFICAÇÃO DO CORRETO ENQUADRAMENTO DA ATIVIDADE DESEMPENHADA NA LISTA DE SERVIÇOS. QUESTÃO ATRELADA AO REEXAME DA MATÉRIA FÁTICA. LEGALIDADE DA COBRANÇA DO ISS. AUTOS DE INFRAÇÃO E NOTIFICAÇÕES E CDAS FORMALMENTE EM ORDEM. JULGAMENTO CITRA PETITA NÃO OCORRÊNCIA. CONTEXTO FÁTICO E PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ
+1. A Corte local expressamente separou o juízo de admissibilidade em tópicos: "Desta forma, quanto à questão decidida em sede de recurso repetitivo, com base no que dispõe no art. 1.030, inc. I, alínea "b", do Código de Processo Civil, nego seguimento ao recurso no pertinente a esta questão e inadmito-o no que diz respeito ao mais, com fulcro no art. 1.030, inciso V do mesmo Diploma Legal." (fl. 613, e-STJ).
+2. Observa-se que a parte interpôs Agravo Interno em relação às matérias julgadas pela sistemática dos Recursos Repetitivos (Tema 132 do STJ), sobre as quais o Tribunal de origem é soberano na aplicação da tese repetitiva ao caso concreto. Prejudicada, portanto, a reiteração do debate no que se refere a tal Tema.
+3. A irresignação não merece prosperar.
+4. Conforme constou na decisão monocrática, não se configurou ofensa aos arts. 489 e 1.022 do Código de Processo Civil, uma vez que o Colegiado originário julgou integralmente a lide e solucionou a controvérsia. Não há vícios de omissão ou contradição, pois ele apreciou e decidiu, fundamentadamente, as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+5. Embora a jurisprudência do Superior Tribunal de Justiça admita a leitura extensiva dos itens da lista de serviços anexa à Lei Complementar, à luz do entendimento firmado no REsp 1.111.234, julgado sob a sistemática dos Recursos Repetitivos, a alteração da conclusão acerca do correto enquadramento do serviço prestado, para fins de incidência de ISS, exige revolvimento do acervo fático-probatório dos autos, o que é inviável na via eleita ante a incidência da Súmula 7/STJ.
+6. O acórdão recorrido concluiu pela legalidade da cobrança do ISS, ou seja, os autos de infração e notificação e as CDAs estavam formalmente em ordem.
+7. Não houve julgamento citra petita. Conforme constou na decisão monocrática, o Recurso Especial não pretendia auferir a interpretação das normas legais, mas reanalisar o conjunto fático-probatório dos autos, como se depreende do trecho acima transcrito.
+8. Agravo Interno não provido.
+VOTO
+Os autos foram recebidos neste Gabinete em 16.2.2024.
+A Corte local expressamente separou o juízo de admissibilidade em tópicos:
+Desta forma, quanto à questão decidida em sede de recurso repetitivo, com base no que dispõe no art. 1.030, inc. I, alínea "b", do Código de Processo Civil, nego seguimento ao recurso no pertinente a esta questão e inadmito-o no que diz respeito ao mais, com fulcro no art. 1.030, inciso V do mesmo Diploma Legal. (fl. 613, e-STJ)
+Observa-se que a parte interpôs Agravo Interno em relação às matérias julgadas pela sistemática dos Recursos Repetitivos (Tema 132 do STJ), sobre as quais o Tribunal de origem é soberano na aplicação da tese repetitiva ao caso concreto. Prejudicada, portanto, a reiteração do debate no que se refere a tal Tema.
+A irresignação não merece prosperar.
+Conforme constou na decisão monocrática, não se configurou ofensa aos arts. 489 e 1.022 do Código de Processo Civil, uma vez que o Colegiado originário julgou integralmente a lide e solucionou a controvérsia.
+Não há vícios de omissão ou contradição, pois ele apreciou e decidiu, fundamentadamente, as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+Embora a jurisprudência do Superior Tribunal de Justiça admita a leitura extensiva dos itens da lista de serviços anexa à Lei Complementar, à luz do entendimento firmado no REsp 1.111.234, julgado sob a sistemática dos Recursos Repetitivos, a alteração da conclusão acerca do correto enquadramento do serviço prestado, para fins de incidência de ISS, exige revolvimento do acervo fático-probatório dos autos, o que é inviável na via eleita ante a incidência da Súmula 7/STJ.
+O acórdão recorrido julgou pela legalidade da cobrança do ISS, ou seja, os autos de infração e notificação e as CDAs estavam formalmente em ordem.
+Não houve julgamento citra petita. Conforme constou na decisão monocrática, o Recurso Especial não pretendia auferir a interpretação das normas legais, mas reanalisar o conjunto fático-probatório dos autos, como se depreende do trecho acima transcrito.
+Ante o exposto, nego provimento ao Agravo Interno.
+É como voto.
