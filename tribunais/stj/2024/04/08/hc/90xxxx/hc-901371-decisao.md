@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de Clayton Jose de Lima - condenado como incurso nos crimes de tráfico de drogas e associação para o mesmo fim -, em que se aponta como autoridade coatora o Tribunal de Justiça do Paraná (Revisão Criminal n. 0048715-52.2023.8.16.0000), não comporta processamento.
+Com efeito, busca a impetração a absolvição do paciente do delito de tráfico de drogas, ao argumento da ausência de demonstração da estabilidade e permanência, por não ter havido liame subjetivo duradouro e permanente entre os agentes e, acima de tudo, pelo fato de ter ficado provado nos autos que o ora acusado não conhece os demais envolvidos, eis que, se a associação existiu, foi de natureza ocasional, modalidade não contemplada na novel legislação de tóxicos, estando certo que a absolvição do acusado do crime de associação para o tráfico, nos termos do art. 386, IV do CPP, é medida da mais límpida justiça (fl. 11).
+Da análise da sentença condenatória observa-se que a conduta foi atribuída ao paciente e aos demais corréus após devida investigação realizada mediante interceptação telefônica devidamente autorizada, a qual foi capaz não só de identificar os autores do crime, como também, a estabilidade e divisão de tarefas da associação, de modo que alcançar conclusão inversa demandaria reexame de provas, inviável na via estreita do writ.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. PRETENSÃO DE ABSOLVIÇÃO (ASSOCIAÇÃO PARA O TRÁFICO). AÇÃO PENAL DEFLAGRADA MEDIANTE PRÉVIA INVESTIGAÇÃO, REALIZADA MEDIANTE INTERCEPTAÇÃO TELEFÔNICA. CONDENAÇÃO CONSUBSTANCIADA EM PROVAS QUE DENOTAM A ESTABILIDADE E DIVISÃO DE TAREFAS. CONCLUSÃO INVERSA. REEXAME DE PROVAS. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
