@@ -1,0 +1,118 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por COOPERATIVA NACIONAL AGRO INDUSTRIAL - COONAI contra acórdão desta colenda Quarta Turma, assim ementado:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA PROFERIDA APÓS A ENTRADA EM VIGOR DO CÓDIGO CIVIL DE 2002. ALTERAÇÃO NAS TAXAS DE JUROS DE MORA OU CORREÇÃO MONETÁRIA. OFENSA A COISA JULGADA. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A Corte de origem concluiu que houve coisa julgada, e nesse contexto não seria possível discutir a possibilidade de aplicação da taxa SELIC, no caso.
+2. Com efeito, esta Corte Superior entende que proceder à alteração dos índices de correção monetária estabelecidos no título judicial, na fase de cumprimento de sentença, configuraria violação à coisa julgada. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+3. Agravo interno a que se nega provimento." (fl. 105)
+Em suas razões, a embargante aponta deficiência de fundamentação do acórdão embargado, em razão de ter reiterado os termos da decisão agravada.
+Afirma não ter sido examinada a tese relativa ao próprio Superior Tribunal de Justiça possuir "precedente no sentido de que os índices de atualização monetária e juros moratórios das condenações não fazem coisa julgada, por se tratar de matéria de ordem pública e pela característica de trato sucessivo da obrigação, pois a incidência dos juros se dá dia após dia, o que impossibilita o efeito prospectivo e eterno da coisa julgada", fl. 116.
+Sustenta: "o Superior Tribunal de Justiça reconhece que os acessórios utilizados nos débitos judiciais podem e devem ser adequados temporalmente, não havendo que se falar em ofensa à coisa julgada e consequente preclusão da matéria, o que possibilita que os índices de correção monetária e juros moratórios possam ser revistos a qualquer momento", fl. 117.
+Requer, portanto, a análise do precedente, "que permite a revisão e nova fixação dos índices de correção monetária e juros moratórios quando a lei ou a jurisprudência mudarem o entendimento acerca do assunto", fl. 119.
+Colaciona as ementas do REsp 1.978.739/DF, Relator Ministro MANOEL ERHARDT, DJe de 02/02/2022; e do REsp 1.846.819/PR, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe de 15/10/2020.
+Devidamente intimada, a parte embargada não apresentou impugnação, conforme certidão à fl. 127.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+O recurso não prospera.
+As razões apresentadas nos embargos de declaração não evidenciam a existência de nenhum dos vícios previstos no art. 1.022 do CPC/2015; ao revés, todas as questões foram analisadas e decididas, ainda que contrariamente à pretensão da parte embargante, o que, por si só, inviabiliza o acolhimento dos declaratórios.
+Da análise dos autos, infere-se que a ora embargante interpôs recurso especial contra acórdão do Tribunal de Justiça do Estado de São Paulo, sustentando ter havido violação do art. 406 do CC, sob o argumento de que a taxa de juros legais a ser aplicada nos cálculos de liquidação é a taxa Selic, que deve ser aplicada ao presente caso.
+Também defende que o trânsito em julgado da sentença em cumprimento data de 19 de maio de 2020 e o entendimento do Superior Tribunal de Justiça que fixou a utilização da SELIC data de 15 de outubro de 2020, razão pela qual referido entendimento deve ser sopesado no cumprimento de sentença.
+Em decisão unipessoal, esta Relatoria negou provimento ao recurso especial, fls. 81-82. Ainda irresignada a COOPERATIVA NACIONAL AGRO INDUSTRIAL - COONAI manejou o competente agravo interno, fls. 81-82.
+A col. Quarta Turma, nos termos do voto desta Relatoria, negou provimento ao agravo interno, mantendo a decisão agravada, nos termos da seguinte fundamentação:
+"A irresignação não merece prosperar.
+Conforme constou na decisão agravada, acerca da aplicação da SELIC no cálculo dos juros moratórios, assim discorreu a Corte local:
+"A r. sentença em reprográfica a págs. 13/17, julgou procedente em parte o pedido para condenar a agravante a pagar ao agravado o valor de R$4.206,29, corrigido pela Tabela Prática do Tribunal de Justiça e acrescido de juros de 1% ao mês, a contar da citação, pág. 16, o que foi mantido pelo v. acórdão de págs. 18/22, todas dos autos de origem. Com o trânsito em julgado, o agravado postulou a instauração do incidente de cumprimento de sentença, pleiteando a satisfação da quantia constante do demonstrativo de págs. 05, dos autos de origem, com aplicação dos índices de correção e juros previstos no título executivo, o que deve prevalecer, a fim de se garantir a autoridade da coisa julgada." (e-STJ, fl. 22)
+Com efeito, verifico que o acórdão recorrido está em consonância com a jurisprudência do STJ, que firmou o entendimento de que não é possível, na fase de liquidação ou cumprimento de sentença, alterar o critério estabelecido no título exequendo, para a fixação dos juros de mora, sob pena de ofensa à coisa julgada. Nesse sentido, confiram-se:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ALTERAÇÃO DO TERMO INICIAL E DO ÍNDICE ESTABELECIDO PARA OS JUROS DE MORA. IMPOSSIBILIDADE. COISA JULGADA. ACÓRDÃO RECORRIDO CONSENTÂNEO COM A JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(AgInt no AgInt no AREsp n. 2.041.225/RJ, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 3/4/2023, DJe de 27/4/2023.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. AÇÃO DE INDENIZAÇÃO. DANOS MATERIAIS E MORAIS. CUMPRIMENTO DE SENTENÇA APÓS A ENTRADA EM VIGOR DO CC/2002. PRETENSÃO DE APLICAÇÃO DA TAXA SELIC. INVIABILIDADE. AFRONTA À COISA JULGADA. ENTENDIMENTO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. NÃO PROVIMENTO DO APELO NOBRE. RECONHECIMENTO. AGRAVO INTERNO PARCIALMENTE PROVIDO APENAS PARA MODIFICAR O DISPOSITIVO DE RECURSO NÃO CONHECIDO PARA NÃO PROVIDO, SEM ALTERAÇÕES DAS CONCLUSÕES ADOTADAS NA DECISÃO MONOCRÁTICA.
+1. Não é possível a modificação, na fase de liquidação ou cumprimento de sentença, dos juros de mora e da correção monetária estabelecidos no título exequendo, sob pena de ofensa à coisa julgada.
+2. O reconhecimento da coisa julgada no tocante aos juros de mora e correção monetária acarreta o não provimento do recurso.
+3. Agravo interno parcialmente provido, apenas para correção do dispositivo.
+(AgInt no AREsp n. 2.243.081/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. JUROS REMUNERATÓRIOS. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NÃO CONHECER DO RECURSO ESPECIAL.
+1. Decisão agravada reconsiderada. Novo exame do feito.
+2. A Corte de origem concluiu que houve coisa julgada, e nesse contexto não seria possível discutir a possibilidade de aplicação da taxa SELIC ao caso.
+3. Com efeito, esta Corte Superior entende que proceder à alteração dos índices de correção monetária estabelecidos no título judicial, na fase de cumprimento de sentença, configuraria violação à coisa julgada. Incidência da Súmula 83/STJ.
+4. Agravo interno provido para conhecer do agravo e não conhecer do recurso especial.
+(AgInt no AREsp n. 2.268.975/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 22/5/2023, DJe de 25/5/2023.)
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA PROFERIDA APÓS A ENTRADA EM VIGOR DO CÓDIGO CIVIL DE 2002. ALTERAÇÃO NAS TAXAS DE JUROS DE MORA OU CORREÇÃO MONETÁRIA. OFENSA A COISA JULGADA. SÚMULA 568 DO STJ. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação ao art. 1.022 do Código de Processo Civil de 2015.
+2. A jurisprudência desta Corte Superior dispõe no sentido de não ser possível, na fase de liquidação ou cumprimento de sentença, alterar o critério estabelecido, no título exequendo, para a fixação dos juros de mora, sob pena de ofensa à coisa julgada. Súmula 568 do STJ. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.960.296/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13.3.2023, DJe de 16.3.2023.)
+Assim, constata-se que o entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto." (fls. 108-110)
+Nesse contexto, não existe omissão, contradição, obscuridade ou erro material a ser sanado na espécie.
+Inicialmente, quanto à apontada deficiência de fundamentação do acórdão embargado, em razão de ter reiterado os termos da decisão agravada, verifica-se não assistir razão à parte embargante.
+O entendimento do STJ, notadamente da Corte Especial do STJ no julgamento do AgRg no AgRg nos EREsp 1.492.472/PR, sob a minha Relatoria, em 4/12/2019, DJe de 19/12/2019, é firme no sentido de que "a reprodução dos fundamentos da decisão monocrática no voto do Relator, proferido em sede de agravo regimental, mormente quando ratificado pelo respectivo órgão julgador, não é capaz de gerar a nulidade do aresto, por deficiência na fundamentação, quando haja o efetivo enfrentamento das matérias impugnadas nas razões recursais, como ocorreu no caso em exame".
+Assim, de fato, não existe deficiência de fundamentação, omissão, obscuridade ou contradição no aresto embargado, porquanto a col. Quarta Turma do STJ, malgrado não ter acolhido os argumentos suscitados pela parte recorrente, manifestou-se expressamente acerca dos temas necessários à integral solução da lide.
+A propósito:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. DECISÃO QUE INDEFERIU LIMINARMENTE OS EMBARGOS. INEXISTÊNCIA DE TESES A CONFRONTAR. AGRAVO DESPROVIDO. (..)
+2. A reprodução dos fundamentos da decisão monocrática no voto do Relator, proferido em sede de agravo regimental, mormente quando ratificado pelo respectivo órgão julgador, não é capaz de gerar a nulidade do aresto, por deficiência na fundamentação, quando haja o efetivo enfrentamento das matérias impugnadas nas razões recursais, como ocorreu no caso em exame.
+3. Agravo regimental a que se nega provimento."
+(AgRg no AgRg nos EREsp n. 1.492.472/PR, Relator Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 4/12/2019, DJe de 19/12/2019)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO CIVIL PÚBLICA DE IMPROBIDADE ADMINISTRATIVA. HONORÁRIOS ADVOCATÍCIOS EM FAVOR DA UNIÃO E DO MINISTÉRIO PÚBLICO. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA. DISSENSO NÃO DEMONSTRADO. ALEGADA OMISSÃO. VÍCIO INEXISTENTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. "Deve-se interpretar o comando do art. 1.021, § 3º, do CPC/2015 em conjunto com a regra do art. 489, § 1º, IV, do mesmo diploma. Na hipótese em que a parte insiste na mesma tese, repisando as mesmas alegações já apresentadas em recurso anterior, sem trazer nenhum argumento novo - ou caso se limite a suscitar fundamentos insuficientes para abalar as razões de decidir já explicitadas pelo julgador - não se vislumbra nulidade quanto à reprodução, nos fundamentos do acórdão do agravo interno, dos mesmos temas já postos na decisão monocrática" (EDcl no AgInt no AREsp 1.411.214/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/08/2019, DJe 20/08/2019.) (..)
+3. Embargos de declaração rejeitados."
+(EDcl no AgInt nos EAREsp n. 996.192/SP, Relatora Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 26/11/2019, DJe de 10/12/2019)
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. GRATUIDADE DE JUSTIÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. NECESSIDADE DE INTIMAÇÃO PRÉVIA DA PARTE ACERCA DO JULGAMENTO VIRTUAL DA APELAÇÃO. QUESTÃO DECIDIDA COM FUNDAMENTO EM ATO NORMATIVO LOCAL. INCIDÊNCIA DA SÚMULA Nº 208 DO STF. REPRODUÇÃO, NO AGRAVO INTERNO, DOS FUNDAMENTOS DA DECISÃO AGRAVADA. POSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS PARA A OBTEÇÃO DA GRATUIDADE DA JUSTIÇA. SÚMULAS NºS 282 E 356 DO STF E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. (..)
+4. O art. 1.021, § 3º, do NCPC deve ser interpretado em conjunto com o 489, § 1º, IV, do mesmo diploma. Assim, mesmo quando verificada a repetição, no agravo interno, dos fundamentos da decisão monocrática agravada, não será possível cogitar de nulidade de julgamento se, apesar dessa circunstância, todas as questões relevantes para o deslinde da controvérsia houverem sido adequada e suficientemente enfrentadas. (..)
+7. Agravo interno não provido."
+(AgInt nos EDcl no AREsp n. 1.511.146/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado 11/11/2020, DJe de 16/11/2020)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA. (..)
+3. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+4.Embargos de declaração rejeitados."
+(EDcl no AgRg nos EREsp n. 1.483.155/BA, Relator Ministro OG FERNANDES, CORTE ESPECIAL, julgado 15/6/2016, DJe de 3/8/2016)
+No mérito, do excerto acima transcrito, infere-se que o acórdão embargado foi claro em reconhecer que o acórdão recorrido está em consonância com a jurisprudência do STJ, a qual é firme no entendimento de não ser possível, na fase de liquidação ou cumprimento de sentença, alterar o critério estabelecido no título exequendo, para a fixação dos juros de mora, sob pena de ofensa à coisa julgada, com a aplicação da Súmula 83/STJ.
+Para afastar qualquer tipo de indagação, reitera-se que, na espécie, o acórdão do Tribunal de Justiça foi categórico em estabelecer que o título judicial objeto do cumprimento de sentença não utilizou a taxa SELIC como índice de correção e juros.
+O Tribunal assim dispôs:
+"A r. sentença em reprográfica a págs. 13/17, julgou procedente em parte o pedido para condenar a agravante a pagar ao agravado o valor de R$4.206,29, corrigido pela Tabela Prática do Tribunal de Justiça e acrescido de juros de 1% ao mês, a contar da citação, pág. 16, o que foi mantido pelo v. acórdão de págs. 18/22, todas dos autos de origem.
+Com o trânsito em julgado, o agravado postulou a instauração do incidente de cumprimento de sentença, pleiteando a satisfação da quantia constante do demonstrativo de págs. 05, dos autos de origem, com aplicação dos índices de correção e juros previstos no título executivo, o que deve prevalecer, a fim de se garantir a autoridade da coisa julgada." (fl. 22)
+Igualmente consignado no acórdão ora embargado, constata-se que a Corte de origem decidiu em harmonia com a jurisprudência do STJ, assente no sentido de que "o critério estabelecido no título judicial exequendo, com relação à correção monetária e aos juros, não pode ser alterado na fase de liquidação ou cumprimento de sentença, sob pena de ofensa à coisa julgada" (REsp 2.055.693/RJ, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 16/6/2023).
+Nesse cenário, correta a conclusão a que chegaram as instâncias ordinárias, de modo que, havendo previsão expressa de incidência de juros remuneratórios e correção sobre os valores indicados no título executivo, não é admitida sua inclusão ou a modificação de qualquer outro critério, na fase de liquidação de sentença.
+Reitera-se: esta Corte Superior entende que proceder à alteração dos índices de correção monetária estabelecidos no título judicial, na fase de cumprimento de sentença, configuraria violação à coisa julgada.
+No mesmo sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. JUROS DE MORA. ALTERAÇÃO DO TERMO INICIAL EM CUMPRIMENTO DE SENTENÇA OU IMPUGNAÇÃO. INVIABILIDADE. COISA JULGADA. PRECEDENTES. TERMOS DO TÍTULO JUDICIAL. APURAÇÃO. SÚMULA N. 7/STJ. (..)
+2. "O critério estabelecido no título judicial exequendo, com relação à correção monetária e aos juros, não pode ser alterado na fase de liquidação ou cumprimento de sentença, sob pena de ofensa à coisa julgada" (REsp n. 2.055.693/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 16/6/2023). (..)
+Agravo interno improvido."
+(AgInt no REsp n. 1.778.376/SP, Relator Ministro HUMBERTO MARTINS, TERCEIRA TURMA, julgado em 18/12/2023, DJe de 20/12/2023)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA EXPRESSAMENTE DEFINIDOS NA LIQUIDAÇÃO DE SENTENÇA. PRETENSÃO DE APLICAÇÃO DA TAXA SELIC. INVIABILIDADE. AFRONTA À COISA JULGADA. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO. (..)
+3. O Tribunal de origem concluiu que não seria possível discutir a aplicação da taxa SELIC ao caso, sob pena de afronta à coisa julgada.
+4. Esta Corte Superior entende que proceder à alteração dos índices de correção monetária estabelecidos no título judicial, na fase de cumprimento de sentença, configuraria violação à coisa julgada. Incidência da Súmula 83/STJ. (..)
+6. Agravo interno desprovido."
+(AgInt no AREsp n. 1.914.152/DF, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/10/2023, DJe de 26/10/2023)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. SENTENÇA PROFERIDA APÓS A ENTRADA EM VIGOR DO CÓDIGO CIVIL DE 2002. ALTERAÇÃO NAS TAXAS DE JUROS DE MORA OU CORREÇÃO MONETÁRIA. OFENSA A COISA JULGADA. SÚMULA 568 DO STJ. AGRAVO DESPROVIDO.
+1. "Consoante a jurisprudência do Superior Tribunal de Justiça, proferida a sentença após a entrada em vigor do Código Civil de 2002, é inviável a alteração do percentual fixado a título de juros moratórios ou da taxa de correção monetária na execução ou cumprimento de sentença, sob pena de ofensa à coisa julgada. Súmula 568 do STJ" (AgInt nos EDcl no AREsp 1.809.486/RS, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 18/4/2022).
+2. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.304.387/PR, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/10/2023, DJe de 20/10/2023)
+Também não assiste razão à parte embargante quanto à análise dos precedentes do REsp 1.978.739/DF, Relator Ministro MANOEL ERHARDT, DJe de 02/02/2022; e do REsp 1.846.819/PR, Relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 15/10/2020, que, no seu entender, "permite a revisão e nova fixação dos índices de correção monetária e juros moratórios quando a lei ou a jurisprudência mudarem o entendimento acerca do assunto", fl. 119.
+Primeiramente, os referidos julgados não tratam da mesma matéria do presente recurso, tampouco julgaram da forma com que defendida e abordada no recurso especial e no agravo interno.
+Ainda, o REsp 1.978.739/DF, Relator Ministro MANOEL ERHARDT, DJe de 02/02/2022, não serve de paradigma, porquanto o julgamento se resolveu em decisão monocrática do Relator, não configurando precedente do órgão colegiado.
+Ademais, o REsp 1.846.819/PR, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe de 15/10/2020, julgou apenas a violação do art. 406 do CC, e a aplicabilidade da taxa SELIC como taxa dos juros de mora em nada coincide com o presente processo, que busca a mudança do critério expressamente definido no título judicial definitivo.
+Assim, no caso em espécie, mostra-se nítido o propósito da embargante de rediscutir tema devidamente apreciado, embora desfavoravelmente à pretensão almejada, o que, contudo, não é cabível na via estreita dos embargos de declaração.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO NÃO CARACTERIZADA. ERRO MATERIAL. CORREÇÃO. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS.
+1. Os embargos de declaração são cabíveis quando houver, na decisão ou no acórdão, obscuridade, contradição, omissão ou erro material, nos termos do art. 1.022 do CPC. É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Não se verifica omissão quando o acórdão embargado emite tese sobre os questionamentos levantados pela parte.
+3. No caso, houve apenas erro de digitação, visto que, em vez de constar a incidência da Súmula 735 do STF, o acórdão recorrido consignou a aplicação da "Súmula 735 do STJ".
+4. Embargos de declaração parcialmente acolhidos, apenas para sanar erro material."
+(EDcl no AgInt no AREsp n. 2.307.944/BA, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 9/11/2023)
+"CIVIL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. FINANCIAMENTO SOB AS REGRAS DO SISTEMA FINANCEIRO DA HABITAÇÃO. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. VÍCIOS CONSTRUTIVOS. ALEGAÇÃO DA NECESSIDADE DE INTERVENÇÃO DA CEF NO FEITO COMO LITISCONSORTE ASSISTENCIAL. DISPOSITIVOS LEGAIS TIDOS POR VIOLADOS. FALTA DE PREQUESTIONAMENTO. SÚMULA N.º 211 DO STJ. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO DO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material. (..)
+4. Embargos de declaração rejeitados."
+(EDcl no AgInt no AREsp n. 2.327.667/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 3/11/2023)
+Diante do exposto, rejeitam-se os embargos declaratórios.
+É como voto.
