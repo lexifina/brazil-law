@@ -1,0 +1,91 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DA OBRA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. NÃO OCORRÊNCIA. DA CULPA PELA RESCISÃO DO CONTRATO E DO PERCENTUAL DE RETENÇÃO DAS PARCELAS PAGAS. SÚMULA Nº 543 DO STJ. ARRAS. PRINCÍPIO DE PAGAMENTO. RETENÇÃO. IMPOSSIBILIDADE. SÚMULA Nº 83 DO STJ. JUROS DE MORA. TERMO INICIAL. SÚMULA Nº 568 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Os aclaratórios são espécie de recurso de fundamentação vinculada, exigindo para seu conhecimento a indicação de erro material, obscuridade, contradição ou omissão em que teria incorrido o julgador (arts. 489 e 1.022 do CPC), não se prestando a novo julgamento da causa.
+2. No caso, para ultrapassar a conclusão do Tribunal estadual, a fim de reconhecer que a rescisão do contrato deu-se por responsabilidade dos compradores, seria necessária a interpretação de cláusulas do contrato, assim como a reincursão no acervo fático-probatório da causa, o que é vedado nesta sede excepcional, ante os óbices das Súmulas nºs. 5 e 7 do STJ.
+3. Em se tratando de rescisão de promessa de compra e venda por culpa do vendedor, deve ser restituída a integralidade dos valores pagos pelo comprador. Súmula nº 543 do STJ. No caso, tendo sido determinada a retenção de 6% dos valores pagos, a fim de compensar os gastos das empresas com administração e propaganda, não poderá a questão ser revista nesta Corte, sob pena de reformatio in peius.
+4. A responsabilidade pelo pagamento de taxa de fruição, IPTU e despesas condominiais incide a partir da efetiva posse do imóvel, sob pena de os adquirentes terem que arcar com tais ônus financeiros enquanto estão impossibilitados de usufruir do imóvel.
+5. Na linha dos precedentes desta Corte, não é devida a retenção de arras confirmatórias pelo promitente-vendedor nas hipóteses de desfazimento do contrato de promessa de compra e venda de imóvel. Incidência da Súmula nº 83 do STJ.
+6. Segundo o entendimento do STJ, incidem juros moratórios a partir da citação em se tratando de inadimplemento contratual por parte da promitente-vendedora, e correção monetária desde a data do desembolso. Súmula nº 568 do STJ.
+7. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por JFE 35 EMPREENDIMENTOS IMOBILIÁRIOS LTDA. - EM RECUPERAÇÃO JUDICIAL (JFE 35) contra decisão monocrática de minha relatoria, assim ementada:
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DA OBRA. (1) VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. NÃO OCORRÊNCIA. (2) DA CULPA PELA RESCISÃO DO CONTRATO E DO PERCENTUAL DE RETENÇÃO DAS PARCELAS PAGAS. SÚMULA Nº 543 DO STJ. (3) ARRAS. PRINCÍPIO DE PAGAMENTO. RETENÇÃO. IMPOSSIBILIDADE. SÚMULA Nº 83 DO STJ. (4) DANO MORAL. AFASTAMENTO. MERO INADIMPLEMENTO CONTRATUAL. PRECEDENTES. (5) JUROS DE MORA. TERMO INICIAL. SÚMULA Nº 568 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+Nas razões do presente inconformismo, apontou a violação dos arts. 489, § 1º, IV, e 1.022, II, do CPC e 186, 389, 396, 413, 418 e 927 do CC, ao sustentar (1) omissão do acórdão recorrido acerca da alegação de que os promitentes compradores só ingressaram com a presente ação pleiteando a rescisão do contrato meses após a unidade lhes ter sido disponibilizada; (2) a possibilidade de retenção de 25% dos valores pagos na hipótese em que a rescisão do contrato ocorre por iniciativa dos adquirentes; (3) que o valor pago a título de arras não é passível de devolução; e (4) a incidência dos juros de mora a partir do trânsito em julgado da sentença.
+Não foi apresentada contraminuta (e-STJ, fls. 472/473).
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DA OBRA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. NÃO OCORRÊNCIA. DA CULPA PELA RESCISÃO DO CONTRATO E DO PERCENTUAL DE RETENÇÃO DAS PARCELAS PAGAS. SÚMULA Nº 543 DO STJ. ARRAS. PRINCÍPIO DE PAGAMENTO. RETENÇÃO. IMPOSSIBILIDADE. SÚMULA Nº 83 DO STJ. JUROS DE MORA. TERMO INICIAL. SÚMULA Nº 568 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Os aclaratórios são espécie de recurso de fundamentação vinculada, exigindo para seu conhecimento a indicação de erro material, obscuridade, contradição ou omissão em que teria incorrido o julgador (arts. 489 e 1.022 do CPC), não se prestando a novo julgamento da causa.
+2. No caso, para ultrapassar a conclusão do Tribunal estadual, a fim de reconhecer que a rescisão do contrato deu-se por responsabilidade dos compradores, seria necessária a interpretação de cláusulas do contrato, assim como a reincursão no acervo fático-probatório da causa, o que é vedado nesta sede excepcional, ante os óbices das Súmulas nºs. 5 e 7 do STJ.
+3. Em se tratando de rescisão de promessa de compra e venda por culpa do vendedor, deve ser restituída a integralidade dos valores pagos pelo comprador. Súmula nº 543 do STJ. No caso, tendo sido determinada a retenção de 6% dos valores pagos, a fim de compensar os gastos das empresas com administração e propaganda, não poderá a questão ser revista nesta Corte, sob pena de reformatio in peius.
+4. A responsabilidade pelo pagamento de taxa de fruição, IPTU e despesas condominiais incide a partir da efetiva posse do imóvel, sob pena de os adquirentes terem que arcar com tais ônus financeiros enquanto estão impossibilitados de usufruir do imóvel.
+5. Na linha dos precedentes desta Corte, não é devida a retenção de arras confirmatórias pelo promitente-vendedor nas hipóteses de desfazimento do contrato de promessa de compra e venda de imóvel. Incidência da Súmula nº 83 do STJ.
+6. Segundo o entendimento do STJ, incidem juros moratórios a partir da citação em se tratando de inadimplemento contratual por parte da promitente-vendedora, e correção monetária desde a data do desembolso. Súmula nº 568 do STJ.
+7. Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+Trata-se de ação de rescisão de contrato de promessa de compra e venda de imóvel cumulada com indenização por danos materiais e morais proposta por WESCLEY NIERO SANTOS e LETICIA PINTO DE ARAGÃO, alegando descumprimento do prazo de entrega da obra.
+(1) Da violação dos arts. 489, § 1º, IV, e 1.022, II, do NCPC
+Nas razões do presente agravo interno, JFE 35 sustentou, preliminarmente, omissão do acórdão recorrido acerca da alegação de que os promitentes compradores só ingressaram com a presente ação pleiteando a rescisão do contrato meses após a unidade lhes ter sido disponibilizada.
+Sem razão, contudo.
+Sobre o tema, ao julgar os embargos de declaração opostos pela ora insurgente, o TJRJ assim se pronunciou:
+Conforme consta da fundamentação do acórdão, a própria empresa embargante reconheceu que houve atraso na entrega da unidade imobiliária em relação à data prevista no contrato, utilizando como tese defensiva em sua peça de contestação que a mora se deu por culpa da má administração do Município nos anos de 2014 e 2015, tendo inclusive o Prefeito de Itaguaí sido afastado por denúncias de corrupção.
+Concessa venia, como expressamente mencionado nas razões de decidir do acórdão alvejado, tal fato se traduz em fortuito interno, ínsito à álea comercial explorada pela empresa ré, por conta do risco de sua atividade, situação que faz remessa à inteligência do enunciado sumular nº 94, deste Eg. TJ/RJ, e que atrai a hipótese de resolução do contrato e o dever de indenizar pelo fornecedor, com a imediata restituição integral das parcelas pagas pelo promitente comprador, em decorrência de culpa exclusiva do promitente vendedor/construtor, consoante a regra preconizada na Súmula nº 543, do Col. Superior Tribunal de Justiça (e-STJ, fl. 337).
+Não há falar, portanto, em negativa de prestação jurisdicional, pois, a pretexto da alegação de ofensa aos arts. 489 e 1.022 do CPC, o que busca JFE 35 é apenas manifestar o seu inconformismo com o resultado do julgamento que lhe foi desfavorável, não se prestando a estreita via dos embargos de declaração a promover o rejulgamento da causa, já que inexistentes quaisquer dos vícios elencados no referido dispositivo da lei adjetiva civil.
+A jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE VEÍCULO. AÇÃO DE INDENIZAÇÃO. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. DANOS MORAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. LIMITAÇÃO DE COBERTURA. REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. Verifica-se que o Tribunal estadual analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+3. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n.
+283 e 284 da Súmula do Supremo Tribunal Federal.
+4. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento das cláusulas contratuais e do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice disposto nas Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.500.162/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado aos 25/11/2019, DJe de 29/11/2019 - sem destaque no original)
+Não se verifica, assim, a apontada contrariedade à lei processual.
+(2) Da culpa pela rescisão do contrato e da retenção de parte dos valores pagos
+Defendeu a recorrente, outrossim, a possibilidade de retenção de 25% dos valores pagos, na hipótese em que a rescisão do contrato ocorre por iniciativa dos adquirentes.
+A esse respeito, o Tribunal fluminense assim consignou:
+Primeiramente, impõe-se registrar que resta precluso o inadimplemento contratual por parte da apelante, na medida em que a mesma reconhece o atraso na obtenção do Habite-se e concorda com rescisão da promessa de compra e venda decretada na sentença.
+In casu, conforme se extrai do Quadro Resumo do contrato de promessa de compra e venda (item 8, índex 27), a entrega do imóvel era prevista para 30/09/2016 e que, computada a cláusula de tolerância de 180 dias, o prazo final limite era de 30/03/2017.
+Outrossim, que o Habite-se foi expedido somente 14/07/2017, evidenciando o inadimplemento contratual.
+ ..
+Assim, tratando-se de caso de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a restituição integral das parcelas efetivamente pagas pelo promitente comprador, incluindo-se as arras, em caso de culpa exclusiva do promitente vendedor/construtor, consoante a inteligência da Súmula nº 543, do STJ (e-STJ, fls. 305/307).
+Nessa linha, conforme asseverou o Tribunal local, estando configurada a mora da promitente vendedora, justifica-se a restituição integral das parcelas adimplidas pelos compradores, estando a conclusão adotada em consonância com a Súmula nº 543 do STJ, do seguinte teor:
+"Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento".
+Confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. CULPA EXCLUSIVA DO PROMITENTE VENDEDOR. RESTITUIÇÃO INTEGRAL DAS PARCELAS PAGAS. SÚMULA 543 DO STJ. LUCROS CESSANTES. PREJUÍZO PRESUMIDO. NÃO PROVIMENTO.
+1. Nos termos da jurisprudência do STJ, o atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador.
+2. "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento" (Súmula 543/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.848.001/SP, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado aos 13/6/2022, DJe de 21/6/2022.)
+(3) Da retenção das arras
+Segundo a jurisprudência do STJ, "as arras confirmatórias não se confundem com a prefixação de perdas e danos, tal como ocorre com o instituto das arras penitenciais, visto que servem como garantia do negócio e possuem característica de início de pagamento, razão pela qual não podem ser objeto de retenção na resolução contratual por inadimplemento do comprador" (AgInt no REsp n. 1.893.412/SP, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado aos 7/12/2020, DJe de 11/12/2020).
+Nesse sentido, confira-se, ainda, o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CAUTELAR ANTECEDENTE - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1 . Não se constata a alegada violação aos artigos 489 e 1.022 do CPC/15, porquanto os argumentos expostos pela parte foram apreciados, com fundamentação clara, coerente e suficiente pelo órgão julgador.
+2. "A despeito do caráter originalmente irretratável da compra e venda no âmbito da incorporação imobiliária (Lei 4.591/1964, art. 32, §2º), a jurisprudência do STJ, anterior à Lei 13.786/2018, de há muito já reconhecia, à luz do Código de Defesa do Consumidor, o direito potestativo do consumidor de promover ação a fim de rescindir o contrato e receber, de forma imediata e em pagamento único, a restituição dos valores pagos, assegurado ao vendedor sem culpa pelo distrato, de outro lado, o direito de reter parcela do montante (Súmula 543/STJ)" (REsp 1723519/SP, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 28/08/2019, DJe 02/10/2019).
+3. Consoante jurisprudência desta Corte Superior, as arras confirmatórias não podem ser objeto de retenção na resolução de contrato de compra e venda por culpa do comprador. Incidência da Súmula 83 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.878.652/RJ, relator Ministro MARCO BUZZI, Quarta Turma, julgado aos 22/11/2021, DJe de 24/11/2021 - sem destaque no original)
+Incide, à hipótese, o comando da Súmula nº 83 do STJ.
+(4) Do termo inicial dos juros de mora
+Por sua vez, JFE 35 defendeu a incidência dos juros de mora a partir do trânsito em julgado da sentença.
+No ponto, esta Corte Superior possui jurisprudência consolidada de que incidem juros moratórios a partir da citação em se tratando de inadimplemento contratual por parte da promitente-vendedora, o que ficou configurado no caso.
+Confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA. PROMITENTE VENDEDORA. INADIMPLEMENTO. AÇÃO DE INDENIZAÇÃO. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. JUROS DE MORA. RESPONSABILIDADE CONTRATUAL. TERMO INICIAL. MULTA CONTRATUAL. BASE DE CÁLCULO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Em caso de responsabilidade contratual, os juros moratórios incidem a partir da citação. Precedentes.
+4. Na hipótese, rever o entendimento firmado pelas instâncias ordinárias para alterar a base de cálculo da multa contratual demanda a análise do contrato, dos fatos e das provas dos autos, procedimento inviável em recurso especial devido aos óbices das Súmulas nºs 5 e 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.666.670/RS, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado aos 29/3/2021, DJe de 7/4/2021 - sem destaque no original)
+Aplica-se, ao caso, o enunciado da Súmula nº 568 do STJ.
+Desse modo, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra este acórdão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação à penalidade fixada no art. 1.026, § 2º, do CPC.
