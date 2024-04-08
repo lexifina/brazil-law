@@ -1,0 +1,114 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC. DEVOLUÇÃO DE PRAZO PARA IMPUGNAÇÃO AO CUMPRIMENTO DE JULGADO. ART. 272, § 8º, DO CPC. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Consoante entendimento jurisprudencial do STJ, a alegação de nulidade do processo em virtude da ausência de intimação deve ser analisada de acordo com o art. 272, § 8º, do CPC, o qual determina que "A parte arguirá a nulidade da intimação em capítulo preliminar do próprio ato que lhe caiba praticar, o que será tido por tempestivo se o vício for reconhecido". Precedentes.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 212/236) interposto contra decisão desta relatoria (e-STJ fls. 202/208) que negou provimento ao agravo em recurso especial.
+Em suas razões, a agravante reitera negativa de prestação jurisdicional, afirmando que o Tribunal de origem teria sido omisso quanto a pontos por ela suscitados.
+Alega a tese de violação dos arts. 4º, 5º, 6º, 223 e 523 do CPC e 5º, LIV e LV da CF, sustentando haver justa causa a possibilitar a devolução do prazo para impugnação ao cumprimento de sentença.
+Sustenta não ser aplicável a Súmula n. 83 do STJ.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+O agravado não apresentou contrarrazões (e-STJ fl. 240).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC. DEVOLUÇÃO DE PRAZO PARA IMPUGNAÇÃO AO CUMPRIMENTO DE JULGADO. ART. 272, § 8º, DO CPC. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Consoante entendimento jurisprudencial do STJ, a alegação de nulidade do processo em virtude da ausência de intimação deve ser analisada de acordo com o art. 272, § 8º, do CPC, o qual determina que "A parte arguirá a nulidade da intimação em capítulo preliminar do próprio ato que lhe caiba praticar, o que será tido por tempestivo se o vício for reconhecido". Precedentes.
+3. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece ser acolhida.
+A agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 202/208):
+Trata-se de agravo nos próprios autos interposto por COMTINFER CONSTRUTORA E INCORPORAÇÃO LTDA. contra decisão que inadmitiu recurso especial por inexistência de violação dos arts. 4º, 5º, 6º, 223, 489, 523, 927 e 1.022 do CPC (e-STJ fls. 123/125).
+O Tribunal de origem negou provimento ao agravo da recorrente, em julgado que recebeu a seguinte ementa (e-STJ fl. 27):
+Agravo de Instrumento. Cumprimento de julgado. Decisão agravada que indeferiu pedido de devolução de prazo para apresentação de impugnação ao cumprimento de julgado, sob o argumento de ausência de intimação para tanto. Não acolhimento. Aplicação do disposto no artigo 272, § 8º, do CPC. Decisão mantida. Recurso não provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 42/47).
+No recurso especial (e-STJ fls. 50/80), com fundamento no art. 105, III, "a", da CF, a recorrente apontou:
+(i) violação dos arts. 489 e 1.022 do CPC, alegando omissão, uma vez que o acórdão recorrido não analisou erro em certidão disponibilizada no DJe, em que ausente qualquer intimação da recorrente para pagamento voluntário ou impugnação,
+(ii) ofensa aos arts. 4º, 5º e 6º do CPC, tendo em vista que "não há se falar, em processo justo e équo se as partes atuam de forma abusiva, conspirando contra as garantias constitucionais do devido processo legal" (e-STJ fl. 70),
+(iii) negativa de vigência dos arts. 223 e 523 do CPC, questionando a configuração da hipótese de justa causa a possibilitar o pedido de devolução de prazo para apresentação de impugnação ao cumprimento de sentença, e
+(iv) afronta ao art. 927 do CPC, aduzindo a existência de precedentes onde se reconhece que a divulgação de informação equivocada, em sítio eletrônico oficial do Tribunal constitui justa causa para afastar a preclusão temporal.
+Contrarrazões às fls. 114/122 (e-STJ).
+No agravo (e-STJ fls. 128/173), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Contraminuta apresentada (e-STJ fls. 182/192).
+É o relatório.
+Decido.
+I - Da síntese processual
+Trata-se de agravo de instrumento, no âmbito de ação de cumprimento de sentença, contra decisão que indeferiu pedido de devolução de prazo para apresentação de impugnação.
+A ora agravante interpôs agravo de instrumento alegando ter demonstrado que houve errônea certificação no processo acerca da sua intimação para pagamento da condenação ou interposição de impugnação. Nesse contexto, entendeu que, ao indeferir o pedido de devolução de prazo, a decisão de primeiro grau violou o disposto no art. 223, § 2º, do CPC.
+O Tribunal de origem negou provimento ao recurso sob o fundamento de que, no caso concreto, não seria possível a incidência do referido artigo, mas a aplicação do disposto no art. 272, § 8º, do CPC. Consignou que, ainda que verificado eventual equívoco na intimação da decisão que concedeu prazo para pagamento voluntário da condenação ou apresentação de impugnação, nos termos do artigo mencionado, ao tomar conhecimento da irregularidade, caberia a parte praticar o ato que lhe competia arguindo preliminarmente a ausência de intimação.
+No recurso especial, a parte sustentou, em síntese: (i) negativa de prestação jurisdicional, (ii) violação dos arts. 4º, 5º e 6º do CPC, pois o Tribunal se negou a apreciar todos os fundamentos apresentados pela parte, (iii) afronta aos arts. 223, § 2º, e 537 do CPC, tendo em vista a inexistência de intimação para pagamento voluntário ou apresentação de impugnação, e (iv) ofensa ao art. 927 do CPC, uma vez que o entendimento da Corte de origem encontra-se em dissonância com a jurisprudência do STJ.
+É a síntese dos autos.
+II - Da negativa de prestação jurisdicional
+Inexiste afronta aos arts. 489 e 1.022 do CPC quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à tese, o Tribunal de origem assim se manifestou (e-STJ fls. 44/45):
+À luz do disposto no artigo 1.022 do Código de Processo Civil, o acórdão de págs. 26/29 não exibe os vícios enunciados pela Embargante. As questões relacionadas à arguição de nulidade de intimação do patrono da parte já foram objeto de análise e a decisão se encontra fundamentada. Foi expressamente enunciado:
+"Pelo que se extrai do processo, a r. decisão recorrida deu correta solução para a insurgência apresentada pela Executada, ora Agravante, considerado que há disposição expressa no Código de Processo Civil acerca da arguição de nulidade de intimação do patrono da parte, que se trata da hipótese ocorrida no presente caso.
+Dispõe o artigo 272, § 8º, do CPC, in verbis: "A parte arguirá a nulidade de intimação em capítulo preliminar do próprio ato que lhe caiba praticar, o qual será tido por tempestivo se o vício for reconhecido."
+Desse modo, ainda que verificado eventual equívoco da serventia judicial na intimação da decisão que concedeu prazo para pagamento voluntário da condenação/apresentação de impugnação ao cumprimento de julgado (pág. 11 do processo originário), certo é que a ora Agravante, ao tomar conhecimento da irregularidade, houve por bem ingressar com mero embargo de declaração, apresentado em 15.12.2020, para comunicar a ausência de sua intimação (págs. 17/21 do processo originário), quando deveria, por expressa disposição legal, praticar o ato que lhe competia, ou seja, realizar o pagamento voluntário no prazo de 15 dias de sua ciência ou ofertar a competente impugnação ao cumprimento do julgado, também no prazo correspondente.
+Sequer lhe socorre o argumento de que deveria lhe ser concedido novo prazo para a prática do ato processual, no caso, para oferta de impugnação, com fundamento no artigo 223, § 2º, do CPC, pois há previsão legal específica que rege a situação ora tratada, ou seja, para os casos de nulidade de intimação, conforme supramencionado.
+Desse modo, apesar da Executada ter se dado por ciente em 15.12.2020, da decisão que determinou o pagamento voluntário e prazo para impugnação e até a presente data não ter realizado nenhum dos dois atos, de rigor que a execução prossiga, inclusive com a incidência da multa e honorários advocatícios previstos no artigo 523, § 1º, do CPC, conforme determinado pela r. decisão de págs. 29/30 do processo originário."
+Como se verifica, o que claramente aqui se pretende é o efeito modificativo do julgado, para nova análise de questões já expressamente decididas, a tornar claro o caráter infringente deste embargos. Outro deveria ser o recurso formulado, diante da discordância quanto ao resultado do julgamento e das razões que o fundamentam
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em nenhum dos vícios previstos nos arts. 489 e 1.022 do CPC.
+III - Da falha na fundamentação
+Verifica-se que o entendimento do Tribunal de origem não pode ser desconstituído apenas com base nos arts. 4º, 5º e 6º, do CPC, porque as normas em referência nada dispõem a respeito da tese de que, de acordo com o art. 272, § 8º, do CPC, ao tomar conhecimento da irregularidade de intimação, compete à parte praticar o ato que lhe competia, comunicando a nulidade em preliminar.
+Dessa forma, está caracterizada deficiência na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal.
+Ademais, nas alegações do recurso especial, a recorrente apontou desrespeito ao art. 927 do CPC, para sustentar que o Tribunal a quo deveria ter aplicado os precedentes invocados nas razões dos recursos.
+Entretanto, o mencionado dispositivo apenas estabelece a necessidade de observância obrigatória de determinadas e específicas decisões. No caso concreto, no entanto, nenhum precedente indicado pela parte recorrente encontra amparo no referido artigo. Portanto, é inviável a tese de violação ao art. 927 do CPC.
+Sendo assim, o artigo de lei federal apontado não apresenta pertinência temática com a matéria alegada e não possui o alcance normativo pretendido pela recorrente, a fim de sustentar suas alegações, o que torna a fundamentação recursal deficiente e atrai, novamente, a incidência da Súmula n. 284 do STF.
+IV - Da devolução do prazo para apresentação de impugnação
+A Corte de origem, ao julgar o agravo de instrumento interposto, concluiu que, apesar de o vício apontado, em princípio, ensejar a nulidade dos atos subsequentes praticados no processo, a parte executada deixou de observar o disposto no art. 272, § 8º, do CPC, estando configurada a preclusão.
+A propósito, confiram-se os fundamentos do acórdão recorrido (e-STJ fls. 28/29):
+Pelo que se extrai do processo, a r. decisão recorrida deu correta solução para a insurgência apresentada pela Executada, ora Agravante, considerado que há disposição expressa no Código de Processo Civil acerca da arguição de nulidade de intimação do patrono da parte, que se trata da hipótese ocorrida no presente caso.
+Dispõe o artigo 272, § 8º, do CPC, in verbis: "A parte arguirá a nulidade de intimação em capítulo preliminar do próprio ato que lhe caiba praticar, o qual será tido por tempestivo se o vício for reconhecido."
+Desse modo, ainda que verificado eventual equívoco da serventia judicial na intimação da decisão que concedeu prazo para pagamento voluntário da condenação/apresentação de impugnação ao cumprimento de julgado (pág. 11 do processo originário), certo é que a ora Agravante, ao tomar conhecimento da irregularidade, houve por bem ingressar com mero embargo de declaração, apresentado em 15.12.2020, para comunicar a ausência de sua intimação (págs. 17/21 do processo originário), quando deveria, por expressa disposição legal, praticar o ato que lhe competia, ou seja, realizar o pagamento voluntário no prazo de 15 dias de sua ciência ou ofertar a competente impugnação ao cumprimento do julgado, também no prazo correspondente.
+Sequer lhe socorre o argumento de que deveria lhe ser concedido novo prazo para a prática do ato processual, no caso, para oferta de impugnação, com fundamento no artigo 223, § 2º, do CPC, pois há previsão legal específica que rege a situação ora tratada, ou seja, para os casos de nulidade de intimação, conforme supramencionado.
+Desse modo, apesar da Executada ter se dado por ciente em 15.12.2020, da decisão que determinou o pagamento voluntário e prazo para impugnação e até a presente data não ter realizado nenhum dos dois atos, de rigor que a execução prossiga, inclusive com a incidência da multa e honorários advocatícios previstos no artigo 523, § 1º, do CPC, conforme determinado pela r. decisão de págs. 29/30 do processo originário.
+Quanto ao tema, o art. 272, § 8º, do CPC, primando pelo princípio constitucional da duração razoável do processo, passou a exigir que a parte prejudicada por uma nulidade de intimação pratique antecipadamente o ato que lhe caberia praticar, caso a intimação tivesse sido válida.
+Ao analisar a questão, na hipótese em que a parte interessada limitou-se a alegar a nulidade do processo, abstendo-se de antecipar o ato processual que pretendia praticar, caso a intimação tivesse sido válida, esta Corte Superior reconheceu a preclusão da alegação de nulidade do processo em virtude da inobservância da regra do art. 272, § 8º, do CPC.
+Confira-se a ementa do referido julgado:
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. CPC/2015. ALIENAÇÃO FIDUCIÁRIA. BUSCA E APREENSÃO DE AUTOMÓVEL. ALEGAÇÃO DE NULIDADE DO PROCESSO POR AUSÊNCIA DE INTIMAÇÃO PESSOAL DO DEFENSOR PÚBLICO SOBRE O RETORNO DE CARTA PRECATÓRIA. NECESSIDADE DE ANTECIPAÇÃO DO ATO QUE SERIA PRATICADO. ART. 272, § 8º, DO CPC/2015. CONCREÇÃO DO PRINCÍPIO CONSTITUCIONAL DA DURAÇÃO RAZOÁVEL DO PROCESSO. PRECLUSÃO DA ALEGAÇÃO DE NULIDADE. DOUTRINA SOBRE O TEMA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INOVAÇÃO RECURSAL EM APELAÇÃO. DESCABIMENTO. JURISPRUDÊNCIA PACÍFICA DESTA CORTE SUPERIOR.
+1. Recurso originário de ação de busca e apreensão, ajuizada pelo rito do Decreto-Lei 911/1969, julgada procedente em primeiro e segundo graus de jurisdição.
+2. Alegação de nulidade do processo em virtude da ausência de intimação pessoal do defensor público acerca do retorno da carta precatória destinada à avaliação do veículo.
+3. Nos termos do art. 272, § 8º, do CPC/2015: "A parte arguirá a nulidade da intimação em capítulo preliminar do próprio ato que lhe caiba praticar, o qual será tido por tempestivo se o vício for reconhecido".
+4. Norma que dá concreção ao princípio constitucional da duração razoável do processo, evitando retrocesso da marcha processual para devolução de prazo.
+5. Limitação da possibilidade de anulação do processo para devolução de prazo processual apenas à hipótese de inviabilidade de acesso aos autos pela parte prejudicada (cf. art. 272, § 9º, do CPC/015), circunstância que não ocorreu no caso dos autos.
+6. Caso concreto que a parte interessada limitou-se a alegar a nulidade do processo nas razões da apelação, abstendo-se de já antecipar o ato processual que pretendia praticar, caso a intimação tivesse sido válida.
+7. Preclusão da alegação de nulidade do processo no caso concreto, em virtude da inobservância da regra do art. 272, § 8º do CPC/2015.
+8. Inocorrência de negativa de prestação jurisdicional acerca da alegação de abusividade de cláusulas contratuais, tendo em vista a arguição genérica na contestação.
+9. Inviabilidade de se sanar o vício da alegação genérica nas razões da apelação, em virtude da proibição de inovação recursal.
+10. Jurisprudência pacífica desta Corte Superior.
+11. RECURSO ESPECIAL DESPROVIDO, COM MAJORAÇÃO DE HONORÁRIOS.
+(REsp n. 1.810.925/MG, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 8/10/2019, DJe de 15/10/2019.)
+Da mesma forma, a conclusão do acórdão recorrido, no sentido de que a simples alegação do vício, isoladamente, não enseja a nulidade alegada, se coaduna com o entendimento adotado por este STJ. Incidência da Súmula n. 83 do STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MORTE DO ADVOGADO. SUSPENSÃO DO PROCESSO. DESNECESSIDADE. OUTRO PROCURADOR CONSTITUÍDO. NULIDADE DA INTIMAÇÃO. ART. 272, § 8º, DO CPC/2015. DECISÃO MANTIDA.
+1. A morte do procurador dos agravantes não enseja, no caso, a suspensão do processo, uma vez que a procuração outorgada pela parte também concedia poderes a outro advogado.
+2. "4. Nos termos do art. 272, § 8º, do CPC/2015: "A parte arguirá a nulidade da intimação em capítulo preliminar do próprio ato que lhe caiba praticar, o qual será tido por tempestivo se o vício for reconhecido". 5. Norma que dá concreção ao princípio constitucional da duração razoável do processo, evitando retrocesso da marcha processual para devolução de prazo" (REsp n. 1.810.925/MG, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 8/10/2019, DJe de 15/10/2019).
+3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.002.435/SC, de minha relatoria, Quarta Turma, julgado em 28/11/2022, DJe de 5/12/2022.)
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
+Inicialmente, de acordo com a jurisprudência do STJ, não há ofensa aos arts. 489 e 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível, soluciona integralmente a controvérsia, ainda que de forma diversa daquela pretendida pela parte.
+O acórdão recorrido decidiu, fundamentada e expressamente, acerca da impossibilidade de devolução de prazo para impugnação ao cumprimento de sentença.
+Assim, não há falar em violação dos arts. 489 e 1.022 do CPC.
+Acerca da alegada violação dos arts. 223 e 523 do CPC, o Tribunal de origem, apreciando a irresignação, asseverou que "há disposição expressa no Código de Processo Civil acerca da arguição de nulidade de intimação do patrono da parte, que se trata da hipótese ocorrida no presente caso" (e-STJ fl. 28). Nesse contexto, consignou a aplicação do art. 272, § 8º, do CPC para concluir que, apesar de o vício de intimação apontado, em princípio, ensejar nulidade, a parte executada deixou de arguir a nulidade de intimação em capítulo preliminar do próprio ato que lhe cabia praticar.
+Portanto, o acórdão recorrido encontra-se em harmonia com a jurisprudência desta Corte de que, "nos termos do art. 272, §§ 8º e 9º, do CPC/2015, o ato eventualmente preterido deve ser praticado na própria peça em que se arguir a nulidade da intimação, sendo cabível devolução de prazo apenas na restrita hipótese de inviabilidade de acesso aos autos" (REsp n. 1.810.925/MG, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 8/10/2019, DJe 15/10/2019).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MORTE DO ADVOGADO. SUSPENSÃO DO PROCESSO. DESNECESSIDADE. OUTRO PROCURADOR CONSTITUÍDO. NULIDADE DA INTIMAÇÃO. ART. 272, § 8º, DO CPC/2015. DECISÃO MANTIDA.
+1. A morte do procurador dos agravantes não enseja, no caso, a suspensão do processo, uma vez que a procuração outorgada pela parte também concedia poderes a outro advogado.
+2. "4. Nos termos do art. 272, § 8º, do CPC/2015: "A parte arguirá a nulidade da intimação em capítulo preliminar do próprio ato que lhe caiba praticar, o qual será tido por tempestivo se o vício for reconhecido". 5. Norma que dá concreção ao princípio constitucional da duração razoável do processo, evitando retrocesso da marcha processual para devolução de prazo" (REsp n. 1.810.925/MG, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 8/10/2019, DJe de 15/10/2019).
+3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.002.435/SC, de minha relatoria, Quarta Turma, julgado em 28/11/2022, DJe de 5/12/2022.)
+Assim, no caso dos autos, ao tomar ciência da suposta nulidade consistente na ausência de intimação, a parte ora recorrente, em vez de praticar antecipadamente o ato processual que entendia cabível, optou por suscitar a nulidade, a fim de que fosse renovada a intimação.
+O novo regramento processual da nulidade das intimações, previsto no art. 272, § 8º, do CPC, considera preclusa a preliminar de nulidade de intimação suscitada quando não acompanhada do ato processual que se pretendia praticar, caso a intimação fosse válida.
+Portanto, é de se manter a rejeição de nulidade do processo, tendo em vista a incidência da Súmula n. 83 do STJ.
+Por fim, quanto à tese de violação dos arts. 4º, 5º e 6º do CPC, a decisão ora agravada salientou que os mencionados dispositivos não possuem alcance normativo capaz de afastar a incidência do art. 272, § 8º, do CPC, o que atraiu a Súmula n. 284 do STF.
+Tod avia, nas razões do agravo interno, a parte não refutou o referido entendimento.
+Desse modo, inexistiu impugnação específica a fundamento da decisão agravada, em desobediência ao art. 1.021, § 1º, do CPC.
+Em atenção ao princípio da dialeticidade, cumpre à parte evidenciar, nas razões do agravo interno, o desacerto da decisão agravada, ônus do qual não se desincumbiu.
+Não prosperam, portanto, as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
