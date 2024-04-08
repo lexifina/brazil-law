@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA. IMPOSSIBILIDADE. TEMA REPETITIVO. RETORNO DOS AUTOS. PRECLUSÃO.
+1. Trata-se de Embargos de Declaração opostos a acórdão que aplicou o óbice contido na Súmula 7 do STJ.
+2. Com efeito, os vícios elencados nas razões recursais não prosperam, porquanto a matéria foi integralmente analisada por esta Corte O Recurso foi desprovido com fundamento claro e suficiente, inexistindo omissão, contradição, obscuridade ou erro material no acórdão embargado.
+3. Não há vícios no julgado a requerer reparo. Dessume-se a ausência de Agravo Interno para a conformação do julgado ao Tema 779/STF. Verifica-se a preclusão.
+4. Embargos de Declaração rejeitados.
+RELATÓRIO
+Trata-se de Embargos de Declaração opostos a acórdão assim ementado (fls. 513-522, e-STJ):
+PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÕES AO PIS/PASEP E COFINS NÃO CUMULATIVAS. CREDITAMENTO. CONCEITO DE INSUMOS. ART. 3º, II, DA LEI 10.637/2002 E ART. 3º, II, DA LEI 10.833/2003. PERTINÊNCIA, ESSENCIALIDADE E RELEVÂNCIA AO PROCESSO PRODUTIVO. TEMA JULGADO PELO RECURSO REPRESENTATIVO DA CONTROVÉRSIA RESP 1.221.170-PR. REVISÃO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O STJ, em Recurso Repetitivo, entendeu que o conceito de insumo, para efeito do creditamento relativo às contribuições denominadas PIS e Cofins, deve ser aferido à luz dos critérios da essencialidade ou relevância, considerando-se a imprescindibilidade ou a importância de determinado item - bem ou serviço - para o desenvolvimento da atividade econômica desempenhada pelo contribuinte.
+2. A desconstituição das conclusões a que chegou o acórdão recorrido (acerca da ausência de essencialidade das despesas com comissões com a finalidade de caracterizá-las ou não como insumos na atividade econômica do contribuinte) demandaria o revolvimento do material fático-probatório dos autos, providência vedada na via eleita ante o óbice contido na Súmula 7 do STJ.
+3. Agravo Interno não provido.
+Faço breve digressão. Dessume-se que a ação primordial (2.013) visou o creditamento do PIS/COFINS sobre as despesas com Comissões de Vendas (Leis 10.637/2002 e 10.833/2003).
+A sentença concluiu que "ainda que as regras derivadas de tais leis impliquem eventualmente em exclusão, do sistema de creditamento, de determinados custos de produção e comercialização", "as hipóteses de creditamento previstas nas IN/SRF n. 247/2002 e 404/2004 são taxativas e não implicam restrição do conceito legal de insumo". Rejeitou os pedidos.
+Também o acordão trouxe o entendimento de que "se o legislador quisesse alargar o conceito de insumo para abranger todos os custos de produção, o artigo 3º das Leis 10.637/2002 e 10.833/2003 não traria um rol detalhado de despesas que podem gerar créditos ao contribuinte".
+Os Embargos de Declaração foram acolhidos apenas para fins de prequestionamento.
+O Recurso Especial admitido (REsp 1.511.557/PR) foi devolvido à origem para aguardar a solução no RESP 1.221.170/PR.
+Em novo novo juízo prelibador o Recurso Especial não foi admitido. Fez constar: "para que se possa aferir conceito de insumo à luz dos critérios de essencialidade ou relevância, impõe-se o revolvimento do conjunto-fático probatório, porquanto deve-se analisar detidamente a natureza da atividade econômica desempenhada pelo contribuinte, bem como a imprescindibilidade ou a importância de determinado item para o desenvolvimento desta".
+Dessa decisão foi interposto o Agravo em Recurso Especial, não consta Agravo Interno para a conformação com o julgado repetitivo.
+Em decisão monocrática, conheci do Agravo para não conhecer do Recurso Especial pela incidência da Súmula 7/STJ. O Agravo Interno não foi provido (fls. 513-522, e-STJ)
+ISPL -Indústria Sulamericana de Produtos de Limpeza Ltda. alega:
+Deixou, contudo, de se analisar a questão posta por esse e. STJ, quanto ao teste de subtração para aferição da essencialidade e da relevância do insumo, especialmente porque a questão foi analisada pelo e. TRF-4 no ano de 2014, ou seja, quando ainda inexistente precedente por essa Corte.
+ ..
+No caso, as vendas ocorrem pré-produção, tratando-se de vendas por encomenda, ao que, mediante simples análise casuística, infere-se a imprescindibilidade da representação comercial na atividade econômica desenvolvida pela Embargante. O "teste de subtração" revela a essencialidade e relevância de tal despesa para a cadeia produtiva, eis que necessários à operabilidade da pessoa jurídica.
+No caso presente, a Embargantes se utiliza deste meio comercial para efetivar a produção de seus produtos, pois é realizado um pedido antecipado, ao passo que os bens são confeccionados mediante a encomenda do cliente (intermediada pela venda do representante), ou seja, sem a encomenda antecipada pelos representantes não há possibilidade de efetivação de seu objeto social.
+Ora, para a concretização e finalização das vendas faz-se mister mencionado serviço (que ocorre no início da produção), de modo que as comissões sobre as vendas pagas a estes são essenciais e devem ser consideradas insumos para fins de creditamento.
+Assim, considerando-se que a Apelação e demais vias recursais foram julgadas anteriormente ao ano de 2018 - quando publicada o Tema 779, por esse e. STJ - necessária a determinação de remessa dos autos ao e. TRF-4 para que realize o "teste de subtração".
+É o Relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA. IMPOSSIBILIDADE. TEMA REPETITIVO. RETORNO DOS AUTOS. PRECLUSÃO.
+1. Trata-se de Embargos de Declaração opostos a acórdão que aplicou o óbice contido na Súmula 7 do STJ.
+2. Com efeito, os vícios elencados nas razões recursais não prosperam, porquanto a matéria foi integralmente analisada por esta Corte O Recurso foi desprovido com fundamento claro e suficiente, inexistindo omissão, contradição, obscuridade ou erro material no acórdão embargado.
+3. Não há vícios no julgado a requerer reparo. Dessume-se a ausência de Agravo Interno para a conformação do julgado ao Tema 779/STF. Verifica-se a preclusão.
+4. Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 19 de fevereiro de 2024.
+Os Embargos de Declaração constituem Recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+Assim, verifico que o inconformismo da parte embargante busca emprestar efeitos infringentes, manifestando nítida pretensão de rediscutir o mérito do julgado, o que é incabível nesta via recursal.
+Com efeito, os vícios elencados nas razões recursais não prosperam, porquanto a matéria foi integralmente analisada por esta Corte, conforme se nota deste excerto do acórdão embargado:
+O Apelo não merece prosperar, pois a desconstituição das conclusões a que chegou o acórdão recorrido (acerca da essencialidade ou relevância das despesas com comissões de representantes comerciais com a finalidade de caracterizá-las ou não como insumos na atividade econômica do contribuinte) demandaria o revolvimento do material fático-probatório dos autos, providência vedada na via eleita ante o óbice contido na Súmula 7 do STJ.
+Não há vícios no julgado a requerer reparo. Dessume-se a ausência de Agravo Interno para a conformação do julgado ao Tema 779/STF. Verifica-se a preclusão :
+Consoante a jurisprudência do STJ, "incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, não sendo possível, daí em diante, a apresentação de qualquer outro recurso dirigido a este STJ, sob pena de tornar-se ineficaz o propósito racionalizador implantando pela Lei 11.672/2009 (Questão de Ordem no Ag 1.154.599/SP, Rel. Ministro CESAR ASFOR ROCHA, Corte Especial, DJe de 12/5/2011)" (STJ, AgRg no AREsp 652.000/PB, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 17/06/2015). Da mesma forma, como já sedimentado pelo STJ, em hipótese similar, "é dos tribunais de origem a competência para o exame da admissibilidade de recursos Extraordinário e Especial, bem como para o juízo de adequação da matéria em que foi reconhecida a repercussão geral ou tenha sido eleita como representativa da controvérsia. Nessa esteira, o Agravo Regimental (ou interno) a ser julgado pelos Tribunais Regionais ou de Justiça é o único recurso cabível contra a decisão de inadmissão de Recurso Especial ou Extraordinário a fim de dirimir possíveis equívocos na aplicação dos arts. 543-B ou 543-C do CPC/1973 (art. 1.040 do CPC/2015), e não há previsão para nova interposição do apelo no bre" (STJ, AgInt no REsp 1.900.366/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 01/07/2021)  ..  (trechos extraidos do AgInt no AREsp 1.926.133/DF, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 23/5/2023).
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que a reiteração será considerada expediente protelatório sujeito a multa.
+É como voto.
