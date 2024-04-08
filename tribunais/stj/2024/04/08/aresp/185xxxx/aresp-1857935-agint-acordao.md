@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA C/C INDENIZATÓRIA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. FORNECIMENTO INDIVIDUALIZADO DE GÁS. COBRANÇA POR DÉBITO AUTOMÁTICO. INEXISTÊNCIA DE ILÍCITO POR PARTE DA CONCESSIONÁRIA. REVISÃO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil (CPC), pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. O julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+2. A Corte estadual reconheceu, diante do acervo fático-probatório carreado aos autos, a inexistência de ato ilícito por parte da concessionária, consignando, ainda, que eventual falha no cadastramento do débito automático seria de responsabilidade da instituição financeira. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Incidência da Súmula 7 do Superior Tribunal de Justiça (STJ).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por RODRIGO MARTIN CAMARGO contra a decisão de relatoria do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) assim ementada (fl. 352):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE GÁS. CONTRATAÇÃO COM INDICAÇÃO DE CONTA BANCÁRIA PARA DÉBITO AUTOMÁTICO. FALHA NO CADASTRAMENTO DO DÉBITO AUTOMÁTICO. ADVERTÊNCIA CONTRATUAL CLARA NO SENTIDO DE QUE ERA OBRIGAÇÃO DO CONSUMIDOR CONFERIR O CADASTRO DA AUTORIZAÇÃO NA PRÓPRIA CONTA DE CONSUMO. INÉRCIA DO CONSUMIDOR FRENTE À DÍVIDA. INVIABILIDADE DE ALTERAÇÃO. SÚMULA 7/STJ. AGRAVO EM RECURSO ESPECIAL DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+A parte agravante insiste na alegação de ocorrência de negativa de prestação jurisdicional, afirmando ser desnecessário o reexame de provas, porquanto "a apreciação da norma de direito material não precisa alterar o contexto fático já decidido pelo Tribunal de Justiça do Estado de São Paulo" (fl. 378).
+Requer, por fim, o conhecimento do agravo interno e, consequentemente, o provimento do recurso especial.
+Impugnação apresentada às fls. 385/392.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA C/C INDENIZATÓRIA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. FORNECIMENTO INDIVIDUALIZADO DE GÁS. COBRANÇA POR DÉBITO AUTOMÁTICO. INEXISTÊNCIA DE ILÍCITO POR PARTE DA CONCESSIONÁRIA. REVISÃO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil (CPC), pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. O julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+2. A Corte estadual reconheceu, diante do acervo fático-probatório carreado aos autos, a inexistência de ato ilícito por parte da concessionária, consignando, ainda, que eventual falha no cadastramento do débito automático seria de responsabilidade da instituição financeira. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Incidência da Súmula 7 do Superior Tribunal de Justiça (STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+Não obstante a argumentação expendida nas razões recursais, a parte agravante não trouxe fundamentos hábeis a desconstituir a decisão agravada.
+Cuida-se, na origem, de ação cominatória c/c indenizatória por alegada falha na prestação de serviço de fornecimento individualizado de gás, especificamente, no serviço de cobrança por débito automático. A sentença, mantida pelo Tribunal de origem, julgou improcedente os pedidos.
+Verifico que, de fato, inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro material, omissão, contradição ou obscuridade.
+O Tribunal de origem, no que interessa, reconheceu a inexistência de ato ilícito por parte da concessionária, consignando, ainda, que eventual falha no cadastramento do débito automático seria de responsabilidade da instituição financeira, nos seguintes termos (fls. 211/213):
+Quanto ao mérito, o próprio documento indicado pelo autor, no qual quer escorar a procedência do pedido, é suficientemente claro para permitir o silogismo exatamente oposto.
+Constou do documento de fls. 23 que "O cadastramento deste serviço através do pedido de ligação está disponível para os bancos Santander, Bradesco, Itaú e Banco do Brasil. Os Bancos Caixa Econômica Federal, Citibank, HSBC e Safra também são conveniados, mas para se cadastrar você deverá se dirigir à sua agência bancária levando a última conta de gás.
+Seu cadastramento será confirmado em sua conta de gás com a mensagem "Débito Automático". Para mais informações, ligue Comgás 24hs 0800 110 197". (enfatizei)O recorrente não impugna o teor da conversa transcrita nos autos e que reproduz em sua apelação (fls. 159), na qual ele próprio admite que jogava as constas de consumo de gás fora, sem sequer abrir o envelope.
+Assim, embora oferecida a possibilidade do débito de consumo ser cadastrado como automático em conta corrente, muita clara a informação de que o consumidor deveria se certificar do cadastramento e do êxito na sua inclusão, o que, aliás, é de responsabilidade da instituição financeira.
+ ..
+A hipótese dos autos não configura falha na prestação dos serviços, mas descuido do consumidor com as regras do contrato, que a despeito de permitir o cadastramento de conta para débito, advertia claramente o consumidor da necessidade de conferência da implementação do débito automático junto à instituição financeira, ainda que fosse o Bradesco, o banco indicado. Disso decorre o correto afastamento do pedido de indenização por danos morais, também não configurados.
+Destaco que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+Ademais, alterar o entendimento da Corte estadual, reconhecendo a existência de ilícito por parte da concessionária, conforme pretendido, realmente implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Está correta a incidência da Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito os seguintes julgados deste Tribunal:
+PROCESSUAL CIVIL. AGRAVO INTERNO. DANOS MORAIS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. ÓBICE DA SÚMULA N. 7/STJ.
+1. Trata-se de Agravo Interno contra decisão que não conheceu do Recurso Especial por incidência da Súmula 7/STJ, conforme jurisprudência pacífica do Superior Tribunal de Justiça.
+2. Alterar o entendimento do acórdão pela ausência de dano moral demanda reexame de provas, inviável em Recurso Especial.
+ ..
+4. Agravo Interno não Provido.
+(AgInt no AREsp n. 2.197.639/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/5/2023, DJe de 15/5/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALHA NA PRESTAÇÃO DO SERVIÇO PÚBLICO DE FORNECIMENTO DE ENERGIA ELÉTRICA. VIOLAÇÃO DOS ARTS 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. RAZÕES DISSOCIADAS. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. INCIDÊNCIA DO ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO DO ENTE MINISTERIAL DESPROVIDO.
+ ..
+3. A verificação de suposta falha na prestação do serviço público de fornecimento de energia elétrica em Itaipava-RJ, como pretende o recorrente, demandaria, necessariamente, o reexame de acervo fático-probatório dos autos, o que é vedado em sede de Recurso Especial, à luz do óbice contido na Súmula 7/STJ.
+4. Agravo Interno do ente ministerial desprovido.
+(AgInt no AREsp n. 1.811.189/RJ, relator Ministro Manoel Erhardt - Desembargador Convocado do TRF5 -, Primeira Turma, julgado em 14/2/2022, DJe de 16/2/2022.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
