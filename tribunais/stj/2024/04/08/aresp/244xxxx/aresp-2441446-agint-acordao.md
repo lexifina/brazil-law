@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento do recurso, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. PEDIDO DE EFEITO SUSPENSIVO. INVIABILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. MULTA. ARTIGO 1.021, § 4º, DO CPC. CABIMENTO.
+1. Ação revisional.
+2. Não demonstrada a excepcionalidade, não há que se falar em efeito suspensivo do recurso.
+3. Dissídio jurisprudencial não comprovado, ante a ausência de demonstração da similitude fática e da divergência na interpretação do direito entre os acórdãos confrontados. Precedentes.
+4. A incidência da Súmula n. 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes.
+5. Agravo interno no agravo em recurso especial não provido, com aplicação de multa, nos termos do artigo 1.021, § 4º, do CPC.
+RELATÓRIO
+MINISTRA NANCY ANDRIGHI: Trata-se de agravo interno interposto por PORTOCRED S/A - CRÉDITO, FINANCIAMENTO E INVESTIMENTO (em liquidação extrajudicial) contra decisão singular, desta relatoria (e-STJ fls. 585/588).
+Não foram opostos embargos de declaração.
+Transcorreu in albis o prazo para impugnação, conforme certidão de fl. 653 (e-STJ).
+Ação: revisional ajuizada por ANTONINHA LORECI TIMM DE SOUZA em face da agravante.
+Sentença: julgou procedentes os pedidos formulados pela agravada.
+Acórdão: deu provimento à apelação de ANTONINHA LORECI TIMM DE SOUZA e negou provimento ao recurso de PORTOCRED S/A - CRÉDITO, FINANCIAMENTO E INVESTIMENTO (em liquidação extrajudicial), nos termos da seguinte ementa (e-STJ fl. 256):
+APELAÇÕES. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. POSSIBILIDADE DE REVISÃO CONTRATUAL. É PERMITIDA A REVISÃO DOS CONTRATOS AJUSTADOS ENTRE AS PARTES, INCLUINDO OS RENEGOCIADOS, EXTINTOS, NOVADOS OU QUITADOS (SÚMULA Nº 286/STJ), RESTRINGINDO-SE, TODAVIA, ÀS QUESTÕES ALEGADAS (SÚMULA Nº 381/STJ). PRINCÍPIO DO PACTA SUNT SERVANDA RELATIVIZADO. JUROS REMUNERATÓRIOS. O SUPERIOR TRIBUNAL DE JUSTIÇA, NO JULGAMENTO DO RESP. Nº 1.061.530/RS, SUBMETIDO AO REGIME DOS RECURSOS REPETITIVOS, SEDIMENTOU ENTENDIMENTO DE QUE É CABÍVEL A REVISÃO DA TAXA CONTRATADA APENAS EM SITUAÇÕES EXCEPCIONAIS EM QUE EVIDENCIADA A ABUSIVIDADE DO ENCARGO, UTILIZANDO-SE A TAXA MÉDIA DE MERCADO APURADA PELO BANCO CENTRAL COMO PARÂMETRO E LEVANDO-SE EM CONSIDERAÇÃO A NATUREZA DO CRÉDITO CONCEDIDO E A DATA DA CONTRATAÇÃO. NO CASO EM ANÁLISE, OS JUROS CONTRATADOS EXCEDEM À TAXA MÉDIA DIVULGADA PELO BACEN, O QUE JUSTIFICA A SUA LIMITAÇÃO. DESCARACTERIZAÇÃO DA MORA. DEVE SER AFASTADA A MORA QUANDO FOR VERIFICADA A COBRANÇA DE ENCARGOS ABUSIVOS DURANTE O PERÍODO DA NORMALIDADE CONTRATUAL (RESP Nº 1.061.530/RS), O QUE OCORREU NO CASO EM ANÁLISE. COMPENSAÇÃO E/OU REPETIÇÃO DO INDÉBITO. SEGUNDO ENTENDIMENTO PACÍFICO NO COLENDO STJ, QUE CULMINOU COM A EDIÇÃO DA SÚMULA Nº 322, É CABÍVEL A COMPENSAÇÃO E/OU REPETIÇÃO SIMPLES DO INDÉBITO, INDEPENDENTEMENTE DA PROVA DO ERRO, DEVENDO A COMPENSAÇÃO OBSERVAR O DISPOSTO PELO ART. 369 DO CÓDIGO CIVIL. APELAÇÃO DA PARTE AUTORA PROVIDA E DESPROVIDA A APELAÇÃO DA PARTE RÉ.
+Recurso especial: alegou dissídio jurisprudencial a respeito da interpretação do artigo 51, IV, e § 1º, III, do CDC.
+Decisão monocrática: DEFERIU a gratuidade de justiça à agravante exclusivamente para fins recursais, CONHECEU do agravo e, com fundamento no artigo 932, III, do CPC, NÃO CONHECEU do recurso especial, em razão da (i) não realização do cotejo analítico, a fim de demonstrar que acórdão recorrido e paradigma analisaram situações fáticas similares e chegaram a conclusões jurídicas distintas; (ii) impossibilidade de análise do dissídio jurisprudencial, ante a falta de similitude fática, requisito indispensável à demonstração da divergência; e (iii) inviabilidade de análise do dissídio jurisprudencial, ante a aplicação do verbete sumular n. 7 desta Corte.
+Agravo interno: limita-se a repisar as alegações do recurso especial e do agravo em recurso especial, bem como a inaplicabilidade dos óbices supracitados e, ao final, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, que seja submetida ao pronunciamento do Colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. PEDIDO DE EFEITO SUSPENSIVO. INVIABILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. MULTA. ARTIGO 1.021, § 4º, DO CPC. CABIMENTO.
+1. Ação revisional.
+2. Não demonstrada a excepcionalidade, não há que se falar em efeito suspensivo do recurso.
+3. Dissídio jurisprudencial não comprovado, ante a ausência de demonstração da similitude fática e da divergência na interpretação do direito entre os acórdãos confrontados. Precedentes.
+4. A incidência da Súmula n. 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes.
+5. Agravo interno no agravo em recurso especial não provido, com aplicação de multa, nos termos do artigo 1.021, § 4º, do CPC.
+VOTO
+MINISTRA NANCY ANDRIGHI (Relatora): No recurso especial, fundado no artigo 105, III, "c", da Constituição Federal, a parte agravante apontou violação ao artigo 51, IV, e § 1º, III, do CDC (e-STJ fls. 266/281).
+Alegou que não restou demonstrada a abusividade dos juros remuneratórios a justificar a revisão das cláusulas contratadas.
+Postulou, ao final, pela suspensão do processo e deferimento da justiça gratuita.
+Da análise dos autos, observo que os argumentos desenvolvidos pela parte agravante não infirmam a conclusão da decisão impugnada, razão pela qual o presente recurso não merece prosperar.
+- Do pedido de efeito suspensivo.
+Consoante a jurisprudência desta Corte Superior, o comando previsto no artigo 18 da Lei n. 6.024/1974, segundo o qual a decretação da liquidação extrajudicial produzirá, de imediato, a suspensão das ações iniciadas sobre direitos e interesses relativos ao acervo da entidade liquidanda, não alcança as ações de conhecimento voltadas à obtenção de provimento relativo à certeza e liquidez do crédito.
+Nesse sentido, os seguintes julgados do Superior Tribunal de Justiça: AgInt no REsp n. 1.985.667/ES, Quarta Turma, DJe de 15/8/2022; AgInt no REsp n. 1.783.833/SP, Terceira Turma, DJe de 27/10/2020; AgInt no REsp n. 1.715.032/SC, Terceira Turma, DJe de 3/5/2018; AgInt no REsp n. 1.669.141/MG, Quarta Turma, DJe de 1º/8/2018; e AgInt no AREsp n. 902.085/SP, Quarta Turma, DJe de 6/3/2017.
+Conforme se verifica, a ação revisional de contrato de empréstimo, de que tratam os autos, demanda quantia ilíquida perante esta Corte, razão pela qual não se justifica, por ora, o adiamento do processo.
+- Do dissídio jurisprudencial.
+O recurso especial não pode ser conhecido com fundamento na alínea "c" do inciso III do artigo 105 da Constituição Federal, pois a parte recorrente deixou de proceder ao cotejo analítico entre os acórdãos confrontados, com o escopo de demonstrar que partiram de situações fático-jurídicas idênticas e adotaram conclusões discrepantes, bem como não há similitude fática entre os julgados confrontados, constatando-se, assim, situações fáticas diversas.
+Cumpre ressaltar, ainda, que o recorrente deve transcrever os trechos dos acórdãos que configurem o dissídio, mencionando as circunstâncias dos casos confrontados, sendo insuficiente, para tanto, a mera transcrição de ementas.
+Nesse sentido, guardados os devidos contornos fáticos próprios de cada situação, os seguintes precedentes desta Corte Superior: AgInt nos EREsp n. 1.758.376/RS, Corte Especial, DJe de 2/5/2023; AgRg nos EDcl nos EREsp n. 1.864.512/RS, Corte Especial, DJe de 24/6/2021; REsp n. 1.913.234/SP, Segunda Seção, DJe de 7/3/2023; AgInt nos EAREsp n. 1.418.878/SP, Segunda Seção, DJe de 17/11/2020; AgInt nos EDcl no AgInt no AREsp n. 1.554.652/SP, Terceira Turma, DJe de 1º/6/2023; AgInt no AREsp n. 2.270.652/RS, Terceira Turma, DJe de 17/5/2023; AgInt no REsp n. 1.621.266/MG, Quarta Turma, DJe de 11/5/2023; e AgInt no REsp n. 1.866.876/SP, Quarta Turma, DJe de 12/5/2023.
+Além disso, a incidência da Súmula n. 7 do STJ impede a análise do dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, dada a situação fática do caso, com base na qual o Tribunal de origem deu solução à causa.
+Nesse sentido, guardados os devidos contornos fáticos próprios de cada situação, os seguintes precedentes desta Corte Superior: AgInt no AREsp n. 1.717.057/SP, Terceira Turma, DJe de 23/2/2022; AgInt no AREsp n. 1.214.876/SC, Terceira Turma, DJe de 19/2/2020; AgInt no AREsp n. 2.302.947/RS, Quarta Turma, DJe de 2/6/2023; e AgInt no AREsp n. 2.223.826/RJ, Quarta Turma, DJe de 11/4/2023.
+Dessa forma, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial e, ainda, sendo unânime o julgamento, aplica-se multa de 5% (cinco por cento) sobre o valor atualizado da causa, com fulcro no artigo 1.021, § 4º, CPC.
