@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. AUSÊNCIA DE OMISSÃO. ACÓRDÃO DA REVISÃO CRIMINAL. SUPRESSÃO DE INSTÂNCIA. ACÓRDÃO DA APELAÇÃO. MERA REITERAÇÃO. MANUTENÇÃO DO INDEFERIMENTO LIMINAR. 2. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O embargante se limita a afirmar que não há se falar em supressão de instância, uma vez que a matéria trazida no mandamus foi analisada no recurso de apelação, em 2010. Contudo, o último acórdão proferido pela Corte local foi na revisão criminal, em 2016, não tendo a matéria sido analisada na referida oportunidade.
+- Ainda que assim não fosse, contra o acórdão de apelação já foi manejado perante esta Corte Superior o recurso apropriado, qual seja, o AResp n. 3.613/SC, no qual ficou consignado ser "evidente o intuito de revisão do conjunto fático probatório dos autos, com vistas à absolvição do agravante por suposta insuficiência de prova", o que encontra óbice no enunciado n. 7 da Súmula desta Corte. Dessa forma, quer por supressão de instância, com relação ao acórdão da revisão criminal, quer por ser mera reiteração, com relação ao acórdão da apelação, mantém-se o indeferimento liminar do presente writ.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por RUDA SIMÃO DA SILVA contra acórdão, da minha relatoria, que negou provimento ao agravo regimental e manteve o indeferimento liminar do mandamus por supressão de instância.
+O embargante aduz, em síntese, que não há se falar em supressão de instância, uma vez que a tese de condenação contrária à prova dos autos foi sim examinada na apelação.
+Pugna, assim, pelo acolhimento dos aclaratórios.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. AUSÊNCIA DE OMISSÃO. ACÓRDÃO DA REVISÃO CRIMINAL. SUPRESSÃO DE INSTÂNCIA. ACÓRDÃO DA APELAÇÃO. MERA REITERAÇÃO. MANUTENÇÃO DO INDEFERIMENTO LIMINAR. 2. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O embargante se limita a afirmar que não há se falar em supressão de instância, uma vez que a matéria trazida no mandamus foi analisada no recurso de apelação, em 2010. Contudo, o último acórdão proferido pela Corte local foi na revisão criminal, em 2016, não tendo a matéria sido analisada na referida oportunidade.
+- Ainda que assim não fosse, contra o acórdão de apelação já foi manejado perante esta Corte Superior o recurso apropriado, qual seja, o AResp n. 3.613/SC, no qual ficou consignado ser "evidente o intuito de revisão do conjunto fático probatório dos autos, com vistas à absolvição do agravante por suposta insuficiência de prova", o que encontra óbice no enunciado n. 7 da Súmula desta Corte. Dessa forma, quer por supressão de instância, com relação ao acórdão da revisão criminal, quer por ser mera reiteração, com relação ao acórdão da apelação, mantém-se o indeferimento liminar do presente writ.
+2. Embargos de declaração rejeitados.
+VOTO
+Como é cediço, os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que o acórdão embargado se mostrou ambíguo, obscuro, contraditório ou omisso, conforme disciplina o art. 619 do Código de Processo Penal. A mera irresignação com o entendimento apresentado no acórdão embargado não viabiliza a oposição dos aclaratórios.
+De fato, "os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022). É inadmissível, em regra, a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide". (EDcl nos EAREsp 650.536/RJ, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 26/10/2021, DJe 05/11/2021).
+Na hipótese, o embargante se limita a afirmar que não há se falar em supressão de instância, uma vez que a matéria trazida no mandamus foi analisada no recurso de apelação, em 2010. Contudo, o último acórdão proferido pela Corte local foi na revisão criminal, em 2016, não tendo a matéria sido analisada na referida oportunidade.
+Ainda que assim não fosse, registro que contra o acórdão de apelação já foi manejado perante esta Corte Superior o recurso apropriado, qual seja, o Agravo em Recurso Especial n. 3.613/SC, no qual ficou consignado ser "evidente o intuito de revisão do conjunto fático probatório dos autos, com vistas à absolvição do agravante por suposta insuficiência de prova", o que encontra óbice no enunciado n. 7 da Súmula desta Corte.
+Constata-se, portanto, que além de a matéria já ter sido trazida ao conhecimento desta Corte Superior no recurso próprio, revelando o presente writ mera reiteração, tem-se que a solução da matéria no mandamus esbarria no mesmo obstáculo, porquanto igualmente inviável, em habeas corpus, o revolvimento de fatos e provas.
+Dessa forma, quer por supressão de instância, com relação ao acórdão da revisão criminal, quer por ser mera reiteração, com relação ao acórdão da apelação, mantém-se o indeferimento liminar do presente writ.
+Pelo exposto, rejeito os aclaratórios.
+É como voto.
