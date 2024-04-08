@@ -1,0 +1,107 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por AMPLA ENERGIA E SERVIÇOS S. A. (AMPLA) contra decisão que negou seguimento ao seu apelo nobre anteriormente manejado.
+Foi apresentada contraminuta (e-STJ, fls. 590/596).
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+O inconformismo, no entanto, não merece prosperar.
+Em seu recurso especial, amparado no art. 105, III, a e c, da CF, AMPLA alegou ofensa aos arts. 373, I, 396, 489, § 1º e 1.022, II, todos do NCPC e 186, 402, 403, 884, 885, 886 e 927, todos do CC/2002, além de divergência jurisprudencial. Sustentou que (1) o aresto recorrido foi omisso, porque deixou de apreciar questão relevante ao deslinde da controvérsia; (2) não ficaram comprovados danos; (3) o enriquecimento ilícito é vedado em nosso ordenamento, considerando que não houve comprovação mínima da ocorrência ou da extensão dos alegados lucros cessantes; e, (4) não ficaram demonstrados supostos lucros cessantes.
+Foram apresentadas contrarrazões (e-STJ, fls. 551/556).
+Das alegações de eventual existência de omissão no aresto recorrido e de que não ficaram comprovados danos
+AMPLA alegou ofensa aos arts. 373, II, 396, 489, § 1º e 1.022, II, todos do NCPC e 186 e 927 do CC/2002. Sustentou que (1) o aresto recorrido foi omisso, porque deixou de apreciar questão relevante ao deslinde da controvérsia; e, (2) não ficaram comprovados danos.
+Vale pontuar que, na via estreita do recurso especial, é exigível a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação de dispositivos infraconstitucionais tidos como contrariados ou a alegação genérica de ofensa a lei caracterizam deficiência de fundamentação, em conformidade com a Súmula nº 284 do STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+No presente caso, da leitura das razões do especial, verificou-se que AMPLA não apresentou argumentos claros e concatenados no tocante ao alegado, mas apenas ilações genéricas, pois limitou-se a afirmar que o aresto recorrido ficou omisso, porque deixou de apreciar questão relevante ao deslinde da controvérsia e que não ficaram comprovados danos.
+Sobre o tema, vejam-se os precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ESCRITÓRIO DE ADVOCACIA. FALHA NA PRESTAÇÃO DE SERVIÇO. INEXISTÊNCIA. DANO MORAL.
+AFASTAMENTO. REEXAME DO ACERVO FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. APLICAÇÃO. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. NÃO PROVIDO.
+1. Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016 - Enunciado Administrativo n. 3 -, o regime de recurso será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+2. O entendimento firmado pelo Tribunal de origem, à luz das provas dos autos, no sentido de que não houve falha na prestação de serviço por parte do agravado, bem como o afastamento de indenização por danos morais, não pode ser revisto em Recurso Especial, em face do óbice da Súmula n. 7 do Superior Tribunal de Justiça.
+3. A jurisprudência desta Corte considera que, quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.454.768/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 20/4/2020, DJe 24/4/2020 - sem destaque no original)
+AGRAVO INTERNO EM RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ALEGAÇÃO GENÉRICA A DISPOSITIVOS ALEGADOS COMO VIOLADOS. SÚMULA 284 DO STF. JUROS DE MORA. TERMO INICIAL. DIVIDENDOS VINCENDOS. VENCIMENTO DE CADA PRESTAÇÃO. PRECEDENTE ESPECÍFICO DA TERCEIRA TURMA. AGRAVO INTERNO IMPROVIDO.
+1. A alegação de violação ao art. 1.022 do CPC/2015 não se sustenta, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão da recorrente.
+2. A recorrente limitou-se a sustentar que houve a afronta aos dispositivos legais apontados, não tendo detalhado, de forma clara e precisa, de que maneira o acórdão recorrido os teria violado. Desse modo, impõe-se a incidência do entendimento jurisprudencial expresso no enunciado n. 284 da Súmula do STF.
+3. No mais, a Terceira Turma possui entendimento no sentido de que, nos contratos de participação financeira firmados com empresas de telefonia, apesar de os juros de mora sobre dividendos devidos incidirem, em regra, a partir da citação, as parcelas devidas desde o período compreendido entre a data da citação e a do trânsito em julgado (denominadas vincendas) devem observar as datas dos respectivos vencimentos para que se inicie o cômputo dos juros de mora, pois é desse momento em diante que elas passam a ser exigíveis. Precedente.
+4. Agravo interno improvido.
+(AgInt no REsp 1.845.735/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 30/3/2020, DJe 6/4/2020 - sem destaque no original)
+Da assertiva de ocorrência de enriquecimento ilícito
+AMPLA alegou ofensa aos arts. 885 e 886, todos do CC/2002. Sustentou que o enriquecimento ilícito é vedado em nosso ordenamento, considerando que não houve comprovação mínima da ocorrência ou da extensão dos alegados lucros cessantes.
+Os conteúdos normativos dos dispositivos apontados como contrariados, que versam sobre o enriquecimento sem causa e o cabimento de restituição, não foram debatido e não foram opostos embargos de declaração.
+Assim, não houve o indispensável debate prévio, condição sem a qual fica obstaculizada a via de acesso ao apelo excepcional.
+Inafastável, assim, a incidência da Súmula nº 282 do STF, por analogia, in verbis: É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Sobre o tema, seguem os julgados:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO À SÚMULA. DISPOSIÇÃO QUE NÃO SE ENQUADRA NO CONCEITO DE LEI FEDERAL. DISSÍDIO NOTÓRIO. AUSÊNCIA DE DEMONSTRAÇÃO DO COTEJO ANALÍTICO. OMISSÃO. INEXISTÊNCIA. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A análise do apelo especial fundado em alegado dissídio jurisprudencial deve ser demonstrado nos moldes exigidos pelos artigos 1.029, § 1º do CPC/2015 e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, o que não ocorreu no caso sob análise.
+2. "Não é possível a interposição do Recurso Especial sob a alegação de contrariedade a ato normativo secundário, tais como Resoluções, Portarias, Regimentos, Instruções Normativas e Circulares, bem como a Súmulas dos Tribunais, por não se equipararem ao conceito de lei federal" (REsp 1722614/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 17/04/2018, DJe 23/05/2018)  g.n. .
+3. A ausência de manifestação judicial a respeito da matéria trazida à cognição desta Corte impede sua apreciação na presente via recursal, tendo em vista a falta de prequestionamento, requisito viabilizador do acesso às instâncias especiais. No caso, incidem, por analogia, as Súmulas 282 e 356 do STF.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.494.832/MG, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 18/2/2020, DJe 3/3/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMÓVEL. BEM DE FAMÍLIA. IMPENHORABILIDADE. ALTERAÇÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. DISTRIBUIÇÃO DO ÔNUS DA PROVA FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO INTERNO DESPROVIDO.
+1. A alteração das conclusões adotadas pela Corte de origem quanto à impenhorabilidade de imóvel bem de família demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior.
+2. Se o conteúdo normativo contido no dispositivo apresentado como violado não foi objeto de debate pelo acórdão recorrido, evidencia-se a ausência do prequestionamento, pressuposto específico do recurso especial. Incide, na espécie, o rigor das Súmulas n. 282 e 356 do STF.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.368.197/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 17/2/2020, DJe 19/2/2020)
+Sobre os lucros cessantes
+AMPLA alegou ofensa aos arts. 402 e 403 do CC/2002. Sustentou que não ficaram demonstrados supostos lucros cessantes.
+O Tribunal de Justiça do Rio de Janeiro, soberano na análise do contexto fático-probatório, concluiu pela comprovação dos lucros cessantes (e-STJ, fls. 499/500).
+Dessa forma, conforme se nota, o Tribunal estadual assim decidiu com amparo no contexto fático-probatório da causa, de modo que a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula nº 7 do STJ.
+A propósito, seguem os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO INDENIZATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DO DEMANDANTE.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 1.022 do CPC/15.
+2. Configura-se cerceamento de defesa quando a decisão conclui pela improcedência do pedido por falta de provas, sem que sua produção tenha sido oportunizada. Precedentes.
+2.1. Na hipótese sub judice, o próprio autor considerou dispensável a produção de novas provas além daquelas existentes nos autos.
+3. Rever as conclusões do acórdão impugnado, referentes a comprovação dos lucros cessantes e o valor devido a esse título, demandaria o reexame de matéria fático-probatória, o que é vedado em recurso especial, nos termos da Súmula 7 do STJ. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.373.276/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/10/2023, DJe de 9/11/2023)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. CESSÃO DE TÍTULO PATRIMONIAL. DANOS MATERIAIS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 356/STF. LUCROS CESSANTES NÃO CARACTERIZADOS. DANOS INDIRETOS E HIPOTÉTICOS. SÚMULA 83/STJ. DISTRIBUIÇÃO DA SUCUMBÊNCIA. INVIABILIDADE DE ALTERAÇÃO DAS CONCLUSÕES ALCANÇADAS NA INSTÂNCIA A QUO. SÚMULA 7. AGRAVO DESPROVIDO.
+1. Não enseja a interposição de recurso especial matéria que não tenha sido debatida no acórdão recorrido e sobre a qual não tenham sido opostos embargos de declaração, a fim de suprir eventual omissão. Ausente o indispensável prequestionamento, aplicam-se, por analogia, as Súmulas 282 e 356 do STF.
+2. Os lucros cessantes devem ser efetivamente comprovados, não se admitindo lucros presumidos ou hipotéticos.
+3. A modificação do entendimento lançado no acórdão recorrido quanto à comprovação dos alegados lucros cessantes demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial.
+4. Nos termos da jurisprudência desta Corte, a aferição do percentual em que cada litigante foi vencedor ou vencido, ou a conclusão pela existência de sucumbência mínima ou recíproca das partes, é questão que não comporta exame em recurso especial, por demandar reexame de aspectos fáticos e probatórios.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.124.713/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/5/2023, DJe de 7/6/2023)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO CIVIL COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS 1. LUCROS CESSANTES. COMPROVAÇÃO NOS AUTOS. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. 2. OFENSA AO ART. 944 DO CC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. 3. AGRAVO INTERNO DESPROVIDO.
+1. A modificação da conclusão delineada no acórdão recorrido - a respeito da comprovação dos lucros cessantes - demandaria necessariamente o revolvimento dos fatos e das provas dos autos, atraindo, assim, o óbice disposto na Súmula 7/STJ.
+2. O Tribunal de origem não se manifestou acerca do art. 944 do Código Civil, o que impossibilita o julgamento do recurso neste aspecto, por ausência de prequestionamento, nos termos da Súmula 211/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.196.914/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 6/3/2023, DJe de 13/3/2023)
+Em relação à divergência jurisprudencial
+AMPLA aduziu divergência jurisprudencial.
+Da análise do recurso interposto, é possível verificar que AMPLA outro não cumpriu a tarefa no tocante ao dissídio interpretativo viabilizador do recurso especial, que não foi demonstrado nos termos exigidos pela legislação e pelas normas regimentais.
+Isso porque, além de indicar o dispositivo legal e transcrever os julgados apontados como paradigmas, é necessário realizar o cotejo analítico, demonstrando-se a identidade das situações fáticas e a interpretação diversa dada ao mesmo dispositivo legal, o que não ocorreu.
+Portanto, não foram preenchidos os requisitos dos arts. 1.029, § 1º, do NCPC e 255 do RISTJ, o que inviabiliza o exame de dissídio interpretativo.
+A propósito, confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANO MORAL. DISSÍDIO JURISPRUDENCIAL. NÃO CONFIGURAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.017.293/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/8/2022, DJe de 31/8/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ALEGAÇÃO DE INDEVIDA NEGATIVAÇÃO DO NOME DOS CONSUMIDORES EM ÓRGÃOS DE PROTEÇÃO AO CRÉDITO. PEDIDO INDENIZATÓRIO. FUNDAMENTAÇÃO DEFICIENTE QUANTO À ALEGADA VIOLAÇÃO AOS DISPOSITIVOS ELENCADOS. SÚMULA 284/STF. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIA NÃO COMPROVADO.
+1. A parte recorrente olvidou-se da indicação clara e inequívoca sobre como teria se dado a violação aos arts. 186 e 927 do CC/02 e art. 14 do CDC, o que caracteriza deficiência na fundamentação recursal. Assim, a fundamentação do recurso é deficiente, aplicando-se, por analogia, a Súmula 284 do Supremo Tribunal Federal.
+2. Rever a conclusão a que chegou o Tribunal local, acolhendo a tese da parte recorrente no sentido de que houve configuração de dano moral indenizável, pois a negativação dos nomes dos consumidores se deu de forma indevida, demandaria o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+3. O Tribunal de origem  apesar de opostos embargos declaratórios pela parte Recorrente  não se manifestou acerca dos mencionados argumentos, a demonstrar a ausência de prequestionamento da matéria, indispensável ao conhecimento do recurso especial. Incide, à espécie, o óbice da Súmula 211 do Superior Tribunal de Justiça.
+4. Divergência jurisprudencial deve ser demonstrada com a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados. A simples transcrição de ementas não é suficiente para a comprovação do dissídio. No caso, não houve o devido cotejo entre o acórdão recorrido e os paradigmas indicados.
+AGRAVO DESPROVIDO.
+(AgInt no AREsp n. 2.037.628/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 29/8/2022, DJe de 1º/9/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. PREENCHIMENTO DOS REQUISITOS PARA INVERSÃO DO ÔNUS DA PROVA. CONSTATAÇÃO PELAS INSTÂNCIAS ORDINÁRIAS. REVISÃO. ÓBICE DA SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO INTERNO DESPROVIDO.
+1. Conforme entendimento da Corte Especial do Superior Tribunal de Justiça, "a ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ" (EREsp n. 1.424.404/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe 17/11/2021).
+2. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+3. No caso, concluindo o aresto impugnado pela presença dos elementos ensejadores à inversão do ônus da prova na espécie, descabe ao Superior Tribunal de Justiça rever o entendimento alcançado, pois se exige, para tanto, o reexame do conteúdo fático-probatório da causa, o que é vedado pela Súmula n. 7/STJ, no âmbito do recurso especial.
+4. Não se revela cognoscível a irresignação deduzida por meio da alínea c do permissivo constitucional, porquanto a recorrente não demonstrou a divergência nos moldes exigidos pelos arts. 1.029, § 1º, do CPC/2015 e 255, §§ 1º e 2º, do RISTJ. A mera transcrição de ementas e excertos, desprovida da realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea c do permissivo constitucional.
+5. O mero não conhecimento ou a improcedência do agravo interno não enseja a necessária imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, tornando-se imperioso para tal que seja nítido o descabimento do recurso, o que não se verifica no caso concreto.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.092.111/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/8/2022, DJe de 18/8/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. VIOLAÇÃO DO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AUSÊNCIA DE COTEJO ANALÍTICO. CORREÇÃO MONETÁRIA. SÚMULA 5 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há violação do art. 535 do CPC/73 quando o eg. Tribunal estadual aprecia a controvérsia em sua inteireza e de forma fundamentada.
+2. Para a caracterização da divergência jurisprudencial, não basta a simples transcrição de ementas. Devem ser mencionadas e expostas as circunstâncias que identificam ou assemelham os casos confrontados, sob pena de não serem atendidos, como na hipótese, os requisitos previstos nos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ.
+3. Não é possível alterar o entendimento da Corte de origem quanto ao valor da correção monetária, mormente porque a referida análise foi realizada com base no instrumento contratual, incidindo, no ponto, a Súmula 5 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.005.410/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/8/2022, DJe de 26/8/2022)
+Nessas condições, CONHEÇO do agravo, mas NÃO CONHEÇO do recurso especial.
+Considerando a aplicabilidade do NCPC, MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor de AMPLA , nos termos do art. 85, §§ 2º e 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. FUNDAMENTAÇÃO DEFICIENTE. ILAÇÕES GENÉRICAS. APLICAÇÃO DA SÚMULA N.º 284 DO STF, POR ANALOGIA. TEMAS NÃO DEBATIDOS. PREQUESTIONAMENTO. AUSÊNCIA. INCIDÊNCIA DA SÚMULA N.º 282 DO STF. LUCROS CESSANTES. COMPROVAÇÃO. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. APLICAÇÃO DA SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO NOS MOLDES LEGAIS. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
