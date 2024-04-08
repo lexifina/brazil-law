@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS (19,9 G DE COCAÍNA E 98,7 G DE CRACK ). PRETENSÃO DE DESCLASSIFICAÇÃO PARA O DELITO DE POSSE DE ENTORPECENTES PARA USO PESSOAL (ART. 28 DA LEI N. 11.343/2006). IMPOSSIBILIDADE. REVOLVIMENTO PROBATÓRIO. ILEGALIDADE MANIFESTA. AUSÊNCIA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática que indefere liminarmente a inicial, quando verificada a utilização indevida da via eleita para revisar condenação transitada em julgado, o que afasta a competência desta Corte Superior para análise do pleito.
+2. Ademais, não demonstrado constrangimento ilegal apto a subsidiar concessão de ordem de ofício, pois devidamente comprovada a materialidade do delito de tráfico de drogas, concluir de forma diversa das instâncias ordinárias demandaria reexame probatório, providência vedada na via eleita.
+3. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental  (Petição  n.  969.743/2023),  tempestivo,  interposto  por  Julio Cesar Ferreira  contra a decisão de lavra deste Relator, que indeferiu liminarmente a impetração (fls. 763/764), a seguir ementada:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. TRÁFICO DE DROGAS (19,9 G DE COCAÍNA E 98,7 G DE CRACK). PRETENSÃO DE DESCLASSIFICAÇÃO PARA O DELITO DE POSSE DE ENTORPECENTES PARA USO PESSOAL (ART. 28 DA LEI N. 11.343/2006). IMPOSSIBILIDADE. REVOLVIMENTO PROBATÓRIO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
+Pretende o agravante, em síntese, a reforma da decisão hostilizada, com a desclassificação do delito para aquele previsto no art. 28 da lei 11.343/2006 (fl. 778), ao argumento de que não há certeza plena acerca da prática do tráfico de drogas, de sorte que se torna inviável a condenação por tal delito (fl. 778).
+Em sua impugnação, o Ministério Público de Santa Catarina requereu o não provimento do recurso, apontando que, diferentemente do alegado pela defesa, restou comprovada, a partir da ampla e exaustiva análise dos elementos de prova, a responsabilidade penal do Agravante pela prática do crime de tráfico de drogas (fl. 801).
+A seu turno, o Ministério Público Federal se limitou a reiterar parecer anteriormente ofertado (fl. 790).
+É o relat ório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS (19,9 G DE COCAÍNA E 98,7 G DE CRACK ). PRETENSÃO DE DESCLASSIFICAÇÃO PARA O DELITO DE POSSE DE ENTORPECENTES PARA USO PESSOAL (ART. 28 DA LEI N. 11.343/2006). IMPOSSIBILIDADE. REVOLVIMENTO PROBATÓRIO. ILEGALIDADE MANIFESTA. AUSÊNCIA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática que indefere liminarmente a inicial, quando verificada a utilização indevida da via eleita para revisar condenação transitada em julgado, o que afasta a competência desta Corte Superior para análise do pleito.
+2. Ademais, não demonstrado constrangimento ilegal apto a subsidiar concessão de ordem de ofício, pois devidamente comprovada a materialidade do delito de tráfico de drogas, concluir de forma diversa das instâncias ordinárias demandaria reexame probatório, providência vedada na via eleita.
+3. Agravo regimental improvido.
+VOTO
+A decisão repreendida - que manteve a condenação do agravante a 4 anos e 2 meses de reclusão, e 400 dias-multa, por tráfico de drogas (19,9 g de cocaína e 98,7 g de crack - fl. 288), proferida na Ação Penal n. 023.07.080821-2 (fls. 558/564) da 2ª Vara Criminal da comarca de Florianópolis/SC - não comporta reparos.
+Primeiro, por se tratar de utilização indevida da via eleita para revisar condenação transitada em julgado em 6/3/2008 (fl. 683) - sendo tal matéria não conhecida da revisão criminal (fl. 19) -, o que afasta a competência desta Corte Superior para análise do pleito.
+Ademais, não demonstrado constrangimento ilegal apto a subsidiar concessão de ordem de ofício, pois devidamente comprovada a materialidade do delito de tráfico de drogas - nos termos da sentença: não há que falar que a enorme quantidade de droga encontrada com os acusados era destinada a uso próprio. Como bem se sabe, a cocaína costuma ser misturada a diversas outras substâncias  bicarbonato de sódio, amoníaco, caco de vidro, talco  tanto para render maior quantidade, quanto para transformá-la em crack. Se transformada em crack, um grama de cocaína rende até sete gramas de crack, vindo daí o lucro dos traficantes. No caso, foram encontrados 19,9 g de cocaína e 98,7 g de cocaína, em sua forma básica, 41 conhecida como crack (fl. 561) -, concluir de forma diversa das instâncias ordinárias demandaria reexame probatório, providência vedada na via eleita (AgRg no HC n. 766.850/SP, Ministro Jesuíno Rissato, Desembargador convocado do TJDFT, Sexta Turma, DJe 30/3/2023).
+Em razão disso, nego provimento ao agravo regimental.
