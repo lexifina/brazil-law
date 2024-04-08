@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido de liminar, interposto por CLAUDE HENRI MICHEL em face de acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Autos nº 2284834-15.2023.8.26.0000).
+O habeas corpus apresentado pela defesa foi denegado por meio de acórdão assim ementado (e-STJ fl. 342):
+HABEAS CORPUS FALSIFICAÇÃO DE DOCUMENTO PÚBLICO TRANCAMENTO DO INQUÉRITO POLICIAL AUSÊNCIA DE JUSTA CAUSA FATO TÍPICO E ANTIJURÍDICO. A simples instauração de inquérito policial não caracteriza constrangimento ilegal reparável via habeas corpus, pois se trata de peça meramente informativa, destinada a apurar a autoria de infrações penais, comprovar a materialidade e formar a opinio delicti do Ministério Público. ORDEM DENEGADA.
+A defesa alega, em síntese, excesso de prazo na finalização do inquérito policial.
+Requer, liminar e definitivamente, o deferimento da ordem para obter o arquivamento da diligência investigativa.
+É o relatório.
+Decido.
+A análise das razões recursais indica o mero revolvimento da argumentação lançada anteriormente, a indicar a incidência do óbice previsto na Súmula 182 do STJ (É dever do agravante infirmar as razões da decisão agravada. Inadmissível o recurso quando não ataca os argumentos em que se embasou a decisão impugnada.)
+Ademais, a matéria relativa ao trancamento do inquérito e ao excesso de prazo não foi apreciada no acórdão impugnado, que assim afirmou: "A defesa do paciente requereu o trancamento do inquérito policial, com base na argumentação de ter ocorrido a desistência da representação pelos ofendidos em um acordo judicial (fls. 1.935 dos autos de origem), mas tal questão não foi apreciada pelo Ministério Público ou decidida pelo Juízo de primeiro grau até a presente data. No que se refere ao suposto excesso de prazo, sequer foi apresentada essa alegação em primeiro grau pela defesa do paciente." (e-STJ Fl.345)
+Assim, para não incorrer em supressão de instância, esta Corte não pode conhecer do tema.
+Além disso, a concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que não se verifica de plano na hipótese dos autos, conforme se obtém da fundamentação lançada na origem sobre a controvérsia (e-STJ fls. 346):
+Outrossim, para que não se alegue cerceamento de defesa, não é demais consignar, somente a título de conhecimento, que a simples instauração de inquérito policial não caracteriza constrangimento ilegal reparável pela via do habeas corpus, pois que se trata de peça meramente informativa, destinada a apurar a autoria de infrações penais, comprovar a materialidade e formar a opinio delicti do Ministério Público.
+De fato, o trancamento da ação penal em sua fase embrionária é providência excepcionalíssima, submetida à existência de "inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito" (AgRg no HC 843621 / PR, Ministro RIBEIRO DANTAS, QUINTA TURMA, DATA DO JULGAMENTO 18/12/2023, DATA DA PUBLICAÇÃO/FONTE DJe 20/12/2023), elementos inexistentes nos autos.
+Ademais, certo é que "A teor da jurisprudência desta Corte, os prazos para a finalização do inquérito são impróprios e devem ser sopesados conforme a complexidade dos fatos e as demais circunstâncias que explicariam a dilatação das investigações. (HC 867166 / SC, RELATOR Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DATA DO JULGAMENTO 06/02/2024, DATA DA PUBLICAÇÃO/FONTE DJe 19/02/2024)
+Ante o exposto, não conheço do presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
