@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de habeas corpus, impetrado em favor de ARLESON VALES DE MORAES em que se aponta como ato coator a decisão monocrática de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAPÁ que denegou o pedido de liminar formulado no HC n. 0001166-72.2024.8.03.0000.
+Consta dos autos a prisão preventiva do paciente, decorrente da suposta prática do delito capitulado no art. 317, § 1º, do CP, termos em que denunciado.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal em razão de cerceamento de defesa ocasionada pelo fato de os autos se encontrarem com acesso restrito, o que impede de verificar as razões da restrição da liberdade do paciente. Isso, segundo o impetrante, representa violação à Súmula V inculante 14 do STF.
+Ademais, ressalta os predicados pessoais favoráveis do paciente e defende que não estão presentes os requisitos autorizadores da medida extrema, previstos no art. 312 do CPP, motivo pelo qual se revelam suficientes e adequadas as medidas cautelares elencadas no artigo 319 do aludido diploma legal.
+Além disso, ressalta a desnecessidade da prisão, pois, se condenado, o regime que seria fixado para eventual cumprimento de pena seria diverso do fechado.
+Requer, assim, liminarmente e no mérito, o relaxamento da prisão preventiva ou a sua revogação, ainda que mediante a aplicação das medidas cautelares não prisionais.
+É, no essencial, o relatório. Decido.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA n. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2.  ..
+3.  ..
+4. A demora ilegal não resulta de um critério aritmético, mas de aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo injustificado na prestação jurisdicional.
+5.  ..
+6. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+In casu, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, as decisões de origem não se revelam teratológicas.
+Isso porque, compulsando os autos, verifica-se que a prisão tem por base a necessidade de garantia da ordem pública, em razão de o paciente ser, em tese, integrante de organização criminosa, conforme se extrai da seguinte fundamentação adotada na origem:
+A materialidade dos cri mes, bem como os indícios de autoria, estão demonstrados pelas investigações retratadas nos documentos que acompanham o pedido, notadamente pelo minucioso Relatório trazido pela autoridade policial, onde demonstra a gravidade da conduta do representado Arleson Vales de Morais, que ao invés de exercer suas função para a qual fora nomeado e garantir que elementos de alta periculosidade permanecessem incomunicáveis, tudo indica que preferiu contribuir com o crime organizado e dele fazer parte, garantindo que membros de conhecida facção criminosa continuassem a se comunicar de dentro do Instituto de Administração Penitenciária com membros que se encontram espalhados pelo Estado do Amapá, e de lá executarem ordens para o cometimentos de graves crimes, transportando e fazendo adentrar na penitenciária do estado, dispositivos eletrônicos que permitem a fácil e rápida comunicação entre membros da quadrilha colocando assim em risco a ordem pública e justificando a decretação da custódia preventiva em razão do grande risco que sua conduta representa para a sociedade.
+O representado Arleson Vales de Morais, pelo que se observa do vídeo existente, tem fundamental participação para a manutenção da situação caótica, e diria até insustentável do crime organizado, que consegue comandar a criminalidade, mesmo estando seus lideres encarcerados, portanto, a medida extrema da prisão preventiva, se afigura como imprescindível, não só para salvaguardar a já conturbada ordem pública e paz social, mas também para garantir a instrução criminal (fls. 92-93, grifo meu).
+Pois bem. Apura-se dos autos que o paciente encontra-se, em tese, envolvido em crimes de corrupção passiva e organização criminosa, operando com outros agentes para possibilitar a entrada de produtos ilícitos no Instituto de Administração Penitenciária do Estado do Amapá  IAPEN em benefício de internos que cumprem pena no regime fechado, o que faz valendo-se das facilidades decorrentes do cargo que ocupa como agente penitenciário.
+A conduta, nada obstante sem violência ou ameaça, é de elevada gravidade, considerando a função por ele desempenhada e as finalidades do sistema prisional. Portanto, neste momento, não vejo razões para colocar o paciente em liberdade (fl. 110, grifo meu).
+Ademais, segundo alguns julgados do STJ, apresenta-se inviável a análise da ofensa ao princípio da homogeneidade em habeas corpus dada a impossibilidade de se antever a pena e o regime inicial de cumprimento a serem fixados na sentença condenatória.
+Quanto ao mais, trata-se de matéria sensível e que demanda maior reflexão, sendo prudente, portanto, aguardar o julgamento definitivo do habeas corpus impetrado no tribunal de origem antes de eventual intervenção desta Corte Superior.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
