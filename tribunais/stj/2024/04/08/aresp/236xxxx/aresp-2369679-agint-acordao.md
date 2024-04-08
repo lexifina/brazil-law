@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO APELO EXTREMO. ARTS. 932, III, DO CPC E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA N. 182 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, específica e motivada de todos os fundamentos da decisão que inadmite recurso especial, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ.
+2. Agravo interno desprovido.
+RELATÓRIO
+OWENS-ILLINOIS DO BRASIL INDÚSTRIA E COMÉRCIO LTDA. interpõe agravo interno contra julgado que não conheceu do agravo em recurso especial diante da aplicação analógica da Súmula n. 182 do STJ, porquanto não foram impugnados todos os fundamentos da inadmissão do recurso especial (fls. 5.634-5.637).
+No presente recurso, a parte agravante alega que a decisão de admissibilidade é nula, pois "tal decisão é desprovida de qualquer fundamentação válida, posto que pode ser utilizada para obstar qualquer recurso interposto na origem" (fl. 5.644), de maneira que "ainda que se admita a possibilidade de o Tribunal a quo adentrar ao mérito do recurso especial para realizar o juízo de admissibilidade, é evidente que deve fazê-lo de forma fundamentada e não genérica, como determina a legislação processual vigente" (fl. 5.645).
+Aduz que "impugnou de forma específica e fundamentada todos os fundamentos da r. decisão agravada, inexistindo a indicada impugnação genérica" (fl. 5.645).
+Sustenta que o debate trazido aos autos não importa em reexame fático-probatório, sendo apenas matéria de direito, não incidindo, assim o óbice da Súmula n. 7 do STJ, ressaltando que, "do cotejo entre o conteúdo do v. acórdão recorrido e do dispositivo infraconstitucional flagrantemente vulnerado, notadamente respondendo a seguinte questão: é possível a retenção de valores para compensação de prejuízos decorrentes do descumprimento do pagamento das obrigações trabalhistas na forma da lei e do contrato de prestação de serviços, que impuseram a condenação judicial da Agravante em inúmeras ações trabalhistas, como autorizam os artigos 368, 369 e 476 do CC " (fl. 5.646).
+Requer a reforma da decisão para que o recurso especial seja conhecido e provido.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO APELO EXTREMO. ARTS. 932, III, DO CPC E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA N. 182 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, específica e motivada de todos os fundamentos da decisão que inadmite recurso especial, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ.
+2. Agravo interno desprovido.
+VOTO
+A irresignação não reúne condições de prosperar.
+O recurso especial apresentado pela parte ora agravante foi inadmitido pelas razões seguintes: não demonstração de violação dos arts. 368, 369 e 476 do Código Civil; incidência da Súmula n. 7 do STJ; e ausência de comprovação do dissenso jurisprudencial.
+Interposto agravo em recurso especial contra a decisão do Tribunal a quo, o recurso não foi conhecido em face de a parte deixar de impugnar adequadamente todos os fundamentos da decisão então agravada.
+Ressalte-se que, para afastar a incidência da Súmula n. 7 do STJ, não basta a parte sustentar genericamente que a análise de seu apelo extremo demanda apenas apreciação de normas legais e prescinde do reexame de provas.
+Caberia à parte agravante, nas razões do agravo em recurso especial, demonstrar que a análise das teses jurídicas que envolvem os dispositivos apontados como violados - arts. 368, 369 e 476 do CC - não demandaria reexame de fatos e provas dos autos, o que não ocorreu.
+Além disso, segundo entendimento desta Corte, "a alegação genérica de que o tema discutido no recurso especial representa matéria de direito (incluídas aí as hipóteses de qualificação jurídica dos fatos e valoração jurídica das provas), e não fático-probatória, não é apta a impugnar, de modo específico, o fundamento da decisão atacada. Ao revés, deve a parte agravante refutar o citado óbice mediante a exposição da tese jurídica desenvolvida no recurso especial e a demonstração da adoção dos fatos tais quais postos nas instâncias ordinárias" (AgInt no AREsp n. 1.969.273/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/12/2021, DJe de 16/12/2021).
+No mesmo sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A decisão ora recorrida não conheceu do agravo em razão da não impugnação aos fundamentos da decisão que inadmitiu o recurso especial na origem, notadamente quanto à incidência da Súmula 7 do STJ e à ausência de comprovação da divergência jurisprudencial. Em razão disso, consignou-se a incidência da Súmula 182 do STJ.
+2. A parte, para ver seu recurso especial inadmitido ascender a esta Corte, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de seguimento daquele recurso, sob pena de vê-los mantidos.
+3. É mister repetir que as razões demonstrativas do desacerto da decisão agravada devem ser veiculadas imediatamente nessa oportunidade, pois convém frisar não ser admitida fundamentação a destempo, a fim de inovar a justificativa para ascensão do recurso excepcional, diante da preclusão consumativa.
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial.
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt, Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, específica e motivada, o que não ocorreu na espécie. Confiram-se os seguintes julgados: AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022; e AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Assim, tendo em vista que, no julgamento dos EAREsp n. 746.775/PR, em 19/9/2018, a Corte Especial do Superior Tribunal assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a manutenção da incidência, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Portanto, a parte agravante não logrou êxito em apresentar argumentos suficientes que justificassem a alteração da decisão agravada, que deve ser mantida por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
