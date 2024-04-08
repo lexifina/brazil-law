@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO APELO NOBRE.
+INSURGÊNCIA DA DEMANDADA.
+1. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, impõe a incidência da Súmula 283/STF
+2. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Trata-se de agravo interno interposto por ASSOCIACAO PETROBRAS DE SAUDE - APS em face da decisão acostada às fls. 799-801 e-STJ, da lavra deste relator, que não conheceu do recurso especial.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 639-671 e-STJ, proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER E INDENIZAÇÃO - PLANO DE SAÚDE - PACIENTE DIAGNOSTICADA COM FIBROMIALGIA, DEPRESSÃO E SÍNDORME DO PÂNICO - DOENÇAS COBERTAS PELO CONTRATO - MEDICAMENTO IMPORTADO À BASE DE CANABIDIOL - AUSÊNCIA DE PREVISÃO NO ROL DA ANS - ATENDIMENTO AO CONCEITO DE SAÚDE BASEADA EM EVIDÊNCIAS (SBE) DO ROL EXEMPLIFICATIVO COM CONDICIONANTES - REQUISITO PREVISTO NA LEI N. 14.454/2022 PREENCHIDO - INEXISTÊNCIA DE REGISTRO NA ANVISA (TEMA 990) DISTINÇÃO DA HIPÓTESE CONCRETA - AUTORIZAÇÃO DE IMPORTAÇÃO CONCEDIDA PELA ANVISA - PRECEDENTE DO STJ - INDEVIDA NEGATIVA DE COBERTURA - DANO MORAL NÃO CONFIGURADO. O e. STJ definiu, no julgamento do EREsp n.1.886.929/SP, de relatoria do Ministro Luis Felipe Salomão, realizado em 08/06/2022, que o rol de procedimentos de saúde estabelecido pela ANS é taxativo, de modo que a operadora de plano de saúde, via de regra, só está obrigada a arcar com os procedimentos nele contidos e no contrato firmado entre as partes. A título de exceção (rol taxativo mitigado), o e. STJ estabeleceu a possibilidade de se fornecer judicialmente o tratamento de saúde, embora não previsto no rol da ANS, desde que não tenha sido indeferido previamente pela Agência Nacional de Saúde (ANS), que haja comprovação da eficácia do tratamento, que exista recomendação de órgãos técnicos nacionais ou internacionais e, por último, que seja realizado, sempre que possível, o diálogo do magistrado com os entes e pessoas com expertise técnica na área de saúde. A Lei n. 14.454, de 2022, em certa medida, restaurou a tese do rol exemplificativo da ANS, estabelecendo, todavia, condicionantes para a cobertura pelas operadoras de plano de saúde dos tratamentos não listados no referido rol, entre os quais também foi elencado o critério da comprovação da eficácia à luz das ciências da saúde baseada em evidências (SBE). Constatada, na prática, a eficácia científica do uso da substância prescrita no tratamento da paciente, a hipótese atende ao conceito de saúde baseada em evidencias (SBE) do rol taxativo exemplificativo com condicionantes. O e. STJ firmou compreensão de que "as operadoras de plano de saúde não estão obrigadas a fornecer medicamento não registrado pela ANVISA" (Tema 990). "A autorização da ANVISA para a importação do medicamento para uso próprio, sob prescrição médica, é medida que, embora não substitua o devido registro, evidencia a segurança sanitária do fármaco, porquanto pressupõe a análise da Agência Reguladora quanto à sua segurança e eficácia, além de excluir a tipicidade das condutas previstas no art. 10, IV, da Lei 6.437/77, bem como nos arts. 12 c/c 66 da Lei 6.360/76", mostrando-se necessária a "realização da distinção (distinguishing) entre o entendimento firmado no precedente vinculante e a hipótese concreta dos autos, na qual o medicamento prescrito à beneficiária do plano de saúde, embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (STJ, REsp n. 2.019.618/SP). A recusa de fornecimento do medicamento embasada na ausência de cobertura contratual/legal sem prova de constrangimento concreto, abalo efetivo decorrente de agravamento do estado de saúde não ampara pretensão indenizatória, pois a situação traduz mero aborrecimento. Recurso parcialmente provido.
+Opostos embargos declaratórios (fls. 674-677 e-STJ), restaram desacolhidos na origem (fls. 691-695 e-STJ).
+Nas razões do especial (fls. 695-710 e-STJ), a insurgente alega violação aos artigos 188 e 421 do CC, 10, inc. VI, e § 13 da Lei n. 9.656/98, aduzindo a inexistência de dever de fornecimento do medicamento de uso domiciliar e não previsto no rol da ANS.
+Transcorrido o prazo para contrarrazões (fl. 786 e-STJ), o apelo extremo foi admitido na origem (fls. 788-791 e-STJ).
+Em julgamento monocrático, não se conheceu do reclamo, por óbice da Súmula 283/STF.
+Inconformada, interpôs o presente agravo interno (fls. 806-816 e-STJ), em síntese, sustentando a inaplicabilidade do óbice.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO APELO NOBRE.
+INSURGÊNCIA DA DEMANDADA.
+1. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, impõe a incidência da Súmula 283/STF
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte recorrente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida, por seus próprios fundamentos.
+1. O recurso especial é inadmissível por não ter infirmado fundamento central do acórdão recorrido.
+Segundo os autos, a Corte de origem reformou parcialmente a sentença que havia julgado procedente a demanda ajuizada pela ora agravada.
+Essencialmente, o Tribunal a quo afastou a indenização por danos morais, mas manteve o dever de fornecimento do medicamento pleiteado.
+Extrai-se do acórdão recorrido:
+A alegação de recente parecer da ANS desobrigando os Planos de Saúde ao fornecimento de produto a base de canabis para uso domiciliar não restou comprovada, mesmo porque embasada em meras notícias relativas à taxatividade do rol de procedimentos obrigatórios editados pela Autarquia, ora mitigado. Além disso, o Plano de saúde não afirmou e nem provou ausência de cobertura contratual de medicamento para uso domiciliar. Pelo contrário, trata-se de plano de saúde diferenciado, completo, que oferece assistência farmacêutica nas formas de custeio integral ou coparticipação (cláusula 33ª) (ordem n.31).
+ ..
+A discussão tratada nos autos, todavia, se refere a medicamento a base de canabidiol, inexistindo, neste aspecto, previsão expressa acerca de coparticipação da beneficiária do Plano.
+Pelo contrário, o mesmo Regulamento prevê assistência farmacêutica com subsidio integral para "medicamento de cobertura obrigatória pela ANS e medicamentos com custo unitário a partir de R$5.000,01" conforme se extrai da "Seção I A - Benefício Farmácia, sobretudo Tabela I - Contribuição do Benefício Farmácia" (ordem n.31, pp.12-13).
+Portanto, na hipótese específica, a Apelante deve custear na integralidade o medicamento indicado para tratamento de doenças Fl. 17/33 psiquiátrica (depressão e síndrome do pânico) e neurológica (fibromialgia) cujo orçamento previsto está em torno de R$123.000,00 ao ano, segundo consta na inicial, e considerando, ainda, atendimento ao conceito de saúde baseada em evidências (SBE) do rol exemplificativo com condicionantes nos termos concertados.
+A insurgente limitou-se, em seu apelo nobre, a afirmar, genericamente, que inexiste cobertura contratual, bem como que o medicamento não está contemplado dentre as coberturas obrigatórias previstas em lei.
+Todavia, deixou de infirmar, de forma específica, os fundamentos acima destacados - que levaram à Corte de origem a concluir ser devida, no caso específico, a cobertura, diante da contratação de assistência farmacêutica com subsídio integral.
+Incidente, portanto, o óbice da Súmula 283/STF.
+Ademais, derruir a conclusão das instâncias de origem, acerca da previsão contratual específica, encontra óbice na Súmula 5/STJ.
+É de rigor, portanto, a manutenção da decisão agravada.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
