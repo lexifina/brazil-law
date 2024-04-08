@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. INCIDÊNCIA DA SÚMULA Nº 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A hipótese atrai a incidência da Súmula nº 182/STJ, que considera inviável o conhecimento do agravo regimental que deixa de atacar especificamente os fundamentos da decisão agravada. No caso em apreço, não foram apresentados fatos novos ou elementos aptos a desconstituir a decisão impugnada, o que inviabiliza o conhecimento da insurgência.
+2. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental contra decisão monocrática que não conheceu do habeas corpus (e-STJ fls. 181-184).
+A defesa alega, em suma, que: a) "no caso em apreço a motivação utilizada pela corte a quo, para não aplicar o redutor previsto no parágrafo 4º, do artigo 33 da Lei 11.343/2006, foi totalmente inidôneo, tanto que se respaldou na quantidade e variedades de drogas apreendidas, e ainda, de que o paciente possuía anotações quando menor"(e-STJ fl. 190); e b) "as instâncias ordinárias não apresentaram fundamentação idônea para justificar a não aplicação do tráfico privilegiado previsto no art. 33, § 4º da Lei de Drogas, eis que todas as circunstâncias judicias do artigo 59 do Código Penal foram consideradas favoráveis ao paciente, não ficando claro o motivo que levou a não aplicação da redução do parágrafo 4º, do artigo 33 da lei 11.343/2006 em seu grau máximo"(e-STJ fl. 203).
+Requer a reconsideração da decisão agravada ou o provimento ao recurso para que seja redimensionada a sua pena, e ainda, com a progressão ao regime aberto.
+Contrarrazões apresentadas (e-STJ fls. 217-221).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. INCIDÊNCIA DA SÚMULA Nº 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A hipótese atrai a incidência da Súmula nº 182/STJ, que considera inviável o conhecimento do agravo regimental que deixa de atacar especificamente os fundamentos da decisão agravada. No caso em apreço, não foram apresentados fatos novos ou elementos aptos a desconstituir a decisão impugnada, o que inviabiliza o conhecimento da insurgência.
+2. Agravo regimental não conhecido.
+VOTO
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida.
+No entanto, não constato elementos suficientes para reconsiderar o julgamento monocrático, ou prover o presente recurso, uma vez que a decisão agravada assim dispôs:
+Do excerto acima transcrito, verifica-se que a aplicação do benefício previsto no § 4º do art. 33 da Lei n. 11.343/2006 em favor do paciente foi afastada com base na existência de diversos de atos infracionais prévios. Quanto ao tema, a Terceira Seção, por ocasião do julgamento Embargos De Divergência em Recurso Especial n. 1.916.596/SP, realizado em 8/9/2021, firmou entendimento segundo o qual "o histórico infracional pode ser considerado para afastar a minorante prevista no art. 33, § 4.º, da Lei n. 11.343/2006, por meio de fundamentação idônea que aponte a existência de circunstâncias excepcionais, nas quais se verifique a gravidade de atos pretéritos, devidamente documentados nos autos, bem como a razoável proximidade temporal de tais atos com o crime em apuração". Dessa forma, não se pode dizer que houve constrangimento ilegal, pois, entendendo que o paciente não satisfez as exigências para a aplicação da referida benesse legal, a sua incidência foi fundamentadamente rechaçada.
+ ..
+Além disso, o exame da impetração, a fim de desconstituir a conclusão a que chegaram as instâncias ordinárias quanto à dedicação do agente a atividades ilícitas, conforme já afirmado, demanda a análise do acervo fático-probatório dos autos, inviável na via eleita do habeas corpus. Nesse sentido: AgRg no HC n. 732.865/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/5/2022, DJe de 20/5/2022 " (e-STJ fls. 182-184).
+Além disso, a hipótese atrai a incidência da Súmula nº 182/STJ, que considera inviável o conhecimento do agravo regimental que deixa de atacar especificamente os fundamentos da decisão agravada.
+No caso em apreço, não foram apresentados fatos novos ou elementos aptos a desconstituir a decisão impugnada, sobretudo no ponto em que verificou-se que a aplicação do benefício previsto no § 4º do art. 33 da Lei n. 11.343/2006 em favor do agravante foi afastada com base na existência de diversos atos infracionais prévios.
+É nesse sentido o entendimento da Corte:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DA PENA DE MULTA. CARÁTER SANCIONADOR PENAL. EXTINÇÃO DA PUNIBILIDADE. NECESSIDADE DE PRÉVIA AUDIÊNCIA. RESP INADMITIDO NA ORIGEM. ARESP NÃO CONHECIDO. SÚMULA 182/STJ. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. HIPOSSUFICIÊNCIA FINANCEIRA DO EXECUTADO. AUSÊNCIA DO NECESSÁRIO PREQUESTIONAMENTO. NECESSIDADE DE EXAME PROBATÓRIO. IMPOSSIBILOIDADE. SUMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A falta de impugnação específica dos fundamentos utilizados na decisão agravada (decisão de inadmissibilidade do recurso especial) atrai a incidência da Súmula n. 182 desta Corte Superior.
+2. Com efeito, como tem reiteradamente decidido esta Corte Superior, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial, tampouco a insistência no mérito da controvérsia.
+3. Ainda que assim não fosse, constatado o inadimplemento da pena de multa aplicada cumulativamente à privativa de liberdade, o Juízo da Execução Criminal deverá, antes de deliberar acerca da extinção da punibilidade, intimar o reeducando para efetuar o pagamento, ressaltando a possibilidade de parcelamento, a pedido e conforme as circunstâncias do caso concreto (art. 50, caput, do CP), bem como oportunizando ao condenado comprovar, se for o caso, a absoluta impossibilidade econômica de arcar com seu valor sem prejuízo do mínimo vital para a sua subsistência e de seus familiares.
+4. In casu, o Tribunal de origem indeferiu a extinção da punibilidade ao reeducando, afastando a tese de que o valor da execução é inferior ao limite mínimo exequível pela Legislação Estadual .
+5. Ademais, a "alegação de pobreza" somente restou apresentada pela defesa em embargos de declaração que foram rejeitados pelo Tribunal a quo que consignou: com a prolação da decisão que indeferiu a petição inicial, sequer foi possível analisar a impossibilidade econômica absoluta do sentenciado para efetuar o pagamento da multa, ainda que parceladamente, o qual não comprovou tal impossibilidade de plano, podendo demonstrar eventual incapacidade no decorrer do processo de execução.
+6.Daí, além de ausência do devido prequestionamento do tema, para decidir que há hipossuficiência do reeducando, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+7. Agravo regimental não provido.
+(AgRg no AREsp n. 2.340.649/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/8/2023, DJe de 22/8/2023.) (Grifamos)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DECLÍNIO DE COMPETÊNCIA DA JUSTIÇA FEDERAL PARA A ESTADUAL. NULIDADE DOS ATOS PROCESSUAIS JÁ PRATICADOS. POSSIBILIDADE DE RATIFICAÇÃO PELO JUÍZO COMPETENTE. PRECEDENTES. REITERAÇÃO DE ARGUMENTOS. OFENSA AO PRINCÍPIO DA DIALETICIDADE. SÚMULA N. 182, STJ.
+I - Segundo a jurisprudência desta Corte, é possível a decretação da incompetência absoluta da Justiça Federal, com o envio dos autos à Justiça Estadual, sem a prévia declaração da nulidade dos atos já praticados, tendo em vista a possibilidade de aproveitamento dos atos processuais pelo juízo competente.
+II - A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação ao princípio da dialeticidade, nos termos da Súmula n. 182, STJ.
+III - In casu, o agravante não demonstrou que os precedentes indicados na decisão agravada são inaplicáveis ao caso, ou, ainda, que houve mudança da jurisprudência deste Sodalício.
+Agravo regimental não conhecido.
+(AgRg no REsp n. 1.988.117/AL, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 30/11/2023, DJ e de 5/12/2023.) (Grifamos)
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
