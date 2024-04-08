@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  CONSUMIDOR.  IMÓVEL. PROMESSA  DE  COMPRA  E  VENDA  .  RESCISÃO  CONTRATUAL.  LEILÃO  EXTRAJUDICIAL.  IRRELEVÂNCIA.  DIREITO  À  RESTITUIÇÃO.  PERCENTUAL.  PARÂMETROS  DE  RAZOABILIDADE.  ALTERAÇÃO.  IMPOSSIBILIDADE.  SÚMULAS  NºS  5  E  7/STJ.
+1.  O  leilão  extrajudicial  do  imóvel  não  obsta  o  direito  do  consumidor  de  questionar  eventual  enriquecimento  ilícito  e  receber  a  devolução  de  percentual  das  parcelas  pagas.
+2.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  consolidou-se  no  sentido  da  razoabilidade  de  retenção  dos  pagamentos  realizados  até  a  rescisão  operada  entre  10%  (dez  por  cento)  e  25%  (vinte  e  cinco  por  cento),  conforme  as  circunstâncias  do  caso  concreto.
+3.  Na  hipótese,  rever  a  conclusão  do  aresto  atacado  acerca  do  percentual  de  retenção  adotado  encontra  óbice  nas  Súmulas  nºs  5  e  7  do  Superior  Tribunal  de  Justiça.
+4.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  INCORPORADORA  PINHEIRO  PEREIRA  10  LTDA.  contra  a  decisão  que  conheceu  do  agravo  para  não  conhecer  do  recurso  especial  (e-STJ  fls.  737/741).
+Em  suas  razões  (e-STJ  fls.  749/761),  a  agravante  aduz  a  inaplicabilidade  ao  caso  da  Súmula  nº  283/STF,  visto  que  a  "(..)  interposição  do  recurso  especial  é  capaz  de,  por  si  só,  alterar  a  conclusão  firmada  pelo  acórdão  recorrido"  (e-STJ  fl.  753).
+Além  disso,  sustenta  que  referido  óbice  apenas  se  aplica  na  hipótese  em  que  "(..)  a  questão  trazida  no  recurso  é  amparada  por  dois  ou  mais  fundamentos  suficientes  para,  isoladamente,  manter  a  decisão  recorrida  e  um  deles  não  foi  objeto  de  impugnação"  (e-STJ  fl.  754).
+Afirma  que  a  Súmula  nº  83/STJ  também  não  possui  aplicação,  pois  o  recurso  foi  interposto  com  base  na  alínea  "a"  do  permissivo  constitucional  e que,  ante  a  ausência  de  impugnação  ao  procedimento  realizado,  aplica-se  a  jurisprudência  do  Superior  Tribunal  de  Justiça  firmada  no  sentido  de  que  o  valor  a  ser  restituído  aos  compradores  corresponde  ao  que  sobejar  do  leilão.
+Salienta  que  o  Superior  Tribunal  de  Justiça  entende  que  o  regramento  previsto  no  art.  63  da  Lei  nº  4.591/1964  incide  no  caso  em  que  há  inadimplência  do  promitente  comprador,  de  modo  que  não  está  em  conformidade  com  a  jurisprudência  daquele  tribunal  a  determinação  de  devolução  dos  valores  pagos.
+Defende  que,  não  obstante  a  inexistência  de  direito  à  restituição  do  que  foi  pago,  não  ofende  as  Súmulas  nºs  5  e  7/STJ  verificar  que  não  pode  predominar  o  percentual  de  retenção  aplicado  pelo  tribunal  de  origem.
+Assevera  estar  incontroverso  nos  autos  que  a  rescisão  contratual  foi  motivada  pelos  agravados,  de  modo  que  deveria  ter  sido  estipulado  o  percentual  de  25%  (vinte  e  cinco  por  cento)  para  fazer  frente  às  despesas  e  aos custos  que  teve  com  o  imóvel.
+Assinala  que  a  determinação  de  apenas  20%  (vinte  por  cento)  dos  valores  pagos  ofende  os  princípios  da  proporcionalidade  e  da  razoabilidade.
+Ao  final,  requer  a  reconsideração  da  decisão  atacada  ou  a  submissão  do  feito  ao  colegiado.
+Devidamente  intimada,  a  parte  contrária  não  ofereceu  impugnação  (e-STJ  fls.  767/768).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  CONSUMIDOR.  IMÓVEL. PROMESSA  DE  COMPRA  E  VENDA  .  RESCISÃO  CONTRATUAL.  LEILÃO  EXTRAJUDICIAL.  IRRELEVÂNCIA.  DIREITO  À  RESTITUIÇÃO.  PERCENTUAL.  PARÂMETROS  DE  RAZOABILIDADE.  ALTERAÇÃO.  IMPOSSIBILIDADE.  SÚMULAS  NºS  5  E  7/STJ.
+1.  O  leilão  extrajudicial  do  imóvel  não  obsta  o  direito  do  consumidor  de  questionar  eventual  enriquecimento  ilícito  e  receber  a  devolução  de  percentual  das  parcelas  pagas.
+2.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  consolidou-se  no  sentido  da  razoabilidade  de  retenção  dos  pagamentos  realizados  até  a  rescisão  operada  entre  10%  (dez  por  cento)  e  25%  (vinte  e  cinco  por  cento),  conforme  as  circunstâncias  do  caso  concreto.
+3.  Na  hipótese,  rever  a  conclusão  do  aresto  atacado  acerca  do  percentual  de  retenção  adotado  encontra  óbice  nas  Súmulas  nºs  5  e  7  do  Superior  Tribunal  de  Justiça.
+4.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Extrai-se  dos  autos  que,  na  origem,  Antônio  Silva  Filho  e  Suely  Gomes  Silva  ajuizaram  ação  de  rescisão  contratual  combinada  com  obrigação  de  fazer  em  desfavor  de  Incorporadora  Pinheiro  Pereira  10  Ltda.,  objetivando  a  resolução  do  contrato  de  promessa  de  compra  e  venda  devido  ao  atraso  na  entrega  do  imóvel  e,  caso  não  reconhecida  a  culpa  da  ré,  a  devolução  de  90%  (noventa  por  cento)  dos  valores  desembolsados.
+O  magistrado  de  primeiro  grau  de  jurisdição  entendeu  que  o  distrato  pretendido  se  deu  por  culpa  dos  autores/agravados,  tendo  em  vista  que,  na  esfera  administrativa,  no  preenchimento  do  pedido  de  distrato,  alegaram  insuficiência  de  recursos  para  arcar  com  o  restante  do  saldo  devedor.
+Referida  sentença  foi  integralmente  mantida  pelo  tribunal  estadual.
+O  recurso  especial  interposto  pela  agravante  não  foi  conhecido  em  virtude  da  decisão  monocrática  ora  atacada.
+A  agravante  pleiteia  o  afastamento  das  súmulas  aplicadas,  defendendo  que  o  inadimplemento  contratual  autoriza  a  realização  do  leilão  extrajudicial  do  imóvel  e  que  eventual  devolução  de  valores  deve  se  dar  nos  termos  do  art.  63  da  Lei  nº  4.591/1964.
+Sustenta,  ainda,  caso  mantida  a  restituição  dos  valores  pagos,  que  a  retenção  para  compensar  as  despesas  com  o  imóvel  seja  no  percentual  de  25%  (vinte  e  cinco  por  cento).
+Acerca  do  tema,  conforme  consignado  na  decisão  recorrida,  a  Corte  de  origem  consignou  que  a  legislação  do  consumidor  deve  incidir  ao  presente  caso  e  que  a  submissão  do  imóvel  à  hasta  pública  não  impede  o  exame  dos  pedidos  ora  pretendidos,  sob  pena  de  enriquecimento  ilícito  da  parte  vendedora,  conforme  demonstra  o  seguinte  trecho  do  voto  condutor  do  acórdão:
+"(..)
+Desde  logo,  oportuno  destacar  que  à  demanda  aplica-se  o  Código  de  Defesa  do  Consumidor,  o  qual  traz  em  seu  bojo  normas  de  ordem  pública  e  de  interesse  social,  objetivando  a  proteção  e  defesa  do  consumidor,  em  razão  de  sua  vulnerabilidade.
+Isso  porque,  a  ré  enquadra-se  na  condição  de  prestadora  de  serviço,  pois  explora  economicamente  o  ramo  dos  empreendimentos  imobiliários,  praticando  a  atividade  de  administração  e  intermediação  de  compra  e  venda  de  imóveis,  enquanto  os  autores,  na  qualidade  de  seus  consumidores"  (e-STJ  fl.  482).
+Entretanto,  tal  fundamento,  suficiente  para  a  manutenção  do  julgado,  não  foi  refutado  pela  agravante,  o  que  atraiu  ao  ponto,  por  analogia,  o  óbice  da  Súmula  nº  283/STF.
+Além  disso,  tal  entendimento  está  em  harmonia com  a  orientação  desta  Corte  Superior,  firmada  no  sentido  de  que  o  leilão  extrajudicial  do  imóvel  não  obsta  o  direito  do  consumidor  de  questionar  eventual  enriquecimento  ilícito  e  receber  a  devolução  de  percentual  das  parcelas  pagas.
+De  fato,  a  jurisprudência  do  Superior  Tribunal  de  Justiça  consolidou-se  no  sentido  da  razoabilidade  de  retenção  dos  pagamentos  realizados  até  a  rescisão  operada  entre  10%  (dez  por  cento)  e  25%  (vinte  e  cinco  por  cento),  conforme  as  circunstâncias  do  caso  concreto.
+Assim,  diante  das  premissas  fáticas  estabelecidas  no  acórdão,  verifica-se  que  inviável  o  afastamento  dos  óbices  das  Súmulas  nºs  5  e  7/STJ.
+De fato, alterar as  conclusões  do  acórdão  para  modificar  o  percentual  de  retenção  adotado  na  origem  demandaria  a  interpretação  de  cláusulas  contratuais  e  a  incursão  no  conjunto  fático-probatório  dos  autos,  providências  vedadas  em  recurso  especial.
+A  propósito:
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  AÇÃO  DE  RESCISÃO  DE  CONTRATO  DE  PROMESSA  DE  COMPRA  E  VENDA.  VIOLAÇÃO  DO  ART.  1.022  DO  CPC/2015.  NÃO  OCORRÊNCIA.  DIREITO  DE  RETENÇÃO.  OBSERVÂNCIA  DA  JURISPRUDÊNCIA  ASSENTADA  DO  STJ.  INTELIGÊNCIA  DA  SÚMULA  543/STJ.  REALIZAÇÃO  DE  LEILÃO  EXTRAJUDICIAL.  IRRELEVÂNCIA  QUANTO  AO  DIREITO  DE  RESTITUIÇÃO  DE  VALORES  AO  PROMITENTE  COMPROVADO.  AGRAVO  INTERNO  DESPROVIDO.
+1.  Não  constitui  ofensa  ao  art.  1.022  do  CPC/15  o  fato  de  o  Tribunal  de  origem,  embora  sem  examinar  individualmente  cada  um  dos  argumentos  suscitados  pelo  recorrente,  adotar  fundamentação  contrária  à  pretensão  da  parte,  suficiente  para  decidir  integralmente  a  controvérsia.
+2.  Nos  termos  da  jurisprudência  desta  Corte  na  hipótese  de  resolução  de  contrato  de  promessa  de  compra  e  venda  de  imóvel  submetido  ao  Código  de  Defesa  do  Consumidor,  deve  ocorrer  a  imediata  restituição  das  parcelas  pagas  pelo  promitente  comprador  -  integralmente,  em  caso  de  culpa  exclusiva  do  promitente  vendedor/construtor,  ou  parcialmente,  caso  tenha  sido  o  comprador  quem  deu  causa  ao  desfazimento,  nos  termos  da  Súmula  543/STJ.
+3.  O  leilão  do  imóvel  não  exclui  o  direito  do  promitente  comprador  em  receber  as  parcelas  pagas,  sob  pena  de  enriquecimento  ilícito.
+4.  Agravo  interno  desprovido"  (AgInt  no  REsp  1.980.430/SP,  Rel.  Ministro  RAUL  ARAÚJO,  Quarta  Turma,  julgado  em  20/6/2022,  DJe  de  1º/7/2022  -  grifou-se).
+"CIVIL.  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  IRRESIGNAÇÃO  SUJEITA  ÀS  NORMAS  DO  NCPC.  COMPRA  E  VENDA  DE  IMÓVEL  EM  CONSTRUÇÃO.  DESFAZIMENTO  CONTRATUAL  MOTIVADO  POR  INTERESSE  DOS  ADQUIRENTES.  POSSIBILIDADE.  PERCENTUAL  DE  RETENÇÃO  (20%  DOS  VALORES  PAGOS)  PREVISTOS  CONTRATUALMENTE.  REFORMA.  SÚMULAS  N.os  5  E  7  DO  STJ.  ARRAS  CONFIRMATÓRIAS.  PRINCÍPIO  DE  PAGAMENTO.  RETENÇÃO.  IMPOSSIBILIDADE.  CORREÇÃO  MONETÁRIA.  TERMO  INICIAL.  DATA  DE  CADA  PAGAMENTO.  RESTITUIÇÃO  DOS  VALORES  GASTOS  COM  LEILÃO  EXTRAJUDICIAL.  PEDIDO  NÃO  FORMULADO  NA  INICIAL.  REFORMA.  SÚMULA  Nº  7  DO  STJ.
+(..)
+2.  Nas  hipóteses  de  rescisão  do  contrato  de  promessa  de  compra  e  venda  por  inadimplemento  do  comprador,  a  jurisprudência  desta  Corte  admite  a  flutuação  do  percentual  de  retenção  pelo  vendedor  entre  10%  e  25%  do  total  da  quantia  paga.
+3.  Tendo  o  contrato  objeto  do  litígio  expressa  previsão  de  retenção  de  20%  dos  valores  pagos,  inviável  reformar  o  acórdão  que  aplicou  referido  índice,  de  forma  inversa,  sob  pena  de  ofensa  das  Súmulas  nºs  5  e  7  do  STJ.
+(..)
+8.  Agravo  interno  não  provido"  (AgInt  no  REsp  1.940.984/RJ,  Rel.  Ministro  MOURA  RIBEIRO,  Terceira  Turma,  julgado  em  6/6/2022,  DJe  de  8/6/2022).
+Assim,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
