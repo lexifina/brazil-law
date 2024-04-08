@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por AGUIDA MARIA PEREIRA DA SILVA e OUTROS, à decisão de fls. 2178/2179, que não conheceu do recurso.
+Sustenta a parte embargante que:
+3. Ao analisar ao regramento legal acima exposto, observa-se com clareza que a comprovação de ocorrência de FERIADOS LOCAIS se dará na interposição do recurso.
+4. Contudo, em momento algum determinou o legislador a comprovação da ocorrência de FERIADOS NACIONAIS.
+5. Entre a data 10/10/2023 e 06/11/2023, ocorreram diversos FERIADOS NACIONAIS que atestam pela tempestividade recursal do Agravo em Recurso Especial interposto, senão vejamos (fls. 2183/2184).
+ ..
+13. Dessa forma, com a ocorrência dos mencionados feriados, há de se reconhecer a tempestividade do Agravo em Recurso Especial apresentado, visto que o art. 1.003, §6º do CPC afirma que a comprovação de FERIADOS LOCAIS se dará na interposição do recurso, mas nada fala sobre FERIADOS NACIONAIS.
+14. Sendo assim, os feriados mencionados são aptos a comprovar a tempestividade do AgREsp, pois o ordenamento jurídico brasileiro afirma que durante feriados não serão praticados os atos processuais, não devendo, assim, serem contabilizados para fins de análise de prazo recursal. Veja o que preleciona o art. 214 do CPC (fl. 2185).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp n. 2.227.508/BA, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/5/2023, DJe de 27/6/2023; AgInt nos EDcl no AREsp n. 2.270.942/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 5/6/2023, DJe de 7/6/2023; e AgInt no AREsp n. 2.280.536/BA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/5/2023, DJe de 24/5/2023.
+É certo que os feriados nacionais de 12/10/2023 e 2/11/2023 não precisam ser comprovados. Porém, os dias 28/10 e 1/11/2023 são supostamente feriados locais, razão pela qual deveriam ter sido comprovados no momento da interposição do recurso, providência que não foi cumprida.
+Ressalte-se que são considerados feriados nacionais somente aqueles que estão expressamente previstos na Lei nº 10.607/2002 e Lei nº 6.802/1980, as quais declaram feriados nacionais os dias 1º de janeiro, 21 de abril, 1º de maio, 7 de setembro, 12 de outubro, 2 de novembro, 15 de novembro e 25 de dezembro. Nesse sentido: AgInt no AREsp 1867014/AM, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 19/08/2021; AgInt nos EDcl no REsp 1792664/RJ, relator Ministro Luis Felipe Salmão, Quarta Turma, DJe de 01/07/2021.
+Outrossim, "a existência de recesso forense e suspensão de prazos processuais nos Tribunais de Justiça não se presume público e notório em âmbito nacional" (AgInt no AREsp 1641985/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/08/2021, DJe 18/08/2021.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
