@@ -1,0 +1,94 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  INDICAÇÃO  DOS  ARTIGOS.  AUSÊNCIA.  SÚMULA  Nº  284/STF.  TÍTULO  EXECUTIVO.  REQUISITOS.  REVISÃO.  SÚMULA  Nº  7/STJ.
+1.  A  simples  indicação  de  omissão,  desacompanhada  da  necessária  fundamentação  que  lhe  dê  respaldo,  atrai,  por  analogia,  o  óbice  da  Súmula  nº  284/STF.
+2.  Alterar  a  conclusão  do  tribunal  de  origem  quanto  à  apresentação  do  título  executivo  acompanhado  do  protesto  e  do  comprovante  de  entrega  atrai  a  incidência  do  óbice  da  Súmula  nº  7/STJ.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  EUZÉBIO  MOREIRA  DE  CARVALHO  contra  a  decisão  que  conheceu  do  agravo  para  não  conhecer  do  recurso  especial.
+Em  suas  razões  (fls.  1.586/1.619),  o  agravante  alega  a  inaplicabilidade  da  Súmula  nº  284/STF,  ao  argumento  de  que
+"(..)  nas  121  (cento  e  vinte  uma)  páginas  do  Recurso  Especial  foram  citadas,  especificamente  e  objetivamente,  8  (oito)  violações  de  dispositivos  legais  -  reconhecidos  no  relatório  da  Decisão  Agravada,  tornando  a  fundamentação  totalmente  contraditória"  (fl.  1.588).
+Defende  que  não  há  deficiência  da  fundamentação,  pois  o  recurso  teria  citado  claramente  as  violações  legais  e  jurisprudenciais  ocorridas.
+Alega  que  visa  demonstrar  erro  de  fato  cometido  pelo  tribunal  de  origem,  que  considera  existir  fato  ou  documento  que  não  existe  nos  autos  da  ação  executiva,  seja  em  cópia,  original  ou  meio  eletrônico.
+Sustenta  que  a  questão  essencial  do  recurso  objetiva  saber  se  lei  vigente  permite  a  interposição  de  ação  executiva  de  duplicata  mercantil  apenas  com  a  apresentação  de  protestos,  o  que  defende  ser  nulo.
+Menciona  que  as  notas  fiscais  da  entrega  de  mercadorias  só  foram  apresentadas  em  momento  posterior  à  sentença,  bem  como que  não  teria  sido  oportunizado  o  direito  de  impugnar  os  novos  documentos.
+Ao  final,  requer  o  provimento  do  agravo  com  a  reforma  da  decisão  atacada.
+Devidamente  intimada,  a  parte  contrária  não  ofereceu  impugnação  ( fls.  1.624/1.625).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  INDICAÇÃO  DOS  ARTIGOS.  AUSÊNCIA.  SÚMULA  Nº  284/STF.  TÍTULO  EXECUTIVO.  REQUISITOS.  REVISÃO.  SÚMULA  Nº  7/STJ.
+1.  A  simples  indicação  de  omissão,  desacompanhada  da  necessária  fundamentação  que  lhe  dê  respaldo,  atrai,  por  analogia,  o  óbice  da  Súmula  nº  284/STF.
+2.  Alterar  a  conclusão  do  tribunal  de  origem  quanto  à  apresentação  do  título  executivo  acompanhado  do  protesto  e  do  comprovante  de  entrega  atrai  a  incidência  do  óbice  da  Súmula  nº  7/STJ.
+3.  Agravo  interno  não  provido.
+VOTO
+A  insurgência  não  merece  prosperar.
+De  início,  quanto  à  alegada  omissão  do  julgado,  ou  seja,  quanto  ao  tema  da  negativa  de  prestação  jurisdicional,  a  deficiência  na  fundamentação  recursal  ficou  evidenciada,  visto  que  o  recorrente  não  indicou  especificamente  quais  os  artigos  de  lei  federal  teriam  sido  contrariados  pelo  aresto  recorrido,  embora  tenha  se  insurgido  quanto  à  motivação  da  decisão,  inviabilizando  a  compreensão  da  controvérsia  posta  nos  autos.
+Da  mesma  forma,  o  recorrente  não  indicou  de  modo  preciso  os  dispositivos  legais  violados  quanto  à  questão  probatória.
+Consectariamente,  incide  a  Súmula  nº  284/STF:  "É  inadmissível  o  recurso  extraordinário,  quando  a  deficiência  na  sua  fundamentação  não  permitir  a  exata  compreensão  da  controvérsia".
+A  propósito:
+"AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  INDENIZATÓRIA  -  DANOS  MORAIS.  PLANO  DE  SAÚDE.  CARÊNCIA  DE  APONTAMENTO  CLARO  DO  DISPOSITIVO  DE  LEI  FEDERAL  QUE  TERIA  SIDO  MACULADO  NO  ACÓRDÃO  ESTADUAL.  FUNDAMENTAÇÃO  RECURSAL  DEFICIENTE.  SÚMULA  Nº  284/STF.  AGRAVO  INTERNO  DESPROVIDO.
+1.  Consoante  orientação  do  Superior  Tribunal  de  Justiça,  o  conhecimento  de  recurso  especial  exige  a  indicação  dos  dispositivos  de  lei  federal  supostamente  violados.  Ausente  tal  requisito,  "incide  a  Súmula  nº  284/STF"  (AgInt  no  AREsp  nº  2.108.361/DF,  relator  Ministro  Antonio  Carlos  Ferreira,  Quarta  Turma,  julgado  em  19/9/2022,  DJe  de  23/9/2022).
+(..)
+3.  Agravo  interno  desprovido"
+(AgInt  nos  EDcl  no  AREsp  2.175.300/BA,  Relator  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  13/2/2023,  DJe  de  16/2/2023  -  grifou-se).
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  INCIDÊNCIA  CUMULATIVA  DE  CLÁUSULA  PENAL  E  DE  JUROS.  AUSÊNCIA  DE  INDICAÇÃO  DOS  DISPOSITIVOS  VIOLADOS.  FUNDAMENTAÇÃO  DEFICIENTE.  SÚMULA  Nº  284/STF.  DANOS  MORAIS. DESCARACTERIZAÇÃO.  REEXAME  DO  CONJUNTO  FÁTICO-PROBATÓRIO  DOS  AUTOS.  INADMISSIBILIDADE.  ÓBICE  DA  SÚMULA  Nº  7/STJ.  DIVERGÊNCIA  JURISPRUDENCIAL  NÃO  DEMONSTRADA.  DECISÃO  MANTIDA.
+1.  A  falta  de  indicação  dos  dispositivos  legais  supostamente  violados  impede  o  conhecimento  do  recurso  especial  (Súmula  nº  284/STF).
+2.  O  mero  atraso  na  entrega  do  imóvel  é  incapaz  de  gerar  abalo  moral  indenizável,  sendo  necessária  a  existência  de  uma  consequência  fática  capaz  de  acarretar  dor  e  sofrimento  indenizável  por  sua  gravidade.  Precedentes.
+3.  O  recurso  especial  não  comporta  exame  de  questões  que  impliquem  revolvimento  do  contexto  fático-probatório  dos  autos  (Súmula  nº  7/STJ).
+4.  No  caso  concreto,  o  Tribunal  de  origem  analisou  as  provas  dos  autos  para  concluir  pela  existência  de  danos  morais  indenizáveis,  pois  a  situação  a  que  os  agravados  foram  expostos  ultrapassou  o  mero  dissabor.  Alterar  esse  entendimento  demandaria  o  reexame  de  provas,  inviável  em  recurso  especial.
+5.  Divergência  jurisprudencial,  não  demonstrada  ante  a  incidência  das  Súmulas  nº  284  do  STF  e  nºs  7  e  83  do  STJ.  Além  disso,  "decisão  monocrática  não  serve  para  comprovação  de  divergência  jurisprudencial"  (AgInt  no  AREsp  1.180.952/RJ,  Relator  Ministro  LÁZARO  GUIMARÃES  -  Desembargador  convocado  do  TRF  5ª  Região  -,  QUARTA  TURMA,  julgado  em  17/5/2018,  DJe  24/5/2018).
+6.  Agravo  interno  a  que  se  nega  provimento"
+(AgInt  no  AREsp  2.141.911/RJ,  Relator  Ministro  ANTONIO  CARLOS  FERREIRA,  Quarta  Turma,  julgado  em  14/11/2022,  DJe  de  21/11/2022  -  grifou-se).
+No  que  se  refere  à  alegada  nulidade  da  execução,  o  tribunal  de  origem  decidiu  que:
+"(..)
+No  caso  em  apreço,  o  embargante  não  questiona  a  autenticidade  dos  títulos,  sendo  a  impugnação  das  cópias  apresentadas  suscitada  apenas  em  sede  recursal.
+(..)
+Os  instrumentos  de  protesto  colacionados  na  ação  de  execução  atendem  a  esses  requisitos  (ordem  91  -  fls.  59/67;  ordem  92  -  fls.  16/30;  ordem  93  -  fls.  1/12).
+(..)
+Com  efeito,  a  apelada  trouxe  aos  autos  da  ação  de  execução  notas  fiscais  assinadas  de  forma  legível,  constando,  inclusive,  o  documento  de  identidade  do  recebedor,  o  que  é  suficiente  para  comprovar  que  houve  a  entrega  das  mercadorias  (ordens  35/60).
+Logo,  cumpriu  a  obrigação  de  protestar  duplicata  acompanhada  de  documento  hábil  comprobatório  da  entrega  e  recebimento  da  mercadoria,  título  apto  para  instruir  execução  por  quantia  certa.
+(..)
+Portanto,  os  títulos  executivos  que  embasam  a  ação  de  execução  se  revestem  dos  requisitos  de  liquidez,  certeza  e  exigibilidade,  impondo-se  a  reforma  da  sentença  de  parcial  procedência  do  pedido  objeto  destes  embargos"  (fls.  1.040/1.045).
+De fato,  a  pretensão  recursal  de  alterar  a  conclusão  do  acórdão  recorrido  quanto  à  apresentação  do  títulos  acompanhados  do  protesto  e  do  comprovante  de  entrega  atrai  a  incidência  do  óbice  da  Súmula  nº  7/STJ.
+Confiram-se:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  EMBARGOS  À  EXECUÇÃO.  TEORIA  DA  IMPREVISÃO.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  DUPLICATAS  MERCANTIS.  REGULARIDADE  DA  EXECUÇÃO.  JUNTADA  EXTEMPORÂNEA  DO  TÍTULO  AOS  AUTOS.  ADMISSIBILIDADE.  DUPLICATA  VIRTUAL.  PROSTESTO  E  ENTREGA  DAS  MERCADORIAS.  EXEQUIBILIDADE.  SÚMULA  Nº  83/STJ.  FIXAÇÃO  DOS  HONORÁRIOS  POR  EQUIDADE.  INADMISSIBILIDADE.  AGRAVO  INTERNO  PROVIDO  PARA,  EM  NOVO  JULGAMENTO,  CONHECER  DO  AGRAVO  E  NEGAR  PROVIMENTO  AO  RECURSO  ESPECIAL.
+1.  Fica  inviabilizado  o  conhecimento  de  tema  trazido  no  recurso  especial,  mas  não  debatido  e  decidido  nas  instâncias  ordinárias,  tampouco  suscitado  nos  embargos  de  declaração  opostos,  para  sanar  eventual  omissão,  porquanto  ausente  o  indispensável  prequestionamento.  Aplicação,  por  analogia,  das  Súmulas  nºs  282  e  356  do  STF.
+2.  Mesmo  na  execução  de  título  executivo  extrajudicial,  "havendo  possibilidade,  deve-se  oportunizar  à  parte  emendar  a  inicial  que  fora  apresentada  desprovida  de  documentos  essenciais  à  propositura  da  demanda,  limitando-se,  assim,  a  extinção  do  processo  sem  resolução  do  mérito  apenas  para  a  hipótese  de  não  atendimento  à  determinação  de  regularizar  a  exordial."  (AgInt  no  REsp  nº  1.955.949/MT,  Relator  Ministro  Marco  Buzzi,  Quarta  Turma,  julgado  em  13/12/2021,  DJe  de  16/12/2021).
+3.  Admite-se  a  execução  de  duplicatas  virtuais,  quando  estejam  acompanhadas  dos  instrumentos  de  protesto  por  indicação  e  dos  comprovantes  de  entrega  das  mercadorias.
+4.  Na  espécie,  o  Tribunal  de  origem  atestou  que,  além  de  ter  havido  o  protesto  dos  títulos,  a  devedora  não  impugnou  o  recebimento  das  mercadorias.  Incidência  da  Súmula  nº  83/STJ.
+5.  A  Segunda  Seção  afastou,  na  nova  sistemática  do  CPC/2015,  a  possibilidade  de  fixação  dos  honorários  advocatícios  por  equidade,  na  hipótese  de  proveito  econômico  vultoso,  e  definiu  que  a  expressa  redação  legal  impõe  concluir  que:  (a)  o  §  2º  do  referido  art.  85  veicula  a  regra  geral,  de  aplicação  obrigatória,  de  que  os  honorários  advocatícios  sucumbenciais  devem  ser  fixados  no  patamar  de  dez  a  vinte  por  cento,  subsequentemente  calculados  sobre  o  valor:  (a.1)  da  condenação;  (a.2)  do  proveito  econômico  obtido;  ou  (a.3)  do  valor  atualizado  da  causa;  (b)  o  §  8º  do  art.  85  transmite  regra  excepcional,  de  aplicação  subsidiária,  em  que  se  permite  a  fixação  dos  honorários  sucumbenciais  por  equidade,  para  as  hipóteses  em  que,  havendo  ou  não  condenação:  (b.1)  o  proveito  econômico  obtido  pelo  vencedor  for  inestimável  ou  irrisório;  ou  (b.2)  o  valor  da  causa  for  muito  baixo  (REsp  1.746.072/PR,  Rel.  p/  acórdão  Ministro  RAUL  ARAÚJO,  SEGUNDA  SEÇÃO,  julgado  em  13/2/2019,  DJe  de  29/3/2019).
+6.  Agravo  interno  provido  para,  em  novo  julgamento,  conhecer  do  agravo  e  negar  provimento  ao  recurso  especial"
+(AgInt  no  AREsp  1.819.781/SP,  Rel.  Min.  RAUL  ARAÚJO,  Quarta  Turma,  julgado  em  22/8/2022,  DJe  26/8/2022  -  grifou-se).
+"CIVIL  E  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  EXECUÇÃO  DE  ALIMENTOS.  ACORDO  REFERENDADO  PELA  DEFENSORIA  PÚBLICA.  AUSÊNCIA  DE  HOMOLOGAÇÃO  JUDICIAL.  ARREPENDIMENTO  UNILATERAL.  ACÓRDÃO  RECORRIDO  EM  CONSONÂNCIA  COM  JURISPRUDÊNCIA  DESTA  CORTE.  SÚMULAS  NºS  83  E  568  DO  STJ.  REQUISITOS  DO  TÍTULO  EXECUTIVO.  REEXAME  DO  CONJUNTO  FÁTICO-PROBATÓRIO  DOS  AUTOS.  INADMISSIBILIDADE.  SÚMULA  Nº  7  DO  STJ.  AUSÊNCIA  DO  DEVER  ALIMENTAR.  FALTA  DE  PREQUESTIONAMENTO.  FALTA  DE  PERTINÊNCIA  TEMÁTICA.  AUSÊNCIA  DE  INDICAÇÃO  DE  DISPOSITIVO  LEGAL.  FUNDAMENTAÇÃO  DEFICIENTE.  SÚMULA  Nº  284  DO  STF.  DECISÃO  MANTIDA.
+1.  Inadmissível  o  recurso  especial  quando  o  entendimento  adotado  pelo  Tribunal  de  origem  coincide  com  a  jurisprudência  do  STJ  (Súmulas  nºs  83  e  568  do  STJ).
+2.  A  jurisprudência  desta  Corte  compreende  que  "o  acordo  referendado  pela  Defensoria  Pública  estadual,  além  de  se  configurar  como  título  executivo,  pode  ser  executado  sob  pena  de  prisão  civil"  (REsp  1.117.639/MG,  Relator  Ministro  MASSAMI  UYEDA,  TERCEIRA  TURMA,  julgado  em  20/5/2010,  DJe  de  21/2/2011).
+3.  Além  disso,  "é  pacífica  a  jurisprudência  desta  Corte  no  sentido  de  que,  em  regra,  é  descabido  o  arrependimento  e  a  rescisão  unilateral  da  transação,  ainda  que  antes  da  homologação  judicial"  (AgInt  no  REsp  1.926.701/MG,  Relator  Ministro  RAUL  ARAÚJO,  QUARTA  TURMA,  julgado  em  20/9/2021,  DJe  de  15/10/2021).
+4.  O  recurso  especial  não  comporta  exame  de  questões  que  impliquem  revolvimento  do  contexto  fático-probatório  dos  autos  (Súmula  nº  7  do  STJ).
+5.  No  caso  concreto,  o  Tribunal  de  origem  concluiu  que  estão  presentes  os  pressupostos  do  título  executivo.  Entender  de  modo  contrário  demandaria  nova  análise  dos  elementos  fáticos  dos  autos,  inviável  em  recurso  especial,  ante  o  óbice  da  referida  súmula.
+6.  Ausente  o  enfrentamento  da  matéria  pelo  acórdão  recorrido,  inviável  o  conhecimento  do  recurso  especial,  por  falta  de  prequestionamento.  Incidência  das  Súmulas  nºs  282  e  356  do  STF.
+7.  É  firme  a  orientação  do  STJ  de  que  a  impertinência  temática  do  dispositivo  legal  apontado  como  ofendido  resulta  na  deficiência  das  razões  do  recurso  especial,  fazendo  incidir  a  Súmula  nº  284  do  STF.
+8.  A  ausência  de  indicação  do  dispositivo  de  lei  federal  supostamente  violado  impede  a  exata  compreensão  da  controvérsia  e  obsta  o  conhecimento  do  recurso  especial  (Súmula  nº  284/STF).
+9.  Agravo  interno  a  que  se  nega  provimento"
+(AgInt  no  REsp  2.051.086/MA,  Rel.  Min.  ANTÔNIO  CARLOS  FERREIRA,  Quarta  Turma,  julgado  em  26/6/2023,  DJe  28/6/2023  -  grifou-se).
+No  que  se  refere  à  ofensa  aos  princípios  da  ampla  defesa  e  do  contraditório,  verifica-se  que  a  matéria  versada  nos  dispositivos  apontados  como  violados  no  recurso  especial  não  foi  objeto  de  debate  pelas  instâncias  ordinárias,  embora  opostos  embargos  de  declaração.
+Ausente  o  requisito  do  prequestionamento,  incide  o  disposto  na  Súmula  nº  211/STJ:  "Inadmissível  recurso  especial  quanto  à  questão  que,  a  despeito  da  oposição  de  embargos  declaratórios,  não  foi  apreciada  pelo  Tribunal  a  quo".
+Com  efeito,  pela  alínea  "c"  do  permissivo  constitucional,  o  recurso  não  merece  conhecimento,  pois  nos  termos  dos  arts.  1.029,  §  1º,  do  Código  de  Processo  Civil  e  255,  §  1º,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça,  a  divergência  jurisprudencial  deve  ser  comprovada  e  demonstrada,  em  qualquer  caso,  com  a  transcrição  dos  trechos  dos  arestos  que  configurem  o  dissídio,  mencionando-se  as  circunstâncias  que  identifiquem  ou  assemelhem  os  casos  confrontados,  o  que  não  ocorreu  na  espécie.
+Não  basta  a  simples  transcrição  de  ementas  e  de  parte  dos  votos  sem  que  seja  realizado  o  necessário  cotejo  analítico  a  evidenciar  a  similitude  fática  entre  os  casos  apontados  e  a  divergência  de  interpretações.
+Além  disso,  não  há  como  aferir  eventual  dissídio  jurisprudencial  sem  que  tenham  os  acórdãos  recorrido  e  paradigma  examinado  o  tema  com  enfoque  na  mesma  legislação  infraconstitucional.
+Nesse  sentido:
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  INDENIZAÇÃO.  DANOS  MORAIS.  ESPECIAL  INTERPOSTO  PELA  ALÍNEA  "C".  DIVERGÊNCIA  JURISPRUDENCIAL.  AUSÊNCIA  DE  DEMONSTRAÇÃO.  FALTA  DE  INDICAÇÃO  DO  DISPOSITIVO  LEGAL.  SÚMULA  N.  284/STF.  DECISÃO  MANTIDA.
+1.  O  conhecimento  do  recurso  especial  pela  alínea  "c"  do  permissivo  constitucional  exige  a  indicação  do  dispositivo  legal  ao  qual  foi  atribuída  interpretação  divergente  e  a  demonstração  do  dissídio,  mediante  a  verificação  das  circunstâncias  que  assemelhem  ou  identifiquem  os  casos  confrontados  (arts.  255,  §§  1º  e  2º,  do  RISTJ  e  1.029,  §  1º,  do  CPC/2015),  o  que  não  foi  observado  no  caso,  fazendo  incidir  a  Súmula  n.  284/STF,  aplicada  por  analogia.  Precedentes.
+2.  Agravo  interno  a  que  se  nega  provimento"
+(AgInt  no  AREsp  1.086.408/SC,  Rel.  Ministro  ANTONIO  CARLOS  FERREIRA,  Quarta  Turma,  DJe  30/10/2017  -  grifou-se).
+"PROCESSUAL  CIVIL.  AGRAVO  REGIMENTAL  EM  RECURSO  ESPECIAL.  ALÍNEA  C.  INCIDÊNCIA  DO  VERBETE  DA  SÚMULA  284  DO  STF.  REEXAME  DE  FATOS  E  PROVAS.  IMPOSSIBILIDADE.  SÚMULA  7/STJ.
+1.  Incide  o  verbete  da  Súmula  284  do  STF  quando  o  recorrente  deixa  de  indicar  qual  dispositivo  de  lei  federal  teve  sua  interpretação  divergente  pelo  Tribunal,  mesmo  quando  o  recurso  foi  interposto  pela  alínea  "c"  do  permissivo  constitucional.
+2.  A  análise  da  alegação  recursal,  no  que  tange  à  alegação  de  violação  da  coisa  julgada,  demandaria  o  reexame  do  conjunto  fático-probatório,  obstado  nesta  instância,  conforme  o  disposto  na  Súmula  7/STJ.
+3.  Agravo  regimental  a  que  se  nega  provimento"
+(AgRg  no  REsp  1.347.791/DF,  Rel.  Ministro  OG  FERNANDES,  Segunda  Turma,  DJe  19/11/2015  -  grifou-se).
+Torna-se  patente,  assim,  a  falta  de  fundamentação  do  apelo  especial,  circunstância  que  atrai  a  incidência  da  Súmula  nº  284/STF:  "É  inadmissível  o  recurso  extraordinário,  quando  a  deficiência  na  sua  fundamentação  não  permitir  a  exata  compreensão  da  controvérsia".
+Assim,  as  razões  do  agravo  não  são  suficientes  para  reformar  a  decisão  atacada,  que  merece  ser  mantida  por  seus  próprios  fundamentos.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
