@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA.
+1. Hipótese em que o acórdão embargado concluiu que "O Superior Tribunal de Justiça perfilha o entendimento de que é necessária a impugnação específica de todos os fundamentos da decisão que inadmitiu o Agravo em Recurso Especial, sob pena de não conhecimento, ante a incidência da Súmula 182/STJ. ".
+2. A solução integral da divergência, com motivação suficiente, não caracteriza violação ao art. 1.022 do CPC/2015.
+3. Embargos de Declaração rejeitados.
+RELATÓRIO
+Trata-se de Embargos de Declaração opostos a acórdão nestes termos:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL DE QUE NÃO SE CONHECEU. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESRESPEITO AO ART. 1.021, § 1º, DO CPC/2015 E À SÚMULA 182 DO STJ. AGRAVO INTERNO NÃO PROVIDO. DECISÃO DA PRESIDÊNCIA DO STJ MANTIDA.1. O STJ perfilha o entendimento de ser necessária a impugnação específica de todos os fundamentos da decisão que inadmitiu o Agravo em Recurso Especial, sob pena de não conhecimento, ante a incidência da Súmula 182/STJ.2. A Corte Especial reafirmou recentemente tal posição no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Rel. Min. Luis Felipe Salomão, Corte Especial, DJe 30.11.2018. 3. Verifica-se que não foi impugnado no Agravo em Recurso Especial o seguinte argumento: "Súmula 83 do STJ" (fl. 607, e-STJ).4. Tendo sido utilizada tal súmula como premissa para inadmissão do Recurso Especial, demanda-se a demonstração, por intermédio de decisões contemporâneas ou posteriores às mencionadas na decisão combatida, da superação do entendimento lançado ou, ainda, análise pormenorizada a fim de comprovar que a situação sob análise difere de forma substancial do retratado na decisão que fundamentou aplicação da súmula, requisitos não preenchidos pela parte no Agravo em Recurso Especial. Nesse sentido: AgInt no AREsp 1.322.384/RJ, Rel. Min. Og Fernandes, Segunda Turma, DJe 11.3.2019.5. Ressalte-se que a impugnação tardia (somente por ocasião da interposição de Agravo Interno) dos fundamentos da decisão que não admitiu o Recurso Especial, além de caracterizar imprópria inovação recursal, não tem o condão de afastar a aplicação do referido verbete 182/STJ, tendo em vista a preclusão consumativa.6. Agravo Interno não provido
+A parte embargante alega que o decisum incorreu em omissão e aduz:
+A partir da leitura do excerto supra, e ao contrário do que consta na decisão recorrida, verifica-se que a ora Agravante se insurgiu expressamente sobre o óbice da Súmula 83 do STJ, indicando, inclusive, os motivos pelos quais o referido óbice deveria ser afastado: um recurso que não foi interposto ao amparo do art. 105, III, "c" da CF jamais poderia ser inadmitido sob o argumento de que não se reconhece a divergência se a orientação do tribunal se firmou no mesmo sentido da decisão recorrida.
+Não bastasse isso, o r. decisum também indica que o pedido subsidiário, de sobrestamento do feito, restaria prejudicado em razão do entendimento desta C. Turma. Importante ressaltar, contudo, que sequer há pedido de sobrestamento do feito formulado pela Embargante em seus recursos, situação esta que também demanda o devido aclaramento do julgado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA.
+1. Hipótese em que o acórdão embargado concluiu que "O Superior Tribunal de Justiça perfilha o entendimento de que é necessária a impugnação específica de todos os fundamentos da decisão que inadmitiu o Agravo em Recurso Especial, sob pena de não conhecimento, ante a incidência da Súmula 182/STJ. ".
+2. A solução integral da divergência, com motivação suficiente, não caracteriza violação ao art. 1.022 do CPC/2015.
+3. Embargos de Declaração rejeitados.
+VOTO
+Os autos foram recebidos neste Gabinete em 14.2.2024.
+Os Embargos de Declaração constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+Assim, verifico que o inconformismo da parte embargante busca emprestar a eles efeitos infringentes, manifestando nítida pretensão de rediscutir o mérito do julgado, o que é inadmissível nesta via recursal.
+Com efeito, os vícios elencados nas razões recursais não prosperam, porquanto a matéria foi integralmente analisada por esta Corte, conforme se nota dos seguintes excertos do acórdão embargado:
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do Recurso Especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o Recurso Especial.
+O Superior Tribunal de Justiça perfilha o entendimento de que é necessária a impugnação específica de todos os fundamentos da decisão que inadmitiu o Agravo em Recurso Especial, sob pena de não conhecimento, ante a incidência da Súmula 182/STJ.
+(..)
+Verifica-se que não foi impugnado no Agravo em Recurso Especial o seguinte argumento: "Súmula 83 do STJ" (fl. 607, e-STJ).
+Tendo sido utilizada tal súmula como premissa para inadmissão do Recurso Especial, demanda-se a demonstração, por intermédio de decisões contemporâneas ou posteriores às mencionadas na decisão combatida, da superação do entendimento lançado ou, ainda, análise pormenorizada a fim de comprovar que a situação sob análise difere de forma substancial do retratado na decisão que fundamentou aplicação da súmula, requisitos não preenchidos pela parte no Agravo em Recurso Especial. Nesse sentido: AgInt no AREsp 1.322.384/RJ, Rel. Min. OG FERNANDES, SEGUNDA TURMA, DJe 11/3/2019.
+Não percebo, na espécie sub judice, nenhuma omissão, obscuridade ou contradição no acórdão embargado, senão o intuito de rediscutir matéria já decidida.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Rel. Ministra Eliana Calmon, DJ 13.82007; e REsp 855.073/SC, Primeira Turma, Rel. Ministro Teori Albino Zavascki, DJ 28.6.2007.
+Dessa forma, reitera-se que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao CPC e que os Embargos Declaratórios não constituem instrumento adequado à rediscussão da matéria de mérito nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que reiterá-los será considerado expediente protelatório sujeito à multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
