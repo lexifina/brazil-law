@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo apresentado por RICARDO RODRIGUES contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. PRELIMINAR. CERCEAMENTO DE DEFESA. PEDIDO DE REDESIGNAÇÃO DA AUDIÊNCIA. INOCORRÊNCIA. COBRANÇA DAS CONTRIBUIÇÕES ASSOCIATIVAS. RELAÇÃO JURÍDICA COMPROVADA. ÔNUS DA PROVA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 6º e 362, II, do CPC, no que concerne à ocorrência de cerceamento de defesa, haja vista a necessidade de realização de nova audiência de instrução e julgamento, trazendo a seguinte argumentação:
+Pois bem, o V. Acórdão ora vergastado contraria o disposto nos artigos 6º e 362, inciso II Código de Processo Civil. Confira-se:
+Art. 362. A audiência poderá ser adiada:
+II - se não puder comparecer, por motivo justificado, qualquer pessoa que dela deva necessariamente participar.
+(grifei) Sendo a patrona do recorrente a sua única defensora (fls.313), juntou petição aos autos (fls. 323) para o fim de pleitear o adiamento da audiência designada, haja vista a designação de audiência em outra comarca, para o mesmo dia e horário, conforme documentos acostados a fls. 325/329, que atestam ser esta subscritora a única defensora das partes também daquele feito.
+Não obstante, o MM. Juízo indeferiu o pleito ao argumento de que a audiência houvera sido designada em data posterior à deste feito (fls. 331) .
+Observa-se que, muito embora o adiamento seja uma faculdade do magistrado ("a audiência poderá ser adiada"), em homenagem ao princípio da cooperação entre as partes, insculpido no artigo 6º do Código de Processo Civil que estabelece que "todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva", se um dos sujeitos envolvidos no processo não puder comparecer, por motivo justificado, a audiência deve ser adiada.
+Com efeito, da leitura do dispositivo legal supra, observa-se que o procurador das partes poderá requerer o adiamento da audiência, desde que devidamente justificada a impossibilidade de comparecimento ao local, data e hora previamente estabelecidos pelo Juízo. O impedimento, ademais, pode ser comprovado até a abertura da audiência, sem necessidade de maior antecedência.
+ ..
+Destarte. sendo inconteste a vulneração ao disposto nos artigos 6º e 362, inciso II, do Código de Processo Civil, no caso concreto, é a presente para o fim de requerer seja conhecido e provido o presente recurso especial, para o fim de reconhecer o cerceamento de defesa alvitrado e anular o feito, para realização de nova audiência de instrução e julgamento (fls. 384-387).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Sobre a preliminar de cerceamento de defesa, razão não assiste ao apelante. Como salientado pelo Juízo em fls. 331, "o documento de fl. 325 demonstra de forma cristalina que referida decisão foi assinada pelo juízo da comarca de Campinas/SP em 26/04/2022, portanto, 72 dias após a data em que foi proferido".
+No caso dos autos, caberia ao apelante ter formulado pedido de redesignação de audiência naquela que foi posteriormente marcada.
+Como a audiência destes autos havia sido marcada 72 dias antes da designação da nova audiência, o indeferimento do pedido de redesginação não caracteriza cerceamento de defesa, mas sim celeridade e economia processual.
+O pedido de redesignação de audiência, portanto, foi devidamente fundamentado, com base no livre convencimento motivado do magistrado (fls. 370-371).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
