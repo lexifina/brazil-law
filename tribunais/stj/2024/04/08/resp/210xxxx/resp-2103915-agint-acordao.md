@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO APELO NOBRE.
+INSURGÊNCIA DA PARTE DEMANDANTE.
+1.  Segundo o entendimento jurisprudencial recente, firmado pela Segunda Seção deste Superior Tribunal de Justiça, nos autos do REsp n. 1.655.705/SP, por se tratar de direito disponível, é facultado ao credor, cujo crédito não tenha sido indicado na relação prevista no art. 51, III e IX, da Lei 11.101/05, habilitá-lo no respectivo plano de soerguimento de forma retardatária ou aguardar o encerramento da recuperação judicial, para então dar início a um novo cumprimento individual de sentença, sujeitando-se às condições estabelecidas no plano de recuperação aprovado, nos termos do art. 59, da Lei 11.101/05.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ROSA PERIN CONTI contra decisão monocrática de fls. 221-224 e-STJ, da lavra deste signatário, que deu parcial provimento ao recurso especial manejado pela parte ora agravante.
+O apelo extremo, a seu turno, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio a acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fls. 43 e-STJ):
+AGRAVO DE INSTRUMENTO. CONTRATO DE PARTICIPAÇÃOFINANCEIRA. BRASIL TELECOM S/A. CUMPRIMENTO DESENTENÇA. RECUPERAÇÃO JUDICIAL. HABILITAÇÃO DO CRÉDITO. FACULDADE. SUSPENSÃO DO FEITO. POSSIBILIDADE. DE ACORDO COM O PRECONIZADO NO ART. 10, §6º, DA LEI Nº 11.101/05, A HABILITAÇÃO RETARDATÁRIA DO CRÉDITO É UMA FACULDADE DA PARTE CREDORA, E NÃO UMA IMPOSIÇÃO. REVENDO POSICIONAMENTO ANTERIOR, CASO A PARTE CREDORA OPTE POR NÃO HABILITAR SEU CRÉDITO, COMO NO CASO, CABÍVEL A SUSPENSÃO DO CUMPRIMENTO DE SENTENÇA. NO ENTANTO, A SUSPENSÃO PERMANECERÁ ATÉ O TÉRMINO DO PLANO DE RECUPERAÇÃO JUDICIAL, COM A POSSIBILIDADE DE POSTERIOR REATIVAÇÃO.
+APÓS O VOTO DO RELATOR, DES. CABRAL, DESPROVENDO O AGRAVO DE INSTRUMENTO, O DES. CAIRO LANÇOU DIVERGÊNCIA PARA DAR PROVIMENTO RECURSO. O DES. CORSSACACOMPANHOU O RELATOR.
+RESULTADO: POR MAIORIA, VENCIDO O DES CAIRO, AGRAVO DE INSTRUMENTO DESPROVIDO.
+REDATOR PARA O ACÓRDÃO: DES. CABRAL.
+Opostos embargos de declaração, esses foram rejeitados (fls. 150-156 e-STJ).
+Nas razões do recurso especial (fls. 172-180 e-STJ), a parte ora recorrente, apontou que o acórdão recorrido violou os artigos 10, § 6º, 61 e 63 da Lei n. 11.101/2005, além de dissídio jurisprudencial, sustentando, em suma, que deve ser permitida a retomada da execução individual com o término do processo de recuperação judicial - e não do cumprimento integral do plano.
+Apresentadas contrarrazões às fls. 185-202 e-STJ, o apelo nobre foi admitido na origem.
+Em decisão monocrática (fls. 221-224 e-STJ), este signatário deu parcial provimento ao recurso especial, para, reformando o aresto recorrido, reconhecer a possibilidade de prosseguimento/ajuizamento da execução após a sentença de encerramento da recuperação judicial (art. 63 da Lei n. 11.101/05), observando-se, todavia, o prazo para pagamento previsto no plano de recuperação, de acordo com a classe a que o crédito for pertencente.
+Inconformada, no presente agravo interno (fls. 228-232 e-STJ), insurge-se contra o parcial provimento do recurso especial, afirmando que a decisão está em desacordo com a jurisprudência consolidada do STJ sobre o tema.
+Impugnação às fls. 237-241 e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO APELO NOBRE.
+INSURGÊNCIA DA PARTE DEMANDANTE.
+1.  Segundo o entendimento jurisprudencial recente, firmado pela Segunda Seção deste Superior Tribunal de Justiça, nos autos do REsp n. 1.655.705/SP, por se tratar de direito disponível, é facultado ao credor, cujo crédito não tenha sido indicado na relação prevista no art. 51, III e IX, da Lei 11.101/05, habilitá-lo no respectivo plano de soerguimento de forma retardatária ou aguardar o encerramento da recuperação judicial, para então dar início a um novo cumprimento individual de sentença, sujeitando-se às condições estabelecidas no plano de recuperação aprovado, nos termos do art. 59, da Lei 11.101/05.
+2. Agravo interno desprovido.
+VOTO
+O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte recorrente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida.
+1. Deve ser mantida a decisão que deu parcial provimento ao recurso especial.
+Conforme consignando pela decisão agravada, a controvérsia tratada no presente feito foi debatida pelo Colegiado desta Quarta Turma no julgamento do EDcl no REsp n. 1.851.692/RS (rel. Ministro Luis Felipe Salomão, julgado em 24/5/2022, DJe de 9/9/2022).
+Extrai-se do voto condutor do mencionado precedente:
+Portanto, sendo aprovado o plano de recuperação judicial que dispõe acerca do pagamento de determinado crédito (classe), o credor que optou por não se habilitar sofrerá os respectivos efeitos da recuperação, caso em que o crédito será considerado novado e o credor deverá recebê-lo em conformidade com o previsto no plano, ainda que em execução posterior ao encerramento da recuperação judicial.
+ ..
+Assim, o credor que figurar na listagem com a exatidão do valor do crédito e da classificação a que faz jus estará automaticamente habilitado na recuperação judicial. Caso contrário, terá o credor a faculdade de decidir entre: i) habilitar de forma retardatária o seu crédito; ii) não cobrá-lo; e iii) ajuizar a execução individual ou requerer o cumprimento de sentença somente após o encerramento da recuperação judicial. Em qualquer hipótese, terá o ônus de se sujeitar aos efeitos da recuperação judicial.
+ ..
+Se o credor não estiver habilitado, perderá a legitimidade para votar em assembleia, privando-se de seus direitos políticos, e correrá contra ele a prescrição, além do fato de que estará abrindo mão do direito de receber o seu crédito no âmbito da recuperação judicial, durante o período de fiscalização judicial, com a possibilidade de requerer a sua convolação em falência no caso de descumprimento (LREF, art. 61, § 1º, c/c o art. 73, IV).
+Com efeito, "durante o período de fiscalização judicial, que perdura por até dois anos a partir da concessão da recuperação, o descumprimento de qualquer das obrigações assumidas no plano importa na convolação em falência".  ..
+ ..
+Por fim, o credor que não tenha sido incluído no plano e que tenha optado por não se habilitar de forma retardatária, sem interesse em participar do conclave pela execução individual, deverá aguardar o encerramento da recuperação judicial (LREF, art. 63), assumindo todas as consequências jurídicas (processuais e materiais) de sua escolha.
+Ressalte-se que o prazo é o do encerramento, porque, "a rigor, a Lei não estabelece limite temporal para a habilitação retardatária, de tal forma que, em tese, até o momento da sentença de encerramento da recuperação (art. 63)  ..  é possível receber habilitações (como habilitação ou como resultado de julgamento de ação de rito ordinário), as quais serão normalmente processadas, para fins de inclusão no quadro-geral de credores, na categoria que a lei reserva para aquele crédito"  ..
+ ..
+7. Em suma, poderá o credor que não constou da listagem do quadro geral de credores, após o encerramento da recuperação, dar início a sua execução individual ou retomar o cumprimento de sentença, levando em conta que:
+i) o seu crédito será pago nos moldes previstos no plano de recuperação, de acordo com a classe a que for pertencente - o credor não é obrigado a habilitar, mas há o ônus de se sujeitar compulsoriamente aos efeitos do que for decidido no plano de recuperação judicial (LREF, arts. 49 e 59);
+ii) contra ele será retomado o curso da prescrição - após o stay period (LREF, art. 6º, I e § 4º) ou até a aprovação do plano de recuperação (art. 59), o que ocorrer primeiro. Por conseguinte, a depender do prazo de encerramento da recuperação, o crédito poderá estar prescrito no momento do ajuizamento da execução ou, nos casos de retomada do cumprimento de sentença, ter sofrido os efeitos da prescrição intercorrente. Apesar de estar impedido de efetivar ou retomar a sua cobrança até o encerramento da recuperação judicial (o que afastaria a sua inércia), não se pode olvidar que o sistema da LREF conferiu ao credor instrumento próprio para o recebimento de seu crédito - a sua habilitação - e, por conseguinte, ao optar por não habilitar, estará caracterizada a sua inação;
+Portanto, assiste razão à insurgente quanto à possibilidade de prosseguimento/ajuizamento da execução após a sentença de encerramento da recuperação judicial, prevista no artigo 63 da Lei n. 11.101/05.
+Ressalva-se, entretanto, que o crédito estará sujeito a todos os efeitos da recuperação judicial.
+E, conforme precedente acima referido, "o seu crédito será pago nos moldes previstos no plano de recuperação, de acordo com a classe a que for pertencente".
+Ou seja, em que pese a execução possa ser ajuizada/retomada após a sentença de encerramento da recuperação judicial, deverão ser observados, também, os prazos previstos no plano de recuperação, de acordo com a classe a que for pertencente - sob pena de privilegiar o crédito não habilitado e de violar a paridade entre credores.
+Nesse sentido, cita-se, ainda, o seguinte precedente:
+PROCESSUAL CIVIL E EMPRESARIAL. CUMPRIMENTO DE SENTENÇA PROFERIDA EM AÇÃO DE COBRANÇA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. IMPUGNAÇÃO. CRÉDITO ANTERIOR AO PEDIDO DE RECUPERAÇÃO JUDICIAL. SUBMISSÃO AOS EFEITOS DO PLANO DE RECUPERAÇÃO JUDICIAL (TEMA REPETITIVO 1.051). RECURSO ESPECIAL PROVIDO. INCONFORMISMO. PROCEDIMENTO RECUPERACIONAL ENCERRADO. NOVAÇÃO DO CRÉDITO. EXECUÇÃO INDIVIDUAL QUE SE SUBMETE AO PLANO DE RECUPERAÇÃO HOMOLOGADO. AGRAVO INTERNO DESPROVIDO.
+1. Cumprimento de sentença fundado em inadimplemento contratual, discutindo-se, em impugnação, a submissão ou não do crédito perseguido ao plano de recuperação judicial.
+2. Hipótese em que o Tribunal de origem, embora reconhecendo a natureza concursal do crédito exequendo, afastou sua submissão aos efeitos do plano de recuperação judicial homologado pelo juízo falimentar sob o fundamento de que fora anteriormente excluído do procedimento recuperacional em razão de sua iliquidez à época, reconhecendo a existência de coisa julgada material.
+3. Entendimento que contraria a legislação federal atinente à matéria, divergindo, igualmente, da jurisprudência consolidada do Superior Tribunal de Justiça.
+4. A teor do art. 49 da Lei 11.101/2005, estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos, o que conduz à conclusão de que a submissão de um determinado crédito à Recuperação Judicial não depende de provimento judicial anterior ou contemporâneo ao pedido, bastando que se refira a obrigações cujos fatos geradores foram praticadas anteriormente a ele, conforme já definido por esta Corte no Tema Repetitivo 1.051.
+5. Por outro lado, a novação automática do crédito concursal (ope legis), prevista no art. 59 da Lei 11.101/2005, implica, primeiro, que ele terá nova conformação (valor, parcelamento) determinada pelo que previsto no plano de recuperação judicial para a mesma classe creditória, e que sua cobrança, embora encerrado o procedimento de recuperação judicial, deverá ser requerida em conformidade com o definido no plano aprovado na recuperação judicial.
+6. Nos termos da jurisprudência do STJ, "o credor preterido, conquanto não seja obrigado a se habilitar, deve se submeter aos efeitos da recuperação judicial na execução individual, pois, de acordo com a Lei nº 11.101/2005, a novação atinge todos os créditos concursais, indistintamente" (AgInt nos EDcl no AgInt nos EDcl no REsp 1.979.280/RS, Relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 5/12/2022, DJe de 9/12/2022).
+7. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 2.038.258/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/8/2023, DJe de 18/8/2023.)
+Sendo o suficiente para manutenção do decisum, é de rigor o desprovimento do agravo interno.
+Desde já, advirta-se que a utilização de expedientes protelatórios poderá ensejar a aplicação das penalidades legais.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
