@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM HABEAS CORPUS. ALEGAÇÃO DE OMISSÃO DO JULGADO EMBARGADO SOBRE QUESTÕES REFERENTES À APLICAÇÃO DA REDUTORA DO TRÁFICO PRIVILEGIADO. SÚMULA 182 DO STJ. INEXISTÊNCIA DE OMISSÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração, ainda que manejados para fins de prequestionamento, somente se prestam a corrigir error in procedendo e possuem fundamentação vinculada, dessa forma, para seu cabimento, imprescindível a demonstração de que a decisão embargada se mostrou obscura, contraditória, ambígua ou omissa, conforme disciplina o art. 619 do Código de Processo Penal, ou mesmo para correção de erro material, o que não ocorreu na espécie.
+Portanto, a mera irresignação com o resultado de julgamento, visando, assim, a reversão do julgado, não tem o condão de viabilizar a oposição dos aclaratórios.
+2. Na hipótese, constata-se que o acórdão não foi omisso, uma vez que analisou de forma clara e devidamente fundamentada os motivos pelos quais o agravo regimental não foi conhecido, justificando a incidência da Súmula n. 182 do STJ.
+3. Manifesta, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, porquanto não demonstrada a ocorrência de nenhuma das hipóteses do art. 619 do Código de Processo Penal. De fato, não se verificando ambiguidade, omissão, contradição ou obscuridade, mas mera irresignação do embargante com a solução apresentada por esta Corte Superior, fica inviabilizada a utilização dos embargos de declaração.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos NELSON WILLIAN DUARTE contra acórdão da Quinta Turma desta Corte assim ementado:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. ENUNCIADO N. 182 DA SÚMULA DESTA CORTE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Neste agravo regimental não foram trazidos argumentos novos, aptos a elidirem os fundamentos da decisão agravada, uma vez que o agravante apenas reiterou aqueles já apresentados na petição inicial. Tais fundamentos, uma vez que não foram devidamente impugnados, atraem ao caso o disposto no enunciado n. 182 da Súmula desta Corte.
+2. Agravo regimental não conhecido.
+No presente recurso (e-STJ fls. 233/226), a defesa sustenta omissão da decisão colegiada quanto aos argumentos apresentados pelo embargante quanto ao cabimento da incidência da redutora do tráfico privilegiado.
+Pede, ao final, a concessão de efeitos infringentes aos embargos de declaração, para o fim de que se conheça e, no mérito, dê-se provimento ao Agravo Regimental. (e-STJ fl. 226).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM HABEAS CORPUS. ALEGAÇÃO DE OMISSÃO DO JULGADO EMBARGADO SOBRE QUESTÕES REFERENTES À APLICAÇÃO DA REDUTORA DO TRÁFICO PRIVILEGIADO. SÚMULA 182 DO STJ. INEXISTÊNCIA DE OMISSÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração, ainda que manejados para fins de prequestionamento, somente se prestam a corrigir error in procedendo e possuem fundamentação vinculada, dessa forma, para seu cabimento, imprescindível a demonstração de que a decisão embargada se mostrou obscura, contraditória, ambígua ou omissa, conforme disciplina o art. 619 do Código de Processo Penal, ou mesmo para correção de erro material, o que não ocorreu na espécie.
+Portanto, a mera irresignação com o resultado de julgamento, visando, assim, a reversão do julgado, não tem o condão de viabilizar a oposição dos aclaratórios.
+2. Na hipótese, constata-se que o acórdão não foi omisso, uma vez que analisou de forma clara e devidamente fundamentada os motivos pelos quais o agravo regimental não foi conhecido, justificando a incidência da Súmula n. 182 do STJ.
+3. Manifesta, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, porquanto não demonstrada a ocorrência de nenhuma das hipóteses do art. 619 do Código de Processo Penal. De fato, não se verificando ambiguidade, omissão, contradição ou obscuridade, mas mera irresignação do embargante com a solução apresentada por esta Corte Superior, fica inviabilizada a utilização dos embargos de declaração.
+4. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+No caso, não se constatam os vícios alegados.
+Na presente hipótese, constata-se o embargante pretende, na realidade, por via transversa, que seja conhecido o agravo regimental, a despeito do óbice da Súmula n. 182 do STJ.
+Quanto ao tema ora rediscutido, verifica-se que ficou consignado que na decisão agravada foram enfrentados, de forma fundamentada, os argumentos apresentados pela defesa, enfatizando que não se verifica nenhuma ilegalidade a ser sanada na negativa de incidência da benesse do tráfico privilegiado ao paciente.
+Constatou-se que no recurso de agravo regimental, porém, não foram apresentados quaisquer argumentos novos, capazes de infirmar os fundamentos da decisão agravada, uma vez que o agravante apenas reiterou aqueles já apresentados na petição inicial. Assim, uma vez que não houve a impugnação específica acerca dos fundamentos da decisão agravada, incidiu ao caso o disposto no enunciado n. 182 da Súmula desta Corte.
+Desse modo, constata-se que o acórdão não foi omisso, uma vez que analisou de forma clara e devidamente fundamentada os motivos pelos quais o agravo regimental não foi conhecido, justificando a incidência da Súmula n. 182 do STJ.
+Nítido, assim, que o embargante não concorda com a interpretação dos fatos e da lei dada por esta Corte à controvérsia.
+Relembro que os embargos de declaração não são a via adequada para a reapreciação do entendimento ventilado no acórdão embargado. O inconformismo do embargante com o resultado do julgamento e a intenção de rediscutir os fundamentos do acórdão, são situações não autorizadas no âmbito dos embargos de declaração, que não se prestam a essa finalidade.
+De ressaltar-se que esta Corte tem entendido que a discordância da parte com os fundamentos postos no julgado não implica em ausência de fundamentação ou em fundamentação deficiente. Nesse sentido, o seguinte precedente:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO NO ACÓRDÃO RECORRIDO. VÍCIO NÃO CONFIGURADO. ART. 489, § 1º, DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. NÃO OCORRÊNCIA. SERVIDOR PÚBLICO. REAJUSTE SALARIAL. PRESCRIÇÃO DA PRETENSÃO REMUNERATÓRIA. REVISÃO DO JULGADO. IMPOSSIBILIDADE. CONTROVÉRSIA DECIDIDA PELA CORTE DE ORIGEM COM BASE NA LEI LOCAL E NAS PROVAS DOS AUTOS. INCIDÊNCIA DAS SÚMULAS 280 DO STF E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Não há falar em omissão existente no acórdão quando o Tribunal local julga integralmente a lide, apenas não adotando a tese defendida pelos recorrentes. Não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Afasta-se a tese de fundamentação deficiente do aresto combatido (art. 489, § 1º, III, IV e VI, do CPC/2015), pois esta Corte Superior possui precedente de que, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 14/6/2016, DJe 21/6/2016).
+3. Verifica-se, do exame da controvérsia posta em juízo, a presença dos impeditivos descritos nas Súmulas 7/STJ e 280/STF, porquanto a fundamentação do aresto impugnado encontra-se ancorada em legislação local e nas provas dos autos.
+4. A presença de óbices sumulares impede o conhecimento do recurso especial pela alínea "c" do permissivo constitucional. Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.649.443/RO, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 26/09/2017, DJe 29/09/2017) - negritei.
+Manifesta, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, porquanto não demonstrada a ocorrência de nenhuma das hipóteses do art. 619 do Código de Processo Penal. De fato, não se verificando ambiguidade, omissão, contradição ou obscuridade, mas mera irresignação do embargante com a solução apresentada por esta Corte Superior, fica inviabilizada a utilização dos embargos de declaração.
+Ante o exposto, conheço dos embargos de declaração porque tempestivos, mas para rejeitá-los.
+É como voto.
