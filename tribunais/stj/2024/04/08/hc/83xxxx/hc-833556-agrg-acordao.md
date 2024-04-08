@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. MAUS ANTECEDENTES. QUANTIDADE DE DROGA APREENDIDA. FRAÇÃO ADOTADA EM 1/5. FU NDAMENTAÇÃO CONCRETA. PROPORCIONAL. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO .
+1. A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+2. A dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+3. Os maus antecedentes aliados à expressiva quantidade de droga apreendida constitui fundamentação idônea a justificar a elevação da pena-base, uma vez que o juiz deve considerar, com preponderância sobre o previsto no art. 59 do Estatuto repressivo, a natureza e a quantidade da substância entorpecente, nos termos do art. 42 da Lei n. 11.343/2006.
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto em favor de William de Oliveira Souza contra a decisão que denegou o habeas corpus impetrado contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais.
+No presente agravo, a defesa repisa os argumentos de mérito do habeas corpus, sustentando a ausência de fundamentação idônea para a majoração da pena-base, porquanto considerados elementos inerentes ao tipo penal, além do uso de fração em patamar diverso de 1/6.
+Postula, assim, pelo provimento do recurso.
+Por manter a decisão agravada, submeto o feito à Sexta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. MAUS ANTECEDENTES. QUANTIDADE DE DROGA APREENDIDA. FRAÇÃO ADOTADA EM 1/5. FU NDAMENTAÇÃO CONCRETA. PROPORCIONAL. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO .
+1. A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+2. A dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+3. Os maus antecedentes aliados à expressiva quantidade de droga apreendida constitui fundamentação idônea a justificar a elevação da pena-base, uma vez que o juiz deve considerar, com preponderância sobre o previsto no art. 59 do Estatuto repressivo, a natureza e a quantidade da substância entorpecente, nos termos do art. 42 da Lei n. 11.343/2006.
+4. Agravo regimental desprovido.
+VOTO
+A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+A defesa repisa os argumentos de mérito do habeas corpus, sustentando a ausência de fundamentação idônea para a majoração da pena-base, porquanto considerados elementos inerentes ao tipo penal, além do uso de fração em patamar diverso de 1/6.
+Como consta na decisão agravada, o Tribunal de origem, ao reavaliar a dosimetria, reformou a sentença para manter a valoração negativa apenas das vetoriais antecedentes ("diante de nada mais nada menos que 5 (cinco) condenações criminais transitadas em julgado em desfavor de William, todas aptas a configurar a reincidência") e quantidade de drogas ("estamos diante de mais de um quilo de cocaína, substância de elevada nocividade ao organismo" - art. 42 da Lei 11.343/2006), consignando, "Fixadas tais premissas, e diante da manutenção da análise desfavorável dos antecedentes e da natureza e quantidade de drogas, crê-se que a fixação da pena-base em 7 (sete) anos de reclusão e 700 (setecentos) dias-multa atende aos propósitos de adequação e suficiência à reprovação e prevenção do delito".
+Mostra-se legítimo o aumento da pena-base pelas vetoriais mencionadas, porquanto a interpretação conferida pelo Tribunal de origem ao disposto no art. 59 do CP e art. 42 da Lei 11.343/2006 está em consonância com a orientação do Superior Tribunal de Justiça, lastreando em elementos concretos a ensejar maior reprovabilidade da conduta.
+Ressalte-se que "inexiste violação ao art. 59 do Código Penal - CP quando a fixação da pena-base acima do mínimo legal e dentro dos limites estabelecidos o tipo penal foi devidamente embasada na valoração negativa de uma das circunstâncias judiciais, ou seja, em elemento que extrapola o tipo penal, evidenciando a especial reprovabilidade da conduta" (AgRg no AREsp 1407518/SP, rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 4/4/2019, DJe 16/4/2019).
+Quanto à proporcionalidade do aumento operado em relação à pena-base - 5 anos - o incremento se deu no montante de 2 anos, o que corresponde a 1/5 (1 ano) de aumento em relação a cada vetorial negativada.
+Ressalte-se que não existe critério puramente aritmético para a dosimetria da pena, cabendo ao julgador, a quem a lei confere certo grau de discricionariedade, sopesar cada circunstância à luz da proporcionalidade, consoante seu prudente arbítrio, tal como ocorreu no presente caso. A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. DOSIMETRIA. QUANTIDADE DA DROGA APREENDIDA (17,27 KG DE COCAÍNA). ELEVAÇÃO DA PENA-BASE EM 1 ANO. ELEMENTOS CONCRETOS. PROPORCIONALIDADE. PRECEDENTES.
+ ..
+3. A exasperação da pena-base não se dá por critério objetivo ou matemático, uma vez que é admissível certa discricionariedade do órgão julgador, desde que vinculada aos elementos concretos dos autos.
+4. Agravo regimental improvido. (AgRg no HC 556.901/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 09/06/2020, DJe 18/06/2020.)
+Dessa forma, verifica-se que a fração de 1/6 sobre o mínimo legal ou 1/8 do intervalo entre as penas mínima e máxima não se revelam obrigatórias, porque o que se exige das instâncias ordinárias é a fundamentação adequada e a proporcionalidade na exasperação da pena, o que se tem no presente caso. Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE AUSÊNCIA DE RAZOABILIDADE NA ELEVAÇÃO DA PENA-BASE. PRIMEIRA FASE DA DOSIMETRIA. PENA FIXADA COM A DEVIDA FUNDAMENTAÇÃO. AUSÊNCIA DE ILEGALIDADE NA FRAÇÃO DE 1/8 PARA CADA VETORIAL.
+1. Ainda que a defesa tenha trazido inúmeros precedentes em que a pena foi elevada na fração de 1/6, não existe um parâmetro obrigatório, e cada caso traz a sua particularidade.
+2. O Magistrado valorou como negativa a culpabilidade do paciente, pela premeditação do crime, com planejamento e divisão de tarefas, a fim de submeter a vítima a sofrimento e a consequente morte, com 3 disparos de arma de fogo.
+3. Agravo regimental improvido.
+(AgRg no HC 707.460/MS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 08/03/2022, DJe 15/03/2022.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ESTELIONATO. PRESCRIÇÃO NÃO CONSUMADA. INTERRUPÇÃO PELO ACÓRDÃO CONFIRMATÓRIO DA CONDENAÇÃO. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 619 DO CPP. PLEITO ABSOLUTÓRIO. SÚMULA 7/STJ. VALORAÇÃO DE DOCUMENTOS COLHIDOS NA FASE EXTRAJUDICIAL. POSSIBILIDADE, DESDE QUE SUBMETIDOS AO CONTRADITÓRIO. OFENSA AO ART. 155 DO CPP NÃO CONFIGURADA. DOSIMETRIA DA PENA. EXASPERAÇÃO PROPORCIONAL NA PRIMEIRA FASE. AUSÊNCIA DE DIREITO SUBJETIVO DO RÉU À APLICAÇÃO DE UM CRITÉRIO MATEMÁTICO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+5. Na primeira fase da dosimetria da pena, não há direito do subjetivo do réu à adoção de alguma fração específica de exasperação para cada circunstância judicial desfavorável, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínima e máxima ou mesmo outro valor. Tais frações são parâmetros aceitos pela jurisprudência do STJ, mas não se revestem de caráter obrigatório, exigindo-se apenas que seja proporcional o critério utilizado pelas instâncias ordinárias.
+6. Agravo regimental desprovido.
+(AgRg no REsp 1951442/PE, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 23/11/2021, DJe 29/11/2021.)
+Encontrando-se as circunstâncias judiciais valoradas negativamente, devidamente fundamentadas em elementos concretos, não inerentes aos tipos penais, mantém-se a pena-base acima do mínimo legal, haja vista que estabelecidos de forma proporcional.
+Ante o exposto, nego provimento ao agravo regimental, mantendo a decisão agravada por seus próprios fundamentos.
+É o voto.
