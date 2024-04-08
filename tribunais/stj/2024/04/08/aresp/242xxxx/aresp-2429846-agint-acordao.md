@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/04/2024 a 08/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. SOBRESTAMENTO DE EXECUÇÃO DE SENTENÇA. AÇÃO COLETIVA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. NÃO VIOLAÇÃO DO ART. 489 E 1.022 DO CPC. INCIDÊNCIA ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Na origem, trata-se de agravo de instrumento contra decisão que manteve o sobrestamento de execução de sentença proferida em ação coletiva. No Tribunal a quo, negou-se provimento ao recurso.
+II - Não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". (EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+IV - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+V - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Maranhão, assim resumido:
+PROCESSUAL CIVIL. EXECUÇÃO INDIVIDUAL DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA INTENTADA PELO SINTSEP/MA - REJEIÇÃO SUSPENSÃO DO CURSO PROCESSUAL PELO PRAZO DE 1 (UM) ANO - POSSIBILIDADE - EMBARGOS DE DECLARAÇÃO PENDENTE DE JULGAMENTO - AGRAVO CONHECIDO E IMPROVIDO.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+É cediço que o julgador não é obrigado a manifestar-se sobre todas as questões levantadas, porém, nos termos do julgado acima, deve necessariamente apreciar aquelas relevantes à solução da controvérsia, sobretudo quando se revela nuclear ao objeto recursal, como no caso dos autos.
+É flagrante a omissão do órgão julgador, pois em nenhum momento enfrento as questões e documentos apontados, sequer para declarar sua imprestabilidade a infirmar conclusão apontada na decisão recorrida.
+Assim, configurada a deficiência pela negativa de prestação jurisdicional, a medida que se impõe é a anulação do julgado recorrido, para que ocorra rejulgamento da questão com o necessário enfrentamento daquilo que foi apontado pela parte recorrente, ou seja, os índices aferidos pela contadoria judicial são genéricos, sendo desnecessária a apresentação de lista homologada para a continuidade do feito.
+ ..
+Da mera leitura do acórdão guerreado, percebe-se que não houve, em qualquer momento, enfrentamento desta questão, permanecendo a corte omissa sobre, logo não se deve falar em acórdão fundamentado.
+É patente a omissão, pela falta de argumentos aptos a elidir a tese de desnecessidade de comprovação de nome em lista e, consequentemente, desnecessidade de suspensão.
+ ..
+Tal fundamento não corresponde ao extraído dos autos. Houve oposição de embargos com fito de prequestionamento, conforme se depreende dos autos, precisamente nas fls. e-STJ 161a 176.
+ ..
+Ocorre que não se pretende que a corte superior realize juízo sobre fatos e provas, mas tão somente que seja identificada a negativa de prestação jurisdicional pela corte estadual sobre as teses de liquidez por índices genéricos já aferidos e desnecessidade de suspensão, tendo em vista que as matérias indicadas como pendentes de apreciação nos autos coletivas são, na verdade, objeto de impugnação ao cumprimento de sentença individual, revelando violação ao art. 535 do CPC.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. SOBRESTAMENTO DE EXECUÇÃO DE SENTENÇA. AÇÃO COLETIVA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. NÃO VIOLAÇÃO DO ART. 489 E 1.022 DO CPC. INCIDÊNCIA ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Na origem, trata-se de agravo de instrumento contra decisão que manteve o sobrestamento de execução de sentença proferida em ação coletiva. No Tribunal a quo, negou-se provimento ao recurso.
+II - Não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". (EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+IV - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+A matéria em voga versa sobre Execução Individual da sentença proferida na Ação Coletiva nº 6542/2005 (SINTSEP/MA), cuja tramitação foi suspensa pelo juízo de base, pelo prazo de 01 (um) ano, sob o fundamento de que não houve o trânsito em julgado da decisão de homologação dos cálculos por arbitramento na citada ação coletiva, sendo essa a decisão ora agravada.
+ ..
+Porém, essa decisão foi atacada por embargos de declaração que discute prescrição da pretensão executória, além da impossibilidade de implantação do índice aos servidores que tenham aderido ao PGCE, o que se amolda ao presente caso.
+Assim, entendo que mesmo que não esteja pendente a apreciação de argumentos que ataquem especificamente os índices a serem aplicados, as questões levantadas têm o condão de modificar as pretensões executórias individuais, razão pela qual, precisam ser dirimidas para continuidade do feito executório, a fim de evitar resultados conflitantes.
+Com esse fundamentos, julgo ser devida a suspensão da execução até o completo transito em julgado da decisão homologatória da liquidação na ação originária.
+Não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". (EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
