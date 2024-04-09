@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo manejado pelo MUNICÍPIO DE POÇO REDONDO contra decisão que negou admissibilidade ao recurso especial em razão da ausência de prequestionamento do art. 39, § 1º, da Lei n. 4.320/1964, o que atraiu o óbice da Súmula n. 211 do STJ.
+O agravante insurge-se contra a decisão agravada alegando que (fls. 340 e-STJ):
+ ..  todas as matérias contidas nos dispositivos violados, qual seja, art. 39,§1º da Lei 4.320/1964, foram enfrentadas nas instancias inferiores.
+Ocorre que, a fim de proceder o devido prequestionamento, não se faz necessário a expressa e literal menção ao dispositivo violado, sobretudo quando as matérias estão expressamente discutidas nas decisões a quo.
+Ora, quando a decisão afirma que "(..) o município impetrante autorizou, destarte, que a Fazenda Nacional realizasse a retenção, nas cotas do FPM, dos valores necessários e suficientes ao pagamento dos débitos em aberto, caso não fizesse o repasse, para a Previdência Social, dos valores relativos às obrigações correntes vencidas e não pagas, com base nas Leis nºs 10.522/02 e/ou 12.810/13 e/ou 13.485/17.", ele afirma que não é necessário o envio dos débitos exigíveis à Procuradoria-Geral da Fazenda Nacional a fim de controle de legalidade e inscrição na dívida ativa, afrontando o art. 39, §1º da Lei 4.320/1964  ..
+Requer o conhecimento do agravo para que seja conhecido e provido o recurso especial.
+Sem contrarrazões.
+É o relatório. Passo a decidir.
+O agravante impugnou adequadamente o fundamento da decisão que negou admissibilidade ao recurso especial, razão pela qual conheço do agravo.
+Contudo, o recurso especial não merece conhecimento. Explico.
+Da análise dos autos, verifica-se que o art. 39, § 1º, da Lei n. 4.320/1964 não foi objeto de prequestionamento na origem, o que atrai o óbice da Súmula n. 282 do STF, in verbis: "Inadmissível o recurso extraordinário quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Ademais, o acórdão recorrido entendeu que a a retenção de valores de quotas do fundo de participação dos municípios encontra arrimo no art. 160, parágrafo único, da Constituição Federal, e que o próprio regramento do parcelamento simplificado ao qual aderiu o Município prevê que, ao aderir aos programas de parcelamento da Lei n. 10.522/2002, o Município deverá autorizar a retenção nos repasses do FPM.
+Os referidos fundamentos do acórdão recorrido não foram impugnados pelo recorrente, seja pela via do recurso extraordinário em relação ao fundamento constitucional, o que atrai o óbice da Súmula n. 126 desta Corte (É inadmissível o recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário), seja pela impugnação no âmbito do presente especial a atrair o óbice da Súmula n. 283 do STF, in verbis: "É inadmissível o recurso extraordinário, quando a decisão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E FINANCEIRO. AGRAVO EM RECURSO ESPECIAL. RETENÇÃO DE QUOTA DE FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS. OFENSA AO ART. 39, § 1º, DA LEI N. 4.320/1964. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282 DO STF. FUNDAMENTO CONSTITUCIONAL DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE RECURSO EXTRAORDINÁRIO. SÚMULA N. 126 DO STJ. AUTORIZAÇÃO DADA PELO PRÓPRIO MUNICÍPIO AO ADERIR A PROGRAMA DE PARCELAMENTO. FUNDAMENTO NÃO IMPUGNADO. SÚMULA N. 283 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
