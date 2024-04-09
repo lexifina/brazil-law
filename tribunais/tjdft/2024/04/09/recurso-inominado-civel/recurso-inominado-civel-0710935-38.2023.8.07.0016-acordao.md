@@ -1,0 +1,62 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Terceira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0710935-38.2023.8.07.0016RECORRENTE(S)ITAU UNIBANCO S.A.RECORRIDO(S)KARLA ALVES DE ARAUJORelatorJuiz DANIEL FELIPE MACHADO
+ Acórdão Nº1840926
+
+EMENTA
+
+ p{text-align: justify;}
+CIVIL. CONSUMIDOR. RESPONSABILIDADE CIVIL DA INSTITUIÇÃO BANCÁRIA POR GOLPE DA CENTRAL TELEFÔNICA. TRANSFERÊNCIA VIA PIX. INOBSERVÂNCIA DO DEVER DE CAUTELA POR PARTE DO CONSUMIDOR. FALHA NA PRESTAÇÃO DOS SERVIÇOS DA INSTITUIÇÃO FINANCEIRA.    CULPA CONCORRENTE. RECURSO CONHECIDO. PRELIMINARES REJEITADAS. NO MÉRITO, PARCIALMENTE PROVIDO.
+1. Não padece de falta de dialeticidade o recurso que manifesta inconformidade com a decisão proferida na sentença e aponta necessidade de valoração distinta do conteúdo (argumentativo) existente nos autos como fundamento da reforma da sentença. PRELIMINAR DE AUSÊNCIA DE DIALETICIDADE SUSCITADA EM CONTRARRAZÕES REJEITADA.
+2. Manifesta é a legitimidade da instituição financeira mantenedora da conta corrente da consumidora que foi vítima de fraude que possibilitou a realização de operações bancárias. A verificação da efetiva responsabilidade pela reparação dos danos, momento em que será analisada eventual culpa do consumidor ou de terceiros, é matéria de mérito. PRELIMINAR DE ILEGITIMIDADE PASSIVA REJEITADA.
+3. No rito sumariíssimo dos Juizados Especiais é inviável a denunciação da lide ou qualquer outra modalidade de intervenção de terceiro (art. 10, Lei 9.099/95). Ademais, todos os que participam da cadeia de consumo têm responsabilidade pelos danos decorrentes de fato ilícito ou defeito na prestação de serviços, em decorrência do princípio da solidariedade e do próprio sistema de proteção, fundado no risco-proveito do negócio, consagrado no art. 7º, parágrafo único, do CDC. PRELIMINAR DE INCOMPETÊNCIA REJEITADA.
+4. Nos termos do art. 14, CDC o fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos. E ainda, de acordo com o mandamento do art. 927, CC, aquele que, por ato ilícito (arts. 186 e 187), causar dano a outrem, fica obrigado a repará-lo.
+5. Ressalvada a culpa exclusiva do consumidor ou de terceiro (art. 14, § 3º, II do CDC), as instituições bancárias respondem objetivamente pelos danos causados por vício na prestação de serviços.
+6. No caso em exame a parte autora descreveu que foi vítima do chamado golpe do atendente. Da análise das provas carreadas aos autos, resta incontroversa a realização das transferências PIX (ID Num. 55473204 - Pág. 1 e ID Num. 55473420 - Pág. 1), R$ 25.000,00 às 11h:48min e R$ 9.800,00 às 12h:59min. Apesar da comunicação rápida do consumidor com o réu, acerca da suposta fraude (ID Num. 55473205 - Pág. 1) realizada no mesmo dia às 13h:40min, não há prova das providências adotadas pelo banco em relação à reclamação. Limitou-se o banco a informar à cliente (em comunicado padrão), ID Num. 55473207 - Pág. 1, que, como as transações foram realizadas em ambiente digital mediante aposição de senha e uso de “itoken” não puderam impedir a concretização da operação, tampouco seu estorno ou cancelamento.
+7. Era de se esperar que os bancos recorridos, ao receberem o comunicado sobre uma transferência via PIX em situação de fraude, deveriam imediatamente tomar as providências preventivas de bloqueio dos valores. Essas são medidas já sinalizadas pela autarquia especial BACEN para impedir transferências fraudulentas. O Banco requerido não comprova eventual impossibilidade para adotar as medidas preventivas a que estava obrigado no momento exato em que foi comunicado e o instante em que o dinheiro foi transferido da conta.
+8. Ainda que a consumidora tenha incorrido em negligência na operação, pois, no dia dos fatos e sob a orientação do fraudador, que se passava por preposto do réu, efetuou a transação. Ainda assim, não se pode à autora, atribuir a culpa exclusiva pela consumação fraude.
+9. Com efeito, o art. 39-B da Resolução BCB Nº 1, DE 12 DE AGOSTO DE 2020 é claro ao afirmar que:
+“Art. 39-B. Os recursos oriundos de uma transação no âmbito do Pix deverão ser bloqueados cautelarmente pelo participante prestador de serviço de pagamento do usuário recebedor quando houver suspeita de fraude.
+§ 1º A avaliação de suspeita de fraude deve incluir:
+I - a quantidade de notificações de infração vinculadas ao usuário recebedor;
+II - o tempo decorrido desde a abertura da conta transacional pelo usuário recebedor;
+III - o horário e o dia da realização da transação;
+IV - o perfil do usuário pagador, inclusive em relação à recorrência de transações entre os usuários; e
+V - outros fatores, a critério de cada participante.
+§ 2º O bloqueio cautelar deve ser efetivado simultaneamente ao crédito na conta transacional do usuário recebedor.”
+Portanto, a avaliação de suspeita deve incluir, dentre outras características, o horário e o dia da realização da transação, bem como o perfil do usuário pagador. Na hipótese dos autos, é possível constatar que a ré não deu a atenção devida à informação do consumidor sobre a operação fraudulenta, na medida em que a instituição financeira não foi capaz de identificar que as operações bancárias em questão (elevação imediata do valor do “cheque especial” e empréstimo de R$ 16.090,00, que  viabilizaram a realização de PIX de R$ 9.800,00 e outro, de R$ 25.000,00) destoavam da movimentação usual da consumidora, notadamente, se levarmos em consideração os extratos ID Num. 55473443 - Pág. 1 a ID Num. 55473443 - Pág. 16, bem como a renda média da autora (aproximadamente R$ 5.500,00), conforme contracheque ID Num. 55473421 - Pág. 1.
+10. Não obstante as alegações da parte ré de que houve culpa exclusiva da autora, não comprovou ter adotado as cautelas exigidas pelo normativo acima citado. Portanto, impossível acolher a tese do banco recorrente de que não pode ser responsabilizado civilmente pelo serviço prestado.
+11. Inegável, por outro lado, que a autora ao efetuar os comandos dados pelo fraudador agiu de forma culposa concorrendo para o surgimento da fraude.
+12. Nessas condições, é de se ver que o evento danoso se deu pela culpa conjugada tanto do consumidor (que agiu sem a devida cautela no momento de realizar os comandos), quanto da instituição financeira que não adotou as medidas de segurança na movimentação dos valores, praticamente, ignorando a reclamação feita pela consumidora que contestou a operação fraudulenta, mas só obteve resposta protocolar e que mais se assemelha a uma resposta padronizada pré-fabricada pelo banco. É digno de nota que a instituição financeira, ao permitir a realização de operações bancárias destoantes do perfil da correntista, revelou a fragilidade de seu sistema de segurança, tornando-se corresponsável pelos prejuízos daí advindos. Destas considerações, conclui-se que ambas as condutas foram determinantes para a conclusão da fraude, pelo que se deve extrair que o banco deve responder apenas pela metade do prejuízo experimentado pela autora, por analogia com súmula de nº 28 da TUJ[1], o que equivale a R$ 18.495,23.
+13. É certo que os fatos experimentados pela autora são desagradáveis, contudo, não tem altitude suficiente para embasar compensação a título de danos morais, pelo que não há lugar para reparação a tal título, que deve ser decotada da sentença.
+14. RECURSO CONHECIDO. PRELIMINARES REJEITADAS. NO MÉRITO, PARCIALMENTE PROVIDO
+Para reformar em parte a sentença e julgar parcialmente procedente o pedido e reduzir o valor da condenação por danos materiais a 50% do valor original, ou seja, de R$ 36.990,46 para R$ 18.495,23 a ser corrigida monetariamente a partir do evento danoso e acrescidos de juros a partir da citação, bem como para afastar a condenação por danos morais fixada.
+15. Nos termos do art. 55 da lei nº 9.099/95, sem condenação em honorários advocatícios, dada a ausência de recorrente vencido.
+ [1] AS INSTITUIÇÕES FINANCEIRAS RESPONDEM PELOS DANOS DECORRENTES DE FATO DO SERVIÇO NAS FRAUDES BANCÁRIAS CONHECIDAS COMO GOLPE DO MOTOBOY, EM QUE O CONSUMIDOR, SUPONDO SEGUIR INSTRUÇÕES DE PREPOSTO DO BANCO, E UTILIZANDO-SE DOS INSTRUMENTOS DE COMUNICAÇÃO POR ELE FORNECIDOS, ENTREGA O CARTÃO DE CRÉDITO/DÉBITO A TERCEIRO FRAUDADOR QUE O UTILIZA EM SAQUES E COMPRAS. EM CASO DE CULPA CONCORRENTE, A INDENIZAÇÃO DEVE SER PROPORCIONAL.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Terceira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, DANIEL FELIPE MACHADO - Relator, MARCO ANTONIO DO AMARAL - 1º Vogal e MARGARETH CRISTINA BECKER - 2º Vogal, sob a Presidência do Senhor Juiz DANIEL FELIPE MACHADO, em proferir a seguinte decisão: CONHECIDO. PRELIMINARES REJEITADAS. PARCIALMENTE PROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 09 de Abril de 2024
+
+Juiz DANIEL FELIPE MACHADOPresidente e Relator
+
+RELATÓRIO
+
+Petição inicial: Narra a autora que em 18/01/2023, às 11:30h recebeu ligação telefônica (telefone fixo residencial) de um suposto preposto do réu que a informou da realização naquele momento de transações suspeitas em sua conta bancária, motivo pelo qual solicitou que a autora ligasse para o telefone do réu constante do verso de seu cartão de crédito. Realizada a ligação recomendada, a consumidora foi noticiada da realização de um PIX de R$ 25.000,00 e, para o cancelamento daquele, utilizou-se do aplicativo do banco no celular, seguindo orientações da interlocutora. Também foi orientada que precisaria confirmar um empréstimo no mesmo aplicativo, no valor de R$ 16.090,00, para que essa operação suspeita também fosse “cancelada”. A Requerente assim o fez, confirmando esse empréstimo. Em seguida, foi informada que havia outra fraude em relação a um PIX no valor de R$ 9.800,00 que também precisava ser “confirmada” para ser estornado. E assim procedeu a demandante, conforme orientações fornecidas. Diz, também, a autora, que apenas após uma observação de tom jocoso da interlocutora, deu-se conta de que estava sendo vítima de uma fraude, o que fez com que se dirigisse pessoalmente a uma agência do réu, por volta das 13h40min do mesmo dia, a fim de comunicar o ocorrido e apresentar reclamação. Afirma, ainda, que referidas transações só foram possíveis, não só porque os fraudadores se utilizaram do limite de seu “cheque especial”, mas também porque celebraram contrato de empréstimo (R$ 16.090,0). Inconformada com a resposta negativa do réu, e a fim de obstar o incremento de seu prejuízo financeiro, realizou 2 empréstimos com outra instituição financeira para saldar a dívida oriunda da fraude, motivo pelo qual pleiteia o ressarcimento do valor total de R$ 36.990,46 (montante transferido de sua conta via pix: R$ 34.800,00 somado aos juros que pagou à ré a mais por quitar o empréstimo de 16.090,00: R$ 783,17, além do valor dos juros do empréstimo que teve que fazer junto à CEF: R$ 1.407,29). Pugna, ainda, pela condenação do réu ao pagamento de reparação por danos morais.
+
+Contestação: Preliminarmente, o réu agita preliminares de ilegitimidade passiva e de incompetência dos Juizados Especiais, pela necessidade de denunciação da lide. No mérito, alega a inexistência de responsabilidade do banco, que não teria falhado na prestação do serviço, uma vez que a culpa pelo evento danoso era exclusiva da vítima que, seguindo o passo a passo dos fraudadores, teria realizado todas as operações (empréstimo e PIX), utilizando-se do aplicativo do réu com aposição de senha pessoal e intransferível. Alega que presta todas as informações e esclarecimentos acerca da segurança em ambiente digital, pelo que, requer a improcedência dos pedidos.
+
+Sentença: a juíza de origem julgou procedentes os pedidos para condenar o réu a pagar à autora R$ 36.990,46 e R$ 4.000,00 por danos materiais e morais, respectivamente.
+
+VOTOS
+
+O Senhor Juiz DANIEL FELIPE MACHADO - RelatorDecisão proferida na forma do art. 46 da Lei 9.099/95, servindo a ementa como acórdão.
+O Senhor Juiz MARCO ANTONIO DO AMARAL - 1º Vogal Com o relatorA Senhora Juíza MARGARETH CRISTINA BECKER - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. PRELIMINARES REJEITADAS. PARCIALMENTE PROVIDO. UNÂNIME.
