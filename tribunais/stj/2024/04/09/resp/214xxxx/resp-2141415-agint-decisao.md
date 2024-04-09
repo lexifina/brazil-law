@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interno interposto por JBS S.A. contra decisão que indeferiu o pedido de tutela provisória (fls. 807-811).
+Em suas razões, a parte agravante sustenta a necessidade de reconsideração da decisão agravada ante a iminência de ser realizada a penhora de aproximadamente R$ 100 milhões "numa execução prescrita, desafiada por embargos à execução ainda pendentes" (fl. 816).
+Argumenta que o periculum in mora foi demonstrado ante o fato de que a efetivação da mencionada penhora pode resultar na insolvência da empresa e no travamento do fluxo de pagamentos das atividades regularmente desempenhadas, o que, cumulado com a garantia de mais de R$ 18 milhões, já prestada na origem, viabiliza a concessão do efeito suspensivo pleiteado na tutela provisória de urgência.
+A probabilidade do direito, por sua vez, está atrelada à divergência jurisprudencial mencionada no recurso especial e à demonstração de violação dos dispositivos infraconstitucionais que retratam a errônea aplicação da teoria da actio nata pelo acórdão de origem, haja vista a autorização do prosseguimento de execução já abarcada pela prescrição.
+Requer, portanto, a reconsideração da decisão agravada ou o provimento do presente agravo interno para que se determine a sustação da prática de quaisquer atos constritivos em detrimento da JBS, garantindo-se o resultado útil do recurso interposto nesta instância extraordinária.
+O agravado apresentou impugnação ao agravo interno às fls. 827-848.
+É o relatório. Decido.
+O recurso merece prosperar.
+Reavaliando a decisão agravada, verifica-se que a parte agravante logrou êxito em demonstrar os requisitos previstos no art. 300 do CPC, ante a constatação, ao menos neste juízo perfunctório, da probabilidade do direito e do perigo de dano ou de risco ao resultado útil do processo.
+Observa-se que a probabilidade do direito está consubstanciada na divergência jurisprudencial apontada pela parte agravante ao cotejar o decidido no acórdão recorrido com o julgado pelo STJ no AgInt no REsp n. 1.929.051/MG, em que se analisou a aplicabilidade da teoria da actio nata à hipótese de sucessão empresarial irregular.
+Da mesma maneira, o periculum in mora pô de ser identificado a partir do risco de realização da penhora de vultosa quantia, apesar de garantido o juízo da execução, o que pode acarretar, além do prejuízo decorrente do risco ao resultado útil do processo, o bloqueio das atividades empresariais em curso, cuja intenção destoa do consectário da função social da empresa.
+Ressalte-se que a parte agravante já depositou em juízo o equivalente a R$ 18.463.676,88 e que a superveniência da penhora de aproximadamente R$ 100 milhões pode resultar em quebra da atividade da empresa com a consequente afetação do mercado nacional.
+Desse modo, é caso de reconsiderar a decisão agravada para converter o agravo em recurso especial em recurso especial, de modo a permitir melhor análise da controvérsia, deferindo-se o pedido de tutela provisória para atribuir efeito suspensivo ao recurso especial a fim de evitar a realização dos atos constritivos pelo Juízo da execução.
+Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão de fls. 807-811, determinando a conversão do agravo em recurso especial em recurso especial e atribuindo-lhe efeito suspensivo a fim de evitar a realização de atos constritivos em detrimento da parte agravante, até o julgamento do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
