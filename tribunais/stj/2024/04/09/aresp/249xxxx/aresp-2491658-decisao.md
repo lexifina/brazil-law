@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 732):
+AGRAVO DE INSTRUMENTO - EMBARGOS À EXECUÇÃO - CONTINÊNCIA - AÇÃO REVISIONAL - EXTINÇÃO DO FEITO - AGRAVO PREJUDICADO. Reconhece-se a continência quando duas ou mais ações compartilharem as mesmas partes e a mesma causa de pedir, sendo o pedido de uma ação mais amplo que a outra, abrangendo as demais. Diante da evidente continência, a ação contida deve ser extinta, sem resolução do mérito, conforme preceitua o artigo 57 do Código de Processo Civil.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts 55, § 3º, 917, VI, do Código de Processo Civil; bem como divergência jurisprudencial.
+Afirma que "a existência concomitante de Ação revisional e Ação de embargos à execução lastreado no mesmo contrato objeto da revisional não caracteriza apenas a continência, mas, também a conexão, de modo a serem julgadas conjuntamente, elidindo o advento de decisões conflitantes"(e-STJ, fl.778).
+Alega que é indevida a extinção dos embargos à execução em razão do reconhecimento da existência de continência.
+Aduz que, "quanto a natureza e a finalidade jurídica das ações em apreço, imperioso ponderar, que os Embargos à Execução previsto no art. 914, do CPC, é uma ação autônoma, COM NATUREZA JURÍDICA DE DEFESA (CONSTITUTIVO- NEGATIVO), por meio da qual o Executado responde à uma Ação de Execução fundamentada em título executivo extrajudicial, ou seja, trata-se de meio processual exclusivamente de defesa" (e-STJ, fl.780).
+Assevera que, "no que diz respeito a Ação Revisional distribuída pelas Recorrentes (autos nº 0107174-16.2013.8.13.0183), são discutidos todos os contratos vinculados à conta corrente, mantida junto à instituição financeira, além da discussão quanto à ilicitude de algumas e abusividades de algumas tarifas. Logo, conclui-se que a Ação Revisional, visa a Revisão de cláusulas abusivas" (e-STJ, fl.780).
+Defende a utilização da prova pericial emprestada obtida na ação revisional nos autos dos embargos à execução.
+Contrarrazões não foram apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Trata-se na origem de agravo de instrumento interposto por PAULA & ARAUJO COMERCIAL LTDA. e KELLY CRISTINA ARAUJO COSTA contra decisão nos autos dos embargos à execução que indeferiu o pedido de utilização de prova pericial emprestada dos autos da ação r evisional.
+A Corte local, ao analisar o recurso, acolheu preliminar de extinção dos embargos à execução, suscitada de ofício pelo primeiro vogal, em razão da relação de continência entre os presentes embargos e ação revisional. Confira-se (e-STJ, fl.734/736):
+PRELIMINAR DE EXTINÇÃO - suscitada de ofício
+Peço vênia ao eminente Relator, Desembargador Antônio Bispo, para arguir, de ofício, preliminar que submeto aos Pares.
+Trata-se de Embargos à Execução manejados por PAULA & ARAUJO COMERCIAL LTDA. E OUTRA em face da execução de título extrajudicial de nº 0026259-77.2013.8.13.0183, ajuizada pelo Banco Mercantil do Brasil S.A.
+No acórdão de ordem 95 foi suscitada questão de ordem para que as partes se manifestassem sobre eventual incidência do art. 57, CPC, e, igualmente, sobre a probabilidade de extinção do feito, considerando a possibilidade de que a presente ação se qualifique como contida, em relação à ação 0107174-16.2013.8.13.0183, por ter sido ajuizada posteriormente a esta última.
+Diante do acima mencionado, as agravantes argumentaram que o presente recurso é unicamente matéria de defesa perante a execução ajuizada pelo banco agravado (ordem 97).
+É um sucinto relatório.
+Sobre a matéria levantada, o artigo 56 do Código de Processo Civil assim dispõe:
+"Dá-se a continência entre 2 (duas) ou mais ações quando houver identidade quanto às partes e à causa de pedir, mas o pedido de uma, por ser mais amplo, abrange o das demais" Em inicial da presente ação, as embargantes arguem que, no contrato exequendo, foram previstos juros remuneratórios acima dos legais, aduzem serem abusivas a capitalização de juros, a cobrança de comissão de permanência e a aplicação de multa moratória de 2%.
+Paralelamente à presente ação, transcorre a ação revisional de número 0107174-16.2013.8.13.0183, entre as mesmas partes. Nessa ação revisional são discutidos todos os contratos vinculados à conta corrente de nº 02.013.719-7, mantida junto à instituição financeira ré.
+Naquela ação, para além da discussão quanto à ilicitude de algumas tarifas, estão sendo discutidas as mesmas abusividades arguidas nos presente embargos.
+Nota-se que objeto da presente ação está contido nos limites objetivos daquela ação, conforme preceitua o artigo 56 do CPC. O contrato controvertido não só está vinculado à conta corrente 02.013.719-7 (ordem 31, p. 8), como foi juntado com a inicial naquela ação (id 3402261408, pp. 8/17).
+No presente caso, nota-se uma clara relação de continência entre os presentes embargos e a ação revisional, continência que, de fato, foi reconhecida na petição inicial dos presentes embargos (ordem 15, p. 4).
+Ainda, observa-se que, embora as ações tenham sido distribuídas no mesmo dia (ordem 15, p. 2 e id 3402261402, p. 2, da ação revisional), a ação revisional, mais abrangente, foi ajuizada poucos minutos antes.
+Ou seja, a presente ação qualifica-se como contida e foi ajuizada posteriormente à ação continente, gerando a probabilidade de incidir sobre o caso o art. 57, CPC, que assim estabelece:
+"Quando houver continência e a ação continente tiver sido proposta anteriormente, no processo relativo à ação contida será proferida sentença sem resolução de mérito, caso contrário, as ações serão necessariamente reunidas." Neste sentindo, este Tribunal já se manifestou:
+(..)
+Portanto, outra medida inexiste, a não ser a extinção, sem resolução do mérito, dos embargos à execução.
+DISPOSITIVO Posto isso, acolho a preliminar de extinção, arguida de ofício, para reconhecer a continência existente entre os embargos à execução da ação originária n.º 0026259-77.2013.8.13.0183 e a ação revisional n.º 0107174-16.2013.8.13.0183, julgando extinto os embargos à execução, sem resolução do mérito, nos termos do artigo 485, inciso X, do CPC, e, consequentemente, julgo prejudicado o presente recurso.
+Custas pelo banco agravado.
+No caso, alega a recorrente a violação aos arts 55, § 3º, 917, VI, todavia, o Tribunal de origem não se pronunciou acerca da tese apresentada pela parte recorrente no que diz respeito à necessidade de julgamento simultâneo de demandas, bem como quanto à natureza distinta dos embargos à execução, de forma que não emitiu juízo de valor sobre a matéria, estando ausente o indispensável prequestionamento, razão pela qual incide o óbice da Súmula 211 do STJ.
+Ademais, para reconhecer a admissão do prequestionamento ficto, nos termos do art. 1.025 do NCPC, em recurso especial, exige-se a anterior oposição dos embargos de declaração, além da indicação de violação do art. 1.022 do NCPC, para que se possibilite ao Órgão julgador verificar a existência do vício no acórdão recorrido. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INSTRUMENTO CONTRATUAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO E DEFICIÊNCIA NA FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. JULGAMENTO IMEDIATO DA CAUSA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. CLÁUSULA DE QUITAÇÃO GERAL E PLENA. AUSÊNCIA DE DOLO, COAÇÃO OU ERRO. TESE NÃO PREQUESTIONADA. SÚMULAS 282 E
+356/STF. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO VIOLADO. SÚMULA 284/STF. HONORÁRIOS RECURSAIS. MAJORAÇÃO. CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Inadmissível o recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal local (enunciado n. 211 da Súmula do STJ).
+3. O prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, a parte recorrente suscitar violação ao art. 1.022 do mesmo diploma, porquanto somente dessa forma é que o órgão julgador poderá verificar a existência do vício e proceder à supressão de grau, providência não adotada no recurso especial apresentado.
+4. No tocante à parte em que a insurgência foi inadmitida, ratifica-se que os arts. 840 e 849 do Código Civil não foram debatidos pelo acórdão recorrido, o que configura a ausência do indispensável prequestionamento da matéria e atrai a incidência das Súmulas 282 e 356/STF.
+5. A falta de indicação, de forma clara e precisa, dos dispositivos legais que teriam sido eventualmente violados ou que tiveram sua interpretação divergente à jurisprudência desta Corte impede o conhecimento do recurso, por deficiência na sua fundamentação, conforme preceitua a Súmula n. 284 do Supremo Tribunal Federal.
+6. No caso, estão presentes os requisitos cumulativos necessários à majoração dos honorários sucumbenciais prevista no art. 85, § 11, do CPC/2015, conforme as regras definidas pela Terceira Turma deste Tribunal Superior - nos EDcl no AgInt no REsp n. 1.573.573/RJ, desta relatoria, julgado em 4/4/2017, DJe de 8/5/2017.
+7. Agravo interno desprovido.
+(AgInt no REsp 1.839.431/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 08/02/2021, DJe 12/02/2021)
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
