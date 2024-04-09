@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto por CONCESSIONARIA MOVE SAO PAULO S.A. contra decisão que inadmitiu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+TRIBUTÁRIO - APELAÇÃO - EXECUÇÃO FISCAL - IPTU - EXERCÍCIO DE 2016 - MUNICÍPIO DE SÃO PAULO _ SENTENÇA QUE ACOLHEU A EXCEÇÃO DE PRÉ- EXECUTIVIDADE, JULGANDO EXTINTA A EXECUÇÃO FISCAL. RECURSO INTERPOSTO PELO MUNICÍPIO. ILEGITIMIDADE PASSIVA - CONTRIBUINTE DO IPTU - O CONTRIBUINTE DO IPTU PODE SER O PROPRIETÁRIO DO IMÓVEL, O TITULAR DO DOMÍNIO ÚTIL, OU O POSSUIDOR A QUALQUER TÍTULO, NOS TERMOS DO ARTIGO 34 DO CÓDIGO TRIBUTÁRIO NACIONAL - EXCIPIENTE QUE, APESAR DE NÃO SER PROPRIETÁRIA DA ÁREA, É POSSUIDORA DIRETA - EXECUTADA QUE É PARTE LEGÍTIMA PARA FIGURAR NO POLO PASSIVO DA OBRIGAÇÃO TRIBUTÁRIA - PRECEDENTE DO SUPERIOR TRIBUNAL DE JUSTIÇA - ILEGITIMIDADE PASSIVA AFASTA.
+Opostos embargos de declaração foram rejeitados.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, a recorrente sustenta violação dos arts. 32, 34 e 110 do Código Tributário Nacional, dos arts. 99, 1.196, 1.198 e 1.228 do Código Civil, art. 10 da Lei n. 7.783/89 e art. 31 da Lei n. 8.987/95. Assevera que a parte é mera concessionária prestadora de serviço público essencial, de modo que não é responsável pelo pagamento de IPTU em virtude da ausência de animus domini.
+Houve contrarrazões ao recurso especial (e-STJ fls. 1227/1236).
+O Tribunal de origem inadmitiu o recurso especial pela impossibilidade de interposição de apelo nobre com fulcro em dispositivo da Constituição da República e pelo não cabimento de recurso especial quando a controvérsia é dirimida na origem à luz da Carta Magna.
+Insurge-se a agravante contra essa decisão afirmando que, ao contrário do que supõe a origem, o recurso especial reúne condições de processamento.
+Houve contraminuta ao agravo (e-STJ fls. 1284/1290).
+É o relatório. Decido.
+Impugnados os fundamentos de inadmissibilidade, passo ao exame do especial.
+Inicialmente, vale destacar que os arts. 32 e 110 do Código Tributário Nacional, 99, 1.196, 1.198 e 1.228 do Código Civil, 10 da Lei n. 7.783/89 e 31 da Lei n. 8.987/95 não foram tratados no acórdão recorrido, razão pela qual carecem de necessário prequestionamento (Súmula n. 211/STJ).
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. SÚMULA N. 284/STF. VIOLAÇÃO DOS ARTS. 3o, 97, III, E 114 DO CTN. SÚMULA N. 211/STJ. ATO DE GOVERNO LOCAL. AUSÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Inicialmente, no que diz respeito à negativa de prestação jurisdicional, a violação do art. 1.022 do CPC foi apontada de forma conjunta ao mérito recursal, não sendo possível compreender os vícios exatos dos quais padece o aresto combatido, tampouco a importância deles ao deslinde da controvérsia. Súmula n. 284/STF.
+2. No que tange à violação dos arts. 3º, 97, III, e 114 do CTN, verifica-se que não houve debate da tese suscitada em sede de apelo nobre no aresto combatido. Súmula n. 211/STJ.
+3. "O cabimento do recurso especial pela alínea "b" do inciso III do art. 105 da Constituição Federal pressupõe que haja a Corte de origem homenageado ato de governo local em detrimento da legislação federal. Inexistente tal fato, impossível viabilizar o processamento do recurso. É a hipótese dos autos, em que em nenhum momento ocorreu tal situação" (STJ, AgRg no REsp 1.428.598/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 30/06/2015).
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.346.246/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+Ademais, no que tange à violação do art. 34 do CTN e à tese de ilegitimidade passiva da recorrente, colaciono excerto da fundamentação do aresto combatido (e-STJ fls. 993/994):
+O artigo 34 do Código Tributário Nacional atribui a condição de contribuinte do IPTU ao proprietário, ao titular do domínio útil ou ao possuidor do imóvel a qualquer título, de modo que eles são sujeitos passivos do respectivo recolhimento:
+Art. 34. Contribuinte do imposto é o proprietário do imóvel, o titular do seu domínio útil, ou o seu possuidor a qualquer título. (grifo nosso)
+O C. Superior Tribunal de Justiça, em julgado nos moldes do art. 543-C do CPC de 1973, já decidiu que tanto o possuidor a qualquer título do imóvel quanto seu proprietário (aquele que tem a propriedade registrada no Registro de Imóveis) são contribuintes do IPTU, cabendo ao Município a escolha:
+ ..  "Ao legislador municipal cabe eleger o sujeito passivo do tributo, contemplando qualquer das situações previstas no CTN. Definindo a lei como contribuinte o proprietário, o titular do domínio útil, ou o possuidor a qualquer título, pode a autoridade administrativa optar por um ou por outro visando a facilitar o procedimento de arrecadação" (REsp 475.078/SP, Rel. Min. Teori Albino Zavascki, DJ 27.9.2004). 4. Recurso especial provido. Acórdão sujeito ao regime do art. 543-C do CPC e da Resolução STJ 08/08. (Recurso Especial nº. 1.111.202-SP, Primeira Seção, Rel. Ministro Mauro Campbell Marques, j. 10/06/2009, DJe: 18/06/2009, V. U.) (grifo nosso)
+No caso dos autos, a excipiente é concessionária de serviço público de transporte de passageiros e promoveu a desapropriação do domínio útil do imóvel ora discutido em favor do Estado de São Paulo para a implantação da Linha 06 - Laranja da Companhia do Metropolitano de São Paulo METRÔ.
+O imóvel foi declarado de utilidade pública pelo Decreto Estadual nº 58.025/2012 (fls. 62/73).
+A executada sagrou-se vencedora do certame público para a construção e operação da Linha 06 Laranja do Metrô tendo, então, celebrado com o Governo do Estado de São Paulo, em 18/12/2013, contrato de Contrato de Concessão Patrocinada 015/2013 (fls. 111/359).
+Para a implementação da Linha 06 Laranja o referido contrato atribuiu à executada a obrigação de promover todas as ações de desapropriação dos imóveis afetados ao empreendimento (item 37.1 fls. 275).
+O Governo do Estado de São Paulo, inclusive, em 03/02/2014, expediu o Decreto Estadual n. 60.119 com a finalidade de transferir para a Concessionária Move São Paulo a responsabilidade pela condução dos processos de desapropriação dos imóveis (fls. 699).
+A concessionária, então, ajuizou ação visando à desapropriação do imóvel (fls. 646/648) e foi imitida na posse em 05/09/2016 (fls. 688/689).
+Assim, ainda que a executada utilize o imóvel a fim de executar os serviços previstos no contrato de concessão, pode figurar no polo passivo da obrigação tributária, uma vez que é possuidora a qualquer título do imóvel, nos termos do artigo 34 do Código Tributário Nacional, mesmo que referida posse seja exercida em nome do Estado de São Paulo, titular do domínio útil do imóvel.
+Dessa forma, verifica-se que a irresignação do recorrente vai de encontro às convicções do julgador a quo, que tiveram como lastro o conjunto fático-probatório constante dos autos.
+Nesse diapasão, para rever a posição no sentido de que a recorrente é possuidora do imóvel em questão seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial.
+Incide, na hipótese, a Súmula n. 7/STJ.
+Exemplificativamente:
+PROCESSUAL CIVIL E TRIBUTÁRIO. IPTU. LEGITIMIDADE ATIVA DO USUFRUTUÁRIO.
+1. A Primeira Seção, no julgamento dos REsps 1.111.202/SP e 1.110.551/SP, submetidos à sistemática dos Recursos repetitivos, ao decidir sobre a responsabilidade dos promitentes vendedor e comprador de imóvel, assentou que o art. 34 do CTN elenca como contribuintes do IPTU tanto o proprietário quanto o possuidor da coisa, desde que tenha animus domini, cabendo à lei local de regência eleger sobre quem irá recair a sujeição passiva do imposto no âmbito daquela municipalidade.
+2. Aplicando esse entendimento à espécie, no caso de imóvel gravado com usufruto, "tanto o proprietário, que remanesce com o domínio indireto, quanto o usufrutuário, que exerce a posse direta e detém o domínio útil, são contribuintes do IPTU, podendo a lei municipal disciplinar a sujeição passiva de qualquer um deles ou, ainda, de ambos" (AREsp 1.566.893-SP, Min. Rel. Gurgel de Faria, Primeira Turma, DJe 15.8.2022).
+3. Nesse contexto, o Tribunal a quo, ao decidir "Fato é que o embargante, desde 2005, é usufrutuário vitalício dessa área (fls. 85/87), tendo, inclusive, afirmado isso na petição inicial (fls. 03 e 06), embora após tenha negado tal assertiva em sede de réplica (fls. 167)", está em consonância com a jurisprudência do STJ.
+Incidência da Súmula 83/STJ.
+4. Ademais, alterar as conclusões da Corte de origem para acolher a tese recursal, de que o recorrente não é usufrutuário, implica reexame do conjunto fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 2.260.127/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/8/2023, DJe de 21/9/2023.)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 32 E 110 DO CTN, 99, 1.196, 1.198 E 1.228 DO CC, 10 DA LEI N. 7.783/89 E 31 DA LEI N. 8.987/95. SÚMULA N. 211/STJ. IPTU. ILEGITIMIDADE PASSIVA. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
