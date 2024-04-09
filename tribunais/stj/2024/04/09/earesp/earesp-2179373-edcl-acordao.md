@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 03/04/2024 a 09/04/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Raul Araújo, Maria Isabel Gallotti, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Antonio Carlos Ferreira.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIO NÃO CONFIGURADO.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Conforme entendimento desta Corte, a "contradição que enseja o acolhimento dos declaratórios é aquela interna no julgado que contém proposições inconciliáveis entre si, e não entre a decisão embargada e fato externo ou entre a tese defendida pela parte e a adotada em outros julgados" (EDcl no AgInt na SLS n. 3.294/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 7/2/2024, DJe de 14/2/2024.)
+4. O dispositivo do acórdão embargado está em perfeita consonância com a fundamentação que lhe antecede. Portanto, não há contradição interna a ser sanada.
+5. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão assim ementado (fl. 752):
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.1. O recurso foi interposto sob a vigência do Código de Processo Civil de 2015, razão por que deve ser observado o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do Novo CPC".2. Caso no qual a decisão da Presidência desta Corte Superior não admitiu os Embargos de Divergência aos seguintes fundamentos: (i) não é cabível o referido recurso em razão da incidência da Súmula 315/STJ; (ii) o recurso de embargos de divergência versa em torno da violação do art. 1.022 do Código de Processo Civil de 2015 o que, nos termos da jurisprudência pacificada desta Corte, é incabível em razão das situações fáticos-processuais diferenciadas.3. No presente agravo interno, o agravante limitou-se a deduzir razões genéricas.4. A falta de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1021, § 1º, do CPC/2015. Incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."5. Agravo interno não conhecido.
+O embargante aponta contradição no acórdão embargado, argumentando (fl. 763):
+3. A Decisão proferida, nesse tópico está com contradição pois conforme devidamente alegado e comprovado a parte no presenteAgravo Interno fundamentou especificamente os seus pedidos no presente Agravo ora proposto com fundamento noartigo 258 § 3º do Regimento interno STJ o que de certa forma vai em desencontro ao entendimentocontrovertido do eminente Relator do presente feito;
+ ..
+5. Por outro lado, conforme se verifica nos autos e por concluir para não tornar repetitivo, o busca é que o despacho proferido pela Presidente do STJ se for mantido poderá provocar danos irreversíveis ao Embargante, pois o Recurso Especial interposto fora negado seguimento sendo que conforme devidamente comprovado o Embargante vem desde a primeira Instância prequestionando e em grau Recursal novamente de forma veemente prequestionou os artigos 9º e 10º, 489 § 1º inciso IV do NCPC ;
+6. Desta forma, óbvio e cristalino que a r. decisão que negou seguimento aos Embargos Declaratório, deve ser reconsiderada e levar em consideração que conforme devidamente comprovado o prequestionamento específico do presente Recurso, inclusive tais prequestionamentos foram devidamente apresentados junto ao Agravo proposto e que foi improvido;
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIO NÃO CONFIGURADO.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Conforme entendimento desta Corte, a "contradição que enseja o acolhimento dos declaratórios é aquela interna no julgado que contém proposições inconciliáveis entre si, e não entre a decisão embargada e fato externo ou entre a tese defendida pela parte e a adotada em outros julgados" (EDcl no AgInt na SLS n. 3.294/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 7/2/2024, DJe de 14/2/2024.)
+4. O dispositivo do acórdão embargado está em perfeita consonância com a fundamentação que lhe antecede. Portanto, não há contradição interna a ser sanada.
+5. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+O acórdão embargado decidiu a controvérsia ao assentar que (fls. 756):
+Os embargos de divergência interpostos pelo agravante foram indeferidos liminarmente pela Presidência desta Corte Superior, tendo por base a seguinte fundamentação: (fls. 704/705):
+Os embargos não reúnem condições de serem processados. Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência da Súmula 182 do STJ. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial". ..
+Além disso, mediante análise dos autos, verifica-se que o recurso de embargos de divergência versa em torno da violação do art. 1.022 do Código de Processo Civil de 2015 o que, nos termos da jurisprudência pacificada desta Corte, é incabível em razão das situações fáticos-processuais diferenciadas e da necessidade de análise individualizada de cada caso concreto.
+Como se nota, o agravante não impugnou, especificamente, os fundamentos da decisão agravada, visto que se limitou a deduzir razões genéricas.
+Assim, aplica-se ao caso o disposto no art. 1.021, § 1º, do CPC/2015, ante o descumprimento do ônus da dialeticidade, de forma que incide à hipótese a Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+O acórdão embargado ao decidir a controvérsia, negando provimento ao agravo interno da recorrente, assentou que o agravante, ora embargante, não impugnou, especificamente, os fundamentos da decisão agravada, visto que se limitou a deduzir razões genéricas.
+No caso em exame, a embargante objetiva sanar contradição argumentando: "conforme devidamente alegado e comprovado a parte no presente Agravo Interno fundamentou especificamente os seus pedidos no presente Agravo ora proposto com fundamento no artigo 258 § 3º do Regimento interno STJ o que de certa forma vai em desencontro ao entendimento controvertido do eminente Relator do presente feito" (fl. 768).
+Ocorre, no entanto, que a contradição que autoriza embargos de declaração é aquela interna ao julgado. Em outros termos: o que autoriza embargos de declaração para solver contradição é a contradição entre os fundamentos da decisão e a conclusão a que se chegou. A este respeito, é pacífica a orientação deste Superior Tribunal de Justiça.
+A propósito, confira-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA SUSPENSÃO DE LIMINAR E DE SENTENÇA. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. INEXISTÊNCIA. PRETENSÃO DE REEXAME. EMBARGOS REJEITADOS.
+ ..
+2. A contradição que enseja o acolhimento dos declaratórios é aquela interna no julgado que contém proposições inconciliáveis entre si, e não entre a decisão embargada e fato externo ou entre a tese defendida pela parte e a adotada em outros julgados.
+ ..
+4. Embargos de Declaração rejeitados.
+(EDcl no AgInt na SLS n. 3.294/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 7/2/2024, DJe de 14/2/2024.)
+No caso em exame, o dispositivo do acórdão embargado está em perfeita consonância com a fundamentação que lhe antecede.
+Portanto, não há contradição interna a ser sanada.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
