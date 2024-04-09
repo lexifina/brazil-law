@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 3ª Região, assim ementado (fl. 195):
+PREVIDENCIÁRIO. AUXÍLIO-RECLUSÃO. REQUISITOS PREENCHIDOS.
+BENEFICIO CONCEDIDO.
+1. Pedido de auxílio-reclusão, formulado pela parte autora, que dependia economicamente do recluso.
+2. A parte autora comprovou ser filho(a) do recluso por meio da apresentação de sua certidão de nascimento, sendo a dependência econômica presumida.
+3. O recluso possuía a qualidade de segurado por ocasião da prisão.
+4. Prosseguindo, no que tange ao limite da renda, o segurado não possuía rendimentos à época da prisão, vez que se encontrava desempregado.
+5. Em suma, comprovado o preenchimento dos requisitos legais para concessão de auxílio-reclusão, o direito que persegue aos autores merece ser reconhecido.
+6. Apelação provida.
+Embargos de declaração rejeitados.
+A parte recorrente sustenta ofensa ao artigo 6º da LINDB, sob os seguintes argumentos: (a) é incontroverso que o fato gerador do benefício (prisão do segurado instituidor) ocorreu antes das alterações legislativas trazidas pela Medida Provisória nº 871/19, posteriormente convertida na Lei nº 13.846/19; (b) a situação dos autos enseja a aplicação da lei vigente na data do fato gerador que reconheceu o direito perseguido, fixando o termo final do benefício de Auxilio Reclusão até o último dia no qual o segurado instituidor permaneceu no regime semiaberto; (c) mister a revaloração da prova utilizada como parâmetro para a decisão.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 262-264.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+No que diz respeito ao artigo 6º da LINDB, verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Frise-se, por oportuno, que os embargos de declaração opostos na origem não buscaram sanar eventual vício relativo à aplicação do aludido dispositivo legal e as respectivas teses associadas.
+A propósito, ao conceder o benefício de auxílio reclusão, o acórdão utilizou-se da seguinte fundamentação (fl. 194):
+Em suma, comprovado o preenchimento dos requisitos legais para concessão de auxílio-reclusão, o direito que persegue os autores merece ser reconhecido.
+Assim faz jus a autora a concessão do benefício de auxilio reclusão a partir da data do encarceramento (16/02/2017) até a data em que deu entrada no regime semiaberto (18/09/2020), conforme atestado de permanência carcerária (Id. 264669560).
+Logo, evidencia-se que a questão sub judice não foi enfrentada à luz do normativo suscitado como violado.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA CORTE DE ORIGEM NÃO ATACADO NAS RAZÕES DO RECURSO ESPECIAL. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. PREQUESTIONAMENTO FICTO NÃO CONFIGURADO. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO INTERNO DESPROVIDO.
+1. Hipótese em que o Tribunal de origem utilizou fundamento autônomo e suficiente à manutenção da decisão proferida, o qual não foi especificamente rebatido nas razões do recurso especial interposto.
+Incidem na espécie, por analogia, os óbices das Súmulas 283 e 284 do STF.
+2. Os dispositivos legais indicados como malferidos nas razões do recurso especial não foram apreciados pela Corte de origem, nem foram objeto dos embargos de declaração apresentados. Falta, portanto, prequestionamento, requisito exigido para o acesso às instâncias excepcionais, até mesmo para questões de ordem pública.
+Aplicáveis, assim, as Súmulas 282 e 356 do STF.
+3. Para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o tribunal, é preciso que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não ao caso concreto, o que não ocorreu na espécie.
+4. O STJ possui o entendimento de que, para a admissão do prequestionamento ficto em recurso especial, previsto no art. 1.025 do CPC/2015, é necessário não só que haja a oposição dos embargos de declaração na Corte de origem como também a indicação e o reconhecimento por Tribunal de ofensa ao art. 1.022 do CPC/2015, especificamente quanto à questão que se pretende ver analisada, o que não se constata no caso.
+5. A ausência de prequestionamento impede a análise recursal com base no permissivo constitucional da alínea c do inciso III do art. 105 da Constituição Federal (AgInt no AREsp 956.793/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 15/12/2016).
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.949.666/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/3/2023, DJe de 17/3/2023.) (Grifei).
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. REINTEGRA. VENDAS EFETUADAS NAS ÁREAS DE LIVRE COMÉRCIO-ALC. IMPOSSIBILIDADE DE EXTENSÃO AUTOMÁTICA DO BENEFÍCIO FISCAL. NECESSIDADE DE EXAME DA LEGISLAÇÃO ESPECÍFICA DE CADA ÁREA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Os arts. 356 e 374 do CPC/2015 não foram apreciados pelo Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida. Falta, portanto, prequestionamento, indispensável ao acesso às instâncias extraordinárias, ainda que se trate de matéria de ordem pública. Aplicáveis, assim, as Súmulas 282 e 356 do STF.
+2. Não obstante o entendimento segundo o qual o benefício do REINTEGRA aplica-se às empresas situadas na Zona Franca de Manaus, esta Corte Superior de Justiça já se manifestou no sentido de que tal benefício não pode ser estendido de forma automática às vendas destinadas a toda e qualquer Área de Livre Comércio-ALC, isso porque cada área possui regulamento próprio.
+3. Assim, ao analisar a legislação específica de cada ALC, o STJ concluiu que apenas as vendas de mercadorias destinadas às empresas situadas nas áreas de Boa Vista/RR e Bonfim/RR são equivalentes a uma exportação; desse modo, o benefício em questão não alcança as mercadorias destinadas às cidades de Guajará-Mirim-RO, Brasiléia-AC, Epitaciolândia-AC e Cruzeiro do Sul-AC. Precedentes: AgInt no REsp 1.898.953/SC, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 26/04/2021, DJe 29/04/2021; e REsp 1.861.806/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 15/09/2020, DJe 21/09/2020.
+4. Agravo interno da contribuinte a que se nega provimento. (AgInt no REsp n. 1.867.720/PR, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 16/5/2022, DJe de 18/5/2022.) (Grifei).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO EM AÇÃO CIVIL PÚBLICA. APELAÇÃO DO RÉU. PREPARO. EXIGÊNCIA. INAPLICABILIDADE DO ART. 18 DA LEI 7.347/1985. RECURSO ESPECIAL DO PARQUET ESTADUAL PROVIDO. ALEGADA PERDA DO OBJETO DO AGRAVO DE INSTRUMENTO EM FACE DA EXISTÊNCIA COISA JULGADA, FORMADA NO JULGAMENTO DA APELAÇÃO. QUESTÃO NÃO SUSCITADA PELO AGRAVANTE NAS CONTRARRAZÕES DO APELO NOBRE. PRECLUSÃO CONSUMATIVA. AUSÊNCIA DE PREQUESTIONAMENTO.
+1. A decisão agravada dirimiu, fundamentadamente, as questões suscitadas nos embargos de declaração opostos pela ora agravante, apreciando integralmente a controvérsia ali suscitada, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Tendo a agravante deixado passar in albis o prazo para apresentar suas contrarrazões ao recurso especial, era inviável o conhecimento da tese suscitada em momento posterior, em face da preclusão. Nesse sentido: AgInt no REsp 1.632.985/PE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 19/11/2019; AgInt no REsp 1.475.948/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 17/8/2016.
+3. Como cediço, "é entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo impede o acesso à instância especial, mesmo no que concerne a matérias de ordem pública, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 282 do Supremo Tribunal Federal" (AgInt no REsp 1.372.775/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 7/12/2018). A propósito: AgInt no REsp 1.111.371/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 1º/7/2020.
+4. Agravo interno não provido. (AgInt nos EDcl no REsp n. 1.421.752/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 31/8/2020, DJe de 4/9/2020.) (Grifei).
+Ante o exposto, não conheço do recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL.
+AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO TIDO POR VIOLADO. SÚMULA 282/STF. RECURSO NÃO CONHECIDO.
