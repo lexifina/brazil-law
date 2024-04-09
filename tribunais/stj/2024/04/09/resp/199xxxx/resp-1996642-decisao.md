@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto por HILARIA FARIAS PAULO com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul (Apelação n. 0802274-44.2021.8.12.0005) nos autos de ação declaratória de inexistência de débito cumulada com repetição de indébito e danos morais.
+O julgado foi assim ementado (fl. 124):
+- APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO E DANOS MORAIS - EMENDA À INICIAL NÃO CUMPRIDA - EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO - FALTA DE ACESSO AOS EXTRATOS BANCÁRIOS - TESE NÃO CONHECIDA - INOVAÇÃO RECURSAL - SENTENÇA MANTIDA - RECURSO CONHECIDO EM PARTE E NÃO PROVIDO.
+Não se conhece da súplica recursal quanto à questão referente à falta de acesso aos extratos bancários, por se tratar de conta bancária exclusiva para recebimento do benefício previdenciário, visto que tal tese não foi apreciada pelo magistrado de primeiro grau, de modo que, trazer esta matéria apenas no apelo caracteriza inovação recursal.
+Segundo o Superior Tribunal de Justiça "seja pelo ângulo do poder geral de cautela, seja pelo ângulo do poder discricionário de direção formal e material do processo, é perfeitamente cabível ao magistrado, diante das peculiaridades de cada caso concreto, solicitar a apresentação de instrumento de mandato atualizado com a finalidade precípua de proteger os interesses das partes e zelar pela regularidade dos pressupostos processuais, o que não implica contrariedade ao art. 38 do CPC ou ao art. 682 do Código Civil".
+Pela determinação legal (art. 321, do CPC), o juiz, ao verificar que a petição inicial não preenche os requisitos dos arts. 319 e 320 ou que apresenta defeitos e irregularidades capazes de dificultar o julgamento de mérito, determinará que o autor, no prazo de 15 (quinze) dias, a emende ou a complete, indicando com precisão o que deve ser corrigido ou completado. Ainda, o parágrafo único, do mesmo dispositivo, estabelece que se o autor não cumprir a diligência, o juiz indeferirá a petição inicial.
+Não comprovado tais requisitos, o indeferimento da petição inicial é medida que se impõe.
+Os embargos de declaração opostos foram rejeitados (fls. 92-97).
+Nas razões do recurso especial, alega a parte recorrente, além de dissídio jurisprudencial, violação dos seguintes artigos:
+a) 1.022 do CPC, uma vez que o Tribunal a quo rejeitou os embargos de declaração sem dirimir questão pertinente ao litígio, ou seja, a necessidade de realização de dilação probatória para verificar se foi ou não disponibilizado o crédito na conta do recorrente;
+b) 319, 320 e 330, do CPC, por excesso de formalismo e ofensa ao princípio da inafastabilidade de jurisdição. Aduz que a determinação de juntada de extratos bancários não pode ser exigida como condição para prosseguimento da ação.
+Requer o provimento do recurso para que seja determinado o prosseguimento do feito em razão de não ser, a apresentação dos extratos bancários, condição da ação.
+Admitido o apelo extremo (fls. 170-171), os autos ascenderam ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso não reúne condições de prosperar.
+I - Violação dos arts. 1.022, II, do CPC
+Afasta-se a alegada ofensa ao art. 1.022 do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+II - Violação dos arts. 319, 320 e 330, do CPC
+No que diz respeito à questão da necessidade de juntada dos extratos bancários, o Tribunal a quo afirmou o seguinte (fls. 65-68, destaquei):
+De fato, a demanda em análise se tem mostrado questão rotineira no Poder Judiciário de Mato Grosso do Sul, nas quais indígenas/aposentados, que se dizem vítimas de fraudes, ajuízam ações ordinárias visando a declaração de inexistência de relação contratual e postulam pela devida reparação pelos danos que suportaram em razão dos indevidos descontos nos benefícios previdenciários.
+Além disso, sabe-se que diversas destas demandas acabam por ser julgadas improcedentes, pois a parte requerida comprova a regularidade das contratações e, inclusive, demonstra ter disponibilizado o valor dos empréstimos em benefício dos aposentados/contratantes.
+ ..
+Percebe-se, claramente, a ideia do magistrado gestor, a quem cabe buscar soluções efetivas para resolver os conflitos trazidos ao Poder Judiciário. Nesse aspecto, o julgamento combatido está conforme a orientação do STJ  ..
+Desta forma, se a grande maioria das ações distribuídas sem procuração atualizada, extratos bancários ou até mesmo contrato, todos podendo ser solicitados de forma simples pelo causídico ao cliente ou à própria instituição financeira (a fim de ao menos se provar a negativa de fornecimento) acabam por finalizar com julgamento improcedente, já que, em verdade, existia a relação entre as partes, é mais do que autorizado ao juiz, que é quem detém o poder geral de cautela e de condução do processo, exigir a apresentação de tais documentos a fim de melhor instruir o processo.
+Isso porque, ao final, a própria sociedade resta prejudicada, mormente porque incontáveis ações são distribuídas apenas com base na negativa geral, sem que sequer as partes tenham buscado resolver a lide (se é que ela existe) consensualmente, o que acaba por ferir os Princípios da Cooperação e da Resolução Consensual dos Conflitos, além de tumultuar o andamento das demais causas trazidas a este Poder.
+Nessa senda, o caderno processual demonstra que houve a determinação para que a parte autora trouxesse os extratos bancários da conta do benefício, no prazo de 15 dias, sob pena de indeferimento da inicial.
+No entanto, a parte suplicante se manifestou, apresentando nova negativa geral e defendendo que a inversão do ônus da prova lhe garantiria o direito a não apresentar os documentos requisitados, já que o dever caberia ao requerido.
+Ocorre que, o Código de Defesa do Consumidor dá ao juiz o poder de inverter ou não o ônus probatório, de acordo com os fatos expostos pela parte  ..
+Entrementes, se o consumidor nem ao menos instrui o processo, violando o princípio da cooperação, não há como o magistrado sequer avaliar se estão presentes os quesitos legais dos institutos que permitem facilitar a sua defesa (como a inversão do ônus).
+Saliente-se que não se exige esforço hercúleo da parte, mas apenas documentações simples que permitam evidenciar os indícios mínimos e permitir ao julgador avaliar a causa de pedir.
+Assim, porquanto não cumprida a determinação de emenda à inicial, deve ser mantida a sentença que indeferiu a petição inaugural, nos termos do art. 321, do CPC, e extinguiu o feito, sem resolução do mérito.
+Dessa forma, o Tribunal a quo concluiu pela necessidade de juntada dos extratos bancários do recorrente em razão da distribuição de inúmeras ações na região, onde aposentados e indígenas alegam serem vítimas de fraude, porém as demandas são julgadas improcedentes por terem sido os empréstimos contraídos e os valores disponibilizados em conta. Destacou também o princípio da cooperação (art. 6º do CPC), devendo a parte guiar-se pela probidade e solidariedade com as demais integrantes do processo. Ressaltou ainda que a juntada dos extratos bancários era prova de fácil obtenção.
+Nas razões do recurso especial, o recorrente restringe-se a defender que a legislação federal não prevê como condição de ação, a juntada de extratos bancários. Em momento algum rebateu os fundamentos do acórdão recorrido, o que atrai a incidência das Súmulas n. 283 e 284 do STF.
+A propósito: AgInt no REsp n. 1.645.365/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 23/5/2022, DJe de 26/5/2022; e AgInt no REsp n. 1.973.812/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 14/3/2022, DJe de 21/3/2022.
+III - Dissídio jurisprudencial
+A alegação de dissídio jurisprudencial baseada em acórdão paradigma do próprio Tribunal de origem, atrai a incidência do óbice da Súmula n. 13 do STJ.
+IV - Conclusão
+Ante o exposto, não conheço do recurso especial .
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+ EMENTA
