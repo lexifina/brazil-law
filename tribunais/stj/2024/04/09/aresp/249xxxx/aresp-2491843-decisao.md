@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por DANILO LUCAS SOUSA NASCIMENTO, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS, assim ementado (e-STJ, fls. 1188-1189):
+"1. RECURSO EM SENTIDO ESTRITO. HOMICÍDIO. TRIBUNAL DO JÚRI. PRONÚNCIA. INDÍCIOS DE MATERIALIDADE E AUTORIA. AFERÍVEIS COM BASE EM ELEMENTOS DE INFORMAÇÃO DO INQUÉRITO POLICIAL. PROVA NÃO REPETÍVEL. POSSIBILIDADE.
+1.1. A decisão de pronúncia, por ser meramente processual, exige do magistrado o exame da ocorrência do crime e de indícios de sua autoria, não sendo exigível a convicção absoluta indispensável à prolação de sentença.
+1.2. Estando inconteste a materialidade do crime por intermédio do laudo pericial cadavérico, que constatou que a morte da vítima se deu em razão de 7 disparos de arma de fogo, laudo pericial de determinação de calibre, laudo de vistoria em local de morte violenta, além da filmagem da hora do crime, bem como presentes os indícios suficientes de autoria, mediante depoimentos prestados pela esposa da vítima, e interceptações telefônicas, deve ser mantida a pronúncia dos recorrentes e a consequente submissão ao Conselho de Sentença, juízo constitucional competente para o julgamento dos crimes dolosos contra a vida.
+2. NULIDADE DE INTERROGATÓRIO PROMOVIDO NA FASE INQUISITORIAL. AUSÊNCIA DO ADVOGADO DO ACUSADO. NÃOOCORRÊNCIA.
+2.1. O inquérito policial constitui peça informativa e não probatória, sendo certo que na fase inquisitorial não se aplica o princípio da ampla defesa, sendo suficiente a autoridade policial informar sobre os direitos fundamentais do indiciado como o direito ao silêncio, à preservação de sua integridade física e moral e o de ser assistido por advogado.
+2.2. Não se configura nulidade no interrogatório do indiciado quando a autoridade policial esclarece que este poderia permanecer em silêncio, bem como aguardar a chegada de seu advogado, porém o acusado prefere seguir com seu interrogatório.
+3. REVOGAÇÃO DA PRISÃO PREVENTIVA. IMPOSSIBILIDADE. INADEQUAÇÃO DA VIA ELEITA. ROL TAXATIVO ELENCADO NO ARTIGO581 DO CÓDIGO DE PROCESSO PENAL. DISCUSSÃO IMPOSSÍVEL POR MEIO DO RECURSO EM SENTIDO ESTRITO. RECURSO EM SENTIDO ESTRITO NÃO CONHECIDO NESSE PONTO.
+As hipóteses de cabimento do Recurso em Sentido Estrito estão elencadas em rol taxativo no artigo 581 do Código de Processo Penal, não sendo pertinente, portanto, o recurso contra decisão que indefere pedido de revogação de prisão preventiva por não figurar nas hipóteses legais."
+Nas razões do recurso, a parte recorrente alega violação dos arts. 312, caput, e § 2º, 315, 413, § 3º, e 414, todos do Código de Processo Penal. Argumenta, de forma concisa, que é inadmissível a decisão de pronúncia baseada unicamente no inquérito policial. Defende que a prisão preventiva foi baseada em fundamento inadequado, uma vez que não foi demonstrado risco concreto que justificasse a restrição de sua liberdade.
+Portanto, solicita a admissão e provimento deste recurso especial com o objetivo de reformar o acórdão do recurso em sentido estrito, resultando na improcedência da acusação e na revogação da prisão preventiva.
+Com contrarrazões (e-STJ, fls. 1240-1243), o recurso especial foi inadmitido na origem (e-STJ, fls. 1304-1307), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo não conhecimento do agravo em recurso especial ou seu desprovimento (e-STJ, fls. 1390-1392).
+É o relatório.
+Decido.
+A decisão que inadmitiu o recurso especial na origem foi pautada na incidência da Súmula 284 do STF.
+Neste recurso, entretanto, o agravante deixa de impugnar o referido fundamento, reiterando os argumentos de mérito quando da interposição do recurso especial . Nesse diapasão, o agravante não poderia ouvidar-se de enfrentar este óbice . Esse proceder viola o princípio da dialeticidade e torna inadmissível o agravo, nos termos da Súmula 182/STJ.
+A propósito:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1. PRELIMINAR DE PRESCRIÇÃO. EXAME DE OFÍCIO. ART. 61 DO CPP. NÃO IMPLEMENTO DO PRAZO PRESCRICIONAL ENTRE OS MARCOS INTERRUPTIVOS. 2. ACÓRDÃO CONFIRMATÓRIO. MARCO INTERRUPTIVO. TESE FIRMADA PELO PLENÁRIO DO STF. HC 176.473/STF. 3. RECURSO ESPECIAL NÃO ADMITIDO. AGRAVO NÃO CONHECIDO. TRÂNSITO EM JULGADO QUE RETROAGE. ARESP 386.266/SP. 4. NEGATIVA DE SEGUIMENTO AO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A TODOS FUNDAMENTOS DA DECISÃO. CORRETA INCIDÊNCIA DA SÚMULA 182/STJ. 5. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+4. A decisão agravada não conheceu do agravo em recurso especial, porque o recorrente se limitou a repetir, na íntegra, os termos do recurso especial. Como é de conhecimento, a ausência de impugnação específica e pormenorizada dos fundamentos da decisão que não admite o recurso especial inviabiliza o conhecimento do agravo, por violação do princípio da dialeticidade, uma vez que os fundamentos não impugnados se mantêm. Dessa forma, mostra-se correta a incidência do enunciado n. 182 da Súmula desta Corte, o que impede o provimento ao presente agravo regimental.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1260918/MA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/05/2020, DJe 19/05/2020)
+Por conseguinte, a Súmula 182/STJ impede o conhecimento da irresignação recursal.
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do Regimento Interno do STJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
