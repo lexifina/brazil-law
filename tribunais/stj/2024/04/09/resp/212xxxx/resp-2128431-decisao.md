@@ -1,0 +1,34 @@
+DECISÃO
+Examina-se recurso especial interposto por EDAMR DA SILVA BONFIM, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo TJ/SP.
+Recurso especial interposto em: 03/10/2023.
+Concluso ao Gabinete em: 15/03/2024.
+Ação: de rescisão contratual cumulada com restituição de quantias pagas, reparação de danos materiais e compensação de danos morais, ajuizada pelo recorrente, em desfavor de RR AUTOMOVEIS LTDA e BANCO J. SAFRA S.A, em virtude da constatação de supostos vícios ocultos em veículo - usado - adquirido.
+Sentença: julgou improcedente o pedido com relação ao BANCO J. SAFRA S.A, ante a sua ilegitimidade passiva; e julgou procedentes os pedidos com relação à RR AUTOMOVEIS LTDA para: i) decretar a resolução do contrato de compra e venda celebrado entre as partes, determinando a devolução do veículo a esta; e ii) condenar a RR AUTOMOVEIS LTDA a quitar as prestações devidas pelo recorrente à instituição financeira e a pagar a ele a) os valores gastos para a aquisição, compreendendo R$ 8.366,66 (oito mil, trezentos e sessenta e seis reais e sessenta e seis centavos) dado como entrada e as quantias das parcelas do financiamento pagas; b) R$ 1.610,00 (mil, seiscentos e dez reais) a título de reparação de danos materiais; e c) R$ 3.906,00 (três mil, novecentos e seis reais) a título de compensação de danos morais.
+Acórdão: deu provimento à apelação interposta pela RR AUTOMOVEIS LTDA, nos termos da seguinte ementa:
+Compra e venda de veículo automotor. Ação declaratória de rescisão contratual com pedidos cumulados de devolução de valores pagos e de indenização por danos materiais e morais. Automóvel com oito anos de uso. Quadro que desautorizava a expectativa de estar o bem como se novo fosse. Desgaste natural consequente ao uso e esgotamento da vida útil de componentes, passível de constatação mediante exame adequado. Inaplicabilidade, por isso, do regime legal acerca do vício oculto. Ação improcedente. Recurso provido (e-STJ fl. 486).
+Recurso especial: aponta a violação dos arts. 18, caput, § 1º, II, § 3º, e 20, caput, II, do CDC, bem como dissídio jurisprudencial. Sustenta que, mesmo em se tratando da aquisição de veículos usados, a responsabilidade do fornecedor persiste, devendo este disponibilizar no mercado produtos em condições adequadas para o uso. Aduz que a mera condição de um bem ser usado não pode servir de justificativa para alegar todos os desgastes como inerentes a esta condição.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos dispositivos legais indicados como violados. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, neste caso, a Súmula 282/STF.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 541, parágrafo único, do CPC/73 (1.029, § 1º, do CPC/2015) e 255, §§ 1º e 2º, do RISTJ.
+- Do reexame de fatos e provas
+O TJ/SP assim se manifestou a respeito da não configuração de vícios ocultos na espécie:
+Note-se que o autor identificou problemas poucos dias depois que retirou o veículo da loja, o que indicava cuidar-se de defeitos detectáveis mediante exame ordinário.
+É verdade que o perito consignou em laudo que "há o direito do autor em ter o vício do produto (veículo) sanado pelas requeridas, nos termos dos Arts. 18 e 26 da Lei Federal nº 8.078/90" (fls. 266), conclusão de natureza jurisdicional que não lhe competia por claramente exorbitar o escopo técnico de uma perícia de engenharia.
+Com efeito, a prova pericial constatou objetivamente a presença de "vícios aparentes" em componentes justamente em face de desgaste natural em função do tempo e do uso (fls. 261/262), bem como atestou que o motor do veículo não necessitava de serviço de retífica (fls. 267), além de asseverar que a inspeção feita pelo expert se deu após cerca de dois anos de utilização do veículo e aproximadamente 25.000 quilômetros rodados pelo autor, com a ressalva de que o decorrente "desgaste pode influenciar no laudo pericial" (fls. 269).
+Ademais, o laudo pericial não certificou o estado de conservação do veículo à época de sua aquisição, limitando-se a anotar que se cuidava de "veículo usado, com aproximadamente 8 anos de uso, tipo passeio, sedan" (fls. 269), de modo que nem sequer restaram comprovados os vícios alegados pelo autor.
+A propósito, restou incontroverso nos autos que a ré efetuou diversos reparos no veículo em atendimento às solicitações do demandante e apenas se negou a continuar custeando os consertos após expirado o prazo de garantia legal.
+Ante o exposto, na espécie o que se observa é que os alegados vícios não consistiam em defeitos ocultos que à vista dos artigos 441 do Código Civil e 26 do Código de Defesa do Consumidor autorizassem o adquirente a reclamar a rescisão contratual com devolução de valores pagos e indenização por danos materiais e morais (e-STJ fls. 488-489) (grifos acrescentados).
+Alterar o decidido no acórdão impugnado exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% (quinze por cento) sobre o valor da atualizado da causa (e-STJ fl. 490) para 17% (dezessete por cento), observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO DO CONSUMIDOR. RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE QUANTIAS PAGAS, REPARAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO DE DANOS MORAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de rescisão contratual cumulada com restituição de quantias pagas, reparação de danos materiais e compensação de danos morais, em virtude da constatação de supostos vícios ocultos em veículo usado adquirido.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Recurso especial não conhecido.
