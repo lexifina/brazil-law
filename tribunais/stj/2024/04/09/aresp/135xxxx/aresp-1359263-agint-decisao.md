@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo interno ajuizado em face da decisão de fls. 728/732 e-STJ.
+O agravante sustenta, em síntese, que a Súmula n. 83/STJ não constitui obstáculo ao conhecimento do recurso especial.
+À vista dos fundamentos expostos, reconsidero a decisão ora agravada e passo à análise do agravo em recurso especial.
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial, impugnando acórdão assim ementado:
+PRESTAÇÃO DE SERVIÇOS BANCÁRIOS. Contrato de abertura de crédito em conta corrente e cédula de crédito bancário. Ação de revisão de cláusulas contratuais cumulada com repetição do indébito.
+Sentença de improcedência dos pedidos. Apelo da autora. Agravo Retido. Razões do recurso que se confundem com o mérito e como tal devem ser analisadas. Mérito. Cédula de crédito bancário.
+Capitalização de juros prevista em cláusula contratual. Possibilidade.
+A capitalização de juros, a princípio vedada pelo Decreto 22.626/1933 (Lei de Usura), é permitida em intervalo inferior a um ano, nos termos da Medida Provisória 2.170-36/2001, desde que expressamente pactuada, e tem por pressuposto a circunstância de os juros devidos e já vencidos serem, periodicamente, incorporados ao valor principal. Os juros não pagos são incorporados ao capital e sobre ele passam a incidir novos juros. Contrato de abertura de crédito em conta corrente (cheque especial). Instrumento contratual não juntado aos autos pelo banco réu. Não comprovação da aplicação da taxa contratada à dívida e da possibilidade da capitalização dos juros. Prevalência da taxa média praticada pelo mercado para os contratos da espécie, cujo percentual é apurado pelo Banco Central do Brasil, a ser aplicada de forma simples, salvo se menor a taxa cobrada pelo próprio banco, cujo montante deverá ser apurado em fase de liquidação de sentença. Súmula nº 530 do C. Superior Tribunal de Justiça. Eventual saldo credor a favor da demandante que deverá ser restituído de forma simples, e não em dobro. Sentença reformada em parte. RECURSO PARCIALMENTE PROVIDO.
+A parte agravante sustenta a existência de dissídio jurisprudencial, além da violação dos arts. 205 e 206, IV, do Código Civil, afirmando que "para as ações revisionais de contrato bancário, nas quais se pede o reconhecimento da existência de cláusulas contratuais abusivas e a consequente repetição de indébito, como aqui se verifica, sendo tal prazo decenal e não trienal".
+Com razão a agravante. O caso dos autos diz respeito a ilícito contratual, consubstanciado no desconto indevido de valores, realizado em decorrência de pacto de abertura e manutenção de conta corrente, contrato bancário. A moderna jurisprudência do STJ considera decenal o prazo para a ação revisional de contrato bancário, com pedido de restituição do indébito. Nesse sentido:
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL C/C REPETIÇÃO DE INDÉBITO. INDEFERIMENTO. CONTRATOS BANCÁRIOS. PRESCRIÇÃO. REPETIÇÃO DE PAGAMENTO INDEVIDO. PRAZO DECENAL. INCIDÊNCIA DA SÚMULA 83/STJ. TAXA DE JUROS. AUSÊNCIA DE PACTUAÇÃO EXPRESSA. APLICAÇÃO DA TAXA MÉDIA DIVULGADA PELO BACEN. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência do STJ, "a pretensão de repetição de valores pagos indevidamente em função de contrato bancário está sujeita ao prazo prescricional vintenário na vigência do CC/1916 e ao decenal na vigência do CC/2002, contado da efetiva lesão, ou seja, do pagamento" (AgInt no AREsp 1.234.635/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 1º/03/2021, DJe de 03/03/2021).
+2. Estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ.
+3. Nos contratos bancários, na impossibilidade de comprovar a taxa de juros efetivamente contratada - por ausência de pactuação ou pela falta de juntada do instrumento aos autos -, aplica-se a taxa média de mercado, divulgada pelo Bacen, praticada nas operações da mesma espécie, salvo se a taxa cobrada for mais vantajosa para o devedor.
+(Súmula 530/STJ).
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.884.493/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 17/11/2021.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. CONTRATO BANCÁRIO. PRESCRIÇÃO. DIREITO PESSOAL. VINTENÁRIA SOB A ÉGIDE DO CC/16. DECENAL A PARTIR DO INÍCIO DA VIGÊNCIA DO CC/02. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. 1. O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ não merece reforma.
+2. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 889.930/MS, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 19/12/2017.)
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial, para fazer incidir, no caso dos autos, o prazo prescricional de dez anos.
+Intimem-se.
+EMENTA
