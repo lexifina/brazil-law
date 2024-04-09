@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo ESTADO DO MARANHÃO contra decisão proferida pela Ministra ASSUSETE MAGALHÃES que conheceu do agravo para conhecer em parte do Recurso Especial e, nessa extensão, negar-lhe provimento.
+É o relatório. Decido.
+Inicialmente, cumpre registrar que o agravo em recurso especial que ingressou no Superior Tribunal de Justiça coloca em mira acórdão do Tribunal de Justiça do Estado do Maranhão que processou e julgou o Agravo de Instrumento n. 0809419-89.2022.8.10.0000, insurgência essa veiculada nos autos da Ação de Cumprimento Individual de Sentença Coletiva n. 0853888-62.2018.8.10.0001 (7ª Vara da Fazenda Pública de São Luís/MA), "que determinou o sobrestamento do feito "pelo prazo de 01 (um) ano ou até a homologação pelo Juízo pela 2.ª Vara da Fazenda Pública dos índices de todos os 7.721 (sete mil, setecentos e vinte e um) substituídos, o que ocorrer primeiro"."
+Com efeito, o Superior Tribunal de Justiça tem a compreensão de que, "fica prejudicado, pela perda de objeto, o recurso especial interposto contra acórdão que havia julgado agravo de instrumento, quando sobrevém sentença de mérito, cuja cognição é exauriente." (AgInt no AREsp n. 1.817.468/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 26/2/2024, DJe de 29/2/2024.)
+O julgado bem ilustra o caso dos autos, em que há notícia de sentença proferida na ação de origem, manifestação exauriente que proclamou a extinção da pretensão executiva. Note-se (id 77267164):
+Isto posto, julgo extinto o pedido de cumprimento de sentença, por ilegitimidade do exequente JURACY CARLOS MARTINS, com fulcro no artigo 535, II, do Código de Processo Civil.
+Condeno a parte exequente ao pagamento das custas e dos honorários advocatícios, que fixo em 10% (dez por cento) sobre o valor da causa, ficando suspensa a exigibilidade de tais pagamentos, entretanto, por ser a autora beneficiária da assistência judiciária gratuita, ressalvando-se o disposto no artigo 98, § 3.º, do CPC.
+Consoante abordado, o recurso especial tem, como nascedouro, agravo de instrumento tirado de decisão interlocutória de primeiro grau alusiva a questões incidentes (sobrestamento processual). Com o advento da sentença, o recurso especial perdeu seu objeto, não havendo interesse da Recorrente na modificação do título judicial terminativo que lhe beneficiou.
+Pelo exposto, julgo PREJUDICADO o recurso especial, por perda de objeto, nos termos do art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
