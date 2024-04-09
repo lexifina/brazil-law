@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de VAGNER MIRANDA MELO no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de Goiás, no julgamento da Revisão Criminal n. 5668434-75.2023.8.09.0000, cujo acórdão ficou assim ementado (e-STJ fl. 13):
+REVISÃO CRIMINAL. DOSIMETRIA DA PENA. CONFISSÃO. DIREITO SUBJETIVOÀ REDUÇÃO DA PENA. ART. 65, III "d" DO CÓDIGO PENAL.1. A revisão criminal tem cabimento restrito, apenas admitida quando, após a sentença, forem descobertas novas provas que demonstrem eventual equívoco do juízo sentenciante, ou na ocorrência de flagrante ilegalidade 2. A confissão do agente implica em direito subjetivo à atenuação da pena. Uma vez inconteste a confissão, impõe a incidência da atenuante de redução da pena resultando sua não aplicação em ilegalidade passível de apreciação em sede de revisão criminal. REVISÃO CRIMINAL PARCIALMENTE PROCEDENTE.
+Neste writ, a defesa postula, inclusive liminarmente, a aplicação da fração de 1/6 pela incidência da atenuante da confissão, uma vez que a instância ordinária adotou percentual abaixo do mínimo sem fundamentação.
+É o relatório. Decido.
+Preliminarmente cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+Sobre o tema recursal, entende esta Corte que a fração de diminuição pela incidência de atenuantes deve considerar a necessidade de fundamentação concreta e específica para justificar a redução em menor extensão, de modo que a fração ideal jurisprudencialmente fixada de 1/6 lhe é aplicável, em atenção aos princípios da individualização da pena e da proporcionalidade.
+Nesse sentido, o seguinte precedente:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO DE DROGAS. ATENUANTE DA CONFISSÃO ESPONTÂNEA E CIRCUNSTÂNCIA JUDICIAL DAS CONSEQÜÊNCIAS DO DELITO. PLEITO DE COMPENSAÇÃO. IMPOSSIBILIDADE. FASES DOSIMÉTRICAS DISTINTAS. REDUÇÃO NA SEGUNDA ETAPA. FRAÇÃO DESPROPORCIONAL. CONSTRANGIMENTO ILEGAL EVIDENCIADO. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA (§ 4º DO ART. 33 DA LEI N. 11.343/06). NÃO APLICAÇÃO. DEDICAÇÃO DO PACIENTE ÀS ATIVIDADES CRIMINOSAS. REEXAME DE PROVAS. REGIME PRISIONAL FECHADO. INALTERADO. PENA SUPERIOR A 4 E INFERIOR A 8 ANOS DE RECLUSÃO. PENA-BASE ACIMA DO MÍNIMO LEGAL E NATUREZA DA DROGA APREENDIDA (CRACK). INTELIGÊNCIA DO ART. 33, §§ 2º, DO CÓDIGO PENAL - CP E ART. 42 DA LEI DE DROGAS. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+3. O ordenamento jurídico não estabelece um critério matemático para a majoração da pena, na segunda fase da dosimetria, tampouco as circunstâncias agravantes ou atenuantes denotam qualquer baliza objetiva nesse sentido. Apenas previu o legislador que a incidência daquelas hipóteses sempre alteraria a reprimenda, agravando-a ou atenuando-a.
+Na hipótese, a redução da pena decorrente do reconhecimento da confissão espontânea concedida no patamar de 6 meses pelas instâncias ordinárias, evidencia constrangimento ilegal, pois, apesar da legislação não prever as frações na aplicação das atenuantes e agravantes, o entendimento desta Corte de Justiça é no sentido de que a fração inferior a 1/6 deve ser fundamentada, o que não se observa nos autos.
+ ..
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, para redimensionar a pena do paciente tornando-a definitiva em 5 anos de reclusão, em regime inicial fechado, e 500 dias-multa, mantidos os demais termos do decreto condenatório. (HC n. 49280l/MS, Rel. Min. JOEL ILAN PACIORNIK, QUINTA TURMA, j. 4/6/2019, DJe de 17/6/2019.)
+Quanto à confissão espontânea, a atenuante foi aplicada em percentual abaixo de 1/6 sem nenhum fundamento a justificar a redução aquém do mínimo.
+Passo, assim, à readequação da pena, nos termos originários.
+Na primeira fase, a pena-base foi fixada em 13 anos de reclusão.
+Na segunda etapa, pela incidência das agravantes reconhecidas, a sanção fica alterada em 1 ano e, pela atenuante da confissão, em 1/6, alcançando o patamar de 11 anos e 8 meses de reclusão, tornando-se definitiva.
+Mantida, no mais, a condenação.
+Ante o exposto, concedo a ordem, in limine, nos termos ora delineados.
+Publique-se. Intimem-se.
+EMENTA
