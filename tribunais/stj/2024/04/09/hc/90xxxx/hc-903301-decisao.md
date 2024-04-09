@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar, impetrado em favor de MATHEUS LEMES CORTEZ, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC nº Processo nº 2085710-17.2024.8.26.0000).
+O paciente condenado como incurso no artigo 33, caput, da Lei 11.343/06. Imputou-se a seguinte conduta (e-STJ fl. 194: "6 (quarenta e seis) "eppendorfs" de cocaína, com peso aproximado de 9,1g, 37 (trinta e sete) pedras de crack, com peso aproximado de 15,3g, um liquidificador, 23 (vinte e três) "eppendorfs" vazios, a quantia de R$ 447,90 (quatrocentos e quarenta e sete reais e noventa centavos)" (e-STJ fl. 05).
+O habeas corpus apresentado pela defesa foi denegado por meio de decisão liminar que deferiu parcialmente o pedido do impetrante nos seguintes termos, deferindo parcialmente a liminar para que o paciente fosse transferido para estabelecimento prisional compatível com o regime fixado em sentença, o semiaberto (e-STJ fl. 272).
+A defesa alega, em síntese, que: a) constrangimento ilegal a inexistência de fatos novos ou contemporâneos que justifiquem a adoção da medida extrema; b) a não fundamentada a decisão que se limitar à reprodução de ato normativo, sem explicitar a sua relação com a causa -art. 315, § 2º, inciso I, do CPP.
+Requer, liminar e definitivamente, a concessão da ordem para revogar a prisão preventiva, com ou sem a aplicação de medidas cautelares diversas.
+É o relatório.
+Decido.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, j. em 02/08/2022, DJe de 10/08/2022).
+Verifica-se que não está caracterizada manifesta ilegalidade suficiente para superar o óbice do referido enunciado sumular.
+A autoridade impetrada consignou (e-STJ fl. 272):
+Pela r. sentença proferida em 14 de março p.p. (fls. 247/253), o paciente foi condenado à pena de 5 (cinco) anos de reclusão em regime inicial semi aberto por incurso no art. 33, caput, da Lei nº 112.343/06 c.c. o art. 2º da Lei nº 8.072.90, lhe sendo negado o direito de recorrer em liberdade por permanecerem íntegros os fundamentos ensejadores da prisão preventiva.
+Pois bem, a cognição ora realizada é sumária e não exauriente, e o que consta dos atos não autoriza a antecipação da tutela, que exige prova pré-constituída a demonstrar de imediato o constrangimento que se pretende ver superado, o que não é possível se depreender dos fatos alegados e da documentação que instrui a inicial. Demais disso, no tocante ao indeferimento de recurso em liberdade, na r. decisão hostilizada consta que o paciente possui outro registro pelo crime de roubo circunstanciado (processo nº 1500145-89.2023.8.26.0611), o que justifica em princípio a manutenção da prisão para a garantia da ordem pública ante o perigo gerado pelo seu estado de liberdade.
+Todavia, defiro parcialmente a liminar para que o paciente seja transferido para estabelecimento prisional compatível com o regime fixado em sentença, o semiaberto, se é que isso ainda não ocorreu.
+Não se constata, então, vício na negativa do pleito liminar em sede monocrática, sendo certo que o revolvimento das questões sustentadas no habeas corpus acarretaria supressão de instância, pois serão alvo de exame na Corte de origem quando do julgamento final.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
