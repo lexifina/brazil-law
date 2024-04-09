@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo interno interposto por Cristovão Alexandre Vilas Boas Rosa Marques desafiando decisão que julgou prejudicados o anterior agravo interno (fls. 1.693/1.731) e este agravo em recurso especial, em virtude da perda superveniente do interesse recursal do recorrente (fls. 1.765/1.768).
+Irresignada, a parte agravante, em suas razões, afirma "(..) a manutenção do interesse de agir, uma vez que, caso o parcelamento não seja honrado até o final, o credor poderá, novamente, redirecionar a execução ao Agravante, com eventuais medidas constritivas, no intuito de satisfazer seu crédito" (fl. 1.795).
+Requer a reconsideração do decisum, com o reconhecimento do interesse de agir recursal do agravante, tendo em vista não ter sido ele o responsável pelo parcelamento do débito originário (fl. 1.800). Postula, ainda, o provimento do agravo interno de fls. 1.693/1.727, com o provimento do agravo em recurso especial ou a submissão do feito a julgamento colegiado.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelos arts. 1.021, § 2º, do CPC e 259 do RISTJ, reconsidero a decisão agravada (fls. 1.765/1.768), tornando-a sem efeito, porque, de fato, persiste o interesse do ora agravante em ver dirimida a questão da sua legitimidade passiva para responder pela execução de CDA proposta pelo DNIT contra a ora interessada. Com efeito, por se tratar de pretensão autônoma do agravante, segue o seu trâmite inalterado com o parcelamento do débito originário efetuado unicamente pela empresa interessada.
+Nesse propósito, é caso de se restabelecer a decisão de fls. 1.685/1.689, por intermédio da qual o agravo em recurso especial teve provimento negado, desafiada que foi pelo agravo interno de fls. 1.693/1.731, devidamente respondido pela parte agravada às fls. 1.733/1.745.
+ANTE O EXPOSTO, torno sem efeito a decisão de fls. 1.765/1.768, ficando restabelecida a decisão que negou provimento ao agravo em recurso especial (fls. 1.685/1.689). Por conseguinte, retornem-me os autos conclusos, oportunamente, para apreciação do agravo interno de fls. 1.693/1.731.
+Publique-se.
+EMENTA
