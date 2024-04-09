@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de VALDINEI MENDES DE OLIVEIRA, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que negou provimento ao agravo em execução defensivo, nos termos do acórdão assim ementado:
+"AGRAVO. Remição de penas. Remição pela leitura não encontra respaldo na legislação vigente. Impossibilidade. Agravo desprovido." (e-STJ, fl. 17).
+Neste writ, a impetrante alega constrangimento ilegal causado ao paciente decorrente do indeferimento do pedido de remição por leitura, em ofensa ao art. 126 da LEP e da Recomendação n. 44/2013 do Conselho Nacional de Justiça.
+Requer, ao final, que seja reconhecido o direito à remição da pena pela leitura, ante o preenchimento de todos os requisitos legais.É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 - pacificaram orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Ao indeferir o pedido de remição da pena por leitura, o magistrado de origem o fez nos seguintes termos:
+"Da análise dos documentos, verifico que o executado, procedeu à leitura de inúmeras obras literárias, mas de forma desvinculada de qualquer programa oficial da SAP ou FUNAP, tendo as resenhas sido analisadas por profissional particular, sem relação com a unidade ou qualquer comissão oficial.
+Disso se conclui que a atividade intelectual/recreativa realizada, embora louvável, se deu por vontade do próprio reeducando, que enriqueceu seus conhecimentos, mas não pode ser beneficiado com a remição, que depende de programa oficial para gerar o abatimento no tempo de pena.
+Nesse cenário, indefiro o pedido de remição.
+" (e-STJ, fls. 167-168).
+Segundo reiterada jurisprudência desta Corte, é possível a remição de parte do tempo da execução da pena pela atividade de leitura, como resultado de uma interpretação analógica in bonam partem da norma inserta no art. 126 da Lei de Execução Penal, nos termos da Recomendação n. 44/2013 e Resolução 391/2021 do Conselho Nacional de Justiça e da Portaria Conjunta n. 276/2012, do Departamento Penitenciário Nacional/MJ e do Conselho da Justiça Federal. Ilustrativamente, confiram-se:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO POR LEITURA. AUSÊNCIA DE ACOMPANHAMENTO. FISCALIZAÇÃO PREJUDICADA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não olvido que  a norma do art. 126 da LEP, ao possibilitar a abreviação da pena, tem por objetivo a ressocialização do condenado, sendo possível o uso da analogia in bonam partem, que admita o benefício em comento, em razão de atividades que não estejam expressas no texto legal (REsp 744.032/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 5/6/2006)  (AgRg no HC n. 549.304/SC, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 16/3/2020).
+2. Todavia, consoante apontado pela Corte de origem,  não há confirmação do período em que a leitura de cada obra ocorreu, registro de empréstimo da obra literária do acervo da biblioteca da unidade, sequer consta, nos presentes autos, as alegadas resenhas elaboradas e, como apontou o MM. Juízo de origem, estas não foram analisadas por qualquer profissional ou comissão (fls. 06/07), não restando preenchidos, portanto, os requisitos dispostos na Resolução 391/2021 do CNJ a autorizar a concessão do benefício .
+3. Agravo regimental não provido".
+(AgRg no HC n. 735.047/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/5/2022, DJe de 16/5/2022.)
+Na hipótese em apreço, o pedido de remição formulado pelo paciente não encontra amparo na legislação de regência - Portaria Conjunta nº 276/2012, da Corregedoria Geral de Justiça e do Departamento Penitenciário Nacional; Recomendação 44/2013 e Resolução 391/2021 do Conselho Nacional de Justiça, tendo a Corte Estadual salientado que "as resenhas apresentadas pelo agravante (fls. 189/306) foram realizadas sem conhecimento/supervisão da unidade prisional onde ele se encontra recluso, conforme ofício juntado às fls. 342/344, o que impossibilitou as respectivas validações pela referida comissão" (e-STJ, fl. 168).
+Com efeito, vale destacar que uma "vez desvinculadas de qualquer programa oficial, não podem as resenhas - não obstante caracterizem atividade intelectual/recreativa do paciente - servir para fim de remição da pena. Para tanto é imprescindível a vinculação a programa oficial, quando então haverá abatimento da pena" (AgRg no HC n. 691.607/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 15/2/2022, DJe de 21/2/2022). A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LEITURA DE OBRAS LITERÁRIAS. REMIÇÃO. NECESSIDADE DE SUBMISSÃO A PROGRAMAS DO ESTABELECIMENTO PRISIONAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na hipótese em debate, ainda que seja reconhecido o engajamento do paciente na leitura de obras literárias, elas não foram orientadas por projeto desenvolvido pelo estabelecimento prisional.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 679.366/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/10/2021, DJe de 25/10/2021.)
+Nesse contexto, não se observa flagrante ilegalidade a autorizar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
