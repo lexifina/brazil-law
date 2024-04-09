@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 03/04/2024 a 09/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Antonio Carlos Ferreira.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITOS PREVISTOS NO ART. 112 DA LEP. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 205/STF.
+1. O STF, ao julgar o AI n. 754.008-RG/RS, firmou a seguinte tese: "Tema n. 205/STF: A questão do preenchimento dos requisitos para a concessão de progressão de regime carcerário, nos termos do art. 112 da Lei de Execução Penal, na redação da Lei nº 10.792/2003, em especial com relação à realização de exame criminológico (exigência de avaliação social e psicológica do apenado), tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009."
+2. Agravo regimental a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra a decisão que negou seguimento ao recurso extraordinário assim ementada (fl. 608):
+RECURSO EXTRAORDINÁRIO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITOS PREVISTOS NO ART. 112 DA LEI DE EXECUÇÃO PENAL. MATÉRIA INFRACONSTITUCIONAL. TEMA 205/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
+A parte agravante argumenta que o MP pleiteou a realização de exame criminológico com base em elementos concretos dos autos, destacando a gravidade do crime de roubo majorado. Logo, não há falar em inidoneidade da fundamentação utilizada para determinar a realização do exame.
+Argumenta ainda que (fls. 616-618):
+ ..  o Ministério Público Federal por meio de Agravo Regimental e do Recurso Extraordinário visou ilidir a equivocada, omissa e contraditória conclusão a que chegou a Decisão recorrida de que foi determinada a elaboração de exame criminológico sem a devida fundamentação. O STJ no julgamento do Recurso Extraordinário ministerial, não admitiu o Recurso ao argumento de não ocorrência de repercussão geral, acontece que o STF definiu, em repercussão geral, no sentido de que a data-base para verificação dos requisitos objetivos e subjetivos, previstos no art. 112 da Lei n. 7.210/1984, deverá ser definida de forma casuística, fixando como termo inicial o preenchimento do último requisito pendente, seja objetivo ou subjetivo, e não há constrangimento ilegal em razão da consideração de adimplemento do requisito subjetivo somente com a conclusão do exame criminológico. Então a Decisão do STJ está equivocada e não merece prosperar.
+ ..  o pleito ministerial de realização do exame criminológico está baseado em elementos concretos dos autos, vale destacar a gravidade do crime de roubo majorado, não havendo em falar em inidoneidade da fundamentação utilizada para determinar de realização do exame criminológico, e a pretensão ministerial está em consonância com a jurisprudência firmada nesta Corte, o que incide na Súmula 83 do STJ.
+Requer o provimento do agravo para que o recurso extraordinário seja admitido e remetido ao Supremo Tribunal Federal.
+Não foram oferecidas contrarrazões.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITOS PREVISTOS NO ART. 112 DA LEP. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 205/STF.
+1. O STF, ao julgar o AI n. 754.008-RG/RS, firmou a seguinte tese: "Tema n. 205/STF: A questão do preenchimento dos requisitos para a concessão de progressão de regime carcerário, nos termos do art. 112 da Lei de Execução Penal, na redação da Lei nº 10.792/2003, em especial com relação à realização de exame criminológico (exigência de avaliação social e psicológica do apenado), tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009."
+2. Agravo regimental a que se nega provimento.
+VOTO
+A Suprema Corte, ao julgar o AI n. 754.008-RG/RS, firmou o entendimento de que é infraconstitucional, não possuindo repercussão geral, a questão que versa sobre a análise dos requisitos para concessão de progressão de regime previstos no art. 112 da Lei de Execução Penal, nos seguintes termos:
+Tema n. 205 do STF: A questão do preenchimento dos requisitos para a concessão de progressão de regime carcerário, nos termos do art. 112 da Lei de Execução Penal, na redação da Lei nº 10.792/2003, em especial com relação à realização de exame criminológico (exigência de avaliação social e psicológica do apenado), tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+O acórdão foi assim ementado:
+RECURSO. Extraordinário. Inadmissibilidade. Progressão de regime. Requisitos. Interpretação do art. 112 da LEP. Lei nº 10.792/03. Exame criminológico. Matéria infraconstitucional. Ausência de repercussão geral. Agravo de instrumento não conhecido. Não apresenta repercussão geral o recurso extraordinário que, versando sobre a análise dos requisitos para concessão de progressão de regime à luz da nova redação do art. 112 da LEP, pela Lei nº 10.792/03, em especial com relação à realização de exame criminológico (exigência de avaliação social e psicológica do apenado), trata de matéria infraconstitucional.
+(AI n. 754.008-RG, relator Ministro Cezar Peluso, Tribunal Pleno, julgado em 24/9/2009, DJe de 16/10/2009.)
+No presente caso, esta Corte Superior concedeu o habeas corpus para determinar a reapreciação pelo Juízo da execução penal do pedido de progressão de regime do paciente, nos limites legais, independentemente da realização do exame criminológico.
+Tem-se, portanto, conforme a tese do Tema n. 205 do STF, questão de natureza infraconstitucional com ausência de repercussão geral, motivo pelo qual a decisão que negou seguimento ao recurso extraordinário deve ser mantida.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
