@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de reclamação proposta por Frank Michel Lisboa contra julgado proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul nos autos do agravo de instrumento n. 1020059-43.2022.8.11.0000 por usurpação de competência do STJ.
+Na inicial, o reclamante narra que a controvérsia advém de ação ordinária indenizatória em que se discute a indenização consequente da declaração de nulidade de contratação temporária que foi sucessivamente prorrogada em burla ao princípio do concurso público. Afirma que o juízo de piso declinou da competência para o juizado especial em razão do valor da causa ser inferior a 60 salários mínimos.
+O reclamante defende ter interposto agravo de instrumento para suscitar a ilegalidade da declinação de competência, pois a competência do Juizado Especial é absoluta quando o foro possuir, especificamente, a instalação do Juizado Especial da Fazenda Pública. Assevera que na Comarca de Sete Quedas não há um juizado especial específico para atender demandas que envolvem fazenda pública. Ressalta que o agravo de instrumento não foi provido por acórdão ementado nestes termos:
+AGRAVO DE INSTRUMENTO - COMPETÊNCIA ABSOLUTA DO JUIZADO ESPECIAL DA FAZENDA PÚBLICA - VARA ÚNICA RESPONSÁVEL PELO JUIZADO DA FAZENDA PÚBLICA/ADJUNTO - OBSERVÂNCIA DO PROCEDIMENTO.
+É absoluta a competência dos Juizados Especiais da Fazenda Pública para julgamento de demanda que tem como parte ente público e valor da causa inferior a 60 salários mínimos (art. 2º, § 4º, Lei 12.153/2009).
+Conforme normas estaduais, o juízo da Vara Única, em que proferida a decisão, também é responsável pelo Juizado Especial da Fazenda Pública/Adjunto. Ou seja, apenas haverá adequação de procedimento e dos dados do processo.
+Recurso não provido.
+O reclamante visa, em síntese, o reestabelecimento da competência originária do Juízo da Vara Cível da Comarca de Sete Quedas. Assevera que o entendimento da Corte de origem não observou a premissa jurisdicional declarada pelo STJ nos autos do REsp n. 1.896.379/MT, no qual houve a formação do Tema IAC n. 10, segundo o qual a competência do juizado especial da fazenda pública é absoluta nos foros em que tenha sido instalado. Argui, em síntese, que (e-STJ fl. 13):
+Diante disso, é evidente a usurpação de competência deste C. Tribunal perpetrada pelo Juízo Reclamado que, ao invés de garantir a autoridade das decisões do Superior Tribunal de Justiça e a decidir em observância do citado julgamento proferido em incidente de assunção, simplesmente prolatou decisão tendente a ferir o que já estava afixado, desrespeitando claramente o art. 988, do CPC e arts. 187 a 192 do Regimento Interno do Superior Tribunal de Justiça.
+Na contestação, o Estado de Mato Grosso do Sul suscita que não houve esgotamento de instância para a demanda de reclamação. Ademais, assevera a legalidade da declinação de competência.
+O Ministério Público Federal manifestou-se pelo não provimento da reclamação.
+É o relatório. Passo a decidir.
+Contra o acórdão proferido pelo Tribunal a quo, o reclamante teve oportunidade de apresentar recurso especial nos termos do art. 105, III, a e c, da CF/1988. Nos autos, não há evidência de que houve utilização de meio processual adequado.
+Logo, a presente reclamação foi utilizada como substituto de recurso, o que não se admite nos termos da jurisprudência do STJ. A propósito:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NA RECLAMAÇÃO CONSTITUCIONAL (CF, ART. 105, I, F, E ART. 988, § 5º, II, DO CPC/2015. CABIMENTO VINCULADO AO EXAURIMENTO DA INSTÂNCIA DE ORIGEM. NÃO OCORRÊNCIA NA HIPÓTESE CONCRETA. AGRAVO INTERNO NÃO PROVIDO.
+1. A admissibilidade da reclamação prevista no art. 988, § 5º, II, do CPC/2015 vincula-se ao prévio esgotamento da instância ordinária, o que ocorre com o julgamento do agravo interno (CPC, art. 1.030, §2º), interposto contra a decisão que inadmite o recurso especial por considerar o acórdão recorrido em conformidade com o entendimento paradigmático do Superior Tribunal de Justiça proferido sob o regime especial, evento não ocorrido na presente hipótese, em que sequer houve manejo de recurso especial.
+2. Agravo Interno não provido.
+(AgInt na Rcl n. 39.155/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 1/9/2020, DJe de 4/9/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECLAMAÇÃO. DECISÃO RECLAMADA PROFERIDA PELO PRÓPRIO STJ. NÃO CABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. Compete ao Superior Tribunal de Justiça processar e julgar, originariamente, a Reclamação para a preservação de sua competência e garantia da autoridade de suas decisões, bem como para garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência, conforme disposto nos artigos 105, "f", da Constituição Federal, e 988 do Código de Processo Civil de 2015, sendo, pois, instrumento processual de caráter específico e de aplicação restrita, não sendo admissível o seu uso quando a autoridade reclamada for órgão julgador do próprio STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt na Rcl 35.739/SP, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, DJe 29.6.2018).
+A propósito, o seguinte precedente do STF:
+PROCESSUAL CIVIL. RECLAMAÇÃO PROPOSTA PARA GARANTIR A OBSERVÂNCIA DE RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA. CPC/2015, ART. 988, § 5º, II. INTERPRETAÇÃO TELEOLÓGICA.
+1. Em se tratando de reclamação para o STF, a interpretação do art. 988, § 5º, II, do CPC/2015 deve ser fundamentalmente teleológica, e não estritamente literal. O esgotamento da instância ordinária, em tais casos, significa o percurso de todo o íter recursal cabível antes do acesso à Suprema Corte. Ou seja, se a decisão reclamada ainda comportar reforma por via de recurso a algum tribunal, inclusive a tribunal superior, não se permitirá acesso à Suprema Corte por via de reclamação.
+2. Agravo regimental não provido.
+(Rcl 24686 ED-AgR, Relator(a): TEORI ZAVASCKI, Segunda Turma, julgado em 25-10-2016, PROCESSO ELETRÔNICO DJe-074 DIVULG 10-04-2017 PUBLIC 11-04-2017)
+Ante o exposto, não conheço da reclamação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECLAMAÇÃO. SERVIDOR PÚBLICO. AÇÃO ORDINÁRIA CONDENATÓRIA CONTRA A FAZENDA PÚBLICA. ACORDÃO PROFERIDO POR TRIBUNAL DE JUSTIÇA EM SEDE DE AGRAVO DE INSTRUMENTO. HIPÓTESE DE RECURSO ESPECIAL. RECLAMAÇÃO UTILIZADA COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. RECLAMAÇÃO NÃO CONHECIDA.
