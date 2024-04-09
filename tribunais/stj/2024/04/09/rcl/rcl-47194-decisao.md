@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de reclamação ajuizada por BWB PRIME CLUBE DE FÉRIAS S.A. contra acórdão da Turma Recursal do Tribunal de Justiça do Estado de Sergipe que manteve a sentença do juiz de primeiro grau que determinara a rescisão do contrato firmado entre as partes, sem a respectiva retenção de valor algum a título de multa.
+A reclamante informa que o contrato rescindindo é do tipo de cessão de uso, na modalidade time-sharing. Sustenta que cumpriu seu dever de transparência e informação na contratação, o que foi reconhecido pelo juiz primeiro, que, mesmo assim, concluiu que algumas cláusulas do ajuste eram abusivas, entre elas as de rescisão contratual.
+Assim, declarou, por sentença, rescindido o contrato e determinou a devolução dos valores pagos sem o percentual de retenção a título de multa, contrariamente ao que estabelece a Súmula n. 543 do STJ.
+Portanto, a presente reclamação objetiva fazer prevalecer as decisões do Superior Tribunal de Justiça ora desrespeitadas pela não observação da referida súmula.
+É o relatório. Decido.
+A presente reclamação tem a finalidade de determinar a aplicação da Súmula n. 543 do STJ ao caso posto em questão, de rescisão de contrato do tipo time-sharing, conforme determinado pela Turma Recursal do Tribunal de Justiça do Estado de Sergipe.
+Com a revogação da Resolução STJ n. 12/2009, que dispunha sobre o processamento, no Superior Tribunal de Justiça, das reclamações destinadas a dirimir divergência entre acórdão prolatado por turma recursal estadual e a jurisprudência desta Corte, foi editada a Resolução STJ n. 3/2016, que dispõe que caberá às câmaras reunidas ou à seção especializada dos tribunais de justiça processar e julgar as reclamações destinadas a dirimir divergência entre acórdão prolatado por turma recursal estadual e a jurisprudência do Superior Tribunal de Justiça consolidada em incidente de assunção de competência e de resolução de demandas repetitivas, em julgamento de recurso especial repetitivo e em enunciados de súmulas do STJ, bem como garantir a observância de precedentes.
+A inovação regulamentar da matéria foi estabelecida em função de julgamento promovido pela Corte Especial do Superior Tribunal de Justiça em acórdão assim ementado:
+AGRAVO REGIMENTAL. RECLAMAÇÃO. JUIZADOS ESPECIAIS. RESOLUÇÃO N. 12/2009-STJ. INCIDENTE DE INCONSTITUCIONALIDADE. PREJUDICADO. POSTERIOR ADVENTO DA EMENDA REGIMENTAL 22/2016-STJ REVOGANDO A RESOLUÇÃO N. 12/2009-STJ. DELIBERAÇÃO DE EDIÇÃO DE NOVA RESOLUÇÃO SOBRE A COMPETÊNCIA PARA DIRIMIR DIVERGÊNCIAS ENTRE TURMA REGIONAL ESTADUAL E A JURISPRUDÊNCIA DESTA CORTE. AGRAVO PREJUDICADO.
+1. Com o advento da Emenda Regimental nº 22-STJ, de 16/03/2016, ficou revogada a Resolução n. 12/2009-STJ, que dispunha sobre o processamento, no Superior Tribunal de Justiça, das reclamações destinadas a dirimir divergência entre acórdão prolatado por turma recursal estadual e a jurisprudência desta Corte.
+2. Com isso, fica prejudicado o incidente de inconstitucionalidade que ataca a Resolução n. 12/2009-STJ.
+3. A matéria passará a ser tratada por nova resolução, editada à luz do novo Código de Processo Civil, nos termos debatidos pela Corte Especial.
+4. Agravo regimental prejudicado. (AgRg na Rcl n. 18.506/SP, relator Ministro Raul Araújo, Corte Especial, julgado em 6/4/2016, DJe de 27/5/2016.)
+Ante o exposto não conheço da presente reclamação, ficando prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+EMENTA
