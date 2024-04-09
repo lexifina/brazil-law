@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ALESANDRO GONZALES RODRIGUES contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ que não admitiu seu recurso especial fundado no art. 105, III, alínea a, da Constituição Federal (Apelação Criminal n. 0000756-50.2021.8.16.0196).
+Depreende-se dos autos que o réu foi condenado, como incurso no art. 33, caput, da Lei n. 11.343/2006, a 5 anos de reclusão, em regime inicial semiaberto, por ter sido apreendido com 12g (doze gramas) de cocaína e de 3g (três gramas) de crack.
+No especial, a defesa apontou contrariedade ao art. 33, § 4º, da Lei n. 11.343/2006.
+Sustentou que as abordagens anteriores realizadas pelos policiais não permitem aferir a dedicação do réu a atividades criminosas e, portanto, não podem ser utilizados para afastar a minorante do tráfico privilegiado.
+As contrarrazões foram apresentadas.
+O Parquet opinou pelo desprovimento do recurso.
+É o relatório.
+Decido.
+Tenho que assiste razão à defesa.
+Nos termos do art. 33, § 4º, da Lei n. 11.343/2006, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja primário e portador de bons antecedentes e não se dedique às atividades criminosas nem integre organização criminosa. É evidente, portanto, que o benefício descrito no art. 33, § 4º, da Lei n. 11.343/2006 tem como destinatário o pequeno traficante, ou seja, aquele que inicia sua vida no comércio ilícito de entorpecentes muitas das vezes até para viabilizar seu próprio consumo, e não os que, comprovadamente, fazem do crime seu meio habitual de vida.
+Sobre o tema, confira-se a seguinte lição:
+Cuida-se de norma inédita, visando à redução da punição do traficante de primeira viagem, o que merece aplauso. Portanto, aquele que cometer o delito previsto no art. 33, caput ou § 1º, se for primário (indivíduo que não é reincidente), vale dizer, não cometeu outro delito, após ter sido definitivamente condenado anteriormente por crime anterior, no prazo de cinco anos, conforme arts. 63 e 64 do Código Penal) e tiver bons antecedentes (sujeito que não ostenta condenações definitivas anteriores), não se dedicando às atividades criminosas, nem integrando organização criminosa, pode valer-se da pena mais branda. (In Leis penais e processuais penais comentadas. Guilherme de Souza Nucci. 9. ed. rev. atual, e ampl. Rio de Janeiro: Forense, 2015, pp. 358/359.)
+Com efeito, a minorante do § 4º do art. 33 da Lei n. 11.343/2006 foi afastada em relação ao agravante ao argumento de que "os policiais Marcio Moura de Lima (mov. 182.1) e Alef Elton de Sena Basso (mov. 182.2) foram precisos ao afirmarem que o réu já havia sido abordado pela equipe diversas vezes na região, na posse de substâncias entorpecentes. No dia da prisão que deu origem ao presente processo o réu foi visto pela equipe entregando algo para o motorista de um veículo e posteriormente, durante a perseguição para abordagem, foi visto dispensando as drogas apreendidas" (e-STJ fl. 539).
+No ponto, vislumbro constrangimento ilegal visto que a instância ordinária, não obstante a primariedade do agravante e a quantidade de droga apreendida não ser exorbitante - 12g (doze gramas) de cocaína e de 3g (três gramas) de crack -, concluiu que ele não faria jus à aplicação da causa especial de diminuição de pena.
+Ora, as abordagens policiais, por si sós, não justificam o afastamento da minorante, pois tal fundamento não ter força pujante para tanto .
+Assim, verificados os requisitos legais, o reconhecimento do privilégio no patamar máximo era medida que se impunha.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MINUTA DE AGRAVO QUE NÃO INFIRMOU TODOS OS ÓBICES DECLINADOS PARA FUNDAMENTAR A INADMISSÃO DO APELO NOBRE. SÚMULA N. 182/STJ. ILEGALIDADE FLAGRANTE. TRÁFICO DE DROGAS. REDUTOR DO ART. 33, § 4.º, DA LEI N. 11.343/2006. AFASTAMENTO. FUNDAMENTAÇÕES INIDÔNEAS. AGRAVO REGIMENTAL DESPROVIDO. ORDEM DE HABEAS CORPUS CONCEDIDA, DE OFÍCIO.
+1. Não houve mesmo concreta e específica impugnação de todos os fundamentos declinados pela Corte de justiça de origem para inadmitir o recurso especial. Incidência da Súmula n. 182/STJ mantida.
+2. Verificada a existência de ilegalidade evidente, apta a ser corrigida por meio da concessão de habeas corpus, de ofício.
+3. As instâncias ordinárias afastaram a aplicação da minorante do tráfico privilegiado a partir dos seguintes elementos: (i) quantidade de droga apreendida; (ii) fato de os réus serem conhecidos como traficantes; e (iii) tentativa de fuga por ocasião da abordagem policial. No entanto, na espécie, tais fundamentações não são suficientes, por si sós, para comprovar a dedicação a atividade s criminosas, sendo devida a incidência do redutor na fração máxima.
+4. Em razão do redimensionamento da pena ora realizado, da primariedade dos Agravantes e da ausência de circunstâncias desfavoráveis, de rigor a fixação do regime inicial aberto, bem como a substituição da pena privativa de liberdade por restritivas de direitos nos termos da aplicação feita pelo Juízo de primeiro grau.
+5. Agravo regimental desprovido. Concedido habeas corpus, de ofício, a fim de aplicar a minorante do art. 33, § 4.º, da Lei de Drogas no grau máximo, restabelecendo as punições impostas pelo Juízo de primeiro grau.
+(AgRg no AREsp n. 2.297.312/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 16/5/2023, DJe de 23/5/2023.)
+Evidente, portanto, o constrangimento ilegal, mostrando-se imperioso o recálculo da pena.
+Assim, reconhecendo-se a incidência da minorante do § 4º da Lei n. 11.343/2006, na fração de 2/3, e mantendo os demais parâmetros adotados na origem, a pena do agravante deve ser reduzida para 1 ano e 8 meses de reclusão e 187 dias-multa.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de reduzir a reprimenda do agravante para 1 ano e 8 meses de reclusão e 187 dias-multa, fixar o regime aberto de cumprimento de pena, bem como substituir a pena privativa de liberdade por medidas restritivas de direitos, a serem definidas pelo Juízo das execuções criminais.
+Publique-se. Intimem-se.
+EMENTA
