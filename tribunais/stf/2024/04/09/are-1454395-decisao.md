@@ -1,0 +1,71 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – ICMS. REVOGAÇÃO DE BENEFÍCIO FISCAL. MAJORAÇÃO INDIRETA DE TRIBUTO. PRINCÍPIOS DA ANTERIORIDADE TRIBUTÁRIA FISCAL E NONAGESIMAL. PRECEDENTES. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+
+“MANDADO DE SEGURANÇA. ICMS. REVOGAÇÕES TEMPORÁRIAS DE BENEFÍCIOS FISCAIS. ALTERAÇÕES INTRODUZIDAS PELOS DECRETOS ESTADUAIS Nºs 65.254/2020 E 65.255/2020. Impetração contra os efeitos concretos das revogações/restrições contidas nos Decretos Estaduais nºs 65.254/2020 e 65.255/2020. Cabimento parcial. Inexistência de vulneração aos princípios constitucionais da legalidade, isonomia, livre concorrência, federativo e democrático. Precedentes desta C. Câmara. Decreto nº 65.254/2020, entretanto, não observou o princípio da anterioridade nonagesimal (art. 150, III, ‘c’, CF). Inadmissibilidade. Majoração indireta de tributo. Necessidade de observância do princípio da anterioridade nonagesimal. Entendimento do A. STF. Precedentes deste E. Tribunal. Sentença reformada, em parte, para determinar, no caso, a observância do princípio da anterioridade nonagesimal. Apelo parcialmente provido” (e-doc. 85).
+
+    Foram opostos embargos de declaração por ambas as partes, os quais foram rejeitados (e-docs. 91 e 100).
+
+    2. O recurso extraordinário foi inadmitido pela concordância do julgado recorrido com a jurisprudência do Supremo Tribunal Federal e pela incidência da Súmula n. 280 deste Supremo Tribunal (e-doc. 115).
+
+    3. O agravante argumenta que “o Fisco não traz qualquer argumentação no que se refere aos meandros da legislação estadual: o que se alega é tão somente que, considerados os marcos temporais estabelecidos pelo acórdão recorrido, o 150, III, b e c, do CFRB respalda a não prorrogação dos benefícios fiscais sob comento, bem como impede a interpretação de que os mesmos devem ser mantidos até 15/01/2021” (fls. 4-5, e-doc. 121).
+
+    No recurso extraordinário, alegou o Estado de São Paulo ter o Tribunal de origem contrariado as als. b e c do inc. III do art. 150 da Constituição da República.
+
+    Pediu “seja conhecido e provido de modo a, reformando-se a r. decisão agravada, admitir e dar seguimento ao Recurso Extraordinário interposto, determinando-se sua remessa a esse Colendo Tribunal e reformando-se o v. acórdão recorrido, para que se reconheça a flagrante violação aos dispositivos da Constituição acima mencionados, com a consequente inversão dos ônus sucumbenciais” (fl. 5, e-doc. 121).
+
+    Apreciada a matéria trazida na espécie, DECIDO.
+
+    4. Razão jurídica não assiste ao agravante.
+
+    O Tribunal de origem dirimiu a controvérsia nos seguintes termos:
+
+    “(...) em que pese a ausência, na espécie, como visto, de vulneração aos princípios da legalidade, isonomia, livre concorrência, federativo e democrático, houve, no caso, violação ao princípio da anterioridade nonagesimal (art. 150, III, ‘c’, CF), em relação, apenas, ao Decreto Estadual nº 65.254/2020, uma vez que publicado em 16.10.2020 (https://legislacao.fazenda.sp.gov.br/Paginas/Decreto-65254-de-2020.aspx), com produção de efeitos a partir de 1º.01.2021, conforme reconhecido, inclusive, pela Fazenda Estadual, em suas contrarrazões de apelo (...).
+
+    Como se vê, de fato, não há que se cogitar de violação ao princípio da anterioridade nonagesimal em relação ao Decreto Estadual nº 65.255, de 15 de outubro de 2020, porquanto este passou a produzir efeitos, escorreitamente, a partir de 15.01.2021 (art. 13, Decreto nº 65.255/2020), mas, em relação ao Decreto Estadual nº 65.254, de 15 de outubro de 2020, a situação é diversa, já que este passou a produzir efeitos como incontroverso na espécie (fl. 434) a partir de 1º.01.2021 (art. 5º, Decreto nº 65.254/2020), antes, portanto, do prazo de noventa dias, contados de sua publicação (‘DOE 16-10-2020’), nos termos do art. 150, III, ‘c’, da CF, que se findou em 14.01.2021.
+
+    Com efeito, não apenas a majoração direta de tributos demanda a aplicação do princípio anterioridade nonagesimal, mas, também, a majoração indireta ainda que temporária, como alegado pela FESP (fls. 434/435), consoante entendimento mais recente do A. Supremo Tribunal Federal (...).
+
+    (...) Assim, de rigor, na espécie, a concessão parcial da segurança, unicamente, para determinar, no tocante aos efeitos concretos do Decreto Estadual nº 65.254, de 15 de outubro de 2020, produzidos em relação à impetrante, a observância do princípio da anterioridade nonagesimal, observando-se, portanto, a data inicial de 15.01.2021, para produção de efeitos concretos, em relação àquela” (fls. 14-6, e-doc. 22).
+
+    O julgado recorrido harmoniza-se com o entendimento firmado pelo Supremo Tribunal Federal no sentido da necessidade de observância do princípio da anterioridade nonagesimal e o da anterioridade geral nos casos em que a revogação de benefício fiscal acarrete aumento indireto de tributo. Confiram-se, por exemplo, os seguintes julgados:
+
+    “DIREITO TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ICMS. REVOGAÇÃO DE BENEFÍCIO FISCAL. MAJORAÇÃO INDIRETA DE TRIBUTO. PRINCÍPIO DA ANTERIORIDADE. 1. Agravo regimental em recurso extraordinário com agravo interposto em face de decisão que, monocraticamente, conheceu do recurso do Estado de São Paulo para dar-lhe provimento. O acórdão do TJSP decidiu pela necessidade de respeito à anterioridade diante do aumento indireto de tributos. 2. O ato normativo questionado pelo contribuinte extinguiu benefício fiscal que possibilitava a geração de créditos de ICMS ainda que a circulação de mercadorias fosse isenta. No entanto, os seus efeitos começaram a ser produzidos quando da publicação. A anterioridade tributária visa a assegurar a previsibilidade da carga tributária, protegendo a segurança jurídica, a não surpresa e a confiança legítima. Por isso, também deve ser aplicada à revogação ou alteração de benefício fiscal, conforme já reconhecido por esta Corte. 3. Desse modo, divirjo do relator e dou provimento ao agravo interno para negar provimento ao recurso extraordinário interposto pela Fazenda Pública” (ARE n. 1.382.457-AgR/SP, Redator para o acórdão o Ministro Luís Roberto Barroso, Primeira Turma, DJe 29.8.2022).
+
+    “AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. REVOGAÇÃO DE BENEFÍCIO FISCAL POR DECRETO ESTADUAL. MAJORAÇÃO INDIRETA DE CARGA TRIBUTÁRIA. OBEDIÊNCIA AOS PRINCÍPIOS DA ANTERIORIDADE GERAL E NONAGESIMAL. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM ENTENDIMENTO FIRMADO PELO PLENÁRIO DO SUPREMO NO JULGAMENTO DA ADI 2.325 MC. AUSÊNCIA DE VIOLAÇÃO À CLÁUSULA DE RESERVA DE PLENÁRIO. ÓTICA CONSOLIDADA NO TEMA N. 856 DA REPERCUSSÃO GERAL. 1. O acórdão recorrido está em conformidade com o julgamento da ADI 2.325 MC, ministro Marco Aurélio, oportunidade em que o Plenário do Supremo assentou o dever de obediência aos princípios da anterioridade geral e da noventena nas hipóteses em que a revogação de benefício fiscal acarrete aumento indireto de tributo. 2. Não há falar em ofensa à cláusula de reserva de Plenário, uma vez que o Tribunal local apenas decidiu – com arrimo na jurisprudência desta Corte – pela observância do decreto estadual impugnado aos princípios da anterioridade geral e nonagesimal (entendimento consolidado no ARE 914.045, ministro Edson Fachin, Tema n. 856/RG). 3. Agravo interno desprovido” (ARE n. 1.339.119-AgR/SP, Relator o Ministro Nunes Marques, Segunda Turma, DJe 22.9.2022).
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. ICMS. CRÉDITO. BENEFÍCIO FISCAL. ALTERAÇÃO OU REVOGAÇÃO. MAJORAÇÃO INDIRETA DE TRIBUTO. SUJEIÇÃO AO PRINCÍPIO DA ANTERIORIDADE TRIBUTÁRIA. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MANDADO DE SEGURANÇA. INAPLICABILIDADE DO ARTIGO 85, § 11, DO CPC/2015. AGRAVO INTERNO DESPROVIDO” (ARE n. 1.076.550 AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 13.2.2020).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. ICMS. SUBSTITUIÇÃO TRIBUTÁRIA. MARGEM DE VALOR AGREGADO. DECRETO ESTADUAL Nº 45.258/2015. OBSERVÂNCIA DO PRINCÍPIO DA ANTERIORIDADE TRIBUTÁRIA. 1. Nos termos da jurisprudência da Corte sobre o tema, toda modificação legislativa que, de maneira direta ou indireta, implicar carga tributária maior, há de ter eficácia no ano subsequente àquele no qual veio a ser feita. 2. In casu, os novos percentuais referentes à margem de valor agregado que integra a base de cálculo do ICMS, instituídos pelo Decreto nº 45.258/2015, por acarretarem majoração da carga tributária, devem surtir efeitos apenas no exercício financeiro seguinte à sua publicação. 3. Agravo regimental a que se nega provimento, com fixação de multa, nos termos do art. 1.021, § 4º, do CPC” (ARE n. 1.281.713-AgR-segundo, Relator o Ministro Edson Fachin, Segunda Turma, DJe 23.3.2021).
+
+    Na mesma linha são, por exemplo, as seguintes decisões: RE n. 1.426.308/SP, Relator o Ministro Alexandre de Moraes, DJe 1º.8.2023; ARE n. 1.435.945/SP, de minha relatoria, DJe 23.5.2023; RE n. 1.388.939/SP, Relator o Ministro André Mendonça, DJe 10.4.2023; ARE n. 1.384.851/SP, Relator o Ministro Edson Fachin, DJe 24.6.2022; e ARE n. 1.431.580/SP, Relator o Ministro Dias Toffoli, DJe 2.5.2023.
+
+    Na espécie vertente, pelo Decreto estadual n. 65.254/2020, ao ser revogado o art. 14 do Anexo I do Regulamento do Imposto sobre Circulação de Mercadorias e Serviços – ICMS, norma que previa isenção/benefícios fiscais de ICMS em operações com equipamentos e insumos hospitalares, promoveu-se a majoração indireta de tributo, devendo ser observados os princípios da anterioridade, geral e nonagesimal, constantes das als. b e c, do inc. III do art. 150 da Constituição da República.
+
+    O entendimento adotado no acórdão recorrido, portanto, harmoniza-se com a jurisprudência firmada neste Supremo Tribunal.
+
+    5. Ademais, como apontado no juízo de admissibilidade recursal, para reexaminar o entendimento adotado pelo Tribunal de origem, seria necessária a análise da matéria fático-probatória e da legislação infraconstitucional aplicável ao processo. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incidem, na espécie, as Súmulas ns. 279 e 280 do Supremo Tribunal Federal. Assim, por exemplo:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – ICMS. REVOGAÇÃO DE BENEFÍCIO FISCAL. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL DESPROVIDO COM APLICAÇÃO DE MULTA DE 1% SOBRE O VALOR ATUALIZADO DA CAUSA, SE UNÂNIME A VOTAÇÃO” (ARE n. 1.377.749-AgR-segundo, de minha relatoria, Primeira Turma, DJe 23.8.2022).
+
+    “DIREITO TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS (ICMS). REVOGAÇÃO DE BENEFÍCIO FISCAL. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. ALEGAÇÃO DE OFENSA AOS ARTS. 150, I, E 155, § 2º, XII, G , DA CONSTITUIÇÃO DA REPÚBLICA. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA Nº 280/STF. 1. Obstada a análise da suposta afronta aos preceitos constitucionais invocados, porquanto dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, procedimento que foge à competência jurisdicional extraordinária desta Corte Suprema, nos termos do art. 102 da Magna Carta. 2. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, principalmente no que se refere à ausência de ofensa a preceito da Constituição da República. 3. Agravo interno conhecido e não provido” (ARE n. 1.259.595-ED-AGR/MG, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 8.3.2021).
+
+    “Agravo regimental no recurso extraordinário com agravo. Direito Tributário. ICMS. Revogação de benefício. Princípios da legalidade tributária e da seletividade. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se presta o recurso extraordinário para a análise da legislação infraconstitucional, tampouco para o reexame de fatos e provas dos autos. Incidência das Súmulas nºs 279 e 636/STF. 2. Agravo regimental não provido. 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE n. 1.168.619-AgR, Relator o Ministro Dias Toffoli, Plenário, DJe 25.2.2019).
+
+    Nada há a prover quanto às alegações do agravante.
+
+    6. Pelo exposto, nego provimento a este recurso extraordinário com agravo (als. a e b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal) e condeno a parte sucumbente, nesta instância recursal, ao pagamento de honorários advocatícios majorados em 10%, percentual que se soma ao fixado na origem, obedecidos os limites dos §§ 2º, 3º e 11 do art. 85 do Código de Processo Civil.
+
+    Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 9 de abril de 2024.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
