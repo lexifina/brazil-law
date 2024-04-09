@@ -1,0 +1,870 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 19
+
+09/04/2024
+
+PRIMEIRA TURMA
+
+AG.REG. NO HABEAS CORPUS 238.566 S ANTA CATARINA
+RELATORA
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. CÁRMEN LÚCIA
+: GABRIEL OTERO MENEZES
+: OSVALDO JOSÉ DUNCKE E OUTRO(A/S)
+: RELATOR DO HC Nº 882.169 DO SUPERIOR TRIBUNAL
+DE J USTIÇA
+
+EMENTA: AGRAVO REGIMENTAL NO HABEAS CORPUS.
+PROCESSUAL PENAL. TRIPLO HOMICÍDIO QUALIFICADO E
+ORGANIZAÇÃO CRIMINOSA ARMADA. PRISÃO PREVENTIVA.
+IMPETRAÇÃO
+CONTRA
+DECISÃO
+MONOCRÁTICA:
+IMPOSSIBILIDADE.
+INEXISTÊNCIA
+DE
+TERATOLOGIA.
+FUNDAMENTAÇÃO IDÔNEA DA CUSTÓDIA CAUTELAR. AUSÊNCIA
+DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA:
+INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros do
+Supremo Tribunal Federal, em Sessão da Primeira Turma, na
+conformidade da ata de julgamento, por unanimidade, negar provimento
+ao agravo regimental, nos termos do voto da Relatora. Sessão Virtual de
+29.3.2024 a 8.4.2024.
+Brasília, 9 de abril de 2024.
+Ministra CÁRMEN LÚCIA
+Relatora
+
+Documento assinado eletronicamente pelo(a) Min. Cármen Lúcia, conforme o Art. 205, § 2º, do CPC. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3A6E-995A-2615-DEE5 e senha 2E35-E744-92AA-5F49
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 2 de 19
+
+09/04/2024
+
+PRIMEIRA TURMA
+
+AG.REG. NO HABEAS CORPUS 238.566 S ANTA CATARINA
+RELATORA
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. CÁRMEN LÚCIA
+: GABRIEL OTERO MENEZES
+: OSVALDO JOSÉ DUNCKE E OUTRO(A/S)
+: RELATOR DO HC Nº 882.169 DO SUPERIOR TRIBUNAL
+DE J USTIÇA
+
+RELATÓRIO
+A SENHORA MINISTRA CÁRMEN LÚCIA (Relatora):
+1. Em 11.3.2024, negou-se seguimento ao habeas corpus, com
+requerimento de medida liminar, impetrado, em 7.3.2024, por Osvaldo
+José Duncke e outro, advogados, em benefício de Gabriel Otero Menezes,
+contra decisão do Desembargador Jesuíno Rissato, convocado no
+Superior Tribunal de Justiça, pela qual, em 28.2.2024, denegado o Habeas
+Corpus n. 882.169/SC. Tem-se na ementa:
+“HABEAS CORPUS. PROCESSUAL PENAL. TRIPLO
+HOMICÍDIO QUALIFICADO E ORGANIZAÇÃO CRIMINOSA
+ARMADA. PRISÃO PREVENTIVA. IMPETRAÇÃO CONTRA
+DECISÃO MONOCRÁTICA: IMPOSSIBILIDADE. AUSÊNCIA
+DE COMPROVAÇÃO DE TERATOLOGIA. FUNDAMENTAÇÃO
+IDÔNEA DA CUSTÓDIA CAUTELAR. HABEAS CORPUS AO
+QUAL SE NEGA SEGUIMENTO” (doc. 19).
+
+2. A decisão foi publicada em 13.3.2024, tendo a defesa interposto,
+tempestivamente, em 14.3.2024, o presente agravo regimental.
+Na peça inicial de agravo, o agravante, sem infirmar os fundamentos
+da decisão agravada, reitera as razões apresentadas na inicial desta
+impetração, buscando a revogação da prisão preventiva do paciente.
+
+Documento assinado eletronicamente pelo(a) Min. Cármen Lúcia, conforme o Art. 205, § 2º, do CPC. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 648D-65C6-F1E2-EA5C e senha 1303-CB41-1A7E-402E
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 19
+
+HC 238566 AGR / SC
+Pede:
+“(...) a) seja recebido e processado o presente Agravo
+Regimental, e, ao final, b) seja dado seguimento ao writ, reconhecendo
+o preenchimento dos requisitos para sua admissibilidade e, por
+conseguinte, c) sejam acolhidos os pleitos expostos, a fim de
+conceder-se a ordem determinando a revogação da prisão preventiva
+imposta ao Agravante, com ou sem fixação de medidas cautelares
+diversas da prisão, o que pode, inclusive, ser reconhecido de ofício por
+esse c. Tribunal” (doc. 7).
+
+É o relatório.
+
+2
+Documento assinado eletronicamente pelo(a) Min. Cármen Lúcia, conforme o Art. 205, § 2º, do CPC. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 648D-65C6-F1E2-EA5C e senha 1303-CB41-1A7E-402E
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 4 de 19
+
+09/04/2024
+
+PRIMEIRA TURMA
+
+AG.REG. NO HABEAS CORPUS 238.566 S ANTA CATARINA
+VOTO
+A SENHORA MINISTRA CÁRMEN LÚCIA (Relatora):
+1. Razão jurídica não assiste ao agravante.
+2. O paciente foi preso preventivamente em outubro de 2023, pela
+participação em triplo homicídio duplamente qualificado e por integrar
+organização criminosa (incs. I e IV do § 2º do art. 121 do Código Penal e
+§ 2º do art. 2º da Lei n. 12.850/2013). Consta dos autos que “a motivação,
+segundo a denúncia é de que as vítimas teriam se desvinculado da facção PGC e
+passaram a atuar fortemente na facção paulista, Primeiro Comando da Capital,
+PCC, inclusive realizando incursões na Grande Florianópolis executando e/ou
+tentando executar os antigos aliados do PGC” (doc. 3).
+3. Impugnando a manutenção da custódia cautelar, a defesa
+impetrou o Habeas Corpus n. 5073692-98.2023.8.24.0000/SC no Tribunal de
+Justiça de Santa Catarina, denegado, em acórdão com a ementa seguinte:
+“HABEAS CORPUS. PACIENTE DENUNCIADO PELA
+PRÁTICA DOS CRIMES DE HOMICÍDIO DUPLAMENTE
+QUALIFICADO E INTEGRAÇÃO DE ORGANIZAÇÃO
+CRIMINOSA (ART. 121, § 2º, I E IV, DO CÓDIGO PENAL, E
+ART. 2º, § 2º, DA LEI N. 12.850/13). APONTADA
+INSUFICIÊNCIA DE ELEMENTOS INDICIÁRIOS DE
+AUTORIA.
+NÃO
+CONHECIMENTO
+NO
+PONTO.
+INVIABILIDADE DE INCURSÃO APROFUNDADA NO
+MÉRITO. DE TODO MODO, INDÍCIOS DE AUTORIA
+DEVIDAMENTE APONTADOS. INSURGÊNCIA CONTRA
+DECISÃO QUE DECRETOU A PRISÃO PREVENTIVA.
+ADUZIDA AUSÊNCIA DOS REQUISITOS AUTORIZADORES
+DA PRISÃO PREVENTIVA. INSUBSISTÊNCIA. NECESSIDADE
+DA SEGREGAÇÃO PARA GARANTIA DA ORDEM PÚBLICA,
+Documento assinado eletronicamente pelo(a) Min. Cármen Lúcia, conforme o Art. 205, § 2º, do CPC. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6495-D247-AE9B-8189 e senha EDE8-1C57-7AA6-C0FD
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 5 de 19
+
+HC 238566 AGR / SC
+CONSIDERADA A GRAVIDADE DA CONDUTA E A
+PERICULOSIDADE DO PACIENTE, DEMONSTRADA PELO
+SEU MODUS OPERANDI. NO MAIS, CONSTRIÇÃO
+CORPORAL IMPRESCINDÍVEL PARA ASSEGURAR A
+APLICAÇÃO DA LEI PENAL. EVIDENTE RISCO DE FUGA.
+PRESENÇA DOS REQUISITOS DO ART. 312 DO CÓDIGO DE
+PROCESSO PENAL. CONSTRANGIMENTO ILEGAL NÃO
+VERIFICADO. MEDIDAS CAUTELARES DIVERSAS DA
+PRISÃO QUE NÃO SE MOSTRAM ADEQUADAS AO CASO.
+PRESENÇA
+DE
+CONTEMPORANEIDADE.
+AÇÃO
+MANDAMENTAL PARCIALMENTE CONHECIDA. ORDEM
+DENEGADA. Logo, a necessidade de se resguardar a ordem pública
+exsurge do provável envolvimento do paciente nos fatos apurados,
+demonstrado a partir das diligências efetuadas na fase investigativa,
+considerando a gravidade da conduta e a periculosidade do agente,
+consubstanciada no modus operandi adotado na prática da ação
+criminosa, mormente porque, em concurso com ao menos outros
+quatro denunciados, atentaram contra a vida e a integridade física de
+três vítimas, inclusive uma menor de idade, alvejando-as brutalmente,
+mediante emboscada e com emprego de pesado arsenal bélico (fuzil,
+glock .45 e outras pistolas), em razão de um ‘acerto de contas’
+envolvendo rivalidade entre as notórias facções PCC e PGC”
+(fls. 233-238, doc. 2).
+
+4. Contra esse julgado impetrou-se o Habeas Corpus n. 882.169/SC no
+Superior Tribunal de Justiça, tendo o Relator, Desembargador convocado
+Jesuíno Rissato, em 28.2.2024, denegado a ordem, nos termos seguintes:
+“(...)
+A decisão que decretou a prisão preventiva do paciente teve a
+seguinte fundamentação (fls. 164/167):
+‘No caso em apreço, o delito de triplo homicídio
+duplamente qualificado, doloso e consumado imputado aos
+investigados são dolosos e possuem pena máxima superior a 4
+(quatro) anos. Ademais, a prova da materialidade e os indícios
+suficientes de autoria do crime encontram-se evidenciados nos
+documentos que acompanharam a representação, em especial nos
+
+2
+Documento assinado eletronicamente pelo(a) Min. Cármen Lúcia, conforme o Art. 205, § 2º, do CPC. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6495-D247-AE9B-8189 e senha EDE8-1C57-7AA6-C0FD
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 6 de 19
+
+HC 238566 AGR / SC
+boletins de ocorrência (Evento 226, INQ15, ps. 4-22, 38), termo
+de apreensão (Evento 226, INQ15, ps. 23, 40, 41),
+relatório
+final
+de
+investigação
+policial
+(Evento
+226,REL_MISSAO_POLIC16), laudos periciais e cadavéricos
+(Evento 226, LAUDO17- 27).
+Em suma, os elementos trazidos aos autos são os mesmos
+daqueles existentes à época da decretação da prisão temporária
+dos investigados e, por isso, por brevidade e para evitar
+tautologia, se reporta à decisão do evento 85 no que se refere aos
+indícios de autoria existentes em relação a cada um dos
+suspeitos: [...]
+A motivação, segundo a denúncia é de que as vítimas
+teriam se desvinculado da facção PGC e passaram a atuar
+fortemente na facção paulista, Primeiro Comando da Capital,
+PCC, inclusive realizando incursões na Grande Florianópolis
+executando e/ou tentando executar os antigos aliados do PGC,
+como por exemplo, o próprio ‘GATO PRETO’ e o
+‘COREANO/JAPA’, o que levou THIAGO a executar as
+vítimas, conforme já dito anteriormente (evento 77,
+REPRESENTACAO_BUSCA2).
+c) Gabriel Otero Menezes seria o motorista do veículo
+Fiat/Mobi utilizado pelos assassinos no dia dos fatos. Chegou-se
+ao nome de Gabriel através das quebras de sigilo e interceptações
+realizadas nos autos, as quais indicam que o aparelho celular
+utilizado para contratação de colocação de película no referido
+veículo, era de propriedade de Gabriel — (48) 991908222
+(Whatsapp), IMEI n. 353973105764691. Além disso, também
+pelas interceptações telefônicas chegou-se a informação de que
+Gabriel estaria escondido porque teria, em tese, participado de
+um delito. Tais informações podem ser extraídas do relatório
+investigativo constante no evento 77, REL_MISSAO_POLIC1.
+[...]
+Por isso, conclui-se haver fundadas razões do
+envolvimento dos investigados nos delitos em apuração.
+Diga-se que, conforme bem observado pelo Ministério
+Público, ‘Presos os representados Gabriel e Ricardo (evento
+
+3
+Documento assinado eletronicamente pelo(a) Min. Cármen Lúcia, conforme o Art. 205, § 2º, do CPC. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6495-D247-AE9B-8189 e senha EDE8-1C57-7AA6-C0FD
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 7 de 19
+
+HC 238566 AGR / SC
+170), as últimas diligências e correlações, com atenção aos
+relatórios de investigação REL_MISSÃO_POLIC16 e ao
+REL_CINAL_IPL28 (evento 226), confirmaram provas
+suficientes de autoria, inclusive de que os crimes foram
+executados sob o manto da facção PGC em face de
+desentendimento interno’ (ev. 231). Tanto assim que, no mesmo
+parecer, já foi informado sobre a confecção da peça de denúncia
+referente a tais fatos, diante da conclusão das investigações e da
+suficiência dos elementos probatórios colhidos.
+A seu turno, a prisão dos investigados se mostra
+necessária para garantia da ordem pública e para assegurar a
+aplicação da lei penal.
+Garantia da ordem pública em razão da evidente
+periculosidade dos suspeitos que em um aparente ‘acerto de
+contas’, mediante emboscada e com o emprego de armas de fogo,
+executaram três masculinos.
+Além disso, as circunstâncias que circundam os
+assassinatos das vítimas, conforme relatado pela Autoridade
+Policial, está diretamente relacionada à organização criminosa
+denominada PGC, da qual o suspeito Thiago seria uma das
+principais lideranças e, neste prisma, a manutenção dos
+suspeitos em liberdade certamente implicaria no risco de
+reiteração delitiva. [...]
+A seu turno, a manutenção dos investigados em liberdade
+possivelmente resultaria em prejuízo à aplicação da lei penal,
+tanto é que, mesmo com a decretação da prisão temporária dos 4
+suspeitos, um deles ainda permanece foragido — Paulo — e,
+ainda, em relação a Gabriel, há relatos da autoridade policial,
+amparados nas quebras de sigilo telefônicas, de que estava se
+escondendo em razão justamente da prática de delitos.
+Dessa forma, vejo como inaplicável neste momento
+quaisquer das medidas cautelares diversas da prisão, porquanto
+insuficientes para resguardar a ordem pública e a aplicação da
+Lei Penal, sendo oportuno memorar que eventuais predicados
+pessoais, como a primariedade, ocupação lítica e residência fixa,
+são insuficientes para afastar a necessidade da prisão quando
+
+4
+Documento assinado eletronicamente pelo(a) Min. Cármen Lúcia, conforme o Art. 205, § 2º, do CPC. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6495-D247-AE9B-8189 e senha EDE8-1C57-7AA6-C0FD
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 8 de 19
+
+HC 238566 AGR / SC
+presentes os requisitos autorizadores’.
+In casu, verifica-se a presença de fundamentos concretos para a
+denegação da ordem e manutenção da prisão cautelar, a bem da ordem
+pública, diante da gravidade concreta da conduta imputada a
+GABRIEL OTERO MENEZES, pois foi apontada a existência de
+fortes indícios do envolvimento do acusado em crime gravíssimo, um
+triplo homicídio duplamente qualificado, o qual estaria relacionado a
+desavenças entre as facções criminosas. Mencionou-se, ainda, que, ‘em
+relação a Gabriel, há relatos da autoridade policial, amparados nas
+quebras de sigilo telefônicas, de que estava se escondendo em razão
+justamente da prática de delitos’, dados esses que evidenciam o perigo
+da sua liberdade e, por isso mesmo, justificam a imposição da medida
+extrema.
+A constrição cautelar impõe-se pela gravidade concreta da
+prática criminosa, causadora de grande intranquilidade social,
+revelada no modus operandi do delito e diante da acentuada
+periculosidade do acusado, evidenciada na propensão à prática delitiva
+e conduta violenta. Confira-se: AgRg no RHC n. 174.050/RJ, relator
+Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em
+6/3/2023, DJe de 10/3/2023; AgRg no RHC n. 167.491/SP, relator
+Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT),
+Sexta Turma, julgado em 28/2/2023, DJe de 3/3/2023; AgRg no HC
+n. 770.197/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma,
+julgado em 19/12/2022, DJe de 21/12/2022; RHC 140.629/AL, Rel.
+Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe
+04/02/2021.
+Ademais, havendo a indicação de fundamentos concretos para
+justificar a custódia cautelar, não se revela cabível a aplicação de
+medidas cautelares alternativas à prisão, visto que insuficientes para
+resguardar a ordem pública. A esse respeito: AgRg no HC
+n. 801.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta
+Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no HC
+n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta
+Turma, julgado em 6/3/2023, DJe de 9/3/2023; AgRg no HC
+n. 785.639/PR, relator Ministro Jesuíno Rissato (Desembargador
+Convocado do TJDFT), Sexta Turma, julgado em 6/3/2023, DJe de
+
+5
+Documento assinado eletronicamente pelo(a) Min. Cármen Lúcia, conforme o Art. 205, § 2º, do CPC. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6495-D247-AE9B-8189 e senha EDE8-1C57-7AA6-C0FD
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 9 de 19
+
+HC 238566 AGR / SC
+10/3/2023; AgRg no RHC n. 172.667/SC, relator Ministro Joel Ilan
+Paciornik, Quinta Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+Ante o exposto, denego a ordem de habeas corpus” (doc. 7).
+
+5. Nesta impetração, insiste a defesa no alegado constrangimento
+ilegal decorrente da decretação da prisão preventiva, afirmando não
+preenchidos os pressupostos legais, pela ausência de indícios de autoria e
+carência de fundamentação.
+6. Na decisão agravada anotou-se ser o pedido apresentado pelos
+impetrantes manifestamente contrário à jurisprudência do Supremo
+Tribunal Federal.
+7. Indicou-se como ato coator decisão monocrática do
+Desembargador convocado Jesuíno Rissato, do Superior Tribunal de
+Justiça, pela qual, em 28.2.2024, denegado a ordem no Habeas Corpus
+n. 882.169/SC.
+Pela jurisprudência deste Supremo Tribunal, “a ausência da análise da
+decisão monocrática pelo Colegiado impede o conhecimento do habeas corpus
+por esta Corte” (HC n. 143.436-AgR, Relator o Ministro Ricardo
+Lewandowski, Segunda Turma, DJe 11.10.2018). Confira-se também o
+seguinte julgado:
+“AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL.
+HOMICÍDIO
+QUALIFICADO.
+DESCABIMENTO
+DE
+IMPETRAÇÃO
+CONTRA
+DECISÃO
+MONOCRÁTICA.
+INEXISTÊNCIA
+DE
+NULIDADE.
+PREJUÍZO
+NÃO
+DEMONSTRADO.
+PEDIDO
+MANIFESTAMENTE
+IMPROCEDENTE E CONTRÁRIO À JURISPRUDÊNCIA DO
+SUPREMO TRIBUNAL FEDERAL. INEXISTÊNCIA DE
+CONTRARIEDADE AO PRINCÍPIO DA COLEGIALIDADE.
+AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+1. O habeas corpus impetrado neste Supremo Tribunal se volta
+contra decisão monocrática do Ministro Felix Fischer, do Superior
+Tribunal de Justiça, no Habeas Corpus n. 472.658. Nos termos da
+
+6
+Documento assinado eletronicamente pelo(a) Min. Cármen Lúcia, conforme o Art. 205, § 2º, do CPC. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6495-D247-AE9B-8189 e senha EDE8-1C57-7AA6-C0FD
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 10 de 19
+
+HC 238566 AGR / SC
+jurisprudência deste Supremo Tribunal, a não interposição de agravo
+regimental no STJ e, portanto, a ausência da análise da decisão
+monocrática pelo colegiado impede o conhecimento do habeas corpus
+por est[e Supremo Tribunal] (HC n. 120.259-AgR, Relator o Ministro
+Ricardo Lewandowski, DJe 12.2.2014). 2. Inexistência de nulidade.
+Agravante acompanhado pela sua Defesa, na pessoa do Dr. Vinícius
+Coutinho de Oliveira (fl. 2, vol. 3), na sessão de julgamento pelo
+Tribunal do Júri realizada na origem, tendo reiterado o mandato
+conferido ao defensor na interposição da apelação (doc. 15). Não
+demonstração do efetivo prejuízo ao exercício do direito de defesa do
+agravante, sem o que não se decreta nulidade no processo penal, em
+atenção ao princípio do pas de nullité sans grief, corolário da
+natureza instrumental do processo. 3. Agravo regimental ao qual se
+nega provimento” (HC n. 164.535-AgR, de minha relatoria,
+Segunda Turma, DJe 20.4.2020).
+
+8. Sem adentrar o mérito da causa, mas apenas para afastar eventual
+alegação de possibilidade de concessão da ordem de ofício,
+demonstrou-se não se comprovarem, na espécie, teratologia ou
+constrangimento ilegal.
+9. O paciente foi preso preventivamente por participação em
+organização criminosa armada e em triplo homicídio qualificado (sendo
+uma das vítimas um menor de idade) “relacionados a desavenças entre as
+facções criminosas Primeiro Grupo Catarinense (PGC) e Primeiro Comando da
+Capital (PCC), já que a vítima Vítor Fabrício Rodrigues teria deixado o PGC e
+passado a atuar fortemente pelo PCC (facção rival à dos denunciados)”.
+Segundo a denúncia:
+“No dia 11 de junho de 2021, por volta de 00h30min, na Rua
+das Orquídeas, em frente à residência n. 646, esquina com a Rua
+Itacorubi, nas imediações do número 69 , no bairro Bela Vista, em São
+José/SC, os denunciados Alex Pereira, Gabriel Otero Menezes, Paulo
+Sérgio Barbosa de Brito, Ricardo Padilha e Thiago Veiga Vaz,
+mediante prévio ajuste, mataram as vítimas Anselmo Lopes de Liz
+Júnior (18 anos), Rodrigo da Silva Júnior (16 anos) e Vítor Fabrício
+
+7
+Documento assinado eletronicamente pelo(a) Min. Cármen Lúcia, conforme o Art. 205, § 2º, do CPC. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6495-D247-AE9B-8189 e senha EDE8-1C57-7AA6-C0FD
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 11 de 19
+
+HC 238566 AGR / SC
+Rodrigues (20 anos), executando-as com diversos disparos de armas
+de fogo (rajadas de fuzil, glock .45 semiautomática e outras,
+provocando-lhes politraumatismo, traumatismo cranioencefálico e
+torácico, causas eficientes de suas mortes, todas decorrentes dos
+disparos que os atingiram, consoante atestado nos Laudos
+Periciais Cadavéricos n. 2021.21.2872.21.003-16 (vítima Rodrigo
+n.
+2021.21.02872.21.004-88
+(vítima
+Anselmo)
+e
+n. 2021.21.2872.21.001-72 (vítima Vítor)” (fl. 40, doc. 2).
+
+10. Como demonstrado pelas instâncias antecedentes, a custódia
+preventiva foi decretada pelo juízo processante e mantida pelo Tribunal
+estadual para garantir a ordem pública e assegurar a aplicação da lei
+penal, considerando-se a gravidade concreta do delito, evidenciada pelo
+modus operandi dos acusados, além da tentativa do paciente de
+esconder-se após a prática do crime.
+Apontaram-se
+indícios
+concretos
+da
+autoria
+delitiva,
+mencionando-se provas obtidas na investigação, inclusive interceptações
+telefônicas (“também encontra respaldo nos autos, prova da existência dos
+delitos e indícios de que os investigados tenham concorrido para as suas
+consumações, conforme se vê do boletim de ocorrência (evento 1, BOC3), auto e
+relatório circunstanciado de interceptação telefônica (evento 24, AUTO1 e
+OFIC2), relatório preliminar de investigação policial (evento 25, INF2), relatório
+complementar (evento 25, INF3) e relatório final e auto circunstanciado de
+interceptação telefônica (evento 77, REL_MISSAO_POLIC1)” (fl. 170-172,
+doc. 2).
+A custódia cautelar do paciente harmoniza-se com a jurisprudência
+deste Supremo Tribunal, revelando motivos idôneos para a providência
+adotada. Assim, por exemplo:
+“AGRAVO REGIMENTAL EM HABEAS CORPUS.
+PROCESSUAL
+PENAL.
+HOMICÍDIO
+DUPLAMENTE
+QUALIFICADO.
+PRISÃO
+PREVENTIVA:
+GRAVIDADE
+
+8
+Documento assinado eletronicamente pelo(a) Min. Cármen Lúcia, conforme o Art. 205, § 2º, do CPC. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6495-D247-AE9B-8189 e senha EDE8-1C57-7AA6-C0FD
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 12 de 19
+
+HC 238566 AGR / SC
+CONCRETA DO DELITO, EVIDENCIADA PELO MODUS
+OPERANDI.
+RISCO
+DE
+REITERAÇÃO
+DELITIVA.
+FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. AGRAVO
+REGIMENTAL DESPROVIDO” (HC n. 220.744-AgR, Primeira
+Turma, de minha relatoria, DJe 14.11.2022).
+“AGRAVO REGIMENTAL EM HABEAS CORPUS. PENAL.
+HOMICÍDIO QUALIFICADO CONSUMADO E TENTADO.
+PRISÃO PREVENTIVA. MODUS OPERANDI E FUGA DO
+DISTRITO DA CULPA. FUNDAMENTAÇÃO IDÔNEA.
+AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”
+(HC n. 202.445-AgR, Segunda Turma, de minha relatoria, DJe
+30.6.2021).
+“Direito processual penal. Agravo regimental em habeas
+corpus. Processual penal. Homicídio qualificado. Prisão preventiva.
+Reiteração de pedido anterior. Instrução deficiente. Fuga do distrito da
+culpa. Tese de negativa de autoria. Fatos e provas. Jurisprudência do
+Supremo Tribunal Federal (STF). (...) 3. Hipótese de paciente,
+foragido ‘há longos anos’, acusado da suposta prática do crime de
+homicídio qualificado. O caso atrai o entendimento do STF no sentido
+de que a ‘condição de foragido do distrito da culpa reforça a
+necessidade da custódia para se garantir a aplicação da lei penal’
+(RHC 118.011, Rel. Min. Dias Toffoli). (...). 5. Agravo regimental a
+que se nega provimento” (HC n. 214.970-AgR, Primeira Turma,
+Relator o Ministro Roberto Barroso, DJe 30.6.2022).
+"AGRAVO REGIMENTAL EM HABEAS CORPUS.
+HOMICÍDIO QUALIFICADO, POR DUAS VEZES. PRISÃO
+PREVENTIVA.
+MOTIVAÇÃO
+ADEQUADA.
+MEDIDAS
+CAUTELARES DIVERSAS. INAPLICABILIDADE. 1. Nos termos
+da jurisprudência de ambas as Turmas desta CORTE, o destacado
+modo de execução e a gravidade concreta do delito constituem
+fundamentos idôneos à determinação da custódia cautelar para
+resguardar a ordem pública. 2. Além da gravidade dos crimes de
+homicídio qualificado retratados nestes autos, a indicada situação de
+
+9
+Documento assinado eletronicamente pelo(a) Min. Cármen Lúcia, conforme o Art. 205, § 2º, do CPC. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6495-D247-AE9B-8189 e senha EDE8-1C57-7AA6-C0FD
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 13 de 19
+
+HC 238566 AGR / SC
+fuga reforça a legitimidade da imposição da prisão preventiva não só
+para garantia da ordem pública, mas também para assegurar a
+aplicação da lei penal. 3. Agravo regimental a que se nega
+provimento" (HC n. 210.039-AgR/SP, Relator o Ministro
+Alexandre de Moraes, Primeira Turma, DJe 7.3.2022).
+“AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO
+EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO
+PREVENTIVA.
+GARANTIA
+DA
+ORDEM
+PÚBLICA.
+FUNDAMENTAÇÃO IDÔNEA. 1. Prisão preventiva decretada forte
+na garantia da ordem pública, presentes as circunstâncias concretas
+reveladas nos autos. Precedentes. 2. Agravo regimental conhecido e
+não provido” (RHC n. 147.580-AgR, Relatora a Ministra Rosa
+Weber, DJe 15.12.2017).
+“Habeas corpus. Constitucional. Processual penal. Homicídio
+triplamente qualificado. Ausência de fundamentação do decreto de
+prisão preventiva. Inocorrência. Fundamentação idônea. Gravidade
+concreta demonstrada pelo modus operandi da conduta delituosa.
+Periculosidade da paciente. Cautelaridade
+suficientemente
+demonstrada. Precedentes. 1. A análise do decreto de prisão preventiva
+autoriza o reconhecimento de que existem fundamentos concretos e
+suficientes para justificar a privação processual da liberdade da
+paciente, nos termos do art. 312 do Código de Processo Penal. 2. É da
+jurisprudência da Corte o entendimento segundo o qual, ‘quando da
+maneira de execução do delito sobressair a extrema periculosidade do
+agente, abre-se ao decreto de prisão a possibilidade de estabelecer um
+vínculo funcional entre o modus operandi do suposto crime e a
+garantia da ordem pública’ (HC nº 97.688/MG, Primeira Turma,
+Relator o Ministro Ayres Britto, DJe de 27/11/09). 3. Habeas corpus
+denegado” (HC n. 106.462, Relator o Ministro Dias Toffoli,
+Primeira Turma, DJe 8.4.2011).
+
+11. Nos termos da jurisprudência consolidada neste Supremo
+Tribunal, “a necessidade de se interromper ou diminuir a atuação de integrantes
+de organização criminosa enquadra-se no conceito de garantia da ordem pública,
+10
+Documento assinado eletronicamente pelo(a) Min. Cármen Lúcia, conforme o Art. 205, § 2º, do CPC. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6495-D247-AE9B-8189 e senha EDE8-1C57-7AA6-C0FD
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 14 de 19
+
+HC 238566 AGR / SC
+constituindo fundamentação cautelar idônea e suficiente para a prisão
+preventiva" (HC n. 95.024/SP, de minha relatoria, Primeira Turma, DJe
+20.2.2009). Nesse mesmo sentido, entre outros:
+“HABEAS
+CORPUS
+–
+ATO
+INDIVIDUAL
+–
+ADEQUAÇÃO. O habeas corpus é adequado em se tratando de
+impugnação a ato de colegiado ou individual. PRISÃO PREVENTIVA
+– ORGANIZAÇÃO CRIMINOSA. Decorrendo a custódia da prática
+do crime de integração a organização criminosa, relacionada ao
+cometimento do tráfico de drogas, ameaças, homicídios e roubos, a teor
+de interceptações telefônicas, tem-se dados a sinalizarem a
+periculosidade do envolvido, sendo viável a prisão preventiva.
+PRISÃO PREVENTIVA – ORGANIZAÇÃO CRIMINOSA –
+ATIVIDADE – INTERRUPÇÃO. A necessidade de interromper ou
+diminuir a atuação de organização criminosa constitui fundamento a
+viabilizar a prisão preventiva HABEAS CORPUS – ATO
+INDIVIDUAL – ADEQUAÇÃO. O habeas corpus é adequado em
+se tratando de impugnação a ato de colegiado ou individual. PRISÃO
+PREVENTIVA – ORGANIZAÇÃO CRIMINOSA. Decorrendo a
+custódia da prática do crime de integração a organização criminosa,
+relacionada ao cometimento do tráfico de drogas, ameaças, homicídios
+e roubos, a teor de interceptações telefônicas, tem-se dados a
+sinalizarem a periculosidade do envolvido, sendo viável a prisão
+preventiva.
+PRISÃO
+PREVENTIVA –
+ORGANIZAÇÃO
+CRIMINOSA – ATIVIDADE – INTERRUPÇÃO. A necessidade de
+interromper ou diminuir a atuação de organização criminosa constitui
+fundamento a viabilizar a prisão preventiva” (RHC n. 180.625,
+Relator o Ministro Marco Aurélio, Primeira Turma, DJe
+26.6.2020).
+“PROCESSUAL PENAL E CONSTITUCIONAL. HABEAS
+CORPUS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM
+PÚBLICA. PERICULOSIDADE EVIDENCIADA PELO MODUS
+OPERANDI. PACIENTE MEMBRO DE ORGANIZAÇÃO
+CRIMINOSA.
+CONSTRANGIMENTO
+ILEGAL.
+INOCORRÊNCIA. ORDEM INDEFERIDA. 1. A prisão preventiva
+
+11
+Documento assinado eletronicamente pelo(a) Min. Cármen Lúcia, conforme o Art. 205, § 2º, do CPC. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6495-D247-AE9B-8189 e senha EDE8-1C57-7AA6-C0FD
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 15 de 19
+
+HC 238566 AGR / SC
+se justifica quando demonstrada sua real necessidade mediante a
+satisfação dos pressupostos a que se refere o artigo 312 do CPP. 2. A
+periculosidade do agente concretamente demonstrada, acrescida da
+possibilidade de reiteração criminosa e a participação em organização
+criminosa são motivos idôneos para a manutenção da custódia
+cautelar, a fim de garantir a ordem pública (HC n. 104.699/SP,
+1ª Turma, Relatora a Ministra Cármen Lúcia, DJ de 23.11.10 e HC
+n. 103.107/MT, 1ª Turma, Relator o Ministro Dias Toffoli, DJ de
+29.11.10). 3. In casu, a prisão preventiva foi satisfatoriamente
+fundamentada na garantia da ordem pública, porquanto o paciente é
+‘portador de vasta e perigosa antecedência infracional, ocupante de
+elevado status na hierarquia da facção criminosa que se intitula
+Primeiro Comando da Capital (PCC), da qual é ocupante malgrado
+custodiado em unidade prisional de regime disciplinar diferenciado”
+(HC n. 103.716, Relator o Ministro Marco Aurélio, Redator para
+o acórdão o Ministro Luiz Fux, DJe 4.11.2011).
+
+12. Quanto à alegada falta de contemporaneidade da custódia
+cautelar, a decisão agravada anotou que a notícia de o paciente ter
+empreendido fuga para não ser localizado (segundo revelado em
+interceptações telefônicas) demonstraria risco concreto e atual à instrução
+criminal e à aplicação da lei penal, não desaparecendo, portanto, a
+contemporaneidade dos requisitos do art. 312 do Código de Processo
+Penal e a necessidade da prisão preventiva. Nesse mesmo sentido é a
+orientação deste Supremo Tribunal:
+“HABEAS CORPUS ATO INDIVIDUAL ADEQUAÇÃO. O
+habeas corpus é adequado em se tratando de impugnação a ato
+de
+colegiado
+ou
+individual.
+PRISÃO
+PREVENTIVA
+CONTEMPORANEIDADE. Ante a permanência de risco à ordem
+pública, tem-se a contemporaneidade da custódia. PRISÃO
+PREVENTIVA AFASTAMENTO COVID-19 INSUFICIÊNCIA. A
+crise sanitária decorrente do novo coronavírus é insuficiente a afastar
+prisão preventiva” (HC n. 189.271, Relator o Ministro Marco
+Aurélio, Primeira Turma, DJe de 25.11.2020).
+“HABEAS CORPUS. PROCESSO PENAL. OPERAÇÃO
+
+12
+Documento assinado eletronicamente pelo(a) Min. Cármen Lúcia, conforme o Art. 205, § 2º, do CPC. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6495-D247-AE9B-8189 e senha EDE8-1C57-7AA6-C0FD
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 16 de 19
+
+HC 238566 AGR / SC
+FAROESTE. PRISÃO PREVENTIVA. PERICULUM LIBERTATIS.
+CONTEMPORANEIDADE DOS FATOS. EXCESSO DE PRAZO
+NÃO CONFIGURADO. ORDEM DENEGADA. 1. Não há
+ilegalidade flagrante na decisão que decreta a prisão preventiva com
+base em elementos concretos aptos a revelar a especial gravidade da
+conduta, o destacado papel do paciente dentro da organização
+criminosa e o risco de sua liberdade à colheita de provas. 2. Inexiste
+excesso de prazo na prisão quando o alongar da marcha processual
+decorre não de desídia do Poder Judiciário, mas da complexidade do
+feito. 3. Ordem de habeas corpus denegada (HC n. 189.118, Relator
+o Ministro Edson Fachin, Primeira Turma, DJe de 9.11.2020).
+
+13. Mencionou-se, ademais, a pacífica a jurisprudência deste
+Supremo Tribunal de que “a contemporaneidade diz com os motivos
+ensejadores da prisão preventiva e não o momento da prática supostamente
+criminosa em si, ou seja, é desimportante que o fato ilícito tenha sido praticado há
+lapso temporal longínquo, sendo necessária, no entanto, a efetiva demonstração
+de que, mesmo com o transcurso de tal período, continuam presentes os
+requisitos (i) do risco à ordem pública ou (ii) à ordem econômica, (iii) da
+conveniência da instrução ou, ainda, (iv) da necessidade de assegurar a aplicação
+da lei penal" (HC n. 185.893-AgR, Relatora a Ministra Rosa Weber, Primeira
+Turma, DJe 26.4.2021). Nesse mesmo sentido, por exemplo:
+“AGRAVO REGIMENTAL NO HABEAS CORPUS.
+LATROCÍNIO. PRISÃO PREVENTIVA FUNDAMENTADA:
+RISCO DE REITERAÇÃO DELITIVA E GRAVIDADE EM
+CONCRETO DA CONDUTA. CONTEMPORANEIDADE
+DEMONSTRADA. AUSÊNCIA DE IMPUGNAÇÃO DOS
+FUNDAMENTOS
+DA
+DECISÃO
+AGRAVADA:
+INVIABILIDADE. AGRAVO REGIMENTAL AO QUAL SE NEGA
+PROVIMENTO” (HC n. 211.659-AgR, de minha relatoria,
+Primeira Turma, DJe 21.3.2022).
+“HABEAS CORPUS. MATÉRIA CRIMINAL. PRISÃO
+PREVENTIVA. REMESSA AO PLENÁRIO. ATRIBUIÇÃO
+DISCRICIONÁRIA DO RELATOR. SUPERVENIÊNCIA DE
+
+13
+Documento assinado eletronicamente pelo(a) Min. Cármen Lúcia, conforme o Art. 205, § 2º, do CPC. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6495-D247-AE9B-8189 e senha EDE8-1C57-7AA6-C0FD
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 17 de 19
+
+HC 238566 AGR / SC
+SENTENÇA CONDENATÓRIA. ALTERAÇÃO DO TÍTULO
+PRISIONAL. PREJUÍZO DO WRIT. IMPETRAÇÃO NÃO
+CONHECIDA. POSSIBILIDADE DE EXAME DA CONCESSÃO
+DE OFÍCIO. ORDEM PÚBLICA. GRAVIDADE CONCRETA.
+REITERAÇÃO CRIMINOSA. ESCOPO EXTRAPROCESSUAL.
+ATUALIDADE
+DO
+RISCO.
+APRECIAÇÃO
+PARTICULARIZADA. LAVAGEM DE BENS. MODALIDADE
+OCULTAÇÃO. INFRAÇÃO PERMANENTE. CESSAÇÃO DO
+EXERCÍCIO DE FUNÇÃO PÚBLICA. INSUFICIÊNCIA. CRIME
+COMUM.
+EXCESSO
+DE
+PRAZO.
+INOCORRÊNCIA.
+COMPLEXIDADE
+DA
+CAUSA.
+PLURALIDADE
+DE
+ACUSADOS. DIMENSÃO DA INSTRUÇÃO PROCESSUAL.
+DURAÇÃO RAZOÁVEL DO PROCESSO. ORDEM NÃO
+CONCEDIDA. [...] 10. A aferição da atualidade do risco à ordem
+pública, como todos os vetores que compõem a necessidade de
+imposição da prisão preventiva, exige apreciação particularizada,
+descabendo superlativar a análise abstrata da distância temporal do
+último ato ilícito imputado ao agente. O que deve ser avaliado é se o
+lapso temporal verificado neutraliza ou não, em determinado caso
+concreto, a plausibilidade concreta de reiteração delituosa. A situação
+dos autos sinaliza que os atos atribuídos ao paciente teriam ocorrido
+de modo não ocasional, ultrapassando a marca de 7 anos de duração,
+com a ocorrência de repasses contínuos e com saldo a pagar,
+circunstâncias que sugerem o fundado receio de prolongamento da
+atividade tida como criminosa. [...] 14. Habeas corpus não
+conhecido" (HC n. 143.333, Relator o Ministro Edson Fachin,
+Pleno, DJe 21.3.2019).
+
+14. Neste recurso, o agravante limita-se a reiterar a alegação de
+constrangimento ilegal, sem infirmar a motivação apresentada no ato
+questionado.
+15. Analisadas as especificidades do caso, sobre a decisão posta em
+questão no habeas e, mais ainda, no agravo, conclui-se estarem em perfeita
+sintonia com a jurisprudência deste Supremo Tribunal, subsistindo ambas
+por seus fundamentos mantidos higidamente.
+14
+Documento assinado eletronicamente pelo(a) Min. Cármen Lúcia, conforme o Art. 205, § 2º, do CPC. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6495-D247-AE9B-8189 e senha EDE8-1C57-7AA6-C0FD
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 18 de 19
+
+HC 238566 AGR / SC
+
+16. Os argumentos do agravante, insuficientes para modificar a
+decisão impugnada, demonstram apenas insatisfação e resistência em pôr
+termo a processos que se arrastam em detrimento da eficiente prestação
+jurisdicional.
+17. Pelo exposto, nego provimento ao agravo regimental.
+
+15
+Documento assinado eletronicamente pelo(a) Min. Cármen Lúcia, conforme o Art. 205, § 2º, do CPC. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6495-D247-AE9B-8189 e senha EDE8-1C57-7AA6-C0FD
+
+Supremo Tribunal Federal
+Extrato de Ata - 09/04/2024
+
+Inteiro Teor do Acórdão - Página 19 de 19
+
+PRIMEIRA TURMA
+EXTRATO DE ATA
+AG.REG. NO HABEAS CORPUS 238.566
+PROCED. : SANTA CATARINA
+RELATORA : MIN. CÁRMEN LÚCIA
+AGTE.(S) : GABRIEL OTERO MENEZES
+ADV.(A/S) : OSVALDO JOSÉ DUNCKE (34143/SC) E OUTRO(A/S)
+AGDO.(A/S) : RELATOR DO HC Nº 882.169 DO SUPERIOR TRIBUNAL DE
+JUSTIÇA
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto da Relatora. Primeira Turma, Sessão
+Virtual de 29.3.2024 a 8.4.2024.
+Composição: Ministros Alexandre de Moraes (Presidente),
+Cármen Lúcia, Luiz Fux, Cristiano Zanin e Flávio Dino.
+Disponibilizou processo para esta sessão o Ministro André
+Mendonça, não tendo participado do julgamento, desse feito, a
+Ministra Cármen Lúcia, sucessora do Ministro Marco Aurélio na
+Turma.
+Luiz Gustavo Silva Almeida
+Secretário da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F12A-399C-1894-3CFD e senha 427C-99B1-F0AA-6610
