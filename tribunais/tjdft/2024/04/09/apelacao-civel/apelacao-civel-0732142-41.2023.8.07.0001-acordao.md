@@ -1,0 +1,155 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+8ª Turma Cível
+Processo N.APELAÇÃO CÍVEL 0732142-41.2023.8.07.0001APELANTE(S)JOSE ALVES DA SILVAAPELADO(S)BRADESCO SAUDE S/ARelatorDesembargador JOSE FIRMO REIS SOUB
+ Acórdão Nº1840962
+
+EMENTA
+
+APELAÇÃO CÍVIL. CONTRATO DE PLANO DE SAÚDE. PRELIMINAR DE NULIDADE DA SENTENÇA. REJEITADA. PEDIDO DE REEMBOLSO DE DESPESAS MÉDICO-HOSPITALARES SUPORTADAS PELO CONSUMIDOR. RECUSA DE CUSTEIO DE TRATAMENTO CIRURGICO POR PARTE DA OPERADORA. CONDUTA LÍCITA. CIRURGIA ROBÓTICA DE PONTA. TÉCNICA EXPRESSAMENTE EXCLUÍDA DO ROL DE PROCEDIMENTOS E EVENTOS EM SAÚDE DA ANS. EXISTÊNCIA DE TÉCNICAS COMUNS IGUALMENTE ADEQUADAS PARA TRATAMENTO DA MOLÉSTIA. DANOS MORAIS. NÃO CONFIGURADOS. SENTENÇA MANTIDA.
+
+1. A relação jurídica em análise sofre a incidência do Código de Defesa do Consumidor. Contudo, no que tange a aplicação da inversão do ônus da prova, discriminada no art. 6, VIII, do CDC, entende-se que esta não se dá de maneira automática, sendo necessário o preenchimento de dois requisitos, quais sejam: verossimilhança das alegações e hipossuficiência do cliente consumidor. Preliminar de nulidade de sentença REJEITADA.
+
+2. No mérito, o autor, ora recorrente, pretende obter ressarcimento integral de gastos despendidos com procedimento indicado pelo médico assistente para ressecção total do mesocólon, o qual teria sido realizado em 08.12.2022, por meio do robô cirúrgico Da Vinci, da Instuitive Surgycal, disponível no Hospital DFSTAR.
+
+3. O art. 12 da RN nº 465, da ANS, de 24 de fevereiro de 2021, que atualiza o rol de procedimentos e eventos em saúde que estabelece a cobertura assistencial obrigatória dispõe expressamente que: “Os procedimentos realizados por laser, radiofrequência, robótica, neuronavegação ou outro sistema de navegação, escópias e técnicas minimamente invasivas somente terão cobertura assegurada quando assim especificados no Anexo I” o que não ocorre no caso dos autos.
+
+4. No caso, autor, ora recorrente, não demonstrou preenchimento dos requisitos necessários para mitigação do rol da ANS, considerando, principalmente, entendimento consolidado pelo STJ e alterações dadas pela Lei 14.454/2022.
+
+5. Não se nega que o paciente tem direito de receber tratamento adequado para pronta recuperação da sua saúde. No entanto, isso não significa dizer que tem direito de receber tratamento mais caro e mais moderno do mercado, unicamente porque mais rápido e supostamente menos complexo, notadamente quando os outros se mostrem igualmente aptos e seguros para o fim almejado.
+
+6. Nota-se, pois, que, o autor não conseguiu demonstrar que o procedimento de ressecção total do mesocólon por meio do robô cirúrgico Da Vinci, da Instuitive Surgycal, disponível no Hospital DFSTAR, era o único procedimento disponível no mercado para cura da moléstia, ou que, sua rejeição implicaria em danos concretos à sua integridade física, o que poderia ser conseguido por meio de perícia judicial. Noutro giro, o relatório médico datado de 03.02.2023, que conta como elemento de prova produzido unilateralmente pela parte, indica, apenas se tratar de técnica moderna, supostamente com menos efeitos colaterais. Mas isso não significa única técnica adequada para tratamento da moléstia.
+
+7. Não há como impor à Seguradora arcar com custos decorrentes de aplicação de técnicas ultra modernas, quando existente outros, mais baratos, unicamente, para garantir maior comodidade do paciente e do médico assistente. Há que se atentar, também, para necessidade de manutenção de equilíbrio do contrato e do sistema de saúde suplementar, como um todo, notadamente quando não se trate de situações excepcionais, como urgência e emergência médica. Nesse contexto, entende-se que a conduta da seguradora foi manifestamente legal, não havendo que se falar em ofensa aos dispositivos do Código de Defesa do Consumidor, tão pouco em nulidade das cláusulas contratuais. Danos morais não configurados.
+
+8. RECURSO CONHECIDO. PRELIMINAR REJEITADA. NO MÉRITO, NEGADO PROVIMENTO.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 8ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, JOSE FIRMO REIS SOUB - Relator, CARMEN BITTENCOURT - 1º Vogal e EUSTAQUIO DE CASTRO - 2º Vogal, sob a Presidência do Senhor Desembargador DIAULAS COSTA RIBEIRO, em proferir a seguinte decisão: Recurso conhecido. Preliminar rejeitada. No mérito, NEGADO PROVIMENTO. Unânime, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 09 de Abril de 2024
+
+Desembargador JOSE FIRMO REIS SOUBRelator
+
+RELATÓRIO
+
+Trata-se de Apelação Cível interposta por JOSÉ ALVES DA SILVA contra r. sentença proferida pelo MM. Juiz de Direito da 22ª Vara Cível de Brasília – DF, que, em autos de REPARAÇÃO POR DANOS MORAIS E MATERIAIS, proposta pelo ora recorrente, em desfavor do ora recorrido, BRADESCO SAÚDE, julgou TOTALMENTE IMPROCEDENTES os pedidos constantes da petição inicial e EXTINGUIU o processo, com resolução de mérito, nos termos do art. 487, I, do CPC.
+
+Em consequência, o autor restou condenado a arcar com as custas processuais e com os honorários de sucumbência, estes últimos fixados em 10% (dez por cento) sobre o valor atribuído à causa, nos termos do art. 85, § 2º, do CPC.
+
+O caso em análise trata sobre pedido de reembolso de despesas médico-hospitalares suportadas unilateralmente pelo cliente-consumidor, após submeter-se a cirurgia robótica “de ponta” indicado por médico especialista para retirada de adenocarcinoma de cólon, a despeito da recusa antecipada da Operadora do Plano de Saúde fundada nos termos no contrato e no rol da ANS, e, pagamento de danos morais decorrentes dos danos supostamente experimentados.
+
+Em suas razões recursais (ID nº 55706159), o autor, ora recorrente, sustenta que que a r. sentença atacada seria incongruente, na medida em que teria reconhecido a incidência da Legislação Consumerista, mas, ao mesmo tempo, teria deixado de aplicar a regra insculpida no art. 6º, VIII, do CDC, que trata sobre a necessidade de facilitação da defesa dos direitos do consumidor e de inversão do ônus da prova, negando, inadequadamente, pedido principal de ressarcimento com base na ausência de produção de prova pericial.
+
+Esclarece que a taxatividade do rol da ANS pode ser mitigada, nas hipóteses de ausência de substituto terapêutico e de comprovação científica da eficácia do tratamento indicado. Nesse contexto, entende estar inserido nas hipóteses excepcionais, notadamente por contar com mais de 80 (oitenta) anos de idade e possuir saúde bastante debilitada, situação que, por si só, recomendaria adoção de técnica mais moderna e acelerada, de modo a reduzir riscos de corte, infecção hospitalar e outros fatores associados a um procedimento aberto.
+
+Sugere que, mesmo que o procedimento de cirurgia robótica não constasse na cobertura do plano, o STJ teria firmado entendimento no sentido de que a Operadora do Plano de Saúde seria obrigada a custear o tratamento mais adequado para recuperação do paciente, considerando, neste caso, unicamente, opinião do médico responsável.
+
+Salienta que o procedimento indicado era o que traria maior possibilidade de cura, com menor possibilidade de sequela, menos chance de sangramento, e, consequentemente, de necessidade de transfusões sanguíneas. E, que, ademais disso, era o que possuiria caráter menos invasivo.
+
+Insinua que a recusa da Operadora do Plano de Saúde em custear o referido tratamento médico cirúrgico robótico teria causado sentimentos extremos de angústia e aflição, sendo, portanto, justificada necessidade de condenação da empresa ao pagamento de danos morais reparatórios.
+
+Requer o conhecimento e o provimento do presente recurso, para reformar a r. sentença atacada, de modo a reconhecer necessidade de inversão do ônus da prova; e, sequencialmente, condenar a ré, ora recorrente, a restituir todos os gastos efetuados com procedimento de ressecção total do mesocólon, e, a pagar danos morais decorrentes da recusa de custeio do tratamento.
+
+Preparo recolhido (ID nº 55706161).
+
+Contrarrazões apresentadas (ID nº 55706165). Sem preliminares. No mérito, pugna pelo conhecimento e não provimento do recurso interposto.
+
+É o resumo dos acontecimentos.
+
+VOTOS
+
+O Senhor Desembargador JOSE FIRMO REIS SOUB - Relator
+ADMISSIBILIDADE
+
+Conheço do recurso interposto.
+
+FUNDAMENTAÇÃO
+
+Trata-se de Apelação Cível interposta por JOSÉ ALVES DA SILVA contra r. sentença proferida pelo MM. Juiz de Direito da 22ª Vara Cível de Brasília – DF, em autos de REPARAÇÃO POR DANOS MORAIS E MATERIAIS, proposta pelo ora recorrente, em desfavor do ora recorrido, BRADESCO SAÚDE.
+
+O caso em análise trata sobre pedido de reembolso de despesas médico-hospitalares suportadas unilateralmente pelo cliente-consumidor, após submeter-se a cirurgia robótica “de ponta” indicado por médico especialista para retirada de adenocarcinoma de cólon, a despeito da recusa antecipada da Operadora do Plano de Saúde fundada nos termos no contrato e no rol da ANS, e, pagamento de danos morais decorrentes dos danos supostamente experimentados
+
+O MM Juiz a quo julgou TOTALMENTE IMPROCEDENTES os pedidos constantes da petição inicial e EXTINGUIU o processo, com resolução de mérito, nos termos do art. 487, I, do CPC. Irresignado, o autor, apela. Nas razões do recurso, sustenta, basicamente, preenchimento dos requisitos necessários para desconsideração da taxatividade do rol da ANS.
+
+Inicialmente, destaco que a relação jurídica em análise sofre a incidência do Código de Defesa do Consumidor. Nesse sentido Súmula nº 608 do STJ. Contudo, no que tange a aplicação do art. 6, VIII, do CDC, entende-se esta não se dá de maneira imediata, sendo necessário preenchimento de dois requisitos, quais sejam, verossimilhança das alegações e hipossuficiência do cliente-consumidor.
+
+No caso concreto, percebe-se que o autor tinha condições de apresentar documentos necessários para demonstração do fato constitutivo do direito, nos termos do art. 373, I, do CPC, ou, pelo menos, de solicitar realização de perícia médica, no intuito de atestar necessidade de execução do procedimento cirúrgico robótico em lugar de outros, oferecidos pela operadora do plano, sendo inadequada aplicação irrestrita do art. 6, VIII, do CDC.
+
+No mesmo sentido, precedente desta Corte de Justiça. Confira-se:
+
+CIVIL. APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. INAS. FORNECIMENTO DE CATETER DE ECOCARDIOGRAMA CARDÍACO. NULIDADE DA SENTENÇA POR AUSÊNCIA DE PRODUÇÃO PROBATÓRIA. DISPENSA DE PRODUÇÃO DE PROVA PELO APELANTE. VENIRE CONTRA FACTUM PROPRIUM. VEDAÇÃO. ROL DA ANS. NÃO TAXATIVO. NOTA TÉCNICA DO NATJUS PRODUZIDA EM CASO SEMELHANTE. REQUISITOS DO ART. 10, § 13, DA LEI Nº 9.656/98, COM A REDAÇÃO DADA PELA LEI Nº 14.454/22, NÃO PREENCHIDOS. POSSIBILIDADE DA NEGATIVA. APELAÇÃO CÍVEL PROVIDA. SENTENÇA REFORMADA. 1. A alegação de nulidade da sentença por ausência de produção de prova pericial configura verdadeira nulidade de algibeira, porquanto a recorrente, em especificação de provas, expressamente declinou da produção probatória, reputando o feito apto para julgamento. 2. A atual legislação processual civil continua a atribuir ao juiz a liberdade de apreciar a prova conforme a sua convicção, dando a cada espécie probatória o atributo de certeza (ou de verossimilhança) que, em princípio, lhe convier. O sistema de liberdade conferido ao magistrado é denominado sistema do livre convencimento motivado ou da persuasão racional, previsto de forma principiológica no artigo 371 do CPC. Preliminar de nulidade da sentença rejeitada. (Acórdão 1814605, 07043921320238070018, Relator: ALFEU MACHADO, 6ª Turma Cível, data de julgamento: 7/2/2024, publicado no DJE: 4/3/2024. Pág.: Sem Página Cadastrada.)
+
+Preliminar de nulidade de sentença REJEITADA.
+
+MÉRITO
+
+O Sistema de Saúde Suplementar, considerado como conjunto de ações e serviço prestados por operadoras de planos e seguros privados de assistência médica à saúde, que não possuem correlação com o Sistema Único de Saúde, é disciplinado minuciosamente pela Lei nº 9.656/1998, Lei nº 9.961/2000 e demais atos regulamentares emitidos pela Agência Nacional de Saúde – ANS e Conselho de Saúde Suplementar.
+
+Nesse contexto, importante mencionar que, o art. 10 da Lei nº 9.656/1998, com redação dada pela Medida Provisória nº 2.177-44, de 2001, instituiu “plano referência de assistência à saúde, com cobertura assistencial médico-ambulatorial e hospitalar, compreendendo partos e tratamentos, realizados exclusivamente no Brasil, com padrão de enfermaria, centro de terapia intensiva, ou similar, quando necessária a internação hospitalar, das doenças listadas na Classificação Estatística Internacional de Doenças e Problemas Relacionados com a Saúde, da Organização Mundial de Saúde, respeitadas as exigências mínimas estabelecidas no art. 12 da Lei, exceto: (...)”.
+
+No referido “plano referência” consta lista de procedimentos que precisam ser, necessariamente, cobertos (oferecidos) pelas operadoras de planos de saúde para se adequarem a um padrão de qualidade mínimo, almejado pelo Estado. Trata-se, portanto, de uma maneira de garantir e tornar público o direito assistencial dos beneficiários. E, a competência para “seleção” de procedimentos considerados indispensáveis ao diagnóstico, tratamento e acompanhamento de doenças e eventos em saúde ficou a cargo da Agência Nacional de Saúde - ANS. Com efeito, o art. 4º da Lei nº 9.961/2000 dispõe expressamente que: “Compete à ANS: III – elaborar o rol de procedimentos e eventos em saúde, que constituíram referência básica para os fins do disposto na Lei nº 9.656, de 3 de junho de 1998, e suas excepcionalidades”.
+
+Como mencionado em linhas anteriores, no caso em análise, o autor, ora recorrente, pretende obter ressarcimento integral de gastos despendidos com procedimento indicado pelo médico assistente para ressecção total do mesocólon, o qual teria sido realizado em 08.12.2022, por meio do robô cirúrgico Da Vinci, da Instuitive Surgycal, disponível no Hospital DFSTAR (ID nº 55706080)
+
+Ocorre que, o art. 12 da RN nº 465, da ANS, de 24 de fevereiro de 2021, que atualiza o rol de procedimentos e eventos em saúde que estabelece a cobertura assistencial obrigatória dispõe expressamente que: “Os procedimentos realizados por laser, radiofrequência, robótica, neuronavegação ou outro sistema de navegação, escópias e técnicas minimamente invasivas somente terão cobertura assegurada quando assim especificados no Anexo I” o que não é o caso.
+
+Em sendo assim, entende-se que, para que o autor, ora recorrente, pudesse ter seu pedido atendido, teria de ter demonstrado o preenchimento dos requisitos necessários para admissão da mitigação do rol da ANS, segundo entendimento do STJ ou da redação dada pela Lei nº 14.454/2022.
+
+Sobre o assunto, destaco que, durante o julgamento dos Embargos de Divergência no Recurso Especial nº 1.886.929/SP, ocorrido em 03.08.2022, os Ministros do Superior Tribunal de Justiça – STJ concluíram, basicamente, que, o Rol de procedimentos da ANS teria de ser considerado, em um primeiro momento, como restrito (taxativo), razão pela qual as Operadoras de Planos de Saúde não estariam, como regra, obrigadas a cobrir ou ressarcir tratamentos não incluídos na “lista”. No entanto, o Colegiado ressaltou que, o referido entendimento poderia ser mitigado, em algumas situações excepcionais, como, por exemplo, nos casos de necessidade de adoção de terapias com recomendações médicas, sem substituto terapêutico, e, que, contassem com o reconhecimento de órgãos técnicos ou instituições regulatórias. Nesse sentido, e, por entender oportuno, transcrevo item 11 da ementa do julgado (STJ). Confira-se:
+
+11. Cabem serem observados os seguintes parâmetros objetivos para admissão, em hipóteses excepcionais e restritas, da superação das limitações contidas no Rol: 1 - o Rol de Procedimentos e Eventos em Saúde Suplementar é, em regra, taxativo; 2 - a operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do Rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado à lista; 3 - é possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extrarrol; 4 - não havendo substituto terapêutico ou estando esgotados os procedimentos do Rol da ANS, pode haver, a título de excepcionalidade, a cobertura do tratamento indicado pelo médico ou odontólogo-assistente, desde que (i) não tenha sido indeferida expressamente pela ANS a incorporação do procedimento ao Rol da Saúde Suplementar; (ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências; (iii) haja recomendações de órgãos técnicos de renome nacionais (como Conitec e NatJus) e estrangeiros; e (iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS. (EMBARGOS DE DIVERGÊNCIA EM RESP Nº 1.886.929 (2020/0191677-6), Relator: Ministro LUIS FELIPE SALOMÃO, 2ª Seção, data de julgamento: 08.06.2020, publicado no PJe: 03.08.2022 Pág.: Sem Página Cadastrada).
+
+No mesmo sentido, a Lei nº 14.454, de 21 de dezembro de 2022, alterou determinados dispositivos da Lei nº 9.656, de 3 de junho de 1998, para estabelecer critérios específicos que permitam a cobertura de exames ou tratamentos de saúde não incluídos no rol de procedimentos da ANS. Com efeito, os §§ 4º, 12 e 13 do art. 10, da Lei nº 9.656/1998, passaram a vigorar com a seguinte redação:
+
+§ 4º. A amplitude das coberturas no âmbito da saúde suplementar, inclusive de transplantes e de procedimentos de alta complexidade, será estabelecida em norma editada pela ANS, que publicará rol de procedimentos e eventos em saúde suplementar, atualizado a cada incorporação.
+
+§ 12. O rol de procedimentos e eventos em saúde suplementar, atualizado pela ANS a cada nova incorporação, constitui a referência básica para os planos privados de assistência à saúde contratados a partir de 1º de janeiro de 1999 e para os contratos adaptados a esta Lei e fixa as diretrizes de atenção à saúde.
+
+§ 13. Em caso de tratamento ou procedimento prescrito por médico ou odontólogo assistente que não estejam previstos no rol referido no § 12 deste artigo, a cobertura deverá ser autorizada pela operadora de planos de assistência à saúde, desde que:
+
+I - exista comprovação da eficácia, à luz das ciências da saúde, baseada em evidências científicas e plano terapêutico; ou
+
+II - existam recomendações pela Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec), ou exista recomendação de, no mínimo, 1 (um) órgão de avaliação de tecnologias em saúde que tenha renome internacional, desde que sejam aprovadas também para seus nacionais."
+
+No caso em análise, o autor, ora recorrente, nem sequer se preocupou em demonstrar que o procedimento cirúrgico indicado pelo médico assistente seria idôneo para tratamento da moléstia experimentada, ou que seria recomendado pelos órgãos técnicos de renome nacional e internacional (art. 10, § 13, Lei nº 9.656/98). Em todo caso, mostra-se notório que a recusa da Operadora do Plano de Saúde está mais relacionada com o alto custo do procedimento e com a existência de outros, supostamente tão satisfatório quanto, do que com existência de dúvida a respeito da eficácia do primeiro.
+
+Ora, não se nega que o paciente tem direito de receber tratamento adequado para pronta recuperação da sua saúde. No entanto, isso não significa dizer que tem direito de receber tratamento mais caro e mais moderno do mercado, unicamente porque mais rápido e supostamente menos complexo, notadamente quando os outros se mostrem igualmente aptos e seguros para o fim almejado.
+
+Noto, pois, que, JOSÉ ALVES DA SILVA não conseguiu demonstrar que o procedimento de ressecção total do mesocólon por meio do robô cirúrgico Da Vinci, da Instuitive Surgycal, disponível no Hospital DFSTAR, era o único procedimento disponível no mercado para cura da moléstia, ou que, sua rejeição implicaria em danos concretos à sua integridade física, o que poderia ser conseguido por meio de perícia judicial. Noutro giro, o relatório médico datado de 03.02.2023, que conta como elemento de prova produzido unilateralmente pela parte, indica, apenas e teoricamente se tratar de técnica moderna, supostamente com menos efeitos colaterais. Mas isso não significa única técnica adequada para tratamento da moléstia. Confira-se (ID nº 55706079):
+
+“Para que o tratamento seja plenamente curativo é necessário realizar cirurgia com características técnicas aplicadas a oncologia e quimioterapia.
+
+Para a garantia da máxima ressecção linfonodal, das cadeias relacionadas ao tumor, (...), técnica nominada “ressecção total do mesocólon”, é necessária a utilização da máxima disponibilidade técnica pois se trata de procedimento de elevado nível de dificuldade de execução. Para tal, a melhor ferramenta disponível, em nível mundial, é o robô cirúrgico Da Vinci, da Instuitive Surgycal, disponível no Hospital DFSTAR.
+
+Além disso a cirurgia robótica tem vantagens em casos complexos como esse, proporcionando menos dor pós operatória e menores cicatrizes, além de melhor visualização e visão da vasculatura em tempo real, chamada firefly, a qual permite ver a chegada de sangue a anastomose, fato que é determinante para evitar desicencias de anastomose, a qual é a complicação mais dramática e temida.”
+
+Não há como impor à Seguradora arcar com custos decorrentes de aplicação de técnicas ultra modernas, quando existente outros, mais baratos, unicamente, para garantir maior comodidade do paciente e do médico assistente. Há que se atentar, também, para necessidade de manutenção de equilíbrio do contrato e do sistema de saúde suplementar, como um todo, notadamente quando não se trate de situações excepcionais, como urgência e emergência médica.
+
+Nesse contexto, entendo que a conduta da seguradora foi manifestamente legal, não havendo que se falar em ofensa aos dispositivos do Código de Defesa do Consumidor, tão pouco em nulidade das cláusulas contratuais. Sendo assim, mostra-se imprescindível a manutenção da r. sentença atacada.
+
+No mesmo sentido, precedentes desta Casa de Justiça. Confira-se:
+
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. PLANO DE SAÚDE. PROCEDIMENTO CIRÚRGICO. VIDEOLAPAROSCOPIA. TÉCNICA ROBÓTICA. ENDOMETRIOSE. RECUSA COBERTURA. LEGALIDADE. ROL TAXATIVO MITIGADO. 2. O Rol de Procedimentos da ANS possui natureza taxativa mitigada, consoante EREsp 1.886.929, e a operadora de plano de saúde não é obrigada a arcar com tratamento que dele não consta, se existe para o tratamento cirúrgico da paciente outro procedimento eficaz, efetivo e seguro já incorporado ao rol. 3. A Lei 14.454/2022 condiciona a cobertura à comprovação: I) da eficácia, à luz das ciências da saúde, baseada em evidências científicas e plano terapêutico; ou II) recomendações pela Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec), ou exista recomendação de, no mínimo, 1 (um) órgão de avaliação de tecnologias em saúde que tenha renome internacional, desde que sejam aprovadas também para seus nacionais. 4. A RN 465/2021 impõe expressa restrição à utilização da técnica robótica. 5. Deu-se provimento ao recurso. (Acórdão 1764429, 07043086320238070001, Relator: FABRÍCIO FONTOURA BEZERRA, 7ª Turma Cível, data de julgamento: 27/9/2023, publicado no DJE: 23/10/2023. Pág.: Sem Página Cadastrada.)
+
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. PLANO DE SAÚDE/SEGURADORA. SÚMULA 608 DO STJ. NEGATIVA DE COBERTURA. PROCEDIMENTO POR LASER. ROL DA ANS. ANEXOS. TAXATIVIDADE. JURISPRUDÊNCIA DO STJ. LEI Nº 14.454/2022. CARÁTER EXEMPLIFICATIVO. RETOMADA. DIREITO À SAÚDE. CASO CONCRETO. INVIABILIDADE DE CUSTEIO. HIPÓTESES EXCEPCIONAIS. NÃO DEMONSTRADAS.   1. Aplica-se de forma subsidiária o Código de Defesa do Consumidor aos contratos de plano de saúde, salvo os administrados por entidades de autogestão (Lei nº 9.656/1998, art. 35-G e STJ, Súmula 608). 2. O rol de procedimentos e eventos em saúde obrigatórios regulamentado pela Agência Nacional de Saúde Suplementar (ANS) tem natureza taxativa, segundo entendimento do STJ (Overruling) proferido no RESP nº 1733013/PR. 3. Com a edição da Lei nº 14.454/2022, os planos e seguros de saúde foram novamente obrigados a cobrir tratamentos que não estejam no rol de procedimento e eventos em saúde da ANS, retomando o seu caráter exemplificativo. 4. A operadora/seguradora de saúde deve custear o procedimento não constante do rol da ANS, em respeito à função social do contrato e em atendimento ao disposto na Lei nº 14.454/2022, quando forem demonstrados: (a) risco notório à sua integridade física e/ou psicológica, caso não realizada a terapêutica; (b) real necessidade do procedimento; (c) sua eficácia; (d) que é o melhor tratamento para a mazela apresentada e (e) a inadequação de eventual tratamento convencional e/ou mais barato. 5. "Os procedimentos realizados por laser, radiofrequência, robótica, neuronavegação ou outro sistema de navegação, escopias e técnicas minimamente invasivas somente terão cobertura assegurada quando assim especificados no Anexo I" (Resolução nº 465 da ANS, art. 12). 6. Ausente previsão no Anexo I da Resolução Normativa nº 465 da ANS de cobertura obrigatória para o procedimento realizado por laser, bem como ausentes provas da eficácia e da imprescindibilidade do procedimento, ou de que o tratamento convencional seria inadequado, inviável compelir a operadora a custear a terapêutica. 7. Recurso conhecido e não provido. (Acórdão 1760102, 07186848820228070001, Relator: DIAULAS COSTA RIBEIRO, 8ª Turma Cível, data de julgamento: 19/9/2023, publicado no DJE: 28/9/2023. Pág.: Sem Página Cadastrada.)
+
+CIVIL, DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. AÇÃO COMINATÓRIA. PLANO DE SAÚDE. CÓDIGO DE DEFESA DO CONSUMIDOR. INCIDÊNCIA. SEGURADA ACOMETIDA DE ESTENOSE AÓRTICA SEVERA. TRATAMENTO. PRESCRIÇÃO MÉDICA. TROCA VALVAR AÓRTICA TRANSCATETER - TAVI. PREVISÃO CONTRATUAL. EXCLUSÃO DA COBERTURA. COBERTURA MODULADA SEGUNDO A REGULAÇÃO NORMATIVA. CONDIÇÃO DE COBERTURA NÃO REALIZADA. IDADE DA PACIENTE (DIRETRIZ DE UTILIZAÇÃO ANS 143). NECESSIDADE DE ATENTAR-SE AO OBJETO CONTRATADO. COBERTURA MÍNIMA OBRIGATÓRIA. INSERÇÃO DO TRATAMENTO. AUSÊNCIA. ROL ESTABELECIDO PELO ÓRGÃO SETORIAL (RESOLUÇÃO NORMATIVA 465/ANS/2021). INTERVENÇÃO. COBERTURA. NEGAÇÃO PELA OPERADORA. LEGALIDADE. PLANO DE SAÚDE. PREVISÃO CONTRATUAL. NEGÓCIO JURÍDICO. COMUTATIVIDADE. BILATERALIDADE. EQUILÍBRIO ECONÔMICO-FINANCEIRO. PRESERVAÇÃO. TAXATIVIDADE DO ROL DE COBERTURAS OBRIGATÓRIAS EDITADO PELA ANS (REsp 1.733.013/PR; EREsp 1.886.929 e 1.889.704). EXCEÇÕES AUSENTES. RECUSA LEGÍTIMA.  ILÍCITO CONTRATUAL INEXISTENTE. EXERCÍCIO REGULAR DUM DIREITO. APELAÇÃO. RECURSO PROVIDO. SENTENÇA REFORMADA. PEDIDO REJEITADO.   10.    Conquanto a enfermidade esteja inserida nas coberturas mínimas estabelecidas pelo órgão setorial, mas tendo mais de um tratamento, todos eficazes, não tendo inserido o órgão todas as opções terapêuticas como de cobertura obrigatória, inviável que, não tendo o contrato estendido as coberturas, o plano de saúde seja obrigado a custear o procedimento não acobertado, pois, a despeito de ser assegurado ao médico indicar o tratamento mais indicado e o paciente a com ele anuir, não pode a operadora ser obrigada a custeá-lo se não inserido nas coberturas contratadas. 11.    A Corte Superior de Justiça fixara que o rol de coberturas mínimas editado pela Agência Nacional de Saúde - ANS é, em regra, taxativo, contemplando exceções que, casuisticamente, podem levar à desconsideração da taxatividade e da ausência de previsão contratual para cobertura do tratamento demandado, e, assim, não se enquadrando a situação concreta nas exceções, pois não evidenciado que o tratamento prescrito é o único apropriado e eficaz para cura da enfermidade que aflige o beneficiário do plano de saúde nem que os demais oferecidos ordinariamente e cobertos são ineficazes, inviável que sejam desconsideradas a taxatividade das coberturas pontuadas pelo órgão setorial e as coberturas contratadas (STJ, EREsp 1.886.929 e 1.889.704). 12.    A Lei dos Planos de Saúde - Lei nº 9.656/98 -, com a nova redação conferida pela Lei nº 14.454/2022 aos §§ 12 e 13 do art. 10 do diploma legal, explicitara que o rol de procedimentos e eventos em saúde suplementar atualizado pela ANS constitui referência básica para os planos privados de assistência à saúde, estabelecendo que, em caso de tratamento não previsto no referido rol, a cobertura deverá ser autorizada sob uma das seguintes condições: (i) existência de comprovação científica de sua eficácia; (ii) ou existência de recomendações da Conitec; (iii) ou existência de recomendação de, no mínimo, um órgão de avaliação de tecnologias em saúde de renome internacional, desde que sejam aprovadas também para seus nacionais. 13.    A inovação inserida na Lei dos Planos de Saúde corrobora a taxatividade do rol de coberturas obrigatórias editado pela ANS, estabelecendo a viabilidade de ser assegurada cobertura fora do regulado, como exceção à regra geral, segundo a realização duma das condições pontuadas, as quais não são cumulativas, devendo a exegese dessa preceituação ser ponderada e apreendida segundo a premissa de que o tratamento demandado esteja inserido nas coberturas e que não exista terapêutica disponível entre os procedimentos dispensados obrigatoriamente, tornando inviável que, defronte exclusão de cobertura autorizada pelo legislador e contratualmente ajustada, seja assegurada em desconformidade com o contrato e com a própria lei de regência (Lei nº 9.656/98, art. 10). 14.    Apelação conhecida e provida.  Sentença reformada. Unânime. (Acórdão 1798505, 07003755220238070011, Relator: TEÓFILO CAETANO, 1ª Turma Cível, data de julgamento: 6/12/2023, publicado no DJE: 22/1/2024. Pág.: Sem Página Cadastrada.)
+
+Informações complementares: Data da Propositura da Demanda: 02.08.2023. Valor atribuído à Causa: R$ 18.798.83 (dezoito mil, setecentos e noventa e oito reais e oitenta e três centavos). Data da Sentença: 31.10.2023. Honorários arbitrados na Origem: 10% (dez por cento) sobre o valor atualizado da causa. Gratuidade de Justiça: Não.
+
+ DISPOSITIVO
+
+Ante o exposto, CONHEÇO do recurso apresentado por JOSÉ ALVES DA SILVA, mas, no mérito, NEGO PROVIMENTO, mantendo incólume a r. sentença atacada.
+
+Em consequência e, com amparo no § 11 do art. 85 do CPC, majoro os honorários de sucumbência para 11% (onze por cento) sobre o valor atualizado da causa.
+
+É como voto.
+
+A Senhora Desembargadora CARMEN BITTENCOURT - 1º Vogal Com o relatorO Senhor Desembargador EUSTAQUIO DE CASTRO - 2º Vogal Com o relator
+
+DECISÃO
+
+Recurso conhecido. Preliminar rejeitada. No mérito, NEGADO PROVIMENTO. Unânime
