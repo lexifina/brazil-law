@@ -1,2 +1,2 @@
-Art. 41-A - A decisão de Turma, no Superior Tribunal de Justiça, será tomada pelo voto da maioria absoluta de seus membros.
-Parágrafo único - Em habeas corpus originário ou recursal, havendo empate, prevalecerá a decisão mais favorável ao paciente.
+Art. 41-A. A decisão de Turma, no Supremo Tribunal Federal e no Superior Tribunal de Justiça, será tomada pelo voto da maioria absoluta de seus membros.
+Parágrafo único. Em todos os julgamentos em matéria penal ou processual penal em órgãos colegiados, havendo empate, prevalecerá a decisão mais favorável ao indivíduo imputado, proclamando-se de imediato esse resultado, ainda que, nas hipóteses de vaga aberta a ser preenchida, de impedimento, de suspeição ou de ausência, tenha sido o julgamento tomado sem a totalidade dos integrantes do colegiado.
