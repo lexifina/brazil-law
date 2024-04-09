@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 03/04/2024 a 09/04/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com a Sra. Ministra Relatora.
+Não participou do julgamento o Sr. Ministro Antonio Carlos Ferreira.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+EMENTA
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. NÃO ADMISSIBILIDADE. NÃO COMPROVAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE VÍCIOS NO JULGADO EMBARGADO.
+1. São cabíveis embargos de declaração quando houver na decisão embargada contradição, omissão ou obscuridade a ser sanada. São admissíveis também para a correção de eventual erro material, podendo haver, excepcionalmente, a alteração ou modificação da decisão embargada.
+2. Na espécie, a despeito da irresignação da defesa com o resultado do julgamento, houve expressa manifestação quanto às alegações postas nos presentes embargos, quanto à intempestividade do recurso, embora de forma contrária à pretendida pela defesa, não havendo, na hipótese, vício algum a ser sanado.
+3. Mostra-se evidente a busca indevida de efeitos infringentes, em virtude da irresignação decorrente do resultado do julgamento anterior, pois, na espécie, à conta de omissão e contradição na decisão, pretende o embargante a rediscussão de matéria já apreciada pelo órgão colegiado.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por RINALDO FERREIRA, em face do acórdão proferido por esta Corte Especial, que, à unanimidade, negou provimento a agravo regimental interposto contra decisão que não admitiu os embargos de divergência (e-STJ fs l. 2932/2937).
+Nas razões dos embargos de declaração alega que "a decisão que negou provimento ao agravo regimental foi obscura, na medida em que, embora a defesa tenha demonstrado expressamente a comprovação da divergência, argumentou que tal comprovação não ocorreu" (fl. 2946).
+Sustenta que "com a plena implementação do processo eletrônico, o fornecimento da referência dos autos e do órgão julgador permite localizá-los rapidamente em sua totalidade. Nesse contexto, ao apresentar a ementa do acórdão paradigma, também foi incluída a citação correspondente ao repositório oficial de onde se extraiu o entendimento divergente no caso" (fl. 2945).
+Requer, ao final, o acolhimento dos embargos de declaração, a fim de que sejam sanados os supostos vícios apontados.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. NÃO ADMISSIBILIDADE. NÃO COMPROVAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE VÍCIOS NO JULGADO EMBARGADO.
+1. São cabíveis embargos de declaração quando houver na decisão embargada contradição, omissão ou obscuridade a ser sanada. São admissíveis também para a correção de eventual erro material, podendo haver, excepcionalmente, a alteração ou modificação da decisão embargada.
+2. Na espécie, a despeito da irresignação da defesa com o resultado do julgamento, houve expressa manifestação quanto às alegações postas nos presentes embargos, quanto à intempestividade do recurso, embora de forma contrária à pretendida pela defesa, não havendo, na hipótese, vício algum a ser sanado.
+3. Mostra-se evidente a busca indevida de efeitos infringentes, em virtude da irresignação decorrente do resultado do julgamento anterior, pois, na espécie, à conta de omissão e contradição na decisão, pretende o embargante a rediscussão de matéria já apreciada pelo órgão colegiado.
+4. Embargos de declaração rejeitados.
+VOTO
+Para melhor compreensão da controvérsia, transcrevo a ementa do acórdão embargado:
+"AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE TRANSCRIÇÃO DO INTEIRO TEOR DO ACÓRDÃO PARADIGMA. AUSÊNCIA DE INDICAÇÃO DO REPOSITÓRIO OFICIAL. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO. 1. Ausência de indicação do repositório oficial e de inteiro teor do acórdão paradigma. Vícios insanáveis, conforme a jurisprudência do STJ. Dissídio não comprovado.2. Agravo regimental a que se nega provimento." (fls. 2932/2937)
+A despeito da irresignação da defesa com o resultado do julgamento, houve expressa manifestação quanto às alegações postas nos presentes embargos, quanto à ausência de comprovação da divergência nos termos exigidos, embora de forma contrária à pretendida pela defesa, não havendo, na hipótese, vício algum a ser sanado, consoante demonstrado no acórdão que julgou o agravo regimental:
+"A argumentação do recorrente não afasta a jurisprudência desta Corte, a qual, amparada no art. 1.043, § 4º, do Código de Processo Civil e no art. 266, § 4º, do RISTJ, exige que o recorrente, para comprovar a existência de dissídio em sede de embargos de divergência, providencie: a) juntada de certidões; b) apresentação de cópias do inteiro teor dos acórdãos apontados como paradigmas; c) citação do repositório oficial autorizado ou credenciado no qual eles se achem publicados, inclusive em mídia eletrônica; e d) reprodução de julgado disponível na rede mundial de computadores com a indicação da respectiva fonte.
+Mediante análise dos autos, verifica-se que a parte, no momento da interposição do recurso, limitou-se a transcrever tão somente a ementa do acórdão paradigma, deixando de cumprir regra técnica do presente recurso ao não transcrever o seu inteiro teor, o que constitui vício substancial insanável.
+Ademais, a mera menção ao Diário da Justiça em que teriam sido publicados os acórdãos paradigmas trazidos à colação, sem a indicação da respectiva fonte, não supre a exigência da citação do repositório oficial ou autorizado de jurisprudência, por que se trata de órgão de divulgação em que é publicada somente a ementa do acórdão: AgInt nos EAREsp 1.268.264/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe. 7/12/2020; AgInt nos EAREsp 1.312.401/SP, Rel Ministro Og Fernandes, Corte Especial, DJe. 26/10/2020. Não incide, no caso, o parágrafo único do art. 932 do CPC.
+Nos recursos tempestivos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), somente será concedido prazo para que a parte sane vício estritamente formal (Enunciado Normativo n. 6)
+( )
+Como se vê, não é admissível o recurso de embargos de divergência quando o recorrente não comprova a divergência nos termos do art. 1.043, § 4º, do CPC e do art. 266, § 4º, do RISTJ, aplicáveis por força do art. 3º do CPP, razão pela qual mantenho a decisão agravada em sua totalidade" (e-STJ fl. 9109).
+Só cabem embargos de declaração quando houver na decisão embargada alguma contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação da decisão embargada, o que não se verifica no julgado em questão.
+Os embargos de declaração não constituem recurso de revisão. Se a decisão embargada não apresenta os vícios que autorizam a sua interposição, os embargos de declaração não são admissíveis.
+Verifica-se que o embargante pretende, em verdade, o reexame da matéria já julgada, situação que não se coaduna com a via dos embargos de declaração.
+Em face do exposto, rejeito os embargos de declaração.
+É o voto.
