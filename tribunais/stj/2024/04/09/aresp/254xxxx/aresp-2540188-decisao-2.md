@@ -1,0 +1,62 @@
+DECISÃO
+Cuida-se de agravo em recurso especial, interposto por HUMBERTO SOARES DE OLIVEIRA, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 28/11/2022.
+Concluso ao gabinete em: 2/4/2024.
+Ação: de resolução contratual cumulada com perdas e danos, ajuizada por LILIANA DA SILVA TAVARES em desfavor do agravante e de REALIZA EMPREENDIMENTOS IMOBILIARIOS LTDA, em razão de contrato particular de promessa de compra e venda de bem imóvel firmado entre as partes e o decorrente atraso na entrega da obra.
+Sentença: julgou parcialmente procedentes os pedidos para declarar a resolução do contrato e condenar as partes requeridas, solidariamente, ao pagamento de R$ 5.000,00 (cinco mil reais), a título de danos morais, bem como à devolução dos valores pagos.
+Acórdão: negou provimento às apelações interpostas pelo agravante e por REALIZA EMPREENDIMENTOS IMOBILIARIOS LTDA, nos termos da seguinte ementa:
+APELAÇÃO. AÇÃO DE RESOLUÇÃO CONTRATUAL C/C PERDAS E DANOS. PROCEDÊNCIA PARCIAL EM PRIMEIRO GRAU. PRELIMINAR SUSCITADA. ILEGITIMIDADE PASSIVA AD CAUSAM. DESCABIMENTO. TEORIA DA ASSERÇÃO. PARTICIPAÇÃO NO NEGÓCIO JURÍDICO. RESPONSABILIDADE SOLIDÁRIA. REJEIÇÃO. MÉRITO. DUPLO INCONFORMISMO. ANÁLISE CONJUNTA. ENTRELAÇAMENTO DAS MATÉRIAS. CONTRATO DE COMPRA E VENDA. TERRENO EM LOTEAMENTO. ATRASO NA ENTREGA. MORA INJUSTIFICADA. DESCUMPRIMENTO. RESPONSABILIDADE DOS PROMOVIDOS. RESCISÃO. POSSIBILIDADE. RESTITUIÇÃO DAS PARCELAS PAGAS. DANO MORAL EVIDENCIADO. HONORÁRIOS ADVOCATÍCIOS. MINORAÇÃO. NÃO ACOLHIMENTO. FIXAÇÃO ADEQUADA. MANUTENÇÃO DO DECISUM. DESPROVIMENTO DOS RECURSOS.
+- Não há como acolher a preliminar de ilegitimidade passiva, uma vez que, com base na teoria da asserção, resta evidente que a Empresa Realiza Empreendimentos atuou em conjunto na atividade de comercialização do bem imóvel, devendo responder solidariamente pelos prejuízos suportados pela promovente.
+- "A mera alegação da ocorrência de situação de caso fortuito e/ou força maior, consubstanciada em posterior verificação de inviabilidade técnica local para abastecimento de água, não justifica o atraso na entregado imóvel prometido à venda, uma vez que tal justificativa consiste em risco do próprio empreendimento imobiliário.(..)". (TJDF; Proc00062.00-33.2014.8.07.0011; Ac. 116.6529; Primeira Turma Cível; Relª Desª Simone Lucindo; Julg. 24/04/2019; DJDFTE03/05/2019).
+- Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento, nos termos da Súmula nº 543, do Superior Tribunal de Justiça.
+- A reparação do dano moral deve ser proporcional à intensidade da dor, que a seu turno diz a importância da lesão para quem a sofreu, consignando, que à satisfação compensatória soma-se também o sentido punitivo da indenização, de maneira que assume especial relevo na fixação do quantum indenizatório a situação econômica do causador do dano.
+- Tendo em vista que a verba honorária foi arbitrada em primeiro grau de forma adequada, no percentual máximo descrito no art. 85, §2º, do Código de Processo Civil, é de se manter a decisão hostilizada também nesse ponto.
+(e-STJ Fls. 342/343)
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação aos arts. 186, 927 e 932 do CC; 14, § 3º, II, do CDC, bem como dissídio jurisprudencial.
+Sustenta, em síntese, que a responsabilidade civil pelo atraso na entrega da obra é atribuível a fato de terceiro. Aponta que a culpa de terceiro restou demonstrada nos autos, de sorte que "que todas as demais obras relativas à infraestrutura do loteamento já estavam prontas naquele momento, estando pendente apenas as obras hídricas, por culpa exclusiva da CAGEPA" (e-STJ Fl. 436). Assevera, assim, o rompimento do nexo causal a ensejar a sua responsabilidade civil na espécie.
+Deduz, por fim, divergência jurisprudencial no que tange à impossibilidade de compensação por danos morais em hipótese em que o imóvel não é destinado à moradia.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+Os argumentos invocados pelo agravante não demonstram como o acórdão recorrido violou o art. 932 do CC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Do reexame de fatos, provas e cláusulas contratuais
+De outra parte, não obstante a insurgência do agravante acerca da culpa de terceiro, à comprovação dos fatos alegados e aos danos morais sofridos, consta do acórdão recorrido:
+(..) Por outro lado, o particular vendedor afirmou que a ocorrência de atraso deu-se por culpa exclusiva da CAGEPA, que demorou em fornecer a Declaração de Viabilidade Técnica para Atendimento com Serviços de Abastecimento de Água.
+Tal alegação não merece prosperar, pois, como cediço, os riscos e impropriedades do empreendimento não pode ser suportados pelo comprador, diante da ausência de cumprimento das obrigações do vendedor.
+(..)
+Ademais, como bem ressaltou o Magistrado a quo, Id 7560303- Pág. 5, descabe "à incorporadora imputar a responsabilidade pelo atraso às concessionárias de serviços públicos, afinal, além de responder objetivamente pelos vícios do produto comercializado, era de total responsabilidade da imobiliária se inteirar de todas as circunstâncias do negócio antes de oferecê-lo a terceiros, razão porque deve responder pelo atraso na instalação das estruturas de água do empreendimento", consignando, ainda, que "é incabível a alegação da 1ª promovida que, ao tentar se desvencilhar da sua responsabilidade, explica que a autora nunca solicitou a autorização para construção, pois a cláusula quinta em seu parágrafo 2º dispõe que o comprador só pode solicitar a autorização depois da conclusão de uma estrutura mínima no empreendimento".
+Acrescenta-se a isso o teor da certidão subscrita pelo Secretário Adjunto de Desenvolvimento Urbano, Infraestrutura e Transporte do Município de Belém, Id 7560154 - Pág. 2, a qual certificou que, em 03 de maio de 2017, "o empreendimento não apresenta os serviços de infraestrutura concluídos".
+Restando caracterizado que o atraso na obra foi decorrente da conduta dos promovidos, e não se vislumbrando culpa da promovente, é de se manter a sentença também no que tange à rescisão contratual, bem como acerca da restituição das parcelas pagas, nos termos da Súmula nº 543, do Superior Tribunal de Justiça que consolidou o seguinte entendimento:
+(..)
+Nessa ordem de ideais, restando discrepante o atraso para a entrega do loteamento, bem como por entender que os constrangimentos sofridos com a espera e incerteza da entrega do lote adquirido ultrapassam a seara do mero dissabor, tornando-se inquestionável a ocorrência do dano moral e o dever de indenizar, visto ser esta a única forma de se tentar compensar a violação do patrimônio subjetivo sofrido pela autora.
+(..) (e-STJ Fls. 348/351, grifo nosso)
+Alterar o decidido no acórdão impugnado, portanto, no que se refere à culpa exclusiva ou concorrente de terceiro por atraso na entrega da obra e ao decorrente dever de indenizar e, bem assim, à comprovação dos danos morais sofridos, precipuamente a ensejar eventual compensação, exige o reexame de fatos, provas e cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7 do STJ.
+A corroborar:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. DESCARACTERIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS SÚMULA N. 5 E 7 DO STJ. DANOS MORAIS. EXCLUSÃO. SÚMULA N. 7/STJ. DESPESAS CONDOMINAIS. OBRIGAÇÃO DO ADQUIRENTE. ENTREGA DAS CHAVES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+2. No caso, reconhecer caso fortuito ou força maior, no atraso da entrega do imóvel, exige o reexame de matéria fática, medida inviável em recurso especial.
+3. O mero atraso na entrega do imóvel é incapaz de gerar abalo moral indenizável, sendo necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável por sua gravidade. Precedentes.
+4. O Tribunal de origem analisou as provas dos autos para concluir pela existência de danos morais indenizáveis, pois a situação a que os agravados foram expostos ultrapassou o mero dissabor. Alterar esse entendimento demandaria o reexame de provas, inviável em recurso especial.
+5. Conforme o entendimento desta Corte Superior, "o promitente comprador passa a ser responsável pelo pagamento das despesas condominiais a partir da entrega das chaves, tendo em vista ser o momento em que tem a posse do imóvel" (REsp n. 1.847.734/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 29/3/2022, DJe de 31/3/2022), entendimento aplicado pela Corte de origem. Inafastável, desse modo, a Sumula n. 83/STJ.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.054.503/MG, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 26/6/2023, DJe de 28/6/2023, grifo nosso.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER CONJUGADA COM INDENIZAÇÃO POR DANOS MORAIS. CONTRATO DE PROMESSA DE COMPRA E VENDA. IMÓVEL. ENTREGA. ATRASO. CULPA DE TERCEIRO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, rever a conclusão do aresto impugnado acerca da inexistência de culpa de terceiro no atraso da entrega da obra encontra óbice na Súmula nº 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.803.314/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/12/2021, DJe de 16/12/2021, grifo nosso.)
+- Da divergência jurisprudencial
+A falta de indicação do dispositivo legal sobre o qual recai a divergência inviabiliza a análise do dissídio. Nesse sentido: AgRg no REsp 1579618/PR, 3ª Turma, DJe de 01/07/2016; AgRg no RESP 1283930/SC, 4ª Turma, DJe de 14/06/2016; e, AgRg no REsp 1.346.588/DF, Corte Especial, DJe de 17/03/2014.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, consubstanciado na comprovação e reconhecimento de necessária compensação dos danos morais sofridos, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite previsto no art. 85, § 2º, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL CUMULADA COM PERDAS E DANOS. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. DISSÍDIO PREJUDICADO.
+1. Ação de resolução contratual cumulada com perdas e danos.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente.
+5. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. Agravo conhecido para não conhecer do recurso especial.
