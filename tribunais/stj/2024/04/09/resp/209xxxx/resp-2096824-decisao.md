@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto por DANIELA OLIVEIRA DOS SANTOS, com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurge contra acórdão do Tribunal de Justiça de São Paulo assim ementado (e-STJ, fl. 742):
+Responsabilidade civil Ação. Cerceamento de defesa ausente. Gravidez constatada após realização de cirurgia de esterilização (laqueadura tubária). Prova dos autos a revelar que o procedimento, por desídia da corré, não foi efetivamente realizado, ensejando nova gravidez, com o nascimento de filho não planejado. Dever de indenizar manifesto. Obrigação de custeio das despesas com os exames pré-natais e parto bem reconhecida. Aplicação, ao caso, ainda, do disposto no art. 950 do CC. Indenização por danos morais devida e corretamente arbitrada - Nascimento de um novo filho que não pode ser considerado um prejuízo indenizável - Condenação ao pagamento de pensão mensal afastada - Apelações das corrés providas em parte, não provido o recurso adesivo da autora.
+No recurso especial, a recorrente aponta, além de divergência jurisprudencial, violação dos arts. 1º e 2º da Lei n. 9.263/1996; e 944, 949, 950 e 951 do CC.
+Esclarece que se opõe ao acórdão por afastar o dever de pagamento da pensão mensal decorrente do nascimento de filho gerado em razão de erro médico - não realização de esterilização por laqueadura tubária.
+Afirma que ficou comprovado na perícia médica e confirmado pela própria recorrida Maria Rita Fernandes Cury que esta não realizou a laqueadura pretendida na recorrente, causando danos de difícil reparação.
+Frisa que tinha direito à realização do procedimento e que há previsão para tanto no regramento do planejamento familiar, portanto deve ocorrer a responsabilização dos demandados, com o pagamento de pensionamento mensal no valor de 1 (um) salário mínimo.
+Destaca que essa imposição decorre do dever de reparação, tendo em vista que o nascimento de mais um filho causou custos inesperados à insurgente. Requer o provimento do recurso especial (e-STJ, fls. 782-813).
+Contraminuta apresentada (e-STJ, fls. 820-827 e 829-849).
+Juízo positivo de admissibilidade do recurso especial (e-STJ, fls. 853-854).
+Brevemente relatado, decido.
+O teor dos arts. 1º e 2º da Lei n. 9.263/1996 não foi objeto de apreciação na segunda instância, carecendo do devido prequestionamento. A parte também não opôs embargos de declaração nem, consequentemente, alegou ofensa ao art. 1.022 do CPC em seu recurso especial, logo não cabe falar em prequestionamento ficto (Súmulas 292 e 356/STF).
+A título ilustrativo:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURADA. MATÉRIA DE NATUREZA CONSTITUCIONAL. QUESTÃO DECIDIDA PELO SUPREMO TRIBUNAL FEDERAL. REPERCUSSÃO GERAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se configura a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+2. Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte recorrente.
+3. Ressalte-se que a mera insatisfação com o conteúdo da decisão não enseja Embargos de Declaração. Esse não é o objetivo dos Aclaratórios, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas trazidos à tutela jurisdicional, no momento processual oportuno, conforme o art. 1.022 do CPC/2015.
+4. A Corte a quo analisou a controvérsia sob o aspecto exclusivamente constitucional, consistente no posicionamento pacificado pelo STF no julgamento do RE 729.107/DF (Tema 792).
+5. Vê-se, assim, que a análise de questão cujo deslinde reclama a apreciação de matéria de natureza constitucional é inviável no âmbito de cabimento do Recurso Especial, pois de competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Constituição Federal.
+6. Agravo Interno não provido.
+(AgInt no REsp n. 2.031.487/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/5/2023, DJe de 19/5/2023.)
+No tocante à fixação de pensão mensal, o acórdão entendeu não existir fundamento à sua imposição. Justificou que as provas dos autos realmente evidenciaram o erro médico consistente na não realização da esterilização, contudo esse fato não justificaria a fixação dessa parcela condenatória.
+O aresto entendeu que esse fato ocasionou a estipulação de danos morais (fixados no valor de R$ 100.000,00 - cem mil reais) e a responsabilidade pelos valores decorrentes de custeio de todas as despesas com o pré-natal e o parto do novo filho da autora, mas não ampararia o estabelecimento da pretendida pensão mensal.
+Destarte, ponderou o acórdão que o nascimento de um descendente, além de não poder ser considerado um prejuízo indenizável, ou seja, não se qualificar como um dano, poderia ensejar até mesmo prejuízo ao menor. Logo, não caberia a condenação ao pagamento do pensionamento mensal.
+Nota-se (e-STJ, fls. 752- 755):
+Assim, embora seja fato público e notório que o procedimento de esterilização por laqueadura tubária, e também por outros métodos, não tem 100% de eficácia e a recanalização é possível, acarretando em posterior gravidez, no caso a sua não realização, mormente em razão da desídia da médica envolvida no procedimento, caracteriza falha na prestação dos serviços médicos e enseja a devida reparação.
+Neste sentido a jurisprudência deste Tribunal, inclusive recentíssima:
+ ..
+Reconhecido, portanto, o dever de indenizar por parte das rés, correta a sentença ao tornar definitiva a tutela de urgência inicialmente concedida, que determinou o custeio de todas as despesas com o pré-natal e o parto do novo filho da autora.
+Inequívoca, ainda, a responsabilidade das rés pelos danos morais alegados nos autos.
+Como também consignado na sentença,
+embora o nascimento de um filho seja normalmente um motivo de alegria para a família, não se pode desconsiderar que, se tal ocorre de forma inesperada e sem qualquer planejamento, "isso certamente representará fonte de grande desgaste, estresse e preocupação para os genitores envolvidos, sobretudo quando não forem oriundos de família abastada.
+No caso, além da gravidez indesejada da autora ter representado potencial risco à vida da autora, já que esta última teve de se submeter a uma quarta cesária para dar à luz G. A. O., a demandante sofreu psicologicamente com o abandono de seu marido.
+Ademais, é notório que a gravidez indesejada da autora a impossibilitou de se recolocar no mercado de trabalho logo após o último parto, tornando ainda mais aflitiva sua situação. Tais acontecimentoscertamente superam (e muito) os meros aborrecimentos da vida cotidiano, e por isso devem ser indenizados" (fls. 543).
+Quanto ao valor da indenização, à ausência de critério legal objetivo para sua fixação, devem-se levar em consideração as condições econômicas das partes, as consequências do ato, a intensidade da culpa e a circunstância de haver ou não sido concedida, cumulativamente, indenização pelo dano patrimonial.
+Entende-se, portanto, que a indenização, fixada em R$ 100.000,00, é adequada e suficiente para compensar os danos morais sofridos pela autora, não cumprindo a redução pleiteada nos recursos das rés.
+Não pode subsistir, porém, a condenação ao pagamento de pensão mensal no valor correspondente a um salário mínimo, devida desde o nascimento do infante até a data em que vier a completar vinte e cinco anos de idade.
+Embora seja evidente que o aumento inesperado da prole gera impactos no orçamento da entidade familiar, motivo que ensejou a condenação das rés ao pagamento da referida pensão, o nascimento de um novo filho não pode ser considerado um prejuízo indenizável.
+Nem tudo na vida é planejado e há coisas que pegam as pessoas de surpresa, mas acabam trazendo enorme felicidade. Um filho não planejado não é um dano, mas um presente inesperado, que em um primeiro momento pode causar temor, mas que acaba se tornando um motivo de extrema alegria para toda a família.
+A manutenção da sentença neste ponto pode acabar por prejudicar o menor emocionalmente, pois se sentirá rejeitado e um peso para a genitora, que entendeu por bem ajuizar uma demanda para compensá-la pelo seu indesejado nascimento.
+Em suma, já mantida a condenação por danos morais, que inequivocamente ocorreram e são de natureza grave, fica reformada a sentença na parte que fixou pensão mensal, que fica definitivamente afastada.
+Essas ponderações foram extraídas da análise fático-probatória da causa, a viabilizar o óbice da Súmula 7/STJ, que incide sobre ambas as alíneas do permissivo constitucional.
+Ante o exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários em favor do advogado da parte ora recorrida em mais 1% (um por cento) adicionado ao montante já estabelecido na sentença, observada eventual gratuidade de justiça.
+Fiquem as partes cientif icadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ERRO MÉDICO. CARÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AUSÊNCIA DE BASE PARA A IMPOSIÇÃO DE PENSÃO MENSAL COM O NASCIMENTO DA CRIANÇA. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
