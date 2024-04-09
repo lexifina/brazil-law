@@ -1,0 +1,11 @@
+DECISÃO
+Em atenção ao despacho de fl. 37, a UNIÃO (fls. 40-44) alegou que "o anistiado fora notificado do processo de revisão de anistia, de acordo com a IN nº 2/2021 do MMFDH, já tendo inclusive apresentado defesa". Nesse sentido, pugnou pelo prosseguimento do feito executivo, apreciando-se a impugnação oposta.
+Não procede a afirmação de que a executada notificou o exequente com esteio na Instrução Normativa nº 2, de 29/9/2021, da Ministra de Estado da Mulher, da Família e dos Direitos Humanos. Em consulta ao referido procedimento revisional, por meio do link de acesso externo (https://tinyurl.com/5f8cs4fy), constata-se a única notificação ali feita deu-se no âmbito de antiga revisão deflagrada nos termos da Portaria nº 3.076, de 16/12/2019, da Ministra de Estado da Mulher, da Família e dos Direitos Humanos - vide a propósito os Documentos SEI nºs 1534792 e 1534794.
+Em suma, a executada não atendeu ao que lhe fora determinado, encontrando-se os autos do processo administrativo paralisados desde 25/4/2023, sem qualquer justificativa plausível.
+Nesse quadrante, a argumentação apresentada não permite que se suspenda a execução.
+Como a portaria de anistia objeto da presente execução permanece válida, a situação versada nos autos autoriza, portanto, a rejeição da preliminar de inexigibilidade do título judicial suscitada pela UNIÃO.
+Por fim, considerando que não foi apontado excesso de execução, e não remanescendo outra matéria de defesa, o caso é de improcedência da impugnação oposta pela executada.
+Ante o exposto, julgo improcedente a impugnação oposta pela UNIÃO, bem como homologo o cálculo exequendo no valor de R$ 1.164.971,04 (um milhão, cento e sessenta e quatro mil, novecentos e setenta e um reais e quatro centavos), e determino a expedição da requisição de pagamento, nos termos do art. 535, § 3º, do CPC, com destaque de honorários advocatícios contratuais, se for o caso.
+Em consonância com os limites e critérios previstos nos §§ 2º e 3º do art. 85 do CPC, condeno a executada ao pagamento de honorários advocatícios sucumbenciais fixados em 10% (dez por cento) sobre a parcela a qual sucumbiu (que, no caso, corresponde ao valor executado, tendo em vista que impugnou a execução como um todo com base na alegada inexigibilidade do título judicial).
+Publique-se. Intimem-se.
+EMENTA
