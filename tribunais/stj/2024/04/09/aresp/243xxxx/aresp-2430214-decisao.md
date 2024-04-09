@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por VILMAR FRIES contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO que inadmitiu recurso especial fundamentado no art. 105, inciso III, alíneas a e c, da Constituição da República, proposto contra o acórdão proferido na Apelação Cível n. 5003133-72.2018.4.04.7117/RS.
+Consta dos autos que, em 3/5/2023, o Tribunal a quo negou provimento ao recurso de apelação interposto pelo ora Agravante (fls. 493-497).
+Irresignado, o Agravante interpôs recurso especial (fls. 507-518), não admitido por aquele Tribunal Regional Federal (fls. 560-563).
+Neste agravo, sustenta, em síntese, que "o que se busca é tão somente uniformizar o entendimento, inclusive sumulado (Súmula n. 96 do TCU), no sentido de que a remuneração indireta é suficiente para o reconhecimento do período de aluno-aprendiz" (fl. 573), sem a necessid ade de comprovação de encomendas a terceiros. Alega que o caso não demanda reanálise probatória para apreciação da controvérsia.
+Requer seja recebido e provido o presente agravo, a fim de que seja provido o recurso especial.
+É o relatório.
+Decido.
+De início, verifica-se que o Tribunal de origem, ao apreciar a controvérsia dos autos, adotou como fundamento o entendimento do Supremo Tribunal Federal a respeito do tema, in verbis (fl. 496):
+Reputo que foi suficientemente demonstrado que o autor recebeu alimentação, hospedagem e uniforme. A alimentação pela prova documental e a hospedagem e uniforme pela prova testemunhal. A comercialização de eventual excedente de produção pelo instituto não restou suficientemente demonstrada, havendo apenas referências nesse sentido no depoimento da testemunha. Tampouco há qualquer informação sobre encomendas de terceiros.
+Embora a remuneração possa ser indireta, ela necessariamente deve representar uma contraprestação pela atividade laboral exercida, assim compreendida aquela que, no contexto das escolas técnicas públicas, envolva a execução do ofício para o qual recebia instrução, mediante encomendas de terceiros, comercialização de produtos ou prestação de serviço público.
+Nesse sentido é o entendimento do Supremo Tribunal Federal:
+CONTRADITÓRIO - PRESSUPOSTOS - LITÍGIO - ACUSAÇÃO. O contraditório, base maior do devido processo legal, requer, a teor do disposto no inciso LV do artigo 5º da Constituição Federal, litígio ou acusação, não alcançando os atos sequenciais alusivos ao registro de aposentadoria. PROVENTOS DA APOSENTADORIA - TEMPO DE SERVIÇO - ALUNO-APRENDIZ - COMPROVAÇÃO. O cômputo do tempo de serviço como aluno-aprendiz exige a demonstração da efetiva execução do ofício para o qual recebia instrução, mediante encomendas de terceiros (Mandado de Segurança 31.518/DF, Rel. Ministro Marco Aurélio, 07/02/2017).
+No caso, não havendo prova da onerosidade da atividade desenvolvida pelo aluno na instituição técnica, incabível o reconhecimento do tempo de serviço.
+Conforme demonstra o trecho transcrito, o acórdão recorrido está fundamentado no entendimento do Supremo Tribunal Federal acerca da matéria, no julgamento do Mandado de Segurança n. 31.518/DF, mas a parte ora agravante não interpôs, na origem, recurso extraordinário, o que atrai o óbice da Súmula n. 126/STJ, que assim dispõe: "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário".
+A propósito: AgInt no AREsp n. 1.675.745/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 4/9/2023, DJe de 8/9/2023; (AgInt no AREsp n. 2.298.562/PR, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 4/12/2023, DJe de 11/12/2023.
+Ante o exposto, CONHEÇO do agravo, para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PREVIDENCIÁRIO. FUNDAMENTO CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO. AUSÊNCIA. SÚMULA N. 126/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
