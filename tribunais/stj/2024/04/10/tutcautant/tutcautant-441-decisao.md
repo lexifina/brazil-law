@@ -1,0 +1,20 @@
+DECISÃO
+THAIS HELENA RAMOS DA SILVA (THAIS) protocolou pedido de tutela cautelar antecedente com o objetivo de atribuir efeito suspensivo a recurso especial que, na origem, ainda não passou pelo juízo de admissibilidade.
+Referido recurso especial volta-se contra contra acórdão do Tribunal de Justiça de São Paulo, da relatoria da Desa. LIDIA CONCEIÇÃO, assim ementado:
+AGRAVO DE INSTRUMENTO. Ação de execução de título extrajudicial. Embargos à arrematação. Rejeição. Artigo 278 do CPC. O pedido de reavaliação do bem penhorado deverá ser feito antes da sua adjudicação ou alienação, sendo inviável afastar o reconhecimento da ocorrência de preclusão quando já ultimado o ato expropriatório, isto é, após a arrematação. Além disso, ainda que se entendesse pela não preclusão do tema, não houve demonstração de relevante flutuação dos índices de mercado no período observado para imóveis com o mesmo estado de conservação do imóvel leiloado, assim, não comprovada alteração dos elementos de precificação do bem, capazes de justificar nova avaliação. Correção monetária do valor do bem já aplicada e constante do edital. Arrematação perfeita, acabada e irretratável. Entendimentos do C. STJ. Decisão mantida, revogada a tutela antecipada recursal anteriormente concedida. Recurso desprovido (e-STJ, fl. 68).
+Alegou, em síntese, que existe alta probabilidade de provimento do recurso especial interposto, no qual discutidos, entre outros temas, a nulidade da arrematação por falta de avaliação atualizada do imóvel e consequente caracterização de preço vil. Destacou, também, o risco de dano irreparável ou de difícil reparação consistente na iminente imissão do arrematante na posse do bem.
+É o relatório.
+DECIDO.
+Pretende THAIS que seja atribuído efeito suspensivo a recurso especial que nem sequer foi objeto de juízo de admissibilidade, conforme se verifica do exame dos autos e foi acima referido.
+Ocorre, porém, que ao Tribunal ad quem não compete atribuir efeito suspensivo a recurso ainda não examinado na origem, vindo à baila a aplicação da Súmula 634, do Supremo Tribunal Federal, de seguinte teor:
+Súmula 634 - Não compete ao Supremo Tribunal Federal conceder medida cautelar para dar efeito suspensivo a recurso extraordinário que ainda não foi objeto de juízo de admissibilidade na origem.
+Somente em situações excepcionais é possível a concessão de efeito suspensivo a recurso especial ainda não admitido pelo Tribunal de origem e, mesmo assim, apenas quando demonstrada sua probabilidade de êxito e o risco de perecimento de direito ou teratologia no acórdão impugnado, o que não se vislumbra, de plano.
+Segundo se infere da própria ementa do acórdão recorrido, a ausência de uma avaliação atualizada do bem arrematado não teria implicado nenhum prejuízo, porque não houve oscilação de preços no mercado imobiliário de modo que, em princípio, a pretensão deduzida no recurso especial não poderá ser acolhida sem revisão de fatos e provas, o que veda a Súmula nºs 7 do STJ.
+Demais disso não há falar em risco de prejuízo irreversível ou de difícil reparação pois eventual imissão na posse, mesmo se vier a ocorrer, poderá ser revertida em caso de provimento do recurso especial.
+Nessas condições, estando ausentes os pressupostos, e não evidenciada nenhuma excepcionalidade capaz de autorizar a superação da Súmula nº 634 do STF, NÃO CONHEÇO DO PEDIDO.
+Em consequência, EXTINGO O PROCESSO, a teor do disposto no art. 485, IV do CPC e art. 34, inciso XVIII, a, do Regimento Interno do Superior Tribunal de Justiça.
+Comunique-se o inteiro teor desta decisão ao Juízo de 1º grau e também ao Exmo. Sr. Desembargador Presidente do TJSP a quem incumbe o juízo primeiro de admissibilidade do recurso especial interposto.
+Advirta-se, desde já, que eventual recurso contra esta decisão estará sujeito a multa (arts. 1.021, § 4º, e 1.026, § 2º, do NCPC).
+Publique-se
+EMENTA
+PEDIDO DE TUTELA CAUTELAR ANTECEDENTE. ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL CUJO JUÍZO DE ADMISSIBILIDADE ENCONTRA-SE PENDENTE NO TRIBUNAL DE ORIGEM. SÚMULA Nº 634 DO STF. EXCEPCIONALIDADE NÃO VERIFICADA. IMPOSSIBILIDADE DE SE CONCEDER DO PEDIDO.
