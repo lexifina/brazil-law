@@ -1,0 +1,38 @@
+DECISÃO
+JOSE OLIMPIO DOS SANTOS alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais na Apelação Criminal n. 1.0000.23.157548-1/001.
+A defesa alega ser indevida a constrição cautelar do paciente, condenado pela prática do delito de homicídio qualificado, por reputar carente de fundamentação idônea o decreto preventivo e em razão de ausência de contemporaneidade com os fatos. Destaca que o réu foi posto em liberdade antes do julgamento pelo Conselho de Sentença e que, depois da condenação, obteve o direito de recorrer solto.
+A liminar foi por mim indeferida e as informações foram prestadas.
+O Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+Segundo os autos, o insurgente foi condenado a 16 anos de reclusão, por incursão no art. 121, § 2º, II, III e IV, do CP. Na ocasião, foi-lhe garantido o direito de permanecer em liberdade.
+Defesa e acusação apelaram à Corte estadual, que deu provimento ao recurso ministerial e, ao restaurar a constrição do paciente, assentou o que se segue (fls. 73-74, grifei):
+É necessário restringir a liberdade do réu, por meio da medida cautelar mais onerosa, indispensável para a garantia da ordem pública, tendo em vista que a gravidade concreta dos fatos supera aquela inerente ao crime.
+Nesse sentido, ressalta-se que, consoante veredicto do Conselho de Sentença, José Olímpio e os outros dois corréus, que são seus familiares, ceifaram a vida da vítima porque suspeitavam que ela perpetrou crimes no bairro em que residiam. O ofendido foi perseguido pelos agentes em via pública e executado por meio de diversos golpes de faca e barra de ferro, sendo abandonado o corpo no local das agressões, ocasião em que os acusados saíram anunciando a morte que acabara que ocorrer.
+Como se não bastasse, a mãe da vítima relatou em plenário que recebeu ameaças de familiares de José Olímpio, que disseram que "fariam do mesmo jeito" (sic) como ocorreu com seu filho caso ela continuasse a buscar a Justiça. A genitora do ofendido ressaltou seu grande temor de todos os acusados, sobretudo porque evita passar em frente às residências deles e somente não se mudou do bairro porque não tem condições financeiras para isso.
+A segregação preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Deve, ainda, ficar concretamente evidenciado, na forma do art. 282, § 6º, do CPP, que, presentes os motivos que autorizam a constrição provisória, não é satisfatória e adequada a sua substituição por outra(s) medida(s) cautelar(es) menos invasivas à liberdade.
+No caso, as circunstâncias elencadas pela Corte estadual indicam a presença de motivação idônea, baseada em elementos concretos dos autos, para justificar a custódia preventiva do réu, diante do modus operandi empregado na ação delituosa - homicídio cometido em concurso de pessoas, motivado por desconfianças de que a vítima haveria perpetrado crimes no bairro em que residiam -, e dos relatos de que a mãe da vítima recebeu ameaças perpetradas pela família do insurgente e de que ela sente medo de todos os acusados, tudo a evidenciar a periculosidade do acusado.
+No caso, então, aplicável a compreensão de que "a gravidade concreta dos crimes, evidenciada pelo seu modus operandi, é reveladora do risco de reiteração delitiva, ante a periculosidade do suspeito" (AgRg no RHC n. 161.529/MG, relator Ministro Rogerio Schietti, Sexta Turma, DJe de 19/5/2022).
+Quanto à apontada falta de contemporaneidade, vê-se que não foram opostos embargos de declaração pela defesa e que o assunto não foi debatido pelo Tribunal de origem.
+Ainda que assim não fosse, os relatos da Corte estadual de que "a mãe da vítima relatou em plenário que recebeu ameaças de familiares de José Olímpio, que disseram que "fariam do mesmo jeito" (sic) como ocorreu com seu filho caso ela continuasse a buscar a Justiça" e de que ela "ressaltou seu grande temor de todos os acusados, sobretudo porque evita passar em frente às residências deles e somente não se mudou do bairro porque não tem condições financeiras para isso" (fl. 74), justificam o restabelecimento da constrição cautelar.
+A propósito:
+ ..
+IV - No mais, no que se refere à aventada extemporaneidade da medida constritiva, tenho que a prisão cautelar foi determinada, considerando a necessidade de sua imposição no momento da decretação, haja vista a gravidade da conduta e a periculosidade do Agravante, mormente considerando que há nos autos indicativos de ameaça a testemunhas; não havendo que se falar em ausência de contemporaneidade da medida.
+ ..
+(AgRg no HC n. 852.653/PA, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 27/11/2023, DJe de 1/12/2023.)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. INDICAÇÃO NECESSÁRIA. FUNDAMENTAÇÃO SUFICIENTE. RECURSO ORDINÁRIO NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. O Juiz de primeira instância apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para decretar a prisão preventiva, para a garantia da ordem pública, ao salientar a gravidade concreta da conduta, extraída do modus operandi da conduta, e o fato de o recorrente ser, em tese, membro de organização criminosa ou milícia.
+Consignou a necessidade da medida extrema, ainda, para a conveniência da instrução criminal, pois "sobrevieram relatos de ameaças a testemunhas por parte dos acusados, tendo uma delas sido assassinada no decorrer das investigações".
+3. Dadas as apontadas circunstâncias do fato e as condições pessoais do acusado, não se mostra adequada e suficiente a substituição da prisão preventiva por medidas a ela alternativas (art. 282 c/c art. 319 do CPP).
+4. Recurso ordinário não provido.
+(RHC n. 160.895/PA, relator Ministro Sebastião Reis Júnior, relator para acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/10/2022, DJe de 4/11/2022.)
+ ..
+2. In casu, após ser beneficiado com a substituição da prisão preventiva por cautelares diversas, por força de liminar concedida pelo Tribunal a quo em prévio writ, o réu teve seu encarceramento ante tempus novamente decretado, diante da notícia de que, junto com um corréu, estaria coagindo testemunhas do processo para modificarem suas versões a serem apresentadas em juízo, bem como as ameaçando.
+Destacou-se, na mesma oportunidade, que o acusado é integrante da facção criminosa denominada PCC - fato que não constou do primeiro decreto -, a evidenciar sua periculosidade.
+ ..
+(RHC n. 126.419/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 8/9/2020, DJe de 14/9/2020.)
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
