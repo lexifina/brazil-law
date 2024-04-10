@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por Selmir Paulo Bodanese em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Autos nº 5010591-53.2024.8.24.0000/SC).
+O habeas corpus apresentado pela defesa foi denegado por meio de acórdão assim ementado (e-STJ fl. 78):
+HABEAS CORPUS. OPERAÇÃO "EMERGÊNCIA". AÇÃO PENAL QUE APURA CRIMES DEORGANIZAÇÃO CRIMINOSA, CORRUPÇÃO PASSIVA, INSERÇÃO DE DADOS FALSOS EMSISTEMA DE INFORMAÇÃO E CORRUPÇÃO ATIVA. AUDIÊNCIA DE INSTRUÇÃO. ALEGADO PROTAGONISMO DO JULGADOR NA COLHEITA DO INTERROGATÓRIO. QUEBRA DA PARCIALIDADE. NÃO CONHECIMENTO. PACIENTE SOLTO. AFRONTA AO DIREITO DE LOCOMOÇÃO NÃO DEMONSTRADO, NEM MESMO REMOTAMENTE. DISCUSSÃO SOBRE A CONDUÇÃO DOS INTERROGATÓRIOS PELO MAGISTRADO. UTILIZAÇÃO DESTA AÇÃO CONSTITUCIONAL COMO SUCEDÂNEO DA CORREIÇÃO PARCIAL. MANIFESTA ILEGALIDADE NÃO EVIDENCIADA A PONTO DE ENSEJAR PROVIDÊNCIA DE OFÍCIO. INTERROGATÓRIO CONDUZIDO À LUZ DO REGRAMENTO PRÓPRIO (CPP, ARTS. 186 A 188, COM REDAÇÃODADA PELA LEI 10.792/2003). POSTURA DO JULGADOR E DEMORA NO EXAURIMENTO DA SEGUNDA PARTE DO INTERROGATÓRIO QUE NÃO PERMITEM, POR SI SÓS, CONFIGURAR QUEBRA DA PARCIALIDADE. INCIDENTE DE SUSPEIÇÃO NEM SEQUER INSTAURADO PELA DEFESA. PRECEDENTES INVOCADOS NA IMPETRAÇÃO QUE NÃO CONDIZEM COM AS CIRCUNSTÂNCIAS DO CASO EXAMINADO. AÇÃO NÃO CONHECIDA.
+A defesa alega, em síntese, "error in procedendo".
+Requer, liminar e definitivamente, o deferimento da ordem para que sejam anulados todos os interrogatórios dos aludidos processos.
+É o relatório.
+Decido.
+A análise das razões recursais indica o mero revolvimento da argumentação lançada anteriormente, a indicar a incidência do óbice previsto na Súmula 182 do STJ (É dever do agravante infirmar as razões da decisão agravada. Inadmissível o recurso quando não ataca os argumentos em que se embasou a decisão impugnada.)
+Ademais, para conhecer da controvérsia apresentada neste writ, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com a estreita via do habeas corpus.
+Além disso, a concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que não se verifica de plano na hipótese dos autos, conforme se obtém da fundamentação lançada na origem (e-STJ fls. 69-71):
+Ao partir do pressuposto de que o ora paciente se encontra solto e não há, conforme consulta ao andamento processual, iminência de que a sua liberdade seja privada por eventual ato da autoridade impetrada, nem de longe a causa de pedir aventada nesta ação constitucional reflete afronta ao direito de ir e vir do ora paciente.
+(..)
+A tese da defesa enfatiza que o juiz, no momento da inquirição e sob o sistema acusatório consagrado pela Constituição Federal, deveria ater-se a uma função supletiva à acusação e à defesa, mormente pela alteração trazida pela Lei 11.690/2008, que o teria colocado "em posição separada das partes, pois dele é exigido que não tenha compromisso com nenhuma das vertentes de prova, para que se possa alcançar um julgamento minimamente justo e equidistante". Acrescentou que a esse procedimento deu-se o nome de "cross examination".
+No entanto, todo o esforço defensivo vincula-se à regra do art. 212 do CPP, com a redação dada pela Lei 11.690/2008, que cuida do modo de inquirição das testemunhas.
+Mas o ponto central da discussão e do qual decorre o alegado protagonismo do magistrado que teria incorrido na aventada parcialidade, diz respeito à condução do interrogatório, cuja regulamentação é tratada nos arts. 186 a 188, ambos do CPP, com redação conferida pela Lei 10.792/2003, da qual a impetração passou ao largo.
+(..)
+A compreensão da defesa, ao afirmar que o togado deve atuar "em posição separada das partes, pois dele é exigido que não tenha compromisso com nenhuma das vertentes de prova, para que se possa alcançar um julgamento minimamente justo e equidistante", pretende não apenas colocar o magistrado como peça dispensável desse importante momento processual, como sugere uma certa parcialidade do juiz como parte do processo, o que não pode e não deve ser admitido.
+De fato, inexiste previsão legal para a aplicação da sistemática prevista no art. 212 do CPP, com a redação dada pela Lei 11.690/2008, ao interrogatório que, como ressaltado pela origem, é regido por sistemática processual própria, prevista nos arts. 186 a 188, ambos do CPP.
+A tese de condução parcial, notadamente quando desacompanhada do necessário questionamento via exceção, esbarra na em inviável dilação probatória no "writ".
+Ante o exposto, não conheço do presente recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
