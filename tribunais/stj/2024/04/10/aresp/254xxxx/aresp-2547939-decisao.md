@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por A J F S e outro contra decisão que negou admissibilidade a recurso contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO assim ementado (e-STJ fls. 1763/1764):
+AGRAVO INTERNO - RECURSO DE APELAÇÃO - AÇÃO ORDINÁRIA DE NULIDADE DE ATO JURÍDICO POST MORTEM COM PEDIDO DE PENSIONAMENTO C/C PEDIDO DE TUTELA ANTECIPADA - PRELIMINAR DE NULIDADE DO JULGAMENTO MONOCRÁTICO - NULIDADE INEXISTENTE -VÍCIO QUE, SE EXISTISSE, SERIA SANADO QUANDO DO JULGAMENTO AGRAVO INTERNO PELO COLEGIADO - MÉRITO - PROCESSO ADMINISTRATIVO DISCIPLINAR - POLICIAL MILITAR - AGREGAÇÃO POR DOIS ANOS - NÃO COMPLEMENTAÇÃO - REDISCUSSÃO DOS FUNDAMENTOS- AGRAVO INTERNO DESPROVIDO.
+1 - É viável o julgamento monocrático quando o Recurso se enquadra nas hipóteses elencadas no art. 932 do CPC e na Súmula 568 do STJ.
+2 - Ainda que não fosse cabível o julgamento monocrático da matéria, não se caracterizaria a violação ao princípio da colegialidade, pois qualquer irregularidade pode ser superada com a análise colegiada em sede de agravo interno.
+3 - De acordo com o artigo 150, inciso III, da Lei nº. Lei Complementar nº. 555/2014, "a passagem do militar estadual à situação de inatividade, mediante reforma, efetua-se ex officio, quando estiver agregado por mais de 02 (dois) anos ininterruptos, por ter sido julgado incapaz temporariamente, mediante homologação da perícia médica estadual, ainda que se trate de moléstia curável". No caso, o policial militar não esteve agregado pelo período de dois anos quando da instauração do processo disciplinar, de modo que a sua reforma não subsiste por ausência de fundamento válido, sendo contrária à lei.
+4 - Se as razões recursais nada de novo acrescentam, o agravo interno deve ser desprovido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1807/1849 ).
+Interposto recurso especial, com fundamento no artigo 105, III, "a", da Constituição Federal, alegaram a violação aos artigos 489, §1º, V, e 1.022, I e II, do CPC/2015. Afirmam, em síntese, que (e-STJ fl. 1859/1860):
+Como dito, as recorrentes objetivam a declaração de nulidade do ato administrativo disciplinar de Portaria nº 266/QCG/DGP/PMMT, com a consequente conversão dos vencimentos em pensão post mortem na condição de dependentes, com a restituição de todos os direitos obstados à época do desligamento do "de cujus" do cargo público que ocupava, com o recebimento dos vencimentos, vencidos e vincendos na modalidade de retroativos.
+Desta forma, sustentaram na apelação e agravo, que o "de cujus" na condição de servidor público militar ativo possuía tempo superior a 02 anos de agregado no ato de sua exclusão do cargo público, dando-lhe o direito adquirido de ser reformado nos termos do art. 150, III, da LC 555/2014.
+Contudo, ao contrário foi demitido das fileiras milicianas as margens da legalidade.
+Ocorre que o Tribunal, mediante flagrante equívoco, entendeu que: "(..) No caso, o policial militar não esteve agregado pelo período de dois anos quando da instauração do processo disciplinar, de modo que a sua reforma não subsiste por ausência de fundamento válido, sendo contrária à lei."
+Com isso, desproveu os recursos.
+ão obstante, a contradição/omissão é evidente, atraindo a negativa de vigência dos dispositivos de lei federal alinhavados.
+Acrescentam que (e-STJ fl. 1862):
+Portanto, entre o ato de agregação e demissão transcorreram tempo superior a 02 anos, contrariando o que aduziu o Acórdão impugnado.
+Sendo assim, 2 anos é o período a se computar para efeitos de reforma, nos contornos do art. 150, III, da Lei Complementar Estadual regente nº. 555/2014 (Estatuto dos Militares Estaduais):
+Art. 150 - A passagem do militar estadual à situação de inatividade, mediante reforma, efetua-se ex officio, quando:
+(..)
+III - estiver agregado por mais de 02 (dois) anos ininterruptos por ter sido julgado incapaz temporariamente, mediante homologação da perícia médica estadual, ainda que se trate de moléstia curável; (grifei)Isto porque, mesmo após a instauração do feito administrativo demissório, o "de cujus" ostentava a condição de militar da ativa agregado.
+Em juízo de admissibilidade, o Tribunal de origem inadmitiu o recurso especial, pois ausentes as violações aos artigos 489 e 1.022 do CPC/2015 (e-STJ fl. 1892/1900).
+Interposição de agravo (e-STJ fls. 1892/1900).
+Contraminuta (e-STJ fls. 1907/1917).
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Preenchidos os pressupostos recursais do agravo, passo ao exame do recurso especial.
+As agravantes defendem a negativa de prestação jurisdicional por entender que, a despeito da oposição de embargos de declaração, o órgão colegiado não teria observado o transcurso de de lapso superior a dois anos entre o ato de agregação e a demissão do militar. Acrescentam que o de cujus tinha o direito adquirido de se ser reformado, nos termos do artigo 150, III, da Lei Complementar estadual 555/2014.
+Ocorre que o órgão julgador assim se manifestou quanto à controvérsia (e-STJ fls. 1754/1756, grifos nossos):
+Por outro lado, as apelantes afirmam que pouco importa o fato de ser alienado mental ou a regularidade do processo demissório, estes não são o cerne da controvérsia. O que se discute nos autos é que o "de cujus" tinha atingido o direito adquirido para ser reformado/aposentado por estar agregado por tempo superior a 2 anos na instituição, conforme lei regente. De outro lado, era incapacitado para o serviço ativo em razão de transtornos psiquiátricos, o que não se mistura com alienação mental para responder o processo administrativo.
+ ..
+As apelantes asseveram que houve violação aos seguintes dispositivos da Lei Complementar nº. 555/2014:
+Art. 150. A passagem do militar estadual à situação de inatividade, mediante reforma, efetua-se ex officio, quando:
+ .. .
+III - estiver agregado por mais de 02 (dois) anos ininterruptos por ter sido julgado incapaz temporariamente, mediante homologação da perícia médica estadual, ainda que se trate de moléstia curável;
+Art. 152. A incapacidade definitiva pode sobrevir em consequência de:
+ .. .
+IV - acidente, moléstia, doença grave, contagiosa ou incurável, especificada em lei, ou enfermidade adquirida sem relação de causa e efeito com o serviço.
+§ 1º A incapacidade será analisada pela perícia médica estadual.
+ .. .
+§ 3º O militar da ativa, julgado incapaz definitivamente para o serviço militar, por um dos motivos constantes do inciso IV deste artigo, será reformado:
+I - com subsídio proporcional aos anos de serviço;
+II - com subsídio integral do posto ou da graduação, desde que, com qualquer tempo de serviço, seja considerado impossibilitado total e permanentemente para qualquer trabalho, nos casos das moléstias e doenças graves, contagiosas ou incuráveis, adquiridas posteriormente ao ingresso no serviço público, tais como tuberculose ativa, alienação mental, neoplasia maligna, cegueira, hanseníase, cardiopatia grave, doença de Parkinson, paralisia irreversível e incapacitante, expondiloartrose anquilorante, nefropatia grave, estado avançado do mal de Paget, osteíte deformante, Síndrome da Imunodeficiência Adquirida (SIDA), surdez permanente, anomalia da fala e outras que alei indicar com base na medicina especializada. Destaquei .
+Ocorre que, analisando detidamente os autos do Conselho de Disciplina instaurado em desfavor do Sd PM Anderson Alves de Souza, por meio da Portaria 018/CD/CorregPM, datada de 7-7-2014, verifica-se que, em 13 de janeiro de 2014, o Coordenador de Movimento, Monitoramento e Controle de Efetivo da PMMT, encaminhou cópia da portaria de agregação por licença para tratamento de saúde do referido militar, conforme artigo 136, §1º, III, alínea "c", da lei Complementar nº. 231, de 15 de dezembro de 2005, hoje substituída pela Lei Complementar nº. 555, de 29 de dezembro de 2014, tendo o fulcro no artigo 171, §1º, inciso IIII, alínea "b". Informou, ainda, que, quanto aos procedimentos relativos à aposentadoria, informo-vos que o r. militar não possui tempo, conforme art. 150, inciso III, da Lei Complementar nº. 555, de 29 de dezembro de 2014 (id. 147572178 - pág. 2).
+Consta também da decisão de Solução de Conselho de Disciplina, que decidiu que o militar era culpado das acusações que lhe foram impostas, que Na defesa final, o Defensor Dativo solicitou que fosse levado em consideração o histórico mental do disciplinado, deferindo pela reforma disciplinar, todavia, o disciplinado até a instauração do presente Conselho de Disciplina, não possuía tempo necessário para o pleito, posto que atingiu tal prazo somente em 03/05/2016, quando já figurava como acusado no presente processo disciplinar (id. 147572180 - pág. 408).
+Desse modo, ao contrário do afirmado pelas recorrentes, o Sr. Anderson não tinha direito adquirido à aposentadoria, tendo em vista que na época da instauração do processo disciplinar não tinha completado o prazo previsto na lei estadual.
+Além do mais, ainda que o de cujus estivesse na condição de reformado por invalidez, teria sido cassada a aposentadoria, diante da gravidade da infração cometida quando da atividade.
+Com efeito, não há que se falar em negativa de prestação jurisdicional, nem em vício, quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte. Na espécie, ao contrário da tese defendida pelos recorrentes, o Tribunal local entendeu que" ao contrário do afirmado pelas recorrentes, o Sr. Anderson não tinha direito adquirido à aposentadoria, tendo em vista que na época da instauração do processo disciplinar não tinha completado o prazo previsto na lei estadual" (e-STJ fl. 1756). Acrescenta-se que o colegiado local expressamente consignou que, ainda que o militar estivesse reformado por invalidez, a a gravidade da infração cometida quando na ativa autorizaria a cassação da aposentadoria.
+Ademais, o magistrado não está obrigado a se manifestar sobre todas as teses invocadas, bastando que decida de forma motivada a questão. Nesse sentido os seguintes julgados desta Corte Superior:
+CABIMENTO DE JUROS DE MORA NO PERÍODO COMPREENDIDO ENTRE A DATA DA CONTA DE LIQUIDAÇÃO E DA EXPEDIÇÃO DA REQUISIÇÃO DE PEQUENO VALOR OU DO PRECATÓRIO. REPERCUSSÃO GERAL. RE 579.431/RS. JUÍZO DE RETRATAÇÃO. ART. 1.030, II, DO CPC/2015.
+ ..
+2. Depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou das questões suscitadas, resolvendo de modo integral a controvérsia posta. Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte. Assim, não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC/73.
+ .. .
+6. Recurso Especial não provido em juízo de retratação (art. 1.030, II, do CPC/2015). (REsp 1589202/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/11/2017, DJe 19/12/2017)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENERGIA ELÉTRICA. ANULAÇÃO DE DÉBITO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REQUISITOS PARA A DETERMINAÇÃO DA INVERSÃO DO ÔNUS DA PROVA. QUESTÃO DECIDIDA COM BASE NOS ELEMENTOS FÁTICOS DO CASO. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Não há falar, na hipótese, em violação ao art. 1.022 do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão dos Embargos Declaratórios apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+ ..
+V. Agravo interno improvido. (AgInt no REsp 1637988/MG, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 16/03/2017, DJe 27/03/2017)
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+,PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. MILITAR. PROCESSO ADMINISTRATIVO DISCIPLINAR. AGREGAÇÃO. AUSÊNCIA DE VIOLAÇÃO AOS ARTIGOS 489 E 1.022 DO CPC/2015. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
