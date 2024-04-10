@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial com fundamento no art. 105, III, da Constituição Federal.
+Na origem, a parte autora ajuizou ação ordinária com valor da causa atribuído em R$ 423.576,00 (quatrocentos e vinte e três mil e quinhentos e setenta e seis reais), objetivando a declaração de nulidade do ato administrativo que culminou na anulação do concurso público para provimento do cargo de "Piloto de Aeronave", regido pelo Edital n. 01/2018, promovido pela Secretaria de Estado de Administração e dos Recursos Humanos do Estado do Rio Grande do Norte.
+Após sentença que julgou improcedente o pedido, o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE negou provimento à apelação da parte autora.
+O referido acórdão foi assim ementado, in verbis:
+EMENTA: DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO. CONCURSO PÚBLICO PARA O CARGO DE PILOTO DE AERONAVE ANULADO PELO ESTADO DO RIO GRANDE DO NORTE. ALEGAÇÃO DE IRREGULARIDADE DA ATUAÇÃO DO MINISTÉRIO PÚBLICO NA EDIÇÃO DE RECOMENDAÇÃO, ANTE A SUPOSTA ATUAÇÃO COMO ÓRGÃO CONSULTOR DO ENTE FEDERADO. REJEIÇÃO. ATUAÇÃO DO PARQUET EM DEFESA DE INTERESSE DIFUSO. OBSERVÂNCIA DOS DITAMES CONTIDOS NO ARTIGO 27, DA LEI FEDERAL Nº 8.625/1995 E NO ARTIGO 69, DA LEI COMPLEMENTAR ESTADUAL Nº 141/1996. ADMINISTRAÇÃO PÚBLICA. POSSIBILIDADE DE REVISÃO DE SEUS ATOS. CONCURSO NÃO HOMOLOGADO. INEXISTÊNCIA DE DIREITO SUBJETIVO À NOMEAÇÃO. SENTENÇA QUE DEVE SER MANTIDA. CONHECIMENTO E DESPROVIMENTO DO RECURSO.
+Os embargos de declaração opostos foram rejeitados.
+Contra a decisão cuja ementa se encontra acima transcrita, foi interposto o presente recurso especial, apontando violação dos arts. 489 e 1.022 do CPC; do art. 22, IV, da LRF; do art. 53 da Lei n. 9.784/1999.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Em relação à indicada violação do art. 1.022 do CPC/2015, pelo Tribunal a quo, não se vislumbra a alegada omissão da questão jurídica apresentada pelo recorrente.
+Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+Descaracterizada a alegada omissão, tem-se de rigor o afastamento da suposta violação do art. 1.022 do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. INOCORRÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. PREENCHIMENTO DOS REQUISITOS DA PRISÃO PREVENTIVA. ERRO JUDICIÁRIO NÃO CARACTERIZADO. POSTERIOR ABSOLVIÇÃO POR AUSÊNCIA DE PROVAS. DANOS MORAIS NÃO CONFIGURADOS. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+2. Referente ao art. 535, II do CPC/1973, inexiste a violação apontada. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+(..)
+4. Agravo Interno do Particular a que se nega provimento.
+(AgInt no AREsp 941.782/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 21/09/2020, DJe 24/09/2020.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. SERVIDORES, ANUÊNIOS. BASE DE CÁLCULO REAJUSTADA PELO ÍNDICE 28,86%. RECONHECIMENTO PELA CORTE DE ORIGEM. ÔNUS DE SUCUMBÊNCIA - SÚMULA 7 DO STJ.
+1. Inexiste contrariedade ao art. 535, II, do CPC/1973, quando a Corte local decide fundamentadamente todas as questões postas ao seu exame. Ademais, não se deve confundir decisão contrária aos interesses da parte com ausência de prestação jurisdicional.
+(..)
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1385196/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 31/08/2020, DJe 10/09/2020.)
+No mais, alega o Recorrente que manter a anulação do concurso público configuraria flagrante violação ao art. 22, IV, da LRF, "pois esse dispositivo colocou, a salvo da proibição, os cargos voltados ao desempenho das funções de segurança, vagos por causa das aposentadorias dos seus antigos exercentes" (fl. 998), os quais passariam a ser ocupados por servidores investidos em cargos de provimento em comissão.
+Ocorre que, quanto ao ponto, a Corte de origem deixa consignado que o certame foi anulado antes de sua homologação em razão da "existência de requisitos não previstos em lei, conforme expõe a Recomendação nº 001/2019, expedida em 05 de abril de 2019, pela 14ª Promotoria de Justiça da Comarca de Natal", o que poderia acarretar em direcionamento ilegal do Edital.
+Nesse contexto, mostra-se inviável, em sede de recurso especial, analisar o acerto ou erro da Corte a quo quanto ao ponto, uma vez que a aludida providência demandaria indevida incursão no conjunto fático-probatório dos autos, o que é vedado nesta instância especial, nos termos da Súmula n. 7/STJ.
+Ademais, quanto à alegada contrariedade a dispositivos da LRF, verifica-se que a referida questão não é suficiente para rever a sorte do julgado, dado que o aludido ponto, como ressaltado anteriormente, não foi considerado para determinar a anulação do certame, tendo o Tribunal a quo, inclusive, consignado que "o suposto reconhecimento de uma inconstitucionalidade não valida outra situação inconstitucional como sendo legal" (fl. 932). Incide, quanto ao ponto, a Súmula n. 284/STF.
+No mais, é cediço que "o direito à nomeação no prazo de validade do concurso pressupõe a higidez do certame, hipótese diversa da que ocorre quando anulado o concurso" (REsp n. 910.260/RN, relator Ministro Luiz Fux, Primeira Turma, julgado em 20/11/2008, DJe de 18/12/2008).
+Desse modo, não há que se falar em direito adquirido à nomeação, uma vez que o certame foi anulado pela Administração Pública, dado seu poder de autotutela.
+Dessa forma, aplica-se, à espécie, o enunciado da Súmula n. 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com esteio no art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do recurso especial para, nessa parte, negar-lhe provimento.
+Com fundamento no art. 85, § 11, do CPC/2015, majoro a condenação da verba honorária fixada pelo Tribunal de origem em 1 ponto percentual, sopesado, para a definição do quantum ora aplicado, o trabalho adicional realizado pelos advogados.
+Publique-se. Intimem-se.
+EMENTA
