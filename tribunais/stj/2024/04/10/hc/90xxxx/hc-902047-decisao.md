@@ -1,0 +1,10 @@
+DECISÃO
+LUCAS ALVES ALVIM alega sofrer coação ilegal em decorrência de acórdão proferido pela Corte local na Apelação n. 1503640-40.2021.8.26.0344
+A defesa pretende a revisão da dosimetria, porque "destoa significativamente da pena aplicada a Cesar Augusto da Silva", réu "beneficiado com a desclassificação da conduta para um delito menos grave" (fl. 4). Busca a "equiparação  da pena do paciente  à pena mais branda aplicada a Cesar Augusto da Silva" (fl. 5).
+Decido.
+A parte já formulou o mesmo pedido no HC n. 892-266/RJ quando ficou consignado que, nos moldes de sua argumentação (invocação do princípio da isonomia), o STJ não tem competência para analisar o direito de extensão de decisão benéfica a Cesar Augusto da Silva, prolatada pelo Tribunal de Justiça. Nesse sentido, mutatis mutandis: RHC n. 70.232/RJ, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 12/5/2017; HC n. 71.162/RJ, Rel. Ministro Jorge Mussi, 5ª T., DJe 1º/2/2017; HC n. 20.706/TO, Rel. Ministro Vicente Leal, 6ª T., DJ 19/8/2002.
+Pedir de forma adequada em uma petição fundamentada é crucial para definir a lide e seus contornos. Na origem, o advogado não requereu ao Tribunal de Justiça, com fulcro no art. 580 do CPP, o direito de extensão (o que demandava a delimitação objetiva e analítica da identidade entre os corréus e a motivação objetiva do acórdão benéfico a apenas um deles, extensível a ambos).
+O advogado também não indicou a esta Corte outros argumentos (além do direito de extensão, com lastro no princípio da isonomia) que permitam o exame dos pedidos de redução de sua pena ou a desclassificação de conduta, o que impede a análise do habeas corpus, ante sua deficiência. Não é do julgador (e sim da parte) a atribuição de encontrar pretensos erros do acórdão da apelação e fundamentos que justificariam a pretensão.
+À vista do exposto, seja pela reiteração (HC n. 892.266/SP) ou pela deficiência da petição inicial (ausência de fundamentos jurídicos relacionados a erro na dosimetria), indefiro liminarmente o habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
