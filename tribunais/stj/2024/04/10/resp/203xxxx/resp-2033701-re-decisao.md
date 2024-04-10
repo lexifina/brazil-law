@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por MARIA CARLOTTA QUARTARA FARINI, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fls. 962-963):
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE REEMBOLSO. PLANO DE SAÚDE. VIOLAÇÃO DO ART. 1.022 DO NCPC. ALEGAÇÕES GENÉRICAS. APLICAÇÃO DA SÚMULA N.º 284 DO STF, POR ANALOGIA. NEGATIVA DE COBERTURA. MEDICAMENTO NÃO REGISTRADO NA ANVISA. DEVER DE COBERTURA QUE SE IMPÕE APENAS APÓS O REGISTRO. INCIDÊNCIA DA SÚMULA N.º 568 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se pode conhecer da apontada violação do art. 1.022 do NCPC, porque as alegações que fundamentaram a suposta ofensa são genéricas, sem indicação efetiva dos pontos omissos, contraditórios ou obscuros. Tal deficiência impede a abertura da instância especial, nos termos da Súmula n.º 284 do STF, aplicável, por analogia, neste Tribunal Superior.
+3. Segundo a jurisprudência desta Corte, apenas deve ser reconhecido o dever de cobertura contratual a partir do efetivo registro do medicamento pela ANVISA, de forma que o reembolso fica limitado aos valores despendidos após esse fato.
+4. Aplicação da modulação de efeitos nos exatos termos em que deferida no Tema n.º 990 do STJ somente para permitir a procedência parcial do pedido no caso de superveniência do registro no curso da demanda.
+5. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+6. Agravo interno não provido.
+A parte recorrente alega que teria havido violação direta da Constituição Federal, consubstanciada na ofensa aos arts. 1º, III, 5º, caput, 6º, caput, 23, II, 196 e 199 da Constituição Federal, em virtude do princípio da dignidade humana e dos direitos à vida e à saúde, argumentando que o fornecimento do fármaco era indispensável para sua sobrevivência.
+Acrescenta que " ..  o medicamento Zerbaxa foi registrado meses após o ajuizamento da ação, em março/2019. Neste sentido, vale repisar que o entendimento jurisprudencial da Corte Superior se consolidou de forma desfavorável ao direito da Recorrente no curso do processo, implicando em verdadeira aplicação retroativa de alteração de entendimento jurisprudencial  .. " (fl. 1.017).
+Assevera que o medicamento foi fornecido e recebido de boa-fé, descabendo qualquer cobrança de valor.
+Foram apresentadas as contrarrazões (fls. 1.079-1.102).
+É o relatório.
+Verifica-se que o presente recurso foi interposto contra acórdão deste Tribunal Superior que concluiu não haver obrigação de o plano de saúde fornecer medicamento importado para tratamento de câncer antes do registro na Anvisa.
+Constata-se, assim, que há, em princípio, divergência com o entendimento firmado pelo Supremo Tribunal Federal sobre o tema.
+A propósito:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. DIREITO À SAÚDE E À VIDA. CONCESSÃO DE MEDICAMENTO PARA TRATAMENTO DE CÂNCER. CUSTEIO DO TRATAMENTO PELO PLANO DE SAÚDE NO PERÍODO EM QUE O MEDICAMENTO REQUERIDO NÃO ERA REGISTRADO NA ANVISA. SEGURANÇA JURÍDICA E PROTEÇÃO DA CONFIANÇA. MAJORAÇÃO DE HONORÁRIOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+I - Ante as peculiaridades do caso e em observância aos princípios da segurança jurídica, da proteção da confiança e da boa-fé, bem como do direito constitucional à vida e à saúde, cabe ao plano de saúde custear o tratamento realizado pela agravada com o medicamento Revlimid no período que antecedeu o registro do referido fármaco na Anvisa.
+II - Majorada a verba honorária fixada anteriormente, nos termos do art. 85, § 11, do CPC/2015.
+III - Agravo regimental a que se nega provimento.
+(ARE n. 1.307.919ED-AgR, relator Ministro Ricardo Lewandowski, Segunda Turma, julgado em 9/5/2022, DJe de 1º/6/2022.)
+Embargos de declaração em agravo regimental em recurso extraordinário com agravo. Plano de saúde. Açã o de obrigação de fazer. Fornecimento de medicamento não registrado na ANVISA. Fármaco. Obtenção de registro na referida agência reguladora durante o curso de ação judicial. Operadora de plano de saúde. Obrigação de arcar com os custos de medicamento no período anterior a seu registro. Existência de matéria constitucional. Embargos declaratórios acolhidos. Precedentes. 1. Fármaco que, na época do ajuizamento da ação, não tinha registro na Agência Nacional de Vigilância Sanitária (ANVISA), o qual foi obtido no curso da ação judicial.
+2. Possui estatura constitucional a discussão relativa à existência de obrigação da operadora de plano de saúde de arcar com os custos de fornecimento do medicamento no período anterior à obtenção do referido registro.
+3. Embargos declaratórios acolhidos com efeitos infringentes para, afastando o óbice apontado no acórdão embargado, determinar que seja dado seguimento ao recurso extraordinário, com a distrib uição do feito na forma regimental.
+(ARE n. 1.412.422AgR-ED, relator Ministro Luis Roberto Barroso - Presidente, relator p/ Acórdão Ministro Dias Toffoli, Tribunal Pleno, julgado em 18/10/2023, DJe de 18/12/2023.)
+Ante o exposto, nos termos do art. 1.030, V, a, do Código de Processo Civil, admito o recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO CIVIL. PLANO DE SAÚDE. FORNECIMENTO DE MEDICAMENTO. REGISTRO POSTERIOR NA ANVISA. ACÓRDÃO RECORRIDO EM DIVERGÊNCIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO ADMITIDO.
