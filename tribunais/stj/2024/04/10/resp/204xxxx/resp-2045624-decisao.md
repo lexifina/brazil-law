@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de recurso especial interposto por GLINT PARTICIPAÇÕES LTDA. (GLINT), com fundamento no art. 105, III, alíneas a e c, da CF, em oposição ao acórdão proferido pelo Tribunal Regional Federal da 2ª Região (TRF2), assim ementado:
+ADMINISTRATIVO. ESCRITURA DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. PROVA DO PAGAMENTO INTEGRAL DA DÍVIDA. REQUISITO ESSENCIAL PARA A ADJUDICAÇÃO COMPULSÓRIA. PRESCRIÇÃO QUE NÃO AFASTA A EXIGÊNCIA DE QUITAÇÃO DO SALDO DEVEDOR. HONORÁRIOS RECURSAIS.
+1. Objetiva a autora a adjudicação compulsória de imóvel, com a obtenção de escritura definitiva, em razão da recusa da promitente vendedora.
+2. Ao contrário do que alega a autora, resta evidenciado que a escritura de promessa de cessão de direitos aquisitivos de imóvel não foi pactuada de forma irrevogável sob qualquer condição, deixando expressa a possibilidade de ser rescindida no caso de inadimplemento das parcelas por prazo superior a 90 (noventa) dias.
+3. Apesar de alegar que quitou a dívida, a autora afirma que a prescrição já atingiu as parcelas vencidas, ao passo que a ré trouxe aos autos "RELATÓRIO DE PRESTAÇÕES EM ATRASO" segundo o qual há um total de 8 (oito) prestações inadimplidas, bem como carta que lhe foi enviada pela autora, datada de 02/10/2003, reconhecendo o atraso no pagamento de 7 (sete) parcelas.
+4. De toda forma, é irrelevante para o julgamento da presente demanda que se considerem prescritas as parcelas não pagas pela autora, nos termos do artigo 206, § 5º, inciso I, do CC/2002, por ter a última delas vencido em 18/10/2002.
+5. Com efeito, tal prescrição apenas impediria o credor de exigir o pagamento das parcelas ainda devidas, não extinguindo, porém, a obrigação em si do promitente comprador, visto que seus efeitos não têm o condão de repelir a inadimplência ou mesmo a falta de comprovação de quitação da dívida, sendo certo que esta (quitação) é requisito imprescindível para se proceder à adjudicação compulsória do imóvel, a respeito do que há provas nos autos demonstrando sua inexistência no caso vertente.
+Precedentes desta Corte e do STJ.
+6. Honorários recursais fixados em 5% (cinco por cento) sobre o valor da verba de advogado estabelecida na sentença (10% sobre o valor dado à causa), os quais serão acrescidos a esta última verba.
+7. Apelo conhecido e desprovido. (e-STJ, fl. 495)
+Os embargos de declaração opostos por GLINT foram rejeitados (e-STJ, fls. 539/544).
+Irresignada, GLINT interpôs recurso especial, com base no art. 105, III, alíneas a e c, da CF, apontando violação dos arts. 206, §5º, I, e 1.022, II, do CPC, bem como dissídio jurisprudencial, afirmando que (1) houve omissão acerca da pretensão de declaração da prescrição extintiva da cobrança (2) preenchidos os requisitos necessários à adjudicação compulsória (e-STJ, fl. 577).
+O recurso não foi admitido pelo Tribunal estadual (e-STJ, fls. 630/632).
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial.
+(1) omissão
+Verifica-se que devidamente esclarecidas as razões de decidir pelo TJRJ, não se configurando a alegada omissão. Confira-se:
+Depreende-se, pois, que enquanto a embargante defende que deve ser declarada a prescrição sobre o direito de a CEF cobrar as parcelas inadimplidas do contrato para aquisição do imóvel objeto da presente demanda para, assim, ser reconhecido o seu direito à adjudicação compulsória do imóvel, o acórdão embargado, seguindo precedentes desta Corte Regional Federal e do Superior Tribunal de Justiça, adotou o entendimento segundo o qual ainda que ocorrida a alegada prescrição extintiva do direito, "seus efeitos não têm o condão de repelir a inadimplência ou mesmo a falta de comprovação de quitação da dívida, sendo certo que esta (quitação) é requisito imprescindível para se proceder à adjudicação compulsória do imóvel, a respeito do que há provas nos autos demonstrando sua inexistência no caso vertente".
+Conforme preceitua o artigo 1.022 do CPC de 2015, os embargos de declaração constituem instrumento processual apto a suprir omissão do julgado ou dele excluir eventual obscuridade, contradição, erro material, ou qualquer das condutas descritas no artigo 489, parágrafo 1º, do mesmo Codex Processual. (e-STJ, fl. 541)
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RESPONSABILIDADE CIVIL. AÇÃO CIVIL PÚBLICA POR DANO AMBIENTAL. PRESCRIÇÃO. INTERRUPÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. PRESCRIÇÃO. AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA QUE INTERROMPE O PRAZO PARA AS AÇÕES INDIVIDUAIS. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022, II, do NCPC (art. 535 do CPC/1973), não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+4. Não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia 5. A citação válida em ação coletiva configura causa interruptiva do prazo de prescrição para o ajuizamento da ação individual.
+Precedentes.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.842.775/RS, de minha relatoria, Terceira Turma, julgado em 30/5/2022, DJe de 1/6/2022)
+Afasta-se, portanto, a alegada violação.
+(2) adjudicação compulsória
+O Tribunal de origem, ao julgar a apelação, concluiu ser descabida a pretensão de adjudicação do imóvel, assim se pronunciando:
+ ..  é irrelevante para o julgamento da presente demanda que se considerem prescritas as parcelas não pagas pela autora, nos termos do artigo 206, § 5º, inciso I, do CC/2002, por ter a última delas vencido em 18/10/2002.
+Com efeito, tal prescrição apenas impediria o credor de exigir o pagamento das parcelas ainda devidas, não extinguindo, porém, a obrigação em si do promitente comprador, visto que seus efeitos não têm o condão de repelir a inadimplência ou mesmo a falta de comprovação de quitação da dívida, sendo certo que esta (quitação) é requisito imprescindível para se proceder à adjudicação compulsória do imóvel, a respeito do que há provas nos autos demonstrando sua inexistência no caso vertente. (e-STJ, fl. 483)
+A conclusão adotada na origem encontra-se em consonância com a jurisprudência deste Superior Tribunal de Justiça, no sentido de que a prescrição das prestações não pagas não afasta a exigência de cumprimento da obrigação pelo comprador, requisito indispensável para a adjudicação compulsória do imóvel. Nessa direção:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. IMPUGNAÇÃO ESPECÍFICA CONSTATADA. AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA JULGADA IMPROCEDENTE PELO TRIBUNAL DE ORIGEM. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. DÉBITO PRESCRITO. RECONHECIMENTO DE QUITAÇÃO. INVIABILIDADE. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. "A quitação do preço do bem imóvel pelo comprador constitui pressuposto para postular sua adjudicação compulsória, consoante o disposto no art. 1.418 do Código Civil de 2002" (REsp 1.601.575/PR, relator Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe de 23.8.2016).
+2. "A prescrição pode ser definida como a perda, pelo titular do direito violado, da pretensão à sua reparação. Inviável se admitir, portanto, o reconhecimento de inexistência da dívida e quitação do saldo devedor, uma vez que a prescrição não atinge o direito subjetivo em si mesmo" (REsp 1.694.322/SP, relatora MINISTRA NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 13.11.2017).
+3. O Tribunal de Justiça julgou improcedente o pedido da parte autora, sob o fundamento de que "não há falar-se em outorga de escritura pública de imóvel mediante ação de adjudicação compulsória quando não provada a quitação integral do preço ajustado, sendo irrelevante o fato de o débito já se encontrar prescrito". Decisão em consonância com o entendimento desta Corte Superior. Aplicação da Súmula 83/STJ.
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.816.356/ES, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/9/2022, DJe de 20/9/2022)
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em consonância com o entendimento firmado nesta Corte, incidente o óbice da Súmula nº 568/STJ.
+Em relação à arguição de configuração de dissídio jurisprudencial, inviável a sua análise, pois nos termos da jurisprudência desta Corte, "Não se conhece da divergência quando a orientação firmada pela instância de origem se deu no mesmo sentido da jurisprudência dominante do STJ" (AgRg nos EDcl no AREsp n. 736.821/SC, relator Ministro João Otávio de Noronha, Terceira Turma, julgado em 4/2/2016, DJe de 26/2/2016). Nessa mesma direção:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. INCAPACIDADE PARCIAL ALIADA ÀS CONDIÇÕES PESSOAIS. ANÁLISE. POSSIBILIDADE.
+1. "Ainda que o laudo pericial tenha concluído pela incapacidade parcial para o trabalho, pode o magistrado considerar outros aspectos relevantes, tais como, a condição socioeconômica, profissional e cultural do segurado, para a concessão da aposentadoria por invalidez" (AgRg no AREsp 308.378/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 16/05/2013, DJe 21/05/2013).
+2. "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida". Súmula 83 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.036.962/GO, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 5/9/2022, DJe de 9/9/2022)
+Nessas condições, CONHEÇO EM PARTE o recurso especial e LHE NEGO PROVIMENTO.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de CAIXA ECONÔMICA FEDERAL (CEF), limitados a 20%, nos termos do art. 85, § 11, do CPC, ficando suspensa a exigibilidade em razão da gratuidade da justiça (artigo 98, § 3º, CPC)
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. OMISSÃO. NÃO CONFIGURAÇÃO. ADJUDICAÇÃO COMPULSÓRIA. NÃO CABIMENTO. PRESCRIÇÃO DAS PARCELAS. IRRELEVÂNCIA. AUSÊNCIA DE COMPROVAÇÃO DE QUITAÇÃO PELO COMPRADOR. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA Nº 568 DO STJ. DISSÍDIO JURISPRUDENCIAL. IMPOSSIBILIDADE DE ANÁLISE. JULGAMENTO EM CONSONÂNCIA COM ENTENDIMENTO SEDIMENTADO NESTA CORTE (SÚMULA Nº 568 DO STJ). RECURSO ESPECIAL CONHECIDO EM PARTE E NÃO PROVIDO.
