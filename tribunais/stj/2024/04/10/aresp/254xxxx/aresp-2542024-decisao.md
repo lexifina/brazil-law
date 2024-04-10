@@ -1,0 +1,34 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ACMJ LOTEADORA E ADMINISTRADORA DE BENS PRÓPRIOS EIRELI E OUTRO contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 20/10/2023.
+Concluso ao gabinete em: 3/4/2024.
+Ação: Incidente de desconsideração da personalidade jurídica ajuizado por Armarinhos Romane Ltda e Outros em face dos agravantes.
+Decisão interlocutória: indeferiu a medida cautelar de arresto de bens.
+Acórdão: deu provimento ao agravo de instrumento interposto pelos agravados, conforme ementa a seguir (fl. 93):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. ARRESTO CAUTELAR DE BENS. DECISÃO QUE INDEFERIU O PEDIDO CAUTELAR DE ARRESTO DE BENS. INSURGÊNCIA. TUTELA DE URGÊNCIA. ART. 300 DO CPC/15. PROBABILIDADE DO DIREITO E PERIGO DE DANO OU DE RISCO AO RESULTADO ÚTIL DO PROCESSO. REQUISITOS PREENCHIDOS. INDÍCIOS DE CONFUSÃO PATRIMONIAL E ABUSO DA PERSONALIDADE JURÍDICA DA EXECUTADA. DECISÃO REFORMADA. RECURSO CONHECIDO E PROVIDO.
+Embargos de Declaração: opostos pelos agravantes, foram rejeitados.
+Recurso especial: alega violação do art. 300 do CPC, bem como dissídio jurisprudencial. Sustenta, em síntese, que a "dilapidação que leve à insolvência não foi demonstrado no caso em tela pela recorrida, motivo pelo qual não poderia ter sido deferida a tutela provisória de urgência cautelar para arresto de bens" (fl. 244).
+Juízo de admissibilidade: o recurso especial interposto pelos agravantes foi inadmitido, em razão de sua intempestividade, constatada pelo tribunal de origem.
+RELATADO O PROCESSO, DECIDE-SE.
+O recurso especial interposto é inadmissível por ser, de fato, intempestivo.
+O ora agravante foi intimado do acórdão prolatado pelo TJ/PR em 25/5/2023. No entanto, a petição do recurso foi protocolizada em 19/6/2023 (e-STJ, fl. 177), ou seja, fora do prazo legal de 15 dias úteis.
+Verifica-se que a parte não comprovou, no ato da interposição do recurso, conforme dispõe o artigo 1.003, §6º, do Código de Processo Civil, o feriado do dia 8/6/2023 (Corpus Christi), bem como a suspensão do expediente nas repartições judiciárias do Estado do Paraná no dia 9/6/2023.
+Portanto, a petição recursal juntada em 19/6/2023 está intempestiva.
+Consoante a jurisprudência desta Corte: i) a parte recorrente deve comprovar a existência do feriado ou o ato de suspensão por meio de documentação idônea, não servindo a essa finalidade mera menção, no corpo da petição, da existência de legislação ou ato normativo. Precedentes: AgInt no AREsp n. 1.655.571/RJ, Terceira Turma, DJe de 29/4/2022 e AgInt nos EDcl no AREsp 1844931/BA, Quarta Turma, DJe 26/08/2021); ii) a falta de comprovação prévia da tempestividade de recurso, em razão de todo e qualquer feriado ou recesso forense local, configura vício insanável, de modo que não pode ser feita posteriormente ao protocolo da peça recursal, à exceção do feriado da segunda-feira de Carnaval no caso de recursos interpostos até 18/11/2019 (o que não é o caso dos autos), consoante decidido na questão de ordem no REsp 1.813.684/SP. Precedente: AgInt nos EAREsp 1381489/SP, Corte Especial, DJe 11/11/2021.
+Acrescente-se que "a existência de recesso forense e suspensão de prazos processuais nos Tribunais de Justiça não se presume público e notório em âmbito nacional" (AgInt no AREsp 1.641.985/SP, Terceira Turma, DJe 18/8/2021).
+Esclareço que o argumento defensivo, no sentido de que a intempestividade se deu por conta de erro do sistema judiciário (PROJUDI) na contagem do prazo não se sustenta, uma vez que a correta contagem dos prazos processuais é responsabilidade da parte. Com efeito, segundo a orientação jurisprudencial desta Corte, a contagem correta dos prazos recursais, nos termos definidos pela legislação processual, é ônus exclusivo da parte recorrente, de modo que a data eventualmente sugerida pelo sistema processual eletrônico não o exime de interpor o recurso no prazo previsto em lei (AgRg no AREsp n. 1.825.919/PR, Sexta Turma, DJe 16/6/2021).
+Não se desconhece o entendimento firmado nesta Corte de que "o equívoco na indicação do término do prazo recursal contido no sistema eletrônico mantido exclusivamente pelo Tribunal não pode ser imputado ao recorrente" (EREsp 1.805.589/MT, Corte Especial, Dje de 25/11/2020).
+E, não obstante, como alegado pela parte agravante, no julgamento do REsp 1.324.432/SC, a Corte Especial deste Tribunal tenha firmado que a existência de equívoco no sistema processual eletrônico do Poder Judiciário possa ser considerado para fins de relativizar a intempestividade recursal, em julgados posteriores àquele paradigma da Corte Especial apontado pelos agravantes, tem-se exigido que a parte recorrente demonstre, de maneira efetiva, a justa causa para obter o excepcional afastamento da intempestividade recursal, o que não se verifica no caso em exame.
+Dessa forma, em razão da ausência de comprovação da suspensão do prazo processual quando da interposição do recurso especial, a intempestividade do citado recurso há de ser reconhecida.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO LOCAL, RECESSO, PARALISAÇÃO OU INTERRUPÇÃO DO EXPEDIENTE FORENSE. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CPC/2015.
+1. Incidente de desconsideração da personalidade jurídica.
+2. É intempestivo o recurso especial que é interposto fora do prazo recursal de quinze dias úteis.
+3. A parte recorrente deve comprovar a existência do feriado ou o ato de suspensão por meio de documentação idônea, não servindo a essa finalidade mera menção, no corpo da petição, da existência de legislação ou ato normativo. Precedentes.
+4. A Corte Especial do STJ firmou o entendimento de que o equívoco na indicação do término do prazo recursal contido no sistema eletrônico mantido exclusivamente pelo Tribunal não pode ser imputado ao recorrente. Precedentes.
+5. Entretanto, também conforme o entendimento deste Tribunal Superior, para a prorrogação do prazo é necessária a configuração da justa causa, que deve ser demonstrada de maneira efetiva. Precedentes.
+6. Agravo conhecido. Recurso especial não conhecido.
