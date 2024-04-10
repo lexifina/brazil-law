@@ -1,0 +1,16 @@
+DECISÃO
+O paciente alega sofrer coação ilegal em face acordão do Tribunal a quo, que denegou seu pedido de apelar em liberdade, o qual reitera a esta Corte.
+Deferida a liminar, os autos foram encaminhados ao MPF, que opinou pela denegação da ordem.
+Decido.
+O réu está preso, desde 1/6/2023, e foi condenado por tráfico de drogas, em contexto de apreensão crack (298g). A defesa assinala a falta de fundamentos para a manutenção de sua prisão preventiva na sentença.
+O Juiz consignou: "o réu Islvado não poderá recorrer em liberdade, porque ainda presentes os requisitos da prisão preventiva" (fl. 42).
+No édito prisional originário (fls. 24-27), constou o seguinte:
+ ..
+Considerando, no mais, a quantidade de droga apreendida, evidente a periculosidade social efetiva e o especial risco à ordem e saúde pública. O crime de tráfico é gravíssimo, equiparado aos hediondos, causador de inúmeros problemas sociais, sendo apontado como um dos principais problemas da saúde pública atual, além de promover a desestruturação familiar, aumento da violência e o fortalecimento das organizações criminosas. Sendo assim, inviável, a concessão da liberdade provisória ao autuado, e inadequada e insuficiente a aplicação de quaisquer das medidas cautelares previstas no art. 319, do Código de Processo Penal, em detrimento da custódia preventiva do averiguado, pois do ponto de vista social, cuida-se de infração penal gravíssima e que vem causando temor à população, pois está relacionada ao aumento da violência e da criminalidade.  ..
+O ato judicial está permeado de motivos que se prestariam a justificar qualquer outra decisão. A quantidade da droga apreendida (298g de crack) é a única justificativa para a ordem pública, "por revelar a periculosidade do segregado e a gravidade concreta do crime  ..  (AgRg no HC n. 810.189/SC, Rel. Ministra Laurita Vaz, 6ª T., DJe de 26/5/2023).
+Todavia, o Magistrado não mencionou reincidência, ações penais em curso etc. nem elementos acidentais mais graves do tráfico de drogas (apreensão de caderno de anotações, balança de precisão, arma de fogo, radiocomunicador). Assim, não se verifica motivação para a escolha da cautela extrema.
+Como em habeas corpus não é possível corrigir o vício do édito prisional, é de rigor reconhecer a desproporcionalidade da medida extrema, pois, embora a apreensão seja relevante, também não pode ser considerada exorbitante, a ponto de revelar inusual periculosidade e elevado risco de reiteração delitiva.
+A teor dos julgados desta Corte, a "prisão preventiva somente se justifica se demonstrada a sua imprescindibilidade, ou seja, que outras medidas mais brandas não são suficientes para conter o aparente risco de retorno do paciente ao mundo do crime" (AgRg no HC n. 623.296/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 23/11/2020).
+À vista do exposto, concedo o habeas corpus para, ratificada a liminar, substituir a prisão preventiva do paciente por comparecimento periódico em juízo, no prazo e nas condições a serem fixadas pelo Juízo da condenação (em autos apartados, formado por cópias do processo principal), sem prejuízo da fixação de outras que o seu prudente arbítrio indicar cabíveis e adequadas, bem como de nova decretação da prisão preventiva se efetivamente demonstrada sua concreta necessidade.
+Publique-se e intimem-se.
+EMENTA
