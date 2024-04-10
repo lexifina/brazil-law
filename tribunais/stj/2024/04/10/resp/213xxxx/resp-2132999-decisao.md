@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARCOS ANTÔNIO ALBA, com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 34):
+PREVIDENCIÁRIO. CUMPRIMENTO DE SENTENÇA. SALDO COMPLEMENTAR. JUROS DEMORA. PERÍODO DE GRAÇA CONSTITUCIONAL. SELIC. TEMA 96 DO STF.
+1. A partir de 09/12/2021, nos termos do art. 3º da Emenda Constitucional nº 113/2021,nas condenações que envolvam a Fazenda Pública, independentemente de sua natureza, para fins de atualização monetária, remuneração do capital e compensação da mora, haverá a incidência do índice da taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic), acumulado mensalmente.
+2. Não é devida a incidência de juros de mora durante o prazo constitucional para pagamento de precatório ou RPV (Tema 96/STF).
+3. Nas condenações impostas à Fazenda Pública com obrigação de pagar mediante precatório ou RPV, são devidos juros e atualização monetária desde a apresentação da conta até a expedição do precatório ou RPV, não incidindo juros de mora, mas somente correção monetária, durante o prazo constitucional para pagamento e em caso de caracterização da mora pelo inadimplemento, haverá incidência de juros moratórios somente após o decurso do prazo constitucional.
+Não foram opostos embargos de declaração.
+Nas razões do apelo especial, aponta o recorrente, violação dos arts. 1º e 2º da Lei 8.213/91, e sustenta, em síntese, que o afastamento da taxa SELIC como índice de atualização monetária de valores devidos prejudica a manutenção do valor real do benefício previdenciário.
+Sem contrarrazões.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Com relação aos arts. 1º e 2º da Lei 8.213/91, nota-se que os referidos dispositivos legais não apresentam comando capaz de sustentar a tese recursal e infirmar o juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na su a fundamentação não permitir a exata compreensão da controvérsia."). Por oportuno, destacam-se os seguintes precedentes: AgRg no AREsp 161.567/RJ, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 26/10/2012; REsp 1.163.939/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 8/2/2011.
+Ademais, no presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, ".. não é devida a incidência de juros de mora durante o prazo constitucional para pagamento de precatório ou RPV." esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema: AgInt no REsp 1711262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no AREsp 1679006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+EMENTA
