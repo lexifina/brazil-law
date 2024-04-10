@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Serviço Nacional de Aprendizagem Industrial SENAI, contra decisão de fls. 517/521, a qual, reconsiderando as decisões de fls. 468/469 e 487/489, deu provimento ao agravo em recurso especial manejado por Seara Alimentos Ltda., parte ora embargada, em ordem a reconhecer a ilegitimidae ativa do SENAI.
+A parte embargante aponta omissão no decisum embargado, "em virtude da ausência de fundamentação para deixar de seguir o enunciado 182 da Súmula desse e. STJ" (fl. 527).
+Ao final, pugna pelo provimento dos aclaratórios, com efeitos modificativos.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material. Entretanto, no caso, não se verifica a existência de quaisquer das referidas deficiências.
+A parte embargante sustenta existir omissão no julgado, procurando fazer valer a tese de que é aplicável à espécie a Súmula 182/STJ.
+Com efeito, a decisão embargada não foi omissa ao consignar que, no caso dos autos, (i) não assiste razão à parte ora embargante quanto à preliminar de não-conhecimento do recurso, o qual preenche os requisitos constitucionais e legais exigidos para a sua admissão; e (ii) a Primeira Turma do Superior Tribunal de Justiça tem firme entendimento no sentido de que o SENAI não possui legitimidade para figurar em demanda na qual se discute cobrança de contribuições sociais. Isso porque, com a entrada em vigor da Lei 11.457/2007, por força das disposições contidas em seus arts. 2º e 3º, e, considerando que os serviços sociais autônomos integrantes do denominado Sistema "S" ostentam natureza de pessoa jurídica de direito privado, e não integram a administração pública, cabe tão somente à Secretaria de Receita Federal do Brasil proceder às atividades de tributação, fiscalização, arrecadação e cobrança das contribuições de terceiros.
+Apenas para que não pairem dúvidas, esclareça-se que a decisão embargada reconsiderou anterior decisum exarado pela Presidência desta Corte que havia entendido pela incidência do referido empeço sumular, ao entendimento de que a parte agravante teria deixado de impugnar especificamente o fundamento da decisão agravada referente à aplicabilidade da Súmula 126/STJ à espécie. Ocorre que, como consignado na decisão embargada, o recurso preenche os requisitos constitucionais e legais exigidos para a sua admissão, sendo certo que o aludido óbice sumular foi expressamente combatido pelo agravo em recurso especial interposto pela parte ora embargante (cf fl. 414).
+Como se vê, não existe contradição no julgado embargado capaz de abrir pórtico para o cabimento dos embargos aclaratórios. Aliás, da própria fundamentação do recurso aclaratório apresentado pelo embargante, depreende-se que sua intenção é apontar a existência de error in judicando , propósito esse incompatível com a via integrativa.
+Inexistente, pois, qualquer obscuridade, contradição, erro material ou omissão no julgado embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+A propósito, confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES DE MÉRITO. IMPOSSIBILIDADE. CARÁTER MERAMENTE PROTELATÓRIO. APLICAÇÃO DA MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC.
+1. Revelam-se improcedentes os embargos declaratórios em que as questões levantadas traduzem inconformismo com o teor da decisão embargada, pretendendo rediscutir matérias já decididas, sem demonstrar omissão, contradição ou obscuridade (art. 535 do CPC).
+2. É nítid o o intuito protelatório do recurso, dando ensejo à aplicação da penalidade prevista no art. 538, parágrafo único, do CPC, à razão de 1% do valor corrigido da causa.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 545.285/RS, Rel. Ministro Teori Albino Zavascki, DJ de 1º/8/2006).
+ANTE O EXPOSTO, rejeitam-se os embargos declaratórios.
+Publique-se.
+EMENTA
