@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interno manejado pelo Estado do Tocantins desafiando decisão que negou provimento ao agravo com base na seguinte fundamentação: (I) o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja "inadequada a via eleita para o recebimento do suposto crédito, porquanto a jurisprudência do STJ deixa claro que o ressarcimento ao erário de valores recebidos indevidamente por servidor público não pode ser admitida pela inscrição em divida ativa, o que viola o principio constitucional do devido processo legal (art. 5º. inciso LIV. da CF/881 tomando-se necessário, desta forma: o ajuizamento da ação ordinária por parte da Fazenda Pública, através do processo de conhecimento, assegurado ao devedor o contraditório e a ampla defesa" (fl. 201 - g.n.) esbarrando, pois, no obstáculo da Súmula 283/STF; e (II) o mesmo óbice imposto à admissão do recurso pela alínea a do permissivo constitucional impede a análise recursal pela alínea c, restando prejudicada a avaliação do dissídio jurisprudencial.
+O agravante, em suas razões, sustenta em síntese que "o acórdão do TJTO objeto do recurso especial, aplicou de forma equivocada a norma do art. 39, § 2º da Lei nº 4.320/1964 ao caso concreto, afirmando que a previsão em questão não abarca a possibilidade de inscrição em dívida ativa dos valores decorrentes de verbas remuneratórias pagas indevidamente a servidores públicos" (fl. 399) e conclui que "o fundamento utilizado pela Corte de origem para negar provimento ao apelo do Estado foi devidamente refutado nas razões do Recurso Especial não havendo que se falar em ausência de impugnação específica" (fl. 400).
+Impugnação às fls. 413/419.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelo arts. 1.021, § 2º, 2ª parte, do CPC e 259 do RISTJ, reconsidero a decisão agravada, tornando-a sem efeito, passando novamente à analise do recurso:
+Trata-se de agravo manejado pelo Estado do Tocantins, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Tocantins, assim ementado (fl. 209):
+EMENTA. APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. RESSARCIMENTO AO ERÁRIO. VERBAS SALARIAIS SUPOSTAMENTE INDEVIDAS. CRÉDITO NÃO TRIBUTÁRIO. INSCRIÇÃO EM DÍVIDA ATIVA. IMPOSSIBILIDADE. NECESSIDADE DAS VIAS ORDINÁRIAS. EXECUÇÃO FISCAL. NÃO CABIMENTO. SENTENÇA MANTIDA. RECURSO NÃO PROVIDO.
+1.0 Superior Tribunal de Justiça entende que a execução fiscal não é a via adequada para a restituição de valores pagos a servidores, devendo a cobrança ser processada pela via ordinária, sendo imprescindível dilação probatória (ST). REsp 1696760/SP)
+2. O conceito de dívida ativa não-tributária não autoriza a Fazenda Pública a tornar-se credora de todo e qualquer débito, envolvendo apenas os créditos certos e líquidos, conforme disposição dos arts. 2º e 3º da Lei n 6.830/80, e 39, parágrafo 2º, da Lei n. 4.320/64.
+3. In casu, não restou comprovada a liquidez e certeza necessária para a inscrição em dívida ativa, sendo imperioso reconhecer a nulidade da CDA, objeto da execução, nos termos do art. 803, I, do CPC.
+4. Apelação conhecida e não provida. Sentença mantida.
+Nas razões do recurso especial, a parte agravante aponta, além de dissídio jurisprudencial, violação aos arts. 39, §2º, da Lei n. 4.320/64 e 2º e 3º da LEF, ao argumento de que, na forma da jurisprudência deste Superior Tribunal, valores decorrentes de reposição ao erário podem ser inscritos em dívida ativa.
+Recurso extraordinário interposto às fls. 220/226.
+Contrarrazões às fls. 256/268.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+Com efeito, destaca-se do acórdão recorrido a seguinte fundamentação (fls. 201/203 g.n):
+O crédito buscado nos presentes autos refere-se ao suposto recebimento indevido de verbas remuneratórias, representado pela Certidão de Dívida Ativa nº J-82/2012.
+Analisando detidamente os autos, constata-se que o Estado do Tocantins manejou ação de execução fiscal para ressarcimento de verbas salariais, relativas a "recebimento indevido" pelo apelado, no mês de outubro de 2005, no montante de R$ 3.689,50.
+Necessário pontuar que o conceito de dívida ativa não-tributária não autoriza a Fazenda Pública a tornar-se credora de todo e qualquer débito, envolvendo apenas os créditos certos e líquidos, conforme disposição dos arts. 2º e 3º da Lei, in verbis:
+ ..
+Veja-se que valores recebidos supostamente de forma indevida, por servidor, carecem da liquidez e certeza necessárias para a inscrição em dívida ativa, revelando-se, portanto, inviável a cobrança de tais valores por meio de execução fiscal, sendo necessária instauração de procedimento próprio para o contraditório e ampla defesa.
+Assim, revela-se inadequada a via eleita para o recebimento do suposto crédito, porquanto a jurisprudência do STJ deixa claro que o ressarcimento ao erário de valores recebidos indevidamente por servidor público não pode ser admitida pela inscrição em dívida ativa, o que viola o princípio constitucional do devido processo legal (art. 5º, inciso LIV, da CF/88), tornando-se necessário, desta forma, o ajuizamento da ação ordinária por parte da Fazenda Pública, através do processo de conhecimento, assegurado ao devedor o contraditório e a ampla defesa.
+A Jurisprudência do Superior Tribunal de Justiça é nesse sentido:
+ ..
+Após análise das provas constantes dos autos, entendo que o crédito tributário decorrente da Certidão de Dívida Ativa nº J-82/2012 não possui liquidez e certeza necessárias para a inscrição em dívida ativa, sendo necessária reconhecer a nulidade da CDA, objeto da execução, nos termos do art. 803, I, do CPC.
+Portanto, inadequada à via eleita (Execução Fiscal) para a cobrança de valores tidos como indevidos. E, como dito, a Fazenda Pública deve valer-se das vias ordinárias para apuração do crédito e constituição do respectivo título executivo, em razão das garantias constitucionais do devido processo legal, do contraditório e da ampla defesa (art. 5º, LIV e LV, C.F.).
+Assim, a manutenção da sentença é medida que se impõe.
+Diante desse contexto, verifica-se que o Tribunal de origem decidiu a controvérsia à luz de fundamentos prevalentemente constitucionais (art. 5º, LIV e LV, da CF), matéria insuscetível de ser examinada em sede de recurso especial.
+Ademais, a alteração das premissas adotadas pela Corte de origem, no sentido da nulidade da CDA, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Por fim, pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+ANTE O EXPOSTO, (i) reconsidero a decisão de fls. 379/380, tornando-a sem efeito; e (ii) nego provimento ao agra vo em recurso especial.
+Publique-se.
+EMENTA
