@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de agravo interposto por VIVIANE ALCANTARA MINOZZO contra decisão que inadmitiu recurso especial (e-STJ, fls. 1.574-1.575) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 1.522):
+NULIDADE DE SENTENÇA Não ocorrência Decisão embasada de forma suficiente, nela constando as razões do convencimento Observância do que previsto nos artigos 93, IX, da Constituição Federal e 489, § 1º, do CPC Argumento rejeitado.
+CERCEAMENTO DE DEFESA Situação não verificada Desnecessidade da produção doutras provas.
+MONITÓRIA Confissão de dívida Devedora que não apresentou qualquer elemento apto a desconstituir a obrigação Questão a envolver taxa de juros e outros consectários já definitivamente julgados noutra ação Ausência dos demais vícios arguidos Sentença mantida Recurso desprovido.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 1.536):
+EMBARGOS DE DECLARAÇÃO Ausência de omissão Aspectos relevantes objeto de análise Intenção de rediscutir a decisão Prequestionamento Embargos rejeitados.
+Nas razões do recurso especial, a recorrente alegou, com fulcro na alínea a do permissivo constitucional, violação aos arts. 320, 330, I, e 485, I e II, do CPC/2015.
+Sustentou a existência de cerceamento de defesa com o indeferimento do pedido de exame de documentação que embasou o instrumento particular de confissão de dívida.
+Destacou que o recorrido não anexou o contrato original.
+Frisou que "é inegável o direito do mutuário, demandado por obrigação oriunda de renegociação ou confissão de dívida, questionar eventuais cláusulas abusivas ou inquinadas de nulidade avençadas e ocultadas pelo contrato mais recente" (e-STJ, fls. 1.547-1.548).
+Salientou que "é pacífico o entendimento nesta alta Corte, no sentido de ser possível a revisão de contratos bancários extintos, novados ou quitados, ainda que em sede de embargos monitórios, de maneira a viabilizar, assim, o afastamento de eventuais ilegalidades, as quais não se convalescem, a teor da Súmula n.º 286/STJ" (e-STJ, fl. 1.548).
+Asseverou que "os documentos acostados aos autos não são claros e inteligíveis de modo a possibilitar a exata compreensão da evolução da dívida no período de vigência do contrato, o que enseja a extinção do feito sem apreciação do mérito, por inépcia da inicial, consoante se depreende dos julgados abaixo colacionados" (e-STJ, fl. 1.551).
+Apreciada a admissibilidade do recurso excepcional, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 1.574-1.575).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 1.578-1.585).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativo a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A respeito do cerceamento de defesa, o Tribunal originário assim se manifestou (e-STJ, fls. 1.523-1.524):
+Não se cerceou defesa os fatos, tais quais documentalmente postos, denotam da falta de proveito da produção doutras provas, sob pena de protelação. Incide, aqui, o art. 370 do Código de Processo Civil. Ademais, a prova se destina ao Juiz, não às partes. Por outro lado, a questão se tornou de direito, em face da evidência documental, a impor decisão correlata, sem mais demora. Assim, pelo conjunto de fatores, desnecessária produção mais provas ou de exame de cláusulas do contrato renegociado, sendo suficiente o exame dos documentos exibidos para o adequado desate do litígio.
+Do excerto acima transcrito, depreende-se que a Corte originária, após ampla análise dos fatos e provas acostadas aos autos, inclusive do teor do contrato firmado entre as partes, fundamentou devidamente o indeferimento do pedido de instrução probatória formulado pela recorrente.
+Segundo a jurisprudência vigente no Superior Tribunal de Justiça, inexiste cerceamento de defesa quando o julgador indefere motivadamente a produção de provas, entendendo que a questão controvertida encontra-se comprovada suficientemente nos autos por outros elementos.
+É preciso frisar que a prova constitui elemento de formação da convicção do magistrado acerca dos fatos, tendo como destinatário o juiz, o qual possui a prerrogativa de livremente apreciá-la através de motivada decisão.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CERCEAMENTO DE DEFESA PELO INDEFERIMENTO DE PRODUÇÃO DE PROVA TÉCNICA. REFORMA DO ACÓRDÃO QUE DEMANDA REEXAME DE PROVAS. ÓBICE DA SÚMULA N. 7/STJ.
+1. De acordo com a orientação jurisprudencial desta Corte Superior, pertence ao julgador a decisão acerca da conveniência e oportunidade sobre a necessidade de produção de determinado meio de prova, inexistindo cerceamento de defesa quando, por meio de decisão fundamentada, indefere-se pedido de dilação da instrução probatória.
+2. A reforma das conclusões a que chegou a instância de origem acerca da ausência de cerceamento do direito de defesa pelo indeferimento de prova técnica demandaria nova incursão no conjunto fático-probatório, esbarrando no óbice da Súmula n. 7/STJ.
+Precedentes.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.432.591/MS, relator Ministro Humberto Martins, Terceira Turma, julgado em 26/2/2024, DJe de 29/2/2024.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLAR AÇÃO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. PROVA. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. TESTAMENTO. CAPACIDADE CIVIL E PLENO DISCERNIMENTO. AUSÊNCIA DE VÍCIOS FORMAIS. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SUMULA N. 83 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Considera-se deficiente a fundamentação de recurso especial que alega violação do art. 1.022 do CPC/2015 e não demonstra, clara e objetivamente, qual ponto omisso, contraditório ou obscuro do acórdão recorrido não foi sanado no julgamento dos embargos de declaração. Incidência da Súmula n. 284 do STF.
+3. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83 do STJ).
+4. A jurisprudência deste Tribunal Superior é firme no sentido de que "o magistrado é o destinatário final das provas, cabendo-lhe analisar a necessidade de sua produção, cujo indeferimento não configura cerceamento de defesa" (AgInt no AREsp n. 1.600.225/DF, de minha relatoria, QUARTA TURMA, julgado em 22/11/2021, DJe de 26/11/2021).
+5. Esta Corte compreende que, "em se tratando de sucessão testamentária, o objetivo a ser alcançado é a preservação da manifestação de última vontade do falecido, devendo as formalidades previstas em lei serem examinadas à luz dessa diretriz máxima, sopesando-se, sempre casuisticamente, se a ausência de uma delas é suficiente para comprometer a validade do testamento em confronto com os demais elementos de prova produzidos, sob pena de ser frustrado o real desejo do testador" (REsp n. 1.633.254/MG, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 11/03/2020, DJe 18/03/2020).
+6. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+7. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 2.302.993/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/11/2023, DJe de 1/12/2023.)
+Ademais, reverter a conclusão da instância originária demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor dos advogados da parte recorrida em 2% (dois por cento) sobre o valor da causa, observada a gratuidade judiciária.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. INDEFERIMENTO DO PEDIDO DE PRODUÇÃO DE PROVAS. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. REVISÃO. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
