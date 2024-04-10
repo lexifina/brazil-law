@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por TANIA CRISTINA DE MACEDO PESSUTO e PETER PESSUTO , com fundamento no art. 105, III, a, da Constituição Federal, para impugnar acórdão assim ementado (e-STJ, fl. 634):
+AGRAVO INTERNO - Decisão que extinguiu o agravo por falta de interesse recursal superveniente, pois, uma vez declarada a nulidade do ato e encerrado o recurso anterior, tanto fica superada a questão da nulidade novamente alegada, quanto perde o sentido decidir sobre a suspensão que pendia durante a tramitação do outro recurso - Recurso desprovido.
+Em suas razões de recurso especial (e-STJ, fls. 637-670), as agravantes alegaram violação aos arts. 5º, LIV, LV, XXXVI e 133 da CF/1988; 272, § 2º e 280 do CPC/2015; 655, 667 e 688 do CC/2002; e 26 da Lei 8.906/1994.
+Sustentaram, em síntese, nulidade processual, uma vez que não houve intimação do patrono da causa acerca dos atos processuais praticados nos autos.
+Defenderam, assim, a violação aos preceitos constitucionais da legalidade, do devido processo legal, da ampla defesa, da segurança jurídica, além de tolher a essencial participação do advogado nos atos processuais.
+Asseveraram, por fim, a ausência de perda do objeto do agravo de instrumento interposto na origem.
+O recurso especial não foi admitido na origem (e-STJ, fls. 699-700), o que provocou a interposição do presente agravo.
+Brevemente relatado, decido.
+O inconformismo não merece prosperar.
+De início, vale ressaltar que, concernente à alegação de ofensa aos arts. 5º, LIV, LV, XXXVI e 133 da CF/1988, é evidente a inadequação da via recursal eleita, porquanto "Não cabe ao Superior Tribunal de Justiça, em recurso especial, a análise de ofensa a dispositivos constitucionais, cuja competência é do Supremo Tribunal Federal, consoante o disposto no artigo 102 da Constituição Federal" (AgInt no REsp 1.933.028/SP, Relator Ministro Ricardo Villas Bôas Cueva, DJe 30/9/2021).
+Por outro lado, o Tribunal local dirimiu a questão posta nos autos sob os seguintes fundamentos (e-STJ, fls. 634-635):
+A decisão deve ser mantida.
+Ela extinguiu o agravo de instrumento por falta de interesse recursal superveniente, pois, uma vez declarada a nulidade do ato e encerrado o recurso anterior, tanto fica superada a questão da nulidade novamente alegada, quanto perde o sentido decidir sobre a suspensão que pendia durante a tramitação do outro recurso.
+Em outras palavras, por um lado a nulidade declarada afeta os atos posteriores à medida em que eles importem prejuízo para alguma das partes, o que será objeto de avaliação na Primeira Instância, jamais podendo este C. Colegiado se adiantar a questões a serem tratadas naquela.
+Por outro lado, uma vez que o efeito suspensivo se encerrou com o julgamento definitivo, não faz nenhum sentido decidir sobre a decisão que dava seguimento à ação. Não há mais razão para manter o processo suspenso.
+Nesse contexto, no tocante a alegada violação aos arts. 272, § 2º e 280 do CPC/2015; 655, 667 e 688 do CC/2002; e 26 da Lei 8.906/1994, constata-se, da leitura do trecho acima transcrito, que a matéria, da forma como apresentada no recurso especial, não foi objeto de apreciação pelo Tribunal estadual, e também não foram opostos embargos de declaração com a finalidade de provocar sua discussão, configurando-se a falta de prequestionamento a atrair a incidência das Súmulas 282 e 356 do STF.
+Para que se configure o prequestionamento das matérias, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos por vulnerados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Assim sendo, como não houve manifestação pela Corte local acerca da referida questão, conforme se verifica acima, foi desatendido o requisito do prequestionamento.
+Também não é o caso de prequestionamento implícito (ou ficto). Com efeito, o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, o recorrente suscite a violação ao art. 1.022 do mesmo Diploma, pois somente dessa forma é que o Órgão julgador poderá verificar a existência do vício e proceder à supressão de grau, o que, no caso, não ocorreu, porque nem sequer foram opostos embargos de declaração.
+Destarte, inviável reconhecer a ocorrência de prequestionamento implícito.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ALEGAÇÃO DE VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. MATÉRIA AFETA À COMPETÊNCIA DO STF. DISPOSITIVOS DE LEI APONTADOS COMO OFENDIDOS. CONTEÚDO NORMATIVO. PREQUESTIONAMENTO. FALTA. SÚMULAS 282 E 356/STF. PREQUESTIONAMENTO FICTO. CONDIÇÕES NÃO SATISFEITAS. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
