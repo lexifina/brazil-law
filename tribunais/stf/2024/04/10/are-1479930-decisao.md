@@ -1,0 +1,35 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado pelo Município de Jales, em face do acórdão do Colégio Recursal dos Juizados Especiais do Tribunal de Justiça do Estado de São Paulo assim ementado:
+
+    “TRIBUTÁRIO - TAXA DO LIXO - DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO - PROCEDÊNCIA PARA DECLARAR A INEXIGIBILIDADE DAS CONTRIBUIÇÕES MUNICIPAIS DE SANEAMENTO BÁSICO E DA TAXA DO LIXO INSTITUÍDOS PELA LM 5.489/2022 (FLS. 367/429) - SENTENÇA DE PROCEDÊNCIA MANTIDA POR SEUS PRÓPRIOS E JURÍDICOS FUNDAMENTOS - Irresignação do Município de Jales com fundamento na legalidade da cobrança da taxa de coleta, remoção e destinação do lixo, classificado como tributo de competência municipal e serviço divisível - Prequestionamento - Súmula Vinculante do STF nº 29 - Desacolhimento - Cálculo do tributo realizado de forma progressiva da taxa de coleta de resíduos sólidos, fato que aumenta o imposto conforme a metragem da área edificada do imóvel gerador do débito método que desvincula o custo da atividade estatal o que contraria os princípios da isonomia e da equivalência - Inobservância dos requisitos da divisibilidade e especificidade - Precedentes do TJSP (‘... Mandado de segurança Taxa de coleta, remoção e tratamento ou destinação de lixo e resíduos provenientes de imóveis e Contribuições de Limpeza Urbana e manejo de resíduos sólidos e de Drenagem e manejo de águas pluviais urbanas. Sentença de procedência. Lei Complementar Municipal nº 350/2021, editada com base na Lei 14.026/2020, que definiu o marco legal regulatório do saneamento básico no Brasil. Cobrança progressiva da taxa de coleta de resíduos sólidos , que aumenta conforme a metragem da área edificada do imóvel. Critério desvinculado do custo da atividade estatal que afronta os princípios da isonomia e da equivalência. ‘Contribuições’ de Limpeza pública de Drenagem e manejo de águas pluviais urbanas. Fato gerador das obrigações dotado de natureza jurídica de taxa. Inobservância dos requisitos de divisibilidade e especificidade. Recurso não provido’ - Apelação 1000660-90.2022.8.26.0297; Relator: João Alberto Pezarini; 14ª Câmara de Direito Público; Foro de Jales - Data do Julgamento: 06/10/2022) e deste Colégio Recursal (Recurso Inominado 1003774-03.2023.8.26.0297; Relatora: Claudia Sarmento Monteleone; Órgão Julgador: 7ª Turma Recursal de Fazenda Pública; Foro de Jales - Data do Julgamento: 04/10/2023/ Recurso Inominado Cível 1006553-28.2023.8.26.0297; Relatora: Claudia Sarmento Monteleone; Órgão Julgador: 7ª Turma Recursal de Fazenda Pública; Foro de Jales; Data do Julgamento: 03/10/2023) - Sentença mantida - Recurso desprovido.”
+
+    Na minuta, sustenta-se violação do art. 145, II, da Constituição da República.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    Da análise dos autos, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise ou reexame se revelam inviáveis em recurso extraordinário. Aplicação das Súmulas nº 279 e 280/STF: “para simples reexame de prova não cabe recurso extraordinário” e “por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO MUNICIPAL DE SANEAMENTO BÁSICO E DA TAXA DE LIXO. LEI COMPLEMENTAR MUNICIPAL Nº 350/2021. REVOGAÇÃO. PERDA DO OBJETO DO RECURSO. EFEITOS REMANESCENTES DA NORMA REVOGADA. INCIDÊNCIA DA SÚMULA 280 DO STF. DESPROVIMENTO. 1. A revogação expressa da Complementar Municipal nº 350/2021 pela Lei Complementar nº 379/2022 acarreta a perda superveniente de objeto do apelo extremo, com o consequente prejuízo do recurso extraordinário. Precedentes. 2. É inviável o processamento do apelo extremo quando seu exame implica rever a interpretação de norma local que fundamentou a decisão a quo. Incidência da Súmula 280 do STF. 3. Agravo regimental a que se nega provimento” (RE 1403739 AgR, Rel. Min. Edson Fachin, 2ª Turma, DJe 12.12.2023).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. TAXA DE LICENÇA. ALVARÁ DESCONSTRUÇÃO. FISCALIZAÇÃO MUNICIPAL. PROPORCIONALIDADE E RAZOABILIDADE: SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. ALEGADA OFENSA AO INC. LIV DO ART. 5º DA CONSTITUIÇÃO DA REPÚBLICA: INEXISTÊNCIA DE REPERCUSSÃO GERAL (TEMA 660). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 1.316.714-AgR, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 10.3.2022).
+
+    “Segundo agravo regimental no recurso extraordinário com agravo. Tributário. Taxa de controle e fiscalização do transporte de passageiros. Poder de polícia. Critérios da razoabilidade e da proporcionalidade entre o valor fixado para a taxa e o exercício do poder de polícia. Análise do acervo fático probatório dos autos. Análise de lei local. Impossibilidade. Súmulas 279 e 280/STF. Precedentes. 1. A taxa municipal devida em razão da vistoria do transporte escolar é calculada com base no porte do veículo e em sua natureza. Utilizam-se como parâmetro de equivalência entre o exercício do poder de polícia e sua remuneração os valores de tarifas e bandeiradas, o que é aceito pela Corte, conforme precedentes. 2. A análise acerca da proporcionalidade entre o valor cobrado e o custo da atividade estatal de exercício do poder de polícia a que se refere o tributo, inclusive no que se refere à suficiência dos elementos para a aferição do exercício do poder polícia, depende do reexame da causa à luz legislação de regência (Leis nº 8.133/9 e 11.182/11 e o Decreto Municipal nº 15.938/08) providências vedadas em sede de recurso extraordinário. Incidência das Súmulas 280 e 279 da Corte. 3. Agravo regimental não provido. 4. Majoração da verba honorária em valor equivalente a 10% (dez por cento) do total daquela já fixada (art. 85, §§ 2º, 3º e 11, do CPC), observada a eventual concessão do benefício da gratuidade da justiça” (ARE 1.270.898-AgR-segundo, Rel. Min. Dias Toffoli, 1ª Turma, DJe 1º.3.2021).
+
+    Destaco a inadmissibilidade do recurso extraordinário quanto à interposição com base no permissivo da alínea “b”, do art. 102, III, da Lei Fundamental, que pressupõe a declaração formal de inconstitucionalidade de lei ou ato normativo do Poder Público, o que não ocorreu no presente caso.
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 10 de abril de 2024.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
