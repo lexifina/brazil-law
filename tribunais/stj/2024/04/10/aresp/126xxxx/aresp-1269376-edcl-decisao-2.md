@@ -1,0 +1,13 @@
+DECISÃO
+PMG TRADING PARTICIPAÇÕES EIRELI opõe embargos declaratório s à decisão de fls. 2.226-2.230, que negou provimento a agravo em recurso especial.
+Alega a parte embargante que a decisão incorreu em omissão, contradição e erro material ao manter o acórdão recorrido, ignorando as teses de prescrição, quitação do débito, simulação no negócio jurídico, compensação de créditos e compensação de honorários.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a aclarar obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado.
+Assim definidas as hipóteses de acolhimento dos embargos de declaração, ressalto que não há, no caso em análise, qualquer omissão, contradição interna ou inexatidão material a serem reconhecidas.
+A simples leitura do julgado permite constatar que, ao contrário do que se afirma nas razões recursais, as questões que delimitam a controvérsia foram expressamente analisadas, além de ter sido justificada, fundamentadamente, a posição adotada, pela subsunção do inconformismo recursal aos rigores da Súmula n. 7 e 83 do STJ, uma vez que a controvérsia acerca da prescrição, quitação do débito, simulação no negócio jurídico e compensação de créditos foi dirimido pelo Tribunal de origem com base nas premissas fático-probatórias da demanda; e a solução referente ao arbitramento e à compensação de honorários encontra amparo na jurisprudência do STJ.
+Dessa forma, inexiste irregularidade sanável por meio dos presentes embargos, não padecendo a decisão embargada dos vícios que autorizariam sua oposição.
+Se, todavia, a conclusão ou os fundamentos adotados não foram corretos na opinião da embargante, não quer dizer que não existam ou que configurem qualquer outro vício. Afinal, não se pode confundir falta de motivação com fundamentação contrária aos interesses da parte (AgRg no Ag 56.745/SP, r elator Ministro Cesar Asfor Rocha, DJ de 12/12/1994).
+Registre-se que a mera irresignação da parte embargante quanto ao entendimento apresentado não viabiliza a oposição dos aclaratórios, que possuem finalidade integrativa e, portanto, não se prestam à reforma do entendimento aplicado ou ao rejulgamento da causa (EDcl no AgInt nos EAREsp n. 1.623.529/DF, relator Ministro Og Fernandes, Corte Especial, julgado em 1º/12/2021, DJe de 15/12/2021; EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 28/8/2020).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
