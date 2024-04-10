@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de conflito negativo por iniciativa do Juízo de Direito da 2ª Vara Cível de Bauru, Estado de São Paulo, em face do Juízo da 1ª Vara do Trabalho na mesma cidade, relativamente à reclamação trabalhista proposta por Domingos Inocêncio de Vasconcelos Júnior em desfavor de Maximize - Logística e Transportes Ltda. e de Frimesa Cooperativa Central.
+Na inicial, o autor alega que foi contratado pela primeira reclamada para exercer o cargo de motorista, mas prestava serviços para a segunda, com remuneração de R$ 2.000,00 (dois mil reais), vínculo que vigorou entre 1º.9.2021 e 26.3.2022, quando foi despedido sem motivação, sem o pagamento das verbas rescisórias, como o décimo terceiro salário, férias e terço, FGTS, aviso prévio indenizado, recolhimentos previdenciários e fiscais, e daquelas decorrentes da sobrejornada e do reembolso dos gastos, com acréscimo do adicional de insalubridade e do trabalho noturno, os quais pleiteia, além do reconhecimento do vínculo empregatício (fl. 7), com a anotação respectiva, indenização por danos morais pela excessiva carga horária.
+Após a contestação, em que defendido tratar-se de prestador de serviços autônomo, o Juízo do Trabalho declinou da competência em prol da Justiça comum estadual diante de que a natureza da relação jurídica seria de prestação de serviços por transportador autônomo de cargas, cuja legitimidade decorre do julgamento da constitucionalidade da Lei 11.442/2007 pelo Supremo Tribunal Federal, considerando que não foi alegada fraude na contratação nem requerido o reconhecimento do vínculo empregatício (fls. 278/282).
+O Juízo Cível, diante das pretensões deduzidas na inicial, como o pleito de reconhecimento da relação de emprego, que entendeu possuírem índole trabalhista, suscitou o presente conflito (fls. 325/328).
+Instado a se manifestar, opinou o Ministério Público Federal pela competência da Justiça do Trabalho para o processamento e o julgamento da causa (fls. 344/348).
+Assim delimitados os fatos, verifica-se que a competência se fixa em razão da causa de pedir e do pedido formulado na inicial, não na contestação, e que, na hipótese em comento, refere-se a matéria essencialmente trabalhista.
+Com efeito, percebe-se que o autor pretende o recebimento de verbas típicas da relação de emprego, cuja discussão tem pertinência com a competência ratione materiae da Justiça do Trabalho.
+Julgados da Segunda Seção, que tratam de matéria similar, definiram a competência da Justiça Laboral. Nesse sentido:
+PROCESSUAL CIVIL. CONFLITO POSITIVO. ATLETA PROFISSIONAL DE FUTEBOL. AÇÃO CAUTELAR PREPARATÓRIA DE RECLAMAÇÃO TRABALHISTA. RESCISÃO INDIRETA. LIMINAR. CONTRATO COM OUTRA AGREMIAÇÃO. AÇÃO CAUTELAR MOVIDA NA JUSTIÇA COMUM. PASSE. DIREITO PATRIMONIAL. LEIS N. 6.453/76, ART. 13, E 9.615/98, ARTS. 28, § 2º, 29, 31, 93 E 96. MEDIDA PROVISÓRIA N. 2.141/2001. NATUREZA DO PEDIDO. VERBAS TRABALHISTAS. MORA. COMPETÊNCIA DA JUSTIÇA TRABALHISTA.
+I. A rescisão indireta do contrato de trabalho, motivada pela inadimplência de verbas salariais, com deferimento de liminar para permitir celebração de contrato com outro clube de futebol, contraposta por idêntica medida, perante a Justiça estadual, para garantir o pagamento da indenização pelo valor do passe, como bem patrimonial, hoje prejudicada pelo transcurso do interstício para eficácia do direito pleiteado, insere a controvérsia na competência da Justiça do Trabalho.
+II. Conflito conhecido, para declarar competente a 5ª Vara do Trabalho de Belém, PA, prejudicado o agravo regimental.
+(CC 24.854/PA, Rel. Ministro ALDIR PASSARINHO JUNIOR, unânime, DJU de 26.8.2002)
+COMPETÊNCIA. PEDIDO QUE SE PRENDE À RELAÇÃO CONTRATUAL TRABALHISTA E VERBAS DO FGTS. COMPETENTE É A JUSTIÇA TRABALHISTA.
+O pleito se prende a verbas trabalhistas decorrentes de relação de trabalho regida pela CLT.
+Competência da Justiça Trabalhista.
+(CC 21.705/SC, Rel. Ministro BUENO DE SOUZA, unânime, DJU de 14.12.1998)
+CONFLITO NEGATIVO DE COMPETÊNCIA ENTRE JUÍZOS DE DIREITO E TRABALHISTA. RECLAMAÇÃO TRABALHISTA BUSCANDO O RECEBIMENTO DE VERBAS TRABALHISTAS. COMPETÊNCIA DA JUSTIÇA LABORAL.
+- Revelando a inicial lide de natureza trabalhista com base em alegado vínculo empregatício regido pela Consolidação das Leis do Trabalho, compete à justiça do trabalho o julgamento da causa. Em não sendo constatados os fatos alegados ou a relação de emprego, ter-se-á a improcedência da demanda, mas não a competência da justiça comum.
+- Competência do juízo suscitado - Junta de Conciliação e Julgamento de Surubim - PE. (destaquei)
+(CC 18.144/PE, Rel. Ministro CESAR ASFOR ROCHA, unânime, DJU de 3.8.1998)
+Calha consignar, na esteira do precedente por último transcrito, que não é permitido ao Judiciário extrair compreensão diversa da pretensão deduzida pela parte, modificando a causa de pedir, tendo como consequência, se não verificada a exatidão dos fatos, a improcedência do pedido, mas não a declinação da competência.
+Em face do exposto, conheço do conflito para declarar competente o Juízo da 1ª Vara do Trabalho em Bauru, SP.
+Comunique-se. Intimem-se.
+EMENTA
