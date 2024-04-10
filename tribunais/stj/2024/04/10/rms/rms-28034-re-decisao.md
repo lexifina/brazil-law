@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa:
+ADMINISTRATIVO. PRECATÓRIO ALIMENTAR. ATRASO NO PAGAMENTO. INEXISTÊNCIA DE QUEBRA DE ORDEM. SEQÜESTRO. INVIABILIDADE. FATO NOVO. IMPOSSIBILIDADE DE CONHECIMENTO. DILAÇÃO PROBATÓRIA INVIÁVEL.
+1. Hipótese em que os agravantes impetraram o writ contra o Presidente do TJ-ES pleiteando o sequestro de recursos para pagamento de seu precatório, por dois fundamentos: "a) estado caótico de saúde da Impetrante e de seu marido, bem como vida financeira à míngua (..); e b) o montante referente ao reparcelamento imposto pela Emenda Constitucional nº 30/2000".
+2. Ainda que seja deplorável o atraso no pagamento de precatório alimentar emitido em 1991, inexiste previsão constitucional ou legal para sequestro de recursos por atraso no pagamento.
+3. O art. 100, § 2º, in fine, da CF admite o sequestro apenas na hipótese de preterimento do direito de precedência (quebra da ordem cronológica), o que não ocorreu in casu.
+4. As precárias condições de saúde dos impetrantes merecem atenção do Poder Público. No entanto, o pagamento antecipado acaba por prejudicar outros credores alimentares com precatórios mais antigos e, eventualmente, em situação pessoal análoga, exatamente o que é vedado pelo art. 100, § 2º, da CF.
+5. Dito de outra forma, eventual juízo de equidade em favor dos recorrentes poderia redundar em grave injustiça contra outros credores que aguardam pagamento há mais tempo. Precedentes do STF.
+6. É cediço que o art. 78, § 4º, do ADCT prevê uma segunda hipótese para o sequestro de recursos: não-pagamento da parcela constitucional. Ocorre que os impetrantes não comprovaram que seu precatório foi parcelado na forma do art. 78 do ADCT e, mais, que as parcelas não foram pagas no prazo assinalado constitucionalmente.
+7. Por se tratar de precatório alimentar, seria impossível o parcelamento, conforme dispõe expressamente o art. 78, caput, do ADCT. Precedentes do STF.
+8. Inviável, em Agravo Regimental, inovar o fundamento jurídico do pedido e pretender exame de fatos novos (quebra de ordem no exercício de 2009), o que exigiria dilação probatória incompatível com o rito do mandamus.
+9. Nada impede que esses fatos novos, desde que devidamente comprovados, instruam outro pleito judicial, pois inexiste coisa julgada material em relação a eles.
+10. Agravo Regimental não provido.
+Os recorrentes alegam a violação dos arts. 100, § 2º, da Constituição Federal e 78, § 4º, do Ato das Disposições Constitucionais Transitórias, afirmando a repercussão geral da matéria recorrida.
+Sustentam que o atraso no pagamento de precatório alimentar autoriza o sequestro de verbas públicas pela autoridade judicial competente para o adimplemento da obrigação do Estado.
+Requerem, ao final, a admissão do recurso e a remessa dos autos ao Supremo Tribunal Federal.
+Foram apresentadas contrarrazões.
+É o relatório.
+O Supremo Tribunal Federal, no julgamento do RE n. 597.092 RG/RJ pela sistemática da repercussão geral, fixou a tese de que " é  constitucional o sequestro de verbas públicas pela autoridade judicial competente nas hipóteses do § 4º do art. 78 da ADCT, cuja normatividade veicula regime especial de pagamento de precatórios de observância obrigatória por parte dos entes federativos inadimplentes na situação descrita pelo caput do dispositivo" (Tema n. 231 do STF).
+Confira-se a ementa do precedente paradigma:
+RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. PRECATÓRIO. PARCELAMENTO DO ART. 78 DO ADCT, INCLUÍDO PELA EC 30/2000. POSSIBILIDADE DE O ENTE PÚBLICO OPTAR PELA REALIZAÇÃO DO PAGAMENTO DOS PRECATÓRIOS DE MANEIRA INTEGRAL (ART. 100 DA CONSTITUIÇÃO) OU DE FORMA PARCELADA (ART. 78 DO ADCT). SEQUESTRO DE RECURSOS FINANCEIROS: HIPÓTESES DE CABIMENTO (ART. 78, § 4º, DO ADCT).
+1. A partir da Emenda Constitucional n. 30/2000, todas as demais modificações da sistemática dos precatórios admitiram o sequestro de verbas em razão da não alocação orçamentária para satisfação dos débitos com precatórios, como se extrai, por exemplo, do art. 103 do ADCT, incluído pela EC 95/2017.
+2. No caso do regime especial do art. 78 do ADCT, não se compreende a facultatividade almejada, haja vista que os precatórios encontram-se vencidos, desrespeitando a normatividade geral do art. 100 do corpo dogmático da Constituição.
+3. O descumprimento do regime geral e a recusa em aderir ao regime especial geraria uma terceira hipótese constitucional, que pode ser traduzida no inadimplemento sine die, materializada no pleito para o Estado pagar, conforme a ordem cronológica de pagamentos, com atraso e na medida de sua capacidade financeira.
+4. A imperatividade do sequestro de verbas pela autoridade judicial, no caso de descumprimento ao regime especial de pagamento de precatório, previsto no art. 2º da EC 30/2000, é de aderência obrigatória aos entes federativos inadimplentes na situação descrita no caput do art. 78 do ADCT.
+5. Fixação da seguinte tese de julgamento ao presente Tema da sistemática da repercussão geral: "É constitucional o sequestro de verbas públicas pela autoridade judicial competente nas hipóteses do § 4º do art. 78 do ADCT, cuja normatividade veicula regime especial de pagamento de precatórios de observância obrigatória por parte dos entes federativos inadimplentes na situação descrita pelo caput do dispositivo."
+6. Recurso extraordinário a que nega provimento.
+(RE n. 597.092, relator Ministro Edson Fachin, Tribunal Pleno, julgado em 26/6/2023, Repercussão Geral - Mérito, DJe de 29/9/2023.)
+No caso, ao dirimir a presente controvérsia, esta Corte Superior observou a ausência de quebra da ordem cronológica na quitação dos precatórios inseridos na fila constitucional em que se encontram os créditos alimentares dos recorrentes, afastando, com isso, a incidência da regra disposta no art. 100, § 2º, da CF, com redação anterior à EC n. 62/2009, bem como salientou que o precatório alimentar não é alcançado pelo regime especial de pagamentos do art. 78, caput, do ADCT.
+Verifica-se, portanto, que o acórdão recorrido está em consonância com a jurisprudência firmada pela Suprema Corte, sobretudo com a tese estabelecida no Tema n. 231 do STF.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. PRECATÓRIO ALIMENTAR. REGIME ESPECIAL DE PAGAMENTO. ART. 78 DO ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS. NÃO INCIDÊNCIA. AUSÊNCIA DE QUEBRA DE ORDEM CRONOLÓGICA. SEQUESTRO. NÃO CABIMENTO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL FIRMADO SOB O REGIME DA REPERCUSSÃO GERAL. TEMA N. 231/STF. NEGATIVA DE SEGUIMENTO.
