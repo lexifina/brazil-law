@@ -1,0 +1,54 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de fl. 59 (e-STJ):
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de JESSICA BEATRIZ BOLONHA DOS SANTOS contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, nos autos da apelação criminal n. 0001381-71.2017.8.26.0673.
+Na hipótese, a defesa aponta constrangimento ilegal, pois o regime inicial fechado foi fixado com base na gravidade abstrata do delito, em franco descompasso com as Súmulas 718 e 719 do STF e 440 do STJ.
+Pugna pela fixação de regime inicial mais brando.
+Defende a aplicação do tráfico privilegiado.
+Requer, assim, em caráter liminar, a concessão da ordem, a fim de aplicar o "o redutor de pena do § 4º do artigo 33 da L. 11.343/2006, face a quantidade não elevada 8,46g de maconha e a paciente Jessica não se dedicar ou integrar organização criminosa, primária e de bons antecedentes, atualmente, com a filha  .. , com 02 anos e dois meses de idade, nascida aos 05/06/2020" (fl. 16).
+A liminar foi indeferida pelo Min. Jesuíno Rissato (Desembargador Convocado do TJDFT) (e-STJ fls. 59-60).
+As informações foram prestadas às e-STJ fls. 74-134.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (e-STJ fls. 142-148).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que configurada flagrante ilegalidade apta a gerar constrangimento ilegal, sendo possível a concessão da ordem de ofício. Veja-se:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. TRÁFICO DE DROGAS. INCIDÊNCIA DO REDUTOR PREVISTO NO § 4º DO ART. 33 DA LEI N. 11.343/06. DEDICAÇÃO À ATIVIDADES CRIMINOSAS. QUANTIDADE E NATUREZA DE DROGAS. REGIME DEVIDAMENTE FUNDAMENTADO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+2. A causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/06 não foi aplicada em razão das circunstâncias apuradas na instrução processual. Ficou evidenciado que o paciente se dedicava à atividades criminosas. A reforma desse entendimento constitui matéria que refoge ao restrito escopo do habeas corpus, porquanto, demanda percuciente reexame de fatos e provas, inviável no rito eleito.
+3. A quantidade e a natureza da droga demonstram a gravidade concreta do delito, justificando, por força do princípio da individualização da pena, o agravamento do aspecto qualitativo (regime) da pena.
+4. Habeas corpus não conhecido.
+(HC n. 643.197/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 11/5/2021, DJe de 14/5/2021 - grifos acrescidos.)
+O entendimento é de elevada importância, porquanto deve-se utilizá-lo com fito de preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+Passo à análise de ofício.
+Anoto que a concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que se verifica de plano na hipótese dos autos.
+A controvérsia posta em julgamento é se a natureza e quantidade da droga apreendida - 8,46g de maconha -, conjugada com a situação fática dos autos, é elemento suficiente para afastar a aplicação da causa de diminuição do art. 33, § 4º, da Lei 11.343/2006.
+A respeito do afastamento do redutor do tráfico privilegiado com fundamento na natureza e quantidade das drogas, a Terceira Seção desta Corte, no julgamento do REsp n. 1.887.511/SP, Relator Ministro JOÃO OTÁVIO DE NORONHA, realizado em 9/6/2021, DJe 1º/7/2021, decidiu que "a aplicação do benefício do art. 33, § 4º, da Lei n. 11.343/2006 não pode ser afastada somente com fundamento na natureza, na diversidade e na quantidade da droga apreendida, sendo necessário que esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa" (AgRg no AgRg no REsp n. 2.078.919/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/11/2023, DJe de 27/11/2023 - grifos acrescidos.)
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. VIOLAÇÃO DO ART. 619 DO CPP. AUSÊNCIA. DOSIMETRIA. ILEGALIDADE FLAGRANTE. MINORANTE DO TRÁFICO PRIVILEGIADO. DEDICAÇÃO AO CRIME RECONHECIDA COM BASE EM FUNDAMENTAÇÃO INIDÔNEA. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO.
+1. De acordo com o entendimento jurisprudencial remansoso neste Superior Tribunal de Justiça, os julgadores não estão obrigados a responder todas as questões e teses deduzidas em juízo, sendo suficiente que exponham os fundamentos que embasam a decisão" (EDcl no AREsp n. 771.666/RJ, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 2/2/2016).
+2. Na hipótese, o Tribunal de origem se manifestou de forma clara e fundamentada acerca da não ocorrência de violência policial.
+3. A quantidade e a natureza do entorpecente, associadas ao contexto em que se deu a sua apreensão, podem evidenciar a dedicação do agente à atividade criminosa. Contudo, na espécie, a quantidade de droga apreendida - aproximadamente 55,10g de maconha, 0,8 de crack e 12 gramas de cocaína - não se mostra suficiente para se concluir pela dedicação do paciente à atividade criminosa, razão pela qual deve ser aplicada a minorante prevista no art. 33, § 4º, da Lei n.º 11.343/2006.
+4. Agravo regimental improvido. Habeas corpus concedido de ofício, para, reconhecida em favor do agravante a causa de diminuição do tráfico privilegiado, em sua fração máxima de 2/3, fixar a sua pena em 1 ano e 8 meses de reclusão. (AgRg no REsp n. 2.097.557/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/11/2023, DJe de 27/11/2023 - grifos acrescidos.)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS (20 KG DE MACONHA). CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. NÃO RECONHECIMENTO PELAS INSTÂNCIAS ORDINÁRIAS. QUANTIDADE DO ENTORPECENTE APREENDIDO. IMPOSSIBILIDADE DE, ISOLADAMENTE CONSIDERADA, TER O CONDÃO DE AFASTAR A MINORANTE. RECONHECIMENTO QUE SE IMPÕE. RETORNO DOS AUTOS PARA ESCOLHA DO PATAMAR DE REDUÇÃO APLICÁVEL AO CASO.
+ .. .
+3. A jurisprudência desta Corte Superior é no sentido de que isoladamente consideradas, a natureza e a quantidade do entorpecente apreendido, por si sós, não são suficientes para embasar conclusão acerca da presença das referidas condições obstativas e, assim, afastar o reconhecimento da minorante do tráfico privilegiado (AgRg no REsp n. 1.687.969/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 26/3/2018) - (AgRg no AREsp n. 1.480.074/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/7/2019).
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 2.071.188/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/12/2023, DJe de 20/12/2023 - grifos acrescidos.)
+No caso, o acórdão negou a aplicação da causa de diminuição de pena com a seguinte fundamentação (e-STJ fls. 44-45)
+Na terceira fase, houve a aplicação da causa de aumento de penas prevista no art. 40, III, da Lei nº 11.343/2006, sendo as penas dessa apelante aumentadas na fração de 1/3, o que deve ser mantido pelos motivos acima mencionados, resultando suas penas em 06 anos e 08 meses de reclusão e, 666 dias-multa.
+ ..
+No caso em apreço, em que pese seja a apelante primária, a quantidade da droga apreendida (8,46g de maconha), associadas às circunstâncias do crime, com tentativa de ingresso em estabelecimento prisional, após delações, indicam, seguramente, a constância na prática delituosa, inviabilizando a incidência do redutor.
+Constato que a quantidade de droga apreendida - 8,64g de maconha (e-STJ fl. 45) -, para além de não ser expressiva, segundo a orientação desta Corte, não é apta, por si só, a indicar maior desvalor da conduta, tampouco há nos autos elementos aptos a comprovar a dedicação da paciente a atividades delitivas.
+Assim, na medida em que os argumentos aduzidos pelo acórdão não são idôneos para negar a aplicação da causa de diminuição de pena, aplico o redutor do § 4º do art. 33 da Lei nº 11.343/2006 e, não existindo razões de destaque, o faço no patamar máximo de 2/3.
+Passo a redimensionar a pena.
+Na primeira fase, a pena-base do crime de tráfico de drogas foi fixada no mínimo legal de 5 anos de reclusão e 500 dias-multa (e-STJ fl. 43).
+Na segunda fase, ausentes agravantes, foram reconhecidas as atenuantes da menoridade relativa e da confissão espontânea, no entanto, mantida a pena no mínimo legal, nos termos da Súmula 231/STJ (e-STJ fl. 44).
+Na terceira etapa, foi aplicada a causa de aumento do art. 40, III, da Lei 11.343/2006, no patamar de 1/3, o que resultou na pena de 6 anos e 8 meses de reclusão e 666 dias-multa (e-STJ fl. 44); e, pelo acima exposto, verificadas as condições para aplicação do § 4º do art. 33 da Lei nº 11.343/06, no patamar de 2/3, fixo a pena em 2 anos, 2 meses e 20 dias de reclusão e 222 dias-multa, quantum que torno definitivo à míngua de outras causas modificadoras.
+Não observando circunstâncias dignas de nota além daquelas já consideradas na dosimetria da pena, estabeleço o regime aberto como inicial de cumprimento de pena, nos termos do art. 33, § 2º, c, do CP.
+Atendidos os requisitos do art. 44 do Código Penal, a pena privativa de liberdade deve ser substituída por restritivas de direitos, a serem definidas pelo Juízo da execução penal.
+Ante o exposto, não conheço do habeas corpus e concedo a ordem de ofício para aplicar a causa de diminuição de pena do § 4º do art. 33 da Lei 11.343/06 e redimensionar a pena da paciente para 2 anos, 2 meses e 20 dias de reclusão, em regime aberto, substituída por duas penas restritivas de direitos, e 222 dias-multa.
+Comunique-se, com urgência, o teor desta decisão ao Tribunal de origem e ao respectivo juízo de primeiro grau.
+A paciente deverá ser imediatamente posta em liberdade, se por outro motivo não estiver presa.
+Expeça-se, com urgência, o respectivo alvará de soltura, bem como as demais comunicações pertinentes ao Tribunal de origem e ao Juízo a quo.
+Após, ciência ao Ministério Público Federal.
+Publique-se. Intime-se.
+EMENTA
