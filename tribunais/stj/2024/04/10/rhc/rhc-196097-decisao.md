@@ -1,0 +1,10 @@
+DECISÃO
+O presente recurso em habeas corpus, interposto por Luiz Guilherme Marques Fonseca - contra o acórdão proferido pelo Tribunal de Justiça de Minas Gerais (fls. 731/175 - HC n. 1.0000.24.139700-9/000) que manteve a prisão preventiva do recorrente, pela prática, em tese, do crime de tráfico de drogas (112,56 g de maconha e 35,578 g de crack - fl. 15) -, comporta pronto acolhimento.
+Com efeito, busca o recurso a revogação da prisão cautelar imposta ao recorrente - a partir da conversão de sua prisão em flagrante, em 26/12/2023 (fls. 274/276 - Autos n. 5011086-95.2023.8.13.0693, da 1ª Vara Criminal, de Menores e de Cartas Precatórias da comarca de Três Corações/MG) -, ao argumento de deficiência de fundamentação: o recorrente é primário e portador de bons antecedentes, tendo sido a sua prisão fundamentada de forma abstrata pelo Eg. TJMG (fl. 752).
+Da atenta análise dos autos, observa-se que o decreto prisional não demonstrou o receio de perigo gerado pelo estado de liberdade à ordem pública, apenas justificando a medida extrema na gravidade abstrata do delito e quantidade de entorpecente apreendido - a significativa quantidade e diversidade das substâncias apreendidas (cocaína e maconha), o modo de seu acondicionamento e a quantia em dinheiro (fl. 275) -, carecendo, assim, de fundamento apto a consubstanciar a prisão, especialmente por se tratar de quantidade de droga não expressiva (112,56 g de maconha e 35,578 g de crack - fl. 15).
+Em razão disso, dou provimento ao recurso para revogar a prisão preventiva imposta ao recorrente nos Autos n. 5011086-95.2023.8.13.0693, da 1ª Vara Criminal, de Menores e de Cartas Precatórias da comarca de Três Corações/MG.
+Comunique-se com urgência.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS (112,56 G DE MACONHA E 35,578 G DE CRACK). PRISÃO PREVENTIVA. RISCO DO ESTADO DE LIBERDADE PARA A ORDEM PÚBLICA NÃO EVIDENCIADO. AUSÊNCIA DE ELEMENTOS CONCRETOS. GRAVIDADE ABSTRATA. QUANTIDADE NÃO EXPRESSIVA DE ENTORPECENTE APREENDIDO. FUNDAMENTAÇÃO INSUFICIENTE. REVOGAÇÃO QUE SE IMPÕE.
+Recurso provido nos termos do dispositivo.
