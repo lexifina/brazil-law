@@ -1,0 +1,80 @@
+DECISÃO
+Cuida-se de agravo interposto por IRENE FERNANDES PEREIRA DA SILVA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fl. 250):
+PROCESSUAL CIVIL -APELAÇÃO -EXECUÇÃO INTIMAÇÃO DA EMBARGANTE PARA EMENDA DA INICIAL COM A REGULARIZAÇÃO DA REPRESENTAÇÃO PROCESSIAL DA PARTE AUTORA -CUMPRIMENTO PARCIAL -INDEFERIMENTO DA INICIAL -MANUTENÇÃO DA SENTENÇA.
+-Tendo a parte embargante sido intimada para emendar a inicial com o escopo de regularizar a sua representação processual juntando aos autos documentos específicos para tanto e deixando de fazê-lo a tempo e modo, age com acerto oJuiz ao indeferi-la e extinguir o processo sem resolução do mérito ante o não atendimento integral da ordem, nos termos do parágrafo único do art. 284, do CPC.
+Rejeitados os embargos de declaração opostos (fls. 283-289).
+Nas razões do recurso especial, a recorrente alega que o acórdão "viola à evidência o art. 5º, LIV E LV da Constituição Federal, visto que, nega vigência e contraria os artigos 319, 320, 398, 485, INCISO VI DO CPC e ainda art. 85, § 2º, incisos I, III e IV do CPC além do art. 663 do CC" (sic - fl. 298).
+Aduz, em síntese, que não lhe foi oportunizado o saneamento da documentação requerida, o que incorreu em flagrante cerceamento de defesa.
+Traça argumentação quanto à exorbitância dos honorários.
+Oferecidas contrarrazões (fls. 309-314), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 332-333), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 345-348).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+De início, não comporta conhecimento o recurso especial quanto à alegação de malferimento do art. 5º, LIV e LV, da Constituição Federal, por ser a via inadequada à alegação de afronta a artigos e preceitos da Constituição Federal, sob pena de usurpação de competência atribuída exclusivamente à Suprema Corte:
+III - Não cabe a esta Corte a apreciação de violação de dispositivos da Constituição Federal, sob pena de usurpação da competência do Supremo Tribunal Federal.
+(AREsp n. 1.970.639/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 8/11/2022, DJe de 14/11/2022.)
+5. É inviável a apreciação de ofensa a eventual violação de dispositivos e princípios constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal.
+(AgInt no AgInt nos EDcl no AREsp n. 2.007.927/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 18/10/2022.)
+Quanto à alegação de afronta ao art. 319 do CPC, as razões do recurso especial se limitaram a apontar a violação do caput, sem especificar, todavia, quais parágrafos, incisos ou alíneas foram contrariados, o que atrai a incidência do óbice na Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+2. Com efeito, observa-se que o recorrente, ao apontar violação ao art. 1.015 do CPC, não especificou o inciso ou parágrafo que serve de supedâneo aos fundamentos recursais, o que se considera imprescindível para a exata compreensão da tese e delimitação do julgamento, atraindo a incidência da Súmula 284/STF.
+3. "A indicação genérica do artigo de lei que teria sido contrariado induz a compreensão de que a violação alegada é somente de seu caput, que, no caso, traz em seu texto uma mera introdução ao regramento legal contido nos incisos ou nas alíneas. Nesse sentido: AgInt no AREsp n. 1.558.460/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 11/3/2020, AgInt no AREsp n. 1.229.292/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 4/9/2018;AgInt no AgRg no AREsp n. 801.901/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 1º/12/2017; AgInt nos EDcl no AREsp n. 875.399/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 1º/8/2017; AgInt no REsp n. 1.679.614/PE, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 18/9/2017 (..)" (AgInt no AREsp 1.833.676/RS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 22.9.2021).
+ ..
+(AgInt no AREsp n. 2.102.230/MA, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/11/2022.)
+2. Em relação ao pedido de majoração do quantum indenizatório, a alegação genérica de violação à lei federal, sem indicar de forma precisa o artigo, parágrafo ou alínea, da legislação tida por violada, tampouco em que medida teria o acórdão recorrido vulnerado a lei federal, bem como em que consistiu a suposta negativa de vigência da lei e, ainda, qual seria sua correta interpretação, ensejam deficiência de fundamentação no recurso especial, inviabilizando a abertura da instância excepcional. Aplicação da Súmula n. 284/STF.
+(AgInt no AREsp n. 2.042.341/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 17/8/2022.)
+No mesmo óbice incorre a alegação de afronta ao art. 398 do CPC, visto que não demonstrada a pertinência temática do referido normativo com a questão jurídica tratada nos autos.
+No mesmo sentido:
+III - Na espécie, incide o óbice da Súmula n. 284/STF em razão da ausência de comando normativo dos dispositivos apontados como violados, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+IV - Segundo a jurisprudência do STJ, o óbice de ausência de comando normativo do artigo de lei federal apontado como violado ou como objeto de divergência jurisprudencial incide nas seguintes situações: quando não tem correlação com a controvérsia recursal, por versar sobre tema diverso; e quando sua indicação não é apta, por si só, para sustentar a tese recursal, seja porque o dispositivo legal tem caráter genérico, seja porque, embora consigne em seu texto comando específico, exigiria a combinação com outros dispositivo legais.
+(AgInt no AREsp n. 2.035.985/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 31/8/2022.)
+1. A alegada afronta à lei federal não foi demonstrada com clareza, pois o único dispositivo apontado como violado não tem comando normativo suficiente para amparar a tese recursal, atraindo, por analogia, o óbice da Súmula 284 do STF.
+(AgInt no REsp n. 1.981.159/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 22/6/2022.)
+Quanto aos arts. 320 e 485 do CPC, observa-se que a extinção da ação decorreu da ausência de documentação que amparasse o pleito inicial. Vejamos:
+A preliminar de cerceamento de defesa, aviada nos meandros das contrarrazões se confunde com o mérito e nesta seara será analisada.
+Em exame, verifica-se que, no curso da lide, a d. Julgadora a quo, entendendo deficiente a instrução da inicial, proferiu o despacho de ordem 107, nos seguintes termos, litteris:
+ ..
+Na sequencia, a autora juntou petição de ordem 108 e a Procuração de ordem 109.
+À ordem 110, a d. Julgadora exarou o seguinte despacho:
+"Trata-se de execução de título extrajudicial, em que devidamente intimada a exequente para proceder com a sua regularização processual, apresentando, para além de instrumento de mandato, documentos que comprovassem a veracidade das assinaturas e dos demais dados fornecidos como qualificação na inicial, essa juntou somente sua procuração, conforme se verifica no ID 3937688016.
+Assim, considerando que o sistema registrou ciência do despacho retro (ID 3728977998) em 21 de junho de 2021, certifique-se o decurso do prazo para o seu cumprimento, já que transcorrido em 13 de julho de 2021.
+Após, renove-se os autos conclusos para julgamento". (destaquei).
+À ordem 111, foi certificado que "decorreu o prazo da exequente sem o cumprimento total do despacho ID 3728977998, 26.05.2021. A parte juntou apenas a procuração (ID 3937688016, 09.06.2021)."
+Sobreveio a r. sentença de ordem 113, o MM. Juiz indeferiu a inicial e julgou extinto o processo, com a seguinte fundamentação, litteris:
+"Em Id 3754578049, intimou-se a exequente a comprovar, documentalmente, a veracidade das assinaturas nos documentos juntados, por meio de documento de identificação, essenciais para o andamento processual, sob pena de extinção do presente feito. No entanto, verifico que em Id 3937688012 foi juntada apenas a procuração referente ao representante da executada. Assim, haja vista a certidão de decurso do prazo em Id 4999158003, JULGO EXTINTA a execução sem resolução do mérito, com fulcro no artigo 485, IV do CPC."
+Em exame, penso que a r. sentença não merece reforma.
+Ora, entendimento pacífico de que em se tratando de hipótese prevista no art. 485 do CPC, antes de indeferir a inicial o Juiz deve oportunizar à parte a emenda da inicial ou a juntada de documentos essenciais, sendo este um direito da parte.
+ ..
+No caso, conforme certificado, instada a apelante a comprovar, documentalmente, a veracidade das assinaturas nos documentos juntados, por meio de documento de identificação, peças processuais que entendeu relevantes para o andamento processual, sob pena de indeferimento da inicial, esta não cumpriu a tempo e modo a determinação exarada.
+É importante frisar bem. Foi dada a oportunidade para a parte e ela não observou o comando legal. Nesse passo não há se cogitar de cerceamento de defesa.
+Portanto, outra não poderia ser a r. decisão que indeferiu a inicial, com fulcro no art. 485, IV do CPC. Considerando que esse indeferimento constitui matéria de ordem pública não há, igualmente, se falar em preclusão, podendo a mesma ser examinada mesmo depois do recebimento dos embargos e/ou exceção de pré-executividade, como na hipótese aqui tratada.
+Sendo assim, NEGA-SE PROVIMENTO ao recurso, mantendo-se incólume a r. sentença.
+Neste contexto, a reversão do julgado quanto à inépcia da inicial, porquanto não colacionados documentos essenciais à propositura da ação, bem como quanto à inexistência de cerceamento de defesa em razão de abertura de prazo para saneamento dos referidos documentos, o qual não teria ocorrido de forma completa, demandaria o reexame do acervo fático dos autos, o que esbarra no óbice da Súmula n. 7/STJ.
+Neste sentido:
+4. Alterar o decidido no acórdão impugnado, no sentido da insuficiência de documentação para a indicação do quantum devido - o que refletiria na inépcia da inicial, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+(AgInt nos EDcl no REsp n. 1.806.728/SC, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 16/10/2019.)
+V - Verifica-se que a irresignação do recorrente, acerca da necessidade de oportunização de saneamento do vício processual, vai de encontro às convicções do julgador a quo, o qual, com lastro no conjunto probatório constante dos autos, decidiu que, mesmo após oportunizado à parte recorrente a correção do vício, determinando a comprovação do depósito prévio no prazo de cinco dias, os recorrentes somente apresentaram comprovante de pagamento após o transcurso do referido prazo e, ainda, após a extinção do processo, sem exame do mérito, quando da oposição dos embargos declaratórios.
+VI - Para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+(AgInt no AREsp n. 1.303.291/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 24/10/2018.)
+1. No que se refere à suscitada inépcia da inicial, em virtude da ausência de documentos essenciais à propositura da ação, o exame da questão no presente caso envolveria, necessariamente, o disposto na Súmula 7/STJ.
+(AgInt no AREsp n. 842.151/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 7/4/2017.)
+Por fim, da análise do acordão recorrido, observa-se que o Tribunal de origem, ao negar provimento à apelação, limitou-se a majorar a verba honorária, a teor de expressa determinação legal, sem emitir qualquer juízo de valor sobre "o trabalho realizado pelo causídico ex adverso" (fl. 300), até porque tal questão sequer foi suscitada naquela instância, a evidenciar a inovação em recurso especial e que corrobora a inexistência de prequestionamento da particularidade.
+Assim, incide no caso o enunciado da Súmula n. 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo T ribunal a quo".
+Nesse sentido, cito:
+5. A simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 do STF e 211 do STJ.
+(AgInt nos EDcl no REsp n. 1.993.188/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 17/10/2022.)
+2. A ausência de debate em torno dos dispositivos tidos como violados impede o conhecimento do recurso especial, a despeito da oposição de embargos de declaração. Súmula nº 211/STJ.
+(AgInt no AREsp n. 1.994.278/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 10/10/2022.)
+1. O conhecimento do recurso especial exige que a tese recursal e o conteúdo normativo apontado como violado tenham sido objeto de efetivo pronunciamento por parte do Tribunal de origem, ainda que em embargos de declaração, o que não ocorreu no caso em tela (Súmula n. 211/STJ).
+1.1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Sua ocorrência se dá quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, situação não verificada na hipótese dos autos.
+(AgInt no AREsp n. 2.131.426/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 18/10/2022.)
+Ainda que assim não fosse, "É cabível o arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC), impondo-se a majoração do percentual já fixado, relativo aos honorários advocatícios, independentemente de comprovação do efetivo trabalho adicional pelo advogado da parte recorrida, sendo devida mesmo quando não apresentadas contrarrazões. Precedentes" (AgInt nos EDcl nos EDcl no AREsp n. 2.236.428/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 26/10/2023).
+Por seu turno, o patamar de majoração escapa do campo de atuação do STJ, ante o óbice da Súmula n. 7/STJ:
+10. O STJ pacificou a orientação de que o quantum da verba de honorários, em razão da sucumbência processual, está sujeito a critérios de valoração previstos na lei processual, e sua fixação é ato próprio dos juízos das instâncias ordinárias, aos quais competem a cognição e a consideração das situações de natureza fática. Nesses casos, o STJ atua na revisão dessa verba somente quando esta tiver valor irrisório ou exorbitante, o que não se configura na presente hipótese.
+11. Aplicar posicionamento distinto do proferido pelo aresto impugnado confrontado implicaria, necessariamente, reexame da matéria fático-probatória, o que e obstado a este Tribunal Superior, conforme determinado na Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+(EDcl no AgInt no AREsp n. 1.911.424/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 30/9/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados pelo Tribunal de origem para 14% sobre o valor atualizado da execução, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
