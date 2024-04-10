@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo Estado da Bahia contra decisão monocrática de fls. 455/456, proferida pela Presidência desta Corte Superior, que não conheceu do agravo em recurso especial sob a incidência da Súmula 182 do STJ.
+Sustenta, em resumo, a parte agravante, que "quanto a impossibilidade de análise por parte desta Corte de agravo em recurso especial interposto em face de decisão que inadmitiu a pretensão com base em recurso repetitivo, importante esclarecer que, o Estado refutou os óbices relativos à não violação ao art. 1022 do CPC/15, senão vejamos: .. " (fl. 461).
+Impugnação às fls. 472/477.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelo arts. art. 1.021, § 2º, 2ª parte, do CPC e 259 do RISTJ, reconsidero a decisão agravada, tornando-a sem efeito, passando novamente à analise do recurso:
+Trata-se de agravo manejado pelo Estado da Bahia contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, assim ementado (fl. 274):
+APELAÇÃO. DIREITO ADMINISTRATIVO, DIREITO PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. SENTENÇA QUE JULGOU PROCEDENTE EM PARTE O PEDIDO CONTIDO NA PETIÇÃO INICIAL, PARA DETERMINAR QUE O RÉU PROCEDA COM A PROMOÇÃO DO AUTOR, NOS TERMOS DO ART. 126, INCISO V, 85º DA LEI 7.990/01, GARANTINDO A PROMOÇÃO POR RESSARCIMENTO DE PRETERIÇÃO, EFETUADA SEGUNDO OS CRITÉRIOS DE ANTIGUIDADE, RECEBENDO O POLICIAL MILITAR PROMOVIDO O NÚMERO QUE LHE COMPETIA NA ESCALA HIERÁRQUICA, COMO SE HOUVESSE SIDO PROMOVIDO NA ÉPOCA DEVIDA. PROCEDIMENTO PENAL JULGADO. SENTENÇA DE IMPRONUNCIA. APELAÇÃO IMPROVIDA, SENTENÇA MANTIDA.
+Opostos embargos de declaração, foram rejeitados (fls. 296/297).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 140 e 1.022, II, do CPC, sustentando, em síntese que "a rejeição dos embargos declaratórios opostos implica nítida e inequívoca negativa de prestação jurisdicional, em manifesta violação aos arts. 140 e 1.022, inciso II, todos do digesto processual, cujo prequestionamento também foi provocado desde a inicial do Estado, reiterada nos embargos declaratórios, mas não promovida." (fl. 303).
+Parecer ministerial às fls. 492/493.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece acolhida.
+De início, mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na espécie, o óbice da Súmula 284 do STF. Nesse mesmo sentido vão os seguintes precedentes: AgInt no AREsp 1.070.808/MA, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 10/6/2020; AgInt no REsp 1.730.680/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 24/4/2020; AgInt nos EDcl no AREsp 1.141.396/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 12/3/20020; AgInt no REsp 1.588.520/DF, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 27/2/2020 e AgInt no AREsp 1.018.228/PI, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019.
+Ademais, a matéria pertinente ao art. 140 do CPC não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Por fim, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+ANTE O EXPOSTO, (i) reconsidero a decisão de fls. 455/456, tornando-a sem efeito; e (ii) nego provimento ao agravo em recurso especial.
+Publique-se.
+EMENTA
