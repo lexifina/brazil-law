@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 924):
+CONFLITO DE COMPETÊNCIA - RECUPERAÇÃO JUDICIAL - EXECUÇÃO TRABALHISTA - DEPÓSITOS RECURSAIS ANTERIORES AO PROCESSAMENTO DA RECUPERAÇÃO JUDICIAL - COMPETÊNCIA DO JUÍZO UNIVERSAL - ESCÓLIO JURISPRUDENCIAL DA SEGUNDA SEÇÃO - DELIBERAÇÃO UNIPESSOAL QUE DECLAROU A COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL - INSURGÊNCIA DO AGRAVANTE.
+1. A jurisprudência desta eg. Segunda Seção perfilha compreensão no sentido de que, após o deferimento do processamento da recuperação judicial, é do juízo da recuperação a competência para analisar o prosseguimento dos atos de execução relacionados a reclamações trabalhistas movidas contra a empresa recuperanda, incluindo-se a deliberação acerca da destinação dos valores atinentes aos depósitos recursais feitos em reclamações trabalhistas, ainda que efetivados anteriormente à decretação da falência ou ao deferimento da recuperação. Precedentes da Segunda Seção.
+2. Agravo interno desprovido.
+A parte recorrente alega a violação do art. 102, o, da CF. Aduz que haveria repercussão geral da matéria tratada.
+Sustenta divergência de entendimento jurisprudencial entre o STJ e o TRT da 4ª Região quanto à competência para a destinação de valores bloqueados de sociedade empresária antes do deferimento da recuperação judicial.
+Requer, ao final, a admissão do recurso e a remessa dos autos ao Supremo Tribunal Federal.
+Não foram oferecidas contrarrazões.
+É o relatório.
+Ao interpretar o art. 114, I a IX, da Constituição Federal, o Supremo Tribunal Federal firmou o entendimento de que a Lei n. 11.101/2005, que manteve sob o crivo do juízo universal cível a execução de créditos trabalhistas, sem prejuízo da competência da Justiça laboral quanto ao julgamento do processo de conhecimento, não conflita com o texto constitucional.
+Nesse sentido é o Tema n. 90 do STF, segundo o qual "compete ao juízo comum falimentar processar e julgar a execução dos créditos trabalhistas no caso de empresa em fase de recuperação judicial".
+Confira-se, por oportuno, a ementa do acórdão:
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO DE CRÉDITOS TRABALHISTAS EM PROCESSOS DE RECUPERAÇÃO JUDICIAL. COMPETÊNCIA DA JUSTIÇA ESTADUAL COMUM, COM EXCLUSÃO DA JUSTIÇA DO TRABALHO. INTERPRETAÇÃO DO DISPOSTO NA LEI 11.101/05, EM FACE DO ART. 114 DA CF. RECURSO EXTRAORDINÁRIO CONHECIDO E IMPROVIDO.
+I - A questão central debatida no presente recurso consiste em saber qual o juízo competente para processar e julgar a execução dos créditos trabalhistas no caso de empresa em fase de recuperação judicial.
+II - Na vigência do Decreto-lei 7.661/1945 consolidou-se o entendimento de que a competência para executar os créditos ora discutidos é da Justiça Estadual Comum, sendo essa também a regra adotada pela Lei 11.101/05.
+III - O inc. IX do art. 114 da Constituição Federal apenas outorgou ao legislador ordinário a faculdade de submeter à competência da Justiça Laboral outras controvérsias, além daquelas taxativamente estabelecidas nos incisos anteriores, desde que decorrentes da relação de trabalho.
+IV - O texto constitucional não o obrigou a fazê-lo, deixando ao seu alvedrio a avaliação das hipóteses em que se afigure conveniente o julgamento pela Justiça do Trabalho, à luz das peculiaridades das situações que pretende regrar.
+V - A opção do legislador infraconstitucional foi manter o regime anterior de execução dos créditos trabalhistas pelo juízo universal da falência, sem prejuízo da competência da Justiça Laboral quanto ao julgamento do processo de conhecimento.
+VI - Recurso extraordinário conhecido e improvido.
+(RE n. 583.955, relator Ministro Ricardo Lewandowski, Tribunal Pleno, julgado em 28/5/2009, Repercussão geral - mérito, DJe de 28/8/2009.)
+Na espécie, esta Corte Superior de Justiça assim decidiu (fls. 928-929):
+1. Consoante destacado na oportunidade do exame unipessoal, a jurisprudência desta eg. Segunda Seção perfilha compreensão no sentido de que, após o deferimento do processamento da recuperação judicial, é do juízo da recuperação a competência para analisar o prosseguimento dos atos de execução relacionados a reclamações trabalhistas movidas contra a empresa recuperanda, incluindo-se a deliberação acerca da destinação dos valores atinentes aos depósitos recursais feitos em reclamações trabalhistas, ainda que efetivados anteriormente à decretação da falência ou ao deferimento da recuperação.
+Nessa linha, confiram-se os seguintes julgados, dentre inúmeros outros: AgInt nos EDcl no CC 174322/SP, Rel. Min. Nancy Andrighi, DJe de 14/6/2021; AgInt no CC 172707/SP, Rel. Min. Luis Felipe Salomão, Dje de 02/10/2020; AgInt no CC 152.280/GO, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 08/08/2018, DJe de 14/08/2018; CC n. 121.327/DF, Ministra NANCY ANDRIGHI, DJe 2/5/2012, CC n 102.613/SP, Ministro MASSAMI UYEDA, DJe 7/10/2011, CC n. 118.574/SP, Ministro SIDNEI BENETI, DJe 27/10/2011, CC n. 118.524/SP, Ministro LUIS FELIPE SALOMÃO, DJe 4/5/2012, CC n. 120.454/SP, Ministra Maria Isabel Gallotti, DJe 30/4/2012.
+E ainda:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. LIMINAR DEFERIDA. SUSPENSÃO DA EXECUÇÃO TRABALHISTA. RECUPERAÇÃO JUDICIAL. JUSTIÇA LABORAL. DEPÓSITO RECURSAL REALIZADO ANTES DO DEFERIMENTO DA RECUPERAÇÃO. RETENÇÃO. IMPOSSIBILIDADE. COMPETÊNCIA DO JUÍZO UNIVERSAL. ART. 76 DA LEI N. 11.101/2005.
+1. Os atos de execução dos créditos individuais e fiscais promovidos contra empresas falidas ou em recuperação judicial, tanto sob a égide do Decreto-Lei n. 7.661/45 quanto da Lei n. 11.101/2005, devem ser realizados pelo Juízo universal. Inteligência do art. 76 da Lei n. 11.101/2005. Precedentes.
+2. A decretação da falência carreia ao juízo universal da falência a competência para distribuir o patrimônio da massa falida aos credores conforme as regras concursais da lei falimentar, inclusive, decidir acerca do destino dos depósitos recursais feitos no curso da reclamação trabalhista, ainda que anteriores à decretação da falência (CC 101.477/SP, Rel. Ministro MASSAMI UYEDA, SEGUNDA SEÇÃO, julgado em 09/12/2009, DJe 12/05/2010).
+2. A decretação da falência carreia ao juízo universal da falência a competência para distribuir o patrimônio da massa falida aos credores conforme as regras concursais da lei falimentar, inclusive, decidir acerca do destino dos depósitos recursais feitos no curso da reclamação trabalhista, ainda que anteriores à decretação da falência (CC 101.477/SP, Rel. Ministro MASSAMI UYEDA, SEGUNDA SEÇÃO, julgado em 09/12/2009, DJe 12/05/2010).
+4. Agravo interno não provido.
+Agint no CC 172707/SP, Rel. Min. LUIS FELIPE SALOMÃO, Dje de 02/10/2020.
+Com efeito, a deliberação ora fustigada, por se encontrar em linha com a jurisprudência da Segunda Seção, merece ser mantida por seus próprios fundamentos.
+Conclui-se, portanto, que o acórdão recorrido encontra-se em consonância com a jurisprudência estabelecida pela Suprema Corte em repercussão geral no Tema n. 90 do STF.
+Nesse sentido:
+CONFLITO DE COMPETÊNCIA. DEPÓSITO RECURSAL TRABALHISTA. RECUPERAÇÃO JUDICIAL. JUÍZO FALIMENTAR VERSUS JUSTIÇA DO TRABALHO.
+1. No julgamento do RE 583.955 RG, Relator o ministro Ricardo Lewandowski, DJe de 28 de agosto de 2009  Tema n. 90  , o Tribunal proclamou caber ao Juízo falimentar o processamento e julgamento da execução dos créditos trabalhistas atinentes a empresa em recuperação judicial.
+2. É do Juízo da Vara de Falências e Recuperações Judiciais a competência para decidir sobre o destino dos depósitos realizados, ainda que anteriores ao deferimento, por sociedade empresária em recuperação judicial, no curso de reclamação trabalhista.
+3. Conflito de competência conhecido a fim de declarar-se a competência do Juízo da Primeira Vara de Falências e Recuperações Judiciais do Foro Central da Comarca de São Paulo para decidir sobre a liberação de depósitos recursais na Justiça do Trabalho.
+(CC n. 8.143, relator Ministro Marco Aurélio, relator p/ Acórdão: Ministro Nunes Marques, Tribunal Pleno, julgado em 3/8/2021, DJe de 26/11/2021)
+Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Observando os princípios da cooperação e da celeridade, anoto que contra decisões que negam seguimento a recurso extraordinário não é cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC e adequado para impugnação das decisões de inadmissão), conforme previsão do § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. EXECUÇÃO DE CRÉDITOS TRABALHISTAS. EMPRESA EM RECUPERAÇÃO JUDICIAL. CONFLITO DE COMPETÊNCIA. JUÍZO LABORAL E JUÍZO FALIMENTAR. TEMA N. 90/STF. NEGATIVA DE SEGUIMENTO.
