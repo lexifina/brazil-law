@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por TALITA APARECIDA MOREIRA BIASUZ, com fundamento no art. 105, III, a, da Constituição Federal, para impugnar o acórdão proferido pela Terceira Câmara de Direito Privado do Tribunal de Justiça do Estado de Mato Grosso (e-STJ, fls. 270-271):
+BUSCA E APREENSÃO - ALIENAÇÃO FIDUCIÁRIA - DECRETO-LEI N. 911/69 - NOVA REDAÇÃO - LEI N. 10.931/04 - NOTIFICAÇÃO EXTRAJUDICIAL ENVIADA POR MEIO DE CARTA REGISTRADA NO ENDEREÇO DO CONTRATO - DEVOLUÇÃO COM A INFORMAÇÃO DE "ENDEREÇO INSUFICIENTE" - MORA CONFIGURADA - PRINCÍPIO DA BOA-FÉ - AUDIÊNCIA DE CONCILAÇÃO PELO NÚCLEO - FRUSTRADA - INÚMERAS TRATATIVAS DE ACORDO - SEM ÊXITO - DECISÃO MANTIDA - RECURSO DESPROVIDO.
+A busca e apreensão de bem alienado fiduciariamente pressupõe a comprovação da constituição do devedor em mora pelo protesto do título ou por meio de carta registrada pelo Cartório de Títulos e Documentos, conforme dispõe o art. 2º, §2º, do Decreto Lei n. 911/69.
+Com o advento da Lei n. 13.043/2014, têm-se a constituição da mora através de carta registrada, com aviso de recebimento, entregue no endereço constante do contrato, mesmo que recepcionada por terceiro.
+Seguindo o atual entendimento do Superior Tribunal de Justiça, considera-se constituída a mora na hipótese do envio da notificação, com aviso de recebimento, para o endereço constante do contrato, mesmo que retorne com a informação "endereço insuficiente", pois, o devedor tem o dever de fornecer o endereço completo e mantê-lo atualizado junto a instituição financeira, em atenção ao princípio da boa-fé.
+Opostos os embargos de declaração, o Tribunal de origem os rejeitou (e-STJ, fls. 352-354).
+Nas razões do recurso especial (e-STJ, fls. 400-417), a insurgente aponta violação aos arts. 485, IV, 489, §1º, IV, 1.010, II, III, 1.013 e 1.022 do CPC/2015; e aos arts. 394, 396 e 422 do Código Civil.
+Alega que, embora tenha provado o colegiado de origem com a oposição dos embargos de declaração, a decisão permaneceu omissa quanto à alegação de comportamento contraditório da parte recorrida.
+Sustenta que relator na origem "não adentrou ao referido pleito para reconhecimento do comportamento contraditório da instituição financeira, motivo pelo qual, se mostra omisso o referido acórdão por não ter decidido sobre o pleito em questão, aliás, o referido argumento ele é capaz de alterar o acórdão objurgada, motivo pelo qual é consabido que, a ausência de análise de pleitos cujos argumentos são capazes de alterar a conclusão adotada na sentença faz com que a prestação jurisdicional não seja entregue deforma completa, em descompasso com o disposto no art. 489 do CPC" (e-STJ, fl. 415).
+Contrarrazões às fls. 446-458 (e-STJ).
+Com o juízo positivo de admissibilidade (e-STJ, fls. 459-464), ascenderam os autos a este Superior Tribunal.
+Brevemente relatado, decido.
+Trata-se, na origem, de ação de busca e apreensão ajuizada pelo banco recorrido.
+De início, são cabíveis os embargos de declaração somente quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, conforme dispõe o art. 1.022 do CPC/2015.
+Na hipótese dos autos, aduz a recorrente que, quando do julgamento dos embargos de declaração, a Terceira Câmara de Direito Privado do Tribunal de Justiça do Estado de Mato Grosso manteve-se silente quanto à questão do comportamento contraditório do recorrido, tendo em vista que a ação de busca e apreensão fora ajuizada no período em que estava ocorrendo negociação do débito em aberto.
+Nota-se da leitura do aresto fustigado que, não obstante a oposição dos declaratórios para tal finalidade, a Câmara julgadora não enfrentou as questões suscitadas pelo recorrente.
+Tal circunstância impõe o retorno dos autos para que o órgão competente realize novo julgamento dos embargos de declaração, com a devida apreciação sobre a peculiaridade do caso.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÍVIDA C/C DANOS MORAIS. CONFISSÃO FICTA DA AUTORA. CLÁUSULA LIMITATIVA. ÔNUS DA PROVA. TEMAS RELEVANTES PARA O JULGAMENTO DA LIDE. AUSÊNCIA DE PRONUNCIAMENTO. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. DECISÃO MANTIDA.
+1. Deixando a Corte local de se manifestar sobre questões relevantes, apontadas em embargos de declaração que, em tese, poderiam infirmar a conclusão adotada pelo Juízo, tem-se por configurada a violação do art. 535 do CPC/1973, devendo ser provido o recurso especial, com determinação de retorno dos autos à origem, para que seja suprido o vício.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 798.810/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 01/03/2021, DJe 03/03/2021)
+Ante o exposto, dou provimento ao recurso especial, a fim de, reconhecida a violação do art. 1.022 do CPC/2015, determinar ao Tribunal de origem que realize novo julgamento dos embargos de declaração, devendo se pronunciar, como entender de direito, sobre as relevantes questões que lhe foram submetidas pela parte embargante.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. APELAÇÃO CÍVEL. DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. VIOLAÇÃO AO ART. 1.022, II, DO CPC/2015. OMISSÃO . RETORNO DOS AUTOS À ORIGEM. RECURSO ESPECIAL PROVIDO.
