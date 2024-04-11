@@ -1,0 +1,22 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto pelo SINDICATO DOS TRABALHADORES EM ENSINO SUPERIOR DA PARAÍBA - SINTESP, contra decisão que inadmitiu o recurso especial com fundamento na Súmula 7/STJ.
+Alega a parte agravante ser "patente o prejuízo suportado pelos recorrentes na medida em que, imediatamente após a ciência do acórdão, os autos foram remetidos à parte adversa, prejudicando de sobremaneira o manejo de recurso de embargos de declaração com o fim de prequestionar a matéria desprovida constante do recurso de apelação aviado oportunamente pela parte aqui recorrente, não se aplicando no caso em epígrafe a Súmula 7/STJ" (fl. 941).
+Contrarrazões apresentadas às fls. 930-932.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+O recurso não merece prosperar.
+A pretensão da parte recorrente relativa à violação dos arts. 40 e 183 do CPC/1973 encontra óbice na Súmula 7/STJ. Isso porque, para alterar as conclusões do órgão julgador de que - "a parte tomou ciência do acórdão e teve vista dos autos no dia 18.06.13 (fl. 800), em nada a prejudicando a remessa dos autos à Fazenda Nacional para ciência da decisão após este fato" (fl. 863) - seria imprescindível o reexame do acervo fático-probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284 DO STF. RESERVA LEGAL. FALTA DE INTERESSE DE AGIR. MATÉRIA QUE DEVERIA TER SIDO SUSCITADA EM AÇÃO CIVIL PÚBLICA ANTERIORMENTE AJUIZADA CONTRA O RECORRENTE. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+4. Para chegar a conclusão diversa da que chegou o Tribunal de origem, é inevitável novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo Interno não provido (AgInt no AREsp n. 2.168.672/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 5/6/2023).
+AGRAVO INTERNO EM EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTIMAÇÃO. CONCLUSÃO DO TRIBUNAL DE ORIGEM PELA AUSÊNCIA DE PREJUÍZO, PORQUANTO A PARTE NÃO MANIFESTOU INTERESSE EM RECORRER. AUSÊNCIA DE PREJUÍZO (PAS DE NULITTÉ SANS GRIEF). REVISÃO. SÚMULA 7/STJ. MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC DE 1973. MANUTENÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. O sistema processual civil é informado pelos princípios da instrumentalidade das formas e do aproveitamento dos atos processuais, de sorte que a declaração de nulidade dos atos processuais reclama a demonstração da existência de prejuízo à defesa da parte interessada, consoante o princípio pas de nulitté sans grief. Precedentes.
+2. Ademais, a jurisprudência desta Corte Superior é uníssona no sentido de que a intimação da parte contrária para oferecer resposta ao recurso oferecido pela parte contrária pode ser dispensada na hipótese em que a insurgência é inadmitida ou não provida, mercê de a decisão, nesse caso, beneficiar o recorrido.
+3. Na espécie, a Corte local assentou, por um lado, a ausência de prejuízo da ora recorrente para oferecer contrarrazões ao recurso de apelação manejado por uma das partes contrária, tendo em vista que a Corte a quo não conheceu do apelo, sendo certo que, nesse ponto, o aresto não foi impugnado pelo mencionado apelante; lado outro, reiterou a ausência de prejuízo, porquanto a ora insurgente, em sua petição, não manifestou o interesse em recorrer contra a sentença que julgou improcedentes os embargos de terceiro, integrada pela decisão que rejeitou os embargos de declaração.
+4. Desse modo, a revisão do julgado demandaria a alteração do quadro fático apresentado pela instância ordinária mediante o revolvimento das provas carreadas aos autos, providência insindicável em sede de recurso especial por força do óbice contido na Súmula 7/STJ.
+5. Deve ser mantida a multa do art. 538, parágrafo único, do CPC de 1973, quando os aclaratórios opostos na origem têm intuito exclusivamente protelatórios. Precedentes do STJ.
+6. Agravo interno não provido (AgInt nos EDcl no REsp n. 1.591.085/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 17/10/2017, DJe de 20/11/2017).
+Isso posto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
