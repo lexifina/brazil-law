@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de TAYANE VENANCIO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Apelação Criminal 0038675-89.2021.8.19.0002).
+O paciente foi condenado à pena de 02 (dois) anos e 03 (três) meses de reclusão, em regime aberto, além do pagamento de 13 (treze) dias-multa, pela prática do crime previsto no art. 304 do Código Penal.
+A apelação interposta pela defesa foi provida parcialmente pelo tribunal de origem para redimensionar a pena-base para o mínimo cominado de 02 (dois) anos de reclusão e 10 (dez) dias-multa, sem reclassificação do crime.
+A defesa interpôs embargos infringentes e de nulidade, os quais foram rejeitados pelo tribunal de origem (e-STJ fls. 145-151).
+A defesa alega, em síntese, estarem "presentes os elementos típicos do crime de falsidade material de atestado ou certidão para obtenção de vantagem junto ao empregador", havendo assim, a necessidade de reclassificação típica da conduta para o crime previsto no art. 301, §1º, do Código Penal.
+Requer, liminar e definitivamente, deferimento da ordem para determinar a desclassificação da conduta para a do art. 301, §1º, do Código Penal.
+As informações foram prestadas (e-STJ fls. 184-187 e 192-196).
+Parecer do Ministério Público Federal pelo não conhecimento do Habeas Corpus e, pela não concessão da ordem, de ofício (e-STJ fls. 198-201).
+É a síntese do necessário
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que configurada flagrante ilegalidade apta a gerar constrangimento ilegal, sendo possível a concessão da ordem de ofício. Veja-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. GENITOR. IMPRESCINDIBILIDADE DE CUIDADOS AO FILHO MENOR NÃO DEMONSTRADA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. RECURSO DESPROVIDO.
+I - A Primeira Turma do Supremo Tribunal Federal firmou orientação no sentido de não admitir a impetração de habeas corpus substitutivo ante a previsão legal de cabimento de recurso pertinente. Precedentes.
+II - O art. 318, inciso VI, do Código de Processo Penal dispõe que o magistrado poderá substituir a prisão preventiva pela domiciliar quando o agente for homem, caso seja o único responsável pelos cuidados do filho de até 12 (doze) anos de idade incompletos.
+III - No caso dos autos, conforme consignado pelo Tribunal a quo a defesa não se desincumbiu do ônus de demonstrar a imprescindibilidade do ora agravante aos cuidados de seus filhos.
+IV - Para desconstruir as conclusões alcançadas na origem seria necessário o revolvimento da matéria fático-probatória do caso em apreço, providência que é vedada em sede de habeas corpus.
+Agravo regimental desprovido.
+(AgRg no HC n. 764.589/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024.). Grifos acrescidos.
+O entendimento é de elevada importância, porquanto deve-se utilizá-lo com fito de preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+Por fim, anoto que a concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que não se verifica de plano na hipótese dos autos, conforme se obtém da fundamentação lançada na origem sobre a controvérsia (e-STJ fls. 136-139):
+À toda evidência, vislumbra-se da sentença vergastada, que a Juíza primeva realizou exauriente análise do acervo probatório reunido, espancando, de forma eficiente, as argumentações defensivas, não havendo falar-se em fragilidade do arcabouço de provas, produzido durante a instrução criminal, pouco importando, para o alcance da convicção condenatória, o fato de o carimbo médico ter sido extraviado alguns anos antes da falsificação do documento público.
+Neste cenário perfectibilizado nos autos, resulta inequívoca a plena consciência da ré sobre a utilização de atestados médicos falsos, considerando que, o HEAT comunicou sequer constar registros de atendimento da mesma naquela unidade de saúde, cabendo acrescer, ainda, ter o médico declarado que, nas datas constantes dos atestados apresentados, atuava na área de trauma do hospital, tampouco sendo sua especialidade a ginecologia, setor no qual a apelante alega ter sido atendida, tudo a evidenciar, como se vê, a presença do dolo na prática do crime em comento.
+Nesta mesma linha de entendimento, não há se falar em reclassificação da conduta para o crime de estelionato, previsto no artigo 171 do Código Penal, haja vista, in casu, revelar-se a inequívoca ofensa à fé pública -no caso, documental -considerando que, o dolo necessário para a tipificação do crime previsto no artigo 304 do Código Penal é genérico, eis derivar da conduta, em si, de apresentar a agente, voluntariamente, um documento (no caso, atestados médicos com o timbre do Hospital Estadual Alberto Torres), sabedora de não ser a mesma autêntica, revelando-se necessária para a subsunção do fato à norma, somente a vontade de utilizar os atestados em circunstância juridicamente relevante, como se observa do caso dos autos.
+Em tal compreensão, excerto jurisprudencial do S.T.J., in verbis:
+(..)
+Em tal conjuntura, dessume-se que, o pleito absolutório não granjeia acolhimento, também por este aspecto, evidenciado que a Defesa não se desincumbiu de comprovar o que alegou, em sede recursal, ônus que lhe cabia, tendo o membro do Ministério Público, por sua vez, demonstrado, à saciedade, os fatos tais como narrados na exordial acusatória.
+Por certo que, o ônus da prova fica a cargo de quem a alega, vez que o art. 156 do C.P.P. se aplica a ambas as partes, no processo penal. Tal vem explicitado, também, no artigo 373, incisos I e II do novel C.P.C/2015.
+Seguindo igual entendimento, arestos da jurisprudência pátria, ad colorandum:
+(..)
+Destaca-se, ainda, o conceito de prova e o posicionamento doutrinário a respeito: "(..) é o conjunto de atos praticados pelas partes, pelo juiz (CPP, art. 156,2, parte, 209 e 234) e por terceiros (p. ex., peritos), destinados a levar ao magistrado a convicção acerca da existência ou inexistência de um fato, da falsidade ou veracidade de uma afirmação." (in, CAPEZ, Fernando. Curso de Processo Penal. 10ª ed., São Paulo: Ed. Saraiva, 2003, p. 243).
+Destarte, não tendo a Defesa carreado a esta instância argumentos contundentes, capazes de modificar o decisum prolatado pela Juíza a quo, resulta mantida a condenação da ré, Thayane Venancio, quanto à prática do delito inserto no artigo 304 do Código Penal.
+A dosimetria da pena comporta ajuste, considerando que a anotação constante da FAC da recorrente não importa em configuração da "personalidade voltada para práticas criminosas", consoante o remansoso entendimento jurisprudencial, cristalizado por meio do verbete sumular nº 444 da jurisprudência do S.T.J.: "É vedada a utilização de inquéritos policiais e ações penais em curso para agravar a pena-base".
+Assim, retorna-se a pena-base ao piso mínimo cominado, qual seja,02 (dois) anos de reclusão e 10 (dez) dias-multa, a qual torna-se definitiva, à míngua de outros moduladores penais.
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
