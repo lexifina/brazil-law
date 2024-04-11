@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por PRASS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS II (outro nome: QT IPCA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS JUROS REAL) contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"PRELIMINAR - Citação - Nulidade - Não ocorrência - Acionadas devidamente identificadas e que fizeram parte do polo passivo da ação - Não apreciação da alegação de que a empresa Lox Empreendimentos Imobiliários Ltda representava a codemandada Residencial Lago da Barra Empreendimentos e Participações Ltda - Descabimento - Nulidade que deveria ter sido arguida na primeira oportunidade de manifestação dos autos - Art. 278 do CPC/2015 - Inovação recursal - Descabimento - Preliminar afastada - Recursos parcialmente providos. VALOR DA CAUSA - Valor do contrato atualizado - Ação que envolve três contratos distintos e cuja somatória deve ser utilizada para fins do art. 259, V, do CPC/2015 - Preliminar afastada - Recursos parcialmente providos. ADJUDICAÇÃO COMPULSÓRIA - Cumprimento de liminar com comprovação de cancelamento das alienações fiduciárias que gravavam os imóveis - Perda do objeto - Não ocorrência - Necessidade do suprimento da manifestação de vontade negada pelos réus - Quitação incontroversa do preço pactuado - Existência - Manutenção da procedência da ação - Preliminar afastada - Recursos parcialmente providos. HONORÁRIOS ADVOCATÍCIOS - Sucumbência - Critério baseado no valor dado à causa que se torna excessivo - Arbitramento equitativo - Possibilidade - Inteligência do art. 85, §§ 2º e 8º, do novo CPC/2.015 - Análise do caso concreto aliado à remuneração digna do profissional - Fixação em R$10.000,00, devidos de forma solidária, por ambas as demandadas - Preliminar afastada - Recursos parcialmente providos" (fls. 506/507 e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, alega-se, além de divergência jurisprudencial, violação dos seguintes dispositivos legais com as respectivas teses:
+(i) art. 17 do Código de Processo Civil, ao fundamento de que é parte ilegítima para figurar no polo passivo da ação, pois não é o proprietário dos bens.
+(ii) art. 87 do Código de Processo Civil, porque não deve ser condenado ao pagamento dos ônus de sucumbência, já que não possui poderes para efetuar as providências determinadas pelo juízo.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Inicialmente, verifica-se que as matérias relacionadas com a ilegitimidade passiva e a impossibilidade da recorrente cumprir com as providências determinadas pelo juízo não foram objeto de debate pelas instâncias ordinárias, embora opostos embargos de declaração. Ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Ademais, a falta de prequestionamento inviabiliza o recurso especial também pela alínea "c" do permissivo constitucional, restando, portanto, prejudicado o exame da divergência jurisprudencial.
+Confira-se:
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. AÇÃO DE NUNCIAÇÃO DE OBRA NOVA. CERCEAMENTO DE DEFESA. JULGAMENTO ANTECIPADO DA LIDE. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. MULTA DIÁRIA. VALOR. RAZOABILIDADE.
+1. Para prevalecer a pretensão em sentido contrário à conclusão das instâncias ordinárias, que entenderam não ser preciso maior dilação probatória, seria necessária a revisão do conjunto fático- probatório dos autos, o que é inviável nesta instância especial por força da Súmula nº 7/STJ.
+2. A ausência de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o conhecimento do recurso especial (Súmula nº 211/STJ).
+3. A falta de prequestionamento inviabiliza o recurso especial também pela alínea "c" do permissivo constitucional.
+4. A jurisprudência desta Corte firmou posicionamento no sentido da possibilidade de alteração do valor da multa diária, em sede de recurso especial, apenas em casos excepcionalíssimos, diante da manifesta exorbitância do valor ou de flagrante impossibilidade de cumprimento da medida, circunstâncias inexistentes no presente caso.
+5. Agravo regimental não provido" (AgRg no REsp 1122787/MA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 14/2/2014 - grifou-se).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro em 2% (dois por cento) a verba honorária atribuída ao recorrente na origem, observando-se os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como o benefício da gratuidade de justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
