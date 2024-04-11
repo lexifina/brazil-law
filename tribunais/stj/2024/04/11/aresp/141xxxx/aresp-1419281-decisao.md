@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+PROCESSUAL CIVIL. ALIENAÇÃO HIPOTECA. CARTA DE CRÉDITO ASSOCIATIVA COM RECURSOS DO FGTS. CONTRATO QUITADO. EXTINÇÃO DA RELAÇÃO JURIDICA CONTRATUAL. IMPOSSIBILIDADE DE REVISÃO DE CLÁUSULAS CONTRATUAIS. RECURSO NÃO PROVIDO.
+O contrato de mútuo com obrigação, fiança e hipoteca, firmado entre as partes encontra-se extinto em razão de sua quitação.
+Consolidada a propriedade, com a liberação do ônus hipotecário do contrato, não pode mais o mutuário discutir cláusulas do contrato de mútuo bancário, visto que a relação obrigacional decorrente do referido contrato se extingue com a transferência do bem. Precedentes.
+A possibilidade de reversão do procedimento de consolidação da propriedade, antes da arrematação do bem, é admitida pela jurisprudência, desde que haja indicação precisa, acompanhada de suporte probatório, do descumprimento de cláusulas contratuais, ou mesmo mediante contracautela, com o depósito à disposição do Juízo do valor exigido, o que ocorre no caso dos autos. Nada disso ocorre nos autos, contudo, cingindo-se a apelante à mera alegação de abusividade nas cláusulas contratuais pactuadas.
+Apelação não provida.
+Nas razões de recurso especial, alega a parte ora agravante violação do artigo 205 do Código Civil.
+Merece reforma a decisão agravada.
+Com efeito, extrai-se do acórdão recorrido que a ora agravante, após ter efetuado a quitação antecipada do contrato de compra e venda de um terreno e mútuo para construção com obrigação, fiança e hipoteca que celebrara com a parte ora agravada, propôs ação revisional a fim de revisar os valores pagos e obter a repetição do indébito. A petição inicial fora indeferida em face da prescrição trienal, entendimento mantido pelo Tribunal de origem.
+Ocorre que o entendimento do Tribunal de origem diverge do desta Corte, segundo o qual "A discussão acerca da cobrança indevida de valores constantes de relação contratual e eventual repetição de indébito não se enquadra no conceito de enriquecimento ilícito, seja porque a causa jurídica, em princípio, existe (relação contratual prévia em que se debate a legitimidade da cobrança), seja porque a ação de repetição de indébito é ação específica; por essa razão, aplica-se a prescrição decenal e não a trienal" (AgInt no REsp n. 1.820.408/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/10/2019, DJe de 30/10/2019). No mesmo sentido, confira-se:
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL C/C REPETIÇÃO DE INDÉBITO. INDEFERIMENTO. CONTRATOS BANCÁRIOS. PRESCRIÇÃO. REPETIÇÃO DE PAGAMENTO INDEVIDO. PRAZO DECENAL. INCIDÊNCIA DA SÚMULA 83/STJ. TAXA DE JUROS. AUSÊNCIA DE PACTUAÇÃO EXPRESSA. APLICAÇÃO DA TAXA MÉDIA DIVULGADA PELO BACEN. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência do STJ, "a pretensão de repetição de valores pagos indevidamente em função de contrato bancário está sujeita ao prazo prescricional vintenário na vigência do CC/1916 e ao decenal na vigência do CC/2002, contado da efetiva lesão, ou seja, do pagamento" (AgInt no AREsp 1.234.635/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 1º/03/2021, DJe de 03/03/2021).
+2. Estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ.
+3. Nos contratos bancários, na impossibilidade de comprovar a taxa de juros efetivamente contratada - por ausência de pactuação ou pela falta de juntada do instrumento aos autos -, aplica-se a taxa média de mercado, divulgada pelo Bacen, praticada nas operações da mesma espécie, salvo se a taxa cobrada for mais vantajosa para o devedor. (Súmula 530/STJ).
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.884.493/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/10/2021, DJe de 17/11/2021.)
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial para, afastando a prescrição, determinar o retorno dos autos à origem para que prossiga no julgamento do processo, como entender de direito.
+Intimem-se.
+EMENTA
