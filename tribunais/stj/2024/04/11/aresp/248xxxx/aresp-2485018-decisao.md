@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. CONTRATO DE EMPRÉSTIMO PESSOAL.
+CONEXÃO E LITISPENDÊNCIA. NÃO CARACTERIZAÇÃO. EMBORA HAJA IDENTIDADE ENTRE AS PARTES, NÃO HÁ IDENTIDADE QUANTO À CAUSA DE PEDIR. CONTRATOS BANCÁRIOS DAS AÇÕES REVISIONAIS QUE SÃO DISTINTOS. INAPLICABILIDADE DO ARTIGO 55 DO CPC. AUSÊNCIA DE RISCO DE PROLAÇÃO DE DECISÕES CONFLITANTES OU CONTRADITÓRIAS CONFORME O DISPOSTO NO §3º, DO ARTIGO 55, DO CPC.
+LITIGÂNCIA DE MÁ-FÉ. NÃO CARACTERIZAÇÃO. O AJUIZAMENTO DE AÇÕES DISTINTAS DECORRE DO EXERCÍCIO DO DIREITO DE AÇÃO, NÃO CARACTERIZANDO QUALQUER DAS CONDUTAS PREVISTAS NO ART. 80, CPC. ADEMAIS, DIANTE DO RESULTADO DO JULGAMENTO, QUE RECONHECEU O EXCESSO NA COBRANÇA DOS JUROS REMUNERATÓRIOS, NÃO SE COGITA DE LITIGÂNCIA DE MÁ-FÉ, PORQUANTO AUSENTES OS REQUISITOS AUTORIZADORES DA SANÇÃO.
+PRELIMINAR DE NULIDADE DA SENTENÇA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO CARACTERIZAÇÃO. A DECISÃO QUE ATENDENDO AO PRINCÍPIO DA PERSUASÃO RACIONAL ENFRENTA E DECIDE COM RAZÕES LÓGICO-JURÍDICAS A QUESTÃO POSTA EM JUÍZO NÃO PADECE DE AUSÊNCIA DE FUNDAMENTAÇÃO.
+INEXISTÊNCIA DE AFRONTA AO DISPOSTO NO ART. 489, CPC.
+PRELIMINAR AFASTADA.
+JUROS REMUNERATÓRIOS. ADOÇÃO DA TAXA MÉDIA DE MERCADO DIVULGADA PELO BACEN PARA AFERIÇÃO DO ALEGADO EXCESSO. CRITÉRIO JURISPRUDENCIAL PACÍFICO E PREVALENTE. EXCESSO CONFIGURADO. LIMITAÇÃO DEFERIDA. PRETENSÃO PARA UTILIZAÇÃO DE TAXA DE JUROS DIVERSA, EM RAZÃO DO SEGMENTO DE MERCADO, NÃO MERECE GUARIDA POR MANIFESTA AUSÊNCIA DE PREVISÃO LEGAL OU ENTENDIMENTO JURISPRUDENCIAL DOMINANTE CAPAZ DE AUTORIZAR A PRETENSA DISTINÇÃO. ADEMAIS,COMO FORNECEDOR, PARTE HIPERSSUFICIENTE DA RELAÇÃO JURÍDICA, INEGÁVEL SEU PRÉVIO CONHECIMENTO DOS RISCOS DO NEGÓCIO, ESSES JÁ EXISTENTES POR OCASIÃO DA CONTRATAÇÃO, JUSTAMENTE EM RAZÃO DO SEGMENTO QUE ATUA, NÃO PODENDO TAL FATO SER TIDO COMO EXCEÇÃO QUE LHE BENEFICIA. TAMPOUCO O PERFIL DO CLIENTE CONSTITUI CIRCUNSTÂNCIA OPONÍVEL PORQUANTO A CONTRATAÇÃO DECORRE DE VOLUNTARIEDADE RECÍPROCA E NÃO DAS CONDIÇÕES DAS PARTES. AUSÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA IGUALDADE E DA FUNÇÃO SOCIAL DO CONTRATO, POSTO QUE MANIFESTO O DESEQUILÍBRIO CONTRATUAL EXISTENTE ENTRE AS PARTES. APELO DESPROVIDO.
+COMPENSAÇÃO E REPETIÇÃO DE INDÉBITO. POSSIBILIDADE NA FORMA SIMPLES. SÚMULA 322, STJ.
+CARACTERIZAÇÃO DA MORA. RECONHECIDA A ABUSIVIDADE NAS COBRANÇAS DE ENCARGO DA NORMALIDADE NOS CONTRATOS, NÃO HÁ FALAR QUE SE FALAR EM CARACTERIZAÇÃO DA MORA. RECURSO DESPROVIDO NO PONTO.
+HONORÁRIOS ADVOCATÍCIOS. REDUÇÃO.
+DESCABIMENTO. QUANTIA FIXADA QUE REMUNERA DE FORMA ADEQUADA E PROPORCIONAL AOS LIMITES DA AÇÃO. TEMA 1076, STJ.
+PRELIMINARES DESACOLHIDAS. APELO DESPROVIDO. UNÂNIME.
+A parte agravante sustenta que os juros remuneratórios não podem ser considerados abusivos apenas porque destoam da taxa média divulgada pelo Banco Central.
+Relativamente aos juros remuneratórios, a Corte de origem assim exarou seu entendimento, in verbis (fl. 373 e-STJ):
+No caso concreto, a modalidade de pagamento adotada entre as partes foi a consignação em folha de pagamento para trabalhadores do setor público, razão pela qual adotada a tabela da Série 25467 (Taxa média mensal de juros das operações de crédito com recursos livres - Pessoas físicas - Crédito pessoal consignado para trabalhadores do setor público) específica para fins de análise do alegado excesso na cobrança dos juros remuneratórios.
+Verifica-se no contrato de empréstimo pessoal nº 00007292 firmado em 11/01/2019, que foram pactuados juros remuneratórios mensais de 4,50%, e anuais de 69,58%, época em que a taxa média de mercado registrada pelo BACEN foi de 1,69% ao mês e de 22,32% ao ano, o que revela significativa discrepância, porquanto as taxas de juros pactuadas excedem o dobro da taxa média de mercado referentes à modalidade e à época da contratação.
+Logo, diante do manifesto excesso nos juros pactuados em relação à taxa média de mercado divulgada pelo BACEN, é de ser mantida limitação deferida na sentença.
+Com efeito, a conclusão do Tribunal revisor, atinente à abusividade da taxa de juros, foi obtida pela análise do conteúdo fático e contratual dos autos, que se situa fora da esfera de atuação desta Corte, nos termos dos enunciados 5 e 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
