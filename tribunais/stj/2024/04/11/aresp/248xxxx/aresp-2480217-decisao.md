@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento ao recurso especial interposto em face de acórdão assim ementado:
+"APELAÇÃO CÍVEL. CONSUMIDOR. PLANO DE SAÚDE. PROCEDIMENTO CIRÚRGICO. REVASCULARIZAÇÃO DO MIOCÁRDIO. SENTENÇA DE PROCEDÊNCIA. INCONFORMISMO DA RÉ. DISCUSSÃO REFERENTE AOS HONORÁRIOS MÉDICOS. ACERVO DE PROVAS CONVERGENTE AO ENTENDIMENTO DE QUE, NO MUNICÍPIO DE RESIDÊNCIA DO AUTOR, INEXISTIA PROFISSIONAL HABILITADO PARA REALIZAR O PROCEDIMENTO DE REVASCULARIZAÇÃO DO MIOCARDIO. OPERADORA, ADEMAIS, QUE NÃO LOGROU ÊXITO EM COMPROVAR MINIMAMENTE A EXISTÊNCIA DE OUTROS PROFISSIONAIS NA REDE CREDENCIADA QUE FOSSEM HABILITADOS/CAPACITADOS. MERA RELAÇÃO NOMINAL DE MÉDICOS SEM A DEMONSTRAÇÃO DA ESPECIALIDADE DE CADA UM. INOBSERVÂNCIA AO ÔNUS DE QUE TRATA O ART. 373, II, CPC. REEMBOLSO/CUSTEIO INTEGRAL DOS HONORÁRIOS MÉDICOS QUE SE MOSTRA DEVIDO NA ESPÉCIE. ARGUMENTO DE QUE INEXISTE ABALO ANÍMICO INDENIZÁVEL QUE SE ACOLHE. MERO INADIMPLEMENTO CONTRATUAL QUE NÃO ENSEJA, POR SI SÓ, ABALO MORAL. INFORMAÇÃO ADMINISTRATIVA DE AUSÊNCIA DE PROFISSIONAL HABILITADO QUE NÃO OCASIONOU RISCO EXTREMO DE VIDA OU AGRAVAMENTO DAS CONDIÇÕES DE SAÚDE DO AUTOR. SITUAÇÃO EXCEPCIONAL A INDICAR COMPENSAÇÃO POR DANOS MORAIS NÃO VERIFICADA. CONDENAÇÃO AFASTADA.
+SENTENÇA PARCIALMENTE REFORMADA. ÔNUS SUCUMBENCIAIS REDISTRIBUÍDOS.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO"
+A parte, em seu recurso especial, aponta, além de divergência jurisprudencial, violação ao art. 17 da Lei 9.656/98 sustentando, em síntese, que o contrato firmado prevê expressamente que não serão cobertos atendimentos ocorridos por prestador não credenciado a rede do plano de saúde.
+Contrarrazões fls. 588/594 e-STJ.
+Juízo de admissibilidade proferido às fls. 597/600 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+O acórdão recorrido está em consonância com a jurisprudência deste Superior Tribunal de Justiça firmada no sentido de que "o reembolso das despesas médico-hospitalares efetuadas pelo beneficiário com tratamento/atendimento de saúde fora da rede credenciada pode ser admitido somente em hipóteses excepcionais, tais como a inexistência ou insuficiência de estabelecimento ou profissional credenciado no local e urgência ou emergência do procedimento" (EAREsp 1.459.849/ES, relator Ministro MARCO AURÉLIO BELLIZZE, j. em 14/10/2020, DJe de 17/12/2020).
+Ainda nesse sentido:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. TRANSTORNO DO ESPECTRO AUTISTA. TERAPIA MULTIDISCIPLINAR. REEMBOLSO INTEGRAL. POSSIBILIDADE. INSUFICIÊNCIA DE REDE CREDENCIADA. DANO MORAL CONFIGURADO. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N.7/STJ. DECISÃO MANTIDA.
+1. A Segunda Seção firmou entendimento de que "o reembolso das despesas médico-hospitalares efetuadas pelo beneficiário com tratamento/atendimento de saúde fora da rede credenciada pode ser admitido somente em hipóteses excepcionais, tais como a inexistência ou insuficiência de estabelecimento ou profissional credenciado no local e urgência ou emergência do procedimento" (EAREsp 1.459.849/ES, Relator Ministro MARCO AURÉLIO BELLIZZE, julgado em 14/10/2020, DJe de 17/12/2020).
+2. O Tribunal de origem manteve a condenação da operadora ante a "ausência de profissional habilitado na rede própria", hipótese em que é cabível o reembolso integral, na linha da jurisprudência desta Corte.
+(..)
+6. Agravo interno a que se nega provimento" (AgInt no AREsp n. 2.313.108/RJ, relator Ministro Antonio Carlos Ferreira, QUARTA TURMA, DJe de 29/2/2024.)
+Na hipótese, restou expressamente consignado que não havia profissionais habilitados na região em que mora a paciente para realizar o procedimento de que necessitava, de modo que a manutenção do pronunciamento se impõe.
+Em face do exposto, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
+EMENTA
