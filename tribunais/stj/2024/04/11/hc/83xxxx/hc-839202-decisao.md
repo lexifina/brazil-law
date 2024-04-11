@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em causa própria por RODRIGO ANGELO CHAGAS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC nº 0043975-14.2019.8.26.0000).
+Consta dos autos que o paciente foi condenado por falta disciplinar de natureza grave, o que resultou na perda de 1/6 (um sexto) dos dias remidos. Inconformada, a defesa impetrou prévio writ na origem, o qual foi denegado. (fls. 32-34).
+Neste habeas corpus, o impetrante/paciente sustenta que, ao tomar ciência da decisão que reconheceu a falta grave, manifestou seu direito de acessar o 2º grau de recuso com agravo em execução, nos termos do art. 197 da LEP.
+Relata que não houve juízo de retratação nem consta a interposição do agravo.
+Requer a abertura de prazo para interposição do recurso de agravo de execução.
+A Defensoria Pública apresentou Petição às fls. 23-26, pleiteando a a desconstituição da falta grave ou a desclassificação para falta de natureza média.
+Prestadas as informações às fls. 29-41.
+O Ministério Público Federal manifestou-se, às fls. 43-46, em parecer assim ementado:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXECUÇÃO PENAL. FALTA GRAVE. IMPOSSIBILIDADE DE DESCLASSIFICAÇÃO PARA FALTA MÉDIA. ANÁLISE APROFUNDADA DE PROVAS INVIÁVEL NA VIA ELEITA. CONDUTA QUE SE ADEQUOU AO ARTIGO 50, INCISO IV DA LEP. PELO NÃO CONHECIMENTO. PELA DENEGAÇÃO DA ORDEM.
+É o relatório. DECIDO.
+No presente caso, da análise dos elementos informativos constantes dos autos, não restou verificada a flagrante ilegalidade a legitimar a atuação deste Sodalício.
+Primeiramente, no tocante à reabertura de prazo para interposição do recurso de agravo de execução, verifica-se que a decisão do juízo de execução que reconheceu a prática da falta disciplinar de natureza grave já foi objeto de recurso através do habeas corpus nº 0043975-14.2019.8.26.0000 impetrado na o rigem. Assim, em atenção ao princípio da unirrecorribilidade das decisões, não é possível a interposição de agravo de execução para tratar de matérias já suscitadas no citado writ, estando prejudicado o pedido.
+Lado outro, verifica-se que as instâncias ordinárias, após regular processo administrativo disciplinar, com as garantias do contraditório, da ampla defesa e do devido processo legal, impuseram em desfavor do paciente infração disciplinar de natureza grave, expressamente prevista nos arts 50, incisos I e VI, c.c 39, incisos II e V, ambos da Lei de Execução Penal (fls. 35-36).
+No tocante ao pleito de absolvição, observa-se que as instâncias ordinárias assentaram que restou devidamente comprovada a prática da infração disciplinar, após ampla análise dos fatos e provas produzidos nos autos. Confiram-se alguns excertos referentes à apreciação do tema pelo Tribunal de origem (fls. 33-34):
+"Posto isso, constato que foi instaurada sindicância para apurar a prática de falta disciplinar de natureza grave no dia 12/8/2016, consistente em desobediência. Segundo consta, o Paciente e outros cinco detentos, durante o procedimento de inclusão, teriam dito que se recusavam a habitar qualquer dos pavilhões da "Penitenciária de Valparaíso"; indagados pelos agentes se segurança sobre o motivo da recusa, nada disseram. Todos os faltosos assumiram a prática do ato de indisciplina, tendo o Paciente justificado que assim agiu porque sua visita havia sido condenada definitivamente e não poderia ingressar na unidade.
+Pois bem.
+Não procede a alegação de nulidade, pois quando foi ouvido perante a autoridade sindicante o Paciente alegou que não possuía advogado, não tendo manifestado o interesse de constituir profissional para a sua defesa. Daí a nomeação de defensor.
+E a reinquirição era desnecessária, porque ele vinha cumprindo pena no regime fechado, e a providência somente se faz necessária quando possa acarretar regressão.
+De absolvição não se cogita, porque o Paciente confessou a prática do ato de indisciplina, assim como os demais detentos, e os relatos dos agentes de segurança corrobora as confissões. A nova versão do Paciente, no sentido de que pretendia contratar advogado de sua confiança e de que não agiu de forma acintosa ou em franca desobediência, fornecida mais de três anos após os fatos, carece de verossimilhança, além de não ter sido minimamente comprovada.
+Ante o exposto, pelo meu voto denega-se a ordem."
+Dos autos, portanto, não se afere qualquer ilegalidade.
+A falta grave foi devidamente fundamentada em análise provas, de forma que não há como se afastar ou mesmo desclassificar a imputação disciplinar na hipótese pelo Superior Tribunal de Justiça na via do habeas corpus.
+Nesse contexto, para modificar as decisões das instâncias ordinárias para absolver ou desclassificar a falta imputada ao paciente, seria necessária a aprofundada incursão no acervo fático-probatório produzido no processo disciplinar, providência, sabidamente, inviável na via estreita do habeas corpus ou do seu recurso ordinário, remédio de rito célere e que não admite dilação probatória (AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
