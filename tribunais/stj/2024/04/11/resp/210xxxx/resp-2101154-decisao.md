@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto por UNIMED DE SANTOS COOPERATIVA DE TRABALHO MÉDICO fundamentado no artigo 105, inciso III, "a", da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"PLANO DE SAÚDE - NEGATIVA DE COBERTURA - MEDICAMENTO ANASTROZOL. A e leição do medicamento necessário ao sucesso do tratamento é incumbência do médico assistente e não da seguradora, a quem não cabe ingerência sobre esse assunto, dada a previsão contratual de cobertura da moléstia - Inaplicabilidade da cobertura parcial temporária (CPT) - Aplicação da Lei dos Planos de Saúde nº 9.656/98 e do Código de Defesa do Consumidor Cobertura devida Sentença mantida Recurso da requerida improvido.
+PLANO DE SAÚDE NEGATIVA DE COBERTURA DANO MORAL. Consumidora que suportou injusta negativa de cobertura a tratamento prescrito para recuperação de sua saúde - Circunstância que superou o mero aborrecimento, caracterizando o dever de indenizar Indenização fixada em R$ 5.000,00 (cinco mil reais), segundo as condições econômicas e sociais das partes, a intensidade do dano, bem como em observância aos princípios da razoabilidade e proporcionalidade Sentença mantida Recurso da autora improvido" (e-STJ fl. 213).
+Em suas razões (e-STJ fls. 224-241) a recorrente aponta violação dos arts. 186, 188, I, 927 e 944 do Código Civil; 12, V, e 35-G, Lei nº 9.656/1998; e 54, §4º, do Código de Defesa do Consumidor.
+Alega que "a parte recorrida estava em período de carência, que tal estipulação contratual é plenamente lícita e legítima, e que a atuação da apelante se deu em observância à legislação aplicável ao caso" (e-STJ fl. 236).
+Afirma que "o valor de R$ 5.000,00 (cinco mil reais) arbitrado a título de danos morais se mostra excessivo e desarrazoado, tendo em vista as circunstâncias do caso concreto" (fl. 240 e-STJ).
+Ao final, requer o provimento do recurso.
+Após a apresentação de contrarrazões (e-STJ fls. 252-262), o apelo nobre foi admitido na origem.
+É o relatório.
+DECIDO.
+O recurso não merece prosperar.
+No que diz respeito ao prazo de carência previsto em contrato para a cobertura de tratamentos e procedimentos, as conclusões do tribunal de origem decorreram da análise da interpretação de cláusulas contratuais e do conjunto fático-probatório carreado aos autos, o que se pode aferir da leitura dos fundamentos do julgado atacado, ora colacionados na parte que interessa:
+"Além disso, ainda que se admita a existência de doença preexistente, o fornecimento de medicamento não se amolda à cláusula de carência, assim redigida:
+"Cobertura parcial temporária: o consumidor não terá direito aos procedimentos de alta complexidade, cirúrgicos ou leitos de alta tecnologia, relacionados à doenças ou lesões declaradas, por um período máximo de 24 meses"
+O artigo 2º, inciso II, da RN 162/2007 da ANS prevê claramente que a Cobertura Parcial Temporária se aplica apenas a procedimentos de alta complexidade (PAC), leitos de alta tecnologia e procedimentos cirúrgicos das doenças preexistentes, o que não é o caso do fornecimento do medicamento indicado.
+Portanto, o atendimento à autora mostrou-se necessário a lhe propiciar maior efetividade no combate à moléstia que a acometeu, daí porque a negativa de cobertura foi abusiva" (fl. 217 e-STJ).
+Nesse contexto, não há como afastar a incidência das Súmulas nºs 5 e 7/STJ, visto que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos e a interpretação de cláusula contratual, procedimentos inviáveis ante a natureza excepcional da via eleita.
+Ademais, o simples descumprimento contratual de fato não enseja indenização por danos morais. Contudo, de acordo com a jurisprudência desta Corte, quando ocorre recusa injustificada de cobertura por parte da operadora de plano de saúde para tratamento de urgência ou emergência, como na espécie, em que se discute tratamento de câncer, isso configura danos morais passíveis de indenização.
+Confiram-se
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. SITUAÇÃO DE URGÊNCIA. NEGATIVA DE COBERTURA. DANOS MORAIS CONFIGURADOS. QUANTUM INDENIZATÓRIO ARBITRADO COM PROPORCIONALIDADE. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A cláusula contratual de plano de saúde que prevê carência para utilização dos serviços de assistência médica nas situações de emergência ou de urgência é considerada abusiva se ultrapassado o prazo máximo de 24 horas contado da data da contratação. Súmula 597/STJ.
+2. Ademais, "a jurisprudência desta Corte é no sentido de que o mero descumprimento contratual não enseja indenização por dano moral. No entanto, nas hipóteses em que há recusa de cobertura por parte da operadora do plano de saúde para tratamento de urgência ou emergência, segundo entendimento jurisprudencial desta Corte, há configuração de danos morais indenizáveis" (AgInt no REsp 1.838.679/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 03/03/2020, DJe de 25/03/2020).
+3. O valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em sede de recurso especial quando irrisório ou exorbitante. No caso, o montante fixado em R$ 10.000,00 (dez mil reais) não se mostra exorbitante nem desproporcional aos danos sofridos em decorrência da negativa ilegítima de cobertura de tratamento para câncer em caráter de emergência/urgência, tendo em vista o risco à vida e à saúde da paciente.
+4. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+5. Agravo interno a que se nega provimento"
+(AgInt no AREsp 2.385.422/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/11/2023, DJe de 21/11/2023 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. TRATAMENTO QUIMIOTERÁPICO. ATENDIMENTO EMERGENCIAL. NEGATIVA DE COBERTURA. PERÍODO DE CARÊNCIA. MULTA COMINATÓRIA. REVISÃO. SÚMULA Nº 7/STJ.
+1. É lícita a cláusula de plano de saúde que prevê período de carência, salvo para os procedimentos urgentes e tratamentos de natureza emergencial, visto que o valor vida humana sobrepõe-se a qualquer outro interesse de índole patrimonial.
+2. A multa cominatória foi embasada em peculiaridades próprias do caso, tais como potencialidade da empresa demandada para suportar eventual prejuízo patrimonial e o risco à própria vida da paciente que busca tratamento contra o câncer, o que obsta a revisão na via do recurso especial. Incidência da Súmula nº 7/STJ.
+3. Agravo interno não provido"
+(AgInt no AREsp 968.035/SE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/9/2017, DJe de 10/10/2017 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO. PACIENTE COM CÂNCER. NECESSIDADE DE INTERNAÇÃO. CARÁTER DE EMERGÊNCIA E URGÊNCIA. PERÍODO DE CARÊNCIA. NEGATIVA DE COBERTURA. RECUSA ABUSIVA. DANO MORAL CONFIGURADO. VALOR RAZOÁVEL. AGRAVO INTERNO DESPROVIDO.
+1. O mero descumprimento contratual não enseja, via de regra, indenização por dano moral. No entanto, nas hipóteses em que há recusa de cobertura por parte da operadora do plano de saúde para tratamento de urgência ou emergência, segundo entendimento jurisprudencial desta Corte, há configuração de danos morais indenizáveis.
+2. O valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em sede de recurso especial quando irrisório ou exorbitante. No caso, o montante fixado em R$ 30.000,00 (trinta mil reais) não se mostra exorbitante nem desproporcional aos danos sofridos em decorrência da negativa ilegítima de cobertura de tratamento para câncer em caráter de emergência/urgência, tendo em vista o risco à vida e à saúde da paciente.
+3. Agravo interno a que se nega provimento"
+(AgInt no AREsp 1.903.519/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/2/2022, DJe de 24/2/2022)
+Ressalta-se que o valor fixado em R$ 5.000,00 (cinco mil reais) não se distancia da razoabilidade e da proporcionalidade, de sorte que a sua modificação esbarra na Súmula nº 7/STJ.
+Ante o exposto, não conheço do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 18% (dezoito por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
