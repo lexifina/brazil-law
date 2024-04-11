@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Universidade Federal de Santa Catarina com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 317):
+ADMINISTRATIVO. SERVIDOR PÚBLICO. AUXÍLIO- TRANSPORTE. ART. 2º, II, DA MP 2.165/36/2001. PAGAMENTO INDEPENDENTEMENTE DO MEIO DE TRANSPORTE UTILIZADO.
+1. O auxílio-transporte é devido a todos os servidores que façam uso de algum meio de transporte, público ou privado, para se deslocarem entre sua residência e o local de trabalho, conforme orientação já sedimentada pelo Superior Tribunal de Justiça, a partir de interpretação do art. 1º da Medida Provisória n.º 2.165-36/2001.
+2. O pagamento do auxílio-transporte deve ser feito nos termos da legislação que o autoriza, e a MP 2.156-36/2001 em seu artigo 1º expressamente prevê que ele é "destinado ao custeio parcial das despesas realizadas com transporte coletivo municipal, intermunicipal ou interestadual". Desta forma a vantagem deve ser calculada com base no custo do transporte coletivo.
+Opostos embargos declaratórios, foram providos, em parte, para fins de prequestionamento (fls. 383/398).
+A parte recorrente aponta violação aos arts. 522 e 1.022 do CPC, 2º, caput e § 1º do Decreto nº 2.880/98, 2º, caput e § 1º, da Medida Provisória nº 1.783/98 e 2º, caput e § 1º, da Medida Provisória nº 2.165-36/2001. Sustenta, em síntese, negativa de prestação jurisdicional, sob a alegação de que a Corte de origem teria se mantido omissa quanto a ponto essencial ao deslinde do feito.
+Aduz que "não há que se imputar à Administração culpa em ainda não cumprir antecipação dos efeitos da tutela jurisdicional quando o próprio interessado favorecido não dirige ao juízo de 1º grau qualquer iniciativa de cumprimento de execução provisória, consoante a interpretação autêntica do Superior Tribunal de Justiça." (fl. 413)
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelo art. 1.022 do CPC, pois a parte recorrente, nas razões dos embargos de declaração e do recurso especial, alega que não houve emissão de juízo de valor acerca da tese de necessidade de observância da determinação legal do desconto de seis por cento vencimento do favorecido por auxílio-transporte.
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação, limitando-se a manter os fundamentos do acórdão e rejeitando os pertinentes aclaratórios do ora recorrente, em franca violação ao art. 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+ANTE O EXPOSTO, dou provimento ao recurso especial, para anular o aresto proferido em embargos de declaração. Retornem os autos à Corte de origem, para que esta possa, por meio de seu órgão colegiado, proferir novo acórdão, sanando a omissão apontada nesta decisão.
+Publique-se.
+EMENTA
