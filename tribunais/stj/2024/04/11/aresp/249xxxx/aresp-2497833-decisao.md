@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento ao recurso especial, na qual constou o seguinte:
+Desde logo, ressalto que a presente insurgência deve ser inadmitida em face de irregularidade não sanada pelo Recorrente.
+(..).
+Sendo a representação processual um dos pressupostos objetivos de admissibilidade recursal, e não tendo o recorrente observado o comando a contento, impõe-se a inadmissão do recurso.
+Nas razões do agravo, a parte agravante alegou que "Explica-se que quando da ciência e intimação da decisão, a CAMED procedeu com as providências de juntada e regularização de representação, conforme se observa pelas fls. do dia 06/10/2020. Ocorre que, como bem afirmado na petição de juntada da regularização processual, a sede da empresa e seus representantes encontram-se em Fortaleza/CE, sendo de notório conhecimento que, em razão da PANDEMIA do vírus SARS-COV-2, causador da doença COVID-19, as Autoridades Públicas foram obrigadas a tomar uma série de medidas que restringem a circulação de pessoas, motivando, inclusive a suspensão dos prazos processuais por meio Conselho Nacional de Justiça" (fl. 508).
+Afirmou que, "Ademais, a CAMED apresentou a documentação pertinente, conforme reconhecido pelo próprio tribunal, tudo para que o recurso seja CONHECIDO" (fl. 510).
+Assim delimitada a controvérsia, passo a decidir.
+Observo que o Tribunal estadual, ao julgar a causa, decidiu o seguinte (fl. 500):
+Desde logo, ressalto que a presente insurgência deve ser inadmitida em face de irregularidade não sanada pelo Recorrente.
+Isso porque, em despacho proferido em 02/09/2020 (fls. 425), publicado em 28/09/2020 (fls. 426), o Recorrente foi intimado para, no prazo de 5 dias, sob pena de inadmissibilidade do recurso, acostar aos autos procuração válida habilitando os subscritores do apelo Excepcional (Dra. Rebeca Correia Cesar - OAB/PE nº 32.510), pois as assinaturas constantes no recurso, procuração e substabelecimento eram assinaturas digitalizadas, sem validade no mundo jurídico, pois não reconhecida sua autenticidade.
+Ocorre que o Insurgente não se desincumbiu do ônus de comprovar a validade da representação processual dos seus patronos em tempo hábil haja vista que a juntada dos documentos de representação ocorreu apenas em 06/10/2020.
+Sendo a representação processual um dos pressupostos objetivos de admissibilidade recursal, e não tendo o recorrente observado o comando a contento, impõe-se a inadmissão do recurso.
+Conforme se depreende da leitura do trecho acima mencionado, foi oportunizada à parte agravante a regularização da representação processual, pois, conforme posto pelo Tribunal estadual: a única assinatura original constante da peça do recurso é da advogada Rebecca Correia Cesar, OAB/PE nº 32.510, que, todavia, recebeu poderes de representação por meio do substabelecimento e procuração com assinaturas digitalizadas.
+A assinatura digitalizada não se confunde com a assinatura digital prevista na Lei 11.419/2006 e, portanto, não é dotada do requisito de autenticidade nem traz a segurança jurídica necessária para legitimar a prática de atos processuais. Embora a assinatura digitalizada por meio de escaneamento tenha se tornado uma prática usual, tal procedimento não se encontra regulamentado e, por tal razão, não pode ser considerado válido no mundo jurídico.
+Nesse sentido, correta a decisão proferida pelo Tribunal de origem que não conheceu do recurso, pois a parte agravante, embora regularmente intimada para sanar referido vício, não o fez, tendo em vista que a procuração juntada à petição de fl. 477 não foi suficiente para completar a cadeia de representação outorgando poderes à subscritora do recurso, pois foi assinada digitalmente.
+Nesse contexto, "O STJ possui orientação de que, por se tratar de mera inserção de imagem em documento, a assinatura digitalizada ou escaneada não se confunde com a assinatura digital baseada em certificado digital emitido por Autoridade Certificadora credenciada, e, por isso, não tem valor" (AgInt nos EAREsp n. 1.555.548/RJ, relator Ministro Herman Benjamin, Corte Especial, julgado em 2/8/2021, DJe de 16/8/2021). A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MONOCRÁTICA DA PRESIDÊNCIA DO STJ. FALTA DE REPRESENTAÇÃO PROCESSUAL. INTIMAÇÃO PARA REGULARIZAÇÃO. DESCUMPRIMENTO. SÚMULA N. 115 DO STJ. DECISÃO MANTIDA.
+1. Não se conhece de recurso interposto por advogado sem procuração nos autos encaminhados ao STJ. A parte, devidamente intimada, não cumpriu a determinação de regularizar a representação processual no prazo assinalado. Observância do disposto nos arts. 76, § 2º, inc. I, e 932, inc. III, e parágrafo único, do CPC. Incidência da Súmula n. 115 do STJ.
+2. "O STJ possui orientação de que, por se tratar de mera inserção de imagem em documento, a assinatura digitalizada ou escaneada não se confunde com a assinatura digital baseada em certificado digital emitido por Autoridade Certificadora credenciada, e, por isso, não tem valor" (AgInt nos EAREsp n. 1.555.548/RJ, relator Ministro Herman Benjamin, Corte Especial, julgado em 2/8/2021, DJe de 16/8/2021).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.989.855/CE, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 6/3/2023, DJe de 13/3/2023.)
+AGRAVO INTERNO. RECURSO ESPECIAL. REPRESENTAÇÃO PROCESSUAL. CADEIA COMPLETA. AUSÊNCIA. INTIMAÇÃO. ARTS. 76 E 932, PARÁGRAFO ÚNICO, DO CPC. DESATENDIMENTO. SUBSCRITOR DO RECURSO. ASSINATURA ELETRÔNICA. RESP NÃO CONHECIDO. INCIDÊNCIA DA SÚMULA N. 115/STJ. PRECEDENTES.
+1. (..).
+2. "O STJ possui orientação de que, por se tratar de mera inserção de imagem em documento, a assinatura digitalizada ou escaneada não se confunde com a assinatura digital baseada em certificado digital emitido por Autoridade Certificadora credenciada, e, por isso, não tem valor" (AgInt nos EAREsp n. 1.555.548/RJ, relator Ministro Herman Benjamin, Corte Especial, julgado em 2/8/2021, DJe de 16/8/2021).
+3. Deixando a parte transcorrer o prazo sem que a representação processual seja regularizada, é inexistente o recurso dirigido a esta Casa, nos termos do enunciado n. 115 da Súmula.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.033.696/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 27/11/2023, DJe de 30/11/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. AUSÊNCIA DE PROCURAÇÃO DO SUBSCRITOR DO RECURSO ESPECIAL. INTIMAÇÃO PARA REGULARIZAÇÃO DA REPRESENTAÇÃO PROCESSUAL. NÃO ATENDIMENTO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Nos termos do artigo 76, § 2º, I, do Código de Processo Civil de 2015, não se conhece do recurso quando a parte recorrente descumpre a determinação para regularização da representação processual.
+2. A assinatura eletrônica é a forma de identificação inequívoca do signatário, e a opção pela utilização do meio eletrônico de peticionamento implica a vinculação do advogado titular do certificado digital ao documento chancelado, que será considerado, para todos os efeitos, o subscritor da peça, não tendo valor eventual nome grafado de outro advogado que venha a constar da peça encaminhada e assinada eletronicamente, mesmo que este possua procuração. Precedentes da Corte Especial do Superior Tribunal de Justiça.
+3. Na hipótese, o advogado titular do certificado digital utilizado para a transmissão eletrônica do recurso especial não possui procuração e a parte recorrente, apesar de devidamente intimada para proceder à regularização da representação processual, permaneceu inerte, deixando de sanar o vício.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.802.216/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 3/10/2019.)
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA CUMULADA COM COMPENSAÇÃO POR DANO MORAL. PLANO DE SAÚDE. RECURSO SUBSCRITO POR ADVOGADO SEM PROCURAÇÃO NOS AUTOS. REPRESENTAÇÃO PROCESSUAL. ASSINATURA DIGITALIZADA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 115/STJ.
+1. Ação cominatória cumulada com compensação por danos morais, em razão de negativa de custeio de tratamento médico prescrito.
+2. A ausência de instrumento conferindo poderes ao subscritor do apelo extremo atrai a incidência do enunciado n. 115 da Súmula desta Corte, segundo o qual, "na instância especial é inexistente recurso interposto por advogado sem procuração nos autos".
+3. Nos termos do art. 76, § 2º, I, do CPC/15, não se conhece do recurso quando a parte, após intimada para regularizar sua representação processual (art. 932, parágrafo único, do CPC/15), não promove o saneamento do vício no prazo concedido.
+4. É firme o entendimento de que, por se tratar de mera inserção de imagem em documento, a assinatura digitalizada ou escaneada não se confunde com a assinatura digital baseada em certificado digital emitido por Autoridade Certificadora credenciada.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.691.485/PE, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 19/10/2020, DJe de 21/10/2020.)
+Assim, incide a Súmula 83/STJ no caso.
+Ademais, esclareço que, nos termos da mais recente jurisprudência desta Corte, havendo intimação para regularização da representação processual e não sendo esta atendida no prazo assinado, não haverá nova oportunidade para correção do vício processual. Nesse sentido:
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADVOGADO SEM PROCURAÇÃO NOS AUTOS. RECURSO INEXISTENTE. AUSÊNCIA DE REGULARIZAÇÃO DA REPRESENTAÇÃO PROCESSUAL, APESAR DE INTIMAÇÃO DA PARTE. PETICIONAMENTO ELETRÔNICO. CERTIFICADO DIGITAL. VINCULAÇÃO DO ADVOGADO. AGRAVO IMPROVIDO.
+1. Consoante a jurisprudência do STJ, "na instância especial é inexistente recurso interposto por advogado sem procuração nos autos" (AgInt no AREsp n. 1.339.129/PR, Relator Ministro Paulo de Tarso Sanseverino).
+2. Não há comprovação da capacidade postulatória do subscritor do recurso especial e do agravo em recurso especial.
+3. Intimada para regularizar sua representação processual, nos termos dos arts. 76 e 932, parágrafo único, do CPC/2015, a agravante não comprovou a cadeia de representação outorgando poderes ao subscritor do recurso, anexando tão somente uma procuração com data posterior à interposição do recurso especial e agravo em recurso especial.
+4. A ausência da cadeia completa de procurações impossibilita o conhecimento do recurso interposto para as instâncias superiores. Súmula 115 do STJ: "Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos."
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.512.704/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/2/2020, DJe 19/2/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DA CADEIA COMPLETA DE PROCURAÇÕES. DECISÃO MONOCRÁTICA MANTIDA.
+1. Agravo interno contra decisão da Presidência, que não conheceu do recurso, em razão da irregularidade na representação processual.
+2. O entendimento do STJ é no sentido de que a ausência da cadeia completa de procurações impossibilita o conhecimento do recurso, nos termos da Súmula 115 do STJ.
+3. A parte agravante, embora devidamente intimada para a regularização da representação processual, não procedeu à juntada da cadeia completa de procurações e/ou substabelecimentos que conferem poderes ao subscritor do agravo e do recurso especial.
+4. "Intimada a parte para regularizar a representação processual, essa não procedeu a juntada da procuração ou cadeia completa de substabelecimento conferindo poderes ao subscritor do recurso especial, de maneira que não mais lhe socorre a previsão expressa de regularização de vícios processuais de menor gravidade, disposta no art. 1.029, § 3º, do CPC/15" (AgInt no AREsp 1.227.559/MG, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 21/08/2018, DJe 03/09/2018).
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.249.389/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/10/2018, DJe 26/10/2018.)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
