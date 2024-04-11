@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra decisão monocrática que indeferiu o pedido liminar em habeas corpus formulado na origem (e-STJ fls. 11-15).
+O paciente foi condenado, juntamente a corréu, pela prática dos crimes previstos no artigo 288, caput (associação criminosa), artigo 155, §§ 4º-B (furto qualificado por três vezes) e art. 155, § 4º-B c/c art. 14, II, (tentativa de furto qualificado por uma vez), todos do Código Penal, fixando-se a pena, após a aplicação da regra do concurso material, em 7 (sete) anos e 11 (onze) meses de reclusão e 16 (dezesseis) dias-multa, que deverão ser calculados à razão de 1/30 (um trigésimo) do salário-mínimo vigente à época do fato, devidamente corrigido.
+A defesa alega, em síntese: a) a necessidade de superação da Súmula nº 691/STF; e b) a incompatibilidade da prisão preventiva com o regime semiaberto.
+Ao final, requer a concessão da ordem para que seja revogada a prisão preventiva decretada em desfavor do paciente.
+É o relatório.
+Decido.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, j. em 02/08/2022, DJe de 10/08/2022).
+Analisando-se o conteúdo da documentação trazida a esta instância, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024, suficiente para superar o óbice do referido enunciado sumular.
+Ficou claro na decisão atacada que a legalidade da prisão preventiva do paciente já foi analisada em outro feito (HC nº 0748709-53.2023.8.07.0000). Além disso, o relator explicou que "o Superior Tribunal de Justiça, alinhado com a jurisprudência do Supremo Tribunal Federal, tem entendido que a prisão preventiva é compatível com o regime prisional semiaberto, desde que motivada e mediante adequação da segregação cautelar ao regime estabelecido pelo juízo da execução (AgRg no HC n. 783.309/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/2/2023, DJe de 16/2/2023)" (destaque acrescentado) (e-STJ fl. 12).
+Não se constata, então, vício na negativa do pleito liminar em sede monocrática, sendo certo que o revolvimento das questões sustentadas no habeas corpus acarretaria supressão de instância, pois serão alvo de exame na Corte de origem quando do julgamento final.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
