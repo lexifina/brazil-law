@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por TARDIOLI LIMA SOCIEDADE DE ADVOGADOS (SOCIEDADE) pretendendo a reforma da decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça de São Paulo, Relator LAVÍNIO DONIZETTI PASCHOALÃO, assim ementado:
+AGRAVO DE INSTRUMENTO - EXECUÇÃO POR QUANTIA CERTA CONTRA DEVEDOR SOLVENTE - Decisão que indeferiu o pedido de reserva de valor para pagamento de honorários advocatícios aos antigos patronos da parte exequente e determinou a suspensão da execução em relação aos garantidores, enquanto perdurasse o efeito suspensivo concedido no bojo de Recurso Especial - Irresignação dos antigos patronos do exequente/cedente - Partes que entabularam acordo, devidamente homologado, englobando pagamento de honorários advocatícios à parte agravante pelos devedores - Alegação de descumprimento de acordo não comprovada - Questão objeto de análise pelo magistrado a quo que reconheceu a ausência de descumprimento do acordo, bem como de qualquer valor devido pelos devedores à parte agravante - Preclusão consumativa - De qualquer sorte, eventual discussão de segregação de honorários até a cessão do crédito, demandaria fase de conhecimento a ser intentada em ação própria - Manutenção do indeferimento do pedido de reserva - Decisão manti da - Determinação de suspensão do processo em face dos garantidores, advinda de efeito suspensivo concedido no bojo de Recurso Especial - Decisão monocrática prolatada em pedido de Tutela Provisória, junto ao E. STJ, que revogou o efeito suspensivo - Prejudicialidade para apreciação do mérito advinda de ato superveniente, devendo o magistrado a quo se manifestar em relação ao cumprimento da decisão, sob pena de supressão de instância - Impossibilidade de conhecimento desta parte - RECURSO NÃO CONHECIDO EM PARTE e NA PARTE CONHECIDA NÃO PROVIDO com determinação. (e-STJ, fl. 283)
+Os embargos de declaração opostos por SOCIEDADE foram rejeitados (e-STJ, fls. 338/347).
+Irresignada, a SOCIEDADE interpôs recurso especial, com base no art. 105, III, alínea a, da CF, apontando violação dos arts. 489, IV, 507 e 1.022, II, do Código de Processo Civil; e 22, §2º e 3º, 23 e 24, caput e §1º, da Lei nº 8.906/94, afirmando que (1) houve omissão acerca dos motivos que levaram à perda do desconto pelos Recorridos (e-STJ, fl. 360), qual seja, o descumprimento do acordo homologado que justifica a reserva dos honorários na execução de origem (2) não se pode reconhecer a ocorrência de preclusão consumativa se o novo pedido formulado (descumprimento) pela parte tem fundamento diverso do anterior (atraso), já decidido (e-STJ, fl. 370), devendo ser permitida a reserva de valores para garantir a satisfação de seus honorários advocatícios (e-STJ, fl. 372), assim como a execução destes nos mesmos autos da ação.
+O recurso não foi admitido pelo Tribunal estadual.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial.
+(1) omissão
+Da atenta leitura do decidido observa-se que, embora tenha sido posta em debate a questão relativa ao descumprimento do acordo e à determinação de prosseguimento da execução que, supostamente, afastariam a tese da preclusão, o Tribunal de origem não sanou o referido ponto, assim como concluiu não ter havido cerceamento de defesa.
+Ressalte-se que é condição sine qua non ao conhecimento do recurso especial que a questão de direito ventilada nas suas razões tenha sido analisada pelo acórdão objurgado, munido de todas as provas necessárias ao seu convencimento.
+Assim, recusando-se o Tribunal estadual a se manifestar sobre a questão federal, terminou por negar prestação jurisdicional.
+A propósito, cite-se o precedente abaixo:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. EMBARGOS DE TERCEIRO. CONTRATOS GARANTIDOS POR HIPOTECA. EMBARGOS DE DECLARAÇÃO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. CONFIGURADA. RECURSO PROVIDO. RETORNO DOS AUTOS À ORIGEM. NOVO JULGAMENTO. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. Ação de execução. Embargos de terceiro.
+2. A existência de omissão e ausência de fundamentação relevantes à solução da controvérsia, não sanadas pelo acórdão recorrido, caracteriza violação dos arts. 489 e 1.022 do CPC/2015.
+3 - Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1.932.995/RJ, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. em 14/02/2022, DJe 16/02/2022)
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Nessas condições, prejudicada a análise dos demais pontos, CONHEÇO o agravo para DAR PROVIMENTO ao recurso especial, determinando o retorno dos autos ao TJSP para que analise as referidas omissões, como entender de direito.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURS O ESPECIAL. RECURSO ESPECIAL. EXECUÇÃO POR QUANTIA CERTA. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OCORRÊNCIA. NECESSIDADE DE RETORNO DOS AUTOS À ORIGEM. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
