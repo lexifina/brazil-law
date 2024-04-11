@@ -1,0 +1,12 @@
+DECISÃO
+GUIDO DE OLIVEIRA CASTRO FILHO opõe embargos de declaração à decisão de minha relatoria, que, ao denegar a ordem in limine, manteve a sua prisão preventiva.
+A defesa alega omissão quanto à "tese de ausência de periculum libertatis e ausência de motivação das medidas cautelares diversas da prisão".
+Decido.
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração almeja, em síntese, o aprimoramento da prestação jurisdicional por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material.
+Sob essas premissas, constato que, no caso em análise, a decisão embargada não incorreu em nenhuma omissão, obscuridade, contradição ou ambiguidade que justifique a oposição do referido recurso.
+No caso, a decisão ora embargada, no que tange à "tese de ausência de periculum libertatis", ressaltou que "o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para decretar a prisão preventiva, ao salientar a quantidade de droga apreendida", ocasião em que relembrou que "o acórdão ora impugnado vai ao encontro da jurisprudência do Superior Tribunal de Justiça, que possui "entendimento reiterado de que a quantidade e a diversidade dos entorpecentes encontrados com o agente, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva" (AgRg no RHC n. 178.504/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/6/2023, DJe de 16/6/2023)".
+Quanto à alegada "ausência de motivação das medidas cautelares diversas da pr isão", a decisão ora embargada, à luz dos elementão então considerados, concluiu que, "em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais".
+Na verdade, a pretensão esboçada pelo embargante é ver reexaminado o caso, o que é inviável pela via escolhida. Os embargos de declaração são cabíveis somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado e são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam novo julgamento do caso.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
