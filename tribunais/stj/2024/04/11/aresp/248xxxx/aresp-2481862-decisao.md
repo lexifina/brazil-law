@@ -1,0 +1,52 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC), interposto por ESPINOSA DIESEL PEÇAS LIMITADA, em face de decisão que não admitiu recurso especial.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 81, e-STJ):
+Ementa: Penhora. Bloqueio "on line". Orientação do STJ no sentido de que a impenhorabilidade prevista em lei alcança não apenas o valor depositado em caderneta de poupança, mas também quantia de até quarenta salários mínimos depositada em conta corrente ou guardada em papel moeda, bem como em fundos de investimento. Incidência do artigo 833, inciso X, do CPC. Recurso desprovido, com observação.
+Embargos de declaração opostos e rejeitados na origem pelo acórdão de fls. 96-99, e-STJ.
+Em suas razões recursais (fls. 102-119, e-STJ), a parte insurgente aponta, além de divergência jurisprudencial, violação aos artigos 854, § 3º, I e 833, X, ambos do CPC, porquanto penhoráveis os valores depositados em conta bancária diversa da poupança, além de não ter sido demonstrado que os valores constritos seriam utilizados no sustento próprio e familiar.
+Contrarrazões às fls. 149-152, e-STJ.
+Em juízo prévio de admissibilidade (fls. 153-155, e-STJ), a Corte de origem negou seguimento ao apelo nobre, dando ensejo à interposição do presente agravo (fls. 157-162, e-STJ), visando destrancar o processamento da insurgência.
+Contraminuta às fls. 169-175, e-STJ.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. A parte recorrente defende a possibilidade de penhora de valores depositados em conta bancária diversa da poupança, além disso a parte recorrida não demonstrou que os valores constritos seriam utilizados no sustento próprio e familiar.
+O Tribunal de origem, a seu turno, concluiu pela impenhorabilidade de quantia inferior a 40 salários-mínimos depositada em conta corrente, ressaltando que a jurisprudência não faz distinção quanto ao tipo de conta em que encontrado o valor constrito.
+A propósito, trechos do acórdão recorrido (fls. 84-87 , e-STJ):
+São impenhoráveis os valores depositados em caderneta de poupança, até o limite de 40 (quarenta) salários mínimos, nos termos do inciso X do artigo 833 do CPC.
+A jurisprudência do Superior Tribunal de Justiça, vem se orientando no sentido de não distinguir contas de poupança, conta corrente ou fundos de investimento:
+ ..
+A ordem de bloqueio do valor de R$ 551,60 (fl. 178 dos autos de origem) foi cumprida integralmente pelo Banco Itaú BMG (fl. 179 do original) em 14/06/2021.
+Como a quantia alcançada pelo bloqueio, em conta corrente ou poupança da parte devedora, é inferior a 40 salários mínimos, ela é impenhorável, por força do art. 833, X, CPC/2015, impondo-se, em consequência, o levantamento do bloqueio on-line efetivado, com restituição do referido valor constrito.  grifou-se
+Com efeito, a jurisprudência desta Corte estende a abrangência do art. 649, inciso X, do Código de Processo Civil de 1973 - correspondente ao art. 833, inciso X, do CPC/2015 -, a todos os numerários poupados pela parte executada, até o limite de 40 (quarenta) salários mínimos, não importando se depositados em poupança, em conta corrente, fundos de investimento ou guardados em papel-moeda. No entanto, autoriza as instâncias ordinárias a identificarem, no caso concreto, eventual abuso do direito, má-fé ou fraude, a afastar a garantia da impenhorabilidade.
+Nesse sentido, tem decidido esta Corte Superior:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. IMPENHORABILIDADE. 40 (QUARENTA) SALÁRIOS MÍNIMOS. ALCANCE.
+1. É impenhorável, de acordo com a jurisprudência desta Corte Superior, a quantia de até quarenta salários mínimos depositada em conta-corrente, aplicada em caderneta de poupança ou outras modalidades de investimento, exceto quando comprovado abuso, má-fé ou fraude a serem apreciados caso a caso. Precedentes.
+2. O disposto no art. 854, § 3º, I, do CPC/2015, não afasta o entendimento consolidado no Superior Tribunal de Justiça de que os valores inferiores a 40 salários mínimos são presumidamente impenhoráveis.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.381.515/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/12/2023, DJe de 14/12/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. "A jurisprudência desta egrégia Corte Superior é firme no sentido da impenhorabilidade de valor até 40 (quarenta) salários mínimos poupados ou mantidos pelo devedor em conta corrente ou em outras aplicações financeiras, ressalvada a comprovação de má-fé, abuso de direito ou fraude." (AgInt no REsp 1.777.252/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 2/10/2023, DJe de 5/10/2023). Incidência da Súmula 83/STJ.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 2.083.331/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/11/2023, DJe de 16/11/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PENHORA DE VALORES DEPOSITADOS EM CONTA DE UM DOS EXECUTADOS. IMPOSSIBILIDADE NO CASO CONCRETO. IMPENHORABILIDADE QUE SE ESTENDE ATÉ O LIMITE DE 40 SALÁRIOS MÍNIMOS. ART. 833, X, DO CPC/2015. PRECEDENTES. AGRAVO DESPROVIDO. 1. "A jurisprudência desta egrégia Corte Superior é firme no sentido da impenhorabilidade de valor até 40 (quarenta) salários mínimos poupados ou mantidos pelo devedor em conta corrente ou em outras aplicações financeiras, ressalvada a comprovação de má-fé, abuso de direito ou fraude" (AgInt no AREsp 1.512.613/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 04/05/2020, DJe de 07/05/2020). 2. Agravo interno desprovido. (AgInt no REsp n. 1.777.252/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 2/10/2023, DJe de 5/10/2023.)  grifou-se
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE. DEPÓSITO EM CONTA BANCÁRIA , POUPANÇA, FUNDO DE INVESTIMENTO ATÉ O LIMITE DE 40 SALÁRIOS MÍNIMOS. PRECEDENTES. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO. 1. Salvo nos casos de fraude ou abuso, a quantia de até 40 (quarenta) salários mínimos é impenhorável, esteja ela depositada em conta corrente, poupança ou outras aplicações financeiras. 2. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.163.215/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 25/9/2023, DJe de 28/9/2023.)  grifou-se
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROVENTOS DE APOSENTADORIA. PENHORA DE SALDO REMANESCENTE EM CONTA CORRENTE. VALOR INFERIOR A 40 SALÁRIOS MÍNIMOS. IMPOSSIBILIDADE. INTERPRETAÇÃO SISTEMÁTICA E TELEOLÓGICA A SER CONFERIDA AO ART. 833, incisos IV e X, e §2º, do CPC/2015. PRECEDENTES. SÚMULA 83 DO STJ. RECURSO QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência assente do STJ garante ao devedor "poupar valores sob a regra da impenhorabilidade no patamar de até quarenta salários mínimos, não apenas aqueles depositados em cadernetas de poupança, mas também em conta-corrente ou em fundos de investimento, ou guardados em papel-moeda" (EREsp 1330567/RS, Rel. Ministro Luis Felipe Salomão, Segunda Seção, julgado em 10/12/2014, DJe 19/12/2014).
+2. A penhora sobre alegado valor remanescente em conta corrente do devedor a qual era utilizada para a percepção de verba remuneratória - fato incontroverso nos autos - somente poderá ocorrer em se tratando de valor superior a 40 (quarenta) salários-mínimos.
+3. Licitude da conduta do executado de poupar, ainda que na própria conta corrente, montante de até quarenta salários mínimos. (REsp 191 4284/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 20/04/2021, DJe 04/05/2021) 4. Não tendo a parte agravante apresentado argumentos hábeis a infirmar os fundamentos da decisão regimentalmente agravada, é de rigor a manutenção da decisão por seus próprios fundamentos.
+5. Agravo interno não provido.
+(AgInt no REsp 1971321/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/04/2022, DJe 04/05/2022)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. TESE DE OFENSA AO ART. 10 DO CPC/2015. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. VERBA SALARIAL. COMPROMETIMENTO DA SUBSISTÊNCIA DA PARTE DEVEDORA. IMPOSSIBILIDADE DE CONSTRIÇÃO. SALDO EM CONTA-CORRENTE. MONTANTE INFERIOR A 40 SALÁRIOS MÍNIMOS. IMPENHORABILIDADE. ALEGAÇÃO DE OMISSÃO NA DECISÃO MONOCRÁTICA. VIA IMPRÓPRIA. AGRAVO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. Nas razões do apelo especial, a ora insurgente não impugnou um dos fundamentos da decisão estadual que rechaçou a tese de ofensa ao art. 10 do CPC/2015, o que atrai a incidência do verbete sumular n. 283 da Suprema Corte.
+2. Segundo entendimento jurisprudencial desta Corte Superior, é vedada a penhora de valores decorrentes de remuneração ou proventos do executado quando a constrição acarretar a inviabilidade da subsistência do devedor.
+3. A proteção conferida pela regra da impenhorabilidade abrange todos os valores depositados em conta-corrente, poupança ou outras aplicações financeiras.
+4. Ao contrário do que alega, a parte fundamentou o apelo especial também no inciso X do art. 833 do CPC/2015. Ainda que assim não fosse, tem-se que a deliberação unipessoal é clara no sentido de afastar não apenas a possibilidade de penhora de valores contidos em poupança, mas também de verbas salariais mantidas em conta-corrente, como pretende a ora recorrente.
+5. Consoante a jurisprudência desta Corte, o agravo interno não é o recurso cabível para apontar a existência de vícios integrativos em decisão monocrática, pois são os embargos de declaração a via adequada, nos termos do art. 1.022 do CPC/2015.
+6. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+(AgInt no AREsp 1765059/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 06/12/2021, DJe 09/12/2021)  grifou-se
+Desta forma, estando o acórdão recorrido em harmonia com a orientação firmada nesta Corte Superior acerca da matéria, o recurso não merece prosperar, ante a incidência da Súmula n. 83 do STJ, aplicável para ambas as alíneas do permissivo constitucional.
+2. Do exposto, com amparo no artigo 932 do NCPC c/c a Súmula 568/STJ, conhece-se do agravo para, de plano, negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
