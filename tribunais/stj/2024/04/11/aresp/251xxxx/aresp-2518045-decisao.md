@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por JOSÉ RILDO DA SILVA contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"DIREITO CIVIL - APELAÇÃO CÍVEL - AÇÃO REIVINDICATÓRIA AJUIZADA POR ESPÓLIO E SUA INVENTARIANTE EM FACE DE OCUPANTES DE BEM -FALECIMENTO DO ENTÃO CASEIRO DO IMÓVEL - RÉUS QUE NÃO DESOCUPARAM O IMÓVEL, O QUE ENSEJOU O AJUIZAMENTO DA PRESENTE DEMANDA - SENTENÇA DE PROCEDÊNCIA DO PEDIDO AUTORAL, DETERMINANDO A DESOCUPAÇÃO DA RÉ DO IMÓVEL, BEM COMO ARBITRANDO ALUGUEL EM PROL DO ESPÓLIO - APELO DE TERCEIRO, QUE SE APRESENTA COMO OCUPANTE DO BEM - SENTENÇA DE PROCEDÊNCIA MANTIDA POR SEUS PRÓPRIOS TERMOS E DOUTOS FUNDAMENTOS - SUCESSO DA AÇÃO REIVINDICATÓRIA QUE EXIGE A REUNIÃO DE DOIS ELEMENTOS: O DOMÍNIO DO AUTOR E A POSSE INJUSTA DA RÉ - DEMONSTRAÇÃO, NA PRESENTE CAUSA, DA POSSE INJUSTA, PROCEDE IN TOTUM A PRETENSÃO PETITÓRIA - IMÓVEL QUE INTEGRA, COM EXCLUSIVIDADE, A ESFERA JURÍDICA PATRIMONIAL DO AUTOR, SOBRE O QUAL A RÉ NÃO DETÉM NENHUM DIREITO - CITAÇÃO DA RÉ, QUE SE APRESENTOU COMO OCUPANTE DO BEM, REALIZADA PERANTE OFICIAL DE JUSTIÇA DESIGNADO PARA A REALIZAÇÃO DO ATO - APELANTE NÃO DEMONSTROU A EXISTÊNCIA DE JUSTO TÍTULO OU BOA-FÉ TAMPOUCO HÁ QUE SE FALAR EM INTERVERSÃO DO CARÁTER DA POSSE, APTA A TRANSFORMAR A POSSE PRECÁRIA EM POSSE AD USUCAPIONEM - NEGA-SE PROVIMENTO AO RECURSO" (fls. 227/228, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 261/269, e-STJ).
+No especial, o recorrente aponta, além de divergência jurisprudencial, violação dos arts. 238, 239, 242, 489, § 1º, IV, 1.022, I, II, parágrafo único, II, e 1.025, do Código de Processo Civil e 1.203, 1.219 e 1.240, do Código Civil, argumentando, em síntese, a nulidade do processo em virtude da ausência de citação pessoal do recorrente, devendo ser desconstituída a sentença e anulados todos os atos desde o momento em que o ato processual deveria ter sido realizado.
+Afirma que "No caso em tela, o ora Recorrente nunca foi citado, apesar de ocupar o lote intermediário, o que acabou por comprometer o exercício do contraditório e da ampla defesa" (fl. 289, e-STJ).
+Apresentadas contrarrazões às fls. 300/306 (e-STJ).
+O Presidente do tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+O tribunal de origem dirimiu a controvérsia ressaltando que "(..) em desprimor da alegação do recorrente, que vem aos autos, como ocupante do bem, a citação foi regularmente realizada, via OJA inclusive com a identificação da recebedora" (fl. 232, e-STJ - grifou-se).
+De início, no tocante à violação dos arts. 489, § 1º, IV, 1.022, I, II, parágrafo único, II, e 1.025, do Código de Processo Civil, verifica-se que o tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em existência de omissão ou de deficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+Quanto ao mérito, diante das premissas fáticas estabelecidas no acórdão, a reforma do aresto demandaria o reexame de matéria fático-probatória, providência inviável em recurso especial, haja vista o óbice da Súmula nº 7/STJ.
+Nesse sentido:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA E NULIDADE DA CITAÇÃO. REEXAME DE PROVAS. SÚMULA N.º 7 DO STJ. CITAÇÃO POSTAL. ENTREGA NO ENDEREÇO INFORMADO. PORTARIA. VALIDADE. PRECEDENTES. INCIDÊNCIA DA SÚMULA N.º 83 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. No caso, da forma como deduzida a pretensão recursal, o acolhimento das teses de ilegitimidade passiva e de nulidade da citação não prescindiria do reexame do acervo fático-probatório da causa, o que não se admite nesta via excepcional, ante o óbice da Súmula n.º 7 do STJ.
+3. Ademais, observa-se que o acórdão recorrido está em conformidade com a jurisprudência desta Corte, no sentido de que é válida citação postal, com aviso de recebimento e entregue no endereço correto do réu ou executado, mesmo que recebida por terceiros. Precedentes. Incidência da Súmula n.º 83 do STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido."
+(AgInt no AREsp 2.138.270/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 3/10/2022, DJe de 5/10/2022)
+"PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. TÍTULO JUDICIAL. EMENDA À INICIAL. DETERMINAÇÃO DO ÓRGÃO JULGADOR. PRESCRIÇÃO. INTERRUPÇÃO ANTERIOR. PRIMEIRA CITAÇÃO VÁLIDA. REEXAME DE FATOS. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. SÚMULAS 7 E 83/STJ 1. A citação decorrente da emenda à inicial determinada no julgamento de recurso não interfere na interrupção do prazo prescricional por efeito do primeiro ato citatório, cuja validade não se discute. Precedente.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. A questão jurídica apreciada pelo Tribunal de origem se amolda à jurisprudência desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+4. Inviável o recurso especial amparado no dissídio jurisprudencial quando não demonstrada a semelhança entre as hipóteses confrontadas, nos termos dos arts. 541, parágrafo único, do CPC anterior e 255, §§ 1º e 2º, do RISTJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no REsp 1.716.210/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 18/2/2020, DJe de 27/2/2020)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial, e, nessa extensão, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 20% (vinte por cento) sobre o valor da causa, não cabendo a majoração prevista no art. 85, § 11, do Código de Processo Civil por já estar no limite máximo estabelecido no § 2º do mesmo dispositivo legal.
+Publique-se.
+Intimem-se.
+EMENTA
