@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de conflito negativo de competência, com pedido de tutela de urgência, sendo suscitantes LUIZ ANTÔNIO ARRUDÃO e OUTROS tendo como suscitados o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO e o JUÍZO DE DIREITO DA 11ª VARA CÍVEL DE GOIÂNIA/GO.
+Alegam os suscitantes que:
+"Em poucas palavras, percebe-se que esse conflito ocorre porque ambos os juízos se consideraram incompetentes para processar e julgar os pedidos referentes ao imóvel de Matrícula n. 27.266 do 1º Ofício de Registro de Imóveis do Distrito Federal.
+Enquanto o Juízo onde tramitava o processo falimentar da Encol, em Goiânia, entendeu que a propriedade pertencia à ARPEG, excluindo-o do rol da ação cautelar de sequestro de bens de Pedro Paulo de Souza, o TJSP, erroneamente, data venia, afastou a competência do Juízo paulistano por considerar que o imóvel só poderia ser objeto de constrição no bojo da falência, sem considerar que a Justiça goiana já tinha se pronunciado sobre a questão e rechaçado a possibilidade de incluí-lo no patrimônio dos falidos. (Doc. 05)
+A esse respeito, é relevante pontuar que o processo falimentar teve como partes envolvidas a própria Encol S. A., além de Pedro Paulo de Souza, tendo ambos sido declarados falidos e solidariamente responsáveis pelo inadimplemento das obrigações da empresa. (Doc. 07)
+Dessa maneira, ao contrário do que o Eg. TJSP consignou no acórdão que deu causa ao presente conflito de competência, a ARPEG não possui qualquer relação com o processo falimentar citado, uma vez que, atualmente, em seu quadro societário, não figuram como sócios Pedro Paulo de Souza e Gladys, a qual jamais foi parte na falência, pois não era sócia da Encol S. A.
+Em verdade, vê-se que a ARPEG é um terceiro alheio à discussão falimentar, o que já foi reconhecido pelo Juízo Goiano, em decorrência da improcedência da lide movida pela Massa Falida em desfavor de Pedro Paulo de Souza. (Doc. 05)
+A inclusão dessa sociedade empresária no polo passivo da Execução movida pelos Suscitantes, de modo que os bens dela passassem a ser atingidos para o cumprimento forçado da sentença exequenda, ocorreu em consequência do deferimento do pedido de desconsideração da personalidade jurídica, nos termos do art. 50 do CC. (Doc. 10)
+Portanto, no que tange ao imóvel penhorado, não se trata de propriedade de Pedro Paulo, tampouco de alegação de fraude que pudesse conduzir à ineficácia da incorporação ao patrimônio social e, consequentemente, fazer com que ele pudesse ser usado para o pagamento de dívidas da massa falida.
+Em vez disso, são lotes de propriedade da ARPEG, que só podem ser objeto de constrição judicial em favor dos Suscitantes porque o Juízo da Execução reconheceu a presença dos requisitos necessários para que se desconsiderasse a personalidade jurídica dessa empresa, aplicando o disposto no art. 50 do CC.
+(..)
+Cumpre destacar, ainda, que o decidido no Conflito de Competência 104.879/GO não se comunica com a discussão enfrentada no presente Conflito, tanto em razão de a ARPEG não ser parte no processo de falência, como em razão de o bem em questão já ter sido reconhecido, pelo Juízo falimentar, como não pertencente ao falido Pedro Paulo de Souza, após o julgamento do Conflito de Competência 104.879/GO.
+Diante disso, a determinação judicial emanada do Conflito de Competência 104.879/GO foi atendida à época, pois houve a remessa dos autos ao Juízo Falimentar e aguardou-se o desfecho definitivo das ações movidas pela Massa Falida contra Pedro Paulo de Souza.
+Ocorre que, posteriormente, a Massa Falida, que havia suscitado o Conflito anterior, quando instada a se manifestar quanto ao cancelamento dos gravames sobre o imóvel em discussão, reconheceu que não havia fundamento jurídico que amparasse a manutenção da referida constrição judicial. Esse posicionamento decorreu, justamente, da improcedência das ações movidas contra o antigo administrador da empresa, o que maculou, por completo, a possibilidade de que o bem citado permanecesse no arrolamento de bens da falência.
+E, diante desse cenário, em que o Juízo falimentar afastou, expressamente, a sua competência para processar o caso, pois o bem não pertenceria à universalidade dos falidos (Encol S. A. e Pedro Paulo de Souza), em pleno atendimento ao disposto no artigo 76 da Lei 11.101/2005, não poderia o TJSP ter também afirmado sua incompetência para processar e julgar o pedido de penhora e de adjudicação do bem na Execução dos Suscitantes.
+(..)
+Portanto, é evidente que a competência jurisdicional da 26ª Vara Cível da Comarca de São Paulo/SP não pode ser ignorada, sobretudo em razão de que, há anos, tem sido o foro competente para processar e julgar a Execução originária, a despeito das sucessivas tentativas de deslocamento da competência ao Juízo falimentar, incompetente para cuidar da matéria" (fls. 7/15 e-STJ).
+Entendem que deve ser concedida liminar "para que sejam suspensos os efeitos do acórdão proferido pela 7ª Câmara Cível do TJSP nos autos do Agravo de Instrumento n. 2176048-08.2022.8.26.0000 e para que o Juízo da 26ª Vara Cível da Comarca de São Paulo/SP seja mantido, ao menos provisoriamente, como foro competente para decidir medidas urgentes na Execução Originária, até o julgamento definitivo do presente Conflito de Competência pelo Superior Tribunal de Justiça" (fl. 14 e-STJ).
+Defendem, ao final, que seja declarada "a competência da 26ª Vara Cível da Comarca de São Paulo/SP para processar e julgar a Execução originária nº 0040935-74.2003.8.26.0100" (fl. 15 e-STJ).
+A liminar foi indeferida (fls. 162/164 e-STJ).
+Os Juízos suscitados apresentaram as suas informações (fls. 304/352 e 355/360 e-STJ).
+Em seu parecer, o Ministério Público Federal opinou pelo não conhecimento do conflito de competência (fls. 361/365 e-STJ).
+É o relatório.
+DECIDO.
+O conflito não merece conhecimento.
+Inicialmente, cumpre transcrever o entendimento exposto em parecer elaborado pelo Ministério Público Federal:
+"O presente caso, contudo, não se amolda às hipóteses previstas no referido dispositivo, pois não se verifica, considerando o teor das informações prestadas, a existência de manifestações conflitantes acerca da mesma matéria entre o juízo universal e o juízo paulista.
+Primeiramente, importante contextualizar que a circunstância que ensejou a declinação de competência pelo Tribunal de Justiça do Estado de São Paulo para o juízo da falência foi a divergência sobre a titularidade do imóvel de matrícula nº 27.266, objeto da execução. Segundo a decisão do referido tribunal, se configurada fraude à execução, seria reputado o imóvel pertencente à massa falida, cabendo ao juízo falimentar deliberar se o bem poderia ser utilizado na execução.
+Os suscitantes sustentam o conflito de competência afirmando que o juízo falimentar se manifestou no sentido de que o imóvel em questão é de propriedade da ARPEG e que, portanto, não estaria sujeito ao processo falimentar. A alegação está respaldada especialmente na decisão de e-STJ fl. 41, proferida pelo Juízo de Direito da 11ª Vara Cível de Goiânia-GO, em que foi determinado o cancelamento do registro de sequestro e da averbação de indisponibilidade do imóvel em litígio.
+Todavia, diferentemente do que alegado pelos suscitantes, o Juízo de Direito da 11ª Vara Cível de Goiânia-GO, às fls. 355 e ss., e-STJ, informou que em nenhum momento se pronunciou no sentido de excluir o imóvel de matrícula nº 27.266 da falência" (fl. 363 e-STJ).
+Na hipótese dos autos, não há falar em conflito, em razão da ausência de decisões conflitantes.
+Dispõe o artigo 66 do Código de Processo Civil:
+"Art. 66. Há conflito de competência quando:
+I - 2 (dois) ou mais juízes se declaram competentes;
+II - 2 (dois) ou mais juízes se consideram incompetentes, atribuindo um ao outro a competência;
+III - entre 2 (dois) ou mais juízes surge controvérsia acerca da reunião ou separação de processos."
+Ademais, na linha da jurisprudência desta Corte, somente se instaura o conflito de competência quando dois Juízos se declarem competentes ou incompetentes para processamento e julgamento de uma mesma demanda ou quando, por regra de conexão, houver controvérsia entre eles acerca da reunião ou separação dos processos.
+Nesse sentido:
+"AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. JUÍZO DA RECUPERAÇÃO E JUÍZO DA EXECUÇÃO. AUSÊNCIA DE CHOQUE DE JURISDIÇÕES. EXECUÇÃO. REDIRECIONAMENTO. COOBRIGADOS. SÚMULA 581/STJ.
+1. Nos termos do art. 66 do Código de Processo Civil, o conflito de competência pressupõe a divergência entre órgãos judiciais acerca de a quem cabe julgar a demanda. Elemento essencial não demonstrado nos autos.
+2. Ainda que o crédito esteja inscrito no plano de recuperação judicial, na hipótese dos autos, o bem constrito não pertence à pessoa jurídica primeira suscitante, mas aos coobrigados no contrato, para os quais foi redirecionada a execução.
+3. "A recuperação judicial do devedor principal não impede o prosseguimento das ações e execuções ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória" (Súmula 581/STJ).
+4. Agravo interno a que se nega provimento." (AgInt no CC n. 182.486/RJ, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 20/6/2023, DJe de 23/6/2023).
+"AGRAVO INTERNO NO AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. AÇÃO DE INDENIZAÇÃO PROVENIENTE DE ACIDENTE DE TRABALHO. DECISÃO DO TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO DECLINANDO DA COMPETÊNCIA. JUÍZO TRABALHISTA AO QUAL SE REMETEU OS AUTOS DA DEMANDA INDENIZATÓRIA QUE ACEITOU A COMPETÊNCIA. AUSÊNCIA DE DECISÕES CONFLITANTES. UTILIZAÇÃO DO INCIDENTE COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE, AINDA QUE SE TRATE DE MATÉRIA DE ORDEM PÚBLICA. CONFLITO NÃO CONHECIDO. AGRAVO DESPROVIDO.
+1. Nos termos do art. 66 do CPC/2015 (equivalente ao art. 115 do CPC/1973), o conflito de competência se configura quando dois ou mais juízes declaram-se competentes ou consideram-se incompetentes para o processamento e julgamento de uma mesma matéria ou quando existir controvérsia acerca da reunião ou separação de processos entre duas ou mais autoridades judiciárias.
+2. O presente caso, contudo, não se amolda às hipóteses previstas no referido dispositivo, não merecendo, assim, conhecimento o conflito, ainda que verse sobre matéria de ordem pública, visto que não há nos autos decisões conflitantes entre os juízos suscitados, pois o Tribunal de Justiça do Estado de São Paulo declinou da competência para o
+julgamento de ação indenizatória decorrente de acidente de trabalho, ao passo que a Justiça do Trabalho julgou aquela demanda em todas as instâncias, aceitando, assim, a competência.
+3. Ademais, enfatiza-se que o conflito de competência não se presta a atuar como sucedâneo recursal, como pretende a recorrente.
+4. Agravo interno desprovido." (AgInt no AgInt no CC 153.583/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 29/10/2019, DJe 05/11/2019).
+Ante o exposto, não conheço do conflito de competência.
+Publique-se.
+Intimem-se.
+Comunique-se.
+EMENTA
