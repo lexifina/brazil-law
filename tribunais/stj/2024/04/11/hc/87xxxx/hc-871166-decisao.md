@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em favor de ADRIAN SAMUEL MARTINS DA SILVA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA proferido na Revisão Criminal n. 5054901-81.2023.8.24.0000.
+Consta dos autos que o paciente foi absolvido em primeira instância da acusação da prática de roubo.
+A apelação do Ministério Público foi provida, por aresto de fls. 681/703, com a condenação do paciente pela prática dos crimes previstos no art. 157, § 2º , inc. II e V, e § 2º- A, inc. I, do Código Penal, todos em concurso formal, e art. 157, § 3º, c/c art. 14, inc. II, do Código Penal, em concurso formal impróprio, a cumprir 23 anos, 1 mês e 18 dias de reclusão, no regime inicial fechado, além do pagamento de 67 dias-multa. (roubo majorado e latrocínio tentado).
+A revisão ajuizada após o trânsito em julgado não foi conhecida.
+Na presente impetração, a defesa alega a nulidade do reconhecimento fotográfico, que não teria sido corroborado por outras provas.
+Busca a absolvição do paciente.
+Indeferido o pedido liminar às fls. 891/892.
+O Ministério Público Federal opinou pela denegação da ordem, em parecer de fls. 894/903, assim sumariado:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ABUSO DO DIREITO DE IMPETRAÇÃO. REVISÃO CRIMINAL. ROUBO MAJORADO. RECONHECIMENTO FOTOGRÁFICO. AUTORIA CORROBORADA POR OUTRAS PROVAS COLHIDAS SOB O CRIVO DO CONTRADITÓRIO. POSSIBILIDADE.
+Parecer pela inadmissibilidade do habeas corpus e, se admitido, pela denegação da ordem."
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida. Porém, considerando as alegações expostas na inicial, razoável verificar a existência de eventual constrangimento ilegal.
+Para melhor compreensão, transcrevo excerto do voto condutor:
+"Dessarte, e apenas para fins de liquidação da matéria, veja-se que o reconhecimento pessoal foi ratificado durante a prova oral colhida durante a persecução penal, com a descrição das características do agente e riqueza de detalhes, inclusive, com a plena convicção da ofendida de que efetivamente o ora revisionando participou do delito, não sendo, assim, o reconhecimento fotográfico o único elemento de prova utilizado como base para a condenação.
+Por derradeiro, anota-se que muito embora a defesa do revisionando impugne as características físicas atribuídas pela ofendida, indicando que o relatório de vida carcerária do agente lhe classifica como "pardo" (e não branco), é perceptível da gravação da audiência de instrução - evento 121, vídeo 7 - que o agente reflete a fisionomia indicada pela ofendida, de modo que a condenação, na forma como prolatada pela Primeira Câmara Criminal, foi escorreita e atenta ao conjunto probatório amealhado durante a persecução penal." (fls. 882/883)
+Em revisão à anterior orientação jurisprudencial, ambas as Turmas Criminais que compõem esta Corte, a partir do julgamento do HC n. 598.886/SC (Rel. Ministro Rogerio Schietti Cruz), realizado em 27/10/2020, passaram a dar nova interpretação ao art. 226 do CPP, segundo a qual a inobservância do procedimento descrito no mencionado dispositivo legal torna inválido o reconhecimento da pessoa suspeita e não poderá servir de lastro a eventual condenação, mesmo se confirmado em juízo.
+Contudo, atualmente, este Tribunal vem adotando o entendimento de que, ainda que o reconhecimento do réu tenha sido feito em desacordo com o modelo legal e, assim, não possa ser sopesado, nem mesmo de forma suplementar, para fundamentar a condenação do réu, certo é que se houver outras provas, independentes e suficientes o bastante, produzidas sob o crivo do contraditório e da ampla defesa, para lastrear o decreto condenatório, não haverá nulidade a ser declarada (AgRg nos EDcl no HC n. 656845/PR, Rel. Ministro Rogério Schietti Cruz, Sexta Turma, DJe 28/11/2022).
+Na hipótese em tela, embora não tenham sido observados os procedimentos dispostos no art. 226 do CPP, o acordão impugnado apurou que o conjunto probatório coletado no feito é suficiente para a condenação do paciente, notadamente o depoimento da vítima, que foi ratificado e descreveu em detalhes as características do paciente e reafirmou com convicção de que ele havia participado do delito.
+Vejam-se precedentes nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO. RECONHECIMENTO FOTOGRÁFICO. PROCEDIMENTO PREVISTO NO ART. 226 DO CÓDIGO DE PROCESSO PENAL - CPP. INOBSERVÂNCIA. EXISTÊNCIA DE OUTROS ELEMENTOS DE PROVA. PRETENDIDA ABSOLVIÇÃO DO DELITO. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É firme a jurisprudência desta Corte no sentido de que presentes elementos de prova independentes e suficientes a demonstrar a autoria do delito, a existência de vício no procedimento de reconhecimento pessoal não conduz à imediata absolvição.
+2. No caso em análise, ainda que se repute nulo o reconhecimento pessoal, as instâncias ordinárias afirmaram a existência de provas suficientes a fundamentar a condenação. Em especial, o depoimento das vítimas, que descreveram com clareza de detalhes as vestimentas dos acusados e também a motocicleta utilizada no momento da prática delitiva, a confissão extrajudicial e o fato de os objetos subtraídos terem sido apreendidos em poder do paciente.
+3. A decisão impugnada não divergiu da jurisprudência consolidada nesta Corte Superior no sentido de que o habeas corpus não é a via adequada para a apreciação de teses defensivas de absolvição ou desclassificação da conduta do paciente, quando necessário o revolvimento do conjunto fático-probatório, procedimento vedado na via eleita.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 851.668/GO, minha relatoria, Quinta Turma, julgado em 27/11/2023, DJe de 29/11/2023.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. RECONHECIMENTO FOTOGRÁFICO ILEGAL. NÃO OBSERVÂNCIA À DISCIPLINA DO ART. 226 DO CPP. 2. EXISTÊNCIA DE OUTRAS PROVAS. LIVRE CONVENCIMENTO MOTIVADO. 3. PARTICULARIDADES DO CASO CONCRETO. RECONHECIMENTO IMEDIATO. DECLARAÇÕES FIRMES DAS VÍTIMAS. 4. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência mais recente do Superior Tribunal de Justiça se firmou no sentido de que o acusado não pode ser condenado com base, apenas, em eventual reconhecimento falho, ou seja, sem o cumprimento das formalidades legais, as quais constituem, em verdade, garantia mínima para quem se encontra na condição de suspeito da prática de um delito.
+2. Lado outro, é possível que o julgador, destinatário das provas, convença-se da autoria delitiva a partir de outras provas que não guardem relação de causa e efeito com o ato do reconhecimento falho, porquanto, sem prejuízo da nova orientação, não se pode olvidar que vigora no nosso sistema probatório o princípio do livre convencimento motivado.
+3. Não obstante a não observância estrita do art. 226 do Código de Processo Penal, não é possível desconsiderar as particularidades do caso concreto, em especial as firmes declarações da vítima, que asseverou, tanto em sede inquisitorial quanto em sede judicial, não ter dúvidas sobre a autoria delitiva, porquanto não desviou o olhar do acusado, que foi reconhecido de imediato na delegacia, não obstante a apresentação de outras fotos.
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 751.629/SC, relator Ministro Reynaldo Soaresda Fonseca, Quinta Turma, julgado em 16/8/2022, DJe de 22/8/2022.)
+Desse modo, inexiste flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34, inc. XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
