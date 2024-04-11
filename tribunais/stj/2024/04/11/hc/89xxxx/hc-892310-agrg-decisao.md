@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo regimental interposto contra decisão que indeferiu liminarmente o habeas corpus por incidência da Súmula 691 do Supremo Tribunal Federal (e-STJ fls. 283-284).
+O agravante requer a reconsideração da decisão agravada ou o provimento de seu recurso pelo colegiado.
+Contrarrazões do Ministério Público do Estado de Pernambuco pelo desprovimento do agravo regimental (e-STJ fls. 308-311).
+É o relatório. Decido.
+O recurso é tempestivo, uma vez que a decisão agravada foi publicada em 27/02/2024 (e-STJ fl. 285) e o agravo foi interposto em 04/03/2024 (e-STJ fl. 300), ou seja, dentro do prazo legal previsto no art. 258, caput, do Regimento Interno do Superior Tribunal de Justiça (RISTJ).
+No caso, verifico elementos suficientes para reconsiderar a decisão monocrática, razão pela qual passo ao novo exame do habeas corpus.
+O paciente foi preso preventivamente e condenado à penas de 6 anos de reclusão, em regime fechado, além do pagamento de 500 dias-multa, pela prática do crime previsto no art. 33, caput, da Lei 11.343/2006, mantida a prisão preventiva.
+O recurso de apelação interposto pela defesa encontra-se pendente de julgamento pelo Tribunal estadual e o pedido de revogação da prisão preventiva foi indeferido pelo Desembargador relator (e-STJ fls. 274-280).
+A defesa alega, em apertada síntese, a inexistência de fundamentação idônea a justificar a prisão preventiva do paciente.
+Pois bem.
+Observa-se que a decisão impugnada foi proferida na origem de forma monocrática. Não há manifestação colegiada do respectivo Tribunal sobre a matéria, o que inviabiliza seu conhecimento pelo Superior Tribunal de Justiça, pois não se trata de decisão de última instância (art. 105, I, c, da Constituição Federal).
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR. ART. 210 DO RISTJ. ORDEM IMPETRADA CONTRA DECISÃO SINGULAR DE DESEMBARGADOR DO TRIBUNAL DE ORIGEM. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. SUPRESSÃO DE INSTÂNCIA. INCOMPETÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO DESPROVIDO. 1. Compete ao Superior Tribunal de Justiça apreciar habeas corpus impetrado nas hipóteses em que a autoridade coatora ou o paciente estejam indicados no art. 105, inciso I, alíneas "a" e "c", da Constituição da República. 2. No caso, o writ foi impetrado contra decisão monocrática de proferida por relator no Tribunal de origem, a qual não foi impugnada por recurso cabível, objetivando submeter a decisão à apreciação do órgão colegiado. Uma vez não esgotada a instância ordinária, é manifesta, portanto, a supressão de instância. Precedentes. 3. Ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF. 4. No caso, não se verifica a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar o processamento da presente ordem, na medida em que não há se falar, outrossim, em descumprimento à Resolução CNJ n. 474/2022, uma vez que exigível a prévia intimação apenas em caso de transitada em julgado a condenação ao cumprimento de pena em regime semiaberto ou aberto, não se aplicando como no caso, de cassação de benefício e retomada do cumprimento da pena privativa de liberdade. 5. Agravo regimental desprovido. (AgRg no HC n. 853.247/RS, relator Ministro Ribeiro Dantas, Quinta Turma, j. em 30/10/2023, DJe de 3/11/2023) (destaquei).
+Além disso, a concessão de ofício da ordem, nos termos do art. 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, situação que não se verifica de plano na hipótese dos autos.
+Ante o exposto, reconsidero a decisão de e-STJ fls. 283-284 e não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
