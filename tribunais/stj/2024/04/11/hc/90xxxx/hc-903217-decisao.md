@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de OTO FHYNBEEN, pronunciado como incurso nas sanções do art. 121, § 2º, II, c/c o art. 14, II (por duas vezes), ambos do Código Penal e do art. 180, caput, c/c o art. 69, todos do Código Penal (Processo n. 0004875-91.2019.8.16.0174, da 1ª Vara Criminal da comarca de União da Vitória/PR).
+Aponta-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, que não conheceu do Recurso em Sentido Estrito n. 0010095-31.2023.8.16.0174, nos termos desta ementa (fl. 15):
+PRONÚNCIA. HOMICÍDIO QUALIFICADO (ART. 121, § 2.º, INC. II, C/C ART. 14, INC. II, DO CP, POR DUAS VEZES) E RECEPTAÇÃO (ART. 180, , CP). RECURSO DA CAPUT DEFESA. PLEITOS DE ABSOLVIÇÃO SUMÁRIA QUANTO AOS CRIMES DOLOSOS CONTRA A VIDA POR LEGÍTIMA DEFESA OU, SUBSIDIARIAMENTE, DE EXCLUSÃO DA QUALIFICADORA. PEDIDO, ADEMAIS, DE DESPRONÚNCIA QUANTO AO CRIME CONEXO, POR INSUFICIÊNCIA PROBATÓRIA. PRELIMINAR SUSCITADA PELA PROCURADORIA-GERAL DE JUSTIÇA DE NÃO CONHECIMENTO DO RECURSO. ACOLHIMENTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE PRONÚNCIA. MERA REPRODUÇÃO LITERAL DAS ALEGAÇÕES FINAIS. OFENSA AO PRINCÍPIO DA DIALETICIDADE. RECURSO NÃO CONHECIDO.
+Alega-se, em suma, evidente ilegalidade do acórdão ante o não conhecimento do recurso da defesa pela inexistente violação ao princípio da dialeticidade, sendo que a não apreciação do mérito recursal prejudica, por certo, a liberdade de locomoção do paciente (fl. 6).
+Assevera-se que repetir, no recurso em sentido estrito, os argumentos já lançados nos autos da ação penal não representa, por si só, obstáculo ao conhecimento do recurso, nem ofensa ao princípio da dialeticidade (fl. 7).
+Menciona-se que, em recente julgamento em habeas corpus impetrado pela Defensoria Pública do PR, o Superior Tribunal de Justiça (STJ), por seu Ministro Relator Reynaldo Soares da Fonseca, concedeu a ordem de ofício para determinar o Tribunal de Justiça do Estado do Paraná a examinar, conforme seu juízo de direito, o mérito da apelação defensiva referente à Ação Penal n. 0001335-06.2021.8.16.0064 (fl. 10).
+Requer-se, em liminar e no mérito, a concessão da ordem para que seja reconhecida a ilegalidade do acórdão, conforme fundamentos apresentados, para fins de determinar que o Tribunal de Justiça do Estado do Paraná conheça do recurso em questão e se pronuncie sobre o mérito arguido pela defesa (fl. 13).
+É o relatório.
+De plano, destaco que o presente writ é incabível por consubstanciar inadequada substituição ao recurso próprio a ser dirigido ao Superior Tribunal de Justiça (AgRg no HC n. 753.464/SC, Ministra Laurita Vaz, Sexta Turma, DJe 29/9/2022).
+Este habeas corpus foi ajuizado antes do dies ad quem para a interposição do recurso especial na causa principal, via de impugnação própria para discutir a matéria ora ventilada.
+Inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado. A liberdade de ir e vir do paciente não está em jogo no momento. A ele foi garantido, na pronúncia, o recurso nessa condição (fl. 61), não há nenhuma notícia acerca de eventual mandado de prisão expedido em nome dele em razão da ação penal em questão.
+Pelo exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESCABIMENTO. RECURSO EM SENTIDO ESTRITO NÃO CONHECIDO NA ORIGEM. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL. LIBERDADE AO RÉU GARANTIDA NA ORIGEM.
+Petição inicial indeferida liminarmente.
