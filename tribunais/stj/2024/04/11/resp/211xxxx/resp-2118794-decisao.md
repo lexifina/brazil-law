@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado:
+CONTRIBUIÇÃO SOCIAL. INC. IV DO ART. 22 DA LEI 8.212/1991. INCONSTITUCIONALIDADE. MULTA POR FALTA DE DECLARAÇÃO DO TRIBUTO. OBRIGAÇÃO ACESSÓRIA. A INDEPENDÊNCIA ENTRE A OBRIGAÇÃO TRIBUTÁRIA PRINCIPAL E A ACESSÓRIA (ART. 113 DO CTN) NÃO IMPÕE QUE SUBSISTA COBRANÇA DE MULTA POR FALTA DE DECLARAÇÃO DE TRIBUTO QUE NEM SEQUER ERA EXIGÍVEL. PRECEDENTES.
+Os embargos de declaração foram rejeitados.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, o recorrente sustenta violação aos artigos 1.022, II, do CPC/2015; 32, IV e §3º da Lei 8.212/1991; 113, 115 e 175, parágrafo único, do CTN.
+Preliminarmente, aduz que o acórdão de origem foi omisso na análise de questões relevantes para a conclusão da controvérsia.
+No mérito, defende que mesmo diante a declaração de inconstitucionalidade da exação principal, remanesce o seu direito de cobrar a obrigação acessória consubstanciada em multa por falta de declaração de tributo.
+Contrarrazões ao recurso especial às fls. 2448/2457.
+Decisão de admissibilidade à fl. 2460.
+É o relatório. Decido.
+Consta do v. acórdão de origem:
+O ponto controvertido em recurso se resume à subsistência de CDA e de execução fiscal lastreadas na multa por descumprimento de obrigação acessória prevista no inc. IV do art. 32 da L 8.212/1991, após reconhecimento da inconstitucionalidade e inexigibilidade da obrigação tributária principal, qual seja, a contribuição social prevista no inciso IV do art. 22 da L 8.212/1991. Nesse ponto a sentença deve ser mantida por seus próprios fundamentos:  ..  A independência entre a obrigação principal e acessória (art. 113 do CTN) não impõe que subsista cobrança de multa por falta de declaração de tributo que nem sequer era exigível. Na verdade, essa reconhecida autonomia entre as obrigações diz respeito à hipótese de, mesmo havendo o pagamento de tributo devido, ser exigível a multa por falta de declaração. Nesse sentido a jurisprudência da Primeira Seção desta Corte: TRF4, Segunda Turma, AC 5016139-50.2016.4.04.7107,j. em 18fev.2020; TRF4, Segunda Turma, AC 5018109-90.2013.4.04.7107, j. em 18set.2017.  ..  Vencida a parte recorrente tanto em primeira como em segunda instância, sujeita-se ao acréscimo de honorários de advogado de sucumbência em recurso de que trata o § 11 do art. 85 do CPC. Majora-se o saldo final de honorários de advogado de sucumbência que se apurar aplicando os critérios fixados pelo Juízo de origem, dentro dos parâmetros e limites do § 3º do art. 85 do CPC, para que o valor final fique acrescido de dez por cento.
+A despeito do que constou do acórdão recorrido, verifica-se que o Tribunal de origem não se pronunciou de forma adequada sobre a seguinte alegação:
+O v. julgado exarado pelo e. TRF da 4ª Região foi omisso no que tange à análise da questão sub judice à luz do disposto no art. 32, IV e §3º da Lei nº 8.212/91, na redação dada pela Lei nº 9.528/99, c/c o disposto nos artigos 113, 115 e 175 e §único, do CTN - normativa que fundamenta o entendimento da União de que mesmo que a obrigação principal correlata, (no presente caso, a contribuição previdenciária prevista no art. 22, inciso I V da Lei nº 8.212/91, com a redação dada pela Lei nº 9.876/99, que foi declarada inconstitucional pelo c. Supremo Tribunal Federal) não seja mais cobrada, permanece a acessória, prevista no art. 32, da Lei nº 8.212/91.
+Cumpre registrar que tal alegação foi suscitada no momento oportuno e reiterada em sede de embargos de declaração, os quais foram rejeitados, persistindo a omissão destacada.
+Para fins de conhecimento do recurso especial, é indispensável a prévia manifestação do Tribunal a quo acerca da tese de direito suscitada, ou seja, a ausência de prequestionamento impede o conhecimento do recurso (Súmulas 282 e 356 do STF e Súmula 211/STJ). Assim, tratando-se de questão relevante para o deslinde da causa que foi suscitada no momento oportuno e reiterada em sede de embargos de declaração, a ausência de manifestação sobre ela caracteriza ofensa ao art. 1.022 do CPC/2015. Verificada tal ofensa, em sede de recurso especial, impõe-se, em regra, a anulação do acórdão proferido em sede de embargos de declaração, para que seja proferido novo julgamento suprindo tal omissão.
+No mesmo sentido:
+PROCESSUAL CIVIL. ART. 535 DO CPC. APELAÇÃO. SUPOSTA INTEMPESTIVIDADE. OMISSÃO CONFIGURADA.
+1. Apesar de provocada pela via dos embargos declaratórios, a Corte de origem não se pronunciou efetivamente sobre a tese articulada em torno da ocorrência de julgamento extra petita e de reformatio in pejus consistentes na redução da alíquota do ITCD sem que houvesse apelação do contribuinte, mas apenas do Fisco Estadual.
+2. Caracterizado o vício da omissão, impõe-se o reconhecimento de ofensa ao art. 535 do CPC, anulando-se o acórdão proferido no julgamento dos embargos de declaração e determinando-se o retorno dos autos à origem para que seja sanada a eiva apontada, prejudicada a análise dos demais tópicos.
+3. Recurso especial provido.
+(REsp 1.187.583/RS, 2ª Turma, Rel. Min. Castro Meira, DJe de 17.5.2010)
+PROCESSUAL CIVIL. AUSÊNCIA DE MANIFESTAÇÃO PELO TRIBUNAL A QUO. EMBARGOS DE DECLARAÇÃO. REJEIÇÃO. ART. 535 DO CPC. VIOLAÇÃO. OCORRÊNCIA.
+1. Caracteriza-se ofensa ao art. 535 do Código de Processo Civil se o Tribunal de origem deixar de pronunciar-se acerca de matéria veiculada pela parte sobre a qual era imprescindível manifestação expressa. Determinação de retorno dos autos para que se profira nova decisão nos Embargos de Declaração.
+3. Embargos Declaratórios acolhidos com efeitos infringentes.
+(EDcl no AgRg no REsp 1.137.175/RJ, 2ª Turma, Rel. Min. Herman Benjamin, DJe de 6.4.2010)
+Assim, merece ser provido o recurso especial, a fim de anular o aresto proferido em sede de embargos de declaração, determinando-se o retorno dos autos ao Tribunal de origem para que seja proferido novo julgamento.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL.RECURSO ESPECIAL. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. OMISSÃO CARACTERIZADA. RECURSO ESPECIAL PROVIDO.
