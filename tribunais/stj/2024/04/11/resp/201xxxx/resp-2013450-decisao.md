@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ contra acórdão do Tribunal de Justiça daquela Unidade Federativa.
+Consta dos autos que o juízo singular condenou o agravante como incurso nas sanções do art. 121, caput, do Código Penal, à pena de 06 (seis) anos de reclusão, em regime semiaberto (fls. 865-885).
+O Tribunal de origem, por unanimidade, deu parcial provimento ao apelo ministerial para redimensionar a pena do réu para 07 (sete) anos e 09 (nove) meses de reclusão, em regime semiaberto (fls. 947-951).
+Opostos embargos de declaração, por unanimidade, estes foram acolhidos, entretanto, sem efeitos modificativos (fls. 1.020-1.021).
+Opostos novos embargos de declaração, por unanimidade, estes foram rejeitados (fls. 1.041-1.043).
+Interposto recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição da República, a acusação alegou ofensa ao art. 59 do CP, porquanto há fundamentação idônea para a valoração negativa das consequências do crime e consequente exasperação da pena base.
+Apresentadas as contrarrazões (fls. 1.069-1.074), o recurso foi admitido na origem e os autos encaminhados a esta Corte Superior.
+A d. Subprocuradoria-Geral da República apresentou parecer pelo provimento do recurso especial (fls. 1.089-1.093).
+É o relatório. DECIDO.
+A questão a ser analisada cinge-se a valoração negativa das consequências do delito. O Tribunal a quo assim se manifestou sobre o ponto (fl. 977):
+"Também se insurge no recurso o apelante em relação às consequências do crime, afirmando que os reflexos do crime ultrapassaram aquelas que seriam usualmente associadas ao tipo penal em comento, merecendo, pois, valoração diversa, mais gravosa. Alaga em suma, que as consequências do delito recaíram, em suma, sobre terceiros, haja vista a consumação fatal da morte da vítima, sendo que a família da vítima reflete tal sentimento em seus depoimentos colhidos ao longo do feito, notadamente, pelo que declarou a ex-esposa da vítima, quando ouvida por ocasião da sessão de julgamento.
+Na decisão atacada, as consequências do crime foram assim avaliadas:
+"No presente caso, não vislumbro a superveniência de consequências além daquelas normais ao tipo penal versado nestes autos, de modo que desnecessária a elevação da pena-base em função da presente circunstância".
+No caso o d. magistrado avaliou corretamente esta circunstância, pois não houveram consequências em relação ao que normalmente ocorreria para um caso de homicídio. Sempre que ocorre um homicídio, uma família resta enlutada e causa dor, e por esta razão a pena aplicada a esta prática criminosa é superior a maioria dos delitos."
+A respeito da presente controvérsia, oportuno registrar que esta Corte tem assentado o entendimento de que a dosimetria da pena é atividade inserida no âmbito da atividade discricionária do julgador, atrelada às particularidades de cada caso concreto.
+Desse modo, cabe às instâncias ordinárias, a partir da apreciação das circunstâncias objetivas e subjetivas de cada crime, estabelecer a reprimenda que melhor se amolda à situação, admitindo-se revisão nesta instância apenas quando for constatada evidente desproporcionalidade entre o delito e a pena imposta, hipótese em que deverá haver reapreciação para a correção de eventual desacerto quanto ao cálculo das frações de aumento e de diminuição e a reavaliação das circunstâncias judiciais listadas no art. 59 do Código Penal.
+As  consequências  do  crime  devem  ser  entendidas  como  o  resultado  da  ação  do  agente;  a  avaliação  negativa  de  tal  circunstância  judicial  mostra-se  correta  se  o  dano  material  ou  moral  causado  ao  bem  jurídico  tutelado  se  revelar  superior  ao  inerente  ao  tipo  penal.
+Na  espécie,  errônea  se  encontra  a  decisão  da  Corte  de  Apelação  ao  não  valorar  negativamente  as  consequências  do  crime,  pois  evidenciado  circunstâncias  que  desbordam  do  próprio  tipo  penal,  tendo em vista que a vítima deixara filhos menores de idade, conforme se denota da decisão de embargos de declaração de fls. 1.041-1.043.
+Com  efeito:  "A  jurisprudência  desta  Corte  Superior  de  Justiça  é  no  sentido  de  que  é  válida  a  valoração  negativa  das  consequências  do  delito  quando  a  vítima  de  homicídio  deixa  filhos  menores  órfãos.  Precedentes"  (AgRg  no  REsp  n.  2.045.528/MT,  Quinta  Turma,  Rel.  Min.  Reynaldo  Soares  da  Fonseca,  DJe  de  15/5/2023, grifei).
+No  mesmo  sentido:
+"PROCESSO  PENAL.  AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  WRIT  NÃO  CONHECIDO.  HOMICÍDIO  QUALIFICADO.  MAUS  ANTECEDENTES  CONSIDERADOS  EM  RAZÃO  DE  CONDENAÇÃO  TRANSITADA  EM  JULGADO  POSTERIORMENTE  À  DATA  DO  CRIME  OBJETO  DA  SENTENÇA.  CONSEQUÊNCIAS  DO  DELITO.  VÍTIMA  QUE  DEIXA  FILHOS  MENORES  DE  IDADE.  POSSIBILIDADE  DE  AUMENTO  DA  PENA.  AGRAVO  REGIMENTAL  NÃO  PROVIDO.
+ ..
+2.  O  fato  de  a  vítima  ter  deixado  filhos  menores  desassistidos  constitui  motivação  concreta  para  a  negativação  das  consequências  do  delito.
+3.  Agravo  regimental  não  provido"  (AgRg  no  HC  n.  787.591/MS,  Quinta  Turma,  Rel.  Min.  Ribeiro  Dantas,  DJe  de  10/3/2023).
+Dessa forma, estando o v. acórdão prolatado pelo eg. Tribunal a quo em desconformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso o enunciado da Súmula 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Assim, imperioso o redimensionamento da dosimetria.
+A pena-base foi fixada no mínimo legal, em 06 (quatro) anos de reclusão e 10 (dez) dias-multa. Na segunda fase, o Tribunal de origem, ao negativar, os maus antecedentes, majorou a pena-base em um oitavo, ou seja, em 01 (um) ano e 09 (nove)meses.
+Considerando o provimento do presente recurso para fins de negativar o vetor das consequências do crime, bem como tendo em vista a majoração já efetivada pelo Tribunal de origem, observando o critério da proporcionalidade, aumento a pena em 9 meses, o que culmina na pena definitiva de 8 (oito) anos e 6 (seis) meses de reclusão, em regime fechado.
+Ante o exposto, com fulcro no art. 255, § 4º, inciso III, do Regimento Interno do STJ, dou provimento ao recurso especial, nos termos da fundamentação retro.
+Publique-se. Intimem-se.
+EMENTA
+PENAL.  RECURSO  ESPECIAL.  HOMICÍDIO. DOSIMETRIA. PRIMEIRA FASE. EXASPERAÇÃO DA PENA-BASE. CONSEQUÊNCIAS DO CRIME. FILHOS MENORES ÓRFÃOS. GRAVIDADE EXCEPCIONAL DA CONDUTA. FUNDAMENTAÇÃO INIDÔNEA DO ACÓRDÃO RECORRIDO. RECURSO ESPECIAL PROVIDO.
