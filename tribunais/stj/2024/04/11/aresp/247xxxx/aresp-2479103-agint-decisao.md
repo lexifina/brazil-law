@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interno interposto por Tâmara da Silva Zoner, pessoa jurídica, em face da seguinte decisão:
+Cuida-se de agravo em recurso especial apresentado por TAMARA DA SILVA ZONER contra decisão que inadmitiu recurso especial interposto com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta ao art. 1.022 do CPC, ausência de afronta a dispositivo legal, Súmula 7/STJ e ausência de similitude fática.
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 7/STJ.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial.
+A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp 746.775/PR, relator Ministro João Otávio de Noronha, relator p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial. Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+A agravante afirma que, em que pese o entendimento da decisão agravada, houve impugnação à incidência do verbete n. 7 da Súmula desta Casa no agravo interposto contra a decisão que negou seguimento ao recurso especial.
+Pede o provimento do recurso.
+Impugnação da parte contrária pela insuperável necessidade de reexame do acervo probatório para o julgamento da causa.
+Assim delimitada a controvérsia, passo a decidir.
+Tem razão a agravante quando afirma que houve impugnação aos fundamentos do juízo negativo de admissibilidade do recurso especial.
+É o que se lê às fls. 309 e seguintes do agravo em recurso especial, quando se abre tópico específico para impugnar a incidência do mencionado verbete sumular.
+Merece, pois, conhecimento o agravo em recurso especial, o qual passa a ser examinado.
+A recorrente manifestou agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+Ação monitória. Contrato de empréstimo. Documentos comprovam o crédito do empréstimo em conta corrente e o pagamento das primeiras parcelas. A prova escrita que instruiu a petição inicial comprova a relação jurídica e o débito em aberto. R. sentença mantida. Recurso de apelação não provido.
+Alegou, na ocasião, violação dos artigos 489, § 1º, 1.022, 966, § 1º, 10, 141, 373 e 408, parágrafo único, do Código de Processo Civil sob o argumento de que o acórdão local é omisso, que houve decisão supresa e que não há prova da contratação do empréstimo objeto da ação monitória.
+Assim delimitada a controvérsia, passo a decidir.
+Não é omissa, nem carece de fundamentação a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia.
+Assim:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REGULAR PRESTAÇÃO JURISDICIONAL. INÉPCIA DA INICIAL. HONORÁRIOS. COMPENSAÇÃO.
+1. Ausência de violação dos artigos 489 e 1.022 do Código de Processo Civil, pois, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada.
+2. Inviabilidade de acolher a alegação de inépcia da inicial, pois a convicção formada pela Corte local decorreu dos elementos existentes nos autos, os quais não são possíveis de ser reexaminados nesta via especial. Incidência da Súmula 7/STJ.
+3. Fixada a compensação de honorários na vigência do CPC/1973, deve ser mantida já que acolhida até então pelo ordenamento jurídico, conforme elucidado no enunciado da Súmula n. 306/STJ, tendo em vista que a sucumbência é regida pela lei vigente à data da deliberação que a impõe ou modifica.
+4. Agravo interno não provido.
+(AgInt no AREsp 1131853/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 8/2/2018, DJe 16/2/2018)
+O Tribunal local, quanto ao mais, concluiu que "a petição inicial está instruída com o resumo dos termos pactuados no empréstimo (fls. 13), com o extrato comprovando o crédito do empréstimo em conta corrente (fls. 14), com o cadastro do cliente (fls. 15/17) e cópia do Cadastro Nacional de Pessoal Jurídica (fls. 18). Nesse contexto, com o devido respeito, ainda  não  que tenha sido juntado aos autos o contrato assinado pela ré, houve a comprovação de que o valor do empréstimo foi creditado em conta corrente, havendo o pagamento das 5 (cinco) primeiras parcelas, sendo de rigor concluir pela efetiva demonstração da existência da relação jurídica e do débito em aberto, razão da manutenção da procedência da presente ação monitória" (e-STJ, fl. 249).
+Inequívoco, pois, que o reexame da questão encontra os óbices de que tratam os verbetes n. 5 e 7 da Súmula desta Casa.
+Em face do exposto, reconsidero a decisão agravada para conhecer do agravo e, porém, negar-lhe provimento. Em substituição ao que fixado na decisão reconsiderada e nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
