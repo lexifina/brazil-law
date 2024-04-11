@@ -1,0 +1,15 @@
+DECISÃO
+WELDER JOSE CORREA alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no Habeas Corpus n. 1.0000.24.146292-8/000.
+A defesa pretende a concessão de indulto ao recorrente, pois reputa preenchidos os requisitos exigidos pelo Decreto Presidencial n. 11.302/2022. Assinala que somente incide a previsão impeditiva do decreto quando reconhecido, na mesma sentença, o concurso de crimes. Quando as penas unificadas decorrerem de condenações em processos distintos, é cabível o perdão.
+Decido.
+Busca-se o reconhecimento do indulto previsto no Decreto Presidencial n. 11.302/2022, em relação à pena dos crimes de furto e receptação, a despeito da existência de condenação por homicídio, lesão corporal, tráfico de drogas, em processo diverso.
+O Tribunal de origem decidiu a controvérsia em acórdão assim ementado (fl. 160):
+HABEAS CORPUS - EXECUÇÃO PENAL - CONCESSÃO DE INDULTO - IMPOSSIBILIDADE - AUSÊNCIA DOS REQUISITOS NECESSÁRIOS. Em que pese o habeas corpus não ser a via adequada para a discussão de matérias afetas à execução penal, tendo o Superior Tribunal de Justiça determinado seu exame, deve-se conhecer do writ. Ausentes os requisitos necessários para a concessão do indulto não há que se falar em extinção da pena em razão da benesse.
+De fato, nos termos do parágrafo único do artigo 11 do Decreto n. 11.302.2022, " n ão será concedido indulto natalino correspondente a crime não impeditivo enquanto a pessoa condenada não cumprir a pena pelo crime impeditivo do benefício, na hipótese de haver concurso com os crimes a que se refere o art. 7º, ressalvada a concessão fundamentada no inciso III do caput do art. 1º" (destaquei).
+Consoante entendimento anteriormente encampado pelo Superior Tribunal de Justiça, a leitura de tal excerto conjugada com a do art. 7º, II, do referido decreto, exigiria o integral cumprimento da pena dos crimes de homicídio, lesão corporal e tráfico de drogas para que se permita o indulto das reprimendas relativas aos crimes não impeditivos.
+Todavia, em recente precedente, referente a julgamento ocorrido em 8 de novembro de 2023, a Terceira Seção desta Corte Superior assentou a seguinte compreensão:
+Para fins do referido decreto, apenas no caso de crime impeditivo cometido em concurso com crime não impeditivo que se exige o cumprimento integral da reprimenda dos delitos da primeira espécie. Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não há de se exigir o cumprimento integral da pena pelos crimes impeditivos.
+(AgRg no HC n. 856.053/SC, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 8/11/2023, DJe de 14/11/2023, grifei)
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, dou provimento ao recurso, a fim de cassar o acordão vergastado e determinar que o Juízo de primeiro grau, em novo julgamento, aprecie individualmente as condenações.
+Publique-se e intimem-se.
+EMENTA
