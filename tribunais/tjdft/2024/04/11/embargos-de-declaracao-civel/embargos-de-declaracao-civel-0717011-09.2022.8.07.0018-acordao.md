@@ -1,0 +1,199 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+5ª Turma Cível
+Processo N.EMBARGOS DE DECLARAÇÃO CÍVEL 0717011-09.2022.8.07.0018EMBARGANTE(S)DISTRITO FEDERALEMBARGADO(S)MERITO COMERCIO DE EQUIPAMENTOS LIMITADARelatoraDesembargadora MARIA IVATÔNIA
+ Acórdão Nº1847188
+
+EMENTA
+
+ EMBARGOS DE DECLARAÇÃO. DIREITO PROCESSUAL CIVIL. ALEGAÇÃO DE OMISSÃO. INSUBSISTÊNCIA. EMBARGOS NÃO PROVIDOS.
+
+1. Hipótese em que todas as questões relevantes e indispensáveis para o julgamento da causa foram suficientemente analisadas pelo acórdão, bem apreciada a controvérsia, suficientemente justificadas as conclusões no sentido de dar parcial provimento ao recurso de apelação para conceder parcialmente a segurança para afastar a exigência do diferencial de alíquota – DIFAL do ICMS somente nos 90 (noventa) dias seguintes à data da publicação da Lei Complementar 190/2022 (05/01/2022). Nada a corrigir em sede de embargos de declaração.
+
+2. Embargos de declaração conhecidos e desprovidos.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 5ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, MARIA IVATÔNIA - Relatora, LUCIMEIRE MARIA DA SILVA - 1º Vogal e LEONOR AGUENA - 2º Vogal, sob a Presidência da Senhora Desembargadora MARIA IVATÔNIA, em proferir a seguinte decisão: CONHECER. NEGAR PROVIMENTO AOS EMBARGOS DE DECLARAÇÃO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 19 de Abril de 2024
+
+Desembargadora MARIA IVATÔNIAPresidente e Relatora
+
+RELATÓRIO
+
+DISTRITO FEDERAL (apelado) opõe embargos de declaração em face do acórdão de ID 54589253, cuja ementa é a seguinte:
+
+“APELAÇÃO CÍVEL EM MANDADO DE SEGURANÇA. CONSTITUCIONAL E TRIBUTÁRIO. ICMS. OPERAÇÕES INTERESTADUAIS. DIFERENÇA DE ALÍQUOTA (DIFAL – ICMS). EC 87/2015. TEMA 1.093 DO STF. MODULAÇÃO DE EFEITOS. LEI DISTRITAL 5.546/2015. VALIDADE. LEI COMPLEMENTAR N. 190/2022. PRINCÍPIOS DA ANTERIORIDADE ANUAL. OBSERVÂNCIA DESNECESSÁRIA. INEXISTÊNCIA DE CRIAÇÃO OU MAJORAÇÃO DO TRIBUTO. CONCLUSÃO DO JULGAMENTO DA ADI 7066, 7.070, 7.078. OBSERVÂNCIA DO PRINCÍPIO DA ANTERIORIDADE NONAGESIMAL. REPERCUSSÃO GERAL. TEMA 1.266. SENTENÇA PARCIALMENTE REFORMADA.
+
+1. Trata-se de apelação cível interposta contra sentença que, nos autos do mandado de segurança impetrado contra suposto ato praticado pelo Subsecretário da Receita do Distrito Federal, denegou a segurança por considerar, basicamente, que a Lei Distrital n. 5546/2015 é válida e está apta a produzir efeitos após a vigência da LC n. 190/2022.
+
+2.  O diferencial de alíquota foi previsto desde a promulgação da Emenda Constitucional n. 87/2015 e cobrado pelos Estados e Distrito Federal na forma do Convênio ICMS n. 93/2015, o qual foi declarado inválido pela Corte Superior, com a consequente modulação dos efeitos. Não há instituição de tributo novo ou sequer sua majoração, descabendo qualquer aplicação do Princípio da Anterioridade Anual ou Nonagesimal.
+
+3. O Supremo Tribunal Federal, no julgamento da Ação Direta de Inconstitucionalidade 5.469 e do Recurso Extraordinário 1.287.019, reconheceu a inconstitucionalidade da cobrança, em operação interestadual envolvendo mercadoria destinada a consumidor final não contribuinte, do diferencial de alíquota do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual - ICMS, prevista na legislação estadual e no convênio 93/15, por invasão de campo próprio de Lei Complementar Federal. Os efeitos do julgado foram devidamente modulados, a fim de preservar o equilíbrio financeiro estatal, além de preservar a Segurança Jurídica.
+
+4. Editou-se a Lei Complementar número 190/2022, em 04 de janeiro de 2022, a qual alterou a Lei Complementar n. 87/1996 (Lei Kandir) e regulamentou a cobrança do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS) nas operações e prestações interestaduais destinadas a consumidor final não contribuinte do imposto, objetivando o estabelecimento de regras gerais, consoante orientação da Suprema Corte.
+
+5. No julgamento das ADIs 7.066, 7.070 e 7.078, o Supremo Tribunal Federal analisou a incidência dos princípios da anterioridade anual (CF, art. 150, inc. III, b) e da anterioridade nonagesimal (CF, art. 150, inc. III). Finalizado o julgamento em 29/11/2023, o Supremo Tribunal, por maioria, julgou improcedente o pedido deduzido na ação direta, tendo reconhecido a constitucionalidade da cláusula de vigência prevista no art. 3º da Lei Complementar 190 (“Art. 3º Esta Lei Complementar entra em vigor na data de sua publicação, observado, quanto à produção de efeitos, o disposto na alínea “c” do inciso III do caput do art. 150 da Constituição Federal”), e que estabeleceu que a lei complementar passa a produzir efeitos noventa dias da data de sua publicação, ou seja, o princípio da anterioridade nonagesimal deve ser observado na espécie. Definido no julgamento não ter havido modificação da hipótese de incidência, tampouco da base de cálculo com a edição da Lei Complementar 190/2022. Ocorreu apenas a destinação do produto da arrecadação, por meio de técnica fiscal, que atribuiu a capacidade tributária ativa a outro ente político, cuja eficácia pode ocorrer no mesmo exercício, pois não corresponde a instituição, nem a majoração de tributo. 5.1. No ponto, reconhecida a repercussão geral (Tema 1.266) pelo Supremo Tribunal Federal em 21/08/2023: “Constitucional e Tributário. ICMS. Operações interestaduais de bens e serviços a consumidor final não contribuinte. Diferencial de alíquota - DIFAL. EC 87/2015. Art. 3º da Lei Complementar 190/2022. Aplicabilidade dos princípios da anterioridade anual e nonagesimal. Art. 150, III, b e c, da Constituição Federal. Tema objeto de análise nas Ações Diretas de Inconstitucionalidade 7.066/DF, 7.070/DF e 7.078/CE. Questão constitucional. Potencial multiplicador da controvérsia. Repercussão geral reconhecida. 1. Possui índole constitucional e repercussão geral a controvérsia relativa à incidência das regras da anterioridade anual e nonagesimal na cobrança do ICMS com diferencial de alíquota (DIFAL) decorrente de operações interestaduais envolvendo consumidores finais não contribuintes do imposto, após a entrada em vigor da Lei Complementar 190/2022. 2. A presente discussão jurídica não se confunde com o objeto do RE 1.287.019/DF, Red. p/ acórdão Min. Dias Toffoli, tampouco com o objeto do RE 1.221.330/SP, Red. p/ acórdão Min. Alexandre de Moraes, ambos processados e julgados segundo a sistemática da repercussão geral. 3. Repercussão geral reconhecida” (RE1.426.271 RG, Relator(a): MINISTRA PRESIDENTE, Tribunal Pleno, julgado em 21/08/2023, PROCESSO ELETRÔNICO DJe-188 DIVULG 25-08-2023 PUBLIC 28-08-2023).
+
+6. Na espécie, o mandado de segurança foi impetrado em 04/11/2022, ou seja, após o julgamento do Tema 1.093 de repercussão geral pelo STF (24/2/2021), razão pela qual se aplica ao caso a modulação de efeitos estabelecida naquele julgamento. Lado outro, prospera parcialmente a alegação da Impetrante no sentido de que o DIFAL do ICMS não poderia ter sido cobrado no exercício de 2022. Isso porque, ante a observância ao princípio da anterioridade nonagesimal, a exigência de DIFAL deve ocorrer somente 90 (noventa) dias seguintes à data da publicação da Lei Complementar n. 190/2022 (05/01/2022).
+
+7. Recurso de apelação conhecido e parcialmente provido.” (ID 54589253 - Págs. 1/2)
+
+DISTRITO FEDERAL (apelado/embargante) alega omissão:
+
+“Em síntese, o voto condutor do acórdão embargado deu provimento parcial ao apelo da impetrante, com fundamento no princípio da anterioridade tributária
+
+nonagesimal.
+
+Entretanto, o v. acórdão foi omisso sobre a alegação trazida pelo DF, nas suas contrarrazões, quanto à incidência na espécie do art. 166 do CTN, pelo qual o direito da impetrante estaria condicionado a comprovação de assunção (ou não repasse ao consumidor) do encargo financeiro relacionado ao ICMS DIFAL.
+
+Tal omissão é essencial ao deslinde da controvérsia e, uma vez sanada,
+
+podem alterar a conclusão do julgado para condicionar o direito da impetrante.
+
+IV- OMISSÃO QUANTO A INCIDENCIA DO ART. 166 DO CTN – COMPROVAÇÃO DO NÃO REPASSE DO ENCARGO AO CONSUMIDOR FINAL - ARGUMENTO APRESENTADO NAS CONTRARRAZÕES DE APELAÇÃO PELO DF
+
+Na sua apelação o DF trouxe como um dos argumentos, que o direito da impetrante estaria condicionado a comprovação de não ter repassado o encargo do ICMS DIFAL ao consumidor final, conforme pressupõe o art. 166 do CTN. Esse entendimento, inclusive, ensejaria a ilegitimidade da impetrante.
+
+Veja-se o que articulado no recurso do DF:
+
+Outrossim, a Impetrante pretende afastar, lembre-se, a cobrança do DIFAL/ICMS.
+
+Entretanto, o ICMS é tributo indireto (e, por isso mesmo, também o DIFAL), ou seja, o ônus financeiro é embutido no preço e repassado ao consumidor final (contribuinte de fato) da mercadoria.
+
+Por essa razão, a liminar não poderia ter sido deferida, já que legitimidade para questionar a cobrança do DIFAL-ICMS deve obedecer ao disposto no art. 166 do CTN, que condiciona a restituição ou, no caso, também a declaração de não incidência futura à comprovação de ausência de repasse do encargo financeiro ou de expressa autorização daquele que efetivamente o suportou, in verbis:
+
+(...)
+
+Nesse quadro, não se pode ignorar a condicionante imposta pelo CTN para ações sobre tributos indiretos.
+
+Nesse sentido, o STJ:
+
+“PROCESSUAL CIVIL E TRIBUTÁRIO. ICMS/ST. COBRANÇA COMPLEMENTAR EM RAZÃO DE DILATAÇÃO VOLUMÉTRICA DO COMBUSTÍVEL. TRIBUTO EXIGIDO DIRETAMENTE DO SUBSTITUÍDO. REPETIÇÃO DE INDÉBITO. ART. 166 DO CTN. INCIDÊNCIA. TESE RECURSAL SOBRE A LEGITIMIDADE DO SUBSTITUÍDO. PREQUESTIONAMENTO. AUSÊNCIA. NÃO REPASSE DA EXAÇÃO. VERIFICAÇÃO. REEXAME DE PROVA. IMPOSSIBILIDADE.
+
+(...)
+
+3. “A compensação ou restituição de tributos indiretos (ICMS ou IPI) exige que o contribuinte de direito comprove que suportou o encargo financeiro ou, no caso de tê-lo transferido a terceiro, estar por este expressamente autorizado a pleitear a repetição do indébito, nos termos do art. 166, do CTN” (AgRg no REsp 1.058.309/SC, Rel. Ministro Luiz Fux, Primeira turma, Dje14/12/2010).
+
+4. Hipótese em que a Corte estadual expressamente consignou que a exigência da complementação do ICMS/ST, que é o objeto do pedido de repetição, não se dá igualmente pelo regime da substituição tributária, mas diretamente da empresa recorrente (substituída), de modo que é mesmo possível a transferência do custo da exação para os subsequentes integrantes da cadeia comercial, estando, pois, o acórdão recorrido em sintonia com a jurisprudência desta Corte Superior, nos termos da Súmula 83 do STJ.
+
+5. A revisão da conclusão a que chegou a Corte estadual acerca da ausência de prova pré-constituída concernente ao não repasse econômico da exação pressupõe o reexame de matéria fático-probatória, o que é inviável no âmbito do recurso especial, ante o veto contido na Súmula 7 do STJ.
+
+6. Agravo interno desprovido.” (AgInt no REsp 1689343/PB, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 31/08/2020, Dje 17/09/2020)
+
+Contudo, o acórdão é silente sobre esse fundamento expressamente apresentado no recurso, nada tendo se manifestado sobre a necessidade de a empresa, para ter direito à compensação, comprovar que assumiu o encargo financeiro oriundo da exigência do DIFAL, e que não o repassou ao destinatário da mercadoria, não contribuinte do tributo.
+
+Nesse sentido, em diversos outros julgados o STJ preleciona pela observância do art. 166 do CTN, inclusive em hipótese de restituição relacionada ao diferencial de alíquota:
+
+(...)
+
+“PROCESSUAL CIVIL E TRIBUTÁRIO. ICMS. OPERAÇÕES INTERESTADUAIS. CONSUMIDORES FINAIS NÃO CONTRIBUINTES DO IMPOSTO. DIFERENCIAL DE ALÍQUOTA (DIFAL). MANDADO DE SEGURANÇA. RESTITUIÇÃO/COMPENSAÇÃO. ENCARGO FINANCEIRO. REPASSE PARA TERCEIROS. COMPROVAÇÃO. NECESSIDADE. ART. 166 DO CTN.
+
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, para a obtenção de restituição compensação do tributo, faz-se necessária a prova de que não houve repasse do encargo financeiro para terceiro. Nesse sentido, confiram-se: AgInt no REsp 2.055.172/DF, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 22.6.2023; AgInt nos EDcl nos EDcl no REsp 1.693.394/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 13.12.2019; e EREsp 648.288/PE, Rel. Ministro Teori Albino Zavascki, Primeira Seção, DJ de 11/9/2006, p. 224.
+
+2. Agravo Interno não provido.” Segunda Turma, julgado em 11/9/2023, DJe de 21/9/2023)
+
+(...)
+
+V- DOS PEDIDOS
+
+Diante do exposto, o Distrito Federal requer o recebimento dos embargos, a fim de que a C. Turma supra a omissão apontada, condicionado o direito da impetrante ao que determina o art. 166 do CTN, ou ao menos que se manifeste sobre a não aplicação do preceito ao presente caso, considerando o requisito do prequestionamento para acesso às Cortes Superiores mediante recurso próprio.” (ID 54740420 - Págs. 2/10 - grifei)
+
+Sem contrarrazões (ID 55899675).
+
+É o relatório.
+
+VOTOS
+
+A Senhora Desembargadora MARIA IVATÔNIA - RelatoraConheço dos embargos de declaração, pois satisfeitos os pressupostos processuais.
+
+Nenhuma omissão pode ser reconhecida. Hipótese em que todas as questões relevantes e indispensáveis para o julgamento da causa foram suficientemente analisadas pelo acórdão, bem apreciada a controvérsia, suficientemente justificada a conclusão no sentido dar parcial provimento ao recurso de apelação para conceder parcialmente a segurança para afastar a exigência do diferencial de alíquota – DIFAL do ICMS somente nos 90 (noventa) dias seguintes à data da publicação da Lei Complementar 190/2022 (05/01/2022), conforme fundamentação que se transcreve:
+
+“Consiste o cerne da controvérsia recursal em definir a validade de cobrança do DIFAL de ICMS nas operações interestaduais destinadas a consumidor final não contribuinte do imposto durante o exercício fiscal de 2022, sem que tenha sido observado o princípio da anterioridade tributária.
+
+A cobrança de diferencial de alíquota (DIFAL) de ICMS foi introduzida pela Emenda Constitucional 87/2015, que alterou o art. 155, § 2º, da Constituição Federal para prever o rateio de receita em operações interestaduais quando o destinatário não for contribuinte. O imposto incidente nessas operações, que antes era devido integralmente ao Estado de origem, passou a ser dividido entre dois sujeitos ativos, cabendo ao Estado de origem o ICMS calculado com base na alíquota interestadual e ao Estado de destino o diferencial entre a alíquota interestadual e sua alíquota interna.
+
+No Distrito Federal, o diferencial de alíquota (DIFAL) de ICMS é regulamentado pela Lei Distrital n. 1.254/96, que foi alterada pela Lei Distrital 5.546/2015, esta editada após a EC 87/2015.
+
+Buscando dar efetividade ao que estabelecido pela EC 87/2015, também foi editado o Convênio ICMS 93/2015 do Conselho Nacional de Política Fazendária (CONFAZ), que dispõe sobre os procedimentos a serem observados nas operações e prestações que destinem bens e serviços a consumidor final não contribuinte do ICMS localizado em outra unidade federada. A partir desse regramento, teve início a cobrança do diferencial de alíquota alusivo ao ICMS pelos Estados e pelo Distrito Federal na forma da EC 87/2015.
+
+A partir desse regramento, teve início a cobrança do diferencial de alíquota alusivo ao ICMS pelos Estados e pelo Distrito Federal na forma da EC 87/2015.
+
+Ocorre que, no julgamento da ADI 5.469/DF e do RE 1.287.019/DF (Tema 1.093/STF), o Supremo Tribunal Federal decidiu que a cobrança do diferencial de alíquota do ICMS, na forma definida pela EC 87/2015, dependia da edição de lei complementar disciplinadora da matéria. Assim, declarada a inconstitucionalidade da cobrança de diferencial de ICMS nos termos do contido no Convênio CONFAZ 93/2015.
+
+Fixada a seguinte tese:
+
+“A cobrança do diferencial de alíquota alusivo ao ICMS, conforme introduzido pela Emenda Constitucional nº 87/2015, pressupõe edição de lei complementar veiculando normas gerais.”
+
+E foram modulados os efeitos da declaração de inconstitucionalidade pelo Supremo Tribunal Federal para definir a produção de efeitos da decisão, quanto à cláusula nona, desde a data da concessão da medida cautelar nos autos da ADI 5.464/DF e, quanto às cláusulas primeira, segunda, terceira e sexta, a partir do exercício financeiro seguinte à conclusão do julgamento (ocorrido em 2022), aplicando-se a mesma solução em relação às respectivas leis dos estados e do Distrito Federal, para as quais a decisão deverá produzir efeitos a partir do exercício financeiro seguinte à citada conclusão do julgamento, exceto no que diz respeito às normas legais que versarem sobre a cláusula nona do Convênio ICMS n. 93/15, cujos efeitos deverão retroagir à data da concessão da medida cautelar nos autos da ADI n. 5.464/DF. Ficaram ressalvadas da modulação as ações judiciais em curso à época (STF. ADI 5469, Relator(a): DIAS TOFFOLI, Tribunal Pleno, julgado em 24/02/2021, PROCESSO ELETRÔNICO DJe-099 DIVULG 24-05-2021 PUBLIC 25-05-2021).
+
+Frise-se: pela modulação, a decisão do STF passou a produzir efeitos a partir do ano de 2022, ressalvadas dessa modulação apenas as ações judiciais já em curso quando do julgamento do STF realizado em 24/02/2021.
+
+Significa que, com base na Lei Distrital n. 1.254/96, com a redação dada pela Lei Distrital n. 5.546/2015, salvo para quem já tinha ação em curso, a cobrança do diferencial de alíquota (DIFAL) de ICMS permaneceu hígida até 31/12/2021.
+
+Após o mencionado julgamento (Tema 1.093/STF), o Congresso Nacional editou a Lei Complementar n. 190, de 04/01/2022, que imprimiu alterações na LC 87/1996 (“Lei Kandir”) com escopo de “regulamentar a cobrança do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS) nas operações e prestações interestaduais destinadas a consumidor final não contribuinte do imposto”, com entrada em vigor na data da publicação (05/01/2022), observado, quanto à produção de efeitos, o disposto na alínea “c” do inciso III do caput do art. 150 da Constituição Federal (art. 3° da LC 190/2022).
+
+Muito bem.
+
+Conforme previsto no art. 150, III, “b” da Constituição Federal, é vedada a cobrança de tributos “no mesmo exercício financeiro em que haja sido publicada a lei que os instituiu ou aumentou”. Esse dispositivo consagra o princípio da anterioridade de exercício.
+
+Por sua vez, a alínea “c” do mesmo dispositivo veda a cobrança de tributos “antes de decorridos noventa dias da data em que haja sido publicada a lei que os instituiu ou aumentou”, sem prejuízo da exigência de anterioridade da lei ao exercício financeiro da cobrança. Trata-se do princípio da anterioridade nonagesimal.
+
+A respeito, no julgamento das ADIs n. 7.066, 7.070 e 7.078, o Supremo Tribunal Federal analisou a incidência dos mencionados princípios da anterioridade anual (CF, art. 150, inc. III, b) e da anterioridade nonagesimal (CF, art. 150, inc. III). Finalizado o julgamento em 29/11/2023, o Supremo Tribunal, por maioria, julgou improcedente o pedido deduzido na ação direta, reconhecendo a constitucionalidade da cláusula de vigência prevista no art. 3º da Lei Complementar 190 (“Art. 3º Esta Lei Complementar entra em vigor na data de sua publicação, observado, quanto à produção de efeitos, o disposto na alínea “c” do inciso III do caput do art. 150 da Constituição Federal”), e estabeleceu que a lei complementar passa a produzir efeitos noventa dias da data de sua publicação, ou seja, o princípio da anterioridade nonagesimal deve ser observado na espécie.
+
+Definido no julgamento não ter havido modificação da hipótese de incidência, tampouco da base de cálculo com a edição da Lei Complementar 190/2022. Ocorreu apenas a destinação do produto da arrecadação, por meio de técnica fiscal, que atribuiu a capacidade tributária ativa a outro ente político, cuja eficácia pode ocorrer no mesmo exercício, pois não corresponde a instituição, nem a majoração de tributo.
+
+Em outras palavras, a incidência do DIFAL em operações interestaduais como nova relação tributária entre o contribuinte e a Fazenda do Estado de destino revela que a Emenda Constitucional 87 de 2015, bem como a LC 190/2022, preservaram a esfera jurídica do contribuinte, fracionando o tributo antes devido integralmente ao Estado produtor (alíquota interna) em duas parcelas devidas a entes diversos.
+
+Não há que se falar em violação ao princípio da anterioridade (de exercício) previsto no art. 150, inc. III, alínea “b” da Constituição Federal. Lado outro, há que se observar a anterioridade nonagesimal.
+
+No ponto, reconhecida a repercussão geral (Tema 1.266) pelo Supremo Tribunal Federal em 21/08/2023:
+
+“Constitucional e Tributário. ICMS. Operações interestaduais de bens e serviços a consumidor final não contribuinte. Diferencial de alíquota - DIFAL. EC 87/2015. Art. 3º da Lei Complementar 190/2022. Aplicabilidade dos princípios da anterioridade anual e nonagesimal. Art. 150, III, b e c, da Constituição Federal. Tema objeto de análise nas Ações Diretas de Inconstitucionalidade 7.066/DF, 7.070/DF e 7.078/CE. Questão constitucional. Potencial multiplicador da controvérsia. Repercussão geral reconhecida.
+
+1. Possui índole constitucional e repercussão geral a controvérsia relativa à incidência das regras da anterioridade anual e nonagesimal na cobrança do ICMS com diferencial de alíquota (DIFAL) decorrente de operações interestaduais envolvendo consumidores finais não contribuintes do imposto, após a entrada em vigor da Lei Complementar 190/2022.
+
+2. A presente discussão jurídica não se confunde com o objeto do RE 1.287.019/DF, Red. p/ acórdão Min. Dias Toffoli, tampouco com o objeto do RE 1.221.330/SP, Red. p/ acórdão Min. Alexandre de Moraes, ambos processados e julgados segundo a sistemática da repercussão geral.
+
+3. Repercussão geral reconhecida.” (RE1.426.271, RG, Relator(a): MINISTRA PRESIDENTE, Tribunal Pleno, julgado em 21/08/2023,
+
+PROCESSO ELETRÔNICO DJe-188 DIVULG 25-08-2023 PUBLIC 28-08-2023)
+
+Na espécie, o mandado de segurança foi impetrado em 04/11/2022 (ID50007780), ou seja, após o julgamento do Tema 1.093 de repercussão geral pelo STF (24/2/2021), razão pela qual se aplica ao caso a modulação de efeitos estabelecida naquele julgamento.
+
+Lado outro, prospera parcialmente a alegação da Impetrante no sentido de que o DIFAL do ICMS não poder ser cobrado no exercício de 2022 (ID48059080). Isso porque, ante a observância ao princípio da anterioridade nonagesimal, a exigência de DIFAL deve ser afastada somente nos 90 (noventa) dias seguintes à data da publicação da Lei Complementar 190/2022 (05/01/2022).
+
+Forte em tais argumentos, dou parcial provimento ao recurso para conceder parcialmente a segurança a fim de afastar a exigência de DIFAL somente nos 90 (noventa) dias seguintes à data da publicação da Lei Complementar 190/2022 (05/01/2022).
+
+Incabível arbitramento de honorários recursais nos termos do art. 85, § 11, do CPC/2015, eis que não fixados na origem em observância ao disposto no art. 25 da Lei 12.016/2009 e nas Súmulas 105/STJ e 512/STF.
+
+É como voto.” (ID 54589253 - Págs. 4/6 - grifei)
+
+Como se viu, suficientemente enfrentadas e resolvidas as questões postas, destacando-se não se poder confundir falta de motivação com fundamentação contrária aos interesses da parte (STJ, AgRg no Ag 56.745/SP, Relator Ministro CESAR ASFOR ROCHA, DJ de 12/12/1994).
+
+Ressalte-se, ademais, que intenção de renovar posições que já haviam sido apreciadas e rechaçadas, buscando embasamento para futuros recursos dirigidos aos Tribunais Superiores, não autoriza manejo desvirtuado de embargos de declaração, cuja oposição deve observância aos seus limites legais.
+
+De se ver ainda que julgador não está obrigado a discorrer expressamente sobre todas as teses expostas no recurso ou sobre julgados trazidos à colação pela parte, ou mesmo acerca de dispositivos legais que a parte entenda aplicáveis à espécie, muito menos acerca de alguma dificuldade particular de compreensão de texto.
+
+Por oportuno:
+
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO E OBSCURIDADE. INSUBSISTÊNCIA.
+
+1. Nos termos do artigo 1022 do Código de Processo Civil, cabem embargos de declaração na hipótese de a decisão judicial ser alegadamente omissa, contraditória, obscura ou para correção de erro material.
+
+2. No caso, ao contrário do sustentado pela embargante, o acórdão recorrido não padece dos vícios apontados. Na realidade, o que se pretende é o rejulgamento da causa, para cuja finalidade não se prestam os embargos de declaração.
+
+3. Embargos de declaração conhecidos e desprovidos.” (TJDFT, Acórdão 1649395, 07012368520218070018, Relator: MARIA IVATÔNIA, 5ª Turma Cível, data de julgamento: 7/12/2022, publicado no PJe: 24/12/2022. Pág.: Sem Página Cadastrada)
+
+Por fim, parte embargante que fica alertada de que eventual reiteração de embargos de declaração sob o mesmo enfoque levará a conclusão positiva de ânimo de procrastinação do feito. Por isto, relembra-se o conteúdo do art. 1.026, §2º, CPC.
+
+Ante o exposto, conheço do recurso e nego-lhe provimento.
+
+É como voto.
+A Senhora Desembargadora LUCIMEIRE MARIA DA SILVA - 1º Vogal Com o relatorA Senhora Desembargadora LEONOR AGUENA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER. NEGAR PROVIMENTO AOS EMBARGOS DE DECLARAÇÃO. UNÂNIME.
