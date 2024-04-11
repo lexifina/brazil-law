@@ -1,0 +1,76 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado pelo MUNICÍPIO DE GUARUJÁ, em face de decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que negou admissibilidade a recurso contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - Ação de procedimento comum em fase de cumprimento de sentença (aguardando o pagamento de precatório judicial) - Decisão acolhendo em parte pedido formulado pelo Município do Guarujá reduzindo para R$ 100.000,00 o valor da multa total fixada em razão do descumprimento de obrigação de fazer, afastando a alegação de nulidade absoluta da fase de execução - Art. 632 do antigo CPC - Título executivo fixando o termo inicial e o prazo de cumprimento da obrigação de fazer, sob pena do pagamento de multa diária - Execução da obrigação de fazer já superada e convertida em obrigação de pagar com o julgamento dos embargos - Devedor/executado que reconheceu de forma expressa a incidência das astreintes - Decisão mantida - Recurso não provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.297/1.299).
+Nesta Corte, o agravo foi conhecido para conhecer em parte do recurso especial, dando-lhe provimento, a fim de determinar o retorno dos autos à origem para apreciação da matéria omitida.
+O colegiado de origem, julgou novamente os embargos nos termos da seguinte ementa (e-STJ fl. 1.435):
+EMBARGOS DE DECLARAÇÃO - Omissão no julgado reconhecida pelo STJ - Inexistência de preclusão para alegação de nulidade absoluta por ausência de intimação pessoal do devedor para a cobrança de multa por descumprimento de obrigação de fazer ou não fazer - Inteligência do disposto pelo enunciado da Súmula nº 410, do STJ - Inexigibilidade das astreintes reconhecida - Embargos conhecidos e parcialmente providos.
+Inconformado, o Município opôs novos aclaratórios, os quais foram rejeitados (e-STJ fls. 1.453/1458).
+No recurso interposto com base na alínea "a" do permissivo constitucional, a parte apresenta as seguintes teses e violações legais:
+1) Artigo 489, caput, II e III e §1º, IV e 1.022, caput, II e III, do Código de Processo Civil. Sustentou a omissão do acórdão sobre:
+1.1) a necessidade de intimação pessoal e específica para o cumprimento da obrigação de fazer;
+1.2) ausência de preclusão para arguir a nulidade por falta de intimação pessoal.
+1.3) 0 erro material e de premissa, pois " ..  não obstante ter sido fixado prazo no título judicial, não houve a regular intimação do Município - pessoal e específica - para que cumprisse a obrigação de fazer ou demonstrasse as razões de não a ter cumprido, procedendo o juízo da execução à conversão imediata e precipitada da obrigação de fazer em obrigação de pagar." (e-STJ fl. 1.481)
+2) Artigos 461, caput, § 4º e 6º e 632 do Código de Processo Civil DE 1973. Afirmou a necessidade de intimação pessoal como condição para cobrança de multa pelo descumprimento da obrigação de fazer, nos termos da Súmula 410 do STJ.
+3) Artigos 278, parágrafo único e 280 do Código de Processo Civil de 2015. Asseverou inexistir preclusão para reconhecer a nulidade absoluta da execução. "No caso vertente, a ausência de intimação pessoal e específica para o cumprimento da obrigação de fazer, na fase de execução, equivale a intimação/citação nula, pois a publicação do acórdão em diário oficial, na fase de conhecimento, não dispensa essa exigência Tratando-se de intimação/citação nula realizada sem as formalidades legais, não se cogita preclusão, em nenhuma de suas modalidades (lógica, temporal ou consumativa)." - e-STJ fl. 1.492
+4) 461 e 620 do Código de Processo Civil de 1973 e 497 e 805 do Código de Processo Civil de 2015. Disse que o Tribunal, ao converter a obrigação de fazer em obrigação de pagar (perdas e danos), não observou o princípio da menor onerosidade.
+A parte recorrida apresentou contrarrazões às folhas 1.504/1.544 (e-STJ).
+O recurso especial foi inadmitido (e-STJ fls. 1.545/1.546).
+Nas suas razões de agravo, o Município de Guarujá impugna os fundamentos apresentados para a inadmissão do recurso especial (e-STJ fls. 1.549/1.568).
+Os agravados apresentaram contraminuta às folhas 1.571/1.588 (e-STJ).
+É o relatório. Decido.
+Conheço do agravo, porque impugnados os fundamentos do juízo de admissibilidade feito na origem.
+Sobre a suposta violação dos artigos 489 e 1.022 do CPC, transcrevem-se os fundamentos do novo julgamento dos embargos de declaração (e-STJ fls. 1.437/1.438):
+O embargante fundamentou sua pretensão no disposto pelos artigos 632 e 461, §§ 4º e 6º, do CPC/73, bem como no disposto pelo enunciado da Súmula nº 410, do STJ.
+Segundo estabelece o art. 632, do CPC/73 "Quando o objeto da execução for obrigação de fazer, o devedor será citado para satisfazê-la no prazo que o juiz lhe assinar, se outro não estiver determinado no título executivo." (desrtaquei)
+ ..  na hipótese dos autos, o prazo para a satisfação da obrigação de fazer foi estabelecido pelo próprio título executivo, destacando que "A Municipalidade não recorreu daquele acórdão, que transitou em julgado em janeiro/2006 (fls. 134/135), sendo incontroverso que o ente político tinha ciência inequívoca do teor daquela decisão, devidamente publicada, com determinação de cumprimento (fls. 134/137)."
+Não houve, portanto, violação ao dispositivo da Lei processual anteriormente mencionado, uma vez que o próprio título executivo cuidou de estabelecer a forma e o prazo do cumprimento da obrigação, ausente questionamento no tocante à ciência do Município quanto a tais fatos.
+De outra parte, o art. 461, do CPC/73 determina que "Na ação que tenha por objeto o cumprimento de obrigação de fazer ou não fazer, o juiz concederá a tutela específica da obrigação ou, se procedente o pedido, determinará providências que assegurem o resultado prático equivalente ao do adimplemento."
+E no § 1º ressalvou que "A obrigação somente se converterá em perdas e danos se o autor o requerer ou se impossível a tutela específica ou a obtenção do resultado prático correspondente", situação que de fato ocorreu na hipótese dos autos, diante do não cumprimento da obrigação de fazer pelo Município, na forma e prazo estipulados pelo título executivo. Os credores deram início, portanto, à liquidação do julgado para a apuração das perdas e danos.
+Já os §§ 4º e 6º invocados pelo recorrente, assim dispõem  ..
+Novamente, destaco que o acima disposto foi cumprido, tendo sido fixada a multa diária e o quantum indenizatório pela sentença de fls. 508/512, proferida em setembro/2012, igualmente não questionada pela Municipalidade. E, posteriormente, o valor total da multa diária em razão do descumprimento da obrigação de fazer foi reduzido de R$ 1.380.000,00, em março/2013 (fls. 952), para R$ 100.000,00, em dezembro/2020 (fls. 33/36, copiadas às fls. 914/920  .. .
+Por fim, o enunciado da Súmula nº 410, do STJ estabelece que "A prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer" e, neste ponto merecem ser acolhidos os argumentos do recorrente, uma vez que a fluência da multa cominatória se deu independente da intimação pessoal do devedor.
+A jurisprudência do Colendo STJ é firme no sentido de que "Questões afetas à fixação e exigibilidade da multa cominatória são de ordem pública e, por isso, não se sujeitam a preclusão", não sendo possível "afirmar que existe coisa julgada dispensando a intimação pessoal do devedor para efeito de exigibilidade da multa cominatória se a decisão judicial definitiva não tem esse conteúdo específico." (AgInt nos EDcl no REsp 1737829 / SP, rel. Ministro MOURA RIBEIRO, 3ª Turma, j. 04/05/2020, DJe 07/05/2020).
+ ..
+Assim sendo, ainda que o acórdão embargado tivesse reconhecido que o próprio Município do Guarujá admitiu a dívida relativa à multa diária, sem opor questionamento a durante a liquidação do julgado, inclusive oferecendo memória de cálculo do valor que entendia devido (fls. 950/952), ausente, no presente caso intimação pessoal do devedor e diante da decisão do STJ, forçoso o reconhecimento da inexigibilidade das astreintes.
+Ante o exposto, meu voto é pelo provimento parcial embargos declaratórios, para afastar a multa cominatória, nos termos acima. (Destaques acrescentados)
+Extrai-se da transcrição, quanto à obrigação de fazer (desocupação do leito da Av. Bidu Sayão e das áreas de jardins localizadas entre as faixas de domínio do DER e a citada avenida), que o colegiado claramente apontou a ciência inequívoca do Município da decisão que lhe fixou prazo de 3 (três) anos a contar da publicação do acórdão.
+O acórdão também foi claro e preciso, ao consignar que a intimação pessoal do devedor é condição para a exigibilidade da multa cominatória por descumprimento da obrigação de fazer, sendo essa questão matéria de ordem pública que não se sujeita à preclusão.
+Relembra-se que não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional. Nesse mesmo sentido: AgInt no REsp 1691249/SC, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 11/03/2021; AgInt nos EDcl no REsp 1806067/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 18/12/2020; REsp 1761119/SP, Rel. Ministro Sérgio Kukina, Corte Especial, DJe 14/08/2019.
+Desse modo, verifica-se não ter ocorrido os defeitos indicados pela parte, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, embora contrário ao interesse do recorrente.
+No que diz respeito à alegada violação dos artigos 461, caput, § 4º e 6º e 632 do CPC de 1973, verifica-se a ausência de interesse recursal, uma vez que o acórdão decidiu conforme a pretensão do recorrente, aplicando o entendimento da Súmula 410 do STJ para afastar as astreintes em razão da ausência de intimação pessoal do devedor.
+Em relação aos artigos 278, parágrafo único e 280 do CPC de 2015, o recorrente sustenta as teses de nulidade da execução por ausência de intimação pessoal para cumprimento da obrigação de fazer e de ausência de preclusão.
+Da interpretação dos citados dispositivos legais, não é possível extrair a conclusão proposta pelo recorrente no sentido da obrigatoriedade de intimação pessoal do devedor para cumprimento da obrigação de fazer e a ausência de preclusão para discussão do tema.
+Nesse ponto, portanto, a Súmula 284 do STF impede o conhecimento do recurso especial, conforme indicam os seguintes precedentes.
+Confiram-se:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE DÉBITO FISCAL.  ..  AUSÊNCIA DE COMANDO NORMATIVO CAPAZ DE INFIRMAR O ACÓRDÃO RECORRIDO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+IV. A jurisprudência do STJ "firmou-se no sentido de que é deficiente o Recurso Especial quando o dispositivo legal tido por violado não ampara a tese defendida pelo recorrente ou não contém normativo suficiente para infirmar o acórdão recorrido. Incide, por analogia, o óbice da Súmula 284/STF" (STJ, AgRg no REsp 1.539.607/MT Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/11/2015).
+V. Agravo interno improvido.
+(AgInt no REsp 1465454/SC, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 07/02/2019, DJe 13/02/2019)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA.  ..  FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF. APLICAÇÃO.
+ ..
+5. Não se conhece do recurso especial, quando o dispositivo apontado como violado não contém comando normativo para sustentar a tese defendida ou infirmar os fundamentos do acórdão recorrido, em face do óbice contido na Súmula 284 do STF.
+6. Agravo interno desprovido.
+(AgInt no REsp 1788417/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 16/05/2019, DJe 06/06/2019)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 535 DO CÓDIGO DE PROCESSO CIVIL DE 1973. DEFICIÊNCIA DE FUNDAMENTAÇÃO. APLICAÇÃO, POR ANALOGIA, DA SÚMULA N. 284/STF.
+ ..
+III - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+ ..
+VII - Agravo Interno improvido. (AgInt no REsp 1685486/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 18/02/2019, DJe 21/02/2019)
+PROCESSUAL CIVIL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO TIDO POR VIOLADO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. DISPOSITIVO APONTADO CARECE DE COMANDO PARA INFIRMAR A FUNDAMENTAÇÃO DO ARESTO RECORRIDO. SÚMULA 284/STF.
+ ..
+2. O dispositivo apontado como violado (art. 333 do CPC/1973) não tem comando capaz de infirmar a fundamentação do aresto recorrido. Aplicação do princípio estabelecido na Súmula 284 do STF.
+ ..
+6. Agravo Interno não provido.
+(AgInt no REsp 1354580/MG, Rel. Ministro HERMAN BENJAMIIN, SEGUNDA TURMA, julgado em 16/08/2016, DJe 09/09/2016)
+Por fim, assevera o recorrente que a conversão imediata da obrigação de fazer em obrigação de pagar (perdas e danos) ofendeu o princípio da menor onerosidade e da primazia da tutela específica (arts. 461 e 620 do CPC/73 e arts. 497 e 805 do CPC/15) - e-STJ fl. 1.494:
+O v. acórdão, ao validar a execução na qual incontroversamente não se tentou o cumprimento da obrigação de fazer, passando imediatamente ao cumprimento da obrigação de pagar (perdas e danos), acaba por violar os artigos 461 e 620 do CPC 73 e arts. 497 e 805 do CPC 15.
+Isso porque, pese a complexidade da obrigação de fazer, por certo que o Município se voltará contra os invasores do espaço público ou ao menos terá contra eles direito de regresso, em caso de eventuais custos com a remoção das residências e ocupações.
+Já a obrigação de pagar, fixada inicialmente em R$ 10.606.769,72, para 03/09/2012, pode ultrapassar, quando de seu pagamento, a cifra de 20 milhões de reais, o que evidencia que os Exequentes e o próprio E. Tribunal de origem, entre os vários meios disponíveis para o cumprimento da obrigação, optou pelo mais gravoso.
+Constata-se que os dispositivos legais não possuem o comando normativo buscado pelo recorrente: mesmo descumprida a obrigação de fazer, a conversão em perdas e danos não deve ocorrer, porquanto implica onerosidade excessiva.
+Em razão disso, nesse ponto também incide a citada Súmula 284 do STF e os precedentes anteriormente transcritos.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. INTERVENÇÃO DO ESTADO NA PROPRIEDADE. CUMPRIMENTO DE SENTENÇA. OMISSÃO NÃO VERIFICADA. OBRIGAÇÃO DE FAZER. DESCUMPRIMENTO. MULTA DIÁRIA AFASTADA. FALTA DE INTERESSE RECURSAL. INTIMAÇÃO PESSOAL. PRECLUSÃO. CONVERSÃO EM PERDAS E DANOS. ONEROSIDADE EXCESSIVA. DISPOSITIVOS LEGAIS QUE NÃO AMPARAM AS TESES RECURSAIS. SÚMULA N. 284 DO STF. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
