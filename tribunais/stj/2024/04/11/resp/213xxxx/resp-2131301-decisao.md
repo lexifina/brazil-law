@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto por LUCAS FERREIRA DE ANDRADE, com fundamento na alíneas "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa é a seguinte (e-STJ fl. 325):
+Apelação criminal. Tráfico de Drogas. Inconformismo defensivo pela absolvição ou desclassificação para a conduta do art. 37 da Lei de Drogas para o réu Gilberto. Materialidade e autoria sobejamente comprovadas pelo material probatório amealhado aos autos. Dosimetria. Busca da aplicação do redutor em patamar máximo para Lucas. Impossibilidade. Penas e regimes inalterados. Recursos não providos.
+Nas razões do recurso especial (e-STJ fls. 342/347), alega o recorrente violação do art. 33, §4º, da Lei 11.343/06, sustentando a impossibilidade do uso da quantidade de drogas para impedir a incidência da fração máxima do tráfico privilegiado.
+Apresentadas contrarrazões, o Tribunal a quo admitiu o recurso especial, manifestando-se o Ministério Público Federal pelo desprovimento do recurso (e-STJ fls. 370/371).
+É o relatório. Decido.
+O recorrente foi condenado como incurso no art. 33, §4º, da Lei 11.343/ 06 à pena de 2 anos e 6 meses de reclusão e 250 dias-multa.
+Para fazer jus à incidência da causa especial de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 a 2/3, a depender das circunstâncias do caso concreto.
+Na hipótese, a sentença justificou a adoção da fração intermediária de 1/2 da minorante do tráfico privilegiado, em razão da quantidade de entorpecentes apreendidos "3 porções de maconha, pesando 7 gramas, 23 porções de cocaína, pesando 30 gramas e 40 pedras de crack, pesando 9 gramas" (e-STJ fl. 327).
+Contudo, "A apreensão de quantidade não relevante de drogas e a ausência de circunstâncias adicionais (inserção em grupo criminoso de maior risco social, atuação armada, envolvendo menores ou com instrumentos de refino da droga etc.) não autorizam a vedação à minorante do tráfico no seu patamar máximo de 2/3 (dois terços)" (AgRg no HC n. 750.163/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 14/2/2023, DJe de 17/2/2023).
+Deixo de estender o benefício ao corréu GILBERTO BRITO DOS SANTOS por se tratar de réu reincidente (e-STJ fl. 333).
+Procede-se, assim, ao redimensionamento da pena para aplicar a fração de redução no máximo legal.
+Fixada a pena-base no mínimo legal, presente a atenuante da confissão espontânea, deixo de reduzir a pena com fundamento na Súmula 230 do STJ. Por fim, deve a pena ser reduzida em 2/3, resultando 1 ano e 8 meses de reclusão e 166 dias-multa. Cabível o regime aberto e a substituição da pena privativa de liberdade por restritivas de direitos, a serem estabelecidas pelo Juízo da Execução.
+Ante o exposto, dou provimento ao recurso especial para, reconhecida a minorante do tráfico privilegiado, reduzir a pena para 1 anos e 8 meses de reclusão, em regime aberto, e 166 dias-multa, substituindo-se a pena privativa de liberdade por restritiva de direitos, a cargo do Juízo das Execuções.
+Intimem-se.
+EMENTA
