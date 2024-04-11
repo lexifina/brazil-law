@@ -1,0 +1,48 @@
+DECISÃO
+RAFAEL ALVES BATISTA DA SILVA alega sofrer constrangimento ilegal no seu direito de locomoção em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado de Mato Grosso do Sul na Apelação n. 0009093-15.2016.8.12.0002.
+A defesa busca o reconhecimento da ilegalidade da condenação ao argumentar que as provas que a ampararam foram obtidas, tão somente, no âmbito extrajudicial (fls. 3-16).
+Decido.
+Verifico que este habeas corpus foi impetrado contra decisão proferida em 31/10/2017, depois de quase 7 anos. Portanto, este mandamus é substitutivo de revisão criminal.
+Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+Ademais, consoante jurisprudência desta Corte Superior, o não cabimento do mandamus substitutivo de revisão criminal é corroborado quando o impetrante não indica que as razões de pedir estão previstas em alguma das hipóteses do art. 621 do CPP.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL. RECURSO ORDINÁRIO. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. REANÁLISE DA AÇÃO PENAL. EXAME APROFUNDADO DE PROVAS. IMPOSSIBILIDADE. TESES INOVADORAS. SUPRESSÃO DE INSTÂNCIA. BIS IN IDEM. IMPOSSIBILIDADE DE COMPREENSÃO DA ALEGAÇÃO. RECURSO NÃO CONHECIDO.
+1. Deixando a parte agravante de impugnar especificamente todos os fundamentos da decisão recorrida, não merece ser conhecido o agravo regimental.
+2. Não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621, do CPP.
+3. A impetração de habeas corpus não pode acontecer para simplesmente desejar uma reanálise das teses e argumentos apresentados no âmbito de ação penal transitada em julgada, especialmente quando nela houve interposição de recurso especial, agravo contra sua inadmissibilidade e agravo regimental, tudo isso sem êxito inclusive no âmbito deste Tribunal Superior.
+4. Não havendo ilegalidade nas decisões oriundas das instâncias ordinárias, prolatadas no bojo de uma ação penal, é impossível alterar-se seu resultado por meio de habeas corpus ou sucessivo recurso ordinário, porque para tanto seria indevidamente exigido um aprofundado exame das provas produzidas na causa originária.
+5. Não é possível a apresentação, em sede de recurso ordinário, de teses inovadoras, que não foram apreciadas oportunamente pelas instâncias ordinárias, sob pena de indevida supressão de instância.
+6. Não há como apreciar tese de bis in idem quando ela é extremamente confusa, misturando vários tipos penais diferentes e sem menção a ter ou não havido condenação por fatos idênticos no âmbito de ações penais diversas.
+7. Agravo regimental não conhecido (AgRg no RHC n. 150.320/CE, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 17/12/2021).
+Destaco, ainda, que a pretensão de reexame jurídico da legalidade das provas que embasaram a condenação não está entre as hipóteses previstas no art. 621 do Código de Processo Penal. Confira-se, in verbis:
+Art. 621. A revisão dos processos findos será admitida:
+I - quando a sentença condenatória for contrária ao texto expresso da lei penal ou à evidência dos autos;
+II - quando a sentença condenatória se fundar em depoimentos, exames ou documentos comprovadamente falsos;
+III - quando, após a sentença, se descobrirem novas provas de inocência do condenado ou de circunstância que determine ou autorize diminuição especial da pena.
+Menciono, por oportuno:
+ ..  depois de já transitada em julgado a condenação, revela-se inviável, notadamente diante da incompetência deste Superior Tribunal para analisar habeas corpus substitutivo de revisão criminal, tendente a reapreciar o posicionamento exarado por Colegiado estadual  ..  (AgRg no HC n. 713.747/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 24/2/2022).
+Os óbices acima apontados só podem ser superados quando demonstrada, de plano, uma das possibilidades descritas no art. 621 do CPP, o que não é o caso dos autos.
+O paciente foi condenado a 11 anos, 4 meses e 15 dias de reclusão, no regime inicial fechado, mais 210 dias-multa, à razão unitária mínima, pela prática do crime descrito no art. 157, § 2º, I, II, IV e V, do Código Penal.
+Na sentença, o Juiz de direito consignou o seguinte, no que interessa (fls. 30-32, grifei):
+Pois bem, não obstante os acusados Rafael Alves Batista e Steferson Souza Gabriel tenham negado em juízo a prática do referido crime, esses o confessaram em sede de interrogatório inquisitorial.
+Ademais, os policiais civis Silvinei Evangelista da Silva e Dagoberto Peters foram uníssonos ao relatar que os acusados confirmaram a prática dos fatos descritos na exordial.
+Outrossim, a confissão extrajudicial dos réus corrobora os depoimentos das vítimas Diones Lener Saraiva e Valdineia da Silva Dias. Pelos dados colhidos tem-se certeza quanto à autoria e a materialidade delitivas.
+Os depoimentos das vítimas, dos policiais e a confissão do acusado Alan Patrick Alves da Silva, acima transcritos, em conjunto com as demais provas e evidências mostram-se suficientes à condenação.
+As provas são induvidosas e bem articuladas, a demonstrar a vontade certa e dirigida dos acusados para a prática do crime de roubo com o emprego de arma de fogo, concurso de pessoas, subtração de veículo transportado ao exterior e restrição de liberdade das vítimas  ..  as provas são induvidosas e bem articuladas, a demonstrar a vontade certa e dirigida dos acusados para o crime de roubo mediante o concurso de pessoas  .. .
+O acórdão impugnado, a seu turno, assim se manifestou sobre a validade das provas e a condenação do réu (fls. 20-33, destaquei):
+Adianto, inicialmente, que a condenação deve ser mantida, pois os elementos de provas existentes no processo demonstram, suficientemente, a presença dos elementos objetivo e subjetivo do tipo penal equivalente ao roubo circunstanciado.
+A materialidade está devidamente comprovada no processo, encontrando respaldo nos elementos investigativos que acompanharam os autos de inquérito policial, notadamente o boletim de ocorrência do fato(fls.09-15), (fl.16),os autos de avaliação (fls.38 e 57) e de entrega (fls.39 e 58) e, ainda, todos as demais declarações que foram colhidas ao longo da investigação.
+A autoria dos fatos também é certa, recaindo sobre os réus.
+Diante do contexto apresentado, cai por terra a negativa de autoria encampada pelos réus Steferson e Rafael em seus interrogatórios judiciais. Não se pode olvidar que, no âmbito do processo penal, é lícito aos acusados, de um modo geral, arguir teses defensivas de qualquer natureza, visando afastar ou mesmo suavizar eventual responsabilidade criminal por crime praticado, tudo em nome da autodefesa, que é carga axiológica do princípio da ampla defesa. Justamente por isso é que o interrogatório judicial é meio de prova que deve ser visto com cautela pelo julgador, exatamente pela parcialidade dos interrogados na relação jurídica processual, cujas declarações podem não coincidir com a efetiva verdade real dos fatos.
+Perante o exposto, é possível concluir que os elementos de convicção que foram acima ressaltados formam suficientes substrato à conservação do juízo condenatório pronunciado pelo magistrado sentenciante, na medida em que está demonstrada a existência do crime (materialidade) e, ainda, a concorrência dos réus, na condição de autores, no contexto delituoso, o que, numa análise final, reclama a manutenção da sentença.
+Afasto, portanto, a presente pretensão recursal.
+Quanto ao sistema de valoração das provas, no processo penal brasileiro, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir o mérito da pretensão punitiva, para condenar ou absolver, desde que o faça fundamentadamente.
+Nesse contexto, o legislador ordinário, buscando dar maior efetividade às garantias constitucionais previstas para os acusados em processo penal, estabeleceu, expressamente, a vedação à condenação baseada exclusivamente em provas produzidas no inquérito policial, consoante o disposto no art. 155, caput, do Código de Processo Penal.
+Isso significa que não se admite, no ordenamento jurídico pátrio, a prolação de um decreto condenatório fundamentado exclusivamente em elementos informativos colhidos durante o inquérito policial, no qual inexiste o devido processo legal (com seus consectários do contraditório e da ampla defesa).
+O juiz pode deles se utilizar para reforçar seu convencimento, desde que corroborados por provas produzidas durante a instrução processual ou que esses elementos informativos sejam repetidos em juízo, assumindo, tecnicamente, a natureza de prova.
+No caso, diferentemente do alegado, verifico que o Tribunal estadual sopesou a prova produzida em juízo, mediante as garantias do contraditório e da ampla defesa e os elementos informativos colhidos extrajudicialmente. Desse modo, concluiu-se pela existência de standard probatório para ratificar a autoria e a materialidade do delito.
+Portanto, a fim de alterar tal conclusão, como pugna a defesa, seria necessária dilação probatória, procedimento vedado no âmbito do habeas corpus.
+Assim, não há manifesta ilegalidade que autorize a concessão de habeas corpus de ofício para reformar a decisão proferida, repise-se, há mais de 6 anos.
+À vista do exposto, não conheço d o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
