@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. PROPRIEDADE INDUSTRIAL E INTELECTUAL. AÇÃO DE RESCISÃO CONTRATUAL C/C OBRIGAÇÃO DE FAZER. DECISÃO SANEADORA. ILEGITIMIDADE PASSIVA E ABANDONO DA CAUSA. NÃO CONHECIMENTO. ROL TAXATIVO. TEMA 988. INAPLICABILIDADE. DENUNCIAÇÃO DA LIDE E PRESCRIÇÃO. DESCABIMENTO.
+1. TRATANDO-SE DE DECISÃO QUE DISPÔS ACERCA DAS PRELIMINARES ILEGITIMIDADE PASSIVA E ABANDONO DA CAUSA, HIPÓTESES NÃO PREVISTAS NO ROL DO ART. 1.015 DO CPC, DESCABE A INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO.
+2. INAPLICABILIDADE DA TESE FIXADA NO RESP REPETITIVO 1.704.520/MT (TEMA 988). DECISÃO INTERLOCUTÓRIA QUE, CONQUANTO PROFERIDA APÓS O JULGAMENTO DO PARADIGMA, VERSA SOBRE MATÉRIA DIVERSA, EM RELAÇÃO A QUAL NÃO SE VERIFICA A INDISPENSÁVEL URGÊNCIA.
+3. DENUNCIAÇÃO DA LIDE. DESCABIMENTO, POR AUSÊNCIA DAS HIPÓTESES PREVISTAS NO ART. 125 DO CPC. PRETENSÃO DE MERO REGRESSO QUE NÃO JUSTIFICA O ACOLHIMENTO DO PEDIDO. 4. PRESCRIÇÃO INOCORRENTE, POIS O ALEGADO DESCUMPRIMENTO DO CONTRATO OCORREU NO ANO DE 2011 E A DEMANDA FOI DISTRIBUÍDA EM 17-02-2012. AUSÊNCIA DE MORA IMPUTÁVEL AO DEMANDANTE. NOTIFICAÇÃO EXTRAJUDICIAL E AJUIZAMENTO DA DEMANDA MANEJADOS ANTES DA IMPLEMENTAÇÃO DO PRAZO. RECURSO PARCIALMENTE CONHECIDO E DESPROVIDO.
+Nas razões de recurso especial, alega a parte agravante violação dos arts. 125, 240 e 489 do Código de Processo Civil de 2015, além de divergência jurisprudencial. Sustenta o cabimento de denunciação da lide, além de que prescrita a pretensão da parte agravada.
+Assim posta a questão, observo que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido. Afasto, pois, a alegada violação do art. 489 do CPC.
+Quanto ao mais, verifico que o recurso especial não dispensa o reexame de prova. O agravante afirma ser cabível a denunciação da lide. A respeito dessa premissa fática, porém, confira-se o seguinte trecho do acórdão recorrido (e-STJ, fl. 92):
+(..) não há disposição contratual ou legal para respaldar o pleito, tampouco é caso do exercício do direito de evicção, tratando-se de mera pretensão de regresso do garantidor do contrato contra a adquirente/cessionária.
+Não há como afastar essas conclusões em recurso especial, consoante dispõe a Súmula 7 do STJ. O mesmo ocorre com relação ao tema da prescrição, a respeito do qual consta do acórdão o seguinte (e-STJ, fl. 93):
+Melhor sorte não merece o recurso no tocante à implementação do prazo prescricional quinquenal, uma vez que o alegado descumprimento do contrato ocorreu no ano de 2011 e a demanda foi distribuída em 17-02-2012. E, embora a citação / comparecimento espontâneo do réu tenha ocorrido em momento posterior, a prescrição retroage à data da propositura da ação.
+(..)
+No ponto, importa destacar que inexiste demonstração de demora imputável à parte demandante na realização do ato citatório, tampouco é caso de dupla interrupção da prescrição, assim considerado o curto lapso de um ano entre a ocorrência do suposto descumprimento contratual e o ajuizamento da demanda.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
