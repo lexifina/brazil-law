@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15), interposto por BANCO ITAUCARD S.A., em face de decisão que não admitiu recurso especial.
+O apelo nobre, fundamentado na alínea "a" do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 34, e-STJ):
+AGRAVO INTERNO. AÇÃO DE BUSCA E APREENSÃO. INDEFERIMENTO DA LIMINAR. MORA NÃO COMPROVADA. NOTIFICAÇÃO EXTRAJUDICIAL. DEVOLUÇÃO POR MOTIVO "NÃO PROCURADO". ENTENDIMENTO ASSENTE NO SUPERIOR TRIBUNAL DE JUSTIÇA QUE PARA A BUSCA E APREENSÃO DE VEÍCULO DECORRENTE DO CONTRATO DE ALIENAÇÃO FIDUCIÁRIA É IMPRESCINDÍVEL A COMPROVAÇÃO DA MORA DO DEVEDOR POR MEIO DE REGULAR NOTIFICAÇÃO. NOTIFICAÇÃO EXTRAJUDICIAL QUE EMBORA ENVIADA PARA O ENDEREÇO DO DEVEDOR CONSTANTE DO CONTRATO, DEIXOU DE SER ENTREGUE POR MOTIVO "NÃO PROCURADO". PARA EFEITOS DE CONSTITUIÇÃO DO DEVEDOR EM MORA É EXIGÍVEL AO MENOS A COMPROVAÇÃO DE QUE HOUVE O RECEBIMENTO DA NOTIFICAÇÃO EM SEU DOMICÍLIO, O QUE NÃO OCORREU NA HIPÓTESE RETRATADA NOS AUTOS. INTELIGÊNCIA DO ARTIGO 2º, §2º, DO DL 911/69 E DOS VERBETES SUMULARES 72 DO STJ E 55 DESTA CORTE.
+DESPROVIMENTO DO RECURSO DE AGRAVO INTERNO.
+Nas razões do recurso especial (fls. 42-48, e-STJ), a parte insurgente aponta violação ao artigo 2º, § 2º, e 3º, do Decreto-Lei 911/69, pois a constituição em mora do devedor se deu de forma legítima, diante do envio da notificação extrajudicial ao endereço indicado no contrato.
+Sem contrarrazões.
+Em juízo de admissibilidade (fls. 98-103, e-STJ), a Corte de origem negou seguimento ao apelo nobre, dando ensejo à interposição do presente agravo (fls. 108-118, e-STJ), visando destrancar o processamento da insurgência.
+Sem contraminuta.
+É o relatório.
+Decido.
+O inconformismo merece prosperar.
+1. A Segunda Seção do Superior Tribunal de Justiça deliberou o Tema repetitivo 1.132, pacificando o entendimento no sentido de que, "para a comprovação da mora nos contratos garantidos por alienação fiduciária é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer seja por terceiros" (REsp 1.951.662/RS, Relator para acórdão Min. JOÃO OTÁVIO DE NORONHA, Segunda Seção, julgado em 9/8/2023).
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. DÍVIDA LÍQUIDA. CONSTITUIÇÃO EM MORA. INADIMPLEMENTO DA OBRIGAÇÃO. DIES INTERPELLAT PRO HOMINE. COMPROVAÇÃO DA MORA. NOTIFICAÇÃO ENCAMINHADA AO ENDEREÇO DO DEVEDOR. AGRAVO INTERNO DESPROVIDO.
+1. A constituição em mora do devedor de dívida líquida possui fundamento no art. 397 do Código Civil, cuja dicção é no sentido de que o inadimplemento da obrigação, positiva e líquida, no seu termo, constitui de pleno direito em mora o devedor, ao passo que, não havendo termo, a mora se constitui mediante interpelação judicial ou extrajudicial.
+2. Em outras palavras, "tratando-se de obrigação positiva, líquida e com termo certo de vencimento, a regra a incidir é a do brocardo dies interpellat pro homine. Trata-se, pois, não a mora ex persona, mas a mora ex re, quando, então, as consequências do inadimplemento ocorrem imediatamente após o termo da obrigação, na medida em que o devedor tem prévia ciência da data em que a obrigação líquida deve ser adimplida, dispensando, assim, eventual notificação complementar por parte do credor" (REsp 1.034.269/MG, Relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 20/10/2016, DJe de 26/10/2016).
+3. Com base em tais premissas, em assentada recente, a Segunda Seção do Superior Tribunal de Justiça deliberou o Tema repetitivo 1.132, pacificando o entendimento de que, "para a comprovação da mora nos contratos garantidos por alienação fiduciária é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer seja por terceiros" (REsp 1.951.662/RS, Relator para acórdão Min. JOÃO OTÁVIO DE NORONHA, Segunda Seção, julgado em 9/8/2023).
+4. No caso concreto, houve o envio regular da notificação para o endereço do devedor, constante no instrumento contratual, cuja comunicação não se completou em virtude de sua ausência. Portanto, comprovada a mora, deve-se prosseguir com o iter da ação de busca e apreensão.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.232.472/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 18/9/2023, DJe de 22/9/2023.)
+No caso em tela, a Corte local não se filiou ao aludido entendimento, ao reputar não constituída a mora, ao argumento de que, a despeito de enviada ao endereço constante do contrato, a notificação extrajudicial não foi entregue, constando a informação "não procurado". Veja-se (fl. 38, e-STJ):
+Conforme se vê do documento acostados aos autos originários, a notificação extrajudicial foi dirigida ao endereço constante do contrato, porém, não foi entregue a qualquer pessoa, constando a informação de "NÃO PROCURADO". Confira-se:
+Logo, de rigor o provimento do apelo, no sentido de reconhecer hígida a constituição em mora do devedor.
+2. D o exposto, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ, conhece-se do agravo para dar provimento ao recurso especial, nos termos da fundamentação supra.
+Publique-se. Intimem-se.
+EMENTA
