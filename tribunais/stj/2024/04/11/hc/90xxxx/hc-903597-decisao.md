@@ -1,0 +1,15 @@
+DECISÃO
+BRUNO MARCEL DE OLIVEIRA alega sofrer constrangimento ilegal no seu direito de locomoção em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 0001825-06.2019.8.26.0586.
+A defesa se insurge quanto à análise negativa das consequências do crime com lastro em fundamentos inerentes ao tipo penal e pede o afastamento da circunstância judicial. Assinala que "a consumação de qualquer delito contra a vida naturalmente impinge em triste consequências para os familiares" (fl. 7). O sofrimento em decorrência da morte é comum aos crimes deste jaez.
+Decido.
+A condenação do réu transitou em julgado e, no HC n. 837.765/SP, a defesa se insurgiu contra a dosimetria da pena, ocasião em que não se verificou manifesta ilegalidade a ensejar a concessão da ordem.
+A teor dos julgados desta Corte, "não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621, do CPP" (AgRg no RHC n. 150.320/CE, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 17/12/2021, destaquei).
+Ainda, "a tenra idade da vítima é elemento concreto e transborda aqueles ínsitos ao crime de homicídio, sendo apto, pois, a justificar o agravamento da pena-base, mediante valoração negativa das consequências do crime" (AgRg no HC n. 793.221/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/9/2023, DJe de 20/9/2023).
+Não se identifica intolerável ilegalidade, a ensejar a concessão de ordem de ofício.
+O réu foi condenado pelo sequestro, assassinato e ocultação de cadáver de Vitória Gabrielly, de 12 anos. Na sentença, mantida em segundo grau, consignou-se o seguinte:
+ ..  é possível imaginar uma criança inocente, frágil, brincando no ginásio com seus patins, e de repente ser arrebatada, por desconhecido, e levada a óbito, inclusive chorando e mostrando desespero, o que indica a violência, e a periculosidade do réu, com clara culpabilidade acima da média. A destruição da família da vítima, também é fato a ser pontuado. A participação do réu levou a vida de uma criança, impedindo o futuro, e acabando com todos os sonhos da família. E mais, o castigo para a família é perpétuo  ..  (fls. 2.568-2.569).
+O assassinado de uma menina de 12 anos, principalmente nas circunstâncias narradas, por erro de alvo dos algozes, mediante asfixia e com a ocultação do corpo, localizado, dias depois, em matagal, é fator que leva à aplicação de pena diferenciada para o homicídio, devido às graves consequências e ao maior sofrimento que a perda de uma vida tão jovem acarreta.
+O impacto é mais devastador na família. Quando o réu matou a criança, cheia de potenciais, não suprimiu apenas sua vida, mas o futuro que seus familiares teriam com ela. Pai, mãe, irmãos etc. não vão presenciar sua formatura, casamento, nem conhecer seus filhos. Além da morte, a dor e a magnitude da perda se perpetuam no tempo, pois o homicídio deixará pensamentos sobre o que Vitória poderia ter se tornado ou vivido.
+À vista do exposto, indefiro liminarmente o processamento do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
