@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo manejado pela Companhia Excelsior de Seguros contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 360):
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA DE RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA. SFH. FCVS.
+APÓLICE PRIVADA. ILEGITIMIDADE DA CEF. INCOMPETÊNCIA DA JUSTIÇA FEDERAL.
+- De acordo com a jurisprudência do STF, não há interesse jurídico a ensejar a intervenção da Caixa nas hipóteses de apólices de seguro privadas (ramo 68), pois não há comprometimento de recursos do FCVS, tornando-se imperioso reconhecer a incompetência da Justiça Federal para processar e julgar o feito.
+- A CEF manifestou sua falta de interesse no feito, por se tratar de apólice privada, razão pela qual não há que se falar em competência da Justiça Federal para julgamento da lide.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 1º-A da Lei 12.409/11 (alterado pelo artigo 3º da Lei 13.000/14). Sustenta, em resumo, que "qualquer ação que tenha como causa de pedir o SH/SFH (apólice pública-ramo 66) envolve interesse público e pressupõe risco para o FCVS e para a União, exigindo pronto ingresso da CEF no processo na condição de litisconsorte necessário" (fl. 404).
+Em juízo de retratação, a instância recorrida proferiu acórdão nos termos da seguinte ementa (fls. 516/517):
+AGRAVO INTERNO. DECISÃO VICE PRESIDÊNCIA. REVISÃO. IMPOSSIBILIDADE. TEMA 1011/STF. APLICAÇÃO DO ACÓRDÃO PARADIGMA REPRESENTATIVO DE CONTROVÉRSIA. NEGATIVA DE SEGUIMENTO.
+1. Há previsão no artigo 1.040, I, do CPC de que, uma vez publicado o acórdão paradigma, o presidente ou o vice-presidente do tribunal de origem negará seguimento ao recurso especial ou extraordinário, se o acórdão recorrido coincidir com a orientação do tribunal superior.
+2. A decisão alinha-se com o entendimento do STF na análise do paradigma, inexistindo, pois, motivo para a pretendida reforma.
+3. Dessa forma, a aplicação do tema 1.011 do STF, ao caso, é medida que se impõe.
+Opostos aclaratórios, foram rejeitados (fls. 575/579).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, verifica-se que a insurgência não merece prosperar.
+Com efeito, a questão relativa à cobertura securitária do contrato de financiamento imobiliário restou assim decidida pela Corte de origem (fls. 364/365):
+Com efeito, há dois tipos de apólices de seguro para contratos de financiamento imobiliários, quais sejam, públicas (ramo 66 - SH/SFH) ou privadas, também conhecidas como apólices de mercado (ramos 68 e 61/65, derivados do originariamente ramo 68).
+De acordo com a jurisprudência do STF, não há interesse jurídico a ensejar a intervenção da Caixa nas hipóteses de apólices de seguro privadas (ramo 68), pois não há comprometimento de recursos do FCVS, tornando-se imperioso reconhecer a incompetência da Justiça Federal para processar e julgar o feito.
+ ..
+No caso em exame, a CEF manifestou sua falta de interesse no feito (processo de origem, evento 56), por se tratar de apólice privada, razão pela qual não há que se falar em competência da Justiça Federal para julgamento da lide.
+Denota-se, pois, que o Tribunal a quo, a partir do exame dos elementos que instruem o caderno processual, concluiu que o contrato objeto da ação não possui cobertura securitária do FCVS, de modo que, à luz do entendimento firmado em repercussão geral pelo STF (Tema 1.011), inexiste interesse da Caixa Econômica Federal para atuar no feito e a consequente competência da Justiça Federal.
+Nesse contexto, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de asseverar que a hipótese compreende recursos do FCVS e interesse processual da CEF, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, bem como a análise de cláusulas contratuais, providências v edadas em recurso especial, conforme o óbice previsto nas Súmulas 7 e 5/STJ.
+A propósito, vejam-se:
+CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO EM AGRAVO NO RECURSO ESPECIAL. AÇÃO VISANDO COBERTURA SECURITÁRIA POR DANOS ESTRUTURAIS EM IMÓVEIS ADQUIRIDOS PELO SISTEMA FINANCEIRO DA HABITAÇÃO. RECONHECIMENTO DO INTERESSE DA CEF EM RELAÇÃO A TRÊS DEMANDANTES, EM CONFORMIDADE COM A REPERCUSSÃO GERAL DISCUTIDA NO RE 827.966/PR (TEMA N.º 1.011 DO STF). ACÓRDÃO QUE, ENTRETANTO, NÃO VERIFICA INTERESSE DA CEF EM RELAÇÃO A UMA DAS DEMANDANTES. INSTRUMENTO CONTRATUAL QUE NÃO CONTA COM COBERTURA PELO FCVS. DESCONSTITUIÇÃO DE PREMISSAS QUE DEPENDE DE REEXAME DO MATERIAL DE COGNIÇÃO. SÚMULAS N.os 5 E 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL. AGRAVO INTERNO NÃO PROVIDO.
+1. O § 1º do art. 1º- A da Lei n.º 13.000/2014 estabelece que a CEF intervirá, em face do interesse jurídico, nas ações judiciais que representem risco ou impacto jurídico ou econômico ao FCVS ou às suas subcontas, na forma definida pelo Conselho Curador do FCVS.
+2. Desde que a ratio essendi do Tema n.º 1.011 do STF objetiva a proteção dos recursos albergados pelo FCVS geridos atualmente pela CEF e repercutindo na competência da Justiça Federal, é imperioso convir que o reconhecimento pelo Tribunal a quo da ausência de reflexos em tal fundo no contrato sub judice afasta por completo o interesse de sua gestora (CEF) no presente caso.
+3. A indicação do interesse em intervir na causa pela CEF ou União, aludida pelo enunciado do Tema n.º 1.011 do STF, não prescinde ao menos da prova do risco de comprometimento do FCVS.
+4. Tendo o Tribunal Federal a quo, ao ensejo da análise das provas, referido à ausência da cobertura do contrato de financiamento pelo FCVS em relação ao mútuo de uma das partes autoras, derruir tal premissa a pretexto de manter também em relação a ela a competência da Justiça Federal requer o reexame de provas, inadmitido neste âmbito recursal. Súmulas n.ºs 5 e 7 do STF.
+5. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.508.443/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 3/5/2023, DJe de 10/5/2023)
+SEGURO HABITACIONAL. SISTEMA FINANCEIRO DA HABITAÇÃO. VÍCIOS CONSTRUTIVOS. AGRAVO INTERNO NO RECURSO ESPECIAL. INTERESSE. CAIXA ECONÔMICA FEDERAL. NÃO COMPROMETIMENTO DO FCVS. COMPETÊNCIA DA JUSTIÇA ESTADUAL. SÚMULA N. 83/STJ. REVISÃO. SÚMULAS N. 5 E 7 DO STJ. LITIGÂNCIA DE MÁ-FÉ. NÃO OCORRÊNCIA. MULTA (ART. 1.021, § 4º, DO CPC/2015) E MAJORAÇÃO DE HONORÁRIOS (ART. 85, § 11, DO CPC/2015). DESCABIMENTO. DECISÃO MANTIDA.
+1. O acórdão recorrido alinha-se à jurisprudência desta Corte, pois a Segunda Seção do STJ, ao julgar o recurso repetitivo REsp n. 1.091.363/SC, consolidou o entendimento de não existir interesse da Caixa Econômica Federal a justificar a formação de litisconsórcio passivo necessário nas causas cujo objeto seja a pretensão resistida à cobertura securitária dos danos oriundos dos vícios de construção do imóvel financiado pelo Sistema Financeiro da Habitação, quando não afetar o FCVS. Súmula n. 83/STJ.
+2. A revisão da premissa na qual se apoia a conclusão do Tribunal a quo - de que "o contrato foi firmado anteriormente à vigência da Lei 7.682/88, e sem cobertura, portanto, pelo FCVS" (e-STJ fl. 958) - esbarra nas Súmulas n. 5 e 7 do STJ.
+3. A litigância de má-fé, passível de ensejar a condenação ao pagamento de multa e indenização, fica caracterizada por meio da apresentação de recursos manifestamente protelatórios. Precedentes.
+4. A parte agravante apenas exerceu seu direito de petição, o que não constitui ato protelatório ensejador da sanção processual prevista no art. 1.021, § 4º, do CPC/2015.
+5. Nos termos da jurisprudência desta Corte, não haverá a majoração de honorários advocatícios prevista no art. 85, § 11, do CPC/2015 no julgamento de agravo interno e de embargos de declaração.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.037.261/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 13/3/2023, DJe de 16/3/2023)
+No mesmo sentido, as seguintes decisões monocráticas: REsp n. 2.114.871, Ministro Benedito Gonçalves, DJe de 2/4/2024; REsp n. 1.664.077, Ministro Gurgel de Faria, DJe de 29/02/2024; AREsp n. 2.494.657, Ministro Francisco Falcão, DJe de 22/02/2024; e REsp n. 2.014.339, Ministro Herman Benjamin, DJe de 22/02/2024.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
