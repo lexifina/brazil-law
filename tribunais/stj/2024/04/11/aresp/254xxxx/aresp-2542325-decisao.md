@@ -1,0 +1,55 @@
+DECISÃO
+Examina-se agravo em recurso especial, interposto por IVAN GUARNIERI DOS SANTOS, IZO CONFECCOES LTDA, MARIA DE LOURDES GUARNIERI DOS SANTOS e PAULO ROBERTO DOS SANTOS, contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 22/8/2023.
+Concluso ao gabinete em: 8/4/2024.
+Ação: de cobrança, ajuizada pelo BANCO DO BRASIL SA em desfavor dos agravantes, em virtude de contrato de abertura de crédito rotativo firmado entre as partes.
+Sentença: julgou procedente o pedido.
+Acórdão: deu parcial provimento à apelação interposta pelos agravantes, nos termos da seguinte ementa:
+Apelação Cível. Ação de cobrança. Contrato de abertura de crédito (capital de giro). Sentença de procedência. Recurso da parte ré.
+1. Justiça gratuita. Hipossuficiência econômica comprovada. Benefício deferido à corré pessoa jurídica.
+2. Razões recursais. Inépcia. Alegada abusividade da capitalização diária de juros e cumulação da comissão de permanência com encargos moratórios e remuneratórios. Contrato que, na hipótese, estabelece a composição mensal da taxa de juros e a cobrança isolada da comissão de permanência no período de anormalidade contratual, ponderações que, inclusive, constaram da r. sentença. Questões não conhecidas.
+3. Contrato de abertura de crédito (capital de giro). Disciplina legal. Legislação consumerista. Inaplicabilidade. Relação de insumo, e não de consumo.
+4. Juros remuneratórios. Inaplicabilidade da limitação de juros prevista na Lei da Usura às instituições financeiras. Convenção de taxa de juros dentro da legalidade. Índices que não destoam daqueles aplicados por outras instituições financeiras durante o período.
+5. Tarifa de Abertura de Crédito (TAC). Pactuação em contrato de mútuo celebrado em 21.11.2014, portanto, depois de 30.04.2008. Cobrança descabida. Precedente do STJ (REsp nº 1.251.331). Tarifa denominada no contrato como "Contratação Operação Ativa" que deve ser restituída de forma simples -- sem a dobra porque, diante da cobrança originariamente prevista em contrato não se pode inferir má-fé do credor --, com reflexo no custo efetivo total, incidindo sobre o indébito correção monetária pela tabela prática do TJSP a partir dos desembolsos e juros de mora de 1% ao mês a contar da citação, deduzindo-se o valor assim obtido do saldo devedor do contrato.
+6. Tarifas bancárias. Previsão contratual de cobrança das "demais tarifas aplicáveis à operação, vigentes à época da cobrança, constantes da Tabela de Tarifas de Serviços Bancários - Pessoa Jurídica". Abusividade. Inocorrência. Tratando-se de crédito rotativo destinado a capital de giro, possível ao mutuário a verificação de quais encargos lhe serão cobrados antes de formalizar a operação, o que afasta a alegação de cobrança de encargos desconhecidos ou sem autorização. Na hipótese, além do capital mutuado, juros e comissão de permanência, a credora cobra a comissão de concessão da garantia (CCG) em razão da instituição da garantia complementar pelo Fundo de Garantia de Operações (FGO), o que foi expressamente pactuado pelas partes e não constituiu encargo abusivo, pois justamente estabelecido em favor de empresas de porte micro até médio que, sem dispor de bem ou direito que possam dar em garantia, buscam crédito em instituições financeiras, tais como capital de giro e para investimentos.
+7. Sentença reformada, para conceder à corré pessoa jurídica os benefícios da justiça gratuita e determinar o abatimento da Tarifa de Abertura de Crédito ("Contratação de Operações Ativas") da condenação. Recurso parcialmente provido na parte conhecida.
+(e-STJ Fls. 593/594)
+Recurso especial: alegam violação aos arts. 3º, 4º, 6º, 31, 46, 51, 52 e 54 do CDC e ao art. 421 do CC. Sustentam que a empresa recorrente é a destinatária final do crédito contratado, de sorte que deve ser considerada consumidora e afastados os encargos contratuais ilegais. Insurgem-se, assim, contra a cobrança de capitalização diária de juros, taxa de emissão de carnê (TEC) e comissão de permanência, bem como asseveram necessidade de modificação dos juros remuneratórios. Apontam que a relação jurídica deve obedecer à função social do contrato, restando evidenciada a abusividade e onerosidade excessiva na espécie. Consignam, ainda, que o diploma consumerista é plenamente aplicável à hipótese.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 3º, 4º, 6º, 31, 46, 51, 52 e 54 do CDC, indicados como violados, não tendo os agravantes oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+De toda sorte, no que tange à análise do contrato e à natureza da relação jurídica entabulada, o Tribunal de origem assim se manifestou:
+(..) 4. Os encargos remuneratórios convencionados não podem ser alterados com base na alegação de violação do Código de Defesa do Consumidor -- pois o empréstimo em questão foi destinado ao fomento de empresa, em relação de insumo e não de consumo --, e tampouco sob a mera afirmação de abuso -- visto que a cobrança é permitida pela legislação do sistema financeiro, decorrendo das normas pertinentes do Conselho Monetário Nacional e do Banco Central do Brasil.
+(..)
+7. Não se mostra abusiva a previsão contratual de cobrança das "demais tarifas aplicáveis à operação, vigentes à época da cobrança, constantes da Tabela de Tarifas de Serviços Bancários - Pessoa Jurídica" (fl. 17).
+Tratando-se de crédito rotativo destinado a capital de giro, possível ao mutuário a verificação de quais encargos lhe serão cobrados antes de formalizara operação, o que afasta a alegação de cobrança de encargos desconhecidos ou sem autorização.
+Ademais, não há cobrança de qualquer tarifa não contratada pela autora, conforme se observa na planilha juntada com a petição inicial (fls. 67/71).
+Além do capital mutuado, juros e comissão de permanência, a credora cobra a comissão de concessão da garantia (CCG) em razão da garantia complementar pelo Fundo de Garantia de Operações (FGO), o que, além de ser expressamente pactuado pelas partes (fls. 6/26), não constitui encargo abusivo, pois justamente instituído em favor de empresas de micro até médio porte que, sem dispor de bem ou direito que possam dar em garantia, buscam crédito em instituições financeiras, tais como capital de giro e para investimentos.
+(..) (e-STJ Fl. 596/598)
+Logo, alterar o decidido no acórdão impugnado, no que se refere à abusividade do contrato firmado entre as partes e à aplicação do CDC à espécie, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Desse modo, não é possível que sejam revisitados fatos ou que seja conferida nova interpretação de cláusula contratual, uma vez que são matérias ligadas à demanda e alheias à função desta Corte Superior que é a uniformização da interpretação da legislação federal.
+A corroborar:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA PARTE EMBARGANTE.
+1. Consoante a jurisprudência desta Corte, o Código de Defesa do Consumidor não se aplica aos casos em que o produto ou serviço é contratado para a implementação de atividade econômica, já que não estaria configurado o destinatário final da relação de consumo, nos termos da teoria finalista ou subjetiva. Precedentes.
+1.1 A revisão das conclusões do Tribunal de origem, no sentido de que o financiamento obtido foi utilizado para o fomento da economia da empresa recorrente, não se enquadrando como consumidora para efeito da incidência do diploma consumerista, demandaria o reexame da matéria fático-probatória dos autos, providência vedada ante o óbice da Súmula 7/STJ.
+2. "A jurisprudência desta Corte orienta, há muito, que a transação pode ser celebrada sem a assistência de advogado" (AgInt no AREsp 1730181/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJ 17/06/2021). Precedentes.
+3. Em relação aos artigos 515 e 1013 do CPC/15, incidem os enunciados das Súmulas 282 e 356 do Supremo Tribunal Federal, ante a ausência de prequestionamento, porquanto a matéria contida em tais dispositivos não tiveram o competente juízo de valor aferido, nem interpretada ou a sua aplicabilidade afastada ao caso concreto pelo Tribunal de origem.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.939.214/MS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 22/2/2022, DJe de 9/3/2022, grifo nosso.)
+- Da existência de fundamento não impugnado
+Ademais, os agravantes não impugnaram os seguintes fundamentos utilizados pelo TJ/SP quanto à capitalização diária e comissão de permanência (e-STJ Fls. 595/596, grifo nosso):
+(..) 2. Ainda em sede preliminar, não se conhece do recurso no que concerne à alegada capitalização diária de juros e cumulação da comissão de permanência com encargos moratórios e remuneratórios, pois, na hipótese, o contrato estabelece a composição mensal da taxa de juros e a cobrança isolada da comissão de permanência no período de anormalidade contratual, ponderações que, inclusive, constaram da r. sentença (fl. 443 e 448)
+Seja por não observar a realidade dos autos, seja por não impugnar especificamente a sentença, tais alegações não podem ser conhecidas. (..)
+Desse modo, deve ser mantido o acórdão recorrido ante a aplicação, na hipótese, da Súmula 283/STF.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da condenação (e-STJ Fls. 458 e 598) para 12%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Ação de cobrança.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. Agravo conhecido para não conhecer do recurso especial.
