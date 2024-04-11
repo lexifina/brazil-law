@@ -1,0 +1,28 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por BANCO SOFISA S/A contra decisão que não admitiu o recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 21/08/2023.
+Concluso ao gabinete em: 05/04/2024.
+Ação: execução de título extrajudicial ajuizada pelo agravante em face de JERÔNIMO SOARES DE AZEVEDO JÚNIOR ME e JERÔNIMO SOARES DE AZEVEDO JÚNIOR.
+Decisão: deferiu o pedido dos agravados de suspensão do andamento da execução quanto à empresa em recuperação judicial e ao codevedor produtor rural.
+Acórdão: negou provimento ao agravo de instrumento interposto pelo agravante, nos termos da seguinte ementa (fl. 299 e-STJ):
+AGRAVO DE INSTRUMENTO - AÇÃO DE EXECUÇÃO - EXECUTADA- RECUPERAÇÃO JUDICIAL- JUÍZO - DETERMINAÇÃO - SUSPENSÃO DA AÇÃO CONTRA A EMPRESA E O CODEVEDOR PRODUTOR RURAL - EMPRESA INDIVIDUAL - PESSOA FÍSICA E PESSOA JURÍDICA - PATRIMÔNIO - CONFUSÃO - AÇÃO - SUSPENSÃO - POSSIBILIDADE - PRECEDENTES - DECISÃO COMBATIDA - MANUTENÇÃO.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+Recurso especial: alega violação dos arts. 49, §1º, e 59, da Lei 11.101/2005. Sustenta a possibilidade de continuidade da execução, tendo em vista que o processamento da recuperação judicial da empresa não suspende as execuções contra os fiadores e avalistas do devedor principal recuperando . Aduz que a ausência de separação entre o produtor rural e a pessoa natural não desnatura a figura jurídica do aval prestado pela pessoa física. Acentuando que, "embora o produtor rural tenha a possibilidade de pleitear a recuperação judicial, existe a exigência legal da discriminação contábil do crédito, prevista no artigo 49, § 6º, da Lei 11.101/05, que tem o objetivo de separar as atividades rurais exercidas pelo produtor daquelas realizadas com seu patrimônio pessoal, como se faz usualmente na individualização do patrimônio das empresas e de seus sócios" (e-STJ, fl. 315).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da jurisprudência do STJ
+A Segunda Seção do STJ já firmou jurisprudência em precedente repetitivo no sentido de que "A recuperação judicial do devedor principal não impede o prosseguimento das execuções nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos arts. 6º, caput, e 52, inciso III, ou a novação a que se refere o art. 59, caput, por força do que dispõe o art. 49, § 1º, todos da Lei n. 11.101/2005." (REsp 1.333.349/SP, SEGUNDA SEÇÃO, julgado em 26/11/2014, DJe 02/02/2015).
+Esse também é o entendimento contido na Súmula 581 do STJ: "a recuperação judicial do devedor principal não impede o prosseguimento das ações e execuções ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória".
+Na hipótese, o Tribunal de origem entendeu pela impossibilidade de prosseguimento da execução quanto ao devedor solidário, porque o patrimônio deste se confundiria com o patrimônio da pessoa jurídica - empresa individual - em benefício da qual foi deferida a recuperação judicial, nos seguintes termos (e-STJ, fls. 299/300):
+Trata-se de ação de execução em proferido o seguinte comando:
+"Vistos. Fls. 182/188: A pessoa jurídica foi constituída como microempresa, havendo confusão patrimonial entre seus bens e os do empresário pessoa física, não obstante atribuição de número de cadastro no CNPJ para fins tributários/fiscais. Ademais, ao compulsar a decisão de fls. 174/178, extraio que o Juízo da recuperação tem entendimento similar. A execução permanece SUSPENSA, nos termos da decisão de fl. 179. Int." (fls. 30).
+A despeito da possibilidade do prosseguimento da execução contra o devedor solidário (arts. 49, § 1º, e 59 da Lei nº 11.101.05), na situação em comento se cuida de empresário individual. Atua como produtor rural.
+Ainda que o crédito exequendo não se relacione com a atividade propriamente dita, os patrimônios da pessoa física e da jurídica se confundem. Deferida a recuperação judicial em favor da empresa individual, veda-se o prosseguimento da execução contra o codevedor.
+Assim, o entendimento do acórdão recorrido está em dissonância com o entendimento pacífico desta Corte que assinala a possibilidade de prosseguimento da execução quanto ao devedor solidário , ainda que a devedora principal esteja em recuperação judicial, merecendo, portanto, reforma.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para determinar o prosseguimento da execução com relação ao avalista do título executivo.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. RECUPERAÇÃO JUDICIAL. EMPRESA INDIVIDUAL. DEFERIMENTO. PROSSEGUIMENTO DA EXECUÇÃO EM FACE DO CODEVEDOR. POSSIBLIDADE. SÚMULA 581/STJ. INCIDÊNCIA. ACÓRDÃO PROFERIDO PELO TRIBUNAL DE ORIGEM EM DISSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.
+1. Execução de título extrajudicial.
+2. O deferimento da recuperação judicial não obsta a execução dos créditos ajuizados em face de avalista da empresa recuperanda, pois não se lhe aplica a suspensão prevista nos arts. 6º, caput, e 52, inciso III, ou a novação a que se refere o art. 59, caput, por força do que dispõe o art. 49, § 1º, todos da Lei n. 11.101/2005.
+3. Agravo conhecido. Recurso especial conhecido e provido.
