@@ -1,0 +1,12 @@
+DECISÃO
+O requente foi pronunciado por crime contra a vida. Pede a concessão de "efeito suspensivo ao recurso especial inadmitido ou ao agravo em recurso especial pendente de exame, até o julgamento definitivo de mérito do aludido recurso, determinando-se a suspensão da tramitação da ação", com Sessão do Júri designada para o dia 18/4/2024.
+Seja pela reiteração, ou pela ausência de perigo da demora, o pedido não pode ser deferido.
+A atribuição de efeito suspensivo a agravo em recurso especial deve ser deduzida em tutela provisória e se reveste de caráter excepcional. Para sua concessão faz-se necessário aferir, em juízo sumário, a probabilidade de êxito recursal e o risco de dano irreparável à parte.
+A defesa afirma que, em relação ao requerente, a pronúncia está baseada em testemunho indireto. O recurso especial contra o acórdão do RSE foi inadmitido, o que ensejou a interposição de agravo, ainda não enviado a esta Corte.
+O pedido de urgência, voltado contra a mesma pronúncia, já foi indeferido no HC n. 866605/ES, quando ficou consignado que não se constata, de plano, "a manifesta ilegalidade suscitada".
+Em exame superficial dos autos, consta que "os indícios de autoria e a materialidade restaram demonstrados através do Boletim Unificado, Laudos Cadavérico e de Lesões Corporais das vítimas, bem como do depoimento prestado pela vítima sobrevivente e pelo testemunho, perante o juízo, de Anderson Ross Gama (fl. 488) e do investigador da Polícia Civil Robson Gonçalves Ferreira (fl. 550)" (fl. 223).
+Ao que se tem: "ao ser ouvida em juízo, conforme termo de fls. 488 e mídia de fls. 491, a aludida testemunha confirmou que os denunciados Jefferson e João Manoel foram os autores do crime, que culminou na execução de seu irmão, a vítima André. Questionado acerca da participação do corréu Gilgleibi, a sobredita testemunha afirmou que "Gilgleibi é o mandante do crime, é o cabeça. Gilgleibi era o "dono" e fornecia arma e droga" (fl. 47).
+Assim, a matéria requer cuidadosa análise do processo, não pode ser resolvida de plano, a um primeiro olhar. Ainda, inexiste risco ao resultado útil do AREsp, pois uma vez constatado que não existe prova admitida pelo ordenamento jurídico para a pronúncia do requerente, a nulidade da decisão ainda poderá ser decretada e contaminará eventual condenação do réu pelo Tribunal do Júri. O recurso não perderá seu objeto nem estará prejudicado.
+À vista do exposto, indefiro o pedido.
+Publique-se e intimem-se.
+EMENTA
