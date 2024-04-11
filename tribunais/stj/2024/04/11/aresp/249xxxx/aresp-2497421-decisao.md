@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 373, I e II, do Código de Processo Civil e 186 do Código Civil, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 169 ):
+APELAÇÃO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. MÚTUO. SENTENÇA DE PROCEDÊNCIA. INCONFORMISMO DOS RÉUS. NÃO ACOLHIMENTO. RESTANDO INCONTROVERSO NOS AUTOS QUE A AUTORA TRANSFERIU VALORES PARA AS CONTAS CORRENTES DOS RÉUS. DEVER DESTES RESTITUIREM AS QUANTIAS RECEBIDAS, SOB PENA DE ENRIQUECIMENTO SEM CAUSA. INTELIGÊNCIA DO ARTIGO 884 DO CÓDIGO CIVIL. ALEGAÇÃO DE QUE TERIAM ATUADO COM MEROS INTERMEDIÁRIOS E ORIENTADORES PARA INVESTIMENTO EM CRIPTOMOEDAS NA EMPRESA AIRBIT CLUB, CUJA FRAUDE TERIA DEIXADO AS PARTES EM PREJUÍZO, DESACOMPANHADA DE ELEMENTOS DE PROVA. É ÔNUS DOS RÉUS A PROVA DOS FATOS IMPEDITIVOS, MODIFICATIVOS E EXTINTIVOS DO DIREITO DA AUTORA, EX VI DO ARTIGO 373, II, DO CPC. DEVER DE INDENIZAR DO GESTOR DE NEGÓCIO. INTELIGÊNCIA DOS ARTIGOS 186, 863 E 927 DO CÓDIGO CIVIL. AUSÊNCIA DE DEMONSTRAÇÃO DE CULPA DE TERCEIROS A EXCLUIR O DEVER DE RESTITUIÇÃO. SUCUMBÊNCIA. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. CABIMENTO (ART. 85, § 11, DO CPC). Apelação não provida.
+Sustentam os agravantes que eram meros intermediários do investimento, e que a agravada não trouxe efetivas provas de que eles faziam parte de empresa de repasse de recursos para criptomoedas.
+Afirmam que a agravada sabia que o investimento continha risco e que não era garantida sua lucratividade.
+Assim posta a questão, passo a decidir.
+Verifico que o Tribunal de origem manteve a sentença, que determinou a restituição das quantias recebidas pelos agravantes, sob pena de enriquecimento sem causa, conforme se extrai dos seguintes trechos (fls. 171/172):
+(..)
+Segundo consta dos autos (fls. 11), a autora, em 20.08.2018, transferiu para as contas correntes dos apelantes as quantias de R$ 10.053,50 (c/c de FRANCISCO AMADOR DE BRITO), e R$ 7.429,00 (c/c de LEONARDO M. D. BRITO).
+Os apelantes não negaram haver recebido as quantias, mas sustentam que, como meros intermediários e orientadores para investimento em criptomoedas, teriam alocado os valores junto à empresa Airbit Club, e teriam sido vítimas de fraude, atribuindo, assim, culpa exclusiva de terceiro e ausência do dever de indenizar. Ocorre que a alegação de que os valores recebidos da apelada foram investidos em criptomoeda junto à empresa Airbit Club veio desacompanhada de elementos de prova. A tal ônus os apelantes estavam obrigados, ex vi do artigo 373, II, do CPC. Os documentos de fls. 73/77 nada provam quanto aos fatos alegados em defesa.
+A circunstância de a apelada ter realizado saque para aplicação em criptomoeda, não afasta a responsabilidade dos apelantes de restituírem as quantias recebidas, sob pena de enriquecimento sem causa (art. 884 do CC), independentemente da existência de contrato.
+De outro modo, se o valor foi investido em criptomoeda, como alegaram os apelantes, e os valores foram desviados, causando danos à apelada, também permaneceria o dever de indenizar, nos termos dos artigos 186, 863 e 927 do Código Civil.
+Inexistindo, nos autos, a alegada culpa de terceiros a excluir o deve de restituir, a pretensão autoral haveria de ser acolhida.
+(..) (destaquei)
+Com efeito, observo que rever tal conclusão da Corte local demandaria o reexame do acervo fático dos autos, situação vedada pelo óbice da Súmula n. 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
