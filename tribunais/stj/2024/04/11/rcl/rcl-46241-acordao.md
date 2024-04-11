@@ -1,0 +1,49 @@
+EMENTA
+PROCESSUAL CIVIL. RECLAMAÇÃO. AGRAVO EM RECURSO ESPECIAL. EXAME. STJ. COMPETÊNCIA.
+1. A competência para o julgamento do agravo previsto no art. 1.042 do CPC é do tribunal superior para o qual é dirigido.
+2. Diversamente do que ocorre com os recursos especial e extraordinário, esse agravo não está sujeito a juízo de prelibação pela Corte a quo (art. 1.042, § 4º, do CPC).
+3. Não compete ao Tribunal de origem decidir sobre o cabimento do agravo em recurso especial interposto no processo, mas a este Superior Tribunal, pois não há como confundir cabimento do recurso com a competência para o seu julgamento.
+4. Reclamação procedente.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Seção do Superior Tribunal de Justiça, por unanimidade, julgar procedente a reclamação, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Sérgio Kukina, Paulo Sérgio Domingues e Afrânio Vilela votaram com o Sr. Ministro Relator.Ausente, justificadamente, o Sr. Ministro Francisco Falcão.
+RELATÓRIO
+Trata-se de reclamação constitucional, com pedido de liminar, ajuizada por COMERCIAL BENEFICIADORA DE CAFE LTDA., com a finalidade de preservar a competência desta Corte Superior (art. 105, I, "f", da Constituição Federal e art. 988, I, do CPC).
+A parte reclamante sustenta, em síntese, que o Vice-Presidente do Tribunal Regional Federal da 1ª Região, ao decidir pelo não conhecimento do agravo em recurso especial, ao fundamento de que o recurso cabível para impugnar decisão que nega seguimento ao apelo nobre é o agravo interno, invadiu a competência do STJ.
+Aduz que "o agravo em recurso especial não se submete a juízo de admissibilidade, mas apenas a juízo de retratação, na forma do art. 1.042, § 4º do CPC. Dessa forma, interposto o agravo, o caso é de subida dos autos a essa Eg. Corte, seja pela ausência de retratação da decisão de inadmissibilidade; seja pela efetiva retratação, que implica na remessa do próprio recurso especial a esse Eg. STJ. A única exceção a essa regra geral é a hipótese de o recurso ser manifestamente incabível, configurando erro grosseiro" (e-STJ fl. 6).
+Defende que a decisão proferida pelo TRF da 1ª Região tem natureza mista, pois concluiu pela não demonstração da alegada violação do art. 535 do CPC/1973 e, no mérito, considerou que o entendimento adotado pela Corte de origem estava em sintonia com precedente obrigatório do STJ - Tema repetitivo 142 -, sendo que cada capítulo do julgado foi impugnado por meio dos recursos cabíveis, no caso, o agravo do art. 1.042 do CPC/2015 e o agravo do art. 1.030, § 2º, do CPC/2015, respectivamente, não havendo falar em erro grosseiro.
+Assevera que, "havendo 2 (dois) fundamentos autônomos na decisão, e considerando a obrigação de impugnação específica de todos eles e o cabimento de recursos distintos para cada um dos dois fundamentos da r. decisão agravada, a ora reclamante agiu da única forma que lhe cabia. E mais: essa Eg. Corte não admite os embargos contra a decisão que inadmite o recurso especial. Nesse cenário, a r. decisão reclamada, com base em fundamentação manifestamente equivocada e contrária à jurisprudência dessa Eg. Corte, usurpou a competência dessa Eg. Corte para o julgamento do AREsp" (e-STJ fl. 6).
+Alegando que estão presentes os requisitos de urgência, pede a concessão de liminar, a fim de que seja determinada a suspensão do processo originário (n. 0034848-62.2002.4.01.3400) "até o julgamento final da presente reclamação" (e-STJ fl. 19).
+Pleiteia, por fim, a procedência da reclamação "para o fim de: (i) cassar a decisão proferida nos autos do processo nº 0034848-62.2002.4.01.3400, que negou trânsito ao agravo em recurso especial interposto pela ora reclamante; e (ii) determinar a imediata remessa do AREsp a essa Eg. Corte para que o mesmo seja processado e julgado pelo Tribunal competente" (e-STJ fl. 20).
+Liminar deferida apenas para suspender os efeitos da decisão reclamada, proferida pelo Vice-Presidente do Tribunal Regional Federal da 1ª Região nos autos do AGRAVO INTERNO CÍVEL 0034848-62.2002.4.01.3400 (e-STJ fls. 696/698).
+Em suas informações (e-STJ fl. 706), a autoridade reclamada alega não haver óbice ao exercício do juízo de prelibação pelo Tribunal regional para não conhecer do agravo em recurso especial, especialmente nos casos em que o acórdão recorrido está em conformidade com precedente formado sob a sistemática dos recursos repetitivos.
+O Ministério Público Federal manifestou-se pela procedência da reclamação (e-STJ fls. 710/714).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECLAMAÇÃO. AGRAVO EM RECURSO ESPECIAL. EXAME. STJ. COMPETÊNCIA.
+1. A competência para o julgamento do agravo previsto no art. 1.042 do CPC é do tribunal superior para o qual é dirigido.
+2. Diversamente do que ocorre com os recursos especial e extraordinário, esse agravo não está sujeito a juízo de prelibação pela Corte a quo (art. 1.042, § 4º, do CPC).
+3. Não compete ao Tribunal de origem decidir sobre o cabimento do agravo em recurso especial interposto no processo, mas a este Superior Tribunal, pois não há como confundir cabimento do recurso com a competência para o seu julgamento.
+4. Reclamação procedente.
+VOTO
+Nos termos do art. 105, I, "f", da CF c/c o art. 988 do CPC/2015, e do art. 187 do RISTJ, cabe reclamação da parte interessada para preservar a competência do Tribunal, para garantir a autoridade das suas decisões, para observância de enunciado de súmula vinculante e de decisão do STF em controle concentrado de constitucionalidade e para observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência.
+Na hipótese, conforme relatado, a presente reclamação tem por escopo a preservação da competência do Superior Tribunal de Justiça (art. 105, I, "f", da Constituição Federal e art. 988, I, do CPC).
+Sob esse aspecto, tenho que assiste razão à parte reclamante.
+Extrai-se dos autos que a decisão regional que examinou a admissibilidade do recurso especial (e-STJ fls. 606/607), apesar de ter concluído por negar seguimento ao apelo nobre da ora reclamante, pautou-se em duplo fundamento, pois afastou a violação do art. 535, II, do CPC/1973, ante a devida apreciação da controvérsia posta nos autos, e registrou, em seguida, que o acórdão recorrido encontrava-se em sintonia com tese jurídica firmada em julgamento sob o rito dos recursos repetitivos (RESP 1.110.578/SP - Tema 142 do STJ).
+Então, a contribuinte interpôs agravo interno e agravo em recurso especial, sendo que o último não foi conhecido pela Vice-Presidência do TRF da 1ª Região, ao fundamento de que a parte dispositiva da decisão impugnada determinou sua natureza, acrescentando que, como ali constou a negativa de seguimento do apelo especial, a interposição de agravo do art. 1.042 do CPC/2015 constituiu erro grosseiro a impedir o conhecimento desse recurso.
+Ocorre que, de acordo com a jurisprudência da Primeira Seção, não compete ao Tribunal de origem decidir sobre o cabimento do agravo em recurso especial interposto nos autos, e sim à Corte Superior para o qual foi dirigido. Frise-se que, diversamente do ocorre com o recurso especial, o agravo de que trata o art. 1.042 do CPC não está sujeito a juízo de prelibação pela Corte a quo, devendo ela, após o prazo para resposta, não havendo retratação, remeter o recurso para o tribunal superior competente (§ 4º).
+É o que se extrai dos seguintes julgados:
+PROCESSUAL CIVIL. RECLAMAÇÃO. AGRAVO EM RECURSO ESPECIAL. EXAME. STJ. COMPETÊNCIA.
+1. A competência para o julgamento do agravo previsto no art. 1.042 do CPC é do tribunal superior para o qual é dirigido.
+2. Diversamente do ocorre com os recursos especial e extraordinário, esse agravo não está sujeito a juízo de prelibação pela Corte a quo (art. 1.042, § 4º, do CPC).
+3. Hipótese em que, embora correta a assertiva contida na decisão reclamada, de que a negativa de seguimento do recurso especial fundada em precedente obrigatório formado em julgamento de recurso repetitivo desafia o agravo interno previsto no art. 1.030, § 2º, do CPC, não compete ao Tribunal de origem decidir sobre o cabimento do agravo em recurso especial interposto no processo, mas a este Superior Tribunal de Justiça.
+4. Reclamação procedente.
+(Rcl 39.515/PE, de minha relatoria, PRIMEIRA SEÇÃO, julgado em 10/06/2020, DJe 29/06/2020)
+RECLAMAÇÃO. AGRAVO EM RECURSO ESPECIAL. ART. 544, DO CPC/1973. COMPETÊNCIA DO STJ. USURPAÇÃO.
+1. Nos termos do artigo 105, inciso I, alínea "f", da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões.
+2. A interposição de agravo em recurso especial, sem a menção ao dispositivo legal embasador da irresignação - art. 544 do CPC/1973 -, não enseja o julgamento pelo Tribunal de origem como agravo regimental, quando constatado que foi cumprido o comando normativo contido no § 2º do mencionado dispositivo, com o correto endereçamento do recurso à Presidência do Tribunal de origem e apresentação das razões recursais dirigidas ao Superior Tribunal de Justiça.
+3. Nos termos do art. 544, § 2º, do CPC/1973, a competência para o julgamento de agravo em recurso especial é do Superior Tribunal de Justiça.
+4. Reclamação julgada procedente.
+(Rcl 29.379/RJ, de minha relatoria, PRIMEIRA SEÇÃO, julgado em 10/08/2016, DJe 12/09/2016)
+Registro, por fim, que não há como confundir cabimento do recurso com a competência para o seu julgamento.
+Ante o exposto, JULGO PROCEDENTE o pedido para, cassando a decisão reclamada, determinar ao Tribunal de origem que providencie a subida dos autos do processo principal para esta Corte Superior, a fim de que o agravo em recurso especial interposto seja aqui analisado.
+É como voto.
