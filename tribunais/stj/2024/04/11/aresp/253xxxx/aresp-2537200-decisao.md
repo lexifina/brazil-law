@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de agravo interposto por FRANCISCO ANDRADE DE CARVALHO e OUTRO, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de FRANCISCO ANDRADE DE CARVALHO e OUTRO, a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes à subscritora do agravo e do recurso especial, Dra. Monique Santos de Jesus.
+Ademais, percebeu-se, no STJ, haver irregularidade na representação processual do recurso. A parte, embora regularmente intimada para sanar referido vício, deixou o prazo transcorrer in albis.
+Ressalte-se que a petição de fls. 302/308, trazida aos autos em razão da certidão oportunizando a regularização do feito, não pode ser conhecida para os fins a que se destina, uma vez que protocolizada fora do prazo assinalado, ocorrendo a preclusão temporal da prática do ato.
+Ademais, ao contrário do alegado pela parte, em consulta ao Diário de Justiça Eletrônico (https://ww2.stj.jus.br/processo/dj/init), meio oficial pelo qual esta Corte veicula seus atos judiciais, verificou-se que não houve qualquer irregularidade na publicação.
+Na referida edição foram apresentadas todas as informações necessárias para conferir publicidade à intimação das partes e advogados, nos exatos termos da Lei n. 11.419/2006, entre elas, o número do processo, o nome das partes e de seus representantes.
+No caso, constou ainda da publicação o título "Autos com vistas aos recorrentes". Ficou consignado que "Os processos abaixo relacionados encontram-se com vista ao recorrente para manifestação acerca da "Certidão para Saneamento de Óbices" constante dos autos". A relação de processos publicados veio logo abaixo, incluindo este recurso. Assim, bastaria a parte acessar os autos eletronicamente, visualizar o inteiro teor da certidão, e cumprir a determinação de regularização do vício.
+Dessa forma, o recurso não foi devida e oportunamente regularizado, incidindo, na espécie, o disposto na Súmula n. 115/STJ.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
+ EMENTA
