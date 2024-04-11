@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo interposto por INCORPORADORA BORGES LANDEIRO S.A. EM RECUPERAÇÃO JUDICIAL contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado:
+"QUÁDRUPLA APELAÇÃO CÍVEL. AÇÕES DE CONSIGNAÇÃO EM PAGAMENTO, REINTEGRAÇÃO DE POSSE, CAUTELAR INOMINADA, ANULAÇÃO DE ADJUDICAÇÃO COMPULSÓRIA E REVISIONAL C/C DECLARATÓRIA. JULGAMENTO CONJUNTO. ANULATÓRIA. UNIRRECORRIBILIDADE DAS DECISÕES E PRECLUSÃO CONSUMATIVA. TERCEIRO RECURSO NÃO CONHECIDO. REVISIONAL. AUSÊNCIA DEI NTERESSE RECURSAL. QUARTA APELAÇÃO CONHECIDA EM PARTE. REINTEGRAÇÃO DE POSSE. ALIENAÇÃO DE IMÓVEL. LEILÃO EXTRAJUDICIAL. INTIMAÇÃO PESSOAL DA DEVEDORA. OBRIGATORIEDADE. CAUTELAR INOMINADA. MEDIDA CAUTELAR DEFERIDA NA VIGÊNCIA DO CPC/73. AÇÃO PRINCIPAL JULGADA PROCEDENTE. REVISIONAL C/C DECLARATÓRIA. CAPITALIZAÇÃO MENSAL DOS JUROS. SOCIEDADE EMPRESÁRIA NÃO INTEGRANTE DO SISTEMA FINANCEIRO NACIONAL. IMPOSSIBILIDADE. COBRANÇA DEHONORÁRIOS ADVOCATÍCIOS EXTRAJUDICIAIS. LEGALIDADE. HONORÁRIOS RECURSAIS.
+I - Aplicando-se o princípio da unirrecorribilidade das decisões, bem como a preclusão consumativa, não há razão para conhecer da 3a apelação cível, cujas razões recursais são idênticas às do 1o recurso protocolado pela recorrente.
+II - Ante a ausência de interesse recursal nas insurgências que foram sentenciadas a favor da recorrente, ou que não foram objeto de análise nos autos, imerece conhecer da 4a apelação, nesses tópicos.
+III - É imprescindível a intimação pessoal do devedor fiduciante a respeito da data, horário e local de realização do leilão extrajudicial, aplicando-se o entendimento às operações de financiamento imobiliário em geral, a que se referem a Lei nº 9.514/97, no que impende manter a sentença que julgou improcedente a ação de reintegração de posse, ante a ausência de notificação da apelada.
+IV - Tratando-se ação cautelar ajuizada na vigência do CPC/73, deve ser observada a sistemática daquela norma revogada, em respeito à situação jurídica consolidada na sua vigência (art. 14 do Novo CPC).
+V - Nos termos do artigo 808, III, do Código de Processo Civil/73, cessa a eficácia da medida cautelar se o juiz declarar extinto o processo principal, com ou sem resolução do mérito, a qual permanece eficaz se o pedido da ação principal for julgado procedente.
+VI - Constitui prática vedada pelo ordenamento jurídico, a capitalização mensal de juros em contrato promessa de compra e venda de imóvel, firmado com sociedade empresária não integrante do Sistema Financeiro Nacional.
+Precedentes do STJ e TJGO.
+VII - Conforme a jurisprudência pacificada do STJ, havendo previsão contratual, não configura abusividade a cobrança de honorários advocatícios extrajudiciais, em caso de mora ou inadimplemento do devedor (art. 389 do CC).
+VIII - Diante do desfecho do 1o, 2o e 3o apelos cíveis, insta majorar os honorários advocatícios sobre os valores das causas dos autos de Reintegração de Posse, Anulação de Adjudicação Compulsória e Cautelar Inominada (art. 85 §11 CPC), incabível a sua majoração nos autos da Revisional c/c Declaratória, ante o parcial provimento da 4a apelação (EDcl no AgInt no REsp 1573573/RJ).1ª E 2ª APELAÇÕES CONHECIDAS E DESPROVIDAS.3ª APELAÇÃO NÃOCONHECIDA. 4o APELO CONHECIDO EM PARTE E, NESTA,PARCIALMENTE PROVIDO" (fls. 397/398, e-STJ).
+No recurso especial, a recorrente aponta violação dos arts. 5º, § 2º, 22, 26 e 27 da Lei n. 9.514/97, 3º da Lei n. 8.935/64, e 46 da Lei n. 10.931/04.
+Alega que
+"(..) não houve a intimação dos recorrentes acerca do ato de adjudicação e tampouco houve nova avaliação ou atualização do bem penhorado à época, vez que passados 08 anos da avaliação até a adjudicação (pelo mesmo valor), incorrendo em prejuízos aos recorrentes" (fl. 364, e-STJ).
+Aduz que a intimação do devedor é válida, ficando comprovada a sua mora, sendo legal a consolidação da propriedade em nome do fiduciário.
+Aduz, ainda, que é admitida a cobrança da capitalização mensal de juros.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No tocante a consolidação da propriedade em nome do fiduciário o Tribunal de origem ao solucionar a controvérsia assim dispôs:
+"Conhecido e provido recurso anterior (mov. 03, doc. 82, autos 0297597-59) para cassara sentença anteriormente proferida (mov. 03, doc. 58, autos 0297597-59), foi determinada por esta relatoria, de ofício, a ampliação da produção probatória documental (apresentação das certificações de notificação/intimação pessoal de Filomena Amélia Umbelino, com os respectivos números de registro dos protocolos dos expedientes solicitados pela incorporadora Borges Landeiro, acompanhados dos avisos de recebimento), no sentido de agregar elementos e apurara carga de persuasão para solucionar o pedido de anulação da adjudicação compulsória.
+Cassadas as sentenças proferidas nas ações de reintegração de posse e da consignação c/c revisional, ante a prejudicialidade externa, houve juntada da documentação sobre intimação e notificação pela demandada (mov. 03, doc. 94, autos 0297597-59).
+Aquela, por sua vez, afirma que somente tomou conhecimento da adjudicação quando teve acesso aos autos para impugnar a contestação apresentada pela incorporadora, de que seu imóvel foi levado a leilão nos dias 08/12/2006 e 11/12/2006, conforme auto de leilão anexado nos autos (mov. 03, doc. 15, autos 0297597-59).
+Nesse sentido, no que tange à nulidade da notificação extrajudicial formadora de mora, o sentenciante entendeu que a única notificação constante nos autos (processo 0297597-59,mov. 03, doc. 03, fl. 48) ocorreu em desconformidade com os preceitos legais (art. 26 da Lei9.514/97, §§ 1º e 4º).
+Ademais, considerou que não foi realizada pelo Registro de Imóveis da 1ª circunscrição de Goiânia e, ainda que o fosse, não foi assinada pela fiduciante, mas por terceiro, o que enseja a obrigatória realização de citação por edital, a qual também não foi realizada.
+Oportunamente, declarou a nulidade da notificação e, por consequência, de todo o procedimento realizado em cartório, julgando improcedente o pedido de reintegração de posse, ante a desconstituição da mora e a ausência de consolidação da propriedade em favor da incorporadora credora" (fls. 402/403, e-STJ).
+Como se vê, o Tribunal de origem solucionou a controvérsia à luz do conjunto fático-probatório dos autos, concluindo que pela inércia dos recorrentes no que diz respeito ao processo de execução.
+A modificação dessas conclusões esbarra na incidência da Súmula nº 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+A propósito, confiram-se os seguintes precedentes aplicáveis ao presente caso, por analogia:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. LEILÃO DE IMÓVEL PENHORADO. INTIMAÇÃO DO ADVOGADO DA DEVEDORA ANTERIOR À DATA DO PRACEAMENTO. AUSÊNCIA DE PREJUÍZO EFETIVO. REAVALIAÇÃO DO IMÓVEL. NÃO CABIMENTO. QUESTÃO PRECLUSA. REVISÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Tendo as instâncias ordinárias, soberanas na análise das provas, concluído estar caracterizada a preclusão quanto à questão da reavaliação do valor do imóvel; e ausência de prejuízo ao executado, em razão da intimação do seu patrono anteriormente à arrematação do imóvel, não se mostra possível modificar tais conclusões por demandar o reexame do conjunto fático-probatório dos autos, procedimento sabidamente vedado na via do recurso especial (Súmula n. 7/STJ).
+2. Agravo interno desprovido" (AgInt no AREsp 1.023.504/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/8/2017, DJe de 17/8/2017).
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+(..)
+2. Restou expressamente consignado no acórdão recorrido que, no primeiro momento em que foi possível arguir a nulidade referente à ausência de citação, assim o fez a recorrida, conclusão essa que não pode ser alterada nesta Corte ante a incidência da Súmula 7/STJ e que afasta a alegação de preclusão da matéria.
+(..)
+4. Agravo interno desprovido" (AgInt nos EDcl no REsp 1.555.958/AL, relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/3/2020, DJe de 19/3/2020).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. OFENSA À COISA JULGADA. CRÉDITO CEDIDO A TERCEIRO. PRECLUSÃO. OFENSA AOS ARTS. 5º, XXXVI, LIX, LV, DA CF. SÚMULA STJ/7. IMPROVIMENTO.
+(..)
+2.- A convicção a que chegou o Tribunal a quo quanto à ocorrência da cessão do crédito a terceiro e a preclusão da validade da expedição da carta de adjudicação do imóvel objeto da controvérsia decorreu da análise do conjunto fático-probatório e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte.
+Incide nesse ponto a Súmula STJ/7.
+3.- Agravo Regimental improvido" (AgRg no AREsp 501.989/RJ, relator Ministro Sidnei Beneti, Terceira Turma, julgado em 27/5/2014, DJe de 17/6/2014).
+No que diz respeito à capitalização mensal de juros, o acórdão consignou que a empresa recorrente não é instituição financeira, razão pela qual não se mostra cabível a cobrança da capitalização mensal dos juros no contrato de compra e venda firmado entre as partes.
+Nesse contexto, o entendimento do Tribunal de origem encontra-se em harmonia com a jurisprudência sedimentada neste Sodalício. Isso porque a cobrança da capitalização dos juros é valida quando devidamente pactuada nas operações de crédito realizadas por instituições integrantes do Sistema Financeiro Nacional, em contratos firmados a partir da entrada em vigor da Medida Provisória nº 2.170-36/2001.
+Confira-se:
+"PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE COMPRA E VENDA. DISCUSSÃO ACERCA DA POSSIBILIDADE DE CAPITALIZAÇÃO DE JUROS EM PERIODICIDADE MENSAL OU ANUAL. CONTRATO FIRMADO COM A CONSTRUTORA/INCORPORADORA. ENTIDADE QUE NÃO INTEGRA O SISTEMA FINANCEIRO NACIONAL. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS NºS 5 E 7 DO STJ. DECISÃO MANTIDA.
+AGRAVO INTERNO NÃO PROVIDO.
+1. A Construtora Ré não é instituição financeira, não integrando, dessa forma, o Sistema Financeiro Nacional. Desse modo, incidente a Lei da Usura, em especial seu art. 1º, que estabelece o patamar de 12% ao ano, ou seja, o dobro da taxa legal prevista no Código Civil de 1916, no limite de 6% ao ano.
+2. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório d os autos, a teor do que dispõem as Súmulas nºs 5 e 7 do STJ.
+3. Agravo interno não provido." (AgInt no AREsp n. 1.913.941/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários advocatícios foram fixados em 17% (dezessete por cento) sobre o valor da causa, os quais deverão ser majorados para 20% (vinte por cento), em favor dos advogados da parte recorrida, nos termos do art. 85, § 11, do CPC, observada a gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
