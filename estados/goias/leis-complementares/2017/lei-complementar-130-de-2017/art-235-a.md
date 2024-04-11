@@ -1,0 +1,1 @@
+Art. 235-A. É vedado o exercício da advocacia e de consultoria técnico-jurídica pelos servidores efetivos, comissionados, requisitados ou colocados à disposição da Defensoria Pública do Estado de Goiás.

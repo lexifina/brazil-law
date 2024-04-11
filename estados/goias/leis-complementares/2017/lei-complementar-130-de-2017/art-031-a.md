@@ -1,0 +1,1 @@
+Art. 31-A. As decisões do Conselho Superior da Defensoria Pública do Estado serão motivadas e publicadas, e suas sessões deverão ser públicas, salvo nas hipóteses legais de sigilo, e realizadas, no mínimo, bimestralmente, podendo a reunião ser convocada por qualquer conselheiro, caso não realizada dentro desse prazo.
