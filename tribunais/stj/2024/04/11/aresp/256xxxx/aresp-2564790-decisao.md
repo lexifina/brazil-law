@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado por KESLEY LUIZ MENDES DA SILVA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim resumido:
+TURMA CRIMINAL. APELAÇÃO. FURTO TENTADO. CABO DE ENERGIA. CAUSA DE DIMINUIÇÃO DE PENA. TENTATIVA. FRAÇÃO DE 1/3 (UM TERÇO). "INTER CRIMINIS" PERCORRIDO. RECURSO CONHECIDO E NÃO PROVIDO.
+Quanto à controvérsia recursal, alega violação do art. 14, II, do CP, no que concerne à necessidade de aplicação da fração máxima referente à tentativa, tendo em vista que o crime foi interrompido em sua fase intermediária, o que leva a depreender que o recorrente não esteve próximo da sua consumação, trazendo a seguinte argumentação:
+A Defensoria Pública do DF requereu a fixação da pena no patamar máximo na terceira fase da dosimetria, em razão do menor iter criminis percorrido pelo Recorrente, ou seja, não chegou a retirar nenhum bem do local e sequer correu com os fios:
+ ..
+Segundo a doutrina, com base a teoria objetiva-formal, o fundamento jurídico de punibilidade da tentativa será em referência a possível ocorrência do resultado pretendido:
+ ..
+Nesse sentido, o crime foi interrompido em sua fase intermediária, motivo pelo qual o Recorrente faz jus à redução no patamar máximo na terceira fase da dosimetria, uma vez que o STJ adotou a teoria objetiva quanto à punibilidade da tentativa, cujo critério de diminuição do crime tentado de forma inversamente proporcional à aproximação do resultado representado, ou seja, quanto menor o iter criminis percorrido pelo agente, maior será a fração da causa de diminuição (fl. 246).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Na present e hipótese, observa-se que o réu percorreu quase todo o "iter criminis", e sua ação se aproximou da consumação plena, pois entrou bueiro, chegou a cortar os fios de cobre, ou seja, iniciou a execução, e após provocar uma explosão, ela fez com que a consumação não ocorresse.
+Assim, acertada a fração fixada pelo juízo de origem, já que o percurso percorrido até a consumação foi quase completo e não se completou, unicamente, em razão da explosão ocorrida (fl. 232, grifo meu).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que para dissentir da conclusão do Tribunal de origem, a fim de alterar a fração da causa de diminuição de pena relativa à tentativa, seria necessária a incursão no conjunto fático-probatório carreado aos autos.
+Nesse sentido: "Alterar a fração da minorante da tentativa exigiria reexame dos fatos e provas da causa, para aferir quanto do iter criminis foi percorrido pelos réus. Incidência da Súmula 7/STJ." (AgRg no AgRg no AREsp n. 1.969.888/AC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 29/11/2021.)
+De igual sorte: " Na terceira fase, a pretensão de que a minorante da tentativa incida na fração de um 2/3 (ao invés do mínimo de 1/3 aplicado na origem) encontra óbice na Súmula 7/STJ, pois seria necessário reexaminar os fatos e provas da causa para concluir quão perto o recorrente chegou de concluir o iter criminis dos homicídios." (AgRg no REsp n. 1.925.430/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/8/2021, DJe de 10/8/2021.)
+Ainda: A pretensão de alteração da fração da minorante da tentativa encontra óbice na Súmula 7/STJ, porque seria necessário o reexame dos fatos e provas da causa para avaliar a maior ou menor proximidade da conduta ao resultado almejado." (AgRg no AREsp n. 1.954.266/TO, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 15/3/2022.)
+Confiram-se ainda os seguintes julgados: AgRg no AREsp n. 1.969.965/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, DJe de 16/12/2021; AgRg no AREsp n. 1.846.296/MA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 11/10/2021; AgRg no AREsp n. 1.599.947/ES, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 27/9/2021; AgRg no AREsp n. 1.881.761/CE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 20/9/2021.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
