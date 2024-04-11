@@ -10,3 +10,5 @@ IV - (VETADO);
 V - (VETADO);
 VI - a revogação da prisão domiciliar;
 VII - advertência, por escrito, para todos os casos em que o juiz da execução decida não aplicar alguma das medidas previstas nos incisos de I a VI deste parágrafo.
+VIII - a revogação do livramento condicional;
+IX - a conversão da pena restritiva de direitos em pena privativa de liberdade.
