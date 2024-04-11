@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em favor de WILLIAN DE OLIVEIRA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS proferido na Apelação n. 1.0647.18.006753-8/001.
+Consta dos autos que o paciente foi condenado, em primeira instância, como incurso nos arts. 33 e 35 da Lei n. 11.343/2006 e 2º da Lei n. 12.850/2013 (tráfico de drogas, associação para o tráfico e organização criminosa, em concurso material), à pena de 20 anos de reclusão, no regime fechado e ao pagamento de 2.050 dias-multa.
+A defesa interpôs apelação, a qual foi provida para absolver o paciente das imputações dos arts. 35 da Lei n. 11.343/2006 e 2º da Lei n. 12.850/2013, com a manutenção da condenação pelo crime de tráfico, à pena de 6 anos de reclusão no regime fechado e ao pagamento de 600 dias-multa.
+O acórdão restou assim ementado:
+"APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO E ORGANIZAÇÃO CRIMINOSA. PRELIMINAR. LITISPENDÊNCIA. AUSÊNCIA DE DEMONSTRAÇÃO SEGURA DE QUE OS APELANTES RESPONDEM A OUTRO PROCESSO PELOS MESMOS FATOS. PRELIMINAR REJEITADA. MÉRITO. ABSOLVIÇÃO DE TODOS OS APELANTES EM RELAÇÃO AOS DELITOS DO ART. 35 DA LEI 11.343/60 E ART. 2º DA LEI 12.850/13. NECESSIDADE. INSUFICIÊNCIA DE PROVA DE CONSTITUIÇÃO, PELOS APELANTES, DE UMA ASSOCIAÇÃO PERMANENTE E ESTÁVEL PARA A PRÁTICA DO TRÁFICO DE DROGAS E OUTROS DELITOS CUJAS PENAS MÁXIMAS SEJAM SUPERIORES A 04 (QUATRO) ANOS DE RECLUSÃO. REDUÇÃO DA PENA APLICADA AO CRIME DE TRÁFICO DE DROGAS PRATICADO PELO QUARTO APELANTE. NECESSIDADE. CIRCUNSTÂNCIAS JUDICIAIS INDEVIDAMENTE VALORADAS EM PRIMEIRO GRAU. CORREÇÃO NECESSÁRIA. ABRANDAMENTO DO REGIME PRISIONAL. IMPOSSIBILIDADE. PENA CORPORAL SUPERIOR A QUATRO ANOS DE RECLUSÃO E ACUSADO REINCIDENTE. ART. 33, §2º DO CP. CUSTAS ISENTADAS EM PRIMEIRO GRAU.
+- Não tendo a defesa logrado comprovar que os acusados respondem a outro processo pelos mesmos fatos, rejeita-se a preliminar de litispendência.
+- A condenação pelo crime de associação para o tráfico de drogas, previsto no art. 35 da Lei 11.343/06, exige a comprovação da existência de estabilidade, permanência ou habitualidade, bem como o animus associativo, que se traduz no prévio ajuste entre no mínimo dois agentes para a formação de um vínculo associativo de fato.
+- Inexistindo provas seguras de que havia uma verdadeira societas sceleris, onde a vontade de se associar seja separada da vontade necessária à prática do crime visado, deve ser proferida uma decisão absolutória em favor dos apelantes.
+- Não demonstrado pelo acervo probatório a constituição ou integração, pelos apelantes, de organização criminosa composta pela associação de quatro ou mais pessoas, estruturalmente ordenada e caracterizada pela divisão de tarefas, cujo objetivo seja a prática de infrações penais cujas penas máximas ultrapassem 04 (quatro) anos, a absolvição, com base no princípio in dubio pro reo, é medida que se impõe.
+- O equívoco na valoração das circunstâncias judiciais do art. 59 do CP deve ser corrigido por esta instância revisora, com a consequente redução da pena-base.
+- A grande quantidade de drogas apreendidas justifica a fixação da sanção inicial acima do piso legal.
+- Fixada pena corporal superior a quatro anos de reclusão a acusado reincidente, deve ser mantido o regime fechado para o início do cumprimento da pena, nos termos do art.33, §2º do CP.
+- Custas isentadas em primeiro grau." (fl. 74)
+A defesa alega que teria sido indevido o aumento da pena-base em 1 ano, percentual maior que 1/6, em virtude da apreensão de 4.203,84g de cocaína e 1,32g de maconha.
+Busca a redução da pena.
+Indeferido o pedido liminar às fls. 86/88.
+O Ministério Público Federal - MPF opinou pela denegação da ordem, em parecer de fls. 95/104, assim sumariado:
+"HABEAS CORPUS. AÇÃO PENAL. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA-BASE ACIMA DO MÍNIMO LEGAL. NATUREZA E QUANTIDADE DA DROGA APREENDIDA. FUNDAMENTAÇÃO IDÔNEA.
+1. O habeas corpus, quando utilizado como substituto de recursos extraordinários, só deve ser conhecido quando flagrante a ilegalidade apontada, sob pena de banalização do atual sistema recursal.
+2. O writ somente se revela como via adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e se houver flagrante ilegalidade.
+3. O aumento da pena-base deu-se pela grande quantidade e natureza da droga apreendida constituindo fundamentação idônea, nos termos do art. 42 da Lei n. 11.343/06.
+4. Parecer pelo não conhecimento do writ."
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável verificar a existência de flagrante constrangimento ilegal a justificar a concessão da ordem de ofício.
+Para melhor compreensão, transcrevo excerto do voto condutor:
+"Portanto, considerando a quantidade e variedade de drogas apreendidas, a saber, cocaína e maconha, entendo por razoável e proporcional, de acordo com os vetores da necessidade e suficiência para os fins de prevenção e reprovação do delito (art. 59 do CP), a fixação da pena-base em 06 (seis) anos de reclusão e 600 (seiscentos) dias-multa." (fl.82)
+No caso, encontra-se justificado o aumento da pena-base em 1 ano, não se constatando ilegalidade no percentual fixado, tendo em vista a apreensão de 44.203,84g de cocaína e 1,32g de maconha , em observância ao disposto no art. 42 da Lei n. 11.343/06, o qual prevê a preponderância de tais circunstâncias em relação às demais previstas no art. 59 do Código Penal - CP.
+Sendo assim, não é possível reduzir o quantum de aumento, como pretende a defesa. Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. QUANTIDADE DE DROGA. AUMENTO PROPORCIONAL. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. DEDICAÇÃO À ATIVIDADE CRIMINOSA EVIDENCIADA. REGIME FECHADO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. RECURSO NÃO PROVIDO.
+1. A individualização da pena é uma atividade vinculada a parâmetros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+2. Sob o aspecto da extensão e da profundidade do efeito devolutivo na apelação, o Superior Tribunal de Justiça já se manifestou que é permitido ao Tribunal de origem agregar novos fundamentos para manter a dosimetria fixada em primeiro grau, sem se falar em ofensa ao princípio da reformatio in pejus, desde que se valha de elementos contidos na sentença condenatória e não agrave a situação do réu.
+3. Hipótese em que as instâncias ordinárias, atentas às diretrizes do art. 42 da Lei de Drogas, consideraram a quantidade da droga apreendida - 390,9kg de maconha - para elevar a pena-base do delito de tráfico de drogas em 2 anos e 6 meses de reclusão, o que não se mostra desarrazoado, a autorizar a intervenção excepcional desta Corte.
+4. Nos termos do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+5. Hipótese em que a Corte de origem manteve afastado o redutor do tráfico privilegiado, por entender que, além da apreensão de 390,9kg de maconha, o modus operandi do delito revela que o réu estava inserido em organização criminosa. Logo, a modificação desse entendimento, a fim de fazer incidir a minorante da Lei de Drogas, enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus. Precedentes.
+6. Embora o paciente seja primário e a pena tenha sido estabelecida em patamar inferior a 8 anos, as instâncias ordinárias justificaram a escolha do regime inicial fechado, com fundamento nas circunstâncias concretas do delito - especialmente a quantidade de drogas apreendidas (390,9kg de maconha) que foi inclusive valorada na primeira fase da dosimetria, conforme autoriza o art. 33, §2º e 3º, III, "a", do CP.
+7 . Agravo regimental não provido.
+(AgRg no HC n. 815.845/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/6/2023, DJe de 23/6/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL. TRÁFICO DE ENTORPECENTES. PENA-BASE. EXASPERAÇÃO. PROPORCIONALIDADE. GRANDE QUANTIDADE DE DROGAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. Em se tratando de crimes previstos na Lei de drogas, aplica-se o art. 42, que prevê a preponderância da quantidade e/ou da natureza da droga apreendida em relação às demais circunstâncias previstas no art. 59 do CP, cabendo ao magistrado majorar a pena de forma sempre fundamentada, quando identificar dados que extrapolem as circunstâncias elementares do tipo penal básico.
+2. A valoração negativa de uma única vetorial pode justificar o aumento da pena-base até o seu máximo legal, desde que fundamentada circunstanciadamente em elementos do caso concreto e demonstrada a excessiva reprovabilidade da conduta em análise.
+3. No caso, dada a quantidade apreendida de 160kg (cento e sessenta quilogramas) de maconha, não se mostra desarrazoado o aumento da pena-base em 2 anos, ainda que valorada negativamente apenas a quantidade de drogas. Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 807.677/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/5/2023, DJe de 31/5/2023.)
+Desse modo, inexiste flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
