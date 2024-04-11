@@ -1,0 +1,3 @@
+# LEI Nº 22.612, DE 11 DE ABRIL DE 2024
+Dispõe sobre a Declaração Estadual de Direitos de Liberdade Econômica e sobre a atuação do Estado como agente normativo regulador, bem como suplementa, na administração pública direta, autárquica e fundacional do Estado de Goiás, a Lei federal nº 13.874, de 20 de setembro de 2019, para ampliar o alcance das garantias fundamentais à livre iniciativa, ao livre exercício de atividade econômica e à proteção dos valores sociais do trabalho.
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:
