@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Wesley Cardoso Bueno - com condenação transitada em julgado pela prática do delito descrito no art. 205, § 2º, II e IV, c/c o art. 53, § 2º, I, todos do Código Penal Militar, à pena de 12 anos de reclusão, em regime inicial fechado (Processo n. 5002062-81.2008.8.27.2729, do Juízo da Vara da Justiça Militar da comarca de Palmas/TO e Apelação n. 0009153-40.2017.8.27.0000).
+Aponta-se como autoridade coatora o Tribunal de Justiça do Tocantins, que, em 15/2/2024, indeferiu a Revisão Criminal n. 0012059-41.2023.8.27.2700, nos termos desta ementa (fl. 223):
+REVISÃO CRIMINAL MILITAR. HOMICÍDIO. RECONHECIMENTO FOTOGRÁFICO. ART. 226 DO CPP. NULIDADE. AUSÊNCIA DE EFEITOS JURÍDICOS. DEPOIMENTO DA TESTEMUNHA FIRME E COERENTE. CONSONANCIA COM AS DEMAIS PROVAS DOS AUTOS. ABSOLVIÇÃO. MATÉRIA JA ANALISADA. REEXAME DE PROVAS. INVIABILIDADE. PEDIDO IMPROCEDENTE.
+1. A Revisão Criminal é cabível nas hipóteses previstas no art. 551 do CPPM, e, em caráter excepcional, admite-se para fins de alteração da pena, desde que se vislumbre, de forma evidente, um erro técnico ou injustiça, o que não ocorre in casu.
+2. A inobservância das diretrizes contidas no artigo 226 do Código de Processo Penal para o reconhecimento de pessoas não conduz, de forma automática, a absolvição do Requerente e a nulidade da prova, de forma que, existindo outras provas alicerçando a comprovação da autoria por parte do réu, é cabível a condenação, amparado no sistema do livre convencimento motivado/livre apreciação da prova (artigo 155 do CPP).
+3. Considerando que a matéria ora suscitada já foi discutida em sede de Recurso de Apelação e ausentes as hipóteses previstas no Art. 551 do CPPM, é de se indeferir a ação revisional.
+No presente writ, busca-se, em caráter liminar, a expedição de alvará de soltura em nome do paciente. E, ao final, pede-se a concessão da ordem para absolver o réu das cominações a que condenado, alegando-se, para tanto, em suma, nulidade da prova de reconhecimento fotográfico e dos atos dela decorrentes.
+Estes autos foram a mim distribuídos por prevenção (AREsp n. 1.877.032 e HC n. 624.113).
+É o relatório.
+Este writ é inadmissível, porquanto se volta contra acórdão já transitado em julgado (fl. 225), cujo inteiro teor nem sequer foi trazido à colação.
+Ora, o habeas corpus, porquanto vinculado à demonstração de plano de ilegalidade, não se presta a dilação probatória, exigindo prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração, máxime quando se tratar de advogado constituído (HC n. 445.031/PB, Ministro Nefi Cordeiro, Sexta Turma, DJe 29/6/2018).
+Além disso, neste âmbito, não tem cabimento o revolvimento do conjunto fático-probatório da ação penal, após o trânsito em julgado da condenação e exauriente reexame do delineamento fático e probatório coligido aos autos no decorrer da instrução criminal, concluíram pela existência de elementos suficientes a fundamentar a condenação do paciente.
+Não há como afastar, na via eleita, a conclusão da Corte estadual de que a inobservância das diretrizes contidas no artigo 226 do Código de Processo Penal para o reconhecimento de pessoas não conduz, de forma automática, a absolvição do Requerente e a nulidade da prova, de forma que, existindo outras provas alicerçando a comprovação da autoria por parte do réu, é cabível a condenação, amparado no sistema do livre convencimento motivado/livre apreciação da prova (artigo 155 do CPP), fl. 223.
+Pelo exposto, indefiro liminarmente writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS IMPETRADO CONTRA ACÓRDÃO DA REVISÃO CRIMINAL MILITAR TRANSITADO EM JULGADO. HOMICÍDIO QUALIFICADO. INSTRUÇÃO DEFICIENTE DO WRIT. PRETENSÃO DE AMPLO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DA AÇÃO PENAL. DESCABIMENTO.
+Petição inicial indeferida liminarmente.
