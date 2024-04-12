@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de ALEXANDRO RODRIGUES DOS SANTOS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO.
+Extrai-se dos autos que o paciente foi condenado à pena de 4 anos, 1 mês e 15 dias de reclusão, em regime fechado, como incurso no art. 16, § 1º, IV, da Lei n. 10.826/03.
+A defesa interpôs recurso de apelação perante o Tribunal de origem, que negou provimento ao apelo, nos termos do acórdão que recebeu a seguinte ementa:
+"APELAÇÃO CRIMINAL. PROCESSUAL PENAL. POSSE DE ARMA DE FOGO DE USORESTRITO. ART. 16, LEI Nº 10.826/03. REGIME INICIAL PARA CUMPRIMENTO DA PENA. APELANTE REINCIDENTE. RECURSO CONHECIDO E DESPROVIDO.
+1. Não prospera areforma da dosimetria da pena. Por derradeiro, requer a modificação do regime inicial decumprimento de pena fixado em desfavor do apelante. Entretanto, como se vê no art. 33, §2º, b, do Código Penal, poderá cumprir a pena em regime semi-aberto, desde o início, ocondenado não reincidente, cuja pena seja superior a 4 (quatro) anos e não exceda a 8(oito), hipótese diversa dos presentes autos, considerando que o apelante é reincidente.
+2. Recurso conhecido e desprovido." (e-STJ, fls. 12-17)
+Neste writ, a defesa alega, em síntese, que o aumento da pena-base em razão da negativação da dosimetria e das circunstâncias do delito não foi devidamente fundamentado. Entende que o fato de o paciente ter empreendido fuga não constitui fundamento suficiente para se valorar negativamente a culpabilidade. Ainda, aponta que a dispensa da arma de fogo pelo paciente ao ver os policias não desborda do ordinário do tipo e, portanto, não serve como para negativar as circunstâncias do crime.
+Requer a concessão da ordem para que sejam afastados os referidos aumentos e adequado o regime prisional.
+Indeferida a liminar (e-STJ, fls. 29-30), o Ministério Público Federal opina pelo não conhecimento do writ (e-STJ, fls. 61-63).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+A sentença assim procedeu à dosimetria da pena:
+"Em estrita observância ao princípio constitucional de individualização pena, insculpido no artigo 5º, XLVI, da Constituição Federal de 1988, bem como em análise das diretrizes traçadas pelos artigos 59 e 68 do Código Penal, passarei então à dosimetria da pena, partindo do mínimo legal previsto no artigo 16 da Lei nº 10.826/03, qual seja, 03 (três) anos de reclusão:
+a) CULPABILIDADE: após voz de parada, o acusado, que guiava a motocicleta, empreendeu fuga, que se estendeu, ainda, numa perseguição a pé após cair da motocicleta, tendo se adentrado numa plantação de eucalipto, oportunidade em que fora alcançado pelos policiais;
+b) ANTECEDENTES: o acusado é reincidente, o que será considerado na segunda fase da dosimetria;
+c) CONDUTA SOCIAL: não existem nos autos elementos para a sua valoração negativa;
+d) PERSONALIDADE: não há como ser aferida, diante da ausência de parecer nos autos de profissional habilitado;
+e) MOTIVO DO CRIME: inerentes ao tipo penal;
+f) CIRCUNSTÂNCIAS: merecem reprovação, tendo em vista que o acusado dispensou a arma de fogo, após ver os policiais;
+g) CONSEQUÊNCIAS: inerentes ao tipo penal;
+h) COMPORTAMENTO DA VÍTIMA: esta circunstância judicial não pode ser valorada para fins de recrudescimento da pena-base.
+Na primeira fase, considerando as circunstâncias acima, fixo a PENA -BASE em 03 (três) anos e 9 (nove) meses de reclusão.
+Na segunda fase, presente a agravante de reincidência, aumentando a pena ao patamar de 04 (quatro) anos, 01 (um) mês e 15 (quinze) dias de reclusão.
+Na terceira fase, não há qualquer causa de diminuição ou aumento, razão pela qual torno a pena DEFINITIVA em 04 (quatro) anos, 01 (um) mês e 15 (quinze) dias de reclusão.
+Considerando que a pena de multa deve ser fixada proporcionalmente à pena privativa de liberdade aplicada, condeno o réu ao pagamento de 25 (vinte e cinco) dias-multa, aferindo cada um em 1/30 (um trigésimo) do salário-mínimo vigente ao tempo do fato.
+Fixo o regime fechado como sendo o adequado ao cumprimento inicial da pena, em conformidade com o artigo 33, §§ 2º, "a", e 3º, do Código Penal, destacando a reincidência do condenado." (e-STJ, fls. 24-25)
+O Tribunal de origem, ao manter a dosimetria de primeiro grau de jurisdição, assim considerou:
+"Pleiteia a defesa o redimensionamento da pena-base imposta ao apelante a fim de que estaseja fixada no mínimo legal.
+Entretanto, observa-se que a fundamentação para as circunstâncias negativas é idônea.
+Vejamos:
+ ..  a) CULPABILIDADE: após voz de parada, o acusado, que guiava a motocicleta, empreendeu fuga, que se estendeu, ainda, numa perseguição apé após cair da motocicleta, tendo se adentrado numa plantação de eucalipto, oportunidade em que fora alcançado pelos policiais;  ..  f) CIRCUNSTÂNCIAS: merecem reprovação, tendo em vista que o acusadodispensou a arma de fogo, após ver os policiais;  .. .
+No ponto, também não merece acolhimento a alegação em relação ao quantum aplicado,visto que o juiz sentenciante, seguindo o entendimento dos tribunais superiores, aplicou o patamar ideal de exasperação, qual seja a fração de 1/8 do intervalo entre a pena máxima emínima do tipo legal.
+Adiante, requer a aplicação da atenuante da confissão espontânea, pleito que também que não merece acolhimento, pois o apelante negou a prática do delito apurado, como se observa do seu interrogatório em juízo." (e-STJ, fl. 15)
+A individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades. Assim, salvo flagrante ilegalidade, o reexame das circunstâncias judiciais e dos critérios concretos de individualização da pena mostram-se inadequados à estreita via do habeas corpus, por exigirem revolvimento probatório.
+A culpabilidade, para fins do art. 59 do CP, deve ser compreendida como juízo de reprovabilidade da conduta, apontando maior ou menor censura do comportamento do réu. Não se trata de verificação da ocorrência dos elementos da culpabilidade, para que se possa concluir pela prática ou não de delito, mas, sim, do grau de reprovação penal da conduta do agente, mediante demonstração de elementos concretos do delito. No caso concreto, a tentativa de fuga do paciente, dissociada de qualquer circunstância que tenha gerado perigo à coletividade, não basta para a desvaloração do valor culpabilidade.
+Da mesma forma, no tocante às circunstâncias do delito, a simples menção ao fato de o paciente ter tentado se desfazer da arma que trazia consigo não é suficiente para o aumento da pena.
+De rigor, portanto, a redução da pena. A respeito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. NÃO IMPUGNADOS, DE FORMA ESPECÍFICA, OS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO APELO NOBRE. APLICAÇÃO DA SÚMULA N. 182/STJ. SÚMULAS N. 7/STJ E N. 83/STJ. INSURGÊNCIA GENÉRICA. ILEGALIDADE MANIFESTA. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO. CULPABILIDADE DO AGENTE E CONSEQUÊNCIAS DO CRIME. FUNDAMENTAÇÃO INIDÔNEA. PENA REDIMENSIONADA, DE OFÍCIO. REGIME INICIAL ABERTO. CABIMENTO. AGRAVO REGIMENTAL DESPROVIDO. CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO.
+1. Não há previsão regimental de oitiva do Parquet previamente à prolação de decisão pela Presidência no exercício de suas atribuições previstas no art. 21-E, inciso V, do RISTJ. A abertura de vista ao Ministério Público Federal para apresentação de parecer dá-se somente após a distribuição dos autos, caso seja interposto agravo interno contra a decisão da Presidência e não haja retratação (art. 21-E, § 2.º, do RISTJ), como ocorreu no presente caso, não havendo que se falar em prejuízo à parte Agravante.
+2. A parte Agravante, no agravo em recurso especial, deixou de impugnar de forma específica os fundamentos da decisão que não admitiu o recurso especial na origem. Incidência da Súmula n. 182/STJ.
+3. Constatada a existência de ilegalidade manifesta na dosimetria da pena, a ser afastada, sponte propria, por esta Corte Superior, por força do art. 654, § 2.º, do Código de Processo Penal, pois o vetor referente à culpabilidade do agente foi negativado sem qualquer motivação, enquanto a valoração negativa das consequências do delito foi amparada somente na gravidade abstrata do crime de tráfico de entorpecentes e nos seus efeitos danosos à sociedade, o que não se admite.
+4. Considerando a exclusão das circunstâncias judiciais desfavoráveis ora realizada e a detração efetuada na sentença, a pena reclusiva alcança patamar inferior a 4 (quatro) anos, sendo de rigor a fixação do regime inicial aberto.
+5. Agravo regimental desprovido. Concedido habeas corpus, de ofício, para fixar a pena-base no mínimo legal, redimensionando a reprimenda final do Agravante nos termos deste voto e, por conseguinte, estabelecer o regime aberto para o início do cumprimento da pena." (AgRg no AREsp n. 2.379.131/ES, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 6/2/2024, DJe de 14/2/2024.)
+"AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO INFIRMARAM O FUNDAMENTO DO DECISUM ATACADO. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NO ART. 932, III, DO CPC. INCIDÊNCIA DA SÚMULA 182/STJ. DOSIMETRIA. ILEGALIDADE FLAGRANTE. PRIMEIRA FASE. PENA-BASE. EXASPERAÇÃO INDEVIDA. FUNDAMENTAÇÃO GENÉRICA E INIDÔNEA UTILIZADA PARA NEGATIVAR OS VETORES DA CULPABILIDADE, PERSONALIDADE E CIRCUNSTÂNCIAS DO CRIME. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. REDIMENSIONAMENTO QUE SE IMPÕE.
+Agravo regimental não conhecido.
+Habeas corpus concedido de ofício para redimensionar as penas privativa de liberdade e pecuniária do agravante, nos termos da presente fundamentação." (AgRg no AREsp n. 2.205.996/ES, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 12/6/2023, DJe de 16/6/2023.)
+Passo ao refazimento da pena.
+Na primeira etapa da dosimetria, excluídas as desvalorações da culpabilidade e circunstâncias do delito, e ausente outra circunstância judial negativa, a pena-base vai fixada no mínimo legal previsto para o tipo penal, 3 anos de reclusão.
+Na segunda etapa, reconhecida a reincidência e o aumento de 1/6, a pena passa a 3 anos e 6 meses de reclusão a qual, não existindo causas de diminuição e aumento a serem ponderadas, resta como definitiva a ser cumprida em regime semiaberto, em razão da reincidência.
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem, de ofício, para reduzir a pena para 3 anos e 6 meses de reclusão, em regime semiaberto.
+Publique-se.
+Intime-se.
+EMENTA
