@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por LEONARDO JOAQUIM DEL VECHIO DUTRA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS
+Depreende-se dos autos que o Recorrente teve a prisão preventiva decretada, pela prática, em tese, da conduta descrita no art. 311, §2º, III, do Código Penal, ressaltando o Juízo de primeiro grau:
+""Nesse contexto, estou convencido, a prisão preventiva do custodiado é necessária, como garantia da ordem pública. Sem dúvida, a liberdade provisória do custodiado abalaria a ordem pública, com repercussão negativa no seio da comunidade local, podendo atingir, novamente, a incolumidade pública, com a reiteração da conduta criminosa, máxime se se considerar os registros constantes da CAC de ID 10182581837, onde se vê o envolvimento dele em outro crime, inclusive com sentença penal condenatória transitada em julgado (autos nº 0001750-12.2016.8.13.0625), circunstância concreta que demonstra sua periculosidade, ou seja, o periculum libertatis, a justificar a sua segregação cautelar como garantia da ordem pública. Aliás, ainda no tópico, é de se ter em conta que o fato de se tratar de agente reincidente, por si só, impede a concessão da liberdade provisória, com ou sem medidas cautelares, a teor do § 2º do art. 310 do Código de Processo Penal" (fl. 142).
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem. A ordem foi denegada pela Corte local, que manteve a decisão do Juízo de primeiro grau, em acórdão, fls. 160-173.
+Na hipótese, a Defesa aponta a ocorrência de constrangimento ilegal consubstanciado na ausência de fundamentação para a segregação cautelar do Recorrente.
+Aduz que:
+""recorrente não tem envolvimento com práticas criminosas, não denota qualquer periculosidade, não é reincidente e possui bons antecedentes. Ainda, não há registros de que o recorrente tenha intenção de evadir-se do distrito da culpa ou de perturbar o trâmite processual, vez que é hipossuficiente e, até sua prisão e também tem residência fixa com endereço certo" (fl. 191).
+Requer a revogação da segregação cautelar do Recorrente e, subsidiariamente, a aplicação de medidas cautelares alternativas, previstas no art. 319, do Código de Processo Penal.
+É o relatório. DECIDO.
+Pretende o Recorrente o reconhecimento de constrangimento ilegal consubstanciado na ausência de fundamentação concreta para a sua prisão cautelar.
+In casu, a prisão preventiva do Recorrente se encontra devidamente fundamentada, em dados concretos extraídos dos autos, para a garantia da ordem pública, notadamente em razão do fundado receio de reiteração criminosa, pois, conforme consta no decreto prisional, "os registros constantes da CAC de ID 10182581837, onde se vê o envolvimento dele em outro crime, inclusive com sentença penal condenatória transitada em julgado" (fl. 142); circunstâncias que evidenciam um maior desvalor da conduta e periculosidade do Recorrente, justificando a segregação cautelar imposta.
+Sobre o tema:
+"Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade." (RHC 107.238/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 12/03/2019)"(AgRg no HC n. 797.708/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/3/2023).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Abra-se vista ao Ministério Público Federal.
+Publique-se. Intime-se.
+EMENTA
