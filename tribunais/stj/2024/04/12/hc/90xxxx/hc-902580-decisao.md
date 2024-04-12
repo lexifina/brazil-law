@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado pela Defensoria Pública em favor de OTAVIO RODRIGO DELOSTE FOGO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no julgamento da revisão criminal n. 0012712-22.2023.8.26.0000
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 5 anos e 5 meses de reclusão e 541 dias-multa, pela prática do crime descrito no artigo 33, caput, da Lei n. 11.343/06 (fls. 135-141).
+A sentença condenatória transitou em julgado para a acusação e para defesa.
+Inconformada, a defesa ajuizou revisão criminal perante o Tribunal de origem, que, por unanimidade, indeferiu o pleito revisional, consoante voto condutor do acórdão de fls.202-210.
+Dai o presente writ, onde o impetrante aponta constrangimento ilegal na negativa de desclassificação da conduta para prevista no artigo 28 da Lei de Drogas, bem como recusa de compensação integral entre a atenuante da menoridade relativa e a reincidência.
+Requer, assim, em caráter liminar e no mérito, a concessão da ordem para que a conduta seja desclassificada para forma descrita no artigo 28 da Lei de Drogas. Subsidiariamente, pugna pela compensação entre a atenuante da menoridade e a agravante da reincidência.
+É o relatório. DECIDO.
+Conforme relatado, busca-se na presente impetração a desclassificação da conduta imputada. Subsidiariamente, requer a compensação entre a atenuante da menoridade e a agravante da reincidência.
+Inicialmente cumpre ressaltar que o habeas corpus não se presta para a apreciação de alegações que buscam absolvição ou desclassificação de condutas imputadas, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita.
+A propósito do tema, trago à colação os seguintes julgados desta Quinta Turma:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. ROUBO EM CONCURSO DE AGENTES. EXCLUSÃO DA MAJORANTE. EXAME APROFUNDADO DE PROVAS. IMPOSSIBILIDADE. SÚM. N. 7/STJ.
+ ..
+3. As instâncias ordinárias, soberanas na análise das circunstâncias fáticas da causa, entenderam pela presença de liame subjetivo no roubo praticado pelos agentes. Concluir de forma diversa implica exame aprofundado do material fático-probatório, inviável em recurso especial, a teor da Súmula n. 7/STJ.
+4. Agravo regimental a que se nega provimento." (AgRg no AREsp 1364727/DF, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe 22/11/2018, grifei);
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE FURTO QUALIFICADO. ABSOLVIÇÃO. RECONHECIMENTO DA TENTATIVA. EXCLUSÃO DO CONCURSO DE AGENTES. REVOLVIMENTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. TRÂNSITO EM JULGADO DA CONDENAÇÃO. REINCIDÊNCIA. REGIME. SEMIABERTO. POSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. O Tribunal a quo soberana na análise dos elementos fáticos e probatórios dos autos, concluiu que a autoria e a materialidade do crime consumado ficaram devidamente demonstradas nos autos pelas "palavras da vítima em consonância com os dizeres dos milicianos, e a contradição e inverossimilhança das alegações dos acusados." Ademais, não reconheceu a forma tentada tendo em vista que "os réus somente foram encontrados em virtude de diligências encetadas pelos policiais militares" em cooperação recíproca e carregando o portão furtado. No que toca a questão do concurso o aresto combatido frisou que o "ofendido narrou que foram dois indivíduos que, agindo em conjunto, desprenderam o portão de sua residência e, em seguida, evadiram-se com o bem. Não se esqueça, ademais, que ambos foram encontrados pela polícia enquanto, em cooperação recíproca, carregavam o objeto." Nesse contexto, a alteração do julgado, para o fim de absolver, diminuir a reprimenda pela tentativa ou excluir o concurso de agentes, implicaria necessariamente o reexame do material fático-probatório. Todavia, tal providência é inviável nesta sede recursal, a teor do que dispõe o enunciado da Súmula 7/STJ.
+ ..
+5. Agravo regimental não provido." (AgRg no AREsp 420.467/SP, Rel. Ministro Ribeiro Dantas, QUINTA TURMA, julgado em 2/10/2018, DJe 10/10/2018, grifei).
+No tocante ao segundo ponto, verifica-se do que o Tribunal a quo manteve o afastamento da compensação integral entre a atenuante da menoridade e a agravante da reincidência, com fundamento no disposto pelo art. 67, do Código Penal.
+Ocorre que, conforme o entendimento deste Superior Tribunal de Justiça, a confissão espontânea e a menoridade relativa, sendo atributos da personalidade do agente, são igualmente preponderantes com a reincidência e os motivos do delito, consoante disposto no art. 67 do Código Penal, razão pela qual devem ser compensadas, via de regra.
+Ademais, a Terceira Seção deste eg. Superior Tribunal de Justiça, por ocasião do julgamento do Recurso Especial Repetitivo nº 1.341.370/MT, firmou entendimento no sentido de que "é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência", nos termos da seguinte ementa:
+"RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA (ART. 543-C DO CPC). PENAL. DOSIMETRIA. CONFISSÃO ESPONTÂNEA E REINCIDÊNCIA. COMPENSAÇÃO. POSSIBILIDADE.
+1. É possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência.
+2. Recurso especial provido" (REsp n. 1341370/MT, Terceira Seção, Rel. Min. Sebastião Reis Júnior, DJe de 17/4/2013).
+Passo ao redimensionamento da pena:
+Fixada a pena-base no mínimo legal em 5 (cinco) anos de reclusão e compensada a agravante da reincidência com a atenuante da menoridade, fica a reprimenda definitivamente estabelecida em 5 (cinco) anos de reclusão, mais pagamento de 500 (quinhentos) dias-multa, ante a ausência de causas de aumento ou de diminuição na terceira fase da dosimetria.
+O regime fechado permanecerá, nos termos do artigo 33, § 2º, "b", do Código Penal, haja vista a reincidência ostentada pelo paciente.
+Ante o exposto, concedo a ordem apenas para promover a compensação, na segunda fase da dosimetria, entre a atenuante da menoridade e a agravante da reincidência, redimensionando a reprimenda do paciente para 5 (cinco) anos de reclusão, em regime fechado, mais pagamento de 500 (quinhentos) dias-multa, mantido os demais termos da condenação.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
