@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. RECURSO ESPECIAL NÃO ADMITIDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA DO COTEJO ANALÍTICO DO DISSÍDIO JURISPRUDENCIAL APONTADO. ENUNCIADO 182 DA SÚMULA DO STJ.
+1. O recurso especial, para ser admitido, deve preencher os requisitos constitucionais, haja vista que o Superior Tribunal de Justiça (STJ) não é uma instância revisional de decisões de tribunais estaduais ou federais, mas sim tem o dever institucional previsto nos incisos do art. 105 da Constituição da República, dentre eles, uniformizar o entendimento sobre a Lei Federal.
+2. Na petição de agravo de fls. 385-400, não se demonstrou, de forma satisfatória, como seria possível acolher os argumentos do recorrente sem o reexame de fatos e provas, e não foi apresentado o cotejo analítico do apontado dissídio jurisprudencial, haja vista que a defesa técnica, no geral, repetiu argumentos já expostos na petição de recurso especial de fls. 336-348.
+3. Incumbe ao agravante demonstrar o equívoco da decisão agravada, sendo imprescindível que impugne todos os óbices por ela apontados de maneira específica e suficientemente demonstrada (art. 932, III, do CPC, c/c o art. 3º do CPP), por essa razão, no presente caso, aplica-se o óbice do enunciado 182 da Súmula do STJ.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra a decisão de fls. 432-433, que não conheceu do agravo em recurso especial.
+O agravante apontou o princípio da dialeticidade para "infirmar todos os fundamentos da decisão agravada, que não conheceu do Agravo do Recurso Especial, decisão proferida monocraticamente pela Ministra Presidente do STJ", e sustenta que pretende "o reconhecimento do direito, que foram violados, conforme dispositivos legais de norma federal, quais sejam: artigo 65, III, a do Código Penal, o artigo 68 parágrafo único do Código penal, Súmula 443 do STJ, razão pela qual, faz se necessária a revaloração jurídica dos fatos, com a devida aplicação do direito ao caso concreto, conforme precedentes dessa Corte Superior" (fl. 442).
+Portanto, pretende-se o provimento do agravo regimental, a fim de ser admitido o recurso especial.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. RECURSO ESPECIAL NÃO ADMITIDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA DO COTEJO ANALÍTICO DO DISSÍDIO JURISPRUDENCIAL APONTADO. ENUNCIADO 182 DA SÚMULA DO STJ.
+1. O recurso especial, para ser admitido, deve preencher os requisitos constitucionais, haja vista que o Superior Tribunal de Justiça (STJ) não é uma instância revisional de decisões de tribunais estaduais ou federais, mas sim tem o dever institucional previsto nos incisos do art. 105 da Constituição da República, dentre eles, uniformizar o entendimento sobre a Lei Federal.
+2. Na petição de agravo de fls. 385-400, não se demonstrou, de forma satisfatória, como seria possível acolher os argumentos do recorrente sem o reexame de fatos e provas, e não foi apresentado o cotejo analítico do apontado dissídio jurisprudencial, haja vista que a defesa técnica, no geral, repetiu argumentos já expostos na petição de recurso especial de fls. 336-348.
+3. Incumbe ao agravante demonstrar o equívoco da decisão agravada, sendo imprescindível que impugne todos os óbices por ela apontados de maneira específica e suficientemente demonstrada (art. 932, III, do CPC, c/c o art. 3º do CPP), por essa razão, no presente caso, aplica-se o óbice do enunciado 182 da Súmula do STJ.
+4. Agravo regimental improvido.
+VOTO
+A decisão agravada foi fundamentada nos seguintes termos (fls. 432-433):
+Cuida-se de agravo em recurso especial apresentado por ANDERSON DA SILVA COSTA contra decisão que inadmitiu recurso especial interposto com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 182/STJ, divergência não comprovada e Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos. Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial. A propósito:
+ ..
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+O recurso especial foi interposto com fundamento no art.105, III, a e c, da Constituição da República, e nele argumenta-se a contrariedade aos arts. 65, III, e 68, parágrafo único, do Código Penal. Pretende-se o redimensionamento da pena e, por consequência, a fixação de regime menos gravoso, considerando-se a confissão do acusado e a ausência de fundamentação idônea para a majoração da pena na terceira fase da dosimetria.
+O recurso não foi admitido, pois nele se pretende rediscutir fatos e provas, a fim de redimensionar a pena, o que encontra óbice no enunciado 7 da Súmula desta Corte Superior, além de não haver na peça recursal o cotejo analítico do suposto dissídio jurisprudencial.
+Na petição de agravo de fls. 385-400, não se demonstrou, de forma satisfatória, como seria possível acolher os argumentos do recorrente sem o reexame de fatos e provas, e não foi apresentado o cotejo analítico do apontado dissídio jurisprudencial, haja vista que a defesa técnica, no geral, repetiu argumentos já expostos na petição de recurso especial de fls. 336-348.
+A ausência de impugnação adequada aos fundamentos apresentados pelo Tribunal de origem para não admitir o recurso especial, nos termos do art. 932, III, do Código de Processo Civil (CPC), obsta o conhecimento do agravo, porque o propósito desse recurso é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso anterior, por meio de impugnação específica de cada um deles.
+Incumbe ao agravante demonstrar o equívoco da decisão agravada, sendo imprescindível que impugne todos os óbices por ela apontados de maneira específica e suficientemente demonstrada (art. 932, III, do CPC, c/c o art. 3º do CPP), por isso, no presente caso, aplica-se o óbice do enunciado 182 da Súmula do STJ, e não há motivo para reformar a decisão agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
