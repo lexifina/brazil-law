@@ -1,0 +1,20 @@
+DECISÃO
+Na origem, trata-se de ação ordinária objetivando o restabelecimento do fornecimento de energia elétrica, bem como se abstenha de incluir o nome do requerente junto aos cadastros de proteção ao crédito e a condenação da requerida à repetição do indébito das faturas de 05/2021 a 10/2021, bem como ao pagamento de R$10.000,00 (dez mil reais) a título de danos morais, sem prejuízo do pagamento de custas e honorários. Na sentença, julgou-se o pedido improcedente. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 15 .000,00.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO CÍVEL. CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANO MORAL E PEDIDO DE TUTELA DE URGÊNCIA. IMPROCEDÊNCIA DA DEMANDA. RECURSO DO AUTOR. PRELIMINAR DE ANULAÇÃO DA SENTENÇA POR ALEGADA AUSÊNCIA DE INDICAÇÃO NA PUBLICAÇÃO DA INTIMAÇÃO DA DECISÃO DO NOME E OAB DO ADVOGADO DA PARTE AUTORA. REJEIÇÃO. PARTE QUE ATUA EM CAUSA PRÓPRIA, DEVIDAMENTE VINCULADO AO FEITO, TENDO A PUBLICAÇÃO DA SENTENÇA NO DJE OCORRIDO EM SEU NOME E OAB. PRELIMINAR DE ANULAÇÃO DA SENTENÇA POR AUSÊNCIA DE ANÁLISE DO PEDIDO DE SUSPENSÃO DO PROCESSO POR DEPENDÊNCIA DE OUTRA CAUSA.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Afirma o autor que no período de constatou 05/2021 a 07/2021uma cobrança fora dos padrões de consumo da unidade consumidora 3/12990-53-7, tendo sido solicitado uma inspeção no medidor no dia 16/08/2021, com realização do procedimento marcado para o dia 30/08/2021, o que não ocorreu.
+Refere que em um funcionário da concessionária13/10/2021dirigiu-se à unidade consumidora para proceder com o corte/suspensão da energia, quando então indagou porque não recebeu as faturas dos meses de agosto e setembro daquele ano, bem como não recebeu notificação prévia de corte.
+Requereu, então, a concessão de antecipação de tutela para a manutenção do fornecimento de energia elétrica, obstando a inclusão do nome do autor nos órgãos de proteção ao crédito, bem como seja determinado ao réu que realize a inspeção no medidor de energia, conforme solicitado administrativamente; a procedência da ação, confirmando a tutela concedida; a condenação da empresa à repetição do indébito das faturas de05/2021 a 10/2021 e a condenação por danos morais em valor não inferior a R$10.000,00 (dez mil reais).
+ ..
+Portanto, não há que prosperar o argumento do autor de que não recebeu notificação prévia do corte, uma vez que o aviso de corte de energia, acaso não efetivado o pagamento, estava inserido na própria conta de energia elétrica.
+ ..
+Portanto, considerando que o corte/interrupção de energia elétrica decorreu do inadimplemento do usuário/demandante, bem como que não constatado erro no medidor do consumo da unidade, restou configurada a inexistência de ato ilícito capaz de gerar danos morais ou materiais ao autor.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
