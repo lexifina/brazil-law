@@ -1,0 +1,14 @@
+DECISÃO
+A defesa alega sofrer constrangimento ilegal no seu direito de locomoção em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado de Pernambuco no HC 0017279-14.2023.8.17.9000.
+A defesa busca o redimensionamento da reprimenda e o reconhecimento da prescrição.
+Decido.
+De plano, registro que este habeas corpus não pode ser conhecido.
+Com efeito, sentença condenatória foi proferida em 6/6/2005 e a apelação foi julgada em 12/5/2009. Em seguida, de acordo com o Tribunal estadual, "os réus interpuseram uma série de recursos":
+Recurso especial na Apelação Criminal- não admitido em decisão datada de 28.02.2011. Recurso extraordinário não admitido em 28.02.2011 Agravo em Recurso Especial (STJ- 127276/PE)- em 02.09.2015, o STJ determinou que o TJPE se pronunciasse sobre o pedido de devolução do prazo para interposição de recurso contra as decisões emanadas pelo vice presidente do TJPE. Em 09.06.2016 foi publicada decisão do TJPE reconhecendo tempestivos os Ag em RE e Ag em REsp e determinando remessa ao STJ. Ag em REsp (STJ 127276)- não conhecimento dos recursos especiais em 03.02.2017. O decisum determinou a expedição do mandado de prisão e guia de recolhimento ao juízo da VEC para imediata execução das penas impostas aos agravantes. EDcl no AREsp- rejeitados em 10.04.17. AgRg nos EDcl no AREsp- negou-se provimento em 19.10.2017. EDcl no AgRg nos EDcl no AREsp- rejeitados em 28.11.2017. EDcl nos EDcl no AgRg nos EDcl no AREsp- rejeitados em 13.02.2023. EDcl nos EDcl nos EDcl no AgRg nos EDcl no AREsp- em 29.03.2023 decisão de NÃO CONHECIMENTO ANTE O ABUSO DO DIREITO DE DEFESA.
+Em 14/8/2023, a defesa impetrou habeas corpus perante o Tribunal estadual, que é, portanto, substitutivo de revisão criminal, razão pela qual a Corte de origem, acertadamente, não conheceu do apelo.
+Nesse contexto, tendo em vista que a matéria ora impugnada não foi nem sequer tangenciada pelo Tribunal de origem, que nada tratou a respeito da matéria, não há como a questão ser apreciada diretamente por esta Corte Superior de Justiça, sob pena de, se assim o fizer, incidir em indevida supressão de instância.
+Registro, por oportuno, que tal matéria deveria haver sido suscitada perante o Juízo competente no prazo oportuno, até para possibilitar às instâncias ordinárias, soberanas na análise de provas como referido alhures, um pronunciamento seguro sobre a questão, de modo que é vedada, portanto, a inauguração, em habeas corpus, de tese defensiva não aventada e não debatida na via ordinária.
+Ilustrativamente: "Evidenciado que os temas levantados não foram objeto de debate e decisão por parte de órgão colegiado do Tribunal de origem, sobressai a incompetência desta Corte para o exame das matérias, sob pena de indevida supressão de instância" (HC n. 164.785/MS, Rel. MinistroGilson Dipp, 5ª T., DJe 8/6/2011).
+À vista do exposto, não conheço do recurso em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
