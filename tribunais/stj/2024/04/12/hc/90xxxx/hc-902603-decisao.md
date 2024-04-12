@@ -1,0 +1,26 @@
+DECISÃO
+Neste habeas corpus, impetrado em benefício de Waldeke de Lima Alexandre - condenado como incurso no art. 33, caput, da Lei n. 11.343/2006, à pena de 4 anos e 2 meses de reclusão, em regime inicial semiaberto, e 416 dias-multa (Autos n. 0000689-98.2016.8.26.0223) -, requer-se a concessão liminar da ordem a fim de que seja aplicada a causa de diminuição do tráfico privilegiado, no patamar máximo de 3/5.
+Alega-se que, muito embora seja reconhecido o tráfico privilegiado tanto na sentença condenatória quanto no acórdão impugnado, releva notar que a aplicação tímida da redutora constitui flagrante ilegalidade porque submete o paciente a cumprir pena privativa de liberdade em regime mais gravoso, quando poderia até mesmo cumprir pena de restrição a direitos (fl. 8).
+É o relatório.
+Ao que se observa, a condenação do paciente é definitiva, ante o trânsito em julgado da condenação, ocorrido para a defesa em 4/11/2020.
+Assim, o presente habeas corpus é sucedâneo de revisão criminal.
+Ocorre que, como não existe neste Tribunal Superior julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido.
+Nesse sentido, confiram-se:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO, SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. SUPRESSÃO. INADMISSIBILIDADE. PEDIDO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. DESCABIMENTO. INICIATIVA DO ÓRGÃO JULGADOR.
+Agravo regimental improvido.
+(AgRg no HC n. 494.794/MA, de minha relatoria, Sexta Turma, DJe 11/4/2019).
+ ..
+1. O habeas corpus foi impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo transitado em julgado; é, portanto, substitutivo de revisão criminal. Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.  ..
+(HC n. 288.978/SP, de minha relatoria, rel. p/ acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/5/2018).
+No entanto, há ilegalidade apta a justificar a concessão de habeas corpus de ofício, em razão da não aplicação da causa de diminuição da pena, prevista no art. 33, § 4º, da Lei de Drogas, no patamar máximo de 2/3.
+Embora a quantidade e variedade das drogas apreendidas constituam elementos concretos e idôneos a justificar a eleição do quantum do redutor, entendo que a quantidade de substâncias trazida pelo acusado não foi elevada (25,8 g de maconha e 7,2 g de cocaína), de maneira que se mostra manifestamente desproporcional sopesar, no caso ora analisado, apenas a natureza diversificada das substâncias tóxicas para justificar a incidência da minorante no patamar de 1/6.
+Em contexto como o dos autos, a variedade de substâncias tóxicas, em quantidade que não se mostra expressiva, é inerente ao próprio crime previsto no art. 33, caput, da Lei n. 11.343/2006, e daí não se pode extrair, isoladamente, a dedicação do acusado a atividades criminosas, sobretudo por ser o réu primário. Nem mesmo o fato de ter sido flagrado em ponto de venda de drogas é argumento hábil à presunção de que fazia do tráfico seu meio de vida.
+Com efeito, na falta de parâmetros idôneos que justifiquem o maior rigor punitivo, deve a redutora ser aplicada na fração máxima, de 2/3 (HC n. 475.678 SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 19/2/2019). Fixa-se, assim, a pena final em 1 ano e 8 meses de reclusão, e 166 dias-multa.
+Quanto ao regime inicial de cumprimento da condenação, sendo o acusado primário e aplicada a causa especial de diminuição da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, fixada a reprimenda final em quantum inferior a 4 anos de reclusão, é possível o estabelecimento do regime inicial aberto, a teor do disposto no art. 33, § 2º, c, do Código Penal, sendo viável, também, a substituição da pena privativa de liberdade por restritivas de direitos.
+Ante o exposto, não conheço do writ, porém concedo habeas corpus de ofício, a fim de aplicar o redutor do art. 33, § 4º, da Lei n. 11.343/2006, na fração de 2/3, ficando a pena do paciente estabelecida em 1 ano e 8 meses de reclusão, e 166 dias-multa, no regime inicial aberto, devendo o Juízo competente proceder à substituição da pena privativa de liberdade por restritivas de direitos, consoante o disposto no art. 44 do Código Penal.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS (25,8 G DE MACONHA E 7,2 G DE COCAÍNA). WRIT IMPETRADO CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. AUSÊNCIA DE JULGAMENTO DE MÉRITO NO STJ. INCOMPETÊNCIA. REDUTOR DO ART. 33, § 4º, DA LEI ESPECIAL. INCIDÊNCIA DA FRAÇÃO DE 2/3. VIABILIDADE. REGIME INICIAL. PENA INFERIOR A 4 ANOS. AUSÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. PRIMARIEDADE. ADEQUAÇÃO DO ABERTO. SUBSTITUIÇÃO DA PENA. POSSIBILIDADE. EVIDENTE CONSTRANGIMENTO ILEGAL.
+Writ não conhecido. Habeas corpus concedido de ofício, nos termos do dispositivo.
