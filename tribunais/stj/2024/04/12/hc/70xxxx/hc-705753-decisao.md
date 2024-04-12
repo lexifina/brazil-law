@@ -1,0 +1,38 @@
+DECISÃO
+LEANDRO ALMEIDA DE LIMA alega sofrer coação ilegal em razão de acórdão do Tribunal de Justiça do Estado de São Paulo na Revisão Criminal n. 0044897-21.2020.8.26.0000.
+O paciente foi condenado, com trânsito em julgado, como incurso no art. 157, §§ 2º, I e II (por duas vezes), e 3º, última parte, à sanção de 46 anos e 8 meses de reclusão, em regime fechado.
+O pedido de revisão criminal não foi conhecido.
+Nesta impetração, a defesa pretende a absolvição, por insuficiência de provas, a desclassificação do latrocínio para os crimes de roubo majorado ou de homicídio e a reanálise da pena imposta - fixação da pena-base no mínimo legal e a aplicação da fração de 2/3 pela tentativa.
+Prestadas as informações, o Ministério Público Federal opinou pela "não admissão do writ, descabida a concessão de um habeas corpus ex officio" (fl. 101).
+Decido.
+Constato que não foi analisado o pedido liminar, que fica prejudicado, pois a causa encontra-se madura para julgamento definitivo, o que será feito a seguir.
+Quanto à admissão do pedido revisional, o Tribunal local destacou o seguinte (fl. 49):
+Nenhum fato ou argumento novo que justifique a desconstituição da coisa julgada foi trazido no instrumento revisional; o que se busca, na verdade, é a mera releitura de matéria já analisada à exaustão nos dois graus de jurisdição, hipótese não prevista para a revisão criminal.
+Logo, à falta de amparo nas hipóteses de admissibilidade (artigo 621,incisos I, II e III, do CPP), não se conhece do pedido.
+ ..
+No mais, quanto ao pleito de reanálise da pena, ele também não merece conhecimento, já que é mera reiteração de outro anteriormente desacolhido.
+Trata-se, nesse ponto, e como já dito, de um segundo pedido revisional, em que o peticionário, sem apresentar novos argumentos, reitera seu propósito de ver reduzida a reprimenda, inclusive com o reconhecimento da continuidade delitiva, matéria que foi largamente apreciada por este C. 7ª Grupo de Direito Criminal, nos autos da Revisão Criminal nº 0060392-18.2014.8.26.0000, que, aliás, deferiu em parte o pedido a fim de reduzir a pena corporal do suplicante para 46 (quarenta e seis)anos e 08 (oito) meses de reclusão (fls. 480/503).
+Incide, destarte, a restrição prevista no art. 622, parágrafo único, do Código de Processo Penal, motivo pelo qual não se conhece da revisão criminal deduzida em repetição.
+Da leitura das razões desta impetração, verifico que a defesa se limitou a apontar ilegalidades no acórdão atacado e deixou de impugnar os fundamentos acima transcritos - notadamente a falta de amparo da pretensão nas hipóteses de admissibilidade previstas no art. 621, I, II e III, do CPP e o não conhecimento do pedido de revisão da pena por ele ser mera reiteração de outro anteriormente não acolhido.
+Por não refutar a fundamentação empregada pela instância antecedente, o impetrante incorre em violação do dever de dialeticidade, razão por que o writ não merece conhecimento.
+Se as razões do habeas corpus ou de seu recurso ordinário não atacam as conclusões do Tribunal de origem, ou seja, estão dissociadas dos fundamentos da decisão de segundo grau, há violação do princípio da dialeticidade.
+Nesse sentido:
+ ..  O princípio da dialeticidade impõe, àquele que impugna uma decisão judicial, o ônus de demonstrar, satisfatoriamente, o equívoco dos fundamentos nela consignados. Ao levar a questão à instância superior, não basta que a Parte apenas reitere as alegações declinadas na origem, mas, sobretudo, que enfrente, primeiramente, as próprias razões de decidir consignadas no ato impugnado. Tal princípio, aliás, não é restrito apenas aos recursos, mas também às vias autônomas de impugnação, como é o caso do habeas corpus. Precedentes  ..  (AgRg no HC n. 810.027/SP, relatora Ministra Laurita Vaz, 6ª T., DJe 20/10/2023).
+Nessa linha, a seguinte decisão monocrática: RHC n. 187.492/SC, Ministro Rogerio Schietti Cruz, DJe 6/12/2023.
+O acórdão recorrido encontra respaldo na pacífica a jurisprudência do STJ, de que:
+A revisão criminal tem o seu cabimento previsto no rol taxativo do art. 621, I, II e III, do Código de Processo Penal, não constituindo instrumento adequado para reabrir, a qualquer tempo, a discussão sobre questões decididas fundamentadamente e de forma definitiva, por simples irresignação ou descontentamento da parte em relação ao provimento jurisdicional transitado em julgado (AgRg na RvCr n. 5.713/DF, relator Ministro Jorge Mussi, Corte Especial, julgado em 7/6/2022, DJe de 9/6/2022).
+É firme a orientação deste Superior Tribunal, segundo a qual "a revisão criminal não pode ser adotada como segunda apelação, pretensão esta claramente visada pela defesa ao postular rediscussão de matéria com revolvimento de acervo probatório" (AgRg no HC n. 868.096/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/11/2023, DJe de 1/12/2023).
+Ainda que assim não fosse, como delineado no acórdão, "a prova reunida em detrimento do ora peticionário é robusta, com ênfase para os relatos de vítimas e de policiais ouvidos no decorrer da instrução" (fl. 51). A Corte de origem acrescentou que "O que permanece, portanto, é o ataque ao patrimônio e durante essa ação, se deu a morte de FLÁVIO". Além disso, pontuou que é "Inegável, outrossim, o animus necandi, vez que o réu atirou contra a vítima a curta distância" (fl. 52, grifei).
+Alterar as referidas conclusões, com o intuito de absolver o sentenciado ou de desclassificar sua conduta, demandaria revolvimento fático-probatório inviável na seara do habeas corpus.
+Com efeito, "A hipótese de insuficiência ou fragilidade do arcabouço probatório não encontra respaldo em nenhuma das hipóteses legais de cabimento da revisão criminal, previstas nos incisos do art. 621 do Código de Processo Penal - CPP" (AgRg no REsp n. 2.004.958/RJ, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 29/6/2023).
+Ademais, as questões relativas à dosimetria não foram debatidas pelo Tribunal a quo, no acórdão de revisão criminal, e não podem ser examinadas diretamente por esta Corte, sob pena de indevida supressão de instância.
+Verifico que os pedidos ora postos, além de não haverem sido objeto de recurso especial em momento oportuno, já foram exaustivamente apreciados na apelação e nas duas revisões criminais ajuizadas. Não há como prolongar indefinidamente o reexame de decisão transitada em julgado, em clara subversão do sistema recursal, o que certamente ofende a garantia constitucional da coisa julgada.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. MATÉRIA JÁ SUBMETIDA À REVISÃO CRIMINAL. AUSÊNCIA DE ILEGALIDADE MANIFESTA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Em nenhum momento, a defesa se insurgiu, no momento processual oportuno, contra a pena que foi aplicada ao acusado, somente havendo questionado a reprimenda já depois do trânsito em julgado da condenação, por ocasião do ajuizamento da revisão criminal.
+2. Se a Corte de origem, ao indeferir a revisão criminal, concluiu que a condenação do acusado seria substancialmente justa e harmônica com as provas produzidas nos autos - tanto que não identificou nenhuma das hipóteses previstas no art. 621 do Código de Processo Penal -, não há razões para o processamento deste habeas corpus, em que se discute, novamente, matérias que já foram verticalmente analisadas pelas instâncias de origem, inclusive já submetidas à revisão criminal.
+3. Agravo regimental não provido.
+(AgRg no HC n. 426.171/MS, Rel. Ministro Rogerio Schietti Cruz, 6ª T., DJe 27/3/2018, grifei).
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
