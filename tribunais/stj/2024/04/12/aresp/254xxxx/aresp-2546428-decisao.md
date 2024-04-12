@@ -1,0 +1,16 @@
+DECISÃO
+Na origem, trata-se de liquidação de sentença por arbitramento. Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 1.000,00 (mil reais).
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL contra acórdão com o seguinte resumo de ementa:
+RECURSO DE APELAÇÃO - LIQUIDAÇÃO INDIVIDUAL DE SENTENÇA COLETIVA - OBRIGAÇÃO DO LIQUIDANTE DE DEMONSTRAR QUE SOFREU O DANO REPUTADO ILÍCITO NA AÇÀO COLETIVA - TITULARIDADE DO DIREITO NÀO AUFERIDA - EXTINÇÃO DO FEITO - RECURSO IMPROVIDO - SENTENÇA MANTIDA. I) NA LIQUIDAÇÃO DA SENTENÇA GENÉRICA, O LIQUIDANTE TEM OBRIGAÇÃO DE DEMONSTRAR QUE SOFREU PESSOALMENTE O DANO REPUTADO ILÍCITO NA AÇÀO CIVIL COLETIVA E QUE É TITULAR DO DIREITO TUTELADO. NÀO DEMONSTRADA A TITULARIDADE DO CRÉDITO PELO LIQUIDANTE, O PROCEDIMENTO DEVE SER EXTINTO. II) RECURSO NÃO PROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Dessa feita, não se desincumbiu do dever de trazer a documentação necessária para investigação da titularidade do direito tutelado na ação coletiva e para definição do quantum debeatur, de modo que a extinção da liquidação é medida que se impõe.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação (artigos 509, 535, 927, 507, 508, 434, 373, 435, todos do CPC)), esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
