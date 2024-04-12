@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra o acórdão assim ementado (fl. 99):
+HABEAS CORPUS - Pleito de conversão de liberdade provisória em prisão domiciliar - Pedido incompatível com a natureza do Habeas Corpus - Inadmissível o manejo do remédio constitucional para restringir a liberdade de locomoção - Prisão domiciliar requerida, na verdade, com base no artigo 117 da Lei de Execução Penal, como forma de antecipação de cumprimento da pena - Pedido não formulado ao Juízo da Execução, mesmo porque o cumprimento da pena ainda não se iniciou - Deliberação sobre o tema, por esta Corte, que ensejaria inaceitável supressão de instância - ORDEM NÃO CONHECIDA
+A paciente foi condenada às penas 8 (oito) anos de reclusão, no regime inicial fechado, e ao pagamento de 600 (seiscentos) dias multa de menor valor, como incursos no artigo 33, caput, da Lei n. 11.343/2006 e no artigo 148, na forma do artigo 69, ambos do Código Penal, por meio de sentença proferida em 31/1/2020. O Tribunal de origem, em 3/8/2021, negou provimento ao apelo da Defesa e deu parcial provimento ao apelo do Ministério Público, reformando a sentença para condenar a paciente e os corréus também por associação criminosa, ficando a pena privativa de liberdade da paciente redimensionada em 9 (nove) anos de reclusão.
+A defesa técnica recorreu ao STJ, sendo que, neste momento, aguarda-se o desfecho do Agravo Regimental interposto no Agravo em Recurso Especial nº 2.171.055/SP, inexistindo, por ora, trânsito em julgado.
+A impetrante requer que a liberdade provisória concedida à paciente seja substituída por prisão domiciliar, argumentando que "não há outro meio para interpor o presente pedido, se não o habeas corpus, uma vez que em caso da condenação transitar em julgado, a Paciente certamente será detida, e o tempo em que permaneceu praticamente reclusa, não contará para fins de detração de pena" (fl. 5), e, "desde que obteve o benefício da liberdade provisória, a Paciente não se envolveu em qualquer ato criminoso, tal qual era antes de ser detida pelo delito sub judice" (fl. 5).
+É o relatório.
+Decido.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ. Assim como, cabe ainda decidir liminarmente o pedido quando esse é manifestamente incabível, ou faltar alguma das condições da ação.
+No presente caso, o pedido é manifestamente incabível por ausência de condição da ação, haja vista que a tutela requerida não é necessária e nem adequada, porque, como a própria impetrante informou, a paciente responde ao processo em liberdade, e - de forma absurda - a defesa requer a decretação da prisão da paciente. Ressalta-se que a prisão domiciliar é uma espécie de custódia, porém determinada em situações excepcionais previstas no CPP.
+Portanto, não há nenhum ato coator, e o direito de locomoção da paciente não foi cerceado, porque ela responde ao processo em liberdade.
+De qualquer forma, nem caberia a manifestação do STJ quanto ao pedido, no mínimo peculiar, da defesa técnica, pois o writ de origem não foi conhecido pelo Tribunal estadual, sob pena de indevida supressão de instância.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
