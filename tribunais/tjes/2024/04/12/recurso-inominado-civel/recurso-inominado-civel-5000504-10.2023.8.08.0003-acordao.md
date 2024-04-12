@@ -1,0 +1,60 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5000504-10.2023.8.08.0003
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: DEPARTAMENTO ESTADUAL DE TRANSITO DO ESPIRITO SANTO
+RECORRIDO: JOSE VANDERLI FAVERO
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, julgar prejudicado o recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. AÇÃO DE ANULAÇÃO DE ATO ADMINISTRATIVO E INDENIZAÇÃO POR DANOS MORAIS. SUSPENSÃO E CASSAÇÃO INDEVIDAS DE CNH. NARRA A PARTE AUTORA QUE TEVE CONTRA SI ABERTO PROCEDIMENTO ADMINISTRATIVO PARA A SUSPENSÃO DE SUA CNH, EM DECORRÊNCIA DE INFRAÇÕES DE TRÂNSITO COMETIDAS POR TERCEIROS, PARA QUEM O AUTOMÓVEL DO AUTOR FOI VENDIDO. SENTENÇA QUE RECONHECEU A PERDA DO OBJETO DA AÇÃO EM RELAÇÃO AO PEDIDO DE DECLARAÇÃO DE NULIDADE DO PROCEDIMENTO ADMINISTRATIVO E DEU PROCEDÊNCIA AO PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. RECURSO DA PARTE REQUERIDA PUGNANDO PELA REFORMA DA SENTENÇA PARA QUE SEJAM JULGADOS IMPROCEDENTES OS PEDIDOS AUTORAIS.
+RECURSO CONHECIDO E PREJUDICADO ANTE O RECONHECIMENTO DA ILEGITIMIDADE DO DETRAN
+.
+ENTENDO QUE MERECE SER ACOLHIDA A PRELIMINAR DE ILEGITIMIDADE PASSIVA PARA A DISCUSSÃO APRESENTADA. O DETRAN/ES É PARTE ILEGÍTIMA PARA DISCUTIR A VALIDADE DE MULTAS LAVRADAS POR OUTROS ÓRGÃOS AUTORES, E OS NATURAIS EFEITOS DESTAS, VERIFICANDO-SE QUE, NO PRESENTE CASO, A INFRAÇÃO IMPUGNADA FOI LAVRADA PELA POLÍCIA RODOVIÁRIA FEDERAL/UNIÃO, A QUAL NÃO INTEGRA O POLO PASSIVO DA LIDE, CONSOANTE RECENTE DELIBERAÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA NO JULGAMENTO DO RESP Nº 2074416-ES, O QUAL RECONHECEU
+“A ILEGITIMIDADE PASSIVA DO DETRAN PARA FIGURAR NO POLO PASSIVO DE DEMANDA QUE VISE A EXCLUSÃO DO PRONTUÁRIO DE PONTUAÇÃO DECORRENTE DE AUTUAÇÃO DE OUTROS ÓRGÃOS PERTENCENTES AO SISTEMA NACIONAL DE TRÂNSITO
+”. A PRETENSÃO DE ANULAÇÃO DE INFRAÇÃO DE TRÂNSITO DEVE SER DIRECIONADA AO ÓRGÃO AUTUADOR
+.
+ISTO POSTO, CONHEÇO DO RECURSO INOMINADO, MAS DECLARO O MESMO PREJUDICADO, ANTE O RECONHECIMENTO DA ILEGITIMIDADE PASSIVA DO DETRAN/ES PARA FIGURAR NO POLO PASSIVO DA DEMANDA, MOTIVO PELO QUAL JULGO EXTINTO O PROCESSO, SEM RESOLUÇÃO DE MÉRITO, NA FORMA DO ART. 485, VI, DO CPC
+.
+SEM CUSTAS E HONORÁRIOS.
+
+É como voto
+
+RAPHAEL RIBEIRO SANCHES
+
+JUIZ LEIGO
+
+O Sr. Juiz de Direito Relator Dr.
+GRÉCIO NOGUEIRA GRÉGIO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pelo Ilmo. Juiz Leigo e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
