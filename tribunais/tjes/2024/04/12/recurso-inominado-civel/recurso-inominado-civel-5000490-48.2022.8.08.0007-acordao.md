@@ -1,0 +1,68 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5000490-48.2022.8.08.0007
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: VALE S.A.
+RECORRIDO: ELZI MARIA KLEIN RAMOS e outros (3)
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. CANCELAMENTO DE VIAGEM DE TREM. ALEGAM OS AUTORES QUE ADQUIRIRAM JUNTO À RÉ PASSAGENS DE TREM DE IDA E VOLTA DE CARIACICA A BAIXO GUANDU. NARRAM QUE A VIAGEM DE IDA ACONTECEU ADEQUADAMENTE, MAS AO CHEGAREM À ESTAÇÃO FERROVIÁRIA PARA RETORNAR, FORAM SURPREENDIDOS COM A INFORMAÇÃO DE QUE NÃO HAVERIA TREM PARA AQUELA DATA. ADUZEM QUE TIVERAM PREJUÍZOS MATERIAIS EM DECORRÊNCIA DO CANCELAMENTO DA VIAGEM, RELACIONADOS À NECESSIDADE DE CONTRATAR HOSPEDAGEM E ADQUIRIR ALIMENTAÇÃO. PUGNAM PELA CONDENAÇÃO DA RÉ NO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTES OS PEDIDOS AUTORAIS, CONDENANDO A RÉ NO PAGAMENTO DE R$839,92 A TÍTULO DE DANO MATERIAL E R$1.000,00 PARA CADA AUTOR PELOS DANOS MORAIS SOFRIDOS. RECURSO INOMINADO REQUERENDO A REFORMA DA SENTENÇA PARA NEGAR PROVIMENTO AOS PLEITOS AUTORAIS.
+RECURSO CONHECIDO E IMPROVIDO
+. RESTA INCONTROVERSO QUE A VIAGEM DE VOLTA FOI CANCELADA. OCORRE, PORÉM, QUE MESMO DIANTE DA ALEGAÇÃO DA RECORRENTE DE QUE HOUVE AVARIAS NOS TRILHOS EM DECORRÊNCIA DE EROSÕES, RESTOU CONFIGURADA FALHA NA PRESTAÇÃO DOS SERVIÇOS, RELACIONADA À AUSÊNCIA DE INFORMAÇÃO PRÉVIA AOS PASSAGEIROS E, PRINCIPALMENTE, À NEGATIVA DE ASSISTÊNCIA ÀQUELES QUE EMBARCARIAM NA VIAGEM QUE FOI CANCELADA. A REQUERIDA SE LIMITOU A DEVOLUÇÃO DO VALOR PAGO PELAS PASSAGENS, SENDO QUE FALHOU AO PRESTAR ATENDIMENTO QUANTO AO RETORNO DOS AUTORES PARA SUA RESIDÊNCIA, JÁ QUE ESSES JÁ SE ENCONTRAVAM NA ESTAÇÃO À ESPERA DO TREM. NOTORIAMENTE AS SOLUÇÕES APRESENTADAS PELA RECORRENTE SE MOSTRAVAM INSATISFATÓRIAS, UMA VEZ QUE OS AUTORES SE ENCONTRAVAM FORA DE SUA RESIDÊNCIA, EM RETORNO PARA A MESMA, RAZÃO PELA QUAL SOLUÇÃO MAIS ADEQUADA DEVERIA TER SIDO PROVIDENCIADA. REEMBOLSO QUE DEVE SER MANTIDO EIS QUE VIABILIZOU O RETORNO PARA CASA. RESPONSABILIDADE DA RECORRENTE EM ZELAR PELO FUNCIONAMENTO REGULAR DA LINHA, INCLUSIVE COM MANUTENÇÃO PREVENTIVA PARA QUE EVENTOS CLIMÁTICOS NÃO INVIABILIZEM AS VIAGENS, OU ZELAR PELO MENOR DANO POSSÍVEL AOS CONSUMIDORES. DANO MORAL CONFIGURADO E ARBITRADO DE ACORDO COM OS CRITÉRIOS DA RAZOABILIDADE E PROPORCIONALIDADE.
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46 DA LEI Nº 9.099/95. CONDENO A PARTE RECORRENTE NO PAGAMENTO DE CUSTAS E HONORÁRIOS ADVOCATÍCIOS QUE FIXO EM 10% SOBRE O VALOR DA CONDENAÇÃO.
+
+É como voto
+
+RAPHAEL RIBEIRO SANCHES
+
+JUIZ LEIGO
+
+O Sr. Juiz de Direito Relator Dr.
+GRÉCIO NOGUEIRA GRÉGIO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pelo Ilmo. Juiz Leigo e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
+Recurso Inominado Nº
+5000490-48.2022.8.08.0007
+
+VOTO
+
+PEDIDO DE VISTA
+
+O Sr. JUIZ DE DIREITO GUSTAVO HENRIQUE PROCÓPIO SILVA:
+
+Com a devida vênia ao Eminente Relator, pedi vista dos autos para melhor examinar a situação fática e os argumentos proferidos nos autos, bem como o desenvolvimento da lide.
+
+Ao analisar detidamente os detalhes que permeiam a ação, entendi por bem acompanhar integralmente os termos do voto do Relator.
+
+É como voto.
