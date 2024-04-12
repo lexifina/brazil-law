@@ -1,0 +1,31 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por MAGNA CONSTRUTORA E INCORPORADORA LTDA , contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: de rescisão contratual e reintegração de posse c/c perdas e danos e pedido de tutela movida por MAGNA CONSTRUTORA E INCORPORADORA LTDA, contra GRACE LOPES ARRUDA CARNEIRO, na qual alega inadimplemento de contrato de promessa de compra e venda de imóvel.
+Sentença: julgou parcialmente procedentes os pedidos da inicial, determinando a reintegração na posse do imóvel objeto do litígio e declarando rescindido o Contrato de Promessa de Compra e venda firmado entre as partes, autorizando ainda a retenção de 10% do valor pago atualizado a título de indenização.
+Acórdão: negou provimento a ambas as apelações das partes, nos termos da ementa:
+"EMENTA: PROCESSO CIVIL E DIREITO CIVIL. APELAÇÕES CÍVEIS EM AÇÃO DE RESCISÃO CONTRATUAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL POR INADIMPLÊNCIA DA PROMITENTE COMPRADORA. ARGUIÇÃO DE ADIMPLEMENTO NÃO DEMONSTRADA. ART. 373, II, DO CPC. RETENÇÃO TOTAL DOS VALORES PAGOS PELA COMPRADORA COMO FORMA DE INDENIZAÇÃO. IMPOSSIBILIDADE. RESTITUIÇÃO PARCIAL DO VALOR PAGO. SÚMULA 543 DO STJ. MAJORAÇÃO DA RETENÇÃO DE 10% PARA 25% (VINTE E CINCO POR CENTO) DESCARACTERIZADA, DIANTE DA AUSÊNCIA DE PROVAS DE OUTROS PREJUÍZOS SOFRIDOS PELA PROMITENTE VENDEDORA. PRECEDENTES DO STJ E DESTA EGRÉGIA CORTE. RECURSOS CONHECIDOS E IMPROVIDOS. SENTENÇA MANTIDA.
+I. Cinge-se a controvérsia recursal em verificar o acerto da sentença a quo que declarou rescindido o Instrumento Particular de Promessa de Venda e Compra, por inadimplemento da promissória compradora, com a devolução de 90% (noventa por cento) dos valores pagos.
+II. Defende a compradora o adimplemento total da dívida, sem, contudo, demonstrar o pagamento das 72 (setenta e duas parcelas) do financiamento pela construtora, vez que competia à mesma comprova ros fatos constitutivos de seu direito, art. 373, II. Do CPC.
+III. A jurisprudência pacífica tem entendido ser possível a retenção de parte do valor pago como forma de indenização pelos prejuízos suportados pela promitente vendedora, como despesas com a administração, divulgação, comercialização e corretagem que venham a incidir sobre o imóvel, sendo nula a cláusula que prevê a perda total dos valores já pagos, conforme regra insculpida no art. 53 do CDC.
+IV. A esse propósito, a Súmula 543 do STJ afirma: "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento".
+V. A jurisprudência da Corte Superior "tem considerado razoável, em resolução de contrato de compra e venda de imóvel por culpa do comprador, que o percentual de retenção, pelo vendedor, de parte das prestações pagas, seja arbitrado entre 10% e 25%, conforme as circunstâncias de cada caso, avaliando-se os prejuízos suportados"(STJ - AgInt no AREsp n. 725.986/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/6/2017, DJe 29/6/2017).
+VI. Dessa forma, considerando a jurisprudência desta Corte e do STJ, e não restando demonstrados maiores prejuízos por parte da vendedora, entendo razoável a retenção determinada pelo juízo de10% (dez por cento) dos valores pagos pela promitente compradora.
+VII. Recursos conhecidos e improvidos. Sentença mantida". (e-STJ fl. 259/260)
+Embargos de Declaração: opostos por ambas as partes, foram rejeitados.
+Decisão de admissibilidade do TJ/CE: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i. ausência de prequestionamento da matéria tratada no recurso especial (402, 403, 404, 422 e 475 do Código Civil.);
+ii. consonância entre a conclusão do acórdão de origem e o entendimento xiii. jurisprudencial desta Corte Superior (Súmula 83/STJ);
+iii. reexame de contexto fático-probatório (Súmula 7 do STJ) (verificação das despesas e prejuízos resultantes do distrato) e
+iv. reconhecimento de necessidade de interpretação de cláusulas contratuais (Súmula 5 do STJ);
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante sustenta ser indevida a devolução de quantias e pleiteia indenização por danos materiais. Reiterou violação dos dispositivos do Código Civil, fundamentação acerca do mérito propriamente dito. Aduziu que os precedentes citados pela decisão de inadmissibilidade tratam acerca de questão fática diferente.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices:
+i. ausência de prequestionamento da matéria tratada no recurso especial (402, 403, 404, 422 e 475 do Código Civil.);
+ii. reexame de contexto fático-probatório (Súmula 7 do STJ) (verificação das despesas e prejuízos resultantes do distrato) e
+iii. reconhecimento de necessidade de interpretação de cláusulas contratuais (Súmula 5 do STJ);
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o agravante deve refutar todos os fundamentos que levaram a inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ªTurma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte contrária em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da causa (e-STJ fls. 181) para 12%, devendo essa pagar 70 % do montante citado, em razão da sucumbência recíproca reconhecida pelo Tribunal de origem à fl. 270 (e-STJ).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
