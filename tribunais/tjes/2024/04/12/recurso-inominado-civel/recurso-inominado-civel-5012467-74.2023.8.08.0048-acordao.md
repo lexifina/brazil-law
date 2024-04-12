@@ -1,0 +1,65 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5012467-74.2023.8.08.0048
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: JOAO BRAZ TRASPADINI NETO
+RECORRIDO: 123 VIAGENS E TURISMO LTDA.
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Defiro ao autor o benefício da gratuidade de justiça.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL.
+DIREITO DO CONSUMIDOR. AÇÃO DE RESTITUIÇÃO DE VALORES C/C INDENIZAÇÃO POR DANOS MORAIS. ADUZ A PARTE AUTORA, EM SÍNTESE, TER ADQUIRIDO JUNTO À RÉ PASSAGENS AÉREAS MEDIANTE PAGAMENTO PARCELADO ATRAVÉS DE BOLETOS. RELATA QUE A RÉ EMITIU VÁRIOS BOLETOS EM DUPLICIDADE E QUE REALIZOU O PAGAMENTO DE PARCELAS RELATIVAS AO MESMO MÊS. PUGNA PELA RESTITUIÇÃO DOS VALORES PAGOS INDEVIDAMENTE E INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA RECORRIDA QUE JULGOU IMPROCEDENTES OS PEDIDOS AUTORAIS. RECURSO DO AUTOR PUGNANDO PELA REFORMA DO JULGADO.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+ENTENDO QUE A SENTENÇA DE PRIMEIRA INSTÂNCIA MERECE REPAROS NO QUE DIZ RESPEITO AO PEDIDO DE RESTITUIÇÃO DOS VALORES PAGOS. CONQUANTO SEJA INCONTROVERSA A COMPENSAÇÃO DOS VALORES PAGOS COM AS COBRANÇAS EM ABERTO, OBSERVO QUE O AUTOR PAGOU O EQUIVALENTE A 7 (SETE) PARCELAS, POIS ESTA FOI A QUANTIDADE DE COMPROVANTES DIFERENTES JUNTADOS AOS AUTOS, EXCLUINDO-SE AQUELE REFERENTE À ENTRADA. TODAVIA, O PARCELAMENTO COMPREENDIA APENAS ENTRADA + SEIS PARCELAS. DESTA FORMA, TENDO O AUTOR PAGO POR UMA PARCELA A MAIS, FAZ JUS À RESTITUIÇÃO DE FORMA SIMPLES, POIS NÃO HOUVE COMPROVAÇÃO DE MÁ-FÉ DO FORNECEDOR QUANDO DA COBRANÇA. QUANTO AO DANO MORAL, NÃO RESTOU COMPROVADA NOS AUTOS CIRCUNSTÂNCIA QUE EXTRAPOLA A ESFERA DOS MEROS ABORRECIMENTOS. NÃO HÁ PROVA DE MÁCULA AO NOME DO RECORRENTE, OU EXPOSIÇÃO A SITUAÇÃO VEXATÓRIA OU HUMILHANTE. AUSÊNCIA DE DEMONSTRAÇÃO DE OUTROS FATORES EXTERNOS A JUSTIFICAR O DANO EXTRAPATRIMONIAL.
+DANO MORAL NÃO CONFIGURADO
+. ASSIM, É DESPROVIDO TAL PLEITO
+.
+ASSIM, PELO EXPOSTO,
+REFORMO A SENTENÇA TÃO SOMENTE PARA CONDENAR A PARTE RECORRIDA NA RESTITUIÇÃO DE R$186,32 (CENTO E OITENTA E SEIS REAIS E TRINTA E DOIS CENTAVOS) À PARTE AUTORA, DE FORMA SIMPLES,
+CORRIGIDO MONETARIAMENTE A PARTIR DO EFETIVO DESEMBOLSO E COM JUROS LEGAIS A PARTIR DA CITAÇÃO. NO RESTANTE,
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46 DA LEI Nº 9.099/95
+.
+SEM CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS.
+
+É como voto
+
+RAPHAEL RIBEIRO SANCHES
+
+JUIZ LEIGO
+
+O Sr. Juiz de Direito Relator Dr.
+GRÉCIO NOGUEIRA GRÉGIO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pelo Ilmo. Juiz Leigo e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
