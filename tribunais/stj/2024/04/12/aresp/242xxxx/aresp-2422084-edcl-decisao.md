@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por GREEN LINE SISTEMA DE SAÚDE S/A à decisão de fls. 666/667, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Entretanto, data máxima venia, há um erro material na r. decisão proferida, pois embora o v. acórdão objurgado tenha sido publicado na data mencionada pelo Nobre Julgador, não houve assim disponibilização em nome do patrono da Agravante, qual seja Dr. Paulo Vigna OAB/SP 173.477 mesmo com a juntada dos respectivos documentos de representação.
+Tal argumentação fora alvo de Embargos de Declaração ainda na Instância Inferior, demonstrando que MESMO APÓS UM ANO DE HABILITAÇÃO DO PATRONO, as intimações ainda ocorriam em nome dos antigos patronos, vejamos:
+ ..
+Destarte, alega em sua decisão a Iminente Ministra que os embargos foram intempestivos, senão vejamos: (fl. 672).
+ ..
+Pois bem. A discussão paira tão somente não na tempestividade dos embargos, mas sim que NÃO HOUVE A DEVIDA INTIMAÇÃO DA PATRONO do Agravante haja visto que houve a juntada dos documentos de representação, todavia houve a devida juntada conforme abaixo (fl. 673).
+ ..
+Afasta-se, portanto, qualquer argumento que contraria o fato de que estavam habilitados os antigos patronos, ou seja, devendo desde esse requerimento que as intimações fossem em nome do Dr. Paulo Vigna, o que não aconteceu.
+Assim, mesmo com o protocolo do requerimento para a habilitação, não houve a devida a citação devendo, portanto, a devolução do prazo e consequentemente tempestivo o Recurso interposto com a decisão tendo em vista a clara nulidade deste ato, vejamos: (fl. 674).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consta na decisão ora embargada, que agora se repete, a parte recorrente foi intimada do acórdão recorrido em 25/09/2020, sendo o recurso especial interposto somente em 02/09/2021.
+Segundo a orientação jurisprudencial desta Corte Superior, a oposição de embargos de declaração intempestivo não interrompe nem suspende o prazo para a interposição do recurso especial, como, de fato, ocorreu na espécie.
+Nesse sentido: AgRg nos EDcl no AREsp 1620713/PB, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 10/8/2020; AgInt nos EDcl no AREsp 1584796/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 13/5/2020; e AgRg no AREsp 824.861/PB, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 2/8/2017.
+Para esclarecimentos quanto à nulidade de intimação, os autos foram encaminhados ao tribunal de justiça para verificar em nome de quais advogados foram realizadas as publicações das certidões de fls. 457 e 475, conforme o alegado nestes embargos.
+Em resposta, o tribunal informou que "a intimação de acórdão da Apelação foi disponibilizada no DJE do dia 24/09/2020 em nome dos advogados: Érica Fernanda Enéas Navas (OAB/SP 293.539), Elizete da Silva Moutinho (OAB/SP nº 207.674), Ederval Neves Rubin (OAB/SP nº 212.526) e Jair Paulo Junior (OAB/SP nº 339.871); e, a r. decisão monocrática referente aos Embargos de Declaração foi disponibilizada no DJE do dia 12/08/2021em nome dos advogados: Paulo Roberto Vigna (OAB/SP nº 173.477) e Jair Paulo Junior(OAB/SP nº 339/871)" (fl. 689).
+Observe que não hove nulidade, uma vez que consta na petição do recurso de apelação (411/421) "que seja riscado o nome do Dr. Vagner Gabriel Malaquias (OAB/SP n2287.717), da contra-capa dos autos, passando a constar o nome dos Dra. Elizete da Silva Moutinho inscrita na OAB/SP 207.674, Dr. Ederval Neves Rubin inscrito na OAB/SP 212.562 e da Dra. Érica Fernanda Enéas Navas inscrita na OAB/SP 293.539 CONJUNTAMENTE tudo nos termos do Capítulo 4, Seção 3, item 62, das normas da Egrégia Corregedoria, SOB PENA DE NULIDADE" (fls. 420/421). No caso, todos os advogados do pedido foram devidamente intimados do acordão de apelação, conforme certificado pelo tribunal de origem.
+Outrossim, compulsando os autos novamente, não se verifica nenhum pedido de intimação exclusiva ao Dr. PAULO ROBERTO VIGNA entre a petição de apelação e a publicação do acórdão de apelação.
+No caso, pode-se constatar (fls. 459/464) que a juntada de substabelecimento com pedido de intimação exclusiva foi protocolado perante o Juízo da 9ª Vara Civel de São Paulo em 03/09/2019 (fl. 460), quando os autos já estavam em trâmite no Tribunal de Justiça, conforme termo de recebimento datado de 31/08/2018 (fl. 447).
+Assim, por equí voco da parte, no protocolo da peça, o tribunal não teve ciência desse pedido. Logo, não há como alegar nulidade que a própria parte deu causa (AgInt nos EDcl no AREsp n. 1.013.829/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 7/8/2018, DJe de 14/8/2018.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
