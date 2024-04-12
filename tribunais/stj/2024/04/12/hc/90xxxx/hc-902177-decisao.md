@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de THAYNA TEIXEIRA DE SOUZA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do Agravo Interno Criminal n. 2055219-27.2024.8.26.0000/50000.
+Extrai-se dos autos que o Juízo das execuções deferiu o pedido de detração do período de cumprimento de medidas cautelares diversas da prisão. Contudo, limitou a contagem a 8 horas de pena cumprida para cada dia de recolhimento noturno e de um dia a cada dois de recolhimento domiciliar em dias de folga.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual não conheceu da impetração monocraticamente. O agravo interno interposto restou desprovido nos termos do acórdão que restou assim ementado:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. PRETENDIDA REFORMA DE DECISÃO MONOCRÁTICA QUE NÃO CONHECEU O REMÉDIO IMPETRADO PARA GUERREAR OS TERMOS DA DECISÃO DE PRONÚNCIA. Decisão monocrática que indeferiu liminarmente o writ, com base no artigo 168, § 3º, do RITJSP, c.c. o artigo 666 do CPP. O habeas corpus não pode ser manejado em substituição a recurso legalmente previsto, tampouco é sucedâneo de recurso cabível não interposto oportune tempore, ou mesmo para emprestar celeridade ao julgamento de pretensão deduzida pela via adequada. A concessão da ordem aviltaria o princípio do amplo contraditório, porque suprimidas as etapas previstas para o recurso cabível, e implicaria em reexame aprofundado das provas e da gravidade do caso concreto, providência inviável nos estreitos limites do writ, caracterizado pelo rito célere e por não admitir dilação probatória. Agravo desprovido" (fl. 193).
+No presente writ, a defesa afirma que a detração parcial do período de recolhimento nos dias de folga viola o tema 1.155 da jurisprudência desta Corte Superior.
+Requer, em liminar e no mérito, a detração de um dia da pena para cada dia recolhimento domiciliar nos dias de folga.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+O decidido pelo Tribunal no sentido de não conhecer do habeas corpus substitutivo de recurso pró prio está parcialmente em consonância com a jurisprudência desta Corte, ressalvada a possibilidade de análise da matéria para a concessão da ordem, de ofício. Contudo, no caso em análise, é de plano possível afirmar a inexistência de constrangimento ilegal.
+O decidido pelo Juiz das execuções está de acordo com o item 3 da tese jurídica firmada pela Terceira Seção desta Corte Superior na análise do Tema n. 1.155. A saber:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. DIREITO PENAL E PROCESSO PENAL. EXECUÇÃO DA PENA. DETRAÇÃO. MEDIDA CAUTELAR. RECOLHIMENTO NOTURNO E NOS DIAS DE FOLGA. POSSIBILIDADE. COMPROMETIMENTO DO STATUS LIBERTATIS DO ACUSADO. INTERPRETAÇÃO DADA AO ART. 42 DO CÓDIGO PENAL - CP. EXTENSIVA E BONAM PARTEM. PRINCÍPIO DA PROPORCIONALIDADE E NON BIS IN IDEM. IN DUBIO PRO REO. DIGNIDADE DA PESSOA HUMANA. DESNECESSIDADE DO MONITORAMENTO ELETRÔNICO ASSOCIADO. MEDIDA POUCO UTILIZADA NO PAÍS. PRECARIEDADE. ALTO CUSTO. DÚVIDAS QUANTO À EFETIVIDADE. PREVALECE NAS FASES DE EXECUÇÃO DA PENA. DUPLA RESTRIÇÃO AO APENADO. IMPOSSIBILIDADE. TRATAMENTO ISONÔMICO. EXCESSO DE EXECUÇÃO. CONTAGEM. HORAS CONVERTIDAS EM DIAS. REMANESCENDO PERÍODO MENOR QUE 24 HORAS, A FRAÇÃO SERÁ DESPREZADA. PROVIMENTO DO RECURSO ESPECIAL. FIXAÇÃO DAS TESES .
+ ..
+4. Delimitadas as teses jurídicas para os fins dos arts. 927, III, 1.039 e seguintes do CPC/2015 :
+4.1. O período de recolhimento obrigatório noturno e nos dias de folga, por comprometer o status libertatis do acusado deve ser reconhecido como período a ser detraído da pena privativa de liberdade e da medida de segurança, em homenagem aos princípios da proporcionalidade e do non bis in idem.
+4.2. O monitoramento eletrônico associado, atribuição do Estado, não é condição indeclinável para a detração dos períodos de submissão a essas medidas cautelares, não se justificando distinção de tratamento ao investigado ao qual não é determinado e disponibilizado o aparelhamento.
+4.3. As horas de recolhimento domiciliar noturno e nos dias de folga devem ser convertidas em dias para contagem da detração da pena. Se no cômputo total remanescer período menor que vinte e quatro horas, essa fração de dia deverá ser desprezada.
+5. Recurso especial provido para que o período de recolhimento domiciliar noturno e nos dias de folga obrigatório da recorrente seja detraído da pena que lhe foi imposta, nos moldes delineados.
+(REsp n. 1.977.135/SC, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 23/11/2022, DJe de 28/11/2022.)
+Em idêntico sentido, esta Corte já havia se manifestado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. DETRAÇÃO. PERÍODO DE RECOLHIMENTO DOMICILIAR NOTURNO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Terceira Seção concluiu pela concessão da ordem para que o período de recolhimento domiciliar, em horas, a que o Paciente foi submetido (fiscalizado, no caso, por monitoramento eletrônico) seja convertido em dias, para contagem da detração da pena.
+2. Na hipótese de se decidir pela possibilidade de emprego do tempo de cumprimento da medida alternativa de recolhimento noturno e dos dias de folga, para fins de detração, alcançou-se a seguinte distinção: a) adoção da proporção de 3 dias da medida cautelar (recolhimento apenas noturno) para descontar 1 dia de pena; ou b) 2 dias da medida cautelar para descontar 1 dia de pena, nos dias de recolhimento integral (dias não úteis).
+3. Agravo regimental não provido.
+(AgRg no HC n. 668.298/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/6/2021, DJe de 24/6/2021.)
+Ausente, portanto, qualquer constrangimento ilegal que justifique a concessão da ordem, de ofício.
+Ante o exposto, com fundamento no art. 210, do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
