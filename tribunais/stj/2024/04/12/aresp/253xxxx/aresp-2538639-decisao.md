@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo apresentado por FERNANDO FROTA SAMPAIO e OUTRO contra a decisã o que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, assim resumido:
+APELAÇÕES CÍVEIS. DIREITO PROCESSUAL CIVIL. AÇÃO REIVINDICATÓRIA. SENTENÇA DE PARCIAL PROCEDÊNCIA QUE DECLAROU OS AUTORES COMO PROPRIETÁRIOS DO IMÓVEL E CONDENOU OS RÉUS À DEVOLUÇÃO DO BEM E AO PAGAMENTO DE ALUGUEIS PELO TEMPO DE USO DO BEM, PROMOVENTES QUE ESTÁ ADSTRITA AO TERMO INICIAL DA INCIDÊNCIA DOS ALUGUEIS E AO SEU QUANTUM.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 73, § 1º, I, do CPC, no que concerne à obrigatoriedade de citação de ambos os cônjuges, haja vista tratar-se de ação que versa sobre direitos reais imobiliários, trazendo a seguinte argumentação:
+A obrigatoriedade de citação de ambos os cônjuges já constava do artigo 10, § 1º, inciso I, do Código de Processo Civil de 1973, vigente à época da propositura da demanda:
+ ..
+Sucede que o cônjuge do Recorrente Fernando Frota Sampaio jamais fora citado, o que configura flagrante e irremediável ofensa ao dispositivo legal acima invocado.
+Ademais, a jurisprudência deste Egrégio STJ é uníssona, vasta e remansosa no sentido de que, em se tratando de ações que versam sobre direitos reais imobiliários, a citação de ambos os cônjuges é obrigatória, sob pena de nulidade, conforme ilustram os excertos a seguir colacionados:
+ ..
+No caso presente, à luz da literalidade do dispositivo legal violado, em cotejo com o maciço entendimento jurisprudencial ora esposado, é patente que a ausência da citação do cônjuge do Recorrente anula todos os atos posteriores, impondo-se, por conseguinte, a nulidade do acórdão recorrido e a devolução dos autos ao juízo de primeiro grau a fim de sanar a irregularidade (fls. 731-732).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020; AgRg no AREsp n. 2.022.133/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
