@@ -1,0 +1,15 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto pelo BANCO BRADESCO S/A, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Agravo de instrumento: interposto pelo recorrente contra decisão, proferida nos autos de cumprimento de sentença de ação revisional, que reconheceu como devida a incidência da multa e honorários previstos no art. 523, § 1º, do CPC.
+Acórdão: manteve decisão unipessoal do Relator que negou seguimento ao agravo de instrumento interposto, nos termos da seguinte ementa:
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. AÇÃO REVISIONAL DE CONTRATO DE CONTA CORRENTE EM FASE DE CUMPRIMENTO DE SENTENÇA. O JUÍZO SINGULAR ACOLHEU A IMPUGNAÇÃO PARA RECONHECER O EXCESSO DE EXECUÇÃO E CONDENOU O EXECUTADO AO PAGAMENTO DE MULTA E HONORÁRIOS ADVOCATÍCIOS, NA FORMA DO ARTIGO 523, §1º, DO CPC. DECISÃO DESTE RELATOR QUE EM SEDE DE INDEFERIU O EFEITO SUSPENSIVO. COGNIÇÃO SUMÁRIA EXEGESE DO ARTIGO 1.019, INCISO I, DO CPC. DECISÃO MANTIDA. AUSÊNCIA DE DEMONSTRAÇÃO DA PROBABILIDADE DO DIREITO ATÉ JULGAMENTO DEFINITIVO POR ESTA CÂMARA. RECURSO DESPROVIDO. (fl. 78, e-STJ)
+Decisão de admissibilidade do TJ/PR: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) ausência de violação dos arts. 489 e 1022 do CPC; ii) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 83/STJ).
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que: i) restaram demonstradas as omissões e contradições no acórdão recorrido, em patente violação dos arts. 489 e 1022 do CPC; ii) "As situações jurídicas expostas afrontam o artigo 523, §1º do CPC, pois a parte realizou o pagamento mediante depósito, sendo certo que em favor da parte adversa deverão ser contabilizados os juros e atualizações inerentes à conta onde se encontram depositados, a serem custeados pela Instituição Financeira custodiante."
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice: i) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 83/STJ).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
