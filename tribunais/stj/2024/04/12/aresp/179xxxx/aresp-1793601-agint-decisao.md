@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo interno interposto por FABIO ROBERIO HARDT e OUTRA contra decisão proferida pela Presidência desta Corte Superior que conheceu do agravo para não conhecer do recurso especial.
+A questão debatida nos autos encontra-se afetada à Primeira Seção desta Corte Superior, aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1.229/STJ), dos Recursos Especiais 2.046.269/PR, 2.050.597/RO e 2.076.321/SP, de relatoria do Ministro Gurgel de Faria, para "definir se é cabível a condenação ao pagamento de honorários advocatícios na exceção de pré-executividade acolhida para extinguir a execução fiscal, ante o reconhecimento da prescrição intercorrente, prevista no art. 40 da Lei n. 6.830/1980".
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Pelo exposto, reconsidero a decisão agravada e determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC, após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC.
+Publique-se. Intimações necessárias.
+EMENTA
