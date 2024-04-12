@@ -1,0 +1,52 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5024617-87.2023.8.08.0048
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: IVAN WON DOELLINGER NETO
+RECORRIDO: CLEBIO LUIZ COUTINHO e outros (2)
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado pelo art. 46 da Lei nº 9099/95 e Enunciado 92 do FONAJE.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Defiro o benefício da AJG para a parte autora.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. DIREITO DO CONSUMIDOR.
+
+AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIA DE DOCUMENTO ESSENCIAL. PRECLUSÃO LÓGICA. NARRA O AUTOR QUE EM 17/10/2022 CELEBROU JUNTO AOS RÉUS UM ACORDO DE NÃO PERSECUÇÃO PENAL E CÍVEL COM CLÁUSULA DE CONFIDENCIALIDADE NO QUAL OS REQUERIDOS FICARAM COMPROMETIDOS EM TRANSFERIR DUAS EMPRESAS QUE ESTAVAM EM NOME DO AUTOR E REALIZAR A QUITAÇÃO DE TODOS OS DÉBITOS E EMPRÉSTIMOS REALIZADOS REFERENTES ÀS EMPRESAS E DA PESSOA FÍSICA VINCULADA A FUNÇÃO EMPRESARIAL NO VALOR DE R$40.000,00. DE ACORDO COM A CLÁUSULA CONTRATUAL A DÍVIDA PODERIA SER QUITADA DE MANEIRA PARCELADA COM A CONSEQUÊNCIA DE QUE O INADIMPLEMENTO SERIA CONSIDERADO QUEBRA DE CONTRATO, O QUE DE FATO OCORREU UMA VEZ QUE OS PLEITEADOS NÃO CUMPRIRAM SUAS OBRIGAÇÕES. RAZÃO PELA QUAL ENTROU EM JUÍZO BUSCANDO: A) DANOS MORAIS NO VALOR DE R$24.000,80. SENTENÇA DE PISO JULGOU IMPROCEDENTE O PEDIDO INAUGURAL. RECURSO INOMINADO BUSCANDO A REFORMA DA SENTENÇA PARA JULGAR PROCEDENTES OS PEDIDOS AUTORAIS.
+RECURSO CONHECIDO E IMPROVIDO
+. SENTENÇA A QUO QUE SE ENCONTRA DEVIDAMENTE FUNDAMENTADA DIANTE DAS PROVAS ANEXADAS AOS AUTOS DE FORMA QUE NÃO MERECE REFORMA. OS ARGUMENTOS APRESENTADOS PELO AUTOR EM SEDE DE RECURSO NÃO MERECEM ACOLHIMENTO. INICIALMENTE, A JUNTADA OU NÃO DE DOCUMENTO COMPROBATÓRIO É RESPONSABILIDADE DO ORA RECORRENTE QUE TEVE TAL DIREITO PRECLUSO UMA VEZ QUE EM AUDIÊNCIA, ID. N.º 7047514 SOLICITOU O JULGAMENTO ANTECIPADO DA LIDE, O QUE LOGICAMENTE PRESSUPÕE NO SEU DESINTERESSE EM ANEXAR MAIS PROVAS AO PROCESSO.
+S
+ENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+, NA FORMA DO ART. 46 DA LEI Nº 9.099/95
+. CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS FIXADOS EM R$300,00 (TREZENTOS REAIS), SUSPENSA, TODAVIA EM RAZÃO DO BENEFÍCIO DA AJG.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
