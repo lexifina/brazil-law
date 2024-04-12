@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de MATEUS BRANDAO DIAS, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do HC n. 2049971-80.2024.8.26.0000.
+Extrai-se dos autos que o paciente foi condenado em primeira instância pela prática do crime de tráfico de drogas, às penas de 5 anos de reclusão, em regime inicial fechado e 500 dias-multa. A sentença transitou em julgado sem recurso.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual não conheceu da impetração, nos termos do acórdão de fls. 61/65, de onde se extrai o seguinte:
+"De qualquer modo, por amor à argumentação, cabe lembrar que o art. 33 § 4º. da Lei 11.343/2006 não se limita a negar o privilégio àquele que ostenta reincidência ou maus antecedentes.
+A lei vai além, negando-o igualmente para quem, embora primário com bons antecedentes, apresenta envolvimento com organização criminosa ou tem dedicação às atividades criminosas.
+Poderia a lei ter-se restringido à primariedade e aos bons antecedentes. Não quis fazê-lo. Cabe ao intérprete respeitar a sua vontade.
+Limitar-se, para a averiguação do cabimento da minorante, à constatação de primariedade e bons antecedentes seria fazer letra morta o texto legal.
+Bem por isso, já decidiu o E. Supremo Tribunal Federal que "não configura constrangimento ilegal a decisão de Tribunal local que, para o fim de avaliação de incidência da causa de diminuição prevista no art. 33, §4º, Lei 11.343/06, reconhece que o acusado, embora sem condenação criminal, dedica-se a atividades delituosas" (RHC 130.739 AgR,Rel. Min. EDSON FACHIN, Primeira Turma, DJe de 19/12/2016).
+Ora, quem, como o paciente, é preso em flagrante e processado por tráfico de entorpecentes e, apesar disso, logo depois, no curso ainda daquele processo, novamente incide no crime, vindo a ser processado e condenado pelo novo fato, embora preserve primariedade e bons antecedentes, inegavelmente demonstra, mais do que dedicação, verdadeira obstinação e profissionalismo na prática do tráfico.
+Assim, desmerece o redutor" (fl. 64).
+No presente writ, a defesa sustenta que a condenação por fato posterior à sentença não gera reincidência e não impede o reconhecimento do tráfico privilegiado.
+No presente writ, a defesa sustenta que o paciente preenche todos os requisitos necessários ao reconhecimento da minorante do tráfico privilegiado.
+Aduz que a condenação por fato posterior ao crime em análise não obsta o reconhecimento da referida minorante.
+Requer, em liminar e no mérito, a aplicação da minorante do tráfico privilegiado em sua fração máxima, a fixação do regime inicial aberto e a substituição da pena privativa de liberdade por restritiva de direitos.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável verificar a existência de eventual constrangimento ilegal.
+O § 4º do art. 33 da Lei Antidrogas contém a seguinte redação:
+"Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa."
+Sendo assim, para que o paciente possa ter o benefício da diminuição da pena, deverá cumprir, cumulativamente, quatro requisitos, quais sejam: (a) ser primário; (b) possuir bons antecedentes; (c) não se dedicar às atividades criminosas; (d) não integrar organização criminosa. Nesse mesmo contexto, na escolha do quantum de redução da pena em razão da incidência do redutor, deve-se levar em consideração também a quantidade e a natureza das substâncias apreendidas, por expressa previsão legal (art. 42 da Lei n. 11.343/06).
+Os dois pressupostos iniciais são de avaliação estritamente objetiva, basta verificar a certidão de antecedentes criminais do agente para chegar à conclusão se ele preenche ou não esses requisitos. Quanto às duas últimas condições, a análise envolve apreciação subjetiva do magistrado processante, a partir dos elementos de convicção existentes nos autos, para aferir se o apenado se dedicava às atividades criminosas ou integrava organização criminosa.
+Na hipótese dos autos, estão presentes todos os requisitos exigidos para que seja reconhecido o tráfico de drogas privilegiado. Isto porque não houve qualquer menção no acórdão impugnado sobre elementos concretos acerca da dedicação às atividades criminosas e/ou de integrar organização criminosa.
+O fato de existir outra ação penal em curso à época da sentença contra o paciente, também pela prática do crime de tráfico de entorpecentes posterior aos fatos em comento, não é suficiente para afastar a aplicação do redutor.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. EXISTÊNCIA DE PROCESSOS CRIMINAIS EM CURSO. FUNDAMENTO INIDÔNEO PARA AFASTAR O BENEFÍCIO. FIXAÇÃO DO REGIME ABERTO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A mais recente orientação de ambas as turmas do Supremo Tribunal Federal é a de que, em regra, inquéritos policiais e ações penais em andamento não constituem fundamentação idônea apta a respaldar a não aplicação do redutor especial de pena relativo ao reconhecimento da figura privilegiada do crime de tráfico de drogas. Além disso, a Sexta Turma do Superior Tribunal de Justiça, em recente pronunciamento, apresentou entendimento alinhado à Suprema Corte.
+2. Nessa esteira de entendimento, constata-se que a Corte de apelação não apresentou fundamentação válida para afastar a causa especial de redução de pena, razão pela qual se conclui pela incidência da referida minorante em seu grau máximo, notadamente em virtude da pequena quantidade de entorpecentes apreendida.
+3. Reduzida a reprimenda, e tendo em vista a fixação da pena-base no mínimo legal em virtude da análise favorável das circunstâncias judiciais do art. 59 do Código Penal, é cabível na espécie a fixação do regime aberto, bem como a substituição da pena privativa de liberdade por restritivas de direitos.
+4. Agravo regimental desprovido.
+(AgRg no HC 694.607/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 07/12/2021, DJe 13/12/2021).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ART. 33, § 4º, DA LEI N. 11.343/06. TRÁFICO PRIVILEGIADO. CAUSA DE DIMINUIÇÃO DE PENA QUE NÃO PODE SER AFASTADA APENAS COM BASE NO FATO DO SENTENCIADO POSSUIR AÇÕES PENAIS EM ANDAMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. No acórdão paradigma, consignou-se que ações penais em andamento justificam, de forma idônea, o afastamento do art. 33, § 4º, da Lei n. 11.343/06.
+2. No acórdão embargado, por seu turno, adotou-se posicionamento contrário, em razão de precedentes de ambas as Turmas do SUPREMO TRIBUNAL FEDERAL - STF considerarem inidôneo o afastamento da referida causa de diminuição de pena com base apenas em ações penais em andamento, em atenção ao princípio constitucional da presunção de não culpabilidade.
+3. Consoante precedentes, verifica-se nesta Corte a adesão ao posicionamento advindo do STF, ou seja, a existência de ações penais em andamento não justifica a conclusão de que o sentenciado se dedica às atividades criminosas para fins de obstar a aplicação do art. 33, §4º, da Lei n. 11.343/06.
+4. Agravo Regimental desprovido.
+(AgRg nos EAREsp 1852098/AM, Rel. Ministro JOEL ILAN PACIORNIK, TERCEIRA SEÇÃO, julgado em 27/10/2021, DJe 03/11/2021).
+De rigor, portanto, a concessão da ordem.
+Mantida a pena base e intermediária no mínimo legal, a incidência da redutora na terceira fase na fração de 2/3 leva a pena definitiva ao patamar de 1 ano e 8 meses de reclusão . A pena pecuniária deve ser proporcionalmente reduzida, atingindo o patamar de 166 dias-multa, na fração mínima.
+Atento ao teor da Súmula Vinculante n. 59, na qual o Supremo Tribunal Federal estabeleceu que "é impositiva a fixação do regime aberto e a substituição por restritiva de direitos, quando reconhecida a figura do tráfico privilegiado (art. 33, § 4º da Lei 11.343/03) e ausentes vetores negativos na primeira fase da dosimetria (art. 59 do CP)", fixo o regime inicial aberto e substituo a pena privativa de liberdade por duas penas restritivas de direito a serem fixadas pelo Juízo das execuções.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus. Contudo, concedo a ordem de habeas corpus, de ofício, nos termos acima.
+Publique-se.
+Intimem-se.
+EMENTA
