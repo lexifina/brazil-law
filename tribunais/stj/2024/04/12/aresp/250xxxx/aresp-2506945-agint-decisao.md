@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interno manejado por FTL - Ferrovia Transnordestina Logística S/A, desafiando decisão da Presidência do STJ que não conheceu do agravo em recurso especial, por entender que a parte recorrente deixou de indicar precisamente dispositivos legais federais que teriam sido violados ou que seriam objeto de dissídio interpretativo, trazendo apenas dispositivos constitucionais.
+Em suas razões, a parte agravante sustenta que "a decisão monocrática da Relatora ao deixar de conhecer o Recurso Especial, mantém, por consequência, a violação aos dispositivos legais, mais precisamente, os arts. 99, 100 e 102 do Código Civil de 2002 ("CC/02"); art. 355 do Código de Processo Civil; art. 9º,§2º do Decreto 2.089/63; art. 4º, inciso III da Lei 6.769/79; arts. 71 e 200 do Decreto Lei 9.760/46 ("DL 9.760/46"); a Resolução nº 2.695 da ANTT, já repousantes no Recurso Especial" (fl. 591).
+É o breve relato.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelos arts. 1.021, § 2º, do CPC e 259, § 3º, do RISTJ, reconsidero a decisão agravada, tornando-a sem efeito, passando novamente à análise do recurso:
+Trata-se de agravo manejado por FTL - Ferrovia Transnordestina Logística S/A, desafiando decisão do Tribunal de Justiça do Estado do Maranhão que não admitiu o recurso especial, "por deficiência recursal, mercê da aplicação das Súmulas nº 284 e 735/STF, pois dirigidos contra Acórdão que indeferiu pedido de tutela provisória, certo de que o STF e o STJ entendem que não é cabível recurso excepcional para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela" (fls. 542/543).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar especificamente todos os motivos adotados pela instância de origem para negar trânsito ao apelo especial.
+Com efeito, a insurgente não logrou infirmar o decisum, de forma específica e mediante argumentação suficiente, no ponto em que o Tribunal local asseverou a deficiência na fundamentação recursal, o que atrai a vedação prevista na Súmula 284/STF.
+Incide, dessa forma, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Convém ressaltar que a Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que não admitiu o processamento do recurso especial. Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC e o EAREsp 831.326/SP - Rel. Min. João Otávio de Noronha - Rel. p/ acórdão Min. Luis Felipe Salomão - Corte Especial - DJe 30/11/2018).
+ANTE O EXPOSTO, reconsidero a decisão de fls. 585/586, tornando-a sem efeito. Ademais, nos termos do art. 932, III, do CPC, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
