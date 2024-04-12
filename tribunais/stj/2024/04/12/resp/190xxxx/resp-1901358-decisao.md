@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO PARANÁ com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), no qual se insurge contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado (fl. 167):
+APELAÇÃO CIVEL. REEXAME NECESSÁRIO. SERVIDOR PÚBLICO ESTADUAL. POLICIA CIVIL. AÇÃO DECLARATÓRIA COM PEDIDO DE TUTELA ANTECIPADA. GRATIFICAÇÃO POR TEMPO INTEGRAL E DEDICAÇÃO EXCLUSIVA  TIDE. INOCORRÊNCIA DA PRESCRIÇÃO DO FUNDO DE DIREITO. INAPLICABILIDADE DO ARTIGO 206, §3º, V DO CÓDIGO CIVIL. ADICIONAL POR TEMPO DE SERVIÇO QUE INCIDE SOBRE O VENCIMENTO BÁSICO MAIS TIDE. PRECEDENTES DESSA CORTE. HONORÁRIOS ADVOCATICIOS MANTIDOS. RECURSOS NÃO PROVIDOS. SENTENÇA MANTIDA EM GRAU DE REEXAME NECESSÁRIO.
+Os embargos de declaração opostos foram rejeitados (fl. 251).
+Em suas razões recursais, a parte recorrente sustenta a violação dos arts. 3º do Decreto 20.910/1932, 1º-F da Lei 9.494/1997, 381 do Código Civil (CC) e 535 do Código de Processo Civil de 1973 (CPC/1973). Alega, para tanto:
+(a) existência de negativa de prestação jurisdicional;
+(b) o Decreto Estadual 5.045/1998, o qual entrou em vigor no dia 14/12/1998, vedou o cálculo cumulativo de acréscimos pecuniários. Assim, "sendo o prazo prescricional de 5 anos, nos termos do artigo 1.º do Decreto Federal 20.910/32, a demanda voltada contra os efeitos concreto s decorrentes do referido ato normativo estadual deveria ter sido aforada até dezembro/2003. Só o foi, no entanto, no ano de 2012, quando a pretensão do fundo de direito dos recorridos já se encontrava fulminada pela prescrição. Não se pode, pois, falar em prescrição apenas das parcelas. Prescrito está o todo" (fl. 303);
+(c) "o artigo 1º-F da Lei nº 9.494/97, segundo a redação da Lei nº 11.960/2009, continua em pleno vigor para os processos que ainda não foram expedidos precatórios, não se admitindo outros índices de juros e correção monetária diversos do da poupança" (fl. 308); e
+(d) "Há isenção das custas judiciais e emolumentos em relação ao Estado e suas autarquias, relativamente às serventias estatizadas. E, por força da Reclamação nº 7362-STF, há isenção com relação às serventias privatizadas" (fl. 314).
+Não foram apresentadas contrarrazões de acordo com a certidão de fl. 319.
+O recurso foi admitido na origem (fls. 337/340).
+É o relatório.
+Nos termos do que foi decidido pelo Plenário do Superior Tribunal de Justiça (STJ), "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2).
+A parte recorrente opôs embargos de declaração a fim de provocar o Tribunal de origem a se manifestar sobre a seguinte questão (fl. 243):
+3) Quanto à manutenção da condenação em custas processuais, em sede de reexame necessário, diante do instituto da confusão houve outra premissa equivocada.
+Como é sabido, o Fundo do Judiciário não é uma autarquia ou ente personalizado, pois se insere dentro da estrutura do Poder Judiciário.
+Ainda que o processo tivesse tramitado em vara não oficializada e somente ao final sido remetido a uma vara estatizada a jurisprudência do Tribunal de Justiça tem se apresentado no sentido de afastar a condenação de custas judiciais, o que enseja a interposição dos presentes embargos de declaração para excluir a condenação nessa verba, inclusive no tocante ao FUNJUS, ou, ainda, prequestionar o artigo 381 do CC diante da vara ser estatal ou estatizada durante a tramitação do processo em qualquer fase que ele esteja.
+Acrescente-se que a Fazenda Pública somente recolhe custas ao final e se nessa época o processo tramita em vara estatizada tal taxa não é devida.
+Entretanto, o Tribunal de origem rejeitou os embargos de declaração sem o exame do ponto tido como omisso, limitando-se a afirmar que "A decisão objurgada não padece de quaisquer dos vícios antes mencionados. Observando-se as razões expostas nos embargos declaratórios fica evidente o intuito do embargante em rediscutir aquilo o que já foi apreciado e decidido na decisão embargada" (fl. 253).
+Dessa forma, é imperioso o acolhimento da pretensão recursal ante a ocorrência de violação do art. 535 do CPC/1973, devendo os autos retornar à origem para que seja sanado o vício apontado no recurso integrativo por meio de novo julgamento dos embargos de declaração, com manifestação expressa a respeito da questão não apreciada.
+Prejudicado o exame das demais questões.
+Ante o exposto, dou provimento ao recurso especial para anular o acórdão proferido nos embargos de declaração e determinar o retorno dos autos ao Tribunal de origem, a fim de sanar o vício apontado.
+Publique-se. Intimem-se.
+EMENTA
