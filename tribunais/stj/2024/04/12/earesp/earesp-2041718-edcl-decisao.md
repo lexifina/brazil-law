@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos pelo Centro Espírita Pai José Cambinda em face de decisão que reconsiderou decisum anterior e, em nova apreciação do agravo em recurso especial interposto pela União, deu provimento ao apelo nobre, considerando a ofensa ao art. 1.022 do CPC, a fim de que o Tribunal de origem proceda a novo julgamento dos embargos de declaração.
+A embargante aponta omissão na decisão embargada pois não foi observada a ausência de prequestionamento do art. 114 do CPC, de modo que incidiria a Súmula 211/STJ. Argumenta que o agravo em recurso especial sequer poderia ser conhecido porquanto a União, no seu petitório, não impugnou um dos fundamentos adotados pelo Tribunal a quo para negar trânsito ao recurso especial, qual seja, a "impossibilidade de análise dos dispositivos constitucionais tidos por violados." (fl. 2.735). Aduz, por fim, a necessidade de sobrestamento dos presentes autos pois "a Min. Assusete Magalhães, na condição de presidente da Comissão Gestora de Precedentes, determinou a afetação do tema objeto do presente processo para fins de julgamento sob a sistemática dos recursos repetitivos." (fl. 2.736).
+Pugna, pois, pelo acolhimento dos embargos de declaração, para sanar o vício apontado.
+Impugnação às fls. 2.743/2.763.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Não prospera a irresignação da parte embargante. De acordo com o estatuído no art. 1022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do decisum atacado e, ainda, para corrigir erro material. Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão, pois a decisão embargada enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+No caso, a decisão embargada, ao dar provimento ao recurso especial da União, afastou eventual óbice ao conhecimento da insurgência.
+Com efeito, verificou-se a ausência de manifestação do Tribunal a quo em relação à matéria prevista no art. 114 do CPC (litisconsórcio necessário), razão pela qual foi provido o apelo nobre, por ofensa ao art. 1.022 do Codex, a fim de que a Corte Regional proceda a nova apreciação dos aclaratórios opostos pela União.
+Nessa situação, não há falar em aplicação do obstáculo da Súmula 211/STJ, porquanto foi reconhecida a omissão em relação ao art. 114 do CPC.
+Do mesmo modo, não se constatou a possibilidade de não conhecimento do próprio agravo em recurso especial, com base na Súmula 182/STJ, porquanto os motivos adotados pelo Tribunal de origem para não admitir o apelo nobre foram efetivamente combatidos pela União, conforme se constata do petitório constante das fls. 1.581/1.587.
+De fato, foi apresentada argumentação concernente à indicação de ofensa a dispositivos da Constituição Federal, nestes termos (fl. 1.585):
+Por oportuno, diga-se ainda, a menção aos artigos 197 a 199 da CRFB/88 no Recurso Especial da União ocorrem meramente em obter dictum, uma vez que é clara a ofensa reflexa ao texto constitucional, dado que a análise da ilegitimidade passa, primeiro, pela Lei n. 8.080/90, sendo irrelevante para a admissibilidade do Recurso o trecho da decisão da Vice-Presidência que afastou sua análise pelo STJ.
+Por fim, não cabe determinar o sobrestamento do processo pois os recursos indicados à fl. 2.111 como sendo representativos da controvérsia (AREsp 2.322.671/DF e AREsp 2.322.667/DF) foram reautuados como recursos especiais (REsp n. 2.072.877/DF e REsp n. 2.072.878/DF) e posteriormente decididos monocraticamente pelo relator, que deles não conheceu.
+Ora, não podem ser acolhidos embargos declaratórios que, a pretexto de alegadas omissões do decisum embargado, traduzem, na verdade, inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer obscuridade, contradição ou omissão no julgado embargado, conforme exige o art. 1022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+A propósito, destacam-se os seguintes julgados:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES JÁ RESOLVIDAS NA DECISÃO EMBARGADA. MERO INCONFORMISMO. PRETENSÃO DE EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Revelam-se improcedentes os embargos declaratórios em que a questão levantada não configura hipótese de cabimento do recurso - omissão, contradição ou obscuridade -, delineadas no art. 535 do CPC.
+2. A remessa dos autos para julgamento do recurso extraordinário no Supremo Tribunal Federal é decorrência lógica da regra insculpida no art. 543, §1º do CPC.
+3. Inexistir qualquer fundamento relevante que justifique a oposição dos presentes embargos ou que venha infirmar as razões contidas na decisão embargada.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1471797/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 25/11/2014, DJe 2/12/2014)
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. OMISSÃO NÃO DEMONSTRADA. PRETENSÃO DE REDISCUTIR QUESTÕES DEVIDAMENTE EXAMINADAS E DECIDAS NA DECISÃO EMBARGADA. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 535, incisos I e II, do Código de Processo Civil, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado.
+2. A obtenção de efeitos infringentes, como pretende a Embargante, somente é possível, excepcionalmente, nos casos em que, reconhecida a existência de um dos defeitos elencados nos incisos do mencionado art. 535, a alteração do julgado seja consequência inarredável da correção do referido vício; bem como nas hipóteses de erro material ou equívoco manifesto, que, por si sós, sejam suficientes para a inversão do julgado. Precedentes.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos aclaratórios.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no REsp 993.078/SP, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 17/9/2014, DJe 10/10/2014)
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
