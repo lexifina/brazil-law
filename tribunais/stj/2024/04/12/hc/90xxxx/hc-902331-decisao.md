@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Everson Colaco de Aguiar, apontando-se como autoridade coatora o Tribunal de Justiça de Pernambuco (Agravo de Execução Penal n. 0023627-48.2023.8.17.9000).
+Consta dos autos que, em 7/2/2023, o Juízo da 2ª Vara Regional de Execução Penal em Meio Fechado e Semiaberto do Recife - SEEU, no PEC n. 1000227-86.2019.8.17.4001, deferiu a progressão ao regime aberto ao paciente (fls. 263/264).
+Em 20/10/2023, após a notícia de que o paciente praticou novo delito, sendo preso, em 7/9/2023, no Processo n. 4396-94.2023.8.17.4001, o magistrado da Vara de execuções penais regrediu o paciente, cautelarmente, ao regime fechado (fls. 303/304).
+Irresignada, a defesa interpôs agravo em execução penal na origem, e o Colegiado estadual negou provimento ao recurso em 28/2/2024 (fls. 15/27).
+Daí a presente impetração, em que se alega constrangimento ilegal em razão da ausência de procedimento administrativo disciplinar ou audiência de justificação para apuração da falta grave; da regressão de regime per saltum; e da alteração da data-base para obter benefícios.
+Defende-se que houve violação dos princípios da ampla defesa e do contraditório.
+Aduz-se que, com uma adequada interpretação restritiva, permite-se a regressão a qualquer dos regimes, conforme texto expresso da Lei, mas não se permite a famigerada regressão per saltum (fl. 8).
+Requer-se seja o paciente regredido ao regime semiaberto. Subsidiariamente, pede-se a manutenção da data-base presente no atestado de pena mais antigo, qual seja, em 28/3/2021.
+É o relatório.
+A ilegalidade passível de justificar a impetração do habeas corpus substitutivo de recurso especial deve ser manifesta, de constatação evidente, o que, na espécie, não ocorre.
+Afinal, dizem os precedentes desta Corte que o cometimento de falta grave no cumprimento da execução penal tem como consequência a regressão de regime, não havendo ilegalidade na sua fixação para forma mais gravosa do que a fixada no édito condenatório, sem importar em afronta ao instituto da coisa julgada (AgRg no HC n. 675.167/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 22/10/2021 - grifo nosso); e que é possível a regressão de regime per saltum, no caso de cometimento de falta grave no curso da execução penal, não havendo que se observar a forma progressiva prevista no art. 112 da Lei de Execução Penal (AgRg no HC n. 740.078/MG, Ministra Laurita Vaz, Sexta Turma, DJe 31/5/2022).
+Afora isso, o posicionamento adotado pelas instâncias originárias está em sintonia com a jurisprudência desta Corte, no sentido de que, em se tratando de regressão cautelar, não é necessária a prévia ouvida do condenado ou instauração (prévia) de PAD, como determina o § 2º do art. 118 da Lei de Execução Penal, visto que esta exigência somente é obrigatória na regressão definitiva ao regime mais severo, sob pena de contrariar a finalidade da medida (HC n. 533.286/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 17/12/2019 - grifo nosso). Da Sexta Turma, AgRg no HC n. 778.102/MG, de minha relatoria, DJe 21/12/2022.
+Por fim, reconhecida a falta grave, a alteração da data-base para a progressão de regime está em consonância com o disposto na Súmula 534/STJ: a prática de falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento da pena, o qual se reinicia a partir do cometimento dessa infração.
+Indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO DA PENA. FALTA GRAVE. REGRESSÃO CAUTELAR PER SALTUM A REGIME MAIS GRAVOSO DO QUE O ESTABELECIDO NA SENTENÇA. LEGALIDADE. AUSÊNCIA DE OITIVA PRÉVIA DO CONDENADO. POSSIBILIDADE. PRECEDENTES DO STJ. INTERRUPÇÃO DO PRAZO PARA PROGRESSÃO DE REGIME. ALTERAÇÃO DA DATA-BASE. SÚMULA 534/STJ. APLICAÇÃO DA LEI. INEVIDENTE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
