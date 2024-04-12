@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra ato de desembargador do Tribunal de Justiça do Pará, que indeferiu medida liminar no writ lá ajuizado.
+"O paciente foi preso em flagrante no dia 04/04/2024 pela suposta prática do crime de homicídio CULPOSO no trânsito" (fl. 52), convertido em prisão preventiva.
+Argumenta a impetrante, em suma, com a ausência dos requisitos do art. 312 do CPP, requerendo, liminarmente e no mérito, a revogação da prisão preventiva ou a sua substituição pelas medidas cautelares previstas no art. 319 da mesma lei processual.
+Nos termos da Súmula n. 691/STF, em regra, não se admite a impetração de habeas corpus contra decisão que indefere a liminar na origem, sob pena de indevida supressão de instância, ressalvadas as hipóteses em que evidenciada decisão teratológica ou desprovida de fundamentação.
+Dito isso, não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+Consta da decisão que indeferiu a liminar no writ de origem (fls. 53-54):
+ ..  In casu, embora reconheça o periculum in mora, não vislumbro a presença do fumus boni iuris, pois a primo ictu oculi o ato ora impugnado mostra-se devidamente fundamentado, especialmente na garantia da ordem pública em razão da fuga após a prática do delito. Vejamos:
+(..)
+No caso em análise, pela gravidade concreta do delito praticado, mesmo que sem dolo direto, porém possivelmente sendo hipótese de dolo eventual, impõe-se a decretação da prisão preventiva, principalmente para a garantia da ordem pública. Como se depreende dos autos, o custodiado teria realizado ultrapassagem em local proibido, não tomando as diligências necessárias para evitar o acidente, no qual ceifou a vida da vítima.
+Ademais, segundo consta dos autos, teria o custodiado empregado fuga após a prática delitiva, denotando a vontade do agente em evadir-se do distrito da culpa, comprometendo, assim, a aplicação da Lei penal.
+Desse modo, diante da gravidade concreta do delito, bem como para a garantia da ordem pública é imperiosa a decretação de prisão preventiva ora requerida.
+Isso porque a prisão preventiva para evitar novas infrações encontra respaldo no topo do art. 144 da Constituição Federal, a qual prevê o dever do estado de preservar a ordem pública e a incolumidade das pessoas e do patrimônio, sendo o direito à segurança de tamanha relevância constitucional que está previsto no preâmbulo, no topo do art. 5º e do 6º.
+Importante destacar, entendimento do Superior Tribunal de Justiça, no Habeas Corpus HC 754862 SP 2022/0210515-3:
+(..)
+Demonstrada a recente ocorrência dos fatos em tela, mostram-se presentes os requisitos para a decretação da constrição cautelar, a fim de, desde logo, inibir a reiteração da conduta delitiva, garantir a ordem pública e a aplicação da Lei Penal.
+Necessária, portanto, a decretação da prisão preventiva. ..
+In casu, verifica-se a presença, ao menos neste momento processual, de fundamentação idônea à manutenção da prisão cautelar, a bem da ordem pública, diante da gravidade concreta da conduta imputada a ALEXANDRE PEREIRA DA SILVA, pois apontado que "o custodiado teria realizado ultrapassagem em local proibido, não tomando as diligências necessárias para evitar o acidente, no qual ceifou a vida da vítima, acrescendo-se que "o custodiado empregado fuga após a prática delitiva, denotando a vontade do agente em evadir-se do distrito da culpa, comprometendo, assim, a aplicação da Lei penal".
+A constrição cautelar impõe-se pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, revelada no modus operandi do delito e diante da acentuada periculosidade do acusado, evidenciada na propensão à prática delitiva e conduta violenta. Confira-se: AgRg no RHC n. 174.050/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/3/2023, DJe de 10/3/2023; AgRg no RHC n. 167.491/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 28/2/2023, DJe de 3/3/2023.
+" ..  ao acusado que comete delitos, o Estado deve propiciar meios para o processo alcançar um resultado útil. Assim, determinadas condutas, como a não localização, ausência do distrito da culpa, a fuga (mesmo após o fato) podem demonstrar o intento do agente de frustrar o direito do Estado de punir, justificando, assim, a custódia." (AgRg no HC n. 670.646/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/8/2021, DJe de 30/8/2021).
+Por fim, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, porquanto insuficientes para resguardar a ordem pública. A esse respeito: AgRg no HC n. 801.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+Logo, não se verifica manifesta ilegalidade apta a autorizar a mitigação da Súmula n. 691/STF, cabendo ao Tribunal de origem a análise da matéria meritória.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
