@@ -1,0 +1,21 @@
+DECISÃO
+Na origem, trata-se de embargos de terceiro objetivando a desconstituição da penhora sobre veículo, realizada no bojo de execução fiscal. Na sentença, julgou-se o pedido improcedente. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 33.553,00 .
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO CÍVEL. EMBARGOS DE TERCEIRO. EXECUÇÃO FISCAL. FRAUDE Ã EXECUÇÃO. CONFIGURAÇÃO. VENDA DE VEÍCULO APÓS A INSCRIÇÃO EM DÍVIDA ATIVA. INAPLICABILIDADE DA SÚMULA 375 DO STJ. ESPECIALIDADE DO ART. 185 DO CTN. PRESUNÇÃO ABSOLUTA DA FRAUDE. RECURSO NÃO PROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Ou seja, diante do apresentado, é certo que a alienação do veículo ocorreu após a inscrição do débito em dívida ativa, ao ajuizamento do executivo fiscal e a própria citação.
+Neste ponto, friso que a prova testemunhal e, ainda, a procuração outorgante direitos para a venda do veículo, são insuficientes a comprovar que a alienação tenha ocorrido antes dos marcos temporais acima elencados.
+Como apontado pelo Juízo primevo, a transferência de bens do devedor ocorrida após a inscrição do débito tributário em dívida ativa configura fraude contra a execução fiscal, independentemente de haver qualquer registro de penhora e de ser provada a má-fé do adquirente.
+Essas condições são exigíveis apenas para se caracterizar a fraude em caso de dívidas não tributárias, conforme decidiu a Primeira Seção do Superior Tribunal de Justiça.
+ ..
+Na assentada, restou consignado que a fraude à execução, diversamente da fraude contra credores, temcaráter absoluto, esclarecendo que nesse caso não há necessidade de se provar conluio entre o vendedor e ocomprador. Para o Ministro, a constatação da fraude é objetiva e não depende da intenção de quem participou donegócio. Basta que, na prática, tenha havido frustração da execução em razão da alienação.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação (arts. 828, § 4º e 844, do CPC), esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Constata-se ser inviável, em sede de Recurso Especial, a análise da alegada violação ao enunciado n. 375 STJ, uma vez que tal verbete não possui a equivalência de dispositivo de lei federal, nos termos exigidos pelo art. 105, III, da Constituição Federal, incidindo neste aspecto, o enunciado n. 518 da súmula do STJ, que dispõe: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
