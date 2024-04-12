@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento ao recurso especial, em face de acórdão assim ementado:
+AGRAVO INTERNO. Interposição contra decisão monocrática que indeferiu o benefício da "gratuidade" aos agravantes. INCONFORMISMO deduzido no Recurso. EXAME: Não demonstração dos requisitos para a concessão do benefício da "gratuidade". Presunção de pobreza ilidida por elementos e circunstâncias revelados nos autos. Decisão monocrática mantida. RECURSO NÃO PROVIDO.
+Nas razões de recurso especial, as partes agravantes alegam violação dos arts. 98 e 99, §§ 3º e 4º, do Código de Processo Civil. Apontam que deveria lhes ser concedido o benefício da Justiça gratuita. Sustentam que "O benefício perseguido deve ser analisado e concedido de forma individual, pois tal direito tem natureza personalíssima, portanto análise inexistente por parte dos ilustres Desembargadores 27ª Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo" (fl. 291).
+Afirmam que, "Por conseguinte, a análise da documentação juntada permite concluir que a situação financeira dos Recorrentes são compatíveis com a concessão da benesse ora pretendida, na medida em que seus rendimentos mensais perfazem ganhos inferiores a 03 (três) salários-mínimos, impondo-se tomar como referência o disposto no art. 2º, I, da Deliberação nº 89/2008, da Defensoria Pública do Estado de São Paulo, alterada pela Deliberação nº 137/2009" (fls. 291-292).
+Assim delimitada a controvérsia, passo a decidir.
+Com efeito, o Colegiado estadual, ao analisar as circunstâncias fáticas e as provas carreadas aos autos, assim entendeu (e-STJ fls. 279-280):
+No caso dos autos, além das circunstâncias já indicadas na decisão agravada, cumpre observar que constou da decisão agravada que os agravantes, embora intimados, deixaram de ".. apresentar todos os documentos declinados para que fosse possível avaliar de uma maneira global, sua condição financeira, limitando-se demonstrar que não apresentam declaração de imposto de renda, e comprovar somente a renda da embargante Antônia" ("sic", fl. 12).
+Ressalta-se que nada impede que o endereço de residência dos agravantes, informado por eles próprios no ato da interposição do Agravo de Instrumento (v. fl. 1), seja utilizado para aferir a necessidade ou não do benefício pleiteado.
+Assim, considerando que a presunção de pobreza é relativa, portanto sujeita à prova contrária, e ainda que há nos autos indicadores suficientes para afastar essa presunção, de rigor a manutenção da decisão monocrática.
+Nesse contexto, o Tribunal de origem, com base nos fatos e provas dos autos, manteve o indeferimento do benefício da gratuidade da Justiça aos agravantes, diante da falta de demonstração dos requisitos para a concessão desse benefício da gratuidade, pois que não há nos autos indicadores suficientes para conceder essa benesse. Nesse sentido, verifico que a revisão desse entendimento proferido pelo Colegiado local demandaria nova investigação acerca dos fatos e provas contidos no processo, de modo que o recurso especial esbarra na Súmula n. 7 do STJ.
+A propósito, guardadas as peculiaridades de cada caso, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUSTIÇA GRATUITA. INDEFERIMENTO. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. A jurisprudência firmada no âmbito desta eg. Corte de Justiça delineia que o benefício da assistência judiciária pode ser indeferido quando o magistrado se convencer, com base nos elementos acostados aos autos, de que não se trata de hipótese de miserabilidade jurídica.
+2. No caso, o Tribunal a quo entendeu não estar devidamente comprovada a impossibilidade de a parte arcar com as despesas do processo, não tendo sido acostadas aos autos provas que afastassem tal conclusão.
+3. A modificação de tal entendimento lançado no v. acórdão recorrido demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+4. Agravo interno não provido. (AgInt no AREsp 1.151.809/ES, Rel. Ministro LÁZARO GUIMARÃES, DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO, QUARTA TURMA, DJe de 28.2.2018.)
+Em face do exposto, nego provimento ao agravo.
+Deixo de proceder à majoração d os honorários advocatícios, visto que o Tribunal de origem não condenou a parte agravante a pagá-los.
+Intimem-se.
+EMENTA
