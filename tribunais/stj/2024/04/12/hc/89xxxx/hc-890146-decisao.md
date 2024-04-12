@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de GUSTAVO HENRIQUE PEREIRA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, cuja ementa teve o seguinte teor (fl. 442):
+AGRAVO EM EXECUÇÃO. DECISÃO QUE CONSIDEROU O PLEITO PREJUDICADO EM RAZÃO DA PRECLUSÃO CONSUMATIVA. INSURGÊNCIA DO APENADO. PLEITO DE ALTERAÇÃO DA DATA-BASE. QUESTÃO RESOLVIDA EM DECISÃO ANTERIOR, NÃO IMPUGNADA NO MOMENTO OPORTUNO. PRECLUSÃO. ADEMAIS, DATA-BASE QUE SE MOSTROU ACERTADA. NÃO CONHECIMENTO.
+Consta dos autos que o paciente teve indeferido o pedido de alteração da data-base.
+Inconformada, a defesa interpôs agravo de execução perante o Tribunal de origem, que não foi conhecido.
+Neste writ, sustenta o impetrante, em síntese, que "a inércia do defensor anterior ou, até mesmo, uma falha na elaboração de peça recursal anterior, prejudicaram o paciente. Contudo, flagrantes ilegalidades não podem ser convalidadas por rigorismos formais ou pelo decurso do tempo" (fl. 7).
+Assevera que "o paciente tem o direito ao duplo grau de jurisdição, ou seja, de ter uma "segunda opinião" sobre a questão colocada em debate, o que é justo e preserva o princípio da dignidade da pessoa humana disposto no art. 1º, III, da CF/1988, fundamento do Estado Democrático de Direito" (fl. 7)
+Ainda, alega que "não há justa causa para a fixação do dia 2/10/2020 como data-base, data da decretação da prisão temporária nos autos n. 5010335-14.2020.8.24.0045, devendo ser fixado o dia 27/11/2019, em razão do princípio constitucional da dignidade da pessoa humana (art. 1º, III, da CF/1988), até mesmo para se evitar a dupla punição, já que a mesma prisão gerou o PAD n. 008/2020 e, por tabela, o PAD n. 142/2020" (fl. 9).
+Requer "seja concedida a ordem para cassar o acórdão combatido e determinar que o órgão coator julgue o mérito do Recurso de Agravo em Execução Penal n. 8000665-33.2023.8.24.0064; de forma subsidiária, seja concedida a ordem para alterar a data-base para o dia 27/11/2019, data da recaptura do paciente (data da apreensão do telefone que deu início à investigação que subsidiou a Ação Penal n. 5091778-53.2020.8.24.0023)" (fl. 10).
+Prestadas as informações, o Ministério Público Federal manifestou-se pela prejudicialidade do writ, uma vez que o juízo da execução criminal considerou a data da nova falta grave, 15/8/23, para fins de data-base para futuros benefícios (fl. 477).
+Em petição de fls. 543-545, a defesa alega que "a atual data-base como sendo o dia 15/08/2023, fixada indevidamente pelo juiz, ainda não é definitiva. Logo, a data-base mencionada pode ser revertida e, por isso, não existe impedimento para a análise do presente habeas corpus".
+Da análise dos autos, verifica-se que a tese defensiva acerca da data da recaptura do paciente, não foi objeto de análise pelo Tribunal de origem, o que inviabiliza o exame por esta Corte Superior, sob pena de se incorrer em indevida supressão de instância. Nesse sentido: HC 360.484/BA, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 19/06/2018, DJe 28/06/2018; AgRg no Resp 1716705/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/04/2018, DJe 09/04/2018.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
