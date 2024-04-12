@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em favor de ANTONIO MIGUEL DE BARROS, contra acórdão do TRIBUNAL DE JUSTIÇA DE ESTADO DE SÃO PAULO proferido na Revisão Criminal n. 0005056-14.2023.8.26.0000/50000.
+Consta dos autos que o paciente foi condenado definitivamente pela prática do crime previsto no art. 33 da Lei n. 11.343/2006 (tráfico de drogas), à pena de 5 anos e 10 meses de reclusão, no regime fechado, e ao pagamento 583 dias-multa.
+A revisão criminal foi desprovida por aresto de fls. 67/73.
+Na presente impetração, a defesa alega a nulidade do flagrante, por ausência de justa causa para a busca pessoal.
+Busca, assim, a absolvição do paciente.
+Indeferido o pedido liminar às fls. 76/77.
+O Ministério Público Federal - MPF opinou pela denegação da ordem, em parecer de fls. 82/85, assim sumariado:
+"Habeas corpus. Crime de tráfico ilícito de drogas. Pleito de absolvição, sob alegação de suposta nulidade da busca pessoal realizada em desfavor do Paciente. Mero inconformismo com o quanto decidido pelas Instâncias Ordinárias, inclusive em sede de revisão criminal. Tema devidamente apreciado. Desconstituição das conclusões obtidas pelas Instâncias Ordinárias que ensejaria inevitável revolvimento do conjunto fático-probatório dos autos do processo-crime. Impossibilidade da utilização de habeas corp us para tal finalidade.
+Parecer pelo não conhecimento do mandamus"
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável processar o feito para verificar a existência de flagrante constrangimento ilegal a justificar a concessão da ordem de ofício.
+O Tribunal a quo afastou a nulidade da busca pessoal pelas seguintes razões:
+"Os policiais militares estavam em patrulhamento no local dos fatos quando avistaram alguns indivíduos que, ao notarem a presença da viatura, se dispersaram e começaram a caminhar rapidamente.
+Diante da atitude suspeita, o agravante foi abordado e, com ele foram encontradas 09 (nove) porções de maconha, pesando aproximadamente 20,14g (vinte gramas e catorze decigramas), além da quantia de R$ 43,00 (quarenta e três reais) em espécie e R$ 1.500,00 (mil e quinhentos reais) em cheque.
+Mister se faz esclarecer que o crime de tráfico de drogas, mormente nas figuras de trazer consigo, guardar e ter em depósito, configura crime permanente e sujeita o autor da conduta ao estado de flagrância enquanto perdurar a prática criminosa, prescindindo se, portanto, de mandado de busca e apreensão durante a ocorrência do delito.
+O crime estava acontecendo naquele momento, não havendo qualquer outra diligência a ser realizada, a não ser a averiguação policial. Portanto, não era de se esperar que os agentes ficassem inertes em razão de não haver mandado judicial para agir. "
+Nos termos do art. 240, § 2º, do Código de Processo Penal - CPP, para a realização de busca pessoal é necessária a presença de fundada suspeita no sentido de que a pessoa abordada esteja na posse de arma proibida, objetos ou papéis que constituam corpo de delito.
+Nesse contexto, a partir da leitura dos autos, verifica-se que os policiais militares, em ronda pela cidade, ao se aproximarem de alguns indivíduos, estes se dispersaram de forma repentina, atitude que levantou suspeita, levando os policias a fazerem a abordagem, não havendo falar em nulidade do flagrante.
+Verifica-se que foi constatada a existência de indícios prévios da prática de tráfico de drogas, a legitimar a atuação policial, não se cogitando de nulidade da busca pessoal. Vejam-se precedentes nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. BUSCA PESSOAL. FUNDADAS RAZÕES. GRUPO DE INDIVÍDUOS EM UM BECO. 2. BUSCA DOMICILIAR. PRÉVIA SITUAÇÃO DE FLAGRÂNCIA. DROGAS ARMANEZADAS EM RESIDÊNCIA PRÓXIMA. 3. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. EXPRESSIVA QUANTIDADE E VARIEDADE DE DROGAS. MAUS ANTECEDENTES. FUNDAMENTAÇÃO CONCRETA. 4. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Os agentes policiais estavam em patrulhamento ostensivo quando avistaram um grupo de indivíduos em um beco em atitude suspeita.
+Diante da movimentação atípica observada, as autoridades abordaram o grupo, oportunidade em que lograram êxito em apreender 74 (setenta e quatro) buchas de cocaína e 48 (quarenta e oito) pedras de crack em posse do paciente (e-STJ fl. 338).
+- As circunstâncias indicadas, em conjunto, ultrapassam o mero subjetivismo e indicam a existência de fundada suspeita de que o paciente estaria na posse de objeto ilícitos, em especial de substâncias entorpecentes, autorizando, assim, a abordagem policial.
+Desse modo, as diligências traduziram em exercício regular da atividade investigativa promovida pela autoridade policial, não havendo se falar em ausência de fundadas razões para a abordagem, porquanto indicados dados concretos, objetivos e idôneos aptos a legitimar a busca pessoal.
+- Nas palavras do Ministro Gilmar Mendes, "se um agente do Estado não puder realizar abordagem em via pública a partir de comportamentos suspeitos do alvo, tais como fuga, gesticulações e demais reações típicas, já conhecidas pela ciência aplicada à atividade policial, haverá sério comprometimento do exercício da segurança pública" (RHC 229.514/PE, julgado em 28/8/2023).
+2. A busca domiciliar se deu após a apreensão de relevante quantidade de drogas em posse do paciente, em via pública, bem como após a sua confissão de que armazenava entorpecentes em um imóvel próximo ao local dos fatos, ocasião em que ele próprio teria autorizado o ingresso das autoridades em sua residência.
+- Nesse contexto, a partir da análise sistêmica do contexto fático anterior à medida invasiva, tem-se concretamente demonstrada a existência de justa causa apta a legitimar a diligência em questão, mostrando-se irrelevante a ausência de mandado judicial, em especial diante da autorização do paciente. Destarte, não obstante a irresignação defensiva, também não há se falar em nulidade da busca domiciliar.
+3. O decreto de prisão preventiva encontra-se devidamente fundamentado, haja vista a gravidade concreta do crime, revelada pela prisão em flagrante do paciente com expressiva quantidade de droga em via pública bem como em seu domicílio. De igual sorte, a existência de condenação provisória e de processo em andamento por tráfico também indicam fundamentação concreta, diante da necessidade de evitar a reiteração delitiva. Assim, não há se falar em revogação da prisão cautelar.
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 835.741/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO. FUNDAMENTOS IDÔNEOS DA CUSTÓDIA CAUTELAR. GRAVIDADE CONCRETA DA CONDUTA. ELEVADA QUANTIDADE DE DROGAS APREENDIDAS. DENÚNCIA ANÔNIMA. BUSCA PESSOAL E VEICULAR. FUNDADA SUSPEITA EXIGIDA PELO ART. 244 DO CPP. VIOLAÇÃO DE DOMICÍLIO. NÃO CONFIGURADA. FUNDADAS RAZÕES PARA O INGRESSO.
+1. Na espécie, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, ante a gravidade concreta da conduta do agravante que, após denúncia anônima, foi abordado por policiais que encontraram em seu veículo "um pacote de papelão, embalado, com aproximadamente 5kgs de substância semelhante a maconha, em tijolos" (fl. 46) e, na residência do agravante, "foram localizados diversos tijolos de substância semelhante à maconha, bem como uma balança de precisão e mais porções de maconha fracionadas" (fl. 46). Assim, foi ressaltado que a apreensão de elevada quantidade de matéria proscrita apreendida e demais elementos apontam "a dedicação do flagrado com a prática da mercancia e o relacionamento com a narcotraficância" .
+2. Com relação à busca veicular, sabe-se que esta Corte Superior a equipara à busca pessoal, e o art. 244 do CPP assevera que "a busca pessoal independerá de mandado, no caso de prisão ou quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito, ou quando a medida for determinada no curso de busca domiciliar" (HC n. 691.441/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/4/2022, DJe de 26/4/2022).
+3. Em situação assemelhada, este Superior Tribunal já decidiu que "É válido considerar que a atuação policial no caso em questão se justifica, uma vez que as características do veículo abordado são idênticas às mencionadas na denúncia anônima recebida pelas autoridades. Tal correspondência fortalece a suspeita de envolvimento em atividades ilícitas, nesse caso específico, o tráfico de drogas". (AgRg no HC n. 824.520/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+4. O estado flagrancial do delito de tráfico de drogas consubstancia uma das exceções à inviolabilidade de domicílio prevista no inciso XI do art. 5º da Constituição, não havendo se falar, pois, em eventual ilegalidade na entrada dos policiais na residência do agravante, pois o mandado de busca e apreensão é dispensável em tais hipóteses.
+5. Agravo regimental improvido.
+(AgRg no HC n. 843.918/RS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/11/2023, DJe de 16/11/2023.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCA PESSOAL. INOCORRÊNCIA. FUNDADA SUSPEITA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O agravante foi condenado como incurso no art. 33, caput, da Lei n. 11.343/2006 à pena de 8 anos de reclusão, em regime inicial fechado, mais o pagamento de 799 dias-multa.
+2. Não se vislumbra qualquer ilegalidade na atuação dos policiais na busca pessoal, amparados que estão pelo Código de Processo Penal para abordar quem quer que esteja atuando de modo suspeito ou furtivo, não havendo razão para manietar a atividade policial sem indícios de que a abordagem ocorreu por perseguição pessoal ou preconceito de raça ou classe social.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 746.064/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/8/2022, DJe de 22/8/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. BUSCA PESSOAL. FUNDADAS RAZÕES. INTELIGÊNCIA POLICIAL. ATITUDE SUSPEITA DO AGENTE. ESTADO DE FLAGRÂNCIA VISÍVEL. NULIDADE PROCESSUAL NÃO ACOLHIDA. DECISÃO FUNDAMENTADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Consta dos autos, os policiais estavam em ronda e o paciente demostrou nervosismo ao avistar a presença dos policiais, situação que levantou a suspeita dos agentes, que fizeram a abordagem, ou seja, havia fundada .suspeita de que o mesmo estava cometendo algum ilícito, inexistindo assim, qualquer irregularidade.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 845.760/SP, de minha relatoria, Quinta Turma, julgado em 12/12/2023, DJe de 18/12/2023.)
+Por oportuno, confira-se, ainda, o seguinte julgado do Pretório Excelso:
+1. Agravo regimental no recurso ordinário em habeas corpus.
+2. Agravante, reincidente, preso com drogas, arma e balança.
+3. A Constituição que assegura o direito à intimidade, à ampla defesa, ao contraditório e à inviolabilidade do domicílio é a mesma que determina punição a criminosos e o dever do Estado de zelar pela segurança pública. O policiamento preventivo e ostensivo, próprio das Polícias Militares, a fim de salvaguardar a segurança pública, é dever constitucional.
+4. Fugir ao avistar viatura, pulando muros, gesticular como quem segura algo na cintura e reagir de modo próprio e conhecido pela ciência aplicada à atividade policial, objetivamente, justifica a busca pessoal em via pública.
+5. Alegação de violação a domicílio. Caso concreto. Inocorrência.
+6. Agravo improvido.
+(RHC 229514 AgR, Relator(a): GILMAR MENDES, Segunda Turma, julgado em 2/10/2023, PROCESSO ELETRÔNICO DJe-s/n DIVULG 20/10/2023 PUBLIC 23/10/2023.)
+AGRAVO INTERNO EM HABEAS CORPUS. DECISÃO CONDENATÓRIA TRANSITADA EM JULGADO. UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. AUSÊNCIA DE ILEGALIDADE EVIDENTE. HABEAS CORPUS NÃO CONHECIDO.
+1. É inviável a utilização da ação de habeas corpus como sucedâneo de revisão criminal.
+2. Nos crimes de natureza permanente, cuja situação de flagrância se protrai no tempo, é dispensável a apresentação de mandado judicial para a entrada forçada na residência do acusado, desde que a ação esteja amparada em fundadas razões (Tema n. 280/RG).
+3. Não se admite, na via estreita do habeas corpus, a qual não comporta dilação probatória, o reexame, com vistas ao acolhimento da tese defensiva - desrespeito à inviolabilidade de domicílio -, do conjunto fático-probatório produzido nas instâncias ordinárias.
+4. A conduta social, os maus antecedentes, a reincidência, o concurso de agentes, a quantidade e a natureza da droga apreendida e as circunstâncias da apreensão são exemplos de elementos indicativos da dedicação a atividade criminosa, justificativa idônea para afastar a minorante do tráfico privilegiado.
+5. A natureza e a quantidade de substância entorpecente apreendida são fundamentos suficientes para a imposição de regime mais gravoso.
+6. Agravo interno desprovido.
+(HC 212421 ED-AgR, Relator(a): NUNES MARQUES, Segunda Turma, julgado em 22/2/2023, PROCESSO ELETRÔNICO DJe-s/n DIVULG 6/3/2023 PUBLIC 7/3/2023. )
+Desse modo, inexiste flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
