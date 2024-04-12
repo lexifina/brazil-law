@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se  de  recurso  ordinário  em  mandado  de  segurança,  com  pedido  de  liminar,  interposto  por  WEBER OLIVEIRA DIAS  contra  acórdão  do  Tribunal  de  Justiça  do  Estado  de Mato Grosso do Sul  assim  ementado  (e-STJ  fl.  249):
+EMENTA - MANDADO DE SEGURANÇA - CONCURSO PÚBLICO - PRELIMINAR DE DECADÊNCIA - ACOLHIDA - PRAZO DE 120 DIAS PARA IMPETRAÇÃO SUPERADO - WRIT EXTINTO.
+O prazo decadencial para impetração do presente Mandado de Segurança iniciou-se em 02/05/2022 com marco final para 30/08/2022 nos termos da Lei 12.016/2009, artigo 23: Art. 23. O direito de requerer mandado de segurança extinguir-se-á decorridos 120 (cento e vinte) dias, contados da ciência, pelo interessado, do ato impugnado.
+Não há que se falar em omissão da banca examinadora porque o Edital trazia proibição expressa de análise de recurso de recurso ou revisão de recurso, exatamente o caso de que se trata o protocolo em 12/05/2022.
+Narra  a  parte  recorrente  que impetrou mandado de segurança contra a Secretária de Administração e Desburocratização do Estado de Mato Grosso do Sul, o Secretário de Estado de Justiça e Segurança Pública e o Presidente da Comissão do Concurso para ingresso nas carreiras na AGEPEN, em razão da ausência de resposta e/ou decisão acerca do recurso administrativo interposto e do requerimento em que cobra uma resposta/decisão do recurso.
+No presente recurso, sustenta a ausência de decadência, porquanto "trata-se de ato omissivo das autoridades coatoras, que se renova mês a mês, pois, até presente data, não obteve decisão fundamentada acerca da violação das regras editalícias e legislação estadual, consoante prevê o art. 48 da Lei n. 9784/99" (e-STJ fl. 283/284).
+Ao  final,  alegando  que  estão  presentes  os  requisitos  necessários,  pleiteia  a  concessão  de  liminar  para  que seja determinada "a análise do recurso administrativo motivando o ato que manteve a reprovação do recorrente" (e-STJ fl. 285) .
+Passo  a  decidir.
+Nos  termos  do  art.  7º,  III,  da  Lei  n.  12.016/2009,  a  concessão  de  medida  liminar  em  sede  de  mandado  de  segurança  requer  a  presença,  concomitante,  de  dois  pressupostos  autorizadores:  a)  a  relevância  dos  argumentos  da  impetração;  e  b)  que  o  ato  impugnado  possa  resultar  a  ineficácia  da  ordem  judicial,  caso  seja  concedida  ao  final.
+Na  presente  hipótese,  em  uma  análise  perfunctória  dos  autos,  própria  das  tutelas  de  urgência,  não  vislumbro  a  presença  dos  requisitos  que  autorizam  o  deferimento  da  liminar.
+Com  efeito,  os  fundamentos  do  presente  recurso  ordinário  não  são  aptos  a  configurar,  de  imediato,  o  direito  perseguido,  uma  vez  que  se  infere  do  voto condutor do acórdão  impugnado  que  o edital trazia proibição expressa de análise de recurso de recurso ou revisão de recurso, não havendo que falar em omissão. A  propósito  (e-STJ  fl.  256  ):
+Nota-se que o Edital trouxe específica a impossibilidade de apresentação de revisão de recurso ou recurso de recurso, fato este que deslegitima o recurso protocolado em 12/05/2022 por ser um pedido de revisão do recurso já analisado e respondido em 02/05/2022.
+Portanto, o prazo decadencial para impetração do presente Mandado de Segurança iniciou-se em 02/05/2022 com marco final para 30/08/2022 nos termos da Lei 12.016/2009, artigo 23:Art. 23. O direito de requerer mandado de segurança extinguir-se-á decorridos 120 (cento e vinte) dias, contados da ciência, pelo interessado, do ato impugnado.
+Ante  o  exposto,  INDEFIRO  o  pedido  liminar.
+Dê-se  vista  ao  Ministério  Público  Federal  nos  termos  do  art.  64,  III,  do  RISTJ.
+Publique-se.  Intimem-se.
+EMENTA
