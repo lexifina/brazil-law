@@ -1,0 +1,54 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5008124-46.2023.8.08.0012
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: GIULIANA RAPHAEL SANTOS
+RECORRIDO: SAMP ESPIRITO SANTO ASSISTENCIA MEDICA LTDA.
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Defiro o pedido de Assistência Judiciária Gratuita à parte recorrente.
+
+EMENTA: RECURSO INOMINADO. DIREITO DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. PLANO DE SAÚDE. MIGRAÇÃO. PORTABILIDADE. REQUISITOS CUMULATIVOS. CONFIGURADOS. CARÊNCIA. RESOLUÇÃO NORMATIVA N.°438/2018 DA ANS. DANO MORAL CONFIGURADO. NEGATIVA ABUSIVA. ADUZ A AUTORA, EM SÍNTESE, QUE REALIZOU A MIGRAÇÃO PARA O PLANO DE SAÚDE OPERADO PELA RÉ NO INTUITO DE REALIZAR UMA CIRURGIA NA AXILA. CONTUDO, AFIRMA QUE O PROCEDIMENTO FOI NEGADO PELA RÉ, TENDO QUE DISPOR DE R$1.400,00 (ID. 26228053 – SERVIÇOS MÉDICOS) + R$700,00 (ID. 26228102 – TAXAS DE SALAS, MATERIAIS E MEDICAMENTOS PARA CUSTEAR SUA REALIZAÇÃO. DIANTE DISSO, PLEITEIA A CONDENAÇÃO DA RÉ NO RESSARCIMENTO DO QUE PAGOU E NO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS.
+
+SENTENÇA DE PISO
+QUE JULGOU PARCIALMENTE PROCEDENTES OS PEDIDOS AUTORAIS PARA CONDENAR A REQUERIDA AO PAGAMENTO DE R$2.100,00, À TÍTULO DE DANOS MATERIAIS, CORRIGIDO MONETARIAMENTE A PARTIR DA DATA DE DESEMBOLSO E ACRESCIDO DE JUROS MORATÓRIOS A PARTIR DA DATA DE CITAÇÃO. RECURSO DA PARTE AUTORA PUGNANDO PELA REFORMA DA SENTENÇA QUANTO AOS DANOS MORAIS.
+RECURSO CONHECIDO E PROVIDO
+. A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA RECONHECE O DIREITO AO RECEBIMENTO DE INDENIZAÇÃO POR DANOS MORAIS ORIUNDOS DA INJUSTA RECUSA DE COBERTURA, POIS TAL FATO AGRAVA A SITUAÇÃO DE AFLIÇÃO PSICOLÓGICA E DE ANGÚSTIA NO ESPÍRITO DO USUÁRIO, UMA VEZ QUE JÁ ABALADO E COM A SAÚDE DEBILITADA
+. FALHA NA PRESTAÇÃO DE SERVIÇO. SITUAÇÃO
+ENFRENTADA PELO AUTOR ULTRAPASSA A ESFERA DE MERO ABORRECIMENTO. DANO MORAL CONFIGURADO.
+ISTO POSTO, CONHEÇO DO RECURSO INOMINADO E A ELE DOU PROVIMENTO PARA DECLARAR A CONDENAÇÃO À TÍTULO DE DANOS MORAIS NO VALOR DE R$3.000,00(TRÊS MIL REAIS)
+, COM
+JUROS MORATÓRIOS DE 1% AO MÊS E CORREÇÃO MONETÁRIA PELO IPCA-E (EM CONFORMIDADE COM O RE 870942 - STF - JULGADO EM 20/11/2017), A PARTIR DO PRESENTE ARBITRAMENTO, EM CONFORMIDADE COM A SÚMULA 362 DO STJ. SEM CUSTAS E HONORÁRIOS.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
