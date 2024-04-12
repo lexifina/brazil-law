@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MARTINS DA COSTA & CIA LTDA à decisão de fls. 112/113, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Diferentemente do demonstrado pela Ilustre Ministra Presidente, a parte recorrente procedeu com a juntada da procuração conferindo poderes à subscritora do agravo e do recurso especial, Dra. Renata Maria Baptista Cavalcante, conforme faz prova as fls. e-STJ 108. (fl. 116)
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A parte embargante, no momento da apresentação do agravo e do recurso especial, não juntou aos autos a cadeia completa de procuração e/ou substabelecimento conferindo poderes à subscritora dos recursos, a advogada Renata Maria Baptista Cavalcante, conforme certificado à fl. 103.
+Mesmo diante da intimação da parte para sanear o vício, ao contrário do alegado pela parte embargante, não houve a devida regularização. Conforme já consignado na decisão embargada, não é possível identificar o subscritor da procuração de fl. 108, bem como se este tem poderes para representar a pessoa jurídica, ora embargante, nos termos do art. 75, VIII do CPC.
+Registre-se que a parte trouxe o contrato social (fls. 131/142), no qual é possível identificar o subscritor da referida procuração, com o fim de regularizar a representação destes aclaratórios, após ter sido intimada (fl. 126). No entanto, não pode ser aceito, para fins de regularização da representação processual do subscritor do recurso especial e do agravo em recurso especial, em razão da preclusão (AgInt no AREsp 1520555/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 30/6/2020; AgInt no REsp 1788526/TO, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; e AgInt no REsp 1830797/SE, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 18/3/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+EMENTA
