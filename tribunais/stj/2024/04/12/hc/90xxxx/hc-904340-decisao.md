@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Gustavo Roque Guerreira, no qual se aponta como autoridade coatora o Tribunal de Justiça de Santa Catarina (HC n. 5008968-51.2024.8.24.0000).
+Consta dos autos que o paciente, juntamente com outros, foi preso preventivamente, acusado da prática dos delitos de tortura e organização criminosa.
+Impetrado o writ na origem, o Tribunal a quo denegou a ordem.
+Nesta instância superior, insiste o impetrante na ausência de indícios suficientes de autoria. Afirma que, apesar de o relatório policial afirmar que é o paciente nas imagens de vídeo que circulou na internet, no qual ficou registrado o crime de tortura, não juntou nenhum tipo de análise, ou ainda uma comparação morfológica entre a pessoa que aparece no vídeo e Gustavo Roque Guerreira (fl. 6).
+Aduz que a análise comparativa foi realizada após a decretação e o cumprimento do mandado de prisão.
+Sustenta que o que se extrai da representação policial são apenas supostas informações, sem qualquer evidência concreta acerca do alegado (fl. 8), porquanto as imagens do vídeo são de baixa resolução, o que impede a visualização clara das características faciais e corporais. Isso dificulta a comparação precisa com as fotos de alta resolução do Gustavo Roque Guerreira (fl. 9).
+Aponta que a ausência de provas concretas ou a insuficiência de evidências coloca em xeque a própria fundamentação da prisão preventiva, violando não apenas o princípio da presunção de inocência, mas também os princípios da proporcionalidade e da razoabilidade que devem nortear toda e qualquer medida restritiva de direitos (fl. 14).
+Requer, assim, a revogação da prisão preventiva, com a fixação, se necessário, de medidas cautelares diversas.
+É o relatório.
+Consoante relatado, pretende o impetrante a revogação da prisão preventiva, por ausência do fumus comissi delicti.
+A esse respeito, asseverou o acórdão impugnado (fls. 345/347 - grifo nosso):
+Ao que consta da decisão que acolheu o pedido da autoridade policial e decretou a medida extrema, existem provas da materialidade e, ao contrário do que alega o impetrante, indícios suficientes da autoria dos delitos imputados, justificando-se a prisão pela necessidade de garantir a ordem pública, dada a gravidade dos crimes, bem como pelo risco de reiteração delitiva, aferidos pelo modus operandi da conduta.
+Note-se:
+ ..  Ainda foi diligenciado e identificadas pela Autoridade policial as residências dos acusados, bem como o fato de possuírem antecedentes, notadamente por crime de tráfico. Tais elementos, ainda que não se constituam provas concludentes do crime, são indícios que dão fundamento às suspeitas da representação e ratificam a possibilidade de sucesso da busca na apreensão dos objetos e provas visados  .. .
+ ..  nos termos do art. 312 do CPP, a decretação da preventiva - que é a ultima ratio - têm como pressupostos a prova da materialidade do crime e indícios suficientes de autoria, consubstanciando-se no fumus comissi delicti.
+É necessário, também, estar presente o periculum libertatis, ou seja, a demonstração baseada em fatos novos ou contemporâneos que a liberdade dos acusados possa incorrer em perigo concreto ao regular desenvolvimento da investigação ou instrução criminal, e/ou violar a paz social em razão do potencial cometimento de outros crimes, e/ou fragilizar a aplicação da norma penal.
+O primeiro requisito, o fumus comissi delicti, está presente, o trabalho investigativo realizado até aqui indica a materialidade e a existência de indícios suficientes de autoria.
+Por outro lado, o periculum libertatis é evidente, sendo que a prisão preventiva dos agentes se justifica para a garantia da ordem pública, em razão do risco de reiteração criminosa.
+Apesar de não se existir um conceito preciso para a garantia da ordem pública, a hodierna jurisprudência que a segregação do agente é possível nas hipóteses de periculosidade social do agente, que é constatada pela gravidade concreta da conduta ou pela possibilidade de reiteração criminosa.
+No caso concreto, resumidamente, os investigados foram identificados pela polícia, após publicação nas redes sociais de vídeo contendo crime de tortura contra masculino desconhecido.
+Por meio de investigações, chegou-se aos nomes de GUSTAVO GERALDO FERREIRA (autor de jaqueta vermelha), GUSTAVO ROQUE GUERREIRA (autor de jaqueta de duas cores), e LUCAS DOS SANTOS TEODORO recebia ordens pelo telefone sobre o modo de execução do crime.
+ ..
+Enfim, esses elementos ao tempo em que colocam os investigados na cena criminosa, seja para assegurar a execução ou prestação de apoio, reforçam a necessidade de segregação, haja vista o real perigo que representam à sociedade.
+Todo esse contexto fático bem demonstra que as circunstâncias extrapolam o usual e que a segregação cautelar é necessária para garantia da ordem pública.
+Também diante da gravidade do crime de tortura, bem como o contexto (de provável imposição de disciplina por facção), além do fato do crime ser cometido mediante concurso de pessoas, a concessão de outras medidas cautelares demonstra ser insuficiente para acautelar a ordem pública.
+ ..
+Vale frisar, que do relatório investigativo, extrai-se que foi possível identificar os supostos autores dos crimes por meio do vídeo e de pessoas que preferem não se identificar e auxiliaram a autoridade policial.
+Ainda, consta do relatório de análise de imagens e voz:
+ ..  2.1. GUSTAVO ROQUE GUERREIRA Aos cinco segundos do vídeo, "Sossegado" determina "na cabeça não, deixa só o "gordinho", só bota a mão, deixa só o "gordinho"
+O "Gordinho" é Gustavo Roque Guerreira, pessoa bem conhecida do meio policial. Ele trafica drogas nas esquinas da rua Silvino Rovaris e na casa de seu sogro no bairro Paraíso. Não há dúvidas de sua identificação. No vídeo, ele aparece com uma blusa/jaqueta de cores preta e azul com capuz e, além da alcunha mencionada no vídeo, seu corte de cabelos, bigode e tatuagens o identificam ainda mais  ..  (ev. 1.1, p. 17 dos autos n. 5003373-11.2024.8.24.0020).
+Do contexto apresentado, não há dúvidas que os elementos por ora encartados constituem indícios suficientes da autoria do delito, sendo evidente que qualquer discussão mais aprofundada sobre a temática, reserva-se à ação penal, após o devido processo legal.
+ ..
+Quanto à presença dos requisitos da prisão preventiva, sabe-se que o decreto deve demonstrar a materialidade do crime e dos indícios de autoria de conduta criminosa, além de indicar fatos concretos e contemporâneos que demonstrem o perigo que a liberdade do investigado ou réu representa para a ordem pública, para a ordem econômica, para a conveniência da instrução criminal ou para a garantia da aplicação da lei penal, conforme o art. 312 do Código de Processo Penal (HC n. 592.107/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/9/2020).
+Ora, aqui se discute o fumus comissi delicti, que, conforme afirmado pela instância ordinária, encontra-se presente. Com efeito, a equipe policial teve acesso a um vídeo em que toda a conduta delituosa foi filmada, sendo possível a partir do seu exame identificar três dos autores da ação delituosa. Quanto ao paciente, além da possibilidade de identificação de características pessoais (corte de cabelo, bigode e tatuagens), no vídeo é possível também ouvir menções ao seu apelido - gordinho. Ademais, conforme informado o réu é pessoa bem conhecida dos policiais, o que facilitou a sua identificação.
+Oportuno ressaltar que discussões sobre a suficiência dos indícios ou idoneidade do meio de provas, análise de perícias, são reservadas ao mérito da ação penal, sendo suficientes, nesta fase, meros indícios de autoria, verificados na hipótese vertente.
+Ademais, as instâncias ordinárias reconheceram a existência de indícios de autoria delitiva, aptos a demonstrar a presença do fumus comissi delicti exigido pelo art. 312, caput, do Código de Processo Penal, maiores incursões acerca do tema demandariam revolvimento do conjunto fático-comprobatório dos autos, o que não é permitido na via estreita do recurso em habeas corpus (AgRg no HC n. 858.247/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/11/2023, DJe 1º/12/2023).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TORTURA E ORGANIZAÇÃO CRIMINOSA. FUMUS COMISSI DELICTI. INDÍCIOS DE AUTORIA DEVIDAMENTE DEMONSTRADOS. REVISÃO DO ENTENDIMENTO. NECESSIDADE DE REEXAME DE FATOS E PROVAS.
+Writ indeferido liminarmente.
