@@ -1,0 +1,64 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5031202-67.2022.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: SIRLENI ZOTTELE
+RECORRIDO: BRUNA EWALD CERQUEIRA 13571815742
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Concedo o benefício da justiça gratuita à parte Recorrente.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR.
+AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS.
+A AUTORA AFIRMA QUE COMPROU JUNTO À REQUERIDA UM CARREGADOR DE TELEFONE CELULAR, MAS NO PRIMEIRO USO O CARREGADOR QUEIMOU E DANIFICOU SEU APARELHO CELULAR. ALEGA QUE TENTOU SOLUCIONAR A QUESTÃO ADMINISTRATIVAMENTE, MAS A RÉ EXIGIU A APRESENTAÇÃO DE LAUDOS TÉCNICOS ATESTANDO SER O CARREGADOR EM QUESTÃO A CAUSA DAS AVARIAS NO CELULAR. ADUZ QUE, DIANTE DA APRESENTAÇÃO DE TAIS LAUDOS, A RÉ SOLICITOU AINDA OUTROS LAUDOS, RAZÃO PELA QUAL A AUTORA OPTOU POR JUDICIALIZAR A QUESTÃO, REQUERENDO INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS.
+SENTENÇA DE PISO
+QUE DECLAROU A INCOMPETÊNCIA DESTE JUÍZO E EXTINGUIU O PROCESSO SEM RESOLUÇÃO DO MÉRITO.
+RECURSO CONHECIDO E IMPROVIDO
+. EM FACE DA DETIDA ANÁLISE DOS DOCUMENTOS ACOSTADOS NOS AUTOS, É ESCORREITA A SENTENÇA DE PISO QUE RECONHECEU A INCOMPETÊNCIA ABSOLUTA DO PRESENTE JUÍZO, VEZ QUE INEXISTE NOS AUTOS OUTROS ELEMENTOS DE PROVAS SUSCETÍVEIS DE DIRIMIR A CONT
+ROVÉRSIA, NÃO SENDO POSSÍVEL A CONSTATAÇÃO SEGURA, SEM O EXAME PERICIAL, SE A CAUSA DOS DANOS NO APARELHO CELULAR EFETIVAMENTE TEM RELAÇÃO COM O MAU FUNCIONAMENTO DO CARREGADOR. É NECESSÁRIO SALIENTAR QUE O PRODUTO POSSUI INDÍCIOS DE MAU USO, ESTANDO COM A TELA TRINCADA, POSSIVELMENTE POR QUEDA. ASSIM, O CASO EM APREÇO É, SEM SOMBRA DE DÚVIDA, UM DESSES CASOS EM QUE A COMPETÊNCIA NÃO PODE SER FIXADA EM JUIZADOS ESPECIAIS, ISSO PORQUE O DIREITO MATERIAL ALEGADO PELA REQUERENTE REQUER PRODUÇÃO ESPECÍFICA DE PROVA TÉCNICO CIENTÍFICA PARA CONSTATAÇÃO DO SUPOSTO VÍCIO APRESENTADO NO PRODUTO. POR ESTES MOTIVOS,
+
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI Nº 9.099/95
+.
+CONDENADA A PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS FIXADOS EM R$300,00 (TREZENTOS REAIS), NA FORMA DO ART. 85, §8º, DO CPC/15, FICANDO SUSPENSA, TODAVIA, A EXIGIBILIDADE DE TAL VERBA SUCUMBENCIAL (CUSTAS E HONORÁRIOS) ANTE A CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA, CONFORME PRELEÇÃO DO § 3º, DO ART. 98, DO CPC/15.
+
+É como voto
+
+RAPHAEL RIBEIRO SANCHES
+
+JUIZ LEIGO
+
+O Sr. Juiz de Direito Relator Dr.
+GRÉCIO NOGUEIRA GRÉGIO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pelo Ilmo. Juiz Leigo e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
