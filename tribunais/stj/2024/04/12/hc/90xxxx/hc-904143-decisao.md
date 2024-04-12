@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ALLEF MARCOS DE ANDRADE, contra suposto ato coator do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO nos autos da Revisão Criminal n. 2171970-34.2023.8.26.0000 por alegado excesso de prazo para o julgamento.
+Consta dos autos que o paciente já foi condenado, com trânsito em julgado, contudo, estaria esperando injustificadamente desde julho/2023 por seu julgamento - o que não teria ocorrido até então, não tendo o feito sequer sido pautado.
+Daí o presente writ, no qual a defesa afirma que o paciente sofre constrangimento ilegal pela demora na apreciação de seu pedido junto ao juízo natural da causa - o que estaria lhe causando ofensa à liberdade de locomoção.
+Requer, inclusive liminarmente, que este STJ tome as providências no sentido de determinar a prestação jurisdicional célere.
+É o relatório. DECIDO.
+Conforme os autos, o juízo a quo estaria incorrendo em excesso de prazo injustificado para o julgamento.
+Ora, o direito à razoável duração do processo não se extrai de mera contagem de prazos processuais, devendo ser aferido in casu, a depender da complexidade do feito e, hoje, da própria demanda judiciária existente.
+Na linha dos precedentes desta Corte, outra não é a conclusão a que se chega senão a de que o prazos para apreciação dos pedidos pelo magistrado, em geral, não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos lapsos para os atos processuais.
+Nesse sentido:
+"Consoante o entendimento desta Corte Superior "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática. Demanda, ao contrário, um juízo de razoabilidade, no qual devem ser sopesadas as peculiaridades da causa ou quaisquer fatores que possam influir na tramitação" (HC n. 541.104/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/2/2020, DJe de 27/2/2020). Na hipótese, não se constata excesso de prazo injustificado, na medida em que a Corte Estadual consignou que os pedidos estão em andamento conforme a ordem cronológica, não havendo comprovação de qualquer fato ou causa caracterizadores de desídia ou inércia do Poder Judiciário ou do membro do Ministério Público. Aduziu que a execução tramita regularmente, sendo certo que os pedidos serão analisados em breve" (AgRg no HC n. 810.052/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 30/8/2023).
+No caso concreto, a origem não se pronunciou sobre os fatos, de forma que a matéria foi aqui apresentada em indevida supressão de instância, lembrando que este STJ possui a sua competência constitucional prefixada, não lhe competindo a correição do Judiciário de origem.
+Ante o exposto, não conheço do habeas corpus. Contudo, recomenda-se celeridade, desde já, para que a Corte de origem analise a causa o mais breve possível, com a inclusão do feito em pauta na primeira disponibilidade.
+Intime-se, com urgência, a origem, por meio de sua Corregedoria, para a observância desta recomendação e o seu acompanhamento.
+Publique-se. Intime-se.
+EMENTA
