@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Tribunal de Justiça do Estado de Minas Gerais e o Tribunal Regional Federal da 6ª Região, nos autos de ação em que se postula o fornecimento de medicamento, referente a competência para apreciação de agravo de instrumento interposto pela União em face de decisão prolatada por juiz estadual, que determinou o encaminhamento dos autos à Justiça Federal.
+Na origem trata-se de ação ajuizada por particular para compelir o Estado de Minas Gerais a fornecer medicamento registrado na ANVISA, mas não incorporado ao SUS.
+O feito iniciou sua tramitação na Justiça estadual, sendo determinada a inclusão da União no polo passivo, e a remessa dos autos à Justiça Federal. A União interpôs agravo de instrumento na Turma Recursal federal situada em Minas Gerais, que, por sua vez, remeteu os autos para distribuição perante o Tribunal Regional Federal da 6ª Região.
+Ao receber os autos, o TRF6 determinou o encaminhando do recurso da União para o Tribunal de Justiça do Estado de Minas Gerais, sob o fundamento de que a Corte federal "não tem jurisdição sobre decisões prolatadas por juízes estaduais". (fl. 30)
+O Tribunal Estadual mineiro suscitou o presente conflito, sob o entendimento de ser competência da Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença da União no processo, nos termos da Súmula n. 150/STJ. (fls. 352-355)
+Informações prestadas pelo juízo suscitado às fls. 373-374.
+Parecer do Ministério Público Federal opinando pela competência da Justiça Estadual (fls. 377-379)
+É o relatório. Decido.
+De início, impende esclarecer que a discussão travada nos presentes autos não tem por objetivo definir a competência da ação originária. Conforme relatado, o conflito diz respeito ao Tribunal competente para apreciação de agravo de instrumento interposto pela União em face de decisão prolatada por juiz estadual, que determinou o encaminhamento dos autos à Justiça Federal.
+O Ministério Público Federal, após ter vista dos autos, opina que a competência é do Tribunal de Justiça do Estado de Minas Gerais, tendo em vista que "o recurso interposto contra decisão de juízo estadual deve ser discutido na Justiça estadual, que a proferiu. Logo, cabe ao TJMG rever a referida decisão de primeiro grau."
+A propósito, destaco excertos do Parecer Ministerial (fls. 378-379):
+Não se discute que somente à Justiça Federal compete a manifestação sobre a existência de interesse jurídico justificador da presença da União no feito. Tal pronunciamento será feito na ação originária, pelo juízo federal, tendo em vista a decisão de declínio de competência pelo magistrado estadual.
+O presente conflito, contudo, não tem por objeto definir a competência para julgamento da própria ação originária. Limita-se a definir a Justiça competente para julgar o agravo de instrumento da União, interposto contra a decisão do juízo estadual que determinou a inclusão da União na lide e a remessa dos autos ao juízo federal.
+Conforme esclarecido pela Justiça Federal, "o fundamento da decisão prolatada se encontra, pois, unicamente focado na ausência de jurisdição do Tribunal Regional Federal da 6ª Região para reformar decisão de juiz estadual, em agravo de instrumento erroneamente endereçado a órgão incompetente". O próprio juízo estadual destacou que o agravo de instrumento objetiva "a reforma da decisão monocrática, reconhecendo-se a ausência de interesse da União no feito".
+Assim, com razão o TRF6 ao verificar óbice ao conhecimento de agravo de instrumento, que visa à reforma de decisão proferida por juiz estadual. O recurso interposto contra decisão de juízo estadual deve ser discutido na Justiça estadual, que a proferiu. Logo, cabe ao TJMG rever a referida decisão de primeiro grau.
+De fato, na situação posta nos autos, que refere-se especificamente à análise de agravo de instrumento interposto pela União contra decisão proferida por juiz estadual, a competência para o referido julgamento é da Justiça Estadual.
+Ante o exposto, com fundamento no art. 34, XXII, do RISTJ, conheço do presente conflito de competência para declarar competente o Tribunal de Justiça do Estado de Minas Gerais.
+Comunique-se aos juízos envolvidos.
+Publique-se.
+EMENTA
