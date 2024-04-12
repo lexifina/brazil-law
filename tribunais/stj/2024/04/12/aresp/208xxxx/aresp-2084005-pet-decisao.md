@@ -1,0 +1,25 @@
+DECISÃO
+RICARDO ADRIANO DE LUNA FARIAS, na petição de fls. 568-574, pugna pelo reconhecimento da prescrição da pretensão executória e a declaração de extinção da sua punibilidade.
+Por meio do despacho de fl. 577, determinei fossem solicitadas informações à autoridade apontada como coatora, que as prestou às fls. 579-583.
+Decido.
+Extrai-se dos autos que o requerente foi condenado, em sentença publicada em 4/9/2018 (fl. 235), à pena de 2 anos e 6 meses de reclusão mais 25 dias-multa, em regime aberto, pela prática dos delitos previstos nos arts. 12, caput e 15, caput, ambos da Lei n. 10.826/2003. O Tribunal a quo deu parcial provimento ao apelo defensivo para reduzir a pena imposta ao réu para 2 anos de reclusão, em regime aberto. O acórdão que julgou a apelação foi publicado em 5/3/2020.
+O Plenário do Supremo Tribunal Federal decidiu que o prazo de prescrição para o Estado executar a pena começa a ser contado a partir da condenação definitiva (trânsito em julgado) para a acusação e a defesa. O entendimento foi adotado na sessão virtual encerrada em 30/6/2023, por maioria de votos, no julgamento do Agravo em Recurso Extraordinário ARE n. 848.107, e tem repercussão geral (Tema 788).
+A tese jurídica fixada foi a seguinte:
+O prazo para a prescrição da execução da pena concretamente aplicada somente começa a correr do dia em que a sentença condenatória transita em julgado para ambas as partes, momento em que nasce para o Estado a pretensão executória da pena, conforme interpretação dada pelo Supremo Tribunal Federal ao princípio da presunção de inocência (art. 5º, inciso LVII, da Constituição Federal) nas ADC 43, 44 e 54.
+Houve modulação dos efeitos do julgamento e o Supremo Tribunal Federal determinou:
+a) aos casos com a prescrição da pretensão executória reconhecida (independentemente do juízo, da data da prolação da decisão e da suspensão dos prazos pelo reconhecimento do tema de repercussão geral), a não aplicação do tema;
+b) aos casos em que a questão objeto do tema ainda não havia sido decidida ou analisada:
+i) com trânsito em julgado para a acusação ocorrido até 11/11/2020 (inclusive), a não aplicação do tema;
+ii) com trânsito em julgado para a acusação ocorrido depois de 11/11/2020 (a partir de 12/11/2020, inclusive), a aplicação do tema.
+Ficou definido, expressamente, que, para todos os casos em que o trânsito em julgado para a acusação se haja dado ANTES de 11/11/2020 - incluídos aí os lapsos em que houve oscilação jurisprudencial acerca da correta aplicação da literalidade do dispositivo (ou seja: do julgamento do HC 84.078, em 5/2/2009 ao julgamento do HC 126.292, ocorrido em 17/5/2016, e deste até o julgamento das ADCs 43, 44 e 54, em 11/11/2020) - aplica-se a literalidade do art. 112, I, do CP, fluindo o prazo prescricional a partir deste termo: trânsito em julgado para a acusação.
+Na hipótese, consoante informações prestadas pelo juízo de p rimeiro grau, o trânsito em julgado para a acusação ocorreu em 30/6/2020, ou seja, em data anterior a 11/11/2020, não se aplica a tese firmada na análise do tema, de modo que, em tais situações, permanece a incidência da literalidade do art. 112, I, do Código Penal.
+Sob tal perspectiva, o limite para a perda da pretensão executória - considerando a pena em concreto de 2 anos - é de 4 anos, nos termos do art. 109, V, do Código Penal. Assim, não transcorreu lapso superior a 4 anos entre o trânsito em julgado para a acusação (30/6/2020) e o presente momento.
+Urge consignar, que ao contrário do aduzido pelo postulante, o trânsito em julgado para a acusação apenas deu-se com o transcurso do prazo in albis para recorrer do acórdão da apelação e não da sentença condenatória. Isso porque o Tribunal de origem deu parcial provimento ao recurso de apelação defensivo a fim de reduzir a reprimenda imposta pelo Magistrado sentenciante. A partir de então, renovou-se o interesse recursal do Ministério Público, que poderia ter oposto embargos declaratórios e interposto recursos excepcionais, se assim entendesse, haja vista que houve alteração da condenação.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. NÃO OCORRÊNCIA.
+1. O lapso prescricional a ser observado na hipótese, ex vi dos arts. 109, III; 110, § 1º; 112, I; e 115, todos do Código Penal, é de 6 anos. Todavia, analisando o autos, tem-se que o trânsito em julgado para a acusação deu-se em 24/9/2018 (e-STJ fl. 1.903), quando o Ministério Público deixou de recorrer do acórdão que reduziu a pena do ora agravante, e não como alega a defesa, em 27/7/2015, data em que certificada a ausência de recurso do Parquet quanto à sentença condenatória. Assim, não transcorrido o lapso prescricional pertinente ao reconhecimento da prescrição da pretensão executória, afasta-se o reconhecimento da causa extintiva de punibilidade.
+2. Agravo regimental desprovido.
+(AgRg no REsp n. 1.861.887/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 8/2/2022, DJe de 15/2/2022, grifei)
+À vista do exposto, indefiro o pedido.
+Publique-se e intimem-se.
+EMENTA
