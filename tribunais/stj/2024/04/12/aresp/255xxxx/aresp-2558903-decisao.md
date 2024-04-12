@@ -1,0 +1,28 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por SAO FRANCISCO SISTEMAS DE SAUDE SOCIEDADE EMPRESARIA LIMITADA, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Agravo em Recurso Especial interposto em: 01/09/2023.
+Concluso ao gabinete em: 04/04/2024.
+Ação: de obrigação de fazer c/c compensação por danos morais, em fase de cumprimento provisório de sentença, ajuizada por STEFANY LUIZA VALERIO, em face da agravante, na qual almeja a cobertura para tratamento de grave patologia (doença de Crohn CID K50.1), por meio de medicamento prescrito pelo médico assistente.
+Decisão interlocutória: rejeitou a impugnação ao cumprimento de sentença apresentada pela parte agravante, fundada no descabimento da cobrança de multa por descumprimento e na exorbitância das astreintes.
+Acórdão: negou provimento ao agravo de instrumento interposto pela agravante, nos termos da seguinte ementa:
+Agravo de Instrumento. Cumprimento provisório de sentença. Decisão agravada que rejeitou a impugnação e condenou a Impugnante ao pagamento de "astreintes" (R$ 57.454,18), danos morais (R$5.345,46) e honorários advocatícios (R$2.075,91). Irresignação acerca da multa. Não acolhimento. Decisão que expressamente indicou a incidência da multa, acaso não comprovado o cumprimento da determinação, condição não verificada até o momento, apesar do longo período decorrido. Recurso não provido. (e-STJ, fl. 90)
+Recurso especial: alega a violação do art. 537, § 1º, do CPC. Sustenta a necessidade de revisão do valor fixado a título de astreintes, em razão da ausência de proporcionalidade. Além disso, assevera a existência de risco de equilíbrio econômico-financeiro, considerando que a negativa de atendimento, na hipótese, ocorreu em razão de a parte agravada não possuir cobertura de atendimento prevista no Rol da ANS.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. 537, § 1º, do CPC, indicado como violado, o que inviabiliza o seu julgamento. Aplica-se, portanto, a Súmula 282/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, quanto ao cabimento e adequação da multa e a proporcionalidade de seu valor com os danos sofridos, não guarda acolhimento no entendimento pacificado desta Corte Superior de Justiça, de que a razoabilidade e a proporcionalidade das astreintes deve ser verificada no momento em que fixadas, levando em conta o seu valor inicial, e não em relação ao valor da obrigação principal ou do montante consolidado pela desobediência do devedor.
+E considerando que as circunstâncias fáticas da situação dos autos analisadas pela Corte de origem, soberana na análise das provas dos autos, quanto à recalcitrância no cumprimento da obrigação, a fixação da multa em R$ 57.454,18 (cinquenta e sete mil quatrocentos e cinquenta e quatro reais e dezoito centavos), não se mostra exorbitante e a redução do valor fixado mostra-se inviável. Isso porque o exame da compatibilidade do valor da penalidade e o bem jurídico tutelado foi feito na esfera do conjunto fático probatório dos autos, sendo vedada sua revisão na estreita via do recurso especial.
+- Da fundamentação deficiente
+Constata-se, da leitura das razões do recurso especial, que quanto à alegação de existência de risco de equilíbrio econômico-financeiro na hipótese, a agravante não aduz a violação a qualquer dispositivo infraconstitucional, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+Forte nessas razões, CONHEÇO do agravo, para NÃO CONHECER do recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 2.075,91 (dois mil e setenta e cinco reais e noventa e um centavos) - e-STJ, fl. 93 - para R$ 2.200,00 (dois mil e duzentos reais), observada eventual concessão de justiça gratuita.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. ASTREINTES. DESCUMPRIMENTO DA OBRIGAÇÃO. VALOR DA MULTA. REVISÃO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação de obrigação de fazer c/c compensação por danos morais, em fase de cumprimento provisório de sentença.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. A alteração da conclusão dos juízos de origem e o consequente acolhimento da tese recursal que pleiteia a redução do valor das astreintes demandariam o reexame dos fatos e das provas dos autos, providência vedada na via estreita do recurso especial, ante o teor da Súmula 7/STJ. Tal óbice, conforme assentado por esta Corte Superior, somente comporta temperamentos quando se trata de valor manifestamente irrisório ou exorbitante, o que não se verifica no particular.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. Agravo conhecido. Recurso especial não conhecido, com majoração de honorários.
