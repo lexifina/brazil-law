@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por CLAUDIANE RAQUEL PAES RODRIGUES contra inadmissão de recurso especial aviado com fulcro na alínea a do permissivo constitucional contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul na Apelação Criminal n. 0000631-20.2022.8.12.0015, ementado nos seguintes termos (e-STJ fl. 645):
+EMENTA - APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - RECURSO DEFENSIVO - RECONHECIMENTO DA MINORANTE DO TRÁFICO EVENTUAL (ART. 33, §4º DA LEI 11.343/06) - INCABÍVEL - SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS - REQUISITOS NÃO PREENCHIDOS - RECURSO DESPROVIDO.
+I - Para a configuração do tráfico privilegiado, é necessária a reunião cumulativa de determinados requisitos, devendo o agente ser primário e portador de bons antecedentes; não se dedicar à atividades criminosas e não integrar organização criminosa (art. 33, § 4º, da Lei n. 11.343/06). Contudo, neste caso, não se encontraram preenchidos os requisitos, porquanto se trata de ré responsável pelo transporte de quantidade vultuosa de droga altamente deletéria e de grande valor econômico, bem como se verificam presentes circunstâncias indicativas de que colaborou, ainda que eventualmente, com organização criminosa.
+II - Mantendo-se a pena definitiva em patamar superior a 04 anos de reclusão, não há se falar em conversão da pena, conforme prevê o art. 44, I, do CP.
+III - Recurso desprovido, com o parecer.
+Depreende-se dos autos que a acusada foi condenada como incursa no art. 33, caput, da Lei n. 11.343/2006, à pena de 5 anos de reclusão, em regime inicial semiaberto, por ter sido flagrada em posse de 3,100kg (três quilos e cem gramas) de cocaína.
+No recurso especial, a defesa aponta constrangimento ilegal decorrente do cálculo dosimétrico. Sustenta que a recorrente preenche os requisitos legais para o reconhecimento do tráfico privilegiado, é primária e tem bons antecedentes.
+Dessa forma, requer a concessão da causa de diminuição em seu patamar máximo.
+Ouvido, o Ministério Público Federal manifestou-se pelo desprovimento do recurso.
+É o relatório.
+Decido.
+Preliminarmente cumpre ressaltar que, na esteira da orientação jurisprudencial do Superior Tribunal de Justiça, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+No ponto, o Tribunal a quo assentou que (e-STJ fls. 650/651):
+Ora, do que restou verificado, a apelante transportava quantidade expressiva de droga altamente deletéria e de grande valor econômico, ou seja, MAIS DE 3 KG DE COCAÍNA, que, somada às circunstâncias do delito, é apta a revelar a colaboração com organização criminosa.
+Ficou evidenciado nos autos que a ré seguia um modus operandi, visto que, utilizava-se de um automóvel destinado ao transporte de passageiros, com os entorpecentes escondidos dentro de malas de viagem. A pretensão era realizar o transporte da droga da cidade de Corumbá/MS até esta capital, onde receberia como pagamento a quantia de R$ 2.000,00 (dois mil reais).
+Assim, entendo, que o réu não faz jus à benesse.
+Na espécie, as instâncias ordinárias denegaram a minorante em virtude de a recorrente transportar os entorpecentes em grandes quantidades. Tal situação evidencia, de pronto, que ela seria uma "mula do tráfico".
+Outrossim, acerca da redução da pena para pessoas nessa situação, considero que não se pode excluir, pura e simplesmente, a possibilidade de aplicação do § 4º do art. 33 da Lei n. 11.343/2006. Contudo, tal redução não pode alcançar a proporção máxima.
+Ora, ainda que não integre, em caráter estável e permanente, a organização criminosa, o transportador tem perfeita consciência de estar a serviço de um grupo dessa natureza, o que não pode ser desprezado, razão pela qual entendo que a agravante faz jus à minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, na fração de 1/6, notadamente em virtude da quantidade de droga apreendida.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. RECONSIDERAÇÃO. INADMISSÃO DO RECURSO ESPECIAL DEVIDAMENTE IMPUGNADA. TRÁFICO DE DROGAS. DOSIMETRIA. ART. 33, § 4º, DA LEI DE DROGAS. MULA. EXPRESSIVA QUANTIDADE DE DROGAS. APLICAÇÃO. POSSIBILIDADE. FRAÇÃO DE 1/6. ILEGALIDADE. OCORRÊNCIA. REDIMENSIONAMENTO. NECESSIDADE. AGRAVO PROVIDO.
+1. Haja vista que os fundamentos da decisão de inadmissão do recurso especial foram devidamente impugnados, o agravo deve ser conhecido.
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a condição de mula do tráfico, por si só, não afasta a incidência do art. 33, § 4º, da Lei 11.343/2006, podendo, contudo, autorizar a aplicação da minorante em 1/6.
+3. Tendo sido fixada a pena-base no mínimo legal, sem agravantes e atenuantes, a pena deve majorada em 1/6, em razão de o delito ter sido praticado dentro de transporte público, e reduzida em 1/6, pela aplicação da minorante do Tráfico privilegiado, reduzindo a reprimenda para 4 anos e 10 meses e 10 dias, além de 485 dias-multa.
+4. Considerada a fundamentação concreta trazida pelo Tribunal de origem, referente à grande quantidade de droga apreendida -1 kg de cocaína - deve ser fixado o regime imediatamente mais gravoso, o fechado.
+5. Não é cabível a substituição da pena privativa de liberdade por restritivas de direitos, haja vista o quantum da pena aplicada, nos termos do art. 44, inciso I, do Código Penal.
+6. Agravo regimental provido para fixar a pena da recorrente DÉBORA SILVA PINTO em 4 anos, 10 meses e 10 dias de reclusão, em regime fechado, além do pagamento de 485 dias-multa. (AgRg no AREsp 1711745/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/11/2020, DJe 20/11/2020)
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PENA-BASE. ELEVADA QUANTIDADE DE ENTORPECENTE APREENDIDO. FUNDAMENTAÇÃO IDÔNEA. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. MULA. REDUÇÃO EM 1/6. PROPORCIONALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na hipótese do tráfico ilícito de entorpecentes, é indispensável atentar para o que disciplina o art. 42 da Lei n. 11.343/2006, segundo o qual o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente.
+2. No presente caso, em atenção às diretrizes do art. 59 do CP e do art. 42 da Lei de Drogas, para fixar a pena-base, pelo delito de tráfico, 5 anos acima do mínimo legalmente previsto, houve a consideração da elevada quantidade do entorpecente apreendido (1.508,73kg de maconha), não havendo qualquer ilegalidade nos referidos fundamentos.
+3. O Tribunal a quo reconheceu a figura do tráfico privilegiado em favor do envolvido, mas, diante do fato de estar a serviço de organização criminosa, ainda que eventual e esporádico, na função de "mula", verificou-se o vínculo, concluindo que a fração redutora de 1/6 se amolda à hipótese. Portanto, não há que se falar em ilegalidade em tal patamar, uma vez que houve fundamentação concreta e em consonância à jurisprudência desta Corte.
+4. O fato de o acusado ter transportado a droga em claro contexto de patrocínio por organização criminosa é circunstância apta a justificar a redução da pena em 1/6, pela aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006. Precedentes.
+5. Agravo regimental não provido. (AgRg no AgRg no AREsp 1753400/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 1º/12/2020, DJe 7/12/2020)
+Redimensiono a pena.
+Mantendo a reprimenda até o terceiro estágio, aplico a minorante do tráfico privilegiado de drogas em 1/6, e fixo a pena em 4 anos e 2 meses de reclusão, além de 417 dias-multa.
+Mantidos os demais termos do acórdão.
+Ante o exposto, conheço do agravo e dou parcial provimento ao recurso especial, nos termos ora delineados.
+Publique-se. Intimem-se.
+EMENTA
