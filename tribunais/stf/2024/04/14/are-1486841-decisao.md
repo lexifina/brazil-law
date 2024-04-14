@@ -1,0 +1,53 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. CONTRIBUIÇÃO DESTINADA AO SEBRAE E AO INCRA: LEGITIMIDADE DA COBRANÇA. RECEPÇÃO PELA EMENDA CONSTITUCIONAL N. 33/2001. PRECEDENTES. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Quinta Turma do Tribunal Regional Federal da Terceira Região:
+
+    “DIREITO TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. CONTRIBUIÇÕES PREVIDENCIÁRIAS. CDA– PRESUNÇÃO DE CERTEZA E LIQUIDEZ NÃO ILIDIDA PELO CONTRIBUINTE. CONTRIBUICOES AO INCRA E AO SEBRAE – LEGITIMIDADE DA COBRANCA. SEGURO ACIDENTE DE TRABALHO (SAT) – DESNECESSIDADE DE LEI COMPLEMENTAR PARA SUA INSTITUIÇÃO – POSSIBILIDADE DO ESTABELECIMENTO DE ALÍQUOTAS VIA DECRETO REGULAMENTAR. TAXA SELIC – INCIDÊNCIA. 1. A parte contribuinte não trouxe aos autos elementos que pudessem infirmar a presunção de certeza e liquidez da certidão de dívida ativa, ônus que a ela competia. Ademais, a análise da CDA que instrui a cobrança demonstra que ela preenche os requisitos legais, tendo fornecido à parte contribuinte os elementos necessários para pleno conhecimento da exigência fiscal e apresentação da respectiva defesa, dela constando os dispositivos que fundamentam a exigência das exações em cobro e dos acréscimos que incidem sobre o valor originário, bem como o número do processo administrativo que originou a cobrança. 2. A contribuição ao Sebrae tem sua constitucionalidade referendada pelo STF (RE 396266), sendo válida sua cobrança independentemente de contraprestação direta em favor do contribuinte (STF: RE 635682; STJ: AGRg no REsp I216186/RS). Assim, é exigível inclusive de empresas caracterizadas como de médio e grande porte. Precedentes do STJ. 3. O Supremo Tribunal Federal reconhece a constitucionalidade da exigência do Seguro Acidente do Trabalho (SAT), sendo desnecessária lei complementar para sua instituição. Ademais, legítima a regulamentação dos conceitos de atividade preponderante e graus de risco por intermédio de norma regulamentar (STF - RE 343446). O Superior Tribunal de Justiça também tem admitido esta regulamentação via decreto (REsp 1580829/SP). Tais entendimentos estão pacificados tanto nas Cortes Superiores quanto no âmbito deste Tribunal. 4. A exigência da contribuição de intervenção no domínio econômico destinada ao Incra, devida por empregadores rurais e urbanos, foi reconhecida pelo STJ em precedente paradigmático (REsp 977.058/RS), tendo sido também objeto da Súmula n° 516 daquela Corte Superior. 5. A legitimidade da incidência da taxa Selic - índice que abrange juros moratórios e correção monetária - para a atualização de débitos tributários é plenamente reconhecida tanto pelas Cortes Superiores (STJ: REsp 879.844/MG; STF: RE 582.46I/SP) quanto no âmbito deste Tribunal, sob todas as óticas combatidas. 6. Possível a redução da multa moratória aplicada, em atenção ao disposto no artigo 106, II, ‘c’, do CTN, em combinação com a nova redação dada ao artigo 35 da Lei nº 8.212/91 pela Lei nº 11.941/09, que submete a questão ao disposto no artigo 61 da Lei nº 9.430/96. Este dispositivo prevê, em seu § 2º, um percentual máximo de 20% às multas de mora. 7. Trata de hipótese em que houve sucumbência mínima do embargado. Assim, em tese seria cabível a condenação da embargante na verba honorária, em atenção ao principio da sucumbência e tendo em vista o disposto no artigo 21, parágrafo único, do CPC/1973, vigente à época. Todavia, na hipótese dos autos, incide a cobrança do encargo previsto no Decreto-Lei nº 1.025/69, substitutivo da verba honorária. 8. Remessa oficial, tida por submetida, não provida. 9. Apelação da parte contribuinte não provida” (fls. 30-31, doc. 14).
+
+    Os embargos de declaração opostos foram acolhidos “somente para integrar a fundamentação, sem modificação do resultado” (fl. 5, doc. 38).
+
+    2. No recurso extraordinário, a agravante alega ter o Tribunal de origem contrariado a al. a do inc. III do § 2º do art. 149, o inc. I do art. 150, o inc. I do art. 195 e o art. 240 da Constituição da República.
+
+    Sustenta que “a Emenda Constitucional n. 33/01, ao expressamente designar o faturamento como base de cálculo das contribuições de intervenção no domínio econômico, na forma do art. 149, § 2º, III, a, da Constituição, afastou, de forma reflexa, a espécie tributária que assumia critério material de incidência diverso, tal qual as Contribuições ao SEBRAE e ao INCRA, que incidem sobre a folha de salários” (fl. 14, doc. 21).
+
+    3. O Vice-Presidente do Tribunal de origem inadmitiu o recurso extraordinário com fundamento na harmonia do acórdão recorrido com a jurisprudência deste Supremo Tribunal (doc. 27).
+
+    4. No agravo interposto contra a inadmissão do recurso extraordinário, a agravante alega que “a incidência das contribuições ao SEBRAE e ao INCRA é de todo inconstitucional, na medida que viola a previsão do art. 149, § 2, III, a, da Constituição” (fl. 25, doc. 28).
+
+    Examinados os elementos havidos nos autos, DECIDO.
+
+    5. Razão jurídica não assiste à agravante.
+
+    6. No julgamento do Recurso Extraordinário n. 603.624-RG (Tema 325), Redator para o acórdão o Ministro Alexandre de Moraes, este Supremo Tribunal assentou que o acréscimo realizado pela Emenda Constitucional n. 33/2001 no inc. III do § 2º do art. 149 da Constituição da República não delimitou exaustivamente as bases econômicas passíveis de tributação por qualquer contribuição social e de intervenção no domínio econômico.
+
+    Nesse precedente, fixou-se a tese de que as contribuições devidas ao SEBRAE e ao INCRA com fundamento na Lei n. 8.029/1990 foram recepcionadas pela Emenda Constitucional n. 33/2001 . Eis a ementa desse julgado:
+
+    “CONSTITUCIONAL E TRIBUTÁRIO. CONTRIBUIÇÕES DESTINADAS AO SERVIÇO BRASILEIRO DE APOIO ÀS MICRO E PEQUENAS EMPRESAS (SEBRAE), À AGÊNCIA BRASILEIRA DE PROMOÇÃO DE EXPORTAÇÕES E INVESTIMENTOS (APEX) E À AGÊNCIA BRASILEIRA DE DESENVOLVIMENTO INDUSTRIAL (ABDI). RECEPÇÃO PELA EMENDA CONSTITUCIONAL 33/2001. DESPROVIMENTO DO RECURSO EXTRAORDINÁRIO. 1.O acréscimo realizado pela EC 33/2001 no art. 149, § 2º, III, da Constituição Federal não operou uma delimitação exaustiva das bases econômicas passíveis de tributação por toda e qualquer contribuição social e de intervenção no domínio econômico. 2.O emprego, pelo art. 149, § 2º, III, da CF, do modo verbal poderão ter alíquotas demonstra tratar-se de elenco exemplificativo em relação à presente hipótese. Legitimidade da exigência de contribuição ao SEBRAE - APEX - ABDI incidente sobre a folha de salários, nos moldes das Leis 8.029/1990, 8.154/1990, 10.668/2003 e 11.080/2004, ante a alteração promovida pela EC 33/2001 no art. 149 da Constituição Federal. 3.Recurso Extraordinário a que se nega provimento. Tema 325, fixada a seguinte tese de repercussão geral: As contribuições devidas ao SEBRAE, à APEX e à ABDI com fundamento na Lei 8.029/1990 foram recepcionadas pela EC 33/2001” (RE n. 603.624, Relatora a Ministra Rosa Weber, Redator para o Acórdão o Ministro Alexandre de Moraes, Plenário, DJe 13.1.2021).
+
+    Nesse sentido, por exemplo:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL E TRIBUTÁRIO. CONTRIBUIÇÃO DESTINADA AO SERVIÇO SOCIAL DA INDÚSTRIA – SESI. LEGITIMIDADE DA COBRANÇA. RECEPÇÃO PELA EMENDA CONSTITUCIONAL N. 33/2001. JULGADO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. TEMA 325 DA REPERCUSSÃO GERAL. VERBA HONORÁRIA MAJORADA EM 1% (§§ 2º, 3º E 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL/2015). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 1.334.591-AgR, de minha relatoria, Primeira Turma, DJe 4.10.2021).
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÕES SOCIAIS. ART. 149, § 2º, III, ALÍNA A, DA CONSTITUIÇÃO FEDERAL. TEMA 325 DA REPERCUSSÃO GERAL. CONTRIBUIÇÃO DESTINADA AO INCRA. RESTITUIÇÃO À ORIGEM. TEMA 495 DA REPERCUSSÃO GERAL. 1. A respeito da nova redação do art. 149 da Constituição Federal conferida pela EC 33/2001, o SUPREMO TRIBUNAL FEDERAL, no julgamento do Tema 325 da repercussão geral (RE 603.624, de minha relatoria), assentou que a alteração realizada pela referida Emenda Constitucional no artigo 149, § 2º, III, da Carta da República não estabeleceu uma delimitação exaustiva das bases econômicas passíveis de tributação a toda e qualquer contribuição social e de intervenção no domínio econômico. 2. Embora naquele precedente paradigma estivessem em foco as contribuições ao SEBRAE - APEX ABDI, o fato é que os mesmos fundamentos adotados no leading case aplicam-se à hipótese dos autos no que concerne às contribuições sociais para o SESI, SENAI, SESC, SEBRAE, e ao FNDE - Salário Educação. 3. Quanto à contribuição para o INCRA, o Plenário desta CORTE, no Tema 495 (RE 630.898, Rel. Min. DIAS TOFFOLI), reconheceu a repercussão geral da matéria referente à natureza jurídica da contribuição para o INCRA em face da Emenda Constitucional 33/2001, temática essa que irá repercutir, na definição do enquadramento, ou não, dessa exação nas hipóteses do artigo 149 da Constituição Federal. 4. Agravo Interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final)” (RE n. 1.250.692-AgR-segundo, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 12.5.2021).
+
+    Nesse sentido, por exemplo, as decisões monocráticas proferidas no ARE n. 1.310.460, Relator o Ministro Edson Fachin, DJe 5.4.2021; e no ARE n. 1.332.351, Relator o Ministro Gilmar Mendes, DJe 5.7.2021.
+
+    O acordão recorrido harmoniza-se com essa orientação jurisprudencial.
+
+    Nada há a prover quanto às alegações da agravante.
+
+    7. Pelo exposto, nego provimento ao recurso extraordinário com agravo (al. b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+    Anote-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do§ 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 14 de abril de 2024.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
