@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de Agravo de decisão que inadmitiu Recurso Especial interposto, com fulcro no permissivo constitucional do art. 105, III, "a", contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+AGRAVO INTERNO. Decisão monocrática que negou seguimento a recurso especial. - A impossibilidade jurídica da aplicação do art. 1º-F da Lei 9.494197, com redação dada pela Lei 11.960/2009, tanto em relação à correção monetária quanto aos juros de mora, às condenações impostas à Fazenda Pública quando oriundas de I ações de desapropriações diretas e indiretas, é matéria idêntica à tratada no rito dos recursos repetitivos  TEMA 905 - Resp. n. 1.495.146/MG. - Demais questões rebatidas que não se encontram submetidas à sistemática de recursos repetitivos  impugnação por recurso próprio. 11 Nega-se provimento ao recurso.
+Em seu Recurso Especial, o agravante afirma que houve infringência aos arts. 462, 471 e 620 do CPC/1973. Defende a possibilidade de elaboração de novo cálculo, nos próprios autos, e restituição de valores pagos a maior a título de juros e correção monetária em Ação Expropriatória.
+Inadmitido o Recurso por aplicação a Súmula 7 do STJ (fls. 400-401, e-STJ), a parte interpôs o presente Agravo (fls. 411-415, e-STJ).
+Parecer do Ministério Público Federal pelo conhecimento do Agravo para não conhecer do Recurso Especial às fls. 468-477, e-STJ.
+É o relatório.
+Decido.
+Os autos foram remetidos a este Gabinete em 15.3.2024.
+Conheço do Agravo, porquanto preenchidos os requisitos de admissibilidade, notadamente a impugnação dos argumentos da decisão agravada. Nada obstante, o Recurso Especial não comporta provimento.
+Os arts. 462, 471 e 620 do CPC/1973 e suas respectivas teses recursais não foram ventilados no aresto impugnado, e, embora tenham sido opostos os competentes Embargos Declaratórios para provocar a manifestação do Colegiado estadual , sobre eles não foi emitido juízo de valor. Falta, portanto, prequestionamento, requisito para acesso às instâncias excepcionais, ainda que se trate de matéria de ordem pública. Incide na hipótese o verbete sumular 211/STJ. Incide na hipótese, a Súmula 211/STJ.
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a matéria controvertida para o Tribunal. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais apontados e as teses a eles vinculadas, interpretando-se a sua aplicação ou não ao caso concreto.
+In casu, por simples cotejo das razões recursais com os fundamentos do acórdão recorrido, percebe-se que as alegações relacionadas aos artigos acima mencionados não foram apreciadas pelo Tribunal a quo.
+Nesse contexto, deixo de conhecer da suposta ofensa aos referidos dispositivos legais por incidência da Súmula 211 do STJ, notadamente porque a parte não alegou contrariedade aos arts. 1.022 e 489, § 1º, IV, do CPC, o que impede a consideração de prequestionamento ficto nos termos dos precedentes já firmados por este Tribunal Superior.
+Confiram-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESMORONAMENTO DE IMÓVEL VIZINHO. RISCO DE DESABAMENTO. ART. 70 DA LEI 8.666/93. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DANOS MORAIS. REVISÃO DO VALOR INDENIZATÓRIO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O Tribunal de origem não examinou a tese recursal sob o enfoque pretendido, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Assim, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo").
+2. Este Superior Tribunal firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 4/4/2017, DJe 10/4/2017).
+3. Em regra, não é cabível na via especial a revisão do montante que foi estipulado pelas instâncias ordinárias a título de indenização por danos morais, ante a impossibilidade de reanálise de fatos e provas por este Sodalício, conforme o óbice previsto na Súmula 7/STJ.
+4. A jurisprudência do Superior Tribunal de Justiça admite, somente em caráter excepcional, que o quantum arbitrado seja alterado caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade, o que não se verifica na espécie.
+5. Agravo interno não provido.
+(AgInt no AREsp 2.072.402/BA, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 7/12/2022)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS EMBARGANTES.
+1. A ausência de indicação, nas razões de recurso especial, das questões sobre as quais o Tribunal de origem manteve-se omisso, inviabiliza o reconhecimento da violação do art. 1022 do CPC/2015, em razão do óbice contido na Súmula 284/STF.
+2. A ausência de enfrentamento das teses recursais, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, no termo da Súmula 211/STJ.
+2.1. Nos termos da jurisprudência desta Corte Superior, a aplicação do artigo 1.025 do CPC/15 exige que a parte recorrente tenha oposto aclaratórios na origem e apontado, no recurso especial, violação ao artigo 1.022 do mesmo diploma e indicado de forma clara e específica, o vício existente no acórdão recorrido.
+3. Segundo a jurisprudência desta Corte, admite-se a juntada de documentos na fase recursal, desde que não se trate de documento indispensável à propositura da ação, não haja má-fé na sua ocultação e seja ouvida a parte contrária. Precedentes.
+3.1. Na hipótese dos autos, restou consignado que o aresto recorrido consignou que a juntada de documento novo na etapa recursal inviabilizou o contraditório, além do que assentou a sua insuficiência como prova da quitação. Incidência das Súmulas 7 e 83 do STJ.
+4. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, atrai a incidência da Súmula 283/STF, impedindo o acolhimento da pretensão recursal.
+5. A conclusão a que chegou o Tribunal de origem, relativa a quais os créditos passíveis de compensação, fundamenta-se nas particularidades do contexto que permeia a controvérsia. Incidência das Súmulas 5 e 7 do STJ.
+6. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1.271.206/GO, Rel. Ministro Marcos Buzzi, Quarta Turma, DJe 16/12/2022)
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
