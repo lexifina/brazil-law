@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a", da Constituição Federal) interposto de acórdão do Tribunal Regional Federal da 3ª Região assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. MANDADO DE SEGURANÇA. DÉBITOS RELATIVOS AO PAGAMENTO MENSAL POR ESTIMATIVA DO IRPJ E DA CSLL. ART. 6º DA LEI 13.670/2018. ALTERAÇÃO LEGISLATIVA. VEDAÇÃO SUPERVENIENTE. INCLUSÃO DO INCISO IX AO ART. 74, § 3º, DA LEI 9.430/1996. INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME DE COMPENSAÇÃO.
+1. O art. 6º da Lei 13.670/2018 acrescentou o inciso IX ao § 3º do art. 74 da Lei 9.430/1996, o qual preceitua que os débitos relativos ao recolhimento mensal por estimativa do Imposto sobre a Renda das Pessoas Jurídicas (IRPJ) e da Contribuição Social sobre o Lucro Líquido (CSLL) não poderão ser objeto da compensação de que trata o caput deste dispositivo.
+2. O entendimento do Superior Tribunal de Justiça é pacífico no sentido de que a lei aplicável à compensação é aquela vigente no encontro de contas, consoante Resp 1.164.452/MG, julgado sob a sistemática dos recursos repetitivos.
+3. O STJ tem decidido que não há direito adquirido a regime jurídico de compensação, sendo que as alterações realizadas em procedimentos são aplicáveis de imediato.
+4. A dedução de débitos relativos a pagamentos mensais por estimativa consubstancia mera expectativa de direito, que se aperfeiçoa no final de cada exercício (31 de dezembro), com a apuração do valor efetivamente devido.
+Precedentes (STJ e 3ª Turma do TRF3).
+5. A vedação a que se refere o art. 74, § 3º, IX, da Lei 9.430/1996 abrange também os débitos apurados por meio de balanços ou balancetes de suspensão ou redução, por força da disposição do art. 2º da Lei 9.430/19696, combinado com o art. 35 da Lei 8.981/1995. Precedente da 3ª Turma do TRF3.
+6. Remessa oficial e apelação da União providas. Apelação do contribuinte improvida.
+A parte agravante aponta violação, em preliminar, dos arts. 489 e 1.022 do CPC; e, no mérito, dos arts. 74, § 3º, IX, da Lei 9.430/1996 e 35 da Lei 8.981/1995, por entender que a vedação não pode se aplicar na hipótese de levantamento por balancete de redução.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 13 de março de 2024.
+O agravante pontua (fl. 425):
+Trata-se, na origem, de mandado de segurança impetrado pela RECORRENTE objetivando a garantia do seu direito de liquidar, por meio de compensação, as estimativas do Imposto de Renda da Pessoa Jurídica (IRPJ)e da Contribuição Social sobre o Lucro Líquido (CSLL)apuradas mediante o levantamento de balancetes de redução,afastando-se a vedação trazida pela Lei nº 13.670/2018, ou, sucessivamente, que talvedação passe a valer apenas no ano calendário de 2019.
+4.Ao apreciar a questão,o MM. Juízo de Primeira Instância concedeu parcialmente a segurança pleiteada pela RECORRENTE, fato que motivou a interposição do recurso de apelação por ambas as partes.Ao apreciar os aludidos recursos, o E. Tribunal a quo deu provimento à remessa oficial e ao apelo da União Federal, bem como negou provimento ao recurso de apelação da RECORRENTE.
+Preliminarmente, constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, asseverando que o Colegiado a quo não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, verifica-se que o acórdão controvertido está bem fundamentado, inexistindo omissão, contradição ou erro material.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Aclaratórios, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida. Registre-se, portanto, que a Corte regional examinou e decidiu, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+Observo que não foi emitido juízo de valor sobre as questões jurídicas levantadas em torno dos dispositivos mencionados. É inadmissível o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pela instância de origem, a despeito da oposição de EDcl e ainda que se trate de matéria de ordem pública, como a prescrição, haja vista a ausência de prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+Além disso, apenas para esclarecer eventuais dúvidas, ressalto que, mesmo nos casos em que os Declaratórios são acolhidos "para efeito de prequestionamento", não é satisfeita tal exigência. Isso porque, para que se tenha por atendido esse requisito, não basta que se dê por prequestionado o dispositivo, é indispensável também a emissão de juízo de valor sobre a matéria.
+No mérito, a irresignação não merece prosperar.
+A Corte a quo consignou (fls. 469-472):
+No mais, o acórdão recorrido se encontra em consonância com a jurisprudência do C. Superior Tribunal de Justiça, que reafirma a tese resultante do julgamento do REsp n.º 1164452 / MG, no regime de repetitividade (Tema 345): "A lei.que regula a compensação tributária é a vigente à data do encontro de contas"
+(..)
+Quanto à suposta violação ao , pontuo que aart. 35, da Lei n.º 8.981/95tese arguida no sentido de que a vedação não alcançaria a antecipação mensal apurada mediante balancete de suspensão e redução não é apta a ensejar a admissão do presente recurso, eis que destoa do entendimento daquela Corte.
+Afasta-se a ideia de simples valoração da prova, já que a instância de origem decidiu a questão com base no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça ante a incidência de sua Súmula 7: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Por tudo isso, conheço do Agravo para conhecer parcialmente do Recurso Especial, apenas com relação à violação do art. 1022 do CPC, e, nessa parte, negar-lhe provimento.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
