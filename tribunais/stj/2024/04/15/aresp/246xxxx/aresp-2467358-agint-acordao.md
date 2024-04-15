@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/04/2024 a 15/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. PROVIMENTO PARA CARGO DE PROFESSOR APRESENTAÇÃO DO DIPLOMA NO ATO DA POSSE. SÚMULA 266/STJ. OFENSA AOS ARTS. 489, § 1º, e 1.022 do CPC NÃO CONFIGURADA.
+1. Não há a ofensa aos arts. 489, § 1º, IV, e 1.022 do CPC/2015, porque o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, observando as questões relevantes e imprescindíveis à sua resolução.
+2. O aresto vergastado enfrentou expressamente a tese relativa à vinculação ao edital, mas entendeu que a Lei de Diretrizes e Bases, à época do concurso, admitia a formação em nível médio para o cargo pleiteado, razão pela qual as exigências editalícias contrárias à referida lei não poderiam ser aplicadas.
+3, No tocante à alegada prerrogativa municipal para estabelecer a formação profissional necessária para o acesso aos cargos públicos, não há omissão quanto a tal ponto, porque a tese não foi veiculada nas razões de Apelação, configurando indevida inovação recursal em Embargos de Declaração.
+4. Por fim, não se pode conhecer da irresignação ante o óbice da Súmula 283/STF. O recorrente não infirma o fundamento de que a exigência de diploma de ensino superior é inadmissível por contrariar a lei de regência - no caso, a Lei de Diretrizes e Bases. Limita-se a sustentar que há ofensa ao princípio da vinculação ao edital sob o argumento de que essa exigência foi prevista em lei.
+5. Agravo Interno não provido.
+RELATÓRIO
+Trata-se de Agravo Interno contra decisão que conheceu do Agravo para conhecer parcialmente e negar provimento ao Recurso Especial (fls. 292-293, e-STJ).
+A parte insurgente, nas razões do Agravo Interno, alega, em síntese:
+Ocorre que o recorrente impugnou fundamentadamente os argumentos elencados na decisão, em especial, no que se refere a exigência de diploma de ensino superior. Nessa senda, não resta dúvida de que, in casu, para não prolatar uma decisão eivada com vício em sua fundamentação, o eg. TJ/BA deveria, necessariamente, manifestar-se sobre os argumentos suso destacados.
+A ausência de enfrentamento de tais argumentos, consoante já escandido nas razões do apelo extremo, motivou a interposição de um recurso horizontal, por meio do qual a Municipalidade, além de apontar a ausência de enfrentamento dos referidos argumentos defensivos, demonstrou, mais uma vez, a aptidão deles para alterar o resultado proclamado.
+Como os aclaratórios foram rejeitados, data venia, não resta dúvida de que, ao menos, em relação aos argumentos suso reiterados, operou-se uma negativa de prestação jurisdicional e, portanto, uma violação ao(s) dispositivo(s) legal(is) mencionado(s) nas razões do apelo extremo.
+Conseguintemente, o recurso especial interposto pela Municipalidade, ao menos, em relação à omissão em destaque, não poderia ter sido inadmitido na origem, muito menos, improvido, uma vez que, in casu, a Corte de Justiça Estadual deu provimento sem antes enfrentar argumentos, que, em tese, eram dotados de aptidão para descaracterizar a alegada preterição.
+Como, in casu, o Exmo. Ministro Relator, monocraticamente, muito embora tenha conhecido o agravo em resp, negou parcialmente o provimento ao recurso especial, impõe-se que, em caso de não exercício de juízo retratação, esse eg. Órgão Colegiado, até em observância ao quanto escandido no art. 926 do CPC, reforme a decisão monocrática agravada para dar provimento ao recurso especial, a fim de que o acórdão, que julgou os aclaratórios, seja invalidado, uma vez que: -i-in casu, argumentos dotados de aptidão para alterar o resultado proclamado deixaram de ser apreciados pela Corte de Justiça Estadual; e, -ii-para se analisar se houve ou não negativa de prestação jurisdicional (única tese suscitada nas razões do apelo extremo), não se faz mister que haja o revolvimento do conjunto fático-probatório do processo nem a análise da legislação local, mas, em verdade, tão-somente, um cotejo entre o que o fora escandido pela Municipalidade, em suas manifestações, e o que fora decidido pela Corte de Justiça Estadual.
+E é isso que se requer!
+Impugnação não apresentada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. PROVIMENTO PARA CARGO DE PROFESSOR APRESENTAÇÃO DO DIPLOMA NO ATO DA POSSE. SÚMULA 266/STJ. OFENSA AOS ARTS. 489, § 1º, e 1.022 do CPC NÃO CONFIGURADA.
+1. Não há a ofensa aos arts. 489, § 1º, IV, e 1.022 do CPC/2015, porque o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, observando as questões relevantes e imprescindíveis à sua resolução.
+2. O aresto vergastado enfrentou expressamente a tese relativa à vinculação ao edital, mas entendeu que a Lei de Diretrizes e Bases, à época do concurso, admitia a formação em nível médio para o cargo pleiteado, razão pela qual as exigências editalícias contrárias à referida lei não poderiam ser aplicadas.
+3, No tocante à alegada prerrogativa municipal para estabelecer a formação profissional necessária para o acesso aos cargos públicos, não há omissão quanto a tal ponto, porque a tese não foi veiculada nas razões de Apelação, configurando indevida inovação recursal em Embargos de Declaração.
+4. Por fim, não se pode conhecer da irresignação ante o óbice da Súmula 283/STF. O recorrente não infirma o fundamento de que a exigência de diploma de ensino superior é inadmissível por contrariar a lei de regência - no caso, a Lei de Diretrizes e Bases. Limita-se a sustentar que há ofensa ao princípio da vinculação ao edital sob o argumento de que essa exigência foi prevista em lei.
+5. Agravo Interno não provido.
+VOTO
+Os autos foram recebidos neste Gabinete em 26.2.2024.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Não há a ofensa aos arts. 489, § 1º, IV, e 1.022 do CPC/2015, porque o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, observando as questões relevantes e imprescindíveis à sua resolução.
+O aresto vergastado enfrentou expressamente a tese relativa à vinculação ao edital, mas entendeu que a Lei de Diretrizes e Bases, à época do concurso, admitia a formação em nível médio para o cargo pleiteado, razão pela qual as exigências editalícias contrárias à referida lei não poderiam ser aplicadas.
+No tocante à alegada prerrogativa municipal para estabelecer a formação profissional necessária para o acesso aos cargos públicos, não há omissão quanto a tal ponto, porque a tese não foi veiculada nas razões de Apelação, configurando indevida inovação recursal em Embargos de Declaração.
+Ao decidir a controvérsia, o Tribunal de origem anotou:
+A respeito do tema. a Súmula 266 do Superior Tribunal de Justiça versa que "O diploma ou habilitação legal para o exercício de cargo deve ser exigido na posse e não na inscrição para o concurso público".
+A vista disso, o Colendo Superior Tribunal de Justiça possui entendimento consolidado acerca da exigência do diploma ou certificado de conclusão de curso apenas no ato da posse, conforme se vê do julgado abaixo:
+(..)
+Percebe-se, assim, que o caso em tela subsumisse perfeitamente a norma denotada. Por conseguinte, reconhecido o direito liquido e certo do impetrante cm determinar que o impetrado apenas exigisse o Diploma de Licenciatura e Ciências Biológicas ou equivalente, no momento da posse, permitindo a esse a participarão nas demais etapas do concurso, merece ser mantida a sentença que concedeu a segurança vindicada. Ante o exposto, INTEGRA-SE A SENTENÇA, em reexame necessária, mantendo-a em todos os seus termos.
+No caso concreto, observa-se que o aresto não possui imperfeição que autorize o seu retoque, haja vista que o relator fundamentou de forma clara a aplicação da Súmula 266 do STJ ao caso concreto.
+Ademais, não se pode conhecer da irresignação ante o óbice da Súmula 283/STF. A parte recorrente não infirma o fundamento de que a exigência de diploma de ensino superior é inadmissível por contrariar a lei de regência, no caso a Lei de Diretrizes e Bases. Limita-se a defender que há ofensa ao princípio da vinculação ao edital sob o argumento de que essa exigência foi prevista em lei.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, suficientemente fundamentada e em consonância com jurisprudência pacífica deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Ante o exposto, Agravo Interno não provido.
+É o Voto.
