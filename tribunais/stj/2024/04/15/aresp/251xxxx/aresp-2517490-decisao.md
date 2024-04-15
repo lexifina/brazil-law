@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão cuja ementa é a seguinte:
+TRIBUTÁRIO. ADUANEIRO. APELAÇÃO. MERCOSUL. DESQUALIFICAÇÃO DE ORIGEM DE MERCADORIA IMPORTADA. ATO DECLARATÓRIO EXECUTIVO COANAN.º 13/2010 . LEGALIDADE. ICMS NA BASE DE CÁLCULO DO PIS/COFINS IMPORTAÇÃO. ILEGALIDADE. RECURSO PARCIALMENTE PROVIDO.
+Os Embargos de Declaração foram rejeitados.
+A parte agravante, nas razões do Recurso Especial, sustenta que ocorreu violação, em preliminar, dos arts. 489 e 1.022 do CPC; e, no mérito, dos arts. 59, II, do Decreto 70.235/1972; 2º da Lei 9.784/1999; e 112 do CTN. Aduz:
+Como bem apontado pelo Recorrente, a autoridade fiscal lavrou o Auto de Infração utilizando como base para o lançamento um total de 42 (quarenta e duas) DI"s. Entretanto, embora tenha feito referência a estas 42 (quarenta e duas) DI"s, consta do Demonstrativo de Apuração do Imposto de Importação e reflexos um total de 57 (cinqüenta e sete) DI"s, para as quais o II, o PIS/Importação e a COFINS/Importação foram lançados.
+Sendo assim, restou claro a existência de uma incoerência entre o Relatório Fiscal, isto é, aos fundamentos da acusação que embasam o lançamento, e o lançamento propriamente dito, como que ficou violado o direito de defesa do Recorrente, ensejando em nulidade do Auto de Infração, por força do art. 59, II, do Decreto n.º 70.235/72 (R-PAF):
+(..)
+Repita-se, não está se falando na possibilidade de retroação da desqualificação do critério de origem da mercadoria, mas, sim, da aplicação da penalidade.
+Como bem preceitua o art. 112 do CTN:
+(..)
+É totalmente desproporcional estender os efeitos da desqualificação do certificado de origem para as importações anteriormente realizadas quando a irregularidade posteriormente constada decorre de fato involuntário atribuível à terceiros, não caracterizando intenção do Recorrente de prejudicar a atuação das autoridades fazendários.
+(..) O Recorrente foi totalmente surpreendido com a publicação do ADE Coana n.º 13/2010 e, mais ainda, com o lançamento do tributo, uma vez que não se teve acesso ao motivo da investigação e, tampouco, a razão da desclassificação dos certificados uma vez que estes seriam confidenciais, consoante informação do próprio auto de infração: "A referida Nota Coana/Cotac/Dinom baseou-se em relatório que não pode ser apresentado neste auto de infração por ter caráter confidencial".
+Sendo assim, mais uma vez, esbarramos na nulidade do lançamento por força do art. 59, II, do Decreto 70.235/72 (R-PAF), diante da clara afronta ao art. 5º, LV, da Constituição Federal, bem como por afronta ao art. 2º da Lei n.º 9.784/99.
+Ante o exposto, resta clara a necessidade de reforma do acórdão recorrido, tendo em vista a clara ofensa aos dispositivos apontados (art. 59, II, do Decreto 70.235/72), bem como aos princípios do contraditório e ampla defesa, devido processo legal, boa-fé, segurança jurídica e proteção da confiança, consagrados no art. 2º da Lei n.º 9.784/99.
+Contrarrazões apresentadas às fls. 1.069-1.077, e-STJ.
+O juízo de admissibilidade negativo deu ensejo à interposição do presente Agravo.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 18.3.2024.
+Inicialmente, afasta-se a alegação de ofensa ao art. 1.022 do CPC, porque não foi demonstrada omissão capaz de comprometer a fundamentação do acórdão recorrido ou de constituir-se em empecilho ao conhecimento do Recurso Especial.
+Ademais, a ausência de fundamentação não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Assim, não há violação do art. 489 do CPC quando o Tribunal de origem decide de modo claro e fundamentado, como ocorre na hipótese. A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. CREDITAMENTO PIS E COFINS. DESPESAS NÃO CARACTERIZADAS COMO INSUMOS. IMPOSSIBILIDADE. REVISÃO DE CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+5. Afasta-se a alegação de ofensa ao art. 1.022 do CPC/2015, porque não demonstrada omissão capaz de comprometer a fundamentação do acórdão recorrido ou de constituir empecilho ao conhecimento do Recurso Especial.
+6. Consoante a jurisprudência do STJ, a ausência de fundamentação não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Assim, não há violação do art. 489 do CPC/2015 quando o Tribunal de origem decide de modo claro e fundamentado, como ocorre na hipótese.
+(..)
+20. Agravo Interno não provido.
+(AgInt no AREsp 2.127.331/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/2/2024.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. REAJUSTE DE 3,17%. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. PROCEDÊNCIA PARCIAL DO PEDIDO. ALEGAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. APLICAÇÃO DA SÚMULA N. 7/STJ. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 211/STJ E 282, 356/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO. AUSÊNCIA.
+(..)
+IV - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+V - Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". (EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+(..)
+XI - Agravo interno improvido.
+(AgInt no AREsp 2.375.332/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJe de 20/12/2023.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. CUMPRIMENTO DE SENTENÇA. NOVA PROVA TÉCNICA. OFENSA À TESE REPETITIVA. AUSÊNCIA. VIOLAÇÃO DA COISA JULGADA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+(..)
+6. Agravo interno desprovido.
+(AgInt no AREsp 1.790.832/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 22/3/2022.)
+Outrossim, para que se configure o prequestionamento é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se a sua aplicação ou não ao caso concreto.
+Nesse contexto, por simples cotejo das razões recursais com os fundamentos do acórdão, percebe-se que a tese recursal vinculada ao art. 112 do CTN, tido como ofendido, não foi apreciada pela Corte a quo.
+Ressalte-se que, embora tenha havido oposição de Embargos de Declaração (fls. 955-960, e-STJ), a tese recursal sequer fora mencionada, incidindo, na hipótese, o verbete sumular 211/STJ.
+Quanto à suposta nulidade do Auto de Infração, o TRF3 consignou:
+Afirma a recorrente que o auto de infração é nulo, porquanto prejudicado seu direito de defesa, na forma dos artigos 5º, inciso LV, da CF e 59, inciso II, do Decreto n.º 70.235/72, uma vez que houve divergência entre o relatório fiscal e o lançamento realizado. Observa-se, entretanto, que se limita a invocar a ocorrência do vício processual, sem demostrar qual o prejuízo efetivo decorrente, dado a ele foi assegurado o exercício do seu direito ao contraditório, com acesso à decisão devidamente fundamentada proferida pela administração, de modo que não há que se falar em nulidade ou mesmo cerceamento de defesa.
+(..)
+No caso, foi constatada pela autoridade aduaneira inconsistências nos certificados de origem apresentados pelos exportadores uruguaios Marplatense S.A, Pecoa S.A, Siete Mares SRL, Oro Azul S. e Dalkan S.A, fornecedores das postas de cação à apelante no período de 2008 a 2010, como demonstram as declarações de importação juntadas aos autos (Id 102315402, p. 12/85 e 87/160), razão pela qual são devidos os tributos incidentes sobre a operação de importação realizadas, sem qualquer violação ao ato jurídico perfeito.
+Nota-se, ainda, que o procedimento de controle e verificação das importações realizadas no âmbito do MERCOSUL independe da análise da boa-fé do importador, uma vez que a análise feita pela autoridade aduaneira recai objetivamente sobre o ato da importação, fato gerador dos tributos exigidos.
+No julgamento dos Embargos de Declaração, esclareceu:
+Ao contrário do afirmado pelo embargante, não se verifica obscuridade na decisão impugnada, pois o entendimento firmado no acórdão é de que, na forma do Decreto n.º 5.455/2005 (artigos 18 e 34), é possível a verificação e controle dos certificados de origem pelo Estado-Parte importador com vista à apuração da sua autenticidade das informações nele inseridas e, constatada alguma inconformidade, a exigência de todos os tributos incidentes sobre a mercadoria importada, inclusive aquelas já nacionalizada, como no caso.
+Igualmente não há que se falar em omissão à análise da nulidade do auto de infração e à boa-fé, pois devidamente apreciada pelo decisum:
+Verifica-se que o Colegiado originário decidiu a causa após percuciente análise do acervo de fatos e das provas dos autos.
+Na moldura delineada, infirmar o entendimento assentado no aresto recorrido de que "foi assegurado o exercício do seu direito ao contraditório, com acesso à decisão devidamente fundamentada proferida pela administração, de modo que não há que se falar em nulidade ou mesmo cerceamento de defesa", bem como que "foi constatada pela autoridade aduaneira inconsistências nos certificados de origem apresentados pelos exportadores uruguaios Marplatense S.A, Pecoa S.A, Siete Mares SRL, Oro Azul S. e Dalkan S.A, fornecedores das postas de cação à apelante no período de 2008 a 2010, como demonstram as declarações de importação juntadas aos autos (Id 102315402, p. 12/85 e 87/160)", e, por fim, que "o procedimento de controle e verificação das importações realizadas no âmbito do MERCOSUL independe da análise da boa-fé do importador, uma vez que a análise feita pela autoridade aduaneira recai objetivamente sobre o ato da importação, fato gerador dos tributos exigidos", passa por revisitar o acervo probatório, o que é vedado na via eleita ante o disposto na Súmula 7/STJ.
+Por tudo isso, conheço do Agravo para conhecer parcialmente do Recurso Especial e, nessa parte, negar-lhe provimento.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino, contra a parte recorrente, a majoração no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
