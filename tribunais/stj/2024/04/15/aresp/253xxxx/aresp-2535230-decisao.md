@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região assim ementado (fl. 569, e-STJ):
+AGRAVO INTERNO. ISENÇÃO DE IMPOSTO DE RENDA. PESSOA FÍSICA. MOLÉSTIA GRAVE. MARCO INICIAL. GRATUIDADE DE JUSTIÇA INDEVIDA. RECURSO PARCIALMENTE PROVIDO.
+1. Preliminarmente, em relação à gratuidade de justiça, o documento juntado em ID 261532541 demonstra que a parte agravante percebe pensão militar em valor considerável, o qual lhe possibilita arcar com eventuais custas e ônus processuais. Ademais, as Declarações de Ajuste Anual do Imposto de Renda de Pessoa Física demonstram elevados valores auferidos pela agravante. Por esta razão, é devida a manutenção da negativa à concessão da gratuidade de justiça.
+2. No mérito, a controvérsia do presente recurso consiste exclusivamente quanto ao termo inicial da isenção do imposto de renda em razão de doença grave. Em nova análise das provas dos autos, verifica-se que, em documento datado de setembro de 2019, o médico psiquiatra atestou que a parte agravante estava "consciente e orientada, negando episódios esporádicos de desorientação. Calma e colaborativa. Sem sinais ou sintomas neurológicos.". Nesse sentido, a alegação de que o marco temporal da doença grave é setembro de 2010 resta infirmado pela prova documental, não comportando acolhimento.
+3. Em relação ao pedido subsidiário para que seja considerada a data de 10 de março de 2020 com marco inicial da comprovação da alienação mental da parte agravante, cabe destacar que o documento do autos realmente comprova, através de laudo médico especializado, que, em tal data, já havia comprovação de alienação mental.
+4. Agravo interno parcialmente provido.
+As partes agravantes, nas razões do Recurso Especial, alegam que ocorreu, além de divergência jurisprudencial, violação dos arts. 98 e 99 do CPC e 6º, XIV, da Lei 7.713/1988. Requerem a alteração do termo inicial da isenção do Imposto de Renda. Aduzem a imprescindibilidade, no caso dos autos, da concessão da gratuidade judiciária. Sustentam, em suma (fl. 607, e-STJ):
+(..) Portanto, em face de tudo o que foi exposto, é inequívoca a necessidade de fixação de setembro de 2010, data do diagnóstico inicial da doença de Alzheimer, como sendo o marco inicial para a obtenção da isenção do Imposto de Renda, com a subsequente condenação da Recorrida à restituição de todos os valores recolhidos e/ou descontados a esse título desde a referida data.
+Contrarrazões apresentadas às fls. 666-671, e-STJ.
+Inadmitiu-se a irresignação (fls. 673-677, e-STJ), o que ensejou a interposição do Agravo de fls. 681-693, e-STJ.
+Parecer do MPF às fls. 719-725, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 18.3.2024.
+Trata-se, na origem, de Ação Declaratória c/c Repetição de Indébito contra a Fazenda Nacional, visando ao reconhecimento do direito da parte autora à isenção de Imposto de Renda, nos termos do art. 6º, XIV, da Lei 7.713/1988.
+Ao dirimir a controvérsia, o Colegiado originário assim se manifestou (fl. 574, e-STJ, grifos acrescidos):
+Preliminarmente, em relação à gratuidade de justiça, o documento juntado em ID 261532541 demonstra que a parte agravante percebe pensão militar em valor considerável (valor bruto de R$ 22.981,60, em fevereiro de 2020), o qual lhe possibilita arcar com eventuais custas e ônus processuais. Ademais, as Declarações de Ajuste Anual do Imposto de Renda de Pessoa Física demonstram elevados valores auferidos pela agravante. Por esta razão, é devida a manutenção da negativa à concessão da gratuidade de justiça.
+No mérito, a controvérsia do presente recurso consiste exclusivamente quanto ao termo inicial da isenção do imposto de renda em razão de doença grave.
+Sobre o assunto, a r. sentença proferiu o seguinte entendimento:
+(..)
+Nesse sentido, a alegação de que o marco temporal da doença grave é setembro de 2010 resta infirmado pela prova documental, não comportando acolhimento. (..)
+Nesse panorama, dissentir das conclusões do decisum recorrido - de que é descabida a concessão da gratuidade judiciária, ante a não demonstração de hipossuficiência financeira, e de que inexistiu comprovação quanto ao acometimento da moléstia grave desde o termo inicial pretendido - requer revolvimento do conjunto fático-probatório dos autos, providência vedada nesta via ante o óbice da Súmula 7/STJ.
+A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO. ISENÇÃO DE IMPOSTO DE RENDA. ABSOLUTAMENTE INCAPAZ. IMPOSSIBILIDADE DE FLUÊNCIA DE PRAZO PRESCRICIONAL. PRECEDENTES DO STJ. LAUDO COMPROBATÓRIO DA INCAPACIDADE. SÚMULA 7/STJ.
+1. Cuida-se de Ação de Restituição de Imposto de Renda referente aos valores recolhidos no período de 2004 a 2015, nos termos do art. 6º, XIV, da Lei 7.713/88. A autora alega que já sofria de Alzheimer (CID G30.1) e Alienação mental irreversível desde 2004, de modo que, sendo absolutamente incapaz, não corria o prazo prescricional contra a autora. No primeiro grau a demanda foi julgada parcialmente procedente, condenando-se a União a restituir o imposto de renda no período de 2004 a 2015. A Corte de origem deu parcial provimento ao Apelo da União para afirmar que o marco inicial do direito da autora corresponde a fevereiro de 2006, quando passou a manifestar a alienação mental. (..) 5. Ademais, assim decidiu o Tribunal de origem ao tratar da questão da incapacidade da parte requerente (fls. 327-328, e-STJ): "Dessa forma, restou comprovado que a Doença de Alzheimer permaneceu em evolução no período de abril de 2004 a fevereiro de 2006, quando passou a se manifestar na forma de alienação mental, autorizando o reconhecimento do direito da parte autora à isenção do imposto de renda por doença grave, na forma do art. 6º, inciso XIV, da Lei nº 7.713/88.". In casu, a Corte de origem baseou seu entendimento nas provas carreadas aos autos. Assim, acolher a tese defendida pela parte recorrente somente seria possível mediante novo exame do contexto fático-probatório da causa, o que atrai a incidência da Súmula 7/STJ.
+(..)
+8. Agravo Interno não provido.
+(AgInt no REsp 2.057.555/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 17/10/2023, grifos acrescidos)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. JUSTIÇA GRATUITA. PESSOA JURÍDICA. AUSÊNCIA DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA FINANCEIRA. REVISÃO. SÚMULA 7/STJ. MULTA. INAPLICABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, a pessoa jurídica faz jus à gratuidade judiciária, desde que comprove a insuficiência de recursos financeiros para custeio das despesas processuais.
+2. Concluindo a instância originária que não há hipossuficiência financeira apta a justificar concessão do benefício da justiça gratuita, descabe, em recurso especial, rever esse posicionamento, ante a incidência da Súmula 7/STJ.
+3. Não incide a multa descrita no art. 1.021, § 4º, do CPC/2015 quando não comprovada a manifesta inadmissibilidade ou improcedência do pedido.
+4. Agravo interno desprovido.
+(AgInt no AREsp 2.383.848/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 26/10/2023)
+Assim, a solução dos temas não depende apenas de interpretação da legislação federal, mas efetivamente da análise da documentação contida nos autos, o que não se compatibiliza com a missão constitucional do STJ, em grau recursal. Na mesma linha, as seguintes decisões monocráticas: REsp 2.118.986/RS, Rel. Ministra Regina Helena Costa, DJe 6/2/2024; REsp 2.082.632/DF, Rel. Ministro Benedito Gonçalves, Dje 23/11/2023; REsp 2.056.328/RJ, Rel. Ministra Regina Helena Costa, DJe 16/3/2023.
+Por fim, "não se pode conhecer do recurso pela alínea c, uma vez que, aplicada a Súmula n. 7/STJ quanto à alínea a, fica prejudicada a divergência jurisprudencial" (AgInt no AREsp 2.194.756/SP, Rel. Ministro Humberto Martins, Terceira Turma, DJe 20/3/2024).
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, em 2% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
