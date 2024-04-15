@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de Recurso Especial interposto contra acórdão assim ementado (fls. 20-31, e-STJ):
+EMENTA - AGRAVO DE INSTRUMENTO - AÇÃO DE EXECUÇÃO FISCAL - PEDIDO DE PENHORA ON-LINE, VIA SISTEMA SISBAJUD - INDEFERIMENTO NA ORIGEM - CIRCUNSTÂNCIAS DO CASO CONCRETO QUE AUTORIZAM A ALTERAÇÃO DA ORDEM PREFERENCIAL - DILIGÊNCIAS MÍNIMAS QUE DEVEM SER REALIZADAS PELO CREDOR - DECISÃO MANTIDA - RECURSO NÃO PROVIDO.
+Nos termos do art. 835 do CPC, a penhora de dinheiro tem prioridade na ordem legal de preferência. Contudo, no caso, não se está exigindo da parte o prévio esgotamento das diligências administrativas, mas o cumprimento daquelas que podem ser realizadas de modo simples e com a mesma eficácia que seria alcançada se fossem implementadas pelo Poder Judiciário, até porque o exequente não pode se eximir do seu dever de cooperação.
+Trata-se de medida ponderada e alinhada à especificidade do caso concreto, a fim de se evitar diligências que em sua maioria restarão inúteis e ineficientes, em observância aos princípios da eficiência, da economia e celeridade processual.
+Assim, considerando que pode o juiz, de acordo com as circunstâncias do caso concreto, alterar a ordem de preferência da penhora em dinheiro (art. 835, § 1º, do CPC), que, na hipótese, encontra-se plenamente justificável, tenho como consentâneo manter a responsabilidade ao exequente pela busca de outros bens para satisfação de seu crédito.
+Os Embargos de Declaração foram rejeitados (fls. 65-70, e-STJ).
+O Recurso Especial de fls. 76-91 (ou 157-159), e-STJ, foi devolvido ao Colegiado originário para adequação. Sem retratação, o decisum recebeu então a seguinte ementa (fls. 104-109, e-STJ):
+AGRAVO DE INSTRUMENTO - EXECUÇÃOFISCAL - RETORNO DA VICE-PRESIDÊNCIA PARA REEXAME DA MATÉRIA- PENHORA VIA SISTEMA SISBAJUD - VIOLAÇÃO AOS TEMAS 219 E 425, DO STJ - NÃO VERIFICADO - JUÍZO DE RETRATAÇÃO NÃO EXERCIDO.
+Não tendo o acórdão baseado-se no fato de que somente seria possível a penhora on line de valores se houvesse efetiva comprovação pelo credor de exaurimento de vias extrajudiciais na busca de outros bens para serem contristados, não há que se falar, obviamente, em ofensa aos temas 219 e/ou 425, do STJ.
+Destarte, diante das circunstâncias e particularidades do caso em concreto as quais sequer foram ou poderiam ter sido objeto de deliberação nos temas acima indicados, dada a uma realidade local - é que o juízo de primeiro grau entendeu por relativizar a ordem legal de penhora prioritária, aplicando o disposto no art. 835, §1º, do CPC, e, consequência, rejeitando, no momento, o pedido de constrição on line de valores.
+O recorrente alega:
+O Município de Campo Grande interpõe o presente recurso especial com a finalidade de ver restabelecido os comandos inseridos nas normas do art. 11, inciso I, da Lei de Execução Fiscal (Lei 6.830, de 22 de setembro de 1980), combinado com art. 854 do Código de Processo Civil (Lei 13.105, de 16 de março de 2015).
+Isto porque o acórdão recorrido incorreu em contrariedade à lei federal, no que diz respeito aos citados dispositivos legais, ao não atender a ordem de penhora na execução fiscal; além de exigir prévias diligências do credor para penhora de outros bens, como condição para apreciação de pedido de penhora eletrônica, via Sistema SISBAJUD.
+Além disso, o acórdão recorrido deu interpretação divergente e contrariou jurisprudência dominante do Superior Tribunal de Justiça, como aquela firmada no julgamento do Recurso Especial 1.112.943/MA, julgado sob o rito dos recursos repetitivos, Tema 219, que fixou a tese no sentido de que: "Após o advento da Lei n. 11.382/2006, o Juiz, ao decidir acerca da realização da penhora on line, não pode mais exigir a prova, por parte do credor, de exaurimento de vias extrajudiciais na busca de bens a serem penhorados".
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 4 de março de 2024.
+A ausência de retratação por parte do órgão julgador, conforme previsto no art. 1.030, II, do Código de Processo Civil, não exige uma ratificação expressa para que ocorra o juízo de admissibilidade e a eventual remessa dos Recursos Extraordinário ou Especial ao Tribunal Superior competente. Isso está de acordo com os arts. 1.030, V, "c", e 1.041 do CPC.
+A controvérsia se põe entre a garantia da justa satisfação do credor e um respaldo jurídico mínimo para o devedor. Prevê o art. 835, § 1º, do CPC que é prioritária a penhora em dinheiro; nas demais hipóteses, o juiz pode alterar a ordem prevista no caput de acordo com as circunstâncias do caso concreto.
+O art. 805, caput, do CPC dispõe que, "quando por vários meios o exequente puder promover a execução, o juiz mandará que se faça pelo modo menos gravoso para o executado."
+No caso em tela, ponderada a posição do Superior Tribunal de Justiça, a Corte local optou por aplicar as "regras de experiência comum subministradas pela observação do que ordinariamente acontece" (art. 375 do CPC) para entender que "a penhora em dinheiro na ordem de nomeação de bens não é absoluta, podendo ser relativizada".
+Tal posicionamento, pontuado pelo Voto-vencedor, não está de acordo com a jurisprudência desta Corte Superior.
+Confira-se:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AÇÃO DE EXECUÇÃO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AGRAVO DE INSTRUMENTO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento, aduzindo a desnecessidade de realização de diligências anteriores para requerer a utilização do SisbaJud e sustentando falta de cooperação com o bom resultado das execuções fiscais e com a fluidez dos processos. No Tribunal a quo, o agravo não foi conhecido.
+II - A jurisprudência do Superior Tribunal de Justiça está no sentido de que é possível a penhora via BacenJud mesmo antes de encerradas as diligências para a localização de outros bens penhoráveis. Nesse sentido: AgInt no AREsp n. 1.571.886/ES, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 30/11/2020, DJe de 3/12/2020; AgInt nos EDcl no AREsp n. 2.075.539/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/10/2022, DJe de 13/10/2022.
+III - Correta a decisão que deu provimento ao recurso especial para autorizar a penhora via sistema on-line.
+IV - Agravo interno improvido.
+(AgInt no REsp 2067366/MS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 23/8/2023)
+Com essas considerações, o Recurso Especial merece provimento por se considerar injustificada a recusa do Tribunal a quo em permitir a utilização do SisbaJud e em atender ao disposto na primeira parte do art. 835, § 1º, do CPC, na qual consta que é prioritária a penhora em dinheiro.
+A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. NOMEAÇÃO À PENHORA. INOBSERVÂNCIA DA ORDEM LEGAL PREVISTA NO ART. 11 DA LEI 6.830/1980. PENHORA ON-LINE. DESNECESSIDADE DE EXAURIMENTO.
+1. A Primeira Seção, no julgamento do REsp 1.112.943/MA, processado nos termos do art. 543-C do Código de Processo Civil, firmou entendimento no sentido de que, "após as modificações introduzidas no Código de Processo Civil pela Lei 11.382/2006, incluindo, na ordem de penhora, depósitos e aplicações financeiras como bens preferenciais, a saber, como se fossem dinheiro em espécie (art. 655, I, CPC) e que a constrição se realizasse preferencialmente por meio eletrônico (art. 655-A), não se pode mais exigir prova do exaurimento de vias extrajudiciais na busca de bens a serem penhorados, como na hipótese dos autos, para que o juiz possa decidir sobre a realização de penhora on line (via sistema BACENJUD)" (STJ, AgInt no AREsp 899.969/SP, Rel. Ministro Sérgio Kukina, primeira turma, DJe 4/10/2016).
+2. O Superior Tribunal de Justiça possui o entendimento firmado de que é legítima a recusa pela Fazenda Pública da nomeação de bens do executado quando não observada a ordem legal de preferência prevista no art. 11 da LEF, sem que isso implique ofensa ao princípio da menor onerosidade.
+3. Vale consignar que o precedente da egrégia Primeira Seção deste STJ que, no julgamento do Tema n. 578, vinculado ao Recurso Especial Repetitivo n. 1.337.790/PR, (Rel. Min. Herman Benjamin), fixou orientação de que cumpre ao devedor fazer a nomeação de bens à penhora, observando a ordem legal estabelecida no art. 11 da Lei de Execução Fiscal, incumbindo-lhe demonstrar, se for o caso, a necessidade de afastá-la.
+4. Incide, portanto, o enunciado 83 da Súmula do STJ. Assim, deve ser provido o Recurso Especial do Estado para cassar o acórdão proferido no Tribunal a quo.
+5. Recurso Especial provido.
+(REsp 1.839.753/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 19/12/2019)
+Diante do exposto, dou provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
