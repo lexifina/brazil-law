@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/04/2024 a 15/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS C/C PEDIDO DE LIMINAR. AUSÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC/73. VÍCIO REDIBITÓRIO CARACTERIZADO. VEÍCULO RECUPERADO DE PERDA TOTAL. DECISÃO EXTRA PETITA NÃO CONFIGURADA. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. DEVER DE INDENIZAR EVIDENCIADO. VALOR ARBITRADO DE ACORDO COM AS PECULIARIDADES DO CASO. MODIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO DESPROVIDO.
+1. Não se verifica violação ao art. 535 do CPC/73, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+2. Nos termos da jurisprudência desta Corte, "a interpretação lógico-s istemática da petição inicial, com a extração daquilo que a parte efetivamente pretende obter com a demanda, reconhecendo-se pedidos implícitos, não implica julgamento extra petita" (EDcl no REsp 1.331.100/BA, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/6/2016, DJe de 10/8/2016). Incidência da Súmula 83/STJ.
+3. O Tribunal de origem, com arrimo no acervo fático-probatório carreado aos autos, concluiu pelo dever de indenizar, bem como arbitrou o valor devido observando as peculiaridades do caso. Nesse contexto, a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por GERALDO FERNANDES AFONSO - ESPÓLIO contra decisão (fls. 807-811), desta relatoria, que conheceu do agravo para conhecer em parte do recurso especial, e, nessa extensão, negar-lhe provimento, sob os seguintes fundamentos: a) decisão estadual devidamente fundamentada, afastando violação ao art. 535 do Código de Processo Civil de 1973; b) incidência da Súmula 83/STJ, quanto à alegada ofensa aos arts. 128, 460, 264, 300 e 515 do CPC/73; e c) incidência da Súmula 7/STJ, em relação à violação dos arts. 186, 884 e 927 do Código Civil.
+Nas razões do agravo interno, alega-se que "(..) é de se impor, com a devida vênia, a nulidade do acordão integrativo proferido pelo TJMG, devendo os autos serem devolvidos para que o tribunal de origem aponte, objetivamente, aponte o ato ilícito que justifica a condenação do Agravante (..)" (fl. 824).
+Aduz-se, também, que é "(..) inaplicável a súmula 83/STJ ao caso, seja pelo fato do STJ adotar o principio da congruência, rejeitando a possibilidade de julgamentos extra petita, seja pelo fato do recurso especial ter sido interposto por ofensa direta e não em razão de divergência jurisprudencial (..)" (fl. 825).
+Defende-se, ainda, que "não é necessário revolver fatos e provas para se concluir, no caso sub judice, as ofensas aos artigos 186 e 927 do Código Civil" (fl. 826).
+Ao final, pleiteia-se a reconsideração da decisão agravada ou, se mantida, seja o presente feito levado a julgamento perante a eg. Quarta Turma.
+Impugnação não apresentada, conforme certidão de fl. 832.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS C/C PEDIDO DE LIMINAR. AUSÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC/73. VÍCIO REDIBITÓRIO CARACTERIZADO. VEÍCULO RECUPERADO DE PERDA TOTAL. DECISÃO EXTRA PETITA NÃO CONFIGURADA. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. DEVER DE INDENIZAR EVIDENCIADO. VALOR ARBITRADO DE ACORDO COM AS PECULIARIDADES DO CASO. MODIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO DESPROVIDO.
+1. Não se verifica violação ao art. 535 do CPC/73, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+2. Nos termos da jurisprudência desta Corte, "a interpretação lógico-s istemática da petição inicial, com a extração daquilo que a parte efetivamente pretende obter com a demanda, reconhecendo-se pedidos implícitos, não implica julgamento extra petita" (EDcl no REsp 1.331.100/BA, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/6/2016, DJe de 10/8/2016). Incidência da Súmula 83/STJ.
+3. O Tribunal de origem, com arrimo no acervo fático-probatório carreado aos autos, concluiu pelo dever de indenizar, bem como arbitrou o valor devido observando as peculiaridades do caso. Nesse contexto, a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+VOTO
+Em que pesem as alegações apresentadas, a decisão recorrida deve ser mantida.
+Com efeito, da detida leitura do v. acórdão estadual, infere-se que o eg. Tribunal a quo analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação acerca das indagações apresentadas, motivo pelo qual deve ser rejeitada a alegada violação ao art. 535 do CPC/73.
+Nesse contexto, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação, como no caso em espécie, em que o Tribunal de origem concluiu pela ausência de relação de consumo entre as partes, bem como afastou a alegação de julgamento fora dos limites da demanda.
+Nesse sentido, destacam-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. As questões postas à discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla, fundamentada e sem omissões, portanto, deve ser afastada a alegada violação ao artigo 1.022 do CPC/15.
+(..)
+3. Agravo interno desprovido."
+(AgInt no AREsp 1447412/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/05/2019, DJe 22/05/2019 - g. n.)
+"AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE TÍTULO DE CRÉDITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. PROTESTO INDEVIDO. REEXAME FÁTICO DOS AUTOS. SÚMULA N. 7/STJ. APLICAÇÃO DA SÚMULA N. 385/STJ. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. SÚMULA N. 283/STF.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde
+da controvérsia, não se configurando omissão, contradição ou negativa de prestação jurisdicional.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt nos EDcl no AREsp 1324793/MT, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 14/05/2019, DJe 20/05/2019 - g. n.)
+Avançando, ao apontar ofensa aos arts. 128, 460, 264, 300 e 515 do CPC/73, a parte agravante sustenta que o Tribunal de origem não respeitou os limites da demanda, concedendo pedido que não fora deduzido pelo recorrido. Por sua vez, assim ficou consignado no acórdão estadual (fl. 713):
+"A nosso aviso, o fato de ter sido autorizada a retenção do valor indenizatório devido a titulo de fruição, não constitui decisão extra "petita, devendo-se aplicar ao caso o brocardo "quem pede_o_mais,. pede o menos".
+" Se o pedido formulado pela litisdenunciada era amplo, de improcedência (conforme se vê à f. 249), o Tribunal podia deferir pedido menor e julgar parcialmente procedente a lide secundária, em importe inferior ao postulado na inicial, analisando pedido formulado na apelação, não havendo que se falar, portanto, em inovação recursal.
+Portanto, o acórdão não é extra petita."
+Tal decisão encontra amparo na jurisprudência desta Corte, que se firmou no sentido de que "a interpretação lógico-sistemática da petição inicial, com a extração daquilo que a parte efetivamente pretende obter com a demanda, reconhecendo-se pedidos implícitos, não implica julgamento extra petita" (EDcl no REsp 1.331.100/BA, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/6/2016, DJe de 10/8/2016).
+No mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. REAJUSTE. FAIXA ETÁRIA. ABUSIVIDADE. VERIFICAÇÃO DE REQUISITOS. ADEQUAÇÃO. FASE DE CUMPRIMENTO DE SENTENÇA. JULGAMENTO EXTRA. NÃO OCORRÊNCIA. PRECEDENTES.
+1. "É firme a jurisprudência desta Corte no sentido de que a interpretação lógico-sistemática da petição inicial, com a extração daquilo que a parte efetivamente pretende obter com a demanda, reconhecendo-se pedidos implícitos, não implica julgamento extra petita" (EDcl no REsp 1331100/BA, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/6/2016, DJe 10/8/2016).
+2. "O reajuste de mensalidade de plano de saúde individual ou familiar fundado na mudança de faixa etária do beneficiário é válido desde que (i) haja previsão contratual, (ii) sejam observadas as normas expedidas pelos órgãos governamentais reguladores e (iii) não sejam aplicados percentuais desarrazoados ou aleatórios que, concretamente e sem base atuarial idônea, onerem excessivamente o consumidor ou discriminem o idoso". Tese firmada pela Segunda Seção no REsp. 1.568.244-RJ, relator Ministro Ricardo Villas Bôas Cueva, julgado pelo rito do art. 543-C do CPC/73.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.080.551/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+Estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ.
+Por fim, quanto ao dever de indenizar e o valor arbitrado, o Tribunal de origem, analisando as circunstâncias do caso, assim decidiu (fls. 664-666) :
+"A constatação do vício redibitório autoriza o comprador do bem defeituoso pleitear a rescisão do vinculo contratual ou, ainda, o abatimento do preço em valor correspondente ao defeito (art. 442, CC/02).
+A esse respeito, é esclarecedora a lição do saudoso professor Caio Mário da Silva Pereira:
+(..)
+É bastante claro que os efeitos dos vícios redibitórios no negócio jurídico constituem .garantia criada pela lei, em favor do adquirente da coisa que, porventura, apresente defeitos ocultos à época da aquisição.
+Ademais, as possibilidades de redibição ou do exercício da actio quanti minoris para o abatimento do preço evitam que o alienante se enriqueça injustificadamente com a alienação de um bem imprestável ou desvalorizado para o fim que se destina.
+Na hipótese dos autos, verifica-se que a autora adquiriu o veículo, cujo registro se encontra trasladado à f. 33, TJ, de Geraldo Fernandes Afonso, em 18/05/2007 (f. 25, TJ), que, por sua vez, o comprou de Lagoa Santa Veículos Ltda em 10/05/2004 (f. 136-137, TJ). Já a Lagoa Santa Veículos Ltda o obteve de Indiana Seguros S/A em 31/03/2004 (f. 255, TJ).
+Infere-se, ainda, dos autos, que, após ter o veículo em questão sido roubado e recuperado, em julho de 2007 (f. 37, TJ), a autora, em agosto de 2007, o encaminhou para reparos em uma oficina mecânica, e buscou sua proteção securitária, havendo, em razão das respectivas vistorias (f. 38, 51 e 387-387v, TJ), tomado conhecimento de que este havia sofrido "perda total" em virtude de acidente ocorrido em 29/08/2002.
+Não há dúvida, portanto, que, no caso em tela, o veiculo adquirido pela autora se mostra impróprio para uso, pois a descoberta de sua recuperação após caracterizada sua "perda total" trouxe à tona não apenas a constatação da impossibilidade de sua proteção securitária (f. 51, TJ) e de sua inequívoca desvalorização, mas, também, a existência de graves vícios de natureza mecânica (f. 38, TJ), que podem até mesmo colocar em risco a sua segurança.
+Destarte, ainda que o réu Geraldo Fernandes Afonso ignorasse a ocorrência da recuperação do veículo que sofrera perda total, ocorrida antes de sua aquisição junto à Lagoa Santa Veículos Ltda, adequada seria a vindicada redibição contratual, com a condenação desta ao ressarcimento integral dos valores por aquele despendidos, que, in casu, corresponderam a R$ 16.160,00 (f. 23-25, TJ).
+Por outro lado, não merece persistir a condenação estabelecida pela sentença monocrática no tocante às despesas por reparos mecânicos gastos pela requerente, inexistindo nos autos prova de que estes não decorram de desgastes naturais pelo uso regular do veículo."
+Nesse cenário, tem-se que a pretensão de modificar o entendimento firmado, quanto ao dever de indenizar e o valor estipulado pelo Tribunal de origem, sob alegada ofensa aos arts. 186, 884 e 927 do Código Civil, demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO A DISPOSITIVO DA CONSTITUIÇÃO FEDERAL. IMPOSSIBILIDADE. VEÍCULO ZERO-QUILÔMETRO. VÍCIO. CORREÇÃO EFETUADA. REVISÃO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. DANO MORAL CONSTATADO. QUANTUM INDENIZATÓRIO. REEXAME. AUSÊNCIA DE SITUAÇÃO EXCEPCIONAL. CARÁTER IRRISÓRIO NÃO ATESTADO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, não é possível, em julgamento de recurso especial, analisar suposta violação a dispositivo da Constituição Federal, sob pena de usurpação da competência pertencente ao Supremo Tribunal Federal.
+2. Após escoado o prazo para a correção dos defeitos constatados nos produtos adquiridos, faz jus o consumidor, a sua conveniência, pleitear a substituição do bem por outro com idêntica característica; a devolução do valor pago; ou o abatimento proporcional no preço.
+3. Concluindo a instância originária que os vícios constatados no veículo foram reparados pelos fornecedores, descabe a esta Corte Superior rever esse posicionamento, ante a incidência da Súmula 7/STJ.
+4. De acordo com o entendimento jurisprudencial desta Corte Superior, a modificação do quantum indenizatório em julgamento de recurso especial só é possível quando atestada manifesta exorbitância ou insignificância apta a justificar a superação do óbice imposto pela Súmula 7/STJ. No caso em exame, o caráter irrisório do quantum indenizatório não se sustenta, uma vez que o valor da condenação foi estabelecido considerando a situação concreta dos autos.
+5. A incidência do óbice imposto pela Súmula 7/STJ impede a apreciação da divergência jurisprudencial, diante da constatação da ausência de similitude fático-jurídica entre os julgados confrontados.
+6. Agravo interno desprovido.
+(AgInt no REsp n. 2.083.678/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023.)
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
