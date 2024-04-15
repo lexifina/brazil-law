@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto por SAMP MINAS ASSISTÊNCIA MÉDICA LTDA. com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais proferido em agravo de instrumento e assim ementado (fl. 375):
+AGRAVO DE INSTRUMENTO. TUTELA DE URGÊNCIA -FORNECIMENTO DE MEDICAMENTOS - ASTREINTES -DESCUMPRIMENTO DA OBRIGAÇÃO - MULTA - REDUÇÃO -POSSIBILIDADE. A teor do art. 537 do CPC e de acordo com a orientação do STJ, a multa cominatória, por atraso no cumprimento da obrigação de fazer ou não fazer, pode ser revista a qualquer tempo, na hipótese em que se tornar insuficiente ou excessiva, podendo o juiz, de ofício ou a requerimento das partes, modificar o seu valor ou periodicidade, sem que se configure ofensa à coisa julgada. Verificando-se que a multa executada apresenta valor exorbitante, cabível a redução do valor total da multa a um montante que implique sanção ao requerido, observando-se os critérios da razoabilidade e da proporcionalidade. (DESA. MÔNICA LIBÂNIO)
+VV
+EMENTA: AGRAVO DE INSTRUMENTO. TUTELA DE URGÊNCIA. FORNECIMENTO DE MEDICAMENTOS. ASTREINTES. DESCUMPRIMENTO DA OBRIGAÇÃO. MULTA MANTIDA. RECURSO NÃO PROVIDO. 1.
+O juiz poderá de ofício ou a requerimento da parte, modificar o valor ou a periodicidade da multa vincenda ou excluí-la, quando verificar que se tornou insuficiente ou excessiva, bem como quando demonstrado o cumprimento parcial superveniente da obrigação ou justa causa para o descumprimento (art. 537, § 1º, incisos I e II do CPC). 2. Recurso não provido.(DES. MARCOS LINCOLN)
+Nas razões do recurso especial, a parte recorrente aponta violação do art. 537, caput, do CPC.
+Defende o afastamento da multa cominatória, tendo em vista a conversão em perdas e danos da obrigação e garantia da efetividade do tratamento, ponderando não ser cabível a cumulação com as astreintes.
+Requer o conhecimento e provimento do recurso especial.
+É o relatório. Decido.
+A irresignação merece parcial acolhimento.
+Da análise dos autos, especificamente da decisão de fls. 312-318, verifica-se que foram impostas duas multas à recorrente.
+A primeira, no valor de R$ 43 mil, foi aplicada devido ao descumprimento da obrigação, que posteriormente foi convertida em perdas e danos, cumulada com a referida multa.
+Já a segunda, no valor de R$ 50 mil foi aplicada a fato autônomo em relação à conversão do débito em perdas e danos, em razão da continuidade de desídia por parte da ora recorrente.
+Segundo o voto vencedor, o Tribunal de origem somou o débito de ambas as multas e o reduziu ao valor de R$ 24.967,00, considerando devidos os valores provenientes da multa aplicada e da conversão da obrigação em perdas e danos. Confira-se (fls. 384-385):
+Inicialmente, coloco-me de acordo com o voto condutor, no que tange à manutenção da r. decisão de primeiro grau quanto a conversão da obrigação de fazer (fornecimento de medicamentos) em perdas e danos fixados em R$24.967,00.
+Lado outro, no que tange à manutenção do valor das multas impostas pelo Magistrado de origem, no valor total de R$93.000,00 (noventa e três mil reais), tenho que o referido montante mostra-se excessivo.
+Esclareço que a questão relativa ao descumprimento da obrigação de fazer realmente ficou demonstrada nos autos, assim, como a desídia/resistência da parte Agravante no cumprimento da ordem fixada pelo Magistrado de origem, o que realmente justifica a aplicação da multa (astreinte) em razão desta situação.
+Todavia, tenho que o valor arbitrado (R$93.000,00) mostrou-se exorbitante, ultrapassando, inclusive, o valor da obrigação principal, convertida em perdas e danos que perfazia um montante inicial de R$24.967,00 (vinte e quatro mil, novecentos e sessenta e sete reais).
+Desse modo, entendo que, neste ponto, assiste razão ao inconformismo da Agravante, fazendo-se necessária a redução do montante arbitrado a título de astreintes. A meu ver, considerando o descumprimento da obrigação de fazer imposta e o conteúdo econômico da obrigação principal, entendo ser adequada a redução da multa cominatória para o mesmo valor da condenação principal, qual seja, R$24.967,00 (vinte e quatro mi, novecentos e sessenta e sete reais).
+A recorrente sustenta o descabimento da cobrança das astreintes, já que convertidos os débitos em perdas e danos, e possui certa razão.
+É que, conforme o entendimento do STJ, "a partir do pedido de conversão da obrigação de fazer em perdas e danos não mais deve incidir a multa diária" (AgInt no AREsp n. 781.979/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 26/8/2019, DJe de 2/9/2019).
+Nesse mesmo sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. CONVERSÃO DA AÇÃO DE OBRIGAÇÃO DE FAZER EM PERDAS E DANOS. IMPOSSIBILIDADE MATERIAL. INSUBSISTÊNCIA DA MULTA APLICADA. PRECEDENTES. 3. DIVERGÊNCIA NÃO DEMONSTRADA. AUSÊNCIA DE SIMILITUDE FÁTICA. 4. AGRAVO IMPROVIDO.
+1. Não ficou configurada a violação do art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia.
+O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Com efeito, a jurisprudência desta Corte Superior se firmou "no sentido de que a partir do pedido de conversão da obrigação de fazer em perdas e danos não mais deve incidir a multa diária" (AgInt no AREsp 781.979/PR, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 26/8/2019, DJe 2/9/2019).
+3. O julgado supostamente divergente não guarda similitude fática com o acórdão recorrido.
+4. Agravo interno a que se nega provimento. (AgInt nos EDcl no REsp n. 1.899.924/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/5/2021, DJe de 5/5/2021, destaquei.)
+No caso, tendo a Corte local concluído pela possibilidade da cobrança das astreintes e da indenização decorrente da conversão da obrigação em perdas e danos, em desacordo com a jurisprudência do STJ, o afastamento da multa é medida que se impõe.
+Apesar disso, apenas a primeira multa poderá ser afastada, sendo válida a cobrança da segunda, pois incidiu em razão de fato independente da conversão da obrigação em perdas e danos. Observe-se (fls. 315-316):
+Em 11 de novembro de 2022 foi negado provimento, em definitivo, ao recurso de agravo interposto, que já não havia sido recebido em duplo efeito pela instância ad quem.
+Como o recurso não foi recebido em efeito suspensivo, o Juízo constatou o decurso do prazo razoável dado para cumprimento da ordem judicial e fixou a multa, em decisão publicada ainda em 25 de outubro de 2022.
+O plano de saúde nada fez. Não recorreu da decisão, tornando seu conteúdo sujeito a coisa julgada formal e a preclusão.
+Somente após efetivação do bloqueio do valor da multa, diante de nova desídia da operadora em depositá-la nos autos voluntariamente, a requerida ressurgiu com alegações inovadoras ou já vencidas.
+Em primeiro lugar, não é requisito para cumprimento da ordem judicia liminar que a autora informe o valor de mercado dos medicamentos/insumos desejados. É que a autora não pretendeu indenização pela aquisição dos produtos, mas sim seu fornecimento direto, sendo que a tutela cominatória antecede a tutela indenizatória.
+Em segundo lugar, a tese insistente do plano de saúde de ausência de obrigação legal de fornecimento de insumos de caráter domiciliar já foi vencida na instância superior, sendo inócua sua reiteração perante esse juízo de primeiro grau.
+Em epítome, dessarte, nada obsta a convolação da obrigação de fazer liminar em perdas e danos liminar, contudo sem que haja redução ou extirpação da multa outrora imposta, eis que o plano de saúde deve ser sancionado pela inércia pretérita, sanção essa de caráter preventivo, inclusive, para outras lides análogas.
+Na realidade, para além da exigibilidade da multa primeva arbitrada e que não foi suficiente para coagir efetivamente o plano de saúde a cumprir a obrigação de fazer, o Juízo deve se atentar para a liquidação, fixação e exigibilidade da segunda multa imposta que, a princípio, não foi suficiente para alterar o estado de inércia da operadora requerida.
+Com efeito, em 25 de outubro de 2022 o Juízo ordenou a intimação da parte requerida para, no prazo certo de 5 dias, fornecer os insumos delimitados na exordial, sob pena de multa diária que na ocasião foi majorada para cinco mil reais.
+Na aba "expedientes" do processo eletrônico é possível notar que o prazo da operadora findou-se em 17 de novembro de 2022.
+Apenas hoje, em 26 de janeiro de 2023, a operadora solicitou a conversão da obrigação de fazer liminar em perdas e danos, acostando orçamento obtido da "Medtronic" demonstrando custo de R$ 24.967,00 em relação aos insumos.
+Entre 17 de novembro de 2022 e 26 de janeiro de 2023 houve o decurso de 70 dias corridos.
+A multa devida pela operadora, dessarte, seria de R$ 350.000,00.
+Contudo, atento a proporcionalidade e considerando que houve cumprimento da ordem judicial, embora de forma diversa (convolação em perdas e danos) e retardatária, entendo cabível a redução da segunda multa imposta para R$ 50.000,00, aproximadamente duas vezes o valor da obrigação principal, sem prejuízo da primeira multa imposta.
+Nesse cenário, ante a soma e redução pelo Tribunal a quo do valor devido a título de multa, é necessário que sejam apurados os valores na origem, para que seja excluída da cobrança a incidência da primeira multa fixada.
+Ante o exposto, nos termos da fundamentação acima, dou parcial provimento ao recurso especial para determinar que a instância originária realize novos cálculos acerca da multa devida, excluindo do cômputo aquela aplicada antes da conversão em perdas e danos.
+Publique-se. Intimem-se.
+EMENTA
