@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/04/2024 a 15/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ORDEM CONCEDIDA. NÃO LOCALIZAÇÃO DO ACUSADO. ART. 366 DO CPP. CITAÇÃO POR EDITAL FRUSTRADA. PRISÃO PREVENTIVA. JUSTIFICATIVA INIDÔNEA. CONDIÇÃO DE FORAGIDO. AUSÊNCIA. COAÇÃO ILEGAL. AGRAVO NÃO PROVIDO.
+1. A simples falta de localização do acusado para responder ao chamamento judicial, vale dizer, a mera frustração da citação por edital, por si só, não constitui razão apta à sua segregação provisória, caso dissociada de outro elemento concreto que indique a sua condição de foragido - sobretudo se decretada 7 anos depois dos fatos narrados na denúncia, sem a indicação de justificativas contemporâneas capazes de dar ensejo à medida cautelar. Precedentes.
+2. Agravo regimental não provido.
+RELATÓRIO
+MINISTÉRIO PÚBLICO FEDERAL agrava contra a decisão que concedeu a ordem de habeas corpus.
+No regimental, aduz o Parquet que a prisão preventiva do acusado foi decretada com lastro em elementos concretos. Suscita a presença do periculum libertatis, diante da fuga do réu. Afirma que a concessão de liberdade provisória, no caso dos autos, "desprestigia não só a Justiça, como todo aparelhamento repressivo estatal, já que se espera, no mínimo, uma prévia resposta do Estado, antes do seu retorno ao convívio social" (fl. 388).
+Requer a reconsideração do decisum monocrático ou a submissão do feito ao órgão colegiado, a fim de que seja restabelecido o acórdão da Corte estadual.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ORDEM CONCEDIDA. NÃO LOCALIZAÇÃO DO ACUSADO. ART. 366 DO CPP. CITAÇÃO POR EDITAL FRUSTRADA. PRISÃO PREVENTIVA. JUSTIFICATIVA INIDÔNEA. CONDIÇÃO DE FORAGIDO. AUSÊNCIA. COAÇÃO ILEGAL. AGRAVO NÃO PROVIDO.
+1. A simples falta de localização do acusado para responder ao chamamento judicial, vale dizer, a mera frustração da citação por edital, por si só, não constitui razão apta à sua segregação provisória, caso dissociada de outro elemento concreto que indique a sua condição de foragido - sobretudo se decretada 7 anos depois dos fatos narrados na denúncia, sem a indicação de justificativas contemporâneas capazes de dar ensejo à medida cautelar. Precedentes.
+2. Agravo regimental não provido.
+VOTO
+A despeito dos esforços perpetrados pelo Parquet, não constato fundamentos suficientes a infirmar a decisão impugnada, cuja conclusão mantenho.
+Descrevem os autos que, em decorrência de condutas supostamente praticadas em 13/3/1998 (fls. 11-12), o Magistrado de primeiro grau recebeu a denúncia, no dia 30/8/2005 (fl. 13).
+Não se obteve êxito nas tentativas de localização do investigado, que, portanto, foi citado por edital (fl. 151).
+Transcorrido in albis o prazo para oferecer resposta à acusação, o Juízo singular, em 6/10/2005, decretou a constrição preventiva do ora paciente, sob estes motivos (fl. 153):
+O réu foi devidamente citado, via edital (fl. 96), não comparecendo nem constituindo advogado, pelo que, nos termos do art. 366 do CPP, suspendo o processo e o curso do prazo prescricional. Visando assegurar a aplicação da Lei penal, decreto a prisão preventiva dos acusados: JOÃO DOS SANTOS SAMPAIO e EDILINO CÂNDIDO. Expeçam-se mandados de prisão, remetendo-os às autoridades competentes. Comunicada a captura, façam conclusos.
+Sem embargo , de acordo com a orientação deste Tribunal Superior, a simples falta de localização do investigado (ou acusado) para responder ao chamamento judicial não constitui, por si só, justificativa apta ao seu encarceramento preventivo, caso não haja outra circunstância competente a apontar a sua posição de foragido.
+In casu, não há, no writ, notícias que deem suporte à ilação de que o suspeito tinha plena ciência da persecução penal iniciada e pretendia se furtar à aplicação da lei penal.
+Ademais, como se depreende da decisão ora rechaçada, "as condutas que deram azo à instauração do processo foram, em tese, praticadas mais de 7 anos antes da ordem de prisão" (fl. 374). Dessarte, não reconheço, na espécie, a urgência atual capaz de subsidiar a medida cautelar mais onerosa do acusado.
+Não olvido, outrossim, que, "na oportunidade do recebimento da inicial acusatória, apesar da gravidade dos fatos, o Juízo monocrático não identificou razões bastantes para decretar a segregação cautelar do paciente" (fls. 13; 375).
+Assim, "o decisum prisional que se baseia, exclusivamente, na falta de localização do investigado para responder ao chamamento judicial, dissociado de outro elemento que indique a sua condição de foragido, configura constrangimento ilegal" (fl. 375).
+No mesmo sentido, além dos precedentes transcritos às fls. 375-376, trago a lume os seguintes:
+ ..  1. Segundo a orientação desta Corte Superior, a simples falta de localização do investigado para responder ao chamamento judicial, vale dizer, a mera frustração da citação por edital, por si só, não constitui razão apta à sua prisão provisória, caso dissociada de qualquer outro elemento concreto que indique a sua condição de foragido - sobretudo se decretada cerca de 7 anos após os fatos narrados na denúncia  .. , sem a indicação de fatos contemporâneos capazes de dar ensejo à medida cautelar mais onerosa.
+ ..
+3. Agravo não provido.
+(AgRg no HC n. 652.937/MG, relator Ministro Rogerio Schietti, Sexta Turma, julgado em 3/8/2021, DJe de 12/8/2021.)
+ ..  2. O simples fato de o acusado não ter sido encontrado para citação pessoal não pode ser utilizado como único fundamento para sua constrição cautelar, sobretudo ao considerar que estar em lugar incerto e não sabido não equivale à fuga.
+3. A jurisprudência do Superior Tribunal de Justiça segue na direção de que a revelia do réu "não se pode confundir evasão com não localização. No primeiro caso, o que revela a necessidade da prisão provisória é o risco para a aplicação da lei penal, materializado no comportamento voluntário do acusado de subtrair-se à ação das instâncias formais de controle. No caso de citação por edital, porém, o Estado sequer logrou comunicar ao réu a formal constituição da relação processual. Em tal situação, é temerário presumir a fuga" (HC 349.561/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA,  ..  DJe 15/4/2016).
+4. Recurso ordinário em habeas corpus provido para revogar custódia processual do ora recorrente, salvo se por outro motivo estiver preso.
+(RHC n. 121.400/MG, Rel. Ministro Jorge Mussi, 5ª T., DJe 28/2/2020.)
+RECURSO ORDINÁRIO CONSTITUCIONAL EM HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO, NA FORMA TENTADA. PRISÃO PREVENTIVA  .. . RECURSO PROVIDO.
+ ..  3. "A revelia do réu não constitui, por si só, fundamentação idônea para decretação da prisão preventiva com o fim de assegurar a aplicação da lei penal" (STF, HC 127.650/MG, Rel. Min. ROSA WEBER, Primeira Turma, julgado em 01/09/2015, DJe 16/11/2015).
+4. "Na concreta situação dos autos, a paciente não foi localizada no endereço constante dos autos. Citada por edital, não compareceu a Juízo, nem constituiu advogado para o patrocínio da causa.  ..  o magistrado processante decretou a prisão preventiva, ante o risco para a própria aplicação da lei penal e por conveniência da instrução criminal. O que, segundo reiterada jurisprudência do Supremo Tribunal Federal, não é o suficiente para atingir a finalidade do art. 312 do Código de Processo Penal" (STF, HC 106.209/SC, Rel. Min. AYRES BRITTO, Segunda Turma, julgado em 01/03/2011, DJe 09/06/2011).
+5. Entre a data da conduta e a implementação da prisão, o Recorrente encontrava-se em liberdade há quase 16 anos. Outrossim, a prisão foi decretada aproximadamente 8 anos após o fato. Nesse aspecto, a custódia processual viola, igualmente, a contemporaneidade da medida constritiva, em razão do decurso de longo período de tempo entre a sua soltura e a cautela decretada.
+ ..
+7. Conclui-se, à luz dos princípios da contemporaneidade e da cautelaridade, além das regras da excepcionalidade e provisionalidade, não haver risco concreto e atual à ordem e à segurança públicas, ou à garantia da devida tramitação do processo, o que esvazia a necessidade da prisão cautelar. Em outras palavras, observado o binômio proporcionalidade e adequação, é despicienda a custódia extrema decretada.
+8. Recurso ordinário em habeas corpus provido para ratificar a decisão liminar. em que foi determinada a revogação do decreto de prisão preventiva e a incontinenti soltura do Recorrente, se por al não estivesse preso, sem prejuízo, entretanto, de aplicação de medidas cautelares diversas da prisão, a critério do Juízo de primeiro grau.
+(RHC n. 105.872/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 28/5/2019, DJe de 5/6/2019.)
+À vista do exposto, nego provimento ao agravo.
