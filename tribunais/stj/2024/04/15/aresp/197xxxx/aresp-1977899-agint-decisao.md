@@ -1,0 +1,19 @@
+DECISÃO
+Em análise, agravo interno interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra a decisão que determinou a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a decisão do Supremo Tribunal Federal no julgamento do Tema 1.199 da repercussão geral, sejam tomadas as medidas previstas nos arts. 1.040 e 1.041 do CPC/2015.
+O agravante sustenta, em síntese, que "toda a pretensão autoral, desde o início, bem como a discussão dos autos, sempre foram voltadas, apenas, para o pedido de ressarcimento de dano ao erário".
+Afirma que, "desde o ajuizamento da petição inicial, o MPF acentua que a pretensão relativa à persecução por improbidade já se encontrava prescrita, remanescendo, porém, a pretensão de ressarcimento do dano - esta, imprescritível", de modo que "o pleito de ressarcimento integral do dano causado ao erário, por ser imprescritível, foi o único pedido veiculado pelo MINISTÉRIO PÚBLICO FEDERAL".
+Conclui que, "o fato de o Parquet federal que atuou na segunda instância ter interposto, equivocadamente, recurso especial com alegação de violação a dispositivos da LIA (erro constatado na decisão de inadmissão de origem, bem como no parecer exarado por este Órgão ministerial nesta instância superior), não autoriza a determinação de devolução dos autos à origem para fins de adequação do acórdão às inovações trazidas pela Lei nº 14.230/2021, já que esta análise não tem nenhuma pertinência ao presente caso".
+Ao final, requer "o provimento do presente agravo interno, para, reformando-se a decisão ora agravada, se reconhecer a desnecessidade de confrontar a discussão destes autos com a superveniente Lei nº 14.230/2021".
+JARBAS MAYA DE OMENA FILHO apresentou impugnação ao agravo interno (fls. 5.745-5.748).
+É o relatório. Decido.
+Revendo os autos, entendo que assiste razão ao agravante, pois, de fato, a presente ação não busca o reconhecimento da prática de atos de improbidade administrativa.
+Com efeito, na origem, o agravante ajuizou "ação de reparação de danos" (fl. 2), aduzindo que os ora agravados, então ocupantes dos "de Prefeito e Secretário de Finanças do município de Messias e nessa condição praticaram atos que causaram danos ao erário na gestão dos recursos" (fl. 4) oriundos dos programas Piso de Atenção Básica.
+Assim, descabida a determinação de baixa dos autos à origem em virtude da afetação do Tema 1.199 da Repercussão Geral, motivo pelo qual reconsidero da decisão de fls. 5.701-5.702 e passo ao exame do agravo em recurso especial.
+E, analisando os autos, acolho integralmente o parecer do MINISTÉRIO PÚBLICO FEDERAL, no ponto em que opinou pelo não conhecimento do agravo em recurso especial, in verbis:
+A decisão de não admissão do recurso especial aponta a inexistência de violação ao art. 10, I, da Lei 8.429/1992, por não se tratar de ação de improbidade administrativa, e sim de ação em que se postula tão somente o ressarcimento de danos causados ao erário.
+Nas razões do agravo em recurso especial, a parte limita-se a reiterar os argumentos do recurso especial.
+À luz do princípio da dialeticidade, previsto no art. 932, inciso III, do CPC/2015, cabia ao agravante refutar, de maneira efetiva, todos os fundamentos da decisão de não admissão, o que não foi feito.
+A mera repetição das razões do recurso especial, no todo ou em parte, sem demonstração específica do desacerto da decisão agravada, implica deficiência de fundamentação e torna inviável o conhecimento do agravo em recurso especial, ante a incidência dos óbices das Súmulas 182/STJ e 287/STF (AgRg no AREsp 1.055.243/ES, Rel. Min. JOEL ILAN PACIORNIK, Quinta Turma, DJe 18.8.2017; AgRg no AREsp 1.163.285/SP, Rel. Min. NEFI CORDEIRO, Sexta Turma, DJe 15.5.2018) (fls. 5.696-5.697).
+I sso posto, reconsidero da decisão de fls. 5.703-5.702. Com fundamento no art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Intimem-se.
+EMENTA
