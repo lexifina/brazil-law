@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição da República) interposto contra acórdão assim ementado:
+ADMINISTRATIVO. RECURSO DE APELAÇÃO. FIES - FUNDO DE FINANCIAMENTO AO ESTUDANTE DO ENSINO SUPERIOR. FALHA NO SISTEMA SISFIES. DILAÇÃO DO PRAZO PARA O ADITAMENTO CONTRATUAL. POSSIBILIDADE. MOTIVAÇÃO REFERENCIADA, "PER RELATIONEM", COMPATÍVEL COM O PRINCÍPIO DA OBRIGATORIEDADE DA MOTIVAÇÃO DAS DECISÕES JUDICIAIS. ART. 93, INCISO IX, DA CONSTITUIÇÃO FEDERAL. PRECEDENTES DO STF E DO TRF5. ADOÇÃO DOS FUNDAMENTOS DA SENTENÇA. IMPROVIMENTO DA APELAÇÃO. HONORÁRIOS RECURSAIS. MAJORAÇÃO DA VERBA SUCUMBENCIAL EM 1% (UM POR CENTO), NOS TERMOS DO ART. 85, §11,DO CPC.
+Os Embargos de Declaração foram rejeitados.
+O FNDE defende:
+Como se extrai do quanto disposto no artigo 6º, da Portaria Normativa MEC n. 209/2018, ao FNDE coube realizar as atividades de agente operador da modalidade Fies (financiamento público), apenas, até a completa transição das atividades operacionais do FIES, as quais, atualmente, englobam, apenas, a operação relativa aos contratos assinados até o 2º semestre de 2017
+Isto, porque no 1º semestre de 2018, segundo previsto no artigo 12º, da Portaria Normativa MEC n.209/2018, já foram concluídos os procedimentos necessários para a contratação da instituição financeira pública federal, de modo que a CAIXA ECONÔMICA FEDERAL já vem exercendo atividades de agente operador do financiamento estudantil na modalidade pública, para os contratos assinados a partir do 1º semestre de 2018.
+(..)
+Desta feita, o FNDE é parte ilegítima para compor o polo passivo da ação requerido caso o aditamento alcance contratação posterior ao segundo semestre de 2017.
+(..)
+Assim, o contrato de financiamento estudantil da parte autora encerrou-se em virtude do decurso de prazo de utilização, pois se esgotou o período de 8 (oito) semestres contratados, além da realização dos aditamentos de dilatação por mais um ano (1º e 2º semestres de 2017). Em outras palavras, como o período de utilização do FIES iniciou-se no 1º semestre de 2013, o mesmo findou-se no 2º semestre de2017 (10 semestres transcorridos, já somadas as dilatações do FIES).
+(..)
+Com efeito, a jurisprudência nacional é pacífica, no sentido do não cabimento de honorários advocatícios à Defensoria Pública, quando esta atua contra pessoa jurídica de direito público, que integra a mesma fazenda pública, nos termos da Súmula nº 421 do Superior Tribunal Justiça: "Os honorários advocatícios não são devidos à Defensoria Pública quando ela atua contra a pessoa jurídica de direito público à qual pertença" e dos Recursos Especiais nº 1.108.013/RJ nº 1.199.715/RJ, julgados pelo colendo STJ, sob a sistemática do art. 543-C do CPC de 1973.
+(..)
+Portanto, mostra-se indevida condenação ao pagamento de honorários advocatícios pela DPU, em desfavor de autarquia federal, eis que este ente federal integra a mesma fazenda pública da qual a DPU também faz parte.
+Contrarrazões às fls. 465-477, e-STJ.
+É o relatório.
+Decido.
+Os autos ingressaram neste Gabinete em 15.3.2024.
+Ao decidir a controvérsia, o Colegiado originário anotou:
+"15. Quanto ao FNDE, este também deve ser mantido no polo passivo, haja vista o entendimento no sentido de que "o Fundo Nacional de Desenvolvimento da Educação é o atual agente operador do SisFIES, cabendo a essa autarquia proceder, se necessário, a eventual regularização do contrato de financiamento estudantil junto ao sistema informatizado do fundo de financiamento ao estudante do ensino superior" (Processo nº 0804461-98.2015.4.05.8400, AC/RN, julgado em 17/07/2016).
+16. Com efeito, conforme dispõe o art. 3º, II, da Lei nº 10.260/2001, na redação dada pela Lei nº 15.530/2017, o FNDE, na condição de agente operador do FIES, é parte legítima para figurar no polo passivo da demanda, já que, no caso do reconhecimento do direito ao prazo de carência estendido, é responsável, juntamente com o agente financeiro, em suspender a cobrança das prestações referentes à amortização do financiamento.(..)
+Acerca da legitimidade passiva do recorrente, o STJ já se pronunciou no sentido de que o Fundo Nacional de Desenvolvimento da Educação, enquanto gestor do FIES e operador do SisFIES, detém legitimidade para figurar no polo passivo das demandas envolvendo tal programa governamental. Nessa senda:
+PROCESSUAL CIVIL. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. LEGITIMIDADE PASSIVA DO FNDE. PRORROGAÇÃO DO PRAZO DE CARÊNCIA PARA AMORTIZAÇÃO DO SALDO DEVEDOR DO CONTRATO DE FINANCIAMENTO ESTUDANTIL - FIES, FIRMADO PARA O CUSTEIO DO CURSO DE MEDICINA, EM VIRTUDE DA EXTENSÃO EM RESIDÊNCIA MÉDICA.
+1. Não se configurou ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil. O Tribunal a quo julgou integralmente a lide e solucionou a controvérsia, tendo enfrentado expressamente o tema relativo à competência do Fundo Nacional de Desenvolvimento da Educação - FNDE, no tocante à implantação do benefício da carência estendida, embora contrariamente aos interesses da parte ora recorrente.
+2. A irresignação não prospera, porque o aresto vergastado decidiu em conformidade com a jurisprudência do STJ, segundo a qual o FNDE, como gestor do FIES e operador do SisFIES, é parte legítima para figurar no polo passivo das demandas envolvendo esse programa governamental. No mesmo sentido em caso absolutamente análogo: AgInt no REsp 1.919.649/CE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 13.8.2021.
+3. Recurso Especial não provido.
+(REsp 1.991.156/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 26/9/2022.)
+Com a mesma orientação, recentes decisões monocráticas: REsp 2.021.932/CE, Rel. Ministro Mauro Campbell Marques, DJe 17.10.2022; e REsp 2.023.778/CE, Rel. Ministra Assusete Magalhães, DJe 7.10.2022.
+No tocante ao preenchimento dos requisitos para o aditamento contratual, assim se pronunciou a Corte a quo:
+21. Não obstante a previsão literal da norma e do contrato, que permite a dilatação pelo prazo máximo de dois semestres/um ano, não é razoável deixar de analisar, pontualmente, casos excepcionais que possam justificar a prorrogação por um prazo maior.
+22. No caso dos autos, os documentos anexados indicam que a autora, de fato, não conseguiu realizar o aditamento do seu contrato no ano de 2015 por falha do sistema FIES, tendo permanecido por 02 (dois) semestres com o seu contrato suspenso, razão pela qual teve que pleitear judicialmente o seu direito de aditamento, através do processo nº 0515927-62.2015.4.05.8013. Em referido processo restou comprovado que, à época em que tentou efetuar o aditamento do seu contrato, a autora estava adimplente e tempestiva, não tendo logrado êxito por problemas operacionais ocasionados pelas rés.
+(..)
+24. A hipótese dos autos configura típico caso em que a prorrogação do prazo porum período superior ao inicialmente previsto se justifica, sobretudo porque a autora somente necessitou da dilatação de prazo pelo período de um ano porque, conforme comprovado no processo judicial anteriormente movido, os aditamentos à época necessários somente deixaram de se concretizar por problemas operacionais.
+25. Assim, tenho que a não prorrogação do contrato poderia representar desperdício de recursos públicos, na medida em que a autora possivelmente não terá como terminar a graduação por falta de condições financeiras, afrontando a própria finalidade do programa e dificultando o recebimento dos recursos já investidos".
+In casu, o TRF5 baseou seu entendimento nas provas carreadas aos autos. Assim, acolher a tese defendida pela parte recorrente somente seria possível mediante novo exame do contexto fático-probatório da causa, o que atrai a incidência do óbice da Súmula 7/STJ.
+Por fim, quanto ao cabimento de honorários para a Defensoria Pública, observo que o Colegiado originário não emitiu juízo de valor sobre as questões jurídicas levantadas em torno dos dispositivos legais supostamente violados.
+É inadmissível o conhecimento do REsp quando os artigos tidos por violados não foram apreciados pela instância de origem, a despeito da oposição de EDcl e ainda que se trate de matéria de ordem pública, como a prescrição, haja vista a ausência de prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+Diante do exposto, não conheço do Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
