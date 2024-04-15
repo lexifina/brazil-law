@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo (artigo 1.042, CPC/15), interposto por RODRIGO ALVES DE SOUZA, em face da decisão que, em prévio juízo de admissibilidade, inadmitiu o recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a" e "c" da Constituição Federal, desafiou acórdão proferido pelo Tribunal de Justiça do Estado se Sergipe, assim ementado (fl. 383 , e-STJ):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO C/C OBRIGAÇÃO DE FAZER. SENTENÇA DE IMPROCEDÊNCIA. RECURSO DO AUTOR. DESCREDENCIAMENTO DE MOTORISTA PARCEIRO. UBER S/A. LIBERDADE DE CONTRATAR. EXERCÍCIO REGULAR DE DIREITO. AUSÊNCIA DE ILÍCITO. DANOS MATERIAIS E MORAIS NÃO CONFIGURADOS. SENTENÇA MANTIDA. RECURSO CONHECIDO E DESPROVIDO. DECISÃO UNÂNIME.
+Nas razões do recurso especial, o recorrente alega além do dissídio jurisprudencial, violação aos artigos 421 e 422 do Código Civil. Sustenta, em síntese, que o acórdão recorrido contraria o princípio da boa-fé objetiva, da probidade e da função social dos contratos, devendo a parte recorrida ser obrigada a mantê-lo como motorista cadastrado em sua plataforma.
+Contrarrazões às fls. 434/445, e-STJ.
+Em juízo de admissibilidade, o Tribunal a quo inadmitiu o recurso especial (fls. 448/452, e-STJ), dando ensejo à interposição do presente agravo (fls. 461/480, e-STJ), por meio do qual a parte agravante pretende a reforma da decisão impugnada e o processamento do apelo.
+Contraminuta às fls. 483/491, e-STJ.
+É o relatório.
+Decide-se.
+A irresignação não merece prosperar.
+1. Na hipótese, o Tribunal a quo consignou que em razão do princípio da autonomia da vontade, a recusa à continuidade do contrato é direito da empresa, circunstância que impossibilita a identificação de qualquer ato ilícito, inexistindo, portanto, dever de indenizar (fl. 385, e-STJ)
+Restaram incontroversos tanto a relação de parceria estabelecida, para que o autor, de forma autônoma, se utilizasse da plataforma mediante retenção de parte do que seria auferido em cada serviço realizado, quanto o fato de que a requerida utilizou-se da sua faculdade para descredenciar o motorista. Entretanto, em que pese as alegações do recorrente, entendo que a recusa à continuidade do contrato constitui exercício regular de direito, inerente à liberdade de contratar ou não, de onde advém necessariamente a impossibilidade de identificar qualquer ilícito. Como se sabe, a plataforma de transportes mediante aplicativos de tecnologia é uma empresa privada, com regramentos próprios, e que não pode ser obrigada a manter qualquer pessoa como motorista cadastrado em sua plataforma, o que é inerente ao princípio da liberdade de contratar, constante do artigo 421, do Código Civil, sendo descabido determinar que, de forma compulsória, mantenha qualquer motorista -parceiro em seu sistema. Devem ser respeitados, portanto, os princípios da autonomia de vontade e da liberdade de contratar.
+Destarte, alterar a decisão do Tribunal de origem para verificar se a ré, ora agravada, procedeu de forma incompatível com a boa-fé objetiva e seus deveres anexos, demandaria reanálise dos termos contratuais, bem como do conjunto fático-probatório dos autos, circunstâncias que encontram óbice no teor das súmulas 5 e 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO. RESGATE DE FUNDO. OMISSÃO NO ACÓRDÃO RECORRIDO. OFENSA AOS ARTS. 489 E 1.022 DO CPC. NÃO VERIFICAÇÃO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PRESCRIÇÃO. TERMO INICIAL. DATA DA CIÊNCIA DO DANO. TEORIA DA ACTIO NATA. ENTENDIMENTO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. INCIDÊNCIA. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. TESE SEM INDICAÇÃO DE DISPOSITIVO INFRACONSTITUCIONAL. APLICAÇÃO DA SÚMULA N. 284 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 489 e 1.022 do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. Não configura cerceamento de defesa o julgamento antecipado da causa quando o tribunal de origem considerar substancialmente instruído o feito, declarando a existência de provas suficientes para seu convencimento.
+3. Não se conhece de recurso especial quando o acórdão recorrido encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça (Súmula n. 83 do STJ).
+4. Não se admite a revisão do entendimento do tribunal de origem quando a situação de mérito demandar o reexame do acervo fático-probatório dos autos, tendo em vista o óbice da Súmula n. 7 do STJ.
+5. A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+6. O recurso especial é reclamo de natureza vinculada. Para seu cabimento, inclusive quando apontado o dissídio jurisprudencial, é imprescindível que se especifiquem, de forma clara, os dispositivos apontados como violados pela decisão recorrida, sob pena de inadmissão (Súmula n. 284 do STF).
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 1.399.174/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 19/3/2024, DJe de 22/3/2024.) Grifou-se.
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. COOPERATIVA DE CRÉDITO. REVISÃO DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULAS 5 E 7 DO STJ. INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. PRECEDENTES. SÚMULA 568 DO STJ. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. "A orientação jurisprudencial do Superior Tribunal de Justiça é no sentido de se admitir a aplicação das disposições do Código de Defesa do Consumidor às relações travadas entre cooperados e cooperativas quando estas desenvolvem atividades equiparadas às instituições financeiras" (AgInt nos EAREsp n. 1.302.248/PR, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 20/10/2020, DJe de 29/10/2020). Precedentes.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.351.661/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/3/2024, DJe de 22/3/2024.) Grifou-se.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO REVISIONAL DE CONTRATO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA DEMANDANTE.
+1. A alegação genérica de negativa de prestação jurisdicional, sem a demonstração precisa da ocorrência e relevância dos supostos vícios, atrai a incidência da Súmula 284/STF.
+2. A modificação das conclusões das instâncias ordinárias, demandaria necessariamente, o reexame de fatos e provas e a interpretação das cláusulas contratuais, o que é vedado em recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+2.1. Consoante as diretrizes firmadas no julgamento do REsp n. 1.998.206/DF, "a revisão dos contratos em razão da pandemia não constitui decorrência lógica ou automática, devendo ser analisadas a natureza do contrato e a conduta das partes - tanto no âmbito material como na esfera processual -, especialmente quando o evento superveniente e imprevisível não se encontra no domínio da atividade econômica das partes" (REsp n. 1.998.206/DF, Quarta Turma, Rel. Min. julgado em 14/6/2022, DJe de 4/8/2022).
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.348.782/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/3/2024, DJe de 7/3/2024.) Grifou-se.
+Portanto, inafastável a aplicação das Súmulas 5 e 7 do STJ.
+2. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, conheço do agravo para não conhecer do recurso especial.
+Majora-se em 1% (um por cento) o valor dos honorários sucumbenciais já fixados na origem em desfavor do ora agravante, nos termos do artigo 85, § 11, do CPC, observado eventual deferimento de gratuidade de justiça.
+Publique-se. Intimem-se
+EMENTA
