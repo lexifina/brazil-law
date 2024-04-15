@@ -1,0 +1,35 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de fls. 92 (e-STJ):
+"Trata-se de habeas corpus com pedido de liminar impetrado em favor de DANIEL SANTIAGO DOS SANTO
+Sem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE(Apelação Criminal 202300303619).
+O paciente foi condenado à pena de 5 anos e 7 meses de reclusão em regime fechado, além do pagamento de 563 dias-multa, pela prática do crime previsto no art. 33, caput, da Lei 11.343/2.006, mantida a prisão preventiva.
+O Tribunal a quo negou provimento à apelação do sentenciado.
+O impetrante sustenta ilegalidade na busca pessoal realizada pela policial, diante da "ausência de fundada suspeita" (e-STJ fl. 8).
+Requer, liminar e definitivamente, deferimento da ordem para que seja declarada a nulidade do processo, em decorrência da ilicitude da busca pessoal e demais atos e elementos de convicção decorrentes, "de forma a absolver o acusado" (e-STJ fl. 10).
+É o relatório."
+A liminar foi indeferida pelo Min. João Batista (Desembargador Convocado do TRF1) (e-STJ fls. 92-93). As informações foram prestadas às e-STJ fls. 99-102 e 103-107.
+O Ministério Público Federal manifestou-se pelo não conhecimento da ordem (e-STJ fls. 151-160).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Fede ral, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+"A Terceira Seção deste Superior Tribunal de Justiça restringe a admissibilidade do habeas corpus quando o ato ilegal for passível de impugnação pela via própria, sem olvidar a possibilidade de concessão da ordem de ofício (HC nº 535.063/SP)".
+(AgRg no HC n. 741.874/SP, sob a minha relatoria, Quinta Turma, julgado em 5/3/2024, DJe de 8/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade, o que não se verifica nos autos (e-STJ fls. 17-18)
+"Os depoimentos dos policiais ouvidos perante as autoridades policial e judicial, como se vê, andam na mesma direção, são absolutamente coerentes e, por isso mesmo, mostram-se prova idônea a justificar a procedência da pretensão deduzida na Denúncia. A eles, portanto, deve-se atribuir normal credibilidade pois defendem o interesse da coletividade e, nesta linha, nada se pode registrar acerca da existência de intenção perversa de prejudicar.
+O réu, por sua vez, asseverou perante a autoridade judicial: Confirma que estava em posse das drogas, mas que em momento nenhum afirmou ser para revender. Que ia levar para a festa para usar. Que era para ser usado com seus amigos na festa. Que não deixou droga nenhuma cair, que realizaram a busca pessoal e acabou respeitando a abordagem policial. Que a droga estava em uns papelotes dentro do bolso do casaco. Que fizeram uma vaquinha para comprar as drogas e que iriam usar tudo na festa.
+A tese de defesa, assim, destoa da prova produzida, sobretudo diante do contexto em que foi realizada a busca pessoal (após patrulhamento de rotina e abordagem do réu conduzindo um ciclomotor sem capacete e com licenciamento atrasado, com lavratura de auto de infração administrativa inclusive) e encontrado o entorpecente, não havendo que se falar em ilicitude das provas obtidas.
+Ademais, a foto de fl. 10 demonstra que a droga estavaembalada em porções e, considerando a quantidade (32 trouxinhas demaconha), não é crível o consumo próprio em uma única noite.
+Por fim, ainda que se admita a versão do recorrente de que usaria o entorpecente com uns amigos, vejo que além de não ter sido produzida uma única prova nesse sentido, ainda assim a conduta se enquadra no crime de tráfico, pois se o agente praticar qualquer verbo do núcleo (importar, exportar, remeter, preparar, produzir, fabricar, adquirir, vender, expor à venda, oferecer, ter em depósito, transportar, trazer consigo, guardar, prescrever, ministrar, entregar a consumo ou fornecer drogas),estará incurso no tipo penal e, in casu, a conduta se amolda, no mínimo, aos núcleos verbais "trazer consigo" e "entregar a consumo ou fornecer drogas, ainda que gratuitamente".
+Analisando-se o conteúdo da documentação trazida a esta instância, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+EMENTA
