@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região assim ementado:
+TRIBUTÁRIO. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. EXECUÇÃO FISCAL CORRELATA. APLICAÇÃO DE PENALIDADE PECUNIÁRIA (MULTA DE OFÍCIO). VALOR SUPERIOR AO TRIBUTO DEVIDO. OFENSA AO PRINCÍPIO DA VEDAÇÃO DO CONFISCO. TEMA AFETADO AO REGIME DE REPERCUSSÃO GERAL. PENDÊNCIA DE JULGAMENTO DO RECURSO PARADIGMA. APLICAÇÃO DA JURISPRUDÊNCIA PREVALENTE DA SUPREMA CORTE. APELAÇÃO NÃO PROVIDA. MAJORAÇÃO DA VERBA HONORÁRIA.
+Opostos embargos de declaração, foram rejeitados.
+A parte recorrente alega, em síntese (fls. 522/540):
+o acórdão recorrido deve ser declarado nulo, pois foi omisso quanto aos questionamentos Fazendários na referida Decisão, contrariando, assim, os artigos 489 e 1.022 do CPC e o art. 44, inciso I, c/c seu § 2º, da Lei nº 9.430/96.
+Com contrarrazões da parte recorrida, o recurso foi admitido na origem.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 472/473):
+No que toca à multa aplicada, a sentença também esclareceu que a Certidão de Dívida Ativa que norteia a execução fiscal correlata (0817307-20.2019.4.05.8300) aponta como fundamento legal para a cobrança da multa o art. 44, I e § 2º da Lei 9.430/96, que estabelecem o percentual de 75% (setenta e cinco por cento) sobre a totalidade ou diferença de imposto ou contribuição nos casos de não recolhimento e o aumento desse percentual em 50% (cinquenta por cento), nas hipótese de não atendimento pelo contribuinte, devidamente intimado, para prestar esclarecimentos ou apresentar documentos.
+No caso concreto, a aplicação das hipóteses legais resultou na cobrança de valor da multa superior a 100% (cem por cento) do valor do tributo cobrado.
+Não obstante a Suprema Corte tenha afetado a matéria à sistemática da repercussão geral (Tema 863), o recurso paradigma (RE 833.106/GO) ainda não foi julgado, devendo, como consignado na sentença, ser aplicada a jurisprudência até então prevalente.
+Nesse sentido, foram colacionados precedentes daquela Corte constitucional e deste Tribunal que reconhecem a inconstitucionalidade da imposição de penalidade pecuniária que se traduza em valor superior ao do tributo devido (ARE 1158977 AgR, Julgamento: 14/02/2020, DJe 28/02/2020; Processo0800019-28.2016.4.05.8312, Julgamento: 25/10/2019).
+Nada, portanto, a reparar na sentença que determinou a redução da multa punitiva ao patamar de 100% (cem por cento) do valor do crédito tributário principal.
+Por ocasião do julgamento dos embargos de declaração, nada foi acrescido à fundamentação (fl. 508).
+Pois bem.
+O Supremo Tribunal Federal, ao apreciar Questão de Ordem no AI 791.292/PE, firmou tese segundo a qual "o art. 93, IX, da Constituição Federal exige que o acórdão ou a decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas". Não obstante, os órgãos judiciais estão obrigados a enfrentar, de forma adequada, coerente e suficiente, as questões relevantes suscitadas para a solução das controvérsias que lhes são submetidas a julgamento, assim considerados os argumentos capazes de, em tese, infirmar a conclusão adotada pelo julgador.
+Nessa linha, não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+No caso dos autos, não se verifica violação dos referidos dispositivos, na medida em que a fundamentação adotada pelo órgão julgador torna desnecessária a integração pedida nos aclaratórios.
+De outro lado, na hipótese em que o órgão julgador a quo, invocando o entendimento jurisprudencial do Supremo Tribunal Federal, decide pela desproporcionalidade ou caráter confiscatório da multa, o recurso especial não é a via recursal adequada à revisão do respectivo acórdão, nos termos do art. 105, inc. III, da Constituição Federal. Nessa linha, entre outros: AgInt nos EDcl no REsp n. 2.024.039/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/8/2023, DJe de 30/10/2023; AgInt no AREsp n. 1.945.533/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 14/3/2022, DJe de 17/3/2022; AgInt nos EDcl no REsp n. 1.880.718/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 16/8/2021, DJe de 20/8/2021.
+Ante o exposto, conheço em parte do recurso especial e nego-lhe provimento; e majoro em 1% a verba honorária de sucumbência arbitrada nas instâncias ordinárias, respeitados os limites e os critérios previstos nos §§ 2º, 3º e 11 do art. 85 do CPC/2015.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. OCORRÊNCIA. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. RECURSO CONHECIDO EM PARTE E NÃO PROVIDO.
