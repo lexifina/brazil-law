@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/04/2024 a 15/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. OFENSA AOS ARTS. 165, 468, 535, I E II, DO CPC/1973. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DECISÃO MANTIDA. LITIGÂNCIA DE MÁ-FÉ. NÃO OCORRÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 165, 468, 535, I e II, do CPC/1973 quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido nem negativa da prestação jurisdicional.
+2. A litigância de má-fé, passível de ensejar a aplicação de multa e indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios.
+3. Agravo interno desprovido.
+RELATÓRIO
+UNIMED NORDESTE RS - SOCIEDADE COOP. DE SERV. MÉDICOS LTDA. interpõe agravo interno contra decisão de fls. 238-242, que conheceu em parte do recurso especial para negar-lhe provimento ante a ausência de violação dos arts. 165, 468, 535, I e II, do CPC de 1973 e a incidência da Súmula n. 7 do STJ.
+Nas razões do presente recurso, a parte agravante sustenta que deve o acórdão recorrido ser anulado por omissão jurisdicional, para que, após nova análise pelo Tribunal de origem, haja a manifestação a respeito da ausência de intimação pessoal do representante legal, conforme determinava o Termo de Ajustamento de Conduta, para que fosse possível a execução da multa prevista no TAC - condição suspensiva.
+Pondera que (fl. 254):
+O fundamento da decisão foi a abordagem realizada pelo Tribunal regional sobre a alegação da intimação, o que significaria, na revisão, a reapreciação de prova que é, consabidamente, vedada no juízo do recurso especial.
+10. O equívoco da decisão começa por entender que a agravante pretendia, com o recurso especial, revisar a apreciação da prova que teria realizado a Instância recorrida.
+11. Sucede que não é isto que pretende a recorrente, agora agravante. Ela quer é a nulidade da decisão, para que o Tribunal local examine o fundamento apresentado por ela, de que não houve a intimação pessoal do seu representante legal, ao contrário do que determinava o Termo de Ajustamento de Conduta, pendendo a execução pretendida de condição suspensiva não comprovada pela parte recorrente.
+Requer, assim, a reconsideração da decisão ou que seja o agravo julgado pelo colegiado.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. OFENSA AOS ARTS. 165, 468, 535, I E II, DO CPC/1973. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DECISÃO MANTIDA. LITIGÂNCIA DE MÁ-FÉ. NÃO OCORRÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 165, 468, 535, I e II, do CPC/1973 quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido nem negativa da prestação jurisdicional.
+2. A litigância de má-fé, passível de ensejar a aplicação de multa e indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios.
+3. Agravo interno desprovido.
+VOTO
+A decisão agravada, quanto a alegada violação aos arts. 165, 468, 535, I e II, do CPC de 1973, adotou os fundamentos a seguir (fls. 240-241):
+Afasta-se a alegada ofensa aos dispositivos legais em epígrafe, porquanto a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Na espécie, o Tribunal de Justiça do Estado do Rio Grande do Sul, considerando o previsto na cláusula 7ª do Termo de Ajustamento de Conduta, concluiu que fora comprovada a notificação extrajudicial acerca do descumprimento do ajuste. A respeito da abrangência do TAC, consignou que, no recurso, não há pedido para que haja a determinação de que o cumprimento da cláusula abranja todos os consumidores que sofreram aumento, inclusive antes de 2009. Confira-se trecho do acórdão que trata das referidas teses (fl. 128, destaquei):
+ ..
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Considerando tais razões de decidir e a argumentação recursal ora exposta, a irresignação não reúne condições de êxito.
+Quanto à alegada ausência de intimação pessoal do representante legal da operadora de saúde acerca do descumprimento dos TAC, para que a multa pudesse ser executada, consta do acórdão que (fls. 127-128, destaquei):
+Da mesma forma que ocorre com as multas contratuais, a multa estabelecida no TAC, que nada mais é que um instrumento consensual, é plenamente exigível uma vez verificado o descumprimento, sendo que quanto à alegada não verificação da condição para a aplicação da multa cumpre ressaltar que, conforme cópia do Termo de Ajustamento de Conduta trazido aos autos, a multa ora estabelecida encontra amparo em sua cláusula 7ª que assim estabelece:
+CLÁUSULA 7ª - Caso as COMPROMISSÁRIAS descumpram qualquer das cláusulas deste TAC, incorrerão em multa diária no valor de R$ 100,00 (cem reais) por consumidor/beneficiário usuário da respectiva Cooperativa, até o cumprimento efetivo do pactuado, a partir de dez dias da intimação pessoal do representante legal da Cooperativa singular COMPROMISSÁRIA, garantindo a esta o direito de defender-se explicando os motivos de sua conduta, ou emendar a sua mora, hipótese na qual, julgada satisfatória a explicação pela Defensoria Pública, poderá ser relevada a multa aqui aplicada.
+Quanto à possibilidade de direta execução do TAC a cláusula 8ª dispõe o seguinte:
+CLÁUSULA 8ª - A inexecução dos compromissos previsto no presente TAC ensejará à Defensoria Pública a imediata execução judicial do presente título.
+Ao contrário do afirmado pela agravante, houve a efetiva notificação judicial acerca do descumprimento dos TAC, fls. 28/31, inexistindo nos autos demonstração de que a ora agravante tenha se desincumbido do ônus de demonstrar o efetivo cumprimento do acordado.
+Ademais, insta registrar que além de ter sido observado o direito à defesa acerca do descumprimento quando da notificação extrajudicial, a decisão agravada determinou a incidência da multa apenas após decorridos 10 dias da citação, dando nova oportunidade de defesa ao agravado, quando poderia ter sido postulada a multa desde a notificação extrajudicial, nos termos das cláusulas acima reproduzidas.
+Destaco que em que, pese a agravante faça referências à abrangência do TAC, não há neste recurso qualquer pedido acerca da determinação de que o cumprimento da cláusula abranja todos os consumidores não regulamentados que, ao fazer 60 e 70 anos, sofreram aumento superior a 40%, mesmo que antes de setembro de 2009.
+Da detida análise dos fundamentos do acórdão de origem, vê-se que a suscitada ofensa aos arts. 165, 468, 535, I e II, do CPC de 1973, não haveria mesmo de prosperar, tendo em vista que o Tribunal de origem apreciou, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido nem negativa da prestação jurisdicional.
+Portanto, a parte recorrente não logrou êxito em apresentar argumentos suficientes que justificassem a revisão do decisum agravado, que deve ser mantido por seus próprios fundamentos.
+No que se refere ao pedido de aplicação da pena por litigância de má-fé, formulado em impugnação ao agravo interno, ressalte-se que a litigância de má-fé, passível de ensejar a aplicação de multa e de indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios, o que não ocorreu na espécie (AgInt no AREsp n. 1.658.454/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 31/8/2020, DJe de 8/9/2020).
+No caso, apesar do desprovimento do agravo interno, não está caracterizada a manifesta inadmissibilidade do recurso ou mesmo a litigância temerária, razão pela qual é incabível a aplicação da penalidade acima referida.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
