@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 5ª Região, assim ementado (fls. 1.724-1.726):
+ADMINISTRATIVO. AUTO DE INFRAÇÃO. FISCALIZAÇÃO DO MINISTÉRIO DAAGRICULTURA, PECUÁRIA E ABASTECIMENTO. COMERCIALIZAÇÃO DE PRODUTODIVERSO DO CONSTANTE DA EMBALAGEM (UREIA PURA, QUANDO DEVERIA SERFERTILIZANTE MISTO). CANCELAMENTO DO REGISTRO DA EMPRESA PELO PRAZO DE 01ANO. SANÇÃO PREVISTA NO DECRETO 4.954/2004. REDUÇÃO DO PRAZO PARA 02 MESES. CABIMENTO. HONORÁRIOS ADVOCATÍCIOS CORRETAMENTE FIXADOS. APELAÇÃO, REMESSA E RECURSO ADESIVO DESPROVIDOS. SENTENÇA MANTIDA.
+Embargos de declaração rejeitados.
+Em suas razões de recurso especial, sustenta ofensa ao artigo 85, §§ 2º e 8º, sob o argumento de que os honorários advocatícios sucumbenciais deveriam ser fixados entre 10% e 20% do valor atualizado da causa.
+Alega, ainda, que não se aplica o princípio da equidade, tendo em vista que o valor da causa não é inestimável ou irrisório (fl. 1.788).
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 1.866.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Verifica-se que o recurso especial versa sobre a possibilidade, ou não, de fixação dos honorários advocatícios por equidade.
+Nesse sentido, em que pese o entendimento do Superior Tribunal de Justiça exposto no julgamento do Tema 1.076, é de se ressaltar que o Supremo Tribunal Federal reconheceu a existência de Repercussão Geral do Tema 1255 - RE 1.412.069 - Possibilidade da fixação dos honorários por apreciação equitativa (artigo 85, § 8º, do Código de Processo Civil) quando os valores da condenação, da causa ou o proveito econômico da demanda forem exorbitantes, cuja descrição é a seguinte:
+Recurso extraordinário em que se discute, à luz dos artigos 2º, 3º, I e IV, 5º, caput, XXXIV e XXXV, 37, caput, e 66, § 1º, da Constituição Federal, a interpretação conferida pelo Superior Tribunal de Justiça ao art. 85, §§ 2º, 3º e 8º, do Código de Processo Civil, em julgamento de recurso especial repetitivo, no sentido de não ser permitida a fixação de honorários advocatícios por apreciação equitativa nas hipóteses de os valores da condenação, da causa ou o proveito econômico da demanda serem elevados, mas tão somente quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo (Tema 1.076/STJ).
+Tendo em vista que a matéria objeto de análise no supracitado Tema é a única examinada no presente recurso especial, o sobrestamento dos autos na origem, para aguardar o julgamento do Recurso Extraordinário sob a sistemática da Repercussão Geral é medida que se impõe, tendo em vista a economia processual e para se evitar a prolação pelo STJ de provimentos jurisdicionais em desconformidade com o que for definitivamente decidido pela Corte Suprema.
+Nesse sentido: REsp 1.486.671/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 25/11/2014; AgRg no REsp 1.467.551/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 9/9/2014.
+Ante o exposto, julgo prejudicado o exame do presente recurso neste momento processual e determino a devolução dos autos ao Tribunal a quo, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido pelo Supremo Tribunal Federal (Tema 1.255/STF), em observância aos artigos 1.039, 1.040, I e II, e 1.041 do CPC/2015:
+a) negue seguimento ao recurso, se a decisão recorrida coincidir com a orientação exarada pelo STF; ou b) proceda ao juízo de retratação, na hipótese de o acórdão vergastado divergir da decisão sobre o tema.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. MATÉRIA COM REPERCUSSÃO GERAL RECONHECIDA. TEMA 1.255 DO STF. SOBRESTAMENTO DO RECURSO ATÉ O EXERCÍCIO DO JUÍZO DE CONFORMAÇÃO. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
