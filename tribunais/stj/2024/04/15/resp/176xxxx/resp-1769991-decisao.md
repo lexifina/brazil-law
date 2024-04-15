@@ -1,0 +1,9 @@
+DECISÃO
+Cuida-se de pedido (fls. 856-859) aviado por OI S.A. - EM RECUPERAÇÃO JUDICIAL para que - tendo o Tribunal a quo, em virtude de determinação emanada desta Corte nos autos do REsp n. 1.769.991/PR (fls. 721-723), efetuado o julgamento voltado ao saneamento da questão omissa - esta Corte Superior siga com o julgamento das demais questões pendentes, motivo pelo qual reitera o REsp n. 1.769.991/ PR para que tenha seu regular processamento.
+É, no essencial, o relatório.
+Nos termos do art. 1.029, caput, I-III e § 1º, do CPC, o recurso especial será interposto perante o presidente ou o vice-presidente do tribunal recorrido, em petição contendo a exposição do fato e do direito; a demonstração do cabimento do recurso interposto; e as razões do pedido de reforma ou de invalidação da decisão recorrida. Outrossim, quando o recurso fundar-se em dissídio jurisprudencial, o recorrente fará a prova da divergência com a certidão, cópia ou citação do repositório de jurisprudência, oficial ou credenciado, inclusive em mídia eletrônica, em que houver sido publicado o acórdão divergente, ou ainda com a reprodução de julgado disponível na rede mundial de computadores, com indicação da respectiva fonte, devendo-se, em qualquer caso, mencionar as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+Na espécie, renovado o julgamento pelo Tribunal recorrido, cabia à parte recorrente interpor nova petição com novo recurso especial, atacando os fundamentos do novo acórdão, não sendo possível ressuscitar recurso cujo julgamento já foi entregue e, portanto, encerrado.
+Frise-se que, à fl. 727, observa-se certidão atestando o trânsito em julgado do REsp n. 1.769.991/PR no dia 13 de fevereiro de 2020.
+Desse modo, a pretensão ora pleiteada esbarra, ainda, no art. 485, V, do CPC, o qual preleciona que o juiz não resolverá o mérito quando reconhecer a existência de coisa julgada.
+Ante o exposto, nego o pedido.
+EMENTA
