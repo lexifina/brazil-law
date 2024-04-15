@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/04/2024 a 15/04/2024, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto da Sra. Ministra Regina Helena Costa.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CPC/2015. APLICABILIDADE. EXECUÇÃO FISCAL. RAZÕES RECURSAIS DISSOCIADAS DA FUNDAMENTAÇÃO QUE SUSTENTA O ACÓRDÃO RECORRIDO. INCIDÊNCIA DAS SÚMULAS N. 283 E 284 DO STF. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESC ABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O tribunal de origem não conheceu do Agravo de Instrumento, porquanto não impugnados os fundamentos da decisão prolatada pelo magistrado. Nas razões do recurso especial, busca-se o reconhecimento da prescrição.
+III - É deficiente o recurso especial que deixa de impugnar fundamento substancial do acórdão recorrido, apresentando razões recursais dissociadas do que restou decidido. Aplicação por analogia das Súmulas n. 283 e 284 do STF.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno conhecido em parte e improvido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto por TEODORICO PEREIRA PINO contra a decisão que conheceu em parte e negou provimento ao recurso especial.
+Sustenta o Agravante, em síntese, a inaplicabilidade das Súmulas n. 283 e 284 do STF. Isso porque a prescrição é matéria de ordem pública e pode ser alegada em qualquer grau de jurisdição.
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada e determinado o processamento do Recurso Especial ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Transcorreu in albis o prazo para impugnação (certidão de fl. 262e).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CPC/2015. APLICABILIDADE. EXECUÇÃO FISCAL. RAZÕES RECURSAIS DISSOCIADAS DA FUNDAMENTAÇÃO QUE SUSTENTA O ACÓRDÃO RECORRIDO. INCIDÊNCIA DAS SÚMULAS N. 283 E 284 DO STF. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESC ABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O tribunal de origem não conheceu do Agravo de Instrumento, porquanto não impugnados os fundamentos da decisão prolatada pelo magistrado. Nas razões do recurso especial, busca-se o reconhecimento da prescrição.
+III - É deficiente o recurso especial que deixa de impugnar fundamento substancial do acórdão recorrido, apresentando razões recursais dissociadas do que restou decidido. Aplicação por analogia das Súmulas n. 283 e 284 do STF.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno conhecido em parte e improvido.
+VOTO
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+- Preclusão
+Da leitura do agravo interno, constata-se que não houve impugnação específica de todos os fundamentos que sustentam a decisão agravada, tendo em vista que a aplicação, a ausência de omissão e a prejudicialidade da análise do recurso especial pela divergência não foram combatidas nas razões do presente recurso.
+Esta Corte firmou posicionamento segundo o qual a parcela da decisão não impugnada resta preclusa para futuras discussões, conforme restou decidido nos EREsp n. 1.424.404/SP, assim ementado:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL PROCESSUAL CIVIL. AGRAVO INTERNO. DESNECESSIDADE DE IMPUGNAÇÃO DE TODOS OS CAPÍTULOS AUTÔNOMOS E/OU INDEPENDENTES DA DECISÃO MONOCRÁTICA AGRAVADA INAPLICABILIDADE DA SÚMULA 182/STJ.
+1. A regra da dialeticidade - ônus do recorrente de apresentar os fundamentos de sua irresignação - constitui reflexo do princípio constitucional do contraditório e da necessária interação dialógica entre as partes e o magistrado, revelando-se como a outra face da vedação do arbítrio, pois, se o juiz não pode decidir sem fundamentar, "a parte não pode criticar sem explicar" (DOTTI, Rogéria. Todo defeito na fundamentação do recurso constitui vício insanável  Impugnação específica, dialeticidade e o retorno da jurisprudência defensiva. In: NERY JUNIOR, Nelson; ALVIM, Teresa Arruda; OLIVEIRA, Pedro Miranda de  coord. . Aspectos polêmicos dos recursos cíveis e assuntos afins. Volume 14  livro eletrônico . São Paulo: Thomson Reuters Brasil, 2018).
+2. Tal dever de fundamentação da pretensão de reforma do provimento jurisdicional constitui requisito extrínseco de admissibilidade dos recursos, que se enquadra na exigência de regularidade formal.
+3. Nada obstante, via de regra, é possível eleger, em consonância com o interesse recursal, quais questões jurídicas - autônomas e independentes - serão objeto da insurgência, nos termos do artigo 1.002 do CPC de 2015.
+Assim, "considera-se total o recurso que abrange "todo o conteúdo impugnável da decisão recorrida", porque toda ela pode não ser impugnável;
+e parcial o recurso que, por abstenção exclusiva do recorrente, "não compreenda a totalidade do conteúdo impugnável da decisão"" (ASSIS, Araken de. Manual dos recursos  livro eletrônico . 4. ed. São Paulo:
+Thomson Reuters Brasil, 2021).
+4. O citado dispositivo legal - aplicável a todos os recursos - somente deve ser afastado quando há expressa e específica norma em sentido contrário, tal como ocorre com o agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no artigo 253, parágrafo único, inciso II, alínea "a", do RISTJ, segundo o qual compete ao relator não conhecer do agravo "que não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+5. Sobre a aludida modalidade de recurso - agravo do artigo 544 do CPC de 1973, atualmente disciplinado pelo artigo 1.042 do CPC de 2015 -, a Corte Especial fixou a orientação no sentido de ser inafastável o dever do recorrente de impugnar especificamente todos os fundamentos que levaram à inadmissão do apelo extremo, não se podendo falar, na hipótese, em decisão cindível em capítulos autônomos e independentes (EAREsps 701.404/SC, 746.775/PR e 831.326/SP, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19.9.2018, DJe 30.11.2018).
+6. Como se constata, essa orientação jurisprudencial se restringe ao Agravo em Recurso Especial (AREsp) - ante a incindibilidade da conclusão exarada no juízo prévio negativo de admissibilidade do apelo extremo -, não alcançando, portanto, o Agravo Interno no Recurso Especial (AgInt no REsp) nem o Agravo Interno no Agravo em Recurso Especial (AgInt no AREsp), haja vista a possibilidade, em tese, de a decisão singular do relator ser decomposta em "capítulos", vale dizer unidades elementares e autônomas do dispositivo contido no provimento jurisdicional objeto do recurso.
+7. A autonomia dos capítulos da sentença - lato sensu - apresenta dois significados: (i) o da possibilidade de cada parcela do petitum ser objeto de um processo separado, sendo meramente circunstancial a junção de várias pretensões em um único processo; e (ii) o da regência de cada pedido por pressupostos próprios, "que não se confundem necessariamente nem por inteiro com os pressupostos dos demais" (DINAMARCO, Cândido Rangel.
+Capítulos de sentença. São Paulo: 2002, Malheiros, pp. 43-44).
+8. O renomado autor aponta, ainda, a possibilidade de a decisão judicial conter "capítulos independentes" e "capítulos dependentes". Nessa perspectiva, destaca que a dependência entre capítulos sentenciais se configura: (i) quando constatada relação de prejudicialidade entre duas pretensões, de modo que o julgamento de uma delas (prejudicial) determinará o teor do julgamento da outra (prejudicada); e (ii) entre o capítulo portador do julgamento do mérito e aquele que decidiu sobre a sua admissibilidade (DINAMARCO, Cândido Rangel. Op. cit., pp. 44-46).
+9. Diante desse contexto normativo e doutrinário, deve prevalecer a jurisprudência desta Corte no sentido de que a ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ.
+10. Ressalte-se, contudo, o dever da parte de refutar "em tantos quantos forem os motivos autonomamente considerados" para manter os capítulos decisórios objeto do agravo interno total ou parcial (AgInt no AREsp 895.746/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 9.8.2016, DJe 19.8.2016).
+11. Embargos de divergência providos para afastar a aplicação da Súmula 182/STJ em relação ao agravo interno, que deve ser reapreciado pela Primeira Turma desta colenda Corte.
+(EREsp 1424404/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/10/2021, DJe 17/11/2021)
+Assim, inaplicável a Súmula n. 182/STJ, nos casos em que o Agravo Interno deixa de impugnar fundamentos de capítulos autônomos do decisum, ocorrendo, contudo, a preclusão do questionamento da matéria examinada nesse capítulo.
+Passo à análise das demais alegações.
+- Da matéria de ordem pública.
+Essa alegação não foi trazida nas razões do recurso especial. A matéria inaugurada em sede de agravo interno configura, no ponto, indevida inovação recursal e impede o conhecimento das insurgências, em decorrência da preclusão consumativa.
+Nessa linha:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. HONORÁRIOS RECURSAIS FIXADOS NO ACÓRDÃO EMBARGADO. NÃO QUESTIONADOS NOS EMBARGOS DE DIVEREGÊNCIA. PRECLUSÃO CONSUMATIVA. HONORÁRIOS RECURSAIS NOS EMBARGOS DE DIVERGÊNCIA. CABIMENTO. LIMITE DE 20%. NÃO ALCANÇADO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+II - A impugnação à condenação em honorários recursais no acórdão embargado foi apresentada apenas quando da interposição do Agravo Interno. A matéria inaugurada em sede de agravo interno configura, no ponto, indevida inovação recursal e impede o conhecimento das insurgências, em decorrência da preclusão consumativa. Precedentes.
+VI - Agravo Interno conhecido em parte e improvido.
+(AgInt nos EAREsp n. 1.066.293/RS, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 19/9/2023, DJe de 22/9/2023)
+Em sede de recurso especial é incabível a análise de matéria de ofício, ainda que se trata de questão de ordem pública, por faltar o requisito obrigatório do prequestionamento.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. MATÉRIAS DE ORDEM PÚBLICA. PREQUESTIONAMENTO. NECESSIDADE. REQUISITOS. INEXISTÊNCIA. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. As matérias de ordem pública, mesmo passíveis de conhecimento de ofício pelas instâncias ordinárias, necessitam estar devidamente prequestionadas para ensejar o conhecimento do recurso especial.
+ ..
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.374.666/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 27/11/2023, DJe de 30/11/2023.)
+Passo ao exame da matéria impugnada.
+- Da aplicação dos óbices sumulares
+O Agravante defende a não aplicação das Súmulas n. 283 e 284 do STF.
+Entretanto, o tribunal de origem não conheceu do Agravo de Instrumento, porquanto não impugnados os fundamentos da decisão prolatada pelo magistrado e o Agravante, n as razões do recurso especial, busca-se o reconhecimento da prescrição.
+Desse modo, verifica-se que as razões recursais apresentadas encontram- se, nitidamente, dissociadas daquilo que restou decidido pelo tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, os óbices das Súmulas 283 e 284, do Supremo Tribunal Federal, as quais dispõem, respectivamente: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"; e "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+- Da multa
+No que se refere à aplicação do art. 1.021, § 4º, do CPC/2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso. Nessa linha: Corte Especial, AgInt nos EAREsp n. 1.043.437/SP, Rel. Ministro JORGE MUSSI, j. 13.10.2021; e 1ª S., AgInt nos EREsp n. 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, j. 14.09.2016.
+No caso, não obstante o improvimento do Agravo Interno, não resta configurada a manifesta inadmissibilidade, razão pela qual deixo de impor a apontada multa.
+Ante o exposto, NEGO PROVIMENTO AO AGRAVO INTERNO.
