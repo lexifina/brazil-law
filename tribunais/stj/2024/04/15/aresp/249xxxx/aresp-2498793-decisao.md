@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a", da Constituição Federal) interposto de acórdão assim ementado:
+EMENTA: REMESSA NECESSÁRIA E APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. ILEGETIMIDADE PASSIVA. AFASTADA. IPARV. NEGATIVA CUSTEIO DE TRATAMENTO RECÉM NASCIDO. IMPOSSIBILIDADE DIREITO LÍQUIDO E CERTO DEMONSTRADO. SENTENÇA MANTIDA.
+1 - Considera-se autoridade coatora aquela responsável pelo ato que se impetra o mandado de segurança, todavia a jurisprudência vem admitindo também aquela que, embora efetivamente não possa modificar o ato impugnado, detém meios para tal.
+2 - O Instituto de Previdência e Assistência dos Servidores do Município de Rio Verde - IPARV, pessoa jurídica de personalidade pública, com finalidade de assistência médica se submete as disposições da Lei nº 9.656/1998, na condição de entidade de autogestão, conforme seu art. 1º, inc. II.
+3 - Observa-se que a lei nº 9.656/1998 confere máxima proteção ao direito fundamental de proteção ao recém-nascido, no que se refere à assistência suplementar à saúde, não podendo restringi-lo de atendimento, mormente no caso de necessidade de internação em unidade de tratamento intensivo (UTI), haja vista seu caráter de urgência/emergência. Sentença Mantida. Remessa necessária e apelação cível conhecidas e desprovidas.
+Em seu Recurso Especial, o agravante aponta violação do art. 1º, § 1º, da Lei 12.016/2009 e aduz:
+O Hospital, constituído na modalidade de associação civil, ora recorrente, é pessoa jurídica de direito privado, que explora atividade econômica privada, cujo ato de gestão, administração, gerenciamento e implementação não se caracteriza como função delegada do Poder Público, razão pela qual não deveria figurar no polo passivo de mandado de segurança por ser parte manifestamente ilegítima para tanto, ex vi do disposto nos arts. 5º, inciso LXIX, e 1º da Lei nº 12.016, de 7 de agosto de 2009, sendo inaplicável ao caso vertente a Súmula 510 do Supremo Tribunal Federal, como fundamentado no acórdão recorrido, vez que as atividades exercidas pelos hospitais particulares não são delegadas pelo Poder Público, mas sim, meramente autorizadas.
+Sem contrarrazões.
+O juízo de admissibilidade negativo (fls. 318-320, e-STJ) ensejou a interposição do presente Agravo.
+Sem contraminuta.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 18.3.2024.
+Ao afastar a ilegitimidade passiva, o Tribunal de origem consignou (fl. 269, e-STJ; grifos acrescidos):
+(..)
+Pois bem. Sabe-se que o mandado de segurança constitui via adequada à proteção de direito líquido e certo, não amparado por habeas corpus, ou habeas data, na hipótese de ameaça, ou lesão, decorrente de ato ilegal, ou abusivo de autoridade (art. 5º, inc. LXIX, da Constituição Federal).
+Preliminarmente, quanto a tese de ilegitimidade passiva do apelante em figurar no polo passivo da ação, por ser pessoa jurídica de direito privada, não subsiste.
+Insta destacar que, em regra, considera-se autoridade coatora aquela responsável pelo ato que se impetra o mandado de segurança, todavia a jurisprudência vem admitindo também aquela que, embora efetivamente não possa modificar o ato impugnado, detém meios para tal. E na hipótese de haver mais de uma autoridade, como em casos de atos complexos e compostos, todas elas devem ser citadas. Ademais, é cabível mandado de segurança contra entidades particulares que atuem por delegação de atividade de pessoa jurídica de direito público.
+A necessidade de tratar-se de função delegada para cabimento da medida ficou expressa na Súmula no 510, do STF: "Praticado o ato por autoridade, no exercício de competência delegada, contra ela cabe o mandado de segurança ou medida judicial."
+No caso a operadora do plano de saúde, IPARV, trata-se de pessoa jurídico de direito público com a finalidade de prestação de serviços de assistência médica aos seus servidores e agregados, os quais são fornecidos por meio de hospitais contratados ou conveniados, conforme Lei nº 4.692/2003. Dito isso, observa-se que a partir do momento que o hospital particular estabelece relação jurídica com o IPARV, para atender seus beneficiários, a ele lhe é delegado o serviço dessa pessoa jurídica de direito público, em específico.
+Nesse contexto, a negativa pelo Diretor do Hospital Evangélico de Rio Verde de atendimento em UTI-NEONATAL para paciente que já se encontrava internado pelo plano, configura sim ato coator, a dois motivos, primeiro porque sua negativa se deu sobre a alegação de que o plano de saúde não cobriria as despesas necessárias, e a dois, porque ele teria condições de modificar o ato impugnado mantendo a internação do paciente que foi recebido pelo plano de saúde.
+Outrossim, cumpre salientar que a alegação do apelante de que estaria no seu exercício regular do seu direito de cobrar diretamente do paciente, não se sustenta, já que se a admissão do paciente foi pelo plano de saúde, caberia a ele cobrar do IPARV as despesas pela internação, conforme relação jurídica estabelecida entre as partes.
+Rever a conclusão de que "a negativa pelo Diretor do Hospital Evangélico de Rio Verde de atendimento em UTI-NEONATAL para paciente que já se encontrava internado pelo plano, configura sim ato coator, a dois motivos, primeiro porque sua negativa se deu sobre a alegação de que o plano de saúde não cobriria as despesas necessárias, e a dois, porque ele teria condições de modificar o ato impugnado mantendo a internação do paciente que foi recebido pelo plano de saúde" demandaria o reexame do conjunto fático-probatório dos autos, o que atrai a incidência do óbice contido na Súmula 7 do STJ.
+Ante o exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
