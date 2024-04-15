@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da Constituição Federal de 1988) interposto contra acórdão assim ementado:
+RECURSO DE APELAÇÃO CÍVEL - DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL - AÇÃO ANULATÓRIA - EXECUÇÃO FISCAL - LEILÃO JUDICIAL - ARREMATAÇÃO VÁLIDA - DEVEDOR INTIMADO DE TODOS OS ATOS DO PROCESSO - ALEGAÇÃO TARDIA DE PARCELAMENTO - ANULAÇÃO DA ARREMATAÇÃO - IMPOSSIBILIDADE - PRECLUSÃO - RECURSO DESPROVIDO.
+1 - É excepcional a desconstituição da arrematação, devendo ocorrer nas hipóteses previstas no artigo 903, § 1º, do Código de Processo Civil.
+2 - A adesão ao parcelamento do débito tributário, comunicado tardiamente ao Juízo, ou seja, após a realização do leilão judicial e a arrematação do bem, não tem o condão de obstar a validade e a eficácia do ato jurídico perfeito e acabado, razão pela qual permanece hígida a arrematação do bem praceado.
+O Estado do Paraná aponta que houve violação aos arts. 489, § 1º, 903, 921, I, c/c 313, II, 1.022, II, do CPC e 151, VI, do CTN. Afirma que deve ser desconstituída a arrematação do seu imóvel, objeto de Execução Fiscal referente à dívida de IPTU, uma vez que informou ao juízo, previamente à arrematação, o parcelamento do débito.
+Contrarrazões às fls. 824-837, e-STJ.
+Decisão de admissibilidade às fls. 849-854, e-STJ.
+É o relatório.
+Decido.
+Os autos ingressaram nesse Gabinete em 1º de fevereiro de 2024.
+A Corte a quo assim consignou ao decidir a controvérsia (fls. 703-708, e-STJ, grifei):
+Conforme relatado, trata-se de recurso de apelação cível, interposto por Miguel Ramos de Souza, contra a sentença proferida nos autos da Ação Anulatória de Praça Judicial por ele proposta em desfavor do Município de Rondonópolis, Elias Vieira Porto e Celma de Oliveira Vieira, que julgou improcedentes os pedidos contidos na inicial.
+(..)
+Na peça exordial, o apelante narra que figurou no polo passivo de uma execução fiscal, referente a débitos de IPTU, atinentes aos anos de 1995, 1996 e 1997, no valor de R$ 3.293,50 (três mil duzentos e noventa e três reais e cinquenta centavos), em cujos autos fora realizado o arresto do seu imóvel, situado na Avenida João Ponce de Arruda, n. 3136, consubstanciado em um lote de terreno de n. 09, na quadra 02, do bairro Vila Esperança, da cidade de Rondonópolis-MT.
+Afirma que, após o arresto, buscou saldar a dívida, ficando o executivo suspenso durante o período do parcelamento que assumira.
+Narra que, passado o período de tal suspensão, o Município informou a existência de outras execuções fiscais, requerendo a reunião dos feitos de códigos ns. 54135, 284699 e 399861, o que fora deferido, mediante a reabertura do prazo para a defesa.
+Alega que, a partir de então, ocorreu a tentativa frustrada da sua citação por correio, que implicou a subsequente citação por edital, seguida da nomeação da Defensoria como sua curadora, que viabilizou com que fosse declarado prescrito parte do débito executado, sendo, porém, dado prosseguimento a atos expropriatórios, com a avaliação do seu imóvel, arrestado em tempo pretérito, em R$ 220.000,00 (duzentos e vinte mil reais), seguida da designação de leilão, para as datas de 14/02/17 e 15/02/17, nas quais não houve arrematação, sendo, então, redesignadas as hastas públicas para 29/8//2017 e 30/8/2017.
+Tomando ciência do fato, diz o apelante ter realizado novo parcelamento, pago a primeira parcela e peticionado, em conjunto com o Município (o próprio interessado no crédito decorrente de eventual lance), informando o fato ao juízo da execução, a quem requereram a retirada o imóvel da hasta pública, porém, sem êxito.
+(..) Por fim, insta salientar que o próprio trâmite do leilão compreende um complexo de providências que se desenvolvem em um prazo suficiente para uma tomada de ação.
+Por todas as circunstâncias delineadas, não me afigura razoável que o recorrente deixe a situação se arrastar desde o ano de 1996 e, passados mais de 20 anos, pretenda anular um leilão, com fundamento em uma petição protocolada com a antecedência de menos de 2 horas da ocorrência da hasta pública, tempo que se percebe, com facilidade, insuficiente para a avaliação de todas as circunstâncias aqui retratadas.
+Preliminarmente, constato que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia.
+Conforme precedente do STJ, "o julgador não precisa responder, um a um, todos os pontos apresentados. Não há necessidade, outrossim, de expressa menção a todos os dispositivos legais invocados pelas partes. Importa é que todas as questões relevantes sejam apreciadas (REsp n. 844.778/SP, Rel. Min. Nancy Andrighi, Terceira Turma, DJ de 26/3/2007, p. 240, grifei).
+O TJMT baseou-se em fundamento autônomo e suficiente para manter a decisão de origem - de que a petição comunicando o parcelamento do débito foi protocolada com a antecedência de menos de 2 horas da ocorrência da hasta pública, tempo insuficiente para a avaliação de todas as circunstâncias envolvidas -, o que não foi objeto de impugnação no Recurso Especial. A parte insiste no argumento de que "a comunicação foi antes da própria realização do leilão judicial, ou seja, antes do leilão e da arrematação" (fl. 803, e-STJ), sem se debruçar acerca do fundamento do acórdão recorrido de que o peticionamento com antecedência de apenas duas horas para a hasta pública é insuficiente para a sua devida apreciação, considerando a complexidade dos atos do leilão.
+Padece de irregularidade formal o Recurso "em que o recorrente descumpre seu ônus de impugnar especificamente os fundamentos do acórdão recorrido, deixando de atender ao princípio da dialeticidade" (AgRg no RMS 44.887/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 11/11/2015). Incide, ao caso, o teor da Súmula 283/STF. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. POLICIAIS MILITARES. AÇÃO DE COBRANÇA. DIREITO RECONHECIDO EM MANDADO DE SEGURANÇA COLETIVO. NÃO OCORRÊNCIA DE TRÂNSITO EM JULGADO DO MANDAMUS. SUSPENSÃO DO PROCESSO. FUNDAMENTAÇÃO AUTÔNOMA NÃO IMPUGNADA E ARGUMENTAÇÃO RECURSAL DEFICIENTE. SÚMULAS 283 E 284 DO STF. INTERRUPÇÃO DO PRAZO PRESCRICIONAL PELA IMPETRAÇÃO DO WRIT. PRECEDENTES. PRESCRIÇÃO LIMITADA ÀS PARCELAS ANTERIORES AO QUINQUÊNIO QUE ANTECEDEU O AJUIZAMENTO DA AÇÃO MANDAMENTAL.
+1. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem e a apresentação de argumentação recursal deficiente impedem a admissão do apelo especial. Incidem ao caso as Súmulas 283 e 284 do STF.
+(..)
+3. Agravo interno não provido.
+(AgInt no REsp 1.878.208/SP, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 11/12/2020)
+Diante do exposto, conheço do Recurso Especial, apenas em relação à alegação de violação ao art. 1.022 do CPC, para, nessa extensão, negar-lhe provimento.
+Publique-se.
+Intimem-se.
+EMENTA
