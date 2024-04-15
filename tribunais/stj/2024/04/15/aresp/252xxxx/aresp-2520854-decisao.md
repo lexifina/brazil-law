@@ -1,0 +1,83 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da Constituição Federal) interposto de acórdão assim ementado (fls. 1.421-1.429, e-STJ):
+JUÍZO DE RETRATAÇÃO (ART. 1.030, II, DO CÓDIGO DE PROCESSO CIVIL E ART. 109, INCISO II, DO RITJPR). APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. ISS SOBRE OPERAÇÃO DE ARRENDAMENTO MERCANTIL (LEASING FINANCEIRO). CONSTITUCIONALIDADE. ENTENDIMENTO FIXADO NO JULGAMENTO DO RECURSO EXTRAORDINÁRIO Nº 592.905/SC, COM REPERCUSSÃO GERAL. EXERCÍCIO DO JUÍZO DE RETRATAÇÃO PROSSEGUIMENTO DO JULGAMENTO DO RECURSO DE APELAÇÃO CÍVEL. OPERAÇÕES DE ARRENDAMENTO MERCANTIL REALIZADAS NA VIGÊNCIA DA LC Nº 116/2003. O SERVIÇO OCORRE NO LOCAL ONDE SE TOMA A DECISÃO ACERCA DA APROVAÇÃO DO FINANCIAMENTO, ONDE SE CONCENTRA O PODER DECISÓRIO, ONDE SE SITUA A DIREÇÃO GERAL DA INSTITUIÇÃO. ENTENDIMENTO DO RESP 1.060.210/SC SUBMETIDO AO PROCEDIMENTO DO ARTIGO 543-C DO CPC/1973. AUSÊNCIA DE COMPETÊNCIA DOENTE MUNICIPAL PARA LANÇAMENTO DO TRIBUTO. ILEGITIMIDADE ATIVA CONFIGURADA. NULIDADE DO LANÇAMENTO RECONHECIDA. INVERSÃO DO ÔNUS SUCUMBENCIAL. JUÍZO DE RETRATAÇÃO EXERCIDO. RECURSO DO CONHECIDO E NÃO PROVIDO.
+Os Embargos de Declaração foram conhecidos e parcialmente providos.
+A parte agravante, nas razões do Recurso Especial, além de divergência jurisprudencial, sustenta:
+No caso em tela, o acórdão recorrido violou os seguintes dispositivos legais, prequestionados nos embargos declaratórios, nos termos das Súmulas 282 e 356 do E. STF e da Súmula 98 deste E. STJ:
+  Artigo 20, §§ 3º e 4º, do Código de Processo Civil de 1973, que determinam que, nas causas em que vencida a Fazenda Pública, o juiz deve observar, ao arbitrar os honorários sucumbenciais: (I) o grau de zelo profissional; (II) o lugar da prestação do serviço; e, principalmente, (III) a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+  Artigo 1.022, II, e artigo 489 do Código de Processo Civil, que versa sobre a fundamentação das decisões, violados diante da omissão incorrida pelo aresto.
+Contrarrazões não apresentadas.
+O juízo de admissibilidade negativo deu ensejo à interposição do presente Agravo.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 14.3.2024.
+Inicialmente, afasta-se a alegação de ofensa ao art. 1.022 do CPC, porque não foi demonstrada omissão capaz de comprometer a fundamentação do acórdão recorrido ou de constituir-se em empecilho ao conhecimento do Recurso Especial.
+Outrossim, consoante a jurisprudência do STJ, a ausência de fundamentação não deve ser confundida com a adoção de razões contrárias aos interesses da parte, assim, não há violação do art. 489 do CPC quando o Tribunal de origem decide de modo claro e fundamentado, como ocorre na hipótese. A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. CREDITAMENTO PIS E COFINS. DESPESAS NÃO CARACTERIZADAS COMO INSUMOS. IMPOSSIBILIDADE. REVISÃO DE CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+5. Afasta-se a alegação de ofensa ao art. 1.022 do CPC/2015, porque não demonstrada omissão capaz de comprometer a fundamentação do acórdão recorrido ou de constituir empecilho ao conhecimento do Recurso Especial.
+6. Consoante a jurisprudência do STJ, a ausência de fundamentação não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Assim, não há violação do art. 489 do CPC/2015 quando o Tribunal de origem decide de modo claro e fundamentado, como ocorre na hipótese.
+(..)
+20. Agravo Interno não provido.
+(AgInt no AREsp 2.127.331/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/2/2024.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. REAJUSTE DE 3,17%. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. PROCEDÊNCIA PARCIAL DO PEDIDO. ALEGAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. APLICAÇÃO DA SÚMULA N. 7/STJ. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 211/STJ E 282, 356/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO. AUSÊNCIA.
+(..)
+IV - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+V - Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". (EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+(..)
+XI - Agravo interno improvido.
+(AgInt no AREsp 2.375.332/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJe de 20/12/2023.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. CUMPRIMENTO DE SENTENÇA. NOVA PROVA TÉCNICA. OFENSA À TESE REPETITIVA. AUSÊNCIA. VIOLAÇÃO DA COISA JULGADA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+(..) 6. Agravo interno desprovido.
+(AgInt no AREsp 1.790.832/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 22/3/2022.)
+No mérito, o STJ possui o entendimento sólido de que, à luz do CPC/1973, quando vencida a Fazenda Pública, a fixação dos honorários advocatícios não está adstrita aos limites percentuais de 10% (dez por cento) e 20% (vinte por cento), podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, conforme o art. 20, § 4º, do mesmo diploma legal, ou mesmo um importe fixo, segundo o critério de equidade. Nesse sentido:
+TRIBUTÁRIO E PROCESSUAL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO EM QUE A FAZENDA NACIONAL FOI CONDENADA EM HONORÁRIOS DE ADVOGADO, FIXADOS, PELO TRIBUNAL DE ORIGEM, CONSOANTE CRITÉRIO DE APRECIAÇÃO EQUITATIVA, EM R$ 3.000,00 (TRÊS MIL REAIS). INADMISSIBILIDADE DO RECURSO ESPECIAL INTERPOSTO, PELA PARTE AUTORA, CONTRA ACÓRDÃO PUBLICADO NA VIGÊNCIA DO CPC/73, EM FACE DA INCIDÊNCIA DAS SÚMULAS 7/STJ E 389/STF. AGRAVO INTERNO IMPROVIDO.
+I. Trata-se de Agravo interno interposto contra decisão monocrática, proferida quanto ao Recurso Especial, interposto contra acórdão publicado na vigência do CPC/73.
+II. A Corte Especial do STJ, ao julgar os EREsp 637.905/RS (Rel. Ministra ELIANA CALMON, DJU de 21/08/2006), proclamou que, nas hipóteses do § 4º do art. 20 do CPC/73 - dentre as quais estão compreendidas as causas em que for vencida a Fazenda Pública, como no caso -, a verba honorária deve ser fixada mediante apreciação equitativa do magistrado, sendo que, nessas hipóteses, a fixação de honorários de advogado não está adstrita aos percentuais constantes do § 3º do art. 20 do CPC/73. Ou seja, no juízo de equidade, o magistrado deve levar em consideração o caso concreto, em face das circunstâncias previstas nas alíneas a, b e c do § 3º do art. 20 do CPC/73, podendo adotar, como base de cálculo, o valor da causa, o valor da condenação ou arbitrar valor fixo.
+III. Em relação aos honorários de advogado fixados, nas instâncias ordinárias, sob a égide do CPC/73 - como no presente caso -, não pode o STJ reexaminar o quantum arbitrado, a esse título, à luz das regras supervenientes, referentes à fixação de honorários, previstas no CPC/2015. Nesse sentido: STJ, AgRg no REsp 1.568.055/RS, Rel. Ministra DIVA MALERBI (Desembargadora Convocada do TRF/3ª Região), SEGUNDA TURMA, DJe de 31/03/2016.
+IV. Em situações excepcionalíssimas, o STJ afasta a Súmula 7/STJ, para exercer juízo de valor sobre o quantum fixado a título de honorários advocatícios, com vistas a decidir se são eles irrisórios ou exorbitantes. Para isso, indispensável, todavia, que tenham sido delineadas concretamente, no acórdão recorrido, as circunstâncias a que se referem as alíneas do § 3º do art. 20 do CPC/73. Nesse sentido: STJ, AgRg no REsp 1.512.353/AL, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 17/09/2015.
+(..)
+VI. Agravo interno improvido
+(AgInt no REsp 1.580.894/RS, relatora Ministra Assusete Magalhães, DJe 1º.9.2016)
+Acrescente-se que esta Corte pacificou a orientação de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração previstos na lei processual e sua fixação é ato próprio dos juízos das instâncias ordinárias, às quais competem a cognição e a consideração das situações de natureza fática. Este Tribunal Superior somente atua na revisão da verba honorária quando esta tratar de valor irrisório ou exorbitante, o que não se configura neste caso.
+No enfrentamento da controvérsia, o TJPR consignou:
+Considerando que o embargante restou vencedor em seus pedidos, imperioso se faz readequar os ônus sucumbenciais, cabendo ao embargado arcar com o pagamento da totalidade das custas e despesas processuais, exceção da taxa judiciária, bem como com o pagamento dos honorários advocatícios do patrono do embargante, os quais fixo no montante de R$ 5.000,00 (três mil reais), tendo em vista o trabalho executado, o tempo de duração do processo e complexidade da causa.
+Assim, a revisão das razões de fato que conduziram o Colegiado originário a tais conclusões significaria usurpação da competência das instâncias ordinárias e implicaria, necessariamente, o reexame da matéria fático-probatória, o que é obstado na via eleita ante a Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial". Vejam-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. EMBARGOS À EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS. DEFINIÇÃO DA LEI APLICÁVEL. LEGISLAÇÃO VIGENTE QUANDO DA PROLAÇÃO DA SENTENÇA. PEDIDO DE MAJORAÇÃO DOS HONORÁRIOS. DESCABIMENTO. QUANTUM FIXADO CONSOANTE APRECIAÇÃO EQUITATIVA DO MAGISTRADO A QUO. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ.
+(..)
+6. Ademais, o STJ possui entendimento sólido de que, à luz do CPC/1973, quando vencida a Fazenda Pública, a fixação dos honorários advocatícios não está adstrita aos limites percentuais de 10% (dez por cento) e 20% (vinte por cento), podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, conforme o art. 20, § 4º, do mesmo diploma legal, ou mesmo um importe fixo, segundo o critério de equidade.
+7. O quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração previstos na lei processual, e sua fixação é ato próprio dos juízos das instâncias ordinárias, às quais competem a cognição e a consideração das situações de natureza fática.
+8. Em situações excepcionalíssimas, o STJ afasta a incidência do referido enunciado sumular, para permitir a revisão dos honorários advocatícios quando o montante arbitrado se revelar manifestamente ínfimo ou exorbitante.
+9. O Tribunal de origem consignou: "Além disso, o montante arbitrado em R$ 5.000,00 (cinco mil reais) é razoável e proporcional à natureza da causa (exclusão por ilegitimidade passiva) e ao tempo de tramitação do feito (ajuizamento em 2015)." (fl.919, e-STJ).
+10. Considerando as circunstâncias do acórdão recorrido, não se verifica excepcionalidade a justificar a alteração do quantum fixado. Incidência da Súmula 7 do STJ.
+11. Agravo Interno não provido.
+(AgInt no REsp 1.731.260/PE, relator Ministro Herman Benjamin, Segunda Turma, DJe de 19/12/2023.)
+ADMINISTRATIVO. DESAPROPRIAÇÃO. DISCUSSÃO QUANTO À POSSIBILIDADE DE INDENIZAÇÃO DA COBERTURA VEGETAL LOCALIZADA EM ÁREA DE PRESERVAÇÃO PERMANENTE E RESERVA LEGAL. HISTÓRICO DA DEMANDA
+(..)
+13. Por fim, vencida a Fazenda Pública, sob a égide do CPC/1973, a fixação dos honorários advocatícios não estava adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC, ou mesmo um montante fixo, segundo o critério de equidade. Dessa forma, aplicar posicionamento distinto do proferido pelo aresto confrontado implicaria, necessariamente, o reexame da matéria fático-probatória, o que é obstado ao STJ, conforme determinado na sua Súmula 7: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+CONCLUSÃO
+14. Agravo da Fazenda de São Paulo conhecido para dar provimento ao Recurso Especial. Agravo de Clube de Campo, Caça e Pesca do Guará de Peruíbe conhecido para não conhecer do Recurso Especial. Agravo de Romano Guerra e outros conhecido para conhecer em parte do Recurso Especial, e nessa extensão, negar-lhe provimento. (AREsp 1.556.092/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 28/6/2023.)
+TRIBUTÁRIO. PROCESSO CIVIL. EXECUÇÃO FISCAL. PREQUESTIONAMENTO IMPLÍCITO. INOCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS. MARCO TEMPORAL. SENTENÇA. REVISÃO DO QUANTUM FIXADO. REVOLVIMENTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Não tendo o Tribunal de origem dirimido a contenda sob o enfoque pretendido pela parte ora agravante, inviável o conhecimento da insurgência recursal excepcional pleiteada, não havendo falar em prequestionamento implícito. Precedentes.
+2. A jurisprudência desta Corte é firme no sentido de que "o marco temporal para a aplicação das normas do Código de Processo Civil de 2015, a respeito da fixação e da distribuição dos honorários de sucumbência, é a data da prolação da sentença/acórdão que os impõe" (EDcl no AgInt nos EDcl no RE nos EDcl no AgInt no REsp n. 1.640.045/RJ, relator Ministro Jorge Mussi, Corte Especial, julgado em 9/8/2022, DJe de 12/8/2022).
+3. No caso, a sentença foi proferida em 26/4/2013, sob a vigência do CPC/73. Dessa forma, escorreito o decisum alvejado ao pontuar que não há falar em incidência das regras estabelecidas no art. 85 do CPC/2015.
+4. A alteração da verba honorária em razão da alegada irrisoriedade, conforme pretendido pela recorrente, demanda incursão no contexto fático-probatório dos autos, vedada em sede de recurso especial no termos do disposto na Súmula 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 2.188.663/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 16/8/2023.)
+Ressalte-se, por fim, que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada na apreciação do Recurso pela alínea "a" do permissivo constitucional. Nessa senda:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. COFINS. BASE DE CÁLCULO. TEMA CONSTITUCIONAL. NÃO CONHECIMENTO DO APELO NOBRE. DISSÍDIO JURISPRUDENCIAL. ANÁLISE. PREJUÍZO.
+(..)
+3. Prejudicada a análise do suscitado dissídio jurisprudencial quando a tese veiculada nas razões do especial é afastada pela análise da irresignação fundada na alínea a do permissivo constitucional. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.251.683/RJ, relator Ministro Og Fernandes, Segunda Turma, DJe 19/4/2021)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. FUNDAMENTO INFRACONSTITUCIONAL. PROVIMENTO DO CSM. ATO NORMATIVO NÃO ENQUADRADO COMO LEI FEDERAL. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+(..)
+2. Resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.673.561/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe 25/3/2021)
+Por tudo isso, conheço do Agravo para conhecer parcialmente do Recurso Especial e, nessa parte, negar-lhe provimento.
+Determino, contra a parte recorrente, a majoração dos honorários no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
