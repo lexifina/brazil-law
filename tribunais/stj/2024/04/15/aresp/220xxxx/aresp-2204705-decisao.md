@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de agravo interposto por Carlos ALBERTO HIDEKI MARUYAMA SHIOYA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 1835-1836):
+APELAÇÃO. Alienação fiduciária. Ação anulatória de execução extrajudicial. Alegação de nulidade da intimação premonitória e da consolidação da propriedade em nome da fiduciária. Sentença de improcedência.
+Fato superveniente comunicado pelo apelante ocorrido após a r. decisão recorrida e que será considerado no julgamento do recurso. Manifestação da parte adversa na forma preconizada pelos artigos 10 e 933, ambos do CPC. Precedentes.
+Mandado de segurança impetrado pelo apelante contra ato do titular do ofício de registro de imóveis local. Ordem concedida.
+Anulação da averbação e dos registros subsequentes lançados na matrícula do imóvel após a constituição da garantia fiduciária.
+Sentença mantida por V. Acórdão deste Eg. TJSP transitado em julgado.
+Retorno do registro imobiliário ao "status quo ante" que esvazia o objeto da presente demanda. Irrelevante, agora, a discussão sobrea higidez da intimação premonitória se o credor fiduciário, de forma superveniente, tem desconstituída a propriedade do imóvel dado em garantia da dívida para que, desta forma, pudesse aliená-lo em leilão extrajudicial. Inteligência dos artigos 26, § 7º, e 27,ambos da lei nº 9.514/97. Falta de interesse processual decorrente da perda superveniente do objeto. Processo extinto, sem julgamento do mérito, nos termos do artigo 485, inciso VI, e § 3º,do CPC.
+Desfecho da lide que, à evidência, não obsta a eventual instauração de novo procedimento extrajudicial pela credora contra o apelante.
+Apelante que deu causa ao processo e, por isso, respondera pelos ônus sucumbenciais. Artigo 85, § 10, do CPC. Recurso prejudicado.
+Embargos de declaração rejeitados (fls. 1851-1856).
+No recurso especial, alega a recorrente, preliminarmente, ofensa aos arts. 489 e 1.022, inciso II, do Código de Processo Civil, ao sustentar ausência de fundamentação do acórdão recorrido, e, ainda, que, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia
+Sustenta, ainda, afronta ao art. 502, 966, § 1º e 494, inciso II, também, do CPC, ao defender a existência de erro de fato no decisum, omisso e sem respeitar "a coisa julgada externa" no sentido de que fora a ora recorrida quem deu causa a propositura da ação originária, porque foi ela quem praticou os atos via protocolos irregulares que levaram ao resultado final do leilão extrajudicial, de modo que ela deverá suportar integralmente os ônus sucumbenciais.
+Foram oferecidas contrarrazões ao recurso especial (fls. 1871-1876).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1877-1879), o que ensejou a interposição do presente agravo.
+Foi apresentada contraminuta ao agravo (fls. 1926-1929).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Na origem, de ofício, foi julgado extinto o processo, de ofício, sem resolução do mérito (perda superveniente do objeto), e julgou prejudicado o recurso de apelação. Na ocasião, fora reconhecido que o apelante, ora recorrente, deu causa ao processo e, por isso, responderia pelos ônus sucumbenciais na forma do artigo 85, § 10, do Código de Processo Civil.
+Não merece prosperar o recurso.
+De início, inexiste a alegada ofensa aos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. Assim, manifestou-se a Corte a quo de maneira clara e fundamentada sobre as questões postas a julgamento, não obstante tenha entendido o julgador de segundo grau em sentido contrário ao posicionamento defendido pela ora recorrente.
+Outrossim, verifica-se que, no caso dos autos, o Tribunal de origem, em confirmação da sentença, entendeu que cabe ao ora recorrente responder pelos ônus sucumbenciais, considerando que a extinção da demanda por perda superveniente de objeto impõe a fixação dos honorários sucumbenciais em desfavor da parte que deu ensejo à propositura da referida demanda. Confira-se o seguinte excerto do voto condutor (fls. 1840-1841):
+Por essas razões, em que evidenciada a falta de interesse processual decorrente da perda superveniente do objeto e em se tratando de matéria de ordem pública, cognoscível de ofício, de rigor a extinção do processo, sem resolução do mérito, nos termos do artigo 485, inciso VI, e § 3º, do Estatuto Processual.
+Ademais, em casos como o presente, de rigor a imposição da condenação em honorários advocatícios àquele que deu causa ao ajuizamento da demanda.
+(..)
+Com efeito, por ter dado causa ao processo, já que prejudicada a análise do mérito da demanda advinda da perda superveniente do objeto e a extinção do feito, o autor-apelante respondera pelos ônus sucumbenciais (artigo85, § 10, do Estatuto Processual), mantida a condenação que lhe fora imposta em Primeiro Grau e, dada a especificidade da hipótese em tela, sem a incidência da regra elencada pelo § 11 deste dispositivo legal.
+A propósito, veja-se o posicionamento do C. Superior Tribunal de Justiça:
+(..)
+Confira-se o seguinte excerto do acórdão dos embargos de declaração (fls. 1854-1855):
+In casu, não se vislumbra no Acórdão embargado qualquer contradição, omissão, erro material ou obscuridade a ser declarada, pois o decisum foi extensivo e claro ao analisar a matéria envolvida no recurso, cujos fundamentos adotados como razão de decidir, inclusive com lastro em precedentes jurisprudenciais do C. Superior Tribunal de Justiça e desta C. Corte, estão expressamente consignados, em especial, que foi o autor-apelante-embargante quem deu causa ao processo, "já que prejudicada a análise do mérito da demanda advinda da perda superveniente do objeto e a extinção do feito, o autor-apelante respondera pelos ônus sucumbenciais (artigo 85, § 10, do Estatuto Processual),mantida a condenação que lhe fora imposta em Primeiro Grau e, dada a especificidade da hipótese em tela, sem a incidência da regra elencada pelo § 11 deste dispositivo legal" (fls. 1.841).
+Nesse diapasão, se reconhece o inequívoco caráter infringente do recurso em tela, de manifesto inconformismo com o então pronunciado, tudo absolutamente incompatível com a natureza e finalidade dos embargos declaratórios.
+Assim, constata-se que a Corte a quo decidiu de acordo com a jurisprudência consolidada desta Corte de Justiça, a atrair a incidência da Súmula n. 83 do STJ, in verbis "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida", à qual se aplicam as hipóteses das alíneas "a" e "c" do art. 105, inciso III, da Constituição Federal. Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. FUNDAMENTAÇÃO DEFICIENTE. AUSÊNCIA. INAUGURAÇÃO DE TESES EM EMBARGOS DECLARATÓRIOS. IMPOSSIBILIDADE. PERDA SUPERVENIENTE DE OBJETO. EXTINÇÃO DA DEMANDA. PRINCÍPIO DA CAUSALIDADE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes os vícios de fundamentação elencados no art. 489, §1º, do NCPC, forçoso reconhecer que a pretensão recursal ostentava caráter nitidamente infringente, visando rediscutir matéria que já havia sido analisada pelo acórdão vergastado.
+3. A inauguração de teses em embargos declaratórios, não suscitadas em apelação ou nas respectivas contrarrazões, não tem o condão de obrigar o Tribunal local a se manifestar a respeito do tema.
+4. A extinção da demanda por perda superveniente de objeto impõe a fixação dos honorários sucumbenciais em desfavor da parte que deu ensejo à propositura da demanda. Precedentes.
+5. No caso dos autos, no momento em que ajuizada a demanda executiva, a dívida existia, tendo sido adimplida apenas em momento posterior, pagamento que motivou a extinção do feito pelo Juízo de primeira instância, de modo que compete aos executados o ônus de arcar com os honorários sucumbenciais.
+6. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+7. Agravo interno não provido.
+(AgInt no REsp n. 1.951.836/PE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 29/11/2021, DJe de 1/12/2021.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados pelo Tribunal de origem para 12% sobre o valor atualizado da causa, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
