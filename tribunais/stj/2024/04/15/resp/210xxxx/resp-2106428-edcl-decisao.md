@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Embargos de Declaração opostos à decisão monocrática (fls. 693-695, e-STJ) que deu provimento ao Recurso do ora embargante em observância à orientação do Superior Tribunal de Justiça, segundo a qual o termo final da verba honorária deve ser fixado na data do julgamento favorável à concessão do benefício pleiteado, com a exclusão das parcelas vincendas, conforme determina a Súmula 111 desta Corte.
+O embargante alega:
+(..)
+Ocorre que a decisão restou omissa quanto ao outro pedido deduzido pelo Embargante no recurso especial e que se refere à opção pelo benefício mais vantajoso e fruição dos atrasados, conforme tema 1018/STJ, veja conforme fls. 472/484:
+(..)
+A parte requer o acolhimento dos aclaratórios.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 15.3.2024.
+Assiste razão ao embargante.
+De fato, o decisum é omisso em relação à análise da suposta ofensa ao art. 56, § 3º e § 4º, do Decreto 3.048/1999.
+A esse respeito, a parte alega que, "facultada a opção pelo benefício mais vantajoso, não há o que se falar em condicionamento dos atrasados a opção pelo benefício reconhecido em Juízo" (fl. 475, e-STJ).
+Sobre a questão, o Tribunal de origem consignou:
+Verifica-se, ainda, conforme extrato do CNIS, ora anexado, que houve concessão administrativa do beneficio de aposentadoria por tempo de contribuição, desde 01/10/2010. Sendo assim, faculto ao demandante a opção pela percepção do beneficio que se lhe afigurar mais vantajoso, vedado o recebimento em conjunto de duas aposentadorias, nos termos do art. 124, II, da Lei nº 8.213/91, e, com isso, condiciono a execução dos valores atrasados à opção pelo beneficio concedido em Juízo, uma vez que se permitir a execução dos atrasados concomitantemente com a manutenção do beneficio concedido administrativamente representaria uma "desaposentação" às avessas, cuja possibilidade - renúncia de beneficio - é vedada por lei - art. 18, §2º da Lei nº8.213/91-, além do que já se encontra afastada pelo C. Supremo Tribunal Federal na análise do RE autuado sob o nº 661.256/SC.
+O acórdão recorrido diverge da jurisprudência pacificada no STJ no sentido de que, "reconhecido o direito de opção pelo benefício mais vantajoso concedido administrativamente, no curso de ação judicial em que se reconheceu benefício menos vantajoso, é possível a execução das parcelas do benefício postulado na via judicial até a data da implantação administrativa, situação que não se confunde com a chamada "desaposentação" nem tampouco com a reaposentação (AgInt no REsp 1746413/RS, Rel. Ministra Regina Helena, Primeira Turma, DJe 4.4.2019). Na mesma linha:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 535 DO CPC. NÃO OCORRÊNCIA. EXECUÇÃO DE VALORES DECORRENTES DE BENEFÍCIO RECONHECIDO EM JUÍZO, NA EXISTÊNCIA DE DEFERIMENTO ADMINISTRATIVO DE BENEFÍCIO MAIS VANTAJOSO RECONHECIDO PELO INSS. POSSIBILIDADE. PRECEDENTES.
+1. Trata-se, na origem, de Agravo de Instrumento interposto pelo INSS contra decisão proferida pelo juízo da 4ª Vara Federal de Joinville/SC, que rejeitou a impugnação da Autarquia Previdenciária à pretensão do exequente de continuar recebendo mensalmente o benefício concedido na via administrativa, com renda mensal mais vantajosa, bem como de executar as parcelas atrasadas relativas ao benefício concedido judicialmente.
+2. O recorrente sustenta que o art. 535 do CPC foi violado, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assevera apenas ter oposto Embargos de Declaração no Tribunal a quo, sem indicar as matérias sobre as quais deveria pronunciar-se a instância ordinária, nem demonstrar a relevância delas para o julgamento do feito. Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF.
+3. Acerca do prosseguimento do processo de execução, para executar valores oriundos do benefício previdenciário reconhecido em juízo, posteriormente renunciado em razão do deferimento concomitante de benefício previdenciário mais vantajoso por parte da Administração, a jurisprudência do STJ vem balizando as seguintes premissas, a saber: 1ª) ao segurado é dado optar pelo benefício previdenciário mais vantajoso; 2ª) o direito previdenciário é direito patrimonial disponível; 3ª) o segurado pode renunciar ao benefício previdenciário, para obter um mais vantajoso; 4ª) não há necessidade de o segurado devolver valores do benefício renunciado; 5ª) reconhecido o direito de opção pelo benefício mais vantajoso concedido administrativamente, no curso da ação judicial em que se reconheceu benefício menos vantajoso, sendo desnecessária a devolução de valores decorrentes do benefício renunciado, afigura-se legítimo o direito de execução dos valores compreendidos entre o termo inicial fixado em juízo para concessão do benefício e a data de entrada do requerimento administrativo.
+4. O presente caso está a tratar, especificamente, da quinta premissa, que se mostra bem assentada pela jurisprudência do STJ. A propósito: AgRg no REsp 1.451.289/SC, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 18.6.2014, DJe 18.8.2014 AgRg no REsp 1.481.248/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 11.11.2014, DJe 18.11.2014.
+5. Diante desse quadro, reconhecida a possibilidade de opção e a desnecessidade de devolução dos valores recebidos, revela-se legítimo, no caso, o direito de prosseguir na execução das parcelas reconhecidas em juízo até a data do deferimento administrativo do benefício mais vantajoso.
+6. Recurso Especial não provido.
+(REsp 1524305/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 5/8/2015.)
+Dessa forma, o Recurso Especial deve ser provido também quanto a esse ponto.
+Diante do exposto, acolho os Embargos de Declaração para sanar a omissão apontada e reconhecer o provimento integral do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
