@@ -1,0 +1,20 @@
+DECISÃO
+Em análise, embargos de declaração opostos por FAZENDA NACIONAL, contra decisão que homologou pedido de desistência e determinou a imediata certificação do trânsito em julgado e a baixa dos autos à origem (e-STJ fls. 291).
+A parte embargante sustenta que "a decisão se faz omissa quanto à causa de pedir da petição de desistência apresentada pela Fazenda Nacional (fls. 285/287 e-STJ), máxime a desistência anterior pela Embargada quanto ao objeto de impugnação da União, nos exatos termos da Petição nº 00914974/2023 (fls. 275/276 e-STJ)".
+É o relatório.
+Passo a decidir.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Com razão a parte embargante, pois a decisão embargada não se manifestou acerca dos termos do ajuste realizado entre as partes, o que caracteriza omissão a ser suprida.
+Com efeito, a embargada, ROBERTA SOUZA DA COSTA PINTO, peticionou às fls. 275/276 e-STJ, nos seguintes termos:
+"(..) com o intuito de dar celeridade processual, informar desistência do direito as verbas computadas com quinquênio prescricional a partir do requerimento administrativo, conforme decidido na segunda instância, para que sejam computadas com quinquênio prescricional a partir da propositura da ação, conforme pretende a Fazenda Nacional.
+Considerando que apenas esse início do quinquênio prescricional foi objeto de recurso especial pela Fazenda Nacional, pede certificação do trânsito em julgado e envio dos autos ao juízo de origem para início da fase de execução.
+Vale dizer que a autora foi vencedora no pedido principal de restituição de contribuições previdenciárias e que essa diferença de início do quinquênio prescricional corresponde a apenas dez meses."
+Intimada, a UNIÃO, manifestou seu desinteresse no julgamento do seu Recurso Especial, "sob a condição de que seja homologada a desistência da Recorrida do direito às verbas computadas com quinquênio prescricional a partir do requerimento administrativo, a fim de que prevaleça o dispositivo da sentença de fls. 138/145 e-STJ, para aplicar a prescrição quinquenal contada do ajuizamento da ação", nos seguintes termos:
+As razões do recurso especial interposto pela Fazenda Nacional (fls. 248/254 e-STJ) impugnam o marco inicial para contagem do prazo prescricional das parcelas de contribuição previdenciária indevidamente recolhidas acima do teto do RGPS como a data de protocolo do requerimento junto à RFB, com fundamento em violação ao art. 168 do CTN e jurisprudência pacífica desta Corte Superior (fl. 253 e-STJ):
+Diante do exposto, a UNIÃO (FAZENDA NACIONAL) requer o conhecimento e o provimento do presente recurso especial, diante da contrariedade ao art. 168 do CTN, para aplicar a prescrição quinquenal contada do ajuizamento da ação.
+Entretanto, a ora Requerente, por meio da Petição de fls. 275/276, manifesta concordância com a pretensão recursal da Fazenda Nacional:
+Roberta Souza da Costa Pinto vem, por meio de seu procurador, com o intuito de dar celeridade processual, informar desistência do direito às verbas computadas com quinquênio prescricional a partir do requerimento administrativo, conforme decidido na segunda instância, para que sejam computadas com quinquenio prescricional a partir da propositura da ação, conforme pretende a Fazenda Nacional.
+Desse modo, devem ser acolhidos os presentes embargos para esclarecer que o desinteresse da União no julgamento do Recurso Especial por ela interposto, pela perda do objeto, se deu em razão de ter a embargada desistido do direito às verbas computadas com quinquênio prescricional a partir do requerimento administrativ o, para que sejam com putadas com quinquênio prescricional a partir da propositura da ação.
+Ante o exposto, acolho os embargos de declaração para esclarecimento, nos termos da fundamentação supra.
+Intime-se. Publique-se.
+EMENTA
