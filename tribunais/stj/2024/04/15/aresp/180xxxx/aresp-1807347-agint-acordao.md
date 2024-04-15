@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/04/2024 a 15/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APELAÇÃO. TRANSPORTE TERRESTRE. ÔNIBUS LEITO. INDENIZAÇÃO. ACIONAMENTO INDEVIDO DE AIR BAG DO CARRO. SURDEZ. NEXO CAUSAL. NECESSIDADE DE ANÁLISE DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. DANO MORAL. QUANTUM INDENIZATÓRIO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N.º 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1. No caso concreto, o Tribunal estadual entendeu existir nexo causal entre o dano e o acionamento indevido do air bag do veículo. Alterar esse entendimento exige reapreciação do acervo fático-probatório, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+2. Os valores fixados a título de danos morais, porque arbitrados com fundamento no arcabouço fático-probatório carreado aos autos, só podem ser alterados em hipóteses excepcionais, quando constatada nítida ofensa aos princípios da razoabilidade e da proporcionalidade, mostrando-se irrisória ou exorbitante.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por CAOA MONTADORA DE VEÍCULOS LTDA. (CAOA) contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ACIONAMENTO INDEVIDO DE AIR BAG. PERDA DA AUDIÇÃO. EXISTÊNCIA DE NEXO CAUSAL. SÚMULA Nº 7 DO STJ. PROPORCIONALIDADE DO DANO MORAL. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO. (e-STJ, fl. 607).
+Nas razões do presente inconformismo, defendeu que a aplicação do enunciado da Súmula n.º 7 do STJ ao recurso especial interposto não se sustenta, uma vez que, para análise quanto à ausência de provas dos fatos constitutivos do direito de ROBERTO e de nexo de causalidade entre o suposto vício no veículo com os problemas auditivos deste, basta a leitura do acórdão e do recurso especial. Conforme exposto, não haveria provas que assegurem a narrativa de ROBERTO quanto à existência de vício de fabricação no automóvel, decerto que a preclusão da prova pericial é fator hábil a ensejar a responsabilização da CAOA, uma vez que não tem o condão de se sobrepor irrefutavelmente sobre as demais provas, ou ser elevada a patamar de soberania. Defende que há prova no sentido de que a perda auditiva seria ligada à idade de ROBERTO. Assim, inexistindo o ilícito, não há o dever de indenizar. Entende, ainda, que excessivo o valor fixado para a indenização.
+Foi apresentada contraminuta (e-STJ, fl. 630).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APELAÇÃO. TRANSPORTE TERRESTRE. ÔNIBUS LEITO. INDENIZAÇÃO. ACIONAMENTO INDEVIDO DE AIR BAG DO CARRO. SURDEZ. NEXO CAUSAL. NECESSIDADE DE ANÁLISE DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. DANO MORAL. QUANTUM INDENIZATÓRIO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N.º 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1. No caso concreto, o Tribunal estadual entendeu existir nexo causal entre o dano e o acionamento indevido do air bag do veículo. Alterar esse entendimento exige reapreciação do acervo fático-probatório, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+2. Os valores fixados a título de danos morais, porque arbitrados com fundamento no arcabouço fático-probatório carreado aos autos, só podem ser alterados em hipóteses excepcionais, quando constatada nítida ofensa aos princípios da razoabilidade e da proporcionalidade, mostrando-se irrisória ou exorbitante.
+3. Agravo interno desprovido.
+VOTO
+O recurso não merece prosperar.
+Do dano moral
+Conforme foi destacado no julgado agravado, verificou-se, de plano, que o TJSP, soberano na análise fático-probatória, concluiu que:
+Com efeito, o apelado, logo após o evento danoso, intenso estouro de "airbags", que o levou a perder momentaneamente os sentidos, chamando a atenção de vizinhos e do vigia da rua, mesmo estando com os vidros do veículo fechados, procurou atendimento médico, relatando a perda súbita de audição, com zumbidos e ouvido tampado. Em consequência, realizou exames, por meio dos quais se constatou a perda auditiva bilateral de grau moderado a severo, sem sucesso no tratamento efetivado a fim de reversão do quadro, restando perda auditiva irreversível, sendo prescritos aparelhos auditivos para ampliação de sons (fls. 88/97 e 274/279). Inexiste comprovação, sequer indícios, de que o apelado sofria de qualquer problema auditivo anteriormente à explosão dos "airbags", não se desincumbindo a apelante do disposto no art. 6º, VIII do CDC, tampouco do contido no art. 373, II do CPC, o que motivou a procedência da ação, devendo reparar os prejuízos suportados pelo consumidor. (e-STJ, fl. 439).
+Como se observa, o Tribunal estadual concluiu que, após o evento danoso do intenso estouro dos air bags, o autor perdeu momentaneamente os sentidos e subitamente a audição.
+Nesses termos, rever as conclusões quanto à existência de nexo causal entre o evento danoso e a perda auditiva do autor demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n.º 7 do STJ.
+No que se refere ao montante arbitrado pelos danos morais, a lei não fixa valores ou critérios para a sua quantificação que, entretanto, deve ter assento na regra do art. 944 do CC. Por isso, esta Corte tem se pronunciado reiteradamente que o valor de reparação do dano moral deve ser arbitrado em montante que desestimule o ofensor a repetir a falta, sem constituir, de outro lado, enriquecimento indevido para a vítima.
+Dessa forma, a jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que os valores fixados a título de danos morais, porque arbitrados com fundamento no arcabouço fático-probatório carreado aos autos, só podem ser alterados em hipóteses excepcionais, quando constatada nítida ofensa aos princípios da razoabilidade e da proporcionalidade, mostrando-se irrisória ou exorbitante.
+No caso dos autos, o valor fixado para a indenização por danos morais, qual seja, R$ 20.000,00 (vinte mil reais), não se mostra exagerado a justificar a excepcional intervenção desta Corte no presente feito.
+A propósito, vejam-se os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZATÓRIA. AQUISIÇÃO DE SALAS COMERCIAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. RESCISÃO. LUCROS CESSANTES. NÃO CABIMENTO. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA N. 283/STF. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7/STJ. DANO MORAL. QUANTUM INDENIZATÓRIO. FIXAÇÃO EM OBSERVÂNCIA AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. SÚMULA N. 7/STJ. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. EQUIDADE. IMPOSSIBILIDADE NA HIPÓTESE. PARÂMETROS DO ART. 85, § 2º, DO CPC/2015. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA 83/STJ. FALTA DE PREQUESTIONAMENTO DO DISPOSITIVO INVOCADO. INCIDÊNCIA DAS SÚMULAS N. 282 E 356/STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+3. Concernente ao valor da indenização, "a intervenção desta egrégia Corte para alterar os valores fixados pelas instâncias ordinárias a título de reparação por danos morais somente se justifica nas hipóteses em que estes se mostrem ínfimos ou exorbitantes" (AgRg na Rcl n. 4.847/SE, Rel. Min. Raul Araújo, Segunda Seção, DJe 17/2/2011).
+3.1. No caso dos autos, a quantia fixada não se afigura exorbitante, tendo sido observados os postulados da proporcionalidade e da razoabilidade de acordo com as particularidades do caso vertente, o que torna inviável o recurso especial, nos termos da Súmula n. 7/STJ.
+ ..
+6. Agravo interno improvido.
+(AgInt no AREsp n. 2.130.583/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022)
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DANO MORAL. "QUANTUM" INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou incursão no contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2. No caso concreto, o Tribunal analisou a prova dos autos para concluir que havia cobertura contratual e danos morais. Alterar tal conclusão demandaria o reexame de matéria fática, o que é vedado em recurso especial.
+3. "A indenização por danos morais fixada em quantum sintonizado aos princípios da razoabilidade e da proporcionalidade não enseja a possibilidade de interposição do recurso especial, dada a necessidade de exame de elementos de ordem fática, cabendo sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado, o que não se evidencia no presente caso.
+Incidência da Súmula 7 do STJ" (AgInt no AREsp 1.722.400/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/12/2020, DJe 17/12/2020).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.022.722/MS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/11/2022, DJe de 5/12/2022)
+Afasta-se, portanto, a alegada violação.
+Assim, está claro que o recurso especial não deve sequer ultrapassar a barreira do conhecimento.
+Nesse contexto, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
