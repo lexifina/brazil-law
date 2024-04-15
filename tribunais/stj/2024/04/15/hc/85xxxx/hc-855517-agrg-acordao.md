@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/04/2024 a 15/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E FALSIFICAÇÃO, CORRUPÇÃO, ADULTERAÇÃO OU ALTERAÇÃO DE PRODUTO DESTINADO A FINS TERAPÊUTICOS OU MEDICINAIS. NULIDADE. BUSCAS PESSOAL E DOMICILIAR. TRANCAMENTO. IMPOSSIBILIDADE. SUPERVENIÊNCIA DE SENTENÇA PENAL CONDENATÓRIA. CONTROVÉRSIA DA ALEGAÇÃO. NECESSIDADE DE PRONUNCIAMENTO CONCLUSIVO DAS INSTÂNCIAS ORDINÁRIAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do Enunciado n. 648, da Súmula do STJ, "A superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus".
+2. Impende consignar que o trancamento da ação penal somente é possível em situações excepcionais, em que há inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito.
+3. Nesse particular, deve-se reservar tal providência apenas aos casos de inequívoca e irrefutável demonstração, sob pena de usurpação da competência própria das instâncias ordinárias, soberanas que são na análise da prova processual, cujo teor, inclusive, não se revisa pelo Superior Tribunal de Justiça ou pelo Supremo Tribunal Federal.
+4. Conclui-se, pois, pela impossibilidade de exame, no caso e por ora, da alegada nulidade pela busca pessoal, com vistas ao trancamento da ação penal, pois controversa a alegação ora formulada, haja vista que houve vislumbre externo da prática de crime, sendo estritamente necessário que as instâncias ordinárias, à luz do contraditório, delineiem o quadro fático sobre o qual se aponta a nulidade, tanto em sentença quanto em acórdão de apelação, a fim de que esta Corte, no momento oportuno, sobre ele se manifeste.
+5. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por DAYLON DA ROCHA contra decisão monocrática, por mim proferida, a qual julgou prejudicado o habeas corpus impetrado em seu favor.
+Na espécie, pretendia o agravante o reconhecimento de nulidade pelas buscas pessoal e domiciliar, trancando-se a ação penal.
+Insiste o agravante na mesma tese, defendendo que "o pedido de trancamento do processo, contido na petição inicial, é mera decorrência da fase processual em que o processo se encontrava à época em que foi impetrado o writ".
+Assenta que "Agora, prolatada a sentença, o efeito da concessão da ordem seria a absolvição ou declaração de nulidade da condenação, não o trancamento do processo criminal, evidenciando que o pedido principal contido no habeas corpus é a declaração de nulidade das provas colhidas durante a busca pessoal e aquelas que dela derivaram, não havendo que se falar em perda de objeto" (e-STJ, fls. 72-75).
+Pugna, ao final, pela reconsideração da decisão agravada ou pela remessa do recurso ao Colegiado para julgamento.
+Por não reconsiderar a decisão agravada, submeto o agravo regimental à apreciação da Quinta Turma desta Corte.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E FALSIFICAÇÃO, CORRUPÇÃO, ADULTERAÇÃO OU ALTERAÇÃO DE PRODUTO DESTINADO A FINS TERAPÊUTICOS OU MEDICINAIS. NULIDADE. BUSCAS PESSOAL E DOMICILIAR. TRANCAMENTO. IMPOSSIBILIDADE. SUPERVENIÊNCIA DE SENTENÇA PENAL CONDENATÓRIA. CONTROVÉRSIA DA ALEGAÇÃO. NECESSIDADE DE PRONUNCIAMENTO CONCLUSIVO DAS INSTÂNCIAS ORDINÁRIAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do Enunciado n. 648, da Súmula do STJ, "A superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus".
+2. Impende consignar que o trancamento da ação penal somente é possível em situações excepcionais, em que há inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito.
+3. Nesse particular, deve-se reservar tal providência apenas aos casos de inequívoca e irrefutável demonstração, sob pena de usurpação da competência própria das instâncias ordinárias, soberanas que são na análise da prova processual, cujo teor, inclusive, não se revisa pelo Superior Tribunal de Justiça ou pelo Supremo Tribunal Federal.
+4. Conclui-se, pois, pela impossibilidade de exame, no caso e por ora, da alegada nulidade pela busca pessoal, com vistas ao trancamento da ação penal, pois controversa a alegação ora formulada, haja vista que houve vislumbre externo da prática de crime, sendo estritamente necessário que as instâncias ordinárias, à luz do contraditório, delineiem o quadro fático sobre o qual se aponta a nulidade, tanto em sentença quanto em acórdão de apelação, a fim de que esta Corte, no momento oportuno, sobre ele se manifeste.
+5. Agravo regimental desprovido.
+VOTO
+Pretende o agravante seja reformada a decisão agravada, a fim de que seja examinada e acolhida a alegação de nulidades pela busca pessoal e domiciliar contra ele perpetradas.
+Contudo, a ele não assiste razão.
+Nos termos do Enunciado n. 648, da Súmula do STJ, "A superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus". Cito precedente:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. NULIDADE. BUSCA PESSOAL. SENTENÇA. SUPERVENIÊNCIA. SÚMULA N. 648/STJ. HABEAS CORPUS PREJUDICADO.
+1. De acordo com a jurisprudência consolidada desta Corte, "a superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus" (Súmula n. 648, Terceira Seção, julgado em 14/4/2021, DJe de 19/4/2021). Precedentes.
+2. Agravo regimental desprovido. (AgRg no HC n. 776.657/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 8/5/2023, DJe de 11/5/2023.)
+Ademais, impende consignar que o trancamento da ação penal somente é possível em situações excepcionais, em que há inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito.
+Portanto, o trancamento da ação penal com base no reconhecimento da nulidade pela busca pessoal e domiciliar por esta Corte subtrairia da ação penal, em última análise, a materialidade do crime, por reconhecer que as provas foram colhidas em desrespeito à Constituição.
+Nesse particular, deve-se reservar tal providência apenas aos casos de inequívoca e irrefutável demonstração, sob pena de usurpação da competência própria das instâncias ordinárias, soberanas que são na análise da prova processual, cujo teor, inclusive, não se revisa pelo Superior Tribunal de Justiça ou pelo Supremo Tribunal Federal.
+Concluo, pois, pela impossibilidade de exame, no caso e por ora, da alegada nulidade pela busca pessoal, com vistas ao trancamento da ação penal, pois controversa a alegação ora formulada, haja vista que houve vislumbre externo da prática de crime, sendo estritamente necessário que as instâncias ordinárias, à luz do contraditório, delineiem o quadro fático sobre o qual se aponta a nulidade, tanto em sentença quanto em acórdão de apelação, a fim de que esta Corte, no momento oportuno, sobre ele se manifeste.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
