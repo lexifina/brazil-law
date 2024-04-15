@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF/1988) interposto de acórdão cuja ementa é a seguinte:
+TRIBUTÁRIO. PIS/COFINS. NÃO-CUMULATIVIDADE. CREDITAMENTO. CONCEITO DE INSUMOS. ESSENCIALIDADE E RELEVÂNCIA. TEMA 779 DO STJ.
+1. A sistemática de tributação não-cumulativa do PIS e da COFINS, prevista nas Leis nº 10.637/2002 e 10.833/2003, confere ao sujeito passivo do tributo o aproveitamento de determinados créditos previstos na legislação, excluídos os contribuintes sujeitos à tributação pelo lucro presumido.
+2. A aplicação do princípio da não-cumulatividade do PIS e da COFINS em relação aos insumos utilizados na fabricação de bens e serviços não implica estender sua interpretação, de modo a permitir que sejam deduzidos, sem restrição, todos e quaisquer custos da empresa despendidos no processo de industrialização e comercialização do produto fabricado.
+3. O Superior Tribunal de Justiça, em 22/02/2018, no julgamento do REsp nº 1.221.170/PR (Temas 779 e 780), sob a sistemática de recursos repetitivos, declarou, por maioria de votos, a ilegalidade das Instruções Normativas 247/2002 e 404/2004 da Receita e concluiu que o "conceito de insumo deve ser aferido à luz dos critérios de essencialidade ou relevância, considerando-se a imprescindibilidade ou a importância de determinado item, bem ou serviço para o desenvolvimento da atividade econômica desempenhada pelo contribuinte".
+4. Ao estabelecer o que se entende por "insumo" para  ns de creditamento do PIS e da COFINS, o Superior Tribunal de Justiça de niu a interpretação do art. 3º, inciso II, das Leis 10.637/2002 e 10.833/03, no entanto, sem afastar a aplicação dos demais dispositivos desses diplomas legais, em especial, o disposto nos §§ 2º e 3º do art. 3º.
+5. Há vedação legal expressa para o creditamento com despesas de mão de obra paga a pessoa física no inciso I, § 2º do art. 3º das Leis nº 10.637/02 e 10.833/03.
+6. Igualmente denega-se a segurança vez que inviável apreciação meritória ante a genericidade do pedido.
+7. Apelação e reexame necessário providos.
+Os Embargos de Declaração foram rejeitados.
+Em seu Recurso Especial, a agravante aponta violação dos arts. 489, 926, 927 e 1.022 do CPC; 3º , II e § 2º, I, das Leis 10.632/2002 e 10.833/2003; 111 do CTN; e 611 da CLT. Aduz:
+(..)
+Conforme já mencionado anteriormente, o fato de uma determinada despesa ser decorrente de imposição legal sempre autorizará o seu creditamento, pois a sua relevância decorre do simples fato de que o descumprimento de uma obrigação legal obsta a própria atividade da empresa como ela deveria ser regularmente exercida.
+Delineadas essas premissas, destaca-se que as despesas provenientes de acordo/convenção coletiva de trabalho, são obrigatórias, uma vez que decorrentes de imposição legal (art. 611 e seguintes da Consolidação das Leis do Trabalho).
+Dada a sua natureza de imposição legal, caso a empresa não incorra nos dispêndios decorrentes de ACT/CCT, incidirá em infração à lei, o que pode acarretar na imposição de sanções que possuem o potencial de inviabilizar o exercício da atividade-fim empresarial.
+Demonstrada a contrariedade ao entendimento vinculante proferido por este C. STJ no REsp 1221170/PR, é de se reconhecer, igualmente, a violação aos arts. 926 e 927 do CPC os quais preveem que os juízes e tribunais, com vistas a manter a coerência da jurisprudência, deverão observar "os acórdãos em incidente de assunção de competência ou de resolução de demandas repetitivas e em julgamento de recursos extraordinário e especial repetitivos".
+(..)
+Por tais razões, requer-se o provimento do presente Recurso Especial, para que seja reformado o acórdão recorrido no sentido de se reconhecer que todas as despesas decorrentes de acordos ou convenções coletivas de trabalho possam ser deduzidas das contribuições ao PIS e COFINS.
+Sem contrarrazões.
+Decisão de inadmissibilidade do Recurso Especial às fls. 706-708, e-STJ, o que ensejou a interposição do presente Agravo.
+Contraminuta à fl. 731, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 18.3.2024.
+Constato que não se configura a ofensa aos arts. 489 e 1.022 do Código de Processo Civil. O Colegiado originário apreciou e decidiu, fundamentadamente, todas as questões postas ao seu crivo. Julgou integralmente a lide e solucionou a controvérsia. Portanto, não cabe falar em negativa de prestação jurisdicional.
+Não é o órgão julgador obrigado a rebater, uma a uma, todas as alegações trazidas pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando os pontos relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca modificar o julgado ao asseverar que o Tribunal a quo não se pronunciou sobre o tema ventilado nos aclaratórios. Todavia, verifica-se que o acórdão controvertido está bem embasado, sem quaisquer dos vícios previstos no aludido dispositivo legal.
+Vale destacar que o simples inconformismo da parte não tem a propriedade de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento do decisum, mas não à sua reforma, só muito excepcionalmente admitida.
+No mérito, o Recurso não ultrapassa o juízo de admissibilidade.
+Com efeito, TRF da 4ª Região consignou:
+(..)
+Deste modo, depreende-se que o pedido compreende uma universalidade que pode ser dividida em duas classes: pagamentos aos seus funcionários e eventuais outras despesas (que não sejam pagamentos aos seus funcionários).
+No que pertine aos pagamentos aos seus funcionários, há vedação legal expressa para o creditamento com despesas de mão de obra paga a pessoa física no inciso I, § 2º do art. 3º das Leis nº 10.637/02 e 10.833/03.
+(..)
+Por outro lado, quanto às eventuais outras despesas decorrentes de acordo/convenção coletiva de trabalho, ante a sua genericidade, como bem apontou a apelante, inviável apreciação meritória da adequação à atividade da empresa: indemonstrada violação de "direito líquido e certo" (i.e., indemonstrado de plano fato constitutivo do direito postulado, pois incabível dilação probatória na ação mandamental), impõe-se a denegação do writ.
+Como se depreende do aresto recorrido, ilidir o afirmado pela Corte regional, a fim de acatar toda a linha argumentativa do recorrente, demandaria o revolvimento do conjunto fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+Com efeito, conforme a orientação consolidada no julgamento do Tema 779/STJ, não é possível verificar, na via especial, a essencialidade ou a relevância das despesas para fins de enquadramento como insumos passíveis de creditamento no PIS e na Cofins, sob pena de infringência à Súmula 7/STJ.
+Confira-se:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PIS/COFINS. REGIME NÃO-CUMULATIVO. CREDITAMENTO. TEMA DECIDIDO EM RECURSO ESPECIAL REPETITIVO (RESP 1.221.170/PR). CONCEITO DE INSUMOS. CRITÉRIOS DE ESSENCIALIDADE OU RELEVÂNCIA, A SEREM AFERIDOS NO CASO CONCRETO. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Mandado de Segurança impetrado pela parte ora agravante, contra ato do Delegado da Receita Federal do Brasil em Recife/PE, objetivando reconhecimento de direito a creditamento do PIS e da COFINS incidentes sobre despesas com "utensílios móveis e maquinas; água; serviços prestados por atividade econômica PJ; conservação e manutenção; manutenção de máquinas e equipamentos", os quais considera essenciais e relevantes para sua atividade econômica. O Juízo de 1º Grau denegou a segurança. O Tribunal de origem manteve a sentença de denegação.
+III. A Primeira Seção do STJ, sob a sistemática dos recursos repetitivos, definiu que "o conceito de insumo deve ser aferido à luz dos critérios da essencialidade ou relevância, vale dizer, considerando-se a imprescindibilidade ou a importância de determinado item - bem ou serviço - para o desenvolvimento da atividade econômica desempenhada pelo contribuinte" (STJ, REsp 1.221.170/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, DJe de 24/04/2018).
+IV. No caso, o Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que "é inviável o creditamento pretendido, já que os bens e serviços listados na inicial não trazem, necessariamente, relação direta com a atividade-fim da impetrante. Ou seja, são despesas que, embora tenham importância para o custo de operação da empresa, não têm relação com a produção e/ou venda de bens ou prestação de serviços que compõe seu objeto social, como, por exemplo, consumo de água, conservação e manutenção de máquinas" e, ainda, que "as despensas mencionadas, ainda que tenham utilidade para a existência e regula funcionamento da impetrante, mormente em sua atividade administrativa e promocional no mercado, não são insumos em sua atividade-fim produtiva. Logo, não são nem essenciais nem relevantes, por imprescindíveis ou importantes, ao processo produtivo realizado, mas apenas à sua organização administrativa". Tal entendimento, firmado pelo Tribunal a quo, não pode ser revisto, pelo Superior Tribunal de Justiça, por exigir o reexame da matéria fático-probatória dos autos. Precedentes: STJ, AgInt no AREsp 1.576.570/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 23/08/2021; AgInt no REsp 1.902.904/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 20/04/2021; AgInt no REsp 1.822.551/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 03/08/2020; AgInt no AREsp 1.530.250/MS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AgInt no REsp 1.747.154/SE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 24/04/2020.
+V. Agravo interno improvido.
+(AgInt no REsp 1.897.982/PE, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 29/4/2022)
+Diante do exposto, conheço do Agravo para conhecer parcialmente do Recurso Especial, apenas quanto à tese de afronta aos arts. 489 e 1.022 do CPC, e, nessa extensão, negar-lhe provimento.
+Não cabem honorários recursais em consequência da aplicação da Súmula 105/STJ.
+Publique-se.
+Intimem-se.
+EMENTA
