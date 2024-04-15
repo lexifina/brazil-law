@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/04/2024 a 15/04/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. ART. 619 DO CÓDIGO DE PROCESSO PENAL. OMISSÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração, no processo penal, são oponíveis com fundamento na existência de ambiguidade, obscuridade, contradição e/ou omissão no decisum embargado e, por isso, não constituem instrumento adequado para demonstração de inconformismos da parte com o resultado do julgado e/ou para formulação de pretensões de modificações do entendimento aplicado, salvo quando, excepcionalmente, cabíveis os efeitos infringentes.
+2. A questão posta foi decidida à luz de fundamentos adequados. As razões veiculadas nos embargos de declaração revelam, em verdade, o inconformismo da parte com o julgamento da causa, legítimo, mas impróprio na espécie recursal.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de embargos de declaração opostos por MARCIO FERREIRA DE CASTRO contra acórdão assim ementado (e-STJ fls. 263/264):
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. NULIDADE. INVASÃO DE DOMICÍLIO. FUNDADAS RAZÕES PARA O INGRESSO. PRESENÇA. PRÉVIO E INTENSO MONITORAMENTO DOS AGENTES PÚBLICOS. COMPORTAMENTO DO ACUSADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Supremo Tribunal Federal, por ocasião do julgamento do RE n. 603.616/RO, submetido à sistemática da repercussão geral, firmou o entendimento de que a "entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a po steriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, e de nulidade dos atos praticados".
+2. O Ministro Rogerio Schietti Cruz, ao discorrer acerca da controvérsia objeto desta irresignação no REsp n. 1.574.681/RS, bem destacou que "a ausência de justificativas e de elementos seguros a legitimar a ação dos agentes públicos, diante da discricionariedade policial na identificação de situações suspeitas relativas à ocorrência de tráfico de drogas, pode fragilizar e tornar írrito o direito à intimidade e à inviolabilidade domiciliar" (Sexta Turma, julgado em 20/4/2017, DJe 30/5/2017).
+3. No caso em tela, o ingresso forçado na casa onde foram apreendidas as drogas sustentou-se em fundadas razões extraídas da leitura dos documentos dos autos. Isso, porque a diligência não se apoiou em meras denúncias anônimas, mas sim no fato de o agravado já ser conhecido no meio policial; de ter havido prévio e intenso monitoramento dos agentes públicos, por 2 a 3 dias; no comportamento do agravante em sair e retornar de sua residência "com muita frequência, em intervalos curtos, de motocicleta"; e no arremesso de um "saco dentro do muro da residência, que estava com o portão aberto". Assim sendo, o contexto fático narrado corrobora a conclusão inarredável de que na residência praticava-se o crime de tráfico de drogas.
+4. Em hipótese congênere, esta Turma já consignou que, "além de receber denúncia anônima de que o réu estaria praticando tráfico de drogas no local, os policiais passaram a averiguar os fatos nos dias posteriores e realizaram campana para monitorar as atividades. Ao identificar movimentação típica de tráfico de drogas e depois de acompanhar o acusado em pelo menos três entregas realizadas a usuários, realizaram a abordagem em via pública (com a apreensão de três pacotes com entorpecentes)" (AgRg no RHC n. 183.392/RR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/10/2023, DJe de 30/10/2023.)
+5. Agravo regimental desprovido.
+Em suas razões, o embargante sustenta, basicamente, que "o fato do embargante sair e entrar com frequência em sua residência não justifica a revista pessoal que se basearam na alegação genérica de que ele estaria em atitude suspeita e demonstrou nervosismo, o que não caracteriza fundada suspeita apta a validar a busca pessoal e, por conseguinte as buscas domiciliares" (e-STJ fl. 281).
+Assim, "requer que estes aclaratórios sejam conhecidos e acolhidos, para que este Superior Tribunal de Justiça declare os pontos omitidos, analisando explicitamente o quadro fático delineado, bem como, restabelecer a decisão proferida as fls. 147/158 que concedeu a ordem de habeas corpus" (e-STJ fl. 282).
+É o relatório.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. ART. 619 DO CÓDIGO DE PROCESSO PENAL. OMISSÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração, no processo penal, são oponíveis com fundamento na existência de ambiguidade, obscuridade, contradição e/ou omissão no decisum embargado e, por isso, não constituem instrumento adequado para demonstração de inconformismos da parte com o resultado do julgado e/ou para formulação de pretensões de modificações do entendimento aplicado, salvo quando, excepcionalmente, cabíveis os efeitos infringentes.
+2. A questão posta foi decidida à luz de fundamentos adequados. As razões veiculadas nos embargos de declaração revelam, em verdade, o inconformismo da parte com o julgamento da causa, legítimo, mas impróprio na espécie recursal.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Como é cediço, os embargos de declaração, consoante disposição do art. 619 do Código de Processo Penal, destinam-se a sanar possível ambiguidade, obscuridade, contradição e/ou omissão nas razões delineadas no corpo da decisão, em face das pretensões deduzidas e dos demais elementos constantes do processo.
+Essa é a vocação legal do recurso, sempre enfatizada nos precedentes do Superior Tribunal de Justiça, como se depreende do aresto a seguir:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO.  ..  ART. 619 DO CPP. AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos de declaração são cabíveis nas hipóteses de haver ambiguidade, obscuridade, contradição e/ou omissão no acórdão prolatado (artigo 619 do Código de Processo Penal).
+2. No caso, percebe-se claramente a oposição do recurso tão somente para rediscutir o mérito do que fora decidido. Sob o pretexto da alegação de omissão ou inexatidão, pretende o embargante apenas renovar a discussão com os mesmos argumentos com os quais a Corte Especial do Superior Tribunal de Justiça não concordou.
+ ..
+5. As Cortes Superiores já pacificaram que os efeitos infringentes nos embargos de declaração dependem da premissa de que haja algum dos vícios a serem sanados (omissão, contradição ou obscuridade) e, por decorrência, a conclusão deve se dar no sentido oposto ao que inicialmente proferido. Precedentes.
+6. Não há vício de embargabilidade quando o aresto recorrido decide integralmente a controvérsia, de maneira sólida e fundamentada.
+7. Embargos de declaração rejeitados. (EDcl na APn 613/SP, relator Ministro OG FERNANDES, CORTE ESPECIAL, DJe 3/2/2016.)
+Os embargos declaratórios constituem instrumento de colaboração no processo. Trata-se de instrumento de efetivo aperfeiçoamento da tutela jurisdicional.
+Não há, na decisão embargada, nenhuma situação que dê amparo ao recurso integrativo, porquanto o vício alegado, na realidade, manifesta o inconformismo do embargante com o julgamento meritório, desiderato inadmissível em aclaratórios.
+A respeito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. ERRO MATERIAL NA EMENTA. RETIFICAÇÃO DETERMINADA. CONTRADIÇÃO NO RESULTADO DO JULGAMENTO. INOCORRÊNCIA. OMISSÃO NA ANÁLISE DAS TESES DEFENSIVAS. INTENÇÃO DE REDISCUTIR A MATÉRIA. EMBARGOS ACOLHIDOS PARCIALMENTE SEM EFEITOS INFRINGENTES.
+1. Os embargos de declaração apenas são cabíveis para sanar omissão, contradição ou obscuridade do julgado recorrido, admitindo-se também esse recurso para se corrigir eventuais erros materiais constantes do pronunciamento jurisdicional.
+2. Embargos acolhidos para retificar o erro material na verbetação da ementa do acórdão impugnado. Erro esse que não comprometeu a compreensão do julgado.
+3. Nos termos do art. 34, inciso XVIII, alínea a, do Regimento Interno do Superior Tribunal de Justiça  RISTJ, não há qualquer mácula no julgamento que não conhece do recurso que "não tiver impugnado especificamente todos os fundamentos da decisão recorrida".
+4. A suposta omissão na análise da matéria de ordem pública, o que se verifica, in casu, é a nítida intenção do embargante, inconformado com o resultado do julgamento, em rediscutir a matéria apreciada e já decidida pela Quinta Turma.
+5. Embargos de declaração parcialmente acolhidos sem efeitos infringentes. (EDcl no AgRg no HC n. 623.997/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/5/2021, DJe de 7/5/2021.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. (I) OPOSIÇÃO DE DOIS EMBARGOS IDÊNTICOS. (II) REDISCUSSÃO DE MATÉRIA SUFICIENTEMENTE DECIDIDA. DESCABIMENTO. EMBARGOS DE FLS. 1.969/1.970 NÃO CONHECIDOS. EMBARGOS DE DECLARAÇÃO DE FLS. 1.967/1.968 REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a sanar ambiguidade, suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado.
+2. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos declaratórios.
+3. Embargos de declaração de fls. 1.969/1.970 não conhecidos. Embargos de declaração de fls. 1.967/1.968 rejeitados. (EDcl no AgRg nos EDcl no RE nos EDcl no AgRg no AREsp 639.142/SP, relatora Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 3/8/2016, DJe 30/8/2016.)
+Na hipótese, não prospera a alegação defensiva de que os agentes públicos "não consignaram as fundadas suspeitas" (e-STJ fl. 280). Ao revés, como constou do aresto embargado, a fundada suspeita originou-se no fato de o agravante já ser conhecido no meio policial; de ter havido prévio e intenso monitoramento dos agentes públicos, por 2 a 3 dias; no comportamento do agravante em sair e retornar de sua residência "com muita frequência, em intervalos curtos, de motocicleta"; e no arremesso de um "saco dentro do muro da residência, que estava com o portão aberto".
+Dessarte, inexiste o vício na decisão objurgada. Percebe-se, sim, uma insatisfação da parte com o resultado do julgamento e a pretensão de modificá-lo por meio de instrumento processual nitidamente inábil à finalidade almejada.
+Tal o contexto, rejeito os embargos de declaração.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
