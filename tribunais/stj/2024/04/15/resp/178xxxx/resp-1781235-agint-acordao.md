@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/04/2024 a 15/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. COMISSÃO DE VALORES MOBILIÁRIOS-CVM. TAXA DE FISCALIZAÇÃO. INCIDÊNCIA DO TRIBUTO ATÉ QUANDO EXAURIDOS OS EFEITOS DOS INCENTIVOS RECEBIDOS. IMPOSSIBILIDADE DE ALTERAÇÃO DO JULGADO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO E NÃO PROVIDO.
+1. "A jurisprudência do Superior Tribunal de Justiça é pacífica ao afirmar que a fiscalização da Comissão de Valores Mobiliários deve ocorrer sobre as sociedades beneficiárias de incentivos fiscais, de tal sorte que, exauridos os efeitos do incentivo, não há que se falar em permanência do registro e, por conseguinte, no pagamento da Taxa de Fiscalização" (AgInt no REsp 1.878.191/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/11/2020, DJe de 18/11/2020).
+2. No caso, a alteração do entendimento exarado no acórdão recorrido, quanto ao não enquadramento da empresa como incentivada fiscal à época dos fatos gerados do tributo executado, encontraria óbice na Súmula 7/STJ.
+3. Agravo conhecido e não provido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em análise, agravo interno no recurso especial interposto pela COMISSÃO DE VALORES MOBILIARIOS-CVM, contra a decisão que não conheceu do recurso especial, com fundamento na Súmula 7/STJ.
+A agravante sustenta inaplicabilidade do referido óbice processual, porquanto o fato de o acórdão recorrido ter consignado que a empresa deixou de receber o incentivo fiscal em 1997, não interfere na tese de que o fato gerador da taxa de fiscalização está atrelado ao exercício do poder de polícia e não ao período de gozo do benefício.
+Impugnação apresentada às fls. 235-240 e-STJ.
+É o relatório.
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. COMISSÃO DE VALORES MOBILIÁRIOS-CVM. TAXA DE FISCALIZAÇÃO. INCIDÊNCIA DO TRIBUTO ATÉ QUANDO EXAURIDOS OS EFEITOS DOS INCENTIVOS RECEBIDOS. IMPOSSIBILIDADE DE ALTERAÇÃO DO JULGADO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO E NÃO PROVIDO.
+1. "A jurisprudência do Superior Tribunal de Justiça é pacífica ao afirmar que a fiscalização da Comissão de Valores Mobiliários deve ocorrer sobre as sociedades beneficiárias de incentivos fiscais, de tal sorte que, exauridos os efeitos do incentivo, não há que se falar em permanência do registro e, por conseguinte, no pagamento da Taxa de Fiscalização" (AgInt no REsp 1.878.191/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/11/2020, DJe de 18/11/2020).
+2. No caso, a alteração do entendimento exarado no acórdão recorrido, quanto ao não enquadramento da empresa como incentivada fiscal à época dos fatos gerados do tributo executado, encontraria óbice na Súmula 7/STJ.
+3. Agravo conhecido e não provido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Presentes os pressupostos de admissibilidade recursal, conheço do recurso.
+O agravo interno é cabível em face da decisão monocrática proferida pelo Relator no Tribunal, com a finalidade de que a controvérsia seja submetida ao Órgão Colegiado. O instituto do referido recurso está regulamentado pelo art. 1.021 do Código de Processo Civil, que assim versa:
+Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
+§ 1º Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada.
+§ 2º O agravo será dirigido ao relator, que intimará o agravado para manifestar-se sobre o recurso no prazo de 15 (quinze) dias, ao final do qual, não havendo retratação, o relator levá-lo-á a julgamento pelo órgão colegiado, com inclusão em pauta.
+Ao exame da situação posta, constato que os argumentos levantados pela parte agravante não são capazes de alterar o entendimento proferido pelo então relator, que ora submeto ao colegiado para serem confirmados:
+Vistos,  etc.
+Trata-se  de  recurso  especial  interposto  por  Comissão  de  Valores  Mobiliários  contra  acórdão  da  Quarta  Turma  do  TRF  da  5ª  Região  assim  ementado:
+EXECUÇÃO  FISCAL.  REMESSA  OFICIAL.  CABIMENTO  DECIDIDO  PELO  STJ.  EXCEÇÃO  DE  PRÉ-EXECUTIVIDADE.  COBRANÇA  DE  TAXA  DE  FISCALIZAÇÃO  DO  MERCADO  DE  VALORES  MOBILIÁRIOS  -  TFMVM.  EMPRESA  QUE  NÃO  ERA  MAIS  BENEFICIÁRIA  DE  INCENTIVOS  FISCAIS  À  ÉPOCA  DA  COBRANÇA.  EXTINÇÃO  DO  FEITO.  HONORÁRIOS  ADVOCATICIOS.
+1.  Os  autos  retornam  a  esta  Quarta  Turma  para  o  julgamento  da  remessa  oficial,  em  razão  de  decisão  do  STJ  (fls.  120/121), que  reformou  o  acórdão  de  fls.  84/87  que  considerara  incabível a  remessa  oficial  nos  casos  de  extinção,  por  qualquer  que  seja o motivo,  do  feito  ajuizados  pela  Fazenda  Pública  contra terceiros.
+2.  Remessa  oficial  ante  a  sentença  de  fls.  53/55,  que  conheceu da  exceção  de  pré-executividade  manejada  pela  executada, determinando  a  extinção  da  execução  fiscal  que  lhe  move  a CVM  -  Comissão  de  Valores  Mobiliários,  e  fixando  honorários advocatícios  sucumbenciais  em  R$  3.000,00.
+3.  O  art.  1º,  I,  do  Decreto-lei  2.298/86,  estabelece  que  compete à  Comissão  de  Valores  Mobiliários  fiscalizar  e  disciplinar  as sociedades  beneficiárias  de  recursos  oriundos  de  incentivos fiscais  para  a  aplicação  em  participações  societárias.  Por  sua vez,  o  art.  3º  da  Lei  7.940/89,  que  instituiu  a  cobrança  da  Taxa de  Fiscalização  do  Mercado  de  Valores  Mobiliários  -  TFMVM fixa que  são  contribuintes  desse  tributo,  dentre  outros,  "as sociedades  beneficiária s  de  recurso  oriundos  de  incentivos fiscais  obrigadas  a  registro  na  Comissão  de  Valores  Mobiliários - CVM."
+4.  A  empresa  excipiente  trouxe  à  colação  cópia  do  Oficio  nº 04999  SUDENE/DAI/DT,  datado de 11/12/1997,  no  que  se encontra  consignado  que  o  projeto  se  encontrava  concluído  (fI.37).  Cuida-se,  na  verdade,  de  ofício  que  encaminha  o  chamado  Certificado  de  Implantação  do projeto  incentivado.  Não se tratando  mais  de  empresa beneficiária  de  recursos  oriundos  de incentivos  fiscais, a  empresa  não  estaria  mais  sujeita  à fiscalização  da  CVM  e,  consequentemente,  não  era  mais obrigada  a  recolher a  TFMVM.
+5. O  valor fixado a título de honorários advocatítios sucumbenciais  (R$ 3.000,00) não  se mostra  exagerado, encontrando-se  de  acordo  com  a  regra  do  §  4º,  do  art.  20  do CPC.
+6.  Remessa  oficial  improvida.
+Os  embargos  de  declaração  opostos  na  sequência  foram  rejeitados.
+A  recorrente  aponta  ofensa  aos  arts.  535  do  CPC /1973  e  3º  da  Lei  n.  7.940/1989.  Além  de  negativa  de  prestação  jurisdicional,  aduz  que  "a  empresa  executada  era  obrigada  ao  registro  na  CVM  e  submetida  ao  poder  de  polícia  desta  Autarquia,  por  conseguinte,  contribuinte  da  Taxa  de  Fiscalização  do  Mercado  de  Valores  Mobiliários".
+ Contrarrazões  apresentadas.
+Apelo  nobre  admitido  na  origem.
+É  o  relatório.
+No  tocante  à  alegada  contrariedade  ao  disposto  no  art.  535  do  CPC/1973,  observa-se  que  as  razões  do  recurso  são  genéricas,  sem  explicitar  como  se  teria  dado  a  afronta  ao  dispositivo  legal,  o  que  atrai  a  incidência  da  Súmula  284/STF.
+Nesse  sentido:
+PROCESSUAL  CIVIL.  RECURSO  ESPECIAL.  ARTS.  489  E  1.022  DO  CPC/2015.  VIOLAÇÃO.  ARGUIÇÃO  GENÉRICA.  FUNDAMENTAÇÃO  PER  RELATIONEM.  POSSIBILIDADE.
+(..)  2.  Incide  a  Súmula  284  do  STF  quando  a  parte  aponta  violação  dos  arts.  489  e  1.022,  do  CPC/2015,  de  forma  genérica,  sem  explicitar  qual  a  ausência  de  pronunciamento  e  sua  relevância  para  a  solução  da  controvérsia  a  ser  julgada,  como  ocorreu  na  espécie.
+(..)  4.  Agravo  interno  desprovido.
+(AgInt  no  REsp  1.814.110/PE,  Rel.  Min.  GURGEL  DE  FARIA,  PRIMEIRA  TURMA,  julgado  em  14/10/2019,  DJe  17/10/2019.)
+Isso  estabelecido,  as instâncias ordinárias concluíram que, ao ser instituída a taxa em alusão, o recorrido não recebia mais financiamento algum, inexistindo hipótese de incidência.  Rever  a  conclusão  do  acórdão  recorrido  esbarra  no  óbice  da  Súmula  7/STJ,  consoante  a  jurisprudência:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. TAXA DE FISCALIZAÇÃO COBRADA PELA COMISSÃO DE VALORES MOBILIÁRIOS. LEI 7.940/89. VIOLAÇÃO DO ART. 535 DO CPC NÃO CONFIGURADA. SUJEIÇÃO PASSIVA. SOCIEDADE QUE NÃO RECEBEU INCENTIVOS FISCAIS. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA 7 DO STJ.
+(..) 2. Hipótese em que o Tribunal de origem concluiu, com base na prova dos autos, que "as ações titularizadas pelo FINOR foram alienadas antes da edição da Lei nº 7.940/89, que instituiu a Taxa de Fiscalização dos Mercados de Títulos e Valores Mobiliários, incabível a cobrança da aludida taxa, uma vez que tal norma não pode alcançar fatos pretéritos" (fl. 152, e-STJ).
+3. A revisão dessa orientação implica reexame de fatos e provas, obstado pelo teor da Súmula 7/STJ.
+4. Agravo Regimental não provido (AgRg no REsp 1.477.441/CE, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/12/2014, DJe 3/2/2015).
+Ante  o  exposto,  não conheço do recurso especial.
+Publique-se.  Intimem-se (e-STJ, fls. 214-216).
+Sobre o tema em debate, "a jurisprudência do Superior Tribunal de Justiça é pacífica ao afirmar que a fiscalização da Comissão de Valores Mobiliários deve ocorrer sobre as sociedades beneficiárias de incentivos fiscais, de tal sorte que, exauridos os efeitos do incentivo, não há que se falar em permanência do registro e, por conseguinte, no pagamento da Taxa de Fiscalização" (AgInt no REsp 1.878.191/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/11/2020, DJe de 18/11/2020).
+No caso, o Tribunal regional negou provimento ao apelo da CVM, nos seguintes termos:
+Na hipótese dos autos, a excipiente DUNAS PRAIA HOTEL S/A relata que a execução fiscal fora ajuizada pela CVM para a cobrança de Taxa de Fiscalização do Mercado de Valores Mobiliários - TFMVM, relativamente aos exercícios 1998 a 2001. No entanto, segundo afirma, desde de 11 de dezembro de 1997 não era mais companhia beneficiária de incentivos fiscais, não se encontrando mais sujeita à fiscalização e ao disciplinamento da CVM (Decreto-lei 2.298/86; art. 1º).
+De fato, a empresa excipiente trouxe à colação cópia do Ofício nº 04999 SUDENE/DAI/DT, datado de 11/12/1997, no que se encontra consignado que o projeto se encontrava concluído (fl. 37). Cuida-se, na verdade, de oficio que encaminha o chamado Certificado de Implantação do projeto incentivado.
+Não se tratando mais de empresa beneficiária de recursos oriundos de incentivos fiscais, a empresa não estaria mais sujeita à fiscalização da CVM e, consequentemente, não era mais obrigada a recolher a TFMVM (e-STJ, fls. 162-163).
+Como se vê, o acórdão recorrido registrou que, à época dos fatos geradores da Taxa de Fiscalização de Mercado de Valores Mobiliários-TFMVM, a empresa não se enquadrava na categoria de incentivada. A alteração desse entendimento, como pretende a parte agravante, ensejaria o reexame do acervo fático-probatório dos autos; providência vedada nesta via recursal, ante o óbice da Súmula 7/STJ.
+Em reforço:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. TAXA DE FISCALIZAÇÃO DA COMISSÃO DE VALORES MOBILIÁRIOS - CVM. CONFIGURAÇÃO DO FATO GERADOR. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A cobrança da Taxa de Fiscalização dos Mercados de Títulos e Valores Mobiliários das sociedades beneficiárias de recursos oriundos de incentivos fiscais é legítima enquanto a empresa estiver enquadrada na categoria de incentivada, perdurando a incidência do tributo até o momento em que exauridos os efeitos dos incentivos fiscais recebidos. Precedentes.
+III - No caso, rever o entendimento do tribunal de origem, com o objetivo de acolher a pretensão recursal acerca da configuração do fato gerador da taxa de fiscalização da CVM, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07/STJ.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido (AgInt no REsp 1.870.312/PE, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 24/8/2020, DJe de 27/8/2020).
+Posto isso, nego provimento ao agravo.
