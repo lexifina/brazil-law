@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por NATALIA MENDONCA LORENZATO contra decisão que inadmitiu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado:
+TRIBUTÁRIO. PROCESSUAL CIVIL. APELAÇÃO. EMBARGOS DE TERCEIRO. CONSTRIÇÃO SOBRE IMÓVEL. FRAUDE À EXECUÇÃO. REDAÇÃO ATUAL DO ART. 185 DO CTN. ALIENAÇÃO POSTERIOR À INSCRIÇÃO EM DÍVIDA ATIVA. OCORRÊNCIA DE FRAUDE À EXECUÇÃO.
+Opostos embargos de declaração foram rejeitados.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, o recorrente sustenta violação ao artigo 185, parágrafo único, do CTN, sob o argumento de que a permanência da solvência do devedor após a transferência dos imóveis afasta o reconhecimento de fraude à execução.
+Contrarrazões ao recurso especial às fls. 581/592.
+O Tribunal de origem inadmitiu o recurso especial por meio da decisão de fls. 594/597.
+Insurge-se o agravante contra essa decisão afirmando que, ao contrário do que supõe a origem, o recurso especial reúne condições de processamento.
+É o relatório. Decido.
+Presentes os pressupostos de admissibilidade do agravo, passo a análise do recurso especial.
+Consta do v. acórdão de origem:
+Por conseguinte, sendo a alienação posterior à inscrição em dívida ativa, de rigor reconhecer a fraude à execução, do disposto no artigo 185, do Código Tributário Nacional, em sua ex vi redação atual. Ocorrendo alienação patrimonial nesses moldes, o ato realizado é ineficaz perante a Fazenda Pública, de modo que os bens alienados podem ser arrestados ou penhorados no processo de execução fiscal. O argumento da segurança jurídica não pode acobertar fato atentatório contra a própria dignidade da justiça, porquanto princípios e direitos constitucionais não são aptos a justificar, por sua própria essência, atos ilegais (Cf. STF, RHC 115983/ RJ). Ademais, tratando-se de execução fiscal, é inaplicável à hipótese a súmula nº 375 do Superior Tribunal de Justiça, pois a lei especial prevalece sobre a lei geral, consoante pacificado no recurso especial julgado sob a sistemática dos recursos representativos de controvérsia, acima transcrito (REsp 1141990/PR). Assim, a sentença deve ser mantida.
+A Primeira Seção do Superior Tribunal de Justiça, no julgamento do Recurso Especial 1.141.990/PR, de relatoria do Min. Luiz Fux, sob o rito do artigo 543-C do CPC/1973, firmou entendimento de que "a alienação efetivada antes da entrada em vigor da LC nº 118/2005 (09.06.2005) presumia-se em fraude à execução se o negócio jurídico sucedesse a citação válida do devedor; posteriormente à 09.06.2005, consideram-se fraudulentas as alienações efetuadas pelo devedor fiscal após a inscrição do crédito tributário na dívida ativa".
+Na oportunidade, foi assentada, ainda, que "a simples alienação ou oneração de bens ou rendas, ou seu começo, pelo sujeito passivo por quantia inscrita em dívida ativa, sem a reserva de meios para quitação do débito, gera presunção absoluta (jure et de jure) de fraude à execução (lei especial que se sobrepõe ao regime do direito processual civil)" sendo certo "que a lei especial prevalece sobre a lei geral (lex especialis derrogat lex generalis), por isso que a Súmula nº 375 do Egrégio STF não se aplica às execuções fiscais".
+Na hipótese, observa-se que o Tribunal de origem adotou posicionamento que está em harmonia com a orientação desta Corte Superior de Justiça, razão pela qual não merece reparos.
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. FRAUDE À EXECUÇÃO. BEM. TRANSFERÊNCIA. . INSCRIÇÃO EM DÍVIDA ATIVA. ACÓRDÃO EM HARMONIA COM A ORIENTAÇÃO DO STJ. PRECEDENTES. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
