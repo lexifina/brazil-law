@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição Federal de 1988) interposto contra acórdão do Tribunal Regional Federal da 2ª Região assim ementado:
+TRIBUTÁRIO. BASE DE CÁLCULO DE IRPJ E CSLL. EXCLUSÃO DOS VALORES REFERENTE À TAXA SELIC INCIDENTES NA REPETIÇÃO DE INDÉBITO TRIBUTÁRIO. APLICAÇÃO DA TESE FIRMADA NO TEMA Nº 962/RG-STF. MODULAÇÃO DOS EFEITOS. DIREITO À COMPENSAÇÃO/RESTITUIÇÃO ADMINISTRATIVA.
+1. Não há que se falar em suspensão do feito até o julgamento do recurso paradigma (RE nº 1.063.187). A uma, porque o recurso já foi julgado e, inclusive, transitou em julgado; a duas, porque, ainda que não tivesse sido julgado, não houve determinação de suspensão nacional.
+2. No julgamento do RE nº 1.063.187/SC, em sede de recursos repetitivos (Tema 962/RG), o STF concluiu pela não incidência de IRPJ e CSLL sobre o montante da taxa SELIC na repetição do indébito tributário. Quando do julgamento dos embargos de declaração opostos contra o acórdão paradigma, decidiu-se pela modulação dos efeitos da decisão, determinando a produção de efeitos ex nunc a partir de 30/09/2021 (data da publicação da ata de julgamento do mérito), ressalvadas: a) as ações ajuizadas até 17/09/2021 (data do início do julgamento do mérito); b) os fatos geradores anteriores à 30/09/2021, em relação aos quais não tenha havido o pagamento do IRPJ ou da CSLL a que se refere a tese de repercussão geral. Aplicação da modulação dos efeitos ao caso, porquanto a ação foi ajuizada em 17/12/2021.
+3. O mandado de segurança é via adequada para declarar o direito à compensação ou restituição de tributos, sendo que, em ambos os casos, concedida a ordem, os pedidos devem ser requeridos na esfera administrativa, restando inviável a via do precatório, sob pena de conferir indevidos efeitos retroativos ao mandamus. A compensação se dará de acordo com a legislação vigente à época do encontro de contas.
+4. Remessa necessária e apelação parcialmente providas.
+Os Embargos de Declaração foram rejeitados às fls. 278-283, e-STJ.
+A parte recorrente aponta violação aos arts. 1.022, I e II, e parágrafo único, II, 489, § 1º, III, IV, V e VI, do CPC; 73 e 74 da Lei 9.430/1996; 66 da Lei 8.383/1991; e 165 do CTN. Sustenta, em resumo (fl. 298, e-STJ):
+Com efeito, qualquer medida de deferimento de pedido de restituição administrativa de indébito decorrente de decisão judicial é medida que fere ostensivamente regra constitucional prevista no art. 100 da Constituição Federal, bem como a dos artigos 73 e 74 da Lei nº 9.430/96 e 66, §2º, da Lei nº 8.383/91, aplicadas pelo v. acórdão recorrido para fundamentar tal possibilidade, mas que não permitem a restituição do indébito judicial.
+Sem Contrarrazões.
+Decisão de admissibilidade à fl. 365, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 13 de março de 2024.
+A Corte de origem assim consignou ao decidir a controvérsia (fls. 210-211, e-STJ, grifei):
+Por fim, cuida afirmar que o mandado de segurança é via adequada para declarar o direito à compensação ou restituição de tributos, sendo que, em ambos os casos, concedida a ordem, os pedidos devem ser requeridos na esfera administrativa, restando inviável a via do precatório, sob pena de conferir indevidos efeitos retroativos ao mandamus (v.g.: AgInt no REsp 1.895.331/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 24/05/2021, DJe 11/06/2021).
+Não há que cogitar, a esse respeito, de violação à regra do art. 100 da CF/88, ou de violação à isonomia entre os contribuintes. Com efeito, a legislação de regência possibilita a restituição administrativa de valores pagos a maior a título de tributos.
+O pedido administrativo de restituição tem amparo no art. 165 do CTN, bem como no art. 66, § 2º da Lei 8.383/91, que faculta ao contribuinte a opção pelo pedido de restituição, ao invés de compensação, na hipótese de pagamento indevido ou a maior, sendo certo que o art. 74 da Lei nº 9.430/96 deixa claro que o crédito pode ter origem judicial, desde que já tenha havido o trânsito em julgado. Veja-se:
+(..)
+É firme a jurisprudência do STJ: "nos autos do Mandado de Segurança, a opção pela compensação ou restituição do indébito - na forma da Súmula 461 do STJ c/c os arts. 66, § 2º, da Lei 8.383/1991 e 74, caput, da Lei 9.4390/1996 - refere-se à restituição administrativa do indébito, e não à restituição via precatório ou RPV, uma vez que a pretensão manifestada na via mandamental de condenação da Fazenda Nacional à restituição de tributo indevidamente pago no passado, viabilizando o posterior recebimento desse valor pela via do precatório, implica utilização do Mandado de Segurança como substitutivo da ação de cobrança, o que não se admite, conforme entendimento cristalizado na Súmula 269 do STF (REsp 1.864.092/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9.4.2021)".
+Preliminarmente, constato que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Ademais, é inadmissível o REsp quando o acórdão recorrido assenta em mais de um fundamento suficiente e o Recurso não abrange todos eles. Nesse sentido: AgInt no REsp n. 1.389.204/MG, Rel. Min. Og Fernandes, Segunda Turma, DJe 3/8/2020; EDcl no AgInt no REsp n. 1.838.532/CE, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 27/8/2020; AgInt no AREsp n. 1.623.926/MG, Rel. Min. Herman Benjamin, Segunda Turma, DJe 26/8/2020.
+No caso dos autos, o TRF2 consignou que a pagamento via precatória implica utilização do Mandado de Segurança como substitutivo da Ação de Cobrança, o que não se admite, conforme entendimento da Súmula 269 do STF, bem como que o pedido de restituição administrativa possui amparo no art. 165 do CTN. Contudo, tais argumentos não foram objeto de impugnação no Apelo, o que constitui vício na fundamentação e atrai o óbice da Súmula 283 do STF.
+Padece de irregularidade formal o Recurso em que o recorrente descumpre seu ônus de impugnar especificamente os fundamentos do acórdão recorrido, deixando de atender ao princípio da dialeticidade (AgRg no RMS 44.887/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 11/11/2015). Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CRÉDITO TRIBUTÁRIO. PRESCRIÇÃO. TERMO INICIAL. EXCLUSÃO DE PARCELAMENTO. OBSERVÂNCIA DA LEGISLAÇÃO DE REGÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA E ADEQUADA. INADMISSIBILIDADE.
+(..)
+2. Na via do recurso especial, é ônus do recorrente apontar, de forma adequada, específica e suficiente, o porquê de os fundamentos adotados pelo órgão julgador a quo não poderem ser aceitos para a solução da lide. Observância da Súmula 283 do STF.
+(..)
+5. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1.852.645/SP, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 11/02/2021)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. POLICIAIS MILITARES. AÇÃO DE COBRANÇA. DIREITO RECONHECIDO EM MANDADO DE SEGURANÇA COLETIVO. NÃO OCORRÊNCIA DE TRÂNSITO EM JULGADO DO MANDAMUS. SUSPENSÃO DO PROCESSO. FUNDAMENTAÇÃO AUTÔNOMA NÃO IMPUGNADA E ARGUMENTAÇÃO RECURSAL DEFICIENTE. SÚMULAS 283 E 284 DO STF. INTERRUPÇÃO DO PRAZO PRESCRICIONAL PELA IMPETRAÇÃO DO WRIT. PRECEDENTES. PRESCRIÇÃO LIMITADA ÀS PARCELAS ANTERIORES AO QUINQUÊNIO QUE ANTECEDEU O AJUIZAMENTO DA AÇÃO MANDAMENTAL.
+1. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem e a apresentação de argumentação recursal deficiente impedem a admissão do apelo especial. Incidem ao caso as Súmulas 283 e 284 do STF.
+(..)
+3. Agravo interno não provido. (AgInt no REsp 1.878.208/SP, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 11/12/2020)
+Diante do exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
