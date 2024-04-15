@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARIA GORETTI PEREIRA DE BRITO contra decisão que inadmitiu recurso especial em razão da incidência, por duas vezes, da Súmula n. 284 do STF (alínea c) e, quanto ao mais, devido à incidência da Súmula n. 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais proferido em apelação e assim ementado (fl. 765):
+APELAÇÃO CÍVEL -INTEMPESTIVIDADE -CDC -NÃO INCIDÊNCIA -CÉDULA DE PRODUTO RURAL -TÍTULO NÃO CAUSAL -DECRETO-LEI Nº 167/67 -INAPLICABILIDADE -ENCARGOS FINANCEIROS -BIS IN IDEM-LIMITAÇÃO DEVIDA. A apelação interposta no prazo legal via "Serviço de Protocolo Postal" tem a tempestividade aferida pela data do carimbo de postagem na agência dos Correios, nos termos do art. 6º, II, da Resolução 642/2010.
+O CDC não se aplica à cédula de produto rural, cujo valor é utilizado para o fomento da atividade econômica exercida pelo emitente. "Há distinção entre a Cédula de Produto Rural e a Cédula de Crédito Rural (esta regida pelo art. 90 do Decreto-Lei n. 167/1967, como a "promessa de pagamento em dinheiro", enquanto aquela é. "representativa de promessa de entrega de produtos rurais", conforme art. 10 da Lei n. 8.929, de 1994), cumprindo esclarecer que, para o título de crédito tratado neste recurso (CPR-F), vigora o princípio da autonomia privada, de maneira que os juros moratórios não estão limitados à taxa de 1% ao ano". Precedentes (STJ. Aglnt no REsp 1787427/SP, ReI. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 2511112019, DJe 29111/2019). Como a Taxa Selic já tem função remuneratória, é abusiva a cobrança de juros da taxa Selic mais "encargos de 2,00%", pena de bis in idem. Preliminar rejeitada e recurso parcialmente provido.
+Embargos de declaração rejeitados (fls. 809-922).
+Nas razões do recurso especial, a parte agravante aponta, além de divergência jurisprudencial, violação dos arts. 86, 141 e 492 do CPC e da Súmula 381 do STJ.
+Sustenta a ocorrência de julgamento extra petita "por "decotar de ofício" parcela à qual a parte autora renunciara expressamente" (fl. 834).
+Alega ainda que, "ao alterar ex officio parte inexistente do pedido e dividir a sucumbência ao meio, a decisão viola e nega vigência também ao art. 86, § único, do CPC" (fl. 834).
+Requer que "seja dado total provimento ao presente, por negativa de vigência ao artigo 86, caput e § único do CPC e por divergência de interpretação dada à lei federal, tudo para afastar a sucumbência recíproca arbitrada no acórdão recorrido". Pede também "a cassação do acórdão recorrido, determinando que o Eg. TJMG profira nova decisão e enfrente as alegações de nulidade do acórdão por decisão extra e ou ultra petita e violação à Súmula 381 do STJ" (fl. 841).
+As contrarrazões foram apresentadas às fls. 862-868.
+O recurso especial foi inadmitido na origem (fls. 875-877).
+Sem contraminuta do agravo.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Inicialmente, o recurso especial não é a via adequada para apreciar ofensa a enunciado de súmula, que não se insere no conceito de lei federal previsto no art. 105, III, a, da Constituição Federal (Súmula n. 518 do STJ).
+Nos termos do art. 492 do CPC, é vedado ao juiz proferir decisão de natureza diversa da pedida, bem com condenar a parte em quantidade superior ou em objeto diverso do que lhe foi demandado.
+Por sua vez, o mesmo diploma legal, no art. 141, dispõe que "o juiz decidirá o mérito nos limites propostos pelas partes, sendo-lhe vedado conhecer de questões não suscitadas a cujo respeito a lei exige iniciativa da parte".
+No caso, ao contrário do que alega a parte agravante, houve pleito de limitação dos juros de mora, conforme exposto no acórdão que apreciou os embargos de declaração, nos seguintes termos (fls. 811-812):
+Quanto ao decote dos juros moratórios, salienta-se que como foi pleiteada a limitação dos juros de mora a 1% ao mês, ainda que com base no Decreto-Lei n. 167, de 1967, perfeitamente possível a declaração de abusividade e decote dos juros de mora de 2%, posto que constatada a abusividade. Contrariamente ao alegado, em resposta aos quesitos A, D e 7, o Perito Judicial informou a cobrança dos encargos previstos para o caso de inadimplência, com exceção da multa que foi reduzida de 10% para 2% (ordem n. 20). A questão, inclusive, foi registrada na sentença (ordem n. 44):
+"Por fim, a prova pericial produzida é no sentido de que os encargos moratórios foram cobrados a partir do inadimplemento e na forma pactuada, exceção feita à multa, que foi reduzida de 10% (dez porcento) para 2% (dois por cento), "não tendo sido detectado nenhuma falha nos cálculos apresentados e juntados nas iniciais".
+Portanto, determinada a revisão dos encargos de inadimplência e constatada a sucumbência recíproca, não há equívoco na distribuição dos ônus sucumbenciais.
+Assim, o Tribunal de origem analisou a questão e, consequentemente, reviu juros moratórios.
+Portanto, a despeito das alegações da recorrente, não há falar em julgamento extra petita, porquanto o órgão julgador não desrespeitou os limites objetivos da pretensão inicial nem concedeu providência jurisdicional diversa da que fora requerida, em atenção ao princípio da congruência ou adstrição.
+Dessa forma, a decisão não ofende o princípio da congruência ou adstrição, o que afasta, por conseguinte, a violação dos arts. 141 e 492 do CPC.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ATRASO NA ENTREGA DE IMÓVEL. INDENIZAÇÃO. DANOS MATERIAIS. VIOLAÇÃO DOS ARTS. 141 E 492 DO CPC. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. DANOS MORAIS. CONFIGURAÇÃO. NECESSIDADE DE VERIFICAÇÃO DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. FUNDAMENTOS SUFICIENTES NÃO IMPUGNADOS. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. APLICAÇÃO DA SÚMULA N. 283 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. É vedado ao juiz proferir decisão de natureza diversa da pedida, bem com condenar a parte em quantidade superior ou em objeto diverso do que lhe foi demandado.
+2. Não há falar em julgamento extra petita quando o órgão julgador não desrespeitou os limites objetivos da pretensão inicial nem concedeu providência jurisdicional diversa da que fora requerida, em atenção ao princípio da congruência ou adstrição.
+3. Rever o entendimento do tribunal de origem acerca das premissas fáticas firmadas no caso demanda o reexame do suporte fático-probatório dos autos, o que é vedado em recurso especial, ante a incidência do óbice da Súmula n. 7 do STJ.
+4. O recurso especial que não ataca especificamente o fundamento adotado pela instância ordinária suficiente para manter o acórdão recorrido atrai, por analogia, a incidência da Súmula n. 283 do STF.
+5. Agravo interno desprovido. (AgInt no AREsp n. 2.154.844/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 6/3/2023, DJe de 9/3/2023.)
+No que se refere à alegada ofensa ao art. 86 do Código de Processo Civil, verifica-se que, sendo a controvérsia a distribuição da sucumbência, o Tribunal a quo, soberano no contexto fático-probatório, concluiu que houve sucumbência pela parte ora recorrente. Obsderve-se (fl. 812):
+Portanto, determinada a revisão dos encargos de inadimplência e constatada a sucumbência recíproca, não há equívoco na distribuição dos ônus sucumbenciais.
+Nesse contexto, para adotar conclusão diversa e acolher a tese recursal de indevida distribuição dos ônus da sucumbência, seria imprescindível o reexame fático-probatório dos autos, medida que encontra óbice na Súmula n. 7 do STJ.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE NEGÓCIO JURÍDICO. CONTRATO DE EMPRÉSTIMO. ART. 5º, LIV, LV E LXXVII, DA CF. ANÁLISE INVIÁVEL. COMPETÊNCIA DO STF. ART. 86 DO CPC. DISTRIBUIÇÃO DO ÔNUS DA SUCUMBÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. É incabível a pretensão de que o Superior Tribunal de Justiça delibere sobre suposta violação de dispositivos constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal.
+2. Averiguar a distribuição dos ônus da sucumbência para aferir a sucumbência mínima ou a recíproca demanda a incursão no acervo fático-probatório dos autos, medida vedada pela Súmula n. 7 do STJ no âmbito do recurso especial.
+3. Agravo interno desprovido. (AgInt nos EDcl no AREsp n. 2.216.192/BA, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 19/6/2023, DJe de 21/6/2023.)
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em favor do patrono da parte ora recorrida, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem -se.
+ EMENTA
