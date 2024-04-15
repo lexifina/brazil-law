@@ -1,0 +1,83 @@
+DECISÃO
+Cuida-se de Agravo em Recurso Especial e de Recurso Especial (art. 105, III, "a", da Constituição Federal) contra acórdão do Tribunal Regional Federal da 4ª Região cuja ementa é a seguinte:
+TRIBUTÁRIO. CRÉDITOS PRESUMIDOS DE ICMS. EXCLUSÃO DA BASE DE CÁLCULO DO PIS/COFINS NÃO CUMULATIVO. EXCLUSÃO DA BASE DE CÁLCULO DO IRPJ E DA CSL. LUCRO REAL. EXCLUSÃO DE CRÉDITOS PRESUMIDOS DE PIS/COFINS DA BASE DE CÁLCULO DO IRPJ/CSLL/PIS/COFINS.IMPOSSIBILIDADE
+1. Os créditos presumidos de ICMS não compõem a base de cálculo do PIS/COFINS apurados no sistema não cumulativo.
+2. O contribuinte tributado pelo lucro real tem o direito de excluir os créditos presumidos de ICMS da base de cálculo do IRPJ/CSL.
+3. O contribuinte não tem o direito de excluir da base de cálculo do IRPJ/CSLL/PIS/COFINS os créditos presumidos de PIS/COFINS, uma vez que inexiste lei que autorize sua exclusão, sendo certo que a legislação tributária deve ser interpretada literalmente quando dispõe sobre suspensão ou exclusão de crédito tributário (art. 111 do CTN).
+Na origem, cuida-se de Mandado de Segurança, objetivando a concessão de ordem que lhes autorize a não inclusão de crédito presumido de ICMS, e estorno de débitos, das bases de cálculo do IRPJ, CSLL, PIS e COFINS apurados na sistemática do lucro real, sob o fundamento de que o crédito presumido não constitui renda, receita ou acréscimo patrimonial, independentemente do preenchimento ou satisfação das condicionantes legais advindas com a Lei Complementar 160/2017. Requerendo, também, a exclusão dos créditos presumidos de PIS/COFINS da base de cálculo do IRPJ, CSLL, PIS e COFINS.
+Em primeiro grau a demanda foi julgada parcialmente procedente. Na segunda instância foi negado provimento às Apelões e dado parcial provimento à remessa necessária.
+A empresa contribuinte aponta (fls. 223-233, e-STJ) que foram violados os arts. 30, da Lei 12.973/2014 e 1º, § 3º, IX e X, da Lei 10.833/2003. Afirma que possui direito de exclusão dos valores de créditos presumidos PIS e Cofins, especificamente os tomados com fundamento na Lei 10.925/2004 (Programa "Mais Leite Saudável"), da base de cálculo do Imposto sobre a Renda (IRPJ), da Contribuição Social sobre o Lucro Líquido (CSLL), da contribuição ao PIS e da Contribuição para Financiamento da Seguridade Social (Cofins).
+Contrarrazões às fls. 368-416, e-STJ.
+Decisão de admissibilidade à fl. 419, e-STJ.
+A Fazenda Nacional, por sua vez, aduz (fls. 237-283, e-STJ) que foram violados os arts. 1.022, II, do CPC; 44 e 111 do CTN; 2º da Lei 7.689/1988; 30 da Lei 12.973/2014; 37, § 2º, e 44 da Lei 4.506/1964; e 10 da LC 160/2017. Defende a impossibilidade de exclusão do crédito presumido de ICMS da base de cálculo do IRPJ e da CSLL quando não caracterizado como subvenção de investimento, bem como que
+Contrarrazões às fls. 341-353, e-STJ.
+O juízo de admissibilidade negativo deu ensejo à interposição do Agravo de fls. 432-448, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 1º de março de 2024.
+A Corte de origem assim consignou ao decidir a matéria (fls. 163-168, e-STJ, girfei):
+A impossibilidade da exclusão de créditos presumidos de PIS/COFINS já foi definida por ambas as Turmas tributárias desta Corte, em face da ausência de previsão legal para tanto:
+(..)
+Adoto, quanto ao tema, a fundamentação expendida pelo Juiz Federal Alexandre Rossato da Silva Ávila por ocasião do julgamento, por esta Turma, da AC 5004547-47.2018.4.04.7104:
+O Programa Mais Leite Saudável - PMLS consiste em um incentivo à realização de investimentos destinados a auxiliar produtores rurais de leite, com a autorização para que as agroindústrias e cooperativas de leite participantes utilizem de créditos presumidos de PIS/COFINS. O benefício fiscal possui amparo na Lei nº 10.925, de 2004.
+Por sua vez, o Decreto nº 8.533/2015, ao regulamentar o art. 9º-A da Lei nº 10.925/04, instituiu oficialmente o Programa Mais Leite Saudável.
+(..)
+O benefício fiscal de crédito presumido da contribuição ao PIS e da COFINS encontra-se regulado, no caso dos autos, pela Lei nº 10.925/2004, regulamentada pelo Decreto nº 8.533/2015.
+Não há legislação tributária autorizando de forma expressa a exclusão de créditos presumidos da contribuição ao PIS e da COFINS das bases de cálculo do IRPJ e da CSLL.
+(..)
+Em relação aos créditos presumidos de PIS e COFINS, no entanto, não cabe a pretendida analogia com o EREsp n.º EREsp 1517492/PR, relativo aos créditos presumidos de ICMS, mas, sim, com os julgados que se referem aos créditos presumidos de IPI.
+Isso porque não há, no caso, a violação ao pacto federativo. Sendo todos os tributos instituídos pela União (PIS/COFINS e CSLL/IRPJ) não se cogita de tributação de incentivos concedidos por ente diverso.
+(..)
+Não se aplica, por outro lado, o disposto no art. 30 da Lei n.º 12.973/2014, segundo o qual "as subvenções para investimento, inclusive mediante isenção ou redução de impostos, concedidas como estímulo à implantação ou expansão de empreendimentos econômicos e as doações feitas pelo poder público não serão computadas na determinação do lucro real, desde que seja registrada em reserva de lucros a que se refere o art. 195-A da Lei no 6.404, de 15 de dezembro de 1976", porque o § 4º se refere apenas "aos incentivos e os benefícios fiscais ou financeiro-fiscais relativos ao imposto previsto no inciso II do caput do art. 155 da Constituição Federal, concedidos pelos Estados e pelo Distrito Federal", o que não se aplica no caso concreto, porquanto, como se sabe, os créditos presumidos de PIS e COFINS são benefícios concedidos pela União, mesmo ente tributante do IRPJ e da CSLL.
+Assim, inexistindo lei que autorize a exclusão do crédito presumido de PIS/COFINS da base de cálculo do IRPJ/CSLL e do PIS/COFINS, e considerando que o artigo 111 do CTN determina que a legislação tributária deve ser interpretada literalmente quando dispõe sobre suspensão e/ou exclusão de crédito tributário, não há como acolher o pedido da impetrante.
+2.2 Exclusão de créditos presumidos de ICMS da base de cálculo do IRPJ/CSLL
+No âmbito infraconstitucional, a Primeira Seção do Superior Tribunal de Justiça, por ocasião do julgamento dos EREsp. n. 1.517.492/PR (rel. Ministro Og Fernandes, rel. p/ Acórdão Ministra Regina Helena Costa, DJe 01/02/2018) assentou o entendimento de que o crédito presumido de ICMS não pode integrar a base de cálculo do IRPJ e da CSLL, sob pena de violação ao Pacto Federativo (art. 150, VI, "a", da CF/88):
+(..)
+Por outro lado, em julgados posteriores, o Superior Tribunal de Justiça, considerando expressamente as inovações legislativas introduzidas pela Lei 12.973/14 e alterações da LC nº 160/2017, entendeu pela exclusão incondicionada dos créditos presumidos de ICMS da base de cálculo do IRPJ e da CSLL, não fazendo, a este respeito, qualquer tipo de limitação. A propósito, veja- se o seguinte precedente:
+(..)
+O entendimento de que o contribuinte do IRPJ/CSLL apurados pelo lucro real tem o direito de excluir das respectivas bases de cálculo os créditos presumidos de ICMS independentemente do cumprimento dos requisitos dispostos no art. 30 da Lei 12.973/14 e alterações da LC nº 160/2017 vem sendo reiterado por ambas as Turmas tributárias desta Corte, como se pode ver das ementas abaixo transcritas:
+(..).
+1) Recurso Especial da Fazenda Nacional
+A agravante impugnou de forma específica todos os óbices que o Tribunal de origem apontou para justificar a inadmissibilidade do Apelo. Conheço, portanto, do Agravo para analisar diretamente o Recurso Especial.
+Preliminarmente, constato que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que a Corte a quo julgou integralmente a lide e solucionou a controvérsia.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+O aresto de origem está em sintonia com a orientação do STJ, uma vez que a Primeira Seção, por ocasião do julgamento dos EREsp 1.517.492/PR, pacificou o entendimento da não inclusão do crédito presumido de ICMS nas bases de cálculo do IRPJ e da CSLL, ao fundamento de que a incidência de tributo federal sobre o incentivo fiscal de ICMS ofenderia o princípio federativo.
+A superveniência da Lei Complementar 160/2017, que promoveu alteração no art. 30 da Lei 12.973/2014, e passou a enquadrar o incentivo fiscal estadual como subvenção para investimento, não tem o condão de alterar o entendimento desta Corte de que a tributação federal do crédito presumido de ICMS representa violação do princípio federativo. Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CRÉDITO PRESUMIDO DE ICMS. INCLUSÃO. BASES DE CÁLCULO DO IRPJ E DA CSLL. IMPOSSIBILIDADE. SUPERVENIÊNCIA DA LEI COMPLEMENTAR N. 160/2017. INAPLICABILIDADE.
+1. A Primeira Seção desta Corte, por ocasião do julgamento dos EREsp 1.517.492/PR, pacificou o entendimento da não inclusão do crédito presumido de ICMS nas bases de cálculo do IRPJ e da CSLL, ao fundamento de que a incidência de tributo federal sobre o incentivo fiscal de ICMS ofenderia o princípio federativo.
+2. A superveniência da Lei Complementar n. 160/2017, que promoveu alteração no art. 30 da Lei n. 12.973/2014, e passou a enquadrar o incentivo fiscal estadual como subvenção para investimento, não tem o condão de alterar o entendimento desta Corte de que a tributação federal do crédito presumido de ICMS representa violação do princípio federativo.
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt nos EREsp 1.528.697/SC, Rel. Min. Og Fernandes, Primeira Seção, DJe 12/8/2021)
+TRIBUTÁRIO. CRÉDITO PRESUMIDO DE ICMS. BASES DE CÁLCULO DO IRPJ E DA CSLL. INCLUSÃO. IMPOSSIBILIDADE. SUPERVENIÊNCIA DA LEI COMPLEMENTAR N. 160/2017. INAPLICABILIDADE.
+1. A Primeira Seção, no julgamento do AgInt nos EREsp 1.528.697/SC, decidiu pela não inclusão do crédito presumido de ICMS nas bases de cálculo do IRPJ e da CSLL, salientando que a superveniência da Lei Complementar n. 160/2017, que promoveu alteração no art. 30 da Lei n. 12.973/2014, não alterou o entendimento de que a tributação do crédito presumido de ICMS representaria violação do princípio federativo.
+2. Na mesma oportunidade, a Primeira Seção firmou a compreensão de que " a  superveniência da Lei complementar n. 160/2017, que promoveu alteração no art. 30 da Lei n. 12.973/2014, e passou a enquadrar o incentivo fiscal estadual como subvenção para investimento, não tem o condão de alterar o entendimento desta Corte de que a tributação federal do crédito presumido de ICMS representa violação do princípio federativo" (AgInt nos EREsp 1.528.697/SC, Rel. Ministro Og Fernandes, Primeira Seção, julgado em 29/06/2021, DJe 12/08/2021).
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.105.327/RS, Rel. Min. Gurgel de Faria, Primeira Turma, DJe de 17/2/2023.)
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CRÉDITO PRESUMIDO DE ICMS. INCLUSÃO NA BASE DE CÁLCULO DO IRPJ E DA CSLL. IMPOSSIBILIDADE. ERESP 1.517.492/PR. FATO SUPERVENIENTE. CLASSIFICAÇÃO DOS CRÉDITOS PRESUMIDOS DE ICMS COMO SUBVENÇÕES PARA INVESTIMENTO. IMPOSSIBILIDADE DE EXTENSÃO DO ENTENDIMENTO PARA TODO E QUALQUER BENEFÍCIO FISCAL CONCEDIDO. OBSERVÂNCIA DA RATIO DECIDENDI DO REFERIDO JULGADO DESTA CORTE, NO QUE TANGE À PROTEÇÃO DO PACTO FEDERATIVO. NECESSIDADE DE ANÁLISE, PELO TRIBUNAL DE ORIGEM, DAS PROVAS DOCUMENTAIS E DA LEGISLAÇÃO APLICÁVEL, SOB PENA DE SUPRESSÃO DE INSTÂNCIA. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. A Primeira Seção do STJ, no julgamento dos EREsp 1.517.492/PR (Rel. p/ acórdão Ministra REGINA HELENA COSTA, DJe de 01/02/2018), firmou entendimento no sentido de que não é possível a inclusão de créditos presumidos de ICMS na base de cálculo do Imposto sobre a Renda da Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL, por representar interferência da União na política fiscal adotada por Estado-membro, configurando ofensa ao princípio federativo e à segurança jurídica.
+III. A Segunda Turma do STJ, em recente julgado, debruçou-se sobre o tema, entendendo pela impossibilidade de extensão do entendimento fixado no julgamento dos EREsp 1.517.492/PR, por se tratar de situação específica de proteção do Pacto Federativo (STJ, REsp. 1.968.755/PR, SEGUNDA TURMA, Rel. Ministro MAURO CAMPBELL MARQUES, DJe de 08/04/2022).
+IV. Nos termos do entendimento fixado pela Segunda Turma deste Egrégio Tribunal, no julgamento do REsp 1.968.755/PR, considerando a necessidade de exame de provas e sob pena de supressão de instância, os autos devem retornar ao Tribunal de origem, para análise do caso à luz da legislação aplicável e provas documentais.
+V. Agravo interno improvido.
+(AgInt no REsp n. 1.986.022/RS, Rel. Min. Assusete Magalhães, Segunda Turma, DJe de 19/12/2022.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. CRÉDITO PRESUMIDO DE PIS E COFINS. BASE DE CÁLCULO DO IRPJ E DA CSLL. EXCLUSÃO. IMPOSSIBILIDADE.
+1. Ambas as Turmas da Seção de Direito Público desta Corte Superior firmaram o posicionamento no sentido da impossibilidade de excluir os créditos presumidos do PIS e da COFINS da base de cálculo do IRPJ e da CSLL. Precedentes.
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.981.663/RS, Rel. Min. Sérgio Kukina, Primeira Turma, DJe de 14/11/2022.)
+2) Recurso Especial de Laticínio Schotten Ltda.
+A empresa alega que que possui direito de exclusão dos valores de créditos presumidos PIS e Cofins, especificamente os tomados com fundamento na Lei 10.925/2004 (Programa "Mais Leite Saudável"), da base de cálculo do IRPJ, CSLL, PIS e COFINS.
+O Colegiado regional utilizou fundamento autônomo e suficiente para manter o aresto recorrido ao afirmar que "não se aplica, por outro lado, o disposto no art. 30 da Lei n.º 12.973/2014, segundo o qual "as subvenções para investimento, inclusive mediante isenção ou redução de impostos, concedidas como estímulo à implantação ou expansão de empreendimentos econômicos e as doações feitas pelo poder público não serão computadas na determinação do lucro real, desde que seja registrada em reserva de lucros a que se refere o art. 195-A da Lei no 6.404, de 15 de dezembro de 1976", porque o § 4º se refere apenas "aos incentivos e os benefícios fiscais ou financeiro-fiscais relativos ao imposto previsto no inciso II do caput do art. 155 da Constituição Federal, concedidos pelos Estados e pelo Distrito Federal", o que não se aplica no caso concreto, porquanto, como se sabe, os créditos presumidos de PIS e COFINS são benefícios concedidos pela União, mesmo ente tributante do IRPJ e da CSLL." (fl. 165, e-STJ, grifei).
+O recorrente, entretanto, nas razões recursais (fls. 223-233, e-STJ), não se debruçou acerca dos argumentos do TRF4 para a não aplicação do art. 30 da Lei 12.973/2014, constituindo vício na fundamentação de seu Apelo.
+Padece de irregularidade formal o Recurso "em que o recorrente descumpre seu ônus de impugnar especificamente os fundamentos do acórdão recorrido, deixando de atender ao princípio da dialeticidade" (AgRg no RMS 44.887/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 11/11/2015). Incide, ao caso, a Súmula 283/STF. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. POLICIAIS MILITARES. AÇÃO DE COBRANÇA. DIREITO RECONHECIDO EM MANDADO DE SEGURANÇA COLETIVO. NÃO OCORRÊNCIA DE TRÂNSITO EM JULGADO DO MANDAMUS. SUSPENSÃO DO PROCESSO. FUNDAMENTAÇÃO AUTÔNOMA NÃO IMPUGNADA E ARGUMENTAÇÃO RECURSAL DEFICIENTE. SÚMULAS 283 E 284 DO STF. INTERRUPÇÃO DO PRAZO PRESCRICIONAL PELA IMPETRAÇÃO DO WRIT. PRECEDENTES. PRESCRIÇÃO LIMITADA ÀS PARCELAS ANTERIORES AO QUINQUÊNIO QUE ANTECEDEU O AJUIZAMENTO DA AÇÃO MANDAMENTAL.
+1. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem e a apresentação de argumentação recursal deficiente impedem a admissão do apelo especial. Incidem ao caso as Súmulas 283 e 284 do STF.
+(..)
+3. Agravo interno não provido.
+(AgInt no REsp 1.878.208/SP, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 11/12/2020)
+3) Conclusão
+Diante do exposto, conheço do Agravo para negar provimento ao Recurso Especial da Fazenda Nacional; e não conheço do Recurso Especial de Laticínio Schotten Ltda.
+Publique-se.
+Intimem-se.
+EMENTA
