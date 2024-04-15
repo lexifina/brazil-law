@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/04/2024 a 15/04/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO NO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. ANÁLISE DE OFENSA A MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade ou contradição, ou ainda a corrigir erro material, não se c aracterizando via própria ao rejulgamento da causa.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por Neuza Alves Pagnossin e outros ao acórdão da Terceira Turma desta Corte assim ementado (e-STJ, fls. 459-460):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVO OU TESE. SÚMULAS N. 282 DO STF E 211 DO STJ. VIOLAÇÃO À COISA JULGADA. NÃO OCORRÊNCIA. ERRO MATERIAL. CARACTERIZAÇÃO. CORREÇÃO DE OFÍCIO. POSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO INCIDÊNCIA, NA ESPÉCIE. AGRAVO INTERNO DESPROVIDO.
+1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial - Súmulas n. 282/STF e 211/STF. Também não é o caso de se considerar a ocorrência do prequestionamento ficto/implícito.
+2. Com efeito, "a doutrina e a jurisprudência firmaram entendimento de que, constatado erro material, admite-se seja corrigido, de oficio ou a requerimento da parte, ainda que haja trânsito em julgado da sentença. Inteligência do art. 463, I, do CPC. Precedentes do STJ" (AgInt no AREsp 828.816/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 21/9/2016).
+2.1. Na hipótese, o Tribunal estadual constatou que tratava-se de evidente erro material, portanto passível de correção a qualquer tempo, além de não haver que falar em ofensa à coisa julgada, consignou ainda que o título judicial previu expressamente que o valor da indenização por danos morais teria por base o salário mínimo vigente à época do pagamento, com início no ano de 2017, sendo assim, descabe retroagir a atualização monetária à data do arbitramento da indenização, ou seja, da sentença proferida em 2003. Essas ponderações acerca da carência de prova do prévio pleito administrativo ao ajuizamento da ação de prestação foram extraídas da análise fático-probatória da causa - aplicação da Súmula 7/STJ, não sendo caso de revaloração de prova.
+3. A incidência do óbice imposto pela Súmula 7/STJ impede a apreciação da divergência jurisprudencial, diante da constatação da ausência de similitude fático-jurídica entre os julgados confrontados.
+4. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+5. Agravo interno desprovido.
+Em suas razões, os embargantes apontam vícios na decisão embargada.
+Para tanto, sustentam, no seu entender, que a legislação sobre a matéria objeto do recurso especial foi devidamente prequestionada perante o TJRS, além de que a falta de manifestação particularizada do Tribunal estadual, não pode prejudicar a análise do mérito do recurso.
+Aduzem ainda que ao manter as conclusões do Tribunal de origem sobre a incidência da correção monetária no valor do dano moral, não se manifestou sobre a distinção entre o erro material e o erro de julgamento.
+Defendem ao final, o afastamento das Súmulas 7 e 211/STJ e 282/STJ.
+Impugnação apresentada às fls. 502-511 (e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO NO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. ANÁLISE DE OFENSA A MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade ou contradição, ou ainda a corrigir erro material, não se c aracterizando via própria ao rejulgamento da causa.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração constituem modo de impugnação à decisão judicial de fundamentação vinculada, sendo cabíveis tão somente nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, quais sejam, omissão, obscuridade e contradição, bem como para sanar erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, com o intuito de prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas, excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os declaratórios a modificar o julgado.
+Dito isso, não merece acolhimento o apontado vício na decisão embargada.
+Isso porque, da leitura do acórdão embargado constatou-se que não houve debate do ponto de vista da infringência aos art. 9º, 10, 141, 495, § 1º, do CPC/2015, apesar da oposição de embargos de declaração, não havendo, portanto, o devido prequestionamento, o que atrai os óbices das Súmulas 282 do STF e 211 do STJ, além de não ser o caso de considerar a ocorrência de prequestionamento ficto ou implícito.
+Também ficou esclarecido que o aresto recorrido foi categórico em afirmar que tratava-se de evidente erro material, o qual nos termos da jurisprudência desta Corte Superior, é passível de correção a qualquer tempo, bem como de não haver ofensa à coisa julgada e que no título judicial havia previsão expressa sobre o valor da indenização por danos morais, descabendo retroagir a atualização monetária à data do arbitramento da indenização.
+Essas conclusões decorreram da análise do cenário fático insculpido pelas instâncias ordinárias, imutável na presente via especial, não comportando acolhimento, em atenção ao óbice das Súmulas 7 e 83 desta Corte Superior, além de não ser caso de revaloração de prova.
+Ressaltou-se ainda que, a análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula n. 7/STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e o aresto paradigma, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Desse modo, ao analisar a questão aduzida nas razões recursais, decidiu-se por aplicar, em relação ao tema o entendimento jurisprudencial cabível à espécie, além dos óbices sumulares de forma clara e fundamentada, sem incorrer nos vícios de obscuridade, contradição, omissão ou erro material, com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Por conseguinte, a decisão embargada não possui vício a ser sanado por meio dos embargos de declaração, apenas se constata o nítido caráter modificativo da parte embargante, medida inadmissível nesta espécie recursal.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+No que diz respeito ao pleito trazido na impugnação aos declaratórios de aplicação da multa do art. 1.026, § 2º, do CPC/2015, constata-se que não está configurado, por ora, o manifesto intuito protelatório capaz de ensejar a aplicação da sanção.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
