@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/04/2024 a 15/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. AGRAVO INTERNO NÃO PROVIDO. EMBARGOS À EXECUÇÃO CONTRA A FAZENDA PÚBLICA. MUNICÍPIO DE TREMEDAL. JUROS DE MORA E CORREÇÃO MONETÁRIA. ALTERAÇÃO DOS CRITÉRIOS ESTABELECIDOS NO TÍTULO. DECISÃO TRANSITADA EM JULGADO. IMPOSSIBILIDADE. COISA JULGADA.
+1. O STJ perfilha o entendimento de que é necessária a impugnação específica de todos os fundamentos que inadmitiram o Agravo em Recurso Especial, sob pena de não conhecimento, por aplicação da Súmula 182/STJ.
+2. No Agravo em REsp (fls. 252-264, e-STJ), a parte não combateu os fundamentos da decisão de inadmissibilidade do Recurso Especial: a) incompetência do STJ para examinar violação a dispositivo constitucional (art. 5º, LIV e LV, da CF); b) ausência de negativa de prestação jurisdicional; e c) ausência de comprovação do dissídio jurisprudencial.
+3. A falta de impugnação específica faz incidir na espécie a Súmula 182/STJ, que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+4 . Agravo Interno não provido.
+RELATÓRIO
+Trata-se de Agravo Interno contra decisão (fls. 375-378, e-STJ) que não conheceu do Agravo em Recurso Especial.
+A parte agravante aduz ter impugnado a decisão que inadmitiu o Recurso Especial. Alega, em suma (fls. 389-390, e-STJ):
+Fora combatido todos os pontos da decisão denegatória, pois acusou a ausência de delimitação de lei, por se tratar de divergência jurisprudencial, fora acusado ser questão de ordem e mais, demonstrou-se que a questão de cópia do acórdão é desnecessária quando do repositório eletrônico, for fácil identificação e obtenção, não acusando o nobre Relator, qual fundamento que não fora combatido.
+Cumpre repisar que em sendo questão de ordem que pode ser alegado a qualquer tempo, até a emissão do precatório, os juros de mora aplicáveis ao ente público e tese pacificada por essa Corte Superior, quanto sua aplicação e mesmo reforma de decisão para adequação, sendo que o próprio STJ já entendeu por reformar sua própria decisão, após entendimento exarado pelo Supremo Tribunal Federal (..)
+Requer a reconsideração da decisão agravada ou o provimento, pelo Colegiado, do Agravo Interno.
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. AGRAVO INTERNO NÃO PROVIDO. EMBARGOS À EXECUÇÃO CONTRA A FAZENDA PÚBLICA. MUNICÍPIO DE TREMEDAL. JUROS DE MORA E CORREÇÃO MONETÁRIA. ALTERAÇÃO DOS CRITÉRIOS ESTABELECIDOS NO TÍTULO. DECISÃO TRANSITADA EM JULGADO. IMPOSSIBILIDADE. COISA JULGADA.
+1. O STJ perfilha o entendimento de que é necessária a impugnação específica de todos os fundamentos que inadmitiram o Agravo em Recurso Especial, sob pena de não conhecimento, por aplicação da Súmula 182/STJ.
+2. No Agravo em REsp (fls. 252-264, e-STJ), a parte não combateu os fundamentos da decisão de inadmissibilidade do Recurso Especial: a) incompetência do STJ para examinar violação a dispositivo constitucional (art. 5º, LIV e LV, da CF); b) ausência de negativa de prestação jurisdicional; e c) ausência de comprovação do dissídio jurisprudencial.
+3. A falta de impugnação específica faz incidir na espécie a Súmula 182/STJ, que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+4 . Agravo Interno não provido.
+VOTO
+Os autos foram recebidos neste Gabinete em 26.2.2024.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Ao inadmitir o Recurso, o Tribunal a quo consignou (fls. 241-242, e-STJ):
+De início, a alegada violação ao art. 5º, LIV, LV, da Carta Magna, não atrai a competência do Superior Tribunal de Justiça, eis que se trata de tarefa reservada ao Supremo Tribunal Federal, como expressamente prevê o art 102, III, a, da Constituição Federal.
+No tocante à alegada violação aos artigos 489, §1º, IV e 1022, II do CPC/2015 não se constata qualquer omissão no julgado que viabilize a ascensão do presente recurso, haja vista que o acórdão recorrido tratou de todas as matérias relevantes suscitadas no feito, emitindo pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão do recorrente é pacifico na Corte Infraconstitucional que o magistrado não está obrigado a rebater um a um os argumentos expendidos pelas partes, quando já encontrou fundamentação suficiente para decidir a lide.
+Demais disso, o recurso especial não pode ser conhecido pela alínea "c" do permissivo constitucional quando a parte, como ocorrido na espécie, não juntou as certidões ou Cópias dos acórdãos paradigmas, nem citou o repositório oficial, autorizado ou credenciado, em que estes esteiam publicados, conforme exigência prevista no art. 1029, §1º, do CPC/15, c/c 255, § 1º, do RISTJ.
+Em seu Agravo (fls. 252-264, e-STJ), a parte não combateu os fundamentos da decisão de inadmissibilidade: a) incompetência do STJ para examinar violação a dispositivo constitucional (art. 5º, LIV e LV, da CF); b) ausência de negativa de prestação jurisdicional; e c) falta de comprovação do dissídio jurisprudencial.
+O STJ perfilha entendimento de que é necessária a impugnação específica de todos os fundamentos que inadmitiram o Agravo em Recurso Especial, sob pena de não conhecimento, por aplicação da Súmula 182/STJ.
+A Corte Especial reafirmou tal posição no julgamento, em 19.9.2018, dos Embargos de Divergência em Agravo em Recurso Especial 746.775, publicado em 30.11.2018. Observe-se:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+(..) 2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p / Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe 30/11/2018)
+Dessa forma, a ausência de impugnação específica faz incidir na espécie a Súmula 182/STJ, que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento d STJ, não há prover o Agravo que contra ela se insurge.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja imposição da sanção quando não configurada a manifesta inadmissibilidade ou improcedência do Recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ao lume do exposto, nego provimento ao Agravo Interno.
+É como voto.
