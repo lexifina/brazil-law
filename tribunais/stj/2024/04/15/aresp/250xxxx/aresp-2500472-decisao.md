@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão cuja ementa é a seguinte:
+APELAÇÃO CÍVEL - AÇÃO ANULATÓRIA - ICMS - SIMPLES NACIONAL - SAÍDA DE MERCADORIAS DESACOBERTADAS DE DOCUMENTO FISCAL - PRINCÍPIO DA NÃO CUMULATIVIDADE - COMPENSAÇÃO - IMPOSSIBILIDADE. O contribuinte optante pelo Simples Nacional que efetuar operações de saída de mercadorias desacobertadas de documento fiscal se sujeita ao recolhimento do ICMS pela alíquota prevista na Lei Estadual n. 6.763/75. Conforme entendimento do STF, "A opção pelo Simples Nacional é facultativa e tomada no âmbito da livre conformação do planejamento tributário, devendo-se arcar com o bônus e o ônus dessa escolha empresarial. À luz da separação dos poderes, não é dado ao Poder Judiciário mesclar as parcelas mais favoráveis de regimes tributários distintos, culminando em um modelo híbrido, sem o devido amparo legal." (RE 970821). A opção pelo Simples Nacional não excluiu a obrigatoriedade do recolhimento do ICMS incidente nas operações desacobertadas de documento fiscal, cabendo a cobrança na forma do artigo 13, §1º, XIII, "f", da LC 123/2006, observada a vedação de apropriação ou compensação de créditos para os contribuintes do Simples Nacional em qualquer hipótese, nos termos do artigo 23 da citada Lei Complementar, diante da ausência de previsão na legislação estadual de compensação do ICMS recolhido na entrada.
+OsEm seu Recurso Especial, a agravante sustenta que ocorreu violação dos arts. 489 e 1.022 do CPC/2015 e do art. 20 da LC 87/1996. Aduz:
+(..)
+Ocorre que, a constatação sobre a não aplicação do princípio da não cumulatividade decorrer da apuração com a consideração apenas do valor das saídas desacobertadas de documento fiscal, que foram confessadas como base de cálculo por imposição do Fisco (já que se não fosse confessada espontaneamente, haveria lançamento de ofício), haja vista que para a apuração do ICMS é imprescindível a compensação com o imposto que incidiu nas operações de aquisição.
+(..)
+Desconsiderando totalmente o disposto no princípio da não cumulatividade, o Recorrido exigiu que fosse confessado o ICMS incidente sobre o valor das saídas desacobertadas mas não autorizou a dedução/aproveitamento, quando da apuração do tributo, do valor do ICMS que incidiu nas entradas.
+(..)
+Assim, não admitir o direito ao crédito das entradas, viola o princípio da não cumulatividade, posto que se houve a saída presumida, é porque houve a entrada. "Somente sai o que entra". Ao não permitir o creditamento do imposto que incidiu na operação de aquisição, os agentes fiscais atuaram em rumo oposto ao que vem decidindo o STJ:
+(..)
+Resta, portanto, devidamente demonstrada a violação ao artigo 20 da LC 87/96, que dispões sobre o sistema e técnica não cumulativa do imposto, já que o v. acórdão julgou valido o lançamento que exige o ICMS sobre saídas presumidas contrariando, de forma incontestável, a ordem infraconstitucional que rege a cobrança do imposto estadual -ICMS -que será não-cumulativo, compensando-se o que for devido em cada operação relativa à circulação de mercadorias ou prestação de serviços com o montante cobrado nas anteriores.
+(..)
+Saliente-se que, no que pese a adesão da Recorrente a sistemática do Simples Nacional, o crédito tributário questionado não foi apurado com base no Simples nacional, mas com base no sistema normal de débito/credito, à alíquota de 18%.
+É cediço que, na sistemática do Simples Nacional, é vedado ao contribuinte a apropriação ou compensação de créditos em qualquer hipótese, sendo que a Recorrente estava ciente de tal regulamentação e, sob os tributos apurados com base no SIMPLES NACIONAL, não se requer o creditamento do imposto.
+Contudo, é exatamente a condição da Recorrente de optante do Simples Nacional que denota a violação à legislação federal existente no v. acórdao, pois, quando da constituição do crédito tributário não foi constituído o crédito tributário com base no Simples Nacional, mas com base no regime normal de débito e crédito, mas não lhe foi concedido o direito ao creditamento do imposto incidente nas entradas.
+Contraminuta às fls. 942-946, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 13.3.2024.
+Preliminarmente, constata-se que não se configura a ofensa aos arts. 489 e 1.022 do Código de Processo Civil/2015, pois o Colegiado estadual julgou integralmente a lide e solucionou a demanda tal como lhe foi apresentada. A propósito:
+ADMINISTRATIVO. PROCESSUAL CIVIL. (..) VIOLAÇÃO AOS ARTS. 489, § 1º E 1.022, II, DO CPC/15. (..)
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+(..)
+(AgInt no REsp 1.630.265/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 6/12/2016.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. (..) VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. (..)
+1. Inexiste violação aos artigos 489 e 1.022 do CPC/2015, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda de forma clara e precisa.
+(..)
+(AgInt no AREsp 801.104/DF, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 13/10/2016.)
+O órgão julgador dirimiu a controvérsia nestes termos:
+Conforme artigo 155, §2º, inciso I, o ICMS será "não-cumulativo, compensando-se o que for devido em cada operação relativa à circulação de mercadorias ou prestação de serviços com o montante cobrado nas anteriores pelo mesmo ou outro Estado ou pelo Distrito Federal".
+(..)
+Assim, em regra, seja em operações ou prestações interestaduais, onde se calcula e recolhe a diferença entre a alíquota do estado de origem e de destino, seja naquelas ocorridas dentro do próprio estado, o sujeito passivo irá compensar o imposto recolhido na fase anterior com o devido na fase posterior.
+Ainda de acordo com o §2º do artigo 155 da Constituição da República, inciso II, alíneas "a" e "b", a isenção ou não-incidência, salvo determinação em contrário da legislação, "não implicará crédito para compensação com o montante devido nas operações ou prestações seguintes" e "acarretará a anulação do crédito relativo às operações anteriores".
+Na sistemática do Simples Nacional, contudo, não há possibilidade de compensação, tanto em razão do recolhimento único como em razão da vedação contida no artigo 23 da Lei Complementar n.123/2006, que assim dispõe: "as microempresas e as empresas de pequeno porte optantes pelo Simples Nacional não farão jus à apropriação nem transferirão créditos relativos a impostos ou contribuições abrangidos pelo Simples Nacional".
+Ao tratar do ICMS incidente sobrea saída de mercadoria desacobertada de documento fiscal, a Lei Complementar n. 123/06 estabelece:
+(..)
+Portanto, o contribuinte optante pelo Simples Nacional que efetuar operações de saída de mercadorias desacobertadas de documentação fiscal se sujeita ao recolhimento do ICMS pela alíquota prevista na Lei Estadual n. 6.763/75, que prevê a alíquota de 18% nas operações gerais, nestes termos:
+(..)
+No caso em apreço, consoante Termo de Autodenúncia 05.000.306.236-60, o crédito tributário impugnado decorrede ICMS apurado nas saídas de mercadorias desacobertadas de documentação fiscal, ao confrontar a receita de venda anual esperada com o faturamento anual declarado na DEFIS, incidindo a alíquota prevista em Lei para o caso de 18%.
+(..)
+Nota-se que a apelante era optante do Simples Nacional, tendo o colendo SUPREMO TRIBUNAL FEDERAL firmado o entendimento de que "Não ofende a técnica da não cumulatividade a vedação à apropriação, transferência ou compensação de créditos relativos a impostos ou contribuições abrangidos pelo Simples Nacional, inclusive o diferencial de alíquota" (RE 970821, Tribunal Pleno, julgado em 12/05/2021).
+Não obstante no RE 970821 a controvérsia verse sobre a aplicação de diferencial de alíquota de ICMS à empresa optante pelo Simples Nacional, as razões de decidir do julgamento proferido no Tema 517/STF aplicam-se ao caso concreto.
+Com efeito, consoante destacado pelo Relator, eminente Ministro EDSON FACHIN, o artigo23 da LC 123/06 veda expressamente a apropriação ou compensação de créditos relativos a impostos ou contribuições abrangidos pelo Simples Nacional, sendo a opção pelo Simples Nacional facultativa, motivo pelo qual deve o contribuinte arcar com os bônus e ônus decorrentes dessa escolha, revelando-se "inviável ao Poder Judiciário mesclar as parcelas mais favoráveis dos regimes tributários culminando em um modelo híbrido, sem qualquer amparo legal"; precedente que deve ser aplicado ao caso dos autos.
+Assim, a opção pelo Simples Nacional não excluiu a obrigatoriedade do recolhimento do ICMS incidente nas operações desacobertadas de documento fiscal, cabendo ao contribuinte o pagamento do tributo na forma do artigo 13, §1º, XIII, "f", da LC123/2006, observada a vedação de apropriação ou compensação de créditos para os contribuintes do Simples Nacional em qualquer hipótese, nos termos do artigo 23 da citada Lei Complementar, diante da ausência de previsão na legislação estadual de compensação do ICMS recolhido na entrada.
+Da leitura dos autos, verifico que, muito embora tenham sido citados dispositivos infraconstitucionais, a matéria foi analisada sob enfoque eminentemente constitucional. Descabe, pois, a esta Corte examinar a questão, porquanto reverter o julgado significaria usurpar a competência do STF. Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. REGIME DE DESONERAÇÃO DA FOLHA. ACÓRDÃO COMBATIDO. FUNDAMENTAÇÃO EXCLUSIVAMENTE CONSTITUCIONAL. EXAME NA VIA ESPECIAL. IMPOSSIBILIDADE.
+1. É entendimento assente no STJ que, examinada a matéria em debate sob o enfoque eminentemente constitucional, mostra-se inviável a análise da questão em sede de recurso especial, sob pena de usurpação da competência do STF. Precedentes.
+2. Hipótese em que o Tribunal de origem decidiu a controvérsia com base em fundamento predominantemente constitucional de que não existe direito adquirido a regime jurídico instituído por lei e de que a Contribuição Previdenciária sobre a Receita Bruta (CPRB) foi criada com a finalidade de ser um benefício tributário (desoneração da folha), não havendo nenhum óbice à sua revogação, desde que observadas a anterioridade nonagesimal e a irretroatividade, como garantia da segurança jurídica do contribuinte.
+3. "A análise de matéria constitucional, inclusive para verificar se seria caso de ofensa reflexa, não é de competência desta Corte, mas, sim, do Supremo Tribunal Federal, por expressa determinação da Constituição Federal" (AgRg no REsp 1506024/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/10/2015, DJe 05/11/2015).
+4. Agravo interno desprovido.
+(AgInt no REsp 1.927.847/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 12/4/2022.)
+Ante o exposto, conheço do Agravo para conhecer parcialmente do Recurso Especial, tão somente quanto à afronta aos arts. 489 e 1.022 do CPC/2015, e, nessa extensão, negar-lhe provimento.
+Publique-se.
+Intimem-se.
+EMENTA
