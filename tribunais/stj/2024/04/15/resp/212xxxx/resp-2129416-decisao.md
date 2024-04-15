@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de recurso especial interposto por SILVIA ERIKA DE CARVALHO, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado (fl. 518 e-STJ):
+ADMINISTRATIVO. PRETENSÃO À INDENIZAÇÃO DE DANOS MORAIS. MILITAR REINTEGRADA AO SERVIÇO MILITAR EM FACE DE SENTENÇA PROLATADA EM PROCESSO ANTERIOR. INEXISTÊNCIA DO DIREITO. PROVIMENTO DO APELO.
+1. Numa primeira ação, militar excluída do serviço por pretensa incapacidade para os atos da vida militar, obteve sentença que, transitada em julgado, lhe assegurou o retorno ao serviço;
+2. Agora, em nova demanda, postula o recebimento de indenização dos danos morais que teria sofrido, por ter experimentado a exclusão indevida, entendendo que decorrente de perseguição político-administrativa, ficando temporariamente privada da realização de seus sonhos e de sua remuneração;
+3. Indiscutível que a autora venceu a primeira ação e se acha reintegrada ao serviço. Contudo, o fato de ser constrangida a ingressar em juízo para satisfazer um direito não reconhecido pela administração, malgrado possa causar sofrimento cuja intensidade varia em função da sensibilidade de cada um, não enseja indenização autônoma. A ser deste modo, toda ação acolhida deveria ensejar indenização. O constrangimento na hipótese dos autos não é diverso de qualquer outro e menor do que muitos, como a espera por benefícios previdenciários, por concessão de remédios adoentes, habitação a desabrigados, etc. Enfim a lista é interminável;
+4. Inexistindo dano indenizável, dar-se provimento à apelação, para julgar-se improcedente o pedido, invertidos os ônus da sucumbência
+Os embargos de declaração foram rejeitados em acórdão ementado nos seguintes termos (fl. 552 e-STJ):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. VÍCIO. INOCORRÊNCIA. REJULGAMENTO. IMPOSSIBILIDADE.
+1. Inviável a utilização dos embargos declaratórios sob a alegação de pretensa omissão quando, na verdade, se almeja a reapreciação da matéria de mérito;
+2. O simples propósito de prequestionamento da matéria não acarreta a admissibilidade dos embargos declaratórios se o acórdão embargado não padece de qualquer omissão, obscuridade ou contradição;
+3. Embargos de declaração desprovidos .
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, o recorrente sustenta violação aos artigos 1.022, II, parágrafo único, II e 489, §1º, II, III, IV e V, do CPC/15, asseverando, em síntese, que houve "omissão do julgado, que, ao não fundamentar devidamente o acórdão que deu provimento à apelação interposta pela União, violou as normas processuais colacionadas acima, bem como os art. 186, 187 e 927 do Código Civil, pois não aplicou o regramento explícito sobre os elementos da responsabilidade civil" (fl. 569 e-STJ).
+Contrarrazões ao recurso especial às fls. 575/584 e-STJ.
+Decisão de admissibilidade à fl. 586 e-STJ.
+É o relatório. Decido.
+Na hipótese dos autos, cuida-se de ação indenizatória proposta em face da União, decorrente de exclusão indevida do quadro da Polícia Militar por alegada perseguição político-administrativa, com posterior reintegração ao cargo por processo judicial com sentença transitada em julgado.
+No tocante à indicada violação aos arts. 489 e 1.022 do CPC/2015, verifica-se que o Tribunal de origem apreciou a integralidade da controvérsia de modo a entender que a parte autora não faz jus à indenização por danos morais, pois, apesar do sofrimento que que a situação pode ter lhe causado, a necessidade de ingressar em juízo para ser reintegrada ao serviço militar não lhe dá direito à indenização pleiteada.
+A propósito, o seguinte excerto do acórdão recorrido (fl. 516 e-STJ):
+Passando-se a análise do mérito propriamente dito, verifica-se que, numa primeira ação, a autora, na condição de militar excluída do serviço por pretensa incapacidade para os atos da vida militar, obteve sentença que, transitada em julgado, lhe assegurou o retorno ao serviço.
+Agora, em nova demanda, postula a requerente o recebimento de indenização dos danos morais que teria sofrido, por ter experimentado a exclusão indevida, entendendo que decorrente de perseguição político-administrativa, sob alegação de teria ficado temporariamente privada da realização de seus sonhos e de sua remuneração.
+Indiscutível que a autora venceu a primeira ação e se acha reintegrada ao serviço. Contudo, o fato de ser constrangida a ingressar em juízo para satisfazer um direito não reconhecido pela administração, malgrado possa causar sofrimento cuja intensidade varia em função da sensibilidade de cada um, não enseja indenização autônoma. A ser deste modo, toda ação acolhida deveria ensejar indenização. O constrangimento na hipótese dos autos não é diverso de qualquer outro e menor do que muitos, como a espera por benefícios previdenciários, por concessão de remédios a doentes, habitação a desabrigados, etc. Enfim a lista é interminável.
+Assim, inexistindo dano indenizável, é de se reformar a sentença e julgar improcedente o pedido.
+Mercê do exposto, DOU PROVIMENTO À APELAÇÃO
+Destaca-se que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa aos arts. 489 e 1.022 do CPC/2015, pois não há que se confundir entre decisão contrária aos interesses da parte e negativa de prestação jurisdicional.
+No mesmo sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONCURSO PÚBLICO PARA O CARGO DE PROCURADOR DE CONTAS DO MINISTÉRIO PÚBLICO ESPECIAL JUNTO AO TRIBUNAL DE CONTAS DO ESTADO DO CEARÁ. ALEGAÇÃO DE AFRONTA AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. DIREITO LOCAL. IMPOSSIBILIDADE DE REVISÃO. SÚMULA 280/STF. PROVA DE TÍTULOS. DIPLOMA DE DOUTORADO OBTIDO NO EXTERIOR. AUSÊNCIA DE REVALIDAÇÃO POR UNIVERSIDADE BRASILEIRA QUANDO DE SUA APRESENTAÇÃO À COMISSÃO DE CONCURSO. RECONHECIMENTO E CÔMPUTO DA PONTUAÇÃO. IMPOSSIBILIDADE. OBSERVÂNCIA AOS PRINCÍPIOS DA LEGALIDADE E DE VINCULAÇÃO AO EDITAL.
+ ..
+2. Na hipótese, não há falar em ofensa ao art. 1.022 do CPC, na medida em que o Tribunal a quo dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos, não se podendo, de acordo com a jurisprudência do Superior Tribunal de Justiça, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ ..
+9. Recurso especial parcialmente conhecido e, nessa parte, desprovido.
+(REsp n. 1.985.602/CE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 21/6/2022, DJe de 24/6/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MALFERIMENTO DO ART. 489 DO CPC/2015. INEXISTÊNCIA. IMPROBIDADE ADMINISTRATIVA. ELEMENTO SUBJETIVO. REVISÃO. INCIDÊNCIA DA SÚMULA 7 DO STJ. DEMAIS ALEGAÇÕES. AUSÊNCIA DE PREQUESTIONAMENTO.
+1. Não prospera a tese de violação do art. 489 do Código de Processo Civil de 2015, porquanto o acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada. Sendo assim, não há que se falar em carência de fundamentação do aresto.
+2. Sendo assim, não há que se falar em omissão do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pelo agravante, elegendo fundamentos diversos daqueles por ele propostos, não configura omissão nem outra causa passível de exame mediante a oposição de embargos de declaração.
+ ..
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.708.423/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 25/5/2021, DJe de 9/6/2021)
+Acrescente-se, ainda, que rever o entendimento do Tribunal local, que concluiu pela ausência de dano indenizável, demandaria o revolvimento do conjunto fático probatório dos autos, esbarrando no óbice da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RESPONSABILIDADE CIVIL. DANOS MORAIS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. PROVAS. PREQUESTIONAMENTO. AUSÊNCIA.
+1. É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+2. Hipótese em que o Tribunal de origem, soberano na análise das circunstâncias fáticas da causa, reconheceu a procedência da demanda indenizatória.
+3. Não enfrentada no julgado impugnado tese respeitante a artigo de lei federal apontado no recurso especial, há falta do prequestionamento, o que faz incidir na espécie os óbices das Súmulas 282 e 356 do STF.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.014.889/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 16/5/2022, DJe de 19/5/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. DNIT. ACIDENTE DE TRÂNSITO CAUSADO POR DESNÍVEL DE PISTA (BURACO) E DESMORONAMENTO DO ACOSTAMENTO. ALEGAÇÃO DE AUSÊNCIA DO DEVER DE INDENIZAR. ACÓRDÃO DE ORIGEM QUE, À LUZ DA PROVA DOS AUTOS, CONCLUIU PELA RESPONSABILIDADE CIVIL DO ENTE PÚBLICO. INCIDÊNCIA DA SÚMULA 7/STJ. DANOS MORAIS. REDUÇÃO DO VALOR DA INDENIZAÇÃO. REEXAME DE PROVAS. SÚMULA 7/STJ. ALÍNEA "C" PREJUDICADA.
+1. Cuida-se, na origem, de Ação de Reparação de Danos, na qual a parte autora busca a responsabilização civil do DNIT por danos morais e materiais (ressarcimento e pensão vitalícia) em razão da morte do esposo/pai/irmão em acidente automobilístico, ocorrido em 11/07/2009.
+2. A Corte de origem, com base nas provas carreadas aos autos, reconheceu o nexo de causalidade entre a omissão do Estado (não tomar as providências diante da existência de falha na pista de rolamento e acostamento, quer consertando o local, quer sinalizando para alertar os motoristas que por ali trafegavam) e o dano sofrido pelos ora recorridos.
+3. Modificar o entendimento firmado no acórdão recorrido, aferindo se houve ou não omissão dos agentes públicos e existência de nexo causal, exige reexame do conjunto fático-probatório, circunstância que redunda na formação de novo juízo acerca dos fatos e provas, e não de valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do Recurso Especial, nos termos da Súmula 7/STJ.
+4. No que se refere ao valor da indenização, fixada a título de danos morais, o Tribunal a quo, em face das peculiaridade fáticas do caso, consignou que, "considerando a gravidade (perda do ente querido e provedor), cabe manter o montante indenizatório definido na decisão recorrida a título de danos morais de R$ 160.000,00, na base de R$ 50.000,00 para mãe e filhas menores e R$ 10.000,00 para o irmão" (fl. 272, e-STJ), quantum que merece ser mantido, por consentâneo com os princípios da proporcionalidade e da razoabilidade. Conclusão em contrário também encontra óbice na Súmula 7/STJ.
+5. Outrossim, a necessidade do nova análise da matéria fática inviabiliza o Recurso Especial também pelo art. 105, III, "c", da Constituição Federal, ficando, portanto, prejudicado o exame da divergência jurisprudencial.
+6. Agravo conhecido para não conhecer do Recurso Especial.
+(AREsp n. 598.512/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/11/2020, DJe de 18/12/2020.)
+Ante o exposto, com fulcro no art. 932, III e V, do CPC/2015, c/c o art. 255, § 4º, I e III, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. VIOLAÇÃO DO ART 1.022 DO CPC/2015. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DANO INDENIZÁVEL. REVOLVIMENTO DO CONJUNTO FÁTICO PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. CONHEÇO EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGO-LHE PROVIMENTO.
