@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial pelo qual ICOMAP INDUSTRIA E COMERCIO DE MADEIRAS PARAENSE LTDA se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal (CF), contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 62):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. HONORÁRIOS DE SUCUMBÊNCIA. Insurgência contra decisão que indeferiu pedido de fixação de honorários nos autos da execução fiscal, além daqueles fixados em sede de embargos. INADMISSIBILIDADE. Inteligência do artigo 20, § 4º, do CPC. NEGADO PROVIMENTO AO RECURSO.
+Os embargos de declaração opostos foram rejeitados (fl. 131).
+Em suas razões recursais, a parte recorrente alega violação aos arts. 11, 489, § 1º, IV, V e VI, e 1.022, II, e 1.025, todos do Código de Processo Civil (CPC), aduzindo omissão do acórdão de origem.
+Sustenta, ainda, violação aos arts. 85, §§ 1º, 2º e 3º e 927, III, do Código de Processo Civil (CPC), "pois a lei e a jurisprudência do SUPERIOR TRIBUNAL DE JUSTIÇA reconhecem que "os honorários advocatícios podem ser fixados de forma autônoma e independente em cada uma das referidas ações, desde que a cumulação da verba honorária não exceda o limite máximo de 20%"" (fl. 79).
+Ao final, requer "o conhecimento e provimento do presente recurso especial para reformar o v. Acórdão, a fim de que os honorários advocatícios sucumbenciais sejam fixados em 8% sobre o valor da causa na execução fiscal" (fl. 85).
+A parte adversa apresentou contrarrazões (fls. 146/151).
+É o relatório.
+Inicialmente, verifico que inexiste a alegada violação dos arts. 11, 489, 1.022 e 1.025 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro material, omissão, contradição ou obscuridade.
+Destaco que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+Nos exatos termos do acórdão recorrido, o Tribunal de origem estabeleceu que, "considerando-se que a tese arguida pelo ora agravante fora reconhecida para, então, extinguir a execução, obtendo sucesso na tutela jurisdicional, o único trabalho do advogado foi despendido nos embargos à execução" (fl. 64).
+Verifico que esse entendimento não está em conformidade com a jurisprudência deste Tribunal, estabelecida no seguinte sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. ART. 543-C DO CPC E RESOLUÇÃO N. 8/2008 DO STJ. ENUNCIADO ADMINISTRATIVO N. 2/STJ. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. CONCOMITÂNCIA DE EMBARGOS À EXECUÇÃO. AUTONOMIA RELATIVA DAS AÇÕES. ARBITRAMENTO DE HONORÁRIOS EM CADA UMA DELAS. POSSIBILIDADE. COMPENSAÇÃO DAS VERBAS HONORÁRIAS. IMPOSSIBILIDADE. RECURSO ESPECIAL PROVIDO.
+1. O presente recurso atrai a incidência do Enunciado Administrativo n. 2/STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+TESES JURÍDICAS FIXADAS SOB VIGÊNCIA DO CPC/1973.
+2. Os embargos do devedor são ação de conhecimento incidental à execução, razão porque os honorários advocatícios podem ser fixados em cada uma das duas ações, de forma relativamente autônoma, respeitando-se os limites de repercussão recíproca entre elas, desde que a cumulação da verba honorária não exceda o limite máximo previsto no § 3º do art. 20 do CPC/1973.
+3. Inexistência de reciprocidade das obrigações ou de bilateralidade de créditos: ausência dos pressupostos do instituto da compensação (art. 368 do Código Civil). Impossibilidade de se compensarem os honorários fixados em embargos à execução com aqueles fixados na própria ação de execução.
+SOLUÇÃO DO CASO CONCRETO
+4. Possibilidade de cumulação da verba honorária fixada nos embargos à execução com a arbitrada na própria execução contra a Fazenda Pública, vedada a compensação entre ambas.
+5. Recurso especial provido. Acórdão sujeito ao regime previsto no art. 543-C do CPC/1973 c/c o art. 256-N do RISTJ. (REsp n. 1.520.710/SC, relator Ministro Mauro Campbell Marques, Corte Especial, julgado em 18/12/2018, REPDJe de 2/4/2019, DJe de 27/02/2019 - sem destaque no original.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EMBARGOS À EXECUÇÃO FISCAL. FIXAÇÃO DE HONORÁRIOS DE SUCUMBÊNCIA. CUMULAÇÃO. POSSIBILIDADE.
+1. O entendimento deste Superior Tribunal de Justiça é no sentido de ser possível a cumulação das condenações em honorários advocatícios fixados em execução fiscal e na ação conexa que se funda na desconstituição do crédito executado, por constituírem ações autônomas, desde que observados os limites legalmente previstos.
+2. Precedentes: AgInt no AREsp n. 2.248.739/RJ, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/6/2023; AgInt no REsp n. 1.921.877/SC, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/3/2023; AgInt no REsp n. 2.021.159/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 17/11/2022; AgInt no REsp n. 1.900.435/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 10/6/2021.
+3. Agravo interno não provido. (AgInt no REsp n. 2.089.620/AL, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/2/2024, DJe de 1º/3/2024 - sem destaque no original.)
+Desse modo, o acórdão recorrido merece reforma, para que fique em conformidade com a jurisprudência do Superior Tribunal de Justiça (STJ).
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial e determino o retorno dos autos ao Tribunal de origem, a fim de que proceda ao arbitramento de honorários advocatícios, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
