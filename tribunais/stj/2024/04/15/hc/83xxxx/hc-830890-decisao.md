@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em favor de Marcos Rene Simoes, apontando-se como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul no julgamento da Apelação Criminal n. 5006714-67.2017.8.21.0022.
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, à pena de 2 anos, 7 meses e 15 dias de reclusã o, em regime inicial semiaberto, e pagamento de 10 dias-multa, pela prática do crime previsto no art. 14, caput, da Lei n. 10.826/2003 (fls. 159 /167).
+A Corte de origem afastou a preliminar e negou provimento ao recurso de apelação interposto pela defesa (fls. 241/255).
+Neste writ, a defesa alega a existência de constrangimento ilegal decorrente da ilicitude das provas obtidas por meio da busca pessoal indevida.
+Requer, liminarmente e no mérito, a absolvição do paciente.
+O pedido liminar foi indeferido (fls. 267/268).
+Foram prestadas informações (fls. 270/273).
+O Ministério Público Fe deral opinou pela denegação da ordem (fls. 279/281).
+O Ministério Público do Rio Grande do Sul se manifestou pelo não conhecimento da presente impetração, e, caso conhecida, pela denegação da ordem (fls. 286/293).
+É o relatório.
+O presente writ é substitutivo de recurso próprio, e é certo que o habeas corpus tem suas hipóteses de cabimento restritas e não deve ser utilizado a fim de provocar a discussão de temas afetos a recurso de apelação criminal, a recurso especial, a agravo em execução e a recurso em sentido estrito.
+Não obstante, verifico ilegalidade flagrante apta a ensejar a concessão de habeas corpus de ofício.
+Com efeito, tem-se que a Sexta Turma deste Tribunal Superior, em 19/4/2022, no julgamento do RHC n. 158.580/BA, promoveu a reinterpretação do art. 244 do Código de Processo Penal, assentando que a busca pessoal e veicular destituída de mandado judicial, é possível apenas quando as circunstâncias do caso concreto, descritas de modo preciso e aferidas objetivamente, permitirem a conclusão de que o indivíduo esteja na posse de armas ou de outros objetos (droga, por exemplo) ou papéis que constituam corpo de delito, conforme estabelecido no art. 244 do Código de Processo Penal, não sendo admitidas as abordagens e revistas exploratórias (fishing expeditions); informações de fonte não identificada; impressões subjetivas intangíveis, pautadas no tirocínio policial, de determinadas atitudes tidas como suspeitas ou certas reações ou expressões corporais que denotem nervosismo (RHC n. 158.580/BA, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 25/4/2022).
+Por oportuno, o Tribunal estadual afastou a alegada nulidade decorrente de busca pessoal indevida e manteve o que decidido na sentença, nos seguintes termos, in verbis (fls. 250/251 - grifo nosso):
+ ..
+No presente caso, conforme se denota da prova oral produzida nos autos - que replica as informações prestadas em sede inquisitorial -, a busca se deu em vista de "atitude suspeita" do réu, que estava ao lado de um veículo, em um posto de combustíveis, acompanhado de mais dois homens, sendo um deles conhecido da guarnição. Conforme narrativa dos policiais que realizaram a prisão, ao avistá-los, abordaram os três e localizaram um revólver na cintura do acusado, que não foi ouvido em juízo, pois decretada sua revelia. De acordo com os policiais, o réu, ao receber voz de abordagem, teria feito gesto de que sacaria a arma de fogo.
+ ..
+Visualizando os depoimentos dos agentes públicos pelo sistema audiovisual, houve a clara indicação de que a abordagem decorreu do fato de um dos indivíduos que estavam com o réu ser conhecido da guarnição pelo histórico criminal, o que, somado às circunstâncias de estar junto de outros indivíduos em horário noturno levantou suspeita para a busca pessoal. A situação, evidentemente, não se enquadra nos casos de abordagem por mero subjetivismo dos agentes da segurança, como apontam os precedentes mais recentes do Superior Tribunal de Justiça.
+ ..
+Veja-se que a abordagem pelo fato de um dos indivíduos ser conhecido da guarnição, no presente caso, não foi motivada por estereótipos, presunções ou impressões subjetivas. Trata-se de circunstância objetiva, decorrente do conhecido histórico criminal do indivíduo, que não guarda relação com características físicas ou condições de vida.
+Ademais, nada há nos autos que indique ter havido arbitrariedade na abordagem ou mes mo a sua ilegalidade, firmando-se a regularidade a partir da confirmação da prática de ato ilícito - e permanente - com a apreensão da arma. Conclui-se, portanto, pela inexistência de mácula na prova.
+ ..
+No caso dos autos, exsurge a ilegalidade da suposta busca pessoal realizada no paciente, pois não foi descrita qualquer conduta que indicasse portar algum dos objetos listados no art. 244 do Código de Processo Penal, sendo a medida invasiva fundada apenas na "atitude suspeita" do paciente de estar na companhia de outro indivíduo que seria conhecido da guarnição policial pelo histórico criminal, não sendo apontado nenhum elemento concreto que justificasse essa diligência, tornando-a, portanto, uma revista exploratória, decorrente de uma impressão meramente subjetiva - rechaçada pela atual jurisprudência desta Corte Superior de Justiça.
+Com efeito, não se pode admitir que a posterior situação de flagrância justifique a revista pessoal realizada ilegalmente, amparada em mera suspeita, conjectura.
+Por oportuno, confiram-se os seguintes julgados no mesmo sentido: AgRg no RHC n. 184.599/RS, de minha relatoria, Sexta Turma, DJe 8/2/2024; AgRg no REsp n. 2.053.717/GO, de minha relatoria, Sexta Turma, DJe 14/3/2024; e AgRg no HC n. 821.899/RJ, Ministro R i beiro Dantas, Quinta Turma, DJe 16/8/2023.
+Nessa ordem de ideias, devem ser anuladas todas as provas obtidas mediante a busca pessoal indevida e as suas derivações. Por consequência, impõe-se a absolvição do paciente, por ausência de provas da materialidade delitiva.
+Logo, é o caso de anular a condenação e, desde logo, absolver o paciente com fundamento no art. 386, II, do Código de Processo Penal, pois inexiste prova independente daquela tida como ilícita, apta a manter a condenação pelo crime de porte ilegal de arma de fogo de uso permitido.
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem de ofício, para anular as provas obtidas mediante busca pessoal indevida, bem como as provas dela decorrentes e, em consequência, absolver o paciente da imputação feita nos autos da Ação Penal n. 5006714-67.2017.8.21.0022, da 3ª Vara Criminal da comarca de Pelotas/RS.
+Comunique-se, com ur gência, o teor desta decisão ao Tribunal estadual e ao Juízo a quo.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. CONDENAÇÃO. RÉU SOLTO. NULIDADE. BUSCA PESSOAL. CONTEXTO FÁTICO ANTERIOR. AUSÊNCIA DE JUSTA CAUSA. SUBJETIVISMO POLICIAL. AÇÃO PENAL INSTAURADA EM RAZÃO DAS PROVAS OBTIDAS NO ATO CONSIDERADO ILEGAL. FLAGRANTE ILEGALIDADE EVIDENCIADA. ABSOLVIÇÃO QU E SE IMPÕE.
+Writ não conhecido. Ordem concedida de ofício.
