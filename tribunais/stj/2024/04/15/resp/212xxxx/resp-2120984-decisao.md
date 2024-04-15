@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da Constituição Federal) interposto do acórdão proferido pelo Tribunal Regional Federal da 5ª Região assim ementado:
+PROCESSUAL CIVIL. CPC/73. EXCLUSÃO DE BENEFICIÁRIO. CORREÇÃO MONETÁRIA DE CONTAS VINCULADAS DO FGTS. AUSÊNCIA DE TERMO DE ADESÃO DA LC Nº 110/2001. DISPENSABILIDADE. OUTROS ELEMENTOS COMPROBATÓRIOS DA ADESÃO. POSSIBILIDADE DE CONTRATAÇÃO ELETRÔNICA.
+1. Cuida-se de recurso de apelação interposto pelo Sindicato dos Trabalhadores do Serviço Público Federal no Estado do Ceará (SINTSEF-CE), sob a égide do CPC/73, em face de decisão que indeferiu a inclusão de MARIA JACIARA FREITAS SOUSA e MARIA VANIA SEVERIANO DUTRA na lista de beneficiários na demanda executiva, decorrente de processo cognitivo promovido pelo ente sindical em face da Caixa Econômica Federal.
+2. Segundo consta dos autos, a empresa pública foi condenada a proceder à correção monetária do saldo de contas vinculadas de FGTS, por intermédio de ação ordinária do sindicato, o qual funcionou como substituto processual dos sindicalizados e cuja querela de conhecimento já se encontra transitada em julgado. No curso do feito, sobreveio a decisão recorrida, a qual indeferiu a inclusão de tais pessoas no rol de beneficiários do provimento por ter celebrado acordo extrajudicial com a Caixa Econômica Federal nos moldes da LC nº 110/01.
+3. Irresignado, insurge-se o apelante, alegando, em síntese, que: i) não foi juntado o termo de adesão subscrito pelas citadas pessoas; ii) os espelhos elaborados pelo banco público, mostrando uma consulta de adesão de ambas, é unilateral e insuficiente à demonstração da celebração da avença; e iii) nulidade da decisão por ausência de intimação, a qual só ocorreu por ocasião da carga dos autos.
+4. Os pressupostos de recorribilidade inerentes a este processo deverão ser aqueles do CPC/73 (Enunciado Administrativo nº 02/STJ), uma vez que a decisão recorrida data de 20 de agosto de 2014, sendo o recurso interposto em 29 de setembro de 2014, após ter recebido carga dos autos em 19 de setembro de 2014 (certidão às fls. 5429 dos autos físicos digitalizados), pois não houve expedição de intimação.
+5. A insurgência é cabível, pois o art. 162, §1º, do CPC/73, pontua que a sentença é o ato do juiz que decide com base nos arts. 267 e 269, daquela Codificação. Estes últimos, por sua vez, correspondem às hipóteses de julgamento, respectivamente, sem e com resolução de mérito. No caso em questão, a exclusão de parte tem o condão de gerar extinção parcial do processo (julgamento sem resolução de mérito), o que - à luz da legislação à época vigente - desafia o recurso de apelação (art. 513, do CPC/73).
+6. Quanto à preliminar de nulidade por ausência de intimação, reconhece-se o seu prejuízo pela constatação da tempestividade do recurso, não havendo que se falar na inquinação de ato cujo efeito se produziu como deveria, ainda que por meio diverso. Inteligência do art. 244, do CPC/73.
+7. Esta Corte Regional possui entendimento no sentido de que a juntada do termo de adesão não é indispensável para a comprovação da celebração do acordo, mormente quando outros elementos (como os extratos constantes dos autos) indiquem expressamente a existência de parcela pertinente ao acordo da LC nº 110/01, o qual pode ser celebrado até mesmo de forma eletrônica. Precedentes.
+8. Não provimento da apelação.
+9. Sem fixação de honorários, em observância às regras de Direito Intertemporal (EDv no AREsp 1.255.986, rel. Min. Luís Felipe Salomão, Corte Especial, j. em 20.03.2019)
+A parte recorrente aponta, além de divergência jurisprudencial, ofensa aos arts. 4º e 6º da LC 110/2001; 333 do CPC e 842 do CC. Aduz:
+A presunção de transação baseada apenas em documentos internos da embargada, passíveis de erro, viola o artigo 4º, I, da LC 110/2001 e o 6º, I.
+A recorrida jamais poderia creditar valores sem que a outra parte concordasse, através dos termos de transação extrajudiciais.
+Esse E. Tribunal tem decisão afirmando que a assinatura do termo de acordo é imprescindível para a concretização da transação extra- judicial, não permitindo a presunção com base em documento interno e contra a afirmação da parte de não ter aderido ao mesmo.
+Contrarrazões às fls. 6.687-6.692, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 29.2.2024.
+O Tribunal de origem, ao analisar a controvérsia, consignou:
+Esta Corte Regional possui entendimento no sentido de que a juntada do termo de adesão não é indispensável para a comprovação da celebração do acordo, mormente quando outros elementos (como os extratos constantes dos autos) indiquem expressamente a existência de parcela pertinente ao acordo da LC nº 110/01, o qual pode ser celebrado até mesmo de forma eletrônica.
+Diversamente do que sustenta o recorrente, a Corte a quo entendeu que, para a comprovação da celebração do acordo, é dispensável o termo de adesão quando da análise dos outros documentos se extrai a existência de parcela pertinente ao acordo da LC 110/2001, o qual pode ser celebrado até mesmo de forma eletrônica. Portanto, a revisão do entendimento apresentado em Recurso Especial demanda reexame do contexto fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+Por fim, é pacífico o entendimento do STJ de que os mesmos óbices impostos à admissão do recurso pela alínea "a" do permissivo constitucional impedem a análise recursal pela alínea "c", ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+Ante o exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
