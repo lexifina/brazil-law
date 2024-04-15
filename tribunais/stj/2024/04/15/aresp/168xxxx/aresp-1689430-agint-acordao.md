@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/04/2024 a 15/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA FECHADA. AGRAVO DE INSTRUMENTO. APELO NOBRE QUE NÃO INDICA A ALÍNEA DO PERMISSIVO CONSTITUCIONAL EM QUE SE BASEIA A IRRESIGNAÇÃO. MATÉRIA ACERCA DA QUAL NÃO SE DECLINOU DISPOSITIVO DE LEI VIOLADO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N.º 284 DO STF. PRECLUSÃO. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. APLICAÇÃO DA SÚMULA N.º 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Não se pode conhecer do apelo nobre tendo em vista que BERVELI e outros, na petição de encaminhamento do apelo nobre, não indicou o permissivo constitucional que o autorizaria, circunstância que impede o seu conhecimento, incidindo na espécie a Súmula n.º 284 do STF, por analogia.
+2. Qualquer outra análise do acórdão recorrido, com o consequente acolhimento da pretensão recursal, da forma como trazida no apelo nobre, demandaria, necessariamente, o reexame fático-probatório, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula n.º 7 do STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por BERVELI MENDES ZARDO e outros (BERVELI e outros) contra decisão monocrática de minha relatoria, assim ementada:
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA FECHADA. AGRAVO DE INSTRUMENTO. APELO NOBRE QUE NÃO INDICA A ALÍNEA DO PERMISSIVO CONSTITUCIONAL EM QUE SE BASEIA A IRRESIGNAÇÃO. MATÉRIA ACERCA DA QUAL NÃO SE DECLINOU DISPOSITIVO DE LEI VIOLADO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N.º 284 DO STF. PRECLUSÃO. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. APLICAÇÃO DA SÚMULA N.º 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO (e-STJ, fl. 1.447).
+Nas razões do presente inconformismo, BERVELI e outros defenderam que (1) é possível superar a ausência de indicação da alínea permissiva constitucional; e (2) não há necessidade de reanálise dos fatos e nem das provas presentes nos autos, mas apenas a constatação de que não houve preclusão para as Agravantes, haja vista que houve requerimento expresso para a liberação imediata (mediante alvará) dos valores não impugnados, como expressamente requerido no item A.2 da fl. 14 dos autos em primeiro grau (cumprimento de sentença)  e-STJ, fls. 1.454/1.464 .
+Foi apresentada impugnação (e-STJ, fls. 1.508/1.512).
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA FECHADA. AGRAVO DE INSTRUMENTO. APELO NOBRE QUE NÃO INDICA A ALÍNEA DO PERMISSIVO CONSTITUCIONAL EM QUE SE BASEIA A IRRESIGNAÇÃO. MATÉRIA ACERCA DA QUAL NÃO SE DECLINOU DISPOSITIVO DE LEI VIOLADO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N.º 284 DO STF. PRECLUSÃO. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. APLICAÇÃO DA SÚMULA N.º 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Não se pode conhecer do apelo nobre tendo em vista que BERVELI e outros, na petição de encaminhamento do apelo nobre, não indicou o permissivo constitucional que o autorizaria, circunstância que impede o seu conhecimento, incidindo na espécie a Súmula n.º 284 do STF, por analogia.
+2. Qualquer outra análise do acórdão recorrido, com o consequente acolhimento da pretensão recursal, da forma como trazida no apelo nobre, demandaria, necessariamente, o reexame fático-probatório, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula n.º 7 do STJ.
+3. Agravo interno não provido.
+VOTO
+O inconformismo não merece acolhimento.
+Isso porque a linha argumentativa apresentada por BERVELI e outros é incapaz de evidenciar o desacerto da decisão unipessoal, que está em consonância com a atual jurisprudência desta Corte, consoante fundamentação que se segue.
+De plano, conforme já consignado no julgado impugnado, não se pode conhecer do apelo nobre tendo em vista que BERVELI e outros, na petição de encaminhamento do apelo nobre, não indicou o permissivo constitucional que o autorizaria, circunstância que impede o seu conhecimento, incidindo na espécie a Súmula n.º 284 do STF, por analogia: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Nesse sentido, vejam-se os seguintes precedentes:
+PROCESSUAL CIVIL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES E COMPENSAÇÃO POR DANOS MORAIS. PERMISSIVO CONSTITUCIONAL NÃO INDICADO NO RECUSO ESPECIAL. INADMISSÍVEL. SÚMULA 284/STF. PRECEDENTES. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema. Precedentes desta Corte.
+2. Agravo interno desprovido, com majoração de honorários.
+(AgInt no REsp 1.538.566/DF, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 21/3/2017, DJe 28/3/2017 - sem destaques no original)
+PROCESSUAL CIVIL E ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AUSÊNCIA DE INDICAÇÃO DA ALÍNEA DO PERMISSIVO CONSTITUCIONAL. SÚMULA 284 DO STF. ART. 335 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. ÔNUS DA PROVA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. LIVRE CONVENCIMENTO DO JUIZ.
+1. O recorrente não indicou a alínea do dispositivo constitucional em que se fundamenta o recurso especial, circunstância que impede o seu conhecimento, segundo o disposto na Súmula 284/STF. Precedentes.
+ ..
+(AgRg no AREsp 647.464/PR, Relator o Ministro HUMBERTO MARTINS, DJe 23/3/2015 - sem destaques no original)
+Além disso, ainda que ultrapassado o óbice acima, no que se refere à alegada preclusão para a expedição de alvarás complementares por valores incontroversos e preclusão pro judicato quanto ao deferimento dos pedidos formulados na petição de fls. 1507/1509 (sic., e-STJ, fls. 113/133), o Tribunal catarinense consignou que
+ ..  De início, quanto aos valores relativos a complementação da reserva matemática, conforme se observa da impugnação ao cumprimento de sentença (fls. 924-923), inexistiu o alegado reconhecimento como incontroverso pela executada/agravada da referida verba para que seja permitida a sua liberação de pronto, tão somente, houve reconhecimento relativo à diferença dos proventos suplementares devidos aos assistidos e o percentual de 10% (dez por cento) sobre essa diferença, conforme determinado expressamente no acórdão que dá origem ao cumprimento de sentença, cujo valor total reconhecido pela devedora foi de R$ 2.452.608,68 (dois milhões, quatrocentos e cinquenta e dois mil, seiscentos e oito reais e sessenta e oito centavos), silente acerca do percentual devido a título de honorários advocatícios sobre complementação da reserva matemática. Portanto, não há falar em valor incontroverso a ser liberado em favor do escritório de advocacia dos procuradores dos agravantes relativa a diferença da reserva matemática como alegado.
+Em suma, ainda que seja reconhecida posteriormente como devido honorários advocatícios sobre a reserva matemática, no percentual de 10% (dez por cento), nítido nos autos é que a executada/agravada não reconheceu como incontroversa a quantia ora pretendida, como tentam convencer os agravantes, devendo a liberação de referido valor se dar após decisão da impugnação ao cumprimento de sentença.
+No mais, relativamente a complementação dos valores tidos por incontroversos e depositados em conta judicial, em verdade, pretendem os agravantes a incidência de correção monetária e juros de mora sobre a verba devida mesmo após depósito em conta judicial pela devedora, o que por certo é indevida. A partir da realização do depósito em conta judicial do valor discutido, somente é devido índice de correção monetária incidente na conta vinculada ao processo.
+ ..
+Ademais disso, o que já afastaria o pleito de expedição de alvarás complementares por valores tidos por incontroversos, evidente que houve pronunciamento anterior com a especificação dos valores a serem creditados para cada exequente/agravante, inclusive com os valores devidos a título de honorários advocatícios (fls. 1.462 - SAJ/PG), sem que tenha sido manifestado percentual incidente sobre a reserva matemática devida aos credores, sendo que os agravantes manifestaram-se nos autos logo após o despacho concordando com o seu teor (fl. 1.471 - SAJ/PG).
+Logo, é flagrante a preclusão da matéria com pleito de complementação dos alvarás tidos como valores incontroversos, mostrando-se correta a revogação da decisão que posteriormente autorizou a expedição de referidos alvarás equivocadamente.
+Como é sabido, é defeso ao juízo manifestar-se novamente sobre questões já decididas, mostrando-se dessa feita correta a decisão que avoca os autos e revoga decisão contrária a despacho anterior, esclarecendo a magistrada sobre o equívoco praticado em razão da preclusão da matéria.
+ ..
+Ante o exposto, dá-se parcial provimento ao recurso para afastar a condenação dos agravantes ao pagamento de honorários advocatícios.
+Este é o voto (e-STJ, fls. 1.299/1.305 - sem destaques no original).
+Desse modo, conforme já ressaltado na decisão agravada, verifica-se que a revisão do julgado, com o consequente acolhimento da pretensão recursal, da forma como trazida no apelo nobre, demandaria, necessariamente, o reexame fático-probatório, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula n.º 7 do STJ.
+Nesse sentido, confiram-se os seguintes julgados:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO REGRESSIVA PARA REPARAÇÃO DE DANOS. ARGUIÇÃO DE NULIDADE DO JULGAMENTO VIRTUAL POR INOBSERVÂNCIA DO PEDIDO DE REALIZAÇÃO DE SUSTENTAÇÃO ORAL. DISPOSITIVO SUPOSTAMENTE VIOLADO. CERCEAMENTO DE DEFESA. SÚMULA N. 7/STJ. LAUDO PERICIAL. REGULARIDADE. SUSPEIÇÃO DE TESTEMUNHA. REVISÃO. SÚMULA N. 7/STJ.
+ ..
+4. Aferir as alegações da recorrente e afastar as premissas firmadas pelo Tribunal de origem, baseadas nos princípios da livre apreciação das provas e do livre convencimento motivado, bem como rever a conclusão do Tribunal de origem acerca da regularidade do laudo e da ocorrência de preclusão, demandaria o revolvimento do conteúdo fático-probatório dos autos, procedimento vedado na via especial nos termos da Súmula n. 7 desta Corte Superior.
+Agravo interno improvido.
+(AgInt no AREsp n. 1.902.242/MT, relator Ministro Humberto Martins, Terceira Turma, julgado em 18/12/2023, DJe de 20/12/2023 - sem destaques no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. HOMOLOGAÇÃO DE CÁLCULO JUDICIAL. PRETENSÃO DE COMPENSAÇÃO DE INCENTIVOS DE MIGRAÇÃO DE PLANOS. MATÉRIA QUE DEVERIA TER SIDO DEDUZIDA NA FASE DE CONHECIMENTO. PRECLUSÃO. REVISÃO. INCIDÊNCIA DA SÚMULA N. 7/STJ. METODOLOGIA DOS CÁLCULOS APLICADOS. VIOLAÇÃO À COISA JULGADA. NÃO OCORRÊNCIA. SÚMULA N. 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Para elidir a conclusão da Corte estadual quanto à ocorrência da preclusão, seria imprescindível a incursão no conjunto fático-probatório, incidindo, na espécie, a Súmula n. 7 deste Tribunal Superior a impedir o conhecimento do recurso especial.
+ ..
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.342.807/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 25/9/2023, DJe de 27/9/2023 - sem destaques no original)
+Assim, está claro que o recurso especial não ultrapassa sequer a barreira do conhecimento.
+Nesse contexto, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido pelos seus próprios fundamentos.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
+Advirta-se que eventual recurso interposto contra este acórdão estará sujeito às normas do CPC, inclusive no que tange ao cabimento de multa (arts. 77, §§ 1º e 2º, e 1.026, § 2º, ambos do CPC).
