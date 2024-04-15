@@ -1,0 +1,75 @@
+DECISÃO
+Trata-se de recurso especial interposto por LUCIANA PEDRON MEZZOMO, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. INSTRUMENTO PARTICULAR DE CONFISSÃODE DÍVIDA. SENTENÇA DE IMPROCEDÊNCIA. INSURGÊNCIA DO DEVEDOR/EMBARGANTE.
+PRELIMINAR DE FALTA DE INTERESSE DE AGIR POR INADEQUAÇÃO DA VIA ELEITA. ACOLHIMENTO. INTERPOSIÇÃO DE EXECUÇÃO PARA PAGAMENTO DE QUANTIA CERTA. ERRONIA. CONTRATO QUE PREVÊ A ENTREGA DE 828 TONELADAS DE ARROZ, COMO PARCELA DE PAGAMENTO DO PREÇO. FACULDADE DOS EXECUTADOS DE PAGAR OMONTANTE EQUIVALENTE ATÉ A DATA AJUSTADA QUE NÃO DESVIRTUA A NATUREZA DA OBRIGAÇÃO DE DAR. INTERPOSIÇÃO DIRETA DE EXECUÇÃO POR QUANTIA CERTA QUE NÃO SE ENCONTRA PREVISTA NO ART. 627, CAPUT, CPC/73 (ART. 809, CAPUT, DOCPC/2015). AUSÊNCIA DE INTERESSE PROCESSUAL EVIDENCIADO.
+LITIGÂNCIA DE MÁ-FÉ. PEDIDO DE CONDENAÇÃO DA INSURGENTE AO PAGAMENTO DEMULTA LEGAL FORMULADO EM CONTRARRAZÕES. IMPOSSIBILIDADE. MERO EXERCÍCIODO DIREITO À AMPLA DEFESA. HIPÓTESES DO ART. 80 DO CPC NÃO CONFIGURADAS. PLEITO RECHAÇADO.
+"Para a caracterização da litigância de má-fé é necessária a presença concomitante dos requisitos objetivo e subjetivo do tipo, ou seja, o dano processual e o dolo ou a culpa grave da parte maliciosa, sem os quais a pretensão condenatória afigura-se descabida. O fato de o Réu ter apresentado defesa aos pedidos iniciais, bem como se insurgido contra a sentença que lhe foi desfavorável, não justifica, por si só, a condenação às penas por litigância de má-fé, mas simplesmente o exercício do contraditório e da ampla defesa" (TJSC, Apelação Cível n. 0313467-02.2016.8.24.0023, da Capital, rel. João Batista Góes Ulysséa, Segunda Câmara de Direito Civil, j. 10-12-2020).
+RECURSO CONHECIDO E PROVIDO." (fl. 474).
+Os primeiros embargos de declaração foram rejeitados (fls. 537-542) e os segundos, parcialmente acolhidos, sem efeitos infringentes (fls. 615-619).
+Em suas razões, a recorrente aponta violação do art. 585 do Código de Processo Civil de 1973, sustentando que a previsão de pagamento de dívida com a entrega de sacas de arroz, em cujo contrato há a fixação de valor equivalente em reais, permite a utilização da execução por quantia certa para a cobrança do referido débito.
+Argumenta:
+"Ora, Doutos Ministros, o Termo de Confissão de Dívida preencheu os requisitos estabelecidos na norma processual para ser um título executivo extrajudicial, tanto pela expressa disposição do valor devido, quanto pela assinatura das partes e de duas testemunhas.
+(..)
+A possibilidade de pagamento da parcela f), com entregas de sacas de arroz, não lhe retira a fixação do valor equivalente em R$ 303.600,00, bem menos subtrai a força executiva dotada ao instrumento particular, nos termos da lei processual vigente à época.
+Desse modo, fica nitidamente demonstrado a violação a dispositivo de lei infraconstitucional no julgamento da Apelação Cível originária." (fl. 629)
+Contrarrazões às fls. 657-669.
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+O tribunal de origem assim dirimiu a questão:
+"Para o perfeito entendimento da lide, faz-se necessário a transcrição da cláusula contida no título executivo extrajudicial que lastreia a demanda expropriatória, confira-se:
+f) 828.000 (oitocentos e vinte e oito mil) kg de arroz tipo 1, com rendimento de 52% (cinquenta e dois por cento) de grãos inteiros, por dezesseis por cento de grãos quebrados, equivalentes nesta data a R$ 303.600,00 (trezentos e três mil e seiscentos reais), que serão pagos e entregues pelos DEVEDORES em até 20 de abril de 2004.
+Em situação idêntica à relatada nos autos, foi reconhecida a inadequação da via eleita nos autos da Apelação Cível n. 0300177-65.2016.8.24.0104, de Ascurra, rel. José Carlos Carstens K hler, julgado pela Quarta Câmara de Direito Comercial, em 02-04-2019, decisão esta a qual transcrevo, afim de evitar tautologia:
+Pois bem, como se vê, o pacto firmado entre as Partes e que dá corpo a pretensão executória do Embargado é, tal qual gizado no decisum vergastado, de entregar coisa incerta e não de pagar quantia certa.
+É dizer, a obrigação precípua assumida pelos Devedores é de entregar 5.000 (cinco mil) sacas de arroz seco de 50 kg (cinquenta quilos) ao Credor (cláusulas ns. 1, 4.1 e 4.2).
+Além disso, exsurge com clareza solar a concessão aos Embargantes da faculdade de, até a data da entrega das sacas de arroz, optar pelo pagamento do equivalente, por intermédio de depósito em conta bancária de titularidade do Exequente (cláusula n. 4.3).
+Ora, como se trata de mera possibilidade conferida aos Executados, tal circunstância não implica no desvirtuamento da natureza do pacto, que é eminentemente de entregar coisa determinada pelo gênero e pela quantidade.
+Não passa desapercebido por esta relatoria que a opção de pagamento do equivalente às sacas de arroz foi conferida pelo Credor aos Devedores, de sorte que, por obviedade ululante, não pode aquele se valer da sobredita faculdade para travestir os meandros do negócio jurídico em voga.
+ ..
+Diante disso, para o ajuizamento de execução por quantia certa, imperativa a liquidação ou arbitramento pelo juiz, porquanto inconcebível a indicação unilateral do valor supostamente devido pelo Exequente.
+ ..
+Logo, pelo que se infere da leitura das passagens doutrinárias, deveria o Exequente ter se valido do procedimento estatuído no art. 811 e seguintes do CPC/2015, que prevê a execução para entrega de coisa incerta.
+ ..
+Por óbvio, a extinção da lide executiva é medida de rigor, diante do acolhimento da preliminar de ausência de interesse processual suscitada pelos Embargantes  .. .
+(..)
+No caso dos autos, a ação restou interposta durante a vigência do Código de Processo Civil anterior, o que não modifica o entendimento acima exarado, uma vez que nos dois códigos, quando se trata de entrega de coisa incerta (toneladas de arroz, no caso), deve-se primeiramente intimar o devedor para que entregue a coisa e, em não o fazendo, poderá o juiz converter a obrigação em perdas e danos.
+(..)
+Os procedimentos previstos na lei processual anterior para as execuções por quantia certa e para a entrega de coisa fungível eram diversos (e continuam), cada um com particularidades e pressupostos específicos, não podendo o credor pretender considerar como título executivo, nos termos do art. 585, II, do CPC, o contrato no qual se consigna a obrigação de entrega de coisa incerta.
+O que se infere dos autos é que a exequente postulou, expressamente, na petição inicial a condenação dos devedores ao pagamento de quantia certa, convertendo o montante de arroz devido (828 toneladas) atribuindo, unilateralmente, um valor determinado para cada saca de arroz, que é inadmissível pela legislação que rege a matéria." (fls. 477-479)
+Ressalta-se, inicialmente, que o pretendido reconhecimento de que o valor constante na cláusula "f" do contrato traz força executiva ao instrumento particular celebrado entre as partes, permitindo a execução da quantia ali referida, encontra óbice nas Súmulas nºs 5 e 7/STJ, pois demanda análise de matéria fática e reinterpretação de cláusula contratual a fim de reformar o entendimento do aresto impugnado, de que a obrigação firmada e ra de entrega de sacas de arroz.
+Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO POR QUANTIA CERTA. ESCRITURA PÚBLICA DE CONFISSÃO DE DÍVIDA. ACÓRDÃO QUE APLICA MULTA PROTELATÓRIA NOS PRIMEIROS EMBARGOS DE DECLARAÇÃO. DESNECESSIDADE DE RECOLHIMENTO PRÉVIO DA MULTA.
+1. O condicionamento da interposição de qualquer recurso ao depósito da multa do art. 538 do CPC, reproduzido no § 3º do art. 1.026 do CPC/15, só é admissível quando se está diante da segunda interposição de embargos de declaração protelatórios.
+2. O Tribunal a quo entendeu que, ao se verificar o inadimplemento da obrigação de entregar coisa incerta, o credor poderia manejar a execução por quantia certa, uma vez que o título exequendo (Escritura de Confissão de Dívida) previa o valor da dívida - quantum debeatur.
+3. Para desconstituir a convicção formada pelas instâncias ordinárias acerca dos motivos para converter a obrigação de entregar coisa incerta em execução por quantia certa, seria necessário incursionar no substrato fático-probatório dos autos, o que é defeso a este Tribunal nesta instância especial, conforme se depreende do teor do Enunciado n. 7 do STJ.
+4. É entendimento desta Corte Superior que a suscitação tardia da nulidade, somente após a ciência de resultado de mérito desfavorável, configura a chamada "nulidade de algibeira", manobra processual que não se coaduna com a boa-fé processual e que é rechaçada pelo Superior Tribunal de Justiça" (AgInt no AREsp n. 1.734.523/RJ, Relator Ministro Raul Araújo, 4ª Turma, DJe de 16/9/2021).
+Agravo interno parcialmente provido."
+(AgInt no REsp n. 1.885.740/MT, relator Ministro Humberto Martins, Terceira Turma, julgado em 18/9/2023, DJe de 20/9/2023 - grifou-se)
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. OFENSA AO ART. 535, I E II, DO CPC NÃO CONFIGURADA. AÇÃO DE EXECUÇÃO PARA ENTREGA DE COISA INCERTA. INEXISTÊNCIA DO TÍTULO EXECUTIVO EXTRAJUDICIAL. IMPOSSIBILIDADE DE REDISCUSSÃO EM SEDE DE RECURSO ESPECIAL. SÚMULAS 5 E 7/STJ. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO.
+1. Não ocorre ofensa ao art. 535, I e II, do CPC se o Tribunal de origem decide, fundamentadamente, as questões essenciais ao julgamento da lide.
+2. Para modificar o que foi decidido pela Corte de origem, no tocante à comprovação da certeza, liquidez e exigibilidade do título executivo, seria necessário o revolvimento do conteúdo fático-probatório dos autos, bem como a reinterpretação de cláusulas contratuais, providências incabíveis no recurso especial ante os óbices previstos nas Súmulas 5 e 7 desta Corte.
+3. Cabe a condenação ao pagamento de honorários advocatícios na hipótese de extinção da execução, por falta de exigibilidade do título extrajudicial, nos termos do art. 20, § 4º, do Código de Processo Civil.
+4. Para a configuração do dissídio jurisprudencial, faz-se necessária a indicação das circunstâncias que identificam e assemelham o aresto recorrido e o paradigma, nos termos do parágrafo único do art. 541 do CPC e dos parágrafos do art. 255 do RISTJ.
+5. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no Ag n. 977.304/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 18/4/2013, DJe de 24/5/2013 - grifou-se)
+No mais, partindo-se da premissa inalterável de que o título executivo previa o pagamento de sacas de arroz, o acórdão recorrido está em consonância com julgados deste Superior Tribunal de Justiça, no sentido de que é incabível o ajuizamento de execução para pagamento de quantia certa visando o cumprimento de obrigação de entrega de coisa incerta, em razão da patente disparidade procedimental e da falta de liquidez do valor cobrado.
+Confira-se, a propósito, os seguintes precedentes:
+"RECURSO ESPECIAL. PROCESSUAL CIVIL. TÍTULOS EXECUTIVOS EXTRAJUDICIAIS. EXECUÇÃO PARA PAGAMENTO DE QUANTIA CERTA AJUIZADA COM BASE EM CERTIFICADOS DE DIREITOS CREDITÓRIOS DO AGRONEGÓCIO (CDCA). EXCEÇÃO DE PRE-EXECUTIVIDADE. ILEGITIMIDADE PASSIVA. CUMULAÇÃO DE PEDIDOS EXECUTIVOS COM BASE EM TÍTULOS CUJOS PROCEDIMENTOS E OS DEVEDORES SÃO DIVERSOS.
+1. Ilegitimidade passiva: Não figurando os recorrentes como devedores nos Certificados de Direitos Creditórios do Agronegócio (CDCA), que constituem títulos executivos a consubstanciar promessa de pagamento, mas em Cédulas de Produto Rural (CPR) cedidas em garantia a essas CDCA"s, não é possível reconhecer a sua legitimidade para compor o polo passivo da execução, como também a possibilidade de serem cumulados pedidos executivos com base em títulos cujos procedimentos executivos não são os mesmos, nem os devedores coincidem.
+2. Cumulabilidade de ações executivas: A jurisprudência desta Corte, em consonância com o disposto no art. 573 do CPC/73, não reconhece a possibilidade de se cumularem execuções com base em títulos cujos procedimentos executivos são diversos, além de não serem os mesmo devedores.
+3. Disparidade procedimental: Inviável imiscuir-se, no seio de execução para pagamento de quantia certa, obrigação para entrega de coisa incerta, em vista da patente disparidade procedimental. Não se pode compelir, em regra, nem o devedor, nem o credor, a pagar ou receber prestação diversa da constante no título executivo, em consonância com o princípio da especialidade da execução.
+4. Conversão da obrigação: Para eventual conversão da obrigação de entregar coisa, consubstanciada nas Cédulas de Produto Rural - CPR"s (Físicas) emitidas pelos recorrentes, é necessária a concretização das hipóteses previstas no art. 627 do CPC. Precedentes.
+5. Extinção da execução: Extinção do processo executivo em face dos recorrentes, seja pela sua ilegitimidade passiva, pois não figuram como devedores nas CDCA"s, seja pela impropriedade do procedimento para pagar quantia certa em relação aos títulos emitidos pelos recorrentes (CPR"s Físicas).
+6. RECURSO ESPECIAL PROVIDO."
+(REsp n. 1.538.139/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 5/5/2016, DJe de 13/5/2016)
+"PROCESSO CIVIL. EXECUÇÃO DE ENTREGA DE COISA INCERTA. CONVERSÃO EM EXECUÇÃO DE QUANTIA CERTA. POSSIBILIDADE, DESDE QUE FRUSTRADA A PROCURA DO BEM E APURADO, EM PRÉVIA LIQUIDAÇÃO, O VALOR DA COISA. DOUTRINA. RECURSO PROVIDO.
+I - A execução para entrega de coisa incerta, após a escolha do bem, segue o rito previsto para a execução de coisa certa(arts. 621 e segs.).
+II - O objetivo específico da execução para entrega da coisa é a obtenção do bem que se encontra no patrimônio do devedor (ou de terceiro). Caso não mais seja encontrado o bem, ou no caso de destruição ou alienação, poderá o credor optar pela entrega de quantia em dinheiro equivalente ao valor da coisa e postular a transformação da execução de coisa certa em execução por quantia certa, na linha do art. 627, CPC.
+III - Indispensável, nessa hipótese, contudo, a prévia apuração do quantum, por estimativa do credor ou por arbitramento. Sem essa liquidação, fica inviável a conversão automática da execução para entrega da coisa em execução por quantia certa, mormente pelo fato que a execução carecerá de pressuposto específico, a saber, a liquidez."
+(REsp n. 327.650/MS, relator Ministro Sálvio de Figueiredo Teixeira, Quarta Turma, julgado em 26/8/2003, DJ de 6/10/2003, p. 273.)
+Incide, no ponto, o óbice da Súmula nº 568/STJ.
+Ante o exposto, conheço parcialmente do recurso especial e, nesta extensão, nego-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor atualizado da causa, os quais devem ser majorados para o patamar de 12% (doze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
