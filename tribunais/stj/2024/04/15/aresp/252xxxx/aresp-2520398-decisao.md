@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 283 do STF.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 384):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. PARCELAMENTO ORDINÁRIO. L 10.522/2002. PAGAMENTO A MENOR DA PARCELA DE ENTRADA. PURGAÇÃO DA MORA. BOA-FÉ. INTENÇÃO DE QUITAR A DÍVIDA. AUSÊNCIA DE PREJUÍZO AO ERÁRIO. POSTULADO DA PROPORCIONALIDADE. FINALIDADE DO PROGRAMA.
+1. A finalidade dos programas de parcelamento e deregularização fiscal é, de um lado, facilitar os meios para a recuperação dasaúde fiscal de empresas devedoras e, de outro, implementar a arrecadaçãofiscal.
+2. A jurisprudência deste TRF tem flexibilizado as regras, à luz dopostulado da proporcionalidade, quando há purgação da mora em situaçõessopesadas individualmente, que tratam de pequenos atrasos, atrasosintercalados de parcelas cujos valores não eram vultosos, ou mesmo depagamentos um pouco a menor, que rapidamente são regularizados,evidenciando a boa-fé do sujeito passivo e a ausência de prejuízo real ao Fiscoe às regras do parcelamento.
+3. Considerados o contorno fático do caso em exame, evidencia-sesituação que autoriza aplicação da proporcionalidade ao caso concreto,restringindo a aplicação severa da previsão legal.
+4. Mantida a sentença que concedeu a segurança a fim dedeterminar a manutenção do parcelamento em questão.
+Embargos de declaração rejeitados às fls. 422-427.
+No recurso especial o recorrente alega violação do art. 1.022, II, do CPC/15, afirmando, à fl. 439, que o tribunal de origem não enfrentou a questão suscitada nos embargos de declaração, in verbis:
+(..)
+No caso dos autos, como informado pela autoridade administrativa, a impossibilidade da redução da multa em 40% decorre de erro cometido pela contraparte no momento do preenchimento da guia DARF. Anotou a autoridade que as reduções de 40% (quarenta por cento) nas multas proporcionais constantes no Auto de Infração acostado ao processo administrativo fiscal nº 10340-720.517/2020-73, conforme previsto no art. 6º, II da Lei nº 8.218/91, com a redação dada pela Lei nº 11.941/2009, somente produziriam efeito na medida em que o pedido de parcelamento fosse acompanhado do pagamento integral das respectivas parcelas de entrada até o dia 12/02/2021.
+Não há, pois, como o débito ser parcelado sem que sejam atendidas as condições legais, nem concedida a redução da multa em questão senão mediante novas complementações das parcelas de entrada que desconsiderem as referidas reduções, como apontado pela autoridade administrativa. A concessão de parcelamento é favor legal excepcional, sujeito ao constante dos arts. 111 e 155-A do CTN, e está sujeita ao estrito atendimento ao previsto no ordenamento jurídico.
+Contrarrazões às fls. 450-467.
+Parecer do MPF, às fls. 527-532, pelo desprovimento do agravo em recurso especial.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+Afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso dos autos, evidencia-se que o tribunal de origem assim consignou às fls. 387-389:
+(..)
+Não há motivos fáticos ou jurídicos para modificar a sentença recorrida.
+A proporcionalidade e a razoabilidade têm autorizado a intervençãojudicial na atividade de tributação quando a interpretação literal da lei resultarem situação injusta, gerando consequência jurídica não proporcional ao ato praticado pelo contribuinte e, se revertida, não acarreta prejuízo ao ente tributante.
+É imperioso atentar que a flexibilização de normas em razão do postulado da proporcionalidade deve estar restrita a situações singulares em que o contexto fático demonstra que o descumprimento de alguma regra do parcelamento se mostrou pontual, tendo havido a imediata regularização dapendência, eliminando prejuízo ao Fisco. Pondera-se acerca de uma situação particular e especial, que não se estende a todo e qualquer caso de falta depagamento por determinado período.
+A jurisprudência desta Corte tem flexibilizado as regras dos programas de parcelamento e recuperação fiscal quando há purgação da moraem situações sopesadas individualmente, que tratam de pequenos atrasos, atrasos intercalados de parcelas cujos valores não eram vultosos, ou mesmo de pagamentos a menor, desde que a inadimplência seja prontamente regularizada, denotando a boa-fé do sujeito passivo, a intenção de pagar e semque exista efetivo prejuízo ao Fisco e às regras do parcelamento:
+(..)
+Conforme evidenciam os documentos no processo, a impetrante aderiu ao parcelamento ordinário da L 10.522/2002 em 12fev.2021, a fim dequitar, com redução de 40% da multa de ofício, os débitos objeto do auto de infração consubstanciado no processo administrativo fiscal 10340.720517/2020-73 (e1d4), do qual foi cientificada em 13jan.2021. Diante da impossibilidade de formular pedido virtual por indisponibilidade dos débitos no Portal e-CAC, formulou pedido em formulário físico e calculou manualmente o valor da parcela de entrada, a qual por equívoco, acabou sendo recolhida a menor, uma vez que aplicou redução de 50% sobre a multa,quando era cabível a redução de apenas 40%. Cabe frisar que o pedido foi tempestivo, porquanto formulado dentro do prazo de 30 (trinta) dias a contarda ciência do lançamento fiscal (e1d5, pp. 146-8).
+Apesar do recolhimento a menor da chamada "parcela de entrada",o equívoco importou no valor de R$ 1.601,26 (e1d8), valor não significativo diante do total da parcela devida (R$ 37.587,04), e foi prontamente regularizado em 17fev.2021, dia útil imediatamente seguinte. Ou seja, apurgação da mora se deu voluntariamente e apenas 1 dia útil após o término do prazo para parcelamento e recolhimento da primeira parcela. Ademais a impetrante seguiu recolhendo regularmente as prestações mensais vencidasnos meses subsequentes (e1d10).
+A finalidade dos programas de parcelamento e de regularização fiscal é, de um lado, facilitar os meios para a recuperação dasaúde fiscal de empresas devedoras e, de outro, incrementar a arrecadaçãofiscal.
+A conduta da apelante esteve pautada pela boa-fé, não devendo serpenalizada por erro de cálculo das parcelas que gerou saldo devedor em valor pouco significativo e que foi prontamente adimplido.
+Tudo isso considerado, evidencia-se situação que autoriza aplicaçãoda proporcionalidade ao caso concreto, restringindo a aplicação severa da previsão legal.
+A sentença deve ser mantida.
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022 do CPC/2015.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
