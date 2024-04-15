@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de agravo apresentado por CENTRO MEDICO HOSPITALAR IRATI LTDA e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL. PROCESSO CIVIL. RESPONSABILIDADE CIVIL.
+AÇÃO REGRESSIVA ORIUNDA DE AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA DE PROCEDÊNCIA. CULPA EXCLUSIVA OU CULPA CONCORRENTE DA AUTORA NÃO CONFIGURADA LAUDO PERICIAL - - VAGA EM UTI DISPONÍVEL - DIAGNÓSTICO SEM EXAME PESSOAL DO PACIENTE - FALECIMENTO DO PACIENTE DECORRENTE DE IMPRUDÊNCIA DO MÉDICO RESPONSÁVEL TÉCNICO AO NÃO PROCEDER A TRANSFERÊNCIA PARA UNIDADE DE TERAPIA INTENSIVA - CULPA EXCLUSIVA DOS APELANTES PELO EVENTO DANOSO. SENTENÇA MANTIDA. FIXAÇÃO DE HONORÁRIOS RECURSAIS. RECURSO DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 186 e 927 do CC, no que concerne à responsabilidade da recorrida pelo falecimento do paciente, tendo em vista que mesmo que houvesse a transferência para a UTI, ele teria falecido, pois não havia equipamentos necessários, tampouco médico especialista, trazendo a seguinte argumentação:
+Nos termos da fundamentação abaixo, o acórdão recorrido merece reforma pois violou os artigos 186 e 927, ambos Código Civil, ao imputar somente aos Recorrentes a responsabilidade indenizatória, mantendo a sentença que se pretendia rescindir.
+ ..
+Nobres Ministros, há de se discordar que não houve razão nas alegações dos Recorrentes em sede de Apelação, uma vez que ficou evidenciado no Laudo Pericial que, diante da falta de equipamento (tomógrafo) e de médico especializado (neurocirurgião), mesmo eventual transferência do paciente para a UTI da Santa Casa de Irati não teria salvado a vida do paciente:
+ ..
+O diagnóstico de AVC invoca a intervenção de equipe médica coordenada por neurologista, sob acompanhamento via tomografia computadorizada, recursos estes totalmente indisponíveis naquele instante. Destaque-se que o diagnóstico do AVC foi sugerido pelo próprio Recorrente, que orientou o médico plantonista a solicitar vaga na Central de Leitos, conforme se vê na Contestação feita pela própria Recorrida na ação de indenização originária.
+ ..
+Ademais, a culpa da Recorrida também está evidenciada, uma vez que admitiu que manteve o paciente na enfermaria do hospital, sem sequer ir em busca de uma possível transferência do paciente para um hospital que tivesse um neurocirurgião e o aparelho necessário (tomógrafo).
+Ou seja, mesmo evidenciado que o caso era de alta complexidade, a Recorrida autorizou a transferência do doente, que se encontrava no Pronto Socorro, para a enfermaria, que permaneceu lá internado a base de soro, sem assistência.
+Mesmo ante a negligência da Recorrida devidamente comprovada, até por confissão, restou imputada a responsabilidade indenizatória apenas aos Recorrentes, em flagrante violação dos artigos 186 e 927 do Código Civil.
+ ..
+A responsabilidade da Recorrida pelo falecimento do paciente é fato incontroverso, devidamente comprovado pela prova pericial, bem como pela própria confissão conforme acima colacionado, ao confirmar que mesmo se o paciente tivesse sido transferido para a UTI, este não teria sobrevivido, uma vez que o Hospital não tinha o equipamento necessário (tomógrafo), tampouco médico especialista.
+O que deveria ser feito era a transferência do paciente para um Hospital que contasse com neurocirurgião e tomógrafo e não a transferência do paciente para a enfermaria, sem assistência, conforme fatos já comprovados nos autos originários.
+ ..
+Por tal razão, a responsabilidade não pode ser imputável tão somente aos Recorrentes, uma vez que presente o nexo causal entre a ação da Recorrida (ausência de médico especialista, ausência de termógrafo, ausência de tentativa de transferência do paciente para outro hospital) e o resultado (morte do paciente).
+Assim, Excelências, se algum ato ilícito ou irregular foi perpetrado no caso concreto, este se deu por conta da equivocada atuação da Recorrida, por ato de seus representantes e servidores, e não pelos Recorrentes.
+ ..
+Os Recorrentes demostraram a impossibilidade de serem responsabilizadas pelo ocorrido, visto que restou incontroverso nos autos que mesmo que o paciente fosse transferido para UTI, teria falecido da mesma forma, uma vez que não havia equipamentos necessários, tampouco médico especialista, por CULPA DA RECORRIDA.
+Resta nítido que houve omissão e negligência por parte da Recorrida, cabendo a esta o dever de reparar o dano. Assim, claramente comprovada a responsabilidade civil da Recorrida, devendo ser imputada a esta, corretamente, a aplicação dos artigos acima transcritos e violados no acordão recorrido (fls. 1242/1247).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Assim, diferentemente do alegado pelos apelantes, de que a falta de equipamento e de médico especializado não mudaria o quadro do paciente se fosse transferido para a UTI, a causa determinante do óbito do paciente foi a falta de suporte clínico adequado, o seja, a ausência de transferência para leito intensivo - local adequado para tratamento do paciente falecido.
+ ..
+Assim, resta demonstrado nos autos que os funcionários da autora seguiram todos os protocolos de atendimento e em todo momento atuaram de forma adequada e observaram o devido procedimento médico. Logo, não há que se falar em culpa concorrente.
+Como destacado na perícia a Santa Casa de Irati, por decisão médica, transferiu para enfermaria o paciente em vigência de intubação e ventilação mecânica quando o correto seria em UTI, com constante vigilância da equipe assistente, para monitorização e continuidade da investigação do diagnóstico.
+O agravamento da doença ocorreu pela negativa do apelante de vaga em UTI, mesmo existindo vaga para ocupação, como demonstrado nos autos e confirmado pela testemunha Cirlene Maria Santana (mov.
+133.4).
+Além disso, ressalta-se que o apelante médico Dr. José Maria Pulido, negou o atendimento em UTI sem ao menos examinar o paciente pessoalmente (via telefone).
+Portanto, resta demonstrada a culpa exclusiva dos apelantes pelo evento danoso, devendo ser mantida a sentença que julgou procedente o pedido inicial e condenou os apelantes ao pagamento do valor correspondente à indenização paga pela autora, a título de regresso, em razão dos danos decorrentes do falecimento do paciente Naylor José Munhoz (fl. 1227/1228).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
