@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Almeida Marin Construções e Comércio Ltda. contra decisão monocrática, assim ementa (fls. 1.773):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA CONTRA EMPRESA PÚBLICAPRESTADORADE SERVIÇO PÚBLICO ESSENCIAL. PRAZO PRESCRICIONAL QUINQUENAL. INCIDÊNCIA DO DECRETO-LEI 20.910/32. PRECEDENTES DESTA CORTE. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+O embargante sustenta que a decisão encontra-se omissa, na medida em que não se atendou que o acórdão de origem não afirmou sobre a ausência de exploração de atividade econômica, finalidade lucrativa e natureza concorrencial da embargada CDHU.
+Defende que não pode este STJ "supor situação factual não efetivamente delineada ou decidida na instância ordinária no caso concreto para fins de aplicação de precedentes, mesmo porque a CDHU explora atividade econômica contida em seus estatuto e certidões JUCESP, historicamente obtém lucro e tem política de dividendos (doc. em anexo), além de não ter monopólio ou qualquer exclusividade no setor de moradias populares" (fls. 1.786).
+Por fim, aduz que os precedentes colacionados na decisão embargada não se ajustam à CDHU, bem como que houve violação de dispositivos da Constituição Federal.
+A empresa embargada apresentou impugnação às fls. 1.860/1.867, requerendo a rejeição do recurso, oportunidade em que explicita não possuir finalidade lucrativa, tampouco concorrencial.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+O acórdão embargado resolveu a controvérsia ao assentar que a jurisprudência atual desta Tribunal é firme no sentido de que, tratando-se de empresas estatais destinadas à prestação de serviços públicos essenciais e que, assim, não se dediquem à exploração de atividade econômica com finalidade lucrativa e não possuam natureza concorrencial, é possível a aplicação da regra prescricional disposta no Decreto 20.910/32, posto que, como tais, se assemelham às pessoas jurídicas de Direito Público, operando como verdadeira extensão do conceito de Fazenda Pública.
+Na oportunidade, colacionou diversos precedentes proferidos em casos análogos, ressaltando que este STJ, recentemente, em sede de embargos de divergência (EREsp 1.725.030/SP, Rel. Min. Raul Araújo, Corte Especial, DJe de 20/12/2023) reconheceu a necessidade de aplicação do referido entendimento à CDHU.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido, sendo descabida a pretensão de mero rejulgamento do feito.
+Por fim, registra-se que não compete ao Superior Tribunal de Justiça o enfrentamento de dispositivos constitucionais, ainda que para efeito de prequestionamento da matéria, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM REUCRSO ESPECIAL ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS REJEITADOS.
