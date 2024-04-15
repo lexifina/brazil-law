@@ -1,0 +1,25 @@
+DECISÃO
+Neste writ, que se volta contra o acórdão do Tribunal de Justiça de São Paulo que denegou a ordem no HC n. 2293291-36.2023.8.26.0000 (fls. 36/47), pretende-se, inclusive em caráter liminar, a imediata revogação e/ou relaxamento da segregação cautelar de Anderson Santos do Nascimento - preso preventivamente e denunciado como incurso no art. 33, caput, c/c o art. 40, inciso V, ambos da Lei n. 11.343/2006 - nos Autos n. 1500518-62.2023.8.26.0598, da 2ª Vara Criminal da comarca de Jaú/SP, com aplicação de medidas cautelares diversas (art. 319 do Código de Processo Penal), sob os argumentos, em resumo, de ilegalidade por decretação da prisão de ofício pelo Juízo de primeiro grau (o Ministério Público oficiou manifestamente contrário ao pedido da autoridade policial, requerendo a liberdade provisória); de inidoneidade de fundamentação do decreto prisional; de ausência dos requisitos autorizadores da custódia cautelar previstos no art. 312 do Código de Processo Penal; e de desnecessidade da medida constritiva extrema, ante as condições pessoais de favorabilidade - primário, emprego lícito, residência fixa (fl. 15).
+Liminar deferida (fls. 166/168).
+Prestadas as informações (fls. 171/173 e 178/192), o Ministério Público Federal opinou pelo não conhecimento do habeas corpus, mas pela concessão da ordem de ofício, para confirmar a liminar deferida (fls. 198/202).
+As últimas informações obtidas no endereço eletrônico do Tribunal de Justiça de São Paulo dão conta de que não houve o julgamento da Ação Penal n. 1500518-62.2023.8.26.0598.
+É o relatório.
+Está sob discussão no presente writ a legalidade do decreto prisional.
+A irresignação merece prosperar.
+Aos fundamentos já apresentados por mim na decisão liminar, acrescento estas palavras do Subprocurador-Geral da República José Augusto Torres Potiguar, as quais, pela precisão e clareza dos elementos apontados, também adoto como razão de decidir (fls. 201/202 - grifo nosso):
+ ..
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312, do CPP.
+O Juízo da Vara de Plantão da Comarca de Jaú/SP converteu a prisão em flagrante do paciente em prisão preventiva sob o fundamento de que "não possuindo o autuado domicílio na Comarca da acusação, o que, em tese, pode dificultar a aplicação da lei penal, corroborando, neste estágio processual, a necessidade da custódia cautelar, até que maiores elementos de prova sejam carreados aos autos, diante das peculiaridades do caso" (f. 32).
+Por sua vez, o Tribunal de origem manteve a prisão preventiva do paciente sob o fundamento genérico de que "não vislumbro qualquer ilegalidade ou constrangimento ilegal no ato de conversão da prisão em flagrante em preventiva e, ao menos por ora, infere-se que há prova da materialidade e indícios suficientes de autoria a justificar a manutenção do paciente na prisão, de modo a se revelar inviável a aplicação de medidas cautelares diversas da prisão" (f. 46).
+No caso dos autos, verifica-se que faltou motivação idônea para a prisão preventiva pois as instâncias ordinárias não demonstraram, com base em elementos extraídos dos autos, de maneira concreta, que o paciente, solto, comprometeria a ordem pública.
+O fato não se reveste de maior gravidade. O paciente é primário, bons antecedentes e não tem contra ele registros criminais embora a quantidade de drogas, cuja posse foi atribuída ao paciente, seja significativa.
+Ademais, nos termos do art. 282, §6º, do CPP, modificado pela Lei n. 13.964/2019, "a prisão preventiva somente será determinada quando não for cabível a sua substituição por outra medida cautelar, observado o art. 319 deste Código, e o não cabimento da substituição por outra medida cautelar deverá ser justificado de forma fundamentada nos elementos presentes do caso concreto, de forma individualizada".
+No particular, diante do contexto traçado nos autos, entendo que a prisão não se mostra prescindível.
+ ..
+Sob esta moldura, acolhendo o parecer ministerial, concedo a ordem para substituir a prisão preventiva imposta a Anderson Santos do Nascimento por medidas cautelares alternativas (art. 319 do Código de Processo Penal) a serem implementadas pelo Juízo de primeiro grau competente, sem prejuízo da decretação da custódia provisória em caso de descumprimento de qualquer das obrigações impostas por força das cautelares ou de superveniência de motivos concretos para tanto, ratificada a liminar anterior deferida (Ação Penal n. 1500518-62.2023.8.26.0598).
+Comunique-se "com urgência".
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. PRETENSÃO DE REVOGAÇÃO. PACIENTE PRIMÁRIO E DE BONS ANTECEDENTES. CRIME COMETIDO SEM VIOLÊNCIA OU GRAVE AMEAÇA À PESSOA. SUFICIÊNCIA E ADEQUAÇÃO DE MEDIDAS CAUTELAR ES ALTERNATIVAS. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida nos termos do dispositivo. Parecer ministerial acolhido.
