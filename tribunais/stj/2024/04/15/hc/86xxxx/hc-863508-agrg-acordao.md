@@ -1,0 +1,85 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/04/2024 a 15/04/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. VIOLAÇÃO À SOBERANIA DOS VEREDICTOS. REITERAÇÃO DE PEDIDOS. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO NÃO CONHECIDO.
+1. Diferentemente do que alega o agravante no julgamento do AREsp n. 2.035.587/SP proferido por esta Corte Superior afirmou a correção da fundamentação apresentada pelo Tribunal de origem no julgamento da apelação.
+2. A decisão agravada indeferiu liminarmente a impetração por ser substitutiva de recurso próprio e deixou de conceder a ordem de ofício uma vez que traz pedido idêntico ao formulado no AREsp n. 2.035.587/SP, julgado em 28/4/2022, configurada a reiteração de pedidos. Fundamentos esses não infirmados nas razões do presente recurso, atraindo a incidência da Súmula n. 182, desta Corte Superior.
+3. Agravo regimental não conhecido.
+RELATÓRIO
+Cuida-se de agravo regimental interposto contra decisão de fls. 127/128, que indeferiu liminarmente o habeas corpus por ser substitutivo de recurso próprio e deixou de conceder a ordem de ofício, uma vez que a impetração traz pedido idêntico ao formulado no AREsp n. 2.035.587/SP, julgado em 28/4/2022, configurada a reiteração de pedidos.
+A propósito, confira-se o teor da referida decisão:
+"Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de ROGER CASAGRANDE CUNHA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Apelação Criminal n. 1500127-59.2019.8.26.0142.
+Extrai-se dos autos que o paciente foi absolvido da imputação de crime de homicídio qualificado, conforme sentença de fls. 50/52.
+Irresignado, o Ministério Público interpôs apelação perante o Tribunal de origem, o qual deu provimento ao recurso nos termos do acórdão de fls. 107/120.
+No presente writ, a defesa sustenta que o Tribunal de origem violou a soberania dos vereditos do Tribunal do Júri. Alega que o conselho de sentença acolheu a tese defensiva em detrimento da tese da acusação, sendo assim, não seria possível ao Tribunal de Justiça rever a decisão do Conselho de Sentença.
+Requer, em liminar e no mérito, que seja restabelecida a sentença absolutória.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Ademais, a possibilidade de análise da matéria para eventual concessão da ordem de ofício não se mostra adequada no presente caso. A presente impetração traz pedido idêntico ao formulado no AREsp n. 2.035.587/SP, de minha relatoria, julgado em 28/4/2022, e em ambos se ataca acórdão do Tribunal de Justiça de São Paulo na Apelação Criminal nº 1500127-59.2019.8.26.0142. Na oportunidade o agravo foi conhecido e negado provimento ao recurso especial.
+Assim, diante de inadmissível reiteração de pedidos resta obstaculizado o conhecimento do presente mandamus.
+Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. NEGATIVA DE SEGUIMENTO. REITERAÇÃO DE PEDIDO FORMULADO NO RHC N. 42.510/RJ. MANIFESTAÇÃO DO COLEGIADO. AGRAVO REGIMENTAL DESPROVIDO.
+I - O presente recurso é mera reiteração do pedido já formulado e decidido, nos autos do RHC n. 42.510/RJ, pela col. Quinta Turma.
+II - Observa-se do termo de recebimento e autuação que ambos os processos possuem o mesmo número de origem, além de aduzirem os mesmos argumentos e formularem idênticos pedidos.
+Agravo regimental desprovido.
+(AgRg no RHC 42.638/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 10/12/2014).
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se.
+Intimem-se" (fls. 127/128).
+No presente recurso, a defesa alega que não se trata de reiteração de pedidos, visto que a matéria ventilada no writ não foi enfrentada pelo colegiado deste Superior Tribunal de Justiça.
+Afirma ainda que neste caso concreto não se verifica a necessidade de revolvimento do conjunto fático-probatório, uma vez que é possível identificar a violação à soberania dos veredictos com uma simples leitura do acórdão proferido pelo Tribunal de origem.
+Requer, assim, o provimento do agravo regimental e a concessão da ordem de habeas corpus nos termos da inicial.
+O Ministério Público Federal - MPF manifestou-se pelo desprovimento do recurso, conforme parecer de fls.154/156.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. VIOLAÇÃO À SOBERANIA DOS VEREDICTOS. REITERAÇÃO DE PEDIDOS. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO NÃO CONHECIDO.
+1. Diferentemente do que alega o agravante no julgamento do AREsp n. 2.035.587/SP proferido por esta Corte Superior afirmou a correção da fundamentação apresentada pelo Tribunal de origem no julgamento da apelação.
+2. A decisão agravada indeferiu liminarmente a impetração por ser substitutiva de recurso próprio e deixou de conceder a ordem de ofício uma vez que traz pedido idêntico ao formulado no AREsp n. 2.035.587/SP, julgado em 28/4/2022, configurada a reiteração de pedidos. Fundamentos esses não infirmados nas razões do presente recurso, atraindo a incidência da Súmula n. 182, desta Corte Superior.
+3. Agravo regimental não conhecido.
+VOTO
+O agravo não comporta conhecimento.
+Diferentemente do que alega, o agravante no julgamento do AREsp n. 2.035.587/SP proferido esta Corte Superior afirmou a correção da fundamentação apresentada pelo Tribunal de origem no julgamento da apelação. A propósito, confira-se o seguinte trecho da referida decisão:
+"Assim, atendidos os requisitos de admissibilidade e impugnado o fundamento da decisão que inadmitiu o apelo especial, conheço do agravo.
+Passo à análise do recurso especial.
+A defesa do agravante aponta ofensa ao art. 593, III, "d", do Código de Processo Penal. Sustenta, em síntese, o restabelecimento da sentença absolutória proferida pelo júri. Aduz que (..) a decisão do Júri em nada afrontou a evidência probatória (fl. 1547).
+A irresignação não merece prosperar.
+O Tribunal de origem cassou a decisão do Tribunal do júri, mediante seguinte fundamentação (fls. 1506/1508):
+"Diante desses elementos, o que sobressai é que, apesar de existirem duas versões, uma delas, a que foi sustentada pela acusação, sempre se manteve firme e coerente. Já a outra, sustentada pela Defesa, com base nas negativas apresentadas pelos acusados, sofreu variação relevante. Com efeito, descortinou-se que Roger mentiu ao afirmar que, por ocasião dos fatos, a vítima tinha deixado a sua casa com um terceiro, quando na realidade o ofendido havia saído da residência do réu juntamente com ele.
+Além da evidente e relevante contradição em que Roger incorreu, chamam a atenção, em especial, o fato de o referido réu ter sido a última pessoa a ter se encontrado com o ofendido em vida, e ainda, a circunstância de o corpo da vítima ter sido encontrado em uma propriedade que estava arrendada para Roger. Aliás, especificamente em um local que, a rigor, somente esse acusado tinha acesso. Não se pode ignorar, ademais, que o corpo da vítima foi encontrado a partir de informações passadas à polícia pela tia do acusado Jackson, que disse ter sido informado da localização por Roger.
+É relevante anotar, ainda, que uma arma de fogo foi encontrada na residência do avô de Roger, descortinando-se que o armamento estava com uma cápsula faltando, e era usado pelo referido acusado, que ficou bastante nervoso quando soube da apreensão.
+Como foi ressaltado em seu parecer pelo Procurador de Justiça oficiante,"(..) Admite-se que um ou outro desses fatos, tomados isoladamente, poderiam ser tidos como mero fator circunstancial. Todavia, considerados em conjunto, data vênia, não podem ser mera coincidência, formando um robusto e coeso conjunto de evidências. Está-se, aqui, diante de legítima prova indiciária, de fundamental importância no Tribunal do Júri justamente porque os crimes de homicídio, na maioria das vezes, são cometidos à sorrelfa e às ocultas, não contando com testemunhas presenciais. (..) Diga-se, por fim, que o apelado não produziu qualquer evidência contrária ou mesmo uma explicação plausível para contrastar tais evidências. Não explicou de maneira lógica, por exemplo, por que motivo mentiu ao ser indagado sobre a carona que deu à vítima quando esta deixou a sua casa. Tampouco explicou por que razão o corpo da vítima dentre tantos outros lugares possíveis foi encontrado justamente na propriedade da qual Roger era o arrendatário, e à qual somente ele tinha acesso. Tudo o que fez o acusado foi balbuciar um álibi fragílimo, alegando ter ido ao encontro de sua namorada no dia do crime. Todavia, a cronologia do dia dos fatos não exclui, em absoluto, a possibilidade de que o réu tenha feito as duas coisas, ou seja, que tenha matado a vítima e depois ido à escola de sua namorada justamente para poder ser visto por terceiros e alegar isso como álibi. (..)"(fls. 1478/1481).
+Ante tal panorama, é possível afirmar que, ao recusarem a autoria atribuída a Roger, os jurados contrariaram, de forma manifesta, a prova reunida nos autos.
+E isso conduz, ao menos em relação ao referido acusado, ao acolhimento da pretensão recursal do Ministério Público, com a consequente anulação do julgamento, que deverá ser renovado na origem."
+O Tribunal de origem anulou a decisão absolutória proferida pelo Conselho de Sentença, com fundamento no art. 593, III, "d", do CPP (decisão manifestamente contrária à prova dos autos), uma vez que a tese defensiva era contraditória e não restou comprovada. Nesse contexto, a desconstituição do aludido entendimento, com o restabelecimento da absolvição proferida pelo Tribunal do júri, demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula n. 07 do STJ" (fls. 1770/1771).
+No mais, os fundamentos apresentados na decisão no sentido de não admitir o manejo do habeas corpus que objetiva reiteração de pedidos, não foram infirmados nas razões do presente recurso, de modo a atrair a incidência da Súmula n. 182 desta Corte, in verbis:
+"É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. REITERAÇÃO DE PEDIDOS EM OUTRAS IMPETRAÇÕES NESTE STJ (HC n. 688.168/S, HC n. 777.295/SP E HC n. 857.664/SP). MÉRITO AMPLAMENTE ANALISADO NO PRIMEIRO WRIT (INVASÃO DE DOMICÍLIO). INDEFERIMENTO LIMINAR PELA RELATORIA ANTERIOR. SÚMULA N. 182/STJ. AGRAVO CONHECIDO E DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - No caso concreto, o agravante e seus comparsas foram presos em flagrante e condenados pelo crime de tráfico de drogas, o que resultou na apreensão de cerca de um quilo de cocaína.
+III - Nesta Corte, o presente habeas corpus foi indeferido liminarmente pela Em. Relatoria anterior, pois não passou de uma reiteração de pedidos no HC n. 688.168/S, no HC n. 777.295/SP e no HC n. 857.664/SP, tendo sido o mérito aqui posto (violação de domicílio) amplamente analisado na primeira impetração.
+IV - Assente neste STJ que não se conhece de habeas corpus (e do seu recurso) que objetiva a simples reiteração de pedido analisado em momento anterior na mesma Corte. Precedentes.
+V - No mais, os argumentos lançados atraem a Súmula n. 182 desta Corte Superior de Justiça.
+Agravo regimental conhecido e desprovido.
+(AgRg no HC n. 777.969/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 30/10/2023, DJe de 6/11/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO DOMICILIAR. GESTANTE. IMPOSSIBILIDADE. LEI N. 13.769/2018. RÉ FORAGIDA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO DA DECISÃO AGRAVADA NÃO IMPUGNADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NEGADO PROVIMENTO.
+1. No caso, o acórdão entendeu que os motivos que ensejaram a decretação da custódia persistem, inclusive com consideração da questão da gravidez, consignando que, mesmo a defesa não tendo levado a matéria ao juízo processante, a gravidez, por si só, não tem o condão de revogar automaticamente a segregação cautelar.
+2. A ora recorrente responde por delito de homicídio, sendo inadequada a substituição da custódia preventiva por prisão domiciliar, pois se trata de apuração de delito praticado, pois, cometido com violência e grave ameaça.
+3. Na hipótese, observa-se que a decisão agravada entendeu que, quanto à prisão preventiva, se tratava de reiteração de pedidos, na medida em que já esta relatoria já havia analisado a questão, inclusive após a decisão de pronúncia, nos autos do HC 778. 134/SP em 12/12/2022. A agravante, porém, deixou de impugnar, de forma específica tal fundamento em suas razões recursais, limitando-se a repisar a argumentação já trazida na inicial do writ.
+4. Assim, consoante reiterada jurisprudência deste Superior Tribunal de Justiça, a ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso, nos termos do que dispõe a Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+5. Agravo regiemental parcialmente conhecido e, nessa extensão, negado provimento.
+(AgRg no HC n. 831.257/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/10/2023, DJe de 16/10/2023.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PEDIDO DE REALIZAÇÃO DE SUSTENTAÇÃO ORAL. AUSÊNCIA DE PREVISÃO LEGAL. PLEITO ABSOLUTÓRIO FUNDADO NA ILICITUDE DAS PROVAS. MATÉRIA ANTERIORMENTE APRECIADA EM HABEAS CORPUS CONEXO. REITERAÇÃO COM IDÊNTICOS FUNDAMENTOS E PEDIDO NO RECURSO ESPECIAL. PREJUDICIALIDADE. PRETENSÃO DE RECONHECIMENTO DA MINORANTE DO TRÁFICO PRIVILEGIADO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+1. Não há previsão legal para realização de sustentação oral em sede de julgamento de agravo em recurso especial. "Como se extrai do art. 7º, § 2º-B, III, da Lei 8.906/1994, a inovação introduzida no EOAB pela Lei 14.365/2022 garantiu ao advogado o direito de sustentação no agravo interno ou regimental em sede de recurso especial, mas nada dispôs sobre o julgamento de agravo regimental no agravo em recurso especial" (AgRg no AREsp n. 2.170.433/PA, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 10/10/2022).
+2. É cediço na jurisprudência desta Corte Superior que a análise anterior das matérias objeto do recurso especial nos autos de habeas corpus impetrado com idênticos fundamentos e pedidos implica perda de interesse recursal e prejudicialidade da pretensão recursal.
+Precedentes.
+3. In casu, o pleito absolutório, fundado na alegada ilicitude das provas produzidas nos autos, em decorrência de violação de domicílio, foi anteriormente apreciado por este Superior Tribunal de Justiça, no julgamento do Habeas Corpus n. 776.076/PR, impetrado em favor da mesma parte, contra o mesmo acórdão, sob os mesmos fundamentos e com idêntico pedido. Nesse contexto, o reconhecimento da prejudicialidade do recurso especial é de rigor.
+4. A decisão agravada negou provimento ao recurso especial, no tocante à pretensão de restabelecimento da causa especial de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, com fundamento na existência de elementos concretos, consistentes nas circunstâncias do delito expressamente consignadas no acórdão recorrido, que, aliados à natureza e quantidade de entorpecentes apreendidos, amparam a conclusão de que o réu se dedicava à atividade criminosa, mais precisamente, à narcotraficância, o que, consequentemente, obsta a incidência da benesse em questão (e-STJ fl. 1159). Nas razões do regimental (e-STJ fls. 1166/1177), por sua vez, o agravante deixou de infirmar especificamente o referido fundamento.
+5. A falta de impugnação específica dos fundamentos utilizados na decisão agravada atrai a incidência da Súmula n. 182 desta Corte Superior.
+6. Agravo regimental parcialmente conhecido e não provido.
+(AgRg no AREsp n. 2.333.096/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/6/2023, DJe de 26/6/2023.)
+Ante o exposto, voto pelo não conhecimento do agravo regimental.
