@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/04/2024 a 15/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME PRISIONAL INDEFERIDA. REQUISITO SUBJETIVO NÃO IMPLEMENTADO. DECISÃO DEVIDAMENTE FUNDAMENTADA. CONTURBADO HISTÓRICO PRISIONAL DO APENADO. REGISTRO DE OITO FALTAS GRAVES. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte Superior pacificou o entendimento segundo o qual, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo. Precedentes.
+2. Não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado. Precedentes.
+No caso dos autos, o pedido de progressão do apenado ao regime semiaberto foi indeferido pela ausência do preenchimento do requisito subjetivo, tendo sido levado em consideração, sobretudo, seu conturbado histórico prisional, destacando-se a presença de diversas infrações disciplinares de natureza grave.
+Assim, evidenciada a idoneidade da fundamentação utilizada na origem, não há falar em flagrante ilegalidade que justifique a concessão da ordem de ofício.
+3. Ademais, para se modificar os fundamentos utilizados pelas instâncias ordinárias quanto ao preenchimento do requisito subjetivo da apenado, mostra-se necessário o reexame de matéria fático-probatória, providência inadmissível na via estreita do habeas corpus.
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por FERNANDO DOS SANTOS CONCEICAO contra decisão singular que indeferiu liminarmente habeas corpus.
+O agravante, em síntese, reitera a tese de que o apenado preenche todos os requisitos para a progressão de regime e que faltas antigas não podem afastar o benefício.
+Diante disso, busca a reconsideração do decisum ou o julgamento do recurso pelo órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME PRISIONAL INDEFERIDA. REQUISITO SUBJETIVO NÃO IMPLEMENTADO. DECISÃO DEVIDAMENTE FUNDAMENTADA. CONTURBADO HISTÓRICO PRISIONAL DO APENADO. REGISTRO DE OITO FALTAS GRAVES. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte Superior pacificou o entendimento segundo o qual, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo. Precedentes.
+2. Não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado. Precedentes.
+No caso dos autos, o pedido de progressão do apenado ao regime semiaberto foi indeferido pela ausência do preenchimento do requisito subjetivo, tendo sido levado em consideração, sobretudo, seu conturbado histórico prisional, destacando-se a presença de diversas infrações disciplinares de natureza grave.
+Assim, evidenciada a idoneidade da fundamentação utilizada na origem, não há falar em flagrante ilegalidade que justifique a concessão da ordem de ofício.
+3. Ademais, para se modificar os fundamentos utilizados pelas instâncias ordinárias quanto ao preenchimento do requisito subjetivo da apenado, mostra-se necessário o reexame de matéria fático-probatória, providência inadmissível na via estreita do habeas corpus.
+4. Agravo regimental desprovido.
+VOTO
+Inicialmente, esclareço que, encaminhados os autos ao Ministério Público para manifestação sobre o recurso interposto, o Parquet Federal pediu a intimação do Ministério Público Estadual para contraminutar o agravo regimental.
+Não há previsão legal ou regimental de contrarrazões ao agravo regimental em habeas corpus, sendo prescindível a intimação do Ministério Público Estadual para apresentar resposta ao recurso da defesa.
+A intervenção do Ministério Público, órgão uno e indivisível (CF, art. 127, § 1º), nos procedimentos de habeas corpus nos tribunais, fundada no Decreto-lei n. 552/69, é efetivada pela concessão de oportunidade para manifestação do Subprocurador-Geral da República atuante nesta Corte Superior. É irrelevante, segundo a melhor exegese dos objetivos da norma, ser de custo s legis o perfil dessa atuação.
+Quanto ao mérito, o presente agravo regimental não merece provimento, em que pesem os argumentos apresentados pelo agravante, devendo a decisão ser mantida por seus próprios fundamentos.
+No caso, busca-se a progressão do agravante ao regime semiaberto.
+É certo que, nos termos do que dispõe o art. 112 da Lei de Execuções Penais - LEP, o apenado deverá cumprir os requisitos de natureza objetiva (lapso temporal) e subjetiva (atestado de boa conduta carcerário) para a concessão do benefício da progressão de regime prisional.
+Todavia, esta Corte Superior pacificou o entendimento segundo o qual, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das Execuções, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo.
+Cumpre ressaltar, também, que não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado.
+Vejam-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPUGNAÇÃO DEFENSIVA. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. PREVISÃO DE JULGAMENTO EM DECISÃO MONOCRÁTICA NO ORDENAMENTO JURÍDICO. PROGRESSÃO AO REGIME ABERTO. IMPOSSIBILIDADE. HISTÓRICO DE FALTAS GRAVES. DETERMINAÇÃO DE EXAME CRIMINOLÓGICO. FUNDAMENTO IDÔNEO. AGRAVO IMPROVIDO.
+1. Segundo reiterada manifestação desta Corte, não viola o princípio da colegialidade a decisão monocrática do Relator calcada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista a possibilidade de submissão do julgado ao exame do Órgão Colegiado, mediante a interposição de agravo regimental.  ..  (AgRg no HC 650.370/RS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 13/04/2021, DJe 29/04/2021).
+2. A prática de faltas graves é indicativa da ausência de cumprimento do requisito subjetivo da progressão de regime.
+A circunstância de o paciente já haver se reabilitado, pela passagem do tempo, desde o cometimento das sobreditas faltas, não impede que se invoque o histórico de infrações praticadas no curso da execução penal, como indicativo de mau comportamento carcerário (HC n.º 347.194/SP, Rel. Ministro FELIX FISCHER, julgado em 28/6/2016).
+3. No caso, o Tribunal apontou elementos concretos atinentes à execução, suficientes para o regresso do apenado ao regime semiaberto, até a realização de exame criminológico, quais sejam, duas faltas disciplinadas de natureza grave, a última praticada em 2017, bem como o cometimento de novos crimes quando beneficiado, uma vez, pela progressão ao regime aberto.
+4. Agravo improvido.
+(AgRg no HC 684.918/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 20/8/2021.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. LIVRAMENTO CONDICIONAL. FALTA GRAVE. NOVO DELITO. AUSÊNCIA DE PREENCHIMENTO DE REQUISITO SUBJETIVO. ALTERAÇÃO DE ENTENDIMENTO. REVOLVIMENTO FÁTICO-PROBATÓRIO. VIA IMPRÓPRIA. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte é assente no sentido de que não ofende o princípio da colegialidade a prolação de decisão monocrática pelo relator, quando estiver em consonância com súmula ou jurisprudência dominante desta Corte e do Supremo Tribunal Federal.
+2. A teor do disposto no art. 83 do Código Penal, o livramento condicional será deferido aos condenados com pena privativa de liberdade superior a 2 anos, desde que atendidos determinados requisitos objetivos e subjetivos, constituindo estes na comprovação de comportamento satisfatório durante a execução da pena, a saber, observância das obrigações que lhe foram impostas, bom desempenho no trabalho que lhe fora atribuído e aptidão para prover a própria subsistência mediante trabalho honesto.
+3. As instâncias ordinárias entenderam que o caso em questão requer cautela, diante do histórico prisional do agravante, que cometeu falta disciplinar consistente em crime doloso, aos 10/5/2015, quando estava foragido.
+4. Embora o paciente tenha cumprido o requisito temporal para o livramento condicional, é sabido que o magistrado define sua convicção pela livre apreciação da prova, analisando os critérios subjetivos, in casu, o histórico prisional do apenado.
+5. Ademais, o "atestado de boa conduta carcerária não assegura o livramento condicional ou a progressão de regime ao apenado que cumpriu o requisito temporal, pois o Juiz não é mero órgão chancelador de documentos administrativos e pode, com lastros em dados concretos, fundamentar sua dúvida quanto ao bom comportamento durante a execução da pena" (AgRg no HC 572.409/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 2/6/2020, DJe 10/6/2020).
+6. "As faltas graves praticadas pelo apenado durante todo o cumprimento da pena, embora não interrompam a contagem do prazo para o livramento condicional, justificam o indeferimento do benefício por ausência do requisito subjetivo. 3. Não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado" (HC 564.292/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 16/6/2020, DJe 23/6/2020).
+7. O remédio constitucional não é o mecanismo próprio para a análise de questões que exijam o exame do conjunto fático-probatório em razão da incabível dilação probatória que seria necessária.
+8. Agravo regimental desprovido.
+(AgRg no HC 619.682/DF, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 18/12/2020.)
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. NOVA ORIENTAÇÃO JURISPRUDENCIAL. PROGRESSÃO DE REGIME. AUSÊNCIA DE PREENCHIMENTO DO REQUISITO SUBJETIVO. DECISÃO FUNDAMENTADA EM DADOS CONCRETOS DOS AUTOS. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO.
+ .. .
+III - Para a concessão do benefício da progressão de regime, deve o reeducando preencher os requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento carcerário), nos termos do art. 112 da Lei de Execuções Penais.
+IV - Não se vislumbra qualquer ilegalidade ou arbitrariedade no entendimento consignado pelas instâncias ordinárias, que indeferiram a progressão de regime do sentenciado, ora paciente, em razão da ausência de preenchimento do requisito subjetivo - devidamente fundamentada nas peculiaridades do caso concreto -, sobretudo na ausência de assimilação da terapêutica prisional e persistência na prática delitiva.
+V - Esta Corte possui entendimento consolidado no sentido de ser inviável, na via estreita do habeas corpus, examinar se estão ou não presentes os requisitos subjetivos e objetivos para a progressão de regime prisional, pois demandaria dilação probatória aprofundada.
+Habeas Corpus não conhecido.
+(HC 335.082/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 2/2/2016.)
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. LIVRAMENTO CONDICIONAL. FALTAS GRAVES. AUSÊNCIA DE REQUISITO SUBJETIVO. LIMITAÇÃO DO PERÍODO DE AFERIÇÃO DO REQUISITO SUBJETIVO. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça firmou entendimento no sentido de que, malgrado não interrompa o prazo para fins de livramento condicional (Súmula/STJ n. 441), a prática de falta grave impede a concessão do aludido benefício, por evidenciar a ausência do requisito subjetivo exigido durante a execução da pena, nos termos do disposto no art. 83, III, do Código Penal.
+2. Segundo entendimento fixado por esta Corte, não se aplica limite temporal para a análise do preenchimento do requisito subjetivo, devendo ser considerado todo o período de execução da pena, a fim de se averiguar o mérito do apenado. Precedentes.
+3. Desse modo, no caso concreto, o cometimento de 2 (duas) faltas graves durante a execução penal é causa suficiente para o indeferimento do benefício legal, consoante exposto no art. 83, III, do Código Penal.
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC 417.233/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 1º/12/2017.)
+HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. NÃO CONHECIMENTO.
+ .. .
+EXECUÇÃO PENAL. PROGRESSÃO DE REGIME PRISIONAL. INDEFERIMENTO. REQUISITO SUBJETIVO. AUSÊNCIA. ELEMENTOS CONCRETOS. PRÁTICA DE FALTAS GRAVES E DE NOVOS DELITOS. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+1. É assente nesta Corte Superior o entendimento de que, nos termos do artigo 112 da LEP, é necessário o preenchimento dos requisitos objetivo e subjetivo pelo apenado para a obtenção da progressão de regime prisional.
+2. No caso, não há constrangimento ilegal, na medida em que as instâncias ordinárias justificaram o indeferimento do benefício da progressão prisional, em razão da ausência do requisito subjetivo, com base nas peculiaridades da situação fática - cometimento de faltas graves, e de novos delitos no curso de livramento condicional.
+3. Habeas corpus não conhecido.
+(HC 333.239/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 20/11/2015. )
+No caso dos autos, o Tribunal a quo manteve o indeferimento da benesse sob os seguintes fundamentos:
+" ..
+Destarte, tendo em vista a excepcionalidade do presente caso, ante a gravidade dos crimes dolosos pelos quais o sentenciado se viu condenado, e o fato dele ter cometido diversas faltas disciplinares durante o cumprimento de pena, não havendo evidências seguras da sua assimilação terapêutica penal, não é possível e prudente propiciar a progressão de regime prisional, sem que se tenha certeza de que ele possui condições de usufruir do benefício, sem voltar a delinquir.
+Cumpre salientar que a pena tem como um de seus objetivos a ressocialização do condenado e este tem todo prazo da condenação para tentar se afastar da criminalidade. Dessa forma, uma prematura concessão de benefício, além de subtrair o tempo necessário à reflexão do condenado, somente se presta para desacreditar e desprestigiar o sistema jurídico-punitivo do Estado.
+Sendo assim, à evidência, o sentenciado não preenche o requisito subjetivo para alcançar a progressão ao regime semiaberto" (fls. 50/51).
+Verifica-se que o pedido de progressão de regime pleiteado pelo agravante foi indeferido pela ausência de preenchimento do requisito subjetivo, tendo sido levado em consideração, sobretudo, o conturbado histórico prisional do apenado, destacando-se o registro de diversas faltas graves.
+Assim, mostrou-se evidenciada a idoneidade da fundamentação utilizada na origem, não havendo falar, portanto, em existência de flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ademais, cabe lembrar que o afastamento dos fundamentos utilizados pelas instâncias ordinárias quanto ao mérito subjetivo do apenado demandaria o reexame de matéria fático-probatória, providência inadmissível na via estreita do habeas corpus.
+Ante o exposto, voto pelo desprovimento do agravo regimental.
