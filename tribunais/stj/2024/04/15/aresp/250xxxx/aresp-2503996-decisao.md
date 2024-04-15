@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de agravo interposto por PRESTES CONSTRUTORA E INCORPORADORA LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ cuja ementa guarda os seguintes termos (fls. 705-706):
+APELAÇÕES CÍVEIS. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS. VÍCIOS CONSTRUTIVOS. SENTENÇA DE INTEGRAL PROCEDÊNCIA.
+1. PRESSUPOSTOS RECURSAIS. TESE DA RÉ DE INCIDÊNCIA DO DEVER DE MITIGAR O PRÓPRIO PREJUÍZO ("DUTY TO MITIGATE THE LOSS"). INOVAÇÃO EM ALEGAÇÕES FINAIS E EM APELAÇÃO. VIOLAÇÃO AO PRINCÍPIO DA CONCENTRAÇÃO DA DEFESA. RECURSO DE APELAÇÃO (2) NÃO CONHECIDO NESTE PONTO.
+2. PRELIMINARMENTE. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. PLEITO DE PRODUÇÃO DE PROVA ORAL, COM A OITIVA DA AUTORA. DESNECESSIDADE DE DILAÇÃO PROBATÓRIA NA FORMA PRETENDIDA. ELEMENTOS FÁTICO-PROBATÓRIOS SUFICIENTES PARA FORMAR O CONVENCIMENTO DO JULGADOR, EFETIVO DESTINATÁRIO DA PROVA.
+3. ALEGAÇÃO DE NULIDADE PROCESSUAL POR FALTA DE INTIMAÇÃO PARA APRESENTAÇÃO DE ALEGAÇÕES FINAIS. REJEIÇÃO. FASE NÃO OBRIGATÓRIA. AUSÊNCIA DEPREJUÍZO.
+4. MÉRITO. RESPONSABILIDADE PELOS VÍCIOS CONSTATADOS NO IMÓVEL DA AUTORA. ART. 12, DO CÓDIGO DE DEFESA DO CONSUMIDOR. LAUDO PERICIAL QUE ATESTA DE FORMA CLARA A EXISTÊNCIA DE DEFEITOS DECORRENTES DE FALHAS NA EXECUÇÃO DA OBRA. EXCLUDENTES DE RESPONSABILIDADE NÃO CONFIGURADAS. INEXISTÊNCIA, ADEMAIS, DE INFORMAÇÃO AO CONSUMIDOR SOBRE A PERIODICIDADE DAS MANUTENÇÕES NECESSÁRIAS. DEVER DE REPARAÇÃO DA CONSTRUTORA CONFIGURADO. PROCEDÊNCIA MANTIDA NESTE PONTO.
+5. JUROS DE MORA SOBRE OS DANOS MATERIAIS. TERMO INICIAL. DATA DA CITAÇÃO (ART. 405, DO CC/02). RELAÇÃO CONTRATUAL. MODIFICAÇÃO DA SENTENÇA NESTE PONTO.
+6. DANOS MORAIS NÃO CONFIGURADOS. PECULIARIDADES DO CASO CONCRETO. DEFICIÊNCIA NA CONSTRUÇÃO QUE NÃO COMPROMETE A HABITABILIDADE DO IMÓVEL. MERO DISSABOR. PRECEDENTES. SENTENÇA REFORMADA NESTE TOCANTE.
+7. REDISTRIBUIÇÃO DOS ÔNUS DE SUCUMBÊNCIA.
+RECURSO DE APELAÇÃO (1) CONHECIDO E PARCIALMENTE PROVIDO. RECURSO DE APELAÇÃO (2) CONHECIDO EM PARTE E, NESTA EXTENSÃO, PARCIALMENTE PROVIDO.
+Sem embargos de declaração.
+No recurso especial, alega a parte recorrente que o acórdão contrariou as disposições contidas nos arts. 128 e 1.013, § 1º, do CPC, pois entende que a tese a respeito do dever de mitigar o próprio prejuízo foi tratada na contestação, ainda que com outra metodologia.
+Foram oferecidas contrarrazões ao recurso especial (fls. 740-747).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 748-749), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 763-770).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+De início, o recurso especial não comporta conhecimento quanto à alegada violação do art. 128 do CPC, visto que não tem comando normativo apto a amparar a tese recursal, pois ele versa sobre denunciação à lide, matéria estranha aos autos, o que atrai os preceitos da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+No mesmo sentido, cito:
+III - Na espécie, incide o óbice da Súmula n. 284/STF em razão da ausência de comando normativo dos dispositivos apontados como violados, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+IV - Segundo a jurisprudência do STJ, o óbice de ausência de comando normativo do artigo de lei federal apontado como violado ou como objeto de divergência jurisprudencial incide nas seguintes situações: quando não tem correlação com a controvérsia recursal, por versar sobre tema diverso; e quando sua indicação não é apta, por si só, para sustentar a tese recursal, seja porque o dispositivo legal tem caráter genérico, seja porque, embora consigne em seu texto comando específico, exigiria a combinação com outros dispositivo legais. (AgInt no AREsp n. 2.035.985/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 31/8/2022.)
+1. A alegada afronta à lei federal não foi demonstrada com clareza, pois o único dispositivo apontado como violado não tem comando normativo suficiente para amparar a tese recursal, atraindo, por analogia, o óbice da Súmula 284 do STF. (AgInt no REsp n. 1.981.159/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 22/6/2022.)
+A respeito da tese do dever de mitigar as perdas, o Tribunal de origem apenas consignou a inovação recursal e não conheceu da apelação no ponto. Veja-se (fls. 707-708):
+Inicialmente, o recurso de Apelação (2), interposto pela ré, não comporta conhecimento quanto à tese de incidência do dever de mitigar as perdas (duty to mitigate the loss), decorrente da boa-fé objetiva.
+Isso porque tal alegação foi veiculada pela construtora ré somente por ocasião de interposição do Apelo (mov. 206.1).
+(..)
+Assim, a matéria não merece conhecimento por este colegiado, sob pena de ofensa ao Princípio da Concentração da Defesa, além de caracterização de inovação recursal.
+Com efeito, da análise do acórdão recorrido, observa-se que o Tribunal de origem não analisou a demanda conforme o viés pretendido pela recorrente, pois não se pronunciou sobre o art. 1.013, § 1º, do CPC.
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente. Assim, incide, no caso, o enunciado das Súmulas n. 282 e 356 do excelso Supremo Tribunal Federal.
+Súmula 282: "É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida a questão federal suscitada".
+Súmula 356: "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Nesse sentido, confiram-se julgados:
+2. A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial e sobre o qual não foram opostos embargos de declaração evidencia a falta de prequestionamento, incidindo o disposto nas Súmulas n.ºs 282 e 356 do STF. (AgInt no AREsp n. 2.137.709/GO, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 7/12/2022.)
+1. Não enfrentada no julgado impugnado a tese apontada no recurso especial, há falta do prequestionamento, o que faz incidir in casu o óbice das Súmulas 282 e 356 do STF. (AgInt no REsp n. 1.955.601/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/4/2022, DJe de 19/4/2022.)
+Por seu turno, se a recorrente entendesse existir alguma eiva no acórdão impugnado, ainda que a questão federal tenha surgido somente no julgamento perante o Tribunal a quo, deveria ter oposto embargos declaratórios, a fim de que fosse suprida a exigência do prequestionamento e viabilizado o conhecimento do recurso em relação aos referidos dispositivos legais e, caso persistisse tal omissão, imprescindível a alegação devidamente fundamentada de violação do art. 1.022 do CPC, quando da interposição do recurso especial com fundamento na alínea "a" do inciso III do art. 105 da Constituição Federal, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Nesse sentido, cito :
+1. A ausência de enfrentamento da matéria pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência das Súmulas 211 do STJ e 282 do STF.
+1.1. In casu, não foram opostos embargos de declaração pela ora recorrente, tampouco fora apontado nas razões do apelo extremo, violação do artigo 1.022 do CPC/15, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema. (AgInt no AREsp n. 1.700.683/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 1/10/2020.)
+1. Não tendo sido a matéria decidida na instância ordinária à luz do preceito legal indicado pela parte (arts. 319 e 332 do CPC; 39, V, do CDC), mesmo tendo sido opostos embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados 282 da Súmula do Supremo Tribunal Federal e 211 da Súmula do STJ. Ademais, os recorrentes não aduziram nas razões do recurso especial ofensa ao art. 535 do CPC. (AgInt no REsp n. 1.482.892/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 10/10/2016.)
+2. Não obstante tenham sido opostos embargos de declaração, concluiu o Tribunal por rejeitá-los, sem se manifestar sobre as questões alegadas pelos apelantes, notadamente sobre aquelas explicitadas nos embargos.
+3. Está claro, assim, que nenhuma das questões ventiladas no recurso especial foi objeto de debate e decisão pelo Tribunal de origem, circunstância que torna inadmissível o recurso, ante a falta do indispensável prequestionamento.
+4. Com efeito, a falta de debate pela instância ordinária inviabiliza o conhecimento do especial por ausência de prequestionamento.
+5. De fato, na hipótese, houve apresentação de embargos de declaração no Tribunal a quo para sanar possível omissão. Deveria a parte, se essa persistisse, ter fundamentado seu recurso no art. 535 do CPC, o que não foi feito na presente demanda, estando patente a ausência de prequestionamento acerca da matéria em questão. (AgRg no REsp n. 1.107.521/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 29/6/2015.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados pelo Tribunal de origem para 18% sobre o valor atualizado da condenação, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
