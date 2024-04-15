@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MARIETA ANDRADE ALVES RIBEIRO à decisão da lavra da Ministra Assusete Magalhães, que conheceu e deu provimento ao recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS:
+ ..  para limitar a possibilidade de acumulação do auxílio-acidente e da aposentadoria às hipóteses em que a eclosão da lesão incapacitante e a concessão da aposentadoria sejam anteriores à edição da Medida Provisória 1.596-14/97, posteriormente convertida na Lei 9.528/97, em consonância com a jurisprudência desta Corte a respeito da matéria. (fl. 315)
+Inconformada, sustenta a parte ora embargante, in verbis (fls. 320-321):
+1 - A quantidade de recursos apresentados pela autarquia motivou a ocorrência de inobservância de pontos principais já decididos nos autos, como abaixo se revela:
+O v. acórdão proferido na fase de conhecimento (fl.e-STJ-305/312), seguido de Embargos Declaratórios (fl.e-STJ- 325/327), definiu o seguinte:
+De inicio, numa singela leitura do v. aresto, mais precisamente a fls. 218, o mesmo deixa claro que em atenção ao principio "tempus regit actum", havendo noticia nos autos de que a moléstia eclodiu em dezembro de 1991 ( fls. 154), deve ser concedido, à segurada, auxilio acidente de 30% do salário de contribuição (vitalício), nos termos da Lei 8213/91 na sua redação original, e não auxilio acidente de 50%, como constou da r. sentença.
+2 - O v. acórdão transitou em julgado em 03/04/2012 (fl.e-STJ-357), e, em seguida, iniciou-se a fase de execução, ocasião em que, novamente a autarquia alegou impossibilidade de cumulação de benefícios.
+Naquela oportunidade a alegação já estava sob o manto da coisa julgada, via de consequência, não poderia ser restabelecida na via escolhida, mas sim, através de Ação Rescisória.
+A figura da coisa julgada, portanto, torna imutável e indiscutível a decisão de mérito transitada em julgado.
+Em resumo, a matéria alegada à época, ou seja, de cumulação de beneficio, já havia sido decidida na fase de conhecimento, e que a autarquia permitiu a ocorrência do trânsito em julgado, e, portanto, a alegação em Embargos a Execução, estava preclusa exatamente pela ocorrência de coisa julgada (e-STJ305/312 e 325/327).
+Dessa forma, e diante do artigo 5º da Constituição Federal, e seu inciso XXXVI, o respeito a coisa julgada deve prevalecer.
+Por fim, registre-se que não era ônus da obreira, em apresentar qualquer tipo de recurso, mas sim, da autarquia se insurgir contra a coisa julgada e não cumulação de benefícios.
+Requer, assim, o acolhimento dos declaratórios "para o justo fim de sanar o erro material/omissão/contradição apontadas, por medida de justiça, devendo os presentes embargos, serem recebidos com caráter modificativo do decisório" (fl. 321).
+Intimada, a parte embargada não apresentou resposta (fl. 351).
+Por intermédio da petição n. 00884775/2023, a parte embargante apresenta aditamento aos embargos, requerendo a juntada de documentação (fl. 341).
+É o relatório. Decido.
+De início, nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+Infere-se, portanto, que, não obstante a orientação acerca da natureza recursal dos declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum, em casos, justamente, nos quais eivado de obscuridade, contradição, omissão ou erro material. Não têm, pois, em regra, caráter substitutivo ou modificativo, mas aclaratório ou integrativo.
+No caso, a decisão embargada está suficientemente fundamentada, no sentido de que (fls. 313-315; sem grifos no original):
+ ..  Destaco, de plano, que a questão da coisa julgada, tratada nas contrarrazões, a fls. 289/292e, não foi objeto do acórdão recorrido, ao passo que não foi interposto recurso pela parte interessada.
+Observado tal ponto, no que diz respeito à possibilidade de cumulação do benefício de auxílio-acidente com aposentadoria, o STJ, no julgamento do REsp 1.296.673/MG, em regime de recurso repetitivo, considerou concluiu que a "acumulação do auxílio-acidente com proventos de aposentadoria pressupõe que a eclosão da lesão incapacitante, ensejadora do direito ao auxílio-acidente, e o início da aposentadoria sejam anteriores à alteração do art. 86, §§ 2º e 3º, da Lei 8.213/1991".
+Confira-se a ementa do referido julgado, in verbis:
+(..)
+Ainda, nos termos da Súmula 507 desta Corte, "a acumulação de auxílio- acidente com aposentadoria pressupõe que a lesão incapacitante e a aposentadoria sejam anteriores a 11/11/1997, observado o critério do art. 23 da Lei n. 8.213/1991 para definição do momento da lesão nos casos de doença profissional ou do trabalho".
+Assim, há empecilho legal à concessão do auxílio-acidente de forma vitalícia, ou, em outras palavras, de forma cumulada com eventual e futura aposentadoria, pois isso só seria possível se ambos os benefícios tivessem fatos geradores ocorridos antes da vedação legal do art. 86 da Lei 8.213/91, com as alterações pela Lei 9.528/97, o que não se verifica na espécie.
+Nesse sentido, os recentes julgados:
+(..)
+Ante o exposto, conheço e dou provimento ao Recurso Especial, para limitar a possibilidade de acumulação do auxílio-acidente e da aposentadoria às hipóteses em que a eclosão da lesão incapacitante e a concessão da aposentadoria sejam anteriores à edição da Medida Provisória 1.596-14/97, posteriormente convertida na Lei 9.528/97, em consonância com a jurisprudência desta Corte a respeito da matéria.
+Da leitura do excerto transcrito, verifica-se que a decisão ora embargada, fundamentadamente, analisou a questão controvertida, deixando registrado que "a questão da coisa julgada, tratada nas contrarrazões, a fls. 289/292e, não foi objeto do acórdão recorrido, ao passo que não foi interposto recurso pela parte interessada" e, também, que, na forma do entendimento uniformizado desta Corte a respeito da matéria"
+ ..  há empecilho legal à concessão do auxílio-acidente de forma vitalícia, ou, em outras palavras, de forma cumulada com eventual e futura aposentadoria, pois isso só seria possível se ambos os benefícios tivessem fatos geradores ocorridos antes da vedação legal do art. 86 da Lei 8.213/91, com as alterações pela Lei 9.528/97, o que não se verifica na espécie.
+Outrossim, o requisito do prequestionamento é exigido por esta Corte Superior inclusive, nas matérias de ordem pública.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. QUESTÕES JÁ DECIDIDAS NO ACÓRDÃO EMBARGADO. REDISCUSSÃO. IMPOSSIBILIDADE. NECESSIDADE DE PREQUESTIONAMENTO MESMO PARA AS QUESTÕES DE ORDEM PÚBLICA.
+1. Trata-se de Embargos de Declaração contra acórdão que não conheceu do Recurso Especial sob o fundamento de que o tema da prescrição, invocado pelo recorrente, não foi prequestionado, além do que se trataria de questão de ordem pública.
+ ..
+5. "Não se admite o manejo dos aclaratórios com exclusivo propósito de rediscutir o mérito das questões já decididas pelo acórdão impugnado" (EDcl no AgInt na AR 6.601/DF, Rel. Min. Og Fernandes, Primeira Seção, DJe 14.8.2020). No mesmo sentido: AgInt no AREsp 323.892/PR, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 22.11.2018; AgInt no REsp 1.498.690/RS, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJe 20.3.2017; EDcl no AgInt no RMS 61.830/MS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 14.10.2020.
+6. Pontue-se, ademais, que a jurisprudência do Superior Tribunal de Justiça é de que mesmo as matérias de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem de prequestionamento para que possam ser analisadas na instância extraordinária. Precedentes: AgInt no REsp 1856683/ES, Rel. Min. Francisco Falcão, Segunda Turma, DJe 28/05/2021; AgInt no AREsp 1090437/SP, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 11/12/2019; REsp 1383671/RN, Rel. Min. Og Fernandes, Segunda Turma, DJe 20/05/2019.
+7. Embargos de declaração rejeitados. (EDcl no REsp n. 1.772.855/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/6/2023, DJe de 28/6/2023.)
+Diante desse contexto, não há qualquer omissão, contradição, obscuridade ou erro material perpetrado pela decisão embargada, revelando-se, assim, o nítido propósito de reexame da matéria.
+Deve-se ressaltar que, seja à luz do CPC/73 ou do CPC vigente, os embargos de declaração não constituem veículo próprio para o exame das razões atinentes ao inconformismo da parte, tampouco meio de revisão, rediscussão e reforma de matéria já decidida.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015.
+1. Nos rígidos limites estabelecidos pelo art. 1.022, do Código de Processo Civil de 2015, os embargos de declaração destinam-se apenas a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes quando algum desses vícios for reconhecido.
+2. A contradição que autoriza a oposição de embargos de declaração é a interna, ou seja, aquela entre proposições do próprio decisum. O descontentamento com a conclusão do julgado não dá ensejo à contradição prevista no art. 1.022, I, do CPC/2015.
+3. O recurso aclaratório não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa.
+4. EMBARGOS DE DECLARAÇÃO REJEITADOS. (EDcl no REsp n. 1.469.545/SC, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 26/2/2024, DJe de 29/2/2024.)
+PROCESSO CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. CORREÇÃO MONETÁRIA. CONTRADIÇÃO NO ACÓRDÃO. INEXISTÊNCIA. RECURSO REJEITADO.
+1. O pedido formulado no agravo interno referiu-se à manutenção do julgamento do recurso especial, em que fora decidido que a correção monetária deveria ser calculada com base no INPC. É firme o entendimento no Superior Tribunal de Justiça de que o INPC, previsto no art. 41-A da Lei 8.213/1991, abrange apenas a correção monetária dos benefícios de natureza previdenciária. Incabível o provimento do agravo interno para tal fim, em respeito ao Tema 905/STJ, não havendo que se falar em contradição.
+2. Tratando-se de condenação judicial referente a servidor público, a correção monetária não deve ser calculada com base no INPC, tampouco na TR, e sim conforme o decidido no julgamento do Recurso Especial 1.495.146/MG, nos termos do voto embargado.
+3. Embargos de declaração rejeitados. (EDcl no AgInt nos EDcl no REsp n. 1.436.407/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023.)
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSO CIVIL. OMISSÃO. INEXISTÊNCIA. MATÉRIA DE ORDEM PÚBLICA. EXIGÊNCIA DE PREQUESTIONAMENTO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
