@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/04/2024 a 15/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. PROGRESSÃO DE REGIME. HABEAS CORPUS IMPETRADO CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR. NÃO INAUGURADA A COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Insurge-se a defesa contra decisão singular de desembargador do Tribunal de Justiça do Estado do Mato Grosso do Sul contra a qual seria cabível agravo regimental que, aparentemente, não foi interposto, o que impossibilita o conhecimento deste habeas corpus, uma vez não inaugurada a competência do Superior Tribunal de Justiça.
+2. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por DARLEI MATOS MENDES contra decisão, às e-STJ fls. 124/125, por meio da qual a Ministra Presidente indeferiu liminarmente o writ.
+Na hipótese, a defesa impetrou habeas corpus apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO DO SUL (HC n. 1400089-91.2024.8.12.0000).
+Depreende-se dos autos que o acusado cumpre pena privativa de liberdade. A defesa requereu a progressão ao regime aberto, mas foi indeferido, em razão de o resultado do exame criminológico ter sido desfavorável, e determinada nova realização do exame após o decurso do prazo de um ano.
+Decorrido o prazo, o novo exame foi designado para o dia 7/2/2024 (e-STJ fl. 97).
+Impetrado prévio writ perante o Tribunal de origem, a Desembargadora relatora indeferiu liminarmente o habeas corpus (e-STJ fls. 35/41).
+No habeas corpus, alegou a defesa que o paciente preenche o requisito subjetivo para concessão do benefício executório, não havendo fundamentação idônea para a determinação da realização de novo exame criminológico, seja porque há atestado de boa conduta carcerária, seja por não ser possível justificar a exigência do exame com base na gravidade abstrata do delito.
+Requereu, liminarmente, o cancelamento da perícia, determinando ao juiz de primeiro grau que se abstenha de determinar a realização de exame criminológico até o julgamento do presente writ. No mérito, pugnou pela determinação de análise do benefício independentemente de avaliação criminológica.
+Às e-STJ fls. 124/125, a Ministra Presidente indeferiu liminarmente o writ.
+Nesta oportunidade, a defesa reitera os termos da inicial.
+Acrescenta que "a matéria levada nos autos do habeas corpus, pode ser analisada DE OFÍCIO, em se tratando de FLAGRANTE ILEGALIDADE, sem que haja supressão de instância" (e-STJ fl. 138).
+Requer, assim, a reconsideração da decisão ou a submissão do pleito ao órgão colegiado.
+Pedido de sustentação oral à e-STJ fl. 56.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. PROGRESSÃO DE REGIME. HABEAS CORPUS IMPETRADO CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR. NÃO INAUGURADA A COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Insurge-se a defesa contra decisão singular de desembargador do Tribunal de Justiça do Estado do Mato Grosso do Sul contra a qual seria cabível agravo regimental que, aparentemente, não foi interposto, o que impossibilita o conhecimento deste habeas corpus, uma vez não inaugurada a competência do Superior Tribunal de Justiça.
+2. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso não merece prosperar.
+Conforme consignado na decisão agravada, insurge-se a defesa contra decisão singular de desembargador do Tribunal de Justiça do Estado do Mato Grosso do Sul, contra a qual seria cabível agravo regimental, que, aparentemente, não foi interposto, o que impossibilita o conhecimento deste habeas corpus, uma vez que não inaugurada a competência do Superior Tribunal de Justiça.
+Nesse sentido tem-se orientado a jurisprudência desta Corte Superior:
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. ACÓRDÃO DO TRIBUNAL DE ORIGEM QUE INDEFERIU LIMINARMENTE A INICIAL DO WRIT ORIGINÁRIO. JULGAMENTO DO MÉRITO NESTA CORTE. IMPOSSIBILIDADE. AUSÊNCIA DE PEDIDO PARA DETERMINAR AO TRIBUNAL DE JUSTIÇA QUE JULGUE O PEDIDO. NEGATIVA DE SEGUIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1 - Indeferida liminarmente a impetração no Tribunal de Justiça do Estado de São Paulo, não tem como esta Corte, na via eleita, julgar o mérito da contenda.
+2 - Não havendo pedido para que a instância de origem julgue a matéria de fundo, a negativa de seguimento a este habeas corpus é de rigor.
+3 - A não ser assim, estará o Superior Tribunal de Justiça censurando a própria decisão de primeiro grau, o que não é possível.
+4 - Agravo regimental não provido. (AgRg no HC n. 344.975/SP, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 23/2/2016, grifei.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. DECISÃO MONOCRÁTICA DE RELATOR DO TRIBUNAL A QUO. AUSÊNCIA DE INTERPOSIÇÃO DE AGRAVO INTERNO. NÃO ESGOTAMENTO DA INSTÂNCIA ANTECEDENTE. AGRAVO REGIMENTAL IMPROVIDO.
+1. A provocação recursal da jurisdição de Corte Superior exige o prévio exaurimento da instância antecedente, de modo que correta foi a decisão que indeferiu liminarmente o recurso ordinário em habeas corpus que atacava decisão monocrática que extinguiu o writ de origem.
+2. Caberia à defesa a interposição de agravo regimental, de modo a submeter a decisão singular à apreciação pelo órgão colegiado competente e não inaugurar, per saltum, a via recursal no Tribunal Superior.
+3. Agravo regimental improvido. (AgRg no RHC n. 60.261/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 3/8/2015, grifei.)
+HABEAS CORPUS. DECISÃO MONOCRÁTICA DE DESEMBARGADOR RELATOR QUE INDEFERE ANTERIOR HABEAS CORPUS IMPETRADO NA INSTÂNCIA A QUO. INCOMPETÊNCIA DO STJ (CF, ARTS. 105, I, "A" E "C" E II, "A"). SUCEDÂNEO RECURSAL. INVIABILIDADE. AGRAVO DESPROVIDO.
+1. Descabe a impetração de habeas corpus perante o Superior Tribunal de Justiça contra decisão monocrática de relator que, em anterior habeas corpus apresentado no Tribunal de Justiça, denega a ordem. Tem-se, na hipótese, a incompetência do STJ por não se enquadrar a impetração em qualquer das previsões constantes do art. 105, I, "a" e "c", e II, "a", da Carta Magna.
+2. A jurisprudência uníssona desta eg. Corte firmou-se pela inadmissibilidade do habeas corpus como sucedâneo recursal.
+3. Agravo regimental desprovido. (AgRg no HC n. 303.098/RJ, relator Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 9/12/2014, grifei.)
+Na mesma esteira, colhem-se os seguintes julgados do Supremo Tribunal Federal:
+HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO ESGOTAMENTO DE JURISDIÇÃO. CONSTITUIÇÃO DE NOVOS CAUSÍDICOS. INTIMAÇÃO IRREGULAR. NULIDADE. CONTRADITÓRIO E AMPLA DEFESA. ORDEM CONCEDIDA DE OFÍCIO.
+1. Há óbice ao conhecimento de habeas corpus impetrado contra decisão monocrática, indeferitória de writ, do Superior Tribunal de Justiça, cuja jurisdição não se esgotou, ausente o manejo de agravo regimental. Precedentes.
+ ..
+3. Ordem de habeas corpus concedida de ofício. (HC n. 129.553, relatora Ministra ROSA WEBER, Primeira Turma, DJe de 13/10/2015, grifei.)
+DIREITO PENAL. TRÁFICO DE DROGAS. CRACK. DOSIMETRIA DA PENA. CONDENAÇÃO TRANSITADA EM JULGADO. AGRAVO REGIMENTAL EM HABEAS CORPUS IMPETRADO CONTRA DECISÃO MONOCRÁTICA. RECURSO A QUE SE NEGA PROVIMENTO.
+1. Inexistindo pronunciamento colegiado do Superior Tribunal de Justiça, não compete ao Supremo Tribunal Federal examinar a questão de direito implicada na impetração. Da mesma forma, não é admissível a utilização do habeas corpus em substituição à ação de revisão criminal.
+2. A quantidade e a natureza da droga, se não analisadas na primeira fase da dosimetria da pena, constituem fundamentos para a eleição do percentual de diminuição de pena decorrente da incidência do art. 33, § 4º, da Lei nº 11.343/2006. Precedentes do Plenário do Supremo Tribunal Federal.
+3. Agravo regimental a que se nega provimento. (HC n. 128.840 AgR, relator Ministro ROBERTO BARROSO, Primeira Turma, DJe 31/8/2015, grifei.)
+Mantenho a decisão agravada, pois, por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agra vo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
