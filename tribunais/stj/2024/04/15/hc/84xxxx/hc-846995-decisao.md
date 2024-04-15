@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fls. 59-60):
+Tráfico. Art. 33, caput, Lei nº 11.343/06. Preliminar Nulidade da busca e pessoal Inviável Fundada suspeita de que o indivíduo traz consigo substância entorpecente, eis que o acusado era conhecido nos meios policiais por tráfico de drogas, além disso, ao visualizara viatura, arremessou objeto em um telhado, sendo constatado que neste invólucro havia 25 microtubos de plástico contendo cocaína e 12 pedras de crack Mérito Manutenção da condenação, eis que o testemunho dos policiais é harmônico e coerente- Condenação mantida- Diminuição com base no artigo 33, § 4º, da Lei de Drogas Incabível Considerável quantidade e diversidade de narcóticos apreendidos, implicando em maior periculosidade e nocividade à saúde pública - Substituição da pena imposta por penas restritivas de direitos Inviável - Requisitos do benefício não foram satisfeitos, pena final superior a quatro anos - Regime inicial adequado e que se mostra compatível com a reprovabilidade dos crimes e as personalidades do autor. Recurso improvido.
+O paciente foi condenado a 5 anos de reclusão, em regime fechado, e ao pagamento de 500 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006.
+Sustenta a defesa a ilicitude das provas obtidas mediante busca pessoal desprovida de fundadas suspeitas.
+Alega a inexistência de provas acerca da traficância, postulando a desclassificação da conduta para o delito previsto no art. 28 da Lei n. 11.343/2006.
+Afirma que a natureza da droga apreendida, por si só, não constitui fundamento válido para o acréscimo da pena-base e que se encontram preenchidos os requisitos necessários para a aplicação da causa especial de diminuição de pena prevista no art. 33, § 4º, da mesma lei. Argumenta que a existência de ação penal em andamento não é apta a justificar o afastamento da minorante.
+Defende que o paciente faz jus ao regime aberto, caso reconhecido o tráfico privilegiado, ou semiaberto e, ainda, que "versa o art. 387, §2º do CPP que o tempo de prisão provisória será computado para fins de determinação do regime inicial, devendo ser fixado o regime ABERTO, após operada a detração" (fl. 40).
+Requer, liminarmente e no mérito, a absolvição do paciente, a desclassificação para o delito de porte de droga para uso pessoal e, por fim, caso os demais pedidos não sejam acatados, o redimensionamento da pena.
+Indeferida a liminar e, prestadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento do writ ou pela denegação da ordem.
+Em consulta ao sistema de informações processuais desta Corte Superior, verifica-se que o presente mandamus é mera reiteração do HC 827.954/SP, anteriormente impetrado, em 2/6/2023, contra o mesmo acórdão ora impugnado e com os mesmos pedidos aqui formulados, tratando-se, portanto, de mera reiteração de pedido, incidindo o disposto no art. 210 do RISTJ.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
