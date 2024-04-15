@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARIA JUSTINA DE SOUZA PONDELI e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE COMPRA E VENDA DE IMÓVEIS. JULGAMENTO DE IMPROCEDÊNCIA LIMINAR DO PEDIDO - DECADÊNCIA - COMPRA E VENDA ENTRE ASCENDENTE E DESCENDENTES - SIMULAÇÃO - NEGÓCIO JURÍDICO REALIZADO DURANTE A VIGÊNCIA DO CÓDIGO CIVIL DE 1916 - PRAZO DECADENCIAL DE QUATRO (4) ANOS (ART. 178, § 9º, V, "B") - TERMO INICIAL - DATA DA ABERTURA DA SUCESSÃO DO ALIENANTE - PRECEDENTE DO STJ - AUSÊNCIA DE ELEMENTOS SUFICIENTES PARA JUSTIFICAR A EXTINÇÃO DO FEITO. RECURSO CONHECIDO E PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 215 do CC, no que concerne à necessidade de análise dos negócios jurídicos como compras e vendas efetivas, e não como doações, considerando ainda que a escritura lavrada em cartório tem fé pública e é dotada de presunção de veracidade. Traz a seguinte argumentação:
+Da leitura do acórdão recorrido, verifica-se ser incontroversa a existência de cláusula de quitação nas escrituras públicas controvertidas:
+Ocorre que nas escrituras públicas em análise consta a informação de que houve quitação da avença conforme declaração das partes (..).
+Nos termos do art. 215 do CC, a escritura lavrada em cartório tem fé pública, o que significa dizer que é documento dotado de presunção de veracidade.
+ ..
+A presunção legal do art. 215 do CC/02 implica a desnecessidade de se provar os fatos contidos na escritura, à luz do que dispõe o art. 334, IV, do CPC, e, de outro, a inversão do ônus da prova, em desfavor de quem, eventualmente, suscite a sua invalidade.
+De fato, a quitação dada em escritura pública não é uma "verdade indisputável", na medida em que admite a prova de que o pagamento não foi efetivamente realizado, evidenciando, ao fim e ao cabo, a invalidade do instrumento em si, porque eivado de vício que o torna falso.
+Assim sendo, a quitação dada nas escrituras públicas presume o pagamento, até prova em contrário, incumbência a cargo da parte autora, ora recorrida, e não dos recorrentes, como entendeu a origem.
+ ..
+Deveras, ao contrário do que assentou o acórdão recorrido, não era ônus dos recorrentes comprovar o pagamento.
+Era da recorrida a prova de trazer aos autos elementos que derruíssem a presunção de veracidade da quitação outorgada nas escrituras públicas.
+Não obstante, o ônus de comprovar a simulação é de quem alega.
+ ..
+Nessa ordem de ideias, não há que se falar que as escrituras públicas de compra e venda são simuladas para disfarçar a ocorrência de doação entre pais e filhos, porque a parte autora não trouxe provas que derrubassem a presunção de quitação dada nas escrituras públicas de compra e venda.
+Irrelevante, ainda, que as escrituras públicas de compra e venda contenham avenças típicas de doação, como usufruto vitalício e cláusula de inalienabilidade.
+Ora, a lei não impede tais cláusulas nos contratos de compra e venda e é razoável a avença quando o negócio é celebrado entre ascendentes e descendentes e o preço contratado, provavelmente, foi aferido com base nessas condições.
+Vale lembrar que esse e. STJ reconhece a validade de negócio jurídico de compra e venda de ascendente a descendente sem a anuência de filha que só foi reconhecida como tal posteriormente à realização do negócio, como é o caso em particular (REsp 1356431/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/08/2017, DJe 21/09/2017).
+Em conclusão, o recurso merece ser provido para que o acórdão recorrido seja cassado e os autos retornem ao e. Tribunal de origem para que analise os negócios jurídicos controvertidos como efetivas compras e vendas, e não doações (fls. 470-473).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Quanto a eficácia probatória da escritura pública, prevê o Código Civil em seu art. 215, caput, que a escritura pública, lavrada em notas de tabelião, é documento dotado de fé pública, fazendo prova plena.
+No entanto, a expressão "prova plena" a que alude o supracitado artigo diz respeito aos fatos que o tabelião presenciou com os sentidos, ou seja, àquilo que na sua presença aconteceu de modo perceptível.
+Ocorre que nas escrituras públicas em análise consta a informação de que houve quitação da avença conforme declaração das partes, não havendo menção a que qualquer pagamento tenha ocorrido . Vai daí se afirmar que a força pro bante da escritura se limita a essa na Serventia (movs. 111.1/2) declaração, a qual por sua vez, de modo conveniente às próprias partes, não traz nenhuma especificação sobre como tais pagamentos teriam sido efetivados.
+Não por acaso, a contestação ofertada e o recurso de apelação não explicitam nenhum detalhe fático a respeito dessa questão. Assim, plenamente possível, no caso, o reconhecimento de simulação de negócio jurídico consubstanciado nas escrituras públicas em análise (fl. 442).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
