@@ -1,0 +1,8 @@
+DECISÃO
+Em atendimento às decisões de fls. 916-920 e 933-936 - que apreciaram a impugnação aos cálculos de liquidação, os embargos de declaração e o agravo interno , todos apresentados pela UNIÃO -, a Coordenadoria de Processamento de Feitos em Execução Judicial (CEJU) apresentou, às fls. 941-943, parecer.
+Em relação a MARIA ABADIA PIRES MARCELINO, MARIA CECÍLIA QUINTÃO, MARIA DAS GRAÇAS LOBO DOS SANTOS PEREIRA e MARIA DO CARMO DOS SANTOS GONÇALVES, para as quais houve juntada de termo de transação judicial, concluiu que há indicativo de cumprimento integral da obrigação do acordo. Por tal motivo, não apurou valor remanescente para essas substituídas.
+Ante o exposto, por estar em conformidade com os comandos exarados nas decisões de fls. 916-920 e 933-936, acolho o parecer da Coordenadoria de Processamento de Feitos em Execução Judicial para declarar que nada mais é devido a MARIA ABADIA PIRES MARCELINO, MARIA CECÍLIA QUINTÃO, MARIA DAS GRAÇAS LOBO DOS SANTOS PEREIRA e MARIA DO CARMO DOS SANTOS GONÇALVES. Via de consequência, determino a retificação da autuação para exclusão dessas substituídas.
+Transcorrido o prazo desta decisão, à Coordenadoria de Processamento de Feitos em Execução Judicial para apuração de eventuais valores remanescentes bem como cálculo dos honorários de sucumbência devidos, devendo, na sequência, intimar as partes independentemente de nova conclusão.
+Havendo concordância, fica desde logo autorizada a expedição da(s) requisição(ões) de pagamento, com destaque de honorários contratuais, se for o caso, e observado o decote da sucumbência, em caso de anuência (Art. 18-C da Resolução CJF n. 458/2018, com redação dada pela Resolução CJF n. 6 70/2020).
+Publique-se. Intimem-se.
+ EMENTA
