@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/04/2024 a 15/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS . PENAL. DOSIMETRIA DA PENA. TRÁFICO DE DROGAS. AFASTAMENTO DA MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI N. 11.343/2006. FUNDAMENTAÇÃO INIDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do art. 33, § 4º, da Lei n. 11.343/2006, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja primário e portador de bons antecedentes e não se dedique às atividades criminosas nem integre organização criminosa.
+2. "O afastamento da minorante do tráfico privilegiado, pela dedicação às atividades criminosas exige a indicação de elementos concretos" (AgRg no REsp n. 1.953.442/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 28/9/2021, DJe de 4/10/2021). No caso dos autos, as instâncias ordinárias deduziram fundamentação genérica, que diz respeito aos próprios elementos do tipo penal do tráfico de drogas, insuficiente para afastar a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, mormente se considerado o fato de se tratar de réu primário e sem antecedentes criminais, bem como o fato de ter sido apreendida pequena quantidade de entorpecente, aproximadamente, 13g (treze gramas) de cocaína.
+3. Agravo regimental ministerial desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL contra a decisão de e-STJ fls. 324/326 por meio da qual concedi a ordem de habeas corpus impetrado em favor do ora agravante, a fim de aplicar a causa especial de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Depreende-se dos autos que o paciente foi condenado, pela prática da conduta descrita no art. 33, caput, da Lei n. 11.343/2006, à pena de 5 anos de reclusão, em regime inicial semiaberto, em decorrência da apreensão de cerca de 13g (treze gramas) de cocaína.
+Nesta instância, a defesa requereu, liminarmente, a suspensão da execução da pena aplicada e, no mérito, a concessão da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 ao argumento de que o paciente preencheria os requisitos legais, notadamente em virtude de suas condições pessoais favoráveis. Ademais, como repercussão da incidência da benesse pediu alteração do regime inicial e a substituição da pena.
+Instado a se manifestar, o Ministério Público Federal opinou pela concessão da ordem (e-STJ fls. 315/321).
+Neste agravo regimental, o Ministério Público do Estado do Rio Grande do Sul alega que as instâncias de origem teriam deduzido fundamentação idônea para o afastamento da suscitada minorante.
+Requer, ao final, a reconsideração da decisão agravada ou a submissão da matéria ao colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS . PENAL. DOSIMETRIA DA PENA. TRÁFICO DE DROGAS. AFASTAMENTO DA MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI N. 11.343/2006. FUNDAMENTAÇÃO INIDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do art. 33, § 4º, da Lei n. 11.343/2006, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja primário e portador de bons antecedentes e não se dedique às atividades criminosas nem integre organização criminosa.
+2. "O afastamento da minorante do tráfico privilegiado, pela dedicação às atividades criminosas exige a indicação de elementos concretos" (AgRg no REsp n. 1.953.442/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 28/9/2021, DJe de 4/10/2021). No caso dos autos, as instâncias ordinárias deduziram fundamentação genérica, que diz respeito aos próprios elementos do tipo penal do tráfico de drogas, insuficiente para afastar a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, mormente se considerado o fato de se tratar de réu primário e sem antecedentes criminais, bem como o fato de ter sido apreendida pequena quantidade de entorpecente, aproximadamente, 13g (treze gramas) de cocaína.
+3. Agravo regimental ministerial desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso não merece prosperar, tendo em vista a inexistência de argumentos capazes de infirmar os fundamentos da decisão recorrida.
+Conforme consignei no decisum ora impugnado, "o afastamento da minorante do tráfico privilegiado, pela dedicação às atividades criminosas exige a indicação de elementos concretos" (AgRg no REsp n. 1.953.442/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 28/9/2021, DJe de 4/10/2021). No caso dos autos, as instâncias ordinárias deduziram fundamentação genérica, que diz respeito aos próprios elementos do tipo penal do tráfico de drogas, insuficiente para afastar a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, mormente se considerado o fato de se tratar de réu primário e sem antecedentes criminais, bem como o fato de ter sido apreendida pequena quantidade de entorpecente, cerca de 13g (treze gramas) de cocaína.
+Confira-se (e-STJ fl. 89):
+Quanto à redutora, tenho que melhor sorte não assiste à defesa. Isso porque, a não aplicação da redutora foi devidamente motivada, sendo destacado que "do conteúdo das interceptações telefônicas, bem como do telefone celular apreendido por ocasião dos fatos, extrai-se que FELIPE vinha se dedicando à mercancia de expressivo volume de entorpecentes, sobretudo cocaína, promovendo o transporte de drogas entre as cidades de Bento Gonçalves e Carlos Barbosa." Assim, a demonstração da dedicação do réu à prática do tráfico, de modo reiterado e organizado, obsta a incidência da pleiteada causa especial de diminuição de pena, a qual é destinada a traficantes eventuais.
+Registrei, ainda, a ponderação do Ministro Sebastião Reis Júnior, relator nos autos do HC n. 593.560/SP, que, em decisão monocrática em caso análogo, observou que "o paciente é primário, sem antecedentes e não houve nenhuma vetorial negativa. Além disso, a quantidade de drogas não se mostra excessiva para afastar o privilégio, além de que não poderem ser consideradas questões relativas a denúncias anônimas, ações penais em andamento, e a motivação do Magistrado sobre o armazenamento de entorpecentes ou local em que era guardado ou o fato de o paciente estar desempregado não são suficientes para afirmar que exista, de fato, dedicação ao tráfico ou que o paciente faça parte de alguma organização" (julgado em 24/3/2021, DJe 26/3/2021).
+Entendi por evidente, portanto, o constrangimento ilegal.
+À vista do exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
