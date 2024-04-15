@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/04/2024 a 15/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 1.022, 489 E 11 DO CPC/2015. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL. VIOLAÇÃO DA COISA JULGADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Afasta-se a alegada violação dos artigos 1.022, 489 e 11 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+3. A controvérsia foi dirimida com fundamento constitucional, de modo que o recurso especial se apresenta inviável quanto ao ponto, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+4. A alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demanda necessariamente novo exame do acervo fático-probatório constante dos autos. Incidência da Súmula 7/STJ
+5 . Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl.873):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 11, 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. VIOLAÇÃO COISA JULGADA. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+O agravante alega que houve violação dos artigos 11, 489, § 1º, I, III, IV e V, e 1.022, II, do CPC/2015, pois o acórdão estadual não se manifestou quanto a pontos relevantes para o julgamento da causa, que versam sobre a incidência de juros no precatório, assim resumidos (fl. 885, e-STJ):
+Para além da questão da padronização do julgamento local, o recurso especial deduzira que o acórdão estadual não havia se manifestado (i) sobre o fato de o precatório não ter sido quitado dentro do prazo, de forma a afastar a incidência da Súmula Vinculante nº 17/STF; (ii) sobre a alegação de impossibilidade de alteração dos juros fixados na fase de conhecimento e confirmados durante a execução - 2004 -, violando a coisa julgada não foi considerada para a aplicação da tese recorrida; e (iii) sobre a inaplicabilidade da Lei nº 11.960/09, vedada sua aplicação retroativa.
+Aponta haver relação de causa e efeito entre o não reconhecimento da violação dos artigos 11, 489, § 1º, I, III, IV e V, e 1.022, II, do CPC/2015 e o não conhecimento do especial no que diz respeito à alegação de ofensa dos artigos 502, 503, 507 e 1.000 do CPC/2015 e 6º, § 3º, da LINDB, ao argumento de que "Se fosse reconhecida a incompletude da prestação jurisdicional  ..  os agravantes teriam a matéria da existência da coisa julgada devidamente apreciada e não teriam seu direito de discutir esse desrespeito ao caso decidido obstado pelo enunciado 7/STJ" (fl. 886, e-STJ).
+Aduz, outrossim, ofensa aos artigos 502, 503, 507 e 1.000 do CPC/2015 e 6º, § 3º, da LINDB, matéria pertencente à esfera infraconstitucional a respeito da qual não incidiria a Súmula 7/STJ. Nesse ponto, argui que o recurso especial "não discute questão constitucional (incidência ou não, pura e simples, de juros no pagamento de precatório parcelado) mas sim o fato de que no caso dos autos formara-se coisa julgada estabelecendo esses juros que não poderia ser ignorada" (fl. 888, e-STJ), e que a existência de coisa julgada revendo juros não é questão fática controversa nos autos.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 1.022, 489 E 11 DO CPC/2015. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL. VIOLAÇÃO DA COISA JULGADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Afasta-se a alegada violação dos artigos 1.022, 489 e 11 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+3. A controvérsia foi dirimida com fundamento constitucional, de modo que o recurso especial se apresenta inviável quanto ao ponto, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+4. A alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demanda necessariamente novo exame do acervo fático-probatório constante dos autos. Incidência da Súmula 7/STJ
+5 . Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso dos autos, evidencia-se que a questão controvertida foi satisfatoriamente enfrentada, consoante excerto (fl. 339, e-STJ):
+Portanto, no presente caso, ainda que o adimplemento da obrigação tenha ocorrido após o tempo ordinário de pagamento do precatório, permanece aplicável o teor da Súmula Vinculante nº 17, conforme bem decidiu o MM Juízo de primeiro grau.
+Vale ressaltar que a aplicação da referida Súmula não ofende o caso julgado, uma vez que ela apenas se limitou a conferir determinada interpretação ao dispositivo constitucional que já se encontrava em vigor na época da sentença condenatória. Entendimento contrário exigiria que uma nova tese jurisprudencial somente teria eficácia a partir de sua consolidação, o que não o que se sucede.
+Ademais, a questão da aplicação dos juros de mora no prazo constitucional de pagamento do precatório não foi abordada na fase de conhecimento, de modo que sua correção não implica alteração nos critérios jurídicos fixados no título executivo.
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa aos artigos 11, 489, § 1º, I, III, IV e V, e 1.022, II, do CPC/2015.
+Quanto à questão de fundo, verifica-se que a controvérsia foi dirimida com fundamento constitucional, especificamente com base na Súmula Vinculante n. 17, de modo que o recurso especial se apresenta inviável quanto ao ponto, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+No mais, o agravante sustenta não ser hipótese para a aplicação do enunciado da Súmula 7/STJ.
+Contudo, verifica-se que a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que não houve violação à coisa julgada, ressaltando que a aplicação dos juros de mora no prazo constitucional de pagamento do precatório não foi abordada na fase de conhecimento.
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial.
+Desse modo, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
