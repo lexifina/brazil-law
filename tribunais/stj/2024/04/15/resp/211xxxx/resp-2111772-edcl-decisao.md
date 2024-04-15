@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CLAUDOMIRO FRANCISCO, à decisão de fls. 202/203, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Com efeito, conforme se verifica dos autos(fls. 197),o ora Embargante foi intimado para sanar o alegado vício de representação processual.
+Ocorre que, por um lapso, tendo em vista que o teor da referida intimação (disponibilizada na imprensa oficial em 24/11/2023), adiante colacionada, não mencionou expressamente qual o vício que se deveria sanar (no caso, que se promovesse a juntada de substabelecimento ao subscritor Luiz França), o Embargante julgou, equivocadamente, que se tratava de mera movimentação interna da z. Serventia dessa E. Corte Superior, e por isso, de fato, deixou transcorrer o prazo sem cumprir a determinação:
+ ..
+Não obstante, data maxima venia, considera o Embargante equivocada a r. decisão desse MM Juízo de não conhecer do Agravo em RESP por tal motivo.
+Isso porque, embora, por engano, o Recorrente não tenha juntado, entre as peças obrigatórias deste agravo de instrumento, a procuração para os patronos subscritores, tal não foi percebido pelo E. Tribunal de origem, que conheceu e negou provimento ao recurso, e a falha da falta da procuração só foi constatada por essa Corte Superior, quando da subida do Recurso Especial (fl. 208).
+No entanto, a despeito de não regularizado processualmente o agravo de instrumento, os patronos subscritores têm representação nos autos da execução fiscal originária(docs. em anexo), de maneira que estavam autorizados a interpor este agravo contra a r. decisão do MM Juízo a quo que rejeitar ao pedido de exclusão do Embargante do polo passivo daquela ação (fl. 209).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, o recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao Dr. Luiz Franca Guimarães Ferreira, subscritor do recurso especial.
+Mesmo diante da intimação da parte para sanear o vício, não houve a devida regularização, uma vez que eixou o prazo transcorrer in albis.
+Não tem o condão de sanar tal vício a alegação da existência de procuração em autos principais, pois cabe à parte providenciar a juntada de cópia ou novo instrumento aos autos onde pretende interpor o recurso. A responsabilidade pelo traslado do instrumento é da parte.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PROCURAÇÃO. REGULARIZAÇÃO. DESCUMPRIMENTO NO PRAZO ESTABELECIDO. INÉRCIA. DOCUMENTO NOS AUTOS ORIGINAIS. ART. 1.017, § 5º, do CPC/2015. INAPLICABILIDADE. DECISÃO MANTIDA.
+1. Conforme prevê o art. 76, § 2º, I, do CPC/2015, não se conhece do recurso quando a parte recorrente, apesar de intimada, deixa de sanar vício na representação processual no prazo estabelecido.
+2. "A jurisprudência do STJ entende que a procuração juntada em outro processo conexo ou incidental, não apensado, não produz efeito em favor do recorrente neste Tribunal Superior." (AgInt no AREsp n. 1.447.689/DF, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 14/10/2019, DJe 16/10/2019).
+3. Inaplicável o art. 1.017, § 5º, do CPC/2015 no âmbito do recurso especial ou do respectivo agravo contra sua inadmissibilidade.
+Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1496951/MS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 6/5/2020.)
+Registre-se que a dispensa prevista no art. 1017, § 5º, do CPC se aplica à interposição do agravo de instrumento para o Tribunal de Justiça, ou seja, a dispensa está voltada ao primeiro e ao segundo graus de jurisdição, tendo em vista que, a princípio, compartilhariam o mesmo sistema eletrônico.
+Nesse sentido, o AgInt no REsp 1869850/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 17/02/2021; AgInt no AREsp 1691791/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 20/11/2020; AgInt no AREsp 1504387/RJ, relator Ministro Og Fernandes, Segunda Turma, Dje de 27/02/2020.
+Portanto, conclui-se que, a referida dispensa não se estende ao STJ, cabendo à parte providenciar a juntada de cópia ou novo instrumento aos autos quando da interposição de recurso a esta Corte.
+Somente agora, em sede destes aclaratórios, a parte trouxe o instrumento de mandato com o fim de regularizar a representação, no entanto, não pode ser aceito, em razão da preclusão. (AgInt no AREsp 1520555/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 30/6/2020; AgInt no REsp 1788526/TO, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; e AgInt no REsp 1830797/SE, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 18/3/2020.)
+No que se refere à publicação da certidão de fl. 197, em consulta ao Diário de Justiça Eletrônico (https://ww2.stj.jus.br/processo/dj/init), meio oficial pelo qual esta Corte veicula seus atos judiciais, verificou-se que não houve qualquer irregularidade na publicação.
+Constou da referida edição do DJe, disponibilizada em 24/11/2023 e publicada em 27/11/2023, todas as informações necessárias para conferir publicidade à intimação das partes e advogados, nos exatos termos da Lei n. 11.419/2006, entre elas, o número do processo, o nome das partes e de seus representantes.
+No caso, ainda ficou registrado na publicação o título "Autos com vistas aos recorrentes". Restou consignado que "Os processos abaixo relacionados encontram-se com vista ao recorrente para manifestação acerca da "Certidão para Saneamento de Óbices" constante dos autos". A relação de processos publicados veio logo abaixo, incluindo este REsp 2111772/SP. Assim, bastaria a parte acessar os autos eletronicamente, visualizar o inteiro teor da certidão, e cumprir a determinação de regularização do vício.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
