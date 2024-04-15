@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por RODRIGO RODRIGUES VIANA e KENIA LIMA FERNANDES VIANA contra decisão da em. Relatora originária, Ministra Assusete Magalhães, que deu parcial provimento ao Recurso Especial "a fim de reconhecer o direito de transmissibilidade das astreintes aos sucessores do falecido, podendo por eles serem executadas." (fl. 313).
+Sustenta a parte embargante a existência de omissão em relação ao pedido de majoração dos honorários sucumbenciais, bem assim pela falta de fixação dos honorários recursais.
+Aduz que se mostra "indubitável que a verba honorária sucumbencial estabelecida pelo d. juízo de 1º grau é apequenada - R$ 700,00 (setecentos reais), frente ao trabalho desenvolvido pelo advogado do Recorrente, considerando os aspectos que emolduram o caso concreto." (fl. 331)
+Requer sejam os Embargos de Declaração acolhidos para determinar a majoração dos honorários sucumbenciais, a serem fixado dentro das balizas do art. 85, § 2º, do CPC, bem como que seja efetivada a fixação dos honorários recursais.
+Impugnação da parte adversa às fls. 343-348.
+É o relatório.
+Decido.
+A irresignação merece parcial acolhida.
+De fato, a decisão embargada não apreciou o pedido de majoração dos honorários advocatícios sucumbenciais. Contudo, embora suscitado na apelação, o Tribunal de origem não analisou esse pleito e, a parte recorrente, não suscitou a questão em seus embargos de declaração, motivo pelo qual está ausente o necessário prequestionamento, nos termos das Súmulas n. 282 e 356, ambas do STF. Nesse sentido: AgInt no REsp n. 2.072.675/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 11/12/2023, DJe de 15/12/2023; AgInt no AREsp n. 2.273.098/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 14/8/2023, DJe de 17/8/2023.
+No entanto, inexistiu omissão na decisão embargada, quando deixou de fixar honorários recursais. Com efeito, os recorrentes tiveram seu recurso especial parcialmente provido, situação em que não há a fixação de honorários recursais. Esse foi o entendimento firmado no julgamento do REsp 1.864.633/RS, de relatoria do Ministro Paulo Sérgio Domingues, submetido à sistemática dos recursos repetitivos (Tema n. 1059), quando a Corte Especial do Superior Tribunal de Justiça fixou a seguinte tese:
+A majoração dos honorários de sucumbência previs ta no art. 85, § 11º, do CPC pressupõe que o recurso tenha sido integralmente desprovido ou não conhecido pelo tribunal, monocraticamente ou pelo órgão colegiado competente. Não se aplica o art. 85, § 11º, do CPC em caso de provimento total ou parcial do recurso, ainda que mínima a alteração do resultado do julgamento e limitada a consectários da condenação . (DJe de 21/12/2023 - sem grifos no original)
+Ante o exposto, ACOLHO PARCIALMENTE os embargos de declaração, sem efeitos infringentes.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO EMBARGADA. OMISSÃO CONSTATADA. HONORÁRIOS SUCUMBENCIAIS. MAJORAÇÃO. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 282 DO STF. HONORÁRIOS RECURSAIS. FIXAÇÃO. DESCABIMENTO. TEMA REPETITIVO N. 1059 DO STJ. EMBARGOS PARCIALMENTE ACOLHIDOS, SEM EFEITOS INFRINGENTES.
