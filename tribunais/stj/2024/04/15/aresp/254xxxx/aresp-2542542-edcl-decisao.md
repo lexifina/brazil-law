@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por RPW S/A SOCIEDADE DE CRÉDITO, FINANCIMAENTO E INVESTIMENTO, à decisão de fls. 347/348, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Considerando-se que o despacho denegatório foi disponibilizado no diário de justiça eletrônico em 20/09/2023 (quarta-feira), com sua publicação em 21/09/2023 (quinta-feira), o início do prazo se deu em 22/09/2023 (sexta-feira), nos termos da Lei 11.419/2006, art. 4º, §3º. sendo o prazo de quinze dias úteis nos termos da nova Lei Processual - Lei 13.105/15, excluem-se do cômputo os feriados e pontos facultativos, onde, como citado no recurso apresentado, houve feriado no dia 12/10/2023 e ponto facultativo em 13/10/2023, não incluindo-se no cômputo do prazo tais dias, o que, dessa forma, prorrogou a data final para apresentação do recurso em 16/10/2023. Aliás, assim como constou no recurso houve a indicação do quadro e do sítio eletrônico com tal informação, qual seja: https://www. tjms.jus.br/institucional/feriados.
+ ..
+Portanto, tempestivo o recurso, onde as informações acima constaram no bojo do recurso cumprindo, assim, as determinações deste Excelso Tribunal (fl. 353).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/10/2019; AgRg nos EDcl no REsp 1819067/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/9/2019.)
+Registre-se que o feriado nacional de 12/10/2023 não precisa ser comprovado. Porém, o dia 13/10/2023 é supostamente feriado local, razão pela qual deveria ter sido comprovado no momento da interposição do recurso.
+No mais, conforme a jurisprudência deste Tribunal a mera remissão a link de site do Tribunal de origem nas razões recursais é insuficiente para comprovar a tempestividade do recurso. Nesse sentido: AgInt no AREsp 1687712/SP, relator Ministro Sérgio Kukina, Primeira Turma, Dje de 17/11/2020; e AgInt no REsp 1799162/AL, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/11/2019.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
