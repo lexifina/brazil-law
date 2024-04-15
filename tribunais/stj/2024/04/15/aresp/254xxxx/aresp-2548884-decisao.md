@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da Constituição da República) interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado (fl. 777, e-STJ):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. SUCESSÃO EMPRESARIAL. REDIRECIONAMETO. PRECLUSÃO CONSUMATIVA. MATÉRIA JÁ DEBATIDA. IMPUGNAÇÃO ANTERIOR. NOVA DISCUSSÃO. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO. - Ocorreu a preclusão consumativa, vez que a matéria já foi reiteradamente discutida e apreciada no processo. - A preclusão é, pois, a perda, extinção, ou consumação de uma faculdade processual, pelo fato de se haverem alcançado os limites assinalados por lei ao seu exercício. - Evidenciada a hipótese do artigo 133 do CTN, havendo indícios a configurar a sucessão empresarial irregular, mormente considerando o prosseguimento da exploração de idêntica atividade econômica e demonstração de transferência de bens.
+Os Embargos de Declaração foram rejeitados (fls. 811-813, e-STJ).
+Em seu Recurso Especial, a agravante aponta violação, em preliminar, do art. 1.022, I, do CPC e, no mérito, dos arts. 9º, 10, 505 e 926 do CPC. Aduz (fls. 829-838):
+(..)
+28. Conforme se observa, quando do reconhecimento da suposta sucessão empresarial a única empresa que figurava no polo passivo era a Indusflora. A Recorrente ainda não integrava a lide posto que somente veio a ser citada em 2022, oportunidade na qual opôs exceção de pré-executividade apontando sua ilegitimidade passiva.
+29. Sendo assim, compreende-se que o entendimento exarado pelo juízo de piso, confirmado pelo tribunal recorrido, inferindo que o direito de manifestação da Recorrente está precluso não deve prosperar. Afinal, a preclusão processual, prevista no art. 505 do Código de Processo Civil, é um instituto que decorre da perda de uma oportunidade de manifestação ou prática de um ato processual.
+30. Por óbvio, só haveria que se falar em preclusão processual se a Recorrente tivesse participado do devido processo legal que levou o juízo a quo a exarar decisão reconhecendo a suposta sucessão empresarial e tivesse permanecido inerte. Entretanto, como só foi citada em 2022 e a referida decisão foi anterior, evidente que não houve preclusão da matéria, cabendo-lhe se insurgir sobre a questão na primeira oportunidade em que se manifestasse nos autos, como fez, em sede de exceção de pré-executividade.
+(..)
+46. Ora, é sabido que a responsabilidade tributária por sucessão empresarial não se presume, fazendo-se necessário comprovar a ocorrência de fusão, transformação, incorporação ou aquisição de fundo de comércio ou estabelecimento e a continuação da exploração da atividade. No presente caso, resta nítida a inocorrência de fusão, transformação, incorporação ou aquisição do fundo de comércio visto que as empresas coexistem e permanecem exercendo atividades distintas e em localidade diversa.
+(..)
+Contrarrazões às fls. 847-856.
+O juízo de admissibilidade negativo (fls. 870-873) deu ensejo à interposição do presente Agravo.
+Contraminuta às fls. 895-897.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 18 de março de 2024.
+Preliminarmente, constata-se que não se configura a ofensa aos arts. 489 e 1.022 do Código de Processo Civil. O Colegiado originário examinou e decidiu, fundamentadamente, todas as questões postas ao seu crivo. Julgou integralmente a lide e solucionou o conflito. Portanto, não cabe falar em negativa de prestação jurisdicional.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando os pontos relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca modificar o julgado ao asseverar que o Tribunal a quo não se pronunciou sobre o tema ventilado nos aclaratórios. Todavia, verifica-se que o acórdão controvertido está bem embasado, sem quaisquer dos vícios previstos no aludido dispositivo legal.
+Vale destacar que o simples inconformismo da parte não tem a propriedade de tornar cabíveis os Embargos Declaratórios, que servem ao aprimoramento da decisão, mas não à sua reforma, só muito excepcionalmente admitida.
+No mérito, para melhor compreensão da controvérsia, transcrevo os fundamentos do decisum recorrido (fls. 781-783):
+Na hipótese, a matéria objeto do recurso já foi discutida nos autos, visto que, na decisão fls. 282 e seguintes, o MM. juiz a quo reconheceu a sucessão empresarial e determinou a inclusão de MADEFLORA INDÚSTRIA E COMÉRCIO DE MADEIRAS LTDA. e SUBFLORA GESTÃO LTDA. no polo passivo da execução fiscal, nos seguintes termos:
+"No presente caso, as empresas MADEFLORA INDÚSTRIA E COMÉRCIO DE MADEIRAS LTDA. e SUBFLORA GESTÃO FLORESTAL LTDA. estão explorando a mesma atividade comercial da executada lndusflora Produtos Florestais Ltda., que efetivamente cessou suas atividades, mantendo no máximo escritório de representação comercial.
+Assim, tem-se que a executada entendeu por bem constituir uma nova empresa, SUBFLORA, nas proximidades de sua antiga sede e com atividade econômica semelhante, objetivando afastar a possibilidade de reconhecimento de sucessão tributária. Nota-se que esta empresa foi cedida à MADEFLORA, que assumiu mais de 98% (noventa e oito por cento) das ações.
+Ademais, o art. 133 do CTN reconhece a sucessão tributária caso a nova empresa, sob a mesma ou outra razão social ou sob firma ou nome individual, adquire da sucedida, a qualquer título, fundo de comércio ou estabelecimento comercial, com a continuação da respectiva exploração comercial. Denota-se, pois, o propósito, único e exclusivo, de trazer prejuízos aos credores, dentre os quais Fazenda Pública, motivo pelo qual as empresas MADEFLORA INDÚSTRIA E COMÉRCIO DE MADEIRAS LTDA. e SUBFLORA GESTÃO FLORESTAL LTDA. devem ser consideradas sucessoras da executada, em decorrência do que deverão ser incluídas no polo passivo desta execução fiscal".
+Neste contexto, verifico a ocorrência da preclusão nos autos de origem, reconhecida inclusive pela decisão agravada que consignou o seguinte:
+"Nota-se que as excipientes pretendem discutir a sucessão empresarial já reconhecida entre elas e a Indusflora. Todavia, justamente por entender este Juízo que os requisitos legais restaram demonstrados, não há que se falar em ilegitimidade passiva".
+A sucessão empresarial ora debatida já foi resolvida em decisão anterior, que não foi impugnada no momento adequado pela agravante, caracterizando-se a preclusão, sendo vedada, neste momento processual, nova discussão.
+Por fim, da análise dos autos, evidencia-se a hipótese do artigo 133 do CTN, havendo indícios a configurar a sucessão empresarial irregular, mormente considerando o prosseguimento da exploração de idêntica atividade econômica e demonstração de transferência de bens.
+Ademais, matéria idêntica, envolvendo as mesmas partes, já foi decidida, por esta e. 5ª Câmara Cível, nos autos do agravo de instrumento n.º 1.0000.21.144462-5/001, cuja ementa transcrevo a seguir:
+EMENTA: AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. REDIRECIONAMENTO DA EXECUÇÃO. INCLUSÃO NO POLO PASSIVO. ARTIGO 133 DO CÓDIGO TRIBUTÁRIO NACIONAL. SUCESSÃO EMPRESARIAL. OCORRÊNCIA. INDÍCIOS. CABIMENTO.
+- Considerando que no caso há indícios da ocorrência de sucessão empresarial é cabível o redirecionamento da execução fiscal.
+- Observa-se, mais, que as sucessoras da executada foram constituídas por iniciativa do seu sócio-diretor FRANCISCO FRANZOI. E que, além das sucessoras e sucedida explorarem atividades econômicas semelhantes, confunde-se o ativo patrimonial de sucessoras e sucedida, na medida em que o capital social está representado por cotas integralizadas pelos mesmos imóveis.
+- Observa-se, inclusive, que a executada constituiu a empresa SUBFLORA nas proximidades de sua antiga sede e com atividade econômica semelhante; e que a empresa SUBFLORA cedeu à MADEFLORA mais de 98% (noventa e oito por cento) de suas ações, isso após o ajuizamento da presente execução fiscal.
+- Fica caracterizada, a princípio, a hipótese do artigo 133 do CTN. Os indícios da sucessão empresarial ilegal -prosseguimento na exploração da mesma atividade econômica e comprovação de transferência de bens, são suficientes para justificar a aplicação do artigo 133 do CTN.(TJMG -Agravo de Instrumento-Cv 1.0000.21.144462-5/001, Relator(a): Des.(a) Wander Marotta , 5ª CÂMARA CÍVEL, julgamento em 16/09/2021, publicação da súmula em 16/09/2021)
+Desse modo, os documentos dos autos, nesta fase, vão de encontro às razões recursais e não amparam a pretensãoda recorrentede obter a reforma do decisum.
+Nota-se que a causa foi decidida com base no suporte fático-probatório dos autos, cujo revolvimento é inviável no Superior Tribunal de Justiça ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial". Afasta-se, assim, a ideia de simples valoração da prova.
+Confiram-se (grifos acrescidos):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. PEDIDO DE DENUNCIAÇÃO À LIDE. SUCESSÃO EMPRESARIAL. SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+(..)
+2. De outra parte, a revisão do entendimento do Tribunal a quo acerca do requerimento de denunciação da lide pelos dois demandados, bem como a respeito da ocorrência de preclusão em relação à discussão da sucessão empresarial esbarra na censura da Súmula 7 do STJ, porquanto demanda o revolvimento do conjunto fático-probatório, soberanamente delineado nas instâncias ordinárias.
+3. Agravo interno não provido.
+(AgInt no AREsp 999.794/PR, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 20/6/2017.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. INADMISSÃO DO RECURSO ESPECIAL. ÓBICE DA SÚMULA 182/STJ AFASTADA. PRECLUSÃO RECONHECIDA NA ORIGEM. REVISÃO. SÚMULA 7/STJ.
+(..)
+5. Observa-se que o órgão julgador decidiu a questão após percuciente análise dos fatos e das provas relacionados à causa. É certo asseverar que, na moldura delineada, infirmar o entendimento assentado no aresto impugnado a respeito da preclusão consumativa passa por revisitar o acervo probatório, o que é vedado em Recurso Especial, consoante a Súmula 7 do STJ.
+6. Agravo Interno provido para reconsiderar a decisão e, em novo julgamento, conhecer do Agravo para não conhecer do Recurso Especial.
+(AgInt no AREsp 2.350.632/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 9/10/2023.)
+Diante do exposto, conheço do Agravo para conhecer parcialmente do Recurso Especial, apenas com relação à infringência ao art. 1.022 do CPC, e, nessa parte, negar-lhe provimento.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem- se.
+EMENTA
