@@ -1,0 +1,12 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de fls. 862-863 (e-STJ).
+Cuida-se de habeas corpus impetrado em favor de GEROALDO GABRIEL DA SILVA em que se aponta como ato coator a decisão monocrática de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que denegou o pedido de liminar formulado no HC n. 2018217-23.2024.8.26.0000.
+Consta dos autos a prisão preventiva do paciente, decorrente de suposta prática do delito capitulado no art. 121, § 2º, inciso III, do Código Penal, termos em que pronunciado. Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, diante da existência de nulidade absoluta tendo em vista a ausência de defesa técnica, pois os antigos defensores do paciente foram negligentes, uma vez que "quedaram-se silentes na fase do art. 422 do CPP, onde o acusado tem a oportunidade de indicar suas testemunhas, juntar documentos e/ou requerer diligências" (fl. 05). Nesse sentido, assevera que os antigos patronos deixaram de indicar como prova oral a principal testemunha de defesa, a "Sra. Angélica, a corroborar a tese de legítima defesa de terceiros, ventilada pelo paciente em seu interrogatório" (fl. 05). Requer, assim, liminarmente, a suspensão dos autos principais, cancelando a designação de sessão do tribunal do júri prevista para o dia 20/02/2024, até o julgamento definitivo do presente writ. No mérito, pugna pelo reconhecimento da nulidade indicada e da perda de uma chance probatória, para que seja reaberta a fase prevista no art. 422 do CPP, bem como seja feita a intimação da defesa para indicar as provas que entenda pertinentes.
+Após a impetração, o impetrante atravessou petição de fl. 860, na qual pleiteou a redistribuição do presente writ à Ministra Daniela Teixeira, tendo em vista a existência de prevenção em decorrência do julgamento do habeas corpus n. 886.801/SP.
+O "habeas corpus" foi indeferido liminarmente. (e-STJ Fl. 862-864)
+A parte impetrante apresentou agravo. (e-STJ Fl.869-880)
+Decido.
+O impetrante impetrou o HC 903812 / SP em face do acórdão de mérito proferido na mesma demanda (Habeas corpus nº 2018217-23.2024.8.26.0000), ocasião em que concedi a ordem liminarmente.
+Ante  o  exposto,  ausente objeto na impetração,  julgo  prejudicado  o presente habeas corpus.
+Publique-se . Intimem-se.
+EMENTA
