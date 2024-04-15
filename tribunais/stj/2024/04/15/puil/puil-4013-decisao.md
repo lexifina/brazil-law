@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei interposto por Maria Aparecida Marques, com fundamento no art. 18 da Lei n. 12.153/2009, contra acórdão proferido pela Segunda Turma Recursal dos Juizados Especiais do Tribunal de Justiça do Estado de Goiás, assim ementado (fls. 525-430):
+RECURSO INOMINADO. DIREITO ADMINISTRATIVO E PREVIDENCIÁRIO. AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. SERVIDORA APOSENTADA POR INVALIDEZ. TERMO INICIAL. DATA DO LAUDO PERICIAL, E NÃO DO CONHECIMENTO DA DOENÇA. SENTENÇA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+Quanto à necessidade de realização de perícia médica no caso de revisão de aposentadoria por incapacidade permanente, a requerente aponta divergência de entendimento entre o acórdão recorrido e a Turma Recursal do Juizado Especial do Paraná. Assera que, ao não permitir a produção de provas por parte da Apelante, o acórdão recorrido "faltou com seu dever de cooperação e incorreu em nulidade processual, violando o direito do contraditório e da ampla defesa previsto no artigo 5º, inciso LV da Constituição Federal, uma vez que, a produção de prova pericial se mostre imprescindível para dirimir a controvérsia". Requer, assim, o acolhimento do pedido, a fim de que prevaleça o entendimento da Turma Recursal do Juizado Especial do Paraná.
+É o relatório. Passo a decidir.
+Cabe estabelecer que os requisitos de admissibilidade do incidente de uniformização assemelha-se àqueles exigidos no recurso especial, quais sejam: i) apontar o dispositivo de legislação federal violado no acórdão; ii) prequestionamento; iii) comprovação de divergência com a jurisprudência dominante desta Corte, com a demonstração das circunstâncias que identificam ou assemelham os casos confrontados, nos moldes exigidos pelo art. 1.029, § 1º, do CPC/2015 e do 255, § 1º, do RISTJ, aplicáveis, por analogia; iv) esgotamento de instância; e v) impossibilidade de reexame de provas.
+Na espécie, verifica-se que a requerente não apontou o dispositivo de lei federal que teria sido dado interpretação divergente, circunstância suficiente a impedir o conhecimento do recurso. Confirmando tal orientação, destaca-se o seguinte julgado da Primeira Seção:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI, COM FUNDAMENTO NO ART. 18, § 3º, DA LEI 12.153/2009. AGENTE COMUNITÁRIO DE SAÚDE. ADICIONAL DE INSALUBRIDADE. DISSÍDIO NÃO COMPROVADO.
+1. Trata-se de Agravo Interno contra decisão que indeferiu liminarmente o Pedido de Uniformização de Interpretação de Lei.
+2. Apenas no Agravo Interno a parte esclareceu qual o dispositivo de lei federal teria sido interpretado de modo divergente, o que é inadmissível devido à ocorrência da preclusão consumativa.
+3. Ademais, não foi demonstrada a existência de interpretação de lei federal, porque o aresto paradigma de autos 00744698.2019.81601-53, proferido pela 4ª Turma Recursal do Tribunal de Justiça do Estado do Paraná, decidiu o feito com base em legislação municipal.
+4. Quanto aos demais paradigmas invocados, não foi realizado o cotejo analítico, de modo a demonstrar o dissídio, tampouco foi indicado oportunamente o dispositivo de lei federal ao qual teria sido dada interpretação divergente.
+5. Agravo Interno não provido.
+(AgInt no PUIL n. 2.672/SC, relator Ministro Herman Benjamin, Primeira Seção, julgado em 16/8/2022, DJe de 22/8/2022.)
+Ante o exposto, não conheço do pedido de uniformização de interpretação de lei, nos termos do art. 34, XVIII, a, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. ART. 18, § 3º, DA LEI 12.153/2009. DISPOSITIVO DE LEI FEDERAL INTERPRETAÇÃO DIVERGENTE. AUSÊNCIA. DISSÍDIO NÃO COMPROVADO. PEDIDO NÃO CONHECIDO.
