@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 19 e 20 da Lei nº 12.965/2014; 186 do Código Civil; e 6º do Código de Defesa do Consumidor. O acórdão recorrido está retratado na seguinte ementa (fl. 179):
+APELAÇÃO. OBRIGAÇÃO DE FAZER. PERFIL FACEBOOK. INSTAGRAM. Sentença que julgou procedente, em parte, a ação ajuizada por KS COMÉRCIO DE CHOCOLATES EIRELI contra FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA, para o efeito de condenar a parte ré na obrigação de fazer, consistente em reativar o perfil @cacaushowurupes, nos moldes em que funcionava até a data da indisponibilidade. Afastou o pedido de indenização por danos morais. Inconformismo da parte autora. Sentença mantida. Recurso não provido.
+Sustenta a parte agravante que a exclusão sumária da conta da recorrente não se mostra como exercício regular de direito da recorrida, ante a ausência da demonstração da conduta violadora, e, além disso, não acolher seu pedido de indenização implica deixar impune tal ato, em contradição com a própria fundamentação da sentença.
+Argumenta que o modo de agir da recorrida causou prejuízos para sua loja (venda de chocolates), depreciando sua reputação moral.
+Adverte que sempre teve responsabilidade em utilizar e respeitar os termos e condições de uso da rede social, mas está hoje sendo atingida em seu decoro e direitos.
+Ressalta que paga pelo serviço de impulsionamento, que pode ser destinado a aumentar o alcance das publicações, aumentar a visibilidade da página perante outros usuários, aumentar a quantidade de curtidas nas páginas, pagando o usuário por curtida que recebe, entre inúmeras outras formas de renda, sendo esse o meio empregado para o sucesso financeiro da rede.
+Assim posta a questão, passo a decidir.
+O Tribunal de origem ao apreciar o feito, no que diz respeito ao dever de indenizar à parte recorrente, entendeu às fls. 182 - 184 - grifei:
+Cumpre obtemperar que, na hipótese, restou incontroverso o fato de que a conta "@cacaushowurupes", de titularidade da parte autora, ora apelante, foi bloqueada por suposta afronta aos termos de uso e diretrizes da comunidade das referidas plataformas.
+Como é cediço, a teoria geral dos contratos, rege o princípio da autonomia de vontade ou da liberdade contratual, conforme assegura o artigo 421, do Código Civil e, qualquer cancelamento de contrato deve ser devidamente justificado, sob pena de afronta aos princípios da boa-fé objetiva e subjetiva e função social dos contratos.
+Como bem observou o Juízo a quo: "Para que o usuário ingresse em tais redes sociais, é necessário submeter-se à concordância prévia com os termos de uso e demais condições unilateralmente impostas pelo requerido, sem a possibilidade de discussão, alteração ou exclusão de quaisquer delas, semelhante ao que acontece no contrato de adesão.
+A previsão contida nos termos de uso, que permite a restrição/exclusão/indisponibilidade de perfis é válida, ainda que sem notificação prévia, contudo é necessário que se demonstre o motivo que ensejou tal penalidade, temporária ou definitiva." (fl. 81).
+Em relação ao dano moral, não se divisa nos eventos relatados a ocorrência de violação anormal à personalidade, com ofensa ou abalo emocional decorrente da afetação intensa a sentimentos, acarretando dor e sofrimento, mas situação inerente a relações negociais que não se desenvolvem segundo as expectativas dos contratantes, situado no campo dos aborrecimentos próprios a relações negociais.
+ ..
+Nesse diapasão, apenas devem consistir em dano moral a dor, o vexame, o sofrimento ou a humilhação que, exorbitando a normalidade, afetem profundamente o comportamento psicológico do indivíduo, causando-lhe aflições, desequilíbrio e angústia, sendo que tais estados psicológicos são consequências e não causas do dano.
+Diante dos critérios de prudência, bom senso e da lógica do razoável balizados pela jurisprudência e lição doutrinária acima invocada, entende-se que, no caso em apreço, a conduta do apelado não configura ato capaz de ensejar a condenação pleiteada.
+Assim, fica mantida a r. sentença.
+Com efeito, observo que rever tais conclusões da Corte local demandaria o reexame do acervo fático dos autos, situação vedada pelo óbice das Súmulas n. 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiário da Justiça gratuita.
+Intimem-se.
+EMENTA
