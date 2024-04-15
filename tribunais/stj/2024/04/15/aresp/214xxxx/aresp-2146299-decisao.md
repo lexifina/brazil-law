@@ -1,0 +1,80 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial pelo qual ALCOOL QUIMICA CANABRAVA S.A se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado (fl. 788):
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO. NÃO OCORRÊNCIA. SUSPENSÃO DA EXECUÇÃO POR AUSÊNCIA DE BENS PENHORÁVEIS. IMPOSSIBILIDADE. AUSÊNCIA DE ILEGALIDADE NA DECISÃO RECORRIDA. RECURSO IMPROVIDO.
+1 - A questão centra-se na insatisfação da Agravante com a decisão que rejeitou a Exceção de Pré-Executividade que pretendia o reconhecimento da prescrição dos créditos executados. A agravante requer o reconhecimento da prescrição e, subsidiariamente, a suspensão da Execução Fiscal por ausência de bens penhoráveis, nos termos do art. 40 da Lei 6.830/80.
+2 - Os documentos acostados à Execução Fiscal no momento de impugnação da Fazenda Pública noticiam a adesão ao parcelamento das inscrições 12.142.709-9, 12.142.710-2, 41.491.680-8, 41.491.681-6, 41.491.682-4, 41.491.683-2, 41.491.684-0, 41.491.686-7, 41.491.687-5, 41.491.688-3, 41.584.204-2, 42.666.821-9, 45.734.257-9 com data de adesão entre 25/02/13 e 28/08/14 tendo ocorrida a rescisão entre 01/10/14 e 22/08/16.
+3 - Tendo em vista que os créditos foram constituídos através de declaração nas datas que vão de23/03/2011 a 10/07/2014 e que os parcelamentos foram efetivados entre 25/02/13 e 28/08/14 com data de rescisão entre 01/10/14 e 22/08/16, é de se afastar a alegação de prescrição dos créditos uma vez que o ajuizamento da ação ocorreu em 02/03/2017.
+4 - Quanto à ausência de bens para garantir a Execução Fiscal, tal fato não se constata, uma vez que ao evento 22 consta a certidão do oficial de justiça, procedendo à penhora de diversos bens da executada, pelo que é de se confirmar a decisão recorrida.
+5 - Não havendo qualquer ilegalidade ou teratologia na decisão agravada, não há motivos para a sua reforma em sede de Agravo de Instrumento. Precedente deste E.TRF2: (0000820-65.2016.4.02.0000 - Agravo de Instrumento - Processo Cível e do Trabalho Relator(a) CLAUDIA NEIVA Relator para Acórdão CLAUDIA NEIVA TRIBUNAL - SEGUNDA REGIÃO Órgão julgador 3ª TURMA ESPECIALIZADA Data 06/07/2016 Data da publicação 12/07/2016)
+6 - Agravo de Instrumento de ALCOOL QUÍMICA CANABRAVA S/A, improvido.
+Os embargos de declaração opostos foram rejeitados (fls. 850/851).
+Em suas razões recursais, a parte recorrente alega que houve violação ao art. 156, V, do Código Tributário Nacional (CTN), assim como ao art. 40 da Lei 6.830/1980.
+Sustenta que (fls. 867/868):
+Quando do ajuizamento da Execução Fiscal de origem, os créditos tributários consubstanciados nas Certidões de Dívida Ativa que lastrearam a presente cobrança já se encontravam acobertados pelo manto da prescrição.
+ ..
+No entanto, a decisão desconsiderou a prescrição dos créditos vez que o ajuizamento da Ação ocorreu em 02/03/2017 e o despacho citatório em 03/03/2017, tratando-se de notória inobservância à vigência da Lei Federal nº 5.172/66.
+Isso porque, apesar de ter havido acordo de parcelamento, no qual fora posteriormente rescindido, alguns créditos já se encontravam prescritos quando do despacho citatório na Execução Fiscal.
+ ..
+Consoante se verifica nitidamente na decisão recorrida, a Execução Fiscal foi distribuída somente em 02/03/2017, sendo proferido o Despacho Citatório em 03/03/2017.
+E é o exatamente o que ocorre no caso dos autos. A prescrição é nítida. Transcorridos mais de 5 (cinco) anos entre a constituição do crédito e a citação, caracteriza-se a ocorrência da prescrição no caso em tela.
+Pontua que (fls. 869/870):
+ ..  diferentemente do que restou consignado no Acórdão recorrido,  ela  não dispõe de bens sujeitáveis a penhora.
+Isto porque, todo o seu patrimônio já se encontra penhorado nos autos do Processo nº 0011506-20.2015.5.01.0284 em trâmite perante a Justiça do Trabalho de Campos dos Goytacazes.
+ ..
+No caso sub judice, a inexistência de bens foi constatada pelo Juízo da 4ª Vara do Trabalho de Campos dos Goytacazes/RJ nos autos do Processo nº 0011506-20.2015.5.01.0284 o que inviabiliza por hora o andamento da execução.
+Lado outro, qualquer ato constritivo realizado sobre o  seu  patrimônio será inócuo, ante as razões acima esposadas.
+Requer que seja dado provimento ao recurso especial interposto.
+A parte adversa apresentou contrarrazões (fls. 899/909).
+O recurso não foi admitido na origem (fls. 929/930), razão da interposição do recurso ora examinado.
+É o relatório.
+Preenchidos os requisitos de admissibilidade do agravo, passo à análise do recurso especial.
+O Superior Tribunal de Justiça já se manifestou no sentido de ser inadmissível o recurso especial que apresente razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. É o caso dos autos.
+Isso porque a Corte regional entendeu que os créditos tributários sob análise não estariam prescritos, em razão da interrupção da prescrição operada pelos pedidos administrativos de parcelamento - ainda que esses tivessem sido, posteriormente, rescindidos -, conforme se verifica às fls. 786/786:
+A irresignação da recorrente não procede. Os documentos acostados à Execução Fiscal no momento de impugnação da Fazenda Pública noticiam a adesão ao parcelamento das inscrições 12.142.709-9, 12.142.710-2, 41.491.680-8, 41.491.681-6, 41.491.682-4, 41.491.683-2, 41.491.684-0, 41.491.686-7, 41.491.687-5, 41.491.688-3, 41.584.204-2, 42.666.821-9, 45.734.257-9 com data de adesão entre 25/02/13 e 28/08/14 tendo os mesmos sido rescindidos entre 01/10/14 e 22/08/16.
+Nos termos do artigo 174, parágrafo único, inciso IV, do CTN, o pedido administrativo de parcelamento importa em reconhecimento da dívida pelo devedor e tem como consequência a interrupção da prescrição, que recomeça a fluir a partir do inadimplemento/exclusão do parcelamento.
+ ..
+Tendo em vista que os créditos foram constituídos através de declaração nas datas que vão de 23/03/2011 a 10/07/2014 e que os parcelamentos foram efetivados entre 25/02/13 e 28/08/14 com data de rescisão entre 01/10/14 e 22/08/16, é de se afastar a alegação de prescrição dos créditos uma vez que o ajuizamento da ação ocorreu em 02/03/2017.
+Por seu turno, a parte ora recorrente aduz que parte dos créditos tributários estaria prescrita, pois a interrupção da prescrição - que teria ocorrido somente com o despacho citatório na execução fiscal - deu-se após o transcurso do lustro prescricional, nesses termos (fls. 864/865):
+Ocorre que, o suposto débito supramencionado consubstanciou-se em diversas Certidões de Dívida Ativa, tendo, parte destas, sido acobertadas pelo manto da prescrição, ensejando a extinção parcial do crédito tributário, nos termos do artigo 156, inciso V do Código Tributário Nacional, quais sejam:
+ ..
+No entanto, a Execução Fiscal foi distribuída somente em 02/03/2017, sendo proferido o Despacho Citatório de em 03/03/2017.
+Mesmo que o Despacho Citatório proferido em 03/03/2017 tenha tido o condão de interromper a prescrição do crédito tributário, alguns dos débitos objetos da presente Execução já se encontravam prescritos, uma vez decorridos 5 (cinco) anos da data de sua constituição.
+Por essa razão, incide no presente caso, por analogia, o enunciado sumular 284 do Supremo Tribunal Federal (STF), que estabelece: "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". A propósito, cito os seguintes julgados desta Corte Superior, naquilo que interessa:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL  .. . RAZÕES RECURSAIS DISSOCIADAS DO JULGADO. SÚMULA 284/STF.
+ ..
+3. É inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+ ..
+7. Agravo interno conhecido parcialmente para, na parte conhecida, negar-se-lhe provimento. (AgInt nos EDcl no AREsp n. 1.700.429/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/4/2021, DJe de 29/4/2021 - sem destaques no original.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONVÊNIO. MODERNIZAÇÃO DA GUARDA MUNICIPAL. EXECUÇÃO. NÃO COMPROVAÇÃO. RESSARCIMENTO. MUNICÍPIO. INTIMAÇÃO ELETRÔNICA DA SENTENÇA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO. APLICAÇÃO DA SÚMULA N. 284 DO STF.
+ ..
+III - A jurisprudência do Superior Tribunal de Justiça, é firme no sentido de que se o recorrente apresenta razões dissociadas dos fundamentos adotados pelo acórdão recorrido, o recurso especial é deficiente na sua fundamentação, o que atrai a aplicação por analogia da Súmula n. 284 do STF.
+ ..
+VIII - Agravo interno improvido. (AgInt no REsp n. 1.806.873/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 23/11/2020, DJe de 25/11/2020 - sem destaques no original.)
+Ressalto que o entendimento adotado pelo acórdão recorrido encontra-se consentâneo ao esposado por est a Corte, no sentido de que o pedido de parcelamento tributário implica a interrupção da prescrição.
+Ademais, rever o entendimento em relação à inocorrência da prescrição implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide, no ponto, a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito os seguintes julgados deste Tribunal:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. OCORRÊNCIA DE CONFISSÃO E PARCELAMENTO DA DÍVIDA TRIBUTÁRIA. INTERRUPÇÃO DO PRAZO PRESCRICIONAL, NOS TERMOS DO ART. 174, PARÁGRAFO ÚNICO, IV, DO CTN. ACÓRDÃO DO TRIBUNAL DE ORIGEM QUE, DIANTE DO ACERVO FÁTICO DOS AUTOS, AFASTOU A PRESCRIÇÃO DO CRÉDITO TRIBUTÁRIO, ANTE O RECONHECIMENTO DA ADESÃO DO CONTRIBUINTE A PROGRAMA DE PARCELAMENTO. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+IV. Consoante entendimento firmado nesta Corte, "o pedido de parcelamento tributário acarreta duas consequências: a) interrompe a prescrição, nos termos do art. 174, parágrafo único, IV, do CTN, por representar ato extrajudicial de confissão de dívida (art. 5º da Lei 11.941/2009), e b) suspende a exigibilidade do crédito tributário (art. 151, VI, do CTN), e, portanto, a prescrição, enquanto vigente o parcelamento" (STJ, REsp 1.670.543/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 30/06/2017). No mesmo sentido: STJ, AgRg no AREsp 838.581/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 13/04/2016; REsp 1.493.115/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 25/09/2015; AgRg no REsp 1.342.546/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 27/08/2015.
+V. No caso concreto, a Corte de origem, diante do contexto fático-probatório dos autos, afastou a alegação de prescrição dos créditos tributários exequendos, em face do art. 174, parágrafo único, IV, do CTN, ao fundamento de que devidamente comprovado o pagamento e o termo de confissão de dívida, firmado por vontade do ora agravante em parcelar seus débitos.
+VI. Nesses termos, os argumentos utilizados pela parte recorrente, relativos à arguição de prescrição dos créditos tributários exequendos, somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos. Nesse sentido: STJ, AgRg no AREsp 573.795/SE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 05/06/2015; AgRg no REsp 1.425.947/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 09/09/2014.
+VII. Agravo interno improvido. (AgInt no AREsp n. 2.191.030/SC, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 12/6/2023, DJe de 19/6/2023.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO. PARCELAMENTO. RECONHECIMENTO DA DÍVIDA. INTERRUPÇÃO DO PRAZO. ENTENDIMENTO JURISPRUDENCIAL PACÍFICO. SÚMULA 83/STJ. ACÓRDÃO CUJA CONCLUSÃO NÃO PODE SER REVISTA SEM REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Por força do art. 174, IV, do CTN, o pedido de parcelamento de débito tributário interrompe a prescrição da pretensão de cobrança, pois é ato que importa reconhecimento da dívida pelo devedor.
+2. No caso dos autos, o conhecimento do recurso encontra óbice nas Súmulas 7 e 83 do STJ, pois o Tribunal regional afastou a ocorrência de prescrição intercorrente, porque a devedora apresentou pedido de parcelamento, nada tecendo a respeito de o prazo prescricional ter-se exaurido antes do requerimento.
+3. Agravo interno não provido. (AgInt no REsp n. 1.839.377/PE, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 26/10/2020, DJe de 28/10/2020.)
+TRIBUTÁRIO. CRÉDITO TRIBUTÁRIO. PARCELAMENTO. CONFISSÃO INEQUÍVOCA DO DÉBITO. PRESCRIÇÃO. INTERRUPÇÃO.
+1. "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida" ( Súmula 83 do STJ).
+2. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7 do STJ).
+3. A jurisprudência deste Superior Tribunal de Justiça consolidou-se no sentido de que o pedido de parcelamento do débito tributário interrompe a prescrição nos termos do art. 174, IV, do CTN por representar ato inequívoco de reconhecimento da dívida (REsp 1.369.365/SC, Rel. Min. Eliana Calmon, Segunda Turma, DJe 19/6/2013).
+4. Hipótese em que o conhecimento do recurso especial encontra óbice nas Súmulas 7 e 83 do STJ, pois Tribunal a quo, atento ao conjunto fático-probatório, decidiu pela inocorrência da prescrição, reconhecendo a interrupção do prazo prescricional, mesmo após a exclusão do parcelamento (2004), em razão das diversas vezes em que o recorrente pleiteou administrativamente o restabelecimento do parcelamento (2004, 2007 e 2009), firmando-se diversos acordos com o fisco condicionados ao pagamento das parcelas vencidas, sendo o último datado de 17/08/2009.
+5. Agravo interno desprovido. (AgInt no AREsp n. 1.184.969/ES, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 28/4/2020, DJe de 4/5/2020.)
+No que diz respeito à alegada violação ao art. 40 da Lei 6.830/1980, incide, novamente, o óbice da Súmula 7/STJ, em razão da conclusão exarada pelo Tribunal de origem nestes exatos termos (fl. 786):
+Quanto à ausência de bens para garantir a Execução Fiscal, tal fato não se constata, uma vez que ao evento 22 consta a certidão do oficial de justiça, procedendo à penhora de diversos bens da executada, pelo que é de se confirmar a decisão recorrida.
+Ademais, quando do julgamento dos embargos de declaração opostos pela parte recorrente, a Corte regional acrescentou que "na estreita seara da exceção de pré-executividade, as matérias alegadas são apenas as que não demandem dilação probatória" (fl. 849).
+A peça recursal, todavia, não se insurge contra aquele fundamento, limitando-se a afirmar que "todo o seu patrimônio já se encontra penhorado nos autos do Processo nº 0011506-20.2015.5.01.0284 em trâmite perante a Justiça do Trabalho de Campos dos Goytacazes" (fl. 869).
+Não é possível afastar, assim, a incidência, por analogia, da Súmula 283 do Supremo Tribunal Federal (STF), que estabelece: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
