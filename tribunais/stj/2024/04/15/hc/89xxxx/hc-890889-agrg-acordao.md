@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/04/2024 a 15/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO DOMICILIAR. MÃE DE CRIANÇA MENOR DE 12 ANOS. EXCEPCIONALIDADE.. WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. SÚMULA N. 691/STF. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem c ompreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, a liminar foi indeferida em razão do tráfico de entorpecente de alto poder lesivo (crack) ocorrer no interior da residência da agravante. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+3. Agravo regimental a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo regimental no habeas corpus interposto por MARIA REGINA OLIVEIRA SILVA - presa preventivamente em 18/2/2024, tendo em vista suposta prática de tráfico de drogas - contra decisão monocrática da Presidência que indeferiu liminarmente o writ nos termos da Súmula n. 691/STF (e-STJ fls. 87/89).
+No presente agravo, a defesa sustenta haver flagrante ilegalidade a justificar a superação da Súmula n. 691/STF, uma vez que a ré é mãe de um menino de apenas 1 ano de idade, sendo a única responsável pelos cuidados essenciais do menor e, portanto, faz jus ao regime domiciliar nos termos do art. 318 do CPP.
+Acrescenta, ainda, que "o Conselho Nacional de Justiça (CNJ) expediu a Recomendação 62, de 17 de março de 2020, determinando aos Tribunais e magistrados a adoção de medidas preventivas à propagação da infecção pelo novo coronavírus - Covid-19 no âmbito dos sistemas de justiça penal e socioeducativo. " (e-STJ fl. 95).
+Diante disso, pede a reconsideração da decisão anterior ou que o recurso seja levado a julgamento pelo Colegiado da Quinta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO DOMICILIAR. MÃE DE CRIANÇA MENOR DE 12 ANOS. EXCEPCIONALIDADE.. WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. SÚMULA N. 691/STF. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem c ompreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, a liminar foi indeferida em razão do tráfico de entorpecente de alto poder lesivo (crack) ocorrer no interior da residência da agravante. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+3. Agravo regimental a que se nega provimento.
+VOTO
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+No caso, sem adiantar qualquer juízo de valor sobre os fatos, destaco os termos expostos pelo Tribunal a quo, ao indeferir o pleito liminar (e-STJ fls. 82/83, grifo não original):
+Ao que emerge dos autos, a paciente foi presa em flagrante pela suposta pratica do crime previsto no artigo 33, caput (tráfico de drogas) da Lei 11.343/2006, sendo decretada a prisão preventiva, após requerimento do Ministério Público.
+No caso vertente, a ordem liberatória pretendida envolve a conversão da prisão preventiva em prisão domiciliar, em razão da paciente ter um filho menor de 12anos.
+Na espécie, não verifico a presença dos requisitos necessários à concessão da liminar postulada, com a adoção de medidas cautelares diversas da prisão.
+É que, segundo o disposto no artigo 318, do Código de Processo Penal, o juiz poderá substituir a prisão preventiva pela domiciliar quando o agente tiver filho menor de 12 anos de idade (inciso V), não sendo assim a conversão automática, incumbindo ao juiz analisar se o acusado pode ficar fora da prisão sem colocar a ordem pública em risco.
+Analisando os documentos acostados aos autos, vejo que a segregação cautelar imposta ao paciente não se mostra revestida de ilegalidade, porquanto a autoridade judicial fundamentou a aplicação da medida extrema na prova da existência do crime e indício suficiente de autoria, bem como na gravidade em concreto do delito, que se deu por associação de ao menos duas pessoas, vendendo entorpecente, altamente lesivo à saúde (crack), demonstrando a necessidade da cautelar máxima para fins de assegurar a ordem pública.
+Cumpre destacar, ademais, que a autoridade judicial ressaltou que "em que pese ambas afirmarem possuir filhos na primeira infância, o delito ocorria no interior da residência das custodiadas, de forma que não há como conceder a prisão domiciliar no presente caso".
+Nesse contexto, à primeira vista, não restou demonstrado os pressupostos legais para a revogação da prisão cautelar ou a sua substituição por outras medidas cautelares alternativas, devendo a matéria ser melhor analisada por ocasião do exame do mérito da impetração.
+Ao teor do exposto, indefiro a liminar requerida.
+Com efeito, o decisum impugnado encontra suporte na jurisprudência desta Corte, segundo a qual, "a efetiva prática de tráfico de drogas e de associação para o mesmo fim dentro da residência, notadamente em um contexto em que os crimes seriam perpetrados na presença dos filhos, pode ser entendida como circunstância excepcional a justificar a manutenção da preventiva, porquanto está a expor diretamente as crianças a evento danoso ao seu desenvolvimento. Assim, conceder a prisão domiciliar, in casu, seria ir de encontro ao télos da decisão proferida pela Corte Suprema." (AgRg no HC n. 618.775/SP, Sexta Turma, Rel. Ministro ANTONIO SALDANHA PALHEIRO, DJe de 26/3/2021).
+Ademais, a questão posta em exame demanda averiguação mais profunda pelo Tribunal estadual, no momento adequado. Entendo, portanto, não ser o caso de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
