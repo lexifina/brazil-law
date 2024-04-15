@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/04/2024 a 15/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL DA AGRAVANTE. VIOLAÇÃO AO ART. 33, § 2º, "B", E § 3º, DO CÓDIGO PENAL - CP. REGIME INICIAL MAIS GRAVOSO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MAUS ANTECEDENTES. CABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Consoante expressa disposição legal, "a determinação do regime inicial de cumprimento da pena far-se-á com observância dos critério previsto no art. 59" do CP (art. 33, § 3º).
+1.1. Em estrita observância ao comando legal, o Tribunal local invocou a existência de péssimos antecedentes para fixar o regime inicial mais gravoso do que aquele indicado para o montante de pena cominada. Compreensão que encontra respaldo na jurisprudência desta Corte.
+2. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental de fls. 8774/8781 interposto por CHRISTIANE TOLEDO RODRIGUES VENTURELLI em face de decisão de minha lavra de fls. 8695/8697 que conheceu do seu agravo em recurso especial para negar provimento ao recurso especial, ficando mantido o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - TJSP proferido no julgamento de embargos de declaração na apelação criminal n. 0002653-42.2017.8.26.0466.
+A defesa insiste no cabimento do regime inicial semiaberto, pois o regime mais gravoso ficou justificado na "existência de uma única causa de aumento a majorar a pena em poucos meses". Entende que a imposição do regime mais gravoso pode ser mitigada, consoante precedentes desta Corte.
+Requer a reconsideração ou o provimento do agravo regimental pela Turma.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL DA AGRAVANTE. VIOLAÇÃO AO ART. 33, § 2º, "B", E § 3º, DO CÓDIGO PENAL - CP. REGIME INICIAL MAIS GRAVOSO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MAUS ANTECEDENTES. CABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Consoante expressa disposição legal, "a determinação do regime inicial de cumprimento da pena far-se-á com observância dos critério previsto no art. 59" do CP (art. 33, § 3º).
+1.1. Em estrita observância ao comando legal, o Tribunal local invocou a existência de péssimos antecedentes para fixar o regime inicial mais gravoso do que aquele indicado para o montante de pena cominada. Compreensão que encontra respaldo na jurisprudência desta Corte.
+2. Agravo regimental desprovido.
+VOTO
+De plano, o agravo regimental deve ser conhecido, eis que tempestivo, com impugnação da decisão agravada, nos limites da matéria colacionada no recurso analisado.
+Quanto ao mérito, a decisão agravada deve ser mantida.
+O TJSP assim dosou a pena e decidiu sobre o regime inicial para a agravante, em dois trechos:
+"Christiane Toledo Rodrigues Venturelli: as basilares dos crimes previstos no artigo 288, caput, do Código Penal, e artigo 1º, caput, da Lei 9.613/98, foram fixadas em 1/3 acima dos mínimos legais, sopesado o cometimento dos crimes em detrimento de pequeno município, relacionados ainda a área da saúde, além do mau antecedente (fls. 5655/5659).
+Contudo, respeitado o entendimento monocrático e, embora não se desconheça a reprovabilidade das referidas condutas, necessária a readequação dos mencionados acréscimos basilares, pelos motivos já explanados (personalidade e conduta social não é o mesmo que maus antecedentes).
+Assim, as penas-bases partem da sexta parte acima dos mínimos, em razão da comprovada condenação criminal definitiva (apta a configurar a má antecedência) que pesa em desfavor da corré, atingindo 01 (um) ano e 02 (dois) meses de reclusão, pela prática do crime do artigo 288, caput, do Código Penal, e 03 (três) anos e 06 (seis) meses de reclusão, com pagamento de 11 (onze) dias-multa menores, pelo cometimento do delito do artigo 1º, caput, da Lei nº 9.613/98, e assim tomam contornos definitivos, à míngua de outras modificadoras.
+Por fim, mantido ainda o cúmulo material entre os dois tipos penais, as penas da corré Christiane atingem 04 (quatro) anos e 08 (oito) meses de reclusão, em regime inicial fechado, com pagamento de 11 (onze) dias-multa menores." (fls. 8059/8060).
+"Os regimes prisionais viram-se corretamente estabelecidos, uma vez que, a personalidade voltada às práticas delitivas, assim como os péssimos antecedentes dos corréus Antônio Frederico (fls. 5614/5654) e Christiane (fls. 5655/5659), circunstâncias indicativas de que não assimilaram os caracteres educativo, preventivo e curativo da sanção penal, justificam e recomendam a fixação dos regimes prisionais estabelecidos na respeitável sentença (semiaberto e fechado), castigo necessário e suficiente para reprovação e prevenção do crime, inviabilizando, por conseguinte, a substituição da privativa de liberdade por restritivas de direito (artigo 44, do Código Penal), entendendo-se, ainda, que a medida não é socialmente recomendável" (fls. 8065/8066).
+Tem-se dos trechos acima que a pena definitiva de reclusão ficou montante superior a 4 anos e não excedeu a 8 anos, mas foi fixado o regime inicial fechado em razão dos péssimos antecedentes valorados negativamente na primeira fase da dosimetria da pena.
+Tal entendimento encontra respaldo na jurisprudência desta Corte, pois a justificativa adotada pelo TJSP está expressamente prevista no art. 33, § 3º, do Código Penal - CP. Precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. REGIME PRISIONAL FECHADO. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. MAUS ANTECEDENTES. REGIME MAIS GRAVOSO JUSTIFICADO.
+1. O regime prisional inicial fechado deve ser mantido, pois, embora o montante da reprimenda recomende o regime semiaberto, a existência de circunstância judicial desfavorável autoriza a aplicação do regime prisional mais gravoso, nos termos do art. 33, § § 2º e 3º, do Código Penal.
+2. Agravo regimental improvido.
+(AgRg no HC n. 769.929/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 24/4/2023, DJe de 27/4/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO (ART. 157, § 2º, II, DO CP). PENA-BASE ACIMA DO PATAMAR MÍNIMO. PRESENÇA DE UMA CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MAUS ANTECEDENTES. REPRIMENDA INFERIOR A 8 ANOS DE RECLUSÃO. REGIME PRISIONAL FECHADO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+1. De acordo os §§ 2º e 3º do art. 33 do Código Penal, estabelecida a pena acima de 4 (quatro) anos e menor que 8 (oito) anos, em que pese à primariedade do réu, as circunstâncias judiciais desfavoráveis justificam a fixação do regime inicial fechado. Precedentes.
+2. No caso em apreço, em razão da quantidade de pena aplicada, caberia a imposição do regime prisional semiaberto. No entanto, diante da presença dos maus antecedentes do réu - tanto que a pena-base foi estabelecida e mantida acima do patamar mínimo -, não há ilegalidade na manutenção do regime fechado.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 684.215/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 8/2/2022, DJe de 15/2/2022.)
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ROUBO MAJORADO. MAUS ANTECEDENTES. REGIME PRISIONAL FECHADO MANTIDO. WRIT NÃO CONHECIDO.
+ ..
+2. Tratando-se de réu que ostenta maus antecedentes, o que justificou a elevação da pena-base, e que fora condenado ao cumprimento de pena superior a 4 anos e inferior a 8 anos de reclusão, deve ser mantido o regime prisional fechado, conforme a dicção do art. 33, §§ 2º e 3º, do CP.
+3. Writ não conhecido.
+(HC n. 533.676/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/12/2019, DJe de 16/12/2019.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. CRIME DE ATENTADO VIOLENTO AO PUDOR. REGIME INICIAL FECHADO. PENA SUPERIOR A 4 E INFERIOR A 8 ANOS. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MAUS ANTECEDENTES. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. É pacífica nesta Corte Superior a orientação segundo a qual a fixação de regime mais gravoso do que o imposto em razão da pena deve ser feita com base em fundamentação concreta, a partir das circunstâncias judiciais dispostas no art. 59 do CP ou de outro dado concreto que demonstre a extrapolação da normalidade do tipo. Nesse sentido, foram elaborados os enunciados n. 718 e 719 da Súmula do col.Supremo Tribunal Federal.
+No caso dos autos, o Tribunal de origem manteve a pena-base acima do mínimo legal em razão de ser considerada desfavorável circunstância judicial, haja vista e existência de maus antecedentes, o que justifica a segregação inicial em regime mais gravoso, consoante dispõe o art. 33, § 3º, do Código Penal e em consonância com a jurisprudência desta Corte de Justiça. Precedentes.
+Habeas corpus não conhecido.
+(HC n. 470.800/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/10/2018, DJe de 30/10/2018.)
+Destaca-se que o Tribunal de origem não constatou qualquer distinção dos antecedentes na aplicação do disposto no no art. 33, § 3º, do CP para deixar de fixar o regime mais gravoso, tendo inclusive afirmado que são "péssimos antecedentes". Nesse sentido, precedentes:
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PORTE ILEGAL DE ARMA DE FOGO E FALSA IDENTIDADE. PENA FIXADA ABAIXO DE QUATRO ANOS. EXISTÊNCIA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. ACÓRDÃO EMBARGADO QUE FIXOU O REGIME INICIAL ABERTO. IMPOSSIBILIDADE. IMPOSIÇÃO DE REGIME SEMIABERTO. EMBARGOS DE DIVERGÊNCIA ACOLHIDOS.
+1. A letra expressa da lei penal indica três critérios a serem considerados para a fixação do regime prisional inicial para cumprimento das penas privativas de liberdade: quantidade de pena e reincidência (alíneas a, b e c do § 2.º do art. 33 do Código Penal); e circunstâncias judiciais (§ 3.º do art. 33, que remete ao art. 59, ambos do Código Penal).
+2. Assim, a fixação do regime aberto pressupõe pena igual ou inferior a 4 (quatro) anos, condenado não reincidente, com circunstâncias judiciais favoráveis.
+3. No caso, tendo sido estabelecida a pena definitiva em patamar inferior a 4 (quatro) anos, mas presente uma circunstância judicial desfavorável, é impositiva a fixação do regime inicial semiaberto.
+4. Embargos de divergência acolhidos para, cassando o acórdão embargado, dar provimento ao agravo regimental do Ministério Público do Estado do Rio Grande do Norte e, assim, negar provimento ao recurso especial da Defesa.
+(EAREsp n. 1.905.458/RN, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 22/3/2023, DJe de 3/4/2023.)
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. LEGITIMIDADE. ASSISTENTE DE ACUSAÇÃO. ART. 33, § 3º, DO CÓDIGO PENAL - CP. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. JUSTIFICADA IMPOSIÇÃO DE REGIME INICIAL MAIS GRAVOSO. MANUTENÇÃO DE REGIME DIVERSO QUE DEMANDA DISTINÇÃO INOCORRENTE NO CASO CONCRETO. EMBARGOS DE DIVERGÊNCIA PROVIDOS.
+1. O assistente de acusação possui legitimidade para oposição dos embargos de divergência, notadamente porque os referidos embargos são adequados para impugnar acórdão em recurso especial, sendo certo que se admite a interposição de recurso especial por assistente de acusação, consoante Súmula n. 210 do SUPREMO TRIBUNAL FEDERAL - STF.
+2. Consoante precedentes desta SEÇÃO e das TURMAS que a compõem, a presença de circunstância judicial desfavorável justifica a imposição do regime inicial mais gravoso, em atenção ao disposto no art. 33, § 3º, do CP. Sendo assim, existindo circunstância judicial desfavorável, está justificado regime mais gravoso, devendo a fixação do regime inicial embasada apenas no montante de pena ser cabível quando demonstrado que o caso concreto demanda solução distinta.
+3. O voto vencedor do acórdão embargado manteve regime aberto mesmo diante de circunstâncias judiciais desfavoráveis, tendo o Tribunal de Justiça ignorado o comando do art. 33, § 3º, do CP. Logo, deve prevalecer o entendimento do acórdão paradigma que fixa o regime mais gravoso.
+4. Embargos de divergência providos para reformar o acórdão embargado com fim de prevalecer o entendimento do acórdão paradigma no sentido de que, diante da existência de circunstância judicial desfavorável, está justificado a imposição de regime inicial mais gravoso, no caso, o semiaberto.
+(EREsp n. 1.970.578/SC, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 2/3/2023, DJe de 6/3/2023.)
+Em tempo, registra-se que em razão de voto encaminhado para parcial provimento do agravo regimental do corréu HOMERO, a pena de reclusão da agravante pass ará para patamar não superior a 4 anos, com imposição do regime mais gravoso semiaberto, em atenção à existência da circunstância judicial desfavorável, pelas mesmas razões de decidir contidas neste voto.
+Ante o exposto, voto por negar provimento ao agravo regimental.
