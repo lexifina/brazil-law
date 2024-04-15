@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 85, §14, 833, IV, § 2º, 489, §1º, II, todos do Código de Processo Civil. O acórdão recorrido está retratado na seguinte ementa (fl. 244):
+AGRAVO DE INSTRUMENTO. MANDATOS. FASE DE CUMPRIMENTO DE SENTENÇA. ATOS DE CONSTRIÇÃO. I. OS BENS E VALORES ARRESTADOS NOS AUTOS DA AÇÃO CAUTELAR N. 021/1.14.0009933-3 NÃO SÃO SUFICIENTES PARA GARANTIR AS DIVERSAS DEMANDAS AJUIZADAS CONTRA O CAUSÍDICO DEMANDADO/RECORRIDO. II. ASSIM, PORQUE A EXECUÇÃO SE NORTEIA NO INTERESSE DO CREDOR, COM A SATISFAÇÃO DO DÉBITO, POSSÍVEL A PENHORA DE CRÉDITOS QUE O RECORRIDO POSSUI EM AÇÃO DIVERSA. III. IMPENHORABILIDADE, NÃO IDENTIFICADA. NECESSÁRIA RELATIVIZAÇÃO DA NORMA LEGAL, LEVANDO-SE EM CONSIDERAÇÃO QUE O AGRAVADO, NA CONDIÇÃO DE ADVOGADO, REALIZOU TRANSAÇÃO EM PREJUÍZO DE SEU CLIENTE. NEGARAM PROVIMENTO AO RECURSO. UNÂNIME.
+Sustenta a parte agravante que a ausência de patrimônio penhorável não permite a relativização da impenhorabilidade, pois esta visa a proteger o recorrente e sua família para fins de sustento mínimo.
+Alerta que, na decisão recorrida, ficou muito claro que houve tergiversação do requisito de comprovação de que a penhora afetaria o seu sustento mínimo, exigindo-se que se provasse que existiria outro patrimônio suficiente para pagar a todos, que liberasse os créditos impenhoráveis.
+Assim posta a questão, passo a decidir.
+Inicialmente, com relação à suposta ofensa ao art. 489, §1º, II, do CPC/2015, verifico que não existe ausência de fundamentação na apreciação das questões suscitadas.
+Ademais, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+No que concerne à impenhorabilidade dos honorários advocatícios, o Tribunal entendeu às fls. 242-243 - grifei:
+Como consabido, existem milhares de ações ajuizadas em desfavor do ora recorrente, sendo que os seus bens não são suficientes para o fim de garantir tais ações.
+Nestes termos, devem ser permitidos os atos constritivos levados a efeito em face do ora recorrente, até mesmo porque a execução se norteia no interesse do credor, com a satisfação do débito, sob pena do litígio se manter na perpetuidade.
+Ademais, não se tem certeza acerca da efetividade da ação cautelar nº021/1.14.0009933-3, diante da decisão que extinguiu o aludido feito (pendente de trânsito em julgado).
+Por fim, não se ignora o disposto pelo § 14, art. 85, do Código de Processo Civil e art.24 da Lei 8.906/94, segundo os quais os honorários - sejam contratuais ou sucumbenciais - têm natureza alimentar, com os mesmos privilégios dos créditos oriundos da legislação do trabalho.
+Acontece que ante a peculiaridade do caso em questão, tenho que aludida regra deverá ser relativizada, sob pena do recorrente vir a ser beneficiado de regra que eliminaria o direito da parte contrária - de ser restituída de valores a que tem direito.
+Destarte, levando-se em consideração que o agravante, na condição de advogado, realizou transação em prejuízo de seu cliente (ora agravado) - situação que é repudiada em nosso ordenamento jurídico, tenho que incabível a aplicação da regra do art. 833, IV, do Código de Processo Civil ao caso em tela, sob pena de se estimular tal prática entre aqueles que são mecanismos para a consecução da Justiça em nosso país.
+Com efeito, observo que rever tais conclusões da Corte local demandaria o reexame do acervo fático dos autos, situação vedada pelo óbice da Súmula n. 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiário da J ustiça gratuita.
+Intimem-se.
+EMENTA
