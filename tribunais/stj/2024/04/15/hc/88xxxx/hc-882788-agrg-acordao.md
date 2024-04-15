@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/04/2024 a 15/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CONCESSÃO DE INDULTO. REPRIMENDA REFERENTE A CRIME IMPEDITIVO. RECENTE COMPREENSÃO DA TERCEIRA SEÇÃO. NECESSI DADE DE AVALIAÇÃO INDIVIDUALIZADA DAS CONDENAÇÕES DO APENADO. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Em recente precedente, referente a julgamento ocorrido em 8 de novembro de 2023, a Terceira Seção desta Corte Superior assentou a compreensão de que, " p ara fins do referido decreto, apenas no caso de crime impeditivo cometido em concurso com crime não impeditivo que se exige o cumprimento integral da reprimenda dos delitos da primeira espécie. Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não há de se exigir o cumprimento integral da pena pelos crimes impeditivos" (AgRg no HC n. 856.053/SC, relator Ministro Sebastião Reis Júnior, Terceira Seção, DJe de 14/11/2023.)
+2. Agravo regimental não provido.
+RELATÓRIO
+O MINISTÉRIO PÚBLICO FEDERAL agrava da decisão de fls. 71-73, em que concedi o habeas corpus, a fim de cassar o acordão vergastado e determinar que o Tribunal a quo, em novo julgamento, apreciasse individualmente as condenações do agravado.
+Neste regimental, o Parquet Federal sustenta que para se beneficiar do instituto do indulto previsto no Decreto n. 11.302/2022 deve o apenado ter cumprido integralmente as reprimendas relativas às infrações penais impeditivas.
+Requer a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado, para que seja denegada a ordem.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CONCESSÃO DE INDULTO. REPRIMENDA REFERENTE A CRIME IMPEDITIVO. RECENTE COMPREENSÃO DA TERCEIRA SEÇÃO. NECESSI DADE DE AVALIAÇÃO INDIVIDUALIZADA DAS CONDENAÇÕES DO APENADO. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Em recente precedente, referente a julgamento ocorrido em 8 de novembro de 2023, a Terceira Seção desta Corte Superior assentou a compreensão de que, " p ara fins do referido decreto, apenas no caso de crime impeditivo cometido em concurso com crime não impeditivo que se exige o cumprimento integral da reprimenda dos delitos da primeira espécie. Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não há de se exigir o cumprimento integral da pena pelos crimes impeditivos" (AgRg no HC n. 856.053/SC, relator Ministro Sebastião Reis Júnior, Terceira Seção, DJe de 14/11/2023.)
+2. Agravo regimental não provido.
+VOTO
+Não obstante os esforços perpetrados pelo ora agravante, não constato fundamentos suficientes a infirmar a decisão agravada, cuja conclusão mantenho.
+Conforme já apontado na decisão vergastada, o agravado cumpre pena pela prática dos crimes de porte ilegal de arma de fogo, associação criminosa, roubo e tráfico de drogas. A Corte de origem deu provimento ao agravo em execução interposto pelo Ministério Público estadual a fim de afastar o indulto concedido com fulcro no Decreto n. 11.302/2022.
+Nos termos do parágrafo único do artigo 11 do Decreto n. 11.302.2022, " n ão será concedido indulto natalino correspondente a crime não impeditivo enquanto a pessoa condenada não cumprir a pena pelo crime impeditivo do benefício, na hipótese de haver concurso com os crimes a que se refere o art. 7º, ressalvada a concessão fundamentada no inciso III do caput do art. 1º" (destaquei).
+Consoante entendimento anteriormente encampado pelo Superior Tribunal de Justiça, a leitura de tal excerto conjugada com a do art. 7º, II, do referido decreto, exigiria o integral cumprimento das penas dos crimes de roubo e tráfico de drogas para que se permita o indulto das reprimendas relativas aos crimes não impeditivos.
+Todavia, em recente precedente, referente a julgamento ocorrido em 8 de novembro de 2023, a Terceira Seção desta Corte Superior assentou a seguinte compreensão:
+Para fins do referido decreto, apenas no caso de crime impeditivo cometido em concurso com crime não impeditivo que se exige o cumprimento integral da reprimenda dos delitos da primeira espécie. Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não há de se exigir o cumprimento integral da pena pelos crimes impeditivos.
+(AgRg no HC n. 856.053/SC, Rel. Ministro Sebastião Reis Júnior, 3ª S., DJe de 14/11/2023, grifei)
+No mesmo sentido:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. INDULTO NATALINO. CRIME IMPEDITIVO QUE NÃO FOI COMETIDO NO MESMO CONTEXTO FÁTICO. EXTINÇÃO DA PENA. DESNECESSIDADE. NOVEL ENTENDIMENTO DA TERCEIRA SEÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Para fins do referido decreto, apenas no caso de crime impeditivo cometido em concurso com crime não impeditivo que se exige o cumprimento integral da reprimenda dos delitos da primeira espécie. Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não há de se exigir o cumprimento integral da pena pelos crimes impeditivos" (AgRg no HC n. 856.053/SC, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 8/11/2023, DJe de 14/11/2023).
+2. Agravo regimental d esprovido.
+(AgRg no AgRg no HC n. 859.049/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/12/2023, DJe de 12/12/2023.)neg
+À vista do exposto, nego provimento ao agravo regimental.
