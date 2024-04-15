@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/04/2024 a 15/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. ADESÃO AO PLANO GERAL DE CARREIRAS DO ESTADO. LIMITAÇÃO TEMPORAL DE INCIDÊNCIA DO URV. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. EXAME DE LEGISLAÇÃO LOCAL. NECESSIDADE. SÚMULA 280/STF.
+1. A alteração das premissas adotadas pela Corte de origem demandaria, necessariamente, novo exame do acervo fático- probatório constante dos autos, providência vedada em recurso especial, conforme o Enunciado Sumular 7 do STJ, bem assim exigiria interpretação da legislação local, o que é obstado por esta Corte em virtude da Súmula 280 do STF ("Por ofensa a direito local não cabe recurso extraordinário").
+2. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por Ana Rute Nunes de Araújo contra decisão que negou provimento ao agravo em recurso especial, com base nos seguintes fundamentos: (I) incidência das Súmulas 7/STJ e 280/STF; e (II) pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, § 1º, do CPC, e 255, §§ 1º e 2º, do RISTJ.
+Inconformada, a parte agravante defende (i) a não incidência d a Súmula 280/STF, sustentando que "não se pretende averiguar se houve ofensa a direito ou qualquer norma local. Não se pretende entrar no conteúdo da norma, sua correção ou sua aplicação ao caso, mas tão somente se pretende reconhecer a preclusão da matéria, vez que não foi alegada na fase de conhecimento, momento processual oportuno." (fl. 222); e (ii) a não aplicação do óbice da Súmula 7 do STJ, porquanto "não importa em reexame de fatos e provas a matéria trazida no Recurso Especial, isso porque o que se visa discutir, in casu, é sobre a preclusão da alegação de reestruturação da carreira, matéria estritamente processual, sem debruçar-se sobre eventual adesão ou sobre o conteúdo da lei, mas somente sobre o momento processual oportuno para alegar sua ocorrência. Não se trata de matéria sujeita a reexame de fatos e provas, pois a questão é meramente processual." (fl. 224).
+Transcorreu in albis o prazo para impugnação (fl. 231).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. ADESÃO AO PLANO GERAL DE CARREIRAS DO ESTADO. LIMITAÇÃO TEMPORAL DE INCIDÊNCIA DO URV. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. EXAME DE LEGISLAÇÃO LOCAL. NECESSIDADE. SÚMULA 280/STF.
+1. A alteração das premissas adotadas pela Corte de origem demandaria, necessariamente, novo exame do acervo fático- probatório constante dos autos, providência vedada em recurso especial, conforme o Enunciado Sumular 7 do STJ, bem assim exigiria interpretação da legislação local, o que é obstado por esta Corte em virtude da Súmula 280 do STF ("Por ofensa a direito local não cabe recurso extraordinário").
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos aduzidos no presente recurso, a decisão agravada não merece reparos.
+Consoante anteriormente mencionado, extrai-se da decisão colegiada recorrida a seguinte fundamentação (fls. 212/213):
+No presente caso, após reanálise do decisum recorrido, verifico que a irresignação não merece acolhimento, tendo em vista que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida, que ora submeto ao Colegiado para serem confirmados.
+Com efeito, na decisão ora agravada consignei pontuei na decisão monocrática recorrida que a Lei Estadual nº 9.664/2012, que instituiu o Plano Geral de Carreiras e Cargos dos Servidores da Administração Direta, Autárquica e Fundacional do Poder Executivo Estadual - PGCE, previu em seu art. 36, §§2º e 3º o enquadramento de determinados cargos nas carreiras do Plano, mediante opção irretratável do servidor, com a renúncia às parcelas de valores incorporados ou a incorporar à remuneração por decisão administrativa ou judicial, referentes às perdas decorrentes da conversão de cruzeiro real em URV do ano de 1994, que venceram após o início dos efeitos financeiros da implantação do PGCE.
+Afirmei, nesse ponto, que a Agravante renunciou às parcelas referentes as perdas salariais decorrentes da conversão de cruzeiro real em URV no ano de 1994, em tendo aderido ao PGCE em 01/09/2012, como se denota do documento ID na origem 29681533, pag.11.
+Asseverei que apesar de ausente a juntada do termo, a adesão é inequívoca em razão das alterações salariais promovidas. A adesão ao plano em questão, inclusive, não padece de ilegalidade, já que prevista em lei, não havendo que se falar, pois, em irrenunciabilidade da verba correlata.
+Além disso, não há que se falar em preclusão consumativa ou, ainda, ofensa à segurança jurídica e a coisa julgada, já que a matéria suscitada circunscreve- se à alegação de defesa, fundada em excesso de execução, passível, portanto, de ser alegada em sede de Impugnação à Execução por parte do Agravado Estado do Maranhão, no processo de origem.
+Logo, entendo que inexistem fundamentos hábeis à reforma da decisão que negou provimento monocraticamente ao Agravo de Instrumento, sendo escorreita a decisão então recorrida, proferida pelo juízo a quo, já que a Lei Estadual nº 9.664/2012 promoveu a reestruturação remuneratória da carreira do Agravante, sendo parâmetro para fins de estabelecimento do termo final da incorporação do percentual relativo à perda salarial decorrente da conversão do Cruzeiro Real em URV.
+Esse foi, inclusive, o entendimento firmado, com eficácia vinculante, no Supremo Tribunal Federal, no RE 561836/RN, em sede de repercussão geral.
+Vejamos:
+ ..
+Portanto, mantenho a decisão agravada pelos seus próprios fundamentos.
+Nesse contexto, a alteração das premissas adotadas pela Corte de origem demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o Enunciado Sumular 7 do STJ, e exigiria interpretação da legislação local, o que é obstado por esta Corte em virtude da Súmula 280 do STF ("Por ofensa a direito local não cabe recurso extraordinário").
+Deve, portanto, ser mantido o decisum agravado, por seus próprios fundamentos.
+ANTE O EXPOSTO , nega-se provimento ao agravo interno.
+É o voto.
