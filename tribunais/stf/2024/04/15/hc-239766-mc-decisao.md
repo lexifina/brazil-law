@@ -1,0 +1,35 @@
+DECISÃO
+
+    1. A defesa de Leila Ramos Pereira impetrou habeas corpus, com pedido de medida liminar, contra decisão monocrática de ministro do Superior Tribunal de Justiça.
+
+    2. Tal o contexto, reputo inadmissível o presente habeas corpus.
+
+    Esta Suprema Corte consolidou sua jurisprudência no sentido de não se conhecer de habeas corpus, quando impetrado contra decisão monocrática de ministro de Tribunal Superior, em razão de caracterizar-se inadmissível supressão de instância. Ilustram essa orientação os seguintes acórdãos: HC 158.755 AgR, ministro Dias Toffoli; HC 162.214 AgR, ministro Ricardo Lewandowski; HC 176.297 AgR, ministro Edson Fachin; HC 181.999, ministro Alexandre de Moraes; HC 184.614 AgR, ministro Gilmar Mendes; RHC 114.737, ministra Cármen Lúcia.
+
+    Ainda que superado referido óbice, melhor sorte não socorre a parte impetrante no que toca à pretendida substituição da prisão preventiva imposta à paciente por prisão domiciliar, com a alegação de possuir filhos menores de 12 anos.
+
+    O Supremo Tribunal Federal consolidou sua jurisprudência no sentido da possibilidade de se conceder liberdade provisória ou prisão domiciliar às presas provisórias que estiverem gestantes ou forem mães ou responsáveis por crianças ou pessoas portadores de necessidades especiais, “excetuados os casos de crimes praticados por elas mediante violência ou grave ameaça, contra seus descendentes ou, ainda, em situações excepcionalíssimas, as quais deverão ser devidamente fundamentadas pelos juízes que denegarem o benefício” (HC 143.641, ministro Ricardo Lewandowski).
+
+    Cabe acentuar que o Superior Tribunal de Justiça, ao manter o indeferimento da medida pleiteada, ressaltou o que se segue (eDoc 9, fl. 5):
+
+    Por outro lado, no que concerne ao pleito de imposição de prisão domiciliar à Paciente em virtude de possuir filha menor, que depende dos seus cuidados; tenho que a negativa de substituição da prisão preventiva por domiciliar está devidamente justificada:
+
+    [...]
+
+    Com efeito, verifica-se que foram apreendidas 02 “porções” de crack, com massa de 2.082g, e 02 “porções” de cocaína, pesando 2.050g, no interior da residência em que a Menor A.J.R.P. residia, sendo que a criança estava presente no momento de cumprimento do Mandado de Busca e Apreensão (APFD – fl. 11, doc. 02).
+
+    Ademais, consoante pontuado pela autoridade apontada como coatora (Id 10142235815, PJe), infere-se que A.J.R.P. se encontra sob os cuidados da avó e, a despeito de ter apresentado impactos psicológicos em razão da Prisão Preventiva da genitora, verifica-se que não há riscos concretos à criança. (grifei)
+
+    Em casos similares, esta Excelsa Corte tem validado a não concessão do benefício previsto no art. 318-A do CPP, desde que fundamentada a excepcionalidade. Ilustram esse entendimento os seguintes acórdãos: HC 166.884 AgR, ministro Roberto Barroso; HC 183.614, ministro Marco Aurélio; HC 190.798 AgR, ministra Cármen Lúcia; HC 191.956 AgR, ministro Edson Fachin.
+
+    3. Em face do exposto, nego seguimento ao presente habeas corpus (art. 21, §1º, do RISTF).
+
+    4. Intime-se. Publique-se.
+
+Brasília, 15 de abril de 2024.
+
+Ministro NUNES MARQUES
+
+Relator
+
+Documento assinado digitalmente
