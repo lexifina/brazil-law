@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 09/04/2024 a 15/04/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA PRESTAÇÃO JURISDICIONAL. AUSÊNCIA.
+1. Não há negativa de prestação jurisdicional quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+2. Constata-se que o Tribunal de origem foi expresso ao afastar a alegação de prescrição da pretensão executória fazendária, tecendo considerações acerca do transcurso do prazo prescricional, à luz de precedente vinculante do STJ (REsp 999.901/RS - Tema repetitivo 82).
+3. Não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por RVM EMPREENDIMENTOS IMOBILIÁRIOS LTDA., RVEM PARTICIPAÇÕES LTDA. e KASIL PARTICIPAÇÕES LTDA. contra decisão de minha lavra, em que conheci do agravo em recurso especial para negar provimento ao recurso especial, ante a ausência de vício integrativo no acórdão recorrido (e-STJ fls. 1.996/2.001).
+Sustentam as recorrentes que há vício integrativo no acórdão proferido pelo Tribunal de origem, visto que não foram apreciados os seguintes pontos:
+(1) o acórdão recorrido deu provimento aos embargos de declaração da Fazenda Nacional, concedendo-lhes efeitos infringentes, sem que estivessem presentes as hipóteses legais que autorizam a concessão de tais efeitos aos aclaratórios;
+(2) deixou de apreciar o ponto central da controvérsia, qual seja, "a discussão proposta no agravo de instrumento girava em torno da ocorrência da prescrição porque o despacho citatório não interrompeu o prazo prescricional. Essa conclusão decorre da leitura conjunta do art. 174, parágrafo único, inciso I do CTN, com os §§2º e 3º do art. 219 do CPC/73, que estabelecem que a interrupção da prescrição só se concretiza se o Exequente promover a citação no prazo total de 100 dias" (e-STJ fl. 2.014);
+(3) a aplicação do disposto no REsp 999.901/RS não resolve a controvérsia instalada nos autos, pois a pretensão recursal das recorrentes é no sentido de que o art. 174, quando interpretado em conjunto com o art. 219 do CPC/73, conduz à conclusão de que o efeito interruptivo do despacho citatório somente se concretiza se a citação é realizada no prazo de 100 dias.
+Decorrido o prazo legal, a agravada não apresentou impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA PRESTAÇÃO JURISDICIONAL. AUSÊNCIA.
+1. Não há negativa de prestação jurisdicional quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+2. Constata-se que o Tribunal de origem foi expresso ao afastar a alegação de prescrição da pretensão executória fazendária, tecendo considerações acerca do transcurso do prazo prescricional, à luz de precedente vinculante do STJ (REsp 999.901/RS - Tema repetitivo 82).
+3. Não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+4. Agravo interno desprovido.
+VOTO
+Observa-se que a decisão recorrida não merece reparos.
+O recurso especial origina-se de agravo de instrumento interposto contra decisão que, em sede de execução fiscal, rejeitou exceção de pré-executividade e não reconheceu a prescrição do crédito tributário.
+O Tribunal Regional deu provimento ao recurso para reconhecer a existência de prescrição.
+Os embargos declaratórios opostos pela Fazenda Nacional, no entanto, foram acolhidos, com efeitos infringentes, para negar provimento ao agravo de instrumento nos seguintes termos (e-STJ fls. 1.789/1.790):
+O Sr. Juiz Federal Convocado:
+Primeiramente, a MARCELO GUERRA matéria preliminar ventilada envolve a apreciação do próprio mérito do recurso e, como tal, será enfrentada. Com relação ao termo final da contagem do prazo prescricional, razão assiste à embargante, na medida em que não se observou a legislação vigente à época na qual o despacho que ordenou a citação. Passo a saná-la.
+Relativamente à observação da alteração promovida no artigo 174 do CTN pela LC 118/2005 para fins de interrupção da prescrição, o STJ também já decidiu a controvérsia em sede de recurso representativo, no sentido de que, como norma processual, a referida lei complementar tem aplicação imediata, inclusive às ações em curso, o que deve ser posterior à sua vigência (09/06/2005), sob pena de retroação da nova legislação, é o despacho citatório: (REsp 999901/RS, Rel. Ministro LUIZ FUX,PRIMEIRA SEÇÃO, julgado em 13/05/2009, DJe 10/06/2009).
+Proposta a ação em 04.03.2005 (id 155082873 - Pág. 12), o despacho que ordenou a citação foi proferido no dia 12.07.2005 (id 155082876 - pág. 2). Frise-se que, em primeiro momento, essa interrupção não retroage à data da propositura da ação, nos termos do § 1º do artigo 219 do Código de Processo Civil/73 vigente à época, porquanto a prescrição tributária submete-se à reserva de lei complementar, nos termos do artigo 146, inciso III, b, da CF/88. Nesse sentido: (RE 556664, Relator(a): Min. GILMAR MENDES, Tribunal Pleno, julgado em 12/06/2008, REPERCUSSÃO GERAL -MÉRITO DJe-216 DIVULG 13-11-2008 PUBLIC 14-11-2008 EMENT VOL-02341-10PP-01886). Todavia, , à vista de o juízo não ter recebido a petição inicial in casu a quo dentro do prazo previsto no artigo 189, I, do CPC/73, é de se aplicar o disposto na Súmula 106 do STJ e o marco final será a data da propositura do feito. Logo, não houve transcurso do prazo prescricional preconizado no artigo 174 do CTN.
+Ante o exposto, ACOLHO OS EMBARGOS DE DECLARAÇÃO PARASANAR A OMISSÃO APONTADA E, EM EFEITO INFRINGENTE, NEGOPROVIMENTO AO AGRAVO DE INSTRUMENTO.
+É como voto.
+O executado, então, apresentou recurso integrativo, que foi rejeitado (e-STJ fls. 1.834/1.838).
+Pois bem.
+Conforme registrado na decisão agravada, não há violação dos arts. 489 e 1.022 do CPC quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+Da leitura do excerto do acórdão supracitado, constata-se que o Tribunal de origem foi expresso ao aplicar o disposto no recurso representativo de controvérsia, REsp 999.901/RS, Rel. Min. Luiz Fux, Primeira Seção, julgado em 13/05/2009, DJe 10/06/2009, no tocante à aplicação da prescrição direta, tecendo considerações explícitas sobre o transcurso do prazo, consoante se verifica pelo seguinte trecho do voto (e-STJ fl. 1.789):
+Proposta a ação em 04.03.2005 (id 155082873 - Pág. 12), o despacho que ordenou a citação foi proferido no dia 12.07.2005 (id 155082876 - pág. 2). Frise-se que, em primeiro momento, essa interrupção não retroage à data da propositura da ação, nos termos do § 1º do artigo 219 do Código de Processo Civil/73 vigente à época, porquanto a prescrição tributária submete-se à reserva de lei complementar, nos termos do artigo 146, inciso III, b, da CF/88.(..) Todavia, à vista de o juízo não ter recebido a petição inicial in casu a quo dentro do prazo previsto no artigo 189, I, do CPC/73, é de se aplicar o disposto na Súmula 106 do STJ e o marco final será a data da propositura do feito. Logo, não houve transcurso do prazo prescricional preconizado no artigo 174 do CTN.
+Desse modo, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, consoante entendimento jurisprudencial pacífico, o órgão julgador não está obrigado a se manifestar sobre todos os argumentos levantados pelas partes para expressar a sua convicção, notadamente quando encontrar motivação suficiente ao deslinde da causa. Nesse sentido: AgInt no AREsp 520.705/SC, Relator Ministro Benedito Gonçalves, Primeira Turma, DJe 6/10/2016 e REsp 1.349.293/SP, Relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 14/8/2018.
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não considerar manifestamente inadmissível ou improcedente o presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
