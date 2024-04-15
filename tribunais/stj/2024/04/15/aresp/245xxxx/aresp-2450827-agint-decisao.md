@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interno de BRB BANCO DE BRASILIA SA contra a decisão (fls. 1.324/1.325) que não conheceu do agravo em recurso especial devido à ausência de impugnação de todos os fundamentos da decisão denegatória.
+Em suas razões, a parte agravante defende que refutou especificamente a incidência da Súmula nº 282/STF.
+Sem impugnação, conforme certidão de fl. 1.419.
+É o relatório.
+DECIDO.
+Em virtude dos argumentos expostos pela parte agravante, reconsidera-se a decisão de fls. 1.324/1.325 e passa-se à análise do apelo nobre, haja vista estarem preenchidos os requisitos de admissibilidade do agravo em recurso especial.
+Trata-se de recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, interposto contra o acórdão do Tribunal de Justiça do Estado de Goiás assim ementado:
+"TRIPLA APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. CONTRATAÇÃO DE DIVERSOS EMPRÉSTIMOS CONSIGNADOS. SERVIDORA PÚBLICA ESTADUAL APOSENTADA. LIMITAÇÃO DO PERCENTUAL DO DESCONTO A 15% DA RENDA LÍQUIDA. HONORÁRIOS ADVOCATÍCIOS. CRITÉRIOS DE FIXAÇÃO. SENTENÇA PARCIALMENTE REFORMADA. 1. Nos termos da maciça jurisprudência, bem como do § 5º do artigo 5º da Lei estadual nº16.898/2010, vigente à época da contratação dos empréstimos consignados na folha de pagamento da servidora pública estadual aposentada, os descontos bancários devem se limitar a quinze por cento sobre os rendimentos líquidos da consumidora. 2. Sob a égide do atual Código de Processo Civil, a fixação de honorários advocatícios por apreciação equitativa apenas tem lugar nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, hipóteses que não ocorrem no caso vertente. Desse modo, deve a sentença ser modificada, somente nesse ponto, para fixar os honorários advocatícios em 10% (dez por cento) do valor dado à causa, nos termos do artigo 85, § 2º, do Código de Processo Civil. 3. Corolário do desprovimento recursal, tem-se que devem ser majorados os honorários advocatícios, nos termos do artigo 85, § 11, do diploma processual civil. 4. 1º RECURSO CONHECIDO E PROVIDO. 2º E 3º RECURSOS CONHECIDOS E DESPROVIDOS" (fl. 962).
+Os embargos de declaração opostos foram rejeitados (fl. 995).
+No recurso especial, o recorrente alega violação dos arts. 185, 421, 422 e 427 do Código Civil ao argumento de que houve infringência ao "pacta sunt servanda" e defende a força obrigatória do contrato e a existência de ato jurídico perfeito. Além disso, sustenta devida a inclusão do nome da parte autora nos cadastros de proteção ao crédito.
+Contrarrazões às fls. 1.034/1.041.
+A insurgência não merece prosperar.
+No que se refere à ofensa aos arts. 185, 421, 422 e 427 do Código Civil, verifica-se que as matérias versadas nos dispositivos apontados como violados no recurso especial não foram objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e não foram opostos embargos declaratórios com a finalidade de sanar omissão porventura existente. Por esse motivo, ausente o requisito do prequestionamento, incide, por analogia, o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+A propósito:
+"EMBARGOS DE DECLARAÇÃO CONHECIDO COMO AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ALEGADA VIOLAÇÃO AOS ARTS. 26 E 29 DA LEI 10.931 E 789 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. ATRAÇÃO DO ENUNCIADO 282/STF. EMBARGOS DE DECLARAÇÃO CONHECIDOS COMO AGRAVO INTERNO AO QUAL SE NEGA PROVIMENTO" (EDcl no REsp 1.789.134/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 30/11/2020, DJe de 3/12/2020 - grifou-se).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COMPLEMENTAÇÃO DE BENEFÍCIO PREVIDENCIÁRIO. PREQUESTIONAMENTO. NÃO OCORRÊNCIA. SÚMULA 282/STF. PRESCRIÇÃO QUINQUENAL. ALCANCE DAS PARCELAS VENCIDAS ANTERIORMENTE AO QUINQUÊNIO QUE PRECEDE O AJUIZAMENTO DA AÇÃO.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+2. O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ não merece reforma.
+3. Agravo interno não provido" (AgInt no AREsp 1.097.857/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 10/11/2017 - grifou-se).
+Ademais, quanto à inclusão de nome no cadastro de proteção, a deficiência na fundamentação recursal ficou evidenciada, visto que o recorrente não indicou especificamente quais os artigos de lei federal teriam sido contrariados pelo aresto recorrido, inviabilizando a compreensão da controvérsia posta nos autos.
+Consectariamente, incide a Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Ante o exposto, reconsidero a decisão atacada (fls. 1.324/1.325) e conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento) sobre o valor atualizado da causa, os quais devem ser majorados para o patamar de 14% (quatorze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
