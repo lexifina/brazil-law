@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial interposto, com fulcro no art. 105, III, "a" e "c", da CF/1988, a acórdão assim ementado:
+EMENTA: APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. REVISÃO DOS PROVENTOS DE PENSÃO POR MORTE, COM BASE NA PARIDADE ENTRE ATIVOS E INATIVOS. ARGUIÇÃO DE PRESCRIÇÃO DO FUNDO DE DIREITO. REJEIÇÃO. AUSÊNCIA DE NEGATIVA DO DIREITO RECLAMADO. INEXISTÊNCIA DE ATO OU LEI DE EFEITO CONCRETO SUPRIMINDO A VANTAGEM. RELAÇÃO DE TRATO SUCESSIVO. DIFERENÇAS SALARIAIS DEVIDAS DECORRENTES DA NÃO IMPLANTAÇÃO NO TEMPO DEVIDO DO NOVO PADRÃO REMUNERATÓRIO DO CARGO DE AUDITOR DO TESOURO MUNICIPAL NÍVEL II. SENTENÇA MANTIDA. CONHECIMENTO E DESPROVIMENTO DO RECURSO.
+Em seu Recurso Especial, o agravante aponta violação do art. 1º do Decreto 20.910/1932 e aduz:
+Por conseguinte, elucida-se que este entendimento já resta sedimentado por este Superior Tribunal de Justiça, ao dispor que ocorre prescrição do fundo de direito se decorrido mais de cinco anos entre o ato de aposentadoria e o ajuizamento da ação que pretende a sua modificação.
+Contrarrazões às fls. 197-205, e-STJ.
+O juízo negativo de admissibilidade (fls. 206-208, e-STJ) ensejou a interposição do presente Agravo.
+Contraminuta às fls. 216-220, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 22.3.2024.
+O Agravo não pode ser conhecido, pois o agravante violou o princípio da dialeticidade ao não impugnar, em bases concretas e específicas, fundamento autônomo da decisão agravada - qual seja, de que "o acórdão recorrido está em consonância com a jurisprudência firmada pelo Superior Tribunal de Justiça (STJ), no sentido de que não se opera a prescrição de fundo de direito quando se objetive a revisão dos proventos de aposentadoria com base na paridade entre ativos e inativos. (..) Dessa forma, aplica-se a Súmula 83 do STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida"" (fls. 207-208, e-STJ).
+Competia à parte demonstrar que o entendimento adotado pela Corte local está em descompasso com a orientação do STJ. Para tanto, deveria colacionar precedentes jurisprudenciais, preferencialmente mais atuais, em sentido favorável à tese recursal, o que não aconteceu.
+A propósito:
+(..) No caso em que foi aplicado o enunciado n. 83 do STJ, incumbe à parte, no agravo em recurso especial, pelo menos, apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada. Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos (AgInt no AREsp 1114189/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 13/4/2018).
+(..) A rejeição monocrática do recurso especial com base no referido verbete exige da parte, no agravo interno, o ônus de indicar precedentes contemporâneos ou supervenientes aos referidos no decisum agravado com o fito de demonstrar ser diversa a orientação jurisprudencial do STJ, o que não aconteceu na espécie, mantendo-se deficiente a impugnação (AgInt no AREsp 694.853/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe 18/4/2018).
+O princípio da dialeticidade recursal é um dos esteios estruturais do devido processo legal e reside na imposição à parte do dever de, ao intentar um recurso, externar de maneira clara, objetiva e sistematizada os motivos que alicerçam sua insatisfação quanto à decisão impugnada, com a demonstração das causas pelas quais crê que ela seja passível de reforma.
+A conformidade com a dialeticidade recursal proporciona a racionalização do processo, porquanto evidencia a interposição de recursos meramente procrastinatórios ou destituídos de fundamentação adequada. A clareza e a objetividade, portanto, devem ser os norteadores da exposição recursal e permitir, assim, a apreensão completa e precisa pela parte contrária e pelo juízo ou órgão julgador dos argumentos nela contidos. É imperativo, nesse aspecto, que haja uma sólida e bem esclarecida conexão entre as alegações esposadas e o embasamento jurídico manejado.
+A inobservância do referido princípio conduz à inadmissibilidade do recurso porque inviabiliza o efetivo contraditório, obsta uma análise aprofundada das questões jurídicas relevantes e gera uma situação de incerteza na compreensão das razões jurídicas expostas, o que compromete a eficácia e a imparcialidade do sistema recursal.
+Ademais, nos termos da jurisprudência desta Corte Superior, a impugnação deve ser individualizada e suficientemente demonstrada, e não basta à parte desdizer as palavras do julgamento para assentar a viabilidade do seu apelo.
+A propósito:
+(..) É inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada. Incidência da Súmula 182 do STJ. A jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja específica e suficientemente demonstrada. O novo Código de Processo Civil, por meio do art. 932, reafirmou a jurisprudência desta Corte, ao exigir a impugnação específica, dos fundamentos da decisão agravada (AgInt no AREsp 855.681/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 15/4/2016).
+Ante o exposto, não conheço do Agravo em Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
