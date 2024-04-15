@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão cuja ementa é a seguinte:
+DIREITOS ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO CIVIL POR ATO DE IMPROBIDADE ADMINISTRATIVA. DECRETO DE INDISPONIBILIDADE DE BENS. ART. 7º DA LEI Nº 8.429/1992. IMPENHORABILIDADE DE VERBAS DE NATUREZA SALARIAL E VALORES DEPOSITADOS EM CADERNETA DE POUPANÇA ATÉ 40 SALÁRIOS MÍNIMOS. GARANTIA DA SUBSISTÊNCIA E DA DIGNIDADE DA PESSOA. ART. 833, IV E XDO CPC. GARANTIA DE PAGAMENTO DE EVENTUAL MULTA CIVIL. VALOR AINDA NÃO DEFINIDO. NECESSIDADE DE INSTRUÇÃO PROBATÓRIA E DE FIXAÇÃO DO RESPECTIVO VALOR. PROVIMENTO DO RECURSO.
+Os Embargos de Declaração foram rejeitados (fls. 778-781, e-STJ).
+A parte agravante, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 7º da Lei 8.429/1992, com a redação anterior à Lei 14.230/2021, e 833, X, do CPC. Alega:
+Como se vê, a pretensão deduzida pelo Ministério Público foi rejeitada com base nos novos requisitos estabelecidos pela Lei nº 14.230/2021, tendo a Corte Estadual aplicado retroativamente os efeitos do mencionado diploma legal.
+Entretanto, é importante lembrar que a ação de improbidade administrativa é de natureza civil e, ipso facto, fica submetida ao princípio da irretroatividade da lei, intrinsecamente ligado à segurança jurídica que deve nortear os atos estatais e a conduta dos indivíduos.
+(..)
+Portanto, a ação de improbidade administrativa, por ter natureza civil, deve observar a irretroatividade da lei, de maneira que as disposições da Lei nº 14.230/2021 somente são aplicáveis aos fatos ocorridos após o início de sua vigência.
+(..)
+Consoante se deixou entrever nas linhas transatas, o acórdão recorrido merece ser reformado, porquanto contrariou frontalmente a legislação federal, notadamente o art. 7º da Lei nº 8.429/1992, em sua redação anterior à Lei nº 14.230/2021.
+(..)
+Contudo, verifica-se que o julgado hostilizado deixou de aplicar precedente vinculante do Superior Tribunal de Justiça oriundo do Tema 1055 de Recursos Repetitivos, bem como olvidou que os recursos obtidos ilicitamente pelo demandado e depositados em caderneta de poupança não são protegidos pela impenhorabilidade.
+Sem contraminuta.
+O MPF emitiu parecer assim ementado:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. INDISPONIBILIDADE DE BENS. CADERNETA DE POUPANÇA. RESSALVA DE 40 SALÁRIOS MÍNIMOS. INCLUSÃO DA MULTA CIVIL. TEMA 1055. POSSIBILIDADE. DECRETO DA MEDIDA RESTRITIVA ANTES DA LEI Nº 14.230/21.
+1-O Superior Tribunal de Justiça, ao julgar o Tema 1055, sob a sistemática dos recursos repetitivos, firmou a tese de que é possível incluir o valor de eventual multa civil no decreto de indisponibilidade de bens, bem como é possível a penhora dos ativos disponíveis em caderneta de poupança.
+2 -Com o advento da Lei nº 14.230/21 e, em especial a redação do art. 16, § 10, restou expressa a inadmissibilidade de inclusão do valor de eventual multa civil para determinar o montante de bens a ser bloqueado.
+3 - No entanto, como a medida de indisponibilidade de bens foi decretada antes da entrada em vigor da nova lei, entende-se pela sua irretroatividade. Logo, o recurso especial deve ser provido, para decretar a indisponibilidade de bens, computando-se no montante a ser bloqueado, o valor de multa civil a ser eventualmente aplicada.
+4 - Com relação à medida de constrição sobre a caderneta de poupança, a jurisprudência do Superior Tribunal de Justiça é firme no sentido da impenhorabilidade de valor até 40salários-mínimos poupados ou mantidos pelo devedor em conta-corrente ou em outras aplicações financeiras, ressalvada a comprovação de má-fé, abuso de direito ou fraude, o que não foi revelado (AgInt no AREsp 1512613/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 04/05/2020, DJe 07/05/2020).
+5 - Parecer pelo conhecimento do agravo para dar parcial provimento ao recurso especial.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 12.3.2024.
+Em relação à inclusão do valor da multa civil na medida de indisponibilidade de bens, conquanto tenha clara convicção de que a decisão recorrida vem de encontro à jurisprudência deste Tribunal Superior, firme no sentido da não retroatividade da norma processual que, por força da adoção da teoria dos atos isolados, atinge o processo no estágio em que se encontra (expressão do art. 14 do CPC/2015, não referido pelos julgadores de origem ou pelo recorrente), a esta Corte não é dado conhecer da pretensa infringência do art. 7º da Lei 8.429/1992, com a redação anterior à Lei 14.230/2021, pois não contêm densidade jurídica suficiente à reforma do aresto guerreado, o que torna deficiente a fundamentação recursal.
+O dispositivo referido não refuta, sob qualquer ângulo, o fundamento da impossibilidade de aplicação imediata da norma processual aos fatos que lhe são pretéritos, o que atrai a incidência da Súmula 284 do STF, por analogia. Nessa linha:
+PROCESSUAL CIVIL. ADMINISTRATIVO. VIOLAÇÃO DO ART. 535 DO CPC. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. PROCESSO ADMINISTRATIVO DISCIPLINAR. MILITAR. EXPULSÃO. ART. 1º, II, DA LEI N. 8.906/94. COMANDO GENÉRICO DISSOCIADO DA NULIDADE DO PROCESSO. CERCEAMENTO DE DEFESA. PRODUÇÃO DE PROVA. DESTINATÁRIO. MAGISTRADO. RELEVÂNCIA. SÚMULA 7/STJ. INDEPENDÊNCIA ENTRE ESFERA PENAL E ADMINISTRATIVA. ILÍCITO ADMINISTRATIVO RECONHECIDO. MODIFICAÇÃO. SÚMULA 7/STJ. BENEFÍCIO DA JUSTIÇA GRATUITA. SUSPENSÃO DA EXIGIBILIDADE. DANO MORAL. PRETENSÃO ILÓGICA.
+(..)
+2. É dever da parte apontar especificamente em que consiste a omissão, a contradição ou a obscuridade do julgado, não cabendo ao STJ, em sede de recurso especial, investigar tais máculas no acórdão recorrido, se as razões recursais não se incumbem de tal ônus.Incidência da Súmula 284/STF.
+3. "O art. 1º, II, da Lei 8.906/94, que elenca as atividades de consultoria, assessoria e direção jurídicas, como exclusivas da advocacia, não possui densidade normativa a sustentar a tese segundo a qual, nos processos administrativos disciplinares, instaurados no âmbito da Polícia Militar do Estado de São Paulo, o julgamento, pela autoridade competente, deve ser precedido de parecer, formulado pela Procuradoria do Estado. Precedente: STJ, AgRg no AREsp 336.592/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 06/05/2014)" (AgRg no AREsp 483.083/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 24/03/2015, DJe 07/04/2015). Incidência da Súmula 284/STF.
+(..)
+10. A pretensão do autor na fixação de dano moral litiga contra a própria lógica jurídica, pois conduziria em promover-lhe benefício pecuniário por comportamento revestido de ilicitude e, em contraposição, configuraria a penalização da Administração Pública por agir dentro dos liames da legalidade. Sem amparo jurídico a pretensão, portanto.
+Agravo regimental improvido.(AgRg no REsp n. 1.456.184/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 19/11/2015, DJe de 27/11/2015.)
+Deveria o recorrente ter arguido a violação do art. 14 do CPC, mas, como não fez, resta impedido pronunciamento desta Corte a respeito do eventual equívoco da decisão recorrida.
+Quanto à questão da penhorabilidade dos valores, o Tribunal de origem entendeu que, "sem que tenha havido a cognição exauriente, não é possível concluir que o embargante "agiu de má-fé ao acumular cargos públicos mesmo ciente da ilegalidade" e/ou que "os recursos depositados pelo embargado em caderneta de poupança têm origem ilícita"" (fl. 779, e-STJ).
+Entretanto, esse argumento não foi atacado pela parte recorrente que se limitou a defender que a regra da impenhorabilidade "não prevalece quando o dinheiro tem origem ilícita" (fl. 799, e-STJ). Dessa forma, incide, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
