@@ -1,0 +1,52 @@
+DECISÃO
+Cuida-se de recurso especial interposto por LOTE 01 EMPREENDIMENTOS S.A., com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que julgou demanda relativa a atraso na entrega de bem imóvel.
+O julgado negou provimento ao recurso de apelação do recorrente nos termos da seguinte ementa (fl. 876):
+Compromisso de compra e venda de lote de terreno urbano. Atraso na entrega do imóvel. Abusividade na estipulação de prazo de entrega de forma vaga e com base em cronograma a ser aprovado pela Prefeitura. Entendimento firmado sob a sistemática dos recursos repetitivos, pelo Superior Tribunal de Justiça. Atraso de 9 meses na entrega do imóvel. Cabimento dos lucros cessantes fixados em 0,5% do valor do contrato, cujo termo inicial é a data prevista para entrega, acrescida do prazo de 180 dias. Necessidade de restituir o IPTU cobrado antes da entrega do bem. Danos morais caracterizados. Apelos desprovidos.
+Sem embargos de declaração.
+No presente recurso especial, alega a recorrente que o acórdão estadual contrariou as disposições contidas no art. 18, V, da Lei n. 6.766/1979 e nos arts. 402 e 403 do Código Civil.
+Alega que não houve atraso na entrega do bem, pois a Lei n. 6.766/1979 estabelece prazo de quatro anos para a execução das obras, prazo esse que não se escoou.
+Afirma que não é devido o pagamento de lucros cessantes, visto que não se operou o citado atraso e que não foi comprovado o prejuízo pelo recorrido.
+Defende que (fl. 889):
+ ..  é inconcebível condenar as Recorrentes a qualquer espécie de inadimplemento contratual que pudesse determinar o pagamento de indenização, uma vez que não houve nenhuma irregularidade na conduta das Recorrentes, sendo certo que todos os atos praticados estão de acordo com o estabelecido pela Lei nº 6.766/79 e no cronograma de obras.
+Ainda, defende que, por se tratar de lote sem edificação, não é cabível a condenação por danos materiais e que não pode ser condenada a restituir os valores pagos a título de IPTU, pois seria a única responsável pelo pagamento do tributo.
+Por fim, sustenta a ausência de ato ilícito apto a ensejar o pagamento por danos morais. Indica dissídio jurisprudencial.
+Apresentadas as contrarrazões (fls. 942-955), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 983-986).
+É, no essencial, o relatório.
+Cuida-se, na origem, de ação de indenização movida pelo recorrido, JOÃO CARLOS BEDIM, em desfavor da recorrente, LOTE 01 EMPREENDIMENTOS S.A., em razão do atraso na entrega do bem.
+O Tribunal estadual condenou a recorrente ao pagamento de lucros cessantes em razão do atraso, bem como à restituição dos valores pagos a título de IPTU e condenação por danos morais.
+Com relação ao atraso na entrega, a instância ordinária assim decidiu:
+Nesse contexto, a ausência de prazo certo para entrega da obra viola os princípios da boa-fé, transparência e informação, consagrados na legislação consumerista, já que o prazo previsto no artigo 18 da Lei n. 6.766/79 vincula apenas o empreendedor.
+Logo, deve ser adotado o prazo de 30 meses a contar da assinatura do contrato, acrescido do prazo de tolerância de 180 dias, que terminou em 04/09/2016. Ora, tendo o imóvel sido entregue ao autor em 27/06/2017, ou seja, 9 meses depois da data acordada, resta patente a responsabilidade das rés pelo pagamento das indenizações pleiteadas nesta demanda.
+Depreende-se do trecho supratranscrito que o Tribunal a quo concluiu ser a relação entre as partes de consumo e, sendo assim, não há que se aplicar a lei do parcelamento do solo urbano e, sim, o CDC. Portanto, concluiu que houve o descumprimento do contrato pela vendedora, em violação do Código dos consumidores. Dessarte, a alteração do julgado, no presente caso, exigiria o revolvimento de fatos e provas, conduta vedada no âmbito do recurso especial, em razão da Súmula n. 7/STJ.
+Ademais, não incide, na hipótese, a Lei n. 6.766/1979, uma vez que esta dispõe sobre o parcelamento do solo urbano, cujas obrigações devem ser cumpridas e comprovadas pelas empresas apeladas perante o município.
+O prazo de 4 anos previsto no art. 18, V, da referida lei, nada tem a ver com a relação jurídica travada entre as partes, assim não serve de fundamento legal para justificar o atraso na entrega da obra, conforme previsão contratual (AREsp n. 2.252.822, Ministro Ricardo Villas Bôas Cueva, DJe de 24/11/2023).
+Quanto à condenação ao pagamento de lucros cessantes, o acórdão não merece reforma, pois adotou o entendimento consagrado nesta Corte Superior, qual seja:
+ ..  a jurisprudência desta Corte Superior é pacífica no sentido de que uma vez descumprido o prazo para a entrega do imóvel, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento dos lucros cessantes. E este entendimento vem sendo aplicado, também, aos casos de aquisição de lote não edificado.
+A propósito, cito a ementa do julgado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL INTERPOSTO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA CUMULADA COM OBRIGAÇÃO DE FAZER. COMPRA E VENDA DE LOTE DE TERRENO. ATRASO NA ENTREGA DAS OBRAS DE INFRAESTRUTURA DO LOTEAMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência desta Corte é firme no sentido de que, uma vez descumprido o prazo para a entrega do imóvel, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento dos lucros cessantes. E este entendimento vem sendo aplicado, também, aos casos de aquisição de lote não edificado. Incidência da Súmula nº 83 do STJ.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.839.851/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. No caso de descumprimento do prazo para a entrega do imóvel, incluído o período de tolerância, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento de indenização, na forma de aluguel mensal, com base no valor locatício de imóvel assemelhado, com termo final na data da disponibilização da posse direta ao adquirente da unidade autônoma.
+Precedentes.
+2. A concessão de indenização pelos lucros cessantes decorrentes da demora na entrega do imóvel, exclui a possibilidade de percepção de danos emergentes pelo mesmo fato. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.081.071/PA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+Quanto às despesas de IPTU, a jurisprudência desta Corte aduz que é de responsabilidade da construtora até a entrega do imóvel ao adquirente. Isso porque, apesar de o IPTU ter como fato gerador a propriedade, o domínio útil ou a posse do imóvel (CTN, art. 32), se os recorridos não deram causa para o não recebimento do imóvel, não podem ser obrigados a pagar as despesas condominiais nem o citado imposto referente ao período em que não haviam sido imitidos na posse (AgInt no REsp n. 1.975.034/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 25/9/2023, DJe de 27/9/2023).
+Portanto, no presente caso, deve-se manter a condenação a restituição dos valores pagos a título de IPTU pelo recorrido.
+Por fim, quanto ao dano moral, a Corte de origem condenou a recorrente ao pagamento de indenização por danos morais, considerando a particularidade da excessiva demora na entrega do imóvel em relação ao prazo contratualmente estipulado. A jurisprudência do Superior Tribunal de Justiça é no sentido de que o atraso expressivo, como ocorrido no caso em estudo, extrapola o mero inadimplemento contratual, sendo passível de indenização por danos morais (AgInt nos EDcl no REsp n. 2.045.785/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 26/2/2024, DJe de 28/2/2024).
+A Corte local, considerando as peculiaridades do caso concreto, reputou adequada a indenização por danos morais no montante de R$ 10.000,00 (dez mil reais), quantia que não se afigura irrisória ou exorbitante, o que torna inviável o apelo especial, nos termos do enunciado 7 da Súmula do Superior Tribunal de Justiça.
+Nesse sentido, cito:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DA OBRA. VIOLAÇÃO AOS ARTS 489 E 1.022 DO NCPC. NÃO OCORRÊNCIA. REALIZAÇÃO DO LEILÃO DA UNIDADE. AFASTAMENTO DO DIREITO DOS ADQUIRENTES DE RECEBEREM OS VALORES PAGOS. IMPOSSIBILIDADE. SÚMULA N.º 83 DO STJ. OCORRÊNCIA DE SITUAÇÃO EXCEPCIONAL QUE DEMONSTROU A EXISTÊNCIA DO DANO MORAL VINDICADO. SÚMULA N.º 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Os aclaratórios são espécie de recurso de fundamentação vinculada, exigindo para seu conhecimento a indicação de erro material, obscuridade, contradição ou omissão em que teria incorrido o julgador (arts. 489 e 1.022 do NCPC), não se prestando ao rejulgamento do que foi decidido.
+2. Segundo a jurisprudência desta Corte Superior, a realização de leilão extrajudicial do bem não isenta a empresa de restituir, total ou parcialmente, os valores pagos pelos compradores, a depender de quem deu causa à rescisão contratual, nos termos da Súmula n.º 543 do STJ.
+3. No caso, a fixação da indenização por danos morais decorreu de situação excepcional que configurou ofensa ao direito da personalidade do promitente-comprador, extrapolando a esfera do mero inadimplemento contratual, não podendo a questão ser revista nesta via excepcional, ante a incidência da Súmula n.º 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.402.071/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 27/11/2023, DJe de 29/11/2023.)
+Ante o exposto, conheço em parte do recurso especial para, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados pelo Tribunal de origem para 15% sobre o valor atualizado da condenação, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
